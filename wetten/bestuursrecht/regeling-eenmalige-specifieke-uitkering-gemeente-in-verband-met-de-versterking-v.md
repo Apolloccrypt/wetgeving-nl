@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Ministerie van Justitie en Veiligheid van 5 november 2019, nr. 2736901, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2020"
+citeertitel: "Regeling eenmalige specifieke uitkering Gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme"
 identifier: "BWBR0042852"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-08"
-last_updated: "2019-12-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042852"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15263363"
-version_id: "26289072"
-internal_id: "C37366861"
-label_id: "15209434"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042852/2019-12-08/0"
-intitule_bron: "Stcrt.2019-65860"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-05"
-intitule_published: "2019-12-06"
-intitule_in_force: "2019-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-65860"
-original_signed_date: "2019-11-05"
-original_published_date: "2019-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-65860"
-entry_into_force_date: "2019-12-08"
-jci_1_3: "jci1.3:c:BWBR0042852&z=2019-12-08&g=2019-12-08"
-jci_1_0: "1.0:c:BWBR0042852&g=2019-12-08"
-citeertitel_status: "officieel"
-short_title: "Regeling eenmalige specifieke uitkering Gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme"
-signed_date: "2019-11-05"
-entry_into_force: "2019-12-08"
+publicatiedatum: 2019-12-08
+laatste_update: 2019-12-08
+status: geldig
+toestand: 2019-12-08
+bron: "https://wetten.overheid.nl/BWBR0042852"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Ministerie van Justitie en Veiligheid van 5 november 2019, nr. 2736901, houdende een eenmalige specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2020
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** de Minister van Justitie en Veiligheid;
+- – *minister:* de Minister van Justitie en Veiligheid;
 
-- –. **hoofdaanvrager:** de gemeente die mede namens andere gemeenten in zijn regio een aanvraag indient.
+- – *hoofdaanvrager:* de gemeente die mede namens andere gemeenten in zijn regio een aanvraag indient.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -110,11 +84,11 @@ De deskundigheidsbevordering bedoeld in [artikel 3, onder d](https://wetten.over
 
 ##### Artikel 7. Hoogte specifieke uitkering
 
-1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-12-08) bedraagt maximaal € 7.000.000,00.
+1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042852&artikel=2&z=2019-12-08&g=2019-12-08) bedraagt maximaal € 7.000.000,00.
 
 2. Op de aanvraag wordt positief beslist indien uit het ingediende plan en de daarbij behorende begroting blijkt dat de aanpak van radicalisering, extremisme en terrorisme in de gemeente of de regio van de hoofdaanvrager noodzakelijk is.
 
-3. In afwijking van het tweede lid wordt op een aanvraag die geheel of gedeeltelijk betrekking heeft op een activiteit waarvoor € 100.000,00 of meer wordt aangevraagd voor wat deze activiteit betreft slechts positief beslist, indien de gemeente of hoofdaanvrager bereid is met betrekking tot deze activiteit een gedegen door een onafhankelijke organisatie opgestelde effectevaluatie uit te laten voeren.
+3. In afwijking van het tweede lid wordt op een aanvraag die geheel of gedeeltelijk betrekking heeft op een activiteit waarvoor € 100.000,00 of meer wordt aangevraagd voor wat deze activiteit betreft slechts positief beslist, indien de gemeente of hoofdaanvrager bereid is met betrekking tot deze activiteit een gedegen door een onafhankelijke organisatie opgestelde effectevaluatie uit te laten voeren.
 
 4. Bij de beoordeling van de aanvraag om een specifieke uitkering houdt de minister rekening met de behoeften, de dreiging en de weerbaarheid van de gemeente of de regio waarbinnen de gemeente ligt.
 
@@ -162,6 +136,4 @@ De minister kan onverschuldigd uitgekeerde bedragen terugvorderen.
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 november 2019.
-
-Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering Gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 november 2019.

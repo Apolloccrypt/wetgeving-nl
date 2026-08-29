@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 maart 2020, nr. WJZ/ 20041948, houdende eenmalige specifieke uitkeringen in verband met de uitvoering van Regio Deals derde tranche (Regeling specifieke uitkering Regio Deals derde tranche)"
+citeertitel: "Regeling specifieke uitkering Regio Deals derde tranche"
 identifier: "BWBR0043272"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-17"
-last_updated: "2020-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043272"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15364583"
-version_id: "26561632"
-internal_id: "C37691431"
-label_id: "15309394"
-dtd_version: "2.0"
-original_entry_into_force: "2020-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043272/2020-03-17/0"
-intitule_bron: "Stcrt.2020-14351"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-05"
-intitule_published: "2020-03-16"
-intitule_in_force: "2020-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-14351"
-original_signed_date: "2020-03-05"
-original_published_date: "2020-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-14351"
-entry_into_force_date: "2020-03-17"
-jci_1_3: "jci1.3:c:BWBR0043272&z=2020-03-17&g=2020-03-17"
-jci_1_0: "1.0:c:BWBR0043272&g=2020-03-17"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering Regio Deals derde tranche"
-signed_date: "2020-03-05"
-entry_into_force: "2020-03-17"
+publicatiedatum: 2020-03-17
+laatste_update: 2020-03-17
+status: geldig
+toestand: 2020-03-17
+bron: "https://wetten.overheid.nl/BWBR0043272"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 maart 2020, nr. WJZ/ 20041948, houdende eenmalige specifieke uitkeringen in verband met de uitvoering van Regio Deals derde tranche (Regeling specifieke uitkering Regio Deals derde tranche)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Landbouw, Natuur en Voedselkwaliteit;
+- *minister:* Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **Regio Deal:** convenant dat in elk geval door de minister en een of meer regiopartners wordt of is gesloten naar aanleiding van een voorstel dat door de minister is geselecteerd voor het vervolgtraject om te komen tot een Regio Deal als bedoeld in de Uitnodiging aanmelding voorstellen voor derde tranche Regio Deals (Stcrt. 2019, 50049);
+- *Regio Deal:* convenant dat in elk geval door de minister en een of meer regiopartners wordt of is gesloten naar aanleiding van een voorstel dat door de minister is geselecteerd voor het vervolgtraject om te komen tot een Regio Deal als bedoeld in de Uitnodiging aanmelding voorstellen voor derde tranche Regio Deals (Stcrt. 2019, 50049);
 
-- **regiokassier:** regiopartner die de taak van kassier op grond van een Regio Deal vervult of zal vervullen;
+- *regiokassier:* regiopartner die de taak van kassier op grond van een Regio Deal vervult of zal vervullen;
 
-- **regiopartner:** provincie, gemeente, openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), waterschap of bestuursorganen daarvan, die partij zijn of zullen worden bij een Regio Deal;
+- *regiopartner:* provincie, gemeente, openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), waterschap of bestuursorganen daarvan, die partij zijn of zullen worden bij een Regio Deal;
 
-- **regionale publieke cofinanciering:** voor de uitvoeringsactiviteiten beschikbaar gestelde financiële bijdragen door een regiopartner of een ander bestuursorgaan of een andere publieke rechtspersoon, voor zover een regiopartner daarover kan beschikken, niet zijnde de bijdrage van de minister voor de uitvoeringsactiviteiten;
+- *regionale publieke cofinanciering:* voor de uitvoeringsactiviteiten beschikbaar gestelde financiële bijdragen door een regiopartner of een ander bestuursorgaan of een andere publieke rechtspersoon, voor zover een regiopartner daarover kan beschikken, niet zijnde de bijdrage van de minister voor de uitvoeringsactiviteiten;
 
-- **uitvoeringsactiviteiten:** activiteiten in het kader van de ambitie, het doel, de aanpak of de beoogde resultaten zoals opgenomen in een Regio Deal waarvoor een of meerdere regiopartners financiële verplichtingen aangaan, middelen beschikbaar stellen of waarvoor een of meerdere regiopartners kosten maken ten behoeve van voorbereiding, administratie en toezicht.
+- *uitvoeringsactiviteiten:* activiteiten in het kader van de ambitie, het doel, de aanpak of de beoogde resultaten zoals opgenomen in een Regio Deal waarvoor een of meerdere regiopartners financiële verplichtingen aangaan, middelen beschikbaar stellen of waarvoor een of meerdere regiopartners kosten maken ten behoeve van voorbereiding, administratie en toezicht.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -70,7 +44,7 @@ De minister verleent de specifieke uitkering binnen twaalf weken na het sluiten 
 
 ##### Artikel 5. Voorwaarden voor de uitkering
 
-1. Een specifieke uitkering wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode van 1 mei 2020 tot en met 15 september 2020.
+1. Een specifieke uitkering wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode van 1 mei 2020 tot en met 15 september 2020.
 
 2. Er wordt per gesloten Regio Deal één specifieke uitkering verstrekt.
 
@@ -113,5 +87,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Regio Deals derde tranche.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

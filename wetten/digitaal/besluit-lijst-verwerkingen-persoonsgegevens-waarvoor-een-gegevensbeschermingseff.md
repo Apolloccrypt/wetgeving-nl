@@ -1,39 +1,17 @@
 ---
 title: "Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
+citeertitel: "Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
 identifier: "BWBR0042812"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-11-27"
-last_updated: "2019-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042812"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "15257563"
-version_id: "26278142"
-internal_id: "C37344681"
-label_id: "15204124"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042812/2019-11-27/0"
-intitule_bron: "Stcrt.2019-64418"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-19"
-intitule_published: "2019-11-27"
-intitule_in_force: "2019-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-64418"
-original_signed_date: "2019-11-19"
-original_published_date: "2019-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-64418"
-entry_into_force_date: "2019-11-27"
-jci_1_3: "jci1.3:c:BWBR0042812&z=2019-11-27&g=2019-11-27"
-jci_1_0: "1.0:c:BWBR0042812&g=2019-11-27"
-citeertitel_status: "redactioneel"
-short_title: "Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
-signed_date: "2019-11-19"
-entry_into_force: "2019-11-27"
+publicatiedatum: 2019-11-27
+laatste_update: 2019-11-27
+status: geldig
+toestand: 2019-11-27
+bron: "https://wetten.overheid.nl/BWBR0042812"
+opgehaald: 2026-08-29
 ---
+
 # Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens
 
 Besluit
@@ -42,11 +20,29 @@ De Autoriteit Persoonsgegevens,
 
 gelet op artikel 35, vierde lid, in samenhang bezien met artikel 57, eerste lid, onder k, van de Algemene verordening gegevensbescherming;
 
-gezien de “Richtsnoeren voor gegevensbeschermingseffectbeoordelingen en bepaling of een verwerking “waarschijnlijk een hoog risico inhoudt” in de zin van [Verordening 2016/679](32579R2016)” d.d. 4 april 2017, laatstelijk gewijzigd en vastgesteld op 4 oktober 2017, van de European Data Protection Board (hierna: de Richtsnoeren);
+gezien de “Richtsnoeren voor gegevensbeschermingseffectbeoordelingen en bepaling of een verwerking “waarschijnlijk een hoog risico inhoudt” in de zin van Verordening 2016/679” d.d. 4 april 2017, laatstelijk gewijzigd en vastgesteld op 4 oktober 2017, van de European Data Protection Board (hierna: de Richtsnoeren);
 
-**overwegende:**
+*overwegende:*
 
 dat in de Richtsnoeren negen criteria zijn vermeld die in aanmerking moeten worden genomen bij de beoordeling of een gegevensbeschermingseffectbeoordeling (DPIA) moet worden uitgevoerd, te weten in het geval dat sprake is van:
+
+- 1. Evaluatie of scoretoekenning
+
+- 2. Geautomatiseerde besluitvorming met rechtsgevolg of vergelijkbaar wezenlijk gevolg
+
+- 3. Stelselmatige monitoring
+
+- 4. Gevoelige gegevens of gegevens van zeer persoonlijke aard
+
+- 5. Op grote schaal verwerkte gegevens
+
+- 6. Matching of samenvoeging van datasets
+
+- 7. Gegevens met betrekking tot kwetsbare betrokkenen
+
+- 8. Innovatief gebruik of innovatieve toepassing van nieuwe technologische of organisatorische oplossingen
+
+- 9. de situatie waarin als gevolg van de verwerking zelf "betrokkenen [...] een recht niet kunnen uitoefenen of geen beroep kunnen doen op een dienst of een overeenkomst";
 
 dat voor alle soorten verwerkingen van persoonsgegevens die op de lijst staan, is aangegeven welk criterium uit de Richtsnoeren in aanmerking is genomen;
 
@@ -60,7 +56,7 @@ dat de Autoriteit Persoonsgegevens op grond van artikel 35, zesde lid, van de Al
 
 dat dit coherentiemechanisme heeft geleid tot toevoeging van een extra categorie van verwerkingen van persoonsgegevens, te weten biometrische gegevens, alsmede tot enkele tekstuele wijzigingen;
 
-**stelt vast**
+*stelt vast*
 
 dat voor de volgende verwerkingen van persoonsgegevens een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is:
 

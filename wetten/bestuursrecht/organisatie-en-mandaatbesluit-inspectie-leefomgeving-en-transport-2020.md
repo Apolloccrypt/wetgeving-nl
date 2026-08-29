@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de inspecteur-generaal Leefomgeving en Transport, van 12 maart 2020, nr. ILT-2020/2848, houdende inrichting van de Inspectie Leefomgeving en Transport en verlening van mandaat, volmacht en machtiging (Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020)"
+citeertitel: "Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020"
 identifier: "BWBR0043289"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-31"
-last_updated: "2025-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043289"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15373613"
-version_id: "26574722"
-internal_id: "C37710111"
-label_id: "15318434"
-dtd_version: "2.0"
-original_entry_into_force: "2020-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043289/2025-05-31/0"
-intitule_bron: "Stcrt.2020-16813"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-12"
-intitule_published: "2020-03-19"
-intitule_in_force: "2020-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-16813"
-original_signed_date: "2020-03-12"
-original_published_date: "2020-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-16813"
-entry_into_force_date: "2020-03-20"
-jci_1_3: "jci1.3:c:BWBR0043289&z=2025-05-31&g=2025-05-31"
-jci_1_0: "1.0:c:BWBR0043289&g=2025-05-31"
-citeertitel_status: "officieel"
-short_title: "Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020"
-signed_date: "2020-03-12"
-entry_into_force: "2020-03-20"
+publicatiedatum: 2020-03-20
+laatste_update: 2025-05-31
+status: geldig
+toestand: 2025-05-31
+bron: "https://wetten.overheid.nl/BWBR0043289"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de inspecteur-generaal Leefomgeving en Transport, van 12 maart 2020, nr. ILT-2020/2848, houdende inrichting van de Inspectie Leefomgeving en Transport en verlening van mandaat, volmacht en machtiging (Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020)
-
-Gelet op [artikel 21, tweede lid, aanhef en onder a en b, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=21), [artikel 1, vierde lid, van het Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032&artikel=1), [artikel 8, eerste en tweede lid, van het Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036749&artikel=8)en de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-BESLUIT:
 
 #### Paragraaf 1. Algemene bepalingen organisatie en mandaat
 
@@ -46,21 +20,21 @@ BESLUIT:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aan de inspecteur-generaal gemandateerde bevoegdheden:** aan de inspecteur-generaal krachtens [artikel 27, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=27) gemandateerde bevoegdheden;
+- – *aan de inspecteur-generaal gemandateerde bevoegdheden:* aan de inspecteur-generaal krachtens [artikel 27, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=27) gemandateerde bevoegdheden;
 
-- –. **directeuren:** de directeur Informatiepositie en programmeren, de directeur Omgeving en dienstverlening en vergunningen, de directeur Toezicht en opsporing tevens coördinerend directeur ILT-Luchtvaartautoriteit, de directeur Publieke instituties en control en de directeur Autoriteit woningcorporatie, zijnde dienstonderdeelhoofden als bedoeld in [artikel 1 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=1);
+- – *directeuren:* de directeur Informatiepositie en programmeren, de directeur Omgeving en dienstverlening en vergunningen, de directeur Toezicht en opsporing tevens coördinerend directeur ILT-Luchtvaartautoriteit, de directeur Publieke instituties en control en de directeur Autoriteit woningcorporatie, zijnde dienstonderdeelhoofden als bedoeld in [artikel 1 van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=1);
 
-- −. **IG-team:** de inspecteur-generaal en de directeuren;
+- − *IG-team:* de inspecteur-generaal en de directeuren;
 
-- –. **ILT-Luchtvaartautoriteit:** alle onderdelen van de portefeuilles, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2025-05-31&g=2025-05-31), die belast zijn met de taken bedoeld in [artikel 22, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22), voorzover het luchtvaart betreft, [en vijfde lid, onderdeel c, van het Organisatie en Mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22) onder de coördinatie van de coördinerende directeur ILT-Luchtvaartautoriteit;
+- – *ILT-Luchtvaartautoriteit:* alle onderdelen van de portefeuilles, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2025-05-31&g=2025-05-31), die belast zijn met de taken bedoeld in [artikel 22, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22), voorzover het luchtvaart betreft, [en vijfde lid, onderdeel c, van het Organisatie en Mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22) onder de coördinatie van de coördinerende directeur ILT-Luchtvaartautoriteit;
 
-- –. **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 22, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22);
+- – *inspecteur-generaal:* inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 22, eerste lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22);
 
-- −. **inspecteur ILT:** strategisch inspecteur, coördinerend/specialistisch inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de Inspectie Leefomgeving en Transport;
+- − *inspecteur ILT:* strategisch inspecteur, coördinerend/specialistisch inspecteur, senior inspecteur en inspecteur/medewerker toezicht van de Inspectie Leefomgeving en Transport;
 
-- −. **portefeuille:** het totaal aan verantwoordelijkheid van een directeur voor afdelingen, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten;
+- − *portefeuille:* het totaal aan verantwoordelijkheid van een directeur voor afdelingen, gecombineerd met diens functionele verantwoordelijkheid voor programma’s of projecten;
 
-- −. **programmamanager:** functionaris belast met de leiding van een tijdelijk samenstel van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen.
+- − *programmamanager:* functionaris belast met de leiding van een tijdelijk samenstel van activiteiten en projecten die zijn gericht op het bereiken van een of meer samenhangende doelstellingen.
 
 #### Paragraaf 2. Organisatie
 
@@ -78,9 +52,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De teams staan onder leiding van een teamleider.
 
-5. De Inspectie Leefomgeving en Transport is ingedeeld volgens de structuur, bedoeld in de bijlage bij dit besluit.
+5. De Inspectie Leefomgeving en Transport is ingedeeld volgens de structuur, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0043289) bij dit besluit.
 
-6. In afwijking van de bijlage bij dit besluit kan de inspecteur-generaal elk van de directeuren schriftelijk belasten met andere taken en verantwoordelijkheden naast de verantwoordelijkheden voor de eigen portefeuille.
+6. In afwijking van de [bijlage](https://wetten.overheid.nl/BWBR0043289) bij dit besluit kan de inspecteur-generaal elk van de directeuren schriftelijk belasten met andere taken en verantwoordelijkheden naast de verantwoordelijkheden voor de eigen portefeuille.
 
 ##### Artikel 3. Plaatsvervanging
 
@@ -216,272 +190,8 @@ Het [Organisatie- en mandaatbesluit Tijdelijke werkorganisatie Inspectie Leefomg
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020.
-
-## Bijlage. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043289&paragraaf=2&artikel=2&z=2025-05-31&g=2025-05-31) van het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2020
-
-**Inspecteur-generaal**
-
-- •. Afdeling Bureau IG-team
-
-**Informatie en programmeren**
-
-- •. Afdeling Strategische producten en kennis
-
-- •. Afdeling Doorontwikkeling en Effect
-
-- •. Afdeling Data en Analyse
-
-- •. Team Analyse 1
-
-- •. Team Analyse 2
-
-- •. Team Informatie-Programmering
-
-- •. Team Inspectieview
-
-- •. Team Data
-
-- •. Afdeling Analyse 1
-
-- •. Afdeling Analyse 2
-
-- •. Afdeling Innovatie- en data lab
-
-- •. Afdeling ICT
-
-- •. Team IV strategie en sturing
-
-- •. Team IV realisatie
-
-- •. Team ICT-beheer
-
-- •. Team ICT-ontwikkeling
-
-- •. Team ICT-programmering
-
-- •. CIO-office
-
-**Omgeving, Dienstverlening en Vergunningen**
-
-- •. Afdeling Communicatie en Dienstverlening
-
-- •. Team Communicatie en Advies
-
-- •. Team Redactie en support
-
-- •. ILT-loket Leefomgeving en Rail
-
-- •. Team ILT-loket Eerstelijns Dienstverlening
-
-- •. Team ILT-loket Tweedelijns Dienstverlening
-
-- •. ILT-loket Luchtvaart
-
-- •. ILT-loket Marieteam
-
-- •. Afdeling Bestuursadvies en Internationale Samenwerking (Transport)
-
-- •. Afdeling Bestuursadvies en Internationale Samenwerking (Leefomgeving)
-
-- •. Afdeling Netwerken Leefomgeving en Wonen
-
-- •. Team Verbindingsbureau
-
-- •. Afdeling Vergunningverlening Rail en Luchtvaart
-
-- •. Team Rail Bedrijven
-
-- •. Team Luchtvaart Operaties en Vliegscholen
-
-- •. Team Rail Infra en Spoorvoertuigen
-
-- •. Afdeling Vergunningverlening Leefomgeving en Maritiem
-
-- •. Team Leefomgeving Afvalstoffen 1
-
-- •. Team Leefomgeving Afvalstoffen 2
-
-- •. Team Leefomgeving Bedrijven, Infra en Stoffen
-
-- •. Team Certificering Binnenvaart en Scheepsmetingen
-
-- •. Team Visserij en Erkenningen
-
-- •. Team Certificering Koopvaardij en Bemanningszaken
-
-**Toezicht en Opsporing**
-
-- •. Afdeling Cybersecurity
-
-- •. Afdeling Inlichtingen- en Opsporingsdienst ILT
-
-- •. Team Opsporing 1
-
-- •. Team Opsporing 2
-
-- •. Team Opsporing 3
-
-- •. Team Expertise
-
-- •. Team Criminele Inlichtingen
-
-- •. Team Opsporing 4
-
-- •. Team Intelligence
-
-- •. Team Informatie, Data en Analyse
-
-- •. Afdeling Programmamanagement
-
-- •. Team Ondersteuning Toezicht en Programma’s
-
-- •. Team Projectmanagement
-
-- •. Team Onderzoek Toezicht
-
-- •. Afdeling Toezicht Risicovolle Stoffen
-
-- •. Team Biologische risico’s
-
-- •. Team Chemische risico’s
-
-- •. Team Risicobedrijven
-
-- •. Team Gevaarlijke Stoffen Binnenvaart en Spoor
-
-- •. Team Gevaarlijke Stoffen Wegvervoer en Erkende Instanties
-
-- •. Team Gevaarlijke Stoffen Lucht- en Zeevaart
-
-- •. Team Meet- en Monstername en Toezichtinnovatie
-
-- •. Afdeling Toezicht Marktordening
-
-- •. Team Digitale- en bedrijfsinspecties 1
-
-- •. Team Digitale- en bedrijfsinspecties 2
-
-- •. Team Goederenvervoer weg
-
-- •. Team Personenvervoer weg
-
-- •. Team Producttoezicht 1
-
-- •. Team Producttoezicht 2
-
-- •. Team Producttoezicht 3
-
-- •. Team Producttoezicht 4
-
-- •. Team Specialistische handhaving
-
-- •. Team Wegvervoer
-
-- •. Afdeling Toezicht Milieu
-
-- •. Team Afval circulaire economie 1
-
-- •. Team Afval circulaire economie 2
-
-- •. Team Broeikasgassen en Brandstoffen
-
-- •. Team Bodem en Bouwstoffen 1
-
-- •. Team Bodem en Bouwstoffen 2
-
-- •. Team Geluid en Luchtkwaliteit Transport
-
-- •. Afdeling Toezicht Rail en Maritiem
-
-- •. Team Ongevallenonderzoek Scheepvaart en Administratieve controles
-
-- •. Team Maritiem Nationaal
-
-- •. Team Maritiem Internationaal Havenstaat
-
-- •. Team Maritiem Internationaal Ongevallen Onderzoek
-
-- •. Team Internationaal Vlaggenstaat
-
-- •. Team Rail 1
-
-- •. Team Rail 2
-
-- •. Afdeling Toezicht Luchtvaart
-
-- •. Bureau Luchtvaartautoriteit
-
-- •. Team Luchthavens
-
-- •. Team Vliegtuigbemanning en Vluchtuitvoering
-
-- •. Team Luchtvaart Specifiek
-
-- •. Team Luchtvaart Techniek 1
-
-- •. Team Luchtvaart Techniek 2
-
-- •. Team Luchtruim
-
-**Publieke instituties en control**
-
-- •. Afdeling Toezicht Publieke Instellingen
-
-- •. Team Bedrijven
-
-- •. Team Infrastructuur
-
-- •. Team Instituties
-
-- •. Team Toezicht certificerende en erkende instellingen
-
-- •. Team Besturingstoezicht
-
-- •. Afdeling Juridische zaken
-
-- •. Team Juridische advisering duurzaamheid en wonen
-
-- •. Team juridische advisering veiligheid
-
-- •. Team Bezwaar en beroep
-
-- •. Team Bestuurlijke boete
-
-- •. Team Open Overheid en Privacy
-
-- •. Afdeling Control en Advies
-
-- •. Team Processen en Ketens
-
-- •. Team Managementcyclus en Control
-
-- •. Afdeling Mens, Organisatie en Serviceverlening
-
-- •. Team Ondersteuning en Serviceverlening
-
-- •. Team Mens en Organisatie
-
-- •. Team Arbo
-
-- •. Team Planning
-
-- •. Afdeling Compliance Monitoring en Interne Auditing
-
-**Autoriteit Woningcorporaties**
-
-- •. Afdeling AW – Informatie en programmering
-
-- •. Afdeling Toezicht
-
-- •. Team Toezicht 1
-
-- •. Team Toezicht 2
-
-- •. Afdeling AW – Vergunningverlening
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

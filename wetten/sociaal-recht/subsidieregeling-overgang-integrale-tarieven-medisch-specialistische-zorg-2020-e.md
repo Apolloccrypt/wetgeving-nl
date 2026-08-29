@@ -1,76 +1,50 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 14 mei 2020, kenmerk 1685523-204923-CZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2020 en 2021)"
+citeertitel: "Subsidieregeling overgang integrale tarieven medisch specialistische zorg 2020 en 2021"
 identifier: "BWBR0043552"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-01"
-last_updated: "2023-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043552"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15459263"
-version_id: "26718462"
-internal_id: "C37874281"
-label_id: "15402364"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043552/2023-04-01/0"
-intitule_bron: "Stcrt.2020-27554"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-14"
-intitule_published: "2020-05-19"
-intitule_in_force: "2020-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-27554"
-original_signed_date: "2020-05-14"
-original_published_date: "2020-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-27554"
-entry_into_force_date: "2020-05-20"
-jci_1_3: "jci1.3:c:BWBR0043552&z=2023-04-01&g=2023-04-01"
-jci_1_0: "1.0:c:BWBR0043552&g=2023-04-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling overgang integrale tarieven medisch specialistische zorg 2020 en 2021"
-signed_date: "2020-05-14"
-entry_into_force: "2020-05-20"
+publicatiedatum: 2020-05-20
+laatste_update: 2023-04-01
+status: geldig
+toestand: 2023-04-01
+bron: "https://wetten.overheid.nl/BWBR0043552"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister voor Medische Zorg van 14 mei 2020, kenmerk 1685523-204923-CZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2020 en 2021)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **arbeidsovereenkomst:** overeenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- *arbeidsovereenkomst:* overeenkomst als bedoeld in [artikel 610 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- **arts:** persoon ingeschreven als arts in een register als bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
+- *arts:* persoon ingeschreven als arts in een register als bedoeld in [artikel 3, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3);
 
-- **inspecteur:** inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- *inspecteur:* inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- **instelling:** organisatorisch verband dat strekt tot de verlening van zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met uitzondering van een organisatorisch verband waarbinnen in het kader van de binnen een instelling verleende zorg, een deel van die zorg wordt verleend;
+- *instelling:* organisatorisch verband dat strekt tot de verlening van zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), met uitzondering van een organisatorisch verband waarbinnen in het kader van de binnen een instelling verleende zorg, een deel van die zorg wordt verleend;
 
-- **medisch specialist:** arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=2&z=2023-04-01&g=2023-04-01);
+- *medisch specialist:* arts als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=2&z=2023-04-01&g=2023-04-01);
 
-- **minister:** Minister voor Medische Zorg;
+- *minister:* Minister voor Medische Zorg;
 
-- **overstapjaar:** het kalenderjaar waarin de overstapperiode valt;
+- *overstapjaar:* het kalenderjaar waarin de overstapperiode valt;
 
-- **overstapperiode:** de periode van het tweede of derde kwartaal van ofwel 2020, ofwel 2021, waarin een medisch specialist de subsidiabele activiteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=4&z=2023-04-01&g=2023-04-01), verricht;
+- *overstapperiode:* de periode van het tweede of derde kwartaal van ofwel 2020, ofwel 2021, waarin een medisch specialist de subsidiabele activiteit, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=4&z=2023-04-01&g=2023-04-01), verricht;
 
-- **subsidie:** subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=3&z=2023-04-01&g=2023-04-01);
+- *subsidie:* subsidie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=3&z=2023-04-01&g=2023-04-01);
 
-- **vrijgevestigd medisch specialist:** arts die uitsluitend anders dan op basis van een arbeidsovereenkomst met een of meer zorgaanbieders en anders dan op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), werkzaam is als medisch specialist;
+- *vrijgevestigd medisch specialist:* arts die uitsluitend anders dan op basis van een arbeidsovereenkomst met een of meer zorgaanbieders en anders dan op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), werkzaam is als medisch specialist;
 
-- **zorgaanbieder:**
+- *zorgaanbieder:*
 
-- 1°. natuurlijk persoon of rechtspersoon, die een instelling in stand houdt;
+   - 1°. natuurlijk persoon of rechtspersoon, die een instelling in stand houdt;
 
-- 2°. natuurlijke personen of rechtspersonen, die gezamenlijk een instelling vormen.
+   - 2°. natuurlijke personen of rechtspersonen, die gezamenlijk een instelling vormen.
 
-##### Artikel 1a. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1a. Toepasselijkheid Kaderregeling
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -94,9 +68,9 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - c. zonder dat sprake is of zal zijn van een andere vergoeding daarvoor dan een onmiddellijke of middellijke vergoeding in de vorm van een geldsom van een zorgaanbieder waarmee hij een arbeidsovereenkomst heeft gesloten:
 
-- 1°. zijn activiteiten als vrijgevestigd medisch specialist heeft gestaakt;
+   - 1°. zijn activiteiten als vrijgevestigd medisch specialist heeft gestaakt;
 
-- 2°. de activiteiten als vrijgevestigd medisch specialist in een rechtspersoon heeft beëindigd, en
+   - 2°. de activiteiten als vrijgevestigd medisch specialist in een rechtspersoon heeft beëindigd, en
 
 - d. met ingang van het tijdstip, bedoeld in onderdeel b, uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders als medisch specialist werkzaam is en zal zijn.
 
@@ -124,13 +98,13 @@ De minister verstrekt de subsidie, met het oog op de beëindiging in de desbetre
 
 ##### Artikel 5a. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor 2020 tot en met 2021 in totaal € 8.000.000.
+1. Het subsidieplafond bedraagt voor 2020 tot en met 2021 in totaal € 8.000.000.
 
 2. Het uit hoofde van het subsidieplafond beschikbare subsidiebedrag wordt verdeeld op volgorde van binnenkomst van de aanvragen.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
-1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist een aanvraag in voor de verlening van de subsidie voor 1 juli in het desbetreffende overstapjaar. In 2021 kan de aanvraag vanaf 3 mei 2021 worden ingediend.
+1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist een aanvraag in voor de verlening van de subsidie voor 1 juli in het desbetreffende overstapjaar. In 2021 kan de aanvraag vanaf 3 mei 2021 worden ingediend.
 
 2. Voor een aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -148,25 +122,25 @@ De minister verstrekt de subsidie, met het oog op de beëindiging in de desbetre
 
 - e. het tussen de medisch specialist en de zorgaanbieder, bedoeld in het eerste lid, overeengekomen schema van de betalingen door de zorgaanbieder aan de medisch specialist van het door de minister verleende voorschot.
 
-5. De aanvrager kan de aanvraag tot en met 30 september van het desbetreffende overstapjaar aanvullen.
+5. De aanvrager kan de aanvraag tot en met 30 september van het desbetreffende overstapjaar aanvullen.
 
 6. De minister maakt in de gevallen waarin hij met betrekking tot de aanvraag een besluit als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), kan nemen, van die bevoegdheid gebruik.
 
 ##### Artikel 7. Besluit over subsidieverlening
 
-1. De minister besluit uiterlijk op 31 december van het desbetreffende overstapjaar over de subsidieverlening.
+1. De minister besluit uiterlijk op 31 december van het desbetreffende overstapjaar over de subsidieverlening.
 
-2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), weigert de minister de subsidieverlening indien hij de aanvraag na 30 juni van het desbetreffende overstapjaar heeft ontvangen.
+2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), weigert de minister de subsidieverlening indien hij de aanvraag na 30 juni van het desbetreffende overstapjaar heeft ontvangen.
 
 ##### Artikel 8. Voorschot
 
-1. De minister verleent in het overstapjaar aan de subsidieontvanger een voorschot van € 80.000.
+1. De minister verleent in het overstapjaar aan de subsidieontvanger een voorschot van € 80.000.
 
 2. De betaling van het voorschot geschiedt aan de zorgaanbieder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=6&z=2023-04-01&g=2023-04-01).
 
 ##### Artikel 9. Aanvullende doelverplichtingen
 
-1. De subsidieontvanger is vanaf het tijdstip, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=3&z=2023-04-01&g=2023-04-01), tot en met 31 augustus van het vierde jaar na het desbetreffende overstapjaar als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam.
+1. De subsidieontvanger is vanaf het tijdstip, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043552&artikel=3&z=2023-04-01&g=2023-04-01), tot en met 31 augustus van het vierde jaar na het desbetreffende overstapjaar als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam.
 
 2. Er wordt voor de beëindiging van de hoedanigheid als vrijgevestigd medisch specialist, geen vergoeding door een derde verleend anders dan een onmiddellijke of middellijke vergoeding in de vorm van een geldsom van een zorgaanbieder waarmee hij een arbeidsovereenkomst heeft gesloten.
 
@@ -176,9 +150,9 @@ De minister verstrekt de subsidie, met het oog op de beëindiging in de desbetre
 
 1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist, een aanvraag tot vaststelling van de subsidie in:
 
-- a. vanaf 5 januari 2027 tot en met 31 januari 2027 voor het overstapjaar 2020;
+- a. vanaf 5 januari 2027 tot en met 31 januari 2027 voor het overstapjaar 2020;
 
-- b. vanaf 5 januari 2028 tot en met 31 januari 2028 voor het overstapjaar 2021.
+- b. vanaf 5 januari 2028 tot en met 31 januari 2028 voor het overstapjaar 2021.
 
 2. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -202,9 +176,9 @@ De minister verstrekt de subsidie, met het oog op de beëindiging in de desbetre
 
 6. De kopieën, bedoeld in het vijfde lid, kunnen in afwijking van dat lid, ook afzonderlijk door de medisch specialist aan de Minister worden verstrekt:
 
-- a. vanaf 5 januari 2027 tot en met 31 januari 2027 voor het overstapjaar 2020;
+- a. vanaf 5 januari 2027 tot en met 31 januari 2027 voor het overstapjaar 2020;
 
-- b. vanaf 5 januari 2028 tot en met 31 januari 2028 voor het overstapjaar 2021.
+- b. vanaf 5 januari 2028 tot en met 31 januari 2028 voor het overstapjaar 2021.
 
 ##### Artikel 11. Besluit tot vaststelling van subsidie
 
@@ -218,12 +192,10 @@ De minister verstrekt de subsidie, met het oog op de beëindiging in de desbetre
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 augustus 2028.
+2. Deze regeling vervalt met ingang van 1 augustus 2028.
 
 3. Deze regeling blijft van toepassing op een subsidie die de minister krachtens deze regeling heeft verstrekt.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch specialistische zorg 2020 en 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

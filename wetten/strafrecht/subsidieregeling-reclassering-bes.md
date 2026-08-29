@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 3 december 2019, kenmerk 2758802, houdende regels voor subsidiëring van reclassering op de BES (Subsidieregeling reclassering BES)"
+citeertitel: "Subsidieregeling reclassering BES"
 identifier: "BWBR0042975"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042975"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15293493"
-version_id: "26357832"
-internal_id: "C37458651"
-label_id: "15239554"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042975/2020-01-01/0"
-intitule_bron: "Stcrt.2019-68147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-03"
-intitule_published: "2019-12-13"
-intitule_in_force: "2019-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-68147"
-original_signed_date: "2019-12-03"
-original_published_date: "2019-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-68147"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042975&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042975&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling reclassering BES"
-signed_date: "2019-12-03"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042975"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 3 december 2019, kenmerk 2758802, houdende regels voor subsidiëring van reclassering op de BES (Subsidieregeling reclassering BES)
-
-Gelet op [artikel 3, eerste lid, onderdeel b, van het Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **Het besluit:** het [Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398)
+- a. *Het besluit:* het [Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398)
 
-- b. **De Minister:** de Minister voor Rechtsbescherming;
+- b. *De Minister:* de Minister voor Rechtsbescherming;
 
-- c. **Reclasseringsinstelling:** een instelling als bedoeld in [artikel 1 van het Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=1).
+- c. *Reclasseringsinstelling:* een instelling als bedoeld in [artikel 1 van het Reclasseringsbesluit 1953 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028398&artikel=1).
 
 ##### Artikel 2
 
 1. De reclasseringsinstelling ontvangt jaarlijks ten laste van de begroting van het Ministerie van Justitie en Veiligheid een subsidie voor de reclasseringswerkzaamheden die door haar of onder haar verantwoordelijkheid worden verricht.
 
-2. De verlening van subsidie geschiedt voor 1 januari van het subsidiejaar.
+2. De verlening van subsidie geschiedt voor 1 januari van het subsidiejaar.
 
-3. De vaststelling van subsidie geschiedt voor 1 oktober van het op het subsidiejaar volgende jaar.
+3. De vaststelling van subsidie geschiedt voor 1 oktober van het op het subsidiejaar volgende jaar.
 
 ##### Artikel 3
 
-1. Voor 1 juli van het jaar voorafgaand aan het subsidiejaar nodigt de Minister de reclasseringsinstelling uit tot het indienen van een subsidieaanvraag.
+1. Voor 1 juli van het jaar voorafgaand aan het subsidiejaar nodigt de Minister de reclasseringsinstelling uit tot het indienen van een subsidieaanvraag.
 
 2. Daarbij geeft hij aan in hoeverre wijziging is opgetreden of naar verwachting wijziging zal optreden in het voor de reclassering in het subsidiejaar beschikbare bedrag.
 
@@ -68,7 +42,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Voor 1 oktober van het jaar voorafgaand aan het subsidiejaar dient de reclasseringsinstelling bij de Minister een subsidieaanvraag in.
+1. Voor 1 oktober van het jaar voorafgaand aan het subsidiejaar dient de reclasseringsinstelling bij de Minister een subsidieaanvraag in.
 
 2. De reclasseringsinstelling houdt daarbij rekening met de financiële ruimte zoals die door de wetgever is vastgesteld of naar verwachting zal worden vastgesteld.
 
@@ -172,7 +146,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 ##### Artikel 14
 
-1. Voor 1 juni van het op het subsidiejaar volgende jaar dient de reclasseringsinstelling bij de Minister de aanvraag in voor de vaststelling van het subsidiebedrag.
+1. Voor 1 juni van het op het subsidiejaar volgende jaar dient de reclasseringsinstelling bij de Minister de aanvraag in voor de vaststelling van het subsidiebedrag.
 
 2. De aanvraag gaat vergezeld van:
 
@@ -202,7 +176,7 @@ De reclasseringsinstelling kan de Minister verzoeken de subsidieverlening te wij
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.
 
-3. De subsidievaststelling kan niet meer worden ingetrokken of ten nadele van de reclasseringsinstelling worden gewijzigd indien vijf jaren zijn verstreken sinds de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel **c**, sinds de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
+3. De subsidievaststelling kan niet meer worden ingetrokken of ten nadele van de reclasseringsinstelling worden gewijzigd indien vijf jaren zijn verstreken sinds de dag waarop zij is bekendgemaakt dan wel, in het geval, bedoeld in het eerste lid, onderdeel *c*, sinds de dag waarop de handeling in strijd met de verplichting is verricht of de dag waarop aan de verplichting had moeten zijn voldaan.
 
 ##### Artikel 17
 
@@ -310,6 +284,4 @@ Deze regeling wordt aangehaald als: Subsidieregeling reclassering BES.
 
 ##### Artikel 28. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2020.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 januari 2020.

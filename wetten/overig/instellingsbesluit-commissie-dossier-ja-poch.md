@@ -1,60 +1,32 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 9 december 2019, nr 2756384, houdende instelling van de Commissie Dossier J.A. Poch"
+citeertitel: "Instellingsbesluit Commissie Dossier J.A. Poch"
 identifier: "BWBR0042901"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-18"
-last_updated: "2019-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042901"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15277373"
-version_id: "26320842"
-internal_id: "C37410811"
-label_id: "15223374"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042901/2019-12-18/0"
-intitule_bron: "Stcrt.2019-68436"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-09"
-intitule_published: "2019-12-18"
-intitule_in_force: "2019-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-68436"
-original_signed_date: "2019-12-09"
-original_published_date: "2019-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-68436"
-entry_into_force_date: "2019-12-18"
-jci_1_3: "jci1.3:c:BWBR0042901&z=2019-12-18&g=2019-12-18"
-jci_1_0: "1.0:c:BWBR0042901&g=2019-12-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Dossier J.A. Poch"
-signed_date: "2019-12-09"
-entry_into_force: "2019-12-18"
+publicatiedatum: 2019-12-18
+laatste_update: 2019-12-18
+status: geldig
+toestand: 2019-12-18
+bron: "https://wetten.overheid.nl/BWBR0042901"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 9 december 2019, nr 2756384, houdende instelling van de Commissie Dossier J.A. Poch
-
-In overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=2&z=2019-12-18&g=2019-12-18).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042901&artikel=2&z=2019-12-18&g=2019-12-18).
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een onafhankelijke Commissie Dossier J.A. Poch.
 
-2. De commissie heeft tot taak de onderzoeksopdracht uit te voeren zoals opgenomen in de in de voetnoot opgenomen Kamerstukken1Kamerstukken II 2018–2019, 35 000, nrs. 88 en 1706 (aanhangsel). en haar bevindingen aan de minister te doen toekomen in de vorm van een daartoe strekkend rapport.
+2. De commissie heeft tot taak de onderzoeksopdracht uit te voeren zoals opgenomen in de in de voetnoot opgenomen Kamerstukken1Kamerstukken II 2018–2019, 35 000, nrs. 88 en 1706 (aanhangsel). en haar bevindingen aan de minister te doen toekomen in de vorm van een daartoe strekkend rapport.
 
 3. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
@@ -76,9 +48,9 @@ In dit besluit wordt verstaan onder:
 
 Voor de duur van het bestaan van de commissie worden tot lid van de commissie benoemd:
 
-- a. de heer prof. mr. A.J. Machielse, tevens voorzitter, met ingang van 1 maart 2019 tot opheffing van de commissie;
+- a. de heer prof. mr. A.J. Machielse, tevens voorzitter, met ingang van 1 maart 2019 tot opheffing van de commissie;
 
-- b. de heer prof. mr. B.E.P. Myjer met ingang van 1 november 2019 tot opheffing van de commissie.
+- b. de heer prof. mr. B.E.P. Myjer met ingang van 1 november 2019 tot opheffing van de commissie.
 
 ##### Artikel 5. Instellingsduur
 
@@ -116,9 +88,9 @@ Op grond van [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.over
 
 ##### Artikel 10. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, met ingang van 1 maart 2019, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor voor de periode van 1 maart 2019 tot 1 september 2019 op 8/36 en de arbeidsduurfactor voor de periode vanaf september 2019 op 24/36.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, met ingang van 1 maart 2019, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor voor de periode van 1 maart 2019 tot 1 september 2019 op 8/36 en de arbeidsduurfactor voor de periode vanaf september 2019 op 24/36.
 
-2. Aan het andere lid wordt een vaste vergoeding per maand toegekend, met ingang van 1 november 2019, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 8/36.
+2. Aan het andere lid wordt een vaste vergoeding per maand toegekend, met ingang van 1 november 2019, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 8/36.
 
 ##### Artikel 11. Kosten van de onderzoekscommissie
 
@@ -136,17 +108,17 @@ Op grond van [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.over
 
 2. Het Ministerie van Justitie en Veiligheid verschaft de commissie daartoe budget onder de voorwaarde dat:
 
-- –. de commissie een gespecificeerde raming van de kosten maakt;
+- – de commissie een gespecificeerde raming van de kosten maakt;
 
-- –. de commissie een deugdelijke financiële administratie voert/laat voeren overeenkomstig de eisen die het Ministerie van Justitie en Veiligheid daaraan stelt;
+- – de commissie een deugdelijke financiële administratie voert/laat voeren overeenkomstig de eisen die het Ministerie van Justitie en Veiligheid daaraan stelt;
 
-- –. de commissie budgetoverschrijdingen tijdig en met reden meldt bij het ministerie;
+- – de commissie budgetoverschrijdingen tijdig en met reden meldt bij het ministerie;
 
-- –. het ministerie als opdrachtgever door de Directie Bestuursondersteuning (DBO) een financiële controle laat uitvoeren;
+- – het ministerie als opdrachtgever door de Directie Bestuursondersteuning (DBO) een financiële controle laat uitvoeren;
 
-- –. afhankelijk van de bevindingen van deze controle kan de ADR worden ingeschakeld om onderzoek uit te voeren en een rapport van feitelijke bevindingen uit te brengen;
+- – afhankelijk van de bevindingen van deze controle kan de ADR worden ingeschakeld om onderzoek uit te voeren en een rapport van feitelijke bevindingen uit te brengen;
 
-- –. na afloop van deze controle de verrekening plaatsvindt.
+- – na afloop van deze controle de verrekening plaatsvindt.
 
 ##### Artikel 12. Huisvesting onderzoekscommissie
 
@@ -166,10 +138,8 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 ##### Artikel 15. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 maart 2019, behoudens voor zover in dit besluit anders is bepaald.
+Dit besluit treedt in werking met ingang van de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 maart 2019, behoudens voor zover in dit besluit anders is bepaald.
 
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Dossier J.A. Poch.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

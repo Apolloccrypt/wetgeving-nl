@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2019, nr. WJZ/ 19261150, houdende een specifieke uitkering voor de gemeente Appingedam, Het Hogeland, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het nationaal programma Groningen (Regeling specifieke uitkering nationaal programma Groningen tweede tranche)"
+citeertitel: "Regeling specifieke uitkering nationaal programma Groningen tweede tranche"
 identifier: "BWBR0042851"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-07"
-last_updated: "2019-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042851"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15263243"
-version_id: "26288872"
-internal_id: "C37366561"
-label_id: "15209234"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042851/2019-12-07/0"
-intitule_bron: "Stcrt.2019-66468"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-04"
-intitule_published: "2019-12-06"
-intitule_in_force: "2019-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-66468"
-original_signed_date: "2019-12-04"
-original_published_date: "2019-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-66468"
-entry_into_force_date: "2019-12-07"
-jci_1_3: "jci1.3:c:BWBR0042851&z=2019-12-07&g=2019-12-07"
-jci_1_0: "1.0:c:BWBR0042851&g=2019-12-07"
-citeertitel_status: "redactioneel"
-short_title: "Regeling specifieke uitkering nationaal programma Groningen tweede tranche"
-signed_date: "2019-12-04"
-entry_into_force: "2019-12-07"
+publicatiedatum: 2019-12-07
+laatste_update: 2019-12-07
+status: geldig
+toestand: 2019-12-07
+bron: "https://wetten.overheid.nl/BWBR0042851"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 4 december 2019, nr. WJZ/ 19261150, houdende een specifieke uitkering voor de gemeente Appingedam, Het Hogeland, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het nationaal programma Groningen (Regeling specifieke uitkering nationaal programma Groningen tweede tranche)
-
-Gelet op [artikel 2 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2) en [artikel 17, tweede en vijfde lid, van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **gemeenten:** gemeenten Appingedam, Het Hogeland en Midden-Groningen;
+- *gemeenten:* gemeenten Appingedam, Het Hogeland en Midden-Groningen;
 
-- **nationaal programma Groningen:** nationaal programma Groningen als bedoeld in de Bestuursovereenkomst Nationaal Programma Groningen, Kamerstukken II, 33 529, nr. 587, bijlage 1.
+- *nationaal programma Groningen:* nationaal programma Groningen als bedoeld in de Bestuursovereenkomst Nationaal Programma Groningen, Kamerstukken II, 33 529, nr. 587, bijlage 1.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -99,5 +73,3 @@ De gemeenten en de provincie Groningen:
 ##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

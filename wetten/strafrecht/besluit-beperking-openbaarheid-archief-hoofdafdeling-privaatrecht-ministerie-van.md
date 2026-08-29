@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 17 januari 2020, kenmerk 2633979, houdende beperking van de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
+citeertitel: "Besluit beperking openbaarheid archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
 identifier: "BWBR0043215"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-02-27"
-last_updated: "2020-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043215"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15350423"
-version_id: "26526342"
-internal_id: "C37654041"
-label_id: "15295514"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043215/2020-02-27/0"
-intitule_bron: "Stcrt.2020-10389"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-01-17"
-intitule_published: "2020-02-26"
-intitule_in_force: "2020-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-10389"
-original_signed_date: "2020-01-17"
-original_published_date: "2020-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-10389"
-entry_into_force_date: "2020-02-27"
-jci_1_3: "jci1.3:c:BWBR0043215&z=2020-02-27&g=2020-02-27"
-jci_1_0: "1.0:c:BWBR0043215&g=2020-02-27"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Hoofdafdeling Privaatrecht Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972"
-signed_date: "2020-01-17"
-entry_into_force: "2020-02-27"
+publicatiedatum: 2020-02-27
+laatste_update: 2020-02-27
+status: geldig
+toestand: 2020-02-27
+bron: "https://wetten.overheid.nl/BWBR0043215"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 17 januari 2020, kenmerk 2633979, houdende beperking van de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het de algemene rijksarchivaris d.d. 17 december 2019, met kenmerk 8269476.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Hoofdafdeling Privaatrecht van het Ministerie van Justitie inzake geslachtsnaamswijzigingen, 1921–1972
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inv.nr. | Openbaar 1 januari | Inv.nr. | Openbaar 1 januari | Inv.nr. | Openbaar 1 januari |
 | --- | --- | --- | --- | --- | --- |
@@ -7788,53 +7760,53 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 26486 | 2038 | 26542 | 2056 | 26594 | 2043 |
 | 26487 | 2047 | 26543 | 2034 | 26595 | 2043 |
 | 26488 | 2046 | 26544 | 2055 | 26600 | 2048 |
-| 26576 | 2037 | 26631 | 2050 | 2050 | 2050 |
-| 26577 | 2040 | 26632 | 2049 | 2049 | 2049 |
-| 26578 | 2054 | 26633 | 2054 | 2054 | 2054 |
-| 26579 | 2050 | 26634 | 2048 | 2048 | 2048 |
-| 26580 | 2023 | 26635 | 2057 | 2057 | 2057 |
-| 26581 | 2049 | 26636 | 2053 | 2053 | 2053 |
-| 26582 | 2049 | 26637 | 2031 | 2031 | 2031 |
-| 26583 | 2056 | 26638 | 2055 | 2055 | 2055 |
-| 26586 | 2051 | 26639 | 2052 | 2052 | 2052 |
-| 26587 | 2046 | 26640 | 2051 | 2051 | 2051 |
-| 26588 | 2058 | 26643 | 2038 | 2038 | 2038 |
-| 26589 | 2057 | 26644 | 2048 | 2048 | 2048 |
-| 26592 | 2050 | 26645 | 2053 | 2053 | 2053 |
-| 26593 | 2054 | 26646 | 2056 | 2056 | 2056 |
-| 26594 | 2043 | 26648 | 2049 | 2049 | 2049 |
-| 26595 | 2043 | 26649 | 2055 | 2055 | 2055 |
-| 26600 | 2048 | 26650 | 2049 | 2049 | 2049 |
-| 26601 | 2058 | 26651 | 2053 | 2053 | 2053 |
-| 26602 | 2046 | 26653 | 2028 | 2028 | 2028 |
-| 26603 | 2055 | 26654 | 2047 | 2047 | 2047 |
-| 26604 | 2054 | 26655 | 2056 | 2056 | 2056 |
-| 26605 | 2061 | 26659 | 2035 | 2035 | 2035 |
-| 26606 | 2045 | 26663 | 2021 | 2021 | 2021 |
-| 26607 | 2058 | 26664 | 2055 | 2055 | 2055 |
-| 26608 | 2045 | 26665 | 2039 | 2039 | 2039 |
-| 26609 | 2060 | 26667 | 2056 | 2056 | 2056 |
-| 26611 | 2049 | 26670 | 2047 | 2047 | 2047 |
-| 26612 | 2055 | 26671 | 2048 | 2048 | 2048 |
-| 26613 | 2055 | 26673 | 2047 | 2047 | 2047 |
-| 26614 | 2053 | 26674 | 2055 | 2055 | 2055 |
-| 26615 | 2046 | 26678 | 2044 | 2044 | 2044 |
-| 26616 | 2029 |   |   |   |   |
-| 26617 | 2041 |   |   |   |   |
-| 26618 | 2036 |   |   |   |   |
-| 26619 | 2051 |   |   |   |   |
-| 26620 | 2044 |   |   |   |   |
-| 26621 | 2053 |   |   |   |   |
-| 26622 | 2048 |   |   |   |   |
-| 26623 | 2050 |   |   |   |   |
-| 26624 | 2040 |   |   |   |   |
-| 26625 | 2053 |   |   |   |   |
-| 26626 | 2049 |   |   |   |   |
-| 26627 | 2046 |   |   |   |   |
-| 26628 | 2048 |   |   |   |   |
-| 26629 | 2052 |   |   |   |   |
-| 26630 | 2055 |   |   |   |   |
-| 26631 | 2050 |   |   |   |   |
+| 26576 | 2037 | 26631 | 2050 |  |  |
+| 26577 | 2040 | 26632 | 2049 |  |  |
+| 26578 | 2054 | 26633 | 2054 |  |  |
+| 26579 | 2050 | 26634 | 2048 |  |  |
+| 26580 | 2023 | 26635 | 2057 |  |  |
+| 26581 | 2049 | 26636 | 2053 |  |  |
+| 26582 | 2049 | 26637 | 2031 |  |  |
+| 26583 | 2056 | 26638 | 2055 |  |  |
+| 26586 | 2051 | 26639 | 2052 |  |  |
+| 26587 | 2046 | 26640 | 2051 |  |  |
+| 26588 | 2058 | 26643 | 2038 |  |  |
+| 26589 | 2057 | 26644 | 2048 |  |  |
+| 26592 | 2050 | 26645 | 2053 |  |  |
+| 26593 | 2054 | 26646 | 2056 |  |  |
+| 26594 | 2043 | 26648 | 2049 |  |  |
+| 26595 | 2043 | 26649 | 2055 |  |  |
+| 26600 | 2048 | 26650 | 2049 |  |  |
+| 26601 | 2058 | 26651 | 2053 |  |  |
+| 26602 | 2046 | 26653 | 2028 |  |  |
+| 26603 | 2055 | 26654 | 2047 |  |  |
+| 26604 | 2054 | 26655 | 2056 |  |  |
+| 26605 | 2061 | 26659 | 2035 |  |  |
+| 26606 | 2045 | 26663 | 2021 |  |  |
+| 26607 | 2058 | 26664 | 2055 |  |  |
+| 26608 | 2045 | 26665 | 2039 |  |  |
+| 26609 | 2060 | 26667 | 2056 |  |  |
+| 26611 | 2049 | 26670 | 2047 |  |  |
+| 26612 | 2055 | 26671 | 2048 |  |  |
+| 26613 | 2055 | 26673 | 2047 |  |  |
+| 26614 | 2053 | 26674 | 2055 |  |  |
+| 26615 | 2046 | 26678 | 2044 |  |  |
+| 26616 | 2029 |  |  |  |  |
+| 26617 | 2041 |  |  |  |  |
+| 26618 | 2036 |  |  |  |  |
+| 26619 | 2051 |  |  |  |  |
+| 26620 | 2044 |  |  |  |  |
+| 26621 | 2053 |  |  |  |  |
+| 26622 | 2048 |  |  |  |  |
+| 26623 | 2050 |  |  |  |  |
+| 26624 | 2040 |  |  |  |  |
+| 26625 | 2053 |  |  |  |  |
+| 26626 | 2049 |  |  |  |  |
+| 26627 | 2046 |  |  |  |  |
+| 26628 | 2048 |  |  |  |  |
+| 26629 | 2052 |  |  |  |  |
+| 26630 | 2055 |  |  |  |  |
+| 26631 | 2050 |  |  |  |  |
 
 ##### Artikel 2
 

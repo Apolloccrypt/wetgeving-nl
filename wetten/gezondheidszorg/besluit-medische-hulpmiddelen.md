@@ -1,60 +1,27 @@
 ---
 title: "Besluit van 24 april 2020, houdende regels met betrekking tot de herverwerking en het verder gebruik van hulpmiddelen voor eenmalig gebruik in de zin van artikel 17 van Verordening (EU) 2017/745 en nadere regels over het gebruik van medische hulpmiddelen (Besluit medische hulpmiddelen)"
+citeertitel: "Besluit medische hulpmiddelen"
 identifier: "BWBR0043470"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-05-26"
-last_updated: "2022-05-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043470"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "15429143"
-version_id: "26665142"
-internal_id: "C39154461"
-label_id: "15372744"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043470/2022-05-26/0"
-intitule_bron: "Stb.2020-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-24"
-intitule_published: "2020-05-07"
-intitule_in_force: "2021-05-11"
-intitule_status: "goed"
-original_publication: "Stb.2020-130"
-original_signed_date: "2020-04-24"
-original_published_date: "2020-05-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-130"
-entry_into_force_date: "2021-05-26"
-jci_1_3: "jci1.3:c:BWBR0043470&z=2022-05-26&g=2022-05-26"
-jci_1_0: "1.0:c:BWBR0043470&g=2022-05-26"
-citeertitel_status: "officieel"
-short_title: "Besluit medische hulpmiddelen"
-signed_date: "2020-04-24"
-entry_into_force: "2021-05-26"
+publicatiedatum: 2021-05-26
+laatste_update: 2022-05-26
+status: geldig
+toestand: 2022-05-26
+bron: "https://wetten.overheid.nl/BWBR0043470"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 24 april 2020, houdende regels met betrekking tot de herverwerking en het verder gebruik van hulpmiddelen voor eenmalig gebruik in de zin van artikel 17 van Verordening (EU) 2017/745 en nadere regels over het gebruik van medische hulpmiddelen (Besluit medische hulpmiddelen)
-
-Op de voordracht van Onze Minister voor Medische Zorg, van 17 september 2019, kenmerk 1576326-194806-WJZ;
-
-Gelet op [artikel 3, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=3), en [artikel 5, tweede lid, van de Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755&artikel=5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 16 oktober 2019, no.W13.19.0290/III);
-
-Gezien het nader rapport van Onze Minister voor Medische Zorg van 23 april 2020, kenmerk 1576318-194806-WJZ;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel 3, eerste lid, van de Wet medische hulpmiddelen in werking treedt.
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- **herbruikbaar invasief hulpmiddel:** een hulpmiddel als bedoeld in artikel 2, onderdeel 6, van Verordening (EU) 2017/745 dat bestemd is voor meermalig gebruik;
+- *herbruikbaar invasief hulpmiddel:* een hulpmiddel als bedoeld in artikel 2, onderdeel 6, van Verordening (EU) 2017/745 dat bestemd is voor meermalig gebruik;
 
-- **wet:** [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755).
+- *wet:*
+ [Wet medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0042755).
 
 ##### Artikel 2. Implantaatkaart
 
@@ -70,31 +37,31 @@ Herverwerking van een medisch hulpmiddel voor eenmalig gebruik is verboden, indi
 
 - a. het medische hulpmiddel in aanraking is gekomen met één of meer van de volgende weefsels:
 
-- 1. hersenen;
+   - 1. hersenen;
 
-- 2. ruggengraat;
+   - 2. ruggengraat;
 
-- 3. netvlies;
+   - 3. netvlies;
 
-- 4. oogzenuw;
+   - 4. oogzenuw;
 
-- 5. ruggenmergszenuwknoop;
+   - 5. ruggenmergszenuwknoop;
 
-- 6. ganglion van Gasser;
+   - 6. ganglion van Gasser;
 
-- 7. hypofyse;
+   - 7. hypofyse;
 
-- 8. harde hersenvlies.
+   - 8. harde hersenvlies.
 
 - b. het medische hulpmiddel bij ingrepen is toegepast bij een patiënt die een variant van of de ziekte van Creutzfeldt-Jakob heeft;
 
 - c. het medische hulpmiddel bij ingrepen is toegepast bij een patiënt met een onverklaard neurologisch lijden, dat ten minste twee van de volgende ziekteverschijnselen omvat:
 
-- 1. progressieve dementie;
+   - 1. progressieve dementie;
 
-- 2. myoclonieën;
+   - 2. myoclonieën;
 
-- 3. ataxie.
+   - 3. ataxie.
 
 - d. het oorspronkelijke medische hulpmiddel reeds is herverwerkt door een andere organisatie of via een ander proces.
 
@@ -157,5 +124,3 @@ Dit besluit treedt in werking op het tijdstip waarop [artikel 3, eerste lid, van
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit medische hulpmiddelen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

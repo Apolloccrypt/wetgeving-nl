@@ -1,74 +1,42 @@
 ---
 title: "Besluit van 11 mei 2020, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Besluit Woningbouwimpuls 2020)"
+citeertitel: "Besluit Woningbouwimpuls 2020"
 identifier: "BWBR0043540"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043540"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "15457263"
-version_id: "26715352"
-internal_id: "C38092151"
-label_id: "15400404"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043540/2026-01-01/0"
-intitule_bron: "Stb.2020-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-11"
-intitule_published: "2020-05-18"
-intitule_in_force: "2020-07-17"
-intitule_status: "goed"
-original_publication: "Stb.2020-141"
-original_signed_date: "2020-05-11"
-original_published_date: "2020-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-141"
-entry_into_force_date: "2020-07-18"
-jci_1_3: "jci1.3:c:BWBR0043540&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0043540&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Woningbouwimpuls 2020"
-signed_date: "2020-05-11"
-entry_into_force: "2020-07-18"
+publicatiedatum: 2020-07-18
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0043540"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 11 mei 2020, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Besluit Woningbouwimpuls 2020)
-
-Op de voordracht van Onze Minister voor Milieu en Wonen van 13 maart 2020, nr. 2020-0000139923;
-
-Gelet op [artikel 81, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=81);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 29 april 2020, No.W04.20.0061/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2020, nr. 2020-0000185061;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanvraagtijdvak:** de termijn waarbinnen een aanvraag voor een specifieke uitkering kan worden ingediend;
+- *aanvraagtijdvak:* de termijn waarbinnen een aanvraag voor een specifieke uitkering kan worden ingediend;
 
-- **betaalbare woning:**
+- *betaalbare woning:*
 
-- 1°. sociale huurwoning: huurwoning met een aanvangshuurprijs onder de grens als bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13);
+   - 1°. sociale huurwoning: huurwoning met een aanvangshuurprijs onder de grens als bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13);
 
-- 2°. huurwoning voor middenhuur: huurwoning met een aanvangshuurprijs van ten minste het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), en ten hoogste:
+   - 2° huurwoning voor middenhuur: huurwoning met een aanvangshuurprijs van ten minste het bedrag, bedoeld in [artikel 13, eerste lid, onder a, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=13), en ten hoogste:
 
-- i. het bedrag als bedoeld in [artikel 2, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2); of
+      - i. het bedrag als bedoeld in [artikel 2, eerste lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=2); of
 
-- ii. het onder i bedoelde bedrag met inbegrip van een vermeerdering als bedoeld in [artikel 8a, eerste, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=8&z=2026-01-01&g=2026-01-01), voor zover het gaat om een huurwoning als bedoeld in die leden;
+      - ii. het onder i bedoelde bedrag met inbegrip van een vermeerdering als bedoeld in [artikel 8a, eerste, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=8&z=2026-01-01&g=2026-01-01), voor zover het gaat om een huurwoning als bedoeld in die leden;
 
-- 3°. betaalbare koopwoning: koopwoning met een koopprijs vrij op naam bij eerste verkoop van ten hoogste de geïndexeerde bovengrens, bedoeld in [artikel 7, vierde lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=7);
+   - 3° betaalbare koopwoning: koopwoning met een koopprijs vrij op naam bij eerste verkoop van ten hoogste de geïndexeerde bovengrens, bedoeld in [artikel 7, vierde lid, van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=7);
 
-- **college:** college van burgemeester en wethouders;
+- *college:* college van burgemeester en wethouders;
 
-- **Onze Minister:** Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- *Onze Minister:* Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- **project:** project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01).
+- *project:* project als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=2&z=2026-01-01&g=2026-01-01).
 
 ##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
@@ -189,5 +157,3 @@ De aanvraag wordt behandeld onder het recht zoals dat luidde ten tijde van het a
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Woningbouwimpuls 2020.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

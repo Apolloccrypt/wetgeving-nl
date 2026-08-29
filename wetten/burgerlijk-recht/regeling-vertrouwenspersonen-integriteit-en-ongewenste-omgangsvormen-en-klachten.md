@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Algemene Zaken, van 25 november 2019, nr. 4100268, inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen Ministerie van Algemene Zaken"
+citeertitel: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ"
 identifier: "BWBR0042863"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042863"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15266033"
-version_id: "26295742"
-internal_id: "C37380271"
-label_id: "15212184"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042863/2020-01-01/0"
-intitule_bron: "Stcrt.2019-65518"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-25"
-intitule_published: "2019-12-03"
-intitule_in_force: "2019-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-65518"
-original_signed_date: "2019-11-25"
-original_published_date: "2019-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-65518"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042863&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042863&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ"
-signed_date: "2019-11-25"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042863"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Algemene Zaken, van 25 november 2019, nr. 4100268, inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen Ministerie van Algemene Zaken
-
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14), [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=4) en [6 van de Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=6);
-
-Gehoord de Ondernemingsraad van het Ministerie van Algemene Zaken;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,33 +20,33 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **betrokkene:** degene op wie het vermoeden van schending van de integriteit of een misstand, de melding of de klacht betrekking heeft;
+- – *betrokkene:* degene op wie het vermoeden van schending van de integriteit of een misstand, de melding of de klacht betrekking heeft;
 
-- –. **commissie:** de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042863&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01) ingestelde klachtencommissie;
+- – *commissie:* de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042863&paragraaf=4&artikel=9&z=2020-01-01&g=2020-01-01) ingestelde klachtencommissie;
 
-- –. **klacht:** schriftelijke klacht over ongewenste omgangsvormen;
+- – *klacht:* schriftelijke klacht over ongewenste omgangsvormen;
 
-- –. **klager:** de medewerker die een klacht heeft ingediend bij de commissie;
+- – *klager:* de medewerker die een klacht heeft ingediend bij de commissie;
 
-- –. **Manager Unit P&O/I:** Manager Unit Personeel, Organisatie en Innovatie van de directie Bedrijfsvoering van het ministerie;
+- – *Manager Unit P&O/I:* Manager Unit Personeel, Organisatie en Innovatie van de directie Bedrijfsvoering van het ministerie;
 
-- –. **medewerker:** degene die werkzaamheden verricht of heeft verricht bij het ministerie;
+- – *medewerker:* degene die werkzaamheden verricht of heeft verricht bij het ministerie;
 
-- –. **minister:** Minister van Algemene Zaken;
+- – *minister:* Minister van Algemene Zaken;
 
-- –. **ministerie:** Ministerie van Algemene Zaken;
+- – *ministerie:* Ministerie van Algemene Zaken;
 
-- –. **ongewenste omgangsvormen:** factoren van direct of indirect onderscheid in de arbeidssituatie met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten, die stress teweeg brengen;
+- – *ongewenste omgangsvormen:* factoren van direct of indirect onderscheid in de arbeidssituatie met inbegrip van intimidatie, seksuele intimidatie, agressie, geweld en pesten, die stress teweeg brengen;
 
-- –. **secretaris-generaal:** secretaris-generaal van het ministerie;
+- – *secretaris-generaal:* secretaris-generaal van het ministerie;
 
-- –. **UBR | Personeel i.o:** desbetreffende onderdeel van de Uitvoeringsorganisatie
+- – *UBR | Personeel i.o:* desbetreffende onderdeel van de Uitvoeringsorganisatie
 
 Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. vermoeden van een misstand: hetgeen daaronder wordt verstaan in [artikel 1, aanhef en onder d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- – vermoeden van een misstand: hetgeen daaronder wordt verstaan in [artikel 1, aanhef en onder d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- –. vertrouwenspersoon: de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042863&paragraaf=3&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde, als zodanig aangewezen persoon.
+- – vertrouwenspersoon: de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042863&paragraaf=3&artikel=3&z=2020-01-01&g=2020-01-01), bedoelde, als zodanig aangewezen persoon.
 
 #### § 2. Werkingsgebied
 
@@ -142,7 +114,7 @@ Ingeval zich zowel de in [artikel 2, eerste en tweede lid](https://wetten.overhe
 
 ##### Artikel 8
 
-1. De vertrouwenspersonen brengen jaarlijks voor 1 mei een gezamenlijk verslag uit aan de secretaris-generaal.
+1. De vertrouwenspersonen brengen jaarlijks voor 1 mei een gezamenlijk verslag uit aan de secretaris-generaal.
 
 2. Het verslag bevat een geanonimiseerd overzicht van hun werkzaamheden in het voorgaande kalenderjaar.
 
@@ -208,7 +180,7 @@ De commissie is bevoegd:
 
 1. De secretaris van de commissie registreert alle schriftelijk ingediende klachten.
 
-2. De commissie brengt jaarlijks voor 1 mei een verslag uit aan de secretaris-generaal.
+2. De commissie brengt jaarlijks voor 1 mei een verslag uit aan de secretaris-generaal.
 
 3. Het verslag bevat een geanonimiseerd overzicht van het aantal en de aard van de klachten in het voorgaande kalenderjaar en de strekking van de adviezen die daarover zijn uitgebracht. Het verslag kan aanbevelingen van algemene aard bevatten.
 
@@ -238,10 +210,8 @@ Het Besluit klachtencommissie AZ wordt ingetrokken.
 
 ##### Artikel 20
 
-Deze regeling treedt in werking met ingang van 1 januari 2020.
+Deze regeling treedt in werking met ingang van 1 januari 2020.
 
 ##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

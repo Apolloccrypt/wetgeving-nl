@@ -1,90 +1,64 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 februari 2020, nr. 2020-0000004496, houdende de inrichting van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering (Organisatie-, Mandaat- en Volmachtbesluit DSU 2019)"
+citeertitel: "Organisatie-, Mandaat- en Volmachtsbesluit DSU 2019"
 identifier: "BWBR0043152"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-16"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043152"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15337843"
-version_id: "26502382"
-internal_id: "C37628071"
-label_id: "15283184"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043152/2026-04-16/0"
-intitule_bron: "Stcrt.2020-7731"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-03"
-intitule_published: "2020-02-11"
-intitule_in_force: "2020-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-7731"
-original_signed_date: "2020-02-03"
-original_published_date: "2020-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-7731"
-entry_into_force_date: "2020-02-12"
-jci_1_3: "jci1.3:c:BWBR0043152&z=2026-04-16&g=2026-04-16"
-jci_1_0: "1.0:c:BWBR0043152&g=2026-04-16"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, Mandaat- en Volmachtsbesluit DSU 2019"
-signed_date: "2020-02-03"
-entry_into_force: "2020-02-12"
+publicatiedatum: 2020-02-12
+laatste_update: 2026-04-16
+status: geldig
+toestand: 2026-04-16
+bron: "https://wetten.overheid.nl/BWBR0043152"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 februari 2020, nr. 2020-0000004496, houdende de inrichting van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering, alsmede de doorverlening van vertegenwoordigingsbevoegdheden van de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering (Organisatie-, Mandaat- en Volmachtbesluit DSU 2019)
-
-Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8 van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
 ##### Artikel 1
 
-- a. **directie DSU:** de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering;
+- a. *directie DSU:* de directie Dienstverlening, Samenwerkingsverbanden en Uitvoering;
 
-- b. **afdeling:** een afdeling van de directie DSU;
+- b. *afdeling:* een afdeling van de directie DSU;
 
-- c. **SVC:** de afdeling Sturing, Verantwoording en Control;
+- c. *SVC:* de afdeling Sturing, Verantwoording en Control;
 
-- d. **UV:** de afdeling Uitvoering;
+- d. *UV:* de afdeling Uitvoering;
 
-- e. **UEC:** de afdeling Uitvoering Expertisecentrum;
+- e. *UEC:* de afdeling Uitvoering Expertisecentrum;
 
-- f. **IV:** de afdeling Informatievoorziening;
+- f. *IV:* de afdeling Informatievoorziening;
 
-- g. **FDC:** de afdeling Financieel Dienstencentrum, met de volgende clusters:
+- g. *FDC:* de afdeling Financieel Dienstencentrum, met de volgende clusters:
 
-  - i. beheer;
+   - i. beheer;
 
-  - ii. concernadministratie;
+   - ii. concernadministratie;
 
-  - iii. betalen;
+   - iii. betalen;
 
-  - iv. Bekostiging Subsidies en Vorderingenbeheer;
+   - iv. Bekostiging Subsidies en Vorderingenbeheer;
 
-  - v. staf;
+   - v. staf;
 
-- h. **LO-Plein:** de afdeling Leer- en Ontwikkelplein;
+- h. *LO-Plein:* de afdeling Leer- en Ontwikkelplein;
 
-- i. **directeur:** de directeur van de directie DSU;
+- i. *directeur:* de directeur van de directie DSU;
 
-- j. **plaatsvervangend directeur:** de plaatsvervangend directeur van de directie DSU;
+- j. *plaatsvervangend directeur:* de plaatsvervangend directeur van de directie DSU;
 
-- k. **afdelingshoofd of hoofd:** het hoofd van een afdeling;
+- k. *afdelingshoofd of hoofd:* het hoofd van een afdeling;
 
-- l. **clustermanager:** een functionaris die leiding geeft aan een cluster van het FDC;
+- l. *clustermanager:* een functionaris die leiding geeft aan een cluster van het FDC;
 
-- m. **teamleider:** een functionaris die leiding geeft aan een team binnen de afdelingen UV of UEC, IV, het LO-Plein of binnen een cluster van het FDC;
+- m. *teamleider:* een functionaris die leiding geeft aan een team binnen de afdelingen UV of UEC, IV, het LO-Plein of binnen een cluster van het FDC;
 
-- n. **controller:** een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
+- n. *controller:* een functionaris die de activiteiten rond de planning en control cyclus coördineert en bewaakt;
 
-- o. **Europese fondsen:** in ieder geval het Europees Sociaal Fonds plus (ESF en ESF+), het Fonds voor asiel, migratie en integratie (AMIF), het Fonds voor interne veiligheid (ISF), het Fonds voor geïntegreerd grensbeheer van het Instrument voor financiële steun voor grensbeheer en visumbeleid (BMVI), het Europees Globalisering Fonds (EGF), het Just Transition Fund (JTF) en het Europees Fonds voor de meest behoeftigen (EFMB);
+- o. *Europese fondsen:* in ieder geval het Europees Sociaal Fonds plus (ESF en ESF+), het Fonds voor asiel, migratie en integratie (AMIF), het Fonds voor interne veiligheid (ISF), het Fonds voor geïntegreerd grensbeheer van het Instrument voor financiële steun voor grensbeheer en visumbeleid (BMVI), het Europees Globalisering Fonds (EGF), het Just Transition Fund (JTF) en het Europees Fonds voor de meest behoeftigen (EFMB);
 
-- p. **kasbeheerder:** een functionaris die het kasbeheer verzorgt.
+- p. *kasbeheerder:* een functionaris die het kasbeheer verzorgt.
 
 #### § 2. Organisatie
 
@@ -128,6 +102,10 @@ Elk van de afdelingshoofden is verantwoordelijk voor:
 
 - e. het rapporteren en verantwoorden aan de directeur over de uitvoering van de jaarplannen betreffende de eigen afdeling.
 
+##### Artikel 3a
+
+*Vervallen*
+
 ##### Artikel 4
 
 Het hoofd SVC is verantwoordelijk voor:
@@ -152,7 +130,7 @@ De hoofden UV zijn verantwoordelijk voor:
 
 - d. het, na instemming van de directeur, verrichten van overige diensten, dan de in dit artikel bedoelde diensten;
 
-- e. de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van [Richtlijn 2003/88/EG](32003L0088).
+- e. de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van Richtlijn 2003/88/EG.
 
 ##### Artikel 6
 
@@ -198,6 +176,18 @@ Het hoofd FDC is verantwoordelijk voor:
 
 - e. het verzorgen van het kas- en autorisatiebeheer en het fungeren als beheerder van de administratieve organisatie (ao) en interne controle (ic), een en ander voor zover het andere verantwoordelijkheden betreft dan die van de kasbeheerders als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0043152&paragraaf=3&artikel=8a&z=2026-04-16&g=2026-04-16).
 
+##### Artikel 8a
+
+1. De kasbeheerders zijn voor de bij het samenwerkingsverband aangesloten ministeries en de onderliggende rijksonderdelen, namens de betreffende directeuren Financieel Economische Zaken, verantwoordelijk voor:
+
+- a. het uitvoeren van het rekeningenbeheer van het Perceel B Rijksbetalingsverkeer voor de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen;
+
+- b. het optreden als (hoofd)contactpersonen en vertegenwoordigers richting het Ministerie van Financiën/Agentschap van de Generale Thesaurie, bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen en de gecontracteerde dienstverleners voor het Perceel B Rijksbetalingsverkeer;
+
+2. De kasbeheerders worden namens de directeuren Financieel Economische Zaken van de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen, aangewezen door de directeur Financieel Economische Zaken SZW.
+
+3. De kasbeheerders opereren binnen het FDC onafhankelijk voor wat betreft de taken genoemd in het eerste lid van dit artikel.
+
 ##### Artikel 9
 
 Het hoofd LO-Plein is verantwoordelijk voor:
@@ -216,7 +206,7 @@ Het hoofd LO-Plein is verantwoordelijk voor:
 
 1. De afdelingshoofden zijn bevoegd om namens een bewindspersoon besluiten te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover zij verband houden met de taken en verantwoordelijkheden van de afdelingen, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal of de directeur.
 
-2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 75.000,– inclusief BTW per overeenkomst voor:
+2. De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde van € 75.000,– inclusief BTW per overeenkomst voor:
 
 - a. overeenkomsten die gebaseerd zijn op een raamovereenkomst;
 
@@ -236,19 +226,23 @@ Aan de hoofden van de afdelingen, genoemd in [artikel 2, eerste lid](https://wet
 
 - b. de personeelsaangelegenheden van de eigen afdeling voor zover het betreft;
 
-  - i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
+   - i. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers.
 
-  - ii. het houden van personeelsgesprekken.
+   - ii. het houden van personeelsgesprekken.
 
-  - iii. verlof van medewerkers.
+   - iii. verlof van medewerkers.
 
 ##### Artikel 12
 
 De afdelingshoofden worden gemachtigd tot het paraferen en ondertekenen van stukken, niet zijnde besluiten, die betrekking hebben op taken van de eigen afdeling, een en ander met uitzondering van stukken waarvan, gelet op het belang daarvan, redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
 
+##### Artikel 12a
+
+*Vervallen*
+
 ##### Artikel 13
 
-Aan het afdelingshoofd UV wordt mandaat, volmacht en machtiging verleend met betrekking tot de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van [richtlijn 2003/88/EG](32003L0088), waaronder in ieder geval wordt begrepen de bevoegdheid om vaststellingsovereenkomsten af te sluiten en schadevergoeding uit te betalen.
+Aan het afdelingshoofd UV wordt mandaat, volmacht en machtiging verleend met betrekking tot de afhandeling van verzoeken tot vergoeding van schade geleden als gevolg van de implementatie van artikel 7 van richtlijn 2003/88/EG, waaronder in ieder geval wordt begrepen de bevoegdheid om vaststellingsovereenkomsten af te sluiten en schadevergoeding uit te betalen.
 
 ##### Artikel 14
 
@@ -276,7 +270,7 @@ Aan de clustermanagers wordt mandaat en machtiging verleend met betrekking tot:
 
 - c. verlof van medewerkers.
 
-2. Aan de clustermanagers en teamleiders wordt volmacht verleend tot het aangaan van de volgende overeenkomsten tot een waarde van € 5.000,– inclusief BTW per overeenkomst:
+2. Aan de clustermanagers en teamleiders wordt volmacht verleend tot het aangaan van de volgende overeenkomsten tot een waarde van € 5.000,– inclusief BTW per overeenkomst:
 
 - a. overeenkomsten met betrekking tot het organiseren en accorderen van activiteiten binnen de eigen organisatorische eenheid;
 
@@ -300,40 +294,6 @@ Aan de clustermanagers wordt mandaat en machtiging verleend met betrekking tot:
 
 1. Het [Organisatie-, Mandaat en Volmachtsbesluit DSU 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041335) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 maart 2019.
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 maart 2019.
 
 3. Deze regeling kan worden aangehaald als Organisatie-, Mandaat- en Volmachtsbesluit DSU 2019.
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Vervallen
-
-#### § 4. Bevoegdheden
-
-##### Artikel 12a
-
-Vervallen
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-1. De kasbeheerders zijn voor de bij het samenwerkingsverband aangesloten ministeries en de onderliggende rijksonderdelen, namens de betreffende directeuren Financieel Economische Zaken, verantwoordelijk voor:
-
-- a. het uitvoeren van het rekeningenbeheer van het Perceel B Rijksbetalingsverkeer voor de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen;
-
-- b. het optreden als (hoofd)contactpersonen en vertegenwoordigers richting het Ministerie van Financiën/Agentschap van de Generale Thesaurie, bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen en de gecontracteerde dienstverleners voor het Perceel B Rijksbetalingsverkeer;
-
-2. De kasbeheerders worden namens de directeuren Financieel Economische Zaken van de bij het samenwerkingsverband aangesloten ministeries en onderliggende rijksonderdelen, aangewezen door de directeur Financieel Economische Zaken SZW.
-
-3. De kasbeheerders opereren binnen het FDC onafhankelijk voor wat betreft de taken genoemd in het eerste lid van dit artikel.
-
-#### § 4. Bevoegdheden
-
-#### § 5. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.

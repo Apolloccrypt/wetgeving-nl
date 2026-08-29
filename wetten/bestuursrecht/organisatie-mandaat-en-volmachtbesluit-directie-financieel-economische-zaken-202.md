@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 februari 2020, 2020-0000005689, houdende de inrichting van de directie Financieel-Economische Zaken alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Financieel-Economische Zaken (Organisatie-, mandaat en volmachtbesluit Directie Financieel-Economische Zaken 2020)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020"
 identifier: "BWBR0043184"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-28"
-last_updated: "2024-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043184"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15344643"
-version_id: "26513652"
-internal_id: "C37640421"
-label_id: "15289884"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043184/2024-11-28/0"
-intitule_bron: "Stcrt.2020-9068"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-07"
-intitule_published: "2020-02-17"
-intitule_in_force: "2020-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-9068"
-original_signed_date: "2020-02-07"
-original_published_date: "2020-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-9068"
-entry_into_force_date: "2020-02-18"
-jci_1_3: "jci1.3:c:BWBR0043184&z=2024-11-28&g=2024-11-28"
-jci_1_0: "1.0:c:BWBR0043184&g=2024-11-28"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020"
-signed_date: "2020-02-07"
-entry_into_force: "2020-02-18"
+publicatiedatum: 2020-02-18
+laatste_update: 2024-11-28
+status: geldig
+toestand: 2024-11-28
+bron: "https://wetten.overheid.nl/BWBR0043184"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 februari 2020, 2020-0000005689, houdende de inrichting van de directie Financieel-Economische Zaken alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Financieel-Economische Zaken (Organisatie-, mandaat en volmachtbesluit Directie Financieel-Economische Zaken 2020)
-
-Gelet op de [artikelen 3, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=3), en [11, van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024991&artikel=11);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **ADR:** Auditdienst Rijk;
+- a. *ADR:* Auditdienst Rijk;
 
-- b. **CBS:** Centraal Bureau voor de Statistiek;
+- b. *CBS:* Centraal Bureau voor de Statistiek;
 
-- c. **directie FEZ:** de directie Financieel-Economische Zaken van het ministerie.
+- c. *directie FEZ:* de directie Financieel-Economische Zaken van het ministerie.
 
 #### § 2. Organisatie en taken
 
@@ -122,17 +96,19 @@ De verantwoordelijkheid van de hoofden van de afdelingen Kaderstelling, Control 
 
 - a. het adviseren omtrent:
 
-- 1°. de rechtmatigheid, doelmatigheid, doeltreffendheid en budgettaire inpasbaarheid van voorgenomen beleid;
+   - 1°. de rechtmatigheid, doelmatigheid, doeltreffendheid en budgettaire inpasbaarheid van voorgenomen beleid;
 
-- 2°. de programmering, uitvoering en beleidsmatige benutting van evaluatieonderzoek;
+   - 2°. de programmering, uitvoering en beleidsmatige benutting van evaluatieonderzoek;
 
-- 3°. de bekostigingssystematieken en uitvoeringsmodaliteiten;
+   - 3°. de bekostigingssystematieken en uitvoeringsmodaliteiten;
 
-- 4°. de financiële bedrijfsvoering (op uitdrukkelijk verzoek en op ad hoc basis) en financiële beheersconcepten;
+   - 4°. de financiële bedrijfsvoering (op uitdrukkelijk verzoek en op ad hoc basis) en financiële beheersconcepten;
 
 - b. het mede opstellen van financiële paragrafen ten behoeve van wetsvoorstellen en beleidsnotities;
 
 - c. het ontwikkelen en onderhouden van specifieke modellen die nodig zijn voor ramingen binnen dit domein.
+
+#### § 3. Bevoegdheden
 
 ##### Artikel 8
 
@@ -146,8 +122,6 @@ Aan de hoofden van de afdelingen wordt volmacht en machtiging verleend tot het v
 
 - d. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur.
 
-#### § 3. Bevoegdheden
-
 ##### Artikel 9
 
 Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrekking tot:
@@ -160,48 +134,26 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 1. Aan het hoofd van de afdeling Kaderstelling, Control en Evaluatie wordt volmacht verleend met betrekking tot:
 
-- a. het aangaan van overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 150.000,– per overeenkomst;
+- a. het aangaan van overeenkomsten met het Centraal bureau voor de statistiek met een waarde van ten hoogste € 150.000,– per overeenkomst;
 
-- b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogste van € 150.000,– per overeenkomst.
+- b. het aangaan van overeenkomsten met betrekking tot de beleidsinformatievoorziening met een waarde van ten hoogste van € 150.000,– per overeenkomst.
 
 2. Het hoofd van de afdeling Kaderstelling, Control en Evaluatie kan de bevoegdheid, bedoeld in het eerste lid, onderdeel b, doorverlenen aan de onder hem ressorterende functionarissen.
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze overeenkomsten betrekking hebben op de taken die vallen onder hun verantwoordelijkheid.
 
 ##### Artikel 12
 
 Bij afwezigheid of verhindering van de directeur Financieel-Economische Zaken worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door het afdelingshoofd dat is aangewezen als de plaatsvervangende directeur.
 
+#### § 4. Slotbepalingen
+
 ##### Artikel 13
 
 1. Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033363) wordt ingetrokken.
 
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
+2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
-
-##### Artikel 14
-
-1. Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033363) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
-
-#### § 4. Slotbepalingen
-
-##### Artikel 15
-
-1. Het [Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033363) wordt ingetrokken.
-
-2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2020.
-
-3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020.
-
-#### § 3. Bevoegdheden
-
-#### § 4. Slotbepalingen
-
-#### § 4. Slotbepalingen

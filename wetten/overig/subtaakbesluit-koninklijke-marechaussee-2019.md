@@ -1,43 +1,17 @@
 ---
 title: "Subtaakbesluit Koninklijke Marechaussee 2019"
 identifier: "BWBR0043241"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-12"
-last_updated: "2019-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043241"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15355413"
-version_id: "26545232"
-internal_id: "C37673541"
-label_id: "15300414"
-dtd_version: "2.0"
-original_entry_into_force: "2020-03-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043241/2020-03-12/0"
-intitule_bron: "Stcrt.2020-13559"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-19"
-intitule_published: "2020-03-10"
-intitule_in_force: "2020-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-13559"
-original_signed_date: "2019-12-19"
-original_published_date: "2020-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-13559"
-entry_into_force_date: "2020-03-12"
-jci_1_3: "jci1.3:c:BWBR0043241&z=2020-03-12&g=2020-03-12"
-jci_1_0: "1.0:c:BWBR0043241&g=2020-03-12"
-citeertitel_status: "officieel"
-signed_date: "2019-12-19"
-entry_into_force: "2020-03-12"
+publicatiedatum: 2020-03-12
+laatste_update: 2020-03-12
+status: geldig
+toestand: 2020-03-12
+bron: "https://wetten.overheid.nl/BWBR0043241"
+opgehaald: 2026-08-29
 ---
+
 # Subtaakbesluit Koninklijke Marechaussee 2019
-
-gelet op [artikel 25 van het Algemeen Organisatiebesluit Defensie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034157&artikel=25),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
@@ -51,183 +25,183 @@ Besluit:
 
 - 1. de Staf CKMar (STC), waaronder ressorteren:
 
-- a. de commandogroep Staf CKMar;
+   - a. de commandogroep Staf CKMar;
 
-- b. de directie Operaties (DOPS):
+   - b. de directie Operaties (DOPS):
 
-- 1. de commandogroep DOPS;
+      - 1. de commandogroep DOPS;
 
-- 2. het bureau Regie en Besturing;
+      - 2. het bureau Regie en Besturing;
 
-- 3. het cluster Bewaken en Beveiligen;
+      - 3. het cluster Bewaken en Beveiligen;
 
-- 4. het cluster Grens Management;
+      - 4. het cluster Grens Management;
 
-- 5. het cluster Handhaving en Opsporen;
+      - 5. het cluster Handhaving en Opsporen;
 
-- 6. het cluster Defensie en Internationale Samenwerking.
+      - 6. het cluster Defensie en Internationale Samenwerking.
 
-- c. de directie Personeel en Bedrijfsvoering (DPB):
+   - c. de directie Personeel en Bedrijfsvoering (DPB):
 
-- 1. de commandogroep DPB;
+      - 1. de commandogroep DPB;
 
-- 2. de stafgroep Vraag- en Aanbodmanagement;
+      - 2. de stafgroep Vraag- en Aanbodmanagement;
 
-- 3. het cluster Personeel en Organisatie;
+      - 3. het cluster Personeel en Organisatie;
 
-- 4. het cluster Informatievoorziening;
+      - 4. het cluster Informatievoorziening;
 
-- 5. het cluster Facilitair Logistiek Management;
+      - 5. het cluster Facilitair Logistiek Management;
 
-- 6. het cluster Projecten.
+      - 6. het cluster Projecten.
 
-- d. de afdeling Financiën en Control (AFC):
+   - d. de afdeling Financiën en Control (AFC):
 
-- 1. het cluster Begrotingszaken en Managementinformatie;
+      - 1. het cluster Begrotingszaken en Managementinformatie;
 
-- 2. het cluster Dedicated Control.
+      - 2. het cluster Dedicated Control.
 
-- e. de afdeling Kabinet (KAB):
+   - e. de afdeling Kabinet (KAB):
 
-- 1. het cluster Integriteit;
+      - 1. het cluster Integriteit;
 
-- 2. het cluster Integrale Plannen en Advies;
+      - 2. het cluster Integrale Plannen en Advies;
 
-- 3. het cluster Juridische Zaken;
+      - 3. het cluster Juridische Zaken;
 
-- 4. het cluster Communicatie, Ceremonieel en Evenementen;
+      - 4. het cluster Communicatie, Ceremonieel en Evenementen;
 
-- 5. het cluster Persoonlijke Staf.
+      - 5. het cluster Persoonlijke Staf.
 
 - 2. Het Landelijk Tactisch Commando (LTC), waaronder ressorteren:
 
-- a. de staf LTC:
+   - a. de staf LTC:
 
-- 1. de commandogroep LTC;
+      - 1. de commandogroep LTC;
 
-- a. het bureau Bestuursondersteuning / Secretariaat;
+         - a. het bureau Bestuursondersteuning / Secretariaat;
 
-- b. het bureau Communicatie;
+         - b. het bureau Communicatie;
 
-- c. het bureau Integratie;
+         - c. het bureau Integratie;
 
-- d. het bureau Projecten.
+         - d. het bureau Projecten.
 
-- 2. de militaire politie zorg (MPZ);
+      - 2. de militaire politie zorg (MPZ);
 
-- 3. de afdeling Intelligence:
+      - 3. de afdeling Intelligence:
 
-- a. de sectie Intell knooppunt;
+         - a. de sectie Intell knooppunt;
 
-- b. de sectie Analyse en Onderzoek;
+         - b. de sectie Analyse en Onderzoek;
 
-- c. de sectie Operationele Intelligence;
+         - c. de sectie Operationele Intelligence;
 
-- d. de sectie Bijzondere Dienst (BD).
+         - d. de sectie Bijzondere Dienst (BD).
 
-- 4. De afdeling Plans;
+      - 4. De afdeling Plans;
 
-- 5. De afdeling Operations:
+      - 5. De afdeling Operations:
 
-- a. de sectie GPT: Grens Politie Taken;
+         - a. de sectie GPT: Grens Politie Taken;
 
-- b. de sectie B&B: Bewaken en Beveiligen;
+         - b. de sectie B&B: Bewaken en Beveiligen;
 
-- c. de sectie IMPT: Internationale- en Militaire Politietaken;
+         - c. de sectie IMPT: Internationale- en Militaire Politietaken;
 
-- d. de sectie TVO: Taak Overschrijdende Operaties;
+         - d. de sectie TVO: Taak Overschrijdende Operaties;
 
-- e. de sectie BI, OP BV en OP: Business Intell, Operationele Bedrijfsvoering en Operationele Planning;
+         - e. de sectie BI, OP BV en OP: Business Intell, Operationele Bedrijfsvoering en Operationele Planning;
 
-- f. het ECID: Expertise Centrum Identiteitsfraude en Documenten;
+         - f. het ECID: Expertise Centrum Identiteitsfraude en Documenten;
 
-- g. het ECBB: Expertise Centrum Bewaken en Beveiligen.
+         - g. het ECBB: Expertise Centrum Bewaken en Beveiligen.
 
-- 6. De afdeling Support:
+      - 6. De afdeling Support:
 
-- a. de sectie P&O advies: Personeel en Organisatie advies;
+         - a. de sectie P&O advies: Personeel en Organisatie advies;
 
-- b. de sectie OPZ: Operationele Personeels Zaken;
+         - b. de sectie OPZ: Operationele Personeels Zaken;
 
-- c. de sectie M&D: Materieel en Diensten;
+         - c. de sectie M&D: Materieel en Diensten;
 
-- d. de sectie IV&CIS: Informatievoorziening en Communicatie Informatiesystemen.
+         - d. de sectie IV&CIS: Informatievoorziening en Communicatie Informatiesystemen.
 
-- 7. Coördinatie Schiphol (CS).
+      - 7. Coördinatie Schiphol (CS).
 
-- b. de Brigades (20):
+   - b. de Brigades (20):
 
-- 1. BTBB: Brigade Toezicht Beveiliging Burgerluchtvaart;
+      - 1. BTBB: Brigade Toezicht Beveiliging Burgerluchtvaart;
 
-- 2. BSB: Brigade Speciale Beveiligingsopdrachten;
+      - 2. BSB: Brigade Speciale Beveiligingsopdrachten;
 
-- 3. CARIB: Brigade Caribisch gebied;
+      - 3. CARIB: Brigade Caribisch gebied;
 
-- 4. Recherche: Brigade Recherche;
+      - 4. Recherche: Brigade Recherche;
 
-- 5. BOSS: Brigade Operationele Service en Support;
+      - 5. BOSS: Brigade Operationele Service en Support;
 
-- 6. Overige brigades KMar (15):
+      - 6. Overige brigades KMar (15):
 
-- a. Brigade Brabant-Noord/Limburg-Noord;
+         - a. Brigade Brabant-Noord/Limburg-Noord;
 
-- b. Brigade Brabant-Zuid;
+         - b. Brigade Brabant-Zuid;
 
-- c. Brigade Drenthe-Ijsselstreek;
+         - c. Brigade Drenthe-Ijsselstreek;
 
-- d. Brigade Grensbewaking;
+         - d. Brigade Grensbewaking;
 
-- e. Brigade Noord-Holland;
+         - e. Brigade Noord-Holland;
 
-- f. Brigade Politie en Beveiliging;
+         - f. Brigade Politie en Beveiliging;
 
-- g. Brigade Scheldestromen;
+         - g. Brigade Scheldestromen;
 
-- h. Brigade Veluwe;
+         - h. Brigade Veluwe;
 
-- i. Brigade Vreemdelingenzaken;
+         - i. Brigade Vreemdelingenzaken;
 
-- j. Brigade Zuid-Holland;
+         - j. Brigade Zuid-Holland;
 
-- k. Brigade Limburg-Zuid;
+         - k. Brigade Limburg-Zuid;
 
-- l. Brigade Objectbeveiliging;
+         - l. Brigade Objectbeveiliging;
 
-- m. Brigade Oostgrens-Midden;
+         - m. Brigade Oostgrens-Midden;
 
-- n. Brigade Oostgrens-Noord;
+         - n. Brigade Oostgrens-Noord;
 
-- o. Brigade Waddengebied.
+         - o. Brigade Waddengebied.
 
-- c. het Hoog Risico Beveiliging Eskadron (HRB).
+   - c. het Hoog Risico Beveiliging Eskadron (HRB).
 
 - 3. het Opleidings-, Trainings- en Kenniscentrum KMar (OTCKMar), waaronder ressorteren:
 
-- a. de Staf OTCKMar:
+   - a. de Staf OTCKMar:
 
-- 1. de commandogroep OTCKMar;
+      - 1. de commandogroep OTCKMar;
 
-- 2. de sectie Personeel & Organisatie;
+      - 2. de sectie Personeel & Organisatie;
 
-- 3. de sectie Operaties;
+      - 3. de sectie Operaties;
 
-- 4. de sectie OTK Plannen;
+      - 4. de sectie OTK Plannen;
 
-- 5. de sectie IV en Communicatie;
+      - 5. de sectie IV en Communicatie;
 
-- 6. de sectie Oefeningen.
+      - 6. de sectie Oefeningen.
 
-- b. de opleidings sectoren:
+   - b. de opleidings sectoren:
 
-- 1. de sector Basisopleidingen;
+      - 1. de sector Basisopleidingen;
 
-- 2. de sector Vaktechnische opleidingen;
+      - 2. de sector Vaktechnische opleidingen;
 
-- 3. de sector Kennis;
+      - 3. de sector Kennis;
 
-- 4. de sector Integrale Beroepsvaardigheids Trainingen (IBT);
+      - 4. de sector Integrale Beroepsvaardigheids Trainingen (IBT);
 
-- 5. de sector Ondersteuning.
+      - 5. de sector Ondersteuning.
 
 ##### Artikel 3. Passagiersinformatie-eenheid Nederland (Pi-NL)
 
@@ -239,11 +213,11 @@ De Passagiersinformatie-eenheid Nederland (Pi-NL) is ondergebracht bij de Konink
 
 - c. de teams:
 
-- 1. Beoordelen en Verstrekken;
+   - 1. Beoordelen en Verstrekken;
 
-- 2. Analyse;
+   - 2. Analyse;
 
-- 3. Liaison Officieren (LSO).
+   - 3. Liaison Officieren (LSO).
 
 ##### Artikel 4. Plaatsvervangend Commandant KMar (PCKMar)
 
@@ -271,15 +245,15 @@ De directie Operaties staat onder leiding van de directeur Operaties die is bela
 
 - e. het leveren van een bijdrage aan de BPB-procedure;
 
-- 1. het proactief vaststellen van normen en standaarden;
+   - 1. het proactief vaststellen van normen en standaarden;
 
-- 2. het ontwikkelen van KMar-brede normen voor de operationele taken van de KMar;
+   - 2. het ontwikkelen van KMar-brede normen voor de operationele taken van de KMar;
 
-- 3. het leveren van een bijdrage aan de totstandkoming van BPB producten;
+   - 3. het leveren van een bijdrage aan de totstandkoming van BPB producten;
 
-- 4. het uitvoeren van de risicoanalyse ten behoeve van jaar T en jaar (T-1);
+   - 4. het uitvoeren van de risicoanalyse ten behoeve van jaar T en jaar (T-1);
 
-- 5. het leveren van een bijdrage aan het Jaarplan;
+   - 5. het leveren van een bijdrage aan het Jaarplan;
 
 - f. het adviseren van CKMar en de inhoudelijke voorbereiding van (in)formele externe gremia op het gebied van de operaties;
 
@@ -357,43 +331,43 @@ Het Landelijk Tactisch Commando staat onder leiding van de commandant van het La
 
 - a. het met inachtneming van de aanwijzingen en richtlijnen van de Commandant Koninklijke Marechaussee geven van leiding aan het Landelijk Tactisch Commando;
 
-- b. het vanuit de **uitvoerende rol** dragen van verantwoordelijkheid voor;
+- b. het vanuit de *uitvoerende rol* dragen van verantwoordelijkheid voor;
 
-- 1. het tactisch uitwerken van aanwijzingen en richtlijnen van de CKMar;
+   - 1. het tactisch uitwerken van aanwijzingen en richtlijnen van de CKMar;
 
-- 2. het uitvoeren van de taken in opdracht van CKMar;
+   - 2. het uitvoeren van de taken in opdracht van CKMar;
 
-- 3. het zorgdragen voor de operationele gereedheid, inzet en instandhouding van personeel en middelen van het LTC;
+   - 3. het zorgdragen voor de operationele gereedheid, inzet en instandhouding van personeel en middelen van het LTC;
 
-- 4. het faciliteren van (nieuw) vakmanschap;
+   - 4. het faciliteren van (nieuw) vakmanschap;
 
-- 5. het zorgdragen voor de personele, operationele en materiële instandhouding m.b.t. crisis-, mobilisatie- en oorlogsvoorbereiding;
+   - 5. het zorgdragen voor de personele, operationele en materiële instandhouding m.b.t. crisis-, mobilisatie- en oorlogsvoorbereiding;
 
-- 6. het voeren van overleg en onderhouden van contacten met lokale, bestuurlijke, militaire en justitiële autoriteiten t.b.v. de taakuitvoering;
+   - 6. het voeren van overleg en onderhouden van contacten met lokale, bestuurlijke, militaire en justitiële autoriteiten t.b.v. de taakuitvoering;
 
-- 7. intelligence, waarbij op basis van inzichten op zowel tactisch als operationeel niveau keuzes gemaakt kunnen worden over de gewenste inzet van mensen en middelen en in de ondersteuning van de informatiepositie van de operationele medewerker;
+   - 7. intelligence, waarbij op basis van inzichten op zowel tactisch als operationeel niveau keuzes gemaakt kunnen worden over de gewenste inzet van mensen en middelen en in de ondersteuning van de informatiepositie van de operationele medewerker;
 
-- 8. het OPSCENT, waarmee op 24*7 basis een landelijk aanspreekpunt ontstaat en dat de operationele collegae ondersteunt;
+   - 8. het OPSCENT, waarmee op 24*7 basis een landelijk aanspreekpunt ontstaat en dat de operationele collegae ondersteunt;
 
-- 9. het zorgdragen voor een landelijke calamiteiten organisatie en de specifieke calamiteiten organisatie t.b.v. de Luchthaven Schiphol.
+   - 9. het zorgdragen voor een landelijke calamiteiten organisatie en de specifieke calamiteiten organisatie t.b.v. de Luchthaven Schiphol.
 
-- c. het vanuit de **adviserende rol** dragen van verantwoordelijkheid voor:
+- c. het vanuit de *adviserende rol* dragen van verantwoordelijkheid voor:
 
-- 1. het bijdragen aan beleid, plannen en begroting t.b.v. het BPB proces. Dit betreft o.a. het adviseren t.b.v. het strategisch plan KMar, adviseren bij dossiers op strategische niveaus, het opleveren van een tactisch jaarplan en het opleveren van rapportages;
+   - 1. het bijdragen aan beleid, plannen en begroting t.b.v. het BPB proces. Dit betreft o.a. het adviseren t.b.v. het strategisch plan KMar, adviseren bij dossiers op strategische niveaus, het opleveren van een tactisch jaarplan en het opleveren van rapportages;
 
-- 2. het voorzien in de door Staf C-KMar gestelde informatiebehoefte.
+   - 2. het voorzien in de door Staf C-KMar gestelde informatiebehoefte.
 
-- d. het vanuit de **HDE (Hoofd Dienst Eenheid)rol** dragen van verantwoordelijkheid voor:
+- d. het vanuit de *HDE (Hoofd Dienst Eenheid)rol* dragen van verantwoordelijkheid voor:
 
-- 1. het opstellen en actualiseren van LTC kaders en richtlijnen m.b.t. de werkwijze, de veiligheidszorg, de inzet van mensen en middelen. Kaders en richtlijnen t.b.v. het ondersteunen van het gehele LTC;
+   - 1. het opstellen en actualiseren van LTC kaders en richtlijnen m.b.t. de werkwijze, de veiligheidszorg, de inzet van mensen en middelen. Kaders en richtlijnen t.b.v. het ondersteunen van het gehele LTC;
 
-- 2. het toezien op de juiste uitvoering van de operationele kaders, richtlijnen en instructies;
+   - 2. het toezien op de juiste uitvoering van de operationele kaders, richtlijnen en instructies;
 
-- 3. het zorgdragen voor een doelmatige inrichting, de bedrijfsvoering en het interne beheer van het LTC;
+   - 3. het zorgdragen voor een doelmatige inrichting, de bedrijfsvoering en het interne beheer van het LTC;
 
-- 4. het begeleiden van de Brigade Commandanten (servant leadership en het leiderschapskompas Defensie);
+   - 4. het begeleiden van de Brigade Commandanten (servant leadership en het leiderschapskompas Defensie);
 
-- 5. het voeren van overleg met de medezeggenschap binnen het LTC.
+   - 5. het voeren van overleg met de medezeggenschap binnen het LTC.
 
 ##### Artikel 9a. Commandogroep (LTC)
 
@@ -481,35 +455,35 @@ Binnen het LTC zijn er 20 brigades: vijf specifieke brigades en 15 overige briga
 
 - 6. Overige Brigades KMar (15):
 
-- a. Brigade Brabant-Noord/Limburg-Noord;
+   - a. Brigade Brabant-Noord/Limburg-Noord;
 
-- b. Brigade Brabant-Zuid;
+   - b. Brigade Brabant-Zuid;
 
-- c. Brigade Drenthe-Ijsselstreek;
+   - c. Brigade Drenthe-Ijsselstreek;
 
-- d. Brigade Grensbewaking;
+   - d. Brigade Grensbewaking;
 
-- e. Brigade Noord-Holland;
+   - e. Brigade Noord-Holland;
 
-- f. Brigade Politie en Beveiliging;
+   - f. Brigade Politie en Beveiliging;
 
-- g. Brigade Scheldestromen;
+   - g. Brigade Scheldestromen;
 
-- h. Brigade Veluwe;
+   - h. Brigade Veluwe;
 
-- i. Brigade Vreemdelingenzaken;
+   - i. Brigade Vreemdelingenzaken;
 
-- j. Brigade Zuid-Holland;
+   - j. Brigade Zuid-Holland;
 
-- k. Brigade Limburg-Zuid;
+   - k. Brigade Limburg-Zuid;
 
-- l. Brigade Objectbeveiliging;
+   - l. Brigade Objectbeveiliging;
 
-- m. Brigade Oostgrens-Midden;
+   - m. Brigade Oostgrens-Midden;
 
-- n. Brigade Oostgrens-Noord;
+   - n. Brigade Oostgrens-Noord;
 
-- o. Brigade Waddengebied.
+   - o. Brigade Waddengebied.
 
 En er is een Hoog Risico Beveiliging (HRB) eskadron.
 
@@ -659,7 +633,7 @@ Het Opleidings-, Trainings- en Kenniscentrum KMar staat onder leiding van de com
 
 ##### Artikel 12. Passagiersinformatie-eenheid Nederland (Pi-NL)
 
-De Passagiersinformatie-eenheid Nederland staat onder leiding van een hoofd Pi-NL. Pi-NL is belast met het uitvoeren van de taken conform [art. 5, eerste lid van de wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5) (PNR). Dit is nader uitgewerkt in het [besluit PNR](https://wetten.overheid.nl/jci1.3:c:BWBR0042377). In bestuursafspraken inzake het hosten van de Pi-NL door Defensie/KMar d.d. 19 juni 2019 zijn de rollen en taken beschreven van de eigenaar van de Pi-NL.
+De Passagiersinformatie-eenheid Nederland staat onder leiding van een hoofd Pi-NL. Pi-NL is belast met het uitvoeren van de taken conform [art. 5, eerste lid van de wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5) (PNR). Dit is nader uitgewerkt in het [besluit PNR](https://wetten.overheid.nl/jci1.3:c:BWBR0042377). In bestuursafspraken inzake het hosten van de Pi-NL door Defensie/KMar d.d. 19 juni 2019 zijn de rollen en taken beschreven van de eigenaar van de Pi-NL.
 
 ##### Artikel 13. Intrekking huidige subtaakbesluit
 
@@ -667,10 +641,8 @@ Het [subtaakbesluit Koninklijke Marechaussee 2015](https://wetten.overheid.nl/jc
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit subtaakbesluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin mededeling wordt gedaan van plaatsing van dit besluit in de reeks ministeriële publicaties van het Ministerie van Defensie en werkt terug tot en met 1 februari 2019.
+Dit subtaakbesluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin mededeling wordt gedaan van plaatsing van dit besluit in de reeks ministeriële publicaties van het Ministerie van Defensie en werkt terug tot en met 1 februari 2019.
 
 ##### Artikel 15. Citeertitel
 
-Dit besluit wordt aangehaald als: **Subtaakbesluit Koninklijke Marechaussee 2019.**
-
-## Bijlage 1. Organigram KMar
+Dit besluit wordt aangehaald als: *Subtaakbesluit Koninklijke Marechaussee 2019.*

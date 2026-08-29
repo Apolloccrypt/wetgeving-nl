@@ -1,61 +1,35 @@
 ---
 title: "Instellingsbesluit Commissie monitoring VWNW"
 identifier: "BWBR0042965"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-31"
-last_updated: "2019-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042965"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15291583"
-version_id: "26353022"
-internal_id: "C37452901"
-label_id: "15237434"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042965/2019-12-31/0"
-intitule_bron: "Stcrt.2019-70713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-05-21"
-intitule_published: "2019-12-30"
-intitule_in_force: "2019-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-70713"
-original_signed_date: "2019-05-21"
-original_published_date: "2019-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-70713"
-entry_into_force_date: "2019-12-31"
-jci_1_3: "jci1.3:c:BWBR0042965&z=2019-12-31&g=2019-12-31"
-jci_1_0: "1.0:c:BWBR0042965&g=2019-12-31"
-citeertitel_status: "redactioneel"
-signed_date: "2019-05-21"
-entry_into_force: "2019-12-31"
+publicatiedatum: 2019-12-31
+laatste_update: 2019-12-31
+status: geldig
+toestand: 2019-12-31
+bron: "https://wetten.overheid.nl/BWBR0042965"
+opgehaald: 2026-08-29
 ---
+
 # Instellingsbesluit Commissie monitoring VWNW
-
-De plaatsvervangend Secretaris-Generaal van het ministerie van Financiën, gelet op hetgeen in het Sector Overleg Rijkspersoneel is overeengekomen in de overeenkomst VWNW-beleid en WW-dossier sector Rijk (verder: de overeenkomst), zoals die op 21 mei 2019 in het Sectoroverleg Rijk is vastgesteld, gehoord het Departementaal georganiseerd overleg Financiën; (2019-210297)
-
-besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **De Commissie:** de Commissie monitoring VWNW-beleid Financiën
+- a. *De Commissie:* de Commissie monitoring VWNW-beleid Financiën
 
-- b. **VWNW-beleid:** de afspraken tussen de Minister voor Wonen en Rijksdienst en de centrales van overheidspersoneel als bedoeld in de Overeenkomst;
+- b. *VWNW-beleid:* de afspraken tussen de Minister voor Wonen en Rijksdienst en de centrales van overheidspersoneel als bedoeld in de Overeenkomst;
 
-- c. **De Minister:** de Minister van Financiën
+- c. *De Minister:* de Minister van Financiën
 
-- d. **Het ministerie:** Ministerie van Financiën
+- d. *Het ministerie:* Ministerie van Financiën
 
-- e. **Het DGO Financiën:** het departementaal georganiseerd overleg bij het ministerie
+- e. *Het DGO Financiën:* het departementaal georganiseerd overleg bij het ministerie
 
-- f. **SG:** Secretaris-Generaal
+- f. *SG:* Secretaris-Generaal
 
-- g. **DG Belastingdienst:** het directoraat-generaal Belastingdienst
+- g. *DG Belastingdienst:* het directoraat-generaal Belastingdienst
 
 ##### Artikel 2. Instelling
 
@@ -93,15 +67,15 @@ In dit besluit wordt verstaan onder:
 
 - a. Namens de dienstleiding:
 
-- i. Leidinggevende O&P van het SG-Cluster, tevens voorzitter
+   - i. Leidinggevende O&P van het SG-Cluster, tevens voorzitter
 
-- ii. Leidinggevende O&P van het DG Belastingdienst
+   - ii. Leidinggevende O&P van het DG Belastingdienst
 
 - b. Namens de samenwerkende centrales voor overheidspersoneel in het DGO Financiën:
 
-- i. Bart Lamers
+   - i. Bart Lamers
 
-- ii. Dennis Baegen
+   - ii. Dennis Baegen
 
 2. De benoemingen zijn voor de duur van maximaal 4 jaar. Herbenoeming voor een nieuwe termijn is mogelijk.
 

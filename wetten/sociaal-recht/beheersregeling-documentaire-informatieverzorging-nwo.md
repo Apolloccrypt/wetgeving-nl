@@ -1,40 +1,17 @@
 ---
 title: "Beheersregeling documentaire informatieverzorging NWO"
 identifier: "BWBR0043110"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-01-31"
-last_updated: "2020-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043110"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15326863"
-version_id: "26483422"
-internal_id: "C37603521"
-label_id: "15272604"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043110/2020-01-31/0"
-intitule_bron: "Stcrt.2020-5420"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-01-30"
-intitule_in_force: "2020-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-5420"
-original_published_date: "2020-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-5420"
-entry_into_force_date: "2020-01-31"
-jci_1_3: "jci1.3:c:BWBR0043110&z=2020-01-31&g=2020-01-31"
-jci_1_0: "1.0:c:BWBR0043110&g=2020-01-31"
-citeertitel_status: "officieel"
-entry_into_force: "2020-01-31"
+publicatiedatum: 2020-01-31
+laatste_update: 2020-01-31
+status: geldig
+toestand: 2020-01-31
+bron: "https://wetten.overheid.nl/BWBR0043110"
+opgehaald: 2026-08-29
 ---
+
 # Beheersregeling documentaire informatieverzorging NWO
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Begrippenkader
 
@@ -42,99 +19,99 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- 1. **Archief:** geheel van records onder de zorg van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (hierna: NWO)
+- 1. *Archief:* geheel van records onder de zorg van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (hierna: NWO)
 
-- 2. **Archiefbeheer:** het in opdracht van het hoofd van een archiefvormend orgaan, volgens de geldende regelingen, uitvoeren van het dagelijks beheer van records
+- 2. *Archiefbeheer:* het in opdracht van het hoofd van een archiefvormend orgaan, volgens de geldende regelingen, uitvoeren van het dagelijks beheer van records
 
-- 3. **Archiveringssysteem:** het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd voor het beheer van records
+- 3. *Archiveringssysteem:* het geheel van mensen, methoden, procedures, gegevensverzamelingen, programmatuur, apparatuur, voorzieningen en andere middelen, bestemd voor het beheer van records
 
-- 4. **Archiefbestanddeel:** geheel van records binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen, zoals een dossier, een rubriek, een serie, een zaak, een zaaktype
+- 4. *Archiefbestanddeel:* geheel van records binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen, zoals een dossier, een rubriek, een serie, een zaak, een zaaktype
 
-- 5. **Archiefbewaarplaats:** een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats. Voor NWO is dit het Nationaal Archief.
+- 5. *Archiefbewaarplaats:* een bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) voor blijvende bewaring van records aangewezen bewaarplaats. Voor NWO is dit het Nationaal Archief.
 
-- 6. **Archiefmedewerker:** diegene die in opdracht van de beheerder de feitelijke archivistische werkzaamheden verricht
+- 6. *Archiefmedewerker:* diegene die in opdracht van de beheerder de feitelijke archivistische werkzaamheden verricht
 
-- 7. **Archiefvormend orgaan:** de onderdelen van NWO genoemd in [artikel 4 van de Wet op NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=4), dan wel de organisatieonderdelen genoemd in [artikel 1.2 van het Bestuursreglement NWO 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2), alsmede een ander orgaan, dat een (deel van een) taak of taken van NWO dan wel opgedragen door de Raad van Bestuur uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+- 7. *Archiefvormend orgaan:* de onderdelen van NWO genoemd in [artikel 4 van de Wet op NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=4), dan wel de organisatieonderdelen genoemd in [artikel 1.2 van het Bestuursreglement NWO 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2), alsmede een ander orgaan, dat een (deel van een) taak of taken van NWO dan wel opgedragen door de Raad van Bestuur uitvoert en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
-- 8. **Authenticiteit:** de mate waarin van een document kan worden aangetoond dat:
+- 8. *Authenticiteit:* de mate waarin van een document kan worden aangetoond dat:
 
-- a. het document is wat het beweert te zijn;
+   - a. het document is wat het beweert te zijn;
 
-- b. het is gemaakt of verzonden door de persoon of organisatie die beweert het te hebben gemaakt of verzonden;
+   - b. het is gemaakt of verzonden door de persoon of organisatie die beweert het te hebben gemaakt of verzonden;
 
-- c. het is gemaakt en verzonden op de tijdstip(pen) als aangegeven op het document.
+   - c. het is gemaakt en verzonden op de tijdstip(pen) als aangegeven op het document.
 
-- 9. **Beheerder:** degene die in opdracht van het CIO belast is met het informatie- en archiefbeheer
+- 9. *Beheerder:* degene die in opdracht van het CIO belast is met het informatie- en archiefbeheer
 
-- 10. **Beheersregeling:** onderhavige, door de Raad van Bestuur, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling
+- 10. *Beheersregeling:* onderhavige, door de Raad van Bestuur, op grond van [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), vastgestelde regeling
 
-- 11. **Beschrijvende inventaris:** een opsomming van de archivistische kenmerken van de afzonderlijke bestanddelen van een archief
+- 11. *Beschrijvende inventaris:* een opsomming van de archivistische kenmerken van de afzonderlijke bestanddelen van een archief
 
-- 12. **Betrouwbaarheid:** de mate waarin de inhoud van een archief(onderdeel), dossier of record kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten waarvan het getuigt en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten
+- 12. *Betrouwbaarheid:* de mate waarin de inhoud van een archief(onderdeel), dossier of record kan worden beschouwd als een volledige en nauwkeurige weergave van transacties, activiteiten of feiten waarvan het getuigt en waarop men zich kan verlaten bij de uitvoering van opvolgende transacties of activiteiten
 
-- 13. **Conversie:** omzetting of overzetting van gegevens in een ander bestandsformaat
+- 13. *Conversie:* omzetting of overzetting van gegevens in een ander bestandsformaat
 
-- 14. **Digitale records:** records die uitsluitend met behulp van besturingsprogrammatuur of toepassingsprogrammatuur geraadpleegd kunnen worden
+- 14. *Digitale records:* records die uitsluitend met behulp van besturingsprogrammatuur of toepassingsprogrammatuur geraadpleegd kunnen worden
 
-- 15. **Document:** geheel van samenhangende gegevens, vastgelegd op een gegevensdrager
+- 15. *Document:* geheel van samenhangende gegevens, vastgelegd op een gegevensdrager
 
-- 16. **Documentaire informatieverzorging:** alle activiteiten en voorzieningen binnen de organisatie gericht op het in goede, geordende en toegankelijke staat brengen en bewaren van records
+- 16. *Documentaire informatieverzorging:* alle activiteiten en voorzieningen binnen de organisatie gericht op het in goede, geordende en toegankelijke staat brengen en bewaren van records
 
-- 17. **Dossier:** het geheel van records dat betrekking heeft op de behandeling van een zaak
+- 17. *Dossier:* het geheel van records dat betrekking heeft op de behandeling van een zaak
 
-- 18. **Duurzaamheid:** de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van records is gewaarborgd gedurende de levensduur van een record
+- 18. *Duurzaamheid:* de mate waarin de toegankelijkheid, authenticiteit en betrouwbaarheid van records is gewaarborgd gedurende de levensduur van een record
 
-- 19. **Emulatie:** techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie
+- 19. *Emulatie:* techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie
 
-- 20. **Gegevensdrager:** materiaal waarop of waarin gegevens worden vastgelegd
+- 20. *Gegevensdrager:* materiaal waarop of waarin gegevens worden vastgelegd
 
-- 21. **Hoofd van een archiefvormend orgaan:** het hoofd van een orgaan als genoemd in [artikel 4 van de Wet op de NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=4), dan wel een organisatieonderdeel genoemd in [artikel 1.2 van het Bestuursreglement NWO 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2) alsmede hoofden van andere organen onder wiens verantwoordelijkheid een (deel van een) taak of taken van NWO dan wel opgedragen door de Raad van Bestuur worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- 21. *Hoofd van een archiefvormend orgaan:* het hoofd van een orgaan als genoemd in [artikel 4 van de Wet op de NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=4), dan wel een organisatieonderdeel genoemd in [artikel 1.2 van het Bestuursreglement NWO 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=1.2) alsmede hoofden van andere organen onder wiens verantwoordelijkheid een (deel van een) taak of taken van NWO dan wel opgedragen door de Raad van Bestuur worden uitgevoerd en waarvoor afzonderlijk dient te worden gearchiveerd ingevolge de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
-- 22. **Leesbaarheid:** de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd
+- 22. *Leesbaarheid:* de mate waarin van informatie, de opslagtechniek (drager, formaat) en het schrift bekend zijn, waardoor zij op een voor de mens natuurlijke manier kan worden waargenomen en geïnterpreteerd
 
-- 23. **Metagegevens:** gegevens die de context, inhoud, structuur en gedrag van records en hun beheer door de tijd heen beschrijven
+- 23. *Metagegevens:* gegevens die de context, inhoud, structuur en gedrag van records en hun beheer door de tijd heen beschrijven
 
-- 24. **Migratie:** de overzetting van gegevens en toepassingsprogrammatuur naar een ander platform
+- 24. *Migratie:* de overzetting van gegevens en toepassingsprogrammatuur naar een ander platform
 
-- 25. **Opheffing:** een organisatiewijziging, waarbij de taken van NWO of een van zijn archiefvormende organen worden beëindigd of overgedragen aan een ander overheidsorgaan en de verplichtingen als zorgdrager overgaan op de rechtsopvolger
+- 25. *Opheffing:* een organisatiewijziging, waarbij de taken van NWO of een van zijn archiefvormende organen worden beëindigd of overgedragen aan een ander overheidsorgaan en de verplichtingen als zorgdrager overgaan op de rechtsopvolger
 
-- 26. **Overbrenging:** het overdragen van de zorg en het beheer van records die voor permanente bewaring in aanmerking komen aan het Nationaal Archief
+- 26. *Overbrenging:* het overdragen van de zorg en het beheer van records die voor permanente bewaring in aanmerking komen aan het Nationaal Archief
 
-- 27. **Overdracht:** het in beheer overdragen van records aan een ander organisatie onderdeel van NWO
+- 27. *Overdracht:* het in beheer overdragen van records aan een ander organisatie onderdeel van NWO
 
-- 28. **Privatisering:** het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een andere rechtspersoon dan een rechtspersoonlijkheid bezittend overheidsorgaan
+- 28. *Privatisering:* het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een andere rechtspersoon dan een rechtspersoonlijkheid bezittend overheidsorgaan
 
-- 29. **Records:** archiefwaardige documenten (ook wel te noemen archiefbescheiden); archiefstuk(ken) in de zin van [artikel 1c, eerste tot en met vierde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1)
+- 29. *Records:* archiefwaardige documenten (ook wel te noemen archiefbescheiden); archiefstuk(ken) in de zin van [artikel 1c, eerste tot en met vierde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1)
 
-- 30. **Reorganisatie:** het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een ander archiefvormend orgaan binnen NWO
+- 30. *Reorganisatie:* het geheel of gedeeltelijk overdragen van de taken van een archiefvormend orgaan aan een ander archiefvormend orgaan binnen NWO
 
-- 31. **Selectie:** het op grond van een vastgestelde selectielijst bepalen van de bewaartermijnen van records
+- 31. *Selectie:* het op grond van een vastgestelde selectielijst bepalen van de bewaartermijnen van records
 
-- 32. **Selectielijst:** de lijst zoals bedoeld in de [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), waarin is opgenomen welke records voor permanente bewaring en welke voor vernietiging in aanmerking komen
+- 32. *Selectielijst:* de lijst zoals bedoeld in de [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5), waarin is opgenomen welke records voor permanente bewaring en welke voor vernietiging in aanmerking komen
 
-- 33. **Documentair Structuur Plan (DSP):** een actueel, compleet en logisch overzicht van de bij NWO, onderdeel van NWO berustende records, geordend overeenkomstig de werkprocessen, taak of taken van de organisatie
+- 33. *Documentair Structuur Plan (DSP):* een actueel, compleet en logisch overzicht van de bij NWO, onderdeel van NWO berustende records, geordend overeenkomstig de werkprocessen, taak of taken van de organisatie
 
-- 34. **Taak:** het geheel van samenhangende handelingen en werkprocessen van een overheidsorgaan dat zijn grondslag vindt in wet- en regelgeving en algemene bestuursopdrachten
+- 34. *Taak:* het geheel van samenhangende handelingen en werkprocessen van een overheidsorgaan dat zijn grondslag vindt in wet- en regelgeving en algemene bestuursopdrachten
 
-- 35. **Toegankelijkheid:** de mate waarin een archief(onderdeel), dossier of record lokaliseerbaar, vindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen
+- 35. *Toegankelijkheid:* de mate waarin een archief(onderdeel), dossier of record lokaliseerbaar, vindbaar, leesbaar en interpreteerbaar is voor daartoe bevoegde personen of systemen
 
-- 36. **Toezicht:** het verzamelen van informatie over de archiefvorming, het beheer en de staat van een archief(onderdeel) om vast te stellen of het voldoet aan de daaraan gestelde eisen, om daarover een oordeel te vormen en om naar aanleiding daarvan eventueel te interveniëren
+- 36. *Toezicht:* het verzamelen van informatie over de archiefvorming, het beheer en de staat van een archief(onderdeel) om vast te stellen of het voldoet aan de daaraan gestelde eisen, om daarover een oordeel te vormen en om naar aanleiding daarvan eventueel te interveniëren
 
-- 37. **Vernietiging:** het zodanig bewerken van de gegevensdrager dat daarvan of daaruit op geen enkele wijze de gegevens die zij bevatten kunnen worden gereconstrueerd
+- 37. *Vernietiging:* het zodanig bewerken van de gegevensdrager dat daarvan of daaruit op geen enkele wijze de gegevens die zij bevatten kunnen worden gereconstrueerd
 
-- 38. **Vervanging:** het vervangen van records door reproducties, op gelijke of andere informatiedragers, die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats kunnen worden gesteld van de originele records, met gelijktijdige vernietiging van het oorspronkelijke record
+- 38. *Vervanging:* het vervangen van records door reproducties, op gelijke of andere informatiedragers, die bij of krachtens de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) in de plaats kunnen worden gesteld van de originele records, met gelijktijdige vernietiging van het oorspronkelijke record
 
-- 39. **Vervreemding:** het overdragen van zorg en beheer van records aan een andere zorgdrager of civielrechtelijke partij
+- 39. *Vervreemding:* het overdragen van zorg en beheer van records aan een andere zorgdrager of civielrechtelijke partij
 
-- 40. **Vindbaarheid:** de mate waarin informatie zodanig wordt bewaard en beheerd, dat zij binnen een redelijke termijn kan worden gevonden
+- 40. *Vindbaarheid:* de mate waarin informatie zodanig wordt bewaard en beheerd, dat zij binnen een redelijke termijn kan worden gevonden
 
-- 41. **Volledigheid:** de mate waarin alle informatie met betrekking tot een werkproces, die aanwezig zou moeten zijn volgens het beheerregime dat voor dat proces is vastgesteld, is vastgelegd, geregistreerd en wordt beheerd
+- 41. *Volledigheid:* de mate waarin alle informatie met betrekking tot een werkproces, die aanwezig zou moeten zijn volgens het beheerregime dat voor dat proces is vastgesteld, is vastgelegd, geregistreerd en wordt beheerd
 
-- 42. **Waarderen:** het afwegen van waarden en belangen waarmee rekening moet worden gehouden bij het opstellen en vaststellen van een selectielijst
+- 42. *Waarderen:* het afwegen van waarden en belangen waarmee rekening moet worden gehouden bij het opstellen en vaststellen van een selectielijst
 
-- 43. **Werkproces:** samenhangend geheel van stappen en procedures in het kader van de uitvoering van een taak
+- 43. *Werkproces:* samenhangend geheel van stappen en procedures in het kader van de uitvoering van een taak
 
-- 44. **Zorg:** algemeen bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende records in goede, geordende en toegankelijke staat te bewaren
+- 44. *Zorg:* algemeen bestuurlijke verantwoordelijkheid voor het nakomen van de in de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opgenomen verplichting de onder de zorgdrager berustende records in goede, geordende en toegankelijke staat te bewaren
 
 ### Hoofdstuk 2. Organisatie en verantwoordelijkheid
 
@@ -148,45 +125,45 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 1. de Raad van Bestuur:
 
-- a). is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van NWO,
+- a) is zorgdrager in de zin van [artikel 1d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de records van NWO,
 
-- b). blijft onverminderd verantwoordelijk voor de zorg voor de archieven, ook indien hij dit gemandateerd of, geheel dan wel gedeeltelijk, uitbesteed heeft,
+- b) blijft onverminderd verantwoordelijk voor de zorg voor de archieven, ook indien hij dit gemandateerd of, geheel dan wel gedeeltelijk, uitbesteed heeft,
 
-- c). het Raad van Bestuur lid met de portefeuille bedrijfsvoering en financiën draagt de verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
+- c) het Raad van Bestuur lid met de portefeuille bedrijfsvoering en financiën draagt de verantwoordelijkheid voor de documentaire informatieverzorging en stelt de op dit terrein nodige beheersregels en aanwijzingen vast.
 
 2. De directeur bedrijfsvoering is, in zijn rol als Chief Information Officer (CIO), belast met:
 
-- a). de zorg voor governance en de inrichting en kwaliteit van de bedrijfsvoering, waarvan de documentaire informatieverzorging deel uitmaakt,
+- a) de zorg voor governance en de inrichting en kwaliteit van de bedrijfsvoering, waarvan de documentaire informatieverzorging deel uitmaakt,
 
-- b). het voorbereiden van regelingen op het gebied van de documentaire informatieverzorging,
+- b) het voorbereiden van regelingen op het gebied van de documentaire informatieverzorging,
 
-- c). het toezicht op de naleving van de geldende regelingen op het gebied van de documentaire informatieverzorging,
+- c) het toezicht op de naleving van de geldende regelingen op het gebied van de documentaire informatieverzorging,
 
-- d). de vaststelling van kwaliteitseisen aan de documentaire informatieverzorging, metagegevensschema, selectielijsten en standaards,
+- d) de vaststelling van kwaliteitseisen aan de documentaire informatieverzorging, metagegevensschema, selectielijsten en standaards,
 
-- e). coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen NWO zijn gediend.
+- e) coördinerende en adviserende activiteiten waarmee de effectiviteit en de efficiëntie van de documentaire informatieverzorging binnen NWO zijn gediend.
 
 3. Hoofd van een archiefvormend orgaan (domein directeuren, directeur BvF en hoofd bRvB), verenigd in het Directie Team:
 
-- a). stelt voor het verrichten van de werkzaamheden en het dagelijkse toezicht op het archief een centrale beheerder aan met voldoende deskundigheid en aan wie voldoende middelen en deskundig personeel voor de uitoefening van zijn taken beschikbaar worden gesteld,
+- a) stelt voor het verrichten van de werkzaamheden en het dagelijkse toezicht op het archief een centrale beheerder aan met voldoende deskundigheid en aan wie voldoende middelen en deskundig personeel voor de uitoefening van zijn taken beschikbaar worden gesteld,
 
-- b). beheert zijn records in overeenstemming met de bepalingen van deze beheersregeling en andere van toepassing zijnde regelgeving,
+- b) beheert zijn records in overeenstemming met de bepalingen van deze beheersregeling en andere van toepassing zijnde regelgeving,
 
-- c). kan desgewenst nadere aanwijzingen voorstellen voor het archiefbeheer binnen zijn onderdeel,
+- c) kan desgewenst nadere aanwijzingen voorstellen voor het archiefbeheer binnen zijn onderdeel,
 
-- d). past de selectielijst toe op de records in zijn archief,
+- d) past de selectielijst toe op de records in zijn archief,
 
-- e). past het Document Structuur Plan toe op de records in zijn archief.
+- e) past het Document Structuur Plan toe op de records in zijn archief.
 
 4. Informatiemanager met specialisatie Records Management (Beheerder):
 
-- a). verricht of doet verrichten, in opdracht van de CIO of het hoofd van een archiefvormend orgaan en in overeenstemming met de bepalingen van de beheersregeling en andere van toepassing zijnde regelgeving, de feitelijke werkzaamheden op het terrein van de documentaire informatieverzorging,
+- a) verricht of doet verrichten, in opdracht van de CIO of het hoofd van een archiefvormend orgaan en in overeenstemming met de bepalingen van de beheersregeling en andere van toepassing zijnde regelgeving, de feitelijke werkzaamheden op het terrein van de documentaire informatieverzorging,
 
-- b). de archiefmedewerker, die functioneel onder de verantwoordelijkheid van de beheerder valt, draagt zorg voor de archivering van alle archiefwaardige stukken.
+- b) de archiefmedewerker, die functioneel onder de verantwoordelijkheid van de beheerder valt, draagt zorg voor de archivering van alle archiefwaardige stukken.
 
 5. Chief Information Security Officer (CISO)
 
-- a). ziet er op toe dat voor de beveiliging van records en voor de bescherming van daarin opgenomen persoonsgegevens een passend beveiligingsniveau in acht wordt genomen.
+- a) ziet er op toe dat voor de beveiliging van records en voor de bescherming van daarin opgenomen persoonsgegevens een passend beveiligingsniveau in acht wordt genomen.
 
 ### Hoofdstuk 4. De archiefvorming
 
@@ -206,15 +183,15 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 1. Het hoofd van een archiefvormend orgaan zorgt ervoor dat van elk van de te bewaren records te allen tijde kan worden vastgesteld:
 
-- a). de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan door het onderdeel van NWO of orgaan, een en ander voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het werkproces;
+- a) de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan door het onderdeel van NWO of orgaan, een en ander voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het werkproces;
 
-- b). wanneer, door wie en uit hoofde van welke taak of werkproces het door het onderdeel van NWO of orgaan werd ontvangen of opgemaakt;
+- b) wanneer, door wie en uit hoofde van welke taak of werkproces het door het onderdeel van NWO of orgaan werd ontvangen of opgemaakt;
 
-- c). de samenhang met andere door het onderdeel van NWO of orgaan ontvangen en opgemaakte records;
+- c) de samenhang met andere door het onderdeel van NWO of orgaan ontvangen en opgemaakte records;
 
-- d). de met betrekking tot de records uitgevoerde beheersactiviteiten;
+- d) de met betrekking tot de records uitgevoerde beheersactiviteiten;
 
-- e). de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de records worden bewaard of beheerd.
+- e) de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de records worden bewaard of beheerd.
 
 2. De archiefmedewerker koppelt aan records metagegevens volgens het geldende metagegevenschema, aan de hand waarvan te allen tijde de aspecten, bedoeld in het eerste lid, kunnen worden herleid.
 
@@ -290,13 +267,13 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 5. Bij het nemen van een besluit tot vervanging houdt Raad van Bestuur rekening met:
 
-- a). de taak van het desbetreffende overheidsorgaan;
+- a) de taak van het desbetreffende overheidsorgaan;
 
-- b). de verhouding van dit overheidsorgaan tot andere overheidsorganen;
+- b) de verhouding van dit overheidsorgaan tot andere overheidsorganen;
 
-- c). de waarde van de records als bestanddeel van het cultureel erfgoed;
+- c) de waarde van de records als bestanddeel van het cultureel erfgoed;
 
-- d). het belang van de in de records voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en voor historisch onderzoek.
+- d) het belang van de in de records voorkomende gegevens voor overheidsorganen, recht- en bewijszoekenden en voor historisch onderzoek.
 
 6. Zowel in de aanvraag van de machtiging tot vervanging als in de bekendmaking van het besluit geeft De Raad van Bestuur aan op welke wijze met a tot en met d rekening is gehouden.
 
@@ -342,21 +319,21 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 - 3. voor zover gebruik is gemaakt van de digitale handtekening:
 
-- a. de houder van de digitale handtekening;
+   - a. de houder van de digitale handtekening;
 
-- b. het moment van validiteit van de digitale handtekening;
+   - b. het moment van validiteit van de digitale handtekening;
 
-- c. de voor validatie verantwoordelijke functionaris;
+   - c. de voor validatie verantwoordelijke functionaris;
 
-- d. voor zover bekend ten tijde van het werkproces: de identificatie van het certificaat van de digitale handtekening.
+   - d. voor zover bekend ten tijde van het werkproces: de identificatie van het certificaat van de digitale handtekening.
 
 - 4. de beheerder draagt zorg voor de uniforme vastlegging van de functionele eisen ten aanzien van:
 
-- a. de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=5&z=2020-01-31&g=2020-01-31) van de beheersregeling;
+   - a. de inhoud, vorm en structuur van digitale records, zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=5&z=2020-01-31&g=2020-01-31) van de beheersregeling;
 
-- b. het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records;
+   - b. het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale records;
 
-- c. het hoofd van het archiefvormend orgaan is verantwoordelijk voor de juiste uitvoering.
+   - c. het hoofd van het archiefvormend orgaan is verantwoordelijk voor de juiste uitvoering.
 
 ##### Artikel 18. Duurzaamheid
 
@@ -483,5 +460,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van 
 ##### Artikel 32. Citeertitel
 
 Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzorging NWO.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

@@ -1,56 +1,37 @@
 ---
 title: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten, d.d. 10 december 2019, kenmerk 2019-0000652446"
+citeertitel: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten"
 identifier: "BWBR0042920"
-country: "nl"
-rank: "circulaire"
-publication_date: "2019-12-20"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042920"
+categorie: "Bestuursrecht"
 soort: "circulaire"
-stam_id: "15281343"
-version_id: "26327382"
-internal_id: "C37420531"
-label_id: "15227804"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042920/2019-12-20/0"
-intitule_bron: "Stcrt.2019-69198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-10"
-intitule_published: "2019-12-19"
-intitule_in_force: "2019-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69198"
-original_signed_date: "2019-12-10"
-original_published_date: "2019-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-69198"
-entry_into_force_date: "2019-12-20"
-jci_1_3: "jci1.3:c:BWBR0042920&z=2019-12-20&g=2019-12-20"
-jci_1_0: "1.0:c:BWBR0042920&g=2019-12-20"
-citeertitel_status: "redactioneel"
-short_title: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten"
-signed_date: "2019-12-10"
-entry_into_force: "2019-12-20"
+publicatiedatum: 2019-12-20
+laatste_update: 2019-12-20
+status: geldig
+toestand: 2019-12-20
+bron: "https://wetten.overheid.nl/BWBR0042920"
+opgehaald: 2026-08-29
 ---
+
 # Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten, d.d. 10 december 2019, kenmerk 2019-0000652446
 
-**Van verzending circulaires naar publicatie op internet**
+*Van verzending circulaires naar publicatie op internet*
 
-**De circulaires met betrekking tot de rechtspositie van politieke ambtsdragers worden uitsluitend nog bekend gemaakt op de site van de officiële bekendmakingen (Staatscourant), op de website** **www.rijksoverheid.nl** **en op de website** **www.politiekeambtsdragers.nl**. **U kunt zich****inschrijven****op de e-mailattendering. Als u zich hebt ingeschreven voor deze e-mailattendering, ontvangt u een attendering zodra er een circulaire op de site wordt gepubliceerd. De eerdere RSS-attendering is niet meer werkzaam.**
+*De circulaires met betrekking tot de rechtspositie van politieke ambtsdragers worden uitsluitend nog bekend gemaakt op de site van de officiële bekendmakingen (Staatscourant), op de website*
+ *www.rijksoverheid.nl*
+ *en op de website*
+ *www.politiekeambtsdragers.nl*. *U kunt zich**inschrijven**op de e-mailattendering. Als u zich hebt ingeschreven voor deze e-mailattendering, ontvangt u een attendering zodra er een circulaire op de site wordt gepubliceerd. De eerdere RSS-attendering is niet meer werkzaam.*
 
 ### 1. Inleiding
 
-Bij [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) bent u geïnformeerd over de totstandkoming van het [Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) (Stb. 2018, 386), en de daarbij behorende [Regeling rechtspositie decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041573) (Stcrt 2018, 66006). Nadien is een aantal wijzigingen ingevoerd bij [besluit van 5 juli 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042417), Stb. 2019, 260, en bij regeling van 6 februari 2019, Stcrt. 2019, 7580. Verder is via signalen uit de praktijk gebleken dat er op bepaalde onderdelen meer duidelijkheid moest worden geboden of nadere regelgeving moest worden aangekondigd. In deze circulaire worden de relevante onderwerpen toegelicht. De fiscale aspecten zijn afgestemd met het ministerie van Financiën.
+Bij [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) bent u geïnformeerd over de totstandkoming van het [Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) (Stb. 2018, 386), en de daarbij behorende [Regeling rechtspositie decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041573) (Stcrt 2018, 66006). Nadien is een aantal wijzigingen ingevoerd bij [besluit van 5 juli 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042417), Stb. 2019, 260, en bij regeling van 6 februari 2019, Stcrt. 2019, 7580. Verder is via signalen uit de praktijk gebleken dat er op bepaalde onderdelen meer duidelijkheid moest worden geboden of nadere regelgeving moest worden aangekondigd. In deze circulaire worden de relevante onderwerpen toegelicht. De fiscale aspecten zijn afgestemd met het ministerie van Financiën.
 
-In **bijlage 1** is in een **overzicht per onderwerp** een **hyperlink** opgenomen in welke circulaire u hierover nadere informatie kunt vinden. Op die manier kunt u eenvoudig nagaan waar u de **actuele informatie** kunt vinden.
+In *bijlage 1* is in een *overzicht per onderwerp* een *hyperlink* opgenomen in welke circulaire u hierover nadere informatie kunt vinden. Op die manier kunt u eenvoudig nagaan waar u de *actuele informatie* kunt vinden.
 
 ### 2. ICT: overgangsrecht met betrekking tot verstrekking
 
-Vóór 2019 was het voor gemeenten mogelijk om aan hun politieke ambtsdragers vergoedingen te verstrekken voor het gebruik of de aanschaf van (eigen) ICT-middelen. Per 1 januari 2019 is dat niet meer mogelijk; voor dergelijke vergoedingen is geen grondslag meer. Met ingang van deze datum kan de gemeente voor ICT-voorzieningen binnen de fiscale grenzen belastingvrij “digitaal gereedschap” ter beschikking stellen. Er was geen overgangsrecht, maar bij nader inzien werd dat in strijd met de rechtszekerheid geacht voor de ambtsdragers die sinds maart 2018 in functie waren. In de circulaire van 18 februari 2019 is daarom voor deze groep overgangsrecht aangekondigd. Dit overgangsrecht is onlangs met terugwerkende kracht tot 28 maart 2018 tot stand gebracht.
+Vóór 2019 was het voor gemeenten mogelijk om aan hun politieke ambtsdragers vergoedingen te verstrekken voor het gebruik of de aanschaf van (eigen) ICT-middelen. Per 1 januari 2019 is dat niet meer mogelijk; voor dergelijke vergoedingen is geen grondslag meer. Met ingang van deze datum kan de gemeente voor ICT-voorzieningen binnen de fiscale grenzen belastingvrij “digitaal gereedschap” ter beschikking stellen. Er was geen overgangsrecht, maar bij nader inzien werd dat in strijd met de rechtszekerheid geacht voor de ambtsdragers die sinds maart 2018 in functie waren. In de circulaire van 18 februari 2019 is daarom voor deze groep overgangsrecht aangekondigd. Dit overgangsrecht is onlangs met terugwerkende kracht tot 28 maart 2018 tot stand gebracht.
 
-Op grond van dit overgangsrecht blijft voor de burgemeester, de wethouder, het raadslid of het commissielid de oude regeling van toepassing, zoals dat luidde voor 1 januari 2019. Dit overgangsrecht geldt voor betrokkene zolang hij of zij niet is afgetreden, ontslagen of herbenoemd, en indien hem of haar in 2018 een tegemoetkoming of een vergoeding op grond van de oude regeling is verleend.
+Op grond van dit overgangsrecht blijft voor de burgemeester, de wethouder, het raadslid of het commissielid de oude regeling van toepassing, zoals dat luidde voor 1 januari 2019. Dit overgangsrecht geldt voor betrokkene zolang hij of zij niet is afgetreden, ontslagen of herbenoemd, en indien hem of haar in 2018 een tegemoetkoming of een vergoeding op grond van de oude regeling is verleend.
 
 Dit overgangsrecht geldt evenwel niet ingeval de betrokken gemeente inmiddels ter uitvoering van het nieuwe systeem al overgegaan is op de verstrekking van ICT-middelen.
 
@@ -68,37 +49,43 @@ Een ander argument vóór verstrekking is de veiligheid. Natuurlijk kan geen vol
 
 ### 4. ICT: geen overname
 
-Er is geen artikel in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) dat overname van ICT-bedrijfsmiddelen verbiedt. Echter, in de toelichting op het rechtspositiebesluit (2e alinea blz. 65 van Stb. 2018, 386) en de tekst in de circulaire van 28 november 2018 (blz. 34) is wel als beleid uitgedragen dat die overname ongewenst is; om de daar aangegeven redenen.
+Er is geen artikel in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) dat overname van ICT-bedrijfsmiddelen verbiedt. Echter, in de toelichting op het rechtspositiebesluit (2e alinea blz. 65 van Stb. 2018, 386) en de tekst in de circulaire van 28 november 2018 (blz. 34) is wel als beleid uitgedragen dat die overname ongewenst is; om de daar aangegeven redenen.
 
-Er is nog een reden. Het wel overnemen van ICT-bedrijfsmiddelen zou de consequentie hebben dat de gemeente zich niet houdt aan de door gemeenten zelf (mede) vastgestelde Baseline Informatiebeveiliging Overheid (BIO). Deze geldt vanaf 1 januari 2019 en is gepubliceerd in de Staatscourant van 23 mei 2019, Stcrt. 26526. In die baseline wordt in control 8.1.4, die specifiek betrekking heeft op het teruggeven van bedrijfsmiddelen, het volgende gesteld: "Alle medewerkers en externe gebruikers moeten alle bedrijfsmiddelen van de organisatie die ze in hun bezit hebben bij beëindiging van hun dienstverband, contract of overeenkomst teruggeven".
+Er is nog een reden. Het wel overnemen van ICT-bedrijfsmiddelen zou de consequentie hebben dat de gemeente zich niet houdt aan de door gemeenten zelf (mede) vastgestelde Baseline Informatiebeveiliging Overheid (BIO). Deze geldt vanaf 1 januari 2019 en is gepubliceerd in de Staatscourant van 23 mei 2019, Stcrt. 26526. In die baseline wordt in control 8.1.4, die specifiek betrekking heeft op het teruggeven van bedrijfsmiddelen, het volgende gesteld: "Alle medewerkers en externe gebruikers moeten alle bedrijfsmiddelen van de organisatie die ze in hun bezit hebben bij beëindiging van hun dienstverband, contract of overeenkomst teruggeven".
 
 Politieke ambtsdragers hebben gezien hun taken en verantwoordelijkheden bij uitstek veel politiek-vertrouwelijke en privacygevoelige informatie op hun ICT-bedrijfsmiddelen. Op basis van een goed onderbouwde risicoafweging kan een gemeente weliswaar zelf bepalen wat passende maatregelen bij deze control zijn, maar in een dergelijke risicoafweging zal nadrukkelijk de aanwezigheid van vertrouwelijke stukken op de bedrijfsmiddelen van de ambtsdragers aan de orde moeten komen.
 
 ### 5. Zakelijk en niet-zakelijk gebruik van een ter beschikking gestelde auto
 
-Een regelmatig terugkerende vraag is wat fiscaal gezien zakelijk en niet-zakelijk gebruik is. In **bijlage 2** is de brief uit 2007 aan de Tweede Kamer opgenomen die nog steeds maatgevend is: zakelijk is als de reis is gekoppeld aan de dienstbetrekking.
+Een regelmatig terugkerende vraag is wat fiscaal gezien zakelijk en niet-zakelijk gebruik is. In *bijlage 2* is de brief uit 2007 aan de Tweede Kamer opgenomen die nog steeds maatgevend is: zakelijk is als de reis is gekoppeld aan de dienstbetrekking.
 
 Voor burgemeesters en wethouders zijn partijbezoeken aangemerkt als ambtsgebonden en daarmee zakelijk. Als er twijfel is over de zakelijkheid van de rit, is het aan te raden die vraag voor te leggen aan de belastinginspecteur. Het is goede praktijk om met de belastinginspecteur de lijst met zakelijke en bestuurlijke functies van het college af te kaarten.
 
 In het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) wordt onderscheid gemaakt tussen zakelijk, bestuurlijk en privégebruik van de door de gemeente ter beschikking gestelde auto.
 
-In paragraaf 6 wordt nog specifiek ingegaan op de auto(‘s) die ter beschikking wordt of worden gesteld voor gemeenschappelijk gebruik.
+In [paragraaf 6](https://wetten.overheid.nl/BWBR0042920) wordt nog specifiek ingegaan op de auto(‘s) die ter beschikking wordt of worden gesteld voor gemeenschappelijk gebruik.
 
-Onder **zakelijk gebruik** wordt uitsluitend verstaan het fiscaal-zakelijk gebruik. Hieronder vallen ritten voor woon-werkverkeer, dienstreizen en ritten voor ambtsgebonden (“qq-“) functies.
+Onder *zakelijk gebruik* wordt uitsluitend verstaan het fiscaal-zakelijk gebruik. Hieronder vallen ritten voor woon-werkverkeer, dienstreizen en ritten voor ambtsgebonden (“qq-“) functies.
 
-Bij gebruik voor **bestuurlijke** doeleinden gaat het om ritten die voor de fiscale bijtellingsregeling weliswaar als niet-zakelijk worden aangemerkt, maar die de betrokken ambtsdrager maakt in het kader van een andere functie of arbeidsrelatie, die naar het oordeel van het college van burgemeester en wethouders in het belang van de gemeente zijn.
+Bij gebruik voor *bestuurlijke* doeleinden gaat het om ritten die voor de fiscale bijtellingsregeling weliswaar als niet-zakelijk worden aangemerkt, maar die de betrokken ambtsdrager maakt in het kader van een andere functie of arbeidsrelatie, die naar het oordeel van het college van burgemeester en wethouders in het belang van de gemeente zijn.
 
-**Privé** in de zin van de rechtspositie is het gebruik van de dienstauto voor andere doeleinden dan zakelijke of bestuurlijke aangelegenheden.
+*Privé* in de zin van de rechtspositie is het gebruik van de dienstauto voor andere doeleinden dan zakelijke of bestuurlijke aangelegenheden.
 
 Ingeval een dienst- of leaseauto aan één ambtsdrager ter beschikking wordt gesteld zijn er dus drie mogelijkheden voor het gebruik1Een rittenadministratie zal vrijwel altijd nodig zijn. Als de auto uitsluitend zakelijk wordt gebruikt, is die nodig voor de fiscus. Zij is ook nodig als de auto "echt" privé mag worden gebruikt. In dat geval is de rittenadministratie weliswaar niet vereist voor de fiscus, maar wel voor de gemeente. Voor de berekening van de maandelijkse bijdrage van de ambtsdrager is namelijk van belang het aantal kilometers dat noch zakelijk noch bestuurlijk is verreden. Hiervoor is in beginsel alleen relevant welke ritten "echt" privé zijn, maar voor de controle zal een volledige rittenadministratie vereist zijn. Wanneer de auto zowel zakelijk als bestuurlijk mag worden gebruikt, maar niet “privé", is formeel geen rittenadministratie nodig, omdat in dat geval automatisch fiscale bijtelling volgt. Het is echter goed voorstelbaar dat de gemeente met het oog op de controle toch betrokkene vraagt een volledige rittenadministratie bij te houden.:
 
-In **bijlage 3** is het bovenstaande in stroomschema 3a verduidelijkt.
+- • *uitsluitend zakelijk*: geen forfaitaire bijtelling;
+
+- • *zakelijk en bestuurlijk*: de eventuele belastingheffing die voortvloeit uit de forfaitaire bijtelling wordt vergoed;
+
+- • *zakelijk en bestuurlijk en ”echt” privé*: de eventuele belastingheffing die voortvloeit uit de forfaitaire bijtelling wordt niet vergoed en betrokkene betaalt een eigen bijdrage per maand voor de “echte” privékilometers. De zakelijke en bestuurlijke kilometers komen ten laste van de gemeente.
+
+In *bijlage 3* is het bovenstaande in stroomschema 3a verduidelijkt.
 
 ### 6. Auto voor gemeenschappelijk gebruik en/of auto op afroep
 
 Bij gebruik van een auto voor gemeenschappelijk gebruik en/of een auto op afroep is er in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) nu maar één optie: uitsluitend zakelijk gebruik en dus geen fiscale bijtelling2Mits dit blijkt uit de rittenadministratie of er fiscaal geen sprake is van een ter beschikking gestelde auto (zie hieronder).. Dit staat uitdrukkelijk in de tweede volzin van het [tweede lid van artikel 3.2.10 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10).
 
-Voor deze strikte lijn is gekozen vanwege de mogelijke fiscale gevolgen. Deze zijn beschreven in [noot 12 van de circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643), maar, kort gezegd, werd de mogelijkheid dat ieder lid van het college een bijtelling zou krijgen voor het gebruik van één gemeenschappelijke auto, ongewenst geacht.
+Voor deze strikte lijn is gekozen vanwege de mogelijke fiscale gevolgen. Deze zijn beschreven in [noot 12 van de circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643), maar, kort gezegd, werd de mogelijkheid dat ieder lid van het college een bijtelling zou krijgen voor het gebruik van één gemeenschappelijke auto, ongewenst geacht.
 
 Onlangs is gebleken dat het bij gemeenschappelijk gebruik van de ter beschikking gestelde auto en/of een auto op afroep fiscaal genuanceerder kan liggen dan bij de totstandkoming van het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) werd aangenomen.
 
@@ -108,17 +95,17 @@ Ten eerste is er de definitie van terbeschikkingstelling van een auto. Terbeschi
 
 De vraag wie de feitelijke beschikkingsmacht heeft wordt materieel beantwoord. Dat wil zeggen dat niet zozeer de formele aspecten van belang zijn, maar dat het gaat om de realiteitswaarde van wat partijen zijn overeengekomen en om de feitelijke uitvoering daarvan.
 
-Ten tweede is voor de vraag of er sprake is van een terbeschikkinggestelde auto bepalend of de ambtsdrager **te allen tijde en onverkort** ten laste van de gemeente kan beschikken over een auto. Dit kan ook gelden als die auto voor gemeenschappelijk gebruik is bedoeld. Er is namelijk ook sprake van een ter beschikking gestelde auto in fiscale zin wanneer een gemeente zorgdraagt voor één of meer auto’s voor gemeenschappelijk gebruik en daarbij de toezegging doet dat er altijd een auto op afroep bij een gecontracteerde vervoerder beschikbaar zal zijn indien die gemeenschappelijke auto(s) op een bepaald moment bezet is of zijn.
+Ten tweede is voor de vraag of er sprake is van een terbeschikkinggestelde auto bepalend of de ambtsdrager *te allen tijde en onverkort* ten laste van de gemeente kan beschikken over een auto. Dit kan ook gelden als die auto voor gemeenschappelijk gebruik is bedoeld. Er is namelijk ook sprake van een ter beschikking gestelde auto in fiscale zin wanneer een gemeente zorgdraagt voor één of meer auto’s voor gemeenschappelijk gebruik en daarbij de toezegging doet dat er altijd een auto op afroep bij een gecontracteerde vervoerder beschikbaar zal zijn indien die gemeenschappelijke auto(s) op een bepaald moment bezet is of zijn.
 
 Het aantal auto’s dat een gemeente in eigen beheer heeft ten behoeve van het college of het feit dat er verschillende types auto’s3Indien er sprake is van verschillende typen auto’s geeft paragraaf 21.3.11, voorbeeld 4, van het Handboek Loonheffing hier de methodiek aan: de bijtelling wordt tijdsevenredig toegepast over de ter beschikking gestelde auto’s. zijn, is dus in dit verband niet relevant. Het gaat erom welke afspraken zijn gemaakt ten aanzien van het recht ten laste van de gemeente een auto te gebruiken, en het feitelijk gedrag (worden de afspraken ook nagekomen?).
 
 In zo’n geval geldt dat aan de ambtsdrager fiscaal een auto ter beschikking is gesteld. In dat geval moet er een fiscale bijtelling in aanmerking worden genomen tenzij uit de rittenadministratie van de desbetreffende auto’s blijkt dat de ambtsdrager met de auto minder dan 500 niet-zakelijke4Dit is de fiscale omschrijving. In rechtspositionele zin gaat het hier om 500 bestuurlijke en/of privé-kilometers. kilometers heeft gereden.
 
-Indien er wel één of meer auto’s voor gemeenschappelijk gebruik zijn aangewezen maar er een bepaalde rangorde geldt of de afspraak “wie het eerst komt, die het eerst maalt”, is er géén toezegging dat er voor het desbetreffende collegelid te allen tijde een auto beschikbaar zal zijn ten laste van de gemeente5Hierbij wordt ervan uitgegaan dat het feitelijk gebruik geen terbeschikkingstelling oplevert, omdat een betrokkene in strijd met de afspraken de auto continu in gebruik heeft.. In dat geval is er dus fiscaal gezien **géén** sprake van een ter beschikking gestelde auto en wordt er geen forfaitaire bijtelling toegepast. Dat betekent dat per rit per persoon moet worden beoordeeld of er sprake is van een onbelaste zakelijke reis of van belast loon in natura. In dat laatste geval worden de bestuurlijke en/of privé-kilometers belast naar de werkelijke waarde van de auto op basis van het feitelijk gebruik door de ambtsdrager.
+Indien er wel één of meer auto’s voor gemeenschappelijk gebruik zijn aangewezen maar er een bepaalde rangorde geldt of de afspraak “wie het eerst komt, die het eerst maalt”, is er géén toezegging dat er voor het desbetreffende collegelid te allen tijde een auto beschikbaar zal zijn ten laste van de gemeente5Hierbij wordt ervan uitgegaan dat het feitelijk gebruik geen terbeschikkingstelling oplevert, omdat een betrokkene in strijd met de afspraken de auto continu in gebruik heeft.. In dat geval is er dus fiscaal gezien *géén* sprake van een ter beschikking gestelde auto en wordt er geen forfaitaire bijtelling toegepast. Dat betekent dat per rit per persoon moet worden beoordeeld of er sprake is van een onbelaste zakelijke reis of van belast loon in natura. In dat laatste geval worden de bestuurlijke en/of privé-kilometers belast naar de werkelijke waarde van de auto op basis van het feitelijk gebruik door de ambtsdrager.
 
 Wanneer gemeenten een goede rittenadministratie bijhouden per ambtsdrager en per auto, gekoppeld aan de agenda’s van de ambtsdragers, blijken de ongewenste fiscale complicaties te kunnen worden ondervangen. Onder die omstandigheden is er geen noodzaak voor een uitzondering ten opzichte van andere wijzen van terbeschikkingstelling van auto’s. Het voornemen is dan ook om de tweede volzin van het[tweede lid van artikel 3.2.10 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10) te schrappen. Daarmee wordt bestuurlijk en privégebruik van een gemeenschappelijke auto en/of de auto op afroep ook mogelijk, maar wel onder de gestelde fiscale voorwaarde van een sluitende rittenadministratie.
 
-In **bijlage 3** is in de stroomschema’s 3b en 3c verduidelijkt wat de verschillende effecten zijn als een auto voor gemeenschappelijk gebruik wel of niet fiscaal wordt aangemerkt als een terbeschikkinggestelde auto.
+In *bijlage 3* is in de stroomschema’s 3b en 3c verduidelijkt wat de verschillende effecten zijn als een auto voor gemeenschappelijk gebruik wel of niet fiscaal wordt aangemerkt als een terbeschikkinggestelde auto.
 
 Dit voornemen moet nog formeel in de regelgeving worden opgenomen. Omdat deze regelgevingsprocedure tijd vergt, zal dit met terugwerkende kracht moeten gebeuren. Vooruitlopend op het formeel van kracht worden hiervan, wordt u door middel van deze circulaire geïnformeerd over de voorgenomen wijziging op dit vlak voor burgemeesters en wethouders. U kunt, voor zover van toepassing, nu al uitgaan van dit recht.
 
@@ -130,13 +117,13 @@ Voor woon-werkverkeer van raads- en commissieleden is een vaste (netto) vergoedi
 
 De regeling geldt uitsluitend voor de loonheffingen. Dus voor werknemers, maar ook voor raadsleden en commissieleden, die samen met de gemeente voor het toepassen van het loonheffingsregime hebben gekozen (fictief werknemers).
 
-Deze systematiek voor woon-werkverkeer is **niet** mogelijk voor raads- en commissieleden die niet geopteerd hebben voor het loonbelastingregime. Voor de belastingheffing zijn die namelijk resultaatgenietenden. Voor hen gelden bij de aangifte inkomstenbelasting de bepalingen van het winstregime. Voor de gemeente is aan het uitbetalen van reiskostenvergoedingen aan raads- en commissieleden die niet geopteerd hebben, uitsluitend de meldingsplicht van de uitbetaalde bedragen gekoppeld. De gemeente hoeft dus ook niet te toetsen of de vergoeding fiscaal bovenmatig is. De raads- en commissieleden dienen zelf de vergoedingen als winst te verantwoorden en kunnen de werkelijke kilometers tegen 19 cent per km als kostenpost bij de winstberekening opnemen. Dit is een direct gevolg van de keuze die betrokkene heeft gemaakt ten aanzien van zijn of haar fiscale status.
+Deze systematiek voor woon-werkverkeer is *niet* mogelijk voor raads- en commissieleden die niet geopteerd hebben voor het loonbelastingregime. Voor de belastingheffing zijn die namelijk resultaatgenietenden. Voor hen gelden bij de aangifte inkomstenbelasting de bepalingen van het winstregime. Voor de gemeente is aan het uitbetalen van reiskostenvergoedingen aan raads- en commissieleden die niet geopteerd hebben, uitsluitend de meldingsplicht van de uitbetaalde bedragen gekoppeld. De gemeente hoeft dus ook niet te toetsen of de vergoeding fiscaal bovenmatig is. De raads- en commissieleden dienen zelf de vergoedingen als winst te verantwoorden en kunnen de werkelijke kilometers tegen 19 cent per km als kostenpost bij de winstberekening opnemen. Dit is een direct gevolg van de keuze die betrokkene heeft gemaakt ten aanzien van zijn of haar fiscale status.
 
 Hiermee is het voor woon-werkverkeer (woning-gemeentehuis) van raadsleden en commissieleden die (fictief) werknemer zijn, nu duidelijk dat er een administratief sterk vereenvoudigde oplossing is. Deze oplossing was overigens ook al mogelijk voor burgemeesters en wethouders.
 
 ### b. Dienstreizen
 
-Voor dienstreizen (reizen in verband met de vervulling van de functie) is bewust gekozen voor een vergoeding per reis en **niet** voor een forfaitair bedrag. Een forfaitair bedrag zou arbitrair zijn voor wat in wezen een onkostenvergoeding is voor reizen die betrokkene maakt in verband met de functie.
+Voor dienstreizen (reizen in verband met de vervulling van de functie) is bewust gekozen voor een vergoeding per reis en *niet* voor een forfaitair bedrag. Een forfaitair bedrag zou arbitrair zijn voor wat in wezen een onkostenvergoeding is voor reizen die betrokkene maakt in verband met de functie.
 
 Voor de dienstreizen van raadsleden en wethouders binnen de gemeente bestaat dus geen andere mogelijkheid dan het declareren. Alleen burgemeesters hebben de mogelijkheid van [artikel 3.7 van de regeling Rechtspositie decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041573&artikel=3.7): de keuze tussen declareren of een vaste vergoeding (die via de werkkostenregelingssystematiek in de loonheffing wordt betrokken).
 
@@ -152,17 +139,29 @@ Er zijn wel specifieke, praktische aandachtspunten bij buitenlandse dienstreizen
 
 Kernpunten hierbij zijn:
 
+- • Een buitenlandse reis valt onder de algemene bestuurskosten, mits de reis een functioneel karakter heeft. Van belang is dat over de bestuurlijke noodzaak en het functionele belang van een dienstreis in alle openheid vooraf besluitvorming plaatsvindt en dat achteraf verantwoording wordt afgelegd. Bij de afweging is het van belang het tijdstip, het tijdsbeslag en de omvang van de delegatie te betrekken. Aanbevolen wordt dat het college steeds expliciet een beslissing neemt over de buitenlandse reis en daarvan in detail melding maakt aan de raad.
+
+- • Aanbevolen wordt om vooraf aan het begin van een bestuursperiode een toetsingskader voor dienstreizen op te stellen en dat te bespreken. Plannen voor dienstreizen kunnen dan hieraan worden getoetst.
+
+- • Is de functionaliteit van de reis aangetoond, dan horen de in redelijkheid gemaakte reis- en verblijfkosten (inclusief eventuele benodigde vaccinaties vooraf) voor rekening te komen van de gemeente. Kan de functionaliteit niet worden aangetoond, dan komen de kosten voor eigen rekening.
+
+- • Bekostiging, geheel of gedeeltelijk, van buitenlandse reizen door derden wordt in beginsel afgewezen. Dit kan anders zijn, bijvoorbeeld bij de uitnodiging voor een bezoek aan een partnergemeente. Openheid hierover is wel een voorwaarde.
+
+- • Het is van belang om afspraken te maken over gedragsregels in verband met buitenlandse reizen, zoals over meereizende partners en verlenging van de reisduur. De lijn is dat meereizen van partners, mits vooraf gemeld, onder nader te bepalen voorwaarden is toegestaan, maar dat de kosten geheel voor eigen rekening komen. De kosten kunnen alleen voor rekening van de gemeente komen als de aanwezigheid van de partner tijdens de reis noodzakelijk is voor de behartiging van het overheidsbelang. Een andere uitzondering is als de partner expliciet door de buitenlandse gastheer/-vrouw is uitgenodigd.
+
+- • Verlenging van de reisduur voor privédoeleinden, is af te raden. Mocht die zich echter bij uitzondering voordoen, dan is melding vooraf gewenst. De extra reis- en verblijfkosten komen in dat geval uiteraard geheel voor eigen rekening. Als richtlijn kan de regel worden gehanteerd die bij de rijksoverheid geldt: een buitenlandse reis mag met maximaal 72 uur privétijd op eigen kosten worden verlengd.
+
 ### 9. Parkeerkosten en parkeerplaatsen
 
 ### a. Parkeerkosten
 
 Onder het oude regime was er geen grondslag in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) voor enige vergoeding van parkeerkosten. Met ingang van het nieuwe rechtspositiebesluit worden sommige parkeerkosten wel vergoed. Er wordt in dit verband onderscheid gemaakt tussen parkeerkosten bij dienstreizen en parkeerkosten bij woon-werkverkeer of privéritten. Ook is van belang om wat voor soort auto het gaat; een eigen auto of een ter beschikking gestelde auto.
 
-Bij **gebruik van de eigen auto** komen parkeerkosten **wel** voor vergoeding in aanmerking als er sprake is van dienstreizen, maar **niet** bij woon-werkverkeer of privéritten.
+Bij *gebruik van de eigen auto* komen parkeerkosten *wel* voor vergoeding in aanmerking als er sprake is van dienstreizen, maar *niet* bij woon-werkverkeer of privéritten.
 
 In beginsel zijn afzonderlijke vergoedingen voor parkeergelden belast, omdat daarnaast ook €0,19 per kilometer wordt vergoed. Deze parkeervergoedingen worden bij de werkgever belast, omdat zij op grond van [artikel 3.2.10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.10), en [artikel 3.3.8, onder g, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.3.8) in de eindheffing worden betrokken.
 
-Bij zakelijke ritten in geval van **een ter beschikking gestelde auto** worden parkeergelden door de fiscus echter aangemerkt als “intermediaire kosten”. Deze fiscale term wil zeggen dat het gaat om kosten die de werknemer maakt ten behoeve van de werkgever of kosten die samenhangen met het zakelijk gebruik ten behoeve van de werkgever. Vanwege dit zakelijke karakter komen deze parkeergelden niet ten laste van de ambtsdrager, maar van de gemeente.
+Bij zakelijke ritten in geval van *een ter beschikking gestelde auto* worden parkeergelden door de fiscus echter aangemerkt als “intermediaire kosten”. Deze fiscale term wil zeggen dat het gaat om kosten die de werknemer maakt ten behoeve van de werkgever of kosten die samenhangen met het zakelijk gebruik ten behoeve van de werkgever. Vanwege dit zakelijke karakter komen deze parkeergelden niet ten laste van de ambtsdrager, maar van de gemeente.
 
 ### b. Parkeerplaatsen
 
@@ -172,7 +171,7 @@ Specifieke parkeerplaatsen die voor burgemeester, wethouders, raads- en commissi
 
 Wanneer die parkeerplaatsen door de gemeente ter beschikking worden gesteld voor woon-werkverkeer of dienstreizen, is er in principe geen sprake van strijd met het vereiste van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) dat er een juridische grondslag moet zijn voor geldelijke voorzieningen voor politieke ambtsdragers. Zolang er geen sprake is van vergoedingen ten laste van de gemeente aan die ambtsdragers, is er geen sprake van een geldelijke vergoeding die in strijd is met de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=44), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=66) en [99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99). Dan zijn die aan te merken als bedrijfsvoeringskosten van de gemeente: zij worden dan gezien als onderdeel van de werkplek.
 
-Indien er echter sprake is van het ter beschikking stellen van een inrijkaart voor een parkeerplaats in een openbare parkeergarage of van een beleidslijn dat de ambtsdrager de bonnetjes van een dergelijke parkeerplaats vergoed krijgt waarvoor een niet-ambtsdrager wel moet betalen, dan is er sprake van een vergoeding voor de ambtsdrager. Als er dan sprake is van **woon-werkverkeer** (voor raads- en commissieleden om vergaderingen bij te wonen), is die inrijkaart of die declaratie van dat bonnetje een vergoeding die uitdrukkelijk is uitgesloten. Voor **dienstreizen** kunnen deze wel worden vergoed.
+Indien er echter sprake is van het ter beschikking stellen van een inrijkaart voor een parkeerplaats in een openbare parkeergarage of van een beleidslijn dat de ambtsdrager de bonnetjes van een dergelijke parkeerplaats vergoed krijgt waarvoor een niet-ambtsdrager wel moet betalen, dan is er sprake van een vergoeding voor de ambtsdrager. Als er dan sprake is van *woon-werkverkeer* (voor raads- en commissieleden om vergaderingen bij te wonen), is die inrijkaart of die declaratie van dat bonnetje een vergoeding die uitdrukkelijk is uitgesloten. Voor *dienstreizen* kunnen deze wel worden vergoed.
 
 Indien de gemeente dergelijke parkeerplaatsen voor woon-werkverkeer ter beschikking wil stellen aan raads- en commissieleden, moet dat in een verordening worden opgenomen en behoeft die de goedkeuring van Gedeputeerde Staten. Dan is namelijk [artikel 99, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) van toepassing. Voor burgemeester en wethouders hoeft dat niet omdat hun aanspraken voortvloeien uit het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) en niet uit een verordening.
 
@@ -206,7 +205,7 @@ Ingeval van een dienstauto is het recht op de andere reiskostenvergoedingen uitg
 
 Het gebruik van de OV-fiets hangt zodanig samen met het openbaar vervoer dat in zijn verschillende varianten wordt vergoed, dat de kosten hiervan ook voor vergoeding in aanmerking komen als kosten van openbaar vervoer.
 
-Het gebruik van de OV-fiets is wezenlijk anders dan het in paragraaf 10 genoemde gebruik van de eigen fiets. De OV-fiets wordt de ambtsdrager namelijk vergoed in het kader van voor- en natransport tijdens het per openbaar vervoer afleggen van het woon-werkverkeer of een dienstreis.
+Het gebruik van de OV-fiets is wezenlijk anders dan het in [paragraaf 10](https://wetten.overheid.nl/BWBR0042920) genoemde gebruik van de eigen fiets. De OV-fiets wordt de ambtsdrager namelijk vergoed in het kader van voor- en natransport tijdens het per openbaar vervoer afleggen van het woon-werkverkeer of een dienstreis.
 
 ### 12. Motorfiets
 
@@ -224,7 +223,7 @@ Dit is thans geregeld in een nieuw [zesde lid van artikel 3.2.1](https://wetten.
 
 ### 14. Vergoeding energie en water bij bewoning ter beschikking gestelde woning
 
-Per 1 januari 2019 geldt [artikel 3.2.8 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8) ten aanzien van de door de burgemeester of wethouder te betalen kosten voor bewoning van de ter beschikking gestelde woning. In de [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) is niets opgenomen over de vraag voor wiens rekening de kosten voor energie en water komen. Het voornemen is om expliciet te maken dat deze kosten ten laste komen van de gemeente.
+Per 1 januari 2019 geldt [artikel 3.2.8 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8) ten aanzien van de door de burgemeester of wethouder te betalen kosten voor bewoning van de ter beschikking gestelde woning. In de [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) is niets opgenomen over de vraag voor wiens rekening de kosten voor energie en water komen. Het voornemen is om expliciet te maken dat deze kosten ten laste komen van de gemeente.
 
 In [artikel 3.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.2.8) is een limitatieve opsomming gegeven van de kosten die voor rekening komen van de ambtsdrager. Die kosten zijn enerzijds de eigen bijdrage en anderzijds de voor de huurder toe te rekenen onderhoudskosten. Nu de kosten voor energie en water tijdens de bewoning van de ter beschikking gestelde woning niet in dit artikel zijn genoemd, komen deze kosten voor rekening van de gemeente. Bovendien is het in de praktijk vaak lastig onderscheid te maken welke kosten zakelijk zijn en welke privé.
 
@@ -232,9 +231,9 @@ Deze vergoeding of verstrekking van energie en water vormt fiscaal loon (in natu
 
 ### 15. Verblijfplaats in relatie tot Basisregistratie Personen (BRP)
 
-In tegenstelling tot een kroonbenoemde burgemeester heeft een door de commissaris van de Koning benoemde waarnemend burgemeester **niet** de verplichting om in de gemeente te wonen. [Artikel 71, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=71) waarin het woonplaatsvereiste voor de burgemeester is geregeld, geldt op grond van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=80) namelijk niet voor waarnemend burgemeesters.
+In tegenstelling tot een kroonbenoemde burgemeester heeft een door de commissaris van de Koning benoemde waarnemend burgemeester *niet* de verplichting om in de gemeente te wonen. [Artikel 71, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=71) waarin het woonplaatsvereiste voor de burgemeester is geregeld, geldt op grond van [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=80) namelijk niet voor waarnemend burgemeesters.
 
-Als de waarnemend burgemeester gebruik maakt van een pied-à-terre in de gemeente waar hij of zij is benoemd, is het de vraag waar de burgemeester woonachtig is. Als iemand op meer dan één adres woont, schrijft [artikel 1.1, onder o, van de Wet basisregistratie personen (BRP)](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1) namelijk voor dat die persoon ingeschreven staat op het adres waar hij **naar redelijke verwachting** gedurende een half jaar de meeste malen zal overnachten. Het is dus aan de ambtsdrager wat zijn verwachting is en de inschrijving moet hij op die verwachting baseren. De BRP kent geen uitzondering voor politieke ambtsdragers.
+Als de waarnemend burgemeester gebruik maakt van een pied-à-terre in de gemeente waar hij of zij is benoemd, is het de vraag waar de burgemeester woonachtig is. Als iemand op meer dan één adres woont, schrijft [artikel 1.1, onder o, van de Wet basisregistratie personen (BRP)](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1) namelijk voor dat die persoon ingeschreven staat op het adres waar hij *naar redelijke verwachting* gedurende een half jaar de meeste malen zal overnachten. Het is dus aan de ambtsdrager wat zijn verwachting is en de inschrijving moet hij op die verwachting baseren. De BRP kent geen uitzondering voor politieke ambtsdragers.
 
 Als de burgemeester niet administratief wil verhuizen uit zijn of haar huidige woonplaats, is het daarmee zijn of haar verantwoordelijkheid met het bovenstaande rekening te houden. Betrokkene moet inschatten waar die de meerderheid van de nachten zal verblijven, gezien over een half jaar. Daar kan betrokkene in de tijd mee schuiven; bijvoorbeeld door rekening te houden met vakantieperioden die betrokkene in de eigen woning zal verblijven. De burgemeester kan dus bij wijze van spreken in één week vier nachten (ma-vrij) verblijven in de gemeente waar hij of zij is benoemd, als hij of zij dit maar “compenseert” met nachten in de huidige woonplaats tot een gemiddelde dat onder de helft ligt. Het gaat hier niet om een precieze berekening, maar een verwachting waarover betrokkene zich desgevraagd kan verantwoorden.
 
@@ -242,7 +241,7 @@ Dit kan ook spelen voor wethouders aan wie een ontheffing is verleend op grond v
 
 ### 16. De presentievergoeding van commissieleden kan worden aangemerkt als een vrijwilligersvergoeding
 
-De hoogte van de vergoeding van een commissielid is dwingend vastgelegd in [artikel 3.4.1 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.1). Onder de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.2) genoemde voorwaarden kan de gemeenteraad een hogere vergoeding vaststellen. De vergoeding is in principe belast. Deze is echter **onbelast** indien de gemeente de vergoeding voor commissieleden (onder de van toepassing zijnde fiscale voorwaarden) aanmerkt als vrijwilligersvergoeding. Met betrekking tot vergoedingen die gemeenten geven voor werkzaamheden die niet marktconform zijn en die ook blijven binnen de maand- en jaarbedragen kan de fiscale vrijwilligersregeling namelijk worden toegepast. Niet alle gemeenten zijn zich bewust van deze mogelijkheid; daarom wordt deze optie in onderstaande met het ministerie van Financiën afgestemde tekst ten aanzien van de commissieleden beschreven.
+De hoogte van de vergoeding van een commissielid is dwingend vastgelegd in [artikel 3.4.1 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.1). Onder de in [artikel 3.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.4.2) genoemde voorwaarden kan de gemeenteraad een hogere vergoeding vaststellen. De vergoeding is in principe belast. Deze is echter *onbelast* indien de gemeente de vergoeding voor commissieleden (onder de van toepassing zijnde fiscale voorwaarden) aanmerkt als vrijwilligersvergoeding. Met betrekking tot vergoedingen die gemeenten geven voor werkzaamheden die niet marktconform zijn en die ook blijven binnen de maand- en jaarbedragen kan de fiscale vrijwilligersregeling namelijk worden toegepast. Niet alle gemeenten zijn zich bewust van deze mogelijkheid; daarom wordt deze optie in onderstaande met het ministerie van Financiën afgestemde tekst ten aanzien van de commissieleden beschreven.
 
 De vrijwilligersregeling is een regeling die in de [Wet op de loonbelasting 1964 (art. 2, zesde lid)](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) en de [Wet inkomstenbelasting 2001 (art. 3.96, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.96) is verankerd en haar oorsprong vindt in een besluit van de ministeries van SZW en Financiën waarbij onder bepaalde condities mogelijke belastbaarheid van verstrekte vergoedingen voor verrichte werkzaamheden bij specifieke organisaties buiten het inkomen wordt geplaatst.
 
@@ -262,17 +261,17 @@ Indien een gemeente ervoor kiest voor de presentievergoeding gebruik te maken va
 
 In het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) en in de [rechtspositieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041573) worden ook wel bedragen genoemd per jaar of per periode. Een voorbeeld van het eerste is [artikel 3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.10) (tegemoetkoming ziektekostenverzekering), een voorbeeld van het tweede is de toelage voor de rekenkamerfunctie. Indien de gemeente dat wenst, bijvoorbeeld om uitvoeringstechnische redenen, kunnen deze bedragen ook in gedeelten worden uitbetaald, bijvoorbeeld per maand.
 
-Dit is een andere situatie dan beschreven in paragraaf 19.d ten aanzien van [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9). Daar gaat het om de vaststelling van een vergoeding naar rato ingeval van een kortere “diensttijd”. In deze paragraaf 17 is gedoeld op een wijze van uitbetaling van een bedrag dat als zodanig niet verandert. Het in [artikel 3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.10) bedoelde totaalbedrag mag dus desgewenst ook per maand worden uitbetaald; het in artikel 3.1.9 bedoelde bedrag niet.
+Dit is een andere situatie dan beschreven in [paragraaf 19.d](https://wetten.overheid.nl/BWBR0042920) ten aanzien van [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9). Daar gaat het om de vaststelling van een vergoeding naar rato ingeval van een kortere “diensttijd”. In deze paragraaf 17 is gedoeld op een wijze van uitbetaling van een bedrag dat als zodanig niet verandert. Het in [artikel 3.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.10) bedoelde totaalbedrag mag dus desgewenst ook per maand worden uitbetaald; het in artikel 3.1.9 bedoelde bedrag niet.
 
 ### 18. Vakantie-uitkering en eindejaarsuitkering burgemeesters en wethouders per 2020
 
-Voor de hoogte van de vakantie-uitkering en de eindejaarsuitkering werd altijd aangesloten bij hetgeen gold voor het personeel in de sector Rijk. De verwachting is echter dat met ingang van 1 januari 2020 voor dit personeel een zogenaamd individueel keuzebudget (IKB) wordt ingevoerd. Het budget zal bestaan uit verlof (tijd) en geld, welke elementen naar wens van de betrokken ambtenaar uitwisselbaar zullen zijn. Het IKB zal worden gevuld met bestaande arbeidsvoorwaarden, waaronder de vakantie-uitkering en de eindejaarsuitkering.
+Voor de hoogte van de vakantie-uitkering en de eindejaarsuitkering werd altijd aangesloten bij hetgeen gold voor het personeel in de sector Rijk. De verwachting is echter dat met ingang van 1 januari 2020 voor dit personeel een zogenaamd individueel keuzebudget (IKB) wordt ingevoerd. Het budget zal bestaan uit verlof (tijd) en geld, welke elementen naar wens van de betrokken ambtenaar uitwisselbaar zullen zijn. Het IKB zal worden gevuld met bestaande arbeidsvoorwaarden, waaronder de vakantie-uitkering en de eindejaarsuitkering.
 
 Een dergelijke regeling is voor politieke ambtsdragers niet uitvoerbaar, omdat zij geen verlofregeling kennen en dus ook geen geld voor tijd kunnen inwisselen of andersom. De desbetreffende bepalingen in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) zijn daarom zodanig aangepast dat daarin niet langer wordt verwezen naar de rechtspositie van het personeel in de sector Rijk. Hiermee is dus geen inhoudelijke wijziging beoogd, maar juist een voortzetting van de bestaande aanspraken op de vakantie- en eindejaarsuitkering.
 
 ### 19. Verzekering arbeidsongeschiktheid, ouderdom en overlijden raadsleden
 
-### 19.a. Moment van betaling en toepassing ingeval van [artikel 3.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.11)
+### 19.a. Moment van betaling en toepassing ingeval van artikel 3.1.11
 
 Wat betreft de Verzekering arbeidsongeschiktheid, ouderdom en overlijden voor raadsleden is het een gemeentelijke verordeningsbevoegdheid om te bepalen wanneer de uitbetaling plaatsvindt. Dat kan vooraf of achteraf, per kalenderjaar of van maart tot maart.
 
@@ -286,11 +285,11 @@ Dit voornemen moet nog formeel in de regelgeving worden opgenomen. Omdat deze re
 
 ### 19.c. Terugwerkende kracht tot en met 29 maart 2018
 
-Een ander punt is dat alsnog terugwerkende kracht tot en met 29 maart 2018 is verleend aan [artikel 3.1.9 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9). Dit artikel maakt het mogelijk dat de gemeenteraad bij verordening bepaalt dat de raadsleden eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, waarmee zij zelf een verzekering voor arbeidsongeschiktheid, ouderdom en overlijden kunnen treffen.
+Een ander punt is dat alsnog terugwerkende kracht tot en met 29 maart 2018 is verleend aan [artikel 3.1.9 van het rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9). Dit artikel maakt het mogelijk dat de gemeenteraad bij verordening bepaalt dat de raadsleden eenmaal per jaar een bedrag ontvangen ter hoogte van het bedrag van de vergoeding van hun werkzaamheden, waarmee zij zelf een verzekering voor arbeidsongeschiktheid, ouderdom en overlijden kunnen treffen.
 
-Sommige gemeenteraden wilden deze voorziening treffen voor de raadsleden vanaf de start van de raadsperiode in maart 2018. Aanvankelijk was aan [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) echter geen terugwerkende kracht verleend en gold de bepaling dus vanaf 1 januari 2019. In de circulaire van 28 november 2018 is uitgelegd dat die grondslag zou moeten zijn opgenomen in een verordening die moest zijn vastgesteld tussen 1 januari 2019 en 29 maart 2019 als gemeenten in dit kader aan raadsleden een bedrag toe wilden kennen voor hun eerste jaar als raadslid. Dit bleek in de praktijk een erg korte tijdspanne.
+Sommige gemeenteraden wilden deze voorziening treffen voor de raadsleden vanaf de start van de raadsperiode in maart 2018. Aanvankelijk was aan [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) echter geen terugwerkende kracht verleend en gold de bepaling dus vanaf 1 januari 2019. In de circulaire van 28 november 2018 is uitgelegd dat die grondslag zou moeten zijn opgenomen in een verordening die moest zijn vastgesteld tussen 1 januari 2019 en 29 maart 2019 als gemeenten in dit kader aan raadsleden een bedrag toe wilden kennen voor hun eerste jaar als raadslid. Dit bleek in de praktijk een erg korte tijdspanne.
 
-Nu alsnog terugwerkende kracht tot en met 29 maart 2018 aan [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) is verleend, is het mogelijk de voorziening ook na 29 maart 2019 bij verordening in te voeren met terugwerkende kracht tot het begin van de zittingsperiode van de raad.
+Nu alsnog terugwerkende kracht tot en met 29 maart 2018 aan [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) is verleend, is het mogelijk de voorziening ook na 29 maart 2019 bij verordening in te voeren met terugwerkende kracht tot het begin van de zittingsperiode van de raad.
 
 ### 19.d. Toekenning naar rato?
 
@@ -298,19 +297,19 @@ In [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9
 
 Dit onderscheid is bij nader inzien niet logisch en ook niet gewenst. Op dit moment betekent dit dat een gemeente, indien de raad kiest voor toepassing van [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9), hetzelfde bedrag per jaar moet toekennen aan een raadslid dat het hele jaar in functie is als een raadslid dat een kortere periode de functie vervult of vervuld heeft.
 
-Het voornemen is om [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) in die zin aan te passen dat deze wel naar rato wordt toegekend. Omdat deze wijziging een beperking van het huidige recht betekent, kan zij echter **niet met terugwerkende kracht** worden toegepast.
+Het voornemen is om [artikel 3.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.1.9) in die zin aan te passen dat deze wel naar rato wordt toegekend. Omdat deze wijziging een beperking van het huidige recht betekent, kan zij echter *niet met terugwerkende kracht* worden toegepast.
 
 ### 20. Fiscale aspecten onkostenvergoedingen
 
 ### 20.a. Onkostenvergoeding geen gerichte vrijstelling
 
-In de [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) staan enkele zinsneden die in tegenspraak met elkaar zijn. Enerzijds wordt in §3 beschreven waarom de vaste onkostenvergoedingen van ambtsdragers onder de vrije ruimte van de Werkkostenregeling zijn gebracht. Anderzijds wordt in de artikelsgewijze [toelichting bij artikel 3.3.8](onbekend) “Eindheffingsbestanddelen” opgemerkt dat de vaste onkostenvergoedingen een gerichte vrijstelling zijn.
+In de [circulaire van 28 november 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041643) staan enkele zinsneden die in tegenspraak met elkaar zijn. Enerzijds wordt in §3 beschreven waarom de vaste onkostenvergoedingen van ambtsdragers onder de vrije ruimte van de Werkkostenregeling zijn gebracht. Anderzijds wordt in de artikelsgewijze [toelichting bij artikel 3.3.8](https://wetten.overheid.nl/BWBR0041643) “Eindheffingsbestanddelen” opgemerkt dat de vaste onkostenvergoedingen een gerichte vrijstelling zijn.
 
 Deze formulering is per abuis iets te ruim gesteld. De algemene ambtstoelage is namelijk een vergoeding die niet onder een specifieke gerichte vrijstelling kan worden gebracht. Dat volgt eigenlijk al uit §3 van de circulaire, waar vermeld staat “mits de desbetreffende vergoedingen, verstrekkingen en terbeschikkingstellingen binnen de normen blijven die voor deze gerichte vrijstellingen gelden”.
 
 Voor alle duidelijkheid is de situatie als volgt:
 
-De ambtstoelagen zijn in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) aangewezen als eindheffingsbestanddeel om ze buiten het individuele loon van de werknemer te plaatsen. Nu dat in formele regelgeving is voorgeschreven aan gemeenten, is de uitbetaling aan de politieke ambtsdrager netto (zoals vermeld bij de [toelichting bij artikel 3.2.6](onbekend)). Vervolgens moet worden bezien wat de gemeente als inhoudingsplichtige te doen staat. Als voor een specifieke vergoeding NIET een gerichte vrijstelling van toepassing is (zoals voor de ambtstoelage), maakt de als eindheffingsbestanddeel aangewezen vergoeding onderdeel uit van de vrije ruimte en zal bij overschrijding van de vrije ruimte de gemeente zelf een heffing van 80% over de overschrijding verschuldigd zijn. Als WEL een gerichte vrijstelling van toepassing is (zoals bij verhuizing) is de vergoeding om die reden vrij van heffing voor de gemeente (de vergoeding hoeft dan niet de vrije ruimte in en kan dus ook niet leiden tot een overschrijding).
+De ambtstoelagen zijn in het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) aangewezen als eindheffingsbestanddeel om ze buiten het individuele loon van de werknemer te plaatsen. Nu dat in formele regelgeving is voorgeschreven aan gemeenten, is de uitbetaling aan de politieke ambtsdrager netto (zoals vermeld bij de [toelichting bij artikel 3.2.6](https://wetten.overheid.nl/BWBR0041643)). Vervolgens moet worden bezien wat de gemeente als inhoudingsplichtige te doen staat. Als voor een specifieke vergoeding NIET een gerichte vrijstelling van toepassing is (zoals voor de ambtstoelage), maakt de als eindheffingsbestanddeel aangewezen vergoeding onderdeel uit van de vrije ruimte en zal bij overschrijding van de vrije ruimte de gemeente zelf een heffing van 80% over de overschrijding verschuldigd zijn. Als WEL een gerichte vrijstelling van toepassing is (zoals bij verhuizing) is de vergoeding om die reden vrij van heffing voor de gemeente (de vergoeding hoeft dan niet de vrije ruimte in en kan dus ook niet leiden tot een overschrijding).
 
 ### 20.b. Geen kostenonderzoek vaste kostenvergoeding om (op onderdelen) een specifieke gerichte vrijstelling van toepassing te laten zijn
 
@@ -322,174 +321,10 @@ BZK is van mening dat dergelijke onderzoeken, die bovendien alleen op lokaal niv
 
 BZK is bovendien van oordeel dat het deel van de vaste kostenvergoeding dat gericht zou kunnen worden vrijgesteld, of als intermediaire kosten zou kunnen worden aangemerkt, zeer beperkt is. In het [rechtspositiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041522) lijkt de grens van het specifiek benoemen van vergoedingsmogelijkheden, na die voor ICT-kosten, de contributie van beroepsgroepen en de niet-partijpolitieke scholing, intussen bereikt. Kosten voor representatie, vakliteratuur, bureaukosten, porti, zakelijke giften en ontvangsten, zijn zodanig persoonsgebonden en individueel bepaald dat hier bewust een vaste forfaitaire kostenvergoeding voor is neergelegd. Juist voor deze kosten op het grensvlak van zakelijk en privé zijn geen vaste bedragen vast te stellen, die bovendien ook nog als fiscaal zakelijk aan te merken zouden zijn.
 
-Natuurlijk is het bevredigend voor de gemeente als er geen belasting hoeft te worden betaald, maar als de grens van de vrije ruimte wordt overschreden, is er sprake van reguliere belastingheffing. En wanneer het komt tot die belastingheffing, leidt die tot lagere kosten voor de werkgever dan bij het alternatief, bruteren. In [§3 van de circulaire van 28 november 2018](onbekend) is hierop uitgebreid ingegaan. Kortheidshalve wordt op deze plaats hiernaar verwezen.
+Natuurlijk is het bevredigend voor de gemeente als er geen belasting hoeft te worden betaald, maar als de grens van de vrije ruimte wordt overschreden, is er sprake van reguliere belastingheffing. En wanneer het komt tot die belastingheffing, leidt die tot lagere kosten voor de werkgever dan bij het alternatief, bruteren. In [§3 van de circulaire van 28 november 2018](https://wetten.overheid.nl/BWBR0041643) is hierop uitgebreid ingegaan. Kortheidshalve wordt op deze plaats hiernaar verwezen.
 
 ### 21. Vragen en informatie op internet
 
 Informatie die betrekking heeft op politieke ambtsdragers kunt u vinden op de volgende internetsite: www.politiekeambtsdragers.nl. Op deze site vindt u alle actuele wet- en regelgeving, circulaires en brochures over politieke ambtsdragers voor het Rijk, de provincie, de gemeente, de waterschappen en ook voor het Koninkrijk en de BES-eilanden voor zover deze afkomstig is van het ministerie van BZK.
 
 Voor eventuele nadere vragen kunt u ook contact opnemen met het ministerie van BZK via postbus.helpdeskpa@minbzk.nl.
-
-## Bijlage 1. Overzicht per onderwerp hyperlinks in welke circulaire informatie
-
-- •. **Nieuwe opzet**: [circulaire 28 november 2018, §2](onbekend)
-
-- •. **Fiscale aspecten**: circulaire 28 november 2018, §3 en deze circulaire §20
-
-- •. **Reiskostensysteem**: circulaire 28 november 2018, §4, Vereenvoudiging reiskostenvergoeding
-
-- •. **Reiskosten raadsleden:** circulaire 28 november 2018, §5, artikel 3.1.7 en deze circulaire §7, §8, §9, §10, §11, §12
-
-- •. **Reiskosten burgemeester of wethouder:**
-
-- •. circulaire 28 november 2018, §4, Vereenvoudiging reiskostenvergoeding en §5, artikel 3.2.9, alsmede deze circulaire §5, §6, §8, §9, §10, §11, §12
-
-- •. **Reiskosten commissieleden:** circulaire 28 november 2018, §5, artikel 3.4.3 en deze circulaire §7, §8, §9, §10, §11, §12
-
-- •. **Ter beschikking gestelde auto (dienstauto/leaseauto):** circulaire 28 november 2018, §5, artikel 3.2.10 (inclusief vier voorbeelden) alsmede deze circulaire §5 en §6
-
-- •. **Gemeenschappelijk gebruik van een ter beschikking gestelde auto:** deze circulaire §6
-
-- •. **Fiscaal zakelijk en niet-zakelijk gebruik van een auto:** deze circulaire §5
-
-- •. **Fiets:** deze circulaire §10
-
-- •. **OV-fiets:** deze circulaire §11
-
-- •. **OV-kaarten:** deze circulaire §11
-
-- •. **Motorfiets:** deze circulaire §12
-
-- •. **Buitenlandse dienstreizen:** deze circulaire §8
-
-- •. **Parkeerkosten en parkeerplaatsen:** deze circulaire §9
-
-- •. **Tol- en veergelden:** circulaire 28 november 2018, §4, Vereenvoudiging reiskostenvergoeding
-
-- •. **Boetes en naheffingsaanslagen voor parkeren:** circulaire 28 november 2018, §4, Vereenvoudiging reiskostenvergoeding
-
-- •. **Indexcijfers:** circulaire 28 november 2018, §4
-
-- •. **Loopbaanoriëntatie**: circulaire 28 november 2018, §4
-
-- •. **Flexibel Pensioen en Uittreden (FPU):** circulaire 28 november 2018, §4
-
-- •. **Wijze van declareren:** circulaire 28 november 2018, §4
-
-- •. **Koppeling aan Arbeidvoorwaardenovereenkomst sector Rijk:** circulaire 28 november 2018, §4
-
-- •. **Wijze van declareren:** circulaire 28 november 2018, §4
-
-- •. **Verblijfplaats in relatie tot Basisregistratie BRP:** deze circulaire §15
-
-- •. **Toekenning jaarvergoeding in gedeelten mogelijk:** deze circulaire §17
-
-- •. **Definitie Fractievoorzitter:** circulaire 28 november 2018, §5, artikel 3.1
-
-- •. **Definitie Commissielid:** circulaire 28 november 2018, §5, artikel 3.1
-
-- •. **Indeling gemeenten in inwonersklassen:** circulaire 28 november 2018, §5, artikel 3.2 en 3.3
-
-- •. **Opclassificatie:** circulaire 28 november 2018, §5, artikel 3.4 en deze circulaire, §13
-
-- •. **Vergoeding voor de werkzaamheden:** circulaire 28 november 2018, §5, artikel 3.1.1
-
-- •. **Toelage lid vertrouwenscommissie:** circulaire 28 november 2018, §5, artikel 3.1.2 tot en met 3.1.4
-
-- •. **Toelage lid rekenkamerfunctie:** circulaire 28 november 2018, §5, artikel 3.1.2 tot en met 3.1.4
-
-- •. **Toelage lid onderzoekscommissie:** circulaire 28 november 2018, §5, artikel 3.1.2 tot en met 3.1.4
-
-- •. **Toelage lid bijzondere commissie:** circulaire 28 november 2018, §5, artikel 3.1.2 tot en met 3.1.4
-
-- •. **Toelage fractievoorzitter:** circulaire 28 november 2018, §5, artikel 3.1.5
-
-- •. **Onkostenvergoeding raadsleden:** circulaire 28 november 2018, §5, artikel 3.1.6
-
-- •. **Verzekering arbeidsongeschiktheid, ouderdom en overlijden raadsleden:** circulaire 28 november 2018, §5, artikel 3.1.9 en deze circulaire, §19
-
-- •. **Ziektekostenverzekering raadsleden:** circulaire 28 november 2018, §5, artikel 3.1.10
-
-- •. **Samenloop met arbeidsongeschiktheidsuitkering:** circulaire 28 november 2018, §5, artikelen 3.1.11 en 3.4.4, alsmede circulaire Samenloop vergoedingen raadsleden met een uitkering
-
-- •. **Waarneming door raadslid:** circulaire 28 november 2018, §5, artikel 3.1.12
-
-- •. **Vergoeding tijdelijk ontslagen raadslid voor werkzaamheden en onkostenvergoeding:** circulaire 28 november 2018, §5, artikel 3.1.13
-
-- •. **Bezoldiging en uitkeringen burgemeester en wethouder:** circulaire 28 november 2018, §5, artikel 3.2.1
-
-- •. **Vakantie-uitkering en eindejaarsuitkering burgemeester en wethouder per 2020:** deze circulaire §18
-
-- •. **Bezoldiging burgemeester in meerdere gemeenten:** circulaire 28 november 2018, §5, artikel 3.2.1
-
-- •. **Verdeling lasten burgemeester benoemd in meerdere gemeenten:** circulaire 28 november 2018, §5, artikel 3.2.16
-
-- •. **Waarneming door wethouder:** circulaire 28 november 2018, §5, artikel 3.2.2
-
-- •. **Verrekening neveninkomsten:** circulaire 28 november 2018, §5, artikel 3.2.3 en de circulaire met betrekking tot de verrekening over het verrekenjaar 2018
-
-- •. **Uitkering bij overlijden burgemeester of wethouder:** circulaire 28 november 2018, §5, artikel 3.2.4
-
-- •. **Mobiliteitstoelage burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.5
-
-- •. **Ambtskosten burgemeester of wethouder:** circulaire 28 november 2018, §5, artikel 3.2.6
-
-- •. **Verhuiskostenvergoeding:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel a
-
-- •. **Vergoeding tijdelijke huisvesting:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel b
-
-- •. **Tegemoetkoming dubbele woonlasten:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel c
-
-- •. **Vergoeding reiskosten naar het huis in de oude gemeente:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel d
-
-- •. **Kosten i.v.m. verhuizing waarnemend burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel e
-
-- •. **Voorbeeldsituaties kosten i.v.m. verhuizing:** circulaire 28 november 2018, §5, artikel 3.2.7, onderdeel f
-
-- •. **Ter beschikking gestelde woning:** circulaire 28 november 2018, §5, artikel 3.2.8
-
-- •. **Vergoeding energie en water ter beschikking gestelde woning:** deze circulaire §14
-
-- •. **Terugkeer wegens dringende reden burgemeester of wethouder:** circulaire 28 november 2018, §5, artikel 3.2.12
-
-- •. **Aanspraken bij zwangerschap en bevalling ziekte burgemeester of wethouder:** circulaire 28 november 2018, §5, artikel 3.2.13
-
-- •. **Vergoeding bij waarneming van de burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.14
-
-- •. **Verzekering voor arbeidsongeschiktheid, ouderdom en overlijden tijdelijke vervanger wethouder:** circulaire 28 november 2018, §5, artikel 3.2.15
-
-- •. **Kennisgeving bij afwezigheid burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.17
-
-- •. **Schorsing burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.18
-
-- •. **Ontslag burgemeester:** circulaire 28 november 2018, §5, artikel 3.2.19
-
-- •. **Stelsel Bewaken en Beveiligen** circulaire 28 november 2018, §5, artikelen 3.3.1 en 3.4.4
-
-- •. **Informatie- en Communicatievoorzieningen (ICT):** circulaire 28 november 2018, §5, artikelen 3.3.2 en 3.4.4, en deze circulaire, §2, §3 en §4
-
-- •. **Vergoeding kosten scholing:** circulaire 28 november 2018, §5, artikelen 3.3.3 en 3.4.4
-
-- •. **Contributie beroepsvereniging burgemeester, wethouder, raadsleden, commissieleden:** circulaire 28 november 2018, §5, artikelen 3.3.4 en 3.4.4
-
-- •. **Bedrijfsgeneeskundige zorg burgemeester, wethouder, raadsleden:** circulaire 28 november 2018, §5, artikelen 3.3.5
-
-- •. **Voorzieningen in verband met een beroepsziekte of een dienstongeval:** circulaire 28 november 2018, §5, artikelen 3.3.6 en 3.4.4
-
-- •. **Voorzieningen in verband met een structurele functionele beperking:** circulaire 28 november 2018, §5, artikelen 3.3.7 en 3.4.4
-
-- •. **Eindheffingsbestanddelen:** circulaire 28 november 2018, §3 en §5, artikelen 3.3.8 en 3.4.4
-
-- •. **Vergoeding voor het bijwonen van de vergaderingen commissieleden:** circulaire 28 november 2018, §5, artikel 3.4.1
-
-- •. **Hogere vergoeding commissieleden:** circulaire 28 november 2018, §5, artikel 3.4.2
-
-- •. **Presentievergoeding commissieleden kan worden aangemerkt als een vrijwilligersvergoeding:** deze circulaire §16
-
-## Bijlage 2. Brief aan Tweede Kamer over fiscale aspecten gebruik dienstauto’s
-
-## Bijlage 3a. **Persoonlijk** ter beschikking gestelde auto
-
-## Bijlage 3b. Auto voor gemeenschappelijk gebruik **met** garantie auto te allen tijde beschikbaar
-
-## Bijlage 3c. Auto voor gemeenschappelijk gebruik **zonder** garantie auto te allen tijde beschikbaar

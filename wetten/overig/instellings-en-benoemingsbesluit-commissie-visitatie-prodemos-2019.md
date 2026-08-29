@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2019 met kenmerk 2019-0000509315, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2019"
+citeertitel: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019"
 identifier: "BWBR0042685"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-10-22"
-last_updated: "2019-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042685"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "15210643"
-version_id: "26088892"
-internal_id: "C37129081"
-label_id: "15157754"
-dtd_version: "2.0"
-original_entry_into_force: "2019-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042685/2019-10-22/0"
-intitule_bron: "Stcrt.2019-56961"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-10"
-intitule_published: "2019-10-21"
-intitule_in_force: "2019-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-56961"
-original_signed_date: "2019-10-10"
-original_published_date: "2019-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-56961"
-entry_into_force_date: "2019-10-22"
-jci_1_3: "jci1.3:c:BWBR0042685&z=2019-10-22&g=2019-10-22"
-jci_1_0: "1.0:c:BWBR0042685&g=2019-10-22"
-citeertitel_status: "officieel"
-short_title: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019"
-signed_date: "2019-10-10"
-entry_into_force: "2019-10-22"
+publicatiedatum: 2019-10-22
+laatste_update: 2019-10-22
+status: geldig
+toestand: 2019-10-22
+bron: "https://wetten.overheid.nl/BWBR0042685"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2019 met kenmerk 2019-0000509315, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2019
-
-gelet op het protocol visitatie t.b.v. de visitatiecommissie ProDemos van augustus 2015, nr. 2015-0000488822,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=2&z=2019-10-22&g=2019-10-22);
+- a. *commissie:* commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=2&z=2019-10-22&g=2019-10-22);
 
-- b. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **ministerie:** ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *ministerie:* ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Instelling en taak
 
@@ -88,15 +62,15 @@ In dit besluit wordt verstaan onder:
 
 De leden van de commissie zijn:
 
-- –. prof. dr. C.C. (Carla) van Baalen
+- – prof. dr. C.C. (Carla) van Baalen
 
-- –. dr. R (Roelof) Bisschop
+- – dr. R (Roelof) Bisschop
 
-- –. mr. T. (Thomas) Klijnstra MSc
+- – mr. T. (Thomas) Klijnstra MSc
 
-- –. P. (Paulien) Kreutzer MA
+- – P. (Paulien) Kreutzer MA
 
-- –. mr. dr. R. (Remco) Nehmelman (voor de periode van 1 april 2019 tot en met 22 augustus 2019)
+- – mr. dr. R. (Remco) Nehmelman (voor de periode van 1 april 2019 tot en met 22 augustus 2019)
 
 ##### Artikel 5. Secretaris
 
@@ -157,5 +131,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikl 13 Citeertitel
 
 Dit besluit wordt aangehaald als: Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019.
-
-Dit besluit wordt in de Staatscourant geplaatst.

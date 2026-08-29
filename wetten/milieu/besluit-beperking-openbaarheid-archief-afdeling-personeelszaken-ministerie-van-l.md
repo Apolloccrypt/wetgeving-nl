@@ -1,50 +1,22 @@
 ---
 title: "Besluit van 15 november 2019, nr. DB/19216000, houdende beperking openbaarheid archief afdeling Personeelszaken Ministerie van Landbouw, Natuur en Voedselkwaliteit geboortejaren 1835–1976 en 1877–2005"
+citeertitel: "Besluit beperking openbaarheid archief afdeling Personeelszaken Ministerie van Landbouw, Natuur en Voedselkwaliteit geboortejaren 1835–1976 en 1877–2005"
 identifier: "BWBR0042887"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-14"
-last_updated: "2019-12-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042887"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15275323"
-version_id: "26314952"
-internal_id: "C37403081"
-label_id: "15221174"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042887/2019-12-14/0"
-intitule_bron: "Stcrt.2019-67945"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-15"
-intitule_published: "2019-12-13"
-intitule_in_force: "2019-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-67945"
-original_signed_date: "2019-11-15"
-original_published_date: "2019-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-67945"
-entry_into_force_date: "2019-12-14"
-jci_1_3: "jci1.3:c:BWBR0042887&z=2019-12-14&g=2019-12-14"
-jci_1_0: "1.0:c:BWBR0042887&g=2019-12-14"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief afdeling Personeelszaken Ministerie van Landbouw, Natuur en Voedselkwaliteit geboortejaren 1835–1976 en 1877–2005"
-signed_date: "2019-11-15"
-entry_into_force: "2019-12-14"
+publicatiedatum: 2019-12-14
+laatste_update: 2019-12-14
+status: geldig
+toestand: 2019-12-14
+bron: "https://wetten.overheid.nl/BWBR0042887"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 15 november 2019, nr. DB/19216000, houdende beperking openbaarheid archief afdeling Personeelszaken Ministerie van Landbouw, Natuur en Voedselkwaliteit geboortejaren 1835–1976 en 1877–2005
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gezien het advies van het Nationaal Archief van 29 juni 2019 met kenmerk 8303452;
-
-Besluit:
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar per 1 januari van het jaar genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar per 1 januari van het jaar genoemd in de tweede kolom.
 
 | Inventarisnummer | Openbaar per |
 | --- | --- |
@@ -706,5 +678,3 @@ Het vervaardigen van reproducties van de archiefbescheiden geborgen onder de inv
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt overeenkomstig [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) als bijlage gevoegd bij de Verklaring van Overbrenging van het archief afdeling Personeelszaken LNV geboortejaren 1835–1976 en 1877–2005.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 december 2019, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Besluit tenuitvoerlegging strafrechtelijke beslissingen)"
+citeertitel: "Besluit tenuitvoerlegging strafrechtelijke beslissingen"
 identifier: "BWBR0042962"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042962"
+categorie: "Strafrecht"
 soort: "AMvB"
-stam_id: "15289903"
-version_id: "26346782"
-internal_id: "C37446121"
-label_id: "15236754"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042962/2026-01-01/0"
-intitule_bron: "Stb.2019-505"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-18"
-intitule_published: "2019-12-24"
-intitule_in_force: "2019-12-24"
-intitule_status: "goed"
-original_publication: "Stb.2019-505"
-original_signed_date: "2019-12-18"
-original_published_date: "2019-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-505"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042962&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0042962&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tenuitvoerlegging strafrechtelijke beslissingen"
-signed_date: "2019-12-18"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0042962"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 18 december 2019, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Besluit tenuitvoerlegging strafrechtelijke beslissingen)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 16 oktober 2019, Directie Wetgeving en Juridische Zaken, nr. 2725937;
-
-Gelet op de [artikelen 493, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=493), [6:1:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:15), [6:2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:9), [6:2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:14), [6:2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:21), [6:3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:6), [6:3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:13), [6:4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:8), [6:4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:19), [6:5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:5:3), [6:6:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:18) en [6:7:8 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:8) en [artikel 74, vijfde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2019, nr. W16.19.0327/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 13 december 2019, Directie Wetgeving en Juridische Zaken, nr. 2770068;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,55 +20,55 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **contactpersoon:** degene die handelt namens de instelling of organisatie waar een taakstraf wordt verricht;
+- – *contactpersoon:* degene die handelt namens de instelling of organisatie waar een taakstraf wordt verricht;
 
-- –. **gedragsbeïnvloedende maatregel:** de maatregel, bedoeld in [artikel 77w van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w);
+- – *gedragsbeïnvloedende maatregel:* de maatregel, bedoeld in [artikel 77w van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w);
 
-- –. **gedragsinterventie:** een gestructureerd geheel van methodische handelingen gericht op de beïnvloeding van gedrag of omstandigheden van de jeugdige, met als doel het voorkomen van recidive;
+- – *gedragsinterventie:* een gestructureerd geheel van methodische handelingen gericht op de beïnvloeding van gedrag of omstandigheden van de jeugdige, met als doel het voorkomen van recidive;
 
-- –. **inrichting:** een inrichting als bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1) of [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
+- – *inrichting:* een inrichting als bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1) of [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
 
-- –. **instelling:** een instelling als bedoeld in [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1);
+- – *instelling:* een instelling als bedoeld in [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1);
 
-- –. **jeugdige:** een persoon ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77aa);
+- – *jeugdige:* een persoon ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77aa);
 
-- –. **jeugdige taakgestrafte:** een taakgestrafte ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77aa);
+- – *jeugdige taakgestrafte:* een taakgestrafte ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77gg van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77aa);
 
-- –. **jeugdreclassering:** een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), bij de uitvoering van jeugdreclassering;
+- – *jeugdreclassering:* een gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), bij de uitvoering van jeugdreclassering;
 
-- –. **ontnemingsaanwijzing:** de aanwijzing, bedoeld in [artikel 257a, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
+- – *ontnemingsaanwijzing:* de aanwijzing, bedoeld in [artikel 257a, derde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
 
-- –. **ontnemingsmaatregel:** de maatregel, bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e);
+- – *ontnemingsmaatregel:* de maatregel, bedoeld in [artikel 36e van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e);
 
-- –. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- – *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- –. **projectplaats:** de plaats bij een instelling of organisatie waar de taakstraf wordt uitgevoerd;
+- – *projectplaats:* de plaats bij een instelling of organisatie waar de taakstraf wordt uitgevoerd;
 
-- –. **raad voor de kinderbescherming:** de raad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=238);
+- – *raad voor de kinderbescherming:* de raad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=238);
 
-- –. **reclassering:** een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1);
+- – *reclassering:* een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=1);
 
-- –. **schadevergoedingsmaatregel:** de maatregel, bedoeld in de [artikelen 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) en [artikel 257a, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
+- – *schadevergoedingsmaatregel:* de maatregel, bedoeld in de [artikelen 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) en [artikel 257a, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
 
-- –. **schikking:** een schriftelijke schikking als bedoeld in [artikel 511c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511c);
+- – *schikking:* een schriftelijke schikking als bedoeld in [artikel 511c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511c);
 
-- –. **scholings- en trainingsprogramma:** een programma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3);
+- – *scholings- en trainingsprogramma:* een programma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3);
 
-- –. **stortingsaanwijzing:** de aanwijzing, bedoeld in [artikel 257a, derde lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
+- – *stortingsaanwijzing:* de aanwijzing, bedoeld in [artikel 257a, derde lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
 
-- –. **stortingsvoorwaarde:** de voorwaarde, bedoeld in [artikel 14c, tweede lid, onder 3° of 4° van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c), [artikel 13, derde lid, van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13) of [artikel 80, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80);
+- – *stortingsvoorwaarde:* de voorwaarde, bedoeld in [artikel 14c, tweede lid, onder 3° of 4° van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c), [artikel 13, derde lid, van de Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13) of [artikel 80, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80);
 
-- –. **taakgestrafte:** degene aan wie een taakstraf is opgelegd;
+- – *taakgestrafte:* degene aan wie een taakstraf is opgelegd;
 
-- –. **transactie:** een of meer van de gestelde voorwaarden, bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74);
+- – *transactie:* een of meer van de gestelde voorwaarden, bedoeld in [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74);
 
-- –. **uitvoerder taakstraffen:** de medewerker van de reclassering of de raad voor de kinderbescherming die is belast met begeleiding en toezicht in het kader van de tenuitvoerlegging van een taakstraf;
+- – *uitvoerder taakstraffen:* de medewerker van de reclassering of de raad voor de kinderbescherming die is belast met begeleiding en toezicht in het kader van de tenuitvoerlegging van een taakstraf;
 
-- –. **voorwaardelijke veroordeling:** veroordeling waarbij de straf of maatregel geheel of gedeeltelijk niet zal worden ten uitvoer gelegd, tenzij de rechter later anders beveelt;
+- – *voorwaardelijke veroordeling:* veroordeling waarbij de straf of maatregel geheel of gedeeltelijk niet zal worden ten uitvoer gelegd, tenzij de rechter later anders beveelt;
 
-- –. **vrijheidsstraf:** gevangenisstraf, hechtenis, militaire detentie en jeugddetentie, alsmede de tenuitvoerlegging van een voorwaardelijke vrijheidsstraf of van het voorwaardelijke deel van een vrijheidsstraf;
+- – *vrijheidsstraf:* gevangenisstraf, hechtenis, militaire detentie en jeugddetentie, alsmede de tenuitvoerlegging van een voorwaardelijke vrijheidsstraf of van het voorwaardelijke deel van een vrijheidsstraf;
 
-- –. **wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+- – *wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
 ##### Artikel 1:2
 
@@ -118,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Vrijheidsbenemende sancties
 
-## Titel 2.1. Voorwaardelijke invrijheidstelling
+### Titel 2.1. Voorwaardelijke invrijheidstelling
 
 ##### Artikel 2:1
 
@@ -158,7 +126,107 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 2. Het eerste lid is van overeenkomstige toepassing op het mededelen van beslissingen krachtens de [artikelen 6:6:19, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:19), [6:6:21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21), en [6:6:32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:32).
 
-## Titel 2.1a. Strafonderbreking
+### Titel 2.1a. Strafonderbreking
+
+##### Artikel 2:5a
+
+1. Onze Minister kan in uitzonderlijke gevallen, waarin niet kan worden volstaan met een vorm van verlof, op verzoek van de veroordeelde, de jeugdige of het openbaar ministerie of ambtshalve strafonderbreking voor bepaalde tijd verlenen.
+
+2. Strafonderbreking op verzoek van de veroordeelde of de jeugdige kan worden verleend wegens uitzonderlijke omstandigheden in de persoonlijke sfeer van de veroordeelde of de jeugdige:
+
+- a. voor de verzorging van een ernstig ziek kind of ernstig zieke levensgezel of ouder van de veroordeelde of jeugdige of voor de verzorging van een ernstig zieke andere relatie van de jeugdige;
+
+- b. voor het bijwonen van de bevalling van de levensgezel;
+
+- c. voor een bezoek aan een in levensgevaar of ernstige psychische nood verkerende levensgezel, kind, ouder, broer, zus, grootouder of schoonouder van de veroordeelde of jeugdige of voor het brengen van een bezoek aan een in levensgevaar of ernstige psychische nood verkerende van een andere relatie van de jeugdige;
+
+- d. voor een bezoek in verband met het overlijden van de levensgezel of van een kind, ouder, broer, zus, grootouder of schoonouder van de veroordeelde of van de jeugdige of in verband met het overlijden van een andere relatie van de jeugdige. Het bezoek kan bestaan uit het bijwonen van de uitvaart, een rouwbezoek, dan wel een bezoek aan graf of columbarium;
+
+- e. voor een bezoek in verband met het niet in staat zijn om naar de inrichting te reizen van een relatie van de jeugdige;
+
+- f. wegens dringende redenen van lichamelijke of psychische aard bij de veroordeelde of de jeugdige, die naar het oordeel van de inrichtingsarts in de weg staan aan voortzetting van de detentie of jeugddetentie;
+
+- g. eenmalig wegens dringende omstandigheden van zakelijke aard, indien de veroordeelde of jeugdige aantoont dat de zakelijke belangen al bestonden voor de aanvang van de tenuitvoerlegging van de vrijheidsstraf en dat persoonlijke aanwezigheid bij de behartiging ervan noodzakelijk is;
+
+- h. wegens andere onvoorziene klemmende redenen gelegen in de persoonlijke sfeer, waarbij de aanwezigheid van de veroordeelde of de jeugdige noodzakelijk is.
+
+3. In de gevallen, bedoeld in het tweede lid, onder a tot en met e, kan strafonderbreking slechts worden verleend indien de betreffende toestand of gebeurtenis door een arts respectievelijk een ambtenaar van de burgerlijke stand is bevestigd en is aangetoond dat:
+
+- a. de band tussen de veroordeelde of de jeugdige en de te bezoeken of overleden persoon hecht is of was, en
+
+- b. de te bezoeken persoon respectievelijk de nabestaanden van die persoon geen bezwaar heeft of hebben tegen het bezoek van de veroordeelde of de jeugdige.
+
+4. Strafonderbreking voor bepaalde tijd wordt niet verleend op verzoek van:
+
+- a. een vreemdeling die ongewenst is verklaard of ten aanzien van wie een inreisverbod is uitgevaardigd dan wel ten aanzien van wie een procedure tot ongewenstverklaring of uitvaardiging van een inreisverbod loopt, tenzij aan het besluit tot ongewenstverklaring of uitvaardiging van een inreisverbod schorsende werking is verleend, en
+
+- b. een vreemdeling van wie vaststaat dat deze na het ondergaan van de straf zal worden uitgezet.
+
+##### Artikel 2:5b
+
+De strafonderbreking voor bepaalde tijd duurt niet langer dan noodzakelijk, doch ten hoogste drie maanden.
+
+##### Artikel 2:5c
+
+Bij de beslissing over het verlenen van de strafonderbreking voor bepaalde tijd en het vaststellen van de duur ervan houdt Onze Minister rekening met alle in aanmerking komende belangen. De belangen van de veroordeelde of jeugdige worden afgewogen tegen het algemeen belang. Daarbij wordt zwaar gewicht toegekend aan de risico's voor de continuïteit van de tenuitvoerlegging en voor de maatschappelijke orde en veiligheid, alsmede de belangen van het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a).
+
+##### Artikel 2:5d
+
+1. Strafonderbreking voor bepaalde tijd geschiedt onder de algemene voorwaarden dat de veroordeelde of jeugdige:
+
+- a. de strafonderbreking gebruikt voor het doel waarvoor deze is verleend;
+
+- b. zich gedurende de strafonderbreking niet schuldig maakt aan een strafbaar feit;
+
+- c. Nederland slechts mag verlaten wanneer deze wegens bijzondere omstandigheden van Onze Minister toestemming heeft gekregen voor verblijf in het buitenland.
+
+2. Aan de strafonderbreking voor bepaalde tijd kunnen daarnaast bijzondere voorwaarden betreffende het gedrag van de veroordeelde of jeugdige worden verbonden. Indien een bijzondere voorwaarde is gesteld, is daaraan van rechtswege de voorwaarde verbonden dat de veroordeelde of jeugdige ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt.
+
+3. De bijzondere voorwaarden kunnen inhouden:
+
+- a. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
+
+- b. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;
+
+- c. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn of te verblijven;
+
+- d. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;
+
+- e. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;
+
+- f. een verplichting om een in detentie reeds aangevangen behandeling door een deskundige of zorginstelling voort te zetten gedurende de duur van de strafonderbreking;
+
+- g. elektronisch toezicht;
+
+- h. begeleiding en toezicht door de reclassering of jeugdreclassering en de verplichting medewerking te verlenen aan die begeleiding en dat toezicht, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht;
+
+- i. andere voorwaarden, het gedrag van de veroordeelde of jeugdige betreffende, waaraan deze gedurende de duur van de strafonderbreking heeft te voldoen.
+
+##### Artikel 2:5e
+
+Onze Minister kan de verleende strafonderbreking voor bepaalde tijd te allen tijde wijzigen of intrekken. De beslissing tot wijziging of intrekking wordt gemotiveerd.
+
+##### Artikel 2:5f
+
+1. Onze Minister kan strafonderbreking voor onbepaalde tijd verlenen aan een vreemdeling die op grond van [artikel 6:2:10, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) niet in aanmerking komt voor voorwaardelijke invrijheidstelling of een jeugdige die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+
+2. Indien een vrijheidsstraf van ten hoogste drie jaren is opgelegd, kan de strafonderbreking bedoeld in het eerste lid worden verleend nadat tenminste de helft van de straf is ondergaan. Indien een vrijheidsstraf van meer dan drie jaren is opgelegd, kan de strafonderbreking worden verleend nadat ten minste twee derde deel van de straf is ondergaan, met dien verstande dat strafonderbreking niet eerder wordt verleend dan twee jaren voor het einde van de straf.
+
+3. In afwijking van het tweede lid kan bij een vrijheidsstraf van meer dan drie jaren eerder strafonderbreking voor onbepaalde tijd worden verleend indien er sprake is van een bijzonder uitzettingsbelang en ten minste twee derde deel van de straf is ondergaan.
+
+4. Bij de beslissing over de strafonderbreking voor onbepaalde tijd houdt Onze Minister rekening met de omstandigheden van het geval. Bij deze beslissing worden naast het uitzettingsbelang in ieder geval de belangen van het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a), het belang van een geloofwaardige tenuitvoerlegging en strafvorderlijke belangen betrokken.
+
+5. Strafonderbreking voor onbepaalde tijd wordt niet verleend zolang er zicht bestaat op de overdracht van de tenuitvoerlegging van de vrijheidsstraf aan een andere staat binnen een redelijke termijn.
+
+6. Aan de strafonderbreking voor onbepaalde tijd wordt de voorwaarde verbonden dat de vreemdeling Nederland verlaat. Indien de vreemdeling naar Nederland terugkeert, wordt de tenuitvoerlegging van de vrijheidsstraf hervat.
+
+7. De strafonderbreking voor onbepaalde tijd gaat in op het moment dat de vreemdeling Nederland heeft verlaten.
+
+##### Artikel 2:5g
+
+Bij ministeriële regeling worden nadere regels gesteld over de wijze van verlening van de strafonderbreking.
+
+### Titel 2.2. Schorsing van de voorlopige hechtenis bij jeugdigen
 
 ##### Artikel 2:6
 
@@ -188,7 +256,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 4. De in [artikel 493, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=493) bedoelde instemming moet blijken uit een door de jeugdige ondertekende verklaring, waarin de aard en inhoud van de voorwaarden zijn omschreven. De instemming van de jeugdige kan eveneens blijken uit het proces-verbaal van de terechtzitting.
 
-## Titel 2.3. Het netwerk- en het trajectberaad voor jeugdigen
+### Titel 2.3. Nazorg bij jeugdigen
 
 ##### Artikel 2:7
 
@@ -206,7 +274,7 @@ Indien de directeur van de inrichting van oordeel is dat een jeugdige aan wie je
 
 - d. een vertegenwoordiger van de gemeente waar de jeugdige zal verblijven na zijn verblijf in de inrichting.
 
-## Titel 2.4. Plaatsing in een inrichting voor jeugdigen
+### Titel 2.4. Plaatsing in een inrichting voor jeugdigen
 
 #### § 1. Algemene bepalingen
 
@@ -340,7 +408,7 @@ Bij het indienen van een vordering als bedoeld in [artikel 6:6:32 van de wet](ht
 
 2. Onze Minister brengt een beslissing als bedoeld in [artikel 6:6:33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:33) onverwijld ter kennis aan de raad voor de kinderbescherming en de selectiefunctionaris.
 
-## Titel 2.5. Delegatie
+### Titel 2.5. Delegatie
 
 ##### Artikel 2:23
 
@@ -348,7 +416,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 ### Hoofdstuk 3. Vrijheidsbeperkende sancties en voorwaarden
 
-## Titel 3.1. Toezicht op de naleving van voorwaarden
+### Titel 3.1. Toezicht op de naleving van voorwaarden
 
 ##### Artikel 3:1
 
@@ -394,7 +462,7 @@ Bij ministeriële regeling worden nadere regels gesteld over de gevallen waarin 
 
 2. In het afloopbericht kan het feitelijk verloop van het toezicht worden aangegeven.
 
-## Titel 3.2. Taakstraffen
+### Titel 3.2. Taakstraffen
 
 #### § 1. Inhoud van de taakstraf
 
@@ -474,7 +542,7 @@ Projectplaatsen voldoen aan de volgende voorwaarden:
 
 3. Onze Minister kan, na overleg met de reclassering onderscheidenlijk de raad voor de kinderbescherming, een project doen vervallen.
 
-#### § 1. Inhoud van de taakstraf
+#### § 2. Plaatsing taakgestrafte
 
 ##### Artikel 3:13
 
@@ -572,7 +640,7 @@ De taakgestrafte geeft veranderingen in de woon-, onderwijs- of werksituatie of 
 
 3. Verzuimde uren worden ingehaald, ook in geval van ziekte.
 
-## Titel 3.3. Gedragsbeïnvloedende maatregel
+### Titel 3.3. Gedragsbeïnvloedende maatregel
 
 ##### Artikel 3:26
 
@@ -580,7 +648,7 @@ De taakgestrafte geeft veranderingen in de woon-, onderwijs- of werksituatie of 
 
 2. Indien de maatregel betreffende het gedrag van de jeugdige gezamenlijk met een vrijheidsbenemende straf wordt opgelegd, voorziet het programma, bedoeld in [artikel 77w, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77w), in ieder geval in begeleiding van de jeugdige bij een verantwoorde terugkeer in de samenleving. De rechter neemt in zijn vonnis zodanige bepalingen op als hij voor de juiste uitvoering van die begeleiding noodzakelijk acht.
 
-## Titel 3.4. Delegatie
+### Titel 3.4. Delegatie
 
 ##### Artikel 3:27
 
@@ -592,7 +660,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 ### Hoofdstuk 4. Geldelijke sancties en bijkomende straffen
 
-## Titel 4.1. Algemene bepalingen
+### Titel 4.1. Algemene bepalingen
 
 ##### Artikel 4:1
 
@@ -600,7 +668,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over:
 
 2. Dit hoofdstuk is niet van toepassing op geldboeten die zijn opgelegd in een strafbeschikking, uitgevaardigd krachtens [artikel 76 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=76) of [artikel 10:15 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=10:15).
 
-## Titel 4.2. Plaats, wijze en termijn van betaling
+### Titel 4.2. Plaats, wijze en termijn van betaling
 
 ##### Artikel 4:2
 
@@ -648,7 +716,7 @@ Indien de bevoegdheid van [artikel 257b van de wet](https://wetten.overheid.nl/j
 
 3. De aantekeningen worden, uiterlijk een jaar nadat zij zijn opgemaakt, desverlangd getoond aan de personen die met het toezicht op de inning zijn belast.
 
-## Titel 4.3. Verantwoording van de gelden
+### Titel 4.3. Verantwoording van de gelden
 
 ##### Artikel 4:8
 
@@ -670,7 +738,7 @@ Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankreke
 
 3. De in het eerste en tweede lid bedoelde opgave kan achterwege blijven voor die gevallen waarin de gelden ter plaatse zijn overgemaakt op de daartoe bestemde bankrekening van Onze Minister.
 
-## Titel 4.4. Administratiekosten en kosten van verhaal
+### Titel 4.4. Administratiekosten en kosten van verhaal
 
 ##### Artikel 4:11
 
@@ -684,13 +752,13 @@ Degene aan wie een geldboete wordt opgelegd, is de bij ministeriële regeling be
 
 3. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
 
-## Titel 4.5. Uitlevering voorwerpen
+### Titel 4.5. Uitlevering voorwerpen
 
 ##### Artikel 4:13
 
 De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschiedt op de door Onze Minister aangewezen plaats.
 
-## Titel 4.6. Voorschot schadevergoedingsmaatregel
+### Titel 4.6. Voorschot schadevergoedingsmaatregel
 
 ##### Artikel 4:14
 
@@ -698,7 +766,7 @@ De uitlevering van niet in beslag genomen verbeurd verklaarde voorwerpen, geschi
 
 2. Ten aanzien van het uit te keren bedrag geldt een maximum van € 5.000. Dit maximum geldt niet in de gevallen waarin het bedrag wordt uitgekeerd na een veroordeling ter zake van een van de misdrijven als omschreven in de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [239 tot en met 254ba](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=239), [273f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), [287 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312) en [317 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317).
 
-## Titel 4.7. Delegatie
+### Titel 4.7. Delegatie
 
 ##### Artikel 4:15
 
@@ -722,13 +790,13 @@ Met betrekking tot de tenuitvoerlegging van hoofdstraffen wordt onderscheiden:
 
 - a. de vrijheidsstraf, waarvan de tenuitvoerlegging aanvangt:
 
-- 1°. op de datum van de dagtekening van de aan de veroordeelde gerichte mededeling met de datum waarop hij zich moet melden bij de inrichting;
+   - 1°. op de datum van de dagtekening van de aan de veroordeelde gerichte mededeling met de datum waarop hij zich moet melden bij de inrichting;
 
-- 2°. op de eenendertigste dag na verzending van de aan de onder 1° bedoelde mededeling voorafgaande vooraankondiging, indien de veroordeelde daarop niet reageert;
+   - 2°. op de eenendertigste dag na verzending van de aan de onder 1° bedoelde mededeling voorafgaande vooraankondiging, indien de veroordeelde daarop niet reageert;
 
-- 3°. op de datum van het uitvaardigen van een arrestatiebevel jegens de veroordeelde ten aanzien van wie Onze Minister niet verzoekt zich op een bepaalde datum te melden bij de inrichting; of
+   - 3°. op de datum van het uitvaardigen van een arrestatiebevel jegens de veroordeelde ten aanzien van wie Onze Minister niet verzoekt zich op een bepaalde datum te melden bij de inrichting; of
 
-- 4°. op de datum dat de veroordeelde zonder vaste woon- of verblijfplaats wordt gesignaleerd voor aanhouding voor de tenuitvoerlegging van een openstaande vrijheidsstraf.
+   - 4°. op de datum dat de veroordeelde zonder vaste woon- of verblijfplaats wordt gesignaleerd voor aanhouding voor de tenuitvoerlegging van een openstaande vrijheidsstraf.
 
 - b. de taakstraf, welke aanvangt op de datum van de dagtekening van de aan de veroordeelde gerichte oproep voor het eerste gesprek bij de reclassering.
 
@@ -740,9 +808,9 @@ Met betrekking tot de tenuitvoerlegging van bijkomende straffen wordt onderschei
 
 - a. de ontzetting van bepaalde rechten, waarvan de tenuitvoerlegging aanvangt:
 
-- 1°. indien het de ontzegging van de rijbevoegdheid betreft, op de datum waarop aan de veroordeelde in persoon, volgens de [artikelen 36d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d) en [36e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e), een schrijven is uitgereikt; of
+   - 1°. indien het de ontzegging van de rijbevoegdheid betreft, op de datum waarop aan de veroordeelde in persoon, volgens de [artikelen 36d](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36d) en [36e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36e), een schrijven is uitgereikt; of
 
-- 2°. indien het de overige ontzetting van bepaalde rechten betreft, op de datum van het onherroepelijk worden van het vonnis of arrest.
+   - 2°. indien het de overige ontzetting van bepaalde rechten betreft, op de datum van het onherroepelijk worden van het vonnis of arrest.
 
 - b. de verbeurdverklaring, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest.
 
@@ -764,9 +832,9 @@ Met betrekking tot de tenuitvoerlegging van voor gratie vatbare maatregelen word
 
 - a. terbeschikkingstelling met verpleging van overheidswege, waarvan de tenuitvoerlegging aanvangt:
 
-- 1°. op de datum van dagtekening van de last tot tenuitvoerlegging van het veroordelend vonnis of arrest, bedoeld in [artikel 6:1:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
+   - 1°. op de datum van dagtekening van de last tot tenuitvoerlegging van het veroordelend vonnis of arrest, bedoeld in [artikel 6:1:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
 
-- 2°. op de datum van afgifte van het bevel tot gevangenneming, bedoeld in [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=65);
+   - 2°. op de datum van afgifte van het bevel tot gevangenneming, bedoeld in [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=65);
 
 - b. plaatsing in een inrichting voor stelselmatige daders, waarvan de tenuitvoerlegging aanvangt op de datum van het uitvaardigen van een last tot tenuitvoerlegging van een bevel tot vrijheidsbeneming of veroordelend vonnis of arrest, bedoeld in [artikel 6:1:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
 
@@ -807,159 +875,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 6:3
 
 Dit besluit wordt aangehaald als: Besluit tenuitvoerlegging strafrechtelijke beslissingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2:5a
-
-1. Onze Minister kan in uitzonderlijke gevallen, waarin niet kan worden volstaan met een vorm van verlof, op verzoek van de veroordeelde, de jeugdige of het openbaar ministerie of ambtshalve strafonderbreking voor bepaalde tijd verlenen.
-
-2. Strafonderbreking op verzoek van de veroordeelde of de jeugdige kan worden verleend wegens uitzonderlijke omstandigheden in de persoonlijke sfeer van de veroordeelde of de jeugdige:
-
-- a. voor de verzorging van een ernstig ziek kind of ernstig zieke levensgezel of ouder van de veroordeelde of jeugdige of voor de verzorging van een ernstig zieke andere relatie van de jeugdige;
-
-- b. voor het bijwonen van de bevalling van de levensgezel;
-
-- c. voor een bezoek aan een in levensgevaar of ernstige psychische nood verkerende levensgezel, kind, ouder, broer, zus, grootouder of schoonouder van de veroordeelde of jeugdige of voor het brengen van een bezoek aan een in levensgevaar of ernstige psychische nood verkerende van een andere relatie van de jeugdige;
-
-- d. voor een bezoek in verband met het overlijden van de levensgezel of van een kind, ouder, broer, zus, grootouder of schoonouder van de veroordeelde of van de jeugdige of in verband met het overlijden van een andere relatie van de jeugdige. Het bezoek kan bestaan uit het bijwonen van de uitvaart, een rouwbezoek, dan wel een bezoek aan graf of columbarium;
-
-- e. voor een bezoek in verband met het niet in staat zijn om naar de inrichting te reizen van een relatie van de jeugdige;
-
-- f. wegens dringende redenen van lichamelijke of psychische aard bij de veroordeelde of de jeugdige, die naar het oordeel van de inrichtingsarts in de weg staan aan voortzetting van de detentie of jeugddetentie;
-
-- g. eenmalig wegens dringende omstandigheden van zakelijke aard, indien de veroordeelde of jeugdige aantoont dat de zakelijke belangen al bestonden voor de aanvang van de tenuitvoerlegging van de vrijheidsstraf en dat persoonlijke aanwezigheid bij de behartiging ervan noodzakelijk is;
-
-- h. wegens andere onvoorziene klemmende redenen gelegen in de persoonlijke sfeer, waarbij de aanwezigheid van de veroordeelde of de jeugdige noodzakelijk is.
-
-3. In de gevallen, bedoeld in het tweede lid, onder a tot en met e, kan strafonderbreking slechts worden verleend indien de betreffende toestand of gebeurtenis door een arts respectievelijk een ambtenaar van de burgerlijke stand is bevestigd en is aangetoond dat:
-
-- a. de band tussen de veroordeelde of de jeugdige en de te bezoeken of overleden persoon hecht is of was, en
-
-- b. de te bezoeken persoon respectievelijk de nabestaanden van die persoon geen bezwaar heeft of hebben tegen het bezoek van de veroordeelde of de jeugdige.
-
-4. Strafonderbreking voor bepaalde tijd wordt niet verleend op verzoek van:
-
-- a. een vreemdeling die ongewenst is verklaard of ten aanzien van wie een inreisverbod is uitgevaardigd dan wel ten aanzien van wie een procedure tot ongewenstverklaring of uitvaardiging van een inreisverbod loopt, tenzij aan het besluit tot ongewenstverklaring of uitvaardiging van een inreisverbod schorsende werking is verleend, en
-
-- b. een vreemdeling van wie vaststaat dat deze na het ondergaan van de straf zal worden uitgezet.
-
-##### Artikel 2:5b
-
-De strafonderbreking voor bepaalde tijd duurt niet langer dan noodzakelijk, doch ten hoogste drie maanden.
-
-##### Artikel 2:5c
-
-Bij de beslissing over het verlenen van de strafonderbreking voor bepaalde tijd en het vaststellen van de duur ervan houdt Onze Minister rekening met alle in aanmerking komende belangen. De belangen van de veroordeelde of jeugdige worden afgewogen tegen het algemeen belang. Daarbij wordt zwaar gewicht toegekend aan de risico's voor de continuïteit van de tenuitvoerlegging en voor de maatschappelijke orde en veiligheid, alsmede de belangen van het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a).
-
-##### Artikel 2:5d
-
-1. Strafonderbreking voor bepaalde tijd geschiedt onder de algemene voorwaarden dat de veroordeelde of jeugdige:
-
-- a. de strafonderbreking gebruikt voor het doel waarvoor deze is verleend;
-
-- b. zich gedurende de strafonderbreking niet schuldig maakt aan een strafbaar feit;
-
-- c. Nederland slechts mag verlaten wanneer deze wegens bijzondere omstandigheden van Onze Minister toestemming heeft gekregen voor verblijf in het buitenland.
-
-2. Aan de strafonderbreking voor bepaalde tijd kunnen daarnaast bijzondere voorwaarden betreffende het gedrag van de veroordeelde of jeugdige worden verbonden. Indien een bijzondere voorwaarde is gesteld, is daaraan van rechtswege de voorwaarde verbonden dat de veroordeelde of jeugdige ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt.
-
-3. De bijzondere voorwaarden kunnen inhouden:
-
-- a. een verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
-
-- b. een verbod zich op of in de directe omgeving van een bepaalde locatie te bevinden;
-
-- c. een verplichting op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn of te verblijven;
-
-- d. een verplichting zich op bepaalde tijdstippen te melden bij een bepaalde instantie;
-
-- e. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;
-
-- f. een verplichting om een in detentie reeds aangevangen behandeling door een deskundige of zorginstelling voort te zetten gedurende de duur van de strafonderbreking;
-
-- g. elektronisch toezicht;
-
-- h. begeleiding en toezicht door de reclassering of jeugdreclassering en de verplichting medewerking te verlenen aan die begeleiding en dat toezicht, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclasseringsinstelling zo vaak en zolang als de reclasseringsinstelling dit noodzakelijk acht;
-
-- i. andere voorwaarden, het gedrag van de veroordeelde of jeugdige betreffende, waaraan deze gedurende de duur van de strafonderbreking heeft te voldoen.
-
-##### Artikel 2:5e
-
-Onze Minister kan de verleende strafonderbreking voor bepaalde tijd te allen tijde wijzigen of intrekken. De beslissing tot wijziging of intrekking wordt gemotiveerd.
-
-##### Artikel 2:5f
-
-1. Onze Minister kan strafonderbreking voor onbepaalde tijd verlenen aan een vreemdeling die op grond van [artikel 6:2:10, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10) niet in aanmerking komt voor voorwaardelijke invrijheidstelling of een jeugdige die geen rechtmatig verblijf heeft in Nederland in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
-
-2. Indien een vrijheidsstraf van ten hoogste drie jaren is opgelegd, kan de strafonderbreking bedoeld in het eerste lid worden verleend nadat tenminste de helft van de straf is ondergaan. Indien een vrijheidsstraf van meer dan drie jaren is opgelegd, kan de strafonderbreking worden verleend nadat ten minste twee derde deel van de straf is ondergaan, met dien verstande dat strafonderbreking niet eerder wordt verleend dan twee jaren voor het einde van de straf.
-
-3. In afwijking van het tweede lid kan bij een vrijheidsstraf van meer dan drie jaren eerder strafonderbreking voor onbepaalde tijd worden verleend indien er sprake is van een bijzonder uitzettingsbelang en ten minste twee derde deel van de straf is ondergaan.
-
-4. Bij de beslissing over de strafonderbreking voor onbepaalde tijd houdt Onze Minister rekening met de omstandigheden van het geval. Bij deze beslissing worden naast het uitzettingsbelang in ieder geval de belangen van het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a), het belang van een geloofwaardige tenuitvoerlegging en strafvorderlijke belangen betrokken.
-
-5. Strafonderbreking voor onbepaalde tijd wordt niet verleend zolang er zicht bestaat op de overdracht van de tenuitvoerlegging van de vrijheidsstraf aan een andere staat binnen een redelijke termijn.
-
-6. Aan de strafonderbreking voor onbepaalde tijd wordt de voorwaarde verbonden dat de vreemdeling Nederland verlaat. Indien de vreemdeling naar Nederland terugkeert, wordt de tenuitvoerlegging van de vrijheidsstraf hervat.
-
-7. De strafonderbreking voor onbepaalde tijd gaat in op het moment dat de vreemdeling Nederland heeft verlaten.
-
-##### Artikel 2:5g
-
-Bij ministeriële regeling worden nadere regels gesteld over de wijze van verlening van de strafonderbreking.
-
-## Titel 2.2. Schorsing van de voorlopige hechtenis bij jeugdigen
-
-## Titel 2.3. Nazorg bij jeugdigen
-
-## Titel 2.4. Plaatsing in een inrichting voor jeugdigen
-
-#### § 1. Algemene bepalingen
-
-#### § 2. Voorwaardelijke beëindiging door Onze Minister
-
-#### § 3. Verlenging van de maatregel
-
-#### § 4. Voorwaardelijke beëindiging van rechtswege
-
-#### § 5. Omzetting van de maatregel
-
-## Titel 2.5. Delegatie
-
-### Hoofdstuk 3. Vrijheidsbeperkende sancties en voorwaarden
-
-## Titel 3.1. Toezicht op de naleving van voorwaarden
-
-## Titel 3.2. Taakstraffen
-
-#### § 2. Plaatsing taakgestrafte
-
-#### § 3. Uitvoerder taakstraffen
-
-#### § 4. Taakgestrafte
-
-## Titel 3.3. Gedragsbeïnvloedende maatregel
-
-## Titel 3.4. Delegatie
-
-### Hoofdstuk 4. Geldelijke sancties en bijkomende straffen
-
-## Titel 4.1. Algemene bepalingen
-
-## Titel 4.2. Plaats, wijze en termijn van betaling
-
-## Titel 4.3. Verantwoording van de gelden
-
-## Titel 4.4. Administratiekosten en kosten van verhaal
-
-## Titel 4.5. Uitlevering voorwerpen
-
-## Titel 4.6. Voorschot schadevergoedingsmaatregel
-
-## Titel 4.7. Delegatie
-
-### Hoofdstuk 5. Gratie
-
-### Hoofdstuk 6. Slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

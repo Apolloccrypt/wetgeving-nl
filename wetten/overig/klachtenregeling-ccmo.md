@@ -1,39 +1,17 @@
 ---
 title: "Klachtenregeling Centrale Commissie Mensgebonden Onderzoek"
+citeertitel: "Klachtenregeling CCMO"
 identifier: "BWBR0043441"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-30"
-last_updated: "2020-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043441"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15423513"
-version_id: "26656852"
-internal_id: "C37808941"
-label_id: "15367324"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043441/2020-04-30/0"
-intitule_bron: "Stcrt.2020-23379"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-09"
-intitule_published: "2020-04-29"
-intitule_in_force: "2020-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-23379"
-original_signed_date: "2020-04-09"
-original_published_date: "2020-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-23379"
-entry_into_force_date: "2020-04-30"
-jci_1_3: "jci1.3:c:BWBR0043441&z=2020-04-30&g=2020-04-30"
-jci_1_0: "1.0:c:BWBR0043441&g=2020-04-30"
-citeertitel_status: "officieel"
-short_title: "Klachtenregeling CCMO"
-signed_date: "2020-04-09"
-entry_into_force: "2020-04-30"
+publicatiedatum: 2020-04-30
+laatste_update: 2020-04-30
+status: geldig
+toestand: 2020-04-30
+bron: "https://wetten.overheid.nl/BWBR0043441"
+opgehaald: 2026-08-29
 ---
+
 # Klachtenregeling Centrale Commissie Mensgebonden Onderzoek
 
 De Centrale Commissie Mensgebonden Onderzoek (hierna te noemen: CCMO), overwegende dat het wenselijk is dat er een regeling is die een behoorlijke behandeling van klachten waarborgt, gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) (Awb), heeft besloten de volgende klachtenregeling vast te stellen:
@@ -74,13 +52,13 @@ Indienen van een klacht
 
 - 1. Het klaagschrift wordt ondertekend verzonden en bevat ten minste: Algemeen secretaris van de CCMO, Postbus 16302, 2500 BH Den Haag of per e-mail aan: ccmo@ccmo.nl.
 
-- a. de naam en het adres van de indiener;
+   - a. de naam en het adres van de indiener;
 
-- b. de dagtekening;
+   - b. de dagtekening;
 
-- c. een omschrijving van de gedraging waartegen de klacht is gericht;
+   - c. een omschrijving van de gedraging waartegen de klacht is gericht;
 
-- d. het klaagschrift moet zijn gericht aan:
+   - d. het klaagschrift moet zijn gericht aan:
 
 - 2. Indien het klaagschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van de klacht noodzakelijk is, dient de indiener zorg te dragen voor een vertaling.
 
@@ -158,6 +136,6 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 2. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De regeling met toelichting wordt tevens op de website van de CCMO geplaatst.
 
-3. Deze regeling vervangt de regeling van 11 september 2003 (Staatscourant 14 oktober 2003, nr. 198) en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
+3. Deze regeling vervangt de regeling van 11 september 2003 (Staatscourant 14 oktober 2003, nr. 198) en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
 4. De regeling is van toepassing op klachten die na de datum van inwerkingtreding van deze regeling zijn ingediend, ook als de gedraging waarover wordt geklaagd zich voor die datum heeft voorgedaan.

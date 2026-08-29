@@ -1,42 +1,17 @@
 ---
 title: "Mandaatbesluit directeur 3W"
 identifier: "BWBR0043222"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-12-10"
-last_updated: "2020-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043222"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15351583"
-version_id: "26528412"
-internal_id: "C37656381"
-label_id: "15296674"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043222/2020-12-10/0"
-intitule_bron: "Stcrt.2020-12169"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-02-27"
-intitule_in_force: "2020-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-12169"
-original_published_date: "2020-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-12169"
-entry_into_force_date: "2020-02-28"
-jci_1_3: "jci1.3:c:BWBR0043222&z=2020-12-10&g=2020-12-10"
-jci_1_0: "1.0:c:BWBR0043222&g=2020-12-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-02-28"
+publicatiedatum: 2020-02-28
+laatste_update: 2020-12-10
+status: geldig
+toestand: 2020-12-10
+bron: "https://wetten.overheid.nl/BWBR0043222"
+opgehaald: 2026-08-29
 ---
+
 # Mandaatbesluit directeur 3W
-
-Gezien het protocol van overdracht d.d. 24 maart 2014;
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,4 +51,4 @@ namens deze:
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.

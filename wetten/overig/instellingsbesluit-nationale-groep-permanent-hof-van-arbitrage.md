@@ -1,62 +1,26 @@
 ---
 title: "Besluit van 23 januari 2020, nr. 2020000099, houdende instelling van een Nationale Groep van het Permanent Hof van Arbitrage (Instellingsbesluit Nationale Groep Permanent Hof van Arbitrage)"
+citeertitel: "Instellingsbesluit Nationale Groep Permanent Hof van Arbitrage"
 identifier: "BWBR0043122"
-country: "nl"
-rank: "kb"
-publication_date: "2021-04-30"
-last_updated: "2021-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043122"
+categorie: "Overig"
 soort: "KB"
-stam_id: "15331813"
-version_id: "26492292"
-internal_id: "C37614201"
-label_id: "15277234"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043122/2021-04-30/0"
-intitule_bron: "Stcrt.2020-6326"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-01-23"
-intitule_published: "2020-01-31"
-intitule_in_force: "2020-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-6326"
-original_signed_date: "2020-01-23"
-original_published_date: "2020-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-6326"
-entry_into_force_date: "2020-02-01"
-jci_1_3: "jci1.3:c:BWBR0043122&z=2021-04-30&g=2021-04-30"
-jci_1_0: "1.0:c:BWBR0043122&g=2021-04-30"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nationale Groep Permanent Hof van Arbitrage"
-signed_date: "2020-01-23"
-entry_into_force: "2020-02-01"
+publicatiedatum: 2020-02-01
+laatste_update: 2021-04-30
+status: geldig
+toestand: 2021-04-30
+bron: "https://wetten.overheid.nl/BWBR0043122"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 23 januari 2020, nr. 2020000099, houdende instelling van een Nationale Groep van het Permanent Hof van Arbitrage (Instellingsbesluit Nationale Groep Permanent Hof van Arbitrage)
-
-Op de voordracht van Onze Minister van Buitenlandse Zaken van 13 januari 2020, nr. Min-Buza.2019.4726-10;
-
-Gelet op artikel 23 van het op 29 juli 1899 te Den Haag tot stand gekomen Verdrag voor de vreedzame beslechting van internationale geschillen (Stb. 1900, 163 en Trb. 1963, 157);
-
-Gelet op artikel 44 van het op 18 oktober 1907 te Den Haag tot stand gekomen Verdrag voor de vreedzame beslechting van internationale geschillen (Stb. 1910, 73 en Trb. 1963, 158);
-
-Gelet op artikel 4, eerste lid, van het op 26 juni 1945 te San Francisco tot stand gekomen Statuut van het Internationaal Gerechtshof (Trb. 1971, 55) (hierna: Statuut IGH);
-
-Gelet op artikel 36, vierde lid, van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationaal Strafhof (Trb. 1999, 13) (hierna: Statuut van Rome);
-
-Gelet op paragraaf 3 van de Special Regulations for the award of the Nobel Peace Prize and the Norwegian Nobel Institute;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Onze Minister:** Onze Minister van Buitenlandse Zaken;
+- *Onze Minister:* Onze Minister van Buitenlandse Zaken;
 
-- **Nationale Groep:** de Nationale Groep van het Permanent Hof van Arbitrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=2&z=2021-04-30&g=2021-04-30).
+- *Nationale Groep:* de Nationale Groep van het Permanent Hof van Arbitrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043122&artikel=2&z=2021-04-30&g=2021-04-30).
 
 ##### Artikel 2
 
@@ -137,5 +101,3 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Nationale Groep Permanent H
 ##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Onze Minister van Buitenlandse Zaken is belast met de uitvoering van dit besluit dat met de nota van toelichting in de Staatscourant zal worden geplaatst.

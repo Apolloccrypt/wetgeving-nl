@@ -1,45 +1,17 @@
 ---
 title: "Verkeersregeling Defensie"
 identifier: "BWBR0043001"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-03-10"
-last_updated: "2021-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043001"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "15301903"
-version_id: "26372992"
-internal_id: "C37476141"
-label_id: "15248284"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043001/2021-03-10/0"
-intitule_bron: "Stcrt.2019-69486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-10"
-intitule_published: "2019-12-20"
-intitule_in_force: "2019-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69486"
-original_signed_date: "2019-12-10"
-original_published_date: "2019-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-69486"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0043001&z=2021-03-10&g=2021-03-10"
-jci_1_0: "1.0:c:BWBR0043001&g=2021-03-10"
-citeertitel_status: "officieel"
-signed_date: "2019-12-10"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2021-03-10
+status: geldig
+toestand: 2021-03-10
+bron: "https://wetten.overheid.nl/BWBR0043001"
+opgehaald: 2026-08-29
 ---
+
 # Verkeersregeling Defensie
-
-Handelende in overeenstemming met de Minister van Infrastructuur en Waterstaat;
-
-Gelet op [artikel 44 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=44) en [artikel 4, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4),
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -47,31 +19,31 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **civiel defensievoertuig:** personenauto of bedrijfsauto zoals genoemd in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1), niet bedoeld voor specifiek militair operationeel gebruik, die wordt gebruikt ten behoeve van Defensie;
+- *civiel defensievoertuig:* personenauto of bedrijfsauto zoals genoemd in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1), niet bedoeld voor specifiek militair operationeel gebruik, die wordt gebruikt ten behoeve van Defensie;
 
-- **civiel rijbewijs:** rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107);
+- *civiel rijbewijs:* rijbewijs als bedoeld in [artikel 107 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107);
 
-- **commandant:** de commandant als bedoeld in [artikel 2 van het Mandaatbesluit Personele Bevoegdheden Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2);
+- *commandant:* de commandant als bedoeld in [artikel 2 van het Mandaatbesluit Personele Bevoegdheden Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039990&artikel=2);
 
-- **defensievoertuig:** een voertuig toebehorende aan of ingezet door Defensie;
+- *defensievoertuig:* een voertuig toebehorende aan of ingezet door Defensie;
 
-- **defensieterrein:** terrein dat in gebruik is bij het Ministerie van Defensie en niet openstaat voor openbaar verkeer; onder terrein wordt ook begrepen de daarop liggende wegen, paden, de daarin liggende bruggen en duikers, de tot de wegen behorende paden en bermen of zijkanten, en parkeerplaatsen;
+- *defensieterrein:* terrein dat in gebruik is bij het Ministerie van Defensie en niet openstaat voor openbaar verkeer; onder terrein wordt ook begrepen de daarop liggende wegen, paden, de daarin liggende bruggen en duikers, de tot de wegen behorende paden en bermen of zijkanten, en parkeerplaatsen;
 
-- **militair rijbewijs:** een door de Commandant Opleidings- en Trainingscentrum Rijden en Bergen afgegeven rijbewijs;
+- *militair rijbewijs:* een door de Commandant Opleidings- en Trainingscentrum Rijden en Bergen afgegeven rijbewijs;
 
-- **militair motorrijtuig:** defensievoertuig dat wordt gebruikt ten behoeve van de Nederlandse strijdkrachten, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning of bromfietsen;
+- *militair motorrijtuig:* defensievoertuig dat wordt gebruikt ten behoeve van de Nederlandse strijdkrachten, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning of bromfietsen;
 
-- **militair oefenterrein:** een terrein dat gebruikt wordt voor oefeningen door Defensie;
+- *militair oefenterrein:* een terrein dat gebruikt wordt voor oefeningen door Defensie;
 
-- **specifiek militair operationeel gebruik:** het besturen van defensievoertuigen buiten verharde wegen en paden, tijdens inzet bij vredesoperaties, crisisbeheersingsoperaties of andere internationale en/of humanitaire operaties;
+- *specifiek militair operationeel gebruik:* het besturen van defensievoertuigen buiten verharde wegen en paden, tijdens inzet bij vredesoperaties, crisisbeheersingsoperaties of andere internationale en/of humanitaire operaties;
 
-- **verlicht transparant:** verlichting op een voertuig die uitsluitend informatie biedt over de bestemming of het gebruik van het voertuig, dan wel aanwijzingen weergeeft voor het overige wegverkeer, als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
+- *verlicht transparant:* verlichting op een voertuig die uitsluitend informatie biedt over de bestemming of het gebruik van het voertuig, dan wel aanwijzingen weergeeft voor het overige wegverkeer, als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
 
-##### Artikel 2. Reikwijdte en toepasselijkheid [Wegenverkeerswet 1994](onbekend)
+##### Artikel 2. Reikwijdte en toepasselijkheid Wegenverkeerswet 1994
 
 1. Deze regeling is van toepassing op de openbare weg en op defensieterrein, tenzij anders staat aangegeven.
 
-2. De [Wegenverkeerswet 1994](onbekend) en de daarop gebaseerde regelgeving, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826), zijn van overeenkomstige toepassing op verkeer op defensieterreinen in Nederland, voorzover daarvan in deze regeling niet wordt afgeweken.
+2. De [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) en de daarop gebaseerde regelgeving, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826), zijn van overeenkomstige toepassing op verkeer op defensieterreinen in Nederland, voorzover daarvan in deze regeling niet wordt afgeweken.
 
 ##### Artikel 3. Vrijstelling
 
@@ -215,9 +187,9 @@ De Commandant der Strijdkrachten kan met inachtneming van het [Reglement verkeer
 
 3. Tabel:
 
-| Type defensievoertuig | Verharde weg | Verharde weg | Onverharde weg |
+| Type defensievoertuig | Verharde weg | Onverharde weg |  |
 | --- | --- | --- | --- |
-|   | Openbare weg ([art. 1 WVW 94](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1)) | Defensie terrein |   |
+|  | Openbare weg (art. 1 WVW 94) | Defensie terrein |  |
 | Civiel defensievoertuig | Ja | ja | nee |
 | Autobus | ja | ja | nee |
 | Vrachtauto met rolbeugel-unit | ja | ja | ja |
@@ -237,9 +209,9 @@ De Commandant der Strijdkrachten kan met inachtneming van het [Reglement verkeer
 
 #### Paragraaf 4. Verkeersregels op defensieterreinen
 
-##### Artikel 17. Overeenkomstige toepassing [Wegenverkeerswet 1994](onbekend)
+##### Artikel 17. Overeenkomstige toepassing Wegenverkeerswet 1994
 
-1. De [Wegenverkeerswet 1994](onbekend) en de daarop gebaseerde regelgeving, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826), zijn van overeenkomstige toepassing op verkeer op defensieterreinen in Nederland, voor zover daarvan in deze paragraaf niet wordt afgeweken.
+1. De [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) en de daarop gebaseerde regelgeving, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826), zijn van overeenkomstige toepassing op verkeer op defensieterreinen in Nederland, voor zover daarvan in deze paragraaf niet wordt afgeweken.
 
 2. Op defensieterreinen buiten Nederland is de verkeerswetgeving van het land waarin het defensieterrein is gelegen van toepassing, voor zover daarvan bij internationale overeenkomst niet wordt afgeweken.
 
@@ -265,7 +237,7 @@ Ten behoeve van opleiding, trainingen en oefeningen kan de commandant van het de
 
 1. Bij de ingang van een defensieterrein is aan de buitenzijde een bord geplaatst.
 
-2. Op het bord staat: ‘Op het defensieterrein zijn de [Wegenverkeerswet 1994](onbekend) en de daarop rustende bepalingen van overeenkomstige toepassing, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826) en met dien verstande dat:’
+2. Op het bord staat: ‘Op het defensieterrein zijn de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622) en de daarop rustende bepalingen van overeenkomstige toepassing, met uitzondering van het [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826) en met dien verstande dat:’
 
 3. In vervolg op de tekst, genoemd in het tweede lid, wordt op het bord ten minste vermeld:
 
@@ -411,21 +383,21 @@ Een defensievoertuig waarvoor nog geen militaire rijbewijscategorie is vastgeste
 
 - b. rijbewijscategorie B
 
-- 1). motorrijtuigen op vier of meer wielen, niet zijnde een bromfiets, waarvan de toegestane maximum massa niet meer bedraagt dan 3.500 kg en die zijn ontworpen en gebouwd voor het vervoer van ten hoogste acht personen, de bestuurder niet meegerekend, alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg dan wel meer bedraagt dan 750 kg, op voorwaarde dat de toegestane maximale massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger niet meer dan 3.500 kg bedraagt;
+   - 1) motorrijtuigen op vier of meer wielen, niet zijnde een bromfiets, waarvan de toegestane maximum massa niet meer bedraagt dan 3.500 kg en die zijn ontworpen en gebouwd voor het vervoer van ten hoogste acht personen, de bestuurder niet meegerekend, alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximum massa niet meer bedraagt dan 750 kg dan wel meer bedraagt dan 750 kg, op voorwaarde dat de toegestane maximale massa van het samenstel van trekkend motorrijtuig en aanhangwagen of oplegger niet meer dan 3.500 kg bedraagt;
 
-- 2). motorrijtuigen genoemd in onderdeel b, onder 1, waarvan de toegestane maximale massa als gevolg van een aan het voertuig aangebrachte bepantsering meer dan 3.500 kg bedraagt;
+   - 2) motorrijtuigen genoemd in onderdeel b, onder 1, waarvan de toegestane maximale massa als gevolg van een aan het voertuig aangebrachte bepantsering meer dan 3.500 kg bedraagt;
 
 - c. rijbewijscategorie C
 
-- 1). motorrijtuigen, niet zijnde motorrijtuigen van de rijbewijscategorieën D of F, waarvan de toegestane maximale massa meer dan 3.500 kg bedraagt alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximale massa niet meer bedraagt dan 750 kg;
+   - 1) motorrijtuigen, niet zijnde motorrijtuigen van de rijbewijscategorieën D of F, waarvan de toegestane maximale massa meer dan 3.500 kg bedraagt alsmede daardoor voortbewogen aanhangwagens of opleggers waarvan de toegestane maximale massa niet meer bedraagt dan 750 kg;
 
-- 2). motorrijtuigen, waarvan de toegestane maximale massa meer bedraagt dan 3.500 kg en die beurtelings kunnen worden ingericht voor het vervoer van meer dan acht personen, de bestuurder niet meegerekend, en voor het vervoer van goederen;
+   - 2) motorrijtuigen, waarvan de toegestane maximale massa meer bedraagt dan 3.500 kg en die beurtelings kunnen worden ingericht voor het vervoer van meer dan acht personen, de bestuurder niet meegerekend, en voor het vervoer van goederen;
 
 - d. rijbewijscategorie D
 
-- 1). motorrijtuigen, niet zijnde motorrijtuigen van de categorie F, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder niet meegerekend;
+   - 1) motorrijtuigen, niet zijnde motorrijtuigen van de categorie F, die zijn ingericht voor het vervoer van meer dan acht personen, de bestuurder niet meegerekend;
 
-- 2). motorrijtuigen, genoemd in onderdeel d, onder 1, die een aanhangwagen of oplegger voortbewegen, waarvan de toegestane maximale massa hooguit 750 kilogram bedraagt;
+   - 2) motorrijtuigen, genoemd in onderdeel d, onder 1, die een aanhangwagen of oplegger voortbewegen, waarvan de toegestane maximale massa hooguit 750 kilogram bedraagt;
 
 - e. rijbewijscategorie E motorrijtuigen van de categorie B, C of D, niet zijnde motorrijtuigen van de categorie F, voor het besturen waarvan de bestuurder in het bezit is van een rijbewijs, met een andere aanhangwagen of oplegger dan op grond van dat rijbewijs mag worden voortbewogen;
 
@@ -437,7 +409,7 @@ Een defensievoertuig waarvoor nog geen militaire rijbewijscategorie is vastgeste
 
 1. Op het theorie-examen en het rijexamen zijn de [artikelen 61 tot en met 64](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=61), [67c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=67c), [67d, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=67d), [70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=71), [72](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=72), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=73), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=74), [75](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=75), [76](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=76) en [77 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=77) en de daarop berustende bepalingen van overeenkomstige toepassing, met dien verstande dat in afwijking van;
 
-- a. [artikel 73, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=73) de lengte van het motorrijtuig ten minste 7,30 meter, de wielbasis ten minste 4,05 meter, de toegestane maximum massa ten minste 9.750 kg, de minimale belading ten minste 2.000 kg bedraagt, en het motorrijtuig kan zijn uitgerust met een controleapparaat als bedoeld in [Verordening 3821/85](31985R3821) EEG;
+- a. [artikel 73, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=73) de lengte van het motorrijtuig ten minste 7,30 meter, de wielbasis ten minste 4,05 meter, de toegestane maximum massa ten minste 9.750 kg, de minimale belading ten minste 2.000 kg bedraagt, en het motorrijtuig kan zijn uitgerust met een controleapparaat als bedoeld in Verordening 3821/85 EEG;
 
 - b. [artikel 76, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=76) de in dat artikel in onderdeel a genoemde lengte van de aanhangwagen ten minste 7,80 meter bedraagt, en de in dat artikel genoemde aanhangwagen en oplegger niet hoeven te zijn voorzien van een gesloten opbouw of gesloten huif, maar van een zodanige voorziening dat de weggedeelten links naast, rechts naast en achter de aanhangwagen en de oplegger voor de bestuurder met behulp van buitenspiegels zichtbaar zijn.
 
@@ -549,9 +521,9 @@ De Commandant Opleidings- en Trainingscentrum Rijden en Bergen:
 
 ##### Artikel 43. Oude registratiebewijzen en militaire rijbewijzen
 
-1. Registratiebewijzen en militaire rijbewijzen en daarop geplaatste aantekeningen, die voor 1 oktober 2015 zijn uitgegeven op grond van de Verkeersregeling Defensie zoals die gold tot 1 oktober 2015 en die op 30 september 2015 geldig zijn, behouden hun geldigheid voor de duur waarvoor zij zijn afgegeven of zoveel korter als zij worden vervangen door een nieuw militair rijbewijs dan wel ongeldig worden verklaard.
+1. Registratiebewijzen en militaire rijbewijzen en daarop geplaatste aantekeningen, die voor 1 oktober 2015 zijn uitgegeven op grond van de Verkeersregeling Defensie zoals die gold tot 1 oktober 2015 en die op 30 september 2015 geldig zijn, behouden hun geldigheid voor de duur waarvoor zij zijn afgegeven of zoveel korter als zij worden vervangen door een nieuw militair rijbewijs dan wel ongeldig worden verklaard.
 
-2. Registratiebewijzen en militaire rijbewijzen en daarop geplaatste aantekeningen, die voor 1 januari 2020 zijn uitgegeven op grond van de [Verkeersregeling Defensie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039885)zoals die gold tot 1 januari 2020 en die op 31 december 2019 geldig zijn, behouden hun geldigheid voor de duur waarvoor zij zijn afgegeven of zoveel korter als zij worden vervangen door een nieuw militair rijbewijs dan wel ongeldig worden verklaard.
+2. Registratiebewijzen en militaire rijbewijzen en daarop geplaatste aantekeningen, die voor 1 januari 2020 zijn uitgegeven op grond van de [Verkeersregeling Defensie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039885)zoals die gold tot 1 januari 2020 en die op 31 december 2019 geldig zijn, behouden hun geldigheid voor de duur waarvoor zij zijn afgegeven of zoveel korter als zij worden vervangen door een nieuw militair rijbewijs dan wel ongeldig worden verklaard.
 
 ##### Artikel 44. Intrekking
 
@@ -559,24 +531,8 @@ De [Verkeersregeling Defensie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0039
 
 ##### Artikel 45. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2020.
+Deze regeling treedt in werking met ingang van 1 januari 2020.
 
 ##### Artikel 46. Citeertitel
 
 Deze regeling wordt aangehaald als: Verkeersregeling Defensie.
-
-## Bijlage 1
-
-### Model militair registratiebewijs
-
-## Bijlage 2
-
-### Model militair rijbewijs
-
-Model militair rijbewijs per 1 oktober 2014
-
-## Bijlage 3
-
-### Model aanvraagformulier militair rijbewijs
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 9 maart 2020, nr. 17846177, houdende beperking aan de openbaarheid van het archief van het Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944"
+citeertitel: "Besluit beperking openbaarheid archief Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944"
 identifier: "BWBR0043286"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-20"
-last_updated: "2020-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043286"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15373083"
-version_id: "26573312"
-internal_id: "C37707731"
-label_id: "15317744"
-dtd_version: "2.0"
-original_entry_into_force: "2020-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043286/2020-03-20/0"
-intitule_bron: "Stcrt.2020-15641"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-09"
-intitule_published: "2020-03-19"
-intitule_in_force: "2020-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-15641"
-original_signed_date: "2020-03-09"
-original_published_date: "2020-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-15641"
-entry_into_force_date: "2020-03-20"
-jci_1_3: "jci1.3:c:BWBR0043286&z=2020-03-20&g=2020-03-20"
-jci_1_0: "1.0:c:BWBR0043286&g=2020-03-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944"
-signed_date: "2020-03-09"
-entry_into_force: "2020-03-20"
+publicatiedatum: 2020-03-20
+laatste_update: 2020-03-20
+status: geldig
+toestand: 2020-03-20
+bron: "https://wetten.overheid.nl/BWBR0043286"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 9 maart 2020, nr. 17846177, houdende beperking aan de openbaarheid van het archief van het Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944
-
-Gelet op [artikel 15, lid 1, onder a van deArchiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10)en het advies van het Nationaal Archief d.d. 5 februari 2020, met kenmerk 19884148;
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van Archief Koninklijk Kabinet van Schilderijen Mauritshuis, 1816–1944:
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers: | Beperkt openbaar tot 1 januari: |
 | --- | --- |
@@ -222,5 +194,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt met de bijbehorende toelichting in de Staatscourant geplaatst en als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van het Koninklijk Kabinet van Schilderijen Mauritshuis, over de periode 1816–1944.

@@ -1,38 +1,16 @@
 ---
 title: "Circulaire printen akten van de burgerlijke stand"
 identifier: "BWBR0043228"
-country: "nl"
-rank: "circulaire"
-publication_date: "2020-02-28"
-last_updated: "2020-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043228"
+categorie: "Burgerlijk recht"
 soort: "circulaire"
-stam_id: "15352163"
-version_id: "26528942"
-internal_id: "C37656891"
-label_id: "15297174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043228/2020-02-28/0"
-intitule_bron: "Stcrt.2020-11616"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-17"
-intitule_published: "2020-02-28"
-intitule_in_force: "2020-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-11616"
-original_signed_date: "2020-02-17"
-original_published_date: "2020-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-11616"
-entry_into_force_date: "2020-02-28"
-jci_1_3: "jci1.3:c:BWBR0043228&z=2020-02-28&g=2020-02-28"
-jci_1_0: "1.0:c:BWBR0043228&g=2020-02-28"
-citeertitel_status: "redactioneel"
-signed_date: "2020-02-17"
-entry_into_force: "2020-02-28"
+publicatiedatum: 2020-02-28
+laatste_update: 2020-02-28
+status: geldig
+toestand: 2020-02-28
+bron: "https://wetten.overheid.nl/BWBR0043228"
+opgehaald: 2026-08-29
 ---
+
 # Circulaire printen akten van de burgerlijke stand
 
 Aan de ambtenaren van de burgerlijke stand
@@ -41,7 +19,7 @@ Aan de ambtenaren van de burgerlijke stand
 
 Op grond van de [Regeling papier en schrijfmiddelen voor de burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0006909); hierna: de Regeling (Stcrt. 1993, nr. 228) behoren akten van de burgerlijke stand op zodanige wijze te worden vervaardigd dat gewaarborgd is dat zij voldoen aan de in de Regeling gestelde eisen.
 
-Deze eisen houden in dat de akten tenminste 100 jaar houdbaar en goed leesbaar moeten zijn ([art.1 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006909&artikel=1)). De eisen gelden zowel voor de akten zelf als voor de dubbelen van de akten van de burgerlijke stand. Zij zijn opgenomen in de circulaire over automatisering van de burgerlijke stand van het ministerie van Justitie, van 11 december 1997 kenmerk nr. 668307/97/6.
+Deze eisen houden in dat de akten tenminste 100 jaar houdbaar en goed leesbaar moeten zijn ([art.1 van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006909&artikel=1)). De eisen gelden zowel voor de akten zelf als voor de dubbelen van de akten van de burgerlijke stand. Zij zijn opgenomen in de circulaire over automatisering van de burgerlijke stand van het ministerie van Justitie, van 11 december 1997 kenmerk nr. 668307/97/6.
 
 Om te voorkomen dat printers voor de vervaardiging van akten van de burgerlijke stand worden gebruikt, die niet voldoen aan de kwaliteitseisen, worden deze eisen opnieuw bekend gemaakt door middel van de onderhavige circulaire.
 
@@ -57,8 +35,14 @@ Als een printer op de lijst vermeld staat of, mocht de printer daar nog niet op 
 
 Daarbij moet tevens worden voldaan aan de volgende randvoorwaarden:
 
+- a. er mag uitsluitend het bij de printer behorende afdrukmateriaal worden gebruikt;
+
+- b. de met de printer vervaardigde akten dienen in chemisch neutrale mappen -derhalve geen mappen die van plastic zijn gemaakt- te worden bewaard en
+
+- c. de printer dient overeenkomstig de geldende voorschriften te worden onderhouden.
+
 Akten van de burgerlijke stand die al langs geautomatiseerde weg zijn vervaardigd en waarvan de termijn van houdbaarheid onzeker is, dienen te worden gereconstrueerd.
 
 De gemeenten waarvoor dat geldt, wordt verzocht hiertoe contact op te nemen met het COT, tel. 023-5319544 of via de website.
 
-De circulaire over de automatisering burgerlijke stand van 11 december 1997, kenmerk nr. 668307/97/6 vervalt en wordt vervangen door de onderhavige circulaire.
+De circulaire over de automatisering burgerlijke stand van 11 december 1997, kenmerk nr. 668307/97/6 vervalt en wordt vervangen door de onderhavige circulaire.

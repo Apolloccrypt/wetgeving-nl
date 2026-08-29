@@ -1,57 +1,33 @@
 ---
 title: "Bestuursreglement ACNL"
 identifier: "BWBR0043369"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-10"
-last_updated: "2020-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043369"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15398743"
-version_id: "26618362"
-internal_id: "C37767961"
-label_id: "15343014"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043369/2020-04-10/0"
-intitule_bron: "Stcrt.2020-20597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-01"
-intitule_published: "2020-04-09"
-intitule_in_force: "2020-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-20597"
-original_signed_date: "2020-04-01"
-original_published_date: "2020-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-20597"
-entry_into_force_date: "2020-04-10"
-jci_1_3: "jci1.3:c:BWBR0043369&z=2020-04-10&g=2020-04-10"
-jci_1_0: "1.0:c:BWBR0043369&g=2020-04-10"
-citeertitel_status: "officieel"
-signed_date: "2020-04-01"
-entry_into_force: "2020-04-10"
+publicatiedatum: 2020-04-10
+laatste_update: 2020-04-10
+status: geldig
+toestand: 2020-04-10
+bron: "https://wetten.overheid.nl/BWBR0043369"
+opgehaald: 2026-08-29
 ---
+
 # Bestuursreglement ACNL
-
-gelet op [artikel 8a.65 van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.65),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a). **ACNL:** het zelfstandig bestuursorgaan Airport Coordination Netherlands, bedoeld in [artikel 8a.64 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.64);
+- a) *ACNL:* het zelfstandig bestuursorgaan Airport Coordination Netherlands, bedoeld in [artikel 8a.64 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.64);
 
-- b). **De directie:** de directie van ACNL, bedoeld in [artikel 8a.66 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.66);
+- b) *De directie:* de directie van ACNL, bedoeld in [artikel 8a.66 Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.66);
 
-- c). **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- c) *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- d). **De Minister:** de Minister van Infrastructuur en Waterstaat;
+- d) *De Minister:* de Minister van Infrastructuur en Waterstaat;
 
-- e). **Slotverordening:** [Verordening nr. 95/93](31993R0095) van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14).
+- e) *Slotverordening:*
+ Verordening nr. 95/93 van de Raad van de Europese Gemeenschappen van 18 januari 1993 betreffende gemeenschappelijke regels voor de toewijzing van «slots» op communautaire luchthavens (PbEG L 14).
 
 ##### Artikel 2. Directie
 
@@ -65,21 +41,21 @@ In dit reglement wordt verstaan onder:
 
 1. De directie is belast met de dagelijkse leiding van ACNL, waaronder in ieder geval worden begrepen:
 
-- a.). benoemen en ontslaan van medewerkers van ACNL;
+- a.) benoemen en ontslaan van medewerkers van ACNL;
 
-- b.). het vaststellen van de beloning van de medewerkers;
+- b.) het vaststellen van de beloning van de medewerkers;
 
-- c.). het vaststellen en actueel houden van de interne organisatiestructuur, waaronder de functies, taken en bevoegdheden van de personeelsleden;
+- c.) het vaststellen en actueel houden van de interne organisatiestructuur, waaronder de functies, taken en bevoegdheden van de personeelsleden;
 
-- d.). de uitvoering van alle in de Slotverordening, de [Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en het [Besluit Slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035) opgedragen taken en van de overige aan ACNL op grond van wetgeving opgedragen taken;
+- d.) de uitvoering van alle in de Slotverordening, de [Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) en het [Besluit Slotallocatie](https://wetten.overheid.nl/jci1.3:c:BWBR0009035) opgedragen taken en van de overige aan ACNL op grond van wetgeving opgedragen taken;
 
-- e.). het vaststellen, publiceren en toepassen van beleidsregels ten behoeve van de onder d. bedoelde taken;
+- e.) het vaststellen, publiceren en toepassen van beleidsregels ten behoeve van de onder d. bedoelde taken;
 
-- f.). woordvoering naar buiten toe over taken en bevoegdheden;
+- f.) woordvoering naar buiten toe over taken en bevoegdheden;
 
-- g.). het vertegenwoordigen van ACNL binnen en buiten rechte;
+- g.) het vertegenwoordigen van ACNL binnen en buiten rechte;
 
-- h.). het zorg dragen voor de continuïteit van ACNL, de door haar uit te voeren wettelijke taken en de door haar te leveren diensten.
+- h.) het zorg dragen voor de continuïteit van ACNL, de door haar uit te voeren wettelijke taken en de door haar te leveren diensten.
 
 2. De directie is verantwoordelijk voor de naleving van alle relevante wet- en regelgeving, voor het beheersen van de risico’s verbonden aan de activiteiten van ACNL en voor de financiering van ACNL.
 
@@ -121,10 +97,8 @@ Leden van de directie worden, tenzij sprake is van opzet, grove schuld of ernsti
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt inwerking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2020.
+Dit besluit treedt inwerking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2020.
 
 ##### Artikel 11. Citeerartikel
 
 Dit besluit kan worden aangehaald als ‘Bestuursreglement ACNL’.
-
-Dit besluit zal, na goedkeuring door de Minister van Infrastructuur en Waterstaat, in de Staatscourant worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Financiën, van 6 februari 2020, nr. 23665, tot instelling van de Werkgroep Toolbox Beleidsevaluatie (Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie)"
+citeertitel: "Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie"
 identifier: "BWBR0043212"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-02-26"
-last_updated: "2020-02-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043212"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15350033"
-version_id: "26525872"
-internal_id: "C37653571"
-label_id: "15295164"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043212/2020-02-26/0"
-intitule_bron: "Stcrt.2020-10941"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-06"
-intitule_published: "2020-02-25"
-intitule_in_force: "2020-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-10941"
-original_signed_date: "2020-02-06"
-original_published_date: "2020-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-10941"
-entry_into_force_date: "2020-02-26"
-jci_1_3: "jci1.3:c:BWBR0043212&z=2020-02-26&g=2020-02-26"
-jci_1_0: "1.0:c:BWBR0043212&g=2020-02-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie"
-signed_date: "2020-02-06"
-entry_into_force: "2020-02-26"
+publicatiedatum: 2020-02-26
+laatste_update: 2020-02-26
+status: geldig
+toestand: 2020-02-26
+bron: "https://wetten.overheid.nl/BWBR0043212"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Financiën, van 6 februari 2020, nr. 23665, tot instelling van de Werkgroep Toolbox Beleidsevaluatie (Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Financiën;
+- a. *minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26).
 
 ##### Artikel 2. Instelling en taak
 
@@ -64,27 +38,27 @@ In dit besluit wordt verstaan onder:
 
 3. Tot eerste leden van de werkgroep worden benoemd:
 
-- –. Lisette Swart, Centraal Planbureau
+- – Lisette Swart, Centraal Planbureau
 
-- –. Olav-Jan van Gerwen, Planbureau voor de Leefomgeving
+- – Olav-Jan van Gerwen, Planbureau voor de Leefomgeving
 
-- –. Benedikt Goderis, Sociaal Cultureel Planbureau
+- – Benedikt Goderis, Sociaal Cultureel Planbureau
 
-- –. Nynke de Witte, Ministerie van Financiën
+- – Nynke de Witte, Ministerie van Financiën
 
-- –. Jedid-Jah Jonker, Algemene Rekenkamer
+- – Jedid-Jah Jonker, Algemene Rekenkamer
 
-- –. Wendy van Asbeek, Buitenlandse Zaken
+- – Wendy van Asbeek, Buitenlandse Zaken
 
-- –. Carl Koopmans, SEO Economisch Onderzoek (extern)
+- – Carl Koopmans, SEO Economisch Onderzoek (extern)
 
-- –. Valerie Pattyn, Universiteit Leiden (extern)
+- – Valerie Pattyn, Universiteit Leiden (extern)
 
 4. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
 5. De werkgroep kan besluiten externe leden uit te nodigen om deel te nemen aan de werkgroep.
 
-6. De werkgroep wordt ingesteld per 15 januari 2020.
+6. De werkgroep wordt ingesteld per 15 januari 2020.
 
 7. De werkgroep wordt opgeheven twee weken nadat de toolbox zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26) aan de minister is aangeboden.
 
@@ -106,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 2. De externe leden ontvangen een vergoeding. De vergoeding voor de externe leden is gebaseerd op salarisschaal 18, hoogste trede, van paragraaf 6.3 van de CAO Rijk en een arbeidsduurfactor van 0,10.
 
-4. De vergoeding loopt tot oplevering van de Toolbox met een maximum van zes maanden wat vanaf 15 juli 2020, na wederzijds goedvinden door het externe lid en de minister, kan worden verlengd.
+4. De vergoeding loopt tot oplevering van de Toolbox met een maximum van zes maanden wat vanaf 15 juli 2020, na wederzijds goedvinden door het externe lid en de minister, kan worden verlengd.
 
 ##### Artikel 6. Openbaarmaking
 
@@ -114,10 +88,8 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 
 ##### Artikel 7. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 januari 2020.
 
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,58 +1,34 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 25 november 2019 nr. 2710533 betreffende de wetenschappelijke onafhankelijkheid van het Wetenschappelijk Onderzoek- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid (Regeling wetenschappelijke onafhankelijkheid WODC)"
+citeertitel: "Regeling wetenschappelijke onafhankelijkheid WODC"
 identifier: "BWBR0042833"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-03"
-last_updated: "2019-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042833"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15260323"
-version_id: "26284142"
-internal_id: "C37356131"
-label_id: "15206574"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042833/2019-12-03/0"
-intitule_bron: "Stcrt.2019-65402"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-25"
-intitule_published: "2019-12-02"
-intitule_in_force: "2019-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-65402"
-original_signed_date: "2019-11-25"
-original_published_date: "2019-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-65402"
-entry_into_force_date: "2019-12-03"
-jci_1_3: "jci1.3:c:BWBR0042833&z=2019-12-03&g=2019-12-03"
-jci_1_0: "1.0:c:BWBR0042833&g=2019-12-03"
-citeertitel_status: "officieel"
-short_title: "Regeling wetenschappelijke onafhankelijkheid WODC"
-signed_date: "2019-11-25"
-entry_into_force: "2019-12-03"
+publicatiedatum: 2019-12-03
+laatste_update: 2019-12-03
+status: geldig
+toestand: 2019-12-03
+bron: "https://wetten.overheid.nl/BWBR0042833"
+opgehaald: 2026-08-29
 ---
-# Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 25 november 2019 nr. 2710533 betreffende de wetenschappelijke onafhankelijkheid van het Wetenschappelijk Onderzoek- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid (Regeling wetenschappelijke onafhankelijkheid WODC)
 
-Besluiten:
+# Regeling van de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming van 25 november 2019 nr. 2710533 betreffende de wetenschappelijke onafhankelijkheid van het Wetenschappelijk Onderzoek- en Documentatiecentrum van het Ministerie van Justitie en Veiligheid (Regeling wetenschappelijke onafhankelijkheid WODC)
 
 #### § 1. Inleidende bepalingen
 
 ##### Artikel 1. Begripsbepaling
 
-1. In deze regeling wordt verstaan onder **ministerie**, **bewindspersoon**, **bestuursdepartement** en **bestuursraad**: hetgeen daaronder wordt verstaan in [artikel 1 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=1).
+1. In deze regeling wordt verstaan onder *ministerie*, *bewindspersoon*, *bestuursdepartement* en *bestuursraad*: hetgeen daaronder wordt verstaan in [artikel 1 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=1).
 
 2. In deze regeling wordt verstaan onder:
 
-- **WODC:** het Wetenschappelijk Onderzoek- en Documentatiecentrum, bedoeld in [artikel 63h2 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63h2);
+- *WODC:* het Wetenschappelijk Onderzoek- en Documentatiecentrum, bedoeld in [artikel 63h2 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63h2);
 
-- **directeur:** de directeur van het WODC;
+- *directeur:* de directeur van het WODC;
 
-- **onderzoek:** een door of in opdracht van het WODC uit te voeren wetenschappelijk onderzoek of beleidsonderzoek, tenzij in deze regeling anders is bepaald;
+- *onderzoek:* een door of in opdracht van het WODC uit te voeren wetenschappelijk onderzoek of beleidsonderzoek, tenzij in deze regeling anders is bepaald;
 
-- **Raad van Advies:** de Raad van Advies, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0042833&paragraaf=3&artikel=13&z=2019-12-03&g=2019-12-03).
+- *Raad van Advies:* de Raad van Advies, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0042833&paragraaf=3&artikel=13&z=2019-12-03&g=2019-12-03).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -195,5 +171,3 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling wetenschappelijke onafhankelijkheid WODC.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,60 +1,32 @@
 ---
 title: "Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand en vaststelling Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand"
+citeertitel: "Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand"
 identifier: "BWBR0043226"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-02-29"
-last_updated: "2020-02-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043226"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15351963"
-version_id: "26528852"
-internal_id: "C37656811"
-label_id: "15297094"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043226/2020-02-29/0"
-intitule_bron: "Stcrt.2020-11596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-20"
-intitule_published: "2020-02-28"
-intitule_in_force: "2020-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-11596"
-original_signed_date: "2020-02-20"
-original_published_date: "2020-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-11596"
-entry_into_force_date: "2020-02-29"
-jci_1_3: "jci1.3:c:BWBR0043226&z=2020-02-29&g=2020-02-29"
-jci_1_0: "1.0:c:BWBR0043226&g=2020-02-29"
-citeertitel_status: "officieel"
-short_title: "Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand"
-signed_date: "2020-02-20"
-entry_into_force: "2020-02-29"
+publicatiedatum: 2020-02-29
+laatste_update: 2020-02-29
+status: geldig
+toestand: 2020-02-29
+bron: "https://wetten.overheid.nl/BWBR0043226"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand en vaststelling Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand
-
-gelet op [artikel 3:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5) jo. [artikel 8, eerste lid, van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8) jo. [artikel 11 van de Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=11),
-
-Besluit:
-
-Een Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand in te stellen voor de advisering over (de besluitvorming op) de aanvragen en de verlening van subsidie als bedoeld in de [Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033), meer in het bijzonder over de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=10) en [13 sub c. van de subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=13), alsmede de samenstelling en werkwijze van deze commissie conform onderstaand Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand vast te stellen;
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a. **de Raad:** het bestuur van de Raad voor Rechtsbijstand;
+- a. *de Raad:* het bestuur van de Raad voor Rechtsbijstand;
 
-- b. **de subsidieregeling:** de [Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033);
+- b. *de subsidieregeling:* de [Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033);
 
-- c. **de commissie:** de Adviescommissie subsidieregeling Stelselherziening rechtsbijstand;
+- c. *de commissie:* de Adviescommissie subsidieregeling Stelselherziening rechtsbijstand;
 
-- d. **de aanvraag:** de aanvraag tot verlening van subsidie als bedoeld in [artikel 1 van de Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=1);
+- d. *de aanvraag:* de aanvraag tot verlening van subsidie als bedoeld in [artikel 1 van de Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&artikel=1);
 
-- e. **aanvrager:** de indiener van de aanvraag van subsidie op grond van de [Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033);
+- e. *aanvrager:* de indiener van de aanvraag van subsidie op grond van de [Subsidieregeling Stelselherziening rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0043033);
 
 ##### Artikel 2. Taken en werkzaamheden
 

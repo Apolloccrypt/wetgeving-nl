@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit Stuurgroep Nationale Agenda Laadinfrastructuur"
 identifier: "BWBR0043332"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-03-19"
-last_updated: "2021-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043332"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15384323"
-version_id: "26593732"
-internal_id: "C37741461"
-label_id: "15328694"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043332/2021-03-19/0"
-intitule_bron: "Stcrt.2020-10099"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-30"
-intitule_published: "2020-03-31"
-intitule_in_force: "2020-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-10099"
-original_signed_date: "2020-03-30"
-original_published_date: "2020-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-10099"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043332&z=2021-03-19&g=2021-03-19"
-jci_1_0: "1.0:c:BWBR0043332&g=2021-03-19"
-citeertitel_status: "officieel"
-signed_date: "2020-03-30"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2021-03-19
+status: geldig
+toestand: 2021-03-19
+bron: "https://wetten.overheid.nl/BWBR0043332"
+opgehaald: 2026-08-29
 ---
+
 # Instellingsbesluit Stuurgroep Nationale Agenda Laadinfrastructuur
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. Instelling en taak
 
@@ -45,35 +19,35 @@ BESLUIT:
 
 2. De Stuurgroep heeft tot taak:
 
-- •. De minister te adviseren over de uitvoering van het beleid inzake de Nationale Agenda Laadinfrastructuur;
+- • De minister te adviseren over de uitvoering van het beleid inzake de Nationale Agenda Laadinfrastructuur;
 
-- •. Het bewaken van de voortgang van de uitvoering van de Nationale Agenda Laadinfrastructuur en indien nodig daarop bij te sturen;
+- • Het bewaken van de voortgang van de uitvoering van de Nationale Agenda Laadinfrastructuur en indien nodig daarop bij te sturen;
 
-- •. Het bewaken van de integrale samenhang tussen de activiteiten die worden ontplooid door de diverse organisaties in het kader van de uitvoering van de Nationale Agenda Laadinfrastructuur;
+- • Het bewaken van de integrale samenhang tussen de activiteiten die worden ontplooid door de diverse organisaties in het kader van de uitvoering van de Nationale Agenda Laadinfrastructuur;
 
-- •. Het zorgen voor verbinding tussen regeringsbeleid en uitvoering.
+- • Het zorgen voor verbinding tussen regeringsbeleid en uitvoering.
 
 ##### Artikel 2. Samenstelling
 
 1. De Stuurgroep is als volgt samengesteld:
 
-- •. vertegenwoordiger van het ministerie van Infrastructuur en Waterstaat;
+- • vertegenwoordiger van het ministerie van Infrastructuur en Waterstaat;
 
-- •. vertegenwoordiger van het ministerie van Economische Zaken en Klimaat;
+- • vertegenwoordiger van het ministerie van Economische Zaken en Klimaat;
 
-- •. vertegenwoordiger van het Interprovinciaal Overleg (IPO);
+- • vertegenwoordiger van het Interprovinciaal Overleg (IPO);
 
-- •. vertegenwoordiger van de Vereniging van Nederlandse Gemeenten (VNG);
+- • vertegenwoordiger van de Vereniging van Nederlandse Gemeenten (VNG);
 
-- •. vertegenwoordiger van de Samenwerkingsregio; er zijn zes Samenwerkingsregio’s;
+- • vertegenwoordiger van de Samenwerkingsregio; er zijn zes Samenwerkingsregio’s;
 
-- •. vertegenwoordiger van de Netbeheerders;
+- • vertegenwoordiger van de Netbeheerders;
 
-- •. vertegenwoordiger van het Nationaal Kennisplatform Laadinfrastructuur;
+- • vertegenwoordiger van het Nationaal Kennisplatform Laadinfrastructuur;
 
-- •. vertegenwoordiger van de Rijksdienst voor Ondernemend Nederland;
+- • vertegenwoordiger van de Rijksdienst voor Ondernemend Nederland;
 
-- •. voorzitter van het Formule E-Team.
+- • voorzitter van het Formule E-Team.
 
 2. Vanuit hun organisatie en daarmee gepaard gaande kennis handelen de Stuurgroep leden in het algemeen belang.
 
@@ -117,16 +91,14 @@ De minister doet een voorstel tot beëindiging van de werkzaamheden van de Stuur
 
 De Stuurgroep draagt zo spoedig mogelijk na beëindiging van zijn werkzaamheden de bescheiden betreffende die werkzaamheden over aan het archief van het ministerie van Infrastructuur en Waterstaat.
 
-##### Artikel 10. Wijziging [Instellingsbesluit Formule E-team](https://wetten.overheid.nl/jci1.3:c:BWBR0037382)
+##### Artikel 10. Wijziging Instellingsbesluit Formule E-team
 
-Wijzigt het Instellingsbesluit Formule E-Team.
+*Wijzigt het Instellingsbesluit Formule E-Team.*
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Stuurgroep Nationale Agenda Laadinfrastructuur.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

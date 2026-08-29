@@ -1,68 +1,40 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 13 december 2019, nr. 2772910, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Regeling tenuitvoerlegging strafrechtelijke beslissingen)"
+citeertitel: "Regeling tenuitvoerlegging strafrechtelijke beslissingen"
 identifier: "BWBR0042978"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042978"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "15294313"
-version_id: "26359152"
-internal_id: "C37460131"
-label_id: "15240434"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042978/2020-01-01/0"
-intitule_bron: "Stcrt.2019-69780"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-13"
-intitule_published: "2019-12-27"
-intitule_in_force: "2019-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69780"
-original_signed_date: "2019-12-13"
-original_published_date: "2019-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-69780"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042978&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042978&g=2020-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tenuitvoerlegging strafrechtelijke beslissingen"
-signed_date: "2019-12-13"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042978"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 13 december 2019, nr. 2772910, houdende regels over de tenuitvoerlegging van strafrechtelijke beslissingen (Regeling tenuitvoerlegging strafrechtelijke beslissingen)
-
-Gelet op de [artikelen 6:1:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5), en [6:1:25, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25) en de [artikelen 1:2, eerste en tweede lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=1:2), [2:23, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=2:23), [3:27, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:27), [4:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:3), en [4:15, eerste lid, van het Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:15);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit tenuitvoerlegging strafrechtelijke beslissingen in werking treedt.
 
 ### Hoofdstuk 1. Algemeen
 
-## Titel 1.1. Algemene bepalingen
+### Titel 1.1. Algemene bepalingen
 
 ##### Artikel 1:1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **besluit:** het [Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962);
+- – *besluit:* het [Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962);
 
-- –. **betalingsregeling:** verlening van uitstel van betaling of het toestaan van betaling in termijnen als bedoeld in [artikel 6:4:1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1);
+- – *betalingsregeling:* verlening van uitstel van betaling of het toestaan van betaling in termijnen als bedoeld in [artikel 6:4:1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1);
 
-- –. **last tot aanhouding:** last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde als bedoeld in [artikel 6:1:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
+- – *last tot aanhouding:* last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde als bedoeld in [artikel 6:1:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
 
-- –. **Minister:** de Minister voor Rechtsbescherming;
+- – *Minister:* de Minister voor Rechtsbescherming;
 
-- –. **ongerichte betaling:** betaling waarbij geen melding of niet op de door de Minister aangegeven wijze melding is gemaakt van de zaak waarop de betaling betrekking heeft;
+- – *ongerichte betaling:* betaling waarbij geen melding of niet op de door de Minister aangegeven wijze melding is gemaakt van de zaak waarop de betaling betrekking heeft;
 
-- –. **wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+- – *wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-## Titel 1.2. Persoonsgerichte tenuitvoerlegging
+### Titel 1.2. Persoonsgerichte tenuitvoerlegging
 
 ##### Artikel 1:2. Operationeel ketenregisseur
 
@@ -76,7 +48,7 @@ De persoonsgerichte invulling van de tenuitvoerlegging als bedoeld in [artikel 1
 
 - b. toezicht op de naleving van voorwaarden en taakstraffen zoveel mogelijk door dezelfde instelling of organisatie wordt gehouden.
 
-## Titel 1.3. Tenuitvoerleggingsvolgorde
+### Titel 1.3. Tenuitvoerleggingsvolgorde
 
 ##### Artikel 1:4. Tenuitvoerlegging van vrijheidsbenemende sancties
 
@@ -302,33 +274,33 @@ De Minister betrekt bij het vormen van een oordeel als bedoeld in [artikel 6:1:1
 
 ### Hoofdstuk 5. Wijzigingen van andere regelingen en besluiten
 
-##### Artikel 5:1. Wijziging van het [Aanwijzingsbesluit functionarissen en ambtenaren arrondissement Amsterdam](https://wetten.overheid.nl/jci1.3:c:BWBR0015631)
+##### Artikel 5:1. Wijziging van het Aanwijzingsbesluit functionarissen en ambtenaren arrondissement Amsterdam
 
-Wijzigt het Aanwijzingsbesluit functionarissen en ambtenaren arrondissement Amsterdam.
+*Wijzigt het Aanwijzingsbesluit functionarissen en ambtenaren arrondissement Amsterdam.*
 
-##### Artikel 5:2. Wijziging van de [Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0016804)
+##### Artikel 5:2. Wijziging van de Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken
 
-Wijzigt de Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken.
+*Wijzigt de Regeling aanwijzing ambtenaren van politie en functionarissen t.b.v. uitreiking en betekening van gerechtelijke stukken.*
 
-##### Artikel 5:3. Wijziging van de [Regeling aanwijzing vermogenstraceerders werkzaam bij het Openbaar Ministerie, de [...] als ambtenaren ex artikel 556, Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0032987)
+##### Artikel 5:3. Wijziging van de Regeling aanwijzing vermogenstraceerders werkzaam bij het Openbaar Ministerie, de [...] als ambtenaren ex artikel 556, Wetboek van Strafvordering
 
-Wijzigt de Regeling tot aanwijzing van vermogenstraceerders en bijzondere opsporingsambtenaren.
+*Wijzigt de Regeling tot aanwijzing van vermogenstraceerders en bijzondere opsporingsambtenaren.*
 
-##### Artikel 5:4. Wijziging van de [Regeling vaststelling administratiekosten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032029)
+##### Artikel 5:4. Wijziging van de Regeling vaststelling administratiekosten 2012
 
-Wijzigt de Regeling vaststelling administratiekosten 2012.
+*Wijzigt de Regeling vaststelling administratiekosten 2012.*
 
-##### Artikel 5:5. Wijziging van de [Regeling vaststelling invorderingskosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012653)
+##### Artikel 5:5. Wijziging van de Regeling vaststelling invorderingskosten
 
-Wijzigt de Regeling vaststelling invorderingskosten.
+*Wijzigt de Regeling vaststelling invorderingskosten.*
 
-##### Artikel 5:6. Wijziging van de [Regeling vrijwillige begeleiding jeugdreclassering](https://wetten.overheid.nl/jci1.3:c:BWBR0017895)
+##### Artikel 5:6. Wijziging van de Regeling vrijwillige begeleiding jeugdreclassering
 
-Wijzigt de Regeling vrijwillige begeleiding jeugdreclassering.
+*Wijzigt de Regeling vrijwillige begeleiding jeugdreclassering.*
 
-##### Artikel 5:7. Wijziging van de [regeling Verlening bevoegheden aan douane-ambtenaren i.v.m. tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0010697)
+##### Artikel 5:7. Wijziging van de regeling Verlening bevoegheden aan douane-ambtenaren i.v.m. tenuitvoerlegging strafvonnissen
 
-Wijzigt de Regeling executiebevoegdheden douane-ambtenaren bij strafvonnissen.
+*Wijzigt de Regeling executiebevoegdheden douane-ambtenaren bij strafvonnissen.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -339,5 +311,3 @@ Deze regeling treedt in werking op het tijdstip dat het [Besluit tenuitvoerleggi
 ##### Artikel 6:2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tenuitvoerlegging strafrechtelijke beslissingen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

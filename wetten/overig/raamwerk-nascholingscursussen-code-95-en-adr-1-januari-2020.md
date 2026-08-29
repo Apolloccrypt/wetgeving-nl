@@ -1,35 +1,16 @@
 ---
 title: "Raamwerk Nascholingscursussen Code 95 en ADR (1 januari 2020)"
 identifier: "BWBR0043036"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043036"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15311553"
-version_id: "26396912"
-internal_id: "C37507381"
-label_id: "15258244"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043036/2020-01-01/0"
-intitule_bron: "Stcrt.2019-70732"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-30"
-intitule_in_force: "2019-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-70732"
-original_published_date: "2019-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-70732"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0043036&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0043036&g=2020-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0043036"
+opgehaald: 2026-08-29
 ---
+
 # Raamwerk Nascholingscursussen Code 95 en ADR (1 januari 2020)
 
 ### Hoofdstuk 1. Het Raamwerk nascholingscursussen code 95 en ADR
@@ -42,7 +23,7 @@ Het is toegestaan om bij de nascholing gebruik te maken van e-learning en simula
 
 Tot slot is in dit Raamwerk een overzicht met minimumeisen per nascholingscursus opgenomen.
 
-Het CBR wijzigt het Raamwerk maximaal twee keer per jaar: op 1 januari en op 1 juli. Wijzigingen worden afgestemd met de opleidingsbranche en met werkgevers- en werknemersorganisaties. Wijzigingen worden gepubliceerd in de Staatscourant en actief naar alle erkende opleiders gecommuniceerd. Worden de minimumeisen in het Raamwerk aangepast en zijn de wijzigingen van invloed op de certificering van een nascholingscursus? Dan wordt dit expliciet vermeld en moeten opleidingsinstituten hun opleidingsplannen binnen zes maanden na de ingangsdatum hebben aangepast en ingediend.
+Het CBR wijzigt het Raamwerk maximaal twee keer per jaar: op 1 januari en op 1 juli. Wijzigingen worden afgestemd met de opleidingsbranche en met werkgevers- en werknemersorganisaties. Wijzigingen worden gepubliceerd in de Staatscourant en actief naar alle erkende opleiders gecommuniceerd. Worden de minimumeisen in het Raamwerk aangepast en zijn de wijzigingen van invloed op de certificering van een nascholingscursus? Dan wordt dit expliciet vermeld en moeten opleidingsinstituten hun opleidingsplannen binnen zes maanden na de ingangsdatum hebben aangepast en ingediend.
 
 Bezwaar op voorgenomen wijzigingen kunnen tot zes weken na publicatie kenbaar worden gemaakt via ccv.certificering@cbr.nl.
 
@@ -88,6 +69,16 @@ Aan het verkrijgen van een erkenning zijn algemene voorwaarden verbonden. Daarna
 
 ### Algemene voorwaarden
 
+- 1) Om als opleidingsinstituut erkend te worden en blijven voor het verzorgen van nascholing voor de code 95 moet het in Nederland staan ingeschreven bij de Kamer van Koophandel. Staat het opleidingsinstituut niet langer ingeschreven bij de Kamer van Koophandel? Dan trekt het CBR de erkenning per direct in.
+
+- 2) Verzorgt een opleidingsinstituut geen nascholingscursussen meer omdat alle certificeringen verlopen zijn, of kan het opleidingsinstituut niet langer voldoen aan de financiële verplichtingen bij het CBR? Dan trekt het CBR de erkenning per direct in.
+
+- 3) Worden er cursisten bevoordeeld of benadeeld? Dan trekt het CBR de erkenning per direct in.
+
+- 4) Het opleidingsinstituut zorgt ervoor dat personen die onder haar verantwoordelijkheid werken, denk bijvoorbeeld aan docenten, geen verbaal of fysiek geweld gebruiken of daarmee dreigen. Mocht er toch sprake zijn van gebruik of dreiging van fysiek of verbaal geweld, dan trekt het CBR de erkenning per direct in.
+
+- 5) Tot slot zorgt het opleidingsinstituut ervoor dat er voortdurend wordt voldaan aan alle eisen die gelden voor de erkenning en het CBR informeert over wijzigingen die daarop van invloed zijn. Wordt er niet langer aan de eisen voldaan? Dan trekt het CBR de erkenning per direct in.
+
 ### Erkenningseisen
 
 Naast deze algemene voorwaarden hanteert het CBR de volgende erkenningseisen.
@@ -96,25 +87,191 @@ Naast deze algemene voorwaarden hanteert het CBR de volgende erkenningseisen.
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 3.1.
+
+   - a er een juiste administratie wordt gevoerd.
+
+- 3.1.
+
+   - b er gebruik wordt gemaakt van geschikt materieel en materiaal.
+
+- 3.1.
+
+   - c de nascholingscursussen didactisch verantwoord worden aangeboden. Concreet houdt dit onder meer in dat:
+
+      - – een cursist maximaal 1 reguliere cursus per dag mag volgen;
+
+      - – een cursist maximaal 2 e-learning of 2 opgeknipte cursussen (of een combinatie daarvan) op één dag mag volgen of afronden in maximaal 9 cursusuren; en
+
+      - – een cursist op één cursusdag geen combinatie van een 7-cursusuur durende reguliere cursus samen met een e-learning of opgeknipte cursus volgt of afrondt.
+
+      - – wanneer een praktijktraining wordt opgeknipt, het dagdeel waarop wordt gereden bestaat uit 15 minuten introductie, 2,5 uur verplichte rijtijd en 15 minuten afronding.
+
 ### 3.2. Eisen locatie
 
 Het opleidingsinstituut zorgt ervoor dat:
+
+- 3.2.
+
+   - a de nascholingscursus in Nederland wordt gegeven.
+
+- 3.2.
+
+   - b de nascholingscursus op de in TOP internet aangemelde locatie wordt gegeven.
+
+- 3.2.
+
+   - c tijdens de nascholingscursus de cursuslocatie niet ergens anders voor wordt gebruikt.
+
+- 3.2.
+
+   - d de locatie geschikt en toereikend is voor de cursus en het aantal cursisten dat hieraan deelneemt. Denk bijvoorbeeld aan:
+
+      - – voldoende en goed meubilair;
+
+      - – voldoende en goede verlichting;
+
+      - – voldoende ventilatie;
+
+      - – voldoen aan wettelijke veiligheidsvoorschriften. Ook (de cabine van) een voertuig wordt als locatie aangemerkt.
+
+- 3.2.
+
+   - e Wordt er tijdens de nascholingscursus gereden? Dan geldt dat iedere zitplaats op kenteken moet staan, volgens de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798).
 
 ### 3.3. Eisen identificatie en gebruik presentielijst
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 3.3.
+
+   - a aan het begin van de cursus het wettige en geldige identiteitsbewijs van iedere cursist die is aangemeld in TOP internet wordt gecontroleerd. Een buitenlands rijbewijs wordt niet geaccepteerd als identiteitsbewijs.
+
+- 3.3.
+
+   - b aan het begin van een praktijktraining het rijbewijs van iedere cursist wordt gecontroleerd. Gecontroleerd wordt of de cursist in het bezit is van de geldige categorie waarmee gereden wordt. Bij een steekproef moet de cursist het rijbewijs kunnen tonen.
+
+- 3.3.
+
+   - c voor aanvang en na afloop van de cursus, de presentielijst uit TOP internet door de aanwezige cursisten wordt getekend.
+
+- 3.3.
+
+   - d de presentielijst uit TOP internet de hele cursus beschikbaar is en tijdens een steekproef direct getoond kan worden.
+
+- 3.3.
+
+   - e de presentielijst uit TOP internet voor de periode van ten minste 1 jaar na de cursus op een beveiligde manier wordt bewaard. Het CBR kan het opleidingsinstituut in deze periode vragen om de presentielijsten.
+
 ### 3.4. eisen cursus
 
 Het opleidingsinstituut zorgt ervoor dat:
+
+- 3.4.
+
+   - a de cursus wordt uitgevoerd zoals in het gecertificeerde opleidingsplan staat.
+
+- 3.4.
+
+   - b het opleidingsplan en bijbehorende hulpmiddelen en lesmateriaal op de cursuslocatie aanwezig zijn en kan worden ingekeken door de steekproefnemer. Ook wordt het opleidingsplan op verzoek van het CBR bij het CBR ingediend.
+
+- 3.4.
+
+   - c een nascholingscursus minimaal 7 uren duurt. De 7 uur is exclusief pauzes en examentijd. Per 7 uren mag maximaal 90 minuten vrije ruimte worden behandeld, als dit in het opleidingsplan is opgenomen. Vrije ruimte is een onderwerp/leerdoel dat niet onder het hoofdonderwerp van de cursus valt, maar wel relevant is voor beroepschauffeurs in het licht van de doelstellingen van de Richtlijn vakbekwaamheid;
+
+- 3.4.
+
+   - d bij de uitvoering van de cursus het aantal cursisten niet groter is dan het maximum aantal dat in de minimumeis is opgenomen. Afhankelijk van de gekozen werkvormen bij toepassingsleerdoelen en het gebruik van de vrije ruimte kan het maximum aantal cursisten worden bijgesteld. Deze afwijkingen/bijstellingen moeten in het opleidingsplan geborgd zijn;
+
+- 3.4.
+
+   - e bij een cursus van 7 uren die in dagdelen wordt gegeven het volgende in acht wordt genomen:
+
+      - – elke cursus kan en mag in maximaal twee dagdelen worden gegeven;
+
+      - – deze dagdelen dienen op verschillende dagen binnen een periode van 10 kalenderdagen te zijn afgerond;
+
+      - – een dagdeel heeft minimaal een omvang van 2,5 uur. Bij praktijktrainingen is dit 3 uur.
+
+- 3.4.
+
+   - f in een praktijktraining iedere cursist ten minste 2,5 uur zelf rijdt, in aanwezigheid van een docent die in het bezit is van de kwalificaties die in de minimumeisen van de betreffende praktijktraining zijn benoemd;
+
+- 3.4.
+
+   - g het CBR altijd zonder belemmering een steekproef kan uitvoeren. Kan een steekproef niet of niet volledig worden uitgevoerd door toedoen van het opleidingsinstituut? Dan zijn de kosten voor haar rekening.
+
+- 3.4.
+
+   - h de docent tijdens de cursus (telefonisch) bereikbaar is, rechtstreeks of via het opleidingsinstituut;
+
+- 3.4.
+
+   - i als er gebruik gemaakt wordt van e-learning, de betreffende eisen uit dit Raamwerk opgevolgd worden.
+
+- 3.4.
+
+   - j als er gebruik gemaakt wordt van een simulator, de betreffende eisen uit dit Raamwerk opgevolgd worden.
 
 ### 3.5. Eisen docenten
 
 Het opleidingsinstituut zorgt ervoor dat:
 
+- 3.5.
+
+   - a de door hem in te zetten docenten deskundig, integer en objectief zijn; Dat docenten ten minste:
+
+      - • beschikken over de kwalificaties vermeld in de betrokken minimumeisen van het raamwerk nascholingscursussen;
+
+      - • beschikken over een goede kennis van de ontwikkelingen op het vakgebied waar de cursus betrekking op heeft;
+
+      - • de voorschriften en opleidingseisen kennen m.b.t. de nascholing en kunnen deze toepassen in de cursus;
+
+      - • beschikken over didactische vaardigheden om de stof goed aan de cursisten over te kunnen brengen.
+
+- 3.5.
+
+   - b de docent tijdens elke cursusdag een wettelijk en geldig identiteitsbewijs kan tonen;
+
+- 3.5.
+
+   - c de docent tijdens elke cursusdag kan aantonen dat hij over de benodigde kwalificaties beschikt. Indien er gebruik wordt gemaakt van de vrije ruimte kunnen er, bijvoorbeeld bij praktijkoefeningen, aanvullende docentkwalificaties gevraagd worden;
+
+- 3.5.
+
+   - d de docent die voor de klas staat niet wordt aangemeld als cursist.
+
 ### 3.6. Eisen cursusdag
 
 Het opleidingsinstituut zorgt ervoor dat:
+
+- 3.6.
+
+   - a cursussen beginnen en eindigen op de tijd die in TOP internet is opgevoerd. Cursussen mogen plaatsvinden op: Op zondagen en landelijke feestdagen (met uitzondering van Goede vrijdag en 5 mei buiten de lustrumjaren om) mogen er geen nascholings- of ADR cursussen plaatsvinden.
+
+      - – maandag tot en met vrijdag tussen 7.00 uur en 22.00 uur en
+
+      - – zaterdag tussen 7.00 uur en 19.00 uur.
+
+- 3.6.
+
+   - b de cursus in het Nederlands wordt gegeven en de cursisten het Nederlands voldoende beheersen om de cursus te kunnen volgen;
+
+- 3.6.
+
+   - c de cursist tijdens de cursusdag niet onder invloed van alcohol of drugs is;
+
+- 3.6.
+
+   - d de cursist tijdens de cursusdag niet productief is ('On the job'-cursusdag is niet toegestaan.) Indien tijdens de cursusdag lading geladen of gelost moet worden, dient het te gaan om dezelfde lading die op dezelfde locatie, geladen en gelost wordt (of vice versa);
+
+- 3.6.
+
+   - e er tijdens de cursusdag maximaal 30 minuten aan een oefentoets besteed wordt;
+
+- 3.6.
+
+   - f indien een praktijktraining plaatsvindt op een besloten terrein, alle werkvormen uit het opleidingsplan hierop kunnen worden uitgevoerd. Om dit te toetsen voert het CBR een locatiekeuring uit. De kosten voor de locatiekeuring zijn voor rekening van het opleidingsinstituut, het tarief staat op de CBR website 5https://www.cbr.nl/nl/service/nl/beroepsexamen-reserveren/tarieven-beroepschauffeurs-en-code-95.htm. Alleen als de minimumeisen dit aangeven kan een besloten terrein ingezet worden.
 
 ### 3.7. Eisen administratie TOP internet
 
@@ -122,9 +279,55 @@ Het opleidingsinstituut zorgt ervoor dat:
 
 Voorafgaand aan de cursus:
 
-**Tijdens de cursus:**
+- 3.7.
 
-**Na afloop van de cursus:**
+   - a alle informatie die het CBR vraagt over de cursus, correct en volledig wordt ingevoerd in TOP internet. Het CBR vraagt om de volgende informatie:
+
+      - – welke cursus er wordt gegeven;
+
+      - – hoe laat de cursus begint en eindigt;
+
+      - – wat de locatie van de cursus is. Betreft het een praktijktraining? Dan is de start- en eindlocatie hetzelfde. Het opleidingsinstituut zorgt ervoor dat de cursisten het eerste en het laatste kwartier op deze locatie aanwezig zijn om de introductie en de afsluiting te doorlopen. Het eerste en het laatste kwartier tellen mee voor de 7 uur nascholing en moeten in het opleidingsplan vermeld zijn;
+
+      - – wie de docent is + het telefoonnummer waarop de docent te bereiken is (zie [artikel 3.4.h](https://wetten.overheid.nl/BWBR0043036));
+
+      - – wie er deelneemt aan de cursus.
+
+- 3.7.
+
+   - b cursussen, uiterlijk 2 dagen voor de cursusdag, worden aangemeld in TOP internet.
+
+- 3.7.
+
+   - c de gegevens van minimaal één cursist uiterlijk 2 dagen voor de cursusdag correct zijn ingevoerd in TOP internet. De gegevens van de overige cursisten dienen voor aanvang van de cursus correct geregistreerd te zijn in TOP internet. Na aanvang van de cursus heeft het opleidingsinstituut nog 30 minuten om onvoorziene wijzigingen door te voeren in TOP internet.
+
+*Tijdens de cursus:*
+
+- 3.7.
+
+   - d een niet verschenen cursist of een cursist zonder wettig en/of geldig identiteitsbewijs binnen 30 minuten na aanvang van de cursus in TOP internet als ‘niet verschenen’ wordt ingevoerd.
+
+- 3.7.
+
+   - e als een cursist de cursus vroegtijdig heeft verlaten, deze cursist binnen 30 minuten als ‘afgebroken’ in TOP internet wordt geregistreerd.
+
+- 3.7.
+
+   - f bij het vervallen van een reeds aangemelde cursusdag, de cursistgegevens correct en tijdig worden verwijderd uit TOP internet. Het verwijderen van de cursistgegevens kan tot het einde van de dag voor de cursusdag;
+
+- 3.7.
+
+   - g alleen als er sprake is van een storing van TOP internet, waarbij de oorzaak bij CBR ligt, cursisten worden afgemeld per e-mail (klantenservice.ccv@cbr.nl), onder vermelding van de reden: ‘niet verschenen’, dan wel ‘afgebroken’. De melding dient binnen 30 minuten na het ontstaan van de situatie te zijn doorgegeven;
+
+- 3.7.
+
+   - h tot maximaal 30 minuten na aanvang van de cursusdag wijzigingen worden doorgevoerd. Tot dit moment kan een actuele presentielijst uit TOP internet worden verkregen.
+
+*Na afloop van de cursus:*
+
+- 3.7.
+
+   - i uiterlijk 4 dagen na elke cursusdag alle cursisten, die de gehele cursusdag aanwezig waren, zijn geregistreerd als ‘verschenen’ in TOP internet. Tegen betaling van administratiekosten (en overleg van bewijs van aanwezigheid bij registratie achteraf) kunnen correcties worden doorgevoerd door onze administratie tot een periode van drie maanden vanaf de datum van de betreffende cursus.
 
 ### 3.8. Systeemonderhoud TOP internet
 
@@ -146,6 +349,10 @@ Als een opleidingsinstituut een overtreding begaat, dan legt het CBR volgens het
 
 Het sanctiemodel van het CBR kent twee fases:
 
+- – Fase 1: Het aantal strafpunten wordt bij elkaar opgeteld om een sanctie te bepalen. In deze fase is het aantal strafpunten dat nodig is voor een sanctie voor alle opleidingsinstituten gelijk.
+
+- – Fase 2: In fase 2 worden opleidingsinstituten ingedeeld in één van de drie categorieën klein, midden of groot. Deze fase is anders dan fase 1: het aantal strafpunten dat nodig is voor een bepaalde sanctie is afhankelijk van de categorie waarin het opleidingsinstituut is ingedeeld. Mocht het CBR een erkenning willen schorsen of intrekken, dan zal altijd het hele dossier van het opleidingsinstituut worden gewogen.
+
 ### Categoriebepaling opleidingsinstituut
 
 Het indelen van opleidingsinstituten in categorieën vindt plaats op basis van het aantal cursussen dat het opleidingsinstituut in de afgelopen 12 maanden heeft gegeven in verhouding tot andere opleidingsinstituten. Als een opleidingsinstituut in fase 2 van het sanctiemodel belandt, dan bepaalt het CBR de categorie waarin het valt. Deze bepaling wordt schriftelijk aan het opleidingsinstituut gecommuniceerd. Er bestaan drie categorieën: klein, midden en groot.
@@ -155,6 +362,16 @@ Het indelen van opleidingsinstituten in categorieën vindt plaats op basis van h
 Iedere overtreding levert één of meer strafpunten op. Het aantal strafpunten is afhankelijk van de zwaarte van de overtreding.
 
 In het onderstaande schema staat hoeveel strafpunten een overtreding oplevert. De overtredingen zijn gekoppeld aan de eisen die in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043036&hoofdstuk=3&z=2020-01-01&g=2020-01-01) van dit Raamwerk staan.
+
+| 1 strafpunt | 2 strafpunten | 3 strafpunten |
+| --- | --- | --- |
+| Artikel : | Artikel: | Artikel |
+| – 3.2.a en 3.2.c | – 3.2.b, 3.2.d en 3.2.e | – 3.1.a, 3.1.b en 3.1.c |
+| – 3.3.b, 3.3.d en 3.3.e | – 3.4.a, 3.4.d, 3.4.f en | – 3.3.a en 3.3.c |
+| – 3.4.b, 3.4.e, 3.4.i en 3.4.j | 3.4.h | – 3.4.c en 3.4.g |
+| – 3.5.b en 3.5.d | – 3.5.a en 3.5.c | – 3.6.a en 3.6.c en 3.6.d |
+| – 3.6.b, 3.6.e en 3.6.f | – 3.7.i | – 3.7.d en 3.7.e |
+| – 3.7.a, 3.7.b, 3.7.c, 3.7.f, 3.7.9 en en 3.7.h |  |  |
 
 ### 4.3. Sancties
 
@@ -234,9 +451,45 @@ De nascholingscursussen kunnen voor een deel met e-learning worden uitgevoerd. I
 
 Bij het uitvoeren van nascholingscursussen met e-learning gelden de volgende randvoorwaarden:
 
+- 6.1.
+
+   - a het e-learning gedeelte wordt uitgevoerd met een e-learning systeem dat door het CBR is gecertificeerd.
+
+- 6.1.
+
+   - b de cursus bestaat uit twee delen: deel 1 wordt altijd ingevuld met e-learning en deel 2 is altijd klassikaal/praktisch. De combinatie van het e-learning gedeelte en het klassikale/praktische gedeelte moet binnen een periode van 10 kalenderdagen zijn afgerond.
+
+- 6.1.
+
+   - c de cursist moet eerst het e-learning gedeelte inhoudelijk afronden en er de gestelde tijd aan besteden zoals is vastgelegd in het betreffende lesplan, voordat hij/zij aan het klassikale/praktische gedeelte van de cursus mag meedoen.
+
+- 6.1.
+
+   - d de omvang van het e-learning gedeelte is minimaal 2,5 uur en moet, voorafgaand aan het klassikale/praktische gedeelte, verspreid over 10 kalenderdagen worden uitgevoerd.
+
+- 6.1.
+
+   - e de omvang van het klassikale gedeelte is minimaal 2,5 uur, het praktische gedeelte minimaal 3 uur inclusief introductie en afsluiting, en wordt, na afronding van het e-learning gedeelte, altijd op één dag uitgevoerd. Het e-learning gedeelte en het klassikale/praktische gedeelte moeten allebei binnen 10 kalenderdagen zijn uitgevoerd.
+
+- 6.1.
+
+   - f een meerdaagse cursus wordt per dag uitgevoerd. Dit houdt in dat eerst de e-learning en het bijpassende klassikale/praktische gedeelte van dag 1 moet zijn afgerond, voordat gestart mag worden met de e-learning en het bijpassende klassikale/praktische gedeelte van dag 2, etc. Voor elke combinatie van e-learning + klassikale/praktische gedeelte die één dag vormt geldt een periode van 10 kalenderdagen.
+
+- 6.1.
+
+   - g de combinatie van het e-learning gedeelte en het klassikale/praktische gedeelte levert altijd het aantal uren op dat in de onderliggende minimumeis staat aangegeven, ook als de cursist meer tijd besteedt aan e-learning.
+
 ### 6.2. Het klassikale/praktische deel
 
 Bij het klassikale/praktische deel gelden de volgende randvoorwaarden. Het klassikale/praktische deel:
+
+- 6.2.
+
+   - a begint met een dekkende kennistoets over het bijbehorende e-learning gedeelte, met een realistische normering.
+
+- 6.2.
+
+   - b gaat na de kennistoets dieper in op één of meerdere leerdoelen uit de betreffende nascholingscursus.
 
 ### Systeemeisen e-learning
 
@@ -246,29 +499,189 @@ Om te borgen dat er gebruik gemaakt wordt van een geschikt e-learning systeem, z
 
 Het e-learning systeem bevat:
 
+- 6.3.
+
+   - a een borging dat de cursisten actief zijn tijdens het doorlopen van de e-learning module (bijvoorbeeld een vereiste van regelmatige activiteit op de computer).
+
+- 6.3.
+
+   - b leerstof die in gevarieerde vormen wordt aangeboden (o.a. tekst, beeld, audio, video, vragen, reflectie).
+
+- 6.3.
+
+   - c na elk hoofdstuk een ‘drempel’ waarin bestudeerde onderdelen tussentijds worden getoetst. De cursist kan pas door naar het volgende hoofdstuk, nadat hij/zij de tussentijdse toets met een voldoende heeft afgerond.
+
+- 6.3.
+
+   - d leerstof die een uitwerking is van het onderliggende opleidingsplan (inhoudelijk en in verdeling van tijd).
+
 ### 6.4. Inhoudelijk
 
 De e-learning bevat:
+
+- 6.4.
+
+   - a toegankelijke leerstof (tekst en beeld), die begrijpelijk is voor elke cursist.
+
+- 6.4.
+
+   - b leerstof die aansluit op het onderliggende opleidingsplan.
+
+- 6.4.
+
+   - c leerstof die sturend is en de cursist door de modules begeleidt.
+
+- 6.4.
+
+   - d toelichtende video’s en/of animaties (afwisselend gebruik van o.a. tekst, beeld, audio en video).
+
+- 6.4.
+
+   - e bij het fout beantwoorden van de tussentijdse toetsvragen geeft het e-learning systeem het juiste antwoord met daarbij een toelichting.
+
+- 6.4.
+
+   - f tussentijdse toetsen die met een voldoende moeten worden afgesloten om naar een volgend hoofdstuk door te kunnen gaan.
 
 ### 6.5. Ondersteunende functies voor de cursist
 
 Het e-learning systeem biedt:
 
+- 6.5.
+
+   - a een helpdeskfunctie. Vragen die een cursist stelt, worden op werkdagen binnen 24 uur beantwoord.
+
+- 6.5.
+
+   - b een duidelijke en gebruiksvriendelijke navigatiestructuur met eenvoudige instructies, waardoor de cursist probleemloos door de modules navigeert.
+
+- 6.5.
+
+   - c een overzicht van de doorlopen modules, zodat de cursist steeds inzicht heeft in wat er nog gedaan moet worden.
+
+- 6.5.
+
+   - d de mogelijkheid tot contact en interactie tussen de cursist en de begeleidende docent (op afstand), door middel van een leerling-volg-systeem. Hiermee kan de docent de voortgang van de cursist in de gaten houden. En de cursist kan bij problemen met het verwerken van de leerstof een beroep doen op ondersteuning van de docent.
+
+- 6.5.
+
+   - e De volgende zaken zijn voor de docent via het leerling-volg-systeem inzichtelijk:
+
+      - 1) bestede studie-uren (totaal en per onderdeel), per cursist en per cursistengroep.
+
+      - 2) beantwoorde vragen per cursist.
+
+      - 3) beantwoorde vragen per cursistengroep.
+
+      - 4) niet afgeronde modules.
+
 ### 6.6. Veiligheidsmaatregelen en borging
 
 Om juist gebruik te borgen, bevat het e-learning systeem de volgende functies:
+
+- 6.6.
+
+   - a 6.6.a iedere cursist heeft toegang tot het e-learning systeem via unieke inloggegevens (inlogcode of gebruikersnaam en wachtwoord). Deze inloggegevens worden alleen gebruikt door de cursist.
+
+- 6.6.
+
+   - b 6.6.b op 1 apparaat kan met 1 e-learning-account ingelogd worden (dus niet met meerdere accounts tegelijkertijd op 1 apparaat).
+
+- 6.6.
+
+   - c 6.6.c de toegang van een cursist tot het e-learning systeem is gekoppeld aan een erkende opleider en een gecertificeerde nascholingscursus.
+
+- 6.6.
+
+   - d 6.6.d in het e-learning systeem wordt de termijn vastgelegd waarbinnen elke module moet worden doorlopen. Na het verlopen van deze termijn, vervalt de toegang tot het e-learning systeem voor de cursist.
+
+- 6.6.
+
+   - e de volgende activiteiten van de cursist worden gelogd (zie ook [6.8.](https://wetten.overheid.nl/BWBR0043036) Rapportages):
+
+      - 1) inloggen en uitloggen.
+
+      - 2) inactiviteit van 15 minuten en langer (pauzestand).
 
 ### 6.7. Verantwoordelijkheden
 
 De eigenaar van het e-learning systeem zorgt ervoor dat:
 
+- 6.7.
+
+   - a a het CBR binnen twee werkdagen toegang krijgt tot het e-learning systeem, zodra daar om wordt verzocht.
+
+- 6.7.
+
+   - b het e-learning systeem 24 uur per dag operationeel is.
+
+- 6.7.
+
+   - c het e-learning systeem 99% van de tijd beschikbaar is.
+
+- 6.7.
+
+   - d er duidelijk en tijdig gecommuniceerd wordt als het systeem niet beschikbaar is wegens onderhoud.
+
+- 6.7.
+
+   - e systeemvernieuwingen geen negatieve invloed hebben op loggegevens en reeds doorlopen activiteiten van cursisten.
+
 De opleider, die e-learning inzet bij de nascholing, waarborgt dat:
+
+- 6.7.
+
+   - f er toestemming wordt verleend aan de systeemeigenaar voor het verstrekken van rapportages en specifieke gegevens over de nascholingscursussen en cursistengroepen, die door het CBR worden opgevraagd.
+
+- 6.7.
+
+   - g de e-learning ten behoeve van nascholing op een juiste manier wordt ingezet.
+
+- 6.7.
+
+   - h alleen de cursisten die het e-learning gedeelte hebben afgerond, worden toegelaten tot het klassikale/praktische deel van de nascholingscursus.
+
+- 6.7.
+
+   - i er tijdens het klassikale/praktische deel van de nascholingscursus per cursistgroep een rapportage beschikbaar is met de volgende gegevens:
+
+      - • naam opleidingsinstituut + CBR registratienummer.
+
+      - • naam eigenaar e-learning systeem.
+
+      - • naam/namen cursist(en) + kandidaatsnummer(s).
+
+      - • per cursist: urenverloop, inlogfrequentie, inlogtijden, (in)actieftijden en de voortgang van het bijbehorende e-learning gedeelte.
+
+- 6.7.
+
+   - j de rapportage van het urenverloop, de inlogfrequentie, inlogtijden, (in)actieftijden en voortgang ten minste 1 jaar na de klassikale/praktische cursusdag op een beveiligde manier wordt bewaard. Op verzoek van het CBR dient de opleider de rapportage in.
 
 ### 6.8. Rapportages
 
 Op verzoek van het CBR levert de eigenaar van het e-learning systeem de volgende rapportages aan:
 
 Per opleider, per cursuscode en per cursist:
+
+- 6.8.
+
+   - a een overzicht van afwijkingen met betrekking tot de 10-kalenderdagen termijn (de maximale termijn die is toegestaan om het e-learning gedeelte en het klassikale/praktische gedeelte af te ronden).
+
+- 6.8.
+
+   - b een overzicht van afwijkingen met betrekking tot de logtijden (afwijking ten opzichte van het aantal uren e-learning dat in het opleidingsplan is aangegeven).
+
+- 6.8.
+
+   - c een overzicht van opvallende inactieftijden (de tijden dat het systeem op rust/ pauze staat, omdat de cursist inactief is. Alle afwijkingen van 15 minuten of meer).
+
+- 6.8.
+
+   - d een overzicht van niet geheel doorlopen e-learning modules.
+
+- 6.8.
+
+   - e het CBR is bevoegd om te allen tijde de rapportages op te vragen bij de opleider en bij de systeemeigenaar.
 
 ### Hoofdstuk 7. Simulatie
 
@@ -277,6 +690,18 @@ Enkele praktijktrainingen kunnen voor een deel met een simulator worden uitgevoe
 ### 7.1. Randvoorwaarden simulatie
 
 Bij het uitvoeren van nascholingscursussen met simulatie gelden de volgende randvoorwaarden:
+
+- 7.1.
+
+   - a de leerdoelen op kennis en inzicht niveau uit de betreffende nascholingscursus worden klassikaal behandeld of middels e-learning.
+
+- 7.1.
+
+   - b de toepassingsleerdoelen uit de betreffende nascholingscursus worden uitgevoerd in een simulator die door het CBR is gecertificeerd.
+
+- 7.1.
+
+   - c het gesimuleerde voertuig is van de categorie C, CE, D of DE.
 
 ### Certificeren simulator
 

@@ -1,37 +1,17 @@
 ---
-title: "Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d"
+title: "Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d."
 identifier: "BWBR0042955"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042955"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15288843"
-version_id: "26343572"
-internal_id: "C37441531"
-label_id: "15234644"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042955/2020-01-01/0"
-intitule_bron: "Stcrt.2019-66653"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-20"
-intitule_in_force: "2019-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-66653"
-original_published_date: "2019-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-66653"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042955&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042955&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d."
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042955"
+opgehaald: 2026-08-29
 ---
-# Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d
+
+# Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d.
 
 ### Beschrijving
 
@@ -39,11 +19,37 @@ Deze richtlijn ziet op een aantal delicten uit [artikel 9 WVW1994](https://wette
 
 ### Basisdelicten
 
-**N.B.** naast de hiervoor genoemde strafeis zou ook een OBM kunnen worden geëist. Rijbewijsmaatregelen zijn in sommige gevallen beperkt tot de betrokken categorie(ën) op het rijbewijs, terwijl tijdens een OBM geen enkel motorrijtuig mag worden bestuurd.
+- – Motorrijtuig (doen) besturen tijdens een ontzegging van de rijbevoegdheid (lid 1).
+
+- – Motorrijtuig van de betrokken categorie(ën) (doen) besturen in geval van een (gedeeltelijke) ongeldig verklaring van het rijbewijs (lid 2, eerste volzin).
+
+- – Motorrijtuig van de betrokken categorie(ën) (doen) besturen in geval het rijbewijs op grond van [artikel 123b WVW1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=123b) van rechtswege ongeldig is geworden of indien een aantekening in de zin van artikel 123b derde lid WVW1994 is geplaatst (lid 2, tweede volzin).
+
+- – Motorrijtuig van de betrokken categorie(ën) (doen) besturen na vordering tot overgifte en/of invordering van het rijbewijs op grond van [artikel 130, tweede lid WVW1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=130) (lid 4).
+
+- – Motorrijtuig van de betrokken categorie(ën) (doen) besturen in geval het rijbewijs (gedeeltelijk) is geschorst (lid 5).
+
+- – Motorrijtuig van de betrokken categorie(ën) (doen) besturen na vordering tot overgifte en/of invordering van het rijbewijs op grond van [artikel 164 WVW1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164) (lid 7).
+
+| 1. BESTUURDERS MOTORRIJTUIGEN (niet zijnde vrachtauto’s en autobussen, zie 2.) |  |  |  |
+| --- | --- | --- | --- |
+| First offender | 1x recidive | Meermalen recidive |  |
+| GS 2 weken ov | 5j | GS 3 weken ov | GS 4-6 weken ov |
+|  |  |  |  |
+|  | 2j | GS 4 weken ov |  |
+
+| 2. BESTUURDERS VRACHTAUTO’S EN AUTOBUSSEN |  |  |  |
+| --- | --- | --- | --- |
+| First offender | 1x recidive | Meermalen recidive |  |
+| GS 4 weken ov | 5j | GS 6 weken ov | GS 8-10 weken ov |
+|  |  |  |  |
+|  | 2j | GS 8 weken ov |  |
+
+*N.B.* naast de hiervoor genoemde strafeis zou ook een OBM kunnen worden geëist. Rijbewijsmaatregelen zijn in sommige gevallen beperkt tot de betrokken categorie(ën) op het rijbewijs, terwijl tijdens een OBM geen enkel motorrijtuig mag worden bestuurd.
 
 Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 OBM: ontzegging van de bevoegdheid om motorrijtuigen te besturen
 

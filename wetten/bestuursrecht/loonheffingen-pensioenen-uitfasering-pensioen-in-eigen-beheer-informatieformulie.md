@@ -1,53 +1,48 @@
 ---
 title: "Loonheffingen, pensioenen; uitfasering pensioen in eigen beheer, informatieformulier"
 identifier: "BWBR0043378"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-04-11"
-last_updated: "2017-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043378"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "15403193"
-version_id: "26626482"
-internal_id: "C37777321"
-label_id: "15347504"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043378/2020-04-11/0"
-intitule_bron: "Stcrt.2020-20858"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-31"
-intitule_published: "2020-04-10"
-intitule_in_force: "2020-04-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-20858"
-original_signed_date: "2020-03-31"
-original_published_date: "2020-04-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-20858"
-entry_into_force_date: "2020-04-11"
-jci_1_3: "jci1.3:c:BWBR0043378&z=2020-04-11&g=2020-04-11"
-jci_1_0: "1.0:c:BWBR0043378&g=2020-04-11"
-citeertitel_status: "redactioneel"
-signed_date: "2020-03-31"
-entry_into_force: "2020-04-11"
+publicatiedatum: 2020-04-11
+laatste_update: 2020-04-11
+status: geldig
+toestand: 2020-04-11
+bron: "https://wetten.overheid.nl/BWBR0043378"
+opgehaald: 2026-08-29
 ---
+
 # Loonheffingen, pensioenen; uitfasering pensioen in eigen beheer, informatieformulier
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*De Staatssecretaris van Financiën heeft het volgende besloten.*
 
-**Dit besluit actualiseert het besluit van 18 oktober 2018, nr. 2018-23862 over de algemene verlenging van de termijn voor het aanleveren van het informatieformulier bij fiscaal gefaciliteerd beëindigen van pensioen in eigen beheer. Het besluit is aangevuld voor situaties waarin het informatieformulier nog ontbreekt. Daarnaast zijn de voorwaarden waaronder herstel mogelijk is als de (gewezen) partner het informatieformulier ten onrechte niet heeft medeondertekend veralgemeniseerd.**
+*Dit besluit actualiseert het besluit van 18 oktober 2018, nr. 2018-23862 over de algemene verlenging van de termijn voor het aanleveren van het informatieformulier bij fiscaal gefaciliteerd beëindigen van pensioen in eigen beheer. Het besluit is aangevuld voor situaties waarin het informatieformulier nog ontbreekt. Daarnaast zijn de voorwaarden waaronder herstel mogelijk is als de (gewezen) partner het informatieformulier ten onrechte niet heeft medeondertekend veralgemeniseerd.*
 
 ### 1. Inleiding
 
-De [Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0039380) maakt het mogelijk dat een pensioen in eigen beheer fiscaal gefaciliteerd wordt beëindigd. Voor deze fiscaal gefaciliteerde beëindiging is onder meer vereist dat tijdig een juist en volledig ingevuld informatieformulier naar de Belastingdienst wordt gestuurd. In de praktijk is gebleken dat hieraan in een aantal gevallen niet is voldaan. Dit besluit voorziet, met terugwerkende kracht tot en met 1 april 2017, in een verlenging van de termijn voor het aanleveren van het juist en volledig ingevulde informatieformulier bij het afkopen van een pensioen in eigen beheer of het omzetten hiervan in een aanspraak ingevolge een oudedagsverplichting (hierna fiscaal gefaciliteerd beëindigen PEB). Ook bevat dit besluit een herstelmogelijkheid voor als de (gewezen) partner het informatieformulier niet heeft medeondertekend. Het [besluit van 18 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041490), nr. 2018-23862 is geactualiseerd, daarbij is een situaties toegevoegd waarin alsnog een informatieformulier kan worden ingeleverd. Tevens zijn de in onderdeel 3.2 genoemde voorwaarden waaronder een herstel mogelijk is voor een ingediend informatieformulier geherformuleerd.
+De [Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0039380) maakt het mogelijk dat een pensioen in eigen beheer fiscaal gefaciliteerd wordt beëindigd. Voor deze fiscaal gefaciliteerde beëindiging is onder meer vereist dat tijdig een juist en volledig ingevuld informatieformulier naar de Belastingdienst wordt gestuurd. In de praktijk is gebleken dat hieraan in een aantal gevallen niet is voldaan. Dit besluit voorziet, met terugwerkende kracht tot en met 1 april 2017, in een verlenging van de termijn voor het aanleveren van het juist en volledig ingevulde informatieformulier bij het afkopen van een pensioen in eigen beheer of het omzetten hiervan in een aanspraak ingevolge een oudedagsverplichting (hierna fiscaal gefaciliteerd beëindigen PEB). Ook bevat dit besluit een herstelmogelijkheid voor als de (gewezen) partner het informatieformulier niet heeft medeondertekend. Het [besluit van 18 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041490), nr. 2018-23862 is geactualiseerd, daarbij is een situaties toegevoegd waarin alsnog een informatieformulier kan worden ingeleverd. Tevens zijn de in onderdeel [3.2](https://wetten.overheid.nl/BWBR0043378) genoemde voorwaarden waaronder een herstel mogelijk is voor een ingediend informatieformulier geherformuleerd.
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
-### 2. [Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0039380)
+- *AWR:*
+ [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
 
-De [Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0039380) maakte het tot en met 31 december 2019 mogelijk om het PEB af te kopen of om te zetten in een ODV. Bij een dergelijke afkoop of omzetting kan het PEB fiscaal geruisloos worden prijsgegeven voor zover de waarde in het economische verkeer van die aanspraak op het moment van prijsgeven hoger is dan de fiscale balanswaarde van de tegenover die aanspraak staande pensioenverplichting bij het eigenbeheerlichaam. Tegelijkertijd moet het PEB tot het bedrag van die fiscale balanswaarde volledig worden afgekocht of worden omgezet in een ODV. Hierbij is geen revisierente verschuldigd. Bij afkoop van het PEB geldt op basis van [artikel 38o van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38o) verder een korting op het bedrag dat tot het loon uit vroegere dienstbetrekking behoort (afkoopkorting).
+- *dga:* directeur-grootaandeelhouder als bedoeld in [artikel 19a, tweede lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), zoals dat artikel luidde op 31 december 2016
+
+- *ODV:* aanspraak ingevolge een oudedagsverplichting als bedoeld in de [artikelen 38n](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38n) en [38p Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38p)
+
+- *partner:* echtgenoot, geregistreerde partner of partner in de zin van de pensioenovereenkomst
+
+- *PEB:* pensioen in eigen beheer, zijnde de bij een eigenbeheerlichaam als bedoeld in [artikel 19a, eerste lid, onderdeel d of e, en tweede lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), zoals dat artikel luidde op 31 december 2016, verzekerde pensioenaanspraak
+
+- *Wet LB:*
+ [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+
+- *UBLB:*
+ [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489)
+
+### 2. Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen
+
+De [Wet uitfasering pensioen in eigen beheer en overige fiscale pensioenmaatregelen](https://wetten.overheid.nl/jci1.3:c:BWBR0039380) maakte het tot en met 31 december 2019 mogelijk om het PEB af te kopen of om te zetten in een ODV. Bij een dergelijke afkoop of omzetting kan het PEB fiscaal geruisloos worden prijsgegeven voor zover de waarde in het economische verkeer van die aanspraak op het moment van prijsgeven hoger is dan de fiscale balanswaarde van de tegenover die aanspraak staande pensioenverplichting bij het eigenbeheerlichaam. Tegelijkertijd moet het PEB tot het bedrag van die fiscale balanswaarde volledig worden afgekocht of worden omgezet in een ODV. Hierbij is geen revisierente verschuldigd. Bij afkoop van het PEB geldt op basis van [artikel 38o van de Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38o) verder een korting op het bedrag dat tot het loon uit vroegere dienstbetrekking behoort (afkoopkorting).
 
 Om gebruik te kunnen maken van deze fiscale facilitering moet de dga een informatieformulier invullen, ondertekenen en tijdig aanleveren bij de Belastingdienst. Dit formulier moet binnen één maand na het afkopen of omzetten bij de Belastingdienst binnen zijn (zie [artikel 38n, vijfde lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38n) en [artikel 12c, tweede lid, UBLB](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=12c)).
 
@@ -63,20 +58,26 @@ In de praktijk komt het regelmatig voor dat de dga er niet in slaagt het informa
 
 Ik keur met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) onder twee voorwaarden in de volgende twee situaties goed dat een informatieformulier alsnog als tijdig wordt aangemerkt.
 
-**Voorwaarden:**
+- – Een te laat ingediend informatieformulier dat binnen een jaar na de afkoop of de omzetting van het PEB bij de Belastingdienst is of wordt aangeleverd, wordt in afwijking in zoverre van [artikel 12c, tweede lid, UBLB](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=12c), als tijdig aangemerkt.
+
+- – Indien de inspecteur constateert dat nog geen informatieformulier is ingediend en gebruik is gemaakt van de gefaciliteerde beëindiging van het pensioen in eigen beheer stelt hij de dga in de gelegenheid dit te herstellen. De inspecteur geeft hierbij een termijn van ten minste zes weken om het informatieformulier juist en volledig ingevuld in te zenden.
+
+*Voorwaarden:*
+
+- 1. Aan de overige voorwaarden van de [artikelen 38n tot en met 38q Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38n) is volledig voldaan (dus alleen uitgezonderd de termijn voor het aanleveren van het informatieformulier).
+
+- 2. Bij afkoop van het PEB is tijdig en volledig voldaan aan de wettelijke verplichting tot het indienen van de aangifte loonheffingen en het afdragen van de ter zake van de afkoop verschuldigde loonheffingen.
 
 ### 3.2. Ontbreken medeondertekening (gewezen) partner
 
-Indien de inspecteur constateert dat op een aangeleverd informatieformulier de vereiste medeondertekening door een (gewezen) partner ontbreekt, stelt hij de dga in de gelegenheid dit te herstellen. De inspecteur geeft hierbij een termijn van ten minste zes weken om de ontbrekende medeondertekening alsnog op te nemen en het formulier, voor zover nodig, aan te vullen met de gegevens van de (gewezen) partner. Deze herstelmogelijkheid geldt ook voor informatieformulieren die met gebruik van de in onderdeel 3.1 beschreven goedkeuringen zijn of worden aangeleverd. Het aangevulde en medeondertekende formulier treedt met terugwerkende kracht in de plaats van het eerder aangeleverde informatieformulier.
+Indien de inspecteur constateert dat op een aangeleverd informatieformulier de vereiste medeondertekening door een (gewezen) partner ontbreekt, stelt hij de dga in de gelegenheid dit te herstellen. De inspecteur geeft hierbij een termijn van ten minste zes weken om de ontbrekende medeondertekening alsnog op te nemen en het formulier, voor zover nodig, aan te vullen met de gegevens van de (gewezen) partner. Deze herstelmogelijkheid geldt ook voor informatieformulieren die met gebruik van de in onderdeel [3.1](https://wetten.overheid.nl/BWBR0043378) beschreven goedkeuringen zijn of worden aangeleverd. Het aangevulde en medeondertekende formulier treedt met terugwerkende kracht in de plaats van het eerder aangeleverde informatieformulier.
 
 Uiteraard is ook hier vereist dat aan de overige voorwaarden van de [artikelen 38n tot en met 38q Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=38n) is voldaan. Tevens is, bij afkoop van het PEB, vereist dat over de materiële belastingschuld geen onduidelijkheid bestond op het moment van afkoop en belastingplichtige uit eigen beweging voldaan heeft aan de wettelijke verplichting tot het indienen van de aangifte loonheffingen en het afdragen van de ter zake van de afkoop verschuldigde loonheffingen.
 
 ### 4. ingetrokken regeling
 
-Het [besluit van 18 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041490), nr. 2018-23862, Stcrt. 2018, 61761, is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 18 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041490), nr. 2018-23862, Stcrt. 2018, 61761, is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2017.
-
-Dit besluit wordt in de Staatscourant geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2017.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 1 oktober 2019, houdende regels inzake de opleiding tot orthopedagoog-generalist"
+citeertitel: "Besluit opleidingseisen orthopedagoog-generalist"
 identifier: "BWBR0042645"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-12-01"
-last_updated: "2022-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042645"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15206533"
-version_id: "26064642"
-internal_id: "C37357131"
-label_id: "15153794"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042645/2022-12-01/0"
-intitule_bron: "Stb.2019-318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-01"
-intitule_published: "2019-10-17"
-intitule_in_force: "2019-11-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-318"
-original_signed_date: "2019-10-01"
-original_published_date: "2019-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-318"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042645&z=2022-12-01&g=2022-12-01"
-jci_1_0: "1.0:c:BWBR0042645&g=2022-12-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen orthopedagoog-generalist"
-signed_date: "2019-10-01"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2022-12-01
+status: geldig
+toestand: 2022-12-01
+bron: "https://wetten.overheid.nl/BWBR0042645"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 1 oktober 2019, houdende regels inzake de opleiding tot orthopedagoog-generalist
-
-Op de voordracht van Onze Minister voor Medische Zorg van 15 juli 2019, kenmerk 1543320-192213-WJZ;
-
-Gelet op de [artikelen 33e](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33e) en [41, vijfde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 24 juli 2019, no. W13.19.0232/III);
-
-Gezien het nader rapport van Onze Minister voor Medische Zorg van 26 september 2019, kenmerk 1582129-192213-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,9 +20,10 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **opleidingsinstelling:** rechtspersoon die een opleiding tot orthopedagoog-generalist verzorgt;
+- a. *opleidingsinstelling:* rechtspersoon die een opleiding tot orthopedagoog-generalist verzorgt;
 
-- b. **wet:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
+- b. *wet:*
+ [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
 ##### Artikel 2
 
@@ -226,7 +195,7 @@ De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7
 
 - a. een getuigschrift waaruit blijkt dat de betrokkene een doctoraalexamen of een masteropleiding pedagogische wetenschappen, psychologie of gezondheidswetenschappen aan een instelling voor wetenschappelijk onderwijs met goed gevolg heeft afgerond; en
 
-- b. een getuigschrift waaruit blijkt dat de betrokkene tussen 1 januari 2001 en 1 januari 2023 een opleiding tot orthopedagoog-generalist heeft afgerond aan de RINO Zuid, de Postdoctorale Beroepsopleiding Orthopedagogiek Randstad, de Rijksuniversiteit Groningen of het opleidingsinstituut Postmasteropleidingen binnen de Psychologie en de Orthopedagogiek te Groningen of een getuigschrift waaruit blijkt dat betrokkene een door de Nederlandse vereniging van pedagogen en onderwijskundigen vastgesteld opleidingstraject vóór 1 juli 2023 heeft afgerond.
+- b. een getuigschrift waaruit blijkt dat de betrokkene tussen 1 januari 2001 en 1 januari 2023 een opleiding tot orthopedagoog-generalist heeft afgerond aan de RINO Zuid, de Postdoctorale Beroepsopleiding Orthopedagogiek Randstad, de Rijksuniversiteit Groningen of het opleidingsinstituut Postmasteropleidingen binnen de Psychologie en de Orthopedagogiek te Groningen of een getuigschrift waaruit blijkt dat betrokkene een door de Nederlandse vereniging van pedagogen en onderwijskundigen vastgesteld opleidingstraject vóór 1 juli 2023 heeft afgerond.
 
 2. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2022-12-01&g=2022-12-01) wordt tot één jaar na inwerkingtreding van dit besluit tevens gelijkgesteld het gezamenlijk bezit van:
 
@@ -238,19 +207,19 @@ De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7
 
 ##### Artikel 11
 
-Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
+*Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.*
 
 ##### Artikel 12
 
-Wijzigt het Registratiebesluit BIG.
+*Wijzigt het Registratiebesluit BIG.*
 
 ##### Artikel 13
 
-Wijzigt het Besluit periodieke registratie Wet BIG.
+*Wijzigt het Besluit periodieke registratie Wet BIG.*
 
 ##### Artikel 14
 
-Wijzigt het Tuchtrechtbesluit BIG.
+*Wijzigt het Tuchtrechtbesluit BIG.*
 
 ##### Artikel 15
 
@@ -259,5 +228,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen orthopedagoog-generalist.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

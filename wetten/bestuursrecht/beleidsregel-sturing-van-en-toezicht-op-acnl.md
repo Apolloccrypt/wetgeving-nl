@@ -1,41 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat over de sturing van en het toezicht op Airport Coordination The Netherlands (ACNL) (Beleidsregel sturing van en toezicht op ACNL)"
+citeertitel: "Beleidsregel sturing van en toezicht op ACNL"
 identifier: "BWBR0043414"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-04-25"
-last_updated: "2020-04-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043414"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15417983"
-version_id: "26647472"
-internal_id: "C37798821"
-label_id: "15361944"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043414/2020-04-25/0"
-intitule_bron: "Stcrt.2020-22603"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-04-24"
-intitule_in_force: "2020-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-22603"
-original_published_date: "2020-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-22603"
-entry_into_force_date: "2020-04-25"
-jci_1_3: "jci1.3:c:BWBR0043414&z=2020-04-25&g=2020-04-25"
-jci_1_0: "1.0:c:BWBR0043414&g=2020-04-25"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel sturing van en toezicht op ACNL"
-entry_into_force: "2020-04-25"
+publicatiedatum: 2020-04-25
+laatste_update: 2020-04-25
+status: geldig
+toestand: 2020-04-25
+bron: "https://wetten.overheid.nl/BWBR0043414"
+opgehaald: 2026-08-29
 ---
+
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat over de sturing van en het toezicht op Airport Coordination The Netherlands (ACNL) (Beleidsregel sturing van en toezicht op ACNL)
-
-Gelet op de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) en [39 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), [artikel 8a.66, vierde lid, van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.66) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -43,13 +20,15 @@ Besluit:
 
 In deze Beleidsregel wordt verstaan onder:
 
-- **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
+- *wet:*
+ [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
-- **zbo:** Airport Coordination The Netherlands, bedoeld in [artikel 8a.64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.64).
+- *zbo:* Airport Coordination The Netherlands, bedoeld in [artikel 8a.64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.64).
 
 #### § 2. Directie van het zbo
 
@@ -125,7 +104,7 @@ De minister vormt zich, onder meer op basis van het jaarverslag, de door het zbo
 
 #### § 5. Overige onderwerpen
 
-##### Artikel 9. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 9. Evaluatie conform artikel 39 van de Kaderwet
 
 1. De minister voert de evaluatie, bedoeld in [artikel 39, eerste lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39), uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de minister van Financiën.
 
@@ -138,5 +117,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel sturing van en toezicht op 
 ##### Artikel 11. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

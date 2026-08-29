@@ -1,43 +1,17 @@
 ---
 title: "Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2021–2024"
 identifier: "BWBR0042780"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-11-20"
-last_updated: "2019-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042780"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15229973"
-version_id: "26219732"
-internal_id: "C37284091"
-label_id: "15176494"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042780/2019-11-20/0"
-intitule_bron: "Stcrt.2019-62771"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-11"
-intitule_published: "2019-11-19"
-intitule_in_force: "2019-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-62771"
-original_signed_date: "2019-11-11"
-original_published_date: "2019-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-62771"
-entry_into_force_date: "2019-11-20"
-jci_1_3: "jci1.3:c:BWBR0042780&z=2019-11-20&g=2019-11-20"
-jci_1_0: "1.0:c:BWBR0042780&g=2019-11-20"
-citeertitel_status: "officieel"
-signed_date: "2019-11-11"
-entry_into_force: "2019-11-20"
+publicatiedatum: 2019-11-20
+laatste_update: 2019-11-20
+status: geldig
+toestand: 2019-11-20
+bron: "https://wetten.overheid.nl/BWBR0042780"
+opgehaald: 2026-08-29
 ---
+
 # Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2021–2024
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,19 +19,19 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **festival:** reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd;
+- *festival:* reeks van onderling samenhangende activiteiten die gedurende een in de tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, inclusief het Caribisch deel daarvan;
+- *Nederland:* het Koninkrijk der Nederlanden, inclusief het Caribisch deel daarvan;
 
-- **liquiditeit:** vlottende activa gedeeld door vlottende passiva;
+- *liquiditeit:* vlottende activa gedeeld door vlottende passiva;
 
-- **programmeringskosten:** de kosten in de vorm van uitkoopsommen, honoraria en gages voor de professionele podiumkunstprogrammering;
+- *programmeringskosten:* de kosten in de vorm van uitkoopsommen, honoraria en gages voor de professionele podiumkunstprogrammering;
 
-- **solvabiliteit:** het eigen vermogen gedeeld door het vreemd vermogen.
+- *solvabiliteit:* het eigen vermogen gedeeld door het vreemd vermogen.
 
 ##### Artikel 1.2. Doel
 
@@ -157,11 +131,11 @@ C: niet honoreren.
 
 1. De adviescommissies dragen per landsdeel een beperkt aantal festivals voor die in aanmerking komen voor een organisatiebijdrage. Aanvragers kunnen alleen worden voorgedragen voor een aanvullende bijdrage uit het budget voor een organisatiebijdrage indien zij voldoen aan de volgende voorwaarden:
 
-- –. de adviescommissie heeft positief geadviseerd over de aanvraag;
+- – de adviescommissie heeft positief geadviseerd over de aanvraag;
 
-- –. de aanvrager kan aantonen dat lokale overheden jaarlijks gemiddeld een bijdrage doen van € 100.000;
+- – de aanvrager kan aantonen dat lokale overheden jaarlijks gemiddeld een bijdrage doen van € 100.000;
 
-- –. de aanvrager kan aantonen dat de totale lasten bij de laatste twee edities jaarlijks gemiddeld € 300.000 bedroegen.
+- – de aanvrager kan aantonen dat de totale lasten bij de laatste twee edities jaarlijks gemiddeld € 300.000 bedroegen.
 
 2. De adviescommissies doen hun voordracht op basis van de mate waarin een festival van betekenis is voor de nationale infrastructuur. De adviescommissies prioriteren de festivals die zij voordragen.
 
@@ -197,17 +171,17 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 - b. De aanvrager dient aan te tonen dat:
 
-- i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
+   - i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
 
-- ii. er een directiereglement dan wel reglementen voor bestuur en raad van toezicht zijn, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
+   - ii. er een directiereglement dan wel reglementen voor bestuur en raad van toezicht zijn, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
 
-- iii. de aanvrager heeft een procedure vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht;
+   - iii. de aanvrager heeft een procedure vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht;
 
 - c. De aanvrager dient aan te tonen dat de solvabiliteit en liquiditeit in 2019 minimaal hoger zijn dan de volgende waarden:
 
-- i. Solvabiliteit: 0,50;
+   - i. Solvabiliteit: 0,50;
 
-- ii. Liquiditeit: 1,00.
+   - ii. Liquiditeit: 1,00.
 
 6. Het bestuur kan besluiten om een aanvraag die niet voldoet aan de vereisten uit het voorgaande lid in behandeling te nemen als aanvrager slechts in zeer beperkte mate niet voldoet aan de vereisten. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit om de aanvraag te honoreren. Het besluit om voorwaarden te stellen, is afhankelijk van de mate waarin de aanvraag niet voldoet aan de instapeisen.
 
@@ -215,11 +189,11 @@ Een aanvraag voor meerjarige subsidie kan worden ingediend voor het organiseren 
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). artistieke positie;
+- a) artistieke positie;
 
-- b). publieksfunctie;
+- b) publieksfunctie;
 
-- c). inbedding.
+- c) inbedding.
 
 ##### Artikel 3.5. Subsidiehoogte
 
@@ -251,11 +225,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 2. De subsidieontvanger plaatst het logo of de naam van het Fonds Podiumkunsten op alle publiciteitsuitingen die betrekking hebben op de gesubsidieerde activiteiten en stuurt exemplaren van drukwerk dat betrekking heeft op de gesubsidieerde activiteiten aan het Fonds Podiumkunsten.
 
@@ -300,5 +274,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2021–2024.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

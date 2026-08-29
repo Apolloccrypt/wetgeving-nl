@@ -1,44 +1,17 @@
 ---
 title: "Gemeenschappelijke regeling Historisch Centrum Limburg 2020"
 identifier: "BWBR0042878"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-31"
-last_updated: "2019-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042878"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15272263"
-version_id: "26307572"
-internal_id: "C37394261"
-label_id: "15218684"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042878/2019-12-31/0"
-intitule_bron: "Stcrt.2019-67745"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-12"
-intitule_in_force: "2019-12-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-67745"
-original_published_date: "2019-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-67745"
-entry_into_force_date: "2019-12-31"
-jci_1_3: "jci1.3:c:BWBR0042878&z=2019-12-31&g=2019-12-31"
-jci_1_0: "1.0:c:BWBR0042878&g=2019-12-31"
-citeertitel_status: "officieel"
-entry_into_force: "2019-12-31"
+publicatiedatum: 2019-12-31
+laatste_update: 2019-12-31
+status: geldig
+toestand: 2019-12-31
+bron: "https://wetten.overheid.nl/BWBR0042878"
+opgehaald: 2026-08-29
 ---
+
 # Gemeenschappelijke regeling Historisch Centrum Limburg 2020
-
-Gelet op de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII);
-
-Overwegende dat het college van burgemeester en wethouders van de gemeente Heerlen heeft besloten toe te treden tot deze gemeenschappelijke regeling;
-
-Besluiten:
-
-De [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0039744) te vervangen door een nieuwe gemeenschappelijke regeling:
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -46,17 +19,17 @@ De [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://we
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *de Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **de gemeenten:** de gemeenten Heerlen en Maastricht
+- b. *de gemeenten:* de gemeenten Heerlen en Maastricht
 
-- c. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- c. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- d. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten;
+- d. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of in beheer bij de Minister en de gemeenten voor zover het betreft voorwerpen of bescheiden bij de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten;
 
-- e. **colleges B&W:** de colleges van burgemeester en wethouders van de gemeenten, en
+- e. *colleges B&W:* de colleges van burgemeester en wethouders van de gemeenten, en
 
-- f. **provincie:** de provincie Limburg
+- f. *provincie:* de provincie Limburg
 
 ### Hoofdstuk II. Historisch Centrum Limburg
 
@@ -278,7 +251,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 18
 
-1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de Minister en de raden van de gemeenten.
+1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de Minister en de raden van de gemeenten.
 
 2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=X&artikel=18a&z=2019-12-31&g=2019-12-31), bedoelde vaststelling, de Minister en de raden van de gemeenten een ontwerp aan voor de begroting met toelichting van Historisch Centrum Limburg en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
@@ -296,7 +269,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 2. Nadat deze is vastgesteld, zendt het algemeen bestuur de begroting aan de Minister, en de raden van de gemeenten die ter zake bij gedeputeerde staten van de provincie hun zienswijze naar voren kunnen brengen.
 
-3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
+3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
 
 ##### Artikel 19
 
@@ -312,15 +285,15 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ##### Artikel 21
 
-1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister en de raden van de gemeenten. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister en de raden van de gemeenten. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 2. Het dagelijks bestuur draagt er zorg voor dat medewerking wordt verleend aan door of namens de accountant(s) van de Minister en de gemeenten in te stellen onderzoeken naar de door de accountant, bedoeld in het eerste lid, verrichte (controle)werkzaamheden.
 
-3. Het dagelijks bestuur brengt jaarlijks aan de Minister en de raden van de gemeenten voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
+3. Het dagelijks bestuur brengt jaarlijks aan de Minister en de raden van de gemeenten voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
 
 4. Het algemeen bestuur stelt de jaarrekening vast in het jaar volgende op het jaar waarop deze betrekking heeft.
 
-5. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten van de provincie, de Minister, en de raden van de gemeenten.
+5. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten van de provincie, de Minister, en de raden van de gemeenten.
 
 6. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
@@ -432,9 +405,9 @@ Deze regeling kan worden opgeheven bij gezamenlijk eensluidend besluit van de Mi
 
 ##### Artikel 38
 
-1. Deze regeling treedt in werking met ingang van 31 december 2019.
+1. Deze regeling treedt in werking met ingang van 31 december 2019.
 
-2. Hetgeen in de [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0039744) was bepaald ten aanzien van het benoemen, schorsen en ontslaan van de directeur en het overige personeel blijft voor 31 december 2019 van overeenkomstige toepassing.
+2. Hetgeen in de [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0039744) was bepaald ten aanzien van het benoemen, schorsen en ontslaan van de directeur en het overige personeel blijft voor 31 december 2019 van overeenkomstige toepassing.
 
 3. Het college B&W van de gemeente Maastricht zendt de regeling aan gedeputeerde staten van de provincie.
 

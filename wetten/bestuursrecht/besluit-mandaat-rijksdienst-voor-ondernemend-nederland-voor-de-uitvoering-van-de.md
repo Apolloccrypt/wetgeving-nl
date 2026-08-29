@@ -1,54 +1,26 @@
 ---
 title: "Besluit mandaat Rijksdienst voor Ondernemend Nederland voor de uitvoering van de Wet veiligheidsregio’s en van de Wet tegemoetkoming schade bij rampen van 11 februari 2020, nr. 2804339"
+citeertitel: "Besluit mandaat Rijksdienst voor Ondernemend Nederland voor de uitvoering van de Wet veiligheidsregio’s en van de Wet tegemoetkoming schade bij rampen"
 identifier: "BWBR0043202"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-16"
-last_updated: "2022-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043202"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15347953"
-version_id: "26520532"
-internal_id: "C37648281"
-label_id: "15293124"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043202/2022-03-16/0"
-intitule_bron: "Stcrt.2020-10742"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-11"
-intitule_published: "2020-02-21"
-intitule_in_force: "2020-02-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-10742"
-original_signed_date: "2020-02-11"
-original_published_date: "2020-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-10742"
-entry_into_force_date: "2020-02-22"
-jci_1_3: "jci1.3:c:BWBR0043202&z=2022-03-16&g=2022-03-16"
-jci_1_0: "1.0:c:BWBR0043202&g=2022-03-16"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat Rijksdienst voor Ondernemend Nederland voor de uitvoering van de Wet veiligheidsregio’s en van de Wet tegemoetkoming schade bij rampen"
-signed_date: "2020-02-11"
-entry_into_force: "2020-02-22"
+publicatiedatum: 2020-02-22
+laatste_update: 2022-03-16
+status: geldig
+toestand: 2022-03-16
+bron: "https://wetten.overheid.nl/BWBR0043202"
+opgehaald: 2026-08-29
 ---
+
 # Besluit mandaat Rijksdienst voor Ondernemend Nederland voor de uitvoering van de Wet veiligheidsregio’s en van de Wet tegemoetkoming schade bij rampen van 11 februari 2020, nr. 2804339
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3); [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12),
-
-Gezien de instemming van de algemeen directeur van de Rijksdienst voor Ondernemend Nederland van 17 januari 2020 met kenmerk MD202004INSTHH.
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **Rijksdienst voor Ondernemend Nederland:** Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
+- – *Rijksdienst voor Ondernemend Nederland:* Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat.
 
-- −. **algemeen directeur:** de algemeen directeur van de Rijksdienst voor Ondernemend Nederland.
+- − *algemeen directeur:* de algemeen directeur van de Rijksdienst voor Ondernemend Nederland.
 
 ##### Artikel 2
 
@@ -115,5 +87,3 @@ Dit besluit wordt aangehaald als: Besluit mandaat Rijksdienst voor Ondernemend N
 ##### Artikel 8
 
 Het [Besluit mandaat Dienst Regelingen in verband met de uitvoering van de Wet veiligheidsregio’s en de Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0029076) wordt ingetrokken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

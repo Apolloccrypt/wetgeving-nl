@@ -1,51 +1,25 @@
 ---
 title: "Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes)"
 identifier: "BWBR0043538"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-04-16"
-last_updated: "2021-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043538"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15456913"
-version_id: "26714762"
-internal_id: "C37870431"
-label_id: "15400174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043538/2021-04-16/0"
-intitule_bron: "Stcrt.2020-26831"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-07"
-intitule_published: "2020-05-18"
-intitule_in_force: "2020-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-26831"
-original_signed_date: "2020-05-07"
-original_published_date: "2020-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-26831"
-entry_into_force_date: "2020-05-19"
-jci_1_3: "jci1.3:c:BWBR0043538&z=2021-04-16&g=2021-04-16"
-jci_1_0: "1.0:c:BWBR0043538&g=2021-04-16"
-citeertitel_status: "officieel"
-signed_date: "2020-05-07"
-entry_into_force: "2020-05-19"
+publicatiedatum: 2020-05-19
+laatste_update: 2021-04-16
+status: geldig
+toestand: 2021-04-16
+bron: "https://wetten.overheid.nl/BWBR0043538"
+opgehaald: 2026-08-29
 ---
+
 # Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes)
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
 
 ##### Artikel 2. Doel
 
@@ -105,7 +79,7 @@ Subsidie kan alleen worden aangevraagd indien de betrokken uitvoerenden professi
 
 2. Het bestuur bepaalt de hoogte van de bijdrage. De bijdrage is een tegemoetkoming in de investering van tijd, materialen en diensten van derden en kan gebruikt worden voor kosten die verband houden met de ontwikkeling van nieuw werk.
 
-3. Het subsidie bedraagt nooit meer dan € 7.500.
+3. Het subsidie bedraagt nooit meer dan € 7.500.
 
 ##### Artikel 8. Subsidieplafond
 
@@ -130,5 +104,3 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes).
-
-Deze regeling zal in de Staatscourant worden geplaatst.

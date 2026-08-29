@@ -1,55 +1,44 @@
 ---
 title: "Inkomstenbelasting, buitenlandse belastingplichtigen, pro-rata-aftrek persoonlijke aftrekposten en tegemoetkomingen als niet is voldaan aan de 90%-eis"
 identifier: "BWBR0042885"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2019-12-14"
-last_updated: "2017-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042885"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "15274183"
-version_id: "26313022"
-internal_id: "C37401151"
-label_id: "15220224"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042885/2019-12-14/0"
-intitule_bron: "Stcrt.2019-66192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-03"
-intitule_published: "2019-12-13"
-intitule_in_force: "2019-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-66192"
-original_signed_date: "2019-12-03"
-original_published_date: "2019-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-66192"
-entry_into_force_date: "2019-12-14"
-jci_1_3: "jci1.3:c:BWBR0042885&z=2019-12-14&g=2019-12-14"
-jci_1_0: "1.0:c:BWBR0042885&g=2019-12-14"
-citeertitel_status: "redactioneel"
-signed_date: "2019-12-03"
-entry_into_force: "2019-12-14"
+publicatiedatum: 2019-12-14
+laatste_update: 2019-12-14
+status: geldig
+toestand: 2019-12-14
+bron: "https://wetten.overheid.nl/BWBR0042885"
+opgehaald: 2026-08-29
 ---
+
 # Inkomstenbelasting, buitenlandse belastingplichtigen, pro-rata-aftrek persoonlijke aftrekposten en tegemoetkomingen als niet is voldaan aan de 90%-eis
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*De Staatssecretaris van Financiën heeft het volgende besloten.*
 
-**In dit besluit is beleid opgenomen over de gevolgen van het arrest van het Hof van Justitie van de Europese Unie van 9 februari 2017, ECLI:EU:C:2017:102. Dit besluit beschrijft de wijze waarop bij een niet kwalificerende buitenlandse belastingplichtige rekening moet worden gehouden met persoonlijke aftrekposten en tegemoetkomingen als de belastingplichtige in zijn woonland geen of onvoldoende inkomsten geniet om met zijn persoonlijke en gezinssituatie rekening te kunnen houden.**
+*In dit besluit is beleid opgenomen over de gevolgen van het arrest van het Hof van Justitie van de Europese Unie van 9 februari 2017, ECLI:EU:C:2017:102. Dit besluit beschrijft de wijze waarop bij een niet kwalificerende buitenlandse belastingplichtige rekening moet worden gehouden met persoonlijke aftrekposten en tegemoetkomingen als de belastingplichtige in zijn woonland geen of onvoldoende inkomsten geniet om met zijn persoonlijke en gezinssituatie rekening te kunnen houden.*
 
 ### 1. Inleiding
 
 ### 1.1. Begrippen en afkortingen
 
+- *Arrest HvJ EU:* Arrest van het HvJ EU, 9 februari 2017, ECLI:EU:C:2017:102
+
+- *EU/EER-staat:* Lidstaten van de Europese Unie en andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte
+
+- *HvJ EU:* Hof van Justitie van de Europese Unie
+
+- *Kwalificerende buitenlandse belastingplichtigen:* Belastingplichtigen in de zin van [artikel 7.8, zesde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8)
+
+- *Wet IB 2001:*
+ [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+
 ### 1.2. Achtergrond
 
 Uit het arrest HvJ EU volgt dat de wijze waarop Nederland bij de belastingheffing rekening houdt met de persoonlijke en gezinssituatie van buitenlandse belastingplichtigen onder bepaalde omstandigheden niet in overeenstemming is met het EU-recht.
 
-De belanghebbende in die zaak had over het jaar 2007 in zijn woonstaat Spanje geen belastbaar inkomen, terwijl hij in zijn werkstaten Nederland en Zwitserland respectievelijk 60 procent en 40 procent van zijn totale inkomen verwierf. Hij had verder – naar Nederlandse fiscale maatstaven bezien – negatieve belastbare inkomsten uit eigen woning1Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning verminderd met de op die voordelen drukkende aftrekbare kosten. in Spanje. Nederland is volgens het HvJ EU in die situatie op grond van het EU-recht verplicht om voor de negatieve belastbare inkomsten aftrek te verlenen naar de verhouding van het Nederlandse inkomen tot het totale inkomen.
+De belanghebbende in die zaak had over het jaar 2007 in zijn woonstaat Spanje geen belastbaar inkomen, terwijl hij in zijn werkstaten Nederland en Zwitserland respectievelijk 60 procent en 40 procent van zijn totale inkomen verwierf. Hij had verder – naar Nederlandse fiscale maatstaven bezien – negatieve belastbare inkomsten uit eigen woning1Belastbare inkomsten uit eigen woning zijn de voordelen uit eigen woning verminderd met de op die voordelen drukkende aftrekbare kosten. in Spanje. Nederland is volgens het HvJ EU in die situatie op grond van het EU-recht verplicht om voor de negatieve belastbare inkomsten aftrek te verlenen naar de verhouding van het Nederlandse inkomen tot het totale inkomen.
 
-De zaak is door de Hoge Raad voor verdere behandeling verwezen2HR 12 mei 2017, ECLI:NL:HR:2017:848. naar Gerechtshof Den Haag3Hof Den Haag 5 december 2017, ECLI:NL:GHDHA:2017:3582.. In een onderschrift4Toelichting nr. 2018-0000029258, d.d. 07-03-2018. bij de uitspraak van het Gerechtshof heb ik mijn overwegingen uiteengezet om niet tegen die uitspraak in cassatie te gaan. Wel heb ik in dat onderschrift aangegeven dat ik me op onderdelen niet kan verenigen met de oordelen van het Gerechtshof en heb ik hierover een beleidsbesluit aangekondigd.
+De zaak is door de Hoge Raad voor verdere behandeling verwezen2HR 12 mei 2017, ECLI:NL:HR:2017:848. naar Gerechtshof Den Haag3Hof Den Haag 5 december 2017, ECLI:NL:GHDHA:2017:3582.. In een onderschrift4Toelichting nr. 2018-0000029258, d.d. 07-03-2018. bij de uitspraak van het Gerechtshof heb ik mijn overwegingen uiteengezet om niet tegen die uitspraak in cassatie te gaan. Wel heb ik in dat onderschrift aangegeven dat ik me op onderdelen niet kan verenigen met de oordelen van het Gerechtshof en heb ik hierover een beleidsbesluit aangekondigd.
 
 In dit beleidsbesluit wordt, vooruitlopend op wijziging van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), nader uitgewerkt op welke wijze de Belastingdienst uitvoering zal geven aan het arrest van het HvJ EU. Uitgangspunt hierbij is een belastingheffing van betrokken belastingplichtigen die in overeenstemming is met het EU-recht zonder dat deze hierbij in een betere positie worden gebracht dan binnenlandse belastingplichtigen en andere buitenlandse belastingplichtigen die zich in vergelijkbare omstandigheden bevinden.
 
@@ -63,17 +52,23 @@ Het gaat dan om de situatie waarin de buitenlandse belastingplichtige zijn inkom
 
 In een dergelijke situatie is volgens het HvJ EU elk van de bron(lid)staten verplicht naar rato van de in die staat verworven inkomsten rekening te houden met de persoonlijke aftrekposten en tegemoetkomingen van de belastingplichtige. Deze verplichting geldt voor Nederland als bronstaat onafhankelijk van het antwoord op de vraag of de andere bronstaat of bronstaten binnen of buiten de EU zijn gelegen.
 
-Voor de doorwerking van het arrest HvJ EU in de Nederlandse belastingheffing zijn twee stappen te onderscheiden. Als eerste stap moet worden vastgesteld of de situatie van een buitenlandse belastingplichtige onder de reikwijdte van het arrest HvJ EU valt. Met andere woorden, of Nederland in die concrete situatie verplicht is naar evenredigheid met de persoonlijke en gezinssituatie van belastingplichtige rekening te houden. Deze eerste stap komt aan de orde in onderdeel 2.1.
+Voor de doorwerking van het arrest HvJ EU in de Nederlandse belastingheffing zijn twee stappen te onderscheiden. Als eerste stap moet worden vastgesteld of de situatie van een buitenlandse belastingplichtige onder de reikwijdte van het arrest HvJ EU valt. Met andere woorden, of Nederland in die concrete situatie verplicht is naar evenredigheid met de persoonlijke en gezinssituatie van belastingplichtige rekening te houden. Deze eerste stap komt aan de orde in [onderdeel 2.1](https://wetten.overheid.nl/BWBR0042885).
 
-Als aan de eerste stap is voldaan, zal als tweede stap de belasting over de Nederlandse inkomsten zodanig moeten worden bepaald dat met de door het HvJ EU geformuleerde verplichtingen op basis van het EU-recht rekening wordt gehouden. Deze bepaling van de verschuldigde Nederlandse inkomstenbelasting is aan de orde in onderdeel 2.2.
+Als aan de eerste stap is voldaan, zal als tweede stap de belasting over de Nederlandse inkomsten zodanig moeten worden bepaald dat met de door het HvJ EU geformuleerde verplichtingen op basis van het EU-recht rekening wordt gehouden. Deze bepaling van de verschuldigde Nederlandse inkomstenbelasting is aan de orde in [onderdeel 2.2](https://wetten.overheid.nl/BWBR0042885).
 
-In de bijlage zijn de hiervoor genoemde stappen beschreven aan de hand van een rekenvoorbeeld.
+In de [bijlage](https://wetten.overheid.nl/BWBR0042885) zijn de hiervoor genoemde stappen beschreven aan de hand van een rekenvoorbeeld.
 
 ### 2.1. Vaststellen of de buitenlandse belastingplichtige onder reikwijdte arrest HvJ EU valt (stap 1, toegang)
 
 In het arrest HvJ EU had belanghebbende, inwoner van Spanje, geen inkomen in zijn woonstaat. De rechtsregel uit dit arrest is naar verwachting eveneens van toepassing als een belastingplichtige slechts zeer beperkte inkomsten in zijn woonstaat heeft. Naar analogie met de regeling voor kwalificerende buitenlandse belastingplichtigen wordt hierbij als criterium gehanteerd of de belastingplichtige zijn gehele of nagenoeg gehele inkomen buiten de woonstaat verwerft. Voor de beoordeling of een buitenlandse belastingplichtige onder de reikwijdte van het arrest HvJ EU valt, wordt overigens zo veel mogelijk aansluiting gezocht bij [artikel 7.8, zesde en zevende lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.8).
 
 Een buitenlandse belastingplichtige komt op basis hiervan voor toepassing van dit besluit in aanmerking als hij aan de volgende voorwaarden voldoet:
+
+- 1. De buitenlandse belastingplichtige is als inwoner van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland of de BES eilanden (de landenkring) in de belastingheffing van die andere lidstaat of staat, of de BES eilanden betrokken;
+
+- 2. Het naar Nederlandse maatstaven bepaalde (wereld)inkomen van de belastingplichtige is geheel of nagenoeg geheel in twee of meer andere staten (waaronder Nederland) dan de woonstaat aan een loonbelasting of inkomstenbelasting onderworpen.
+
+- 3. Het naar Nederlandse maatstaven bepaalde (wereld)inkomen van belastingplichtige is niet geheel of nagenoeg geheel in een andere bronstaat (dan Nederland) aan een loonbelasting of inkomstenbelasting onderworpen.
 
 Verder geldt als voorwaarde dat de belastingplichtige een inkomensverklaring van de belastingautoriteit van de woonstaat verstrekt.7Evenals de inkomensverklaring voor kwalificerende buitenlandse belastingplichtigen, moet deze inkomensverklaring worden ingevuld naar Nederlandse fiscale maatstaven.
 
@@ -83,7 +78,7 @@ De vaststelling of de buitenlandse belastingplichtige geen of slechts zeer gerin
 
 ### 2.2. Bepaling Nederlands inkomen en de belasting over het Nederlands inkomen (stap 2, te betalen Nederlandse belasting)
 
-Als een buitenlandse belastingplichtige onder de reikwijdte van het arrest HvJ EU valt (stap 1, toegang), wordt met inachtneming van dat arrest bij de bepaling van de in Nederland verschuldigde belasting pro rata rekening gehouden met de persoonlijke aftrekposten en tegemoetkomingen. Hierbij bestaat recht op aftrek naar de mate waarin het in Nederland te belasten inkomen deel uitmaakt van het wereldinkomen9Zoals aangegeven in het onderschrift bij Hof Den Haag 5 december 2017, ECLI:NL:GHDHA:2017:3582 is enkel relevant of de belastingplichtige in het andere bronland inkomen heeft ontvangen waartegen hij een overeenkomstig recht op aftrek te gelde zou kunnen maken (ongeacht of de andere bronstaat een dergelijke aftrekmogelijkheid kent). Nederland verleent dus niet meer dan een pro-rata-aftrek.. Het gaat hierbij om de negatieve belastbare inkomsten uit eigen woning, de uitgaven voor inkomensvoorzieningen, de persoonsgebonden aftrek en het belastingdeel van de heffingskortingen.
+Als een buitenlandse belastingplichtige onder de reikwijdte van het arrest HvJ EU valt (stap 1, toegang), wordt met inachtneming van dat arrest bij de bepaling van de in Nederland verschuldigde belasting pro rata rekening gehouden met de persoonlijke aftrekposten en tegemoetkomingen. Hierbij bestaat recht op aftrek naar de mate waarin het in Nederland te belasten inkomen deel uitmaakt van het wereldinkomen9Zoals aangegeven in het onderschrift bij Hof Den Haag 5 december 2017, ECLI:NL:GHDHA:2017:3582 is enkel relevant of de belastingplichtige in het andere bronland inkomen heeft ontvangen waartegen hij een overeenkomstig recht op aftrek te gelde zou kunnen maken (ongeacht of de andere bronstaat een dergelijke aftrekmogelijkheid kent). Nederland verleent dus niet meer dan een pro-rata-aftrek.. Het gaat hierbij om de negatieve belastbare inkomsten uit eigen woning, de uitgaven voor inkomensvoorzieningen, de persoonsgebonden aftrek en het belastingdeel van de heffingskortingen.
 
 De in Nederland verschuldigde belasting, en dus ook de pro-rata-aftrek, worden hierbij voor het belastbare inkomen uit werk en woning (box 1), het belastbare inkomen uit aanmerkelijk belang (box 2) en het belastbare inkomen uit sparen en beleggen (box 3) afzonderlijk berekend. Zowel de omvang van de persoonlijke aftrekposten en tegemoetkomingen als het deel van het wereldinkomen dat in Nederland kan worden belast, wordt verder naar Nederlandse maatstaven vastgesteld. Waar de omvang van een aftrekpost afhankelijk is van het inkomen, wordt bij de bepaling van de hoogte van de aftrekpost uitgegaan van het wereldinkomen. Voor de toedeling van de persoonsgebonden aftrekposten aan de verschillende boxen wordt aangesloten bij de systematiek van [artikel 6.2 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.2).
 
@@ -121,11 +116,11 @@ De belastingdelen van de heffingskortingen worden eveneens pro rata in aanmerkin
 
 Tot en met 2014 was de keuzeregeling voor buitenlandse belastingplichtigen van toepassing ([artikel 2.5 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5)). Op grond van die keuzeregeling kwam de buitenlandse belastingplichtige in aanmerking voor pro-rata-aftrek van de uitgaven voor inkomensvoorzieningen, de persoonsgebonden aftrek en voor het bedrag van de heffingskorting voor de inkomstenbelasting als het inkomen van de buitenlandse belastingplichtige niet geheel of nagenoeg geheel (90%) in Nederland aan de inkomstenbelasting of loonbelasting was onderworpen.
 
-Pro rata rekening houden met de (negatieve) belastbare inkomsten uit eigen woning was echter niet mogelijk, omdat deze negatieve niet-Nederlandse inkomsten werden gesaldeerd met de positieve niet-Nederlandse inkomsten. Voor buitenlandse belastingplichtigen die voldoen aan de 90%-eis heb ik in 2013 goedgekeurd11Besluit van 26 april 2013, nr. DGB2013/201M (Stcrt. 2013, 12466). dat zij rekening mogen houden met (negatieve) belastbare inkomsten uit eigen woning.
+Pro rata rekening houden met de (negatieve) belastbare inkomsten uit eigen woning was echter niet mogelijk, omdat deze negatieve niet-Nederlandse inkomsten werden gesaldeerd met de positieve niet-Nederlandse inkomsten. Voor buitenlandse belastingplichtigen die voldoen aan de 90%-eis heb ik in 2013 goedgekeurd11Besluit van 26 april 2013, nr. DGB2013/201M (Stcrt. 2013, 12466). dat zij rekening mogen houden met (negatieve) belastbare inkomsten uit eigen woning.
 
 Voor diegenen die niet voldoen aan de 90%-eis, maar voor wie op grond van het arrest HvJ EU, pro rata rekening moet worden gehouden met de (negatieve) belastbare inkomsten uit eigen woning geldt het volgende.
 
-Buitenlandse belastingplichtigen die aan de eerste en tweede voorwaarde van onderdeel 2.1 van dit besluit voldoen, mogen de (negatieve) belastbare inkomsten uit eigen woning in aanmerking nemen in de mate waarin de in Nederland te belasten inkomsten deel uitmaken van het wereldinkomen. Voor de pro-rata-berekening van de (negatieve) belastbare inkomsten uit eigen woning wordt aangesloten bij de wijze waarop met de uitgaven voor inkomensvoorzieningen en de persoonsgebonden aftrek rekening werd gehouden ([artikel 2.5 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) en de bepalingen in het [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)).
+Buitenlandse belastingplichtigen die aan de eerste en tweede voorwaarde van [onderdeel 2.1](https://wetten.overheid.nl/BWBR0042885) van dit besluit voldoen, mogen de (negatieve) belastbare inkomsten uit eigen woning in aanmerking nemen in de mate waarin de in Nederland te belasten inkomsten deel uitmaken van het wereldinkomen. Voor de pro-rata-berekening van de (negatieve) belastbare inkomsten uit eigen woning wordt aangesloten bij de wijze waarop met de uitgaven voor inkomensvoorzieningen en de persoonsgebonden aftrek rekening werd gehouden ([artikel 2.5 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) en de bepalingen in het [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)).
 
 ### 4. Verzoek om toepassing van dit besluit
 
@@ -137,100 +132,4 @@ In dit besluit is een regeling opgenomen voor de meest voorkomende situaties. Di
 
 ### 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 9 februari 2017.
-
-## Bijlage. Voorbeeld
-
-In dit voorbeeld is voor de toepasselijke tarieven en heffingskortingen uitgegaan van de belastingwetgeving voor het jaar 2019.
-
-### Casus:
-
-A is (fiscaal) inwoner van een EU-land en geniet naar Nederlandse fiscale maatstaven de volgende inkomsten:
-
-A claimt de volgende aftrekposten:
-
-A voldoet aan de voorwaarden voor de algemene heffingskorting.
-
-### Uitwerking:
-
-### Stap 1. Toegang
-
-Als eerste stap moet worden vastgesteld of A onder de reikwijdte van het arrest HvJ EU valt. Met andere woorden of de situatie van A voldoende overeenkomt met de feitelijke situatie aan de orde in het arrest.
-
-Vervolgens moet worden vastgesteld of het naar Nederlandse maatstaven bepaalde (wereld)inkomen van A geheel of nagenoeg geheel in twee of meer andere staten dan de woonstaat aan een loon- of inkomstenbelasting is onderworpen.
-
-Noemerinkomen:
-
-Tellerinkomen:
-
-Dit resulteert in de volgende breuk: 55.000 / 60.000 x 100% = 91,7%.
-
-Daarmee is het inkomen van A nagenoeg geheel belastbaar in de bronstaten (buiten het woonland) en voldoet belastingplichtige aan de voorwaarden van stap 1.
-
-### Stap 2. Te betalen Nederlandse belasting
-
-### 2.a. Bepalen belastbaar inkomen per box
-
-Allereerst wordt het Nederlandse inkomen gerelateerd aan het wereldinkomen om het pro-rata-deel van de aftrekposten vast te kunnen stellen:
-
-Noemerinkomen:
-
-Tellerinkomen:
-
-Dit resulteert in de volgende breuk: 20.000 / 40.000 x 100% = 50%.
-
-Vervolgens wordt een pro-rata-deel van de aftrekposten in aanmerking genomen. Het Nederlandse box 1 inkomen bedraagt dan:
-
-Nu het pro-rata-deel van de aftrekposten geheel in box 1 te gelde kan worden gemaakt, hoeft in dit voorbeeld geen pro-rata-berekening meer te worden gemaakt voor het bepalen van het aftrekbare deel van de aftrekposten in box 2 en 3. Omdat de pro-rata-berekening in dit voorbeeld wel nodig is in stap 2c, is de berekening hieronder weergegeven.
-
-Noemerinkomen:
-
-Tellerinkomen:
-
-Dit resulteert in de volgende breuk: 0 / 5.000 x 100% = 0%
-
-Het Nederlandse box 2 inkomen bedraagt dan:
-
-Noemerinkomen:
-
-Tellerinkomen:
-
-Dit resulteert in de volgende breuk: 10.000 / 15.000 x 100% = 67%
-
-Het Nederlandse box 3 inkomen bedraagt dan:
-
-### 2.b. Tariefstoepassing
-
-Vervolgens wordt per box het toepasselijke tarief bepaald. Hierbij moet ten aanzien van het belastbaar inkomen uit werk en woning (box 1) het progressievoorbehoud worden toegepast (gemiddeld tarief). Hiertoe wordt de inkomstenbelasting over het wereldinkomen in box 1 gedeeld door het wereldinkomen in box 1 en vermenigvuldigd met het in Nederland te belasten inkomen:
-
-De Nederlandse belasting over de verschillende boxen bedraagt dan:
-
-### 2.c. Heffingskorting
-
-Vervolgens worden de op A van toepassing zijnde heffingskortingen pro rata in aanmerking genomen. Hiertoe zijn de volgende stappen nodig:
-
-### 2.c.1. Vaststellen hoogte en IB deel van de heffingskorting
-
-In het voorbeeld is gegeven dat A enkel aan de voorwaarden voor de algemene heffingskorting voldoet. Voor de overige heffingskortingen geldt uiteraard dezelfde systematiek.
-
-Allereerst wordt de hoogte van de algemene heffingskorting vastgesteld overeenkomstig de regels voor binnenlandse belastingplichtigen ([artikel 8.10, tweede lid2, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.10)):
-
-2.477 – (5,147% x (33.000-20.384)) = 1.828
-
-Het belastingdeel hiervan ([artikel 8.3 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.3)) bedraagt:
-
-1.828 x (9 / 36,65) = **449**
-
-### 2.c.2. Toerekening heffingskorting aan de verschillende boxen
-
-De aldus berekende heffingskorting wordt vervolgens toegerekend aan de verschillende boxen naar rato van het te betalen bedrag aan belasting:
-
-### 2.c.3. Pro rata deel van de heffingskorting
-
-Er bestaat vervolgens recht op een pro rata deel van de aldus berekende heffingskorting. Voor de pro rata breuk is aangesloten bij de onder stap 2.1 berekende breuk per box:
-
-### 2.d. Verschuldigde belasting
-
-A is uiteindelijk aan belasting verschuldigd:
-
-Dit besluit wordt in de Staatscourant gepubliceerd.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 9 februari 2017.

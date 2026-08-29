@@ -1,43 +1,17 @@
 ---
 title: "Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024"
 identifier: "BWBR0042786"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-11-22"
-last_updated: "2019-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042786"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15252513"
-version_id: "26244182"
-internal_id: "C37308611"
-label_id: "15199034"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042786/2019-11-22/0"
-intitule_bron: "Stcrt.2019-62770"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-11"
-intitule_published: "2019-11-21"
-intitule_in_force: "2019-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-62770"
-original_signed_date: "2019-11-11"
-original_published_date: "2019-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-62770"
-entry_into_force_date: "2019-11-22"
-jci_1_3: "jci1.3:c:BWBR0042786&z=2019-11-22&g=2019-11-22"
-jci_1_0: "1.0:c:BWBR0042786&g=2019-11-22"
-citeertitel_status: "officieel"
-signed_date: "2019-11-11"
-entry_into_force: "2019-11-22"
+publicatiedatum: 2019-11-22
+laatste_update: 2019-11-22
+status: geldig
+toestand: 2019-11-22
+bron: "https://wetten.overheid.nl/BWBR0042786"
+opgehaald: 2026-08-29
 ---
+
 # Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,21 +19,21 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, inclusief het Caribisch deel daarvan;
+- *Nederland:* het Koninkrijk der Nederlanden, inclusief het Caribisch deel daarvan;
 
-- **liquiditeit:** vlottende activa gedeeld door vlottende passiva;
+- *liquiditeit:* vlottende activa gedeeld door vlottende passiva;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
 
-- **solvabiliteit:** het eigen vermogen gedeeld door het vreemd vermogen;
+- *solvabiliteit:* het eigen vermogen gedeeld door het vreemd vermogen;
 
-- **uitvoering:** een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
+- *uitvoering:* een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
 
-- **voorstelling of concert:** openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
+- *voorstelling of concert:* openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
 
 ##### Artikel 1.2. Doel
 
@@ -69,11 +43,11 @@ Het bestuur kan meerjarige subsidies verstrekken voor activiteiten die bijdragen
 
 1. Een instelling die meerjarige subsidie wil aanvragen heeft de keuze tussen drie categorieën aan subsidie:
 
-- a). categorie I;
+- a) categorie I;
 
-- b). categorie II;
+- b) categorie II;
 
-- c). categorie III.
+- c) categorie III.
 
 2. Subsidie wordt verstrekt voor een periode van vier jaar.
 
@@ -145,11 +119,11 @@ Het bestuur kan meerjarige subsidies verstrekken voor activiteiten die bijdragen
 
 1. Aanvragen voor een meerjarige subsidie die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat; en
+- B: honoreren voor zover het budget dat toelaat; en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
 2. Als een subsidieplafond ontoereikend is om alle aanvragen met het advies 'honoreren voor zover het budget dat toelaat' te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria.
 
@@ -207,11 +181,11 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden gedaan door een
 
 - b. De aanvrager dient aan te tonen dat:
 
-- i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
+   - i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
 
-- ii. er een directiereglement dan wel reglementen voor bestuur en raad van toezicht is, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
+   - ii. er een directiereglement dan wel reglementen voor bestuur en raad van toezicht is, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
 
-- iii. de aanvrager heeft een procedure vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht.
+   - iii. de aanvrager heeft een procedure vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht.
 
 4. Een aanvrager voor de categorie III dient in aanvulling op de eisen in de voorgaande leden ook aan te tonen dat de solvabiliteit en liquiditeit in 2019 minimaal hoger zijn dan de volgende waarden:
 
@@ -277,11 +251,11 @@ Deze bedragen zijn per jaar en kunnen worden geïndexeerd.
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 2. De subsidieontvanger plaatst het logo of de naam van het Fonds Podiumkunsten op alle publiciteitsuitingen die betrekking hebben op de gesubsidieerde activiteiten en stuurt exemplaren van drukwerk dat betrekking heeft op de gesubsidieerde activiteiten aan het Fonds Podiumkunsten.
 
@@ -326,5 +300,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 8 oktober 2019 (kenmerk: 2703930/19/DP&O), houdende verlening van mandaat met betrekking tot de bevoegdheid om te besluiten op individuele verzoeken tot voorwaardelijke invrijheidstelling op de BES (Mandaatbesluit individuele verzoeken VI op de BES 2019)"
+citeertitel: "Mandaatbesluit individuele verzoeken VI op de BES 2019"
 identifier: "BWBR0042647"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2019-10-18"
-last_updated: "2019-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042647"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "15206893"
-version_id: "26065162"
-internal_id: "C37105051"
-label_id: "15154024"
-dtd_version: "2.0"
-original_entry_into_force: "2019-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042647/2019-10-18/0"
-intitule_bron: "Stcrt.2019-56460"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-08"
-intitule_published: "2019-10-17"
-intitule_in_force: "2019-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-56460"
-original_signed_date: "2019-10-08"
-original_published_date: "2019-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-56460"
-entry_into_force_date: "2019-10-18"
-jci_1_3: "jci1.3:c:BWBR0042647&z=2019-10-18&g=2019-10-18"
-jci_1_0: "1.0:c:BWBR0042647&g=2019-10-18"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit individuele verzoeken VI op de BES 2019"
-signed_date: "2019-10-08"
-entry_into_force: "2019-10-18"
+publicatiedatum: 2019-10-18
+laatste_update: 2019-10-18
+status: geldig
+toestand: 2019-10-18
+bron: "https://wetten.overheid.nl/BWBR0042647"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 8 oktober 2019 (kenmerk: 2703930/19/DP&O), houdende verlening van mandaat met betrekking tot de bevoegdheid om te besluiten op individuele verzoeken tot voorwaardelijke invrijheidstelling op de BES (Mandaatbesluit individuele verzoeken VI op de BES 2019)
-
-Gelet op [artikel 19, eerste lid, van Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=19);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -80,7 +54,7 @@ namens deze,
 
 (naam)
 
-**hoofddirecteur Dienst Justitiële Inrichtingen**
+*hoofddirecteur Dienst Justitiële Inrichtingen*
 
 ##### Artikel 5
 
@@ -94,7 +68,7 @@ namens deze,
 
 (naam)
 
-**plaatsvervangend hoofddirecteur Dienst Justitiële Inrichtingen**
+*plaatsvervangend hoofddirecteur Dienst Justitiële Inrichtingen*
 
 ##### Artikel 6
 
@@ -107,5 +81,3 @@ Het [Mandaatbesluit individuele verzoeken VI op de BES](https://wetten.overheid.
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Mandaatbesluit individuele verzoeken VI op de BES 2019.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

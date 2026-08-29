@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Staatssecretarissen van Financiën, van 29 maart 2020, nr. 2020-66979, houdende benoeming van twee personeelsraadspersonen bij de Belastingdienst (Besluit personeelsraadspersonen Belastingdienst 2020)"
+citeertitel: "Besluit personeelsraadspersonen Belastingdienst 2020"
 identifier: "BWBR0043376"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-04-21"
-last_updated: "2021-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043376"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15402863"
-version_id: "26625642"
-internal_id: "C37776471"
-label_id: "15347134"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043376/2021-04-21/0"
-intitule_bron: "Stcrt.2020-21177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-29"
-intitule_published: "2020-04-10"
-intitule_in_force: "2020-04-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-21177"
-original_signed_date: "2020-03-29"
-original_published_date: "2020-04-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-21177"
-entry_into_force_date: "2020-04-11"
-jci_1_3: "jci1.3:c:BWBR0043376&z=2021-04-21&g=2021-04-21"
-jci_1_0: "1.0:c:BWBR0043376&g=2021-04-21"
-citeertitel_status: "officieel"
-short_title: "Besluit personeelsraadspersonen Belastingdienst 2020"
-signed_date: "2020-03-29"
-entry_into_force: "2020-04-11"
+publicatiedatum: 2020-04-11
+laatste_update: 2021-04-21
+status: geldig
+toestand: 2021-04-21
+bron: "https://wetten.overheid.nl/BWBR0043376"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Staatssecretarissen van Financiën, van 29 maart 2020, nr. 2020-66979, houdende benoeming van twee personeelsraadspersonen bij de Belastingdienst (Besluit personeelsraadspersonen Belastingdienst 2020)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a). **Ministerie:** het Ministerie van Financiën;
+- a) *Ministerie:* het Ministerie van Financiën;
 
-- b). **Staatssecretarissen:** de staatssecretarissen van Financiën;
+- b) *Staatssecretarissen:* de staatssecretarissen van Financiën;
 
-- c). **SG:** de secretaris-generaal van het Ministerie van Financiën;
+- c) *SG:* de secretaris-generaal van het Ministerie van Financiën;
 
-- d). **DG:** de directeur-generaal van de Belastingdienst, de directeur-generaal Toeslagen en de directeur-generaal Douane;
+- d) *DG:* de directeur-generaal van de Belastingdienst, de directeur-generaal Toeslagen en de directeur-generaal Douane;
 
-- e). **Personeelsraadspersonen:** de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043376&artikel=2&z=2021-04-21&g=2021-04-21) als zodanig bedoelde personen;
+- e) *Personeelsraadspersonen:* de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043376&artikel=2&z=2021-04-21&g=2021-04-21) als zodanig bedoelde personen;
 
-- f). **Betrokkene:** een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon of organisatie die zich op een andere wijze in relatie tot de organisatie verhoudt.
+- f) *Betrokkene:* een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon of organisatie die zich op een andere wijze in relatie tot de organisatie verhoudt.
 
 ##### Artikel 2. Instelling
 
@@ -64,21 +38,21 @@ Er zijn personeelsraadspersonen Belastingdienst. Zij zijn niet werkzaam bij het 
 
 De personeelsraadspersoon heeft tot taak:
 
-- a). het op laagdrempelige wijze ophalen en ontvangen van signalen van betrokkenen over mogelijke onrechtmatigheden, daaronder ook begrepen meldingen van vermoedens van misstanden;
+- a) het op laagdrempelige wijze ophalen en ontvangen van signalen van betrokkenen over mogelijke onrechtmatigheden, daaronder ook begrepen meldingen van vermoedens van misstanden;
 
-- b). het verzamelen, inventariseren en zo mogelijk verifiëren van signalen;
+- b) het verzamelen, inventariseren en zo mogelijk verifiëren van signalen;
 
-- c). het zo nodig inwinnen van nadere inlichtingen naar aanleiding van signalen;
+- c) het zo nodig inwinnen van nadere inlichtingen naar aanleiding van signalen;
 
-- d). het beoordelen in hoeverre de signalen aanleiding geven tot enigerlei vervolgprocedure;
+- d) het beoordelen in hoeverre de signalen aanleiding geven tot enigerlei vervolgprocedure;
 
-- e). het rapporteren aan de SG, in afschrift aan de DG, over signalen en een advies over de bijbehorende opvolging.
+- e) het rapporteren aan de SG, in afschrift aan de DG, over signalen en een advies over de bijbehorende opvolging.
 
 ##### Artikel 4. Samenstelling, benoeming en ontslag
 
 1. Als personeelsraadspersonen worden benoemd de heer A.M. Hol en mevrouw H.A.G. Splinter-van Kan.
 
-2. De benoeming geschiedt met ingang van 1 maart 2020 en voor de duur van anderhalf jaar.
+2. De benoeming geschiedt met ingang van 1 maart 2020 en voor de duur van anderhalf jaar.
 
 3. De personeelsraadspersonen zijn bereikbaar via: PersoneelsraadspersonenBelastingdienst@rijksoverheid.nl.
 
@@ -134,7 +108,7 @@ Rapportages die door of namens de personeelsraadspersonen worden vervaardigd of 
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2020.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2020.
 
 ##### Artikel 12. Citeertitel
 

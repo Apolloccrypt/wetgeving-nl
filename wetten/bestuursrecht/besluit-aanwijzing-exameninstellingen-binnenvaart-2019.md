@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 26 september 2019, nr. IENW/BSK-2019/207608, tot aanwijzing van exameninstellingen voor de binnenvaart 2019"
+citeertitel: "Besluit aanwijzing exameninstellingen binnenvaart 2019"
 identifier: "BWBR0042575"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042575"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15169753"
-version_id: "26011722"
-internal_id: "C37047491"
-label_id: "15117174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042575/2020-01-01/0"
-intitule_bron: "Stcrt.2019-53888"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-09-26"
-intitule_published: "2019-09-30"
-intitule_in_force: "2019-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-53888"
-original_signed_date: "2019-09-26"
-original_published_date: "2019-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-53888"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042575&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0042575&g=2020-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing exameninstellingen binnenvaart 2019"
-signed_date: "2019-09-26"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0042575"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 26 september 2019, nr. IENW/BSK-2019/207608, tot aanwijzing van exameninstellingen voor de binnenvaart 2019
-
-Gelet op [artikel 29, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=29);
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -46,10 +20,8 @@ Het Centraal Bureau Rijvaardigheidsbewijzen te Rijswijk wordt aangewezen als ins
 
 ##### Artikel 2
 
-Het [Besluit van de Minister van Infrastructuur en Milieu, van 28 februari 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039303), nr. IENM/BSK-2017/55398, tot aanwijzing van exameninstellingen voor de binnenvaart 2017, vervalt.
+Het [Besluit van de Minister van Infrastructuur en Milieu, van 28 februari 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039303), nr. IENM/BSK-2017/55398, tot aanwijzing van exameninstellingen voor de binnenvaart 2017, vervalt.
 
 ##### Artikel 3
 
-Dit besluit treedt in werking op 1 januari 2020.
-
-Dit besluit wordt bekend gemaakt in de Staatscourant.
+Dit besluit treedt in werking op 1 januari 2020.

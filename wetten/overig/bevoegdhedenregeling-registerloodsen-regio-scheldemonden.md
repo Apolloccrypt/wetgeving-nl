@@ -1,43 +1,17 @@
 ---
 title: "Bevoegdhedenregeling registerloodsen regio Scheldemonden"
 identifier: "BWBR0043336"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043336"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15385213"
-version_id: "26595002"
-internal_id: "C37742771"
-label_id: "15329594"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043336/2020-04-01/0"
-intitule_bron: "Stcrt.2020-17753"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-26"
-intitule_published: "2020-03-31"
-intitule_in_force: "2020-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-17753"
-original_signed_date: "2019-11-26"
-original_published_date: "2020-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-17753"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043336&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0043336&g=2020-04-01"
-citeertitel_status: "officieel"
-signed_date: "2019-11-26"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0043336"
+opgehaald: 2026-08-29
 ---
+
 # Bevoegdhedenregeling registerloodsen regio Scheldemonden
-
-Gelet op [artikel 4, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) en de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4), [4a tot en met 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4a) en [14, derde lid, van de Bevoegdhedenverordening registerloodsen 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -75,7 +49,7 @@ Voor toelating tot de bevoegdheden genoemd in [artikel 10, eerste lid, onderdele
 
 ### Hoofdstuk 3. Het op peil houden van ervaring of vaardigheid en het behouden en intrekken van een specialisatie
 
-#### § 1. Specialisaties ‘[artikel 10, vierde lid, onderdelen a. tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=10).’
+#### § 1. Specialisaties ‘artikel 10, vierde lid, onderdelen a. tot en met g.’
 
 ##### Artikel 4. Op peil houden van ervaring of vaardigheid
 
@@ -111,11 +85,11 @@ In alle gevallen waarin deze regeling niet voorzien, beslist het bestuur.
 
 ##### Artikel 9. Intrekking regelingen
 
-1. Het Reglement bevoegdheidsverhoging regio Scheldemonden’ van 19 april 2010, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 2 augustus 2011, nr. IenM/BSK-2011/109342, wordt ingetrokken.
+1. Het Reglement bevoegdheidsverhoging regio Scheldemonden’ van 19 april 2010, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 2 augustus 2011, nr. IenM/BSK-2011/109342, wordt ingetrokken.
 
-2. Het Reglement uitbreiding admittage-gebied regio Scheldemonden 2000 van 10 januari 2000, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 17 maart 2000, nr. DGG/J-00/002011, wordt ingetrokken.
+2. Het Reglement uitbreiding admittage-gebied regio Scheldemonden 2000 van 10 januari 2000, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 17 maart 2000, nr. DGG/J-00/002011, wordt ingetrokken.
 
-3. Het Reglement Loa-regio Scheldemonden van 8 december 2014, goedgekeurd door de Minister van Infrastructuur en Milieu bij besluit van 9 februari 2015, nr. IENM/BSK-2015/29303, wordt ingetrokken.
+3. Het Reglement Loa-regio Scheldemonden van 8 december 2014, goedgekeurd door de Minister van Infrastructuur en Milieu bij besluit van 9 februari 2015, nr. IENM/BSK-2015/29303, wordt ingetrokken.
 
 ##### Artikel 10. Citeerbepaling en inwerkingtreding
 

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 13 september 2019 kenmerk 2543384, houdende beperking van de openbaarheid van het archief van het Gratiebeleid en uitvoering van het Ministerie van Justitie (1827) 1947–1988 (1999)"
+citeertitel: "Besluit beperking openbaarheid archief Gratiebeleid en uitvoering Ministerie van Justitie (1827) 1947–1988 (1999)"
 identifier: "BWBR0042630"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-10-11"
-last_updated: "2019-10-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042630"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15199873"
-version_id: "26055042"
-internal_id: "C37094761"
-label_id: "15147024"
-dtd_version: "2.0"
-original_entry_into_force: "2019-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042630/2019-10-11/0"
-intitule_bron: "Stcrt.2019-54019"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-09-13"
-intitule_published: "2019-10-10"
-intitule_in_force: "2019-10-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-54019"
-original_signed_date: "2019-09-13"
-original_published_date: "2019-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-54019"
-entry_into_force_date: "2019-10-11"
-jci_1_3: "jci1.3:c:BWBR0042630&z=2019-10-11&g=2019-10-11"
-jci_1_0: "1.0:c:BWBR0042630&g=2019-10-11"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Gratiebeleid en uitvoering Ministerie van Justitie (1827) 1947–1988 (1999)"
-signed_date: "2019-09-13"
-entry_into_force: "2019-10-11"
+publicatiedatum: 2019-10-11
+laatste_update: 2019-10-11
+status: geldig
+toestand: 2019-10-11
+bron: "https://wetten.overheid.nl/BWBR0042630"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 13 september 2019 kenmerk 2543384, houdende beperking van de openbaarheid van het archief van het Gratiebeleid en uitvoering van het Ministerie van Justitie (1827) 1947–1988 (1999)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d.9 juli 2019, met kenmerk 8269476.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van het Gratiebeleid en uitvoering van het Ministerie van Justitie (1827) 1947–1988 (1999).
 
 ##### Artikel 1
 

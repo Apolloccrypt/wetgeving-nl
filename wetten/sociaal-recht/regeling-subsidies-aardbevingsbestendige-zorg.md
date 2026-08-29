@@ -1,100 +1,100 @@
 ---
-title: "Regeling subsidies aardbevingsbestendige zorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 april 2020, kenmerk 1665225-201979-LZ, houdende regels voor het verstrekken van subsidie voor de realisatie van aardbevingsbestendige zorg in Groningen (Regeling subsidies aardbevingsbestendige zorg)"
+citeertitel: "Regeling subsidies aardbevingsbestendige zorg"
 identifier: "BWBR0043386"
-categorie: "Overig"
-publicatiedatum: 2026-04-17
-laatste_update: 2026-04-18
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2020-04-17
+laatste_update: 2026-04-17
 status: geldig
+toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0043386"
+opgehaald: 2026-08-29
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 april 2020, kenmerk 1665225-201979-LZ, houdende regels voor het verstrekken van subsidie voor de realisatie van aardbevingsbestendige zorg in Groningen (Regeling subsidies aardbevingsbestendige zorg)
 
-Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
-
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **aardbevingsgebied Groningen:** de gemeenten Delfzijl, Appingedam, Loppersum, Het Hogeland, Midden-Groningen, Oldambt en Groningen, voor wat betreft het grondgebied van de plaats Ten Boer;
+- *aardbevingsgebied Groningen:* de gemeenten Delfzijl, Appingedam, Loppersum, Het Hogeland, Midden-Groningen, Oldambt en Groningen, voor wat betreft het grondgebied van de plaats Ten Boer;
 
-- **bouwteam:** een projectgebonden samenwerkingsverband tussen een opdrachtgever en één of meerdere personen waarbinnen wordt samengewerkt aan het ontwerp van de te realiseren nieuwbouw en het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2026-04-17&g=2026-04-17), van deze subsidieregeling;
+- *bouwteam:* een projectgebonden samenwerkingsverband tussen een opdrachtgever en één of meerdere personen waarbinnen wordt samengewerkt aan het ontwerp van de te realiseren nieuwbouw en het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2026-04-17&g=2026-04-17), van deze subsidieregeling;
 
-- **bouwteamovereenkomst:** een overeenkomst van het bouwteam waarin prijsafspraken zijn vastgelegd voor het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2026-04-17&g=2026-04-17), van deze subsidieregeling;
+- *bouwteamovereenkomst:* een overeenkomst van het bouwteam waarin prijsafspraken zijn vastgelegd voor het realiseren van nieuwbouw, bedoeld in [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.2&z=2026-04-17&g=2026-04-17), van deze subsidieregeling;
 
-- **CBS tabel bouwkosten nieuwbouwwoningen:** de tabel ‘Nieuwbouwwoningen; inputprijsindex bouwkosten 2021=100’ van het Centraal Bureau voor de Statistiek;
+- *CBS tabel bouwkosten nieuwbouwwoningen:* de tabel ‘Nieuwbouwwoningen; inputprijsindex bouwkosten 2021=100’ van het Centraal Bureau voor de Statistiek;
 
-- **Definitief ontwerp:** het document waarin de initiatiefnemers van een nieuwbouwproject het uiteindelijke ontwerp van de nieuwbouw, een visie op de daar te leveren zorg en de wijze waarop dit zal worden georganiseerd vastleggen;
+- *Definitief ontwerp:* het document waarin de initiatiefnemers van een nieuwbouwproject het uiteindelijke ontwerp van de nieuwbouw, een visie op de daar te leveren zorg en de wijze waarop dit zal worden georganiseerd vastleggen;
 
-- **dagbestedingsplaats:** een plaats die wordt gerealiseerd binnen een zorglocatie, die toe te rekenen is aan één cliënt en waar begeleiding in groepsverband wordt geboden aan meerderjarige cliënten omdat de cliënt vanwege de aard, omvang en duur van zijn beperkingen niet in staat is om tot een vorm van dagstructurering te komen, ook niet door bijvoorbeeld onderwijs of arbeid;
+- *dagbestedingsplaats:* een plaats die wordt gerealiseerd binnen een zorglocatie, die toe te rekenen is aan één cliënt en waar begeleiding in groepsverband wordt geboden aan meerderjarige cliënten omdat de cliënt vanwege de aard, omvang en duur van zijn beperkingen niet in staat is om tot een vorm van dagstructurering te komen, ook niet door bijvoorbeeld onderwijs of arbeid;
 
-- **Groninger Zorgakkoord:** het Groninger Zorgakkoord van 11 maart 2019, Stcrt. 2019, 30316;
+- *Groninger Zorgakkoord:* het Groninger Zorgakkoord van 11 maart 2019, Stcrt. 2019, 30316;
 
-- **instelling:** een zorginstelling of een woningcorporatie die partij is bij het Groninger Zorgakkoord;
+- *instelling:* een zorginstelling of een woningcorporatie die partij is bij het Groninger Zorgakkoord;
 
-- **intramurale plaats:**
+- *intramurale plaats:*
 
-  - a). een plaats die wordt gerealiseerd binnen een zorglocatie, toe te rekenen is aan één cliënt en waar zorg met verblijf in de zin van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) wordt geboden door een zorginstelling;
+   - a) een plaats die wordt gerealiseerd binnen een zorglocatie, toe te rekenen is aan één cliënt en waar zorg met verblijf in de zin van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) wordt geboden door een zorginstelling;
 
-  - b). in afwijking van het bepaalde onder a worden tevens 88 aanleunwoningen die worden gerealiseerd in het Complex Wiemersheerd te Loppersum en het equivalent van 77 plaatsen in de geriatrische revalidatiezorg en geestelijke gezondheidszorg die worden gerealiseerd in het expertisecentrum aan de Jachtlaan 50-52 te Delfzijl aangemerkt als intramurale plaatsen;
+   - b) in afwijking van het bepaalde onder a worden tevens 88 aanleunwoningen die worden gerealiseerd in het Complex Wiemersheerd te Loppersum en het equivalent van 77 plaatsen in de geriatrische revalidatiezorg en geestelijke gezondheidszorg die worden gerealiseerd in het expertisecentrum aan de Jachtlaan 50-52 te Delfzijl aangemerkt als intramurale plaatsen;
 
-- **Kaderregeling:** de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:* de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **kinderdagcentrumplaats:** een plaats die toe te rekenen is aan één cliënt die wordt gerealiseerd binnen een zorglocatie, waar zorg in de zin van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), niet zijnde zorg met verblijf, wordt geboden aan minderjarige cliënten;
+- *kinderdagcentrumplaats:* een plaats die toe te rekenen is aan één cliënt die wordt gerealiseerd binnen een zorglocatie, waar zorg in de zin van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), niet zijnde zorg met verblijf, wordt geboden aan minderjarige cliënten;
 
-- **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- **Nationaal Coördinator Groningen:** de Dienst Nationaal Coördinator Groningen. genoemd in [artikel 2 van het Instellingsbesluit Nationaal Coördinator Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0036587&artikel=2);
+- *Nationaal Coördinator Groningen:* de Dienst Nationaal Coördinator Groningen. genoemd in [artikel 2 van het Instellingsbesluit Nationaal Coördinator Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0036587&artikel=2);
 
-- **projectorganisatie:** de projectorganisatie, genoemd in artikel 5.3 van het Groninger Zorgakkoord;
+- *projectorganisatie:* de projectorganisatie, genoemd in artikel 5.3 van het Groninger Zorgakkoord;
 
-- **NEN-norm voor aardbevingsbestendig bouwen:** meest recente NEN-norm voor aardbevingsbestendig bouwen, beoordeling van constructieve veiligheid van een gebouw bij nieuwbouw, verbouw en afkeuren – Geïnduceerde aardbevingen – Grondslagen, belastingen en weerstanden;
+- *NEN-norm voor aardbevingsbestendig bouwen:* meest recente NEN-norm voor aardbevingsbestendig bouwen, beoordeling van constructieve veiligheid van een gebouw bij nieuwbouw, verbouw en afkeuren – Geïnduceerde aardbevingen – Grondslagen, belastingen en weerstanden;
 
-- **nieuwbouw:** een zorglocatie waarvan het tijdstip van eerste ingebruikneming ligt na inwerkingtreding van deze subsidieregeling en waarvan de bouw in fases kan worden gerealiseerd;
+- *nieuwbouw:* een zorglocatie waarvan het tijdstip van eerste ingebruikneming ligt na inwerkingtreding van deze subsidieregeling en waarvan de bouw in fases kan worden gerealiseerd;
 
-- **prijsvorming:** de datum waarop een prijsafspraak is neergelegd in:
+- *prijsvorming:* de datum waarop een prijsafspraak is neergelegd in:
 
-  - a. een overeenkomst tot aanneming van werk als bedoeld in [artikel 750 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=750); of
+   - a. een overeenkomst tot aanneming van werk als bedoeld in [artikel 750 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=750); of
 
-  - b. een bouwteamovereenkomst;
+   - b. een bouwteamovereenkomst;
 
-- **taxateur:** een taxateur die is ingeschreven in de Kamer Bedrijfsmatig Vastgoed – Grootzakelijk Vastgoed in het Nederlands Register Vastgoed Taxateurs;
+- *taxateur:* een taxateur die is ingeschreven in de Kamer Bedrijfsmatig Vastgoed – Grootzakelijk Vastgoed in het Nederlands Register Vastgoed Taxateurs;
 
-- **toetsgroep:** de toetsgroep, genoemd in artikel 5.2 van het Groninger Zorgakkoord;
+- *toetsgroep:* de toetsgroep, genoemd in artikel 5.2 van het Groninger Zorgakkoord;
 
-- **Visie- en haalbaarheidsdocument:** het document waarin de initiatiefnemers van een nieuwbouwproject de visie en opzet van de nieuwbouw, inclusief het aantal te realiseren plaatsen, beschrijven om de haalbaarheid daarvan te kunnen bepalen;
+- *Visie- en haalbaarheidsdocument:* het document waarin de initiatiefnemers van een nieuwbouwproject de visie en opzet van de nieuwbouw, inclusief het aantal te realiseren plaatsen, beschrijven om de haalbaarheid daarvan te kunnen bepalen;
 
-- **woningcorporatie:** een toegelaten instelling in de zin van [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
+- *woningcorporatie:* een toegelaten instelling in de zin van [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
 
-- **zorginstelling:** een instelling in de zin van [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1);
+- *zorginstelling:* een instelling in de zin van [artikel 1, eerste lid, onder f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1);
 
-- **zorglocatie:** een pand of samenstelling van panden waarin zorg in de zin van [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) of jeugdgezondheidszorg in de zin van [artikel 1 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=1) wordt verleend door een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906).
+- *zorglocatie:* een pand of samenstelling van panden waarin zorg in de zin van [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) of jeugdgezondheidszorg in de zin van [artikel 1 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=1) wordt verleend door een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906).
 
-#### Artikel 1.2. Voorwaarden voor subsidie
+##### Artikel 1.2. Voorwaarden voor subsidie
 
 Een activiteit komt slechts eenmaal voor subsidie op grond van onderhavige regeling in aanmerking.
 
 ### Hoofdstuk 2. Subsidie voor voorbereiding nieuwbouw
 
-#### Artikel 2.1. Subsidiabele activiteiten
+##### Artikel 2.1. Subsidiabele activiteiten
 
 De minister kan subsidie verstrekken voor activiteiten ter voorbereiding van nieuwbouw ten behoeve van plaatsen in de intramurale zorg, dagbesteding of voor kinderdagcentrumplaatsen binnen het aardbevingsgebied Groningen.
 
-#### Artikel 2.2. Hoogte van de subsidie
+##### Artikel 2.2. Hoogte van de subsidie
 
-De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2026-04-17&g=2026-04-17) bedraagt € 750.000 per beoogde zorglocatie.
+De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&artikel=2.1&z=2026-04-17&g=2026-04-17) bedraagt € 750.000 per beoogde zorglocatie.
 
-#### Artikel 2.3. Voorwaarden voor subsidie
+##### Artikel 2.3. Voorwaarden voor subsidie
 
 1. Subsidie wordt uitsluitend verstrekt aan instellingen die een positieve reactie van de toetsgroep hebben ontvangen op het Visie- en haalbaarheidsdocument.
 
 2. Subsidie wordt uitsluitend verstrekt aan instellingen die ten minste 20 nieuwbouwplaatsen zullen realiseren.
 
-#### Artikel 2.4. Aanvraag tot verlening en bevoorschotting
+##### Artikel 2.4. Aanvraag tot verlening en bevoorschotting
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
@@ -102,7 +102,7 @@ De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overhe
 
 3. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 80 procent van het bedrag van de verlening, dat direct zal worden uitbetaald.
 
-#### Artikel 2.5. Aanvraag tot vaststelling
+##### Artikel 2.5. Aanvraag tot vaststelling
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
@@ -114,21 +114,21 @@ De subsidie voor activiteiten als bedoeld in [artikel 2.1](https://wetten.overhe
 
 ### Hoofdstuk 3. Subsidie voor het afstoten van bestaande panden binnen aardbevingsgebied
 
-#### Artikel 3.1. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 3.1. Toepasselijkheid Kaderregeling
 
 Op dit hoofdstuk van de regeling zijn de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [7.1 tot en met 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1) niet van toepassing.
 
-#### Artikel 3.2. Subsidiabele activiteiten
+##### Artikel 3.2. Subsidiabele activiteiten
 
 De minister kan subsidie verstrekken aan instellingen voor het afstoten van bestaande panden genoemd in Bijlage I bij het Groninger Zorgakkoord.
 
-#### Artikel 3.3. Hoogte van de subsidie
+##### Artikel 3.3. Hoogte van de subsidie
 
-1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de restwaarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
+1. De hoogte van de subsidie voor het afstoten van bestaande panden bestaat uit de waarde van de betreffende locatie, minus de restwaarde van de locatie welke door een taxateur wordt vastgesteld, met peildatum 31 december 2018.
 
 2. De waarde van de locaties is reeds vastgesteld door onafhankelijke taxateurs en bijgevoegd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&bijlage=I&z=2026-04-17&g=2026-04-17) bij de onderhavige regeling.
 
-#### Artikel 3.4. Voorwaarden voor subsidie
+##### Artikel 3.4. Voorwaarden voor subsidie
 
 1. Subsidies op grond van dit hoofdstuk worden slechts verstrekt voor activiteiten die aanvangen na datum van inwerkingtreding van deze regeling.
 
@@ -138,17 +138,17 @@ De minister kan subsidie verstrekken aan instellingen voor het afstoten van best
 
 - b. er geen zorg, behoudens thuiszorg, meer plaatsvindt in de betreffende zorglocatie en de eigenaar van de locatie schriftelijk verklaart dat hij niet het oogmerk heeft om dit de komende tien jaar te doen.
 
-#### Artikel 3.5. Subsidieplafond
+##### Artikel 3.5. Subsidieplafond
 
-1. Het subsidieplafond voor het afstoten van bestaande panden bedraagt € 82.000.000 voor de looptijd van deze regeling.
+1. Het subsidieplafond voor het afstoten van bestaande panden bedraagt € 82.000.000 voor de looptijd van deze regeling.
 
 2. Het uit hoofde van het plafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 3.6. Wijze van subsidieverstrekking
+##### Artikel 3.6. Wijze van subsidieverstrekking
 
 Subsidie wordt zonder voorafgaande verlening direct vastgesteld.
 
-#### Artikel 3.7. Aanvraag tot vaststelling
+##### Artikel 3.7. Aanvraag tot vaststelling
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
@@ -162,135 +162,37 @@ Subsidie wordt zonder voorafgaande verlening direct vastgesteld.
 
 ### Hoofdstuk 4. Subsidie voor te realiseren nieuwbouw
 
-#### Artikel 4.1. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 4.1. Toepasselijkheid Kaderregeling
 
 Op dit hoofdstuk van de regeling zijn [artikelen 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) en [6.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=6.1) niet van toepassing.
 
-#### Artikel 4.2. Subsidiabele activiteiten
+##### Artikel 4.2. Subsidiabele activiteiten
 
 1. De minister kan subsidie verstrekken aan zorginstellingen voor het realiseren van nieuwbouw voor plaatsen in de intramurale zorg, dagbesteding of voor kinderdagcentrumplaatsen binnen het aardbevingsgebied Groningen.
 
 2. Op grond van deze regeling wordt subsidie verstrekt voor in totaal ten hoogste 800 intramurale plaatsen, 85 dagbestedingsplaatsen en 30 kinderdagcentrumplaatsen.
 
-#### Artikel 4.3. Hoogte van de subsidie
+##### Artikel 4.3. Hoogte van de subsidie
 
 1. De hoogte van de subsidie wordt berekend volgens de formule (A1 x B) + (A2 x B) + (A3 x B) – C = D, waarbij wordt verstaan onder:
 
-| **A1:** | het aantal te realiseren plaatsen in de intramurale zorg; |
+| A1: | het aantal te realiseren plaatsen in de intramurale zorg; |
 | --- | --- |
-| **A2:** | het aantal te realiseren plaatsen in de dagbesteding; |
-| **A3:** | het aantal te realiseren plaatsen in de kinderdagcentra; |
-| **B:** | het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen |
-| **C:** | de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=2&z=2026-04-17&g=2026-04-17) van deze regeling |
-| **D:** | het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager. |
+| A2: | het aantal te realiseren plaatsen in de dagbesteding; |
+| A3: | het aantal te realiseren plaatsen in de kinderdagcentra; |
+| B: | het normbedrag dat is gekoppeld aan de realisatie van de betreffende plaatsen |
+| C: | de reeds aan de instelling verleende subsidie op grond van hoofdstuk 2 van deze regeling |
+| D: | het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager. |
 
 2. Subsidie wordt verstrekt voor ten hoogste het aantal te realiseren plaatsen dat door de minister in de verleningsbeschikking wordt bepaald.
 
-3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 123.223.
+3. Het normbedrag voor de realisatie van een intramurale plaats bedraagt € 123.223.
 
-4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 89.485.
+4. Het normbedrag voor de realisatie van een kinderdagcentrumplaats bedraagt € 89.485.
 
-5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 36.672.
+5. Het normbedrag voor de realisatie van een dagbestedingsplaats bedraagt € 36.672.
 
-#### Artikel 4.4. Voorwaarden voor subsidie
-
-Subsidie wordt uitsluitend verstrekt aan instellingen die een positief advies van de toetsgroep hebben ontvangen over het Definitief ontwerp.
-
-#### Artikel 4.5. Aanvraag tot verlening en bevoorschotting
-
-1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
-
-2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag tot verlening een definitief ontwerp van de te realiseren nieuwbouw, een overzicht van het aantal te realiseren plaatsen en een positief advies van de toetsgroep over het Definitief ontwerp.
-
-3. Wanneer de aanvraag mede ziet op verhoging van het subsidiebedrag als bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2026-04-17&g=2026-04-17), bevat de aanvraag een afschrift van het document waarin de prijsvorming is vastgelegd.
-
-4. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 80 procent van het volledige bedrag van de verlening, dat gelijkmatig zal worden betaald over het aantal maanden waarvoor de subsidie wordt verleend.
-
-#### Artikel 4.6. Aanvullende verplichtingen voor subsidies
-
-1. Nieuwbouw wordt gerealiseerd binnen vijf jaar na dagtekening van verlening van de subsidie.
-
-2. Nieuwbouw dient te voldoen aan de meest recente NEN-norm voor aardbevingsbestendig bouwen.
-
-3. Indien niet aan de verplichtingen, bedoeld in het eerste en tweede lid, wordt voldaan, doet de subsidieontvanger onverwijld melding daarvan aan de minister.
-
-4. De minister kan ontheffing verlenen van de termijn, bedoeld in het eerste lid met ten hoogste vier jaar.
-
-5. Indien nieuwbouw niet is gerealiseerd in de periode, bedoeld in het eerste lid, of in geval van ontheffing in de periode van ontheffing als bedoeld in het vijfde lid, wordt de subsidie vastgesteld op ten hoogste 80 procent van het volledige bedrag van de verlening.
-
-#### Artikel 4.7. Aanvraag tot vaststelling
-
-1. De aanvraag tot vaststelling wordt uiterlijk 22 weken na oplevering van de beoogde nieuwbouw ingediend.
-
-2. Indien de beoogde nieuwbouw niet is gerealiseerd wordt de aanvraag tot vaststelling ingediend binnen 22 weken na afloop van het boekjaar waarin de nieuwbouw, op grond van de aanvraag, gerealiseerd zou worden.
-
-3. De aanvraag tot vaststelling van de subsidie gaat, in aanvulling op [artikel 7.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5), vergezeld van een opleveringsverslag waaruit blijkt dat de nieuwbouw conform het Definitief ontwerp is opgeleverd en dat getekend is door zowel de opdrachtnemer als de opdrachtgever van de nieuwbouw.
-
-4. De subsidie wordt vastgesteld op een bedrag dat bestaat uit:
-
-- a). de normbedragen voor de gerealiseerde plaatsen, bedoeld in [artikel 4.3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17), waarbij uitgegaan wordt van het normbedrag in het jaar van de aanvraag tot verlening; en
-
-- b). de verleende subsidie voor verhoogde bouwkosten, bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2026-04-17&g=2026-04-17).
-
-5. In afwijking van het vierde lid wordt het subsidiebedrag voor verhoogde bouwkosten, op het moment dat niet alle te realiseren plaatsen zijn gerealiseerd, lager vastgesteld naar rato van het aantal plaatsen dat niet gerealiseerd is en het bijbehorende normbedrag.
-
-6. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
-
-### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
-
-#### Artikel 5.1. Subsidiabele activiteiten en hoogte van de subsidie
-
-1. De minister kan subsidie verstrekken aan één zorginstelling voor het inrichten van de projectorganisatie. Op deze subsidie is [artikel 4.3, tweede lid, Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) niet van toepassing.
-
-2. Subsidie bedraagt ten hoogste € 9.750.000.
-
-#### Artikel 5.2. Voorwaarde voor subsidie
-
-De inhuur van leden van de projectorganisatie dient door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven te geschieden.
-
-### Hoofdstuk 6. Slotbepalingen
-
-#### Artikel 6.1. Inwerkingtreding en vervaldatum
-
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 april 2030.
-
-#### Artikel 6.2. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling subsidies aardbevingsbestendige zorg
-
-## Bijlage I. Waarde zorglocaties
-
-De waarde van de af te stoten zorglocaties is vastgesteld op de volgende bedragen.
-
-Deze waarde is door onafhankelijke taxateurs vastgesteld waarbij is uitgegaan van een systematiek gebaseerd op de zogenoemde Discounted Cash Flow methode. Bij woningcorporaties is uitgegaan van de meest recente versie van het Handboek modelmatig waarderen marktwaarde.
-
-Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is wordt dit met een streepje weergegeven.
-
-| Complexnaam | Adres | Plaats | Waarde |
-| --- | --- | --- | --- |
-| Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
-| Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
-| Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
-| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
-| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
-| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
-| Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
-| BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
-| Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
-| De Brug Wonen | Zwet 11 | Delfzijl | € 2.977.000 |
-| Volwassenenpsychiatrie | Jachtlaan 52 | Delfzijl | € 2.174.000 |
-| Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
-| Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
-| Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
-| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
-| Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
-| De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
-| Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
-| Molenerf | Molenerf 15-51 | Uithuizen | € 1.161.148 |
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 4.3a. Subsidie voor verhoogde bouwkosten
+##### Artikel 4.3a. Subsidie voor verhoogde bouwkosten
 
 1. De minister kan besluiten het subsidiebedrag, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17), te verhogen in verband met gestegen bouwkosten.
 
@@ -326,51 +228,59 @@ C: de reeds aan de instelling verleende subsidie op grond van [hoofdstuk 2](http
 
 D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17).
 
-6. Het subsidieplafond voor de verhoging, bedoeld in het eerste lid, bedraagt € 35.000.000 voor de looptijd van deze regeling.
+6. Het subsidieplafond voor de verhoging, bedoeld in het eerste lid, bedraagt € 35.000.000 voor de looptijd van deze regeling.
 
 7. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
-### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
+##### Artikel 4.4. Voorwaarden voor subsidie
 
-### Hoofdstuk 6. Slotbepalingen
+Subsidie wordt uitsluitend verstrekt aan instellingen die een positief advies van de toetsgroep hebben ontvangen over het Definitief ontwerp.
 
-## Bijlage I. Waarde zorglocaties
+##### Artikel 4.5. Aanvraag tot verlening en bevoorschotting
 
-De waarde van de af te stoten zorglocaties is vastgesteld op de volgende bedragen.
+1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
-Deze waarde is door onafhankelijke taxateurs vastgesteld waarbij is uitgegaan van een systematiek gebaseerd op de zogenoemde Discounted Cash Flow methode. Bij woningcorporaties is uitgegaan van de meest recente versie van het Handboek modelmatig waarderen marktwaarde.
+2. In aanvulling op [artikel 3.3 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) bevat de aanvraag tot verlening een definitief ontwerp van de te realiseren nieuwbouw, een overzicht van het aantal te realiseren plaatsen en een positief advies van de toetsgroep over het Definitief ontwerp.
 
-Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is wordt dit met een streepje weergegeven.
+3. Wanneer de aanvraag mede ziet op verhoging van het subsidiebedrag als bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2026-04-17&g=2026-04-17), bevat de aanvraag een afschrift van het document waarin de prijsvorming is vastgelegd.
 
-| Complexnaam | Adres | Plaats | Waarde |
-| --- | --- | --- | --- |
-| Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
-| Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
-| Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
-| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
-| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
-| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
-| Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
-| BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
-| Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
-| De Brug Wonen | Zwet 11 | Delfzijl | € 2.977.000 |
-| Volwassenenpsychiatrie | Jachtlaan 52 | Delfzijl | € 2.174.000 |
-| Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
-| Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
-| Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
-| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
-| Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
-| De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
-| Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
-| Molenerf | Molenerf 15-51 | Uithuizen | € 1.161.148 |
+4. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 80 procent van het volledige bedrag van de verlening, dat gelijkmatig zal worden betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 4.6. Aanvullende verplichtingen voor subsidies
 
-#### Artikel 4.8. Verlening bij nieuwbouw in fases
+1. Nieuwbouw wordt gerealiseerd binnen vijf jaar na dagtekening van verlening van de subsidie.
+
+2. Nieuwbouw dient te voldoen aan de meest recente NEN-norm voor aardbevingsbestendig bouwen.
+
+3. Indien niet aan de verplichtingen, bedoeld in het eerste en tweede lid, wordt voldaan, doet de subsidieontvanger onverwijld melding daarvan aan de minister.
+
+4. De minister kan ontheffing verlenen van de termijn, bedoeld in het eerste lid met ten hoogste vier jaar.
+
+5. Indien nieuwbouw niet is gerealiseerd in de periode, bedoeld in het eerste lid, of in geval van ontheffing in de periode van ontheffing als bedoeld in het vijfde lid, wordt de subsidie vastgesteld op ten hoogste 80 procent van het volledige bedrag van de verlening.
+
+##### Artikel 4.7. Aanvraag tot vaststelling
+
+1. De aanvraag tot vaststelling wordt uiterlijk 22 weken na oplevering van de beoogde nieuwbouw ingediend.
+
+2. Indien de beoogde nieuwbouw niet is gerealiseerd wordt de aanvraag tot vaststelling ingediend binnen 22 weken na afloop van het boekjaar waarin de nieuwbouw, op grond van de aanvraag, gerealiseerd zou worden.
+
+3. De aanvraag tot vaststelling van de subsidie gaat, in aanvulling op [artikel 7.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5), vergezeld van een opleveringsverslag waaruit blijkt dat de nieuwbouw conform het Definitief ontwerp is opgeleverd en dat getekend is door zowel de opdrachtnemer als de opdrachtgever van de nieuwbouw.
+
+4. De subsidie wordt vastgesteld op een bedrag dat bestaat uit:
+
+- a) de normbedragen voor de gerealiseerde plaatsen, bedoeld in [artikel 4.3, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17), waarbij uitgegaan wordt van het normbedrag in het jaar van de aanvraag tot verlening; en
+
+- b) de verleende subsidie voor verhoogde bouwkosten, bedoeld in [artikel 4.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3a&z=2026-04-17&g=2026-04-17).
+
+5. In afwijking van het vierde lid wordt het subsidiebedrag voor verhoogde bouwkosten, op het moment dat niet alle te realiseren plaatsen zijn gerealiseerd, lager vastgesteld naar rato van het aantal plaatsen dat niet gerealiseerd is en het bijbehorende normbedrag.
+
+6. De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
+
+##### Artikel 4.8. Verlening bij nieuwbouw in fases
 
 1. Indien de nieuwbouw in fases gerealiseerd wordt, kan per fase subsidie tot een maximum van drie fases worden aangevraagd. In dat geval wordt in dit hoofdstuk onder ‘subsidie’ begrepen ‘subsidie voor de afzonderlijke fase’.
 
-2. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17) is van overeenkomstige toepassing, met dien verstande dat de formule voor de berekening van de hoogte van de subsidie voor de tweede of derde fase als volgt luidt:
+2. [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17) is van overeenkomstige toepassing, met dien verstande dat de formule voor de berekening van de hoogte van de subsidie voor de tweede of derde fase als volgt luidt:
 
 (A1 x B) + (A2 x B) + (A3 x B) = D, waarbij wordt verstaan onder:
 
@@ -392,40 +302,26 @@ waarbij wordt verstaan onder:
 
 D: het bedrag van de subsidie voor het realiseren van nieuwbouw door de aanvrager, bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.3&z=2026-04-17&g=2026-04-17).
 
-4. [Artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.6&z=2026-04-17&g=2026-04-17), is van overeenkomstige toepassing, met dien verstande dat in geval van bouw in fases, de nieuwbouw gerealiseerd wordt binnen vijf jaar na dagtekening van verlening van de subsidie voor de eerste fase.
+4. [Artikel 4.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043386&hoofdstuk=4&artikel=4.6&z=2026-04-17&g=2026-04-17), is van overeenkomstige toepassing, met dien verstande dat in geval van bouw in fases, de nieuwbouw gerealiseerd wordt binnen vijf jaar na dagtekening van verlening van de subsidie voor de eerste fase.
 
 ### Hoodstuk 5. Subsidie voor het inrichten van de projectorganisatie
 
+##### Artikel 5.1. Subsidiabele activiteiten en hoogte van de subsidie
+
+1. De minister kan subsidie verstrekken aan één zorginstelling voor het inrichten van de projectorganisatie. Op deze subsidie is [artikel 4.3, tweede lid, Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) niet van toepassing.
+
+2. Subsidie bedraagt ten hoogste € 9.750.000.
+
+##### Artikel 5.2. Voorwaarde voor subsidie
+
+De inhuur van leden van de projectorganisatie dient door middel van een open, transparante en non-discriminatoire procedure en tegen marktconforme tarieven te geschieden.
+
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage I. Waarde zorglocaties
+##### Artikel 6.1. Inwerkingtreding en vervaldatum
 
-De waarde van de af te stoten zorglocaties is vastgesteld op de volgende bedragen.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 april 2030.
 
-Deze waarde is door onafhankelijke taxateurs vastgesteld waarbij is uitgegaan van een systematiek gebaseerd op de zogenoemde Discounted Cash Flow methode. Bij woningcorporaties is uitgegaan van de meest recente versie van het Handboek modelmatig waarderen marktwaarde.
+##### Artikel 6.2. Citeertitel
 
-Niet alle af te stoten locaties hebben een naam. Als er geen complexnaam is wordt dit met een streepje weergegeven.
-
-| Complexnaam | Adres | Plaats | Waarde |
-| --- | --- | --- | --- |
-| Hogewerf | Hogewerflaan 6 | Appingedam | € 2.017.000 |
-| Woonvorm De Zijlen | Solwerderweg 3 + 5 | Appingedam | € 7.825.000 |
-| Berjarijke | Georg Van Saksenlaan 2A | Appingedam | € 2.204.000 |
-| – | Pieter Bieremastraat nr. 35-97 | Appingedam | € 2.783.511 |
-| – | Pieter Bieremastraat 5 | Appingedam | € 495.000 |
-| Damsterheerd | Heerdlaan 2 : deel Wlz | Appingedam | € 4.409.761 |
-| Damsterheerd | Heerdlaan 4: Onderdeel inleunwoningen | Appingedam | € 4.312.958 |
-| BetingeStaete/Ede Staal Staete | Ede Staalstraat 1-175, 5, 7 en 177-229 | Delfzijl | € 12.996.950 |
-| Vliethoven | Zwet 9 | Delfzijl | € 14.990.000 |
-| De Brug Wonen | Zwet 11 | Delfzijl | € 2.977.000 |
-| Volwassenenpsychiatrie | Jachtlaan 52 | Delfzijl | € 2.174.000 |
-| Wiemersheerd | De Schepperij 2 c.a. | Loppersum | € 4.891.227 |
-| Wiemersheerd | Hoge Heem, 1-39, 2-32 | Loppersum | € 1.975.300 |
-| Wiemersheerd | Leeuwenhof 1-32 | Loppersum | € 1.941.500 |
-| Fraamborg (2) | Esdoornlaan 2-8 | Middelstum | € 495.000 |
-| Industrieweg | Industrieweg 18 | Uithuizen | € 1.086.000 |
-| De Tille | Oude Tilsterweg 23 | Uithuizen | € 3.166.000 |
-| Engersma | Engersmastraat 2 | Uithuizen | € 863.000 |
-| Molenerf | Molenerf 15-51 | Uithuizen | € 1.161.148 |
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling subsidies aardbevingsbestendige zorg

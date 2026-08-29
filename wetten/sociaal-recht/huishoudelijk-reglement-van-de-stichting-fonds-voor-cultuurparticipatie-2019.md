@@ -1,62 +1,33 @@
 ---
 title: "Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019"
 identifier: "BWBR0042690"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-10-23"
-last_updated: "2019-10-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042690"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15211183"
-version_id: "26099212"
-internal_id: "C37139841"
-label_id: "15158304"
-dtd_version: "2.0"
-original_entry_into_force: "2019-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042690/2019-10-23/0"
-intitule_bron: "Stcrt.2019-57369"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-10-22"
-intitule_in_force: "2019-10-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-57369"
-original_published_date: "2019-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-57369"
-entry_into_force_date: "2019-10-23"
-jci_1_3: "jci1.3:c:BWBR0042690&z=2019-10-23&g=2019-10-23"
-jci_1_0: "1.0:c:BWBR0042690&g=2019-10-23"
-citeertitel_status: "officieel"
-entry_into_force: "2019-10-23"
+publicatiedatum: 2019-10-23
+laatste_update: 2019-10-23
+status: geldig
+toestand: 2019-10-23
+bron: "https://wetten.overheid.nl/BWBR0042690"
+opgehaald: 2026-08-29
 ---
+
 # Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2019;
-
-Besluit:
-
-vast te stellen het Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet op specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904);
+- a. *de wet:* de [Wet op specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904);
 
-- b. **het Fonds:** Stichting Fonds voor Cultuurparticipatie;
+- b. *het Fonds:* Stichting Fonds voor Cultuurparticipatie;
 
-- c. **raad van toezicht:** de raad van toezicht als bedoeld in artikel 11 van de statuten;
+- c. *raad van toezicht:* de raad van toezicht als bedoeld in artikel 11 van de statuten;
 
-- d. **het bestuur:** het bestuur van het Fonds, zoals bedoeld in artikel 5 van de statuten;
+- d. *het bestuur:* het bestuur van het Fonds, zoals bedoeld in artikel 5 van de statuten;
 
-- e. **de minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- e. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- f. **statuten:** de statuten van de Stichting Fonds voor Cultuurparticipatie;
+- f. *statuten:* de statuten van de Stichting Fonds voor Cultuurparticipatie;
 
 ##### Artikel 2. Inrichting van de organisatie
 
@@ -148,11 +119,11 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 4. De medewerkers van het Fonds hebben in ieder geval tot taak:
 
-- −. in hun specifieke aandachtsgebied contact met het veld en de desbetreffende adviescommissie te onderhouden;
+- − in hun specifieke aandachtsgebied contact met het veld en de desbetreffende adviescommissie te onderhouden;
 
-- −. subsidieaanvragen te voorzien van een preadvies waarin de aanvraag wordt getoetst aan de subsidiereglementen en beleidsmatige richtlijnen, waardoor een consistente lijn in advisering wordt gewaarborgd;
+- − subsidieaanvragen te voorzien van een preadvies waarin de aanvraag wordt getoetst aan de subsidiereglementen en beleidsmatige richtlijnen, waardoor een consistente lijn in advisering wordt gewaarborgd;
 
-- −. het beheer van subsidierelaties.
+- − het beheer van subsidierelaties.
 
 5. De medewerkers van het Fonds melden hun functies en nevenfuncties aan het bestuur, zoals nader omschreven in het arbeidsvoorwaardenreglement.
 
@@ -170,21 +141,21 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 6. De voorzitter:
 
-- −. leidt de adviescommissievergadering en treedt daarbij in beginsel op als technisch voorzitter;
+- − leidt de adviescommissievergadering en treedt daarbij in beginsel op als technisch voorzitter;
 
-- −. bereidt de vergadering samen met de secretaris voor;
+- − bereidt de vergadering samen met de secretaris voor;
 
-- −. is verantwoordelijk voor een evenwichtige besluitvorming;
+- − is verantwoordelijk voor een evenwichtige besluitvorming;
 
-- −. ziet erop toe dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidiereglementen en de beleidsmatige richtlijnen;
+- − ziet erop toe dat de adviescommissie zich houdt aan het beoordelingskader, zijnde de subsidiereglementen en de beleidsmatige richtlijnen;
 
-- −. waarborgt een eerlijke en open besluitvorming;
+- − waarborgt een eerlijke en open besluitvorming;
 
-- −. bewaakt de kwaliteit van de voorbereiding door adviescommissieleden;
+- − bewaakt de kwaliteit van de voorbereiding door adviescommissieleden;
 
-- −. bewaakt de integriteit van het beoordelingsproces;
+- − bewaakt de integriteit van het beoordelingsproces;
 
-- −. heeft, waar nodig, een doorslaggevende stem aangaande het advies dat de commissie afgeeft;
+- − heeft, waar nodig, een doorslaggevende stem aangaande het advies dat de commissie afgeeft;
 
 7. Adviescommissievergaderingen zijn niet openbaar.
 
@@ -196,15 +167,15 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 2. De leden van de adviescommissie beschikken over kennis van een of meer van de volgende gebieden:
 
-- −. de nationale en internationale ontwikkelingen van de disciplines amateurkunst, cultuureducatie en erfgoedparticipatie;
+- − de nationale en internationale ontwikkelingen van de disciplines amateurkunst, cultuureducatie en erfgoedparticipatie;
 
-- −. implementatie van de kernwoorden: vernieuwing, verduurzaming, talentontwikkeling, inclusiviteit, culturele diversiteit, ondernemerschap en fair practice binnen subsidieaanvragen;
+- − implementatie van de kernwoorden: vernieuwing, verduurzaming, talentontwikkeling, inclusiviteit, culturele diversiteit, ondernemerschap en fair practice binnen subsidieaanvragen;
 
-- −. de werkwijze van culturele instellingen en scholen in het primair- en voortgezet onderwijs
+- − de werkwijze van culturele instellingen en scholen in het primair- en voortgezet onderwijs
 
-- −. zakelijk inzicht.
+- − zakelijk inzicht.
 
-- a. De leden van de adviescommissie worden door het bestuur benoemd voor een periode van ten hoogste drie jaar, met de mogelijkheid tot herbenoeming van ten hoogste drie jaar.
+3. - a. De leden van de adviescommissie worden door het bestuur benoemd voor een periode van ten hoogste drie jaar, met de mogelijkheid tot herbenoeming van ten hoogste drie jaar.
 
 - b. Voorzitters van de adviescommissies zijn leden van de adviescommissie die als zodanig door het bestuur zijn benoemd. Voorzitters van de adviescommissies worden benoemd voor een periode van drie jaar, met de mogelijkheid tot eenmalige herbenoeming van ten hoogste drie jaar.
 
@@ -224,7 +195,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 ##### Artikel 9. Beoordeling subsidieaanvragen van instellingen en natuurlijke personen
 
-- a. De medewerkers van het Fonds leggen, in beginsel, de subsidieaanvragen die hoger zijn dan € 25.000 gebundeld per regeling voor aan de externe adviescommissie.
+1. - a. De medewerkers van het Fonds leggen, in beginsel, de subsidieaanvragen die hoger zijn dan € 25.000 gebundeld per regeling voor aan de externe adviescommissie.
 
 - b. De medewerkers van het Fonds leggen, in beginsel, de subsidieaanvragen tot en met € 25.000 ter behandeling voor aan de interne commissie.
 
@@ -236,9 +207,9 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 5. Het besluit tot toekenning of afwijzing van de subsidieaanvraag omvat, naast hetgeen wettelijk is vereist:
 
-- –. feitelijke informatie over de aanvraag;
+- – feitelijke informatie over de aanvraag;
 
-- –. de gemotiveerde overwegingen die door de adviescommissie over de aanvraag aan het Fonds zijn uitgebracht.
+- – de gemotiveerde overwegingen die door de adviescommissie over de aanvraag aan het Fonds zijn uitgebracht.
 
 6. Een overzicht van de gehonoreerde aanvragen wordt geplaatst op de website.
 
@@ -246,13 +217,13 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 1. Het Fonds heeft een Gedragscode opgesteld. In de Gedragscode is beschreven waar het Fonds voor staat, wat zijn stakeholders van hem gen verwachten en wat de geldende gedragsregels binnen het Fonds zijn.
 
-- a. Leden van de adviescommissies melden hun (neven)functies aan het bestuur.
+2. - a. Leden van de adviescommissies melden hun (neven)functies aan het bestuur.
 
 - b. Bij aanvang van iedere adviescommissievergadering controleert de secretaris middels een standaardformulier of de betrokken leden van de adviescommissie een belang hebben bij de beraadslaging en besluitvorming. Bij twijfel besluit het bestuur.
 
 - c. Indien in een adviescommissievergadering kwesties aan de orde komen, waarbij een lid van de commissie direct of indirect een eigen belang heeft, of kan hebben, of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de gehele ` beraadslaging en besluitvorming over het onderwerp niet bij. Het lid meldt dit direct aan de secretaris. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.
 
-- a. Indien een medewerker van het Fonds geconfronteerd wordt met ongewenste belangenverstrengeling of tegenstrijdige belangen, dan gaat hij hierover het gesprek aan met zijn leidinggevende of het bestuur van het Fonds.
+3. - a. Indien een medewerker van het Fonds geconfronteerd wordt met ongewenste belangenverstrengeling of tegenstrijdige belangen, dan gaat hij hierover het gesprek aan met zijn leidinggevende of het bestuur van het Fonds.
 
 - b. Indien ten aanzien van het bestuur of (een lid van) de raad van toezicht van het Fonds sprake is van ongewenste belangenverstrengeling of tegenstrijdige belangen, dan meldt de betreffende persoon dit aan de voorzitter van de raad van toezicht en geeft hij daarbij alle relevante informatie. Buiten aanwezigheid van de betreffende persoon neemt de raad van toezicht hierover dan een standpunt in. Of daadwerkelijk sprake is van een tegenstrijdig belang is aan het oordeel van de raad van toezicht. Indien het tegenstrijdige belang de voorzitter zelf betreft, wordt het voorval aan de vicevoorzitter gemeld.
 
@@ -260,7 +231,7 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 ##### Artikel 11. Bezwarenadviescommissie
 
-- a. Bezwaarschriften worden behandeld door een bezwarenadviescommissie. De bezwarenadviescommissie is aangewezen door het bestuur.
+1. - a. Bezwaarschriften worden behandeld door een bezwarenadviescommissie. De bezwarenadviescommissie is aangewezen door het bestuur.
 
 - b. In bijzondere gevallen kunnen er door het bestuur subadviescommissies worden samengesteld.
 
@@ -282,9 +253,9 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 ##### Artikel 12. Klachten
 
-- a. Klachten worden behandeld door een daartoe door het bestuur aan te wijzen functionaris. b. Het bestuur kan, indien naar zijn oordeel de klacht daartoe aanleiding geeft, ervoor kiezen om de klacht ter advisering aan een klachtenadviescommissie voor te leggen.
+1. - a. Klachten worden behandeld door een daartoe door het bestuur aan te wijzen functionaris. b. Het bestuur kan, indien naar zijn oordeel de klacht daartoe aanleiding geeft, ervoor kiezen om de klacht ter advisering aan een klachtenadviescommissie voor te leggen.
 
-- a. Indien de klacht door de in het eerste lid, onderdeel a, bedoelde functionaris wordt afgehandeld, dan handelt het bestuur de klacht binnen 6 weken na de ontvangst daarvan af.
+2. - a. Indien de klacht door de in het eerste lid, onderdeel a, bedoelde functionaris wordt afgehandeld, dan handelt het bestuur de klacht binnen 6 weken na de ontvangst daarvan af.
 
 - b. Indien door een klachtenadviescommissie als bedoeld in het eerste lid, onderdeel b, een advies wordt uitgebracht, dan handelt het bestuur de klacht binnen 10 weken na ontvangst daarvan af.
 
@@ -300,4 +271,4 @@ Indien het bestuur uit meer dan één persoon bestaat, stelt de raad van toezich
 
 3. Dit reglement is na goedkeuring van de minister en de raad van toezicht, vastgesteld door het bestuur op 15 oktober 2019 te Utrecht.
 
-4. Dit reglement treedt in werking met ingang van de dag nadat hij in de Staatscourant is gepubliceerd. Met de inwerkingtreding van deze regeling komt het “[Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544)”, zoals vastgesteld op 4 juni 2014 **(****Stc. 20-01-2016, nr. 1972****)** te vervallen.
+4. Dit reglement treedt in werking met ingang van de dag nadat hij in de Staatscourant is gepubliceerd. Met de inwerkingtreding van deze regeling komt het “[Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0037544)”, zoals vastgesteld op 4 juni 2014 *(**Stc. 20-01-2016, nr. 1972**)* te vervallen.

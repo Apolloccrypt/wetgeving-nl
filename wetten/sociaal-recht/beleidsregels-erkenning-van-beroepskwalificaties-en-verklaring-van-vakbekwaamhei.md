@@ -1,45 +1,27 @@
 ---
 title: "Beleidsregels erkenning van beroepskwalificaties en verklaring van vakbekwaamheid beroepen in de individuele gezondheidszorg"
 identifier: "BWBR0043548"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-05-18"
-last_updated: "2020-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043548"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "15458463"
-version_id: "26717662"
-internal_id: "C37872991"
-label_id: "15401844"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043548/2020-05-18/0"
-intitule_bron: "Stcrt.2020-26685"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-28"
-intitule_published: "2020-05-18"
-intitule_in_force: "2020-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-26685"
-original_signed_date: "2020-04-28"
-original_published_date: "2020-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-26685"
-entry_into_force_date: "2020-05-18"
-jci_1_3: "jci1.3:c:BWBR0043548&z=2020-05-18&g=2020-05-18"
-jci_1_0: "1.0:c:BWBR0043548&g=2020-05-18"
-citeertitel_status: "redactioneel"
-signed_date: "2020-04-28"
-entry_into_force: "2020-05-18"
+publicatiedatum: 2020-05-18
+laatste_update: 2020-05-18
+status: geldig
+toestand: 2020-05-18
+bron: "https://wetten.overheid.nl/BWBR0043548"
+opgehaald: 2026-08-29
 ---
+
 # Beleidsregels erkenning van beroepskwalificaties en verklaring van vakbekwaamheid beroepen in de individuele gezondheidszorg
 
-Beleidsregels van de Minister voor Medische Zorg van 28 april 2020, kenmerk CIBG-20-0433, over de behandeling van een aanvraag van een erkenning van beroepskwalificaties en de aanvraag van een verklaring van vakbekwaamheid van een beroepsbeoefenaar in de individuele gezondheidszorg (Beleidsregels erkenning van beroepskwalificaties en verklaring van vakbekwaamheid beroepen in de individuele gezondheidszorg).
+Beleidsregels van de Minister voor Medische Zorg van 28 april 2020, kenmerk CIBG-20-0433, over de behandeling van een aanvraag van een erkenning van beroepskwalificaties en de aanvraag van een verklaring van vakbekwaamheid van een beroepsbeoefenaar in de individuele gezondheidszorg (Beleidsregels erkenning van beroepskwalificaties en verklaring van vakbekwaamheid beroepen in de individuele gezondheidszorg).
 
 Voor algemene informatie over buitenlandse diploma’s, zie: https://www.bigregister.nl/buitenlands-diploma.
 
 De Minister voor Medische Zorg besluit de volgende beleidsregels vast te stellen met betrekking tot:
+
+- – de behandeling van een aanvraag van een erkenning van beroepskwalificaties als bedoeld in [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), [artikel 45, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45), en [artikel 36a, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a) (Wet BIG).
+
+- – de behandeling van een aanvraag van een verklaring van vakbekwaamheid als bedoeld in [artikel 41, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), [artikel 45, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45), en [artikel 36a, van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36a).
 
 Dit besluit vervangt de [Circulaire Vakbekwaamheid buitenslands gediplomeerden volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0027468) (CIBG/VV-2987442).
 
@@ -85,7 +67,7 @@ De beperking(en) die de Minister aan de inschrijving in het BIG-register kan ste
 
 Betrokkene wordt in het BIG-register ingeschreven onder vermelding van de beperking(en).
 
-De inschrijving op grond van een verklaring van vakbekwaamheid onder beperking(en) wordt een **geclausuleerde** inschrijving genoemd.
+De inschrijving op grond van een verklaring van vakbekwaamheid onder beperking(en) wordt een *geclausuleerde* inschrijving genoemd.
 
 ### 2.2.1.1. Geclausuleerde inschrijving
 
@@ -121,7 +103,7 @@ Indien de Minister op grond van het advies van de Commissie van oordeel is dat e
 
 ### 2.3. Tijdelijke verklaring van vakbekwaamheid
 
-In paragraaf 2.2 is het beleid beschreven betreffende de behandeling van een aanvraag van een verklaring van vakbekwaamheid van de beroepsbeoefenaar in de individuele gezondheidszorg die voor langere tijd in Nederland wil werken. Deze paragraaf heeft betrekking op de behandeling van een aanvraag van een verklaring van vakbekwaamheid voor een geclausuleerde inschrijving van de beroepsbeoefenaar in de individuele gezondheidszorg die tijdelijk in Nederland wil werken. Aan deze beroepsbeoefenaar kan na een verkorte procedure een verklaring van vakbekwaamheid voor een geclausuleerde inschrijving worden afgegeven. Met die verklaring kan hij vervolgens een tijdelijke registratie aanvragen. De Minister is bevoegd tot afgifte van een zodanige verklaring van vakbekwaamheid op grond van [artikel 41, derde lid, van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41). Hij maakt in twee gevallen van deze bevoegdheid gebruik: in het belang van het land van herkomst (2.3.1) of vanwege een wezenlijk Nederlands volksgezondheidsbelang (2.3.2).
+In [paragraaf 2.2](https://wetten.overheid.nl/BWBR0043548) is het beleid beschreven betreffende de behandeling van een aanvraag van een verklaring van vakbekwaamheid van de beroepsbeoefenaar in de individuele gezondheidszorg die voor langere tijd in Nederland wil werken. Deze paragraaf heeft betrekking op de behandeling van een aanvraag van een verklaring van vakbekwaamheid voor een geclausuleerde inschrijving van de beroepsbeoefenaar in de individuele gezondheidszorg die tijdelijk in Nederland wil werken. Aan deze beroepsbeoefenaar kan na een verkorte procedure een verklaring van vakbekwaamheid voor een geclausuleerde inschrijving worden afgegeven. Met die verklaring kan hij vervolgens een tijdelijke registratie aanvragen. De Minister is bevoegd tot afgifte van een zodanige verklaring van vakbekwaamheid op grond van [artikel 41, derde lid, van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41). Hij maakt in twee gevallen van deze bevoegdheid gebruik: in het belang van het land van herkomst ([2.3.1](https://wetten.overheid.nl/BWBR0043548)) of vanwege een wezenlijk Nederlands volksgezondheidsbelang ([2.3.2](https://wetten.overheid.nl/BWBR0043548)).
 
 ### 2.3.1. Belang van het land van herkomst
 
@@ -145,9 +127,15 @@ De aanvraag van de verklaring van vakbekwaamheid voor een geclausuleerde inschri
 
 Hierbij moet de Nederlandse zorginstelling, naast de documenten vermeld in [artikel 7, eerste lid, van het Besluit buitenslands gediplomeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=7), een ondertekende verklaring overleggen waarin zij vermeldt dat:
 
+- – zij in het kader van een wezenlijk Nederlands volksgezondheidsbelang behoefte heeft aan een gekwalificeerde beroepsbeoefenaar;
+
+- – er in Nederland en in de overige landen van de EER en Zwitserland een tekort aan zodanige beroepsbeoefenaren is;
+
+- – zij vergeefs in de lidstaten van de EER en Zwitserland naar een zodanige gekwalificeerde beroepsbeoefenaar heeft gezocht.
+
 Voorts dient de Nederlandse zorginstelling het gestelde tekort aan en de (onsuccesvolle) werving van zodanige gekwalificeerde beroepsbeoefenaren aannemelijk te maken.
 
-De aanvraag kan niet gelijktijdig met een aanvraag van een verklaring van vakbekwaamheid als bedoeld in paragraaf 2.2 worden ingediend.
+De aanvraag kan niet gelijktijdig met een aanvraag van een verklaring van vakbekwaamheid als bedoeld in [paragraaf 2.2](https://wetten.overheid.nl/BWBR0043548) worden ingediend.
 
 ### 2.3.2.2. Geclausuleerde inschrijving
 

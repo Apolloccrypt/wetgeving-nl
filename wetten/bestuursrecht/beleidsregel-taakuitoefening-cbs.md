@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207028, met betrekking tot de taakuitoefening van het Centraal bureau voor de statistiek (Beleidsregel taakuitoefening CBS)"
+citeertitel: "Beleidsregel taakuitoefening CBS"
 identifier: "BWBR0043439"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043439"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15422593"
-version_id: "26655062"
-internal_id: "C37807101"
-label_id: "15366434"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043439/2020-07-01/0"
-intitule_bron: "Stcrt.2020-23676"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-19"
-intitule_published: "2020-04-29"
-intitule_in_force: "2020-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-23676"
-original_signed_date: "2020-04-19"
-original_published_date: "2020-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-23676"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043439&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043439&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel taakuitoefening CBS"
-signed_date: "2020-04-19"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043439"
+opgehaald: 2026-08-29
 ---
+
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207028, met betrekking tot de taakuitoefening van het Centraal bureau voor de statistiek (Beleidsregel taakuitoefening CBS)
-
-Gelet op [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) en de [artikelen 3 tot en met 5 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=3);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanvullende statistische dienst:** een statistische dienst die niet bekostigd wordt uit de algemene bijdrage van de Minister van Economische Zaken en Klimaat;
+- *aanvullende statistische dienst:* een statistische dienst die niet bekostigd wordt uit de algemene bijdrage van de Minister van Economische Zaken en Klimaat;
 
-- **directeur-generaal:** directeur-generaal van de statistiek;
+- *directeur-generaal:* directeur-generaal van de statistiek;
 
-- **innovatief project:** project waarin wordt onderzocht of het gebruik van nieuwe technologieën of processen leidt tot betere statistieken of een efficiënter proces om tot deze statistieken te komen;
+- *innovatief project:* project waarin wordt onderzocht of het gebruik van nieuwe technologieën of processen leidt tot betere statistieken of een efficiënter proces om tot deze statistieken te komen;
 
-- **CBS:** Centraal bureau voor de statistiek.
+- *CBS:* Centraal bureau voor de statistiek.
 
 #### § 2. Aanbieden van diensten
 
@@ -80,7 +54,7 @@ Het CBS stelt het verlenen van een statistische dienst niet afhankelijk van de v
 
 1. Voordat het CBS een verzoek voor het verrichten van een aanvullende statistische dienst aanvaardt, registreert het welke overwegingen ten grondslag liggen aan de keuze de dienst door het CBS te laten verrichten.
 
-2. Voordat het CBS begint met de uitvoering van een aanvullende statistische dienst waarop de [Regeling werkzaamheden derden CBS](onbekend) niet van toepassing is, overweegt het CBS of de dienst, of een deel van de dienst, uitgevoerd kan worden door een private statistische dienstverlener en informeert het de opdrachtgever indien de statistische dienst, of een deel daarvan, ook door private dienstverlening te verkrijgen is, over die mogelijkheid.
+2. Voordat het CBS begint met de uitvoering van een aanvullende statistische dienst waarop de Regeling werkzaamheden derden CBS niet van toepassing is, overweegt het CBS of de dienst, of een deel van de dienst, uitgevoerd kan worden door een private statistische dienstverlener en informeert het de opdrachtgever indien de statistische dienst, of een deel daarvan, ook door private dienstverlening te verkrijgen is, over die mogelijkheid.
 
 3. Het CBS ziet af van het laten uitvoeren van een deel van de dienst, bedoeld in het tweede lid, door een private statistische dienstverlener indien de opdrachtgever kenbaar maakt daartegen bezwaar te hebben.
 
@@ -118,13 +92,13 @@ Indien in het kader van de samenwerking met een private dataleverancier of een p
 
 ##### Artikel 9
 
-1. De directeur-generaal draagt er zorg voor dat binnen het CBS een mededingingsspecialist aanwezig is die het CBS op onafhankelijke wijze adviseert over de toepassing van deze beleidsregel en de [Regeling werkzaamheden derden CBS](onbekend).
+1. De directeur-generaal draagt er zorg voor dat binnen het CBS een mededingingsspecialist aanwezig is die het CBS op onafhankelijke wijze adviseert over de toepassing van deze beleidsregel en de Regeling werkzaamheden derden CBS.
 
 2. De mededingingsspecialist, bedoeld in het eerste lid, brengt minimaal een keer per jaar schriftelijk verslag uit aan de directeur-generaal over de werkzaamheden, bedoeld in het eerste lid.
 
 ##### Artikel 10
 
-1. De directeur-generaal draagt er zorg voor dat er een onafhankelijke klachtencommissie is waarbij marktpartijen klachten kunnen indienen over gedragingen van het CBS met betrekking tot de toepassing van deze beleidsregel of de [Regeling werkzaamheden derden CBS](onbekend).
+1. De directeur-generaal draagt er zorg voor dat er een onafhankelijke klachtencommissie is waarbij marktpartijen klachten kunnen indienen over gedragingen van het CBS met betrekking tot de toepassing van deze beleidsregel of de Regeling werkzaamheden derden CBS.
 
 2. De directeur-generaal neemt geen besluit over de afhandeling van een ingediende klacht voordat de onafhankelijke klachtencommissie hierover een advies heeft uitgebracht.
 
@@ -138,10 +112,8 @@ De directeur-generaal verzoekt de raad van advies de naleving van deze beleidsre
 
 ##### Artikel 12
 
-Deze beleidsregel treedt in werking met ingang van 1 juli 2020.
+Deze beleidsregel treedt in werking met ingang van 1 juli 2020.
 
 ##### Artikel 13
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel taakuitoefening CBS.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 november 2019, houdende vaststelling van het Besluit adviescommissie gegevensverstrekking weigerende observandi"
+citeertitel: "Besluit adviescommissie gegevensverstrekking weigerende observandi"
 identifier: "BWBR0042811"
-country: "nl"
-rank: "amvb"
-publication_date: "2019-11-28"
-last_updated: "2019-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042811"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15257233"
-version_id: "26277742"
-internal_id: "C37344281"
-label_id: "15203724"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042811/2019-11-28/0"
-intitule_bron: "Stb.2019-435"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-19"
-intitule_published: "2019-11-27"
-intitule_in_force: "2019-11-27"
-intitule_status: "goed"
-original_publication: "Stb.2019-435"
-original_signed_date: "2019-11-19"
-original_published_date: "2019-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2019-435"
-entry_into_force_date: "2019-11-28"
-jci_1_3: "jci1.3:c:BWBR0042811&z=2019-11-28&g=2019-11-28"
-jci_1_0: "1.0:c:BWBR0042811&g=2019-11-28"
-citeertitel_status: "officieel"
-short_title: "Besluit adviescommissie gegevensverstrekking weigerende observandi"
-signed_date: "2019-11-19"
-entry_into_force: "2019-11-28"
+publicatiedatum: 2019-11-28
+laatste_update: 2019-11-28
+status: geldig
+toestand: 2019-11-28
+bron: "https://wetten.overheid.nl/BWBR0042811"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 19 november 2019, houdende vaststelling van het Besluit adviescommissie gegevensverstrekking weigerende observandi
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 16 oktober 2019, directie Wetgeving en Juridische Zaken, nr. 2727151;
-
-Gelet op [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) en [artikel 42, vijfde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=42);
-
-De Afdeling advisering van de Raad van State gehoord, advies van 30 oktober 2019, nr. W16.19.0326/II;
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 14 november 2019, directie Wetgeving en Juridische Zaken, nr. 2731901;
-
-Hebben goed gevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,31 +20,31 @@ Hebben goed gevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de behandelaar:** de arts, gedragsdeskundige of rechtspersoon bij wie de voorzitter het dossier met betrekking tot de behandeling van een weigerende observandus opvraagt.
+- a. *de behandelaar:* de arts, gedragsdeskundige of rechtspersoon bij wie de voorzitter het dossier met betrekking tot de behandeling van een weigerende observandus opvraagt.
 
-- b. **de commissie:** de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
+- b. *de commissie:* de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
 
-- c. **het dossier met betrekking tot de behandeling:** het dossier als bedoeld in [artikel 7:454 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=454).
+- c. *het dossier met betrekking tot de behandeling:* het dossier als bedoeld in [artikel 7:454 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=454).
 
-- d. **de leden:** de leden en plaatsvervangende leden van de commissie, met inbegrip van de voorzitter.
+- d. *de leden:* de leden en plaatsvervangende leden van de commissie, met inbegrip van de voorzitter.
 
-- e. **Onze Minister:** Onze Minister voor Rechtsbescherming.
+- e. *Onze Minister:* Onze Minister voor Rechtsbescherming.
 
-- f. **de rapporteurs:** de gedragsdeskundigen als bedoeld in [artikel 37a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
+- f. *de rapporteurs:* de gedragsdeskundigen als bedoeld in [artikel 37a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
 
-- g. **de secretaris:** de secretaris van de commissie.
+- g. *de secretaris:* de secretaris van de commissie.
 
-- h. **de voorzitter:** de voorzitter van de commissie.
+- h. *de voorzitter:* de voorzitter van de commissie.
 
-- i. **de weigerende observandus:** een verdachte van een misdrijf, dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam als bedoeld in [artikel 38e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38e), ten aanzien van wie de rechter toepassing van [artikel 37b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) overweegt en die:
+- i. *de weigerende observandus:* een verdachte van een misdrijf, dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam als bedoeld in [artikel 38e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38e), ten aanzien van wie de rechter toepassing van [artikel 37b van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) overweegt en die:
 
-- a). op grond van een bevel als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) ter observatie opgenomen is geweest in een psychiatrisch ziekenhuis of een inrichting tot klinische observatie bestemd,
+   - a) op grond van een bevel als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) ter observatie opgenomen is geweest in een psychiatrisch ziekenhuis of een inrichting tot klinische observatie bestemd,
 
-- b). weigert medewerking te verlenen aan enig onderzoek als bedoeld in het vierde lid van [artikel 37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), en
+   - b) weigert medewerking te verlenen aan enig onderzoek als bedoeld in het vierde lid van [artikel 37a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a), en
 
-- c). niet bereid is om medewerking te verlenen aan de verstrekking van persoonsgegevens betreffende een mogelijke gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens.
+   - c) niet bereid is om medewerking te verlenen aan de verstrekking van persoonsgegevens betreffende een mogelijke gebrekkige ontwikkeling of ziekelijke stoornis van zijn geestvermogens.
 
-- j. **de wet:** het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
+- j. *de wet:* het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854).
 
 ### Hoofdstuk 2. Werkwijze en besluitvorming
 
@@ -94,7 +62,7 @@ De commissie heeft tot taak te adviseren over de aanwezigheid en de bruikbaarhei
 
 1. Zo spoedig mogelijk na ontvangst van de last vraagt de voorzitter schriftelijk een afschrift van het dossier met betrekking tot de behandeling van de weigerende observandus op bij de in de last genoemde behandelaren. Indien een dossier met betrekking tot de behandeling namen bevat van overige behandelaren van de weigerende observandus, vraagt de voorzitter ook bij die behandelaren schriftelijk een afschrift op van het dossier met betrekking tot de behandeling van betrokkene.
 
-2. Bij dit verzoek stelt de voorzitter de behandelaar schriftelijk in kennis van de te volgen procedure en van de op hem rustende verplichting tot verstrekking van de gevraagde gegevens. Tevens voegt de voorzitter hierbij het als bijlage bij dit besluit opgenomen verstrekkingsformulier.
+2. Bij dit verzoek stelt de voorzitter de behandelaar schriftelijk in kennis van de te volgen procedure en van de op hem rustende verplichting tot verstrekking van de gevraagde gegevens. Tevens voegt de voorzitter hierbij het als [bijlage](https://wetten.overheid.nl/BWBR0042811) bij dit besluit opgenomen verstrekkingsformulier.
 
 ##### Artikel 2.4
 
@@ -208,67 +176,14 @@ Voor zover de leden in het kader van de uitvoering van hun taak de beschikking k
 
 ##### Artikel 5.1
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 6.1
 
-Dit besluit en [artikel 7.1, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.1), en [artikel 7.3a van de Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.3a) en daarmee verband houdende wijzigingen in diverse andere wetten (Stb. 2018, 38) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit Besluit wordt geplaatst.
+Dit besluit en [artikel 7.1, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.1), en [artikel 7.3a van de Wet van 24 januari 2018 tot vaststelling van een Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=7.3a) en daarmee verband houdende wijzigingen in diverse andere wetten (Stb. 2018, 38) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit Besluit wordt geplaatst.
 
 ##### Artikel 6.2
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie gegevensverstrekking weigerende observandi.
-
-## Bijlage. Model verstrekkingsformulier
-
-| **Gegevens weigerende observandus (in te vullen door de voorzitter van de commissie)** | **Gegevens weigerende observandus (in te vullen door de voorzitter van de commissie)** | **Gegevens weigerende observandus (in te vullen door de voorzitter van de commissie)** |
-| --- | --- | --- |
-|   |   |   |
-| Voorletters: | Voorletters: | Voorletters: |
-| Voornaam: | Voornaam: | Voornaam: |
-| Tussenvoegsel: | Tussenvoegsel: | Tussenvoegsel: |
-| Achternaam: | Achternaam: | Achternaam: |
-| Geboortedatum: | Geboortedatum: | Geboortedatum: |
-| Geslacht: | Geslacht: | Geslacht: |
-|   |   |   |
-| **Gegevens behandelaar (in te vullen door de behandelaar)** | **Gegevens behandelaar (in te vullen door de behandelaar)** | **Gegevens behandelaar (in te vullen door de behandelaar)** |
-|   |   |   |
-| Voorletters: | Voorletters: | Voorletters: |
-| Tussenvoegsel: | Tussenvoegsel: | Tussenvoegsel: |
-| Achternaam: | Achternaam: | Achternaam: |
-| Naam instelling (voor zover van toepassing): | Naam instelling (voor zover van toepassing): | Naam instelling (voor zover van toepassing): |
-| Werkadres: | Werkadres: | Werkadres: |
-|   |   |   |
-| Telefoonnummer: | Telefoonnummer: | Telefoonnummer: |
-| Email: | Email: | Email: |
-| Functie: | Functie: | huisarts |
-|   |   | medisch specialist, naam specialisme: |
-|   |   | gedragskundige: |
-|   |   | anders, namelijk: |
-|   |   |   |
-| □ Verstrekt hierbij het aanwezige dossier met betrekking tot de behandeling van de weigerende observandus | □ Verstrekt hierbij het aanwezige dossier met betrekking tot de behandeling van de weigerende observandus | □ Verstrekt hierbij het aanwezige dossier met betrekking tot de behandeling van de weigerende observandus |
-|   |   |   |
-| □ Beschikt niet of niet langer over een dossier met betrekking tot de behandeling van de weigerende observandus, omdat: | □ Beschikt niet of niet langer over een dossier met betrekking tot de behandeling van de weigerende observandus, omdat: | □ Beschikt niet of niet langer over een dossier met betrekking tot de behandeling van de weigerende observandus, omdat: |
-|   | □ deze niet bij hem of haar in behandeling is of is geweest; | □ deze niet bij hem of haar in behandeling is of is geweest; |
-|   | □ deze op [datum invullen] heeft verzocht om vernietiging van het dossier op grond van [artikel 7:455, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=455) en op [datum invullen] gevolg is gegeven aan dat verzoek. | □ deze op [datum invullen] heeft verzocht om vernietiging van het dossier op grond van [artikel 7:455, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=455) en op [datum invullen] gevolg is gegeven aan dat verzoek. |
-|   | □ het dossier met betrekking tot de behandeling is overgedragen aan een andere behandelaar, te weten [gegevens invullen van de behandelaar aan wie het dossier is overgedragen] | □ het dossier met betrekking tot de behandeling is overgedragen aan een andere behandelaar, te weten [gegevens invullen van de behandelaar aan wie het dossier is overgedragen] |
-|   |   |   |
-| **Gegevens dossier met betrekking tot de behandeling** | **Gegevens dossier met betrekking tot de behandeling** | **Gegevens dossier met betrekking tot de behandeling** |
-|   |   |   |
-| Type behandeling: | Type behandeling: | Type behandeling: |
-| Periode van behandeling: | Periode van behandeling: | Periode van behandeling: |
-|   |   |   |
-| **Overig** | **Overig** | **Overig** |
-|   |   |   |
-|   | – Ruimte voor nadere toelichting op het dossier of overige opmerkingen (optioneel) | – Ruimte voor nadere toelichting op het dossier of overige opmerkingen (optioneel) |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-| Ondertekening | Ondertekening | Ondertekening |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,29 +1,27 @@
 ---
-title: "Besluit mandaat en machtiging inzake de uitgifte van identificatiedocumenten van paardachtigen 2020"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 april 2020, nr. WJZ/ 20004577 houdende regels inzake het verlenen van mandaat en machtiging voor de uitgifte van identificatiedocumenten van paardachtigen (Besluit mandaat en machtiging inzake de uitgifte van paardachtigen 2020)"
+citeertitel: "Besluit mandaat en machtiging inzake de uitgifte van identificatiedocumenten van paardachtigen 2020"
 identifier: "BWBR0043395"
-categorie: "Overig"
-publicatiedatum: 2025-02-13
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2020-04-18
 laatste_update: 2025-02-13
 status: vervallen
+vervallen_op: 2026-06-30
+toestand: 2025-02-13
 bron: "https://wetten.overheid.nl/BWBR0043395"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-29
 ---
 
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 april 2020, nr. WJZ/ 20004577 houdende regels inzake het verlenen van mandaat en machtiging voor de uitgifte van identificatiedocumenten van paardachtigen (Besluit mandaat en machtiging inzake de uitgifte van paardachtigen 2020)
 
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 38t, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38t);
-
-Gezien de schriftelijke instemming van de voorzitters van het bestuur van organisaties voor de uitgifte van identificatiedocumenten van paardachtigen, die krachtens dit besluit mandaat en machtiging verkrijgen;
-
-Besluit:
-
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **verordening (EU) nr. 262/2015:** Uitvoeringsverordening (EU) nr. 262/2015 van de Europese Commissie van 17 februari 2015 tot vaststelling van voorschriften overeenkomstig de [Richtlijnen 90/427/EEG](31990L0427) en [2009/156](32009L0156) van de Raad met betrekking tot de methoden voor de identificatie van paardachtigen (verordening paardenpaspoort) (PbEU 2015, L 59).
+- *verordening (EU) nr. 262/2015:* Uitvoeringsverordening (EU) nr. 262/2015 van de Europese Commissie van 17 februari 2015 tot vaststelling van voorschriften overeenkomstig de Richtlijnen 90/427/EEG en 2009/156 van de Raad met betrekking tot de methoden voor de identificatie van paardachtigen (verordening paardenpaspoort) (PbEU 2015, L 59).
 
-#### Artikel 2
+##### Artikel 2
 
 Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [artikel 38t, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38t) voor paardachtigen als bedoeld in artikel 5, eerste lid, onderdeel a, van verordening (EU) 262/2015, aan de voorzitters van het bestuur van:
 
@@ -69,7 +67,7 @@ Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verricht
 
 - u. Het Nederlands Stamboek voor Tinkers;
 
-- v. vervallen;
+- v. *vervallen;*
 
 - w. Merens Stamboek Nederland;
 
@@ -89,11 +87,11 @@ Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verricht
 
 - ee. Stichting Anglo European Studbook.
 
-#### Artikel 3
+##### Artikel 3
 
 Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [artikel 38t, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38t) voor paardachtigen als bedoeld in artikel 5, eerste lid, onderdeel b, van verordening (EU) nr. 262/2015 aan de voorzitter van het bestuur van de Koninklijke Nederlandse Hippische Sportfederatie.
 
-#### Artikel 4
+##### Artikel 4
 
 Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [artikel 38t, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38t) voor paardachtigen als bedoeld in artikel 5, eerste lid, onderdeel c, van verordening (EU) nr. 262/2015 aan de voorzitters van het bestuur van:
 
@@ -101,13 +99,13 @@ Mandaat en machtiging wordt verleend tot het nemen van besluiten en het verricht
 
 - b. Viva Veterinary B.V.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitters, bedoeld in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043395&artikel=2&z=2025-02-13&g=2025-02-13), kunnen, ieder voor zich, voor de in die artikelen bedoelde bevoegdheid en handelingen ondermandaat en machtiging verlenen aan onder hun verantwoordelijkheid werkzame medewerkers.
 
 2. Het verlenen van ondermandaat, bedoeld in het eerste lid, alsmede wijziging daarvan geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en Klimaat.
 
-#### Artikel 6
+##### Artikel 6
 
 Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:
 
@@ -121,16 +119,14 @@ namens deze:
 
 (functie)
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Besluit mandaat en machtiging inzake de uitgifte van identificatiedocumenten van paardachtigen](https://wetten.overheid.nl/jci1.3:c:BWBR0034696) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging inzake de uitgifte van identificatiedocumenten van paardachtigen 2020.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

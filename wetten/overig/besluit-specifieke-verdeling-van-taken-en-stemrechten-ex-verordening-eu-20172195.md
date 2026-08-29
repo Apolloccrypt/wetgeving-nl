@@ -1,36 +1,17 @@
 ---
 title: "Besluit van de Minister van Economische Zaken en Klimaat, houdende specifieke verdeling van taken en stemrechten in verband met Verordening (EU) 2017/2195 van de Commissie tot vaststelling van richtsnoeren voor elektriciteitsbalancering"
+citeertitel: "Besluit specifieke verdeling van taken en stemrechten ex Verordening (EU) 2017/2195 tot vaststelling richtsnoeren voor elektriciteitsbalancering"
 identifier: "BWBR0042846"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-02-01"
-last_updated: "2020-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042846"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15262683"
-version_id: "26287852"
-internal_id: "C37630861"
-label_id: "15208644"
-dtd_version: "2.0"
-original_entry_into_force: "2020-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042846/2020-02-01/0"
-intitule_bron: "Stcrt.2019-66161"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-05"
-intitule_in_force: "2019-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-66161"
-original_published_date: "2019-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-66161"
-entry_into_force_date: "2020-02-01"
-jci_1_3: "jci1.3:c:BWBR0042846&z=2020-02-01&g=2020-02-01"
-jci_1_0: "1.0:c:BWBR0042846&g=2020-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit specifieke verdeling van taken en stemrechten ex Verordening (EU) 2017/2195 tot vaststelling richtsnoeren voor elektriciteitsbalancering"
-entry_into_force: "2020-02-01"
+publicatiedatum: 2020-02-01
+laatste_update: 2020-02-01
+status: geldig
+toestand: 2020-02-01
+bron: "https://wetten.overheid.nl/BWBR0042846"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister van Economische Zaken en Klimaat, houdende specifieke verdeling van taken en stemrechten in verband met Verordening (EU) 2017/2195 van de Commissie tot vaststelling van richtsnoeren voor elektriciteitsbalancering
 
 ##### Artikel 1

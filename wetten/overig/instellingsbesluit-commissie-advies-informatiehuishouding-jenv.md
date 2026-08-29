@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 17 februari 2020, nr. 2355583/19/DI&I, houdende instelling van de Commissie advies informatiehuishouding van het ministerie van Justitie en Veiligheid (Instellingsbesluit Commissie advies informatiehuishouding JenV)"
+citeertitel: "Instellingsbesluit Commissie advies informatiehuishouding JenV"
 identifier: "BWBR0043554"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-05-20"
-last_updated: "2020-05-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043554"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15459603"
-version_id: "26719022"
-internal_id: "C37874841"
-label_id: "15402654"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043554/2020-05-20/0"
-intitule_bron: "Stcrt.2020-26822"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-02-17"
-intitule_published: "2020-05-19"
-intitule_in_force: "2020-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-26822"
-original_signed_date: "2020-02-17"
-original_published_date: "2020-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-26822"
-entry_into_force_date: "2020-05-20"
-jci_1_3: "jci1.3:c:BWBR0043554&z=2020-05-20&g=2020-05-20"
-jci_1_0: "1.0:c:BWBR0043554&g=2020-05-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie advies informatiehuishouding JenV"
-signed_date: "2020-02-17"
-entry_into_force: "2020-05-20"
+publicatiedatum: 2020-05-20
+laatste_update: 2020-05-20
+status: geldig
+toestand: 2020-05-20
+bron: "https://wetten.overheid.nl/BWBR0043554"
+opgehaald: 2026-08-29
 ---
-# Besluit van de Minister van Justitie en Veiligheid van 17 februari 2020, nr. 2355583/19/DI&I, houdende instelling van de Commissie advies informatiehuishouding van het ministerie van Justitie en Veiligheid (Instellingsbesluit Commissie advies informatiehuishouding JenV)
 
-Besluit:
+# Besluit van de Minister van Justitie en Veiligheid van 17 februari 2020, nr. 2355583/19/DI&I, houdende instelling van de Commissie advies informatiehuishouding van het ministerie van Justitie en Veiligheid (Instellingsbesluit Commissie advies informatiehuishouding JenV)
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- a). **minister:** de Minister van Justitie en Veiligheid;
+- a) *minister:* de Minister van Justitie en Veiligheid;
 
-- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043554&artikel=2&z=2020-05-20&g=2020-05-20).
+- b) *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043554&artikel=2&z=2020-05-20&g=2020-05-20).
 
 ##### Artikel 2. Instelling en taak
 
@@ -66,27 +42,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Leden
 
-1. Voor de periode van 17 oktober 2019 tot en met 17 oktober 2023 worden tot voorzitter en lid van de commissie benoemd:
+1. Voor de periode van 17 oktober 2019 tot en met 17 oktober 2023 worden tot voorzitter en lid van de commissie benoemd:
 
-- a). prof. dr. mr. Catrien Bijleveld, voorzitter;
+- a) prof. dr. mr. Catrien Bijleveld, voorzitter;
 
-- b). prof. dr. Frances Brazier, lid;
+- b) prof. dr. Frances Brazier, lid;
 
-- c). prof. dr. Paul Louis Iske, lid;
+- c) prof. dr. Paul Louis Iske, lid;
 
-- d). prof. dr. Charles Jeurgens, lid;
+- d) prof. dr. Charles Jeurgens, lid;
 
-- e). dr. mr. Marcel Verburg, lid;
+- e) dr. mr. Marcel Verburg, lid;
 
-- f). drs. Hans Waalwijk, lid;
+- f) drs. Hans Waalwijk, lid;
 
-- g). drs. Fanny Wallebroek, lid en
+- g) drs. Fanny Wallebroek, lid en
 
-- h). prof. dr. mr. Gerrit-Jan Zwenne, lid.
+- h) prof. dr. mr. Gerrit-Jan Zwenne, lid.
 
 ##### Artikel 5. Instellingsduur
 
-De commissie wordt met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd.
+De commissie wordt met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd.
 
 ##### Artikel 6. Secretariaat
 
@@ -116,10 +92,8 @@ De commissie wordt met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 17 oktober 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 17 oktober 2019.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie advies informatiehuishouding JenV.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

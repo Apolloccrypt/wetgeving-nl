@@ -1,85 +1,56 @@
 ---
 title: "Wet van 8 april 2020, houdende regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)"
+citeertitel: "Kadasterwet BES"
 identifier: "BWBR0043565"
-country: "nl"
-rank: "wet_bes"
-publication_date: "2024-12-11"
-last_updated: "2024-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043565"
+categorie: "Overig"
 soort: "wet-BES"
-stam_id: "15462413"
-version_id: "26725972"
-internal_id: "C38502191"
-label_id: "15406484"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043565/2024-12-11/0"
-intitule_bron: "Stb.2020-149"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-08"
-intitule_published: "2020-05-22"
-intitule_in_force: "2020-12-02"
-intitule_status: "goed"
-original_publication: "Stb.2020-149"
-original_signed_date: "2020-04-08"
-original_published_date: "2020-05-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "35109"
-original_url_id: "stb-2020-149"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0043565&z=2024-12-11&g=2024-12-11"
-jci_1_0: "1.0:c:BWBR0043565&g=2024-12-11"
-citeertitel_status: "officieel"
-short_title: "Kadasterwet BES"
-signed_date: "2020-04-08"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2024-12-11
+status: geldig
+toestand: 2024-12-11
+bron: "https://wetten.overheid.nl/BWBR0043565"
+opgehaald: 2026-08-29
 ---
+
 # Wet van 8 april 2020, houdende regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is dat de kadasterfunctie die ondergebracht is bij de openbare lichamen Bonaire, Sint Eustatius en Saba onder de verantwoordelijkheid van de Dienst voor het kadaster en de openbare registers komt;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-## Titel 1. Toepassingsbereik van de wet
+### Titel 1. Toepassingsbereik van de wet
 
 ##### Artikel 1
 
 Deze wet is van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-## Titel 2. Begripsbepalingen
+### Titel 2. Begripsbepalingen
 
 ##### Artikel 2
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bewaarder:** bewaarder als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=9&z=2024-12-11&g=2024-12-11);
+- *bewaarder:* bewaarder als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=9&z=2024-12-11&g=2024-12-11);
 
-- **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- *Dienst:* Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- **Kadasters:** onderdelen van de Dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=3&z=2024-12-11&g=2024-12-11);
+- *Kadasters:* onderdelen van de Dienst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=1&titeldeel=3&artikel=3&z=2024-12-11&g=2024-12-11);
 
-- **kadastrale registratie:** registratie als bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=3&artikel=55&z=2024-12-11&g=2024-12-11), en de kadastrale kaart van een openbaar lichaam, bedoeld in artikel 55, derde lid;
+- *kadastrale registratie:* registratie als bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=3&artikel=55&z=2024-12-11&g=2024-12-11), en de kadastrale kaart van een openbaar lichaam, bedoeld in artikel 55, derde lid;
 
-- **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **openbare registers:** openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16);
+- *openbare registers:* openbare registers als bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=16);
 
-- **privéschip:** visserijvaartuig, plezierjacht of ander vaartuig bestemd voor privédoeleinden;
+- *privéschip:* visserijvaartuig, plezierjacht of ander vaartuig bestemd voor privédoeleinden;
 
-- **registratie voor luchtvaartuigen:** registratie als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=5&artikel=58&z=2024-12-11&g=2024-12-11);
+- *registratie voor luchtvaartuigen:* registratie als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=5&artikel=58&z=2024-12-11&g=2024-12-11);
 
-- **registratie voor schepen:** registratie als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=4&artikel=56&z=2024-12-11&g=2024-12-11).
+- *registratie voor schepen:* registratie als bedoeld in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=4&artikel=56&z=2024-12-11&g=2024-12-11).
 
 2. De begripsomschrijvingen, opgenomen in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=8) en [10 van Boek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=10), en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=2), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=3a) en [190 van Boek 8 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028753&artikel=190), gelden ook voor deze wet.
 
-## Titel 3. De kadasters
+### Titel 3. De kadasters
 
 ##### Artikel 3
 
@@ -107,11 +78,11 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 - a. de bevordering van de rechtszekerheid ten aanzien van registergoederen in het:
 
-- 1°. rechtsverkeer;
+   - 1°. rechtsverkeer;
 
-- 2°. economisch verkeer;
+   - 2°. economisch verkeer;
 
-- 3°. bestuurlijk verkeer tussen burgers en bestuursorganen;
+   - 3°. bestuurlijk verkeer tussen burgers en bestuursorganen;
 
 - b. de bevordering van een doelmatige geo-informatie-infrastructuur;
 
@@ -129,11 +100,11 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 - c. het in stand houden van een net van coördinaatpunten;
 
-- d. dit onderdeel is nog niet in werking getreden;
+- d. *dit onderdeel is nog niet in werking getreden;*
 
-- e. dit onderdeel is nog niet in werking getreden;
+- e. *dit onderdeel is nog niet in werking getreden;*
 
-- f. dit onderdeel is nog niet in werking getreden;
+- f. *dit onderdeel is nog niet in werking getreden;*
 
 - g. het verstrekken van inlichtingen omtrent gegevens, die de Kadasters hebben verkregen in het kader van de uitvoering van de taken, bedoeld onder a tot en met f;
 
@@ -211,9 +182,9 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 ### Hoofdstuk 2. Openbare registers voor registergoederen
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
-### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers, daaronder begrepen doorhalingen van inschrijvingen; vervanging van de inhoud van de openbare registers
+#### Afdeling 1. Omschrijving en vorm van de openbare registers; aantekeningen in de openbare registers, daaronder begrepen doorhalingen van inschrijvingen; vervanging van de inhoud van de openbare registers
 
 ##### Artikel 12
 
@@ -267,13 +238,13 @@ De Kadasters hebben, onverminderd het bepaalde in andere wettelijke voorschrifte
 
 3. De reproducties, bedoeld in het eerste lid, hebben dezelfde bewijskracht als de oorspronkelijke inhoud van de registers.
 
-### Afdeling 2. Plaats van inschrijving
+#### Afdeling 2. Plaats van inschrijving
 
 ##### Artikel 15
 
 Stukken ter verkrijging van inschrijving van feiten die betrekking hebben op onroerende zaken of de rechten waaraan deze onderworpen zijn, worden aangeboden aan de Kadasters van het openbaar lichaam waarbinnen de onroerende zaken waarop de in te schrijven feiten betrekking hebben, zijn gelegen.
 
-### Afdeling 3. Vereisten voor inschrijving en de wijze waarop deze geschiedt
+#### Afdeling 3. Vereisten voor inschrijving en de wijze waarop deze geschiedt
 
 ##### Artikel 16
 
@@ -343,7 +314,7 @@ Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.
 
 4. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=1&afdeling=3&artikel=19&z=2024-12-11&g=2024-12-11) is van overeenkomstige toepassing, met dien verstande dat de bewaarder op het ingeschreven stuk eveneens van doorhaling van de voorlopige aantekening melding maakt overeenkomstig door het bestuur van de Dienst daartoe vast te stellen regels.
 
-### Afdeling 4. Voorlopige aantekeningen en bewijs van ontvangst
+#### Afdeling 4. Voorlopige aantekeningen en bewijs van ontvangst
 
 ##### Artikel 21
 
@@ -371,9 +342,9 @@ Na de inschrijving, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.
 
 Het bestuur van de Dienst stelt de vorm vast van het bewijs van ontvangst, bedoeld in [artikel 18 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=18), alsmede regels omtrent de wijze waarop op dat bewijs de verrichte inschrijving desverlangd wordt aangetekend, bedoeld in [artikel 19, derde lid, van Boek 3 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=19).
 
-## Titel 2. Vereisten met betrekking tot in te schrijven stukken
+### Titel 2. Vereisten met betrekking tot in te schrijven stukken
 
-### Afdeling 1. Algemene vereisten waaraan in te schrijven stukken moeten voldoen
+#### Afdeling 1. Algemene vereisten waaraan in te schrijven stukken moeten voldoen
 
 ##### Artikel 24
 
@@ -449,7 +420,7 @@ Ingeval het ter inschrijving aangeboden stuk betrekking heeft op een bepaald ree
 
 Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die in de [artikelen 25 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&hoofdstuk=2&titeldeel=2&afdeling=1&artikel=25&z=2024-12-11&g=2024-12-11) voor een zodanig stuk zijn voorgeschreven vermeldt en het naar zijn aard niet voor aanvulling vatbaar is, wordt de vermelding van de ontbrekende gegevens in een nadere, door degene die de inschrijving verlangt ondertekende, verklaring alsnog op het stuk gesteld of daaraan gehecht.
 
-### Afdeling 2. Vereisten waaraan ter inschrijving aangeboden stukken moeten voldoen in verband met de aard van het in te schrijven feit
+#### Afdeling 2. Vereisten waaraan ter inschrijving aangeboden stukken moeten voldoen in verband met de aard van het in te schrijven feit
 
 ##### Artikel 30
 
@@ -459,21 +430,21 @@ Indien een ter inschrijving aangeboden stuk niet een of meer van de gegevens die
 
 - a. de titel op grond waarvan de levering plaatsvindt en, in geval van vestiging van een recht van hypotheek, tevens:
 
-- 1°. een aanduiding van de vordering waarvoor het recht van hypotheek tot zekerheid strekt, of van de feiten aan de hand waarvan die vordering zal kunnen worden bepaald;
+   - 1°. een aanduiding van de vordering waarvoor het recht van hypotheek tot zekerheid strekt, of van de feiten aan de hand waarvan die vordering zal kunnen worden bepaald;
 
-- 2°. het bedrag waarvoor het recht van hypotheek wordt gevestigd of, wanneer dit bedrag nog niet vaststaat, het maximumbedrag dat uit hoofde van dat recht van hypotheek op het goed kan worden verhaald;
+   - 2°. het bedrag waarvoor het recht van hypotheek wordt gevestigd of, wanneer dit bedrag nog niet vaststaat, het maximumbedrag dat uit hoofde van dat recht van hypotheek op het goed kan worden verhaald;
 
-- 3°. in geval van vestiging van een recht van hypotheek op een teboekstaand privéschip of op een recht waaraan een zodanige zaak is onderworpen, bovendien: een duidelijke vermelding van het aan de hypotheek onderworpen privéschip;
+   - 3°. in geval van vestiging van een recht van hypotheek op een teboekstaand privéschip of op een recht waaraan een zodanige zaak is onderworpen, bovendien: een duidelijke vermelding van het aan de hypotheek onderworpen privéschip;
 
-- 4°. in geval van vestiging van een recht van hypotheek op een teboekstaand luchtvaartuig, bovendien: een duidelijke vermelding van het aan de hypotheek onderworpen luchtvaartuig;
+   - 4°. in geval van vestiging van een recht van hypotheek op een teboekstaand luchtvaartuig, bovendien: een duidelijke vermelding van het aan de hypotheek onderworpen luchtvaartuig;
 
 - b. de wettelijke benaming van het recht, op levering waarvan het ter inschrijving aangeboden stuk betrekking heeft, of in geval dat recht geen wettelijke benaming heeft:
 
-- 1°. de gangbare benaming, of de vermelding dat het recht geen gangbare benaming heeft;
+   - 1°. de gangbare benaming, of de vermelding dat het recht geen gangbare benaming heeft;
 
-- 2°. de wettelijk grondslag volgens welke het recht kan worden gevestigd of een registergoed is;
+   - 2°. de wettelijk grondslag volgens welke het recht kan worden gevestigd of een registergoed is;
 
-- 3°. in geval van een recht van grondrente als bedoeld in [artikel 100 van de Overgangswet nieuw Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&artikel=100), de omschrijving van de inhoud van dat recht.
+   - 3°. in geval van een recht van grondrente als bedoeld in [artikel 100 van de Overgangswet nieuw Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028466&artikel=100), de omschrijving van de inhoud van dat recht.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de inschrijving van het proces-verbaal van toewijzing, bedoeld in de [artikelen 525, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=525), en [584o, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=584o), onverminderd hetgeen in ieder van de artikelen in het tweede lid is bepaald.
 
@@ -629,7 +600,7 @@ Ter inschrijving van een verjaring, wordt een door een notaris met inachtneming 
 
 4. Wanneer het aangeboden stuk ook overigens niet aan de vereisten voor inschrijving voldoet, vermeldt de bewaarder bij de voorlopige aantekening tevens de gerezen bedenkingen en is [artikel 20 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=20) van toepassing, met dien verstande dat het daar bedoelde bevel slechts tezamen met dat uit hoofde van het tweede lid kan worden gevorderd.
 
-### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoekschrift, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
+#### Afdeling 3. Vereisten waaraan stukken moeten voldoen, aangeboden ter inschrijving van het instellen van een rechtsvordering, van het indienen van een verzoekschrift, van tegen rechterlijke uitspraken ingestelde rechtsmiddelen of van de waardeloosheid van zodanige inschrijvingen
 
 ##### Artikel 44
 
@@ -649,7 +620,7 @@ Ter inschrijving van de waardeloosheid van een overeenkomstig [artikel 44](https
 
 - b. een rechterlijke uitspraak die ertoe strekt dat een zodanige inschrijving waardeloos is.
 
-### Afdeling 4. Overige bepalingen betreffende inschrijvingen
+#### Afdeling 4. Overige bepalingen betreffende inschrijvingen
 
 ##### Artikel 47
 
@@ -679,7 +650,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 2. Voor zover bij de in het eerste lid bedoelde maatregel niet anders is bepaald, wordt ter inschrijving van een beschikking of van een uitspraak waarbij een beschikking werd vernietigd, ingetrokken of gewijzigd, een afschrift van die beschikking onderscheidenlijk van die uitspraak aangeboden, afgegeven door het bestuursorgaan onderscheidenlijk het rechterlijk orgaan dat de beschikking of de uitspraak gaf.
 
-## Titel 3. Inschrijfbaarheid van andere stukken en van verandering van woonplaats
+### Titel 3. Inschrijfbaarheid van andere stukken en van verandering van woonplaats
 
 ##### Artikel 52
 
@@ -755,7 +726,7 @@ Indien het ter inschrijving aangeboden stuk waarin het in te schrijven feit is o
 
 ##### Artikel 56
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 57
 
@@ -765,11 +736,11 @@ De eigenaar, de beperkt gerechtigde en de gebruiker van een privéschip zijn ver
 
 ##### Artikel 58
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ### Hoofdstuk 6. Bijwerking van de registraties
 
-## Titel 1. Algemene bepalingen
+### Titel 1. Algemene bepalingen
 
 ##### Artikel 59
 
@@ -781,13 +752,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 60
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 61
 
 Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake de bijhouding nadat die bijhouding is voltooid.
 
-## Titel 2. Bijhouding van de kadastrale registratie
+### Titel 2. Bijhouding van de kadastrale registratie
 
 ##### Artikel 62
 
@@ -837,7 +808,7 @@ Een belanghebbende kan bezwaar of beroep instellen tegen een beschikking inzake 
 
 2. Door de Kadasters wordt, indien na schriftelijke aanmaning op een termijn van een maand niet het nodig geoordeelde bijzonderlijk omschreven onderhoud is geschied, op kosten van de nalatige daarin voorzien.
 
-## Titel 3. Kadastrale vernieuwing
+### Titel 3. Kadastrale vernieuwing
 
 ##### Artikel 68
 
@@ -1001,11 +972,11 @@ Ter bescherming van de persoonlijke levenssfeer van personen die in de kadastral
 
 ##### Artikel 86
 
-Wijzigt de Organisatiewet Kadaster.
+*Wijzigt de Organisatiewet Kadaster.*
 
 ##### Artikel 87
 
-Wijzigt het Burgerlijk Wetboek BES Boek 3.
+*Wijzigt het Burgerlijk Wetboek BES Boek 3.*
 
 ### Hoofdstuk 11. Overgangsbepalingen
 
@@ -1031,7 +1002,7 @@ De tarieven, bedoeld in [artikel 3 van de Wet kadaster en registratie onroerende
 
 ##### Artikel 92
 
-De handelingen van het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het verrichten van de taken, bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=2), en de handelingen van de bewaarder, bedoeld in [artikel 1 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het inschrijven van stukken in de openbare registers op grond van [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=8), die hebben plaatsgevonden tussen 10 oktober 2010 en het tijdstip van de inwerkingtreding van deze wet, worden geacht rechtsgeldig verricht te zijn indien het niet rechtsgeldig zijn van deze handelingen gelegen is in het enkele feit dat deze handelingen zijn verricht door personen die niet werkzaam waren voor het Kadaster, bedoeld in artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, maar wel belast waren met de taken, bedoeld in artikel 2 van die wet of artikel 8 van de Wet openbare registers BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
+De handelingen van het Kadaster, bedoeld in [artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het verrichten van de taken, bedoeld in [artikel 2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028509&artikel=2), en de handelingen van de bewaarder, bedoeld in [artikel 1 van de Wet openbare registers BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=1), zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, met betrekking tot het inschrijven van stukken in de openbare registers op grond van [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028516&artikel=8), die hebben plaatsgevonden tussen 10 oktober 2010 en het tijdstip van de inwerkingtreding van deze wet, worden geacht rechtsgeldig verricht te zijn indien het niet rechtsgeldig zijn van deze handelingen gelegen is in het enkele feit dat deze handelingen zijn verricht door personen die niet werkzaam waren voor het Kadaster, bedoeld in artikel 1 van de Wet kadaster en registratie onroerende zaken en beperkte rechten BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, maar wel belast waren met de taken, bedoeld in artikel 2 van die wet of artikel 8 van de Wet openbare registers BES, zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet.
 
 ##### Artikel 93
 
@@ -1062,5 +1033,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 97
 
 Deze wet wordt aangehaald als: Kadasterwet BES.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

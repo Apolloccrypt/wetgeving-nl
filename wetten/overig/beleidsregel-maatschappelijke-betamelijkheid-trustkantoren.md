@@ -1,46 +1,18 @@
 ---
 title: "Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)"
+citeertitel: "Beleidsregel maatschappelijke betamelijkheid trustkantoren"
 identifier: "BWBR0043070"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-01-16"
-last_updated: "2020-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043070"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "15320503"
-version_id: "26412902"
-internal_id: "C37528091"
-label_id: "15265974"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043070/2020-01-16/0"
-intitule_bron: "Stcrt.2020-2288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-01-07"
-intitule_published: "2020-01-15"
-intitule_in_force: "2020-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-2288"
-original_signed_date: "2020-01-07"
-original_published_date: "2020-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-2288"
-entry_into_force_date: "2020-01-16"
-jci_1_3: "jci1.3:c:BWBR0043070&z=2020-01-16&g=2020-01-16"
-jci_1_0: "1.0:c:BWBR0043070&g=2020-01-16"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel maatschappelijke betamelijkheid trustkantoren"
-signed_date: "2020-01-07"
-entry_into_force: "2020-01-16"
+publicatiedatum: 2020-01-16
+laatste_update: 2020-01-16
+status: geldig
+toestand: 2020-01-16
+bron: "https://wetten.overheid.nl/BWBR0043070"
+opgehaald: 2026-08-29
 ---
+
 # Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)
-
-gelet op [artikel 14, eerste, tweede en vierde lid, onderdeel a, subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=14) en [artikel 41, derde lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=41) en [artikel 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) juncto [artikel 1:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3);
-
-met inachtneming van de proportionele toepassing van onderstaande uitgangspunten waarin met aard, omvang en inrichting van trustkantoren rekening wordt gehouden; en van het feit dat DNB in deze beleidsregel geen oordeel zal vellen over welke handelingen van trustkantoren of hun werknemers al dan niet maatschappelijk betamelijk zijn, maar dat DNB zich richt op het toezicht op de invulling van het beleid, en het inregelen van processen en procedures bij trustkantoren die dienen te leiden tot maatschappelijk betamelijk handelen van deze trustkantoren;
-
-Besluit:
 
 #### § 1. Definities
 
@@ -48,15 +20,16 @@ Besluit:
 
 In deze regeling/beleidsregel wordt verstaan onder:
 
-- **DNB:** De Nederlandsche Bank N.V.;
+- *DNB:* De Nederlandsche Bank N.V.;
 
-- **Cliënt:** cliënt als bedoeld in [artikel 1, eerste lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
+- *Cliënt:* cliënt als bedoeld in [artikel 1, eerste lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
 
-- **Incident:** een incident als bedoeld in [artikel 20, vierde lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=20);
+- *Incident:* een incident als bedoeld in [artikel 20, vierde lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=20);
 
-- **Trustkantoor:** een trustkantoor of bijkantoren als bedoeld in [artikel 1, eerste lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
+- *Trustkantoor:* een trustkantoor of bijkantoren als bedoeld in [artikel 1, eerste lid van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=1);
 
-- **Wtt 2018:** [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583).
+- *Wtt 2018:*
+ [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583).
 
 ##### Artikel 2. Beleid en procedures ten aanzien van maatschappelijke betamelijkheid
 
@@ -82,11 +55,11 @@ In deze regeling/beleidsregel wordt verstaan onder:
 
 - h. procedures en maatregelen om te voldoen aan de wettelijke verplichtingen inzake de omgang met incidenten op het gebied van maatschappelijk betamelijkheid, waaronder:
 
-- –. het onverwijld informeren van DNB over het incident
+   - – het onverwijld informeren van DNB over het incident
 
-- –. de maatregelen in reactie op het incident
+   - – de maatregelen in reactie op het incident
 
-- –. een tijdsplan met een datum waarop deze maatregelen zijn uitgevoerd.
+   - – een tijdsplan met een datum waarop deze maatregelen zijn uitgevoerd.
 
 4. Bij de vraag of een trustkantoor de norm adequaat invult, weegt DNB bij het identificeren en mitigeren van de risico’s, bedoeld in het eerste lid, mee in hoeverre het trustkantoor ook gegevens betrekt over de activiteiten die de cliënten van het trustkantoor uitvoeren en de bij die activiteiten betrokken derden, beide voor zover van het trustkantoor redelijkerwijs kan worden verwacht dat zij hiervan op de hoogte is of had moeten zijn.
 

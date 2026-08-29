@@ -1,92 +1,32 @@
 ---
 title: "Besluit van 6 maart 2020, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch technoloog (Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog)"
+citeertitel: "Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog"
 identifier: "BWBR0043300"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043300"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15375393"
-version_id: "26577042"
-internal_id: "C37712541"
-label_id: "15320174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043300/2023-01-01/0"
-intitule_bron: "Stb.2020-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-06"
-intitule_published: "2020-03-20"
-intitule_in_force: "2020-03-20"
-intitule_status: "goed"
-original_publication: "Stb.2020-96"
-original_signed_date: "2020-03-06"
-original_published_date: "2020-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-96"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043300&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0043300&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog"
-signed_date: "2020-03-06"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0043300"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van 6 maart 2020, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch technoloog (Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog)
 
-Op de voordracht van Onze Minister voor Medische Zorg van 10 februari 2020, kenmerk 1644168-201565-WJZ;
-
-Gelet op de [artikelen 33c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33c), [33d](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33d), [41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [94 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=94);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 februari 2020, no. W13.20.0027/III);
-
-Gezien het nader rapport van Onze Minister voor Medische Zorg van 2 maart 2020, kenmerk 1644159-201565-WJZ;
-
-Hebben goedgevonden en verstaan:
-
 #### § 1. Begripsbepaling
-
-#### § 2. Titelbescherming
-
-#### § 2. Titelbescherming
-
-#### § 4. Deskundigheid
-
-#### § 3. Opleiding
-
-##### Artikel 6
-
-Onze Minister kan voor de inwerkingtreding van artikel I, onderdeel A, van de Wet van 24 april 2019, houdende wijziging van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) in verband met het opnemen van de klinisch technoloog in de lijst van registerberoepen en het toekennen van bepaalde voorbehouden handelingen aan klinisch technologen (Stb. 2019, 182) reeds besluiten op aanvragen tot inschrijving in het register voor klinisch technologen. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel I, onderdeel A, als bedoeld in de eerste volzin.
-
-#### § 6. Overige bepalingen
-
-##### Artikel 7
-
-Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
-
-##### Artikel 8
-
-Wijzigt het Registratiebesluit BIG.
-
-##### Artikel 9
-
-Dit besluit treedt in werking met ingang van 1 juli 2020, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 april 2020.
-
-##### Artikel 10
-
-Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder de wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
+#### § 2. Titelbescherming
+
 ##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van klinisch technologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een masteropleiding voor klinisch technoloog heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
+
+#### § 3. Opleiding
 
 ##### Artikel 3
 
@@ -202,20 +142,38 @@ De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 2. Tot de complexe technisch-medische handelingen, bedoeld in het eerste lid, behoren tevens:
 
-- a°. onderzoeken en beoordelen van een patiënt als diagnostiek en op basis van de verkregen gegevens het opstellen van een behandelplan;
+- a° onderzoeken en beoordelen van een patiënt als diagnostiek en op basis van de verkregen gegevens het opstellen van een behandelplan;
 
-- b°. het verrichten van handelingen waartoe de klinisch technoloog op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) bevoegd is;
+- b° het verrichten van handelingen waartoe de klinisch technoloog op grond van [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36) bevoegd is;
 
-- c°. uitvoeren van het behandelplan, begeleiden van een patiënt en het verrichten van gangbare en complexe technisch-medische handelingen;
+- c° uitvoeren van het behandelplan, begeleiden van een patiënt en het verrichten van gangbare en complexe technisch-medische handelingen;
 
-- d°. het stellen van indicaties en het herkennen van complicaties van gangbare en complexe technisch-medische handelingen en verrichtingen en het daarop anticiperen;
+- d° het stellen van indicaties en het herkennen van complicaties van gangbare en complexe technisch-medische handelingen en verrichtingen en het daarop anticiperen;
 
-- e°. verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers.
+- e° verwijzen naar, consulteren van en samenwerken met artsen en met andere gezondheidszorgmedewerkers.
 
 3. De handelingen, bedoeld in het tweede lid onder b, worden uitsluitend verricht voor zover deze handelingen vallen binnen de deskundigheid van gangbare en complexe technisch-medische handelingen als bedoeld in het eerste en tweede lid en deze worden uitgeoefend volgens landelijke geldende richtlijnen, standaarden en daarvan afgeleide protocollen.
 
 #### § 5. Overgangsrecht
 
+##### Artikel 6
+
+Onze Minister kan voor de inwerkingtreding van artikel I, onderdeel A, van de Wet van 24 april 2019, houdende wijziging van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) in verband met het opnemen van de klinisch technoloog in de lijst van registerberoepen en het toekennen van bepaalde voorbehouden handelingen aan klinisch technologen (Stb. 2019, 182) reeds besluiten op aanvragen tot inschrijving in het register voor klinisch technologen. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel I, onderdeel A, als bedoeld in de eerste volzin.
+
 #### § 6. Overige bepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 7
+
+*Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.*
+
+##### Artikel 8
+
+*Wijzigt het Registratiebesluit BIG.*
+
+##### Artikel 9
+
+Dit besluit treedt in werking met ingang van 1 juli 2020, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 april 2020.
+
+##### Artikel 10
+
+Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog.

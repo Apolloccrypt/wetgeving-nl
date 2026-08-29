@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 8 november 2019, nr. 2729205, houdende instelling van de Adviescommissie gegevensverstrekking weigerende observandi (Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi)"
+citeertitel: "Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi"
 identifier: "BWBR0042823"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-11-28"
-last_updated: "2019-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042823"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15258933"
-version_id: "26279822"
-internal_id: "C37347041"
-label_id: "15205234"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042823/2019-11-28/0"
-intitule_bron: "Stcrt.2019-64314"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-08"
-intitule_published: "2019-11-28"
-intitule_in_force: "2019-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-64314"
-original_signed_date: "2019-11-08"
-original_published_date: "2019-11-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-64314"
-entry_into_force_date: "2019-11-28"
-jci_1_3: "jci1.3:c:BWBR0042823&z=2019-11-28&g=2019-11-28"
-jci_1_0: "1.0:c:BWBR0042823&g=2019-11-28"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi"
-signed_date: "2019-11-08"
-entry_into_force: "2019-11-28"
+publicatiedatum: 2019-11-28
+laatste_update: 2019-11-28
+status: geldig
+toestand: 2019-11-28
+bron: "https://wetten.overheid.nl/BWBR0042823"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 8 november 2019, nr. 2729205, houdende instelling van de Adviescommissie gegevensverstrekking weigerende observandi (Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi)
-
-Gelet op [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) en [artikel 2, eerste lid, aanhef en onder a, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel 7.1, onderdeel F, en artikel 7.3a van de Wet forensische zorg in werking treden.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- a. *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- b. **commissie:** de Adviescommissie gegevensverstrekking weigerende observandi
+- b. *commissie:* de Adviescommissie gegevensverstrekking weigerende observandi
 
-- c. **de secretaris:** de secretaris van de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
+- c. *de secretaris:* de secretaris van de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
 
-- d. **de voorzitter:** de voorzitter van de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
+- d. *de voorzitter:* de voorzitter van de multidisciplinaire commissie als bedoeld in [artikel 37a, negende lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a).
 
 ##### Artikel 2. Instelling en taak
 
@@ -127,5 +99,3 @@ Dit besluit treedt in werking op het tijdstip dat [artikel 7.1, onderdeel F](htt
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie gegevensverstrekking weigerende observandi.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

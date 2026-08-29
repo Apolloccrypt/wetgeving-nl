@@ -1,35 +1,16 @@
 ---
 title: "Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 2020"
 identifier: "BWBR0042774"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-03-04"
-last_updated: "2020-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042774"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "15228553"
-version_id: "26217742"
-internal_id: "C37281381"
-label_id: "15175234"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042774/2020-03-04/0"
-intitule_bron: "Stcrt.2019-62445"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-11-18"
-intitule_in_force: "2019-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-62445"
-original_published_date: "2019-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-62445"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0042774&z=2020-03-04&g=2020-03-04"
-jci_1_0: "1.0:c:BWBR0042774&g=2020-03-04"
-citeertitel_status: "officieel"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-03-04
+status: geldig
+toestand: 2020-03-04
+bron: "https://wetten.overheid.nl/BWBR0042774"
+opgehaald: 2026-08-29
 ---
+
 # Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 2020
 
 ### Preambule
@@ -38,63 +19,63 @@ In 1992 richtten de sociale partners in het onderwijs de Stichting Vervangingsfo
 
 Het bestuur stelt, conform het bepaalde op grond van [artikel 183, vierde lid van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) juncto [artikel 169, vierde lid van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), het Reglement Vervangingsfonds vast. In dit reglement wordt bepaald welke rechten de aangeslotenen in het kader van de taakuitoefening van de stichting, als hierboven genoemd, jegens de stichting kunnen doen gelden en tot welke verplichtingen de aangeslotenen jegens de stichting zijn gehouden.
 
-Dit reglement treedt in werking op 1 januari 2020.
+Dit reglement treedt in werking op 1 januari 2020.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
-- 1. **Bedrijfsgezondheidszorg:** de dienstverlening van het Vervangingsfonds ter voorkoming en terugdringing van ziekteverzuim en de verbetering van arbeidsomstandigheden.
+- 1. *Bedrijfsgezondheidszorg:* de dienstverlening van het Vervangingsfonds ter voorkoming en terugdringing van ziekteverzuim en de verbetering van arbeidsomstandigheden.
 
-- 2. **Bekostiging:** de bekostiging van vervanging door en ten laste van het Vervangingsfonds.
+- 2. *Bekostiging:* de bekostiging van vervanging door en ten laste van het Vervangingsfonds.
 
-- 3. **Bestuur:** het bestuur van de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs.
+- 3. *Bestuur:* het bestuur van de Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs.
 
-- 4. **Bevoegd gezag:** een bevoegd gezag als bedoeld in [artikel 1 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een samenwerkingsverband passend onderwijs als bedoeld in [artikel 18a van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a).
+- 4. *Bevoegd gezag:* een bevoegd gezag als bedoeld in [artikel 1 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een samenwerkingsverband passend onderwijs als bedoeld in [artikel 18a van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a).
 
-- 5. **Bovenbestuurlijke vervangingspool:** een vervangingspool die in stand wordt gehouden door twee of meer bevoegde gezagsorganen.
+- 5. *Bovenbestuurlijke vervangingspool:* een vervangingspool die in stand wordt gehouden door twee of meer bevoegde gezagsorganen.
 
-- 6. **Detachering:** de constructie waarbij een bij het Vervangingsfonds aangesloten bevoegd gezag personeel dat bij dit bevoegd gezag in dienst is, tegen een overeengekomen vergoeding, werkzaamheden laat verrichten bij een ander bij het Vervangingsfonds aangesloten bevoegd gezag.
+- 6. *Detachering:* de constructie waarbij een bij het Vervangingsfonds aangesloten bevoegd gezag personeel dat bij dit bevoegd gezag in dienst is, tegen een overeengekomen vergoeding, werkzaamheden laat verrichten bij een ander bij het Vervangingsfonds aangesloten bevoegd gezag.
 
-- 7. **Dienstverband:**
+- 7. *Dienstverband:*
 
-- a. de benoeming van personeel bij de werkgever in het bijzonder onderwijs;
+   - a. de benoeming van personeel bij de werkgever in het bijzonder onderwijs;
 
-- b. de aanstelling van personeel bij de werkgever in het openbaar onderwijs.
+   - b. de aanstelling van personeel bij de werkgever in het openbaar onderwijs.
 
-- 8. **Eigenrisicodrager:** een bevoegd gezag waaraan op grond van de bepalingen in dit reglement het eigenrisicodragerschap is verleend voor de kosten van vervanging.
+- 8. *Eigenrisicodrager:* een bevoegd gezag waaraan op grond van de bepalingen in dit reglement het eigenrisicodragerschap is verleend voor de kosten van vervanging.
 
-- 9. **Extern personeel:** al het personeel dat niet werkzaam is bij een bevoegd gezag op basis van een akte van aanstelling of een akte van benoeming.
+- 9. *Extern personeel:* al het personeel dat niet werkzaam is bij een bevoegd gezag op basis van een akte van aanstelling of een akte van benoeming.
 
-- 10. **Financiële variant:** één van de financiële vereveningsvarianten als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=6&z=2020-03-04&g=2020-03-04) van het reglement waarvan eigenrisicodragers gebruik van kunnen maken.
+- 10. *Financiële variant:* één van de financiële vereveningsvarianten als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=6&z=2020-03-04&g=2020-03-04) van het reglement waarvan eigenrisicodragers gebruik van kunnen maken.
 
-- 11. **Informatieprotocol:** de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&bijlage=6&z=2020-03-04&g=2020-03-04) bij dit reglement waarin de wijze van aanlevering van gegevens voor wat betreft de vorm en inhoud, die door een bevoegd gezag moet worden aangeleverd wordt beschreven.
+- 11. *Informatieprotocol:* de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&bijlage=6&z=2020-03-04&g=2020-03-04) bij dit reglement waarin de wijze van aanlevering van gegevens voor wat betreft de vorm en inhoud, die door een bevoegd gezag moet worden aangeleverd wordt beschreven.
 
-- 12. **Ketenvervanger:** e vervanger van een personeelslid met een dienstverband bij het bevoegd gezag die een ander personeelslid, dat afwezig is in verband met het vervangen van een wegens ziekte of schorsing afwezig ander personeelslid, met een dienstverband bij hetzelfde bevoegd gezag vervangt.
+- 12. *Ketenvervanger:* e vervanger van een personeelslid met een dienstverband bij het bevoegd gezag die een ander personeelslid, dat afwezig is in verband met het vervangen van een wegens ziekte of schorsing afwezig ander personeelslid, met een dienstverband bij hetzelfde bevoegd gezag vervangt.
 
-- 13. **Ketenvervanging:** de situatie waarbij een wegens ziekte of schorsing afwezig personeelslid, wordt vervangen door een ander personeelslid met een dienstverband bij hetzelfde bevoegd gezag en die als gevolg van die afwezigheid zelf wordt vervangen door de ketenvervanger. De keten bestaat uitsluitend uit de afwezige, diens vervanger en de ketenvervanger.
+- 13. *Ketenvervanging:* de situatie waarbij een wegens ziekte of schorsing afwezig personeelslid, wordt vervangen door een ander personeelslid met een dienstverband bij hetzelfde bevoegd gezag en die als gevolg van die afwezigheid zelf wordt vervangen door de ketenvervanger. De keten bestaat uitsluitend uit de afwezige, diens vervanger en de ketenvervanger.
 
-- 14. **Niet aangemeld personeel:** personeel met een dienstverband dat niet valt onder de verplichte aansluiting en dat ook niet vrijwillig is aangemeld.
+- 14. *Niet aangemeld personeel:* personeel met een dienstverband dat niet valt onder de verplichte aansluiting en dat ook niet vrijwillig is aangemeld.
 
-- 15. **Normbekostiging:** de wijze waarop het Vervangingsfonds de vervanging die voor bekostiging in aanmerking komt vergoedt.
+- 15. *Normbekostiging:* de wijze waarop het Vervangingsfonds de vervanging die voor bekostiging in aanmerking komt vergoedt.
 
-- 16. **Payrolling:** de constructie, waarbij personeel in dienst is van een payrollonderneming en waarbij dit personeel feitelijk werkt voor een bevoegd gezag. Bij payrolling is de payrollonderneming juridisch de werkgever en zorgt het bevoegd gezag voor de werving en selectie.
+- 16. *Payrolling:* de constructie, waarbij personeel in dienst is van een payrollonderneming en waarbij dit personeel feitelijk werkt voor een bevoegd gezag. Bij payrolling is de payrollonderneming juridisch de werkgever en zorgt het bevoegd gezag voor de werving en selectie.
 
-- 17. **Personeel:** personeel als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 18a van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 1 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1).
+- 17. *Personeel:* personeel als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 18a van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 1 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1).
 
-- 18. **Reguliere bekostiging:** de situatie waarin een bevoegd gezag geen eigenrisicodrager is.
+- 18. *Reguliere bekostiging:* de situatie waarin een bevoegd gezag geen eigenrisicodrager is.
 
-- 19. **SNA-keurmerk:** et keurmerk dat wordt uitgereikt door de Stichting Normering Arbeid.
+- 19. *SNA-keurmerk:* et keurmerk dat wordt uitgereikt door de Stichting Normering Arbeid.
 
-- 20. **Uitzendarbeid:** de constructie, waarbij personeel in dienst is van een uitzendorganisatie en waarbij dit personeel feitelijk werkt voor een bevoegd gezag.
+- 20. *Uitzendarbeid:* de constructie, waarbij personeel in dienst is van een uitzendorganisatie en waarbij dit personeel feitelijk werkt voor een bevoegd gezag.
 
-- 21. **Vervangingspool:** een pool waarin één of meerdere personeelsleden worden geplaatst met een regulier dienstverband, die door het bevoegd gezag structureel voor vervangingswerkzaamheden worden ingezet.
+- 21. *Vervangingspool:* een pool waarin één of meerdere personeelsleden worden geplaatst met een regulier dienstverband, die door het bevoegd gezag structureel voor vervangingswerkzaamheden worden ingezet.
 
-- 22. **Vrijwillig aangemeld personeel:** personeel dat niet onder de verplichte aansluiting valt en dat vrijwillig door het bevoegd gezag bij het Vervangingsfonds is aangemeld.
+- 22. *Vrijwillig aangemeld personeel:* personeel dat niet onder de verplichte aansluiting valt en dat vrijwillig door het bevoegd gezag bij het Vervangingsfonds is aangemeld.
 
-- 23. **Wpo:** de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
+- 23. *Wpo:* de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-- 24. **Wec:** de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+- 24. *Wec:* de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
 ### Hoofdstuk 2. Aansluiting bij het Vervangingsfonds
 
@@ -110,11 +91,11 @@ Dit reglement treedt in werking op 1 januari 2020.
 
 Personeelsleden:
 
-- a. met een dienstverband dat voor 5 juli 2006 tot stand is gekomen en op die datum niet door het Rijk werden bekostigd;
+- a. met een dienstverband dat voor 5 juli 2006 tot stand is gekomen en op die datum niet door het Rijk werden bekostigd;
 
-- b. met een dienstverband dat tussen 5 juli 2006 en 1 januari 2009 tot stand is gekomen;
+- b. met een dienstverband dat tussen 5 juli 2006 en 1 januari 2009 tot stand is gekomen;
 
-- c. die tussen 5 juli 2006 en 1 januari 2009 een andere functie binnen het bevoegd gezag waar dit personeelslid werkzaam was hebben gekregen,
+- c. die tussen 5 juli 2006 en 1 januari 2009 een andere functie binnen het bevoegd gezag waar dit personeelslid werkzaam was hebben gekregen,
 
 zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze personeelsleden wordt niet bekostigd door het Vervangingsfonds.
 
@@ -126,7 +107,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 3. De aanmelding:
 
-- a. moet uiterlijk op 31 oktober door het Vervangingsfonds zijn ontvangen;
+- a. moet uiterlijk op 31 oktober door het Vervangingsfonds zijn ontvangen;
 
 - b. geldt met ingang van het kalenderjaar volgend op het jaar waarin deze aanmelding heeft plaatsgevonden;
 
@@ -138,15 +119,15 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 1. Een bevoegd gezag kan eigenrisicodrager worden, indien is voldaan aan de volgende voorwaarden:
 
-- a. het Vervangingsfonds moet de aanvraag uiterlijk 31 oktober hebben ontvangen;
+- a. het Vervangingsfonds moet de aanvraag uiterlijk 31 oktober hebben ontvangen;
 
 - b. het bevoegd gezag overlegt een verklaring waaruit blijkt dat de aanvraag met instemming van de PMR of, indien sprake is van een PGMR, de PGMR, is gedaan.
 
 2. Het Vervangingsfonds beslist binnen 8 weken na ontvangst van de aanvraag of het eigenrisicodragerschap wordt verleend.
 
-3. Het eigenrisicodragerschap gaat in per 1 januari volgend op het jaar waarin de aanvraag is ingediend en geldt voor onbepaalde tijd.
+3. Het eigenrisicodragerschap gaat in per 1 januari volgend op het jaar waarin de aanvraag is ingediend en geldt voor onbepaalde tijd.
 
-4. Een eigenrisicodrager kan het Vervangingsfonds schriftelijk verzoeken het eigenrisicodragerschap op te heffen per 1 januari van het volgende kalenderjaar. Dit verzoek moet uiterlijk 31 oktober door het Vervangingsfonds zijn ontvangen.
+4. Een eigenrisicodrager kan het Vervangingsfonds schriftelijk verzoeken het eigenrisicodragerschap op te heffen per 1 januari van het volgende kalenderjaar. Dit verzoek moet uiterlijk 31 oktober door het Vervangingsfonds zijn ontvangen.
 
 5. Indien er bij een eigenrisicodrager wijzigingen optreden als gevolg van fusie of splitsing, informeert deze eigenrisicodrager het Vervangingsfonds uiterlijk 8 weken voordat deze wijzigingen zullen plaatsvinden.
 
@@ -154,7 +135,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 1. Indien aan een bevoegd gezag het eigenrisicodragerschap wordt verleend, worden lopende vervangingen wegens ziekte en schorsing per de ingangsdatum van het eigenrisicodragerschap niet meer door het Vervangingsfonds bekostigd.
 
-2. Indien een eigenrisicodrager het eigenrisicodragerschap opzegt, komt vervanging wegens ziekte en schorsing per 1 januari van het volgende kalenderjaar voor bekostiging in aanmerking.
+2. Indien een eigenrisicodrager het eigenrisicodragerschap opzegt, komt vervanging wegens ziekte en schorsing per 1 januari van het volgende kalenderjaar voor bekostiging in aanmerking.
 
 ### Hoofdstuk 3. Premie
 
@@ -170,7 +151,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 ##### Artikel 8. Premiepercentages
 
-1. Het bestuur stelt jaarlijks uiterlijk op 15 oktober de hoogte van de premiepercentages voor het volgende kalenderjaar vast.
+1. Het bestuur stelt jaarlijks uiterlijk op 15 oktober de hoogte van de premiepercentages voor het volgende kalenderjaar vast.
 
 2. Indien er aanleiding toe is, kan het bestuur besluiten tot een tussentijdse wijziging van de premiepercentages.
 
@@ -184,11 +165,11 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 2. Op basis van de aangeleverde gegevens over de verslagmaanden januari tot en met december, wordt de bonus-malus verhouding berekend door het totaal van de vastgestelde normvergoedingen te delen door de premie die voor dat kalenderjaar is verschuldigd.
 
-3. Bij het berekenen van de bonus-malus verhouding, vormen de gegevens van het door het bevoegd gezag op 31 januari in stand gehouden scholen van het volgende kalenderjaar de basis.
+3. Bij het berekenen van de bonus-malus verhouding, vormen de gegevens van het door het bevoegd gezag op 31 januari in stand gehouden scholen van het volgende kalenderjaar de basis.
 
 4. Het Vervangingsfonds berekent de bonus-malus afrekening conform de ‘Werkwijze bonus-malus regeling’, opgenomen als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&bijlage=2&z=2020-03-04&g=2020-03-04) in dit reglement.
 
-5. Het Vervangingsfonds maakt de beslissing over de bonus-malus afrekening over het voorgaande kalenderjaar jaarlijks bekend voor 15 oktober. Deze termijn kan met uiterlijk 6 weken worden verlengd, mits dit door het Vervangingsfonds voor 8 oktober bekend wordt gemaakt.
+5. Het Vervangingsfonds maakt de beslissing over de bonus-malus afrekening over het voorgaande kalenderjaar jaarlijks bekend voor 15 oktober. Deze termijn kan met uiterlijk 6 weken worden verlengd, mits dit door het Vervangingsfonds voor 8 oktober bekend wordt gemaakt.
 
 ##### Artikel 10. Toepassingsbereik
 
@@ -210,7 +191,7 @@ zijn niet verplicht aangesloten bij het Vervangingsfonds. Vervanging van deze pe
 
 Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisicodrager die gebruik maakt van een financiële variant, komt in aanmerking voor bekostiging van vervanging, indien is voldaan aan de voorwaarden van dit artikel.
 
-- 1. Het bevoegd gezag overlegt jaarlijks uiterlijk op 31 januari de compliance-verklaring die het Vervangingsfonds aan het bevoegd gezag heeft verstrekt. Zolang deze verklaring niet door het Vervangingsfonds is ontvangen, wordt de bekostiging opgeschort.
+- 1. Het bevoegd gezag overlegt jaarlijks uiterlijk op 31 januari de compliance-verklaring die het Vervangingsfonds aan het bevoegd gezag heeft verstrekt. Zolang deze verklaring niet door het Vervangingsfonds is ontvangen, wordt de bekostiging opgeschort.
 
 - 2. Het bevoegd gezag is premie verschuldigd voor het afwezige personeelslid.
 
@@ -218,9 +199,9 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - 4. Het personeelslid dat wordt vervangen is afwezig wegens:
 
-- a. ziekte; of
+   - a. ziekte; of
 
-- b. schorsing als bedoeld in de cao po.
+   - b. schorsing als bedoeld in de cao po.
 
 - 5. Het bevoegd gezag heeft ten behoeve van de afwezige geen aanspraak op een Ziektewet-uitkering.
 
@@ -228,17 +209,17 @@ Een bevoegd gezag dat valt onder de reguliere bekostiging dan wel een eigenrisic
 
 - 7. De vervanging heeft tot extra kosten geleid voor het bevoegd gezag, die niet gemaakt zouden zijn als de vervanging niet had plaatsgevonden. Deze voorwaarde geldt niet, indien sprake is van vervanging door een personeelslid met een akte van aanstelling of een akte van benoeming en dat:
 
-- a. is geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=5&z=2020-03-04&g=2020-03-04) van dit reglement;
+   - a. is geplaatst in een vervangingspool als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=5&z=2020-03-04&g=2020-03-04) van dit reglement;
 
-- b. werkzaam is in een functie die is geplaatst in het RDDF;
+   - b. werkzaam is in een functie die is geplaatst in het RDDF;
 
-- c. in de tweede fase van een sociaal plan zit en met ontslag wordt bedreigd;
+   - c. in de tweede fase van een sociaal plan zit en met ontslag wordt bedreigd;
 
-- d. vrijwillig is aangemeld bij het Vervangingsfonds.
+   - d. vrijwillig is aangemeld bij het Vervangingsfonds.
 
-- e. werkzaam is op basis van een dienstverband voor kennelijk tijdelijk werk als bedoeld in artikel 3.1 van de cao po.
+   - e. werkzaam is op basis van een dienstverband voor kennelijk tijdelijk werk als bedoeld in artikel 3.1 van de cao po.
 
-- 8. De vervanger van een leraar voldoet aan de bevoegdheidseisen voor leraar, genoemd in [artikel 3 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) dan wel [artikel 3 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3). Deze voorwaarde geldt niet voor vervanging van de eerste dag afwezigheid wegens ziekte van een leraar die op of na 1 mei 2019 heeft plaatsgevonden.
+- 8. De vervanger van een leraar voldoet aan de bevoegdheidseisen voor leraar, genoemd in [artikel 3 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) dan wel [artikel 3 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3). Deze voorwaarde geldt niet voor vervanging van de eerste dag afwezigheid wegens ziekte van een leraar die op of na 1 mei 2019 heeft plaatsgevonden.
 
 - 9. Vervanging door extern personeel anders dan uitzendpersoneel of personeel werkzaam bij een payroll onderneming, heeft plaatsgevonden ten behoeve van vervanging van een directielid of onderwijsondersteunend personeel. Vervanging van leraren door dit extern personeel wordt niet door het Vervangingsfonds bekostigd.
 
@@ -290,13 +271,13 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00427
 
 1. Een bevoegd gezag dat valt onder de reguliere bekostiging, kan bij het Vervangingsfonds schriftelijk een aanvraag indienen, om al dan niet samen met andere bevoegde gezagsorganen een vervangingspool op te richten.
 
-2. Het bevoegd gezag kan kiezen voor een vervangingspool met een grootte van maximaal 4 of maximaal 6 procent van de totale formatie exclusief de vervangers. De peildatum voor het bepalen van deze grootte is 1 oktober voorafgaand het jaar waarin de vervangingspool wordt ingezet.
+2. Het bevoegd gezag kan kiezen voor een vervangingspool met een grootte van maximaal 4 of maximaal 6 procent van de totale formatie exclusief de vervangers. De peildatum voor het bepalen van deze grootte is 1 oktober voorafgaand het jaar waarin de vervangingspool wordt ingezet.
 
-3. De ingangsdatum van een vervangingspool is 1 januari volgend op het jaar waarin de vervangingspool is aangevraagd. De aanvraag voor een vervangingspool moet uiterlijk 31 oktober door het Vervangingsfonds zijn ontvangen. Het Vervangingsfonds beslist binnen 8 weken op de aanvraag.
+3. De ingangsdatum van een vervangingspool is 1 januari volgend op het jaar waarin de vervangingspool is aangevraagd. De aanvraag voor een vervangingspool moet uiterlijk 31 oktober door het Vervangingsfonds zijn ontvangen. Het Vervangingsfonds beslist binnen 8 weken op de aanvraag.
 
-4. De vervangingspool wordt voor onbepaalde tijd verleend. Het bevoegd gezag kan de vervangingspool schriftelijk opzeggen. Deze opzegging moet uiterlijk op 31 oktober door het Vervangingsfonds zijn ontvangen.
+4. De vervangingspool wordt voor onbepaalde tijd verleend. Het bevoegd gezag kan de vervangingspool schriftelijk opzeggen. Deze opzegging moet uiterlijk op 31 oktober door het Vervangingsfonds zijn ontvangen.
 
-5. Opzegging van een vervangingspool is slechts mogelijk per 1 januari nadat de opzegging conform het vierde lid tijdig heeft plaatsgevonden.
+5. Opzegging van een vervangingspool is slechts mogelijk per 1 januari nadat de opzegging conform het vierde lid tijdig heeft plaatsgevonden.
 
 6. Een aanvraag voor een bovenbestuurlijke vervangingspool kan gedurende het hele kalenderjaar worden ingediend en start niet eerder dan de eerste van de maand volgend op de maand waarin deze is aangevraagd.
 
@@ -356,7 +337,7 @@ Indien is voldaan aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR00427
 
 2. Een bevoegd gezag dat geen eigenrisicodrager is, kan zich aanmelden voor een financiële variant onder de voorwaarde dat uiterlijk op de ingangsdatum van de financiële variant het eigenrisicodragerschap wordt verleend.
 
-3. De ingangsdatum van een financiële variant is 1 januari. De schriftelijke aanmelding moet uiterlijk 31 oktober hier voorafgaand door het Vervangingsfonds zijn ontvangen.
+3. De ingangsdatum van een financiële variant is 1 januari. De schriftelijke aanmelding moet uiterlijk 31 oktober hier voorafgaand door het Vervangingsfonds zijn ontvangen.
 
 4. De aanmelding voor een financiële variant geldt voor al het personeel van het bevoegd gezag.
 
@@ -374,9 +355,9 @@ Een bevoegd gezag dat gebruik maakt van een financiële variant, komt voor bekos
 
 1. Het gebruik van een financiële variant geldt voor onbepaalde tijd.
 
-2. Wijziging of opzegging van een financiële variant is mogelijk per 1 januari. Het schriftelijk verzoek tot wijziging of opzegging dient uiterlijk op 31 oktober hieraan voorafgaand door het Vervangingsfonds te zijn ontvangen.
+2. Wijziging of opzegging van een financiële variant is mogelijk per 1 januari. Het schriftelijk verzoek tot wijziging of opzegging dient uiterlijk op 31 oktober hieraan voorafgaand door het Vervangingsfonds te zijn ontvangen.
 
-3. Indien een bevoegd gezag het eigenrisicodragerschap heeft opgezegd, eindigt het gebruik van de financiële variant per 1 januari van het daaropvolgend kalenderjaar.
+3. Indien een bevoegd gezag het eigenrisicodragerschap heeft opgezegd, eindigt het gebruik van de financiële variant per 1 januari van het daaropvolgend kalenderjaar.
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -420,293 +401,10 @@ Dit reglement wordt aangehaald als ‘Reglement Vervangingsfonds en Bedrijfsgezo
 
 1. Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.
 
-2. Dit reglement treedt in werking op 1 januari 2020 en is van toepassing op het kalenderjaar 2020. Voor vervanging die in 2020 heeft plaatsgevonden, is dit reglement voor onbepaalde tijd van toepassing.
+2. Dit reglement treedt in werking op 1 januari 2020 en is van toepassing op het kalenderjaar 2020. Voor vervanging die in 2020 heeft plaatsgevonden, is dit reglement voor onbepaalde tijd van toepassing.
 
 ##### Artikel 29. Hardheidsclausule
 
 1. Om zwaarwegende redenen kan het bestuur, op eigen initiatief dan wel op schriftelijk verzoek van een bevoegd gezag, afwijken van de bepalingen in dit reglement. Bij de belangenafweging die in het kader van een beroep op de hardheidsclausule plaatsvindt, wordt alleen gekeken naar de omstandigheden van het bevoegd gezag.
 
 2. Een beroep op de hardheidsclausule dat betrekking heeft op een besluit dat onherroepelijk is geworden, wordt afgewezen.
-
-## Bijlage 1. Premie
-
-Schoolbesturen binnen het primair onderwijs die bij het Vervangingsfonds zijn aangesloten, dragen premie aan het Vervangingsfonds af. Dit staat vermeld in [artikel 183, tweede lid van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=183) en [artikel 170, tweede lid van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=170).
-
-Voor het bepalen voor welke personeelsleden er wel of geen premie moet worden afgedragen, hanteert het Vervangingsfonds verschillende aansluitcodes. Ook geldt er een onderscheid tussen volledige aansluiting bij het Vf, volledig eigenrisicodragerschap en eigenrisicodragerschap met een financiële variant.
-
-Hieronder volgt een overzicht van de verschillende aansluitcodes en welke personeelsleden er bij de aansluitcodes horen.
-
-| Verzekeringsvorm | VF premieplicht | PF premieplicht | Code in ‘Mijn Vf’ | Personeel |
-| --- | --- | --- | --- | --- |
-| Verplicht | x | x | 01 | • Personeel aangesteld bij een bg vóór 5-7-2006 en bekostigd door het Rijk. • Personeel dat aangesteld is bij een bg vanaf 1-1-2009. • Personeel aangesteld voor vervanging, anders dan wegens ziekte of schorsing. |
-| Vrijwillig | x | x | 02 | • Het personeel dat vrijwillig is aangemeld. |
-| Niet aangesloten bij VF en PF |   |   | 03 | • Personeel aangesteld voor vervanging van, wegens ziekte of schorsing, afwezig personeel waarvoor de kosten ten laste van het VF worden geboekt. |
-| Alleen aangesloten bij PF |   | x | 04 | • Personeel dat aangesteld is bij een bg in de periode tussen 5-7-2006 en 1-1-2009 of in die periode een andere functie binnen het bg heeft gekregen en niet vrijwillig is aangemeld. • Personeel aangesteld bij een bg vóór 5-7-2006, niet door het Rijk bekostigd en niet vrijwillig aangemeld. • Personeel met een VF-pooleraanstelling. |
-
-| Verzekeringsvorm | VF premieplicht | PF premieplicht | Code in ‘Mijn Vf’ | Personeel |
-| --- | --- | --- | --- | --- |
-| Verplicht | x | x | 01 | • Personeel aangesteld bij een bg vóór 5-7-2006 en bekostigd door het Rijk. • Personeel dat aangesteld is bij een bg vanaf 1-1-2009. • Personeel aangesteld voor vervanging van afwezig personeel. |
-| Vrijwillig | x | x | 02 | • Het personeel dat vrijwillig is aangemeld. |
-| Niet aangesloten bij VF en PF |   |   | 03 | • Geen personeel. |
-| Alleen aan-gesloten bij PF |   | x | 04 | • Personeel dat aangesteld is bij een bg in de periode tussen 5-7-2006 en 1-1-2009 of in die periode een andere functie binnen het bg heeft gekregen en niet vrijwillig is aangemeld. • Personeel aangesteld bij een bg vóór 5-7-2006, niet door het Rijk bekostigd en niet vrijwillig aangemeld. |
-
-| Verzekeringsvorm | VF premieplicht | PF premieplicht | Code in ‘Mijn Vf’ | Personeel |
-| --- | --- | --- | --- | --- |
-| Verplicht | x | x | 01 | • Alle personeel aangesteld bij het bg (tijdelijk en vast). |
-| Vrijwillig | x | x | 02 | • Geen personeel. |
-| Niet aangesloten bij VF en PF |   |   | 03 | • Geen personeel. |
-| Alleen aan-gesloten bij PF |   | x | 04 | • Geen personeel |
-
-## Bijlage 2. Werkwijze bonus-malus regeling
-
-Het Vervangingsfonds hanteert bij vervangingsdeclaraties die door een bevoegd gezag worden ingediend de Bonus-malus regeling. Deze regeling heeft als doel om een bevoegd gezag te stimuleren om actief verzuim tegen te gaan door een bonus uit te keren indien dit bevoegd gezag weinig vervangingsdeclaraties indient en uitgekeerd krijgt, en een malus op te leggen bij veel vervangingsdeclaraties.
-
-Bij de Bonus-malus regeling worden de volgende begrippen gehanteerd.
-
-- –. **Bonus-malus verhouding** De bonus-malus verhouding geeft weer voor hoeveel een bevoegd gezag aan vervangingsdeclaraties van het Vervangingsfonds uitgekeerd heeft gekregen ten opzichte van de premie die door dit bevoegd gezag moet worden afgedragen. Als voorbeeld: indien een bevoegd gezag in een kalenderjaar voor € 100.000 aan premie moet afdragen en voor € 100.000 aan ingediende vervangingsdeclaraties van het Vervangingsfonds heeft ontvangen, dan heeft dit bevoegd gezag een bonus-malus verhouding van 1. Bij ontvangen vervangingsdeclaraties van € 90.000 en € 110.000 is de bonus-malus verhouding 0,9 respectievelijk 1,1.
-
-- –. **Bonus-malus bandbreedte** De Bonus-malus bandbreedte bepaalt de grenzen waarbuiten er een bonus wordt uitgekeerd of een malus wordt opgelegd. De ondergrens van de bandbreedte is een bonus-malus verhouding van 1. Wanneer een bevoegd gezag een bonus-malus verhouding heeft van minder dan 1, dan ontvangt het een bonus. De bovengrens van de bandbreedte is een bonus-malus verhouding van 1,1. Wanneer een bevoegd gezag een bonus-malus verhouding heeft van meer dan 1,1 dan krijgt het een malus opgelegd. Wanneer een bevoegd gezag een bonus-malus verhouding heeft tussen de 1 en de 1,1 (binnen de bandbreedte dus), dan wordt er geen bonus uitgekeerd en geen malus opgelegd.
-
-- –. **Bonuspercentage en maluspercentage** Op grond deze percentages wordt onder meer de hoogte van de bonus of de malus bepaald. Het bonuspercentage voor 2020 bedraagt 30%. De bonus is gelijk aan het verschil tussen het totaalbedrag van de uitgekeerde vervangingsdeclaraties en de ondergrens van de bonus-malus bandbreedte uitgedrukt in euro’s, vermenigvuldigd met het bonuspercentage.
-
-Het maluspercentage voor 2020 bedraagt 50%. De malus is gelijk aan het verschil tussen het totaalbedrag van de uitgekeerde vervangingsdeclaraties en de bovengrens van de bonus-malus bandbreedte uitgedrukt in euro’s, vermenigvuldigd met het maluspercentage.
-
-Om de werking van de Bonus-malus regeling duidelijker te maken, volgen hieronder 2 voorbeelden.
-
-Gegevens bevoegd gezag:
-
-- –. Bonus-malus bandbreedte: 1 – 1,1
-
-- –. Bonus-malus bandbreedte in euro’s: € 100.000 – € 110.000
-
-- –. Bonuspercentage: 30%
-
-- –. Maluspercentage: 50%
-
-- –. Af te dragen premie: € 100.000
-
-- –. Uitgekeerde vervangingsdeclaraties: € 80.000
-
-Het bevoegd gezag heeft in 2020 € 20.000 minder vervangingsdeclaraties uitgekeerd gekregen dan de ondergrens van de bonus-malus bandbreedte. Op deze € 20.000 wordt het bonuspercentage toegepast. Dit houdt in dat het bevoegd gezag bij de eindafrekening een bonus van 20.000 x 0,3 = € 6.000 ontvangt.
-
-Gegevens bevoegd gezag:
-
-- –. Bonus-malus bandbreedte: 1 – 1,1
-
-- –. Bonus-malus bandbreedte in euro’s: € 100.000 – € 110.000
-
-- –. Bonuspercentage: 30%
-
-- –. Maluspercentage: 50%
-
-- –. Af te dragen premie: € 100.000
-
-- –. Uitgekeerde vervangingsdeclaraties: € 120.000
-
-Het bevoegd gezag heeft in 2020 € 10.000 meer vervangingsdeclaraties uitgekeerd gekregen dan de bovengrens van de Bonus-malus bandbreedte. Op deze € 10.000 wordt het maluspercentage toegepast. Dit houdt in dat het bevoegd gezag bij de eindafrekening een malus van 10.000 x 0,5 = € 5.000 opgelegd krijgt.
-
-In het geval een bevoegd gezag een malus opgelegd krijgt, is deze malus aan een maximum verbonden. De hoogte van deze maximaal mogelijke malus is afhankelijk van de hoogte van de personele bekostiging regulier. Hierbij wordt het volgende onderscheid gemaakt:
-
-- –. Personele bekostiging regulier lager dan € 2,5 miljoen: boven een bonus-malus verhouding van 1,5 is geen malus verschuldigd.
-
-- –. Personele bekostiging regulier van € 2,5 miljoen of hoger: boven een bonus-malus verhouding van 2 is geen malus verschuldigd.
-
-Gegevens:
-
-- –. Bonus-malus bandbreedte: 1 – 1,1
-
-- –. Bonus-malus bandbreedte in euro’s: € 100.000 – € 110.000
-
-- –. Bonuspercentage: 30%
-
-- –. Maluspercentage: 50%
-
-- –. Af te dragen premie: € 100.000
-
-- –. Uitgekeerde vervangingsdeclaraties: € 170.000
-
-Het bevoegd gezag heeft een bonus-malus verhouding van 1,7. De malus wordt echter gemaximeerd tot een bonus-malus tot een bonus-malus van 1,5. In euro’s betekent dit dat over € 150.000 – € 110.000 = € 40.000 het maluspercentage van 50% wordt toegepast. Het bevoegd gezag krijgt dus een malus opgelegd van € 40.000 x 0,5 = € 20.000.
-
-Gegevens:
-
-- –. Bonus-malus bandbreedte: 1 – 1,1
-
-- –. Bonus-malus bandbreedte in euro’s: € 100.000 – € 110.000
-
-- –. Bonuspercentage: 30%
-
-- –. Maluspercentage: 50%
-
-- –. Af te dragen premie: € 100.000
-
-- –. Uitgekeerde vervangingsdeclaraties: € 250.000
-
-Het bevoegd gezag heeft een bonus-malus verhouding van 2,5. De malus wordt echter gemaximeerd tot een bonus-malus verhouding van 2. In euro’s betekent dit dat over € 200.000 – € 110.000 = € 90.000. Het maluspercentage van 50% wordt toegepast. Het bevoegd gezag krijgt dus een malus opgelegd van € 90.000 x 0,5 = € 45.000.
-
-## Bijlage 3. Werkwijze normbekostiging
-
-Bij het bekostigen van vervanging vergoedt het Vervangingsfonds niet direct de kosten die een bevoegd gezag heeft gemaakt voor de vervanging, maar maakt het gebruik van het systeem van normbekostiging. Bij de normbekostiging worden de volgende begrippen gehanteerd.
-
-- –. **Normbedrag:** dit is het bedrag per uur dat hoort bij de door het Vervangingsfonds vastgestelde normklasse, dat de basis vormt voor de bekostiging.
-
-- –. **Normklasse:** dit is de salarisklasse waarin het afwezige personeelslid of het personeelslid dat is geplaatst in een vervangingspool, is ingedeeld. Deze indeling vindt plaats op basis van het salaris van deze personeelsleden.
-
-Er zijn in totaal 5 normklassen, elk met een ondergrens en een bovengrens.
-
-Per normklasse wordt een normbedrag per uur berekend, waarbij rekening is gehouden met de werkgeverslasten. Een afwezig personeelslid wordt naar aanleiding van het salaris ingedeeld in de bij dat salaris behorende normklasse. De bekostiging wordt vervolgens berekend door het normbedrag te vermenigvuldigen met het aantal uren dat het afwezige personeelslid is vervangen, tot maximaal het aantal uren afwezigheid.
-
-Let op, bij de normbekostiging geldt het volgende belangrijke onderscheid:
-
-- –. Voor reguliere vervanging geldt: de indeling in de normklasse wordt berekend op grond van het salaris van het **afwezige personeelslid.** De hoogte van de bekostiging wordt berekend door het normbedrag te vermenigvuldigen met het aantal uren dat het afwezige personeelslid is vervangen, waarbij het maximum aantal uren wordt begrensd door het aantal uren afwezigheid.
-
-- –. Voor vervanging via een vervangingspool geldt: de indeling in de normklasse wordt berekend op grond van het salaris van het **personeelslid dat in de pool is geplaatst**. De hoogte van de bekostiging wordt berekend door het aantal uren van het dienstverband per week (AUPW), te delen door 7, het resultaat te vermenigvuldigen met 365, het resultaat daarvan te delen door 12 en het resultaat daarvan te vermenigvuldigen met het van toepassing zijnde normbedrag.
-
-Dus als formule: ((AUPW / 7) * 365) / 12 x normbedrag.
-
-In de onderstaande tabel staan de normklassen, grenzen en normbedragen zoals deze gelden per 1 september 2018:
-
-|   | **Ondergrens** | **Bovengrens** | **Normvergoeding per uur** |
-| --- | --- | --- | --- |
-| **Klasse 1** | – | € 2.581 | € 16,05 |
-| **Klasse 2** | € 2.581 | € 3.302 | € 21,50 |
-| **Klasse 3** | € 3.302 | € 4.024 | € 28,41 |
-| **Klasse 4** | € 4.024 | € 4.731 | € 32,70 |
-| **Klasse 5** | € 4.731 | – | € 42,20 |
-
-Indien een wegens ziekte afwezig personeelslid wordt vervangen en deze vervanger zelf ziek wordt, dan kan het bevoegd gezag een tweede vervanger aanstellen of benoemen, die dan de werkzaamheden van de vervanger overneemt en de oorspronkelijke afwezige gaat vervangen.
-
-De bekostiging van de wegens ziekte afwezige vervanger wordt dan door het Vervangingsfonds doorbetaald gedurende diens afwezigheidsperiode c.q. periode van aanstelling, tot een maximum van 6 maanden. Gedurende deze periode krijgt het bevoegd gezag dus twee maal de normbekostiging, gebaseerd op het oorspronkelijk afwezige personeelslid. Indien de eerder ziek geworden vervanger of het oorspronkelijk afwezige personeelslid weer beter is en de (vervangings)werkzaamheden hervat, dan stopt de bekostiging van de tweede vervanger op het moment van werkhervatting van de eerste vervanger.
-
-## Bijlage 4. Werkwijze vervangingspools
-
-Op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=5&z=2020-03-04&g=2020-03-04) van dit reglement, kunnen bevoegd gezagsorganen bij het Vervangingsfonds een vervangingspool aanvragen.
-
-Bij vervangingspools wordt er een andere bekostigingssystematiek gehanteerd dan bij de reguliere bekostiging. Er wordt gewerkt met een systeem van bevoorschotting en terugvordering. Voor pooldeclaraties die tijdig door het Vervangingsfonds zijn ontvangen en waarvoor een (pool)verantwoording door het bevoegd gezag is ingediend, wordt een vergoeding uitgekeerd. Deze vergoeding wordt maandelijks berekend conform de formule in [artikel 16, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=5&artikel=16&z=2020-03-04&g=2020-03-04). Het normbedrag is hierbij gebaseerd op het salaris van de poolmedewerker en niet op het salaris van de afwezige.
-
-Het bevoegd gezag dient de inzetverantwoording van de in de vervangingspool geplaatste personeelsleden in via ‘MijnVf’. Hiervoor geldt een termijn van 3 maanden, te rekenen vanaf de dag dat het Vervangingsfonds het bevoegd gezag heeft laten weten dat de inzetverantwoording voor de betreffende maand ingediend kan worden. Indien de inzetverantwoording buiten deze termijn door het Vervangingsfonds wordt ontvangen, dan komt de maand waarop de inzetverantwoording betrekking heeft niet voor vergoeding in aanmerking.
-
-Na afloop van het kalenderjaar wordt het definitieve inzetpercentage van de vervangingspool bepaald. Gedurende het kalenderjaar kan een bevoegd gezag de voorlopige resultaten raadplegen in ‘MijnVf’.
-
-De berekening van het inzetpercentage vindt plaats aan de hand van de volgende formule:
-
-- –. V = het aantal uren declarabele vervanging in de pool.
-
-- –. A = het aantal uren en minuten eigen afwezigheid wegens schoolvakantie, BAPO, ziekte of schorsing.
-
-- –. P = het totaal aantal uren en minuten in de pool.
-
-Is het inzetpercentage van de in de vervangingspool geplaatste personeelsleden lager dan het vereiste inzetpercentage van 98% (of 100% bij een pool met een maximale grootte van 6%), dan vordert het Vervangingsfonds het verschil met het vastgestelde inzetpercentage terug.
-
-- –. Grootte van de vervangingspool: 4%
-
-- –. Vereist inzetpercentage: 98%
-
-- –. Goedgekeurd bedrag aan pooldeclaraties: € 80.000
-
-- –. Werkelijke inzetpercentage: 80%
-
-Terugvordering: 98% – 80% = 18% x € 80.000 = € 14.400.
-
-## Bijlage 5. Werkwijze financiële varianten
-
-Op grond van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042774&hoofdstuk=6&z=2020-03-04&g=2020-03-04) van het reglement, kan een eigenrisicodrager er voor kiezen om gebruik te maken van één van de financiële varianten die door het Vervangingsfonds worden aangeboden.
-
-Hieronder worden deze varianten nader omschreven en wordt bepaald hoe de bekostiging voor elk van de vier financiële varianten plaatsvindt.
-
-### I. Wachtdagenvariant met een eigen risico van 2 keer de werktijdfactor per week
-
-Bij deze variant neemt het bevoegd gezag voor een bepaald deel de vervanging van het afwezige personeelslid voor eigen rekening. Bij deze variant is dat twee maal de werktijdfactor van de aanstelling of benoeming per week, omgerekend in klokuren, van het afwezige personeelslid.
-
-Als voorbeeld: wanneer het wegens ziekte of schorsing afwezige personeelslid een dienstverband heeft met een werktijdfactor van 1, dan dient het bevoegd gezag de eerste 80 uur dit personeelslid voor eigen rekening te vervangen. Vanaf 80 uur komt de vervanging in aanmerking voor bekostiging door het Vervangingsfonds.
-
-De vervanging voor eigen rekening van het bevoegd gezag hoeft niet aaneengesloten te zijn, zolang deze maar plaatsvindt binnen dezelfde ziekteperiode of schorsing. Het Vervangingsfonds houdt met de maandelijkse gegevensaanlevering bij voor hoeveel uur het afwezige personeelslid is vervangen. Indien het afwezige personeelslid voor bijvoorbeeld 20 uur voor eigen rekening wordt vervangen en vervolgens enkele weken niet wordt vervangen, dan komt deze 20 uur niet te vervallen.
-
-### II. Wachtdagenvariant met een eigen risico van 6 maal de werktijdfactor per week
-
-De werking van deze variant is beginsel hetzelfde als de hierboven onder I. genoemde wachtdagenvariant. Bij deze variant geldt alleen een eigen risico van 6 maal de werktijdfactor van de aanstelling of benoeming per week, omgerekend in klokuren.
-
-### III. Stop-loss variant met lage ondergrens van de bandbreedte
-
-Bij deze variant neem het bevoegd gezag voor een bepaald deel de vervanging wegens ziekte of schorsing van één of meerdere personeelsleden voor eigen rekening. Het eigen risico wordt bij deze variant vastgesteld op basis van de ‘Gemiddelde Normatieve Vervangingskosten’ (GNV). Deze worden berekend door een bepaald percentage – voor 2020 bedraagt dit 6 procent – te heffen over de premiegrondslag. Deze premiegrondslag wordt berekend door de premiegrondslag over de maand januari te vermenigvuldigen met 12.
-
-Na het verloop van het kalenderjaar, komt het reeds opgebouwde eigen risico te vervallen en moet deze weer opnieuw tot de ondergrens worden opgebouwd.
-
-Als voorbeeld: een bevoegd gezag heeft een premiegrondslag over de maand januari van € 100.000. De GNV zijn dan € 100.000 x 12 x 0,06 = € 72.000.
-
-Tot 80% van de GNV draagt het bevoegd gezag zelf de kosten voor vervanging, dus de eerste (0,8 x € 72.000 =) € 57.600 aan vervanging wegens ziekte of schorsing neemt het bevoegd gezag voor eigen rekening. Tussen de 80% en 200% van de GNV bekostigt het Vervangingsfonds volledig conform de normbekostiging (mits is voldaan aan de voorwaarden voor bekostiging). Boven de 200% van de GNV (in dit voorbeeld boven de € 144.000) bekostigt het Vervangingsfonds 50% van de normbekostiging.
-
-### IV. Stop-loss variant met een hoge ondergrens van de bandbreedte
-
-Deze variant heeft dezelfde werking als de stop-loss variant met de lage ondergrens van de bandbreedte, maar verschilt hiervan in die zin, dat de bekostiging door het Vervangingsfonds pas kan plaatsvinden zodra het bevoegd gezag eerste 100% van de GNV aan vervanging wegens ziekte en schorsing voor eigen rekening heeft genomen.
-
-## Bijlage 6. Informatieprotocol
-
-Het Vervangingsfonds ondersteunt bevoegde gezagsorganen door vervanging van personeel in het primair onderwijs onder bepaalde voorwaarden te bekostigen. Bijna alle bevoegde gezagsorganen dragen hiervoor een premie af. Daarnaast kunnen bevoegde gezagsorganen bij het Vervangingsfonds terecht voor advies over verzuim en re-integratie. Om deze taken uit te voeren heeft het Vervangingsfonds bepaalde gegevens nodig over de bevoegde gezagsorganen. Dit informatieprotocol beschrijft de vorm en inhoud van de set gegevens die door het scholenveld aangeleverd moet worden alsmede een korte toelichting op het aanleverproces. Het informatieprotocol dient als hulpmiddel voor schoolbesturen om de juiste gegevens tijdig aan te leveren bij het Vervangingsfonds.
-
-**Privacy**
-
-In het kader van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), dienen verwerkingen van persoonsgegevens bij het College bescherming persoonsgegevens te worden gemeld. Het Vervangingsfonds maakt bij de uitoefening van de werkzaamheden gebruik van persoonsgegevens. Het Vervangingsfonds treft passende en organisatorische maatregelen om te waarborgen en te kunnen aantonen dat de verwerking van die persoonsgegevens in overeenstemming met de Algemene verordening gegevensbescherming wordt uitgevoerd.
-
-Het informatieprotocol bestaat uit 4 onderdelen:
-
-### Onderdeel 1 Basisadministratie
-
-### § 1.1. Inleiding
-
-De basisadministratie van het Vervangingsfonds omvat de volgende gegevens:
-
-### § 1.2. Doel gegevenscollectie door het Vervangingsfonds
-
-Elk bevoegd gezag in het primair onderwijs levert gegevens aan bij het Vervangingsfonds. Deze gegevens worden voornamelijk gebruikt om de hoogte van de premie Vervangingsfonds en premie Participatiefonds vast te stellen, de hoogte van de declaratiebedragen te bepalen en de rechtmatigheid van premies en declaraties te beoordelen. Daarnaast worden gegevens gebruikt voor de informatievoorziening ten behoeve van het scholenveld.
-
-In tabel 1 staat een overzicht van de primaire processen, die gebruik maken van de gegevens, die door het scholenveld beschikbaar worden gesteld.
-
-### § 2. Overzicht gegevens in de Vf-basisadministratie
-
-### § 2.1. Inleiding
-
-Tabel 2 toont een overzicht van de aan te leveren gegevensverzamelingen / set gegevens, voorzien van een korte omschrijving. Hieronder worden de verschillende gegevensgroepen kort toegelicht. Paragraaf 5 bevat een gedetailleerde beschrijving van alle gegevens afzonderlijk.
-
-### § 2.2. Premiebrongegevens
-
-De basisadministratie bevat brongegevens van alle personeelsleden en aanstellingen in het primair onderwijs. Deze gegevens worden gebruikt om de ontvangen (declaratie)gegevens te toetsen aan het reglement en de premie- en declaratiebedragen te berekenen.
-
-Het Personeelsbestand omvat gegevens over het personeel, dat valt onder de cao po. Dit betreft het BSN, de naam, geboortedatum en het geslacht van de personeelsleden.
-
-De Vf-basisadministratie bevat gegevens over de dienstbetrekkingen in het primair onderwijs. Het bestand bevat gegevens als de begin- en einddatum van de aanstelling en de omvang van de aanstelling en het brutosalaris. De aanstellingsgegevens worden ook gebruikt om het premiebedrag vast te stellen.
-
-### § 2.3. Declaratiebrongegevens
-
-De ontvangen declaratiegegevens worden automatisch beoordeeld op rechtmatigheid en getoetst aan de voorwaarden die in het reglement hierover zijn opgenomen. Deze declaratiebrongegevens omvatten uitgebreide gegevens over de afwezigheid en de vervanging. Op basis van deze gegevens stelt het Vervangingsfonds het declaratiebedrag vast.
-
-### § 2.4. Verzuimgegevens
-
-De gegevens omschreven onder **§ 2.2 en § 2.3**. leveren geen compleet overzicht op van het totale verzuim in het primair onderwijs. Niet alle afwezigheid wordt vervangen en niet alle vervanging wordt gedeclareerd dan wel bekostigd. De integrale verzuimgegevens worden gebruikt voor het berekenen van kengetallen, rechtmatigheidscontroles, het bevorderen van de bedrijfsgezondheid en het ondersteunen van het bestuur en bestuursbureau van het Vervangingsfonds op het gebied van informatievoorziening.
-
-### § 2.5. Organisatiegegevens
-
-De van DUO afkomstige organisatiegegevens op basis van de BRIN zijn opgeslagen in de Vf-basisadministratie en dienen onder meer voor de beoordeling van de rechtmatigheid van premie- en declaratiegegevens.
-
-### § 2.6. Retourinformatie ten behoeve van het scholenveld
-
-Na verwerking van de door schoolbesturen aangeleverde gegevens, verstrekt het Vervangingsfonds een gedetailleerd verwerkingsverslag van de vastgestelde premiebedragen, vervangingsdeclaraties en verzuimcijfers aan de schoolbesturen via ‘MijnVf’.
-
-### § 3. Aanlevermoment en frequentie van aanlevering
-
-De door de bevoegde gezagsorgaan te leveren gegevensgroepen zijn maandelijks samengevoegd tot één gegevenslevering. DUO verzorgt maandelijks de gegevenslevering van de BRIN-gegevens.
-
-Het Vervangingsfonds verwerkt de ontvangen gegevens één keer per maand vanaf de 6e werkdag. De afsluitdatum van de gegevenslevering is derhalve de 5e werkdag van de maand. De levering, die in maand n verwerkt wordt, bevat gegevens over de verslagmaand n – 1 alsmede eventuele correcties over voorliggende maanden.
-
-### § 4. Wijze van aanlevering
-
-### § 4.1. Aanlevering via Managed File Transfer en/of webportaal
-
-Bevoegde gezagsorganen en administratiekantoren maken gebruik van PSA (Personeels- en Salarisadministratie)-softwarepakketten voor het leveren van gegevens aan het Vervangingsfonds. Naast deze bulkaanlevering biedt het Vervangingsfonds de mogelijkheid om aanvullende gegevens aan te leveren via een beveiligde omgeving op het Vf-webportaal / ‘MijnVf’.
-
-De levering via de PSA-softwarepakketten geschiedt met behulp van Managed File Transfer (MFT). De MFT voorziet in een beveiligde verbinding tussen de gegevensleveranciers en het Vervangingsfonds. Het webportaal kent een rolgestuurde toegangsbeveiliging; afhankelijk van de rol van de ingelogde gebruiker (via gebruikersnaam en wachtwoord) zijn gegevens te raadplegen dan wel te muteren.
-
-### § 4.2. Bestandsformaat
-
-Het bestandsformaat van de gegevenslevering is het XML-formaat (Extensive Markup Language). Dit is een standaard van het World Wide Web Consortium voor de syntaxis van formele opmaaktalen waarmee men gestructureerde gegevens kan weergeven in de vorm van platte tekst. Deze presentatie is zowel machineleesbaar als leesbaar voor de mens. Het XML-formaat wordt gebruikt om gegevens op te slaan en om gegevens over het internet te versturen.
-
-### § 5. Gegevenstabellen

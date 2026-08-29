@@ -1,61 +1,32 @@
 ---
 title: "Wet van 13 november 2019, houdende regels inzake een uniform experiment met teelt en verkoop van hennep en hasjiesj voor recreatief gebruik in een gesloten coffeeshopketen (Wet experiment gesloten coffeeshopketen)"
+citeertitel: "Wet experiment gesloten coffeeshopketen"
 identifier: "BWBR0042818"
-country: "nl"
-rank: "wet"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042818"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15258553"
-version_id: "26279222"
-internal_id: "C37995331"
-label_id: "15204974"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042818/2026-01-01/0"
-intitule_bron: "Stb.2019-433"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-13"
-intitule_published: "2019-11-28"
-intitule_in_force: "2020-06-29"
-intitule_status: "goed"
-original_publication: "Stb.2019-433"
-original_signed_date: "2019-11-13"
-original_published_date: "2019-11-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "34997"
-original_url_id: "stb-2019-433"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0042818&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0042818&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet experiment gesloten coffeeshopketen"
-signed_date: "2019-11-13"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0042818"
+opgehaald: 2026-08-29
 ---
+
 # Wet van 13 november 2019, houdende regels inzake een uniform experiment met teelt en verkoop van hennep en hasjiesj voor recreatief gebruik in een gesloten coffeeshopketen (Wet experiment gesloten coffeeshopketen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om te voorzien in wet- en regelgeving ten behoeve van een uniform experiment met het telen van hennep en hasjiesj voor recreatief gebruik met als doel om te bezien of en hoe op kwaliteit gecontroleerde hennep en hasjiesj gedecriminaliseerd aan de coffeeshops in een gesloten coffeeshopketen kunnen worden afgeleverd en wat de effecten daarvan zijn;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **hennep:** hennep als bedoeld op lijst II bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
+- *hennep:* hennep als bedoeld op lijst II bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
-- **hasjiesj:** hasjiesj als bedoeld op lijst II bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
+- *hasjiesj:* hasjiesj als bedoeld op lijst II bij de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941);
 
-- **coffeeshop:** coffeeshop als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6a&z=2026-01-01&g=2026-01-01);
+- *coffeeshop:* coffeeshop als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6a&z=2026-01-01&g=2026-01-01);
 
-- **gesloten coffeeshopketen:** een keten waarin de teelt van hennep of hasjiesj voor recreatief gebruik en de aflevering aan en verkoop daarvan in een coffeeshop, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), plaatsvindt;
+- *gesloten coffeeshopketen:* een keten waarin de teelt van hennep of hasjiesj voor recreatief gebruik en de aflevering aan en verkoop daarvan in een coffeeshop, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), plaatsvindt;
 
-- **Onze Ministers:** Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie en Veiligheid.
+- *Onze Ministers:* Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Justitie en Veiligheid.
 
 ##### Artikel 2
 
@@ -113,9 +84,9 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 - a. eisen aan:
 
-- 1°. het telen van hennep of hasjiesj, het afleveren en het verkopen daarvan aan coffeeshops in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), de bedrijfsvoering, productinformatie en de veiligheid en kwaliteit van de geteelde hennep of hasjiesj;
+   - 1°. het telen van hennep of hasjiesj, het afleveren en het verkopen daarvan aan coffeeshops in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), de bedrijfsvoering, productinformatie en de veiligheid en kwaliteit van de geteelde hennep of hasjiesj;
 
-- 2°. de houders van een coffeeshop in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), waaronder eisen aan de deelname aan het experiment, bedrijfsvoering, het verkopen van hennep of hasjiesj, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), dan wel aan het niet-deelnemen aan het experiment;
+   - 2°. de houders van een coffeeshop in de gemeenten, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), waaronder eisen aan de deelname aan het experiment, bedrijfsvoering, het verkopen van hennep of hasjiesj, dan wel enige andere in dat verband verrichte handeling, bedoeld in [artikel 3, onderdelen B en C, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), dan wel aan het niet-deelnemen aan het experiment;
 
 - b. de ten behoeve van de evaluatie te registreren gegevens;
 
@@ -137,7 +108,7 @@ Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep 
 
 ##### Artikel 9
 
-Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), [7, eerste lid, onder a, onderdeel 1°, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet.
+Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), [7, eerste lid, onder a, onderdeel 1°, onder b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet.
 
 ##### Artikel 9a
 
@@ -147,7 +118,7 @@ Onze Ministers zijn bevoegd tot oplegging van een last onder bestuursdwang ter h
 
 ##### Artikel 10
 
-De burgemeester van een gemeente, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), is bevoegd tot oplegging van een last onder bestuursdwang ten aanzien van een coffeeshop ter handhaving van de eisen die bij of krachtens artikel 6, derde lid, en [artikel 7, eerste lid, onder a, onderdeel 2°, onder c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet gelden.
+De burgemeester van een gemeente, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=6&z=2026-01-01&g=2026-01-01), is bevoegd tot oplegging van een last onder bestuursdwang ten aanzien van een coffeeshop ter handhaving van de eisen die bij of krachtens artikel 6, derde lid, en [artikel 7, eerste lid, onder a, onderdeel 2°, onder c en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=7&z=2026-01-01&g=2026-01-01), van deze wet gelden.
 
 ##### Artikel 11
 
@@ -167,11 +138,11 @@ De voordracht voor een krachtens [artikel 4, eerste lid](https://wetten.overheid
 
 ##### Artikel 14
 
-Wijzigt Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+*Wijzigt Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
 
 ##### Artikel 15
 
-Wijzigt deze wet en het voorstel van wet Aanpassingswet Wet toetreding zorgaanbieders (Kst. 34768).
+*Wijzigt deze wet en het voorstel van wet Aanpassingswet Wet toetreding zorgaanbieders (Kst. 34768).*
 
 ##### Artikel 16
 
@@ -182,5 +153,3 @@ Deze wet wordt aangehaald als: Wet experiment gesloten coffeeshopketen.
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Deze wet vervalt vier jaar en zes maanden na het tijdstip, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=4&z=2026-01-01&g=2026-01-01), tenzij krachtens dat artikel bij algemene maatregel van bestuur anders wordt bepaald.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

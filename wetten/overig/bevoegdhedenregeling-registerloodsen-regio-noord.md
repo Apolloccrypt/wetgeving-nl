@@ -1,43 +1,17 @@
 ---
 title: "Bevoegdhedenregeling registerloodsen regio Noord"
 identifier: "BWBR0043333"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043333"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15384583"
-version_id: "26594322"
-internal_id: "C37742091"
-label_id: "15328914"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043333/2020-04-01/0"
-intitule_bron: "Stcrt.2020-17753"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-26"
-intitule_published: "2020-03-31"
-intitule_in_force: "2020-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-17753"
-original_signed_date: "2019-11-26"
-original_published_date: "2020-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-17753"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043333&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0043333&g=2020-04-01"
-citeertitel_status: "officieel"
-signed_date: "2019-11-26"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0043333"
+opgehaald: 2026-08-29
 ---
+
 # Bevoegdhedenregeling registerloodsen regio Noord
-
-Gelet op [artikel 4, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) en de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4), [4a tot en met 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4a) en [14, derde lid, van de Bevoegdhedenverordening registerloodsen 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -79,9 +53,9 @@ In alle gevallen waarin deze regeling niet voorzien, beslist het bestuur.
 
 ##### Artikel 6. Intrekking regeling
 
-1. De Nadere eisen ten aanzien van specialisaties zoals bedoeld in de Bevoegdhedenverordening Registerloodsen artikel 4 lid 2 (Delfzijl) van 18 december 1997 te Delfzijl, goedgekeurd bij brief van de Minister van Verkeer en Waterstaat van 12 januari 1998, kenmerk DGG/J97011256, wordt ingetrokken.
+1. De Nadere eisen ten aanzien van specialisaties zoals bedoeld in de Bevoegdhedenverordening Registerloodsen artikel 4 lid 2 (Delfzijl) van 18 december 1997 te Delfzijl, goedgekeurd bij brief van de Minister van Verkeer en Waterstaat van 12 januari 1998, kenmerk DGG/J97011256, wordt ingetrokken.
 
-2. De Nadere eisen ten aanzien van specialisaties zoals bedoeld in de Bevoegdhedenverordening Registerloodsen artikel 4 lid 2 (Harlingen/Terschelling) van 6 maart 2000 te Delfzijl, goedgekeurd bij brief van de Minister van Verkeer en Waterstaat van 14 april 2000, kenmerk DGG/J- 00/002376, wordt ingetrokken.
+2. De Nadere eisen ten aanzien van specialisaties zoals bedoeld in de Bevoegdhedenverordening Registerloodsen artikel 4 lid 2 (Harlingen/Terschelling) van 6 maart 2000 te Delfzijl, goedgekeurd bij brief van de Minister van Verkeer en Waterstaat van 14 april 2000, kenmerk DGG/J- 00/002376, wordt ingetrokken.
 
 ##### Artikel 7. Citeerbepaling en inwerkingtreding
 

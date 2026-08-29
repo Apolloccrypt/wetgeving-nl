@@ -1,35 +1,16 @@
 ---
 title: "Regeling 75 jaar vrijheid"
 identifier: "BWBR0042606"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-10-01"
-last_updated: "2019-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042606"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15175603"
-version_id: "26022402"
-internal_id: "C37059601"
-label_id: "15123244"
-dtd_version: "2.0"
-original_entry_into_force: "2019-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042606/2019-10-01/0"
-intitule_bron: "Stcrt.2019-53730"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-10-01"
-intitule_in_force: "2019-10-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-53730"
-original_published_date: "2019-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-53730"
-entry_into_force_date: "2019-10-01"
-jci_1_3: "jci1.3:c:BWBR0042606&z=2019-10-01&g=2019-10-01"
-jci_1_0: "1.0:c:BWBR0042606&g=2019-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2019-10-01"
+publicatiedatum: 2019-10-01
+laatste_update: 2019-10-01
+status: geldig
+toestand: 2019-10-01
+bron: "https://wetten.overheid.nl/BWBR0042606"
+opgehaald: 2026-08-29
 ---
+
 # Regeling 75 jaar vrijheid
 
 ### Hoofdstuk I. Definities
@@ -38,35 +19,35 @@ entry_into_force: "2019-10-01"
 
 In deze regeling wordt verstaan onder:
 
-- a. **Het fonds:** Mondriaan Fonds.
+- a. *Het fonds:* Mondriaan Fonds.
 
-- b. **Het bestuur:** het bestuur van het Mondriaan Fonds.
+- b. *Het bestuur:* het bestuur van het Mondriaan Fonds.
 
-- c. **Bevoegd adviesorgaan:** een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van deze regeling te beoordelen.
+- c. *Bevoegd adviesorgaan:* een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van deze regeling te beoordelen.
 
-- d. **SMH:** Stichting Musea en Herinneringscentra WOII.
+- d. *SMH:* Stichting Musea en Herinneringscentra WOII.
 
-- e. **Leden van de SMH:** Airborne museum Oosterbeek, Bevrijdingsmuseum Zeeland, Fries Verzetsmuseum, Herinneringskamp Westerbork, Indisch Herinneringscentrum, Joods Cultureel Kwartier/Hollandse schouwburg, Museon Den Haag, Museum Rotterdam ’40-45’ NU, Nationaal Bevrijdingsmuseum Groesbeek, Nationaal Monument Kamp Amersfoort, Nationaal Monument Kamp Vught, Oorlogsmuseum Overloon, Onderduikmuseum Aalten en Verzetsmuseum Amsterdam.
+- e. *Leden van de SMH:* Airborne museum Oosterbeek, Bevrijdingsmuseum Zeeland, Fries Verzetsmuseum, Herinneringskamp Westerbork, Indisch Herinneringscentrum, Joods Cultureel Kwartier/Hollandse schouwburg, Museon Den Haag, Museum Rotterdam ’40-45’ NU, Nationaal Bevrijdingsmuseum Groesbeek, Nationaal Monument Kamp Amersfoort, Nationaal Monument Kamp Vught, Oorlogsmuseum Overloon, Onderduikmuseum Aalten en Verzetsmuseum Amsterdam.
 
-- f. **Herinneringscentra:** voormalig kamp Westerbork, Nationaal Monument kamp Vught, Nationaal Monument Kamp Amersfoort, het Oranjehotel en het Indisch Herinneringscentrum (IHC) in Den Haag.
+- f. *Herinneringscentra:* voormalig kamp Westerbork, Nationaal Monument kamp Vught, Nationaal Monument Kamp Amersfoort, het Oranjehotel en het Indisch Herinneringscentrum (IHC) in Den Haag.
 
-- g. **Grassroot:** een zelfstandig initiatief dat dienstbaar is aan het borgen van de herinnering aan WOII in de komende 5 jaar en een toevoeging vormt aan die herinnering. Het initiatief is niet verbonden aan een professionele (erfgoed)organisatie, niet in het museumregister ingeschreven, is openbaar toegankelijk en kan een stichting, een vereniging of een individu zijn.
+- g. *Grassroot:* een zelfstandig initiatief dat dienstbaar is aan het borgen van de herinnering aan WOII in de komende 5 jaar en een toevoeging vormt aan die herinnering. Het initiatief is niet verbonden aan een professionele (erfgoed)organisatie, niet in het museumregister ingeschreven, is openbaar toegankelijk en kan een stichting, een vereniging of een individu zijn.
 
-- h. **Subsidie bouwkundige uitbreiding of verbouwing:** een bijdrage voor een bouwkundige uitbreiding of verbouwing voor SMH leden, met uitzondering van de herinneringscentra.
+- h. *Subsidie bouwkundige uitbreiding of verbouwing:* een bijdrage voor een bouwkundige uitbreiding of verbouwing voor SMH leden, met uitzondering van de herinneringscentra.
 
-- i. **Subsidie herinrichting vaste opstelling:** een bijdrage voor een duurzame presentatie van de vaste collectie in en vlak voor en na WOII.
+- i. *Subsidie herinrichting vaste opstelling:* een bijdrage voor een duurzame presentatie van de vaste collectie in en vlak voor en na WOII.
 
-- j. **Subsidie innovatieve presentatievormen:** een bijdrage voor presentatievormen die de gebeurtenissen voorafgaand, in en vlak na WOII op een vernieuwende wijze toegankelijk maken voor het publiek.
+- j. *Subsidie innovatieve presentatievormen:* een bijdrage voor presentatievormen die de gebeurtenissen voorafgaand, in en vlak na WOII op een vernieuwende wijze toegankelijk maken voor het publiek.
 
-- k. **Subsidie digitalisering:** een bijdrage aan de digitalisering van materiaal uit WOII om de toegankelijkheid en vindbaarheid voor een passend publiek op duurzame wijze te vergroten.
+- k. *Subsidie digitalisering:* een bijdrage aan de digitalisering van materiaal uit WOII om de toegankelijkheid en vindbaarheid voor een passend publiek op duurzame wijze te vergroten.
 
-- l. **Subsidie onderzoek:** een bijdrage aan toegepast of wetenschappelijk onderzoek over de aanloop naar, tijdens of vlak na WOII in Nederland en/of de voormalige koloniën.
+- l. *Subsidie onderzoek:* een bijdrage aan toegepast of wetenschappelijk onderzoek over de aanloop naar, tijdens of vlak na WOII in Nederland en/of de voormalige koloniën.
 
-- m. **Lump sum subsidie:** een bijdrage voor Grassroot-initiatieven die openbaar toegankelijke projecten realiseren gericht op de herinnering aan WOII.
+- m. *Lump sum subsidie:* een bijdrage voor Grassroot-initiatieven die openbaar toegankelijke projecten realiseren gericht op de herinnering aan WOII.
 
-- n. **Aanvrager:** degene die een aanvraag doet.
+- n. *Aanvrager:* degene die een aanvraag doet.
 
-- o. **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba.
+- o. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba.
 
 ### Hoofdstuk II. Doel
 
@@ -120,11 +101,11 @@ Aan de verstrekking van de subsidie kan het bestuur nadere verplichtingen verbin
 
 Geen subsidie wordt verstrekt:
 
-- –. aan of voor leden van de Raad van Toezicht van het fonds;
+- – aan of voor leden van de Raad van Toezicht van het fonds;
 
-- –. aan of voor medewerkers van het fonds, onder wie het bestuur;
+- – aan of voor medewerkers van het fonds, onder wie het bestuur;
 
-- –. aan of voor een aanvrager die lid dan wel plaatsvervangend lid is van de adviescommissie die aanvragen voor de betreffende subsidie beoordeelt.
+- – aan of voor een aanvrager die lid dan wel plaatsvervangend lid is van de adviescommissie die aanvragen voor de betreffende subsidie beoordeelt.
 
 ### Hoofdstuk IV. Aanvraagprocedure
 
@@ -226,11 +207,11 @@ Geen subsidie wordt verstrekt:
 
 3. Een subsidie kan worden verstrekt voor:
 
-- –. een bouwkundige uitbreiding;
+- – een bouwkundige uitbreiding;
 
-- –. het door een verbouwing duurzaam toegankelijk maken voor een (nieuw) publiek waaronder minder validen;
+- – het door een verbouwing duurzaam toegankelijk maken voor een (nieuw) publiek waaronder minder validen;
 
-- –. een tegemoetkoming in de ontwikkelfase van het bouwkundige uitbreidings- of verbouwingsplan (haalbaarheidsonderzoek).
+- – een tegemoetkoming in de ontwikkelfase van het bouwkundige uitbreidings- of verbouwingsplan (haalbaarheidsonderzoek).
 
 4. In de toelichting bij het aanvraagformulier zijn de hoogte van de subsidiebedragen, de maximale tegemoetkoming en de hoogte van de eigen bijdrage van de aanvrager genoemd.
 
@@ -240,31 +221,31 @@ Geen subsidie wordt verstrekt:
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. een onderbouwd werk- en bouwplan;
+- – een onderbouwd werk- en bouwplan;
 
-- –. een motivering waarin de ideeën over de bouwkundige uitbreiding of de verbouwing, zoals de verwachtingen over het publieksbereik worden onderbouwd;
+- – een motivering waarin de ideeën over de bouwkundige uitbreiding of de verbouwing, zoals de verwachtingen over het publieksbereik worden onderbouwd;
 
-- –. informatie over de architect, waaronder een cv;
+- – informatie over de architect, waaronder een cv;
 
-- –. een motivering van de keuze voor de architect;
+- – een motivering van de keuze voor de architect;
 
-- –. een dekkende begroting met offertes en, indien van toepassing, een omschrijving van de eigen financiële bijdrage van de aanvrager.
+- – een dekkende begroting met offertes en, indien van toepassing, een omschrijving van de eigen financiële bijdrage van de aanvrager.
 
 ##### Artikel 18. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie bouwkundige uitbreiding of verbouwing voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt het bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. de meerwaarde van de uitbreiding of verbouwing.
+- – de meerwaarde van de uitbreiding of verbouwing.
 
-- –. de kwaliteit van het (ver)bouwplan;
+- – de kwaliteit van het (ver)bouwplan;
 
-- –. de rol en kwaliteit van de architect
+- – de rol en kwaliteit van de architect
 
-- –. duurzaamheid van de uitvoering;
+- – duurzaamheid van de uitvoering;
 
-- –. ook wordt de manier meegewogen waarop op inspirerende wijze een passend publiek wordt bereikt en actief aan de instelling wordt verbonden;
+- – ook wordt de manier meegewogen waarop op inspirerende wijze een passend publiek wordt bereikt en actief aan de instelling wordt verbonden;
 
-- –. het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
+- – het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
 
 2. Indien het bevoegd adviesorgaan de in het tweede lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het tweede lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -280,9 +261,9 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 2. Een subsidie kan worden verstrekt voor:
 
-- –. de herinrichting van de vaste WOII-opstelling met een sta-tijd van minimaal vijf jaar.
+- – de herinrichting van de vaste WOII-opstelling met een sta-tijd van minimaal vijf jaar.
 
-- –. een tegemoetkoming in de ontwikkelfase van de herinrichting (haalbaarheidsonderzoek).
+- – een tegemoetkoming in de ontwikkelfase van de herinrichting (haalbaarheidsonderzoek).
 
 3. Geen subsidie wordt verstrekt voor bouwkundige voorzieningen of voor reguliere exploitatie.
 
@@ -294,37 +275,37 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren;
+- – een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren;
 
-- –. feitelijke gegevens instelling;
+- – feitelijke gegevens instelling;
 
-- –. een programmaplan;
+- – een programmaplan;
 
-- –. een presentatieplan, waarin toegelicht wordt hoe een passend publiek wordt betrokken;
+- – een presentatieplan, waarin toegelicht wordt hoe een passend publiek wordt betrokken;
 
-- –. een motivering;
+- – een motivering;
 
-- –. een begroting met offertes;
+- – een begroting met offertes;
 
-- –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- – indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 21. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie herinrichting voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt het bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. Is de kwaliteit van de collectie van bijzonder nationaal of belangrijk regionaal belang?
+- – Is de kwaliteit van de collectie van bijzonder nationaal of belangrijk regionaal belang?
 
-- –. Is het voorgelegde plan op overtuigende wijze voorbeeldstellend of anderszins bijzonder?
+- – Is het voorgelegde plan op overtuigende wijze voorbeeldstellend of anderszins bijzonder?
 
-- –. Is de kwaliteit en de positie van de betrokken instelling van belang voor het levend houden van de herinneringen aan WOII?
+- – Is de kwaliteit en de positie van de betrokken instelling van belang voor het levend houden van de herinneringen aan WOII?
 
-- –. Wordt op inspirerende wijze een passend publiek bereikt, waarbij het bereiken van nieuwe jonge doelgroepen positief wordt meegewogen?
+- – Wordt op inspirerende wijze een passend publiek bereikt, waarbij het bereiken van nieuwe jonge doelgroepen positief wordt meegewogen?
 
-- –. Wordt de collectie op duurzame wijze toegankelijk gemaakt?
+- – Wordt de collectie op duurzame wijze toegankelijk gemaakt?
 
-- –. Interactieve presentatietechnieken wegen positief mee in de beoordeling;
+- – Interactieve presentatietechnieken wegen positief mee in de beoordeling;
 
-- –. Samenwerking met andere instellingen of platforms weegt positief mee in de beoordeling.
+- – Samenwerking met andere instellingen of platforms weegt positief mee in de beoordeling.
 
 2. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -348,37 +329,37 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren. feitelijke gegevens instelling;
+- – een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren. feitelijke gegevens instelling;
 
-- –. een projectplan, waarin wordt toegelicht op welke wijze de presentatievorm vernieuwend is;
+- – een projectplan, waarin wordt toegelicht op welke wijze de presentatievorm vernieuwend is;
 
-- –. een presentatieplan, waarin toegelicht wordt hoe een passend nieuwe publiek wordt
+- – een presentatieplan, waarin toegelicht wordt hoe een passend nieuwe publiek wordt
 
-- –. betrokken;
+- – betrokken;
 
-- –. een motivering;
+- – een motivering;
 
-- –. een begroting met offertes;
+- – een begroting met offertes;
 
-- –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- – indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 24. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie vernieuwende presentatievorm voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. Is de kwaliteit van de te presenteren collectie of het verhaal van bijzonder belang?
+- – Is de kwaliteit van de te presenteren collectie of het verhaal van bijzonder belang?
 
-- –. Is het voorgelegde plan op overtuigende wijze vernieuwend of anderszins bijzonder?
+- – Is het voorgelegde plan op overtuigende wijze vernieuwend of anderszins bijzonder?
 
-- –. Is de kwaliteit en de positie van de betrokken instelling, van belang voor het levend houden van de herinneringen aan WOII.
+- – Is de kwaliteit en de positie van de betrokken instelling, van belang voor het levend houden van de herinneringen aan WOII.
 
-- –. Wordt op inspirerende wijze een passend publiek bereikt? Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
+- – Wordt op inspirerende wijze een passend publiek bereikt? Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
 
-- –. Is de presentatievorm duurzaam en heeft deze een langdurig effect? Wordt deze op duurzame wijze toegankelijk gemaakt?
+- – Is de presentatievorm duurzaam en heeft deze een langdurig effect? Wordt deze op duurzame wijze toegankelijk gemaakt?
 
-- –. Interactieve presentatietechnieken wegen positief mee in de beoordeling.
+- – Interactieve presentatietechnieken wegen positief mee in de beoordeling.
 
-- –. Samenwerking met andere instellingen of platforms weegt positief mee in de beoordeling.
+- – Samenwerking met andere instellingen of platforms weegt positief mee in de beoordeling.
 
 2. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -406,33 +387,33 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren;
+- – een overzicht van de activiteiten van de instelling in de drie voorafgaande jaren;
 
-- –. feitelijke gegevens instelling;
+- – feitelijke gegevens instelling;
 
-- –. een projectplan;
+- – een projectplan;
 
-- –. een gebruikersplan; hoe gaan de gedigitaliseerde gegevens gebruikt worden?
+- – een gebruikersplan; hoe gaan de gedigitaliseerde gegevens gebruikt worden?
 
-- –. een motivering;
+- – een motivering;
 
-- –. een begroting met offertes;
+- – een begroting met offertes;
 
-- –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- – indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 27. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie digitalisering voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. Is het van belang dat het te digitaliseren materiaal bewaard wordt?
+- – Is het van belang dat het te digitaliseren materiaal bewaard wordt?
 
-- –. Wordt het materiaal toegankelijk en vindbaar voor een passend publiek?
+- – Wordt het materiaal toegankelijk en vindbaar voor een passend publiek?
 
-- –. Wordt het materiaal door digitalisering duurzaam geborgd?
+- – Wordt het materiaal door digitalisering duurzaam geborgd?
 
-- –. Wordt op inspirerende wijze een passend publiek bereikt? Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
+- – Wordt op inspirerende wijze een passend publiek bereikt? Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
 
-- –. Samenwerking met andere instellingen of platforms weegt positief mee.
+- – Samenwerking met andere instellingen of platforms weegt positief mee.
 
 2. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -460,33 +441,33 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. een overzicht van de activiteiten van de aanvrager uit de drie voorgaande jaren;
+- – een overzicht van de activiteiten van de aanvrager uit de drie voorgaande jaren;
 
-- –. indien de aanvraag door een instelling wordt ingediend, feitelijke gegevens van de instelling;
+- – indien de aanvraag door een instelling wordt ingediend, feitelijke gegevens van de instelling;
 
-- –. indien de aanvraag door een individu wordt ingediend moet de aanvraag voorzien zijn van een aanbeveling van een instelling of een wetenschappelijk onderzoeker en van een door de aanvrager uitgevoerd onderzoek;
+- – indien de aanvraag door een individu wordt ingediend moet de aanvraag voorzien zijn van een aanbeveling van een instelling of een wetenschappelijk onderzoeker en van een door de aanvrager uitgevoerd onderzoek;
 
-- –. een projectplan;
+- – een projectplan;
 
-- –. een presentatieplan, op welke wijze wordt het onderzoek toegankelijk voor een passend publiek;
+- – een presentatieplan, op welke wijze wordt het onderzoek toegankelijk voor een passend publiek;
 
-- –. een motivering;
+- – een motivering;
 
-- –. een begroting met offertes;
+- – een begroting met offertes;
 
-- –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- – indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 30. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie onderzoek voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. Heeft het onderzoek een meerwaarde ten opzichte van reeds bestaande onderzoeken?
+- – Heeft het onderzoek een meerwaarde ten opzichte van reeds bestaande onderzoeken?
 
-- –. Worden de uitkomsten van het onderzoek met een passend publiek gedeeld?
+- – Worden de uitkomsten van het onderzoek met een passend publiek gedeeld?
 
-- –. Verbinding met een actueel onderwerp kan positief worden meegewogen.
+- – Verbinding met een actueel onderwerp kan positief worden meegewogen.
 
-- –. In de advisering kan variatie van onderwerpen meegewogen worden.
+- – In de advisering kan variatie van onderwerpen meegewogen worden.
 
 2. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 
@@ -510,29 +491,29 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- –. feitelijke gegevens initiatief;
+- – feitelijke gegevens initiatief;
 
-- –. een projectplan;
+- – een projectplan;
 
-- –. een motivering;
+- – een motivering;
 
-- –. een presentatieplan;
+- – een presentatieplan;
 
-- –. een begroting;
+- – een begroting;
 
-- –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
+- – indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
 ##### Artikel 33. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een lump sum subsidie voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
-- –. Is plan waarvoor wordt aangevraagd het een toevoeging aan de herinnering aan de gebeurtenissen in WOII?
+- – Is plan waarvoor wordt aangevraagd het een toevoeging aan de herinnering aan de gebeurtenissen in WOII?
 
-- –. Wordt het project toegankelijk en vindbaar voor een passend publiek?
+- – Wordt het project toegankelijk en vindbaar voor een passend publiek?
 
-- –. Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
+- – Het bereiken van nieuwe en jonge doelgroepen weegt positief mee in de beoordeling.
 
-- –. Samenwerking met andere instellingen of platforms weegt positief mee
+- – Samenwerking met andere instellingen of platforms weegt positief mee
 
 2. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten niet van voldoende belang acht, komt het tot een negatief advies over de aanvraag. Indien het bevoegd adviesorgaan de in het eerste lid van dit artikel bedoelde aspecten wel van voldoende belang acht, komt het tot een positief advies over de aanvraag.
 

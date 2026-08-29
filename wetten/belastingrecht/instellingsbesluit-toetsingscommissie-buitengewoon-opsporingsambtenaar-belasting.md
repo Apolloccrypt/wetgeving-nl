@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 27 november 2019 tot instelling van een toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst (Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019)"
+citeertitel: "Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019"
 identifier: "BWBR0042917"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-12-21"
-last_updated: "2019-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042917"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15280133"
-version_id: "26325042"
-internal_id: "C37417301"
-label_id: "15226014"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042917/2019-12-21/0"
-intitule_bron: "Stcrt.2019-69522"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-27"
-intitule_published: "2019-12-20"
-intitule_in_force: "2019-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69522"
-original_signed_date: "2019-11-27"
-original_published_date: "2019-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-69522"
-entry_into_force_date: "2019-12-21"
-jci_1_3: "jci1.3:c:BWBR0042917&z=2019-12-21&g=2019-12-21"
-jci_1_0: "1.0:c:BWBR0042917&g=2019-12-21"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019"
-signed_date: "2019-11-27"
-entry_into_force: "2019-12-21"
+publicatiedatum: 2019-12-21
+laatste_update: 2019-12-21
+status: geldig
+toestand: 2019-12-21
+bron: "https://wetten.overheid.nl/BWBR0042917"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 27 november 2019 tot instelling van een toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst (Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019)
-
-Handelende in overeenstemming met de Minister van Justitie en Veiligheid;
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -82,7 +54,7 @@ Ter uitvoering van haar werkzaamheden stelt de toetsingscommissie een toetsingsr
 
 ##### Artikel 5
 
-Na de inwerkingtreding van dit besluit berust het Benoemingsbesluit 2016 Toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst van 2 juni 2016, nr. DGB 2016-30, op [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042917&artikel=2&z=2019-12-21&g=2019-12-21), van dit besluit.
+Na de inwerkingtreding van dit besluit berust het Benoemingsbesluit 2016 Toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst van 2 juni 2016, nr. DGB 2016-30, op [artikel 2, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0042917&artikel=2&z=2019-12-21&g=2019-12-21), van dit besluit.
 
 ##### Artikel 6
 
@@ -90,10 +62,8 @@ Het [Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Bela
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van 1 december 2019.
+Dit besluit treedt in werking met ingang van 1 december 2019.
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit toetsingscommissie buitengewoon opsporingsambtenaar Belastingdienst 2019.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

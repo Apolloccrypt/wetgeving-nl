@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken, van 1 januari 2020, nr. 4091295, houdende mandaat, volmacht en machtiging voor het Ministerie van Algemene Zaken"
+citeertitel: "Mandaatbesluit Algemene Zaken 2020"
 identifier: "BWBR0043000"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-29"
-last_updated: "2025-04-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043000"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15301393"
-version_id: "26371422"
-internal_id: "C37474491"
-label_id: "15247494"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043000/2025-04-29/0"
-intitule_bron: "Stcrt.2019-71083"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-31"
-intitule_in_force: "2019-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-71083"
-original_published_date: "2019-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-71083"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0043000&z=2025-04-29&g=2025-04-29"
-jci_1_0: "1.0:c:BWBR0043000&g=2025-04-29"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Algemene Zaken 2020"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2025-04-29
+status: geldig
+toestand: 2025-04-29
+bron: "https://wetten.overheid.nl/BWBR0043000"
+opgehaald: 2026-08-29
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken, van 1 januari 2020, nr. 4091295, houdende mandaat, volmacht en machtiging voor het Ministerie van Algemene Zaken
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gelet op [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -45,27 +20,28 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **Minister:** de Minister-President, Minister van Algemene Zaken;
+- a. *Minister:* de Minister-President, Minister van Algemene Zaken;
 
-- b. **de secretaris-generaal:** de secretaris-generaal van het Ministerie van Algemene Zaken;
+- b. *de secretaris-generaal:* de secretaris-generaal van het Ministerie van Algemene Zaken;
 
-- c. **de plaatsvervangend secretaris-generaal:** de plaatsvervangend secretaris-generaal van het Ministerie van Algemene Zaken;
+- c. *de plaatsvervangend secretaris-generaal:* de plaatsvervangend secretaris-generaal van het Ministerie van Algemene Zaken;
 
-- d. **Ministerie:** het Ministerie van Algemene Zaken;
+- d. *Ministerie:* het Ministerie van Algemene Zaken;
 
-- e. **dienst:** Kabinet Minister-President, secretariaat ministerraad, directoraat-generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, directie Bedrijfsvoering, directie Financieel-Economische Zaken;
+- e. *dienst:* Kabinet Minister-President, secretariaat ministerraad, directoraat-generaal Rijksvoorlichtingsdienst, Dienst Publiek en Communicatie, Bureau van de Wetenschappelijke Raad voor het Regeringsbeleid, directie Bedrijfsvoering, directie Financieel-Economische Zaken;
 
-- f. **diensthoofd:** degene die is belast met de leiding van een dienst;
+- f. *diensthoofd:* degene die is belast met de leiding van een dienst;
 
-- g. **mandaat:** de bevoegdheid om namens de Minister besluiten te nemen, stukken af te doen en te ondertekenen;
+- g. *mandaat:* de bevoegdheid om namens de Minister besluiten te nemen, stukken af te doen en te ondertekenen;
 
-- h. **medewerker:** de ambtenaar in de zin van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) die werkzaam is bij het Ministerie;
+- h. *medewerker:* de ambtenaar in de zin van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) die werkzaam is bij het Ministerie;
 
-- i. **organisatiebesluit:** [Organisatiebesluit Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0040546);
+- i. *organisatiebesluit:*
+ [Organisatiebesluit Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0040546);
 
-- j. **Topmanagementgroep:** de Topmanagementgroep, bedoeld in hoofdstuk 17 van de CAO Rijk;
+- j. *Topmanagementgroep:* de Topmanagementgroep, bedoeld in hoofdstuk 17 van de CAO Rijk;
 
-- k. **CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam binnen de sector Rijk.
+- k. *CAO Rijk:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam binnen de sector Rijk.
 
 #### § 2. Mandaat, volmacht en machtiging
 
@@ -117,7 +93,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5. Mandaat secretaris-generaal
 
-1. Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499).
+1. Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499).
 
 2. Aangelegenheden op het gebied van:
 
@@ -143,7 +119,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. verzoeken om door te werken na de AOW gerechtigde leeftijd;
 
-- e. het toekennen van financiële regelingen, extra uitkeringen bij ontslag en schadeloosstellingen vanaf een bedrag van € 25.000,– (lees: vijfentwintigduizend euro);
+- e. het toekennen van financiële regelingen, extra uitkeringen bij ontslag en schadeloosstellingen vanaf een bedrag van € 25.000,– (lees: vijfentwintigduizend euro);
 
 - f. het aanwijzen van een Van Werk Naar Werk-kandidaat (VWNW-kandidaat);
 
@@ -177,7 +153,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De secretaris-generaal is bevoegd om in bijzondere gevallen, naast of in plaats van deze paragraaf, ondermandaat te verlenen aan een medewerker voor een bepaald geval, met inachtneming van [artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0007804&artikel=1).
 
-3. De secretaris-generaal verleent ondermandaat bij schriftelijk besluit (besluit van 1 januari 2020, nr. 4091305).
+3. De secretaris-generaal verleent ondermandaat bij schriftelijk besluit (besluit van 1 januari 2020, nr. 4091305).
 
 #### § 4.1. Instructies over verlening van ondermandaat aan diensthoofden
 
@@ -331,9 +307,9 @@ In dat geval luidt de ondertekening als volgt:
 
 De volgende besluiten worden ingetrokken:
 
-- a. [Mandaatbesluit Algemene Zaken 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040557) (van 14 december 2017, nr. 3960087);
+- a. [Mandaatbesluit Algemene Zaken 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040557) (van 14 december 2017, nr. 3960087);
 
-- b. [Aanwijzingsbesluit vervanging secretaris-generaal van het Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0040548) (14 december 2017, nr. 3962540).
+- b. [Aanwijzingsbesluit vervanging secretaris-generaal van het Ministerie van Algemene Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0040548) (14 december 2017, nr. 3962540).
 
 ##### Artikel 18. Overgangsrecht
 
@@ -345,46 +321,8 @@ ondermandaten, volmachten en machtigingen, waarin op het tijdstip van inwerkingt
 
 ##### Artikel 19. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Algemene Zaken 2020.
-
-## Bijlage 1
-
-Maximumbedragen voor het aangaan van financiële materiële verplichtingen en het doen van uitgaven als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=14&z=2025-04-29&g=2025-04-29), van het Mandaatbesluit Algemene Zaken 2020. Bedragen zijn per financiële materiële verplichting, in euro’s en inclusief BTW.
-
-| Plaatsvervangend hoofd Kabinet Minister- President | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29) (als plaatsvervanger van het diensthoofd). |
-| --- | --- |
-| Secretaris-Ministerraad | Tot € 30.000,– |
-
-| Plaatsvervangend directeur-generaal Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29) (als plaatsvervanger van het diensthoofd). |
-| --- | --- |
-| Directeur Rijksvoorlichtingsdienst | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29) (als plaatsvervanger van het diensthoofd). |
-| Hoofd Communicatie Koninklijk Huis | Tot € 30.000,– |
-| Hoofd Communicatie Algemeen Regeringsbeleid | Tot € 30.000,– |
-
-| Plaatsvervangend directeur Financieel-Economische Zaken | Voor het maximum bedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29) (als plaatsvervanger van het diensthoofd). |
-| --- | --- |
-
-| Plaatsvervangend directeur Bedrijfsvoering | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29). |
-| --- | --- |
-| Hoofd Afdeling Compliancy & Innovatie (C&I) | Tot € 20.000,– |
-| Hoofd Afdeling ICT-Service & Informatievoorziening (I&I) | Tot € 20.000,– |
-| Hoofd Afdeling Personeel & Organisatie (P&O) | Tot € 5.000,– |
-| Hoofd Afdeling Facilitair, Huisvesting en Inkoop (FHI) | Tot € 5.000,– |
-| Coördinator Inkoop, Senior inkoper, inkoper | Tot € 5.000,– |
-| Projectmanager Tijdelijke Huisvesting en Renovatie | Tot € 1.000,– |
-| Medewerker techniek | Tot € 500,– |
-
-| Hoofd Communicatie- en Ondersteuning Wetenschappelijke Raad voor het Regeringsbeleid | Tot 30.000,– |
-| --- | --- |
-
-| Plaatsvervangend directeur Dienst Publiek en Communicatie | Voor het maximumbedrag zie [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&paragraaf=4.1&artikel=10&z=2025-04-29&g=2025-04-29). |
-| --- | --- |
-| Manager | Tot € 30.000,– |
-
-Dit besluit zal met de toelichting en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0043000&bijlage=1&z=2025-04-29&g=2025-04-29) in de Staatscourant worden geplaatst.
-
-Een afschrift van dit besluit wordt gezonden naar de Algemene Rekenkamer.

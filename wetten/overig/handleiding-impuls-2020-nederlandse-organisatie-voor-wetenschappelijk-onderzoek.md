@@ -1,35 +1,16 @@
 ---
 title: "Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek"
 identifier: "BWBR0043571"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-05-26"
-last_updated: "2020-05-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043571"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15465073"
-version_id: "26729962"
-internal_id: "C37887351"
-label_id: "15408384"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043571/2020-05-26/0"
-intitule_bron: "Stcrt.2020-27919"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-05-26"
-intitule_in_force: "2020-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-27919"
-original_published_date: "2020-05-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-27919"
-entry_into_force_date: "2020-05-26"
-jci_1_3: "jci1.3:c:BWBR0043571&z=2020-05-26&g=2020-05-26"
-jci_1_0: "1.0:c:BWBR0043571&g=2020-05-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-05-26"
+publicatiedatum: 2020-05-26
+laatste_update: 2020-05-26
+status: geldig
+toestand: 2020-05-26
+bron: "https://wetten.overheid.nl/BWBR0043571"
+opgehaald: 2026-08-29
 ---
+
 # Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek
 
 ### 1. Inleiding
@@ -42,11 +23,11 @@ Door de COVID-19-crisis wordt de continuïteit van het praktijkgericht onderzoek
 
 ### 1.2. Beschikbaar budget
 
-Het maximaal beschikbare budget is € 10 miljoen. In de bijlage is per hogeschool het maximale subsidiebedrag aangegeven dat aangevraagd kan worden.
+Het maximaal beschikbare budget is € 10 miljoen. In de [bijlage](https://wetten.overheid.nl/BWBR0043571) is per hogeschool het maximale subsidiebedrag aangegeven dat aangevraagd kan worden.
 
 ### 1.3. Geldigheidsduur regeling
 
-Deze regeling is geldig voor de Impuls 2020 met de sluitingsdatum en -tijd 15 oktober 2020, 14:00:00 uur CEST.
+Deze regeling is geldig voor de Impuls 2020 met de sluitingsdatum en -tijd 15 oktober 2020, 14:00:00 uur CEST.
 
 ### 2. Doel
 
@@ -68,11 +49,17 @@ De aanvrager ontvangt alle correspondentie met betrekking tot de aangevraagde su
 
 ### 3.2. Wanneer kan aangevraagd worden
 
-Aanvragen kunnen doorlopend worden ingediend tot uiterlijk 15 oktober 2020, 14:00:00 uur CEST. Aanvragen die na deze deadline worden ingediend, worden niet in behandeling genomen.
+Aanvragen kunnen doorlopend worden ingediend tot uiterlijk 15 oktober 2020, 14:00:00 uur CEST. Aanvragen die na deze deadline worden ingediend, worden niet in behandeling genomen.
 
 ### 3.3. Hoe wordt de aanvraag opgesteld en ingediend
 
 Een volledige aanvraag omvat de volgende documenten:
+
+- • het volledig ingevulde en ondertekende aanvraagformulier;
+
+- • het inhoudelijk bestedingsplan;
+
+- • de begroting in excel met aangevraagde subsidie en kostenonderbouwing;
 
 Het indienen van een aanvraag gebeurt via het aanvraag- en rapportagesysteem ISAAC.
 
@@ -98,13 +85,19 @@ De middelen zijn ook bedoeld om te besteden aan de onderlinge afstemming tussen 
 
 De middelen kunnen niet ingezet worden als cofinanciering voor projectsubsidies van Regieorgaan SIA. De middelen kunnen ook niet worden ingezet voor onderwijsactiviteiten.
 
-De subsidie kan tot uiterlijk 31 december 2021 worden besteed. Besteding van de subsidie na 31 december 2021 is niet mogelijk. Het beoogde traject dient te starten uiterlijk drie maanden na subsidieverlening. De subsidiegelden zijn uitsluitend bestemd voor het uitvoeren van de activiteiten die zijn vastgesteld in de gehonoreerde aanvraag. Subsidiëring van (deel) activiteiten die reeds zijn gesubsidieerd vanuit andere bronnen, is niet mogelijk.
+De subsidie kan tot uiterlijk 31 december 2021 worden besteed. Besteding van de subsidie na 31 december 2021 is niet mogelijk. Het beoogde traject dient te starten uiterlijk drie maanden na subsidieverlening. De subsidiegelden zijn uitsluitend bestemd voor het uitvoeren van de activiteiten die zijn vastgesteld in de gehonoreerde aanvraag. Subsidiëring van (deel) activiteiten die reeds zijn gesubsidieerd vanuit andere bronnen, is niet mogelijk.
 
 ### Open Access publicatie
 
 Als ondertekenaar van de Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities (2003) zet NWO zich in om de resultaten van wetenschappelijk onderzoek dat door NWO gefinancierd wordt vrij toegankelijk te maken via internet (open access). Daarmee geeft NWO invulling aan het beleid van de Nederlandse regering om al het publiek gefinancierde onderzoek open access te maken. Alle wetenschappelijke publicaties van onderzoek dat is gefinancierd op basis van toekenningen voortvloeiend uit deze regeling dienen daarom onmiddellijk (op het moment van publicatie) open access beschikbaar te zijn. NWO accepteert daarbij verschillende routes:
 
-Eventuele kosten voor publiceren in open access tijdschriften kunnen worden begroot in de trajectbegroting. NWO vergoedt geen kosten voor publicaties in hybride tijdschriften. Deze voorwaarden geldt voor alle vormen van wetenschappelijke publicaties voortkomend uit deze regeling. Ook wetenschappelijke monografieën, **edited volumes**, **proceedings** en hoofdstukken. Voor een nadere toelichting op het open access beleid van NWO zie: www.nwo.nl/openscience.
+- • publicatie in een open access tijdschrift,
+
+- • deponeren van een versie van het artikel in een repository, of
+
+- • publicatie in een hybride tijdschrift waarover de VSNU overeenkomsten heeft gemaakt met uitgevers. Zie daarover:www.openaccess.nl.
+
+Eventuele kosten voor publiceren in open access tijdschriften kunnen worden begroot in de trajectbegroting. NWO vergoedt geen kosten voor publicaties in hybride tijdschriften. Deze voorwaarden geldt voor alle vormen van wetenschappelijke publicaties voortkomend uit deze regeling. Ook wetenschappelijke monografieën, *edited volumes*, *proceedings* en hoofdstukken. Voor een nadere toelichting op het open access beleid van NWO zie: www.nwo.nl/openscience.
 
 ### Ethische aspecten
 
@@ -122,9 +115,9 @@ De datamanagementparagraaf in de aanvraag wordt niet meegenomen in de beoordelin
 
 ### Nagoya Protocol
 
-Het Nagoya Protocol is op 12 oktober 2014 van kracht geworden en zorgt voor een eerlijke en billijke verdeling van voordelen voortvloeiende uit het gebruik van genetische rijkdommen (Access and Benefit Sharing, ABS). Onderzoekers die voor hun onderzoek gebruikmaken van genetische bronnen in/uit het buitenland dienen zich op de hoogte te stellen van het Nagoya Protocol (http://www.absfocalpoint.nl/). NWO gaat er vanuit dat zij de noodzakelijke acties ten aanzien van het Nagoya Protocol nemen.
+Het Nagoya Protocol is op 12 oktober 2014 van kracht geworden en zorgt voor een eerlijke en billijke verdeling van voordelen voortvloeiende uit het gebruik van genetische rijkdommen (Access and Benefit Sharing, ABS). Onderzoekers die voor hun onderzoek gebruikmaken van genetische bronnen in/uit het buitenland dienen zich op de hoogte te stellen van het Nagoya Protocol (http://www.absfocalpoint.nl/). NWO gaat er vanuit dat zij de noodzakelijke acties ten aanzien van het Nagoya Protocol nemen.
 
-De hogeschool verplicht zich na honorering van de aanvraag deel te nemen aan het monitoring- en evaluatiekader toegelicht onder hoofdstuk 5.
+De hogeschool verplicht zich na honorering van de aanvraag deel te nemen aan het monitoring- en evaluatiekader toegelicht onder [hoofdstuk 5](https://wetten.overheid.nl/BWBR0043571).
 
 ### 3.5. Financiële voorwaarden
 
@@ -134,7 +127,19 @@ De kosten die met deze subsidie gefinancierd kunnen worden, betreffen de gemaakt
 
 Voor de loonkosten worden de tarieven conform de Handleiding Overheidstarieven (HOT) uit het jaar 2017 gehanteerd. De tarieven 2017 mogen voor de gehele looptijd van de subsidie worden toegepast. De toegestane tarieven in de HOT betreffen uitsluitend de tarieven conform de volgende tabel.
 
-**Tabel: integrale loonkosten per salarisschaal 2017 (bedragen in euro’s)**
+| Schaal | Kostendekkend tarief per uur |  | Schaal | Kostendekkend tarief per uur |
+| --- | --- | --- | --- | --- |
+| 1 | 43 | 10 | 72 |  |
+| 2 | 46 | 11 | 79 |  |
+| 3 | 48 | 12 | 87 |  |
+| 4 | 53 | 13 | 95 |  |
+| 5 | 53 | 14 | 103 |  |
+| 6 | 56 | 15 | 111 |  |
+| 7 | 59 | 16 | 119 |  |
+| 8 | 63 | 17 | 127 |  |
+| 9 | 68 | 18 | 136 |  |
+
+*Tabel: integrale loonkosten per salarisschaal 2017 (bedragen in euro’s)*
 
 Deze tarieven zijn integraal toepasbaar en het hanteren van deze tarieven is zonder toelichting of berekening toegestaan.
 
@@ -152,7 +157,7 @@ Aanschaffingen van machines en apparatuur worden niet tot de trajectkosten gerek
 
 Afschrijvingstermijnen worden berekend op basis van de historische aanschafprijs exclusief financieringskosten, een lineaire afschrijvingsmethode en een levensduur van vijf jaar. Opvoering van kosten voor gebruik van apparatuur ouder dan vijf jaar is dus niet mogelijk.
 
-De kosten voor open access kunnen worden opgevoerd. Zie hiertoe paragraaf 3.4.
+De kosten voor open access kunnen worden opgevoerd. Zie hiertoe [paragraaf 3.4](https://wetten.overheid.nl/BWBR0043571).
 
 ### Overige voorwaarden
 
@@ -162,11 +167,21 @@ De aangevraagde subsidiebedragen in de ingediende begroting voor loonkosten en m
 
 ### 4.1. Ontvankelijkheid
 
-Aanvragen voor de Impuls 2020 kunnen doorlopend worden ingediend, tot aan de sluitingsdatum 15 oktober 2020, 14:00:00 uur CEST.
+Aanvragen voor de Impuls 2020 kunnen doorlopend worden ingediend, tot aan de sluitingsdatum 15 oktober 2020, 14:00:00 uur CEST.
 
 Iedere, via ISAAC, ingediende aanvraag wordt direct geregistreerd door middel van een dossiernummer. Dit dossiernummer geldt als vast kenmerk voor alle verdere correspondentie.
 
 De aanvraag wordt zo snel mogelijk na ontvangst gecontroleerd op volledigheid en vormvereisten. De ontvankelijkheidseisen zijn:
+
+- − maximaal één gehonoreerde aanvraag per hogeschool;
+
+- − er wordt niet meer aangevraagd dan het maximale bedrag zoals vastgesteld in de [bijlage](https://wetten.overheid.nl/BWBR0043571);
+
+- − volledig ingevuld en door de voorzitter van het College van Bestuur ondertekend aanvraagformulier;
+
+- − aangeleverd inhoudelijk bestedingsplan;
+
+- − aangeleverde begroting.
 
 Indien de aanvraag hieraan voldoet, wordt deze ontvankelijk verklaard. De aanvrager ontvangt daarvan bericht.
 
@@ -178,7 +193,7 @@ Indien de ontbrekende gegevens niet binnen de gestelde termijn zijn verstrekt, w
 
 ### 4.2. Beoordeling
 
-Voor de beoordeling van de Impuls 2020 aanvraag, vraagt Regieorgaan SIA geen extern advies. Het bureau van Regieorgaan SIA beoordeelt de aanvraag op basis van de voorwaarden zoals vermeld onder paragraaf 4.3. Alle personen en -medewerkers die betrokken zijn bij de beoordeling en besluitneming, zijn gehouden aan de NWO–code omgang met persoonlijke belangen (www.nwo.nl/code).
+Voor de beoordeling van de Impuls 2020 aanvraag, vraagt Regieorgaan SIA geen extern advies. Het bureau van Regieorgaan SIA beoordeelt de aanvraag op basis van de voorwaarden zoals vermeld onder [paragraaf 4.3](https://wetten.overheid.nl/BWBR0043571). Alle personen en -medewerkers die betrokken zijn bij de beoordeling en besluitneming, zijn gehouden aan de NWO–code omgang met persoonlijke belangen (www.nwo.nl/code).
 
 Indien een aanvraag niet met een voldoende wordt beoordeeld is er mogelijkheid tot herindiening tot de sluiting van de regeling.
 
@@ -186,11 +201,15 @@ Indien een aanvraag niet met een voldoende wordt beoordeeld is er mogelijkheid t
 
 De aanvraag wordt beoordeeld op de volgende punten:
 
+- 1 Past het inhoudelijk bestedingsplan binnen de doelstelling van de Impuls 2020, zoals geformuleerd in [hoofdstuk 2](https://wetten.overheid.nl/BWBR0043571) en staat de beoogde inzet in verhouding tot het beoogde doel van de aanvraag?
+
+- 2 Worden de begrote middelen ingezet binnen de kaders zoals gesteld in [paragraaf 3.4](https://wetten.overheid.nl/BWBR0043571)?
+
 Elk criterium wordt beoordeeld met een voldoende of een onvoldoende. Op elk van de genoemde criteria moet een voldoende worden gescoord om in aanmerking te komen voor honorering.
 
 ### 4.4. Besluitvorming
 
-Voor de beoordeling van aanvragen die worden ingediend in deze ronde vraagt Regieorgaan SIA geen extern advies. Het bureau van Regieorgaan SIA beoordeelt de aanvraag op basis van de criteria zoals vermeld in paragraaf 4.3. De directeur van Regieorgaan SIA is door de Raad van bestuur van NWO gemandateerd om een besluit te nemen. Het Regieorgaan SIA streeft ernaar om binnen twee weken na het in behandeling nemen van de aanvraag een besluit te nemen.
+Voor de beoordeling van aanvragen die worden ingediend in deze ronde vraagt Regieorgaan SIA geen extern advies. Het bureau van Regieorgaan SIA beoordeelt de aanvraag op basis van de criteria zoals vermeld in [paragraaf 4.3](https://wetten.overheid.nl/BWBR0043571). De directeur van Regieorgaan SIA is door de Raad van bestuur van NWO gemandateerd om een besluit te nemen. Het Regieorgaan SIA streeft ernaar om binnen twee weken na het in behandeling nemen van de aanvraag een besluit te nemen.
 
 In een bezwaar- en beroepsprocedure is voorzien. Informatie hierover vindt u op de website van NWO.
 
@@ -200,9 +219,13 @@ De aanvrager is verantwoordelijk voor de uitvoering van het traject en treedt op
 
 De subsidie wordt als volgt beschikbaar gesteld:
 
+- • 90% van het maximale subsidiebedrag (voorschot) binnen vier weken na de startdatum van het traject;
+
+- • restantbetaling binnen vier weken na het besluit omtrent vaststelling van het definitieve subsidiebedrag.
+
 ### Monitoring en evaluatie
 
-In paragraaf 3.5 is aangegeven dat de hogeschool zich veplicht mee te werken aan het monitoring- en evaluatiekader van Regieorgaan SIA.
+In [paragraaf 3.5](https://wetten.overheid.nl/BWBR0043571) is aangegeven dat de hogeschool zich veplicht mee te werken aan het monitoring- en evaluatiekader van Regieorgaan SIA.
 
 De hogeschool legt op twee momenten verantwoording af; in mei 2021 via een korte inhoudelijke tussenrapportage en uiterlijk drie maanden na afloop van de looptijd via een inhoudelijke- en financiële eindrapportage.
 
@@ -225,47 +248,3 @@ Op de pagina Impuls 2020 op de website van Regieorgaan SIA is de meest recente i
 Hiertoe verzoeken wij u contact op te nemen met de ISAAC-helpdesk. Wij raden u aan eerst de ISAAC-handleiding door te nemen voordat u contact opneemt met de helpdesk.
 
 De helpdesk van ISAAC is bereikbaar van maandag t/m vrijdag van 10.00 uur tot 17.00 uur, telefoonnummer 020-346 71 79. U kunt ook uw vraag per e-mail sturen naar isaac.helpdesk@nwo.nl. U ontvangt dan binnen twee werkdagen een reactie.
-
-## Bijlage. Maximale subsidie per hogeschool
-
-In onderstaande tabel staat de maximaal beschikbare subsidie per hogeschool. De maximaal aan te vragen subsidie hangt af van de grootte van de hogeschool (gebaseerd op het aantal inschrijvingen in 2019, volgens het dashboard van de Vereniging Hogescholen, april 2020). Uitgangspunt is dat een hogeschool minimaal evenveel subsidie mag aanvragen als een andere hogeschool met minder studenten.
-
-| Hogeschool | Maximale subsidie |
-| --- | --- |
-| Aeres Hogeschool | € 200.000 |
-| Amsterdamse Hogeschool voor de Kunsten | € 200.000 |
-| ArtEZ Hogeschool voor de Kunsten | € 200.000 |
-| Avans Hogeschool | € 475.000 |
-| Breda University of Applied Sciences | € 275.000 |
-| Christelijke Hogeschool Ede | € 250.000 |
-| Codarts Rotterdam | € 75.000 |
-| De Haagse Hogeschool | € 475.000 |
-| Design Academy Eindhoven | € 75.000 |
-| Driestar Hogeschool | € 100.000 |
-| Fontys Hogescholen | € 550.000 |
-| Gerrit Rietveld Academie | € 75.000 |
-| Hanzehogeschool Groningen | € 475.000 |
-| HAS Hogeschool | € 225.000 |
-| Hogeschool de Kempel | € 75.000 |
-| Hogeschool der Kunsten Den Haag | € 125.000 |
-| Hogeschool Inholland | € 475.000 |
-| Hogeschool iPabo | € 75.000 |
-| Hogeschool Leiden | € 300.000 |
-| Hogeschool Rotterdam | € 550.000 |
-| Hogeschool Utrecht | € 550.000 |
-| Hogeschool van Amsterdam | € 550.000 |
-| Hogeschool van Arnhem en Nijmegen | € 550.000 |
-| Hogeschool Viaa | € 125.000 |
-| Hogeschool voor de Kunsten Utrecht | € 250.000 |
-| Hotelschool The Hague | € 175.000 |
-| HZ University of Applied Sciences | € 250.000 |
-| Iselinge Hogeschool | € 75.000 |
-| Katholieke Pabo Zwolle | € 75.000 |
-| Marnix Academie | € 100.000 |
-| NHL Stenden Hogeschool | € 450.000 |
-| Saxion | € 475.000 |
-| Thomas More Hogeschool | € 75.000 |
-| Van Hall Larenstein University of Applied Sciences | € 250.000 |
-| Windesheim | € 450.000 |
-| Zuyd Hogeschool | € 350.000 |
-| **Totaal** | € 10.000.000 |

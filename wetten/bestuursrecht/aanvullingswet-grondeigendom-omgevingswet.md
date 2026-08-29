@@ -1,110 +1,108 @@
 ---
-title: "Aanvullingswet grondeigendom Omgevingswet"
+title: "Wet van 14 maart 2020 tot wijziging van de Omgevingswet en enkele andere wetten vanwege opname in de Omgevingswet van regels over het vestigen van een voorkeursrecht, regels over onteigening, bijzondere regels voor het inrichten van gebieden en, met het oog op verschillende typen gebiedsontwikkelingen, een verdere aanpassing van de regels over kostenverhaal (Aanvullingswet grondeigendom Omgevingswet)"
+citeertitel: "Aanvullingswet grondeigendom Omgevingswet"
 identifier: "BWBR0043371"
 categorie: "Bestuursrecht"
+soort: "wet"
 publicatiedatum: 2024-01-01
-laatste_update: 2026-05-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0043371"
+opgehaald: 2026-08-29
 ---
 
-# Aanvullingswet grondeigendom Omgevingswet
+# Wet van 14 maart 2020 tot wijziging van de Omgevingswet en enkele andere wetten vanwege opname in de Omgevingswet van regels over het vestigen van een voorkeursrecht, regels over onteigening, bijzondere regels voor het inrichten van gebieden en, met het oog op verschillende typen gebiedsontwikkelingen, een verdere aanpassing van de regels over kostenverhaal (Aanvullingswet grondeigendom Omgevingswet)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+### Hoofdstuk 1. Aanvulling en wijziging van de Omgevingswet
 
-Alzo Wij in overweging genomen hebben dat het wenselijk is om, mede gelet op internationaalrechtelijke verplichtingen en de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=14) en [21 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=21), de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) aan te vullen met regels over regulering en ontneming van eigendom, regels voor het inrichten van gebieden en regels over kostenverhaal;
+##### Artikel 1.1. (Omgevingswet)
 
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Hoofdstuk 1. Aanvulling en wijziging van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
-
-##### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
-
-Wijzigt de Omgevingswet.
+*Wijzigt de Omgevingswet.*
 
 ### Hoofdstuk 2. Wijziging van andere wetten
 
-##### Artikel 2.0. ([Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247))
+##### Artikel 2.0. (Aanvullingswet geluid Omgevingswet)
 
-Wijzigt de Aanvullingswet geluid Omgevingswet.
+*Wijzigt de Aanvullingswet geluid Omgevingswet.*
 
-##### Artikel 2.0a. ([Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277))
+##### Artikel 2.0a. (Aanvullingswet bodem Omgevingswet)
 
-Wijzigt de Aanvullingswet bodem Omgevingswet.
+*Wijzigt de Aanvullingswet bodem Omgevingswet.*
 
 ##### Artikel 2.0b. (Aanvullingswet natuur Omgevingswet)
 
-Wijzigt de Aanvullingswet natuur Omgevingswet.
+*Wijzigt de Aanvullingswet natuur Omgevingswet.*
 
-##### Artikel 2.1. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 2.1. (Algemene wet bestuursrecht)
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 2.2. (Burgerlijk Wetboek)
 
-Wijzigt het Burgerlijk Wetboek Boek 6 en Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 6 en Boek 7.*
 
-##### Artikel 2.3. ([Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290))
+##### Artikel 2.3. (Financiële-verhoudingswet)
 
-Wijzigt de Financiële-verhoudingswet.
+*Wijzigt de Financiële-verhoudingswet.*
 
-##### Artikel 2.4. ([Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416))
+##### Artikel 2.4. (Gemeentewet)
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
-##### Artikel 2.4a. ([Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660))
+##### Artikel 2.4a. (Invoeringswet Omgevingswet)
 
-Wijzigt de Invoeringswet Omgevingswet.
+*Wijzigt de Invoeringswet Omgevingswet.*
 
-##### Artikel 2.5. ([Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541))
+##### Artikel 2.5. (Kadasterwet)
 
-Wijzigt de Kadasterwet.
+*Wijzigt de Kadasterwet.*
 
-##### Artikel 2.6. ([onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842))
+##### Artikel 2.6. (onteigeningswet)
 
-Wijzigt de Onteigeningswet.
+*Wijzigt de Onteigeningswet.*
 
-##### Artikel 2.6a. ([Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252))
+##### Artikel 2.6a. (Spoorwegwet)
 
-Wijzigt de Spoorwegwet.
+*Wijzigt de Spoorwegwet.*
 
-##### Artikel 2.7. ([Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393))
+##### Artikel 2.7. (Vorderingswet)
 
-Wijzigt de Vorderingswet.
+*Wijzigt de Vorderingswet.*
 
-##### Artikel 2.8. ([Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718))
+##### Artikel 2.8. (Wet algemene regels herindeling)
 
-Wijzigt de Wet algemene regels herindeling.
+*Wijzigt de Wet algemene regels herindeling.*
 
-##### Artikel 2.9. ([Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740))
+##### Artikel 2.9. (Wet op belastingen van rechtsverkeer)
 
-Wijzigt de Wet op belastingen van rechtsverkeer.
+*Wijzigt de Wet op belastingen van rechtsverkeer.*
 
-##### Artikel 2.10. ([Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063))
+##### Artikel 2.10. (Wet op de economische delicten)
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
-##### Artikel 2.11. ([Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368))
+##### Artikel 2.11. (Wet op het financieel toezicht)
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
 ### Hoofdstuk 3. Intrekking van wetten
 
-##### Artikel 3.1. ([Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386))
+##### Artikel 3.1. (Wet agrarisch grondverkeer)
 
 De [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386) wordt ingetrokken.
 
-##### Artikel 3.2. ([Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748))
+##### Artikel 3.2. (Wet inrichting landelijk gebied)
 
 De [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748) wordt ingetrokken.
 
-##### Artikel 3.3. ([Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391))
+##### Artikel 3.3. (Wet voorkeursrecht gemeenten)
 
 De [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) wordt ingetrokken.
 
 ### Hoofdstuk 4. Overgangsrecht
 
-##### Artikel 4.1. (besluiten tot aanwijzing van gronden, rechtsgedingen en schadevergoeding [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391))
+##### Artikel 4.1. (besluiten tot aanwijzing van gronden, rechtsgedingen en schadevergoeding Wet voorkeursrecht gemeenten)
 
 1. Als voor de inwerkingtreding van deze wet op basis van de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391) een besluit tot voorlopige aanwijzing van gronden of een besluit tot aanwijzing van gronden is genomen, blijft het oude recht van toepassing tot het besluit onherroepelijk wordt.
 
@@ -114,7 +112,7 @@ De [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR000339
 
 4. Als voor de inwerkingtreding van deze wet een vordering tot schadevergoeding op grond van [artikel 25 van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=25) bij de gemeente, de provincie of de Staat is ingediend, blijft het oude recht van toepassing tot het tijdstip waarop een vonnis over die vordering in kracht van gewijsde is gegaan en, bij toewijzing van die vordering, de schade volledig is vergoed.
 
-##### Artikel 4.2. (gelijkstelling voorkeursrechten [Wvg](https://wetten.overheid.nl/jci1.3:c:BWBR0003391))
+##### Artikel 4.2. (gelijkstelling voorkeursrechten Wvg)
 
 1. Een onherroepelijk voorkeursrecht, gevestigd op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) in samenhang met [artikel 3, eerste lid, van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=3) geldt als een voorkeursrecht op grond van [artikel 9.1, eerste lid, onder a, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=9.1).
 
@@ -130,13 +128,11 @@ De [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR000339
 
 7. Een onherroepelijk voorkeursrecht gevestigd op grond van [artikel 9a, tweede lid, van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=9a) geldt als een voorkeursrecht op grond van [artikel 9.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=9.1).
 
-##### Artikel 4.3. (registratie voorkeursrechten)
+##### Artikel 4.3. (geldingsduur gelijkgestelde voorkeursrechten op basis van een bestemmingsplan of inpassingsplan)
 
-Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2023/376.
+Als op het moment van inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) vijf jaar of meer zijn verstreken nadat een voorkeursrecht, gevestigd op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=2) in samenhang met [artikel 3, eerste lid, van de Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=3) respectievelijk [artikel 9a, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003391&artikel=9a), in samenhang met artikel 3, eerste lid, van die wet is ingegaan, vervalt het voorkeursrecht van rechtswege als tien jaar zijn verstreken na de inwerkingtreding van het bestemmingsplan respectievelijk het inpassingsplan waarop het voorkeursrecht is gebaseerd.
 
-Vervallen.
-
-##### Artikel 4.4. (procedures [onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842))
+##### Artikel 4.4. (procedures onteigeningswet)
 
 1. Als voor de inwerkingtreding van deze wet een verzoek tot het nemen van een besluit als bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=62), [72a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=72a), [72b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=72b), [72c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=72c), [78, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=78), en [122, tweede lid, van de onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=122) is ingediend, blijft het oude recht van toepassing.
 
@@ -170,13 +166,15 @@ voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3
 
 2. Een ruilplan als bedoeld in [artikel 47 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=47) geldt als ruilbesluit als bedoeld in [artikel 12.22 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=12.22).
 
-3. In afwijking van het eerste lid vervalt een inrichtingsplan voor zover dat voorziet in de toewijzing en regeling van het beheer en onderhoud van waterlopen, dijken of kaden met de daartoe behorende kunstwerken, bedoeld in [artikel 28, onder b, van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=28), op het tijdstip waarop deze wet in werking treedt.
+3. Een lijst der geldelijke regelingen als bedoeld in [artikel 47 van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=47) geldt als een besluit geldelijke regelingen als bedoeld in [artikel 12.36 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=12.36).
+
+4. In afwijking van het eerste lid vervalt een inrichtingsplan voor zover dat voorziet in de toewijzing en regeling van het beheer en onderhoud van waterlopen, dijken of kaden met de daartoe behorende kunstwerken, bedoeld in [artikel 28, onder b, van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=28), op het tijdstip waarop deze wet in werking treedt.
 
 ##### Artikel 4.7. (overgangsrecht inrichting gebieden)
 
-1. De [Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793) blijft van toepassing op landinrichtingsprojecten die al in voorbereiding of in uitvoering waren op 1 januari 2007, waarbij in [artikel 187, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=187) in plaats van de zinsnede «vast recht, als bedoeld in de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) (Stb. 1960, 541)» wordt gelezen: «griffierecht, als bedoeld in de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899)» en waarbij, nadat de lijst der geldelijke regelingen door de rechtbank is gesloten op grond van [artikel 217, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=217), het door de eigenaar verschuldigde bedrag, bedoeld in [artikel 223, tweede lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=223) wordt gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.
+1. De [Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793) blijft van toepassing op landinrichtingsprojecten die al in voorbereiding of in uitvoering waren op 1 januari 2007, waarbij in [artikel 187, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=187) in plaats van de zinsnede «vast recht, als bedoeld in de [Wet tarieven in burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0001852) (Stb. 1960, 541)» wordt gelezen: «griffierecht, als bedoeld in de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899)» en waarbij, nadat de lijst der geldelijke regelingen door de rechtbank is gesloten op grond van [artikel 217, eerste lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=217), het door de eigenaar verschuldigde bedrag, bedoeld in [artikel 223, tweede lid, van de Landinrichtingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003793&artikel=223) wordt gecorrigeerd met een door gedeputeerde staten vastgestelde correctiefactor, zijnde het quotiënt van de definitieve kosten en de kosten zoals deze oorspronkelijk in de lijst der geldelijke regelingen waren opgenomen.
 
-2. De [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143) blijft van toepassing op herinrichtingsprojecten op grond van die wet die al in voorbereiding of in uitvoering waren op 1 juli 2014.
+2. De [Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën](https://wetten.overheid.nl/jci1.3:c:BWBR0003143) blijft van toepassing op herinrichtingsprojecten op grond van die wet die al in voorbereiding of in uitvoering waren op 1 juli 2014.
 
 ##### Artikel 4.8. (schade gedoogplicht inrichting en onteigening)
 
@@ -194,21 +192,21 @@ Zolang nog geen gemeentelijke omgevingsvisie als bedoeld in [artikel 3.1, eerste
 
 ### Hoofdstuk 4a. Overige bepalingen
 
-##### Artikel 4a.1. ([Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247))
+##### Artikel 4a.1. (Aanvullingswet geluid Omgevingswet)
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-##### Artikel 4a.2. ([Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277))
+##### Artikel 4a.2. (Aanvullingswet bodem Omgevingswet)
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 4a.3. (Aanvullingswet natuur Omgevingswet)
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-##### Artikel 4a.4. (wijziging [Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431))
+##### Artikel 4a.4. (wijziging Crisis- en herstelwet)
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -219,5 +217,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 5.2. (citeertitel)
 
 Deze wet wordt aangehaald als: Aanvullingswet grondeigendom Omgevingswet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

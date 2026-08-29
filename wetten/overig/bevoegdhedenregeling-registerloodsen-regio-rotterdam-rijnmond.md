@@ -1,43 +1,17 @@
 ---
 title: "Bevoegdhedenregeling registerloodsen regio Rotterdam-Rijnmond"
 identifier: "BWBR0043335"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-04-01"
-last_updated: "2020-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043335"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15384983"
-version_id: "26594762"
-internal_id: "C37742531"
-label_id: "15329354"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043335/2020-04-01/0"
-intitule_bron: "Stcrt.2020-17753"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-26"
-intitule_published: "2020-03-31"
-intitule_in_force: "2020-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-17753"
-original_signed_date: "2019-11-26"
-original_published_date: "2020-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-17753"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043335&z=2020-04-01&g=2020-04-01"
-jci_1_0: "1.0:c:BWBR0043335&g=2020-04-01"
-citeertitel_status: "officieel"
-signed_date: "2019-11-26"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2020-04-01
+status: geldig
+toestand: 2020-04-01
+bron: "https://wetten.overheid.nl/BWBR0043335"
+opgehaald: 2026-08-29
 ---
+
 # Bevoegdhedenregeling registerloodsen regio Rotterdam-Rijnmond
-
-Gelet op [artikel 4, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) en de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=3), [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4), [4a tot en met 4d](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=4a) en [14, derde lid, van de Bevoegdhedenverordening registerloodsen 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -87,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Het op peil houden van ervaring of vaardigheid en het behouden en intrekken van een specialisatie
 
-#### § 1. Specialisaties ‘[artikel 9, vijfde tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&artikel=9).’
+#### § 1. Specialisaties ‘artikel 9, vijfde tot en met tiende lid.’
 
 ##### Artikel 4. Herhaaltrainingen
 
@@ -117,9 +91,9 @@ In alle gevallen waarin deze regeling niet voorzien, beslist het bestuur.
 
 ##### Artikel 8. Intrekking regelingen
 
-1. De Nadere voorschriften bevoegdheden registerloodsen Rotterdam – Rijnmond van 17 mei 2010, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 15 september 2010, VenW/BSK-2010/43394, wordt ingetrokken.
+1. De Nadere voorschriften bevoegdheden registerloodsen Rotterdam – Rijnmond van 17 mei 2010, goedgekeurd door de Minister van Verkeer en Waterstaat bij besluit van 15 september 2010, VenW/BSK-2010/43394, wordt ingetrokken.
 
-2. Het Reglement Loa – regio Rotterdam-Rijnmond van 15 december 2014, goedgekeurd door de Minister van Infrastructuur en Milieu bij besluit van 9 februari 2015, nr. IENM/BSK-2015/29303, wordt ingetrokken.
+2. Het Reglement Loa – regio Rotterdam-Rijnmond van 15 december 2014, goedgekeurd door de Minister van Infrastructuur en Milieu bij besluit van 9 februari 2015, nr. IENM/BSK-2015/29303, wordt ingetrokken.
 
 ##### Artikel 9. Citeerbepaling en Inwerkingtreding
 

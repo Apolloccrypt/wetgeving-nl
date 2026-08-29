@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2019, nr. 17644318, houdende wijziging van de Regeling op het specifiek cultuurbeleid en de Regeling beheer rijkscollectie en subsidiëring museale instellingen in verband met het vaststellen van de criteria voor vierjaarlijkse subsidiëring in de periode 2021–2024 alsmede met enkele aanpassingen van technische aard (Subsidieregeling culturele basisinfrastructuur 2021–2024)"
+citeertitel: "Subsidieregeling culturele basisinfrastructuur 2021–2024"
 identifier: "BWBR0042754"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-06-04"
-last_updated: "2020-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042754"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15223113"
-version_id: "26188642"
-internal_id: "C37909301"
-label_id: "15169784"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042754/2020-06-04/0"
-intitule_bron: "Stcrt.2019-61036"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-30"
-intitule_published: "2019-11-11"
-intitule_in_force: "2019-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-61036"
-original_signed_date: "2019-10-30"
-original_published_date: "2019-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-61036"
-entry_into_force_date: "2019-11-12"
-jci_1_3: "jci1.3:c:BWBR0042754&z=2020-06-04&g=2020-06-04"
-jci_1_0: "1.0:c:BWBR0042754&g=2020-06-04"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling culturele basisinfrastructuur 2021–2024"
-signed_date: "2019-10-30"
-entry_into_force: "2019-11-12"
+publicatiedatum: 2019-11-12
+laatste_update: 2020-06-04
+status: geldig
+toestand: 2020-06-04
+bron: "https://wetten.overheid.nl/BWBR0042754"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 30 oktober 2019, nr. 17644318, houdende wijziging van de Regeling op het specifiek cultuurbeleid en de Regeling beheer rijkscollectie en subsidiëring museale instellingen in verband met het vaststellen van de criteria voor vierjaarlijkse subsidiëring in de periode 2021–2024 alsmede met enkele aanpassingen van technische aard (Subsidieregeling culturele basisinfrastructuur 2021–2024)
 
-Gelet op [artikel 4a van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=4a), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=3) en [4 van het Besluit op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027600&artikel=4) en de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.5) en [7.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7);
+##### Artikel I. Wijziging Regeling op het specifiek cultuurbeleid
 
-Besluit:
+*Wijzigt de Regeling op het specifiek cultuurbeleid.*
 
-##### Artikel I. Wijziging [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597)
+##### Artikel II. Wijziging Regeling beheer rijkscollectie en subsidiëring museale instellingen
 
-Wijzigt de Regeling op het specifiek cultuurbeleid.
-
-##### Artikel II. Wijziging [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533)
-
-Wijzigt de Regeling beheer rijkscollectie en subsidiëring museale instellingen.
+*Wijzigt de Regeling beheer rijkscollectie en subsidiëring museale instellingen.*
 
 ##### Artikel III. Overgangsbepalingen
 
@@ -65,5 +39,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de datum van uit
 ##### Artikel V. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling culturele basisinfrastructuur 2021–2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Regeling vierjarige subsidies Nederlands Letterenfonds 2021–2024"
 identifier: "BWBR0042933"
-country: "nl"
-rank: "zbo"
-publication_date: "2019-12-21"
-last_updated: "2019-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042933"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15284233"
-version_id: "26334702"
-internal_id: "C37429161"
-label_id: "15230334"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042933/2019-12-21/0"
-intitule_bron: "Stcrt.2019-69397"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2019-12-20"
-intitule_in_force: "2019-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-69397"
-original_published_date: "2019-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-69397"
-entry_into_force_date: "2019-12-21"
-jci_1_3: "jci1.3:c:BWBR0042933&z=2019-12-21&g=2019-12-21"
-jci_1_0: "1.0:c:BWBR0042933&g=2019-12-21"
-citeertitel_status: "officieel"
-entry_into_force: "2019-12-21"
+publicatiedatum: 2019-12-21
+laatste_update: 2019-12-21
+status: geldig
+toestand: 2019-12-21
+bron: "https://wetten.overheid.nl/BWBR0042933"
+opgehaald: 2026-08-29
 ---
+
 # Regeling vierjarige subsidies Nederlands Letterenfonds 2021–2024
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10)
-
-Besluit
 
 #### § 1. Algemeen
 
@@ -42,69 +19,69 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- **auteurs:** professionele literaire makers, waaronder schrijvers en vertalers;
+- *auteurs:* professionele literaire makers, waaronder schrijvers en vertalers;
 
-- **het bestuur:** het bestuur van de Stichting Nederlands Letterenfonds;
+- *het bestuur:* het bestuur van de Stichting Nederlands Letterenfonds;
 
-- **bestuursorgaan:** een bestuursorgaan in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- *bestuursorgaan:* een bestuursorgaan in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- **eigen inkomsten:** de baten in de jaarrekening, te weten:
+- *eigen inkomsten:* de baten in de jaarrekening, te weten:
 
-- a. publieksinkomsten
+   - a. publieksinkomsten
 
-- b. overige inkomsten, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+   - b. overige inkomsten, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- •. directe opbrengsten: sponsorinkomsten en overige inkomsten;
+      - • directe opbrengsten: sponsorinkomsten en overige inkomsten;
 
-- •. indirecte opbrengsten en
+      - • indirecte opbrengsten en
 
-- •. overige bijdragen.
+      - • overige bijdragen.
 
-- •. subsidies die zijn verstrekt door een bestuursorgaan;
+      - • subsidies die zijn verstrekt door een bestuursorgaan;
 
-- •. overige bijdragen uit publieke middelen;
+      - • overige bijdragen uit publieke middelen;
 
-- •. rentebaten;
+      - • rentebaten;
 
-- •. bijdragen in natura;
+      - • bijdragen in natura;
 
-- •. kapitalisatie van vrijwilligers;
+      - • kapitalisatie van vrijwilligers;
 
-- •. waardering vrijkaarten en
+      - • waardering vrijkaarten en
 
-- •. overige baten die geen relatie hebben met cultureel ondernemerschap.
+      - • overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-- **Het Letterenfonds:** de Stichting Nederlands Letterenfonds;
+- *Het Letterenfonds:* de Stichting Nederlands Letterenfonds;
 
-- **literatuur-educatie:** activiteiten gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of creatief schrijven;
+- *literatuur-educatie:* activiteiten gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of creatief schrijven;
 
-- **andere overheden:** provincies of gemeenten;
+- *andere overheden:* provincies of gemeenten;
 
-- **landelijk belang:** activiteiten op het terrein van de literatuur die onderscheidend zijn in kwaliteit zowel landelijk als in hun eigen omgeving;
+- *landelijk belang:* activiteiten op het terrein van de literatuur die onderscheidend zijn in kwaliteit zowel landelijk als in hun eigen omgeving;
 
-- **liquiditeit:** vlottende activa gedeeld door vlottende passiva;
+- *liquiditeit:* vlottende activa gedeeld door vlottende passiva;
 
-- **literatuur:** Nederlandstalige en/of Friestalige literatuur;
+- *literatuur:* Nederlandstalige en/of Friestalige literatuur;
 
-- **literair:** de Nederlandstalige en/of Friestalige literatuur betreffende;
+- *literair:* de Nederlandstalige en/of Friestalige literatuur betreffende;
 
-- **manifestatie:** reeks van onderling samenhangende activiteiten die jaarlijks onder een gemeenschappelijke noemer worden georganiseerd op het terrein van literatuur in de volle breedte;
+- *manifestatie:* reeks van onderling samenhangende activiteiten die jaarlijks onder een gemeenschappelijke noemer worden georganiseerd op het terrein van literatuur in de volle breedte;
 
-- **Nederland:** het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- *Nederland:* het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- **solvabiliteit:** het eigen vermogen gedeeld door het vreemd vermogen;
+- *solvabiliteit:* het eigen vermogen gedeeld door het vreemd vermogen;
 
-- **subsidieperiode:** de periode van 2021 tot en met 2024;
+- *subsidieperiode:* de periode van 2021 tot en met 2024;
 
-- **talentontwikkeling:** activiteiten gericht op:
+- *talentontwikkeling:* activiteiten gericht op:
 
-- •. de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
+   - • de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
 
-- •. het ontwikkelen van talent (waaronder programmeurs) binnen de instelling van de aanvrager;
+   - • het ontwikkelen van talent (waaronder programmeurs) binnen de instelling van de aanvrager;
 
-- •. het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk – waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
+   - • het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk – waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
 
-- **totale baten:** het totaal aan financiële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot de activiteiten van de aanvrager, te verwezenlijken en de kosten van de organisatie te dekken.
+- *totale baten:* het totaal aan financiële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot de activiteiten van de aanvrager, te verwezenlijken en de kosten van de organisatie te dekken.
 
 ##### Artikel 1.2. Doel
 
@@ -132,11 +109,11 @@ deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal wo
 
 - c. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
-- d. als de aanvrager in 2019 geen twee- of vierjarige subsidie van het Letterenfonds ontving dan wel, indien die subsidie in totaal, inclusief incidentele subsidies, lager was dan € 70.000,–;
+- d. als de aanvrager in 2019 geen twee- of vierjarige subsidie van het Letterenfonds ontving dan wel, indien die subsidie in totaal, inclusief incidentele subsidies, lager was dan € 70.000,–;
 
-- e. als de totale baten van de aanvrager van een manifestatie-subsidie in 2018 minder dan € 200.000,– bedroegen;
+- e. als de totale baten van de aanvrager van een manifestatie-subsidie in 2018 minder dan € 200.000,– bedroegen;
 
-- f. als de totale baten van de aanvrager van een literatuur-educatie subsidie in 2018 minder dan € 150.000,– bedroegen;
+- f. als de totale baten van de aanvrager van een literatuur-educatie subsidie in 2018 minder dan € 150.000,– bedroegen;
 
 - g. als de aanvraag onvoldoende concreet is met betrekking tot de uit te voeren activiteiten;
 
@@ -158,23 +135,23 @@ deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal wo
 
 3. De categorieën met betrekking tot de manifestatie-subsidies zijn de volgende:
 
-- a. categorie MA: maximaal € 245.000 per jaar indien de totale baten van de aanvrager in 2018 meer dan € 800.000,– bedragen;
+- a. categorie MA: maximaal € 245.000 per jaar indien de totale baten van de aanvrager in 2018 meer dan € 800.000,– bedragen;
 
-- b. categorie MB: maximaal € 190.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 500.000,– en € 800.000,– bedragen;
+- b. categorie MB: maximaal € 190.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 500.000,– en € 800.000,– bedragen;
 
-- c. categorie MC: maximaal € 120.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 200.000,– en € 500.000,– bedragen.
+- c. categorie MC: maximaal € 120.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 200.000,– en € 500.000,– bedragen.
 
-4. In categorie MA kunnen maximaal drie subsidies worden verstrekt, waarvan maximaal twee van € 245.000,–
+4. In categorie MA kunnen maximaal drie subsidies worden verstrekt, waarvan maximaal twee van € 245.000,–
 
-5. Het bestuur kan besluiten dat een aanvraag in categorie MA slechts in aanmerking komt voor een subsidie van € 210.000,–, wanneer uit de in 2018 aan het Letterenfonds verstrekte prestatiegegevens bij de goedgekeurde jaarrekening blijkt dat het totaal aantal bezoekers en deelnemers aan activiteiten dat met behulp van subsidie is gerealiseerd lager is dan 10.000.
+5. Het bestuur kan besluiten dat een aanvraag in categorie MA slechts in aanmerking komt voor een subsidie van € 210.000,–, wanneer uit de in 2018 aan het Letterenfonds verstrekte prestatiegegevens bij de goedgekeurde jaarrekening blijkt dat het totaal aantal bezoekers en deelnemers aan activiteiten dat met behulp van subsidie is gerealiseerd lager is dan 10.000.
 
 6. De categorieën met betrekking tot de subsidies literatuur-educatie zijn de volgende:
 
-- a. categorie EA: maximaal € 270.000 per jaar indien de totale baten van de aanvrager in 2018 meer dan € 800.000,– bedragen;
+- a. categorie EA: maximaal € 270.000 per jaar indien de totale baten van de aanvrager in 2018 meer dan € 800.000,– bedragen;
 
-- b. categorie EB: maximaal € 120.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 400.000,– en € 800.000,– bedragen;
+- b. categorie EB: maximaal € 120.000 per jaar indien de totale baten van de aanvrager in 2018 tussen de € 400.000,– en € 800.000,– bedragen;
 
-- c. categorie EC: maximaal € 100.000,– per jaar indien de totale baten van de aanvrager in 2018 tussen de € 150.000,– en € 400.000,– bedragen.
+- c. categorie EC: maximaal € 100.000,– per jaar indien de totale baten van de aanvrager in 2018 tussen de € 150.000,– en € 400.000,– bedragen.
 
 7. In de aanvraag wordt onderbouwd dat het niveau van de totale baten gedurende de subsidieperiode gehandhaafd blijft.
 
@@ -190,7 +167,7 @@ deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal wo
 
 3. Het bestuur verstrekt aan subsidies literatuur-educatie volgens de verdeling genoemd in [artikel 1.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042933&paragraaf=1&artikel=1.5&z=2019-12-21&g=2019-12-21), maximaal één in categorie EA, één in categorie EB en één in categorie EC.
 
-4. Per kalenderjaar is € 1.130.000,– beschikbaar voor het verstrekken van manifestatie-subsidie en € 490.000,– voor literatuur-educatie-subsidie.
+4. Per kalenderjaar is € 1.130.000,– beschikbaar voor het verstrekken van manifestatie-subsidie en € 490.000,– voor literatuur-educatie-subsidie.
 
 5. De in dit artikel genoemde bedragen en maxima gelden als subsidieplafond. Het bestuur kan een eerder vastgesteld subsidieplafond verhogen of verlagen.
 
@@ -200,7 +177,7 @@ deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal wo
 
 ##### Artikel 2.1. Indieningsperiode en termijn
 
-Aanvragen dienen uiterlijk 3 maart 2020 om 17.00 uur door het Letterenfonds te zijn ontvangen.
+Aanvragen dienen uiterlijk 3 maart 2020 om 17.00 uur door het Letterenfonds te zijn ontvangen.
 
 ##### Artikel 2.2. Aanvraagformulier
 
@@ -294,13 +271,13 @@ De aanvrager is ofwel een organisatie van landelijk belang die vrijwel uitsluite
 
 1. Een aanvrager die in aanmerking wil komen voor een literatuur-educatie subsidie:
 
-- −. heeft minimaal drie jaar op continue basis literaire educatieve activiteiten voor jeugd georganiseerd;
+- − heeft minimaal drie jaar op continue basis literaire educatieve activiteiten voor jeugd georganiseerd;
 
-- −. toont aan dat de door hem georganiseerde activiteiten landelijk aangeboden zijn geweest;
+- − toont aan dat de door hem georganiseerde activiteiten landelijk aangeboden zijn geweest;
 
-- −. bereikte daarmee jaarlijks tenminste 3.500 deelnemers (binnen- dan wel buitenschools);
+- − bereikte daarmee jaarlijks tenminste 3.500 deelnemers (binnen- dan wel buitenschools);
 
-- −. toont, in geval een subsidie van € 270.000,– wordt aangevraagd, aan dat hij over de jaren 2018 en 2019 een substantieel deel aan eigen inkomsten binnen het totaal aan baten ten behoeve van de exploitatie van de aanvrager heeft behaald.
+- − toont, in geval een subsidie van € 270.000,– wordt aangevraagd, aan dat hij over de jaren 2018 en 2019 een substantieel deel aan eigen inkomsten binnen het totaal aan baten ten behoeve van de exploitatie van de aanvrager heeft behaald.
 
 2. Het bestuur kan besluiten om een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager slechts in zeer beperkte mate hieraan niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit om de aanvraag te honoreren. Het besluit om voorwaarden te stellen, is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
@@ -342,11 +319,11 @@ De ontvanger van subsidie op basis van deze regeling kan in de periode waarop di
 
 ##### Artikel 5.3. Verantwoording
 
-1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
+1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
 2. De verantwoording omvat een inhoudelijk en een financieel deel. De inhoudelijke verantwoording bestaat uit een verslag over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
-3. De financiële verantwoording sluit aan op de ingediende begroting en gaat bij subsidies die voor twee jaar tezamen een bedrag van € 125.000 overstijgen vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol.
+3. De financiële verantwoording sluit aan op de ingediende begroting en gaat bij subsidies die voor twee jaar tezamen een bedrag van € 125.000 overstijgen vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol.
 
 4. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening; op deze rekening zijn de bepalingen omtrent de winst en verliesrekening van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo. De[Afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15 van titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) zijn niet van toepassing op de jaarrekening.
 
@@ -383,5 +360,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5.9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vierjarige subsidies Nederlands Letterenfonds 2021–2024.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

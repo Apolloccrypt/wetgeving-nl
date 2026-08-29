@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020 nr. WJZ/20062897, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 700, 1400 en 2100 MHz-band ten behoeve van mobiele communicatietoepassingen en wijziging van de Regeling vergoedingen Agentschap Telecom 2020 (Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz)"
+citeertitel: "Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz"
 identifier: "BWBR0043242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-03-07"
-last_updated: "2020-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043242"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15355773"
-version_id: "26545932"
-internal_id: "C37674251"
-label_id: "15301014"
-dtd_version: "2.0"
-original_entry_into_force: "2020-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043242/2020-03-07/0"
-intitule_bron: "Stcrt.2020-13725"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-06"
-intitule_published: "2020-03-06"
-intitule_in_force: "2020-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-13725"
-original_signed_date: "2020-03-06"
-original_published_date: "2020-03-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-13725"
-entry_into_force_date: "2020-03-07"
-jci_1_3: "jci1.3:c:BWBR0043242&z=2020-03-07&g=2020-03-07"
-jci_1_0: "1.0:c:BWBR0043242&g=2020-03-07"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz"
-signed_date: "2020-03-06"
-entry_into_force: "2020-03-07"
+publicatiedatum: 2020-03-07
+laatste_update: 2020-03-07
+status: geldig
+toestand: 2020-03-07
+bron: "https://wetten.overheid.nl/BWBR0043242"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020 nr. WJZ/20062897, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 700, 1400 en 2100 MHz-band ten behoeve van mobiele communicatietoepassingen en wijziging van de Regeling vergoedingen Agentschap Telecom 2020 (Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 #### § 1. Begripsbepalingen
 
@@ -46,45 +20,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **aanvrager:** degene die een aanvraag heeft ingediend;
+- – *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- –. **activiteitsniveau:** totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
+- – *activiteitsniveau:* totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
 
-- –. **activiteitspunt:** aan een te veilen vergunning op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
+- – *activiteitspunt:* aan een te veilen vergunning op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
 
-- –. **bekendmakingsbesluit:** [Besluit bekendmaking veiling vergunningen 700, 1400 en 2100 MHz](onbekend);
+- – *bekendmakingsbesluit:*
+ Besluit bekendmaking veiling vergunningen 700, 1400 en 2100 MHz;
 
-- –. **bod:** bieding of biedingen, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- – *bod:* bieding of biedingen, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- –. **capregeling:** [Capregeling frequenties mobiele communicatie 2020](onbekend);
+- – *capregeling:*
+ Capregeling frequenties mobiele communicatie 2020;
 
-- –. **deelnemer:** in [artikel 8 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=4&artikel=8&z=2020-03-07&g=2020-03-07): aanvrager die toegelaten is tot de veiling, in [artikel 21 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=21&z=2020-03-07&g=2020-03-07): winnende deelnemer;
+- – *deelnemer:* in [artikel 8 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=4&artikel=8&z=2020-03-07&g=2020-03-07): aanvrager die toegelaten is tot de veiling, in [artikel 21 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=21&z=2020-03-07&g=2020-03-07): winnende deelnemer;
 
-- –. **minister:** Minister van Economische Zaken en Klimaat;
+- – *minister:* Minister van Economische Zaken en Klimaat;
 
-- –. **onderband:** met betrekking tot vergunning K: 703-733 MHz, met betrekking tot vergunning M: 1920-1980 MHz;
+- – *onderband:* met betrekking tot vergunning K: 703-733 MHz, met betrekking tot vergunning M: 1920-1980 MHz;
 
-- –. **rente:** de rente, zoals die vergoed wordt door de bank waar de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=6&z=2020-03-07&g=2020-03-07), genoemde kwaliteitsrekening van de door de minister aangewezen notaris wordt aangehouden, met een minimum van 0%;
+- – *rente:* de rente, zoals die vergoed wordt door de bank waar de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=6&z=2020-03-07&g=2020-03-07), genoemde kwaliteitsrekening van de door de minister aangewezen notaris wordt aangehouden, met een minimum van 0%;
 
-- –. **verbonden rechtspersoon:** verbonden rechtspersoon in de zin van [artikel 3 van de capregeling](onbekend);
+- – *verbonden rechtspersoon:* verbonden rechtspersoon in de zin van artikel 3 van de capregeling;
 
-- –. **vergunning K:** vergunning voor het gebruik van frequentieruimte van twee keer 5 MHz binnen het frequentiebereik 703-733 MHz gepaard met 758-788 MHz waarbij tussen beide frequentieruimten van 5 MHz steeds een afstand is van 55 MHz, als omschreven in [bijlage 1 van het bekendmakingsbesluit](onbekend);
+- – *vergunning K:* vergunning voor het gebruik van frequentieruimte van twee keer 5 MHz binnen het frequentiebereik 703-733 MHz gepaard met 758-788 MHz waarbij tussen beide frequentieruimten van 5 MHz steeds een afstand is van 55 MHz, als omschreven in bijlage 1 van het bekendmakingsbesluit;
 
-- –. **vergunning L:** vergunning voor het gebruik van frequentieruimte van 5 MHz binnen het frequentiebereik 1452-1492 MHz, als omschreven in [bijlage 2 van het bekendmakingsbesluit](onbekend);
+- – *vergunning L:* vergunning voor het gebruik van frequentieruimte van 5 MHz binnen het frequentiebereik 1452-1492 MHz, als omschreven in bijlage 2 van het bekendmakingsbesluit;
 
-- –. **vergunning M:** vergunning voor het gebruik van frequentieruimte van twee keer 5 MHz binnen het frequentiebereik 1920-1980 MHz gepaard met 2110-2170 MHz waarbij tussen beide frequentieruimten van 5 MHz steeds een afstand is van 190 MHz, als omschreven in [bijlage 3 van het bekendmakingsbesluit](onbekend);
+- – *vergunning M:* vergunning voor het gebruik van frequentieruimte van twee keer 5 MHz binnen het frequentiebereik 1920-1980 MHz gepaard met 2110-2170 MHz waarbij tussen beide frequentieruimten van 5 MHz steeds een afstand is van 190 MHz, als omschreven in bijlage 3 van het bekendmakingsbesluit;
 
-- –. **voorlopig winnende bieding:** bieding die overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=18&z=2020-03-07&g=2020-03-07) is aangemerkt als voorlopig winnende bieding;
+- – *voorlopig winnende bieding:* bieding die overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=18&z=2020-03-07&g=2020-03-07) is aangemerkt als voorlopig winnende bieding;
 
-- –. **winnende bieding:** bieding die op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), is aangemerkt als winnende bieding;
+- – *winnende bieding:* bieding die op grond van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), is aangemerkt als winnende bieding;
 
-- –. **winnende deelnemer:** deelnemer wiens bieding is aangemerkt als winnende bieding.
+- – *winnende deelnemer:* deelnemer wiens bieding is aangemerkt als winnende bieding.
 
 #### § 2. Beschikbare vergunningen
 
 ##### Artikel 2
 
-1. Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel van een veiling te worden verdeeld:
+1. Ingevolge het bekendmakingsbesluit zijn beschikbaar om door middel van een veiling te worden verdeeld:
 
 - a. zes vergunningen K;
 
@@ -100,9 +76,9 @@ In deze regeling wordt verstaan onder:
 
 - c. vergunning M: 10 activiteitspunten.
 
-3. Aan een aanvrager worden niet meer activiteitspunten toegekend dan overeenkomt met de maximale hoeveelheid frequentieruimte die de aanvrager gelet op [artikel 4, eerste lid, van de capregeling](onbekend) in de veiling kan verkrijgen.
+3. Aan een aanvrager worden niet meer activiteitspunten toegekend dan overeenkomt met de maximale hoeveelheid frequentieruimte die de aanvrager gelet op artikel 4, eerste lid, van de capregeling in de veiling kan verkrijgen.
 
-4. Aan een aanvrager worden niet meer vergunningen K verleend dan overeenkomt met de maximale hoeveelheid frequentieruimte lager dan 1 GHz die de aanvrager gelet op [artikel 4, tweede lid, van de capregeling](onbekend) in de veiling kan verkrijgen.
+4. Aan een aanvrager worden niet meer vergunningen K verleend dan overeenkomt met de maximale hoeveelheid frequentieruimte lager dan 1 GHz die de aanvrager gelet op artikel 4, tweede lid, van de capregeling in de veiling kan verkrijgen.
 
 #### § 3. Vergunningaanvraag en zekerheidstelling (inschrijvingsfase)
 
@@ -110,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 1. Degene die voor een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), in aanmerking wil komen, dient een aanvraag in.
 
-2. Een aanvraag wordt uiterlijk op 6 april 2020 om 12:00 uur:
+2. Een aanvraag wordt uiterlijk op 6 april 2020 om 12:00 uur:
 
 - a. per aangetekende post ontvangen op het volgende adres en met de volgende adressering: Pels Rijcken & Droogleever Fortuijn N.V., t.a.v. mr C.A. de Zeeuw, notaris, Postbus 11756, 2502 AT Den Haag; dan wel
 
@@ -154,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6
 
-1. Een aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 35.279.000,–.
+1. Een aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 35.279.000,–.
 
 2. De waarborgsom wordt verstrekt voor de periode tot:
 
@@ -200,7 +176,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het maximale aantal vergunningen K dat de deelnemer overeenkomstig [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), kan verwerven, en het aantal activiteitspunten dat de deelnemer dientengevolge maximaal kan inzetten ten behoeve van vergunningen K.
 
-2. Bij de in het eerste lid, onder b en c, genoemde toepassing van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), wordt uitgegaan van de hoeveelheid frequentieruimte die de aanvrager en met de aanvrager verbonden rechtspersonen gebruiken in de zin van de [capregeling](onbekend) op de datum van inwerkingtreding van deze regeling.
+2. Bij de in het eerste lid, onder b en c, genoemde toepassing van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), wordt uitgegaan van de hoeveelheid frequentieruimte die de aanvrager en met de aanvrager verbonden rechtspersonen gebruiken in de zin van de capregeling op de datum van inwerkingtreding van deze regeling.
 
 #### § 5. Algemene bepalingen omtrent de veiling
 
@@ -332,11 +308,11 @@ In deze regeling wordt verstaan onder:
 
 1. De rondeprijzen in de eerste primaire biedronde bedragen:
 
-- a. € 75.180.000,– per vergunning K;
+- a. € 75.180.000,– per vergunning K;
 
-- b. € 5.030.000,– per vergunning L;
+- b. € 5.030.000,– per vergunning L;
 
-- c. € 35.279.000,– per vergunning M.
+- c. € 35.279.000,– per vergunning M.
 
 2. In de tweede en volgende primaire biedronden verhoogt de minister de rondeprijzen, bedoeld in het eerste lid, overeenkomstig het derde lid.
 
@@ -456,9 +432,9 @@ In deze regeling wordt verstaan onder:
 
 2. De extra prijs voor een deelnemer bestaat uit het verschil tussen:
 
-- –. de som van de biedingen van de andere deelnemers in de combinatie van winnende biedingen die de hoogste opbrengst zou hebben wanneer de biedingen van de betreffende deelnemer buiten beschouwing zouden worden gelaten, en
+- – de som van de biedingen van de andere deelnemers in de combinatie van winnende biedingen die de hoogste opbrengst zou hebben wanneer de biedingen van de betreffende deelnemer buiten beschouwing zouden worden gelaten, en
 
-- –. de som van de biedingen van de andere deelnemers in de finale combinatie van winnende biedingen
+- – de som van de biedingen van de andere deelnemers in de finale combinatie van winnende biedingen
 
 en voldoet aan de voorwaarden, beschreven in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&bijlage=III&z=2020-03-07&g=2020-03-07).
 
@@ -520,7 +496,7 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 ##### Artikel 30
 
-Wijzigt de Regeling vergoedingen Agentschap Telecom 2020.
+*Wijzigt de Regeling vergoedingen Agentschap Telecom 2020.*
 
 ##### Artikel 31
 
@@ -529,237 +505,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 32
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz.
-
-## Bijlage I. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=3&z=2020-03-07&g=2020-03-07), van de Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz
-
-### Model aanvraagformulier
-
-### Onderdeel A
-
-### A.1. Algemeen
-
-### A.1.1. Gegevens aanvrager
-
-Statutaire naam aanvrager: ..........
-
-Nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..........
-
-Land van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..........
-
-Beherende instantie van het handelsregister of daarmee vergelijkbaar register: ..........
-
-### A.1.2. Contactgegevens aanvrager
-
-Het telefoonnummer waarop de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is: ..........
-
-Het e-mailadres waarop de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is en de bijbehorende publieke beveiligingssleutel:
-
-..........
-
-**Verstrek de publieke beveiligingssleutel via multibandveiling@agentschaptelecom.nl**
-
-### A.1.3. Recent uittreksel uit het handelsregister
-
-□ Een recent uittreksel, niet ouder dan een maand gerekend vanaf de datum van indiening van de aanvraag, van het handelsregister of daarmee vergelijkbaar register is bijgevoegd.
-
-### A2. Vertegenwoordigingsbevoegdheid
-
-Opgave van degene(n) die bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid:
-
-### A.2.1. Functionaris 1
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Opgave van beperkingen van bevoegdheid: ..........
-
-Bevoegdheid en beperkingen blijken uit: ..........
-
-Handtekening: ..........
-
-### A.2.2. Functionaris 2
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Opgave van beperkingen van bevoegdheid: ..........
-
-Bevoegdheid en beperkingen blijken uit: ..........
-
-Handtekening ..........
-
-### A.2.3. Functionaris 3
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Opgave van beperkingen van bevoegdheid: ..........
-
-Bevoegdheid en beperkingen blijken uit: ..........
-
-Handtekening ..........
-
-### A.2.4. Functionaris 4
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Opgave van beperkingen van bevoegdheid: ..........
-
-Bevoegdheid en beperkingen blijken uit: ..........
-
-Handtekening ..........
-
-**Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.**
-
-### A.3. Verbonden rechtspersonen
-
-□ Een juridisch organogram van de met de aanvrager verbonden rechtspersonen, als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](onbekend), dient te worden bijgevoegd met vermelding van:
-
-**Gebruik een bijlage en verstrek alle relevante bewijsstukken, waaronder ten minste:**
-
-### A.4. Schriftelijke verklaring omtrent de juistheid van gegevens
-
-A.4.1 De aanvrager is een rechtspersoon, opgericht in overeenstemming met het recht van een van de lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
-
-A.4.2 De aanvrager is wel/niet* ontbonden.
-
-A.4.3 De aanvrager is wel/niet* failliet verklaard.
-
-A.4.4 De aanvrager heeft wel/niet* eigen aangifte tot faillissement gedaan.
-
-A.4.5 Een verzoek tot faillissement van de aanvrager is wel/niet* ingediend.
-
-A.4.6 Aan de aanvrager is wel/geen* surseance van betaling verleend.
-
-A.4.7 De aanvrager heeft wel/geen* aanvraag tot surseance van betaling gedaan.
-
-A.4.8 Op de aanvrager rust wel/geen* verplichting om informatie als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=11&z=2020-03-07&g=2020-03-07), te delen met aandeelhouders.
-
-**Indien een dergelijke verplichting op de aanvrager rust:**wat is de grondslag voor deze verplichting en tot het delen van welke informatie is de aanvrager verplicht en op welk moment: ..........
-
-**Verstrek het document waarin de verplichting tot het delen van informatie als bedoeld in artikel 11, tweede lid, is opgenomen.**
-
-A.4.9 De aanvrager heeft wel/geen* informatie als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=11&z=2020-03-07&g=2020-03-07), met aandeelhouders gedeeld.
-
-**Indien informatie genoemd in artikel 11, tweede lid, is gedeeld**: welke informatie en met wie:
-
-..........
-
-**Verklaring notaris**
-
-Ondergetekende, notaris te .......... (plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-Handtekening
-
-..........
-
-**De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.**
-
-### Onderdeel B
-
-Ik vraag één of meer vergunningen aan in de 700, 1400 en/of 2100 MHz-band en verzoek om toegelaten te worden tot de eerste biedronde van de veiling met een maximaal aantal activiteitspunten overeenkomstig de [capregeling](onbekend).
-
-Ik dien hierbij wel/niet * een verzoek in om uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94) ter grootte van de helft van de totaalprijs bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=25&z=2020-03-07&g=2020-03-07), voor de duur van één jaar gerekend vanaf de dag na verlening van de vergunning. Op grond van [artikel 4:101 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:101) is over dit deel wettelijke rente verschuldigd, te rekenen vanaf de datum waarop het bedrag op grond van [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=8&artikel=29&z=2020-03-07&g=2020-03-07), dient te zijn betaald tot en met de datum waarop het bedrag wordt betaald.
-
-Ondergetekende verklaart dat
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-Handtekening: ..........
-
-## Bijlage II. als bedoeld in artikel in [artikel 6, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=6&z=2020-03-07&g=2020-03-07), van de Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz
-
-### Onderdeel A
-
-### Model bankgarantie
-
-I. De ondergetekende .... (**naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**)*, gevestigd te ...., mede kantoorhoudende te ..., hierna te noemen: ‘de Bank’;
-
-In aanmerking nemende:
-
-II. Verbindt zich tot het navolgende:
-
-Plaats: ..........
-
-Datum: ..........
-
-Naam Bank en ondertekening
-
-..........
-
-### Onderdeel B
-
-### Model bank guarantee
-
-I. The undersigned.......... **(name of a bank that is established and has its registered office in a Member State of the European Union or one of the other states that are a party to the Agreement on the European Economic Area)***, with its registered office in ..... and its place of business, among other places, at ....., hereinafter: ‘the Bank’;
-
-Whereas:
-
-II. Undertakes as follows:
-
-Town/city: ..........
-
-Date: ..........
-
-Name of Bank and signature
-
-..........
-
-## Bijlage III. als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=25&z=2020-03-07&g=2020-03-07), van de Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz
-
-### Berekening extra prijzen
-
-Door toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=24&z=2020-03-07&g=2020-03-07) zijn n winnende biedingen wb1, wb2, wb3, ..., wbn bepaald, uitgebracht door de deelnemers w1, w2, w3, ..., wn. Voor een winnende bieding wbi is het bedrag pi geboden. De totale opbrengst van de winnende biedingen wb1, wb2, wb3, ..., wbn is gelijk aan T, ofwel
-
-De extra prijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

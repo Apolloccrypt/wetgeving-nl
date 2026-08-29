@@ -1,47 +1,18 @@
 ---
 title: "Wet van 20 november 2019, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest-NL (Machtigingswet oprichting Invest-NL)"
+citeertitel: "Machtigingswet oprichting Invest-NL"
 identifier: "BWBR0042840"
-country: "nl"
-rank: "wet"
-publication_date: "2022-03-02"
-last_updated: "2022-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042840"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15261593"
-version_id: "26286472"
-internal_id: "C37363041"
-label_id: "15207904"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042840/2022-03-02/0"
-intitule_bron: "Stb.2019-443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-20"
-intitule_published: "2019-12-03"
-intitule_in_force: "2019-12-03"
-intitule_status: "goed"
-original_publication: "Stb.2019-443"
-original_signed_date: "2019-11-20"
-original_published_date: "2019-12-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "35123"
-original_url_id: "stb-2019-443"
-entry_into_force_date: "2019-12-04"
-jci_1_3: "jci1.3:c:BWBR0042840&z=2022-03-02&g=2022-03-02"
-jci_1_0: "1.0:c:BWBR0042840&g=2022-03-02"
-citeertitel_status: "officieel"
-short_title: "Machtigingswet oprichting Invest-NL"
-signed_date: "2019-11-20"
-entry_into_force: "2019-12-04"
+publicatiedatum: 2019-12-04
+laatste_update: 2022-03-02
+status: geldig
+toestand: 2022-03-02
+bron: "https://wetten.overheid.nl/BWBR0042840"
+opgehaald: 2026-08-29
 ---
+
 # Wet van 20 november 2019, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest-NL (Machtigingswet oprichting Invest-NL)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat Nederland beschikt over een nationale financierings- en ontwikkelingsinstelling;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,23 +20,23 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Invest-NL:** de naamloze vennootschap Invest-NL N.V., genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02);
+- *Invest-NL:* de naamloze vennootschap Invest-NL N.V., genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02);
 
-- **MKB-onderneming:** een kleine, middelgrote of micro-onderneming als bedoeld in de bijlage bij de Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124);
+- *MKB-onderneming:* een kleine, middelgrote of micro-onderneming als bedoeld in de bijlage bij de Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124);
 
-- **MKB overstijgende middelgrote onderneming:** onderneming als bedoeld in de bijlage bij de Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124), waarvan de jaaromzet of het jaarlijkse balanstotaal boven het in die Aanbeveling ten hoogste hierop betrekking hebbende bedrag ligt en mits er minder dan vijfhonderd personen in die onderneming werkzaam zijn;
+- *MKB overstijgende middelgrote onderneming:* onderneming als bedoeld in de bijlage bij de Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124), waarvan de jaaromzet of het jaarlijkse balanstotaal boven het in die Aanbeveling ten hoogste hierop betrekking hebbende bedrag ligt en mits er minder dan vijfhonderd personen in die onderneming werkzaam zijn;
 
-- **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die economische activiteiten op het gebied van productie of dienstverlening uitvoert;
+- *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die economische activiteiten op het gebied van productie of dienstverlening uitvoert;
 
-- **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- **overgangsdatum:** de datum waarop Invest-NL wordt opgericht;
+- *overgangsdatum:* de datum waarop Invest-NL wordt opgericht;
 
-- **verschillende activiteiten:** enerzijds producten of diensten met betrekking tot welke aan Invest-NL bij of krachtens deze wet een bijzonder of uitsluitend recht is verleend of een wettelijke taak is opgedragen of diensten van algemeen economisch belang waarmee Invest-NL is belast, en anderzijds elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke Invest-NL voor eigen rekening en risico diensten verricht;
+- *verschillende activiteiten:* enerzijds producten of diensten met betrekking tot welke aan Invest-NL bij of krachtens deze wet een bijzonder of uitsluitend recht is verleend of een wettelijke taak is opgedragen of diensten van algemeen economisch belang waarmee Invest-NL is belast, en anderzijds elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke Invest-NL voor eigen rekening en risico diensten verricht;
 
-- **voorziening:** een samenhangende verzameling van functionarissen, processen, of (ICT) infrastructuur op het terrein van advisering, uitvoering of bedrijfsvoering.
+- *voorziening:* een samenhangende verzameling van functionarissen, processen, of (ICT) infrastructuur op het terrein van advisering, uitvoering of bedrijfsvoering.
 
-2. Een wijziging van Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124) gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
+2. Een wijziging van Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124) gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
 ##### Artikel 2. Machtiging, holdingstructuur
 
@@ -99,15 +70,15 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 - a. het direct of indirect ondersteunen van de ontwikkeling van:
 
-- 1°. initiatieven of ondernemingen, indien daarmee een bijdrage geleverd kan worden aan het realiseren van Nederlandse maatschappelijke transitieopgaven of
+   - 1°. initiatieven of ondernemingen, indien daarmee een bijdrage geleverd kan worden aan het realiseren van Nederlandse maatschappelijke transitieopgaven of
 
-- 2°. initiatieven, MKB-ondernemingen of MKB overstijgende middelgrote ondernemingen die een uitgewerkt voornemen hebben binnen enkele jaren groei te realiseren, indien daarmee een bijdrage geleverd kan worden aan de Nederlandse economie, waaronder mede wordt begrepen de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+   - 2°. initiatieven, MKB-ondernemingen of MKB overstijgende middelgrote ondernemingen die een uitgewerkt voornemen hebben binnen enkele jaren groei te realiseren, indien daarmee een bijdrage geleverd kan worden aan de Nederlandse economie, waaronder mede wordt begrepen de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 - b. het direct of indirect voor eigen rekening en risico verstrekken van financiering aan:
 
-- 1°. ondernemingen indien daarmee een bijdrage geleverd kan worden aan het realiseren van Nederlandse maatschappelijke transitieopgaven of
+   - 1°. ondernemingen indien daarmee een bijdrage geleverd kan worden aan het realiseren van Nederlandse maatschappelijke transitieopgaven of
 
-- 2°. MKB-ondernemingen of op groei gerichte MKB overstijgende middelgrote ondernemingen als bedoeld in onderdeel a, onder 2°, indien daarmee een bijdrage geleverd kan worden aan de Nederlandse economie, waaronder mede wordt begrepen de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba;
+   - 2°. MKB-ondernemingen of op groei gerichte MKB overstijgende middelgrote ondernemingen als bedoeld in onderdeel a, onder 2°, indien daarmee een bijdrage geleverd kan worden aan de Nederlandse economie, waaronder mede wordt begrepen de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 - c. het krachtens een daartoe door Onze Minister die het aangaat in overeenstemming met Onze Minister van Financiën verstrekt mandaat uitvoeren van door Onze Minister die het aangaat aangewezen subsidieregelingen of subsidiebesluiten die marktconforme financieringen betreffen, en daarmee samenhangende werkzaamheden;
 
@@ -149,9 +120,9 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 - f. voor de taak, bedoeld in [artikel 4, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), rechtshandelingen en feitelijke handelingen verrichten met het oog op deelname aan financieringsfaciliteiten en financieringsprogramma’s van instellingen of organen van instellingen van Europese Unie en andere volkenrechtelijke organisaties en van ontwikkelings- en financieringsinstellingen van Nederland en van andere landen alsmede samenwerkingsverbanden aan te gaan met:
 
-- 1°. een financiële instelling van de Europese Unie;
+   - 1°. een financiële instelling van de Europese Unie;
 
-- 2°. een ontwikkelingsbank als bedoeld in artikel 2, onderdeel 3, van Verordening (EU) 2015/1017 van het Europees Parlement en de Raad van 25 juni 2015 betreffende het Europees Fonds voor strategische investeringen, de Europese investeringsadvieshub en het Europese investeringsprojectenportaal en tot wijziging van de Verordeningen (EU) nr. 1291/2013 en (EU) nr. 1316/2013 – het Europees Fonds voor strategische investeringen (PbEU 2015, L 169).
+   - 2°. een ontwikkelingsbank als bedoeld in artikel 2, onderdeel 3, van Verordening (EU) 2015/1017 van het Europees Parlement en de Raad van 25 juni 2015 betreffende het Europees Fonds voor strategische investeringen, de Europese investeringsadvieshub en het Europese investeringsprojectenportaal en tot wijziging van de Verordeningen (EU) nr. 1291/2013 en (EU) nr. 1316/2013 – het Europees Fonds voor strategische investeringen (PbEU 2015, L 169).
 
 2. Invest-NL is geen bestuursorgaan in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en is niet met openbaar gezag bekleed in de zin van enige andere wet bij het verrichten van activiteiten en handelingen ter uitvoering van de taken, bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), of bij het uitvoeren van een activiteit als bedoeld in artikel 4, vierde lid.
 
@@ -299,13 +270,13 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 ##### Artikel 19. Overgang lening EIF co-investment vehicle voortkomend uit subsidie
 
-1. Op de overgangsdatum gaan rechten en verplichtingen die voor de Staat voortvloeien uit de uitvoeringsovereenkomsten van 20 juni 2017 behorend bij het besluit tot verlening van een subsidie in de vorm van een renteloze lening voor het project «Dutch State EIF-NPI Co-investment scheme» van 17 juli 2017, kenmerk DGBI-O /17112125 onder algemene titel over op Invest-NL.
+1. Op de overgangsdatum gaan rechten en verplichtingen die voor de Staat voortvloeien uit de uitvoeringsovereenkomsten van 20 juni 2017 behorend bij het besluit tot verlening van een subsidie in de vorm van een renteloze lening voor het project «Dutch State EIF-NPI Co-investment scheme» van 17 juli 2017, kenmerk DGBI-O /17112125 onder algemene titel over op Invest-NL.
 
-2. Invest-NL zal binnen 30 werkdagen vanaf de overgangsdatum het volledige bedrag aan de Staat voldoen, dat de Staat op verzoek aan het Europees Investeringsfonds reeds ter beschikking heeft gesteld overeenkomstig het recht op tussentijdse betaling neergelegd in de uitvoeringsovereenkomsten van 20 juni 2017.
+2. Invest-NL zal binnen 30 werkdagen vanaf de overgangsdatum het volledige bedrag aan de Staat voldoen, dat de Staat op verzoek aan het Europees Investeringsfonds reeds ter beschikking heeft gesteld overeenkomstig het recht op tussentijdse betaling neergelegd in de uitvoeringsovereenkomsten van 20 juni 2017.
 
 ##### Artikel 20. Overgang DVI en DVI II
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 21. Overgang garantie ondernemingsfinanciering energietransitie financieringsfaciliteit (ETFF)
 
@@ -332,5 +303,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel 26. Citeertitel
 
 Deze wet wordt aangehaald als: Machtigingswet oprichting Invest-NL.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

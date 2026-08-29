@@ -1,40 +1,40 @@
 ---
-title: "Subsidieregeling kunstmatige inseminatie met donorsemen"
+title: "Regeling van de Minister voor Medische Zorg van 27 november 2019, kenmerk 1596133-197192-CZ, houdende regels voor het verstrekken van subsidie voor het verrichten van kunstmatige inseminatie met donorsemen indien dit niet ten laste van de zorgverzekering kan worden gebracht (Subsidieregeling kunstmatige inseminatie met donorsemen)"
+citeertitel: "Subsidieregeling kunstmatige inseminatie met donorsemen"
 identifier: "BWBR0042891"
-categorie: "Overig"
-publicatiedatum: 2024-12-31
-laatste_update: 2024-12-31
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2024-11-05
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0042891"
+opgehaald: 2026-08-29
 ---
 
 # Regeling van de Minister voor Medische Zorg van 27 november 2019, kenmerk 1596133-197192-CZ, houdende regels voor het verstrekken van subsidie voor het verrichten van kunstmatige inseminatie met donorsemen indien dit niet ten laste van de zorgverzekering kan worden gebracht (Subsidieregeling kunstmatige inseminatie met donorsemen)
 
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
-
-Besluit:
-
-#### Artikel 1. Definitiebepaling
+##### Artikel 1. Definitiebepaling
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** Minister voor Medische Zorg;
+- – *minister:* Minister voor Medische Zorg;
 
-- –. **instelling:**
+- – *instelling:*
 
-- 1. een rechtspersoon die in het bezit is van een erkenning als weefselinstelling of orgaanbank specifiek voor donorsemen als bedoeld in [artikel 9 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9); of
+   - 1. een rechtspersoon die in het bezit is van een erkenning als weefselinstelling of weefselbank specifiek voor donorsemen als bedoeld in [artikel 9 van de Wet veiligheid en kwaliteit lichaamsmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=9); of
 
-- 2. een door de minister aangewezen zorginstelling;
+   - 2. een door de minister aangewezen zorginstelling;
 
-- –. **basis oriënterend fertiliteitsonderzoek:** een of twee consulten inclusief een echo om de mogelijkheden om te komen tot een zwangerschap te onderzoeken;
+- – *basis oriënterend fertiliteitsonderzoek:* een of twee consulten inclusief een echo om de mogelijkheden om te komen tot een zwangerschap te onderzoeken;
 
-- –. **KID-behandeling:** behandeling door middel van kunstmatige inseminatie met donorsemen waarbij de zaadcellen in de baarmoederholte worden ingebracht (intra-uteriene inseminatie).
+- – *KID-behandeling:* behandeling door middel van kunstmatige inseminatie met donorsemen waarbij de zaadcellen in de baarmoederholte worden ingebracht (intra-uteriene inseminatie).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag subsidie verstrekken aan een instelling voor het uitvoeren van een basis oriënterend fertiliteitsonderzoek of het verrichten van een KID-behandeling bij:
 
@@ -54,62 +54,58 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - d. deze activiteiten niet in het kader van draagmoederschap worden verricht.
 
-#### Artikel 4. Eigen betaling
+##### Artikel 4. Eigen betaling
 
 Een subsidie voor het uitvoeren van een basis oriënterend fertiliteitsonderzoek wordt uitsluitend verstrekt indien de instelling aan de desbetreffende vrouw een eigen betaling, vastgesteld op de helft van het verplicht eigen risico, bedoeld in [artikel 1, onderdeel g, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), in rekening heeft gebracht.
 
-#### Artikel 5. Subsidiebedrag
+##### Artikel 5. Subsidiebedrag
 
-De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2024-12-31&g=2024-12-31).
+De subsidie bestaat uit een bedrag dat wordt berekend door voor het basis oriënterend fertiliteitsonderzoek en de KID-behandeling aan te sluiten bij de door de Nederlandse Zorgautoriteit vastgestelde maximumtarieven voor overeenkomende zorgproducten en die te vermenigvuldigen met het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen dat in het subsidiejaar is verricht, te verminderen met de totaal in rekening gebrachte eigen betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042891&artikel=4&z=2026-07-01&g=2026-07-01).
 
-#### Artikel 6. Aanvraagtermijn
+##### Artikel 6. Aanvraagtermijn
 
 1. De subsidie wordt per kalenderjaar verstrekt.
 
 2. Een aanvraag tot verlening van een subsidie wordt uiterlijk dertien weken voor aanvang van het subsidiejaar ontvangen.
 
-3. In afwijking van het tweede lid, wordt een aanvraag ten behoeve van het subsidiejaar 2025 uiterlijk 15 november 2024 ontvangen.
+3. In afwijking van het tweede lid, wordt een aanvraag ten behoeve van het subsidiejaar 2025 uiterlijk 15 november 2024 ontvangen.
 
 4. De minister kan vrijstelling of ontheffing verlenen van de regels gesteld in het tweede en derde lid.
 
-#### Artikel 7. Aanvraag tot verlening
+##### Artikel 7. Aanvraag tot verlening
 
 De aanvraag tot verlening van een subsidie gaat vergezeld van een begroting die, in aanvulling op [artikel 3.5 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5), een overzicht bevat van het aantal per jaar te verrichten basis oriënterende fertiliteitsonderzoeken en KID-behandelingen waarvoor subsidie wordt aangevraagd.
 
-#### Artikel 8. Verlening en bevoorschotting
+##### Artikel 8. Verlening en bevoorschotting
 
 1. De minister vermeldt in het besluit tot verlening van de subsidie het aantal basis oriënterende fertiliteitsonderzoeken en KID-behandelingen per jaar waarvoor de subsidie wordt verleend alsmede de subsidiebedragen per basis oriënterend fertiliteitsonderzoek en per KID-behandeling.
 
 2. De minister verleent bij het besluit tot verlening van de subsidie ambtshalve voorschotten. De voorschotten worden gelijkmatig betaald over het subsidiejaar.
 
-#### Artikel 9. Aanvraag tot vaststelling
+##### Artikel 9. Aanvraag tot vaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie wordt binnen 22 weken na afloop van het subsidiejaar ingediend.
 
 2. In aanvulling op [Hoofdstuk 7 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7), gaat de aanvraag tot vaststelling vergezeld van een opgave van het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen.
 
-3. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger in afwijking van [artikel 7.5, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) tevens verantwoording af door het overleggen van een rapport van feitelijke bevindingen als bedoeld in artikel 7.5, derde lid, van de Kaderregeling subsidies OCW, SZW en VWS in plaats van een assurancerapport.
+3. Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger in afwijking van [artikel 7.5, tweede lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5) tevens verantwoording af door het overleggen van een rapport van feitelijke bevindingen als bedoeld in artikel 7.5, derde lid, van de Kaderregeling subsidies OCW, SZW en VWS in plaats van een assurancerapport.
 
 4. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-#### Artikel 10. DAEB
+##### Artikel 9a. Vaststelling
+
+In afwijking van [artikel 7.5, vijfde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5), kan de subsidie worden vastgesteld op een bedrag dat maximaal 15% hoger is dan het bedrag dat bij de verlening door de Minister is genoemd, indien het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen groter is dan het aantal waarvoor subsidie is verleend.
+
+##### Artikel 10. DAEB
 
 1. Het uitvoeren van basis oriënterende fertiliteitsonderzoeken en KID-behandelingen op grond van deze regeling wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de Werking van de Europese Unie.
 
 2. Subsidie wordt uitsluitend verstrekt indien de instelling met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het eerste lid.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2020 en vervalt met ingang van 1 januari 2030.
+Deze regeling treedt in werking met ingang van 1 januari 2020 en vervalt met ingang van 1 januari 2030.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling kunstmatige inseminatie met donorsemen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### Artikel 9a. Vaststelling
-
-In afwijking van [artikel 7.5, vijfde lid, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.5), kan de subsidie worden vastgesteld op een bedrag dat maximaal 15% hoger is dan het bedrag dat bij de verlening door de Minister is genoemd, indien het aantal in het subsidiejaar verrichte basis oriënterende fertiliteitsonderzoeken en KID-behandelingen groter is dan het aantal waarvoor subsidie is verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

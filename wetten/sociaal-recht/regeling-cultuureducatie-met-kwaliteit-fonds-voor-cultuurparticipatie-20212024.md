@@ -1,51 +1,17 @@
 ---
 title: "Regeling Cultuureducatie met Kwaliteit Fonds voor Cultuurparticipatie 2021–2024"
 identifier: "BWBR0043546"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-05-19"
-last_updated: "2020-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043546"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15458063"
-version_id: "26716762"
-internal_id: "C37872101"
-label_id: "15401344"
-dtd_version: "2.0"
-original_entry_into_force: "2020-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043546/2020-05-19/0"
-intitule_bron: "Stcrt.2020-26609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-08"
-intitule_published: "2020-05-18"
-intitule_in_force: "2020-05-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-26609"
-original_signed_date: "2020-05-08"
-original_published_date: "2020-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-26609"
-entry_into_force_date: "2020-05-19"
-jci_1_3: "jci1.3:c:BWBR0043546&z=2020-05-19&g=2020-05-19"
-jci_1_0: "1.0:c:BWBR0043546&g=2020-05-19"
-citeertitel_status: "officieel"
-signed_date: "2020-05-08"
-entry_into_force: "2020-05-19"
+publicatiedatum: 2020-05-19
+laatste_update: 2020-05-19
+status: geldig
+toestand: 2020-05-19
+bron: "https://wetten.overheid.nl/BWBR0043546"
+opgehaald: 2026-08-29
 ---
+
 # Regeling Cultuureducatie met Kwaliteit Fonds voor Cultuurparticipatie 2021–2024
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
-
-met goedkeuring van de minister van Onderwijs, Cultuur en Wetenschap van 8 mei 2020;
-
-besluit:
-
-vast te stellen de: Regeling Cultuureducatie met Kwaliteit 2021–2024 Fonds voor Cultuurparticipatie
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -53,25 +19,25 @@ vast te stellen de: Regeling Cultuureducatie met Kwaliteit 2021–2024 Fonds voo
 
 In deze regeling wordt verstaan onder:
 
-- a. **activiteitenlasten:** de kosten die gemaakt worden voor de uitvoering van het project en in directe relatie staan tot het werk van en in samenwerking met het onderwijs en culturele partners. Niet zijnde de kosten voor coördinatie, kennisdeling, monitoring, evaluatie en accountantskosten;
+- a. *activiteitenlasten:* de kosten die gemaakt worden voor de uitvoering van het project en in directe relatie staan tot het werk van en in samenwerking met het onderwijs en culturele partners. Niet zijnde de kosten voor coördinatie, kennisdeling, monitoring, evaluatie en accountantskosten;
 
-- b. **adhesieverklaring:** schriftelijke steunbetuiging van een gemeente of provincie aan de penvoerder, het inhoudelijke plan en begroting die passen binnen het programma Cultuureducatie met Kwaliteit 2021–2024. Dit is een verklaring die de penvoerder bij de aanvraag aanlevert;
+- b. *adhesieverklaring:* schriftelijke steunbetuiging van een gemeente of provincie aan de penvoerder, het inhoudelijke plan en begroting die passen binnen het programma Cultuureducatie met Kwaliteit 2021–2024. Dit is een verklaring die de penvoerder bij de aanvraag aanlevert;
 
-- c. **beleidsprogramma Cultuureducatie met Kwaliteit:** programma geïnitieerd door de minister van Onderwijs, Cultuur en Wetenschap ter waarborging van de landelijke kwaliteit van cultuureducatie in het onderwijs;
+- c. *beleidsprogramma Cultuureducatie met Kwaliteit:* programma geïnitieerd door de minister van Onderwijs, Cultuur en Wetenschap ter waarborging van de landelijke kwaliteit van cultuureducatie in het onderwijs;
 
-- e. **coördinerende werkzaamheden:** organisatorische werkzaamheden ten behoeve van het voeren van penvoerderschap;
+- e. *coördinerende werkzaamheden:* organisatorische werkzaamheden ten behoeve van het voeren van penvoerderschap;
 
-- f. **cultuureducatie:** het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie, de kunstvakken en het onderwijs dat op het gebied van kunst en cultuur wordt verzorgd;
+- f. *cultuureducatie:* het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie, de kunstvakken en het onderwijs dat op het gebied van kunst en cultuur wordt verzorgd;
 
-- g. **Fonds:** het bestuur van de Stichting Fonds voor Cultuurparticipatie;
+- g. *Fonds:* het bestuur van de Stichting Fonds voor Cultuurparticipatie;
 
-- h. **OCW:** ministerie van Onderwijs, Cultuur en Wetenschap;
+- h. *OCW:* ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- i. **gemeenten:** de gemeenten zoals opgenomen in bijlage 1 bij deze regeling;
+- i. *gemeenten:* de gemeenten zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/BWBR0043546) bij deze regeling;
 
-- j. **onderwijs:** in deze regeling gaat het over primair onderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs en het speciaal onderwijs;
+- j. *onderwijs:* in deze regeling gaat het over primair onderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs en het speciaal onderwijs;
 
-- k. **penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een plan indient. De penvoerder is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat. De Penvoerder is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
+- k. *penvoerder:* een culturele instelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een plan indient. De penvoerder is in die hoedanigheid degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat. De Penvoerder is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -79,31 +45,31 @@ Het Fonds kan voor de periode 2021–2024 meerjarige stimuleringssubsidies verst
 
 ##### Artikel 1.3. Subsidieperiode
 
-Subsidie wordt verstrekt voor een periode van vier jaar, te weten van 2021 tot en met 2024.Indien daarvoor voldoende aanleiding bestaat, kan het Fonds ertoe overgaan deze periode te verlengen tot 1 juli 2025. Indien de penvoerder voor die verlenging in aanmerking wenst te komen, dient hij daartoe een voldoende gemotiveerd schriftelijk verzoek bij het Fonds in te dienen. Na binnenkomst beslist het Fonds binnen twee weken op het verzoek.
+Subsidie wordt verstrekt voor een periode van vier jaar, te weten van 2021 tot en met 2024.Indien daarvoor voldoende aanleiding bestaat, kan het Fonds ertoe overgaan deze periode te verlengen tot 1 juli 2025. Indien de penvoerder voor die verlenging in aanmerking wenst te komen, dient hij daartoe een voldoende gemotiveerd schriftelijk verzoek bij het Fonds in te dienen. Na binnenkomst beslist het Fonds binnen twee weken op het verzoek.
 
 ##### Artikel 1.4. Subsidieplafond en beschikbare bedragen
 
-1. Het subsidieplafond voor het totaal van de aanvragen is € 13.500.000 per kalenderjaar.
+1. Het subsidieplafond voor het totaal van de aanvragen is € 13.500.000 per kalenderjaar.
 
 2. Voor aanvragen uit provincies en gemeenten is per kalenderjaar beschikbaar:
 
-- a. per provincie € 0,79 per inwoner, met aftrek van de inwoners waarvoor gemeenten reeds een bijdrage ontvangen;
+- a. per provincie € 0,79 per inwoner, met aftrek van de inwoners waarvoor gemeenten reeds een bijdrage ontvangen;
 
-- b. per gemeente € 0,79 per inwoner.
+- b. per gemeente € 0,79 per inwoner.
 
-3. Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2019.
+3. Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2019.
 
 4. Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de minister van Onderwijs, Cultuur en Wetenschap.
 
-- a. Het Fonds kan de vastgestelde subsidieplafonds verhogen of verlagen.
+5. - a. Het Fonds kan de vastgestelde subsidieplafonds verhogen of verlagen.
 
 - b. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via de website van het Fonds.
 
 ##### Artikel 1.5. Matching met provincie en gemeente
 
-1. De aan het Fonds gevraagde subsidie bedraagt de som van het aantal inwoners vermenigvuldigt met € 0,79 per jaar, welk bedrag wordt gematcht door de provincie of gemeente.
+1. De aan het Fonds gevraagde subsidie bedraagt de som van het aantal inwoners vermenigvuldigt met € 0,79 per jaar, welk bedrag wordt gematcht door de provincie of gemeente.
 
-2. In afwijking van het eerste lid kan in bijzondere gevallen op verzoek van de gemeente of provincie het bedrag van € 0.79 worden verlaagd, mits de aan het Fonds gevraagde subsidie ten minste € 49.500 per jaar bedraagt, welk bedrag wordt gematcht door de provincie of gemeente.
+2. In afwijking van het eerste lid kan in bijzondere gevallen op verzoek van de gemeente of provincie het bedrag van € 0.79 worden verlaagd, mits de aan het Fonds gevraagde subsidie ten minste € 49.500 per jaar bedraagt, welk bedrag wordt gematcht door de provincie of gemeente.
 
 3. De subsidie van het Fonds bedraagt nooit meer dan 100% van de bijdrage afkomstig van provincie of gemeente.
 
@@ -125,7 +91,7 @@ Subsidie wordt verstrekt voor een periode van vier jaar, te weten van 2021 tot e
 
 2. Subsidie kan worden geweigerd op basis van inhoudelijke gronden, of
 
-- a. als door de betreffende provincie of gemeente aan het ministerie van OCW geen positieve reactie afgegeven is in antwoord op de brief van de minister d.d. 5 maart 2020 voor deelname aan deze regeling;
+- a. als door de betreffende provincie of gemeente aan het ministerie van OCW geen positieve reactie afgegeven is in antwoord op de brief van de minister d.d. 5 maart 2020 voor deelname aan deze regeling;
 
 - b. als de aanvraag niet vergezeld gaat van een adhesieverklaring als bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0043546&paragraaf=3&artikel=3.6&z=2020-05-19&g=2020-05-19);
 
@@ -203,7 +169,7 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden ingediend door 
 
 ##### Artikel 3.4. Indieningstermijn en behandeling aanvraag
 
-1. Aanvragen kunnen vanaf 1 mei 2020 worden ingediend en dienen voor 2 november 2020 13.00 uur door het Fonds te zijn ontvangen. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
+1. Aanvragen kunnen vanaf 1 mei 2020 worden ingediend en dienen voor 2 november 2020 13.00 uur door het Fonds te zijn ontvangen. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
 2. Aanvragen in deze regeling worden op volgorde van binnenkomst behandeld, binnen de financieel en inhoudelijk gestelde kaders. Aan de aanvraag zijn bestuurlijke afspraken tussen OCW en de gemeenten dan wel provincie voorafgegaan. Deze afspraken zijn middels een brief en adhesieverklaring vastgelegd. Per gemeente of provincie is in deze regeling bepaalt hoeveel middelen er per aanvraag beschikbaar zijn.
 
@@ -229,7 +195,7 @@ Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te
 
 ##### Artikel 3.9. Beslistermijn
 
-Het Fonds informeert de aanvrager uiterlijk 1 februari 2021 schriftelijk over het besluit op de aanvraag.
+Het Fonds informeert de aanvrager uiterlijk 1 februari 2021 schriftelijk over het besluit op de aanvraag.
 
 ##### Artikel 3.10. Vaststelling subsidie
 
@@ -263,9 +229,9 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 ##### Artikel 4.3. Verantwoording
 
-1. De penvoerder stuurt jaarlijks voor 1 juni een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar. Deze financiële verantwoording zal worden aangevuld met een verantwoording op de prestatieafspraken. In jaar 2, te weten 2022, en in jaar 4, te weten 2024, zal de penvoerder de financiële verantwoording en de verantwoording op prestatieafspraken vergezellen van een inhoudelijk voortgangsverslag. Indien de penvoerder gebruik maakt van de mogelijkheid om het project door te laten lopen tot uiterlijk 1 juli 2025 dan zal de laatste verantwoording anderhalf jaar beslaan en uiterlijk 1 oktober 2025 bij het Fonds ingediend te zijn.
+1. De penvoerder stuurt jaarlijks voor 1 juni een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar. Deze financiële verantwoording zal worden aangevuld met een verantwoording op de prestatieafspraken. In jaar 2, te weten 2022, en in jaar 4, te weten 2024, zal de penvoerder de financiële verantwoording en de verantwoording op prestatieafspraken vergezellen van een inhoudelijk voortgangsverslag. Indien de penvoerder gebruik maakt van de mogelijkheid om het project door te laten lopen tot uiterlijk 1 juli 2025 dan zal de laatste verantwoording anderhalf jaar beslaan en uiterlijk 1 oktober 2025 bij het Fonds ingediend te zijn.
 
-2. De financiële verantwoording sluit aan op de ingediende begroting en gaat indien de subsidie gelijk is aan of hoger is dan € 125.000 per jaar, vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
+2. De financiële verantwoording sluit aan op de ingediende begroting en gaat indien de subsidie gelijk is aan of hoger is dan € 125.000 per jaar, vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
 
 3. Het Fonds stelt nadere voorwaarden aan de inrichting van de verantwoording. Die nadere voorwaarden zijn terug te vinden in het Handboek Verantwoording Cultuureducatie met Kwaliteit 2021–2024.
 
@@ -293,14 +259,8 @@ Databestanden met onderzoeksgegevens, cq. het goedgekeurde eindrapport, die zich
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
+2. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie met Kwaliteit Fonds voor Cultuurparticipatie 2021–2024.
-
-## Bijlage
-
-### Matchingsbedragen 2021–2024
-
-Vastgesteld op 8 mei 2020

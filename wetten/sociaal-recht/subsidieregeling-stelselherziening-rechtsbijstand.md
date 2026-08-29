@@ -1,47 +1,17 @@
 ---
 title: "Subsidieregeling Stelselherziening rechtsbijstand"
 identifier: "BWBR0043033"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-01-01"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043033"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "15309883"
-version_id: "26394462"
-internal_id: "C37503191"
-label_id: "15255924"
-dtd_version: "2.0"
-original_entry_into_force: "2020-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043033/2020-01-01/0"
-intitule_bron: "Stcrt.2020-1064"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-17"
-intitule_published: "2020-01-03"
-intitule_in_force: "2020-01-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-1064"
-original_signed_date: "2019-12-17"
-original_published_date: "2020-01-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-1064"
-entry_into_force_date: "2020-01-01"
-jci_1_3: "jci1.3:c:BWBR0043033&z=2020-01-01&g=2020-01-01"
-jci_1_0: "1.0:c:BWBR0043033&g=2020-01-01"
-citeertitel_status: "officieel"
-signed_date: "2019-12-17"
-entry_into_force: "2020-01-01"
+publicatiedatum: 2020-01-01
+laatste_update: 2020-01-01
+status: geldig
+toestand: 2020-01-01
+bron: "https://wetten.overheid.nl/BWBR0043033"
+opgehaald: 2026-08-29
 ---
+
 # Subsidieregeling Stelselherziening rechtsbijstand
-
-gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de raad met het oog op de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten,
-
-besluit:
-
-de volgende regeling vast te stellen.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemeen
 
@@ -123,7 +93,7 @@ Het bestuur is bevoegd tot het nemen van alle besluiten ter uitvoering van deze 
 
 ##### Artikel 7. Tijdvak indienen aanvraag
 
-Een aanvraag kan worden ingediend van 1 maart 2020 tot en met 31 december 2020.
+Een aanvraag kan worden ingediend van 1 maart 2020 tot en met 31 december 2020.
 
 ##### Artikel 8. Procedurele indieningsvereisten aanvraag
 
@@ -315,7 +285,7 @@ Bij subsidieverlening vanaf € 25.000,– kan het bestuur de subsidieontvanger 
 
 6. Het bestuur kan de in het vorige lid genoemde termijn met ten hoogste zes weken verlengen.
 
-7. Bij de aanvraag toont de aanvrager met het inhoudelijk eindverslag aan dat de activiteiten hebben plaatsgevonden overeenkomstig de aan de subsidie verbonden verplichtingen, tenzij de subsidie voor de aanvang van de activiteiten wordt vastgesteld en/of het subsidiebedrag lager is dan € 25.000,–.
+7. Bij de aanvraag toont de aanvrager met het inhoudelijk eindverslag aan dat de activiteiten hebben plaatsgevonden overeenkomstig de aan de subsidie verbonden verplichtingen, tenzij de subsidie voor de aanvang van de activiteiten wordt vastgesteld en/of het subsidiebedrag lager is dan € 25.000,–.
 
 8. Bij de aanvraag legt de aanvrager rekening en verantwoording af omtrent de aan de activiteiten verbonden uitgaven en inkomsten, voor zover deze voor de vaststelling van de subsidie van belang zijn.
 
@@ -337,11 +307,11 @@ Het bestuur kan personen aanwijzen die met het toezicht op de naleving conform[t
 
 ##### Artikel 23. Looptijd
 
-De einddatum van activiteiten binnen projecten waarvoor subsidie is verleend dient uiterlijk 31 december 2022 te zijn.
+De einddatum van activiteiten binnen projecten waarvoor subsidie is verleend dient uiterlijk 31 december 2022 te zijn.
 
 ##### Artikel 24. Inwerkingtreding
 
-Deze regeling is vastgesteld op 17 december 2019 en treedt in werking op 1 januari 2020.
+Deze regeling is vastgesteld op 17 december 2019 en treedt in werking op 1 januari 2020.
 
 ##### Artikel 25. Aanhalen regeling
 

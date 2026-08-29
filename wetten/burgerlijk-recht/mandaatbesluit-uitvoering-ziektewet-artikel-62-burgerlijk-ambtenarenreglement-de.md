@@ -1,59 +1,33 @@
 ---
 title: "Mandaatbesluit Uitvoering Ziektewet, artikel 62 Burgerlijk ambtenarenreglement defensie en artikel 120 Algemeen militair ambtenarenreglement defensie"
 identifier: "BWBR0042564"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2019-09-03"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042564"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "15167263"
-version_id: "26004702"
-internal_id: "C37035391"
-label_id: "15114704"
-dtd_version: "2.0"
-original_entry_into_force: "2019-09-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042564/2019-09-03/0"
-intitule_bron: "Stcrt.2019-51843"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-09-03"
-intitule_published: "2019-09-24"
-intitule_in_force: "2019-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-51843"
-original_signed_date: "2019-09-03"
-original_published_date: "2019-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-51843"
-entry_into_force_date: "2019-09-03"
-jci_1_3: "jci1.3:c:BWBR0042564&z=2019-09-03&g=2019-09-03"
-jci_1_0: "1.0:c:BWBR0042564&g=2019-09-03"
-citeertitel_status: "redactioneel"
-signed_date: "2019-09-03"
-entry_into_force: "2019-09-03"
+publicatiedatum: 2019-09-03
+laatste_update: 2019-09-03
+status: geldig
+toestand: 2019-09-03
+bron: "https://wetten.overheid.nl/BWBR0042564"
+opgehaald: 2026-08-29
 ---
+
 # Mandaatbesluit Uitvoering Ziektewet, artikel 62 Burgerlijk ambtenarenreglement defensie en artikel 120 Algemeen militair ambtenarenreglement defensie
-
-Besluit
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **De Staatssecretaris:** de Staatsecretaris van Defensie
+- a. *De Staatssecretaris:* de Staatsecretaris van Defensie
 
-- b. **SV-land:** SV-land B.V. gevestigd te Zoetermeer
+- b. *SV-land:* SV-land B.V. gevestigd te Zoetermeer
 
-- c. **Uitkeringsregelingen:**
+- c. *Uitkeringsregelingen:*
 
-- –. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+   - – [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- –. [Artikel 62 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) (BARD);
+   - – [Artikel 62 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=62) (BARD);
 
-- –. [Artikel 120 van het Algemeen militair ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=120) (AMAR);
+   - – [Artikel 120 van het Algemeen militair ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=120) (AMAR);
 
 ##### Artikel 2. Mandaat
 

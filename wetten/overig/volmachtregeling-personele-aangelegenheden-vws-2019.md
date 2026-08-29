@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1574427-194610-OBP, houdende vaststelling van de Volmachtregeling personele aangelegenheden VWS (Volmachtregeling personele aangelegenheden VWS 2019)"
+citeertitel: "Volmachtregeling personele aangelegenheden VWS 2019"
 identifier: "BWBR0042768"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-08-29"
-last_updated: "2024-08-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042768"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15227133"
-version_id: "26210652"
-internal_id: "C37273701"
-label_id: "15173834"
-dtd_version: "2.0"
-original_entry_into_force: "2019-11-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042768/2024-08-29/0"
-intitule_bron: "Stcrt.2019-61841"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-10-31"
-intitule_published: "2019-11-14"
-intitule_in_force: "2019-11-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2019-61841"
-original_signed_date: "2019-10-31"
-original_published_date: "2019-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2019-61841"
-entry_into_force_date: "2019-11-15"
-jci_1_3: "jci1.3:c:BWBR0042768&z=2024-08-29&g=2024-08-29"
-jci_1_0: "1.0:c:BWBR0042768&g=2024-08-29"
-citeertitel_status: "officieel"
-short_title: "Volmachtregeling personele aangelegenheden VWS 2019"
-signed_date: "2019-10-31"
-entry_into_force: "2019-11-15"
+publicatiedatum: 2019-11-15
+laatste_update: 2024-08-29
+status: geldig
+toestand: 2024-08-29
+bron: "https://wetten.overheid.nl/BWBR0042768"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 31 oktober 2019, kenmerk 1574427-194610-OBP, houdende vaststelling van de Volmachtregeling personele aangelegenheden VWS (Volmachtregeling personele aangelegenheden VWS 2019)
-
-Gezien het [Organisatiebesluit VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040606);
-
-Gehoord het advies van de departementale ondernemingsraad;
-
-Besluit:
 
 ### Hoofdstuk 1. Definities
 
@@ -48,37 +20,37 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- b. *ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- c. **dienstonderdelen kernministerie:** de in [artikel 3, tweede lid, onder a tot en met e, van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=3) genoemde beleidsdirecties, stafdirecties, facilitaire diensten en eenheden;
+- c. *dienstonderdelen kernministerie:* de in [artikel 3, tweede lid, onder a tot en met e, van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=3) genoemde beleidsdirecties, stafdirecties, facilitaire diensten en eenheden;
 
-- d. **diensten en instellingen:** de in [artikel 4 van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=4) genoemde diensten en instellingen van het ministerie;
+- d. *diensten en instellingen:* de in [artikel 4 van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=4) genoemde diensten en instellingen van het ministerie;
 
-- e. **secretariaten van raden en commissies:** de in [artikel 5 van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=5) genoemde secretariaten van raden en commissies van het ministerie;
+- e. *secretariaten van raden en commissies:* de in [artikel 5 van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=5) genoemde secretariaten van raden en commissies van het ministerie;
 
-- f. **hoofd van dienst:** de functionaris die is belast met de leiding van een onderdeel van het ministerie als bedoeld onder c tot en met e.
+- f. *hoofd van dienst:* de functionaris die is belast met de leiding van een onderdeel van het ministerie als bedoeld onder c tot en met e.
 
-- g. **kernministerie:** de onderdelen van het ministerie, genoemd in [artikel 2, aanhef en a tot en met e en g, van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=2);
+- g. *kernministerie:* de onderdelen van het ministerie, genoemd in [artikel 2, aanhef en a tot en met e en g, van het Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133&artikel=2);
 
-- h. **ondervolmacht:** de volmacht die een gevolmachtigde aan een ander verleent;
+- h. *ondervolmacht:* de volmacht die een gevolmachtigde aan een ander verleent;
 
-- i. **portefeuillehouder:** de functionaris onder wie onderdelen van het ministerie als bedoeld onder c tot en met e ressorteren;
+- i. *portefeuillehouder:* de functionaris onder wie onderdelen van het ministerie als bedoeld onder c tot en met e ressorteren;
 
-- j. **ressorteren:** in eerste instantie vallend onder het gezagsdomein van de betreffende functionaris, de uiteindelijke verantwoordelijkheid van de Secretaris-Generaal onverlet latend;
+- j. *ressorteren:* in eerste instantie vallend onder het gezagsdomein van de betreffende functionaris, de uiteindelijke verantwoordelijkheid van de Secretaris-Generaal onverlet latend;
 
-- k. **medewerker:** de ambtenaar in de zin van de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) die werkzaam is bij het ministerie;
+- k *medewerker:* de ambtenaar in de zin van de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) die werkzaam is bij het ministerie;
 
-- l. **Topmanagementgroep:** de Topmanagementgroep, bedoeld in Hoofdstuk 17 van de CAO Rijk;
+- l. *Topmanagementgroep:* de Topmanagementgroep, bedoeld in Hoofdstuk 17 van de CAO Rijk;
 
-- m. **volmacht:** volmacht als bedoeld in [artikel 3:60, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) om namens de Staat der Nederlanden rechtshandelingen te verrichten;
+- m. *volmacht:* volmacht als bedoeld in [artikel 3:60, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) om namens de Staat der Nederlanden rechtshandelingen te verrichten;
 
-- n. **gevolmachtigde:** degene aan wie volmacht is verleend;
+- n. *gevolmachtigde:* degene aan wie volmacht is verleend;
 
-- o. **volmachtverlener:** degene die volmacht verleent;
+- o. *volmachtverlener:* degene die volmacht verleent;
 
-- p. **CAO Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam binnen de sector Rijk.
+- p. *CAO Rijk:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam binnen de sector Rijk.
 
 ### Hoofdstuk 2. Volmachtverlening
 
@@ -122,23 +94,23 @@ In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR004276
 
 - a. te sluiten en gesloten arbeidsovereenkomsten betreffende:
 
-- –. de hoofden van dienst, met uitzondering van hen die behoren tot de Topmanagementgroep;
+   - – de hoofden van dienst, met uitzondering van hen die behoren tot de Topmanagementgroep;
 
-- –. functionarissen in functies die zijn gewaardeerd op salarisschaal 17 en hoger van de CAO Rijk, met uitzondering van functionarissen die behoren tot de Topmanagementgroep.
+   - – functionarissen in functies die zijn gewaardeerd op salarisschaal 17 en hoger van de CAO Rijk, met uitzondering van functionarissen die behoren tot de Topmanagementgroep.
 
 - b.
 
-- –. het vaststellen van personeelsreglementen;
+   - – het vaststellen van personeelsreglementen;
 
-- –. het vaststellen van inhoud en niveau van organieke en feitelijk opgedragen functies van functionarissen waarvan de functie is gewaardeerd op het niveau van salarisschaal 15 van de CAO Rijk;
+   - – het vaststellen van inhoud en niveau van organieke en feitelijk opgedragen functies van functionarissen waarvan de functie is gewaardeerd op het niveau van salarisschaal 15 van de CAO Rijk;
 
-- –. het vaststellen van inhoud en niveau van organieke en feitelijk opgedragen functies van functionarissen waarvan de functie is gewaardeerd op het niveau van de salarisschalen 16 tot en met 18 van de CAO Rijk, na advies van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+   - – het vaststellen van inhoud en niveau van organieke en feitelijk opgedragen functies van functionarissen waarvan de functie is gewaardeerd op het niveau van de salarisschalen 16 tot en met 18 van de CAO Rijk, na advies van de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. hardheidsclausules, dan wel afwijkingen – voor zover niet in strijd met dwingendrechtelijke wettelijke bepalingen – naar redelijkheid en billijkheid;
+   - – hardheidsclausules, dan wel afwijkingen – voor zover niet in strijd met dwingendrechtelijke wettelijke bepalingen – naar redelijkheid en billijkheid;
 
-- –. het toekennen van ambtsjubileumgratificaties;
+   - – het toekennen van ambtsjubileumgratificaties;
 
-- –. het vaststellen of aan een functie binnen het kernministerie, en de secretariaten van raden en commissies, een vaste vergoeding voor representatiekosten is verbonden en de hoogte van die vergoeding.
+   - – het vaststellen of aan een functie binnen het kernministerie, en de secretariaten van raden en commissies, een vaste vergoeding voor representatiekosten is verbonden en de hoogte van die vergoeding.
 
 ##### Artikel 8. Portefeuillehouders
 
@@ -146,17 +118,17 @@ In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR004276
 
 2. In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2024-08-29&g=2024-08-29) hebben de Directeuren-Generaal van het kernministerie en de plaatsvervangend Secretaris-Generaal volmacht tot:
 
-- –. het in dienst nemen en het ontslag op initiatief van de medewerker zelf, van functies die zijn gewaardeerd op salarisschaal 15 of 16 van de CAO Rijk;
+- – het in dienst nemen en het ontslag op initiatief van de medewerker zelf, van functies die zijn gewaardeerd op salarisschaal 15 of 16 van de CAO Rijk;
 
-- –. het overeenkomen van een wekelijkse arbeidsduur van meer dan 36 uur;
+- – het overeenkomen van een wekelijkse arbeidsduur van meer dan 36 uur;
 
-- –. nemen van ordemaatregelen en straffen, zoals genoemd in de CAO Rijk;
+- – nemen van ordemaatregelen en straffen, zoals genoemd in de CAO Rijk;
 
-- –. ontslag, anders dan op initiatief van de medewerker zelf;
+- – ontslag, anders dan op initiatief van de medewerker zelf;
 
-- –. het sluiten en voortzetten van arbeidsovereenkomsten na het bereiken van de AOW-gerechtigde leeftijd van onder hen ressorterende ambtenaren;
+- – het sluiten en voortzetten van arbeidsovereenkomsten na het bereiken van de AOW-gerechtigde leeftijd van onder hen ressorterende ambtenaren;
 
-- –. het overeenkomen van individuele Regelingen voor Vervroegde Uittreding.
+- – het overeenkomen van individuele Regelingen voor Vervroegde Uittreding.
 
 ##### Artikel 9. Bindend advies directeur Organisatie, Bedrijfsvoering en Personeel
 
@@ -176,15 +148,15 @@ Met uitzondering van de Secretaris-Generaal verricht een gevolmachtigde geen rec
 
 5. Ondervolmachten als bedoeld in het eerste, tweede en derde lid, worden niet verleend tot:
 
-- –. het overeenkomen van een wekelijkse arbeidsduur van meer dan 36 uur;
+- – het overeenkomen van een wekelijkse arbeidsduur van meer dan 36 uur;
 
-- –. het nemen van ordemaatregelen en straffen, zoals genoemd in de CAO Rijk;
+- – het nemen van ordemaatregelen en straffen, zoals genoemd in de CAO Rijk;
 
-- –. ontslag, anders dan op initiatief van de medewerker zelf;
+- – ontslag, anders dan op initiatief van de medewerker zelf;
 
-- –. het sluiten en voortzetten van arbeidsovereenkomsten na het bereiken van de AOW-gerechtigde leeftijd van onder hen ressorterende ambtenaren;
+- – het sluiten en voortzetten van arbeidsovereenkomsten na het bereiken van de AOW-gerechtigde leeftijd van onder hen ressorterende ambtenaren;
 
-- –. het overeenkomen van individuele Regelingen voor Vervroegde Uittreding.
+- – het overeenkomen van individuele Regelingen voor Vervroegde Uittreding.
 
 6. De plaatsvervangend Secretaris-Generaal is bevoegd om in het kader van P-Direkt schriftelijk ondervolmacht te verlenen aan andere functionarissen dan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=3&z=2024-08-29&g=2024-08-29), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=4&z=2024-08-29&g=2024-08-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=5&z=2024-08-29&g=2024-08-29) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=2&artikel=6&z=2024-08-29&g=2024-08-29) vermelde functionarissen.
 
@@ -268,24 +240,22 @@ Deze regeling is niet van toepassing op rechtshandelingen of feitelijke handelin
 
 ##### Artikel 22
 
-Wijzigt de Volmachtregeling VWS.
+*Wijzigt de Volmachtregeling VWS.*
 
 ##### Artikel 23
 
-Wijzigt de Mandaatregeling VWS.
+*Wijzigt de Mandaatregeling VWS.*
 
-##### Artikel 24. Intrekking en toepassing [Mandaatregeling personele aangelegenheden VWS 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022933)
+##### Artikel 24. Intrekking en toepassing Mandaatregeling personele aangelegenheden VWS 2007
 
 1. De [Mandaatregeling personele aangelegenheden VWS 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022933) wordt ingetrokken.
 
-2. De [Mandaatregeling personele aangelegenheden VWS 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022933) en [artikel 1a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=1a) blijven onverminderd het eerste lid, na de inwerkingtreding van deze regeling van toepassing ten aanzien van personele aangelegenheden waarop na 1 januari 2020 het recht van toepassing is dat gold direct voor de inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393).
+2. De [Mandaatregeling personele aangelegenheden VWS 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022933) en [artikel 1a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=1a) blijven onverminderd het eerste lid, na de inwerkingtreding van deze regeling van toepassing ten aanzien van personele aangelegenheden waarop na 1 januari 2020 het recht van toepassing is dat gold direct voor de inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393).
 
 ##### Artikel 25. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=6&artikel=24&z=2024-08-29&g=2024-08-29), dat in werking treedt met ingang van 1 januari 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&hoofdstuk=6&artikel=24&z=2024-08-29&g=2024-08-29), dat in werking treedt met ingang van 1 januari 2020.
 
 ##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Volmachtregeling personele aangelegenheden VWS 2019.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en worden gepubliceerd op het VWS-intranet.

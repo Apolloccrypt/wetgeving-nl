@@ -1,52 +1,27 @@
 ---
 title: "Regeling van de Minister voor Milieu en Wonen van 16 maart 2020, nr. 2020-0000141044, houdende nadere regels ten aanzien van de kenbaarheid van publiekrechtelijke beperkingen op onroerende zaken (Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken)"
+citeertitel: "Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken"
 identifier: "BWBR0043304"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-05-25"
-last_updated: "2024-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043304"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15376213"
-version_id: "26578662"
-internal_id: "C37714311"
-label_id: "15320734"
-dtd_version: "2.0"
-original_entry_into_force: "2020-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043304/2024-05-25/0"
-intitule_bron: "Stcrt.2020-17059"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-03-16"
-intitule_published: "2020-03-23"
-intitule_in_force: "2020-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-17059"
-original_signed_date: "2020-03-16"
-original_published_date: "2020-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-17059"
-entry_into_force_date: "2020-04-01"
-jci_1_3: "jci1.3:c:BWBR0043304&z=2024-05-25&g=2024-05-25"
-jci_1_0: "1.0:c:BWBR0043304&g=2024-05-25"
-citeertitel_status: "officieel"
-short_title: "Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken"
-signed_date: "2020-03-16"
-entry_into_force: "2020-04-01"
+publicatiedatum: 2020-04-01
+laatste_update: 2024-05-25
+status: geldig
+toestand: 2024-05-25
+bron: "https://wetten.overheid.nl/BWBR0043304"
+opgehaald: 2026-08-29
 ---
+
 # Regeling van de Minister voor Milieu en Wonen van 16 maart 2020, nr. 2020-0000141044, houdende nadere regels ten aanzien van de kenbaarheid van publiekrechtelijke beperkingen op onroerende zaken (Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken)
-
-Gelet op de [artikelen 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15), en [17a, vierde lid, van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=17a) en [artikel 11b, elfde lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=11b);
-
-BESLUIT:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **brondocument:** beperkingenbesluit alsmede een op dat beperkingenbesluit betrekking hebbende beslissing in administratief beroep, rechterlijke uitspraak of vervallenverklaring als bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15);
+- *brondocument:* beperkingenbesluit alsmede een op dat beperkingenbesluit betrekking hebbende beslissing in administratief beroep, rechterlijke uitspraak of vervallenverklaring als bedoeld in [artikel 15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016876&artikel=15);
 
-- **wet:** [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876)
+- *wet:*
+ [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876)
 
 ##### Artikel 2
 
@@ -62,7 +37,7 @@ De identificatie van het object, bedoeld in [artikel 15, eerste lid, van de wet]
 
 1. Bij aanlevering van een brondocument worden als essentialia vermeld:
 
-- a. de wettelijke grondslag van het brondocument, genoemd in de [bijlage bij het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](onbekend);
+- a. de wettelijke grondslag van het brondocument, genoemd in de [bijlage bij het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/BWBR0021609);
 
 - b. de kadastrale aanduiding of identificatie van het object of de handmatig ingetekende geometrie;
 
@@ -106,7 +81,7 @@ Als een object waarop een beperking rust als bedoeld in [artikel 15 van de wet](
 
 ##### Artikel 8
 
-Deze regeling zoals deze luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), blijft tot het in [artikel 22.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.4) bedoelde tijdstip van toepassing op een beperkingenbesluit als bedoeld in [artikel 2, eerste lid, van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2) in samenhang met het onderdeel van de [bijlage](onbekend) bij dat artikellid met de vermelding van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) en de daarbij behorende beschrijving onder de categorie Gemeentewet, zoals dat onderdeel luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
+Deze regeling zoals deze luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), blijft tot het in [artikel 22.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.4) bedoelde tijdstip van toepassing op een beperkingenbesluit als bedoeld in [artikel 2, eerste lid, van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2) in samenhang met het onderdeel van de [bijlage](https://wetten.overheid.nl/BWBR0021609) bij dat artikellid met de vermelding van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) en de daarbij behorende beschrijving onder de categorie Gemeentewet, zoals dat onderdeel luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 ##### Artikel 9
 
@@ -114,18 +89,8 @@ De authenticatie, bedoeld in [artikel 11b, elfde lid, van de Kadasterwet](https:
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van 1 april 2020.
+Deze regeling treedt in werking met ingang van 1 april 2020.
 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
-
-## Bijlage I. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-05-25&g=2024-05-25)
-
-### Toegestane objecttypen uit de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-05-25&g=2024-05-25) genoemde basisregistraties
-
-## Bijlage II. bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043304&artikel=2&z=2024-05-25&g=2024-05-25)
-
-### Toegestane werkingsgebieden per soort besluit
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

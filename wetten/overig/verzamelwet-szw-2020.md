@@ -1,204 +1,174 @@
 ---
 title: "Wet van 11 december 2019 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede enkele wetten van andere ministeries (Verzamelwet SZW 2020)"
+citeertitel: "Verzamelwet SZW 2020"
 identifier: "BWBR0042918"
-country: "nl"
-rank: "wet"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0042918"
+categorie: "Sociaal recht"
 soort: "wet"
-stam_id: "15280273"
-version_id: "26325712"
-internal_id: "C37421201"
-label_id: "15226494"
-dtd_version: "2.0"
-original_entry_into_force: "2019-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0042918/2021-01-01/0"
-intitule_bron: "Stb.2019-483"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-12-11"
-intitule_published: "2019-12-17"
-intitule_in_force: "2019-12-17"
-intitule_status: "goed"
-original_publication: "Stb.2019-483"
-original_signed_date: "2019-12-11"
-original_published_date: "2019-12-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "35275"
-original_url_id: "stb-2019-483"
-entry_into_force_date: "2019-12-18"
-entry_into_force_dossier: "35275"
-jci_1_3: "jci1.3:c:BWBR0042918&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0042918&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Verzamelwet SZW 2020"
-signed_date: "2019-12-11"
-entry_into_force: "2019-12-18"
+publicatiedatum: 2019-12-18
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0042918"
+opgehaald: 2026-08-29
 ---
+
 # Wet van 11 december 2019 tot wijziging van enkele wetten van het Ministerie van Sociale Zaken en Werkgelegenheid alsmede enkele wetten van andere ministeries (Verzamelwet SZW 2020)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Aanpassingswet Wnra
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid, en enkele andere ministeries;
+*Wijzigt de Aanpassingswet Wnra.*
 
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel Ia. Algemene Kinderbijslagwet
 
-##### Artikel I. [Aanpassingswet Wnra](https://wetten.overheid.nl/jci1.3:c:BWBR0042210)
+*Wijzigt de Algemene Kinderbijslagwet.*
 
-Wijzigt de Aanpassingswet Wnra.
+##### Artikel II. Algemene nabestaandenwet
 
-##### Artikel Ia. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+*Wijzigt de Algemene nabestaandenwet.*
 
-Wijzigt de Algemene Kinderbijslagwet.
+##### Artikel III. Algemene ouderdomswet
 
-##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
+*Wijzigt de Algemene Ouderdomswet.*
 
-Wijzigt de Algemene nabestaandenwet.
+##### Artikel IIIa. Algemene wet bestuursrecht
 
-##### Artikel III. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
+*Wijzigt de Algemene wet bestuursrecht.*
 
-Wijzigt de Algemene Ouderdomswet.
+##### Artikel IV. Arbeidsomstandighedenwet
 
-##### Artikel IIIa. [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+*Wijzigt de Arbeidsomstandighedenwet.*
 
-Wijzigt de Algemene wet bestuursrecht.
+##### Artikel IVa. Arbeidswet 2000 BES
 
-##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+*Wijzigt de Arbeidswet 2000 BES.*
 
-Wijzigt de Arbeidsomstandighedenwet.
+##### Artikel IVb. Burgerlijk Wetboek
 
-##### Artikel IVa. [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202)
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
-Wijzigt de Arbeidswet 2000 BES.
+##### Artikel V. Participatiewet
 
-##### Artikel IVb. [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+*Wijzigt de Participatiewet.*
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+##### Artikel Va. Pensioenwet
 
-##### Artikel V. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
+*Wijzigt de Pensioenwet.*
 
-Wijzigt de Participatiewet.
+##### Artikel VI. Werkloosheidswet
 
-##### Artikel Va. [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
+*Wijzigt de Werkloosheidswet.*
 
-Wijzigt de Pensioenwet.
+##### Artikel VII. Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving
 
-##### Artikel VI. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+*Wijzigt de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving.*
 
-Wijzigt de Werkloosheidswet.
+##### Artikel VIII. Wet algemene ouderdomsverzekering BES
 
-##### Artikel VII. [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087)
+*Wijzigt de Wet algemene ouderdomsverzekering BES.*
 
-Wijzigt de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving.
+##### Artikel IX. Wet algemene weduwen- en wezenverzekering BES
 
-##### Artikel VIII. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
+*Wijzigt de Wet algemene weduwen- en wezenverzekering BES.*
 
-Wijzigt de Wet algemene ouderdomsverzekering BES.
+##### Artikel X. Wet allocatie arbeidskrachten door intermediairs
 
-##### Artikel IX. [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+*Wijzigt de Wet allocatie arbeidskrachten door intermediairs.*
 
-Wijzigt de Wet algemene weduwen- en wezenverzekering BES.
+##### Artikel XI. Wet arbeid en zorg
 
-##### Artikel X. [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
+*Wijzigt de Wet arbeid en zorg.*
 
-Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
+##### Artikel XII. Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie
 
-##### Artikel XI. [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+*Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.*
 
-Wijzigt de Wet arbeid en zorg.
+##### Artikel XIII. Wetboek van Burgerlijke Rechtsvordering
 
-##### Artikel XII. [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering (geldt in geval van digitaal procederen).*
 
-Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
+##### Artikel XIV. Wet financiering sociale verzekeringen
 
-##### Artikel XIII. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+*Wijzigt de Wet financiering sociale verzekeringen.*
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering (geldt in geval van digitaal procederen).
+##### Artikel XIVa. Wet inburgering
 
-##### Artikel XIV. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+*Wijzigt de Wet inburgering.*
 
-Wijzigt de Wet financiering sociale verzekeringen.
+##### Artikel XV. Wet invoering extra geboorteverlof
 
-##### Artikel XIVa. [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
+*Wijzigt de Wet invoering extra geboorteverlof.*
 
-Wijzigt de Wet inburgering.
+##### Artikel XVa. Wet kinderbijslagvoorziening BES
 
-##### Artikel XV. [Wet invoering extra geboorteverlof](https://wetten.overheid.nl/jci1.3:c:BWBR0041646)
+*Wijzigt de Wet kinderbijslagvoorziening BES.*
 
-Wijzigt de Wet invoering extra geboorteverlof.
+##### Artikel XVI. Wet kinderopvang
 
-##### Artikel XVa. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
+*Wijzigt de Wet kinderopvang.*
 
-Wijzigt de Wet kinderbijslagvoorziening BES.
+##### Artikel XVII. Wet maatschappelijke ondersteuning 2015
 
-##### Artikel XVI. [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+*Wijzigt de Wet maatschappelijke ondersteuning 2015.*
 
-Wijzigt de Wet kinderopvang.
+##### Artikel XVIIa. Wet minimumloon en minimumvakantiebijslag
 
-##### Artikel XVII. [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+*Wijzigt de Wet minimumloon en minimumvakantiebijslag.*
 
-Wijzigt de Wet maatschappelijke ondersteuning 2015.
+##### Artikel XVIIb. Wet normalisering rechtspositie ambtenaren
 
-##### Artikel XVIIa. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
+*Wijzigt de Wet normalisering rechtspositie ambtenaren.*
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+##### Artikel XVIIc. Wet ongevallenverzekering BES
 
-##### Artikel XVIIb. [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393)
+*Wijzigt de Wet ongevallenverzekering BES.*
 
-Wijzigt de Wet normalisering rechtspositie ambtenaren.
+##### Artikel XVIId. Wet op de loonbelasting 1964
 
-##### Artikel XVIIc. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
+*Wijzigt de Wet op de loonbelasting 1964.*
 
-Wijzigt de Wet ongevallenverzekering BES.
+##### Artikel XVIIe. Wet op de loonvorming
 
-##### Artikel XVIId. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+*Wijzigt de Wet op de loonvorming.*
 
-Wijzigt de Wet op de loonbelasting 1964.
+##### Artikel XVIIea. Wet op de studiefinanciering
 
-##### Artikel XVIIe. [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698)
+*Wijzigt de Wet op de studiefinanciering.*
 
-Wijzigt de Wet op de loonvorming.
+##### Artikel XVIIeb. Wet op het kindgebonden budget
 
-##### Artikel XVIIea. [Wet op de studiefinanciering](https://wetten.overheid.nl/jci1.3:c:BWBR0003955)
+*Wijzigt de Wet op het kindgebonden budget.*
 
-Wijzigt de Wet op de studiefinanciering.
+##### Artikel XVIIec. Wet studiefinanciering 2000
 
-##### Artikel XVIIeb. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
+*Wijzigt de Wet studiefinanciering 2000.*
 
-Wijzigt de Wet op het kindgebonden budget.
+##### Artikel XVIIf. Wet studiefinanciering BES
 
-##### Artikel XVIIec. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+*Wijzigt de Wet studiefinanciering BES.*
 
-Wijzigt de Wet studiefinanciering 2000.
+##### Artikel XVIII. Wet structuur uitvoeringsorganisatie werk en inkomen
 
-##### Artikel XVIIf. [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
 
-Wijzigt de Wet studiefinanciering BES.
+##### Artikel XVIIIa. Wet tegemoetkomingen loondomein
 
-##### Artikel XVIII. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
+*Wijzigt de Wet tegemoetkomingen loondomein.*
 
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
+##### Artikel XVIIIb. Wet verplichte beroepspensioenregeling
 
-##### Artikel XVIIIa. [Wet tegemoetkomingen loondomein](https://wetten.overheid.nl/jci1.3:c:BWBR0037522)
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
-Wijzigt de Wet tegemoetkomingen loondomein.
+##### Artikel XVIIIc. Wet vereenvoudiging beslagvrije voet
 
-##### Artikel XVIIIb. [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+*Wijzigt de Wet vereenvoudiging beslagvrije voet.*
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+##### Artikel XIX. Wet werk en inkomen naar arbeidsvermogen
 
-##### Artikel XVIIIc. [Wet vereenvoudiging beslagvrije voet](https://wetten.overheid.nl/jci1.3:c:BWBR0039377)
+*Wijzigt de Wet werk en inkomen naar arbeidsvermogen.*
 
-Wijzigt de Wet vereenvoudiging beslagvrije voet.
+##### Artikel XIXa. Wet ziekteverzekering BES
 
-##### Artikel XIX. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
-
-Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
-
-##### Artikel XIXa. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
-
-Wijzigt de Wet ziekteverzekering BES.
+*Wijzigt de Wet ziekteverzekering BES.*
 
 ##### Artikel XIXab
 
@@ -206,10 +176,8 @@ Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XX. Inwerkingtreding
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen V, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=V&z=2021-01-01&g=2021-01-01), [XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XI&z=2021-01-01&g=2021-01-01), en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XVII&z=2021-01-01&g=2021-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met uitzondering van de [artikelen V, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=V&z=2021-01-01&g=2021-01-01), [XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XI&z=2021-01-01&g=2021-01-01), en [XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0042918&artikel=XVII&z=2021-01-01&g=2021-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en terugwerken tot en met 1 juli 2019.
 
 ##### Artikel XXI. Citeertitel
 
 Deze wet wordt aangehaald als: Verzamelwet SZW 2020.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
