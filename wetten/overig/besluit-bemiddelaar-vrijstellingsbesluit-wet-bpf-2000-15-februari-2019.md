@@ -1,48 +1,18 @@
 ---
 title: "Besluit tot instelling van een bemiddelaar in geschillen over toepassing van het vrijstellingsbesluit in het kader van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, 15 februari 2019 (Besluit Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019)"
+citeertitel: "Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019"
 identifier: "BWBR0044288"
-country: "nl"
-rank: "pbo"
-publication_date: "2020-11-04"
-last_updated: "2020-11-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044288"
+categorie: "Sociaal recht"
 soort: "pbo"
-stam_id: "15685243"
-version_id: "27175082"
-internal_id: "C38404331"
-label_id: "15624364"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044288/2020-11-04/0"
-intitule_bron: "Stcrt.2020-56473"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-02-15"
-intitule_published: "2020-11-02"
-intitule_in_force: "2020-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-56473"
-original_signed_date: "2019-02-15"
-original_published_date: "2020-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-56473"
-entry_into_force_date: "2020-11-04"
-jci_1_3: "jci1.3:c:BWBR0044288&z=2020-11-04&g=2020-11-04"
-jci_1_0: "1.0:c:BWBR0044288&g=2020-11-04"
-citeertitel_status: "officieel"
-short_title: "Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019"
-signed_date: "2019-02-15"
-entry_into_force: "2020-11-04"
+publicatiedatum: 2020-11-04
+laatste_update: 2020-11-04
+status: geldig
+toestand: 2020-11-04
+bron: "https://wetten.overheid.nl/BWBR0044288"
+opgehaald: 2026-08-30
 ---
+
 # Besluit tot instelling van een bemiddelaar in geschillen over toepassing van het vrijstellingsbesluit in het kader van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, 15 februari 2019 (Besluit Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019)
-
-Gelet op [artikel 2 van de Wet op de SER](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=2)
-
-Gezien het verzoek van 3 februari 1999 van de Stichting van de Arbeid;
-
-Gehoord de Pensioenfederatie en het Verbond van Verzekeraars;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -50,17 +20,18 @@ Besluit:
 
 2. In dit besluit wordt voorts verstaan onder:
 
-- a. **wet:** [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092);
+- a. *wet:*
+ [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092);
 
-- b. **Vrijstellingsbesluit:** vrijstellingsbesluit als bedoeld In [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13);
+- b. *Vrijstellingsbesluit:* vrijstellingsbesluit als bedoeld In [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092&artikel=13);
 
-- c. **Vereniging:** Pensioenfederatie;
+- c. *Vereniging:* Pensioenfederatie;
 
-- d. **Verbond:** Verbond van Verzekeraars
+- d. *Verbond:* Verbond van Verzekeraars
 
-- e. **raad:** Sociaal-Economische Raad.
+- e. *raad:* Sociaal-Economische Raad.
 
-##### Artikel 2. Bemiddelaar [Vrijstellingsbesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094)
+##### Artikel 2. Bemiddelaar Vrijstellingsbesluit Wet Bpf 2000
 
 1. Er is een bemiddelingsinstantie inzake het vrijstellingsbesluit van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012092).
 
@@ -114,9 +85,9 @@ Besluit:
 
 2. Behalve aan de werkzaamheden, voortvloeiende uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044288&artikel=3&z=2020-11-04&g=2020-11-04) omschreven taak, kan daarin ook aandacht worden besteed aan:
 
-- –. de regels inzake de werkwijze bedoeld in [artikel 5, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044288&artikel=5&z=2020-11-04&g=2020-11-04);
+- – de regels inzake de werkwijze bedoeld in [artikel 5, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044288&artikel=5&z=2020-11-04&g=2020-11-04);
 
-- –. eventuele tekortkomingen in het vrijstellingsbesluit voor zover deze betrekking hebben op de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044288&artikel=3&z=2020-11-04&g=2020-11-04), bedoelde beleidsgebieden.
+- – eventuele tekortkomingen in het vrijstellingsbesluit voor zover deze betrekking hebben op de in [artikel 3, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044288&artikel=3&z=2020-11-04&g=2020-11-04), bedoelde beleidsgebieden.
 
 ##### Artikel 7. Vergoedingen en kosten / eigen bijdrage
 
@@ -144,4 +115,4 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 
 ##### Artikel 11. Citeertitel
 
-Dit besluit wordt aangehaald als Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019.
+Dit besluit wordt aangehaald als Besluit bemiddelaar Vrijstellingsbesluit Wet Bpf 2000, 15 februari 2019.

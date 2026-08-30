@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17896773, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs in Caribisch Nederland (Regeling voorzieningenplanning po CN 2021)"
+citeertitel: "Regeling voorzieningenplanning po CN 2021"
 identifier: "BWBR0044043"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2022-09-15"
-last_updated: "2022-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044043"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-BES"
-stam_id: "15616893"
-version_id: "26997222"
-internal_id: "C38204721"
-label_id: "15557234"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044043/2022-09-15/0"
-intitule_bron: "Stcrt.2020-46175"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-28"
-intitule_published: "2020-09-02"
-intitule_in_force: "2020-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-46175"
-original_signed_date: "2020-08-28"
-original_published_date: "2020-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-46175"
-entry_into_force_date: "2021-02-01"
-jci_1_3: "jci1.3:c:BWBR0044043&z=2022-09-15&g=2022-09-15"
-jci_1_0: "1.0:c:BWBR0044043&g=2022-09-15"
-citeertitel_status: "officieel"
-short_title: "Regeling voorzieningenplanning po CN 2021"
-signed_date: "2020-08-28"
-entry_into_force: "2021-02-01"
+publicatiedatum: 2021-02-01
+laatste_update: 2022-09-15
+status: geldig
+toestand: 2022-09-15
+bron: "https://wetten.overheid.nl/BWBR0044043"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17896773, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs in Caribisch Nederland (Regeling voorzieningenplanning po CN 2021)
-
-Gelet op de [artikelen 72, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), [72a, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), [75, tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,27 +20,28 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** bevoegd gezag dat bij de minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school.
+- *aanvrager:* bevoegd gezag dat bij de minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school.
 
-- **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 72a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a);
+- *belangstellingsmeting:* belangstellingsmeting als bedoeld in [artikel 72a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **DUO:** Dienst Uitvoering Onderwijs;
+- *DUO:* Dienst Uitvoering Onderwijs;
 
-- **minister:** Minister voor Basis- en Voortgezet Onderwijs en Media;
+- *minister:* Minister voor Basis- en Voortgezet Onderwijs en Media;
 
-- **ouder:** ouder als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *ouder:* ouder als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **school:** school als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *school:* school als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **voedingsgebied:** voedingsgebied als bedoeld in [artikel 72a, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a);
+- *voedingsgebied:* voedingsgebied als bedoeld in [artikel 72a, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a);
 
-- **wet:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280).
+- *wet:*
+ [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280).
 
 ##### Artikel 2. Melding voorgenomen aanvraag tot bekostiging
 
-1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 75, eerste lid, van de wet.
+1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 75, eerste lid, van de wet.
 
 2. De melding bevat de volgende gegevens:
 
@@ -92,13 +67,13 @@ In deze regeling wordt verstaan onder:
 
 3. De gegevens in het tweede lid, onderdeel d en de onderdelen f tot en met j, worden openbaar gemaakt op de website www.duo.nl.
 
-4. Publicatie op de website www.duo.nl geschiedt slechts indien de gegevens voor 1 juli volledig zijn aangeleverd.
+4. Publicatie op de website www.duo.nl geschiedt slechts indien de gegevens voor 1 juli volledig zijn aangeleverd.
 
 5. De melding van de voorgenomen aanvraag tot bekostiging wordt gedaan met een formulier dat is bekendgemaakt op de website www.duo.nl.
 
 ##### Artikel 3. Aanvraag tot bekostiging
 
-1. Een aanvraag als bedoeld in [artikel 75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), bevat naast de gegevens, genoemd in [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72) de volgende gegevens:
+1. Een aanvraag als bedoeld in [artikel 75, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75), bevat naast de gegevens, genoemd in [artikel 72, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72) de volgende gegevens:
 
 - a. naam van de contactpersoon;
 
@@ -124,9 +99,13 @@ In deze regeling wordt verstaan onder:
 
 - l. beschrijving van het onderwijskundig concept van ten hoogste 3.000 tekens.
 
-2. Uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
+2. Uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
 
 3. De aanvraag tot bekostiging wordt ingediend met een formulier dat is bekendgemaakt op de website www.duo.nl.
+
+##### Artikel 3a. Aanvragen tot bekostiging 2022
+
+In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), dat in de periode van 15 september 2022 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
 
 ##### Artikel 4. Verklaring omtrent gedrag
 
@@ -138,29 +117,29 @@ In deze regeling wordt verstaan onder:
 
 1. De correctiefactor, bedoeld in [artikel 72a, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), is 0,7.
 
-2. Indien sprake is van een overlappend voedingsgebied als bedoeld in [artikel 72a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75).
+2. Indien sprake is van een overlappend voedingsgebied als bedoeld in [artikel 72a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75).
 
-3. De aantallen, bedoeld in [artikel 72a, derde lid, onderdeel a, letter x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
+3. De aantallen, bedoeld in [artikel 72a, derde lid, onderdeel a, letter x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
 
 ##### Artikel 6. Nadere regels ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), wordt door de ouder ingediend bij de afdeling OCW Caribisch Gebied, ondergebracht bij de Rijksdienst Caribisch Nederland in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
 5. Indien de aanvrager een melding van een voorgenomen aanvraag intrekt, vervallen de hierbij behorende ingediende ouderverklaringen.
 
-6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a) ten aanzien van hetzelfde kind indienen, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:
+6. De ouder kan in een volgend kalenderjaar opnieuw een ouderverklaring als bedoeld in [artikel 72a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a) ten aanzien van hetzelfde kind indienen, indien de aanvraag waarvoor eerder een ouderverklaring is ingediend:
 
 - a. wel is gemeld, maar niet is ingediend; of
 
 - b. is afgewezen.
 
-7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
 
@@ -170,7 +149,7 @@ In deze regeling wordt verstaan onder:
 
 1. Een marktonderzoek als bedoeld in [artikel 72a, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), is uitsluitend toegestaan indien:
 
-- a. op het eiland dat de beoogde plaats van vestiging omvat een groei van ten minste 30% in het aantal leerlingen in de leeftijd van 2 tot en met 4 jaar wordt verwacht tussen het kalenderjaar waarin het marktonderzoek plaatsvindt en het tiende kalenderjaar daaraanvolgend; of
+- a. op het eiland dat de beoogde plaats van vestiging omvat een groei van ten minste 30% in het aantal leerlingen in de leeftijd van 2 tot en met 4 jaar wordt verwacht tussen het kalenderjaar waarin het marktonderzoek plaatsvindt en het tiende kalenderjaar daaraanvolgend; of
 
 - b. met een beroep op [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=73) een aanvraag tot bekostiging van een openbare school wordt ingediend.
 
@@ -202,22 +181,14 @@ In deze regeling wordt verstaan onder:
 
 - e. de periode waarin het onderzoek heeft plaatsgevonden.
 
-8. Het minimale aantal leerlingen, bedoeld in [artikel 72a, derde lid, onderdeel b, letter y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), ten aanzien van wie is aangegeven dat er belangstelling is voor de school waar de aanvraag betrekking op heeft, is 5.
+8. Het minimale aantal leerlingen, bedoeld in [artikel 72a, derde lid, onderdeel b, letter y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), ten aanzien van wie is aangegeven dat er belangstelling is voor de school waar de aanvraag betrekking op heeft, is 5.
 
-9. Indien de onderzoekspopulatie, bedoeld in [artikel 72a, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), minder dan 5.000 leerlingen bedraagt, is het totaal aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 72a, derde lid, onderdeel b, letter x, van de wet, minimaal 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt, is het totaal aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 72a, derde lid, onderdeel b, letter x, van de wet, minimaal 500.
+9. Indien de onderzoekspopulatie, bedoeld in [artikel 72a, vijfde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72a), minder dan 5.000 leerlingen bedraagt, is het totaal aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 72a, derde lid, onderdeel b, letter x, van de wet, minimaal 10% van de onderzoekspopulatie. Indien de onderzoekspopulatie 5.000 of meer leerlingen bedraagt, is het totaal aantal leerlingen ten aanzien van wie aan het marktonderzoek is deelgenomen, bedoeld in artikel 72a, derde lid, onderdeel b, letter x, van de wet, minimaal 500.
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 februari 2021.
+Deze regeling treedt in werking met ingang van 1 februari 2021.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po CN 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a. Aanvragen tot bekostiging 2022
-
-In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044043&paragraaf=1&artikel=3&z=2022-09-15&g=2022-09-15), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 72, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=72), dat in de periode van 15 september 2022 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

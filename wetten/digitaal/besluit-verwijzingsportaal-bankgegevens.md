@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 7 juli 2020, houdende regels met betrekking tot het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Besluit verwijzingsportaal bankgegevens)"
+citeertitel: "Besluit verwijzingsportaal bankgegevens"
 identifier: "BWBR0043903"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043903"
+categorie: "Financieel recht"
 soort: "AMvB"
-stam_id: "15571703"
-version_id: "26901922"
-internal_id: "C38222541"
-label_id: "15513314"
-dtd_version: "2.0"
-original_entry_into_force: "2020-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043903/2022-01-01/0"
-intitule_bron: "Stb.2020-264"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-07"
-intitule_published: "2020-07-17"
-intitule_in_force: "2020-09-09"
-intitule_status: "goed"
-original_publication: "Stb.2020-264"
-original_signed_date: "2020-07-07"
-original_published_date: "2020-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-264"
-entry_into_force_date: "2020-09-10"
-jci_1_3: "jci1.3:c:BWBR0043903&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0043903&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit verwijzingsportaal bankgegevens"
-signed_date: "2020-07-07"
-entry_into_force: "2020-09-10"
+publicatiedatum: 2020-09-10
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0043903"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 7 juli 2020, houdende regels met betrekking tot het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Besluit verwijzingsportaal bankgegevens)
-
-Op de voordracht van Onze Minister van Financiën van 16 juni 2020, 2020-0000090763, directie Financiële Markten, gedaan mede namens Onze Minister van Justitie en Veiligheid;
-
-Gelet op de [artikelen 1:81](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:81) en [3:267i van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) en de [artikelen 126nc, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nc), en [126nd, zevende lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126nd);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 juni 2020, nr. W06.20.0137/III);
-
-Gezien het nader rapport van Onze Minister van Financiën van 3 juli 2020, 2020-0000122784, directie Financiële Markten, uitgebracht mede namens Onze Minister van Justitie en Veiligheid;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Definities
 
@@ -52,48 +20,65 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **aangesloten partijen:** partijen die op grond van [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) zijn aangesloten op het verwijzingsportaal bankgegevens;
+- a. *aangesloten partijen:* partijen die op grond van [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) zijn aangesloten op het verwijzingsportaal bankgegevens;
 
-- b. **bevoegde autoriteiten:** de instanties en functionarissen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=4&artikel=6&z=2022-01-01&g=2022-01-01) van dit besluit;
+- b. *bevoegde autoriteiten:* de instanties en functionarissen, genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=4&artikel=6&z=2022-01-01&g=2022-01-01) van dit besluit;
 
-- c. **verwijzingsportaal bankgegevens:** het centraal elektronisch systeem, bedoeld in [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i);
+- c. *verwijzingsportaal bankgegevens:* het centraal elektronisch systeem, bedoeld in [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i);
 
-- d. **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+- d. *wet:*
+ [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ##### Artikel 2
 
 Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als bedoeld in [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) zijn:
 
-- a. in geval van een natuurlijke persoon:
+- a. in geval van een natuurlijke persoon: *Veldnaam*
+ *Omschrijving*
+ naam
+ voorletter(s), voornaam, tussenvoegsel en achternaam
+ tenaamstelling financieel product
+ accountnaam of naam van de rekeninghouder die hoort bij een financieel product
+ adres
+ straat, huisnummer en eventuele toevoegingen, eventueel postbusnummer, postcode, woonplaats en land
+ adrestype
+ huis- of postadres
+ geboortedatum
+ rol persoon
+ is de persoon een rekeninghouder of gemachtigde?
+ status cliënt
+ is de relatie actief of beëindigd?
+ productnummer
+ een uniek nummer dat aan een product is toegekend
+ productsoort
+ een waarde uit een limitatieve lijst van productsoorten
+ status product
+ is het product actief, geblokkeerd of beëindigd?
+ rekening geschikt voor uitbetaling toeslagen (ja/nee)
+ staat de rekening wel of niet op naam van de toeslaggerechtigde?
+ identiteit van de contractspartij
+ wordt het product door een andere organisatie uitgegeven?
 
-| **Veldnaam** | **Omschrijving** |
-| --- | --- |
-| naam | voorletter(s), voornaam, tussenvoegsel en achternaam |
-| tenaamstelling financieel product | accountnaam of naam van de rekeninghouder die hoort bij een financieel product |
-| adres | straat, huisnummer en eventuele toevoegingen, eventueel postbusnummer, postcode, woonplaats en land |
-| adrestype | huis- of postadres |
-| geboortedatum |   |
-| rol persoon | is de persoon een rekeninghouder of gemachtigde? |
-| status cliënt | is de relatie actief of beëindigd? |
-| productnummer | een uniek nummer dat aan een product is toegekend |
-| productsoort | een waarde uit een limitatieve lijst van productsoorten |
-| status product | is het product actief, geblokkeerd of beëindigd? |
-| rekening geschikt voor uitbetaling toeslagen (ja/nee) | staat de rekening wel of niet op naam van de toeslaggerechtigde? |
-| identiteit van de contractspartij | wordt het product door een andere organisatie uitgegeven? |
-
-- b. in geval van een rechtspersoon:
-
-| **Veldnaam** | **Omschrijving** |
-| --- | --- |
-| naam | naam van de rechtspersoon |
-| tenaamstelling financieel product | accountnaam of naam van een rechtspersoon die hoort bij een financieel product |
-| adres | straat, huisnummer en eventuele toevoegingen, eventueel postbusnummer, postcode, vestigingsplaats en land |
-| adrestype | kantoor- of postadres |
-| identificatienummer | door de Kamer van Koophandel toegekend uniek nummer of hiermee vergelijkbaar |
-| status cliënt | is de relatie actief of beëindigd? |
-| productnummer | een uniek nummer dat aan een product is toegekend |
-| productsoort | een waarde uit een limitatieve lijst van productsoorten |
-| status product | is het product actief, geblokkeerd of beëindigd? |
+- b. in geval van een rechtspersoon: *Veldnaam*
+ *Omschrijving*
+ naam
+ naam van de rechtspersoon
+ tenaamstelling financieel product
+ accountnaam of naam van een rechtspersoon die hoort bij een financieel product
+ adres
+ straat, huisnummer en eventuele toevoegingen, eventueel postbusnummer, postcode, vestigingsplaats en land
+ adrestype
+ kantoor- of postadres
+ identificatienummer
+ door de Kamer van Koophandel toegekend uniek nummer of hiermee vergelijkbaar
+ status cliënt
+ is de relatie actief of beëindigd?
+ productnummer
+ een uniek nummer dat aan een product is toegekend
+ productsoort
+ een waarde uit een limitatieve lijst van productsoorten
+ status product
+ is het product actief, geblokkeerd of beëindigd?
 
 #### § 2. Algemeen
 
@@ -179,11 +164,11 @@ Aangesloten partijen dragen zorg voor een goed functionerende aansluiting op het
 
 ##### Artikel 11
 
-Wijzigt het Besluit bestuurlijke boetes financiële sector.
+*Wijzigt het Besluit bestuurlijke boetes financiële sector.*
 
 ##### Artikel 12
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 13
 
@@ -192,5 +177,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit verwijzingsportaal bankgegevens.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 oktober 2020, nr. 25426964, houdende vaststelling van de vergoedingen van de leden van de Commissie Collectie Nederland (Vergoedingenregeling Commissie Collectie Nederland)"
+citeertitel: "Vergoedingenregeling Commissie Collectie Nederland"
 identifier: "BWBR0044271"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-31"
-last_updated: "2020-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044271"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15681233"
-version_id: "27167672"
-internal_id: "C38396041"
-label_id: "15620294"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044271/2020-10-31/0"
-intitule_bron: "Stcrt.2020-56269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-13"
-intitule_published: "2020-10-30"
-intitule_in_force: "2020-10-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-56269"
-original_signed_date: "2020-10-13"
-original_published_date: "2020-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-56269"
-entry_into_force_date: "2020-10-31"
-jci_1_3: "jci1.3:c:BWBR0044271&z=2020-10-31&g=2020-10-31"
-jci_1_0: "1.0:c:BWBR0044271&g=2020-10-31"
-citeertitel_status: "officieel"
-short_title: "Vergoedingenregeling Commissie Collectie Nederland"
-signed_date: "2020-10-13"
-entry_into_force: "2020-10-31"
+publicatiedatum: 2020-10-31
+laatste_update: 2020-10-31
+status: geldig
+toestand: 2020-10-31
+bron: "https://wetten.overheid.nl/BWBR0044271"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 oktober 2020, nr. 25426964, houdende vaststelling van de vergoedingen van de leden van de Commissie Collectie Nederland (Vergoedingenregeling Commissie Collectie Nederland)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,10 +28,8 @@ De leden van de Raad voor Cultuur die tevens lid zijn van de Commissie Collectie
 
 ##### Artikel 3
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 september 2020.
 
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Vergoedingenregeling Commissie Collectie Nederland.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

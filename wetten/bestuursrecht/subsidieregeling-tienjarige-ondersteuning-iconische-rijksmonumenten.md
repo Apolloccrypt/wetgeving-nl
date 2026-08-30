@@ -1,72 +1,47 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 29 mei 2020, nr. WJZ/17860769, houdende regels voor subsidieverstrekking over een periode van tien jaren voor iconische rijksmonumenten (Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten)"
+citeertitel: "Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten"
 identifier: "BWBR0043609"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043609"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15480943"
-version_id: "26752152"
-internal_id: "C37916411"
-label_id: "15423674"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043609/2024-01-01/0"
-intitule_bron: "Stcrt.2020-30018"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-29"
-intitule_published: "2020-06-05"
-intitule_in_force: "2020-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-30018"
-original_signed_date: "2020-05-29"
-original_published_date: "2020-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-30018"
-entry_into_force_date: "2020-06-06"
-jci_1_3: "jci1.3:c:BWBR0043609&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0043609&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten"
-signed_date: "2020-05-29"
-entry_into_force: "2020-06-06"
+publicatiedatum: 2020-06-06
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0043609"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 29 mei 2020, nr. WJZ/17860769, houdende regels voor subsidieverstrekking over een periode van tien jaren voor iconische rijksmonumenten (Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten)
-
-Gelet op de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.1) en [7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.3), juncto [7.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.7), en [7.5, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=7.5), de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) of ten aanzien van een al verleende omgevingsvergunning;
+- *bevoegd gezag:* bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning als bedoeld in [artikel 5.1, eerste lid, onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) of ten aanzien van een al verleende omgevingsvergunning;
 
-- **eigenaar:** eigenaar als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=3&z=2024-01-01&g=2024-01-01);
+- *eigenaar:* eigenaar als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=3&z=2024-01-01&g=2024-01-01);
 
-- **instandhoudingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten die in de [Leidraad](onbekend) als subsidiabel zijn aangemerkt, met inbegrip van de werkzaamheden, bedoeld in hoofdstuk 1.3, paragraaf 92, van de Leidraad ten aanzien van een groen monument als bedoeld in [artikel 1 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=1) die in de Leidraad als onderhoud prioriteit 2 of restauratie zijn aangemerkt;
+- *instandhoudingskosten:* kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten die in de [Leidraad](https://wetten.overheid.nl/BWBR0032075) als subsidiabel zijn aangemerkt, met inbegrip van de werkzaamheden, bedoeld in hoofdstuk 1.3, paragraaf 92, van de Leidraad ten aanzien van een groen monument als bedoeld in [artikel 1 van de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032075&artikel=1) die in de Leidraad als onderhoud prioriteit 2 of restauratie zijn aangemerkt;
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **kosten voor toegankelijkheidsverbetering:** kosten als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01);
+- *kosten voor toegankelijkheidsverbetering:* kosten als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01);
 
-- **Leidraad:** Leidraad subsidiabele instandhoudingskosten, opgenomen als [bijlage bij de Subsidieregeling instandhouding monumenten](onbekend);
+- *Leidraad:* Leidraad subsidiabele instandhoudingskosten, opgenomen als [bijlage bij de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/BWBR0032075);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **verduurzamingsadvies:** verduurzamingsadvies dat voldoet aan de eisen die daaraan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling zijn gesteld;
+- *verduurzamingsadvies:* verduurzamingsadvies dat voldoet aan de eisen die daaraan in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling zijn gesteld;
 
-- **rijksmonument:** rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
+- *rijksmonument:* rijksmonument als bedoeld in [artikel 1.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1);
 
-- **verduurzamingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten van maatregelen die op grond van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2024-01-01&g=2024-01-01)bij deze regeling als subsidiabel zijn aangemerkt;
+- *verduurzamingskosten:* kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten van maatregelen die op grond van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2024-01-01&g=2024-01-01)bij deze regeling als subsidiabel zijn aangemerkt;
 
-- **werkzaamheden:** werkzaamheden, maatregelen en voorzieningen waarvoor op grond van deze regeling subsidie kan worden verleend.
+- *werkzaamheden:* werkzaamheden, maatregelen en voorzieningen waarvoor op grond van deze regeling subsidie kan worden verleend.
 
-##### Artikel 2. Toepassing [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603). Onderdeel d van de begripsomschrijving van financieel verslag, bedoeld in [artikel 1.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [3.3 tot en met 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3), [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3), alsmede [hoofdstuk 7 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=7) zijn niet van toepassing.
 
@@ -113,11 +88,11 @@ Voor subsidieverstrekking op grond van deze regeling is voor de kalenderjaren 20
 
 - c. de kosten van werkzaamheden ten behoeve van een vergroting van de publiekstoegankelijkheid van het rijksmonument, daaronder mede begrepen kosten van materiële voorzieningen voor het ter plaatse informeren van bezoekers over het rijksmonument of voor het digitaal ontsluiten van het rijksmonument.
 
-4. Op kosten voor toegankelijkheidsverbetering zijn hoofdstuk 1.3, paragrafen 1, 5 en 10, en hoofdstuk 2 van de [Leidraad](onbekend) van overeenkomstige toepassing.
+4. Op kosten voor toegankelijkheidsverbetering zijn hoofdstuk 1.3, paragrafen 1, 5 en 10, en hoofdstuk 2 van de [Leidraad](https://wetten.overheid.nl/BWBR0032075) van overeenkomstige toepassing.
 
 5. De instandhoudingskosten, verduurzamingskosten en kosten van toegankelijkheidsverbetering zijn enkel subsidiabel voor zover zij naar het oordeel van de minister redelijk zijn en voor zover de desbetreffende werkzaamheden naar het oordeel van de minister geen nadelige gevolgen hebben voor het rijksmonument of zijn monumentale waarden.
 
-6. Kosten die zijn gemaakt voorafgaand aan de indiening van de aanvraag zijn niet subsidiabel. Hoofdstuk 1.1, onderdeel f, van de [Leidraad](onbekend) is niet van toepassing. In afwijking van de eerste volzin en de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn wel subsidiabel de kosten die betrekking hebben op de voorbereiding van de aanvraag, bestaande uit aanbestedingskosten, leges, en kosten van inspectie, onderzoek, planvorming of rapporten.
+6. Kosten die zijn gemaakt voorafgaand aan de indiening van de aanvraag zijn niet subsidiabel. Hoofdstuk 1.1, onderdeel f, van de [Leidraad](https://wetten.overheid.nl/BWBR0032075) is niet van toepassing. In afwijking van de eerste volzin en de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn wel subsidiabel de kosten die betrekking hebben op de voorbereiding van de aanvraag, bestaande uit aanbestedingskosten, leges, en kosten van inspectie, onderzoek, planvorming of rapporten.
 
 ##### Artikel 5. Hoogte subsidiebedrag
 
@@ -127,9 +102,9 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 1. Eigenaren kunnen jaarlijks ten hoogste eenmaal subsidie aanvragen, behoudens indien een aanvraag betrekking heeft op meerwerk of meerkosten die verband houden met werkzaamheden waarvoor de eigenaar eerder op grond van deze regeling subsidie is verstrekt.
 
-2. In 2020 kan een eigenaar vanaf 1 augustus van dat jaar subsidie aanvragen. Een aanvraag die eerder wordt ingediend, wordt afgewezen.
+2. In 2020 kan een eigenaar vanaf 1 augustus van dat jaar subsidie aanvragen. Een aanvraag die eerder wordt ingediend, wordt afgewezen.
 
-3. In 2029 kan een eigenaar uiterlijk tot 1 augustus van dat jaar subsidie aanvragen. Een aanvraag die later wordt ingediend, wordt afgewezen.
+3. In 2029 kan een eigenaar uiterlijk tot 1 augustus van dat jaar subsidie aanvragen. Een aanvraag die later wordt ingediend, wordt afgewezen.
 
 4. Ten behoeve van het doen van een subsidieaanvraag wordt een online portaal ingericht, dat is te bereiken via www.cultureelerfgoed.nl. Een aanvraag wordt elektronisch ingediend bij de Rijksdienst voor het Cultureel Erfgoed met gebruikmaking van het online aanvraagformulier dat op het portaal beschikbaar is gesteld.
 
@@ -139,17 +114,17 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 - a. een plan met betrekking tot de voorgenomen werkzaamheden, dat bestaat uit:
 
-- 1°. een beschrijving van de technische of fysieke staat van het rijksmonument;
+   - 1°. een beschrijving van de technische of fysieke staat van het rijksmonument;
 
-- 2°. tekeningen van de bestaande toestand van het rijksmonument en tekeningen waarop de voorgenomen werkzaamheden staan aangegeven;
+   - 2°. tekeningen van de bestaande toestand van het rijksmonument en tekeningen waarop de voorgenomen werkzaamheden staan aangegeven;
 
-- 3°. overzichts- en detailfoto’s die een duidelijke indruk geven van het rijksmonument en zijn gebreken;
+   - 3°. overzichts- en detailfoto’s die een duidelijke indruk geven van het rijksmonument en zijn gebreken;
 
-- 4°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
+   - 4°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
 
-- 5°. een gespecificeerde begroting; en
+   - 5°. een gespecificeerde begroting; en
 
-- 6°. in voorkomende gevallen rapporten inzake bouwfysische, bouwhistorische, constructieve, cultuurhistorische, decoratieve, materiaaltechnische, preventieve of tuinhistorische aspecten;
+   - 6°. in voorkomende gevallen rapporten inzake bouwfysische, bouwhistorische, constructieve, cultuurhistorische, decoratieve, materiaaltechnische, preventieve of tuinhistorische aspecten;
 
 - b. een actueel inspectierapport over de technische of fysieke staat van het rijksmonument;
 
@@ -163,15 +138,15 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 - b. een plan met betrekking tot de verduurzamingswerkzaamheden die worden verricht, dat voldoet aan de aan de verschillende werkzaamheden verbonden indieningsvereisten als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&bijlage=2&z=2024-01-01&g=2024-01-01) en dat bestaat uit;
 
-- 1°. een omschrijving van de voorgenomen werkzaamheden;
+   - 1°. een omschrijving van de voorgenomen werkzaamheden;
 
-- 2°. tekeningen waarop de voorgenomen werkzaamheden staan aangegeven;
+   - 2°. tekeningen waarop de voorgenomen werkzaamheden staan aangegeven;
 
-- 3°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
+   - 3°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
 
-- 4°. een gespecificeerde begroting; en
+   - 4°. een gespecificeerde begroting; en
 
-- 5°. in voorkomende gevallen ondersteunende rapporten;
+   - 5°. in voorkomende gevallen ondersteunende rapporten;
 
 - c. een financieel dekkingsplan waarin naar het oordeel van de minister voldoende aannemelijk wordt gemaakt dat de financiering van het gedeelte van de verduurzamingskosten dat niet door subsidie wordt gedekt voldoende is gewaarborgd; en
 
@@ -181,15 +156,15 @@ Het subsidiepercentage bedraagt ten hoogste 70% van de subsidiabele kosten.
 
 - a. een plan met betrekking tot de werkzaamheden die worden verricht in het kader van de verbetering van de publiekstoegankelijkheid of de toegankelijkheid voor mensen met een visuele of motorische beperking van het rijksmonument, ten minste bestaande uit:
 
-- 1°. een omschrijving van de voorgenomen werkzaamheden en het daarmee te bereiken doel; en
+   - 1°. een omschrijving van de voorgenomen werkzaamheden en het daarmee te bereiken doel; en
 
-- 2°. voor zover het fysieke werkzaamheden aan het rijksmonument betreft, tekeningen waarop de voorgenomen werkzaamheden staan aangegeven en, indien de werkzaamheden betrekking hebben op de verbetering van de toegankelijkheid van het rijksmonument voor mensen met een visuele of motorische beperking, bedoeld in [artikel 4, derde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01), waarop staat aangegeven hoe aan de daar genoemde vereisten wordt voldaan, met inbegrip van de route vanaf de entree;
+   - 2°. voor zover het fysieke werkzaamheden aan het rijksmonument betreft, tekeningen waarop de voorgenomen werkzaamheden staan aangegeven en, indien de werkzaamheden betrekking hebben op de verbetering van de toegankelijkheid van het rijksmonument voor mensen met een visuele of motorische beperking, bedoeld in [artikel 4, derde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=4&z=2024-01-01&g=2024-01-01), waarop staat aangegeven hoe aan de daar genoemde vereisten wordt voldaan, met inbegrip van de route vanaf de entree;
 
-- 3°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
+   - 3°. een op de onder 1° bedoelde omschrijving gebaseerd bestek of een op die beschrijving gebaseerde werkomschrijving;
 
-- 4°. een gespecificeerde begroting; en
+   - 4°. een gespecificeerde begroting; en
 
-- 5°. in voorkomende gevallen rapporten inzake bouwhistorische, constructieve, cultuurhistorische, tuinhistorische of toegankelijkheidsaspecten;
+   - 5°. in voorkomende gevallen rapporten inzake bouwhistorische, constructieve, cultuurhistorische, tuinhistorische of toegankelijkheidsaspecten;
 
 - b. een financieel dekkingsplan waarin naar het oordeel van de minister voldoende aannemelijk wordt gemaakt dat de financiering van het gedeelte van de kosten voor toegankelijkheidsverbetering dat niet door subsidie wordt gedekt voldoende is gewaarborgd; en
 
@@ -281,266 +256,16 @@ De minister kan een model vaststellen voor de prestatieverklaring en voor het fi
 
 3. Indien de verleende subsidie minder dan € 25.000 bedraagt, zijn het eerste en tweede lid niet van toepassing. In dat geval wordt de verleende subsidie ambtshalve vastgesteld binnen 22 weken na de datum, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043609&artikel=10&z=2024-01-01&g=2024-01-01).
 
-##### Artikel 16. Wijziging bij inwerkingtreding [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+##### Artikel 16. Wijziging bij inwerkingtreding Omgevingswet
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 17. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2030.
+2. Deze regeling vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten.
-
-## Bijlage 1. Eisen verduurzamingsadvies
-
-**Deze bijlage behoort bij artikel 7, tweede lid, van de Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten.**
-
-Het verduurzamingsadvies bevat een integrale visie op alle aspecten van verduurzaming van het gebouwde rijksmonument, zoals isolatie, energiebesparing en duurzame energieopwekking, zonder nadelige gevolgen voor het monument (bouwfysisch) of zijn monumentale waarden.
-
-### Stappenplan
-
-Voor het opstellen van het verduurzamingsadvies wordt het volgende stappenplan doorlopen:
-
-### Nulmetingen
-
-De volgende nulmetingen worden verricht:
-
-### Monumentale waarden
-
-Een door een bouw- of architectuurhistoricus opgesteld rapport over de aanwezige monumentale waarden (cultuurhistorische waardering/QuickScan monumentale waarden op basis van een bouwhistorisch rapport.
-
-### Technische en bouwfysische conditie
-
-### Gebruik
-
-### Omgevingsfactoren
-
-### Vaststelling installatieleeftijd
-
-### Verduurzamingsadvies
-
-Het verduurzamingsadvies volgt de indeling die hieronder is opgenomen, en bevat tenminste de daar genoemde inhoud. Voor het uitwerken van het advies kan worden aangesloten bij de tegen betaling beschikbare (Engelstalige) Europese norm NEN-EN 16883 ‘Behoud van cultureel erfgoed – Richtlijnen voor verbetering van de energieprestatie van historische gebouwen’. Het volgen van de richtlijn is geen verplichting.
-
-**Opbouw verduurzamingsadvies**
-
-Het verduurzamingsadvies heeft de volgende opbouw en inhoud:
-
-### Inleiding
-
-### Monumentale waarden
-
-### Technische en bouwfysische conditie monument
-
-### Gebruik monument
-
-### Maatwerkadvies
-
-### Pakketten met maatregelen en prognoses
-
-## Bijlage 2. Lijst verduurzamingsmaatregelen
-
-**Deze bijlage behoort bij artikel 1 van de Subsidieregeling tienjarige ondersteuning iconische rijksmonumenten.**
-
-**Maatregelenlijst**
-
-In onderstaande lijst zijn de meest gangbare energiebesparende maatregelen opgenomen.
-
-### 1. Kierdichting
-
-**Beschrijving:**
-
-In monumentale panden zijn kieren en naden vaak een belangrijke oorzaak van warmteverlies.
-
-Naast kierdichting bij deuren en ramen is het nuttig om te kijken of kieren en naden op andere plekken zoals naast kozijnen, bij brievenbussen, in kapconstructies en in vloeren gedicht kunnen worden.
-
-**Indieningsvereiste:**Op (detail)tekening aangeven hoe de kierdichting wordt gerealiseerd.
-
-**Aandachtspunten:**Bij kierdichting moet erop gelet worden dat het monument nog wel voldoende kan ventileren ten behoeve van de luchtkwaliteit.
-
-### 2. Raamluiken
-
-**Beschrijving:**Raamluiken zijn van oudsher een efficiënte vorm voor vensterisolatie. Luiken verminderen niet alleen het warmteverlies door geleiding, maar ook door convectie en straling. In de zomer houden ze warmte buiten.
-
-**Indieningsvereiste:**Op tekening aangeven welke raamluiken worden hersteld of teruggebracht.
-
-**Aandachtspunten:**Punten worden alleen toegekend voor het herstellen of terugbrengen van raamluiken aan of in monumenten die van oudsher al luiken hadden en op plaatsen waar zij vroeger ook zaten of nog steeds aanwezig zijn. Bij raamluiken aan de binnenzijde neemt de kans op condensatie op het glas toe.
-
-### 3. Schoorsteenballonen of schoorsteenkleppen
-
-**Beschrijving:**Open schoorsteenkanalen maken veel uit in het energieverbruik van gebouwen. Niet-gebruikte schoorstenen kunnen worden afgesloten met een schoorsteenballon. Voor schoorstenen die nog gebruikt worden zijn schoorsteenkleppen of haardplaten een goede oplossing.
-
-**Indieningsvereiste:**Op tekening aangeven welke schoorstenen worden afgesloten en op welke wijze.
-
-**Aandachtspunten:**Sluit historische schoorsteenkanalen nooit volledig af met een 'perfect' passende schoorsteenklep of -ballon. Dit hindert namelijk de noodzakelijke ventilatie van schoorstenen. Om dezelfde reden is het nuttig schoorstenen in de zomer open te laten. Dan voeren zij vochtige binnenlucht af, waardoor ook minder stroom nodig is voor ventilatie met mechanische systemen.
-
-### 4. Isolatie van leidingen en appendages
-
-**Beschrijving:** Isolatie rond cv-leidingen in onverwarmde ruimten gaat tegen dat het water teveel afkoelt vóór het de radiatoren bereikt.
-
-**Indieningsvereiste:** –
-
-**Aandachtspunten: –**
-
-### 5. Radiatorfolie
-
-**Beschrijving:**Radiatorfolie reflecteert de stralingswarmte van de achterkant van de radiator grotendeels terug richting de radiator of zorgt ervoor dat de achterkant van de radiator minder stralingswarmte uitzendt.
-
-**Indieningsvereiste:**Op tekening aangeven welke radiatoren worden voorzien van folie.
-
-**Aandachtspunten: –**
-
-### 6. Inregelen van verwarmingsinstallatie
-
-**Beschrijving:** Toepassen van een weersafhankelijke regeling, waardoor de stooktemperatuur wordt aangepast aan de buitentemperatuur. Daarnaast waterzijdig inregelen.
-
-**Indieningsvereiste:**Omschrijving van de werkzaamheden die worden uitgevoerd.
-
-**Aandachtspunten: –**
-
-### 7. Verwarmingsregeling
-
-**Beschrijving:**Bewerkstelligen dat alleen ruimten verwarmd worden waar dat nodig is, door bijvoorbeeld het toepassen van zoneregeling, thermostatische radiatorkranen en/of op afstand bedienbare thermostaten.
-
-**Indieningsvereiste:**Beschrijving van het systeem dat wordt toegepast (zo mogelijk met vermelding van merk en type) en op tekening aangeven hoe de verwarmingsregeling wordt gerealiseerd.
-
-**Aandachtspunten: –**
-
-### 8. Verlichtingsregeling
-
-**Beschrijving:** Bewerkstelligen dat alleen ruimten verlicht worden waar dat nodig is, door bijvoorbeeld het toepassen van bewegingsmelders en centrale aan- en uitschakelaars.
-
-**Indieningsvereiste:**Op tekening aangeven hoe de verlichtingsregeling wordt gerealiseerd.
-
-**Aandachtspunten: –**
-
-### 9. Vensterisolatie
-
-**Beschrijving:** Isolatie door glasfolie, achterzetbeglazing of vervanging door monumentenglas of dubbelglas.
-
-**Aandachtspunten:**Vensterisolatie door middel van glasfolie of achterzetbeglazing heeft de voorkeur, boven het vervangen van bestaand glas door monumentenglas of dubbelglas. Ook met glasfolie kan de gevraagde prestatie (maximale U-waarde van 3,1 W/m²K) worden behaald.
-
-### 10. Dak- of kapisolatie
-
-**Beschrijving:** Isolatie van een hellend dak, vlak dak of de zoldervloer daaronder indien de zolder een onverwarmde ruimte is.
-
-**Indieningsvereiste:**Op tekening aangeven welke daken, kappen of zoldervloeren worden geïsoleerd en met welk materiaal.
-
-**Aandachtspunten: –**
-
-### 11. Gevelisolatie
-
-**Beschrijving:**Isolatie van een massieve muur of spouwmuur
-
-**Indieningsvereiste:**Op tekening aangeven welke gevels worden geïsoleerd en met welk materiaal. Ook detailtekening van de aansluiting op venster, vloeren, binnenmuren, etc.
-
-**Aandachtspunten:**Isolatie met een bij de situatie passend materiaal en opbouw.
-
-### 12. Vloerisolatie/bodemisolatie
-
-**Beschrijving:** Het aanbrengen van hoogwaardig isolatiemateriaal op de bodem van de kruipruimte op onder, tussen of op de begane grondvloer.
-
-**Indieningsvereiste:**Op tekening aangeven waar de bodem en/of welke vloeren worden geïsoleerd en met welk materiaal.
-
-**Aandachtspunten:**Bij bodemisolatie is over het algemeen sprake van een al dan niet geventileerde luchtlaag tussen de isolatie en de begane grondvloer. Hierdoor gaat een deel van de isolatiewaarde verloren, hetgeen tot gevolg heeft dat de isolatielaag beduidend dikker dient te zijn dan bijvoorbeeld isolatie direct onder de vloer. Controleer daarom altijd of van het product een kwaliteitsverklaring beschikbaar is en of in die specifieke toepassing, de vereiste warmteweerstand van 3,5 m2K/W wordt gerealiseerd. De kruipruimte dient ook diep genoeg te zijn om er te mogen/kunnen werken.
-
-### 13. Hre- of hybride ketel
-
-**Beschrijving:** Een HRe-ketel of micro-warmtekrachtkoppeling is een installatie waarbij de productie van warmte en elektriciteit vanuit eenzelfde energiebron gelijktijdig plaats vindt.
-
-Een hybride warmtepomp is een moderne, gasgestookte HR-ketel in combinatie met een warmtepomp.
-
-**Indieningsvereiste:**Informatie over te installeren vermogen en rendement van de installatie. Ook dient de opstelplaats op tekening te worden aangegeven.
-
-**Aandachtspunten: –**
-
-### 14. Biomassa gestookte installatie
-
-**Beschrijving:** Een biomassaketel die bestemd is voor ruimteverwarming en/of de warmtapwatervoorziening van het monument.
-
-**Indieningsvereiste:**Informatie over te installeren vermogen en rendement van de installatie. Ook moet inzichtelijk worden gemaakt hoe de biomassa (pellets, houtsnippers), wordt aangevoerd. Bij houtsnippers moet ook de bunker op tekening worden aangegeven in verband met de archeologie. Ook dient de opstelplaats op tekening te worden aangegeven.
-
-**Aandachtspunten: –**
-
-### 15. Warmtepomp
-
-**Beschrijving:** Een warmtepomp die is bestemd als hoofd- of basisruimteverwarming van een monument en/of warm tapwater voor een monument en die niet primair gericht is op actieve koeling, waarbij warmte wordt onttrokken aan de bodem, het grondwater, het oppervlaktewater, de buitenlucht of ventilatieafvoerlucht. De bron bepaalt voor een belangrijk deel het rendement.
-
-**Indieningsvereiste:**Informatie over te installeren vermogen en rendement van de installatie. Ook dient de opstelplaats op tekening te worden aangegeven.
-
-**Aandachtspunten: –**
-
-### 16. Warmtekrachtkoppeling
-
-**Beschrijving:**Installatie waarbij bij de opwekking van elektriciteit de warmte ook wordt benut voor het verwarmen van gebouwen.
-
-**Indieningsvereiste:**Informatie over te installeren vermogen en rendement van de installatie. Ook dient de opstelplaats op tekening te worden aangegeven.
-
-**Aandachtspunten:**Energiebesparing met warmtekrachtkoppeling (WKK) is alleen interessant als zowel de warmte als de elektriciteit wordt gebruikt.
-
-### 17. Warmte-koudeopslag
-
-**Beschrijving:**Warmte-koude opslag is een seizoensbuffer waarin warmte en koude in een ondergrondse zandlaag wordt opgeslagen.
-
-**Indieningsvereiste:** In verband met de archeologie op tekening de locatie van de bronnen aangeven. Ook dient de opstelplaats op tekening te worden aangegeven.
-
-**Aandachtspunten: –**
-
-### 18. Zonnepanelen en overige systemen op basis van zonne-energie
-
-**Beschrijving:**
-
-**Indieningsvereiste:**Opgave van het totale te installeren vermogen en op tekening de plaatsing aangeven.
-
-**Aandachtspunten:**Het systeem mag niet ten koste gaan van de historische materialen en constructies, het karakter van het monument en het aanzicht van het monument en de omgeving.
-
-### 19. Aansluiting op warmtenet
-
-**Beschrijving:** Aansluiting op een warmtenet.
-
-**Indieningsvereiste:**Korte beschrijving van het warmtenet waarop het monument wordt aangesloten (o.a. warmtebron en het aantal panden dat wordt aangesloten).
-
-**Aandachtspunten: –**
-
-### 20. Lagetemperatuurverwarming (LTV)
-
-**Beschrijving:** Verwarmen van radiatoren, vloer- of wandverwarming met water dat een aanvoertemperatuur heeft van maximaal 55 graden Celsius.
-
-**Indieningsvereiste:**Informatie waaruit blijkt welke ruimten in het monument LTV verwarmd zullen worden.
-
-**Aandachtspunten:**Voor het mogelijk maken van LTV is het nodig om na-te isoleren en/of de warmteafgifte elementen te vergroten of er meer te plaatsen.
-
-### 21. Wtw
-
-**Beschrijving:** Warmteterugwinning uit ventilatielucht of uit douchewater.
-
-**Indieningsvereiste:**Informatie over te installeren capaciteit en rendement van de installatie. Daarnaast plaatsing van de installatie op tekening aangeven.
-
-**Aandachtspunten: –**
-
-### 22. Vraaggestuurde mechanische ventilatie
-
-**Beschrijving:** De mate van ventilatie wordt per ruimte afgestemd op de ventilatiebehoefte, gemeten door CO2-sensoren (en eventueel luchtvochtigheidssensoren).
-
-**Indieningsvereiste:**Informatie waaruit blijkt in welke ruimten vraaggestuurde ventilatie wordt toegepast en het aantal zones hierin.
-
-**Aandachtspunten:** –
-
-### 23. Waterbesparende maatregelen
-
-**Beschrijving:**Voorbeelden van waterbesparende maatregelen zijn het toepassen van waterbesparende kranen en sanitair, druk- en debietbegrenzers, (her)gebruik van drinkwater, hemelwater of grijs water.
-
-**Indieningsvereiste:**Overzicht van maatregelen en onderbouwing hoe deze maatregelen leiden tot het realiseren van 20% waterbesparing op het totaalverbruik.
-
-**Aandachtspunten:** –
-
-### 24. Alternatieve innovatieve maatregelen
-
-**Beschrijving:**Mogelijk kan de energieprestatie van het rijksmonument ook worden verbeterd met andere maatregelen dan hiervoor genoemd.
-
-**Indieningsvereiste:** De energieprestatieverbetering van de te nemen alternatieve innovatieve maatregelen moet kwantitatief worden aangetoond. De aanvrager voegt bij de aanvraag documenten (waaronder tekeningen) op basis waarvan de minister kan beoordelen wat de bouwfysische gevolgen zijn van de maatregel, wat de gevolgen van de maatregel zijn voor de monumentale waarden van het rijksmonument en welke energiebesparing door de maatregel wordt gerealiseerd.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

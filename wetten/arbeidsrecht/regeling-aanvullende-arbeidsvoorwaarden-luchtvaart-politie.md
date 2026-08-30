@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)"
+citeertitel: "Regeling aanvullende arbeidsvoorwaarden luchtvaart politie"
 identifier: "BWBR0044408"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-17"
-last_updated: "2026-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044408"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "15717103"
-version_id: "27240762"
-internal_id: "C38489331"
-label_id: "15655834"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044408/2026-03-17/0"
-intitule_bron: "Stcrt.2020-61980"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-26"
-intitule_published: "2020-11-30"
-intitule_in_force: "2020-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-61980"
-original_signed_date: "2020-11-26"
-original_published_date: "2020-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-61980"
-entry_into_force_date: "2020-12-01"
-jci_1_3: "jci1.3:c:BWBR0044408&z=2026-03-17&g=2026-03-17"
-jci_1_0: "1.0:c:BWBR0044408&g=2026-03-17"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvullende arbeidsvoorwaarden luchtvaart politie"
-signed_date: "2020-11-26"
-entry_into_force: "2020-12-01"
+publicatiedatum: 2020-12-01
+laatste_update: 2026-03-17
+status: geldig
+toestand: 2026-03-17
+bron: "https://wetten.overheid.nl/BWBR0044408"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)
-
-Gelet op [artikel 21, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=21);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- a. *bevoegd gezag:* het bevoegd gezag, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- b. **licentiehouder:** de ambtenaar die beschikt over de licentie EASA part 66 B/C;
+- b. *licentiehouder:* de ambtenaar die beschikt over de licentie EASA part 66 B/C;
 
-- c. **luchtvaarttoelage:** de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17) onderscheidenlijk [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17);
+- c. *luchtvaarttoelage:* de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17) onderscheidenlijk [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17);
 
-- d. **vlieger:** de ambtenaar werkzaam bij de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties in de LFNP functie Politie Vlieger of Chef Vlieger;
+- d. *vlieger:* de ambtenaar werkzaam bij de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties in de LFNP functie Politie Vlieger of Chef Vlieger;
 
-- e. **volledige betrekking:** een volledige betrekking als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- e. *volledige betrekking:* een volledige betrekking als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2. Luchtvaarttoelage vliegers
 
@@ -66,13 +40,13 @@ In deze regeling wordt verstaan onder:
 
 - b. was aangesteld bij de sector Rijk in een functie waarvan operationeel vliegen onderdeel uitmaakte, voor zover hij daadwerkelijk operationeel gevlogen heeft tijdens die aanstelling, en
 
-- c. in de periode van 1 november 2008 tot en met 1 januari 2013 was aangesteld bij het Korps landelijke politiediensten in een functie waarvan operationeel vliegen onderdeel uitmaakte.
+- c. in de periode van 1 november 2008 tot en met 1 januari 2013 was aangesteld bij het Korps landelijke politiediensten in een functie waarvan operationeel vliegen onderdeel uitmaakte.
 
 4. Het basisbedrag bedraagt één derde deel van het verschil tussen salarisnummer 5 en salarisnummer 4 van schaal 11 van [bijlage I bij het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&bijlage=I). De uitkomst daarvan wordt rekenkundig afgerond op twee decimalen.
 
 5. Het in het vierde lid bedoelde basisbedrag wordt vermenigvuldigd met de op de vlieger van toepassing zijnde factor volgens de hieronder opgenomen tabel. De uitkomst van deze berekening is de maandelijkse luchtvaarttoelage.
 
-6. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12. Als de jaarlijkse luchtvaarttoelage het bedrag van € 46.235,– bruto overstijgt, bedraagt de jaarlijkse luchtvaarttoelage € 46.235,– bruto. Het zevende lid is van overeenkomstige toepassing.
+6. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12. Als de jaarlijkse luchtvaarttoelage het bedrag van € 46.235,– bruto overstijgt, bedraagt de jaarlijkse luchtvaarttoelage € 46.235,– bruto. Het zevende lid is van overeenkomstige toepassing.
 
 7. Bij een andere betrekking dan een volledige betrekking wordt de luchtvaarttoelage naar evenredigheid vastgesteld.
 
@@ -95,7 +69,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Eenmalige verhoging
 
-1. De vlieger heeft recht op een eenmalige verhoging van de luchtvaarttoelage ter grootte van 8,33% van de in de afgelopen 12 maanden genoten luchtvaarttoelage.
+1. De vlieger heeft recht op een eenmalige verhoging van de luchtvaarttoelage ter grootte van 8,33% van de in de afgelopen 12 maanden genoten luchtvaarttoelage.
 
 2. De eenmalige verhoging wordt eenmaal per kalenderjaar in de maand november betaald.
 
@@ -115,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 - a. op het moment van het verlies 50 jaar of ouder is en langer dan 10 jaar de luchtvaarttoelage heeft genoten; of
 
-- b. op 1 januari 2007 reeds de functie van vlieger vervulde in dienst van de politie en op het moment van het verlies na 1 november 2008 langer dan 20 jaar de luchtvaarttoelage heeft genoten.
+- b. op 1 januari 2007 reeds de functie van vlieger vervulde in dienst van de politie en op het moment van het verlies na 1 november 2008 langer dan 20 jaar de luchtvaarttoelage heeft genoten.
 
 ##### Artikel 6. Bijstelling maximum luchtvaarttoelage vliegers
 
@@ -125,7 +99,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Afbouw jaarlijkse luchtvaarttoelage vliegers
 
-1. Bij verlaging van het maximumbedrag tot en met een hoogte van € 20.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
+1. Bij verlaging van het maximumbedrag tot en met een hoogte van € 20.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling van het maximumbedrag de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 
@@ -133,23 +107,23 @@ In deze regeling wordt verstaan onder:
 
 - c. in het derde jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en het verlaagde maximumbedrag.
 
-2. Bij verlaging van het maximumbedrag onder een bedrag van € 20.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
+2. Bij verlaging van het maximumbedrag onder een bedrag van € 20.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling van het maximumbedrag de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 
-- b. in het tweede jaar na bijstelling van het maximumbedrag € 20.000,– + 66% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 20.000,–.
+- b. in het tweede jaar na bijstelling van het maximumbedrag € 20.000,– + 66% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 20.000,–.
 
-- c. in het derde jaar na bijstelling van het maximumbedrag € 20.000,– + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 20.000,–.
+- c. in het derde jaar na bijstelling van het maximumbedrag € 20.000,– + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 20.000,–.
 
-- d. in het vierde jaar na bijstelling van het maximumbedrag een bedrag van € 20.000,– bruto.
+- d. in het vierde jaar na bijstelling van het maximumbedrag een bedrag van € 20.000,– bruto.
 
-- e. in het vijfde jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 80% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
+- e. in het vijfde jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 80% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
 
-- f. in het zesde jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 60% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
+- f. in het zesde jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 60% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
 
-- g. In het zevende jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 40% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
+- g. In het zevende jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 40% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
 
-- h. In het achtste jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 20% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
+- h. In het achtste jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 20% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
 
 ##### Artikel 8. Samenloop afbouwregimes
 
@@ -163,7 +137,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Luchtvaarttoelage licentiehouders
 
-1. De licentiehouder die werkzaam is binnen de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties en zijn licentie nodig heeft voor de uitoefening van zijn functie, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), heeft aanspraak op een maandelijkse luchtvaarttoelage ter grootte van € 2.185,85 bruto.
+1. De licentiehouder die werkzaam is binnen de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties en zijn licentie nodig heeft voor de uitoefening van zijn functie, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), heeft aanspraak op een maandelijkse luchtvaarttoelage ter grootte van € 2.185,85 bruto.
 
 2. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12.
 
@@ -179,7 +153,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 11. Afbouw jaarlijkse luchtvaarttoelage licentiehouders
 
-1. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot en met een hoogte van € 12.000,– bruto per jaar, bedraagt de jaarlijkse luchtvaarttoelage:
+1. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot en met een hoogte van € 12.000,– bruto per jaar, bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 
@@ -187,23 +161,23 @@ In deze regeling wordt verstaan onder:
 
 - c. in het derde jaar na bijstelling het verlaagde bedrag + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage voor bijstelling en na bijstelling.
 
-2. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot onder een bedrag van € 12.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
+2. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot onder een bedrag van € 12.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling van het maximumbedrag de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 
-- b. in het tweede jaar na bijstelling van het maximumbedrag € 12.000,– + 66% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 12.000,–.
+- b. in het tweede jaar na bijstelling van het maximumbedrag € 12.000,– + 66% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 12.000,–.
 
-- c. in het derde jaar na bijstelling van het maximumbedrag, € 12.000,– + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 12.000,–.
+- c. in het derde jaar na bijstelling van het maximumbedrag, € 12.000,– + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling en € 12.000,–.
 
-- d. in het vierde jaar een bedrag van € 12.000,– bruto.
+- d. in het vierde jaar een bedrag van € 12.000,– bruto.
 
-- e. in het vijfde jaar het verlaagde jaarbedrag + 80% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
+- e. in het vijfde jaar het verlaagde jaarbedrag + 80% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
 
-- f. in het zesde jaar het verlaagde jaarbedrag + 60% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
+- f. in het zesde jaar het verlaagde jaarbedrag + 60% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
 
-- g. in het zevende jaar het verlaagde jaarbedrag + 40% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
+- g. in het zevende jaar het verlaagde jaarbedrag + 40% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
 
-- h. in het achtste jaar het verlaagde jaarbedrag + 20% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
+- h. in het achtste jaar het verlaagde jaarbedrag + 20% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
 
 ##### Artikel 12. Intrekking oude regeling
 
@@ -211,10 +185,8 @@ De [Regeling vliegtoelage vliegers Landelijke eenheid](https://wetten.overheid.n
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2020.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende arbeidsvoorwaarden luchtvaart politie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

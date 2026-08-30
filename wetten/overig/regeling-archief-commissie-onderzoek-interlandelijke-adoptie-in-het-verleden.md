@@ -1,64 +1,40 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 17 november 2020, nr. 3083491, tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie belast met het onderzoek naar interlandelijke adoptie in het verleden (Reglement archief Commissie Onderzoek Interlandelijke Adoptie in het verleden)"
+citeertitel: "Regeling archief Commissie Onderzoek Interlandelijke Adoptie in het verleden"
 identifier: "BWBR0044344"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-11-18"
-last_updated: "2020-11-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044344"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15698783"
-version_id: "27203542"
-internal_id: "C38435751"
-label_id: "15637674"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044344/2020-11-18/0"
-intitule_bron: "Stcrt.2020-59676"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-17"
-intitule_published: "2020-11-17"
-intitule_in_force: "2020-11-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-59676"
-original_signed_date: "2020-11-17"
-original_published_date: "2020-11-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-59676"
-entry_into_force_date: "2020-11-18"
-jci_1_3: "jci1.3:c:BWBR0044344&z=2020-11-18&g=2020-11-18"
-jci_1_0: "1.0:c:BWBR0044344&g=2020-11-18"
-citeertitel_status: "officieel"
-short_title: "Regeling archief Commissie Onderzoek Interlandelijke Adoptie in het verleden"
-signed_date: "2020-11-17"
-entry_into_force: "2020-11-18"
+publicatiedatum: 2020-11-18
+laatste_update: 2020-11-18
+status: geldig
+toestand: 2020-11-18
+bron: "https://wetten.overheid.nl/BWBR0044344"
+opgehaald: 2026-08-30
 ---
-# Besluit van de Minister voor Rechtsbescherming van 17 november 2020, nr. 3083491, tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie belast met het onderzoek naar interlandelijke adoptie in het verleden (Reglement archief Commissie Onderzoek Interlandelijke Adoptie in het verleden)
 
-Besluit:
+# Besluit van de Minister voor Rechtsbescherming van 17 november 2020, nr. 3083491, tot vaststelling van een reglement inzake de organisatie en het beheer van het archief van de commissie belast met het onderzoek naar interlandelijke adoptie in het verleden (Reglement archief Commissie Onderzoek Interlandelijke Adoptie in het verleden)
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Rechtsbescherming;
+- a. *de Minister:* de Minister voor Rechtsbescherming;
 
-- b. **commissie:** de door onze minister ingestelde commissie belast met het onderzoek naar interlandelijke adoptie in het verleden;
+- b. *commissie:* de door onze minister ingestelde commissie belast met het onderzoek naar interlandelijke adoptie in het verleden;
 
-- c. **archief:** het archief dat door de commissie is overgedragen aan de minister;
+- c. *archief:* het archief dat door de commissie is overgedragen aan de minister;
 
-- d. **betrokkene:** degene waarmee de commissie in het kader van haar onderzoek naar interlandelijke adoptie heeft gesproken waarvan het gespreksverslag in het archief van de commissie is opgenomen;
+- d. *betrokkene:* degene waarmee de commissie in het kader van haar onderzoek naar interlandelijke adoptie heeft gesproken waarvan het gespreksverslag in het archief van de commissie is opgenomen;
 
-- e. **gespreksverslag:** alle gegevens in het archief die betrekking hebben op hetgeen een betrokkene aan de commissie heeft verklaard als bedoeld in artikel 4 van het Informatieprotocol Commissie Onderzoek Interlandelijke Adoptie in het verleden;
+- e. *gespreksverslag:* alle gegevens in het archief die betrekking hebben op hetgeen een betrokkene aan de commissie heeft verklaard als bedoeld in artikel 4 van het Informatieprotocol Commissie Onderzoek Interlandelijke Adoptie in het verleden;
 
-- f. **gemachtigde:** degene die namens een betrokkene schriftelijk is gemachtigd om namens hem/haar een verzoek tot inzage in het gespreksverslag bij het ministerie van Justitie en Veiligheid in te dienen;
+- f. *gemachtigde:* degene die namens een betrokkene schriftelijk is gemachtigd om namens hem/haar een verzoek tot inzage in het gespreksverslag bij het ministerie van Justitie en Veiligheid in te dienen;
 
-- g. **feitelijk beheerder van het archief:** het Dienstencentrum van het ministerie van Justitie en Veiligheid;
+- g. *feitelijk beheerder van het archief:* het Dienstencentrum van het ministerie van Justitie en Veiligheid;
 
-- h. **informatieprotocol:** het protocol als bedoeld in [artikel 7 van het Instellingsbesluit Commissie Onderzoek Interlandelijke Adoptie in het verleden](https://wetten.overheid.nl/jci1.3:c:BWBR0042154&artikel=7);
+- h. *informatieprotocol:* het protocol als bedoeld in [artikel 7 van het Instellingsbesluit Commissie Onderzoek Interlandelijke Adoptie in het verleden](https://wetten.overheid.nl/jci1.3:c:BWBR0042154&artikel=7);
 
-- i. **beoordelaar:** de contactpersoon van de Directie Bestuursondersteuning als bedoeld in artikel 1 lid 1 van het Informatieprotocol Commissie Onderzoek Interlandelijke Adoptie in het verleden.
+- i. *beoordelaar:* de contactpersoon van de Directie Bestuursondersteuning als bedoeld in artikel 1 lid 1 van het Informatieprotocol Commissie Onderzoek Interlandelijke Adoptie in het verleden.
 
 ##### Artikel 2. Doel van de regeling
 

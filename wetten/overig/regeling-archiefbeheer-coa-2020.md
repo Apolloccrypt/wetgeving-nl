@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)"
+citeertitel: "Regeling archiefbeheer COA 2020"
 identifier: "BWBR0044332"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-11-12"
-last_updated: "2020-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044332"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15695603"
-version_id: "27194092"
-internal_id: "C38424831"
-label_id: "15634874"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044332/2020-11-12/0"
-intitule_bron: "Stcrt.2020-56335"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-18"
-intitule_published: "2020-11-11"
-intitule_in_force: "2020-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-56335"
-original_signed_date: "2020-08-18"
-original_published_date: "2020-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-56335"
-entry_into_force_date: "2020-11-12"
-jci_1_3: "jci1.3:c:BWBR0044332&z=2020-11-12&g=2020-11-12"
-jci_1_0: "1.0:c:BWBR0044332&g=2020-11-12"
-citeertitel_status: "officieel"
-short_title: "Regeling archiefbeheer COA 2020"
-signed_date: "2020-08-18"
-entry_into_force: "2020-11-12"
+publicatiedatum: 2020-11-12
+laatste_update: 2020-11-12
+status: geldig
+toestand: 2020-11-12
+bron: "https://wetten.overheid.nl/BWBR0044332"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14):
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,45 +20,45 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **archief:** geheel van archiefbescheiden, ongeacht hun vorm, ontvangen of opgemaakt door het COA.
+- a. *archief:* geheel van archiefbescheiden, ongeacht hun vorm, ontvangen of opgemaakt door het COA.
 
-- b. **archiefbeheer:** het geheel van werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te behouden.
+- b. *archiefbeheer:* het geheel van werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te behouden.
 
-- c. **archiefbeheerder:** degene die in opdracht van het COA is belast met het archiefbeheer van het Centraal Orgaan of een onderdeel daarvan.
+- c. *archiefbeheerder:* degene die in opdracht van het COA is belast met het archiefbeheer van het Centraal Orgaan of een onderdeel daarvan.
 
-- d. **archiefbescheiden:**
+- d. *archiefbescheiden:*
 
-- 1°. bescheiden, ongeacht hun vorm, door het COA ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - 1°. bescheiden, ongeacht hun vorm, door het COA ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het COA zijn overgegaan;
+   - 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het COA zijn overgegaan;
 
-- 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4°. reproducties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1º., 2º. of 3º. bedoelde bescheiden of welke op grond van een machtiging tot substitutie zijn vervaardigd.
+   - 4°. reproducties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1º., 2º. of 3º. bedoelde bescheiden of welke op grond van een machtiging tot substitutie zijn vervaardigd.
 
-- e. **bestuur:** het bestuur van het COA.
+- e. *bestuur:* het bestuur van het COA.
 
-- f. **Centraal Orgaan:** het Centraal Orgaan opvang asielzoekers, bestaande uit het Centraal Bureau en afdelingen, waaronder de locaties in het land.
+- f. *Centraal Orgaan:* het Centraal Orgaan opvang asielzoekers, bestaande uit het Centraal Bureau en afdelingen, waaronder de locaties in het land.
 
-- g. **Chief Information Officer:** de functionaris die verantwoordelijk is voor de strategie en het strategisch beleid voor informatievoorziening en ICT en de toepassing van rijksbrede kaders op dit terrein bewaakt.
+- g. *Chief Information Officer:* de functionaris die verantwoordelijk is voor de strategie en het strategisch beleid voor informatievoorziening en ICT en de toepassing van rijksbrede kaders op dit terrein bewaakt.
 
-- h. **locatiemanager:** De functionaris die samen met zijn team verantwoordelijk is voor de begeleiding en opvang van bewoners op een locatie. De locatiemanager is daarbij verantwoordelijk voor en aanspreekbaar op de realisatie op locatie van de uniform voor COA afgesproken doelen en prestaties binnen wet- en regelgeving.
+- h. *locatiemanager:* De functionaris die samen met zijn team verantwoordelijk is voor de begeleiding en opvang van bewoners op een locatie. De locatiemanager is daarbij verantwoordelijk voor en aanspreekbaar op de realisatie op locatie van de uniform voor COA afgesproken doelen en prestaties binnen wet- en regelgeving.
 
-- i. **overbrenging:** het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats.
+- i. *overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats.
 
-- j. **overdracht:** het overdragen van archiefbescheiden aan een ander organisatieonderdeel van het COA.
+- j. *overdracht:* het overdragen van archiefbescheiden aan een ander organisatieonderdeel van het COA.
 
-- k. **selectielijst:** het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archiefbescheiden, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
+- k. *selectielijst:* het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen archiefbescheiden, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
 
-- l. **teamhoofd RDM & Functioneel Beheer:** de functionaris die belast is met de uitvoering van het archiefbeheer voor het COA.
+- l. *teamhoofd RDM & Functioneel Beheer:* de functionaris die belast is met de uitvoering van het archiefbeheer voor het COA.
 
-- m. **manager:** de hiërarchisch leidinggevende van de afdeling dan wel stafdienst. Indien een team, afdeling of stafdienst onder een strategisch adviseur valt of rechtstreeks onder een directeur, dan neemt deze persoon de rol van manager zoals bedoeld in deze regeling over.
+- m. *manager:* de hiërarchisch leidinggevende van de afdeling dan wel stafdienst. Indien een team, afdeling of stafdienst onder een strategisch adviseur valt of rechtstreeks onder een directeur, dan neemt deze persoon de rol van manager zoals bedoeld in deze regeling over.
 
-- n. **verklaring:** een door het teamhoofd RDM & Functioneel Beheer ondertekende verklaring van overbrenging, vernietiging, vervanging of vervreemding van archiefbescheiden.
+- n. *verklaring:* een door het teamhoofd RDM & Functioneel Beheer ondertekende verklaring van overbrenging, vernietiging, vervanging of vervreemding van archiefbescheiden.
 
-- o. **vervanging:** de routinematige vervanging van archiefbescheiden door reproducties, die volledig de plaats innemen van de oorspronkelijke bescheiden.
+- o. *vervanging:* de routinematige vervanging van archiefbescheiden door reproducties, die volledig de plaats innemen van de oorspronkelijke bescheiden.
 
-- p. **vervreemding:** het in eigendom overdragen van archiefbescheiden aan een andere zorgdrager of aan derden.
+- p. *vervreemding:* het in eigendom overdragen van archiefbescheiden aan een andere zorgdrager of aan derden.
 
 ### Hoofdstuk 2. Verantwoordelijkheden en bevoegdheden
 
@@ -234,7 +208,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 2. Voor vervreemding is een machtiging vereist van de Minister van Onderwijs, Cultuur en Wetenschap, tenzij dit geschiedt ter uitvoering van een wettelijk voorschrift.
 
-3. Bij vervreemding als bedoeld in het eerste lid wordt rekening gehouden met de belangen genoemd in [artikel 2, eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2).
+3. Bij vervreemding als bedoeld in het eerste lid wordt rekening gehouden met de belangen genoemd in [artikel 2, eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2).
 
 4. Van de vervreemding wordt een verklaring opgemaakt die een specificatie bevat van de vervreemde archiefbescheiden.
 

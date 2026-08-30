@@ -1,39 +1,18 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)"
+citeertitel: "Besluit BVA-stelsel Rijksdienst 2021"
 identifier: "BWBR0044617"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044617"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15786703"
-version_id: "27387842"
-internal_id: "C38672551"
-label_id: "15724434"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044617/2021-01-01/0"
-intitule_bron: "Stcrt.2020-62845"
-intitule_effect: "wijziging"
-intitule_published: "2020-12-23"
-intitule_in_force: "2020-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62845"
-original_published_date: "2020-12-23"
-original_effect: "wijziging"
-original_url_id: "stcrt-2020-62845"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044617&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044617&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit BVA-stelsel Rijksdienst 2021"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044617"
+opgehaald: 2026-08-30
 ---
-# Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)
 
-Besluit:
+# Besluit van de Minister-President, Minister van Algemene Zaken van 18 december 2020, nr. 4169072, tot vaststelling van een kader houdende de organisatie-inrichting van het BVA-stelsel binnen de Rijksdienst (Besluit BVA-stelsel Rijksdienst 2021)
 
 #### § 1. Algemeen
 
@@ -41,33 +20,33 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Rijksdienst:** de kerndepartementen en de daaronder ressorterende dienstonderdelen;
+- a. *Rijksdienst:* de kerndepartementen en de daaronder ressorterende dienstonderdelen;
 
-- b. **Dienstonderdeel:** een onder de verantwoordelijkheid van de desbetreffende minister ressorterende directie, afdeling, instelling, dienst of bedrijf;
+- b. *Dienstonderdeel:* een onder de verantwoordelijkheid van de desbetreffende minister ressorterende directie, afdeling, instelling, dienst of bedrijf;
 
-- c. **Ambtelijke leiding:** hoogste ambtenaar van het ministerie, organisatieonderdeel;
+- c. *Ambtelijke leiding:* hoogste ambtenaar van het ministerie, organisatieonderdeel;
 
-- d. **BVA Rijk:** Beveiligingsautoriteit Rijk, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=3&artikel=7&z=2021-01-01&g=2021-01-01);
+- d. *BVA Rijk:* Beveiligingsautoriteit Rijk, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=3&artikel=7&z=2021-01-01&g=2021-01-01);
 
-- e. **BVA:** Beveiligingsautoriteit, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01);
+- e. *BVA:* Beveiligingsautoriteit, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=2&artikel=3&z=2021-01-01&g=2021-01-01);
 
-- f. **BVC:** Beveiligingscoördinator, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01);
+- f. *BVC:* Beveiligingscoördinator, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&paragraaf=2&artikel=6&z=2021-01-01&g=2021-01-01);
 
-- g. **CIO Rijk:** Chief Information Officer Rijk, bedoeld in [artikel 10, eerste lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=10);
+- g. *CIO Rijk:* Chief Information Officer Rijk, bedoeld in [artikel 10, eerste lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=10);
 
-- h. **CIO:** Chief Information Officer, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3), en [artikel 9, eerste lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
+- h. *CIO:* Chief Information Officer, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3), en [artikel 9, eerste lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- i. **CISO Rijk:** Chief Information Security Officer Rijk, bedoeld in [artikel 10, eerste lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=10);
+- i. *CISO Rijk:* Chief Information Security Officer Rijk, bedoeld in [artikel 10, eerste lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=10);
 
-- j. **CISO:** Chief Information Security Officer, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=6), en [artikel 9, derde lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
+- j. *CISO:* Chief Information Security Officer, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=6), en [artikel 9, derde lid van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- k. **Te Beschermen Belangen:** personen, informatie, informatiesystemen, materieel, goederen, imago en objecten, waarbij in geval van compromittering, of de mogelijkheid van compromittering, nadelige gevolgen, of een risico daarop, kan ontstaan voor de vertrouwelijkheid, beschikbaarheid en integriteit van de primaire processen van de rijksoverheid, delen daarvan of voor andere belangen van de Staat, van zijn bondgenoten of van één of meer ministeries;
+- k. *Te Beschermen Belangen:* personen, informatie, informatiesystemen, materieel, goederen, imago en objecten, waarbij in geval van compromittering, of de mogelijkheid van compromittering, nadelige gevolgen, of een risico daarop, kan ontstaan voor de vertrouwelijkheid, beschikbaarheid en integriteit van de primaire processen van de rijksoverheid, delen daarvan of voor andere belangen van de Staat, van zijn bondgenoten of van één of meer ministeries;
 
-- l. **Integrale beveiliging:** het selecteren, implementeren en periodiek evalueren van een samenhangend stelsel van beveiligingsmaatregelen voor de beveiliging van de Te Beschermen Belangen op basis van risicomanagement;
+- l. *Integrale beveiliging:* het selecteren, implementeren en periodiek evalueren van een samenhangend stelsel van beveiligingsmaatregelen voor de beveiliging van de Te Beschermen Belangen op basis van risicomanagement;
 
-- m. **Risicomanagement:** inzichtelijk en systematisch inventariseren, beoordelen en – door het treffen van maatregelen – beheersbaar maken van risico’s en kansen, die het bereiken van de doelstellingen van de organisatie bedreigen dan wel bevorderen, op een zodanige wijze dat verantwoording kan worden afgelegd over de gemaakte keuzes.
+- m. *Risicomanagement:* inzichtelijk en systematisch inventariseren, beoordelen en – door het treffen van maatregelen – beheersbaar maken van risico’s en kansen, die het bereiken van de doelstellingen van de organisatie bedreigen dan wel bevorderen, op een zodanige wijze dat verantwoording kan worden afgelegd over de gemaakte keuzes.
 
-- n. **Accreditatie:** de toestemmingverlening als bedoeld in [artikel 2, derde lid van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=2).
+- n. *Accreditatie:* de toestemmingverlening als bedoeld in [artikel 2, derde lid van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=2).
 
 ##### Artikel 2. Reikwijdte
 
@@ -249,12 +228,10 @@ Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke 
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2021.
+Dit besluit treedt in werking met ingang van 1 januari 2021.
 
 Het [beveiligingsvoorschrift Rijksdienst 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033512) wordt ingetrokken.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit BVA-stelsel Rijksdienst 2021.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

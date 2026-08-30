@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 29 september 2020, nr. 2020-0000128045, ten behoeve van de vaststelling van de NOW-subsidie (Beleidsregel vaststelling NOW-subsidie)"
+citeertitel: "Beleidsregel vaststelling NOW-subsidie"
 identifier: "BWBR0044175"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-05-25"
-last_updated: "2022-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044175"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "15650923"
-version_id: "27058562"
-internal_id: "C38279721"
-label_id: "15590504"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044175/2022-05-25/0"
-intitule_bron: "Stcrt.2020-51401"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-29"
-intitule_published: "2020-10-05"
-intitule_in_force: "2020-10-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-51401"
-original_signed_date: "2020-09-29"
-original_published_date: "2020-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-51401"
-entry_into_force_date: "2020-10-06"
-jci_1_3: "jci1.3:c:BWBR0044175&z=2022-05-25&g=2022-05-25"
-jci_1_0: "1.0:c:BWBR0044175&g=2022-05-25"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel vaststelling NOW-subsidie"
-signed_date: "2020-09-29"
-entry_into_force: "2020-10-06"
+publicatiedatum: 2020-10-06
+laatste_update: 2022-05-25
+status: geldig
+toestand: 2022-05-25
+bron: "https://wetten.overheid.nl/BWBR0044175"
+opgehaald: 2026-08-30
 ---
+
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 29 september 2020, nr. 2020-0000128045, ten behoeve van de vaststelling van de NOW-subsidie (Beleidsregel vaststelling NOW-subsidie)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,10 +36,8 @@ Indien de aanvrager bij het verzoek van vaststelling, bedoeld in [artikel 14, ee
 
 ##### Artikel 4
 
-Deze beleidsregel treedt in werking met ingang van 6 oktober.
+Deze beleidsregel treedt in werking met ingang van 6 oktober.
 
 ##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel vaststelling NOW-subsidie.
-
-Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.

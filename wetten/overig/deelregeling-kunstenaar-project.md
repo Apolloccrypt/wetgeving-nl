@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunstenaar Project"
 identifier: "BWBR0044529"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044529"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15764583"
-version_id: "27318882"
-internal_id: "C38586481"
-label_id: "15702764"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044529/2025-01-01/0"
-intitule_bron: "Stcrt.2020-62370"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62370"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62370"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044529&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0044529&g=2025-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0044529"
+opgehaald: 2026-08-30
 ---
+
 # Deelregeling Kunstenaar Project
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -44,17 +21,17 @@ Het stimuleren van talentontwikkeling door beeldend kunstenaars de mogelijkheid 
 
 1. Een kunstenaar die een aanvraag doet voor een projectinvestering dient minimaal één jaar als professioneel beeldend kunstenaar werkzaam te zijn. Daarbij geldt:
 
-- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
+- • Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
 
-- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
+- • Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
 
 2. Indien een aanvraag wordt ingediend voor deelname aan een postacademische opleiding die niet krachtens de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) in de Basis Infrastructuur is opgenomen, kan de aanvraag direct na het verlaten van de hbo-opleiding worden ingediend.
 
 3. De bijdrage is bedoeld voor artistieke plannen die hetzij in de tijd begrensd zijn, hetzij leiden tot een concreet resultaat of beide, zoals onderzoek, werkperiodes en/of de productie van nieuw werk als tegemoetkoming in de projectkosten en/of tijdsinvestering en kan worden verstrekt in de vorm van:
 
-- •. een flexibele bijdrage voor een periode van maximaal twaalf maanden,
+- • een flexibele bijdrage voor een periode van maximaal twaalf maanden,
 
-- •. een vaste bijdrage voor een periode van maximaal zes maanden.
+- • een vaste bijdrage voor een periode van maximaal zes maanden.
 
 4. Geen vaste bijdrage kan worden verstrekt aan een kunstenaar aan wie korter dan een jaar geleden een Werkbijdrage Jong Talent of een Startbijdrage is toegekend.
 
@@ -68,21 +45,21 @@ Het stimuleren van talentontwikkeling door beeldend kunstenaars de mogelijkheid 
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- •. (visueel) documentatiemateriaal,
+- • (visueel) documentatiemateriaal,
 
-- •. een toelichting op de artistieke uitgangspunten,
+- • een toelichting op de artistieke uitgangspunten,
 
-- •. een curriculum vitae,
+- • een curriculum vitae,
 
-- •. een werkplan inclusief motivering, en presentatieplan,
+- • een werkplan inclusief motivering, en presentatieplan,
 
-- •. indien van toepassing een dekkende begroting met offertes,
+- • indien van toepassing een dekkende begroting met offertes,
 
-- •. indien van toepassing toezeggingen van uitnodigende of deelnemende partijen,
+- • indien van toepassing toezeggingen van uitnodigende of deelnemende partijen,
 
-- •. indien van toepassing een inhoudelijke motivering van de instelling of organisatie, zoals de residency of opleiding die de kunstenaar heeft geselecteerd,
+- • indien van toepassing een inhoudelijke motivering van de instelling of organisatie, zoals de residency of opleiding die de kunstenaar heeft geselecteerd,
 
-- •. indien van toepassing een curriculum of andere informatie over de instelling, waarvoor aangevraagd wordt.
+- • indien van toepassing een curriculum of andere informatie over de instelling, waarvoor aangevraagd wordt.
 
 ##### Artikel 4. Beoordeling
 
@@ -98,11 +75,11 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 4. De werkplannen en presentatieplannen waarvoor de bijdrage wordt aangevraagd, worden beoordeeld op het belang voor de hedendaagse beeldende kunst. Dit wordt beoordeeld op grond van de volgende aspecten:
 
-- •. de inhoudelijke kwaliteit van het werkplan,
+- • de inhoudelijke kwaliteit van het werkplan,
 
-- •. het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken,
+- • het belang van het presentatieplan wordt beoordeeld op de wijze waarop beoogd wordt op een inspirerende wijze een passend publiek te bereiken,
 
-- •. indien van toepassing de context van de activiteit.
+- • indien van toepassing de context van de activiteit.
 
 5. Indien de bijdrage door meerdere partijen wordt aangevraagd, telt dit in principe in positieve zin mee. Daarbij wordt beoordeeld of de beoogde samenwerking meerwaarde heeft.
 
@@ -116,14 +93,12 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 ##### Artikel 5. Overgangsbepaling
 
-De Deelregeling Projectinvestering Kunstenaar en Bemiddelaar wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Bijdrage Projectinvestering Kunstenaar en Bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799) voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
+De Deelregeling Projectinvestering Kunstenaar en Bemiddelaar wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Bijdrage Projectinvestering Kunstenaar en Bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799) voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
 
 ##### Artikel 6. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstenaar Project
-
-Deze regeling zal in de Staatscourant worden geplaatst.

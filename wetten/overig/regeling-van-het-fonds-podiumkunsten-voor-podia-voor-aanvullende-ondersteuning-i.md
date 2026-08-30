@@ -1,53 +1,27 @@
 ---
 title: "Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen"
 identifier: "BWBR0043706"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-06-26"
-last_updated: "2020-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043706"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15510623"
-version_id: "26802322"
-internal_id: "C37977641"
-label_id: "15453224"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043706/2020-06-26/0"
-intitule_bron: "Stcrt.2020-33305"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-11"
-intitule_published: "2020-06-25"
-intitule_in_force: "2020-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-33305"
-original_signed_date: "2020-06-11"
-original_published_date: "2020-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-33305"
-entry_into_force_date: "2020-06-26"
-jci_1_3: "jci1.3:c:BWBR0043706&z=2020-06-26&g=2020-06-26"
-jci_1_0: "1.0:c:BWBR0043706&g=2020-06-26"
-citeertitel_status: "officieel"
-signed_date: "2020-06-11"
-entry_into_force: "2020-06-26"
+publicatiedatum: 2020-06-26
+laatste_update: 2020-06-26
+status: geldig
+toestand: 2020-06-26
+bron: "https://wetten.overheid.nl/BWBR0043706"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In dit reglement wordt verstaan onder:
 
-- **bestuur:** de directeur-bestuurder van het Fonds Podiumkunsten;
+- *bestuur:* de directeur-bestuurder van het Fonds Podiumkunsten;
 
-- **Fonds Podiumkunsten:** Stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* Stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland/NL:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland/NL:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 2. Onder eigen inkomsten worden in deze regeling de volgende baten, welke terug te vinden zijn in de jaarrekening aan de batenkant van de exploitatierekening, verstaan:
 
@@ -55,11 +29,11 @@ Besluit:
 
 - b. overige inkomsten, zijnde:
 
-- 1°. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
+   - 1°. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
 
-- 2°. indirecte opbrengsten; en
+   - 2°. indirecte opbrengsten; en
 
-- 3°. overige bijdragen.
+   - 3°. overige bijdragen.
 
 3. Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
@@ -123,7 +97,7 @@ Het bestuur kent in het kader van deze regeling financiële bijdrages toe aan po
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
-2. Indiening is mogelijk tot 10 juli 2020 om 17.00 uur.
+2. Indiening is mogelijk tot 10 juli 2020 om 17.00 uur.
 
 3. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds Podiumkunsten en vergezeld gaat van de op het formulier vermelde bijlagen.
 
@@ -135,7 +109,7 @@ Het bestuur besluit gelijktijdig op alle aanvragen.
 
 1. Het bestuur kent een financiële bijdrage toe ten behoeve van een initiatief als dat voldoet aan de eisen uit deze regeling en voor zover de financiële middelen dat toelaten.
 
-2. De hoogte van de subsidie bedraagt de helft van 22,5 procent van de gemiddeld over de jaren 2017 en 2018 behaalde eigen inkomsten van de instelling en onder aftrek van een bedrag dat gelijk is aan 25 procent van de reserves van de instelling per ultimo 2018, met dien verstande dat per aanvrager ten hoogste een bedrag van € 1.000.000 wordt verleend en nooit meer dan het door de gemeente of provincie als extra bijdrage verleende bedrag.
+2. De hoogte van de subsidie bedraagt de helft van 22,5 procent van de gemiddeld over de jaren 2017 en 2018 behaalde eigen inkomsten van de instelling en onder aftrek van een bedrag dat gelijk is aan 25 procent van de reserves van de instelling per ultimo 2018, met dien verstande dat per aanvrager ten hoogste een bedrag van € 1.000.000 wordt verleend en nooit meer dan het door de gemeente of provincie als extra bijdrage verleende bedrag.
 
 3. Onder een door de gemeente verleende extra bijdrage wordt verstaan iedere onvoorwaardelijke toewijzing van financiële middelen aan een podium, waaronder niet alleen subsidies worden verstaan maar ook het onherroepelijk kwijtschelden of overnemen van financiële verplichtingen.
 
@@ -155,9 +129,9 @@ Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 9. Verantwoording
 
-1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de besteding van de middelen.
+1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de besteding van de middelen.
 
-2. Aanvragers die een subsidie van meer dan € 125.000 per jaar ontvangen dienen tevens een financiële verantwoording in. Deze dient vergezeld te gaan van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+2. Aanvragers die een subsidie van meer dan € 125.000 per jaar ontvangen dienen tevens een financiële verantwoording in. Deze dient vergezeld te gaan van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 3. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
@@ -172,5 +146,3 @@ Deze regeling treedt in werking met ingang van de dag na publicatie in de Staats
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

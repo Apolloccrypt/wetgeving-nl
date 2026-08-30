@@ -8,7 +8,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0040470"
-opgehaald: 2026-08-29
+opgehaald: 2026-08-30
 ---
 
 # Regeling huisvesting en voeding militairen 2018 (RHVM 2018)

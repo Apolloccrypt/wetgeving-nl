@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 24 september 2020, houdende regels in verband met verdere flexibilisering van de loodsplicht (Loodsplichtbesluit 2021)"
+citeertitel: "Loodsplichtbesluit 2021"
 identifier: "BWBR0044209"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044209"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15663413"
-version_id: "27076552"
-internal_id: "C38300801"
-label_id: "15603354"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044209/2021-01-01/0"
-intitule_bron: "Stb.2020-378"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-24"
-intitule_published: "2020-10-14"
-intitule_in_force: "2020-10-14"
-intitule_status: "goed"
-original_publication: "Stb.2020-378"
-original_signed_date: "2020-09-24"
-original_published_date: "2020-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-378"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044209&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044209&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Loodsplichtbesluit 2021"
-signed_date: "2020-09-24"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044209"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 24 september 2020, houdende regels in verband met verdere flexibilisering van de loodsplicht (Loodsplichtbesluit 2021)
-
-Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 25 maart 2020, nr. IENW/BSK-2020/49236, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op[artikelen 16, vierde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16), [artikelen 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=22), en [25 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=25) en [artikelen 10, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=10), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=11), en [12 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=12) (nieuw);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 27 mei 2020, nr. W17.20.0078/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat van 21 september 2020, nr. IENW/BSK-2020/173645, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
-
-Treedt voor de zeehavengebieden, genoemd in artikel 2, eerste lid, onderdelen a tot en met e, in werking op 1 januari 2021. Treedt voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is, in werking op een bij koninklijk besluit te bepalen tijdstip (Stb. 2020/378).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,37 +20,37 @@ Treedt voor de zeehavengebieden, genoemd in artikel 2, eerste lid, onderdelen a 
 
 1. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bevoegde autoriteit:** voor een scheepvaartweg of gedeelten daarvan door Onze Minister als zodanig is aangewezen functionaris;
+- – *bevoegde autoriteit:* voor een scheepvaartweg of gedeelten daarvan door Onze Minister als zodanig is aangewezen functionaris;
 
-- –. **call:** een combinatie van een inkomende en uitgaande reis over een traject in hetzelfde zeehavengebied;
+- – *call:* een combinatie van een inkomende en uitgaande reis over een traject in hetzelfde zeehavengebied;
 
-- –. **eerste stuurman:** zeevarende die op grond van het bemanningsplan de functie vervult van eerste stuurman;
+- – *eerste stuurman:* zeevarende die op grond van het bemanningsplan de functie vervult van eerste stuurman;
 
-- –. **frequentie-eis:** minimum aantal in- of uitgaande reizen, calls of vaaruren uitgevoerd per jaar, op grond van dit besluit en de daarop berustende bepalingen;
+- – *frequentie-eis:* minimum aantal in- of uitgaande reizen, calls of vaaruren uitgevoerd per jaar, op grond van dit besluit en de daarop berustende bepalingen;
 
-- –. **loodsplicht:** plicht om gebruik te maken van de diensten van een loods;
+- – *loodsplicht:* plicht om gebruik te maken van de diensten van een loods;
 
-- –. **loodsplichtige scheepvaartwegen:** scheepvaartwegen, aangeduid in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01), en de daarop berustende bepalingen;
+- – *loodsplichtige scheepvaartwegen:* scheepvaartwegen, aangeduid in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01), en de daarop berustende bepalingen;
 
-- –. **module:** module die op grond van dit besluit en de daarop berustende bepalingen nodig zijn om een PEC te verkrijgen;
+- – *module:* module die op grond van dit besluit en de daarop berustende bepalingen nodig zijn om een PEC te verkrijgen;
 
-- –. **PEC:** Pilotage Exemption Certificate, zijnde een bewijs waarmee wordt aangetoond dat een kaptein of eerste stuurman van een zeeschip is vrijgesteld van de loodsplicht;
+- – *PEC:* Pilotage Exemption Certificate, zijnde een bewijs waarmee wordt aangetoond dat een kaptein of eerste stuurman van een zeeschip is vrijgesteld van de loodsplicht;
 
-- –. **regionale autoriteit:** bevoegde autoriteit die, voor een zeehavenregio, door Onze Minister als zodanig is aangewezen;
+- – *regionale autoriteit:* bevoegde autoriteit die, voor een zeehavenregio, door Onze Minister als zodanig is aangewezen;
 
-- –. **regionale loodsencorporatie:** regionale loodsencorporatie als bedoeld in [artikel 10 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=10);
+- – *regionale loodsencorporatie:* regionale loodsencorporatie als bedoeld in [artikel 10 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=10);
 
-- –. **registerloods:** registerloods als bedoeld in [artikel 1, onderdeel f, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
+- – *registerloods:* registerloods als bedoeld in [artikel 1, onderdeel f, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=1);
 
-- –. **scheepsramp:** voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, dan wel letsel aan een of meer van de opvarenden daarvan of schade aan het mariene milieu is veroorzaakt;
+- – *scheepsramp:* voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, dan wel letsel aan een of meer van de opvarenden daarvan of schade aan het mariene milieu is veroorzaakt;
 
-- –. **werkschip:** zeeschip dat gebouwd en ingericht is voor het uitvoeren van werkzaamheden ten behoeve van onderhoud of ontwikkeling van de haveninfrastructuur of van scheepvaartwegen die deel uitmaken van een zeehavengebied, of een zeeschip dat gebouwd en ingericht is om ten behoeve van het eerst genoemde zeeschip direct aansluitende werkzaamheden te verrichten, zoals de aan- of afvoeren van grondstoffen of andere goederen;
+- – *werkschip:* zeeschip dat gebouwd en ingericht is voor het uitvoeren van werkzaamheden ten behoeve van onderhoud of ontwikkeling van de haveninfrastructuur of van scheepvaartwegen die deel uitmaken van een zeehavengebied, of een zeeschip dat gebouwd en ingericht is om ten behoeve van het eerst genoemde zeeschip direct aansluitende werkzaamheden te verrichten, zoals de aan- of afvoeren van grondstoffen of andere goederen;
 
-- –. **zeeschip met gevaarlijke lading:** zeeschip, gebouwd of geschikt gemaakt en gebezigd voor het in bulk vervoeren van minerale olie, gas of chemicaliën en geheel of gedeeltelijk daarmee geladen, dan wel leeg maar nog niet ontgast of ontdaan van hun gevaarlijke residuen;
+- – *zeeschip met gevaarlijke lading:* zeeschip, gebouwd of geschikt gemaakt en gebezigd voor het in bulk vervoeren van minerale olie, gas of chemicaliën en geheel of gedeeltelijk daarmee geladen, dan wel leeg maar nog niet ontgast of ontdaan van hun gevaarlijke residuen;
 
-- –. **zeehavengebied:** zeehavengebied als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01);
+- – *zeehavengebied:* zeehavengebied als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01);
 
-- –. **zeehavenregio:** zeehavenregio als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=12&z=2021-01-01&g=2021-01-01).
+- – *zeehavenregio:* zeehavenregio als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=12&z=2021-01-01&g=2021-01-01).
 
 2. Dit besluit is van overeenkomstige toepassing op een schip dat geen zeeschip is en op degene die daarover de leiding heeft, indien dit schip zich op zee bevindt.
 
@@ -152,15 +118,15 @@ Treedt voor de zeehavengebieden, genoemd in artikel 2, eerste lid, onderdelen a 
 
 2. De volgende modules met de daarbij te verkrijgen kennis en vaardigheden worden onderscheiden:
 
-- −. module 1: de door middel van een met goed gevolg afgeronde opleiding, verkregen kennis van de belangrijkste bepalingen van de voor het betreffende zeehavengebied op grond van de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364) geldende wetgeving;
+- − module 1: de door middel van een met goed gevolg afgeronde opleiding, verkregen kennis van de belangrijkste bepalingen van de voor het betreffende zeehavengebied op grond van de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364) geldende wetgeving;
 
-- −. module 2: de door middel van een met goed gevolg afgeronde opleiding, verkregen actieve of passieve kennis van de voor het betreffende zeehavengebied relevante talen die nodig zijn ten behoeve van de noodzakelijke communicatie met andere schepen en nautische dienstverleners;
+- − module 2: de door middel van een met goed gevolg afgeronde opleiding, verkregen actieve of passieve kennis van de voor het betreffende zeehavengebied relevante talen die nodig zijn ten behoeve van de noodzakelijke communicatie met andere schepen en nautische dienstverleners;
 
-- −. module 3: reguliere reizen waarbij de aanvrager voor een PEC, met het zeeschip en over het traject waarop de aanvraag betrekking heeft, ter verkrijging van kennis met betrekking tot de geografische en nautische omstandigheden op het betreffende traject in het betreffende zeehavengebied, door een registerloods wordt begeleid en geïnstrueerd over de lokale situatie en de in verband daarmee te voeren navigatie;
+- − module 3: reguliere reizen waarbij de aanvrager voor een PEC, met het zeeschip en over het traject waarop de aanvraag betrekking heeft, ter verkrijging van kennis met betrekking tot de geografische en nautische omstandigheden op het betreffende traject in het betreffende zeehavengebied, door een registerloods wordt begeleid en geïnstrueerd over de lokale situatie en de in verband daarmee te voeren navigatie;
 
-- −. module 4: de door middel van een met goed gevolg afgeronde opleiding verkregen, door de bevoegde autoriteit te bepalen, praktische en theoretische kennis van de lokale en regionale regelgeving, -communicatieprocedures, -topografie, -scheepvaartbegeleiding, -sleepbootprocedures, en de daarbij behorende wijze van navigeren;
+- − module 4: de door middel van een met goed gevolg afgeronde opleiding verkregen, door de bevoegde autoriteit te bepalen, praktische en theoretische kennis van de lokale en regionale regelgeving, -communicatieprocedures, -topografie, -scheepvaartbegeleiding, -sleepbootprocedures, en de daarbij behorende wijze van navigeren;
 
-- −. module 5: een met goed gevolg afgelegd aantal beoordelingsreizen met het zeeschip over het traject waarop de aanvraag voor een PEC betrekking heeft, waarbij de aanvrager van een PEC wordt beoordeeld met betrekking tot de uitvoering in de praktijk van de bij de modules 1 tot en met 4 opgedane kennis.
+- − module 5: een met goed gevolg afgelegd aantal beoordelingsreizen met het zeeschip over het traject waarop de aanvraag voor een PEC betrekking heeft, waarbij de aanvrager van een PEC wordt beoordeeld met betrekking tot de uitvoering in de praktijk van de bij de modules 1 tot en met 4 opgedane kennis.
 
 3. Bij ministeriële regeling wordt de inhoud van de modules per zeehavengebied nader bepaald.
 
@@ -288,17 +254,17 @@ Aan een PEC kunnen per traject of per daarop aangeduide zeeschepen, een of meer 
 
 - e. het jaarlijks mede namens de andere bevoegde autoriteiten informeren van Onze Minister inzake:
 
-- 1°. het totaal aantal reizen en schepen per zeehavengebied in het voorafgaande kalenderjaar waarbij van de diensten van een registerloods gebruik is gemaakt en het aantal reizen en schepen waarbij als gevolg van een vrijstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), een PEC als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=4&z=2021-01-01&g=2021-01-01) of een ontheffing als bedoeld in [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=14&z=2021-01-01&g=2021-01-01), niet van de diensten van een loods gebruik is gemaakt;
+   - 1°. het totaal aantal reizen en schepen per zeehavengebied in het voorafgaande kalenderjaar waarbij van de diensten van een registerloods gebruik is gemaakt en het aantal reizen en schepen waarbij als gevolg van een vrijstelling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), een PEC als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=4&z=2021-01-01&g=2021-01-01) of een ontheffing als bedoeld in [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=14&z=2021-01-01&g=2021-01-01), niet van de diensten van een loods gebruik is gemaakt;
 
-- 2°. de wijze waarop de opleiding en examinering van de modules verloopt;
+   - 2°. de wijze waarop de opleiding en examinering van de modules verloopt;
 
-- 3°. het aantal en de soort PEC’s die zijn afgegeven in het voorafgaande kalenderjaar en zijn ingetrokken onder vermelding van de reden daarvan en het aantal bezwaar- en beroepszaken in verband daarmee, alsmede het aantal keer dat aan houders van een PEC een loodsplicht als bedoeld in [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=5&artikel=15&z=2021-01-01&g=2021-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=5&artikel=16&z=2021-01-01&g=2021-01-01) is opgelegd;
+   - 3°. het aantal en de soort PEC’s die zijn afgegeven in het voorafgaande kalenderjaar en zijn ingetrokken onder vermelding van de reden daarvan en het aantal bezwaar- en beroepszaken in verband daarmee, alsmede het aantal keer dat aan houders van een PEC een loodsplicht als bedoeld in [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=5&artikel=15&z=2021-01-01&g=2021-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=5&artikel=16&z=2021-01-01&g=2021-01-01) is opgelegd;
 
-- 4°. het aantal keer dat gebruikt is gemaakt van de bij ministeriele regeling vast te stellen mogelijkheid ontheffing te verlenen indien niet wordt voldaan aan de daarbij vastgestelde frequentie-eis;
+   - 4°. het aantal keer dat gebruikt is gemaakt van de bij ministeriele regeling vast te stellen mogelijkheid ontheffing te verlenen indien niet wordt voldaan aan de daarbij vastgestelde frequentie-eis;
 
-- 5°. het aantal en soort incidenten waarbij zeeschepen betrokken zijn, waarbij wordt aangegeven of er houders van een PEC of registerloodsen betrokken waren; en
+   - 5°. het aantal en soort incidenten waarbij zeeschepen betrokken zijn, waarbij wordt aangegeven of er houders van een PEC of registerloodsen betrokken waren; en
 
-- 6°. alle overige door Onze Minister verlangde informatie betreffende de uitvoering van dit besluit en de daarop berustende bepalingen.
+   - 6°. alle overige door Onze Minister verlangde informatie betreffende de uitvoering van dit besluit en de daarop berustende bepalingen.
 
 - f. het verzorgen van periodiek overleg met de loodsen en andere belanghebbenden aangaande de loodsplicht en de nautische veiligheid.
 
@@ -382,7 +348,7 @@ Een loodsplicht als bedoeld in dit hoofdstuk wordt door middel van een verkeersa
 
 ##### Artikel 19. Verplichtingen van de kapitein
 
-1. De kapitein draagt er zorg voor dat met betrekking tot de beloodsing wordt voldaan aan Voorschrift V/23 van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.
+1. De kapitein draagt er zorg voor dat met betrekking tot de beloodsing wordt voldaan aan Voorschrift V/23 van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.
 
 2. De kapitein die van de diensten van een loods gebruik wil maken, onderscheidenlijk gebruik maakt:
 
@@ -410,7 +376,7 @@ Een loodsplicht als bedoeld in dit hoofdstuk wordt door middel van een verkeersa
 
 ##### Artikel 20. Overgangsbepalingen in verband met behoud van eerder verkregen bevoegdheden verklaringhouders en ontheffinghouders
 
-De bevoegde autoriteit verleent uiterlijk op 31 december 2021, aan de persoon die op de dag voorafgaande aan het moment van inwerkingtreding van dit besluit in het bezit is van:
+De bevoegde autoriteit verleent uiterlijk op 31 december 2021, aan de persoon die op de dag voorafgaande aan het moment van inwerkingtreding van dit besluit in het bezit is van:
 
 - a. een geldige verklaring van vrijstelling als bedoeld in het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513), een PEC die, gelet op het zeeschip en het traject, zo veel mogelijk overeenkomt met die verklaring van vrijstelling;
 
@@ -418,17 +384,17 @@ De bevoegde autoriteit verleent uiterlijk op 31 december 2021, aan de persoon di
 
 ##### Artikel 21. Overgangsbepaling in verband met opheffen Register loodsplicht kleine zeeschepen
 
-1. Een kapitein of eerste stuurman die in de jaren 2019 en 2020 aantoonbaar met een schip dat op 31 december 2020 stond ingeschreven in het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6 Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6), een zeehavengebied ten minste een maal heeft aangedaan, kan bij de regionale autoriteit tot 1 juli 2021 voor dat schip een tijdelijke PEC kleine zeeschepen aanvragen.
+1. Een kapitein of eerste stuurman die in de jaren 2019 en 2020 aantoonbaar met een schip dat op 31 december 2020 stond ingeschreven in het Register loodsplicht kleine zeeschepen, bedoeld in [artikel 6 Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6), een zeehavengebied ten minste een maal heeft aangedaan, kan bij de regionale autoriteit tot 1 juli 2021 voor dat schip een tijdelijke PEC kleine zeeschepen aanvragen.
 
-2. De in het eerste lid bedoelde tijdelijke PEC wordt door de bevoegde autoriteit verleend en is tot uiterlijk 1 januari 2031 geldig voor het zeehavengebied waarop de aanvraag betrekking heeft.
+2. De in het eerste lid bedoelde tijdelijke PEC wordt door de bevoegde autoriteit verleend en is tot uiterlijk 1 januari 2031 geldig voor het zeehavengebied waarop de aanvraag betrekking heeft.
 
 3. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&z=2021-01-01&g=2021-01-01), met uitzondering van de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=4&z=2021-01-01&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=5&z=2021-01-01&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=6&z=2021-01-01&g=2021-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=7&z=2021-01-01&g=2021-01-01), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=10&z=2021-01-01&g=2021-01-01), en [11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=11&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing op de in het eerste lid bedoelde tijdelijke PEC.
 
 ##### Artikel 22. Overgangsbepaling in verband met wijziging vrijstelling voor werkschepen
 
-1. Een kapitein of eerste stuurman van een vaartuig, gebouwd en ingericht voor het winnen of vervoeren van zand, baggerspecie of grind als bedoeld in [artikel 4, eerste lid, onderdeel a, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=4), die op grond daarvan voor de inwerkingtreding van dit besluit vrijgesteld was van de loodsplicht, zonder dat hem een ad-hoc-loodsplicht als bedoeld in [artikel 2 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=2) en de daarop berustende bepalingen is opgelegd, doch met ingang van de inwerkingtreding van dit besluit, gelet op [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), niet in aanmerking komt voor een vrijstelling of gelet op [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01), niet in aanmerking komt voor een ontheffing, kan bij de regionale autoriteit tot 1 juli 2021 voor dat schip een tijdelijke PEC aanvragen indien hij in de jaren 2019 en 2020 een zeehavengebied ten minste een maal aantoonbaar heeft aangedaan.
+1. Een kapitein of eerste stuurman van een vaartuig, gebouwd en ingericht voor het winnen of vervoeren van zand, baggerspecie of grind als bedoeld in [artikel 4, eerste lid, onderdeel a, van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=4), die op grond daarvan voor de inwerkingtreding van dit besluit vrijgesteld was van de loodsplicht, zonder dat hem een ad-hoc-loodsplicht als bedoeld in [artikel 2 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=2) en de daarop berustende bepalingen is opgelegd, doch met ingang van de inwerkingtreding van dit besluit, gelet op [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=2&artikel=3&z=2021-01-01&g=2021-01-01), niet in aanmerking komt voor een vrijstelling of gelet op [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=4&artikel=13&z=2021-01-01&g=2021-01-01), niet in aanmerking komt voor een ontheffing, kan bij de regionale autoriteit tot 1 juli 2021 voor dat schip een tijdelijke PEC aanvragen indien hij in de jaren 2019 en 2020 een zeehavengebied ten minste een maal aantoonbaar heeft aangedaan.
 
-2. De in het eerste lid bedoelde tijdelijke PEC wordt door de bevoegde autoriteit verleend en is tot uiterlijk 1 januari 2031 geldig voor het zeehavengebied waarop de aanvraag betrekking heeft.
+2. De in het eerste lid bedoelde tijdelijke PEC wordt door de bevoegde autoriteit verleend en is tot uiterlijk 1 januari 2031 geldig voor het zeehavengebied waarop de aanvraag betrekking heeft.
 
 3. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&z=2021-01-01&g=2021-01-01), met uitzondering van de [artikelen 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=4&z=2021-01-01&g=2021-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=5&z=2021-01-01&g=2021-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=6&z=2021-01-01&g=2021-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=7&z=2021-01-01&g=2021-01-01), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=10&z=2021-01-01&g=2021-01-01), en [11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=3&artikel=11&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing op de in het eerste lid bedoelde tijdelijke PEC.
 
@@ -444,25 +410,25 @@ Na inwerkingtreding van dit besluit berust de [Regeling meldingen en communicati
 
 Indien wijzigingen van de op het Scheldereglement berustende besluiten niet gelijktijdig in werking treden met dit besluit, kunnen voor het zeehavengebied Scheldemonden als genoemd in [artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01), nadere en zo nodig van dit besluit afwijkende regels worden gesteld ter bevordering van de gewenste samenloop van Nederlandse- en verdragswetgeving inzake onderwerpen die in dit besluit worden geregeld.
 
-##### Artikel 26. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 26. Wijziging Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 27. Wijziging [Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123)
+##### Artikel 27. Wijziging Besluit markttoezicht registerloodsen
 
-Wijzigt het Besluit markttoezicht registerloodsen.
+*Wijzigt het Besluit markttoezicht registerloodsen.*
 
-##### Artikel 28. Wijziging [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471)
+##### Artikel 28. Wijziging Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren
 
-Wijzigt het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.
+*Wijzigt het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren.*
 
-##### Artikel 29. Wijziging [Besluit uitzonderingen oorlogsschepen Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007700)
+##### Artikel 29. Wijziging Besluit uitzonderingen oorlogsschepen Scheepvaartverkeerswet
 
-Wijzigt het Besluit uitzonderingen oorlogsschepen Scheepvaartverkeerswet.
+*Wijzigt het Besluit uitzonderingen oorlogsschepen Scheepvaartverkeerswet.*
 
-##### Artikel 30. Wijziging [Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631)
+##### Artikel 30. Wijziging Binnenvaartbesluit
 
-Wijzigt het Binnenvaartbesluit.
+*Wijzigt het Binnenvaartbesluit.*
 
 ##### Artikel 31. Intrekken van besluiten
 
@@ -472,26 +438,24 @@ Wijzigt het Binnenvaartbesluit.
 
 - b. [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512);
 
-- c. [Besluit van 6 juni 2002, houdende wijziging van het Loodsplichtbesluit 1995 en het Besluit verklaringhouders (flexibilisering loodsplichtstelsel)](https://wetten.overheid.nl/jci1.3:c:BWBR0013746) (Stb. 2002, 295).
+- c. [Besluit van 6 juni 2002, houdende wijziging van het Loodsplichtbesluit 1995 en het Besluit verklaringhouders (flexibilisering loodsplichtstelsel)](https://wetten.overheid.nl/jci1.3:c:BWBR0013746) (Stb. 2002, 295).
 
-2. In afwijking van het eerste lid, onderdeel a en b, blijven de artikelen van het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513) en [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512) en de op deze besluiten berustende bepalingen, zoals deze luidden op 31 december 2020:
+2. In afwijking van het eerste lid, onderdeel a en b, blijven de artikelen van het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513) en [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512) en de op deze besluiten berustende bepalingen, zoals deze luidden op 31 december 2020:
 
-- a. tot uiterlijk 31 december 2021 van toepassing op de persoon, bedoeld in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=8&artikel=20&z=2021-01-01&g=2021-01-01), zolang deze persoon nog niet in het bezit is van een PEC onderscheidenlijk een ontheffing;
+- a. tot uiterlijk 31 december 2021 van toepassing op de persoon, bedoeld in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=8&artikel=20&z=2021-01-01&g=2021-01-01), zolang deze persoon nog niet in het bezit is van een PEC onderscheidenlijk een ontheffing;
 
-- b. van toepassing op aanvragen voor een verklaring van vrijstelling als bedoeld in het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513) onderscheidenlijk een ontheffing als bedoeld in de [artikelen 8a tot en met 8d van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=8a) of een verlenging daarvan die voor 1 januari 2021 zijn ingediend maar waarop op die dag nog geen onherroepelijk besluit is genomen, tot het moment dat daarop wel een onherroepelijk besluit is genomen.
+- b. van toepassing op aanvragen voor een verklaring van vrijstelling als bedoeld in het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513) onderscheidenlijk een ontheffing als bedoeld in de [artikelen 8a tot en met 8d van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=8a) of een verlenging daarvan die voor 1 januari 2021 zijn ingediend maar waarop op die dag nog geen onherroepelijk besluit is genomen, tot het moment dat daarop wel een onherroepelijk besluit is genomen.
 
-3. In afwijking van het tweede lid, onderdeel b, blijft [artikel 6 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6) zoals dat artikel luidde op 31 december 2020 van toepassing op aanvragen voor opname in het Register loodsplicht kleine zeeschepen die voor 1 januari 2021 zijn ingediend maar waarop op die dag nog geen onherroepelijk besluit is genomen, tot het moment dat daarop wel een onherroepelijk besluit is genomen.
+3. In afwijking van het tweede lid, onderdeel b, blijft [artikel 6 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6) zoals dat artikel luidde op 31 december 2020 van toepassing op aanvragen voor opname in het Register loodsplicht kleine zeeschepen die voor 1 januari 2021 zijn ingediend maar waarop op die dag nog geen onherroepelijk besluit is genomen, tot het moment dat daarop wel een onherroepelijk besluit is genomen.
 
 ##### Artikel 32. Inwerkingtreding
 
-1. De [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit treden voor de zeehavengebieden, genoemd in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 januari 2021.
+1. De [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit treden voor de zeehavengebieden, genoemd in [artikel 2, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&hoofdstuk=1&artikel=2&z=2021-01-01&g=2021-01-01), in werking met ingang van 1 januari 2021.
 
-2. De [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit treden voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is, in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. De [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit treden voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is, in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-3. Voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is, blijven de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513), het [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512), het [Besluit van 6 juni 2002, houdende wijziging van het Loodsplichtbesluit 1995, en het Besluit verklaringhouders (flexibilisering loodsplichtstelsel)](https://wetten.overheid.nl/jci1.3:c:BWBR0013746) (Stb. 2002, 295) zoals die luidden op 31 december 2020 van toepassing, totdat de [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit op een bij koninklijk besluit te bepalen tijdstip in werking treedt voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is.
+3. Voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is, blijven de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), het [Besluit verklaringhouders Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007513), het [Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512), het [Besluit van 6 juni 2002, houdende wijziging van het Loodsplichtbesluit 1995, en het Besluit verklaringhouders (flexibilisering loodsplichtstelsel)](https://wetten.overheid.nl/jci1.3:c:BWBR0013746) (Stb. 2002, 295) zoals die luidden op 31 december 2020 van toepassing, totdat de [wet van 5 februari 2020 houdende wijziging van de Scheepvaartverkeerswet en enige andere wetten in verband met verdere flexibilisering van de loodsplicht voor zeeschepen (Loodsplicht nieuwe stijl)](https://wetten.overheid.nl/jci1.3:c:BWBR0043238) (Stb. 2020, 79) en dit besluit op een bij koninklijk besluit te bepalen tijdstip in werking treedt voor het zeehavengebied Scheldemonden, voor zover hoofdstuk III van het Scheldereglement daarop niet van toepassing is.
 
 ##### Artikel 33. Citeertitel
 
 Dit besluit wordt aangehaald als: Loodsplichtbesluit 2021.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

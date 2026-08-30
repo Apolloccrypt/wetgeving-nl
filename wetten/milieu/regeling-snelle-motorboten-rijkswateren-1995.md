@@ -8,7 +8,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0007331"
-opgehaald: 2026-08-29
+opgehaald: 2026-08-30
 ---
 
 # Regeling snelle motorboten Rijkswateren 1995

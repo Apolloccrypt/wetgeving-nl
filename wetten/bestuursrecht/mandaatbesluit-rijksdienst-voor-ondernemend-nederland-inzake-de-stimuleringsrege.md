@@ -1,52 +1,24 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 juli 2020, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van e-health thuis ten tijde van de coronacrisis (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0)"
+citeertitel: "Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0"
 identifier: "BWBR0043915"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-23"
-last_updated: "2020-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043915"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15573853"
-version_id: "26906552"
-internal_id: "C38097951"
-label_id: "15515314"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043915/2020-07-23/0"
-intitule_bron: "Stcrt.2020-40104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-20"
-intitule_published: "2020-07-22"
-intitule_in_force: "2020-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-40104"
-original_signed_date: "2020-07-20"
-original_published_date: "2020-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-40104"
-entry_into_force_date: "2020-07-23"
-jci_1_3: "jci1.3:c:BWBR0043915&z=2020-07-23&g=2020-07-23"
-jci_1_0: "1.0:c:BWBR0043915&g=2020-07-23"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0"
-signed_date: "2020-07-20"
-entry_into_force: "2020-07-23"
+publicatiedatum: 2020-07-23
+laatste_update: 2020-07-23
+status: geldig
+toestand: 2020-07-23
+bron: "https://wetten.overheid.nl/BWBR0043915"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 20 juli 2020, houdende verlening van mandaat en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de stimulering van e-health thuis ten tijde van de coronacrisis (Mandaatbesluit Rijksdienst voor Ondernemend Nederland inzake de Stimuleringsregeling E-health Thuis COVID-19 2.0)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Gezien de instemming van de algemeen directeur van de Rijksdienst voor Ondernemend Nederland;
-
-Besluit:
 
 ##### Artikel 1
 
 Aan de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat, verder te noemen de algemeen directeur, wordt mandaat verleend tot:
 
-- a. het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) voor zover het gaat om subsidies op grond van de [Stimuleringsregeling E-health Thuis COVID-19 2.0](onbekend), en
+- a. het nemen van besluiten op grond van de [Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455) voor zover het gaat om subsidies op grond van de Stimuleringsregeling E-health Thuis COVID-19 2.0, en
 
 - b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
@@ -103,5 +75,3 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Rijksdienst voor Ondernemend Ne
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

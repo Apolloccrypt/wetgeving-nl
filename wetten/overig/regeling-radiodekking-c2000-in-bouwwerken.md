@@ -1,68 +1,42 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 9 juni 2020, kenmerk 2903199, over radiodekking ten behoeve van de C2000-dienstverlening in bouwwerken (Regeling radiodekking C2000 in bouwwerken)"
+citeertitel: "Regeling radiodekking C2000 in bouwwerken"
 identifier: "BWBR0043724"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043724"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15515823"
-version_id: "26811762"
-internal_id: "C37988841"
-label_id: "15458304"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043724/2024-01-01/0"
-intitule_bron: "Stcrt.2020-32294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-09"
-intitule_published: "2020-06-23"
-intitule_in_force: "2020-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-32294"
-original_signed_date: "2020-06-09"
-original_published_date: "2020-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-32294"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043724&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0043724&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling radiodekking C2000 in bouwwerken"
-signed_date: "2020-06-09"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0043724"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 9 juni 2020, kenmerk 2903199, over radiodekking ten behoeve van de C2000-dienstverlening in bouwwerken (Regeling radiodekking C2000 in bouwwerken)
-
-Gelet op [artikel 23, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23) en de [Regeling C2000 en GMS](https://wetten.overheid.nl/jci1.3:c:BWBR0020268);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de minister:** de Minister van Justitie en Veiligheid;
+- a. *de minister:* de Minister van Justitie en Veiligheid;
 
-- b. **bevoegd gezag:** bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag voor een omgevingsvergunning of ten aanzien van een al verleende omgevingsvergunning;
+- b. *bevoegd gezag:* bestuursorgaan dat bevoegd is tot het nemen van een besluit ten aanzien van een aanvraag voor een omgevingsvergunning of ten aanzien van een al verleende omgevingsvergunning;
 
-- c. **C2000:** het radiocommunicatienetwerk ten behoeve van de organisaties met een wettelijke taak op het terrein van openbare orde, veiligheid en hulpverlening;
+- c. *C2000:* het radiocommunicatienetwerk ten behoeve van de organisaties met een wettelijke taak op het terrein van openbare orde, veiligheid en hulpverlening;
 
-- d. **C2000-dienstverlening:** het samenstel van functies, waaronder spraak en data, dat via het C2000-netwerk wordt aangeboden en afgewikkeld;
+- d. *C2000-dienstverlening:* het samenstel van functies, waaronder spraak en data, dat via het C2000-netwerk wordt aangeboden en afgewikkeld;
 
-- e. **aangewezen gebruiker C2000:** een organisatie die een wettelijke taak heeft op het terrein van openbare orde, veiligheid en hulpverlening en ten behoeve van haar operationele processen gebruik maakt van C2000;
+- e. *aangewezen gebruiker C2000:* een organisatie die een wettelijke taak heeft op het terrein van openbare orde, veiligheid en hulpverlening en ten behoeve van haar operationele processen gebruik maakt van C2000;
 
-- f. **radiodekkingslocatie:** bouwwerk waarin na toestemming van de minister radiodekking wordt gecreëerd om binnen dat bouwwerk communicatie via het C2000-netwerk mogelijk te maken;
+- f. *radiodekkingslocatie:* bouwwerk waarin na toestemming van de minister radiodekking wordt gecreëerd om binnen dat bouwwerk communicatie via het C2000-netwerk mogelijk te maken;
 
-- g. **voorziening:** een radiotechnische installatie die de radiodekking in een bouwwerk verzorgt om C2000-communicatie binnen dat bouwwerk mogelijk te maken;
+- g. *voorziening:* een radiotechnische installatie die de radiodekking in een bouwwerk verzorgt om C2000-communicatie binnen dat bouwwerk mogelijk te maken;
 
-- h. **koppelvlak:** component van het C2000-netwerk waarop een voorziening, onder gedefinieerde voorwaarden, ingekoppeld kan worden;
+- h. *koppelvlak:* component van het C2000-netwerk waarop een voorziening, onder gedefinieerde voorwaarden, ingekoppeld kan worden;
 
-- i. **inkoppelen:** het daadwerkelijk verbinden van een voorziening in een bouwwerk met het C2000-koppelvlak, via een vaste verbinding of door de lucht.
+- i. *inkoppelen:* het daadwerkelijk verbinden van een voorziening in een bouwwerk met het C2000-koppelvlak, via een vaste verbinding of door de lucht.
 
-- j. **veiligheidsregio:** een openbaar lichaam als bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9);
+- j. *veiligheidsregio:* een openbaar lichaam als bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9);
 
 ##### Artikel 2. Radiodekkingslocaties
 
@@ -148,18 +122,16 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 9. Overgangsbepaling
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 10. Intrekking
 
-De Beleidsregel Bekendmaking beleid Special Coverage Location van 21 oktober 2005 (Stcrt. 2005, 205) wordt ingetrokken.
+De Beleidsregel Bekendmaking beleid Special Coverage Location van 21 oktober 2005 (Stcrt. 2005, 205) wordt ingetrokken.
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2020.
+Deze regeling treedt in werking met ingang van 1 juli 2020.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling radiodekking C2000 in bouwwerken.
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.

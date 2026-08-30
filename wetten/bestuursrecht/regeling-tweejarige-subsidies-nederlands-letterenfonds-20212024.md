@@ -1,115 +1,83 @@
 ---
 title: "Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024"
 identifier: "BWBR0043900"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043900"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15571163"
-version_id: "26900922"
-internal_id: "C38091421"
-label_id: "15512724"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043900/2020-07-01/0"
-intitule_bron: "Stcrt.2020-37859"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-23"
-intitule_published: "2020-07-16"
-intitule_in_force: "2020-07-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-37859"
-original_signed_date: "2020-06-23"
-original_published_date: "2020-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-37859"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043900&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043900&g=2020-07-01"
-citeertitel_status: "officieel"
-signed_date: "2020-06-23"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043900"
+opgehaald: 2026-08-30
 ---
+
 # Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **andere overheden:** provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba of de landen Aruba, Curaçao of Sint Maarten;
+- *andere overheden:* provincies, gemeenten, de openbare lichamen Bonaire, Sint Eustatius en Saba of de landen Aruba, Curaçao of Sint Maarten;
 
-- **auteurs:** professionele literaire makers, waaronder schrijvers en vertalers;
+- *auteurs:* professionele literaire makers, waaronder schrijvers en vertalers;
 
-- **het bestuur:** het bestuur van de Stichting Nederlands Letterenfonds;
+- *het bestuur:* het bestuur van de Stichting Nederlands Letterenfonds;
 
-- **bezoekers:** betalende en niet betalende bezoekers van de activiteiten die zijn geteld op een, naar het oordeel van het Letterenfonds, duidelijk kenbare en controleerbare wijze;
+- *bezoekers:* betalende en niet betalende bezoekers van de activiteiten die zijn geteld op een, naar het oordeel van het Letterenfonds, duidelijk kenbare en controleerbare wijze;
 
-- **deelnemers:** betalende en niet betalende participanten aan literair educatieve activiteiten of talentontwikkelingsprogramma’s die zijn geteld op een, naar het oordeel van het Letterenfonds, duidelijk kenbare en controleerbare wijze;
+- *deelnemers:* betalende en niet betalende participanten aan literair educatieve activiteiten of talentontwikkelingsprogramma’s die zijn geteld op een, naar het oordeel van het Letterenfonds, duidelijk kenbare en controleerbare wijze;
 
-- **eigen inkomsten:** het deel van de baten in de jaarrekening dat bestaat uit:
+- *eigen inkomsten:* het deel van de baten in de jaarrekening dat bestaat uit:
 
-- a. publieksinkomsten;
+   - a. publieksinkomsten;
 
-- b. overige inkomsten, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+   - b. overige inkomsten, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- –. directe opbrengsten: sponsorinkomsten en overige inkomsten;
+      - – directe opbrengsten: sponsorinkomsten en overige inkomsten;
 
-- –. indirecte opbrengsten en
+      - – indirecte opbrengsten en
 
-- –. overige bijdragen.
+      - – overige bijdragen.
 
-- –. subsidies die zijn verstrekt door een bestuursorgaan;
+      - – subsidies die zijn verstrekt door een bestuursorgaan;
 
-- –. overige bijdragen uit publieke middelen;
+      - – overige bijdragen uit publieke middelen;
 
-- –. rentebaten;
+      - – rentebaten;
 
-- –. bijdragen in natura;
+      - – bijdragen in natura;
 
-- –. kapitalisatie van vrijwilligers;
+      - – kapitalisatie van vrijwilligers;
 
-- –. waardering vrijkaarten en
+      - – waardering vrijkaarten en
 
-- –. overige baten die geen relatie hebben met cultureel ondernemerschap;
+      - – overige baten die geen relatie hebben met cultureel ondernemerschap;
 
-- **Letterenfonds:** Stichting Nederlands Letterenfonds;
+- *Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- **literatuur:** Nederlandstalige en/of Friestalige literatuur;
+- *literatuur:* Nederlandstalige en/of Friestalige literatuur;
 
-- **literatuur-educatie:** activiteiten gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of creatief schrijven;
+- *literatuur-educatie:* activiteiten gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of creatief schrijven;
 
-- **literair:** de Nederlandstalige en/of Friestalige literatuur betreffende;
+- *literair:* de Nederlandstalige en/of Friestalige literatuur betreffende;
 
-- **manifestatie:** een reeks van onderling samenhangende activiteiten die jaarlijks onder een gemeenschappelijke noemer worden georganiseerd op het terrein van literatuur in de volle breedte ten behoeve van een breed en divers publiek;
+- *manifestatie:* een reeks van onderling samenhangende activiteiten die jaarlijks onder een gemeenschappelijke noemer worden georganiseerd op het terrein van literatuur in de volle breedte ten behoeve van een breed en divers publiek;
 
-- **Nederland:** het Koninkrijk der Nederlanden;
+- *Nederland:* het Koninkrijk der Nederlanden;
 
-- **structurele subsidie:** subsidie voor een periode van tenminste twee jaar, die tevens voor een substantieel deel bestemd is voor de dekking van de vaste kosten van de organisatie;
+- *structurele subsidie:* subsidie voor een periode van tenminste twee jaar, die tevens voor een substantieel deel bestemd is voor de dekking van de vaste kosten van de organisatie;
 
-- **subsidieperiode:** de twee opeenvolgende kalenderjaren 2021 en 2022 of de twee opeenvolgende kalenderjaren 2023 en 2024;
+- *subsidieperiode:* de twee opeenvolgende kalenderjaren 2021 en 2022 of de twee opeenvolgende kalenderjaren 2023 en 2024;
 
-- **talentontwikkeling:** activiteiten gericht op:
+- *talentontwikkeling:* activiteiten gericht op:
 
-- •. de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
+   - • de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
 
-- •. het ontwikkelen van talenten (waaronder programmeurs) die zich bezig houden met literaire activiteiten binnen de instelling van de aanvrager, of,
+   - • het ontwikkelen van talenten (waaronder programmeurs) die zich bezig houden met literaire activiteiten binnen de instelling van de aanvrager, of,
 
-- •. het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk -waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
+   - • het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk -waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
 
-- **totale baten:** het totaal aan financiële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot zijn activiteiten te verwezenlijken en de kosten van de organisatie te dekken.
+- *totale baten:* het totaal aan financiële middelen waarover de aanvrager jaarlijks beschikt om de voornemens met betrekking tot zijn activiteiten te verwezenlijken en de kosten van de organisatie te dekken.
 
 ##### Artikel 2. Doel
 
@@ -137,7 +105,7 @@ Het Letterenfonds beoogt door tweejarige subsidieverlening op grond van deze reg
 
 - c. de kosten van de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, door een andere subsidie worden gedekt;
 
-- d. de aanvrager in de peiljaren 2019 respectievelijk 2021 geen of voor minder dan € 20.000,– jaarlijks aan subsidie heeft ontvangen voor literaire activiteiten, literatuur-educatie of talentontwikkeling van het Letterenfonds;
+- d. de aanvrager in de peiljaren 2019 respectievelijk 2021 geen of voor minder dan € 20.000,– jaarlijks aan subsidie heeft ontvangen voor literaire activiteiten, literatuur-educatie of talentontwikkeling van het Letterenfonds;
 
 - e. aanvrager niet gedurende ten minste de twee aan de subsidieperiode voorafgaande kalenderjaren gelijksoortige activiteiten heeft uitgevoerd als waarvoor hij subsidie aanvraagt;
 
@@ -181,15 +149,15 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 ##### Artikel 7. Hoogte subsidiebedrag en subsidieplafond
 
-1. Het bestuur verstrekt subsidies met een maximum van € 800.000,– in totaal over een beleidsperiode en een maximum van € 400.000,– per ronde. Deze maxima gelden als subsidieplafond. Het bestuur kan dit subsidieplafond verhogen of verlagen.
+1. Het bestuur verstrekt subsidies met een maximum van € 800.000,– in totaal over een beleidsperiode en een maximum van € 400.000,– per ronde. Deze maxima gelden als subsidieplafond. Het bestuur kan dit subsidieplafond verhogen of verlagen.
 
 2. Het bestuur verstrekt op basis van de rangorde genoemd in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043900&artikel=6&z=2020-07-01&g=2020-07-01), per ronde vaste subsidiebedragen.
 
-3. Het bestuur verstrekt drie subsidies van jaarlijks € 60.000,– aan de aanvragers wier aanvragen het hoogst in de rangorde zijn geplaatst.
+3. Het bestuur verstrekt drie subsidies van jaarlijks € 60.000,– aan de aanvragers wier aanvragen het hoogst in de rangorde zijn geplaatst.
 
-4. Het bestuur kan aan maximaal één van de in het derde lid bedoelde aanvragers een toeslag van € 15.000,– verlenen indien de aanvrager sterk regionaal is ingebed in de regio, blijkend uit een aanzienlijke en structurele subsidie van andere overheden in de twee jaar voorafgaand aan de subsidieperiode en waaraan structurele subsidie is toegezegd door andere overheden voor de subsidieperiode waarvoor wordt aangevraagd.
+4. Het bestuur kan aan maximaal één van de in het derde lid bedoelde aanvragers een toeslag van € 15.000,– verlenen indien de aanvrager sterk regionaal is ingebed in de regio, blijkend uit een aanzienlijke en structurele subsidie van andere overheden in de twee jaar voorafgaand aan de subsidieperiode en waaraan structurele subsidie is toegezegd door andere overheden voor de subsidieperiode waarvoor wordt aangevraagd.
 
-5. De aanvragers van de overige gehonoreerde aanvragen krijgen een subsidie van jaarlijks € 50.000,– toegekend.
+5. De aanvragers van de overige gehonoreerde aanvragen krijgen een subsidie van jaarlijks € 50.000,– toegekend.
 
 6. Het bestuur verleent niet een bedrag dat meer is dan het subsidiebedrag zoals aangevraagd.
 
@@ -213,7 +181,7 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 2. Als het subsidieplafond ontoereikend is om alle aanvragen in de groepen A en B die voor subsidie in aanmerking komen te honoreren, worden de aanvragen in een rangorde geplaatst.
 
-3. Het bestuur honoreert eerst de aanvragen in groep A voor de conform [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043900&artikel=7&z=2020-07-01&g=2020-07-01) geadviseerde subsidiebedragen. Vervolgens worden de aanvragen in groep B voor het geadviseerde subsidiebedrag gehonoreerd in volgorde van de rangorde, totdat toewijzing van de gevraagde subsidie het subsidieplafond te boven gaat dan wel indien een bedrag resteert dat lager is dan € 50.000,–. Die aanvraag en de volgende worden afgewezen.
+3. Het bestuur honoreert eerst de aanvragen in groep A voor de conform [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043900&artikel=7&z=2020-07-01&g=2020-07-01) geadviseerde subsidiebedragen. Vervolgens worden de aanvragen in groep B voor het geadviseerde subsidiebedrag gehonoreerd in volgorde van de rangorde, totdat toewijzing van de gevraagde subsidie het subsidieplafond te boven gaat dan wel indien een bedrag resteert dat lager is dan € 50.000,–. Die aanvraag en de volgende worden afgewezen.
 
 4. Indien het bestuur het subsidieplafond verhoogt, worden de subsidiebedragen van de aanvragen in groep B die wegens ontoereikendheid van het budget waren afgewezen, toegewezen voor het geadviseerde subsidiebedrag in volgorde van de rangorde, tot de aanvraag waarvan toewijzing van de gevraagde subsidie het subsidieplafond te boven gaat. Die aanvraag en de volgende worden afgewezen.
 
@@ -227,11 +195,11 @@ De adviescommissie beoordeelt de ingediende aanvragen op grond van de volgende c
 
 ##### Artikel 11. Verantwoording bij subsidieverlening
 
-1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
+1. De aanvrager stuurt jaarlijks voor 1 april een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
 2. De verantwoording omvat een inhoudelijk en een financieel deel. De inhoudelijke verantwoording bestaat uit een verslag over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
-3. De financiële verantwoording sluit aan op de ingediende begroting en gaat bij subsidies die voor twee jaar tezamen een bedrag van € 125.000,– overstijgen vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol.
+3. De financiële verantwoording sluit aan op de ingediende begroting en gaat bij subsidies die voor twee jaar tezamen een bedrag van € 125.000,– overstijgen vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol.
 
 4. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening; op deze rekening zijn de bepalingen omtrent de winst en verliesrekening van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo. De [Afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15) van titel 9 van Boek 2 van het Burgerlijk Wetboek zijn niet van toepassing op de jaarrekening.
 
@@ -269,9 +237,9 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 ##### Artikel 15. Intrekking, overgangsbepalingen en inwerkingtreding
 
-1. Wijzigt de Regeling literaire manifestaties en activiteiten, incidenteel en tweejarig.
+1. *Wijzigt de Regeling literaire manifestaties en activiteiten, incidenteel en tweejarig.*
 
-2. Deze regeling treedt in werking met ingang van 1 juli 2020 en vervalt op een bij besluit door het Letterenfonds te bepalen tijdstip.
+2. Deze regeling treedt in werking met ingang van 1 juli 2020 en vervalt op een bij besluit door het Letterenfonds te bepalen tijdstip.
 
 ##### Artikel 16. Slotbepalingen en citeertitel
 
@@ -279,6 +247,4 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 2. Deze regeling wordt aangehaald als Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024.
 
-3. Deze regeling is op 23 juni 2020 vastgesteld door het vigerende bestuur van het Letterenfonds.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.
+3. Deze regeling is op 23 juni 2020 vastgesteld door het vigerende bestuur van het Letterenfonds.

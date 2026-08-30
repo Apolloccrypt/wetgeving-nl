@@ -1,76 +1,53 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2020, nr. PO/BenS/ 26079464, houdende regels over het verstrekken van subsidie aan de expertisecentra onderwijszorg in Caribisch Nederland (Regeling subsidie expertisecentra onderwijszorg CN)"
+citeertitel: "Regeling subsidie expertisecentra onderwijszorg CN"
 identifier: "BWBR0044453"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044453"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-BES"
-stam_id: "15739813"
-version_id: "28552162"
-internal_id: "C40291321"
-label_id: "15678154"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044453/2026-01-01/0"
-intitule_bron: "Stcrt.2020-63749"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-26"
-intitule_published: "2020-12-08"
-intitule_in_force: "2020-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-993"
-original_signed_date: "2021-12-07"
-original_published_date: "2022-02-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-993"
-entry_into_force_date: "2021-12-07"
-jci_1_3: "jci1.3:c:BWBR0044453&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0044453&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling subsidie expertisecentra onderwijszorg CN"
-signed_date: "2021-12-07"
-entry_into_force: "2021-12-07"
+publicatiedatum: 2021-12-07
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0044453"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2020, nr. PO/BenS/ 26079464, houdende regels over het verstrekken van subsidie aan de expertisecentra onderwijszorg in Caribisch Nederland (Regeling subsidie expertisecentra onderwijszorg CN)
-
-Gelet op de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=29), en [69, tweede lid, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=69), de [artikelen 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=70), en [150, tweede lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=150), en de [artikelen 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.5), en [3.6, eerste lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.6);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **eilandelijk zorgplan:** eilandelijk zorgplan als bedoeld in [artikel 27 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=27), [artikel 11.17 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.17) en [artikel 3.3 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.3);
+- *eilandelijk zorgplan:* eilandelijk zorgplan als bedoeld in [artikel 27 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=27), [artikel 11.17 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.17) en [artikel 3.3 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.3);
 
-- **EOZ:** expertisecentrum onderwijszorg als bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
+- *EOZ:* expertisecentrum onderwijszorg als bedoeld in [artikel 28, eerste lid, van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=28), [artikel 11.18 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.18) en [artikel 3.4, eerste lid, van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=3.4);
 
-- **inspectie:** Inspectie van het onderwijs als bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspectie:* Inspectie van het onderwijs als bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **instelling voor middelbaar beroepsonderwijs:** instelling als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+- *instelling voor middelbaar beroepsonderwijs:* instelling als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **leerling:** leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 5.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
+- *leerling:* leerling als bedoeld in [artikel 1 van het Besluit bekostiging WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029580&artikel=1) en [artikel 5.8 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
+- *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- **school voor basisonderwijs:** school voor basisonderwijs als bedoeld in [artikel 1 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *school voor basisonderwijs:* school voor basisonderwijs als bedoeld in [artikel 1 van de WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **school voor voortgezet onderwijs:** school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school voor voortgezet onderwijs:* school als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **student:** student als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+- *student:* student als bedoeld in [artikel 1.1.1 van de WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **WEB BES:** [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
+- *WEB BES:*
+ [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395);
 
-- **WPO BES:** [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
+- *WPO BES:*
+ [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280);
 
-- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *WVO 2020:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -82,7 +59,7 @@ De minister verstrekt voor de kalenderjaren 2021 tot en met 2028 subsidie aan ee
 
 ##### Artikel 4. Subsidieaanvraag
 
-1. Het toezenden aan de inspectie van het eilandelijk zorgplan, geschiedt voor 15 mei voorafgaand aan het schooljaar waarop het betrekking heeft.
+1. Het toezenden aan de inspectie van het eilandelijk zorgplan, geschiedt voor 15 mei voorafgaand aan het schooljaar waarop het betrekking heeft.
 
 2. De toezending van het eilandelijk zorgplan aan de inspectie wordt aangemerkt als subsidieaanvraag voor het volgende kalenderjaar. Voor de subsidieverstrekking in 2021 wordt het eilandelijk zorgplan dat in 2020 is ingediend, als de subsidieaanvraag aangemerkt.
 
@@ -96,21 +73,21 @@ De minister verstrekt voor de kalenderjaren 2021 tot en met 2028 subsidie aan ee
 
 3. Bij de berekening, bedoeld in het tweede lid, wordt uitgegaan van het aantal ingeschreven leerlingen en studenten op de volgende teldata:
 
-- a. voor het kalenderjaar 2021: op 1 oktober 2020;
+- a. voor het kalenderjaar 2021: op 1 oktober 2020;
 
-- b. voor het kalenderjaar 2022: op 1 oktober 2021;
+- b. voor het kalenderjaar 2022: op 1 oktober 2021;
 
-- c. voor het kalenderjaar 2023: op 1 oktober 2022;
+- c. voor het kalenderjaar 2023: op 1 oktober 2022;
 
-- d. voor het kalenderjaar 2024: op 1 oktober 2023;
+- d. voor het kalenderjaar 2024: op 1 oktober 2023;
 
-- e. voor het kalenderjaar 2025: op 1 oktober 2024;
+- e. voor het kalenderjaar 2025: op 1 oktober 2024;
 
-- f. voor het kalenderjaar 2026: op 1 oktober 2025;
+- f. voor het kalenderjaar 2026: op 1 oktober 2025;
 
-- g. voor het kalenderjaar 2027: op 1 oktober 2026;
+- g. voor het kalenderjaar 2027: op 1 oktober 2026;
 
-- h. voor het kalenderjaar 2028: op 1 oktober 2027.
+- h. voor het kalenderjaar 2028: op 1 oktober 2027.
 
 4. Het EOZ in het openbaar lichaam Saba en het EOZ in het openbaar lichaam Sint Eustatius ontvangen naast het subsidiebedrag, bedoeld in het eerste lid, een aanvullend bedrag in verband met het hogere prijspeil op deze eilanden.
 
@@ -118,13 +95,13 @@ De minister verstrekt voor de kalenderjaren 2021 tot en met 2028 subsidie aan ee
 
 ##### Artikel 6. Hoogte van de bedragen
 
-1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 446.998.
+1. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Bonaire: USD 446.998.
 
-2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 441.059.
+2. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Sint Eustatius: USD 441.059.
 
-3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 342.806.
+3. Het vaste bedrag per EOZ, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt voor het EOZ in het openbaar lichaam Saba: USD 342.806.
 
-4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt USD 542,51.
+4. Het bedrag per leerling en student, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt USD 542,51.
 
 5. Het aanvullende bedrag, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044453&artikel=5&z=2026-01-01&g=2026-01-01), bedraagt zestien procent van het vaste bedrag, bedoeld in artikel 5, eerste lid. Dit bedrag zal rekenkundig worden afgerond op twee decimalen.
 
@@ -158,20 +135,16 @@ Als de ambtenaren, bedoeld in [artikel 29, eerste lid, van de WPO BES](https://w
 
 De [Beleidsregel financiële sancties bij bekostigde onderwijsinstellingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047690) is van overeenkomstige toepassing.
 
-##### Artikel 11. Inwerkingtreding
-
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-2. Deze regeling vervalt met ingang van 1 januari 2029.
-
-##### Artikel 12. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling subsidie expertisecentra onderwijszorg CN.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 10a. Omhang
 
 Deze regeling is mede gebaseerd op de [artikelen 11.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.20) en [11.21, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.21).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 11. Inwerkingtreding
+
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. Deze regeling vervalt met ingang van 1 januari 2029.
+
+##### Artikel 12. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling subsidie expertisecentra onderwijszorg CN.

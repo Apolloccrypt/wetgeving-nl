@@ -1,74 +1,51 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers"
 identifier: "BWBR0044136"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044136"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15641893"
-version_id: "27041402"
-internal_id: "C38259081"
-label_id: "15581724"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044136/2020-10-01/0"
-intitule_bron: "Stcrt.2020-49469"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-09-30"
-intitule_in_force: "2020-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-49469"
-original_published_date: "2020-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-49469"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0044136&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0044136&g=2020-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2020-10-01"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0044136"
+opgehaald: 2026-08-30
 ---
+
 # Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
-- 1. **het fonds:** het Mondriaan Fonds,
+- 1. *het fonds:* het Mondriaan Fonds,
 
-- 2. **het bestuur:** de directeur-bestuurder van het fonds,
+- 2. *het bestuur:* de directeur-bestuurder van het fonds,
 
-- 3. **eigen inkomsten:** de volgende baten, welke terug te vinden zijn in de goedgekeurde jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+- 3. *eigen inkomsten:* de volgende baten, welke terug te vinden zijn in de goedgekeurde jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- a. publieksinkomsten; en
+   - a. publieksinkomsten; en
 
-- b. overige inkomsten, zijnde:
+   - b. overige inkomsten, zijnde:
 
-- 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
+      - 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
 
-- 2. indirecte opbrengsten; en
+      - 2. indirecte opbrengsten; en
 
-- 3. overige bijdragen.
+      - 3. overige bijdragen.
 
-- a. subsidies die zijn verstrekt door een bestuursorgaan;
+   - a. subsidies die zijn verstrekt door een bestuursorgaan;
 
-- b. overige bijdragen uit publieke middelen;
+   - b. overige bijdragen uit publieke middelen;
 
-- c. rentebaten;
+   - c. rentebaten;
 
-- d. bijdragen in natura;
+   - d. bijdragen in natura;
 
-- e. kapitalisatie van vrijwilligers;
+   - e. kapitalisatie van vrijwilligers;
 
-- f. waardering vrijkaarten; en
+   - f. waardering vrijkaarten; en
 
-- g. overige baten die geen relatie hebben met cultureel ondernemerschap.
+   - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
 ##### Artikel 2. Doel
 
@@ -116,19 +93,19 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 3. De aanvraag dient in ieder geval voorzien te zijn van:
 
-- –. een kenschets van het museum met een omschrijving van de collectie en de activiteiten van de instelling in de afgelopen drie jaar, inclusief doelstellingen, doelgroepen, functie in de regio, samenwerkingen en publieksbereik;
+- – een kenschets van het museum met een omschrijving van de collectie en de activiteiten van de instelling in de afgelopen drie jaar, inclusief doelstellingen, doelgroepen, functie in de regio, samenwerkingen en publieksbereik;
 
-- –. bewijsstukken van het aantal betalende bezoekers in 2017 en 2018;
+- – bewijsstukken van het aantal betalende bezoekers in 2017 en 2018;
 
-- –. een overzicht van de eigen inkomsten in 2018;
+- – een overzicht van de eigen inkomsten in 2018;
 
-- –. een bewijs van registratie in het museumregister;
+- – een bewijs van registratie in het museumregister;
 
-- –. een door het bestuur ondertekende verklaring dat het museum bij het afstoten het bepaalde in de Erfgoedwet en de Leidraad voor het Afstoten van Museale Objecten (LAMO) volgt en waar mogelijk het waardestellend kader van de Rijksdienst voor het Cultureel Erfgoed;
+- – een door het bestuur ondertekende verklaring dat het museum bij het afstoten het bepaalde in de Erfgoedwet en de Leidraad voor het Afstoten van Museale Objecten (LAMO) volgt en waar mogelijk het waardestellend kader van de Rijksdienst voor het Cultureel Erfgoed;
 
-- –. een indicatie van gemiste en te missen inkomsten van het museum ten gevolge van de COVID-19-maatregelen van het kabinet en indien van toepassing een overzicht van het gebruik door het museum van de generieke maatregelen en de coulancemaatregelen van OCW en de andere overheden;
+- – een indicatie van gemiste en te missen inkomsten van het museum ten gevolge van de COVID-19-maatregelen van het kabinet en indien van toepassing een overzicht van het gebruik door het museum van de generieke maatregelen en de coulancemaatregelen van OCW en de andere overheden;
 
-- –. de goedgekeurde jaarrekening van het jaar 2018.
+- – de goedgekeurde jaarrekening van het jaar 2018.
 
 4. Het bestuur behandelt de aanvragen in één ronde. De bijbehorende start- en sluitingsdatum worden op de website bekend gemaakt.
 
@@ -140,15 +117,15 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 1. Aanvragen worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
-2. Bij de beoordeling van een aanvraag voor **Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers** geeft de adviescommissie een oordeel over het belang van het museum. Daarbij weegt zij de onderstaande aspecten in onderlinge samenhang.
+2. Bij de beoordeling van een aanvraag voor *Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers* geeft de adviescommissie een oordeel over het belang van het museum. Daarbij weegt zij de onderstaande aspecten in onderlinge samenhang.
 
-- –. het belang en de kwaliteit van de collectie
+- – het belang en de kwaliteit van de collectie
 
-- –. het belang en de kwaliteit van het tentoonstellingsbeleid van de instelling,
+- – het belang en de kwaliteit van het tentoonstellingsbeleid van de instelling,
 
-- –. het belang en de reputatie van de aanvragende instelling,
+- – het belang en de reputatie van de aanvragende instelling,
 
-- –. de lokale en regionale inbedding.
+- – de lokale en regionale inbedding.
 
 De adviescommissie weegt de geografische spreiding evenals diversiteit van de materiële en immateriële collecties van de totale groep te honoreren musea in haar oordeel mee.
 
@@ -162,15 +139,15 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 1. Bij de bepaling van de hoogte van de bijdrage wordt een staffel gehanteerd, gebaseerd op het gemiddelde aantal betalende bezoekers in 2017 en 2018:
 
-- –. Bij een gemiddeld aantal van 7.500 tot 10.000 betalende bezoekers ontvangen aanvragers een bijdrage van 7.000 euro.
+- – Bij een gemiddeld aantal van 7.500 tot 10.000 betalende bezoekers ontvangen aanvragers een bijdrage van 7.000 euro.
 
-- –. Bij een gemiddeld aantal van 10.000 tot 25.000 betalende bezoekers ontvangen aanvragers een bijdrage van 15.000 euro.
+- – Bij een gemiddeld aantal van 10.000 tot 25.000 betalende bezoekers ontvangen aanvragers een bijdrage van 15.000 euro.
 
-- –. Bij een gemiddeld aantal van 25.000 tot 40.000 betalende bezoekers ontvangen aanvragers een bijdrage van 30.000 euro.
+- – Bij een gemiddeld aantal van 25.000 tot 40.000 betalende bezoekers ontvangen aanvragers een bijdrage van 30.000 euro.
 
-- –. Bij een gemiddeld aantal van 40.000 tot 100.000 betalende bezoekers ontvangen aanvragers een bijdrage van 60.000 euro.
+- – Bij een gemiddeld aantal van 40.000 tot 100.000 betalende bezoekers ontvangen aanvragers een bijdrage van 60.000 euro.
 
-- –. Bij een gemiddeld aantal van 100.000 of meer betalende bezoekers ontvangen aanvragers 100.000 euro, minus 200 procent van het bedrag dat binnen een mogelijke eerdere toekenning [Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0043678) verstrekt is.
+- – Bij een gemiddeld aantal van 100.000 of meer betalende bezoekers ontvangen aanvragers 100.000 euro, minus 200 procent van het bedrag dat binnen een mogelijke eerdere toekenning [Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0043678) verstrekt is.
 
 2. Indien het subsidieplafond door toepassing van het bepaalde in lid 1 zou worden overschreden, wordt voorrang verleend aan instellingen, die niet reeds een tegemoetkoming voor cultuurspecifieke maatregelen ontvingen in het kader van de COVID-19-crisis van een andere departementale begroting dan die van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -200,10 +177,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 28 september 2020 treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 28 september 2020.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 28 september 2020 treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 28 september 2020.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Algemeen Reglement Mondriaan Fonds 2021"
 identifier: "BWBR0044527"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-28"
-last_updated: "2024-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044527"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15764073"
-version_id: "27317872"
-internal_id: "C38585131"
-label_id: "15702474"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044527/2024-06-28/0"
-intitule_bron: "Stcrt.2020-62360"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62360"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62360"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044527&z=2024-06-28&g=2024-06-28"
-jci_1_0: "1.0:c:BWBR0044527&g=2024-06-28"
-citeertitel_status: "officieel"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2024-06-28
+status: geldig
+toestand: 2024-06-28
+bron: "https://wetten.overheid.nl/BWBR0044527"
+opgehaald: 2026-08-30
 ---
+
 # Algemeen Reglement Mondriaan Fonds 2021
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ### Hoofdstuk I. Definities
 
@@ -42,51 +19,51 @@ Besluit:
 
 In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
-- a. **het fonds:** het Mondriaan Fonds,
+- a. *het fonds:* het Mondriaan Fonds,
 
-- b. **het bestuur:** de directeur-bestuurder van het fonds,
+- b. *het bestuur:* de directeur-bestuurder van het fonds,
 
-- c. **deelregeling:** een op deze regeling gebaseerde regeling waarin nadere regels zijn opgenomen over de verstrekking van een subsidie,
+- c. *deelregeling:* een op deze regeling gebaseerde regeling waarin nadere regels zijn opgenomen over de verstrekking van een subsidie,
 
-- d. **beeldend kunstenaar:** degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten,
+- d. *beeldend kunstenaar:* degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten,
 
-- e. **bemiddelaar:** degene die professioneel werkzaam is zoals een curator, criticus, theoreticus of beschouwer, op het gebied van de beeldende kunsten en/of cultureel erfgoed en die projecten wil uitvoeren die leiden tot kennisverdieping en/of zichtbaarheid en inzichtelijkheid van de hedendaagse beeldende kunst en cultureel erfgoed in Nederland,
+- e. *bemiddelaar:* degene die professioneel werkzaam is zoals een curator, criticus, theoreticus of beschouwer, op het gebied van de beeldende kunsten en/of cultureel erfgoed en die projecten wil uitvoeren die leiden tot kennisverdieping en/of zichtbaarheid en inzichtelijkheid van de hedendaagse beeldende kunst en cultureel erfgoed in Nederland,
 
-- f. **beeldende kunst:** hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
+- f. *beeldende kunst:* hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
 
-- •. teken-, schilder- en grafische kunsten,
+   - • teken-, schilder- en grafische kunsten,
 
-- •. beeldhouwkunst, (sociale) sculptuur en installatiekunst,
+   - • beeldhouwkunst, (sociale) sculptuur en installatiekunst,
 
-- •. conceptuele kunst, performancekunst, artistiek onderzoek,
+   - • conceptuele kunst, performancekunst, artistiek onderzoek,
 
-- •. niet-traditionele vormen van beeldende kunst,
+   - • niet-traditionele vormen van beeldende kunst,
 
-- •. fotografie,
+   - • fotografie,
 
-- •. audiovisuele, digitale, geluids -en (nieuwe) mediakunst,
+   - • audiovisuele, digitale, geluids -en (nieuwe) mediakunst,
 
-- •. beeldende kunsttoepassingen,
+   - • beeldende kunsttoepassingen,
 
-- •. kunst in de openbare ruimte.
+   - • kunst in de openbare ruimte.
 
-- g. **cultureel erfgoed:** alles wat cultuurhistorische waarde heeft en gezamenlijk de materiële en immateriële erfenis vormt van de Nederlandse samenleving. Hiermee worden bijvoorbeeld bedoeld voorwerpen in musea, archeologische vondsten, archieven en/of de daarmee verbonden gebruiken, gewoonten en verhalen, waarbij het moet gaan om een object, traditie of ritueel,
+- g. *cultureel erfgoed:* alles wat cultuurhistorische waarde heeft en gezamenlijk de materiële en immateriële erfenis vormt van de Nederlandse samenleving. Hiermee worden bijvoorbeeld bedoeld voorwerpen in musea, archeologische vondsten, archieven en/of de daarmee verbonden gebruiken, gewoonten en verhalen, waarbij het moet gaan om een object, traditie of ritueel,
 
-- h. **Kunstpodium:** een organisatie met rechtspersoonlijkheid gevestigd in Nederland, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst, die niet overwegend gericht is op het beheer van een collectie, die de programmering laat plaatsvinden in een fysieke ruimte en tot primair doel heeft hedendaagse beeldende kunst te presenteren zonder verkoopdoel en waarbij winst niet het primair oogmerk is,
+- h. *Kunstpodium:* een organisatie met rechtspersoonlijkheid gevestigd in Nederland, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst, die niet overwegend gericht is op het beheer van een collectie, die de programmering laat plaatsvinden in een fysieke ruimte en tot primair doel heeft hedendaagse beeldende kunst te presenteren zonder verkoopdoel en waarbij winst niet het primair oogmerk is,
 
-- i. **instelling:** een publiek- of privaatrechtelijke rechtspersoon of een platform,
+- i. *instelling:* een publiek- of privaatrechtelijke rechtspersoon of een platform,
 
-- j. **opdrachtgever:** een instelling of natuurlijk persoon,
+- j. *opdrachtgever:* een instelling of natuurlijk persoon,
 
-- k. **galerie:** een professionele economisch zelfstandig functionerende en voor publiek vrij toegankelijke ruimte waar permanent(wisselende) tentoonstellingen plaatsvinden, met als doel werk van levende beeldende kunstenaars te verkopen
+- k. *galerie:* een professionele economisch zelfstandig functionerende en voor publiek vrij toegankelijke ruimte waar permanent(wisselende) tentoonstellingen plaatsvinden, met als doel werk van levende beeldende kunstenaars te verkopen
 
-- l. **aanvrager:** degene die een aanvraag doet,
+- l. *aanvrager:* degene die een aanvraag doet,
 
-- m. **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba,
+- m. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba,
 
-- n. **belastbaar inkomen:** het belastbaar inkomen bedoeld in de [Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353),
+- n. *belastbaar inkomen:* het belastbaar inkomen bedoeld in de [Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353),
 
-- o. **bevoegd adviesorgaan:** een onder welke benaming dan ook door het bestuur aangewezen interne of externe adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen. Een interne adviescommissie bestaat uit medewerkers van het Fonds. In een externe adviescommissie hebben leden zitting die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het Fonds.
+- o. *bevoegd adviesorgaan:* een onder welke benaming dan ook door het bestuur aangewezen interne of externe adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen. Een interne adviescommissie bestaat uit medewerkers van het Fonds. In een externe adviescommissie hebben leden zitting die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het Fonds.
 
 ### Hoofdstuk II. Doel
 
@@ -130,17 +107,17 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 1. Bij de beslissing over het verstrekken van een subsidie is kwaliteit en context altijd een criterium.
 
-- •. onder kwaliteit wordt begrepen de artistieke kwaliteit (heeft het werk of de activiteit de potentie om tot het nationaal cultureel erfgoed te gaan behoren of behoort het daar al toe); het cultuurhistorisch belang; de kwaliteit van de positie van de betrokken instelling/organisator/podium; en de kwaliteit van het oeuvre en de reputatie van de betrokken bemiddelaar.
+- • onder kwaliteit wordt begrepen de artistieke kwaliteit (heeft het werk of de activiteit de potentie om tot het nationaal cultureel erfgoed te gaan behoren of behoort het daar al toe); het cultuurhistorisch belang; de kwaliteit van de positie van de betrokken instelling/organisator/podium; en de kwaliteit van het oeuvre en de reputatie van de betrokken bemiddelaar.
 
-- •. onder context wordt begrepen de inbedding, het draagvlak en de culturele context, waarbij achtergrond en diversiteit een rol spelen en de artistieke context, zoals de reputatie van de plek waar de activiteit zich afspeelt, de uitstraling, de reputatie van de overige deelnemers aan de activiteit of van de instelling en/of personen waar de activiteit plaatsvindt.
+- • onder context wordt begrepen de inbedding, het draagvlak en de culturele context, waarbij achtergrond en diversiteit een rol spelen en de artistieke context, zoals de reputatie van de plek waar de activiteit zich afspeelt, de uitstraling, de reputatie van de overige deelnemers aan de activiteit of van de instelling en/of personen waar de activiteit plaatsvindt.
 
 2. Daarnaast kunnen, afhankelijk van het doel van de deelregeling de volgende criteria worden gehanteerd:
 
-- •. het cultureel ondernemerschap: de onderzoekende en/of vernieuwende houding van de aanvrager, de wijze waarop de aanvrager naar buiten treedt om een publiek te vinden en dat publiek aan zich weet te binden, de manier waarop de aanvrager zijn activiteiten omzet in (artistieke) erkenning en in samenhang daarmee in economisch rendement en de activiteiten van de aanvrager op publicitair, organisatorisch en didactisch gebied.
+- • het cultureel ondernemerschap: de onderzoekende en/of vernieuwende houding van de aanvrager, de wijze waarop de aanvrager naar buiten treedt om een publiek te vinden en dat publiek aan zich weet te binden, de manier waarop de aanvrager zijn activiteiten omzet in (artistieke) erkenning en in samenhang daarmee in economisch rendement en de activiteiten van de aanvrager op publicitair, organisatorisch en didactisch gebied.
 
-- •. zichtbaarheid: een overtuigende presentatie waarmee op inspirerende wijze een passend publiek wordt bereikt waardoor de burger zich aangesproken en betrokken voelt, waarbij het effect van de presentatie van belang is.
+- • zichtbaarheid: een overtuigende presentatie waarmee op inspirerende wijze een passend publiek wordt bereikt waardoor de burger zich aangesproken en betrokken voelt, waarbij het effect van de presentatie van belang is.
 
-- •. samenwerking: de allianties die de aanvrager aangaat om verbinding te leggen met (andere) instellingen, opdrachtgevers en/of kunstenaars om een betekenisrijk project tot stand te brengen.
+- • samenwerking: de allianties die de aanvrager aangaat om verbinding te leggen met (andere) instellingen, opdrachtgevers en/of kunstenaars om een betekenisrijk project tot stand te brengen.
 
 ##### Artikel 6
 
@@ -172,9 +149,9 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 1. Subsidie wordt in ieder geval geweigerd:
 
-- •. indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van een andere regeling van het Mondriaan Fonds, op grond van een meerjarige regeling van een Rijkscultuurfonds, op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597) dan wel op grond van de [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533).
+- • indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van een andere regeling van het Mondriaan Fonds, op grond van een meerjarige regeling van een Rijkscultuurfonds, op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597) dan wel op grond van de [Regeling beheer rijkscollectie en subsidiëring museale instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0037533).
 
-- •. voor zover de aanvragende instelling in de aanvraag niet verklaart dat het de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie onderschrijft.
+- • voor zover de aanvragende instelling in de aanvraag niet verklaart dat het de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie onderschrijft.
 
 2. Tijdens de periode waarin een aanvrager aanspraak maakt op een andere voorziening gefinancierd uit publieke middelen, kan geen andere subsidie worden verstrekt die naar het oordeel van het bestuur in dezelfde dekking van kosten voorziet.
 
@@ -184,9 +161,9 @@ In deze regeling en de hierop te baseren deelregelingen wordt verstaan onder:
 
 5. Indien een beeldend kunstenaar een deeltijdopleiding, niet zijnde een bachelor, volgt van minder dan twintig uur per week kan wel een subsidie worden verstrekt indien:
 
-- •. de aanvrager ten minste drie jaar professioneel werkzaam is geweest als kunstenaar, dan wel,
+- • de aanvrager ten minste drie jaar professioneel werkzaam is geweest als kunstenaar, dan wel,
 
-- •. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en nadien ten minste een jaar professioneel werkzaam is.
+- • ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd en nadien ten minste een jaar professioneel werkzaam is.
 
 De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de in de vorige volzin bedoelde opleiding.
 
@@ -196,13 +173,13 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 8. Geen subsidie wordt verstrekt voor:
 
-- •. honoraria van aanvragers,
+- • honoraria van aanvragers,
 
-- •. louter educatieve projecten,
+- • louter educatieve projecten,
 
-- •. activiteiten die een overwegend toeristisch karakter hebben,
+- • activiteiten die een overwegend toeristisch karakter hebben,
 
-- •. werkzaamheden, exploitatiekosten en investeringen die niet direct op de activiteit gericht zijn.
+- • werkzaamheden, exploitatiekosten en investeringen die niet direct op de activiteit gericht zijn.
 
 9. Het bestuur kan besluiten een aanvraag niet in behandeling te nemen indien deze wordt ingediend binnen 12 maanden na de datum waarop het bevoegd adviesorgaan een negatief advies over een eerdere aanvraag voor een subsidie heeft uitgebracht, tenzij dit advies met name gebaseerd was op de inhoud van het plan waarvoor de subsidie was aangevraagd.
 
@@ -212,11 +189,11 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 12. Geen subsidie wordt verstrekt:
 
-- •. aan of voor leden van de Raad van Toezicht van het fonds,
+- • aan of voor leden van de Raad van Toezicht van het fonds,
 
-- •. aan medewerkers van het fonds, onder wie het bestuur,
+- • aan medewerkers van het fonds, onder wie het bestuur,
 
-- •. aan of voor een aanvrager die lid dan wel plaatsvervangend lid is van de adviescommissie die aanvragen voor de betreffende bijdrage beoordeelt.
+- • aan of voor een aanvrager die lid dan wel plaatsvervangend lid is van de adviescommissie die aanvragen voor de betreffende bijdrage beoordeelt.
 
 ### Hoofdstuk IV. Aanvraagprocedure
 
@@ -248,15 +225,15 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 2. De aanvrager meldt onverwijld aan het bestuur als:
 
-- •. de activiteiten waarvoor de subsidie is verstrekt niet of niet geheel zullen worden uitgevoerd,
+- • de activiteiten waarvoor de subsidie is verstrekt niet of niet geheel zullen worden uitgevoerd,
 
-- •. niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan,
+- • niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan,
 
-- •. er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte van het plan op basis waarvan de subsidie is verstrekt,
+- • er ingrijpende inhoudelijke en/of financiële wijzigingen zijn ten opzichte van het plan op basis waarvan de subsidie is verstrekt,
 
-- •. in het geval de subsidie gebonden is aan een inkomensgrens deze gedurende het tijdvak waarvoor de subsidie is verstrekt zal worden of is overschreden,
+- • in het geval de subsidie gebonden is aan een inkomensgrens deze gedurende het tijdvak waarvoor de subsidie is verstrekt zal worden of is overschreden,
 
-- •. de ontvanger niet (meer) aan één van de in het Algemeen reglement of het deelreglement gestelde voorwaarden voldoet.
+- • de ontvanger niet (meer) aan één van de in het Algemeen reglement of het deelreglement gestelde voorwaarden voldoet.
 
 3. De ontvanger van de subsidie plaatst het logo en/of de naam van het fonds op alle publiciteitsuitingen die betrekking hebben op de activiteiten waarvoor de subsidie is verstrekt.
 
@@ -326,9 +303,9 @@ De in dit lid bedoelde subsidie kan niet worden verstrekt voor het volgen van de
 
 3. Het bestuur bepaalt dat het horen geschiedt door:
 
-- •. een persoon die niet bij de voorbereiding van het bestreden besluit betrokken is, of
+- • een persoon die niet bij de voorbereiding van het bestreden besluit betrokken is, of
 
-- •. meer dan één persoon van wie de meerderheid, onder wie degene die het horen leidt, niet bij het bestreden besluit betrokken is geweest.
+- • meer dan één persoon van wie de meerderheid, onder wie degene die het horen leidt, niet bij het bestreden besluit betrokken is geweest.
 
 4. Van het horen wordt een verslag gemaakt dat voorafgaand aan de beslissing op bezwaar ter verificatie van diens inbreng aan de indiener wordt toegezonden.
 
@@ -348,14 +325,12 @@ In gevallen waarin de wet, de statuten, dit reglement of de betreffende deelrege
 
 ##### Artikel 19. Overgangsbepaling
 
-Het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Beschermd cultuurgoed of beschermde verzamelingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038820), [Deelregeling Collectieprogramma's 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038832), [Deelregeling Gastateliers](https://wetten.overheid.nl/jci1.3:c:BWBR0038827), [Deelregeling Internationale samenwerking erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038825), [Deelregeling Kunstbeurzen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038833), [Deelregeling Mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0039359), [Deelregeling Opdrachtgeverschap 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038803), [Deelregeling Presentaties buitenland 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038805), [Deelregeling Projectinvestering kunst- en erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038804), [Deelregeling Projectinvestering kunstenaar en bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799), [Deelregeling Publicaties 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038794), [Deelregeling Samenwerking Musea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038791), [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807), [Deelregeling Werkbijdrage Jong Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038802), [Deelregeling Incidentele aankopen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038824), [Deelregeling Collectiemobiliteit 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038823), [Deelregeling Experimenteerreglement kunstenaarshonorarium](https://wetten.overheid.nl/jci1.3:c:BWBR0039125), [Deelregeling Herdenking slavernijverleden 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039441), [Deelregeling Kunstkoopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013322), en [Deelregeling Restauratie mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0041448) voor 1 januari 2021 zijn ingediend blijft het Algemeen Reglement Mondriaan Fonds 2017 van toepassing.
+Het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Beschermd cultuurgoed of beschermde verzamelingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038820), [Deelregeling Collectieprogramma's 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038832), [Deelregeling Gastateliers](https://wetten.overheid.nl/jci1.3:c:BWBR0038827), [Deelregeling Internationale samenwerking erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038825), [Deelregeling Kunstbeurzen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038833), [Deelregeling Mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0039359), [Deelregeling Opdrachtgeverschap 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038803), [Deelregeling Presentaties buitenland 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038805), [Deelregeling Projectinvestering kunst- en erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038804), [Deelregeling Projectinvestering kunstenaar en bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799), [Deelregeling Publicaties 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038794), [Deelregeling Samenwerking Musea 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038791), [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807), [Deelregeling Werkbijdrage Jong Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038802), [Deelregeling Incidentele aankopen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038824), [Deelregeling Collectiemobiliteit 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038823), [Deelregeling Experimenteerreglement kunstenaarshonorarium](https://wetten.overheid.nl/jci1.3:c:BWBR0039125), [Deelregeling Herdenking slavernijverleden 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039441), [Deelregeling Kunstkoopregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0013322), en [Deelregeling Restauratie mobiel erfgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0041448) voor 1 januari 2021 zijn ingediend blijft het Algemeen Reglement Mondriaan Fonds 2017 van toepassing.
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Algemeen Reglement Mondriaan Fonds 2021.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

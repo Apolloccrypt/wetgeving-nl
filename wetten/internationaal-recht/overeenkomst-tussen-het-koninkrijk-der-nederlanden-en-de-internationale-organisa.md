@@ -8,7 +8,7 @@ laatste_update: 1975-06-05
 status: geldig
 toestand: 1975-06-05
 bron: "https://wetten.overheid.nl/BWBV0003623"
-opgehaald: 2026-08-29
+opgehaald: 2026-08-30
 ---
 
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Atoomenergie inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (met Protocol I en II)

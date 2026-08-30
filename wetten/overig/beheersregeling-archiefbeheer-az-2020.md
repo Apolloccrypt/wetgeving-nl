@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister-President, Minister van Algemene Zaken van 14 juli 2020, #4100673-v8, houdende regels op het gebied van de informatiehuishouding voor het Ministerie van Algemene Zaken (kortweg: Beheersregeling Archiefbeheer AZ 2020)"
+citeertitel: "Beheersregeling Archiefbeheer AZ 2020"
 identifier: "BWBR0044008"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-08-19"
-last_updated: "2020-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044008"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15609153"
-version_id: "26983022"
-internal_id: "C38184531"
-label_id: "15550124"
-dtd_version: "2.0"
-original_entry_into_force: "2020-08-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044008/2020-08-19/0"
-intitule_bron: "Stcrt.2020-43249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-14"
-intitule_published: "2020-08-18"
-intitule_in_force: "2020-08-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-43249"
-original_signed_date: "2020-07-14"
-original_published_date: "2020-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-43249"
-entry_into_force_date: "2020-08-19"
-jci_1_3: "jci1.3:c:BWBR0044008&z=2020-08-19&g=2020-08-19"
-jci_1_0: "1.0:c:BWBR0044008&g=2020-08-19"
-citeertitel_status: "officieel"
-short_title: "Beheersregeling Archiefbeheer AZ 2020"
-signed_date: "2020-07-14"
-entry_into_force: "2020-08-19"
+publicatiedatum: 2020-08-19
+laatste_update: 2020-08-19
+status: geldig
+toestand: 2020-08-19
+bron: "https://wetten.overheid.nl/BWBR0044008"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister-President, Minister van Algemene Zaken van 14 juli 2020, #4100673-v8, houdende regels op het gebied van de informatiehuishouding voor het Ministerie van Algemene Zaken (kortweg: Beheersregeling Archiefbeheer AZ 2020)
-
-Gelet op [artikel 14 van het **Archiefbesluit 1995**](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Begrippenkader
 
@@ -46,75 +20,75 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **afgesloten archief:** een niet meer actueel archief dat betrekking heeft op een voltooid werkproces en dat in principe onveranderlijk is;
+- a. *afgesloten archief:* een niet meer actueel archief dat betrekking heeft op een voltooid werkproces en dat in principe onveranderlijk is;
 
-- b. **archief:** geheel van archiefbescheiden, ontvangen of opgemaakt door het ministerie of een onderdeel hiervan;
+- b. *archief:* geheel van archiefbescheiden, ontvangen of opgemaakt door het ministerie of een onderdeel hiervan;
 
-- c. **archiefbeheer:** de feitelijke of uitvoerende werkzaamheden om archiefbescheiden (fysiek of digitaal) in goede, geordende en toegankelijke staat te brengen te bewaren of over te brengen, als ook om archiefbescheiden die daarvoor in aanmerking komen te vernietigen;
+- c. *archiefbeheer:* de feitelijke of uitvoerende werkzaamheden om archiefbescheiden (fysiek of digitaal) in goede, geordende en toegankelijke staat te brengen te bewaren of over te brengen, als ook om archiefbescheiden die daarvoor in aanmerking komen te vernietigen;
 
-- d. **archiefbeheerder:** degene die namens de secretaris-generaal verantwoordelijk is voor het laten uitvoeren van een effectief en efficiënt archiefbeheer voor de onder hem vallende archiefvormende onderdelen i.c. de directeur Bedrijfsvoering;
+- d. *archiefbeheerder:* degene die namens de secretaris-generaal verantwoordelijk is voor het laten uitvoeren van een effectief en efficiënt archiefbeheer voor de onder hem vallende archiefvormende onderdelen i.c. de directeur Bedrijfsvoering;
 
-- e. **archiefbeherend onderdeel:** het organisatieonderdeel dat tot taak heeft de feitelijke uitvoerende werkzaamheden met betrekking tot het archiefbeheer uit te voeren;
+- e. *archiefbeherend onderdeel:* het organisatieonderdeel dat tot taak heeft de feitelijke uitvoerende werkzaamheden met betrekking tot het archiefbeheer uit te voeren;
 
-- f. **archiefbescheiden:**
+- f. *archiefbescheiden:*
 
-- 1°. bescheiden, ongeacht hun vorm, door het ministerie ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - 1°. bescheiden, ongeacht hun vorm, door het ministerie ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het ministerie zijn overgegaan;
+   - 2°. bescheiden, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op het ministerie zijn overgegaan;
 
-- 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - 3°. bescheiden, ongeacht hun vorm, welke ingevolge overeenkomsten met of beschikkingen van instellingen of personen dan wel uit anderen hoofde in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4°. reproducties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1, 2, of 3 bedoelde bescheiden of welke op grond van een machtiging tot vervanging zijn vervaardigd;
+   - 4°. reproducties, ongeacht hun vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder 1, 2, of 3 bedoelde bescheiden of welke op grond van een machtiging tot vervanging zijn vervaardigd;
 
-- g. **archiefbewaarplaats:** is niet zozeer een fysieke plaats. Het is een juridisch begrip voor een voorziening die voldoet aan de eisen uit de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Archiefbewaarplaatsen zijn doorgaans ondergebracht bij organisaties die speciaal zijn ingericht voor het blijvend bewaren van informatie. Blijvend te bewaren informatie brengt de Rijksoverheid onder bij het Nationaal Archief;
+- g. *archiefbewaarplaats:* is niet zozeer een fysieke plaats. Het is een juridisch begrip voor een voorziening die voldoet aan de eisen uit de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Archiefbewaarplaatsen zijn doorgaans ondergebracht bij organisaties die speciaal zijn ingericht voor het blijvend bewaren van informatie. Blijvend te bewaren informatie brengt de Rijksoverheid onder bij het Nationaal Archief;
 
-- h. **archiefvormend onderdeel:** zijn de binnen het ministerie te onderscheiden organisatieonderdelen en daaronder wordt tevens begrepen de tijdelijke raden, formeel ingestelde commissies en projectorganisaties die onder de archief wettelijke zorg van de minister vallen;
+- h. *archiefvormend onderdeel:* zijn de binnen het ministerie te onderscheiden organisatieonderdelen en daaronder wordt tevens begrepen de tijdelijke raden, formeel ingestelde commissies en projectorganisaties die onder de archief wettelijke zorg van de minister vallen;
 
-- i. **bestand:** groep gegevens of documenten die in onderlinge samenhang is te raadplegen en met een bepaald doel bijeengebracht is;
+- i. *bestand:* groep gegevens of documenten die in onderlinge samenhang is te raadplegen en met een bepaald doel bijeengebracht is;
 
-- j. **Beveiligingsambtenaar (BVA):** de functionaris die zorg draagt voor het toezicht op de integrale beveiliging van het departement en de organisatie hiervan;
+- j. *Beveiligingsambtenaar (BVA):* de functionaris die zorg draagt voor het toezicht op de integrale beveiliging van het departement en de organisatie hiervan;
 
-- k. **bewaartermijn:** de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat bewaard moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden;
+- k. *bewaartermijn:* de termijn waarin archiefbescheiden in goede, geordende en toegankelijke staat bewaard moeten blijven en waarna vernietiging van deze archiefbescheiden moet plaatsvinden;
 
-- l. **Chief Information Officer (CIO):** de functionaris bij het ministerie die verantwoordelijk is voor het strategische beleid voor informatievoorziening en ict en die de toepassing van rijksbrede kaders op dit terrein bewaakt;
+- l. *Chief Information Officer (CIO):* de functionaris bij het ministerie die verantwoordelijk is voor het strategische beleid voor informatievoorziening en ict en die de toepassing van rijksbrede kaders op dit terrein bewaakt;
 
-- m. **Chief Information Security Officer (CISO):** de functionaris bij het ministerie die verantwoordelijk is voor het toezicht op de implementatie en naleving van informatiebeveiliging ongeacht de vorm van de informatie;
+- m. *Chief Information Security Officer (CISO):* de functionaris bij het ministerie die verantwoordelijk is voor het toezicht op de implementatie en naleving van informatiebeveiliging ongeacht de vorm van de informatie;
 
-- n. **directeur Bedrijfsvoering:** de functionaris die belast is met de uitvoering van het archiefbeheer i.c. die de rol van archiefbeheerder heeft;
+- n. *directeur Bedrijfsvoering:* de functionaris die belast is met de uitvoering van het archiefbeheer i.c. die de rol van archiefbeheerder heeft;
 
-- o. **diensthoofd:** degene die is belast met de leiding van een dienstonderdeel of van (tijdelijk) archiefvormend orgaan zoals een programma, project, raad of commissie;
+- o. *diensthoofd:* degene die is belast met de leiding van een dienstonderdeel of van (tijdelijk) archiefvormend orgaan zoals een programma, project, raad of commissie;
 
-- p. **documentmanagementsysteem (DMS):** een opslagplaats of ‘repository’ waarin beschrijvende metadata van documenten worden opgeslagen die makkelijk zijn terug te vinden aan de hand van de kenmerken zoals auteur, naam, omschrijving, datum, categorie en status. De documenten zelf kunnen ook in de database worden opgeslagen, of op een beveiligde (netwerk) locatie die via de database toegankelijk is;
+- p. *documentmanagementsysteem (DMS):* een opslagplaats of ‘repository’ waarin beschrijvende metadata van documenten worden opgeslagen die makkelijk zijn terug te vinden aan de hand van de kenmerken zoals auteur, naam, omschrijving, datum, categorie en status. De documenten zelf kunnen ook in de database worden opgeslagen, of op een beveiligde (netwerk) locatie die via de database toegankelijk is;
 
-- q. **e-depot:** het digitale archiefsysteem van het Nationaal Archief dat de duurzame toegankelijkheid en de duurzame opslag met garanties voor authenticiteit, integriteit en volledigheid van te bewaren digitale archiefbescheiden garandeert;
+- q. *e-depot:* het digitale archiefsysteem van het Nationaal Archief dat de duurzame toegankelijkheid en de duurzame opslag met garanties voor authenticiteit, integriteit en volledigheid van te bewaren digitale archiefbescheiden garandeert;
 
-- r. **dynamisch archief:** actueel archief waarin een archiefvormend onderdeel nieuwe documenten en dossiers opslaat, die betrekking hebben op een nog onvoltooid werkproces;
+- r. *dynamisch archief:* actueel archief waarin een archiefvormend onderdeel nieuwe documenten en dossiers opslaat, die betrekking hebben op een nog onvoltooid werkproces;
 
-- s. **metadata:** gegevens die over documenten, zaken en dossiers worden vastgelegd. Het doel van het vastleggen van metadata is om de documenten, zaken en dossiers in het DMS terug vindbaar én beheersbaar te maken;
+- s. *metadata:* gegevens die over documenten, zaken en dossiers worden vastgelegd. Het doel van het vastleggen van metadata is om de documenten, zaken en dossiers in het DMS terug vindbaar én beheersbaar te maken;
 
-- t. **minister:** de minister-president, de minister van Algemene Zaken;
+- t. *minister:* de minister-president, de minister van Algemene Zaken;
 
-- u. **ministerie:** het ministerie van Algemene Zaken;
+- u. *ministerie:* het ministerie van Algemene Zaken;
 
-- v. **overbrenging:** het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats;
+- v. *overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats;
 
-- w. **overdracht:** het overdragen van archiefbescheiden aan een ander organisatieonderdeel van het ministerie; dus alleen intern het ministerie;
+- w. *overdracht:* het overdragen van archiefbescheiden aan een ander organisatieonderdeel van het ministerie; dus alleen intern het ministerie;
 
-- x. **reproducties:** iedere gelijkluidende weergave van een origineel in een andere gedaante of op een andere drager;
+- x. *reproducties:* iedere gelijkluidende weergave van een origineel in een andere gedaante of op een andere drager;
 
-- y. **RMA:** een Records Management Applicatie ondersteunt alle functionaliteiten die nodig zijn om digitale archiefbescheiden gedurende hun bewaartermijn in goede, geordende en toegankelijke staat te beheren;
+- y. *RMA:* een Records Management Applicatie ondersteunt alle functionaliteiten die nodig zijn om digitale archiefbescheiden gedurende hun bewaartermijn in goede, geordende en toegankelijke staat te beheren;
 
-- z. **selectielijst:** het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen overheidsarchieven, inclusief de selectietermijn, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
+- z. *selectielijst:* het wettelijk voorgeschreven instrument voor de selectie van te bewaren en te vernietigen overheidsarchieven, inclusief de selectietermijn, bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
 
-- aa. **SIO:** Strategisch Informatie Overleg. In het SIO overlegt de CIO van het departement met de Algemeen Rijksarchivaris over de stand van zaken, doelstellingen en prioriteiten van de informatiehuishouding van het departement;
+- aa. *SIO:* Strategisch Informatie Overleg. In het SIO overlegt de CIO van het departement met de Algemeen Rijksarchivaris over de stand van zaken, doelstellingen en prioriteiten van de informatiehuishouding van het departement;
 
-- bb. **vernietiging:** het zodanig materieel behandelen van de informatiedrager (o.a. papier, geluidsband, film, usb stick), dat de daarop vastgelegde informatie niet meer te reconstrueren is;
+- bb. *vernietiging:* het zodanig materieel behandelen van de informatiedrager (o.a. papier, geluidsband, film, usb stick), dat de daarop vastgelegde informatie niet meer te reconstrueren is;
 
-- cc. **vervanging:** de routinematige vervanging van archiefbescheiden door reproducties, die volledig de plaats innemen van de oorspronkelijke bescheiden;
+- cc. *vervanging:* de routinematige vervanging van archiefbescheiden door reproducties, die volledig de plaats innemen van de oorspronkelijke bescheiden;
 
-- dd. **vervreemding:** het in eigendom overdragen van archiefbescheiden aan een andere zorgdrager of aan derden;
+- dd. *vervreemding:* het in eigendom overdragen van archiefbescheiden aan een andere zorgdrager of aan derden;
 
-- ee. **zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden ([Archiefwet 1995, artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1)).
+- ee. *zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden ([Archiefwet 1995, artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1)).
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
@@ -126,13 +100,13 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 ##### Artikel 3. Verantwoordelijkheden
 
-1. **De Minister-President, de Minister**
+1. *De Minister-President, de Minister*
 
 - a. De minister is de zorgdrager voor de archiefbescheiden van het ministerie, bedoeld in [artikel 1 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
 - b. De minister stelt voor het archiefbeheer beheersregels vast en draagt zorg voor de publicatie hiervan in de Staatscourant.
 
-2. **De Secretaris-generaal**
+2. *De Secretaris-generaal*
 
 - a. De secretaris-generaal is namens de minister verantwoordelijk voor de zorg voor het beheer van de archiefbescheiden van het ministerie en voor de voorwaarden om goed archiefbeheer mogelijk te maken.
 
@@ -140,7 +114,7 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - c. De secretaris-generaal mandateert deze verantwoordelijkheid aan de archiefbeheerder.
 
-3. **De archiefbeheerder**
+3. *De archiefbeheerder*
 
 - a. De archiefbeheerder is verantwoordelijk voor het laten uitvoeren van een effectief en efficiënt archiefbeheer voor de onder hem/haar vallende archiefvormende onderdelen in overeenstemming met het bepaalde in de beheersregels en andere van toepassing zijnde regelgeving.
 
@@ -154,7 +128,7 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - f. De archiefbeheerder is verantwoordelijk voor het opstellen, onderhouden, beheren en vaststellen van selectielijsten.
 
-4. **Chief Information Officer (CIO)**
+4. *Chief Information Officer (CIO)*
 
 - a. De CIO stelt strategische beleids-, kwaliteits- en toetsingskaders op het gebied van het document- en archiefbeheer vast.
 
@@ -168,7 +142,7 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - f. De CIO vertegenwoordigt AZ in de rijksbrede ontwikkelingen betreffende geautomatiseerde informatievoorziening en ict.
 
-5. **De archiefvormende onderdelen**
+5. *De archiefvormende onderdelen*
 
 - a. Archiefvormende onderdelen zijn de binnen het ministerie te onderscheiden organisatieonderdelen. Hieronder vallen tevens de tijdelijke raden, formeel ingestelde commissies en programma- of projectorganisaties die onder de archiefwettelijke zorg van de minister vallen.
 
@@ -198,7 +172,7 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - i. De medewerkers van het archiefbeherend onderdeel hebben volledige toegang tot de informatie in het DMS. Gerubriceerde documenten zijn toegankelijk voor medewerkers van het archiefbeherend onderdeel met een AIVD screening op niveau A.
 
-7. **De medewerker**
+7. *De medewerker*
 
 - a. Elke medewerker van het ministerie draagt er zorg voor dat hij door hem behandelde archiefbescheiden op de juiste manier opneemt in het document-managementsysteem of op correcte wijze ter opname aanbiedt aan het archiefbeherend onderdeel.
 
@@ -208,7 +182,7 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - d. Als een medewerker een informatiebeveiligingsincident constateert dat de belangen van personen, de eigen organisatie of andere organisaties schaadt of heeft geschaad, stelt hij hiervan direct z’n leidinggevende op de hoogte en meldt hij dit volgens de voorgeschreven incidentenmeldingsprocedure. In geval van gerubriceerde informatie wordt dit meteen aan de CISO gemeld.
 
-8. **De raden, commissies en programma- en/of projectorganisaties**
+8. *De raden, commissies en programma- en/of projectorganisaties*
 
 - a. De secretarissen van raden, formeel ingestelde commissies en (tijdelijke) project- en/of programmadirecties beheren hun archief in overleg met het archiefbeherend onderdeel. Zij brengen het archiefbeherend onderdeel op de hoogte van de instelling van de raad, commissie of projectorganisatie, bij voorkeur door middel van een kopie van de instellingsbeschikking.
 
@@ -216,13 +190,13 @@ Deze regeling is geldig voor archiefbescheiden van het ministerie. Hieronder val
 
 - c. De secretarissen zorgen ervoor dat zij, zodra dit mogelijk is, afgesloten archiefbestanddelen overdragen aan het archiefbeherend onderdeel. Bij opheffing dragen de secretarissen het archiefbestanddeel in goede en geordende staat direct over aan het archiefbeherend onderdeel.
 
-9. **De private partijen**
+9. *De private partijen*
 
 - a. Private partijen die in opdracht van het ministerie werken en daarbij archiefbescheiden produceren, zijn verantwoordelijk voor hun eigen archiefbeheer.
 
 - b. Als een private partij bij de uitvoering van een opdracht archiefbescheiden van het ministerie zal vormen, dient de opdrachtverstrekking afspraken te behelzen omtrent het beheer van de archiefbescheiden en de overdracht hiervan aan het ministerie na afloop van de opdracht.
 
-10. **De Archiefcommissie**
+10. *De Archiefcommissie*
 
 De Archiefcommissie adviseert, gevraagd en ongevraagd, de departementsleiding over de inrichting van de informatiehuishouding van het ministerie.
 
@@ -276,7 +250,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 2. Het archiefbeherend onderdeel ontwikkelt en onderhoudt in overleg met de archiefvormende onderdelen instrumenten voor de informatieontsluiting van de archiefbescheiden en de daarin aanwezige gegevens.
 
-3. Het gebruikte DMS moet tenminste voldoen aan de [Baseline Informatiebeveiliging Overheid](onbekend)**(BIO)**.
+3. Het gebruikte DMS moet tenminste voldoen aan de [Baseline Informatiebeveiliging Overheid](https://wetten.overheid.nl/BWBR0043146)*(BIO)*.
 
 4. Een nieuw DMS moet voldoen aan de richtlijnen uit de Informatiseringstrategie (I-strategie) Rijk.
 
@@ -284,7 +258,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 1. Voor elk binnen het ministerie gebruikt DMS moet een metagegevensschema beschikbaar zijn, dat duidelijk omschrijft welke metagegevens ten minste aan documenten of dossiers gekoppeld moeten zijn.
 
-2. Het **Toepassingsprofiel Metagegevens Rijksoverheid** vormt de basis voor alle metagegevensschema’s van het ministerie.
+2. Het *Toepassingsprofiel Metagegevens Rijksoverheid* vormt de basis voor alle metagegevensschema’s van het ministerie.
 
 3. De secretaris-generaal is verantwoordelijk voor het vaststellen van de metagegevensschema’s die bij het ministerie worden toegepast.
 
@@ -302,7 +276,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 2. De archiefbeheerder draagt er eveneens zorg voor, dat niet permanent te bewaren archiefbescheiden gedurende hun bewaartermijn in goede, geordende en toegankelijke staat blijven.
 
-3. De archiefbeheerder voert onder verantwoordelijkheid van de diensthoofden van de archiefvormende onderdelen kwaliteitscontroles uit op de archieven binnen het ministerie, om de duurzame toegankelijkheid van de archieven te garanderen. Hierbij dienen de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en de **Baseline Informatiehuishouding Rijksoverheid****(BIHR)** als richtlijn voor goed archiefbeheer.
+3. De archiefbeheerder voert onder verantwoordelijkheid van de diensthoofden van de archiefvormende onderdelen kwaliteitscontroles uit op de archieven binnen het ministerie, om de duurzame toegankelijkheid van de archieven te garanderen. Hierbij dienen de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en de *Baseline Informatiehuishouding Rijksoverheid**(BIHR)* als richtlijn voor goed archiefbeheer.
 
 ##### Artikel 11. Duurzaamheid van digitale archiefbescheiden
 
@@ -310,7 +284,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 2. De archiefbeheerder kan door middel van een overeenkomst afgesloten digitale archiefbestanden bij derden op laten slaan in een speciaal daarvoor bestemde digitale archieffaciliteit (e-depot) die voldoet aan de voorschriften in de [Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
-3. De archiefbeheerder kan voor de opslag van afgesloten digitale archiefbestanden gebruik maken van een speciaal daarvoor bestemde digitale archieffaciliteit (Record Management Applicatie) die voldoet aan de voorschriften in **de**[Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+3. De archiefbeheerder kan voor de opslag van afgesloten digitale archiefbestanden gebruik maken van een speciaal daarvoor bestemde digitale archieffaciliteit (Record Management Applicatie) die voldoet aan de voorschriften in *de*[Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
 4. Het is de norm dat medewerkers gebruik maken van standaard computerapplicaties, opdat zij digitale archiefbescheiden in uniforme formaten aanmaken. Daarnaast kunnen andere computerapplicaties aangewezen worden als digitaal archiefbestand (bv financiële administraties). Deze worden vastgelegd in een apart overzicht.
 
@@ -356,7 +330,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 1. De minister kan besluiten over te gaan tot vervanging van archiefbescheiden door gelijkluidende reproducties, tenzij het archiefbescheiden betreft die zijn uitgesloten van vervanging. Vereist is dat de vervanging geschiedt met de juiste en volledige weergave van de in de te vervangen archiefbestanden voorkomende gegevens. De vernietiging van de vervangen originelen is onverbrekelijk onderdeel van het vervangingsproces.
 
-2. Voor zover het voor bewaring bestemde bescheiden betreft, geeft de minister in zijn besluit tot vervanging inzicht in het toegepaste vervangingsproces (**Handboek routinematige digitale vervanging Plato)**, overeenkomstig de[Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
+2. Voor zover het voor bewaring bestemde bescheiden betreft, geeft de minister in zijn besluit tot vervanging inzicht in het toegepaste vervangingsproces (*Handboek routinematige digitale vervanging Plato)*, overeenkomstig de[Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041).
 
 3. De minister geeft in zijn besluit tot vervanging een overzicht van de categorieën archiefbescheiden die zijn uitgezonderd van vervanging.
 
@@ -432,7 +406,7 @@ De metagegevens zijn zowel voorgeschreven op documentniveau, als op dossiernivea
 
 ##### Artikel 20. Externe beschikbaarstelling van archiefbescheiden
 
-Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)**(Awb)**, [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)**(Wob)**, de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de **Algemene Verordening Gegevensbescherming (AVG)**.
+Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het ministerie in overeenstemming met de van toepassing zijnde artikelen uit de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)*(Awb)*, [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)*(Wob)*, de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de *Algemene Verordening Gegevensbescherming (AVG)*.
 
 ##### Artikel 21. Archiefruimten
 
@@ -440,7 +414,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 2. Het archiefbeherend onderdeel zorgt ervoor dat in geval van een calamiteit zodanige maatregelen zijn en worden getroffen, dat de archiefbescheiden die zich in de archiefruimten bevinden, zo min mogelijk gevaar lopen. Hiertoe stelt het archiefbeherend onderdeel een calamiteitenplan op.
 
-3. Het archiefbeherend onderdeel zorgt ervoor dat archiefruimten waarin te bewaren archiefbescheiden worden bewaard, voldoen aan de normen die zijn opgenomen in de [Regeling van de minister van Onderwijs, Cultuur en Wetenschap van 15 december 2009, nr. WJZ/178205 (8189), met betrekking tot de duurzaamheid en de geordende en toegankelijke staat van archiefbescheiden en de bouw en inrichting van archiefruimten en archiefbewaarplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0027041)**(Archiefregeling 2009**).
+3. Het archiefbeherend onderdeel zorgt ervoor dat archiefruimten waarin te bewaren archiefbescheiden worden bewaard, voldoen aan de normen die zijn opgenomen in de [Regeling van de minister van Onderwijs, Cultuur en Wetenschap van 15 december 2009, nr. WJZ/178205 (8189), met betrekking tot de duurzaamheid en de geordende en toegankelijke staat van archiefbescheiden en de bouw en inrichting van archiefruimten en archiefbewaarplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0027041)*(Archiefregeling 2009*).
 
 4. Van de in archiefruimten opgeslagen bestanden wordt door het archiefbeherend onderdeel een bestandsadministratie bijgehouden.
 
@@ -496,7 +470,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 1. De archiefbeheerder is belast met het dagelijks toezicht op de uitvoering van de werkzaamheden met betrekking tot het archiefbeheer en de naleving van de regels op het gebied van documentaire informatievoorziening.
 
-2. De archiefbeheerder laat kwaliteitsmetingen uitvoeren om de kwaliteit van het archiefbeheer te waarborgen, waarbij de **Baseline Informatiehuishouding Rijksoverheid (BIHR)** als standaard meetinstrument dient.
+2. De archiefbeheerder laat kwaliteitsmetingen uitvoeren om de kwaliteit van het archiefbeheer te waarborgen, waarbij de *Baseline Informatiehuishouding Rijksoverheid (BIHR)* als standaard meetinstrument dient.
 
 3. De archiefbeheerder en het verantwoordelijke diensthoofd van het archiefvormend onderdeel verlenen medewerking aan de Inspectie Overheidsinformatie en Erfgoed bij het uitvoeren van kwaliteitsonderzoek en kwaliteitscontroles op het archiefbeheer.
 
@@ -504,7 +478,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 ##### Artikel 27. Informatiebeveiliging
 
-1. Het [Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141)**(VIR 2007)**, het [Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507)**(VIR-BI 2013)** en de [Baseline Informatiebeveiliging Overheid](onbekend)**(BIO)**vormen de kaders voor de beveiliging van het informatiebeheer. Deze kaders gelden ook wanneer sprake is van (digitaal) kopiëren of anderszins reproduceren van bijzondere informatie.
+1. Het [Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141)*(VIR 2007)*, het [Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507)*(VIR-BI 2013)* en de [Baseline Informatiebeveiliging Overheid](https://wetten.overheid.nl/BWBR0043146)*(BIO)*vormen de kaders voor de beveiliging van het informatiebeheer. Deze kaders gelden ook wanneer sprake is van (digitaal) kopiëren of anderszins reproduceren van bijzondere informatie.
 
 2. Conform het [VIR](https://wetten.overheid.nl/jci1.3:c:BWBR0022141) en [VIRBI](https://wetten.overheid.nl/jci1.3:c:BWBR0033507) draagt het lijnmanagement zorg voor een adequate informatiebeveiliging, geadviseerd en bijgestaan door de CISO. Dit behelst het waarborgen van de betrouwbaarheid van de beheerde informatie. Informatiebeveiliging omvat mede de nodige procedurele en technische voorzieningen voor het tegengaan van wijziging, verwijdering, kopiëring of vernietiging van archiefbescheiden die daarvoor gezien hun aard en status niet in aanmerking komen.
 
@@ -512,7 +486,7 @@ Verzoeken van derden om beschikbaarstelling van archiefbescheiden, behandelt het
 
 4. Alleen geautoriseerde personen kunnen (gerubriceerde) documenten openen, registreren, behandelen, aanmaken, wijzigen, verzenden en archiveren, raadplegen en/of vernietigen. De medewerkers van het archiefbeherend onderdeel zijn namens de secretaris-generaal gemachtigd voor toegang tot archiefbestanddelen en voor beheersactiviteiten. Voor staatsgeheim gerubriceerde archiefbescheiden geldt, dat toegang alleen verleend wordt aan medewerkers die een verklaring van geen bezwaar (VGB) op A-niveau van de AIVD hebben ontvangen. Voor alle vormen van toegang geldt dat deze worden afgegeven op basis van het ‘need to know’ principe.
 
-5. Het verantwoordelijk diensthoofd van het archiefvormend onderdeel ziet er op toe, dat voor de bescherming van de in archiefbescheiden opgenomen persoonsgegevens alleen die gegevens zijn opgenomen met een gerechtvaardigd doel. Dat doel moet welbepaald zijn en vooraf uitdrukkelijk zijn omschreven. Het verantwoordelijk diensthoofd ziet er op toe dat het beveiligingsniveau t.a.v. deze gegevens conform de eisen die de **Algemene Verordening Gegevens-bescherming** (AVG) daaraan stelt is geïmplementeerd.
+5. Het verantwoordelijk diensthoofd van het archiefvormend onderdeel ziet er op toe, dat voor de bescherming van de in archiefbescheiden opgenomen persoonsgegevens alleen die gegevens zijn opgenomen met een gerechtvaardigd doel. Dat doel moet welbepaald zijn en vooraf uitdrukkelijk zijn omschreven. Het verantwoordelijk diensthoofd ziet er op toe dat het beveiligingsniveau t.a.v. deze gegevens conform de eisen die de *Algemene Verordening Gegevens-bescherming* (AVG) daaraan stelt is geïmplementeerd.
 
 6. Op het informatiebeheer binnen het ministerie is het informatiebeveiligingsbeleid van toepassing. Het informatiebeveiligingsbeleid is door de secretaris-generaal vastgesteld. De archiefvormende onderdelen zijn verantwoordelijk voor het treffen van passende beveiligingsmaatregelen voor hun (bijzondere) informatie.
 
@@ -532,6 +506,4 @@ Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van 
 
 ##### Artikel 29. Citeertitel
 
-Deze regeling kan worden aangehaald als ‘**Beheersregeling Archiefbeheer AZ 2020**’.
-
-Deze regeling zal met de toelichting worden geplaatst in de Staatscourant.
+Deze regeling kan worden aangehaald als ‘*Beheersregeling Archiefbeheer AZ 2020*’.

@@ -1,74 +1,43 @@
 ---
 title: "Besluit van 14 mei 2020, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Besluit pleegzorg BES)"
+citeertitel: "Besluit pleegzorg BES"
 identifier: "BWBR0043716"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043716"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "15514583"
-version_id: "26809622"
-internal_id: "C37985841"
-label_id: "15457144"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043716/2020-07-01/0"
-intitule_bron: "Stb.2020-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-14"
-intitule_published: "2020-06-23"
-intitule_in_force: "2020-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2020-187"
-original_signed_date: "2020-05-14"
-original_published_date: "2020-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-187"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043716&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043716&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit pleegzorg BES"
-signed_date: "2020-05-14"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043716"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 14 mei 2020, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Besluit pleegzorg BES)
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 25 maart 2020, kenmerk 1662982-203215-WJZ;
-
-Gelet op [artikel 18.4.7i van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7i);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 april 2020, no. W13.20.0076/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 mei 2020, kenmerk 1673684-203215-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- – *onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **pleegkind:** persoon die vóór het bereiken van de leeftijd van achttien jaar pleegzorg ontvangt en die
+- – *pleegkind:* persoon die vóór het bereiken van de leeftijd van achttien jaar pleegzorg ontvangt en die
 
-- 1°. de leeftijd van eenentwintig jaar nog niet heeft bereikt;
+   - 1°. de leeftijd van eenentwintig jaar nog niet heeft bereikt;
 
-- 2°. de leeftijd van eenentwintig jaar doch niet de leeftijd van drieëntwintig jaar heeft bereikt en ten aanzien van wie is bepaald:
+   - 2°. de leeftijd van eenentwintig jaar doch niet de leeftijd van drieëntwintig jaar heeft bereikt en ten aanzien van wie is bepaald:
 
-- –. dat de voortzetting van pleegzorg noodzakelijk is;
+      - – dat de voortzetting van pleegzorg noodzakelijk is;
 
-- –. dat na beëindiging van pleegzorg binnen een termijn van een half jaar hervatting van de pleegzorg noodzakelijk is.
+      - – dat na beëindiging van pleegzorg binnen een termijn van een half jaar hervatting van de pleegzorg noodzakelijk is.
 
-- –. **pleegouder:** persoon die een pleegkind niet zijnde zijn kind of stiefkind, als behorende tot zijn gezin verzorgt en opvoedt en daartoe een pleegzorgovereenkomst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043716&artikel=3&z=2020-07-01&g=2020-07-01) heeft gesloten met een pleegzorgaanbieder;
+- – *pleegouder:* persoon die een pleegkind niet zijnde zijn kind of stiefkind, als behorende tot zijn gezin verzorgt en opvoedt en daartoe een pleegzorgovereenkomst als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043716&artikel=3&z=2020-07-01&g=2020-07-01) heeft gesloten met een pleegzorgaanbieder;
 
-- –. **pleegzorg:** vorm van jeugdzorg waarbij een pleegouder een pleegkind als behorende tot zijn gezin verzorgt en opvoedt;
+- – *pleegzorg:* vorm van jeugdzorg waarbij een pleegouder een pleegkind als behorende tot zijn gezin verzorgt en opvoedt;
 
-- –. **pleegzorgaanbieder:** aanbieder van jeugdzorg als bedoeld in [artikel 18.4.7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a), die pleegzorg biedt;
+- – *pleegzorgaanbieder:* aanbieder van jeugdzorg als bedoeld in [artikel 18.4.7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a), die pleegzorg biedt;
 
-- –. **wet:** [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063).
+- – *wet:*
+ [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063).
 
 ##### Artikel 2
 
@@ -118,10 +87,8 @@ De pleegzorgaanbieder verstrekt aan de pleegouder in het belang van de verzorgin
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van 1 juli 2020.
+Dit besluit treedt in werking met ingang van 1 juli 2020.
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit pleegzorg BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

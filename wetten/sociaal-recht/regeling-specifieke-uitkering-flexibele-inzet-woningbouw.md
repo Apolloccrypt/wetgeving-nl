@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 september 2020, nr. 2020-0000468858, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ten behoeve van de financiering van regionale flexpools die het voorkomen van vertragingen in de voorfase van de woningbouw tot doel hebben (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw)"
+citeertitel: "Regeling specifieke uitkering flexibele inzet woningbouw"
 identifier: "BWBR0044128"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044128"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15640863"
-version_id: "27039552"
-internal_id: "C38264911"
-label_id: "15580664"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044128/2020-10-01/0"
-intitule_bron: "Stcrt.2020-49991"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-28"
-intitule_published: "2020-09-29"
-intitule_in_force: "2020-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-49991"
-original_signed_date: "2020-09-28"
-original_published_date: "2020-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-49991"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0044128&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0044128&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering flexibele inzet woningbouw"
-signed_date: "2020-09-28"
-entry_into_force: "2020-10-01"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0044128"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 september 2020, nr. 2020-0000468858, houdende regels met betrekking tot het verstrekken van een eenmalige specifieke uitkering ten behoeve van de financiering van regionale flexpools die het voorkomen van vertragingen in de voorfase van de woningbouw tot doel hebben (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
@@ -88,7 +62,7 @@ In deze regeling wordt verstaan onder minister: Minister van Binnenlandse Zaken 
 
 ##### Artikel 3. De aanvraag
 
-1. De aanvraag om een specifieke uitkering kan worden ingediend vanaf 1 oktober 2020 tot en met 15 november 2020.
+1. De aanvraag om een specifieke uitkering kan worden ingediend vanaf 1 oktober 2020 tot en met 15 november 2020.
 
 2. De aanvraag wordt schriftelijk ingediend door gedeputeerde staten.
 
@@ -96,7 +70,7 @@ In deze regeling wordt verstaan onder minister: Minister van Binnenlandse Zaken 
 
 ##### Artikel 4. Verplichtingen
 
-1. De provincie besteedt de specifieke uitkering volledig uiterlijk op 31 december 2022 aan de activiteiten waarvoor deze is verstrekt.
+1. De provincie besteedt de specifieke uitkering volledig uiterlijk op 31 december 2022 aan de activiteiten waarvoor deze is verstrekt.
 
 2. Indien de volledige besteding van de specifieke uitkering voor de datum, genoemd in het eerste lid, niet mogelijk is, kan de minister die termijn op schriftelijk en gemotiveerd verzoek van de ontvanger eenmaal met ten hoogste een jaar verlengen.
 
@@ -116,16 +90,14 @@ In deze regeling wordt verstaan onder minister: Minister van Binnenlandse Zaken 
 
 ##### Artikel 6. Verantwoording en terugvordering
 
-1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering niet volledig of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan gedeputeerde staten.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 oktober 2020.
+Deze regeling treedt in werking op 1 oktober 2020.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering flexibele inzet woningbouw.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

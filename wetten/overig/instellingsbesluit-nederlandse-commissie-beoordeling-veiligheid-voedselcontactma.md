@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister voor Medische Zorg van 12 juni 2020, 1699650-206280-VGP, houdende instelling van een commissie voor de beoordeling van de veiligheid van voedselcontactmaterialen (Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen)"
+citeertitel: "Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen"
 identifier: "BWBR0043718"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043718"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15514763"
-version_id: "26809872"
-internal_id: "C37986101"
-label_id: "15457354"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043718/2020-07-01/0"
-intitule_bron: "Stcrt.2020-32687"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-12"
-intitule_published: "2020-06-22"
-intitule_in_force: "2020-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-32687"
-original_signed_date: "2020-06-12"
-original_published_date: "2020-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-32687"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043718&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043718&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen"
-signed_date: "2020-06-12"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043718"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van de Minister voor Medische Zorg van 12 juni 2020, 1699650-206280-VGP, houdende instelling van een commissie voor de beoordeling van de veiligheid van voedselcontactmaterialen (Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen)
-
-Gelet op [artikel 5a van de Warenwetregeling verpakkingen en gebruiksartikelen](https://wetten.overheid.nl/jci1.3:c:BWBR0034991&artikel=5a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Medische Zorg;
+- a. *de Minister:* de Minister voor Medische Zorg;
 
-- b. **de Commissie:** de Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen.
+- b. *de Commissie:* de Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen.
 
 ##### Artikel 2. Instelling
 
@@ -100,10 +74,8 @@ De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstand
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2020.
+Dit besluit treedt in werking met ingang van 1 juli 2020.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nederlandse Commissie beoordeling veiligheid voedselcontactmaterialen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

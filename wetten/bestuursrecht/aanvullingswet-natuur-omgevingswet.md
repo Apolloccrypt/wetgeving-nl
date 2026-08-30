@@ -1,53 +1,24 @@
 ---
 title: "Wet van 8 juli 2020 tot wijziging van de Omgevingswet en enkele andere wetten in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingswet natuur Omgevingswet)"
+citeertitel: "Aanvullingswet natuur Omgevingswet"
 identifier: "BWBR0044063"
-country: "nl"
-rank: "wet"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044063"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "15622473"
-version_id: "27009542"
-internal_id: "C42294231"
-label_id: "15562894"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044063/2024-01-01/0"
-intitule_bron: "Stb.2020-310"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-08"
-intitule_published: "2020-09-04"
-intitule_in_force: "2023-04-07"
-intitule_status: "goed"
-original_publication: "Stb.2020-310"
-original_signed_date: "2020-07-08"
-original_published_date: "2020-09-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "34985"
-original_url_id: "stb-2020-310"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0044063&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0044063&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanvullingswet natuur Omgevingswet"
-signed_date: "2020-07-08"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0044063"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 8 juli 2020 tot wijziging van de Omgevingswet en enkele andere wetten in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingswet natuur Omgevingswet)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+### Hoofdstuk 1. Wijzigingen in de Omgevingswet
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de in de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) gestelde regels te integreren in het stelsel van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
+##### Artikel 1.1. (Omgevingswet)
 
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-### Hoofdstuk 1. Wijzigingen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
-
-##### Artikel 1.1. ([Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
-
-Wijzigt de Omgevingswet.
+*Wijzigt de Omgevingswet.*
 
 ### Hoofdstuk 2. Overgangsrecht
 
@@ -113,7 +84,7 @@ Wijzigt de Omgevingswet.
 
 5. Vergunningen en ontheffingen, verleend krachtens de Vogelwet 1936, de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155), [artikel 25 van de Natuurbeschermingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002611&artikel=25) of de Wet bedreigde uitheemse dier- en plantensoorten blijven van kracht voor de tijd dat zij zijn verleend. De [artikelen 5.39](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.39) en [5.40 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.40) zijn van overeenkomstige toepassing.
 
-6. Een omgevingsvergunning voor een jachtgeweeractiviteit wordt niet geweigerd als de aanvrager niet met gunstig gevolg een jachtexamen heeft afgelegd, als hem in de periode van 1 januari 1977 tot en met 31 maart 2002 een jachtakte als bedoeld in de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155) is uitgereikt of als hem in de periode van 1 april 2002 tot en met 30 september 2004 een jachtakte als bedoeld in de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) is uitgereikt onder het met gunstig gevolg behalen van een krachtens de Jachtwet erkend jachtexamen.
+6. Een omgevingsvergunning voor een jachtgeweeractiviteit wordt niet geweigerd als de aanvrager niet met gunstig gevolg een jachtexamen heeft afgelegd, als hem in de periode van 1 januari 1977 tot en met 31 maart 2002 een jachtakte als bedoeld in de [Jachtwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002155) is uitgereikt of als hem in de periode van 1 april 2002 tot en met 30 september 2004 een jachtakte als bedoeld in de [Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640) is uitgereikt onder het met gunstig gevolg behalen van een krachtens de Jachtwet erkend jachtexamen.
 
 ##### Artikel 2.6. (ontheffingen soortenbeschermingsverboden)
 
@@ -143,9 +114,9 @@ Wijzigt de Omgevingswet.
 
 2. Verboden als bedoeld in [artikel 4.2, derde lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=4.2), vastgesteld bij:
 
-- –. beschikking die onherroepelijk is, gelden als maatwerkvoorschriften als bedoeld in [artikel 4.5, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5),
+- – beschikking die onherroepelijk is, gelden als maatwerkvoorschriften als bedoeld in [artikel 4.5, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5),
 
-- –. verordening, gelden maatwerkregels in een omgevingsverordening als bedoeld in [artikel 4.6, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.6).
+- – verordening, gelden maatwerkregels in een omgevingsverordening als bedoeld in [artikel 4.6, tweede lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.6).
 
 3. Ontheffingen als bedoeld in [artikel 4.5, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=4.5), of [artikel 4.9 van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=4.9) die onherroepelijk zijn, gelden als besluiten tot het stellen van maatwerkvoorschriften als bedoeld in [artikel 4.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5).
 
@@ -177,93 +148,93 @@ Wijzigt de Omgevingswet.
 
 - c. als de beschikking de oplegging van een last onder dwangsom betreft:
 
-- 1°. de dwangsom is ingevorderd, of
+   - 1°. de dwangsom is ingevorderd, of
 
-- 2°. de bij de beschikking opgelegde last onder dwangsom is opgeheven.
+   - 2°. de bij de beschikking opgelegde last onder dwangsom is opgeheven.
 
 ### Hoofdstuk 3. Wijzigingen van andere wetten en samenloopbepalingen
 
-### Afdeling 3.1. Intrekking van de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552)
+#### Afdeling 3.1. Intrekking van de Wet natuurbescherming
 
-##### Artikel 3.1. ([Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552))
+##### Artikel 3.1. (Wet natuurbescherming)
 
 De [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552) wordt ingetrokken.
 
-### Afdeling 3.2. Wijzigingen van andere wetten
+#### Afdeling 3.2. Wijzigingen van andere wetten
 
-##### Artikel 3.2. ([Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746))
+##### Artikel 3.2. (Algemene douanewet)
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
-##### Artikel 3.3. ([Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 3.3. (Algemene wet bestuursrecht)
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 3.4. ([Gezondheids- en welzijnswet voor dieren](onbekend))
+##### Artikel 3.4. (Gezondheids- en welzijnswet voor dieren)
 
-Wijzigt de Gezondheids- en welzijnswet voor dieren.
+*Wijzigt de Gezondheids- en welzijnswet voor dieren.*
 
-##### Artikel 3.4a. ([Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402))
+##### Artikel 3.4a. (Kernenergiewet)
 
-Wijzigt de Kernenergiewet.
+*Wijzigt de Kernenergiewet.*
 
-##### Artikel 3.5. ([Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168))
+##### Artikel 3.5. (Mijnbouwwet)
 
-Wijzigt de Mijnbouwwet.
+*Wijzigt de Mijnbouwwet.*
 
-##### Artikel 3.5a. ([Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007))
+##### Artikel 3.5a. (Spoorwegwet)
 
-Wijzigt de Spoorwegwet.
+*Wijzigt de Spoorwegwet.*
 
-##### Artikel 3.6. ([Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250))
+##### Artikel 3.6. (Wet dieren)
 
-Wijzigt de Wet dieren.
+*Wijzigt de Wet dieren.*
 
-##### Artikel 3.7. ([Wet financieel statuut van het Koninklijk Huis](https://wetten.overheid.nl/jci1.3:c:BWBR0002845))
+##### Artikel 3.7. (Wet financieel statuut van het Koninklijk Huis)
 
-Wijzigt de Wet financieel statuut van het Koninklijk Huis.
+*Wijzigt de Wet financieel statuut van het Koninklijk Huis.*
 
-##### Artikel 3.8. ([Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245))
+##### Artikel 3.8. (Wet milieubeheer)
 
-Wijzigt de Wet milieubeheer.
+*Wijzigt de Wet milieubeheer.*
 
-##### Artikel 3.9. ([Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063))
+##### Artikel 3.9. (Wet op de economische delicten)
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
-##### Artikel 3.10. ([Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289))
+##### Artikel 3.10. (Wet op het RIVM)
 
-Wijzigt de Wet op het RIVM.
+*Wijzigt de Wet op het RIVM.*
 
-##### Artikel 3.10a. ([Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642))
+##### Artikel 3.10a. (Wet voorkoming verontreiniging door schepen)
 
-Wijzigt de Wet voorkoming verontreiniging door schepen.
+*Wijzigt de Wet voorkoming verontreiniging door schepen.*
 
-##### Artikel 3.11. ([Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804))
+##### Artikel 3.11. (Wet wapens en munitie)
 
-Wijzigt de Wet wapens en munitie.
+*Wijzigt de Wet wapens en munitie.*
 
-##### Artikel 3.12. ([Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752))
+##### Artikel 3.12. (Wet windenergie op zee)
 
-Wijzigt de Wet windenergie op zee.
+*Wijzigt de Wet windenergie op zee.*
 
-### Afdeling 3.3. Samenloopbepalingen
+#### Afdeling 3.3. Samenloopbepalingen
 
-##### Artikel 3.13. ([Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247))
+##### Artikel 3.13. (Aanvullingswet geluid Omgevingswet)
 
-Wijzigt de Aanvullingswet geluid Omgevingswet.
+*Wijzigt de Aanvullingswet geluid Omgevingswet.*
 
-##### Artikel 3.14. ([Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277))
+##### Artikel 3.14. (Aanvullingswet bodem Omgevingswet)
 
-Wijzigt de Aanvullingswet bodem Omgevingswet.
+*Wijzigt de Aanvullingswet bodem Omgevingswet.*
 
-##### Artikel 3.15. ([Aanvullingswet bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043277))
+##### Artikel 3.15. (Aanvullingswet bodem Omgevingswet)
 
-Wijzigt de Aanvullingswet bodem Omgevingswet.
+*Wijzigt de Aanvullingswet bodem Omgevingswet.*
 
-##### Artikel 3.16. ([Wet van 29 mei 2017, houdende wijziging van de wet wapens en munitie, de flora- en faunawet en de Wet natuurbescherming in verband met de versterking van het stelsel ter beheersing van het legaal wapenbezit](https://wetten.overheid.nl/jci1.3:c:BWBR0039633) (Stb. 242)
+##### Artikel 3.16. (Wet van 29 mei 2017, houdende wijziging van de wet wapens en munitie, de flora- en faunawet en de Wet natuurbescherming in verband met de versterking van het stelsel ter beheersing van het legaal wapenbezit (Stb. 242)
 
-Wijzigt de Omgevingswet.
+*Wijzigt de Omgevingswet.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -294,5 +265,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 4.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Aanvullingswet natuur Omgevingswet.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

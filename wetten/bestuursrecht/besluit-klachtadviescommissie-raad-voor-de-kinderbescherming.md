@@ -1,60 +1,28 @@
 ---
 title: "Besluit van 2 september 2020, houdende regels inzake de behandeling van klachten over de raad voor de kinderbescherming door een klachtadviescommissie (Besluit klachtadviescommissie raad voor de kinderbescherming)"
+citeertitel: "Besluit klachtadviescommissie raad voor de kinderbescherming"
 identifier: "BWBR0044134"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044134"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15641483"
-version_id: "27040402"
-internal_id: "C38257111"
-label_id: "15581294"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044134/2020-10-01/0"
-intitule_bron: "Stb.2020-358"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-02"
-intitule_published: "2020-09-30"
-intitule_in_force: "2020-09-30"
-intitule_status: "goed"
-original_publication: "Stb.2020-358"
-original_signed_date: "2020-09-02"
-original_published_date: "2020-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-358"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0044134&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0044134&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit klachtadviescommissie raad voor de kinderbescherming"
-signed_date: "2020-09-02"
-entry_into_force: "2020-10-01"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0044134"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 2 september 2020, houdende regels inzake de behandeling van klachten over de raad voor de kinderbescherming door een klachtadviescommissie (Besluit klachtadviescommissie raad voor de kinderbescherming)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 18 juni 2020, nr. 2946848, directie Wetgeving en Juridische Zaken,
-
-Gelet op [artikel 239, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=239);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 juli 2020, nr. W16.20.0198/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 27 augustus 2020, nr. 2986201, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- a. *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- b. **Raad:** de raad voor de kinderbescherming, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=238);
+- b. *Raad:* de raad voor de kinderbescherming, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=238);
 
-- c. **Klachtadviescommissie:** een commissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
+- c. *Klachtadviescommissie:* een commissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
 
 ##### Artikel 2
 
@@ -125,5 +93,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit klachtadviescommissie raad voor de kinderbescherming.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

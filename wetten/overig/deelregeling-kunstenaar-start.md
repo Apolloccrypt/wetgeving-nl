@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunstenaar Start"
 identifier: "BWBR0044528"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044528"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15764433"
-version_id: "27318022"
-internal_id: "C38585291"
-label_id: "15702624"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044528/2025-01-01/0"
-intitule_bron: "Stcrt.2020-62371"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62371"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62371"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044528&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0044528&g=2025-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0044528"
+opgehaald: 2026-08-30
 ---
+
 # Deelregeling Kunstenaar Start
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -44,9 +21,9 @@ Het stimuleren van de artistieke ontwikkeling en het cultureel ondernemerschap v
 
 1. Een Startbijdrage kan worden verstrekt aan startende beeldend kunstenaars, die minimaal één tot maximaal vier jaar als professioneel beeldend kunstenaar werkzaam zijn. Daarbij geldt:
 
-- •. Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
+- • Indien de kunstenaar een hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt de diplomadatum beschouwd als start van de professionele beroepspraktijk. Wanneer er een periode tussen de diplomadatum van de hbo-bacheloropleiding met beeldende kunstcurriculum en de start van de masteropleiding zit, wordt deze periode meegerekend als onderdeel van de professionele beroepspraktijk.
 
-- •. Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
+- • Indien de kunstenaar geen hbo-bacheloropleiding met een beeldende kunstcurriculum heeft afgerond wordt het moment waarop de kunstenaar voor het eerst werk presenteert binnen het circuit van de professionele beeldende kunst beschouwd als de start van de professionele beroepspraktijk.
 
 2. Indien de aanvrager van een Startbijdrage in de vier jaar na het verlaten van een bachelor opleiding aan een hbo-instituut of in de vier jaar na de eerste presentatie binnen het circuit van de professionele beeldende kunst een master opleiding heeft gevolgd, wordt de in het eerste lid van dit artikel genoemde periode van vier jaar vermeerderd met het aantal maanden dat deze opleiding aan de tweede fase/master heeft geduurd.
 
@@ -62,13 +39,13 @@ Het stimuleren van de artistieke ontwikkeling en het cultureel ondernemerschap v
 
 Naast het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
-- •. visueel documentatiemateriaal,
+- • visueel documentatiemateriaal,
 
-- •. een inhoudelijke toelichting op het werk,
+- • een inhoudelijke toelichting op het werk,
 
-- •. een curriculum vitae,
+- • een curriculum vitae,
 
-- •. een werkplan, met een presentatieplan.
+- • een werkplan, met een presentatieplan.
 
 ##### Artikel 4. Beoordeling
 
@@ -96,14 +73,12 @@ Naast het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3
 
 ##### Artikel 6. Overgangsbepaling
 
-De [Deelregeling Werkbijdrage Jong Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038802) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de Deelregeling Werkbijdrage Jong Talent 2017 voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
+De [Deelregeling Werkbijdrage Jong Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038802) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de Deelregeling Werkbijdrage Jong Talent 2017 voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstenaar Start
-
-Deze regeling zal in de Staatscourant worden geplaatst.

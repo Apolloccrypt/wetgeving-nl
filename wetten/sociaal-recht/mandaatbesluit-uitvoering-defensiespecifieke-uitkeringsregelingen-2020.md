@@ -1,47 +1,25 @@
 ---
 title: "Mandaatbesluit uitvoering defensiespecifieke uitkeringsregelingen 2020"
 identifier: "BWBR0043912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-22"
-last_updated: "2020-07-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043912"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15573173"
-version_id: "26905112"
-internal_id: "C38096341"
-label_id: "15514664"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043912/2020-07-22/0"
-intitule_bron: "Stcrt.2020-38732"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-13"
-intitule_published: "2020-07-21"
-intitule_in_force: "2020-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-38732"
-original_signed_date: "2020-07-13"
-original_published_date: "2020-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-38732"
-entry_into_force_date: "2020-07-22"
-jci_1_3: "jci1.3:c:BWBR0043912&z=2020-07-22&g=2020-07-22"
-jci_1_0: "1.0:c:BWBR0043912&g=2020-07-22"
-citeertitel_status: "officieel"
-signed_date: "2020-07-13"
-entry_into_force: "2020-07-22"
+publicatiedatum: 2020-07-22
+laatste_update: 2020-07-22
+status: geldig
+toestand: 2020-07-22
+bron: "https://wetten.overheid.nl/BWBR0043912"
+opgehaald: 2026-08-30
 ---
+
 # Mandaatbesluit uitvoering defensiespecifieke uitkeringsregelingen 2020
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van de Stichting Pensioenfonds ABP;
+- a. *bestuur:* het bestuur van de Stichting Pensioenfonds ABP;
 
-- b. **De Staatssecretaris:** de Staatsecretaris van Defensie.
+- b. *De Staatssecretaris:* de Staatsecretaris van Defensie.
 
 ##### Artikel 2
 
@@ -49,7 +27,7 @@ De Staatssecretaris verleent aan het bestuur mandaat om namens hem besluiten te 
 
 - a. De [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955), alsmede het daarop steunende [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223) met uitzondering van de artikelen [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=8a) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=11a) en het [Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222) met uitzondering van [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=11a);
 
-- b. Voor zover na die datum nog noodzakelijk, de voor 1 juni 2001 geldende militaire pensioenwetten of -regelingen;
+- b. Voor zover na die datum nog noodzakelijk, de voor 1 juni 2001 geldende militaire pensioenwetten of -regelingen;
 
 - c. De [Uitkeringswet gewezen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002540);
 
@@ -133,8 +111,4 @@ Het [mandaatbesluit uitvoering defensiespecifieke uitkeringsregelingen 2019](htt
 
 ##### Artikel 11
 
-Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt wat betreft [artikel 2, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22), terug tot en met 1 maart 2015.
-
-Besluit:
-
-Dit besluit wordt gepubliceerd in de serie Ministeriële Publicaties van het Ministerie van Defensie en zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt wat betreft [artikel 2, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBR0043912&artikel=2&z=2020-07-22&g=2020-07-22), terug tot en met 1 maart 2015.

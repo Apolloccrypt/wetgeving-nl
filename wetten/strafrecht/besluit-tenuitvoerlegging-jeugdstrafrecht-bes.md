@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 16 juli 2020, houdende vaststelling van regels voor de tenuitvoerlegging van het jeugdstrafrecht op Bonaire, Sint-Eustatius en Saba (Besluit tenuitvoerlegging jeugdstrafrecht BES)"
+citeertitel: "Besluit tenuitvoerlegging jeugdstrafrecht BES"
 identifier: "BWBR0043946"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2020-08-01"
-last_updated: "2020-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043946"
+categorie: "Strafrecht"
 soort: "AMvB-BES"
-stam_id: "15579413"
-version_id: "26917852"
-internal_id: "C38114111"
-label_id: "15521174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043946/2020-08-01/0"
-intitule_bron: "Stb.2020-288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-16"
-intitule_published: "2020-07-24"
-intitule_in_force: "2020-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2020-288"
-original_signed_date: "2020-07-16"
-original_published_date: "2020-07-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-288"
-entry_into_force_date: "2020-08-01"
-jci_1_3: "jci1.3:c:BWBR0043946&z=2020-08-01&g=2020-08-01"
-jci_1_0: "1.0:c:BWBR0043946&g=2020-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit tenuitvoerlegging jeugdstrafrecht BES"
-signed_date: "2020-07-16"
-entry_into_force: "2020-08-01"
+publicatiedatum: 2020-08-01
+laatste_update: 2020-08-01
+status: geldig
+toestand: 2020-08-01
+bron: "https://wetten.overheid.nl/BWBR0043946"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 16 juli 2020, houdende vaststelling van regels voor de tenuitvoerlegging van het jeugdstrafrecht op Bonaire, Sint-Eustatius en Saba (Besluit tenuitvoerlegging jeugdstrafrecht BES)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 13 maart 2020, directie Wetgeving en Juridische Zaken, nr. 2859101;
-
-Gelet op de [artikelen 79e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79e), en [79v, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79v);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 juni 2020, nr. No.W16.20.0074/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 13 juli 2020, directie Wetgeving en Juridische Zaken, nr. 2948367.
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
@@ -52,33 +20,33 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- −. **bevel voorlopige hechtenis:** bevel als bedoeld in [artikel 484 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=484);
+- − *bevel voorlopige hechtenis:* bevel als bedoeld in [artikel 484 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=484);
 
-- −. **jeugddetentie:** jeugddetentie als bedoeld in [artikel 79h, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79h);
+- − *jeugddetentie:* jeugddetentie als bedoeld in [artikel 79h, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79h);
 
-- −. **jeugdige:** persoon ten aanzien van wie de [artikelen 79a tot en met 79w van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79a) toepassing hebben gevonden;
+- − *jeugdige:* persoon ten aanzien van wie de [artikelen 79a tot en met 79w van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79a) toepassing hebben gevonden;
 
-- −. **onveroordeelde:** persoon ten aanzien van wie een bevel voorlopige hechtenis is gegeven als bedoeld in [artikel 484, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=484);
+- − *onveroordeelde:* persoon ten aanzien van wie een bevel voorlopige hechtenis is gegeven als bedoeld in [artikel 484, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=484);
 
-- −. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- − *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- −. **openbaar ministerie:** het openbaar ministerie bij het gerecht dat de straf van jeugddetentie of van plaatsing in een inrichting voor jeugdigen heeft opgelegd;
+- − *openbaar ministerie:* het openbaar ministerie bij het gerecht dat de straf van jeugddetentie of van plaatsing in een inrichting voor jeugdigen heeft opgelegd;
 
-- −. **pij-maatregel:** maatregel van plaatsing in een inrichting voor jeugdigen als bedoeld in [artikel 79h, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79h);
+- − *pij-maatregel:* maatregel van plaatsing in een inrichting voor jeugdigen als bedoeld in [artikel 79h, derde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79h);
 
-- −. **project:** project als bedoeld in [artikel 79e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79e);
+- − *project:* project als bedoeld in [artikel 79e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=79e);
 
-- −. **reclassering:** de Stichting Reclassering Caribisch Nederland, bedoeld in artikel 1 juncto 4 van het Reclasseringsbesluit BES en de Jeugdzorg en Gezinsvoogdij Caribisch Nederland;
+- − *reclassering:* de Stichting Reclassering Caribisch Nederland, bedoeld in artikel 1 juncto 4 van het Reclasseringsbesluit BES en de Jeugdzorg en Gezinsvoogdij Caribisch Nederland;
 
-- −. **verblijfsplan:** plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.3&artikel=10&z=2020-08-01&g=2020-08-01) van dit besluit;
+- − *verblijfsplan:* plan als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0043946&hoofdstuk=3&paragraaf=3.3&artikel=10&z=2020-08-01&g=2020-08-01) van dit besluit;
 
-- −. **voogdijraad:** de voogdijraad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
+- − *voogdijraad:* de voogdijraad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
 
-- −. **voorwaardelijke veroordeling:** voorwaardelijke oplegging als bedoeld in [Titel VIIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=VIIIa);
+- − *voorwaardelijke veroordeling:* voorwaardelijke oplegging als bedoeld in [Titel VIIIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=VIIIa);
 
-- −. **vrijheidsbeneming:** de tenuitvoerlegging van een bevel voorlopige hechtenis, jeugddetentie of pij-maatregel;
+- − *vrijheidsbeneming:* de tenuitvoerlegging van een bevel voorlopige hechtenis, jeugddetentie of pij-maatregel;
 
-- −. **wet:** het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570).
+- − *wet:* het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570).
 
 ### Hoofdstuk 2. Over de afdoening met een project
 
@@ -511,5 +479,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit tenuitvoerlegging jeugdstrafrecht BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

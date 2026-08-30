@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1746006-210301-PG, houdende regels voor het verstrekken van subsidie aan abortusklinieken voor de opleiding van abortusartsen (Subsidieregeling opleiding abortusartsen)"
+citeertitel: "Subsidieregeling opleiding abortusartsen"
 identifier: "BWBR0044185"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-31"
-last_updated: "2025-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044185"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15653873"
-version_id: "27063212"
-internal_id: "C38284411"
-label_id: "15593544"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044185/2025-12-31/0"
-intitule_bron: "Stcrt.2020-51826"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-29"
-intitule_published: "2020-10-08"
-intitule_in_force: "2020-10-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-51826"
-original_signed_date: "2020-09-29"
-original_published_date: "2020-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-51826"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044185&z=2025-12-31&g=2025-12-31"
-jci_1_0: "1.0:c:BWBR0044185&g=2025-12-31"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling opleiding abortusartsen"
-signed_date: "2020-09-29"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-12-31
+status: geldig
+toestand: 2025-12-31
+bron: "https://wetten.overheid.nl/BWBR0044185"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Medische Zorg van 29 september 2020, kenmerk 1746006-210301-PG, houdende regels voor het verstrekken van subsidie aan abortusklinieken voor de opleiding van abortusartsen (Subsidieregeling opleiding abortusartsen)
-
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **abortuskliniek:** een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1);
+- a. *abortuskliniek:* een abortuskliniek als bedoeld in [artikel 1 van de Wet afbreking zwangerschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003396&artikel=1);
 
-- b. **erkenning:** een schriftelijke verklaring van het NGvA dat de abortuskliniek door het NGvA voor een bepaalde periode erkend is als opleidingskliniek;
+- b. *erkenning:* een schriftelijke verklaring van het NGvA dat de abortuskliniek door het NGvA voor een bepaalde periode erkend is als opleidingskliniek;
 
-- c. **minister:** Minister voor Medische Zorg;
+- c. *minister:* Minister voor Medische Zorg;
 
-- d. **NGvA:** het Nederlands Genootschap van Abortusartsen;
+- d. *NGvA:* het Nederlands Genootschap van Abortusartsen;
 
-- e. **opleideling:** natuurlijk persoon die een opleiding tot abortusarts of sedationist volgt in een opleidingskliniek;
+- e. *opleideling:* natuurlijk persoon die een opleiding tot abortusarts of sedationist volgt in een opleidingskliniek;
 
-- f. **opleidingskliniek:** een abortuskliniek die door het NGvA erkend is voor het verzorgen van de opleiding tot abortusarts of sedationist;
+- f. *opleidingskliniek:* een abortuskliniek die door het NGvA erkend is voor het verzorgen van de opleiding tot abortusarts of sedationist;
 
-- g. **opleidingsplaats:** capaciteit bij een abortuskliniek om een opleideling op te leiden;
+- g. *opleidingsplaats:* capaciteit bij een abortuskliniek om een opleideling op te leiden;
 
-- h. **samenwerkingsverband:** meerdere abortusklinieken die gezamenlijk een opleiding tot abortusarts of sedationist verzorgen.
+- h. *samenwerkingsverband:* meerdere abortusklinieken die gezamenlijk een opleiding tot abortusarts of sedationist verzorgen.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.4), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.6), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7) en [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.10).
 
@@ -80,21 +54,21 @@ Subsidie kan uitsluitend verstrekt worden aan een abortuskliniek die in het bezi
 
 1. De subsidie voor het verzorgen van een opleiding tot abortusarts bedraagt maximaal:
 
-- a. € 92.736 per opleidingsplaats eerste trimester abortusarts;
+- a. € 92.736 per opleidingsplaats eerste trimester abortusarts;
 
-- b. € 178.368 per opleidingsplaats tweede trimester A abortusarts;
+- b. € 178.368 per opleidingsplaats tweede trimester A abortusarts;
 
-- c. € 211.767 per opleidingsplaats tweede trimester B abortusarts.
+- c. € 211.767 per opleidingsplaats tweede trimester B abortusarts.
 
 2. De subsidie voor het verzorgen van een opleiding tot sedationist bedraagt maximaal:
 
-- a. € 11.086 per opleidingsplaats voor een eerste trimester opleideling;
+- a. € 11.086 per opleidingsplaats voor een eerste trimester opleideling;
 
-- b. € 18.571 per opleidingsplaats voor een eerste trimester abortusarts;
+- b. € 18.571 per opleidingsplaats voor een eerste trimester abortusarts;
 
-- c. € 22.480 per opleidingsplaats voor een tweede trimester A abortusarts;
+- c. € 22.480 per opleidingsplaats voor een tweede trimester A abortusarts;
 
-- d. € 24.891 per opleidingsplaats voor een tweede trimester B abortusarts.
+- d. € 24.891 per opleidingsplaats voor een tweede trimester B abortusarts.
 
 ##### Artikel 6. Aanvraag tot verlening van subsidie
 
@@ -154,10 +128,8 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2031.
+Deze regeling treedt in werking met ingang van 1 januari 2021 en vervalt met ingang van 1 januari 2031.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling opleiding abortusartsen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

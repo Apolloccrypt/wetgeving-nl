@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20142740 houdende regels voor de uitvoering van de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet"
+citeertitel: "Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers"
 identifier: "BWBR0043793"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043793"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15542243"
-version_id: "31243092"
-internal_id: "C44681841"
-label_id: "15484174"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043793/2026-01-01/0"
-intitule_bron: "Stcrt.2020-36363"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-30"
-intitule_published: "2020-07-03"
-intitule_in_force: "2020-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43782"
-original_signed_date: "2025-12-14"
-original_published_date: "2025-12-23"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-43782"
-entry_into_force_date: "2025-12-14"
-jci_1_3: "jci1.3:c:BWBR0043793&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0043793&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers"
-signed_date: "2025-12-14"
-entry_into_force: "2025-12-14"
+publicatiedatum: 2025-12-14
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0043793"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20142740 houdende regels voor de uitvoering van de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet
-
-Gelet op [artikel 10m van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10m);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **aangeslotene:** aangeslotene op het transmissie- of distributiesysteem van gas op wie het verbod van toepassing is;
+- – *aangeslotene:* aangeslotene op het transmissie- of distributiesysteem van gas op wie het verbod van toepassing is;
 
-- –. **minister:** Minister van Klimaat en Groene Groei;
+- – *minister:* Minister van Klimaat en Groene Groei;
 
-- –. **omschakelen:** omschakelen als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- – *omschakelen:* omschakelen als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- –. **verbod:** verbod als bedoeld in [artikel 2.63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63);
+- – *verbod:* verbod als bedoeld in [artikel 2.63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.63);
 
-- –. **wet:** [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
+- – *wet:*
+ [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714).
 
 ##### Artikel 2
 
@@ -72,9 +47,9 @@ In deze regeling wordt verstaan onder:
 
 - c. een gedetailleerde beschrijving van de betrokken installaties en verbindingen, waar mogelijk voorzien van beeldmateriaal:
 
-- 1⁰. voor aanpassing of vervanging als gevolg van het verbod; en
+   - 1⁰. voor aanpassing of vervanging als gevolg van het verbod; en
 
-- 2⁰. nadat het omschakelen of het afsluiten is afgerond;
+   - 2⁰. nadat het omschakelen of het afsluiten is afgerond;
 
 - d. een overzicht van de activiteiten die de aangeslotene als gevolg van het verbod heeft verricht, het moment waarop deze activiteiten hebben plaatsgevonden alsmede een toelichting op keuze voor verrichte activiteiten en, indien van toepassing de relevante investeringsbeslissingen waarop de activiteiten zijn gebaseerd en datum daarvan;
 
@@ -92,9 +67,9 @@ In deze regeling wordt verstaan onder:
 
 - k. een controleverklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit:
 
-- i. de getrouwheid van de normjaaromzet en het normbrutowinstpercentage, bedoeld in onderdeel j, blijkt, en
+   - i. de getrouwheid van de normjaaromzet en het normbrutowinstpercentage, bedoeld in onderdeel j, blijkt, en
 
-- ii. indien van toepassing, in het geval dat de gelieerde rechtspersonen dermate met de aangeslotene zijn verbonden, blijkt dat de aangeslotene en gelieerde rechtspersonen gezamenlijk een economische eenheid vormen;
+   - ii. indien van toepassing, in het geval dat de gelieerde rechtspersonen dermate met de aangeslotene zijn verbonden, blijkt dat de aangeslotene en gelieerde rechtspersonen gezamenlijk een economische eenheid vormen;
 
 - l. het nummer en de tenaamstelling van de bankrekening van de aangeslotene waarop een betaling van een vergoeding kan plaatsvinden.
 
@@ -112,6 +87,10 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de schade mede is veroorzaakt door een besluit waartegen beroep kan worden ingesteld, kan de minister de beslissing aanhouden totdat het besluit onherroepelijk is geworden.
 
+##### Artikel 4a
+
+Deze regeling berust op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
+
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling nadeelcompensatie verbod laagcalorisch gas grootste afnemers.
@@ -119,11 +98,3 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling nadeelcompensatie verbod
 ##### Artikel 6
 
 Deze regeling treedt in werking op in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-Deze regeling berust op [artikel 5.15 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.15).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

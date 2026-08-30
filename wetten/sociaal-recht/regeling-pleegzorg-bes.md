@@ -1,84 +1,68 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 juni 2020, kenmerk 1671339-203979-WJZ, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Regeling pleegzorg BES)"
+citeertitel: "Regeling pleegzorg BES"
 identifier: "BWBR0043751"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043751"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "15530533"
-version_id: "29733792"
-internal_id: "C42616111"
-label_id: "15472844"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043751/2026-01-01/0"
-intitule_bron: "Stcrt.2020-33074"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-16"
-intitule_published: "2020-06-23"
-intitule_in_force: "2020-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31554"
-original_signed_date: "2023-11-09"
-original_published_date: "2023-11-17"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-31554"
-entry_into_force_date: "2023-11-09"
-jci_1_3: "jci1.3:c:BWBR0043751&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0043751&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling pleegzorg BES"
-signed_date: "2023-11-09"
-entry_into_force: "2023-11-09"
+publicatiedatum: 2023-11-09
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0043751"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 juni 2020, kenmerk 1671339-203979-WJZ, houdende nadere regels voor de uitvoering van pleegzorg op Bonaire, Sint Eustatius en Saba (Regeling pleegzorg BES)
-
-Gelet op [artikel 4, tweede lid, van het Besluit pleegzorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043716&artikel=4);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **Besluit:** [Besluit pleegzorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043716)
+- – *Besluit:*
+ [Besluit pleegzorg BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043716)
 
 ##### Artikel 2
 
 1. Het in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043716&artikel=4) bedoelde basisbedrag van de vergoeding voor de verzorging en opvoeding van een pleegkind bedraagt:
 
-- a. indien het pleeggezin woonachtig is op het openbaar lichaam Bonaire:
+- a. indien het pleeggezin woonachtig is op het openbaar lichaam Bonaire: Leeftijd pleegkind
+ Bedrag per maand in USD
+ 0–8 jaar
+ 773
+ 9–11 jaar
+ 781
+ 12–15 jaar
+ 852
+ 16–17 jaar
+ 940
+ 18+ jaar
+ 950
 
-| Leeftijd pleegkind | Bedrag per maand in USD |
-| --- | --- |
-| 0–8 jaar | 773 |
-| 9–11 jaar | 781 |
-| 12–15 jaar | 852 |
-| 16–17 jaar | 940 |
-| 18+ jaar | 950 |
+- b. indien het pleeggezin woonachtig is op het openbaar lichaam Sint Eustatius: Leeftijd pleegkind
+ Bedrag per maand in USD
+ 0–8 jaar
+ 771
+ 9–11 jaar
+ 779
+ 12–15 jaar
+ 843
+ 16–17 jaar
+ 983
+ 18+ jaar
+ 935
 
-- b. indien het pleeggezin woonachtig is op het openbaar lichaam Sint Eustatius:
-
-| Leeftijd pleegkind | Bedrag per maand in USD |
-| --- | --- |
-| 0–8 jaar | 771 |
-| 9–11 jaar | 779 |
-| 12–15 jaar | 843 |
-| 16–17 jaar | 983 |
-| 18+ jaar | 935 |
-
-- c. indien het pleeggezin woonachtig is op het openbaar lichaam Saba:
-
-| Leeftijd pleegkind | Bedrag per maand in USD |
-| --- | --- |
-| 0–8 jaar | 814 |
-| 9–11 jaar | 822 |
-| 12–15 jaar | 891 |
-| 16–17 jaar | 1038 |
-| 18+ jaar | 987 |
+- c. indien het pleeggezin woonachtig is op het openbaar lichaam Saba: Leeftijd pleegkind
+ Bedrag per maand in USD
+ 0–8 jaar
+ 814
+ 9–11 jaar
+ 822
+ 12–15 jaar
+ 891
+ 16–17 jaar
+ 1038
+ 18+ jaar
+ 987
 
 2. Het basisbedrag bedoeld in het eerste lid, kan worden verminderd voor de periode gedurende welke een pleegkind als gevolg van bijzondere omstandigheden tijdelijk niet bij de pleegouder verblijft. Alsdan worden de door de pleegouder werkelijk gemaakte noodzakelijke kosten vergoed tot ten hoogste het basisbedrag.
 
@@ -112,20 +96,16 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2026-01-01&g=2026-01-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister een bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043751&artikel=3&z=2026-01-01&g=2026-01-01) bedoelde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
+
+##### Artikel 5a
+
+*Vervallen*
 
 ##### Artikel 6
 
-Deze regeling treedt in werking op 1 juli 2020.
+Deze regeling treedt in werking op 1 juli 2020.
 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling pleegzorg BES.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-Vervallen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

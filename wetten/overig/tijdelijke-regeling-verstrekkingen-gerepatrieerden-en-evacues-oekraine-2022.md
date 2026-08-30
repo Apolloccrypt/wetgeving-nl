@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0046353"
-opgehaald: 2026-08-29
+opgehaald: 2026-08-30
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 februari 2022, 2022-0000055777, tot het tijdelijk doen van verstrekkingen aan gerepatrieerden en evacués ten gevolge van de crisis in Oekraïne in 2022 (Tijdelijke regeling verstrekkingen gerepatrieerden en evacués Oekraïne 2022)

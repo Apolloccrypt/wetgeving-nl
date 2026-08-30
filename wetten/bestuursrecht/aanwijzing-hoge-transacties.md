@@ -1,46 +1,27 @@
 ---
 title: "Aanwijzing hoge transacties"
 identifier: "BWBR0044047"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-09-04"
-last_updated: "2020-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044047"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15618213"
-version_id: "26999752"
-internal_id: "C38207481"
-label_id: "15558584"
-dtd_version: "2.0"
-original_entry_into_force: "2020-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044047/2020-09-04/0"
-intitule_bron: "Stcrt.2020-46166"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-09-04"
-intitule_in_force: "2020-09-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-46166"
-original_published_date: "2020-09-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-46166"
-entry_into_force_date: "2020-09-04"
-jci_1_3: "jci1.3:c:BWBR0044047&z=2020-09-04&g=2020-09-04"
-jci_1_0: "1.0:c:BWBR0044047&g=2020-09-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-09-04"
+publicatiedatum: 2020-09-04
+laatste_update: 2020-09-04
+status: geldig
+toestand: 2020-09-04
+bron: "https://wetten.overheid.nl/BWBR0044047"
+opgehaald: 2026-08-30
 ---
+
 # Aanwijzing hoge transacties
 
 ### Samenvatting
 
-Deze aanwijzing schetst de kaders voor het aanbieden van hoge transacties. Het begrip ‘hoge transactie’ is nader afgebakend en omvat alle transacties waarbij betaling van een geldsom aan de Staat met een boetecomponent van € 200.000 of meer aan de orde is én transacties met een totale transactiewaarde van € 1.000.000 of meer. De aanwijzing benoemt de uitgangspunten voor het aanbieden van dergelijke transacties en geeft procedurele regels. Onderdeel hiervan is de verplichte adviserende rol van de onafhankelijke Toetsingscommissie hoge transacties. Indien is besloten tot een hoge transactie maakt het OM dat in beginsel bekend via een persbericht. De aanwijzing geeft algemene uitgangspunten voor de informatie die in een persbericht moet worden opgenomen.
+Deze aanwijzing schetst de kaders voor het aanbieden van hoge transacties. Het begrip ‘hoge transactie’ is nader afgebakend en omvat alle transacties waarbij betaling van een geldsom aan de Staat met een boetecomponent van € 200.000 of meer aan de orde is én transacties met een totale transactiewaarde van € 1.000.000 of meer. De aanwijzing benoemt de uitgangspunten voor het aanbieden van dergelijke transacties en geeft procedurele regels. Onderdeel hiervan is de verplichte adviserende rol van de onafhankelijke Toetsingscommissie hoge transacties. Indien is besloten tot een hoge transactie maakt het OM dat in beginsel bekend via een persbericht. De aanwijzing geeft algemene uitgangspunten voor de informatie die in een persbericht moet worden opgenomen.
 
 ### 1. Inleiding
 
 Strafzaken kunnen op verschillende manieren worden afgedaan. Als de officier van justitie de zaak bewijsbaar acht, kan deze de verdachte dagvaarden om de zaak ter beoordeling aan de rechter voor te leggen, een strafbeschikking uitvaardigen of de strafzaak al dan niet voorwaardelijk seponeren. Daarnaast kan de officier van justitie ervoor kiezen de verdachte een transactie aan te bieden om strafvervolging te voorkomen door te voldoen aan één of meer voorwaarden. De te stellen voorwaarden ter voorkoming van strafvervolging zijn in [artikel 74 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) en [artikel 36 WED](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=36) limitatief omschreven.
 
-Deze aanwijzing heeft betrekking op hoge transacties, dat wil zeggen transacties waarbij de voorwaarde ex [artikel 74, tweede lid sub a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) (betaling aan de Staat van een geldsom) een bedrag van € 200.000 of meer betreft én transacties met een totale transactiewaarde van € 1.000.000 of meer (inclusief ontneming van wederrechtelijk verkregen voordeel, de waarde van voor verbeurverklaring vatbare voorwerpen waarvan door verdachte afstand wordt gedaan en schadevergoeding). In de regel komen hoge transacties alleen voor in relatie tot rechtspersonen. Dat houdt onder meer verband met de omstandigheid dat aan een rechtspersoon veelal geen andere straf kan worden opgelegd dan een geldboete. Bovendien kan deze wijze van afdoening invloed hebben op de aanpassing van de bedrijfscultuur om verdere overtreding van de regels te voorkomen. Ook wordt aan verdachte, benadeelde partijen en samenleving op kortere termijn dan bij strafvervolging duidelijkheid verschaft over de afdoening van een zaak. Daarmee kan een hoge transactie uiteindelijk meer effect sorteren dan strafvervolging.
+Deze aanwijzing heeft betrekking op hoge transacties, dat wil zeggen transacties waarbij de voorwaarde ex [artikel 74, tweede lid sub a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) (betaling aan de Staat van een geldsom) een bedrag van € 200.000 of meer betreft én transacties met een totale transactiewaarde van € 1.000.000 of meer (inclusief ontneming van wederrechtelijk verkregen voordeel, de waarde van voor verbeurverklaring vatbare voorwerpen waarvan door verdachte afstand wordt gedaan en schadevergoeding). In de regel komen hoge transacties alleen voor in relatie tot rechtspersonen. Dat houdt onder meer verband met de omstandigheid dat aan een rechtspersoon veelal geen andere straf kan worden opgelegd dan een geldboete. Bovendien kan deze wijze van afdoening invloed hebben op de aanpassing van de bedrijfscultuur om verdere overtreding van de regels te voorkomen. Ook wordt aan verdachte, benadeelde partijen en samenleving op kortere termijn dan bij strafvervolging duidelijkheid verschaft over de afdoening van een zaak. Daarmee kan een hoge transactie uiteindelijk meer effect sorteren dan strafvervolging.
 
 Al enige tijd bestaat de politieke wens om wettelijk vast te leggen dat de rechter hoge transacties toetst voordat deze aan de verdachte kunnen worden aangeboden. Totdat dit wettelijk geregeld is, geldt de in deze aanwijzing opgenomen regeling waarin toetsing van een voorgenomen hoge transactie door een onafhankelijke commissie plaatsvindt.
 
@@ -58,17 +39,65 @@ Op grond van [artikel 74b Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&ar
 
 Een transactie wordt in deze aanwijzing aangemerkt als hoge transactie:
 
+- a. als de voorwaarde ex [artikel 74, tweede lid onder a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) (betaling aan de Staat van een geldsom) het totaal door de verdachte te betalen bedrag € 200.000 of meer bedraagt, tenzij:
+
+   - – sprake is van een aanbod van de verdachte om – overeenkomstig het bepaalde in [artikel 74a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74a) – bij een strafbaar feit waarop naar de wettelijke omschrijving geen andere straf is gesteld dan geldboete het maximum van de geldboete te betalen en te voldoen aan alle overige krachtens [artikel 74, tweede lid Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74) te stellen voorwaarden,
+
+   - – sprake is van een boetebedrag of een cumulatie van boetebedragen rechtstreeks volgend uit strafvorderingsrichtlijnen van het College van procureurs-generaal.
+
+- b. als het totale bedrag dat met de transactie is gemoeid € 1.000.000 of meer bedraagt, inclusief: Dientengevolge worden in deze aanwijzing ook transacties van meer dan € 1.000.000 zonder een boetecomponent als bedoeld in [artikel 74, tweede lid 2 onder a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74), als hoge transactie aangemerkt.
+
+   - – de waarde van geldbedragen of inbeslaggenomen voorwerpen, welke door verdachte worden voldaan c.q. overgedragen aan de staat ter ontneming van wederrechtelijk verkregen voordeel,
+
+   - – het bedrag van de schade die wordt vergoed,
+
+   - – de waarde van inbeslaggenomen geldbedragen of voorwerpen die vatbaar zijn voor verbeurdverklaring, waarvan door verdachte afstand wordt gedaan,
+
+   - – de waarde van niet-inbeslaggenomen geldbedragen of voorwerpen die vatbaar zijn voor verbeurdverklaring, die door verdachte worden uitgeleverd of waarvan de geschatte waarde aan de staat wordt voldaan.
+
 ### 4. Uitgangspunten voor het aanbieden van een hoge transactie
 
 Voor het aanbieden van een hoge transactie zijn allereerst de criteria van toepassing die gelden ten aanzien van iedere transactie.
 
-Specifiek voor het aanbieden van een hoge transactie zoals bedoeld in paragraaf 3 van deze aanwijzing geldt bovendien de voorwaarde dat de feitelijke gedragingen die grond zijn voor de transactie door de verdacht worden erkend. Zonder erkenning van die feitelijke gedragingen zal immers ook niet het besef bestaan dat er binnen de verdachte rechtspersoon veranderingen moeten worden doorgevoerd om de gemaakte fouten in de toekomst te voorkomen.1Deze erkenning kan ook worden afgeleid uit de omstandigheid dat de verdachte meewerkt aan het strafrechtelijk onderzoek en – indien nodig – maatregelen treft, zoals (verbeteringen ten aanzien van) een compliance-beleid om herhaling in de toekomst te voorkomen (vgl. **Kamerstukken II 2018/19**, 29 279, nr. 502). Deze eis van erkenning houdt nadrukkelijk geen erkenning van schuld aan een strafbaar feit in; instemming met de door de officier van justitie toepasselijk geachte strafbaarstellingen (de juridische kwalificatie van de feiten) is niet noodzakelijk.
+- • Een transactie kan alleen worden toegepast bij overtredingen en bij misdrijven waarop een gevangenisstraf van niet meer dan zes jaar is gesteld (vgl. [artikel 74 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74)).
+
+- • Er moet in de aan de transactie ten grondslag liggende strafzaak zowel bewijstechnisch als beleidsmatig voldoende grond aanwezig zijn om tot dagvaarding te kunnen overgaan.
+
+- • Het OM dient op basis van de regels van het strafprocesrecht een vervolgingsbeslissing te nemen gebaseerd op een autonome afweging.
+
+- • Bij die afweging worden de belangen van betrokkenen, in het bijzonder die van slachtoffers en benadeelde partijen, uitdrukkelijk meegewogen.
+
+- • Het delict waarvoor de transactie wordt aangeboden zal, indien de zaak aan de rechter zou worden voorgelegd, naar redelijkerwijs te verwachten is met een vermogensrechtelijke sanctie worden afgedaan.
+
+- • De vrijwillige acceptatie van het aanbod door verdachte is essentieel. Een verdachte kan een transactie altijd weigeren en zo de zaak laten voorkomen bij de rechter.
+
+Specifiek voor het aanbieden van een hoge transactie zoals bedoeld in [paragraaf 3](https://wetten.overheid.nl/BWBR0044047) van deze aanwijzing geldt bovendien de voorwaarde dat de feitelijke gedragingen die grond zijn voor de transactie door de verdacht worden erkend. Zonder erkenning van die feitelijke gedragingen zal immers ook niet het besef bestaan dat er binnen de verdachte rechtspersoon veranderingen moeten worden doorgevoerd om de gemaakte fouten in de toekomst te voorkomen.1Deze erkenning kan ook worden afgeleid uit de omstandigheid dat de verdachte meewerkt aan het strafrechtelijk onderzoek en – indien nodig – maatregelen treft, zoals (verbeteringen ten aanzien van) een compliance-beleid om herhaling in de toekomst te voorkomen (vgl. *Kamerstukken II 2018/19*, 29 279, nr. 502). Deze eis van erkenning houdt nadrukkelijk geen erkenning van schuld aan een strafbaar feit in; instemming met de door de officier van justitie toepasselijk geachte strafbaarstellingen (de juridische kwalificatie van de feiten) is niet noodzakelijk.
 
 Daarnaast kunnen voor de vraag of een hoge transactie tot de afdoeningsmogelijkheden behoort de volgende aspecten een rol spelen:
+
+- – maatregelen die verdachte heeft getroffen of toezegt te treffen ten aanzien van de compliance ter voorkoming van verdere overtredingen,
+
+- – de rol van verdachte bij het aan het licht brengen van de strafbare feiten,
+
+- – internationale samenhang van onderzoeken en gezamenlijke afdoening,
+
+- – vergoeding van eventuele schade of bereidheid daartoe.
 
 Strafrechtelijke recidive vormt een contra-indicatie voor het aanbieden van een hoge transactie.
 
 Voor het bepalen van de hoogte van het transactiebedrag zijn voorts de volgende aspecten van belang:
+
+- – het draagkrachtbeginsel zoals bedoeld in [artikel 24 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24),
+
+- – is sprake van zelfmelding of niet,
+
+- – de mate waarin medewerking door verdachte is verleend aan het onderzoek,
+
+- – het treffen van een regeling met slachtoffers2Ingevolge artikel 51a Sv zijn hieronder ook nabestaanden begrepen.,
+
+- – straffen die de rechter in soortgelijke gevallen heeft opgelegd en transacties in vergelijkbare zaken,
+
+- – sancties die door buitenlandse autoriteiten zijn opgelegd.
 
 Voornoemde criteria en aspecten hebben reeds tot gevolg dat een hoge transactie niet vaak aan de orde zal zijn. Bij rechtspersonen zal doorslaggevend zijn dat de rechter, naar alle waarschijnlijkheid, ook een geldboete zou opleggen en dat, vanwege de maatregelen die een verdachte rechtspersoon moet treffen in het kader van compliance, met een transactie meer kan worden bereikt dan met het vervolgen van verdachte.
 
@@ -77,6 +106,12 @@ Bij verdachte rechtspersonen kunnen natuurlijke personen ook als verdachte worde
 In het kader van de naleving van de transactieovereenkomst kan de hulp worden ingeroepen van externe toezichthouders, zoals een omgevingsdienst, De Nederlandsche Bank of de Autoriteit Persoonsgegevens. Ook kunnen specifieke interne toezichtmaatregelen met verdachten overeen worden gekomen, zoals het instellen van een monitor. Daarnaast kan de rechtspersoon worden opgedragen regelmatig te rapporteren aan de Raad van Commissarissen.
 
 ### 5. Procedure
+
+- a. *Instemming hoofdofficier van justitie* In elk geval waarin de officier van justitie overweegt een strafzaak af te doen door middel van het aanbieden van een hoge transactie, legt hij dit voornemen voor aan de hoofdofficier van justitie van zijn parket. Het transactievoorstel wordt ter goedkeuring voorgelegd aan het College van procureurs-generaal.
+
+- b. *Advisering door de Toetsingscommissie hoge transacties* Het College vraagt vervolgens het advies aan de Toetsingscommissie hoge transacties. Bij de adviesaanvraag worden het gemotiveerde transactievoorstel, een feitenrelaas inclusief de toepasselijke strafbepalingen en het conceptpersbericht gevoegd. De Toetsingscommissie beoordeelt op basis van deze stukken en gehoord hebbende de (vertegenwoordiger(s) van de) hoofdofficier van het betreffende parket en de (vertegenwoordiger(s) van de) verdachte en zijn advocaat, of, gelet op alle omstandigheden van het geval en met inachtneming van de uitgangspunten in deze aanwijzing, sprake is van een passende afdoening waartoe het OM in redelijkheid kan besluiten. Het betreft derhalve een marginale toets. De Toetsingscommissie brengt advies uit aan het College van procureurs-generaal.
+
+- c. *Besluitvorming door het College van procureurs-generaal* Na positief advies van de Toetsingscommissie beslist het College van procureurs-generaal met inachtneming van het advies, of het transactievoorstel aan de verdachte wordt aangeboden. Na negatief advies van de Toetsingscommissie wordt de zaak in handen gesteld van de hoofdofficier van justitie om een nieuwe vervolgingsbeslissing te nemen.
 
 ### 6. Maatschappelijke verantwoording en transparantie
 

@@ -1,40 +1,17 @@
 ---
 title: "Kunst Verbinding"
 identifier: "BWBR0044480"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-02-01"
-last_updated: "2023-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044480"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15747713"
-version_id: "27287202"
-internal_id: "C38548661"
-label_id: "15686034"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044480/2023-02-01/0"
-intitule_bron: "Stcrt.2020-62368"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62368"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62368"
-entry_into_force_date: "2020-12-15"
-jci_1_3: "jci1.3:c:BWBR0044480&z=2023-02-01&g=2023-02-01"
-jci_1_0: "1.0:c:BWBR0044480&g=2023-02-01"
-citeertitel_status: "officieel"
-entry_into_force: "2020-12-15"
+publicatiedatum: 2020-12-15
+laatste_update: 2023-02-01
+status: geldig
+toestand: 2023-02-01
+bron: "https://wetten.overheid.nl/BWBR0044480"
+opgehaald: 2026-08-30
 ---
+
 # Kunst Verbinding
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -68,17 +45,17 @@ Het bestuur kan subsidie weigeren als:
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0038798), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- –. een beschrijving van de missie, de visie en het profiel van de organisatie, de daarbij betrokken personen, de activiteiten in recente jaren met nadruk op innovatieve ontwikkelingen op artistiek en organisatorisch vlak en de aard van de programmering;
+- – een beschrijving van de missie, de visie en het profiel van de organisatie, de daarbij betrokken personen, de activiteiten in recente jaren met nadruk op innovatieve ontwikkelingen op artistiek en organisatorisch vlak en de aard van de programmering;
 
-- –. een plan dat de volgende onderdelen bevat:
+- – een plan dat de volgende onderdelen bevat:
 
-- a. een doordacht programma met een artistiek inhoudelijke basis en een motivering daarvoor, met nadruk op het beeldende kunst aspect
+   - a. een doordacht programma met een artistiek inhoudelijke basis en een motivering daarvoor, met nadruk op het beeldende kunst aspect
 
-- b. een presentatieplan waarin toegelicht wordt op welk type publiek de organisatie zich richt en hoe dit publiek wordt bereikt;
+   - b. een presentatieplan waarin toegelicht wordt op welk type publiek de organisatie zich richt en hoe dit publiek wordt bereikt;
 
-- c. een toelichting op de lokale inbedding van de instelling, zoals ook kan blijken uit bijdragen van de lokale overheid;
+   - c. een toelichting op de lokale inbedding van de instelling, zoals ook kan blijken uit bijdragen van de lokale overheid;
 
-- –. een begroting met dekkingsplan en indien van toepassing offertes.
+- – een begroting met dekkingsplan en indien van toepassing offertes.
 
 ##### Artikel 7. Beoordeling
 
@@ -112,10 +89,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Kunst Verbinding.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

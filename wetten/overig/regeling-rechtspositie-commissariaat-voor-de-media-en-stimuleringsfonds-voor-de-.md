@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2020, nr. 24938080, houdende regels met betrekking tot de rechtspositie van de voorzitter en leden van het Commissariaat voor de Media en de leden van het bestuur van het Stimuleringsfonds voor de journalistiek (Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de Journalistiek)"
+citeertitel: "Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de journalistiek"
 identifier: "BWBR0043929"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043929"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15576623"
-version_id: "26913262"
-internal_id: "C38108181"
-label_id: "15518324"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043929/2020-10-01/0"
-intitule_bron: "Stcrt.2020-39172"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-07"
-intitule_published: "2020-07-23"
-intitule_in_force: "2020-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-39172"
-original_signed_date: "2020-07-07"
-original_published_date: "2020-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-39172"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0043929&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0043929&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de journalistiek"
-signed_date: "2020-07-07"
-entry_into_force: "2020-10-01"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0043929"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juli 2020, nr. 24938080, houdende regels met betrekking tot de rechtspositie van de voorzitter en leden van het Commissariaat voor de Media en de leden van het bestuur van het Stimuleringsfonds voor de journalistiek (Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de Journalistiek)
-
-Gelet op de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12), en [14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) en de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.2) en [8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Commissariaat:** Commissariaat voor de Media;
+- a. *Commissariaat:* Commissariaat voor de Media;
 
-- b. **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **Stimuleringsfonds:** Stimuleringsfonds voor de journalistiek.
+- c. *Stimuleringsfonds:* Stimuleringsfonds voor de journalistiek.
 
 ### Hoofdstuk 2. Commissariaat voor de Media
 
@@ -104,7 +78,7 @@ De leden van het Commissariaat hebben recht op een vergoeding voor reis- en verb
 
 ##### Artikel 7. Vergoeding woon-werkverkeer en overige voorzieningen
 
-1. De leden van het Commissariaat hebben voor het vervoer tussen de vestigingsplaats van het Commissariaat en hun respectievelijke woonplaatsen naar keuze aanspraak op een vervoersbewijs openbaar vervoer 1e klasse of een vergoeding van € 0,20 per kilometer bij gebruikmaking van eigen vervoermiddelen.
+1. De leden van het Commissariaat hebben voor het vervoer tussen de vestigingsplaats van het Commissariaat en hun respectievelijke woonplaatsen naar keuze aanspraak op een vervoersbewijs openbaar vervoer 1e klasse of een vergoeding van € 0,20 per kilometer bij gebruikmaking van eigen vervoermiddelen.
 
 2. Het Commissariaat stelt aan de leden de overige voorzieningen, zoals ICT-voorzieningen, beschikbaar die noodzakelijk zijn voor het kunnen uitoefenen van hun functie.
 
@@ -208,14 +182,12 @@ De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043929&hoofdstuk=2&pa
 
 1. De [Bezoldigingsregeling Commissariaat voor de Media en Stimuleringsfonds voor de pers](https://wetten.overheid.nl/jci1.3:c:BWBR0025062) wordt ingetrokken.
 
-2. De [Bezoldigingsregeling Commissariaat voor de Media en Stimuleringsfonds voor de pers](https://wetten.overheid.nl/jci1.3:c:BWBR0025062), zoals deze luidde, onmiddellijk voor het tijdstip van intrekking, blijft van toepassing ten aanzien van leden van het Commissariaat of bestuur van het Stimuleringsfonds waarvan de benoeming voor 1 oktober 2020 plaatsvond.
+2. De [Bezoldigingsregeling Commissariaat voor de Media en Stimuleringsfonds voor de pers](https://wetten.overheid.nl/jci1.3:c:BWBR0025062), zoals deze luidde, onmiddellijk voor het tijdstip van intrekking, blijft van toepassing ten aanzien van leden van het Commissariaat of bestuur van het Stimuleringsfonds waarvan de benoeming voor 1 oktober 2020 plaatsvond.
 
 ##### Artikel 24. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 oktober 2020.
+Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling rechtspositie Commissariaat voor de Media en Stimuleringsfonds voor de journalistiek.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

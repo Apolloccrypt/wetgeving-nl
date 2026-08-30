@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 18 december 2020, nr. 3137827, houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie met betrekking tot geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing politie 2021)"
+citeertitel: "Regeling toetsing geweldsbeheersing politie 2021"
 identifier: "BWBR0044623"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044623"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15787923"
-version_id: "27370342"
-internal_id: "C38650891"
-label_id: "15725554"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044623/2025-04-01/0"
-intitule_bron: "Stcrt.2020-68074"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-18"
-intitule_published: "2020-12-23"
-intitule_in_force: "2020-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-68074"
-original_signed_date: "2020-12-18"
-original_published_date: "2020-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-68074"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044623&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0044623&g=2025-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling toetsing geweldsbeheersing politie 2021"
-signed_date: "2020-12-18"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0044623"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 18 december 2020, nr. 3137827, houdende vaststelling van bepalingen inzake toetsing van ambtenaren van politie met betrekking tot geweldsbeheersing, aanhoudings- en zelfverdedigingsvaardigheden en schietvaardigheid (Regeling toetsing geweldsbeheersing politie 2021)
-
-Gelet op artikel op [artikel 26, eerste en tweede lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=26);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 2, onderdelen a, c, en d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die rechtens is uitgerust met een of meer geweldsmiddelen;
+- a. *ambtenaar:* de ambtenaar van politie, bedoeld in [artikel 2, onderdelen a, c, en d, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die rechtens is uitgerust met een of meer geweldsmiddelen;
 
-- b. **geweldsmiddel:** geweldsmiddel als bedoeld in [artikel 1, vierde lid, onderdeel d, onder 1°, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1);
+- b. *geweldsmiddel:* geweldsmiddel als bedoeld in [artikel 1, vierde lid, onderdeel d, onder 1°, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en de andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=1);
 
-- c. **de toets geweldsbeheersing:** de door de Politieacademie samengestelde toets ter beoordeling van de kennis op het gebied van geweldsbeheersing volgens de kwalificatievereisten van een politieopleiding;
+- c. *de toets geweldsbeheersing:* de door de Politieacademie samengestelde toets ter beoordeling van de kennis op het gebied van geweldsbeheersing volgens de kwalificatievereisten van een politieopleiding;
 
-- d. **de toets aanhoudings- en zelfverdedigingsvaardigheden:** de door de Politieacademie samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de kwalificatievereisten van een politieopleiding;
+- d. *de toets aanhoudings- en zelfverdedigingsvaardigheden:* de door de Politieacademie samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden volgens de kwalificatievereisten van een politieopleiding;
 
-- e. **de toets schietvaardigheid:** de door de Politieacademie samengestelde toets ter beoordeling van de schietvaardigheid voor een vuurwapen volgens de kwalificatievereisten van een politieopleiding die opleidt tot een ambtenaar die op grond van het [Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136) vanwege de taak waarmee hij is belast met dat vuurwapen is uitgerust;
+- e. *de toets schietvaardigheid:* de door de Politieacademie samengestelde toets ter beoordeling van de schietvaardigheid voor een vuurwapen volgens de kwalificatievereisten van een politieopleiding die opleidt tot een ambtenaar die op grond van het [Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136) vanwege de taak waarmee hij is belast met dat vuurwapen is uitgerust;
 
-- f. **de toets specialistische geweldsvaardigheid:** de door de Politieacademie samengestelde toets ter beoordeling van de vaardigheid voor het gebruik van een specialistisch geweldsmiddel, niet zijnde een vuurwapen, volgens de kwalificatievereisten van een politieopleiding die opleidt tot een ambtenaar die op grond van het [Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136) vanwege de taak waarmee hij is belast is uitgerust met dat specialistische geweldsmiddel;
+- f. *de toets specialistische geweldsvaardigheid:* de door de Politieacademie samengestelde toets ter beoordeling van de vaardigheid voor het gebruik van een specialistisch geweldsmiddel, niet zijnde een vuurwapen, volgens de kwalificatievereisten van een politieopleiding die opleidt tot een ambtenaar die op grond van het [Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136) vanwege de taak waarmee hij is belast is uitgerust met dat specialistische geweldsmiddel;
 
-- g. **toetser:** de ambtenaar van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die heeft voldaan aan de kwalificatievereisten van de daartoe strekkende opleiding en is gecertificeerd door de Politieacademie om de toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden, de toets schietvaardigheid, of de toets specialistische geweldsvaardigheid af te nemen.
+- g. *toetser:* de ambtenaar van politie, bedoeld in [artikel 2 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), die heeft voldaan aan de kwalificatievereisten van de daartoe strekkende opleiding en is gecertificeerd door de Politieacademie om de toets geweldsbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden, de toets schietvaardigheid, of de toets specialistische geweldsvaardigheid af te nemen.
 
-- h. **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- h. *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2
 
@@ -110,12 +84,10 @@ Indien een ambtenaar een van de omschreven toetsen niet of niet met voldoende re
 
 ##### Artikel 6
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2021.
+1. Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling toetsing geweldsbeheersing politie 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

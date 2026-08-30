@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 10 juni 2020, houdende regels over de onderzoeken die kunnen worden ingezet op Bonaire, Sint Eustatius en Saba ter vaststelling van het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen beïnvloeden (Besluit rijden onder invloed BES)"
+citeertitel: "Besluit rijden onder invloed BES"
 identifier: "BWBR0043727"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043727"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "15516483"
-version_id: "26812872"
-internal_id: "C37990841"
-label_id: "15459004"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043727/2022-07-01/0"
-intitule_bron: "Stb.2020-190"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-10"
-intitule_published: "2020-06-23"
-intitule_in_force: "2020-06-23"
-intitule_status: "goed"
-original_publication: "Stb.2020-190"
-original_signed_date: "2020-06-10"
-original_published_date: "2020-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-190"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043727&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0043727&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit rijden onder invloed BES"
-signed_date: "2020-06-10"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0043727"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 10 juni 2020, houdende regels over de onderzoeken die kunnen worden ingezet op Bonaire, Sint Eustatius en Saba ter vaststelling van het gebruik van alcohol of andere stoffen die de rijvaardigheid kunnen beïnvloeden (Besluit rijden onder invloed BES)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid, directie Wetgeving en Juridische Zaken, nr. 2803524;
-
-Gelet op [artikel 5a, derde lid, van de Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 maart 2020, nr. W16.20.0013/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 4 juni 2020, directie Wetgeving en Juridische Zaken, nr. 2921250;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **blaastest:** een blaastest als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5a);
+- a. *blaastest:* een blaastest als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5a);
 
-- b. **bloedonderzoek:** een onderzoek van bloed als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5a);
+- b. *bloedonderzoek:* een onderzoek van bloed als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028317&artikel=5a);
 
-- c. **eilandsverordening:** de verordening van Bonaire, Sint Eustatius of Saba op grond waarvan het een persoon niet is toegestaan een motorrijtuig te besturen of onder zijn onmiddellijk toezicht te doen besturen boven de voor alcohol vastgestelde grenswaarde;
+- c. *eilandsverordening:* de verordening van Bonaire, Sint Eustatius of Saba op grond waarvan het een persoon niet is toegestaan een motorrijtuig te besturen of onder zijn onmiddellijk toezicht te doen besturen boven de voor alcohol vastgestelde grenswaarde;
 
-- d. **opsporingsambtenaar:** een opsporingsambtenaar als bedoeld in [artikel 184, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
+- d. *opsporingsambtenaar:* een opsporingsambtenaar als bedoeld in [artikel 184, eerste lid, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
 
-- e. **wet:** de [Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028317).
+- e. *wet:* de [Wet aansprakelijkheid bestuurders, rijbevoegdheid en rijvaardigheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028317).
 
 #### § 2. Blaastest
 
@@ -221,5 +189,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit rijden onder invloed BES.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

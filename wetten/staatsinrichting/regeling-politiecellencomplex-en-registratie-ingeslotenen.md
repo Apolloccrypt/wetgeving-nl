@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 20 mei 2020, nr. 2898424, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen"
+citeertitel: "Regeling politiecellencomplex en registratie ingeslotenen"
 identifier: "BWBR0043596"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-01"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043596"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15477403"
-version_id: "26745102"
-internal_id: "C37905071"
-label_id: "15420354"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043596/2020-10-01/0"
-intitule_bron: "Stcrt.2020-28684"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-20"
-intitule_published: "2020-06-04"
-intitule_in_force: "2020-06-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-28684"
-original_signed_date: "2020-05-20"
-original_published_date: "2020-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-28684"
-entry_into_force_date: "2020-10-01"
-jci_1_3: "jci1.3:c:BWBR0043596&z=2020-10-01&g=2020-10-01"
-jci_1_0: "1.0:c:BWBR0043596&g=2020-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling politiecellencomplex en registratie ingeslotenen"
-signed_date: "2020-05-20"
-entry_into_force: "2020-10-01"
+publicatiedatum: 2020-10-01
+laatste_update: 2020-10-01
+status: geldig
+toestand: 2020-10-01
+bron: "https://wetten.overheid.nl/BWBR0043596"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 20 mei 2020, nr. 2898424, houdende regels over de inrichting van een politiecellencomplex en de registratie van gegevens van ingeslotenen
-
-Gelet op [artikel 26, vijfde en zesde lid, van de Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&artikel=26) en [artikel 51 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=51);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **cel:** een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;
+- *cel:* een afsluitbare ruimte geschikt voor het dag- en nachtverblijf van een persoon;
 
-- **ingeslotene:** de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
+- *ingeslotene:* de persoon die rechtens van zijn vrijheid is beroofd, alsmede de persoon die ten behoeve van de hulpverlening aan hem op een politiebureau is ondergebracht;
 
-- **ophoudkamer:** een afsluitbare ruimte geschikt voor het dagverblijf van een persoon;
+- *ophoudkamer:* een afsluitbare ruimte geschikt voor het dagverblijf van een persoon;
 
-- **politiecellencomplex:** een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen;
+- *politiecellencomplex:* een in een gebouw te onderscheiden ruimte waarin één of meer gangen met daaraan grenzend één of meer ruimten liggen die door de politie worden gebruikt voor het insluiten van personen;
 
-- **raam:** een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.
+- *raam:* een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.
 
 #### § 2. Algemene eisen politiecellencomplex
 
@@ -70,11 +44,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Het politiecellencomplex heeft een afgesloten buitenruimte van minimaal 30 m2 waar ingeslotenen kunnen luchten. Een deel van de luchtruimte is voorzien van een overkapping.
+Het politiecellencomplex heeft een afgesloten buitenruimte van minimaal 30 m2 waar ingeslotenen kunnen luchten. Een deel van de luchtruimte is voorzien van een overkapping.
 
 ##### Artikel 4
 
-Het politiecellencomplex bevat een doucheruimte, waarin de temperatuur van het uitstromende water maximaal 40 °C is.
+Het politiecellencomplex bevat een doucheruimte, waarin de temperatuur van het uitstromende water maximaal 40 °C is.
 
 #### § 3. Eisen aan cellen
 
@@ -168,10 +142,8 @@ De [Regeling politiecellencomplex](https://wetten.overheid.nl/jci1.3:c:BWBR00065
 
 ##### Artikel 16
 
-Deze regeling treedt in werking met ingang van 1 oktober 2020.
+Deze regeling treedt in werking met ingang van 1 oktober 2020.
 
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling politiecellencomplex en registratie ingeslotenen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

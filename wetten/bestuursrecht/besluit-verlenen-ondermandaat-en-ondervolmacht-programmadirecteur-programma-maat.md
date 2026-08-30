@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 10 november 2020, kenmerk 1776285-213699-OBP, houdende het verlenen van ondermandaat en ondervolmacht aan de programmadirecteur van het programma Maatschappelijke Diensttijd, alsmede het regelen van de vervanging van de programmadirecteur bij diens afwezigheid"
+citeertitel: "Besluit verlenen ondermandaat en ondervolmacht programmadirecteur programma Maatschappelijke Diensttijd alsmede vervanging bij afwezigheid"
 identifier: "BWBR0044353"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-11-20"
-last_updated: "2020-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044353"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15701773"
-version_id: "27211592"
-internal_id: "C38451091"
-label_id: "15640624"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044353/2020-11-20/0"
-intitule_bron: "Stcrt.2020-59972"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-10"
-intitule_published: "2020-11-19"
-intitule_in_force: "2020-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-59972"
-original_signed_date: "2020-11-10"
-original_published_date: "2020-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-59972"
-entry_into_force_date: "2020-11-20"
-jci_1_3: "jci1.3:c:BWBR0044353&z=2020-11-20&g=2020-11-20"
-jci_1_0: "1.0:c:BWBR0044353&g=2020-11-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlenen ondermandaat en ondervolmacht programmadirecteur programma Maatschappelijke Diensttijd alsmede vervanging bij afwezigheid"
-signed_date: "2020-11-10"
-entry_into_force: "2020-11-20"
+publicatiedatum: 2020-11-20
+laatste_update: 2020-11-20
+status: geldig
+toestand: 2020-11-20
+bron: "https://wetten.overheid.nl/BWBR0044353"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport van 10 november 2020, kenmerk 1776285-213699-OBP, houdende het verlenen van ondermandaat en ondervolmacht aan de programmadirecteur van het programma Maatschappelijke Diensttijd, alsmede het regelen van de vervanging van de programmadirecteur bij diens afwezigheid
 
 ##### Artikel 1
@@ -46,14 +24,8 @@ Voor de duur van het programma Maatschappelijke Diensttijd worden, bij afwezighe
 
 ##### Artikel 3
 
-Het [besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 2 februari 2018, houdende het verlenen van ondermandaat en ondervolmacht aan de kwartiermaker programma Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0040633), wordt ingetrokken.
+Het [besluit van de Secretaris-Generaal van Volksgezondheid, Welzijn en Sport van 2 februari 2018, houdende het verlenen van ondermandaat en ondervolmacht aan de kwartiermaker programma Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0040633), wordt ingetrokken.
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-20) terug tot en met 1 augustus 2019 en ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=2&z=2020-11-20&g=2020-11-20) terug tot en met 1 november 2020.
-
-Gelet op de [artikelen 16a van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=16a), [artikel 17 van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=17) en [artikel 10 van de Volmachtregeling personele aangelegenheden VWS 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042768&artikel=10);
-
-Besluit:
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=1&z=2020-11-20&g=2020-11-20) terug tot en met 1 augustus 2019 en ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044353&artikel=2&z=2020-11-20&g=2020-11-20) terug tot en met 1 november 2020.

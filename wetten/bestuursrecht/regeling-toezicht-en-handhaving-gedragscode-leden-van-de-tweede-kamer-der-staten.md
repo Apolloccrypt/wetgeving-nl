@@ -1,39 +1,16 @@
 ---
 title: "Regeling toezicht en handhaving Gedragscode Leden van de Tweede Kamer der Staten-Generaal"
 identifier: "BWBR0044207"
-country: "nl"
-rank: "reglement"
-publication_date: "2024-09-12"
-last_updated: "2024-09-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044207"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "15658533"
-version_id: "30350592"
-internal_id: "C43529631"
-label_id: "15598244"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044207/2024-09-12/0"
-intitule_bron: "Kst.2020-35351"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-17"
-intitule_published: "2020-09-22"
-intitule_in_force: "2020-09-22"
-intitule_status: "goed"
-original_publication: "Kst.2024-35351"
-original_signed_date: "2024-03-27"
-original_published_date: "2024-09-12"
-original_effect: "structuurwijziging"
-original_dossier: "35351"
-entry_into_force_date: "2024-03-27"
-entry_into_force_dossier: "35351"
-jci_1_3: "jci1.3:c:BWBR0044207&z=2024-09-12&g=2024-09-12"
-jci_1_0: "1.0:c:BWBR0044207&g=2024-09-12"
-citeertitel_status: "officieel"
-signed_date: "2024-03-27"
-entry_into_force: "2024-03-27"
+publicatiedatum: 2024-03-27
+laatste_update: 2024-09-12
+status: geldig
+toestand: 2024-09-12
+bron: "https://wetten.overheid.nl/BWBR0044207"
+opgehaald: 2026-08-30
 ---
+
 # Regeling toezicht en handhaving Gedragscode Leden van de Tweede Kamer der Staten-Generaal
 
 ### Hoofdstuk 1. Algemeen
@@ -49,6 +26,28 @@ In deze regeling wordt verstaan onder:
 - c. Gedragscode: de [Gedragscode Leden van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044206)
 
 ### Hoofdstuk 1a. De adviseur
+
+##### Artikel 1a. Benoeming
+
+1. De Adviseur wordt door het Presidium benoemd voor de duur van ten hoogste zes jaar.
+
+2. De Adviseur ontvangt geen vergoeding voor de uitvoering van zijn taak.
+
+##### Artikel 1b. Taak
+
+1. De Adviseur heeft tot taak aan een Kamerlid advies uit te brengen over de uitleg en toepassing van de regels van de Kamer op het gebied van integriteit.
+
+2. De adviseur brengt advies uit op verzoek van een Kamerlid. Het advies is vertrouwelijk.
+
+##### Artikel 1c. Jaarverslag
+
+1. De Adviseur zendt jaarlijks in februari aan het Presidium zijn jaarverslag over het afgelopen jaar.
+
+2. De Adviseur kan in zijn jaarverslag aanbevelingen doen die strekken tot een wijziging van de regels van de Kamer op het gebied van integriteit.
+
+3. Het Presidium maakt het jaarverslag openbaar.
+
+### Hoofdstuk 2. Het College
 
 ##### Artikel 2. Samenstelling en benoeming
 
@@ -76,7 +75,7 @@ Het College heeft tot taak meldingen aangaande overtreding van de [Gedragscode](
 
 2. Het college maakt geen informatie openbaar.
 
-### Hoofdstuk 3. Klachtprocedure
+### Hoofdstuk 3. Meldingsprocedure
 
 ##### Artikel 6. Meldingen
 
@@ -158,6 +157,10 @@ Indien een rapportage als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1
 
 De Kamer besluit zonder beraadslaging over het voorstel van het Presidium, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=12&z=2024-09-12&g=2024-09-12). Indien de Kamer besluit tot het opleggen van een sanctie, wordt deze de dag na het Kamerbesluit ten uitvoer gelegd.
 
+##### Artikel 13a. Opvolging sanctie
+
+Een Kamerlid is verplicht te handelen in overeenstemming met een aan hem door een besluit van de Kamer opgelegde sanctie als bedoeld in [artikel 11, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=11&z=2024-09-12&g=2024-09-12). Het handelen in strijd met dat besluit staat gelijk aan een overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206).
+
 ##### Artikel 14. Geen beroep
 
 Van de beslissingen ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=13&z=2024-09-12&g=2024-09-12) is beroep op de Kamer niet toegelaten.
@@ -177,35 +180,3 @@ De Kamer stelt twee jaar na de inwerkingtreding van deze regeling een verslag op
 ##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 april 2021.
-
-##### Artikel 1a. Benoeming
-
-1. De Adviseur wordt door het Presidium benoemd voor de duur van ten hoogste zes jaar.
-
-2. De Adviseur ontvangt geen vergoeding voor de uitvoering van zijn taak.
-
-##### Artikel 1b. Taak
-
-1. De Adviseur heeft tot taak aan een Kamerlid advies uit te brengen over de uitleg en toepassing van de regels van de Kamer op het gebied van integriteit.
-
-2. De adviseur brengt advies uit op verzoek van een Kamerlid. Het advies is vertrouwelijk.
-
-##### Artikel 1c. Jaarverslag
-
-1. De Adviseur zendt jaarlijks in februari aan het Presidium zijn jaarverslag over het afgelopen jaar.
-
-2. De Adviseur kan in zijn jaarverslag aanbevelingen doen die strekken tot een wijziging van de regels van de Kamer op het gebied van integriteit.
-
-3. Het Presidium maakt het jaarverslag openbaar.
-
-### Hoofdstuk 2. Het College
-
-### Hoofdstuk 3. Meldingsprocedure
-
-### Hoofdstuk 4. Beroep
-
-### Hoofdstuk 5. Sanctionering
-
-##### Artikel 13a. Opvolging sanctie
-
-Een Kamerlid is verplicht te handelen in overeenstemming met een aan hem door een besluit van de Kamer opgelegde sanctie als bedoeld in [artikel 11, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0044207&hoofdstuk=5&artikel=11&z=2024-09-12&g=2024-09-12). Het handelen in strijd met dat besluit staat gelijk aan een overtreding van de [Gedragscode](https://wetten.overheid.nl/jci1.3:c:BWBR0044206).

@@ -1,57 +1,17 @@
 ---
 title: "Besluit permanente educatie Wbtv"
 identifier: "BWBR0043928"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-07-24"
-last_updated: "2020-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043928"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15576423"
-version_id: "26912382"
-internal_id: "C38107251"
-label_id: "15517924"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043928/2020-07-24/0"
-intitule_bron: "Stcrt.2020-39352"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-14"
-intitule_published: "2020-07-23"
-intitule_in_force: "2020-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-39352"
-original_signed_date: "2020-07-14"
-original_published_date: "2020-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-39352"
-entry_into_force_date: "2020-07-24"
-jci_1_3: "jci1.3:c:BWBR0043928&z=2020-07-24&g=2020-07-24"
-jci_1_0: "1.0:c:BWBR0043928&g=2020-07-24"
-citeertitel_status: "officieel"
-signed_date: "2020-07-14"
-entry_into_force: "2020-07-24"
+publicatiedatum: 2020-07-24
+laatste_update: 2020-07-24
+status: geldig
+toestand: 2020-07-24
+bron: "https://wetten.overheid.nl/BWBR0043928"
+opgehaald: 2026-08-30
 ---
+
 # Besluit permanente educatie Wbtv
-
-Gelet op:
-
-[artikel 8 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=8) (Stb. 2007, 375);
-
-de [artikelen 11, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=13) en [14 van het Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=14) (Stb. 2008, 555);
-
-de [artikelen II onderdeel F en IV van het Besluit van 24 juni 2020 tot wijzing van het Besluit tarieven in strafzaken 2003, het Besluit beëdigde tolken en vertalers en het Besluit proceskosten bestuursrecht in verband met het instellen van minimumtarieven en het borgen van de kwaliteit en integriteit van beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0043737&artikel=II) (Stb. 2020,220)
-
-[artikel 14 van het Besluit Uitwijklijst Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0033582&artikel=14) (Stcrt. 2013, nr. 17541);
-
-[artikel 2.2 van de Gedragscode voor tolken en vertalers in het kader van de Wbtv](onbekend) (Stcrt. 2009, nr. 15358);
-
-de [Regeling van de Staatssecretaris van Veiligheid en Justitie van 13 januari 2011 tot wijziging van de Regeling houdende aanwijzing tot bewerker en verlening van mandaat en machtiging van de Minister van Justitie aan de Raad voor de Rechtsbijstand te ’s-Hertogenbosch betreffende het Register beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024993), (Stcrt. 19 januari 2011, nr. 1030);
-
-het advies van het Kwaliteitsinstituut beëdigde tolken en vertalers van 31 juli 2019;
-
-stelt de Raad voor Rechtsbijstand het volgende Besluit permanente educatie Wbtv vast:
 
 ### Begrippen en definities
 
@@ -59,29 +19,31 @@ stelt de Raad voor Rechtsbijstand het volgende Besluit permanente educatie Wbtv 
 
 In dit besluit wordt verstaan onder:
 
-- a. **Besluit btv:** [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896) (Stb 2008,555);
+- a. *Besluit btv:*
+ [Besluit beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0024896) (Stb 2008,555);
 
-- b. **deskundige:** een docent met praktijkervaring;
+- b. *deskundige:* een docent met praktijkervaring;
 
-- c. **overige activiteit:** relevante activiteit die voldoet aan de voorwaarden uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043928&artikel=7&z=2020-07-24&g=2020-07-24);
+- c. *overige activiteit:* relevante activiteit die voldoet aan de voorwaarden uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043928&artikel=7&z=2020-07-24&g=2020-07-24);
 
-- d. **permanente educatie:** deskundigheidsbevorderende en relevante activiteiten waarmee kennis en vakbekwaamheid op peil worden gehouden of uitgebreid;
+- d. *permanente educatie:* deskundigheidsbevorderende en relevante activiteiten waarmee kennis en vakbekwaamheid op peil worden gehouden of uitgebreid;
 
-- e. **Raad:** de Raad voor Rechtsbijstand;
+- e. *Raad:* de Raad voor Rechtsbijstand;
 
-- f. **Rbtv:** Register beëdigde tolken en vertalers;
+- f. *Rbtv:* Register beëdigde tolken en vertalers;
 
-- g. **scholingsactiviteit:** relevante scholing verzorgd door een deskundige waarbij kennisoverdracht centraal staat;
+- g. *scholingsactiviteit:* relevante scholing verzorgd door een deskundige waarbij kennisoverdracht centraal staat;
 
-- h. **relevant:** een activiteit is relevant wanneer deze bijdraagt aan het op peil houden of uitbreiden van de wettelijke competenties uit [artikel 3 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=3);
+- h. *relevant:* een activiteit is relevant wanneer deze bijdraagt aan het op peil houden of uitbreiden van de wettelijke competenties uit [artikel 3 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=3);
 
-- i. **tolk:** een tolk die is ingeschreven in het Rbtv of is geplaatst op de Uitwijklijst;
+- i. *tolk:* een tolk die is ingeschreven in het Rbtv of is geplaatst op de Uitwijklijst;
 
-- j. **Uitwijklijst:** een lijst van tolken en vertalers, zoals bedoeld in [artikel 2, derde lid, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2);
+- j. *Uitwijklijst:* een lijst van tolken en vertalers, zoals bedoeld in [artikel 2, derde lid, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2);
 
-- k. **vertaler:** een vertaler die is ingeschreven in het Rbtv of is geplaatst op de Uitwijklijst;
+- k. *vertaler:* een vertaler die is ingeschreven in het Rbtv of is geplaatst op de Uitwijklijst;
 
-- l. **Wbtv:** [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704).
+- l. *Wbtv:*
+ [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704).
 
 ### Permanente educatie
 
@@ -143,11 +105,11 @@ Indien in de inschrijfperiode of plaatsingsperiode van vijf jaar meer dan 80 PE-
 
 - b. Voorbereiding wordt onderverdeeld in de volgende categorieën:
 
-- i. Lezen: per 20 A4-pagina’s wordt 1 PE-punt toegekend;
+   - i. Lezen: per 20 A4-pagina’s wordt 1 PE-punt toegekend;
 
-- ii. Huiswerkopdrachten maken: per 4 A4-pagina’s wordt 1 PE-punt toegekend;
+   - ii. Huiswerkopdrachten maken: per 4 A4-pagina’s wordt 1 PE-punt toegekend;
 
-- iii. Vertaalopdrachten: per 250 woorden in de brontekst wordt 1 PE-punt toegekend.
+   - iii. Vertaalopdrachten: per 250 woorden in de brontekst wordt 1 PE-punt toegekend.
 
 ### Overige activiteiten
 
@@ -155,7 +117,7 @@ Indien in de inschrijfperiode of plaatsingsperiode van vijf jaar meer dan 80 PE-
 
 Een tolk of vertaler kan conform onderstaande tabel PE-punten registreren voor overige activiteiten:
 
-|   | Activiteit | Methode berekenen PE-punten | Maximaal aantal PE-punten | Controle en beoordelingsvoorwaarden |
+|  | Activiteit | Methode berekenen PE-punten | Maximaal aantal PE-punten | Controle en beoordelingsvoorwaarden |
 | --- | --- | --- | --- | --- |
 | 1 | Verblijf van minimaal 10 dagen met een zakelijk karakter in het taalgebied van de bron- of doeltaal. | Per verblijf 5 PE-punten | Maximaal 10 PE-punten | Vormvrij. Te denken valt aan vliegtickets, facturen van hotel en een verklaring over het zakelijke karakter van het verblijf. |
 | 2 | Het bezoeken van/stage lopen bij werkgerelateerde instellingen, organisaties, bedrijven e.d.. | Per activiteit 2 PE-punten | Maximaal 10 PE-punten | Verklaring van de instelling met vermelding van tenminste een omschrijving van de stage/doel van het bezoek en de tijdsbesteding. |
@@ -168,7 +130,7 @@ Een tolk of vertaler kan conform onderstaande tabel PE-punten registreren voor o
 
 ##### Artikel 8
 
-Het [Besluit Permanente educatie Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036205), zoals gepubliceerd op 2 februari 2015 (Stcrt. 2015, nr. 2300) en de [Nadere regels Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0036200), zoals gepubliceerd op 1 mei 2015 (Stcrt. 2015, nr. 2303-n1), worden ingetrokken.
+Het [Besluit Permanente educatie Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036205), zoals gepubliceerd op 2 februari 2015 (Stcrt. 2015, nr. 2300) en de [Nadere regels Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0036200), zoals gepubliceerd op 1 mei 2015 (Stcrt. 2015, nr. 2303-n1), worden ingetrokken.
 
 ##### Artikel 9
 

@@ -1,46 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182476, inzake de voorwaarden voor openstelling van landgoederen (Beleidsregel openstelling landgoederen Natuurschoonwet 1928)"
+citeertitel: "Beleidsregel openstelling landgoederen Natuurschoonwet 1928"
 identifier: "BWBR0044265"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044265"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15678583"
-version_id: "27108982"
-internal_id: "C38612641"
-label_id: "15618034"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044265/2021-01-01/0"
-intitule_bron: "Stcrt.2020-54438"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-27"
-intitule_published: "2020-10-29"
-intitule_in_force: "2020-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-54438"
-original_signed_date: "2020-10-27"
-original_published_date: "2020-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-54438"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044265&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044265&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel openstelling landgoederen Natuurschoonwet 1928"
-signed_date: "2020-10-27"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044265"
+opgehaald: 2026-08-30
 ---
+
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182476, inzake de voorwaarden voor openstelling van landgoederen (Beleidsregel openstelling landgoederen Natuurschoonwet 1928)
-
-Gelet op [artikel 7, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluiten:
-
-Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Rangschikkingsbesluit Natuurschoonwet 1928 (evaluatie Natuurschoonwet 1928) (Stb. 2020, 331) in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,17 +20,18 @@ Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Rangschikkingsbes
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **buitenplaats:** een onroerende zaak als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1);
+- – *buitenplaats:* een onroerende zaak als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=1);
 
-- –. **de Ministers:** de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën;
+- – *de Ministers:* de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Financiën;
 
-- –. **landgoed:** landgoed als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1);
+- – *landgoed:* landgoed als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1);
 
-- –. **openstellingsregels:** regels voor het openstellen voor het publiek van een landgoed of een gedeelte van een landgoed;
+- – *openstellingsregels:* regels voor het openstellen voor het publiek van een landgoed of een gedeelte van een landgoed;
 
-- –. **publiek:** wandelaars;
+- – *publiek:* wandelaars;
 
-- –. **wet:** [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939).
+- – *wet:*
+ [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939).
 
 ##### Artikel 1.2
 
@@ -74,11 +47,11 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2.1
 
-1. Het opengestelde gedeelte van een landgoed vormt een aaneengesloten gebied van ten minste 5 hectare.
+1. Het opengestelde gedeelte van een landgoed vormt een aaneengesloten gebied van ten minste 5 hectare.
 
 2. Van de in het eerste lid opgenomen oppervlakte-eis kan worden afgeweken, indien de onroerende zaak een buitenplaats betreft.
 
-3. Indien het landgoederen als bedoeld in [artikel 3, derde of vierde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3) betreft, vormt het opengestelde gedeelte van deze landgoederen een aangesloten gebied van ten minste 5 hectare en geldt de voorwaarde dat het opengestelde gedeelte evenwichtig verdeeld is over beide landgoederen.
+3. Indien het landgoederen als bedoeld in [artikel 3, derde of vierde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3) betreft, vormt het opengestelde gedeelte van deze landgoederen een aangesloten gebied van ten minste 5 hectare en geldt de voorwaarde dat het opengestelde gedeelte evenwichtig verdeeld is over beide landgoederen.
 
 ##### Artikel 2.2
 
@@ -90,9 +63,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. het landgoed niet in voldoende mate door het publiek beleefd kan worden; en
 
-- b. de wegen en paden voor meer dan de helft van de in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.3&z=2021-01-01&g=2021-01-01) bedoelde minimale padlengte aan of langs de rand van het landgoed lopen.
+- b. de wegen en paden voor meer dan de helft van de in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.3&z=2021-01-01&g=2021-01-01) bedoelde minimale padlengte aan of langs de rand van het landgoed lopen.
 
-4. Indien het landgoederen als bedoeld in [artikel 3, derde of vierde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3) betreft gelden in aanvulling op het eerste lid van dit artikel de volgende voorwaarden:
+4. Indien het landgoederen als bedoeld in [artikel 3, derde of vierde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3) betreft gelden in aanvulling op het eerste lid van dit artikel de volgende voorwaarden:
 
 - a. de wegen en paden zijn min of meer gelijkmatig over beide landgoederen verdeeld; en
 
@@ -100,11 +73,11 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 2.3
 
-1. Om aangemerkt te worden als een opengesteld landgoed moeten de in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.2&z=2021-01-01&g=2021-01-01), bedoelde wegen en paden een minimale lengte hebben, bestaande uit de som van:
+1. Om aangemerkt te worden als een opengesteld landgoed moeten de in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.2&z=2021-01-01&g=2021-01-01), bedoelde wegen en paden een minimale lengte hebben, bestaande uit de som van:
 
 - a. de arealen met houtopstanden bezette terreinen, vermenigvuldigd met de daarbij behorende normlengte van 50 meter per hectare; en
 
-- b. de arealen overige terreinen, vermenigvuldigd met de daarbij behorende normlengte van 25 meter per hectare.
+- b. de arealen overige terreinen, vermenigvuldigd met de daarbij behorende normlengte van 25 meter per hectare.
 
 2. Voor de berekening van de in het eerste lid bedoelde minimale lengte van wegen en paden tellen de volgende wegen of paden niet mee:
 
@@ -122,15 +95,15 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 - a. de naaste omgeving van huizen of boerderijen gelegen op het landgoed voor het publiek is afgesloten uit het oogpunt van bescherming van de persoonlijke levenssfeer van de bewoners;
 
-- b. een gedeelte, ter grootte van maximaal 15 procent, met inbegrip van een beperkte bufferzone, van een gerangschikt landgoed met een bijzondere natuurwetenschappelijke of cultuurhistorische waarde, is tijdelijk of permanent voor het publiek afgesloten, voor zover de afsluiting voor het behoud van die waarde noodzakelijk is;
+- b. een gedeelte, ter grootte van maximaal 15 procent, met inbegrip van een beperkte bufferzone, van een gerangschikt landgoed met een bijzondere natuurwetenschappelijke of cultuurhistorische waarde, is tijdelijk of permanent voor het publiek afgesloten, voor zover de afsluiting voor het behoud van die waarde noodzakelijk is;
 
-- c. het landgoed of een gedeelte daarvan kan ten behoeve van de uitoefening van de jacht, activiteiten om populaties van in het wild levende dieren te beheren of activiteiten om schade door dieren te bestrijden, gedurende ten hoogste 7 dagen per jaar voor het publiek worden afgesloten;
+- c. het landgoed of een gedeelte daarvan kan ten behoeve van de uitoefening van de jacht, activiteiten om populaties van in het wild levende dieren te beheren of activiteiten om schade door dieren te bestrijden, gedurende ten hoogste 7 dagen per jaar voor het publiek worden afgesloten;
 
 - d. het landgoed of een gedeelte daarvan kan tijdelijk worden afgesloten voor zover en voor zolang dat vanwege een calamiteit noodzakelijk is uit een oogpunt van veiligheid of gezondheid van mensen of dieren, waarbij de eigenaar van het landgoed alles in het werk stelt om de tijdelijke afsluiting zo snel mogelijk op te heffen.
 
 2. Onder de in het eerste lid, onder a, bedoelde naaste omgeving van huizen of boerderijen worden begrepen de terreinen of gedeelten daarvan met daarop huizen en boerderijen met erven en bijbehorende aanliggende sier- en moestuinen en boomgaarden, die grotendeels bestemd zijn voor privégebruik.
 
-3. Het eerste lid, onder a, is tevens van toepassing op buitenplaatsen die naar hun aard geschikt zijn voor openstelling voor het publiek, met dien verstande dat bij buitenplaatsen die groter zijn dan 2 hectare, met inachtneming van de situatie ter plaatse, 1 hectare kan worden afgesloten, en bij buitenplaatsen die kleiner zijn dan 2 hectare maar groter zijn dan 1 hectare, 0,5 hectare kan worden afgesloten.
+3. Het eerste lid, onder a, is tevens van toepassing op buitenplaatsen die naar hun aard geschikt zijn voor openstelling voor het publiek, met dien verstande dat bij buitenplaatsen die groter zijn dan 2 hectare, met inachtneming van de situatie ter plaatse, 1 hectare kan worden afgesloten, en bij buitenplaatsen die kleiner zijn dan 2 hectare maar groter zijn dan 1 hectare, 0,5 hectare kan worden afgesloten.
 
 4. Indien een landgoed of een gedeelte daarvan al dan niet tijdelijk voor het publiek is afgesloten in de in het eerste lid, onder a en b, genoemde omstandigheden, kan de afsluiting niet zover gaan dat deze daadwerkelijk de vrije toegankelijkheid voor het publiek van of naar de niet afgesloten gedeelten belemmert.
 
@@ -150,11 +123,11 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 - c. de toegangskaarten zijn verkrijgbaar:
 
-- i. op tijden dat het landgoed toegankelijk is, op het landgoed of in de directe omgeving daarvan, waarbij de plaats van verkrijgbaarheid van de kaarten voor het publiek duidelijk waarneembaar is aangegeven met borden die bij de toegangswegen tot het landgoed zijn geplaatst; of
+   - i. op tijden dat het landgoed toegankelijk is, op het landgoed of in de directe omgeving daarvan, waarbij de plaats van verkrijgbaarheid van de kaarten voor het publiek duidelijk waarneembaar is aangegeven met borden die bij de toegangswegen tot het landgoed zijn geplaatst; of
 
-- ii. via een internetadres, dat voor het publiek duidelijk waarneembaar staat vermeld op borden die bij de toegangswegen tot het landgoed zijn geplaatst;
+   - ii. via een internetadres, dat voor het publiek duidelijk waarneembaar staat vermeld op borden die bij de toegangswegen tot het landgoed zijn geplaatst;
 
-3. Onder een geringe toegangsprijs, als bedoeld in het tweede lid, onder a, wordt verstaan een bedrag van ten hoogste € 0,50 voor een kaart voor één persoon, die gedurende een dag geldig is, en ten hoogste € 2,50 voor een kaart voor één persoon, die gedurende een kalenderjaar geldig is.
+3. Onder een geringe toegangsprijs, als bedoeld in het tweede lid, onder a, wordt verstaan een bedrag van ten hoogste € 0,50 voor een kaart voor één persoon, die gedurende een dag geldig is, en ten hoogste € 2,50 voor een kaart voor één persoon, die gedurende een kalenderjaar geldig is.
 
 4. Bij historische en educatieve tuinen en parken, als bedoeld in het tweede lid, onder b, geldt als voorwaarde dat per park en tuin vast moet komen te staan dat de kosten voor instandhouding ervan de inkomsten overtreffen.
 
@@ -170,23 +143,23 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 - a. een verbod behelzen om:
 
-- 1°. zich buiten de vrij toegankelijke en begaanbare wegen en paden te begeven;
+   - 1°. zich buiten de vrij toegankelijke en begaanbare wegen en paden te begeven;
 
-- 2°. onverminderd andere verbodsbepalingen, bloemen, bladeren en vruchten te plukken of te vervoeren, afwerpstangen van een ree of hert bij zich te dragen, takken af te snijden, bomen, struiken en andere gewassen te beschadigen, in de bodem te graven, hout te sprokkelen, te zwemmen, vuur te maken, in droge tijd te roken, het wild of vogels te verontrusten, te vissen, de orde en rust te verstoren, en papier en ander afval achter te laten;
+   - 2°. onverminderd andere verbodsbepalingen, bloemen, bladeren en vruchten te plukken of te vervoeren, afwerpstangen van een ree of hert bij zich te dragen, takken af te snijden, bomen, struiken en andere gewassen te beschadigen, in de bodem te graven, hout te sprokkelen, te zwemmen, vuur te maken, in droge tijd te roken, het wild of vogels te verontrusten, te vissen, de orde en rust te verstoren, en papier en ander afval achter te laten;
 
-- 3°. loslopende honden bij zich te hebben;
+   - 3°. loslopende honden bij zich te hebben;
 
-- 4°. honden bij zich te hebben, indien het pad door een terrein dat begraasd wordt door grote grazers loopt; en
+   - 4°. honden bij zich te hebben, indien het pad door een terrein dat begraasd wordt door grote grazers loopt; en
 
 - b. betrekking hebben op:
 
-- 1°. het weren van publiek dat zich niet aan de gedragsregels houdt;
+   - 1°. het weren van publiek dat zich niet aan de gedragsregels houdt;
 
-- 2°. het ontzeggen van de toegang tot het landgoed aan personen die aan een georganiseerd evenement deelnemen, indien aannemelijk is dat ten gevolge van het evenement schade aan het landgoed of een gedeelte van het landgoed ontstaat of kan ontstaan;
+   - 2°. het ontzeggen van de toegang tot het landgoed aan personen die aan een georganiseerd evenement deelnemen, indien aannemelijk is dat ten gevolge van het evenement schade aan het landgoed of een gedeelte van het landgoed ontstaat of kan ontstaan;
 
-- 3°. het ontzeggen van de toegang tot het landgoed aan personen die in groepsverband het landgoed bezoeken, indien aannemelijk is dat door de omvang of samenstelling van de groep, schade aan het landgoed of een gedeelte van het landgoed ontstaat of kan ontstaan, of overlast voor andere wandelaars ontstaat of kan ontstaan; en
+   - 3°. het ontzeggen van de toegang tot het landgoed aan personen die in groepsverband het landgoed bezoeken, indien aannemelijk is dat door de omvang of samenstelling van de groep, schade aan het landgoed of een gedeelte van het landgoed ontstaat of kan ontstaan, of overlast voor andere wandelaars ontstaat of kan ontstaan; en
 
-- 4°. het instellen van beperkingen voor anderen dan wandelaars, waaronder fietsers, crossfietsers, ruiters, hardlopers in georganiseerd groepsverband of gemotoriseerd verkeer.
+   - 4°. het instellen van beperkingen voor anderen dan wandelaars, waaronder fietsers, crossfietsers, ruiters, hardlopers in georganiseerd groepsverband of gemotoriseerd verkeer.
 
 ### Hoofdstuk 3. Voorwaarden openstellingsregels
 
@@ -200,11 +173,11 @@ In de openstellingsregels moet ten minste het volgende zijn opgenomen:
 
 ##### Artikel 3.2
 
-In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk afsluiten van een landgoed voor het publiek indien zich een van de omstandigheden als bedoeld in [artikel 2.5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.5&z=2021-01-01&g=2021-01-01), voordoet.
+In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk afsluiten van een landgoed voor het publiek indien zich een van de omstandigheden als bedoeld in [artikel 2.5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.5&z=2021-01-01&g=2021-01-01), voordoet.
 
 ##### Artikel 3.3
 
-1. De eigenaar voegt bij het verzoek tot openstelling een topografische kaart, als bedoeld in [artikel 7, vijfde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=7), bij.
+1. De eigenaar voegt bij het verzoek tot openstelling een topografische kaart, als bedoeld in [artikel 7, vijfde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=7), bij.
 
 2. Op de topografische kaart moeten de volgende gegevens zijn aangegeven:
 
@@ -214,7 +187,7 @@ In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk af
 
 - c. de plaatsaanduiding van de toegangsborden; en
 
-- d. de ligging en opgave van de oppervlakte van het gedeelte van het landgoed dat op grond van [artikel 2.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.5&z=2021-01-01&g=2021-01-01), voor het publiek wordt afgesloten vanwege het behoud van bijzondere natuurwetenschappelijke of cultuurhistorische waarde.
+- d. de ligging en opgave van de oppervlakte van het gedeelte van het landgoed dat op grond van [artikel 2.5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.5&z=2021-01-01&g=2021-01-01), voor het publiek wordt afgesloten vanwege het behoud van bijzondere natuurwetenschappelijke of cultuurhistorische waarde.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -222,7 +195,7 @@ In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk af
 
 1. De door de eigenaar voor het landgoed opgestelde openstellingsregels worden goedgekeurd bij beschikking van de Ministers.
 
-2. Het landgoed krijgt de status van een opengesteld landgoed in de zin van [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) met ingang van het tijdstip waarop het landgoed en de openstellingsregels aan de voorwaarden in dit besluit voldoen, maar niet eerder dan het tijdstip waarop het verzoek is ontvangen door de Minister van Landbouw, Natuur en Voedselkwaliteit.
+2. Het landgoed krijgt de status van een opengesteld landgoed in de zin van [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) met ingang van het tijdstip waarop het landgoed en de openstellingsregels aan de voorwaarden in dit besluit voldoen, maar niet eerder dan het tijdstip waarop het verzoek is ontvangen door de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ##### Artikel 4.2
 
@@ -258,9 +231,9 @@ Een landgoed, dat op het moment van overlijden of schenking van de eigenaar niet
 
 De volgende besluiten worden ingetrokken:
 
-- a. het [besluit van 20 december 2007, nr. CPP2007/1092M](https://wetten.overheid.nl/jci1.3:c:BWBR0023198) (Stcrt. 2008, 3);
+- a. het [besluit van 20 december 2007, nr. CPP2007/1092M](https://wetten.overheid.nl/jci1.3:c:BWBR0023198) (Stcrt. 2008, 3);
 
-- b. het [besluit van 8 september 2015, nr. BLKB 2015/1169M](https://wetten.overheid.nl/jci1.3:c:BWBR0036998) (Stcrt. 2015, 29749).
+- b. het [besluit van 8 september 2015, nr. BLKB 2015/1169M](https://wetten.overheid.nl/jci1.3:c:BWBR0036998) (Stcrt. 2015, 29749).
 
 ##### Artikel 4.6
 
@@ -268,6 +241,4 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel openstelling landgoederen N
 
 ##### Artikel 4.7
 
-Deze beleidsregel treedt in werking op het tijdstip waarop het [besluit van 31 augustus 2020, houdende wijziging van het Rangschikkingsbesluit Natuurschoonwet 1928 in verband met de evaluatie van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0044074) (Stb. 2020, 331) in werking treedt.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking op het tijdstip waarop het [besluit van 31 augustus 2020, houdende wijziging van het Rangschikkingsbesluit Natuurschoonwet 1928 in verband met de evaluatie van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0044074) (Stb. 2020, 331) in werking treedt.

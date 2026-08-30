@@ -1,62 +1,31 @@
 ---
 title: "Besluit van 18 september 2020, houdende regels voor een regeling voor uitgebreide producentenverantwoordelijkheid voor het beheer van afvalstoffen (Besluit regeling voor uitgebreide producentenverantwoordelijkheid)"
+citeertitel: "Besluit regeling voor uitgebreide producentenverantwoordelijkheid"
 identifier: "BWBR0044197"
-country: "nl"
-rank: "amvb"
-publication_date: "2020-11-09"
-last_updated: "2020-11-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044197"
+categorie: "Milieu"
 soort: "AMvB"
-stam_id: "15656853"
-version_id: "27066792"
-internal_id: "C38288111"
-label_id: "15596454"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044197/2020-11-09/0"
-intitule_bron: "Stb.2020-375"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-18"
-intitule_published: "2020-10-12"
-intitule_in_force: "2020-10-12"
-intitule_status: "goed"
-original_publication: "Stb.2020-375"
-original_signed_date: "2020-09-18"
-original_published_date: "2020-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-375"
-entry_into_force_date: "2020-11-09"
-jci_1_3: "jci1.3:c:BWBR0044197&z=2020-11-09&g=2020-11-09"
-jci_1_0: "1.0:c:BWBR0044197&g=2020-11-09"
-citeertitel_status: "officieel"
-short_title: "Besluit regeling voor uitgebreide producentenverantwoordelijkheid"
-signed_date: "2020-09-18"
-entry_into_force: "2020-11-09"
+publicatiedatum: 2020-11-09
+laatste_update: 2020-11-09
+status: geldig
+toestand: 2020-11-09
+bron: "https://wetten.overheid.nl/BWBR0044197"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 18 september 2020, houdende regels voor een regeling voor uitgebreide producentenverantwoordelijkheid voor het beheer van afvalstoffen (Besluit regeling voor uitgebreide producentenverantwoordelijkheid)
-
-Op de voordracht van Onze Minister voor Milieu en Wonen van 8 april 2020, nr. IenW/BSK-2020/43287, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van [Richtlijn 2008/98/EG](32008L0098) betreffende afvalstoffen (PbEU 2018, L 150) alsmede [artikel 9.5.2, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 juli 2020, nr.W17.20.0103/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaat van 11 september 2020, nr. IenW/BSK-2020/156218, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. (definities en reikwijdte)
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **in de handel brengen:** voor het eerst op de markt aanbieden van stoffen, mengsels of producten;
+- *in de handel brengen:* voor het eerst op de markt aanbieden van stoffen, mengsels of producten;
 
-- **producent:** degene die beroepsmatig, ongeacht de gebruikte verkooptechniek, stoffen, mengsels of producten in Nederland in de handel brengt;
+- *producent:* degene die beroepsmatig, ongeacht de gebruikte verkooptechniek, stoffen, mengsels of producten in Nederland in de handel brengt;
 
-- **producentenorganisatie:** de organisatie die namens producenten verplichtingen uit hoofde van een regeling voor uitgebreide producentenverantwoordelijkheid nakomt;
+- *producentenorganisatie:* de organisatie die namens producenten verplichtingen uit hoofde van een regeling voor uitgebreide producentenverantwoordelijkheid nakomt;
 
-- **wet:** [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
+- *wet:*
+ [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245).
 
 2. Dit besluit is van toepassing wanneer een regeling voor uitgebreide producentenverantwoordelijkheid op grond van [artikel 9.5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) is vastgesteld, vanaf het tijdstip van de vaststelling van die regeling.
 
@@ -148,7 +117,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 7. (overgangsrecht)
 
-Dit besluit is tot 1 januari 2023 niet van toepassing op een regeling, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=1&z=2020-11-09&g=2020-11-09), die voor 4 juli 2018 is vastgesteld.
+Dit besluit is tot 1 januari 2023 niet van toepassing op een regeling, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=1&z=2020-11-09&g=2020-11-09), die voor 4 juli 2018 is vastgesteld.
 
 ##### Artikel 8. (inwerkingtreding)
 
@@ -157,5 +126,3 @@ Dit besluit treedt in werking met ingang van de datum waarop de [Implementatiewe
 ##### Artikel 9. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit regeling voor uitgebreide producentenverantwoordelijkheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

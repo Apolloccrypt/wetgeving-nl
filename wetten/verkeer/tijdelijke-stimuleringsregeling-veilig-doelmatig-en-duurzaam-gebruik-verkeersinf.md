@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 1 oktober 2020, nr. IENW/BSK-2020/181458, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van veiliger, doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2020 (Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020)"
+citeertitel: "Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020"
 identifier: "BWBR0044170"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-10-03"
-last_updated: "2020-10-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044170"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15649983"
-version_id: "27057072"
-internal_id: "C38278131"
-label_id: "15589654"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044170/2020-10-03/0"
-intitule_bron: "Stcrt.2020-50437"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-01"
-intitule_published: "2020-10-02"
-intitule_in_force: "2020-10-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-50437"
-original_signed_date: "2020-10-01"
-original_published_date: "2020-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-50437"
-entry_into_force_date: "2020-10-03"
-jci_1_3: "jci1.3:c:BWBR0044170&z=2020-10-03&g=2020-10-03"
-jci_1_0: "1.0:c:BWBR0044170&g=2020-10-03"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020"
-signed_date: "2020-10-01"
-entry_into_force: "2020-10-03"
+publicatiedatum: 2020-10-03
+laatste_update: 2020-10-03
+status: geldig
+toestand: 2020-10-03
+bron: "https://wetten.overheid.nl/BWBR0044170"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 oktober 2020, nr. IENW/BSK-2020/181458, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van veiliger, doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2020 (Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020)
-
-Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [3, eerste lid, aanhef en onderdelen a en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, aanhef en onderdelen a tot en met f, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Bestuurlijke Overleggen MIRT 2018 en 2019:** Bestuurlijke overleggen MIRT Noord-Nederland, Oost-Nederland, Zuid-Nederland, Zuidwest-Nederland, Noordwest-Nederland en goederenvervoercorridors die hebben plaatsgevonden op 21 en 22 november 2018 respectievelijk 20 en 21 november 2019;
+- *Bestuurlijke Overleggen MIRT 2018 en 2019:* Bestuurlijke overleggen MIRT Noord-Nederland, Oost-Nederland, Zuid-Nederland, Zuidwest-Nederland, Noordwest-Nederland en goederenvervoercorridors die hebben plaatsgevonden op 21 en 22 november 2018 respectievelijk 20 en 21 november 2019;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044170&artikel=3&z=2020-10-03&g=2020-10-03);
+- *specifieke uitkering:* uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044170&artikel=3&z=2020-10-03&g=2020-10-03);
 
 ##### Artikel 2. Doel van de regeling
 
@@ -100,7 +74,7 @@ Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.
 
 ##### Artikel 7. Aanvraag voor verlening specifieke uitkering
 
-1. Een aanvraag van een specifieke uitkering wordt uiterlijk op 31 oktober 2020 ingediend.
+1. Een aanvraag van een specifieke uitkering wordt uiterlijk op 31 oktober 2020 ingediend.
 
 2. Een aanvraag gaat vergezeld van:
 
@@ -132,7 +106,7 @@ De minister verstrekt bij een besluit tot verlening als bedoeld in [artikel 8](h
 
 ##### Artikel 10. Verplichtingen ontvanger
 
-1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 januari 2024 gerealiseerd.
+1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 januari 2024 gerealiseerd.
 
 2. De ontvanger van een specifieke uitkering werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
@@ -144,16 +118,14 @@ Verantwoording over de besteding van een specifieke uitkering vindt plaats op de
 
 ##### Artikel 12. Vaststelling specifieke uitkering
 
-1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044170&artikel=10&z=2020-10-03&g=2020-10-03), ambtshalve vast.
+1. De minister stelt de specifieke uitkering uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0044170&artikel=10&z=2020-10-03&g=2020-10-03), ambtshalve vast.
 
 2. De vaststelling vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 ##### Artikel 13. Inwerkingtreding en verval
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2025, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2025, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke stimuleringsregeling veilig, doelmatig en duurzaam gebruik verkeersinfrastructuur 2020.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

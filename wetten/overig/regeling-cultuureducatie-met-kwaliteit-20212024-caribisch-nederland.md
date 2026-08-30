@@ -1,46 +1,17 @@
 ---
 title: "Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland"
 identifier: "BWBR0044392"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-11-28"
-last_updated: "2020-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044392"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15713733"
-version_id: "27233542"
-internal_id: "C38479381"
-label_id: "15652644"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044392/2020-11-28/0"
-intitule_bron: "Stcrt.2020-61829"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-11-27"
-intitule_in_force: "2020-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-61829"
-original_published_date: "2020-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-61829"
-entry_into_force_date: "2020-11-28"
-jci_1_3: "jci1.3:c:BWBR0044392&z=2020-11-28&g=2020-11-28"
-jci_1_0: "1.0:c:BWBR0044392&g=2020-11-28"
-citeertitel_status: "officieel"
-entry_into_force: "2020-11-28"
+publicatiedatum: 2020-11-28
+laatste_update: 2020-11-28
+status: geldig
+toestand: 2020-11-28
+bron: "https://wetten.overheid.nl/BWBR0044392"
+opgehaald: 2026-08-30
 ---
+
 # Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 17 november 2020;
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,39 +19,40 @@ besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **Fonds:** het Fonds voor Cultuurparticipatie;
+- a) *Fonds:* het Fonds voor Cultuurparticipatie;
 
-- b). **activiteitenkosten:** de kosten die gemaakt worden voor de uitvoering van het project. Niet zijnde de kosten voor coördinatie, kennisdeling, monitoring en evaluatie. Reis- en verblijfkosten vallen onder activiteitenkosten;
+- b) *activiteitenkosten:* de kosten die gemaakt worden voor de uitvoering van het project. Niet zijnde de kosten voor coördinatie, kennisdeling, monitoring en evaluatie. Reis- en verblijfkosten vallen onder activiteitenkosten;
 
-- c). **adhesieverklaring:** schriftelijke steunbetuiging van het openbaar lichaam aan de aanvrager voor het programma Cultuureducatie met Kwaliteit 2021-2024 Caribisch Nederland. Dit is een verklaring die de penvoerder bij de aanvraag aanlevert;
+- c) *adhesieverklaring:* schriftelijke steunbetuiging van het openbaar lichaam aan de aanvrager voor het programma Cultuureducatie met Kwaliteit 2021-2024 Caribisch Nederland. Dit is een verklaring die de penvoerder bij de aanvraag aanlevert;
 
-- d). **adviescommissie:** een interne adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690);
+- d) *adviescommissie:* een interne adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690);
 
-- e). **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
+- e) *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0039127);
 
-- f). **beleidsprogramma Cultuureducatie met Kwaliteit:** programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap ter waarborging van de landelijke kwaliteit van cultuureducatie in het onderwijs;
+- f) *beleidsprogramma Cultuureducatie met Kwaliteit:* programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap ter waarborging van de landelijke kwaliteit van cultuureducatie in het onderwijs;
 
-- g). **Caribisch Nederland:** de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba;
+- g) *Caribisch Nederland:* de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba;
 
-- h). **CBS:** Centraal Bureau voor de Statistiek;
+- h) *CBS:* Centraal Bureau voor de Statistiek;
 
-- i). **CEST:** Central European Summer Time;
+- i) *CEST:* Central European Summer Time;
 
-- j). **coördinerende werkzaamheden:** organisatorische werkzaamheden ten behoeve van het voeren van penvoerderschap;
+- j) *coördinerende werkzaamheden:* organisatorische werkzaamheden ten behoeve van het voeren van penvoerderschap;
 
-- k). **culturele sector:** de op het eiland gevestigde culturele instellingen;
+- k) *culturele sector:* de op het eiland gevestigde culturele instellingen;
 
-- l). **cultuureducatie:** het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie en het onderwijs dat op het gebied van kunst en cultuur wordt verzorgd;
+- l) *cultuureducatie:* het onderwijs gericht op het bereiken van de kerndoelen binnen het leergebied Kunstzinnige oriëntatie en het onderwijs dat op het gebied van kunst en cultuur wordt verzorgd;
 
-- m). **LKCA:** Landelijk Kennisinstituut Cultuureducatie en Amateurkunst;
+- m) *LKCA:* Landelijk Kennisinstituut Cultuureducatie en Amateurkunst;
 
-- n). **OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap;
+- n) *OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- o). **onderwijs:** in deze regeling gaat het over primair onderwijs in Caribisch Nederland;
+- o) *onderwijs:* in deze regeling gaat het over primair onderwijs in Caribisch Nederland;
 
-- p). **penvoerder:** een culturele- of onderwijsinstelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een subsidieaanvraag indient;
+- p) *penvoerder:* een culturele- of onderwijsinstelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een subsidieaanvraag indient;
 
-- q). **de Rijkscultuurfondsen:** Fonds podiumkunsten, Stimuleringsfonds creatieve industrie, Mondriaan fonds, Filmfonds, Nederlands letterenfonds en het Fonds voor cultuurparticipatie.
+- q) *de Rijkscultuurfondsen:* Fonds podiumkunsten, Stimuleringsfonds creatieve industrie, Mondriaan fonds, Filmfonds, Nederlands letterenfonds en het Fonds voor cultuurparticipatie.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -104,9 +76,9 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 1. Subsidie wordt verstrekt in een tweetal rondes:
 
-- a. ronde 1: van 1 april 2021 tot en met 31 december 2022;
+- a. ronde 1: van 1 april 2021 tot en met 31 december 2022;
 
-- b. ronde 2: van 1 januari 2023 tot en met 31 december 2024.
+- b. ronde 2: van 1 januari 2023 tot en met 31 december 2024.
 
 2. Een aanvraag in de tweede ronde hoeft niet voorafgegaan te zijn door een gehonoreerde aanvraag in de eerste ronde.
 
@@ -130,7 +102,7 @@ Subsidie kan uitsluitend worden aangevraagd door een culturele instelling met re
 
 - b. € 3,16 per inwoner.
 
-2. Het aantal inwoners per eiland wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2019.
+2. Het aantal inwoners per eiland wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2019.
 
 ##### Artikel 8. Weigeringsgronden
 
@@ -184,9 +156,9 @@ De penvoerder:
 
 ##### Artikel 10. Aanvraagtermijnen
 
-1. Voor ronde 1: aanvragen kunnen worden ingediend vanaf 1 december 2020 en dienen voor 14 januari 2021 13.00 uur CEST door het Fonds te zijn ontvangen.
+1. Voor ronde 1: aanvragen kunnen worden ingediend vanaf 1 december 2020 en dienen voor 14 januari 2021 13.00 uur CEST door het Fonds te zijn ontvangen.
 
-2. Voor ronde 2: aanvragen kunnen worden ingediend vanaf 1 augustus 2022 en dienen voor 30 september 2022 13.00 uur CEST door het Fonds te zijn ontvangen.
+2. Voor ronde 2: aanvragen kunnen worden ingediend vanaf 1 augustus 2022 en dienen voor 30 september 2022 13.00 uur CEST door het Fonds te zijn ontvangen.
 
 3. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
@@ -244,7 +216,7 @@ Het bestuur beslist binnen 13 weken nadat een aanvraag is ontvangen.
 
 - a. Indien de subsidie meer dan € 25.000,– bedraagt, toont de subsidieontvanger aan de hand van een activiteitenverslag en financiële verantwoording aan dat de activiteiten waarvoor subsidie is verstrekt zijn verricht en dat is voldaan aan de subsidieverplichtingen.
 
-- b. Tussentijds verzoekt het Fonds om een verantwoording op de prestatieafspraken en de financiën. Deze tussentijdse verantwoording dient het Fonds uiterlijk 1 maart van het tweede jaar van het project te ontvangen, dit geldt voor zowel ronde 1 als ronde 2. Het Fonds levert hier een verplicht te gebruiken format voor aan.
+- b. Tussentijds verzoekt het Fonds om een verantwoording op de prestatieafspraken en de financiën. Deze tussentijdse verantwoording dient het Fonds uiterlijk 1 maart van het tweede jaar van het project te ontvangen, dit geldt voor zowel ronde 1 als ronde 2. Het Fonds levert hier een verplicht te gebruiken format voor aan.
 
 ##### Artikel 17. Melding van wijzigingen
 
@@ -258,7 +230,7 @@ De penvoerder doet direct melding aan het Fonds als:
 
 ### Hoofdstuk 4. Overige regelingen
 
-##### Artikel 18. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127)
+##### Artikel 18. Algemeen Subsidiereglement
 
 Voor zover de regeling daar niet in voorziet, zijn de bepalingen uit het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039127) van toepassing.
 
@@ -276,7 +248,7 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
+2. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
 ##### Artikel 22. Citeertitel
 

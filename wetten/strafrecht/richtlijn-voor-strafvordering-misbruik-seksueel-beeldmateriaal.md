@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering misbruik seksueel beeldmateriaal"
 identifier: "BWBR0044445"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-12-03"
-last_updated: "2020-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044445"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15737783"
-version_id: "27268122"
-internal_id: "C38526091"
-label_id: "15676454"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044445/2020-12-03/0"
-intitule_bron: "Stcrt.2020-62637"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-03"
-intitule_in_force: "2020-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62637"
-original_published_date: "2020-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62637"
-entry_into_force_date: "2020-12-03"
-jci_1_3: "jci1.3:c:BWBR0044445&z=2020-12-03&g=2020-12-03"
-jci_1_0: "1.0:c:BWBR0044445&g=2020-12-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-12-03"
+publicatiedatum: 2020-12-03
+laatste_update: 2020-12-03
+status: geldig
+toestand: 2020-12-03
+bron: "https://wetten.overheid.nl/BWBR0044445"
+opgehaald: 2026-08-30
 ---
+
 # Richtlijn voor strafvordering misbruik seksueel beeldmateriaal
 
 ### Beschrijving
@@ -38,9 +19,9 @@ Deze strafvorderingsrichtlijn is van toepassing op alle gevallen van misbruik va
 
 Voor minderjarige verdachten en adolescenten wordt verwezen naar de Leidraad afdoening sextingzaken ‘Pubers in beeld’ in combinatie met de Richtlijn en kader voor strafvordering jeugd en adolescenten. Voor meerderjarige verdachten, niet zijnde adolescenten, met seksueel beeldmateriaal van minderjarigen geldt de [Richtlijn voor strafvordering kinderpornografie](https://wetten.overheid.nl/jci1.3:c:BWBR0038528). Indien sprake is van seksueel misbruik met minderjarigen geldt de Richtlijn voor strafvordering seksueel misbruik van minderjarigen.
 
-Het gaat in deze richtlijn om handelingen die zien op het wederrechtelijk verkrijgen of vervaardigen van seksueel beeldmateriaal en handelingen die zien op wederrechtelijk bezit, verspreiden of openbaar maken van het beeldmateriaal. Termen die hiervoor in het normale spraakgebruik gebezigd worden zijn onder andere sexting, wraakporno, sextortion, exposen en heimelijk filmen. De gedraging valt juridisch vaak onder diverse strafbaarstellingen. Welke van toepassing zijn, is afhankelijk van wat de exacte bedoelingen zijn van de dader en de omstandigheden van het geval. Naast de per 1 januari 2020 ingevoerde specifieke strafbaarstelling van misbruik seksueel beeldmateriaal ([139h Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139h)), zijn er diverse generieke wetsartikelen die afhankelijk van de omstandigheden van het geval (eveneens) van toepassing kunnen zijn bij strafbare handelingen met betrekking tot seksueel getint beeldmateriaal zoals smaad, laster, belediging, dwang of afpersing.
+Het gaat in deze richtlijn om handelingen die zien op het wederrechtelijk verkrijgen of vervaardigen van seksueel beeldmateriaal en handelingen die zien op wederrechtelijk bezit, verspreiden of openbaar maken van het beeldmateriaal. Termen die hiervoor in het normale spraakgebruik gebezigd worden zijn onder andere sexting, wraakporno, sextortion, exposen en heimelijk filmen. De gedraging valt juridisch vaak onder diverse strafbaarstellingen. Welke van toepassing zijn, is afhankelijk van wat de exacte bedoelingen zijn van de dader en de omstandigheden van het geval. Naast de per 1 januari 2020 ingevoerde specifieke strafbaarstelling van misbruik seksueel beeldmateriaal ([139h Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139h)), zijn er diverse generieke wetsartikelen die afhankelijk van de omstandigheden van het geval (eveneens) van toepassing kunnen zijn bij strafbare handelingen met betrekking tot seksueel getint beeldmateriaal zoals smaad, laster, belediging, dwang of afpersing.
 
-Voor de toepasselijkheid van deze strafvorderingsrichtlijn doet niet ter zake of het feit is tenlastegelegd onder [139g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139g), [139h Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139h), [261](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=261), [262](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=262), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266) of [284 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284). Niet het wetsartikel, maar de verwijtbare gedraging staat in deze richtlijn centraal. De kern van het strafrechtelijk verwijt is **de schending van de (seksuele) privacy**van de afgebeelde persoon. Delictspecifieke factoren worden meegewogen als strafverzwarende of strafverminderende omstandigheden.
+Voor de toepasselijkheid van deze strafvorderingsrichtlijn doet niet ter zake of het feit is tenlastegelegd onder [139g](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139g), [139h Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=139h), [261](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=261), [262](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=262), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=266) of [284 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=284). Niet het wetsartikel, maar de verwijtbare gedraging staat in deze richtlijn centraal. De kern van het strafrechtelijk verwijt is *de schending van de (seksuele) privacy*van de afgebeelde persoon. Delictspecifieke factoren worden meegewogen als strafverzwarende of strafverminderende omstandigheden.
 
 ### Uitgangspunten strafeis misbruik seksueel beeldmateriaal
 
@@ -56,27 +37,29 @@ Dit wordt versterkt door de wetenschap dat eenmaal (online) verspreid materiaal,
 
 In deze richtlijn wordt ten aanzien van misbruik van seksueel beeldmateriaal onderscheid gemaakt in drie categorieën:
 
-**Categorie I.**
+*Categorie I.*
 
-Er is sprake van **(dreigen met) verspreiding** van het beeldmateriaal.
+Er is sprake van *(dreigen met) verspreiding* van het beeldmateriaal.
 
-In geval hier een vorm van **dwang** een rol bij speelt, kan aansluiting gezocht worden bij de strafmaat genoemd onder a. Zo kan de afgebeelde persoon onder druk worden gezet – bijvoorbeeld om te betalen, om iets te doen of na te laten – door (te dreigen met) verspreiding.
+In geval hier een vorm van *dwang* een rol bij speelt, kan aansluiting gezocht worden bij de strafmaat genoemd onder a. Zo kan de afgebeelde persoon onder druk worden gezet – bijvoorbeeld om te betalen, om iets te doen of na te laten – door (te dreigen met) verspreiding.
 
-In geval het meer gaat om benadeling, bijvoorbeeld in de vorm van **wraak of smaad** bij de verspreiding van het beeldmateriaal, is de strafmaat genoemd onder b van toepassing. Zo kan sprake zijn van belediging, smaad, laster, pesten, intimidatie, shockeren etc. door middel van verspreiding van seksueel beeldmateriaal.
+In geval het meer gaat om benadeling, bijvoorbeeld in de vorm van *wraak of smaad* bij de verspreiding van het beeldmateriaal, is de strafmaat genoemd onder b van toepassing. Zo kan sprake zijn van belediging, smaad, laster, pesten, intimidatie, shockeren etc. door middel van verspreiding van seksueel beeldmateriaal.
 
-**Categorie II**.
+*Categorie II*.
 
-Er is sprake van **opzettelijke, wederrechtelijke vervaardiging** van het beeldmateriaal.
+Er is sprake van *opzettelijke, wederrechtelijke vervaardiging* van het beeldmateriaal.
 
-Binnen deze categorie wordt eveneens een onderscheid gemaakt al naar gelang dwang een rol speelt. In geval het beeldmateriaal voor persoonlijk gewin of onder **dwang** is vervaardigd, geldt de strafmaat onder a.
+Binnen deze categorie wordt eveneens een onderscheid gemaakt al naar gelang dwang een rol speelt. In geval het beeldmateriaal voor persoonlijk gewin of onder *dwang* is vervaardigd, geldt de strafmaat onder a.
 
 Hierbij kan gedacht worden aan aanwijzingen voor commerciële elementen, druk/dwang, misleiding, afhankelijkheidsrelatie bij de totstandkoming.
 
 In geval er geen sprake is van dwang bij de vervaardiging, het gaat bijvoorbeeld om heimelijke opnames, kan de strafmaat onder b gevolgd worden.
 
-**Categorie III**.
+*Categorie III*.
 
-Hieronder valt **passief bezit**. Er is sprake van het enkele bezit van seksueel beeldmateriaal met de wetenschap of het vermoeden dat dit beeldmateriaal opzettelijk en wederrechtelijk vervaardigd is. Met passief bezit wordt bedoeld dat verdachte in bezit is gekomen van het beeldmateriaal, doordat het hem bijvoorbeeld ongevraagd is toegestuurd en de verdachte dit beeldmateriaal niet verder heeft verspreid.
+Hieronder valt *passief bezit*. Er is sprake van het enkele bezit van seksueel beeldmateriaal met de wetenschap of het vermoeden dat dit beeldmateriaal opzettelijk en wederrechtelijk vervaardigd is. Met passief bezit wordt bedoeld dat verdachte in bezit is gekomen van het beeldmateriaal, doordat het hem bijvoorbeeld ongevraagd is toegestuurd en de verdachte dit beeldmateriaal niet verder heeft verspreid.
+
+Beeldmateriaal van meerderjarigen
 
 Vooropgesteld moet worden dat een afbeelding van seksuele aard van een meerderjarige op zichzelf geen strafbaar materiaal is. De strafbaarheid vloeit voort uit de daarmee gepleegde wederrechtelijke handelingen en het opzet van de dader. Het opzet van de dader moet zijn gericht op het vervaardigen van een afbeelding van seksuele aard. De wederrechtelijkheid ziet in deze gevallen doorgaans op de ontbrekende instemming van de afgebeelde persoon. De wijze van totstandkoming, in bezit krijgen/hebben en openbaarmaking van het materiaal kunnen plaatsvinden met instemming van de afgebeelde persoon (niet wederrechtelijk) of zonder instemming/medeweten van die persoon of zelfs onder dwang (wederrechtelijk). In deze keten van handelingen kan de wederrechtelijkheid reeds bij de totstandkoming van het beeldmateriaal aanvangen, maar het is ook mogelijk dat beeldmateriaal dat in eerste instantie met instemming vervaardigd is, vervolgens wederrechtelijk wordt verkregen of verspreid.
 
@@ -97,6 +80,29 @@ Naarmate er sprake is van meer strafmaat beïnvloedende factoren, zal de eis ric
 ### Basiscasus/delict
 
 Misbruik seksueel beeldmateriaal, alleen gepleegd door een first offender
+
+| Categorieën misbruik seksueel beeldmateriaal | Eenmalig | Meermalen gepleegd/ meerdere slachtoffers/ gedurende langere periode |  |
+| --- | --- | --- | --- |
+| I. Verspreiden OF dreigen met verspreiding: | a. Dwang: | TS vanaf 120 uur + | GS 3–12 mnd ov |
+|  |  |  |  |
+| pressiemiddel/ sextortion | GS 1 mnd vw of GS 1 mnd ov |  |  |
+| b. Wraak/ smaad: | GB € 500–750 of | TS 60–100 uur + |  |
+|  |  |  |  |
+| pestgedrag/ wraak/ smaad / laster/ belediging | TS 40–80 uur | GS 2–4 mnd ov |  |
+| II. Vervaardigen: Opzettelijke, wederrechtelijke vervaardiging van het beeldmateriaal | a. Dwang: | TS 80–120 uur + | GS 4–6 mnd ov |
+|  |  |  |  |
+| Commerciële elementen, druk/dwang, misleiding, afhankelijkheidsrelatie | GS 1 mnd vw |  |  |
+| b. Geen dwang | GB € 250–500 of | TS 20–40 uur + |  |
+|  |  |  |  |
+|  | TS 20–40 uur | GS 1–2 mnd vw |  |
+| III. Passief bezit: |  | GB € 250 of | nvt |
+|  |  |  |  |
+| Enkele bezit met wetenschap of vermoeden opzettelijke en wederrechtelijke vervaardiging ervan |  | TS 20 uur |  |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed |  |  |  |
+|  |  |  |  |
+| Strafverzwarend onder andere: – Recidive – Medeplegen of georganiseerd verband – Kwetsbaar slachtoffer – Tevens sprake van computervredebreuk (combi feit), zie ook richtlijn cybercrime – Er is sprake van een combinatie van handelingen ten aanzien van het seksueel beeldmateriaal: verdachte heeft het materiaal bijvoorbeeld niet alleen opzettelijk en wederrechtelijk vervaardigd, maar ook verspreid – Mate van inbreuk op privacy/ aantasting eer en goede naam: aard beeldmateriaal, duur, ernst, intensiteit, frequentie delictgedrag, gebruik technisch hulpmiddel – Ongerichte verspreiding beeldmateriaal (op een openbaar forum bijvoorbeeld) – Er is sprake van heimelijk maken van opnames (vervaardigen) |  |  |  |
+|  |  |  |  |
+| Strafverminderend onder andere: – Bij categorie III : beeldmateriaal is verdachte ongevraagd toegezonden – Er is sprake van impulsief en ondoordacht handelen |  |  |  |
 
 ### Legenda
 

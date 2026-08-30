@@ -1,74 +1,51 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea 40.000–100.000"
 identifier: "BWBR0043760"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043760"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15533083"
-version_id: "26834962"
-internal_id: "C38019301"
-label_id: "15475464"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043760/2020-07-01/0"
-intitule_bron: "Stcrt.2020-34068"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-06-30"
-intitule_in_force: "2020-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-34068"
-original_published_date: "2020-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-34068"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043760&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043760&g=2020-07-01"
-citeertitel_status: "officieel"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043760"
+opgehaald: 2026-08-30
 ---
+
 # Compensatieregeling Coronacrisis Musea 40.000–100.000
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
-- 1. **het fonds:** het Mondriaan Fonds,
+- 1. *het fonds:* het Mondriaan Fonds,
 
-- 2. **het bestuur:** de directeur-bestuurder van het fonds,
+- 2. *het bestuur:* de directeur-bestuurder van het fonds,
 
-- 3. **eigen inkomsten:** de volgende baten, welke terug te vinden zijn in de goedgekeurde jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+- 3. *eigen inkomsten:* de volgende baten, welke terug te vinden zijn in de goedgekeurde jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- a. publieksinkomsten; en
+   - a. publieksinkomsten; en
 
-- b. overige inkomsten, zijnde:
+   - b. overige inkomsten, zijnde:
 
-- 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
+      - 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
 
-- 2. indirecte opbrengsten; en
+      - 2. indirecte opbrengsten; en
 
-- 3. overige bijdragen.
+      - 3. overige bijdragen.
 
-- a. subsidies die zijn verstrekt door een bestuursorgaan;
+   - a. subsidies die zijn verstrekt door een bestuursorgaan;
 
-- b. overige bijdragen uit publieke middelen;
+   - b. overige bijdragen uit publieke middelen;
 
-- c. rentebaten;
+   - c. rentebaten;
 
-- d. bijdragen in natura;
+   - d. bijdragen in natura;
 
-- e. kapitalisatie van vrijwilligers;
+   - e. kapitalisatie van vrijwilligers;
 
-- f. waardering vrijkaarten; en
+   - f. waardering vrijkaarten; en
 
-- g. overige baten die geen relatie hebben met cultureel ondernemerschap.
+   - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
 ##### Artikel 2. Doel
 
@@ -114,19 +91,19 @@ De bijdrage kan worden aangevraagd door een instelling die:
 
 3. De aanvraag dient in ieder geval voorzien te zijn van:
 
-- –. een kenschets van het museum met een omschrijving van de collectie en de activiteiten van de instelling in de afgelopen drie jaar, inclusief doelstellingen, doelgroepen, functie in de regio, samenwerkingen en publieksbereik;
+- – een kenschets van het museum met een omschrijving van de collectie en de activiteiten van de instelling in de afgelopen drie jaar, inclusief doelstellingen, doelgroepen, functie in de regio, samenwerkingen en publieksbereik;
 
-- –. een overzicht van het aantal betalende bezoekers in 2017 en 2018;
+- – een overzicht van het aantal betalende bezoekers in 2017 en 2018;
 
-- –. een overzicht van de eigen inkomsten in 2018;
+- – een overzicht van de eigen inkomsten in 2018;
 
-- –. een bewijs van registratie in het museumregister;
+- – een bewijs van registratie in het museumregister;
 
-- –. een indicatie van gemiste en te missen inkomsten van het museum ten gevolge van de Covid-19 maatregelen van het kabinet en indien van toepassing een overzicht van het gebruik door het museum van de generieke maatregelen en de coulancemaatregelen van OCW en de andere overheden;
+- – een indicatie van gemiste en te missen inkomsten van het museum ten gevolge van de Covid-19 maatregelen van het kabinet en indien van toepassing een overzicht van het gebruik door het museum van de generieke maatregelen en de coulancemaatregelen van OCW en de andere overheden;
 
-- –. een overzicht van de eigen reserves en de wijze waarop deze voor zover mogelijk zijn ingezet;
+- – een overzicht van de eigen reserves en de wijze waarop deze voor zover mogelijk zijn ingezet;
 
-- –. de goedgekeurde jaarrekeningen van de jaren 2017 en 2018.
+- – de goedgekeurde jaarrekeningen van de jaren 2017 en 2018.
 
 4. Het bestuur stelt een datum voor de aanvraag ronde vast.
 
@@ -140,13 +117,13 @@ De bijdrage kan worden aangevraagd door een instelling die:
 
 2. Bij de beoordeling van een aanvraag voor Compensatieregeling Coronacrisis Musea 40.000–100.000 geeft de adviescommissie een oordeel over het belang van het museum. Daarbij weegt zij de onderstaande aspecten in onderlinge samenhang.
 
-- –. het belang en de kwaliteit van de collectie
+- – het belang en de kwaliteit van de collectie
 
-- –. het belang en de kwaliteit van het tentoonstellingsbeleid van de instelling,
+- – het belang en de kwaliteit van het tentoonstellingsbeleid van de instelling,
 
-- –. het belang en de reputatie van de aanvragende instelling,
+- – het belang en de reputatie van de aanvragende instelling,
 
-- –. de lokale en regionale inbedding.
+- – de lokale en regionale inbedding.
 
 De adviescommissie weegt de geografische spreiding evenals diversiteit van de materiële en immateriële collecties van de totale groep te honoreren musea in haar oordeel mee.
 
@@ -184,7 +161,7 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 ##### Artikel 12. Verantwoording
 
-1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de middelen.
+1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de middelen.
 
 2. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
@@ -192,10 +169,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 juli 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2020.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 juli 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2020.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea 40.000–100.000.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

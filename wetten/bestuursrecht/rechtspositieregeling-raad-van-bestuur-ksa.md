@@ -1,62 +1,37 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 26 oktober 2020 (kenmerk 2984427/20/DP&O), houdende regels met betrekking tot de rechtspositie van de voorzitter en de overige leden van de raad van bestuur van de Kansspelautoriteit (Rechtspositieregeling raad van bestuur Ksa)"
+citeertitel: "Rechtspositieregeling raad van bestuur Ksa"
 identifier: "BWBR0044300"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-11-05"
-last_updated: "2020-11-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044300"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15687803"
-version_id: "27180322"
-internal_id: "C38410471"
-label_id: "15626964"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044300/2020-11-05/0"
-intitule_bron: "Stcrt.2020-57068"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-26"
-intitule_published: "2020-11-04"
-intitule_in_force: "2020-11-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-57068"
-original_signed_date: "2020-10-26"
-original_published_date: "2020-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-57068"
-entry_into_force_date: "2020-11-05"
-jci_1_3: "jci1.3:c:BWBR0044300&z=2020-11-05&g=2020-11-05"
-jci_1_0: "1.0:c:BWBR0044300&g=2020-11-05"
-citeertitel_status: "officieel"
-short_title: "Rechtspositieregeling raad van bestuur Ksa"
-signed_date: "2020-10-26"
-entry_into_force: "2020-11-05"
+publicatiedatum: 2020-11-05
+laatste_update: 2020-11-05
+status: geldig
+toestand: 2020-11-05
+bron: "https://wetten.overheid.nl/BWBR0044300"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 26 oktober 2020 (kenmerk 2984427/20/DP&O), houdende regels met betrekking tot de rechtspositie van de voorzitter en de overige leden van de raad van bestuur van de Kansspelautoriteit (Rechtspositieregeling raad van bestuur Ksa)
-
-Gelet op [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister voor Rechtsbescherming;
+- a. *minister:* Minister voor Rechtsbescherming;
 
-- b. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- b. *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- c. **Ksa:** kansspelautoriteit, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- c. *Ksa:* kansspelautoriteit, bedoeld in [artikel 33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- d. **raad:** raad van bestuur Ksa, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
+- d. *raad:* raad van bestuur Ksa, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33);
 
-- e. **voorzitter:** voorzitter van de raad;
+- e. *voorzitter:* voorzitter van de raad;
 
-- f. **lid:** lid van de raad, niet zijnde de voorzitter;
+- f. *lid:* lid van de raad, niet zijnde de voorzitter;
 
-- g. **Cao Rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+- g. *Cao Rijk:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 ##### Artikel 2
 
@@ -143,5 +118,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 15
 
 Deze regeling wordt aangehaald als: Rechtspositieregeling raad van bestuur Ksa.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

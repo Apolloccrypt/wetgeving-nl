@@ -1,72 +1,47 @@
 ---
 title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 augustus 2020, nr. VO/25236992, tot nadere regels voor de verstrekking van een licentie Topsporttalentschool voor scholen in het voortgezet onderwijs (Beleidsregel verstrekking licentie Topsporttalentschool VO 2020)"
+citeertitel: "Beleidsregel verstrekking licentie Topsporttalentschool VO 2020"
 identifier: "BWBR0044028"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-08-01"
-last_updated: "2023-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044028"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "15613633"
-version_id: "29534952"
-internal_id: "C42223421"
-label_id: "15554324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044028/2023-08-01/0"
-intitule_bron: "Stcrt.2020-45575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-26"
-intitule_published: "2020-08-31"
-intitule_in_force: "2020-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-20304"
-original_signed_date: "2023-06-29"
-original_published_date: "2023-07-20"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-20304"
-entry_into_force_date: "2023-08-01"
-jci_1_3: "jci1.3:c:BWBR0044028&z=2023-08-01&g=2023-08-01"
-jci_1_0: "1.0:c:BWBR0044028&g=2023-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel verstrekking licentie Topsporttalentschool VO 2020"
-signed_date: "2023-06-29"
-entry_into_force: "2023-08-01"
+publicatiedatum: 2023-08-01
+laatste_update: 2023-08-01
+status: geldig
+toestand: 2023-08-01
+bron: "https://wetten.overheid.nl/BWBR0044028"
+opgehaald: 2026-08-30
 ---
+
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 augustus 2020, nr. VO/25236992, tot nadere regels voor de verstrekking van een licentie Topsporttalentschool voor scholen in het voortgezet onderwijs (Beleidsregel verstrekking licentie Topsporttalentschool VO 2020)
-
-Gelet op de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=25) en [29, zevende lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=29) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **Expertisecentrum:** Expertisecentrum Voortgezet Onderwijs & Topsport;
+- *Expertisecentrum:* Expertisecentrum Voortgezet Onderwijs & Topsport;
 
-- **KNVB:** Koninklijke Nederlandse Voetbalbond;
+- *KNVB:* Koninklijke Nederlandse Voetbalbond;
 
-- **licentie Topsporttalentschool:** beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2023-08-01&g=2023-08-01) wordt ingewilligd;
+- *licentie Topsporttalentschool:* beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2023-08-01&g=2023-08-01) wordt ingewilligd;
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **NOC*NSF:** Nederlands Olympisch Comité*Nederlandse Sport Federatie;
+- *NOC*NSF:* Nederlands Olympisch Comité*Nederlandse Sport Federatie;
 
-- **reisafstand:** reisafstand op basis van de snelste route met de auto van het woonadres van de topsporttalentleerlingen naar het vestigingsadres van de Topsporttalentschool, bepaald door gebruikmaking van de ANWB-autorouteplanner;
+- *reisafstand:* reisafstand op basis van de snelste route met de auto van het woonadres van de topsporttalentleerlingen naar het vestigingsadres van de Topsporttalentschool, bepaald door gebruikmaking van de ANWB-autorouteplanner;
 
-- **school:** hoofdvestiging of nevenvestiging van een school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) en [2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
+- *school:* hoofdvestiging of nevenvestiging van een school of scholengemeenschap voor voortgezet onderwijs waar uit de openbare kas bekostigd onderwijs wordt verzorgd als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) en [2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **topsporttalentleerlingen:** leerling waarvan is vastgesteld dat deze wordt beschouwd als talent of topsporter met een officiële talent-, of topsportstatus van het NOC*NSF of een beloftestatus van de KNVB;
+- *topsporttalentleerlingen:* leerling waarvan is vastgesteld dat deze wordt beschouwd als talent of topsporter met een officiële talent-, of topsportstatus van het NOC*NSF of een beloftestatus van de KNVB;
 
-- **Topsporttalentschool:** school met een licentie Topsporttalentschool als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2023-08-01&g=2023-08-01);
+- *Topsporttalentschool:* school met een licentie Topsporttalentschool als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2023-08-01&g=2023-08-01);
 
-- **vmbo:** middelbaar algemeen voortgezet onderwijs [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) en voorbereidend beroepsonderwijs [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
+- *vmbo:* middelbaar algemeen voortgezet onderwijs [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6) en voorbereidend beroepsonderwijs [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -80,9 +55,9 @@ Het doel van deze regeling is om sporttalenten met een officiële talent-, of to
 
 3. Scholen waar op het moment van de aanvraag of op het moment van besluiten de kwaliteit van het onderwijs zeer zwak is als bedoeld in [artikel 2.94, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) het onderwijs als onvoldoende is beoordeeld, komen niet in aanmerking voor een licentie Topsporttalentschool.
 
-4. De aanvraag voor een licentie Topsporttalentschool wordt op uiterlijk 1 oktober van het schooljaar ingediend.
+4. De aanvraag voor een licentie Topsporttalentschool wordt op uiterlijk 1 oktober van het schooljaar ingediend.
 
-5. Het Expertisecentrum adviseert de minister over de aanvraag op uiterlijk 1 december van het desbetreffende jaar.
+5. Het Expertisecentrum adviseert de minister over de aanvraag op uiterlijk 1 december van het desbetreffende jaar.
 
 6. De minister beslist binnen 26 weken na ontvangst van een aanvraag.
 
@@ -98,11 +73,11 @@ De aanvraag gaat vergezeld van de volgende documenten:
 
 De school, waarvoor het bevoegd gezag een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=3&z=2023-08-01&g=2023-08-01) heeft ingediend, voldoet aan de volgende voorschriften:
 
-- a. op de meest recente teldatum van 1 oktober die voorafgaat aan de aanvraag, zijn op de school ten minste 35 topsporttalentleerlingen ingeschreven, waarbij per sport maximaal 15 leerlingen meetellen, tenzij:
+- a. op de meest recente teldatum van 1 oktober die voorafgaat aan de aanvraag, zijn op de school ten minste 35 topsporttalentleerlingen ingeschreven, waarbij per sport maximaal 15 leerlingen meetellen, tenzij:
 
-- 1°. deze voorwaarde tot gevolg heeft dat in een bepaalde provincie geen enkele licentie Topsporttalentschool kan worden verstrekt. In dat geval kan een licentie Topsporttalentschool worden verleend aan een school in die provincie waar ten minste tien topsporttalentleerlingen staan ingeschreven en maximaal één derde deel van die topsporttalentleerlingen dezelfde sport beoefent; of
+   - 1°. deze voorwaarde tot gevolg heeft dat in een bepaalde provincie geen enkele licentie Topsporttalentschool kan worden verstrekt. In dat geval kan een licentie Topsporttalentschool worden verleend aan een school in die provincie waar ten minste tien topsporttalentleerlingen staan ingeschreven en maximaal één derde deel van die topsporttalentleerlingen dezelfde sport beoefent; of
 
-- 2°. het een school betreft met ten minste 20 topsporttalentleerlingen die onderwijs volgen in het vmbo en maximaal één derde van die topsporttalentleerlingen dezelfde sport beoefent;
+   - 2°. het een school betreft met ten minste 20 topsporttalentleerlingen die onderwijs volgen in het vmbo en maximaal één derde van die topsporttalentleerlingen dezelfde sport beoefent;
 
 - b. er is een samenwerkingsverband met tenminste drie sportbonden of verenigingen die op het hoogste landelijk niveau actief zijn;
 
@@ -190,13 +165,13 @@ Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in af
 
 - a. de topsporttalentleerling staat ingeschreven op een school van het bevoegd gezag;
 
-- b. de topsporttalentleerling woont op meer dan 25 kilometer reisafstand van een Topsporttalentschool of is ingeschreven voor een schoolsoort als bedoeld in [artikel 2.1. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.1) die niet wordt aangeboden op een nabijgelegen Topsporttalentschool;
+- b. de topsporttalentleerling woont op meer dan 25 kilometer reisafstand van een Topsporttalentschool of is ingeschreven voor een schoolsoort als bedoeld in [artikel 2.1. van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.1) die niet wordt aangeboden op een nabijgelegen Topsporttalentschool;
 
 - c. de school kan blijkens een positief advies van het Expertisecentrum de topsporttalentleerling een optimale combinatie tussen sport en onderwijs aanbieden; en
 
 - d. de kwaliteit van het onderwijs van de schoolsoort waar de topsporttalentleerling bij de school staat ingeschreven is niet zeer zwak als bedoeld in [artikel 2.94, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94) of door de inspectie ingevolge [artikel 11 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) als onvoldoende beoordeeld.
 
-3. De aanvraag bedoeld in het eerste lid kan tot 1 oktober van het lopende schooljaar worden gedaan. De minister beslist binnen 26 weken na ontvangst van de aanvraag.
+3. De aanvraag bedoeld in het eerste lid kan tot 1 oktober van het lopende schooljaar worden gedaan. De minister beslist binnen 26 weken na ontvangst van de aanvraag.
 
 4. Indien de topsporttalentleerling bedoeld in het eerste en tweede lid niet meer beschouwd kan worden als een topsporttalentleerling, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044028&artikel=9&z=2023-08-01&g=2023-08-01) van overeenkomstige toepassing.
 
@@ -204,7 +179,7 @@ Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in af
 
 ##### Artikel 17. Evaluatie
 
-De minister evalueert deze beleidsregel voor 1 januari 2025.
+De minister evalueert deze beleidsregel voor 1 januari 2025.
 
 ##### Artikel 18. Overgangsbepaling
 
@@ -212,28 +187,18 @@ De minister evalueert deze beleidsregel voor 1 januari 2025.
 
 2. Reeds bestaande ontheffingen en vrijstellingen die op basis van de [Beleidsregel verstrekking licentie Topsporttalentschool VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026643) zijn verstrekt, blijven behouden.
 
-##### Artikel 19. Intrekking [Beleidsregel VO-scholen met een Loot-licentie](https://wetten.overheid.nl/jci1.3:c:BWBR0026643)
+##### Artikel 19. Intrekking Beleidsregel VO-scholen met een Loot-licentie
 
-De [Beleidsregel verstrekking licentie Topsporttalentschool VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026643) wordt per 1 september 2020 ingetrokken.
+De [Beleidsregel verstrekking licentie Topsporttalentschool VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026643) wordt per 1 september 2020 ingetrokken.
 
 ##### Artikel 20. Omhang
 
 Deze beleidsregel is mede gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
 
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 18a. Omhang
-
-Deze beleidsregel is mede gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 21. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 september 2020.
+Deze beleidsregel treedt in werking met ingang van 1 september 2020.
 
 ##### Artikel 22. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking licentie Topsporttalentschool VO 2020.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

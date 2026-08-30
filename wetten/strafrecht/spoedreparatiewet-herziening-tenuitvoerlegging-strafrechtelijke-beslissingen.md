@@ -1,87 +1,58 @@
 ---
 title: "Wet van 24 juni 2020 tot wijziging van het Wetboek van Strafvordering en enkele andere wetten in verband met het doorvoeren van enkele noodzakelijke reparaties en andere kleine wijzigingen (Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen)"
+citeertitel: "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen"
 identifier: "BWBR0043800"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043800"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "15543873"
-version_id: "26854472"
-internal_id: "C38112481"
-label_id: "15485844"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043800/2025-07-01/0"
-intitule_bron: "Stb.2020-225"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-24"
-intitule_published: "2020-07-03"
-intitule_in_force: "2020-07-24"
-intitule_status: "goed"
-original_publication: "Stb.2020-225"
-original_signed_date: "2020-06-24"
-original_published_date: "2020-07-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "35436"
-original_url_id: "stb-2020-225"
-entry_into_force_date: "2020-07-25"
-jci_1_3: "jci1.3:c:BWBR0043800&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0043800&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen"
-signed_date: "2020-06-24"
-entry_into_force: "2020-07-25"
+publicatiedatum: 2020-07-25
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0043800"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 24 juni 2020 tot wijziging van het Wetboek van Strafvordering en enkele andere wetten in verband met het doorvoeren van enkele noodzakelijke reparaties en andere kleine wijzigingen (Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en enkele andere wetten te wijzigen in verband met het doorvoeren van enkele noodzakelijke reparaties en andere wijzigingen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel II
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel III
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
+*Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.*
 
 ##### Artikel IV
 
-Wijzigt de Wet op de rechterlijke organisatie.
+*Wijzigt de Wet op de rechterlijke organisatie.*
 
 ##### Artikel V
 
-Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
+*Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.*
 
 ##### Artikel VI
 
-Wijzigt de Wet straffen en beschermen.
+*Wijzigt de Wet straffen en beschermen.*
 
 ##### Artikel VII
 
-Wijzigt de Wet herziening tenuitvoerlegging strafrechtelijke beslissingen.
+*Wijzigt de Wet herziening tenuitvoerlegging strafrechtelijke beslissingen.*
 
 ##### Artikel VIII
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel IX
 
-Wijzigt de Wet op het financieel toezicht en de Wet verwijzingsportaal bankgegevens.
+*Wijzigt de Wet op het financieel toezicht en de Wet verwijzingsportaal bankgegevens.*
 
 ##### Artikel X
 
-Vervallen
+*Vervallen*
 
 ##### Artikel XI
 
@@ -94,5 +65,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XIII
 
 Deze wet wordt aangehaald als: Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

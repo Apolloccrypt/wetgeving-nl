@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 25 juni 2020, nr. WJZ/ 20152865, houdende eenmalige specifieke uitkering in verband met de uitvoering van de MKB-deals (Regeling specifieke uitkering MKB-deals)"
+citeertitel: "Regeling specifieke uitkering MKB-deals"
 identifier: "BWBR0043799"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-12-12"
-last_updated: "2020-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043799"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15543673"
-version_id: "26854232"
-internal_id: "C38039491"
-label_id: "15485634"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043799/2020-12-12/0"
-intitule_bron: "Stcrt.2020-36615"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-25"
-intitule_published: "2020-07-09"
-intitule_in_force: "2020-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-36615"
-original_signed_date: "2020-06-25"
-original_published_date: "2020-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-36615"
-entry_into_force_date: "2020-07-10"
-jci_1_3: "jci1.3:c:BWBR0043799&z=2020-12-12&g=2020-12-12"
-jci_1_0: "1.0:c:BWBR0043799&g=2020-12-12"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering MKB-deals"
-signed_date: "2020-06-25"
-entry_into_force: "2020-07-10"
+publicatiedatum: 2020-07-10
+laatste_update: 2020-12-12
+status: geldig
+toestand: 2020-12-12
+bron: "https://wetten.overheid.nl/BWBR0043799"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 25 juni 2020, nr. WJZ/ 20152865, houdende eenmalige specifieke uitkering in verband met de uitvoering van de MKB-deals (Regeling specifieke uitkering MKB-deals)
-
-Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **minister:** de Minister van Economische Zaken en Klimaat;
+- *minister:* de Minister van Economische Zaken en Klimaat;
 
-- **MKB-deal:** een convenant dat door de minister en een dealpartner is gesloten naar aanleiding van de oproep voor voorstellen voor MKB-deals;
+- *MKB-deal:* een convenant dat door de minister en een dealpartner is gesloten naar aanleiding van de oproep voor voorstellen voor MKB-deals;
 
-- **dealpartner:** een provincie of gemeente die partij is bij een MKB-deal;
+- *dealpartner:* een provincie of gemeente die partij is bij een MKB-deal;
 
-- **regionale cofinanciering:** voor de uitvoeringsactiviteiten beschikbaar gestelde bijdragen, door een dealpartner, een ander bestuursorgaan, een andere publieke rechtspersoon, of private partijen voor zover een dealpartner daarover kan beschikken, niet zijnde de financiële bijdrage van de minister voor de uitvoeringsactiviteiten;
+- *regionale cofinanciering:* voor de uitvoeringsactiviteiten beschikbaar gestelde bijdragen, door een dealpartner, een ander bestuursorgaan, een andere publieke rechtspersoon, of private partijen voor zover een dealpartner daarover kan beschikken, niet zijnde de financiële bijdrage van de minister voor de uitvoeringsactiviteiten;
 
-- **uitvoeringsactiviteiten:** activiteiten ter uitvoering van een MKB-deal zoals omschreven in een MKB-deal.
+- *uitvoeringsactiviteiten:* activiteiten ter uitvoering van een MKB-deal zoals omschreven in een MKB-deal.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -66,11 +40,11 @@ De minister verstrekt een eenmalige specifieke uitkering voor uitvoeringsactivit
 
 ##### Artikel 4. Beslistermijn
 
-De minister verleent de specifieke uitkering uiterlijk vier weken na 30 oktober 2020.
+De minister verleent de specifieke uitkering uiterlijk vier weken na 30 oktober 2020.
 
 ##### Artikel 5. Voorwaarden
 
-1. Een specifieke uitkering wordt uitsluitend verstrekt indien een MKB-deal is gesloten in de periode van 1 juni tot en met 23 november 2020.
+1. Een specifieke uitkering wordt uitsluitend verstrekt indien een MKB-deal is gesloten in de periode van 1 juni tot en met 23 november 2020.
 
 2. Er wordt per gesloten MKB-deal één specifieke uitkering verstrekt.
 
@@ -108,7 +82,7 @@ De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het ver
 
 - b. niet is voldaan aan de verplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043799&artikel=6&z=2020-12-12&g=2020-12-12).
 
-2. De minister stelt de specifieke uitkering ambtshalve vast, uiterlijk op 31 december van het jaar volgend op het jaar waarin de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is ontvangen.
+2. De minister stelt de specifieke uitkering ambtshalve vast, uiterlijk op 31 december van het jaar volgend op het jaar waarin de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is ontvangen.
 
 ##### Artikel 10. Inwerkingtreding
 
@@ -117,5 +91,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering MKB-deals.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

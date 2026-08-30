@@ -1,55 +1,26 @@
 ---
 title: "Wet van 24 juni 2020 tot wijziging van de Penitentiaire beginselenwet, het Wetboek van Strafrecht en enige andere wetten in verband met de wijziging van de regeling inzake detentiefasering en voorwaardelijke invrijheidstelling (Wet straffen en beschermen)"
+citeertitel: "Wet straffen en beschermen"
 identifier: "BWBR0043990"
-country: "nl"
-rank: "wet"
-publication_date: "2021-12-01"
-last_updated: "2021-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043990"
+categorie: "Strafrecht"
 soort: "wet"
-stam_id: "15602873"
-version_id: "26956332"
-internal_id: "C39221651"
-label_id: "15543854"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043990/2021-12-01/0"
-intitule_bron: "Stb.2020-224"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-24"
-intitule_published: "2020-07-03"
-intitule_in_force: "2021-06-10"
-intitule_status: "goed"
-original_publication: "Stb.2020-224"
-original_signed_date: "2020-06-24"
-original_published_date: "2020-07-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "35122"
-original_url_id: "stb-2020-224"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0043990&z=2021-12-01&g=2021-12-01"
-jci_1_0: "1.0:c:BWBR0043990&g=2021-12-01"
-citeertitel_status: "officieel"
-short_title: "Wet straffen en beschermen"
-signed_date: "2020-06-24"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2021-12-01
+status: geldig
+toestand: 2021-12-01
+bron: "https://wetten.overheid.nl/BWBR0043990"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 24 juni 2020 tot wijziging van de Penitentiaire beginselenwet, het Wetboek van Strafrecht en enige andere wetten in verband met de wijziging van de regeling inzake detentiefasering en voorwaardelijke invrijheidstelling (Wet straffen en beschermen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) en het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) te wijzigen in verband met de wijziging van de regelingen inzake detentiefasering en voorwaardelijke invrijheidstelling;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt de Penitentiaire beginselenwet.
+*Wijzigt de Penitentiaire beginselenwet.*
 
 ##### Artikel III
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ##### Artikel IV
 
@@ -61,11 +32,9 @@ Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel IVa
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel IVb
-
-A.
 
 Na de inwerkingtreding van deze wet berust de [Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398) mede op de [artikelen 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=4), en [18b, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=18b).
 
@@ -84,5 +53,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel VI
 
 Deze wet wordt aangehaald als: Wet straffen en beschermen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

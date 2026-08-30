@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2025, nr. 2025-0000042677 tot wijziging van het Besluit CIO-stelsel Rijksdienst 2021 (Besluit CIO-stelsel Rijksdienst 2026)"
+citeertitel: "Besluit CIO-stelsel Rijksdienst 2026"
 identifier: "BWBR0044613"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044613"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "15786033"
-version_id: "27365862"
-internal_id: "C38646131"
-label_id: "15723844"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044613/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40208"
-intitule_effect: "wijziging"
-intitule_signed: "2025-12-14"
-intitule_published: "2025-12-16"
-intitule_in_force: "2025-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62488"
-original_signed_date: "2020-12-18"
-original_published_date: "2020-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62488"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044613&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0044613&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit CIO-stelsel Rijksdienst 2026"
-signed_date: "2020-12-18"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0044613"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 december 2025, nr. 2025-0000042677 tot wijziging van het Besluit CIO-stelsel Rijksdienst 2021 (Besluit CIO-stelsel Rijksdienst 2026)
-
-Handelend in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3), en [6, eerste en tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6);
 
 #### § 1. Algemeen
 
@@ -46,45 +20,46 @@ Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 In dit besluit wordt verstaan onder:
 
-- a. **beveiligingsautoriteit:** beveiligingsautoriteit; bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=3);
+- a. *beveiligingsautoriteit:* beveiligingsautoriteit; bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=3);
 
-- b. **beveiligingsautoriteit Rijk:** beveiligingsautoriteit Rijk; bedoeld in [artikel 7 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=7);
+- b. *beveiligingsautoriteit Rijk:* beveiligingsautoriteit Rijk; bedoeld in [artikel 7 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=7);
 
-- c. **CIO:** Chief Information Officer bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01);
+- c. *CIO:* Chief Information Officer bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01);
 
-- d. **CIO Rijk:** Chief Information Officer Rijk bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01);
+- d. *CIO Rijk:* Chief Information Officer Rijk bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01);
 
-- e. **CISO:** Chief Information Security Officer bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01) en [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01);
+- e. *CISO:* Chief Information Security Officer bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01) en [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01);
 
-- f. **CISO Rijk:** Chief Information Security Officer Rijk bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01);
+- f. *CISO Rijk:* Chief Information Security Officer Rijk bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01);
 
-- g. **(C)DO:** (Chief) Data Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01);
+- g. *(C)DO:* (Chief) Data Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01);
 
-- h. **(C)PO:** (Chief) Privacy Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01);
+- h. *(C)PO:* (Chief) Privacy Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=12&z=2026-01-01&g=2026-01-01);
 
-- i. **(C)TO:** (Chief) Technology Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01);
+- i. *(C)TO:* (Chief) Technology Officer bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01) en [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01);
 
-- j. **Coördinatiebesluit:** [Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514);
+- j. *Coördinatiebesluit:*
+ [Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514);
 
-- k. **digitalisering:** geheel aan ontwikkelingen binnen de overheid en in de samenleving die te maken hebben met het toenemend gebruik van ICT, digitale informatie, data en informatiesystemen;
+- k. *digitalisering:* geheel aan ontwikkelingen binnen de overheid en in de samenleving die te maken hebben met het toenemend gebruik van ICT, digitale informatie, data en informatiesystemen;
 
-- l. **grote ICT-component:** ICT-component vallend onder de definitie die in het Handboek portfoliomanagement Rijk wordt gegeven aan grote ICT-component;
+- l. *grote ICT-component:* ICT-component vallend onder de definitie die in het Handboek portfoliomanagement Rijk wordt gegeven aan grote ICT-component;
 
-- m. **ICT:** Informatie- en communicatietechnologie;
+- m. *ICT:* Informatie- en communicatietechnologie;
 
-- n. **informatiebeveiliging:** proces van vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen;
+- n. *informatiebeveiliging:* proces van vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen;
 
-- o. **informatiesysteem:** samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
+- o. *informatiesysteem:* samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
 
-- p. **informatievoorziening:** geheel van mensen, middelen, informatiesystemen en maatregelen, gericht op de informatiebehoefte van een organisatie;
+- p. *informatievoorziening:* geheel van mensen, middelen, informatiesystemen en maatregelen, gericht op de informatiebehoefte van een organisatie;
 
-- q. **portfoliomanagement:** proces van inventarisatie, registratie en actualisatie van wijzigingen in informatiesystemen, vastgelegd in een portfolio.
+- q. *portfoliomanagement:* proces van inventarisatie, registratie en actualisatie van wijzigingen in informatiesystemen, vastgelegd in een portfolio.
 
 ##### Artikel 2. Reikwijdte
 
 1. Dit besluit geldt voor de rijksdienst, zijnde de kerndepartementen en de daaronder ressorterende dienstonderdelen inclusief de gevestigde diensten op Caribisch Nederland.
 
-2. Bij de Rijksdienst Caribisch Nederland (RCN) is een CIO Rijksdienst Caribisch Nederland (CIO RCN) aangesteld, die rechtstreeks ressorteert onder de CIO Binnenlandse Zaken en Koninkrijksrelaties. De CIO RCN heeft dezelfde taken en verantwoordelijkheden als de departementale CIO bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01).
+2. Bij de Rijksdienst Caribisch Nederland (RCN) is een CIO Rijksdienst Caribisch Nederland (CIO RCN) aangesteld, die rechtstreeks ressorteert onder de CIO Binnenlandse Zaken en Koninkrijksrelaties. De CIO RCN heeft dezelfde taken en verantwoordelijkheden als de departementale CIO bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01).
 
 #### § 2. CIO en CISO
 
@@ -116,11 +91,11 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - e. het met inachtneming van toepasselijke rijksbrede kaders en ICT-voorzieningen zorgdragen voor de ontwikkeling en coördinatie van informatievoorzieningsbeleid en digitaliseringsbeleid en de ontwikkeling en het beheer van de informatiesystemen van het ministerie;
 
-- f. het toezien op naleving van de kaders gesteld op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2) en [6 van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) en het gevraagd en ongevraagd informeren en adviseren van het verantwoordelijk lijnmanagement en de CIO Rijk hierover;
+- f. het toezien op naleving van de kaders gesteld op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2) en [6 van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) en het gevraagd en ongevraagd informeren en adviseren van het verantwoordelijk lijnmanagement en de CIO Rijk hierover;
 
 - g. het ontwikkelen en coördineren van integraal portfoliomanagement en levenscyclusmanagement om de samenhang tussen ICT-(door)ontwikkeling en ICT-beheer van het kerndepartement en dienstonderdelen te bewaken;
 
-- h. het gevraagd en ongevraagd adviseren en informeren van de CIO Rijk voor zover dit redelijkerwijs noodzakelijk is voor diens taakuitoefening, bedoeld in artikel 18;
+- h. het gevraagd en ongevraagd adviseren en informeren van de CIO Rijk voor zover dit redelijkerwijs noodzakelijk is voor diens taakuitoefening, bedoeld in artikel 18;
 
 - i. het zorgdragen voor voldoende aandacht binnen het ministerie voor continue beheeractiviteit en verbetering van de ICT-infrastructuur inclusief de benodigde technologische vernieuwing en informatiebeveiliging;
 
@@ -128,7 +103,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - k. het uitvoeren van oordelen aangaande de beheersing, haalbaarheid, risico’s en implicaties van alle voorgenomen en in uitvoering zijnde activiteiten met een grote ICT-component, conform de daarvoor geldende rijksbrede kwaliteitsnormen;
 
-- l. het aanmelden van activiteiten bij het Adviescollege ICT-toetsing, als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2° van de Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&artikel=7);
+- l. het aanmelden van activiteiten bij het Adviescollege ICT-toetsing, als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2° van de Wet Adviescollege ICT-toetsing](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&artikel=7);
 
 - m. het uitvoeren van de taken met betrekking tot het (IV)beleidsterrein voor de eigen diensten die vallen onder het eigen ministerie;
 
@@ -148,7 +123,7 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 1. De minister die belast is met de leiding van een ministerie draagt zorg voor de aanstelling van een departementale CISO die rechtstreeks ressorteert onder de CIO van het ministerie.
 
-2. De departementale CISO is belast met de ontwikkeling en coördinatie van het departementale informatiebeveiligingsbeleid, bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051482&artikel=3) en het ondersteunen van het verantwoordelijk lijnmanagement bij de implementatie en naleving hiervan.
+2. De departementale CISO is belast met de ontwikkeling en coördinatie van het departementale informatiebeveiligingsbeleid, bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051482&artikel=3) en het ondersteunen van het verantwoordelijk lijnmanagement bij de implementatie en naleving hiervan.
 
 ##### Artikel 7. Taken departementale CISO
 
@@ -156,17 +131,17 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - a. het ontwikkelen en coördineren van departementaal informatiebeveiligingsbeleid en -kaders en het ondersteunen van de implementatie en naleving hiervan;
 
-- b. het zorgdragen voor het departementale informatiebeveiligingsbeleid als onderdeel van het departementale digitaliserings- en informatievoorzieningsbeleid, bedoeld in [artikel 4, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01);
+- b. het zorgdragen voor het departementale informatiebeveiligingsbeleid als onderdeel van het departementale digitaliserings- en informatievoorzieningsbeleid, bedoeld in [artikel 4, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01);
 
 - c. het ontwikkelen en actueel houden van een departementaal risicobeeld met betrekking tot informatiebeveiliging;
 
-- d. het bijdragen aan het opstellen en beheren van het meerjarig informatieplan voor het ministerie, bedoeld in [artikel 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), met betrekking tot de departementale informatiebeveiliging;
+- d. het bijdragen aan het opstellen en beheren van het meerjarig informatieplan voor het ministerie, bedoeld in [artikel 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), met betrekking tot de departementale informatiebeveiliging;
 
-- e. het bijdragen aan het opstellen van het rijksbrede informatiebeveiligingsbeleid, het risicobeeld en het calamiteitenplan, bedoeld in [artikel 20, onder a, c en j](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), en de rijksbrede strategie, bedoeld in [artikel 18, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), en aan het integrale beveiligingsbeleid, de risicoanalyse en het calamiteitenplan, bedoeld in [artikel 4, eerste, derde en zesde lid, van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4), met betrekking tot de departementale informatiebeveiliging;
+- e. het bijdragen aan het opstellen van het rijksbrede informatiebeveiligingsbeleid, het risicobeeld en het calamiteitenplan, bedoeld in [artikel 20, onder a, c en j](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), en de rijksbrede strategie, bedoeld in [artikel 18, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), en aan het integrale beveiligingsbeleid, de risicoanalyse en het calamiteitenplan, bedoeld in [artikel 4, eerste, derde en zesde lid, van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4), met betrekking tot de departementale informatiebeveiliging;
 
 - f. het gevraagd en ongevraagd adviseren van de departementale CIO, het verantwoordelijk lijnmanagement en CISO’s van dienstonderdelen over de informatiebeveiliging en de risico’s daarvoor van (voorgenomen) wet- en regelgeving, investeringen, beleids- en uitvoeringstrajecten, informatieprocessen en informatiesystemen;
 
-- g. het gevraagd en ongevraagd adviseren en informeren van de CISO Rijk voor zover dit redelijkerwijs noodzakelijk is voor diens taakuitoefening, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), en van de departementale beveiligingsautoriteit ten behoeve van diens taakuitoefening op grond van het bepaalde in het [Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617);
+- g. het gevraagd en ongevraagd adviseren en informeren van de CISO Rijk voor zover dit redelijkerwijs noodzakelijk is voor diens taakuitoefening, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), en van de departementale beveiligingsautoriteit ten behoeve van diens taakuitoefening op grond van het bepaalde in het [Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617);
 
 - h. het monitoren en controleren van het informatiebeveiligingsbewustzijn binnen het ministerie, het adviseren van het kerndepartement en dienstonderdelen hierover en het zorgdragen voor het vergroten van het bewustzijn over informatiebeveiliging binnen het ministerie;
 
@@ -174,11 +149,11 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 - j. het ontwikkelen en coördineren van informatiebeveiligingsactiviteiten, -projecten en het zorgdragen voor een projectportfolio voor informatiebeveiliging;
 
-- k. het bijdragen aan CIO-oordelen en kwaliteitstoetsen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), met betrekking tot informatiebeveiliging;
+- k. het bijdragen aan CIO-oordelen en kwaliteitstoetsen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01), met betrekking tot informatiebeveiliging;
 
 - l. het binnen het ministerie coördineren van onderzoeken van de Auditdienst Rijk, Algemene Rekenkamer, Adviescollege ICT-toetsing en eventueel Autoriteit Persoonsgegevens naar het niveau van de naleving van het betreffende beleidsgebied;
 
-- m. het monitoren en signaleren van afwijkingen van [artikel 41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) en het informeren hierover van de secretaris-generaal als eigenaar van een zelfstandig bestuursorgaan.
+- m. het monitoren en signaleren van afwijkingen van [artikel 41, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) en het informeren hierover van de secretaris-generaal als eigenaar van een zelfstandig bestuursorgaan.
 
 ##### Artikel 8. Bevoegdheden departementale CISO
 
@@ -194,27 +169,25 @@ De minister die belast is met de leiding van een ministerie draagt aan de depart
 
 1. Naast de benoemde CIO, CISO, CIO Rijk en CISO Rijk kunnen de ministeries de volgende rollen invullen:
 
-- –. (Chief) Data Officer (C)DO)
+- – (Chief) Data Officer (C)DO)
 
-- –. (Chief) Privacy Officer (C)PO)
+- – (Chief) Privacy Officer (C)PO)
 
-- –. (Chief) Technology Officer (C)TO)
+- – (Chief) Technology Officer (C)TO)
 
 2. Het staat de ministeries vrij om deze rollen als afzonderlijke functies binnen hun organisatiestructuur te formaliseren, rekening houdend met de specifieke behoeften en vereisten van hun operationele omgeving.
 
 3. Indien de aard en het belang van de rol binnen het ministerie dit rechtvaardigen, kan aan de aanduiding van de rol het voorvoegsel ‘Chief’ worden toegevoegd, waarmee de status en verantwoordelijkheid van de functie worden benadrukt. Dit resulteert in de volgende titels:
 
-- –. Chief Data Officer (CDO)
+- – Chief Data Officer (CDO)
 
-- –. Chief Privacy Officer (CPO)
+- – Chief Privacy Officer (CPO)
 
-- –. Chief Technology Officer (CTO)
+- – Chief Technology Officer (CTO)
 
 4. De departementale (C)DO, (C)PO en (C)TO zijn een tweedelijnsfunctie en ressorteren rechtstreeks onder de departementale CIO. Deze tweedelijnsfunctie gaat over adviseren, kaderstellen en monitoren.
 
 5. De departementale CIO is verantwoordelijk voor de functionele aansturing alsmede voor de toewijzing van taken en verantwoordelijkheden.
-
-#### § 3. CIO rijk en CISO rijk
 
 ##### Artikel 10. Taken departementale (Chief) Data Officer
 
@@ -346,8 +319,6 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 - r. het op verzoek van de CIO bijdragen aan CIO-oordelen en kwaliteitstoetsen.
 
-#### § 4. CIO-Beraad en Rijks ICT-dashboard
-
 ##### Artikel 15. Bevoegdheden departementale (Chief) Technology Officer
 
 1. De (C)TO handelt binnen het mandaat zoals dat is verstrekt door de CIO.
@@ -362,23 +333,23 @@ De departementale (C)TO ressorteert onder de departementale CIO. De CIO kan de d
 
 1. De minister die belast is met de leiding van een ministerie draagt er zorg voor dat voor dienstonderdelen met een substantieel portfolio van informatiesystemen een eigen CIO wordt aangesteld.
 
-2. De CIO van een dienstonderdeel is belast met de ontwikkeling en de coördinatie van het informatievoorzienings- en digitaliseringsbeleid voor het dienstonderdeel en het zorgdragen voor de ontwikkeling en het beheer van de informatiesystemen van het dienstonderdeel conform dit beleid. De taken en bevoegdheden van de CIO van een dienstonderdeel zijn een afgeleide van de taken en bevoegdheden van de departementale CIO, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01).
+2. De CIO van een dienstonderdeel is belast met de ontwikkeling en de coördinatie van het informatievoorzienings- en digitaliseringsbeleid voor het dienstonderdeel en het zorgdragen voor de ontwikkeling en het beheer van de informatiesystemen van het dienstonderdeel conform dit beleid. De taken en bevoegdheden van de CIO van een dienstonderdeel zijn een afgeleide van de taken en bevoegdheden van de departementale CIO, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=5&z=2026-01-01&g=2026-01-01).
 
 3. De CIO van een dienstonderdeel maakt deel uit van de hoogste ambtelijke leiding van het betreffende dienstonderdeel.
 
 4. De minister die belast is met de leiding van een ministerie draagt er zorg voor dat voor dienstonderdelen met een substantieel portfolio van informatiesystemen een CISO wordt aangesteld, ressorterend onder de CIO van het dienstonderdeel.
 
-5. De CISO van een dienstonderdeel is belast met het informatiebeveiligingsbeleid, bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051482&artikel=3), voor zover dit betrekking heeft op het dienstonderdeel. De taken en bevoegdheden van de CISO van een dienstonderdeel zijn een afgeleide van de taken en bevoegdheden van de departementale CISO, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01).
+5. De CISO van een dienstonderdeel is belast met het informatiebeveiligingsbeleid, bedoeld in [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022141&artikel=3) en [artikel 3 van het Besluit Voorschrift Informatiebeveiliging Rijksdienst – Bijzondere Informatie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051482&artikel=3), voor zover dit betrekking heeft op het dienstonderdeel. De taken en bevoegdheden van de CISO van een dienstonderdeel zijn een afgeleide van de taken en bevoegdheden van de departementale CISO, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01).
 
 6. Een CIO en een CISO van een dienstonderdeel maken onderdeel uit van het departementale CIO-stelsel. Hetzelfde geldt voor de (C)DO, (C)PO en (C)TO wanneer deze rollen zijn ingevuld.
 
-#### § 5. Slotbepalingen
+#### § 3. CIO Rijk en CISO Rijk
 
 ##### Artikel 17. CIO Rijk en CISO Rijk
 
 1. De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt een Chief Information Officer Rijk en een Chief Information Security Officer Rijk aan.
 
-2. De CIO Rijk is belast met de ontwikkeling en coördinatie van het rijksbrede informatievoorziening- en digitaliseringsbeleid en draagt zorg voor de ontwikkeling en het beheer van de ICT-voorzieningen en informatiesystemen, bedoeld in [artikel 2, eerste lid onder b, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2).
+2. De CIO Rijk is belast met de ontwikkeling en coördinatie van het rijksbrede informatievoorziening- en digitaliseringsbeleid en draagt zorg voor de ontwikkeling en het beheer van de ICT-voorzieningen en informatiesystemen, bedoeld in [artikel 2, eerste lid onder b, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2).
 
 3. De CISO Rijk is belast met de coördinatie van de maatregelen en het beleid voor de informatiebeveiliging voor zover deze betrekking hebben op de rijksdienst en ressorteert onder de CIO Rijk.
 
@@ -394,15 +365,15 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CIO Rijk
 
 - d. het ontwikkelen, coördineren en monitoren van de implementatie van het rijksbrede digitaliserings- en informatievoorzieningsbeleid;
 
-- e. het ontwikkelen en beheren van kaders zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [6, tweede lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6), met betrekking tot informatiesystemen van de ministeries;
+- e. het ontwikkelen en beheren van kaders zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [6, tweede lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6), met betrekking tot informatiesystemen van de ministeries;
 
-- f. het beoordelen van op grond van de in [artikel 6, eerste lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) ontvangen informatie voor eventuele aanscherping van de kaders, bedoeld in onderdeel e, en ter bevordering van het lerend vermogen op het gebied van digitalisering binnen de rijksdienst;
+- f. het beoordelen van op grond van de in [artikel 6, eerste lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) ontvangen informatie voor eventuele aanscherping van de kaders, bedoeld in onderdeel e, en ter bevordering van het lerend vermogen op het gebied van digitalisering binnen de rijksdienst;
 
 - g. het voorbereiden van de jaarrapportage over de digitalisering, informatievoorziening en informatiesystemen binnen de rijksdienst;
 
-- h. het toezien op de naleving van de op grond van [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [6, tweede lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) gestelde kaders over de informatiesystemen van de ministeries en de wijze waarop de gegevens over de informatiesystemen worden verstrekt; en
+- h. het toezien op de naleving van de op grond van [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [6, tweede lid, van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) gestelde kaders over de informatiesystemen van de ministeries en de wijze waarop de gegevens over de informatiesystemen worden verstrekt; en
 
-- i. het toezien op de kwaliteitsaspecten van de informatieplannen, bedoeld in [artikel 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), aan vastgestelde kwaliteitsnormen en het rapporteren hierover aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- i. het toezien op de kwaliteitsaspecten van de informatieplannen, bedoeld in [artikel 4, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), aan vastgestelde kwaliteitsnormen en het rapporteren hierover aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 - j. het jaarlijks voeren van individuele departementale gesprekken met de departementale CIO’s en de leden van het CIO-beraad. Door de CIO Rijk wordt hiervan een verslag en actielijst opgesteld, deze wordt gedeeld met de departementale CIO en het lid van het CIO-beraad;
 
@@ -414,9 +385,9 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CIO Rijk
 
 1. De CIO Rijk kan, na overleg met de secretaris-generaal van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Binnenlandse Zaken en Koninkrijksrelaties rechtstreeks informeren, indien zijn taakuitoefening op grond van dit besluit daartoe aanleiding geeft.
 
-2. In onderlinge samenhang gelezen geven [artikel 11 van het Organisatiebesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047860&artikel=11) en [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=5.1) en [artikel 7.1 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.1) de CIO Rijk het mandaat om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties de kaders bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [artikel 6, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6), na overleg met de ministers die het mede aangaat, vast te stellen.
+2. In onderlinge samenhang gelezen geven [artikel 11 van het Organisatiebesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047860&artikel=11) en [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=5.1) en [artikel 7.1 van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=7.1) de CIO Rijk het mandaat om namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties de kaders bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2), en [artikel 6, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6), na overleg met de ministers die het mede aangaat, vast te stellen.
 
-3. De CIO Rijk voert namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties het overleg, bedoeld in [artikel 3a van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3a).
+3. De CIO Rijk voert namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties het overleg, bedoeld in [artikel 3a van het Coördinatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3a).
 
 ##### Artikel 20. Taken CISO Rijk
 
@@ -424,9 +395,9 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CISO Rij
 
 - a. het ontwikkelen, coördineren en monitoren van de implementatie en naleving van rijksbreed informatiebeveiligingsbeleid en -kaders en de wijze waarop de gegevens over de informatiebeveiliging van informatiesystemen door de ministeries worden verstrekt;
 
-- b. het zorg dragen voor het rijksbrede informatiebeveiligingsbeleid als onderdeel van het rijksbrede digitaliserings- en informatievoorzieningsbeleid, bedoeld in [artikel 18, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01);
+- b. het zorg dragen voor het rijksbrede informatiebeveiligingsbeleid als onderdeel van het rijksbrede digitaliserings- en informatievoorzieningsbeleid, bedoeld in [artikel 18, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01);
 
-- c. Het ontwikkelen en coördineren van het onderdeel informatiebeveiliging in de meerjarige strategie, bedoeld in [artikel 18, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01);
+- c. Het ontwikkelen en coördineren van het onderdeel informatiebeveiliging in de meerjarige strategie, bedoeld in [artikel 18, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01);
 
 - d. het adviseren van de CIO Rijk en het lijnmanagement van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties over de informatiebeveiliging en de risico’s daarvoor van (voorgenomen) wet- en regelgeving, investeringen, beleid, uitvoeringstrajecten, informatieprocessen en informatiesystemen voor zover deze betrekking hebben op de rijksdienst;
 
@@ -441,10 +412,6 @@ De Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt aan de CISO Rij
 - i. het in samenwerking met de CISO’s en beveiligingsautoriteit Rijk opstellen en actueel houden van het rijksbrede risicobeeld en calamiteitenplan met betrekking tot informatiebeveiliging;
 
 - j. het coördineren van de aanpak van rijksbrede informatiebeveiligingsincidenten en -calamiteiten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-#### § 3. CIO Rijk en CISO Rijk
 
 ##### Artikel 21. Bevoegdheden CISO Rijk
 
@@ -496,10 +463,8 @@ Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke 
 
 ##### Artikel 26. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2026.
+Dit besluit treedt in werking met ingang van 1 januari 2026.
 
 ##### Artikel 27. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit CIO-stelsel Rijksdienst 2026.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 9 juli 2020, houdende regels inzake de organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen (Wet ambulancezorgvoorzieningen)"
+citeertitel: "Wet ambulancezorgvoorzieningen"
 identifier: "BWBR0043925"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043925"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15575373"
-version_id: "26910732"
-internal_id: "C38520251"
-label_id: "15517204"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043925/2025-07-05/0"
-intitule_bron: "Stb.2020-275"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-09"
-intitule_published: "2020-07-22"
-intitule_in_force: "2020-12-02"
-intitule_status: "goed"
-original_publication: "Stb.2020-275"
-original_signed_date: "2020-07-09"
-original_published_date: "2020-07-22"
-original_effect: "nieuwe-regeling"
-original_dossier: "35471"
-original_url_id: "stb-2020-275"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0043925&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0043925&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet ambulancezorgvoorzieningen"
-signed_date: "2020-07-09"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0043925"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 9 juli 2020, houdende regels inzake de organisatie, beschikbaarheid en kwaliteit van ambulancevoorzieningen (Wet ambulancezorgvoorzieningen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo, Wij in overweging genomen hebben, dat de continuïteit en permanente beschikbaarheid van ambulancezorg van goede kwaliteit gewaarborgd moeten zijn;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,19 +20,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- – *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **ambulance:** een voor het verlenen van zorg aan en vervoer van zieken of gewonden ingericht motorvoertuig, vaartuig of helikopter;
+- – *ambulance:* een voor het verlenen van zorg aan en vervoer van zieken of gewonden ingericht motorvoertuig, vaartuig of helikopter;
 
-- –. **ambulancevoorzieningen:** alle voorzieningen die nodig zijn voor het uitoefenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05);
+- – *ambulancevoorzieningen:* alle voorzieningen die nodig zijn voor het uitoefenen van ambulancezorg, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=5&z=2025-07-05&g=2025-07-05);
 
-- –. **meldkamer:** een meldkamer als bedoeld in [artikel 25a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a);
+- – *meldkamer:* een meldkamer als bedoeld in [artikel 25a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a);
 
-- –. **meldkamerfunctie:** de meldkamerfunctie, bedoeld in [artikel 25b, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25b), ten behoeve van de ambulancezorg;
+- – *meldkamerfunctie:* de meldkamerfunctie, bedoeld in [artikel 25b, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25b), ten behoeve van de ambulancezorg;
 
-- –. **regio:** regio als bedoeld in [artikel 8 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=8);
+- – *regio:* regio als bedoeld in [artikel 8 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=8);
 
-- –. **ROAZ:** regionaal overleg acute zorgketen.
+- – *ROAZ:* regionaal overleg acute zorgketen.
 
 2. Deze wet is niet van toepassing op ambulancezorg met gebruikmaking van militaire ambulances.
 
@@ -293,7 +264,7 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 1. Onze Minister is bevoegd tot het opleggen van een bestuurlijke boete ter handhaving van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2&artikel=6&z=2025-07-05&g=2025-07-05).
 
-2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
+2. De op grond van het eerste lid op te leggen bestuurlijke boete bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 ##### Artikel 25
 
@@ -325,23 +296,23 @@ De Regionale Ambulancevoorziening meldt aan Onze Minister het wijzigen van de st
 
 ##### Artikel 26
 
-Wijzigt de Gemeentewet.
+*Wijzigt de Gemeentewet.*
 
 ##### Artikel 27
 
-Wijzigt de Wet Veiligheidsregio's.
+*Wijzigt de Wet Veiligheidsregio's.*
 
 ##### Artikel 28
 
-Wijzigt de Politiewet 2020.
+*Wijzigt de Politiewet 2020.*
 
 ##### Artikel 29
 
-Wijzigt de Wet marktordening gezondheidszorg.
+*Wijzigt de Wet marktordening gezondheidszorg.*
 
 ##### Artikel 30
 
-Wijzigt de Wet verplichte geestelijke gezondheidszorg.
+*Wijzigt de Wet verplichte geestelijke gezondheidszorg.*
 
 ##### Artikel 31
 
@@ -351,6 +322,10 @@ Aanwijzingen verleend bij of krachtens [artikel 6 van de Tijdelijke wet ambulanc
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk, waarbij in het bijzonder aandacht wordt besteed aan het lerend vermogen en innovatie bij de Regionale Ambulancevoorzieningen.
 
+##### Artikel 31b
+
+[Artikel 18, tweede lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=18), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, blijft van toepassing met betrekking tot de afwikkeling van aanvragen om een subsidie als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a), ingediend vóór inwerkingtreding van de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557).
+
 ##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
@@ -358,11 +333,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 33
 
 Deze wet wordt aangehaald als: Wet ambulancezorgvoorzieningen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 31b
-
-[Artikel 18, tweede lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=18), zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, blijft van toepassing met betrekking tot de afwikkeling van aanvragen om een subsidie als bedoeld in [artikel 12a van de Wet ambulancevervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0002757&artikel=12a), ingediend vóór inwerkingtreding van de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557).
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

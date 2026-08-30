@@ -1,58 +1,18 @@
 ---
 title: "Besluit van 15 oktober 2020, houdende regels voor het langs elektronische weg procederen in het civiele recht en in het bestuursrecht (Besluit elektronisch procederen)"
+citeertitel: "Besluit elektronisch procederen"
 identifier: "BWBR0044275"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044275"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "15681833"
-version_id: "27168622"
-internal_id: "C38397041"
-label_id: "15620964"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044275/2021-01-01/0"
-intitule_bron: "Stb.2020-410"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-15"
-intitule_published: "2020-10-30"
-intitule_in_force: "2020-10-30"
-intitule_status: "goed"
-original_publication: "Stb.2020-410"
-original_signed_date: "2020-10-15"
-original_published_date: "2020-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-410"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044275&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044275&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit elektronisch procederen"
-signed_date: "2020-10-15"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044275"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 15 oktober 2020, houdende regels voor het langs elektronische weg procederen in het civiele recht en in het bestuursrecht (Besluit elektronisch procederen)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 10 juli 2020, nr. 2968352; directie Wetgeving en Juridische Zaken,
-
-Gelet op:
-
-de [artikelen 33, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=33), en [125, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=125);
-
-de [artikelen 30c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=30c), [30f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=30f) en [30n, achtste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=30n) zoals dat luidt voor de procedures en vorderingen voor de Hoge Raad waarvoor de [Wet van 13 juli 2016 tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0038353) (Stb. 2016, 288) in werking is getreden;
-
-de [artikelen 8:36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:36b), [8:36d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:36d), [8:36f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:36f), en [8:40a, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:40a); en
-
-[artikel 46, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 23 september 2020, nr. W16.20.0245/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 15 oktober 2020; nr. 3051637, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -100,11 +60,11 @@ De authenticatie, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.ove
 
 - a. is uitgegeven door:
 
-- 1°. de overheid;
+   - 1°. de overheid;
 
-- 2°. een daartoe onder toezicht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties staande organisatie; of
+   - 2°. een daartoe onder toezicht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties staande organisatie; of
 
-- 3°. de Nederlandse orde van advocaten; en
+   - 3°. de Nederlandse orde van advocaten; en
 
 - b. uitgaat van tweefactorauthenticatie of voldoet aan het betrouwbaarheidsniveau substantieel of hoog.
 
@@ -138,7 +98,7 @@ Als op de laatste dag van een voor de indiener geldende termijn voor indiening v
 
 De volgende besluiten en regeling worden ingetrokken:
 
-- a. het [Besluit van 3 juli 2008, houdende regels aangaande de betrouwbaarheid en vertrouwelijkheid van het elektronisch verzenden van verzoeken en mededelingen met betrekking tot de rol](https://wetten.overheid.nl/jci1.3:c:BWBR0024155) (Stb. 2008, 275);
+- a. het [Besluit van 3 juli 2008, houdende regels aangaande de betrouwbaarheid en vertrouwelijkheid van het elektronisch verzenden van verzoeken en mededelingen met betrekking tot de rol](https://wetten.overheid.nl/jci1.3:c:BWBR0024155) (Stb. 2008, 275);
 
 - b. het [Besluit elektronische indiening dagvaarding](https://wetten.overheid.nl/jci1.3:c:BWBR0031726);
 
@@ -150,10 +110,8 @@ De volgende besluiten en regeling worden ingetrokken:
 
 ##### Artikel 10
 
-Dit besluit treedt in werking op 1 januari 2021.
+Dit besluit treedt in werking op 1 januari 2021.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit elektronisch procederen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

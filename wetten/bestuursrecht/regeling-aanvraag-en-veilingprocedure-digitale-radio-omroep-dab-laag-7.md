@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20035882, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7)"
+citeertitel: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7"
 identifier: "BWBR0044532"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-12-22"
-last_updated: "2020-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044532"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15765253"
-version_id: "27322752"
-internal_id: "C38590701"
-label_id: "15703934"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044532/2020-12-22/0"
-intitule_bron: "Stcrt.2020-66397"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-15"
-intitule_published: "2020-12-21"
-intitule_in_force: "2020-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-66397"
-original_signed_date: "2020-12-15"
-original_published_date: "2020-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-66397"
-entry_into_force_date: "2020-12-22"
-jci_1_3: "jci1.3:c:BWBR0044532&z=2020-12-22&g=2020-12-22"
-jci_1_0: "1.0:c:BWBR0044532&g=2020-12-22"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7"
-signed_date: "2020-12-15"
-entry_into_force: "2020-12-22"
+publicatiedatum: 2020-12-22
+laatste_update: 2020-12-22
+status: geldig
+toestand: 2020-12-22
+bron: "https://wetten.overheid.nl/BWBR0044532"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 15 december 2020, nr. WJZ/ 20035882, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in laag 7 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -46,33 +20,34 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene die een aanvraag om een vergunning heeft ingediend;
+- *aanvrager:* degene die een aanvraag om een vergunning heeft ingediend;
 
-- **allotment 9C:** het gebied dat is gelegen binnen de contouren zoals gevisualiseerd in bijlage I van de vergunning;
+- *allotment 9C:* het gebied dat is gelegen binnen de contouren zoals gevisualiseerd in bijlage I van de vergunning;
 
-- **bekendmakingsbesluit:** Besluit bekendmaking veiling vergunningen DAB+ laag 7;
+- *bekendmakingsbesluit:* Besluit bekendmaking veiling vergunningen DAB+ laag 7;
 
-- **bod:** bod als bedoeld in [artikel 26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=26&z=2020-12-22&g=2020-12-22), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem, bestaande uit het aantal vergunningen dat een deelnemer voor de in een biedronde bepaalde prijs wenst te verwerven;
+- *bod:* bod als bedoeld in [artikel 26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=26&z=2020-12-22&g=2020-12-22), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem, bestaande uit het aantal vergunningen dat een deelnemer voor de in een biedronde bepaalde prijs wenst te verwerven;
 
-- **deelnemer:** aanvrager die is toegelaten tot de veiling, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&z=2020-12-22&g=2020-12-22);
+- *deelnemer:* aanvrager die is toegelaten tot de veiling, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&z=2020-12-22&g=2020-12-22);
 
-- **exitbod:** exitbod als bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=26&z=2020-12-22&g=2020-12-22);
+- *exitbod:* exitbod als bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=26&z=2020-12-22&g=2020-12-22);
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **verbonden rechtspersoon:** rechtspersoon als bedoeld in artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep;
+- *verbonden rechtspersoon:* rechtspersoon als bedoeld in artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep;
 
-- **niet-winnende deelnemer:** deelnemer wiens bod, exitbod of exitbiedingen door de minister niet zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22);
+- *niet-winnende deelnemer:* deelnemer wiens bod, exitbod of exitbiedingen door de minister niet zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22);
 
-- **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
+- *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
 
-- **vergunning:** vergunning voor het gebruik van 1/12e deel van de capaciteit van de multiplex in allotment 9C;
+- *vergunning:* vergunning voor het gebruik van 1/12e deel van de capaciteit van de multiplex in allotment 9C;
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- **winnend bod:** bod of exitbod dat als winnend bod is aangemerkt als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22);
+- *winnend bod:* bod of exitbod dat als winnend bod is aangemerkt als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22);
 
-- **winnende deelnemer:** : deelnemer wiens bod, exitbod of exitbiedingen door de minister zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22).
+- *winnende deelnemer:* : deelnemer wiens bod, exitbod of exitbiedingen door de minister zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=5&paragraaf=2&artikel=28&z=2020-12-22&g=2020-12-22).
 
 ### Hoofdstuk 2. Beschikbare vergunningen
 
@@ -88,7 +63,7 @@ Ingevolge het bekendmakingsbesluit zijn beschikbaar om op grond van deze regelin
 
 1. Degene die voor een vergunning in aanmerking wil komen, dient daartoe een aanvraag in bij de minister.
 
-2. De aanvraag kan van 19 januari 2021 tot en met uiterlijk 15 februari 2021 bij de minister worden ingediend per aangetekende post of door middel van persoonlijke overhandiging, op het volgende adres en met de volgende adressering:
+2. De aanvraag kan van 19 januari 2021 tot en met uiterlijk 15 februari 2021 bij de minister worden ingediend per aangetekende post of door middel van persoonlijke overhandiging, op het volgende adres en met de volgende adressering:
 
 Agentschap Telecom
 
@@ -142,7 +117,7 @@ De aanvraag gaat vergezeld van een door de aanvrager ondertekende verklaring zoa
 
 ##### Artikel 8. Zekerheidstelling door de aanvrager
 
-1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 50.000,– per vergunning die hij aanvraagt.
+1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 50.000,– per vergunning die hij aanvraagt.
 
 2. De waarborgsom wordt verstrekt voor de periode tot en met:
 
@@ -302,7 +277,7 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 3. In afwijking van het tweede lid, kan de minister bij het vaststellen van de duur van een biedronde bepalen dat de biedronde niet eerder eindigt dan nadat de door de minister bepaalde duur is verstreken.
 
-4. De prijs per vergunning in de eerste biedronde is € 50.000,–.
+4. De prijs per vergunning in de eerste biedronde is € 50.000,–.
 
 5. De minister bepaalt de prijs in de tweede en daaropvolgende biedronden.
 
@@ -344,15 +319,15 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 - a. alle deelnemers mee:
 
-- 1°. het nummer van die biedronde;
+   - 1°. het nummer van die biedronde;
 
-- 2°. het aantal deelnemers dat een bod heeft uitgebracht;
+   - 2°. het aantal deelnemers dat een bod heeft uitgebracht;
 
-- 3°. het aantal vergunningen dat in totaal is geboden;
+   - 3°. het aantal vergunningen dat in totaal is geboden;
 
-- 4°. het aantal exitbiedingen, en
+   - 4°. het aantal exitbiedingen, en
 
-- 5°. de aanvangstijd, de duur en het nummer van, alsmede de prijs in, de volgende biedronde.
+   - 5°. de aanvangstijd, de duur en het nummer van, alsmede de prijs in, de volgende biedronde.
 
 - b. iedere deelnemer afzonderlijk mee:
 
@@ -428,7 +403,7 @@ De minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers bekend:
 
 ##### Artikel 34. Wijzigingen Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep
 
-Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep.
+*Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep.*
 
 ##### Artikel 35. Inwerkingtreding
 
@@ -437,229 +412,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 36. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB+ laag 7.
-
-## Bijlage 1. Als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=6&z=2020-12-22&g=2020-12-22)
-
-### Verklaring aanvrager dat geen sprake is van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging
-
-Ondergetekende verklaart dat hij en, indien er sprake is van rechtspersonen als bedoeld in [artikel 3.11, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), anderen die zijn betrokken bij die rechtspersonen, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager **(rechtspersoon)**:
-
-Bevoegde perso(o)n(en) die namens de aanvrager ondertekent **(natuurlijk perso(o)n(en))**:
-
-Naam:
-
-Handtekening:
-
-Naam:
-
-Handtekening:
-
-Naam:
-
-Handtekening:
-
-Naam:
-
-Handtekening:
-
-## Bijlage 2. Als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=1&artikel=7&z=2020-12-22&g=2020-12-22)
-
-### – Model aanvraagformulier –
-
-### Onderdeel A. Bestuurdersverklaring
-
-Ondergetekende(n), (gezamenlijk) bevoegd op grond van het bij deze aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart/verklaren dat de informatie die in deze aanvraag is verstrekt juist en volledig is.
-
-### A.1. Bestuurder
-
-Naam ondergetekende:.....
-
-Plaats:.....
-
-Datum:.....
-
-Handtekening:.....
-
-### A.2. (voor zover van toepassing, gezamenlijk bevoegde) bestuurder
-
-Naam ondergetekende:.....
-
-Plaats:.....
-
-Datum:.....
-
-Handtekening:.....
-
-### A.3. (voor zover van toepassing, gezamenlijk bevoegde) bestuurder
-
-Naam ondergetekende:.....
-
-Plaats:.....
-
-Datum:.....
-
-Handtekening:.....
-
-### Onderdeel B. De aanvrager
-
-### B.1. Algemeen
-
-Bij de aanvraag wordt gevoegd:
-
-### B.2. Vertegenwoordigingsbevoegdheid
-
-Opgave en overlegging van een kopie van het hieronder ingevulde geldige identiteitsbewijs van degene(n) die bevoegd is (zijn) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid.
-
-Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van die volmacht worden bijgevoegd.
-
-Indien de vertegenwoordigingsbevoegdheid blijkt uit de statuten, wordt het betrokken artikelnummer van de statuten vermeld.
-
-### B.2.1. Functionaris 1
-
-Naam:.....
-
-Volledige voornamen:.....
-
-Functie bij aanvrager:.....
-
-Soort identiteitsbewijs:.....
-
-Nummer identiteitsbewijs:.....
-
-Vertegenwoordigingsbevoegdheid (bijv. zelfstandig/gezamenlijk met):.....
-
-Opgave van beperkingen van bevoegdheid:.....
-
-Bevoegdheid blijkt uit:.....
-
-Beperking(en) van de bevoegdheid blijken uit:.....
-
-Handtekening:.....
-
-### B.2.2. Functionaris 2
-
-Naam:.....
-
-Volledige voornamen:.....
-
-Functie bij aanvrager:.....
-
-Soort identiteitsbewijs:.....
-
-Nummer identiteitsbewijs:.....
-
-Vertegenwoordigingsbevoegdheid (bijv. zelfstandig/gezamenlijk met):.....
-
-Opgave van beperkingen van bevoegdheid:.....
-
-Bevoegdheid blijkt uit:....
-
-Beperking(en) van de bevoegdheid blijken uit:.....
-
-Handtekening:.....
-
-### B.2.3. functionaris 3
-
-Naam:.....
-
-Volledige voornamen:.....
-
-Functie bij aanvrager:.....
-
-Soort identiteitsbewijs:.....
-
-Nummer identiteitsbewijs:.....
-
-Vertegenwoordigingsbevoegdheid (bijv. zelfstandig/gezamenlijk met):.....
-
-Opgave van beperkingen van bevoegdheid:.....
-
-Bevoegdheid blijkt uit:.....
-
-Beperking(en) van de bevoegdheid blijken uit:.....
-
-Handtekening:.....
-
-### B.2.4. Functionaris 4
-
-Naam:.....
-
-Volledige voornamen:.....
-
-Functie bij aanvrager:.....
-
-Soort identiteitsbewijs:.....
-
-Nummer identiteitsbewijs:.....
-
-Vertegenwoordigingsbevoegdheid (bijv. zelfstandig/gezamenlijk met):.....
-
-Opgave van beperkingen van bevoegdheid:.....
-
-Bevoegdheid blijkt uit:.....
-
-Beperking(en) van de bevoegdheid blijken uit:.....
-
-Handtekening:.....
-
-### B.3. statutaire en financiële positie
-
-Voor onderstaande onderdelen geldt als peildatum de eerste dag waarop een aanvraag kan worden ingediend zoals genoemd in het bekendmakingsbesluit:
-
-### B.4. informatie aangaande verbonden instellingen
-
-### B.4.1. Beschrijving eigendoms- en zeggenschapsverhoudingen
-
-Bij de aanvraag wordt een beschrijving gevoegd van de eigendoms- en zeggenschapsverhoudingen die de rechtspersoon raken. De beschrijving moet inzicht geven in alle banden met andere partijen, zodat kan worden nagegaan of zodanige verbondenheid bestaat met andere aanvragers van vergunningen voor het gebruik van frequentieruimte in allotment 9C van het Nationaal Frequentieplan dat sprake is van één rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3).
-
-De beschrijving bevat in elk geval gegevens, inclusief de bijbehorende documenten, genoemd in onderdeel a tot en met g. In het geval het subonderdeel niet van toepassing is, dient dit als zodanig bij het betreffende subonderdeel te worden aangeven:
-
-### B.4.2. Extra bij te voegen documenten
-
-De aanvrager voegt in verband met de in onderdeel B.4.1 bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
-
-### B.5. Verklaring notaris
-
-Ondergetekende, notaris te..... (plaatsnaam)
-
-verklaart, zonder voorbehoud, dat op het moment dat hij/zij deze verklaring ondertekent:
-
-Naam:.....
-
-Plaats:.....
-
-Datum:.....
-
-Handtekening:.....
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
-
-### Onderdeel C. De aanvraag
-
-### C.1. Hoeveel vergunningen vraagt u aan?
-
-Dit onderdeel vult u in met inachtneming van het bepaalde in [artikel 3.11 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11) en [artikel 5a van de (gewijzigde) Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=5a).
-
-* U kunt slechts 1 hokje aankruisen.
-
-N.B. : Het aantal vergunningen waar u over wenst te beschikken is ook van belang voor de omvang van de zekerheidsstelling als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=2&artikel=8&z=2020-12-22&g=2020-12-22) van de Regeling.
-
-## Bijlage 3. Als bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044532&hoofdstuk=3&paragraaf=2&artikel=8&z=2020-12-22&g=2020-12-22)
-
-### – Model bankgarantie –
-
-Plaats: ...........................................................................
-
-Datum: ...........................................................................
-
-Naam Bank en ondertekening:
-
-...........................................................................
-
-* hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld.
-
-** het bedrag invullen overeenkomstig de formule: € 50.000 x het aantal vergunningen waar de aanvraag betrekking op heeft. Dit betekent dat als de aanvraag betrekking heeft op één vergunning de bankgarantie € 50.000 betreft en als de aanvraag op twee vergunningen betrekking heeft de bankgarantie € 100.000 betreft, etc.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

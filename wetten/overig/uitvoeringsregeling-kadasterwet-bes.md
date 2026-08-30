@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 november 2020, nr. 2020-0000452626, houdende uitvoeringsregels bij de Kadasterwet BES (Uitvoeringsregeling Kadasterwet BES)"
+citeertitel: "Uitvoeringsregeling Kadasterwet BES"
 identifier: "BWBR0044468"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044468"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "15745143"
-version_id: "27282142"
-internal_id: "C38543271"
-label_id: "15683584"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044468/2021-01-01/0"
-intitule_bron: "Stcrt.2020-61058"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-23"
-intitule_published: "2020-12-04"
-intitule_in_force: "2020-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-61058"
-original_signed_date: "2020-11-23"
-original_published_date: "2020-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-61058"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044468&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044468&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling Kadasterwet BES"
-signed_date: "2020-11-23"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044468"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 november 2020, nr. 2020-0000452626, houdende uitvoeringsregels bij de Kadasterwet BES (Uitvoeringsregeling Kadasterwet BES)
-
-Gelet op de [artikelen 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), [16, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=16), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=25) en [65, vierde lid, van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=65),
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,17 +26,18 @@ Deze regeling is van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur van de Dienst:** bestuur als bedoeld in [artikel 3 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
+- *bestuur van de Dienst:* bestuur als bedoeld in [artikel 3 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
 
-- **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
+- *raad van toezicht:* raad van toezicht als bedoeld in [artikel 3 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
 
-- **wet:** [Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565).
+- *wet:*
+ [Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565).
 
 #### Paragraaf 1.2. Raadplegen van de bestuurscolleges van de openbare lichamen
 
 ##### Artikel 3
 
-1. Het bestuur van de Dienst raadpleegt ieder bestuurscollege van de openbare lichamen als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11) afzonderlijk, tenzij in overleg met de bestuurscolleges anders bepaald wordt.
+1. Het bestuur van de Dienst raadpleegt ieder bestuurscollege van de openbare lichamen als bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11) afzonderlijk, tenzij in overleg met de bestuurscolleges anders bepaald wordt.
 
 2. Het bestuur van de Dienst geeft in de maand januari aan de bestuurscolleges van de openbare lichamen aan in welke periode in dat jaar het raadplegen zal plaatsvinden.
 
@@ -104,11 +79,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Het bestuur van de Dienst betrekt de zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), bij de beleidswijzigingen waarop die zienswijze betrekking heeft.
+1. Het bestuur van de Dienst betrekt de zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), bij de beleidswijzigingen waarop die zienswijze betrekking heeft.
 
 2. Als het bestuur van de Dienst afwijkt van de zienswijze van het bestuurscollege van een openbaar lichaam, motiveert het bestuur van de Dienst dit schriftelijk en maakt het bestuur van de Dienst dit kenbaar aan de bestuurscolleges van de openbare lichamen en aan de raad van toezicht.
 
-3. Bij het aanbieden ter goedkeuring van het meerjarenbeleidsplan, als bedoeld in [artikel 20 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=20) en [artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), vermeldt het bestuur van de Dienst over de voorgestelde beleidswijzigingen de zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), dan wel het feit dat niet binnen de termijn, bedoeld in dat artikel, zienswijzen kenbaar zijn gemaakt, alsmede de wijze waarop het bestuur met de zienswijzen van de bestuurscolleges is omgegaan.
+3. Bij het aanbieden ter goedkeuring van het meerjarenbeleidsplan, als bedoeld in [artikel 20 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=20) en [artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), vermeldt het bestuur van de Dienst over de voorgestelde beleidswijzigingen de zienswijze, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=11), dan wel het feit dat niet binnen de termijn, bedoeld in dat artikel, zienswijzen kenbaar zijn gemaakt, alsmede de wijze waarop het bestuur met de zienswijzen van de bestuurscolleges is omgegaan.
 
 ### Hoofdstuk 2. Vereisten met betrekking tot de aanbieding van stukken ter inschrijving in de openbare registers
 
@@ -252,6 +227,4 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling Kadasterwet BES.
 
 ##### Artikel 18
 
-Deze regeling treedt in werking op 1 januari 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op 1 januari 2021.

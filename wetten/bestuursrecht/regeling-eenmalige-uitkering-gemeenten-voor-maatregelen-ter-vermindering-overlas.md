@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 29 juni 2020, nr. 2916673, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers"
+citeertitel: "Regeling eenmalige uitkering gemeenten voor maatregelen ter vermindering overlast en criminaliteit asielzoekers"
 identifier: "BWBR0043801"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-10"
-last_updated: "2020-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043801"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15544063"
-version_id: "26854622"
-internal_id: "C38039881"
-label_id: "15485994"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043801/2020-07-10/0"
-intitule_bron: "Stcrt.2020-37345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-29"
-intitule_published: "2020-07-09"
-intitule_in_force: "2020-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-37345"
-original_signed_date: "2020-06-29"
-original_published_date: "2020-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-37345"
-entry_into_force_date: "2020-07-10"
-jci_1_3: "jci1.3:c:BWBR0043801&z=2020-07-10&g=2020-07-10"
-jci_1_0: "1.0:c:BWBR0043801&g=2020-07-10"
-citeertitel_status: "redactioneel"
-short_title: "Regeling eenmalige uitkering gemeenten voor maatregelen ter vermindering overlast en criminaliteit asielzoekers"
-signed_date: "2020-06-29"
-entry_into_force: "2020-07-10"
+publicatiedatum: 2020-07-10
+laatste_update: 2020-07-10
+status: geldig
+toestand: 2020-07-10
+bron: "https://wetten.overheid.nl/BWBR0043801"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 29 juni 2020, nr. 2916673, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **COA:** Centraal Orgaan opvang Asielzoekers
+- – *COA:* Centraal Orgaan opvang Asielzoekers
 
-- –. **staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid;
+- – *staatssecretaris:* de Staatssecretaris van Justitie en Veiligheid;
 
-- –. **SiSa:** het systeem van single information, single audit, zoals bepaald in de ministeriële [regeling informatieverstrekking SiSa](https://wetten.overheid.nl/jci1.3:c:BWBR0029251).
+- – *SiSa:* het systeem van single information, single audit, zoals bepaald in de ministeriële [regeling informatieverstrekking SiSa](https://wetten.overheid.nl/jci1.3:c:BWBR0029251).
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -66,9 +40,9 @@ De staatssecretaris kan in 2020 op aanvraag van één of meer gemeenten aan éé
 
 - d. het IBAN-nummer waarop het toegekende bedrag kan worden overgemaakt.
 
-2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 januari 2020 en 31 mei 2021.
+2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 januari 2020 en 31 mei 2021.
 
-3. De aanvraag wordt voor 1 september 2020 ingediend, met gebruikmaking van een digitaal aanvraagformulier.
+3. De aanvraag wordt voor 1 september 2020 ingediend, met gebruikmaking van een digitaal aanvraagformulier.
 
 ##### Artikel 4. Hoogte specifieke uitkering en wijze van verstrekking
 
@@ -105,5 +79,3 @@ De staatssecretaris kan onverschuldigd uitgekeerde bedragen als bedoeld in [arti
 ##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 10 juni 2020, houdende regels in verband met de uitbreiding van het toezicht op nieuwe zorgaanbieders (Wet toetreding zorgaanbieders)"
+citeertitel: "Wet toetreding zorgaanbieders"
 identifier: "BWBR0043797"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043797"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15543023"
-version_id: "26853242"
-internal_id: "C39345171"
-label_id: "15485174"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043797/2025-07-05/0"
-intitule_bron: "Stb.2020-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-10"
-intitule_published: "2020-06-19"
-intitule_in_force: "2021-07-14"
-intitule_status: "goed"
-original_publication: "Stb.2020-180"
-original_signed_date: "2020-06-10"
-original_published_date: "2020-06-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "34767"
-original_url_id: "stb-2020-180"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0043797&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0043797&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet toetreding zorgaanbieders"
-signed_date: "2020-06-10"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0043797"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 10 juni 2020, houdende regels in verband met de uitbreiding van het toezicht op nieuwe zorgaanbieders (Wet toetreding zorgaanbieders)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat elke nieuwe zorgaanbieder zich meldt voordat hij aanvangt met de zorgverlening, zodat het toezicht op nieuwe zorgaanbieders effectiever kan worden vormgegeven en wordt gewaarborgd dat de zorgaanbieder vooraf kennis heeft genomen van de eisen die gelden vanaf het moment waarop hij zorg gaat verlenen en voorts dat het wenselijk is dat bepaalde zorgaanbieders die een instelling zijn een vergunning aanvragen waarbij, naast eisen omtrent de bedrijfsvoering en de bestuursstructuur, ook gekeken wordt naar voorwaarden voor een goede kwaliteit van zorg;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -49,19 +20,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **instelling:** rechtspersoon die bedrijfsmatig zorg verleent of doet verlenen, organisatorisch verband van natuurlijke personen die bedrijfsmatig zorg verlenen of doen verlenen of natuurlijk persoon die bedrijfsmatig zorg doet verlenen, met uitzondering van een instelling die binnen het kader van de binnen een andere instelling verleende zorg een deel van die zorg verleent;
+- – *instelling:* rechtspersoon die bedrijfsmatig zorg verleent of doet verlenen, organisatorisch verband van natuurlijke personen die bedrijfsmatig zorg verlenen of doen verlenen of natuurlijk persoon die bedrijfsmatig zorg doet verlenen, met uitzondering van een instelling die binnen het kader van de binnen een andere instelling verleende zorg een deel van die zorg verleent;
 
-- –. **medisch specialistische zorg:** bij ministeriële regeling aangewezen zorg die door een arts wordt verleend en valt binnen de bijzondere deskundigheid van artsen aan wie de bevoegdheid toekomt tot het voeren van een wettelijk erkende specialistentitel als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
+- – *medisch specialistische zorg:* bij ministeriële regeling aangewezen zorg die door een arts wordt verleend en valt binnen de bijzondere deskundigheid van artsen aan wie de bevoegdheid toekomt tot het voeren van een wettelijk erkende specialistentitel als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
 
-- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- – *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **solistisch werkende zorgverlener:** zorgverlener die, anders dan in dienst of onmiddellijk of middellijk in opdracht van een instelling, beroepsmatig zorg verleent;
+- – *solistisch werkende zorgverlener:* zorgverlener die, anders dan in dienst of onmiddellijk of middellijk in opdracht van een instelling, beroepsmatig zorg verleent;
 
-- –. **toelatingsvergunning:** vergunning als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05);
+- – *toelatingsvergunning:* vergunning als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05);
 
-- –. **zorgaanbieder:** instelling dan wel solistisch werkende zorgverlener;
+- – *zorgaanbieder:* instelling dan wel solistisch werkende zorgverlener;
 
-- –. **zorgverlener:** natuurlijke persoon die beroepsmatig zorg verleent.
+- – *zorgverlener:* natuurlijke persoon die beroepsmatig zorg verleent.
 
 2. Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=4&artikel=8&z=2025-07-05&g=2025-07-05), worden tevens als zorgaanbieder aangemerkt:
 
@@ -193,7 +164,7 @@ De Inspectie gezondheidszorg en jeugd en de Nederlandse zorgautoriteit verstrekk
 
 ##### Artikel 11
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 12
 
@@ -235,15 +206,19 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 2. Bij algemene maatregel van bestuur kunnen categorieën van zorgaanbieders worden aangewezen waarop het eerste lid niet van toepassing is.
 
+##### Artikel 17a
+
+Een instelling die op het moment van inwerkingtreding van [artikel VIIIa, onderdeel A, van de Verzamelwet VWS 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0050314&artikel=VIIIa), ingevolge dit artikel voor het eerst over een toelatingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), moet beschikken, verkrijgt van rechtswege een toelatingsvergunning.
+
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 18
 
-Wijzigt de Aanpassingswet Wet toetreding zorgaanbieders.
+*Wijzigt de Aanpassingswet Wet toetreding zorgaanbieders.*
 
 ##### Artikel 19
 
-Wijzigt de Wet marktordening gezondheidszorg.
+*Wijzigt de Wet marktordening gezondheidszorg.*
 
 ##### Artikel 20
 
@@ -256,13 +231,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet toetreding zorgaanbieders.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 17a
-
-Een instelling die op het moment van inwerkingtreding van [artikel VIIIa, onderdeel A, van de Verzamelwet VWS 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0050314&artikel=VIIIa), ingevolge dit artikel voor het eerst over een toelatingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), moet beschikken, verkrijgt van rechtswege een toelatingsvergunning.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

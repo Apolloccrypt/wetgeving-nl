@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 15 oktober 2020, houdende regels betreffende het verstrekken van reisdocumenten (Paspoortbesluit)"
+citeertitel: "Paspoortbesluit"
 identifier: "BWBR0044308"
-country: "nl"
-rank: "rijks_kb"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044308"
+categorie: "Overig"
 soort: "rijksKB"
-stam_id: "15689153"
-version_id: "27182812"
-internal_id: "C38458881"
-label_id: "15628914"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044308/2023-09-01/0"
-intitule_bron: "Stb.2020-502"
-intitule_effect: "wijziging"
-intitule_signed: "2020-12-02"
-intitule_published: "2020-12-09"
-intitule_in_force: "2020-12-09"
-intitule_status: "goed"
-original_publication: "Stb.2020-418"
-original_signed_date: "2020-10-15"
-original_published_date: "2020-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-418"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044308&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0044308&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Paspoortbesluit"
-signed_date: "2020-10-15"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0044308"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 15 oktober 2020, houdende regels betreffende het verstrekken van reisdocumenten (Paspoortbesluit)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 juli 2020, nr. 2020001558;
-
-Gelet op de [artikelen 2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=2), [3, eerste, derde, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), [3a, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3a), [4c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4c), [4d, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4d), [4e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4e), [7, eerste, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16), [26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26), [28, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28), [40, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=40), [41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=41), [42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=43), [46b](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=46b), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47), [50a](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=50a), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=57) en [59, eerste lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=59);
-
-De Afdeling advisering van de Raad van State van het Koninkrijk gehoord (advies van 2 september 2020, nr. W04.20.0260/I/K);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 oktober 2020, 2020-0000590495;
-
-De bepalingen van het Statuut van het Koninkrijk in acht genomen zijnde;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -56,19 +22,20 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **basisadministratie:** de basisregistratie personen in het Europese deel van Nederland, dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
+- *basisadministratie:* de basisregistratie personen in het Europese deel van Nederland, dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), dan wel een bij landsverordening van Aruba, Curaçao of Sint Maarten ingestelde bevolkingsadministratie;
 
-- **basisregister reisdocumenten:** het register, bedoeld in [Hoofdstuk 1, paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I);
+- *basisregister reisdocumenten:* het register, bedoeld in [Hoofdstuk 1, paragraaf 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&hoofdstuk=I);
 
-- **gedetineerde:** gedetineerde als bedoeld in [artikel 1, onderdeel e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1);
+- *gedetineerde:* gedetineerde als bedoeld in [artikel 1, onderdeel e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1);
 
-- **penitentiaire inrichting:** penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3);
+- *penitentiaire inrichting:* penitentiaire inrichting als bedoeld in [artikel 3, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=3);
 
-- **register vermiste of vervallen reisdocumenten:** het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a);
+- *register vermiste of vervallen reisdocumenten:* het register, bedoeld in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=4a);
 
-- **reisdocumentenstation:** door Onze Minister beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt;
+- *reisdocumentenstation:* door Onze Minister beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt;
 
-- **wet:** [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
+- *wet:*
+ [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
 
 ##### Artikel 1.2. Andere reisdocumenten
 
@@ -150,7 +117,7 @@ De werkzaamheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 #### Paragraaf 2. Reisdocumenten voor niet-Nederlanders
 
-##### Artikel 2.6. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11) of [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13)
+##### Artikel 2.6. Vaststelling aanspraken op reisdocumenten als bedoeld in artikel 11 of 13 van de wet
 
 1. De vaststelling van het recht op een reisdocument voor vluchtelingen als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11) geschiedt op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie, dan wel in het daarvoor bestemde aanvraag-informatieformulier zijn opgenomen, alsmede aan de hand van het door de aanvrager overgelegde verblijfsdocument waaruit diens nationaliteit blijkt, en:
 
@@ -168,7 +135,7 @@ De werkzaamheden op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 4. Onze Minister stelt nadere regels over het aanvraag-informatieformulier.
 
-##### Artikel 2.7. Vaststelling aanspraken op reisdocumenten als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) of [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15)
+##### Artikel 2.7. Vaststelling aanspraken op reisdocumenten als bedoeld in de artikelen 12, 14 of 15 van de wet
 
 Bij ministeriële regeling worden nadere regels gesteld over de vaststelling van het recht op een reisdocument als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15).
 
@@ -328,6 +295,8 @@ Aangewezen tot het in ontvangst nemen van aanvragen voor noodpaspoorten zijn de 
 
 #### Paragraaf 2. Voorwaarden ten aanzien van de aanvraag
 
+Gereserveerd
+
 ### Hoofdstuk 4. Verstrekking, wijziging en uitreiking van reisdocumenten
 
 #### Paragraaf 1. Aanvullende bevoegdheden verstrekking reisdocumenten
@@ -384,7 +353,11 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 ### Hoofdstuk 5. Weigering of vervallenverklaring van reisdocumenten
 
+Gereserveerd
+
 ### Hoofdstuk 6. Verval van rechtswege van reisdocumenten
+
+Gereserveerd
 
 ### Hoofdstuk 7. Inhouding, inlevering en definitieve onttrekking aan het verkeer van reisdocumenten
 
@@ -402,9 +375,9 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 - d. het als gevonden reisdocument is ontvangen, tenzij:
 
-- 1°. de gezaghebber in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd; of
+   - 1°. de gezaghebber in de gelegenheid is het terug te geven aan de in de basisadministratie als ingezetene van zijn openbaar lichaam ingeschreven houder die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd; of
 
-- 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
+   - 2°. de Minister van Buitenlandse Zaken of de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01), in de gelegenheid is het terug te geven aan de houder, die nog geen verklaring als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) heeft afgelegd.
 
 2. Het eerste lid, aanhef en onderdeel c, is niet van toepassing op onttrekking aan het verkeer van een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt laissez-passer door de commandant, bedoeld in [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044308&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2023-09-01&g=2023-09-01).
 
@@ -476,6 +449,8 @@ Aan de autoriteiten bedoeld in de [artikelen 26](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 9. Afdracht van de aan het rijk verschuldigde kosten en heffing van de aan het rijk verschuldigde rechten terzake van reisdocumenten
 
+Gereserveerd
+
 ### Hoofdstuk 10. Overgangs- en slotbepalingen
 
 ##### Artikel 10.1. Bevoegdheid vaststelling bij ministeriële regeling
@@ -495,5 +470,3 @@ Deze algemene maatregel van rijksbestuur wordt aangehaald als «Paspoortbesluit�
 ##### Artikel 10.3. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Afkondigingsblad van Aruba, in het Publicatieblad van Curaçao en in het Afkondigingsblad van Sint Maarten zal worden geplaatst.

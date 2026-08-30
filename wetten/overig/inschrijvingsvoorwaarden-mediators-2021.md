@@ -1,39 +1,17 @@
 ---
 title: "(Besluit van het bestuur van de Raad voor Rechtsbijstand van 28 oktober 2020 krachtens artikel 33b van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 20 november 2020)"
+citeertitel: "Inschrijvingsvoorwaarden mediators 2021"
 identifier: "BWBR0044459"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-12-16"
-last_updated: "2020-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044459"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15740983"
-version_id: "27275502"
-internal_id: "C38534911"
-label_id: "15679384"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044459/2020-12-16/0"
-intitule_bron: "Stcrt.2020-62338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-28"
-intitule_published: "2020-12-16"
-intitule_in_force: "2020-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62338"
-original_signed_date: "2020-10-28"
-original_published_date: "2020-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62338"
-entry_into_force_date: "2020-12-16"
-jci_1_3: "jci1.3:c:BWBR0044459&z=2020-12-16&g=2020-12-16"
-jci_1_0: "1.0:c:BWBR0044459&g=2020-12-16"
-citeertitel_status: "redactioneel"
-short_title: "Inschrijvingsvoorwaarden mediators 2021"
-signed_date: "2020-10-28"
-entry_into_force: "2020-12-16"
+publicatiedatum: 2020-12-16
+laatste_update: 2020-12-16
+status: geldig
+toestand: 2020-12-16
+bron: "https://wetten.overheid.nl/BWBR0044459"
+opgehaald: 2026-08-30
 ---
+
 # (Besluit van het bestuur van de Raad voor Rechtsbijstand van 28 oktober 2020 krachtens artikel 33b van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 20 november 2020)
 
 ### Inleiding
@@ -41,6 +19,20 @@ entry_into_force: "2020-12-16"
 Uitgangspunt van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) (Wrb) is dat mediators die mediation in de zin van de wet willen verrichten zich daartoe inschrijven bij de Raad voor Rechtsbijstand (verder: de Raad). De gerechten en het Juridisch Loket verwijzen alleen door naar mediators die staan ingeschreven bij de Raad voor Rechtsbijstand en die aan de gestelde eisen in de inschrijvingsvoorwaarden voldoen. Indien een mediator niet ingeschreven staat, kan hij geen toevoegingen voor de rechtzoekende aanvragen.
 
 De Raad kan op grond van de [artikelen 33 a en volgende van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) voorwaarden aan de inschrijving verbinden die betrekking hebben op:
+
+- a. de vakbekwaamheidseisen die aan de mediator worden gesteld;
+
+- b. de mate van gebondenheid aan door de beroepsgroep algemeen aanvaarde normen betreffende de beroepsethiek en beroepsuitoefening;
+
+- c. de wijze waarop schendingen van de algemene norm betreffende de beroepsethiek en beroepsuitoefening worden afgehandeld;
+
+- d. de medewerking door de mediator aan onderzoek naar de werking van mediation en aan evaluatie;
+
+- e. de verslaglegging door de mediator van de door hem verrichte werkzaamheden;
+
+- f. de beroepsaansprakelijkheidsverzekering;
+
+- g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 In het onderstaande zijn deze inschrijvingsvoorwaarden uitgewerkt. Deze inschrijvingsvoorwaarden zijn algemeen verbindende voorschriften, die regels bevatten waarnaar mediators die zich bij de Raad inschrijven zich behoren te richten.
 
@@ -50,7 +42,7 @@ De Raad heeft voorts een privacyverklaring opgesteld waarin is aangegeven op wel
 
 ### Inschrijvingsvoorwaarden
 
-##### Artikel 1. Registratie/ vakbekwaamheidseisen ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 1. Registratie/ vakbekwaamheidseisen (artikel 33c sub a Wrb)
 
 - a. De deelnemende mediator dient MfN2MfN is de afkorting van: Mediatorsfederatie Nederland. MfN-registermediators staan ingeschreven in het MfN-register. Het MfN-register wordt gehouden door de MfN en wordt beheerd en onderhouden door de onafhankelijke Stichting Kwaliteit Mediators. MfN-registermediators werken volgens reglementen en modellen die het MfN-register heeft opgesteld. Andere beroepsorganisaties die een kwaliteitsregister van mediators onderhouden kunnen een verzoek bij de Raad indienen om toelating.-registermediator te zijn. Deze MfN- registermediator heeft een door het MfN-register afgenomen peer review met goed gevolg ondergaan én in de drie jaar voor de datum van inschrijving bij de Raad voor Rechtsbijstand negen mediations op basis van de mediationovereenkomst voor de MfN-registermediator verricht.3Met betrekking tot de bedoelde negen mediations gelden de volgende eisen:-het moet gaan om mediations conform de condities van de MfN-registermediator (Gedragsregels voor de MfN-registermediator en MfN-Mediationreglement), aangevangen met een schriftelijke mediationovereenkomst. Bemiddelingen, in welke vorm dan ook, tellen niet mee voor een inschrijving bij de Raad;-van de negen mediations moeten er minimaal drie met een vaststellingsovereenkomst zijn afgesloten;-co-mediations in een gelijkwaardige positie tellen mee tot een maximum van drie van de negen; van de overige zes dienen ten minste twee mediations met een vaststellingsovereenkomst te zijn afgesloten. De mediator is zich er van bewust dat het behoud van de status MfN-registermediator een absolute voorwaarde is om ingeschreven te kunnen blijven als mediator. De mediator verklaart zich per direct uit te laten schrijven bij de Raad voor Rechtsbijstand vanaf het moment dat de inschrijving bij het MfN-register eindigt. Het MfN-register geeft dit eveneens, ter controle, aan de Raad voor Rechtsbijstand door.
 
@@ -58,13 +50,13 @@ De Raad heeft voorts een privacyverklaring opgesteld waarin is aangegeven op wel
 
 - c. De mediator dient bereid te zijn de door het MfN-register en de Raad voor Rechtsbijstand overeengekomen kwaliteitssystemen na te leven.
 
-##### Artikel 2. Organisatie kantoor/ praktijk en verhouding met de Raad ([33c sub g Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 2. Organisatie kantoor/ praktijk en verhouding met de Raad (33c sub g Wrb)
 
 - a. De mediator dient een regeling te hebben getroffen ten aanzien van de organisatie van zijn kantoor/ praktijk, waarin voldoende voorzien is in:
 
-- 1. de telefonische bereikbaarheid tijdens kantooruren waarvan enkele uren per dag direct en voor het overige via het gebruik van een telefoonbeantwoorder of voicemail, e-mail en een fax, die dagelijks respectievelijk worden afgeluisterd, geopend en/ of gelezen;
+   - 1. de telefonische bereikbaarheid tijdens kantooruren waarvan enkele uren per dag direct en voor het overige via het gebruik van een telefoonbeantwoorder of voicemail, e-mail en een fax, die dagelijks respectievelijk worden afgeluisterd, geopend en/ of gelezen;
 
-- 2. dat verhindering wegens overmacht zo spoedig mogelijk telefonisch door de mediator wordt doorgeven aan de verwijzingsvoorziening, onmiddellijk gevolgd door schriftelijke bevestiging hiervan.
+   - 2. dat verhindering wegens overmacht zo spoedig mogelijk telefonisch door de mediator wordt doorgeven aan de verwijzingsvoorziening, onmiddellijk gevolgd door schriftelijke bevestiging hiervan.
 
 - b. In het geval dat partijen of een van hen een aanvraag in het kader van de gesubsidieerde rechtsbijstand doen, werkt de mediator - behalve volgens deze inschrijvingsvoorwaarden - ook volgens de voorschriften van de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368). Als voor een partij een toevoeging is verleend, mag de mediator aan deze partij naast de door de Raad opgelegde eigen bijdrage geen honorarium/uurtarief in rekening brengen.
 
@@ -94,15 +86,15 @@ De Raad heeft voorts een privacyverklaring opgesteld waarin is aangegeven op wel
 
 - o. De mediator wiens registratie in het kwaliteitsregister van de MfN op grond van een onherroepelijke uitspraak van de Stichting Tuchtrechtspraak mediators onvoorwaardelijk geschorst of doorgehaald is, stelt het centraal kantoor van de Raad zelf onmiddellijk schriftelijk op de hoogte en draagt zorg voor overdracht van zijn toevoegingszaken. Hij meldt daarbij aan de Raad welke mediator in zaken waarin nog geen toevoeging verleend is in zijn plaats moet worden toegevoegd.
 
-##### Artikel 3. Verslaglegging van de door de mediator verrichte werkzaamheden ([artikel 33c sub e Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 3. Verslaglegging van de door de mediator verrichte werkzaamheden (artikel 33c sub e Wrb)
 
 De mediator voert in zaken waarin hij is toegevoegd een deugdelijke en transparante tijdregistratie. Daarin wordt de aan mediation bestede tijd op juiste en verantwoorde wijze bijgehouden op datum en naar verrichting. Indien gebruik wordt gemaakt van vaste tijdseenheden, mogen deze niet groter zijn dan zes minuten. In een urenspecificatie moet minimaal onderscheid gemaakt worden tussen overige werkzaamheden en contacturen zoals nader omschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0044459&artikel=6&z=2020-12-16&g=2020-12-16) van deze voorwaarden en moet een korte aanduiding worden gegeven met wie is gesproken of gecorrespondeerd. De mediator draagt er zorg voor dat het aantal uren aan overige werkzaamheden niet hoger is dan het aantal contacturen.
 
-##### Artikel 4. Beroepsaansprakelijkheidsverzekering ([Artikel 33c sub f Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 4. Beroepsaansprakelijkheidsverzekering (Artikel 33c sub f Wrb)
 
 De mediator heeft een deugdelijke beroepsaansprakelijkheidsverzekering ten bedrage van € 450.000,- per gebeurtenis. Bij inschrijving verklaart de mediator aldus verzekerd te zijn, dan wel bereid te zijn dadelijk na toelating een beroepsaansprakelijkheidsverzekering af te sluiten voor minimaal € 450.000 per gebeurtenis.
 
-##### Artikel 5. Verwijzingsvoorzieningen van de rechtspraak en Juridisch Loket ([artikel 33c sub d, e en g Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 5. Verwijzingsvoorzieningen van de rechtspraak en Juridisch Loket (artikel 33c sub d, e en g Wrb)
 
 - a. De mediator conformeert zich aan de werkwijze horend bij de verwijzingsvoorzieningen.
 
@@ -122,39 +114,39 @@ De mediator heeft een deugdelijke beroepsaansprakelijkheidsverzekering ten bedra
 
 - a. In zaken die zijn verwezen door een van de verwijzingsvoorzieningen binnen het rechtsbestel geldt, als geen enkele partij voor een toevoeging in aanmerking komt, de volgende regeling: de mediator verplicht zich om zijn uurtarief alleen in rekening te brengen voor: Na afloop van de mediation krijgen cliënten een urenverantwoording van de mediator, waarin hij of zij zijn tijdsbesteding gespecificeerd heeft vermeld op de wijze zoals is bepaald in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044459&artikel=3&z=2020-12-16&g=2020-12-16) van deze voorwaarden, alsmede een specificatie van de (eventuele) vooraf overeengekomen bijzondere kosten. Bijzondere kosten kunnen aan partijen alleen in rekening worden gebracht indien zij daarmee vooraf hebben ingestemd.
 
-- –. de contacturen8Contacturen zijn de uren waarbij de mediator daadwerkelijk met partijen rond de tafel zit tijdens gezamenlijke en/of afzonderlijke gesprekken, dan wel bij online mediation daadwerkelijk ten behoeve van partijen online activiteiten heeft verricht. Contacturen zijn ook uren waarin de mediator om de tafel zit met anderen (zoals advocaten, deskundigen, de sociale dienst, de Raad voor de Kinderbescherming) in aanwezigheid dan wel in uitdrukkelijke opdracht van partijen. en
+   - – de contacturen8Contacturen zijn de uren waarbij de mediator daadwerkelijk met partijen rond de tafel zit tijdens gezamenlijke en/of afzonderlijke gesprekken, dan wel bij online mediation daadwerkelijk ten behoeve van partijen online activiteiten heeft verricht. Contacturen zijn ook uren waarin de mediator om de tafel zit met anderen (zoals advocaten, deskundigen, de sociale dienst, de Raad voor de Kinderbescherming) in aanwezigheid dan wel in uitdrukkelijke opdracht van partijen. en
 
-- –. overige werkzaamheden9Overige werkzaamheden zijn: het op verzoek van partijen lezen van stukken, het opstellen van de (concept)vaststellingsovereenkomst en verslaglegging, waarbij voor verslaglegging in principe maximaal een uur per bijeenkomst mag worden gerekend. De mediator stemt deze werkzaamheden vooraf af met cliënten. tot een maximum dat niet hoger is dan het aantal contacturen.
+   - – overige werkzaamheden9Overige werkzaamheden zijn: het op verzoek van partijen lezen van stukken, het opstellen van de (concept)vaststellingsovereenkomst en verslaglegging, waarbij voor verslaglegging in principe maximaal een uur per bijeenkomst mag worden gerekend. De mediator stemt deze werkzaamheden vooraf af met cliënten. tot een maximum dat niet hoger is dan het aantal contacturen.
 
 - b. Als in een zaak met twee partijen een van de partijen voor een toevoeging in aanmerking komt dan is ten aanzien van de betalende partij zowel in het geval van een verwijzing vanuit een van de verwijzingsvoorzieningen als in het geval waarin de mediator partijen zonder zo’n verwijzing bijstaat lid a van dit artikel van toepassing. Voorts behoort de mediator het aantal uren dat in lid a wordt bedoeld door twee te delen. Aan de betalende partij mag niet meer dan de helft van het in lid a bedoelde aantal uren in rekening worden gebracht. Aan de toegevoegde partij worden geen uren in rekening gebracht indien voor deze partij een toevoegingsvergoeding kan worden verkregen.
 
-##### Artikel 7. Klacht- en tuchtrecht ([artikel 33c sub c Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 7. Klacht- en tuchtrecht (artikel 33c sub c Wrb)
 
 De mediator committeert zich aan de klachtenregeling van het MfN-register en het Reglement Stichting Tuchtrechtspraak Mediators. Ook stemt hij/zij in met de plicht van het MfN-register om de uitkomst van klachten, waarbij een onherroepelijke maatregel van onvoorwaardelijke schorsing of schrapping is opgelegd, te melden aan de verwijzingsvoorziening van de Rechtspraak.
 
-##### Artikel 8. Co-mediation ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 8. Co-mediation (artikel 33c sub a Wrb)
 
 De mediator is bereid tot het laten bijwonen van mediations door een (onervaren) co-mediator. De verwijzingsvoorzieningen bieden mediators die nog geen MfN-registermediator zijn, maar wel een erkende mediationopleiding hebben voltooid, de gelegenheid ervaring op te doen als co-mediator. Alle door de Raad ingeschreven mediators mogen zelf co-mediators meenemen die voldoen aan de hiervoor genoemde kwalificatie.
 
 Hierbij dienen de volgende regels in acht te worden genomen:
 
-- –. de mediator staat ervoor in alleen co-mediators mee te nemen die een erkende mediationopleiding hebben voltooid;
+- – de mediator staat ervoor in alleen co-mediators mee te nemen die een erkende mediationopleiding hebben voltooid;
 
-- –. co-mediators ontvangen geen vergoeding, noch van de verwijzingsvoorziening, noch van de partijen;
+- – co-mediators ontvangen geen vergoeding, noch van de verwijzingsvoorziening, noch van de partijen;
 
-- –. de mediator zal zich niet laten betalen door de co-mediator voor het laten bijwonen van de mediation;
+- – de mediator zal zich niet laten betalen door de co-mediator voor het laten bijwonen van de mediation;
 
-- –. de mediator blijft verantwoordelijk voor de gang van zaken tijdens de mediation;
+- – de mediator blijft verantwoordelijk voor de gang van zaken tijdens de mediation;
 
-- –. de mediator draagt er zorg voor dat de mediationovereenkomst mede wordt ondertekend door de co-mediator;
+- – de mediator draagt er zorg voor dat de mediationovereenkomst mede wordt ondertekend door de co-mediator;
 
-- –. de mediator tekent op de monitoringformulieren aan wie als co-mediator is opgetreden en welke opleiding deze heeft voltooid.
+- – de mediator tekent op de monitoringformulieren aan wie als co-mediator is opgetreden en welke opleiding deze heeft voltooid.
 
-##### Artikel 9. Registratie van affiniteiten door de Raad voor Rechtsbijstand ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 9. Registratie van affiniteiten door de Raad voor Rechtsbijstand (artikel 33c sub a Wrb)
 
 Bij zijn verzoek tot inschrijving bij de Raad voor Rechtsbijstand kan de mediator één of meer affiniteiten opgeven. De registratie van affiniteiten is een voorwaarde voor het in aanmerking komen voor verwijzingen van het Juridisch Loket en de rechtspraak op het terrein van de betreffende affiniteit. Een affiniteit wordt door de Raad alleen geregistreerd als per hoofdcategorie waarbinnen de affiniteit wordt opgegeven tenminste drie mediations10Het moet gaan om mediations in overeenstemming met de MfN-reglementen, aangevangen met een schriftelijke mediationovereenkomst. Andere vormen van bemiddeling, zoals buurtbemiddelingen tellen niet mee. Co-mediations kunnen meetellen als sprake is van een gelijkwaardige positie tussen de mediators. zijn behandeld. Dit moet aan de hand van (geanonimiseerde) mediationovereenkomsten aangetoond worden. Dit geldt niet voor het registreren van affiniteiten op het terrein van het Personen- en Familierecht, daarop is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044459&artikel=13&z=2020-12-16&g=2020-12-16) van toepassing.
 
-##### Artikel 10. Deskundigheidseisen voor het behandelen van zaken op het terrein van het personen - familierecht ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 10. Deskundigheidseisen voor het behandelen van zaken op het terrein van het personen - familierecht (artikel 33c sub a Wrb)
 
 Om ingeschreven te kunnen worden voor dit vakgebied dient een mediator, naast de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044459&artikel=1&z=2020-12-16&g=2020-12-16) omschreven eisen, te voldoen aan het volgende vereiste:
 
@@ -174,19 +166,19 @@ De Raad toetst steekproefsgewijs of de ingeschreven mediator heeft voldaan aan d
 
 In die gevallen waar de mediator minimaal één van de partijen op toevoegbasis bijstaat en een advocaat dient in te schakelen om de vaststellingsovereenkomst in een rechterlijke uitspraak op te laten nemen, draagt de mediator er zorg voor dat de ingeschakelde advocaat bij de Raad ingeschreven is voor de specialisatie Personen- en familierecht. Als de advocaat niet voor deze specialisatie is ingeschreven, dan heeft de mediator geen recht op de zogenaamde afhechtingstoeslag op grond van [artikel 8 lid 4 van het Besluit Toevoeging Mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&artikel=8).
 
-##### Artikel 11. Deskundigheidseisen voor het behandelen van zaken betreffende internationale kinderontvoering ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 11. Deskundigheidseisen voor het behandelen van zaken betreffende internationale kinderontvoering (artikel 33c sub a Wrb)
 
 Naast de voorwaarden uit de [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044459&artikel=1&z=2020-12-16&g=2020-12-16) behoren mediators die zaken betreffende internationale kinderontvoering willen behandelen zich daarvoor apart in te inschrijven bij de Raad voor Rechtsbijstand. Bij het verzoek moeten zij aantonen dat zij voldoen aan onderstaande criteria:
 
-- –. succesvol hebben deelgenomen aan een door de Raad voor Rechtsbijstand erkende opleiding voor cross border mediation;
+- – succesvol hebben deelgenomen aan een door de Raad voor Rechtsbijstand erkende opleiding voor cross border mediation;
 
-- –. kennis van het Haags Kinderontvoeringsverdrag van 25 oktober 1980 (HKOV) en de [Uitvoeringswet inzake internationale ontvoering van kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) van 2 mei 1990;
+- – kennis van het Haags Kinderontvoeringsverdrag van 25 oktober 1980 (HKOV) en de [Uitvoeringswet inzake internationale ontvoering van kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004746) van 2 mei 1990;
 
-- –. ervaring als mediator in familierechtzaken, dat wil zeggen als mediator 10 familierechtzaken behandeld hebben;
+- – ervaring als mediator in familierechtzaken, dat wil zeggen als mediator 10 familierechtzaken behandeld hebben;
 
-- –. op de hoogte blijven van de (rechts)ontwikkelingen op het gebied van internationale kinderontvoering door het bijwonen van relevante congressen, cursussen, lezingen etc. en het op de hoogte blijven van relevante jurisprudentie.
+- – op de hoogte blijven van de (rechts)ontwikkelingen op het gebied van internationale kinderontvoering door het bijwonen van relevante congressen, cursussen, lezingen etc. en het op de hoogte blijven van relevante jurisprudentie.
 
-##### Artikel 12. Deskundigheidseisen voor bijzondere curatoren in [artikel 1:250 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250) zaken ([artikel 33c sub a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 12. Deskundigheidseisen voor bijzondere curatoren in artikel 1:250 BW zaken (artikel 33c sub a Wrb)
 
 De vereisten voor het verstrekken van toevoegingen aan bijzondere curatoren in [artikel 1:250 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=250) zaken zijn:
 
@@ -198,7 +190,7 @@ De vereisten voor het verstrekken van toevoegingen aan bijzondere curatoren in [
 
 Om ingeschreven te blijven staan onderhoudt de bijzondere curator zijn deskundigheid door het jaarlijks behalen van ten minste vier opleidingspunten op dit specifieke gebied en behoort deze tevens te voldoen aan de in de inschrijvingsvoorwaarden gestelde deskundigheidseisen voor de voortzetting van de specialisatie personen- en familierecht. Indien de bijzondere curator niet meer voldoet aan de gestelde eisen, kan de Raad de bijzondere curator voor de specialisatie uitschrijven. Voordat de Raad hiertoe beslist, zal betrokkene indien deze dat wenst worden gehoord.
 
-##### Artikel 13. Maximum ([artikel 33c sub b Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 13. Maximum (artikel 33c sub b Wrb)
 
 Om te voorkomen dat de kwaliteit van de door de mediator te verrichten werkzaamheden in het gedrang komt, door onder meer het te snel en te veel aanvragen van toevoegingen of door het onvoldoende tijd en aandacht besteden aan zaken, worden aan een mediator jaarlijks niet meer dan 250 toevoegingen afgegeven.
 
@@ -216,7 +208,7 @@ zal - indien de toevoeging alsnog wordt verleend - de ingangsdatum in het jaar v
 
 De Raad kan een mediator die het maximum binnen een half jaar heeft bereikt - na hem voorafgaand te hebben gehoord - definitief van de verlening van gesubsidieerde rechtsbijstand uitsluiten
 
-##### Artikel 14. Informatieplicht en verplichting tot medewerking in het geval van een door de Raad geëntameerd ambtshalve onderzoek naar de kwaliteit van de mediation ([artikel 33c sub c, d en e Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33c))
+##### Artikel 14. Informatieplicht en verplichting tot medewerking in het geval van een door de Raad geëntameerd ambtshalve onderzoek naar de kwaliteit van de mediation (artikel 33c sub c, d en e Wrb)
 
 - a. De mediator dient desgevraagd aan de Raad en aan door de Raad ingestelde commissies, tenzij dit in strijd is met de geheimhoudingplicht in de gedragsregels voor de MfN registermediator, informatie te verstrekken en verantwoording af te leggen over de afhandeling van zaken. Deze informatieplicht kan ook worden aangewend met betrekking tot de evaluatie van door de Raad gevoerd beleid. Desgevraagd dient de mediator verslaglegging te doen over de wijze waarop aan de inschrijvingsvoorwaarden is voldaan.
 
@@ -226,7 +218,7 @@ De Raad kan een mediator die het maximum binnen een half jaar heeft bereikt - na
 
 Het doorgeven van wijzigingen van gegevens en beëindiging van deelname dient schriftelijk te geschieden bij de Raad voor Rechtsbijstand.
 
-##### Artikel 16. Doorhaling Inschrijving ([Artikel 33d](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33d) en [Artikel 17 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=17))
+##### Artikel 16. Doorhaling Inschrijving (Artikel 33d en Artikel 17 Wrb)
 
 1. De inschrijving van de mediator kan door de Raad worden doorgehaald:
 

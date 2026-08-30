@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Buitenlandse Zaken van 9 december 2020, Min-BuZa.2020.6279-19, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Buitenlandse Zaken"
+citeertitel: "Regeling mandaat, volmacht en machtiging BZ 2021"
 identifier: "BWBR0044511"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-01"
-last_updated: "2023-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044511"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15759853"
-version_id: "27310632"
-internal_id: "C38574891"
-label_id: "15698194"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044511/2023-11-01/0"
-intitule_bron: "Stcrt.2020-66500"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-09"
-intitule_published: "2020-12-17"
-intitule_in_force: "2020-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-66500"
-original_signed_date: "2020-12-09"
-original_published_date: "2020-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-66500"
-entry_into_force_date: "2020-12-17"
-jci_1_3: "jci1.3:c:BWBR0044511&z=2023-11-01&g=2023-11-01"
-jci_1_0: "1.0:c:BWBR0044511&g=2023-11-01"
-citeertitel_status: "officieel"
-short_title: "Regeling mandaat, volmacht en machtiging BZ 2021"
-signed_date: "2020-12-09"
-entry_into_force: "2020-12-17"
+publicatiedatum: 2020-12-17
+laatste_update: 2023-11-01
+status: geldig
+toestand: 2023-11-01
+bron: "https://wetten.overheid.nl/BWBR0044511"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Buitenlandse Zaken van 9 december 2020, Min-BuZa.2020.6279-19, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Buitenlandse Zaken
-
-Handelende in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking;
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,35 +20,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **bewindspersoon:** de minister van Buitenlandse Zaken en in voorkomend geval de minister zonder portefeuille of de staatssecretaris die belast is met de behartiging van een of meer tot het werkgebied van het ministerie behorende beleidsterreinen;
+- a. *bewindspersoon:* de minister van Buitenlandse Zaken en in voorkomend geval de minister zonder portefeuille of de staatssecretaris die belast is met de behartiging van een of meer tot het werkgebied van het ministerie behorende beleidsterreinen;
 
-- b. **mandaat:** de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van een bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van een bewindspersoon de Staat te vertegenwoordigen bij het verrichten van privaatrechtelijke rechtshandelingen;
+- c. *volmacht:* de bevoegdheid om in naam van een bewindspersoon de Staat te vertegenwoordigen bij het verrichten van privaatrechtelijke rechtshandelingen;
 
-- d. **machtiging:** de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- d. *machtiging:* de bevoegdheid om in naam van een bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- e. **directeuren-generaal:**
+- e. *directeuren-generaal:*
 
-- –. de directeur-generaal Buitenlandse Economische Betrekkingen (DGBEB),
+   - – de directeur-generaal Buitenlandse Economische Betrekkingen (DGBEB),
 
-- –. de directeur-generaal Europese Samenwerking (DGES),
+   - – de directeur-generaal Europese Samenwerking (DGES),
 
-- –. de directeur-generaal Internationale Samenwerking (DGIS),
+   - – de directeur-generaal Internationale Samenwerking (DGIS),
 
-- –. de directeur-generaal Politieke Zaken (DGPZ),
+   - – de directeur-generaal Politieke Zaken (DGPZ),
 
-- –. andere bij het ministerie van Buitenlandse Zaken (tijdelijk) benoemde project-directeuren-generaal;
+   - – andere bij het ministerie van Buitenlandse Zaken (tijdelijk) benoemde project-directeuren-generaal;
 
-- f. **directeuren:**
+- f. *directeuren:*
 
-- –. de directeuren, hoofddirecteuren en projectdirecteuren,
+   - – de directeuren, hoofddirecteuren en projectdirecteuren,
 
-- –. de ambassadeurs in algemene dienst en de ambassadeurs in algemene dienst met bijzondere taken;
+   - – de ambassadeurs in algemene dienst en de ambassadeurs in algemene dienst met bijzondere taken;
 
-- g. **hoofden:** de hoofden van afdelingen;
+- g. *hoofden:* de hoofden van afdelingen;
 
-- h. **chefs de poste:** de hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland, te weten ambassades, gezantschappen, consulaten-generaal, consulaten, permanente vertegenwoordigingen bij internationale organisaties en andere (tijdelijke) vertegenwoordigingen, alsmede de permanente vertegenwoordigingen van het Koninkrijk der Nederlanden in Nederland bij internationale organisaties die in Nederland zijn gevestigd.
+- h. *chefs de poste:* de hoofden van vertegenwoordigingen van het Koninkrijk in het buitenland, te weten ambassades, gezantschappen, consulaten-generaal, consulaten, permanente vertegenwoordigingen bij internationale organisaties en andere (tijdelijke) vertegenwoordigingen, alsmede de permanente vertegenwoordigingen van het Koninkrijk der Nederlanden in Nederland bij internationale organisaties die in Nederland zijn gevestigd.
 
 #### § 2. Algemeen mandaat, volmacht en machtiging
 
@@ -118,23 +90,23 @@ Aan de secretaris-generaal en de plaatsvervangend secretaris-generaal wordt alge
 
 - c. het afdoen van stukken bestemd voor:
 
-- 1°. de Koning of het Kabinet van de Koning;
+   - 1°. de Koning of het Kabinet van de Koning;
 
-- 2°. de raad van ministers, de raad van ministers van het Koninkrijk, of een daaruit gevormde onderraad of commissie;
+   - 2°. de raad van ministers, de raad van ministers van het Koninkrijk, of een daaruit gevormde onderraad of commissie;
 
-- 3°. de Voorzitter van de Eerste of de Tweede Kamer der Staten-Generaal of de voorzitter van een uit één van die kamers gevormde commissie;
+   - 3°. de Voorzitter van de Eerste of de Tweede Kamer der Staten-Generaal of de voorzitter van een uit één van die kamers gevormde commissie;
 
-- 4°. een minister of een staatssecretaris;
+   - 4°. een minister of een staatssecretaris;
 
-- 5°. de Raad van State of de Raad van State van het Koninkrijk;
+   - 5°. de Raad van State of de Raad van State van het Koninkrijk;
 
-- 6°. het Presidium van de Algemene Rekenkamer;
+   - 6°. het Presidium van de Algemene Rekenkamer;
 
-- 7°. de Nationale ombudsman;
+   - 7°. de Nationale ombudsman;
 
-- 8°. een adviescollege in de zin van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159);
+   - 8°. een adviescollege in de zin van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159);
 
-- 9°. autoriteiten in binnen- of buitenland, in rang gelijk aan of hoger dan een minister of een staatssecretaris.
+   - 9°. autoriteiten in binnen- of buitenland, in rang gelijk aan of hoger dan een minister of een staatssecretaris.
 
 2. Aangelegenheden waarvan de aard zich tegen verlening van mandaat, volmacht of machtiging verzet zijn in ieder geval:
 
@@ -184,29 +156,29 @@ Het krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - d. het nemen van besluiten die betrekking hebben op aangelegenheden die verband houden met het bepalen van de inrichting van het ministerie van Buitenlandse Zaken indien:
 
-- 1°. het besluit betrekking heeft op de waardering of herwaardering van functies ingedeeld in salarisschaal 16 of hoger van CAO Rijk of van andere functies waarover de Commissie Topfuncties adviseert;
+   - 1°. het besluit betrekking heeft op de waardering of herwaardering van functies ingedeeld in salarisschaal 16 of hoger van CAO Rijk of van andere functies waarover de Commissie Topfuncties adviseert;
 
-- 2°. het besluit voor meer dan tien functionarissen voor wie de CAO Rijk geldt, rechtspositionele gevolgen met zich meebrengt;
+   - 2°. het besluit voor meer dan tien functionarissen voor wie de CAO Rijk geldt, rechtspositionele gevolgen met zich meebrengt;
 
-- 3°. het besluit betrekking heeft op de opening of sluiting van een post;
+   - 3°. het besluit betrekking heeft op de opening of sluiting van een post;
 
-- 4°. het voor elke consulaire post bepalen van een ressort en het bepalen van de status ervan.
+   - 4°. het voor elke consulaire post bepalen van een ressort en het bepalen van de status ervan.
 
 - e. het toepassen van de volgende bepalingen:
 
-- 1°. de in de CAO Rijk onder het VWNW-beleid opgenomen remplaçantenregeling bij ontslag op eigen verzoek door een functionaris;
+   - 1°. de in de CAO Rijk onder het VWNW-beleid opgenomen remplaçantenregeling bij ontslag op eigen verzoek door een functionaris;
 
-- 2°. de in de CAO Rijk onder het VWNW-beleid opgenomen hardheidsclausule ten aanzien van een functionaris over wiens benoeming door de Commissie Topfuncties is geadviseerd;
+   - 2°. de in de CAO Rijk onder het VWNW-beleid opgenomen hardheidsclausule ten aanzien van een functionaris over wiens benoeming door de Commissie Topfuncties is geadviseerd;
 
-- 3°. het afdoen van meldingen op vermoeden van een misstand;
+   - 3°. het afdoen van meldingen op vermoeden van een misstand;
 
-- 4°. het aanwijzen van een functionaris in de hoedanigheid van Zaakgelastigde en deze indien nodig voorzien van een inleidingsbrief als bedoel in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042734&artikel=3) respectievelijk [artikel 2 van het Besluit van 24 oktober 2019, houdende enkele bepalingen met betrekking tot ambtenaren werkzaam bij vertegenwoordigingen van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0042734&artikel=2) (Stcrt. 2019, nr. 60261);
+   - 4°. het aanwijzen van een functionaris in de hoedanigheid van Zaakgelastigde en deze indien nodig voorzien van een inleidingsbrief als bedoel in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042734&artikel=3) respectievelijk [artikel 2 van het Besluit van 24 oktober 2019, houdende enkele bepalingen met betrekking tot ambtenaren werkzaam bij vertegenwoordigingen van het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0042734&artikel=2) (Stcrt. 2019, nr. 60261);
 
-- 5°. het machtigen van honoraire consulaire functionarissen tot het verrichten van rechtshandelingen;
+   - 5°. het machtigen van honoraire consulaire functionarissen tot het verrichten van rechtshandelingen;
 
-- 6°. het machtigen van een chef de poste tot het benoemen en ontslaan van honoraire adviseurs;
+   - 6°. het machtigen van een chef de poste tot het benoemen en ontslaan van honoraire adviseurs;
 
-- 7°. het beslissen over een verschil van mening dat een functionaris of voormalig functionaris van het ministerie van Buitenlandse Zaken op grond van de CAO Rijk, de Aanvullende CAO Rijk Uitzendingen of de [Rechtspositieregeling lokale werknemers 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042874) heeft voorgelegd aan de in die regelingen genoemde geschillencommissies.
+   - 7°. het beslissen over een verschil van mening dat een functionaris of voormalig functionaris van het ministerie van Buitenlandse Zaken op grond van de CAO Rijk, de Aanvullende CAO Rijk Uitzendingen of de [Rechtspositieregeling lokale werknemers 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0042874) heeft voorgelegd aan de in die regelingen genoemde geschillencommissies.
 
 ##### Artikel 9. Specifieke bevoegdheden hoofddirecteur Consulaire en Visumzaken, directeur Financieel-Economische Zaken, directeur 3W, hoofddirecteur Personeel en Organisatie en hoofddirecteur Postennet
 
@@ -254,10 +226,8 @@ Ondermandaatbesluiten, volmachten en competentietabellen die zijn vastgesteld op
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2023-11-01&g=2023-11-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020 met uitzondering van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&paragraaf=3&artikel=9&z=2023-11-01&g=2023-11-01), derde volzin, dat in werking treedt met ingang van 1 januari 2021.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling mandaat, volmacht en machtiging BZ 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. Een afschrift van deze regeling wordt gezonden naar de Algemene Rekenkamer.

@@ -1,40 +1,17 @@
 ---
 title: "Regeling tijdelijke ondersteuning programmering middelgrote en kleine podia Fonds Podiumkunsten (Podiumstartregeling)"
 identifier: "BWBR0044211"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-10-15"
-last_updated: "2020-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044211"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15664793"
-version_id: "27078162"
-internal_id: "C38302491"
-label_id: "15604514"
-dtd_version: "2.0"
-original_entry_into_force: "2020-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044211/2020-10-15/0"
-intitule_bron: "Stcrt.2020-53076"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-10-14"
-intitule_in_force: "2020-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-53076"
-original_published_date: "2020-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-53076"
-entry_into_force_date: "2020-10-15"
-jci_1_3: "jci1.3:c:BWBR0044211&z=2020-10-15&g=2020-10-15"
-jci_1_0: "1.0:c:BWBR0044211&g=2020-10-15"
-citeertitel_status: "officieel"
-entry_into_force: "2020-10-15"
+publicatiedatum: 2020-10-15
+laatste_update: 2020-10-15
+status: geldig
+toestand: 2020-10-15
+bron: "https://wetten.overheid.nl/BWBR0044211"
+opgehaald: 2026-08-30
 ---
+
 # Regeling tijdelijke ondersteuning programmering middelgrote en kleine podia Fonds Podiumkunsten (Podiumstartregeling)
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit
 
 #### Paragraaf 1. Algemeen
 
@@ -42,11 +19,11 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland:* Het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 1.2. Doel
 
@@ -58,7 +35,7 @@ Het bestuur kan een aanvraag geheel of gedeeltelijk weigeren als het verstrekken
 
 ##### Artikel 1.4. Subsidieplafond
 
-1. Het bestuur kan een of meer subsidieplafonds vaststellen. Subsidieplafonds worden vastgesteld voor een bepaalde periode. Voor de periode 1 september 2020 tot en met 31 augustus 2021 is € 6.320.000 beschikbaar.
+1. Het bestuur kan een of meer subsidieplafonds vaststellen. Subsidieplafonds worden vastgesteld voor een bepaalde periode. Voor de periode 1 september 2020 tot en met 31 augustus 2021 is € 6.320.000 beschikbaar.
 
 2. Het bestuur kan eerder vastgestelde subsidieplafonds verhogen of verlagen.
 
@@ -66,7 +43,7 @@ Het bestuur kan een aanvraag geheel of gedeeltelijk weigeren als het verstrekken
 
 ##### Artikel 1.5. Algemene weigeringsgronden
 
-Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren:
+Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren:
 
 - a. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval worden begrepen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
@@ -78,23 +55,23 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 1. Subsidie kan worden verstrekt aan:
 
-- •. organisaties die zijn aangewezen als SKIP-podium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3), voor de periode 2020–2021 in categorie 2 of 3;
+- • organisaties die zijn aangewezen als SKIP-podium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3), voor de periode 2020–2021 in categorie 2 of 3;
 
-- •. organisaties die waren aangewezen als SKIP-podium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3), voor de periode 2018–2019 in categorie 2 of 3;
+- • organisaties die waren aangewezen als SKIP-podium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=3), voor de periode 2018–2019 in categorie 2 of 3;
 
-- •. organisaties die zijn aangewezen als kernpodium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6);
+- • organisaties die zijn aangewezen als kernpodium als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=6);
 
-- •. organisaties die voor de periode 2020–2021 een SRP-subsidie ontvangen als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2), in de categorie die betrekking heeft op een of meer zalen met een gemengde programmering waarvan de grootste zaal tussen de 201 en 400 stoelen telt ('middelgrote theaterzalen');
+- • organisaties die voor de periode 2020–2021 een SRP-subsidie ontvangen als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2), in de categorie die betrekking heeft op een of meer zalen met een gemengde programmering waarvan de grootste zaal tussen de 201 en 400 stoelen telt ('middelgrote theaterzalen');
 
-- •. organisaties die voor de periode 2018–2019 een SRP-subsidie ontvingen als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2), in de categorie die betrekking heeft op een of meer zalen met een gemengde programmering waarvan de grootste zaal tussen de 201 en 400 stoelen telt ('middelgrote theaterzalen')
+- • organisaties die voor de periode 2018–2019 een SRP-subsidie ontvingen als bedoeld in de [Deelregeling programmeringssubsidies Fonds Podiumkunsten, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029360&paragraaf=2), in de categorie die betrekking heeft op een of meer zalen met een gemengde programmering waarvan de grootste zaal tussen de 201 en 400 stoelen telt ('middelgrote theaterzalen')
 
-- •. overige door het Fonds als zodanig aangewezen podiumorganisaties.
+- • overige door het Fonds als zodanig aangewezen podiumorganisaties.
 
 2. Het Fonds kan een aanvrager uitsluiten van subsidiëring op grond van deze regeling als deze niet langer beschikt over een vaste zaal met voldoende faciliteiten om daar een brede programmering te verzorgen, als die aanvrager niet voldoende professioneel werkt, of geen sprake is van voldoende publieksbereik.
 
 ##### Artikel 2.2. Subsidiabele activiteiten
 
-1. Voor subsidie komen in aanmerking voorstellingen of concerten van artiesten, bands of gezelschappen die gevestigd zijn in of werken vanuit Nederland en die plaatsvinden onder directe inhoudelijke en financiële verantwoordelijkheid van de organisatie als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044211&paragraaf=2&artikel=2.1&z=2020-10-15&g=2020-10-15).
+1. Voor subsidie komen in aanmerking voorstellingen of concerten van artiesten, bands of gezelschappen die gevestigd zijn in of werken vanuit Nederland en die plaatsvinden onder directe inhoudelijke en financiële verantwoordelijkheid van de organisatie als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044211&paragraaf=2&artikel=2.1&z=2020-10-15&g=2020-10-15).
 
 2. Voorstellingen of concerten die niet openbaar toegankelijk zijn, waarbij geen sprake is van een vooraf vastgelegde, redelijke gage of uitkoopsom of geen sprake is van een redelijke entreeprijs komen niet voor subsidie in aanmerking.
 
@@ -104,7 +81,7 @@ Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet 
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde webformulier tijdig is ontvangen door het Fonds Podiumkunsten en vergezeld gaat van de op het formulier vermelde bijlagen.
 
-3. Aanvragen moeten uiterlijk zijn ontvangen op 31 januari voor voorstellingen en concerten in de periode van 1 september tot en met 31 december van het voorgaande jaar en op 30 september voor voorstellingen en concerten in de periode van 1 januari tot en met 31 augustus van dat jaar.
+3. Aanvragen moeten uiterlijk zijn ontvangen op 31 januari voor voorstellingen en concerten in de periode van 1 september tot en met 31 december van het voorgaande jaar en op 30 september voor voorstellingen en concerten in de periode van 1 januari tot en met 31 augustus van dat jaar.
 
 ##### Artikel 2.4. Verantwoording
 
@@ -112,21 +89,21 @@ Het bestuur kan bij de subsidieverlening bepalen dat deze plaatsvindt onder de v
 
 ##### Artikel 2.5. Hoogte subsidie
 
-1. Het subsidie is gelijk aan het rekentekort tot een maximum van € 1.500 per dag.
+1. Het subsidie is gelijk aan het rekentekort tot een maximum van € 1.500 per dag.
 
 2. Het rekentekort wordt als volgt berekend: de werkelijk betaalde uitkoopsommen of brutogages minus de gerealiseerde inkomsten uit entreegelden.
 
-3. Per categorie geldt voor de periode die loopt van 1 september tot en met 31 augustus het volgende maximum per organisatie:
+3. Per categorie geldt voor de periode die loopt van 1 september tot en met 31 augustus het volgende maximum per organisatie:
 
-- −. SKIP-podium, categorie 2: € 40.000;
+- − SKIP-podium, categorie 2: € 40.000;
 
-- −. SKIP-podium, categorie 3: € 60.000;
+- − SKIP-podium, categorie 3: € 60.000;
 
-- −. kernpodium a of b: € 60.000;
+- − kernpodium a of b: € 60.000;
 
-- −. kernpodium c: € 40.000;
+- − kernpodium c: € 40.000;
 
-- −. SRP, categorie middelgrote theaterzalen: € 60.000.
+- − SRP, categorie middelgrote theaterzalen: € 60.000.
 
 ##### Artikel 2.6. Samenloop
 
@@ -163,5 +140,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 3.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tijdelijke ondersteuning programmering middelgrote en kleine podia Fonds Podiumkunsten (Podiumstartregeling).
-
-Dit besluit zal in de Staatscourant worden geplaatst.

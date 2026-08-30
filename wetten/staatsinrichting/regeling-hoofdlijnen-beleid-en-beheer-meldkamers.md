@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid, van 22 juni 2020, kenmerk 2944128, houdende de hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, waaronder de multidisciplinaire sturing en de beleids- en beheercyclus voor de vaststelling van het beleids- en bestedingsplan (Regeling hoofdlijnen beleid en beheer meldkamers)"
+citeertitel: "Regeling hoofdlijnen beleid en beheer meldkamers"
 identifier: "BWBR0043762"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-07-01"
-last_updated: "2020-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043762"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15533383"
-version_id: "26835272"
-internal_id: "C38019611"
-label_id: "15475704"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043762/2020-07-01/0"
-intitule_bron: "Stcrt.2020-33877"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-22"
-intitule_published: "2020-06-30"
-intitule_in_force: "2020-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-33877"
-original_signed_date: "2020-06-22"
-original_published_date: "2020-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-33877"
-entry_into_force_date: "2020-07-01"
-jci_1_3: "jci1.3:c:BWBR0043762&z=2020-07-01&g=2020-07-01"
-jci_1_0: "1.0:c:BWBR0043762&g=2020-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling hoofdlijnen beleid en beheer meldkamers"
-signed_date: "2020-06-22"
-entry_into_force: "2020-07-01"
+publicatiedatum: 2020-07-01
+laatste_update: 2020-07-01
+status: geldig
+toestand: 2020-07-01
+bron: "https://wetten.overheid.nl/BWBR0043762"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid, van 22 juni 2020, kenmerk 2944128, houdende de hoofdlijnen van beleid en beheer met betrekking tot de meldkamers, waaronder de multidisciplinaire sturing en de beleids- en beheercyclus voor de vaststelling van het beleids- en bestedingsplan (Regeling hoofdlijnen beleid en beheer meldkamers)
-
-Gelet op [artikel 23a, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **beheer:** facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van de meldkamers en het ICT- beheer ten behoeve van de meldkamerfuncties;
+- a. *beheer:* facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van de meldkamers en het ICT- beheer ten behoeve van de meldkamerfuncties;
 
-- b. **beleids- en bestedingsplan:** een jaarplan en een bestedingsplan inclusief meerjarig financieel kader op basis van de hoofdlijnen van beleid en beheer, bedoeld in [artikel 23a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23a);
+- b. *beleids- en bestedingsplan:* een jaarplan en een bestedingsplan inclusief meerjarig financieel kader op basis van de hoofdlijnen van beleid en beheer, bedoeld in [artikel 23a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23a);
 
-- c. **partijen:** de Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening betreft, de Minister van Defensie voor zover het de Koninklijke marechaussee betreft, de Minister van Justitie en Veiligheid en de politie;
+- c. *partijen:* de Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening betreft, de Minister van Defensie voor zover het de Koninklijke marechaussee betreft, de Minister van Justitie en Veiligheid en de politie;
 
-- d. **jaaraanschrijving:** de jaaraanschrijving, bedoeld in [artikel 45 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=45).
+- d. *jaaraanschrijving:* de jaaraanschrijving, bedoeld in [artikel 45 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=45).
 
-- e. **Landelijke Meldkamer Samenwerking:** het onderdeel van de politie waar het beheer van de meldkamers, bedoeld in [artikel 25a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a), is ondergebracht;
+- e. *Landelijke Meldkamer Samenwerking:* het onderdeel van de politie waar het beheer van de meldkamers, bedoeld in [artikel 25a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a), is ondergebracht;
 
-- f. **gebied:** het werkgebied van een meldkamer, zoals aangewezen in artikel 1 van het Besluit aanwijzing meldkamers.
+- f. *gebied:* het werkgebied van een meldkamer, zoals aangewezen in artikel 1 van het Besluit aanwijzing meldkamers.
 
 ##### Artikel 2. Beleidsdoelen en beleidskaders
 
@@ -166,11 +140,11 @@ In deze regeling wordt verstaan onder:
 
 3. De beleids- en beheercyclus kent het volgende verloop:
 
-- a. de Minister van Justitie en Veiligheid geeft jaarlijks voor 1 december in de Jaaraanschrijving Politie de definitieve inhoudelijke beleids- en budgettaire kaders aan voor het beleids- en bestedingsplan meldkamers;
+- a. de Minister van Justitie en Veiligheid geeft jaarlijks voor 1 december in de Jaaraanschrijving Politie de definitieve inhoudelijke beleids- en budgettaire kaders aan voor het beleids- en bestedingsplan meldkamers;
 
-- b. het Strategisch Meldkamer Beraad stelt tussen uiterlijk 1 december en 1 september het beleids- en bestedingsplan op;
+- b. het Strategisch Meldkamer Beraad stelt tussen uiterlijk 1 december en 1 september het beleids- en bestedingsplan op;
 
-- c. het Bestuurlijk Meldkamer Beraad dient 1 september het beleids- en bestedingsplan ter vaststelling in bij de Minister van Justitie en Veiligheid;
+- c. het Bestuurlijk Meldkamer Beraad dient 1 september het beleids- en bestedingsplan ter vaststelling in bij de Minister van Justitie en Veiligheid;
 
 - d. het beleids- en bestedingsplan wordt gedurende het jaar uitgevoerd, en de voortgang daarvan wordt gemonitord middels een 4-, 8- en 12-maandsrapportage;
 
@@ -178,20 +152,18 @@ In deze regeling wordt verstaan onder:
 
 4. De totstandkoming van het beleids- en bestedingsplan kent het volgende verloop:
 
-- a. partijen dragen uiterlijk tussen 1 december en 1 maart hun wensen aan, die door de Landelijke Meldkamer Samenwerking ter kennis worden gebracht van het Strategisch Meldkamer Beraad;
+- a. partijen dragen uiterlijk tussen 1 december en 1 maart hun wensen aan, die door de Landelijke Meldkamer Samenwerking ter kennis worden gebracht van het Strategisch Meldkamer Beraad;
 
-- b. de wensen worden tussen 1 maart en 15 april geanalyseerd, waarna de Landelijke Meldkamer Samenwerking voor het Strategisch Meldkamer Beraad een conceptplan opstelt voor het jaar daarop;
+- b. de wensen worden tussen 1 maart en 15 april geanalyseerd, waarna de Landelijke Meldkamer Samenwerking voor het Strategisch Meldkamer Beraad een conceptplan opstelt voor het jaar daarop;
 
-- c. op basis van het conceptplan geeft het Strategisch Meldkamer Beraad tijdig een advies aan het Bestuurlijk Meldkamer Beraad, dat voor 1 september het conceptplan vaststelt en de Minister van Justitie en Veiligheid adviseert over de vaststelling van het plan.
+- c. op basis van het conceptplan geeft het Strategisch Meldkamer Beraad tijdig een advies aan het Bestuurlijk Meldkamer Beraad, dat voor 1 september het conceptplan vaststelt en de Minister van Justitie en Veiligheid adviseert over de vaststelling van het plan.
 
 5. De hoofdlijnen van het beleids- en bestedingsplan worden opgenomen in de begroting en het beheerplan van de politie. De politie verantwoordt de werkelijk gemaakte kosten in de jaarrekening.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2020.
+Deze regeling treedt in werking met ingang van 1 juli 2020.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling hoofdlijnen beleid en beheer meldkamers.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

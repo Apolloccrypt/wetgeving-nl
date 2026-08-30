@@ -1,57 +1,31 @@
 ---
 title: "Controlevoorschriften Ziektewet 2020"
 identifier: "BWBR0043626"
-country: "nl"
-rank: "zbo"
-publication_date: "2020-06-12"
-last_updated: "2020-06-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043626"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15484203"
-version_id: "26759032"
-internal_id: "C37924861"
-label_id: "15426814"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043626/2020-06-12/0"
-intitule_bron: "Stcrt.2020-30828"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-04-28"
-intitule_published: "2020-06-11"
-intitule_in_force: "2020-06-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-30828"
-original_signed_date: "2020-04-28"
-original_published_date: "2020-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-30828"
-entry_into_force_date: "2020-06-12"
-jci_1_3: "jci1.3:c:BWBR0043626&z=2020-06-12&g=2020-06-12"
-jci_1_0: "1.0:c:BWBR0043626&g=2020-06-12"
-citeertitel_status: "officieel"
-signed_date: "2020-04-28"
-entry_into_force: "2020-06-12"
+publicatiedatum: 2020-06-12
+laatste_update: 2020-06-12
+status: geldig
+toestand: 2020-06-12
+bron: "https://wetten.overheid.nl/BWBR0043626"
+opgehaald: 2026-08-30
 ---
+
 # Controlevoorschriften Ziektewet 2020
-
-Gelet op [artikel 39, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=39);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **verzekerde:** degene die op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) verzekerd is en ten aanzien van wie het UWV een aangifte of melding heeft ontvangen dat hij ongeschikt is tot het verrichten van zijn arbeid als gevolg van ziekte als bedoeld in [artikel 19 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19);
+- a. *verzekerde:* degene die op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) verzekerd is en ten aanzien van wie het UWV een aangifte of melding heeft ontvangen dat hij ongeschikt is tot het verrichten van zijn arbeid als gevolg van ziekte als bedoeld in [artikel 19 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19);
 
-- b. **verzekeringsarts of arts:** een arts, werkzaam voor het UWV, die staat ingeschreven in het BIG-register;
+- b. *verzekeringsarts of arts:* een arts, werkzaam voor het UWV, die staat ingeschreven in het BIG-register;
 
-- c. **woonadres:** adres als bedoeld in [artikel 1.1, aanhef en onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1);
+- c. *woonadres:* adres als bedoeld in [artikel 1.1, aanhef en onder o, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.1);
 
-- d. **correspondentieadres:** een door betrokkene gekozen adres voor het ontvangen van post die afwijkt van het woonadres.
+- d. *correspondentieadres:* een door betrokkene gekozen adres voor het ontvangen van post die afwijkt van het woonadres.
 
-- e. **verblijfsadres:** een door betrokkene gekozen adres waar hij of zij daadwerkelijk verblijft als het adres afwijkt van het woonadres.
+- e. *verblijfsadres:* een door betrokkene gekozen adres waar hij of zij daadwerkelijk verblijft als het adres afwijkt van het woonadres.
 
 ##### Artikel 2. Adreswijziging doorgeven
 
@@ -100,5 +74,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Controlevoorschriften Ziektewet 2020.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

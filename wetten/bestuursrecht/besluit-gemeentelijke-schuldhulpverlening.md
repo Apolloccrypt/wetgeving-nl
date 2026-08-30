@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 juli 2020, houdende regels voor de uitvoering van de Wet gemeentelijke schuldhulpverlening (Besluit gemeentelijke schuldhulpverlening)"
+citeertitel: "Besluit gemeentelijke schuldhulpverlening"
 identifier: "BWBR0043850"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043850"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "15561083"
-version_id: "26882692"
-internal_id: "C38070151"
-label_id: "15503014"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043850/2026-01-01/0"
-intitule_bron: "Stb.2020-240"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-06"
-intitule_published: "2020-07-13"
-intitule_in_force: "2020-07-13"
-intitule_status: "goed"
-original_publication: "Stb.2020-240"
-original_signed_date: "2020-07-06"
-original_published_date: "2020-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-240"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0043850&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0043850&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gemeentelijke schuldhulpverlening"
-signed_date: "2020-07-06"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0043850"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 6 juli 2020, houdende regels voor de uitvoering van de Wet gemeentelijke schuldhulpverlening (Besluit gemeentelijke schuldhulpverlening)
-
-Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 april 2020, nr. 2020-0000053114;
-
-Gelet op de [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3), [5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=5), en [8, eerste en tweede lid, van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 juni 2020, No. W12.20.0124/III);
-
-Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 1 juli 2020, nr. 2020-0000089689
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
@@ -52,13 +20,14 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **boedel:** goederen van de cliënt ten tijde van de uitspraak tot instelling van een afkoelingsperiode, alsmede goederen die hij tijdens de afkoelingsperiode verkrijgt;
+- *boedel:* goederen van de cliënt ten tijde van de uitspraak tot instelling van een afkoelingsperiode, alsmede goederen die hij tijdens de afkoelingsperiode verkrijgt;
 
-- **plan van aanpak:** plan van aanpak voor de schuldhulpverlening als bedoeld in [artikel 4a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4a);
+- *plan van aanpak:* plan van aanpak voor de schuldhulpverlening als bedoeld in [artikel 4a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4a);
 
-- **schuldhulpverlener:** degene die namens het college de cliënt ondersteunt in het kader van de gemeentelijke schuldhulpverlening;
+- *schuldhulpverlener:* degene die namens het college de cliënt ondersteunt in het kader van de gemeentelijke schuldhulpverlening;
 
-- **wet:** [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331).
+- *wet:*
+ [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331).
 
 #### § 2. Gegevensverstrekking vroegsignalering
 
@@ -293,7 +262,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 21. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke schuldhulpverlening.
-
-## Bijlage 1. behorend bij [artikel 4, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0043850&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

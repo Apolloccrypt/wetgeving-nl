@@ -1,55 +1,29 @@
 ---
 title: "Instellingsbesluit Commissie van onderzoek wapeninzet Hawija"
 identifier: "BWBR0044377"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-11-27"
-last_updated: "2020-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044377"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15711153"
-version_id: "27228012"
-internal_id: "C38472991"
-label_id: "15649984"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044377/2020-11-27/0"
-intitule_bron: "Stcrt.2020-61588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-19"
-intitule_published: "2020-11-26"
-intitule_in_force: "2020-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-61588"
-original_signed_date: "2020-11-19"
-original_published_date: "2020-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-61588"
-entry_into_force_date: "2020-11-27"
-jci_1_3: "jci1.3:c:BWBR0044377&z=2020-11-27&g=2020-11-27"
-jci_1_0: "1.0:c:BWBR0044377&g=2020-11-27"
-citeertitel_status: "officieel"
-signed_date: "2020-11-19"
-entry_into_force: "2020-11-27"
+publicatiedatum: 2020-11-27
+laatste_update: 2020-11-27
+status: geldig
+toestand: 2020-11-27
+bron: "https://wetten.overheid.nl/BWBR0044377"
+opgehaald: 2026-08-30
 ---
+
 # Instellingsbesluit Commissie van onderzoek wapeninzet Hawija
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Defensie;
+- a. *minister:* Minister van Defensie;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044377&artikel=2&z=2020-11-27&g=2020-11-27).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044377&artikel=2&z=2020-11-27&g=2020-11-27).
 
 ##### Artikel 2. Instelling en taak
 
-1. Er is een Commissie van onderzoek naar de Nederlandse wapeninzet in Hawija, Irak, in de nacht van 2 op 3 juni 2015.
+1. Er is een Commissie van onderzoek naar de Nederlandse wapeninzet in Hawija, Irak, in de nacht van 2 op 3 juni 2015.
 
 2. De commissie heeft tot taak:
 
@@ -156,5 +130,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek wapeninzet Hawija.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,71 +1,45 @@
 ---
 title: "Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)"
 identifier: "BWBR0044452"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2020-12-09"
-last_updated: "2020-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044452"
+categorie: "Verkeer"
 soort: "ministeriele-regeling-BES"
-stam_id: "15739603"
-version_id: "27271532"
-internal_id: "C38530051"
-label_id: "15677954"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044452/2020-12-09/0"
-intitule_bron: "Stcrt.2020-63619"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-25"
-intitule_published: "2020-12-07"
-intitule_in_force: "2020-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-63619"
-original_signed_date: "2020-11-25"
-original_published_date: "2020-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-63619"
-entry_into_force_date: "2020-12-09"
-jci_1_3: "jci1.3:c:BWBR0044452&z=2020-12-09&g=2020-12-09"
-jci_1_0: "1.0:c:BWBR0044452&g=2020-12-09"
-citeertitel_status: "officieel"
-signed_date: "2020-11-25"
-entry_into_force: "2020-12-09"
+publicatiedatum: 2020-12-09
+laatste_update: 2020-12-09
+status: geldig
+toestand: 2020-12-09
+bron: "https://wetten.overheid.nl/BWBR0044452"
+opgehaald: 2026-08-30
 ---
+
 # Besluit bewaarder van het kadaster en de openbare registers BES tot verlening van mandaat en machtiging ten aanzien van het beslissen op verzoeken tot inschrijving in de openbare registers voor onroerende zaken en voor schepen en luchtvaartuigen, het verstrekken van inlichtingen uit de kadastrale registratie, de registraties voor schepen en luchtvaartuigen en het bijwerken van de kadastrale registratie en registraties voor schepen en luchtvaartuigen in verband met het inwerkingtreden van de Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)
-
-Gelet op het [artikel 10, tweede lid, Regels met betrekking tot de openbare registers voor registergoederen en de kadasters op Bonaire, Sint Eustatius en Saba (Kadasterwet BES)](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Dienst:** de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- a. *de Dienst:* de Dienst voor het kadaster en de openbare registers, bedoeld in [artikel 2 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- b. **de bewaarder:** de bewaarder van het kadaster en de openbare registers, bedoeld in [artikel 9 van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=9);
+- b. *de bewaarder:* de bewaarder van het kadaster en de openbare registers, bedoeld in [artikel 9 van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=9);
 
-- c. **verstrekken van inlichtingen:** het verstrekken van inlichtingen, bedoeld in [artikel 7, eerste lid, onder g Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=7) juncto [artikel 75 lid 1 van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=75);
+- c. *verstrekken van inlichtingen:* het verstrekken van inlichtingen, bedoeld in [artikel 7, eerste lid, onder g Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=7) juncto [artikel 75 lid 1 van de Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=75);
 
-- d. **mandaatverlening:** de bevoegdheid van de bewaarder om op grond van [artikel 10, tweede lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=10) mandaat te verlenen;
+- d. *mandaatverlening:* de bevoegdheid van de bewaarder om op grond van [artikel 10, tweede lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=10) mandaat te verlenen;
 
-- e. **mandaat:** bevoegdheid om in naam van de bewaarder besluiten te nemen;
+- e. *mandaat:* bevoegdheid om in naam van de bewaarder besluiten te nemen;
 
-- f. **machtiging:** bevoegdheid om in naam van de bewaarder handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- f. *machtiging:* bevoegdheid om in naam van de bewaarder handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- g. **gemandateerde:** ambtenaar die is aangesteld door de Dienst danwel persoon die op basis van een privaatrechtelijke overeenkomst werkzaamheden verricht voor de Dienst aan wie mandaat is verleend;
+- g. *gemandateerde:* ambtenaar die is aangesteld door de Dienst danwel persoon die op basis van een privaatrechtelijke overeenkomst werkzaamheden verricht voor de Dienst aan wie mandaat is verleend;
 
-- h. **gemachtigde:** ambtenaar die is aangesteld door de Dienst danwel persoon die op basis van een privaatrechtelijke overeenkomst werkzaamheden verricht voor de Dienst aan wie machtiging is verleend;
+- h. *gemachtigde:* ambtenaar die is aangesteld door de Dienst danwel persoon die op basis van een privaatrechtelijke overeenkomst werkzaamheden verricht voor de Dienst aan wie machtiging is verleend;
 
-- i. **kadastrale registratie:** kadastrale registratie bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
+- i. *kadastrale registratie:* kadastrale registratie bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
 
-- j. **registratie voor schepen:** registratie voor schepen bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
+- j. *registratie voor schepen:* registratie voor schepen bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
 
-- k. **registratie voor luchtvaartuigen:** registratie voor luchtvaartuigen bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
+- k. *registratie voor luchtvaartuigen:* registratie voor luchtvaartuigen bedoeld in [artikel 2, eerste lid, Kadasterwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0043565&artikel=2);
 
-- l. **openbare registers:** de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2).
+- l. *openbare registers:* de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&afdeling=2).
 
 ##### Artikel 2. Omvang van de mandaten en machtigingen (algemeen)
 

@@ -1,73 +1,42 @@
 ---
 title: "Wet van 1 juli 2020 tot wijziging van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie, de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten en enkele andere wetten in verband met de implementatie van Richtlijn (EU) 2018/957 van het Europees Parlement en de Raad van 28 juni 2018 tot wijziging van Richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEU 2018, L 173) (Implementatiewet herziene detacheringsrichtlijn)"
+citeertitel: "Implementatiewet herziene detacheringsrichtlijn"
 identifier: "BWBR0043892"
-country: "nl"
-rank: "wet"
-publication_date: "2020-07-30"
-last_updated: "2020-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043892"
+categorie: "Arbeidsrecht"
 soort: "wet"
-stam_id: "15569843"
-version_id: "26898562"
-internal_id: "C42021671"
-label_id: "15511494"
-dtd_version: "2.0"
-original_entry_into_force: "2020-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043892/2020-07-30/0"
-intitule_bron: "Stb.2020-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-01"
-intitule_published: "2020-07-15"
-intitule_in_force: "2020-07-15"
-intitule_status: "goed"
-original_publication: "Stb.2020-249"
-original_signed_date: "2020-07-01"
-original_published_date: "2020-07-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "35358"
-original_url_id: "stb-2020-249"
-entry_into_force_date: "2020-07-30"
-jci_1_3: "jci1.3:c:BWBR0043892&z=2020-07-30&g=2020-07-30"
-jci_1_0: "1.0:c:BWBR0043892&g=2020-07-30"
-citeertitel_status: "officieel"
-short_title: "Implementatiewet herziene detacheringsrichtlijn"
-signed_date: "2020-07-01"
-entry_into_force: "2020-07-30"
+publicatiedatum: 2020-07-30
+laatste_update: 2020-07-30
+status: geldig
+toestand: 2020-07-30
+bron: "https://wetten.overheid.nl/BWBR0043892"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 1 juli 2020 tot wijziging van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie, de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten en enkele andere wetten in verband met de implementatie van Richtlijn (EU) 2018/957 van het Europees Parlement en de Raad van 28 juni 2018 tot wijziging van Richtlijn 96/71/EG betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEU 2018, L 173) (Implementatiewet herziene detacheringsrichtlijn)
 
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wijziging van de Wet allocatie arbeidskrachten door intermediairs
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie, de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987) en enkele andere wetten te wijzigen in verband met de implementatie van Richtlijn (EU) 2018/957 van het Europees Parlement en de Raad van 28 juni 2018 tot wijziging van [Richtlijn 96/71/EG](31996L0071) betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (PbEU 2018, L 173);
+*Wijzigt de Wet allocatie arbeidskrachten door intermediairs.*
 
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II. Wijziging van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie
 
-Treedt voor de sector wegvervoer in werking op 1 juni 2023 (Stb. 2023/152).
+*Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.*
 
-##### Artikel I. Wijziging van de [Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616)
+##### Artikel III. Wijziging van de Wet minimumloon en minimumvakantiebijslag
 
-Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
+*Wijzigt de Wet minimumloon en minimumvakantiebijslag.*
 
-##### Artikel II. Wijziging van de [Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054)
+##### Artikel IV. Wijziging van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten
 
-Wijzigt de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
+*Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.*
 
-##### Artikel III. Wijziging van de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
+##### Artikel V. Wijziging van de Wet personenvervoer 2000
 
-Wijzigt de Wet minimumloon en minimumvakantiebijslag.
+*Wijzigt de Wet personenvervoer 2000.*
 
-##### Artikel IV. Wijziging van de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
+##### Artikel VI. Wijziging van het Wetboek van Burgerlijke Rechtsvordering
 
-Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
-
-##### Artikel V. Wijziging van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470)
-
-Wijzigt de Wet personenvervoer 2000.
-
-##### Artikel VI. Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
-
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
 ##### Artikel VII. Overgangsrecht
 
@@ -84,5 +53,3 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 ##### Artikel IX. Citeertitel
 
 Deze wet wordt aangehaald als: Implementatiewet herziene detacheringsrichtlijn.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

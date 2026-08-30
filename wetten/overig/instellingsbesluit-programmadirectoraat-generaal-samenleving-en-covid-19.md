@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 13 november 2020 (kenmerk 3076157/20/DP&O), houdende instelling van een tijdelijk programmadirectoraat-generaal Samenleving en COVID-19 (‘Instellingsbesluit DGSC-19’) en tevens houdende wijziging van het Organisatiebesluit Ministerie van Justitie en Veiligheid, het Mandaatbesluit Ministerie van Justitie en Veiligheid en het Mandaatbesluit hoofden cluster Ministerie van Justitie en Veiligheid"
+citeertitel: "Instellingsbesluit programmadirectoraat-generaal Samenleving en COVID-19"
 identifier: "BWBR0044448"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-12-05"
-last_updated: "2020-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044448"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15738463"
-version_id: "27269132"
-internal_id: "C38527301"
-label_id: "15677104"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044448/2020-12-05/0"
-intitule_bron: "Stcrt.2020-63326"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-13"
-intitule_published: "2020-12-04"
-intitule_in_force: "2020-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-63326"
-original_signed_date: "2020-11-13"
-original_published_date: "2020-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-63326"
-entry_into_force_date: "2020-12-05"
-jci_1_3: "jci1.3:c:BWBR0044448&z=2020-12-05&g=2020-12-05"
-jci_1_0: "1.0:c:BWBR0044448&g=2020-12-05"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit programmadirectoraat-generaal Samenleving en COVID-19"
-signed_date: "2020-11-13"
-entry_into_force: "2020-12-05"
+publicatiedatum: 2020-12-05
+laatste_update: 2020-12-05
+status: geldig
+toestand: 2020-12-05
+bron: "https://wetten.overheid.nl/BWBR0044448"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 13 november 2020 (kenmerk 3076157/20/DP&O), houdende instelling van een tijdelijk programmadirectoraat-generaal Samenleving en COVID-19 (‘Instellingsbesluit DGSC-19’) en tevens houdende wijziging van het Organisatiebesluit Ministerie van Justitie en Veiligheid, het Mandaatbesluit Ministerie van Justitie en Veiligheid en het Mandaatbesluit hoofden cluster Ministerie van Justitie en Veiligheid
-
-Gelet op het Instellingsbesluit Ministeriële Commissie COVID-19 van 3 juni 2020, alsmede gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst;](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3)
-
-Besluit:
 
 #### Artikel I
 
@@ -78,10 +52,18 @@ Het programmadirectoraat-generaal Samenleving en COVID-19 voert de taken uit in 
 
 #### Artikel II
 
+*Wijzigt het Organisatiebesluit Ministerie van Justitie en Veiligheid.*
+
 #### Artikel III
+
+*Wijzigt het Mandaatbesluit Ministerie van Justitie en Veiligheid.*
 
 #### Artikel IV
 
+*Wijzigt het Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid.*
+
 #### Artikel V
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+- 1. Dit besluit wordt aangehaald als: Instellingsbesluit programmadirectoraat-generaal Samenleving en COVID-19.
+
+- 2. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2020.

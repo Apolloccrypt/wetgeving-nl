@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing voorlichting opsporing en vervolging"
 identifier: "BWBR0044027"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2020-09-01"
-last_updated: "2020-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044027"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15613273"
-version_id: "26991282"
-internal_id: "C38196741"
-label_id: "15554054"
-dtd_version: "2.0"
-original_entry_into_force: "2020-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044027/2020-09-01/0"
-intitule_bron: "Stcrt.2020-44879"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-08-31"
-intitule_in_force: "2020-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-44879"
-original_published_date: "2020-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-44879"
-entry_into_force_date: "2020-09-01"
-jci_1_3: "jci1.3:c:BWBR0044027&z=2020-09-01&g=2020-09-01"
-jci_1_0: "1.0:c:BWBR0044027&g=2020-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-09-01"
+publicatiedatum: 2020-09-01
+laatste_update: 2020-09-01
+status: geldig
+toestand: 2020-09-01
+bron: "https://wetten.overheid.nl/BWBR0044027"
+opgehaald: 2026-08-30
 ---
+
 # Aanwijzing voorlichting opsporing en vervolging
 
 ### Samenvatting
@@ -46,7 +27,7 @@ Voorlichting moet worden onderscheiden van opsporingsberichtgeving. Wanneer in e
 
 ### 1.2. Grondslag
 
-De maatschappelijke verplichting tot voorlichting vloeit voort uit de artikelen 6 (openbaarheid van de rechtspleging) en 10 (vrijheid van meningsuiting) van het Europees Verdrag voor de Rechten van de Mens (EVRM) en [artikel 8 (informatieverstrekking uit eigen beweging) van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8). Het Europees Hof voor de Rechten van de Mens (EHRM) kent aan openbaarheid van informatie over de strafrechtspleging groot maatschappelijk gewicht toe. Zonder die openbaarheid is geen goed publiek debat over de strafrechtspleging mogelijk, terwijl het publiek debat noodzakelijk is voor het goed functioneren van de strafrechtspleging en een kernwaarde voor het in stand houden van een democratische samenleving. Dit publiek belang volgt ook uit de jurisprudentie van het EHRM, waarin het verstrekken van informatie over de strafrechtspleging, in het bijzonder met betrekking tot individuele strafzaken, in toenemende mate als een zelfstandig belang wordt gezien.4Zie al EHRM 26 april 1979, ECLI:NL:XX:1979:AC6568 (Sunday Times/Verenigd Koninkrijk).
+De maatschappelijke verplichting tot voorlichting vloeit voort uit de artikelen 6 (openbaarheid van de rechtspleging) en 10 (vrijheid van meningsuiting) van het Europees Verdrag voor de Rechten van de Mens (EVRM) en [artikel 8 (informatieverstrekking uit eigen beweging) van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8). Het Europees Hof voor de Rechten van de Mens (EHRM) kent aan openbaarheid van informatie over de strafrechtspleging groot maatschappelijk gewicht toe. Zonder die openbaarheid is geen goed publiek debat over de strafrechtspleging mogelijk, terwijl het publiek debat noodzakelijk is voor het goed functioneren van de strafrechtspleging en een kernwaarde voor het in stand houden van een democratische samenleving. Dit publiek belang volgt ook uit de jurisprudentie van het EHRM, waarin het verstrekken van informatie over de strafrechtspleging, in het bijzonder met betrekking tot individuele strafzaken, in toenemende mate als een zelfstandig belang wordt gezien.4Zie al EHRM 26 april 1979, ECLI:NL:XX:1979:AC6568 (Sunday Times/Verenigd Koninkrijk).
 
 Gelet op de algemene bepalingen van de [artikelen 141](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) en [148 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=148) vindt voorlichting over strafrechtspleging in beginsel plaats onder (eind)verantwoordelijkheid van de (hoofd)officier van justitie.
 
@@ -57,6 +38,26 @@ Het OM is eindverantwoordelijk voor voorlichting door de opsporingsinstanties in
 Wanneer in communicatie over de strafrechtspleging tot een persoon herleidbare gegevens worden gebruikt, maakt publicatie daarvan inbreuk op de persoonlijke levenssfeer van die persoon (artikel 8 EVRM, [artikel 10 Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=10)). Een dergelijke inbreuk is ten behoeve van de openbaarheid over de strafrechtspleging toegestaan onder de voorwaarde dat daaraan een zorgvuldige belangenafweging is voorafgegaan. De vereisten van proportionaliteit, subsidiariteit en doelmatigheid zijn hierbij leidend.
 
 Bij de belangenafweging spelen – onder meer – de volgende factoren een rol:
+
+- – de aard en ernst van de strafbare feiten;
+
+- – de persoon van de verdachte;
+
+- – het respecteren van de onschuldpresumptie;
+
+- – de betrokkenheid van slachtoffers en/of nabestaanden;
+
+- – de maatschappelijke impact van de zaak;
+
+- – het doel van de voorlichting;
+
+- – het stadium waarin de zaak zich bevindt;
+
+- – de media-aandacht voor dan wel publiek debat over of naar aanleiding van de zaak;
+
+- – de mate van herleidbaarheid;
+
+- – het verloop van het onderzoek.
 
 Het belang van voorlichting is groter naarmate de informatie relevanter is voor het publieke debat. Uitgangspunt blijft dat niet meer informatie wordt verstrekt dan noodzakelijk is voor het verwezenlijken van het belang dat is gediend met openbaarmaking. Dit vergt dus altijd een belangenafweging op maat. De begrenzing van (de invulling van) voorlichting over strafzaken ligt in het waarborgen van het recht op een eerlijk proces (fair-trial beginsel) en de bescherming van de persoonlijke levenssfeer van de betrokkenen (verdachten, getuigen, slachtoffers en nabestaanden).
 
@@ -70,11 +71,17 @@ Het beoordelingskader is van toepassing ongeacht of wordt geseponeerd, getransig
 
 Tot aan de voorgeleiding van een verdachte aan de rechter-commissaris ligt de woordvoering in beginsel bij de opsporingsinstantie. Vanaf de voorgeleiding vindt de woordvoering plaats door het OM. Met betrekking tot operationele informatie kan het OM de woordvoering ook na de voorgeleiding overdragen aan de opsporingsinstantie.
 
+Gevoelige zaken
+
 In gevoelige zaken kan het OM besluiten dat ook voorafgaand aan de voorgeleiding de woordvoering bij het OM ligt.
 
 ### 2.2. Communicatiemomenten
 
+Berichtgeving over incidenten en aanhoudingen
+
 In vrijwel alle gevallen wordt de eerste woordvoering gedaan door de opsporingsinstantie. Die woordvoering wordt in gevoelige zaken (zoals zedenzaken en zaken waarover maatschappelijke onrust is ontstaan) altijd eerst afgestemd met het OM. Als een zaak gevoelig is, kan ervoor worden gekozen de woordvoering vanaf het allereerste moment door het OM te laten doen.
+
+Berichtgeving na voorgeleiding rechter-commissaris
 
 Vanaf het moment dat een verdachte wordt voorgeleid aan de rechter-commissaris, doet het OM de woordvoering over de zaak.
 
@@ -84,15 +91,25 @@ De beslissing van de rechter-commissaris om een verdachte al dan niet in bewarin
 
 Het OM neemt vanuit zijn eigen verantwoordelijkheid de ruimte om in de media te reageren op beslissingen van de Rechtspraak.
 
+Berichtgeving na vervolgingsbeslissing
+
 Het OM kan een genomen vervolgingsbeslissing aan de media melden nadat de verdachte is geïnformeerd. Het OM kan daarbij een toelichting op de vervolgingsbeslissing geven.
+
+Berichtgeving na afdoeningsbeslissing
 
 Zaken die grote maatschappelijke en/of politieke belangstelling ondervinden en die door het OM worden afgedaan, worden actief gemeld, bijvoorbeeld door middel van een persbericht en feitenrelaas. Dat geldt ook voor schikkingen met (rechts)personen. Bij hoge of bijzondere transacties wordt conform de [Aanwijzing hoge transacties en bijzondere transacties](https://wetten.overheid.nl/jci1.3:c:BWBR0024648) een persbericht uitgebracht.
 
+Berichtgeving na dagvaarding
+
 Nadat de dagvaarding is uitgebracht kan het OM de dagvaarding toelichten en toelichten waarom tot dagvaarden is overgegaan. Indien voorafgaand aan de zitting in de publieke opinie een beeld over een zaak is ontstaan dat niet strookt met de feiten uit het onderzoek, kan het OM in de media reageren. Uitgangspunt is dat een rechtszaak niet in de media wordt gevoerd. Tevens is uitgangspunt dat vanaf het moment dat de dagvaarding is uitgebracht er een grotere terughoudendheid wordt betracht met betrekking tot inhoudelijke voorlichting over een zaak.
+
+Berichtgeving tijdens de zitting
 
 Naar aanleiding van het optreden ter zitting kan het OM een toelichting geven op het eigen handelen en het handelen van functionarissen en instanties die onder het gezag van het OM vallen. Slachtoffers en nabestaanden worden zoveel mogelijk afgeschermd.
 
 De rechter of de voorzitter van de rechtbank of het hof heeft de bevoegdheid toestemming te verlenen aan vertegenwoordigers van de audiovisuele media voor het filmen van de opkomst van de rechtbank of het hof. Als die toestemming is gegeven, mag ook (gelet op de publieke functie van een officier van justitie) de voordracht van de zaak én het uitspreken van het requisitoir worden gefilmd. De (hoofd)officier van justitie kan daarover in overleg treden met de president van de rechtbank en verzoeken om geen beeld- en geluidsopnamen toe te staan van de officier van justitie op zitting.
+
+Berichtgeving na de zitting
 
 Na de openbare zitting kan het requisitoir door het OM worden toegelicht.
 
@@ -120,7 +137,7 @@ Internationale kaders, zoals het door Nederland geratificeerde Kinderrechtenverd
 
 De terechtzitting van jeugdigen vindt in beginsel achter gesloten deuren plaats. Dit betekent dat de pers geen toegang heeft tot de zittingszaal, tenzij de rechtbank of het hof anders beslist.
 
-Het OM kan direct na afloop van de besloten zitting wel de eis tegen de minderjarige verdachte melden en een toelichting daarop geven. In bijzondere gevallen kan, bijvoorbeeld om geruchten tegen te gaan, ter rectificatie of om onjuiste informatie uit de media te houden, extra informatie over het delict of de verdachte worden gegeven. Daarbij wordt wel zoveel mogelijk rekening gehouden met de privacy van de verdachte en het slachtoffer. Dit geldt in versterkte mate voor minderjarige slachtoffers en/of slachtoffers met een grotere kwetsbaarheid.5Zie ook de EU-richtlijn slachtofferrechten, [richtlijn 2012/29](32012L0029)/EU.
+Het OM kan direct na afloop van de besloten zitting wel de eis tegen de minderjarige verdachte melden en een toelichting daarop geven. In bijzondere gevallen kan, bijvoorbeeld om geruchten tegen te gaan, ter rectificatie of om onjuiste informatie uit de media te houden, extra informatie over het delict of de verdachte worden gegeven. Daarbij wordt wel zoveel mogelijk rekening gehouden met de privacy van de verdachte en het slachtoffer. Dit geldt in versterkte mate voor minderjarige slachtoffers en/of slachtoffers met een grotere kwetsbaarheid.5Zie ook de EU-richtlijn slachtofferrechten, richtlijn 2012/29/EU.
 
 ### 2.4.2. TBS
 
@@ -143,6 +160,18 @@ De woordvoering over onderzoeken door de Rijksrecherche ligt bij dat OM-onderdee
 Het OM en de opsporingsinstanties kunnen gezamenlijk of afzonderlijk meewerken aan mediaproducties. Een mediaproductie kenmerkt zich door het lang(er)durend(e) karakter. Soms gaat het om overkoepelende thema’s of opsporing en vervolging in het algemeen, soms om een specifieke zaak. Het OM en de opsporingsinstanties kunnen meewerken aan mediaproducties om hun werk onder de aandacht te brengen, omdat het geven van inzicht in het werk dat zij doen een zwaarwegend maatschappelijk belang dient. Het kan bijvoorbeeld gaan om een tv-serie over een bepaald onderdeel van het werk, of over een thema, of een documentaire waarin een reconstructie van een zaak centraal staat. Voor dit soort programma’s wordt met de maker, een mediaovereenkomst afgesloten. Afhankelijk van het programma wordt dat ondertekend door de maker en OM en de opsporingsinstanties. In zo’n overeenkomst staan de afspraken waar met name de programmamaker zich aan dient te houden bij het maken van het programma. Daarbij houden het OM en de opsporingsinstanties rekening met de belangen van nabestaanden, slachtoffers en verdachten.
 
 Voor de medewerking aan mediaproducties gelden de volgende uitgangspunten:
+
+- 1) Wanneer het voornemen bestaat om mee te werken aan een mediaproductie (dit kan zijn een audiovisuele publicatie, schriftelijke publicatie of enig andere vorm) worden de slachtoffers, nabestaanden alsmede de verdachte geïnformeerd over de doelstelling van de productie en de medewerking die het OM en de opsporingsinstanties daaraan willen verlenen. In afspraken over medewerking aan een mediaproductie wordt gewaarborgd dat er voldoende gelegenheid voor de betrokkenen bestaat om eventuele bezwaren te uiten. Met deze bezwaren houden het OM en de opsporingsinstanties zoveel mogelijk rekening. Als de verwachting bestaat dat (een onderdeel van) een mediaproductie een vergaande inbreuk maakt op de persoonlijke levenssfeer van slachtoffers of nabestaanden wordt vooraf toestemming gevraagd aan de betrokkenen, tenzij zwaarder wegende belangen van opsporing of vervolging zich daartegen verzetten.
+
+- 2) Het verlenen van inzage aan een journalist in informatie die valt onder de geheimhoudingsplicht van het OM en/of opsporingsinstanties vindt in beginsel niet plaats. Voor inzage kan een rechtvaardigingsgrond bestaan indien daardoor gewichtiger belangen worden gediend dan door de geheimhouding worden beschermd. Voorafgaand aan inzage of verstrekking van die informatie dient in ieder geval een persoonlijke geheimhoudingsverklaring te zijn ondertekend.
+
+   - – Publicatie van verkregen informatie kan alleen worden toegestaan na uitdrukkelijke toestemming van het OM. Er vindt altijd een beoordeling voorafgaand aan publicatie plaats. Bij deze beoordeling wordt het doel dat met de publicatie van de specifieke informatie is gediend afgewogen tegen de inbreuk die daardoor wordt gemaakt op de persoonlijke levenssfeer van betrokkenen (slachtoffers, nabestaanden, verdachten maar mogelijk ook getuigen en anderen). Voor deze afweging geldt het volgende in het bijzonder.
+
+   - – Met betrekking tot de belangen van slachtoffers en nabestaanden wordt nadrukkelijk ook het belang van voorkoming van extra leed meegewogen. Sommige details kunnen voor slachtoffers en nabestaanden extra pijnlijk zijn als ze in de publiciteit komen en hebben een grote impact op de persoonlijke levenssfeer van slachtoffers en nabestaanden. Hier betracht het OM grote terughoudendheid. Met betrekking tot de belangen van verdachten dient rekening te worden gehouden met de onschuldpresumptie en wordt het recht op een eerlijk proces gewaarborgd (geen *trial by media*).
+
+- 3) Uitgangspunt is (waar mogelijk) dat de vrijgegeven informatie niet herleidbaar is tot natuurlijke personen of rechtspersonen. Herleidbaar is in dit kader een breder begrip dan uitsluitend fysieke herkenbaarheid. Waar herleidbaarheid niet kan worden voorkomen, wordt afgewogen of openbaarmaking zwaarder moet wegen dan het belang van bescherming van de privacy van betrokkenen. De inbreuk op de privacy wordt daarbij zo beperkt mogelijk gehouden. De beginselen van proportionaliteit en subsidiariteit spelen hierbij een belangrijke rol.
+
+- 4) Wanneer het OM en de opsporingsinstanties afspraken met mediapartners/journalisten maken, leggen zij deze schriftelijk vast.
 
 ### Overgangsrecht
 

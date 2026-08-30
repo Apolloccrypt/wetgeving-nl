@@ -1,76 +1,51 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17898051, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs (Regeling voorzieningenplanning po 2021)"
+citeertitel: "Regeling voorzieningenplanning po 2021"
 identifier: "BWBR0044044"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-08-01"
-last_updated: "2024-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044044"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15617073"
-version_id: "28867392"
-internal_id: "C40871101"
-label_id: "15557454"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044044/2024-08-01/0"
-intitule_bron: "Stcrt.2020-46176"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-28"
-intitule_published: "2020-09-02"
-intitule_in_force: "2020-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23306"
-original_signed_date: "2022-08-25"
-original_published_date: "2022-09-08"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-23306"
-entry_into_force_date: "2022-08-25"
-jci_1_3: "jci1.3:c:BWBR0044044&z=2024-08-01&g=2024-08-01"
-jci_1_0: "1.0:c:BWBR0044044&g=2024-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling voorzieningenplanning po 2021"
-signed_date: "2022-08-25"
-entry_into_force: "2022-08-25"
+publicatiedatum: 2022-08-25
+laatste_update: 2024-08-01
+status: geldig
+toestand: 2024-08-01
+bron: "https://wetten.overheid.nl/BWBR0044044"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 28 augustus 2020, nr. PO/17898051, houdende regels voor de voorzieningenplanning bij scholen in het primair onderwijs (Regeling voorzieningenplanning po 2021)
-
-Gelet op de [artikelen 74, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), [74a, eerste, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), [75, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), [84a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), [170, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=170) en [194e, vijfde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194e);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** bevoegd gezag dat bij de minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school;
+- *aanvrager:* bevoegd gezag dat bij de minister een aanvraag indient voor bekostiging van een openbare of een bijzondere school;
 
-- **basisgeneratie:** het totaal aantal kinderen in de leeftijd van 4 tot en met 11 jaar, vermeerderd met 30 procent van het aantal kinderen in de leeftijd van 12, gebaseerd op gegevens onder meer verstrekt door het Centraal Bureau voor de Statistiek;
+- *basisgeneratie:* het totaal aantal kinderen in de leeftijd van 4 tot en met 11 jaar, vermeerderd met 30 procent van het aantal kinderen in de leeftijd van 12, gebaseerd op gegevens onder meer verstrekt door het Centraal Bureau voor de Statistiek;
 
-- **belangstellingsmeting:** belangstellingsmeting als bedoeld in [artikel 74a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a);
+- *belangstellingsmeting:* belangstellingsmeting als bedoeld in [artikel 74a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **instellingscode:** door de minister gehanteerd nummer van de school in de Basisregistratie Instellingen van DUO;
+- *instellingscode:* door de minister gehanteerd nummer van de school in de Basisregistratie Instellingen van DUO;
 
-- **DUO:** Dienst Uitvoering Onderwijs;
+- *DUO:* Dienst Uitvoering Onderwijs;
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **nevenvestiging:** nevenvestiging als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *nevenvestiging:* nevenvestiging als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **ouder:** ouder als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *ouder:* ouder als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **school:** basisschool als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *school:* basisschool als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **stichtingsnorm:** stichtingsnorm als bedoeld in [artikel 76 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=76);
+- *stichtingsnorm:* stichtingsnorm als bedoeld in [artikel 76 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=76);
 
-- **voedingsgebied:** voedingsgebied als bedoeld in [artikel 74a, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a);
+- *voedingsgebied:* voedingsgebied als bedoeld in [artikel 74a, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a);
 
-- **wet:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
+- *wet:*
+ [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
 ##### Artikel 2. Beschikbaar stellen gegevens over voedingsgebied nieuwe school
 
@@ -78,7 +53,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 ##### Artikel 3. Melding voorgenomen aanvraag tot bekostiging
 
-1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 75, eerste lid, van de wet.
+1. Het bevoegd gezag maakt melding van een voorgenomen aanvraag als bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), tussen 1 juni tot en met 30 juni in het kalenderjaar van de aanvraag, bedoeld in artikel 75, eerste lid, van de wet.
 
 2. De melding bevat de volgende gegevens:
 
@@ -104,7 +79,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 3. De gegevens in het tweede lid, onderdeel d en de onderdelen f tot en met j, worden openbaar gemaakt op de website www.duo.nl.
 
-4. Publicatie op de website www.duo.nl geschiedt slechts indien de gegevens voor 1 juli volledig zijn aangeleverd.
+4. Publicatie op de website www.duo.nl geschiedt slechts indien de gegevens voor 1 juli volledig zijn aangeleverd.
 
 5. De melding van de voorgenomen aanvraag tot bekostiging wordt gedaan in het digitale portaal via de website www.duo.nl.
 
@@ -136,9 +111,13 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - l. beschrijving van het onderwijskundig concept in ten hoogste 3000 tekens.
 
-2. Uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
+2. Uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), blijkt dat de in dat lid bedoelde partijen zijn gevraagd om te overleggen over de aanvraag, waarbij de voorgestelde datum van het overleg dient te liggen in de periode van 15 september in het kalenderjaar voorafgaand aan de aanvraag en 14 september van het kalenderjaar van de aanvraag.
 
 3. De aanvraag tot bekostiging wordt ingediend in het digitale portaal via de website www.duo.nl.
+
+##### Artikel 4a. Aanvragen tot bekostiging 2022
+
+In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2024-08-01&g=2024-08-01), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.
 
 ##### Artikel 5. Verklaring omtrent het gedrag
 
@@ -150,17 +129,17 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 1. De correctiefactor, bedoeld in [artikel 74a, derde lid, onderdeel a, letter z en onderdeel b, letter z, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), is 0,7.
 
-2. Indien sprake is van een overlappend voedingsgebied als bedoeld in [artikel 74a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75).
+2. Indien sprake is van een overlappend voedingsgebied als bedoeld in [artikel 74a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), voert de minister de vermindering na 1 november van het kalenderjaar van de aanvraag uit en wordt dit opgenomen in het besluit, bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75).
 
-3. De aantallen, bedoeld in [artikel 74a, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
+3. De aantallen, bedoeld in [artikel 74a, derde lid, onderdeel a, letters x en w, en onderdeel b, letter w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), stelt DUO vanaf 1 juli in het jaar van aanvraag beschikbaar aan de aanvrager.
 
 ##### Artikel 7. Geldigheid ouderverklaringen
 
-1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
+1. De ouderverklaring, bedoeld in [artikel 74a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74a), wordt door de ouder ingediend via de website www.duo.nl in de periode van 1 juli tot en met 29 oktober in het kalenderjaar van de aanvraag.
 
 2. Na indiening van de aanvraag kan daarvoor geen ouderverklaring meer worden ingediend.
 
-3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
+3. De ouder kan de ouderverklaring uiterlijk op 29 oktober, bedoeld in het eerste lid, intrekken. Deze maakt dan geen onderdeel meer uit van de belangstellingsmeting.
 
 4. Na indiening van de aanvraag kan de ouderverklaring niet meer worden ingetrokken.
 
@@ -172,7 +151,7 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - b. is afgewezen.
 
-7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
+7. Vanaf 30 oktober in het jaar van de aanvraag stelt DUO aan de aanvrager het aantal geldige ouderverklaringen beschikbaar.
 
 8. Degene die een ouderverklaring indient ontvangt daarvoor geen beloning in enige vorm.
 
@@ -230,29 +209,29 @@ DUO stelt een overzicht van de viercijferige postcodegebieden die behoren tot he
 
 - d. zijn de melding en de aanvraag voorzien van de instellingscode van de te verzelfstandigen vestiging.
 
-2. Het aantal leerlingen op 1 oktober in het jaar voorafgaand aan de aanvraag, bedoeld in [artikel 84a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), is van het overblijvende deel van de school minimaal de opheffingsnorm en van de te verzelfstandigen vestiging minimaal de stichtingsnorm.
+2. Het aantal leerlingen op 1 oktober in het jaar voorafgaand aan de aanvraag, bedoeld in [artikel 84a, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), is van het overblijvende deel van de school minimaal de opheffingsnorm en van de te verzelfstandigen vestiging minimaal de stichtingsnorm.
 
-3. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van het overblijvende deel van de school wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied, waaruit het overblijvende deel van de school op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen per viercijferig postcodegebied wordt berekend overeenkomstig de formule e = (f / g) * h, waarbij:
+3. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van het overblijvende deel van de school wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied, waaruit het overblijvende deel van de school op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen per viercijferig postcodegebied wordt berekend overeenkomstig de formule e = (f / g) * h, waarbij:
 
-- e. = het verwachte aantal leerlingen van het overblijvende deel van de school per betreffende viercijferig postcodegebied;
+- e = het verwachte aantal leerlingen van het overblijvende deel van de school per betreffende viercijferig postcodegebied;
 
-- f. = het aantal leerlingen van het overblijvende deel van de school op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferig postcodegebied;
+- f = het aantal leerlingen van het overblijvende deel van de school op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferig postcodegebied;
 
-- g. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
+- g = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
 
-- h. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari in elk van de 10 jaren na het moment van de verzelfstandiging.
+- h = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari in elk van de 10 jaren na het moment van de verzelfstandiging.
 
-4. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van de school die na verzelfstandiging ontstaat, wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied waaruit de te verzelfstandigen vestiging op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen wordt per viercijferig postcodegebied wordt berekend overeenkomstig de formule i = (j / k) * l, waarbij:
+4. Het verwachte aantal leerlingen, bedoeld in [artikel 84a, tweede lid, onderdeel b en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), van de school die na verzelfstandiging ontstaat, wordt berekend door het optellen van het verwachte aantal leerlingen per viercijferig postcodegebied waaruit de te verzelfstandigen vestiging op 1 oktober in het jaar voorafgaand aan de aanvraag zijn leerlingen betrekt. Het verwachte aantal leerlingen wordt per viercijferig postcodegebied wordt berekend overeenkomstig de formule i = (j / k) * l, waarbij:
 
-- i. = het verwachte aantal leerlingen van de te verzelfstandigen vestiging per betreffende viercijferig postcodegebied;
+- i = het verwachte aantal leerlingen van de te verzelfstandigen vestiging per betreffende viercijferig postcodegebied;
 
-- j. = het aantal leerlingen van de te verzelfstandigen vestiging op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferige postcodegebied;
+- j = het aantal leerlingen van de te verzelfstandigen vestiging op 1 oktober voorafgaande aan het jaar van de aanvraag woonachtig in het betreffende viercijferige postcodegebied;
 
-- k. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
+- k = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari van het jaar van aanvraag;
 
-- l. = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari in het elfde jaar na de aanvraag.
+- l = het totaal aantal leerlingen van de basisgeneratie in het betreffende viercijferige postcodegebied op 1 januari in het elfde jaar na de aanvraag.
 
-5. De aantallen in het derde lid, letters g en h en het vierde lid, letters k en l stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
+5. De aantallen in het derde lid, letters g en h en het vierde lid, letters k en l stelt DUO vanaf 1 juli in het jaar van de aanvraag beschikbaar aan de aanvrager.
 
 ##### Artikel 11. Melding grondslag school
 
@@ -260,36 +239,32 @@ Het bevoegd gezag dient een melding van een grondslag of een wijziging van een g
 
 ##### Artikel 12. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2022–2025
 
-1. Op het plan van scholen 2022–2025, bedoeld in [artikel 211, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2021 en uiterlijk op 31 december 2021 is goedgekeurd door de minister, is dit artikel van toepassing.
+1. Op het plan van scholen 2022–2025, bedoeld in [artikel 211, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2021 en uiterlijk op 31 december 2021 is goedgekeurd door de minister, is dit artikel van toepassing.
 
-2. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2022 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2021.
+2. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2022 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2021.
 
-3. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2023 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2022.
+3. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2023 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2022.
 
-4. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2024 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2023.
+4. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2024 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2023.
 
 5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
 ##### Artikel 13. Uitvoeringsvoorschriften overgangsrecht plan van scholen 2021–2024
 
-1. Op het plan van scholen 2021–2024, bedoeld in [artikel 211, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2020 en uiterlijk op 31 december 2020 is goedgekeurd door de minister, is dit artikel van toepassing.
+1. Op het plan van scholen 2021–2024, bedoeld in [artikel 211, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211), dat is vastgesteld door de gemeenteraad voor 1 augustus 2020 en uiterlijk op 31 december 2020 is goedgekeurd door de minister, is dit artikel van toepassing.
 
-2. Van een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2021 vangt de bekostiging aan op 1 augustus 2021, indien de minister voor 1 augustus 2021 heeft besloten dat de bekostiging een aanvang kan nemen.
+2. Van een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2021 vangt de bekostiging aan op 1 augustus 2021, indien de minister voor 1 augustus 2021 heeft besloten dat de bekostiging een aanvang kan nemen.
 
-3. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2022 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2021.
+3. Voor een school die op het plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2022 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2021.
 
-4. Voor een school die op het in het eerste lid bedoelde plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2023 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2022.
+4. Voor een school die op het in het eerste lid bedoelde plan van scholen is opgenomen met als aanvangsdatum 1 augustus 2023 wordt als datum van het besluit als bedoeld in [artikel 75, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), zoals luidend op 1 februari 2021, aangemerkt 31 mei 2022.
 
 5. Dit artikel is van overeenkomstige toepassing op besluiten genomen op grond van [artikel 211, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=211).
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 februari 2021.
+Deze regeling treedt in werking met ingang van 1 februari 2021.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningenplanning po 2021. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a. Aanvragen tot bekostiging 2022
-
-In afwijking van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044044&artikel=4&z=2024-08-01&g=2024-08-01), blijkt voor aanvragen die worden ingediend in 2022 uit het document, bedoeld in [artikel 74, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=74), dat in de periode van 15 september 2021 en 15 september 2022 de in dat artikel bedoelde partijen zijn uitgenodigd om te overleggen.

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunstenaar Basis"
 identifier: "BWBR0044554"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044554"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15771923"
-version_id: "27333582"
-internal_id: "C38603931"
-label_id: "15710034"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044554/2021-01-01/0"
-intitule_bron: "Stcrt.2020-62369"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62369"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62369"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044554&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044554&g=2021-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044554"
+opgehaald: 2026-08-30
 ---
+
 # Deelregeling Kunstenaar Basis
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -52,7 +29,7 @@ Het stimuleren van de ontwikkeling van het oeuvre, het cultureel ondernemerschap
 
 5. Indien het inkomen in de twee voorafgaande kalenderjaren hoger is dan het in het derde lid bedoelde bedrag, zal de aanvraag niet in behandeling worden genomen tenzij sprake is van tevoren voorziene tijdelijke omstandigheden.
 
-6. Indien het inkomen van de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag door van tevoren voorziene omstandigheden hoger is dan het in het derde lid van dit artikel bepaalde, of indien de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag geen aangifte inkomstenbelasting in Nederland heeft gedaan, dient het inkomen van de aanvrager in het jaar van verlening en in het daaropvolgende jaar gelijk of lager te zijn dan het krachtens het derde lid van dit artikel door het bestuur vastgestelde bedrag. Dit zal getoetst worden aan de hand van de definitieve aanslagen inkomstenbelasting over het jaar van verlening en het daaropvolgende jaar. Deze opgaaf dient zo spoedig mogelijk na afloop van dat jaar doch uiterlijk vóór 15 juli van het jaar na het jaar waarop de aanslag betrekking heeft, te geschieden.
+6. Indien het inkomen van de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag door van tevoren voorziene omstandigheden hoger is dan het in het derde lid van dit artikel bepaalde, of indien de aanvrager in de twee kalenderjaren voorafgaand aan zijn aanvraag geen aangifte inkomstenbelasting in Nederland heeft gedaan, dient het inkomen van de aanvrager in het jaar van verlening en in het daaropvolgende jaar gelijk of lager te zijn dan het krachtens het derde lid van dit artikel door het bestuur vastgestelde bedrag. Dit zal getoetst worden aan de hand van de definitieve aanslagen inkomstenbelasting over het jaar van verlening en het daaropvolgende jaar. Deze opgaaf dient zo spoedig mogelijk na afloop van dat jaar doch uiterlijk vóór 15 juli van het jaar na het jaar waarop de aanslag betrekking heeft, te geschieden.
 
 7. Een Basisbeurs kan niet worden verstrekt gedurende de looptijd van een andere financiële bijdrage van het fonds die naar het oordeel van het bestuur in dekking van dezelfde kosten voorziet als de Basisbeurs.
 
@@ -60,15 +37,15 @@ Het stimuleren van de ontwikkeling van het oeuvre, het cultureel ondernemerschap
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- •. visueel documentatiemateriaal,
+- • visueel documentatiemateriaal,
 
-- •. een inhoudelijke toelichting op het werk,
+- • een inhoudelijke toelichting op het werk,
 
-- •. een curriculum vitae,
+- • een curriculum vitae,
 
-- •. een presentatieplan waarin wordt toegelicht hoe een passend publiek wordt betrokken,
+- • een presentatieplan waarin wordt toegelicht hoe een passend publiek wordt betrokken,
 
-- •. een werkplan.
+- • een werkplan.
 
 ##### Artikel 4. Beoordeling
 
@@ -98,14 +75,12 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 ##### Artikel 6. Overgangsbepaling
 
-De [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de Deelregeling Werkbijdrage Bewezen Talent 2017 voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
+De [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de Deelregeling Werkbijdrage Bewezen Talent 2017 voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstenaar Basis.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

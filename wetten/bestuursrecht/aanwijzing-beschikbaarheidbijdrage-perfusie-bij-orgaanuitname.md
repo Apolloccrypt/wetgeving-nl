@@ -1,72 +1,43 @@
 ---
 title: "Aanwijzing van de Minister voor Medische Zorg van 25 juni 2020, kenmerk 1662538-203164-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake aanvulling beschikbaarheidbijdrage in verband met perfusie bij orgaanuitname"
+citeertitel: "Aanwijzing beschikbaarheidbijdrage perfusie bij orgaanuitname"
 identifier: "BWBR0043774"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2020-09-01"
-last_updated: "2020-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043774"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15537383"
-version_id: "26841412"
-internal_id: "C38025701"
-label_id: "15479344"
-dtd_version: "2.0"
-original_entry_into_force: "2020-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043774/2020-09-01/0"
-intitule_bron: "Stcrt.2020-35137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-25"
-intitule_published: "2020-07-03"
-intitule_in_force: "2020-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-35137"
-original_signed_date: "2020-06-25"
-original_published_date: "2020-07-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-35137"
-entry_into_force_date: "2020-09-01"
-jci_1_3: "jci1.3:c:BWBR0043774&z=2020-09-01&g=2020-09-01"
-jci_1_0: "1.0:c:BWBR0043774&g=2020-09-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing beschikbaarheidbijdrage perfusie bij orgaanuitname"
-signed_date: "2020-06-25"
-entry_into_force: "2020-09-01"
+publicatiedatum: 2020-09-01
+laatste_update: 2020-09-01
+status: geldig
+toestand: 2020-09-01
+bron: "https://wetten.overheid.nl/BWBR0043774"
+opgehaald: 2026-08-30
 ---
+
 # Aanwijzing van de Minister voor Medische Zorg van 25 juni 2020, kenmerk 1662538-203164-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake aanvulling beschikbaarheidbijdrage in verband met perfusie bij orgaanuitname
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Gelet op de [Aanwijzing post mortem orgaanuitname bij donoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040059);
-
-Na op 11 mei 2020 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (Kamerstukken II 2019/20, 28 140, nr. 11) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Gezien de antwoorden van 9 juni 2020 op de vragen van het Kamerlid Dijkstra (D66) over de voorgenomen aanwijzing omtrent de beschikbaarheidbijdrage voor postmortale orgaanuitname bij donoren (2020Z09653);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- –. **beschikbaar:** tijdig aanwezig zijn op de locatie waar de uitname van organen door het uitnameteam plaats moet vinden zodat de organen na uitname voor transplantatiedoeleinden kunnen worden gebruikt;
+- – *beschikbaar:* tijdig aanwezig zijn op de locatie waar de uitname van organen door het uitnameteam plaats moet vinden zodat de organen na uitname voor transplantatiedoeleinden kunnen worden gebruikt;
 
-- –. **beschikbaarheidbijdrage:** bijdrage als bedoeld in [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a);
+- – *beschikbaarheidbijdrage:* bijdrage als bedoeld in [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a);
 
-- –. **Besluit:** [Besluit beschikbaarheidbijdrage Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
+- – *Besluit:*
+ [Besluit beschikbaarheidbijdrage Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
 
-- –. **Bijlage:** [bijlage behorende bij de artikelen 2 en 4 van het Besluit](onbekend);
+- – *Bijlage:*
+ [bijlage behorende bij de artikelen 2 en 4 van het Besluit](https://wetten.overheid.nl/BWBR0031971);
 
-- –. **minister:** minister voor Medische Zorg;
+- – *minister:* minister voor Medische Zorg;
 
-- –. **verstrekken:** verlenen en vaststellen;
+- – *verstrekken:* verlenen en vaststellen;
 
-- –. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- – *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- –. **zelfstandig uitnameteam:** speciaal team als bedoeld in onder deel B, onder 3, sub a, van de [Bijlage](onbekend);
+- – *zelfstandig uitnameteam:* speciaal team als bedoeld in onder deel B, onder 3, sub a, van de [Bijlage](https://wetten.overheid.nl/BWBR0031971);
 
-- –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
+- – *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
 ##### Artikel 2. opdrachtverlening
 
@@ -74,7 +45,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsrege
 
 ##### Artikel 3. reikwijdte
 
-Deze aanwijzing is van toepassing op het verstrekken van een beschikbaarheidbijdrage voor de inzet van zelfstandig uitnameteams ten behoeve van post mortem orgaanuitname bij donoren als bedoeld in onderdeel B, onder 3, sub a, van de [Bijlage](onbekend).
+Deze aanwijzing is van toepassing op het verstrekken van een beschikbaarheidbijdrage voor de inzet van zelfstandig uitnameteams ten behoeve van post mortem orgaanuitname bij donoren als bedoeld in onderdeel B, onder 3, sub a, van de [Bijlage](https://wetten.overheid.nl/BWBR0031971).
 
 ##### Artikel 4. aanvullingen beschikbaarheidbijdrage
 
@@ -85,5 +56,3 @@ Deze aanwijzing is van toepassing op het verstrekken van een beschikbaarheidbijd
 ##### Artikel 5
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing beschikbaarheidbijdrage perfusie bij orgaanuitname.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

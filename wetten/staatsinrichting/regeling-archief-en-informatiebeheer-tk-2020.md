@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het Presidium van de Tweede Kamer der Staten-Generaal van 23 september 2020 tot vaststelling van regels voor het archief- en informatiebeheer van de Tweede Kamer der Staten-Generaal (Regeling Archief- en Informatiebeheer TK 2020)"
+citeertitel: "Regeling Archief- en Informatiebeheer TK 2020"
 identifier: "BWBR0044276"
-country: "nl"
-rank: "reglement"
-publication_date: "2020-11-03"
-last_updated: "2020-11-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044276"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "15682063"
-version_id: "27170532"
-internal_id: "C38399401"
-label_id: "15621384"
-dtd_version: "2.0"
-original_entry_into_force: "2020-11-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044276/2020-11-03/0"
-intitule_bron: "Stcrt.2020-56381"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-23"
-intitule_published: "2020-11-02"
-intitule_in_force: "2020-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-56381"
-original_signed_date: "2020-09-23"
-original_published_date: "2020-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-56381"
-entry_into_force_date: "2020-11-03"
-jci_1_3: "jci1.3:c:BWBR0044276&z=2020-11-03&g=2020-11-03"
-jci_1_0: "1.0:c:BWBR0044276&g=2020-11-03"
-citeertitel_status: "officieel"
-short_title: "Regeling Archief- en Informatiebeheer TK 2020"
-signed_date: "2020-09-23"
-entry_into_force: "2020-11-03"
+publicatiedatum: 2020-11-03
+laatste_update: 2020-11-03
+status: geldig
+toestand: 2020-11-03
+bron: "https://wetten.overheid.nl/BWBR0044276"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van het Presidium van de Tweede Kamer der Staten-Generaal van 23 september 2020 tot vaststelling van regels voor het archief- en informatiebeheer van de Tweede Kamer der Staten-Generaal (Regeling Archief- en Informatiebeheer TK 2020)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14)
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,51 +20,52 @@ Besluit:
 
 In deze regeling wordt begrepen onder:
 
-- **Afgehandelde informatieobjecten:** informatieobjecten voortkomend uit een afgehandelde taak of afgerond project, die niet meer actueel zijn en in principe onveranderlijk. Deze informatieobjecten worden overgedragen aan de archiefbeheerder en opgeslagen in een archiefsysteem;
+- *Afgehandelde informatieobjecten:* informatieobjecten voortkomend uit een afgehandelde taak of afgerond project, die niet meer actueel zijn en in principe onveranderlijk. Deze informatieobjecten worden overgedragen aan de archiefbeheerder en opgeslagen in een archiefsysteem;
 
-- **Archiefvormende organisatieonderdelen:** een organisatieonderdeel van de Tweede Kamer, namelijk een directie, (staf-)dienst, stafbureau, griffie commissies, tijdelijke commissie, enquêtecommissie, functionaris (Griffier/beveiligingsambtenaar/CISO) en programmaorganisatie;
+- *Archiefvormende organisatieonderdelen:* een organisatieonderdeel van de Tweede Kamer, namelijk een directie, (staf-)dienst, stafbureau, griffie commissies, tijdelijke commissie, enquêtecommissie, functionaris (Griffier/beveiligingsambtenaar/CISO) en programmaorganisatie;
 
-- **Archief- en informatiebeheer:** de inrichting en uitvoer van het opslaan, het bewaren en beheren, het ontsluiten en ter beschikking stellen, en waar nodig, het overbrengen, verplaatsen, verwijderen of vernietigen van informatieobjecten met als doel de vindbaarheid, toegankelijkheid, authenticiteit en betrouwbaarheid van de informatieobjecten te waarborgen zolang als dat conform wet- en regelgeving nodig is;
+- *Archief- en informatiebeheer:* de inrichting en uitvoer van het opslaan, het bewaren en beheren, het ontsluiten en ter beschikking stellen, en waar nodig, het overbrengen, verplaatsen, verwijderen of vernietigen van informatieobjecten met als doel de vindbaarheid, toegankelijkheid, authenticiteit en betrouwbaarheid van de informatieobjecten te waarborgen zolang als dat conform wet- en regelgeving nodig is;
 
-- **Archiefbeheerder:** de Dienst Informatie en Archief, verantwoordelijk voor de inrichting en uitvoering van het archiefbeheer;
+- *Archiefbeheerder:* de Dienst Informatie en Archief, verantwoordelijk voor de inrichting en uitvoering van het archiefbeheer;
 
-- **Deze regeling:** Regeling Archief- en Informatiebeheer Tweede Kamer der Staten-Generaal;
+- *Deze regeling:* Regeling Archief- en Informatiebeheer Tweede Kamer der Staten-Generaal;
 
-- **Digitaal archiefsysteem/ record management applicatie:** een applicatie voor het duurzaam beheren (opslaan, bewaren, toegankelijk houden, vernietigen, overbrengen) van digitale informatieobjecten. Een informatiesysteem kan ook de functionaliteit van een archiefsysteem bevatten;
+- *Digitaal archiefsysteem/ record management applicatie:* een applicatie voor het duurzaam beheren (opslaan, bewaren, toegankelijk houden, vernietigen, overbrengen) van digitale informatieobjecten. Een informatiesysteem kan ook de functionaliteit van een archiefsysteem bevatten;
 
-- **Griffier:** het hoofd van de ambtelijke organisatie van de Tweede Kamer;
+- *Griffier:* het hoofd van de ambtelijke organisatie van de Tweede Kamer;
 
-- **Hotspotlijst:** Een hotspot is een gebeurtenis die leidt tot een opvallende of intensieve interactie tussen overheid en burgers of tussen burgers onderling. In de hotspotlijst is vastgelegd wat de hotspots van de Tweede Kamer zijn en welke te vernietigen informatieobjecten met betrekking tot de hotspot uitgezonderd moeten worden van vernietiging. De hotspotlijst is een aanvulling op de selectielijsten;
+- *Hotspotlijst:* Een hotspot is een gebeurtenis die leidt tot een opvallende of intensieve interactie tussen overheid en burgers of tussen burgers onderling. In de hotspotlijst is vastgelegd wat de hotspots van de Tweede Kamer zijn en welke te vernietigen informatieobjecten met betrekking tot de hotspot uitgezonderd moeten worden van vernietiging. De hotspotlijst is een aanvulling op de selectielijsten;
 
-- **Hoofd van een archiefvormend organisatieonderdeel:** Griffier, directeur, diensthoofd, griffier van een parlementaire onderzoekscommissie of leidinggevende van projectorganisatie;
+- *Hoofd van een archiefvormend organisatieonderdeel:* Griffier, directeur, diensthoofd, griffier van een parlementaire onderzoekscommissie of leidinggevende van projectorganisatie;
 
-- **Informatieobjecten:** alle archiefbescheiden die de Tweede Kamer creëert of ontvangt bij het uitvoeren van haar processen en die naar hun aard bestemd zijn om daaronder te berusten ([artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1));
+- *Informatieobjecten:* alle archiefbescheiden die de Tweede Kamer creëert of ontvangt bij het uitvoeren van haar processen en die naar hun aard bestemd zijn om daaronder te berusten ([artikel 1, onder c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1));
 
-- **Informatiesysteem:** applicatie voor de opslag en verwerking van informatieobjecten, benodigd voor het uitvoeren van processen;
+- *Informatiesysteem:* applicatie voor de opslag en verwerking van informatieobjecten, benodigd voor het uitvoeren van processen;
 
-- **Kwaliteitssysteem:** Kaders voor de inrichting van de informatiehuishouding;
+- *Kwaliteitssysteem:* Kaders voor de inrichting van de informatiehuishouding;
 
-- **Legacysysteem:** informatiesystemen die niet meer in gebruik zijn, maar die nog wel informatieobjecten bevatten of oud(er)e systemen die nog wel gebruikt wordt, maar waarvan de kennis over de werking en de technologie ervan er vaak niet meer of beperkt aanwezig is, waardoor beheer en onderhoud complexer en duurder is.
+- *Legacysysteem:* informatiesystemen die niet meer in gebruik zijn, maar die nog wel informatieobjecten bevatten of oud(er)e systemen die nog wel gebruikt wordt, maar waarvan de kennis over de werking en de technologie ervan er vaak niet meer of beperkt aanwezig is, waardoor beheer en onderhoud complexer en duurder is.
 
-- **Organisatieverandering:** opheffing, splitsing of samenvoeging van archiefvormende organisatieonderdelen of (tijdelijke) overdracht van taken aan een ander (intern of extern) archiefvormend organisatieonderdeel;
+- *Organisatieverandering:* opheffing, splitsing of samenvoeging van archiefvormende organisatieonderdelen of (tijdelijke) overdracht van taken aan een ander (intern of extern) archiefvormend organisatieonderdeel;
 
-- **Overbrenging:** het overdragen van permanent te bewaren informatieobjecten aan het Nationaal Archief;
+- *Overbrenging:* het overdragen van permanent te bewaren informatieobjecten aan het Nationaal Archief;
 
-- **Overdracht:** het overdragen van het beheer van informatieobjecten door archiefvormende organisatieonderdelen aan de archiefbeheerder;
+- *Overdracht:* het overdragen van het beheer van informatieobjecten door archiefvormende organisatieonderdelen aan de archiefbeheerder;
 
-- **Reglement van Orde:** [Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0006023);
+- *Reglement van Orde:*
+ [Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0006023);
 
-- **Selectielijst:** formeel vastgesteld overzicht van de processen van de Tweede Kamer en de informatieobjecten voortkomend uit deze processen, dat dient als wettelijke basis voor de selectie, waardering, vernietiging en overbrenging van informatieobjecten;
+- *Selectielijst:* formeel vastgesteld overzicht van de processen van de Tweede Kamer en de informatieobjecten voortkomend uit deze processen, dat dient als wettelijke basis voor de selectie, waardering, vernietiging en overbrenging van informatieobjecten;
 
-- **Tweede Kamer:** Tweede Kamer der Staten-Generaal;
+- *Tweede Kamer:* Tweede Kamer der Staten-Generaal;
 
-- **Uitplaatsen:** in opdracht van de archiefbeheerder laten opslaan en beheren van informatieobjecten door een externe partij tot uiterlijk het moment van overbrenging;
+- *Uitplaatsen:* in opdracht van de archiefbeheerder laten opslaan en beheren van informatieobjecten door een externe partij tot uiterlijk het moment van overbrenging;
 
-- **Vernietiging:** het zodanig materieel behandelen van de informatiedrager (o.a. papier, geluidsband, film, usb stick), dat de daarop vastgelegde informatie niet meer te reconstrueren is;
+- *Vernietiging:* het zodanig materieel behandelen van de informatiedrager (o.a. papier, geluidsband, film, usb stick), dat de daarop vastgelegde informatie niet meer te reconstrueren is;
 
-- **Vervanging:** de reproductie van informatieobjecten in een andere gedaante of op een andere drager die de plaats innemen van de oorspronkelijke informatieobjecten waarbij de oorspronkelijke informatieobjecten worden vernietigd;
+- *Vervanging:* de reproductie van informatieobjecten in een andere gedaante of op een andere drager die de plaats innemen van de oorspronkelijke informatieobjecten waarbij de oorspronkelijke informatieobjecten worden vernietigd;
 
-- **Zorgdrager:** degene die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor de informatieobjecten.
+- *Zorgdrager:* degene die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) belast is met de zorg voor de informatieobjecten.
 
 ##### Artikel 2. Reikwijdte en positionering
 
@@ -122,13 +97,13 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 1. De archivaris is kaderstellend, toezichthoudend en adviserend over de inrichting en uitvoering van het integrale archiefbeheer van de Tweede Kamer, waaronder het:
 
-- a). formuleren en actualiseren van het integrale archiefbeleid voor de Tweede Kamer;
+- a) formuleren en actualiseren van het integrale archiefbeleid voor de Tweede Kamer;
 
-- b). houden van intern toezicht op het archiefbeheer door middel van een kwaliteitssysteem;
+- b) houden van intern toezicht op het archiefbeheer door middel van een kwaliteitssysteem;
 
-- c). adviseren over het archiefbeleid en de inrichting van het archiefbeheer;
+- c) adviseren over het archiefbeleid en de inrichting van het archiefbeheer;
 
-- d). adviseren over verzoeken tot inzage in archieven en de openbaarheid van over te brengen archieven.
+- d) adviseren over verzoeken tot inzage in archieven en de openbaarheid van over te brengen archieven.
 
 2. De archivaris is verantwoordelijk voor de uitvoering van het fysieke en digitale archiefbeheer conform deze regeling, interne procedures en relevante wet- en regelgeving.
 
@@ -136,13 +111,13 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 1. De archiefbeheerder zorgt voor:
 
-- a). de inrichting en de uitvoering van het archiefbeheer van de Tweede Kamer conform deze regeling, interne procedures en relevante wet- en regelgeving;
+- a) de inrichting en de uitvoering van het archiefbeheer van de Tweede Kamer conform deze regeling, interne procedures en relevante wet- en regelgeving;
 
-- b). het opstellen, onderhouden en implementeren van archiefinstrumenten;
+- b) het opstellen, onderhouden en implementeren van archiefinstrumenten;
 
-- c). het adviseren en ondersteunen van de medewerkers van de Tweede Kamer bij de inrichting, de vorming, het beheer en de digitalisering van archieven;
+- c) het adviseren en ondersteunen van de medewerkers van de Tweede Kamer bij de inrichting, de vorming, het beheer en de digitalisering van archieven;
 
-- d). voldoende en geschikte archiefruimte, een digitaal archiefsysteem en is verantwoordelijk voor deze voorzieningen.
+- d) voldoende en geschikte archiefruimte, een digitaal archiefsysteem en is verantwoordelijk voor deze voorzieningen.
 
 ##### Artikel 8. Archiefvormende organisatieonderdelen
 
@@ -168,15 +143,15 @@ De Tweede Kamer is op grond van [artikel 23, eerste lid, van de Archiefwet](http
 
 De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de informatieobjecten te allen tijde kan worden vastgesteld:
 
-- a). de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan, voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het betreffende proces;
+- a) de inhoud, structuur en verschijningsvorm bij het ontvangen of opmaken ervan, voor zover deze aspecten kenbaar moesten zijn voor de uitvoering van het betreffende proces;
 
-- b). wanneer, door wie en uit hoofde van welke taak of proces het door de Tweede Kamer werd ontvangen of opgemaakt;
+- b) wanneer, door wie en uit hoofde van welke taak of proces het door de Tweede Kamer werd ontvangen of opgemaakt;
 
-- c). de samenhang met andere ontvangen en opgemaakte informatieobjecten;
+- c) de samenhang met andere ontvangen en opgemaakte informatieobjecten;
 
-- d). de met betrekking tot de informatieobjecten uitgevoerde beheeractiviteiten; en
+- d) de met betrekking tot de informatieobjecten uitgevoerde beheeractiviteiten; en
 
-- e). de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de informatieobjecten worden bewaard of beheerd.
+- e) de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de informatieobjecten worden bewaard of beheerd.
 
 ##### Artikel 11. Ordening, toegankelijkheid en informatieverstrekking
 
@@ -216,9 +191,9 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 7. Het archiefvormend organisatieonderdeel maakt van de conversie, migratie of emulatie een verklaring op. Deze verklaring bevat in ieder geval:
 
-- a). een specificatie van de informatieobjecten waarop conversie, migratie of emulatie is toegepast;
+- a) een specificatie van de informatieobjecten waarop conversie, migratie of emulatie is toegepast;
 
-- b). een specificatie van de manier waarop getoetst is of de conversie, migratie of emulatie is toegepast overeenkomstig de eisen van de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en het resultaat van deze toets.
+- b) een specificatie van de manier waarop getoetst is of de conversie, migratie of emulatie is toegepast overeenkomstig de eisen van de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) en het resultaat van deze toets.
 
 8. De verklaring van conversie, migratie of emulatie wordt ondertekend door het hoofd van het archiefvormend organisatieonderdeel.
 
@@ -258,11 +233,11 @@ De archiefvormende organisatieonderdelen zorgen ervoor dat van elk van de inform
 
 1. Vernietiging van informatieobjecten, inclusief bijbehorende metagegevens, vindt slechts plaats:
 
-- a). na het verstrijken van de in de selectielijst vastgestelde bewaartermijn, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044276&hoofdstuk=4&artikel=15&z=2020-11-03&g=2020-11-03);
+- a) na het verstrijken van de in de selectielijst vastgestelde bewaartermijn, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044276&hoofdstuk=4&artikel=15&z=2020-11-03&g=2020-11-03);
 
-- b). nadat ze zijn gedigitaliseerd en vervangen overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044276&hoofdstuk=4&artikel=18&z=2020-11-03&g=2020-11-03), of;
+- b) nadat ze zijn gedigitaliseerd en vervangen overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044276&hoofdstuk=4&artikel=18&z=2020-11-03&g=2020-11-03), of;
 
-- c). onder buitengewone omstandigheden als bedoeld in [artikel 9, lid 2 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9), in opdracht van de Griffier.
+- c) onder buitengewone omstandigheden als bedoeld in [artikel 9, lid 2 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9), in opdracht van de Griffier.
 
 2. Voorafgaand aan de daadwerkelijke vernietiging stelt de archiefbeheerder een vernietigingslijst op en legt de vernietigingslijst ter controle aan het archiefvormend organisatieonderdeel en de archivaris voor. Het archiefvormend organisatieonderdeel kan informatieobjecten met onderbouwing (tijdelijk) uitzonderen van vernietiging.
 
@@ -334,19 +309,19 @@ Een overeenkomst waarbij taken en bevoegdheden namens de Griffier worden uitgevo
 
 1. De archivaris houdt intern toezicht op het naleven van de wet- en regelgeving op het gebied van archief- en informatiebeheer, waaronder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Om dit te kunnen doen, kan de archivaris:
 
-- a). zelfstandig informatie verzamelen over informatie- en (mogelijke) archiefbestanden binnen de Tweede Kamer;
+- a) zelfstandig informatie verzamelen over informatie- en (mogelijke) archiefbestanden binnen de Tweede Kamer;
 
-- b). deze bestanden analyseren en beoordelen of ze voldoen aan deze regeling en interne procedures;
+- b) deze bestanden analyseren en beoordelen of ze voldoen aan deze regeling en interne procedures;
 
-- c). informatie, adviezen en aanwijzingen en/of aanbevelingen geven aan de hoofden van de archiefvormende organisatieonderdelen en/of in voorkomende situaties rechtstreeks escaleren aan het Management Team.
+- c) informatie, adviezen en aanwijzingen en/of aanbevelingen geven aan de hoofden van de archiefvormende organisatieonderdelen en/of in voorkomende situaties rechtstreeks escaleren aan het Management Team.
 
 2. De archivaris zorgt ervoor dat het beheer van de informatieobjecten voldoet aan toetsbare eisen van een kwaliteitssysteem. Dit houdt in:
 
-- a). het vaststellen van een toetsbaar en actueel normenkader;
+- a) het vaststellen van een toetsbaar en actueel normenkader;
 
-- b). inbedding van het normenkader in een kwaliteitssysteem;
+- b) inbedding van het normenkader in een kwaliteitssysteem;
 
-- c). de inrichting en implementatie van het kwaliteitssysteem bij zowel de archiefvormende organisatieonderdelen als bij de archiefbeheerder.
+- c) de inrichting en implementatie van het kwaliteitssysteem bij zowel de archiefvormende organisatieonderdelen als bij de archiefbeheerder.
 
 3. De archivaris voert periodiek toezicht uit op basis van het kwaliteitssysteem en rapporteert over de uitkomsten hiervan aan de Griffier.
 

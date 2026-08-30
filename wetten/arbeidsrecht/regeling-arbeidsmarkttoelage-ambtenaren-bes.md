@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2020, nr. 2020-0000714269, houdende nadere regels inzake een uitkering als bedoeld in artikel 71 van het Rechtspositiebesluit ambtenaren BES (Regeling arbeidsmarkttoelage ambtenaren BES)"
+citeertitel: "Regeling arbeidsmarkttoelage ambtenaren BES"
 identifier: "BWBR0044530"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044530"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling-BES"
-stam_id: "15764723"
-version_id: "27319372"
-internal_id: "C38587071"
-label_id: "15702894"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044530/2021-01-01/0"
-intitule_bron: "Stcrt.2020-62917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-08"
-intitule_published: "2020-12-14"
-intitule_in_force: "2020-12-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62917"
-original_signed_date: "2020-12-08"
-original_published_date: "2020-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62917"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044530&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044530&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling arbeidsmarkttoelage ambtenaren BES"
-signed_date: "2020-12-08"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044530"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2020, nr. 2020-0000714269, houdende nadere regels inzake een uitkering als bedoeld in artikel 71 van het Rechtspositiebesluit ambtenaren BES (Regeling arbeidsmarkttoelage ambtenaren BES)
-
-Gelet op [artikel 71, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=71);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** ambtenaar in dienst van de staat;
+- a. *ambtenaar:* ambtenaar in dienst van de staat;
 
-- b. **arbeidsmarkttoelage:** een uitkering als bedoeld in [artikel 71 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=71).
+- b. *arbeidsmarkttoelage:* een uitkering als bedoeld in [artikel 71 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=71).
 
 ##### Artikel 2. Tijdvak
 
@@ -64,10 +38,8 @@ De arbeidsmarkttoelage bedraagt ten hoogste 10% van de bezoldiging, bedoeld in [
 
 ##### Artikel 5. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling arbeidsmarkttoelage ambtenaren BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

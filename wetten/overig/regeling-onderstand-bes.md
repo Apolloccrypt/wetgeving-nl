@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 augustus 2020, 2020-0000036179, tot uitvoering van het Besluit onderstand BES (Regeling onderstand BES)"
+citeertitel: "Regeling onderstand BES"
 identifier: "BWBR0044178"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2021-01-01"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044178"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "15651333"
-version_id: "27059612"
-internal_id: "C38280811"
-label_id: "15591174"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044178/2021-01-01/0"
-intitule_bron: "Stcrt.2020-51386"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-31"
-intitule_published: "2020-10-06"
-intitule_in_force: "2020-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-51386"
-original_signed_date: "2020-08-31"
-original_published_date: "2020-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-51386"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044178&z=2021-01-01&g=2021-01-01"
-jci_1_0: "1.0:c:BWBR0044178&g=2021-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling onderstand BES"
-signed_date: "2020-08-31"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2021-01-01
+status: geldig
+toestand: 2021-01-01
+bron: "https://wetten.overheid.nl/BWBR0044178"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 31 augustus 2020, 2020-0000036179, tot uitvoering van het Besluit onderstand BES (Regeling onderstand BES)
-
-Gelet op de [artikelen 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12), [18a, tweede lid, onderdeel d](onbekend), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=37) en [40 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=40);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595);
+- *besluit:*
+ [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595);
 
-- **maatregel:** het verlagen van de onderstand, bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12);
+- *maatregel:* het verlagen van de onderstand, bedoeld in [artikel 12, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12);
 
-- **minister:** Minister van Sociale Zaken en Werkgelegenheid.
+- *minister:* Minister van Sociale Zaken en Werkgelegenheid.
 
 ### Hoofdstuk 2. Opleggen van een maatregel
 
@@ -132,23 +107,23 @@ Gedragingen van belanghebbenden waardoor de verplichting tot inschakeling in de 
 
 - b. tweede categorie:
 
-- 1°. het niet of niet tijdig voldoen aan een oproep om, in verband met de inschakeling in de arbeid, op een aangegeven plaats en tijd te verschijnen;
+   - 1°. het niet of niet tijdig voldoen aan een oproep om, in verband met de inschakeling in de arbeid, op een aangegeven plaats en tijd te verschijnen;
 
-- 2°. het niet of in onvoldoende mate meewerken aan een onderzoek naar de mogelijkheden tot inschakeling in de arbeid of aan een onderzoek naar de geschiktheid voor scholing of opleiding;
+   - 2°. het niet of in onvoldoende mate meewerken aan een onderzoek naar de mogelijkheden tot inschakeling in de arbeid of aan een onderzoek naar de geschiktheid voor scholing of opleiding;
 
 - c. derde categorie:
 
-- 1°. het niet naar vermogen trachten algemeen geaccepteerde arbeid te verkrijgen;
+   - 1°. het niet naar vermogen trachten algemeen geaccepteerde arbeid te verkrijgen;
 
-- 2°. gedragingen die de inschakeling in de arbeid belemmeren;
+   - 2°. gedragingen die de inschakeling in de arbeid belemmeren;
 
-- 3°. het niet of in onvoldoende mate meewerken aan een voor de inschakeling in de arbeid noodzakelijk geachte scholing of opleiding of aan andere aangewezen activiteiten die de zelfstandige bestaansvoorziening bevorderen;
+   - 3°. het niet of in onvoldoende mate meewerken aan een voor de inschakeling in de arbeid noodzakelijk geachte scholing of opleiding of aan andere aangewezen activiteiten die de zelfstandige bestaansvoorziening bevorderen;
 
 - d. vierde categorie:
 
-- 1°. het niet aanvaarden van algemeen geaccepteerde arbeid;
+   - 1°. het niet aanvaarden van algemeen geaccepteerde arbeid;
 
-- 2°. het door eigen toedoen niet behouden van algemeen geaccepteerde arbeid.
+   - 2°. het door eigen toedoen niet behouden van algemeen geaccepteerde arbeid.
 
 ##### Artikel 11. De hoogte van de maatregel
 
@@ -214,7 +189,7 @@ Indien een belanghebbende zich zeer ernstig misdraagt tegenover de minister of z
 
 ##### Artikel 17. Vrijlating uitkering Schadefonds geweldsmisdrijven
 
-Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het besluit](onbekend) wordt aangewezen de uitkering als bedoeld in de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden.
+Als uitkeringen als bedoeld in artikel 18a, tweede lid, onderdeel d, van het besluit wordt aangewezen de uitkering als bedoeld in de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), met uitzondering van het deel van de uitkering dat vanwege de derving van levensonderhoud wordt verstrekt aan nabestaanden.
 
 ### Hoofdstuk 4. Gegevensuitwisseling
 
@@ -230,9 +205,9 @@ Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het be
 
 - d. de Minister van Justitie en Veiligheid voor zover het betreft:
 
-- 1°. de toepassing van de [Wet toelating en uitzettingen van vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571); of
+   - 1°. de toepassing van de [Wet toelating en uitzettingen van vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571); of
 
-- 2°. een persoon die rechtens zijn vrijheid is ontnomen;
+   - 2°. een persoon die rechtens zijn vrijheid is ontnomen;
 
 - e. de Minister van Onderwijs, Cultuur en Wetenschap voor zover het betreft de toepassing van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453), de [Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393), de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438) en de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
@@ -260,9 +235,9 @@ Als uitkeringen als bedoeld in [artikel 18a, tweede lid, onderdeel d, van het be
 
 - b. personen die hun hoofdverblijf hebben in dezelfde woning, of ten aanzien van wie dat redelijkerwijs kan worden vermoed, als degene:
 
-- 1°. te wiens behoeve onderstand is aangevraagd of wordt verleend; of
+   - 1°. te wiens behoeve onderstand is aangevraagd of wordt verleend; of
 
-- 2°. van wie kosten van onderstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 6.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&paragraaf=6.4).
+   - 2°. van wie kosten van onderstand worden of kunnen worden teruggevorderd ingevolge [paragraaf 6.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&paragraaf=6.4).
 
 4. De in het eerste en tweede lid bedoelde opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, en zo spoedig mogelijk, doch in elk geval binnen vier weken na ontvangst van het verzoek hiertoe, verstrekt.
 
@@ -296,10 +271,8 @@ De [Regeling gegevensuitwisseling onderstand BES](https://wetten.overheid.nl/jci
 
 ##### Artikel 21. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderstand BES.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

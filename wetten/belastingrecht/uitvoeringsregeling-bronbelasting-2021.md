@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Financiën van 31 december 2020, houdende nadere regels voor de toepassing van de Wet bronbelasting 2021 (Uitvoeringsregeling bronbelasting 2021)"
+citeertitel: "Uitvoeringsregeling bronbelasting 2021"
 identifier: "BWBR0044605"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044605"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15782893"
-version_id: "27359982"
-internal_id: "C38639681"
-label_id: "15720554"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044605/2024-01-01/0"
-intitule_bron: "Stcrt.2020-63397"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-31"
-intitule_published: "2020-12-31"
-intitule_in_force: "2020-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-63397"
-original_signed_date: "2020-12-31"
-original_published_date: "2020-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-63397"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044605&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0044605&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling bronbelasting 2021"
-signed_date: "2020-12-31"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0044605"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 31 december 2020, houdende nadere regels voor de toepassing van de Wet bronbelasting 2021 (Uitvoeringsregeling bronbelasting 2021)
-
-Gelet op [artikel 2.1, vijfde lid, van de Wet bronbelasting 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0042952&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Reikwijdte
 
@@ -66,49 +40,8 @@ Voor de toepassing van [artikel 2.1, eerste lid, onderdeel c, en zesde lid, van 
 
 ##### Artikel 3. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2021.
+Deze regeling treedt in werking met ingang van 1 januari 2021.
 
 ##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling bronbelasting 2021.
-
-## Bijlage. Behorende bij de Uitvoeringsregeling bronbelasting 2021
-
-De woonlandfactor, bedoeld in [artikel 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044605&artikel=2&z=2024-01-01&g=2024-01-01), wordt voor andere lidstaten van de Europese Unie, andere staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland bepaald aan de hand van de volgende tabel:
-
-| Staat | Woonlandfactor |
-| --- | --- |
-| België | 100% |
-| Bulgarije | 50% |
-| Cyprus | 80% |
-| Denemarken | 100% |
-| Duitsland | 100% |
-| Estland | 80% |
-| Finland | 100% |
-| Frankrijk | 100% |
-| Griekenland | 80% |
-| Hongarije | 60% |
-| Ierland | 100% |
-| IJsland | 100% |
-| Italië | 90% |
-| Kroatië | 60% |
-| Letland | 70% |
-| Liechtenstein | 100% |
-| Litouwen | 60% |
-| Luxemburg | 100% |
-| Malta | 80% |
-| Noorwegen | 100% |
-| Oostenrijk | 100% |
-| Polen | 60% |
-| Portugal | 80% |
-| Roemenië | 50% |
-| Slovenië | 80% |
-| Slowakije | 70% |
-| Spanje | 90% |
-| Tsjechië | 70% |
-| Zweden | 100% |
-| Zwitserland | 100% |
-
-Voor andere staten wordt de woonlandfactor bepaald aan de hand van de tabel die is opgenomen in de [Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

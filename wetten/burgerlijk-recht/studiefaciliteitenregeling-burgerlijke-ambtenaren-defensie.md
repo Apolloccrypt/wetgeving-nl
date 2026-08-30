@@ -1,63 +1,35 @@
 ---
 title: "Studiefaciliteitenregeling burgerlijke ambtenaren defensie"
 identifier: "BWBR0043998"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-03-04"
-last_updated: "2021-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043998"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "15606433"
-version_id: "27573622"
-internal_id: "C38899211"
-label_id: "15547244"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043998/2021-03-04/0"
-intitule_bron: "Stcrt.2020-42690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-03-24"
-intitule_published: "2020-08-13"
-intitule_in_force: "2020-08-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-9568"
-original_signed_date: "2021-02-17"
-original_published_date: "2021-03-03"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2021-9568"
-entry_into_force_date: "2021-02-17"
-jci_1_3: "jci1.3:c:BWBR0043998&z=2021-03-04&g=2021-03-04"
-jci_1_0: "1.0:c:BWBR0043998&g=2021-03-04"
-citeertitel_status: "officieel"
-signed_date: "2021-02-17"
-entry_into_force: "2021-02-17"
+publicatiedatum: 2021-02-17
+laatste_update: 2021-03-04
+status: geldig
+toestand: 2021-03-04
+bron: "https://wetten.overheid.nl/BWBR0043998"
+opgehaald: 2026-08-30
 ---
+
 # Studiefaciliteitenregeling burgerlijke ambtenaren defensie
-
-Gelet op [artikel 94a van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=94a)
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **‘de ambtenaar’:** degene bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
+- a. *‘de ambtenaar’:* degene bedoeld in [artikel 1 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=1);
 
-- b. **‘studiefaciliteiten’:**
+- b. *‘studiefaciliteiten’:*
 
-- a. studieverlof als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3&z=2021-03-04&g=2021-03-04);
+   - a. studieverlof als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=3&z=2021-03-04&g=2021-03-04);
 
-- b. tegemoetkoming in studiekosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=4&z=2021-03-04&g=2021-03-04);
+   - b. tegemoetkoming in studiekosten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=4&z=2021-03-04&g=2021-03-04);
 
-- c. **‘het hoofd defensieonderdeel’:** het hoofd defensieonderdeel als bedoeld in [artikel 3, eerste lid, onderdeel b, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=3).
+- c. *‘het hoofd defensieonderdeel’:* het hoofd defensieonderdeel als bedoeld in [artikel 3, eerste lid, onderdeel b, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=3).
 
-- d. **‘ontslag’:** elke beëindiging van het dienstverband;
+- d. *‘ontslag’:* elke beëindiging van het dienstverband;
 
-- e. **‘Uitkering’:** een uitkering op grond van het [Besluit Uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041) of een uitkering op grond van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510)
+- e. *‘Uitkering’:* een uitkering op grond van het [Besluit Uitkering wegens functioneel leeftijdsontslag burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006041) of een uitkering op grond van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0010510)
 
 ##### Artikel 2. Algemene voorwaarden
 
@@ -83,15 +55,45 @@ In deze regeling wordt verstaan onder:
 
 - 1. Voor volledige tegemoetkoming komen in aanmerking:
 
-- a. indien de studie in een andere plaats dan de woon- of standplaats gevolgd moet worden, de noodzakelijke gemaakte reiskosten voor interlokaal vervoer en het daarmede in samenhang optredende vervoer in de plaats waar de cursus of het examen wordt gehouden, op basis van het laagste tarief van het gebezigde middel van openbaar vervoer, waarvan redelijkerwijs gebruik gemaakt kan worden, voor zover de ambtenaar voor deze kosten niet uit anderen hoofde een vergoeding geniet; kan van openbaar vervoer redelijkerwijs geen gebruik gemaakt worden dan worden de noodzakelijk gemaakte kosten vergoed tegen het tarief, genoemd in de [bijlage B, tabel 1B, van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B);
+   - a. indien de studie in een andere plaats dan de woon- of standplaats gevolgd moet worden, de noodzakelijke gemaakte reiskosten voor interlokaal vervoer en het daarmede in samenhang optredende vervoer in de plaats waar de cursus of het examen wordt gehouden, op basis van het laagste tarief van het gebezigde middel van openbaar vervoer, waarvan redelijkerwijs gebruik gemaakt kan worden, voor zover de ambtenaar voor deze kosten niet uit anderen hoofde een vergoeding geniet; kan van openbaar vervoer redelijkerwijs geen gebruik gemaakt worden dan worden de noodzakelijk gemaakte kosten vergoed tegen het tarief, genoemd in de [bijlage B, tabel 1B, van de Regeling dienstreizen defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&bijlage=B);
 
-- b. de werkelijk gemaakte kosten, welke in verband met het afleggen van een examen noodzakelijkerwijze worden gemaakt voor nachtverblijf en het gebruik van maaltijden, overeenkomstig het bepaalde in [artikel 12, eerste lid, onderdeel a, ten tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12), juncto artikel 12, vierde lid en zevende lid, onderdeel a, van de Regeling dienstreizen defensie.
+   - b. de werkelijk gemaakte kosten, welke in verband met het afleggen van een examen noodzakelijkerwijze worden gemaakt voor nachtverblijf en het gebruik van maaltijden, overeenkomstig het bepaalde in [artikel 12, eerste lid, onderdeel a, ten tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0039787&artikel=12), juncto artikel 12, vierde lid en zevende lid, onderdeel a, van de Regeling dienstreizen defensie.
 
 - 2. Voor een tegemoetkoming tot maximaal 50% komen in aanmerking de noodzakelijk gemaakte cursussen lesgelden, de examen- en diplomakosten, alsmede de aanschaffingskosten van het verplicht gestelde studiemateriaal.
 
 - 3. Bij het volgen van een studie in het kader van de bevordering van de externe werkzekerheid van de ambtenaar wordt het in het vorige lid genoemde percentage op 100 gesteld.
 
 - 4. Een tegemoetkoming in studiekosten wordt eerst verleend nadat de ambtenaar schriftelijk heeft verklaard dat hij bekend is met de verplichting tot gehele of gedeeltelijke terugbetaling als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043998&artikel=5&z=2021-03-04&g=2021-03-04).
+
+##### Artikel 4a. Maximale vergoeding individuele opleidingsaanspraak
+
+De kosten van een opleiding als bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20) worden vergoed:
+
+- a. tot ten hoogste € 500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 2 jaar en maximaal 3 jaar;
+
+- b. tot ten hoogste € 1.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 3 jaar en maximaal 4 jaar;
+
+- c. tot ten hoogste € 1.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 4 jaar en maximaal 5 jaar;
+
+- d. tot ten hoogste € 2.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 5 jaar en maximaal 6 jaar;
+
+- e. tot ten hoogste € 2.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 6 jaar en maximaal 7 jaar;
+
+- f. tot ten hoogste € 3.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 7 jaar en maximaal 8 jaar;
+
+- g. tot ten hoogste € 3.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 8 jaar en maximaal 9 jaar;
+
+- h. tot ten hoogste € 4.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 9 jaar of meer.
+
+##### Artikel 4b. Vergoeding van kosten
+
+De kosten bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20), die voor vergoeding in aanmerking komen, zijn, voor zover zij niet rechtstreeks voor rekening komen van of rechtstreeks worden betaald door het ministerie van defensie:
+
+- a. inschrijvings-, les-, college-, practicum-, examen-, en diplomagelden, met uitzondering van kosten verbonden aan het volgen van praktisch vliegonderricht;
+
+- b. studieboeken en studiemateriaal, voor zover direct gerelateerd aan de opleiding;
+
+- c. excursie, reis- en verblijfkosten op grond van het Besluit dienstreizen defensie. Eventuele tegemoetkomingen van derden worden hierop in mindering gebracht.
 
 ##### Artikel 5. Terugbetaling tegemoetkoming studiekosten
 
@@ -109,40 +111,8 @@ In bijzondere gevallen kan het hoofd defensieonderdeel afwijken van het bepaalde
 
 ##### Artikel 7
 
-De regeling treedt in werking met ingang van 1 april 1994.
+De regeling treedt in werking met ingang van 1 april 1994.
 
 ##### Artikel 8
 
-Deze regeling wordt aangehaald als: **Studiefaciliteitenregeling burgerlijke ambtenaren defensie**.
-
-##### Artikel 4a. Maximale vergoeding individuele opleidingsaanspraak
-
-De kosten van een opleiding als bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20) worden vergoed:
-
-- a. tot ten hoogste € 500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 2 jaar en maximaal 3 jaar;
-
-- b. tot ten hoogste € 1.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 3 jaar en maximaal 4 jaar;
-
-- c. tot ten hoogste € 1.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 4 jaar en maximaal 5 jaar;
-
-- d. tot ten hoogste € 2.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 5 jaar en maximaal 6 jaar;
-
-- e. tot ten hoogste € 2.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 6 jaar en maximaal 7 jaar;
-
-- f. tot ten hoogste € 3.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 7 jaar en maximaal 8 jaar;
-
-- g. tot ten hoogste € 3.500,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 8 jaar en maximaal 9 jaar;
-
-- h. tot ten hoogste € 4.000,– in het geval van een diensttijd als ambtenaar bij Defensie van minimaal 9 jaar of meer.
-
-##### Artikel 4b. Vergoeding van kosten
-
-De kosten bedoeld in [artikel 20 van het BARD](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=20), die voor vergoeding in aanmerking komen, zijn, voor zover zij niet rechtstreeks voor rekening komen van of rechtstreeks worden betaald door het ministerie van defensie:
-
-- a. inschrijvings-, les-, college-, practicum-, examen-, en diplomagelden, met uitzondering van kosten verbonden aan het volgen van praktisch vliegonderricht;
-
-- b. studieboeken en studiemateriaal, voor zover direct gerelateerd aan de opleiding;
-
-- c. excursie, reis- en verblijfkosten op grond van het Besluit dienstreizen defensie. Eventuele tegemoetkomingen van derden worden hierop in mindering gebracht.
-
-## Slotbepalingen
+Deze regeling wordt aangehaald als: *Studiefaciliteitenregeling burgerlijke ambtenaren defensie*.

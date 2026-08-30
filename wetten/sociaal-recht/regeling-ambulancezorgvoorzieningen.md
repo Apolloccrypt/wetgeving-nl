@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg, van 27 november 2020, kenmerk 1786142-214671-WJZ, houdende eisen voor ambulancezorgvoorzieningen (Regeling ambulancezorgvoorzieningen)"
+citeertitel: "Regeling ambulancezorgvoorzieningen"
 identifier: "BWBR0044474"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044474"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "15746293"
-version_id: "27284762"
-internal_id: "C38546271"
-label_id: "15684874"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044474/2026-01-01/0"
-intitule_bron: "Stcrt.2020-63510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-27"
-intitule_published: "2020-12-07"
-intitule_in_force: "2020-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-63510"
-original_signed_date: "2020-11-27"
-original_published_date: "2020-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-63510"
-entry_into_force_date: "2021-01-01"
-jci_1_3: "jci1.3:c:BWBR0044474&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0044474&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling ambulancezorgvoorzieningen"
-signed_date: "2020-11-27"
-entry_into_force: "2021-01-01"
+publicatiedatum: 2021-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0044474"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister voor Medische Zorg, van 27 november 2020, kenmerk 1786142-214671-WJZ, houdende eisen voor ambulancezorgvoorzieningen (Regeling ambulancezorgvoorzieningen)
-
-Gelet op de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=8), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=11), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=12), en [20 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=20);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,33 +20,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **A1-urgentie:** een spoedeisende urgentie naar aanleiding van een zorgvraag waarbij uit triage blijkt dat er sprake is van een direct of op korte termijn levensbedreigende situatie als gevolg van een gezondheidsprobleem of letsel dat plotseling is ontstaan of verergert of in het geval dat dit gevaar pas na beoordeling door de ambulancezorgprofessional ter plaatse kan worden uitgesloten;
+- – *A1-urgentie:* een spoedeisende urgentie naar aanleiding van een zorgvraag waarbij uit triage blijkt dat er sprake is van een direct of op korte termijn levensbedreigende situatie als gevolg van een gezondheidsprobleem of letsel dat plotseling is ontstaan of verergert of in het geval dat dit gevaar pas na beoordeling door de ambulancezorgprofessional ter plaatse kan worden uitgesloten;
 
-- –. **Kwaliteitskader Inzet van ambulancezorgprofessionals op de meldkamer ambulancezorg:** een kader voor de meldkamer ambulancezorg, waarmee de deskundigheid van de ambulancezorgprofessionals en daarmee de kwaliteit van de triage op de meldkamer ambulancezorg wordt geborgd;
+- – *Kwaliteitskader Inzet van ambulancezorgprofessionals op de meldkamer ambulancezorg:* een kader voor de meldkamer ambulancezorg, waarmee de deskundigheid van de ambulancezorgprofessionals en daarmee de kwaliteit van de triage op de meldkamer ambulancezorg wordt geborgd;
 
-- –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- – *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **MICU:** mobiele intensive care unit;
+- – *MICU:* mobiele intensive care unit;
 
-- –. **mobiele zorg vanuit of naar het buitenland:** ambulancezorg door een Regionale Ambulancevoorziening of andere zorgaanbieder met vervoer in Nederland vanaf of naar een Nederlandse grens of Nederlandse luchthaven indien dit vervoer in het buitenland aanvangt of het buitenland als eindbestemming heeft;
+- – *mobiele zorg vanuit of naar het buitenland:* ambulancezorg door een Regionale Ambulancevoorziening of andere zorgaanbieder met vervoer in Nederland vanaf of naar een Nederlandse grens of Nederlandse luchthaven indien dit vervoer in het buitenland aanvangt of het buitenland als eindbestemming heeft;
 
-- –. **NICU:** mobiele neonatale intensive care unit;
+- – *NICU:* mobiele neonatale intensive care unit;
 
-- –. **niet spoedeisende ambulancezorg:** zorg door een ambulancezorgprofessional aan een patiënt op het woon- of verblijfadres of vervoer met zorg van een patiënt tussen het woon- of verblijfadres of de incidentlocatie en een zorginstelling voor diagnostiek, behandeling, opname of ontslag;
+- – *niet spoedeisende ambulancezorg:* zorg door een ambulancezorgprofessional aan een patiënt op het woon- of verblijfadres of vervoer met zorg van een patiënt tussen het woon- of verblijfadres of de incidentlocatie en een zorginstelling voor diagnostiek, behandeling, opname of ontslag;
 
-- –. **PICU:** mobiele pediatrische intensive care unit;
+- – *PICU:* mobiele pediatrische intensive care unit;
 
-- –. **Regionale Ambulancevoorziening:** Regionale Ambulancevoorziening als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
+- – *Regionale Ambulancevoorziening:* Regionale Ambulancevoorziening als bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4);
 
-- –. **responstijd:** de tijdsduur tussen het aannemen van de melding door de ambulancezorgprofessional van de Regionale Ambulancevoorziening op de meldkamer ambulancezorg en het moment waarop de ambulance arriveert bij de plaats waar de patiënt zich bevindt of waar de ambulance nog kan komen;
+- – *responstijd:* de tijdsduur tussen het aannemen van de melding door de ambulancezorgprofessional van de Regionale Ambulancevoorziening op de meldkamer ambulancezorg en het moment waarop de ambulance arriveert bij de plaats waar de patiënt zich bevindt of waar de ambulance nog kan komen;
 
-- –. **triage:** het maken van een inschatting van de medische nood en het bepalen van de passende inzet van zorgverlening met daarbij behorende urgentie;
+- – *triage:* het maken van een inschatting van de medische nood en het bepalen van de passende inzet van zorgverlening met daarbij behorende urgentie;
 
-- –. **wet:** [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925);
+- – *wet:*
+ [Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925);
 
-- –. **Wet BIG:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
+- – *Wet BIG:*
+ [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- –. **zorgdifferentiatie:** zorgaanbod afgestemd op de complexiteit van de zorgbehoefte van de patiënt en op specifieke patiëntengroepen.
+- – *zorgdifferentiatie:* zorgaanbod afgestemd op de complexiteit van de zorgbehoefte van de patiënt en op specifieke patiëntengroepen.
 
 ### Hoofdstuk 2. Eisen Regionale Ambulancevoorzieningen
 
@@ -218,7 +194,7 @@ De Regionale Ambulancevoorziening is verzekerd tegen risico’s verbonden aan am
 
 De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een crisisplan, een gewondenregistratie, een actueel regionaal gewondenspreidingsplan en een slachtoffervolgsysteem.
 
-### Hoofdstuk 3. Uitzonderingen op het alleenrecht en de leverplicht van ambulancezorg door de Regionale Ambulancevoorzieningen of op andere bepalingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043925)
+### Hoofdstuk 3. Uitzonderingen op het alleenrecht en de leverplicht van ambulancezorg door de Regionale Ambulancevoorzieningen of op andere bepalingen van de wet
 
 #### § 1. Uitzonderingen
 
@@ -226,7 +202,7 @@ De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, een crisispl
 
 Het in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=2) en [3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&hoofdstuk=3) bepaalde geldt niet voor:
 
-- a. zorg met vervoer met Belgische ambulances in het kader van het grensoverschrijdende spoedeisende ambulancevervoer waarvoor het Comité van Ministers van de Benelux een beschikking heeft uitgebracht op 8 december 2009;
+- a. zorg met vervoer met Belgische ambulances in het kader van het grensoverschrijdende spoedeisende ambulancevervoer waarvoor het Comité van Ministers van de Benelux een beschikking heeft uitgebracht op 8 december 2009;
 
 - b. zorg met vervoer met Duitse ambulances in het kader van het grensoverschrijdende spoedeisende ambulancevervoer waarvoor tussen een Regionale Ambulancevoorziening en een Duitse ambulancedienst en meldkamer afspraken zijn gemaakt;
 
@@ -270,7 +246,7 @@ De aanbieder van mobiele zorg vanuit of naar het buitenland verstrekt op verzoek
 
 ##### Artikel 24
 
-Wijzigt de Regeling verslaggeving WTZi.
+*Wijzigt de Regeling verslaggeving WTZi.*
 
 ##### Artikel 25
 
@@ -279,5 +255,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2021.
 ##### Artikel 26
 
 Deze regeling wordt aangehaald als: Regeling ambulancezorgvoorzieningen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,47 +1,18 @@
 ---
 title: "Wet van 8 juli 2020, houdende splitsing van de gemeente Haaren"
+citeertitel: "Wet splitsing gemeente Haaren"
 identifier: "BWBR0043898"
-country: "nl"
-rank: "wet"
-publication_date: "2020-09-15"
-last_updated: "2020-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043898"
+categorie: "Bestuursrecht"
 soort: "wet"
-stam_id: "15570963"
-version_id: "26899862"
-internal_id: "C38231161"
-label_id: "15512494"
-dtd_version: "2.0"
-original_entry_into_force: "2020-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043898/2020-09-15/0"
-intitule_bron: "Stb.2020-260"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-07-08"
-intitule_published: "2020-07-16"
-intitule_in_force: "2020-09-15"
-intitule_status: "goed"
-original_publication: "Stb.2020-260"
-original_signed_date: "2020-07-08"
-original_published_date: "2020-07-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "35345"
-original_url_id: "stb-2020-260"
-entry_into_force_date: "2020-09-15"
-jci_1_3: "jci1.3:c:BWBR0043898&z=2020-09-15&g=2020-09-15"
-jci_1_0: "1.0:c:BWBR0043898&g=2020-09-15"
-citeertitel_status: "redactioneel"
-short_title: "Wet splitsing gemeente Haaren"
-signed_date: "2020-07-08"
-entry_into_force: "2020-09-15"
+publicatiedatum: 2020-09-15
+laatste_update: 2020-09-15
+status: geldig
+toestand: 2020-09-15
+bron: "https://wetten.overheid.nl/BWBR0043898"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 8 juli 2020, houdende splitsing van de gemeente Haaren
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeente Haaren op te heffen en het grondgebied toe te voegen aan de gemeenten Boxtel, Oisterwijk, Tilburg en Vught;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Opheffing, overgang grondgebied en rechtsopvolging
 
@@ -55,7 +26,7 @@ Met ingang van de datum van herindeling wordt de gemeente Haaren opgeheven.
 
 2. Met ingang van de datum van herindeling wordt een deel van het grondgebied van de op te heffen gemeente Haaren toegevoegd aan de gemeente Tilburg door een grenswijziging van de gemeente Tilburg.
 
-3. De in het eerste en tweede lid bedoelde toevoegingen van grondgebied vinden plaats zoals aangegeven op de bij deze wet behorende kaart.
+3. De in het eerste en tweede lid bedoelde toevoegingen van grondgebied vinden plaats zoals aangegeven op de bij deze wet behorende [kaart](https://wetten.overheid.nl/BWBR0043898).
 
 ##### Artikel 3
 
@@ -79,26 +50,22 @@ Voor de op te heffen gemeente Haaren wordt de gemeente Oisterwijk aangewezen voo
 
 ##### Artikel 4
 
-Wijzigt de Meststoffenwet.
+*Wijzigt de Meststoffenwet.*
 
 ##### Artikel 5
 
-Wijzigt de Wet maatregelen woningmarkt 2014 II.
+*Wijzigt de Wet maatregelen woningmarkt 2014 II.*
 
 ##### Artikel 6
 
-Wijzigt de Wet op de rechterlijke indeling.
+*Wijzigt de Wet op de rechterlijke indeling.*
 
 ##### Artikel 7
 
-Wijzigt de Wet veiligheidsregio’s.
+*Wijzigt de Wet veiligheidsregio’s.*
 
 #### § 3. Inwerkingtreding
 
 ##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-## Kaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043898&paragraaf=1&artikel=2&z=2020-09-15&g=2020-09-15)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

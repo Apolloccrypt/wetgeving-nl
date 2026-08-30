@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 mei 2020, nr. 2020-0000058877, houdende de inrichting van de directie CIO-office en Integrale Veiligheid alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur CIO-office en Integrale Veiligheid (Organisatie-, mandaat- en volmachtbesluit directie CIV SZW 2020)"
+citeertitel: "Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020"
 identifier: "BWBR0043597"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-27"
-last_updated: "2025-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043597"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "15477743"
-version_id: "26745782"
-internal_id: "C37906741"
-label_id: "15420584"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043597/2025-11-27/0"
-intitule_bron: "Stcrt.2020-29113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-25"
-intitule_published: "2020-06-04"
-intitule_in_force: "2020-06-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-29113"
-original_signed_date: "2020-05-25"
-original_published_date: "2020-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-29113"
-entry_into_force_date: "2020-06-05"
-jci_1_3: "jci1.3:c:BWBR0043597&z=2025-11-27&g=2025-11-27"
-jci_1_0: "1.0:c:BWBR0043597&g=2025-11-27"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020"
-signed_date: "2020-05-25"
-entry_into_force: "2020-06-05"
+publicatiedatum: 2020-06-05
+laatste_update: 2025-11-27
+status: geldig
+toestand: 2025-11-27
+bron: "https://wetten.overheid.nl/BWBR0043597"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 mei 2020, nr. 2020-0000058877, houdende de inrichting van de directie CIO-office en Integrale Veiligheid alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur CIO-office en Integrale Veiligheid (Organisatie-, mandaat- en volmachtbesluit directie CIV SZW 2020)
-
-Gelet op de [artikelen 3, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=3), en [8, van het Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal 2009 SZW](https://wetten.overheid.nl/jci1.3:c:BWBR0026589&artikel=8);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie:** de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
+- a. *directie:* de directie CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
-- b. **directeur:** de directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
+- b. *directeur:* de directeur CIO-office, Informatie voor Beleid en Bedrijfsvoering en Veiligheid;
 
-- c. **CIO:** Chief Information Officer, de functionaris als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3), en [artikel 9, eerste lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
+- c. *CIO:* Chief Information Officer, de functionaris als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3), en [artikel 9, eerste lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- d. **CISO:** Chief Information Security Officer, de functionaris als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=5), en [artikel 9, derde lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
+- d. *CISO:* Chief Information Security Officer, de functionaris als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=5), en [artikel 9, derde lid, van het Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=9);
 
-- e. **Besluit CIO-stelsel:** het [Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613);
+- e. *Besluit CIO-stelsel:* het [Besluit CIO-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613);
 
-- f. **beveiligingsautoriteit:** de functionaris als bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3);
+- f. *beveiligingsautoriteit:* de functionaris als bedoeld in [artikel 3 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044613&artikel=3);
 
-- g. **functionaris gegevensbescherming:** de functionaris zoals bedoeld in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid;
+- g. *functionaris gegevensbescherming:* de functionaris zoals bedoeld in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid;
 
-- h. **IV:** informatievoorziening;
+- h. *IV:* informatievoorziening;
 
-- i. **ICT:** informatie- en communicatietechnologie.
+- i. *ICT:* informatie- en communicatietechnologie.
 
 #### § 2. Organisatie
 
@@ -118,66 +92,6 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het stimuleren van het op een verantwoorde manier datagedreven werken bij het ministerie.
 
-##### Artikel 4
-
-1. De beveiligingsautoriteit is, onverminderd het bepaalde in de Algemene Verordening Gegevensbescherming, verantwoordelijk voor de taken als bedoeld in [artikel 4 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4) en:
-
-- a. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de afdeling;
-
-- b. het genereren van beleidsinformatie op de aandachtsgebieden van de afdeling;
-
-- c. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de afdeling;
-
-- d. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de afdeling.
-
-Op de aangewezen piketmedewerker van de afdeling Veiligheid is [artikel 5 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=5) van overeenkomstige toepassing, met dien verstande dat de bevoegdheden namens de beveiligingsautoriteit worden uitgeoefend.
-
-2. De functionaris gegevensbescherming is conform het bepaalde in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid, verantwoordelijk voor het houden van toezicht op naleving van kaders en regelingen voor privacy van het ministerie SZW.
-
-#### § 4. Bevoegdheden
-
-##### Artikel 5
-
-Aan elk van de afdelingshoofden wordt mandaat, volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
-
-- a. de taken van de eigen afdeling;
-
-- b. de personeelsaangelegenheden van de eigen afdeling voor zover het betreft:
-
-- 1°. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
-
-- 2°. het houden van personeelsgesprekken;
-
-- 3°. verlof van medewerkers;
-
-- 4°. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur maximaal € 150.
-
-##### Artikel 6
-
-Elk van de afdelingshoofden is gevolmachtigd tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder hun verantwoordelijkheid.
-
-##### Artikel 7
-
-Aan elk van de afdelingshoofden wordt mandaat en machtiging verleend met betrekking tot:
-
-- a. het afdoen van informatieve brieven die betrekking hebben op de taken van de eigen afdelingen;
-
-- b. het paraferen van stukken waar de directie geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
-
-##### Artikel 8
-
-Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
-
-#### § 5. Slotbepaling
-
-##### Artikel 9
-
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 mei 2020.
-
-2. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 3a
 
 Het afdelingshoofd CIO-office is verantwoordelijk voor de ondersteuning van de directeur bij de uitoefening van haar taken.
@@ -210,8 +124,60 @@ Het afdelingshoofd Informatie voor Beleid en Bedrijfsvoering is verantwoordelijk
 
 - j. het onderhouden van verbinding met de onderdelen van het ministerie die zelf invulling geven aan het adviseren met de toepassing van IV beleid en -kaders op het gebied van informatiemanagement, informatiebeveiliging en privacybescherming, zoals de Nederlandse Arbeidsinspectie, Dienstverlening, Samenwerkingsverbanden en Uitvoering en de Rijksschoonmaakorganisatie.
 
+##### Artikel 4
+
+1. De beveiligingsautoriteit is, onverminderd het bepaalde in de Algemene Verordening Gegevensbescherming, verantwoordelijk voor de taken als bedoeld in [artikel 4 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=4) en:
+
+- a. het kenbaar maken en mede bepalen van de kaders op de aandachtsgebieden van de afdeling;
+
+- b. het genereren van beleidsinformatie op de aandachtsgebieden van de afdeling;
+
+- c. het vertegenwoordigen van het ministerie bij het interdepartementale overleg op de aandachtsgebieden van de afdeling;
+
+- d. het adviseren van deelnemers aan interdepartementale commissies en bestuurlijke overleggen op de aandachtsgebieden van de afdeling.
+
+Op de aangewezen piketmedewerker van de afdeling Veiligheid is [artikel 5 van het Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617&artikel=5) van overeenkomstige toepassing, met dien verstande dat de bevoegdheden namens de beveiligingsautoriteit worden uitgeoefend.
+
+2. De functionaris gegevensbescherming is conform het bepaalde in de Algemene Verordening Gegevensbescherming, artikel 37, eerste lid, verantwoordelijk voor het houden van toezicht op naleving van kaders en regelingen voor privacy van het ministerie SZW.
+
 #### § 4. Bevoegdheden
+
+##### Artikel 5
+
+Aan elk van de afdelingshoofden wordt mandaat, volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het ondertekenen van stukken die betrekking hebben op:
+
+- a. de taken van de eigen afdeling;
+
+- b. de personeelsaangelegenheden van de eigen afdeling voor zover het betreft:
+
+   - 1°. het opmaken, niet zijnde vaststellen, van een beoordeling van medewerkers;
+
+   - 2°. het houden van personeelsgesprekken;
+
+   - 3°. verlof van medewerkers;
+
+   - 4°. kleine beloningen, niet zijnde gratificaties, onder gelijktijdige mededeling daarvan aan de directeur maximaal € 150.
+
+##### Artikel 6
+
+Elk van de afdelingshoofden is gevolmachtigd tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst, voor zover deze betrekking hebben op de activiteiten die vallen onder hun verantwoordelijkheid.
+
+##### Artikel 7
+
+Aan elk van de afdelingshoofden wordt mandaat en machtiging verleend met betrekking tot:
+
+- a. het afdoen van informatieve brieven die betrekking hebben op de taken van de eigen afdelingen;
+
+- b. het paraferen van stukken waar de directie geen voortouw in heeft, met uitzondering van stukken waarvan gelet op het belang daarvan redelijkerwijs vermoed kan worden dat deze door de directeur afgedaan moeten worden.
+
+##### Artikel 8
+
+Bij afwezigheid of verhindering van de directeur worden, voor de duur van de afwezigheid of verhindering, diens taken en bevoegdheden waargenomen door de plaatsvervangend directeur.
 
 #### § 5. Slotbepaling
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 9
+
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 mei 2020.
+
+2. Deze regeling wordt aangehaald als: Organisatie-, Mandaat- en Volmachtbesluit directie CIV SZW 2020.

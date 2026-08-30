@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 mei 2020, nr. MBO/24508460, houdende regels voor gegevensverstrekking over overstappende jongeren naar het middelbaar beroepsonderwijs (Regeling gegevensverstrekking bij overstap naar het mbo)"
+citeertitel: "Regeling gegevensverstrekking bij overstap naar het mbo"
 identifier: "BWBR0043822"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043822"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "15549373"
-version_id: "28479222"
-internal_id: "C40182011"
-label_id: "15491084"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043822/2022-08-01/0"
-intitule_bron: "Stcrt.2020-36712"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-05-20"
-intitule_published: "2020-07-10"
-intitule_in_force: "2020-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-993"
-original_signed_date: "2021-12-07"
-original_published_date: "2022-02-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-993"
-entry_into_force_date: "2021-12-07"
-jci_1_3: "jci1.3:c:BWBR0043822&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0043822&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gegevensverstrekking bij overstap naar het mbo"
-signed_date: "2021-12-07"
-entry_into_force: "2021-12-07"
+publicatiedatum: 2021-12-07
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0043822"
+opgehaald: 2026-08-30
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 mei 2020, nr. MBO/24508460, houdende regels voor gegevensverstrekking over overstappende jongeren naar het middelbaar beroepsonderwijs (Regeling gegevensverstrekking bij overstap naar het mbo)
-
-Gelet op [artikel 42b, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=42b), [artikel 27d, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=27d), [artikel 8.0.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.0.2), en [8.0.3, vijfde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=8.0.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- **leerling:**
+- *leerling:*
 
-- a. leerling aan een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) die een opleiding praktijkonderwijs of de basisberoepsgerichte, kaderberoepsgerichte, gemengde of theoretische leerweg volgt; of
+   - a. leerling aan een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) die een opleiding praktijkonderwijs of de basisberoepsgerichte, kaderberoepsgerichte, gemengde of theoretische leerweg volgt; of
 
-- b. leerling aan een school of instelling als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) die ingeschreven staat op het uitstroomprofiel vervolgonderwijs of het arbeidsmarktgerichte uitstroomprofiel.
+   - b. leerling aan een school of instelling als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) die ingeschreven staat op het uitstroomprofiel vervolgonderwijs of het arbeidsmarktgerichte uitstroomprofiel.
 
-- **overstappende leerling of vavo-student:** leerling of vavo-student die naar verwachting in het aankomend school- of studiejaar de opleiding zal vervolgen aan een beroepsopleiding in de zin van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
+- *overstappende leerling of vavo-student:* leerling of vavo-student die naar verwachting in het aankomend school- of studiejaar de opleiding zal vervolgen aan een beroepsopleiding in de zin van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-- **vavo-student:** vavo-student als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
+- *vavo-student:* vavo-student als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1).
 
-- **ICT-voorziening:** informatiesysteem dat beheerd wordt door de PO-Raad, de VO-raad, de MBO Raad en de Vereniging Nederlandse Gemeenten.
+- *ICT-voorziening:* informatiesysteem dat beheerd wordt door de PO-Raad, de VO-raad, de MBO Raad en de Vereniging Nederlandse Gemeenten.
 
 ##### Artikel 2. Levering gegevens van overstappende leerling of vavo-student
 
@@ -66,7 +40,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het registratienummer van de school of instelling waar de leerling of vavo-student op dat moment staat ingeschreven.
 
-2. De gegevens bedoeld in het eerste lid worden tussen 1 oktober en 1 februari geleverd.
+2. De gegevens bedoeld in het eerste lid worden tussen 1 oktober en 1 februari geleverd.
 
 3. De gegevens worden geleverd via de ICT-voorziening.
 
@@ -98,18 +72,14 @@ In deze regeling wordt verstaan onder:
 
 5. De gegevens worden geleverd via de ICT-voorziening.
 
-##### Artikel 4. Inwerkingtreding
-
-Deze regeling treedt in werking met ingang van 1 september 2020.
-
-##### Artikel 5. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling gegevensverstrekking bij overstap naar het mbo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 3a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 8.31, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=8.31).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 4. Inwerkingtreding
+
+Deze regeling treedt in werking met ingang van 1 september 2020.
+
+##### Artikel 5. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling gegevensverstrekking bij overstap naar het mbo.

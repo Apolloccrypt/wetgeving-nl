@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 2 oktober 2020, houdende bepalingen in verband met plantgezondheid (Besluit plantgezondheid)"
+citeertitel: "Besluit plantgezondheid"
 identifier: "BWBR0044299"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044299"
+categorie: "Gezondheidszorg"
 soort: "AMvB"
-stam_id: "15687543"
-version_id: "27179972"
-internal_id: "C38876901"
-label_id: "15626744"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044299/2021-03-01/0"
-intitule_bron: "Stb.2020-417"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-10-02"
-intitule_published: "2020-11-04"
-intitule_in_force: "2021-02-26"
-intitule_status: "goed"
-original_publication: "Stb.2020-417"
-original_signed_date: "2020-10-02"
-original_published_date: "2020-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-417"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044299&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0044299&g=2021-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit plantgezondheid"
-signed_date: "2020-10-02"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0044299"
+opgehaald: 2026-08-30
 ---
+
 # Besluit van 2 oktober 2020, houdende bepalingen in verband met plantgezondheid (Besluit plantgezondheid)
-
-Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, mede namens Onze Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, nr. WJZ / 20174665;
-
-Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=2), [20, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=20), [21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21) en [27, eerste lid, van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=27);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 augustus 2020, nr. W11.20.0232/IV);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 29 september 2020, nr. WJZ / 20233960;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -52,29 +20,30 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **ander materiaal:** ander materiaal als bedoeld in artikel 2, onder 5, van [verordening 2016/2031](32031R2016);
+- *ander materiaal:* ander materiaal als bedoeld in artikel 2, onder 5, van verordening 2016/2031;
 
-- **bloembollen:** bloembollen als bedoeld krachtens [artikel 10, tweede lid, onder e, van het Landbouwkwaliteitsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=10) en de voor opplant bestemde planten hiervan;
+- *bloembollen:* bloembollen als bedoeld krachtens [artikel 10, tweede lid, onder e, van het Landbouwkwaliteitsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=10) en de voor opplant bestemde planten hiervan;
 
-- **BKD:** Stichting Bloembollenkeuringsdienst;
+- *BKD:* Stichting Bloembollenkeuringsdienst;
 
-- **bosbouwgewassen:** bosbouwgewassen als bedoeld in [artikel 1, onder n, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1) en de voor opplant bestemde planten hiervan;
+- *bosbouwgewassen:* bosbouwgewassen als bedoeld in [artikel 1, onder n, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1) en de voor opplant bestemde planten hiervan;
 
-- **KCB:** Stichting Kwaliteits-Controle-Bureau;
+- *KCB:* Stichting Kwaliteits-Controle-Bureau;
 
-- **landbouwgewassen:** landbouwgewassen als bedoeld in [artikel 1, onder p, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1), de voor opplant bestemde planten hiervan alsmede andere gewassen die door hun productiewijze als zodanig aangemerkt kunnen worden en consumptieaardappelen;
+- *landbouwgewassen:* landbouwgewassen als bedoeld in [artikel 1, onder p, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1), de voor opplant bestemde planten hiervan alsmede andere gewassen die door hun productiewijze als zodanig aangemerkt kunnen worden en consumptieaardappelen;
 
-- **NAK:** Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;
+- *NAK:* Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;
 
-- **Naktuinbouw:** Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
+- *Naktuinbouw:* Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- **overtreder:** degene die de overtreding pleegt of mede pleegt;
+- *overtreder:* degene die de overtreding pleegt of mede pleegt;
 
-- **voor opplant bestemde planten:** planten als bedoeld in artikel 2, onder 4, van [verordening 2016/2031](32031R2016);
+- *voor opplant bestemde planten:* planten als bedoeld in artikel 2, onder 4, van verordening 2016/2031;
 
-- **tuinbouwgewassen:** tuinbouwgewassen als bedoeld in [artikel 1, onder o, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1) en de voor opplant bestemde planten hiervan, alsmede andere gewassen die door hun productiewijze als zodanig aangemerkt kunnen worden;
+- *tuinbouwgewassen:* tuinbouwgewassen als bedoeld in [artikel 1, onder o, van het Besluit verhandeling teeltmateriaal](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&artikel=1) en de voor opplant bestemde planten hiervan, alsmede andere gewassen die door hun productiewijze als zodanig aangemerkt kunnen worden;
 
-- **wet:** [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194).
+- *wet:*
+ [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194).
 
 ### Hoofdstuk 2. Bevoegde autoriteit
 
@@ -82,97 +51,97 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 De BKD wordt aangewezen als bevoegde autoriteit met betrekking tot bloembollen voor:
 
-- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van [verordening 2016/2031](32031R2016) bedoelde voorschriften;
+- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van verordening 2016/2031 bedoelde voorschriften;
 
-- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van [verordening 2016/2031](32031R2016);
+- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van verordening 2016/2031;
 
-- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van [verordening 2016/2031](32031R2016);
+- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van verordening 2016/2031;
 
-- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van [verordening 2016/2031](32031R2016);
+- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van verordening 2016/2031;
 
-- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van [verordening 2016/2031](32031R2016);
+- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van verordening 2016/2031;
 
 - f. de officiële controles:
 
-- 1°. aan grenscontroleposten als bedoeld in artikel 49 van [verordening 2017/625](32525R2017); en
+   - 1°. aan grenscontroleposten als bedoeld in artikel 49 van verordening 2017/625; en
 
-- 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van [verordening 2017/625](32525R2017);
+   - 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van verordening 2017/625;
 
-- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van [verordening 2016/2031](32031R2016), voor de EU-quarantaineorganismen, genoemd in de bijlage;
+- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van verordening 2016/2031, voor de EU-quarantaineorganismen, genoemd in de bijlage;
 
-- h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
+- h. het beslissen over zendingen als bedoeld in artikel 55 van verordening 2017/625.
 
 ##### Artikel 3
 
 De NAK wordt aangewezen als bevoegde autoriteit met betrekking tot landbouwgewassen voor:
 
-- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van [verordening 2016/2031](32031R2016) bedoelde voorschriften;
+- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van verordening 2016/2031 bedoelde voorschriften;
 
-- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in de artikel 89, eerste lid, van [verordening 2016/2031](32031R2016);
+- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in de artikel 89, eerste lid, van verordening 2016/2031;
 
-- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van [verordening 2016/2031](32031R2016);
+- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van verordening 2016/2031;
 
-- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van [verordening 2016/2031](32031R2016);
+- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van verordening 2016/2031;
 
-- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van [verordening 2016/2031](32031R2016);
+- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van verordening 2016/2031;
 
 - f. de officiële controles:
 
-- 1°. aan grenscontroleposten als bedoeld in artikel 49 van [verordening 2017/625](32525R2017); en
+   - 1°. aan grenscontroleposten als bedoeld in artikel 49 van verordening 2017/625; en
 
-- 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van [verordening 2017/625](32525R2017);
+   - 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van verordening 2017/625;
 
-- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van [verordening 2016/2031](32031R2016), voor de EU-quarantaineorganismen, genoemd in de bijlage;
+- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van verordening 2016/2031, voor de EU-quarantaineorganismen, genoemd in de bijlage;
 
-- h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
+- h. het beslissen over zendingen als bedoeld in artikel 55 van verordening 2017/625.
 
 ##### Artikel 4
 
 De Naktuinbouw wordt aangewezen als bevoegde autoriteit met betrekking tot tuinbouw- en bosbouwgewassen voor:
 
-- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van [verordening 2016/2031](32031R2016) bedoelde voorschriften;
+- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van verordening 2016/2031 bedoelde voorschriften;
 
-- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van [verordening 2016/2031](32031R2016);
+- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van verordening 2016/2031;
 
-- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van [verordening 2016/2031](32031R2016);
+- c. de afgifte, de vervanging, het ongeldig maken en het verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van verordening 2016/2031;
 
-- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van [verordening 2016/2031](32031R2016);
+- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van verordening 2016/2031;
 
-- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van [verordening 2016/2031](32031R2016);
+- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van verordening 2016/2031;
 
 - f. de officiële controles:
 
-- 1°. aan grenscontroleposten als bedoeld in artikel 49 van [verordening 2017/625](32525R2017); en
+   - 1°. aan grenscontroleposten als bedoeld in artikel 49 van verordening 2017/625; en
 
-- 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van [verordening 2017/625](32525R2017);
+   - 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van verordening 2017/625;
 
-- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van [verordening 2016/2031](32031R2016), voor de EU-quarantaineorganismen, genoemd in de bijlage;
+- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van verordening 2016/2031, voor de EU-quarantaineorganismen, genoemd in de bijlage;
 
-- h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
+- h. het beslissen over zendingen als bedoeld in artikel 55 van verordening 2017/625.
 
 ##### Artikel 5
 
 De KCB wordt aangewezen als bevoegde autoriteit met betrekking tot planten, plantaardige producten, voor opplant bestemde planten en ander materiaal voor:
 
-- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van [verordening 2016/2031](32031R2016) bedoelde voorschriften;
+- a. de officiële controles en andere officiële activiteiten ten aanzien van de bij of krachtens artikel 37 van verordening 2016/2031 bedoelde voorschriften;
 
-- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van [verordening 2016/2031](32031R2016);
+- b. het verlenen van een erkenning aan marktdeelnemers voor de afgifte van plantenpaspoorten, bedoeld in artikel 89, eerste lid, van verordening 2016/2031;
 
-- c. de afgifte, de vervanging, het ongeldig maken en verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van [verordening 2016/2031](32031R2016);
+- c. de afgifte, de vervanging, het ongeldig maken en verwijderen van plantenpaspoorten als bedoeld in de artikelen 84, tweede lid, 93, eerste en tweede lid en 95, tweede lid, van verordening 2016/2031;
 
-- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van [verordening 2016/2031](32031R2016);
+- d. het onderzoek voor de afgifte van een plantenpaspoort als bedoeld in artikel 87, tweede lid en derde lid, onderdeel c, van verordening 2016/2031;
 
-- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van [verordening 2016/2031](32031R2016);
+- e. inspecties en maatregelen met betrekking tot de erkende marktdeelnemers als bedoeld in artikel 92 van verordening 2016/2031;
 
 - f. de officiële controles:
 
-- 1°. aan grenscontroleposten als bedoeld in artikel 49 van [verordening 2017/625](32525R2017); en
+   - 1°. aan grenscontroleposten als bedoeld in artikel 49 van verordening 2017/625; en
 
-- 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van [verordening 2017/625](32525R2017);
+   - 2°. op andere controlepunten als bedoeld in artikel 53, eerste lid, onderdeel a, van verordening 2017/625;
 
-- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van [verordening 2016/2031](32031R2016), voor de EU-quarantaineorganismen, genoemd in de bijlage;
+- g. indien het onderzoek of de controle-activiteiten, bedoeld in de onderdelen a tot en met f, daartoe aanleiding geven, het opleggen van fytosanitaire maatregelen als bedoeld in bijlage II van verordening 2016/2031, voor de EU-quarantaineorganismen, genoemd in de bijlage;
 
-- h. het beslissen over zendingen als bedoeld in artikel 55 van [verordening 2017/625](32525R2017).
+- h. het beslissen over zendingen als bedoeld in artikel 55 van verordening 2017/625.
 
 ### Hoofdstuk 3. Preventie
 
@@ -210,7 +179,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de beheersing van r
 
 - f. de omzet van een professionele marktdeelnemer, behaald met de activiteiten die onderworpen zijn aan de officiële controles of andere officiële activiteiten van de bevoegde autoriteit; of
 
-- g. de omvang van het risico op niet-naleving van het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) of [verordening 2016/2031](32031R2016) bepaalde door de desbetreffende professionele marktdeelnemer.
+- g. de omvang van het risico op niet-naleving van het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194) of verordening 2016/2031 bepaalde door de desbetreffende professionele marktdeelnemer.
 
 ### Hoofdstuk 5. Bestuurlijke boete
 
@@ -247,35 +216,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit plantgezondheid.
-
-## Bijlage EU-quarantaineorganismen
-
-(bijlage als bedoeld in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&hoofdstuk=2&artikel=2&z=2021-03-01&g=2021-03-01), [3, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&hoofdstuk=2&artikel=3&z=2021-03-01&g=2021-03-01), [4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&hoofdstuk=2&artikel=4&z=2021-03-01&g=2021-03-01), en [5, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0044299&hoofdstuk=2&artikel=5&z=2021-03-01&g=2021-03-01), van het Besluit plantgezondheid)
-
-**Anthonomus eugenii** Cano
-
-**Bemisia tabaci** Genn (niet-Europese populaties) bekend als vector van virussen
-
-**Globodera pallida** (Stone) Behrens
-
-**Globodera rostochiensis** (Wollenweber) Behrens
-
-**Liriomyza sativae** (Blanchard)
-
-**Meloidogyne chitwoodi** Golden et al.
-
-**Meloidogyne fallax** Karssen
-
-**Rhizoecus hibisci** Kawai et Takagi
-
-**Spodoptera eridania** (Cramer)
-
-**Spodoptera frugiperda** (Smith)
-
-**Spodoptera litura** (Fabricus)
-
-Tephritidae (niet-Europese) zoals: Anastrepha fraterculus (Wiedemann), Anastrepha ludens (Loew), Anastrepha obliqua Macquart, Anastrepha suspensa (Loew), Bactrocera dorsalis (Hendel), Bactrocera tryoni (Froggatt), Bactrocera tsueonis (Miyake), Bactrocera zonata (Saunders), Dacus ciliatus Loew, Epochra canadensis (Loew), Pardalaspis cyanescens Bezzi, Pardalaspis quinaria Bezzi, Pterandrus rosa (Karsch), Rhacochlaena japonica Ito, Rhagoletis fausta (Osten-Sacken), Rhagoletis indifferens Curran, Rhagoletis mendax Curran, Rhagoletis pomonella (Walsh), Rhagoletis ribicola Doane, Rhagoletis suavis (Loew), Zeugodacus cucurbitae (Coquillett)
-
-**Thrips palmi** Karny
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

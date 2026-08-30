@@ -1,47 +1,18 @@
 ---
 title: "Wet van 24 juni 2020, houdende regels inzake invoering van een tijdelijke mogelijkheid voor experimenten in de rechtspleging (Tijdelijke Experimentenwet rechtspleging)"
+citeertitel: "Tijdelijke Experimentenwet rechtspleging"
 identifier: "BWBR0043790"
-country: "nl"
-rank: "wet"
-publication_date: "2023-04-01"
-last_updated: "2023-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0043790"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15541833"
-version_id: "26850092"
-internal_id: "C41703271"
-label_id: "15483794"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0043790/2023-04-01/0"
-intitule_bron: "Stb.2020-223"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-24"
-intitule_published: "2020-07-02"
-intitule_in_force: "2023-03-09"
-intitule_status: "goed"
-original_publication: "Stb.2020-223"
-original_signed_date: "2020-06-24"
-original_published_date: "2020-07-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "35263"
-original_url_id: "stb-2020-223"
-entry_into_force_date: "2023-04-01"
-jci_1_3: "jci1.3:c:BWBR0043790&z=2023-04-01&g=2023-04-01"
-jci_1_0: "1.0:c:BWBR0043790&g=2023-04-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke Experimentenwet rechtspleging"
-signed_date: "2020-06-24"
-entry_into_force: "2023-04-01"
+publicatiedatum: 2023-04-01
+laatste_update: 2023-04-01
+status: geldig
+toestand: 2023-04-01
+bron: "https://wetten.overheid.nl/BWBR0043790"
+opgehaald: 2026-08-30
 ---
+
 # Wet van 24 juni 2020, houdende regels inzake invoering van een tijdelijke mogelijkheid voor experimenten in de rechtspleging (Tijdelijke Experimentenwet rechtspleging)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een tijdelijke regeling te treffen die het mogelijk maakt om met het oog op het bevorderen van eenvoudige, snelle, effectieve en de-escalerende geschilbeslechting, bij wijze van experiment en derhalve voordat besloten wordt tot definitieve aanpassing van enkele wetten die betrekking hebben op de rechtspraak en de rechtspleging, voor een bepaalde periode af te wijken van die wetten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -133,7 +104,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 2. In een zaak waarop de algemene maatregel van bestuur, bedoeld in het eerste lid van toepassing is, kan de rechter de zaak ambtshalve en op verzoek verwijzen naar een kamer waaraan een deskundig lid is toegevoegd.
 
-3. De toegevoegd deskundige leden worden benoemd door het bestuur van een gerecht en leggen alvorens zij met hun werkzaamheden aanvangen, de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [bijlage bij de Wet op de rechterlijke organisatie](onbekend).
+3. De toegevoegd deskundige leden worden benoemd door het bestuur van een gerecht en leggen alvorens zij met hun werkzaamheden aanvangen, de eed of belofte af volgens het formulier zoals dat is vastgesteld in de [bijlage bij de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/BWBR0001830).
 
 4. Op het toegevoegd deskundige lid zijn de volgende artikelen van overeenkomstige toepassing:
 
@@ -141,11 +112,11 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 - b. de [artikelen 44, eerste, vierde tot en met achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), en [44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a), met dien verstande dat
 
-- i. het bestuur van het gerecht wordt aangemerkt als zijn functionele autoriteit,
+   - i. het bestuur van het gerecht wordt aangemerkt als zijn functionele autoriteit,
 
-- ii. dit lid voor de overeenkomstige toepassing van [artikel 44, eerste en zevende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44) wordt gelijkgesteld met plaatsvervangers in hetzelfde gerecht, en
+   - ii. dit lid voor de overeenkomstige toepassing van [artikel 44, eerste en zevende lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44) wordt gelijkgesteld met plaatsvervangers in hetzelfde gerecht, en
 
-- iii. de president van het gerecht ten aanzien van dit lid de bevoegdheid, bedoeld in [artikel 44, zesde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44) uitoefent.
+   - iii. de president van het gerecht ten aanzien van dit lid de bevoegdheid, bedoeld in [artikel 44, zesde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44) uitoefent.
 
 ##### Artikel 6
 
@@ -166,5 +137,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 9
 
 Deze wet wordt aangehaald als: Tijdelijke Experimentenwet rechtspleging.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
