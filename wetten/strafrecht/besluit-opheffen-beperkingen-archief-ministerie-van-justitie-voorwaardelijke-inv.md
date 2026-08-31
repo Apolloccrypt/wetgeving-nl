@@ -1,48 +1,18 @@
 ---
 title: "Besluit betreffende het opheffen van de beperkingen gesteld aan het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115"
+citeertitel: "Besluit opheffen beperkingen archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115"
 identifier: "BWBR0045085"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "2021-05-04"
-last_updated: "2021-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045085"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "15941313"
-version_id: "27737412"
-internal_id: "C39127301"
-label_id: "15875774"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045085/2021-05-04/0"
-intitule_bron: "Stcrt.2021-21428"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-14"
-intitule_published: "2021-05-03"
-intitule_in_force: "2021-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-21428"
-original_signed_date: "2021-04-14"
-original_published_date: "2021-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-21428"
-entry_into_force_date: "2021-05-04"
-jci_1_3: "jci1.3:c:BWBR0045085&z=2021-05-04&g=2021-05-04"
-jci_1_0: "1.0:c:BWBR0045085&g=2021-05-04"
-citeertitel_status: "redactioneel"
-short_title: "Besluit opheffen beperkingen archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115"
-signed_date: "2021-04-14"
-entry_into_force: "2021-05-04"
+publicatiedatum: 2021-05-04
+laatste_update: 2021-05-04
+status: geldig
+toestand: 2021-05-04
+bron: "https://wetten.overheid.nl/BWBR0045085"
+opgehaald: 2026-08-31
 ---
+
 # Besluit betreffende het opheffen van de beperkingen gesteld aan het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen 1950–1978, nummer toegang 2.09.115
-
-Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
-
-Gelet op het [Besluit beperkingen openbaarheid van de minister van Justitie van 14 juli 2010, behorende bij de Verklaring van Overbrenging van 24 februari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028190),
-
-Gehoord hebbende de minister van Justitie en Veiligheid,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,13 +63,13 @@ De beperkingen die zijn gesteld aan de openbaarheid van de archiefbescheiden geb
 | 189 t/m 196 | 435 | 676 t/m 679 | 924 t/m 926 | 1154 t/m 1160 |
 | 198 | 436 | 681 t/m 685 | 928 t/m 937 | 1162 t/m 1165 |
 | 200 | 445 t/m 449 | 687 t/m 690 | 939 | 1167 t/m 1173 |
-| 202 t/m 208 | 451 t/m 456 | 692 t/m 697 | 942 t/m 950 |   |
+| 202 t/m 208 | 451 t/m 456 | 692 t/m 697 | 942 t/m 950 |  |
 
 Van het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen worden opgeheven.
 
 ##### Artikel 2
 
-De beperkingen die zijn gesteld aan de openbaarheid van de archiefbescheiden geborgen in de overige inventarisnummers van het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen worden opgeheven wanneer ten genoege van de algemene rijksarchivaris kan worden aangetoond dat de persoon op wie het dossier betrekking heeft is overleden óf op 1 januari van het jaar dat volgt op het jaar waarin de betrokken persoon meer dan 100 jaar geleden geboren is.
+De beperkingen die zijn gesteld aan de openbaarheid van de archiefbescheiden geborgen in de overige inventarisnummers van het archief Ministerie van Justitie: Voorwaardelijke Invrijheidstellingen worden opgeheven wanneer ten genoege van de algemene rijksarchivaris kan worden aangetoond dat de persoon op wie het dossier betrekking heeft is overleden óf op 1 januari van het jaar dat volgt op het jaar waarin de betrokken persoon meer dan 100 jaar geleden geboren is.
 
 ##### Artikel 3
 

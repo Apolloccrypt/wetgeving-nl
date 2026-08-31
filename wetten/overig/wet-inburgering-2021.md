@@ -1,149 +1,66 @@
 ---
 title: "Wet van 2 december 2020, houdende regels over inburgering in de Nederlandse samenleving (Wet inburgering 2021)"
+citeertitel: "Wet inburgering 2021"
 identifier: "BWBR0044770"
-country: "nl"
-rank: "wet"
-publication_date: "2025-10-21"
-last_updated: "2025-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044770"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15831553"
-version_id: "27488112"
-internal_id: "C39785951"
-label_id: "15768884"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044770/2025-10-21/0"
-intitule_bron: "Stb.2021-38"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-02"
-intitule_published: "2021-02-02"
-intitule_in_force: "2021-12-03"
-intitule_status: "goed"
-original_publication: "Stb.2021-38"
-original_signed_date: "2020-12-02"
-original_published_date: "2021-02-02"
-original_effect: "nieuwe-regeling"
-original_dossier: "35483"
-original_url_id: "stb-2021-38"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0044770&z=2025-10-21&g=2025-10-21"
-jci_1_0: "1.0:c:BWBR0044770&g=2025-10-21"
-citeertitel_status: "officieel"
-short_title: "Wet inburgering 2021"
-signed_date: "2020-12-02"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2025-10-21
+status: geldig
+toestand: 2025-10-21
+bron: "https://wetten.overheid.nl/BWBR0044770"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 2 december 2020, houdende regels over inburgering in de Nederlandse samenleving (Wet inburgering 2021)
 
 ### Hoofdstuk 1. Inleidende bepalingen
-
-### Hoofdstuk 1. Inleidende bepalingen
-
-### Hoofdstuk 3. De inburgeringsplicht
-
-### Hoofdstuk 4. De inburgeringstermijn
-
-### Hoofdstuk 2. Inburgeringsplichtig
-
-### Hoofdstuk 6. Sociale lening
-
-### Hoofdstuk 7. Handhaving
-
-### Hoofdstuk 8. Overheidscertificering en keurmerk
-
-### Hoofdstuk 3. De inburgeringsplicht
-
-### Hoofdstuk 10. Financiering, toezicht en informatie
-
-### Hoofdstuk 11. Wijziging van andere wetten
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-##### Artikel 53. Evaluatie
-
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk. Daarbij wordt in het bijzonder aandacht besteed aan de mate waarin en de wijze waarop afspraken over het deelnemen aan voorschoolse educatie, bedoeld in [artikel 1.1 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), of de vroegschoolse educatie, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), bijdragen aan het deelnemen aan voor- en vroegschoolse educatie bij deze groep.
-
-##### Artikel 54. Intrekking van de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611)
-
-1. De [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de personen op wie deze wet van toepassing was op de dag voorafgaand aan de inwerkingtreding van deze wet.
-
-2. De [artikelen 18b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18b), [64, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=64), en [67, eerste lid, onderdeel h, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=67), [artikel 7.3.1, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), de [artikelen 16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), en [18, eerste lid, onderdeel i, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), de [artikelen 45, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=48), de [artikelen 45, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=48), [artikel 1, begripsbepaling «onderwijsdeelnemer», onderdeel c, onder 2°, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=1), [artikel 54, derde lid, onderdeel m, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54) en artikel 2 van [bijlage 3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3), zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing op de personen, bedoeld in het eerste lid.
-
-3. Een vrijstelling op grond van het bepaalde bij of krachtens [artikel 5, eerste lid, onderdeel e, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), wordt beschouwd als een vrijstelling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=4&z=2025-10-21&g=2025-10-21), van deze wet.
-
-4. Bij of krachtens algemene maatregel van bestuur kunnen, in afwijking van de bij of krachtens algemene maatregel van bestuur op grond van de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), [8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), en [16, vijfde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) gestelde regels, ter begunstiging regels worden gesteld:
-
-- a. omtrent de voorwaarden waaronder en de termijn waarbinnen een ontheffing kan worden afgegeven;
-
-- b. omtrent de voorwaarden waaronder de termijnen op grond van de [artikelen 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a), en [7b, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b) kunnen worden verlengd;
-
-- c. waarmee de verplichting om de lening terug te betalen wanneer sprake is van overschrijding van de termijnen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a) en [7b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b), wordt beperkt of tenietgedaan, en omtrent het vaststellen van de draagkracht ten behoeve van de terugbetaling van de lening.
-
-5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het aanbieden van begeleiding aan de inburgeringsplichtige op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing is ter bespoediging van de afronding van de inburgeringsplicht, bedoeld in die wet.
-
-6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot een goede uitvoering van het eerste lid.
-
-7. [Artikel 32, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=32&z=2025-10-21&g=2025-10-21), en de daarop berustende bepalingen, zijn van overeenkomstige toepassing op het keurmerk, bedoeld in [artikel 12a van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=12a).
-
-##### Artikel 55. Inwerkingtreding
-
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-##### Artikel 56. Citeertitel
-
-Deze wet wordt aangehaald als: Wet inburgering met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het huidige stelsel van inburgering in de Nederlandse samenleving te herzien opdat inburgeringsplichtigen, de gemeenten en de rijksoverheid optimaal in positie worden gebracht met als doel dat inburgeringsplichtigen zo snel mogelijk de Nederlandse taal leren op het voor hen hoogst haalbare niveau en volwaardig aan de Nederlandse samenleving gaan deelnemen, bij voorkeur door middel van betaald werk;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **brede intake:** brede intake, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2025-10-21&g=2025-10-21);
+- *brede intake:* brede intake, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=14&z=2025-10-21&g=2025-10-21);
 
-- **college:** college van burgemeester en wethouders van de gemeente waar de inburgeringsplichtige woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11), met dien verstande dat als de inburgeringsplichtige rechtmatig verblijf heeft op grond van een verblijfsvergunning asiel voor bepaalde tijd, het gaat om de gemeente waar hij op grond van [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) gehuisvest is;
+- *college:* college van burgemeester en wethouders van de gemeente waar de inburgeringsplichtige woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11), met dien verstande dat als de inburgeringsplichtige rechtmatig verblijf heeft op grond van een verblijfsvergunning asiel voor bepaalde tijd, het gaat om de gemeente waar hij op grond van [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) gehuisvest is;
 
-- **cursusinstelling:** de aanbieder van onderwijs, gericht op het voldoen aan de inburgeringsplicht;
+- *cursusinstelling:* de aanbieder van onderwijs, gericht op het voldoen aan de inburgeringsplicht;
 
-- **geestelijke bedienaar:** persoon die een geestelijk, godsdienstig of levensbeschouwelijk ambt bekleedt, werkzaamheden verricht als geestelijk voorganger, godsdienstleraar of zendeling, of voor een kerkgenootschap of ander genootschap op geestelijke of levensbeschouwelijke grondslag werkzaamheden van overwegend godsdienstige, geestelijke of levensbeschouwelijke aard verricht;
+- *geestelijke bedienaar:* persoon die een geestelijk, godsdienstig of levensbeschouwelijk ambt bekleedt, werkzaamheden verricht als geestelijk voorganger, godsdienstleraar of zendeling, of voor een kerkgenootschap of ander genootschap op geestelijke of levensbeschouwelijke grondslag werkzaamheden van overwegend godsdienstige, geestelijke of levensbeschouwelijke aard verricht;
 
-- **inburgeringsexamen:** examen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21);
+- *inburgeringsexamen:* examen, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21);
 
-- **inburgeringsplicht:** inburgeringsplicht, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
+- *inburgeringsplicht:* inburgeringsplicht, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
 
-- **inburgeringsplichtige:** persoon die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=3&z=2025-10-21&g=2025-10-21) inburgeringsplichtig is;
+- *inburgeringsplichtige:* persoon die op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=3&z=2025-10-21&g=2025-10-21) inburgeringsplichtig is;
 
-- **leerroute:** route, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2025-10-21&g=2025-10-21);
+- *leerroute:* route, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2025-10-21&g=2025-10-21);
 
-- **module Arbeidsmarkt en Participatie:** module, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
+- *module Arbeidsmarkt en Participatie:* module, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
 
-- **onderwijsroute:** route, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21);
+- *onderwijsroute:* route, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21);
 
-- **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- **participatieverklaringstraject:** participatieverklaringstraject, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
+- *participatieverklaringstraject:* participatieverklaringstraject, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=6&z=2025-10-21&g=2025-10-21);
 
-- **taalschakeltraject:** taalschakeltraject, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21);
+- *taalschakeltraject:* taalschakeltraject, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=8&z=2025-10-21&g=2025-10-21);
 
-- **verblijfsvergunning asiel voor bepaalde tijd:** verblijfsvergunning, bedoeld in [artikel 28, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
+- *verblijfsvergunning asiel voor bepaalde tijd:* verblijfsvergunning, bedoeld in [artikel 28, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
 
-- **verblijfsvergunning regulier voor bepaalde tijd:** verblijfsvergunning, bedoeld in [artikel 14, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
+- *verblijfsvergunning regulier voor bepaalde tijd:* verblijfsvergunning, bedoeld in [artikel 14, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14);
 
-- **Wet inburgering:** de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611), zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet;
+- *Wet inburgering:* de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611), zoals die wet luidde de dag voorafgaand aan de inwerkingtreding van deze wet;
 
-- **zelfredzaamheidsroute:** traject, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2025-10-21&g=2025-10-21).
+- *zelfredzaamheidsroute:* traject, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=9&z=2025-10-21&g=2025-10-21).
 
 2. Bij ministeriële regeling kan de geestelijke bedienaar, bedoeld in het eerste lid, nader worden omschreven.
 
 ##### Artikel 2. Rechtshandelingen door minderjarigen
 
 Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk zijn voor de uitoefening en de nakoming van de voor hem uit deze wet en de daarop berustende bepalingen voortvloeiende rechten en verplichtingen.
+
+### Hoofdstuk 2. Inburgeringsplichtig
 
 ##### Artikel 3. Inburgeringsplichtig
 
@@ -157,9 +74,9 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 - a. de persoon die onderdaan is van een lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;
 
-- b. het familielid van de persoon, bedoeld in onderdeel a, dat onderdaan is van een derde staat en dat uit hoofde van [richtlijn 2004/38/EG](32004L0038), de Overeenkomst betreffende de Europese Economische Ruimte of de Overeenkomst tussen de Europese Gemeenschappen en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen, gerechtigd is Nederland binnen te komen en er te verblijven;
+- b. het familielid van de persoon, bedoeld in onderdeel a, dat onderdaan is van een derde staat en dat uit hoofde van richtlijn 2004/38/EG, de Overeenkomst betreffende de Europese Economische Ruimte of de Overeenkomst tussen de Europese Gemeenschappen en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen, gerechtigd is Nederland binnen te komen en er te verblijven;
 
-- c. de vreemdeling die ingevolge de wetgeving van een lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte heeft voldaan aan een inburgeringsvereiste om de status van langdurig ingezetene in de zin van [richtlijn 2003/109/EG](32003L0109) van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 16), gewijzigd door [richtlijn 2011/51](32011L0051)/EU van het Europees Parlement en de Raad teneinde haar werkingssfeer uit te breiden tot personen die internationale bescherming genieten (PbEU 2011, L 132) te verkrijgen;
+- c. de vreemdeling die ingevolge de wetgeving van een lidstaat van de Europese Unie of een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte heeft voldaan aan een inburgeringsvereiste om de status van langdurig ingezetene in de zin van richtlijn 2003/109/EG van 25 november 2003 betreffende de status van langdurig ingezeten onderdanen van derde landen (PbEU L 16), gewijzigd door richtlijn 2011/51/EU van het Europees Parlement en de Raad teneinde haar werkingssfeer uit te breiden tot personen die internationale bescherming genieten (PbEU 2011, L 132) te verkrijgen;
 
 - d. de persoon die anderszins op grond van bepalingen van verdragen of besluiten van volkenrechtelijke organisaties geen inburgeringsplicht kan worden opgelegd.
 
@@ -198,6 +115,8 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de toepassing van het eerste lid, waarbij in ieder geval regels worden gesteld met betrekking tot de wijze waarop de belemmering kan worden aangetoond en de omstandigheden waaronder daarvoor gemaakte kosten vergoed worden.
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het tweede lid.
+
+### Hoofdstuk 3. De inburgeringsplicht
 
 ##### Artikel 6. De inburgeringsplicht
 
@@ -269,7 +188,7 @@ Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk 
 
 ##### Artikel 10. Voorbereiding op de inburgering
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over een aanbod tot voorbereiding op de inburgering voor de inburgeringsplichtige die nog niet is ingeschreven in de gemeente waar hij op grond van [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) wordt gehuisvest, alsmede over de financiering van dat aanbod. Bij ministeriële regeling kan een instelling worden aangewezen die belast is met de voorbereiding op de inburgering.
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over een aanbod tot voorbereiding op de inburgering voor de inburgeringsplichtige die nog niet is ingeschreven in de gemeente waar hij op grond van [artikel 28 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) wordt gehuisvest, alsmede over de financiering van dat aanbod. Bij ministeriële regeling kan een instelling worden aangewezen die belast is met de voorbereiding op de inburgering.
 
 ### Hoofdstuk 4. De inburgeringstermijn
 
@@ -309,11 +228,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 - b. verblijfsvergunning regulier voor bepaalde tijd, verleend onder een beperking verband houdend met verblijf als familie- of gezinslid, voor verblijf bij een houder van een:
 
-- 1°. verblijfsvergunning asiel voor bepaalde tijd;
+   - 1°. verblijfsvergunning asiel voor bepaalde tijd;
 
-- 2°. verblijfsvergunning asiel voor onbepaalde tijd als bedoeld in [artikel 33 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33); of
+   - 2°. verblijfsvergunning asiel voor onbepaalde tijd als bedoeld in [artikel 33 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=33); of
 
-- 3°. EU-verblijfsvergunning voor langdurig ingezetene die is verleend met een aantekening internationale bescherming als bedoeld in [artikel 45c, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45c).
+   - 3°. EU-verblijfsvergunning voor langdurig ingezetene die is verleend met een aantekening internationale bescherming als bedoeld in [artikel 45c, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45c).
 
 2. De maatschappelijke begeleiding bevat in ieder geval de volgende componenten:
 
@@ -391,7 +310,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 2. Wanneer het college van oordeel is dat er sprake is van onvoldoende voortgang of een grotere voortgang dan op grond van het persoonlijke plan inburgering en participatie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=5&artikel=15&z=2025-10-21&g=2025-10-21), was te verwachten, kan het college op een bij algemene maatregel van bestuur te bepalen termijn de door de inburgeringsplichtige te volgen leerroute opnieuw vaststellen.
 
-3. Wanneer, na aanzienlijke inspanningen van de inburgeringsplichtige die de leerroute, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21) volgt, uit de relevante feiten en omstandigheden blijkt dat deze inburgeringsplichtige niet in staat is het niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2025-10-21&g=2025-10-21), de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2025-10-21&g=2025-10-21) verlengde termijn, of de op grond van [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2025-10-21&g=2025-10-21), vastgestelde nieuwe termijn, kan het college bepalen dat de mondelinge en schriftelijke vaardigheden in de Nederlandse taal, in afwijking van artikel 7, eerste lid, onderdeel a, geheel of gedeeltelijk op het niveau A2 worden geëxamineerd.
+3. Wanneer, na aanzienlijke inspanningen van de inburgeringsplichtige die de leerroute, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=3&artikel=7&z=2025-10-21&g=2025-10-21) volgt, uit de relevante feiten en omstandigheden blijkt dat deze inburgeringsplichtige niet in staat is het niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen te behalen binnen de termijn, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=11&z=2025-10-21&g=2025-10-21), de op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=4&artikel=12&z=2025-10-21&g=2025-10-21) verlengde termijn, of de op grond van [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2025-10-21&g=2025-10-21), vastgestelde nieuwe termijn, kan het college bepalen dat de mondelinge en schriftelijke vaardigheden in de Nederlandse taal, in afwijking van artikel 7, eerste lid, onderdeel a, geheel of gedeeltelijk op het niveau A2 worden geëxamineerd.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het derde lid waarbij in ieder geval regels worden gesteld over de aanzienlijke inspanningen.
 
@@ -477,13 +396,13 @@ Dit hoofdstuk is van toepassing op de inburgeringsplichtige die verblijf heeft o
 
 1. De bestuurlijke boetes, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2025-10-21&g=2025-10-21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2025-10-21&g=2025-10-21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2025-10-21&g=2025-10-21) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2025-10-21&g=2025-10-21), zijn niet hoger dan:
 
-- a. € 250 voor de boetes, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2025-10-21&g=2025-10-21);
+- a. € 250 voor de boetes, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=22&z=2025-10-21&g=2025-10-21);
 
-- b. € 340 voor de boete, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2025-10-21&g=2025-10-21);
+- b. € 340 voor de boete, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=24&z=2025-10-21&g=2025-10-21);
 
-- c. € 800 voor de boetes, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2025-10-21&g=2025-10-21);
+- c. € 800 voor de boetes, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=23&z=2025-10-21&g=2025-10-21);
 
-- d. € 1 000 voor de boete, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2025-10-21&g=2025-10-21).
+- d. € 1 000 voor de boete, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=7&artikel=25&z=2025-10-21&g=2025-10-21).
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boetes en de omstandigheden waaronder deze worden opgelegd. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -581,9 +500,9 @@ Onze Minister verstrekt, uit eigen beweging of op verzoek, aan:
 
 4. De door Onze Minister aangewezen organisaties die belast zijn met de uitvoering van een internationale diplomawaardering verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn in verband met die diplomawaardering.
 
-5. Onze Minister van Onderwijs, Cultuur en Wetenschap en het College voor toetsen en examens, genoemd in [artikel 2 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn voor de handhaving van de inburgeringsplicht en de examinering.
+5. Onze Minister van Onderwijs, Cultuur en Wetenschap en het College voor toetsen en examens, genoemd in [artikel 2 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) verstrekken, uit eigen beweging of op verzoek, aan Onze Minister de gegevens die noodzakelijk zijn voor de handhaving van de inburgeringsplicht en de examinering.
 
-6. Het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2), verstrekt Onze Minister gegevens over de verblijfsplaats van de inburgeringsplichtige, waaronder de verblijfsplaats waar de inburgeringsplichtige op grond van [artikel 28 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) zal worden gehuisvest.
+6. Het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2), verstrekt Onze Minister gegevens over de verblijfsplaats van de inburgeringsplichtige, waaronder de verblijfsplaats waar de inburgeringsplichtige op grond van [artikel 28 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=28) zal worden gehuisvest.
 
 ##### Artikel 35. Gegevensverstrekking door en aan het college
 
@@ -639,6 +558,14 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de betaalbaarstelling van de uitkering.
 
+##### Artikel 40a. Aanpassing van de uitkering
+
+1. Het totale bedrag, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2025-10-21&g=2025-10-21), voor de uitkering, bedoeld in artikel 40, eerste lid, wordt in het jaar waarop het bedrag betrekking heeft, eenmalig bij wet herzien op basis van bij algemene maatregel van bestuur te bepalen geactualiseerde gegevens.
+
+2. Bij herziening van het totale bedrag, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2025-10-21&g=2025-10-21), wordt aangepast, binnen een periode van vier weken na de herziening door Onze Minister bekendgemaakt.
+
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de herziening, bedoeld in het tweede lid.
+
 ##### Artikel 41. Aanpassing van de uitkering
 
 1. Het totale bedrag, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2025-10-21&g=2025-10-21), voor de uitkering, bedoeld in artikel 40, eerste lid, wordt na afloop van het jaar waarop het bedrag betrekking heeft bij of krachtens de wet bijgesteld op basis van het werkelijke volume van inburgeringsplichtigen in Nederland in het uitvoeringsjaar.
@@ -659,72 +586,90 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de terugvordering. Daarbij kan worden bepaald dat een gedeelte van het niet bestede deel van de uitkering niet wordt teruggevorderd.
 
-### Hoofdstuk 11. Wijziging van andere wetten
-
-##### Artikel 43. Wijziging van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
-
-Wijzigt de Gemeentewet.
-
-##### Artikel 44. Wijziging van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
-
-Wijzigt de Participatiewet.
-
-##### Artikel 45. Wijziging van de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
-
-Wijzigt de Wet educatie en beroepsonderwijs.
-
-##### Artikel 46. Wijziging van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823)
-
-Wijzigt de Vreemdelingenwet 2000.
-
-##### Artikel 47. Wijziging van de [Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
-
-Wijzigt de Wet kinderopvang.
-
-##### Artikel 48. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
-
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
-
-##### Artikel 49. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
-
-Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
-
-##### Artikel 50. Wijziging van de [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012)
-
-Wijzigt de Wet register onderwijsdeelnemers.
-
-##### Artikel 51. Wijziging van de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
-
-Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
-
-##### Artikel 52. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
-
-Wijzigt de Algemene wet bestuursrecht.
-
-### Hoofdstuk 12. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel 40a. Aanpassing van de uitkering
-
-1. Het totale bedrag, bedoeld in [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2025-10-21&g=2025-10-21), voor de uitkering, bedoeld in artikel 40, eerste lid, wordt in het jaar waarop het bedrag betrekking heeft, eenmalig bij wet herzien op basis van bij algemene maatregel van bestuur te bepalen geactualiseerde gegevens.
-
-2. Bij herziening van het totale bedrag, wordt het bedrag waarmee de uitkering, bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=10&artikel=40&z=2025-10-21&g=2025-10-21), wordt aangepast, binnen een periode van vier weken na de herziening door Onze Minister bekendgemaakt.
-
-3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de herziening, bedoeld in het tweede lid.
-
 ##### Artikel 42a. Specifieke uitkering onderwijsroute
 
 1. Onze Minister verstrekt een specifieke uitkering aan het college ten behoeve van het realiseren van aanbod voor de onderwijsroute en voor voorzieningen die, totdat dat aanbod is gerealiseerd, voor de doelgroep van de onderwijsroute worden getroffen vanwege de vertraging die als gevolg van het ontbreken van aanbod van de onderwijsroute is ontstaan.
 
 2. Bij ministeriële regeling worden nadere regels gesteld ter uitwerking van de specifieke uitkering, bedoeld in het eerste lid, waaronder in ieder geval over de bestedingseisen van de uitkering, de bevoorschotting, de hoogte van de uitkering, de verdeling onder de gemeenten en de verantwoording door het college.
 
-3. Onze Minister kan de uitkering geheel of gedeeltelijk terugvorderen indien niet uit de informatie die is verstrekt op grond van [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) blijkt dat de uitkering is besteed in overeenstemming met het eerste lid.
+3. Onze Minister kan de uitkering geheel of gedeeltelijk terugvorderen indien niet uit de informatie die is verstrekt op grond van [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) blijkt dat de uitkering is besteed in overeenstemming met het eerste lid.
 
 4. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat het van toepassing blijft op geschillen die op dat tijdstip in bezwaar, beroep of hoger beroep aanhangig zijn met betrekking tot besluiten van Onze Minister die op grond van dit artikel zijn genomen.
 
 ### Hoofdstuk 11. Wijziging van andere wetten
 
+##### Artikel 43. Wijziging van de Gemeentewet
+
+*Wijzigt de Gemeentewet.*
+
+##### Artikel 44. Wijziging van de Participatiewet
+
+*Wijzigt de Participatiewet.*
+
+##### Artikel 45. Wijziging van de Wet educatie en beroepsonderwijs
+
+*Wijzigt de Wet educatie en beroepsonderwijs.*
+
+##### Artikel 46. Wijziging van de Vreemdelingenwet 2000
+
+*Wijzigt de Vreemdelingenwet 2000.*
+
+##### Artikel 47. Wijziging van de Wet kinderopvang
+
+*Wijzigt de Wet kinderopvang.*
+
+##### Artikel 48. Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
+
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.*
+
+##### Artikel 49. Wijziging van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
+
+*Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.*
+
+##### Artikel 50. Wijziging van de Wet register onderwijsdeelnemers
+
+*Wijzigt de Wet register onderwijsdeelnemers.*
+
+##### Artikel 51. Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen
+
+*Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.*
+
+##### Artikel 52. Wijziging van de Algemene wet bestuursrecht
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
 ### Hoofdstuk 12. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 53. Evaluatie
+
+Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten in de praktijk. Daarbij wordt in het bijzonder aandacht besteed aan de mate waarin en de wijze waarop afspraken over het deelnemen aan voorschoolse educatie, bedoeld in [artikel 1.1 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1), of de vroegschoolse educatie, bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), bijdragen aan het deelnemen aan voor- en vroegschoolse educatie bij deze groep.
+
+##### Artikel 54. Intrekking van de Wet inburgering
+
+1. De [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de personen op wie deze wet van toepassing was op de dag voorafgaand aan de inwerkingtreding van deze wet.
+
+2. De [artikelen 18b, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18b), [64, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=64), en [67, eerste lid, onderdeel h, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=67), [artikel 7.3.1, vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), de [artikelen 16, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=16), en [18, eerste lid, onderdeel i, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=18), de [artikelen 45, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=48), de [artikelen 45, eerste lid, onderdeel n](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=45), en [48, eerste lid, onderdeel h, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=48), [artikel 1, begripsbepaling «onderwijsdeelnemer», onderdeel c, onder 2°, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=1), [artikel 54, derde lid, onderdeel m, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54) en artikel 2 van [bijlage 3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=3), zoals die artikelen luidden op de dag voorafgaand aan de inwerkingtreding van deze wet, blijven van toepassing op de personen, bedoeld in het eerste lid.
+
+3. Een vrijstelling op grond van het bepaalde bij of krachtens [artikel 5, eerste lid, onderdeel e, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), wordt beschouwd als een vrijstelling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=2&artikel=4&z=2025-10-21&g=2025-10-21), van deze wet.
+
+4. Bij of krachtens algemene maatregel van bestuur kunnen, in afwijking van de bij of krachtens algemene maatregel van bestuur op grond van de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6), [8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=8), en [16, vijfde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=16) gestelde regels, ter begunstiging regels worden gesteld:
+
+- a. omtrent de voorwaarden waaronder en de termijn waarbinnen een ontheffing kan worden afgegeven;
+
+- b. omtrent de voorwaarden waaronder de termijnen op grond van de [artikelen 7a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a), en [7b, derde lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b) kunnen worden verlengd;
+
+- c. waarmee de verplichting om de lening terug te betalen wanneer sprake is van overschrijding van de termijnen, genoemd in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7a) en [7b, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7b), wordt beperkt of tenietgedaan, en omtrent het vaststellen van de draagkracht ten behoeve van de terugbetaling van de lening.
+
+5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het aanbieden van begeleiding aan de inburgeringsplichtige op wie de [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) van toepassing is ter bespoediging van de afronding van de inburgeringsplicht, bedoeld in die wet.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot een goede uitvoering van het eerste lid.
+
+7. [Artikel 32, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&hoofdstuk=8&artikel=32&z=2025-10-21&g=2025-10-21), en de daarop berustende bepalingen, zijn van overeenkomstige toepassing op het keurmerk, bedoeld in [artikel 12a van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=12a).
+
+##### Artikel 55. Inwerkingtreding
+
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+##### Artikel 56. Citeertitel
+
+Deze wet wordt aangehaald als: Wet inburgering met vermelding van het jaartal van het Staatsblad waarin zij zal worden geplaatst.

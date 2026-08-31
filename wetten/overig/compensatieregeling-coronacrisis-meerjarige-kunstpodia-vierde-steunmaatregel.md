@@ -1,82 +1,59 @@
 ---
 title: "Compensatieregeling Coronacrisis Meerjarige Kunstpodia Vierde Steunmaatregel"
 identifier: "BWBR0045515"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-08-20"
-last_updated: "2021-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045515"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16046773"
-version_id: "27953642"
-internal_id: "C39438891"
-label_id: "15979494"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045515/2021-08-20/0"
-intitule_bron: "Stcrt.2021-38235"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-08-19"
-intitule_in_force: "2021-08-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-38235"
-original_published_date: "2021-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-38235"
-entry_into_force_date: "2021-08-20"
-jci_1_3: "jci1.3:c:BWBR0045515&z=2021-08-20&g=2021-08-20"
-jci_1_0: "1.0:c:BWBR0045515&g=2021-08-20"
-citeertitel_status: "officieel"
-entry_into_force: "2021-08-20"
+publicatiedatum: 2021-08-20
+laatste_update: 2021-08-20
+status: geldig
+toestand: 2021-08-20
+bron: "https://wetten.overheid.nl/BWBR0045515"
+opgehaald: 2026-08-31
 ---
+
 # Compensatieregeling Coronacrisis Meerjarige Kunstpodia Vierde Steunmaatregel
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en op de [Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043634).
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
-- 1. **het fonds:** het Mondriaan Fonds,
+- 1. *het fonds:* het Mondriaan Fonds,
 
-- 2. **het bestuur:** de directeur-bestuurder van het fonds,
+- 2. *het bestuur:* de directeur-bestuurder van het fonds,
 
-- 3. **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba.
+- 3. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten en de bijzondere gemeentes Bonaire, Sint-Eustatius en Saba.
 
-- 4. **eigen inkomsten:** de volgende baten, welke terug te vinden zijn in de jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+- 4. *eigen inkomsten:* de volgende baten, welke terug te vinden zijn in de jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- a. publieksinkomsten; en
+   - a. publieksinkomsten; en
 
-- b. overige inkomsten, zijnde:
+   - b. overige inkomsten, zijnde:
 
-- 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
+      - 1. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
 
-- 2. indirecte opbrengsten; en
+      - 2. indirecte opbrengsten; en
 
-- 3. overige bijdragen.
+      - 3. overige bijdragen.
 
-- a. subsidies die zijn verstrekt door een bestuursorgaan;
+   - a. subsidies die zijn verstrekt door een bestuursorgaan;
 
-- b. overige bijdragen uit publieke middelen;
+   - b. overige bijdragen uit publieke middelen;
 
-- c. rentebaten;
+   - c. rentebaten;
 
-- d. bijdragen in natura;
+   - d. bijdragen in natura;
 
-- e. kapitalisatie van vrijwilligers;
+   - e. kapitalisatie van vrijwilligers;
 
-- f. waardering vrijkaarten; en
+   - f. waardering vrijkaarten; en
 
-- g. overige baten die geen relatie hebben met cultureel ondernemerschap.
+   - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-- 5. **reserves:** vrij besteedbaar vermogen, behorende tot:
+- 5. *reserves:* vrij besteedbaar vermogen, behorende tot:
 
-- a. de algemene reserve; en
+   - a. de algemene reserve; en
 
-- b. het stichtingskapitaal.
+   - b. het stichtingskapitaal.
 
 ##### Artikel 2. Doel
 
@@ -84,7 +61,7 @@ Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan instellingen 
 
 ##### Artikel 3. Doelgroep
 
-Subsidie voor instellingen waaraan in de jaren 2021-2024, waaronder in elk geval in 2021, voor tenminste twee aaneengesloten jaren op basis van een positief advies van de adviescommissie een subsidie van het fonds wordt verstrekt op grond van de [Deelregeling Kunstpodia 2020-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043507). En voor instellingen waaraan in de jaren 2019-2021, waaronder in ieder geval in 2021, voor tenminste twee aaneengesloten jaren subsidie wordt verstrekt op grond van de [Deelregeling Meerjarenprogramma’s Presentatie- en Erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038826), zoals die luidde op 8 juni 2020, voor zover het subsidies betreft aan instellingen die primair tot doel hebben hedendaagse beeldende kunst te presenteren.
+Subsidie voor instellingen waaraan in de jaren 2021-2024, waaronder in elk geval in 2021, voor tenminste twee aaneengesloten jaren op basis van een positief advies van de adviescommissie een subsidie van het fonds wordt verstrekt op grond van de [Deelregeling Kunstpodia 2020-2024](https://wetten.overheid.nl/jci1.3:c:BWBR0043507). En voor instellingen waaraan in de jaren 2019-2021, waaronder in ieder geval in 2021, voor tenminste twee aaneengesloten jaren subsidie wordt verstrekt op grond van de [Deelregeling Meerjarenprogramma’s Presentatie- en Erfgoedinstellingen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038826), zoals die luidde op 8 juni 2020, voor zover het subsidies betreft aan instellingen die primair tot doel hebben hedendaagse beeldende kunst te presenteren.
 
 ##### Artikel 4. Voorwaarden
 
@@ -139,5 +116,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Meerjarige Kunstpodia Vierde Steunmaatregel.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

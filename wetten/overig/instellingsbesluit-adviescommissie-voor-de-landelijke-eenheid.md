@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 25 juni 2021, nr. 3364133, houdende instelling van de adviescommissie voor de Landelijke Eenheid (Instellingsbesluit adviescommissie voor de Landelijke Eenheid)"
+citeertitel: "Instellingsbesluit adviescommissie voor de Landelijke Eenheid"
 identifier: "BWBR0045339"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-07"
-last_updated: "2021-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045339"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16011183"
-version_id: "27870472"
-internal_id: "C39305151"
-label_id: "15944634"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045339/2021-07-07/0"
-intitule_bron: "Stcrt.2021-34217"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-25"
-intitule_published: "2021-07-06"
-intitule_in_force: "2021-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34217"
-original_signed_date: "2021-06-25"
-original_published_date: "2021-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34217"
-entry_into_force_date: "2021-07-07"
-jci_1_3: "jci1.3:c:BWBR0045339&z=2021-07-07&g=2021-07-07"
-jci_1_0: "1.0:c:BWBR0045339&g=2021-07-07"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit adviescommissie voor de Landelijke Eenheid"
-signed_date: "2021-06-25"
-entry_into_force: "2021-07-07"
+publicatiedatum: 2021-07-07
+laatste_update: 2021-07-07
+status: geldig
+toestand: 2021-07-07
+bron: "https://wetten.overheid.nl/BWBR0045339"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 25 juni 2021, nr. 3364133, houdende instelling van de adviescommissie voor de Landelijke Eenheid (Instellingsbesluit adviescommissie voor de Landelijke Eenheid)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045339&artikel=2&z=2021-07-07&g=2021-07-07);
+- b. *commissie:* adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045339&artikel=2&z=2021-07-07&g=2021-07-07);
 
-- c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
+- c. *Landelijke Eenheid:* de Landelijke eenheid van de politie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -108,7 +82,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 1. De commissie stelt haar eigen werkwijze vast.
 
-2. De leden van de commissie zijn verplicht tot geheimhouding op basis van [artikel 2:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
+2. De leden van de commissie zijn verplicht tot geheimhouding op basis van [artikel 2:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
 
 3. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -120,11 +94,11 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 9. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 16/36.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 16/36.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 8/36.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 8/36.
 
-3. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
+3. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
 ##### Artikel 10. Kosten van de commissie
 
@@ -140,7 +114,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 11. Uiterste datum voor oplevering eindrapport
 
-1. De commissie brengt vóór 1 juni 2022 haar eindrapport uit aan de minister.
+1. De commissie brengt vóór 1 juni 2022 haar eindrapport uit aan de minister.
 
 2. Indien de commissie daartoe aanleiding ziet, doet zij tussentijds verslag aan de minister.
 
@@ -154,10 +128,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 mei 2021.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 mei 2021.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie voor de Landelijke Eenheid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

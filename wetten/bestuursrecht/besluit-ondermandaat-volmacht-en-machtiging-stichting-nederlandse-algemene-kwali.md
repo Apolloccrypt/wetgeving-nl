@@ -1,66 +1,40 @@
 ---
 title: "Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 1 februari 2021 houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021"
 identifier: "BWBR0044861"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044861"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15860693"
-version_id: "27556772"
-internal_id: "C38881121"
-label_id: "15795634"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044861/2022-07-01/0"
-intitule_bron: "Stcrt.2021-9486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-01"
-intitule_published: "2021-02-26"
-intitule_in_force: "2021-02-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-9486"
-original_signed_date: "2021-02-01"
-original_published_date: "2021-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-9486"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044861&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0044861&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021"
-signed_date: "2021-02-01"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0044861"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 1 februari 2021 houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021)
-
-gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en het [Besluit mandaat, volmacht en machtiging keuringsdiensten 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044854);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. *de minister:* de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **de Naktuinbouw:** de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
+- b. *de Naktuinbouw:* de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- c. **de wet:** de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
+- c. *de wet:* de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
 
-- d. **de regeling:** de [Regeling plantgezondheid](onbekend).
+- d. *de regeling:* de Regeling plantgezondheid.
 
 ##### Artikel 2
 
 1. Aan het hoofd Keuringen en de managers Keuringen van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor:
 
-- a. de registratie, bedoeld in artikel 65 van [verordening 2016/2031](32031R2016);
+- a. de registratie, bedoeld in artikel 65 van verordening 2016/2031;
 
-- b. de officiële controle en andere officiële activiteiten als bedoeld in artikel 2 van [verordening 2017/625](32525R2017) om de aanwezigheid van schadelijke organismen vast te stellen;
+- b. de officiële controle en andere officiële activiteiten als bedoeld in artikel 2 van verordening 2017/625 om de aanwezigheid van schadelijke organismen vast te stellen;
 
-- c. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van [verordening 2016/2031](32031R2016) met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
+- c. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van verordening 2016/2031 met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
 
 - d. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de aanzegging, bedoeld in [artikel 14 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=14).
 
@@ -74,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 3. Aan het hoofd Keuringen, de managers Keuringen en de keurmeesters van de Naktuinbouw wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor:
 
-- a. het mededelen van de uitslagen van de onderzoeken als bedoeld in artikel 47, eerste lid, onderdeel c, van [verordening 2017/625](32525R2017);
+- a. het mededelen van de uitslagen van de onderzoeken als bedoeld in artikel 47, eerste lid, onderdeel c, van verordening 2017/625;
 
 - b. voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met de verklaring, bedoeld in [artikel 35, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=35).
 
@@ -102,10 +76,8 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris generaal, de dire
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van 1 maart 2021.
+Dit besluit treedt in werking met ingang van 1 maart 2021.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

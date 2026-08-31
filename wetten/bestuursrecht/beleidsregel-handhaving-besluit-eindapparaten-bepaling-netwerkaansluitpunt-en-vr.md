@@ -1,65 +1,40 @@
 ---
 title: "Beleidsregel Handhaving Besluit Eindapparaten (bepaling netwerkaansluitpunt en vrije keuze eindapparaten)"
 identifier: "BWBR0045477"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-01-27"
-last_updated: "2022-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045477"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16038453"
-version_id: "27932922"
-internal_id: "C39386291"
-label_id: "15971384"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045477/2022-01-27/0"
-intitule_bron: "Stcrt.2021-36456"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-27"
-intitule_published: "2021-07-27"
-intitule_in_force: "2021-07-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-36456"
-original_signed_date: "2021-07-27"
-original_published_date: "2021-07-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-36456"
-entry_into_force_date: "2022-01-27"
-jci_1_3: "jci1.3:c:BWBR0045477&z=2022-01-27&g=2022-01-27"
-jci_1_0: "1.0:c:BWBR0045477&g=2022-01-27"
-citeertitel_status: "redactioneel"
-signed_date: "2021-07-27"
-entry_into_force: "2022-01-27"
+publicatiedatum: 2022-01-27
+laatste_update: 2022-01-27
+status: geldig
+toestand: 2022-01-27
+bron: "https://wetten.overheid.nl/BWBR0045477"
+opgehaald: 2026-08-31
 ---
+
 # Beleidsregel Handhaving Besluit Eindapparaten (bepaling netwerkaansluitpunt en vrije keuze eindapparaten)
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038908&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038908&artikel=3) en [4 van het Besluit eindapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0038908&artikel=4), [15.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.1), en [15.4, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=15.4), in samenhang gelezen met [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- a. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- b. **Applicatieprogramma-interface;** applicatieprogramma-interface als bedoeld in [artikel 1.1. van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- b. *Applicatieprogramma-interface;* applicatieprogramma-interface als bedoeld in [artikel 1.1. van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- c. **Besluit eindapparaten:** [Besluit van 12 december 2016, ten aanzien van regels inzake eindapparaten ter implementatie van richtlijn 2008/63/EG](https://wetten.overheid.nl/jci1.3:c:BWBR0038908);
+- c. *Besluit eindapparaten:*
+ [Besluit van 12 december 2016, ten aanzien van regels inzake eindapparaten ter implementatie van richtlijn 2008/63/EG](https://wetten.overheid.nl/jci1.3:c:BWBR0038908);
 
-- d. **Eindapparaten:** eindapparaten als bedoeld in [artikel 1 van het Besluit eindapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0038908&artikel=1);
+- d. *Eindapparaten:* eindapparaten als bedoeld in [artikel 1 van het Besluit eindapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0038908&artikel=1);
 
-- e. **Eindgebruiker:** eindgebruiker als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- e. *Eindgebruiker:* eindgebruiker als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- f. **Netwerkaansluitpunt:** het netwerkaansluitpunt als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- f. *Netwerkaansluitpunt:* het netwerkaansluitpunt als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- g. **Openbare elektronische communicatiedienst:** openbare elektronische communicatiedienst als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- g. *Openbare elektronische communicatiedienst:* openbare elektronische communicatiedienst als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- h. **Openbaar elektronisch communicatienetwerk:** openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
+- h. *Openbaar elektronisch communicatienetwerk:* openbaar elektronisch communicatienetwerk als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1);
 
-- i. **TV-diensten:** programmadiensten als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1).
+- i. *TV-diensten:* programmadiensten als bedoeld in [artikel 1.1 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1).
 
 ##### Artikel 2. Vaste netwerkaansluitpunt
 

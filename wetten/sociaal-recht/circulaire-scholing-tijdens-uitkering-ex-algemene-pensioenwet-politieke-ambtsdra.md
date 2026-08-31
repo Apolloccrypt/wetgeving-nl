@@ -1,40 +1,21 @@
 ---
 title: "Circulaire scholing tijdens uitkering ex Algemene pensioenwet politieke ambtsdragers (Appa)"
 identifier: "BWBR0044817"
-country: "nl"
-rank: "circulaire"
-publication_date: "2021-02-03"
-last_updated: "2021-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044817"
+categorie: "Sociaal recht"
 soort: "circulaire"
-stam_id: "15845433"
-version_id: "27524902"
-internal_id: "C38840711"
-label_id: "15781264"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044817/2021-02-03/0"
-intitule_bron: "Stcrt.2021-7018"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-02-12"
-intitule_in_force: "2021-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-7018"
-original_published_date: "2021-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-7018"
-entry_into_force_date: "2021-02-03"
-jci_1_3: "jci1.3:c:BWBR0044817&z=2021-02-03&g=2021-02-03"
-jci_1_0: "1.0:c:BWBR0044817&g=2021-02-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-02-03"
+publicatiedatum: 2021-02-03
+laatste_update: 2021-02-03
+status: geldig
+toestand: 2021-02-03
+bron: "https://wetten.overheid.nl/BWBR0044817"
+opgehaald: 2026-08-31
 ---
+
 # Circulaire scholing tijdens uitkering ex Algemene pensioenwet politieke ambtsdragers (Appa)
 
 ### Publicatie op internet
 
-**Circulaires met betrekking tot de rechtspositie van politieke ambtsdragers worden uitsluitend bekend gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website www.politiekeambtsdragers.nl. U kunt zich met een RSS-feed of e-mail-attendering abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering.**
+*Circulaires met betrekking tot de rechtspositie van politieke ambtsdragers worden uitsluitend bekend gemaakt op de site van de officiële bekendmakingen (Staatscourant) en op de website www.politiekeambtsdragers.nl. U kunt zich met een RSS-feed of e-mail-attendering abonneren op deze site. Als er een circulaire op deze site wordt gepubliceerd, ontvangt u een attendering.*
 
 ### 1. Inleiding
 
@@ -42,11 +23,27 @@ Tijdens de uitkeringsperiode van de [Algemene pensioenwet politieke ambtsdragers
 
 Daarbij wordt de volgende opbouw gehanteerd:
 
-Verder wordt in §10 de aandacht gevestigd op het instrument Erkenning verworven Competenties (EVC) dat ook tijdens de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) kan worden ingezet. In §11 wordt ingegaan op de fiscale aspecten van scholing voor uitkeringsgerechtigden. In §12 tenslotte worden voorbeelden besproken van fictieve scholingsverzoeken.
+- a. Het algemene kader ([§2](https://wetten.overheid.nl/BWBR0044817))
+
+- b. Rollen en bevoegdheden betrokken partijen ([§3](https://wetten.overheid.nl/BWBR0044817))
+
+- c. Doel van de scholing ([§4](https://wetten.overheid.nl/BWBR0044817))
+
+- d. Wat wordt begrepen onder scholing ([§5](https://wetten.overheid.nl/BWBR0044817))?
+
+- e. Wat wordt verstaan onder noodzakelijke scholing ([§6](https://wetten.overheid.nl/BWBR0044817))?
+
+- f. Voorwaarden aan de vergoeding van scholing ([§7](https://wetten.overheid.nl/BWBR0044817))
+
+- g. Financiële aspecten scholing ([§8](https://wetten.overheid.nl/BWBR0044817))
+
+- h. Samenvatting: toekenningscriteria scholing ([§9](https://wetten.overheid.nl/BWBR0044817))
+
+Verder wordt in [§10](https://wetten.overheid.nl/BWBR0044817) de aandacht gevestigd op het instrument Erkenning verworven Competenties (EVC) dat ook tijdens de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) kan worden ingezet. In [§11](https://wetten.overheid.nl/BWBR0044817) wordt ingegaan op de fiscale aspecten van scholing voor uitkeringsgerechtigden. In [§12](https://wetten.overheid.nl/BWBR0044817) tenslotte worden voorbeelden besproken van fictieve scholingsverzoeken.
 
 Uitgangspunt van deze circulaire is dat deze kader scheppend is met ruimte voor maatwerk in de praktijk. Juist vanwege de nadruk in het re-integratieplan op het individu van de uitkeringsgerechtigde en zijn of haar afstand tot de arbeidsmarkt, is dat maatwerk vereist. De circulaire beoogt op het gebied van scholingsaanvragen handvatten te bieden voor een objectieve en redelijke beoordeling in het individuele geval.
 
-Deze circulaire ziet op de periode **na** het aftreden of ontslag van de politieke ambtsdrager. Natuurlijk helpt het voor de terugkeer op de arbeidsmarkt als betrokkene al tijdens het politieke ambt al gebruik heeft gemaakt van de rechtspositionele voorzieningen voor scholing, loopbaanoriëntatie, mobiliteitsbevordering2Voor de decentrale politieke ambtsdragers worden deze voorzieningen tijdens het ambt toegelicht in de circulaires voor provincies, gemeenten en waterschappen bij de introductie van het Rechtspositiebesluit decentrale politieke ambtsdragers (zie www.politiekeamtbsdragers.nl), bij artikel 2.3.11/3.2.11/ 4.2.11 (Loopbaanoriëntatie en mobiliteit bevorderende activiteiten) en bij artikel 2.3.3/ 3.3.3 en 4.3.3 ((niet-partijpolitieke) scholing). en EVC3EVC is een instrument van mobiliteitsbevordering waarvan de kosten ten laste van het overheidsorgaan kunnen worden gebracht op grond van artikel 2.3.11/3.2.11/ 4.2.11.. In deze circulaire wordt echter niet ingegaan op de situatie tijdens het ambt. Er geldt namelijk een ander rechtspositioneel en financieel regime voor en na het aftreden of ontslag. Vóór ontslag of aftreden is er bovendien geen sprake van een verplichtend kader voor betrokkene, maar van een eigen keuze. Dat is ook het geval als betrokkene al weet dat hij of zij na aftreden of ontslag niet verder gaat in het ambt en zich reeds tijdens het ambt wil voorbereiden op de volgende fase. Verder zijn de verantwoordelijkheden en rollen van de verschillende betrokken partijen ook verschillend.
+Deze circulaire ziet op de periode *na* het aftreden of ontslag van de politieke ambtsdrager. Natuurlijk helpt het voor de terugkeer op de arbeidsmarkt als betrokkene al tijdens het politieke ambt al gebruik heeft gemaakt van de rechtspositionele voorzieningen voor scholing, loopbaanoriëntatie, mobiliteitsbevordering2Voor de decentrale politieke ambtsdragers worden deze voorzieningen tijdens het ambt toegelicht in de circulaires voor provincies, gemeenten en waterschappen bij de introductie van het Rechtspositiebesluit decentrale politieke ambtsdragers (zie www.politiekeamtbsdragers.nl), bij artikel 2.3.11/3.2.11/ 4.2.11 (Loopbaanoriëntatie en mobiliteit bevorderende activiteiten) en bij artikel 2.3.3/ 3.3.3 en 4.3.3 ((niet-partijpolitieke) scholing). en EVC3EVC is een instrument van mobiliteitsbevordering waarvan de kosten ten laste van het overheidsorgaan kunnen worden gebracht op grond van artikel 2.3.11/3.2.11/ 4.2.11.. In deze circulaire wordt echter niet ingegaan op de situatie tijdens het ambt. Er geldt namelijk een ander rechtspositioneel en financieel regime voor en na het aftreden of ontslag. Vóór ontslag of aftreden is er bovendien geen sprake van een verplichtend kader voor betrokkene, maar van een eigen keuze. Dat is ook het geval als betrokkene al weet dat hij of zij na aftreden of ontslag niet verder gaat in het ambt en zich reeds tijdens het ambt wil voorbereiden op de volgende fase. Verder zijn de verantwoordelijkheden en rollen van de verschillende betrokken partijen ook verschillend.
 
 ### 2. Het algemene kader
 
@@ -64,7 +61,7 @@ Het systeem is dat regelmatig, minstens per drie maanden, wordt bezien of er aan
 
 Voor zover de kosten van de activiteiten in het plan zijn begroot, geeft het overheidsorgaan/de uitvoeringsorganisatie een oordeel over deze kosten bij het vaststellen van het plan ([artikel 2.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=2.2)). Als in het plan geen kosten zijn begroot, dient de belanghebbende voor een vergoeding een specifieke aanvraag in bij het overheidsorgaan/de uitvoeringsorganisatie ([artikel 2.8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=2.8)). De aanvraag wordt ingediend, voordat met de activiteiten een aanvang wordt gemaakt, zodat het overheidsorgaan/de uitvoeringsorganisatie nog een oordeel over de kosten kan geven. Het bestuursorgaan kan een lagere vergoeding verlenen of de begroting in het plan lager vaststellen, indien kosten worden opgevoerd die niet noodzakelijk zijn of die hoger zijn dan noodzakelijk. Een voorbeeld van niet-noodzakelijke kosten zijn reis- en verblijfkosten voor een cursus als de cursus tevens wordt aangeboden op een locatie die dichter bij de woonplaats van de belanghebbende is gelegen. Een voorbeeld van te hoog begrote kosten is het geval waarin een vergelijkbare cursus elders goedkoper wordt aangeboden.
 
-Dat re-integratieplan moet door de uitkeringsgerechtigde en het re-integratiebureau worden opgesteld maar geldt pas als deze is vastgesteld door de uitvoeringsorganisatie. De uitvoeringsorganisatie heeft hiervoor een format dat voldoet aan de richtlijnen van het [Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017)5Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers van 30 november 2010 (Staatsblad 2010, 788)., met onder andere de vraag naar de scholingsbehoefte. Het verdient aanbeveling deze scholingsbehoefte in een zo vroeg mogelijk stadium aan te geven; mede vanwege het uitgangspunt dat scholing al tijdens de uitkering moet renderen (zie §7 en §9). Naarmate de opleiding in een later stadium van de uitkeringsduur wordt aangevraagd, is de motiveringsplicht voor betrokkene zwaarder.
+Dat re-integratieplan moet door de uitkeringsgerechtigde en het re-integratiebureau worden opgesteld maar geldt pas als deze is vastgesteld door de uitvoeringsorganisatie. De uitvoeringsorganisatie heeft hiervoor een format dat voldoet aan de richtlijnen van het [Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017)5Besluit sollicitatieplicht Appa voor gewezen politieke ambtsdragers van 30 november 2010 (Staatsblad 2010, 788)., met onder andere de vraag naar de scholingsbehoefte. Het verdient aanbeveling deze scholingsbehoefte in een zo vroeg mogelijk stadium aan te geven; mede vanwege het uitgangspunt dat scholing al tijdens de uitkering moet renderen (zie [§7](https://wetten.overheid.nl/BWBR0044817) en [§9](https://wetten.overheid.nl/BWBR0044817)). Naarmate de opleiding in een later stadium van de uitkeringsduur wordt aangevraagd, is de motiveringsplicht voor betrokkene zwaarder.
 
 ### 3. Rollen en bevoegdheden betrokken partijen
 
@@ -104,7 +101,7 @@ De inhoud van die kennisoverdracht en van de te verkrijgen competenties en vaard
 
 Van intervisie, loopbaangesprekken, coaching, e.d. leert een uitkeringsgerechtigde natuurlijk ook, maar deze activiteiten worden geacht onder de algemene sollicitatieactiviteiten van de planmatige begeleiding te vallen, en dus niet onder scholing. In dat kader van planmatige begeleiding worden vaak een cursus ‘Ken u zelf’, het leren schrijven van een bedrijfsplan of een sollicitatietraining gegeven en deze vallen dus ook onder deze algemene noemer en niet onder scholing. Deze activiteiten ondersteunen betrokkene namelijk in het werk maken van het solliciteren zelf. Met scholing is in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) daarentegen gedoeld op onderwijs ten behoeve van het overbruggen van de afstand tot de arbeidsmarkt als zodanig.
 
-Ook deelname aan een EVC-procedure is geen scholing in de zin van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Via een EVC-procedure wordt een vakbekwaamheidsbewijs behaald waarmee een werkgever beter het niveau van betrokkene kan inschatten door de vergelijking met een bepaalde benchmark. Zie verder §10.
+Ook deelname aan een EVC-procedure is geen scholing in de zin van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Via een EVC-procedure wordt een vakbekwaamheidsbewijs behaald waarmee een werkgever beter het niveau van betrokkene kan inschatten door de vergelijking met een bepaalde benchmark. Zie verder [§10](https://wetten.overheid.nl/BWBR0044817).
 
 Een accreditatieprocedure is evenmin een vorm van scholing. Een accreditatie is een bevestiging van iemands bestaande kwaliteiten of een toelating tot een beroepsgroep met bepaalde kwaliteiten. Het betreft geen scholing in de zin van onderwijs ten behoeve van het overbruggen van de afstand tot de arbeidsmarkt. Is er een korte opfriscursus of toegepaste opleiding nodig om deel te nemen aan die accreditatieprocedure dan kan er wellicht wel aanleiding zijn om die als scholing aan te merken.
 
@@ -120,7 +117,7 @@ Scholingskosten zijn voor rekening van het overheidsorgaan8In §8 wordt ingegaan
 
 In dit verband is de expertise van het re-integratiebureau dus erg belangrijk; en die moet doorklinken in de motivering. Want het bureau heeft de verantwoordelijkheid de scholingsaanvraag en het daarmee verbonden bedrag, zodanig aan het vaststellend orgaan, de uitvoeringsorganisatie, voor te leggen dat deze een deugdelijke beoordeling kan maken. De circulaire beoogt handvatten te geven voor deze beoordeling(scriteria), maar de beoordeling is zodanig afhankelijk van de individuele omstandigheden van het geval dat de motivering van het re-integratiebureau in het specifieke geval essentieel is. Het begrip ‘noodzaak’ moet in dit licht worden gelezen. De scholing kan dus best algemener van aard zijn, maar de motivering moet zien op de vraag waarom deze scholing gezien de omstandigheden en afstand tot de arbeidsmarkt van deze betrokkene voor hem of haar een wezenlijke bijdrage kan leveren tot het weer kunnen betreden van de arbeidsmarkt. In zijn motivering moet het re-integratiebureau zich dus verplaatsen in zowel zijn cliënt als in de uitvoeringsorganisatie.
 
-Om houvast te geven aan zowel de uitvoeringsorganisatie als aan het re-integratiebureau als aan de uitkeringsgerechtigde, worden in deze circulaire overwegingen genoemd die bij deze beoordeling in ieder geval moeten worden betrokken. In §9 worden deze samengevat. In §11 zijn voor dit houvast voorbeelden opgenomen.
+Om houvast te geven aan zowel de uitvoeringsorganisatie als aan het re-integratiebureau als aan de uitkeringsgerechtigde, worden in deze circulaire overwegingen genoemd die bij deze beoordeling in ieder geval moeten worden betrokken. In [§9](https://wetten.overheid.nl/BWBR0044817) worden deze samengevat. In [§11](https://wetten.overheid.nl/BWBR0044817) zijn voor dit houvast voorbeelden opgenomen.
 
 Uit genoemde beoordelingsbevoegdheid van de uitvoeringsorganisatie vloeit voort dat zij aan het volgen van de scholing eisen kan stellen. Het volgen van de scholing is niet vrijblijvend.
 
@@ -128,9 +125,27 @@ Uit genoemde beoordelingsbevoegdheid van de uitvoeringsorganisatie vloeit voort 
 
 Naast nut en noodzaak van de opleiding beoordeelt de uitvoeringsorganisatie het scholingsverzoek ook op de volgende aspecten:
 
+- a. *Is de verhouding prijs/kwaliteit van de scholing op zichzelf redelijk?* De scholingsaanvraag bestaat natuurlijk uit een korte beschrijving van de beoogde scholing en de daaraan verbonden prijs. Mede op basis van het advies van het re-integratiebureau beoordeelt de uitvoeringsorganisatie of die kosten in redelijke verhouding staan tot de door de leverancier van de scholing te leveren prestaties. Hierbij kan ook meegewogen worden of er niet een goedkopere of kwalitatief betere of meer op de betrokkene toegesneden variant mogelijk is.
+
+- b. *Is de verhouding redelijk tussen het gevraagde bedrag van de scholing en de (resterende) duur en hoogte van de uitkering?* De scholing moet renderen tijdens de uitkering. Dat is niet alleen een inhoudelijk vereiste. De kosten ervan moeten ook in verhouding zijn tot de hoogte van de uitkering en de (resterende) duur. Hierbij wordt ook in ogenschouw genomen of er meer scholingsaanvragen zijn ingediend door betrokkene. Op zichzelf kan betrokkene scholing aanvragen met het oog op verschillende inkomstenbronnen, maar het totaalbedrag moet wel in verhouding blijven tot de uitkering.
+
+- c. *Is het vanzelfsprekend dat de scholingsaanvraag ten laste wordt gebracht van de Appa-uitkering?* Deze vraag kan bijvoorbeeld spelen als betrokkene naast de uitkering ook in loondienst is en de scholing voor een groot deel voortvloeit of ten goede komt aan dat werk in loondienst. Een ander voorbeeld is dat opleidingskosten bij het opzetten van een eigen bedrijf tijdens de uitkering vaak fiscaal ten laste kunnen worden gebracht van het eigen bedrijfskapitaal. In dit soort situaties worden deze kosten dus niet vergoed door de uitvoeringsorganisatie.
+
+- d. *Wat is het rendement van de scholing tijdens de uitkeringsduur?* Opleidingen renderen het best als zij in het begin van de uitkering worden ingezet. Naarmate de opleiding in een later stadium van de uitkeringsduur wordt aangevraagd, is de motiveringsplicht voor betrokkene zwaarder, mede gezien de in het re-integratieplan sinds het begin opgenomen afspraken. Een indicatie voor zo’n verzwaarde motiveringsplicht is dat de aanvraag in principe moet zijn gedaan op een tijdstip dat ligt op minder dan de helft van de uitkeringsduur. Naarmate de datum van scholing dichter aanligt tegen het einde van de toegekende uitkeringsduur, is er minder aanleiding voor toewijzing van de aanvraag. Zoals gezegd, het doel van de scholing is de uitkering tot nihil terug te brengen; niet in eerste instantie om betrokkene tijdens de uitkering een bepaald opleidingsniveau te laten bereiken ten behoeve van de periode na de uitkering. De cesuur op de helft van de uitkeringsduur is dus geen harde, die scheidslijn is een indicatie. Vóór die datum is de afweging ‘Ja, tenzij’, na die datum ‘Nee, tenzij’. Dus als er redenen zijn waarom scholing alsnog nodig is, is scholing niet verboden, maar moet de keuze voor scholing nadrukkelijk(er) worden toegelicht. Het komt voor dat uitkeringsgerechtigden pas na het uitvoeren van andere uit het re-integratieplan voortvloeiende activiteiten gereed zijn voor het solliciteren en pas tijdens het solliciteren ervaren dat zij worden afgewezen op het feit dat zij een bepaalde scholing missen. Dit kan zich ook voordoen bij iemand die eerst tevergeefs heeft geprobeerd een eigen onderneming te starten tijdens de uitkering en na meer dan de helft van de uitkeringsduur scholing nodig blijkt te hebben om voor een functie in loondienst in aanmerking te komen. Ook in dit soort gevallen geldt dat er, naarmate de datum van die scholing dichter aanligt tegen het einde van de toegekende uitkeringsduur, meer aanleiding is voor terughoudendheid wat betreft financiering via de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Maar dit soort omstandigheden kunnen ook de basis zijn voor genoemde verzwaarde motivering. De hier bedoelde beoordeling kan door genoemd tijdsverloop ook leiden tot een verlaging van het ambitieniveau ten aanzien van de gewenste nieuwe functie. Dat is een consequentie van het doel van de scholing in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691): het gaat om het rendement van die scholing tijdens de uitkering. Dat die scholing effect heeft voor de periode erna is niet meer dan een afgeleid effect, geen doel op zich.
+
+- e. *Substantiële scholing en/of scholing in het buitenland* Met het toestaan van substantiële scholing wordt zeer terughoudend omgegaan. Hetzelfde geldt voor studies in het buitenland. Voor beide soorten aanvragen geldt een verzwaarde motivering voor betrokkene/het re-integratiebureau (‘Niet, tenzij’). Enerzijds geldt hier het uitgangspunt van individueel maatwerk, maar anderzijds het rendementsaspect en de regel dat de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) geen studiefinanciering is. Een belangrijke factor hierbij is ook de gevraagde intensiteit van de scholing. Gelet op deze weging gelden de volgende regels bij de beoordeling: Indien een bepaalde scholing zodanig veel tijd en inspanning vergt dat het uitvoeren van (andere) sollicitatieactiviteiten niet reëel is, maar die noodzakelijk wordt geacht en als zodanig in het re-integratieplan wordt vastgesteld, betekent dit voor de sollicitatie-plicht dat betrokkene niet actief meer solliciteert, maar wel in voorkomend geval een aanbod moet accepteren.
+
+   - • De kosten van voltijd scholing die langdurig is, worden niet vergoed. Betrokkene is dan namelijk niet beschikbaar voor de arbeidsmarkt. Een voltijds cursus van twee dagen is geen probleem, zes weken kan nog redelijk zijn, mede gezien genoemde afstand tot de arbeidsmarkt, maar een voltijd opleiding van enige maanden is dat niet. Naarmate de duur van de scholing langer is, moet beter worden gemotiveerd wat die scholing oplevert en dat die gaat renderen. Is er bijvoorbeeld sprake van een zodanige schaarste aan dit soort kennis of functionarissen dat betrokkene na afronding van deze scholing een met aan zekerheid grenzende kans op werk heeft, dan zal die duur van enige maanden minder bezwaarlijk zijn.
+
+   - • De kosten van langdurige scholing die niet voltijds is (bv een dag in de week), zouden wel kunnen worden vergoed als deze scholing enige maanden duurt, maar niet als die meerjarig is. Net als bij het vorige punt, geldt dat naarmate de duur van de scholing langer is, beter moet worden gemotiveerd wat die scholing oplevert en dat die gaat renderen.
+
+   - • De kosten van meerjarige opleidingen, of deze nu voltijds zijn of niet, worden niet vergoed. Deze kosten stuiten af op het rendementsaspect en de regel dat de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) geen studiefinanciering is.
+
+- f. *Terugbetalingsverplichting bij niet-afronden van de scholing* De scholing wordt aangeraden gezien de afstand van betrokkene tot de arbeidsmarkt; zij is geen plicht. Het gaat met scholing over een investering in de toekomstige werkkring van die desbetreffende uitkeringsgerechtigde. De kosten hiervan komen voor rekening van het overheidsorgaan9In §8 wordt ingegaan op de financiële aspecten van de scholing.. Het volgen van de scholing is dus niet vrijblijvend. Voorwaarde voor toekenning van een scholingsverzoek is dat betrokkene een verklaring tekent dat hij of zij de scholingskosten terugbetaalt als de scholing niet wordt afgerond. Deze verklaring bevordert dat betrokkene gemotiveerd is voor zijn of haar scholingskeuze en dat deelname niet vrijblijvend is. Uitgangspunt is dat betrokkene na afronding van de scholing een certificaat van succesvolle deelname overhandigt aan de uitvoeringsorganisatie. Het zonder goede redenen beëindigen van de in het plan opgenomen scholing kan voor de uitvoeringsorganisatie bovendien aanleiding zijn voor een sanctie10Zie hoofdstuk 6 van de brochure en hoofdstuk 4 van het Sollicitatiebesluit.. Als onderdeel van het plan is het volgen van die scholing namelijk een in het plan opgenomen verplichting. De meeste uitkeringsgerechtigden zullen hun scholing afronden. Dan treedt de clausule niet in werking. Mocht deze wel in werking moeten treden, dan resteert er (als uitvloeisel van de overige afwegingsfactoren) nog zoveel van de uitkeringsduur dat het bedrag verrekend kan worden met de uitkering. Ook indien er sprake zou zijn van enig uitstel in de scholing. Eventueel uitstel zal bovendien in samenspraak zijn met alle betrokken partijen. En aangezien betrokkene getekend heeft voor deze verplichting ligt de bewijslast bij betrokkene. De betaling van de factuur door de uitvoeringsorganisatie zal immers pas hebben plaatsgevonden als de verklaring is getekend door de uitkerings-gerechtigde.
+
 ### 8. Financiële aspecten scholing
 
-De kosten voor het volgen van scholing worden gefactureerd **náást** de vaste vergoeding voor het traject van planmatige ondersteuning en begeleiding. Dit volgt uit [artikel 132a, vierde lid, onder b, van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a) juncto [artikel 132b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132b). Uit het eerstgenoemde artikel volgt dat er onderscheid wordt gemaakt tussen enerzijds begeleiding en anderzijds andere in het plan opgenomen activiteiten. Artikel 132b ziet specifiek op de begeleiding. Deze artikelen zijn uitgewerkt in het [Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017). [Artikel 2.8 van het Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=2.8), in het hoofdstuk ‘Regels betreffende activiteiten om passende arbeid te vinden’, ziet op de scholingskosten en de overige activiteiten die kunnen bijdragen aan het verkrijgen van passende arbeid. In [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&hoofdstuk=3) wordt in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=3.1), de planmatige begeleiding en ondersteuning beschreven. Deze artikelen/hoofdstukken kennen elk hun eigen financieringsregime.
+De kosten voor het volgen van scholing worden gefactureerd *náást* de vaste vergoeding voor het traject van planmatige ondersteuning en begeleiding. Dit volgt uit [artikel 132a, vierde lid, onder b, van de Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132a) juncto [artikel 132b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=132b). Uit het eerstgenoemde artikel volgt dat er onderscheid wordt gemaakt tussen enerzijds begeleiding en anderzijds andere in het plan opgenomen activiteiten. Artikel 132b ziet specifiek op de begeleiding. Deze artikelen zijn uitgewerkt in het [Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017). [Artikel 2.8 van het Sollicitatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=2.8), in het hoofdstuk ‘Regels betreffende activiteiten om passende arbeid te vinden’, ziet op de scholingskosten en de overige activiteiten die kunnen bijdragen aan het verkrijgen van passende arbeid. In [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&hoofdstuk=3) wordt in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029017&artikel=3.1), de planmatige begeleiding en ondersteuning beschreven. Deze artikelen/hoofdstukken kennen elk hun eigen financieringsregime.
 
 Er wordt weleens gesteld dat het totale bedrag aan planmatige begeleiding en ondersteuning ten hoogste 20% van de laatstelijk als ambtsdrager per jaar genoten bezoldiging mag omvatten, en dat in dit maximum ook de scholingskosten zitten. Dit is onjuist en onvolledig.
 
@@ -138,7 +153,7 @@ In de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)11Zie artikel 7b vo
 
 Er is geen expliciet wettelijk minimum- of maximumbedrag per uitkeringsgerechtigde voor scholingsactiviteiten. Er is evenmin sprake van een scholingsbudget. Elk re-integratieplan is op de persoon toegesneden.
 
-Dat wil niet zeggen dat het overheidsorgaan maar alles moet betalen wat de uitkeringsgerechtigde wil. Uitgangspunt blijft dat de nadruk in het re-integratieplan ligt op het individu van de uitkeringsgerechtigde en diens afstand tot de arbeidsmarkt, en dat dit dus maatwerk vereist. Voor de een kan dat dus leiden tot een hoger bedrag aan scholing dan voor de ander. Maar hun situaties en achtergronden zijn niet gelijk. Wat iemand in zijn of haar politieke functie heeft verdiend, is in dit verband niet heel relevant. Wellicht in de beoordeling of een bepaalde prijs/kwaliteitsverhouding nog redelijk is. Het in deze circulaire gegeven toetsingskader en de verschillende in §11 genoemde voorbeelden beogen alle betrokken partijen voldoende handvatten te bieden voor een deugdelijk gemotiveerde scholingsaanvraag waarbij de belangen van alle betrokken partijen in balans zijn.
+Dat wil niet zeggen dat het overheidsorgaan maar alles moet betalen wat de uitkeringsgerechtigde wil. Uitgangspunt blijft dat de nadruk in het re-integratieplan ligt op het individu van de uitkeringsgerechtigde en diens afstand tot de arbeidsmarkt, en dat dit dus maatwerk vereist. Voor de een kan dat dus leiden tot een hoger bedrag aan scholing dan voor de ander. Maar hun situaties en achtergronden zijn niet gelijk. Wat iemand in zijn of haar politieke functie heeft verdiend, is in dit verband niet heel relevant. Wellicht in de beoordeling of een bepaalde prijs/kwaliteitsverhouding nog redelijk is. Het in deze circulaire gegeven toetsingskader en de verschillende in [§11](https://wetten.overheid.nl/BWBR0044817) genoemde voorbeelden beogen alle betrokken partijen voldoende handvatten te bieden voor een deugdelijk gemotiveerde scholingsaanvraag waarbij de belangen van alle betrokken partijen in balans zijn.
 
 Een evenwichtige beoordeling wordt bevorderd door de volgende elementen. De scholingskosten die in aanmerking komen voor vergoeding door het overheidsorgaan, zijn de kosten die voortvloeien uit de in het re-integratieplan opgenomen activiteiten. Deze kosten moeten door de uitvoeringsorganisatie zijn vastgesteld als noodzakelijk voor de planmatige begeleiding en ondersteuning in het individuele geval. Ook moeten de scholingskosten redelijk zijn ten opzichte van de (resterende) duur en de hoogte van de uitkering. Verder moeten die kosten in redelijke verhouding staan tot de door het bedrijf geleverde prestaties. Verder moet betrokkene bij indiening van een scholingsverzoek een verklaring tekenen dat hij of zij de scholingskosten terugbetaalt als de scholing niet wordt afgerond. Deze verklaring bevordert dat betrokkene gemotiveerd is voor zijn of haar scholingskeuze en dat deelname niet vrijblijvend is. Uitgangspunt is dat betrokkene na afronding van de scholing een certificaat van succesvolle deelname overhandigt aan de uitvoeringsorganisatie.
 
@@ -147,6 +162,26 @@ De aan de scholing verbonden reis- en verblijfkosten komen voor vergoeding in aa
 ### 9. Samenvatting: toekenningscriteria scholing
 
 Ten behoeve van zowel de uitvoeringsorganisatie als van het re-integratie bureau als van de uitkeringsgerechtigde, worden de in deze circulaire beschreven en toegelichte overwegingen hier samengevat die in ieder geval moeten worden betrokken bij de beoordeling of er sprake is van scholing die al dan niet ten laste van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) komt:
+
+- a. Is er sprake van scholing?
+
+- b. Vloeit de aanvraag voor scholing logisch voort uit het vastgestelde re-integratieplan?
+
+- c. Helpt deze scholing bij, of ligt deze in het verlengde van, eerdere plannen op basis waarvan betrokkene eraan werkt om zich, gezien zijn of haar afstand daartoe, alsnog te kwalificeren voor de arbeidsmarkt?
+
+- d. Is het vanzelfsprekend dat de scholingsaanvraag ten laste wordt gebracht van de Appa-uitkering?
+
+- e. Rendeert de scholing tijdens de uitkering?
+
+- f. Is de verhouding prijs/kwaliteit van de scholing redelijk?
+
+- g. Is de verhouding redelijk tussen het gevraagde bedrag van de scholing en de (resterende) duur en hoogte van de uitkering?
+
+- h. Ingeval van een aanvraag voor een substantiële scholing wat is de extra motivering (‘Niet, tenzij’)?
+
+- i. Ingeval van scholing in het buitenland, wat is de extra motivering (‘Niet, tenzij’)?
+
+- j. Heeft betrokkene een verklaring getekend dat hij of zij de scholingskosten terugbetaalt als de scholing niet wordt afgerond?
 
 ### 10. Erkenning verworven Competenties (EVC)
 
@@ -158,71 +193,103 @@ Er zijn verschillende EVC-standaarden: beroepsstandaard, branchestandaard en ber
 
 Dit is een instrument dat vooral zijn waarde bewijst in de volgende situaties:
 
+- a. Betrokkene heeft een laag initieel behaald diplomaniveau, terwijl betrokkene als een politiek bestuurder veelal op HBO-plus werk- en denkniveau heeft gewerkt;
+
+- b. Betrokkene heeft competenties op eenzelfde niveau, maar wel in een ander domein;
+
+- c. Betrokkene wil aantonen dat hij of zij managementcompetenties heeft opgedaan tijdens het politieke ambt.
+
 ### 11. Fiscale aspecten scholing
 
-Met ingang van 1 januari 2021 is de gerichte vrijstelling voor scholing bij tegenwoordige arbeid ook van toepassing bij vergoedingen en verstrekkingen voor scholing die voortvloeit uit **vroegere** arbeid. De verruiming ziet op vergoedingen en verstrekkingen voor het volgen van een opleiding of studie met het oog op het verwerven van inkomen en niet op vergoedingen en verstrekkingen voor onderhoud en verbetering van kennis en vaardigheden van de dienstbetrekking. De Belastingdienst zal op dezelfde manier beoordelen of sprake is van een opleiding of studie die wordt gevolgd met het oog op het verwerven van inkomen uit werk en woning, als op dit moment gebeurt wanneer sprake is van tegenwoordige arbeid.
+Met ingang van 1 januari 2021 is de gerichte vrijstelling voor scholing bij tegenwoordige arbeid ook van toepassing bij vergoedingen en verstrekkingen voor scholing die voortvloeit uit *vroegere* arbeid. De verruiming ziet op vergoedingen en verstrekkingen voor het volgen van een opleiding of studie met het oog op het verwerven van inkomen en niet op vergoedingen en verstrekkingen voor onderhoud en verbetering van kennis en vaardigheden van de dienstbetrekking. De Belastingdienst zal op dezelfde manier beoordelen of sprake is van een opleiding of studie die wordt gevolgd met het oog op het verwerven van inkomen uit werk en woning, als op dit moment gebeurt wanneer sprake is van tegenwoordige arbeid.
 
 Hiermee vallen vergoedingen en verstrekkingen aan werknemers van wie afscheid is of wordt genomen ook onder de reikwijdte van de gerichte vrijstelling voor een opleiding of studie. Dit geldt daarmee onder meer voor vergoedingen van scholingskosten die werkgevers willen geven als onderdeel van een sociaal plan en voor nog niet tijdens de dienstbetrekking opgenomen scholingsbudgetten. Voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) gaat het dan om scholingsinspanningen die onderdeel uitmaken van het re-integratieplan.
 
 ### 12. Voorbeelden fictieve scholingsverzoeken
 
-**Oud- gedeputeerde A heeft een uitkering van 3 jaar en twee maanden. Na een jaar blijkt uit sollicitatiegesprekken dat zij voor het werk in het bedrijfsleven dat zij ambieert, wezenlijke kennis en/of vaardigheden mist. Om deze achterstand in te lopen, is een diploma van een bepaalde opleiding vereist. Deze opleiding duurt drie maanden.**
+Voorbeeld 1
 
-Aan de vereisten van §9, a tot en met d is voldaan. Voor de vraag of de opleiding rendeert (§9, e), is van belang dat de aanvraag is gedaan op een tijdstip dat ligt op minder dan de helft van de uitkeringsduur. Een opleidingsduur van een drie maanden is in deze casus verdedigbaar, mede gezien de resterende uitkeringsduur van circa anderhalf jaar. Overigens zou ook kunnen worden bezien of een EVC in dit geval een goed instrument zou zijn. Verder is van belang welke intensiteit de opleiding heeft; zie §9, h en §7, e. Voordat de factuur wordt voldaan, heeft A een verklaring getekend dat zij de scholingskosten terugbetaalt als zij de scholing niet afrondt.
+*Oud- gedeputeerde A heeft een uitkering van 3 jaar en twee maanden. Na een jaar blijkt uit sollicitatiegesprekken dat zij voor het werk in het bedrijfsleven dat zij ambieert, wezenlijke kennis en/of vaardigheden mist. Om deze achterstand in te lopen, is een diploma van een bepaalde opleiding vereist. Deze opleiding duurt drie maanden.*
 
-**Voormalig wethouder B heeft een Appa-uitkering voor twee jaar uit een ambt met 60% tijdsbestedingsnorm. Hij had zijn functie als ICT-adviseur naast het wethoudersambt aangehouden. Hij verzoekt nu om een aanvullende opleiding op dat ICT-gebied.**
+Aan de vereisten van [§9, a tot en met d](https://wetten.overheid.nl/BWBR0044817) is voldaan. Voor de vraag of de opleiding rendeert (§9, e), is van belang dat de aanvraag is gedaan op een tijdstip dat ligt op minder dan de helft van de uitkeringsduur. Een opleidingsduur van een drie maanden is in deze casus verdedigbaar, mede gezien de resterende uitkeringsduur van circa anderhalf jaar. Overigens zou ook kunnen worden bezien of een EVC in dit geval een goed instrument zou zijn. Verder is van belang welke intensiteit de opleiding heeft; zie §9, h en [§7, e](https://wetten.overheid.nl/BWBR0044817). Voordat de factuur wordt voldaan, heeft A een verklaring getekend dat zij de scholingskosten terugbetaalt als zij de scholing niet afrondt.
 
-Deze aanvraag stuit af op §9, d. Deze scholing vloeit voor een groot deel voort uit en komt ten goede aan dat werk dat betrokkene al deed als ICT-adviseur. Het ligt dan niet in de rede de kosten hiervan ten laste te brengen van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
+Voorbeeld 2
 
-**Voormalig burgemeester C heeft een uitkeringsduur van drie jaar. Zij wil graag een opleiding van zes weken volgen die start vier maanden voor het einde van de uitkeringsduur.**
+*Voormalig wethouder B heeft een Appa-uitkering voor twee jaar uit een ambt met 60% tijdsbestedingsnorm. Hij had zijn functie als ICT-adviseur naast het wethoudersambt aangehouden. Hij verzoekt nu om een aanvullende opleiding op dat ICT-gebied.*
 
-Deze aanvraag stuit af op §9, e. De periode tot einde uitkeringsduur is zodanig kort dat deze niet meer rendeert voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
+Deze aanvraag stuit af op [§9, d](https://wetten.overheid.nl/BWBR0044817). Deze scholing vloeit voor een groot deel voort uit en komt ten goede aan dat werk dat betrokkene al deed als ICT-adviseur. Het ligt dan niet in de rede de kosten hiervan ten laste te brengen van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
 
-**De heer D, die een Appa-uitkering van drie jaar en twee maanden geniet op basis van zijn vroegere ambt van minister, wil graag kortdurende cursussen doen ten behoeve van enerzijds zijn commissariaten, anderzijds zijn zojuist gelanceerde adviesbedrijf en verder zijn ad hoc optredens als voorzitter van symposia e.d. De kosten van deze cursussen tellen op tot €50.000.**
+Voorbeeld 3
 
-Op zichzelf kan de heer D scholing aanvragen met het oog op verschillende inkomstenbronnen, maar het daaraan verbonden totaalbedrag aan kosten moet wel in verhouding blijven tot de uitkering. Een bedrag van €50.000 is een zodanig hoog bedrag aan scholing dat dit bedrag niet redelijk is te achten. Deze aanvraag moet als zodanig op basis van §9, g, worden afgewezen, maar kan worden aangepast tot een meer reële hoogte.
+*Voormalig burgemeester C heeft een uitkeringsduur van drie jaar. Zij wil graag een opleiding van zes weken volgen die start vier maanden voor het einde van de uitkeringsduur.*
 
-**Het voormalige kamerlid E wil een cursus volgen in het buitenland.**
+Deze aanvraag stuit af op [§9, e](https://wetten.overheid.nl/BWBR0044817). De periode tot einde uitkeringsduur is zodanig kort dat deze niet meer rendeert voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691).
+
+Voorbeeld 4
+
+*De heer D, die een Appa-uitkering van drie jaar en twee maanden geniet op basis van zijn vroegere ambt van minister, wil graag kortdurende cursussen doen ten behoeve van enerzijds zijn commissariaten, anderzijds zijn zojuist gelanceerde adviesbedrijf en verder zijn ad hoc optredens als voorzitter van symposia e.d. De kosten van deze cursussen tellen op tot €50.000.*
+
+Op zichzelf kan de heer D scholing aanvragen met het oog op verschillende inkomstenbronnen, maar het daaraan verbonden totaalbedrag aan kosten moet wel in verhouding blijven tot de uitkering. Een bedrag van €50.000 is een zodanig hoog bedrag aan scholing dat dit bedrag niet redelijk is te achten. Deze aanvraag moet als zodanig op basis van [§9, g](https://wetten.overheid.nl/BWBR0044817), worden afgewezen, maar kan worden aangepast tot een meer reële hoogte.
+
+Voorbeeld 5
+
+*Het voormalige kamerlid E wil een cursus volgen in het buitenland.*
 
 In principe zijn opleidingen in het buitenland niet uitgesloten, maar van mevrouw E wordt wel een extra motivering gevraagd waarom zij juist deze cursus wil volgen. Zijn er geen alternatieven in Nederland? De insteek voor de beoordeling van de aanvraag door de uitvoeringsorganisatie is: Nee, tenzij. Als het verzoek wordt toegestaan, worden de reis- en verblijfkosten, net als voor scholing in het binnenland, ook vergoed. Deze kosten worden ook in de beoordeling betrokken.
 
-**Het verzoek van voormalig commissaris van de Koning F om een cursus in het buitenland te volgen, wordt afgewezen, omdat er genoeg alternatieven zijn in Nederland. F volhardt echter in zijn standpunt dat die cursus in het buitenland voor hem het beste is.**
+Voorbeeld 6
+
+*Het verzoek van voormalig commissaris van de Koning F om een cursus in het buitenland te volgen, wordt afgewezen, omdat er genoeg alternatieven zijn in Nederland. F volhardt echter in zijn standpunt dat die cursus in het buitenland voor hem het beste is.*
 
 Indien de heer F ondanks de afwijzing van zijn verzoek, toch deelneemt aan die cursus in het buitenland, worden de kosten ervan niet vergoed. Deelname aan deze cursus laat de sollicitatieplicht onverlet. Ingeval van een werkaanbod tijdens zijn verblijf in het buitenland kan hij dus niet tegenwerpen dat hij een scholingsactiviteit verricht.
 
-**Voormalig waterschapsvoorzitter G heeft toestemming van de uitvoeringsorganisatie voor het volgen van een opleiding van drie maanden. Na twee maanden stopt zij hiermee om persoonlijke redenen.**
+Voorbeeld 7
+
+*Voormalig waterschapsvoorzitter G heeft toestemming van de uitvoeringsorganisatie voor het volgen van een opleiding van drie maanden. Na twee maanden stopt zij hiermee om persoonlijke redenen.*
 
 De kosten van de opleiding zijn na de goedkeuring van de uitvoeringsorganisatie en de vaststelling in het re-integratieplan betaald door het overheidsorgaan. Mevrouw G heeft een verklaring getekend dat zij de scholingskosten terugbetaalt als de scholing niet wordt afgerond. Nu zij op basis van een in de privésfeer genomen beslissing stopt met de opleiding, zij de opleiding niet heeft afgerond en geen certificaat kan overleggen, moet zij deze opleidingskosten dus alsnog betalen. Dit kan via een terugbetaling, maar ook via verrekening, al dan niet via een betalingsregeling, met de resterende uitkering.
 
 Het zonder goede redenen beëindigen van de in het plan opgenomen scholing kan voor de uitvoeringsorganisatie bovendien aanleiding zijn voor een sanctie. Als onderdeel van het plan is het volgen van die scholing een in het plan opgenomen verplichting.
 
-**H was dagelijks bestuurder van een waterschap en is politiek beschadigd toen hij als zodanig moest aftreden. Hij kan vanwege de media-aandacht voorlopig niet meer terug in een politiek ambt. H wil zich oriënteren op een totaal andere soort werkkring en wil in het verlengde daarvan een scholing volgen van een half jaar, een dag in de week.**
+Voorbeeld 8
 
-Vanwege deze specifieke omstandigheden ligt een intensievere begeleiding van H voor de hand. Een andere oriëntatie vergt naar alle waarschijnlijkheid meer aan scholing. Overweging hierbij is dat deze scholing zo vroeg mogelijk in de uitkeringsperiode wordt vastgelegd in het re-integratieplan en uitgevoerd, zodat het effect ervan kan renderen tijdens de uitkeringsduur. Een andere overweging is de inschatting hoe succesvol deze nieuwe oriëntatie is wat betreft te genereren inkomsten (§9, e). Zoals aangegeven in §4 gaat het bij scholing in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) om het zo snel mogelijk vinden van een nieuwe betalende baan; en daar kan deze nieuwe werkomgeving of andere richting bij helpen. De scholing moet er naar verwachting toe bijdragen dat de uitbetaling van de uitkering tot nihil terug wordt gebracht; of tot het bedrag aan uitkering gezien het voor betrokkene maximaal haalbare niveau van te verwerven nieuwe inkomsten. Aangezien er sprake is van een substantiële scholing is er gelet op §9, h en §7, e een verzwaarde motivering vereist. Als toestemming wordt verleend, moet H een verklaring tekenen dat hij de scholingskosten terugbetaalt als hij de scholing niet afrondt.
+*H was dagelijks bestuurder van een waterschap en is politiek beschadigd toen hij als zodanig moest aftreden. Hij kan vanwege de media-aandacht voorlopig niet meer terug in een politiek ambt. H wil zich oriënteren op een totaal andere soort werkkring en wil in het verlengde daarvan een scholing volgen van een half jaar, een dag in de week.*
 
-**De heer I heeft destijds zijn studie afgebroken om wethouder te worden. Na acht jaar behoorde zijn partij niet meer tot het college van de middelgrote gemeente. Hoewel I kan wijzen op een aantal grote, intergemeentelijke, projecten die onder zijn leiding succesvol tot stand zijn gebracht, heeft hij geen ander diploma dan zijn VWO.**
+Vanwege deze specifieke omstandigheden ligt een intensievere begeleiding van H voor de hand. Een andere oriëntatie vergt naar alle waarschijnlijkheid meer aan scholing. Overweging hierbij is dat deze scholing zo vroeg mogelijk in de uitkeringsperiode wordt vastgelegd in het re-integratieplan en uitgevoerd, zodat het effect ervan kan renderen tijdens de uitkeringsduur. Een andere overweging is de inschatting hoe succesvol deze nieuwe oriëntatie is wat betreft te genereren inkomsten ([§9, e](https://wetten.overheid.nl/BWBR0044817)). Zoals aangegeven in [§4](https://wetten.overheid.nl/BWBR0044817) gaat het bij scholing in het kader van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) om het zo snel mogelijk vinden van een nieuwe betalende baan; en daar kan deze nieuwe werkomgeving of andere richting bij helpen. De scholing moet er naar verwachting toe bijdragen dat de uitbetaling van de uitkering tot nihil terug wordt gebracht; of tot het bedrag aan uitkering gezien het voor betrokkene maximaal haalbare niveau van te verwerven nieuwe inkomsten. Aangezien er sprake is van een substantiële scholing is er gelet op [§9, h](https://wetten.overheid.nl/BWBR0044817) en [§7, e](https://wetten.overheid.nl/BWBR0044817) een verzwaarde motivering vereist. Als toestemming wordt verleend, moet H een verklaring tekenen dat hij de scholingskosten terugbetaalt als hij de scholing niet afrondt.
+
+Voorbeeld 9
+
+*De heer I heeft destijds zijn studie afgebroken om wethouder te worden. Na acht jaar behoorde zijn partij niet meer tot het college van de middelgrote gemeente. Hoewel I kan wijzen op een aantal grote, intergemeentelijke, projecten die onder zijn leiding succesvol tot stand zijn gebracht, heeft hij geen ander diploma dan zijn VWO.*
 
 De heer I heeft een grote afstand tot de arbeidsmarkt. Voor hem zou een EVC-vakbekwaamheidsbewijs een uitkomst zijn, omdat hiermee een objectieve, gecertificeerde derde voor potentiële werkgevers aantoonbaar maakt welke competenties I tijdens zijn wethouderschap heeft ontwikkeld. Uit die EVC-procedure zou ook aanvullende scholing kunnen voortvloeien.
 
-**Oud-burgemeester J heeft een uitkeringsduur van drie jaar en twee maanden. Zij wil niet meer door in de politiek en wil zich omscholen via een tweejarig traject in een richting die goede vooruitzichten kent op een baan na het behalen van dit diploma.**
+Voorbeeld 10
 
-Deze aanvraag stuit af op §9, e en h/§7, e. De periode van scholing ten opzichte van de uitkeringsduur is zodanig dat deze niet meer rendeert voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Bovendien gaat het om een meerjarige opleiding en de kosten daarvan worden niet vergoed Dat het diploma goede vooruitzichten geeft op een baan doet hieraan niet af. De Appa-uitkering is geen vorm van studiefinanciering.
+*Oud-burgemeester J heeft een uitkeringsduur van drie jaar en twee maanden. Zij wil niet meer door in de politiek en wil zich omscholen via een tweejarig traject in een richting die goede vooruitzichten kent op een baan na het behalen van dit diploma.*
 
-**Voormalig wethouder K geeft aan dat hij door een simpele procedure/ korte opleiding een accreditatie kan verkrijgen en daarmee zijn kansen vergroot op de arbeidsmarkt. Het re-integratiebureau acht deelname hieraan zeer raadzaam.**
+Deze aanvraag stuit af op [§9, e](https://wetten.overheid.nl/BWBR0044817) en h/[§7, e](https://wetten.overheid.nl/BWBR0044817). De periode van scholing ten opzichte van de uitkeringsduur is zodanig dat deze niet meer rendeert voor de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Bovendien gaat het om een meerjarige opleiding en de kosten daarvan worden niet vergoed Dat het diploma goede vooruitzichten geeft op een baan doet hieraan niet af. De Appa-uitkering is geen vorm van studiefinanciering.
+
+Voorbeeld 11
+
+*Voormalig wethouder K geeft aan dat hij door een simpele procedure/ korte opleiding een accreditatie kan verkrijgen en daarmee zijn kansen vergroot op de arbeidsmarkt. Het re-integratiebureau acht deelname hieraan zeer raadzaam.*
 
 De vraag is of hier sprake is van een opleiding of van een accreditatie-
 
 procedure. De motivering is hier bepalend. In het eerste geval kan deze wel worden vergoed; in het tweede geval niet.
 
-**Ex- dagelijks bestuurder van een waterschap L wil graag vijf cursussen doen omdat hij zich verder wil toeleggen op toezichthoudende functies. De kosten bedragen €15.000. De duur van de uitkering is nog twee jaar en vier maanden. De cursussen worden gegeven verspreid over drie maanden, duren in totaal zeven weken en vergen veel voorbereiding.**
+Voorbeeld 12
 
-Hier is sprake van substantieel onderwijs (zie §9, onder e) waarvoor de verzwaarde motivering voor betrokkene/het re-integratiebureau vereist is (‘Niet, tenzij’). Enerzijds geldt hier het uitgangspunt van individueel maatwerk, maar anderzijds het rendementsaspect en de regel dat de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) geen studiefinanciering is. Een belangrijke factor hierbij is ook de gevraagde intensiteit van de scholing. Ingeschat moet worden dat betrokkene drie maanden niet beschikbaar is voor de arbeidsmarkt; al blijft de algemene regel gelden dat hij wel in voorkomend geval een aanbod moet accepteren. Verder is de hoogte van het totaalbedrag (in casu €15.000) van belang: zijn die in verhouding met de hoogte van de uitkering en met het vooruitzicht op de hiermee te genereren nieuwe inkomsten. Over het algemeen brengen toezichthoudende functies niet zoveel op.
+*Ex- dagelijks bestuurder van een waterschap L wil graag vijf cursussen doen omdat hij zich verder wil toeleggen op toezichthoudende functies. De kosten bedragen €15.000. De duur van de uitkering is nog twee jaar en vier maanden. De cursussen worden gegeven verspreid over drie maanden, duren in totaal zeven weken en vergen veel voorbereiding.*
 
-**Oud-wethouder M treedt af maar heeft politiek verlof12Soms wordt hiervoor de term ‘terugkeergarantie’ gebruikt., dus zij keert terug bij haar oude werkgever, een onderwijsinstelling. Haar wethoudersbezoldiging was hoger dan haar salaris als leraar, dus er resteert nog Appa-uitkering. Zij wil haar als wethouder opgedane ervaring benutten in een andere baan en vraagt zich af of zij zich voor scholing op dat vlak tot haar werkgever moet richten of tot de gemeente.**
+Hier is sprake van substantieel onderwijs (zie [§9, onder e](https://wetten.overheid.nl/BWBR0044817)) waarvoor de verzwaarde motivering voor betrokkene/het re-integratiebureau vereist is (‘Niet, tenzij’). Enerzijds geldt hier het uitgangspunt van individueel maatwerk, maar anderzijds het rendementsaspect en de regel dat de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) geen studiefinanciering is. Een belangrijke factor hierbij is ook de gevraagde intensiteit van de scholing. Ingeschat moet worden dat betrokkene drie maanden niet beschikbaar is voor de arbeidsmarkt; al blijft de algemene regel gelden dat hij wel in voorkomend geval een aanbod moet accepteren. Verder is de hoogte van het totaalbedrag (in casu €15.000) van belang: zijn die in verhouding met de hoogte van de uitkering en met het vooruitzicht op de hiermee te genereren nieuwe inkomsten. Over het algemeen brengen toezichthoudende functies niet zoveel op.
+
+Voorbeeld 13
+
+*Oud-wethouder M treedt af maar heeft politiek verlof12Soms wordt hiervoor de term ‘terugkeergarantie’ gebruikt., dus zij keert terug bij haar oude werkgever, een onderwijsinstelling. Haar wethoudersbezoldiging was hoger dan haar salaris als leraar, dus er resteert nog Appa-uitkering. Zij wil haar als wethouder opgedane ervaring benutten in een andere baan en vraagt zich af of zij zich voor scholing op dat vlak tot haar werkgever moet richten of tot de gemeente.*
 
 Zoals beschreven op blz. 31 van de brochure is op het moment van aftreden de grond voor het verleende politieke verlof komen te vervallen. M moet zich dus meteen na aftreden weer melden bij de onderwijsinstelling. Herstel in de oude functie is geen verplichting voor de werkgever, maar dat was in dit geval geen probleem.
 
-Ook al vervult M weer de functie die zij vervulde voordat zij politiek ambtsdrager werd, zij ontvangt nog een deel van haar uitkering. Voor dat resterende deel geldt voor haar de sollicitatieplicht. Met de sollicitatieplicht bestaat er recht op re-integratiebegeleiding en scholing ten laste van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Nu M scholing wil aanvragen ten behoeve van een andere baan stuit deze aanvraag niet af op §9, d. In tegenstelling tot de casus in voorbeeld 2 is er geen sprake van scholing die voortvloeit uit en ten goede komt aan het werk bij de onderwijsinstelling. Indien is voldaan aan de overige in §9 genoemde voorwaarden bestaat recht op deze scholing ten laste van de Appa, en daarmee de gemeente. Zou M een ‘opfriscursus’ moeten volgen om zich weer te kwalificeren als leraar bij deze onderwijsinstelling dan ligt het op basis van dezelfde redenatie voor de hand dat de kosten daarvan komen voor de onderwijsinstelling en niet ten laste van de Appa.
+Ook al vervult M weer de functie die zij vervulde voordat zij politiek ambtsdrager werd, zij ontvangt nog een deel van haar uitkering. Voor dat resterende deel geldt voor haar de sollicitatieplicht. Met de sollicitatieplicht bestaat er recht op re-integratiebegeleiding en scholing ten laste van de [Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0002691). Nu M scholing wil aanvragen ten behoeve van een andere baan stuit deze aanvraag niet af op [§9, d](https://wetten.overheid.nl/BWBR0044817). In tegenstelling tot de casus in voorbeeld 2 is er geen sprake van scholing die voortvloeit uit en ten goede komt aan het werk bij de onderwijsinstelling. Indien is voldaan aan de overige in §9 genoemde voorwaarden bestaat recht op deze scholing ten laste van de Appa, en daarmee de gemeente. Zou M een ‘opfriscursus’ moeten volgen om zich weer te kwalificeren als leraar bij deze onderwijsinstelling dan ligt het op basis van dezelfde redenatie voor de hand dat de kosten daarvan komen voor de onderwijsinstelling en niet ten laste van de Appa.
 
 ### 13. Vragen en informatie op internet
 

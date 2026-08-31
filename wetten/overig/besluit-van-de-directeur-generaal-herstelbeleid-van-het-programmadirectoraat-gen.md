@@ -1,0 +1,41 @@
+---
+title: "Besluit van de directeur-generaal Herstelbeleid van het programmadirectoraat-generaal Herstel van 18 augustus 2026 (2026-343714) tot het verlenen van ondermandaat aan het Hoofd bureau stafondersteuning inzake aanvragen met betrekking tot de toepassing van de hardheidsclausule van artikel 9.1, tweede lid, onder a, van de Wet hersteloperatie, voor zover deze zien op afdeling 2.4 van de Wet hersteloperatie toeslagen"
+citeertitel: "Ondermandaatbesluit van de directeur-generaal Herstelbeleid aan het Hoofd bureau stafondersteuning inzake aanvragen met betrekking tot de toepassing van de hardheidsclausule van de Wet hersteloperatie toeslagen, voor zover deze zien op ondersteuningsverzoeken in het buitenland"
+identifier: "BWBR0053051"
+categorie: "Overig"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-08-27
+laatste_update: 2026-08-27
+status: geldig
+toestand: 2026-08-27
+bron: "https://wetten.overheid.nl/BWBR0053051"
+opgehaald: 2026-08-31
+---
+
+# Besluit van de directeur-generaal Herstelbeleid van het programmadirectoraat-generaal Herstel van 18 augustus 2026 (2026-343714) tot het verlenen van ondermandaat aan het Hoofd bureau stafondersteuning inzake aanvragen met betrekking tot de toepassing van de hardheidsclausule van artikel 9.1, tweede lid, onder a, van de Wet hersteloperatie, voor zover deze zien op afdeling 2.4 van de Wet hersteloperatie toeslagen
+
+##### Artikel 1. Mandaatverlening
+
+Aan het Hoofd bureau stafondersteuning van het programmadirectoraat-generaal Herstel wordt ondermandaat verleend om te beslissen op aanvragen als bedoeld in [artikel 9.1, tweede lid, onder a, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.1), voor zover deze zien op [afdeling 2.4 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&afdeling=2.4).
+
+##### Artikel 2. Ondertekening
+
+Besluiten die op grond van dit besluit worden genomen, worden als volgt ondertekend:
+
+De Minister van Financiën,
+
+namens deze,
+
+gevolgd door de naam en functie van de ondergemandateerde functionaris.
+
+##### Artikel 3. Intrekking
+
+Het [ondermandaatbesluit aan het Hoofd bureau stafondersteuning inzake herhaalde aanvragen en herzieningsverzoeken met betrekking tot de toepassing van de hardheidsclausule van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050135) (Stcrt. 2024, 26748) wordt ingetrokken.
+
+##### Artikel 4. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 31 mei 2023.
+
+##### Artikel 5. Citeertitel
+
+Dit besluit wordt aangehaald als: Ondermandaatbesluit van de directeur-generaal Herstelbeleid aan het Hoofd bureau stafondersteuning inzake aanvragen met betrekking tot de toepassing van de hardheidsclausule van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436), voor zover deze zien op ondersteuningsverzoeken in het buitenland.

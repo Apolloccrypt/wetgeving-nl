@@ -1,31 +1,19 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar politie eenheid Midden-Nederland 2021"
+title: "Besluit van de Minister voor Rechtsbescherming van 14 juli 2021 nr. BOACAT2021/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij politie eenheid Midden-Nederland"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar politie eenheid Midden-Nederland 2021"
 identifier: "BWBR0045458"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2021-07-24
-laatste_update: 2026-07-24
+laatste_update: 2021-07-24
 status: vervallen
+vervallen_op: 2026-07-23
+toestand: 2021-07-24
 bron: "https://wetten.overheid.nl/BWBR0045458"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 14 juli 2021 nr. BOACAT2021/028, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij politie eenheid Midden-Nederland
-
-Gelezen het verzoek van politie eenheid Midden-Nederland van 28 mei 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Midden-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -37,7 +25,7 @@ Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -59,7 +47,7 @@ Aan de buitengewoon opsporingsambtenaar genoemd in [artikel 2](https://wetten.ov
 
 ##### Artikel 7
 
-1. De korpschef als bedoeld in [artikel 27 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
+1. De korpschef als bedoeld in [artikel 27 van de politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045458&artikel=2&z=2021-07-24&g=2021-07-24) genoemde functie;
 
@@ -82,5 +70,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar politie eenheid Midden-Nederland 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

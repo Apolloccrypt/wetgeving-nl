@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 23 maart 2021, nr. Min-Buza.2021.7678-22, houdende instelling van de Commissie van onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië)"
+citeertitel: "Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië"
 identifier: "BWBR0044978"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-16"
-last_updated: "2022-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044978"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15908033"
-version_id: "27649862"
-internal_id: "C39009421"
-label_id: "15843364"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044978/2022-09-16/0"
-intitule_bron: "Stcrt.2021-15469"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-23"
-intitule_published: "2021-03-26"
-intitule_in_force: "2021-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-15469"
-original_signed_date: "2021-03-23"
-original_published_date: "2021-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-15469"
-entry_into_force_date: "2021-04-01"
-jci_1_3: "jci1.3:c:BWBR0044978&z=2022-09-16&g=2022-09-16"
-jci_1_0: "1.0:c:BWBR0044978&g=2022-09-16"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië"
-signed_date: "2021-03-23"
-entry_into_force: "2021-04-01"
+publicatiedatum: 2021-04-01
+laatste_update: 2022-09-16
+status: geldig
+toestand: 2022-09-16
+bron: "https://wetten.overheid.nl/BWBR0044978"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 23 maart 2021, nr. Min-Buza.2021.7678-22, houdende instelling van de Commissie van onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Buitenlandse Zaken;
+- a. *minister:* Minister van Buitenlandse Zaken;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=2&z=2022-09-16&g=2022-09-16).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=2&z=2022-09-16&g=2022-09-16).
 
 ##### Artikel 2. Instelling en taak
 
@@ -58,13 +32,13 @@ In dit besluit wordt verstaan onder:
 
 - b. in ieder geval de volgende aspecten mee te nemen in het onderzoek:
 
-- I. het ambtelijke en politieke besluitvormingsproces;
+   - I. het ambtelijke en politieke besluitvormingsproces;
 
-- II. de juridische risico’s;
+   - II. de juridische risico’s;
 
-- III. de mate waarin de door de regering aan de steun gestelde voorwaarden zijn nagekomen;
+   - III. de mate waarin de door de regering aan de steun gestelde voorwaarden zijn nagekomen;
 
-- IV. de informatievoorziening aan de Kamer; en
+   - IV. de informatievoorziening aan de Kamer; en
 
 - c. uit het onderzoek lessen te trekken voor de toekomst.
 
@@ -94,9 +68,9 @@ Tot lid van de commissie worden benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-1. De commissie wordt ingesteld met ingang van 1 april 2021 en wordt opgeheven per 1 maart 2023.
+1. De commissie wordt ingesteld met ingang van 1 april 2021 en wordt opgeheven per 1 maart 2023.
 
-2. De commissie brengt uiterlijk 1 maart 2023, en zoveel eerder als mogelijk, haar eindrapport uit aan de minister.
+2. De commissie brengt uiterlijk 1 maart 2023, en zoveel eerder als mogelijk, haar eindrapport uit aan de minister.
 
 3. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan aan het tijdig afronden van het onderzoek, dan stelt zij de minister daarvan onverwijld op de hoogte.
 
@@ -174,10 +148,8 @@ De voorzitter en de andere leden voor zover niet vallend onder de uitzondering v
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2021.
+Dit besluit treedt in werking met ingang van 1 april 2021.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

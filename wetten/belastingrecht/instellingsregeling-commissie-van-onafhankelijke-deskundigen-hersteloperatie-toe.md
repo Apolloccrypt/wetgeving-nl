@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Staatssecretaris van Financiën van 11 juni 2021, houdende instelling van een tijdelijke commissie ter uitvoering van de artikelen 49a en 49c van de Algemene wet inkomensafhankelijke regelingen en de compensatieregeling (Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen)"
+citeertitel: "Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen"
 identifier: "BWBR0045239"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045239"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15983523"
-version_id: "27818982"
-internal_id: "C39239661"
-label_id: "15917394"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045239/2025-01-01/0"
-intitule_bron: "Stcrt.2021-29442"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-11"
-intitule_published: "2021-06-16"
-intitule_in_force: "2021-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-29442"
-original_signed_date: "2021-06-11"
-original_published_date: "2021-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-29442"
-entry_into_force_date: "2021-06-17"
-jci_1_3: "jci1.3:c:BWBR0045239&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0045239&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen"
-signed_date: "2021-06-11"
-entry_into_force: "2021-06-17"
+publicatiedatum: 2021-06-17
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0045239"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 11 juni 2021, houdende instelling van een tijdelijke commissie ter uitvoering van de artikelen 49a en 49c van de Algemene wet inkomensafhankelijke regelingen en de compensatieregeling (Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen)
-
-Gelet op [artikel 49e van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e);
-
-Besluit:
 
 ##### Artikel 1. Grondslag
 
-Deze regeling berust op de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2) en [5.3 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.3).
+Deze regeling berust op de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2) en [5.3 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.3).
 
 ##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2025-01-01&g=2025-01-01);
+- *commissie:* commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045239&artikel=3&z=2025-01-01&g=2025-01-01);
 
-- **minister:** Minister van Financiën;
+- *minister:* Minister van Financiën;
 
-- **ministerie:** Ministerie van Financiën;
+- *ministerie:* Ministerie van Financiën;
 
-- **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
+- *wet:*
+ [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 3. Instelling en taak
 
@@ -68,11 +43,11 @@ In deze regeling wordt verstaan onder:
 
 - c. het adviseren over de vraag of sprake is van een schrijnend geval als bedoeld in [artikel 2.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9);
 
-- d. het beoordelen van voorgenomen beschikkingen inhoudende het geheel of gedeeltelijk afwijzen van een aanvraag tot toekenning van een voorziening als bedoeld in [artikel 2.9a, eerste lid, onderdeel a, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [artikel 2.9b, eerste lid, onderdeel a, onder 1° of 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b), indien die aanvraag ziet op compensatie of een O/GS-tegemoetkoming die niet eerder op aanvraag van de aanvrager van kinderopvangtoeslag die is overleden door de Dienst Toeslagen is toegekend of afgewezen;
+- d. het beoordelen van voorgenomen beschikkingen inhoudende het geheel of gedeeltelijk afwijzen van een aanvraag tot toekenning van een voorziening als bedoeld in [artikel 2.9a, eerste lid, onderdeel a, onder 1° of 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a), of [artikel 2.9b, eerste lid, onderdeel a, onder 1° of 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b), indien die aanvraag ziet op compensatie of een O/GS-tegemoetkoming die niet eerder op aanvraag van de aanvrager van kinderopvangtoeslag die is overleden door de Dienst Toeslagen is toegekend of afgewezen;
 
-- e. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van een tegemoetkoming op grond van [artikel 2.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
+- e. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van een tegemoetkoming op grond van [artikel 2.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
 
-- f. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van compensatie als bedoeld in [artikel 2.14h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) voor zover een beroep wordt gedaan op [artikel 2.14g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14g), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
+- f. het beoordelen van voorgenomen beschikkingen inhoudende het afwijzen van een aanvraag tot toekenning van compensatie als bedoeld in [artikel 2.14h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) voor zover een beroep wordt gedaan op [artikel 2.14g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14g), indien de Dienst Toeslagen voornemens is te oordelen dat geen sprake is van een overleden aanvrager;
 
 - g. het rapporteren van haar bevindingen aan de Dienst Toeslagen.
 
@@ -86,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het intrekken of vervallen van deze regeling.
+De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het intrekken of vervallen van deze regeling.
 
 ##### Artikel 5. Samenstelling, benoeming en ontslag
 
@@ -120,7 +95,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 8. Evaluatieverslag
 
-De commissie stelt op een met de Dienst Toeslagen nader te bepalen moment in 2021 een tussenevaluatieverslag en uiterlijk 31 december 2023 een evaluatieverslag op waarin de commissie aandacht besteedt aan haar taakvervulling.
+De commissie stelt op een met de Dienst Toeslagen nader te bepalen moment in 2021 een tussenevaluatieverslag en uiterlijk 31 december 2023 een evaluatieverslag op waarin de commissie aandacht besteedt aan haar taakvervulling.
 
 ##### Artikel 9. Archiefbescheiden
 
@@ -130,10 +105,8 @@ De commissie stelt op een met de Dienst Toeslagen nader te bepalen moment in 202
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 7 juli 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 7 juli 2020.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie van onafhankelijke deskundigen hersteloperatie toeslagen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

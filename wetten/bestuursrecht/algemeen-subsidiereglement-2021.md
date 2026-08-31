@@ -1,92 +1,63 @@
 ---
 title: "Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021"
+citeertitel: "Algemeen subsidiereglement 2021"
 identifier: "BWBR0045516"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-04-13"
-last_updated: "2023-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045516"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16046963"
-version_id: "27954442"
-internal_id: "C39439691"
-label_id: "15980054"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045516/2023-04-13/0"
-intitule_bron: "Stcrt.2021-38784"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-26"
-intitule_published: "2021-08-23"
-intitule_in_force: "2021-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-38784"
-original_signed_date: "2021-05-26"
-original_published_date: "2021-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-38784"
-entry_into_force_date: "2021-08-24"
-jci_1_3: "jci1.3:c:BWBR0045516&z=2023-04-13&g=2023-04-13"
-jci_1_0: "1.0:c:BWBR0045516&g=2023-04-13"
-citeertitel_status: "officieel"
-short_title: "Algemeen subsidiereglement 2021"
-signed_date: "2021-05-26"
-entry_into_force: "2021-08-24"
+publicatiedatum: 2021-08-24
+laatste_update: 2023-04-13
+status: geldig
+toestand: 2023-04-13
+bron: "https://wetten.overheid.nl/BWBR0045516"
+opgehaald: 2026-08-31
 ---
+
 # Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2021;
-
-besluit:
 
 #### Paragraaf 1. Algemeen
 
 ##### Artikel 1. Gebruikte begrippen
 
-- a. **Aanvrager:** de organisatie, instelling, natuurlijk persoon of rechtspersoon die subsidie aanvraagt.
+- a. *Aanvrager:* de organisatie, instelling, natuurlijk persoon of rechtspersoon die subsidie aanvraagt.
 
-- b. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+- b. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- c. **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- c. *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-- d. **Begrotingstekort:** negatief verschil tussen de inkomsten en uitgaven.
+- d. *Begrotingstekort:* negatief verschil tussen de inkomsten en uitgaven.
 
-- e. **Besluit:** een besluit zoals bedoeld in [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3). In dit reglement wordt een beschikking ook een besluit genoemd.
+- e. *Besluit:* een besluit zoals bedoeld in [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3). In dit reglement wordt een beschikking ook een besluit genoemd.
 
-- f. **Deelregeling:** een subsidieregeling die is gebaseerd op dit reglement, met nadere regels voor het geven van subsidies.
+- f. *Deelregeling:* een subsidieregeling die is gebaseerd op dit reglement, met nadere regels voor het geven van subsidies.
 
-- g. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- g. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- h. **Huishoudelijk Reglement:** [Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+- h. *Huishoudelijk Reglement:*
+ [Huishoudelijk Reglement van de Stichting Fonds voor Cultuurparticipatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- i. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- i. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- j. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap.
+- j. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap.
 
-- k. **Rijkscultuurfondsen:** de Fondsen zoals bedoeld in [hoofdstuk IV van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV).
+- k. *Rijkscultuurfondsen:* de Fondsen zoals bedoeld in [hoofdstuk IV van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&hoofdstuk=IV).
 
-- l. **Schriftelijk:** correspondentie tussen het Fonds en de aanvrager. Per deelregeling wordt bepaald welke wijze van communicatie vereist is.
+- l. *Schriftelijk:* correspondentie tussen het Fonds en de aanvrager. Per deelregeling wordt bepaald welke wijze van communicatie vereist is.
 
-- m. **De wet:** de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
+- m. *De wet:* de [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904).
 
-- n. **Cultuurparticipatie:** het actief in de vrije tijd beoefenen van kunstzinnige of erfgoedactiviteiten.
+- n. *Cultuurparticipatie:* het actief in de vrije tijd beoefenen van kunstzinnige of erfgoedactiviteiten.
 
-- o. **Cultuureducatie:** het doelbewust leren over en door middel van kunst en erfgoed binnen de school.
+- o. *Cultuureducatie:* het doelbewust leren over en door middel van kunst en erfgoed binnen de school.
 
-- p. **Subsidie:** de aanspraak op financiële middelen, door een bestuursorgaan verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het bestuursorgaan geleverde goederen of diensten, zoals bedoeld in [artikel 4:21, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21).
+- p. *Subsidie:* de aanspraak op financiële middelen, door een bestuursorgaan verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het bestuursorgaan geleverde goederen of diensten, zoals bedoeld in [artikel 4:21, eerste lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21).
 
-- q. **Nederland:** Europees deel van Nederland en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- q. *Nederland:* Europees deel van Nederland en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- r. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- r. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- s. **Caribisch deel van het Koninkrijk:** Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- s. *Caribisch deel van het Koninkrijk:* Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- t. **Koninkrijk:** Koninkrijk der Nederlanden.
+- t. *Koninkrijk:* Koninkrijk der Nederlanden.
 
 ##### Artikel 2. Doel
 
@@ -168,13 +139,13 @@ Voor subsidies in incidentele gevallen geldt dat:
 
 - a. voor dezelfde activiteiten al subsidie is of zal worden verleend:
 
-- 1° . door het Fonds;
+   - 1° . door het Fonds;
 
-- 2° . door een van de andere rijkscultuurfondsen;
+   - 2° . door een van de andere rijkscultuurfondsen;
 
-- 3° . op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597);
+   - 3° . op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597);
 
-- 4° . op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - 4° . op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. de activiteiten of projecten waarvoor subsidie wordt gevraagd op het moment van de aanvraag al worden uitgevoerd;
 
@@ -288,7 +259,7 @@ b. Onvolledige aanvragen neemt het Fonds niet in behandeling, totdat deze zijn a
 
 1. Voorafgaand aan de vaststelling van de subsidie neemt het Fonds een subsidieverleningsbesluit. Een subsidieverleningsbesluit wordt gegeven:
 
-- a. bij subsidieaanvragen tot en met € 25.000: binnen dertien weken na ontvangst van de aanvraag, of
+- a. bij subsidieaanvragen tot en met € 25.000: binnen dertien weken na ontvangst van de aanvraag, of
 
 - b. indien sprake is van een subsidieplafond en de verlening plaatsvindt in volgorde van rangschikking of evenredige verdeling: binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -358,9 +329,9 @@ Het Fonds kan in een besluit verplichtingen of opschortende voorwaarden opnemen.
 
 ##### Artikel 22. Aanvullende bepalingen bevoorschotting
 
-1. Als de subsidie € 25.000 of minder is en niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Als de subsidie € 25.000 of minder is en niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Als de subsidie hoger is dan € 25.000 verleent het Fonds een voorschot zodra het subsidieverleningsbesluit is afgegeven.
+2. Als de subsidie hoger is dan € 25.000 verleent het Fonds een voorschot zodra het subsidieverleningsbesluit is afgegeven.
 
 3. Het Fonds bepaalt bij deelregeling of besluit:
 
@@ -398,7 +369,7 @@ Subsidieontvangers werken volgens de principes van de Governance Code Cultuur, d
 
 ##### Artikel 25. Subsidies tot en met € 25.000
 
-1. Het verstrekken van subsidies tot en met € 25.000 vindt plaats in de vorm van een vast bedrag dat in de deelregeling wordt vastgelegd of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
+1. Het verstrekken van subsidies tot en met € 25.000 vindt plaats in de vorm van een vast bedrag dat in de deelregeling wordt vastgelegd of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
 2. Indien deze subsidie wordt verstrekt, wordt:
 
@@ -410,7 +381,7 @@ Subsidieontvangers werken volgens de principes van de Governance Code Cultuur, d
 
 ##### Artikel 26. Subsidies hoger dan € 25.000 tot en met € 125.000
 
-1. Als de subsidie hoger is dan € 25.000 en niet meer dan € 125.000:
+1. Als de subsidie hoger is dan € 25.000 en niet meer dan € 125.000:
 
 - a. tonen subsidieontvangers met een activiteitenverslag en een financieel verslag aan, dat de activiteiten waarvoor subsidie is verstrekt zijn uitgevoerd en dat is voldaan aan de subsidieverplichtingen; en
 
@@ -430,7 +401,7 @@ Subsidieontvangers werken volgens de principes van de Governance Code Cultuur, d
 
 - f. bevat een analyse van of toelichting op de verschillen tussen begroting en realisatie.
 
-3. Indien bij een subsidieverstrekking tussen € 25.000 en € 125.000 de kosten en opbrengsten van de te verrichten activiteiten in verband met de aard van die activiteiten zodanig onzeker zijn dat een realistische begroting niet vereist kan worden, kan het Fonds bepalen dat de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantoont dat de activiteiten zijn verricht. In die verklaring geeft de subsidieontvanger dan aan:
+3. Indien bij een subsidieverstrekking tussen € 25.000 en € 125.000 de kosten en opbrengsten van de te verrichten activiteiten in verband met de aard van die activiteiten zodanig onzeker zijn dat een realistische begroting niet vereist kan worden, kan het Fonds bepalen dat de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantoont dat de activiteiten zijn verricht. In die verklaring geeft de subsidieontvanger dan aan:
 
 - a. dat de activiteiten waarvoor de subsidie is verleend zijn verricht, voorzien van een korte toelichting,
 
@@ -456,7 +427,7 @@ Subsidieontvangers werken volgens de principes van de Governance Code Cultuur, d
 
 5. De verklaring bevat ook een oordeel van de accountant over de naleving door subsidieontvangers van voorschriften uit het controleprotocol.
 
-6. Als de subsidie meer is dan € 125.000 houden subsidieontvangers een goede en inzichtelijke administratie bij van de uitgaven en inkomsten die aan de activiteiten zijn verbonden.
+6. Als de subsidie meer is dan € 125.000 houden subsidieontvangers een goede en inzichtelijke administratie bij van de uitgaven en inkomsten die aan de activiteiten zijn verbonden.
 
 7. Subsidieontvangers bewaren de administratie en de stukken die daarbij horen gedurende zeven jaar na vaststelling van de subsidie.
 
@@ -548,18 +519,16 @@ In de gevallen waarin dit reglement niet voorziet, beslist de directeur-bestuurd
 
 ##### Artikel 36. Overgangsbepaling
 
-Na intrekking van het [Algemeen Reglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858) van 1 januari 2017 berusten de deelregelingen die daarop gebaseerd waren op dit Algemeen subsidiereglement 2021.
+Na intrekking van het [Algemeen Reglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858) van 1 januari 2017 berusten de deelregelingen die daarop gebaseerd waren op dit Algemeen subsidiereglement 2021.
 
 ##### Artikel 37. Inwerkingtreding en intrekking
 
-1. Dit reglement is, met instemming van de Raad van Toezicht, vastgesteld door het bestuur van de Stichting Fonds voor Cultuurparticipatie op 26 mei 2021.
+1. Dit reglement is, met instemming van de Raad van Toezicht, vastgesteld door het bestuur van de Stichting Fonds voor Cultuurparticipatie op 26 mei 2021.
 
 2. Dit reglement treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
-3. Dit reglement vervangt het [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858), zoals laatstelijk gewijzigd op 1 januari 2017, Staatscourant 2017, nummer 3714. Laatstgenoemd reglement wordt bij de inwerkingtreding van dit reglement ingetrokken.
+3. Dit reglement vervangt het [Algemeen Subsidiereglement stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858), zoals laatstelijk gewijzigd op 1 januari 2017, Staatscourant 2017, nummer 3714. Laatstgenoemd reglement wordt bij de inwerkingtreding van dit reglement ingetrokken.
 
 ##### Artikel 38. Citeertitel
 
 Dit reglement wordt aangehaald als: Algemeen subsidiereglement 2021.
-
-Dit reglement wordt gepubliceerd in de Staatscourant.

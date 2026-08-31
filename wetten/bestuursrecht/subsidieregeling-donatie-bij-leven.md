@@ -5,11 +5,11 @@ identifier: "BWBR0025870"
 categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
 publicatiedatum: 2016-09-01
-laatste_update: 2024-01-01
+laatste_update: 2026-08-31
 status: geldig
-toestand: 2024-01-01
+toestand: 2026-08-31
 bron: "https://wetten.overheid.nl/BWBR0025870"
-opgehaald: 2026-08-13
+opgehaald: 2026-08-31
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)
@@ -18,7 +18,7 @@ opgehaald: 2026-08-13
 
 In deze regeling wordt verstaan onder:
 
-- a. *minister:* Minister voor Medische Zorg;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
 - b. *orgaan:* nier of deel van de lever;
 
@@ -54,7 +54,7 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 1. De subsidie bestaat uit:
 
-- a. de gederfde inkomsten van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie tot maximaal € 2.600 per week, berekend op basis van:
+- a. de gederfde inkomsten van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie tot maximaal € 3.315 per week, berekend op basis van:
 
    - 1°. het belastbaar loon per week overeenkomstig de wettelijke bepalingen van de loonbelasting;
 
@@ -70,7 +70,7 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
    - 1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-   - 2°. de bijdrage van de donor voor een maatwerkvoorziening of persoonsgebonden budget ten behoeve van de zelfredzaamheid verleend krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) dan wel de kosten van de donor voor huishoudelijke hulp die niet krachtens de Wet maatschappelijke ondersteuning 2015 is verleend tot een bedrag van ten hoogste € 300;
+   - 2°. de bijdrage van de donor voor een maatwerkvoorziening of persoonsgebonden budget ten behoeve van de zelfredzaamheid verleend krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) dan wel de kosten van de donor voor huishoudelijke hulp die niet krachtens de Wet maatschappelijke ondersteuning 2015 is verleend tot een bedrag van ten hoogste € 383;
 
    - 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
@@ -80,30 +80,30 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
    - 2°. bij buitenlandse reizen met andere middelen van vervoer: berekend op basis van de laagste klasse van openbaar vervoer;
 
-   - 3°. bij binnenlandse reizen een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel: afstand woning persoon tot ziekenhuis waar donatie plaatsvindt
- per dag dat donor in het ziekenhuis is opgenomen
+   - 3°. bij binnenlandse reizen een eenmalig bedrag ten behoeve van de binnenlandse reiskosten en de verblijfkosten van de door de donor aangewezen persoon gedurende de uitvoering van de donatie te bepalen volgens de onderstaande tabel: Afstand woning persoon tot ziekenhuis waar donatie plaatsvindt
+ Per dag dat donor in het ziekenhuis is opgenomen
  0 tot 10 km
- € 6,50
+ € 9
  10 tot 50 km
- € 20
+ € 26
  50 tot 100 km
- € 32
+ € 41
  100 tot 150 km
- € 42
+ € 54
  150 km of meer
- € 48
+ € 62
 
 - e. de hotelkosten voor maximaal vijf dagen:
 
-   - 1° die de uit het buitenland afkomstige donor maakt na ontslag uit het ziekenhuis vooreen bedrag van ten hoogste € 99 per overnachting inclusief ontbijt;
+   - 1° die de uit het buitenland afkomstige donor maakt na ontslag uit het ziekenhuis voor een bedrag van ten hoogste € 142 per overnachting inclusief ontbijt;
 
-   - 2° die de door de donor aangewezen persoon maakt voor een bedrag van ten hoogste € 99 per overnachting inclusief ontbijt met dien verstande dat bij verblijf in een hotel het bedrag ten behoeve van de binnenlandse reiskosten, bedoeld in onderdeel d, onder 3° op één dag wordt bepaald;
+   - 2° die de door de donor aangewezen persoon maakt voor een bedrag van ten hoogste € 142 per overnachting inclusief ontbijt met dien verstande dat bij verblijf in een hotel het bedrag ten behoeve van de binnenlandse reiskosten, bedoeld in onderdeel d, onder 3° op één dag wordt bepaald;
 
 - f. de kosten van de donor voor het opvangen en verzorgen van personen of huisdieren waarvoor de donor de zorg draagt gedurende de uitvoering van en het herstel na een donatie voor zover die kosten de gebruikelijke kosten van de donor voor die opvang en verzorging te boven gaan;
 
-- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 9 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 100 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7);
+- g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 12 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 128 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.7);
 
-- h. ten behoeve van overige kosten een eenmalig bedrag van € 381 in geval van nierdonatie, € 425 in geval van leverdonatie of € 110 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
+- h. ten behoeve van overige kosten een eenmalig bedrag van € 486 in geval van nierdonatie, € 542 in geval van leverdonatie of € 141 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie.
 
 2. De kosten, bedoeld in het eerste lid, onderdelen a, b, c, d, e en f, komen uitsluitend voor subsidie in aanmerking voor zover:
 
@@ -121,7 +121,7 @@ In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie be
 
 2. De aanvraag van de subsidie wordt ingediend uiterlijk een jaar na ontslag uit het ziekenhuis waar de donatie is uitgevoerd, dan wel, in geval de donatie niet is uitgevoerd, uiterlijk een jaar nadat de eerste kosten zijn gemaakt waarvoor de subsidie wordt aangevraagd.
 
-3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), en ontvangen bijdragen in de kosten.
+3. De aanvraag gaat vergezeld van een subsidiedeclaratie die een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de werkelijke kosten, met uitzondering van de kosten, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2026-08-31&g=2026-08-31), en ontvangen bijdragen in de kosten.
 
 4. De subsidiedeclaratie geeft de nodige informatie om de subsidie vast te stellen, onder meer ten aanzien van de bijdragen in de kosten die de donor heeft kunnen ontvangen of kan ontvangen.
 
@@ -145,13 +145,13 @@ In afwijking van het tweede lid, onderdeel a, wordt in geval van een subsidie be
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+1. Onverminderd [artikel 4, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2026-08-31&g=2026-08-31), kan de minister de subsidie verhogen indien de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar lager zijn dan de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
-2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2024-01-01&g=2024-01-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+2. De verhoging is het verschil tussen de gederfde inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2026-08-31&g=2026-08-31), over het jaar waarin de donatie wordt uitgevoerd en de gederfde inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
 
 3. Bij de berekening van de gederfde inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
 
-4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2024-01-01&g=2024-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2026-08-31&g=2026-08-31), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2026-08-31&g=2026-08-31) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2026-08-31&g=2026-08-31) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 ##### Artikel 8
 
@@ -163,7 +163,7 @@ Deze regeling wordt uitgevoerd door de Nederlandse Transplantatie Stichting.
 
 ##### Artikel 10
 
-Deze regeling vervalt met ingang van 1 september 2026.
+Deze regeling vervalt met ingang van 1 september 2031.
 
 ##### Artikel 10a
 

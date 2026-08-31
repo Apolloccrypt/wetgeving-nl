@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)"
+citeertitel: "Besluit mandaat, volmacht en machtiging keuringsdiensten 2021"
 identifier: "BWBR0044854"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-24"
-last_updated: "2026-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044854"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15858573"
-version_id: "27551172"
-internal_id: "C38873651"
-label_id: "15793614"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044854/2026-02-24/0"
-intitule_bron: "Stcrt.2021-9529"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-10"
-intitule_published: "2021-02-25"
-intitule_in_force: "2021-02-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-9529"
-original_signed_date: "2021-02-10"
-original_published_date: "2021-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-9529"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044854&z=2026-02-24&g=2026-02-24"
-jci_1_0: "1.0:c:BWBR0044854&g=2026-02-24"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging keuringsdiensten 2021"
-signed_date: "2021-02-10"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2026-02-24
+status: geldig
+toestand: 2026-02-24
+bron: "https://wetten.overheid.nl/BWBR0044854"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)
-
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van de technisch directeur Stichting Kwaliteits-Controle-Bureau, de directeur Stichting Bloembollenkeuringsdienst, de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw en de directeur Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed voor landbouwgewassen;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,33 +20,34 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Landbouw, Natuur en Voedselkwaliteit;
+- a. *de minister:* de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- b. **de technisch directeur KCB:** de technisch directeur Stichting Kwaliteits-Controle-Bureau;
+- b. *de technisch directeur KCB:* de technisch directeur Stichting Kwaliteits-Controle-Bureau;
 
-- c. **de directeur BKD:** de directeur Stichting Bloembollenkeuringsdienst;
+- c. *de directeur BKD:* de directeur Stichting Bloembollenkeuringsdienst;
 
-- d. **de directeur Naktuinbouw:** de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
+- d. *de directeur Naktuinbouw:* de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- e. **de directeur NAK:** de directeur Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed voor landbouwgewassen;
+- e. *de directeur NAK:* de directeur Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed voor landbouwgewassen;
 
-- f. **het KCB:** de Stichting Kwaliteits-Controle-Bureau;
+- f. *het KCB:* de Stichting Kwaliteits-Controle-Bureau;
 
-- g. **de BKD:** de Stichting Bloembollenkeuringsdienst;
+- g. *de BKD:* de Stichting Bloembollenkeuringsdienst;
 
-- h. **de Naktuinbouw:** de Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
+- h. *de Naktuinbouw:* de Nederlandse Algemene Kwaliteitsdienst Tuinbouw;
 
-- i. **de NAK:** de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;
+- i. *de NAK:* de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;
 
-- j. **de regeling:** de [Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863);
+- j. *de regeling:* de [Regeling plantgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863);
 
-- k. **wet:** [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
+- k. *wet:*
+ [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
 
-- l. **verordening 2016/2031:** Verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/213, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad tot intrekking van de [Richtlijnen 69/464](31969L0464)/EEFG, [74/467/EEG](31974L0467), [93/85/EEG](31993L0085), [98/57/EG](31998L0057), [2000/29/EG](32000L0029), [2006/91/EG](32006L0091) en [2007/33/EG](32007L0033) van de Raad (PbEU 2016, L 317);
+- l. *verordening 2016/2031:* Verordening (EU) 2016/2031 van het Europees Parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/213, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees Parlement en de Raad tot intrekking van de Richtlijnen 69/464/EEFG, 74/467/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG en 2007/33/EG van de Raad (PbEU 2016, L 317);
 
-- m. **verordening 2017/625:** Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95);
+- m. *verordening 2017/625:* Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de Richtlijnen 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG en 2008/120/EG van de Raad, en tot intrekking van de Verordeningen (EG) nr. 854/2004 en (EG) nr. 882/2004 van het Europees Parlement en de Raad, de Richtlijnen 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG en 97/78/EG van de Raad en Besluit 92/438/EEG van de Raad (verordening officiële controles) (PbEU 2017, L 95);
 
-- n. **de directeur Skal:** de directeur van Stichting Skal.
+- n. *de directeur Skal:* de directeur van Stichting Skal.
 
 #### § 2. Mandaat, volmacht en machtiging
 
@@ -84,11 +57,11 @@ In dit besluit wordt verstaan onder:
 
 - a. de uitgifte van legitimatiebewijzen aan de medewerkers van het KCB, de BKD, de Naktuinbouw en de NAK die zijn aangewezen als toezichthouder, bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=22);
 
-- b. de officiële controle en andere officiële activiteiten als bedoeld in artikel 2 van [verordening 2017/625](32525R2017) om de aanwezigheid van schadelijke organismen vast te stellen;
+- b. de officiële controle en andere officiële activiteiten als bedoeld in artikel 2 van verordening 2017/625 om de aanwezigheid van schadelijke organismen vast te stellen;
 
-- c. de registratie, als bedoeld in artikel 65 van [verordening 2016/2031](32031R2016);
+- c. de registratie, als bedoeld in artikel 65 van verordening 2016/2031;
 
-- d. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van [verordening 2016/2031](32031R2016) met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
+- d. het verrichten van taken ten behoeve van de afgifte van een fytosanitair uitvoercertificaat als bedoeld in artikel 100 van verordening 2016/2031 met uitzondering van de afgifte van een fytosanitair uitvoercertificaat en het eindonderzoek van de voor export gereedstaande zending;
 
 - e. het nemen van besluiten en het verrichten van overige handelingen die verband houden met het verzenden van facturen voor de door hen op grond van dit mandaatbesluit verrichte werkzaamheden, alsmede voor werkzaamheden die door medewerkers zijn verricht op grond van de overeenkomst als onbezoldigd ambtenaar, met inachtneming van de door de minister vastgestelde tarieven als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=21);
 
@@ -112,7 +85,7 @@ In dit besluit wordt verstaan onder:
 
 - c. het geven van een ontheffing als bedoeld in [artikel 41 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=41) van het verbod in de [artikelen 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=21), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=23), [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=30), en [38, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0044863&artikel=38).
 
-6. Aan de technisch directeur KCB wordt mandaat, volmacht en machtiging verleend voor het uitvoeren van controles in het kader van fytosanitaire doorvoer als bedoeld in artikel 47, eerste lid, van [verordening 2016/2031](32031R2016).
+6. Aan de technisch directeur KCB wordt mandaat, volmacht en machtiging verleend voor het uitvoeren van controles in het kader van fytosanitaire doorvoer als bedoeld in artikel 47, eerste lid, van verordening 2016/2031.
 
 ##### Artikel 3
 
@@ -186,10 +159,8 @@ Het [Besluit mandaat, volmacht en machtiging keuringsdiensten 2019](https://wett
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van 1 maart 2021.
+Dit besluit treedt in werking met ingang van 1 maart 2021.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging keuringsdiensten 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

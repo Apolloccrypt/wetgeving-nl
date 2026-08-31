@@ -1,43 +1,17 @@
 ---
 title: "Regeling Adviescommissie bezwaar kwalificatieplicht SVB"
 identifier: "BWBR0045169"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-06-01"
-last_updated: "2021-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045169"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15968063"
-version_id: "27786432"
-internal_id: "C39189761"
-label_id: "15902284"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045169/2021-06-01/0"
-intitule_bron: "Stcrt.2021-26714"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-17"
-intitule_published: "2021-05-31"
-intitule_in_force: "2021-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-26714"
-original_signed_date: "2021-05-17"
-original_published_date: "2021-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-26714"
-entry_into_force_date: "2021-06-01"
-jci_1_3: "jci1.3:c:BWBR0045169&z=2021-06-01&g=2021-06-01"
-jci_1_0: "1.0:c:BWBR0045169&g=2021-06-01"
-citeertitel_status: "officieel"
-signed_date: "2021-05-17"
-entry_into_force: "2021-06-01"
+publicatiedatum: 2021-06-01
+laatste_update: 2021-06-01
+status: geldig
+toestand: 2021-06-01
+bron: "https://wetten.overheid.nl/BWBR0045169"
+opgehaald: 2026-08-31
 ---
+
 # Regeling Adviescommissie bezwaar kwalificatieplicht SVB
-
-gelet op [artikel 3:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5) en [artikel 1 van Regeling van de Minister voor Jeugd en Gezin van 13 juli 2010, nr. IVV/J&G/3013046, houdende de instelling van een onafhankelijke adviescommissie ter advisering van de Raad van bestuur van de Sociale verzekeringsbank over de aspecten van de Leerplichtwet 1969 ten behoeve van de beslissing op bezwaar inzake artikel 7, tweede lid, onder a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027951&artikel=1)
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -45,19 +19,19 @@ Besluit:
 
 Deze regeling verstaat onder:
 
-- a. **de SVB:** de Sociale verzekeringsbank, genoemd in [artikel 3, eerste lid van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
+- a. *de SVB:* de Sociale verzekeringsbank, genoemd in [artikel 3, eerste lid van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
 
-- b. **De Raad van bestuur:** het met de dagelijkse leiding van de Sociale Verzekeringsbank belaste orgaan, bedoeld in [artikel 6, eerste lid van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6), tevens bestuursorgaan als bedoeld in [artikel 1:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1);
+- b. *De Raad van bestuur:* het met de dagelijkse leiding van de Sociale Verzekeringsbank belaste orgaan, bedoeld in [artikel 6, eerste lid van de Wet Structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6), tevens bestuursorgaan als bedoeld in [artikel 1:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1);
 
-- c. **commissie:** de adviescommissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=1&artikel=2&z=2021-06-01&g=2021-06-01) van deze regeling;
+- c. *commissie:* de adviescommissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=1&artikel=2&z=2021-06-01&g=2021-06-01) van deze regeling;
 
-- d. **verplichtingen op grond van de Leerplichtwet 1969:** de verplichtingen bedoeld in [artikel 7, tweede lid, onder a AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) en [artikel 26, tweede lid, onder a Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=26) in samenhang met de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=2), en [4a, eerste lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=4a).
+- d. *verplichtingen op grond van de Leerplichtwet 1969:* de verplichtingen bedoeld in [artikel 7, tweede lid, onder a AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) en [artikel 26, tweede lid, onder a Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=26) in samenhang met de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=2), en [4a, eerste lid, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=4a).
 
-- e. **leerplichtambtenaar:** de ambtenaar bedoeld in [artikel 16 Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16) die de SVB heeft geadviseerd de kinderbijslag of wezenuitkering in te trekken.
+- e. *leerplichtambtenaar:* de ambtenaar bedoeld in [artikel 16 Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16) die de SVB heeft geadviseerd de kinderbijslag of wezenuitkering in te trekken.
 
-- f. **deskundige op het gebied van de Leerplichtwet 1969:** een leerplichtambtenaar als bedoeld in [artikel 16 Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16), of iemand die ruim voldoende kennis en ervaring op het gebied van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) heeft en tevens direct of indirect betrokken is bij de uitvoering van deze wet.
+- f. *deskundige op het gebied van de Leerplichtwet 1969:* een leerplichtambtenaar als bedoeld in [artikel 16 Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=16), of iemand die ruim voldoende kennis en ervaring op het gebied van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) heeft en tevens direct of indirect betrokken is bij de uitvoering van deze wet.
 
-- g. **de belanghebbende:** belanghebbende als bedoeld in [artikel 1:2, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
+- g. *de belanghebbende:* belanghebbende als bedoeld in [artikel 1:2, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
 ##### Artikel 2. Instelling adviescommissie bezwaar kwalificatieplicht
 
@@ -204,5 +178,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de datum van uit
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als de Regeling Adviescommissie bezwaar kwalificatieplicht SVB.
-
-Aldus vastgesteld door de Raad van bestuur van de Sociale verzekeringsbank.

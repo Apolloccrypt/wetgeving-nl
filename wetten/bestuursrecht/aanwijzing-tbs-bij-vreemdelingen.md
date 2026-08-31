@@ -1,40 +1,21 @@
 ---
 title: "Aanwijzing tbs bij vreemdelingen"
 identifier: "BWBR0044693"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044693"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15807303"
-version_id: "27409672"
-internal_id: "C38700761"
-label_id: "15744944"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044693/2021-03-01/0"
-intitule_bron: "Stcrt.2020-62568"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-31"
-intitule_in_force: "2020-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62568"
-original_published_date: "2020-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62568"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044693&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0044693&g=2021-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0044693"
+opgehaald: 2026-08-31
 ---
+
 # Aanwijzing tbs bij vreemdelingen
 
 ### Samenvatting
 
-Deze aanwijzing geeft regels voor het vorderen van tbs bij vreemdelingen, zie hiervoor met name hoofdstuk 2. Bij vreemdelingen ten aanzien van wie vaststaat of aannemelijk is dat zij niet rechtmatig in Nederland kunnen verblijven na afloop van de maatregel tot terbeschikkingstelling (tbs) wordt afgezien van het vorderen van tbs, mits dat gelet op het belang van de veiligheid van de samenleving verantwoord is. Als bij deze vreemdelingen toch een tbs-maatregel aangewezen is, dan zal dat in de regel een tbs met verpleging van overheidswege zijn1Zie ook § 2.2 onder Strafvordering hierna. In deze aanwijzing zal verder met ‘tbs’ steeds gedoeld worden op tbs met verpleging van overheidswege.. Tevens geeft deze aanwijzing in hoofdstuk 3 regels voor de executie van de tbs bij vreemdelingen. Uitgangspunt bij de executie van tbs bij vreemdelingen zonder rechtmatig verblijf is dat, waar mogelijk, wordt ingezet op een snelle en veilige repatriëring naar het land van herkomst.
+Deze aanwijzing geeft regels voor het vorderen van tbs bij vreemdelingen, zie hiervoor met name [hoofdstuk 2](https://wetten.overheid.nl/BWBR0044693). Bij vreemdelingen ten aanzien van wie vaststaat of aannemelijk is dat zij niet rechtmatig in Nederland kunnen verblijven na afloop van de maatregel tot terbeschikkingstelling (tbs) wordt afgezien van het vorderen van tbs, mits dat gelet op het belang van de veiligheid van de samenleving verantwoord is. Als bij deze vreemdelingen toch een tbs-maatregel aangewezen is, dan zal dat in de regel een tbs met verpleging van overheidswege zijn1Zie ook § 2.2 onder Strafvordering hierna. In deze aanwijzing zal verder met ‘tbs’ steeds gedoeld worden op tbs met verpleging van overheidswege.. Tevens geeft deze aanwijzing in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0044693) regels voor de executie van de tbs bij vreemdelingen. Uitgangspunt bij de executie van tbs bij vreemdelingen zonder rechtmatig verblijf is dat, waar mogelijk, wordt ingezet op een snelle en veilige repatriëring naar het land van herkomst.
 
 ### 1. Achtergrond
 
@@ -74,15 +55,15 @@ De tenuitvoerlegging van de tbs-maatregel (al dan niet gecombineerd met een geva
 
 ### 2.3.3. Informatie over passende voorzieningen in land van herkoms
 
-Omdat bij de verlenging van de te vorderen tbs aan de orde zal komen of sprake is van delictgevaar bij een eventuele terugkeer naar het land van herkomst, zal tijdens de behandeling in het FPC onderzocht worden of in het betreffende land passende opvang en/of hulpverlening aanwezig is (zie § 3.1 hierna). Indien de officier van justitie deze informatie ook reeds bij het vorderen van de tbs van belang acht, kan hij daarover informatie inwinnen bij DJI. FPC Veldzicht, FPC Dr. S. van Mesdag en FPC de Pompestichting zijn gespecialiseerd in de behandeling van vreemdelingen zonder rechtmatig verblijf in de tbs en hun repatriëring. Indien het zicht op een passende voorziening in het land van herkomst ten tijde van de vordering ontbreekt, is dat evenwel op zichzelf geen grond om het vorderen van tbs achterwege te laten.
+Omdat bij de verlenging van de te vorderen tbs aan de orde zal komen of sprake is van delictgevaar bij een eventuele terugkeer naar het land van herkomst, zal tijdens de behandeling in het FPC onderzocht worden of in het betreffende land passende opvang en/of hulpverlening aanwezig is (zie [§ 3.1](https://wetten.overheid.nl/BWBR0044693) hierna). Indien de officier van justitie deze informatie ook reeds bij het vorderen van de tbs van belang acht, kan hij daarover informatie inwinnen bij DJI. FPC Veldzicht, FPC Dr. S. van Mesdag en FPC de Pompestichting zijn gespecialiseerd in de behandeling van vreemdelingen zonder rechtmatig verblijf in de tbs en hun repatriëring. Indien het zicht op een passende voorziening in het land van herkomst ten tijde van de vordering ontbreekt, is dat evenwel op zichzelf geen grond om het vorderen van tbs achterwege te laten.
 
-### 2.3.4. Aanvang tbs bij combinatievonnis ([art. 37b lid 2 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b))
+### 2.3.4. Aanvang tbs bij combinatievonnis (art. 37b lid 2 Sr)
 
 Vreemdelingen die geen bestendig rechtmatig verblijf (meer) hebben in Nederland in de zin van [artikel 8, onder a tot en met e of l, VW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) komen niet in aanmerking voor voorwaardelijke invrijheidstelling (v.i.). Bij deze vreemdelingen met een combinatievonnis wordt met de tbs pas een aanvang genomen nadat zij de opgelegde gevangenisstraf in zijn geheel hebben uitgezeten. In de praktijk zijn er meer mogelijkheden tot repatriëring tijdens de tbs dan tijdens de gevangenisstraf. De Minister van Justitie en Veiligheid kan op grond van [artikel 6.4 lid 3 Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.4) beslissen om de tbs-maatregel eerder te laten aanvangen; de rechter kan de Minister daarover in zijn uitspraak adviseren ex [art. 37b lid 2 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b). In die gevallen waarin het geraden is om de tbs eerder te laten aanvangen, verdient het aanbeveling om aan te sluiten bij de algemene v.i.-regeling en bij het vorderen van een combinatiestraf aan de rechter te verzoeken om de Minister te adviseren de tbs te doen aanvangen na ommekomst van twee derde van de gevangenisstraf.
 
 ### 3. Tenuitvoerlegging
 
-De tbs neemt een aanvang op de datum waarop de beslissing tot oplegging onherroepelijk is geworden. Bij een combinatiestraf wordt eerst de gevangenisstraf ten uitvoer gelegd. De tbs vangt dan in beginsel aan op de v.i.-datum. Bij vreemdelingen die geen bestendig rechtmatig verblijf (meer) hebben is dat echter anders omdat zij niet in aanmerking komen voor v.i.. Bij hen vangt de tbs aan op de datum waarop de gevangenisstraf eindigt, tenzij de procedure is gevolgd zoals hierboven beschreven onder in § 2.3.4.
+De tbs neemt een aanvang op de datum waarop de beslissing tot oplegging onherroepelijk is geworden. Bij een combinatiestraf wordt eerst de gevangenisstraf ten uitvoer gelegd. De tbs vangt dan in beginsel aan op de v.i.-datum. Bij vreemdelingen die geen bestendig rechtmatig verblijf (meer) hebben is dat echter anders omdat zij niet in aanmerking komen voor v.i.. Bij hen vangt de tbs aan op de datum waarop de gevangenisstraf eindigt, tenzij de procedure is gevolgd zoals hierboven beschreven onder in [§ 2.3.4](https://wetten.overheid.nl/BWBR0044693).
 
 ### 3.1. Verlenging
 
@@ -91,6 +72,10 @@ De eerste termijn van de tbs duurt in alle gevallen twee jaar en kan daarna op v
 ### 3.2. Repatriëring
 
 De behandeling in het FPC is voor vreemdelingen zonder rechtmatig verblijf voornamelijk gericht op stabilisatie en vermindering van de delictgevaarlijkheid, met als doel een veilige repatriëring. Om de tbs-behandeling niet langer dan noodzakelijk te laten voortduren, wordt ingezet op voortvarende repatriëring. Daartoe kan het OM twee trajecten bewandelen. Dat zijn:
+
+- 1. de overdracht van de tenuitvoerlegging van de tbs naar het land van herkomst ingevolge de [WOTS](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) of de [WETS](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) door DJI/IOS;
+
+- 2. het vorderen van de beëindiging van de tbs-maatregel bij de rechter ([art. 6:6:10b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b)).
 
 Bepalend voor de keuze tussen deze opties is enerzijds of overdracht op basis van de [WOTS](https://wetten.overheid.nl/jci1.3:c:BWBR0004028) of de [WETS](https://wetten.overheid.nl/jci1.3:c:BWBR0031814) mogelijk is in het specifieke geval en anderzijds de snelheid waarmee de repatriëring gerealiseerd kan worden.
 
@@ -106,15 +91,15 @@ DJI/IOS handelt de aanvragen voor overdracht af.
 
 De Minister van Justitie en Veiligheid kan op grond van [art. 6:2:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) de repatriëring initiëren. Wanneer het FPC aan de Minister meldt dat in het land van herkomst een passende voorziening beschikbaar is, die gericht is op vermindering van de stoornis en het daarmee samenhangende recidivegevaar, kan de Minister de tbs-maatregel beëindigen onder de voorwaarde dat de vreemdeling niet naar Nederland terugkeert (art. 6:2:18 Sv). In zo’n geval kan de Minister het bericht van het FPC doorzenden aan de officier van justitie die bevoegd om de verlenging van de tbs te vorderen, met het verzoek te adviseren ten behoeve van de besluitvorming door de Minister8DJI/DIZ is bevoegd namens de Minister..
 
-### 3.2.3. Beëindiging van de tbs door de rechter onder de voorwaarde dat de betrokkene niet naar Nederland terugkeert ([art. 6:6:10b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b))
+### 3.2.3. Beëindiging van de tbs door de rechter onder de voorwaarde dat de betrokkene niet naar Nederland terugkeert (art. 6:6:10b Sv)
 
 Daarnaast kan de officier van justitie tijdens de looptijd van de tbs-maatregel het initiatief nemen voor de beëindiging van de tbs-maatregel door op basis van [artikel 6:6:10b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b) een vordering bij de rechter in te dienen tot beëindiging van de tbs onder de voorwaarde dat de betrokkene Nederland verlaat en niet naar Nederland terugkeert. Aanleiding voor het indienen van deze vordering is in de regel de informatie van het FPC waarin wordt aangegeven dat er een passende voorziening in het land van herkomst beschikbaar is. De vordering ex artikel 6:6:10b Sv kan op elk moment gedurende de looptijd van de tbs-maatregel worden ingediend. Wanneer de beëindiging (zo goed als) samenvalt met het moment waarop de verlenging van de tbs aan de orde komt, dient tevens een vordering tot verlenging te worden ingediend teneinde een latere herleving mogelijk te maken9ECLI:NL:RBSGR:2010:BO8868.. Overigens kan de rechter ook ambtshalve besluiten tot beëindiging van de tbs onder de bovengenoemde voorwaarde.
 
 ### 3.3. Terugkeer naar Nederland in strijd met de voorwaarde
 
-Indien een vreemdeling na een beëindiging van de tbs op grond van [artikel 6:2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) of [6:6:10b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b), in strijd met de voorwaarde terugkeert naar Nederland, herleeft de maatregel. De (resterende) tbs gaat lopen op het moment dat de betrokkene is aangehouden. Let op: in zo’n geval dient echter wel een vordering tot voorlopige hervatting en hervatting van de verpleging te worden ingediend (art. 6:6:10b lid 2 Sv) (zie 3.3.1).
+Indien een vreemdeling na een beëindiging van de tbs op grond van [artikel 6:2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) of [6:6:10b Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b), in strijd met de voorwaarde terugkeert naar Nederland, herleeft de maatregel. De (resterende) tbs gaat lopen op het moment dat de betrokkene is aangehouden. Let op: in zo’n geval dient echter wel een vordering tot voorlopige hervatting en hervatting van de verpleging te worden ingediend (art. 6:6:10b lid 2 Sv) (zie [3.3.1](https://wetten.overheid.nl/BWBR0044693)).
 
-### 3.3.1. Aanhouding ex [artikel 6:3:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:15) en vordering hervatting van de tbs met verpleging van overheidswege
+### 3.3.1. Aanhouding ex artikel 6:3:15 Sv en vordering hervatting van de tbs met verpleging van overheidswege
 
 In de meeste gevallen zal de (vreemdelingen)politie of de Koninklijke Marechaussee het overtreden van de voorwaarde signaleren. Vervolgens wordt de officier van justitie van het executerend parket hierover geïnformeerd. De officier van justitie gelast dan in alle gevallen de aanhouding op basis van [artikel 6:3:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:15) en dient een vordering tot voorlopige hervatting van de verpleging in bij de rechter-commissaris en een vordering tot hervatting van de verpleging bij de rechtbank die in eerste aanleg kennis genomen heeft van het misdrijf ter zake waarvan de tbs is gelast ([art. 6:6:1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:1)). Wanneer een vordering tot hervatting van de verpleging wordt ingediend binnen vier maanden voor het tijdstip waarop de tbs door tijdsverloop eindigt, kan tevens een vordering tot verlenging van de tbs worden ingediend ([art. 6:6:11 lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:11)). Als de rechtbank vervolgens de vordering tot hervatting van de verpleging afwijst, eindigt de herleefde tbs van rechtswege ([art. 6:6:10b lid 3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10b)). Wanneer de rechtbank de vordering tot hervatting toewijst, zal de verpleging weer een aanvang nemen. De tbs-gestelde wordt dan weer in een FPC geplaatst. Tegen de beslissing van de rechtbank is appel mogelijk bij de Penitentiaire kamer van het gerechtshof Arnhem-Leeuwarden ([art. 6:6:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15)).
 

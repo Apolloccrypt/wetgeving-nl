@@ -1,72 +1,46 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 maart 2021, houdende nadere regels inzake participatieraden (Regeling participatieraden BES)"
+citeertitel: "Regeling participatieraden BES"
 identifier: "BWBR0045334"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2021-07-06"
-last_updated: "2021-07-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045334"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "16010133"
-version_id: "27867392"
-internal_id: "C39300771"
-label_id: "15943724"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045334/2021-07-06/0"
-intitule_bron: "Stcrt.2021-34066"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-09"
-intitule_published: "2021-07-05"
-intitule_in_force: "2021-07-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34066"
-original_signed_date: "2021-03-09"
-original_published_date: "2021-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34066"
-entry_into_force_date: "2021-07-06"
-jci_1_3: "jci1.3:c:BWBR0045334&z=2021-07-06&g=2021-07-06"
-jci_1_0: "1.0:c:BWBR0045334&g=2021-07-06"
-citeertitel_status: "officieel"
-short_title: "Regeling participatieraden BES"
-signed_date: "2021-03-09"
-entry_into_force: "2021-07-06"
+publicatiedatum: 2021-07-06
+laatste_update: 2021-07-06
+status: geldig
+toestand: 2021-07-06
+bron: "https://wetten.overheid.nl/BWBR0045334"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 maart 2021, houdende nadere regels inzake participatieraden (Regeling participatieraden BES)
-
-Gelet op [artikel 72q van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72q);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **college van advies en geschillen:** college van advies en geschillen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=22&z=2021-07-06&g=2021-07-06);
+- b. *college van advies en geschillen:* college van advies en geschillen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=22&z=2021-07-06&g=2021-07-06);
 
-- c. **diensthoofd:** diensthoofd van de betrokken organisatie-eenheid;
+- c. *diensthoofd:* diensthoofd van de betrokken organisatie-eenheid;
 
-- d. **instellingsbesluit:** besluit op grond van [artikel 72k, eerste of derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72k) tot instelling van een participatieraad onderscheidenlijk een centrale participatieraad;
+- d. *instellingsbesluit:* besluit op grond van [artikel 72k, eerste of derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72k) tot instelling van een participatieraad onderscheidenlijk een centrale participatieraad;
 
-- e. **overleg:** open en reëel overleg als bedoeld in [artikel 72j, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72j);
+- e. *overleg:* open en reëel overleg als bedoeld in [artikel 72j, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72j);
 
-- f. **overlegvergadering:** overlegvergadering als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=16&z=2021-07-06&g=2021-07-06);
+- f. *overlegvergadering:* overlegvergadering als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=16&z=2021-07-06&g=2021-07-06);
 
-- g. **reglement:** reglement als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=10&z=2021-07-06&g=2021-07-06), of [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=21&z=2021-07-06&g=2021-07-06);
+- g. *reglement:* reglement als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=10&z=2021-07-06&g=2021-07-06), of [artikel 21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=21&z=2021-07-06&g=2021-07-06);
 
-- h. **Sectorale Overlegcommissie BES:** Sectorale Overlegcommissie BES, bedoeld in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1);
+- h. *Sectorale Overlegcommissie BES:* Sectorale Overlegcommissie BES, bedoeld in [artikel 2.1, eerste lid, van het Besluit overlegstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028779&artikel=2.1);
 
-- i. **werkzame personen:**
+- i. *werkzame personen:*
 
-- –. ambtenaren in dienst van de Staat;
+   - – ambtenaren in dienst van de Staat;
 
-- –. zij met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht;
+   - – zij met wie een arbeidsovereenkomst is gesloten naar burgerlijk recht;
 
-- –. zij die door het diensthoofd als zodanig zijn aangeduid.
+   - – zij die door het diensthoofd als zodanig zijn aangeduid.
 
 ##### Artikel 2. Grootte en samenstelling participatieraden
 
@@ -140,7 +114,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 1. Een zetel die vrijkomt tijdens de zittingsduur van de participatieraad, wordt voor de resterende periode waarvoor die raad is ingesteld, vervuld door de eerstvolgende niet gekozen kandidaat volgens de uitslag van de laatst gehouden verkiezingen.
 
-2. Indien geen kandidaten meer beschikbaar zijn en de participatieraad minder leden telt dan het op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=2&z=2021-07-06&g=2021-07-06), ten minste vereiste aantal, worden met overeenkomstige toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=4&z=2021-07-06&g=2021-07-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=5&z=2021-07-06&g=2021-07-06) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=6&z=2021-07-06&g=2021-07-06) voor de vrijgekomen zetels tussentijdse verkiezingen gehouden.
+2. Indien geen kandidaten meer beschikbaar zijn en de participatieraad minder leden telt dan het op grond van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=2&z=2021-07-06&g=2021-07-06), ten minste vereiste aantal, worden met overeenkomstige toepassing van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=4&z=2021-07-06&g=2021-07-06), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=5&z=2021-07-06&g=2021-07-06) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=6&z=2021-07-06&g=2021-07-06) voor de vrijgekomen zetels tussentijdse verkiezingen gehouden.
 
 3. Een zetel die vrijkomt als gevolg van verhindering gedurende meer dan twee maanden, wordt voor de duur van de periode van verhindering vervuld. De participatieraad regelt de wijze waarop een zetel bij langdurige verhindering zal worden vervuld.
 
@@ -176,7 +150,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 3. In een werkgroep kunnen naast leden van de participatieraad ook andere bij die organisatie-eenheid werkzame personen zitting hebben. Het voorzitterschap berust bij een lid van de participatieraad.
 
-4. Ten aanzien van de leden van door de participatieraad ingestelde werkgroepen, die geen lid zijn van die raad, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=9&z=2021-07-06&g=2021-07-06) alsmede [artikel 72p van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72p) van overeenkomstige toepassing.
+4. Ten aanzien van de leden van door de participatieraad ingestelde werkgroepen, die geen lid zijn van die raad, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=9&z=2021-07-06&g=2021-07-06) alsmede [artikel 72p van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72p) van overeenkomstige toepassing.
 
 5. De participatieraad kan bij het besluit tot instelling van een werkgroep, zijn bevoegdheid met betrekking tot het voeren van overleg geheel of gedeeltelijk aan die werkgroep overdragen.
 
@@ -188,7 +162,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 ##### Artikel 13. Geheimhouding
 
-1. De leden van de participatieraad en de leden van een werkgroep als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=11&z=2021-07-06&g=2021-07-06) zijn gehouden tot geheimhouding van alle vertrouwelijke informatie die zij in die hoedanigheid vernemen, en van alle aangelegenheden ten aanzien waarvan het diensthoofd dan wel de participatieraad geheimhouding heeft opgelegd of waarvan zij het vertrouwelijk karakter moeten begrijpen. Het voornemen om geheimhouding op te leggen alsmede de reikwijdte van de geheimhouding wordt voor de behandeling van de desbetreffende aangelegenheid medegedeeld.
+1. De leden van de participatieraad en de leden van een werkgroep als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=11&z=2021-07-06&g=2021-07-06) zijn gehouden tot geheimhouding van alle vertrouwelijke informatie die zij in die hoedanigheid vernemen, en van alle aangelegenheden ten aanzien waarvan het diensthoofd dan wel de participatieraad geheimhouding heeft opgelegd of waarvan zij het vertrouwelijk karakter moeten begrijpen. Het voornemen om geheimhouding op te leggen alsmede de reikwijdte van de geheimhouding wordt voor de behandeling van de desbetreffende aangelegenheid medegedeeld.
 
 2. Alvorens met een deskundige als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) vertrouwelijke informatie wordt gedeeld of voor aanvang van de overlegvergadering, ondertekent de deskundige een verklaring van geheimhouding, op grond waarvan het eerste lid van overeenkomstige toepassing op hem is.
 
@@ -246,7 +220,7 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 ##### Artikel 18. Advies
 
-1. Het diensthoofd vraagt aan de participatieraad advies als bedoeld in [artikel 72n, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72n) op een zodanig tijdstip, dat het advies van wezenlijke invloed kan zijn op de voorgenomen maatregel. Daarbij worden de beweegredenen voor de maatregel en de te verwachten gevolgen aangegeven.
+1. Het diensthoofd vraagt aan de participatieraad advies als bedoeld in [artikel 72n, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72n) op een zodanig tijdstip, dat het advies van wezenlijke invloed kan zijn op de voorgenomen maatregel. Daarbij worden de beweegredenen voor de maatregel en de te verwachten gevolgen aangegeven.
 
 2. Voordat de participatieraad advies uitbrengt over een voorgenomen maatregel, wordt de betrokken aangelegenheid ten minste een maal in een overlegvergadering behandeld.
 
@@ -284,13 +258,13 @@ Een participatieraad draagt er zorg voor dat de uitslag van de verkiezingen, ond
 
 4. De leden van de centrale participatieraad kunnen te allen tijde hun lidmaatschap beëindigen. Zij geven daarvan schriftelijk kennis aan de voorzitter van de centrale participatieraad en de voorzitter van de participatieraad die hem heeft afgevaardigd of, als het een lid is als bedoeld in het eerste lid, onder b, aan het diensthoofd van de organisatie-eenheid waarin hij werkzaam is.
 
-5. De centrale participatieraad stelt met overeenkomstige toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=10&z=2021-07-06&g=2021-07-06), een reglement op, dat in ieder geval regels bevat over de wijze waarop, met inachtneming van [artikel 72l van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72l), bepaald wordt welke onderwerpen in de centrale participatieraad worden behandeld.
+5. De centrale participatieraad stelt met overeenkomstige toepassing van [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=10&z=2021-07-06&g=2021-07-06), een reglement op, dat in ieder geval regels bevat over de wijze waarop, met inachtneming van [artikel 72l van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72l), bepaald wordt welke onderwerpen in de centrale participatieraad worden behandeld.
 
 6. Het overleg met de centrale participatieraad wordt namens de minister gevoerd door de directeur Rijksdienst Caribisch Nederland.
 
-7. Ten aanzien van de centrale participatieraad zijn de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=11&z=2021-07-06&g=2021-07-06), [16, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=16&z=2021-07-06&g=2021-07-06), en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=17&z=2021-07-06&g=2021-07-06) van overeenkomstige toepassing.
+7. Ten aanzien van de centrale participatieraad zijn de [artikelen 11 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=11&z=2021-07-06&g=2021-07-06), [16, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=16&z=2021-07-06&g=2021-07-06), en [17 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=17&z=2021-07-06&g=2021-07-06) van overeenkomstige toepassing.
 
-8. De noodzakelijke kosten die verbonden zijn aan de vervulling van de taak van de centrale participatieraad komen ten laste van de Rijksdienst Caribisch Nederland, daaronder begrepen de kosten voor de van overeenkomstige toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=14&z=2021-07-06&g=2021-07-06).
+8. De noodzakelijke kosten die verbonden zijn aan de vervulling van de taak van de centrale participatieraad komen ten laste van de Rijksdienst Caribisch Nederland, daaronder begrepen de kosten voor de van overeenkomstige toepassing van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=12&z=2021-07-06&g=2021-07-06) en [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=14&z=2021-07-06&g=2021-07-06).
 
 ##### Artikel 22. College van advies en geschillen
 
@@ -306,7 +280,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 - a. een voorgenomen maatregel, bedoeld in [artikel 72n, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72n), indien naar aanleiding van het hernieuwde overleg, bedoeld in [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=18&z=2021-07-06&g=2021-07-06), niet alsnog overeenstemming is bereikt;
 
-- b. een aangelegenheid die betrekking heeft op benadelingsbescherming als bedoeld in [artikel 72p van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72p);
+- b. een aangelegenheid die betrekking heeft op benadelingsbescherming als bedoeld in [artikel 72p van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=72p);
 
 - c. de kandidaatstelling of verkiezing van de leden van de participatieraad;
 
@@ -322,7 +296,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 1. Geschillen als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06) kunnen rechtstreeks en met vermelding van de verschillende standpunten bij het college van advies en geschillen aanhangig worden gemaakt door zowel het diensthoofd als de participatieraad.
 
-2. Door iedere belanghebbende kunnen geschillen als bedoeld in [artikel 23, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06), rechtstreeks en toegelicht bij het college van advies en geschillen aanhangig worden gemaakt.
+2. Door iedere belanghebbende kunnen geschillen als bedoeld in [artikel 23, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06), rechtstreeks en toegelicht bij het college van advies en geschillen aanhangig worden gemaakt.
 
 3. Indien er sprake is van een spoedeisend belang, wordt dit bij de aanhangig making van het geschil vermeld.
 
@@ -336,7 +310,7 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 4. Het college van advies en geschillen brengt advies uit over een geschil binnen vier weken nadat het geschil bij hem aanhangig is gemaakt.
 
-5. Het diensthoofd neemt geen beslissing inzake een geschil als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06) voordat een minnelijke schikking is bereikt of het advies van het college van advies en geschillen is ontvangen.
+5. Het diensthoofd neemt geen beslissing inzake een geschil als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0045334&artikel=23&z=2021-07-06&g=2021-07-06) voordat een minnelijke schikking is bereikt of het advies van het college van advies en geschillen is ontvangen.
 
 6. Het diensthoofd neemt binnen vier weken nadat het advies van het college van advies en geschillen is ontvangen een beslissing.
 
@@ -352,10 +326,8 @@ Onverminderd de bevoegdheid, bedoeld in [artikel 9, eerste en tweede lid](https:
 
 ##### Artikel 27. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 ##### Artikel 28. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling participatieraden BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

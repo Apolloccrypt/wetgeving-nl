@@ -1,40 +1,21 @@
 ---
 title: "Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra 2020–2021"
 identifier: "BWBR0045147"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-10-28"
-last_updated: "2022-10-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045147"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "15960403"
-version_id: "27779172"
-internal_id: "C39181841"
-label_id: "15897904"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045147/2022-10-28/0"
-intitule_bron: "Stcrt.2021-24825"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-05-19"
-intitule_in_force: "2021-05-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-24825"
-original_published_date: "2021-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-24825"
-entry_into_force_date: "2021-05-20"
-jci_1_3: "jci1.3:c:BWBR0045147&z=2022-10-28&g=2022-10-28"
-jci_1_0: "1.0:c:BWBR0045147&g=2022-10-28"
-citeertitel_status: "officieel"
-entry_into_force: "2021-05-20"
+publicatiedatum: 2021-05-20
+laatste_update: 2022-10-28
+status: geldig
+toestand: 2022-10-28
+bron: "https://wetten.overheid.nl/BWBR0045147"
+opgehaald: 2026-08-31
 ---
+
 # Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra 2020–2021
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de [Wet budgettering wachtgelden en instelling Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0007312) (Stb. 1995, 155), het [Besluit Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008102) (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen
+Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de [Wet budgettering wachtgelden en instelling Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0007312) (Stb. 1995, 155), het [Besluit Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0008102) (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen
 
 ### Paragraaf 1.1. Begripsbepalingen
 
@@ -42,113 +23,113 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 In dit reglement wordt verstaan onder:
 
-- 1. **Afvloeiingsvolgorde:** de volgorde waarin werknemers conform hoofdstuk 10 van de CAO PO 2018–2019 voor afvloeiing in aanmerking komen. Hierin is tevens het niet voortzetten van een tijdelijk dienstverband betrokken. Hoofdregel is dat eerst alle werknemers met een tijdelijk dienstverband dienen te zijn afgevloeid voordat het dienstverband van werknemers met een vast dienstverband kan worden beëindigd.
+- 1. *Afvloeiingsvolgorde:* de volgorde waarin werknemers conform hoofdstuk 10 van de CAO PO 2018–2019 voor afvloeiing in aanmerking komen. Hierin is tevens het niet voortzetten van een tijdelijk dienstverband betrokken. Hoofdregel is dat eerst alle werknemers met een tijdelijk dienstverband dienen te zijn afgevloeid voordat het dienstverband van werknemers met een vast dienstverband kan worden beëindigd.
 
-- 2. **Beëindiging dienstverband:** beëindiging van een dienstverband voor onbepaalde tijd door middel van een uitspraak van de kantonrechter, een beëindigingsovereenkomst met wederzijds goedvinden of ontslag.
+- 2. *Beëindiging dienstverband:* beëindiging van een dienstverband voor onbepaalde tijd door middel van een uitspraak van de kantonrechter, een beëindigingsovereenkomst met wederzijds goedvinden of ontslag.
 
-- 3. **Reguliere betrekking:** een dienstverband niet zijnde een dienstverband ten behoeve van vervanging.
+- 3. *Reguliere betrekking:* een dienstverband niet zijnde een dienstverband ten behoeve van vervanging.
 
-- 4. **Bestuursvoorschriften:** de bestuursvoorschriften en bijlagen zoals die door het bestuur van het Participatiefonds zijn vastgesteld ter bevordering van een correcte toepassing van het reglement Participatiefonds, en integraal onderdeel uitmaken van het reglement Participatiefonds.
+- 4. *Bestuursvoorschriften:* de bestuursvoorschriften en bijlagen zoals die door het bestuur van het Participatiefonds zijn vastgesteld ter bevordering van een correcte toepassing van het reglement Participatiefonds, en integraal onderdeel uitmaken van het reglement Participatiefonds.
 
-- 5. **Budget voor personeels- en arbeidsmarktbeleid:** het budget voor personeels- en arbeidsmarktbeleid dat werkgevers ontvangen op basis van [Titel IV, Afdeling 6 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=6) dan wel op basis van [Titel V, Afdeling 6 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=6).
+- 5. *Budget voor personeels- en arbeidsmarktbeleid:* het budget voor personeels- en arbeidsmarktbeleid dat werkgevers ontvangen op basis van [Titel IV, Afdeling 6 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=6) dan wel op basis van [Titel V, Afdeling 6 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=6).
 
-- 6. **CAO PO:** de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs is overeengekomen en welke per 1 januari 2020 tot 1 januari 2021.
+- 6. *CAO PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs is overeengekomen en welke per 1 januari 2020 tot 1 januari 2021.
 
-- 7. **Centrale diensten:** diensten zoals bedoeld in [artikel 68 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [artikel 69 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69).
+- 7. *Centrale diensten:* diensten zoals bedoeld in [artikel 68 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [artikel 69 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69).
 
-- 8. **Detachering:** de situatie dat onderwijspersoneel op eigen verzoek of met zijn instemming voor bepaalde tijd op basis van een detacheringsovereenkomst wordt belast met werkzaamheden bij een andere werkgever.
+- 8. *Detachering:* de situatie dat onderwijspersoneel op eigen verzoek of met zijn instemming voor bepaalde tijd op basis van een detacheringsovereenkomst wordt belast met werkzaamheden bij een andere werkgever.
 
-- 9. **Dienstverband in het kader van vervanging (vervangingsbetrekking):** een tijdelijk dienstverband van een werknemer ter vervanging van een afwezige werknemer wegens de hieronder limitatief opgesomde gronden van afwezigheid. Vervanging voor deze gronden van afwezigheid wordt aangemerkt als vervanging in de zin van het reglement Participatiefonds.
+- 9. *Dienstverband in het kader van vervanging (vervangingsbetrekking):* een tijdelijk dienstverband van een werknemer ter vervanging van een afwezige werknemer wegens de hieronder limitatief opgesomde gronden van afwezigheid. Vervanging voor deze gronden van afwezigheid wordt aangemerkt als vervanging in de zin van het reglement Participatiefonds.
 
-- 1. Ziekteverlof als bedoeld in de ZAPO;
+   - 1. Ziekteverlof als bedoeld in de ZAPO;
 
-- 2. Schorsing als bedoeld in de artikelen 3.10 tot en met 3.14 van de CAO PO.
+   - 2. Schorsing als bedoeld in de artikelen 3.10 tot en met 3.14 van de CAO PO.
 
-- 3. Gecompenseerd vakantieverlof indien het zwangerschaps- en bevallingsverlof van de vrouwelijke werknemer dat samenvalt met een schoolvakantie. Indien werknemer in een schooljaar door ziekte minder dan 20 dagen vakantieverlof heeft genoten, heeft hij recht op (het restant van) het wettelijk minimum aan vakantiedagen als bedoeld in [artikel 7:634 lid 1 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634)
+   - 3. Gecompenseerd vakantieverlof indien het zwangerschaps- en bevallingsverlof van de vrouwelijke werknemer dat samenvalt met een schoolvakantie. Indien werknemer in een schooljaar door ziekte minder dan 20 dagen vakantieverlof heeft genoten, heeft hij recht op (het restant van) het wettelijk minimum aan vakantiedagen als bedoeld in [artikel 7:634 lid 1 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=634)
 
-- 4. Verlof dat door het bevoegd gezag met toepassing van artikel 8.5 CAO PO opnieuw wordt verleend.
+   - 4. Verlof dat door het bevoegd gezag met toepassing van artikel 8.5 CAO PO opnieuw wordt verleend.
 
-- 5. Betaald dan wel onbetaald buitengewoon verlof (artikelen 8.6, 8.7, 8.8, 8.9, 8.10, 8.11 en 8.13 CAO PO).
+   - 5. Betaald dan wel onbetaald buitengewoon verlof (artikelen 8.6, 8.7, 8.8, 8.9, 8.10, 8.11 en 8.13 CAO PO).
 
-- 6. Buitengewoon verlof als bedoeld in artikel 8.16 CAO PO voor zover verleend met behoud van salaris.
+   - 6. Buitengewoon verlof als bedoeld in artikel 8.16 CAO PO voor zover verleend met behoud van salaris.
 
-- 7. Betaald dan wel onbetaald ouderschapsverlof (artikelen 8.17, 8.18 en 8.19 CAO PO).
+   - 7. Betaald dan wel onbetaald ouderschapsverlof (artikelen 8.17, 8.18 en 8.19 CAO PO).
 
-- 8. Verlof wegens zwangerschap of bevalling.
+   - 8. Verlof wegens zwangerschap of bevalling.
 
-- 9. Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.
+   - 9. Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.
 
-- 10. **In- en doorstroombanen:** banen die worden vervuld door werknemers voor wie de werkgever destijds subsidie ontving als bedoeld in [artikel 6, eerste lid van het van het Besluit in-en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=6) (stb. 1999, 591)
+- 10. *In- en doorstroombanen:* banen die worden vervuld door werknemers voor wie de werkgever destijds subsidie ontving als bedoeld in [artikel 6, eerste lid van het van het Besluit in-en doorstroombanen](https://wetten.overheid.nl/jci1.3:c:BWBR0010994&artikel=6) (stb. 1999, 591)
 
-- 11. **Kwalitatieve fricties (het oplossen van):** het ten koste van werknemers met een bepaalde functie vrijmaken van formatieruimte ten behoeve van werknemers met een andere functie omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren.
+- 11. *Kwalitatieve fricties (het oplossen van):* het ten koste van werknemers met een bepaalde functie vrijmaken van formatieruimte ten behoeve van werknemers met een andere functie omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren.
 
-- 12. **Leraar in opleiding:** de laatstejaarsstudent van een lerarenopleiding basisonderwijs als bedoeld in [artikel 3, vijfde lid van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) en [artikel 3, zevende lid van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3), die wordt benoemd of aangesteld op een leerarbeidsplaats.
+- 12. *Leraar in opleiding:* de laatstejaarsstudent van een lerarenopleiding basisonderwijs als bedoeld in [artikel 3, vijfde lid van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) en [artikel 3, zevende lid van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3), die wordt benoemd of aangesteld op een leerarbeidsplaats.
 
-- 13. **Loonkostentool:** de digitale tool van het Participatiefonds aan de hand waarvan een werkgever de vergelijking van de rijksbekostiging personeel en financiële bijdragen van derden maakt en de loonkosten van werknemers van wie het dienstverband niet is voortgezet of beëindigd berekent.
+- 13. *Loonkostentool:* de digitale tool van het Participatiefonds aan de hand waarvan een werkgever de vergelijking van de rijksbekostiging personeel en financiële bijdragen van derden maakt en de loonkosten van werknemers van wie het dienstverband niet is voortgezet of beëindigd berekent.
 
-- 14. **Materiële vergoeding:** de vergoeding zoals genoemd in [Titel IV, Afdeling 4 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=4) en in [Titel IV, Afdeling 4 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=4).
+- 14. *Materiële vergoeding:* de vergoeding zoals genoemd in [Titel IV, Afdeling 4 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&afdeling=4) en in [Titel IV, Afdeling 4 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&afdeling=4).
 
-- 15. **Modelverklaring:** een verklaring waar een werkgever bij het indienen van een vergoedingsverzoek gebruik van kan maken om aan te tonen dat is voldaan aan de voorwaarden van het Participatiefonds.
+- 15. *Modelverklaring:* een verklaring waar een werkgever bij het indienen van een vergoedingsverzoek gebruik van kan maken om aan te tonen dat is voldaan aan de voorwaarden van het Participatiefonds.
 
-- 16. **Natuurlijk verloop:** de omvang van de loonkosten volgens de digitale tool van het Participatiefonds van niet voortgezette of beëindigde dienstverbanden zonder dat daar voor de werknemer in kwestie een uitkering op volgt op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de WOPO of de ZAPO.
+- 16. *Natuurlijk verloop:* de omvang van de loonkosten volgens de digitale tool van het Participatiefonds van niet voortgezette of beëindigde dienstverbanden zonder dat daar voor de werknemer in kwestie een uitkering op volgt op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de WOPO of de ZAPO.
 
-- 17. **Landelijke subsidie**: een subsidie en/of een van de tijdelijke extra financiële bijdragen die vallen onder de NPO gelden, verstrekt door de landelijke (rijks)overheid.
+- 17. *Landelijke subsidie*: een subsidie en/of een van de tijdelijke extra financiële bijdragen die vallen onder de NPO gelden, verstrekt door de landelijke (rijks)overheid.
 
-- 18. **Loonkosten:** het betreft hier de bruto loonkosten minus de eventuele brutokortingen vermeerderd met de werkgeverslasten en reguliere toeslagen.
+- 18. *Loonkosten:* het betreft hier de bruto loonkosten minus de eventuele brutokortingen vermeerderd met de werkgeverslasten en reguliere toeslagen.
 
-- 19. **Onderwijsassistent in opleiding:** de functie als bedoeld in artikel 3.24 van de CAO PO.
+- 19. *Onderwijsassistent in opleiding:* de functie als bedoeld in artikel 3.24 van de CAO PO.
 
-- 20. **Onderwijspersoneel:** personeel als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1).
+- 20. *Onderwijspersoneel:* personeel als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1).
 
-- 21. **Ontslag:** ontslag op grond van de opzeggings- en ontslagronden, genoemd in de CAO PO en tussentijdse beëindiging van een tijdelijk dienstverband.
+- 21. *Ontslag:* ontslag op grond van de opzeggings- en ontslagronden, genoemd in de CAO PO en tussentijdse beëindiging van een tijdelijk dienstverband.
 
-- 22. **Ontslagbeleid:** de regeling Ontslagbeleid als bedoeld in artikel 10.4a en 10.4b van de CAO PO 2018–2019.
+- 22. *Ontslagbeleid:* de regeling Ontslagbeleid als bedoeld in artikel 10.4a en 10.4b van de CAO PO 2018–2019.
 
-- 23. **Outplacement:** van een planmatige begeleiding door een derde van een met ontslag bedreigde werknemer bij het verwerven van een reguliere betrekking elders, waarbij een brede oriëntatie op de arbeidsmarkt en een wezenlijke financiële inspanning van de werkgever kenmerkend zijn.
+- 23. *Outplacement:* van een planmatige begeleiding door een derde van een met ontslag bedreigde werknemer bij het verwerven van een reguliere betrekking elders, waarbij een brede oriëntatie op de arbeidsmarkt en een wezenlijke financiële inspanning van de werkgever kenmerkend zijn.
 
-- 24. **Participatiefonds:** de door de Minister aangewezen rechtspersoon met volledige rechtsbevoegdheid die zich ten doel stelt waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ten behoeve van gewezen personeel.
+- 24. *Participatiefonds:* de door de Minister aangewezen rechtspersoon met volledige rechtsbevoegdheid die zich ten doel stelt waarborgen te bieden voor de kosten van werkloosheidsuitkeringen, suppleties inzake arbeidsongeschiktheid alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) ten behoeve van gewezen personeel.
 
-- 25. **Regeling prestatiebox:** de [Regeling prestatiebox primair onderwijs 2015–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036513).
+- 25. *Regeling prestatiebox:* de [Regeling prestatiebox primair onderwijs 2015–2020](https://wetten.overheid.nl/jci1.3:c:BWBR0036513).
 
-- 26. **Reorganisatie:** een verandering in de organisatie van één of meer scholen of een Centrale Dienst dan wel Samenwerkingsverband, waaronder ook begrepen de opheffing van bestaande dan wel de introductie van nieuwe functies, die gepaard gaan met ingrijpende personele gevolgen.
+- 26. *Reorganisatie:* een verandering in de organisatie van één of meer scholen of een Centrale Dienst dan wel Samenwerkingsverband, waaronder ook begrepen de opheffing van bestaande dan wel de introductie van nieuwe functies, die gepaard gaan met ingrijpende personele gevolgen.
 
-- 27. **Samenwerkingsverband:** samenwerkingsverband zoals bedoeld in [artikel 18a van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18) en [artikel 28a van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28a).
+- 27. *Samenwerkingsverband:* samenwerkingsverband zoals bedoeld in [artikel 18a van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18) en [artikel 28a van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28a).
 
-- 28. **Samenwerkende werkgevers:** besturen die in het kader van het sectorplan PO een gezamenlijk transfercentrum hebben opgericht.
+- 28. *Samenwerkende werkgevers:* besturen die in het kader van het sectorplan PO een gezamenlijk transfercentrum hebben opgericht.
 
-- 29. **Schooljaar:** het tijdvak van 1 augustus tot en met 31 juli van het opvolgende kalenderjaar.
+- 29. *Schooljaar:* het tijdvak van 1 augustus tot en met 31 juli van het opvolgende kalenderjaar.
 
-- 30. **Schoolsoort:** het basisonderwijs en de scholen voor speciaal basisonderwijs als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en het speciaal onderwijs, het voortgezet speciaal onderwijs als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+- 30. *Schoolsoort:* het basisonderwijs en de scholen voor speciaal basisonderwijs als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en het speciaal onderwijs, het voortgezet speciaal onderwijs als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
-- 31. **Schoonmaakpersoneel:** werknemers waarvan in de functieomschrijving is opgenomen het schoonmaken en schoonhouden van de binnenzijde van het schoolgebouw en waarvoor de bekostiging is genormeerd in de materiële vergoeding.
+- 31. *Schoonmaakpersoneel:* werknemers waarvan in de functieomschrijving is opgenomen het schoonmaken en schoonhouden van de binnenzijde van het schoolgebouw en waarvoor de bekostiging is genormeerd in de materiële vergoeding.
 
-- 32. **Sociaal Plan:** een in het kader van werkgelegenheidsbeleid door de werkgever en door tenminste drie van de vier vakcentrales ondertekend Sociaal Plan als bedoeld in artikel 10.3 van de CAO PO 2018–2019. In het kader van dit reglement wordt onder sociaal plan tevens verstaan: de resultaten van de inspanningen als bedoeld in artikel 10.3, vierde lid van de CAO PO.
+- 32. *Sociaal Plan:* een in het kader van werkgelegenheidsbeleid door de werkgever en door tenminste drie van de vier vakcentrales ondertekend Sociaal Plan als bedoeld in artikel 10.3 van de CAO PO 2018–2019. In het kader van dit reglement wordt onder sociaal plan tevens verstaan: de resultaten van de inspanningen als bedoeld in artikel 10.3, vierde lid van de CAO PO.
 
-- 33. **Uitvoeringsorganisatie Participatiefonds:** door het bestuur van het Participatiefonds aangewezen organisatie voor de afhandeling van de vergoedingsverzoeken.
+- 33. *Uitvoeringsorganisatie Participatiefonds:* door het bestuur van het Participatiefonds aangewezen organisatie voor de afhandeling van de vergoedingsverzoeken.
 
-- 34. **Uitgestelde beëindiging van het dienstverband:** een dienstverband dat niet is beëindigd of een tijdelijk dienstverband dat is voortgezet per de datum waarop de daling van de rijksbekostiging en financiële bijdragen van derden voor personeel is gedaald, maar waarvan de beëindiging of het niet voortzetten met één jaar is uitgesteld.
+- 34. *Uitgestelde beëindiging van het dienstverband:* een dienstverband dat niet is beëindigd of een tijdelijk dienstverband dat is voortgezet per de datum waarop de daling van de rijksbekostiging en financiële bijdragen van derden voor personeel is gedaald, maar waarvan de beëindiging of het niet voortzetten met één jaar is uitgesteld.
 
-- 35. **Vergoedingsverzoek:** een op grond van [artikel 138, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138) dan wel op grond van [artikel 132, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132), door de werkgever ingediende aanvraag in de zin van [artikel 1:3, derde lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
+- 35. *Vergoedingsverzoek:* een op grond van [artikel 138, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138) dan wel op grond van [artikel 132, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132), door de werkgever ingediende aanvraag in de zin van [artikel 1:3, derde lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3).
 
-- 36. **{term}** (vervallen).
+- 36. *{term}* (vervallen).
 
-- 37. **Werkgelegenheidsbeleid:** de regeling werkgelegenheidsbeleid als bedoeld in artikel 10.2 en 10.3 van de CAO PO 2018–2019.
+- 37. *Werkgelegenheidsbeleid:* de regeling werkgelegenheidsbeleid als bedoeld in artikel 10.2 en 10.3 van de CAO PO 2018–2019.
 
-- 38. **Werkgever:** het bevoegd gezag als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in [artikel 68 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [artikel 69 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69) en het Regionaal Expertisecentrum, als bedoeld in [artikel 28b WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), tenzij het bevoegd gezag door de Minister van Onderwijs, Cultuur en Wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de Stichting Participatiefonds voor het Onderwijs.
+- 38. *Werkgever:* het bevoegd gezag als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in [artikel 68 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [artikel 69 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69) en het Regionaal Expertisecentrum, als bedoeld in [artikel 28b WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b), tenzij het bevoegd gezag door de Minister van Onderwijs, Cultuur en Wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de Stichting Participatiefonds voor het Onderwijs.
 
-- 39. **Werkloosheidsuitkeringskosten:** de uitkeringskosten zoals beschreven in de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de Werkloosheidsregeling onderwijspersoneel primair onderwijs (alsmede de voor de totstandkoming van de WOPO van toepassing zijnde bovenwettelijke werkloosheidsuitkeringen in het primair onderwijs waar werknemers nog recht op zouden hebben), voor zover deze door de daartoe bevoegde instanties toegekend zijn. Daaronder wordt mede verstaan, de kosten van het in één keer afkopen van deze rechten volgens artikel 16 van de Werkloosheidsregeling onderwijspersoneel primair onderwijs en bijbehorende aanvullende voorwaarden, mits aan alle daarvoor gestelde voorwaarden is voldaan en er een akkoordverklaring op de berekening door het daartoe bevoegde orgaan aan ten grondslag ligt. Voor de uitkeringen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is dit het UWV, voor de bovenwettelijke uitkeringen is dit WWplus.
+- 39. *Werkloosheidsuitkeringskosten:* de uitkeringskosten zoals beschreven in de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de Werkloosheidsregeling onderwijspersoneel primair onderwijs (alsmede de voor de totstandkoming van de WOPO van toepassing zijnde bovenwettelijke werkloosheidsuitkeringen in het primair onderwijs waar werknemers nog recht op zouden hebben), voor zover deze door de daartoe bevoegde instanties toegekend zijn. Daaronder wordt mede verstaan, de kosten van het in één keer afkopen van deze rechten volgens artikel 16 van de Werkloosheidsregeling onderwijspersoneel primair onderwijs en bijbehorende aanvullende voorwaarden, mits aan alle daarvoor gestelde voorwaarden is voldaan en er een akkoordverklaring op de berekening door het daartoe bevoegde orgaan aan ten grondslag ligt. Voor de uitkeringen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is dit het UWV, voor de bovenwettelijke uitkeringen is dit WWplus.
 
-- 40. **WEC:** de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+- 40. *WEC:* de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
-- 41. **WPO:** de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
+- 41. *WPO:* de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-- 42. **WOPO** de regeling Werkloosheidsuitkering onderwijspersoneel primair onderwijs.
+- 42. *WOPO* de regeling Werkloosheidsuitkering onderwijspersoneel primair onderwijs.
 
-- 43. **WW:** de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+- 43. *WW:* de [Werkloosheidwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
-- 44. **ZAPO:** de Regeling ‘Ziekte en Arbeidsongeschiktheid primair onderwijs.
+- 44. *ZAPO:* de Regeling ‘Ziekte en Arbeidsongeschiktheid primair onderwijs.
 
-- 45. **Zij-instromers:** onbevoegden met een geschiktheidsverklaring als bedoeld in [artikel 176b WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176b) of [artikel 162e WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162e).
+- 45. *Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in [artikel 176b WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=176b) of [artikel 162e WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=162e).
 
 ### Hoofdstuk 2. Premie
 
@@ -176,23 +157,23 @@ Het schoolbestuur komt in aanmerking voor vrijstelling van de toets behorende bi
 
 - 1. Er wordt vrijstelling verleend als de werknemer:
 
-- a. minimaal zes maanden en maximaal twaalf maanden ononderbroken in dienst is geweest bij het schoolbestuur dat een beroep doet op de vrijstelling; en
+   - a. minimaal zes maanden en maximaal twaalf maanden ononderbroken in dienst is geweest bij het schoolbestuur dat een beroep doet op de vrijstelling; en
 
-- b. direct voorafgaand aan het in dienst treden bij het schoolbestuur minimaal meer dan acht weken recht heeft gehad op een werkloosheidsuitkering vanuit het PO zoals bedoeld in [artikel 138, lid 2, van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138) dan wel [artikel 132, lid 2, van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132).
+   - b. direct voorafgaand aan het in dienst treden bij het schoolbestuur minimaal meer dan acht weken recht heeft gehad op een werkloosheidsuitkering vanuit het PO zoals bedoeld in [artikel 138, lid 2, van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138) dan wel [artikel 132, lid 2, van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132).
 
 - 2. Ondanks het bepaalde in lid 1 wordt er geen vrijstelling verleend aan de werkgever:
 
-- a. die een werknemer in dienst neemt die direct voorafgaand aan het ontstaan van het recht op uitkering, genoemd onder b, reeds in dienst was bij hetzelfde schoolbestuur of diens rechtsvoorganger; en
+   - a. die een werknemer in dienst neemt die direct voorafgaand aan het ontstaan van het recht op uitkering, genoemd onder b, reeds in dienst was bij hetzelfde schoolbestuur of diens rechtsvoorganger; en
 
-- b. door UWV voor die werkloosheidsuitkering verantwoordelijk is gesteld.
+   - b. door UWV voor die werkloosheidsuitkering verantwoordelijk is gesteld.
 
 - 3. Om in aanmerking te komen voor de vrijstelling legt de werkgever de volgende documenten over:
 
-- a. de door de werknemer ondertekende ‘verklaring uitkeringsverleden’;
+   - a. de door de werknemer ondertekende ‘verklaring uitkeringsverleden’;
 
-- b. een afschrift van de arbeidsovereenkomst waaruit de datum indiensttreding blijkt;
+   - b. een afschrift van de arbeidsovereenkomst waaruit de datum indiensttreding blijkt;
 
-- c. een document waaruit de datum van het ontslag als bedoeld in het eerste lid blijkt.
+   - c. een document waaruit de datum van het ontslag als bedoeld in het eerste lid blijkt.
 
 ##### Artikel 3:2. Wijze van indiening vergoedingsverzoek
 
@@ -200,7 +181,7 @@ De werkgever maakt bij de indiening van het vergoedingsverzoek gebruik van de mo
 
 ##### Artikel 3:2a. Indieningstermijn voor een vergoedingsverzoek
 
-- 1. Een vergoedingsverzoek voor de beëindiging van een dienstverband na 1 augustus 2022, moet uiterlijk op 31 januari 2023 door het Participatiefonds zijn ontvangen.
+- 1. Een vergoedingsverzoek voor de beëindiging van een dienstverband na 1 augustus 2022, moet uiterlijk op 31 januari 2023 door het Participatiefonds zijn ontvangen.
 
 - 2. Vergoedingsverzoeken die buiten deze termijn door het Participatiefonds zijn ontvangen, worden niet in behandeling genomen.
 
@@ -238,17 +219,17 @@ Het Participatiefonds wijst een vergoedingsverzoek uitsluitend toe als de werkge
 
 - 1. Het Participatiefonds wijst een vergoedingsverzoek in ieder geval af als:
 
-- a. de werkgever het dienstverband voor onbepaalde tijd beëindigt of het tijdelijk dienstverband niet voortzet op grond van een andere beëindigingsgrond dan genoemd in dit reglement;
+   - a. de werkgever het dienstverband voor onbepaalde tijd beëindigt of het tijdelijk dienstverband niet voortzet op grond van een andere beëindigingsgrond dan genoemd in dit reglement;
 
-- b. sprake is van een dienstverband in het kader van vervanging als bedoeld in [paragraaf 1, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2022-10-28&g=2022-10-28), waaraan gelijktijdig een regulier dienstverband is voorafgegaan en de werkgever niet heeft voldaan aan het verzoek van het Participatiefonds om binnen acht weken alsnog een vergoedingsverzoek te doen in het kader van de beëindiging van het reguliere dienstverband;
+   - b. sprake is van een dienstverband in het kader van vervanging als bedoeld in [paragraaf 1, onder 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=1&paragraaf=1.1&artikel=1&z=2022-10-28&g=2022-10-28), waaraan gelijktijdig een regulier dienstverband is voorafgegaan en de werkgever niet heeft voldaan aan het verzoek van het Participatiefonds om binnen acht weken alsnog een vergoedingsverzoek te doen in het kader van de beëindiging van het reguliere dienstverband;
 
-- c. het vergoedingsverzoek van de werkgever onredelijk is.
+   - c. het vergoedingsverzoek van de werkgever onredelijk is.
 
-- d. het beëindigen van een dienstverband of het niet voortzetten van een tijdelijk dienstverband in de risicosfeer van de werkgever valt.
+   - d. het beëindigen van een dienstverband of het niet voortzetten van een tijdelijk dienstverband in de risicosfeer van de werkgever valt.
 
-- e. de werkgever het dienstverband niet herstelt terwijl hij daartoe op grond van [artikel 7:682, eerste lid, onder a dan wel tweede lid onder a van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) is veroordeeld.
+   - e. de werkgever het dienstverband niet herstelt terwijl hij daartoe op grond van [artikel 7:682, eerste lid, onder a dan wel tweede lid onder a van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) is veroordeeld.
 
-- f. de kantonrechter de werknemer een billijke vergoeding heeft toegekend op de voet van [artikel 7:682, eerste lid onder b, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) dan wel artikel 7:682, eerste lid, onder c, nu in die gevallen sprake is van ernstig verwijtbaar handelen of nalaten van de werkgever.
+   - f. de kantonrechter de werknemer een billijke vergoeding heeft toegekend op de voet van [artikel 7:682, eerste lid onder b, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=682) dan wel artikel 7:682, eerste lid, onder c, nu in die gevallen sprake is van ernstig verwijtbaar handelen of nalaten van de werkgever.
 
 - 2. Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in [artikel 138, tweede lid, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=138) of [artikel 132, tweede lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=132), niet ten laste van het Participatiefonds komen.
 
@@ -274,7 +255,7 @@ Als uitkeringskosten als bedoeld in [artikel 138, tweede lid van de WPO](https:/
 
 - 3. De inlichtingen zijn tijdig verstrekt indien deze vóór het einde van de termijn zijn ontvangen.
 
-- 4. Wanneer de uitnodiging als bedoeld in [artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=3&paragraaf=3.2&artikel=3:8&z=2022-10-28&g=2022-10-28) op of na 7 december 2022 wordt verzonden, verstrekt de werkgever in afwijking van het eerste lid de inlichtingen uiterlijk op 31 januari 2023.
+- 4. Wanneer de uitnodiging als bedoeld in [artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=3&paragraaf=3.2&artikel=3:8&z=2022-10-28&g=2022-10-28) op of na 7 december 2022 wordt verzonden, verstrekt de werkgever in afwijking van het eerste lid de inlichtingen uiterlijk op 31 januari 2023.
 
 ##### Artikel 3:10. Te late indiening inlichtingen
 
@@ -340,11 +321,11 @@ De werkgever maakt bij het verstrekken van de inlichtingen als bedoeld in [artik
 
 - 1. Het Participatiefonds is bevoegd de beschikking te wijzigen of in te trekken ten nadele van de werkgever:
 
-- a. als de door de werkgever verstrekte gegevens zodanig onjuist of onvolledig zijn dat op zijn verzoek als bedoeld in dit hoofdstuk een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste en volledige gegevens bekend waren geweest;
+   - a. als de door de werkgever verstrekte gegevens zodanig onjuist of onvolledig zijn dat op zijn verzoek als bedoeld in dit hoofdstuk een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste en volledige gegevens bekend waren geweest;
 
-- b. als de beschikking in strijd met wettelijke voorschriften is gegeven;
+   - b. als de beschikking in strijd met wettelijke voorschriften is gegeven;
 
-- c. als in verband met verandering van wetgeving, gewijzigde omstandigheden of gewijzigde inzichten de bescherming van de belangen met het oog waarop het vereiste van de beschikking is gesteld, zwaarder wegen dan het belang van de werkgever bij een ongewijzigde beschikking.
+   - c. als in verband met verandering van wetgeving, gewijzigde omstandigheden of gewijzigde inzichten de bescherming van de belangen met het oog waarop het vereiste van de beschikking is gesteld, zwaarder wegen dan het belang van de werkgever bij een ongewijzigde beschikking.
 
 - 2. De werkgever stelt het Participatiefonds schriftelijk op de hoogte van feiten en omstandigheden die ten tijde van het nemen van de beschikking niet bekend waren of konden worden geacht en van zodanige aard zijn, dat zij tot een andere beslissing aanleiding kunnen geven.
 
@@ -370,9 +351,9 @@ De werkgever maakt bij het verstrekken van de inlichtingen als bedoeld in [artik
 
 - 1. De werkgever die participeert in een samenwerkingsverband waar na de beëindiging van een dienstverband of het niet verlengen van een tijdelijk dienstverband een werkloosheidsuitkering of een uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) van een school of een Centrale Dienst dan wel Samenwerkingsverband voortvloeit ten gevolge van de inzet of een wijziging van de inzet van de in [artikel 120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), en [artikel 132 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=132) bedoelde bekostiging ten opzichte van voorafgaande schooljaren, heeft voorafgaand aan de beëindiging van het dienstverband van dat personeel
 
-- a. met de vakbonden een sociaal plan gesloten en het dienstverband conform de afspraken van genoemd sociaal plan beëindigd, of
+   - a. met de vakbonden een sociaal plan gesloten en het dienstverband conform de afspraken van genoemd sociaal plan beëindigd, of
 
-- b. over de personele gevolgen volgens de strekking van de tripartiete overeenkomst personele gevolgen passend onderwijs open en reëel overleg gevoerd met het samenwerkingsverband Passend Onderwijs, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.
+   - b. over de personele gevolgen volgens de strekking van de tripartiete overeenkomst personele gevolgen passend onderwijs open en reëel overleg gevoerd met het samenwerkingsverband Passend Onderwijs, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.
 
 - 2. Indien het dienstverband niet conform de afspraken van het sociaal plan is beëindigd dan wel het hierboven genoemde overleg over de personele gevolgen niet is gevoerd, dan zijn de bevoegde gezagsorganen van alle scholen van het desbetreffende samenwerkingsverband hoofdelijk aansprakelijk voor het aan het Participatiefonds vergoeden van de kosten van de werkloosheidsuitkering, de suppletie inzake arbeidsongeschiktheid onderscheidenlijk de uitkering wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888).
 
@@ -402,19 +383,19 @@ Als het dienstverband is ontbonden op grond van de [artikelen 7:671b](https://we
 
 - 2. De werkgever legt daartoe over:
 
-- a. de uitspraak van de kantonrechter;
+   - a. de uitspraak van de kantonrechter;
 
-- b. het verzoekschrift aan de kantonrechter tot ontbinding van het dienstverband;
+   - b. het verzoekschrift aan de kantonrechter tot ontbinding van het dienstverband;
 
-- c. het verweerschrift.
+   - c. het verweerschrift.
 
 - 3. Uit de stukken, genoemd in het tweede lid, blijkt:
 
-- a. dat het dienstverband wordt ontbonden op grond van één van de gronden genoemd in artikel 3.6, eerste lid, sub a tot en met i van de CAO PO;
+   - a. dat het dienstverband wordt ontbonden op grond van één van de gronden genoemd in artikel 3.6, eerste lid, sub a tot en met i van de CAO PO;
 
-- b. dat aan de ontbinding een inhoudelijke behandeling op tegenspraak bij de rechtbank ten grondslag heeft gelegen, in die zin dat de uitspraak een samenvatting van de gronden van het ontslagverzoek bevat, een samenvatting van het verweer en de overwegingen van de rechter op grond waarvan tot ontbinding van de arbeidsovereenkomst wordt gekomen;
+   - b. dat aan de ontbinding een inhoudelijke behandeling op tegenspraak bij de rechtbank ten grondslag heeft gelegen, in die zin dat de uitspraak een samenvatting van de gronden van het ontslagverzoek bevat, een samenvatting van het verweer en de overwegingen van de rechter op grond waarvan tot ontbinding van de arbeidsovereenkomst wordt gekomen;
 
-- c. dat de ontbinding niet in overwegende mate aan de werkgever te wijten is.
+   - c. dat de ontbinding niet in overwegende mate aan de werkgever te wijten is.
 
 ##### Artikel 4:3:2. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -422,19 +403,19 @@ Als het dienstverband is ontbonden op grond van de [artikelen 7:671b](https://we
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door de werkgever en de werknemer, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie, voor de ontslagdatum heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie, voor de ontslagdatum heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -454,23 +435,23 @@ Als het dienstverband is beëindigd op grond artikel 3.5, vierde lid, van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door de werkgever en de werknemer is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door de werkgever geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door de werkgever geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door de werkgever noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door de werkgever noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen de werknemer dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen de werknemer dat moest realiseren;
 
-- d. de conclusie van de werkgever dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie van de werkgever dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:4:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -486,19 +467,19 @@ Als het dienstverband is beëindigd op grond artikel 3.5, vierde lid, van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door de werkgever en de werknemer, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -520,21 +501,21 @@ Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is v
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door de werkgever en de werknemer is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
+   - a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
 
-- b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
+   - b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
 
-- c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.
+   - c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:5:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -550,19 +531,19 @@ Als het dienstverband van de werknemer die minder dan 35% arbeidsongeschikt is v
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -576,7 +557,7 @@ Als het dienstverband is beëindigd op grond van artikel 3.5, vierde lid, van de
 
 - 2. De werkgever legt daartoe over de beëindigingsovereenkomst.
 
-- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 van de CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
+- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 van de CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
 
 ##### Artikel 4:6:2. Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 
@@ -584,15 +565,15 @@ Als het dienstverband is beëindigd op grond van artikel 3.5, vierde lid, van de
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
 
-- d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -606,19 +587,19 @@ Als het dienstverband is beëindigd op grond van artikel 3.5, vierde lid, van de
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. de werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. de werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. de werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. de werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. de werkgever neemt ten slotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. de werkgever neemt ten slotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:6:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:6:5. Afvloeiingsvolgorde
 
@@ -630,19 +611,19 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -662,23 +643,23 @@ Als het dienstverband is beëindigd op grond van artikel 3.5, vierde lid van de 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door de werkgever en de werknemer is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door de werkgever geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door de werkgever geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door de werkgever noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door de werkgever noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen de werknemer dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen de werknemer dat moest realiseren;
 
-- d. de conclusie van de werkgever dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie van de werkgever dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:7:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -694,19 +675,19 @@ Als het dienstverband is beëindigd op grond van artikel 3.5, vierde lid van de 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -736,23 +717,23 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder d van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
 
-- d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:9:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -768,19 +749,19 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder d van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -812,21 +793,21 @@ Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het k
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
+   - a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
 
-- b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
+   - b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
 
-- c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen
+   - c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:11:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -842,19 +823,19 @@ Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het k
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -868,7 +849,7 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder h van de CAO
 
 - 2. De werkgever legt daartoe over het ontslagbesluit.
 
-- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
+- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
 
 ##### Artikel 4:12:2. Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 
@@ -876,15 +857,15 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder h van de CAO
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
 
-- d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -898,19 +879,19 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder h van de CAO
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:12:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:12:5. Afvloeiingsvolgorde
 
@@ -922,19 +903,19 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -954,23 +935,23 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder h van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
 
-- d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:13:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -986,19 +967,19 @@ Als ontslag is verleend op grond van artikel 3.6, eerste lid, onder h van de CAO
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
+   - a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1064,23 +1045,23 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
 
-- d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:19:3. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -1088,17 +1069,17 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1118,21 +1099,21 @@ Als het tijdelijk dienstverband na het verstrijken van de het tijdvak waarvoor h
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
+   - a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
 
-- b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
+   - b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;
 
-- c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.
+   - c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:20:3. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -1140,17 +1121,17 @@ Als het tijdelijk dienstverband na het verstrijken van de het tijdvak waarvoor h
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1164,7 +1145,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over een afschrift van de brief waarin de werkgever aan de werknemer heeft medegedeeld waarom hij het tijdelijk dienstverband niet wil voortzetten.
 
-- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 van de CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
+- 3. Tevens overlegt de werkgever terzake overtuigende documenten waaruit blijkt dat conform artikel 2.1 van de CAO PO de PGMR voor 1 mei van het voorafgaande schooljaar heeft ingestemd met het meerjarenformatiebeleid/bestuursformatieplan.
 
 ##### Artikel 4:21:2. Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 
@@ -1172,13 +1153,13 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen.
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -1192,17 +1173,17 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan:
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers die in een tijdelijk dienstverband waren benoemd bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers die in een tijdelijk dienstverband waren benoemd bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
 ##### Artikel 4:21:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement.
 
-- 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 3. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste of tweede lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.
 
-- 4. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 4. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:21:5. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -1210,17 +1191,17 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1240,23 +1221,23 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘Gesprekkencyclus’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat gesprekken tussen de werkgever en de werknemer hebben plaatsgevonden en dat de werkgever tijdens die gesprekken heeft benoemd:
 
-- a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
+   - a. de door hem geconstateerde knelpunten in het functioneren van de werknemer;
 
-- b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
+   - b. de door hem noodzakelijk geachte verbetering in het functioneren van de werknemer;
 
-- c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
+   - c. de wijze waarop de werknemer met interne of externe ondersteuning deze verbetering moest bereiken en de periode waarbinnen hij dat moest realiseren;
 
-- d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
+   - d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke verbetering heeft geleid.
 
 - 3. Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals:
 
-- a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
+   - a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of
 
-- b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
+   - b. één of meer offertes van aanbieders voor begeleiding van werknemer; of
 
-- c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
+   - c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
-- d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
+   - d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.
 
 ##### Artikel 4:22:3. Inspanning behoud werknemer voor eigen organisatie
 
@@ -1272,17 +1253,17 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1318,9 +1299,9 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 3. Indien de reden voor het niet voortzetten van een tijdelijk dienstverband ligt in het feit dat enige wettelijke bepaling zich daar tegen verzet, overlegt de werkgever ter zake overtuigende documenten waaruit blijkt dat:
 
-- a. wettelijke bepalingen zich verzetten tegen het voortzetten van het tijdelijk dienstverband van de werknemer; en
+   - a. wettelijke bepalingen zich verzetten tegen het voortzetten van het tijdelijk dienstverband van de werknemer; en
 
-- b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband niet wordt voortgezet vanwege het feit dat wettelijke bepalingen zich daar tegen verzetten.
+   - b. de werkgever de werknemer heeft meegedeeld dat het tijdelijk dienstverband niet wordt voortgezet vanwege het feit dat wettelijke bepalingen zich daar tegen verzetten.
 
 ##### Artikel 4:26. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege het niet meewerken aan re-integratie als bedoeld in artikel 21 ZAPO
 
@@ -1344,17 +1325,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift of afschriften afkomstig uit zijn salarissysteem waaruit blijkt dat de werknemer de wegens ziekte afwezige werknemer heeft vervangen; of
+   - a. een afschrift of afschriften afkomstig uit zijn salarissysteem waaruit blijkt dat de werknemer de wegens ziekte afwezige werknemer heeft vervangen; of
 
-- b. andere ter zake overtuigende documenten waaruit blijkt dat de werknemer de wegens ziekte afwezige werknemer heeft vervangen.
+   - b. andere ter zake overtuigende documenten waaruit blijkt dat de werknemer de wegens ziekte afwezige werknemer heeft vervangen.
 
 ##### Artikel 4:28. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens schorsing
 
@@ -1366,13 +1347,13 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - b. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Tevens overlegt de werkgever een afschrift van het schorsingsbesluit.
 
-##### Artikel 4:29. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens gecompenseerd vakantieverlof, vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en verleend en verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten
+##### Artikel 4:29. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens gecompenseerd vakantieverlof, vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de Wet arbeid en zorg en verleend en verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierde lid van de CAO PO, in verband met vanwege vervanging afwezige wegens gecompenseerd vakantieverlof, vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en verleend en verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten als bedoeld in artikel 8.1, vierde lid, van de CAO PO niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in [artikel 4:29:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.2&artikel=4:29:1&z=2022-10-28&g=2022-10-28) heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd.
 
@@ -1382,17 +1363,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer gecompenseerd vakantieverlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer gecompenseerd vakantieverlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die gecompenseerd vakantieverlof genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die gecompenseerd vakantieverlof genoot, heeft vervangen.
 
 ##### Artikel 4:30. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens opnieuw verleend verlof
 
@@ -1404,17 +1385,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer opnieuw verleend verlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer opnieuw verleend verlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die opnieuw verleend verlof genoot, heeft vervangen
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die opnieuw verleend verlof genoot, heeft vervangen
 
 ##### Artikel 4:31. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezig wegens buitengewoon verlof
 
@@ -1426,19 +1407,19 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer buitengewoon verlof heeft genoten op grond van artikel 8.6 dan wel 8.7, 8.8, 8.9, 8.10, 8.11, 8.13 of 8.16 van de CAO PO; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer buitengewoon verlof heeft genoten op grond van artikel 8.6 dan wel 8.7, 8.8, 8.9, 8.10, 8.11, 8.13 of 8.16 van de CAO PO; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die buitengewoon verlof op grond van artikel 8.6 dan wel 8.7, 8.8, 8.9, 8.10, 8.11, 8.13 of 8.16 van de CAO PO genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die buitengewoon verlof op grond van artikel 8.6 dan wel 8.7, 8.8, 8.9, 8.10, 8.11, 8.13 of 8.16 van de CAO PO genoot, heeft vervangen.
 
-##### Artikel 4:32. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens zwangerschaps- en bevallingsverlof op grond van de [Wet Arbeid en Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) (WAZO)
+##### Artikel 4:32. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens zwangerschaps- en bevallingsverlof op grond van de Wet Arbeid en Zorg (WAZO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierde lid van de CAO PO, in verband met vervanging wegens zwangerschaps- en bevallingsverlof op grond van de [Wet Arbeid en Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008), niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in [artikel 4:32:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.2&artikel=4:32:1&z=2022-10-28&g=2022-10-28) heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd.
 
@@ -1448,17 +1429,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezig werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer zwangerschaps- en bevallingsverlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer zwangerschaps- en bevallingsverlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die zwangerschaps- en bevallingsverlof genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die zwangerschaps- en bevallingsverlof genoot, heeft vervangen.
 
 ##### Artikel 4:33. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens ouderschapsverlof
 
@@ -1470,17 +1451,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer ouderschapsverlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer ouderschapsverlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die ouderschapsverlof genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die ouderschapsverlof genoot, heeft vervangen.
 
 ##### Artikel 4:34. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens spaarverlof
 
@@ -1492,17 +1473,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer spaarverlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer spaarverlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die spaarverlof genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die spaarverlof genoot, heeft vervangen.
 
 ##### Artikel 4:34:2. Inspanning behoud werknemer voor eigen organisatie
 
@@ -1522,17 +1503,17 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer levensloopverlof heeft genoten; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer levensloopverlof heeft genoten; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die levensloopverlof genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die levensloopverlof genoot, heeft vervangen.
 
 ##### Artikel 4:35:2. Inspanning behoud werknemer voor eigen organisatie
 
@@ -1544,25 +1525,25 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierd
 
 ##### Artikel 4:36. Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband vanwege vervanging afwezige wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
 
-Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierde lid van de CAO PO, in verband met vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in [artikel 4:36:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.2&artikel=4:36:1&z=2022-10-28&g=2022-10-28) heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd.
+Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.1, vierde lid van de CAO PO, in verband met vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in [artikel 4:36:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.2&artikel=4:36:1&z=2022-10-28&g=2022-10-28) heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd.
 
 ##### Artikel 4:36:1. Aantonen vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
 
-- 1. De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.
+- 1. De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.
 
 - 2. De werkgever legt daartoe over een afschrift van de arbeidsovereenkomst van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen:
 
-- a. de naam van de afwezige; en
+   - a. de naam van de afwezige; en
 
-- b. de reden van de afwezigheid; en
+   - b. de reden van de afwezigheid; en
 
-- c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
+   - c. de periode waarvoor de arbeidsovereenkomst is aangegaan.
 
 - 3. Indien de reden van de afwezigheid niet is opgenomen in de arbeidsovereenkomst dan overlegt de werkgever naast de arbeidsovereenkomst:
 
-- a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer studieverlof heeft genoten op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008; en
+   - a. een afschrift van andere ter zake overtuigende documenten waaruit blijkt dat de afwezige werknemer studieverlof heeft genoten op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008; en
 
-- b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008 genoot, heeft vervangen.
+   - b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werknemer de afwezige werknemer die studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008 genoot, heeft vervangen.
 
 ### Paragraaf 4.3. Formatieve beëindigingsgronden bij een vast dienstverband
 
@@ -1604,15 +1585,15 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021 – 2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -1626,31 +1607,31 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:38:4. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 - 1. Als het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de werknemer van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan wordt het bedrag dat gemoeid is met de daling, genoemd in [artikel 4:38:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.3&artikel=4:38:2&z=2022-10-28&g=2022-10-28) verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de werknemer van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd en die niet in de vacature, genoemd onder v. is benoemd.
 
-- i. personeel in tijdelijke dienst dat gehandhaafd blijft;
+   - i. personeel in tijdelijke dienst dat gehandhaafd blijft;
 
-- ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, in vaste dienst is benoemd;
+   - ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, in vaste dienst is benoemd;
 
-- iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;
+   - iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;
 
-- iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, in vaste dienst is getreden;
+   - iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de datum van beëindiging van het dienstverband, in vaste dienst is getreden;
 
-- v. een vacature op de datum van beëindiging van het dienstverband.
+   - v. een vacature op de datum van beëindiging van het dienstverband.
 
 ##### Artikel 4:38:5. Uitgestelde beëindiging van het dienstverband
 
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in [artikel 4:38:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.3&artikel=4:38:2&z=2022-10-28&g=2022-10-28) in de schooljaren 2019 – 2020, 2020 – 2021 en 2021 – 2022 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
-De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
+De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
 ##### Artikel 4:38:6. Afvloeiingsvolgorde
 
@@ -1662,11 +1643,11 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:38:8. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:38:9. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -1674,19 +1655,19 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de beëindigingsdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag`
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag`
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1706,19 +1687,19 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 
 - 2. De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat
 
-- a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan; en
+   - a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan; en
 
-- b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven; en
+   - b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven; en
 
-- c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.
+   - c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.
 
 ##### Artikel 4:39:3. Sociaal Plan in geval van werknemersvan wie het vaste dienstverband wordt beëindigd
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
 
-- b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de looptijd van het sociaal plan, conform de in het sociaal plan gemaakte afspraken, is;
+   - b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de looptijd van het sociaal plan, conform de in het sociaal plan gemaakte afspraken, is;
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -1726,11 +1707,11 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 
 ##### Artikel 4:39:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:39:5. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -1752,11 +1733,11 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
 
-- b. de beëindiging van het dienstverband met wederzijds goedvinden, tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is; dan wel
+   - b. de beëindiging van het dienstverband met wederzijds goedvinden, tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is; dan wel
 
-- c. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
+   - c. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -1780,45 +1761,45 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 ##### Artikel 4:41:2. Daling materiele bekostiging per 1 januari 2022
 
-- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
+- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
 
-- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
+- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
 
 ##### Artikel 4:41:3. beëindiging dienstverband
 
 - 1. In geval van een daling van de rijksbekostiging materiele instandhouding kan de werkgever op drie data het dienstverband van schoonmaakpersoneel beëindigen:
 
-- A. Het dienstverband wordt beëindigd per 1 augustus 2021, **of**
+   - A. Het dienstverband wordt beëindigd per 1 augustus 2021, *of*
 
-- B. Het dienstverband wordt beëindigd per 1 januari 2022, **of**
+   - B. Het dienstverband wordt beëindigd per 1 januari 2022, *of*
 
-- C. Het dienstverband wordt beëindigd per 1 augustus 2022.
+   - C. Het dienstverband wordt beëindigd per 1 augustus 2022.
 
 - 2. De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 4:41:3 onder A, B of C:
 
-- A. beëindiging dienstverband per 1 augustus 2021
+   - A. beëindiging dienstverband per 1 augustus 2021
 
-- 1. Indien het dienstverband wordt beëindigd per 1 augustus 2021 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het dienstverband wordt beëindigd per 1 augustus 2021 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- B. beëindiging dienstverband per 1 januari 2022
+   - B. beëindiging dienstverband per 1 januari 2022
 
-- 1. Indien het dienstverband wordt beëindigd per 1 januari 2022 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het dienstverband wordt beëindigd per 1 januari 2022 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- C. beëindiging dienstverband per 1 augustus 2022
+   - C. beëindiging dienstverband per 1 augustus 2022
 
-- 1. Indien het dienstverband wordt beëindigd per 1 augustus 2022 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het dienstverband wordt beëindigd per 1 augustus 2022 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2020.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2020.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2022 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2022 aan de hand van de loonkostentool van het Participatiefonds.
 
 ##### Artikel 4:41:4. Afvloeiingsvolgorde
 
@@ -1830,19 +1811,19 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1872,11 +1853,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:42:4. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
@@ -1900,11 +1881,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ##### Artikel 4:42:6. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging van de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van bekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van bekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:42:7. Inspanning behoud werknemer voor eigen organisatie
 
@@ -1920,19 +1901,19 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -1958,19 +1939,19 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de datum van de beëindiging van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, heeft de werkgever het ondersteuningsaanbod verlengd tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘aanbod externe ondersteuning’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘aanbod externe ondersteuning’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod externe ondersteuning’ andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod externe ondersteuning’ andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2014,15 +1995,15 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021–2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020 – 2021 en schooljaar 2021–2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2036,25 +2017,25 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:45:4. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 - 1. Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in [artikel 4:45:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.3&artikel=4:45:2&z=2022-10-28&g=2022-10-28) verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot iv. en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.
 
-- i. personeel in tijdelijke dienst dat gehandhaafd blijft;
+   - i. personeel in tijdelijke dienst dat gehandhaafd blijft;
 
-- ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
+   - ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
 
-- iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
+   - iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
 
-- iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
+   - iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
 
-- v. een vacature op de datum van ontslag;
+   - v. een vacature op de datum van ontslag;
 
 ##### Artikel 4:45:5. Uitgestelde beëindiging van het dienstverband
 
@@ -2064,7 +2045,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
-- 4. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2021 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
+- 4. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2021 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
 ##### Artikel 4:45:6. Afvloeiingsvolgorde
 
@@ -2076,11 +2057,11 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:45:8. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van de beëindiging.
 
-- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:45:9. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -2088,19 +2069,19 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2120,19 +2101,19 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 
 - 2. De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat
 
-- a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan **en**
+   - a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan *en*
 
-- b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven **en**
+   - b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven *en*
 
-- c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.
+   - c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.
 
 ##### Artikel 4:46:3. Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
 
-- b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
+   - b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -2140,7 +2121,7 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 
 ##### Artikel 4:46:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.
 
@@ -2164,9 +2145,9 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en
 
-- b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
+   - b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -2190,45 +2171,45 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 ##### Artikel 4:48:2. Daling materiele bekostiging per 1 januari 2022
 
-- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
+- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
 
-- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
+- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
 
 ##### Artikel 4:48:3. beëindiging dienstverband
 
 - 1. In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen:
 
-- •. Het dienstverband wordt beëindigd per 1 augustus 2021, **of**
+   - • Het dienstverband wordt beëindigd per 1 augustus 2021, *of*
 
-- •. Het dienstverband wordt beëindigd per 1 januari 2022, **of**
+   - • Het dienstverband wordt beëindigd per 1 januari 2022, *of*
 
-- •. Het dienstverband wordt beëindigd per 1 augustus 2022.
+   - • Het dienstverband wordt beëindigd per 1 augustus 2022.
 
 - 2. De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 4:48:3 onder A, B of C:
 
-- A. beëindiging dienstverband per 1 augustus 2021
+   - A. beëindiging dienstverband per 1 augustus 2021
 
-- 1. Indien het ontslag geeffectueerd wordt per 1 augustus 2021 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het ontslag geeffectueerd wordt per 1 augustus 2021 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- B. beëindiging dienstverband per 1 januari 2022
+   - B. beëindiging dienstverband per 1 januari 2022
 
-- 1. Indien het ontslag geeffectueerd wordt per 1 januari 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het ontslag geeffectueerd wordt per 1 januari 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- C. beëindiging dienstverband per 1 augustus 2022
+   - C. beëindiging dienstverband per 1 augustus 2022
 
-- 1. Indien het ontslag geeffectueerd wordt per 1 augustus 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
+      - 1. Indien het ontslag geeffectueerd wordt per 1 augustus 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2022 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2022 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.
 
 ##### Artikel 4:48:4. Afvloeiingsvolgorde
 
@@ -2240,19 +2221,19 @@ Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge vol
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2282,11 +2263,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:49:4. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
@@ -2310,11 +2291,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ##### Artikel 4:49:6. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:49:7. Inspanning behoud werknemer voor eigen organisatie
 
@@ -2330,19 +2311,19 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2368,19 +2349,19 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, heeft de werkgever het ondersteuningsaanbod verlengd tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘aanbod externe ondersteuning’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘aanbod externe ondersteuning’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod externe ondersteuning’ andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod externe ondersteuning’ andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2402,17 +2383,17 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘Aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe overlegt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2426,15 +2407,15 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
 
-- d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2448,11 +2429,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:52:3. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
@@ -2462,7 +2443,7 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in [artikel 4:52:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.4&artikel=4:52:1&z=2022-10-28&g=2022-10-28) in de schooljaren 2019–2020, 2020–2021 en 2021–2022 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
-De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
+De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
 ##### Artikel 4:52:5. Vergelijking per onderwijssoort
 
@@ -2470,11 +2451,11 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:52:6. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid, van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:52:7. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -2482,17 +2463,17 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2506,15 +2487,15 @@ Als de werkgever, die werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de 
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen.
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2530,11 +2511,11 @@ Als de werkgever, die werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de 
 
 Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in [artikel 4:53:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.4&artikel=4:53:1&z=2022-10-28&g=2022-10-28) in de schooljaren 2019–2020, 2020–2021 en 2021–2022 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
-De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
+De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2020 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.
 
 ##### Artikel 4:53:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.
 
@@ -2546,17 +2527,17 @@ De daling rijksbekostiging van personeel en financiële bijdragen van derden per
 
 - 3. Indien de werkgever niet over een sociaal plan beschikt, overlegt hij de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2574,9 +2555,9 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 
 - 1. De werkgever toont aan dat
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, **en**
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, *en*
 
-- b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is.
+   - b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -2594,45 +2575,45 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 ##### Artikel 4:55:1. Daling materiele bekostiging per 1 januari 2022
 
-- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
+- 1. De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, zijn gedaald.
 
-- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel per 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
+- 2. De werkgever legt daartoe over documenten waaruit blijkt dat de rijksbekostiging Materieel per 1 januari 2022, vergeleken met de totale rijksbekostiging Materieel per 31 december 2021, is gedaald.
 
 ##### Artikel 4:55:2. Beëindiging dienstverband
 
 - 1. In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen:
 
-- •. Het dienstverband wordt niet voortgezet per 1 augustus 2021, **of**
+   - • Het dienstverband wordt niet voortgezet per 1 augustus 2021, *of*
 
-- •. Het dienstverband wordt niet voortgezet per 1 januari 2022, **of**
+   - • Het dienstverband wordt niet voortgezet per 1 januari 2022, *of*
 
-- •. Het dienstverband wordt niet voortgezet per 1 augustus 2022
+   - • Het dienstverband wordt niet voortgezet per 1 augustus 2022
 
 - 2. De werkgever overlegt, afhankelijk van de datum waarop het tijdelijk dienstverband niet wordt voortgezet, de vergelijking zoals bepaald in artikel 4:55:3 onder A, B of C:
 
-- A. dienstverband wordt niet voortgezet per 1 augustus 2021
+   - A. dienstverband wordt niet voortgezet per 1 augustus 2021
 
-- 1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2021 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
+      - 1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2021 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- B. dienstverband wordt niet voortgezet per 1 januari 2022
+   - B. dienstverband wordt niet voortgezet per 1 januari 2022
 
-- 1. Indien het dienstverband niet wordt voortgezet per 1 januari 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
+      - 1. Indien het dienstverband niet wordt voortgezet per 1 januari 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2021 aan de hand van de loonkostentool van het Participatiefonds.
 
-- C. beëindiging dienstverband per 1 augustus 2022
+   - C. beëindiging dienstverband per 1 augustus 2022
 
-- 1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
+      - 1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2022 dan wordt de materiele instandhouding over de jaren 2021 en 2022 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2022 ten opzichte van de vergoeding per 1 januari 2021, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.
 
-- 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
+      - 2. De werkgever legt daartoe over een vergelijking over de jaren 2021 en 2022.
 
-- 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2022 aan de hand van de loonkostentool van het Participatiefonds.
+      - 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2022 aan de hand van de loonkostentool van het Participatiefonds.
 
 ##### Artikel 4:55:3. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -2640,17 +2621,17 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden
+   - b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2674,11 +2655,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn personeel in vaste dienst de geldende regels t.a.v. de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:56:3. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
@@ -2686,11 +2667,11 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 ##### Artikel 4:56:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een niet voortgezet dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot niet voortzetten van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een niet voortgezet dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot niet voortzetten van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:56:5. Inspanning behoud werknemer voor eigen organisatie
 
@@ -2706,17 +2687,17 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden;
+   - b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden;
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2742,15 +2723,15 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2764,25 +2745,25 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:57:5. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 - 1. Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in [artikel 4:57:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.5&artikel=4:57:3&z=2022-10-28&g=2022-10-28) verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.
 
-- i. personeel in tijdelijke dienst dat gehandhaafd blijft;
+   - i. personeel in tijdelijke dienst dat gehandhaafd blijft;
 
-- ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
+   - ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
 
-- iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
+   - iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
 
-- iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
+   - iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
 
-- v. een vacature op de datum van ontslag;
+   - v. een vacature op de datum van ontslag;
 
 ##### Artikel 4:57:6. Afvloeiingsvolgorde
 
@@ -2794,11 +2775,11 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:57:8. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van de beëindiging.
 
-- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindiging op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:57:9. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -2806,19 +2787,19 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2838,17 +2819,17 @@ Als de werkgever ontslag verleend op grond van artikel 3.6, eerste lid, onder a 
 
 - 2. De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat
 
-- i. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven **en**
+   - i. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven *en*
 
-- ii. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de financiële bijdragen van derden.
+   - ii. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de financiële bijdragen van derden.
 
 ##### Artikel 4:58:3. Sociaal Plan in geval van werknemers van wie het vaste dienstverband wordt beëindigd
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
 
-- b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
+   - b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -2856,7 +2837,7 @@ Als de werkgever ontslag verleend op grond van artikel 3.6, eerste lid, onder a 
 
 ##### Artikel 4:58:4. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.
 
@@ -2886,13 +2867,13 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 - 2. De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
 - 3. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2906,25 +2887,25 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:59:5. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 - 1. Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in [artikel 4:59:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.5&artikel=4:59:3&z=2022-10-28&g=2022-10-28) verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.
 
-- i. personeel in tijdelijke dienst dat gehandhaafd blijft;
+   - i. personeel in tijdelijke dienst dat gehandhaafd blijft;
 
-- ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
+   - ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
 
-- iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
+   - iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
 
-- iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
+   - iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
 
-- v. een vacature op de datum van ontslag;
+   - v. een vacature op de datum van ontslag;
 
 ##### Artikel 4:59:6. Afvloeiingsvolgorde
 
@@ -2936,7 +2917,7 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:59:8. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 ##### Artikel 4:59:9. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -2944,19 +2925,19 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
+   - a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;
 
-- b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
+   - b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;
 
-- c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
+   - c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever overlegt daartoe:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -2976,15 +2957,15 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 2. De werkgever legt daartoe over de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
-- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de **WPO**,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
+- 3. Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in [artikel 18a, achtste lid, onder b van de *WPO*,](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.
 
 - 4. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -2998,11 +2979,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4a van
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:60:4. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
@@ -3018,11 +2999,11 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:60:7. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement 2021–2022.
 
 - 2. Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.
 
-- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
+- 3. Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.1 en 10.1 van de CAO PO en 10.4a, zevende lid van de CAO PO 2018–2019 niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement 2021–2022.
 
 ##### Artikel 4:60:8. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -3030,17 +3011,17 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -3054,17 +3035,17 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 
 - 2. De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat
 
-- I. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en
+   - I. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en
 
-- II. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de financiële bijdragen van derden.
+   - II. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de financiële bijdragen van derden.
 
 ##### Artikel 4:61:2. Sociaal Plan
 
 - 1. De werkgever toont aan dat:
 
-- a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
+   - a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan, en
 
-- b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is.
+   - b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van het sociaal plan conform de in het sociaal plan gemaakte afspraken is.
 
 - 2. De werkgever legt daartoe over het sociaal plan.
 
@@ -3096,13 +3077,13 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 - 2. De werkgever overlegt daartoe de vergelijking van de rijksbekostiging en financiële bijdragen van derden. Deze vergelijking voldoet aan de volgende voorwaarden:
 
-- a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
+   - a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;
 
-- b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
+   - c. de bedragen die gemoeid gaan met de [Regeling prestatiebox primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031184) worden voor 65% in de vergelijking van schooljaar 2020–2021 en schooljaar 2021–2022 opgenomen;
 
-- d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
+   - d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.
 
 - 3. Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.
 
@@ -3118,25 +3099,25 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 - 3. Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: Hierbij zijn voor personeel in vaste dienst de geldende regels ten aanzien van de afvloeiingsvolgorde van de CAO PO van kracht.
 
-- a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
+   - a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.
 
-- b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
+   - b. De werkgever neemt vervolgens de loonkosten van de werknemer of de werknemers van wie het dienstverband op grond van een beëindigingsovereenkomst is beëindigd bij de berekening in aanmerking. De werkgever neemt daarbij eerst het dienstverband in aanmerking met de vroegste datum van ondertekening van de beëindigingsovereenkomst en als laatste dienstverband met de laatste datum van ondertekening van de beëindigingsovereenkomst.
 
-- c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
+   - c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers van wie het vast dienstverband door middel van ontslag is beëindigd bij de berekening in aanmerking.
 
 ##### Artikel 4:62:5. Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 - 1. Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in [artikel 4:62:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=4&paragraaf=4.6&artikel=4:62:3&z=2022-10-28&g=2022-10-28) verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot iv. en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.
 
-- i. personeel in tijdelijke dienst dat gehandhaafd blijft;
+   - i. personeel in tijdelijke dienst dat gehandhaafd blijft;
 
-- ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
+   - ii. personeel in tijdelijke dienst dat, in de periode tussen de ontslagaanzegging en de ontslagdatum in vaste dienst is benoemd;
 
-- iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
+   - iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaanzegging en de ontslagdatum een uitbreiding van de betrekking heeft gehad;
 
-- iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
+   - iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;
 
-- v. een vacature op de datum van ontslag;
+   - v. een vacature op de datum van ontslag;
 
 ##### Artikel 4:62:6. Afvloeiingsvolgorde
 
@@ -3148,7 +3129,7 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 ##### Artikel 4:62:8. Toetsingsdatum
 
-- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
+- 1. Een vergoedingsverzoek op grond van dit artikel van een beëindiging per 1 augustus, waarbij de laatste contractdag van de arbeidsovereenkomst op 31 juli is, wordt getoetst op basis van het Reglement Participatiefonds 2021–2022.
 
 ##### Artikel 4:62:9. Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -3156,17 +3137,17 @@ Een werkgever die zowel werkgever is in de zin van de [WPO](https://wetten.overh
 
 - 2. De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;
 
-- b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
+   - b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever overlegt daartoe:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -3188,17 +3169,17 @@ Indien er sprake is van de beëindiging van een dienstverband van een personeels
 
 - 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van:
 
-- a. minstens € 500,– bij een dienstverband van minder dan 12 maanden;
+   - a. minstens € 500,– bij een dienstverband van minder dan 12 maanden;
 
-- b. minstens € 1.000,- bij een dienstverband van 12 maanden of langer.
+   - b. minstens € 1.000,- bij een dienstverband van 12 maanden of langer.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.’
 
@@ -3226,15 +3207,15 @@ Indien er sprake is van het niet voortzetten van een dienstverband van een perso
 
 - 1. Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.
 
-- 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van € 100,– per afgeronde maand dat de werknemer in dienst is geweest, tot een maximum van € 1.000,–.
+- 2. De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van € 100,– per afgeronde maand dat de werknemer in dienst is geweest, tot een maximum van € 1.000,–.
 
 - 3. Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.
 
 - 4. De werkgever legt daartoe over:
 
-- a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
+   - a. een afschrift van de – voor de ontslagdatum ondertekende – modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of
 
-- b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
+   - b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.
 
 - 5. Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.
 
@@ -3250,13 +3231,13 @@ Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor 
 
 ##### Artikel 6:2. Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet in de periode 1 augustus 2021 tot en met 31 juli 2022.
+Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet in de periode 1 augustus 2021 tot en met 31 juli 2022.
 
 ##### Artikel 6:3. Bekendmaking
 
-- –. 1. Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.
+- – 1. Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.
 
-- –. 2. Het Participatiefonds plaatst dit reglement tevens op de internetsite van het Participatiefonds www.vfpf.nl.
+- – 2. Het Participatiefonds plaatst dit reglement tevens op de internetsite van het Participatiefonds www.vfpf.nl.
 
 ##### Artikel 6:4. Wijziging of afwijking van het reglement
 
@@ -3273,337 +3254,3 @@ In gevallen waarin het reglement niet voorziet, beslist het bestuur van het Part
 - 2. Het Participatiefonds stelt bestuursvoorschriften vast waarin de uitvoeringstechnische verplichtingen voor werkgevers zijn neergelegd.
 
 - 3. De werkgever houdt zich aan die bestuursvoorschriften.
-
-## Bijlage 1. Modelverklaring gesprekkencyclus
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-Naam werknemer:
-
-BSN:
-
-Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd.
-
-Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest:
-
-- •. de door de werkgever geconstateerde knelpunten in het functioneren van de werknemer;
-
-- •. de door de werkgever noodzakelijke geachte verbetering in het functioneren van de werknemer;
-
-- •. de wijze waarop de werknemer met interne of externe ondersteuning de genoemde verbetering van zijn functioneren moest bereiken en de periode waarbinnen hij deze verbetering gerealiseerd moest hebben;
-
-- •. de mededeling van de werkgever aan de werknemer dat hij tot de conclusie is gekomen dat het verbetertraject niet of onvoldoende heeft geleid tot de noodzakelijke verbetering in het functioneren.
-
-Datum:
-
-Plaats:
-
-| **Werkgever** | **Werknemer** |
-| --- | --- |
-| Naam: | Naam: |
-| Handtekening: | Handtekening: |
-
-## Bijlage 2. Modelverklaring gesprekkencyclus ziekte en arbeidsongeschiktheid
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-Naam werknemer:
-
-BSN:
-
-Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd.
-
-Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest:
-
-- •. Welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen functie;
-
-- •. De mogelijkheden die zijn onderzocht om zijn functie aan diens beperkingen aan te passen;
-
-- •. De conclusie van de werkgever dat het niet mogelijk is de eigen functie van de werknemer aan te passen.
-
-Datum:
-
-Plaats:
-
-| **Werkgever** | **Werknemer** |
-| --- | --- |
-| Naam: | Naam: |
-| Handtekening: | Handtekening: |
-
-## Bijlage 3. Modelverklaring herplaatsingsonderzoek
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-Naam werknemer:
-
-BSN:
-
-De werkgever en werknemer hebben met elkaar de herplaatsingsmogelijkheden binnen de eigen organisatie besproken. De werkgever heeft de werknemer tenminste geïnformeerd over:
-
-- •. de wijze waarop de werkgever herplaatsingsmogelijkheden binnen de eigen organisatie heeft onderzocht;
-
-- •. de conclusie van werkgever dat herplaatsingsmogelijkheden binnen de eigen organisatie ontbreken of redelijkerwijs niet te realiseren zijn.
-
-Datum:
-
-Plaats:
-
-| **Werkgever** | **Werknemer** |
-| --- | --- |
-| Naam: | Naam: |
-| Handtekening: | Handtekening: |
-
-## Bijlage 4. Modelverklaring herplaatsingsonderzoek ziekte en arbeidsongeschiktheid
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-Naam werknemer:
-
-BSN:
-
-De werkgever en werknemer hebben met elkaar gesproken over herplaatsingsmogelijkheden binnen de eigen organisatie. De werkgever heeft de werknemer er tenminste over geïnformeerd dat:
-
-- •. uit zorgvuldig onderzoek is gebleken dat voor de werknemer geen reële herplaatsingsmogelijkheden zijn
-
-- •. de werkgever bij het onderzoek ook het resultaat van de WIA-claimbeoordeling heeft betrokken en indien er deskundigenoordeel van het UWV is aangevraagd, ook het deskundigenoordeel.
-
-Datum:
-
-Plaats:
-
-| **Werkgever** | **Werknemer** |
-| --- | --- |
-| Naam: | Naam: |
-| Handtekening: | Handtekening: |
-
-## Bijlage 5. Modelverklaring aanbod ondersteuning extern
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-Naam werknemer:
-
-BSN:
-
-De werkgever verklaart de volgende activiteiten te hebben ingekocht om de werknemer te begeleiden naar ander werk:
-
-| Activiteit |   | Bedrag |
-| --- | --- | --- |
-|   |   |   |
-| Sollicitatietraining | Ja/nee |   |
-| Netwerktraining | Ja/nee |   |
-| Coaching | Ja/nee |   |
-| Jobhunting | Ja/nee |   |
-| Capaciteitenonderzoek zelfstandig ondernemerschap | Ja/nee |   |
-| CV- en sollicitatiebriefcheck | Ja/nee |   |
-| Begeleiding gericht op zelfstandig ondernemerschap | Ja/nee |   |
-| Omscholing | Ja/nee |   |
-| Outplacement | Ja/nee |   |
-| Andere begeleiding gericht op het vinden van een baan elders | Ja/nee |   |
-| **Totaalbedrag** |   |   |
-
-Datum:
-
-Plaats:
-
-| **Werkgever** | **Werknemer** |
-| --- | --- |
-| Naam: | Naam: |
-| Handtekening: | Handtekening: |
-
-De waarde is afhankelijk van de duur van het dienstverband bij de werkgever en vertegenwoordigen:
-
-bij een vast dienstverband, een bedrag van:
-
-- a. ten minste € 3.000,– bij een dienstverband van minder dan 10 jaar;
-
-- b. ten minste € 4.000,– bij een dienstverband van ten minste 10 jaar maar minder dan 20 jaren;
-
-- c. ten minste € 5.000,– bij een dienstverband van ten minste 20 jaren.
-
-bij een tijdelijke dienstverband:
-
-- a. ten minste € 500,– bij een dienstverband van minder dan 6 maanden;
-
-- b. ten minste € 1.000,– bij een dienstverband van tenminste 6 maanden.
-
-bij de beëindiging van een participatiebaan (artikel 4:63 en 5:66)
-
-- a. ten minste € 500,– bij een dienstverband van minder dan 12 maanden;
-
-- b. ten minste € 1.000,– bij een dienstverband van 12 maanden of langer.
-
-bij een dienstverband in het kader van vervanging (artikel 4:64 en 5:67):
-
-- a. € 100,– per afgeronde maand dat de werknemer in dienst is geweest, tot een maximum van € 1.000,–.
-
-## Bijlage 6. Modelbrief verlengd aanbod ondersteuning extern
-
-Geachte ......,
-
-Op (Vul in: datum einde dienstverband) wordt uw dienstverband als (Vul in: functie) bij (Vul in: naam van de school), een van de scholen van (vul in: naam werkgever) beëindigd.
-
-Op (Vul in: datum schriftelijk aanbod ondersteuning) hebben wij u schriftelijk ondersteuning aangeboden bij het verwerven van een werkkring buiten onze organisatie.
-
-Tot op heden heeft u nog geen gebruik gemaakt van ons aanbod.
-
-Hierbij bieden wij u wederom ondersteuning aan bij het verwerven van een werkkring buiten onze organisatie. Als u aanspraak maakt op een WW-uitkering dan blijft ons eerder aanbod voor de ondersteuning van kracht gedurende de eerste drie maanden na de eerste WW-dag. Voor informatie over ons aanbod verwijzen wij u naar de bijlage (Als bijlage toevoegen: schriftelijk aanbod externe ondersteuning).
-
-Wij wijzen u er op dat, indien u een recht op een WW-uitkering wordt toegekend, u verplicht bent mee te werken aan uw re-integratie op de arbeidsmarkt. Indien u niet meewerkt aan uw re-integratie dan kan het UWV hier consequenties aan verbinden in de vorm van een financiële sanctie.
-
-Hoogachtend,
-
-...
-
-Getekend d.d..............te............................
-
-## Bijlage 7. Modelverklaring daling bekostiging bij werkgelegenheidsbeleid
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-De werkgever verklaart dat:
-
-- a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan **en**
-
-- b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven **en**
-
-- c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.
-
-Datum:
-
-Plaats:
-
-**Werkgever**
-
-Naam:
-
-Handtekening:
-
-## Bijlage 8. Modelverklaring daling financiele bijdrage van derden als gevolg van de invoering passend onderwijs
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-De werkgever verklaart dat:
-
-- a. direct voorafgaand aan de beëindiging van het dienstverband, een daling van financiële bijdragen van derden als gevolg van de invoering passend onderwijs heeft voorgedaan en
-
-- b. de werkgever uitsluitend als gevolg van deze financiële bijdrage van derden werkgelegenheidsgarantie niet meer kon handhaven en
-
-- c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van financiële bijdragen van derden.
-
-Datum:
-
-Plaats:
-
-**Werkgever**
-
-Naam:
-
-Handtekening:
-
-## Bijlage 9. Verzoek vrijstellingsregeling van toetsing aan de voorwaarden van het reglement
-
-Naam werkgever:
-
-Vertegenwoordigd door de heer / mevrouw:
-
-Functie:
-
-Werkgevernummer:
-
-De werkgever wenst, op grond van [artikel 3:3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045147&hoofdstuk=3&paragraaf=3.1&artikel=3:3&z=2022-10-28&g=2022-10-28), in aanmerking te komen voor een vrijstelling van de toetsing van de volgende voorwaarden:
-
-- ○. reden beëindiging dienstverband
-
-- ○. vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden
-
-- ○. behoud eigen organisatie
-
-- ○. behoud eigen functie
-
-De werkgever voegt bewijsstukken / ter zake overtuigende documenten toe waaruit
-
-blijkt dat UWV de ontslagvergunning heeft verleend voor het dienstverband waarop het vergoedingsverzoek betrekking heeft.
-
-Datum:
-
-Plaats:
-
-**Werkgever**
-
-Naam:
-
-Handtekening:
-
-## Bijlage 10. Verklaring uitkeringsverleden
-
-Hierbij verklaar ik (naam) ..........................................
-
-met BSN................................................
-
-dat ik direct voorafgaand het in dienst treden d.d. ...........................
-
-bij schoolbestuur.....................................................................................
-
-met BRINnummer.............................................. (in te vullen door schoolbestuur) meer dan 8 weken een uitkering heb ontvangen vanuit een dienstverband onder de CAO PO of cao bestuurders.
-
-Hierbij geef ik toestemming aan mijn werkgever, indien gewenst, om bovenstaande verklaring bij het Participatiefonds te verifiëren, zodat mijn werkgever weet dat ik onder de doelgroep van de vrijstellingsregeling voor de instroomtoets val.
-
-**Heeft u als werknemer/uitkeringsgerechtigde nog vragen, kunt u altijd contact opnemen met uw casemanager bij het Participatiefonds.**
-
-Datum ondertekening:........................
-
-Naam werknemer/uitkeringsgerechtigde:
-
-Handtekening werknemer/ uitkeringsgerechtigde:
-
-.....................................................................................................................................................
-
-Datum ondertekening:....................................................................
-
-Geverifieerd door (naam casemanager):
-
-Handtekening casemanager:
-
-Dit formulier kan ingevuld gemaild worden naar casemanagement@vfpf.org. Voor vragen kunt u altijd contact opnemen met de afdeling Casemanagement op 010-2177630. Voor vragen over privacy en het gebruik van uw persoonsgegevens door het Participatiefonds kunt u het privacystatement op onze website raadplegen.

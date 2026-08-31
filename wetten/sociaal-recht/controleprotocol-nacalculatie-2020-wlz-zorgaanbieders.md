@@ -1,35 +1,16 @@
 ---
 title: "Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders"
 identifier: "BWBR0044966"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-03-25"
-last_updated: "2021-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044966"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15902473"
-version_id: "27639942"
-internal_id: "C38998461"
-label_id: "15838204"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044966/2021-03-25/0"
-intitule_bron: "Stcrt.2021-14723"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-03-25"
-intitule_in_force: "2021-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-14723"
-original_published_date: "2021-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-14723"
-entry_into_force_date: "2021-03-25"
-jci_1_3: "jci1.3:c:BWBR0044966&z=2021-03-25&g=2021-03-25"
-jci_1_0: "1.0:c:BWBR0044966&g=2021-03-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-25"
+publicatiedatum: 2021-03-25
+laatste_update: 2021-03-25
+status: geldig
+toestand: 2021-03-25
+bron: "https://wetten.overheid.nl/BWBR0044966"
+opgehaald: 2026-08-31
 ---
+
 # Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders
 
 ### 1. Inleiding
@@ -40,25 +21,71 @@ De zorgaanbieder verantwoordt in de nacalculatie-opgave 2020 de totaal financiee
 
 Als gevolg van het SARS-CoV-2 virus is een nieuw onderdeel aan de nacalculatie-opgave 2020 toegevoegd. Dit onderdeel omvat twee componenten:
 
+- − de vergoeding van doorlopende kosten in fase 1, 2 en 3 als gevolg van het SARS-CoV-2 virus; en
+
+- − de financiering van extra personele en materiële kosten die samenhangen met de maatregelen rondom dit virus.
+
 De doorlopende kosten in fase 1, 2 en 3 als gevolg van het SARS-CoV-2 virus maken deel uit van de totaal financieel gerealiseerde productie over 2020. De extra kosten als gevolg van het SARS-CoV-2 virus maken deel uit van de totaal financiële realisatie overige onderdelen over 2020.
 
 De door de zorgaanbieder ingevulde nacalculatie-opgave 2020 bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2020’, met daarin de volgende onderdelen:
 
-Door laatstgenoemde twee ondertekeningsdocumenten 2020 beide van een handtekening te voorzien, verklaart de persoon die bevoegd is te tekenen namens de zorgaanbieder dat hij/zij de nacalculatie-opgave 2020 naar waarheid en in overeenstemming met de voor het jaar 2020 geldende beleidsregels en regelingen van de Nederlandse Zorgautoriteit (NZa) heeft ingevuld. In paragraaf 3.3 (tabel 1) van dit controleprotocol is een overzicht opgenomen van de NZa-regelgeving 2020.
+- − de totaal financieel gerealiseerde productie over 2020, waaronder de doorlopende kosten als gevolg van het SARS-CoV-2 virus. Er vindt geen accountantscontrole plaats op de doorlopende kosten als gevolg van het SARS-CoV-2 virus. De doorlopende kosten als gevolg van het SARS-CoV-2 virus zijn te beschouwen als ‘andere informatie’;
+
+- − de totaal financiële realisatie overige onderdelen over 2020 (indien van toepassing). De overige onderdelen bestaan uit de Vergoeding van inrichtingskosten bij gedwongen verhuizing, Vergoeding extreme kosten van zorggebonden materiaal en geneesmiddelen, Vergoeding BRMO-uitbraak, de Vergoeding innovatie voor kleinschalige experimenten, de Vergoeding voor niet vrij besteedbare aanvullende inkomsten en de Financiering van extra kosten als gevolg van het SARS-CoV-2 virus;
+
+- − de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2020 (indien van toepassing). Er vindt geen accountantscontrole plaats met betrekking tot de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2020;
+
+- − de ‘Vragenlijst controleprotocol’ met indien nodig een door de accountant voor identificatiedoeleinden gewaarmerkte toelichting. De ‘Vragenlijst controleprotocol’ met indien nodig een gewaarmerkte toelichting bij deze vragenlijst zijn te beschouwen als andere informatie;
+
+- − de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant1Met accountant wordt in dit verband bedoeld: de openbare accountant die de nacalculatie-opgave 2020 van de Wlz-zorgaanbieder controleert. gewaarmerkte toelichting;
+
+- − het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’, met daarop de bedragen vermeld voor de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020. Dit document wordt ondertekend door de persoon die bevoegd is te tekenen namens de zorgaanbieder en door de accountant gewaarmerkt. Voor de accountant volstaat hiervoor ook een gekwalificeerde elektronische handtekening volgens EU Verordering 910/2014.2Een voorbeeld hiervan is het certificaat van QuoVadis PKIoverheid.
+
+- − het ondertekeningsdocument ‘Ondertekening Lumpsum kwaliteitsbudget verpleeghuiszorg nacalculatie 2020’, met daarop de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2020 vermeld. Dit document wordt ondertekend door de persoon die bevoegd is te tekenen namens de zorgaanbieder. Dit document wordt niet gewaarmerkt door de accountant.
+
+Door laatstgenoemde twee ondertekeningsdocumenten 2020 beide van een handtekening te voorzien, verklaart de persoon die bevoegd is te tekenen namens de zorgaanbieder dat hij/zij de nacalculatie-opgave 2020 naar waarheid en in overeenstemming met de voor het jaar 2020 geldende beleidsregels en regelingen van de Nederlandse Zorgautoriteit (NZa) heeft ingevuld. In [paragraaf 3.3 (tabel 1)](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol is een overzicht opgenomen van de NZa-regelgeving 2020.
 
 De accountant, zoals bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), controleert het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’. De volgende onderdelen in dit ondertekeningsdocument zijn uitdrukkelijk geen object van onderzoek door de accountant:
 
-De accountant controleert het ondertekeningsdocument ‘Ondertekening Lumpsum kwaliteitsbudget verpleeghuiszorg nacalculatie 2020’ van de zorgaanbieder niet. Ten aanzien van de lumpsum kwaliteitsbudget verpleeghuiszorg voert de accountant overeengekomen specifieke werkzaamheden uit ([Standaard 4400N](onbekend)). Dit valt buiten de scope van dit controleprotocol.
+- − de doorlopende kosten als gevolg van het SARS-CoV-2 virus vallen buiten de scope van de accountantscontrole. De doorlopende kosten als gevolg van het SARS-CoV-2 virus zijn te beschouwen als ‘andere informatie’;
+
+- − in sommige situaties komt het voor dat een zorgkantoor nog correcties doorvoert op de productie en de doorlopende kosten als gevolg van het SARS-CoV-2 virus volgens de nacalculatie-opgave 2020 van de zorgaanbieder. Deze correcties (feitelijk: niet gehonoreerde (over)productie en de correctie op de doorlopende kosten) worden op separate regels opgenomen in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ en zijn uitdrukkelijk geen object van onderzoek door de accountant. Deze correcties zijn te beschouwen als ‘andere informatie’.
+
+De accountant controleert het ondertekeningsdocument ‘Ondertekening Lumpsum kwaliteitsbudget verpleeghuiszorg nacalculatie 2020’ van de zorgaanbieder niet. Ten aanzien van de lumpsum kwaliteitsbudget verpleeghuiszorg voert de accountant overeengekomen specifieke werkzaamheden uit ([Standaard 4400N](https://wetten.overheid.nl/BWBR0044893)). Dit valt buiten de scope van dit controleprotocol.
 
 De accountant geeft de uitkomst van zijn controle van het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ weer in een controleverklaring bij de nacalculatie-opgave 2020. De accountant verklaart in deze controleverklaring dat:
 
-Voor de tekst van de controleverklaring maakt de accountant gebruik van de voorbeeldtekst die in de bijlage van dit controleprotocol is opgenomen. Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst van de controleverklaring aangepast overeenkomstig de [Nadere Voorschriften Controle- en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044893) (NV COS, bij verwijzingen aangeduid met ‘Standaard’).
+- − het bedrag ‘Totaal financieel gerealiseerde productie over 20203Eventuele financiële correcties van de productie door het zorgkantoor vallen buiten de scope van de accountantscontrole. De (correctie op) doorlopende kosten als gevolg van het SARS-CoV-2 virus vallen eveneens buiten de scope van de accountantscontrole. dat is opgenomen op het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als onderdeel van de nacalculatie-opgave 2020, in overeenstemming is met de NZa-regelgeving 2020 zoals deze in [paragraaf 3.3 (tabel 1)](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol staat vermeld en indien van toepassing;
+
+- − het bedrag ‘Totaal financiële realisatie overige onderdelen over 2020’ dat is opgenomen op het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als onderdeel van de nacalculatie-opgave 2020, in overeenstemming is met de NZa-regelgeving 2020 zoals deze in [paragraaf 3.3 (tabel 1)](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol staat vermeld;
+
+- − de andere informatie verenigbaar is met het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder en met de kennis verkregen tijdens de controle van de nacalculatie-opgave 2020.
+
+Voor de tekst van de controleverklaring maakt de accountant gebruik van de voorbeeldtekst die in de [bijlage](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol is opgenomen. Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst van de controleverklaring aangepast overeenkomstig de [Nadere Voorschriften Controle- en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044893) (NV COS, bij verwijzingen aangeduid met ‘Standaard’).
 
 Met waarmerking wordt in dit controleprotocol bedoeld: een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie.
 
-Vóór 1 juni 2021 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2020 via het aanvragenportaal van de NZa worden ingediend. De nacalculatie-opgave bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2020’, met daarin de volgende onderdelen:
+Vóór 1 juni 2021 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2020 via het aanvragenportaal van de NZa worden ingediend. De nacalculatie-opgave bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2020’, met daarin de volgende onderdelen:
 
-Daarnaast stuurt de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder voor 1 juni 2021 via het aanvragenportaal van de NZa de volgende onderdelen toe:
+- − de totaal financieel gerealiseerde productie over 2020;
+
+- − de totaal financiële realisatie overige onderdelen over 2020 (indien van toepassing);
+
+- − de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2020 (indien van toepassing);
+
+- − de ‘Vragenlijst controleprotocol’ met indien nodig een door de accountant voor identificatiedoeleinden gewaarmerkte toelichting;
+
+- − de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant gewaarmerkte toelichting;
+
+- − het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’, waarbij dit document is ondertekend door de persoon die bevoegd is te ondertekenen namens de zorgaanbieder en dit document is gewaarmerkt door de accountant;
+
+- − het ondertekeningsdocument ‘Ondertekening Lumpsum kwaliteitsbudget verpleeghuiszorg nacalculatie 2020’, waarbij dit document is ondertekend door de persoon die bevoegd is te ondertekenen namens de zorgaanbieder.
+
+Daarnaast stuurt de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder voor 1 juni 2021 via het aanvragenportaal van de NZa de volgende onderdelen toe:
+
+- − de door de accountant ondertekende controleverklaring bij de nacalculatie-opgave 2020;
+
+- − de ondertekeningsdocumenten ‘Ondertekening Langdurige zorg nacalculatie 2020’ en ‘Ondertekening Lumpsum kwaliteitsbudget verpleeghuiszorg nacalculatie 2020’ van het zorgkantoor/Wlz-uitvoerder, waarbij deze documenten zijn ondertekend door de persoon die bevoegd is te tekenen namens het zorgkantoor.
 
 Bij eenzijdige ondertekening gaat het om het ondertekeningsdocument van of de zorgaanbieder of het zorgkantoor/Wlz-uivoerder.
 
@@ -72,7 +99,7 @@ De zorgaanbieder moet een gewaarmerkte versie van de nacalculatie-opgave 2020 be
 
 Dit controleprotocol stelt eisen aan het door de accountant uit te voeren onderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020. Ook stelt het eisen aan de verenigbaarheid van de andere informatie met het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder en met de kennis verkregen tijdens de controle van de nacalculatie-opgave 2020.
 
-De accountant hanteert dit controleprotocol als kader voor zijn werkzaamheden. Daarnaast voert de accountant zijn controle uit in overeenstemming met het Nederlands recht, waaronder de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA), de geldende beroepsvoorschriften van de Nederlandse Beroepsorganisatie van Accountants (NBA), de [Nadere Voorschriften Controle en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044893) (NV COS, bij verwijzingen aangeduid met ‘Standaard’). De controle van de nacalculatie-opgave 2020 is een controleopdracht ([Standaard 805](onbekend)).
+De accountant hanteert dit controleprotocol als kader voor zijn werkzaamheden. Daarnaast voert de accountant zijn controle uit in overeenstemming met het Nederlands recht, waaronder de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA), de geldende beroepsvoorschriften van de Nederlandse Beroepsorganisatie van Accountants (NBA), de [Nadere Voorschriften Controle en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044893) (NV COS, bij verwijzingen aangeduid met ‘Standaard’). De controle van de nacalculatie-opgave 2020 is een controleopdracht ([Standaard 805](https://wetten.overheid.nl/BWBR0044893)).
 
 Het doel van dit controleprotocol is niet om de aanpak van de controleopdracht voor te schrijven. De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende controle-informatie dat de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020, zoals vermeld in de nacalculatie-opgave 2020, juist zijn. De accountant betrekt bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden.
 
@@ -80,27 +107,49 @@ Het doel van dit controleprotocol is niet om de aanpak van de controleopdracht v
 
 De nacalculatie-opgave 2020 omvat ook andere informatie, die bestaat uit:
 
+- − de ‘Vragenlijst controleprotocol’ en de eventuele voor identificatiedoeleinden gewaarmerkte toelichting hierbij;
+
+- − het onderdeel ‘Doorlopende kosten als gevolg van het SARS-CoV-2 virus’;
+
+- − Correcties door het zorgkantoor.
+
 Onderstaand wordt per soort andere informatie nader toegelicht wat daaromtrent van de accountant wordt verwacht.
 
-Indien de accountant constateert dat er een materiële inconsistentie en/of een materiële afwijking in de andere informatie lijkt te bestaan, handelt de accountant overeenkomstig [Standaard 720.16](onbekend).
+Indien de accountant constateert dat er een materiële inconsistentie en/of een materiële afwijking in de andere informatie lijkt te bestaan, handelt de accountant overeenkomstig [Standaard 720.16](https://wetten.overheid.nl/BWBR0044893).
 
-Indien de accountant concludeert dat sprake is van een materiële afwijking in de andere informatie (of in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’), handelt de accountant overeenkomstig [Standaard 720.17 tot en met 720.20](onbekend).
+Indien de accountant concludeert dat sprake is van een materiële afwijking in de andere informatie (of in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’), handelt de accountant overeenkomstig [Standaard 720.17 tot en met 720.20](https://wetten.overheid.nl/BWBR0044893).
 
-De accountant stelt op grond van [Standaard 720.14](onbekend) vast dat de informatie in de ‘Vragenlijst controleprotocol’ en de eventuele daarbij behorende toelichting niet strijdig is/zijn met de informatie in de ingevulde nacalculatie-opgave 2020 en zijn kennis vanuit de controle van de nacalculatie-opgave 2020.
+Vragenlijst controleprotocol
+
+De accountant stelt op grond van [Standaard 720.14](https://wetten.overheid.nl/BWBR0044893) vast dat de informatie in de ‘Vragenlijst controleprotocol’ en de eventuele daarbij behorende toelichting niet strijdig is/zijn met de informatie in de ingevulde nacalculatie-opgave 2020 en zijn kennis vanuit de controle van de nacalculatie-opgave 2020.
 
 Ten aanzien van de vraag die betrekking heeft op de levering van passende zorg stelt de accountant uitsluitend vast of er een interne procedure aanwezig is (met indien nodig een specifieke toelichting hierop), gericht op de levering van passende zorg binnen het kader van [artikel 8 (Administratieve organisatie en interne controle Wlz-zorgaanbieders) van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044943&artikel=8) (NR/REG-2007c). Van de accountant wordt hierover geen inhoudelijk oordeel verwacht, noch een oordeel over de toereikendheid van de specifieke toelichting of interne procedure. Ook voor de vraag of de zorgaanbieder in kaart heeft gebracht of sprake is van correctieposten ten aanzien van de doorlopende kosten als gevolg van het SARS-CoV-2 virus4Op grond van de aanvullingen op de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2020 (NR/REG-2007b), zoals opgenomen in BR/REG-20158c artikel 11 en BR/REG-20160a artikel 10. Met correctieposten wordt bedoeld: elementen C, D, E, G en eventueel H uit de rekenregel waarmee de vergoeding voor doorlopende kosten wordt berekend (zie voetnoot 9)., geldt dat de accountant overweegt of het antwoord op de vraag materieel afwijkt van zijn kennis verkregen vanuit de controle van de nacalculatie-opgave 2020. Van de accountant wordt geen apart onderzoek naar de doorlopende kosten als gevolg van het SARS-CoV-2 virus verwacht en wordt ook geen oordeel over de volledigheid van correctieposten in de nacalculatie-opgave verwacht.
 
-Zorgaanbieders krijgen een vergoeding voor doorlopende kosten als gevolg van het SARS-CoV-2 virus (zie ook paragraaf 3.6). De vergoeding voor doorlopende kosten voor zorgaanbieders wordt als volgt vastgesteld: doorlopende kosten = A + B – C – D – E – F – G +/- H.5BR/REG-20158c artikel 4 en BR/REG-20160a artikel 4. Dit wordt in dit controleprotocol ‘**rekenregel**’ genoemd.
+Doorlopende kosten als gevolg van het SARS-CoV-2 virus
 
-Zorgaanbieders nemen de elementen uit de rekenregel op in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van het ‘Formulier Langdurige zorg nacalculatie 2020’. De informatie over doorlopende kosten valt buiten de scope van de assurance-opdracht van de accountant en is te beschouwen als ‘andere informatie’. Overeenkomstig [Standaard 720.14](onbekend) dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen de doorlopende kosten in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ en de doorlopende kosten in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van de nacalculatie-opgave 2020 en (2) een inconsistentie van materieel belang bestaat tussen de informatie opgenomen bij elk element van de rekenregel in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van de nacalculatie-opgave 2020 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2020.
+Zorgaanbieders krijgen een vergoeding voor doorlopende kosten als gevolg van het SARS-CoV-2 virus (zie ook [paragraaf 3.6](https://wetten.overheid.nl/BWBR0044966)). De vergoeding voor doorlopende kosten voor zorgaanbieders wordt als volgt vastgesteld: doorlopende kosten = A + B – C – D – E – F – G +/- H.5BR/REG-20158c artikel 4 en BR/REG-20160a artikel 4. Dit wordt in dit controleprotocol ‘*rekenregel*’ genoemd.
+
+Zorgaanbieders nemen de elementen uit de rekenregel op in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van het ‘Formulier Langdurige zorg nacalculatie 2020’. De informatie over doorlopende kosten valt buiten de scope van de assurance-opdracht van de accountant en is te beschouwen als ‘andere informatie’. Overeenkomstig [Standaard 720.14](https://wetten.overheid.nl/BWBR0044893) dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen de doorlopende kosten in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ en de doorlopende kosten in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van de nacalculatie-opgave 2020 en (2) een inconsistentie van materieel belang bestaat tussen de informatie opgenomen bij elk element van de rekenregel in het onderdeel ‘Doorlopende kosten SARS-CoV-2 virus’ van de nacalculatie-opgave 2020 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2020.
+
+Correcties door het zorgkantoor
 
 In sommige situaties komt het voor dat een zorgkantoor nog correcties doorvoert op de productie volgens de nacalculatie-opgave 2020 van de zorgaanbieder. Het kan hierbij gaan om:
 
-Deze correcties vallen buiten de scope van de assurance-opdracht van de accountant en zijn te beschouwen als ‘andere informatie’. Overeenkomstig [Standaard 720.14](onbekend) dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen deze correcties in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ en de correcties in de nacalculatie-opgave 2020 en (2) een inconsistentie van materieel belang bestaat tussen deze correcties opgenomen in de nacalculatie-opgave 2020 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2020.
+- − Correctie zorgkantoor op realisatie productieafspraak algemeen;
+
+- − Correctie zorgkantoor op restant overproductie;
+
+- − Correctie doorlopende kosten SARS-CoV-2 virus.
+
+Deze correcties vallen buiten de scope van de assurance-opdracht van de accountant en zijn te beschouwen als ‘andere informatie’. Overeenkomstig [Standaard 720.14](https://wetten.overheid.nl/BWBR0044893) dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen deze correcties in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ en de correcties in de nacalculatie-opgave 2020 en (2) een inconsistentie van materieel belang bestaat tussen deze correcties opgenomen in de nacalculatie-opgave 2020 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2020.
 
 ### 2. Procedure onderzoek nacalculatie 2020
 
 De procedure van het onderzoek naar de juistheid van de nacalculatie-opgave 2020 ziet er als volgt uit:
+
+- − de zorgaanbieder stelt de verantwoording op over de totaal financieel gerealiseerde productie over 2020, de totaal financiële realisatie overige onderdelen over 2020 en de totaal gerealiseerde lumpsum kwaliteitsbudget verpleeghuiszorg 2020 met gebruikmaking van het door de NZa voorgeschreven formulier (‘Formulier Langdurige zorg nacalculatie 2020’). Indien de beantwoording van de vragen in de ‘Vragenlijst Controleprotocol' en de ‘Vragen en overige opmerkingen’ in het formulier daartoe aanleiding geeft moet de zorgaanbieder het antwoord op deze vragen nader toelichten;
+
+- − de zorgaanbieder geeft een accountant opdracht tot het uitvoeren van een accountantsonderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020.
 
 De accountant voert zijn onderzoek uit op basis van de kaders die de NZa in dit controleprotocol geeft.
 
@@ -110,35 +159,70 @@ Ten slotte verstrekt de accountant een ondertekende controleverklaring bij de na
 
 Het zorgkantoor/de Wlz-uitvoerder controleert de nacalculatie-opgave 2020 van de productie, de afgesproken prijzen en de overige onderdelen. Na controle van de nacalculatie-opgave 2020 door het zorgkantoor/de Wlz-uitvoerder ondertekent een persoon die bevoegd is te tekenen namens het zorgkantoor/de Wlz-uitvoerder het ‘Ondertekeningsdocument 2020’ van het zorgkantoor/Wlz-uitvoerder.
 
-De zorgaanbieder of het zorgkantoor/de Wlz-uitvoerder dient via het aanvragenportaal van de NZa de in paragraaf 1.1 genoemde stukken vóór 1 juni 2021 in bij de NZa.
+De zorgaanbieder of het zorgkantoor/de Wlz-uitvoerder dient via het aanvragenportaal van de NZa de in [paragraaf 1.1](https://wetten.overheid.nl/BWBR0044966) genoemde stukken vóór 1 juni 2021 in bij de NZa.
 
 ### 3. Toetsing productie en overige onderdelen
 
 ### 3.1. Object van onderzoek
 
-Het object van onderzoek voor de accountant bestaat uit de in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder opgenomen bedragen voor ‘Totaal financieel gerealiseerde productie over 2020’8Met productie wordt bedoeld de intramurale productie en de productie modulaire zorg. Modulaire zorg kan door een zorgaanbieder gedeclareerd worden voor cliënten die niet in een instelling verblijven. In deze groep vallen bijvoorbeeld: de Wlz-indiceerbaren, cliënten die overbruggingszorg ontvangen, cliënten voor wie het zorgkantoor/de Wlz uitvoerder een modulair pakket thuis (mpt) heeft vastgesteld, cliënten waarbij de modulaire zorg samenhangt met de prestatie logeren en cliënten die een volledig pakket thuis (vpt) ontvangen en waarbij de behandelfunctie via extramurale functies bekostigd wordt. Daarnaast kan modulaire zorg gedeclareerd worden voor cliënten die in een instelling verblijven en waarbij de behandelfunctie via extramurale functies bekostigd wordt. 9Eventuele financiële correcties van de productie door het zorgkantoor vallen buiten de scope van de accountantscontrole. De (correctie op) doorlopende kosten als gevolg van het SARS-CoV-2 virus vallen eveneens buiten de scope van de accountantscontrole. (zie ook paragraaf 1.1) en ‘Totaal financiële realisatie overige onderdelen over 2020’ als onderdeel van de nacalculatie-opgave 2020.
+Het object van onderzoek voor de accountant bestaat uit de in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder opgenomen bedragen voor ‘Totaal financieel gerealiseerde productie over 2020’8Met productie wordt bedoeld de intramurale productie en de productie modulaire zorg. Modulaire zorg kan door een zorgaanbieder gedeclareerd worden voor cliënten die niet in een instelling verblijven. In deze groep vallen bijvoorbeeld: de Wlz-indiceerbaren, cliënten die overbruggingszorg ontvangen, cliënten voor wie het zorgkantoor/de Wlz uitvoerder een modulair pakket thuis (mpt) heeft vastgesteld, cliënten waarbij de modulaire zorg samenhangt met de prestatie logeren en cliënten die een volledig pakket thuis (vpt) ontvangen en waarbij de behandelfunctie via extramurale functies bekostigd wordt. Daarnaast kan modulaire zorg gedeclareerd worden voor cliënten die in een instelling verblijven en waarbij de behandelfunctie via extramurale functies bekostigd wordt. 9Eventuele financiële correcties van de productie door het zorgkantoor vallen buiten de scope van de accountantscontrole. De (correctie op) doorlopende kosten als gevolg van het SARS-CoV-2 virus vallen eveneens buiten de scope van de accountantscontrole. (zie ook paragraaf 1.1) en ‘Totaal financiële realisatie overige onderdelen over 2020’ als onderdeel van de nacalculatie-opgave 2020.
 
 ### 3.2. Algemeen
 
-Voor het onderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020 kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat de bedragen ‘Totaal financieel gerealiseerde productie over 2020’ en ‘Totaal financiële realisatie overige onderdelen over 2020’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als in het ‘Formulier Langdurige zorg nacalculatie 2020’, zijn verantwoord in overeenstemming met de toetsingscriteria (zie hiervoor ook paragraaf 3.4).
+Voor het onderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020 kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat de bedragen ‘Totaal financieel gerealiseerde productie over 2020’ en ‘Totaal financiële realisatie overige onderdelen over 2020’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als in het ‘Formulier Langdurige zorg nacalculatie 2020’, zijn verantwoord in overeenstemming met de toetsingscriteria (zie hiervoor ook [paragraaf 3.4](https://wetten.overheid.nl/BWBR0044966)).
 
-Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in paragraaf 1.2 van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professional judgement.
+Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in [paragraaf 1.2](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professional judgement.
 
 ### 3.3. Beleidskader
 
 Het beleidskader voor de controle van de productie en overige onderdelen 2020 wordt gevormd door de in tabel 1 genoemde NZa-beleidsregels en NZa-regelingen.
 
-De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij de nacalculatie-opgave 2020 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen. Dat doet hij alleen indien en voor zover deze zijn verwoord in de toetsingscriteria van paragraaf 3.4.
+De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0044966) vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij de nacalculatie-opgave 2020 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen. Dat doet hij alleen indien en voor zover deze zijn verwoord in de toetsingscriteria van paragraaf 3.4.
 
-1 [Artikel 6 (Declaratievoorschrift verkeerde bed Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0044943&artikel=6) van deze regeling valt, evenals voorgaande jaren, niet onder de accountantscontrole.
+| Citeertitel en nummer beleidsregel/regeling |
+| --- |
+| Beleidsregel afronding tarieven (AL/BR-0031) |
+| Beleidsregel bekostigingscyclus Wlz 2020 (BR/REG-20116b) |
+| Beleidsregel BRMO-uitbraak (BR/REG-20117) |
+| Beleidsregel budgettair kader Wlz 2020 (BR/REG-20126f) |
+| Beleidsregel definities Wlz (BR/REG-20118) |
+| Beleidsregel innovatie voor kleinschalige experimenten (BR/REG-19158) |
+| Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) gespecialiseerde ggz, forensische zorg en langdurige zorg (BR/REG-20119) |
+| Beleidsregel overige kosten Wlz 2020 (BR/REG-20120) |
+| Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz (BR/REG-20122) |
+| Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) (BR/REG-20152) |
+| Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2020 (BR/REG-20123b) |
+| Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2020 (BR/REG-20124c) |
+| Beleidsregel SARS-CoV-2 virus (BR/REG-20158c) |
+| Beleidsregel SARS-CoV-2 virus: fase 3 (BR/REG-20160a) |
+| Beleidsregel tijdelijke instandlating gevolgen experimenten (BR/REG-17164) |
+| Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2020 (NR/REG-2007c)1 |
+| Regeling innovatie voor kleinschalige experimenten (NR/REG-1928) |
 
-**Bron: NZa**
+1
+ [Artikel 6 (Declaratievoorschrift verkeerde bed Wlz)](https://wetten.overheid.nl/jci1.3:c:BWBR0044943&artikel=6) van deze regeling valt, evenals voorgaande jaren, niet onder de accountantscontrole.
+
+*Bron: NZa*
 
 ### 3.4. Toetsingscriteria
 
 Om de juistheid van de totaal financieel gerealiseerde productie over 2020 en de totaal financiële realisatie overige onderdelen over 2020 vast te stellen, gelden de volgende zes toetsingscriteria voor de accountant. Hij moet vaststellen dat:
 
+- − de gedeclareerde zorg10Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg. volgens de nacalculatie-opgave 2020 feitelijk is geleverd aan de cliënt (zie [paragraaf 3.5](https://wetten.overheid.nl/BWBR0044966));
+
+- − de cliënt over een geldig indicatiebesluit beschikt;
+
+- − de gedeclareerde zorg binnen het indicatiebesluit is geleverd (geldt voor modulaire zorg);
+
+- − het gedeclareerde tarief overeenkomt met het tussen partijen contractueel overeengekomen tarief en niet hoger is dan het door de NZa vastgestelde tarief;
+
+- − de overige onderdelen11De overige onderdelen bestaan uit de Vergoeding van inrichtingskosten bij gedwongen verhuizing, Vergoeding extreme kosten van zorggebonden materiaal en geneesmiddelen, Vergoeding BRMO-uitbraak, de Vergoeding innovatie voor kleinschalige experimenten, de Vergoeding voor niet vrij besteedbare aanvullende inkomsten en de Financiering van extra kosten als gevolg van het SARS-CoV-2 virus. 12Ten aanzien van de vergoeding innovatie voor kleinschalige experimenten controleert de accountant of de kosten in de nacalculatie-opgave 2020 zijn gemaakt en aan kleinschalige experimenten zijn besteed. en de realisatie transitiemiddelen verpleeghuiszorg13Van de realisatie transitiemiddelen verpleeghuiszorg 2020 stelt de accountant vast dat het bedrag in de nacalculatie-opgave 2020 overeenkomt met het toegekende bedrag uit de budgetronde 2020. Indien de realisatie transitiemiddelen verpleeghuiszorg 2020 naar boven bijgesteld is (naar beneden bijstelling is niet mogelijk) in de herschikkingsronde 2020, stelt de accountant vast dat het bedrag in de nacalculatie-opgave 2020 overeenkomt met het toegekende bedrag uit de herschikkingsronde. juist in de nacalculatie-opgave 2020 zijn ingevuld (zie [paragraaf 3.6](https://wetten.overheid.nl/BWBR0044966) voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus14BR/REG-20158c artikel 6).
+
+- − de in de nacalculatie-opgave 2020 opgenomen cijfermatige gegevens voor de overige onderdelen en de realisatie transitiemiddelen verpleeghuiszorg overeenkomstig de voor het jaar 2020 geldende NZa-beleidsregels en regelingen zijn bepaald. Hierbij gaat het om de volgende Wlz-regelgeving: Beleidsregel BRMO-uitbraak (BR/REG-20117); Beleidsregel innovatie voor kleinschalige experimenten (BR/REG-19158); Beleidsregel overige kosten Wlz 2020 (BR/REG-20120); [Regeling innovatie voor kleinschalige experimenten](https://wetten.overheid.nl/jci1.3:c:BWBR0041644) (NR/REG-1928). Voor de transitiemiddelen verpleeghuiszorg gaat het om de volgende Wlz-regelgeving: Beleidsregel budgettair kader Wlz 2020 (BR/REG-20126f) artikelen 7 en 13; Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2020 (BR/REG-20124c) artikel 9; Beleidsregel bekostigingscyclus Wlz 2020 (BR/REG-20116b) artikel 9; (zie de opsomming van genoemde Wlz-regelgeving in [paragraaf 3.3 (tabel 1)](https://wetten.overheid.nl/BWBR0044966).
+
 De accountant controleert specifiek of:
+
+- − de in de nacalculatie-opgave 2020 van de zorgaanbieder opgenomen productie, in die situaties waarin sprake is van onderaanneming of uitbesteding, slechts betrekking heeft op productie waarbij de zorgaanbieder hoofdaannemer is en als zodanig is afgesproken met het zorgkantoor/de Wlz-uitvoerder.
 
 ### 3.5. Feitelijke levering
 
@@ -150,21 +234,23 @@ Deze controles moeten zijn gebaseerd op een risicoanalyse waarbij wordt getoetst
 
 ### 3.5.2. Controles door de accountant
 
-De accountant maakt bij zijn onderzoek voor zover mogelijk gebruik van de onder paragraaf 3.5.1 beschreven interne controlewerkzaamheden van de zorgaanbieder.
+De accountant maakt bij zijn onderzoek voor zover mogelijk gebruik van de onder [paragraaf 3.5.1](https://wetten.overheid.nl/BWBR0044966) beschreven interne controlewerkzaamheden van de zorgaanbieder.
 
-Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de intramurale zorg en de modulaire zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in paragraaf 3.5.3.
+Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de intramurale zorg en de modulaire zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in [paragraaf 3.5.3](https://wetten.overheid.nl/BWBR0044966).
 
 De zorginhoudelijke toetsing van de uitgevoerde zorgactiviteiten valt buiten de scope van de controle. Dit zou problemen met de privacywetgeving kunnen opleveren, bovendien bezit de accountant geen zorginhoudelijke kennis. De accountant richt zich primair op de administratieve organisatie en interne beheersing rondom zorgregistratie en -declaratie. Het uitgangspunt van de controle door de accountant is derhalve niet een controle op dossier- of cliëntniveau.
 
 Van de accountant wordt echter wel verwacht dat hij tijdens zijn controle verkregen informatie op dossier- of cliëntniveau betrekt bij zijn oordeelsvorming, voor zover dit van hem geen nadere zorginhoudelijke beoordeling vraagt.
 
-De accountant hanteert de in paragraaf 3.3 (tabel 1) genoemde NZa-beleidsregels en NZa-regelingen als kader voor zijn werkzaamheden echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria. Daarnaast voert de accountant zijn controle uit in overeenstemming met Nederlands recht, waaronder de [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), de geldende beroepsvoorschriften van de NBA en de [NV COS](https://wetten.overheid.nl/jci1.3:c:BWBR0044893).
+De accountant hanteert de in [paragraaf 3.3 (tabel 1)](https://wetten.overheid.nl/BWBR0044966) genoemde NZa-beleidsregels en NZa-regelingen als kader voor zijn werkzaamheden echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0044966) vermelde toetsingscriteria. Daarnaast voert de accountant zijn controle uit in overeenstemming met Nederlands recht, waaronder de [VGBA](https://wetten.overheid.nl/jci1.3:c:BWBR0034635), de geldende beroepsvoorschriften van de NBA en de [NV COS](https://wetten.overheid.nl/jci1.3:c:BWBR0044893).
 
 ### 3.5.3. Uitwerking controle op feitelijke levering
 
 ### 3.5.3.1. Modulaire zorg
 
 Voor wat betreft de feitelijke levering van gedeclareerde zorg in het kader van modulaire zorg richt de accountant zich op opzet, bestaan en, indien de accountant dit eventueel wenselijk acht, werking van de AO/IC rondom zorgplanning, -registratie en -declaratie bij de zorgaanbieder. Dit kan bijvoorbeeld door middel van een onderzoek van de planning en urenregistratie.
+
+Zorgplan/zorgplanning is realisatie
 
 Steeds meer zorgaanbieders passen bij modulaire zorg een vorm van registratie toe waarbij het uitgangspunt is dat de planning de basis is voor de werkelijk geleverde en gedeclareerde modulaire zorg. Daarbij wordt het zorgplan in het algemeen uitgewerkt in een ‘arrangement’, waarbij een vorm van kwantificering plaatsvindt naar aard en hoeveelheid te leveren zorg, de periode en de frequentie. Voorwaarde voor de declaratie van modulaire zorg volgens dit principe is dat in het zorgplan en/of de zorgplanning vermeld staat welke zorg door een zorgaanbieder wanneer geleverd wordt aan de cliënt.
 
@@ -194,7 +280,7 @@ Als gevolg van de uitbraak van het SARS-CoV-2 virus hebben zorgaanbieders in de 
 
 Verantwoording van deze doorlopende kosten en extra kosten door zorgaanbieders vindt plaats middels de nacalculatie-opgave 2020. Vanuit maatschappelijk oogpunt is een bepaalde zekerheid over de gemaakte kosten als gevolg van het SARS-CoV-2 virus noodzakelijk. De combinatie van controles door de accountant van de zorgaanbieder en door het zorgkantoor moet deze zekerheid kunnen bieden. In dit controleprotocol wordt ingegaan op de verantwoordelijkheden van de accountant van de zorgaanbieder ten aanzien van de doorlopende kosten en extra kosten als gevolg van het SARS-CoV-2 virus.
 
-De doorlopende kosten zijn te beschouwen als ‘Andere informatie’ waarvan de accountant handelt overeenkomstig hetgeen daarover is opgenomen in paragraaf 1.2.2. De accountant dient controlewerkzaamheden uit te voeren op de door de zorgaanbieders opgegeven extra kosten. Dit wordt in de volgende paragraaf nader toegelicht.
+De doorlopende kosten zijn te beschouwen als ‘Andere informatie’ waarvan de accountant handelt overeenkomstig hetgeen daarover is opgenomen in [paragraaf 1.2.2](https://wetten.overheid.nl/BWBR0044966). De accountant dient controlewerkzaamheden uit te voeren op de door de zorgaanbieders opgegeven extra kosten. Dit wordt in de volgende paragraaf nader toegelicht.
 
 ### 3.6.2. Controles door de accountant
 
@@ -208,21 +294,37 @@ De wijze waarop zorgaanbieders komen tot de interne registratie van de extra kos
 
 Van de accountant wordt het volgende verwacht:
 
+- − De accountant stelt vast dat de extra kosten in de nacalculatie-opgave 2020 in totaal en per subcategorie aansluiten op de onderbouwing van de interne registratie daarvan door de zorgaanbieders. De accountant beoordeelt de onderbouwing van de zorgaanbieder dat de kosten extra zijn als gevolg van het SARS-CoV-2 virus op redelijkheid.
+
+- − Tevens stelt de accountant vast dat de materiële kosten zijn gemaakt en voor het juiste bedrag zijn verantwoord, dat de kosten geen betrekking hebben op de periode voor 1 maart 2020 en dat de kosten juist zijn geclassificeerd in de financiële administratie19Van zorgaanbieders wordt niet verwacht dat zij in 2020 nieuwe grootboekrekeningen in de financiële administratie hebben aangemaakt om een-op-een aan te sluiten op de subcategorieën extra kosten in de beleidsregel (BR/REG-20158c, artikel 6) en de nacalculatie-opgave 2020..
+
+- − In de beleidsregel zijn extra kosten opgenomen die in elk geval voor vergoeding in aanmerking komen. Andere extra kosten kunnen ook voor vergoeding in aanmerking komen (als ze niet vallen onder de in de beleidsregel genoemde uitgesloten kosten); daarvoor moet de zorgaanbieder toestemming hebben verkregen van het zorgkantoor. Van de opgegeven extra materiële kosten die voor vergoeding in aanmerking komen als daarvoor toestemming is verkregen van het zorgkantoor, stelt de accountant vast dat die benodigde toestemming is verkregen (BR/REG 20158c, artikel 6, eerste en tweede lid, onder d). In het (uitzonderlijke) geval dat de goedkeuring van het zorgkantoor een maximumbedrag bevat, stelt de accountant vast dat het door het zorgkantoor goedgekeurde maximumbedrag niet is overschreden.
+
 De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie. De accountant betrekt bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden. De accountant mag hiervoor gebruik maken van de werkzaamheden die hij uitvoert in het kader van de reguliere jaarrekeningcontrolewerkzaamheden, indien en voor zo ver hij dat mogelijk en passend acht.20In het geval gesteund wordt op werkzaamheden van de reguliere jaarrekeningcontrole volgt de accountant Standaard 230.8 voor zijn vastleggingen daarvan in het kader van de controle van de nacalculatie-opgave 2020.
 
 ### 3.6.2.2. Personele kosten
 
+Werkzaamheden bij zorgaanbieders met verpleeghuiszorg
+
 Ten aanzien van zorgaanbieders met verpleeghuiszorg geldt dat extra kosten voor zorgpersoneel allereerst ten laste van het kwaliteitsbudget verpleeghuiszorg worden gebracht. De accountant stelt dan ook vast dat alle extra personele kosten voor vv4 en hoger zijn opgevoerd bij het kwaliteitsbudget verpleeghuiszorg.
 
-De accountant voert geen controlewerkzaamheden uit op de extra personele kosten verpleeghuiszorg. Ten aanzien van de lumpsum kwaliteitsbudget verpleeghuiszorg voert de accountant overeengekomen specifieke werkzaamheden uit conform [Standaard 4400N](onbekend) (valt buiten de scope van dit controleprotocol).
+De accountant voert geen controlewerkzaamheden uit op de extra personele kosten verpleeghuiszorg. Ten aanzien van de lumpsum kwaliteitsbudget verpleeghuiszorg voert de accountant overeengekomen specifieke werkzaamheden uit conform [Standaard 4400N](https://wetten.overheid.nl/BWBR0044893) (valt buiten de scope van dit controleprotocol).
 
 Indien het kwaliteitsbudget verpleeghuiszorg niet toereikend blijkt, wordt de rest van deze kosten opgevoerd als extra personele lasten als gevolg van het SARS-CoV-2 virus onder ‘niet passend binnen het kwaliteitsbudget’. De accountant stelt vast dat extra personele kosten verpleeghuiszorg opgegeven als ‘niet passend binnen het kwaliteitsbudget’ overeenkomen met de terugkoppeling daarover van het zorgkantoor.
 
 Naast extra kosten die ten laste van het kwaliteitsbudget verpleeghuiszorg worden gebracht, kunnen zorgaanbieders met verpleeghuiszorg ook extra personele kosten hebben die daar niet onder vallen. Deze extra kosten vallen wel in scope van de accountantscontrole in dit controleprotocol. De accountant handelt voor de controle van die extra kosten conform de paragraaf hierna.
 
+Controle extra personele lasten niet vallend onder het kwaliteitsbudget verpleeghuiszorg
+
 De wijze waarop zorgaanbieders komen tot de interne registratie van de extra kosten is niet nader uitgewerkt in de beleidsregel.21Door zorgaanbieders wordt zoveel als mogelijk gesteund op de handreiking die in 2020 in samenwerking door brancheorganisaties en Fizi zijn gepubliceerd (BR/REG-20158c, artikel 7). Zorgaanbieders kunnen bijvoorbeeld op grond van een verschillenanalyse hebben bepaald welk deel van kosten extra is geweest als gevolg van het SARS-CoV-2 virus; er kunnen ook andere onderbouwingen voor de interne registratie bestaan.
 
 Van de accountant wordt het volgende verwacht:
+
+- − De accountant stelt vast dat de extra kosten in de nacalculatie-opgave 2020 in totaal en per subcategorie aansluiten op de onderbouwing van de interne registratie daarvan door de zorgaanbieders.22Op grond van beleidsregel BR/REG-20158c artikel 11 registreert de zorgaanbieder de extra kosten duidelijk identificeerbaar in zijn administratie. De accountant beoordeelt de onderbouwing van de zorgaanbieder dat de kosten extra zijn als gevolg van het SARS-CoV-2 virus op redelijkheid.
+
+- − De accountant stelt daarnaast vast dat de personele kosten zijn gemaakt en voor de juiste bedragen zijn verantwoord, en dat de kosten juist zijn geclassificeerd in de financiële administratie23Van zorgaanbieders wordt niet verwacht dat zij in 2020 nieuwe grootboekrekeningen in de financiële administratie hebben aangemaakt om een-op-een aan te sluiten op de subcategorieën extra kosten in de in de beleidsregel (BR/REG-20158c, artikel 6) en de nacalculatie-opgave 2020.. Voor zorgaanbieders zonder verpleeghuiszorg geldt dat de accountant tevens vaststelt dat de kosten geen betrekking hebben op de periode voor 1 maart 2020.24Voor zorgaanbieders met verpleeghuiszorg is dit niet mogelijk, omdat de extra personele kosten op jaarbasis worden bepaald in samenhang met het kwaliteitsbudget verpleeghuiszorg.
+
+- − In de beleidsregel zijn extra kosten opgenomen die in elk geval voor vergoeding in aanmerking komen. Andere extra kosten kunnen ook voor vergoeding in aanmerking komen (als ze niet vallen onder de in de beleidsregel genoemde uitgesloten kosten); daarvoor moet de zorgaanbieder toestemming hebben verkregen van het zorgkantoor. Voor de opgegeven extra personele kosten die voor vergoeding in aanmerking komen als daarvoor goedkeuring is verkregen van het zorgkantoor, stelt de accountant vast dat die benodigde toestemming is verkregen (BR/REG 20158c, artikel 6, eerste en tweede lid, onder d). In het (uitzonderlijke) geval dat de goedkeuring van het zorgkantoor een maximumbedrag bevat, stelt de accountant vast dat het door het zorgkantoor goedgekeurde maximumbedrag niet is overschreden.
 
 De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie. De accountant betrekt bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden. De accountant mag hiervoor gebruik maken van de werkzaamheden die hij uitvoert in het kader van de reguliere jaarrekeningcontrolewerkzaamheden, indien en voor zo ver hij dat mogelijk en passend acht.25In het geval gesteund wordt op werkzaamheden van de reguliere jaarrekeningcontrole volgt de accountant Standaard 230.8 voor zijn vastleggingen daarvan in het kader van de controle van de nacalculatie-opgave 2020.
 
@@ -236,7 +338,7 @@ De accountant controleert of de zorgaanbieder de berekening van de toegepaste ve
 
 ### 3.7.1. Algemeen
 
-Zoals beschreven in paragraaf 3.2 dient de accountant zijn controle zodanig in te richten dat het bedrag ‘Totaal financieel gerealiseerde productie over 2020’ en het bedrag ‘Totaal financiële realisatie overige onderdelen over 2020’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als het ‘Formulier Langdurige zorg nacalculatie 2020’, met een redelijke mate van zekerheid is verantwoord in overeenstemming met de geldende NZa-beleidsregels en regelingen zoals genoemd in paragraaf 3.3, tabel 1 echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria.
+Zoals beschreven in [paragraaf 3.2](https://wetten.overheid.nl/BWBR0044966) dient de accountant zijn controle zodanig in te richten dat het bedrag ‘Totaal financieel gerealiseerde productie over 2020’ en het bedrag ‘Totaal financiële realisatie overige onderdelen over 2020’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2020’ van de zorgaanbieder als het ‘Formulier Langdurige zorg nacalculatie 2020’, met een redelijke mate van zekerheid is verantwoord in overeenstemming met de geldende NZa-beleidsregels en regelingen zoals genoemd in [paragraaf 3.3, tabel 1](https://wetten.overheid.nl/BWBR0044966) echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0044966) vermelde toetsingscriteria.
 
 Onder het begrip redelijke mate van zekerheid wordt verstaan dat het onderzoek met een betrouwbaarheid van 95% en een nauwkeurigheid van 99% moet worden uitgevoerd.
 
@@ -244,15 +346,21 @@ De NZa benadrukt dat de nauwkeurigheidstolerantie, die de accountant hanteert vo
 
 Productie gerealiseerd boven de productieafspraak, ondanks het feit dat deze productie28Onder bepaalde voorwaarden komt gerealiseerde productie boven de productieafspraak wel voor vergoeding in aanmerking; zie hiervoor Beleidsregel bekostigingscyclus Wlz 2020, artikel 5 lid 4. niet voor vergoeding in aanmerking komt, wordt meegenomen bij de bepaling van de materialiteit.
 
-Voor het jaar 2020 geldt het betrouwbaarheidspercentage van 95% en het nauwkeurigheids-percentage van 99% voor de optelsom van de bedragen ‘Totaal financieel gerealiseerde productie over 2020’ en ‘Totaal financiële realisatie van de overige onderdelen over 2020.’ Voor het opgetelde bedrag geldt dat de controle door de accountant zodanig moet worden ingericht dat niet meer dan 1% van dit opgetelde bedrag niet juist is. Voor het aspect feitelijke levering geldt een betrouwbaarheidspercentage van 95% en een nauwkeurigheidspercentage van 95% conform de uitleg in de laatste alinea van paragraaf 3.5.3.3. Voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt daarnaast een andere materialiteit (zie paragraaf hierna).
+Voor het jaar 2020 geldt het betrouwbaarheidspercentage van 95% en het nauwkeurigheids-percentage van 99% voor de optelsom van de bedragen ‘Totaal financieel gerealiseerde productie over 2020’ en ‘Totaal financiële realisatie van de overige onderdelen over 2020.’ Voor het opgetelde bedrag geldt dat de controle door de accountant zodanig moet worden ingericht dat niet meer dan 1% van dit opgetelde bedrag niet juist is. Voor het aspect feitelijke levering geldt een betrouwbaarheidspercentage van 95% en een nauwkeurigheidspercentage van 95% conform de uitleg in de laatste alinea van [paragraaf 3.5.3.3](https://wetten.overheid.nl/BWBR0044966). Voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt daarnaast een andere materialiteit (zie paragraaf hierna).
 
 ### 3.7.2. Materialiteit extra kosten als gevolg van het SARS-CoV-2 virus
 
-De accountant bepaalt de materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus op een andere grondslag dan voor de in paragraaf 3.7.1 genoemde onderdelen van de nacalculatie-opgave 2020. Voor de materialiteitsbepaling voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder als grondslag, wat leidt tot een hogere materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus dan voor de in paragraaf 3.7.1 genoemde onderdelen van de nacalculatie-opgave 2020. Het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% zijn overeenkomstig van toepassing. De materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus is daarmee 1% van het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder.
+De accountant bepaalt de materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus op een andere grondslag dan voor de in [paragraaf 3.7.1](https://wetten.overheid.nl/BWBR0044966) genoemde onderdelen van de nacalculatie-opgave 2020. Voor de materialiteitsbepaling voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder als grondslag, wat leidt tot een hogere materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus dan voor de in paragraaf 3.7.1 genoemde onderdelen van de nacalculatie-opgave 2020. Het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% zijn overeenkomstig van toepassing. De materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus is daarmee 1% van het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder.
 
 ### 3.7.3. Strekking van het oordeel in de controleverklaring
 
 Voor de strekking van het oordeel in de controleverklaring gelden de toleranties zoals vermeld in tabel 2. Indien de accountant zowel fouten in de nacalculatie-opgave 2020 als onzekerheden in de controle aantreft dan weegt hij deze fouten en onzekerheden bij zijn oordeelsvorming altijd in onderlinge samenhang.
+
+|  |  | Oordeel |  |  |
+| --- | --- | --- | --- | --- |
+|  | Goedkeurend | Beperking | Oordeelonthouding | Afkeurend |
+| Fouten in de nacalculatie-opgave 2020 | ≤ 1% | >1% en ≤ 3% | n.v.t. | > 3% |
+| Onzekerheden in de controle 2020 | ≤3% | >3% en ≤ 10% | > 10% | n.v.t. |
 
 ### 3.8. Fouten en onzekerheden
 
@@ -260,17 +368,25 @@ De accountant rapporteert de uit zijn onderzoek geconstateerde onjuistheden aan 
 
 Alle fouten moeten door of namens het bestuur van de zorgaanbieder op prestatieniveau in de financiële- en zorgadministratie van de zorgaanbieder worden gecorrigeerd en onzekerheden in de nacalculatie-opgave 2020 moeten nader worden onderzocht. Correcties hebben gevolgen voor het bedrag ‘Totaal financieel gerealiseerde productie over 2020’ en/of het bedrag ‘Totaal financiële realisatie overige onderdelen over 2020’.
 
+Fouten
+
 Van een fout in de nacalculatie-opgave 2020 is sprake wanneer gebleken is dat – een gedeelte van – een post niet in overeenstemming is met de toetsingscriteria.
 
 Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
 
 Zorg geleverd boven de gehonoreerde productieafspraak29Zie voor de omschrijving van het begrip ‘gehonoreerde productieafspraak’ de Beleidsregel bekostigingscyclus Wlz 2020, artikel 1 (Begripsbepalingen). wordt in beginsel niet vergoed. Voor de vaststelling van de juistheid van het bedrag ‘Totaal financieel gerealiseerde productie over 2020’ in de nacalculatie-opgave 2020 is het niet van belang of dat bedrag de gehonoreerde productieafspraak overschrijdt. De totaal financieel gerealiseerde productie dient in de nacalculatie-opgave 2020 verantwoord te worden.
 
+Onzekerheden in de controle/in de nacalculatie-opgave 2020
+
 Een onzekerheid in de controle/in de nacalculatie-opgave 2020 doet zich voor als gebleken is dat onvoldoende (controle-)informatie beschikbaar is om een – gedeelte van een – post als goed of fout aan te merken.
+
+Zorgaanbieder
 
 De zorgaanbieder dient alle geconstateerde fouten te corrigeren in zijn financiële- en zorgadministratie. Correcties hebben gevolgen voor het bedrag ‘Totaal financieel gerealiseerde productie over 2020’ en/of het bedrag ‘Totaal financiële realisatie overige onderdelen over 2020’. Dit geldt dus ook voor fouten die onder de nauwkeurigheidstolerantie blijven. Niet gecorrigeerde fouten op prestatieniveau dienen in de toelichting bij de nacalculatie-opgave 2020 door de zorgaanbieder gekwantificeerd te zijn opgenomen. De accountant stelt vervolgens vast of hierover in zijn controleverklaring een paragraaf ter benadrukking van deze aangelegenheid moet worden opgenomen.
 
-Fouten en onzekerheden in de nacalculatie-opgave 2020 die de zorgaanbieder om een bepaalde reden objectief niet **kan** oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2020 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van het budget aanvaardbare kosten.
+Fouten en onzekerheden in de nacalculatie-opgave 2020 die de zorgaanbieder om een bepaalde reden objectief niet *kan* oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2020 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van het budget aanvaardbare kosten.
+
+Accountant
 
 De accountant dient na te gaan of de zorgaanbieder de geconstateerde fouten heeft gecorrigeerd en met de onzekerheden in de nacalculatie-opgave 2020 is omgegaan zoals hierboven is vermeld. De accountant neemt de niet gecorrigeerde fouten en onzekerheden mee in zijn oordeelsvorming in de controleverklaring.
 
@@ -278,60 +394,10 @@ De accountant dient na te gaan of de zorgaanbieder de geconstateerde fouten heef
 
 De nacalculatie-opgave 2020 omvat naast het ondertekeningsdocument ook andere informatie, die bestaat uit:
 
-Wat betreft de verenigbaarheid van de andere informatie handelt de accountant overeenkomstig hetgeen in paragraaf 1.2 van dit controleprotocol is uitgewerkt.
+- − de ‘Vragenlijst controleprotocol’ en de eventuele voor identificatiedoeleinden gewaarmerkte toelichting hierbij;
 
-## Bijlage. Voorbeeldtekst controleverklaring
+- − het onderdeel ‘Doorlopende kosten als gevolg van het SARS-CoV-2 virus’;
 
-In deze bijlage is de door de Nederlandse Beroepsorganisatie van Accountants (NBA) vastgestelde voorbeeldtekst van de goedkeurende controleverklaring geactualiseerd voor de nacalculatie-opgave 2020.
+- − Correcties door het zorgkantoor30(indien aanwezig) Correctie zorgkantoor op realisatie productieafspraak algemeen, correctie zorgkantoor op restant overproductie, correctie doorlopende kosten SARS-CoV-2 virus..
 
-De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn. Voor de teksten van deze verklaringen wordt verwezen naar de desbetreffende NBA voorbeeldteksten.
-
-### Voorbeeldtekst goedkeurende controleverklaring
-
-Aan: opdrachtgever
-
-Wij hebben de in het bijgevoegde, door ons gewaarmerkte, Ondertekeningsdocument Langdurige zorg nacalculatie 2020 van de zorgaanbieder (hierna: ‘het ondertekeningsdocument’) opgenomen bedragen ‘Totaal financieel gerealiseerde productie over 2020’ en ‘Totaal financiële realisatie van de overige onderdelen over 2020’31Alleen in de controleverklaring opnemen als het onderdeel financiële realisatie overige onderdelen over 2020 in de nacalculatie-opgave 2020 is ingevuld. behorende bij het, door ons voor identificatiedoeleinden gewaarmerkte, Formulier Langdurige zorg nacalculatie 2020 (hierna: ‘de nacalculatie-opgave’) van (**naam Wlz-zorgaanbieder**) te (**vestigingsplaats**) gecontroleerd, met inachtneming van hetgeen staat genoemd onder ‘beperkingen in de reikwijdte van ons onderzoek’.
-
-Naar ons oordeel is het in het ondertekeningsdocument opgenomen bedrag ‘Totaal financieel gerealiseerde productie over 2020’ ten bedrage van € (bedrag) als onderdeel van de nacalculatie-opgave 2020 in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders (versie 1, maart 2021).
-
-**(Onderstaande alinea in controleverklaring opnemen als het onderdeel financiële realisatie overige onderdelen over 2020 in de nacalculatie-opgave 2020 is ingevuld)**
-
-Naar ons oordeel is het in het ondertekeningsdocument opgenomen bedrag ‘Totaal financiële realisatie van de overige onderdelen over 2020’ ten bedrage van € (bedrag) als onderdeel van de nacalculatie-opgave 2020 in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders (versie 1, maart 2021).
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders (versie 1, maart 2021) vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het ondertekeningsdocument’.
-
-Wij zijn onafhankelijk van (**naam Wlz-zorgaanbieder**) zoals vereist in de [Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA).
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-De reikwijdte van ons onderzoek was beperkt tot de onderdelen ‘Totaal financiële realisatie van de overige onderdelen over 2020’ en ’Totaal financieel gerealiseerde productie over 2020’ exclusief de doorlopende kosten als gevolg van het SARS-CoV-2 virus en (indien aanwezig) correcties door het zorgkantoor. De de doorlopende kosten als gevolg van het SARS-CoV-2 virus en (indien aanwezig) correcties door het zorgkantoor zijn andere informatie (zie paragraaf hierna).
-
-De nacalculatie-opgave 2020 omvat naast het ondertekeningsdocument ook andere informatie, die bestaat uit:
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met het ondertekeningsdocument 2020 van de zorgaanbieder verenigbaar is en geen materiële afwijkingen bevat.
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
-
-Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse [Standaard 720](onbekend). Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het ondertekenings-document van de zorgaanbieder.
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.
-
-De nacalculatie-opgave 2020 is opgesteld voor het zorgkantoor/de Wlz-uitvoerder en de NZa met als doel het bestuur van (**naam****Wlz-zorgaanbieder**) in staat te stellen te voldoen aan de beleidsregels en regelingen van de NZa. Hierdoor is de nacalculatie-opgave 2020 mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor het bestuur van (**naam Wlz-zorgaanbieder**), het zorgkantoor/de Wlz-uitvoerder en de NZa en dient niet te worden verspreid aan of te worden gebruikt door anderen.
-
-Het bestuur van de entiteit is verantwoordelijk voor het opstellen van de in het ondertekeningsdocument van de zorgaanbieder opgenomen bedragen voor de financieel gerealiseerde productie over 2020 en indien van toepassing voor de financiële realisatie van de overige onderdelen over 2020 behorende bij de nacalculatie-opgave 2020. Dit bedrag/deze bedragen moeten in overeenstemming zijn met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1 van het Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders, versie 1, maart 2021).
-
-Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht, om het opstellen van het ondertekeningsdocument mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
-
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
-
-Onze controle is uitgevoerd met een hoge maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van het ondertekeningsdocument nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden en het Controleprotocol nacalculatie 2020 Wlz-zorgaanbieders (versie 1, maart 2021), ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-Plaats en datum
-
-... (**naam accountantspraktijk**)
-
-... (**naam accountant**)
+Wat betreft de verenigbaarheid van de andere informatie handelt de accountant overeenkomstig hetgeen in [paragraaf 1.2](https://wetten.overheid.nl/BWBR0044966) van dit controleprotocol is uitgewerkt.

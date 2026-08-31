@@ -1,48 +1,18 @@
 ---
 title: "BESLUIT van 25 November 1953, houdende regelen ter uitvoering van artikel 13, vierde lid, van de Wet buitengewone bevoegdheden burgerlijk gezag"
+citeertitel: "Besluit ex art. 13, vierde lid, Wet buitengewone bevoegdheden burgerlijk gezag"
 identifier: "BWBR0044717"
-country: "nl"
-rank: "amvb"
-publication_date: "1953-12-20"
-last_updated: "1953-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044717"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "15813403"
-version_id: "27445512"
-internal_id: "C39402581"
-label_id: "15750784"
-dtd_version: "2.0"
-original_entry_into_force: "1953-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044717/1953-12-20/0"
-intitule_bron: "Stb.1953-555"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1953-11-25"
-intitule_status: "goed"
-original_publication: "Stb.1953-555"
-original_signed_date: "1953-11-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-12-20"
-jci_1_3: "jci1.3:c:BWBR0044717&z=1953-12-20&g=1953-12-20"
-jci_1_0: "1.0:c:BWBR0044717&g=1953-12-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit ex art. 13, vierde lid, Wet buitengewone bevoegdheden burgerlijk gezag"
-signed_date: "1953-11-25"
-entry_into_force: "1953-12-20"
+publicatiedatum: 1953-12-20
+laatste_update: 1953-12-20
+status: geldig
+toestand: 1953-12-20
+bron: "https://wetten.overheid.nl/BWBR0044717"
+opgehaald: 2026-08-31
 ---
+
 # BESLUIT van 25 November 1953, houdende regelen ter uitvoering van artikel 13, vierde lid, van de Wet buitengewone bevoegdheden burgerlijk gezag
-
-Op de voordracht van Onze Ministers van Binnenlandse Zaken en van Justitie van 28 Juli 1953, No. U 3496, Afdeling Openbare Orde en Veiligheid (Bureau Algemene en Juridische Zaken);
-
-Gelet op [artikel 13, vierde lid, van de Wet buitengewone bevoegdheden burgerlijk gezag](https://wetten.overheid.nl/jci1.3:c:BWBR0007982&artikel=13) (Stb. 1952, 361);
-
-De Raad van State gehoord (advies van 1 September 1953, No. 15a);
-
-Gezien het nader rapport van Onze voornoemde Ministers van Binnenlandse Zaken en van Justitie van 13 October 1953, No. 3802, Afdeling Openbare Orde en Veiligheid (Bureau Algemene en Juridische Zaken);
-
-Hebben goedgevonden en verstaan:
-
-Besluit is door de Tijdelijke regeling landelijke avondklok covid-19 (Stcrt. 2021/4191 jo. Stcrt. 2021/7378) buiten werking gesteld geweest van 22 januari 2021 tot 3 maart 2021.
 
 ##### Artikel 1
 
@@ -111,5 +81,3 @@ Een verbod als bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:B
 ##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin het is geplaatst.
-
-Onze Minister van Binnenlandse Zaken is belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.

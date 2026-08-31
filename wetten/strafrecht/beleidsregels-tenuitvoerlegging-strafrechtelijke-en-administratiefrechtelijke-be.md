@@ -1,116 +1,92 @@
 ---
 title: "Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)"
+citeertitel: "Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021"
 identifier: "BWBR0045326"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045326"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "16007673"
-version_id: "27862682"
-internal_id: "C39295461"
-label_id: "15942164"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045326/2024-04-01/0"
-intitule_bron: "Stcrt.2021-33851"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-28"
-intitule_published: "2021-07-01"
-intitule_in_force: "2021-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-33851"
-original_signed_date: "2021-06-28"
-original_published_date: "2021-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-33851"
-entry_into_force_date: "2021-09-01"
-jci_1_3: "jci1.3:c:BWBR0045326&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0045326&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021"
-signed_date: "2021-06-28"
-entry_into_force: "2021-09-01"
+publicatiedatum: 2021-09-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0045326"
+opgehaald: 2026-08-31
 ---
-# Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)
 
-Besluit:
+# Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-## Titel 1.1. Algemene bepalingen
+### Titel 1.1. Algemene bepalingen
 
 ##### Artikel 1:1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **administratiekosten:** de kosten bedoeld in [artikel 4.11 van het Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:11) of [11a van het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&artikel=11a);
+- – *administratiekosten:* de kosten bedoeld in [artikel 4.11 van het Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:11) of [11a van het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&artikel=11a);
 
-- –. **administratieve sanctie:** administratieve sanctie als bedoeld in [artikel 1, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=1);
+- – *administratieve sanctie:* administratieve sanctie als bedoeld in [artikel 1, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=1);
 
-- –. **besluit:** het [Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962);
+- – *besluit:* het [Besluit tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042962);
 
-- –. **betalingsregeling:** verlening van uitstel van betaling of het toestaan van betaling in termijnen bedoeld in [artikel 6:4:1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) met betrekking tot geldelijke sancties, alsmede met betrekking tot administratieve sancties;
+- – *betalingsregeling:* verlening van uitstel van betaling of het toestaan van betaling in termijnen bedoeld in [artikel 6:4:1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) met betrekking tot geldelijke sancties, alsmede met betrekking tot administratieve sancties;
 
-- –. **betalingsplichtige:** degene aan wie een geldelijke sanctie is opgelegd;
+- – *betalingsplichtige:* degene aan wie een geldelijke sanctie is opgelegd;
 
-- –. **CJIB:** het Centraal Justitieel Incassobureau, onderdeel van het Ministerie van Justitie en Veiligheid;
+- – *CJIB:* het Centraal Justitieel Incassobureau, onderdeel van het Ministerie van Justitie en Veiligheid;
 
-- –. **CJIB/AICE:** het Administratie- en Informatiecentrum voor de Executieketen, onderdeel van het CJIB;
+- – *CJIB/AICE:* het Administratie- en Informatiecentrum voor de Executieketen, onderdeel van het CJIB;
 
-- –. **DJI:** de Dienst Justitiële Inrichtingen, onderdeel van het Ministerie van Justitie en Veiligheid;
+- – *DJI:* de Dienst Justitiële Inrichtingen, onderdeel van het Ministerie van Justitie en Veiligheid;
 
-- –. **geldelijke sanctie:** een opgelegde sanctie, inhoudende de verplichting tot betaling van een geldsom bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), [36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e), [36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) of een geldelijke sanctie die is opgelegd in het buitenland en die in Nederland ten uitvoer wordt gelegd op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604), of de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028);
+- – *geldelijke sanctie:* een opgelegde sanctie, inhoudende de verplichting tot betaling van een geldsom bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), [36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e), [36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) en [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) of een geldelijke sanctie die is opgelegd in het buitenland en die in Nederland ten uitvoer wordt gelegd op grond van de [Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604), of de [Wet overdracht tenuitvoerlegging strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBR0004028);
 
-- –. **geldboete:** een geldboete opgelegd bij strafbeschikking, vonnis of arrest;
+- – *geldboete:* een geldboete opgelegd bij strafbeschikking, vonnis of arrest;
 
-- –. **incassofase:** de fase die intreedt indien in de inningsfase geen volledige betaling is verricht en waarin met of zonder dwangbevel verhaal kan worden genomen op onder meer inkomsten, tegoeden en (onroerende) goederen van de betalingsplichtige;
+- – *incassofase:* de fase die intreedt indien in de inningsfase geen volledige betaling is verricht en waarin met of zonder dwangbevel verhaal kan worden genomen op onder meer inkomsten, tegoeden en (onroerende) goederen van de betalingsplichtige;
 
-- –. **inningsfase:** de fase die intreedt bij het verzenden van een aanschrijving, beschikking of strafbeschikking dan wel aanmaningen en eindigt op het moment dat de toegestane termijn voor betaling is verstreken;
+- – *inningsfase:* de fase die intreedt bij het verzenden van een aanschrijving, beschikking of strafbeschikking dan wel aanmaningen en eindigt op het moment dat de toegestane termijn voor betaling is verstreken;
 
-- –. **ISD-maatregel:** de maatregel, bedoeld in [artikel 38m, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m);
+- – *ISD-maatregel:* de maatregel, bedoeld in [artikel 38m, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m);
 
-- –. **inrichting:** een inrichting als bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
+- – *inrichting:* een inrichting als bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) of [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1);
 
-- –. **last tot aanhouding:** last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde als bedoeld in [artikel 6:1:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
+- – *last tot aanhouding:* last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde als bedoeld in [artikel 6:1:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6);
 
-- –. **Minister:** de Minister voor Rechtsbescherming;
+- – *Minister:* de Minister voor Rechtsbescherming;
 
-- –. **OM:** het openbaar ministerie;
+- – *OM:* het openbaar ministerie;
 
-- –. **onder toezicht gestelde:** degene die vanwege een strafrechtelijke beslissing algemene of bijzondere voorwaarden moet naleven;
+- – *onder toezicht gestelde:* degene die vanwege een strafrechtelijke beslissing algemene of bijzondere voorwaarden moet naleven;
 
-- –. **ontnemingsmaatregel:** de maatregel tot ontneming van wederrechtelijk verkregen voordeel zoals bedoeld in de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [77h, vierde lid, onder d, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h);
+- – *ontnemingsmaatregel:* de maatregel tot ontneming van wederrechtelijk verkregen voordeel zoals bedoeld in de [artikelen 36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e) en [77h, vierde lid, onder d, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h);
 
-- –. **regeling:** de [Regeling tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042978);
+- – *regeling:* de [Regeling tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042978);
 
-- –. **sanctie:** straf of maatregel;
+- – *sanctie:* straf of maatregel;
 
-- –. **schadevergoedingsmaatregel:** maatregel als bedoeld in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) of [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h), of [artikel 257a, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
+- – *schadevergoedingsmaatregel:* maatregel als bedoeld in [artikel 36f](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f) of [77h, vierde lid, onder e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h), of [artikel 257a, tweede lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a);
 
-- –. **slachtoffer:** het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
+- – *slachtoffer:* het slachtoffer als bedoeld in [artikel 51a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a);
 
-- –. **strafbeschikking:** strafbeschikking als bedoeld in [artikel 257a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [257b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b), of [257ba, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba);
+- – *strafbeschikking:* strafbeschikking als bedoeld in [artikel 257a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a), [257b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257b), of [257ba, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257ba);
 
-- –. **taakgestrafte:** degene aan wie een taakstraf is opgelegd;
+- – *taakgestrafte:* degene aan wie een taakstraf is opgelegd;
 
-- –. **uitvoerder taakstraffen:** de uitvoerder van een taakstraf als bedoeld in [artikel 1:1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=1:1);
+- – *uitvoerder taakstraffen:* de uitvoerder van een taakstraf als bedoeld in [artikel 1:1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=1:1);
 
-- –. **uitvoerder toezicht:** de medewerker van de (jeugd)reclassering die is belast met begeleiding en toezicht in het kader van de tenuitvoerlegging van (bijzondere) voorwaarden;
+- – *uitvoerder toezicht:* de medewerker van de (jeugd)reclassering die is belast met begeleiding en toezicht in het kader van de tenuitvoerlegging van (bijzondere) voorwaarden;
 
-- –. **verhaal zonder dwangbevel:** verhaal als bedoeld in [artikel 6:4:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) of [artikel 27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27);
+- – *verhaal zonder dwangbevel:* verhaal als bedoeld in [artikel 6:4:6, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) of [artikel 27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27);
 
-- –. **verhaal met dwangbevel:** verhaal als bedoeld in [artikel 6:4:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) of [artikel 26 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26);
+- – *verhaal met dwangbevel:* verhaal als bedoeld in [artikel 6:4:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) of [artikel 26 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26);
 
-- –. **voorwaardelijke veroordeling:** veroordeling waarbij de straf of maatregel onder voorwaarden geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;
+- – *voorwaardelijke veroordeling:* veroordeling waarbij de straf of maatregel onder voorwaarden geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;
 
-- –. **Wahv:** de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581);
+- – *Wahv:* de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581);
 
-- –. **wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
+- – *wet:* het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-## Titel 1.2. Persoonsgericht werken
+### Titel 1.2. Persoonsgericht werken
 
 ##### Artikel 1:2. Persoonsgericht werken
 
@@ -154,7 +130,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 ### Hoofdstuk 2. Vrijheidsbenemende sancties
 
-## Titel 2.1. Detentie- en arrestatiegeschikt
+### Titel 2.1. Detentie- en arrestatiegeschikt
 
 ##### Artikel 2:1. Detentiegeschiktheid
 
@@ -198,7 +174,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 5. De vrijheidsbeneming van de in het tweede lid bedoelde aangehouden persoon wordt opgeschort voor ten minste de duur van een onderzoek naar diens detentiegeschiktheid, indien de geraadpleegde arts constateert dat sprake is van medische problematiek waarvoor de gepaste zorg niet op het politiebureau, in een inrichting of het justitieel centrum voor somatische zorg kan worden verleend.
 
-## Titel 2.2. Oproep tot zelfmelding
+### Titel 2.2. Oproep tot zelfmelding
 
 ##### Artikel 2:4. Oproep tot zelfmelding dan wel de intrekking daarvan
 
@@ -214,7 +190,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 4. DJI beoordeelt of een oproep tot zelfmelding overeenkomstig [artikel 2:2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=2:2) moet worden ingetrokken en doet hiervan mededeling aan de veroordeelde.
 
-## Titel 2.3. Uitzondering op (weekend)ontslag
+### Titel 2.3. Uitzondering op (weekend)ontslag
 
 ##### Artikel 2:5. Uitzondering op (weekend)ontslag
 
@@ -234,13 +210,13 @@ De directeur van de justitiële inrichting kan de veroordeelde van wie de laatst
 
 direct daarop aansluitend kunnen volgen.
 
-## Titel 2.4. Levenslange gevangenisstraf
+### Titel 2.4. Levenslange gevangenisstraf
 
 ##### Artikel 2:6. Levenslange gevangenisstraf
 
 In het jaar nadat de levenslange gevangenisstraf van een veroordeelde onherroepelijk is geworden, wordt via het Nederlands Instituut voor Forensische Psychiatrie en Psychologie een (aanvullende) Pro Justitia-rapportage opgesteld voor een adequate inschatting van de zorgbehoefte van de tot levenslang veroordeelde.
 
-## Titel 2.5. Andere relevante personen
+### Titel 2.5. Andere relevante personen
 
 ##### Artikel 2:7. Belangen van andere relevante personen
 
@@ -252,7 +228,7 @@ Ter uitvoering van [artikel 15, tweede lid, aanhef en onder c, van de Regeling t
 
 ### Hoofdstuk 3. Vrijheidsbeperkende sancties
 
-## Titel 3.1. Tenuitvoerlegging algemene en bijzondere voorwaarden
+### Titel 3.1. Tenuitvoerlegging algemene en bijzondere voorwaarden
 
 ##### Artikel 3:1. Waarschuwing tijdens tenuitvoerlegging toezicht
 
@@ -284,7 +260,81 @@ De uitvoerder van het toezicht kan een schriftelijke waarschuwing aan de onder t
 
 Het toezicht op voorwaarden die zijn gesteld bij schorsing van een bevel tot voorlopige hechtenis wordt uiterlijk beëindigd op het moment dat het vonnis of arrest met betrekking tot het strafbare feit waarvoor de voorlopige hechtenis was verleend, onherroepelijk is geworden.
 
-## Titel 3.2. Tenuitvoerlegging taakstraf
+##### Artikel 3:3a. Ambtshalve opdracht tot reclasseringstoezicht
+
+1. Indien één of meer van de volgende voorwaarden zijn gesteld of gedragsaanwijzingen zijn opgelegd zonder dat tevens reclasseringstoezicht is bevolen, geeft het CJIB/AICE ambtshalve opdracht aan een reclasseringsinstelling of een gecertificeerde instelling die jeugdreclassering uitvoert om toezicht te houden op de naleving daarvan en de verdachte of de veroordeelde daarbij te begeleiden:
+
+- a. contactverbod met elektronisch toezicht;
+
+- b. locatieverbod met elektronisch toezicht;
+
+- c. locatiegebod met elektronisch toezicht;
+
+- d. verbod om Nederland te verlaten met elektronisch toezicht;
+
+- e. drugs- of alcoholverbod en meewerken aan controle van dit verbod;
+
+- f. opname in een zorginstelling;
+
+- g. ambulante behandeling;
+
+- h. verblijf in een instelling voor begeleid wonen in de vorm van beschermd wonen, dan wel maatschappelijke opvang;
+
+- i. deelnemen aan een gedragsinterventie;
+
+- j. meldplicht bij de reclassering of gecertificeerde instelling die jeugdreclassering uitvoert;
+
+- k. volgen van een opleiding;
+
+- l. meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld;
+
+- m. verbod op andere huisvesting zonder toestemming;
+
+- n. meewerken aan controle op het gebruik van drugs of alcohol om het gebruik te kunnen beheersen;
+
+- o. verbod op deelname aan kansspelen;
+
+- p. vermijden contact met minderjarigen;
+
+- q. vermijden kinderporno.
+
+2. Indien uitsluitend één of meer van de volgende voorwaarden zijn gesteld of aanwijzingen of maatregelen zijn opgelegd zonder dat tevens reclasseringstoezicht is bevolen, geeft het CJIB/AICE geen ambtshalve opdracht tot toezicht aan de reclassering of gecertificeerde instelling die jeugdreclassering uitvoert:
+
+- a. herstel van de door het strafbare feit veroorzaakte schade;
+
+- b. betalen van een schadevergoeding;
+
+- c. storten van een waarborgsom;
+
+- d. storten van een geldbedrag in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen;
+
+- e. meewerken aan een pro Justitia-rapportage;
+
+- f. meewerken aan een advies van de reclassering of de raad voor de kinderbescherming;
+
+- g. meldplicht bij de politie;
+
+- h. verhuisplicht;
+
+- i. vestigingsverbod;
+
+- j. contactverbod zonder elektronisch toezicht;
+
+- k. locatieverbod zonder elektronisch toezicht;
+
+- l. locatiegebod zonder elektronisch toezicht;
+
+- m. verbod om Nederland te verlaten zonder elektronisch toezicht;
+
+- n. verbod op het uitoefenen van bepaalde beroepen dan wel op het verrichten van bepaalde betaalde of onbetaalde werkzaamheden;
+
+- o. verbod op het houden van dieren;
+
+- p. mediaverbod.
+
+3. Ten behoeve van een goede tenuitvoerlegging kan het CJIB/AICE na overleg met de reclassering of de raad voor de kinderbescherming afwijken van de voorgaande leden.
+
+### Titel 3.2. Tenuitvoerlegging taakstraf
 
 ##### Artikel 3:4. Waarschuwing tijdens tenuitvoerlegging taakstraffen
 
@@ -314,7 +364,7 @@ De uitvoerder taakstraffen kan de officier van justitie in ieder geval om een ve
 
 ### Hoofdstuk 4. Geldelijke sancties
 
-## Titel 4.1. Algemeen
+### Titel 4.1. Algemeen
 
 ##### Artikel 4:1. Fasen en volgorde
 
@@ -330,7 +380,7 @@ Geldelijke sancties worden in volgorde van inning, incasso en dwang dan wel verv
 
 Het uitwinnen van conservatoir beslag op grond van [artikel 94a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) vindt niet eerder plaats dan nadat de betalingsplichtige in de gelegenheid is gesteld het verschuldigde bedrag te betalen. Het bepaalde is eveneens van toepassing indien het in beslag genomen voorwerp op grond van [artikel 117 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117) is vervreemd voorafgaand aan de tenuitvoerlegging van de strafrechtelijk beslissing door het CJIB.
 
-## Titel 4.2. Inningsfase
+### Titel 4.2. Inningsfase
 
 ##### Artikel 4:4. Aanmaningen geldboete vonnis, arrest en strafbeschikking
 
@@ -340,7 +390,7 @@ Het uitwinnen van conservatoir beslag op grond van [artikel 94a van de wet](http
 
 3. Indien de strafbeschikking onherroepelijk is geworden gedurende de termijn van de eerste dan wel tweede aanmaning als bedoeld in het tweede lid, ontvangt de betalingsplichtige opnieuw een eerste en eventuele tweede aanmaning met het openstaande bedrag inclusief verhoging.
 
-## Titel 4.3. Incassofase
+### Titel 4.3. Incassofase
 
 ##### Artikel 4:5. Verhaal
 
@@ -350,7 +400,7 @@ Van de toepassing van verhaal met of zonder dwangbevel als bedoeld in [artikel 6
 
 Met de tenuitvoerlegging van meerdere dwangbevelen als bedoeld in [artikel 6:4:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5), ten behoeve van het verhaal van goederen onder één persoon, wordt zo veel mogelijk één gerechtsdeurwaarder belast.
 
-## Titel 4.4. Gijzeling, vervangende hechtenis en lijfsdwang
+### Titel 4.4. Gijzeling, vervangende hechtenis en lijfsdwang
 
 ##### Artikel 4:7. Gijzeling en vervangende hechtenis
 
@@ -378,11 +428,11 @@ Het CJIB verzendt voorafgaand aan de toepassing van vervangende hechtenis of het
 
 1. In aanvulling op [artikel 6:4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) kan, indien de verhaalsmogelijkheden zijn uitgeput of van verhaal is afgezien, vervangende hechtenis worden toegepast ten aanzien van een schadevergoedingsmaatregel die op grond van een arrest of vonnis van voor inwerkingtreding van de [Wet herziening tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039301) is gewezen.
 
-2. Indien de verhaalsmogelijkheden zijn uitgeput, of van verhaal is afgezien, kan vervangende hechtenis worden toegepast bij een ontnemingsmaatregel waarin vóór 1 september 2003 vonnis of arrest is gewezen. Hiervoor is toestemming vereist van het OM. In geval van ontnemingsmaatregelen waarin voor inwerkingtreding van de in het eerste lid genoemde wet lijfsdwang is gewezen door de rechter, kan tenuitvoerlegging van de lijfsdwang plaatsvinden.
+2. Indien de verhaalsmogelijkheden zijn uitgeput, of van verhaal is afgezien, kan vervangende hechtenis worden toegepast bij een ontnemingsmaatregel waarin vóór 1 september 2003 vonnis of arrest is gewezen. Hiervoor is toestemming vereist van het OM. In geval van ontnemingsmaatregelen waarin voor inwerkingtreding van de in het eerste lid genoemde wet lijfsdwang is gewezen door de rechter, kan tenuitvoerlegging van de lijfsdwang plaatsvinden.
 
 3. Het CJIB kan op verzoek van de betalingsplichtige de tenuitvoerlegging van de ontnemingsmaatregel opschorten, indien een verminderingsverzoek is ingediend overeenkomstig [artikel 6:6:26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:26).
 
-## Titel 4.5. Slachtoffers
+### Titel 4.5. Slachtoffers
 
 ##### Artikel 4:11. Opschorting uitkering voorschotregeling bij verzet strafbeschikking
 
@@ -396,7 +446,7 @@ Aan eventuele erfgenamen van een slachtoffer dat overlijdt voordat een recht op 
 
 Het CJIB beëindigt de inning en incasso van de schadevergoedingsmaatregel definitief indien het slachtoffer zelf afspraken maakt met betrekking tot de betaling van de toegewezen schadevergoeding met de betalingsplichtige. Het niet nakomen van dergelijke afspraken door de betalingsplichtige kan niet leiden tot heropening van de zaak door het CJIB.
 
-## Titel 4.6. Betalingsregelingen
+### Titel 4.6. Betalingsregelingen
 
 ##### Artikel 4:14. Reikwijdte
 
@@ -416,7 +466,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 1. Een betalingsregeling kan slechts worden getroffen voor ten hoogste de duur van de tenuitvoerleggingstermijn van de geldelijke sancties waarop zij betrekking heeft.
 
-2. Een betalingsregeling is mogelijk indien het totaal openstaand bedrag inclusief de verhogingen, zonder de administratiekosten, ten minste € 75,00 bedraagt. Voor een betalingsplichtige die op de pleegdatum nog geen 16 jaar oud was, geldt dat het openstaand bedrag tenminste € 37,50 dient te zijn.
+2. Een betalingsregeling is mogelijk indien het totaal openstaand bedrag inclusief de verhogingen, zonder de administratiekosten, ten minste € 75,00 bedraagt. Voor een betalingsplichtige die op de pleegdatum nog geen 16 jaar oud was, geldt dat het openstaand bedrag tenminste € 37,50 dient te zijn.
 
 3. Een betalingsregeling strekkende tot betaling in termijnen wordt toegestaan in de vorm van een standaardregeling of een maatwerkregeling.
 
@@ -426,7 +476,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 1. Een standaardregeling voor één of meer openstaande vorderingen kan worden getroffen indien sprake is van geldelijke sancties waarvoor nog geen verhaal met dwangbevel of een dwangmiddel of vervangende hechtenis wordt toegepast.
 
-2. Een standaardregeling voor een enkele administratieve sanctie kent een looptijd van maximaal 12 maanden. Voor de overige standaardregelingen geldt een looptijd van maximaal 36 maanden.
+2. Een standaardregeling voor een enkele administratieve sanctie kent een looptijd van maximaal 12 maanden. Voor de overige standaardregelingen geldt een looptijd van maximaal 36 maanden.
 
 3. De termijnbedragen voor de standaardregeling en het aantal daarvoor geldende termijnen worden op de website van het CJIB gepubliceerd. Bij het bepalen van het termijnbedrag kan een begrenzing plaatsvinden tot een maximaal openstaand bedrag en maximum aantal maanden.
 
@@ -550,7 +600,7 @@ Indien de betalingsplichtige het termijnbedrag van een betalingsregeling niet bi
 
 De betalingsregeling eindigt indien alle openstaande vorderingen zijn voldaan binnen de gestelde termijn of deeltermijnen.
 
-## Titel 4.7. [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581)
+### Titel 4.7. Wet administratiefrechtelijke handhaving verkeersvoorschriften
 
 ##### Artikel 4:32. Toepasselijke bepalingen
 
@@ -574,7 +624,7 @@ Indien een ongerichte betaling bij het CJIB binnenkomt en er geen strafrechtelij
 
 De opbrengst van de verkoop van het buiten gebruik gestelde voertuig strekt tot voldoening van de vordering. Een eventuele meeropbrengst strekt tot voldoening van andere nog bij het CJIB openstaande vorderingen. Een eventueel restant wordt gestort in de Rijkskas.
 
-##### Artikel 4:37. [Minnelijke Schuldregeling Natuurlijke Personen](https://wetten.overheid.nl/jci1.3:c:BWBR0013149)
+##### Artikel 4:37. Minnelijke Schuldregeling Natuurlijke Personen
 
 Indien administratieve sancties resteren na afloop van een regeling op grond van de [Minnelijke Schuldregeling Natuurlijke Personen](https://wetten.overheid.nl/jci1.3:c:BWBR0013149), beoordeelt het CJIB of de inning daarvan wordt beëindigd.
 
@@ -622,302 +672,8 @@ De [Beleidsregel tenuitvoerlegging strafrechtelijke en administratiefrechtelijke
 
 ##### Artikel 6:2. Inwerkingtreding
 
-Deze beleidsregels treden in werking op 1 september 2021.
+Deze beleidsregels treden in werking op 1 september 2021.
 
 ##### Artikel 6:3. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021.
-
-## Bijlage. USB bevoegdhedenschema
-
-In de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962) en de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978) zijn zowel verantwoordelijkheden, als daarmee samenhangende bevoegdheden bij de Minister belegd. De wijze waarop uitvoering moet worden gegeven aan de bevoegdheden wordt geregeld in deze beleidsregels en het samenwerkingsreglement. In de matrix is getracht om de hoogst geldende wet dan wel regelgeving te benoemen. Mogelijk is het genoemde wetsartikel in de lagere wet- of regelgeving verder uitgewerkt.
-
-| BEVOEGDHEID | WIE IS BEVOEGD? | Toelichting op bevoegdheid |
-| --- | --- | --- |
-| **TAKEN EN BEVOEGDHEDEN** | **TAKEN EN BEVOEGDHEDEN** | **TAKEN EN BEVOEGDHEDEN** |
-| **OM-ADVIES** | **OM-ADVIES** | **OM-ADVIES** |
-| Het OM verzoeken een advies uit te brengen dan wel aan te vullen. | [Artikel 6:1:10 lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd indien dit noodzakelijk is voor het bepalen van de tenuitvoerleggingsvolgorde / persoonsgerichte beoordeling. De uitvoeringsorganisaties: DJI, 3RO, GI, RvdK, CJIB-I&I, etc. zijn namens de Minister bevoegd indien dit nodig is voor de daadwerkelijke tenuitvoerlegging van de strafrechtelijke beslissing(en). |
-| **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** | **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** | **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** |
-| Bepalen datum onherroepelijk. | [Artikel 6:1:16](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:16), [6:1:17](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:17) en [6:1:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| **BEREKENEN TENUITVOERLEGGINGSTERMIJN** | **BEREKENEN TENUITVOERLEGGINGSTERMIJN** | **BEREKENEN TENUITVOERLEGGINGSTERMIJN** |
-| Berekenen tenuitvoerleggingstermijn. | [Artikel 6:1:23 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:23) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Schorsen/opschorten tenuitvoerleggingstermijn. | [Artikel 6:1:18 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18), [6:1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:19), [6:1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:20), [6:1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:23) en [6:1:24 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:24) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| **OPSPOREN VEROORDEELDEN EN VERDACHTEN** | **OPSPOREN VEROORDEELDEN EN VERDACHTEN** | **OPSPOREN VEROORDEELDEN EN VERDACHTEN** |
-| Opstellen en beschikbaar stellen van een last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde in het kader van de [Wet USB](https://wetten.overheid.nl/jci1.3:c:BWBR0039301). | [Artikel 6:1:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Innen van gelden door een opsporingsambtenaar. | [Artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:5) en [4:6 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:6) • De Minister is bevoegd | De opsporingsambtenaar is namens de Minister bevoegd. |
-| De beoordeling tijdens / voorafgaand aan de aanhouding of een veroordeelde ‘arrestatiegeschikt’ is door de opsporingsambtenaar. | [Artikel 3 Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) 1 • Politie is bevoegd |   |
-| Besluit op verzoek i.v.m. mogelijke persoonsverwisseling. | [Artikel 6:1:6 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=52) en [27a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a), Wivvg en het Protocol Identiteitsvaststelling • De Minister is bevoegd | Justid (matchingsautoriteit) is namens de Minister bevoegd om een verzoek te doen om een nader onderzoek in te stellen. De opsporingsambtenaar is namens de Minister bevoegd om op het verzoek onderzoek te doen. |
-| **PASPOORTSIGNALERING** | **PASPOORTSIGNALERING** | **PASPOORTSIGNALERING** |
-| Weigeren of vervallen verklaren van een paspoort. | [Artikel 18 paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18) (nieuw) • De Minister is bevoegd (in het kader van de tenuitvoerlegging van strafrechtelijke beslissingen | CJIB-AICE is namens de Minister bevoegd. |
-| **VORDEREN VAN GEGEVENS** | **VORDEREN VAN GEGEVENS** | **VORDEREN VAN GEGEVENS** |
-| Een ieder vorderen om de inlichtingen te verstrekken die redelijkerwijs noodzakelijk zijn voor de tenuitvoerlegging van een vonnis, een arrest of een strafbeschikking. | [Artikel 6:1:9 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9) en [artikel 22 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=22) • De Minister is bevoegd | Iedere uitvoeringsorganisatie is namens de Minister bevoegd t.b.v. de uitvoering van zijn taak. |
-| **VRIJHEIDSBENEMENDE SANCTIES** | **VRIJHEIDSBENEMENDE SANCTIES** | **VRIJHEIDSBENEMENDE SANCTIES** |
-| **ZELFMELDERS** | **ZELFMELDERS** | **ZELFMELDERS** |
-| Besluit of veroordeelde (volwassene of jeugdige) in aanmerking komt voor het zelfmelden. | [Artikel 2.2 Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=2:2) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Oproepen veroordeelde als zelfmelder. | Artikel 2.2 MR USB + [art. 15 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) + [art. 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| Besluit op een door de veroordeelde ingesteld bezwaar/verzoek tot uitstel n.a.v. de zelfmeldoproep. | Artikel 2.4 MR USB + [artikel 17 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=17) + [artikel 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| Besluit op een door de veroordeelde ingesteld beroep n.a.v. het besluit in een bezwaarprocedure tegen een zelfmeldoproep. | [Artikel 73 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=73) en [artikel 78 Beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=78) • Een door de RSJ benoemde commissie is bevoegd |   |
-| Besluit tot het intrekken zelfmeldoproep. | Artikel 2.2 MR USB + [artikel 15 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) + [artikel 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| **ONDERBREKEN VAN DE LOPENDE DETENTIE** | **ONDERBREKEN VAN DE LOPENDE DETENTIE** | **ONDERBREKEN VAN DE LOPENDE DETENTIE** |
-| Besluit tot strafonderbreking detentie. | [Artikel 6:2:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4) en de [artikelen 34 t/m 40 Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=34) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. NB. Verzoek strafonderbreking komt van OM, veroordeelde/raadsman of ambtshalve |
-| Besluit tot strafonderbreking voor vreemdelingen zonder rechtmatig verblijf. | [Artikel 6:2:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4) en [art. 40a Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=40a) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. NB. Verzoek strafonderbreking komt van AVIM/KMar of DT&V |
-| **DETENTIEGESCHIKTHEID** | **DETENTIEGESCHIKTHEID** | **DETENTIEGESCHIKTHEID** |
-| Besluit op verzoek tot opschorten detentie als gevolg van afwezigheid detentiegeschiktheid, voorafgaand aan de detentie (veroordeelde) en wordt aangehouden door de politie. | De [ambtsinstructie van de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589)[hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6) • Politie is bevoegd | De politie is hiervoor feitelijk verantwoordelijk (het gaat hier om het nemen van een besluit en niet om een aanvraag/verzoek). |
-| Besluit tot opschorting van de tenuitvoerlegging van een detentie als gevolg van een ingediend gratieverzoek. | [Artikel 6:7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), [6:7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:3), [6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| **TENUITVOERLEGGEN ISD-MAATREGEL** | **TENUITVOERLEGGEN ISD-MAATREGEL** | **TENUITVOERLEGGEN ISD-MAATREGEL** |
-| Besluit tot opschorten tenuitvoerlegging overige vrijheidsbenemende sancties als gevolg van de tenuitvoerlegging van de ISD-maatregel. | Artikel 2.5 MR wet USB • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd om de tenuitvoerleggingsvolgorde te bepalen. Het AICE bepaald welke sancties voorafgaand aan de uitvoering van de ISD-maatregel uitgevoerd worden, en van welke sancties de uitvoering opgeschort wordt. |
-| Besluit beëindigen tenuitvoerlegging overige straffen nadat een ISD-maatregel naar behoren ten uitvoer is gelegd. | [Artikel 6:1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:11), [6:7:1 e.v. Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:1) • De Minister is bevoegd | Het CJIB-D&I beëindigd namens de Minister eventuele de rechtelijke boetes onder de 340,00 euro. Dienst Justis is namens de Minister bevoegd om een gratiebesluit te nemen op de (eventuele) nog openstaande vrijheidsbenemende sancties (op verzoek van de veroordeelde). |
-| **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** | **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** | **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** |
-| Besluit of de levenslanggestrafte in aanmerking komt voor re-integratieactiviteiten. | Artikel 49a PBW • De Minister is bevoegd | DJI is namens de Minister bevoegd een voorgenomen besluit op te stellen. De bewindspersoon neemt het definitieve besluit. |
-| **TENUITVOERLEGGING TBS-MAATREGEL** | **TENUITVOERLEGGING TBS-MAATREGEL** | **TENUITVOERLEGGING TBS-MAATREGEL** |
-| **TENUITVOERLEGGEN PIJ-MAATREGEL** | **TENUITVOERLEGGEN PIJ-MAATREGEL** | **TENUITVOERLEGGEN PIJ-MAATREGEL** |
-| Besluit nemen tot intrekking of schorsing van de voorwaardelijke beëindiging van de PIJ-maatregel | [Artikel 2:17 Besluit USB](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=2:17) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. |
-| **ONGEOORLOOFD AFWEZIG** | **ONGEOORLOOFD AFWEZIG** | **ONGEOORLOOFD AFWEZIG** |
-| Melden ongeoorloofde afwezigheid van een gedetineerde/verpleegde. | [Artikel 5a PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a), [artikel 5 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5) en [artikel 7a beginselenwet verpleging TBS-gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a) • De directeur/hoofd van de inrichting is bevoegd |   |
-| Melding geven indien de ongeoorloofd afwezige zichzelf meldt bij de inrichting/kliniek. | [Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=2.9), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=3.7) en [4.10 Regeling melding ongeoorloofde afwezigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=4.10) • De directeur/hoofd van de inrichting is bevoegd |   |
-| **BEËINDIGEN TENUITVOERLEGGING** | **BEËINDIGEN TENUITVOERLEGGING** | **BEËINDIGEN TENUITVOERLEGGING** |
-| Beëindigen tenuitvoerlegging. | [Artikel 6:1:24 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:24) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. NB. na binnenkomst positief afloopbericht buitenlandse autoriteit. |
-| Besluit tot uitzetting van een TBS-gestelde. | [Artikel 6:2:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. NB. Kan ook door de ZM, zie [artikel 6:6:10 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10). |
-| Beëindigen TBS-maatregel ten aanzien van de vreemdeling die is uitgezet. | [Artikel 6:2:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| PIJ voorwaardelijk of onvoorwaardelijk beëindigen op advies van de RvdK. | [Artikel 6:2:22 lid 3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22) • De Minister is bevoegd | DJI is namens de Minister bevoegd. |
-| Beëindigen tenuitvoerlegging maatregel opname Psychiatrisch Ziekenhuis. | [Artikel 8:18 WvGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:18) • Geneesheer-Directeur is bevoegd |   |
-| Onmiddellijke invrijheidstelling indien de Minister de tenuitvoerlegging van de vrijheidsbenemende straffen en maatregelen beëindigd. | [Artikel 6:2:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| Beëindigen tenuitvoerlegging ISD-maatregel. | [Artikel 6:2:20 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:20) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. |
-| **VRIJHEIDSBEPERKENDE SANCTIES** | **VRIJHEIDSBEPERKENDE SANCTIES** | **VRIJHEIDSBEPERKENDE SANCTIES** |
-| **TAAKSTRAF TENUITVOERLEGGEN** | **TAAKSTRAF TENUITVOERLEGGEN** | **TAAKSTRAF TENUITVOERLEGGEN** |
-| De bevoegdheid tot het goedkeuren van werk-/leerplaatsen taakstraffen. | [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:8) en [3:11 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:11) • De Minister is bevoegd | Het CJIB/AICE is namens de Minister bevoegd. |
-| Beoordeling opgelegde taakstraf naar behoren verrichte taakstraf. | [Artikel 6:3:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:5) • De Minister is bevoegd | 3RO (volwassenen) en de RvdK (jeugdigen) zijn namens de Minister bevoegd. |
-| Eenmalig waarschuwingsgesprek in geval van overtreding en/of niet mee willen werken aan de tenuitvoerlegging van een taakstraf. | [Artikel 3:17 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:17) • Uitvoerder taakstraf is bevoegd | NB. Uitvoerder taakstraf kan ambtshalve dit besluit nemen. NB. Met uitvoerder taakstraf wordt de 3RO of RvdK bedoeld. |
-| Besluit nemen over een klacht van een taakgestrafte. | [Artikel 3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:26) en [3:27 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:27) • (Externe) klachtencommissie van de 3RO/RvdK is bevoegd |   |
-| **TOEZICHT TENUITVOERLEGGEN** | **TOEZICHT TENUITVOERLEGGEN** | **TOEZICHT TENUITVOERLEGGEN** |
-| Een aangewezen stichting, gecertificeerde instelling of reclasseringsinstelling opdracht geven het toezicht op de naleving van bijzondere voorwaarden te houden en de verdachte of de veroordeelde ten behoeve daarvan te begeleiden. | [Artikel 6:3:14 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| Toezicht te houden op de uitvoering van reclasseringswerkzaamheden met betrekking tot jeugdigen. | [Artikel 6:1:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25) • RvdK is bevoegd |   |
-| De gecertificeerde instelling inschakelen voor de vrijwillige begeleiding van een jeugdige. | [Artikel 6:1:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25) • De Minister is bevoegd | RvdK is namens de Minister bevoegd. |
-| **TOEZICHT beëindigen** | **TOEZICHT beëindigen** | **TOEZICHT beëindigen** |
-| Beëindigen toezicht op de naleving van voorwaarden door het openbaar ministerie of Onze Minister na overleg met de reclassering of de jeugdreclassering. | [Artikel 3:1 Besluit USB](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:1) • OM is bevoegd • De Minister is bevoegd |   |
-| **GELDELIJKE STRAFFEN EN MAATREGELEN** | **GELDELIJKE STRAFFEN EN MAATREGELEN** | **GELDELIJKE STRAFFEN EN MAATREGELEN** |
-| **INNING EN INCASSO** | **INNING EN INCASSO** | **INNING EN INCASSO** |
-| Zekerheidstellen na ingesteld beroepschrift op een Wahv-beschikking | [Artikel 11 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=11) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Bepalen aan te wijzen plaats en wijze van inning van een Wahv-beschikking. | [Artikel 22 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=22) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Bepalen van de dag(en) waarop de betaling van een geldboete of een maatregel uiterlijk moet geschieden. | [Artikel 6:4:1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Besluit om een betalingsregelingen/ uitstel van betaling toe te staan. | [Artikel 6:4:1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) en [Artikel 23 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=23) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. NB. de rechter (vonnis [24a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24a))/OvJ (strafbeschikking [257 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257)) kan een betalingsregeling toestaan, de Minister is bevoegd hiervan af te wijken ten gunste van de veroordeelde. |
-| Aanmanen tot betaling. | [Artikel 6:4:2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) en [Artikel 24 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=24) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Afzien van verhaal zonder of met dwangbevel. | [Artikel 6:4:3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3) en [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26), [27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Toepassen van verhaal zonder of met dwangbevel, uitvaardigen dwangbevelen. | [Artikel 6:4:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) en [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26) en [27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Besluit om een rechtsmiddel in te stellen tegen de beschikking van de rechtbank op een verzetsprocedure in een Wahv-zaak. | [Artikel 26a Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26a) • De Minister is bevoegd | Het CJIB-D&I is namens de Minister bevoegd. |
-| Innemen rijbewijs, buitengebruik stellen voertuig of aan het voertuig een mechanisch hulpmiddel aanbrengen. | [Artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28a), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28b) en [29 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=29) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** | **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** | **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** |
-| Toepassen van vervangende hechtenis geldboete. | [Artikel 6:4:3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Beëindigen gijzeling (of het niet toepassen daarvan). | [Artikel 6:6:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** | **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** | **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** |
-| Beëindigen tenuitvoerlegging van geldboetes waarvoor geen gratie kan worden verleend. | [Artikel 6:1:11 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:11) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **TERUGGAVE GELDSOMMEN** | **TERUGGAVE GELDSOMMEN** | **TERUGGAVE GELDSOMMEN** |
-| Besluit op verzoek tot teruggave borgsom na afloop van de strafzaak. | [Artikel 6:4:21 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:21) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. NB. CJIB-D&I verrekent eerst eventueel met openstaande geldelijke sancties. |
-| Verrekenen aan een verdachte of veroordeelde uit te keren bedrag met verschuldigde geldsommen. | [Artikel 6:1:13 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:13) • De Minister is bevoegd | CJIB-D&I wordt namens de Minister bevoegd. |
-| **GRATIE** | **GRATIE** | **GRATIE** |
-| **VOORSTEL TOT GRATIEVERLENING** | **VOORSTEL TOT GRATIEVERLENING** | **VOORSTEL TOT GRATIEVERLENING** |
-| Besluit om een voorstel tot gratieverlening in te dienen. | [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Besluit om een voorstel tot gratie van het OM of CJIB-AICE in overweging nemen. | [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| Besluit om een voorstel tot gratieverlening in overweging te nemen na uiterlijk 27 jaar detentie. | Artikel 49a PBW en [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| **OPSCHORTEN TENUITVOERLEGGING** | **OPSCHORTEN TENUITVOERLEGGING** | **OPSCHORTEN TENUITVOERLEGGING** |
-| Besluit tot opschorting van de strafrechtelijke beslissing waarvoor een gratieverzoek is ingediend (in afwachting van het formele gratiebesluit). | [Artikel 6:7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), [6:7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:3) en [6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| Besluit tot opschorting in afwachting van het beschikbaar hebben van een Koninklijk Besluit indien: – OM en ZM positief geadviseerd hebben. – degene die het gratieverzoek heeft ingediend hier om vraagt. | [Artikel 6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-
-1 Bij de afweging om (tijdelijk) af te zien om een veroordeelde/gesignaleerde aan te houden, kan de discretionaire bevoegdheid van de Politie aan ten grondslag liggen. Deze komt voor uit [artikel 3 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) (taak van de politie). Het komt echter niet vaak voor, maar stel dat een veroordeelde/gesignaleerde bijv. als gevolg van een medische aandoening niet vervoerd kan/mag worden, dan zou daardoor mogelijk de aanhouding uitgesteld kunnen worden.
-
-Deze beleidsregels worden met de toelichting in de Staatscourant gepubliceerd.
-
-##### Artikel 3:3a. Ambtshalve opdracht tot reclasseringstoezicht
-
-1. Indien één of meer van de volgende voorwaarden zijn gesteld of gedragsaanwijzingen zijn opgelegd zonder dat tevens reclasseringstoezicht is bevolen, geeft het CJIB/AICE ambtshalve opdracht aan een reclasseringsinstelling of een gecertificeerde instelling die jeugdreclassering uitvoert om toezicht te houden op de naleving daarvan en de verdachte of de veroordeelde daarbij te begeleiden:
-
-- a. contactverbod met elektronisch toezicht;
-
-- b. locatieverbod met elektronisch toezicht;
-
-- c. locatiegebod met elektronisch toezicht;
-
-- d. verbod om Nederland te verlaten met elektronisch toezicht;
-
-- e. drugs- of alcoholverbod en meewerken aan controle van dit verbod;
-
-- f. opname in een zorginstelling;
-
-- g. ambulante behandeling;
-
-- h. verblijf in een instelling voor begeleid wonen in de vorm van beschermd wonen, dan wel maatschappelijke opvang;
-
-- i. deelnemen aan een gedragsinterventie;
-
-- j. meldplicht bij de reclassering of gecertificeerde instelling die jeugdreclassering uitvoert;
-
-- k. volgen van een opleiding;
-
-- l. meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld;
-
-- m. verbod op andere huisvesting zonder toestemming;
-
-- n. meewerken aan controle op het gebruik van drugs of alcohol om het gebruik te kunnen beheersen;
-
-- o. verbod op deelname aan kansspelen;
-
-- p. vermijden contact met minderjarigen;
-
-- q. vermijden kinderporno.
-
-2. Indien uitsluitend één of meer van de volgende voorwaarden zijn gesteld of aanwijzingen of maatregelen zijn opgelegd zonder dat tevens reclasseringstoezicht is bevolen, geeft het CJIB/AICE geen ambtshalve opdracht tot toezicht aan de reclassering of gecertificeerde instelling die jeugdreclassering uitvoert:
-
-- a. herstel van de door het strafbare feit veroorzaakte schade;
-
-- b. betalen van een schadevergoeding;
-
-- c. storten van een waarborgsom;
-
-- d. storten van een geldbedrag in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen;
-
-- e. meewerken aan een pro Justitia-rapportage;
-
-- f. meewerken aan een advies van de reclassering of de raad voor de kinderbescherming;
-
-- g. meldplicht bij de politie;
-
-- h. verhuisplicht;
-
-- i. vestigingsverbod;
-
-- j. contactverbod zonder elektronisch toezicht;
-
-- k. locatieverbod zonder elektronisch toezicht;
-
-- l. locatiegebod zonder elektronisch toezicht;
-
-- m. verbod om Nederland te verlaten zonder elektronisch toezicht;
-
-- n. verbod op het uitoefenen van bepaalde beroepen dan wel op het verrichten van bepaalde betaalde of onbetaalde werkzaamheden;
-
-- o. verbod op het houden van dieren;
-
-- p. mediaverbod.
-
-3. Ten behoeve van een goede tenuitvoerlegging kan het CJIB/AICE na overleg met de reclassering of de raad voor de kinderbescherming afwijken van de voorgaande leden.
-
-## Titel 3.2. Tenuitvoerlegging taakstraf
-
-### Hoofdstuk 4. Geldelijke sancties
-
-## Titel 4.1. Algemeen
-
-## Titel 4.2. Inningsfase
-
-## Titel 4.3. Incassofase
-
-## Titel 4.4. Gijzeling, vervangende hechtenis en lijfsdwang
-
-## Titel 4.5. Slachtoffers
-
-## Titel 4.6. Betalingsregelingen
-
-## Titel 4.7. [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581)
-
-### Hoofdstuk 5. Gratie
-
-### Hoofdstuk 6. Slotbepalingen
-
-## Bijlage. USB bevoegdhedenschema
-
-In de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962) en de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978) zijn zowel verantwoordelijkheden, als daarmee samenhangende bevoegdheden bij de Minister belegd. De wijze waarop uitvoering moet worden gegeven aan de bevoegdheden wordt geregeld in deze beleidsregels en het samenwerkingsreglement. In de matrix is getracht om de hoogst geldende wet dan wel regelgeving te benoemen. Mogelijk is het genoemde wetsartikel in de lagere wet- of regelgeving verder uitgewerkt.
-
-| BEVOEGDHEID | WIE IS BEVOEGD? | Toelichting op bevoegdheid |
-| --- | --- | --- |
-| **TAKEN EN BEVOEGDHEDEN** | **TAKEN EN BEVOEGDHEDEN** | **TAKEN EN BEVOEGDHEDEN** |
-| **OM-ADVIES** | **OM-ADVIES** | **OM-ADVIES** |
-| Het OM verzoeken een advies uit te brengen dan wel aan te vullen. | [Artikel 6:1:10 lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd indien dit noodzakelijk is voor het bepalen van de tenuitvoerleggingsvolgorde / persoonsgerichte beoordeling. De uitvoeringsorganisaties: DJI, 3RO, GI, RvdK, CJIB-I&I, etc. zijn namens de Minister bevoegd indien dit nodig is voor de daadwerkelijke tenuitvoerlegging van de strafrechtelijke beslissing(en). |
-| **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** | **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** | **AANVANG, SCHORSING, BEËINDIGING EN TENUITVOERLEGGINGSTERMIJN** |
-| Bepalen datum onherroepelijk. | [Artikel 6:1:16](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:16), [6:1:17](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:17) en [6:1:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| **BEREKENEN TENUITVOERLEGGINGSTERMIJN** | **BEREKENEN TENUITVOERLEGGINGSTERMIJN** | **BEREKENEN TENUITVOERLEGGINGSTERMIJN** |
-| Berekenen tenuitvoerleggingstermijn. | [Artikel 6:1:23 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:23) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Schorsen/opschorten tenuitvoerleggingstermijn. | [Artikel 6:1:18 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18), [6:1:19](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:19), [6:1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:20), [6:1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:23) en [6:1:24 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:24) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| **OPSPOREN VEROORDEELDEN EN VERDACHTEN** | **OPSPOREN VEROORDEELDEN EN VERDACHTEN** | **OPSPOREN VEROORDEELDEN EN VERDACHTEN** |
-| Opstellen en beschikbaar stellen van een last tot tenuitvoerlegging die strekt tot aanhouding van een verdachte of veroordeelde in het kader van de [Wet USB](https://wetten.overheid.nl/jci1.3:c:BWBR0039301). | [Artikel 6:1:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:5) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Innen van gelden door een opsporingsambtenaar. | [Artikel 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:5) en [4:6 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=4:6) • De Minister is bevoegd | De opsporingsambtenaar is namens de Minister bevoegd. |
-| De beoordeling tijdens / voorafgaand aan de aanhouding of een veroordeelde ‘arrestatiegeschikt’ is door de opsporingsambtenaar. | [Artikel 3 Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) 1 • Politie is bevoegd |   |
-| Besluit op verzoek i.v.m. mogelijke persoonsverwisseling. | [Artikel 6:1:6 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:6), [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=52) en [27a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27a), Wivvg en het Protocol Identiteitsvaststelling • De Minister is bevoegd | Justid (matchingsautoriteit) is namens de Minister bevoegd om een verzoek te doen om een nader onderzoek in te stellen. De opsporingsambtenaar is namens de Minister bevoegd om op het verzoek onderzoek te doen. |
-| **PASPOORTSIGNALERING** | **PASPOORTSIGNALERING** | **PASPOORTSIGNALERING** |
-| Weigeren of vervallen verklaren van een paspoort. | [Artikel 18 paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18) (nieuw) • De Minister is bevoegd (in het kader van de tenuitvoerlegging van strafrechtelijke beslissingen | CJIB-AICE is namens de Minister bevoegd. |
-| **VORDEREN VAN GEGEVENS** | **VORDEREN VAN GEGEVENS** | **VORDEREN VAN GEGEVENS** |
-| Een ieder vorderen om de inlichtingen te verstrekken die redelijkerwijs noodzakelijk zijn voor de tenuitvoerlegging van een vonnis, een arrest of een strafbeschikking. | [Artikel 6:1:9 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:9) en [artikel 22 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=22) • De Minister is bevoegd | Iedere uitvoeringsorganisatie is namens de Minister bevoegd t.b.v. de uitvoering van zijn taak. |
-| **VRIJHEIDSBENEMENDE SANCTIES** | **VRIJHEIDSBENEMENDE SANCTIES** | **VRIJHEIDSBENEMENDE SANCTIES** |
-| **ZELFMELDERS** | **ZELFMELDERS** | **ZELFMELDERS** |
-| Besluit of veroordeelde (volwassene of jeugdige) in aanmerking komt voor het zelfmelden. | [Artikel 2.2 Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=2:2) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Oproepen veroordeelde als zelfmelder. | Artikel 2.2 MR USB + [art. 15 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) + [art. 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| Besluit op een door de veroordeelde ingesteld bezwaar/verzoek tot uitstel n.a.v. de zelfmeldoproep. | Artikel 2.4 MR USB + [artikel 17 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=17) + [artikel 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| Besluit op een door de veroordeelde ingesteld beroep n.a.v. het besluit in een bezwaarprocedure tegen een zelfmeldoproep. | [Artikel 73 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=73) en [artikel 78 Beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=78) • Een door de RSJ benoemde commissie is bevoegd |   |
-| Besluit tot het intrekken zelfmeldoproep. | Artikel 2.2 MR USB + [artikel 15 PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) + [artikel 12 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. |
-| **ONDERBREKEN VAN DE LOPENDE DETENTIE** | **ONDERBREKEN VAN DE LOPENDE DETENTIE** | **ONDERBREKEN VAN DE LOPENDE DETENTIE** |
-| Besluit tot strafonderbreking detentie. | [Artikel 6:2:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4) en de [artikelen 34 t/m 40 Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=34) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. NB. Verzoek strafonderbreking komt van OM, veroordeelde/raadsman of ambtshalve |
-| Besluit tot strafonderbreking voor vreemdelingen zonder rechtmatig verblijf. | [Artikel 6:2:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:4) en [art. 40a Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=40a) • De Minister is bevoegd | DJI-DIZ is bevoegd namens de Minister. NB. Verzoek strafonderbreking komt van AVIM/KMar of DT&V |
-| **DETENTIEGESCHIKTHEID** | **DETENTIEGESCHIKTHEID** | **DETENTIEGESCHIKTHEID** |
-| Besluit op verzoek tot opschorten detentie als gevolg van afwezigheid detentiegeschiktheid, voorafgaand aan de detentie (veroordeelde) en wordt aangehouden door de politie. | De [ambtsinstructie van de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006589)[hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=5) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6) • Politie is bevoegd | De politie is hiervoor feitelijk verantwoordelijk (het gaat hier om het nemen van een besluit en niet om een aanvraag/verzoek). |
-| Besluit tot opschorting van de tenuitvoerlegging van een detentie als gevolg van een ingediend gratieverzoek. | [Artikel 6:7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), [6:7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:3), [6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| **TENUITVOERLEGGEN ISD-MAATREGEL** | **TENUITVOERLEGGEN ISD-MAATREGEL** | **TENUITVOERLEGGEN ISD-MAATREGEL** |
-| Besluit tot opschorten tenuitvoerlegging overige vrijheidsbenemende sancties als gevolg van de tenuitvoerlegging van de ISD-maatregel. | Artikel 2.5 MR wet USB • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd om de tenuitvoerleggingsvolgorde te bepalen. Het AICE bepaald welke sancties voorafgaand aan de uitvoering van de ISD-maatregel uitgevoerd worden, en van welke sancties de uitvoering opgeschort wordt. |
-| Besluit beëindigen tenuitvoerlegging overige straffen nadat een ISD-maatregel naar behoren ten uitvoer is gelegd. | [Artikel 6:1:11](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:11), [6:7:1 e.v. Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:1) • De Minister is bevoegd | Het CJIB-D&I beëindigd namens de Minister eventuele de rechtelijke boetes onder de 340,00 euro. Dienst Justis is namens de Minister bevoegd om een gratiebesluit te nemen op de (eventuele) nog openstaande vrijheidsbenemende sancties (op verzoek van de veroordeelde). |
-| **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** | **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** | **DETENTIEFASERING LEVENSLANGE GEVANGENISSTRAF** |
-| Besluit of de levenslanggestrafte in aanmerking komt voor re-integratieactiviteiten. | Artikel 49a PBW • De Minister is bevoegd | DJI is namens de Minister bevoegd een voorgenomen besluit op te stellen. De bewindspersoon neemt het definitieve besluit. |
-| **TENUITVOERLEGGING TBS-MAATREGEL** | **TENUITVOERLEGGING TBS-MAATREGEL** | **TENUITVOERLEGGING TBS-MAATREGEL** |
-| **TENUITVOERLEGGEN PIJ-MAATREGEL** | **TENUITVOERLEGGEN PIJ-MAATREGEL** | **TENUITVOERLEGGEN PIJ-MAATREGEL** |
-| Besluit nemen tot intrekking of schorsing van de voorwaardelijke beëindiging van de PIJ-maatregel | [Artikel 2:17 Besluit USB](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=2:17) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. |
-| **ONGEOORLOOFD AFWEZIG** | **ONGEOORLOOFD AFWEZIG** | **ONGEOORLOOFD AFWEZIG** |
-| Melden ongeoorloofde afwezigheid van een gedetineerde/verpleegde. | [Artikel 5a PBW](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a), [artikel 5 beginselenwet JJI](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5) en [artikel 7a beginselenwet verpleging TBS-gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a) • De directeur/hoofd van de inrichting is bevoegd |   |
-| Melding geven indien de ongeoorloofd afwezige zichzelf meldt bij de inrichting/kliniek. | [Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=2.9), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=3.7) en [4.10 Regeling melding ongeoorloofde afwezigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&artikel=4.10) • De directeur/hoofd van de inrichting is bevoegd |   |
-| **BEËINDIGEN TENUITVOERLEGGING** | **BEËINDIGEN TENUITVOERLEGGING** | **BEËINDIGEN TENUITVOERLEGGING** |
-| Beëindigen tenuitvoerlegging. | [Artikel 6:1:24 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:24) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. NB. na binnenkomst positief afloopbericht buitenlandse autoriteit. |
-| Besluit tot uitzetting van een TBS-gestelde. | [Artikel 6:2:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. NB. Kan ook door de ZM, zie [artikel 6:6:10 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:10). |
-| Beëindigen TBS-maatregel ten aanzien van de vreemdeling die is uitgezet. | [Artikel 6:2:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:18) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| PIJ voorwaardelijk of onvoorwaardelijk beëindigen op advies van de RvdK. | [Artikel 6:2:22 lid 3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:22) • De Minister is bevoegd | DJI is namens de Minister bevoegd. |
-| Beëindigen tenuitvoerlegging maatregel opname Psychiatrisch Ziekenhuis. | [Artikel 8:18 WvGGZ](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=8:18) • Geneesheer-Directeur is bevoegd |   |
-| Onmiddellijke invrijheidstelling indien de Minister de tenuitvoerlegging van de vrijheidsbenemende straffen en maatregelen beëindigd. | [Artikel 6:2:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:5) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| Beëindigen tenuitvoerlegging ISD-maatregel. | [Artikel 6:2:20 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:20) • De Minister is bevoegd | DJI-DIZ is namens de Minister bevoegd. |
-| **VRIJHEIDSBEPERKENDE SANCTIES** | **VRIJHEIDSBEPERKENDE SANCTIES** | **VRIJHEIDSBEPERKENDE SANCTIES** |
-| **TAAKSTRAF TENUITVOERLEGGEN** | **TAAKSTRAF TENUITVOERLEGGEN** | **TAAKSTRAF TENUITVOERLEGGEN** |
-| De bevoegdheid tot het goedkeuren van werk-/leerplaatsen taakstraffen. | [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:8) en [3:11 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:11) • De Minister is bevoegd | Het CJIB/AICE is namens de Minister bevoegd. |
-| Beoordeling opgelegde taakstraf naar behoren verrichte taakstraf. | [Artikel 6:3:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:5) • De Minister is bevoegd | 3RO (volwassenen) en de RvdK (jeugdigen) zijn namens de Minister bevoegd. |
-| Eenmalig waarschuwingsgesprek in geval van overtreding en/of niet mee willen werken aan de tenuitvoerlegging van een taakstraf. | [Artikel 3:17 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:17) • Uitvoerder taakstraf is bevoegd | NB. Uitvoerder taakstraf kan ambtshalve dit besluit nemen. NB. Met uitvoerder taakstraf wordt de 3RO of RvdK bedoeld. |
-| Besluit nemen over een klacht van een taakgestrafte. | [Artikel 3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:26) en [3:27 Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:27) • (Externe) klachtencommissie van de 3RO/RvdK is bevoegd |   |
-| **TOEZICHT TENUITVOERLEGGEN** | **TOEZICHT TENUITVOERLEGGEN** | **TOEZICHT TENUITVOERLEGGEN** |
-| Een aangewezen stichting, gecertificeerde instelling of reclasseringsinstelling opdracht geven het toezicht op de naleving van bijzondere voorwaarden te houden en de verdachte of de veroordeelde ten behoeve daarvan te begeleiden. | [Artikel 6:3:14 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) • De Minister is bevoegd | Het CJIB-AICE is namens de Minister bevoegd. |
-| Toezicht te houden op de uitvoering van reclasseringswerkzaamheden met betrekking tot jeugdigen. | [Artikel 6:1:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25) • RvdK is bevoegd |   |
-| De gecertificeerde instelling inschakelen voor de vrijwillige begeleiding van een jeugdige. | [Artikel 6:1:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:25) • De Minister is bevoegd | RvdK is namens de Minister bevoegd. |
-| **TOEZICHT beëindigen** | **TOEZICHT beëindigen** | **TOEZICHT beëindigen** |
-| Beëindigen toezicht op de naleving van voorwaarden door het openbaar ministerie of Onze Minister na overleg met de reclassering of de jeugdreclassering. | [Artikel 3:1 Besluit USB](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:1) • OM is bevoegd • De Minister is bevoegd |   |
-| **GELDELIJKE STRAFFEN EN MAATREGELEN** | **GELDELIJKE STRAFFEN EN MAATREGELEN** | **GELDELIJKE STRAFFEN EN MAATREGELEN** |
-| **INNING EN INCASSO** | **INNING EN INCASSO** | **INNING EN INCASSO** |
-| Zekerheidstellen na ingesteld beroepschrift op een Wahv-beschikking | [Artikel 11 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=11) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Bepalen aan te wijzen plaats en wijze van inning van een Wahv-beschikking. | [Artikel 22 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=22) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Bepalen van de dag(en) waarop de betaling van een geldboete of een maatregel uiterlijk moet geschieden. | [Artikel 6:4:1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Besluit om een betalingsregelingen/ uitstel van betaling toe te staan. | [Artikel 6:4:1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:1) en [Artikel 23 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=23) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. NB. de rechter (vonnis [24a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=24a))/OvJ (strafbeschikking [257 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257)) kan een betalingsregeling toestaan, de Minister is bevoegd hiervan af te wijken ten gunste van de veroordeelde. |
-| Aanmanen tot betaling. | [Artikel 6:4:2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) en [Artikel 24 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=24) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Afzien van verhaal zonder of met dwangbevel. | [Artikel 6:4:3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3) en [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26), [27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Toepassen van verhaal zonder of met dwangbevel, uitvaardigen dwangbevelen. | [Artikel 6:4:5 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) en [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26) en [27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Besluit om een rechtsmiddel in te stellen tegen de beschikking van de rechtbank op een verzetsprocedure in een Wahv-zaak. | [Artikel 26a Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26a) • De Minister is bevoegd | Het CJIB-D&I is namens de Minister bevoegd. |
-| Innemen rijbewijs, buitengebruik stellen voertuig of aan het voertuig een mechanisch hulpmiddel aanbrengen. | [Artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28a), [28b](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=28b) en [29 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=29) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** | **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** | **TOEPASSEN VERVANGENDE HECHTENIS / GIJZELING** |
-| Toepassen van vervangende hechtenis geldboete. | [Artikel 6:4:3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:3) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| Beëindigen gijzeling (of het niet toepassen daarvan). | [Artikel 6:6:25 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:25) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** | **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** | **BEËINDIGEN TENUITVOERLEGGING GELDELIJKE SANCTIE** |
-| Beëindigen tenuitvoerlegging van geldboetes waarvoor geen gratie kan worden verleend. | [Artikel 6:1:11 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:11) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. |
-| **TERUGGAVE GELDSOMMEN** | **TERUGGAVE GELDSOMMEN** | **TERUGGAVE GELDSOMMEN** |
-| Besluit op verzoek tot teruggave borgsom na afloop van de strafzaak. | [Artikel 6:4:21 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:21) • De Minister is bevoegd | CJIB-D&I is namens de Minister bevoegd. NB. CJIB-D&I verrekent eerst eventueel met openstaande geldelijke sancties. |
-| Verrekenen aan een verdachte of veroordeelde uit te keren bedrag met verschuldigde geldsommen. | [Artikel 6:1:13 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:13) • De Minister is bevoegd | CJIB-D&I wordt namens de Minister bevoegd. |
-| **GRATIE** | **GRATIE** | **GRATIE** |
-| **VOORSTEL TOT GRATIEVERLENING** | **VOORSTEL TOT GRATIEVERLENING** | **VOORSTEL TOT GRATIEVERLENING** |
-| Besluit om een voorstel tot gratieverlening in te dienen. | [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | CJIB-AICE is namens de Minister bevoegd. |
-| Besluit om een voorstel tot gratie van het OM of CJIB-AICE in overweging nemen. | [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| Besluit om een voorstel tot gratieverlening in overweging te nemen na uiterlijk 27 jaar detentie. | Artikel 49a PBW en [Artikel 19 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=19) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| **OPSCHORTEN TENUITVOERLEGGING** | **OPSCHORTEN TENUITVOERLEGGING** | **OPSCHORTEN TENUITVOERLEGGING** |
-| Besluit tot opschorting van de strafrechtelijke beslissing waarvoor een gratieverzoek is ingediend (in afwachting van het formele gratiebesluit). | [Artikel 6:7:2](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2), [6:7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:3) en [6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-| Besluit tot opschorting in afwachting van het beschikbaar hebben van een Koninklijk Besluit indien: – OM en ZM positief geadviseerd hebben. – degene die het gratieverzoek heeft ingediend hier om vraagt. | [Artikel 6:7:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:4) • De Minister is bevoegd | Dienst Justis is namens de Minister bevoegd. |
-
-1 Bij de afweging om (tijdelijk) af te zien om een veroordeelde/gesignaleerde aan te houden, kan de discretionaire bevoegdheid van de Politie aan ten grondslag liggen. Deze komt voor uit [artikel 3 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3) (taak van de politie). Het komt echter niet vaak voor, maar stel dat een veroordeelde/gesignaleerde bijv. als gevolg van een medische aandoening niet vervoerd kan/mag worden, dan zou daardoor mogelijk de aanhouding uitgesteld kunnen worden.
-
-Deze beleidsregels worden met de toelichting in de Staatscourant gepubliceerd.

@@ -1,35 +1,16 @@
 ---
 title: "Nota Integriteitsbeleid NWO, Nederlandse organisatie voor Wetenschappelijk Onderzoek"
 identifier: "BWBR0045189"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-06-01"
-last_updated: "2021-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045189"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15972343"
-version_id: "27794082"
-internal_id: "C39200161"
-label_id: "15906554"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045189/2021-06-01/0"
-intitule_bron: "Stcrt.2021-27047"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-06-01"
-intitule_in_force: "2021-06-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-27047"
-original_published_date: "2021-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-27047"
-entry_into_force_date: "2021-06-01"
-jci_1_3: "jci1.3:c:BWBR0045189&z=2021-06-01&g=2021-06-01"
-jci_1_0: "1.0:c:BWBR0045189&g=2021-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-06-01"
+publicatiedatum: 2021-06-01
+laatste_update: 2021-06-01
+status: geldig
+toestand: 2021-06-01
+bron: "https://wetten.overheid.nl/BWBR0045189"
+opgehaald: 2026-08-31
 ---
+
 # Nota Integriteitsbeleid NWO, Nederlandse organisatie voor Wetenschappelijk Onderzoek
 
 ### 1. Inleiding
@@ -44,11 +25,19 @@ Om het belang van integriteit te benadrukken, heeft NWO onderhavig document opge
 
 Het integriteitsbeleid van NWO is gebaseerd op de Kernwaarden van NWO1De Kernwaarden zijn verwoord in de NWO-strategie Verbinden van Wetenschap en Samenleving 2019-2022:
 
+- ○ *Grensverleggend*: NWO pioniert en verlegt de grenzen van bestaande kennis, toepassingen en processen;
+
+- ○ *Betrokken:* NWO anticipeert op ontwikkelingen in de wetenschap en in de maatschappij;
+
+- ○ *Betrouwbaar*: NWO doet wat zij belooft, is integer, transparant en zorgvuldig;
+
+- ○ *Verbindend*: NWO heeft een open houding en verbindt actoren, expertises en agenda’s.
+
 ### 3. Definitie
 
 Uit bovengenoemde kernwaarden kan een definitie van “integriteit” worden gedestilleerd. Een universele, algemeen toepasbare definitie van integriteit bestaat niet. Integriteit is plaats-, tijd- en context gebonden. NWO pretendeert derhalve niet, de maat der dingen te willen zijn. Wél stelt NWO, vanuit de maatschappelijke rol die zij vervult en de positie die zij als verstrekker van publieke middelen inneemt, hoge eisen aan haar organisatie en iedereen die bij, namens of met NWO werkt. Een voor NWO werkbare definitie, die weergeeft wat NWO onder integriteit verstaat, is de volgende:
 
-“ **Iedereen die bij, namens of met NWO werkt handelt conform de integriteitsprincipes. We nemen wettelijke voorschriften in acht, handelen op basis van algemeen aanvaarde normen en gedragsregels en zijn ons bewust van onze eigen verantwoordelijkheid. We handelen zorgvuldig, zijn betrouwbaar, eerlijk en onpartijdig en aanspreekbaar op ons gedrag**.”
+“ *Iedereen die bij, namens of met NWO werkt handelt conform de integriteitsprincipes. We nemen wettelijke voorschriften in acht, handelen op basis van algemeen aanvaarde normen en gedragsregels en zijn ons bewust van onze eigen verantwoordelijkheid. We handelen zorgvuldig, zijn betrouwbaar, eerlijk en onpartijdig en aanspreekbaar op ons gedrag*.”
 
 Deze definitie is richtinggevend, maar niet allesbepalend, voor wat integer is. Het handelen van personen die bij of namens NWO werken, wordt in voorkomend geval getoetst aan de normen die zijn neergelegd in de diverse regelingen waar NWO aan gebonden is.
 
@@ -111,3 +100,13 @@ Te allen tijde vormt de geldende versie van enige hier genoemde regeling, hoe oo
 ### 6. Voorzieningen op het gebied van integriteit
 
 Onderdeel van het integriteitsbeleid van NWO is onder meer een training Gewenst Gedrag voor medewerkers. Daarnaast zal het bewaken van de organisatorische integriteit tot de taken kunnen behoren van de Compliance Officer. Maar wat zijn uiteindelijk de mogelijke wegen, om te bewandelen in geval van (een vermoeden van) schending van een integriteitsnorm?
+
+- 1. *Meldpunt wetenschappelijke integriteit* NWO heeft een Klachtenregeling Wetenschappelijke Integriteit. Op grond hiervan kan eenieder bij NWO klagen over schending van de wetenschappelijke integriteit, zoals plagiaat, datamanipulatie etc, als een financieringsrelatie met NWO bestaat én als de klacht niet op enige grond aan een commissie wetenschappelijk integriteit van de betrokken instelling kan worden voorgelegd. Klachten worden ingediend bij het Meldpunt Wetenschappelijke Integriteit (meldpuntintegriteit@nwo.nl), die deze volgens de genoemde klachtenregeling afhandelt. ZonMw is bij dit meldpunt aangesloten.
+
+- 2. *Klachtenregeling* Daarnaast kent NWO een algemene klachtenregeling. Die voorziet in de behandeling van klachten die geen betrekking hebben op *wetenschappelijk*e integriteit, maar – naast een veelheid aan denkbare onderwerpen – wel andersoortige integriteitskwesties kunnen betreffen. Voor dergelijke klachten is er ook een meldpunt (klachten@nwo.nl).
+
+- 3. *Vertrouwenspersoon* Iedereen kan te maken krijgen met (seksuele) intimidatie, agressie, geweld, pesten of discriminatie, samen te vatten als “ongewenst gedrag”. Niet elke situatie hoeft tot een klacht te leiden, soms is een oplossing te bereiken middels een gesprek. Soms echter, is het indienen van een klacht het laatste middel. Daarvoor heeft NWO (externe) vertrouwenspersonen, die kunnen bemiddelen, begeleiden en ondersteunen. De vertrouwenspersoon wordt aangesteld op grond van de Gedragscode seksuele intimidatie, agressie, geweld, pesten en discriminatie, die is opgenomen in Uitvoeringsregeling 13 bij de cao. Ook persoonlijke morele dilemma’s die niet direct een klacht behelzen, kunnen met de vertrouwens-persoon worden besproken. Op grond van de al genoemde UR 13 bij de cao, kan zo nodig ook een formele klacht wegens ongewenst gedrag worden ingediend bij de Raad van Bestuur, die daarop dan beslist na advies van de Adviescommissie Personeelsaangelegenheden. De vertrouwenspersonen voor medewerkers van NWO-D zijn Anton de Leeuw en Lillian Vermeulen, werkzaam bij CVP-Plus. Zij zijn bereikbaar via 070-2600032, of info@cvp-plus.nl.
+
+- 4. *Klokkenluidersregeling* NWO gaat er natuurlijk vanuit, dat binnen de organisatie op een verantwoorde en eerlijke manier wordt gewerkt. Het kan echter zijn, dat er zaken niet goed gaan, of zelfs dat sprake is van misstanden. Dan is het belangrijk, dat dat wordt gesignaleerd en veilig kan worden gemeld. Als je een misstand vermoedt, kun je daar soms misschien gewoon de collega(‘s) in kwestie op aanspreken, of je vermoeden melden bij je leidinggevende. Voor het geval dat dat niet kan, of niets oplevert, is er ook een klokkenluidersregeling, neergelegd in Uitvoeringsregeling 14. Klokkenluiden is het door een werknemer bekend maken van een (vermoeden van een) misstand, die plaatsvindt onder verantwoordelijkheid van NWO, waarbij het maatschappelijk belang in het geding is. Denk aan een (dreigend) strafbaar feit, gevaar voor de volksgezondheid, de veiligheid of het milieu. Iedere NWO-medewerker moet op een veilige en effectieve manier onbelemmerd een (vermoeden van een) misstand kunnen melden, zonder te hoeven vrezen voor gevolgen. Deze meldingen kunnen worden gedaan aan een Vertrouwenspersoon Klokkenluiden, waarna de Raad van Bestuur een onderzoek instelt. De vertrouwenspersoon Klokkenluidersregeling voor medewerkers van NWO-D is Marco de Vos, bereikbaar via 0521-595247 en per email: devos@astron.nl.
+
+- 5. *Melding conform Fraudeprotocol* Als het over integriteit gaat, is ook het voorkomen en bestrijden van fraude van belang. De afdeling Internal Audit (IA) van NWO adviseert onder andere over de kwaliteit van de interne beheersing van processen binnen NWO en is betrokken bij onderzoek naar vermoedens van fraude. Bij vermoedens van fraude, dient acuut te worden gehandeld, volgens de stappen die worden genoemd in het Fraudeprotocol.

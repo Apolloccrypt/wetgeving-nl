@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 9 februari 2021, houdende vaststelling van regels met betrekking tot het verlenen van clementie voor geldboetes betreffende kartels (Besluit clementie)"
+citeertitel: "Besluit clementie"
 identifier: "BWBR0044822"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-02-18"
-last_updated: "2021-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044822"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15847013"
-version_id: "27528352"
-internal_id: "C38844771"
-label_id: "15782944"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044822/2021-02-18/0"
-intitule_bron: "Stb.2021-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-09"
-intitule_published: "2021-02-17"
-intitule_in_force: "2021-02-17"
-intitule_status: "goed"
-original_publication: "Stb.2021-73"
-original_signed_date: "2021-02-09"
-original_published_date: "2021-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-73"
-entry_into_force_date: "2021-02-18"
-jci_1_3: "jci1.3:c:BWBR0044822&z=2021-02-18&g=2021-02-18"
-jci_1_0: "1.0:c:BWBR0044822&g=2021-02-18"
-citeertitel_status: "officieel"
-short_title: "Besluit clementie"
-signed_date: "2021-02-09"
-entry_into_force: "2021-02-18"
+publicatiedatum: 2021-02-18
+laatste_update: 2021-02-18
+status: geldig
+toestand: 2021-02-18
+bron: "https://wetten.overheid.nl/BWBR0044822"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 9 februari 2021, houdende vaststelling van regels met betrekking tot het verlenen van clementie voor geldboetes betreffende kartels (Besluit clementie)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 2 november 2020, nr. WJZ / 20238176;
-
-Gelet op richtlijn nr. [richtlijn 2019/1](32019L0001) van het Europees Parlement en de Raad tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt en [artikel 58c Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=58c);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 13 januari 2021, No.W18.20.0400/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken en Klimaat van 4 februari 2021, nr. WJZ / 21015285;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet tot wijziging van de Mededingingswet en de Instellingswet Autoriteit Consument en Markt in verband met de implementatie van richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt (PbEU 2019, L 11) tot wet is of wordt verheven en artikel II, onderdeel J, van die wet in werking treedt (Stb. 2021/9).
 
 #### § 1. Begripsbepalingen en reikwijdte
 
@@ -54,29 +20,30 @@ Treedt in werking op het tijdstip waarop de Wet tot wijziging van de Mededinging
 
 In dit besluit wordt verstaan onder:
 
-- **ACM:** Autoriteit Consument en Markt;
+- *ACM:* Autoriteit Consument en Markt;
 
-- **Bewijsmateriaal met significante toegevoegde waarde:** bewijsmateriaal dat het vermogen van de ACM versterkt om het bestaan van een vermeend geheim kartel te bewijzen, ten opzichte van het bewijsmateriaal waarover de ACM op het tijdstip van verstrekking reeds beschikt;
+- *Bewijsmateriaal met significante toegevoegde waarde:* bewijsmateriaal dat het vermogen van de ACM versterkt om het bestaan van een vermeend geheim kartel te bewijzen, ten opzichte van het bewijsmateriaal waarover de ACM op het tijdstip van verstrekking reeds beschikt;
 
-- **Boete-immuniteit:** afzien van de geldboete die aan een onderneming of aan een natuurlijke persoon zou worden opgelegd voor haar deelname aan een geheim kartel, als beloning voor de samenwerking van die onderneming of natuurlijke persoon met een mededingingsautoriteit in het kader van een clementieprocedure;
+- *Boete-immuniteit:* afzien van de geldboete die aan een onderneming of aan een natuurlijke persoon zou worden opgelegd voor haar deelname aan een geheim kartel, als beloning voor de samenwerking van die onderneming of natuurlijke persoon met een mededingingsautoriteit in het kader van een clementieprocedure;
 
-- **Boetevermindering:** vermindering van het bedrag van de geldboete die aan een onderneming of aan een natuurlijke persoon zou worden opgelegd voor haar deelname aan een geheim kartel, als tegenprestatie voor de samenwerking van die onderneming met een mededingingsautoriteit in het kader van een clementieprocedure;
+- *Boetevermindering:* vermindering van het bedrag van de geldboete die aan een onderneming of aan een natuurlijke persoon zou worden opgelegd voor haar deelname aan een geheim kartel, als tegenprestatie voor de samenwerking van die onderneming met een mededingingsautoriteit in het kader van een clementieprocedure;
 
-- **Clementie:** de verlening van boete-immuniteit of boetevermindering aan een onderneming die heeft deelgenomen aan een geheim kartel of aan een natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een geheim kartel heeft gegeven;
+- *Clementie:* de verlening van boete-immuniteit of boetevermindering aan een onderneming die heeft deelgenomen aan een geheim kartel of aan een natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), die opdracht tot of feitelijk leiding aan de deelname van een onderneming aan een geheim kartel heeft gegeven;
 
-- **Clementieverklaring:** vrijwillig door of namens een onderneming of een natuurlijke persoon aan een mededingingsautoriteit afgelegde mondelinge of schriftelijke verklaring of opname daarvan, waarin de onderneming of een natuurlijke persoon zijn kennis over het geheime kartel en zijn rol daarin mededeelt, en die speciaal ten behoeve van die autoriteit is opgesteld met het oog op het verkrijgen van boete-immuniteit of boetevermindering, met uitzondering van bewijsmateriaal dat los van de handhavingsprocedure bestaat, ongeacht of deze informatie zich al dan niet in het dossier van een mededingingsautoriteit bevindt;
+- *Clementieverklaring:* vrijwillig door of namens een onderneming of een natuurlijke persoon aan een mededingingsautoriteit afgelegde mondelinge of schriftelijke verklaring of opname daarvan, waarin de onderneming of een natuurlijke persoon zijn kennis over het geheime kartel en zijn rol daarin mededeelt, en die speciaal ten behoeve van die autoriteit is opgesteld met het oog op het verkrijgen van boete-immuniteit of boetevermindering, met uitzondering van bewijsmateriaal dat los van de handhavingsprocedure bestaat, ongeacht of deze informatie zich al dan niet in het dossier van een mededingingsautoriteit bevindt;
 
-- **Clementieverzoek:** een verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=12&z=2021-02-18&g=2021-02-18) van dit besluit, een beknopt verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=13&z=2021-02-18&g=2021-02-18) van dit besluit of een verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18) van dit besluit;
+- *Clementieverzoek:* een verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=12&z=2021-02-18&g=2021-02-18) van dit besluit, een beknopt verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=13&z=2021-02-18&g=2021-02-18) van dit besluit of een verzoek om boete-immuniteit of boetevermindering dat voldoet aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18) van dit besluit;
 
-- **Clementieverzoeker:** onderneming of natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) die verzoekt om boete-immuniteit of boetevermindering;
+- *Clementieverzoeker:* onderneming of natuurlijke persoon als bedoeld in [artikel 51, tweede lid, onder 2°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51) die verzoekt om boete-immuniteit of boetevermindering;
 
-- **Geheim kartel:** een kartel waarvan het bestaan gedeeltelijk of geheel verborgen wordt gehouden;
+- *Geheim kartel:* een kartel waarvan het bestaan gedeeltelijk of geheel verborgen wordt gehouden;
 
-- **Kartel:** een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel hun concurrentiegedrag op de markt te coördineren of de relevante parameters van mededinging te beïnvloeden in strijd met artikel 101 van het Verdrag betreffende de werking van de Europese Unie of [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6);
+- *Kartel:* een overeenkomst of onderling afgestemde feitelijke gedraging tussen twee of meer concurrenten met als doel hun concurrentiegedrag op de markt te coördineren of de relevante parameters van mededinging te beïnvloeden in strijd met artikel 101 van het Verdrag betreffende de werking van de Europese Unie of [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6);
 
-- **Marker:** een voorlopige plaats in de rij van volgorde van ontvangst van clementieverzoeken betreffende eenzelfde kartel.
+- *Marker:* een voorlopige plaats in de rij van volgorde van ontvangst van clementieverzoeken betreffende eenzelfde kartel.
 
-- **Wet:** [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
+- *Wet:*
+ [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691).
 
 ##### Artikel 2
 
@@ -84,7 +51,7 @@ Dit besluit is van toepassing op geheime kartels waarvoor de ACM een bestuurlijk
 
 #### § 2. Clementie
 
-#### § 2.1. Algemeen
+##### § 2.1. Algemeen
 
 ##### Artikel 3
 
@@ -112,7 +79,7 @@ De ACM beslist op een verzoek om clementie.
 
 - e. een clementieverklaring indient die voldoet aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18).
 
-#### § 2.2. Boete-immuniteit
+##### § 2.2. Boete-immuniteit
 
 ##### Artikel 5
 
@@ -126,15 +93,15 @@ De ACM beslist op een verzoek om clementie.
 
 - d. als eerste bewijsmateriaal verstrekt dat
 
-- i. de ACM in staat stelt om een gerichte inspectie uit te voeren verband houdend met het vermeende geheime kartel waar het clementieverzoek betrekking op heeft, mits de ACM op het moment van verstrekking van het bewijsmateriaal nog niet over voldoende bewijsmateriaal beschikte om een dergelijke inspectie uit te voeren; of
+   - i. de ACM in staat stelt om een gerichte inspectie uit te voeren verband houdend met het vermeende geheime kartel waar het clementieverzoek betrekking op heeft, mits de ACM op het moment van verstrekking van het bewijsmateriaal nog niet over voldoende bewijsmateriaal beschikte om een dergelijke inspectie uit te voeren; of
 
-- ii. naar het oordeel van de ACM voldoende is om een inbreuk op het mededingingsrecht, waarvoor op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.1&artikel=4&z=2021-02-18&g=2021-02-18) van dit besluit clementie kan worden verleend, te kunnen vaststellen, mits de ACM op het moment van verstrekking van het bewijsmateriaal nog niet over voldoende bewijsmateriaal beschikte om een dergelijke inbreuk te kunnen vaststellen en geen enkele andere onderneming eerder in aanmerking is gekomen voor boete-immuniteit op grond van punt i, met betrekking tot dat vermeende geheime kartel.
+   - ii. naar het oordeel van de ACM voldoende is om een inbreuk op het mededingingsrecht, waarvoor op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.1&artikel=4&z=2021-02-18&g=2021-02-18) van dit besluit clementie kan worden verleend, te kunnen vaststellen, mits de ACM op het moment van verstrekking van het bewijsmateriaal nog niet over voldoende bewijsmateriaal beschikte om een dergelijke inbreuk te kunnen vaststellen en geen enkele andere onderneming eerder in aanmerking is gekomen voor boete-immuniteit op grond van punt i, met betrekking tot dat vermeende geheime kartel.
 
 2. De ACM deelt de clementieverzoeker uiterlijk bij de verzending aan hem van het rapport als bedoeld in [artikel 5:48 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) schriftelijk mede of hem al dan niet voorwaardelijke boete-immuniteit is verleend. De clementieverzoeker kan de ACM vragen of de ACM hem schriftelijk op de hoogte brengt van het resultaat van zijn verzoek.
 
 3. In het geval de ACM een verzoek om boete-immuniteit afwijst, kan de verzoeker de ACM vragen zijn verzoek als een verzoek tot boetevermindering te behandelen.
 
-#### § 2.3. Boetevermindering
+##### § 2.3. Boetevermindering
 
 ##### Artikel 6
 
@@ -244,13 +211,13 @@ Een clementieverzoek bevat een clementieverklaring met daarin:
 
 - a. alle relevantie informatie en bewijsmateriaal, inclusief toelichting, in verband met het vermeende geheime kartel die de verzoeker in zijn bezit heeft of waar hij toegang toe heeft op het tijdstip van de indiening van het clementieverzoek, in het bijzonder:
 
-- i. de naam en het adres van de clementieverzoeker;
+   - i. de naam en het adres van de clementieverzoeker;
 
-- ii. de naam en het adres van degenen die deelnemen of hebben deelgenomen aan het vermeende geheime kartel;
+   - ii. de naam en het adres van degenen die deelnemen of hebben deelgenomen aan het vermeende geheime kartel;
 
-- iii. een uitgebreide beschrijving van het vermeende geheime kartel, met inbegrip van de betrokken goederen of diensten, de betrokken geografische gebieden, de duur en de aard van het vermeende kartelgedrag alsmede de specifieke data, locaties, inhoud van en betrokkenen bij de kartelcontacten;
+   - iii. een uitgebreide beschrijving van het vermeende geheime kartel, met inbegrip van de betrokken goederen of diensten, de betrokken geografische gebieden, de duur en de aard van het vermeende kartelgedrag alsmede de specifieke data, locaties, inhoud van en betrokkenen bij de kartelcontacten;
 
-- iv. informatie over alle eerdere of mogelijke toekomstige clementieverzoeken die met betrekking tot het vermeende geheime kartel bij andere mededingingsautoriteiten zijn of zullen worden ingediend;
+   - iv. informatie over alle eerdere of mogelijke toekomstige clementieverzoeken die met betrekking tot het vermeende geheime kartel bij andere mededingingsautoriteiten zijn of zullen worden ingediend;
 
 - b. een verklaring van de clementieverzoeker dat hij de op hem betrekking hebbende voorwaarden van dit besluit zal naleven;
 
@@ -304,7 +271,7 @@ De ACM maakt de hoedanigheid van een onderneming of natuurlijke persoon als clem
 
 ##### Artikel 22
 
-De ACM zendt een clementieverklaring overeenkomstig artikel 12 van [Verordening 1/2003](32003R0001) slechts aan een mededingingsautoriteit van een andere lidstaat van de Europese Unie indien:
+De ACM zendt een clementieverklaring overeenkomstig artikel 12 van Verordening 1/2003 slechts aan een mededingingsautoriteit van een andere lidstaat van de Europese Unie indien:
 
 - a. de verzoeker daarvoor toestemming heeft gegeven; of
 
@@ -318,59 +285,8 @@ Op clementieverzoeken die voorafgaand aan het tijdstip van inwerkingtreding van 
 
 ##### Artikel 24
 
-Indien het bij koninklijke boodschap van 25 mei 2020 ingediende voorstel van wet tot wijziging van de Mededingingswet en de Instellingswet Autoriteit Consument en Markt in verband met de implementatie van richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt (PbEU 2019, L 11) tot wet is of wordt verheven en artikel II, onderdeel J, van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
+Indien het bij koninklijke boodschap van 25 mei 2020 ingediende voorstel van wet tot wijziging van de Mededingingswet en de Instellingswet Autoriteit Consument en Markt in verband met de implementatie van richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt (PbEU 2019, L 11) tot wet is of wordt verheven en artikel II, onderdeel J, van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
 ##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit clementie
-
-## Bijlage
-
-Transponeringstabel Richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffende handhaving en ter waarborging van de goede werking van de interne markt
-
-| **Bepaling richtlijn** | **Bepaling implementatieregeling of bestaande regelgeving** | **Omschrijving beleidsruimte** | **Toelichting op de keuze(n) bij de invulling van de beleidsruimte** |
-| --- | --- | --- | --- |
-| Artikel 17, lid 1 | [Artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=1&artikel=2&z=2021-02-18&g=2021-02-18) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.2&artikel=5&z=2021-02-18&g=2021-02-18) van het Besluit clementie | Betreft minimumeis | Er is gekozen om ook immuniteit tegen geldboeten aan natuurlijke personen te kunnen verlenen |
-| Artikel 17, lid 2, onderdeel a | [Artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.1&artikel=4&z=2021-02-18&g=2021-02-18), artikel 5, eerste lid, onderdeel a en [artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=14&z=2021-02-18&g=2021-02-18), van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 17, lid 2, onderdeel b | Artikel 5, eerste lid, onderdeel b, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 17, lid 2, onderdeel c | Artikel 5, eerste lid, onderdeel d, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 17, lid 3 | Artikel 5, eerste lid, onderdeel c, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 17, lid 4 | Artikel 5, tweede en derde lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 18, lid 1 | Artikelen 2 en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.3&artikel=6&z=2021-02-18&g=2021-02-18) van het Besluit clementie | Betreft minimumeis | Er is gekozen om ook boetevermindering aan natuurlijke personen te kunnen verlenen |
-| Artikel 18, lid 2, onderdeel a | Artikel 4, eerste en tweede lid, artikel 6, eerste lid, onderdeel b en artikel 14, onderdeel a, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 18, lid 2, onderdeel b | Artikel 6, eerste lid, onderdeel c, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 18, lid 2, onderdeel c | Artikel 6, eerste lid, onderdeel d, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 18, lid 3 | [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=2&sub-paragraaf=2.3&artikel=7&z=2021-02-18&g=2021-02-18) van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel a | Artikel 4, eerste lid, onderdeel b, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, aanhef | Artikel 4, eerste lid, onderdeel c, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, onder i | Artikel 4, tweede lid, onderdeel e, en artikel 14, onderdeel a, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, onder ii | Artikel 4, tweede lid, onderdeel a, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, onder iii | Artikel 4, tweede lid, onderdeel b, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, onder iv | Artikel 4, tweede lid, onderdeel c, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel b, onder v | Artikel 4, tweede lid, onderdeel d, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel c, onder i | Artikel 4, eerste lid, onderdeel a, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 19, onderdeel c, onder ii | Artikel 4, eerste lid, onderdeel a, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 20, lid 1 | [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=15&z=2021-02-18&g=2021-02-18), van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 20, lid 2 | [Artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=11&z=2021-02-18&g=2021-02-18), van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 20, lid 3 | Bepaling behoeft geen implementatie. Bepaling betreft een feitelijke handeling (beschrijving van talen waarin verzoeker clementieverzoek kan indienen) | Geen beleidsruimte |   |
-| Artikel 21, lid 1 | [Artikel 12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=12&z=2021-02-18&g=2021-02-18), van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 21, lid 2 | Artikel 12, tweede en derde lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 21, lid 3 | Artikel 12, vijfde lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 21, lid 4 | Bepaling behoeft geen implementatie. Bepaling betreft een feitelijke handeling (beschrijving van talen waarin verzoeker clementieverzoek kan indienen) | Geen beleidsruimte |   |
-| Artikel 21, lid 5 | Artikel 12, derde lid, van het Besluit clementie | Ruimte voor lidstaten om te bepalen dat nationale mededingingsautoriteiten tevens een marker kunnen vaststellen in het geval van een verzoek tot boetevermindering | Markers kunnen zowel worden aangevraagd in het geval van een onvolledig verzoek om boete-immuniteit als in het geval van een onvolledig verzoek om boetevermindering. Dit was reeds het geval bij de Beleidsregel clementie |
-| Artikel 22, lid 1 | [Artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=4&artikel=13&z=2021-02-18&g=2021-02-18), van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 22, lid 2 | Artikel 13, tweede lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 22, lid 3, eerste alinea | Bepaling behoeft geen implementatie (betreft een feitelijke handeling) | Geen beleidsruimte |   |
-| Artikel 22, lid 3, tweede alinea | Artikel 13, zesde lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 22, lid 4 | Artikel 13, derde lid, van het Besluit clementie (tweede zin). De eerste zin behoeft geen implementatie (betreft een feitelijke handeling) | Geen beleidsruimte |   |
-| Artikel 22, lid 5 | Artikel 13, vierde, vijfde en zevende lid, van het Besluit clementie (m.u.v. de laatste zin, deze bepaling behoeft geen implementatie) | Geen beleidsruimte |   |
-| Artikel 22, lid 6 | Artikel 13, achtste lid, van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 23, lid 1 | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=6&artikel=18&z=2021-02-18&g=2021-02-18) van het Besluit clementie | Geen beleidsruimte |   |
-| Artikel 23, lid 2 | Bepaling behoeft geen implementatie. Bepaling heeft betrekking op bescherming tegen strafrechtelijke sancties die in het Nederlandse mededingingsrecht niet van toepassing zijn. | Geen beleidsruimte |   |
-| Artikel 23, lid 3 | Bepaling behoeft geen implementatie. Bepaling heeft betrekking op bescherming tegen strafrechtelijke sancties die in het Nederlandse mededingingsrecht niet van toepassing zijn. | Ruimte voor lidstaten om te bepalen dat mededingingsautoriteiten de mogelijkheid hebben om aan natuurlijke geen strafrechtelijke sancties op te leggen of de sancties slechts te verminderen voor zover de bijdrage aan het opsporen en onderzoeken van het kartel zwaarder weegt dan het belang van het vervolgen/straffen van deze personen. | N.v.t. |
-| Artikel 23, lid 4 | Bepaling behoeft geen implementatie. Betreft een opdracht tot feitelijk handelen | Geen beleidsruimte |   |
-| Artikel 23, lid 5 | Bepaling behoeft geen implementatie. Bepaalt dat artikel 23 van [richtlijn 2019/1](32019L0001) geen afbreuk doet aan het recht om op grond van [richtlijn 2014/104](32014L0104)/EU schadevergoeding te vorderen. | Geen beleidsruimte |   |
-| Artikel 31, lid 3 | Artikel 49e, eerste lid, van het wetsvoorstel tot Wijziging van de Mededingingswet en de Instellingswet Autoriteit Consument en Markt in verband met de implementatie van richtlijn (EU) 2019/1 | Geen beleidsruimte |   |
-| Artikel 31, lid 6 | [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0044822&paragraaf=7&artikel=22&z=2021-02-18&g=2021-02-18) van het Besluit clementie | Geen beleidsruimte |   |
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

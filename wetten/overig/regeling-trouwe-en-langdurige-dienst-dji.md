@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 21 april 2021, nr. 2127629, houdende bepalingen voor de toekenning van een medaille of penning voor trouwe en langdurige dienst bij de Dienst Justitiële Inrichtingen (Regeling trouwe en langdurige dienst DJI)"
+citeertitel: "Regeling trouwe en langdurige dienst DJI"
 identifier: "BWBR0045089"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-05-04"
-last_updated: "2021-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045089"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15942123"
-version_id: "27738842"
-internal_id: "C39129251"
-label_id: "15876734"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045089/2021-05-04/0"
-intitule_bron: "Stcrt.2021-21878"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-21"
-intitule_published: "2021-05-03"
-intitule_in_force: "2021-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-21878"
-original_signed_date: "2021-04-21"
-original_published_date: "2021-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-21878"
-entry_into_force_date: "2021-05-04"
-jci_1_3: "jci1.3:c:BWBR0045089&z=2021-05-04&g=2021-05-04"
-jci_1_0: "1.0:c:BWBR0045089&g=2021-05-04"
-citeertitel_status: "officieel"
-short_title: "Regeling trouwe en langdurige dienst DJI"
-signed_date: "2021-04-21"
-entry_into_force: "2021-05-04"
+publicatiedatum: 2021-05-04
+laatste_update: 2021-05-04
+status: geldig
+toestand: 2021-05-04
+bron: "https://wetten.overheid.nl/BWBR0045089"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 21 april 2021, nr. 2127629, houdende bepalingen voor de toekenning van een medaille of penning voor trouwe en langdurige dienst bij de Dienst Justitiële Inrichtingen (Regeling trouwe en langdurige dienst DJI)
-
-Gelet op het advies van de Kanselier der Nederlandse Orden
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,21 +20,21 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie en Veiligheid;
+- a. *Minister:* de Minister van Justitie en Veiligheid;
 
-- b. **DJI:** de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid;
+- b. *DJI:* de Dienst Justitiële Inrichtingen van het Ministerie van Justitie en Veiligheid;
 
-- c. **medaille:** draagmedaille, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
+- c. *medaille:* draagmedaille, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
 
-- d. **penning:** de legpenning, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2021-05-04);
+- d. *penning:* de legpenning, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=3&z=2021-05-04&g=2021-05-04), zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2021-05-04);
 
-- e. **jaarteken:** het teken met de aanduiding 25 (XXV), 40 (LV) of 50 (L), zoals omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
+- e. *jaarteken:* het teken met de aanduiding 25 (XXV), 40 (LV) of 50 (L), zoals omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
 
-- f. **baton:** het lint met een vast formaat van 27 x 11 mm, zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
+- f. *baton:* het lint met een vast formaat van 27 x 11 mm, zoals omschreven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04);
 
-- g. **oorkonde:** de oorkonde, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
+- g. *oorkonde:* de oorkonde, zoals opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=3&z=2021-05-04&g=2021-05-04);
 
-- h. **ambtenaar:** degene die krachtens een arbeidsovereenkomst met de Staat der Nederlanden werkzaam is bij DJI en bij deze organisatie is tewerkgesteld.
+- h. *ambtenaar:* degene die krachtens een arbeidsovereenkomst met de Staat der Nederlanden werkzaam is bij DJI en bij deze organisatie is tewerkgesteld.
 
 2. De bijlagen worden gepubliceerd op de internetsite van DJI.
 
@@ -160,20 +134,8 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 13
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als Regeling trouwe en langdurige dienst DJI en zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage 1
-
-Gepubliceerd op de internetsite van DJI.
-
-## Bijlage 2
-
-Gepubliceerd op de internetsite van DJI.
-
-## Bijlage 3
-
-Gepubliceerd op de internetsite van DJI.

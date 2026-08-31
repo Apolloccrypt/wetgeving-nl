@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 14 januari 2021, nr. WJZ/ 20202483, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van voorwaardelijk teruggekomen vergunningen voor niet-landelijke commerciële radio (Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen)"
+citeertitel: "Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen"
 identifier: "BWBR0044725"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-22"
-last_updated: "2022-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044725"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "15815713"
-version_id: "27450302"
-internal_id: "C38748251"
-label_id: "15753434"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044725/2022-01-22/0"
-intitule_bron: "Stcrt.2021-2010"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-14"
-intitule_published: "2021-01-19"
-intitule_in_force: "2021-01-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-2010"
-original_signed_date: "2021-01-14"
-original_published_date: "2021-01-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-2010"
-entry_into_force_date: "2021-01-20"
-jci_1_3: "jci1.3:c:BWBR0044725&z=2022-01-22&g=2022-01-22"
-jci_1_0: "1.0:c:BWBR0044725&g=2022-01-22"
-citeertitel_status: "officieel"
-short_title: "Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen"
-signed_date: "2021-01-14"
-entry_into_force: "2021-01-20"
+publicatiedatum: 2021-01-20
+laatste_update: 2022-01-22
+status: geldig
+toestand: 2022-01-22
+bron: "https://wetten.overheid.nl/BWBR0044725"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 14 januari 2021, nr. WJZ/ 20202483, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van voorwaardelijk teruggekomen vergunningen voor niet-landelijke commerciële radio (Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -46,37 +20,37 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanvrager:** degene die een aanvraag heeft ingediend;
+- a. *aanvrager:* degene die een aanvraag heeft ingediend;
 
-- b. **activiteitsniveau:** totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
+- b. *activiteitsniveau:* totaal aantal activiteitspunten waarover een deelnemer op een gegeven moment in de veiling kan beschikken en welk aantal de maximale biedbevoegdheid van die deelnemer bepaalt om actief te zijn of te blijven in de veiling;
 
-- c. **activiteitspunt:** aan een te veilen FM-vergunning op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
+- c. *activiteitspunt:* aan een te veilen FM-vergunning op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22), toegekend punt ten behoeve van het bepalen van het activiteitsniveau van een deelnemer;
 
-- d. **bekendmakingsbesluit:** besluit van de minister op grond van [artikel 3.10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), omtrent de keuze en het tijdstip van aanvang van de verdeling van de in dat besluit omschreven vergunning of vergunningen voor niet-landelijke commerciële radio met toepassing van de procedure, bedoeld in artikel 3.10, eerste lid, onder f, van de wet;
+- d. *bekendmakingsbesluit:* besluit van de minister op grond van [artikel 3.10, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), omtrent de keuze en het tijdstip van aanvang van de verdeling van de in dat besluit omschreven vergunning of vergunningen voor niet-landelijke commerciële radio met toepassing van de procedure, bedoeld in artikel 3.10, eerste lid, onder f, van de wet;
 
-- e. **beschikbare demografische ruimte:** maximaal demografisch bereik minus het demografisch bereik van de vergunning of vergunningen voor niet-landelijke commerciële radio, waarover degene die in aanmerking voor een FM-vergunning wil komen tezamen met hem als één rechtspersoon aan te merken rechtspersonen ten tijde van zijn aanvraag beschikt, uitgaande van het demografisch bereik van vergunningen voor niet-landelijke commerciële radio zoals op de dag na inwerkingtreding van het bekendmakingsbesluit door de minister in de Staatscourant kenbaar is gemaakt;
+- e. *beschikbare demografische ruimte:* maximaal demografisch bereik minus het demografisch bereik van de vergunning of vergunningen voor niet-landelijke commerciële radio, waarover degene die in aanmerking voor een FM-vergunning wil komen tezamen met hem als één rechtspersoon aan te merken rechtspersonen ten tijde van zijn aanvraag beschikt, uitgaande van het demografisch bereik van vergunningen voor niet-landelijke commerciële radio zoals op de dag na inwerkingtreding van het bekendmakingsbesluit door de minister in de Staatscourant kenbaar is gemaakt;
 
-- f. **bod:** bieding, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- f. *bod:* bieding, uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- g. **deelnemer:** aanvrager die toegelaten is tot de betrokken veiling;
+- g. *deelnemer:* aanvrager die toegelaten is tot de betrokken veiling;
 
-- h. **FM-vergunning:** vergunning voor niet-landelijke commerciële radio-omroep die ingevolge een bekendmakingsbesluit zal worden verdeeld;
+- h. *FM-vergunning:* vergunning voor niet-landelijke commerciële radio-omroep die ingevolge een bekendmakingsbesluit zal worden verdeeld;
 
-- i. **maximaal demografisch bereik:** maximaal demografisch bereik, bedoeld in [artikel 5 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=5);
+- i. *maximaal demografisch bereik:* maximaal demografisch bereik, bedoeld in [artikel 5 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=5);
 
-- j. **minister:** minister van Economische Zaken en Klimaat;
+- j. *minister:* minister van Economische Zaken en Klimaat;
 
-- k. **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
+- k. *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%;
 
-- l. **rondeprijs:** minimaal te bieden bedrag, vastgesteld per FM-vergunning, per biedronde.
+- l. *rondeprijs:* minimaal te bieden bedrag, vastgesteld per FM-vergunning, per biedronde.
 
-- m. **één rechtspersoon:** rechtspersonen die, ingevolge [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3), met de aanvrager als één rechtspersoon worden aangemerkt;
+- m. *één rechtspersoon:* rechtspersonen die, ingevolge [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3), met de aanvrager als één rechtspersoon worden aangemerkt;
 
-- n. **vergunning voor digitale radio-omroep:** vergunning voor het gebruik van 1/18e deel van de capaciteit van het frequentieblok dat of één van de frequentieblokken die ingevolge nationale voetnoot HOL006 van het Nationaal Frequentieplan 2014 gekoppeld is of zijn aan de FM-vergunning of FM-vergunningen;
+- n. *vergunning voor digitale radio-omroep:* vergunning voor het gebruik van 1/18e deel van de capaciteit van het frequentieblok dat of één van de frequentieblokken die ingevolge nationale voetnoot HOL006 van het Nationaal Frequentieplan 2014 gekoppeld is of zijn aan de FM-vergunning of FM-vergunningen;
 
-- o. **vergunning voor niet-landelijke commerciële radio:** vergunning voor frequentieruimte in de FM-band, aangewezen in [artikel 7, tweede lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7);
+- o. *vergunning voor niet-landelijke commerciële radio:* vergunning voor frequentieruimte in de FM-band, aangewezen in [artikel 7, tweede lid, van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7);
 
-- p. **ontbindende voorwaarde:** het recht dat een houder van een FM-vergunning en de daarbij behorende vergunning voor digitale radio-omroep zich bij het verzoek tot intrekking, bedoeld in [artikel 3.19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19), van de FM-vergunning en de daarbij behorende vergunning voor digitale radio-omroep heeft voorbehouden om dat verzoek ongedaan te maken, waarbij het verzoek tot intrekking, bedoeld in de eerste volzin, is gedaan met het daarvoor bestemde formulier en waarop de minister een besluit tot intrekking van de vergunning als bedoeld in artikel 3.19, eerste lid, van de wet, heeft genomen.
+- p. *ontbindende voorwaarde:* het recht dat een houder van een FM-vergunning en de daarbij behorende vergunning voor digitale radio-omroep zich bij het verzoek tot intrekking, bedoeld in [artikel 3.19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.19), van de FM-vergunning en de daarbij behorende vergunning voor digitale radio-omroep heeft voorbehouden om dat verzoek ongedaan te maken, waarbij het verzoek tot intrekking, bedoeld in de eerste volzin, is gedaan met het daarvoor bestemde formulier en waarop de minister een besluit tot intrekking van de vergunning als bedoeld in artikel 3.19, eerste lid, van de wet, heeft genomen.
 
 #### § 2. Beschikbaarheid en aanvraag vergunningen
 
@@ -150,7 +124,7 @@ Emmasingel 1
 
 ##### Artikel 6
 
-1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de FM-vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per FM-vergunning waar de aanvraag ingevolge [artikel 3, zevende](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), of, voor zover van toepassing, na toepassing van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2022-01-22&g=2022-01-22), betrekking op heeft, ter grootte van € 20.000,–.
+1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de FM-vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per FM-vergunning waar de aanvraag ingevolge [artikel 3, zevende](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), of, voor zover van toepassing, na toepassing van [artikel 5, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=5&z=2022-01-22&g=2022-01-22), betrekking op heeft, ter grootte van € 20.000,–.
 
 2. De waarborgsom wordt verstrekt voor de periode tot:
 
@@ -226,7 +200,7 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 3. In geval toepassing wordt gegeven aan het eerste dan wel tweede lid, kan de houder van een FM-vergunning de ontbindende voorwaarde inroepen indien hij niet degene is die als enige aanvrager voldoet aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&z=2022-01-22&g=2022-01-22) van deze regeling gestelde eisen. Het inroepen van een ontbindende voorwaarde geschiedt uiterlijk tot 16:00 uur op de tweede werkdag nadat de houder van de FM-vergunning door de minister van de voorgenomen toepassing van het eerste dan wel tweede lid in kennis is gesteld. [Artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22) is van overeenkomstige toepassing.
 
-4. Indien de aanvrager aan wie op grond van het eerste of tweede lid een FM-vergunning om niet is verleend ter zekerheidsstelling een waarborgsom heeft verstrekt, wordt uiterlijk twee weken na de verlening van de FM-vergunning een bedrag van € 20.000,– aan de betrokken aanvrager teruggestort per FM-vergunning die aan hem om niet is verleend. De minister vergoedt aan de aanvrager rente over dat bedrag over de periode vanaf de dag dat hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort. Deze rente wordt op dezelfde dag gestort als de dag waarop de waarborgsom wordt terugstort.
+4. Indien de aanvrager aan wie op grond van het eerste of tweede lid een FM-vergunning om niet is verleend ter zekerheidsstelling een waarborgsom heeft verstrekt, wordt uiterlijk twee weken na de verlening van de FM-vergunning een bedrag van € 20.000,– aan de betrokken aanvrager teruggestort per FM-vergunning die aan hem om niet is verleend. De minister vergoedt aan de aanvrager rente over dat bedrag over de periode vanaf de dag dat hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in [artikel 6, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22), tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort. Deze rente wordt op dezelfde dag gestort als de dag waarop de waarborgsom wordt terugstort.
 
 5. Indien de aanvrager aan wie op grond van het eerste of tweede lid een vergunning om niet is verleend ter zekerheidsstelling een bankgarantie heeft verstrekt, stuurt de minister, uiterlijk twee weken na de verdeling van de betrokken FM-vergunning, aan de bank van de aanvrager een schriftelijke verklaring dat de bankgarantie vervalt, indien als gevolg van de verlening om niet:
 
@@ -360,7 +334,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 2. Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bod gebonden.
 
-3. De rondeprijs bedraagt in de eerste biedronde € 0,– per FM-vergunning.
+3. De rondeprijs bedraagt in de eerste biedronde € 0,– per FM-vergunning.
 
 4. De rondeprijs voor een FM-vergunning in de volgende biedronden is gelijk aan het in de voorgaande biedronde hoogst geboden bedrag voor die vergunning, vermeerderd met een door de minister vast te stellen bedrag.
 
@@ -499,431 +473,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 31
 
 Deze regeling wordt aangehaald als: Regeling voorwaardelijke veiling niet-landelijke commerciële FM-vergunningen.
-
-## Bijlage I. behorend bij [artikel 3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22)
-
-### – Model aanvraagformulier –
-
-### Onderdeel A. Bestuurdersverklaring
-
-Ondergetekende(n), (gezamenlijk) bevoegd op grond van het bij deze aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart/verklaren dat de informatie die in deze aanvraag is verstrekt juist en volledig is.
-
-### A. 1. Bestuurder
-
-Naam ondergetekende: .....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening: .....
-
-### A. 2. (voor zover van toepassing, gezamenlijk bevoegde) bestuurder
-
-Naam ondergetekende: .....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening: .....
-
-### A. 3. (voor zover van toepassing, gezamenlijk bevoegde) bestuurder
-
-Naam ondergetekende: .....
-
-Plaats: .....
-
-Datum: .....
-
-Handtekening: .....
-
-### Onderdeel B. De aanvrager
-
-### B. 1. B.1. Algemeen
-
-Bij de aanvraag wordt gevoegd:
-
-### B. 2. Vertegenwoordigingsbevoegdheid
-
-**De beschrijving bevat in elk geval gegevens, inclusief de bijbehorende documenten. In het geval het subonderdeel niet van toepassing is, dient dit als zodanig bij het betreffende subonderdeel te worden aangeven.**
-
-Opgave en overlegging van een kopie van het hieronder ingevulde geldige identiteitsbewijs van degene(n) die bevoegd is (zijn) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure, met opgave van eventuele beperkingen met betrekking tot die vertegenwoordigingsbevoegdheid.
-
-Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van die volmacht worden bijgevoegd.
-
-Indien de vertegenwoordigingsbevoegdheid blijkt uit de statuten, wordt het betrokken artikelnummer van de statuten vermeld.
-
-### B. 2.1. Functionaris 1
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid blijkt uit: .....
-
-Beperking(en) van de bevoegdheid blijken uit: .....
-
-Handtekening: .....
-
-### B. 2.2. Functionaris 2
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid blijkt uit: ....
-
-Beperking(en) van de bevoegdheid blijken uit: .....
-
-Handtekening: .....
-
-### B. 2.3. Functionaris 3
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid blijkt uit: .....
-
-Beperking(en) van de bevoegdheid blijken uit: .....
-
-Handtekening: .....
-
-### B. 2.4. Functionaris 4
-
-Naam: .....
-
-Volledige voornamen: .....
-
-Functie bij aanvrager: .....
-
-Soort identiteitsbewijs: .....
-
-Nummer identiteitsbewijs: .....
-
-Vertegenwoordigingsbevoegdheid: .....
-
-Opgave van beperkingen van bevoegdheid: .....
-
-Bevoegdheid blijkt uit: .....
-
-Beperking(en) van de bevoegdheid blijken uit: .....
-
-Handtekening: .....
-
-### B. 3. Statutaire en financiële positie
-
-**Voor onderstaande onderdelen geldt als peildatum de eerste dag waarop een aanvraag kan worden ingediend.**
-
-### B. 4. Informatie aangaande verbonden instellingen
-
-### B. 4.1. Verbondenheidstoets
-
-Is er ten aanzien van de aanvrager in 2021 een verbondenheidstoets uitgevoerd?
-
-### B. 4.2. Beschrijving eigendoms- en zeggenschapsverhoudingen
-
-Bij de aanvraag wordt gevoegd een beschrijving van de eigendoms- en zeggenschapsverhoudingen die de rechtspersoon raken. De beschrijving moet inzicht geven in alle banden met andere partijen, zodat kan worden nagegaan of er een zodanige verbondenheid is met andere aanvragers van vergunningen of met bestaande houders van een FM-vergunning dat er sprake is van een rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3). De beschrijving bevat in elk geval gegevens, inclusief de bijbehorende documenten, genoemd in onderdeel a tot en met g. In het geval het subonderdeel niet van toepassing is, dient dit als zodanig bij het betreffende subonderdeel te worden aangeven:
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
-
-### B. 5. Beschikbare demografische ruimte
-
-### B. 5.1. Informatie vergunningen commerciële radio-omroep in de FM-band, waarvan aanvrager of anderen rechtspersonen die met de aanvrager als één rechtspersoon worden aangemerkt reeds houder is
-
-De aanvrager vermeldt, in overeenstemming met [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2021-01-20&g=2021-01-20), van de Regeling, in onderstaande tabel van welke vergunningen voor landelijke of niet-landelijke commerciële radio FM-band hij en anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt reeds houder is. Daartoe wordt informatie verschaft over de betrokken kavel en de houder van een vergunning (de aanvrager zelf of de anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt, waarbij de naam van die instelling wordt vermeld). Voor het bepalen van de beschikbare demografische ruimte (zie ook onderdeel B.5.2) wordt per kavel het demografisch bereik van de kavel vermeld, uitgaande van de publicatie van het demografisch bereik van elke vergunningen voor niet-landelijke commerciële radio in de FM-band door de minister ten tijde van het betrokken bekendmakingsbesluit. Het totaal van deze percentages wordt tevens ingevuld.
-
-1 de FM-vergunning die is ingeleverd onder de ontbindende voorwaarde als bedoeld in [artikel 1 onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2021-01-20&g=2021-01-20), hoeft hier niet ingevuld te worden. Deze vergunning telt niet mee voor het bepalen van de beschikbare demografische ruimte.
-
-De aanvrager vermeldt, in overeenstemming met [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=3&z=2022-01-22&g=2022-01-22), van de Regeling, in onderstaande tabel van welke vergunningen voor landelijke of niet-landelijke commerciële radio FM-band hij en anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt reeds houder is. Daartoe wordt informatie verschaft over de betrokken kavel en de houder van een vergunning (de aanvrager zelf of de anderen rechtspersonen die met hem als één rechtspersoon worden aangemerkt, waarbij de naam van die instelling wordt vermeld). Voor het bepalen van de beschikbare demografische ruimte (zie ook onderdeel B.5.2) wordt per kavel het demografisch bereik van de kavel vermeld, uitgaande van de publicatie van het demografisch bereik van elke vergunningen voor niet-landelijke commerciële radio in de FM-band door de minister ten tijde van het betrokken bekendmakingsbesluit. Het totaal van deze percentages wordt tevens ingevuld.
-
-### B. 5.2. Beschikbare demografische ruimte
-
-2 als vermeld in de publicatie op de dag na inwerkingtreding van het Bekendmakingsbesluit
-
-Beschikbare demografische ruimte: 30% –.............. <<invullen in onderdeel B.5.1 genoemde totaal %>> =..................%
-
-### B. 6. Verklaring notaris
-
-Beschikbare demografische ruimte: 30% –.............. <<invullen in onderdeel B.5.1 genoemde totaal %>> =..................%
-
-verklaart, zonder voorbehoud, dat op het moment dat hij/zij deze verklaring ondertekent:
-
-Ondergetekende, notaris te..... (plaatsnaam)
-
-verklaart, zonder voorbehoud, dat op het moment dat hij/zij deze verklaring ondertekent:
-
-Naam: .....
-
-Plaats: .....
-
-### Onderdeel C. Specificatie aanvraag
-
-### C. 1. Aanvraag in geval slechts één FM-vergunning wordt verdeeld
-
-Dit onderdeel dient u in te vullen in geval slechts één FM-vergunning blijkens het bekendmakingsbesluit wordt verdeeld.
-
-### C. 1. Aanvraag in geval slechts één FM-vergunning wordt verdeeld
-
-Dit onderdeel dient u in te vullen in geval slechts één FM-vergunning blijkens het bekendmakingsbesluit wordt verdeeld.
-
-o 1...........
-
-Dit onderdeel dient u in te vullen in geval meerdere FM-vergunningen blijkens het bekendmakingsbesluit worden verdeeld. Dit onderdeel vult u in met inachtneming van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=2&z=2022-01-22&g=2022-01-22) van de Regeling. In dat kader houdt u bij het invullen van het aantal FM-vergunningen waarvoor u in aanmerking wenst te komen, rekening met uw beschikbare demografische ruimte als ingevuld in onderdeel B.5.2. Dit betekent dat het gezamenlijk demografisch bereik kleiner of gelijk is dan uw beschikbare demografische ruimte. Mijn aanvraag heeft betrekking op:
-
-o 1...........
-
-o 2...........
-
-o 3...........
-
-o 4...........
-
-o 5...........
-
-o 6...........
-
-o 7...........
-
-o 8...........
-
-o 9...........
-
-o 10...........
-
-o 11...........
-
-o 12...........
-
-o 13...........
-
-o 14...........
-
-o 15...........
-
-o 16...........
-
-o 17...........
-
-o 18..........
-
-o 19...........
-
-o 20..........
-
-o 21...........
-
-o 22...........
-
-o 23..........
-
-o 24..........
-
-o 25..........
-
-o 26..........
-
-o 27..........
-
-o 28..........
-
-o 29..........
-
-o 30..........
-
-o 31..........
-
-o 32..........
-
-o 33..........
-
-o 34..........
-
-o 35..........
-
-o 36..........
-
-o 37..........
-
-o 38..........
-
-**NB1! U dient hier in ieder geval de vergunning in te vullen die u onder de ontbindende voorwaarde als bedoeld in artikel 1, onder p, van deze regeling heeft ingeleverd.**
-
-**NB2! U dient dan voor de invulling van uw aanvraag uit te gaan van de beschikbare vergunningen zoals opgenomen in het bekendmakingsbesluit. Dit besluit zal worden vastgesteld nadat er duidelijkheid is ontstaan welke vergunningen er beschikbaar komen.**
-
-### C. 3. Beschikbare demografische ruimte
-
-**NB3! U dient bij de invulling van uw aanvraag rekening te houden met uw beschikbare demografische ruimte, u geeft daarom aan:**
-
-## Bijlage II. behorend bij [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2021-01-20&g=2021-01-20)
-
-### C. 4. Voorwaardelijke aanvraag vergunningen digitale radio-omroep
-
-Onder de voorwaarde dat aan mij op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22) of [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=5&artikel=27&z=2022-01-22&g=2022-01-22) van de Regeling een FM-vergunning is verleend, vraag ik de daaraan ingevolge het Nationaal Frequentieplan 2014 gekoppelde vergunning voor digitale radio-omroep aan.
-
-Datum: ..........................................................................................................................
-
-Naam Bank en ondertekening
-
-Plaats: ..........................................................................................................................
-
-## Bijlage III. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=8&z=2021-01-20&g=2021-01-20)
-
-Ondergetekende verklaart dat hij, indien aan hem een FM-vergunning als opgenomen in het Bekendmakingsbesluit....... **<<citeertitel en datum>>** zal worden verleend met toepassing van deze Regeling, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-## Bijlage IV. behorend bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=11&z=2021-01-20&g=2021-01-20)
-
-**Verklaring aanvrager dat geen sprake is van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging**
-
-Ondergetekende verklaart dat hij en, indien er sprake is van rechtspersonen als bedoeld in [artikel 3.11, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), anderen die zijn betrokken bij die rechtspersonen, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-## Bijlage V. behorend bij [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2021-01-20&g=2021-01-20) of [artikel 25, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20)4**Enkel in te vullen en conform artikel 12, derde lid, dan wel artikel 25 aan Agentschap Telecom toe te doen komen als hetgeen in een van deze artikelen is beschreven zich voordoet.**[lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2021-01-20&g=2021-01-20)
-
-Ondergetekende, bevoegd op grond van het bij de aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart dat hij de ontbindende voorwaarde, bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2021-01-20&g=2021-01-20), inroept, ten aanzien van de vergunning met dossiernummer ......... (invullen).
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### B. 4.3. Extra bij te voegen documenten
-
-De aanvrager voegt in verband met de in onderdeel B.4.1 bedoelde toetsing op verbondenheid bovendien de volgende documenten bij de aanvraag (voor zover van toepassing):
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.
-
-### B. 5. Beschikbare demografische ruimte
-
-### B. 5.1. Informatie vergunningen commerciële radio-omroep in de FM-band, waarvan aanvrager of anderen rechtspersonen die met de aanvrager als één rechtspersoon worden aangemerkt reeds houder is
-
-1 de FM-vergunning die is ingeleverd onder de ontbindende voorwaarde als bedoeld in [artikel 1 onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2022-01-22&g=2022-01-22), hoeft hier niet ingevuld te worden. Deze vergunning telt niet mee voor het bepalen van de beschikbare demografische ruimte.
-
-### B. 5.2. Beschikbare demografische ruimte
-
-De aanvrager vermeldt de omvang van zijn beschikbare demografische ruimte, gelet op hetgeen in onderdeel B.5.1 is ingevuld.
-
-### B. 6. Verklaring notaris
-
-Datum: .....
-
-Handtekening: .....
-
-### Onderdeel C. Specificatie aanvraag
-
-### C. 2. Aanvraag in geval meerdere FM-vergunningen worden verdeeld
-
-**NB4! het aantal FM-vergunningen waar u over wenst te beschikken is van belang voor:**
-
-## Bijlage II. behorend bij [artikel 6, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=6&z=2022-01-22&g=2022-01-22)
-
-### – Model bankgarantie –
-
-Datum: ..........................................................................................................................
-
-Naam Bank en ondertekening
-
-..........................................................................................................................
-
-## Bijlage III. behorend bij [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=8&z=2022-01-22&g=2022-01-22)
-
-Ondergetekende verklaart dat hij, indien aan hem een FM-vergunning als opgenomen in het Bekendmakingsbesluit....... **<<citeertitel en datum>>** zal worden verleend met toepassing van deze Regeling, hij deze vergunning zal gebruiken voor het uitzenden van een commercieel radioprogramma dat, voor zover het gepresenteerde programmaonderdelen tussen 07.00 uur en 19.00 uur betreft, voor ten minste 50 procent in de Nederlandse of Friese taal wordt gepresenteerd.
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-## Bijlage IV. behorend bij [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=2&artikel=11&z=2022-01-22&g=2022-01-22)
-
-**Verklaring aanvrager dat geen sprake is van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk kunnen doen aan de mededinging**
-
-Ondergetekende verklaart dat hij en, indien er sprake is van rechtspersonen als bedoeld in [artikel 3.11, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), anderen die zijn betrokken bij die rechtspersonen, zich voorafgaand aan de indiening van de aanvraag hebben onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich zullen onthouden van het maken van dergelijke afspraken of het doen van dergelijke gedragingen.
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-## Bijlage V. behorend bij [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=3&artikel=12&z=2022-01-22&g=2022-01-22) of [artikel 25, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22)4**Enkel in te vullen en conform artikel 12, derde lid, dan wel artikel 25 aan Agentschap Telecom toe te doen komen als hetgeen in een van deze artikelen is beschreven zich voordoet.**[lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=4&artikel=25&z=2022-01-22&g=2022-01-22)
-
-Ondergetekende, bevoegd op grond van het bij de aanvraag overgelegde uittreksel uit het handelsregister, de overgelegde statuten en/of de overgelegde volmacht, verklaart dat hij de ontbindende voorwaarde, bedoeld in [artikel 1, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&paragraaf=1&artikel=1&z=2022-01-22&g=2022-01-22), inroept, ten aanzien van de vergunning met dossiernummer ......... (invullen).
-
-Naam aanvrager (rechtspersoon):
-
-Naam persoon die namens de aanvrager ondertekent (natuurlijk persoon):
-
-Plaats:
-
-Datum:
-
-Handtekening:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

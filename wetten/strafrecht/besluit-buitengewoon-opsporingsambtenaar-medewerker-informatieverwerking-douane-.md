@@ -1,31 +1,19 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar medewerker informatieverwerking Douane 2021"
+title: "Besluit van de Minister voor Rechtsbescherming van 7 juli 2021 nr. BOACAT2021/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën/Douane"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar medewerker informatieverwerking Douane 2021"
 identifier: "BWBR0045391"
-categorie: "Overig"
+categorie: "Belastingrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2021-07-13
-laatste_update: 2026-07-13
+laatste_update: 2021-07-13
 status: vervallen
+vervallen_op: 2026-07-12
+toestand: 2021-07-13
 bron: "https://wetten.overheid.nl/BWBR0045391"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 7 juli 2021 nr. BOACAT2021/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën/Douane
-
-Gelezen het verzoek van de Directeur Bedrijfsvoering van het Ministerie van Financiën/Douane van 24 juni 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Den Haag en de Directeur-Generaal Belastingdienst;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -37,7 +25,7 @@ De personen, werkzaam in de functie van medewerker informatieverwerking Douane i
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -59,7 +47,7 @@ Aan de buitengewoon opsporingsambtenaar wordt op grond van het gestelde in het o
 
 ##### Artikel 7
 
-1. De Directeur Bedrijfsvoering van het Ministerie van Financiën/Douane brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Directeur Bedrijfsvoering van het Ministerie van Financiën/Douane brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045391&artikel=2&z=2021-07-13&g=2021-07-13) genoemde functie;
 
@@ -82,5 +70,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar medewerker informatieverwerking Douane 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

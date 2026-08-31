@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Corona-overbrugging kunstenaar, curator en beschouwer"
 identifier: "BWBR0044810"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-02-13"
-last_updated: "2021-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044810"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15841713"
-version_id: "27518042"
-internal_id: "C38831601"
-label_id: "15777974"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044810/2021-02-13/0"
-intitule_bron: "Stcrt.2021-7456"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-02-12"
-intitule_in_force: "2021-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-7456"
-original_published_date: "2021-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-7456"
-entry_into_force_date: "2021-02-13"
-jci_1_3: "jci1.3:c:BWBR0044810&z=2021-02-13&g=2021-02-13"
-jci_1_0: "1.0:c:BWBR0044810&g=2021-02-13"
-citeertitel_status: "officieel"
-entry_into_force: "2021-02-13"
+publicatiedatum: 2021-02-13
+laatste_update: 2021-02-13
+status: geldig
+toestand: 2021-02-13
+bron: "https://wetten.overheid.nl/BWBR0044810"
+opgehaald: 2026-08-31
 ---
+
 # Deelregeling Corona-overbrugging kunstenaar, curator en beschouwer
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -44,11 +21,11 @@ Het zoveel mogelijk in stand houden van de infrastructuur op het gebied van beel
 
 1. Een kunstenaar die een bijdrage aanvraagt, dient ofwel
 
-- •. ten minste drie jaar professioneel werkzaam te zijn als beeldend kunstenaar; of
+- • ten minste drie jaar professioneel werkzaam te zijn als beeldend kunstenaar; of
 
-- •. ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en minimaal één jaar professioneel werkzaam te zijn als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd; of
+- • ten minste drie jaar een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten te hebben gevolgd en minimaal één jaar professioneel werkzaam te zijn als beeldend kunstenaar. Als het een instituut voor beeldende kunst en vormgeving betreft, moet een beeldende kunst curriculum zijn gevolgd; of
 
-- •. één jaar professioneel werkzaam te zijn als beeldend kunstenaar en ingeschreven te staan in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
+- • één jaar professioneel werkzaam te zijn als beeldend kunstenaar en ingeschreven te staan in het Handelsregister bij de Kamer van Koophandel, dan wel een vergelijkbare buitenlandse organisatie.
 
 2. Een curator / beschouwer die een bijdrage aanvraagt, dient ten minste twee jaar professioneel werkzaam te zijn als bemiddelaar op het gebied van beeldende kunst en/of erfgoed, aan te tonen door middel van publicaties, tentoonstellingen, onderzoeken of geïnitieerde projecten.
 
@@ -72,11 +49,11 @@ Geen bijdrage kan worden verstrekt:
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement Mondriaan Fonds 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- •. (visueel) documentatiemateriaal,
+- • (visueel) documentatiemateriaal,
 
-- •. een toelichting op de artistieke uitgangspunten,
+- • een toelichting op de artistieke uitgangspunten,
 
-- •. een curriculum vitae.
+- • een curriculum vitae.
 
 ##### Artikel 5. Beoordeling
 
@@ -112,10 +89,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Corona-overbrugging kunstenaar, curator en beschouwer.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 januari 2021, houdende bepalingen ter uitvoering van de Wet kansspelen op afstand (Besluit kansspelen op afstand)"
+citeertitel: "Besluit kansspelen op afstand"
 identifier: "BWBR0044773"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-15"
-last_updated: "2022-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044773"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15832353"
-version_id: "27489952"
-internal_id: "C38805841"
-label_id: "15769984"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044773/2022-07-15/0"
-intitule_bron: "Stb.2021-37"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-26"
-intitule_published: "2021-02-03"
-intitule_in_force: "2021-02-04"
-intitule_status: "goed"
-original_publication: "Stb.2021-37"
-original_signed_date: "2021-01-26"
-original_published_date: "2021-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-37"
-entry_into_force_date: "2021-04-01"
-jci_1_3: "jci1.3:c:BWBR0044773&z=2022-07-15&g=2022-07-15"
-jci_1_0: "1.0:c:BWBR0044773&g=2022-07-15"
-citeertitel_status: "officieel"
-short_title: "Besluit kansspelen op afstand"
-signed_date: "2021-01-26"
-entry_into_force: "2021-04-01"
+publicatiedatum: 2021-04-01
+laatste_update: 2022-07-15
+status: geldig
+toestand: 2022-07-15
+bron: "https://wetten.overheid.nl/BWBR0044773"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 26 januari 2021, houdende bepalingen ter uitvoering van de Wet kansspelen op afstand (Besluit kansspelen op afstand)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 3 juli 2020, Directie Wetgeving en Juridische Zaken, nr. 2962454;
-
-Gelet op de [artikelen 4a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4a), [21, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=21), [25, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=25), [27ja, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30u, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30u), [30v, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31), [31a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31b), [31c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31c), [31d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31d), [31g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31g), [31h, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31h), [31i, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31i), [31j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31j), [31k, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k), [31l, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l), [31m, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), [33h, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h), [34k, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34k), [34l](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34l) en [35d van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35d), [15, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15), [9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9), en [18, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18);
-
-De Afdeling advisering van de Raad van State gehoord advies van 9 december 2020, no. W16.20.0229/II;
-
-Gezien het nader rapport van de Minister voor Rechtsbescherming van 21 januari 2021, Directie Wetgeving en Juridische Zaken, nr. 3171173;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,69 +20,70 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aangewezen keuringsinstelling:** een door Onze Minister aangewezen, geaccrediteerde instelling als bedoeld in [artikel 31h, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31h);
+- – *aangewezen keuringsinstelling:* een door Onze Minister aangewezen, geaccrediteerde instelling als bedoeld in [artikel 31h, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31h);
 
-- –. **aanmelding:** de aanmelding ter verkrijging van toegang tot de spelersinterface;
+- – *aanmelding:* de aanmelding ter verkrijging van toegang tot de spelersinterface;
 
-- –. **betaalinstrument:** het gepersonaliseerd instrument of de gepersonaliseerde instrumenten of het geheel van procedures, overeengekomen tussen de vergunninghouder en een betaaldienstverlener, waarvan de vergunninghouder en de speler gebruik maken om een betaalopdracht te initiëren;
+- – *betaalinstrument:* het gepersonaliseerd instrument of de gepersonaliseerde instrumenten of het geheel van procedures, overeengekomen tussen de vergunninghouder en een betaaldienstverlener, waarvan de vergunninghouder en de speler gebruik maken om een betaalopdracht te initiëren;
 
-- –. **betalingstransactie:** de door de vergunninghouder of speler geïnitieerde handeling waarbij geldmiddelen worden gedeponeerd op of overgemaakt van of naar een speelrekening, ongeacht of er onderliggende verplichtingen tussen de vergunninghouder en de desbetreffende speler zijn;
+- – *betalingstransactie:* de door de vergunninghouder of speler geïnitieerde handeling waarbij geldmiddelen worden gedeponeerd op of overgemaakt van of naar een speelrekening, ongeacht of er onderliggende verplichtingen tussen de vergunninghouder en de desbetreffende speler zijn;
 
-- –. **burgerservicenummer:** het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- – *burgerservicenummer:* het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- –. **concern:** de economische eenheid waarin rechtspersonen, vennootschappen en natuurlijke personen organisatorisch zijn verbonden;
+- – *concern:* de economische eenheid waarin rechtspersonen, vennootschappen en natuurlijke personen organisatorisch zijn verbonden;
 
-- –. **elektronische middelen:** de elektronische middelen, met inbegrip van de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2022-07-15&g=2022-07-15), die worden gebruikt bij het organiseren van kansspelen op afstand;
+- – *elektronische middelen:* de elektronische middelen, met inbegrip van de controledatabank, bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=5&artikel=5.3&z=2022-07-15&g=2022-07-15), die worden gebruikt bij het organiseren van kansspelen op afstand;
 
-- –. **gekwalificeerde deelneming:** een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang, of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten of een daarmee vergelijkbare zeggenschap;
+- – *gekwalificeerde deelneming:* een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang, of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten of een daarmee vergelijkbare zeggenschap;
 
-- –. **inschrijving:** de inschrijving als speler, bedoeld in [artikel 31k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
+- – *inschrijving:* de inschrijving als speler, bedoeld in [artikel 31k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
 
-- –. **kansspel:** een gelegenheid als bedoeld in [artikel 1, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1);
+- – *kansspel:* een gelegenheid als bedoeld in [artikel 1, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1);
 
-- –. **kansspelinterface:** het geheel van elektronische communicatie waarmee de vergunninghouder de vergunde kansspelen aanbiedt;
+- – *kansspelinterface:* het geheel van elektronische communicatie waarmee de vergunninghouder de vergunde kansspelen aanbiedt;
 
-- –. **lidstaat:** staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte;
+- – *lidstaat:* staat die partij is bij het Verdrag betreffende de werking van de Europese Unie of de Overeenkomst betreffende de Europese Economische Ruimte;
 
-- –. **niet-kritiek onderdeel van het spelsysteem:** een onderdeel van het spelsysteem dat in het systeem voor wijzigingsbeheer, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2022-07-15&g=2022-07-15), niet is aangemerkt als kritiek voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen;
+- – *niet-kritiek onderdeel van het spelsysteem:* een onderdeel van het spelsysteem dat in het systeem voor wijzigingsbeheer, bedoeld in [artikel 4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&hoofdstuk=4&afdeling=6&artikel=4.41&z=2022-07-15&g=2022-07-15), niet is aangemerkt als kritiek voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen;
 
-- –. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- – *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- –. **raad van bestuur:** de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- – *raad van bestuur:* de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- –. **register:** het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- – *register:* het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- –. **Richtlijn 2013/36/EU:** [Richtlijn 2013/36](32013L0036)/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van [Richtlijn 2002/87/EG](32002L0087) en tot intrekking van de [Richtlijnen 2006/48/EG](32006L0048) en [2006/49/EG](32006L0049) (PbEU 2013, L 176);
+- – *Richtlijn 2013/36/EU:*
+ Richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176);
 
-- –. **Richtlijn (EU) 2015/2366:** Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de [Richtlijnen 2002/65/EG](32002L0065), [2009/110/EG](32009L0110) en [2013/36](32013L0036)/EU en Verordening (EU) [nr. 1093/2010](32993L2010) en houdende intrekking van [Richtlijn 2007/64/EG](32007L0064) (PbEU 2015, L 337);
+- – *Richtlijn (EU) 2015/2366:* Richtlijn (EU) 2015/2366 van het Europees Parlement en de Raad van 25 november 2015 betreffende betalingsdiensten in de interne markt, houdende wijziging van de Richtlijnen 2002/65/EG, 2009/110/EG en 2013/36/EU en Verordening (EU) nr. 1093/2010 en houdende intrekking van Richtlijn 2007/64/EG (PbEU 2015, L 337);
 
-- –. **speelrekening:** de door de vergunninghouder in zijn spelsysteem op naam van een speler aangehouden rekening met het speeltegoed van die speler, die uitsluitend wordt gebruikt ten behoeve van de deelname aan de vergunde kansspelen en die is te herleiden tot de persoon van die speler;
+- – *speelrekening:* de door de vergunninghouder in zijn spelsysteem op naam van een speler aangehouden rekening met het speeltegoed van die speler, die uitsluitend wordt gebruikt ten behoeve van de deelname aan de vergunde kansspelen en die is te herleiden tot de persoon van die speler;
 
-- –. **speelwinst:** prijzen of premies als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), behaald met deelname aan een vergund kansspel;
+- – *speelwinst:* prijzen of premies als bedoeld in [artikel 1, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=1), behaald met deelname aan een vergund kansspel;
 
-- –. **speler:** degene die bij de vergunninghouder als speler is ingeschreven;
+- – *speler:* degene die bij de vergunninghouder als speler is ingeschreven;
 
-- –. **spelersinterface:** het voor de speler na aanmelding toegankelijke gedeelte van de kansspelinterface;
+- – *spelersinterface:* het voor de speler na aanmelding toegankelijke gedeelte van de kansspelinterface;
 
-- –. **spelersprofiel:** de grenzen aan het speelgedrag, bedoeld in [artikel 31k, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
+- – *spelersprofiel:* de grenzen aan het speelgedrag, bedoeld in [artikel 31k, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
 
-- –. **spelsysteem:** de organisatie, de werkwijze en de middelen, waaronder de elektronische middelen, die voor het organiseren van de vergunde kansspelen worden gebruikt;
+- – *spelsysteem:* de organisatie, de werkwijze en de middelen, waaronder de elektronische middelen, die voor het organiseren van de vergunde kansspelen worden gebruikt;
 
-- –. **sportwedstrijd:** wedstrijd, georganiseerd door of onder auspiciën van de door het NOC*NSF erkende nationale sportorganisaties en hun geledingen, of door vergelijkbare internationale, al dan niet overkoepelende sportorganisaties, dan wel een andere wedstrijd van een sport die door het NOC*NSF als sport is aangemerkt;
+- – *sportwedstrijd:* wedstrijd, georganiseerd door of onder auspiciën van de door het NOC*NSF erkende nationale sportorganisaties en hun geledingen, of door vergelijkbare internationale, al dan niet overkoepelende sportorganisaties, dan wel een andere wedstrijd van een sport die door het NOC*NSF als sport is aangemerkt;
 
-- –. **tegenrekening:** de op naam van een speler aangehouden rekening bij een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU, bij een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van [Richtlijn (EU) 2015/2366](32015L2366) of bij een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e);
+- – *tegenrekening:* de op naam van een speler aangehouden rekening bij een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van Richtlijn 2013/36/EU, bij een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van Richtlijn (EU) 2015/2366 of bij een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e);
 
-- –. **uiteindelijke belanghebbende:** degene die daaronder wordt verstaan op grond van de [Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+- – *uiteindelijke belanghebbende:* degene die daaronder wordt verstaan op grond van de [Wet ter voorkoming van witwassen en financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- –. **vergund kansspel:** een kansspel dat op grond van de vergunning op afstand wordt georganiseerd;
+- – *vergund kansspel:* een kansspel dat op grond van de vergunning op afstand wordt georganiseerd;
 
-- –. **vergunning:** een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- – *vergunning:* een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- –. **vergunninghouder:** de houder van een vergunning;
+- – *vergunninghouder:* de houder van een vergunning;
 
-- –. **wervings- en reclameactiviteiten:** iedere vorm van communicatie waarmee vergunninghouders, al dan niet met behulp van derden, direct of indirect hun diensten of goederen aanprijzen;
+- – *wervings- en reclameactiviteiten:* iedere vorm van communicatie waarmee vergunninghouders, al dan niet met behulp van derden, direct of indirect hun diensten of goederen aanprijzen;
 
-- –. **wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- – *wet:* de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 1.2
 
@@ -232,13 +201,13 @@ De vergunninghouder beschikt te allen tijde over ten minste de volgende gegevens
 
 - b. de mate waarin de vergunninghouder heeft voldaan aan zijn financiële verplichtingen uit:
 
-- 1º. bestuurlijke sancties wegens overtredingen van bij of krachtens de wet gestelde voorschriften;
+   - 1º. bestuurlijke sancties wegens overtredingen van bij of krachtens de wet gestelde voorschriften;
 
-- 2º. de [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359);
+   - 2º. de [Wet op de kansspelbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002359);
 
-- 3º. de kansspelheffing, bedoeld in [artikel 33e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), en
+   - 3º. de kansspelheffing, bedoeld in [artikel 33e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), en
 
-- 4º. voor zover van toepassing, de afdracht, bedoeld in [artikel 31f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31f);
+   - 4º. voor zover van toepassing, de afdracht, bedoeld in [artikel 31f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31f);
 
 - c. de bij regeling van Onze Minister genoemde strafrechtelijke antecedenten, en
 
@@ -262,7 +231,7 @@ De vergunninghouder draagt er zorg voor dat zijn werknemers en anderen die bij d
 
 ### Hoofdstuk 4. De organisatie van kansspelen op afstand
 
-### Afdeling 1. Algemeen
+#### Afdeling 1. Algemeen
 
 ##### Artikel 4.1
 
@@ -326,7 +295,7 @@ De vergunninghouder draagt er zorg voor dat zijn werknemers en anderen die bij d
 
 4. Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot de administratie. Deze hebben in ieder geval betrekking op de daarin op te nemen gegevens en de termijnen gedurende welke die gegevens moeten worden bewaard.
 
-### Afdeling 2. Integriteitsbeleid
+#### Afdeling 2. Integriteitsbeleid
 
 #### Paragraaf 1. Algemeen
 
@@ -426,7 +395,7 @@ De vergunninghouder vergewist zich van de betrouwbaarheid van de leidinggevenden
 
 4. Bij regeling van Onze Minister kunnen wedstrijden en competities en gebeurtenissen tijdens wedstrijden en competities worden aangewezen, waarop geen weddenschappen mogen worden georganiseerd. Onze Minister stelt organisaties door wie of onder wier auspiciën de betrokken wedstrijden of competities worden georganiseerd voorafgaand aan de vaststelling of wijziging van een aanwijzing als bedoeld in de eerste volzin in de gelegenheid om schriftelijk advies uit te brengen over de risico’s voor de integriteit van de betrokken wedstrijden en competities. Indien Onze Minister afwijkt van de uitgebrachte adviezen, doet hij dat onder opgave van redenen.
 
-### Afdeling 3. Inschrijving en aanmelding als speler
+#### Afdeling 3. Inschrijving en aanmelding als speler
 
 ##### Artikel 4.10
 
@@ -558,7 +527,7 @@ De vergunninghouder treft passende technische en organisatorische maatregelen te
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de inschrijving, de aanmelding en de deelname aan de vergunde kansspelen.
 
-### Afdeling 4. Betalingstransacties
+#### Afdeling 4. Betalingstransacties
 
 ##### Artikel 4.25
 
@@ -568,11 +537,11 @@ Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekkin
 
 - a. zijn uitgegeven:
 
-- 1°. door een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van [Richtlijn 2013/36](32013L0036)/EU;
+   - 1°. door een in een lidstaat gevestigde kredietinstelling met een vergunning als bedoeld in artikel 8 van Richtlijn 2013/36/EU;
 
-- 2°. door een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van [Richtlijn (EU) 2015/2366](32015L2366), of
+   - 2°. door een in een lidstaat gevestigde betaaldienstverlener met een vergunning als bedoeld in artikel 11 van Richtlijn (EU) 2015/2366, of
 
-- 3°. door een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e), en
+   - 3°. door een in een lidstaat gevestigde elektronisch geldinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) met een vergunning als bedoeld in [artikel 2:10a](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10a) of die voldoet aan [artikel 2:10e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:10e), en
 
 - b. ondubbelzinnig zijn te herleiden tot de persoon van de speler.
 
@@ -672,7 +641,7 @@ Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot d
 
 - b. de uitkering van prijzen in natura.
 
-### Afdeling 5. Consumentenbescherming
+#### Afdeling 5. Consumentenbescherming
 
 ##### Artikel 4.34
 
@@ -728,7 +697,7 @@ De vergunninghouder onderhoudt een klantendienst die elektronisch en telefonisch
 
 Bij regeling van Onze Minister worden nadere regels gesteld met betrekking tot deze afdeling. Daarbij kunnen regels worden gesteld met betrekking tot de door de vergunninghouder gehanteerde algemene voorwaarden.
 
-### Afdeling 6. Het spelsysteem
+#### Afdeling 6. Het spelsysteem
 
 ##### Artikel 4.40
 
@@ -748,11 +717,11 @@ De vergunninghouder draagt er voor zorg dat in zijn organisatie wordt ontwikkeld
 
 - a. de vergunninghouder te allen tijde beschikt over:
 
-- 1º. een volledige en actuele beschrijving van de configuratie van het spelsysteem;
+   - 1º. een volledige en actuele beschrijving van de configuratie van het spelsysteem;
 
-- 2º. een volledige en actuele beoordeling van het risiconiveau van ieder onderdeel van het spelsysteem, en
+   - 2º. een volledige en actuele beoordeling van het risiconiveau van ieder onderdeel van het spelsysteem, en
 
-- 3º. een volledige en actuele beschrijving van de procedures die worden gevolgd bij wijziging van enig onderdeel van het spelsysteem;
+   - 3º. een volledige en actuele beschrijving van de procedures die worden gevolgd bij wijziging van enig onderdeel van het spelsysteem;
 
 - b. wijzigingen van het spelsysteem op een beheerste, transparante en controleerbare wijze worden aangebracht;
 
@@ -778,7 +747,7 @@ De vergunninghouder draagt er voor zorg dat in zijn organisatie wordt ontwikkeld
 
 Bij regeling van Onze Minister kunnen nadere technische en operationele vereisten worden gesteld aan de veiligheid, vertrouwelijkheid, eerlijkheid, continuïteit, betrouwbaarheid, controleerbaarheid en geschiktheid van het spelsysteem.
 
-### Afdeling 7. De keuring van het spelsysteem
+#### Afdeling 7. De keuring van het spelsysteem
 
 #### Paragraaf 1. De aangewezen keuringsinstellingen
 
@@ -998,27 +967,27 @@ De vergunninghouder onderwerpt ieder onderdeel van het spelsysteem aan keuring d
 
 ##### Artikel 6.1
 
-Wijzigt het Kansspelenbesluit.
+*Wijzigt het Kansspelenbesluit.*
 
 ##### Artikel 6.2
 
-Wijzigt het Besluit werving, reclame en verslavingspreventie kansspelen.
+*Wijzigt het Besluit werving, reclame en verslavingspreventie kansspelen.*
 
 ##### Artikel 6.3
 
-Wijzigt het Speelautomatenbesluit 2000.
+*Wijzigt het Speelautomatenbesluit 2000.*
 
 ##### Artikel 6.4
 
-Wijzigt het Uitvoeringsbesluit Wwft 2018.
+*Wijzigt het Uitvoeringsbesluit Wwft 2018.*
 
 ##### Artikel 6.5
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 6.6
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ### Hoofdstuk 7. Slotbepalingen
 
@@ -1033,5 +1002,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 ##### Artikel 7.3
 
 Dit besluit wordt aangehaald als: Besluit kansspelen op afstand.
-
-Lasten en bevelen dat dit besluit en de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

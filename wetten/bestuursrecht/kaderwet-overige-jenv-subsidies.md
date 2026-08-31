@@ -1,47 +1,18 @@
 ---
 title: "Wet van 10 maart 2021, houdende regels over het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming en tot intrekking van de Wet Justitie-subsidies (Kaderwet overige JenV-subsidies)"
+citeertitel: "Kaderwet overige JenV-subsidies"
 identifier: "BWBR0044954"
-country: "nl"
-rank: "wet"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044954"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15896813"
-version_id: "27628912"
-internal_id: "C40560011"
-label_id: "15832044"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044954/2022-07-01/0"
-intitule_bron: "Stb.2021-138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-10"
-intitule_published: "2021-03-19"
-intitule_in_force: "2022-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2021-138"
-original_signed_date: "2021-03-10"
-original_published_date: "2021-03-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "35512"
-original_url_id: "stb-2021-138"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0044954&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0044954&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderwet overige JenV-subsidies"
-signed_date: "2021-03-10"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0044954"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 10 maart 2021, houdende regels over het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming en tot intrekking van de Wet Justitie-subsidies (Kaderwet overige JenV-subsidies)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het gewenst is de [Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121) te vervangen door een nieuwe regeling;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
@@ -146,5 +117,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Kaderwet overige JenV-subsidies.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

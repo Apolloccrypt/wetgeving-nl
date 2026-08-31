@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering mishandeling"
 identifier: "BWBR0044658"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044658"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15799263"
-version_id: "27391432"
-internal_id: "C38677481"
-label_id: "15736644"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044658/2021-03-01/0"
-intitule_bron: "Stcrt.2020-62343"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-31"
-intitule_in_force: "2020-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62343"
-original_published_date: "2020-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62343"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044658&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0044658&g=2021-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0044658"
+opgehaald: 2026-08-31
 ---
+
 # Richtlijn voor strafvordering mishandeling
 
 ### Beschrijving
@@ -40,7 +21,23 @@ Deze richtlijn heeft betrekking op diverse vormen van mishandeling jegens burger
 
 Mishandeling alleen gepleegd, burgerslachtoffer.
 
+|  |  | first offender |  | 1x recidive* | meermalen recidive* |
+| --- | --- | --- | --- | --- | --- |
+| Geen letsel, wel pijn | Droge klap | GB € 400 | 5j 2j | TS 48 uur Idem of GS 3 wkn | GS 1 mnd ov |
+| Meerdere klappen/schoppen | TS 32 uur | 5j 2j | TS 48 uur Idem of GS 3 wkn | GS 1 mnd ov |  |
+| Slag/stootwapen, kopstoot of gegooid voorwerp | TS 60 uur | 5j 2j | TS 90 uur Idem of GS 6 wkn | GS 2 mnd ov |  |
+| Licht letsel | Droge klap | GB € 750 | 5j 2j | TS 80 uur Idem of GS 5 wkn | GS 6 wkn ov |
+| Meerdere klappen/schoppen | TS 60 uur | 5j 2j | TS 90 uur Idem of GS 6 wkn | GS 2 mnd ov |  |
+| Slag/stootwapen, kopstoot of gegooid voorwerp | TS 120 uur | 5j 2j | TS 180 uur Idem of GS 3 mnd | GS 4 mnd ov |  |
+| Zwaarder letsel | Droge klap | TS 80 uur | 5j 2j | TS 120 uur Idem of GS 2 mnd | GS 11 wkn ov |
+| Meerdere klappen/schoppen | TS 100 uur | 5j 2j | TS 150 uur Idem of GS 10 wkn | GS 14 wkn ov |  |
+| Slag/stootwapen, kopstoot of gegooid voorwerp | TS 150 uur | 5j 2j | TS 220 uur Idem of GS 15 wkn | GS 5 mnd ov |  |
+| Steekwapen of een als zodanig aan te merken voorwerp | Maatwerk of zie 302/ 45 sr |  |  |  |  |
+| Bijzonderheden Strafverzwarend onder andere: Medeplegen (niet zijnde openlijke geweldpleging) Kwetsbare slachtoffers (w.o. huiselijk geweld) > gebruik de richtlijn huiselijk geweld of de richtlijn kindermishandeling! Jegens ambtenaren of andere gezagsfunctionarissen of journalisten(+200%) Evenement (+75%) of voetbal gerelateerd (+50%) Alcohol/drugs en (uitgaans)geweld (+75%) Voorbedachten rade, zwaar lichamelijk letsel of dood als gevolg (maatwerk) Agressie in het verkeer Discriminatoire aspecten (dagvaarden +100%) * let op taakstrafverbod (art. 22b Sr) en of er sprake is van een (zeer actieve) veelpleger of stelselmatige dader |  |  |  |  |  |
+
 ### Legenda
+
+Afkortingen
 
 GB = Geldboete
 

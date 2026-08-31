@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Financiën van 12 juli 2021 houdende instelling van een Oudercommissie kinderopvangtoeslag (Instellingsregeling Oudercommissie kinderopvangtoeslag)"
+citeertitel: "Instellingsregeling Oudercommissie Kinderopvangtoeslag"
 identifier: "BWBR0045396"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045396"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16023553"
-version_id: "27901452"
-internal_id: "C39341671"
-label_id: "15957324"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045396/2025-07-01/0"
-intitule_bron: "Stcrt.2021-34722"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-12"
-intitule_published: "2021-07-14"
-intitule_in_force: "2021-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34722"
-original_signed_date: "2021-07-12"
-original_published_date: "2021-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34722"
-entry_into_force_date: "2021-07-15"
-jci_1_3: "jci1.3:c:BWBR0045396&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0045396&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling Oudercommissie Kinderopvangtoeslag"
-signed_date: "2021-07-12"
-entry_into_force: "2021-07-15"
+publicatiedatum: 2021-07-15
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0045396"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Staatssecretaris van Financiën van 12 juli 2021 houdende instelling van een Oudercommissie kinderopvangtoeslag (Instellingsregeling Oudercommissie kinderopvangtoeslag)
-
-Gelet op [artikel 49f van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49f);
-
-Besluit:
 
 ##### Artikel 1. Grondslag
 
@@ -48,13 +22,14 @@ Deze regeling berust op [artikel 5.1 van de Wet hersteloperatie toeslagen](https
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2025-07-01&g=2025-07-01);
+- *commissie:* commissie, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045396&artikel=3&z=2025-07-01&g=2025-07-01);
 
-- **minister:** Minister van Financiën;
+- *minister:* Minister van Financiën;
 
-- **ministerie:** Ministerie van Financiën;
+- *ministerie:* Ministerie van Financiën;
 
-- **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
+- *wet:*
+ [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 3. Instelling en overleg met de minister
 
@@ -64,7 +39,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het vervallen dan wel intrekken van deze regeling.
+De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het vervallen dan wel intrekken van deze regeling.
 
 ##### Artikel 5. Samenstelling, benoeming, ontheffing, ontslag en werkwijze
 
@@ -104,10 +79,8 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Oudercommissie Kinderopvangtoeslag.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

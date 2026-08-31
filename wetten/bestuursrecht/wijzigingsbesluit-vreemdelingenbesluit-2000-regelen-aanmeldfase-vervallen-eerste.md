@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 28 mei 2021 tot wijziging van het Vreemdelingenbesluit 2000, in verband met het regelen van de aanmeldfase, het vervallen van het eerste gehoor in de algemene asielprocedure en het doorvoeren van enkele technische aanpassingen"
+citeertitel: "Wijzigingsbesluit Vreemdelingenbesluit 2000 (regelen aanmeldfase, vervallen eerste gehoor algemene asielprocedure en doorvoeren enkele technische aanpassingen)"
 identifier: "BWBR0045193"
-country: "nl"
-rank: "amvb"
-publication_date: "2021-06-25"
-last_updated: "2021-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045193"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15973523"
-version_id: "27795482"
-internal_id: "C39201701"
-label_id: "15907484"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045193/2021-06-25/0"
-intitule_bron: "Stb.2021-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-28"
-intitule_published: "2021-06-01"
-intitule_in_force: "2021-06-01"
-intitule_status: "goed"
-original_publication: "Stb.2021-250"
-original_signed_date: "2021-05-28"
-original_published_date: "2021-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-250"
-entry_into_force_date: "2021-06-25"
-jci_1_3: "jci1.3:c:BWBR0045193&z=2021-06-25&g=2021-06-25"
-jci_1_0: "1.0:c:BWBR0045193&g=2021-06-25"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Vreemdelingenbesluit 2000 (regelen aanmeldfase, vervallen eerste gehoor algemene asielprocedure en doorvoeren enkele technische aanpassingen)"
-signed_date: "2021-05-28"
-entry_into_force: "2021-06-25"
+publicatiedatum: 2021-06-25
+laatste_update: 2021-06-25
+status: geldig
+toestand: 2021-06-25
+bron: "https://wetten.overheid.nl/BWBR0045193"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 28 mei 2021 tot wijziging van het Vreemdelingenbesluit 2000, in verband met het regelen van de aanmeldfase, het vervallen van het eerste gehoor in de algemene asielprocedure en het doorvoeren van enkele technische aanpassingen
-
-Op de voordracht van de Staatssecretaris van Justitie en Veiligheid van 18 december 2020, nr. 3150706, Directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 37, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=37);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 24 maart 2021, nr. W16.20.0500/II);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie en Veiligheid van 25 mei 2021, nr. 3280530, Directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel I
 
-Wijzigt het Vreemdelingenbesluit 2000.
+*Wijzigt het Vreemdelingenbesluit 2000.*
 
 ##### Artikel II
 
@@ -62,6 +30,4 @@ Wijzigt het Vreemdelingenbesluit 2000.
 
 ##### Artikel III
 
-Dit besluit treedt in werking met ingang van 25 juni 2021.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+Dit besluit treedt in werking met ingang van 25 juni 2021.

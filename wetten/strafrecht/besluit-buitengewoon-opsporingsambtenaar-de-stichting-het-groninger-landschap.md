@@ -1,31 +1,19 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar de Stichting Het Groninger Landschap"
+title: "Besluit van de Minister voor Rechtsbescherming van 22 februari 2021 nr. BOACAT2021/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Groninger Landschap"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar de Stichting Het Groninger Landschap"
 identifier: "BWBR0044870"
 categorie: "Overig"
-publicatiedatum: 2024-03-30
-laatste_update: 2026-05-18
+soort: "ministeriele-regeling"
+publicatiedatum: 2021-05-18
+laatste_update: 2024-03-30
 status: vervallen
+vervallen_op: 2026-05-17
+toestand: 2024-03-30
 bron: "https://wetten.overheid.nl/BWBR0044870"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 februari 2021 nr. BOACAT2021/004, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Stichting Het Groninger Landschap
-
-Gelezen het verzoek van de Stichting Het Groninger Landschap van 2 februari 2021 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -37,7 +25,7 @@ De personen, werkzaam in de functie van Milieu BOA in dienst van de Stichting he
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -55,11 +43,11 @@ De personen, werkzaam in de functie van Milieu BOA in dienst van de Stichting he
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-3. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en/of korte wapenstok en/of pepperspray, dit laatste geweldsmiddel wordt toegekend tot 12 juli 2024.
+3. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering), van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien en/of korte wapenstok en/of pepperspray, dit laatste geweldsmiddel wordt toegekend tot 12 juli 2024.
 
 ##### Artikel 6
 
-1. De Stichting Het Groninger Landschap brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Stichting Het Groninger Landschap brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044870&artikel=2&z=2024-03-30&g=2024-03-30) genoemde functie;
 
@@ -77,12 +65,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar de Stichting Het Groninger Landschap 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037953) van 4 mei 2016, nr. BOACAT2016/037 zal vervallen op 18 mei 2021.
+Het [Besluit buitengewoon opsporingsambtenaar de Stichting Het Groninger Landschap 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037953) van 4 mei 2016, nr. BOACAT2016/037 zal vervallen op 18 mei 2021.
 
-Dit besluit treedt in werking met ingang van 18 mei 2021 en vervalt met ingang van 18 mei 2026.
+Dit besluit treedt in werking met ingang van 18 mei 2021 en vervalt met ingang van 18 mei 2026.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar de Stichting Het Groninger Landschap.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

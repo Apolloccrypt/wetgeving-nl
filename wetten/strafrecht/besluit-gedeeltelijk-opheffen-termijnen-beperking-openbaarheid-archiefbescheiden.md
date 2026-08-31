@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het gedeeltelijk opheffen van de termijnen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief Ministerie van Justitie: Bureaus Kabinet en Juridische Zaken van de afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968), nummer toegang 2.09.107"
+citeertitel: "Besluit gedeeltelijk opheffen termijnen beperking openbaarheid archiefbescheiden Ministerie van Justitie: Bureaus Kabinet en Juridische Zaken afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968), nummer toegang 2.09.107"
 identifier: "BWBR0045397"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-15"
-last_updated: "2021-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045397"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16023873"
-version_id: "27902922"
-internal_id: "C39343471"
-label_id: "15957534"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045397/2021-07-15/0"
-intitule_bron: "Stcrt.2021-34967"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-30"
-intitule_published: "2021-07-14"
-intitule_in_force: "2021-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34967"
-original_signed_date: "2021-06-30"
-original_published_date: "2021-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34967"
-entry_into_force_date: "2021-07-15"
-jci_1_3: "jci1.3:c:BWBR0045397&z=2021-07-15&g=2021-07-15"
-jci_1_0: "1.0:c:BWBR0045397&g=2021-07-15"
-citeertitel_status: "redactioneel"
-short_title: "Besluit gedeeltelijk opheffen termijnen beperking openbaarheid archiefbescheiden Ministerie van Justitie: Bureaus Kabinet en Juridische Zaken afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968), nummer toegang 2.09.107"
-signed_date: "2021-06-30"
-entry_into_force: "2021-07-15"
+publicatiedatum: 2021-07-15
+laatste_update: 2021-07-15
+status: geldig
+toestand: 2021-07-15
+bron: "https://wetten.overheid.nl/BWBR0045397"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media houdende het gedeeltelijk opheffen van de termijnen van de beperking aan de openbaarheid van archiefbescheiden, opgenomen in het archief Ministerie van Justitie: Bureaus Kabinet en Juridische Zaken van de afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968), nummer toegang 2.09.107
-
-Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Gelet op het [besluit van de Minister van Justitie van 12 januari 2009 houdende de beperking op de openbaarheid van het archief betreffende bureaus Kabinet en Juridische Zaken van de afdeling Politie ressorterend onder het Ministerie van Justitie (1932–) 1945–1952 (–1968)](https://wetten.overheid.nl/jci1.3:c:BWBR0026704) (Staatscourant 2009, 17934),
-
-Gehoord hebbende de Minister van Justitie,
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,7 +24,7 @@ De beperking die is gesteld aan de openbaarheid van de volgende inventarisnummer
 
 ##### Artikel 2
 
-De beperking aan de openbaarheid van de volgende inventarisnummers vervalt per 1 januari van het hieronder aangegeven jaar.
+De beperking aan de openbaarheid van de volgende inventarisnummers vervalt per 1 januari van het hieronder aangegeven jaar.
 
 | Inventarisnummers | Jaar |
 | --- | --- |
@@ -74,5 +44,3 @@ Inzage in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045397&artikel
 ##### Artikel 4
 
 De beperking aan de openbaarheid van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045397&artikel=2&z=2021-07-15&g=2021-07-15) genoemde inventarisnummers wordt opgeheven indien ten genoegen van de beheerder van het Nationaal Archief, de algemene rijksarchivaris, is aangetoond dat de persoon op wie de archiefbescheiden in deze inventarisnummers betrekking hebben, is overleden. Dit is van toepassing op persoonsdossiers.
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende het organisatiereglement van de Dienst van het kadaster en de openbare registers (Reglement inrichting organisatie Kadaster 2021)"
+citeertitel: "Reglement inrichting organisatie Kadaster 2021"
 identifier: "BWBR0045385"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-06-06"
-last_updated: "2025-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045385"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16019783"
-version_id: "27885172"
-internal_id: "C39324241"
-label_id: "15953044"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045385/2025-06-06/0"
-intitule_bron: "Stcrt.2021-34723"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-28"
-intitule_published: "2021-07-09"
-intitule_in_force: "2021-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34723"
-original_signed_date: "2021-06-28"
-original_published_date: "2021-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34723"
-entry_into_force_date: "2021-07-11"
-jci_1_3: "jci1.3:c:BWBR0045385&z=2025-06-06&g=2025-06-06"
-jci_1_0: "1.0:c:BWBR0045385&g=2025-06-06"
-citeertitel_status: "officieel"
-short_title: "Reglement inrichting organisatie Kadaster 2021"
-signed_date: "2021-06-28"
-entry_into_force: "2021-07-11"
+publicatiedatum: 2021-07-11
+laatste_update: 2025-06-06
+status: geldig
+toestand: 2025-06-06
+bron: "https://wetten.overheid.nl/BWBR0045385"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende het organisatiereglement van de Dienst van het kadaster en de openbare registers (Reglement inrichting organisatie Kadaster 2021)
-
-Gelet op [artikel 17 van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -82,10 +56,8 @@ Het [Reglement inrichting organisatie Kadaster 2014](https://wetten.overheid.nl/
 
 ##### Artikel 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2021.
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2021.
 
 ##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Reglement inrichting organisatie Kadaster 2021.
-
-Dit besluit zal met de toelichting worden bekendgemaakt in de Staatscourant.

@@ -1,46 +1,17 @@
 ---
 title: "Regeling projectsubsidies literaire activiteiten"
 identifier: "BWBR0044755"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-12-31"
-last_updated: "2024-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044755"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15826063"
-version_id: "27476232"
-internal_id: "C38780051"
-label_id: "15762914"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044755/2024-12-31/0"
-intitule_bron: "Stcrt.2021-3974"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-01-29"
-intitule_in_force: "2021-01-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-3974"
-original_published_date: "2021-01-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-3974"
-entry_into_force_date: "2021-01-15"
-jci_1_3: "jci1.3:c:BWBR0044755&z=2024-12-31&g=2024-12-31"
-jci_1_0: "1.0:c:BWBR0044755&g=2024-12-31"
-citeertitel_status: "officieel"
-entry_into_force: "2021-01-15"
+publicatiedatum: 2021-01-15
+laatste_update: 2024-12-31
+status: geldig
+toestand: 2024-12-31
+bron: "https://wetten.overheid.nl/BWBR0044755"
+opgehaald: 2026-08-31
 ---
+
 # Regeling projectsubsidies literaire activiteiten
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemeen
 
@@ -48,57 +19,57 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- **auteurs:** professionele literaire makers, waaronder schrijvers en vertalers;
+- *auteurs:* professionele literaire makers, waaronder schrijvers en vertalers;
 
-- **het bestuur:** het bestuur van de Stichting Nederlands Letterenfonds;
+- *het bestuur:* het bestuur van de Stichting Nederlands Letterenfonds;
 
-- **bezoekers:** betalende en niet betalende bezoekers van de activiteiten die zijn geteld op een naar het oordeel van het Letterenfonds duidelijk kenbare en controleerbare wijze;
+- *bezoekers:* betalende en niet betalende bezoekers van de activiteiten die zijn geteld op een naar het oordeel van het Letterenfonds duidelijk kenbare en controleerbare wijze;
 
-- **Letterenfonds:** de Stichting Nederlands Letterenfonds;
+- *Letterenfonds:* de Stichting Nederlands Letterenfonds;
 
-- **literatuur:** Nederlandstalige en/of Friestalige literatuur;
+- *literatuur:* Nederlandstalige en/of Friestalige literatuur;
 
-- **literair:** de Nederlandstalige en/of Friestalige literatuur betreffende;
+- *literair:* de Nederlandstalige en/of Friestalige literatuur betreffende;
 
-- **project:** een in de tijd beperkte publieksactiviteit in Nederland op het gebied van de literatuur, of, een activiteit gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of literair creatief schrijven met betalende en niet betalende participanten die zijn geteld op een naar het oordeel van het Letterenfonds duidelijk kenbare en controleerbare wijze (literair-educatief project);
+- *project:* een in de tijd beperkte publieksactiviteit in Nederland op het gebied van de literatuur, of, een activiteit gericht op het binnen- of buitenschools stimuleren van het lezen van literatuur en/of literair creatief schrijven met betalende en niet betalende participanten die zijn geteld op een naar het oordeel van het Letterenfonds duidelijk kenbare en controleerbare wijze (literair-educatief project);
 
-- **eigen inkomsten:** de baten in de jaarrekening, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+- *eigen inkomsten:* de baten in de jaarrekening, te weten: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- a. publieksinkomsten;
+   - a. publieksinkomsten;
 
-- b. overige inkomsten, te weten:
+   - b. overige inkomsten, te weten:
 
-- –. directe opbrengsten: sponsorinkomsten en overige inkomsten;
+      - – directe opbrengsten: sponsorinkomsten en overige inkomsten;
 
-- –. indirecte opbrengsten en
+      - – indirecte opbrengsten en
 
-- –. overige bijdragen.
+      - – overige bijdragen.
 
-- –. subsidies die zijn verstrekt door een bestuursorgaan;
+   - – subsidies die zijn verstrekt door een bestuursorgaan;
 
-- –. overige bijdragen uit publieke middelen;
+   - – overige bijdragen uit publieke middelen;
 
-- –. rentebaten;
+   - – rentebaten;
 
-- –. bijdragen in natura;
+   - – bijdragen in natura;
 
-- –. kapitalisatie van vrijwilligers;
+   - – kapitalisatie van vrijwilligers;
 
-- –. waardering vrijkaarten en
+   - – waardering vrijkaarten en
 
-- –. overige baten die geen relatie hebben met cultureel ondernemerschap.
+   - – overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-- **Nederland:** het koninkrijk der Nederlanden;
+- *Nederland:* het koninkrijk der Nederlanden;
 
-- **talentontwikkeling:** activiteiten gericht op:
+- *talentontwikkeling:* activiteiten gericht op:
 
-- •. de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
+   - • de ontwikkeling van meer gevorderde auteurs op andere dan doorgaans door hen beoefende literaire terreinen;
 
-- •. het ontwikkelen van talent (waaronder programmeurs van literaire activiteiten) binnen de instelling van de aanvrager;
+   - • het ontwikkelen van talent (waaronder programmeurs van literaire activiteiten) binnen de instelling van de aanvrager;
 
-- •. het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk - waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
+   - • het begeleiden van talentvolle beginnende auteurs naar de professionele literaire praktijk - waaronder niet wordt begrepen het bevorderen of begeleiden van amateurschrijvers, educatieve doelstellingen of het stimuleren van cultuurparticipatie van jongeren;
 
-- **randstad:** de stedelijke regio's Amsterdam, Rotterdam, Den Haag en Utrecht.
+- *randstad:* de stedelijke regio's Amsterdam, Rotterdam, Den Haag en Utrecht.
 
 ##### Artikel 2. Doel
 
@@ -134,7 +105,7 @@ Het Letterenfonds beoogt met verlening van een subsidie voor een project op gron
 
 - h. voor zover de aanvrager in de aanvraag niet verklaart dat hij de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit& Inclusie onderschrijft en dat hij aansluit bij bestaande afspraken over honorering en de sociale dialoog tussen werkgevers-opdrachtgevers en werknemers-opdrachtnemers.
 
-3. De subsidieontvanger van een vierjarige subsidie op grond van de [Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) komt niet in aanmerking voor een subsidie op grond van deze regeling ten aanzien van projecten die plaatsvinden in de kalenderjaren 2025 en 2026. Wel kan de subsidieontvanger ten aanzien van projecten die plaatsvinden in 2027 en 2028 subsidie aanvragen op grond van deze regeling voor een bedrag van maximaal € 20.000,– per jaar en uitsluitend indien het project waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de Regeling vierjarige subsidies literair-educatieve organisaties 2025-2028.
+3. De subsidieontvanger van een vierjarige subsidie op grond van de [Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) komt niet in aanmerking voor een subsidie op grond van deze regeling ten aanzien van projecten die plaatsvinden in de kalenderjaren 2025 en 2026. Wel kan de subsidieontvanger ten aanzien van projecten die plaatsvinden in 2027 en 2028 subsidie aanvragen op grond van deze regeling voor een bedrag van maximaal € 20.000,– per jaar en uitsluitend indien het project waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de Regeling vierjarige subsidies literair-educatieve organisaties 2025-2028.
 
 ##### Artikel 5. Beoordelingscriteria
 
@@ -184,11 +155,11 @@ Het Letterenfonds beoogt met verlening van een subsidie voor een project op gron
 
 1. Indien het budget tekortschiet om alle aanvragen te honoreren, worden de aanvragen die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen, per categorie onderverdeeld in drie groepen:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat en
+- B: honoreren voor zover het budget dat toelaat en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
 2. Als het subsidieplafond ontoereikend is om alle aanvragen in de groepen A en B die voor subsidie in aanmerking komen te honoreren, worden de aanvragen in een rangorde geplaatst.
 
@@ -244,9 +215,9 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 ##### Artikel 16. Intrekking, overgangsbepalingen en inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 15 januari 2021.
+1. Deze regeling treedt in werking met ingang van 15 januari 2021.
 
-2. De [Regeling literaire manifestaties en projecten, incidenteel en tweejarig](https://wetten.overheid.nl/jci1.3:c:BWBR0039024) wordt per 15 januari 2021 ingetrokken.
+2. De [Regeling literaire manifestaties en projecten, incidenteel en tweejarig](https://wetten.overheid.nl/jci1.3:c:BWBR0039024) wordt per 15 januari 2021 ingetrokken.
 
 3. In afwijking van het eerste lid blijft de[Regeling literaire manifestaties en projecten, incidenteel en tweejarig](https://wetten.overheid.nl/jci1.3:c:BWBR0039024) van toepassing op de voor het tijdstip van inwerkingtreding van deze regeling tijdig ingestelde bezwaar- en beroepschriften.
 
@@ -255,5 +226,3 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
 2. Deze regeling wordt aangehaald als Regeling projectsubsidies literaire activiteiten.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

@@ -1,54 +1,29 @@
 ---
 title: "Beleidsregels openbaarmaking informatie over vergunningen en vergunninghouders Kansspelen op afstand (Beleidsregels openbaarmaking VVKOA), kenmerk 01.243.714"
+citeertitel: "Beleidsregels openbaarmaking VVKOA"
 identifier: "BWBR0045428"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-07-21"
-last_updated: "2021-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045428"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16030603"
-version_id: "27917022"
-internal_id: "C39363001"
-label_id: "15963994"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045428/2021-07-21/0"
-intitule_bron: "Stcrt.2021-35876"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-06"
-intitule_published: "2021-07-20"
-intitule_in_force: "2021-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-35876"
-original_signed_date: "2021-07-06"
-original_published_date: "2021-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-35876"
-entry_into_force_date: "2021-07-21"
-jci_1_3: "jci1.3:c:BWBR0045428&z=2021-07-21&g=2021-07-21"
-jci_1_0: "1.0:c:BWBR0045428&g=2021-07-21"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels openbaarmaking VVKOA"
-signed_date: "2021-07-06"
-entry_into_force: "2021-07-21"
+publicatiedatum: 2021-07-21
+laatste_update: 2021-07-21
+status: geldig
+toestand: 2021-07-21
+bron: "https://wetten.overheid.nl/BWBR0045428"
+opgehaald: 2026-08-31
 ---
+
 # Beleidsregels openbaarmaking informatie over vergunningen en vergunninghouders Kansspelen op afstand (Beleidsregels openbaarmaking VVKOA), kenmerk 01.243.714
-
-gelet op [artikelen 31a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a), en [31d, eerste en tweede lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31d) en [artikel 8 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=8),
-
-besluit de volgende beleidsregels vast te stellen:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **raad van bestuur:** raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- – *raad van bestuur:* raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- –. **vergunning:** vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- – *vergunning:* vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- –. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- – *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 2. Openbaarmaking
 

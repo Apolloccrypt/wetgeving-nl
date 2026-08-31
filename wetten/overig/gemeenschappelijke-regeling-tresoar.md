@@ -1,62 +1,37 @@
 ---
 title: "Gemeenschappelijke regeling Tresoar"
 identifier: "BWBR0045479"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045479"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16038663"
-version_id: "27933472"
-internal_id: "C39387901"
-label_id: "15971934"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045479/2021-07-01/0"
-intitule_bron: "Stcrt.2021-32234"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-06-25"
-intitule_in_force: "2021-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-32234"
-original_published_date: "2021-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-32234"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0045479&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0045479&g=2021-07-01"
-citeertitel_status: "officieel"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0045479"
+opgehaald: 2026-08-31
 ---
+
 # Gemeenschappelijke regeling Tresoar
-
-Gelet op [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II) en [IX van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
-
-Besluiten:
-
-tot het treffen van de navolgende de gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Fryslân, de Provinciale en Buma Bibliotheek te Leeuwarden en het Frysk Letterkundich Museum en Dokumintaasjesintrum te Leeuwarden.
 
 ##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
-- 1. **de minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- 1. *de minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- 2. **de provincie:** de provincie Fryslân;
+- 2. *de provincie:* de provincie Fryslân;
 
-- 3. **de stichting:** de stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;
+- 3. *de stichting:* de stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;
 
-- 4. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- 4. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- 5. **collecties:** de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de minister, de provincie en de stichting voor zover het betreft voorwerpen, boeken of bescheiden bij de rijksarchiefbewaarplaats in de provincie, de voormalige Provinciale en Buma Bibliotheek te Leeuwarden en het Frysk Letterkundich Museum en Dokumintaasjesintrum te Leeuwarden;
+- 5. *collecties:* de verzameling historische voorwerpen, boeken en overige schriftelijke en elektronische bescheiden in de meest ruime zin des woords, niet zijnde archiefbescheiden, in eigendom van of beheer bij de minister, de provincie en de stichting voor zover het betreft voorwerpen, boeken of bescheiden bij de rijksarchiefbewaarplaats in de provincie, de voormalige Provinciale en Buma Bibliotheek te Leeuwarden en het Frysk Letterkundich Museum en Dokumintaasjesintrum te Leeuwarden;
 
-- 6. **gedeputeerde staten:** gedeputeerde staten van de provincie;
+- 6. *gedeputeerde staten:* gedeputeerde staten van de provincie;
 
-- 7. **provinciale staten:** provinciale staten van de provincie, en
+- 7. *provinciale staten:* provinciale staten van de provincie, en
 
-- 8. **stichtingsbestuur:** het bestuur van de stichting.
+- 8. *stichtingsbestuur:* het bestuur van de stichting.
 
 ##### Artikel 2
 
@@ -280,11 +255,11 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Een periode van vier jaren als bedoeld in het eerste lid valt samen met de periode van een cultuurnota als bedoeld in [artikel 3 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=3).
 
-4. Het dagelijks bestuur zendt het ontwerpbeleidsplan en de ontwerpmeerjarenraming aan het algemeen bestuur. Het algemeen bestuur stelt ze vast. Uiterlijk 15 april van het jaar voorafgaand aan de periode waarop het vierjarig beleidsplan en de meerjarenraming betrekking hebben, worden deze toegezonden aan de minister, provinciale staten en het stichtingsbestuur.
+4. Het dagelijks bestuur zendt het ontwerpbeleidsplan en de ontwerpmeerjarenraming aan het algemeen bestuur. Het algemeen bestuur stelt ze vast. Uiterlijk 15 april van het jaar voorafgaand aan de periode waarop het vierjarig beleidsplan en de meerjarenraming betrekking hebben, worden deze toegezonden aan de minister, provinciale staten en het stichtingsbestuur.
 
 ##### Artikel 18
 
-1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de minister, provinciale staten en het stichtingsbestuur.
+1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de minister, provinciale staten en het stichtingsbestuur.
 
 2. Het dagelijks bestuur biedt jaarlijks, ten minste acht weken voor de in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045479&artikel=18a&z=2021-07-01&g=2021-07-01), bedoelde vaststelling, de minister, provinciale staten en het stichtingsbestuur, een ontwerp aan voor de begroting met toelichting van Tresoar en een meerjarenraming met toelichting voor ten minste drie op het begrotingsjaar volgende jaren.
 
@@ -302,7 +277,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 2. Nadat deze is vastgesteld, zendt het algemeen bestuur, zo nodig, de begroting aan de minister en provinciale staten die ter zake bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties hun zienswijze naar voren kunnen brengen.
 
-3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 19
 
@@ -322,13 +297,13 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 1. Het algemeen bestuur stelt de jaarrekening vast in het jaar volgende op het jaar waarop deze betrekking heeft.
 
-2. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de minister, provinciale staten en het stichtingsbestuur. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in[artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+2. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de minister, provinciale staten en het stichtingsbestuur. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in[artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 3. Het dagelijks bestuur draagt er zorg voor dat medewerking wordt verleend aan door of namens de accountant(s) van de minister, de provincie in te stellen onderzoeken naar de door de accountant, bedoeld in het eerste lid, verrichte (controle)werkzaamheden.
 
-4. Het dagelijks bestuur brengt jaarlijks aan de minister, provinciale staten en het stichtingsbestuur voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
+4. Het dagelijks bestuur brengt jaarlijks aan de minister, provinciale staten en het stichtingsbestuur voor 15 april een inhoudelijk verslag uit van de werkzaamheden, het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen kalenderjaar.
 
-5. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de minister van Binnenlandse Zaken en Koninkrijksrelaties, de minister, provinciale staten en het stichtingsbestuur.
+5. Het dagelijks bestuur zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de minister van Binnenlandse Zaken en Koninkrijksrelaties, de minister, provinciale staten en het stichtingsbestuur.
 
 6. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
@@ -434,158 +409,6 @@ Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Tresoar.
 
 ##### Artikel 40
 
-1. De [gemeenschappelijke regeling Letterhoeke](https://wetten.overheid.nl/jci1.3:c:BWBR0013738), gepubliceerd als bijlage bij het besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 4 juni 2002 (Staatscourant 2002, 163) wordt ingetrokken.
+1. De [gemeenschappelijke regeling Letterhoeke](https://wetten.overheid.nl/jci1.3:c:BWBR0013738), gepubliceerd als bijlage bij het besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen van 4 juni 2002 (Staatscourant 2002, 163) wordt ingetrokken.
 
 2. De rechten en verplichtingen van de [Regeling Letterhoeke](https://wetten.overheid.nl/jci1.3:c:BWBR0013738), zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling blijven in stand na de inwerkingtreding van deze regeling.
-
-## Mienskiplike regeling Tresoar
-
-De Minister foar Basis- en Fuortset Underwiis en Media, it kolleezje fan deputearre steaten fan Fryslân en it bestjoer fan de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;
-
-Mei it each op [haadstik II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II) en [IX fan de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
-
-Beslute:
-
-ta de neikommende mienskiplike regeling te kommen ta it ynstellen fan in iepenbier lichem dat de argyfbeskieden en kolleksjes beheart dy’t berêste yn it ryksargyfbewarplak yn de provinsje Fryslân, de Provinciale en Buma Bibliotheek yn Ljouwert en it Frysk Letterkundich Museum en Dokumintaasjesintrum yn Ljouwert.
-
-### Kêst 1
-
-Yn dizze mienskiplike regeling wurdt ferstien ûnder:
-
-### Kêst 2
-
-### Kêst 2a
-
-### Kêst 2b
-
-### Kêst 3
-
-It algemien bestjoer stelt de regels oangeande de kosten, bedoeld yn [kêst 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=14) en [18, seisde lid, fan de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18), fêst by unanimiteit en folget dêrby safolle mooglik de regels dy’t de minister op grûn fan [kêst 19 fan de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19) foar de argyfbeskieden fan it Ryk fêststeld hat.
-
-### Kêst 3a
-
-### Kêst 4
-
-### Kêst 4a
-
-### Kêst 5
-
-### Kêst 6
-
-### Kêst 7
-
-It algemien bestjoer stelt sa gau as mooglik skriftlik oan de minister, provinsjale steaten en it stichtingsbestjoer de troch harren frege ynljochtings beskikber.
-
-### Kêst 8
-
-### Kêst 9
-
-De minister, deputearre steaten en it stichtingsbestjoer kinne in troch harren oanwiisd lid fan it algemien bestjoer, dat net mear harren betrouwen hat, ûntslaan.
-
-### Kêst 10
-
-### Kêst 11
-
-It deistich bestjoer komt sa faak gear as ien of mear leden fan it deistich bestjoer soks nedich achtsje.
-
-### Kêst 12
-
-It deistich bestjoer stelt regels foar syn gearkomsten fêst.
-
-### Kêst 13
-
-It deistich bestjoer hat yn alle gefallen op ‘e noed:
-
-### Kêst 14
-
-### Kêst 15
-
-### Kêst 16
-
-### Kêst 17
-
-### Kêst 18
-
-### Kêst 18a:
-
-### Kêst 19
-
-### Kêst 20
-
-### Kêst 21
-
-### Kêst 22
-
-### Kêst 23
-
-By de jierrekken stelt it algemien bestjoer de definitive bydragen fan de minister en de provinsje fêst.
-
-### Kêst 24
-
-### Kêst 25
-
-De minister en de provinsje kinne, yn it ramt fan de oanbelangjende regeling, mei-inoar fierdere regels stelle oer it finansjeel en materieel behear, oer de ynrjochting fan de begrutting, it finansjeel ferslach, jierferslach en punten fan omtinken foar de akkountantskontrôle.
-
-### Kêst 26
-
-### Kêst 27
-
-### Kêst 28
-
-### Kêst 29
-
-It deistich bestjoer beslút oer beneaming, tydlik út it amt sette en ûntslach fan de direkteur fan Tresoar.
-
-### Kêst 30
-
-### Kêst 31
-
-### Kêst 32
-
-It fierdere personiel wurdt yn tsjinst nommen, tydlik út it amt set of ûntslein troch it deistich bestjoer.
-
-### Kêst 33
-
-### Kêst 34
-
-It is mooglik en slút by de regeling oan troch besluten dêrfoar fan de minister, deputearre staten nei it krijen fan tastimming fan provinsjale steaten, en it stichtingsbestjoer, en ek de bestjoersorganen of rjochtspersoanen, dy’t oanslute wolle.
-
-### Kêst 35
-
-### Kêst 36
-
-### Kêst 37
-
-Oan dizze regeling kin in ein makke wurde by beslút fan de minister, deputearre steaten en it stichtingsbestjoer. It algemien bestjoer stelt in likwidaasjeplan op dat foarsjocht yn de ferplichting fan de Steat, de provinsje en de stichting om alle rjochten en plichten fan it iepenbier lichem oer de Steat, de provinsje en de stichting te ferpartsjen op in yn it plan fêstleine wize.
-
-### Kêst 38
-
-### Kêst 39
-
-Dizze regeling wurdt oanhelle as: Mienskiplike regeling Tresoar.
-
-### Kêst 40
-
-De Minister foar Basis- en Fuortset Underwiis en Media,
-
-A. Slob
-
-Deputearre steaten fan Fryslân,
-
-De foarsitter
-
-A.A.M. Brok
-
-de sekretaris
-
-R.E. Bouius-Riemersma
-
-Bestjoer fan de Stichting Frysk Letterkundich Museum en Dokumintaasjesintrum;
-
-De foarsitter
-
-W. Verf
-
-de sekretaris
-
-P. de Groot

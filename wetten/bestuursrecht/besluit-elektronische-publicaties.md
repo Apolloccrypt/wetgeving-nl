@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 1 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Besluit elektronische publicaties)"
+citeertitel: "Besluit elektronische publicaties"
 identifier: "BWBR0045037"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045037"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15924793"
-version_id: "27691542"
-internal_id: "C39065981"
-label_id: "15860034"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045037/2025-01-01/0"
-intitule_bron: "Stb.2021-175"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-01"
-intitule_published: "2021-04-09"
-intitule_in_force: "2021-04-09"
-intitule_status: "goed"
-original_publication: "Stb.2021-175"
-original_signed_date: "2021-04-01"
-original_published_date: "2021-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-175"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0045037&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0045037&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit elektronische publicaties"
-signed_date: "2021-04-01"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0045037"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 1 april 2021, houdende regels over elektronische publicatie van algemene bekendmakingen, mededelingen en kennisgevingen (Besluit elektronische publicaties)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 25 mei 2020, nr. 2020-0000255276;
-
-Gelet op de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=15), [16, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=16), [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19), en [20, tweede en derde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20), [artikel 69, eerste en vijfde lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=69), de [artikelen 5.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.16), [5.44b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44b), [15.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=15.8), [16.139, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.139), [19.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.12), en [20.26, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.26), [artikel 18, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=18), de [artikelen 7.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.4), en [7.6, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [artikel X, derde lid, van de Wet elektronisch berichtenverkeer Belastingdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0037120&artikel=X), de [artikelen 8.40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40), [8.41, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41), [8.42, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42), en [10.32 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.32), [artikel 1.13, eerste lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=1.13) en de [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=2.4), [3.7, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.7), [3.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.37), [4.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.2), en [6.13, negende lid, van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=6.13);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 juni 2020, nr. W04.20.0154/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 29 maart 2021, nr. 2020-0000412175;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,23 +20,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **afkondigingsblad:** door het bestuurscollege uitgegeven publicatieblad;
+- *afkondigingsblad:* door het bestuurscollege uitgegeven publicatieblad;
 
-- **bestuur van de bedrijfsvoeringsorganisatie:** bestuur van de bedrijfsvoeringsorganisatie, bedoeld in [artikel 8, derde lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
+- *bestuur van de bedrijfsvoeringsorganisatie:* bestuur van de bedrijfsvoeringsorganisatie, bedoeld in [artikel 8, derde lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **bestuurscollege:** bestuurscollege van het openbaar lichaam, bedoeld in [artikel 1, onderdeel a, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=1);
+- *bestuurscollege:* bestuurscollege van het openbaar lichaam, bedoeld in [artikel 1, onderdeel a, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=1);
 
-- **dagelijks bestuur van het openbaar lichaam:** dagelijks bestuur van het openbaar lichaam, bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
+- *dagelijks bestuur van het openbaar lichaam:* dagelijks bestuur van het openbaar lichaam, bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **de wet:** de [Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287);
+- *de wet:* de [Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287);
 
-- **gemeenschappelijk orgaan:** gemeenschappelijk orgaan als bedoeld in [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
+- *gemeenschappelijk orgaan:* gemeenschappelijk orgaan als bedoeld in [artikel 8, tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **MijnOverheid-account:** MijnOverheid-account als bedoeld in [artikel 1 van het Besluit digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&artikel=1);
+- *MijnOverheid-account:* MijnOverheid-account als bedoeld in [artikel 1 van het Besluit digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0037987&artikel=1);
 
-- **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **publicatiebladen:** in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1) en [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemde publicatiebladen die elektronisch worden uitgegeven, met uitzondering van het Staatsblad.
+- *publicatiebladen:* in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1) en [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemde publicatiebladen die elektronisch worden uitgegeven, met uitzondering van het Staatsblad.
 
 ### Hoofdstuk 2. Integriteit beraadslaging en vaststelling
 
@@ -128,7 +96,7 @@ De eerste ondertekenaar van een publicatie als bedoeld in [artikel 3.5, eerste l
 
 Onze Minister, gedeputeerde staten, het college van burgemeester en wethouders, het dagelijks bestuur van het waterschap, het bestuurscollege, het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie en het gemeenschappelijk orgaan, passen met betrekking tot de plaatsing in onderscheidenlijk de Staatscourant, het provinciaal blad, het gemeenteblad, het waterschapsblad, het afkondigingsblad indien dat elektronisch wordt uitgegeven en het publicatieblad de regels of technische standaarden toe die bij regeling van Onze Minister zijn gesteld onderscheidenlijk zijn aangewezen.
 
-### Hoofdstuk 4. Bekendmaking als bedoeld in [artikel 7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=7)
+### Hoofdstuk 4. Bekendmaking als bedoeld in artikel 7, tweede lid, van de wet
 
 ##### Artikel 4.1. Beschikbaar blijven
 
@@ -146,13 +114,13 @@ Onze Minister, gedeputeerde staten, het college van burgemeester en wethouders, 
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. wetten, algemene maatregelen van bestuur en anders dan bij wet of algemene maatregel van bestuur vanwege het Rijk vastgestelde algemeen verbindende voorschriften die zijn ingetrokken of uitgewerkt vóór 1 juli 2009;
+- a. wetten, algemene maatregelen van bestuur en anders dan bij wet of algemene maatregel van bestuur vanwege het Rijk vastgestelde algemeen verbindende voorschriften die zijn ingetrokken of uitgewerkt vóór 1 juli 2009;
 
-- b. anders dan vanwege het Rijk vastgestelde algemeen verbindende voorschriften die zijn ingetrokken of uitgewerkt vóór 1 januari 2011;
+- b. anders dan vanwege het Rijk vastgestelde algemeen verbindende voorschriften die zijn ingetrokken of uitgewerkt vóór 1 januari 2011;
 
 - c. beleidsregels die zijn ingetrokken of uitgewerkt vóór de datum gelegen een jaar na het tijdstip waarop [artikel 1.1 van de Wet elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0043961&artikel=1.1) in werking is getreden;
 
-- d. gemeenschappelijke regelingen die zijn ingetrokken of uitgewerkt vóór 1 januari 2015;
+- d. gemeenschappelijke regelingen die zijn ingetrokken of uitgewerkt vóór 1 januari 2015;
 
 - e. algemeen verbindende voorschriften die zijn bekendgemaakt op grond van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449);
 
@@ -172,75 +140,75 @@ Elektronische berichten over bekendmakingen, mededelingen en kennisgevingen in d
 
 Personen die geen elektronische berichten willen ontvangen, melden zich voor deze berichten af in hun MijnOverheid-account. Indien het adres van hun inschrijving in de basisregistratie personen wijzigt, kunnen zij worden uitgenodigd zich voor deze berichten aan te melden.
 
-### Hoofdstuk 7. Wijziging [Bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025257)
+### Hoofdstuk 7. Wijziging Bekendmakingsbesluit
 
-##### Artikel 7.1. [Bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025257)
+##### Artikel 7.1. Bekendmakingsbesluit
 
-Wijzigt het Bekendmakingsbesluit.
+*Wijzigt het Bekendmakingsbesluit.*
 
-### Hoofdstuk 8. Wijziging [Besluit verwerking persoonsgegevens generieke digitale infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0037987)
+### Hoofdstuk 8. Wijziging Besluit verwerking persoonsgegevens generieke digitale infrastructuur
 
-##### Artikel 8.1. [Besluit verwerking persoonsgegevens generieke digitale infrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0037987)
+##### Artikel 8.1. Besluit verwerking persoonsgegevens generieke digitale infrastructuur
 
-Wijzigt het Besluit verwerking persoonsgegevens generieke digitale infrastructuur
+*Wijzigt het Besluit verwerking persoonsgegevens generieke digitale infrastructuur*
 
 ### Hoofdstuk 9. Wijziging andere besluiten
 
-##### Artikel 9.1. [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762)
+##### Artikel 9.1. Activiteitenbesluit milieubeheer
 
-Wijzigt het Activiteitenbesluit milieubeheer.
+*Wijzigt het Activiteitenbesluit milieubeheer.*
 
-##### Artikel 9.2. [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826)
+##### Artikel 9.2. Besluit administratieve bepalingen inzake het wegverkeer
 
-Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
+*Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).*
 
-##### Artikel 9.3. [Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771)
+##### Artikel 9.3. Besluit algemene regels milieu mijnbouw
 
-Wijzigt het Besluit algemene regels milieu mijnbouw.
+*Wijzigt het Besluit algemene regels milieu mijnbouw.*
 
-##### Artikel 9.4. [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179)
+##### Artikel 9.4. Besluit basisveiligheidsnormen stralingsbescherming
 
-Wijzigt het Besluit basisveiligheidsnormen stralingsbescherming.
+*Wijzigt het Besluit basisveiligheidsnormen stralingsbescherming.*
 
-##### Artikel 9.5. [Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386)
+##### Artikel 9.5. Besluit diergeneesmiddelen
 
-Wijzigt het Besluit diergeneesmiddelen.
+*Wijzigt het Besluit diergeneesmiddelen.*
 
-##### Artikel 9.6. [Besluit kennisgevingen Nederlandse loodsencorporatie](https://wetten.overheid.nl/jci1.3:c:BWBR0004390)
+##### Artikel 9.6. Besluit kennisgevingen Nederlandse loodsencorporatie
 
-Wijzigt het Besluit kennisgevingen Nederlandse loodsencorporatie.
+*Wijzigt het Besluit kennisgevingen Nederlandse loodsencorporatie.*
 
-##### Artikel 9.7. [Besluit lozen buiten inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0029789)
+##### Artikel 9.7. Besluit lozen buiten inrichtingen
 
-Wijzigt het Besluit lozen buiten inrichtingen.
+*Wijzigt het Besluit lozen buiten inrichtingen.*
 
-##### Artikel 9.8. [Besluit mobiel breken bouw- en sloopafval](https://wetten.overheid.nl/jci1.3:c:BWBR0016292)
+##### Artikel 9.8. Besluit mobiel breken bouw- en sloopafval
 
-Wijzigt het Besluit mobiel breken bouw- en sloopafval.
+*Wijzigt het Besluit mobiel breken bouw- en sloopafval.*
 
-##### Artikel 9.9. [Besluit natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038662)
+##### Artikel 9.9. Besluit natuurbescherming
 
-Wijzigt het Besluit natuurbescherming.
+*Wijzigt het Besluit natuurbescherming.*
 
-##### Artikel 9.10. [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
+##### Artikel 9.10. Besluit omgevingsrecht
 
-Wijzigt het Besluit omgevingsrecht.
+*Wijzigt het Besluit omgevingsrecht.*
 
-##### Artikel 9.11. [Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798)
+##### Artikel 9.11. Besluit ruimtelijke ordening
 
-Wijzigt het Besluit ruimtelijke ordening.
+*Wijzigt het Besluit ruimtelijke ordening.*
 
-##### Artikel 9.12. [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
+##### Artikel 9.12. Omgevingsbesluit
 
-Wijzigt het Omgevingsbesluit.
+*Wijzigt het Omgevingsbesluit.*
 
-##### Artikel 9.13. [Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360)
+##### Artikel 9.13. Vuurwerkbesluit
 
-Wijzigt het Vuurwerkbesluit.
+*Wijzigt het Vuurwerkbesluit.*
 
-### Hoofdstuk 10. Intrekking [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024917)
+### Hoofdstuk 10. Intrekking Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden
 
-##### Artikel 10.1. [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024917)
+##### Artikel 10.1. Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden
 
 Het [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0024917) wordt ingetrokken.
 
@@ -248,17 +216,17 @@ Het [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overhede
 
 ##### Artikel 11.1. Tijdelijke voorziening omgevingsbesluiten
 
-1. Van 1 januari 2024 tot 1 januari 2025 kan een bestuursorgaan in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
+1. Van 1 januari 2024 tot 1 januari 2025 kan een bestuursorgaan in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
 
-2. In afwijking van het eerste lid, geldt de uitzondering, bedoeld in het eerste lid, tot 1 januari 2026 voor besluiten op grond van de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.6), [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) en [16.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.21), en voor besluiten genomen door gedeputeerde staten op grond van [5.44 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44).
+2. In afwijking van het eerste lid, geldt de uitzondering, bedoeld in het eerste lid, tot 1 januari 2026 voor besluiten op grond van de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.4), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.6), [2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.14) en [16.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.21), en voor besluiten genomen door gedeputeerde staten op grond van [5.44 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44).
 
-3. Als voor het einde van de termijn, bedoeld in het eerste of tweede lid, een ontwerpbesluit ter inzage is gelegd, kan een bestuursorgaan bij de publicatie van het besluit in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
+3. Als voor het einde van de termijn, bedoeld in het eerste of tweede lid, een ontwerpbesluit ter inzage is gelegd, kan een bestuursorgaan bij de publicatie van het besluit in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden toepassing geven aan een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024.
 
-4. Totdat een besluit, gepubliceerd met toepassing van de uitzonderingen, bedoeld in het eerste, tweede of derde lid, onherroepelijk is geworden, kan dit besluit worden gewijzigd met toepassing van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024, in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden.
+4. Totdat een besluit, gepubliceerd met toepassing van de uitzonderingen, bedoeld in het eerste, tweede of derde lid, onherroepelijk is geworden, kan dit besluit worden gewijzigd met toepassing van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829), zoals deze gold onmiddellijk voor 1 januari 2024, in plaats van de krachtens [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=3&artikel=3.8&z=2025-01-01&g=2025-01-01) aangewezen technische standaarden.
 
 5. Als een bestuursorgaan toepassing geeft aan het eerste, tweede, derde of vierde lid, zijn de [artikelen 5.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=5.5a), [10.3c](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.3c) en [10.7a van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.7a) niet van toepassing.
 
-6. Op de landelijke voorziening, bedoeld in [artikel 1.2.1, tweede lid, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.2.1), zoals dat luidde onmiddellijk voor 1 januari 2024, blijft het recht van overeenkomstige toepassing zoals dat gold onmiddellijk voor 1 januari 2024, voor zover dat nodig is voor het beschikbaar stellen van de ontwerpbesluiten en besluiten met gebruik van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829).
+6. Op de landelijke voorziening, bedoeld in [artikel 1.2.1, tweede lid, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.2.1), zoals dat luidde onmiddellijk voor 1 januari 2024, blijft het recht van overeenkomstige toepassing zoals dat gold onmiddellijk voor 1 januari 2024, voor zover dat nodig is voor het beschikbaar stellen van de ontwerpbesluiten en besluiten met gebruik van een technische standaard als bedoeld in de [Regeling standaarden ruimtelijke ordening 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031829).
 
 7. [Artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&hoofdstuk=5&artikel=5.1&z=2025-01-01&g=2025-01-01), is niet van toepassing op:
 
@@ -266,9 +234,9 @@ Het [Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overhede
 
 - b. algemeen verbindende voorschriften, beleidsregels en andere besluiten die niet tot een of meer belanghebbenden zijn gericht:
 
-- 1°. waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885); en
+   - 1°. waarvan de grondslag is opgenomen in de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885); en
 
-- 2°. die zijn gepubliceerd voor 1 januari 2024.
+   - 2°. die zijn gepubliceerd voor 1 januari 2024.
 
 8. Dit artikel vervalt met ingang van het tijdstip, bepaald in het [koninklijk besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049301), bedoeld in [artikel 22.6, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.6).
 
@@ -279,5 +247,3 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 ##### Artikel 11.3. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit elektronische publicaties.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

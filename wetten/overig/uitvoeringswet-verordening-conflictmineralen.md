@@ -1,46 +1,22 @@
 ---
 title: "Wet van 27 januari 2021 tot uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130) (Uitvoeringswet Verordening conflictmineralen)"
+citeertitel: "Uitvoeringswet Verordening conflictmineralen"
 identifier: "BWBR0044779"
-country: "nl"
-rank: "wet"
-publication_date: "2021-02-05"
-last_updated: "2021-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044779"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15834633"
-version_id: "27492302"
-internal_id: "C38800071"
-label_id: "15771264"
-dtd_version: "2.0"
-original_entry_into_force: "2021-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044779/2021-02-05/0"
-intitule_bron: "Stb.2021-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-27"
-intitule_published: "2021-02-04"
-intitule_in_force: "2021-02-04"
-intitule_status: "goed"
-original_publication: "Stb.2021-44"
-original_signed_date: "2021-01-27"
-original_published_date: "2021-02-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "35506"
-original_url_id: "stb-2021-44"
-entry_into_force_date: "2021-02-05"
-entry_into_force_dossier: "35506"
-jci_1_3: "jci1.3:c:BWBR0044779&z=2021-02-05&g=2021-02-05"
-jci_1_0: "1.0:c:BWBR0044779&g=2021-02-05"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Verordening conflictmineralen"
-signed_date: "2021-01-27"
-entry_into_force: "2021-02-05"
+publicatiedatum: 2021-02-05
+laatste_update: 2021-02-05
+status: geldig
+toestand: 2021-02-05
+bron: "https://wetten.overheid.nl/BWBR0044779"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 27 januari 2021 tot uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130) (Uitvoeringswet Verordening conflictmineralen)
 
 ##### Artikel 1. Begripsbepaling
 
-In deze wet wordt onder **Verordening (EU) 2017/821** verstaan: Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130).
+In deze wet wordt onder *Verordening (EU) 2017/821* verstaan: Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130).
 
 ##### Artikel 2. Aanwijzing bevoegde autoriteit
 
@@ -80,18 +56,10 @@ De bevoegde autoriteit is bevoegd tot het opleggen van een last onder dwangsom t
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze wet treedt in werking met ingang van 1 januari 2021.
+1. Deze wet treedt in werking met ingang van 1 januari 2021.
 
-2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044779&artikel=2&z=2021-02-05&g=2021-02-05) terug tot en met 1 januari 2021.
+2. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044779&artikel=2&z=2021-02-05&g=2021-02-05) terug tot en met 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
 Deze wet wordt aangehaald als: Uitvoeringswet Verordening conflictmineralen.
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen ter uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden (PbEU, L 130);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,52 +1,22 @@
 ---
 title: "Besluit van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), van 26 mei 2021, tot verdaging en opschorting van haar aanvraagprocedures in verband met de gevolgen van de hack van de NWO-netwerkservers"
+citeertitel: "NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers"
 identifier: "BWBR0045198"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-06-05"
-last_updated: "2021-06-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045198"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15974283"
-version_id: "27798722"
-internal_id: "C39209961"
-label_id: "15908234"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045198/2021-06-05/0"
-intitule_bron: "Stcrt.2021-27791"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-26"
-intitule_published: "2021-06-04"
-intitule_in_force: "2021-06-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-27791"
-original_signed_date: "2021-05-26"
-original_published_date: "2021-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-27791"
-entry_into_force_date: "2021-06-05"
-jci_1_3: "jci1.3:c:BWBR0045198&z=2021-06-05&g=2021-06-05"
-jci_1_0: "1.0:c:BWBR0045198&g=2021-06-05"
-citeertitel_status: "officieel"
-short_title: "NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers"
-signed_date: "2021-05-26"
-entry_into_force: "2021-06-05"
+publicatiedatum: 2021-06-05
+laatste_update: 2021-06-05
+status: geldig
+toestand: 2021-06-05
+bron: "https://wetten.overheid.nl/BWBR0045198"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de raad van bestuur van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek (NWO), van 26 mei 2021, tot verdaging en opschorting van haar aanvraagprocedures in verband met de gevolgen van de hack van de NWO-netwerkservers
-
-gelet op [artikel 6, vierde lid, van de Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6);
-
-overwegende dat NWO haar werkzaamheden tussen 14 februari 2021 en 22 maart 2021 noodgedwongen heeft moeten neerleggen in verband met de hack van de NWO-netwerkservers, en dat deze overmachtsituatie ertoe heeft geleid dat voor een groot aantal reeds gepubliceerde calls for proposals de indieningsdeadlines en daarmee samenhangende besluitmomenten moeten worden uitgesteld om de zorgvuldigheid van de beoordelingsprocedure en het beginsel van gelijke kansen voor aanvragers voldoende te waarborgen.
-
-BESLUIT:
-
-Werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de datum waarop de betreffende call for proposals is gepubliceerd in de Staatscourant.
 
 ##### Artikel 1. Uitgestelde indieningsdeadlines en besluitmomenten voor vooraanmeldingen en uitgewerkte aanvragen
 
-1. Voor een aantal calls for proposals worden de daarin vermelde indieningsdeadline en uiterste besluitmoment voor **vooraanmeldingen** uitgesteld. Onderstaande tabel bevat een overzicht van de gewijzigde indieningsdeadline en besluitmoment per call for proposals:
+1. Voor een aantal calls for proposals worden de daarin vermelde indieningsdeadline en uiterste besluitmoment voor *vooraanmeldingen* uitgesteld. Onderstaande tabel bevat een overzicht van de gewijzigde indieningsdeadline en besluitmoment per call for proposals:
 
 | Call for proposals | Publicatiedatum Staatscourant | Publicatienummer Staatscourant | Oorspronkelijke indieningsdeadline vooraanmelding | Gewijzigde indieningsdeadline vooraanmelding | Gewijzigd besluitmoment vooraanmelding |
 | --- | --- | --- | --- | --- | --- |
@@ -64,7 +34,7 @@ Werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de
 | KIC: Maritieme hightech: Een veilige zee met behulp van maritieme hightech | 30 oktober 2020 | Stcrt. 2020, 56104 | 22 april 2021, om 14:00:00 CE(S)T | 27 mei 2021, om 14:00:00 CE(S)T | – |
 | Vici ZonMw 2021 | 21 december 2020 | Stcrt. 2020, 66699 | 25 maart 2021, om 14:00:00 CE(S)T | 29 april 2021, om 14:00:00 CE(S)T | – |
 
-2. Voor een aantal calls for proposals worden de daarin vermelde indieningsdeadline en uiterste besluitmoment voor **uitgewerkte aanvragen** uitgesteld. Onderstaande tabel bevat een overzicht van de gewijzigde indieningsdeadline en besluitmoment per call for proposals:
+2. Voor een aantal calls for proposals worden de daarin vermelde indieningsdeadline en uiterste besluitmoment voor *uitgewerkte aanvragen* uitgesteld. Onderstaande tabel bevat een overzicht van de gewijzigde indieningsdeadline en besluitmoment per call for proposals:
 
 | Call for proposals | Publicatiedatum Staatscourant | Publicatienummer Staatscourant | Oorspronkelijke indieningsdeadline uitgewerkte aanvraag | Gewijzigde indieningsdeadline uitgewerkte aanvraag | Gewijzigd besluitmoment uitgewerkte aanvraag |
 | --- | --- | --- | --- | --- | --- |
@@ -167,7 +137,7 @@ Werkt voor elk van de in dit besluit aangehaalde call for proposals terug tot de
 
 ##### Artikel 2. Overige uitgestelde deadlines
 
-Voor een aantal calls for proposals worden de daarin vermelde **andersoortige deadlines** uitgesteld. Onderstaande tabel bevat een overzicht van dergelijke gewijzigde deadlines per call for proposals:
+Voor een aantal calls for proposals worden de daarin vermelde *andersoortige deadlines* uitgesteld. Onderstaande tabel bevat een overzicht van dergelijke gewijzigde deadlines per call for proposals:
 
 | Call for proposals | Publicatiedatum Staatscourant | Publicatienummer Staatscourant | Oorspronkelijke andersoortige deadline | Gewijzigde andersoortige deadline | Toelichting |
 | --- | --- | --- | --- | --- | --- |
@@ -199,5 +169,3 @@ Dit besluit treedt in werking met ingang van de dag na bekendmaking in de Staats
 ##### Artikel 4. Naam besluit
 
 Dit besluit wordt aangehaald als: NWO besluit van 26 mei 2021 tot verdaging en opschorting van haar aanvraagprocedures naar aanleiding van de hack op de NWO-netwerkservers.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

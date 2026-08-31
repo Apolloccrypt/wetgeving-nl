@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de secretaris-generaal van 7 april 2021, (nr. 2021-63950) houdende vaststelling van het Organisatiebesluit van de Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
+citeertitel: "Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
 identifier: "BWBR0045076"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-03"
-last_updated: "2026-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045076"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "15939533"
-version_id: "27733272"
-internal_id: "C39122091"
-label_id: "15874224"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045076/2026-04-03/0"
-intitule_bron: "Stcrt.2021-21166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-07"
-intitule_published: "2021-04-29"
-intitule_in_force: "2021-04-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-21166"
-original_signed_date: "2021-04-07"
-original_published_date: "2021-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-21166"
-entry_into_force_date: "2021-04-30"
-jci_1_3: "jci1.3:c:BWBR0045076&z=2026-04-03&g=2026-04-03"
-jci_1_0: "1.0:c:BWBR0045076&g=2026-04-03"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
-signed_date: "2021-04-07"
-entry_into_force: "2021-04-30"
+publicatiedatum: 2021-04-30
+laatste_update: 2026-04-03
+status: geldig
+toestand: 2026-04-03
+bron: "https://wetten.overheid.nl/BWBR0045076"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de secretaris-generaal van 7 april 2021, (nr. 2021-63950) houdende vaststelling van het Organisatiebesluit van de Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021
-
-Gelet op [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5), [5A](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5A) en [5B van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5B) en op het [Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022),
-
-en gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit vast te stellen het navolgende Organisatiebesluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -48,29 +20,29 @@ Besluit vast te stellen het navolgende Organisatiebesluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **het ministerie:** het Ministerie van Financiën;
+- a. *het ministerie:* het Ministerie van Financiën;
 
-- b. **het DGBD:** het Directoraat-Generaal Belastingdienst;
+- b. *het DGBD:* het Directoraat-Generaal Belastingdienst;
 
-- c. **het DGTSL:** het Directoraat-Generaal Toeslagen;
+- c. *het DGTSL:* het Directoraat-Generaal Toeslagen;
 
-- d. **het DGD:** het Directoraat-Generaal Douane;
+- d. *het DGD:* het Directoraat-Generaal Douane;
 
-- e. **de minister:** de Minister van Financiën;
+- e. *de minister:* de Minister van Financiën;
 
-- f. **de staatssecretaris:** de Staatssecretaris van Financiën;
+- f. *de staatssecretaris:* de Staatssecretaris van Financiën;
 
-- g. **algemene leiding DGBD:** de directeur-generaal Belastingdienst (de DGBD) en/of de plaatsvervangend directeur-generaal Belastingdienst (pDGBD);
+- g. *algemene leiding DGBD:* de directeur-generaal Belastingdienst (de DGBD) en/of de plaatsvervangend directeur-generaal Belastingdienst (pDGBD);
 
-- h. **algemene leiding DGTSL:** de directeur-generaal Toeslagen (de DGTSL) en/of diens plaatsvervanger;
+- h. *algemene leiding DGTSL:* de directeur-generaal Toeslagen (de DGTSL) en/of diens plaatsvervanger;
 
-- i. **algemene leiding DGD:** de directeur-generaal Douane (de DGD) en/of diens plaatsvervanger;
+- i. *algemene leiding DGD:* de directeur-generaal Douane (de DGD) en/of diens plaatsvervanger;
 
-- j. **pDGBD:** de plaatsvervangend directeur-generaal Belastingdienst van het cluster Dienstverlening & Operaties (D&O) en de plaatsvervangend directeur-generaal Belastingdienst van het cluster Fiscaliteit, Rechtsstatelijkheid en Strategie (FR&S);
+- j. *pDGBD:* de plaatsvervangend directeur-generaal Belastingdienst van het cluster Dienstverlening & Operaties (D&O) en de plaatsvervangend directeur-generaal Belastingdienst van het cluster Fiscaliteit, Rechtsstatelijkheid en Strategie (FR&S);
 
-- k. **directeuren van de topstructuur DGBD:** algemeen directeuren van de doelgroepdirecties en van de clusters als bedoeld in [artikel 4, aanhef en onder b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=3&artikel=4&z=2026-04-03&g=2026-04-03);
+- k. *directeuren van de topstructuur DGBD:* algemeen directeuren van de doelgroepdirecties en van de clusters als bedoeld in [artikel 4, aanhef en onder b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=3&artikel=4&z=2026-04-03&g=2026-04-03);
 
-- l. **bedrijfsvoering:** onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging.
+- l. *bedrijfsvoering:* onderwerpen op de terreinen van personeel en organisatie, informatievoorziening en ict, inkoop, huisvesting, facilitaire zaken en beveiliging.
 
 ### Hoofdstuk 2. De Belastingdienst
 
@@ -98,57 +70,57 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - b. de doelgroepdirecties, elk onder leiding van een algemeen directeur:
 
-- i. de directie Midden- en Kleinbedrijf;
+   - i. de directie Midden- en Kleinbedrijf;
 
-- ii. de directie Particulieren;
+   - ii. de directie Particulieren;
 
-- iii. de directie Grote Ondernemingen;
+   - iii. de directie Grote Ondernemingen;
 
-- iv. de directie Fiscale Inlichtingen- en Opsporingsdienst;
+   - iv. de directie Fiscale Inlichtingen- en Opsporingsdienst;
 
 - c. het cluster Dienstverlening & Operaties, onder leiding van de pDGBD D&O, bestaande uit de volgende organisatieonderdelen:
 
-- i. de directie Centrale Administratieve Processen, onder leiding van een algemeen directeur;
+   - i. de directie Centrale Administratieve Processen, onder leiding van een algemeen directeur;
 
-- ii. de directie Informatievoorziening, onder leiding van een algemeen directeur;
+   - ii. de directie Informatievoorziening, onder leiding van een algemeen directeur;
 
-- iii. de directie Klantinteractie- en services, onder leiding van een algemeen directeur;
+   - iii. de directie Klantinteractie- en services, onder leiding van een algemeen directeur;
 
-- iv. de concerndirectie Informatievoorziening en Databeheersing, onder leiding van een directeur;
+   - iv. de concerndirectie Informatievoorziening en Databeheersing, onder leiding van een directeur;
 
-- v. de directie corporate dienst Datafundamenten en Analytics, onder leiding van een directeur;
+   - v. de directie corporate dienst Datafundamenten en Analytics, onder leiding van een directeur;
 
-- vi. de directie corporate dienst Communicatie onder leiding van een directeur;
+   - vi. de directie corporate dienst Communicatie onder leiding van een directeur;
 
-- vii. de directie Buitengewone Zaken Blauw, onder leiding van een directeur;
+   - vii. de directie Buitengewone Zaken Blauw, onder leiding van een directeur;
 
 - d. het cluster Fiscaliteit, Rechtsstatelijkheid en Strategie, onder leiding van de pDGBD FR&S, en bestaande uit de volgende organisatieonderdelen:
 
-- i. de concerndirectie Fiscale en Juridische Zaken, onder leiding van een hoofddirecteur;
+   - i. de concerndirectie Fiscale en Juridische Zaken, onder leiding van een hoofddirecteur;
 
-- ii. de concerndirectie Uitvoerings- en Handhavingsbeleid, onder leiding van een directeur;
+   - ii. de concerndirectie Uitvoerings- en Handhavingsbeleid, onder leiding van een directeur;
 
-- iii. de concerndirectie Innovatie & Strategie, onder leiding van een directeur;
+   - iii. de concerndirectie Innovatie & Strategie, onder leiding van een directeur;
 
-- iv. de directie corporate dienst Vaktechniek, onder leiding van een directeur;
+   - iv. de directie corporate dienst Vaktechniek, onder leiding van een directeur;
 
 - e. het cluster Financiën, Control & Inkoop, onder leiding van een algemeen directeur, en bestaande uit de volgende organisatieonderdelen:
 
-- i. de concerndirectie Control & Financiën, onder leiding van een hoofddirecteur;
+   - i. de concerndirectie Control & Financiën, onder leiding van een hoofddirecteur;
 
-- ii. de directie SSO Financieel en Managementinformatie, onder leiding van een directeur;
+   - ii. de directie SSO Financieel en Managementinformatie, onder leiding van een directeur;
 
-- iii. de directie Inkoop, onder leiding van een directeur;
+   - iii. de directie Inkoop, onder leiding van een directeur;
 
-- iv. de directie Vernieuwing & Clusterondersteuning, onder leiding van een directeur;
+   - iv. de directie Vernieuwing & Clusterondersteuning, onder leiding van een directeur;
 
 - f. het cluster Mens & Organisatie, onder leiding van een algemeen directeur, en bestaande uit de volgende organisatieonderdelen:
 
-- i. de directie Organisatie & Personeel, onder leiding van een directeur;
+   - i. de directie Organisatie & Personeel, onder leiding van een directeur;
 
-- ii. de directie SSO Centrum Facilitaire Dienstverlening, onder leiding van een directeur;
+   - ii. de directie SSO Centrum Facilitaire Dienstverlening, onder leiding van een directeur;
 
-- iii. het Bureau Veiligheid & Integriteit, onder leiding van een manager.
+   - iii. het Bureau Veiligheid & Integriteit, onder leiding van een manager.
 
 ##### Artikel 5. Overlegstructuur DGBD
 
@@ -158,17 +130,17 @@ Het DGBD bestaat uit de volgende organisatieonderdelen:
 
 - b. Deelnemers aan het Bestuursteam Belastingdienst zijn:
 
-- i. de DGBD (voorzitter);
+   - i. de DGBD (voorzitter);
 
-- ii. de pDGBD D&O;
+   - ii. de pDGBD D&O;
 
-- iii. de pDGBD FR&S;
+   - iii. de pDGBD FR&S;
 
-- iv. de directeuren van de topstructuur DGBD;
+   - iv. de directeuren van de topstructuur DGBD;
 
-- v. de Chief Information Officer;
+   - v. de Chief Information Officer;
 
-- vi. de directeur BPZ (secretaris).
+   - vi. de directeur BPZ (secretaris).
 
 2. Er is een Ketenvoorzittersoverleg (KVO).
 
@@ -216,134 +188,6 @@ Het Directoraat-Generaal Toeslagen bestaat uit de volgende organisatieonderdelen
 
 - h. het Bureau DG.
 
-### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
-
-##### Artikel 8. Leiding DGD
-
-Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Douane.
-
-##### Artikel 9. Organisatie inrichting en aansturing DGD
-
-1. Het DGD bestaat uit de volgende organisatieonderdelen:
-
-- a. De directie Strategie, Beleid & Internationaal, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd, waarvan één tevens de rol van plaatsvervangend directeur vervult:
-
-- i. Strategie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- ii. Fiscaal Beleid, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iii. Internationaal, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iv. Toezicht en Bescherming, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
-
-- b. De directie Operaties, die onder leiding staat van een directeur. De directie bestaat uit:
-
-- i. Bureau Operaties, dat onder leiding staat van de adjunct directeur Operaties. Het Bureau Operaties bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
-
-- a. Strategie & Projecten, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- b. Domein & Operatie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- ii. De acht regiokantoren;
-
-- a. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd1In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd2In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- b. Regiokantoor Douane Arnhem, dat onder leiding staat van een afdelingshoofd3In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd4In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- c. Regiokantoor Douane Breda, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- d. Regiokantoor Douane Eindhoven, dat onder leiding staat van een afdelingshoofd7In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd8In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- e. Regiokantoor Douane Groningen, dat onder leiding staat van een afdelingshoofd9In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd10In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- f. Regiokantoor Douane Rotterdam Haven, dat onder leiding staat van een afdelingshoofd11In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd12In het O&F-rapport genoemd plv. regiodirecteur. en vier hoofden13In het O&F-rapport genoemd unitmanager.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- g. Regiokantoor Douane Schiphol Cargo, dat onder leiding staat van een afdelingshoofd14In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd15In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- h. Regiokantoor Douane Schiphol Passagiers, dat onder leiding staat van een afdelingshoofd16In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd17In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
-
-- iii. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd18In het O&F-rapport genoemd directeur., een plaatsvervangend afdelingshoofd19In het O&F-rapport genoemd plv. directeur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider.
-
-- c. De directie Mensen & Middelen, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd. waarvan één tevens de rol van plaatsvervangend directeur vervult:
-
-- i. Instroom, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- ii. HR Advies & Expertise, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iii. Groei & Ontwikkeling, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iv. Middelen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
-
-- d. De directie Informatietechnologie, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
-
-- i. CIO-office, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;h
-
-- ii. IT Dienstverlening & Beheer, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
-
-- iii. IT Primaire Processen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
-
-- iv. IT Data & Digitalisering, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- v. Het team IT Staf, dat onder leiding staat van een teamleider;
-
-- vi. Het team IT Strategie en Programma’s, dat onder leiding staat van een teamleider;
-
-- vii. Het team Verandermanagement, dat onder leiding staat van de directeur Informatietechnologie.
-
-- e. De directie Finance & Control, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
-
-- i. Concern Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
-
-- ii. Business Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iii. Financial Control & Business Intelligence, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
-
-- iv. Risk & Compliance, die is onverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
-
-- f. Douane Diensten Centrum, dat onder leiding staat van een directeur. Het onderdeel is onderverdeeld in teams, elk onder leiding van het afdelingshoofd of een teamleider. Het afdelingshoofd is tevens plaatsvervangend directeur.
-
-- g. Het Bureau Directeur-Generaal, dat onder leiding staat van een hoofd.
-
-- h. Het Bureau Juridische Zaken, dat onder leiding staat van een hoofd.
-
-- i. Het Bureau Veiligheid & Integriteit, dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
-
-- j. Het Bureau Communicatie dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
-
-2. Er is een Managementteam Douane.
-
-- a. Het Managementteam Douane is verantwoordelijk voor het realiseren van de doelen en de uitvoering van taken en opdrachten en geeft richting aan de sturing van het DGD, waarbij de DGD eindverantwoordelijkheid draagt.
-
-- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de directeuren genoemd in het eerste lid, onder a tot en met e, en het hoofd, genoemd in het eerste lid, onder g.
-
-- c. De hoofden genoemd in het eerste lid, onder h tot en met j, maken geen deel uit van het Managementteam Douane. Zij ontvangen de stukken, kunnen agendapunten aandragen voor het Managementteam Douane en kunnen deelnemen aan de besprekingen, voor zover agendapunten hun werkterrein raken.
-
-3. Twee van de in het tweede lid, onder b, genoemde directeuren vervullen tevens de rol van plaatsvervangend DGD.
-
-### Hoofdstuk 6. Slotbepalingen
-
-##### Artikel 10. Beheer
-
-1. De directie Juridische Zaken (DJZ) van het Ministerie van Financiën heeft tot taak het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het [Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane](onbekend).
-
-2. De DGBD, de DGTSL en de DGD, ieder voor zover het hen aangaat, zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directie Juridische Zaken van de gegevens die een goed beheer van dit besluit mogelijk maken.
-
-3. Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.
-
-##### Artikel 11. Intrekking andere besluiten
-
-Het [Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041509) wordt ingetrokken.
-
-##### Artikel 12. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
-
-##### Artikel 13. Citeertitel
-
-Dit besluit wordt aangehaald als: Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 7a. Directie Toeslagen
 
 1. De directie Toeslagen staat onder leiding van een algemeen directeur.
@@ -368,25 +212,25 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de subdirectie Interactie en Dienstverlening, die onder leiding staat van een directeur en die bestaat uit de volgende afdelingen:
 
-- i. de afdeling Burgerinteractie & Dienstverlening, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - i. de afdeling Burgerinteractie & Dienstverlening, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- ii. de afdeling Digitaal, die onder leiding staat van een afdelingshoofd;
+   - ii. de afdeling Digitaal, die onder leiding staat van een afdelingshoofd;
 
-- iii. de afdeling Telefonie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - iii. de afdeling Telefonie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
 - d. de subdirectie Operatie, die onder leiding staat van een directeur en die bestaat uit de volgende afdelingen:
 
-- i. de afdeling Operatieregie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - i. de afdeling Operatieregie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- ii. de afdeling Uitval/Uitworp, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - ii. de afdeling Uitval/Uitworp, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- iii. de afdeling Massaal Proces, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - iii. de afdeling Massaal Proces, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- iv. de afdeling Toezicht, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - iv. de afdeling Toezicht, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- v. de afdeling Bezwaar & Beroep, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
+   - v. de afdeling Bezwaar & Beroep, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider;
 
-- vi. de afdeling Vraag & Objectadministratie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider.
+   - vi. de afdeling Vraag & Objectadministratie, die onder leiding staat van een afdelingshoofd en die is onderverdeeld in teams, die elk onder leiding staat van een teamleider.
 
 4. Een van de directeuren, bedoeld in het derde lid, vervult tevens de rol van plaatsvervangend algemeen directeur.
 
@@ -458,21 +302,21 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. is daartoe kaderstellend en ondersteunend en heeft daarbij de volgende taakgebieden:
 
-- i. Personeel;
+   - i. Personeel;
 
-- ii. Organisatieontwikkeling;
+   - ii. Organisatieontwikkeling;
 
-- iii. Communicatie;
+   - iii. Communicatie;
 
-- iv. Huisvesting;
+   - iv. Huisvesting;
 
-- v. Informatiehuishouding en informatiebeheer;
+   - v. Informatiehuishouding en informatiebeheer;
 
-- vi. Integrale veiligheid;
+   - vi. Integrale veiligheid;
 
-- vii. Planning & Control, HR-control/formatiebeheer en interne beheersing;
+   - vii. Planning & Control, HR-control/formatiebeheer en interne beheersing;
 
-- viii. Inkoop.
+   - viii. Inkoop.
 
 3. De directie Mensen, Middelen & Communicatie bestaat uit de volgende afdelingen:
 
@@ -574,6 +418,126 @@ Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Directoraat-Generaal Douane (DGD)
 
+##### Artikel 8. Leiding DGD
+
+Het Directoraat-Generaal Douane staat onder leiding van de directeur-generaal Douane.
+
+##### Artikel 9. Organisatie inrichting en aansturing DGD
+
+1. Het DGD bestaat uit de volgende organisatieonderdelen:
+
+- a. De directie Strategie, Beleid & Internationaal, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd, waarvan één tevens de rol van plaatsvervangend directeur vervult:
+
+   - i. Strategie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - ii. Fiscaal Beleid, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iii. Internationaal, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iv. Toezicht en Bescherming, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
+
+- b. De directie Operaties, die onder leiding staat van een directeur. De directie bestaat uit:
+
+   - i. Bureau Operaties, dat onder leiding staat van de adjunct directeur Operaties. Het Bureau Operaties bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
+
+      - a. Strategie & Projecten, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+      - b. Domein & Operatie, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - ii. De acht regiokantoren;
+
+      - a. Regiokantoor Douane Amsterdam, dat onder leiding staat van een afdelingshoofd1In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd2In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - b. Regiokantoor Douane Arnhem, dat onder leiding staat van een afdelingshoofd3In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd4In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - c. Regiokantoor Douane Breda, dat onder leiding staat van een afdelingshoofd5In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd6In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - d. Regiokantoor Douane Eindhoven, dat onder leiding staat van een afdelingshoofd7In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd8In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - e. Regiokantoor Douane Groningen, dat onder leiding staat van een afdelingshoofd9In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd10In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - f. Regiokantoor Douane Rotterdam Haven, dat onder leiding staat van een afdelingshoofd11In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd12In het O&F-rapport genoemd plv. regiodirecteur. en vier hoofden13In het O&F-rapport genoemd unitmanager.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - g. Regiokantoor Douane Schiphol Cargo, dat onder leiding staat van een afdelingshoofd14In het O&F-rapport genoemd regiodirecteur., een plaatsvervangend afdelingshoofd15In het O&F-rapport genoemd plv. regiodirecteur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+      - h. Regiokantoor Douane Schiphol Passagiers, dat onder leiding staat van een afdelingshoofd16In het O&F-rapport genoemd regiodirecteur. en een plaatsvervangend afdelingshoofd17In het O&F-rapport genoemd plv. regiodirecteur.. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider;
+
+   - iii. Douane Landelijk Tactisch Centrum, dat onder leiding staat van een afdelingshoofd18In het O&F-rapport genoemd directeur., een plaatsvervangend afdelingshoofd19In het O&F-rapport genoemd plv. directeur. en een hoofd. Het onderdeel bestaat uit diverse teams, elk onder leiding van een teamleider.
+
+- c. De directie Mensen & Middelen, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd. waarvan één tevens de rol van plaatsvervangend directeur vervult:
+
+   - i. Instroom, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - ii. HR Advies & Expertise, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iii. Groei & Ontwikkeling, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iv. Middelen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
+
+- d. De directie Informatietechnologie, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
+
+   - i. CIO-office, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;h
+
+   - ii. IT Dienstverlening & Beheer, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+   - iii. IT Primaire Processen, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+   - iv. IT Data & Digitalisering, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - v. Het team IT Staf, dat onder leiding staat van een teamleider;
+
+   - vi. Het team IT Strategie en Programma’s, dat onder leiding staat van een teamleider;
+
+   - vii. Het team Verandermanagement, dat onder leiding staat van de directeur Informatietechnologie.
+
+- e. De directie Finance & Control, die onder leiding staat van een directeur. Het onderdeel bestaat uit de volgende afdelingen, elk onder leiding van een afdelingshoofd:
+
+   - i. Concern Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider, waarbij het afdelingshoofd tevens de rol van plaatsvervangend directeur vervult;
+
+   - ii. Business Control, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iii. Financial Control & Business Intelligence, die is onderverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider;
+
+   - iv. Risk & Compliance, die is onverdeeld in teams die elk onder leiding staan van het afdelingshoofd of een teamleider.
+
+- f. Douane Diensten Centrum, dat onder leiding staat van een directeur. Het onderdeel is onderverdeeld in teams, elk onder leiding van het afdelingshoofd of een teamleider. Het afdelingshoofd is tevens plaatsvervangend directeur.
+
+- g. Het Bureau Directeur-Generaal, dat onder leiding staat van een hoofd.
+
+- h. Het Bureau Juridische Zaken, dat onder leiding staat van een hoofd.
+
+- i. Het Bureau Veiligheid & Integriteit, dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
+
+- j. Het Bureau Communicatie dat onder leiding staat van een hoofd. Het onderdeel is onderverdeeld in onderdelen, elk onder leiding van het hoofd of een teamleider.
+
+2. Er is een Managementteam Douane.
+
+- a. Het Managementteam Douane is verantwoordelijk voor het realiseren van de doelen en de uitvoering van taken en opdrachten en geeft richting aan de sturing van het DGD, waarbij de DGD eindverantwoordelijkheid draagt.
+
+- b. Het Managementteam Douane bestaat uit de DGD (voorzitter), de directeuren genoemd in het eerste lid, onder a tot en met e, en het hoofd, genoemd in het eerste lid, onder g.
+
+- c. De hoofden genoemd in het eerste lid, onder h tot en met j, maken geen deel uit van het Managementteam Douane. Zij ontvangen de stukken, kunnen agendapunten aandragen voor het Managementteam Douane en kunnen deelnemen aan de besprekingen, voor zover agendapunten hun werkterrein raken.
+
+3. Twee van de in het tweede lid, onder b, genoemde directeuren vervullen tevens de rol van plaatsvervangend DGD.
+
 ### Hoofdstuk 6. Slotbepalingen
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 10. Beheer
+
+1. De directie Juridische Zaken (DJZ) van het Ministerie van Financiën heeft tot taak het voorbereiden van regelgeving op het gebied van het Organisatiebesluit en het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane.
+
+2. De DGBD, de DGTSL en de DGD, ieder voor zover het hen aangaat, zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directie Juridische Zaken van de gegevens die een goed beheer van dit besluit mogelijk maken.
+
+3. Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.
+
+##### Artikel 11. Intrekking andere besluiten
+
+Het [Organisatiebesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0041509) wordt ingetrokken.
+
+##### Artikel 12. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
+
+##### Artikel 13. Citeertitel
+
+Dit besluit wordt aangehaald als: Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021.

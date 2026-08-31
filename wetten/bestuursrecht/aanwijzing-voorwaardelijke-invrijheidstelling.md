@@ -1,40 +1,21 @@
 ---
 title: "Aanwijzing voorwaardelijke invrijheidstelling"
 identifier: "BWBR0045281"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-07-01"
-last_updated: "2021-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045281"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15995243"
-version_id: "27840492"
-internal_id: "C39678661"
-label_id: "15930244"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045281/2021-07-01/0"
-intitule_bron: "Stcrt.2021-33409"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-06-25"
-intitule_in_force: "2021-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-33409"
-original_published_date: "2021-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-33409"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0045281&z=2021-07-01&g=2021-07-01"
-jci_1_0: "1.0:c:BWBR0045281&g=2021-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2021-07-01
+status: geldig
+toestand: 2021-07-01
+bron: "https://wetten.overheid.nl/BWBR0045281"
+opgehaald: 2026-08-31
 ---
+
 # Aanwijzing voorwaardelijke invrijheidstelling
 
 ### Samenvatting
 
-Deze aanwijzing geeft nadere regels voor de toepassing van de wettelijke regeling van de voorwaardelijke invrijheidstelling. Die regeling is ingrijpend gewijzigd met de inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990). De aanwijzing gaat in op de taken die het openbaar ministerie heeft en de verdeling van deze taken binnen het OM. Deze aanwijzing geeft algemene regels voor de toepassing van de huidige (deel 1) en de vorige v.i.-regeling (deel 2), alsmede voor de situaties waarin sprake is van samenloop (deel 3, overgangsrecht [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990)).
+Deze aanwijzing geeft nadere regels voor de toepassing van de wettelijke regeling van de voorwaardelijke invrijheidstelling. Die regeling is ingrijpend gewijzigd met de inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990). De aanwijzing gaat in op de taken die het openbaar ministerie heeft en de verdeling van deze taken binnen het OM. Deze aanwijzing geeft algemene regels voor de toepassing van de huidige ([deel 1](https://wetten.overheid.nl/BWBR0045281)) en de vorige v.i.-regeling ([deel 2](https://wetten.overheid.nl/BWBR0045281)), alsmede voor de situaties waarin sprake is van samenloop ([deel 3](https://wetten.overheid.nl/BWBR0045281), overgangsrecht [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990)).
 
 ### Algemeen
 
@@ -42,23 +23,53 @@ Deze aanwijzing geeft nadere regels voor de toepassing van de wettelijke regelin
 
 Aan het eind van hun vrijheidsstraf keren veroordeelden terug in de maatschappij. Het is zowel in het belang van de veroordeelde als van de samenleving, dat die terugkeer geleidelijk en verantwoord verloopt, met zo min mogelijk kans op herhaling van een strafbaar feit. Daarom is het verblijf in de penitentiaire inrichting dusdanig ingericht dat gedetineerden vanaf het begin van de detentie werken aan een delictvrije toekomst buiten de gevangenismuren. De tenuitvoerlegging van bepaalde vrijheidsstraffen kan vervolgens met een periode van voorwaardelijke invrijheidstelling (hierna: v.i.) worden afgesloten. Het OM vervult een aantal belangrijke taken in de onderscheidenlijke v.i.-regelingen. Met inachtneming van het wettelijk kader komt het steeds zelfstandig en onafhankelijk tot een afweging van alle in aanmerking komende belangen.
 
-### 2. Wijzigingen [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990)
+### 2. Wijzigingen Wet straffen en beschermen
 
-Met de op 1 juli 2021 in werking getreden [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) (**Stb**. 2020, 2241Gewijzigd met de spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen (**Stb**. 2020, 225).) is de v.i.-regeling uit 2008 ingrijpend gewijzigd. Het betreft – in het kort – de volgende wijzigingen:
+Met de op 1 juli 2021 in werking getreden [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) (*Stb*. 2020, 2241Gewijzigd met de spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen (*Stb*. 2020, 225).) is de v.i.-regeling uit 2008 ingrijpend gewijzigd. Het betreft – in het kort – de volgende wijzigingen:
+
+- – V.i. wordt niet langer van rechtswege verleend, maar kan worden verleend op basis van een individuele beoordeling van de veroordeelde.
+
+- – De duur van de v.i.-periode is niet langer dan twee jaar.
+
+- – Het OM beslist over het verlenen en herroepen van de v.i. Het OM kan de beslissing over de verlening uitstellen ([art. 6:2:13 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:13)).
+
+- – Bij de beslissing over het verlenen van v.i. worden de in de wet genoemde aspecten gedrag, risico’s en slachtofferbelangen betrokken.
+
+- – Indien geen v.i. is verleend, kan de veroordeelde later het OM verzoeken om alsnog voorwaardelijk in vrijheid te worden gesteld.
+
+- – De veroordeelde kan bij de rechter een bezwaarschrift indienen tegen de beslissingen van het OM om geen v.i. te verlenen, de beslissing over het al dan niet verlenen van v.i. uit te stellen en de beslissing om de v.i. (gedeeltelijk) te herroepen. Tegen de aan de v.i. verbonden voorwaarden staat geen bezwaar open.
+
+- – Op veroordelingen in laatste feitelijke instantie uitgesproken voor 1 juli 2021 is de toenmalige v.i.-regeling van toepassing.
+
+- – De regelingen voor de detentiefasering en de v.i. sluiten beter op elkaar aan. Het kader waarbinnen DJI vrijheden kan verlenen aan gedetineerden, is herzien. Het penitentiair programma is voortaan gereserveerd voor gedetineerden die op basis van de duur van hun straf niet voor v.i. in aanmerking komen.
 
 ### 3. Leeswijzer
 
 Deze aanwijzing bestaat uit drie delen.
 
+- – Veroordelingen tot onvoorwaardelijke vrijheidsstraffen die zijn uitgesproken *vanaf 1 juli 2021*: [deel I](https://wetten.overheid.nl/BWBR0045281).
+
+- – Veroordelingen tot onvoorwaardelijke vrijheidsstraffen die in laatste feitelijke instantie zijn uitgesproken *voor 1 juli 2021*: [deel II](https://wetten.overheid.nl/BWBR0045281).
+
+- – Samenloop van onvoorwaardelijke vrijheidsstraffen (gedeeltelijk voor en vanaf 1 juli 2021): [deel III](https://wetten.overheid.nl/BWBR0045281).
+
 ### I. Regeling vanaf 1 juli 2021
 
 ### 1. Toepassingsbereik
 
-De in dit deel beschreven v.i.-regeling geldt voor veroordelingen tot vrijheidsstraffen die zijn uitgesproken **vanaf (op of na) 1 juli 2021**.2Het gaat om het moment van de uitspraak door de rechtbank of het gerechtshof. De uitspraak hoeft op dat moment nog niet onherroepelijk te zijn. Zij is van toepassing op **geheel onvoorwaardelijke** vrijheidsstraffen met een duur van meer dan één jaar.3Meerdere kortere straffen worden bij aaneengesloten tenuitvoerlegging voor de toepassing van de v.i.-regeling als één straf aangemerkt als zij tezamen een periode van een jaar of meer bedragen. Voor vrijheidsstraffen met een duur tussen één jaar en twee jaar kan v.i. plaatsvinden wanneer de vrijheidsbeneming ten minste één jaar heeft geduurd en van het nog ten uitvoer te leggen gedeelte van de straf een derde is ondergaan ([art. 6:2:10, eerste lid, onder a, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10)). Voor vrijheidsstraffen met een duur van twee jaar of meer kan de v.i. plaatsvinden vanaf het moment dat twee derde van de straf is ondergaan, waarbij de v.i. – anders dan in de vorige regeling – maximaal twee jaar bedraagt (art. 6:2:10, eerste lid, onder b, Sv).4In het geval van de tenuitvoerlegging van een in het buitenland opgelegde vrijheidsstraf in Nederland bestaat de mogelijkheid dat de v.i. op een eerder of later tijdstip plaatsvindt (art. 6:2:10, vierde lid Sv). De v.i. ziet daarmee ten hoogste op de laatste twee jaar van de betreffende straf.
+De in dit deel beschreven v.i.-regeling geldt voor veroordelingen tot vrijheidsstraffen die zijn uitgesproken *vanaf (op of na) 1 juli 2021*.2Het gaat om het moment van de uitspraak door de rechtbank of het gerechtshof. De uitspraak hoeft op dat moment nog niet onherroepelijk te zijn. Zij is van toepassing op *geheel onvoorwaardelijke* vrijheidsstraffen met een duur van meer dan één jaar.3Meerdere kortere straffen worden bij aaneengesloten tenuitvoerlegging voor de toepassing van de v.i.-regeling als één straf aangemerkt als zij tezamen een periode van een jaar of meer bedragen. Voor vrijheidsstraffen met een duur tussen één jaar en twee jaar kan v.i. plaatsvinden wanneer de vrijheidsbeneming ten minste één jaar heeft geduurd en van het nog ten uitvoer te leggen gedeelte van de straf een derde is ondergaan ([art. 6:2:10, eerste lid, onder a, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10)). Voor vrijheidsstraffen met een duur van twee jaar of meer kan de v.i. plaatsvinden vanaf het moment dat twee derde van de straf is ondergaan, waarbij de v.i. – anders dan in de vorige regeling – maximaal twee jaar bedraagt (art. 6:2:10, eerste lid, onder b, Sv).4In het geval van de tenuitvoerlegging van een in het buitenland opgelegde vrijheidsstraf in Nederland bestaat de mogelijkheid dat de v.i. op een eerder of later tijdstip plaatsvindt (art. 6:2:10, vierde lid Sv). De v.i. ziet daarmee ten hoogste op de laatste twee jaar van de betreffende straf.
 
-Indien een veroordeelde meerdere straffen heeft te ondergaan, worden deze zo mogelijk aaneensluitend ten uitvoer gelegd.5De veroordeelde wordt niet tussentijds in vrijheid gesteld. De uitvoering wordt evenmin anderszins onderbroken. Alleen geheel ****on****voorwaardelijk ten uitvoer te leggen straffen worden gezamenlijk als één vrijheidsstraf aangemerkt ([art. 6:2:6 onder a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6)). De v.i. wordt verleend over het totaal indien de duur hiervan meer dan een jaar bedraagt. In geval van samenloop bij de tenuitvoerlegging van straffen die in laatste feitelijke instantie voor en na inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) zijn uitgesproken, moet rekening worden gehouden met de toepasselijkheid van twee regimes (zie deel III).
+Indien een veroordeelde meerdere straffen heeft te ondergaan, worden deze zo mogelijk aaneensluitend ten uitvoer gelegd.5De veroordeelde wordt niet tussentijds in vrijheid gesteld. De uitvoering wordt evenmin anderszins onderbroken. Alleen geheel **on**voorwaardelijk ten uitvoer te leggen straffen worden gezamenlijk als één vrijheidsstraf aangemerkt ([art. 6:2:6 onder a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6)). De v.i. wordt verleend over het totaal indien de duur hiervan meer dan een jaar bedraagt. In geval van samenloop bij de tenuitvoerlegging van straffen die in laatste feitelijke instantie voor en na inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) zijn uitgesproken, moet rekening worden gehouden met de toepasselijkheid van twee regimes (zie [deel III](https://wetten.overheid.nl/BWBR0045281)).
 
 De v.i.-regeling is niet van toepassing in het geval van/bij:
+
+- 1. *(de tenuitvoerlegging van) voorwaardelijke of deels voorwaardelijke veroordelingen tot vrijheidsstraffen;* Na toewijzing van de vordering tot tenuitvoerlegging van een voorwaardelijke vrijheidsstraf wordt geen v.i. berekend over een alsnog ten uitvoer te leggen straf(deel);
+
+- 2. *jeugdigen veroordeeld tot jeugddetentie;* Jeugdigen veroordeeld tot jeugddetentie kunnen immers door de rechter te allen tijde in vrijheid gesteld worden ([art. 6:6:28 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:28)). Op jeugddetentie die is omgezet in een geheel onvoorwaardelijke gevangenisstraf is de v.i.-regeling wel van toepassing (mits die gevangenisstraf dus meer dan één jaar bedraagt);
+
+- 3. *vreemdelingen zonder bestendig rechtmatig verblijf;* Vreemdelingen die geen rechtmatig verblijf (meer) hebben in Nederland in de zin van [art. 8, onder a tot en met e of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) komen niet voor v.i. in aanmerking. Als een vreemdeling, naar aanleiding van een aanvraag die is ingediend voor het moment als bedoeld in [art. 6:2:10, eerste of vierde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:10), alsnog bestendig rechtmatig verblijf wordt toegestaan valt hij onder het bereik van de v.i.-regeling. Ook als het bestendige rechtmatige verblijf wordt verkregen na de daarin bedoelde datum.
+
+- 4. *levenslanggestraften.*
 
 ### 2. Taken OM en positie Centrale Voorziening v.i.
 
@@ -74,9 +85,23 @@ De CVv.i. kan verder adviseren over een gratieverzoek ten aanzien van een straf 
 
 Uitgangspunt is dat aan het OM door het CJIB namens de minister tijdig een toereikend dossier beschikbaar wordt gesteld, dat alle informatie bevat om in redelijkheid tot een goede afweging van de betrokken belangen te komen. Het reguliere dossier6In geval van spoed of bijzondere omstandigheden kan – in afstemming met de CVv.i. – een afwijkende procedure van toepassing zijn. bestaat onder meer uit:
 
-In hun adviezen betrekken DJI en de reclassering de wettelijke criteria (zie par. 4.1.) en het beleid van het OM (zoals deze aanwijzing). Zij gaan in op de geschiktheid van de veroordeelde om in de samenleving terug te keren. In het geval er sprake is van bijzonderheden ten aanzien van de persoon van de veroordeelde, het delict of de delicten waarvoor hij veroordeeld is of de omgeving van de veroordeelde, besteden zij hieraan aandacht in het advies.
+- – *Advies van DJI;* DJI informeert het OM over het detentieverloop. In het advies wordt gereflecteerd op het gedrag tijdens detentie en in relatie tot het detentie- en re-integratieplan.7DJI geeft inzicht in eventueel overleg dat in dit verband heeft plaats gevonden met de reclassering of de gemeente (vgl. nieuw art. 18a, vierde lid Penitentiaire beginselenwet), voor zover dit inzicht van belang is voor de v.i.-verlening Het advies bevat informatie over de opgedane ervaring met eventuele verloven en daaraan verbonden voorwaarden. Het advies van DJI geeft verder aan op welke wijze tijdens de detentie rekening is gehouden met de belangen van slachtoffers, nabestaanden en andere relevante personen.
 
-Indien het dossier onvolledig is of anderszins aanvulling behoeft (bijv. in de vorm van verdiepingsdiagnostiek of forensische rapportage) dan wordt hierin op aangeven van het OM zo spoedig mogelijk voorzien. Wanneer dat op korte termijn niet mogelijk is en het OM over onvoldoende informatie beschikt om tot een afweging van de belangen te komen, dan kan het OM de beslissing over de v.i.-verlening voor een bepaalde periode uitstellen (zie par. 4.3).
+- – *Advies van de reclassering;* De reclassering adviseert onder meer over aanwezige risico’s en of deze effectief beperkt en beheerst kunnen worden door aan de v.i. een aantal bijzondere voorwaarden te verbinden. Het advies bevat in elk geval een zienswijze van de veroordeelde omtrent de mogelijk te verlenen v.i. en daaraan eventueel te verbinden voorwaarden. Het advies vermeldt tevens of bij een eventuele invrijheidstelling een aanvaardbaar verblijfadres voor veroordeelde beschikbaar is.
+
+- – *Informatie van het CJIB;* Het CJIB voegt informatie toe aan het dossier over eventuele openstaande straffen en maatregelen, lopende betalingsregelingen (in het kader van schadevergoedingsmaatregel) en eventuele andere relevante informatie waar het over beschikt.
+
+- – *Informatie over de belangen van slachtoffers, nabestaanden en andere relevante personen, waaronder schriftelijke verklaringen en (in geval van een spreekrechtwaardig delict) verslagen van een eventuele mondelinge toelichting*
+ 8
+ Bij de beslissing over het verlenen van de v.i. worden betrokkenen, die dat eerder hebben aangegeven, door de minister (CJIB) in de gelegenheid gesteld een schriftelijke verklaring in te dienen over de op te leggen bijzondere voorwaarden, voor zover deze zien op hun bescherming. Bij een spreekrechtwaardig delict wordt het slachtoffer daarnaast in de gelegenheid gesteld om mondeling zijn schriftelijke verklaring toe te lichten bij het CJIB. Zie ook par. 4.1. ;
+
+- – *Advies van het lokaal parket en/of de rechter;* In voorkomende gevallen wordt een eerder door het OM uitgebracht advies (als bedoeld in [art. 6:1:10 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10)) bij het dossier gevoegd. In zaken waaraan voor 1 januari 2020 de executie-indicator is toegekend, wordt het lokale OM om advies gevraagd. Indien de rechter bij zijn beslissing een advies heeft gegeven omtrent de tenuitvoerlegging, dat relevant is voor de (verlening van de) v.i., wordt dit eveneens in het dossier gevoegd ([art. 6:1:11, derde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:11))
+
+- – *Basisinformatie.* Het dossier geeft onder meer inzicht in de geregistreerde detentie, de berekening van de mogelijke v.i.-datum(s) en openstaande straffen. Het bevat een overzicht van de BRP en justitiële documentatie.
+
+In hun adviezen betrekken DJI en de reclassering de wettelijke criteria (zie [par. 4.1.](https://wetten.overheid.nl/BWBR0045281)) en het beleid van het OM (zoals deze aanwijzing). Zij gaan in op de geschiktheid van de veroordeelde om in de samenleving terug te keren. In het geval er sprake is van bijzonderheden ten aanzien van de persoon van de veroordeelde, het delict of de delicten waarvoor hij veroordeeld is of de omgeving van de veroordeelde, besteden zij hieraan aandacht in het advies.
+
+Indien het dossier onvolledig is of anderszins aanvulling behoeft (bijv. in de vorm van verdiepingsdiagnostiek of forensische rapportage) dan wordt hierin op aangeven van het OM zo spoedig mogelijk voorzien. Wanneer dat op korte termijn niet mogelijk is en het OM over onvoldoende informatie beschikt om tot een afweging van de belangen te komen, dan kan het OM de beslissing over de v.i.-verlening voor een bepaalde periode uitstellen (zie [par. 4.3](https://wetten.overheid.nl/BWBR0045281)).
 
 ### 3.2. Adviescollege Voorwaardelijke Invrijheidstelling
 
@@ -86,11 +111,19 @@ Bij de advisering zijn de wettelijke criteria en het beleid van het OM (zoals de
 
 De inzet van het AVI richt zich op:
 
+- a. zaken waarin sprake is van een veroordeelde als bedoeld in [art. 38z, eerste lid, aanhef en onder b en c, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38z) (zogenaamde ‘Wlt-zaken’) en een gevangenisstraf is opgelegd van meer dan zes jaar9De maatregel strekkende tot gedragsbeïnvloeding of vrijheidsbeperking hoeft niet te zijn opgelegd. Voor zogeheten combinatiestraffen geldt dat tenminste een van de straffen aan deze voorwaarde voldoet. Bij de start van het AVI is niet uitgesloten dat tijdelijk ook zaken onder de zes jaar worden voorgelegd.;
+
+- b. zaken waarin veroordeeld is voor strafbare feiten, gepleegd met een terroristisch oogmerk;
+
+- c. zaken waarin veroordeeld is voor een zedendelict en een gevangenisstraf is opgelegd van meer dan twee jaar;
+
+- d. zaken waarin veroordeelde heeft geweigerd mee te werken aan een psychiatrisch onderzoek.
+
 Indien daartoe de noodzaak aanwezig wordt geacht, kan ook in andere zaken om advies worden gevraagd. Bijvoorbeeld als de achtergrond van het delict, zoals eerwraak, specifieke expertise vergt. Inzet van het AVI ligt niet in de rede wanneer sprake is van spoed.10Dat is bijvoorbeeld het geval indien gelet op de eerst mogelijke v.i.-datum het aanvragen (en verkrijgen) van een AVI-advies tot vertraging van een inhoudelijke v.i.-beslissing zou leiden. Wanneer een advies desalniettemin noodzakelijk wordt geacht is de inzet van het AVI echter niet uitgesloten. Zo mogelijk wordt dan voorzien in een spoedprocedure. De CVv.i. beslist of advies wordt ingewonnen.
 
 ### 4. Verlening v.i.
 
-Het OM beslist over het al dan niet verlenen van de v.i. Bij de beslissing worden de in de wet genoemde aspecten (par. 4.1.) en contra-indicaties (par. 4.2.) betrokken. De beslissing kan inhouden dat de beslissing over de verlening wordt uitgesteld (par. 4.3.).
+Het OM beslist over het al dan niet verlenen van de v.i. Bij de beslissing worden de in de wet genoemde aspecten ([par. 4.1.](https://wetten.overheid.nl/BWBR0045281)) en contra-indicaties ([par. 4.2.](https://wetten.overheid.nl/BWBR0045281)) betrokken. De beslissing kan inhouden dat de beslissing over de verlening wordt uitgesteld ([par. 4.3.](https://wetten.overheid.nl/BWBR0045281)).
 
 ### 4.1. Aspecten
 
@@ -104,9 +137,9 @@ Het detentieverloop, in het bijzonder de ervaringen die door DJI zijn opgedaan m
 
 ### 4.1.2. Risico’s
 
-Bij de beslissing om v.i. te verlenen kijkt de CVv.i. naar ‘de mogelijkheden om eventuele aan de invrijheidstelling verbonden risico’s te beperken en beheersen’. Voor zover noodzakelijk en proportioneel kan zij daartoe bijzondere voorwaarden stellen (zie par. 5).
+Bij de beslissing om v.i. te verlenen kijkt de CVv.i. naar ‘de mogelijkheden om eventuele aan de invrijheidstelling verbonden risico’s te beperken en beheersen’. Voor zover noodzakelijk en proportioneel kan zij daartoe bijzondere voorwaarden stellen (zie [par. 5](https://wetten.overheid.nl/BWBR0045281)).
 
-Relevant hierbij is dat de resocialisatie van de veroordeelde niet pas bij de v.i. start. Al tijdens de gevangenschap wordt een gedetineerde in de gelegenheid gesteld om gericht te werken aan zijn re-integratie. Daartoe kan hem bij gewenst gedrag re-integratieverlof worden verleend. Dat kan bijvoorbeeld verlof zijn om overdag buiten de inrichting te werken, een zorgtraject te volgen of om praktische zaken voor de re-integratie te regelen.12Ook is re-integratieverlof mogelijk voor deelname aan gedragsinterventies, het gericht bezoeken van familie om te werken aan een stabiel gezinscontact, het weer opnieuw invulling leren geven aan een opvoedingsrol binnen het gezin, voor ambulante zorg of voor het volgen van een opleiding buiten de inrichting. TK 2018–2019, 35 122, nr. 3, p. 20. Omdat aan een veroordeelde derhalve vooruitlopend op de v.i. al bepaalde vrijheden (zoals langdurend re-integratieverlof) toegekend kunnen zijn, wordt bij de inschatting van risico’s het detentieverloop (inclusief gedrag tijdens verloven) nadrukkelijk betrokken.13Bij beslissingen in het kader van detentiefasering hanteren de directeur van de penitentiaire inrichting en selectiefunctionarissen vergelijkbare criteria. Hoewel de criteria overeenkomen, is de context waarbinnen getoetst wordt verschillend. Naarmate de vrijheden verderstrekkend en langduriger zijn, zal onder andere de risicobeoordeling overeenkomstig intensiever zijn. Indien de veroordeelde op het moment dat de beslissing over de v.i. actueel is niet is gedetineerd, dan betrekt de CVv.i. de tijd die hij in vrijheid heeft doorgebracht en het verloop daarvan bij de afweging, evenals eventuele voorwaarden die aan de schorsing van de voorlopige hechtenis waren verbonden.
+Relevant hierbij is dat de resocialisatie van de veroordeelde niet pas bij de v.i. start. Al tijdens de gevangenschap wordt een gedetineerde in de gelegenheid gesteld om gericht te werken aan zijn re-integratie. Daartoe kan hem bij gewenst gedrag re-integratieverlof worden verleend. Dat kan bijvoorbeeld verlof zijn om overdag buiten de inrichting te werken, een zorgtraject te volgen of om praktische zaken voor de re-integratie te regelen.12Ook is re-integratieverlof mogelijk voor deelname aan gedragsinterventies, het gericht bezoeken van familie om te werken aan een stabiel gezinscontact, het weer opnieuw invulling leren geven aan een opvoedingsrol binnen het gezin, voor ambulante zorg of voor het volgen van een opleiding buiten de inrichting. TK 2018–2019, 35 122, nr. 3, p. 20. Omdat aan een veroordeelde derhalve vooruitlopend op de v.i. al bepaalde vrijheden (zoals langdurend re-integratieverlof) toegekend kunnen zijn, wordt bij de inschatting van risico’s het detentieverloop (inclusief gedrag tijdens verloven) nadrukkelijk betrokken.13Bij beslissingen in het kader van detentiefasering hanteren de directeur van de penitentiaire inrichting en selectiefunctionarissen vergelijkbare criteria. Hoewel de criteria overeenkomen, is de context waarbinnen getoetst wordt verschillend. Naarmate de vrijheden verderstrekkend en langduriger zijn, zal onder andere de risicobeoordeling overeenkomstig intensiever zijn. Indien de veroordeelde op het moment dat de beslissing over de v.i. actueel is niet is gedetineerd, dan betrekt de CVv.i. de tijd die hij in vrijheid heeft doorgebracht en het verloop daarvan bij de afweging, evenals eventuele voorwaarden die aan de schorsing van de voorlopige hechtenis waren verbonden.
 
 ### 4.1.3. Belangen slachtoffers, nabestaanden en andere relevante personen
 
@@ -116,7 +149,7 @@ Bij personen die van de veroordeelde afhankelijk zijn, gaat het om kinderen van 
 
 Relevante personen zijn daarnaast personen die formeel geen slachtoffer of nabestaande zijn, maar wel een concrete en legitieme beschermingsbehoefte in relatie tot de v.i. hebben. Het gaat dan bijvoorbeeld om personen die de veroordeelde persoonlijk kennen of betrokken waren bij een strafzaak tegen hem (zoals getuigen) en die een actuele, objectief gerechtvaardigde vrees hebben voor hun (fysieke) veiligheid. Van hen kan worden verlangd het belang te onderbouwen. Deze personen kunnen zich melden. Indien zij al bekend zijn in de keten, worden zij mogelijk ook (desgewenst) benaderd voor het geven van een actuele zienswijze.15Betrokkene kan onder meer bekend zijn omdat de rechter de veroordeelde eerder een contactverbod heeft opgelegd (als bijzondere voorwaarde bij een schorsing van de voorlopige hechtenis).
 
-Belangen kunnen enkel mee worden gewogen voor zover deze tijdig bekend zijn en objectief bepaald kunnen worden. Het meewegen van belangen van slachtoffers, nabestaanden en andere relevante personen gaat niet zover dat ieder gevoel van onbehagen of onbegrip aanleiding is om geen v.i. te verlenen.16**Kamerstukken I**, 2019/2020, 35 122, C, p. 6. De mogelijkheid om een zienswijze te geven (zie par. 3.1.) is voornamelijk bedoeld om een concrete beschermingsbehoefte onder de aandacht te brengen bij de CVv.i. Deze informatie heeft daarmee primair betrekking op eventueel aan de v.i. te verbinden bijzondere voorwaarden, ter bescherming van betrokkenen.
+Belangen kunnen enkel mee worden gewogen voor zover deze tijdig bekend zijn en objectief bepaald kunnen worden. Het meewegen van belangen van slachtoffers, nabestaanden en andere relevante personen gaat niet zover dat ieder gevoel van onbehagen of onbegrip aanleiding is om geen v.i. te verlenen.16*Kamerstukken I*, 2019/2020, 35 122, C, p. 6. De mogelijkheid om een zienswijze te geven (zie [par. 3.1.](https://wetten.overheid.nl/BWBR0045281)) is voornamelijk bedoeld om een concrete beschermingsbehoefte onder de aandacht te brengen bij de CVv.i. Deze informatie heeft daarmee primair betrekking op eventueel aan de v.i. te verbinden bijzondere voorwaarden, ter bescherming van betrokkenen.
 
 Bij de afweging over de v.i. spelen daarnaast inspanningen van de veroordeelde om de door het strafbare feit veroorzaakte schade te vergoeden een rol.
 
@@ -160,13 +193,37 @@ De CVv.i. beslist op basis van het dossier en de adviezen23Adviezen zijn afkomst
 
 Er wordt gestreefd naar een logische samenhang tussen de v.i. en de eerder toegekende (externe) vrijheden. Er wordt immers niet pas tijdens de v.i. begonnen met het werken aan zowel gedragsverandering als re-integratie. Daaraan wordt voor een belangrijk deel reeds vormgegeven in de detentiefase, mede in het licht van de maximering van de v.i. op twee jaar. Veroordeelden kunnen al vanuit detentie en in het kader van toegekend re-integratieverlof gericht en stapsgewijs werken aan hun terugkeer.25De directeur van de penitentiaire inrichting en selectiefunctionaris beslissen over de toekenning van verloven en vrijheden. Zie ook par. 4.1.1. en 4.1.2. Met de v.i. kan daarop worden voortgebouwd. Succesvol ingezette trajecten worden waar mogelijk voortgezet.
 
-De CVv.i. kan later beslissen de bijzondere voorwaarden aan te vullen, te wijzigen of op te heffen – bijvoorbeeld na een overtreding van de voorwaarden (zie hoofdstuk 7). Dit kan ook als handhaving van de opgelegde bijzondere voorwaarde(n) geen doel meer dient, bijvoorbeeld wanneer de v.i.-gestelde de therapie die hij in het kader van een bijzondere voorwaarde moest volgen, met goed gevolg heeft afgerond.
+De CVv.i. kan later beslissen de bijzondere voorwaarden aan te vullen, te wijzigen of op te heffen – bijvoorbeeld na een overtreding van de voorwaarden (zie [hoofdstuk 7](https://wetten.overheid.nl/BWBR0045281)). Dit kan ook als handhaving van de opgelegde bijzondere voorwaarde(n) geen doel meer dient, bijvoorbeeld wanneer de v.i.-gestelde de therapie die hij in het kader van een bijzondere voorwaarde moest volgen, met goed gevolg heeft afgerond.
 
 ### 5.2. De inhoud van bijzondere voorwaarden
 
-De wet bepaalt welke bijzondere voorwaarden gesteld kunnen worden (zie [art. 6:2:11, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)).26Met ingang van 1 juli 2021 zijn nieuwe voorwaarden opgenomen in art. 6:2:11, derde lid, Sv. Het betreft: j. een verbod vrijwilligerswerk van een bepaalde aard te verrichten; k. een beperking van het recht om Nederland te verlaten; l. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen; m. de plicht te verhuizen uit een bepaald gebied. Het is tevens mogelijk aan een bijzondere voorwaarde elektronisch toezicht te verbinden ([art. 6:2:11, vierde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)). Het OM maakt de afweging of vrijheidsbeperkende voorwaarden met een elektronisch controlemiddel worden gecombineerd. Een dergelijke inbreuk op de persoonlijke levenssfeer dient noodzakelijk en proportioneel te zijn.27Zie de Aanwijzing voorwaardelijke straffen en schorsing voorlopige hechtenis onder voorwaarden en de Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen.
+De wet bepaalt welke bijzondere voorwaarden gesteld kunnen worden (zie [art. 6:2:11, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)).26Met ingang van 1 juli 2021 zijn nieuwe voorwaarden opgenomen in art. 6:2:11, derde lid, Sv. Het betreft: j. een verbod vrijwilligerswerk van een bepaalde aard te verrichten; k. een beperking van het recht om Nederland te verlaten; l. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen; m. de plicht te verhuizen uit een bepaald gebied. Het is tevens mogelijk aan een bijzondere voorwaarde elektronisch toezicht te verbinden ([art. 6:2:11, vierde lid Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)). Het OM maakt de afweging of vrijheidsbeperkende voorwaarden met een elektronisch controlemiddel worden gecombineerd. Een dergelijke inbreuk op de persoonlijke levenssfeer dient noodzakelijk en proportioneel te zijn.27Zie de Aanwijzing voorwaardelijke straffen en schorsing voorlopige hechtenis onder voorwaarden en de Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen.
 
 De restcategorie ‘overige voorwaarden, het gedrag van de veroordeelde betreffende’ ([art. 6:2:11 lid 3 onder n Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)) is in de wet opgenomen om maatwerk te kunnen leveren ten aanzien van de invulling van de bijzondere voorwaarden. Deze gedragsvoorwaarden dienen te strekken tot bevordering van een veilige en verantwoorde terugkeer van veroordeelde in de samenleving, dan wel tot voorkoming van recidive. Dit betekent in concreto dat bij de v.i. als ‘restcategorie’ in de regel de navolgende bijzondere voorwaarden kunnen worden opgelegd:
+
+- – volgen van een opleiding;
+
+- – meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlening, maatschappelijk werk etc.)28Het zal hierbij doorgaans gaan om voortzetting van tijdens de detentie ingezette trajecten.;
+
+- – geen andere huisvesting zonder toestemming;
+
+- – meewerken aan het verkrijgen/behouden van aanvaardbare huisvesting;
+
+- – meewerken aan middelencontrole;
+
+- – verbod kansspelen;
+
+- – vermijden contact met minderjarigen;
+
+- – vermijden kinderporno;
+
+- – verbod bepaalde werkzaamheden (anders dan vrijwilligerswerk);
+
+- – meewerken aan het verkrijgen/behouden van dagbesteding;
+
+- – houdverbod dieren;
+
+- – inzicht geven in financiën.
 
 Wanneer er bijzondere voorwaarden worden verbonden aan de v.i. dan gelden van rechtswege altijd de voorwaarden dat veroordeelde – kort samengevat – meewerkt aan het vaststellen van zijn identiteit en medewerking verleent aan het reclasseringstoezicht.29Daaronder begrepen medewerking aan huisbezoeken en het zich melden bij reclassering zo vaak en zolang als de reclassering dit noodzakelijk acht. Art. 6:2:11, tweede lid, Sv.
 
@@ -196,7 +253,7 @@ De vordering tot verlenging van de proeftijd dient door het lokale OM te worden 
 
 De aanvang van de v.i. kan ook andere proeftijden doen herleven. De v.i.-proeftijd loopt dan gelijktijdig met die andere proeftijden en de v.i.-gestelde moet zich vanaf dat moment dus houden aan alle voorwaarden die dan (weer) gelden. Deze samenloop van proeftijden betekent dat het betrokken parket en de CVv.i. bij overtreding van een bepaalde voorwaarde moeten bezien bij welke proeftijd die voorwaarde hoort, en welk gevolg aan de overtreding kan worden verbonden. Bepaald moet worden of herroeping van de v.i., een vordering tenuitvoerlegging voor de (deels) voorwaardelijke straf of beiden de meest passende reactie is.
 
-Voor samenloop met een v.i. voor straffen in laatste feitelijke instantie uitgesproken vóór 1 juli 2021, zie deel III.
+Voor samenloop met een v.i. voor straffen in laatste feitelijke instantie uitgesproken vóór 1 juli 2021, zie [deel III](https://wetten.overheid.nl/BWBR0045281).
 
 ### 7. Toezicht, herroeping en aanhouding
 
@@ -211,6 +268,16 @@ Indien er ‘ernstige redenen bestaan voor het vermoeden’ dat de algemene voor
 Aan de CVv.i. is hierbij enige beoordelingsruimte gelaten. Er kan slechts worden afgezien van herroeping van de v.i. als met een wijziging van voorwaarden of met een waarschuwing kan worden volstaan. Bij deze afweging spelen beginselen van proportionaliteit en subsidiariteit een rol. Bij een (vermoedelijke) overtreding van de algemene voorwaarde wordt de beslissing over herroeping zo nodig afgestemd met het lokale OM dat verantwoordelijk is voor de lopende strafzaak. De CVv.i. kan ervoor kiezen de uitkomst van de strafzaak af te wachten.
 
 In zijn rapportage geeft de reclassering aan of herroeping voor een bepaalde periode (gedeeltelijke herroeping) of geheel wordt geadviseerd. Het antwoord op de vraag of gehele dan wel gedeeltelijke herroeping van de v.i. aan de orde is, hangt af van
+
+- – de aard van het strafbare feit (bij overtreding van de algemene voorwaarde);
+
+- – de feitelijke overtreding van (een) bijzondere voorwaarde(n);
+
+- – de mate van recidive;
+
+- – de lengte van het resterende gedeelte van de v.i.;
+
+- – de gevolgen die een (gehele dan wel gedeeltelijke) herroeping van v.i. heeft voor eventueel geldende bijzondere voorwaarden.
 
 In het geval van een (verdenking van) een misdrijf wordt altijd overgegaan tot herroeping. Ook een (verdenking van) een (strafrechtelijke) overtreding kan aanleiding vormen voor herroeping.
 
@@ -238,6 +305,12 @@ Voor de beoordeling van het verzoek geldt een verkorte procedure. De CVv.i. base
 
 De veroordeelde kan bij de rechtbank een met redenen omkleed bezwaarschrift indienen tegen:
 
+- – de beslissing om geen v.i. te verlenen;
+
+- – de beslissing om de beslissing over het verlenen van de v.i. uit te stellen;
+
+- – de beslissing om de v.i. te herroepen ([art. 6:6:8 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:8)).
+
 Tegen de aan de v.i. verbonden voorwaarden staat geen bezwaar open.
 
 De rechtbank onderzoekt of het OM bij zijn afweging van de betrokken belangen in redelijkheid tot zijn beslissing heeft kunnen komen ([art. 6:6:9 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:9)).
@@ -246,15 +319,23 @@ De officier van justitie vertegenwoordigt het OM bij de behandeling van het bezw
 
 ### II. Regeling tot 1 juli 2021
 
-**Dit deel is gebaseerd op de Aanwijzing voorwaardelijke invrijheidstelling (2020A010)**
+*Dit deel is gebaseerd op de Aanwijzing voorwaardelijke invrijheidstelling (2020A010)*
 
 ### 1. Toepassingsbereik
 
-De in dit deel beschreven v.i.-regeling geldt voor veroordelingen tot vrijheidsstraffen die in laatste feitelijke instantie zijn uitgesproken voor 1 juli 2021.32Het gaat om het moment van de uitspraak door de rechtbank of het gerechtshof. De uitspraak hoeft op dat moment nog niet onherroepelijk te zijn. Zij is van toepassing op geheel onvoorwaardelijke vrijheidsstraffen met een duur van meer dan één jaar. Voor vrijheidsstraffen met een duur tussen één jaar en twee jaar vindt v.i. plaats wanneer de vrijheidsbeneming ten minste één jaar heeft geduurd en van het nog ten uitvoer te leggen gedeelte van de straf een derde is ondergaan. Voor vrijheidsstraffen met een duur van twee jaar of meer vindt v.i. plaats wanneer twee derde van de straf is ondergaan.
+De in dit deel beschreven v.i.-regeling geldt voor veroordelingen tot vrijheidsstraffen die in laatste feitelijke instantie zijn uitgesproken voor 1 juli 2021.32Het gaat om het moment van de uitspraak door de rechtbank of het gerechtshof. De uitspraak hoeft op dat moment nog niet onherroepelijk te zijn. Zij is van toepassing op geheel onvoorwaardelijke vrijheidsstraffen met een duur van meer dan één jaar. Voor vrijheidsstraffen met een duur tussen één jaar en twee jaar vindt v.i. plaats wanneer de vrijheidsbeneming ten minste één jaar heeft geduurd en van het nog ten uitvoer te leggen gedeelte van de straf een derde is ondergaan. Voor vrijheidsstraffen met een duur van twee jaar of meer vindt v.i. plaats wanneer twee derde van de straf is ondergaan.
 
 Indien een veroordeelde meerdere straffen heeft te ondergaan, worden deze zo mogelijk aaneensluitend33De veroordeelde wordt niet tussentijds in vrijheid gesteld. De uitvoering van de straf wordt evenmin anderszins onderbroken. ten uitvoer gelegd. Alleen geheel onvoorwaardelijk ten uitvoer te leggen straffen worden gezamenlijk als één vrijheidsstraf aangemerkt ([art. 6:2:6 onder a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6)). De v.i. wordt verleend over het totaal indien de duur hiervan meer dan een jaar bedraagt.
 
 De v.i.-regeling is niet van toepassing in het geval van/bij:
+
+- 1. *(de tenuitvoerlegging van) voorwaardelijke of deels voorwaardelijke veroordelingen tot vrijheidsstraffen;* Na toewijzing van de vordering tot tenuitvoerlegging van een voorwaardelijke vrijheidsstraf wordt geen v.i. berekend over een alsnog ten uitvoer te leggen straf(deel);
+
+- 2. *jeugdigen veroordeeld tot jeugddetentie*. Jeugdigen veroordeeld tot jeugddetentie kunnen immers door de rechter te allen tijde in vrijheid gesteld worden ([art. 6:6:28 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:28)). Op jeugddetentie die is omgezet in een geheel onvoorwaardelijke gevangenisstraf is de v.i.-regeling wel van toepassing (mits die gevangenisstraf dus meer dan één jaar bedraagt);
+
+- 3. *vreemdelingen zonder bestendig rechtmatig verblijf*. Vreemdelingen die geen rechtmatig verblijf (meer) hebben in Nederland in de zin van [art. 8, onder a tot en met e of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) komen niet voor v.i. in aanmerking. Als een vreemdeling, naar aanleiding van een voor de v.i.-datum ingediende aanvraag, alsnog bestendig rechtmatig verblijf wordt toegestaan valt hij onder het bereik van de v.i.-regeling. Ook als het bestendige rechtmatige verblijf wordt verkregen na de v.i.-datum.
+
+- 4. *levenslanggestraften.*
 
 ### 2. Taken OM en positie Centrale Voorziening v.i.
 
@@ -270,7 +351,7 @@ De CVv.i. kan verder adviseren over een gratieverzoek ten aanzien van een straf 
 
 ### 3. Dossier en advisering
 
-De CVv.i. ontvangt adviezen van DJI en de Reclassering. Het lokale OM adviseert in zaken waarin eerder een advies (als bedoeld in [art. 6:1:10 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10)) is uitgebracht of waaraan voor 1 januari 2020 de executie-indicator is toegekend. Ligt er geen advies van het lokaal OM dan kan dit door of voor de CVv.i. alsnog gevraagd worden met name gelet op de belangen van slachtoffers en nabestaanden.
+De CVv.i. ontvangt adviezen van DJI en de Reclassering. Het lokale OM adviseert in zaken waarin eerder een advies (als bedoeld in [art. 6:1:10 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:10)) is uitgebracht of waaraan voor 1 januari 2020 de executie-indicator is toegekend. Ligt er geen advies van het lokaal OM dan kan dit door of voor de CVv.i. alsnog gevraagd worden met name gelet op de belangen van slachtoffers en nabestaanden.
 
 ### 4. Uitstellen of achterwege laten van v.i.
 
@@ -290,9 +371,15 @@ Een vordering is mogelijk bij ernstige misdragingen tijdens de tenuitvoerlegging
 
 Een (poging tot) onttrekking aan de tenuitvoerlegging van de straf doet zich voor wanneer de veroordeelde feitelijk in het gebouw van de inrichting of het op het tot de inrichting behorende terrein verbleef en (al dan niet met geweld) is gevlucht of heeft geprobeerd te vluchten. Daarnaast spreken we van een onttrekking aan de tenuitvoerlegging van de straf als de veroordeelde zich met toestemming tijdelijk buiten (het terrein van) de inrichting bevindt, en niet (tijdig) terugkeert in de inrichting. Dit kan het geval zijn tijdens verlof of een strafonderbreking.
 
-Als sprake is van een onttrekking met (dreiging met) geweld dient het OM **altijd een vordering strekkende tot uitstel of achterwege laten van de v.i. in**.Ook als de onttrekking niet is voltooid. Dit geldt eveneens wanneer een veroordeelde zich onttrekt uit een situatie waarin hij met toestemming buiten de inrichting verblijft en daarbij wordt begeleid of bewaakt of onder direct toezicht staat. Een onttrekking aan incidenteel verlof onder bewaking is een voorbeeld van een dergelijke situatie.
+Als sprake is van een onttrekking met (dreiging met) geweld dient het OM *altijd een vordering strekkende tot uitstel of achterwege laten van de v.i. in*.Ook als de onttrekking niet is voltooid. Dit geldt eveneens wanneer een veroordeelde zich onttrekt uit een situatie waarin hij met toestemming buiten de inrichting verblijft en daarbij wordt begeleid of bewaakt of onder direct toezicht staat. Een onttrekking aan incidenteel verlof onder bewaking is een voorbeeld van een dergelijke situatie.
 
 Gaat de (poging tot) onttrekking niet gepaard met (dreiging met) geweld of keert de veroordeelde die zich met toestemming buiten de inrichting bevindt niet of niet tijdig terug, dan wordt in de volgende gevallen een vordering ingediend:
+
+- – de veroordeelde keert niet binnen 24 uur terug in de inrichting en de te late terugkeer is aan veroordeelde te verwijten;
+
+- – de veroordeelde keert binnen 24 uur terug in de inrichting, maar niet vrijwillig (bijvoorbeeld na aanhouding);
+
+- – de veroordeelde keert wel binnen 24 uur terug in de inrichting, maar er is sprake van omstandigheden die uitstel of achterwege laten van de v.i. vorderen rechtvaardigen, bijvoorbeeld bij het plegen van een nieuw strafbaar feit of het benaderen van een slachtoffer tijdens de onttrekking.
 
 ### 4.3. Voorwaarden perken het recidiverisico onvoldoende in of veroordeelde is niet bereid de voorwaarden na te leven
 
@@ -310,13 +397,37 @@ De CVv.i. beslist op basis van het dossier en de adviezen36Adviezen zijn afkomst
 
 Er wordt gestreefd naar een logische samenhang tussen de v.i. en de eerder toegekende (externe) vrijheden. Er wordt immers niet pas tijdens de v.i. begonnen met het werken aan zowel gedragsverandering als re-integratie. Daaraan wordt voor een belangrijk deel reeds vormgegeven in de detentiefase. Veroordeelden kunnen al vanuit detentie en in het kader van toegekend re-integratieverlof gericht en stapsgewijs werken aan hun terugkeer.38De directeur van de penitentiaire inrichting en selectiefunctionaris beslissen over de toekenning van verloven en vrijheden. Met de v.i. kan daarop worden voortgebouwd. Succesvol ingezette trajecten worden waar mogelijk voortgezet.
 
-De CVv.i. kan later beslissen de bijzondere voorwaarden aan te vullen, te wijzigen of op te heffen – bijvoorbeeld na een overtreding van de voorwaarden (zie hoofdstuk 7). Dit kan ook als handhaving van de opgelegde bijzondere voorwaarde(n) geen doel meer dient, bijvoorbeeld wanneer de v.i.-gestelde de therapie die hij in het kader van een bijzondere voorwaarde moest volgen, met goed gevolg heeft afgerond.
+De CVv.i. kan later beslissen de bijzondere voorwaarden aan te vullen, te wijzigen of op te heffen – bijvoorbeeld na een overtreding van de voorwaarden (zie [hoofdstuk 7](https://wetten.overheid.nl/BWBR0045281)). Dit kan ook als handhaving van de opgelegde bijzondere voorwaarde(n) geen doel meer dient, bijvoorbeeld wanneer de v.i.-gestelde de therapie die hij in het kader van een bijzondere voorwaarde moest volgen, met goed gevolg heeft afgerond.
 
 ### 5.2. De inhoud van bijzondere voorwaarden
 
 De wet bepaalt welke bijzondere voorwaarden gesteld kunnen worden (zie [art. 6:2:11, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)-oud). Het is tevens mogelijk aan een bijzondere voorwaarde elektronisch toezicht te verbinden (art. 6:2:11, vierde lid Sv). Het OM maakt de afweging of vrijheidsbeperkende voorwaarden met een elektronisch controlemiddel worden gecombineerd. Een dergelijke inbreuk op de persoonlijke levenssfeer dient noodzakelijk en proportioneel te zijn.39Zie de Aanwijzing voorwaardelijke straffen en schorsing voorlopige hechtenis onder voorwaarden en de Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen.
 
 De restcategorie ‘overige voorwaarden, het gedrag van de veroordeelde betreffende’ ([art. 6:2:11, derde lid onder j, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:11)-oud) is in de wet opgenomen om maatwerk te kunnen leveren ten aanzien van de invulling van de bijzondere voorwaarden. Deze gedragsvoorwaarden dienen te strekken tot bevordering van een veilige en verantwoorde terugkeer van veroordeelde in de samenleving, dan wel tot voorkoming van recidive. Dit betekent in concreto dat bij de v.i. als ‘restcategorie’ in de regel de navolgende bijzondere voorwaarden kunnen worden opgelegd:
+
+- – volgen van een opleiding;
+
+- – meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlening, maatschappelijk werk etc.)40Het zal hierbij doorgaans gaan om voortzetting van tijdens de detentie ingezette trajecten.;
+
+- – geen andere huisvesting zonder toestemming;
+
+- – meewerken aan het verkrijgen/behouden van aanvaardbare huisvesting;
+
+- – meewerken aan middelencontrole;
+
+- – verbod kansspelen;
+
+- – vermijden contact met minderjarigen;
+
+- – vermijden kinderporno;
+
+- – verbod bepaalde werkzaamheden (anders dan vrijwilligerswerk);
+
+- – meewerken aan het verkrijgen/behouden van dagbesteding;
+
+- – houdverbod dieren;
+
+- – inzicht geven in financiën.
 
 Wanneer er bijzondere voorwaarden worden verbonden aan de v.i. dan gelden van rechtswege altijd de voorwaarden dat veroordeelde – kort samengevat – meewerkt aan het vaststellen van zijn identiteit en medewerking verleent aan het reclasseringstoezicht.41Daaronder begrepen medewerking aan huisbezoeken en het zich melden bij reclassering zo vaak en zolang als de reclassering dit noodzakelijk acht. Art. 6:2:11, tweede lid, Sv.
 
@@ -346,7 +457,7 @@ De vordering tot verlenging van de proeftijd dient door het lokale OM te worden 
 
 De aanvang van de v.i. kan ook andere proeftijden doen herleven. De v.i.-proeftijd loopt dan gelijktijdig met die andere proeftijden en de v.i.-gestelde moet zich vanaf dat moment dus houden aan alle voorwaarden die dan (weer) gelden. Deze samenloop van proeftijden betekent dat het lokale OM en de CVv.i. bij overtreding van een bepaalde voorwaarde moeten bezien bij welke proeftijd die voorwaarde hoort, en welk gevolg aan de overtreding kan worden verbonden. Bepaald moet worden of een vordering herroeping van de v.i., een vordering tenuitvoerlegging voor de (deels) voorwaardelijke straf of beiden de meest passende reactie is.
 
-Voor samenloop met een v.i. voor straffen uitgesproken vanaf (op of na) 1 juli 2021, zie deel III.
+Voor samenloop met een v.i. voor straffen uitgesproken vanaf (op of na) 1 juli 2021, zie [deel III](https://wetten.overheid.nl/BWBR0045281).
 
 ### 7. Toezicht, herroeping en aanhouding
 
@@ -356,9 +467,19 @@ Het OM is belast met het toezicht op de naleving van voorwaarden die bij een v.i
 
 ### 7.2. Geheel of gedeeltelijk herroepen
 
-Bij overtreding van een aan de v.i. verbonden voorwaarde kan een vordering tot herroeping aan de orde zijn. Aan het OM is hierbij enige beoordelingsruimte gelaten. Er kan worden afgezien van een vordering tot herroeping van de v.i. als naar het oordeel van het OM met een wijziging van voorwaarden of met een waarschuwing kan worden volstaan. Bij deze afweging spelen beginselen van proportionaliteit en subsidiariteit een rol. Een vordering tot herroeping kan worden ingediend naar aanleiding van een overtreding van de algemene en/of de bijzondere voorwaarden (zie procedures in par. 7.2.1. en 7.2.2.).
+Bij overtreding van een aan de v.i. verbonden voorwaarde kan een vordering tot herroeping aan de orde zijn. Aan het OM is hierbij enige beoordelingsruimte gelaten. Er kan worden afgezien van een vordering tot herroeping van de v.i. als naar het oordeel van het OM met een wijziging van voorwaarden of met een waarschuwing kan worden volstaan. Bij deze afweging spelen beginselen van proportionaliteit en subsidiariteit een rol. Een vordering tot herroeping kan worden ingediend naar aanleiding van een overtreding van de algemene en/of de bijzondere voorwaarden (zie procedures in [par. 7.2.1.](https://wetten.overheid.nl/BWBR0045281) en [7.2.2.](https://wetten.overheid.nl/BWBR0045281)).
 
 In zijn rapportage geeft de reclassering aan of herroeping voor een bepaalde periode (gedeeltelijke herroeping) of geheel wordt geadviseerd. Het antwoord op de vraag of gehele dan wel gedeeltelijke herroeping van de v.i. moet worden gevorderd, hangt af van:
+
+- – de aard van het strafbare feit (bij overtreding van de algemene voorwaarde);
+
+- – de feitelijke overtreding van (een) bijzondere voorwaarde(n);
+
+- – de mate van recidive;
+
+- – de lengte van het resterende gedeelte van de v.i.;
+
+- – de gevolgen die een (gehele dan wel gedeeltelijke) herroeping van v.i. heeft voor eventueel geldende bijzondere voorwaarden.
 
 In het geval van een (verdenking van) een misdrijf tijdens de v.i.-proeftijd, wordt altijd een vordering tot herroeping ingediend. Ook een (verdenking van) een (strafrechtelijke) overtreding tijdens de v.i.-proeftijd kan aanleiding vormen voor het indienen van een dergelijke vordering
 
@@ -388,23 +509,23 @@ De v.i.-proeftijd wordt opgeschort door vrijheidsbeneming ([art. 6:1:18, derde l
 
 ### 7.5. Hoger beroep tegen beslissing herroeping
 
-Tegen de beslissing tot herroepen van de v.i. heeft van 1 januari 2020 tot 25 juli 2020 hoger beroep opengestaan voor de veroordeelde en het OM ([art. 6:6:22 lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:22) oud). Met de inwerkingtreding van de **Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen** is hoger beroep beperkt tot herroepingen v.i. voor zover deze deel uitmaken van een uitspraak ter zake van een ander strafbaar feit (art. 6:6:22, eerste lid onder b, Sv).
+Tegen de beslissing tot herroepen van de v.i. heeft van 1 januari 2020 tot 25 juli 2020 hoger beroep opengestaan voor de veroordeelde en het OM ([art. 6:6:22 lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:22) oud). Met de inwerkingtreding van de *Spoedreparatiewet herziening tenuitvoerlegging strafrechtelijke beslissingen* is hoger beroep beperkt tot herroepingen v.i. voor zover deze deel uitmaken van een uitspraak ter zake van een ander strafbaar feit (art. 6:6:22, eerste lid onder b, Sv).
 
 ### III. Samenloop regelingen
 
-**Het overgangsrecht in de Wet straffen en beschermen gaat uit van straffen die zijn opgelegd voor of na inwerkingtreding van die wet. Op straffen uitgesproken in laatste feitelijke instantie vóór 1 juli 2021 is de toenmalige regeling van toepassing (zie deel II). Voor straffen uitgesproken vanaf 1 juli 2021 geldt de regeling beschreven in deel I. Het kan daarnaast voorkomen dat iemand in verschillende strafzaken voor én na inwerkingtreding van de Wet straffen en beschermen (1 juli 2021) is veroordeeld tot meerdere onvoorwaardelijke vrijheidsstraffen.**
+*Het overgangsrecht in de Wet straffen en beschermen gaat uit van straffen die zijn opgelegd voor of na inwerkingtreding van die wet. Op straffen uitgesproken in laatste feitelijke instantie vóór 1 juli 2021 is de toenmalige regeling van toepassing (zie deel II). Voor straffen uitgesproken vanaf 1 juli 2021 geldt de regeling beschreven in deel I. Het kan daarnaast voorkomen dat iemand in verschillende strafzaken voor én na inwerkingtreding van de Wet straffen en beschermen (1 juli 2021) is veroordeeld tot meerdere onvoorwaardelijke vrijheidsstraffen.*
 
 ### 1. Toepasselijke regelingen
 
-Wanneer een veroordeelde meerdere vrijheidsstraffen moet ondergaan, worden die doorgaans aaneensluitend ten uitvoer gelegd en wordt de v.i. over het geheel berekend ([art. 6:2:6 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6)). Bij samenloop van straffen in laatste feitelijke instantie uitgesproken voor resp. na inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) is het in beginsel niet mogelijk om deze straffen in dit verband als één straf te zien. Voor de berekening van de totale v.i.-periode worden op grond van het overgangsrecht een v.i.-waardige straf die in laatste feitelijke instantie is opgelegd vóór 1 juli 2021 en een v.i.-waardige straf die is opgelegd vanaf 1 juli 2021 dus niet gezien als één straf maar als twee straffen.44Er kan ook sprake zijn van meerdere oude en/of meerdere nieuwe straffen. Bijv. twee oude straffen van twee en zes jaar, en een nieuwe van negen. De oude straffen zijn dan voor de toepassing van de v.i. onderling samen te nemen. Zij kunnen echter niet samen worden genomen met de nieuwe straf(fen). Op de straf uitgesproken vanaf 1 juli 2021 is de huidige v.i.-regeling (in deel I) van toepassing en op de straf van vóór 1 juli 2021 de toenmalige regeling (in deel II).
+Wanneer een veroordeelde meerdere vrijheidsstraffen moet ondergaan, worden die doorgaans aaneensluitend ten uitvoer gelegd en wordt de v.i. over het geheel berekend ([art. 6:2:6 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:6)). Bij samenloop van straffen in laatste feitelijke instantie uitgesproken voor resp. na inwerkingtreding van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) is het in beginsel niet mogelijk om deze straffen in dit verband als één straf te zien. Voor de berekening van de totale v.i.-periode worden op grond van het overgangsrecht een v.i.-waardige straf die in laatste feitelijke instantie is opgelegd vóór 1 juli 2021 en een v.i.-waardige straf die is opgelegd vanaf 1 juli 2021 dus niet gezien als één straf maar als twee straffen.44Er kan ook sprake zijn van meerdere oude en/of meerdere nieuwe straffen. Bijv. twee oude straffen van twee en zes jaar, en een nieuwe van negen. De oude straffen zijn dan voor de toepassing van de v.i. onderling samen te nemen. Zij kunnen echter niet samen worden genomen met de nieuwe straf(fen). Op de straf uitgesproken vanaf 1 juli 2021 is de huidige v.i.-regeling (in [deel I](https://wetten.overheid.nl/BWBR0045281)) van toepassing en op de straf van vóór 1 juli 2021 de toenmalige regeling (in [deel II](https://wetten.overheid.nl/BWBR0045281)).
 
-Op die hoofdregel bestaat één uitzondering. Een onvoorwaardelijke straf die vóór 1 juli 2021 is opgelegd in laatste feitelijke instantie en die op zichzelf genomen niet v.i.-waardig is (omdat deze minder dan een jaar bedraagt) en een eveneens op zichzelf niet v.i.-waardige onvoorwaardelijke straf die vanaf 1 juli 2021 is opgelegd worden bij aaneengesloten tenuitvoerlegging voor de toepassing van de v.i.-regeling als één straf aangemerkt als zij tezamen een periode van meer dan een jaar bedragen.
+Op die hoofdregel bestaat één uitzondering. Een onvoorwaardelijke straf die vóór 1 juli 2021 is opgelegd in laatste feitelijke instantie en die op zichzelf genomen niet v.i.-waardig is (omdat deze minder dan een jaar bedraagt) en een eveneens op zichzelf niet v.i.-waardige onvoorwaardelijke straf die vanaf 1 juli 2021 is opgelegd worden bij aaneengesloten tenuitvoerlegging voor de toepassing van de v.i.-regeling als één straf aangemerkt als zij tezamen een periode van meer dan een jaar bedragen.
 
-Nu de mogelijkheid van v.i. in dit geval pas ontstaat onder de werking van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) wordt de v.i. volledig overeenkomstig het huidige v.i.-recht toegepast.45TK 2020-2021, 35 122, nr. 39 (Brief Minister voor Rechtsbescherming, 2 april 2021). In die specifieke situatie gelden de regeling en het beleid zoals beschreven in deel I.46Nadat straffen op grond van de uitzonderingsregel eenmaal zijn samengenomen, kan zich een volgende straf aandienen waar eerder geen rekening mee is gehouden of kon worden gehouden die aaneensluitend ten uitvoer wordt gelegd. De eerdere combinatie oud-nieuw kan voor (de berekening van) de v.i. in stand worden gelaten, mits de volgende straf geen oude v.i.-waardige straf betreft. Het is aan de CVv.i. om hierin in de concrete situatie een afweging te maken. Niet-verlening, uitstel – van de beslissing – of herroeping van de v.i. kunnen aan de orde zijn, evenals een wijziging van de bijzondere voorwaarden. Dit geldt met name wanneer sprake is van een substantiële nieuwe straf.
+Nu de mogelijkheid van v.i. in dit geval pas ontstaat onder de werking van de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) wordt de v.i. volledig overeenkomstig het huidige v.i.-recht toegepast.45TK 2020-2021, 35 122, nr. 39 (Brief Minister voor Rechtsbescherming, 2 april 2021). In die specifieke situatie gelden de regeling en het beleid zoals beschreven in [deel I](https://wetten.overheid.nl/BWBR0045281).46Nadat straffen op grond van de uitzonderingsregel eenmaal zijn samengenomen, kan zich een volgende straf aandienen waar eerder geen rekening mee is gehouden of kon worden gehouden die aaneensluitend ten uitvoer wordt gelegd. De eerdere combinatie oud-nieuw kan voor (de berekening van) de v.i. in stand worden gelaten, mits de volgende straf geen oude v.i.-waardige straf betreft. Het is aan de CVv.i. om hierin in de concrete situatie een afweging te maken. Niet-verlening, uitstel – van de beslissing – of herroeping van de v.i. kunnen aan de orde zijn, evenals een wijziging van de bijzondere voorwaarden. Dit geldt met name wanneer sprake is van een substantiële nieuwe straf.
 
 ### 2. Bijzonderheden
 
-Bij samenloop van een vóór 1 juli in laatste instantie uitgesproken onvoorwaardelijke straf (oud) en een vanaf 1 juli 2021 uitgesproken straf (nieuw) zijn ten aanzien van de veroordeelde twee v.i.-regelingen van toepassing. Voor de respectievelijke, op zichzelf v.i.-waardige, straffen gelden in de basis de wettelijke regeling en het beleid zoals beschreven in deel I (voor uitspraak vanaf 1 juli 2021) en deel II (voor uitspraak in laatste feitelijke instantie tot 1 juli 2021). Er dient rekening te worden gehouden met een aantal bijzonderheden.
+Bij samenloop van een vóór 1 juli in laatste instantie uitgesproken onvoorwaardelijke straf (oud) en een vanaf 1 juli 2021 uitgesproken straf (nieuw) zijn ten aanzien van de veroordeelde twee v.i.-regelingen van toepassing. Voor de respectievelijke, op zichzelf v.i.-waardige, straffen gelden in de basis de wettelijke regeling en het beleid zoals beschreven in [deel I](https://wetten.overheid.nl/BWBR0045281) (voor uitspraak vanaf 1 juli 2021) en [deel II](https://wetten.overheid.nl/BWBR0045281) (voor uitspraak in laatste feitelijke instantie tot 1 juli 2021). Er dient rekening te worden gehouden met een aantal bijzonderheden.
 
 Bij de ene straf (‘nieuw’) beslist het OM over de verlening van de v.i. Bij de andere straf (‘oud’) kan de rechter op vordering van het OM beslissen om de betreffende v.i. uit te stellen of achterwege te laten. De v.i.-trajecten onder de beide regelingen worden zoveel mogelijk in onderlinge samenhang beschouwd.
 
@@ -412,11 +533,11 @@ In de meeste gevallen zal een ‘oude’ straf als eerste ten uitvoer worden gel
 
 Voor ommekomst van de periode waarover v.i. kan worden verleend bij de ‘nieuwe’ vrijheidsstraf neemt het OM een beslissing over de verlening van de v.i. voor die straf. Besluit het OM om voor de ‘nieuwe’ straf geen v.i. te verlenen, dan wordt nagegaan of er gronden aanwezig zijn om tevens een vordering herroeping van de v.i. voor de ‘oude’ straf in te dienen.
 
-Besluit het OM voor de ‘nieuwe’ straf v.i. te verlenen, dan kan het daaraan bijzondere voorwaarden verbinden. Mocht daartoe aanleiding bestaan, dan kunnen de bijzondere voorwaarden van de ‘oude’ straf in een separaat besluit worden gewijzigd (c.q. aangevuld). De voorwaarden van de onderscheidenlijke v.i.-trajecten worden namelijk zoveel mogelijk op elkaar afgestemd; aan de v.i. worden (voor een bepaalde duur) in beginsel dezelfde voorwaarden verbonden.48Met ingang van 1 juli 2021 zijn nieuwe voorwaarden opgenomen in art. 6:2:11, derde lid Sv. Het betreft: j. een verbod vrijwilligerswerk van een bepaalde aard te verrichten; k. een beperking van het recht om Nederland te verlaten; l. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen; m. de plicht te verhuizen uit een bepaald gebied. De regeling van vóór 1 juli 2021 voorzag hier niet in. Bij het stellen van bijzondere voorwaarden is altijd het uitgangspunt dat de voorwaarden naar het oordeel van de CVv.i. noodzakelijk en proportioneel zijn. Daarnaast moeten zij aansluiten bij het doel van de invrijheidstelling.
+Besluit het OM voor de ‘nieuwe’ straf v.i. te verlenen, dan kan het daaraan bijzondere voorwaarden verbinden. Mocht daartoe aanleiding bestaan, dan kunnen de bijzondere voorwaarden van de ‘oude’ straf in een separaat besluit worden gewijzigd (c.q. aangevuld). De voorwaarden van de onderscheidenlijke v.i.-trajecten worden namelijk zoveel mogelijk op elkaar afgestemd; aan de v.i. worden (voor een bepaalde duur) in beginsel dezelfde voorwaarden verbonden.48Met ingang van 1 juli 2021 zijn nieuwe voorwaarden opgenomen in art. 6:2:11, derde lid Sv. Het betreft: j. een verbod vrijwilligerswerk van een bepaalde aard te verrichten; k. een beperking van het recht om Nederland te verlaten; l. gehele of gedeeltelijke vergoeding van de door het strafbare feit veroorzaakte schade of het treffen van een regeling voor het betalen van de schadevergoeding in termijnen; m. de plicht te verhuizen uit een bepaald gebied. De regeling van vóór 1 juli 2021 voorzag hier niet in. Bij het stellen van bijzondere voorwaarden is altijd het uitgangspunt dat de voorwaarden naar het oordeel van de CVv.i. noodzakelijk en proportioneel zijn. Daarnaast moeten zij aansluiten bij het doel van de invrijheidstelling.
 
-Indien is aangevangen met de tenuitvoerlegging van de straf die is uitgesproken na 1 juli 2021 (‘nieuwe straf’), geldt bovenstaande mutatis mutandis. Besluit het OM geen v.i. te verlenen voor de ‘nieuwe’ straf, dan ligt in de rede dat een vordering uitstel of achterwege laten van de ‘oude’ v.i. wordt overwogen.
+Indien is aangevangen met de tenuitvoerlegging van de straf die is uitgesproken na 1 juli 2021 (‘nieuwe straf’), geldt bovenstaande mutatis mutandis. Besluit het OM geen v.i. te verlenen voor de ‘nieuwe’ straf, dan ligt in de rede dat een vordering uitstel of achterwege laten van de ‘oude’ v.i. wordt overwogen.
 
-Bij ‘nieuwe’ straffen wordt de beschikbaarheid van een aanvaardbaar verblijfadres nadrukkelijk betrokken bij de beslissing over de v.i.-verlening (zie par. 4.2.4. in deel I). Indien de veroordeelde na ommekomst van de ‘nieuwe’ straf nog een ‘oude’ vrijheidsstraf of maatregel moet ondergaan, wordt bij de verlening de (penitentiaire) inrichting als aanvaardbaar verblijfadres beschouwd. In dat geval wordt bij de eventuele verlening van de v.i. het beschikken over een aanvaardbaar verblijfadres bij invrijheidstelling als bijzondere voorwaarde opgenomen.
+Bij ‘nieuwe’ straffen wordt de beschikbaarheid van een aanvaardbaar verblijfadres nadrukkelijk betrokken bij de beslissing over de v.i.-verlening (zie [par. 4.2.4. in deel I](https://wetten.overheid.nl/BWBR0045281)). Indien de veroordeelde na ommekomst van de ‘nieuwe’ straf nog een ‘oude’ vrijheidsstraf of maatregel moet ondergaan, wordt bij de verlening de (penitentiaire) inrichting als aanvaardbaar verblijfadres beschouwd. In dat geval wordt bij de eventuele verlening van de v.i. het beschikken over een aanvaardbaar verblijfadres bij invrijheidstelling als bijzondere voorwaarde opgenomen.
 
 ### 3. Proeftijd
 
@@ -424,7 +545,7 @@ De proeftijd begint bij v.i. te lopen op de dag van de feitelijke invrijheidstel
 
 ### 4. Overtreding voorwaarden
 
-Bij overtreding van de algemene voorwaarde geldt het herroepingsbeleid zoals weergegeven in deel I(straffen vanaf 1 juli 2021) resp. II (straffen tot 1 juli 2021).
+Bij overtreding van de algemene voorwaarde geldt het herroepingsbeleid zoals weergegeven in [deel I](https://wetten.overheid.nl/BWBR0045281)(straffen vanaf 1 juli 2021) resp. [II](https://wetten.overheid.nl/BWBR0045281) (straffen tot 1 juli 2021).
 
 Veelal zullen aan de onderscheidenlijke v.i.-trajecten dezelfde bijzondere voorwaarden zijn verbonden. Bij overtreding van de bijzondere voorwaarden kan het OM besluiten de v.i. (nieuw) te herroepen resp. besluiten een vordering tot herroeping van de v.i. (oud) in te dienen. Deze beslissingen worden zoveel mogelijk in samenhang genomen.
 

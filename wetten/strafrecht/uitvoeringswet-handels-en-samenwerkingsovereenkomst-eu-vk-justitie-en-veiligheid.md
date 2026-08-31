@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 juli 2021 tot uitvoering van Deel III van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) (Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid)"
+citeertitel: "Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid"
 identifier: "BWBR0045415"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-17"
-last_updated: "2021-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045415"
+categorie: "Internationaal recht"
 soort: "wet"
-stam_id: "16028113"
-version_id: "27911832"
-internal_id: "C39356071"
-label_id: "15961674"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045415/2021-07-17/0"
-intitule_bron: "Stb.2021-355"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-14"
-intitule_published: "2021-07-16"
-intitule_in_force: "2021-07-16"
-intitule_status: "goed"
-original_publication: "Stb.2021-355"
-original_signed_date: "2021-07-14"
-original_published_date: "2021-07-16"
-original_effect: "nieuwe-regeling"
-original_dossier: "35852"
-original_url_id: "stb-2021-355"
-entry_into_force_date: "2021-07-17"
-jci_1_3: "jci1.3:c:BWBR0045415&z=2021-07-17&g=2021-07-17"
-jci_1_0: "1.0:c:BWBR0045415&g=2021-07-17"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid"
-signed_date: "2021-07-14"
-entry_into_force: "2021-07-17"
+publicatiedatum: 2021-07-17
+laatste_update: 2021-07-17
+status: geldig
+toestand: 2021-07-17
+bron: "https://wetten.overheid.nl/BWBR0045415"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 14 juli 2021 tot uitvoering van Deel III van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) (Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid)
-
-Allen die deze zullen zien of horen lezen, saluut!
-
-Alzo Wij in overweging genomen hebben dat het noodzakelijk is ter uitvoering van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149) enkele wettelijke voorzieningen ten aanzien van de overlevering van personen van en naar het Verenigd Koninkrijk, de wederzijdse rechtshulp met het Verenigd Koninkrijk en doorgifte van justitiële gegevens en passagiersgegevens te treffen;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Overlevering
 
@@ -49,7 +20,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 Overlevering tussen Nederland enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds vindt plaats met inachtneming van:
 
-- a. de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
+- a. de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
 
 - b. de door Nederland afgelegde verklaringen bij de in onderdeel a genoemde overeenkomst;
 
@@ -67,11 +38,11 @@ Overlevering kan worden geweigerd indien het aanhoudingsbevel een strafbaar feit
 
 ##### Artikel 3
 
-1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1) en [Afdeling 2 van Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&afdeling=2), alsmede de [Hoofdstukken III tot en met V van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=III) zijn van overeenkomstige toepassing op de behandeling van aanhoudingsbevelen als bedoeld in Deel III, Titel VII (Overlevering), van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149).
+1. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1) en [Afdeling 2 van Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&afdeling=2), alsmede de [Hoofdstukken III tot en met V van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&hoofdstuk=III) zijn van overeenkomstige toepassing op de behandeling van aanhoudingsbevelen als bedoeld in Deel III, Titel VII (Overlevering), van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149).
 
 2. Uitsluitend met het oog op de in het eerste lid bedoelde toepassing van [artikel 1 van de Overleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016664&artikel=1) wordt tevens verstaan onder:
 
-- a. Overleveringsovereenkomst: Deel III, Titel VII (Overlevering), van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
+- a. Overleveringsovereenkomst: Deel III, Titel VII (Overlevering), van de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie enerzijds en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
 
 - b. Europees aanhoudingsbevel: een aanhoudingsbevel als bedoeld in artikel 598 van de Overleveringsovereenkomst;
 
@@ -143,13 +114,13 @@ Onverminderd het bepaalde in het [Vijfde Boek van het Wetboek van Strafvordering
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. **centrale autoriteit:** een centrale autoriteit, aangewezen krachtens artikel 645 van de overeenkomst;
+- a. *centrale autoriteit:* een centrale autoriteit, aangewezen krachtens artikel 645 van de overeenkomst;
 
-- b. **de overeenkomst:** de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor atoomenergie, enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
+- b. *de overeenkomst:* de op 30 december 2020 te Brussel en Londen tot stand gekomen Handels- en Samenwerkingsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor atoomenergie, enerzijds, en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, anderzijds (PbEU 2020, L 444 en PbEU 2021, L 149);
 
-- c. **justitiële gegevens:** justitiële gegevens, bedoeld in [artikel 1, onderdeel a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1);
+- c. *justitiële gegevens:* justitiële gegevens, bedoeld in [artikel 1, onderdeel a, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1);
 
-- d. **Onze Minister:** Onze Minister, bedoeld in [artikel 1, onderdeel y, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1).
+- d. *Onze Minister:* Onze Minister, bedoeld in [artikel 1, onderdeel y, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1).
 
 ##### Artikel 10
 
@@ -171,7 +142,7 @@ Onze Minister geeft op verzoek van de centrale autoriteit van het Verenigd Konin
 
 ##### Artikel 13
 
-Wijzigt de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven.
+*Wijzigt de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -182,5 +153,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Uitvoeringswet Handels- en Samenwerkingsovereenkomst EU – VK Justitie en Veiligheid.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

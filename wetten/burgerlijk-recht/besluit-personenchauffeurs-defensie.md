@@ -5,11 +5,11 @@ identifier: "BWBR0010280"
 categorie: "Overig"
 soort: "AMvB"
 publicatiedatum: 2019-09-30
-laatste_update: 2025-01-17
+laatste_update: 2026-08-26
 status: geldig
-toestand: 2025-01-17
+toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0010280"
-opgehaald: 2026-08-04
+opgehaald: 2026-08-31
 ---
 
 # Besluit van 15 februari 1999, houdende de vaststelling van enkele rechtspositionele bepalingen ten aanzien van burgerambtenaren van Defensie, die belast zijn met het vervoer van bewindslieden en hoge ambtelijke functionarissen (Besluit personenchauffeurs defensie)
@@ -42,7 +42,7 @@ De arbeidstijd voor de personenchauffeur met een volledige arbeidstijd bedraagt 
 
 ##### Artikel 5. Vaste toelage onregelmatige dienst
 
-De personenchauffeur met een volledige arbeidstijd ontvangt een vaste toelage onregelmatige dienst ten bedrage van € 179,71 bruto per maand.
+De personenchauffeur met een volledige arbeidstijd ontvangt een vaste toelage onregelmatige dienst ten bedrage van € 205,94 bruto per maand.
 
 ##### Artikel 6. Consignatietoelage
 
@@ -50,17 +50,17 @@ De personenchauffeur met een volledige arbeidstijd ontvangt een vaste toelage on
 
 2. De personenchauffeur heeft recht op een maandelijkse consignatietoelage.
 
-3. In afwijking van [artikel 23, tweede en derde lid, van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=23) bedraagt de in het tweede lid bedoelde consignatietoelage, over ten hoogste het aantal van 45 geconsigneerde uren per maand, per uur: 1/195 van de som van het salaris en de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17) genoemde aanvulling op het salaris, vermenigvuldigd met de factor 0,5.
+3. In afwijking van [artikel 23, tweede en derde lid, van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=23) bedraagt de in het tweede lid bedoelde consignatietoelage, over ten hoogste het aantal van 45 geconsigneerde uren per maand, per uur: 1/195 van de som van het salaris en de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26) genoemde aanvulling op het salaris, vermenigvuldigd met de factor 0,5.
 
 4. De consignatietoelage wordt berekend over het voor de personenchauffeur geldende salaris per uur, met dien verstande dat het salaris per uur ten hoogste kan bedragen het salaris per uur dat is afgeleid van het salaris behorende bij het maximum van salarisschaal 4 van [bijlage A van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&bijlage=A).
 
 ##### Artikel 7. Grondslag bezoldiging
 
-De in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2025-01-17&g=2025-01-17), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2025-01-17&g=2025-01-17) genoemde aanvulling op het salaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage behoren tot de bezoldiging, bedoeld in [artikel 1 van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=1).
+De in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2026-08-26&g=2026-08-26), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2026-08-26&g=2026-08-26) genoemde aanvulling op het salaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage behoren tot de bezoldiging, bedoeld in [artikel 1 van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=1).
 
 ##### Artikel 8. Eindejaarsuitkering
 
-Over de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2025-01-17&g=2025-01-17), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2025-01-17&g=2025-01-17) genoemde aanvulling op het maandsalaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage heeft de personenchauffeur recht op een eindejaarsuitkering als bedoeld in [artikel 44 van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=44).
+Over de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2026-08-26&g=2026-08-26), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2026-08-26&g=2026-08-26) genoemde aanvulling op het maandsalaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage heeft de personenchauffeur recht op een eindejaarsuitkering als bedoeld in [artikel 44 van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=44).
 
 ##### Artikel 9. Aanspraak op vakantie
 
@@ -68,7 +68,7 @@ In afwijking van [artikel 32, vierde lid, van het reglement](https://wetten.over
 
 ##### Artikel 10. Onvolledige arbeidstijd
 
-Voor de personenchauffeur met een onvolledige arbeidstijd worden de in de [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17) genoemde aanvulling op het salaris, de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2025-01-17&g=2025-01-17) genoemde vaste toelage voor onregelmatige dienst, het in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2025-01-17&g=2025-01-17), genoemde aantal uren consignatie en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=9&z=2025-01-17&g=2025-01-17) genoemde aanspraak op vakantie, vastgesteld op een evenredig deel van die aanvulling, de toelage, het aantal uren consignatie en het aantal uren vakantie bij een volledige arbeidstijd.
+Voor de personenchauffeur met een onvolledige arbeidstijd worden de in de [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26) genoemde aanvulling op het salaris, de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2026-08-26&g=2026-08-26) genoemde vaste toelage voor onregelmatige dienst, het in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2026-08-26&g=2026-08-26), genoemde aantal uren consignatie en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=9&z=2026-08-26&g=2026-08-26) genoemde aanspraak op vakantie, vastgesteld op een evenredig deel van die aanvulling, de toelage, het aantal uren consignatie en het aantal uren vakantie bij een volledige arbeidstijd.
 
 ##### Artikel 11. Overgangstoelage
 
@@ -80,15 +80,15 @@ Voor de personenchauffeur met een onvolledige arbeidstijd worden de in de [artik
 
 - b. de vakantieuitkering, bedoeld in [artikel 43 van het inkomstenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=43);
 
-- c. de eindejaarsuitkering, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=8&z=2025-01-17&g=2025-01-17) van dit besluit ;
+- c. de eindejaarsuitkering, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=8&z=2026-08-26&g=2026-08-26) van dit besluit ;
 
-- d. de maandelijkse toelage en de geldelijke vergoeding voor 45 uren overwerk, bedoeld in het Besluit van 3 mei 1989 (Stb. 1989, 194), houdende een nadere werktijd regeling en overwerkvergoeding voor personenchauffeurs, [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=2&z=2025-01-17&g=2025-01-17) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17);
+- d. de maandelijkse toelage en de geldelijke vergoeding voor 45 uren overwerk, bedoeld in het Besluit van 3 mei 1989 (Stb. 1989, 194), houdende een nadere werktijd regeling en overwerkvergoeding voor personenchauffeurs, [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=2&z=2026-08-26&g=2026-08-26) en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26);
 
-- e. de aanvulling op het salaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2025-01-17&g=2025-01-17) van dit besluit;
+- e. de aanvulling op het salaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=4&z=2026-08-26&g=2026-08-26) van dit besluit;
 
-- f. de vaste toelage onregelmatige dienst, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2025-01-17&g=2025-01-17) van dit besluit;
+- f. de vaste toelage onregelmatige dienst, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=5&z=2026-08-26&g=2026-08-26) van dit besluit;
 
-- g. de consignatietoelage op basis van 45 uren consignatie, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2025-01-17&g=2025-01-17), van dit besluit.
+- g. de consignatietoelage op basis van 45 uren consignatie, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010280&artikel=6&z=2026-08-26&g=2026-08-26), van dit besluit.
 
 3. Aan de personenchauffeur wordt een overgangstoelage per maand toegekend, die éénmalig wordt afgeleid van het verschil tussen de inkomsten per maand, bedoeld in het tweede lid onder a, b, c en d op de dag vóór inwerkingtreding van dit besluit, en de inkomsten per maand, bedoeld in het tweede lid onder a, b, c, e, f en g, met ingang van de datum van inwerkingtreding van dit besluit.
 

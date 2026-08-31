@@ -1,62 +1,31 @@
 ---
 title: "Besluit van 4 juni 2021, houdende regels betreffende de benoemingsprocedure voor leden van de Sociaal-Economische Raad en de onverenigbaarheid van functies (Besluit benoemingsprocedure SER)"
+citeertitel: "Besluit benoemingsprocedure SER"
 identifier: "BWBR0045206"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045206"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "15975863"
-version_id: "27802862"
-internal_id: "C39217851"
-label_id: "15909794"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045206/2022-01-01/0"
-intitule_bron: "Stb.2021-265"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-04"
-intitule_published: "2021-06-08"
-intitule_in_force: "2021-06-08"
-intitule_status: "goed"
-original_publication: "Stb.2021-265"
-original_signed_date: "2021-06-04"
-original_published_date: "2021-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-265"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0045206&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0045206&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit benoemingsprocedure SER"
-signed_date: "2021-06-04"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0045206"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 4 juni 2021, houdende regels betreffende de benoemingsprocedure voor leden van de Sociaal-Economische Raad en de onverenigbaarheid van functies (Besluit benoemingsprocedure SER)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 5 maart 2021, nr. 2021-0000042060;
-
-Gelet op de [artikelen 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=4), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=6), en [7 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=7);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 april 2021, no. W12.21.0068/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 1 juni 2021, nr. 2021-0000073775,
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **organisatie:** een organisatie die overeenkomstig [artikel 4, tweede lid, van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=4) is aangewezen tot het benoemen van een of meer leden van de Raad;
+- b. *organisatie:* een organisatie die overeenkomstig [artikel 4, tweede lid, van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=4) is aangewezen tot het benoemen van een of meer leden van de Raad;
 
-- c. **Raad:** de Sociaal-Economische Raad;
+- c. *Raad:* de Sociaal-Economische Raad;
 
-- d. **wet:** [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
+- d. *wet:*
+ [Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058).
 
 ##### Artikel 2
 
@@ -134,14 +103,12 @@ Ingeval van ontstentenis van de voorzitter, of als bij de aanvang van een zittin
 
 ##### Artikel 10
 
-Het [besluit van 24 september 1959, houdende regelen betreffende de aanvaarding van hun functie door leden van de Sociaal-Economische Raad en door bestuursleden van produkt-, hoofdbedrijf- en bedrijfschappen en enige aanverwante onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0002329) (Stb. 1959, 343) en het [besluit van 22 september 1955, houdende regelen omtrent de onverenigbaarheid van het lidmaatschap van de Sociaal-Economische Raad met enige andere werkzaamheden](https://wetten.overheid.nl/jci1.3:c:BWBR0007573) (Stb. 1955, 455) worden ingetrokken.
+Het [besluit van 24 september 1959, houdende regelen betreffende de aanvaarding van hun functie door leden van de Sociaal-Economische Raad en door bestuursleden van produkt-, hoofdbedrijf- en bedrijfschappen en enige aanverwante onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0002329) (Stb. 1959, 343) en het [besluit van 22 september 1955, houdende regelen omtrent de onverenigbaarheid van het lidmaatschap van de Sociaal-Economische Raad met enige andere werkzaamheden](https://wetten.overheid.nl/jci1.3:c:BWBR0007573) (Stb. 1955, 455) worden ingetrokken.
 
 ##### Artikel 11
 
-Dit besluit treedt in werking op 1 januari 2022.
+Dit besluit treedt in werking op 1 januari 2022.
 
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit benoemingsprocedure SER.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

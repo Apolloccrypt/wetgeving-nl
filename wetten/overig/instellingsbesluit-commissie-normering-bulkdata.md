@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 7 juli 2025 (kenmerk 5446723), houdende instelling van de Commissie normering verwerking bulkdata ten behoeve van de politietaak (Instellingsbesluit Commissie normering bulkdata)"
+citeertitel: "Instellingsbesluit Commissie normering bulkdata"
 identifier: "BWBR0051320"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-26"
-last_updated: "2025-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051320"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17488373"
-version_id: "30842352"
-internal_id: "C44198841"
-label_id: "17390734"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051320/2025-07-26/0"
-intitule_bron: "Stcrt.2025-24983"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-07"
-intitule_published: "2025-07-25"
-intitule_in_force: "2025-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-24983"
-original_signed_date: "2025-07-07"
-original_published_date: "2025-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-24983"
-entry_into_force_date: "2025-07-26"
-jci_1_3: "jci1.3:c:BWBR0051320&z=2025-07-26&g=2025-07-26"
-jci_1_0: "1.0:c:BWBR0051320&g=2025-07-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie normering bulkdata"
-signed_date: "2025-07-07"
-entry_into_force: "2025-07-26"
+publicatiedatum: 2025-07-26
+laatste_update: 2026-08-27
+status: geldig
+toestand: 2026-08-27
+bron: "https://wetten.overheid.nl/BWBR0051320"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 7 juli 2025 (kenmerk 5446723), houdende instelling van de Commissie normering verwerking bulkdata ten behoeve van de politietaak (Instellingsbesluit Commissie normering bulkdata)
-
-Handelend in overeenstemming met de Staatsecretaris Rechtsbescherming;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** de Minister van Justitie en Veiligheid;
+- a. *Minister:* de Minister van Justitie en Veiligheid;
 
-- b. **Commissie:** commissie normering verwerking bulkdata ten behoeve van de politietaak.
+- b. *Commissie:* commissie normering verwerking bulkdata ten behoeve van de politietaak.
 
 ##### Artikel 2. Instelling en taak
 
@@ -56,21 +30,21 @@ In dit besluit wordt verstaan onder:
 
 3. De volgende onderwerpen moeten daarbij in ieder geval worden geadresseerd:
 
-- •. Een onderbouwde afbakening van de categorieën van persoonsgegevens waar de voorgestelde normering voor moet gelden
+- • Een onderbouwde afbakening van de categorieën van persoonsgegevens waar de voorgestelde normering voor moet gelden
 
-- •. De invulling van doelbinding en de verenigbaarheidstoets
+- • De invulling van doelbinding en de verenigbaarheidstoets
 
-- •. Wie de persoonsgegevens op welke wijze kan bevragen en (geautomatiseerd) analyseren
+- • Wie de persoonsgegevens op welke wijze kan bevragen en (geautomatiseerd) analyseren
 
-- •. De toestemming voor het verder verwerken van persoonsgegevens door een onafhankelijke autoriteit
+- • De toestemming voor het verder verwerken van persoonsgegevens door een onafhankelijke autoriteit
 
-- •. Bewaartermijnen
+- • Bewaartermijnen
 
-- •. Notificatie
+- • Notificatie
 
-- •. De inbedding in de bestaande wetgeving, met name de verhouding tussen de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
+- • De inbedding in de bestaande wetgeving, met name de verhouding tussen de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463), de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) en het nieuwe [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903)
 
-- •. Verbetering van het toezicht op de uitoefening van opsporingsbevoegdheden die (mede) bestaan uit het verwerken van persoonsgegevens, zo nodig ook tijdens het uitoefenen van die bevoegdheden.
+- • Verbetering van het toezicht op de uitoefening van opsporingsbevoegdheden die (mede) bestaan uit het verwerken van persoonsgegevens, zo nodig ook tijdens het uitoefenen van die bevoegdheden.
 
 4. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en te beantwoorden als onderdeel van haar taak.
 
@@ -80,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissieleden worden door de minister benoemd.
 
-3. De benoeming geschiedt voor de duur van de werkzaamheden van de commissie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=4&z=2025-07-26&g=2025-07-26) van dit besluit.
+3. De benoeming geschiedt voor de duur van de werkzaamheden van de commissie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=4&z=2026-08-27&g=2026-08-27) van dit besluit.
 
 4. De commissieleden kunnen op eigen verzoek, wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst of ontslagen door de minister.
 
@@ -88,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-1. De commissie wordt opgeheven zes weken nadat het eindrapport is uitgebracht, zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=7&z=2025-07-26&g=2025-07-26) van dit besluit.
+1. De commissie wordt opgeheven zes weken nadat het eindrapport is uitgebracht, zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051320&artikel=7&z=2026-08-27&g=2026-08-27) van dit besluit.
 
 2. De minister kan de duur van de instelling van de commissie eenmalig verlengen.
 
@@ -114,11 +88,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7. Eindrapport, tussenrapporten en uiterste datum voor oplevering
 
-1. De commissie brengt vóór 1 september 2026 haar eindrapport uit aan de minister.
+1. De commissie brengt vóór 1 juli 2027 haar eindrapport uit aan de minister.
 
 2. De commissie is bevoegd desgewenst één of meer tussenrapporten uit te brengen.
 
-3. De commissie biedt de minister uiterlijk vóór 13 oktober 2026 een verslag aan over de activiteiten in de periode waarin de commissie werkzaam is geweest. De commissie kan het verslag gelijktijdig met het eindrapport indienen.
+3. De commissie biedt de minister uiterlijk vóór 12 augustus 2027 een verslag aan over de activiteiten in de periode waarin de commissie werkzaam is geweest. De commissie kan het verslag gelijktijdig met het eindrapport indienen.
 
 ##### Artikel 8. Openbaarmaking door de commissie
 
@@ -132,12 +106,10 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 
 ##### Artikel 10. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot 1 juli 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot 1 juli 2025.
 
-2. Dit besluit vervalt zes weken na het uitbrengen van het eindrapport en uiterlijk 13 oktober 2026.
+2. Dit besluit vervalt zes weken na het uitbrengen van het eindrapport en uiterlijk 12 augustus 2027.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als instellingsbesluit Commissie normering bulkdata.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de betrokkenen.

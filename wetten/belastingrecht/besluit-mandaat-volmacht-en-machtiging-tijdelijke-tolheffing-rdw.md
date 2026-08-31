@@ -1,58 +1,31 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 18 juli 2021, nr. IENW/BSK-2021/199859, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)"
+citeertitel: "Besluit mandaat, volmacht en machtiging tijdelijke tolheffing RDW"
 identifier: "BWBR0045451"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-12-03"
-last_updated: "2024-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045451"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16034763"
-version_id: "27923802"
-internal_id: "C39371051"
-label_id: "15968154"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045451/2024-12-03/0"
-intitule_bron: "Stcrt.2021-36029"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-18"
-intitule_published: "2021-07-22"
-intitule_in_force: "2021-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-36029"
-original_signed_date: "2021-07-18"
-original_published_date: "2021-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-36029"
-entry_into_force_date: "2021-08-01"
-jci_1_3: "jci1.3:c:BWBR0045451&z=2024-12-03&g=2024-12-03"
-jci_1_0: "1.0:c:BWBR0045451&g=2024-12-03"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging tijdelijke tolheffing RDW"
-signed_date: "2021-07-18"
-entry_into_force: "2021-08-01"
+publicatiedatum: 2021-08-01
+laatste_update: 2024-12-03
+status: geldig
+toestand: 2024-12-03
+bron: "https://wetten.overheid.nl/BWBR0045451"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 18 juli 2021, nr. IENW/BSK-2021/199859, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de Dienst Wegverkeer van 12 juli 2021, kenmerk JBZ 2021-3109;
-
-BESLUIT:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
-- **Dienst Wegverkeer:** Dienst als bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *Dienst Wegverkeer:* Dienst als bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat;
+- *secretaris-generaal:* secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat;
 
-- **wet:** [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517).
+- *wet:*
+ [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517).
 
 ##### Artikel 2. (bestuursrechtelijke bevoegdheden)
 
@@ -80,7 +53,7 @@ Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend tot het nemen van 
 
 1. Aan de Dienst Wegverkeer wordt voor de uitvoering van werkzaamheden van de Minister in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037517) en de [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586) volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en voor de daarmee samenhangende feitelijke handelingen, waaronder begrepen het verwerken van de persoonsgegevens voor de uitvoering van de hiervoor genoemde handelingen.
 
-2. In afwijking van het eerste lid omvat de volmacht en machtiging niet de handelingen, bedoeld in [artikel 3 Besluit mandaat, volmacht en machtiging tijdelijke tolheffing CJIB](onbekend).
+2. In afwijking van het eerste lid omvat de volmacht en machtiging niet de handelingen, bedoeld in artikel 3 Besluit mandaat, volmacht en machtiging tijdelijke tolheffing CJIB.
 
 ##### Artikel 4. (bezwaar- en beroepschriften)
 
@@ -88,21 +61,21 @@ Aan de Dienst Wegverkeer wordt mandaat en machtiging verleend voor het behandele
 
 ##### Artikel 5. (ondermandaat)
 
-1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-12-03&g=2024-12-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03), in ondermandaat verlenen aan een ambtenaar werkzaam voor zijn organisatie.
+1. De Dienst Wegverkeer kan de aan hem gemandateerde bevoegdheden, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=2&z=2024-12-03&g=2024-12-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03), in ondermandaat verlenen aan een ambtenaar werkzaam voor zijn organisatie.
 
 2. Tenzij anders is bepaald omvat de verlening van ondermandaat mede de bevoegdheid tot het beslissen op bezwaar.
 
-3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=3&z=2024-12-03&g=2024-12-03).
+3. Het eerste lid is van overeenkomstige toepassing op volmacht en machtiging als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=3&z=2024-12-03&g=2024-12-03).
 
 ##### Artikel 6. (voorbehouden bevoegdheden secretaris-generaal)
 
-Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de mededeling, bedoeld in [artikel 9:36, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), dat een aanbeveling van de Nationale ombudsman niet wordt opgevolgd, voor zover deze aanbeveling betrekking heeft op de in dit besluit gemandateerde bevoegdheden.
+Aan de secretaris-generaal is de bevoegdheid voorbehouden tot het doen van de mededeling, bedoeld in [artikel 9:36, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), dat een aanbeveling van de Nationale ombudsman niet wordt opgevolgd, voor zover deze aanbeveling betrekking heeft op de in dit besluit gemandateerde bevoegdheden.
 
 ##### Artikel 7. (mandaat en ondermandaat beslissen op bezwaar)
 
-1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
+1. In afwijking van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=4&z=2024-12-03&g=2024-12-03) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in mandaat of ondermandaat worden genomen door de degene die het besluit waartegen het bezwaar is gericht, heeft genomen.
 
-2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
+2. In afwijking van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045451&artikel=5&z=2024-12-03&g=2024-12-03), mag de beslissing op bezwaar niet in ondermandaat worden genomen door degene die in de hiërarchische verhoudingen ressorteert onder degene die het besluit waartegen het bezwaar zich richt, heeft genomen.
 
 ##### Artikel 8. (kaders uitoefening bevoegdheden)
 
@@ -110,7 +83,7 @@ De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, 
 
 - a. de door de Minister gegeven algemene of bijzondere instructies;
 
-- b. de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) en de Circulaire 'Grensbedragen voor procedures Aanbestedingswet 2012 onder de drempelwaarde' van het Ministerie van Binnenlandse Zaken Koninkrijkrelaties, 3 augustus 2015, kenmerk 2015-0000428359;
+- b. de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) en de Circulaire 'Grensbedragen voor procedures Aanbestedingswet 2012 onder de drempelwaarde' van het Ministerie van Binnenlandse Zaken Koninkrijkrelaties, 3 augustus 2015, kenmerk 2015-0000428359;
 
 - c. de gemaakte afspraken in de door de Minister en de Dienst Wegverkeer overeengekomen meerjarige uitvoeringsovereenkomst en de in dit verband toegekende financiële middelen.
 
@@ -178,10 +151,8 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 12. (inwerkingtreding)
 
-Dit besluit treedt in werking met ingang van 1 augustus 2021.
+Dit besluit treedt in werking met ingang van 1 augustus 2021.
 
 ##### Artikel 13. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging tijdelijke tolheffing RDW.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

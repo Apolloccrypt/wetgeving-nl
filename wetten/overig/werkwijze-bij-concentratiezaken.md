@@ -8,7 +8,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0053054"
-opgehaald: 2026-08-30
+opgehaald: 2026-08-31
 ---
 
 # Werkwijze bij concentratiezaken

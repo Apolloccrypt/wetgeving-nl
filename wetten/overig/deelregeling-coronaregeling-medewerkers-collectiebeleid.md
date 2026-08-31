@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling coronaregeling medewerkers collectiebeleid"
 identifier: "BWBR0044871"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-03-02"
-last_updated: "2021-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044871"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15864413"
-version_id: "27566912"
-internal_id: "C38891941"
-label_id: "15799374"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044871/2021-03-02/0"
-intitule_bron: "Stcrt.2021-9956"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-03-01"
-intitule_in_force: "2021-03-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-9956"
-original_published_date: "2021-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-9956"
-entry_into_force_date: "2021-03-02"
-jci_1_3: "jci1.3:c:BWBR0044871&z=2021-03-02&g=2021-03-02"
-jci_1_0: "1.0:c:BWBR0044871&g=2021-03-02"
-citeertitel_status: "officieel"
-entry_into_force: "2021-03-02"
+publicatiedatum: 2021-03-02
+laatste_update: 2021-03-02
+status: geldig
+toestand: 2021-03-02
+bron: "https://wetten.overheid.nl/BWBR0044871"
+opgehaald: 2026-08-31
 ---
+
 # Deelregeling coronaregeling medewerkers collectiebeleid
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -48,13 +25,13 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 1. Een bijdrage kan worden verstrekt voor personele ondersteuning op het gebied van:
 
-- a). Collectiebeheer;
+- a) Collectiebeheer;
 
-- b). Collectieonderzoek;
+- b) Collectieonderzoek;
 
-- c). Educatie;
+- c) Educatie;
 
-- d). nieuw erfgoedtalent.
+- d) nieuw erfgoedtalent.
 
 2. Voor de bijdrage bedoeld in eerste lid onder a, b of c kan het zowel gaan om het behoud van werknemers die als gevolg van de coronacrisis hun baan dreigen te verliezen als om het werven van nieuwe medewerkers.
 
@@ -66,9 +43,9 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 2. De aanvrager bepaalt de looptijd van aanstelling.
 
-3. De eigen bijdrage van de instelling is minimaal 10 procent, 5.000 euro.
+3. De eigen bijdrage van de instelling is minimaal 10 procent, 5.000 euro.
 
-4. Indien het subsidieplafond, zoals beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02), niet wordt overschreden, kan de in het eerste lid bedoelde bijdrage worden verhoogd. De looptijd van de aanstelling wordt daarbij naar rato verhoogd.
+4. Indien het subsidieplafond, zoals beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02), niet wordt overschreden, kan de in het eerste lid bedoelde bijdrage worden verhoogd. De looptijd van de aanstelling wordt daarbij naar rato verhoogd.
 
 5. De bijdrage betreft de bruto salariskosten en de daarmee samenhangende werkgeverslasten.
 
@@ -76,35 +53,35 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- −. een kenschets van de instelling met een omschrijving van de collectie, het actuele collectie- en aankoopbeleid, inclusief doelstellingen, functie in de regio, samenwerkingen en publieksbereik.
+- − een kenschets van de instelling met een omschrijving van de collectie, het actuele collectie- en aankoopbeleid, inclusief doelstellingen, functie in de regio, samenwerkingen en publieksbereik.
 
-- −. indien de instelling niet in het Museumregister is ingeschreven een door het bestuur ondertekende verklaring dat het museum bij het afstoten het bepaalde in de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en de Leidraad voor het Afstoten van Museale Objecten (LAMO) volgt.
+- − indien de instelling niet in het Museumregister is ingeschreven een door het bestuur ondertekende verklaring dat het museum bij het afstoten het bepaalde in de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en de Leidraad voor het Afstoten van Museale Objecten (LAMO) volgt.
 
-- −. een motivatie waarin aannemelijk wordt gemaakt dat de aangevraagde bijdrage noodzakelijk is voor het behoud van de medewerker of voor het werven van een nieuwe medewerker ten gevolge van gemiste en te missen inkomsten van het museum door de COVID-19-maatregelen.
+- − een motivatie waarin aannemelijk wordt gemaakt dat de aangevraagde bijdrage noodzakelijk is voor het behoud van de medewerker of voor het werven van een nieuwe medewerker ten gevolge van gemiste en te missen inkomsten van het museum door de COVID-19-maatregelen.
 
-- −. een motivering van de aanvraag met daarin indien van toepassing:
+- − een motivering van de aanvraag met daarin indien van toepassing:
 
-- •. een omschrijving van de naam, functie, een profielschets van de kandidaat;
+   - • een omschrijving van de naam, functie, een profielschets van de kandidaat;
 
-- •. een beschrijving van de geschiedenis van de werkrelatie met de werknemer;
+   - • een beschrijving van de geschiedenis van de werkrelatie met de werknemer;
 
-- •. een omschrijving en belang van het kennisgebied van de kandidaat en een motivatie waarom voor dit kennisgebied is gekozen, hoe kennisoverdracht wordt geborgd.
+   - • een omschrijving en belang van het kennisgebied van de kandidaat en een motivatie waarom voor dit kennisgebied is gekozen, hoe kennisoverdracht wordt geborgd.
 
 ##### Artikel 6. Beoordeling
 
-1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
+1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
 
-2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
+2. Indien met het aantal ingediende aanvragen het subsidieplafond zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) wordt overschreden of als het bestuur twijfelt, wordt de aanvraag voorgelegd aan de adviescommissie.
 
 3. Aanvragen zoals bedoeld in het tweede lid van dit artikel worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
 4. Bij de beoordeling van een aanvraag voor de coronaregeling medewerkers collectiebeleid geeft de adviescommissie een oordeel over het belang van het museum. Daarbij weegt zij de onderstaande aspecten in onderlinge samenhang:
 
-- −. het belang en de kwaliteit van de collectie,
+- − het belang en de kwaliteit van de collectie,
 
-- −. het belang en de reputatie van de aanvragende instelling,
+- − het belang en de reputatie van de aanvragende instelling,
 
-- −. het belang van de functie waarvoor de aanvraag wordt ingediend.
+- − het belang van de functie waarvoor de aanvraag wordt ingediend.
 
 De adviescommissie weegt de geografische spreiding evenals diversiteit van de materiële en immateriële collecties van de totale groep te honoreren musea in haar oordeel mee.
 
@@ -118,7 +95,7 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 ##### Artikel 7. Subsidieplafond
 
-Het subsidieplafond bedraagt 8.000.000 euro.
+Het subsidieplafond bedraagt 8.000.000 euro.
 
 ##### Artikel 8. Hardheidsclausule
 
@@ -132,10 +109,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 februari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 februari 2021.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 februari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 februari 2021.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling coronaregeling medewerkers collectiebeleid.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

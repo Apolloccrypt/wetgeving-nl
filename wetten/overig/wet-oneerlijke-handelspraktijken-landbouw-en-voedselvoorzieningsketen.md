@@ -1,71 +1,44 @@
 ---
 title: "Wet van 3 maart 2021, houdende regels strekkende tot implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen (PbEU 2019, L 111/59) (Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen)"
+citeertitel: "Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen"
 identifier: "BWBR0045048"
-country: "nl"
-rank: "wet"
-publication_date: "2021-11-01"
-last_updated: "2021-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045048"
+categorie: "Overig"
 soort: "wet"
-stam_id: "15927573"
-version_id: "27698272"
-internal_id: "C39210651"
-label_id: "15862364"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045048/2021-11-01/0"
-intitule_bron: "Stb.2021-178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-03"
-intitule_published: "2021-04-15"
-intitule_in_force: "2021-06-04"
-intitule_status: "goed"
-original_publication: "Stb.2021-178"
-original_signed_date: "2021-03-03"
-original_published_date: "2021-04-15"
-original_effect: "nieuwe-regeling"
-original_dossier: "35642"
-original_url_id: "stb-2021-178"
-entry_into_force_date: "2021-11-01"
-jci_1_3: "jci1.3:c:BWBR0045048&z=2021-11-01&g=2021-11-01"
-jci_1_0: "1.0:c:BWBR0045048&g=2021-11-01"
-citeertitel_status: "officieel"
-short_title: "Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen"
-signed_date: "2021-03-03"
-entry_into_force: "2021-11-01"
+publicatiedatum: 2021-11-01
+laatste_update: 2021-11-01
+status: geldig
+toestand: 2021-11-01
+bron: "https://wetten.overheid.nl/BWBR0045048"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 3 maart 2021, houdende regels strekkende tot implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen (PbEU 2019, L 111/59) (Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen ter implementatie van Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de landbouw- en voedselvoorzieningsketen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **afnemer:** een natuurlijke persoon of rechtspersoon, niet zijnde een consument, ongeacht de plaats van vestiging van die persoon, of een overheidsinstantie in de Unie, die landbouw- en voedingsproducten koopt, of een groepering van dergelijke natuurlijke personen of rechtspersonen;
+- *afnemer:* een natuurlijke persoon of rechtspersoon, niet zijnde een consument, ongeacht de plaats van vestiging van die persoon, of een overheidsinstantie in de Unie, die landbouw- en voedingsproducten koopt, of een groepering van dergelijke natuurlijke personen of rechtspersonen;
 
-- **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **bederfelijke landbouw- en voedingsproducten:** landbouw- en voedingsproducten die vanwege de aard ervan of in het stadium van verwerking ervan binnen dertig dagen na de oogst, productie of verwerking ongeschikt voor verkoop kunnen worden;
+- *bederfelijke landbouw- en voedingsproducten:* landbouw- en voedingsproducten die vanwege de aard ervan of in het stadium van verwerking ervan binnen dertig dagen na de oogst, productie of verwerking ongeschikt voor verkoop kunnen worden;
 
-- **landbouw- en voedingsproducten:** de producten die zijn vermeld in bijlage I bij het Verdrag betreffende de werking van de Europese Unie, alsmede producten die niet in die bijlage zijn vermeld, maar op basis van in die bijlage vermelde producten zijn verwerkt voor gebruik als levensmiddel;
+- *landbouw- en voedingsproducten:* de producten die zijn vermeld in bijlage I bij het Verdrag betreffende de werking van de Europese Unie, alsmede producten die niet in die bijlage zijn vermeld, maar op basis van in die bijlage vermelde producten zijn verwerkt voor gebruik als levensmiddel;
 
-- **leverancier:** een landbouwproducent of een natuurlijke persoon of rechtspersoon, ongeacht de plaats van vestiging van die persoon, die landbouw- en voedingsproducten verkoopt, of een groepering van dergelijke landbouwproducenten, natuurlijke personen en rechtspersonen, zoals producentenorganisaties, leveranciersorganisaties en verenigingen van dergelijke organisaties;
+- *leverancier:* een landbouwproducent of een natuurlijke persoon of rechtspersoon, ongeacht de plaats van vestiging van die persoon, die landbouw- en voedingsproducten verkoopt, of een groepering van dergelijke landbouwproducenten, natuurlijke personen en rechtspersonen, zoals producentenorganisaties, leveranciersorganisaties en verenigingen van dergelijke organisaties;
 
-- **Onze Minister:** Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
+- *Onze Minister:* Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-- **overheidsinstantie:** nationale, regionale of lokale overheidsinstanties, publiekrechtelijke instellingen of samenwerkingsverbanden bestaande uit een of meer van dergelijke overheidsinstanties of een of meer van dergelijke publiekrechtelijke instellingen;
+- *overheidsinstantie:* nationale, regionale of lokale overheidsinstanties, publiekrechtelijke instellingen of samenwerkingsverbanden bestaande uit een of meer van dergelijke overheidsinstanties of een of meer van dergelijke publiekrechtelijke instellingen;
 
-- **Richtlijn 2011/7/EU:** [Richtlijn 2011/7](32011L0007)/EU van het Europees Parlement en de Raad van 16 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU 2011, L 48/1);
+- *Richtlijn 2011/7/EU:*
+ Richtlijn 2011/7/EU van het Europees Parlement en de Raad van 16 februari 2011 betreffende bestrijding van betalingsachterstand bij handelstransacties (PbEU 2011, L 48/1);
 
-- **Richtlijn (EU) 2019/633:** Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de voedselvoorzieningsketen (PbEU 2019, L 111/59);
+- *Richtlijn (EU) 2019/633:* Richtlijn (EU) 2019/633 van het Europees Parlement en de Raad van 17 april 2019 inzake oneerlijke handelspraktijken in de relaties tussen ondernemingen in de voedselvoorzieningsketen (PbEU 2019, L 111/59);
 
-- **Verordening 1308/2013:** [Verordening 1308/2013](32013R1308) van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijk ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EEG) nr. 92/72](31972R0092), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PbEU 2013, L [347/671](32571R0347)).
+- *Verordening 1308/2013:*
+ Verordening 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijk ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 92/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347/671).
 
 ##### Artikel 2
 
@@ -73,17 +46,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de afnemer betaalt de leverancier,
 
-- 1°. indien in de leveringsovereenkomst wordt bepaald dat de producten op regelmatige basis worden geleverd: voor de toepassing van de in dit onderdeel bedoelde betalingstermijnen worden de overeengekomen leveringstermijnen in elk geval niet geacht langer dan één maand te zijn;
+   - 1°. indien in de leveringsovereenkomst wordt bepaald dat de producten op regelmatige basis worden geleverd: voor de toepassing van de in dit onderdeel bedoelde betalingstermijnen worden de overeengekomen leveringstermijnen in elk geval niet geacht langer dan één maand te zijn;
 
-- –. voor bederfelijke landbouw- en voedingsproducten, later dan dertig dagen na het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht of later dan dertig dagen na de datum waarop het te betalen bedrag voor die leveringstermijn is vastgesteld, naargelang welke datum later valt;
+      - – voor bederfelijke landbouw- en voedingsproducten, later dan dertig dagen na het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht of later dan dertig dagen na de datum waarop het te betalen bedrag voor die leveringstermijn is vastgesteld, naargelang welke datum later valt;
 
-- –. voor andere landbouw- en voedingsproducten, later dan zestig dagen na het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht of later dan zestig dagen na de datum waarop het te betalen bedrag voor die leveringstermijn is vastgesteld, naargelang welke datum later valt;
+      - – voor andere landbouw- en voedingsproducten, later dan zestig dagen na het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht of later dan zestig dagen na de datum waarop het te betalen bedrag voor die leveringstermijn is vastgesteld, naargelang welke datum later valt;
 
-- 2°. indien in de leveringsovereenkomst niet wordt bepaald dat de producten op regelmatige basis worden geleverd: Niettegenstaande de onderdelen 1° en 2° gaan, indien de afnemer het te betalen bedrag vaststelt, de in onderdeel 1° bedoelde betalingstermijnen in vanaf het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht, en gaan de in onderdeel 2° bedoelde betalingstermijnen in vanaf de leveringsdatum;
+   - 2°. indien in de leveringsovereenkomst niet wordt bepaald dat de producten op regelmatige basis worden geleverd: Niettegenstaande de onderdelen 1° en 2° gaan, indien de afnemer het te betalen bedrag vaststelt, de in onderdeel 1° bedoelde betalingstermijnen in vanaf het einde van een overeengekomen leveringstermijn waarbinnen leveringen zijn verricht, en gaan de in onderdeel 2° bedoelde betalingstermijnen in vanaf de leveringsdatum;
 
-- –. voor bederfelijke landbouw- en voedingsproducten, later dan dertig dagen na de leveringsdatum of later dan dertig dagen na de datum waarop het te betalen bedrag is vastgesteld, naargelang welke datum later valt;
+      - – voor bederfelijke landbouw- en voedingsproducten, later dan dertig dagen na de leveringsdatum of later dan dertig dagen na de datum waarop het te betalen bedrag is vastgesteld, naargelang welke datum later valt;
 
-- –. voor andere landbouw- en voedingsproducten, later dan zestig dagen na de leveringsdatum of later dan zestig dagen na de datum waarop het te betalen bedrag is vastgesteld, naargelang welke datum later valt;
+      - – voor andere landbouw- en voedingsproducten, later dan zestig dagen na de leveringsdatum of later dan zestig dagen na de datum waarop het te betalen bedrag is vastgesteld, naargelang welke datum later valt;
 
 - b. de afnemer annuleert een bestelling van bederfelijke landbouw- en voedingsproducten op zodanig korte termijn dat niet redelijkerwijs kan worden verwacht dat de leverancier een alternatief kan vinden voor het verhandelen of het gebruik van die producten; een termijn van minder dan dertig dagen wordt altijd als een korte termijn beschouwd;
 
@@ -103,21 +76,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Het eerste lid, onderdeel a, doet geen afbreuk aan:
 
-- a. de in [Richtlijn 2011/7](32011L0007)/EU bedoelde gevolgen van betalingsachterstanden en rechtsmiddelen, die, zo nodig in afwijking van de bepalingen waarmee die richtlijn in de Nederlandse rechtsorde is omgezet, van toepassing zijn met dien verstande dat de in deze wet vastgestelde betalingstermijnen gelden;
+- a. de in Richtlijn 2011/7/EU bedoelde gevolgen van betalingsachterstanden en rechtsmiddelen, die, zo nodig in afwijking van de bepalingen waarmee die richtlijn in de Nederlandse rechtsorde is omgezet, van toepassing zijn met dien verstande dat de in deze wet vastgestelde betalingstermijnen gelden;
 
-- b. de mogelijkheid voor een afnemer en een leverancier om een clausule betreffende waardeverdeling in de zin van artikel 172bis van [Verordening 1308/2013](32013R1308) overeen te komen.
+- b. de mogelijkheid voor een afnemer en een leverancier om een clausule betreffende waardeverdeling in de zin van artikel 172bis van Verordening 1308/2013 overeen te komen.
 
 3. Het eerste lid, onderdeel a, is niet van toepassing op betalingen:
 
-- a. van een afnemer aan een leverancier, indien dergelijke betalingen worden gedaan in het kader van de schoolregeling op grond van artikel 23 van [Verordening 1308/2013](32013R1308);
+- a. van een afnemer aan een leverancier, indien dergelijke betalingen worden gedaan in het kader van de schoolregeling op grond van artikel 23 van Verordening 1308/2013;
 
-- b. van overheidsorganisaties die gezondheidszorg verstrekken in de zin van artikel 4, vierde lid, onderdeel b, van [Richtlijn 2011/7](32011L0007)/EU;
+- b. van overheidsorganisaties die gezondheidszorg verstrekken in de zin van artikel 4, vierde lid, onderdeel b, van Richtlijn 2011/7/EU;
 
 - c. krachtens leveringsovereenkomsten tussen leveranciers van druiven of most voor wijnbereiding en hun directe afnemers, op voorwaarde:
 
-- 1°. dat de specifieke betalingsvoorwaarden voor de verkooptransacties worden opgenomen in standaardcontracten die met toepassing van artikel 164 van [Verordening 1308/2013](32013R1308) vóór 1 januari 2019 verbindend zijn verklaard, en dat die uitbreiding van de standaardcontracten vanaf die datum is verlengd zonder significante wijzigingen van de betalingsvoorwaarden ten nadele van leveranciers van druiven of most; en
+   - 1°. dat de specifieke betalingsvoorwaarden voor de verkooptransacties worden opgenomen in standaardcontracten die met toepassing van artikel 164 van Verordening 1308/2013 vóór 1 januari 2019 verbindend zijn verklaard, en dat die uitbreiding van de standaardcontracten vanaf die datum is verlengd zonder significante wijzigingen van de betalingsvoorwaarden ten nadele van leveranciers van druiven of most; en
 
-- 2°. dat de leveringsovereenkomsten tussen leveranciers van druiven of most voor wijnbereiding en hun directe afnemers meerjarig zijn of meerjarig worden.
+   - 2°. dat de leveringsovereenkomsten tussen leveranciers van druiven of most voor wijnbereiding en hun directe afnemers meerjarig zijn of meerjarig worden.
 
 ##### Artikel 3
 
@@ -143,21 +116,21 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 1. De [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) zijn uitsluitend van toepassing tussen de volgende partijen:
 
-- a. een leverancier met een jaarlijkse omzet van ten hoogste € 2.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 2.000.000,–;
+- a. een leverancier met een jaarlijkse omzet van ten hoogste € 2.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 2.000.000,–;
 
-- b. een leverancier met een jaarlijkse omzet van meer dan € 2.000.000,– en ten hoogste € 10.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 10.000.000,–;
+- b. een leverancier met een jaarlijkse omzet van meer dan € 2.000.000,– en ten hoogste € 10.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 10.000.000,–;
 
-- c. een leverancier met een jaarlijkse omzet van meer dan € 10.000.000,– en ten hoogste € 50.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 50.000.000,–;
+- c. een leverancier met een jaarlijkse omzet van meer dan € 10.000.000,– en ten hoogste € 50.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 50.000.000,–;
 
-- d. een leverancier met een jaarlijkse omzet van meer dan € 50.000.000,– en ten hoogste € 150.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 150.000.000,–;
+- d. een leverancier met een jaarlijkse omzet van meer dan € 50.000.000,– en ten hoogste € 150.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 150.000.000,–;
 
-- e. een leverancier met een jaarlijkse omzet van meer dan € 150.000.000 en ten hoogste € 350.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 350.000.000,–;
+- e. een leverancier met een jaarlijkse omzet van meer dan € 150.000.000 en ten hoogste € 350.000.000,– en een afnemer met een jaarlijkse omzet van meer dan € 350.000.000,–;
 
-- f. een leverancier met een jaarlijkse omzet van ten hoogste € 350.000.000,– en een afnemer die een overheidsinstantie is.
+- f. een leverancier met een jaarlijkse omzet van ten hoogste € 350.000.000,– en een afnemer die een overheidsinstantie is.
 
-2. De in het eerste lid bedoelde omzet wordt begrepen overeenkomstig de bijlage bij Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PB L 124).
+2. De in het eerste lid bedoelde omzet wordt begrepen overeenkomstig de bijlage bij Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PB L 124).
 
-3. De [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) zijn bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 van verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (PbEU 2008, L 177).
+3. De [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=2&z=2021-11-01&g=2021-11-01) zijn bepalingen van bijzonder dwingend recht als bedoeld in artikel 9 van verordening (EG) nr. 593/2008 van het Europees Parlement en de Raad van 17 juni 2008 inzake het recht dat van toepassing is op verbintenissen uit overeenkomst (PbEU 2008, L 177).
 
 ##### Artikel 6
 
@@ -203,7 +176,7 @@ Indien door de afnemer een vergoeding voor de in [artikel 3, onderdelen b, c, d,
 
 ##### Artikel 10
 
-1. De bestuurlijke boete, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=9&z=2021-11-01&g=2021-11-01), bedraagt ten hoogste € 900.000 of, indien dat meer is, 10% van de omzet van de overtreder.
+1. De bestuurlijke boete, bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045048&artikel=9&z=2021-11-01&g=2021-11-01), bedraagt ten hoogste € 900.000 of, indien dat meer is, 10% van de omzet van de overtreder.
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
@@ -217,7 +190,7 @@ Deze wet is niet van toepassing op overeenkomsten die zijn gesloten voor het tij
 
 ##### Artikel 13
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 14
 
@@ -226,5 +199,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet oneerlijke handelspraktijken landbouw- en voedselvoorzieningsketen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -5,11 +5,11 @@ identifier: "BWBR0034810"
 categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling-BES"
 publicatiedatum: 2014-04-01
-laatste_update: 2023-10-01
+laatste_update: 2026-08-27
 status: geldig
-toestand: 2023-10-01
+toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0034810"
-opgehaald: 2026-08-21
+opgehaald: 2026-08-31
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 3 februari 2014, nr. 474374, houdende regeling van de rechtspositie van de leden van de Commissie toezicht bescherming persoonsgegevens BES
@@ -20,7 +20,7 @@ opgehaald: 2026-08-21
 
 2. Om aanspraak te kunnen maken op deze vergoeding, ondertekenen de leden van de commissie een presentielijst en dienen zij een gespecificeerde declaratie in bij de Minister.
 
-3. De vergoeding voor de voorzitter bedraagt USD 321 per vergadering. Voor de overige leden van de commissie bedraagt de vergoeding USD 286 per vergadering.
+3. De vergoeding voor de voorzitter bedraagt USD 343 per vergadering. Voor de overige leden van de commissie bedraagt de vergoeding USD 305 per vergadering.
 
 4. De leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig de [Reisregeling Rijksambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0041296) ambtenaren BES.
 

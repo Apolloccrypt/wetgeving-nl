@@ -1,61 +1,40 @@
 ---
 title: "Bestuursreglement van het College sanering zorginstellingen 2020"
 identifier: "BWBR0045033"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-04-10"
-last_updated: "2021-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045033"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "15923913"
-version_id: "27688602"
-internal_id: "C39061491"
-label_id: "15859004"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045033/2021-04-10/0"
-intitule_bron: "Stcrt.2021-17553"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-12-08"
-intitule_published: "2021-04-09"
-intitule_in_force: "2021-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-17553"
-original_signed_date: "2020-12-08"
-original_published_date: "2021-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-17553"
-entry_into_force_date: "2021-04-10"
-jci_1_3: "jci1.3:c:BWBR0045033&z=2021-04-10&g=2021-04-10"
-jci_1_0: "1.0:c:BWBR0045033&g=2021-04-10"
-citeertitel_status: "officieel"
-signed_date: "2020-12-08"
-entry_into_force: "2021-04-10"
+publicatiedatum: 2021-04-10
+laatste_update: 2021-04-10
+status: geldig
+toestand: 2021-04-10
+bron: "https://wetten.overheid.nl/BWBR0045033"
+opgehaald: 2026-08-31
 ---
+
 # Bestuursreglement van het College sanering zorginstellingen 2020
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **WTZi:** [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
+- a. *WTZi:*
+ [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
 
-- b. **College sanering:** College sanering zorginstellingen;
+- b. *College sanering:* College sanering zorginstellingen;
 
-- c. **minister:** minister van Volksgezondheid, Welzijn en Sport;
+- c. *minister:* minister van Volksgezondheid, Welzijn en Sport;
 
-- d. **ministerie:** ministerie van Volksgezondheid, Welzijn en Sport;
+- d. *ministerie:* ministerie van Volksgezondheid, Welzijn en Sport;
 
-- e. **RvB:** Raad van Bestuur van het College sanering zorginstellingen;
+- e. *RvB:* Raad van Bestuur van het College sanering zorginstellingen;
 
-- f. **voorzitter:** de voorzitter van de RvB;
+- f. *voorzitter:* de voorzitter van de RvB;
 
-- g. **lid / leden:** lid / leden van de RvB waaronder de voorzitter;
+- g. *lid / leden:* lid / leden van de RvB waaronder de voorzitter;
 
-- h. **de secretaris:** ambtelijk secretaris van de Raad van Bestuur, welke functie wordt uitgeoefend door de manager van het College sanering;
+- h. *de secretaris:* ambtelijk secretaris van de Raad van Bestuur, welke functie wordt uitgeoefend door de manager van het College sanering;
 
-- i. **manager:** manager van het College sanering zorginstellingen
+- i. *manager:* manager van het College sanering zorginstellingen
 
 ##### Artikel 2. Samenstelling Raad van Bestuur
 
@@ -271,4 +250,4 @@ Het College sanering stelt een [mandaterings- en volmachtbesluit](https://wetten
 
 3. Dit bestuursreglement treedt in werking op de dag na publicatie in de Staatscourant. Het wordt gepubliceerd op de website van het College sanering.
 
-4. Dit bestuursreglement vervangt het [bestuursreglement College sanering zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0041623) d.d. 6 november 2018.
+4. Dit bestuursreglement vervangt het [bestuursreglement College sanering zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0041623) d.d. 6 november 2018.

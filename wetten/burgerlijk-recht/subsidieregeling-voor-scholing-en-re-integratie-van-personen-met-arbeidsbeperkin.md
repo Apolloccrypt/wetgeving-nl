@@ -9,7 +9,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0018795"
-opgehaald: 2026-08-30
+opgehaald: 2026-08-31
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 september 2005, Directie Sociale Verzekeringen, nr. SV/R&S/2005/73174, houdende regels met betrekking tot de financiering van scholing van jonggehandicapten met ernstige scholingsbelemmeringen (Subsidieregeling scholing jonggehandicapten met ernstige scholingsbelemmeringen)

@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juni 2021, nr. VO/28225728, betreffende cursussen internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2021)"
+citeertitel: "Beleidsregel IGVO 2021"
 identifier: "BWBR0045242"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-08-01"
-last_updated: "2024-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045242"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "15985703"
-version_id: "27821462"
-internal_id: "C39242141"
-label_id: "15919704"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045242/2024-08-01/0"
-intitule_bron: "Stcrt.2021-30713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-07"
-intitule_published: "2021-06-18"
-intitule_in_force: "2021-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-30713"
-original_signed_date: "2021-06-07"
-original_published_date: "2021-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-30713"
-entry_into_force_date: "2021-08-01"
-jci_1_3: "jci1.3:c:BWBR0045242&z=2024-08-01&g=2024-08-01"
-jci_1_0: "1.0:c:BWBR0045242&g=2024-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel IGVO 2021"
-signed_date: "2021-06-07"
-entry_into_force: "2021-08-01"
+publicatiedatum: 2021-08-01
+laatste_update: 2024-08-01
+status: geldig
+toestand: 2024-08-01
+bron: "https://wetten.overheid.nl/BWBR0045242"
+opgehaald: 2026-08-31
 ---
+
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 7 juni 2021, nr. VO/28225728, betreffende cursussen internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2021)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 75 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=75);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,31 +20,32 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **bovenbouw internationaal georiënteerd voortgezet onderwijs:** IB CP of het IB DP of beiden;
+- *bovenbouw internationaal georiënteerd voortgezet onderwijs:* IB CP of het IB DP of beiden;
 
-- **cursus internationaal georiënteerd voortgezet onderwijs:** IB CP, IB DP, IB MYP of een cursus die gericht is op het behalen van het IGCSE;
+- *cursus internationaal georiënteerd voortgezet onderwijs:* IB CP, IB DP, IB MYP of een cursus die gericht is op het behalen van het IGCSE;
 
-- **IB CP:** International Baccalaureate Career-Related Programme;
+- *IB CP:* International Baccalaureate Career-Related Programme;
 
-- **IB DP:** International Baccalaureate Diploma Programme;
+- *IB DP:* International Baccalaureate Diploma Programme;
 
-- **IB MYP:** International Baccalaureate Middle Years Programme;
+- *IB MYP:* International Baccalaureate Middle Years Programme;
 
-- **IGSCE:** International General Certificate of Secondary Education;
+- *IGSCE:* International General Certificate of Secondary Education;
 
-- **Leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
+- *Leerling:* leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
 
-- **Minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *Minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **onderbouw internationaal georiënteerd voortgezet onderwijs:** IB MYP of een cursus die gericht is op het behalen van het IGCSE of beide;
+- *onderbouw internationaal georiënteerd voortgezet onderwijs:* IB MYP of een cursus die gericht is op het behalen van het IGCSE of beide;
 
-- **school:** een uit de openbare kas bekostigde school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* een uit de openbare kas bekostigde school als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **voedingsgebied:** gebied dat bestaat uit viercijferige postcodegebieden die geheel of gedeeltelijk zijn gelegen binnen een straal van 15 kilometer van de vestiging van de school die in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voorgezet onderwijs of die reeds in aanmerking is gebracht van de bekostiging voor de cursussen internationaal georiënteerd voortgezet onderwijs;
+- *voedingsgebied:* gebied dat bestaat uit viercijferige postcodegebieden die geheel of gedeeltelijk zijn gelegen binnen een straal van 15 kilometer van de vestiging van de school die in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voorgezet onderwijs of die reeds in aanmerking is gebracht van de bekostiging voor de cursussen internationaal georiënteerd voortgezet onderwijs;
 
-- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Reikwijdte beleidsregel
 
@@ -82,7 +57,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3. Aanvraagprocedure nieuwe cursus internationaal georiënteerd voortgezet onderwijs.
 
-1. Het bevoegd gezag van een school dat in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voortgezet onderwijs, dient daartoe een aanvraag in bij de Minister voor 1 november van het jaar voorafgaand aan het schooljaar waarvoor de bekostiging wordt gevraagd.
+1. Het bevoegd gezag van een school dat in aanmerking wil komen voor bekostiging van de cursussen internationaal georiënteerd voortgezet onderwijs, dient daartoe een aanvraag in bij de Minister voor 1 november van het jaar voorafgaand aan het schooljaar waarvoor de bekostiging wordt gevraagd.
 
 2. De aanvraag vermeldt de vestiging van de school waaraan het bevoegd gezag de cursussen internationaal georiënteerd voortgezet onderwijs wil gaan aanbieden en gaat vergezeld van een prognose waaruit blijkt dat de cursussen IB MYP en IB DP of IB MYP en IB CP zodra deze in alle leerjaren worden aangeboden, door ten minste 120 leerlingen zullen worden gevolgd, die voldoen aan de toelatingseisen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01).
 
@@ -100,7 +75,7 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Indien het bevoegd gezag van een school die voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, het aanbod van cursussen internationaal georiënteerd voortgezet onderwijs aan die school wil uitbreiden, volstaat een schriftelijke mededeling aan de Minister. Het bevoegd gezag:
 
-- a. doet deze mededeling uiterlijk 1 mei voorafgaand aan het schooljaar waarin met de nieuwe cursus internationaal georiënteerd voortgezet onderwijs wordt gestart;
+- a. doet deze mededeling uiterlijk 1 mei voorafgaand aan het schooljaar waarin met de nieuwe cursus internationaal georiënteerd voortgezet onderwijs wordt gestart;
 
 - b. vermeldt hierin met welke cursus het aanbod wordt uitgebreid, de datum waarop met de desbetreffende cursus zal worden gestart alsmede de vestiging waar deze cursus zal worden aangeboden; en
 
@@ -108,7 +83,7 @@ In deze beleidsregel wordt verstaan onder:
 
 7. De aanvraag, bedoeld in het eerste lid, en de mededeling, bedoeld in het zesde lid, worden gestuurd aan het Ministerie van Onderwijs, Cultuur en Wetenschap, directie Voortgezet Onderwijs, Postbus 16375, 2500 BJ Den Haag.
 
-8. Indien het bevoegd gezag van een school die reeds voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, wil splitsen als bedoeld in [artikel 4.2., derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), dan kan deze bekostiging meegenomen worden in de splitsing van de school. Hiertoe maakt het bevoegd gezag aannemelijk dat op 1 januari van het elfde jaar na indiening van de aanvraag de afdelingen voor internationaal georiënteerd voortgezet onderwijs die na splitsing ontstaan, zullen worden bezocht door ten minste 120 leerlingen.
+8. Indien het bevoegd gezag van een school die reeds voor bekostiging van cursussen internationaal georiënteerd voortgezet onderwijs in aanmerking is gebracht, wil splitsen als bedoeld in [artikel 4.2., derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.2), dan kan deze bekostiging meegenomen worden in de splitsing van de school. Hiertoe maakt het bevoegd gezag aannemelijk dat op 1 januari van het elfde jaar na indiening van de aanvraag de afdelingen voor internationaal georiënteerd voortgezet onderwijs die na splitsing ontstaan, zullen worden bezocht door ten minste 120 leerlingen.
 
 ##### Artikel 4. Beoordeling aanvraag en aanvang bekostiging
 
@@ -120,9 +95,9 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. op basis van de prognose, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2024-08-01&g=2024-08-01), en, voor zover van toepassing, het advies van de desbetreffende gemeente, bedoeld in artikel 3, vijfde lid, redelijkerwijs kan worden aangenomen dat de cursussen internationaal georiënteerd voortgezet onderwijs gezamenlijk binnen zes schooljaren zullen worden bezocht door ten minste 120 leerlingen als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01).
 
-2. De Minister besluit voor 1 februari daaropvolgend op de aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2024-08-01&g=2024-08-01).
+2. De Minister besluit voor 1 februari daaropvolgend op de aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=2&artikel=3&z=2024-08-01&g=2024-08-01).
 
-3. Indien cursussen internationaal georiënteerd voortgezet onderwijs voor bekostiging in aanmerking zijn gebracht, meldt het bevoegd gezag uiterlijk op 1 mei welke cursus of cursussen op 1 augustus daaropvolgend van start gaat respectievelijk gaan. Binnen twee maanden na die melding verstrekt de Minister een bekostigingsbeschikking aan het bevoegd gezag van de school.
+3. Indien cursussen internationaal georiënteerd voortgezet onderwijs voor bekostiging in aanmerking zijn gebracht, meldt het bevoegd gezag uiterlijk op 1 mei welke cursus of cursussen op 1 augustus daaropvolgend van start gaat respectievelijk gaan. Binnen twee maanden na die melding verstrekt de Minister een bekostigingsbeschikking aan het bevoegd gezag van de school.
 
 4. Indien cursussen internationaal georiënteerd voortgezet onderwijs voor bekostiging in aanmerking zijn gebracht en niet binnen drie jaar na de datum waarop de bekostiging een aanvang had kunnen nemen met één van deze cursussen is gestart, vervalt de aanspraak op bekostiging.
 
@@ -148,11 +123,11 @@ Het bevoegd gezag van een school voorziet in zowel een onderbouw als een bovenbo
 
 2. Wanneer de cursussen internationaal georiënteerd voortgezet onderwijs nog niet in alle leerjaren worden aangeboden, wordt de bekostiging beëindigd indien de cursussen gedurende twee achtereenvolgende schooljaren in enig leerjaar dat al werd aangeboden, door minder dan twaalf leerlingen worden gevolgd.
 
-3. Bij de berekening van het aantal leerlingen, bedoeld in het eerste en tweede lid, wordt 1 oktober als peildatum gehanteerd en worden slechts leerlingen als bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), meegenomen.
+3. Bij de berekening van het aantal leerlingen, bedoeld in het eerste en tweede lid, wordt 1 oktober als peildatum gehanteerd en worden slechts leerlingen als bedoeld in [artikel 9, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045242&hoofdstuk=3&artikel=9&z=2024-08-01&g=2024-08-01), meegenomen.
 
-4. Het bevoegd gezag van de school wordt voor 1 mei voorafgaand aan het schooljaar van het beëindigen van de bekostiging door de Minister op de hoogte gesteld.
+4. Het bevoegd gezag van de school wordt voor 1 mei voorafgaand aan het schooljaar van het beëindigen van de bekostiging door de Minister op de hoogte gesteld.
 
-5. De bekostiging wordt beëindigd met ingang van 1 augustus volgend op de drie achtereenvolgende schooljaren, bedoeld in het eerste lid, dan wel de twee achtereenvolgende schooljaren, bedoeld in het tweede lid.
+5. De bekostiging wordt beëindigd met ingang van 1 augustus volgend op de drie achtereenvolgende schooljaren, bedoeld in het eerste lid, dan wel de twee achtereenvolgende schooljaren, bedoeld in het tweede lid.
 
 ### Hoofdstuk 3. Toelating, bevordering en verwijdering van leerlingen
 
@@ -264,22 +239,18 @@ Met betrekking tot de benoeming en bevoegdheden van leraren voor een cursus inte
 
 ### Hoofdstuk 5. Slotbepalingen
 
+##### Artikel 16a. Omhang
+
+Deze regeling is mede gebaseerd op [artikel 4.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28).
+
 ##### Artikel 17. Intrekking andere regeling
 
 De [Beleidsregel IGVO 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027776) wordt ingetrokken.
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
+Deze beleidsregel treedt in werking met ingang van 1 augustus 2021.
 
 ##### Artikel 19. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel IGVO 2021.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 16a. Omhang
-
-Deze regeling is mede gebaseerd op [artikel 4.28 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.28).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,77 +1,53 @@
 ---
 title: "Regeling transparantie zorgaanbieders casemanagement dementie"
 identifier: "BWBR0045355"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-07-08"
-last_updated: "2021-07-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045355"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16014473"
-version_id: "27876412"
-internal_id: "C39313741"
-label_id: "15947824"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045355/2021-07-08/0"
-intitule_bron: "Stcrt.2021-34408"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-29"
-intitule_published: "2021-07-07"
-intitule_in_force: "2021-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34408"
-original_signed_date: "2021-06-29"
-original_published_date: "2021-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34408"
-entry_into_force_date: "2021-07-08"
-jci_1_3: "jci1.3:c:BWBR0045355&z=2021-07-08&g=2021-07-08"
-jci_1_0: "1.0:c:BWBR0045355&g=2021-07-08"
-citeertitel_status: "officieel"
-signed_date: "2021-06-29"
-entry_into_force: "2021-07-08"
+publicatiedatum: 2021-07-08
+laatste_update: 2021-07-08
+status: geldig
+toestand: 2021-07-08
+bron: "https://wetten.overheid.nl/BWBR0045355"
+opgehaald: 2026-08-31
 ---
-# Regeling transparantie zorgaanbieders casemanagement dementie
 
-Gelet op [artikel 38, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), juncto vierde lid en [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de informatievoorziening door zorgaanbieders.
+# Regeling transparantie zorgaanbieders casemanagement dementie
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **casemanagement dementie:** casemanagement dementie, zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw), de nadere duiding van casemanagement door het Zorginstituut en de Zorgstandaard dementie.
+- *casemanagement dementie:* casemanagement dementie, zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw), de nadere duiding van casemanagement door het Zorginstituut en de Zorgstandaard dementie.
 
-- **zorgaanbieder:**
+- *zorgaanbieder:*
 
-- 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+   - 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
+   - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-- **peildatum zorgaanbieders:** de datum waarop de informatie van de zorgaanbieders betrekking heeft. Er is in één kalenderjaar vier keer een peildatum: 1 januari, 1 april, 1 juli en 1 oktober. Wanneer de peildatum op een zaterdag, zondag of algemeen erkende feestdag (conform de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)) eindigt, wordt deze verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
+- *peildatum zorgaanbieders:* de datum waarop de informatie van de zorgaanbieders betrekking heeft. Er is in één kalenderjaar vier keer een peildatum: 1 januari, 1 april, 1 juli en 1 oktober. Wanneer de peildatum op een zaterdag, zondag of algemeen erkende feestdag (conform de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)) eindigt, wordt deze verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
-- **Dementienetwerk:** een Dementienetwerk is een regionaal samenwerkingsverband van onder andere zorgaanbieders met het doel om gezamenlijk de zorg voor mensen met dementie te coördineren en te verbeteren.
+- *Dementienetwerk:* een Dementienetwerk is een regionaal samenwerkingsverband van onder andere zorgaanbieders met het doel om gezamenlijk de zorg voor mensen met dementie te coördineren en te verbeteren.
 
-- **aanleverdatum Dementienetwerk:** de datum wanneer het Dementienetwerk de informatie aanlevert aan het Zorgbeeldportaal.
+- *aanleverdatum Dementienetwerk:* de datum wanneer het Dementienetwerk de informatie aanlevert aan het Zorgbeeldportaal.
 
-- **aansluiten zorgaanbieder bij een Dementienetwerk:** deelname van een zorgaanbieder aan het Dementienetwerk volgt als deze vanuit een gezamenlijke verantwoordelijkheid met andere zorgpartijen in het Dementienetwerk samenwerkt rond de casemanagers dementie en dementiezorg in de regio.
+- *aansluiten zorgaanbieder bij een Dementienetwerk:* deelname van een zorgaanbieder aan het Dementienetwerk volgt als deze vanuit een gezamenlijke verantwoordelijkheid met andere zorgpartijen in het Dementienetwerk samenwerkt rond de casemanagers dementie en dementiezorg in de regio.
 
-- **wachttijd:** het aantal weken tussen het moment dat een cliënt, die een zorgvraag heeft en hiervoor casemanagement dementie wil ontvangen, wordt aangemeld door de cliënt / mantelzorger of verwijzer bij een zorgaanbieder voor casemanagement dementie, tot het moment dat de cliënt hiervoor bij de zorgaanbieder terecht kan (in zorg wordt genomen). Een wachttijd wordt afgerond naar boven. Als de wachttijd korter dan of gelijk aan zeven dagen vanaf aanmelddatum is, wordt deze op nul weken gesteld.
+- *wachttijd:* het aantal weken tussen het moment dat een cliënt, die een zorgvraag heeft en hiervoor casemanagement dementie wil ontvangen, wordt aangemeld door de cliënt / mantelzorger of verwijzer bij een zorgaanbieder voor casemanagement dementie, tot het moment dat de cliënt hiervoor bij de zorgaanbieder terecht kan (in zorg wordt genomen). Een wachttijd wordt afgerond naar boven. Als de wachttijd korter dan of gelijk aan zeven dagen vanaf aanmelddatum is, wordt deze op nul weken gesteld.
 
-- **in zorg nemen:** de datum waarop de eerste zorg, in de vorm van een contactmoment met de cliënt, in het kader van casemanagement dementie door de behandelend casemanager wordt geleverd is de datum van ‘in zorg nemen’. Op dat moment stopt de wachttijd. De indicatiestelling voor casemanagement dementie volgt op het in zorg nemen.
+- *in zorg nemen:* de datum waarop de eerste zorg, in de vorm van een contactmoment met de cliënt, in het kader van casemanagement dementie door de behandelend casemanager wordt geleverd is de datum van ‘in zorg nemen’. Op dat moment stopt de wachttijd. De indicatiestelling voor casemanagement dementie volgt op het in zorg nemen.
 
-- **wachtlijst:** een anoniem overzicht van het aantal mensen dat bij de organisatie is aangemeld voor casemanagement dementie, maar nog niet in zorg is genomen.
+- *wachtlijst:* een anoniem overzicht van het aantal mensen dat bij de organisatie is aangemeld voor casemanagement dementie, maar nog niet in zorg is genomen.
 
-- **vestigingslocatie:** de locatie van waaruit een zorgaanbieder casemanagement dementie levert.
+- *vestigingslocatie:* de locatie van waaruit een zorgaanbieder casemanagement dementie levert.
 
-- **Treeknorm:** norm die door zorgaanbieders en zorgverzekeraars gezamenlijk is afgesproken over maximaal aanvaardbare wachttijden in de zorg. Casemanagement dementie valt onder de Treeknorm Verpleging van 6 weken (80% binnen 4 weken). Het is de verantwoordelijkheid van de zorgverzekeraar deze tijdigheidsnorm te borgen voor zijn verzekerden.1Zie hiervoor Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw.
+- *Treeknorm:* norm die door zorgaanbieders en zorgverzekeraars gezamenlijk is afgesproken over maximaal aanvaardbare wachttijden in de zorg. Casemanagement dementie valt onder de Treeknorm Verpleging van 6 weken (80% binnen 4 weken). Het is de verantwoordelijkheid van de zorgverzekeraar deze tijdigheidsnorm te borgen voor zijn verzekerden.1Zie hiervoor Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw.
 
-- **plaatsen op de website:** de informatie kan zowel zelfstandig op de website staan als op de website geplaatst zijn in een los document.
+- *plaatsen op de website:* de informatie kan zowel zelfstandig op de website staan als op de website geplaatst zijn in een los document.
 
-- **schriftelijk:** zowel op papier als digitaal, bijvoorbeeld via e-mail of een brochure.
+- *schriftelijk:* zowel op papier als digitaal, bijvoorbeeld via e-mail of een brochure.
 
-- **fte:** fulltime-equivalent is een rekeneenheid waarin de personeelssterkte of de omvang van een betrekking wordt uitgedrukt.
+- *fte:* fulltime-equivalent is een rekeneenheid waarin de personeelssterkte of de omvang van een betrekking wordt uitgedrukt.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -137,7 +113,7 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 2. De aanlevering door het Dementienetwerk wordt gedaan aan het Zorgbeeldportaal.3https://zorgbeeld.nza.nl De wachttijd- en wachtlijstinformatie wordt daarmee aan de NZa beschikbaar gesteld.
 
-3. Voor aanlevering aan het Zorgbeeldportaal wordt gebruik gemaakt van de meest recente aanleverspecificatie met de daarin opgenomen technische vereisten. Deze aanleverspecificatie ligt vóór 1 oktober 2021 bij de NZa ter inzage. Op verzoek van een belanghebbende wordt dit format toegezonden. Het format kan vanaf dat moment eveneens worden geraadpleegd op www.nza.nl.
+3. Voor aanlevering aan het Zorgbeeldportaal wordt gebruik gemaakt van de meest recente aanleverspecificatie met de daarin opgenomen technische vereisten. Deze aanleverspecificatie ligt vóór 1 oktober 2021 bij de NZa ter inzage. Op verzoek van een belanghebbende wordt dit format toegezonden. Het format kan vanaf dat moment eveneens worden geraadpleegd op www.nza.nl.
 
 4. Door de feitelijke verstrekking verklaart de zorgaanbieder en het Dementienetwerk de informatie volledig en naar waarheid te hebben ingevuld.
 
@@ -145,7 +121,7 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 1. Dementienetwerken en zorgaanbieders dienen beide de volgende informatie, bij de wachttijd- en wachtlijstinformatie, te publiceren op hun website:
 
-‘Wanneer u de wachttijd te lang vindt, kunt u altijd contact opnemen met ons, of uw zorgverzekeraar vragen om wachtlijstbemiddeling. Uw zorgverzekeraar kan u ondersteunen, zodat u binnen 6 weken vanaf uw eerste contact met een zorgaanbieder zorg krijgt. Dit zijn de maximaal aanvaardbare wachttijden die door zorgaanbieders en zorgverzekeraars gezamenlijk zijn overeengekomen (de Treeknormen).’
+‘Wanneer u de wachttijd te lang vindt, kunt u altijd contact opnemen met ons, of uw zorgverzekeraar vragen om wachtlijstbemiddeling. Uw zorgverzekeraar kan u ondersteunen, zodat u binnen 6 weken vanaf uw eerste contact met een zorgaanbieder zorg krijgt. Dit zijn de maximaal aanvaardbare wachttijden die door zorgaanbieders en zorgverzekeraars gezamenlijk zijn overeengekomen (de Treeknormen).’
 
 2. Dementienetwerken en zorgaanbieders zijn verplicht de cliënt mondeling of schriftelijk te informeren over de mogelijkheid van wachtlijstbemiddeling door de zorgverzekeraar, indien de wachttijden voor deze betreffende cliënt de Treeknorm overschrijden.
 
@@ -155,10 +131,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling transp
 
 ##### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorafgaande regeling
+
 De [Regeling transparantie zorgaanbieders casemanagement dementie](https://wetten.overheid.nl/jci1.3:c:BWBR0041011), met kenmerk NR/REG-1827, blijft van toepassing op gedragingen (handelen en nalaten) die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-Deze regeling treedt in werking met ingang van 1 juli 2021. Indien de Staatscourant waarin de regeling wordt geplaatst, wordt uitgegeven na 30 juni 2021, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
+Inwerkingtreding / Bekendmaking
+
+Deze regeling treedt in werking met ingang van 1 juli 2021. Indien de Staatscourant waarin de regeling wordt geplaatst, wordt uitgegeven na 30 juni 2021, treedt de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
 Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 20, tweede lid, onderdeel a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20).
+
+Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling transparantie zorgaanbieders casemanagement dementie.

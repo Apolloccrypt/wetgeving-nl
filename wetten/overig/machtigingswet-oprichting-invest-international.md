@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 juli 2021, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest International (Machtigingswet oprichting Invest International)"
+citeertitel: "Machtigingswet oprichting Invest International"
 identifier: "BWBR0045430"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-21"
-last_updated: "2021-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045430"
+categorie: "Overig"
 soort: "wet"
-stam_id: "16030943"
-version_id: "27917782"
-internal_id: "C39363781"
-label_id: "15964604"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045430/2021-07-21/0"
-intitule_bron: "Stb.2021-367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-14"
-intitule_published: "2021-07-20"
-intitule_in_force: "2021-07-20"
-intitule_status: "goed"
-original_publication: "Stb.2021-367"
-original_signed_date: "2021-07-14"
-original_published_date: "2021-07-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "35529"
-original_url_id: "stb-2021-367"
-entry_into_force_date: "2021-07-21"
-jci_1_3: "jci1.3:c:BWBR0045430&z=2021-07-21&g=2021-07-21"
-jci_1_0: "1.0:c:BWBR0045430&g=2021-07-21"
-citeertitel_status: "officieel"
-short_title: "Machtigingswet oprichting Invest International"
-signed_date: "2021-07-14"
-entry_into_force: "2021-07-21"
+publicatiedatum: 2021-07-21
+laatste_update: 2021-07-21
+status: geldig
+toestand: 2021-07-21
+bron: "https://wetten.overheid.nl/BWBR0045430"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 14 juli 2021, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest International (Machtigingswet oprichting Invest International)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is dat Nederland beschikt over een financierings- en ontwikkelingsinstelling voor internationale activiteiten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,15 +20,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **internationale projecten:** projecten gericht op activiteiten in het buitenland door of met betrokkenheid van overheden of andere entiteiten, niet handelende als ondernemingen;
+- *internationale projecten:* projecten gericht op activiteiten in het buitenland door of met betrokkenheid van overheden of andere entiteiten, niet handelende als ondernemingen;
 
-- **Invest International:** de besloten vennootschap Invest International B.V., genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21);
+- *Invest International:* de besloten vennootschap Invest International B.V., genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045430&hoofdstuk=1&artikel=2&z=2021-07-21&g=2021-07-21);
 
-- **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die economische activiteiten op het gebied van productie of dienstverlening uitvoert;
+- *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die economische activiteiten op het gebied van productie of dienstverlening uitvoert;
 
-- **Onze Minister:** Onze Minister van Buitenlandse Zaken;
+- *Onze Minister:* Onze Minister van Buitenlandse Zaken;
 
-- **verschillende activiteiten:** enerzijds producten of diensten met betrekking tot welke aan Invest International bij of krachtens deze wet een bijzonder of uitsluitend recht is verleend of een wettelijke taak is opgedragen of diensten van algemeen economisch belang waarmee Invest International is belast, en anderzijds elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke Invest International voor eigen rekening en risico diensten verricht.
+- *verschillende activiteiten:* enerzijds producten of diensten met betrekking tot welke aan Invest International bij of krachtens deze wet een bijzonder of uitsluitend recht is verleend of een wettelijke taak is opgedragen of diensten van algemeen economisch belang waarmee Invest International is belast, en anderzijds elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke Invest International voor eigen rekening en risico diensten verricht.
 
 2. Onder «Nederlandse economie» wordt in deze wet en de daarop berustende bepalingen mede verstaan de economie van de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -258,5 +229,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat
 ##### Artikel 21. Citeertitel
 
 Deze wet wordt aangehaald als: Machtigingswet oprichting Invest International.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

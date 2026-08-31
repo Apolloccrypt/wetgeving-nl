@@ -1,79 +1,17 @@
 ---
 title: "(Onder)Mandaatbesluit Politie beheer RST 2021"
 identifier: "BWBR0044977"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-03-27"
-last_updated: "2021-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044977"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15907743"
-version_id: "27649402"
-internal_id: "C39008951"
-label_id: "15843104"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044977/2021-03-27/0"
-intitule_bron: "Stcrt.2021-14913"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-11"
-intitule_published: "2021-03-26"
-intitule_in_force: "2021-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-14913"
-original_signed_date: "2021-03-11"
-original_published_date: "2021-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-14913"
-entry_into_force_date: "2021-03-27"
-jci_1_3: "jci1.3:c:BWBR0044977&z=2021-03-27&g=2021-03-27"
-jci_1_0: "1.0:c:BWBR0044977&g=2021-03-27"
-citeertitel_status: "officieel"
-signed_date: "2021-03-11"
-entry_into_force: "2021-03-27"
+publicatiedatum: 2021-03-27
+laatste_update: 2021-03-27
+status: geldig
+toestand: 2021-03-27
+bron: "https://wetten.overheid.nl/BWBR0044977"
+opgehaald: 2026-08-31
 ---
+
 # (Onder)Mandaatbesluit Politie beheer RST 2021
-
-gelet op
-
-de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
-
-de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788);
-
-het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
-
-de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) (Rijkswet politie);
-
-het Protocol inzake gespecialiseerde recherchesamenwerking tussen de landen van het Koninkrijk (Protocol);
-
-het [Mandaatbesluit beheer RST 2020 van de Minister van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0043778); en
-
-het Mandaatbesluit politie januari 2020;
-
-overwegende:
-
-dat op grond van een wijziging van het **Protocol inzake gespecialiseerde recherchesamenwerking tussen de landen van het Koninkrijk** de Minister van Justitie en Veiligheid verantwoordelijk is voor de zorg voor en instandhouding van een recherchesamenwerkingsteam (Stcrt. 26 juli 2019, nr. 38964);
-
-dat de Minister van Justitie en Veiligheid met het **Mandaatbesluit beheer RST 2020** van 10 juni 2020 (Stcrt. 2020 nr. 33182) invulling heeft gegeven aan de in het Protocol overeengekomen opdracht aan de korpschef namens de Minister zorg te dragen voor het beheer van het RST;
-
-dat de teamchef RST in overleg met de korpschef de bedrijfsvoering van het RST vorm geeft met de door de korpschef namens de Minister aan het RST ter beschikking gestelde personeel en middelen;
-
-dat de korpschef daartoe voor de door de Minister gemandateerde bevoegdheden ten aanzien van het beheer van het RST ondermandaat wenst te verlenen aan de teamchef RST en voor diens beslissingen op bezwaar, deels met tussenkomst van ondermandaat aan een door hem aan te wijzen functionaris;
-
-dat ambtenaren van politie door de korpschef aan de teamchef RST ter beschikking worden gesteld en als medewerker van het RST op grond van een individuele terbeschikkingstelling worden ingezet voor het uitvoeren van de op grond van de [Rijkswet politie](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) en het Protocol aan het RST toegekende taken waarover zij verantwoording schuldig zijn aan de teamchef RST;
-
-dat het noodzakelijk is dat de teamchef RST voor de dagelijkse personeelszorg namens de korpschef als bevoegd gezag een aantal bevoegdheden in mandaat kan uitoefenen;
-
-dat de korpschef heeft besloten de bevoegdheid tot het nemen van een beslissing op een bezwaarschrift ingediend tegen personeelsbesluiten van de teamchef RST afzonderlijk mandaat te verlenen aan de portefeuillehouder Caribisch deel van het Nederlands Koninkrijk;
-
-dat het RST primair, doch niet uitsluitend, gebruik maakt van de voorzieningen van de politie voor de uitvoering van zijn taken en dat het onderhavige mandaatbesluit de teamchef RST daartoe ondersteunt door hem met diens instemming en aanvaarding alle benodigde bevoegdheden te mandateren;
-
-dat met dit afzonderlijke (onder)Mandaatbesluit Politie beheer RST 2021 wordt voorzien in een mandaat aan de teamchef RST ten aanzien van beheer behorend bij zijn werkterrein en de daarbij behorende budgetverantwoordelijkheid; en
-
-dat de teamchef RST over de uitvoering van het verleende mandaat mede aan de hand van rapportages over de ter beschikking gestelde mensen en middelen verantwoording aflegt aan de korpschef;
-
-besluit vast te stellen het navolgende (onder)mandaatbesluit
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -81,31 +19,34 @@ besluit vast te stellen het navolgende (onder)mandaatbesluit
 
 In dit besluit wordt verstaan onder:
 
-- a. **Barp:** [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
+- a. *Barp:*
+ [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
 
-- b. **Bbp:** [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
+- b. *Bbp:*
+ [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
 
-- c. **korpschef:** korpschef als bedoeld in [artikel 27 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- c. *korpschef:* korpschef als bedoeld in [artikel 27 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- d. **mandaat:** bevoegdheid om namens de korpschef besluiten te nemen;
+- d. *mandaat:* bevoegdheid om namens de korpschef besluiten te nemen;
 
-- e. **Mandaatbesluit beheer RST:** [Mandaatbesluit beheer RST 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043778) van de Minister;
+- e. *Mandaatbesluit beheer RST:*
+ [Mandaatbesluit beheer RST 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043778) van de Minister;
 
-- f. **Mandaatbesluit politie:** Mandaatbesluit politie januari 2020;
+- f. *Mandaatbesluit politie:* Mandaatbesluit politie januari 2020;
 
-- g. **Minister:** minister van Justitie en Veiligheid;
+- g. *Minister:* minister van Justitie en Veiligheid;
 
-- h. **PDC:** Politiedienstencentrum als bedoeld in [artikel 36 Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=36);
+- h. *PDC:* Politiedienstencentrum als bedoeld in [artikel 36 Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=36);
 
-- i. **politie:** landelijk politiekorps als bedoeld in [artikel 25, eerste lid Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
+- i. *politie:* landelijk politiekorps als bedoeld in [artikel 25, eerste lid Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25);
 
-- j. **portefeuillehouder Caribisch deel van het Nederlands Koninkrijk:** de functionaris die als zodanig door de korpschef van politie is aangewezen;
+- j. *portefeuillehouder Caribisch deel van het Nederlands Koninkrijk:* de functionaris die als zodanig door de korpschef van politie is aangewezen;
 
-- k. **Protocol:** Protocol inzake gespecialiseerde recherchesamenwerking tussen de landen van het Koninkrijk Aruba, Curaçao, Sint Maarten en Nederland;
+- k. *Protocol:* Protocol inzake gespecialiseerde recherchesamenwerking tussen de landen van het Koninkrijk Aruba, Curaçao, Sint Maarten en Nederland;
 
-- l. **RST:** een recherchesamenwerkingsteam als bedoeld in [artikel 57a Rijkswet politie](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57a) en artikel 6 van het Protocol;
+- l. *RST:* een recherchesamenwerkingsteam als bedoeld in [artikel 57a Rijkswet politie](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57a) en artikel 6 van het Protocol;
 
-- m. **teamchef RST:** hoofd van het RST als bedoeld in artikel 7 van het Protocol;
+- m. *teamchef RST:* hoofd van het RST als bedoeld in artikel 7 van het Protocol;
 
 ##### Artikel 2. Wet- en regelgeving
 
@@ -121,7 +62,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onde
 
 - c. de bevoegdheid tot het nemen van een procesbesluit in civiele procedures.
 
-De directeur PDC beheert het register waarin per functieniveau de maximale bedragen verbonden aan de volmacht van alle leidinggevende functionarissen worden bijgehouden. Dit register ligt ter inzage bij het PDC. Een overzicht van de bij de teamchef RST behorende bedragen is opgenomen in **Bijlage 1**behorend bij dit mandaatbesluit.
+De directeur PDC beheert het register waarin per functieniveau de maximale bedragen verbonden aan de volmacht van alle leidinggevende functionarissen worden bijgehouden. Dit register ligt ter inzage bij het PDC. Een overzicht van de bij de teamchef RST behorende bedragen is opgenomen in *Bijlage 1*behorend bij dit mandaatbesluit.
 
 ### Hoofdstuk 2. Teamchef RST
 
@@ -131,27 +72,27 @@ De directeur PDC beheert het register waarin per functieniveau de maximale bedra
 
 2. Ten aanzien medewerkers van het RST die zijn aangesteld bij de politie wordt met het oog op het op grond van het eerste lid uitoefenen van personele bevoegdheden aan de teamchef RST mandaat verleend voor het nemen van besluiten die betrekking hebben op:
 
-- –. de diensttijd ([hoofdstuk III Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=III));
+- – de diensttijd ([hoofdstuk III Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=III));
 
-- –. het (vakantie)verlof [(hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=IV) en [VI Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VI));
+- – het (vakantie)verlof [(hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=IV) en [VI Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VI));
 
-- –. het functioneren en de beoordeling ([art. 71 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71));
+- – het functioneren en de beoordeling ([art. 71 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=71));
 
-- –. een tevredenheidsbetuiging, extra verlof of gratificatie ([art. 74 tweede lid onder a t/m c](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=74));
+- – een tevredenheidsbetuiging, extra verlof of gratificatie ([art. 74 tweede lid onder a t/m c](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=74));
 
-- –. een functionerings- of een waarnemingstoelage, tijdens en maximaal voor de duur van de periode van terbeschikkingstelling ([artt 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=16) en [17 Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=17));
+- – een functionerings- of een waarnemingstoelage, tijdens en maximaal voor de duur van de periode van terbeschikkingstelling ([artt 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=16) en [17 Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=17));
 
-- –. een ordemaatregel ([artt. 73](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=73), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=84) en [85 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=85)) of een betrouwbaarheidsonderzoek ([art. 8b Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8b));
+- – een ordemaatregel ([artt. 73](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=73), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=84) en [85 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=85)) of een betrouwbaarheidsonderzoek ([art. 8b Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=8b));
 
-- –. een studiefaciliteit ([art. 58 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=58));
+- – een studiefaciliteit ([art. 58 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=58));
 
-- –. een verplaatsing in het belang van de dienst ([art. 64 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64));
+- – een verplaatsing in het belang van de dienst ([art. 64 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=64));
 
-- –. regels omtrent goed ambtelijk handelen ([§ 1 van hoofdstuk VII.a Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&paragraaf=1));
+- – regels omtrent goed ambtelijk handelen ([§ 1 van hoofdstuk VII.a Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&paragraaf=1));
 
-- –. de vaststelling van een dienstongeval of beroepsziekte ([art. 54 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54)); en
+- – de vaststelling van een dienstongeval of beroepsziekte ([art. 54 Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54)); en
 
-- –. besluiten in geval van ziekte minder dan 6 maanden ([§ 1 van hoofdstuk VII Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&paragraaf=1)); e.e.a. zoals tevens is opgenomen in de individuele terbeschikkingstellingsovereenkomst.
+- – besluiten in geval van ziekte minder dan 6 maanden ([§ 1 van hoofdstuk VII Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&paragraaf=1)); e.e.a. zoals tevens is opgenomen in de individuele terbeschikkingstellingsovereenkomst.
 
 3. Ten aanzien medewerkers van het RST die zijn aangesteld bij de politie wordt met het oog op het op grond van het eerste lid uitoefenen van personele bevoegdheden door de teamchef RST uitgezonderd besluiten die zijn voorbehouden aan korpschef, leden korpsleiding, politiechef en directeuren als bedoeld in het Mandaatbesluit politie.
 
@@ -219,10 +160,4 @@ Dit besluit kan worden aangehaald als: (Onder)Mandaatbesluit Politie beheer RST 
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking op de dag nadat het is gepubliceerd, en werkt terug tot en met 27 juli 2019.
-
-## Bijlage 1. bij Mandaatbesluit korpschef beheer RST 2021
-
-| Functionaris | Bevoegdheid financieel mandaat |
-| --- | --- |
-| teamchef RST | Ongelimiteerd |
+Dit besluit treedt in werking op de dag nadat het is gepubliceerd, en werkt terug tot en met 27 juli 2019.

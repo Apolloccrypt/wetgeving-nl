@@ -1,46 +1,18 @@
 ---
 title: "Regeling van 21 juni 2021, nr. 3366665 houdende voorschriften voor de beveiliging op de luchthavens van Bonaire, Sint Eustatius en Saba (Regeling beveiliging burgerluchtvaart BES 2021)"
+citeertitel: "Regeling beveiliging burgerluchtvaart BES 2021"
 identifier: "BWBR0045374"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045374"
+categorie: "Verkeer"
 soort: "ministeriele-regeling-BES"
-stam_id: "16017693"
-version_id: "29946832"
-internal_id: "C42926411"
-label_id: "15950994"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045374/2024-04-01/0"
-intitule_bron: "Stcrt.2021-34016"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-21"
-intitule_published: "2021-07-08"
-intitule_in_force: "2021-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-3432"
-original_signed_date: "2024-01-22"
-original_published_date: "2024-02-06"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-3432"
-entry_into_force_date: "2024-01-22"
-jci_1_3: "jci1.3:c:BWBR0045374&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0045374&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling beveiliging burgerluchtvaart BES 2021"
-signed_date: "2024-01-22"
-entry_into_force: "2024-01-22"
+publicatiedatum: 2024-01-22
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0045374"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van 21 juni 2021, nr. 3366665 houdende voorschriften voor de beveiliging op de luchthavens van Bonaire, Sint Eustatius en Saba (Regeling beveiliging burgerluchtvaart BES 2021)
-
-Gelet op de [Artikelen 22g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22g), [22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22l), [22p](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22p), [22q, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22q), [22s](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22s), [22x, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22x) en [22y, tweede lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22y);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Uitvoeringswet EG-verordening 300/2008 in werking treedt.
 
 ##### Artikel 1
 
@@ -51,6 +23,10 @@ In deze regeling wordt verstaan onder wet: de [Luchtvaartwet BES](https://wetten
 1. De aanvraag om instemming van de ingebruikname van detectieapparatuur, bedoeld in [artikel 22l, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22l), wordt door de exploitant van een luchtvaartterrein, door tussenkomst van de commandant van de Koninklijke marechaussee ingediend bij de Minister van Justitie en Veiligheid.
 
 2. Met het oog op de instemming door de Minister van Justitie en Veiligheid adviseert de commandant van de Koninklijke marechaussee de Minister van Justitie en Veiligheid over de ingebruikname van de detectieapparatuur.
+
+##### Artikel 2a
+
+Tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart, bedoeld in de [artikelen 22l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22l), [22na, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22na) en [22nc, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22nc) behoren tevens maatregelen die worden genomen ter bescherming van de voor de beveiliging van de burgerluchtvaart kritieke informatie- en communicatiesystemen. Aan het treffen van de maatregelen ligt een actuele risicoanalyse ten grondslag die door de exploitant van het luchtvaartterrein, de luchtvaartmaatschappij en de entiteit wordt uitgevoerd.
 
 ##### Artikel 3
 
@@ -86,27 +62,9 @@ Indien ruimbagage van een passagier gescheiden is geraakt ten gevolge van buiten
 
 2. De commandant van de Koninklijke marechaussee kan voor de aangelegenheden bedoeld in het eerste lid, ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
-##### Artikel 7
-
-De [Regeling Beveiliging Burgerluchtvaart BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031533) wordt ingetrokken.
-
-##### Artikel 8
-
-Deze regeling wordt aangehaald als: Regeling beveiliging burgerluchtvaart BES 2021.
-
-##### Artikel 9
-
-Deze regeling treedt in werking met ingang van de dag waarop de [Uitvoeringswet EG-verordening 300/2008](https://wetten.overheid.nl/jci1.3:c:BWBR0042213) in werking treedt.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart, bedoeld in de [artikelen 22l, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22l), [22na, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22na) en [22nc, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22nc) behoren tevens maatregelen die worden genomen ter bescherming van de voor de beveiliging van de burgerluchtvaart kritieke informatie- en communicatiesystemen. Aan het treffen van de maatregelen ligt een actuele risicoanalyse ten grondslag die door de exploitant van het luchtvaartterrein, de luchtvaartmaatschappij en de entiteit wordt uitgevoerd.
-
 ##### Artikel 6a
 
-1. Voor zover hun toegang tot de om beveiligingsredenen beperkt toegankelijke zone als bedoeld in [artikel 22k, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22k) noodzakelijk is voor de uitoefening van hun taken, zijn vrijgesteld van de controles, bedoeld in [artikel 22o, eerste lid, onder c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), de bij aanwijzing als bedoeld in [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22c) nader omschreven:
+1. Voor zover hun toegang tot de om beveiligingsredenen beperkt toegankelijke zone als bedoeld in [artikel 22k, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22k) noodzakelijk is voor de uitoefening van hun taken, zijn vrijgesteld van de controles, bedoeld in [artikel 22o, eerste lid, onder c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), de bij aanwijzing als bedoeld in [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22c) nader omschreven:
 
 - a. ambtenaren met opsporingsbevoegdheid;
 
@@ -118,11 +76,11 @@ Tot de voorzieningen die zijn vereist ter beveiliging van de burgerluchtvaart, b
 
 ##### Artikel 6b
 
-Personen, anders dan passagiers, die aan een beveiligingscontrole zijn onderworpen, en tijdelijk de om beveiligingsredenen beperkt toegankelijke zones als bedoeld in [artikel 22k, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22k) verlaten, worden vrijgesteld van een beveiligingscontrole bij hun terugkeer, indien deze personen onder constant toezicht hebben gestaan van beveiligingspersoneel en dit toezicht volstaat en redelijkerwijs kan worden aangenomen dat ze geen verboden voorwerpen in om beveiligingsredenen beperkt toegankelijke zones zullen binnenbrengen.
+Personen, anders dan passagiers, die aan een beveiligingscontrole zijn onderworpen, en tijdelijk de om beveiligingsredenen beperkt toegankelijke zones als bedoeld in [artikel 22k, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22k) verlaten, worden vrijgesteld van een beveiligingscontrole bij hun terugkeer, indien deze personen onder constant toezicht hebben gestaan van beveiligingspersoneel en dit toezicht volstaat en redelijkerwijs kan worden aangenomen dat ze geen verboden voorwerpen in om beveiligingsredenen beperkt toegankelijke zones zullen binnenbrengen.
 
 ##### Artikel 6c
 
-1. Vrijgesteld van de controles, bedoeld in [artikel 22o, eerste lid onder b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), zijn de bij aanwijzing als bedoeld in [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22c) nader omschreven:
+1. Vrijgesteld van de controles, bedoeld in [artikel 22o, eerste lid onder b en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), zijn de bij aanwijzing als bedoeld in [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22c) nader omschreven:
 
 - a. hoogwaardigheidsbekleders; en
 
@@ -132,10 +90,20 @@ Personen, anders dan passagiers, die aan een beveiligingscontrole zijn onderworp
 
 ##### Artikel 6d
 
-Aan transitpassagiers wordt vrijstelling verleend van de controle, bedoeld in [artikel 22o, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), indien deze passagiers en hun bagage:
+Aan transitpassagiers wordt vrijstelling verleend van de controle, bedoeld in [artikel 22o, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=22o), indien deze passagiers en hun bagage:
 
 - a. zich niet mengen met andere vertrekkende passagiers die aan een beveiligingscontrole zijn onderworpen, anders dan die welke aan boord van hetzelfde luchtvaartuig gaan; of
 
 - b. aan boord van het luchtvaartuig blijven.
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 7
+
+De [Regeling Beveiliging Burgerluchtvaart BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031533) wordt ingetrokken.
+
+##### Artikel 8
+
+Deze regeling wordt aangehaald als: Regeling beveiliging burgerluchtvaart BES 2021.
+
+##### Artikel 9
+
+Deze regeling treedt in werking met ingang van de dag waarop de [Uitvoeringswet EG-verordening 300/2008](https://wetten.overheid.nl/jci1.3:c:BWBR0042213) in werking treedt.

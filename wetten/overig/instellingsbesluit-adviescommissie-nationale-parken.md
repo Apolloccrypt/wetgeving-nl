@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 januari 2021 nr. WJZ/ 21008735, tot instelling van de Adviescommissie Nationale Parken (Instellingsbesluit Adviescommissie Nationale Parken)"
+citeertitel: "Instellingsbesluit Adviescommissie Nationale Parken"
 identifier: "BWBR0044747"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-18"
-last_updated: "2025-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044747"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15823903"
-version_id: "27470722"
-internal_id: "C38773611"
-label_id: "15760924"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044747/2025-09-18/0"
-intitule_bron: "Stcrt.2021-4194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-21"
-intitule_published: "2021-01-27"
-intitule_in_force: "2021-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-4194"
-original_signed_date: "2021-01-21"
-original_published_date: "2021-01-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-4194"
-entry_into_force_date: "2021-01-28"
-jci_1_3: "jci1.3:c:BWBR0044747&z=2025-09-18&g=2025-09-18"
-jci_1_0: "1.0:c:BWBR0044747&g=2025-09-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie Nationale Parken"
-signed_date: "2021-01-21"
-entry_into_force: "2021-01-28"
+publicatiedatum: 2021-01-28
+laatste_update: 2025-09-18
+status: geldig
+toestand: 2025-09-18
+bron: "https://wetten.overheid.nl/BWBR0044747"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 januari 2021 nr. WJZ/ 21008735, tot instelling van de Adviescommissie Nationale Parken (Instellingsbesluit Adviescommissie Nationale Parken)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- a. *de minister:* de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- b. **adviescommissie:** de Adviescommissie Nationale Parken.
+- b. *adviescommissie:* de Adviescommissie Nationale Parken.
 
 ##### Artikel 2
 
@@ -105,5 +79,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Nationale Parken.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

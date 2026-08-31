@@ -1,35 +1,19 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Schiedam 2021"
+title: "Besluit van de Minister voor Rechtsbescherming van 22 maart 2021 nr. BOACAT2021/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Schiedam"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Schiedam 2021"
 identifier: "BWBR0044983"
 categorie: "Bestuursrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2021-06-02
-laatste_update: 2026-06-02
+laatste_update: 2021-06-02
 status: vervallen
+vervallen_op: 2026-06-01
+toestand: 2021-06-02
 bron: "https://wetten.overheid.nl/BWBR0044983"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-08-31
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 22 maart 2021 nr. BOACAT2021/008, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Schiedam
-
-Gelezen het verzoek van de gemeente Schiedam van 11 maart 2021 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Rotterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -41,7 +25,7 @@ De personen, werkzaam in de functie van toezichthouder A en B in dienst van de g
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -63,7 +47,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 7
 
-1. De gemeente Schiedam brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Schiedam brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044983&artikel=2&z=2021-06-02&g=2021-06-02) genoemde functie;
 
@@ -81,12 +65,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar gemeente Schiedam 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038006), van 24 mei 2016, nr. BOACAT2016/039 zal vervallen op 2 juni 2021.
+Het [Besluit buitengewoon opsporingsambtenaar gemeente Schiedam 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038006), van 24 mei 2016, nr. BOACAT2016/039 zal vervallen op 2 juni 2021.
 
-Dit besluit treedt in werking met ingang van 2 juni 2021 en vervalt met ingang van 2 juni 2026.
+Dit besluit treedt in werking met ingang van 2 juni 2021 en vervalt met ingang van 2 juni 2026.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Schiedam 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

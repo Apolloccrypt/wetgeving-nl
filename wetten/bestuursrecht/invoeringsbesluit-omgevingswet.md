@@ -1,276 +1,244 @@
 ---
 title: "Besluit van 16 september 2020 tot aanvulling en wijziging van het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit, de intrekking en wijziging van andere besluiten en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringsbesluit Omgevingswet)"
+citeertitel: "Invoeringsbesluit Omgevingswet"
 identifier: "BWBR0044923"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-09-20"
-last_updated: "2025-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044923"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "15882343"
-version_id: "27599802"
-internal_id: "C42433421"
-label_id: "15817464"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044923/2025-09-20/0"
-intitule_bron: "Stb.2020-400"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-09-16"
-intitule_published: "2020-10-28"
-intitule_in_force: "2023-04-07"
-intitule_status: "goed"
-original_publication: "Stb.2020-400"
-original_signed_date: "2020-09-16"
-original_published_date: "2020-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2020-400"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0044923&z=2025-09-20&g=2025-09-20"
-jci_1_0: "1.0:c:BWBR0044923&g=2025-09-20"
-citeertitel_status: "officieel"
-short_title: "Invoeringsbesluit Omgevingswet"
-signed_date: "2020-09-16"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2025-09-20
+status: geldig
+toestand: 2025-09-20
+bron: "https://wetten.overheid.nl/BWBR0044923"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 16 september 2020 tot aanvulling en wijziging van het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit, de intrekking en wijziging van andere besluiten en regeling van overgangsrecht voor de invoering van de Omgevingswet (Invoeringsbesluit Omgevingswet)
 
-Op de voordracht van Onze Minister voor Milieu en Wonen van 20 februari 2020, nr. 2020-0000071964, Constitutionele Zaken en Wetgeving, gedaan mede namens Onze Minister van Defensie, Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat, Onze Minister van Justitie en Veiligheid, Onze Minister van Landbouw, Natuur en Voedselkwaliteit, Onze Minister van Onderwijs, Cultuur en Wetenschap, Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport;
+### Hoofdstuk 1. Aanvulling en wijziging Besluit activiteiten leefomgeving
 
-Gelet op de bio-verordening, de grondwaterrichtlijn, de kaderrichtlijn afvalstoffen, de kaderrichtlijn water, de mer-richtlijn, de nec-richtlijn, de nitraatrichtlijn, de richtlijn autowrakken, de richtlijn duurzaam gebruik van pesticiden, de richtlijn energie-efficiëntie, de richtlijn industriële emissies, de richtlijn middelgrote stookinstallaties, de richtlijn milieustrafrecht, de richtlijn offshore veiligheid, de richtlijn omgevingslawaai, de richtlijn overstromingsrisico’s, de richtlijn prioritaire stoffen, de richtlijn storten afvalstoffen, de richtlijn toegang tot milieu-informatie, de richtlijn winningsafval, het SEA-protocol, de Seveso-richtlijn en de smb-richtlijn, de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), de [Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338), de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521), de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), de [Huurprijzenwet woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003221), [artikel 3.1 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=3.1), de [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789), de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402), de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054), de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168), de [artikelen 1.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.5), [1.7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.7a), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.7), [2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.11), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.12), [2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.15), [2.20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.20), [2.21a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.21a), [2.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.24), [2.39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.39), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=3.10), [4.3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), [5.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), [5.10, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.10), [5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.11), [5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12), [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.13), [5.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.18), [5.26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.26), [5.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.31), [5.34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34), [5.36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.36), [5.38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.38), [5.40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.40), [5.42, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.42), [5.44b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.44b), [5.47, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.47), [5.52, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.52), [12.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=12.1), [13.3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.3a), [13.3d](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.3d), [13.4a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.4a), [13.4b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.4b), [13.5, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.5), [15.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=15.7), [15.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=15.8), [16.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.1), [16.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.7), [16.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.15), [16.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.16), [16.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.17), [16.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.20), [16.36, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.36), [16.42](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.42), [16.42a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.42a), [16.43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.43), [16.44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.44), [16.45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.45), [16.46, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.46), [16.47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.47), [16.52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.52), [16.53a](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.53a), [16.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.55), [16.65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.65), [16.88, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.88), [17.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=17.3), [17.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=17.5), [17.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=17.6), [18.2, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.2), [18.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.3), [18.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.19), [18.22](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.22), [18.25, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.25), [19.12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=19.12), [20.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.1), [20.2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.2), [20.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.6), [20.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.8), [20.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.10), [20.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.13), [20.14, derde, vierde, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.14), [20.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.16), [20.21, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.21), [20.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.22), [20.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.24), [20.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.25), [20.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.26), en [23.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.1), de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458), de [Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095), de [Wet controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0015049), de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728), de [Wet infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006001), de [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0016876), de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466), het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) en de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181);
+##### Artikel 1.1. (Besluit activiteiten leefomgeving)
 
-De Afdeling advisering van de Raad van State gehoord (advies van 10 juni 2020, nr. W04.20.0033/I);
+*Wijzigt het Besluit activiteiten leefomgeving.*
 
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 september 2020, uitgebracht mede namens Onze Minister van Defensie, Onze Minister van Economische Zaken en Klimaat, Onze Minister van Infrastructuur en Waterstaat, Onze Minister van Justitie en Veiligheid, Onze Minister van Landbouw, Natuur en Voedselkwaliteit, Onze Minister van Onderwijs, Cultuur en Wetenschap, Onze Minister voor Rechtsbescherming, de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport;
+### Hoofdstuk 2. Aanvulling en wijziging Besluit bouwwerken leefomgeving
 
-Hebben goedgevonden en verstaan:
+##### Artikel 2.1. (Besluit bouwwerken leefomgeving)
 
-### Hoofdstuk 1. Aanvulling en wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
+*Wijzigt het Besluit bouwwerken leefomgeving.*
 
-##### Artikel 1.1. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+### Hoofdstuk 3. Aanvulling en wijziging Besluit kwaliteit leefomgeving
 
-Wijzigt het Besluit activiteiten leefomgeving.
+##### Artikel 3.1. (Besluit kwaliteit leefomgeving)
 
-### Hoofdstuk 2. Aanvulling en wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
+*Wijzigt het Besluit kwaliteit leefomgeving.*
 
-##### Artikel 2.1. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
+### Hoofdstuk 4. Aanvulling en wijziging Omgevingsbesluit
 
-Wijzigt het Besluit bouwwerken leefomgeving.
+##### Artikel 4.1. Omgevingsbesluit
 
-### Hoofdstuk 3. Aanvulling en wijziging [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313)
-
-##### Artikel 3.1. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
-
-Wijzigt het Besluit kwaliteit leefomgeving.
-
-### Hoofdstuk 4. Aanvulling en wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
-
-##### Artikel 4.1. [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
-
-Wijzigt het Omgevingsbesluit.
+*Wijzigt het Omgevingsbesluit.*
 
 ### Hoofdstuk 5. Wijziging andere besluiten
 
-##### Artikel 5.1. [(Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
+##### Artikel 5.1. (Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken)
 
-Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
+*Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.*
 
-##### Artikel 5.2. ([Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498))
+##### Artikel 5.2. (Arbeidsomstandighedenbesluit)
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 5.3. ([Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316))
+##### Artikel 5.3. (Asbestverwijderingsbesluit 2005)
 
-Wijzigt het Asbestverwijderingsbesluit 2005.
+*Wijzigt het Asbestverwijderingsbesluit 2005.*
 
-##### Artikel 5.4. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
+##### Artikel 5.4. (Besluit basisregistratie ondergrond)
 
-Wijzigt het Besluit basisregistratie ondergrond.
+*Wijzigt het Besluit basisregistratie ondergrond.*
 
-##### Artikel 5.5. ([Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179))
+##### Artikel 5.5. (Besluit basisveiligheidsnormen stralingsbescherming)
 
-Wijzigt het Besluit basisveiligheidsnormen stralingsbescherming.
+*Wijzigt het Besluit basisveiligheidsnormen stralingsbescherming.*
 
-##### Artikel 5.6. ([Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038))
+##### Artikel 5.6. (Besluit beheer autobanden)
 
-Wijzigt het Besluit beheer autobanden.
+*Wijzigt het Besluit beheer autobanden.*
 
-##### Artikel 5.7. ([Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707))
+##### Artikel 5.7. (Besluit beheer autowrakken)
 
-Wijzigt het Besluit beheer autowrakken.
+*Wijzigt het Besluit beheer autowrakken.*
 
-##### Artikel 5.8. ([Besluit bestuurlijke boete overlast in de openbare ruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0024941))
+##### Artikel 5.8. (Besluit bestuurlijke boete overlast in de openbare ruimte)
 
-Wijzigt het Besluit bestuurlijke boete overlast in de openbare ruimte.
+*Wijzigt het Besluit bestuurlijke boete overlast in de openbare ruimte.*
 
-##### Artikel 5.9. ([Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909))
+##### Artikel 5.9. (Besluit brandstoffen luchtverontreiniging)
 
-Wijzigt het Besluit brandstoffen luchtverontreiniging.
+*Wijzigt het Besluit brandstoffen luchtverontreiniging.*
 
-##### Artikel 5.10. ([Besluit brandveilig gebruik en basishulpverlening overige plaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0040068))
+##### Artikel 5.10. (Besluit brandveilig gebruik en basishulpverlening overige plaatsen)
 
-Wijzigt het Besluit brandveilig gebruik en basishulpverlening overige plaatsen.
+*Wijzigt het Besluit brandveilig gebruik en basishulpverlening overige plaatsen.*
 
-##### Artikel 5.11. ([Besluit bijzondere spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0036778))
+##### Artikel 5.11. (Besluit bijzondere spoorwegen)
 
-Wijzigt het Besluit bijzondere spoorwegen.
+*Wijzigt het Besluit bijzondere spoorwegen.*
 
-##### Artikel 5.12. ([Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627))
+##### Artikel 5.12. (Besluit capaciteitsverdeling hoofdspoorweginfrastructuur)
 
-Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
+*Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.*
 
-##### Artikel 5.13. ([Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen](https://wetten.overheid.nl/jci1.3:c:BWBR0040209))
+##### Artikel 5.13. (Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen)
 
-Wijzigt het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen.
+*Wijzigt het Besluit conformiteitsbeoordeling vaste biomassa voor energietoepassingen.*
 
-##### Artikel 5.14. ([Besluit controle op rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0017347))
+##### Artikel 5.14. (Besluit controle op rechtspersonen)
 
-Wijzigt het Besluit controle op rechtspersonen.
+*Wijzigt het Besluit controle op rechtspersonen.*
 
-##### Artikel 5.15. ([Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
+##### Artikel 5.15. (Besluit detectie radioactief besmet schroot)
 
-Wijzigt het Besluit detectie radioactief besmet schroot.
+*Wijzigt het Besluit detectie radioactief besmet schroot.*
 
-##### Artikel 5.16. ([Besluit eisen inrichtingen Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0011700))
+##### Artikel 5.16. (Besluit eisen inrichtingen Drank- en Horecawet)
 
-Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.
+*Wijzigt het Besluit eisen inrichtingen Drank- en Horecawet.*
 
-##### Artikel 5.17. ([Besluit Erfgoedwet archeologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037866))
+##### Artikel 5.17. (Besluit Erfgoedwet archeologie)
 
-Wijzigt het Besluit Erfgoedwet archeologie.
+*Wijzigt het Besluit Erfgoedwet archeologie.*
 
-##### Artikel 5.18. ([Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066))
+##### Artikel 5.18. (Besluit gebruik meststoffen)
 
-Wijzigt het Besluit gebruik meststoffen.
+*Wijzigt het Besluit gebruik meststoffen.*
 
-##### Artikel 5.19. ([Besluit geluidproduktie sportmotoren](https://wetten.overheid.nl/jci1.3:c:BWBR0007578))
+##### Artikel 5.19. (Besluit geluidproduktie sportmotoren)
 
-Wijzigt het Besluit geluidproduktie sportmotoren.
+*Wijzigt het Besluit geluidproduktie sportmotoren.*
 
-##### Artikel 5.20. ([Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090))
+##### Artikel 5.20. (Besluit genetisch gemodificeerde organismen milieubeheer 2013)
 
-Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer 2013.
+*Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer 2013.*
 
-##### Artikel 5.21. ([Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530))
+##### Artikel 5.21. (Besluit gewasbeschermingsmiddelen en biociden)
 
-Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
+*Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.*
 
-##### Artikel 5.22. ([Besluit hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017626))
+##### Artikel 5.22. (Besluit hoofdspoorweginfrastructuur)
 
-Wijzigt het Besluit hoofdspoorweginfrastructuur.
+*Wijzigt het Besluit hoofdspoorweginfrastructuur.*
 
-##### Artikel 5.23. ([Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237))
+##### Artikel 5.23. (Besluit huurprijzen woonruimte)
 
-Wijzigt het Besluit huurprijzen woonruimte.
+*Wijzigt het Besluit huurprijzen woonruimte.*
 
-##### Artikel 5.24. ([Besluit informatie inzake rampen en crises](https://wetten.overheid.nl/jci1.3:c:BWBR0006755))
+##### Artikel 5.24. (Besluit informatie inzake rampen en crises)
 
-Wijzigt het Besluit informatie inzake rampen en crises.
+*Wijzigt het Besluit informatie inzake rampen en crises.*
 
-##### Artikel 5.25. ([Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040786))
+##### Artikel 5.25. (Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)
 
-Wijzigt het Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
+*Wijzigt het Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.*
 
-##### Artikel 5.26. ([Besluit infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264))
+##### Artikel 5.26. (Besluit infrastructuurfonds)
 
-Wijzigt het Besluit Infrastructuurfonds.
+*Wijzigt het Besluit Infrastructuurfonds.*
 
-##### Artikel 5.27. ([Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567))
+##### Artikel 5.27. (Besluit infrastructuur alternatieve brandstoffen)
 
-Wijzigt het Besluit infrastructuur alternatieve brandstoffen.
+*Wijzigt het Besluit infrastructuur alternatieve brandstoffen.*
 
-##### Artikel 5.28. ([Besluit inzamelen afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0016530))
+##### Artikel 5.28. (Besluit inzamelen afvalstoffen)
 
-Wijzigt het Besluit inzamelen afvalstoffen.
+*Wijzigt het Besluit inzamelen afvalstoffen.*
 
-##### Artikel 5.29. ([Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
+##### Artikel 5.29. (Besluit kerninstallaties, splijtstoffen en ertsen)
 
-Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
+*Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.*
 
-##### Artikel 5.30. ([Besluit kostenverevening reductie co2-emissies glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0030463))
+##### Artikel 5.30. (Besluit kostenverevening reductie co2-emissies glastuinbouw)
 
-Wijzigt het Besluit kostenverevening reductie CO2-emissies glastuinbouw.
+*Wijzigt het Besluit kostenverevening reductie CO2-emissies glastuinbouw.*
 
-##### Artikel 5.31. ([Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294))
+##### Artikel 5.31. (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
-Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
+*Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.*
 
-##### Artikel 5.32. ([Besluit OM-afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
+##### Artikel 5.32. (Besluit OM-afdoening)
 
-Wijzigt het Besluit OM-afdoening.
+*Wijzigt het Besluit OM-afdoening.*
 
-##### Artikel 5.33. ([Besluit organische oplosmiddelen in verven en vernissen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0019122))
+##### Artikel 5.33. (Besluit organische oplosmiddelen in verven en vernissen milieubeheer)
 
-Wijzigt het Besluit organische oplosmiddelen in verven en vernissen milieubeheer.
+*Wijzigt het Besluit organische oplosmiddelen in verven en vernissen milieubeheer.*
 
-##### Artikel 5.34. ([Besluit organisch-halogeengehalte van brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004501))
+##### Artikel 5.34. (Besluit organisch-halogeengehalte van brandstoffen)
 
-Wijzigt het Besluit organisch-halogeengehalte van brandstoffen.
+*Wijzigt het Besluit organisch-halogeengehalte van brandstoffen.*
 
-##### Artikel 5.35. ([Besluit van 15 oktober 2014, houdende regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning als bedoeld in artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0035661) (Stb. 2014, 385))
+##### Artikel 5.35. (Besluit van 15 oktober 2014, houdende regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning als bedoeld in artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet (Stb. 2014, 385))
 
-Wijzigt het Besluit regels hoofdverblijf in dezelfde woning AOW.
+*Wijzigt het Besluit regels hoofdverblijf in dezelfde woning AOW.*
 
-##### Artikel 5.36. ([Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel 5.36. (Besluit stortplaatsen en stortverboden afvalstoffen)
 
-Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
+*Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.*
 
-##### Artikel 5.37. ([Besluit subsidiëring stichting advisering bestuursrechtspraak milieu en ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0007574))
+##### Artikel 5.37. (Besluit subsidiëring stichting advisering bestuursrechtspraak milieu en ruimtelijke ordening)
 
-Wijzigt het Besluit subsidiëring stichting advisering bestuursrechtspraak milieu en ruimtelijke ordening.
+*Wijzigt het Besluit subsidiëring stichting advisering bestuursrechtspraak milieu en ruimtelijke ordening.*
 
-##### Artikel 5.38. ([Besluit van 14 december 2005, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter](https://wetten.overheid.nl/jci1.3:c:BWBR0019262) (Stb. 2005, 662)
+##### Artikel 5.38. (Besluit van 14 december 2005, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter (Stb. 2005, 662)
 
-Wijzigt het Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter.
+*Wijzigt het Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter.*
 
-##### Artikel 5.39. ([Besluit veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027844))
+##### Artikel 5.39. (Besluit veiligheidsregio’s)
 
-Wijzigt het Besluit veiligheidsregio’s.
+*Wijzigt het Besluit veiligheidsregio’s.*
 
-##### Artikel 5.40. ([Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
+##### Artikel 5.40. (Besluit vergoedingen Kernenergiewet)
 
-Wijzigt het Besluit vergoedingen Kernenergiewet.
+*Wijzigt het Besluit vergoedingen Kernenergiewet.*
 
-##### Artikel 5.41. ([Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080))
+##### Artikel 5.41. (Besluit vervoer gevaarlijke stoffen)
 
-Wijzigt het Besluit vervoer gevaarlijke stoffen.
+*Wijzigt het Besluit vervoer gevaarlijke stoffen.*
 
-##### Artikel 5.42. ([Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
+##### Artikel 5.42. (Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen)
 
-Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
+*Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.*
 
-##### Artikel 5.43. ([Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111))
+##### Artikel 5.43. (Drinkwaterbesluit)
 
-Wijzigt het Drinkwaterbesluit.
+*Wijzigt het Drinkwaterbesluit.*
 
-##### Artikel 5.44. ([Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394))
+##### Artikel 5.44. (Mijnbouwbesluit)
 
-Wijzigt het Mijnbouwbesluit.
+*Wijzigt het Mijnbouwbesluit.*
 
-##### Artikel 5.45. ([Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778))
+##### Artikel 5.45. (Productenbesluit asbest)
 
-Wijzigt het Productenbesluit asbest.
+*Wijzigt het Productenbesluit asbest.*
 
-##### Artikel 5.46. ([Scheepsafvalstoffenbesluit Rijn- en binnenvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012019))
+##### Artikel 5.46. (Scheepsafvalstoffenbesluit Rijn- en binnenvaart)
 
-Wijzigt het Scheepsafvalstoffenbesluit Rijn- en binnenvaart.
+*Wijzigt het Scheepsafvalstoffenbesluit Rijn- en binnenvaart.*
 
-##### Artikel 5.47. ([Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739))
+##### Artikel 5.47. (Subsidiebesluit openbare lichamen milieubeheer)
 
-Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
+*Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.*
 
-##### Artikel 5.48. ([Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360))
+##### Artikel 5.48. (Vuurwerkbesluit)
 
-Wijzigt het Vuurwerkbesluit.
+*Wijzigt het Vuurwerkbesluit.*
 
-##### Artikel 5.49. ([Uitvoeringsbesluit Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0019031))
+##### Artikel 5.49. (Uitvoeringsbesluit Meststoffenwet)
 
-Wijzigt het Uitvoeringsbesluit Meststoffenwet.
+*Wijzigt het Uitvoeringsbesluit Meststoffenwet.*
 
-##### Artikel 5.50. ([Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872))
+##### Artikel 5.50. (Waterbesluit)
 
-Wijzigt het Waterbesluit.
+*Wijzigt het Waterbesluit.*
 
 ### Hoofdstuk 6. Intrekking besluiten
 
@@ -350,193 +318,193 @@ De volgende besluiten worden ingetrokken:
 
 ### Hoofdstuk 7. Voormalige Rijksregels (bruidsschat)
 
-### Afdeling 7.1. Bruidsschat in omgevingsplan
+#### Afdeling 7.1. Bruidsschat in omgevingsplan
 
 ##### Artikel 7.1. (hoofdstukken bruidsschat omgevingsplan)
 
 Van het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), maken de volgende hoofdstukken en bijlage deel uit:
 
-Zie voor de tekst van het omgevingsplan Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Zie voor de tekst van het omgevingsplan Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1a. bijlage III bruidsschat omgevingsplan gemeente Boxtel
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Boxtel maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Boxtel maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Boxtel Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Boxtel Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1b. bijlage III bruidsschat omgevingsplan gemeente Horst aan de Maas
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Horst aan de Maas maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Horst aan de Maas maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Horst aan de Maas Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Horst aan de Maas Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1c. bijlage III bruidsschat omgevingsplan gemeente Maasgouw
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Maasgouw maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Maasgouw maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Maasgouw Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Maasgouw Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1d. bijlage III bruidsschat omgevingsplan gemeente Oirschot
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Oirschot maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Oirschot maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Oirschot Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Oirschot Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1e. bijlage III bruidsschat omgevingsplan gemeente Roermond
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Roermond maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Roermond maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Roermond Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Roermond Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1f. bijlage III bruidsschat omgevingsplan gemeente Tilburg
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Tilburg maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Tilburg maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Tilburg Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Tilburg Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.1g. bijlage III bruidsschat omgevingsplan gemeente Vught
 
-Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Vught maakt ook de volgende bijlage deel uit:
+Van het tijdelijke deel van het omgevingsplan, bedoeld in artikel 22.1, aanhef en onder c, van de gemeente Vught maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Vught Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage III van het omgevingsplan van de gemeente Vught Stb. 2021, 98 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).*
 
 ##### Artikel 7.2. (toelichting hoofdstukken bruidsschat omgevingsplan)
 
 Het tijdelijke deel van het omgevingsplan, bedoeld in [artikel 22.1, eerste lid, onder c, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.1), wordt voorzien van de toelichting die is opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&bijlage=I&z=2025-09-20&g=2025-09-20) bij dit besluit.
 
-### Afdeling 7.2. Bruidsschat in waterschapsverordening
+#### Afdeling 7.2. Bruidsschat in waterschapsverordening
 
 ##### Artikel 7.3. (hoofdstukken bruidsschat waterschapsverordening)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), maken de volgende hoofdstukken en bijlage deel uit:
 
-Zie voor de tekst van de waterschapsverordening Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557 en Stb. 2022, 172.
+*Zie voor de tekst van de waterschapsverordening Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557 en Stb. 2022, 172.*
 
 ##### Artikel 7.4. (bijlage bruidsschat waterschapsverordening Amstel, Gooi en Vecht)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Amstel, Gooi en Vecht maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Waterschap Amstel, Gooi en Vecht Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Waterschap Amstel, Gooi en Vecht Stb. 2020, 400.*
 
 ##### Artikel 7.5. (bijlage II bruidsschat waterschapsverordening De Stichtse Rijnlanden)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswe](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14)t, van Hoogheemraadschap De Stichtse Rijnlanden maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap De Stichtse Rijnlanden Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap De Stichtse Rijnlanden Stb. 2020, 400.*
 
 ##### Artikel 7.6. (bijlage II bruidsschat waterschapsverordening Hollands Noorderkwartier)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Hoogheemraadschap Hollands Noorderkwartier maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap Hollands Noorderkwartier Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap Hollands Noorderkwartier Stb. 2020, 400.*
 
 ##### Artikel 7.7. (bijlage II bruidsschat waterschapsverordening Delfland)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Hoogheemraadschap van Delfland maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Delfland Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Delfland Stb. 2020, 400.*
 
 ##### Artikel 7.8. (bijlage bruidsschat waterschapsverordening Rijnland)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Hoogheemraadschap van Rijnland maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Rijnland Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Rijnland Stb. 2020, 400.*
 
 ##### Artikel 7.9. (bijlage II bruidsschat waterschapsverordening Schieland en de Krimpenerwaard)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Hoogheemraadschap van Schieland en de Krimpenerwaard maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Schieland en de Krimpenerwaard Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Hoogheemraadschap van Schieland en de Krimpenerwaard Stb. 2020, 400.*
 
 ##### Artikel 7.10. (bijlage II bruidsschat waterschapsverordening Aa en Maas)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Aa en Maas maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Aa en Maas Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Aa en Maas Stb. 2020, 400.*
 
 ##### Artikel 7.11. (bijlage II bruidsschat waterschapsverordening Brabantse Delta)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Brabantse Delta maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Brabantse Delta Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Brabantse Delta Stb. 2020, 400.*
 
 ##### Artikel 7.12. (bijlage II bruidsschat waterschapsverordening De Dommel)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap De Dommel maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap De Dommel Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap De Dommel Stb. 2020, 400.*
 
 ##### Artikel 7.13. (bijlage bruidsschat waterschapsverordening Drents Overijsselse Delta)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Drents Overijsselse Delta maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Drents Overijsselse Delta Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Drents Overijsselse Delta Stb. 2020, 400.*
 
 ##### Artikel 7.14. (bijlage II bruidsschat waterschapsverordening Hollandse Delta)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Hollandse Delta maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Hollandse Delta Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Hollandse Delta Stb. 2020, 400.*
 
 ##### Artikel 7.15. (bijlage II bruidsschat waterschapsverordening Hunze en Aa’s)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Hunze en Aa’s maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Hunze en Aa’s Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Hunze en Aa’s Stb. 2020, 400.*
 
 ##### Artikel 7.16. (bijlage II bruidsschat waterschapsverordening Limburg)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Limburg maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Limburg Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Limburg Stb. 2020, 400.*
 
 ##### Artikel 7.17. (bijlage II bruidsschat waterschapsverordening Noorderzijlvest)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Noorderzijlvest maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Noorderzijlvest Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Noorderzijlvest Stb. 2020, 400.*
 
 ##### Artikel 7.18. (bijlage II bruidsschat waterschapsverordening Vechtstromen)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Vechtstromen maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Vechtstromen Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Vechtstromen Stb. 2020, 400.*
 
 ##### Artikel 7.19. (bijlage II bruidsschat waterschapsverordening Rijn en IJssel)
 
 Van de waterschapsverordening van Waterschap Rijn en IJssel maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Rijn en IJssel Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Rijn en IJssel Stb. 2020, 400.*
 
 ##### Artikel 7.20. (bijlage II bruidsschat waterschapsverordening Rivierenland)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Rivierenland maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Rivierenland Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Rivierenland Stb. 2020, 400.*
 
 ##### Artikel 7.21. (bijlage II bruidsschat waterschapsverordening Scheldestromen)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Scheldestromen maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Scheldestromen Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Scheldestromen Stb. 2020, 400.*
 
 ##### Artikel 7.22. (bijlage II bruidsschat waterschapsverordening Vallei en Veluwe)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Vallei en Veluwe maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Vallei en Veluwe Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Vallei en Veluwe Stb. 2020, 400.*
 
 ##### Artikel 7.23. (bijlage II bruidsschat waterschapsverordening Zuiderzeeland)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Waterschap Zuiderzeeland maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Zuiderzeeland Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Waterschap Zuiderzeeland Stb. 2020, 400.*
 
 ##### Artikel 7.24. (bijlage II bruidsschat waterschapsverordening Fryslân)
 
 Van de waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.14), van Wetterskip Fryslân maakt ook de volgende bijlage deel uit:
 
-Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Wetterskip Fryslân Stb. 2020, 400.
+*Deze bijlage is niet opgenomen. Zie voor de tekst van bijlage II van de waterschapsverordening van het Wetterskip Fryslân Stb. 2020, 400.*
 
 ##### Artikel 7.25. (toelichting hoofdstukken bruidsschat waterschapsverordening)
 
@@ -544,7 +512,7 @@ De waterschapsverordening, bedoeld in [artikel 22.14, eerste lid, van de Omgevin
 
 ### Hoofdstuk 8. Overgangsrecht
 
-### Afdeling 8.1. Overgangsbepalingen per onderwerp
+#### Afdeling 8.1. Overgangsbepalingen per onderwerp
 
 ##### Artikel 8.1.1. (melding, kennisgeving, andere informatieverplichting)
 
@@ -716,15 +684,39 @@ Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [art
 
 Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [artikel 4.14 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.14) voor een milieubelastende activiteit als bedoeld in [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.13), [3.106, eerste lid, onder a, b, c, d, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.106), [3.115, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.115), [3.125, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.125), [3.130, onder a, b, c, d, e, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.130), [3.137](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.137), [3.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.153), [3.164](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.164), [3.174](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.174), [3.202](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.202), [3.281](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.281) of [3.332, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.332), is geen termijn verbonden.
 
-### Afdeling 8.2. Overgangsbepalingen per ingetrokken of gewijzigd besluit
+##### Artikel 8.1.11. (geldigheid omgevingsvergunning van rechtswege instandhoudingsactiviteiten beheerder)
 
-#### § 8.2.1. Overgangsbepaling [Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609)
+Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [artikel 4.14 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.14) is geen termijn verbonden voor zover het gaat om het door of namens de waterbeheerder verrichten van een beperkingengebiedactiviteit met betrekking tot een waterstaatswerk in beheer bij het Rijk of met betrekking tot de Noordzee, voor zover het gaat om:
+
+- a. het in stand houden van een verharding die geen bouwwerk is, een opgaande houtbeplanting, een werk om oeverafslag tegen te gaan, een steiger, vlonder of aanmeervoorziening en de voorzieningen die daarbij horen of een kabel of leiding in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is, bedoeld in [artikel 6.17, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17);
+
+- b. het in stand houden van bouwwerken, werken die geen bouwwerken zijn of andere objecten in een beperkingengebied met betrekking tot een kanaal in beheer bij het Rijk, bedoeld in [artikel 6.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17);
+
+- c. het in stand houden van bouwwerken, werken die geen bouwwerken zijn of andere objecten in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.18 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.18);
+
+- d. het aanleggen of in stand houden van een terreinophoging met een volume van meer dan 50 m3 per kadastraal perceel in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.29 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29);
+
+- e. het laten staan of laten liggen van materieel, materialen of vaste substanties tussen 1 oktober en 1 april in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58);
+
+- f. het laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.59);
+
+- g. het in stand houden van een bodemverharding, een kunstmatig eiland, een installatie of een inrichting als bedoeld in artikel 60 van het VN-Zeerechtverdrag, een kabel of leiding of een bouwwerk, een werk dat geen bouwwerk is of een ander object in de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn, bedoeld in [artikel 7.17, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17);
+
+- h. het in stand houden van een bouwbord of een niet permanent bouwwerk in de periode van 1 oktober tot 1 april of het in stand houden van een kabel of leiding, een bouwwerk, een werk dat geen bouwwerk is of een ander object in de zone tussen de duinvoet en de laagwaterlijn van de Noordzee, bedoeld in [artikel 7.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17);
+
+- i. het in stand houden van een bodemophoging of landaanwinning in de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn, bedoeld in [artikel 7.28, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28); of
+
+- j. het in stand houden van een zandbanket op het strand, het verplaatsen van zand op het strand of het gecombineerd binnen een kalenderjaar verrichten van die activiteiten in de zone tussen de duinvoet en de laagwaterlijn van de Noordzee, bedoeld in [artikel 7.28, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28).
+
+#### Afdeling 8.2. Overgangsbepalingen per ingetrokken of gewijzigd besluit
+
+#### § 8.2.1. Overgangsbepaling Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken
 
 ##### Artikel 8.2.1. (beperkingenbesluiten gemeentelijke monumenten)
 
 [Artikel 2, eerste lid, van het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609&artikel=2) in samenhang met het onderdeel van de bijlage bij dat artikellid met de vermelding van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) en de daarbij behorende beschrijving onder de categorie Gemeentewet, zoals dat onderdeel luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), blijft tot het in [artikel 22.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=22.4) bedoelde tijdstip van toepassing op een beperkingenbesluit als bedoeld in dat onderdeel.
 
-#### § 8.2.2. Overgangsbepalingen [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762)
+#### § 8.2.2. Overgangsbepalingen Activiteitenbesluit milieubeheer
 
 ##### Artikel 8.2.2. (regels gemeentelijke verordeningen)
 
@@ -732,9 +724,9 @@ Een verordening als bedoeld in [artikel 2.17, zevende lid](https://wetten.overhe
 
 ##### Artikel 8.2.3. (informeren emissie zeer zorgwekkende stof)
 
-Vervallen
+*Vervallen*
 
-#### § 8.2.3. Overgangsbepaling [Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771)
+#### § 8.2.3. Overgangsbepaling Besluit algemene regels milieu mijnbouw
 
 ##### Artikel 8.2.4. (instemming en lopende procedure)
 
@@ -744,7 +736,7 @@ Vervallen
 
 3. Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een aanvraag om een instemming voor een activiteit als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0023771&artikel=5a) of [8a van het Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771&artikel=8a) is ingediend, blijft het oude recht van toepassing totdat het besluit onherroepelijk wordt.
 
-#### § 8.2.4. Overgangsbepaling [Besluit Erfgoedwet archeologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037866)
+#### § 8.2.4. Overgangsbepaling Besluit Erfgoedwet archeologie
 
 ##### Artikel 8.2.5. (gemeentelijke monumenten en voorbeschermde gemeentelijke monumenten)
 
@@ -756,9 +748,9 @@ Vervallen
 
 - b. als het gaat om een monument of archeologisch monument waarop voordat het is aangewezen de verordening van overeenkomstige toepassing is: zolang in het omgevingsplan daaraan nog niet de functie-aanduiding gemeentelijk monument is gegeven of het omgevingsplan nog geen voorbeschermingsregel bevat vanwege het voornemen om die functie-aanduiding te geven.
 
-#### § 8.2.5. Overgangsbepaling [Besluit externe veiligheid buisleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0028265)
+#### § 8.2.5. Overgangsbepaling Besluit externe veiligheid buisleidingen
 
-##### Artikel 8.2.6. (nadeelcompensatie [Besluit externe veiligheid buisleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0028265))
+##### Artikel 8.2.6. (nadeelcompensatie Besluit externe veiligheid buisleidingen)
 
 1. Het oude recht blijft van toepassing op een verzoek om schadevergoeding dat wordt ingediend binnen vijf jaar na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), als voor de inwerkingtreding van die wet schade is veroorzaakt door een onherroepelijk besluit als bedoeld in [artikel 5, eerste lid, van het Besluit externe veiligheid buisleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0028265&artikel=5).
 
@@ -774,7 +766,7 @@ Vervallen
 
 4. [Afdeling 4.1 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&afdeling=4.1) is in die gevallen niet van toepassing.
 
-#### § 8.2.6. Overgangsbepaling [Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767)
+#### § 8.2.6. Overgangsbepaling Besluit externe veiligheid inrichtingen
 
 ##### Artikel 8.2.7. (veiligheidscontour)
 
@@ -786,7 +778,7 @@ Vervallen
 
 - b. het bevoegd gezag besluit om de veiligheidscontour niet als risicogebied externe veiligheid vast te leggen in het omgevingsplan.
 
-#### § 8.2.7. Overgangsbepalingen [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003716)
+#### § 8.2.7. Overgangsbepalingen Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden
 
 ##### Artikel 8.2.8. (beschikking)
 
@@ -798,19 +790,19 @@ Vervallen
 
 Een zwemwaterprofiel als bedoeld in [artikel 44c, eerste lid, van het Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003716&artikel=44c) dat van kracht is, geldt als een zwemwaterprofiel als bedoeld in [artikel 3.6, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.6).
 
-#### § 8.2.8. Overgangsbepaling [Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061)
+#### § 8.2.8. Overgangsbepaling Besluit kwaliteitseisen en monitoring water 2009
 
 ##### Artikel 8.2.10. (monitoringsprogramma)
 
 Een monitoringsprogramma als bedoeld in [artikel 13 van het Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061&artikel=13) dat van kracht is, geldt als een monitoringsprogramma als bedoeld in [artikel 10.14b van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=10.14b).
 
-#### § 8.2.9. Overgangsbepaling [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
+#### § 8.2.9. Overgangsbepaling Besluit omgevingsrecht
 
 ##### Artikel 8.2.11. (regels gemeentelijke verordening interferentiegebied)
 
 Een verordening als bedoeld in [artikel 2.2b, eerste lid, van het Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464&artikel=2.2b) die van kracht is, blijft tot een bij koninklijk besluit te bepalen tijdstip gelden.
 
-#### § 8.2.10. Overgangsbepalingen [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791)
+#### § 8.2.10. Overgangsbepalingen Besluit risico’s zware ongevallen 2015
 
 ##### Artikel 8.2.12. (aanwijzing domino-effecten Seveso-inrichting)
 
@@ -826,19 +818,19 @@ Een aanwijzing als bedoeld in [artikel 8, eerste lid, van het Besluit risico’s
 
 - c. als de beschikking gaat om de oplegging van een last onder dwangsom:
 
-- 1°. de last volledig is uitgevoerd;
+   - 1°. de last volledig is uitgevoerd;
 
-- 2°. de dwangsom volledig is verbeurd en betaald; of
+   - 2°. de dwangsom volledig is verbeurd en betaald; of
 
-- 3°. de last is opgeheven.
+   - 3°. de last is opgeheven.
 
 2. Als voor de inwerkingtreding van [afdeling 13.3 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&afdeling=13.3) een bestuurlijke boete als bedoeld in [artikel 17, tweede lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=17) is opgelegd, blijft het oude recht van toepassing tot het tijdstip waarop de beschikking onherroepelijk is geworden of is ingetrokken.
 
-##### Artikel 8.2.14. ([Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): waarschuwing)
+##### Artikel 8.2.14. (Arbeidsomstandighedenwet: waarschuwing)
 
 Een waarschuwing als bedoeld in [artikel 18, eerste lid, van het Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791&artikel=18) geldt als een waarschuwing als bedoeld in [artikel 13.28, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.28).
 
-##### Artikel 8.2.15. ([Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346): eis tot naleving en bevel tot stillegging)
+##### Artikel 8.2.15. (Arbeidsomstandighedenwet: eis tot naleving en bevel tot stillegging)
 
 Als voor de inwerkingtreding van [afdeling 13.3 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&afdeling=13.3) in verband met de niet-naleving van een bij of krachtens het [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791) gestelde verplichting een eis tot naleving als bedoeld in [artikel 27 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=27) of een bevel tot stillegging van het werk als bedoeld in [artikel 28 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=28) is opgelegd, blijft het oude recht van toepassing tot het tijdstip waarop:
 
@@ -846,37 +838,37 @@ Als voor de inwerkingtreding van [afdeling 13.3 van het Omgevingsbesluit](https:
 
 - b. de beschikking is ingetrokken of is komen te vervallen.
 
-#### § 8.2.10a. Overgangsbepaling [Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798)
+#### § 8.2.10a. Overgangsbepaling Besluit ruimtelijke ordening
 
 ##### Artikel 8.2.15a. (regels gemeentelijke doelgroepenverordeningen)
 
 Een verordening als bedoeld in [artikel 1.1.1, eerste lid, onder d, e of j, van het Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798&artikel=1.1.1) die van kracht is, blijft uiterlijk tot een bij koninklijk besluit te bepalen tijdstip gelden.
 
-#### § 8.2.11. Overgangsbepaling [Besluit uitvoering Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027929)
+#### § 8.2.11. Overgangsbepaling Besluit uitvoering Crisis- en herstelwet
 
 ##### Artikel 8.2.16. (experiment)
 
 Op experimenten als bedoeld in [paragraaf 3 van het Besluit uitvoering Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027929&paragraaf=3) die op grond van [artikel 4.30 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.30) berusten op [artikel 23.3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.3), wordt hetgeen bepaald is in het derde lid, onder a, b, c, f en i, van dat artikel geacht besloten te liggen in de oorspronkelijke aanwijzing van die experimenten.
 
-#### § 8.2.11a. Overgangsbepaling [Besluit veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027844)
+#### § 8.2.11a. Overgangsbepaling Besluit veiligheidsregio’s
 
 ##### Artikel 8.2.16a. (aanwijzing bedrijfsbrandweer)
 
 Voor een aanwijzing als inrichting die over een bedrijfsbrandweer moet beschikken, op grond van [artikel 31, eerste lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=31) zoals die luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), geldt de begrenzing van die inrichting als de begrenzing van de locatie waarop de aanwijzing om te beschikken over een bedrijfsbrandweer van toepassing is, bedoeld in [artikel 7.3, derde lid, van het Besluit veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027844&artikel=7.3).
 
-#### § 8.2.12. Overgangsbepalingen [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461)
+#### § 8.2.12. Overgangsbepalingen Bouwbesluit 2012
 
 ##### Artikel 8.2.17. (gelijkwaardige oplossing)
 
 Een gelijkwaardige oplossing voor bouwwerken of het gebruik daarvan als bedoeld in [artikel 1.3, eerste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.3) geldt als een toestemming als bedoeld in [artikel 4.7, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.7).
 
-##### Artikel 8.2.18. (langdurig overgangsrecht [Bouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012727))
+##### Artikel 8.2.18. (langdurig overgangsrecht Bouwbesluit)
 
-1. [Afdeling 4.11 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&afdeling=4.11) zoals die afdeling luidde voor 1 april 2012 blijft tot 1 april 2022 van toepassing, tenzij in het op het bouwen van toepassing zijnde omgevingsplan voorschriften over de stallingruimte voor fietsen zijn opgenomen.
+1. [Afdeling 4.11 van het Bouwbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0012727&afdeling=4.11) zoals die afdeling luidde voor 1 april 2012 blijft tot 1 april 2022 van toepassing, tenzij in het op het bouwen van toepassing zijnde omgevingsplan voorschriften over de stallingruimte voor fietsen zijn opgenomen.
 
 2. Op een route als bedoeld in [artikel 3.98 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.98) waarop voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)[artikel 9.2, achtste lid, van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=9.2) van toepassing was, blijft het oude recht van toepassing.
 
-#### § 8.2.13. Overgangsbepalingen [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858)
+#### § 8.2.13. Overgangsbepalingen Stortbesluit bodembescherming
 
 ##### Artikel 8.2.19. (gedoogplichtbeschikking)
 
@@ -886,7 +878,7 @@ Een gedoogplichtbeschikking als bedoeld in [artikel 15 van het Stortbesluit bode
 
 [Hoofdstuk IIIa van het Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&hoofdstuk=IIIa) blijft van toepassing op het experiment duurzaam stortbeheer totdat uitvoering is gegeven aan [artikel 17f](https://wetten.overheid.nl/jci1.3:c:BWBR0005858&artikel=17f) van dat hoofdstuk.
 
-#### § 8.2.14. Overgangsbepaling [Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872)
+#### § 8.2.14. Overgangsbepaling Waterbesluit
 
 ##### Artikel 8.2.21. (initiële beoordeling, omschrijving goede milieutoestand en milieudoelen)
 
@@ -896,15 +888,15 @@ Een gedoogplichtbeschikking als bedoeld in [artikel 15 van het Stortbesluit bode
 
 3. De op grond van [artikel 8.1a, tweede lid, van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=8.1a) vastgestelde milieudoelen en bijbehorende indicatoren, gelden als de op grond van [artikel 3.1, aanhef en onder c, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.1) vastgestelde milieudoelen en bijbehorende indicatoren.
 
-### Afdeling 8.3. Overgangsbepalingen per ingetrokken of gewijzigde wet
+#### Afdeling 8.3. Overgangsbepalingen per ingetrokken of gewijzigde wet
 
-#### § 8.3.1. Overgangsbepaling [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
+#### § 8.3.1. Overgangsbepaling Waterwet
 
 ##### Artikel 8.3.1. (verslag veiligheid primaire waterkeringen)
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 11.15 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.15) en [artikel 10.28a van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.28a) treden in werking met ingang van 1 januari van het eerste kalenderjaar na het kalenderjaar waarin het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) en het [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278) in werking zijn getreden. Tot dat tijdstip blijft [artikel 2.12, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.12), zoals dat luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en de regels die bij of krachtens deze bepaling zijn gesteld van toepassing.
 
-#### § 8.3.2. Overgangsbepalingen [Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0002660)
+#### § 8.3.2. Overgangsbepalingen Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden
 
 ##### Artikel 8.3.2. (ontheffing)
 
@@ -916,11 +908,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Een besluit tot het aanwijzen van een locatie als bedoeld in [artikel 10b, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0002660&artikel=10b) dat onherroepelijk is, geldt als een besluit tot het aanwijzen van een zwemlocatie als bedoeld in [artikel 3.2 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.2).
 
-#### § 8.3.3. Overgangsbepaling [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
+#### § 8.3.3. Overgangsbepaling Wet milieubeheer
 
 ##### Artikel 8.3.4. (emissies EG-verordening PRTR en het PRTR-protocol)
 
-De [artikelen 5.8 tot en met 5.11 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.10) treden in werking met ingang van 1 januari van het eerste kalenderjaar na het kalenderjaar waarin het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) in werking is getreden. Tot dat tijdstip blijft [titel 12.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=12.3), zoals deze luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en de regels die bij of krachtenarts deze titel zijn gesteld van toepassing.
+De [artikelen 5.8 tot en met 5.11 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.10) treden in werking met ingang van 1 januari van het eerste kalenderjaar na het kalenderjaar waarin het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) in werking is getreden. Tot dat tijdstip blijft [titel 12.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=12.3), zoals deze luidde voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), en de regels die bij of krachtenarts deze titel zijn gesteld van toepassing.
 
 ### Hoofdstuk 9. Slotbepalingen
 
@@ -963,87 +955,3 @@ kan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de nummering van
 - a. het eerste en tweede lid: wordt de vernummerde tekst van het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330), het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) en het [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278) in het Staatsblad geplaatst;
 
 - b. het tweede lid: wordt de vernummerde tekst van de overige hoofdstukken respectievelijk de overige artikelen van de besluiten, genoemd in het eerste lid, onder a tot en met e, in het Staatsblad geplaatst.
-
-## Bijlage I. behorend bij [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.1&artikel=7.2&z=2024-04-01&g=2024-04-01)
-
-Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
-
-## Bijlage I. behorend bij [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.1&artikel=7.2&z=2025-09-20&g=2025-09-20)
-
-Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijzigingen in Stb. 2020, 557, Stb. 2021, 98, Stb. 2022, 172, Stb. 2022, 181 en de Verbeterbladen bij Stb. 2021, 98 (d.d. 14-12-2021 en 13-1-2022).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 8.1.11. (geldigheid omgevingsvergunning van rechtswege instandhoudingsactiviteiten beheerder)
-
-Aan de geldigheid van een omgevingsvergunning van rechtswege als bedoeld in [artikel 4.14 van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.14) is geen termijn verbonden voor zover het gaat om het door of namens de waterbeheerder verrichten van een beperkingengebiedactiviteit met betrekking tot een waterstaatswerk in beheer bij het Rijk of met betrekking tot de Noordzee, voor zover het gaat om:
-
-- a. het in stand houden van een verharding die geen bouwwerk is, een opgaande houtbeplanting, een werk om oeverafslag tegen te gaan, een steiger, vlonder of aanmeervoorziening en de voorzieningen die daarbij horen of een kabel of leiding in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is, bedoeld in [artikel 6.17, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17);
-
-- b. het in stand houden van bouwwerken, werken die geen bouwwerken zijn of andere objecten in een beperkingengebied met betrekking tot een kanaal in beheer bij het Rijk, bedoeld in [artikel 6.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17);
-
-- c. het in stand houden van bouwwerken, werken die geen bouwwerken zijn of andere objecten in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.18 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.18);
-
-- d. het aanleggen of in stand houden van een terreinophoging met een volume van meer dan 50 m3 per kadastraal perceel in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.29 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29);
-
-- e. het laten staan of laten liggen van materieel, materialen of vaste substanties tussen 1 oktober en 1 april in een beperkingengebied met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, bedoeld in [artikel 6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58);
-
-- f. het laten staan of laten liggen van materieel, materialen of vaste substanties in een beperkingengebied met betrekking tot een waterkering in beheer bij het Rijk, bedoeld in [artikel 6.59 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.59);
-
-- g. het in stand houden van een bodemverharding, een kunstmatig eiland, een installatie of een inrichting als bedoeld in artikel 60 van het VN-Zeerechtverdrag, een kabel of leiding of een bouwwerk, een werk dat geen bouwwerk is of een ander object in de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn, bedoeld in [artikel 7.17, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17);
-
-- h. het in stand houden van een bouwbord of een niet permanent bouwwerk in de periode van 1 oktober tot 1 april of het in stand houden van een kabel of leiding, een bouwwerk, een werk dat geen bouwwerk is of een ander object in de zone tussen de duinvoet en de laagwaterlijn van de Noordzee, bedoeld in [artikel 7.17, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.17);
-
-- i. het in stand houden van een bodemophoging of landaanwinning in de Noordzee buiten de zone tussen de duinvoet en de laagwaterlijn, bedoeld in [artikel 7.28, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28); of
-
-- j. het in stand houden van een zandbanket op het strand, het verplaatsen van zand op het strand of het gecombineerd binnen een kalenderjaar verrichten van die activiteiten in de zone tussen de duinvoet en de laagwaterlijn van de Noordzee, bedoeld in [artikel 7.28, tweede lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.28).
-
-### Afdeling 8.2. Overgangsbepalingen per ingetrokken of gewijzigd besluit
-
-#### § 8.2.1. Overgangsbepaling [Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609)
-
-#### § 8.2.2. Overgangsbepalingen [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762)
-
-#### § 8.2.3. Overgangsbepaling [Besluit algemene regels milieu mijnbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0023771)
-
-#### § 8.2.4. Overgangsbepaling [Besluit Erfgoedwet archeologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037866)
-
-#### § 8.2.5. Overgangsbepaling [Besluit externe veiligheid buisleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0028265)
-
-#### § 8.2.6. Overgangsbepaling [Besluit externe veiligheid inrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0016767)
-
-#### § 8.2.7. Overgangsbepalingen [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003716)
-
-#### § 8.2.8. Overgangsbepaling [Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061)
-
-#### § 8.2.9. Overgangsbepaling [Besluit omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0027464)
-
-#### § 8.2.10. Overgangsbepalingen [Besluit risico’s zware ongevallen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036791)
-
-#### § 8.2.10a. Overgangsbepaling [Besluit ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0023798)
-
-#### § 8.2.11. Overgangsbepaling [Besluit uitvoering Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027929)
-
-#### § 8.2.11a. Overgangsbepaling [Besluit veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027844)
-
-#### § 8.2.12. Overgangsbepalingen [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461)
-
-#### § 8.2.13. Overgangsbepalingen [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858)
-
-#### § 8.2.14. Overgangsbepaling [Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872)
-
-### Afdeling 8.3. Overgangsbepalingen per ingetrokken of gewijzigde wet
-
-#### § 8.3.1. Overgangsbepaling [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458)
-
-#### § 8.3.2. Overgangsbepalingen [Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0002660)
-
-#### § 8.3.3. Overgangsbepaling [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
-
-### Hoofdstuk 9. Slotbepalingen
-
-## Bijlage II. behorend bij [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0044923&hoofdstuk=7&afdeling=7.2&artikel=7.25&z=2025-09-20&g=2025-09-20)
-
-Deze bijlage is niet opgenomen. Zie voor de tekst van deze bijlage Stb. 2020, 400 en de wijziging in Stb. 2022, 172.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

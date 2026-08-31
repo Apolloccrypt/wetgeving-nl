@@ -1,92 +1,48 @@
 ---
 title: "Besluitvorming aanvulling taallijst (1)"
 identifier: "BWBR0044735"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-01-23"
-last_updated: "2021-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044735"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15818263"
-version_id: "27457112"
-internal_id: "C38757371"
-label_id: "15755544"
-dtd_version: "2.0"
-original_entry_into_force: "2021-01-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044735/2021-01-23/0"
-intitule_bron: "Stcrt.2021-2833"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-14"
-intitule_published: "2021-01-22"
-intitule_in_force: "2021-01-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-2833"
-original_signed_date: "2021-01-14"
-original_published_date: "2021-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-2833"
-entry_into_force_date: "2021-01-23"
-jci_1_3: "jci1.3:c:BWBR0044735&z=2021-01-23&g=2021-01-23"
-jci_1_0: "1.0:c:BWBR0044735&g=2021-01-23"
-citeertitel_status: "officieel"
-signed_date: "2021-01-14"
-entry_into_force: "2021-01-23"
+publicatiedatum: 2021-01-23
+laatste_update: 2021-01-23
+status: geldig
+toestand: 2021-01-23
+bron: "https://wetten.overheid.nl/BWBR0044735"
+opgehaald: 2026-08-31
 ---
+
 # Besluitvorming aanvulling taallijst (1)
 
-**Overwegende dat:**
+- – Het Bobo slechts in de gesproken variant in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Adviescommissie Talen Wbtv zijn grondslag vindt in de [Regeling van de Raad voor Rechtsbijstand van 6 augustus 2015, houdende de instelling van de Adviescommissie Talen Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036939) (Stcrt 2015, nr. 25102);
+- – Het Albanees (Kosovaars) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Adviescommissie Talen Wbtv advies uitbrengt over de wettelijke competentie Taalvaardigheid;
+- – Het Chimini slechts in de gesproken variant in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Raad voor Rechtsbijstand aanleiding heeft gezien om advies in te winnen bij de Adviescommissie Talen Wbtv omtrent het aanvullen van de taallijst;
+- – Het Chinees (Min Dong) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-De Adviescommissie Talen Wbtv op 9 oktober 2020 advies heeft uitgebracht;
+- – Het Chinees (Wenzhou) niet in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-**Stelt vast dat:**
+- – Het Chinees (Wenzhou) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen als niet-voorkeursnaam voor het Chinees (Wú);
 
-Het Bobo niet ruim schriftelijk wordt gebruikt;
+- – Het Dangme slechts in de gesproken variant in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Albanees (Kosovaars) een variant is van het Albanees zoals dat wordt gesproken en gebruikt in Albanië en Kosovo;
+- – Het Ede in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Chimini, ook wel Chimwiini genoemd, een variant is van het Swahili;
+- – Het Koerdisch (Feyli) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Chimini voornamelijk een gesproken taal is;
+- – Het Koerdisch (Feyli) als niet-voorkeursnaam voor het Lori wordt verwijderd van de door de Raad voor Rechtsbijstand gehanteerde taallijst;
 
-Het Oostelijk Min Chinees een niet-voorkeursnaam is voor het Chinees (Min Dong);
+- – Het Gen in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Wenzhounees een niet-voorkeursnaam is voor het Chinees (Wenzhou);
+- – Het Siraiki niet als aparte taal in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Chinees (Wenzhou) behoort tot de Wu-talen;
+- – Het Sarnami in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Dangbe en het Adangbe niet-voorkeursnamen zijn voor het Dangme;
+- – Het Patois als niet-voorkeursnaam voor het Creools Frans (Haïti) wordt opgenomen op de door de Raad voor Rechtsbijstand gehanteerde taallijst;
 
-Het Dangme niet ruim schriftelijk wordt gebruikt;
+- – Het Zuidelijk Min Chinees als niet-voorkeursnaam voor het Chinees (min Nan) wordt opgenomen op de door de Raad voor Rechtsbijstand gehanteerde taallijst.
 
-Het Ana, het Kamboli en het (Noordelijk) Nago niet-voorkerusnamen zijn voor het Ede;
+*Slotbepalingen*
 
-Het Koerdisch (Feyli) behoort tot de Zuid-Koerdische talen;
-
-Het Koerdisch (Feyli) in de door de Raad voor Rechtsbijstand gehanteerde taallijst is opgenomen als de niet-voorkeursnaam voor het Lori.
-
-Het Mina een niet-voorkeursnaam is voor het Gen;
-
-Het Seraiki, het Sairaiki, het Multani, het Riasti, het Bahwalpuri, het Derawali en het Westelijk (niet Zuidelijk) Panjabi niet-voorkeursnamen zijn voor het Siraiki;
-
-Het Sarnami ook wel het Sarnami Hindi en het Sarnami Hindoestani wordt genoemd;
-
-Het Patoiseen niet-voorkeursnaam is voor het Creools Frans, dat wordt gesproken in Haïti;
-
-Het Zuidelijk Min Chinees een niet-voorkeursnaam is voor het Chinees (Min Nan).
-
-**Besluit dat:**
-
-**Slotbepalingen**
-
-Dit besluit wordt aangehaald als ‘**Besluitvorming aanvulling taallijst (1)’**.
-
-Bekendmaking vindt plaats door publicatie in de Staatscourant.
-
-Dit besluit treedt in werking één dag na publicatie in de Staatscourant.
+Dit besluit wordt aangehaald als ‘*Besluitvorming aanvulling taallijst (1)’*.

@@ -1,59 +1,30 @@
 ---
 title: "Wet van 17 maart 2021, houdende regels ter uitvoering van de EU-verordening betreffende het programma voor onderwijs, opleiding, jeugd en sport en de EU-verordening betreffende het programma Europees Solidariteitskorps (Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps)"
+citeertitel: "Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps"
 identifier: "BWBR0045054"
-country: "nl"
-rank: "wet"
-publication_date: "2021-07-03"
-last_updated: "2021-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045054"
+categorie: "Onderwijs"
 soort: "wet"
-stam_id: "15933063"
-version_id: "27719092"
-internal_id: "C39298441"
-label_id: "15867734"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045054/2021-07-03/0"
-intitule_bron: "Stb.2021-186"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-17"
-intitule_published: "2021-04-19"
-intitule_in_force: "2021-07-02"
-intitule_status: "goed"
-original_publication: "Stb.2021-186"
-original_signed_date: "2021-03-17"
-original_published_date: "2021-04-19"
-original_effect: "nieuwe-regeling"
-original_dossier: "35658"
-original_url_id: "stb-2021-186"
-entry_into_force_date: "2021-07-03"
-jci_1_3: "jci1.3:c:BWBR0045054&z=2021-07-03&g=2021-07-03"
-jci_1_0: "1.0:c:BWBR0045054&g=2021-07-03"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps"
-signed_date: "2021-03-17"
-entry_into_force: "2021-07-03"
+publicatiedatum: 2021-07-03
+laatste_update: 2021-07-03
+status: geldig
+toestand: 2021-07-03
+bron: "https://wetten.overheid.nl/BWBR0045054"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 17 maart 2021, houdende regels ter uitvoering van de EU-verordening betreffende het programma voor onderwijs, opleiding, jeugd en sport en de EU-verordening betreffende het programma Europees Solidariteitskorps (Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen in verband met de uitvoering van verordeningen inzake het programma voor onderwijs opleiding, jeugd en sport en het programma Europees Solidariteitskorps;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
-- **Erasmusverordening:** door Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen verordening van het Europees Parlement en de Raad betreffende het programma van de Unie voor onderwijs, opleiding, jeugd en sport op grond van artikel 165, vierde lid en artikel 166, vierde lid van het Verdrag betreffende de werking van de Europese Unie;
+- *Erasmusverordening:* door Onze Minister van Onderwijs, Cultuur en Wetenschap aan te wijzen verordening van het Europees Parlement en de Raad betreffende het programma van de Unie voor onderwijs, opleiding, jeugd en sport op grond van artikel 165, vierde lid en artikel 166, vierde lid van het Verdrag betreffende de werking van de Europese Unie;
 
-- **Erasmusprogramma:** programma voor onderwijs, opleiding, jeugd en sport als bedoeld in de Erasmus-verordening;
+- *Erasmusprogramma:* programma voor onderwijs, opleiding, jeugd en sport als bedoeld in de Erasmus-verordening;
 
-- **programmaperiode:** in een Erasmusverordening of een Verordening Europees Solidariteitskorps vastgestelde periode waarvoor een programma wordt opgesteld;
+- *programmaperiode:* in een Erasmusverordening of een Verordening Europees Solidariteitskorps vastgestelde periode waarvoor een programma wordt opgesteld;
 
-- **Verordening Europees Solidariteitskorps:** door Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen verordening van het Europees Parlement en de Raad tot vaststelling van het programma «Europees Solidariteitskorps» op grond van artikel 165, vierde lid en artikel 166, vierde lid van het Verdrag betreffende de werking van de Europese Unie.
+- *Verordening Europees Solidariteitskorps:* door Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen verordening van het Europees Parlement en de Raad tot vaststelling van het programma «Europees Solidariteitskorps» op grond van artikel 165, vierde lid en artikel 166, vierde lid van het Verdrag betreffende de werking van de Europese Unie.
 
 ##### Artikel 2. De nationale autoriteit
 
@@ -92,5 +63,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 7. Citeertitel
 
 Deze wet wordt aangehaald als: Uitvoeringswet Erasmusprogramma en Europees Solidariteitskorps
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

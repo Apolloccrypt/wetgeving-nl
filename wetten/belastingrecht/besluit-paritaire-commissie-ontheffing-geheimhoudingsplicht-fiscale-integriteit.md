@@ -1,70 +1,44 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, d.d. 14 juli 2021 kenmerk 2021 140356, houdende de instelling van de paritaire commissie advisering ontheffing geheimhoudingsplicht artikel 67 van de Algemene wet inzake rijksbelastingen dan wel artikel 67 van de Invorderingswet 1990 in het kader van fiscale integriteit (Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit)"
+citeertitel: "Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit"
 identifier: "BWBR0045468"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-07-24"
-last_updated: "2021-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045468"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "16036823"
-version_id: "27927402"
-internal_id: "C39378661"
-label_id: "15970024"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045468/2021-07-24/0"
-intitule_bron: "Stcrt.2021-36208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-14"
-intitule_published: "2021-07-23"
-intitule_in_force: "2021-07-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-36208"
-original_signed_date: "2021-07-14"
-original_published_date: "2021-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-36208"
-entry_into_force_date: "2021-07-24"
-jci_1_3: "jci1.3:c:BWBR0045468&z=2021-07-24&g=2021-07-24"
-jci_1_0: "1.0:c:BWBR0045468&g=2021-07-24"
-citeertitel_status: "officieel"
-short_title: "Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit"
-signed_date: "2021-07-14"
-entry_into_force: "2021-07-24"
+publicatiedatum: 2021-07-24
+laatste_update: 2021-07-24
+status: geldig
+toestand: 2021-07-24
+bron: "https://wetten.overheid.nl/BWBR0045468"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst, d.d. 14 juli 2021 kenmerk 2021 140356, houdende de instelling van de paritaire commissie advisering ontheffing geheimhoudingsplicht artikel 67 van de Algemene wet inzake rijksbelastingen dan wel artikel 67 van de Invorderingswet 1990 in het kader van fiscale integriteit (Besluit paritaire commissie ontheffing geheimhoudingsplicht fiscale integriteit)
-
-Gelet op [artikel 67, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67), [artikel 67, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67), [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), en hoofdstuk 13 van het Personeelsreglement Financiën;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** Ministerie van Financiën
+- a. *ministerie:* Ministerie van Financiën
 
-- b. **staatssecretaris:** Staatssecretaris van Financiën;
+- b. *staatssecretaris:* Staatssecretaris van Financiën;
 
-- c. **de werkgever:** de Staat der Nederlanden, vertegenwoordigd door de Minister van Financiën;
+- c. *de werkgever:* de Staat der Nederlanden, vertegenwoordigd door de Minister van Financiën;
 
-- d. **inspecteur:** inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- d. *inspecteur:* inspecteur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- e. **ontvanger:** ontvanger als bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
+- e. *ontvanger:* ontvanger als bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
 
-- f. **ontheffing:** ontheffing van de geheimhoudingsplicht als bedoeld in [artikel 67, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) dan wel [artikel 67, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67);
+- f. *ontheffing:* ontheffing van de geheimhoudingsplicht als bedoeld in [artikel 67, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) dan wel [artikel 67, derde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67);
 
-- g. **SG:** secretaris-generaal van het ministerie;
+- g. *SG:* secretaris-generaal van het ministerie;
 
-- h. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=2&z=2021-07-24&g=2021-07-24);
+- h. *Commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045468&artikel=2&z=2021-07-24&g=2021-07-24);
 
-- i. **medezeggenschap:** de departementale ondernemingsraad van het ministerie;
+- i. *medezeggenschap:* de departementale ondernemingsraad van het ministerie;
 
-- j. **vakbonden:** de vakbonden vertegenwoordigd in het Departementaal georganiseerd overleg van het ministerie;
+- j. *vakbonden:* de vakbonden vertegenwoordigd in het Departementaal georganiseerd overleg van het ministerie;
 
-- k. **ambtenaar:** degene die op basis van een arbeidsovereenkomst met de Staat der Nederlanden, werkzaam is bij het ministerie.
+- k. *ambtenaar:* degene die op basis van een arbeidsovereenkomst met de Staat der Nederlanden, werkzaam is bij het ministerie.
 
 ##### Artikel 2. Instelling
 
@@ -162,7 +136,7 @@ De adviezen en de dossiers van de Commissie worden jaarlijks na afronding van de
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2021.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2021.
 
 ##### Artikel 12. Citeertitel
 

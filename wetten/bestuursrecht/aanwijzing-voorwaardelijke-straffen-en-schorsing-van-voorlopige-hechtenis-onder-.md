@@ -1,44 +1,37 @@
 ---
 title: "Aanwijzing voorwaardelijke straffen en schorsing van voorlopige hechtenis onder voorwaarden"
 identifier: "BWBR0044666"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044666"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "15801043"
-version_id: "27395692"
-internal_id: "C38683161"
-label_id: "15739124"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044666/2021-03-01/0"
-intitule_bron: "Stcrt.2020-62553"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-31"
-intitule_in_force: "2020-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62553"
-original_published_date: "2020-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62553"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044666&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0044666&g=2021-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0044666"
+opgehaald: 2026-08-31
 ---
+
 # Aanwijzing voorwaardelijke straffen en schorsing van voorlopige hechtenis onder voorwaarden
 
 ### Samenvatting
 
 Deze aanwijzing geeft regels voor de taken en verantwoordelijkheden van het openbaar ministerie (OM) bij:
 
+- 1. de uitvoering van de wettelijke regeling van de voorwaardelijke veroordeling bij meerderjarigen;1Bijzondere voorwaarden kunnen ook worden opgelegd bij een strafbeschikking (in de vorm van een aanwijzing), een gedragsaanwijzing, een tbs-maatregel met voorwaarden, de voorwaardelijke beëindiging van de verpleging bij een tbs-maatregel, de voorwaardelijke invrijheidstelling, een voorwaardelijke ISD-maatregel, de gedragsbeïnvloedende en vrijheidsbeperkende maatregel, en gratieverlening. Deze vallen buiten het toepassingsbereik van deze aanwijzing. Voor het beleid ten aanzien van jeugdigen geldt een separate aanwijzing.
+
+- 2. de toepassing van de bijzondere voorwaarden in de fase van de voorlopige hechtenis en de vordering van de bijzondere voorwaarden;
+
+- 3. de tenuitvoerlegging van de bijzondere voorwaarden en de procedurele regels voor het toezicht op de naleving.
+
 Deze aanwijzing beoogt te bevorderen dat bijzondere voorwaarden adequaat worden toegepast met het oog op het terugdringen van recidive en het beschermen van de samenleving en het slachtoffer. Daarnaast beoogt de aanwijzing een goede aansluiting van de verschillende schakels binnen de executieketen te bewerkstelligen.
 
 Het vorderen van bijzondere voorwaarden is aan de orde indien:
+
+- 1. herstel van geleden schade geboden is;
+
+- 2. beperking van de bewegingsvrijheid van verdachte geboden is;
+
+- 3. zorg en/of gedragsinterventie geboden is.
 
 De in de wet genoemde bijzondere voorwaarden kunnen, op enkele voorwaarden na, onderdeel zijn van zowel de schorsingsbeschikking (voorlopige hechtenis) als het vonnis.
 
@@ -52,7 +45,7 @@ Het OM heeft als partij in het primaire proces een rol in de tenuitvoerlegging v
 
 ### 1.1. Toepassingsbereik
 
-De aanwijzing richt zich op het toepassen van algemene en bijzondere voorwaarden bij de schorsing van de voorlopige hechtenis ([art. 80, eerste lid van het Wetboek van Strafvordering (Sv)](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80)) en de voorwaardelijke straf. Alle in de wet genoemde bijzondere voorwaarden kunnen onderdeel zijn van zowel de schorsingsbeschikking als het vonnis, met uitzondering van enkele herstellende voorwaarden als bedoeld in paragraaf 2.3 van deze aanwijzing, die niet bij de schorsingsbeschikking kunnen worden gevorderd.
+De aanwijzing richt zich op het toepassen van algemene en bijzondere voorwaarden bij de schorsing van de voorlopige hechtenis ([art. 80, eerste lid van het Wetboek van Strafvordering (Sv)](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=80)) en de voorwaardelijke straf. Alle in de wet genoemde bijzondere voorwaarden kunnen onderdeel zijn van zowel de schorsingsbeschikking als het vonnis, met uitzondering van enkele herstellende voorwaarden als bedoeld in [paragraaf 2.3](https://wetten.overheid.nl/BWBR0044666) van deze aanwijzing, die niet bij de schorsingsbeschikking kunnen worden gevorderd.
 
 ### 1.2. Algemene voorwaarden
 
@@ -60,17 +53,37 @@ Bij de voorwaardelijke straf geldt de volgende algemene voorwaarde: de veroordee
 
 Bij een schorsing onder voorwaarden wordt steeds opgenomen:
 
+- 1° dat de verdachte, indien de opheffing der schorsing mocht worden bevolen, zich aan de tenuitvoerlegging van het bevel tot voorlopige hechtenis niet zal onttrekken;
+
+- 2° dat de verdachte, ingeval hij wegens het feit, waarvoor de voorlopige hechtenis is bevolen, tot andere dan vervangende vrijheidsstraf mocht worden veroordeeld, zich aan de tenuitvoerlegging daarvan niet zal onttrekken;
+
+- 3° dat de verdachte, voor zover aan de schorsing voorwaarden zijn verbonden betreffende het gedrag van de verdachte, ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt. 6Zie art. 80 Sv.
+
 ### 1.3. Bijzondere voorwaarden
 
 De wet onderscheidt veertien verschillende bijzondere voorwaarden. Deze kunnen we indelen in vijf
 
 categorieën:
 
+- 1. Herstellende voorwaarden (schadevergoeding, waarborgsom);
+
+- 2. Vrijheidsbeperkende voorwaarden (locatie-/contactverbod, locatiegebod, meldplicht);
+
+- 3. Gedragsbeïnvloedende voorwaarden (verbod gebruik drugs en/of alcohol, gedragsinterventies);
+
+- 4. Op zorg gerichte voorwaarden (klinische zorg, ambulante zorg, maatschappelijke opvang);
+
+- 5. Overige voorwaarden (andere gedragsaanwijzingen).
+
 In combinatie met een bijzondere voorwaarde kan de rechter de reclassering 7Met ‘de reclassering’ worden in deze aanwijzing de drie erkende reclasseringsorganisaties bedoeld: Reclassering Nederland, Stichting Verslavingsreclassering GGZ, Leger des Heils Reclassering. opdracht geven om toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. In het geval van vrijheidsbeperkende voorwaarden heeft de politie een handhavende taak.
 
 Aan een bijzondere voorwaarde kan tevens elektronisch toezicht worden verbonden ([art. 14c lid 4 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c)).
 
 Wanneer de rechter bijzondere voorwaarden oplegt en opdracht geeft tot reclasseringstoezicht, geldt van rechtswege, dat de veroordeelde
+
+- 1. Ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van één of meer vingerafdrukken of een identiteitsbewijs als bedoeld in [artikel 1 van de wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) ter inzage aanbiedt; en
+
+- 2. medewerking verleent aan het reclasseringstoezicht, daaronder begrepen de medewerking aan huisbezoeken en het zich melden bij de reclassering zo vaak en zolang als de reclassering dat nodig acht.
 
 ### 2. Het vorderen van bijzondere voorwaarden
 
@@ -86,11 +99,17 @@ Op lokaal of regionaal niveau kunnen nadere afspraken worden gemaakt op basis va
 
 De officier van justitie die overweegt om te verzoeken om schorsing van de voorlopige hechtenis onder voorwaarden of om bijzondere voorwaarden te vorderen op zitting, vraagt in een vroegtijdig stadium aan de reclassering advies daarover, ook indien sprake is van een lopend reclasseringstoezicht. Indien sprake is van een lopend reclasseringstoezicht verwerkt de reclassering de informatie over het verloop hiervan in het reclasseringsadvies. De reclassering betrekt tevens relevante informatie van ketenpartners (bijvoorbeeld via het Veiligheidshuis/Actiecentrum Zorg en Veiligheid), die betrokken zijn bij de verdachte en/of zijn maatschappelijk netwerk (bijvoorbeeld gezin, school).
 
-In geval van een mogelijke stoornis vraagt de officier van justitie advies van het NIFP. Termijnen voor het aanleveren van reclasseringsrapporten zijn opgenomen in het landelijk strafprocesreglement. 8Het landelijke strafprocesreglement is opgesteld door de Raad voor de Rechtspraak in overleg met het OM en is laatstelijk 1 januari 2019 in werking getreden. Het reglement uniformeert de wijze van behandeling van strafzaken door ZM en OM.
+In geval van een mogelijke stoornis vraagt de officier van justitie advies van het NIFP. Termijnen voor het aanleveren van reclasseringsrapporten zijn opgenomen in het landelijk strafprocesreglement. 8Het landelijke strafprocesreglement is opgesteld door de Raad voor de Rechtspraak in overleg met het OM en is laatstelijk 1 januari 2019 in werking getreden. Het reglement uniformeert de wijze van behandeling van strafzaken door ZM en OM.
 
-Het OM maakt de zittingsdatum zo spoedig mogelijk aan de reclassering bekend om tijdige levering van het reclasseringsadvies mogelijk te maken. In de vordering worden de bijzondere voorwaarden specifiek benoemd. Voor het vorderen van voorwaarden met reclasseringstoezicht, is het voor de uitvoerbaarheid nodig dat de reclassering heeft geadviseerd. Het vorderen van voorwaarden met reclasseringstoezicht zonder dat de reclassering een advies heeft uitgebracht, kan slechts na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie. Het OM is terughoudend met het eisen van bijzondere voorwaarden die niet door de reclassering in het advies zijn geadviseerd. Sommige voorwaarden kunnen bovendien slechts op advies van de reclassering of na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie (hiervoor wordt verwezen naar paragraaf 2.7 van deze aanwijzing).
+Het OM maakt de zittingsdatum zo spoedig mogelijk aan de reclassering bekend om tijdige levering van het reclasseringsadvies mogelijk te maken. In de vordering worden de bijzondere voorwaarden specifiek benoemd. Voor het vorderen van voorwaarden met reclasseringstoezicht, is het voor de uitvoerbaarheid nodig dat de reclassering heeft geadviseerd. Het vorderen van voorwaarden met reclasseringstoezicht zonder dat de reclassering een advies heeft uitgebracht, kan slechts na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie. Het OM is terughoudend met het eisen van bijzondere voorwaarden die niet door de reclassering in het advies zijn geadviseerd. Sommige voorwaarden kunnen bovendien slechts op advies van de reclassering of na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie (hiervoor wordt verwezen naar [paragraaf 2.7](https://wetten.overheid.nl/BWBR0044666) van deze aanwijzing).
 
 Een contra-indicatie voor het vorderen van een voorwaardelijke straf met bijzondere voorwaarden is aanwezig als:
+
+- 1. verdachten het onderzoek van de politie of de reclassering tegenwerken,
+
+- 2. verdachten interventies volledig afwijzen,
+
+- 3. verdachten geen enkele binding met landen binnen de Europese Unie hebben, en geen recht op zorg binnen Nederland.
 
 Voor de wijze waarop bijzonder voorwaarden dienen te worden gevorderd wordt verwezen naar de Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen.
 
@@ -110,7 +129,7 @@ In het kader van de schorsing van de voorlopige hechtenis kan geen schadevergoed
 
 Een vrijheidsbeperkende voorwaarde wordt als bijzondere voorwaarde 9De officier van justitie (art. 509hh Sv), de rechter (art. 38v Sr) en de burgemeester (art. 172a Gemeentewet) hebben tevens een eigenstandige bevoegdheid om een vrijheidsbeperkende maatregel op te leggen. gevorderd ter bescherming van de slachtoffers of de wijk waar het misdrijf is gepleegd. Een locatieverbod (waarbij de veroordeelde wordt verboden zich op een bepaalde locatie te bevinden), een locatiegebod (waarbij de veroordeelde bijvoorbeeld wordt verplicht om ’s nachts thuis te zijn), en een meldplicht (waarbij de veroordeelde zich op bepaalde momenten op een bepaalde plaats moet melden), dienen dit doel indirect.
 
-Een vrijheidsbeperkende voorwaarde kan in combinatie met elektronisch toezicht worden gevorderd (zie § 2.9 hierna).
+Een vrijheidsbeperkende voorwaarde kan in combinatie met elektronisch toezicht worden gevorderd (zie [§ 2.9](https://wetten.overheid.nl/BWBR0044666) hierna).
 
 Een (combinatie van) vrijheidsbeperkende voorwaarde(n) kan onder andere passend zijn bij een veroordeling voor openbare geweldpleging (uitgaansgeweld, geweld bij voetbalwedstrijden) of een zedenmisdrijf.
 
@@ -128,7 +147,7 @@ Aan het vorderen van de op zorg gerichte voorwaarden ligt een indicatiestelling 
 
 Het opnemen van deze indicatiestelling in de vordering volstaat. Indien de rechter een specifieke instelling of behandelaar wil noemen, dient aan de vordering tot zorg in een bepaalde instelling toegevoegd te worden ‘of een soortgelijke instelling, ter beoordeling van de reclassering’ (bij een ambulante behandeling en bij opname in een instelling voor begeleid wonen of maatschappelijke opvang) danwel ‘of een soortgelijke instelling, ter beoordeling van DJI/DIZ na indicatiestelling door het NIFP/IFZ’ (bij een klinische opname). Indien de beoogde instelling bijvoorbeeld een lange wachttijd kent, kan dan de behandeling in een soortgelijke instelling plaatsvinden zonder tussenkomst van de rechter.
 
-Bij een klinische opname geldt dat elke beslissing over de aard en duur exclusief aan de rechter is voorbehouden. 11HR 6 november 1990, **NJ** 1991, 274; HR 30 januari 2007, LJN AZ0262. De officier kan in een vordering tot ambulante behandeling meenemen dat de rechter in het vonnis opneemt dat de verdachte een korte klinische opname kan ondergaan zonder nadere tussenkomst van de rechter. Dit kan de orde zijn bij bijvoorbeeld een ernstige verslaving of persoonlijkheidsstoornis. Deze korte opname kan uitsluitend onder bepaalde voorwaarden worden geëffectueerd, bijvoorbeeld bij terugval in verslaving.
+Bij een klinische opname geldt dat elke beslissing over de aard en duur exclusief aan de rechter is voorbehouden. 11HR 6 november 1990, *NJ* 1991, 274; HR 30 januari 2007, LJN AZ0262. De officier kan in een vordering tot ambulante behandeling meenemen dat de rechter in het vonnis opneemt dat de verdachte een korte klinische opname kan ondergaan zonder nadere tussenkomst van de rechter. Dit kan de orde zijn bij bijvoorbeeld een ernstige verslaving of persoonlijkheidsstoornis. Deze korte opname kan uitsluitend onder bepaalde voorwaarden worden geëffectueerd, bijvoorbeeld bij terugval in verslaving.
 
 Een behandeling kan ook het innemen van medicatie met zich brengen. Indien het gaat om behandeling van een verslaving, dan kan het meewerken aan middelencontrole onderdeel zijn van de behandeling. De weigering medicijnen in te nemen die de behandelaar nodig acht, of het weigeren mee te werken aan middelencontrole kan dan beschouwd worden als het niet voldoen aan de behandelvoorwaarde.
 
@@ -140,15 +159,69 @@ In het kader van de schorsingsbeschikking kunnen alleen voorwaarden worden gevor
 
 Dit betekent in concreto dat in het kader van de schorsingsbeslissing van de ‘restcategorie’ de navolgende bijzondere voorwaarden kunnen worden gevorderd:
 
+- – beperking van het recht Nederland te verlaten (reisverbod) (met/zonder elektronisch toezicht), NB daarmee samenhangend inleveren van paspoort/identiteitskaart,
+
+- – meewerken aan een (psychologische/psychische) voorlichtingsrapportage,
+
+- – meewerken aan een reclasseringsadvies,
+
+- – volgen van een opleiding,
+
+- – meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlenging, maatschappelijk werk etc.),
+
+- – geen andere huisvesting zonder toestemming,
+
+- – meewerken aan middelencontrole,
+
+- – verbod kansspelen,
+
+- – vermijden contact met minderjarigen,
+
+- – vermijden kinderporno,
+
+- – verbod bepaalde werkzaamheden,
+
+- – houdverbod dieren,
+
+- – mediaverbod (indien dit in het belang van het lopende onderzoek is).
+
 Andere voorwaarden kunnen alleen worden gevorderd indien deze aansluiten bij de doelcriteria van de schorsing van de voorlopige hechtenis en slechts op advies van de reclassering (wanneer sprake moet zijn van reclasseringstoezicht) of nadat de lokale reclasseringsofficier (of bij diens afwezigheid een senior officier van justitie) daarmee heeft ingestemd (ongeacht of er sprake moet zijn van reclasseringstoezicht).
 
-In het kader van de **voorwaardelijke straf** kunnen alleen voorwaarden worden gevorderd die strekken tot het voorkomen van strafbare feiten, dan wel een gedraging te betreffen waartoe de verdachte uit oogpunt van maatschappelijke betamelijkheid gehouden moet worden geacht. Bij deze modaliteit kunnen van de ‘restcategorie’ de navolgende bijzondere voorwaarden worden gevorderd:
+In het kader van de *voorwaardelijke straf* kunnen alleen voorwaarden worden gevorderd die strekken tot het voorkomen van strafbare feiten, dan wel een gedraging te betreffen waartoe de verdachte uit oogpunt van maatschappelijke betamelijkheid gehouden moet worden geacht. Bij deze modaliteit kunnen van de ‘restcategorie’ de navolgende bijzondere voorwaarden worden gevorderd:
+
+- – volgen van een opleiding,
+
+- – meewerken aan schuldhulpverlening,
+
+- – meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlenging, maatschappelijk werk etc.)
+
+- – geen andere huisvesting zonder toestemming,
+
+- – meewerken aan middelencontrole,
+
+- – verbod kansspelen,
+
+- – vermijden contact met minderjarigen,
+
+- – vermijden kinderporno,
+
+- – verbod bepaalde werkzaamheden,
+
+- – houdverbod dieren.
 
 Andere voorwaarden kunnen alleen worden gevorderd indien deze aansluiten bij de doelcriteria van de voorwaardelijke veroordeling en slechts op advies van de reclassering (wanneer sprake moet zijn van reclasseringstoezicht) of nadat de reclasseringsofficier (of bij diens afwezigheid een senior of officier van justitie) daarmee heeft ingestemd (ongeacht of er sprake moet zijn van reclasseringstoezicht).
 
 ### 2.8. Reclasseringstoezicht
 
 Het (meewerken aan) reclasseringstoezicht houdt in dat:
+
+- – de veroordeelde de aanwijzingen en opdrachten opvolgt die door de reclassering worden gegeven in het kader van het toezicht,
+
+- – de verdachte/veroordeelde medewerking verleent aan huisbezoeken,
+
+- – de reclassering de naleving van de aan de veroordeelde opgelegde voorwaarden controleert en de veroordeelde ten behoeve daarvan begeleidt,
+
+- – de veroordeelde openheid geeft over zaken die van invloed kunnen zijn op de uitvoering van het toezicht. Daarbij kan het gaan om zaken zoals huisvesting, dagbesteding, relaties, werk en financiën.
 
 De officier van justitie dient bij het vorderen duidelijk te maken wat het reclasseringstoezicht inhoudt.
 
@@ -164,13 +237,13 @@ De rechter bepaalt de duur van het ET. ET kan voor de gehele proeftijd aan de bi
 
 De reclassering is verantwoordelijk voor de uitvoering van het elektronisch toezicht.
 
-### 2.10. Proeftijd ([art. 14b Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14b))
+### 2.10. Proeftijd (art. 14b Sr)
 
 De wet bepaalt de maximale proeftijd. Het is mogelijk een kortere proeftijd te vorderen dan wettelijk mogelijk is. Bij het bepalen van de proeftijd dient acht te worden geslagen op het proportionaliteitsbeginsel en voorts in praktisch opzicht te worden afgestemd op de voorwaarden waaraan binnen proeftijd moet worden voldaan.
 
-### 2.11. Dadelijke uitvoerbaarheid ([art. 14e Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14e))
+### 2.11. Dadelijke uitvoerbaarheid (art. 14e Sr)
 
-Bijzondere voorwaarden in het kader van een voorwaardelijk opgelegde vrijheidsstraf en het daarbij horende reclasseringstoezicht kunnen dadelijk uitvoerbaar worden verklaard in het geval ‘**er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen’**. Nu ditzelfde criterium geldt bij het vaststellen van een proeftijd van tien jaren, ligt het in de rede om dan ook een langere proeftijd te overwegen.
+Bijzondere voorwaarden in het kader van een voorwaardelijk opgelegde vrijheidsstraf en het daarbij horende reclasseringstoezicht kunnen dadelijk uitvoerbaar worden verklaard in het geval ‘*er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen’*. Nu ditzelfde criterium geldt bij het vaststellen van een proeftijd van tien jaren, ligt het in de rede om dan ook een langere proeftijd te overwegen.
 
 Dadelijk uitvoerbare voorwaarden worden gestart direct na de einduitspraak in eerste aanleg, ook als hoger beroep wordt ingesteld en het vonnis dus nog niet onherroepelijk is. Dit is een wettelijke uitzondering op de schorsende werking van rechtsmiddelen ([art. 6:1:16 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:16)). De bescherming van de samenleving en slachtoffer(s) en de lichamelijke integriteit van personen prevaleert in dat geval boven het uitgangspunt dat de tenuitvoerlegging van een straf pas plaatsvindt nadat een uitspraak onherroepelijk is geworden.
 
@@ -184,15 +257,25 @@ Indien de verdachte niet bekend was met de zitting, laat het OM de kennisgeving 
 
 Ook in hoger beroep kunnen dadelijk uitvoerbare voorwaarden worden gevorderd en opgelegd.
 
-Wanneer er een dadelijke uitvoerbaarheid van de voorwaarden is uitgesproken en veroordeelde vervolgens in hoger beroep gaat, is het niet mogelijk om bij overtreding deze persoon aan te houden en de **voorlopige** tenuitvoerlegging te vorderen. 14ECLI:NL:HR:2017:3186. Een vordering tenuitvoerlegging is wel mogelijk, deze dient binnen 30 dagen op zitting te zijn gepland, conform ketenafspraken. Indien snel optreden bij overtreding gewenst is, overweegt het OM de vrijheidsbeperkende maatregel ([art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v)) te vorderen en deze dadelijk uitvoerbaar te verklaren. Bij deze maatregel kan een locatiegebod, locatieverbod of contactverbod worden opgelegd en kan bij overtreding wel worden aangehouden.
+Wanneer er een dadelijke uitvoerbaarheid van de voorwaarden is uitgesproken en veroordeelde vervolgens in hoger beroep gaat, is het niet mogelijk om bij overtreding deze persoon aan te houden en de *voorlopige* tenuitvoerlegging te vorderen. 14ECLI:NL:HR:2017:3186. Een vordering tenuitvoerlegging is wel mogelijk, deze dient binnen 30 dagen op zitting te zijn gepland, conform ketenafspraken. Indien snel optreden bij overtreding gewenst is, overweegt het OM de vrijheidsbeperkende maatregel ([art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v)) te vorderen en deze dadelijk uitvoerbaar te verklaren. Bij deze maatregel kan een locatiegebod, locatieverbod of contactverbod worden opgelegd en kan bij overtreding wel worden aangehouden.
 
-### 2.11.1. Start proeftijd bij dadelijke uitvoerbaarheid ([art. 6:1:18 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:18))
+### 2.11.1. Start proeftijd bij dadelijke uitvoerbaarheid (art. 6:1:18 Sv)
 
 De rechter kan ambtshalve of op vordering van het OM bepalen dat opgelegde voorwaarde(n) en het op de naleving van die voorwaarde(n) uit te oefenen reclasseringstoezicht, dadelijk uitvoerbaar zijn. De proeftijd gaat dan direct in op de dag van de einduitspraak of, bij afwezigheid van de verdachte ter zitting, op het moment van betekening van de kennisgeving.
 
 ### 2.11.2. Consequenties uitspraak in hoger beroep voor proeftijd
 
 De uitspraak in hoger beroep kan verschillende consequenties hebben voor de opgelegde dadelijk uitvoerbare voorwaarde(n):
+
+- • In het geval de dadelijk uitvoerbare voorwaarden worden overgenomen met dadelijke uitvoerbaarheid, lopen de dadelijk uitvoerbare voorwaarden en de proeftijd door.
+
+- • In het geval de dadelijk uitvoerbare voorwaarden worden overgenomen zonder dadelijke uitvoerbaarheid, lopen de dadelijk uitvoerbare voorwaarden en de proeftijd niet door, maar start de proeftijd van deze voorwaarden vijftien dagen na het arrest of, als er betekend moet worden, vijftien dagen na de betekening, tenzij cassatie wordt ingesteld;
+
+- • Worden andere dan in eerste aanleg opgelegde dadelijk uitvoerbare voorwaarden opgelegd met dadelijke uitvoerbaarheid, start de proeftijd daarvan op de datum van einduitspraak in hoger beroep;
+
+- • Worden andere (niet dadelijk uitvoerbare) voorwaarden opgelegd, start de proeftijd vijftien dagen na het arrest of, als er betekend moet worden, vijftien dagen na de betekening, tenzij cassatie wordt ingesteld;
+
+- • Worden geen voorwaarden opgelegd, dan worden de uitvoering van de dadelijk uitvoerbare voorwaarden en de proeftijd beëindigd.
 
 ### 3. Tenuitvoerlegging bijzondere voorwaarden
 
@@ -252,6 +335,14 @@ De reclassering licht het OM in over het gehouden toezicht. Indien blijkt dat de
 
 De officier kan besluiten:
 
+- 1. een schriftelijke waarschuwing te sturen of een waarschuwingsgesprek ten parkette te voeren 19Zie art. 6:6:21 lid 3 Sv ;
+
+- 2. te vorderen dat de niet tenuitvoergelegde straf alsnog *voorlopig* ten uitvoer wordt gelegd ([art. 6:3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:15) aanhouding, [6:6:20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:20) vordering, voorgeleiding);
+
+- 3. te vorderen dat de gehele of een gedeelte van de voorwaardelijke straf ten uitvoer wordt gelegd al of niet onder instandhouding dan wel wijziging van de voorwaarden ([art. 6:6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) (tul));
+
+- 4. een vordering in te dienen tot verlenging van de proeftijd ([art. 6:6:19 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:19)) of tot wijziging van de voorwaarden (6:6:19 Sv), zonder de tenuitvoerlegging van het voorwaardelijke strafdeel te gelasten.
+
 ### 3.6. Bevel onmiddellijke aanhouding door hulpofficier
 
 Het openbaar ministerie kan, wanneer aan veroordeelde een onherroepelijke voorwaardelijke vrijheidsstraf is opgelegd, de aanhouding van de veroordeelde bevelen, indien er ernstige redenen bestaan voor het vermoeden dat enige gestelde voorwaarde niet wordt nageleefd of anderszins het belang van de veiligheid van personen of goederen zulks eist en aannemelijk is dat de rechter de vrijheidsbeneming zal bevelen ([Art. 6:3:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:15)). Indien het bevel van het OM niet kan worden afgewacht, kan ook de hulpofficier de aanhouding van de veroordeelde bevelen. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan de officier van justitie. Deze toetst de aanhouding.
@@ -266,7 +357,17 @@ Het OM vordert de voorlopige tenuitvoerlegging
 
 tenzij:
 
+- – kan worden volstaan met een waarschuwing of
+
+- – een vordering wijziging voorwaarden of
+
+- – een vordering verlengen proeftijd wordt ingediend;
+
 en mits:
+
+- – sprake is van een onherroepelijke voorwaardelijke *gevangenis*straf en
+
+- – de schending van de voorwaarde(n) zodanig is, dat de insluiting van de veroordeelde noodzakelijk en proportioneel is.
 
 Een voorlopige tenuitvoerlegging kan derhalve niet worden gevorderd bij een voorwaardelijke taakstraf en/of de maatregel van een voorwaardelijke ISD.
 
@@ -298,6 +399,10 @@ Het toezicht wordt alleen beëindigd naar aanleiding van een bevel van de rechte
 
 Een vordering tul van een voorwaardelijke straf of maatregel op grond dat door de veroordeelde één of meer bijzondere voorwaarden zijn geschonden, wordt binnen 30 dagen na het indienen van de vordering door het gerecht behandeld. 22Conform ketenafspraken, zoals vastgelegd in het landelijk strafprocesreglement en in het Samenwerkingsreglement. Tot het nemen van een tulbeslissing is bevoegd het gerecht dat in eerste aanleg kennis heeft genomen van het strafbare feit waarvoor de sanctie is opgelegd. De zaak wordt behandeld door een enkelvoudige kamer tenzij:
 
+- a) de vordering strekt tot vrijheidsbeneming van een jaar of meer;
+
+- b) de rechter die kennisneemt van de zaak aanstonds oordeelt dat deze door de meervoudige kamer moet worden behandeld. 23Art. 6:6:1 Sv
+
 Het OM roept zowel de veroordeelde, indien daartoe aanleiding is degene die met reclasseringstoezicht is belast, en indien noodzakelijk ook de toezichthouder van de politie op tot het bijwonen van de zitting waarop over de vordering (voorlopige) tenuitvoerlegging wordt beslist ([6:6:3 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:3)). Als veroordeelde geen raadsman heeft, wordt deze toegevoegd door de raad voor rechtsbijstand.
 
 Het OM is bevoegd ter zitting gedurende het onderzoek wijziging te brengen in de vordering ([art. 6:6:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:4)).
@@ -320,17 +425,53 @@ Tegen de beslissing van de rechter om de voorwaardelijke straf ten uitvoer te le
 
 ### 4.1. Overdracht bijzondere voorwaarden (incl. v.i.) en taakstraffen binnen de EU (Kaderbesluit 947)
 
-De tenuitvoerlegging van bijzondere voorwaarden bij een voorwaardelijke sanctie kan binnen de Europese Unie (EU) worden overgedragen. Dit is geregeld in EU Kaderbesluit 947 25Kaderbesluit 2008/947/JBZ van de Raad van 27 november 2008 inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en proeftijdbeslissingen met het oog op het toezicht op proeftijdvoorwaarden en alternatieve straffen, https://www.ejn-crimjust.europa.eu/ejn/libdocumentproperties/EN/218, artt. 3:1 e.v. WETS. . In Nederland is dit Kaderbesluit geïmplementeerd in de [Wet Wederzijdse erkenning en tenuitvoerlegging strafvonnissen (WETS)](https://wetten.overheid.nl/jci1.3:c:BWBR0031814). Het IRC Noord-Holland, afdeling WETS-ETM is landelijk aangewezen als de Centrale Autoriteit (CA) voor de uitvoering van dit Kaderbesluit, alsmede Kaderbesluit 829 (zie § 4.2 hierna) en het Europees Beschermingsbevel Slachtoffers. Deze Europese regelingen zijn alle gebaseerd op het beginsel van wederzijdse erkenning, waardoor een beslissing een op een (dus zonder omzetting) overgenomen dient te worden.
+De tenuitvoerlegging van bijzondere voorwaarden bij een voorwaardelijke sanctie kan binnen de Europese Unie (EU) worden overgedragen. Dit is geregeld in EU Kaderbesluit 947 25Kaderbesluit 2008/947/JBZ van de Raad van 27 november 2008 inzake de toepassing van het beginsel van de wederzijdse erkenning op vonnissen en proeftijdbeslissingen met het oog op het toezicht op proeftijdvoorwaarden en alternatieve straffen, https://www.ejn-crimjust.europa.eu/ejn/libdocumentproperties/EN/218, artt. 3:1 e.v. WETS. . In Nederland is dit Kaderbesluit geïmplementeerd in de [Wet Wederzijdse erkenning en tenuitvoerlegging strafvonnissen (WETS)](https://wetten.overheid.nl/jci1.3:c:BWBR0031814). Het IRC Noord-Holland, afdeling WETS-ETM is landelijk aangewezen als de Centrale Autoriteit (CA) voor de uitvoering van dit Kaderbesluit, alsmede Kaderbesluit 829 (zie [§ 4.2](https://wetten.overheid.nl/BWBR0044666) hierna) en het Europees Beschermingsbevel Slachtoffers. Deze Europese regelingen zijn alle gebaseerd op het beginsel van wederzijdse erkenning, waardoor een beslissing een op een (dus zonder omzetting) overgenomen dient te worden.
 
 Belangrijke voorwaarden voor overdracht zijn dat de veroordeelde voldoende binding heeft met het andere EU-land en dat het restant van de proeftijd meer dan zes maanden bedraagt.
 
 Algemene voorwaarden kunnen op grond van dit Kaderbesluit niet overgedragen worden. De volgende bijzondere voorwaarden zijn in principe overdraagbaar (zie [art. 3:2 WETS](https://wetten.overheid.nl/jci1.3:c:BWBR0031814&artikel=3:2)):
 
+- a. het gebod een bepaalde autoriteit in kennis te stellen van een verandering van woonplaats of van de plaats waar hij werkt;
+
+- b. het gebod zich op bepaalde tijdstippen bij een bepaalde instantie te melden;
+
+- c. het verbod bepaalde locaties, plaatsen of afgebakende gebieden te betreden;
+
+- d. de beperking van het recht om de uitvoerende lidstaat te verlaten;
+
+- e. het verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
+
+- f. het gebod contact te vermijden met bepaalde zaken die door de veroordeelde zijn gebruikt of kunnen worden gebruikt om een strafbaar feit te plegen;
+
+- g. het gebod de door het strafbare feit veroorzaakte schade te vergoeden of het bewijs te leveren dat aan die verplichting is voldaan;
+
+- h. het gebod samen te werken met de reclassering of met een maatschappelijke dienst die met verantwoordelijkheden jegens veroordeelden is belast;
+
+- i. het gebod een therapie of ontwenningskuur te ondergaan;
+
+- j. de verplichting een taakstraf te verrichten;
+
+- k. verplichtingen betreffende het gedrag, de woonplaats, opleiding, de vrijetijdsbesteding, dan wel verplichtingen die beperkingen op of voorwaarden inzake de beroepsuitoefening inhouden.
+
 Er dient per zaak bekeken te worden of overdracht daadwerkelijk mogelijk is. Het CJIB/AICE verricht de eerste persoonsgerichte beoordeling en selecteert zaken voor overdracht. Het CJIB/AICE stuurt de geselecteerde zaken door aan de afdeling WETS-ETM, onderdeel van het IRC Noord-Holland, voor beoordeling van de overdracht. Als de afdeling WETS-ETM van oordeel is dat dit opportuun is, verzorgt de afdeling WETS-ETM de WETS-procedure. Het lokale parket wordt door de afdeling WETS-ETM benaderd voor het invullen van het benodigde certificaat. Als de afdeling WETS-ETM van oordeel is dat overdracht niet opportuun is of de overdracht is mislukt zal het CJIB/AICE de reguliere tenuitvoerlegging starten of voortzetten.
 
 ### 4.2. Overdracht schorsingsvoorwaarden voorlopige hechtenis (Kaderbesluit 829)
 
-De tenuitvoerlegging van bijzondere voorwaarden (schorsingsvoorwaarden) bij een schorsing van de voorlopige hechtenis kan ook binnen de EU overgedragen worden. Dit is geregeld in Kaderbesluit 829 26Kaderbesluit 2009/829/JBZ van de Raad van 23 oktober 2009 inzake de toepassing, tussen de lidstaten van de Europese Unie, van het beginsel van wederzijdse erkenning op beslissingen inzake toezichtmaatregelen als alternatief voor voorlopige hechtenis, https://www.ejn-crimjust.europa.eu/ejn/libdocumentproperties/EN/221, artt. 5.7.1. e.v. Sv. . In Nederland is dit Kaderbesluit geïmplementeerd in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) (zie [Boek 5, titel 7, artt. 5.7.1. t/m 5.7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.7.1)). Vereiste voor overdracht is dat verdachte voldoende binding heeft met het andere EU-land. De volgende toezichtmaatregelen zijn in principe overdraagbaar:
+De tenuitvoerlegging van bijzondere voorwaarden (schorsingsvoorwaarden) bij een schorsing van de voorlopige hechtenis kan ook binnen de EU overgedragen worden. Dit is geregeld in Kaderbesluit 829 26Kaderbesluit 2009/829/JBZ van de Raad van 23 oktober 2009 inzake de toepassing, tussen de lidstaten van de Europese Unie, van het beginsel van wederzijdse erkenning op beslissingen inzake toezichtmaatregelen als alternatief voor voorlopige hechtenis, https://www.ejn-crimjust.europa.eu/ejn/libdocumentproperties/EN/221, artt. 5.7.1. e.v. Sv. . In Nederland is dit Kaderbesluit geïmplementeerd in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) (zie [Boek 5, titel 7, artt. 5.7.1. t/m 5.7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=5.7.1)). Vereiste voor overdracht is dat verdachte voldoende binding heeft met het andere EU-land. De volgende toezichtmaatregelen zijn in principe overdraagbaar:
+
+- a. het gebod een bepaalde autoriteit in kennis te stellen van elke wijziging van woon- of verblijfplaats;
+
+- b. het verbod bepaalde locaties, plaatsen of afgebakende gebieden te betreden;
+
+- c. het gebod op bepaalde tijdstippen of gedurende een bepaalde periode op een bepaalde locatie aanwezig te zijn;
+
+- d. de beperking van het recht om de uitvoerende lidstaat te verlaten;
+
+- e. het gebod zich op bepaalde tijdstippen bij een bepaalde instantie te melden;
+
+- f. het verbod contact te leggen of te laten leggen met bepaalde personen of instellingen;
+
+- g. andere toezichtmaatregelen op de naleving waarvan de uitvoerende lidstaat bereid is toe te zien.
 
 Er dient per zaak bekeken te worden of overdracht daadwerkelijk mogelijk is. De officier van justitie kan voorafgaand aan de zitting inlichtingen inwinnen bij de afdeling WETS-ETM, onderdeel van het IRC Noord-Holland over de mogelijkheden van overdracht. Indien overdracht van de schorsingsvoorwaarden gewenst is, neemt de rechter bij voorkeur in de schorsingsbeslissing / beschikking op dat de schorsing ingaat op het moment van erkenning door de andere Lidstaat. Indien de overdracht niet wordt erkend, wordt de zaak geretourneerd aan het CJIB/AICE.
 

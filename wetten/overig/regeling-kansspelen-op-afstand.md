@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 21 januari 2021, nr. 3181155, houdende bepalingen ter uitvoering van de Wet kansspelen op afstand (Regeling kansspelen op afstand)"
+citeertitel: "Regeling kansspelen op afstand"
 identifier: "BWBR0044767"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044767"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15830313"
-version_id: "27485762"
-internal_id: "C38790571"
-label_id: "15767854"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044767/2026-04-01/0"
-intitule_bron: "Stcrt.2021-4507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-21"
-intitule_published: "2021-02-01"
-intitule_in_force: "2021-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-4507"
-original_signed_date: "2021-01-21"
-original_published_date: "2021-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-4507"
-entry_into_force_date: "2021-04-01"
-jci_1_3: "jci1.3:c:BWBR0044767&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0044767&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling kansspelen op afstand"
-signed_date: "2021-01-21"
-entry_into_force: "2021-04-01"
+publicatiedatum: 2021-04-01
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0044767"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 21 januari 2021, nr. 3181155, houdende bepalingen ter uitvoering van de Wet kansspelen op afstand (Regeling kansspelen op afstand)
-
-Handelende na overleg met de Minister van Financiën en de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
-
-Gelet op de [artikelen 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31e), [31f](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31f), [33e, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e), [33f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), en [33g, achtste lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33g), [2.1, derde en vierde lid](onbekend), [3.4, tweede lid, onder c](onbekend), [4.4, vierde lid](onbekend), [4.5, derde lid](onbekend), [4.7, vierde lid](onbekend), [4.8, zesde lid](onbekend), [4.9, vierde lid](onbekend), [4.24](onbekend), [4.33](onbekend), [4.39](onbekend), [4.40, onder a, b en c](onbekend), [4.41, zesde lid](onbekend), [4.43](onbekend), [4.44, eerste lid](onbekend), [4.51, vijfde lid](onbekend), [4.53, vierde lid](onbekend), [5.1, derde lid](onbekend), [5.2, tweede lid](onbekend), [5.3, zesde en zevende lid, van het Besluit kansspelen op afstand](onbekend), [2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), [2a, eerste lid, onder b](onbekend), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=4), [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=10), [16](onbekend), [18, vierde lid](onbekend), [19, derde lid](onbekend), [20, vijfde en achtste lid](onbekend), [22, zesde lid](onbekend), [24, derde lid](onbekend), [25, tweede lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](onbekend), en [9 van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=9);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,37 +20,37 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aspirant-speler:** degene die inschrijving wenst;
+- *aspirant-speler:* degene die inschrijving wenst;
 
-- **besluit:** het [Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773);
+- *besluit:* het [Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773);
 
-- **controledatabank:** controledatabank als bedoeld in [artikel 5.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.3);
+- *controledatabank:* controledatabank als bedoeld in [artikel 5.3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.3);
 
-- **live casinospelen:** casinospelen als bedoeld in [artikel 2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=2.1) die in een fysieke omgeving worden georganiseerd met gebruik van een fysieke toevalsgenerator en waar de speler op afstand aan deelneemt;
+- *live casinospelen:* casinospelen als bedoeld in [artikel 2.1, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=2.1) die in een fysieke omgeving worden georganiseerd met gebruik van een fysieke toevalsgenerator en waar de speler op afstand aan deelneemt;
 
-- **speelsessie:** periode vanaf het moment van aanmelding tot en met het moment van afmelding van de speler;
+- *speelsessie:* periode vanaf het moment van aanmelding tot en met het moment van afmelding van de speler;
 
-- **stortingslimiet:** grenzen van het speelgedrag van de speler als bedoeld in [artikel 4.14, tweede lid, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14);
+- *stortingslimiet:* grenzen van het speelgedrag van de speler als bedoeld in [artikel 4.14, tweede lid, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14);
 
-- **verslavingspreventie-opgeleid personeel:** personen als bedoeld in [artikel 6, tweede lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6);
+- *verslavingspreventie-opgeleid personeel:* personen als bedoeld in [artikel 6, tweede lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6);
 
-- **weddenschap:** weddenschap als bedoeld in [artikel 2.1, eerste lid, onder c of d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=2.1).
+- *weddenschap:* weddenschap als bedoeld in [artikel 2.1, eerste lid, onder c of d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=2.1).
 
 ### Hoofdstuk 2. De vergunning en de vergunninghouder
 
 ##### Artikel 2.1. De vergoeding voor de behandeling van een aanvraag
 
-1. De vergoeding die is verschuldigd voor de behandeling van een aanvraag tot verlening van een vergunning bedraagt € 61.300.
+1. De vergoeding die is verschuldigd voor de behandeling van een aanvraag tot verlening van een vergunning bedraagt € 61.300.
 
 2. De vergoeding die is verschuldigd voor de behandeling van een aanvraag tot wijziging van een vergunning bedraagt:
 
-- a. € 100, voor zover de aanvraag is gericht op de wijziging van de tenaamstelling van de vergunning of de vermelding van gegevens met betrekking tot de vestigingsplaats, de rechtsvorm of andere zakelijke gegevens met betrekking tot de houder van de vergunning, en wordt met € 10.200 vermeerderd, indien hiervoor de betrouwbaarheid overeenkomstig [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) opnieuw moet worden beoordeeld;
+- a. € 100, voor zover de aanvraag is gericht op de wijziging van de tenaamstelling van de vergunning of de vermelding van gegevens met betrekking tot de vestigingsplaats, de rechtsvorm of andere zakelijke gegevens met betrekking tot de houder van de vergunning, en wordt met € 10.200 vermeerderd, indien hiervoor de betrouwbaarheid overeenkomstig [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) opnieuw moet worden beoordeeld;
 
-- b. € 100, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningsvoorschriften met als doel de beperking van het toegestane kansspelaanbod;
+- b. € 100, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningsvoorschriften met als doel de beperking van het toegestane kansspelaanbod;
 
-- c. € 10.200, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningvoorschriften met als doel de verruiming dan wel vervanging van het toegestane kansspelaanbod;
+- c. € 10.200, voor zover de aanvraag is gericht op de wijziging van ter zake relevante vergunningvoorschriften met als doel de verruiming dan wel vervanging van het toegestane kansspelaanbod;
 
-- d. € 10.200, voor zover de aanvraag is gericht op de wijziging van een of meerdere andere onderdelen van de vergunning waarvoor de betrouwbaarheid overeenkomstig [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) opnieuw moet worden beoordeeld.
+- d. € 10.200, voor zover de aanvraag is gericht op de wijziging van een of meerdere andere onderdelen van de vergunning waarvoor de betrouwbaarheid overeenkomstig [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4) opnieuw moet worden beoordeeld.
 
 ##### Artikel 2.2. De afdracht aan de draf- en rensport
 
@@ -126,11 +98,11 @@ De vergunninghouder organiseert geen kansspel dat naar het oordeel van de raad v
 
 ##### Artikel 2.4. Het antecedentenonderzoek
 
-De antecedenten, bedoeld in [artikel 3.4, tweede lid, onder c, van het besluit](onbekend), zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling.
+De antecedenten, bedoeld in artikel 3.4, tweede lid, onder c, van het besluit, zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 ### Hoofdstuk 3. De organisatie van kansspelen op afstand
 
-### Afdeling 1. Algemeen
+#### Afdeling 1. Algemeen
 
 ##### Artikel 3.1. Verboden kansspelvormen
 
@@ -144,7 +116,7 @@ De vergunninghouder organiseert de vergunde kansspelen niet op een wijze die ert
 
 ##### Artikel 3.2a. Toevalsgeneratoren
 
-1. De vergunninghouder maakt bij het organiseren van casinospelen als bedoeld in [artikel 2.1, eerste lid, van het besluit](onbekend) uitsluitend gebruik van deugdelijke toevalsgeneratoren die niet kunnen worden gemanipuleerd.
+1. De vergunninghouder maakt bij het organiseren van casinospelen als bedoeld in artikel 2.1, eerste lid, van het besluit uitsluitend gebruik van deugdelijke toevalsgeneratoren die niet kunnen worden gemanipuleerd.
 
 2. De uitkomsten van de toevalsgenerator zijn onafhankelijk en staan niet onder invloed van:
 
@@ -180,11 +152,15 @@ De vergunninghouder organiseert de vergunde kansspelen niet op een wijze die ert
 
 - c. de vergunninghouder passende maatregelen treft die waarborgen dat:
 
-- 1°. de speler voor de aanvang van het spel op duidelijke en begrijpelijke wijze en zo volledig mogelijk over de weergave in Amerikaanse dollars wordt geïnformeerd;
+   - 1°. de speler voor de aanvang van het spel op duidelijke en begrijpelijke wijze en zo volledig mogelijk over de weergave in Amerikaanse dollars wordt geïnformeerd;
 
-- 2°. de speler tijdens het spel op duidelijke en begrijpelijke wijze informatie kan verkrijgen over de waarde van de inzetten, winsten en verliezen in euro’s;
+   - 2°. de speler tijdens het spel op duidelijke en begrijpelijke wijze informatie kan verkrijgen over de waarde van de inzetten, winsten en verliezen in euro’s;
 
-- 3°. de aanduiding en de waarde van de inzetten, winsten of verliezen in Amerikaanse dollars niet tijdens het spel worden gewijzigd.
+   - 3°. de aanduiding en de waarde van de inzetten, winsten of verliezen in Amerikaanse dollars niet tijdens het spel worden gewijzigd.
+
+##### Artikel 3.5a. De melding bij hoger dan het minimum ingestelde inzetten
+
+De vergunninghouder treft passende maatregelen die waarborgen dat indien de hoogte van de inzet in een spel of speelronde zonder tussenkomst van de speler zodanig is ingesteld dat deze inzet hoger is dan de minimaal mogelijke inzet van dat spel of die speelronde, de speler voorafgaand aan of gelijktijdig met de mogelijkheid tot definitieve invoer van de inzet een waarschuwende melding ontvangt met duidelijke en begrijpelijke informatie dat de speler een lagere inzet kan invoeren. Deze melding vermeldt tevens wat de minimaal mogelijke inzet is.
 
 ##### Artikel 3.6. De uitkering van prijzen in natura
 
@@ -196,19 +172,19 @@ De vergunninghouder treft passende technische en operationele maatregelen die wa
 
 ##### Artikel 3.8. Casinospelen tegen de vergunninghouder
 
-De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in [artikel 2.1, eerste lid, onder a, van het besluit](onbekend) passende technische en operationele maatregelen die waarborgen dat:
+De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in artikel 2.1, eerste lid, onder a, van het besluit passende technische en operationele maatregelen die waarborgen dat:
 
 - a. de deelname aan ieder opvolgend spel uitsluitend aanvangt, indien:
 
-- 1°. de uitkomst van het direct daaraan voorafgaande spel vaststaat; en
+   - 1°. de uitkomst van het direct daaraan voorafgaande spel vaststaat; en
 
-- 2°. de speler direct daaraan voorafgaand een handeling verricht die uitdrukkelijk gericht is op het starten van deelname aan het opvolgende spel;
+   - 2°. de speler direct daaraan voorafgaand een handeling verricht die uitdrukkelijk gericht is op het starten van deelname aan het opvolgende spel;
 
 - b. een keuze ter beïnvloeding van het spelverloop uitsluitend wordt ingevoerd, indien de speler direct daaraan voorafgaand voldoende gelegenheid is geboden om een handeling te verrichten die erop gericht is een eigen keuze in te voeren.
 
 ##### Artikel 3.9. Casinospelen voor spelers onderling
 
-1. De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in [artikel 2.1, eerste lid, onder b, van het besluit](onbekend) passende technische en operationele maatregelen die waarborgen dat een keuze ter beïnvloeding van het spelverloop wordt ingevoerd, indien de speler direct daaraan voorafgaand voldoende gelegenheid is geboden om een handeling te verrichten die erop gericht is een eigen keuze in te voeren.
+1. De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in artikel 2.1, eerste lid, onder b, van het besluit passende technische en operationele maatregelen die waarborgen dat een keuze ter beïnvloeding van het spelverloop wordt ingevoerd, indien de speler direct daaraan voorafgaand voldoende gelegenheid is geboden om een handeling te verrichten die erop gericht is een eigen keuze in te voeren.
 
 2. De vergunninghouder treft passende technische en operationele maatregelen die waarborgen dat een keuze ter beïnvloeding van het spelverloop bij het uitblijven van een handeling van de speler als bedoeld in het eerste lid uitsluitend wordt ingevoerd, indien:
 
@@ -226,9 +202,9 @@ De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in [a
 
 - c. de rechtstreekse videoverbinding en, indien toepasselijk, andere communicatieverbindingen en communicatiemiddelen:
 
-- 1°. voldoende zijn gewaarborgd tegen storingen;
+   - 1°. voldoende zijn gewaarborgd tegen storingen;
 
-- 2°. zijn beveiligd tegen onrechtmatige toegang, onrechtmatig gebruik en manipulatie;
+   - 2°. zijn beveiligd tegen onrechtmatige toegang, onrechtmatig gebruik en manipulatie;
 
 - d. het verloop van de live casinospelen en het speelgedrag van spelers geanalyseerd en geregistreerd wordt aan de hand van videosurveillance en videoverslaglegging;
 
@@ -242,21 +218,21 @@ De vergunninghouder treft bij het organiseren van casinospelen als bedoeld in [a
 
 3. De raad van bestuur kan in verband met het borgen van een eerlijk spelverloop in ieder geval nadere eisen stellen aan de fysieke toevalsgeneratoren en het gebruik daarvan bij de organisatie van live casinospelen.
 
-### Afdeling 2. Integriteitsbeleid
+#### Afdeling 2. Integriteitsbeleid
 
 #### § 1. Algemeen
 
 ##### Artikel 3.10. De beschrijving van het integriteitsbeleid
 
-De vergunninghouder benoemt in het integriteitsbeleid, bedoeld in [artikel 4.5, eerste lid, van het besluit](onbekend):
+De vergunninghouder benoemt in het integriteitsbeleid, bedoeld in artikel 4.5, eerste lid, van het besluit:
 
 - a. de integriteitsrisico’s van de door hem georganiseerde kansspelen op:
 
-- 1°. witwassen en financiering van terrorisme;
+   - 1°. witwassen en financiering van terrorisme;
 
-- 2°. overtreding van sanctieregelingen; en
+   - 2°. overtreding van sanctieregelingen; en
 
-- 3°. fraude met en misbruik van de vergunde kansspelen;
+   - 3°. fraude met en misbruik van de vergunde kansspelen;
 
 - b. de maatregelen die hij treft ter voorkoming en ter beheersing van de risico’s, bedoeld onder a; en
 
@@ -264,7 +240,7 @@ De vergunninghouder benoemt in het integriteitsbeleid, bedoeld in [artikel 4.5, 
 
 ##### Artikel 3.11. De inventarisatie, analyse en evaluatie van integriteitsrisico’s
 
-Bij de inventarisatie, analyse en evaluatie van integriteitsrisico’s, bedoeld in [artikel 4.5, tweede lid, onder a, van het besluit](onbekend), betrekt de vergunninghouder in ieder geval:
+Bij de inventarisatie, analyse en evaluatie van integriteitsrisico’s, bedoeld in artikel 4.5, tweede lid, onder a, van het besluit, betrekt de vergunninghouder in ieder geval:
 
 - a. de ter zake relevante kenmerken van spelers;
 
@@ -286,7 +262,7 @@ De vergunninghouder die weddenschappen organiseert treft passende maatregelen di
 
 ##### Artikel 3.13. Van voorafgaande analyse uitgezonderde wedstrijden
 
-Als wedstrijden en competities, bedoeld in [artikel 4.8, zesde lid, van het besluit](onbekend), zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 2.1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling.
+Als wedstrijden en competities, bedoeld in artikel 4.8, zesde lid, van het besluit, zijn aangewezen de wedstrijden en competities die zijn opgenomen in onderdeel 2.1 van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 ##### Artikel 3.14. Van weddenschappen uitgesloten wedstrijden en competities
 
@@ -294,13 +270,13 @@ De vergunninghouder organiseert in ieder geval geen weddenschappen op wedstrijde
 
 ##### Artikel 3.15. Van weddenschappen uitgesloten gebeurtenissen
 
-1. Onder een negatieve gebeurtenis als bedoeld in [artikel 4.9, tweede lid, onder d, van het besluit](onbekend) wordt in ieder geval verstaan:
+1. Onder een negatieve gebeurtenis als bedoeld in artikel 4.9, tweede lid, onder d, van het besluit wordt in ieder geval verstaan:
 
 - a. de oplegging van een disciplinaire maatregel;
 
 - b. het uitvallen van een deelnemer aan de wedstrijd.
 
-2. Onder een eenvoudig te manipuleren gebeurtenis als bedoeld in [artikel 4.9, tweede lid, onder d, van het besluit](onbekend) wordt in ieder geval verstaan een gebeurtenis waarvan de totstandkoming:
+2. Onder een eenvoudig te manipuleren gebeurtenis als bedoeld in artikel 4.9, tweede lid, onder d, van het besluit wordt in ieder geval verstaan een gebeurtenis waarvan de totstandkoming:
 
 - a. onder overwegende invloed staat van één deelnemer aan de wedstrijd; en
 
@@ -310,9 +286,9 @@ De vergunninghouder organiseert in ieder geval geen weddenschappen op wedstrijde
 
 ##### Artikel 3.15a. Uitzondering meldplicht matchfixing
 
-De meldplicht, bedoeld in [artikel 4.8, vierde lid, van het besluit](onbekend), is niet van toepassing op voorgenomen of verrichte ongebruikelijke transacties die op grond van [artikel 16, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16) worden gemeld aan de Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12).
+De meldplicht, bedoeld in artikel 4.8, vierde lid, van het besluit, is niet van toepassing op voorgenomen of verrichte ongebruikelijke transacties die op grond van [artikel 16, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=16) worden gemeld aan de Financiële inlichtingen eenheid, bedoeld in [artikel 12, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=12).
 
-### Afdeling 3. Toegang tot de vergunde kansspelen en speeltegoeden
+#### Afdeling 3. Toegang tot de vergunde kansspelen en speeltegoeden
 
 ##### Artikel 3.16. De aanmelding
 
@@ -320,11 +296,11 @@ De vergunninghouder treft passende maatregelen ter voorkoming van fraude en nade
 
 ##### Artikel 3.17. Van deelname uit te sluiten personen
 
-De vergunninghouder treft passende maatregelen om van deelname aan de door hem georganiseerde kansspelen uit te sluiten personen als bedoeld in [artikel 4.6 van het besluit](onbekend) en andere personen die bij het organiseren van die kansspelen zijn betrokken.
+De vergunninghouder treft passende maatregelen om van deelname aan de door hem georganiseerde kansspelen uit te sluiten personen als bedoeld in artikel 4.6 van het besluit en andere personen die bij het organiseren van die kansspelen zijn betrokken.
 
 ##### Artikel 3.18. De duur van onvrijwillige schorsing
 
-De vergunninghouder schorst de mogelijkheid tot deelname aan de vergunde kansspelen maximaal zes maanden in de gevallen, bedoeld in [artikel 4.19, eerste lid, onder b en c, van het besluit](onbekend).
+De vergunninghouder schorst de mogelijkheid tot deelname aan de vergunde kansspelen maximaal zes maanden in de gevallen, bedoeld in artikel 4.19, eerste lid, onder b en c, van het besluit.
 
 ##### Artikel 3.19. Het beheer en de afscheiding van speeltegoeden
 
@@ -380,7 +356,99 @@ De vergunninghouder schorst de mogelijkheid tot deelname aan de vergunde kansspe
 
 - f. draagt er zorg voor dat hij te allen tijde verantwoording kan afleggen over de wijze waarop de stichting de speelrekeningen van de bij hem ingeschreven spelers beheert en te allen tijde de actuele statuten van die stichting en de door hem met die stichting gesloten overeenkomst kan overleggen.
 
-### Afdeling 4. Consumentenbvescherming
+#### Afdeling 3a. Het spelersprofiel
+
+##### Artikel 3.19a. Vrije invoer
+
+1. Onverminderd [artikel 3.19f](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19f&z=2026-04-01&g=2026-04-01) treft de vergunninghouder passende maatregelen die waarborgen dat spelers en aspirant-spelers de grenzen van hun speelgedrag kunnen invoeren in lege invoervelden zonder dat deze op enige wijze voorzien zijn van:
+
+- a. vooraf ingestelde en zichtbare minima, maxima of andere invoermogelijkheden dan wel invoersuggesties;
+
+- b. opties om minima, maxima of andere invoermogelijkheden dan wel invoersuggesties zichtbaar te maken.
+
+2. In afwijking van het eerste lid treft de vergunninghouder passende maatregelen die waarborgen dat voor spelers die de grenzen van hun speelgedrag wensen te wijzigen, de op dat moment nog ongewijzigde grenzen zichtbaar zijn in of bij de invoervelden.
+
+##### Artikel 3.19b. Stortingslimieten en tegoed in euro’s
+
+De vergunninghouder treft passende maatregelen die waarborgen dat:
+
+- a. spelers en aspirant-spelers stortingslimieten en het maximale tegoed, bedoeld in [artikel 4.14, tweede lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) uitsluitend in euro’s kunnen invoeren;
+
+- b. de stortingslimieten en het maximale tegoed uitsluitend in euro’s worden weergegeven in alle gedeelten van de spelersinterface waar deze worden getoond.
+
+##### Artikel 3.19c. Bevestiging van de invoer
+
+1. Onverminderd [artikel 3.19d](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19d&z=2026-04-01&g=2026-04-01) treft de vergunninghouder passende maatregelen die waarborgen dat elke grens die een speler of aspirant-speler als onderdeel van het spelersprofiel invoert, uitsluitend wordt verwerkt door het spelsysteem nadat:
+
+- a. op duidelijke en begrijpelijke wijze is verzocht om de definitieve invoer te bevestigen; en
+
+- b. de bevestiging is ontvangen en geregistreerd.
+
+2. Bij de invoer van elke stortingslimiet bevat het verzoek, bedoeld in het eerste lid, onder a, tevens:
+
+- a. een duidelijke en begrijpelijke vraag of de speler of de aspirant-speler bereid is het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag;
+
+- b. een duidelijke en begrijpelijke mededeling dat de speler of de aspirant-speler met de bevestiging verklaart bereid te zijn het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag.
+
+##### Artikel 3.19d. Contactmoment bij invoeren stortingslimieten
+
+1. De vergunninghouder treft passende maatregelen die waarborgen dat spelers en aspirant-spelers:
+
+- a. in de leeftijdscategorie tussen 18 en 24 jaar, een bedrag dat gelijk is aan of meer is dan:
+
+   - 1°. € 150 per maand; of
+
+   - 2°. € 37,50 per week bij het ontbreken of niet invoeren van een stortingslimiet per maand; of
+
+   - 3°. € 5,35 per dag bij het ontbreken of niet invoeren van een stortingslimiet per maand en per week;
+
+- b. in de leeftijdscategorie van 24 jaar of ouder, een bedrag dat gelijk is aan of meer is dan: slechts definitief kunnen invoeren en laten verwerken als stortingslimiet door daarover via de kansspelinterface of telefonisch contact op te nemen met verslavingspreventie-opgeleid personeel van de vergunninghouder.
+
+   - 1°. € 350 per maand; of
+
+   - 2°. € 87,50 per week bij het ontbreken of niet invoeren van een stortingslimiet per maand; of
+
+   - 3°. € 12,50 per dag bij het ontbreken of niet invoeren van een stortingslimiet per maand en per week;
+
+2. Het eerste lid is niet van toepassing op gevallen waarin spelers een bedrag invoeren tot verlaging van een bestaande stortingslimiet.
+
+##### Artikel 3.19e. Inhoud van het contact bij invoeren stortingslimieten
+
+1. Indien contact als bedoeld in [artikel 3.19d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19d&z=2026-04-01&g=2026-04-01), plaatsvindt over het invoeren van een stortingslimiet vraagt het verslavingspreventie-opgeleid personeel van de vergunninghouder tijdens dat contact aan de speler of aspirant-speler:
+
+- a. of hij zich ervan bewust is dat hij een hoge stortingslimiet wil instellen;
+
+- b. of hij zich ervan bewust is dat hij het in te voeren bedrag kan verliezen onder herhaling van de hoogte van dat bedrag;
+
+- c. om te verklaren dat hij bereid is het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag.
+
+2. Voordat het contact wordt afgerond, wijst het verslavingspreventie-opgeleid personeel de speler of aspirant-speler in ieder geval op:
+
+- a. de risico’s van onmatige deelname aan kansspelen;
+
+- b. de mogelijkheid tot uitsluiting van deelname aan kansspelen, georganiseerd in speelautomatenhallen, in speelcasino’s en op afstand, door inschrijving in het register;
+
+- c. de mogelijkheid tot het zich, zo nodig anoniem, laten voorlichten en ontvangen van informatie omtrent kansspelverslaving door het landelijke preventieloket dat wordt gefinancierd op grond van [artikel 33e, eerste lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) onder vermelding van de contactgegevens van dat loket.
+
+3. De vergunninghouder verzendt via e-mail een bevestiging van het contact aan de speler of aspirant-speler alsmede een verslag daarvan. Dat verslag bevat in ieder geval:
+
+- a. de reactie op de vragen, bedoeld in het eerste lid;
+
+- b. de informatie, bedoeld in het tweede lid;
+
+- c. het bedrag dat definitief wordt ingevoerd als stortingslimiet;
+
+- d. de termijn die ingevolge [artikel 4.14, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) geldt voor wijziging van de stortingslimiet, indien die wijziging strekt tot verhoging van die limiet.
+
+##### Artikel 3.19f. Onverwerkbare invoer
+
+1. De vergunninghouder treft passende maatregelen die waarborgen dat spelers en aspirant-spelers opnieuw worden verzocht om een grens in te voeren met inachtneming van de bepalingen in deze afdeling, indien zij bij het invullen of wijzigen van het spelersprofiel informatie invoeren die het spelsysteem niet als grens kan verwerken.
+
+2. Indien de ingevoerde grens lager is dan de minimale grens die het spelsysteem kan verwerken, bevat het verzoek, bedoeld in het eerste lid, de mededeling welke minimale waarde kan worden ingevoerd die het spelsysteem kan verwerken. In geen geval wordt daarbij de maximale waarde vermeld die het spelsysteem kan verwerken.
+
+3. Indien de ingevoerde grens hoger is dan de maximale grens die het spelsysteem kan verwerken, bevat het verzoek, bedoeld in het eerste lid, de mededeling welke minimale en maximale waarden kunnen worden ingevoerd die het spelsysteem kan verwerken en dat andere in te voeren waarden tussen die waarden in moeten liggen.
+
+#### Afdeling 4. Consumentenbescherming
 
 #### § 1. De klantendienst en de afhandeling van klachten
 
@@ -416,7 +484,7 @@ De vergunninghouder schorst de mogelijkheid tot deelname aan de vergunde kansspe
 
 1. De vergunninghouder bevestigt de ontvangst van een klacht uiterlijk binnen 72 uur na de ontvangst van de klacht aan de klager.
 
-2. De vergunninghouder is niet verplicht een klacht te behandelen, indien zij betrekking heeft op een gedraging waarover de klager eerder een klacht heeft ingediend en die met inachtneming van de procedure, bedoeld in [artikel 4.37, eerste lid, van het besluit](onbekend) is afgehandeld.
+2. De vergunninghouder is niet verplicht een klacht te behandelen, indien zij betrekking heeft op een gedraging waarover de klager eerder een klacht heeft ingediend en die met inachtneming van de procedure, bedoeld in artikel 4.37, eerste lid, van het besluit is afgehandeld.
 
 3. Indien de vergunninghouder een klacht niet in behandeling neemt, stelt hij de klager hiervan uiterlijk binnen een week na ontvangst van de klacht op de hoogte.
 
@@ -450,7 +518,7 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 - b. de voorwaarden voor uitkering van de jackpot;
 
-- c. het wel of niet verwerken van de jackpot in het uitbetalingspercentage, bedoeld in [artikel 4.34, eerste lid, onder d, van het besluit](onbekend).
+- c. het wel of niet verwerken van de jackpot in het uitbetalingspercentage, bedoeld in artikel 4.34, eerste lid, onder d, van het besluit.
 
 ##### Artikel 3.26. Informatie over weddenschappen
 
@@ -466,19 +534,19 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 - b. de speler voldoende inzicht bieden welke prijs hij kan winnen met welke inzet.
 
-### Afdeling 5. Het spelsysteem
+#### Afdeling 5. Het spelsysteem
 
 ##### Artikel 3.27. Kwaliteitsmanagement, informatiebeveiliging en ICT-beheer
 
-1. Het kwaliteitsmanagementsysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder a, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
+1. Het kwaliteitsmanagementsysteem van de vergunninghouder, bedoeld in artikel 4.40, onder a, van het besluit, voldoet ten minste aan de vereisten genoemd in onderdeel 3.1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-2. Het informatiebeveiligingssysteem van de vergunninghouder, bedoeld in [artikel 4.40, onder b, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
+2. Het informatiebeveiligingssysteem van de vergunninghouder, bedoeld in artikel 4.40, onder b, van het besluit, voldoet ten minste aan de vereisten genoemd in onderdeel 3.2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
-3. Het systeem voor het beheer van de informatietechnologie en- communicatienetwerken van de vergunninghouder, bedoeld in [artikel 4.40, onder c, van het besluit](onbekend), voldoet ten minste aan de vereisten genoemd in onderdeel 3.3 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
+3. Het systeem voor het beheer van de informatietechnologie en- communicatienetwerken van de vergunninghouder, bedoeld in artikel 4.40, onder c, van het besluit, voldoet ten minste aan de vereisten genoemd in onderdeel 3.3 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&bijlage=3&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 ##### Artikel 3.28. Het risiconiveau van onderdelen van het spelsysteem
 
-1. De vergunninghouder beoordeelt het risiconiveau, bedoeld in [artikel 4.41, tweede lid, onder a, subonderdeel 2°, van het besluit](onbekend), van ieder onderdeel van het spelsysteem in ieder geval op de volgende controleaspecten:
+1. De vergunninghouder beoordeelt het risiconiveau, bedoeld in artikel 4.41, tweede lid, onder a, subonderdeel 2°, van het besluit, van ieder onderdeel van het spelsysteem in ieder geval op de volgende controleaspecten:
 
 - a. exclusiviteit;
 
@@ -492,7 +560,7 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 - f. controleerbaarheid.
 
-2. De vergunninghouder hanteert een van de volgende toepasselijke categorieën voor de classificatie van het risiconiveau van ieder onderdeel van het spelsysteem als bedoeld in [artikel 4.41, derde lid, van het besluit](onbekend):
+2. De vergunninghouder hanteert een van de volgende toepasselijke categorieën voor de classificatie van het risiconiveau van ieder onderdeel van het spelsysteem als bedoeld in artikel 4.41, derde lid, van het besluit:
 
 - a. niet-kritiek;
 
@@ -500,11 +568,11 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 - c. kritiek.
 
-### Afdeling 6. De keuring van het spelsysteem
+#### Afdeling 6. De keuring van het spelsysteem
 
 ##### Artikel 3.29. De accreditatienormen voor keuringsinstellingen
 
-1. Een keuringsinstelling kan overeenkomstig [artikel 4.44, eerste lid, van het besluit](onbekend) worden aangewezen, indien zij is geaccrediteerd voor het verrichten van werkzaamheden zoals opgenomen in het schema tot conformiteitsbeoordeling, bedoeld in [artikel 4.53, eerste lid, onder a, van het besluit](onbekend), tegen:
+1. Een keuringsinstelling kan overeenkomstig artikel 4.44, eerste lid, van het besluit worden aangewezen, indien zij is geaccrediteerd voor het verrichten van werkzaamheden zoals opgenomen in het schema tot conformiteitsbeoordeling, bedoeld in artikel 4.53, eerste lid, onder a, van het besluit, tegen:
 
 - a. NEN-EN-ISO/IEC 17020, voor zover die werkzaamheden in dat schema zijn aangemerkt als inspectiewerkzaamheden;
 
@@ -518,7 +586,7 @@ De vergunninghouder die kansspelen met een jackpot organiseert biedt op de kanss
 
 ##### Artikel 3.30. De eigen keuring van niet-kritieke spelsysteemonderdelen
 
-De vergunninghouder draagt er zorg voor dat de werkzaamheden bij een eigen keuring als bedoeld in [artikel 4.51, tweede lid, onder a, van het besluit](onbekend):
+De vergunninghouder draagt er zorg voor dat de werkzaamheden bij een eigen keuring als bedoeld in artikel 4.51, tweede lid, onder a, van het besluit:
 
 - a. door een dienst of afdeling worden uitgevoerd die vaktechnisch voldoende onafhankelijk is;
 
@@ -542,7 +610,7 @@ De vergunninghouder draagt er zorg voor dat de werkzaamheden bij een eigen keuri
 
 ##### Artikel 3.32. De keuringsrapporten van eigen keuringen
 
-Het keuringsrapport van iedere eigen keuring als bedoeld in [artikel 4.51, tweede lid, onder a, van het besluit](onbekend) is voldoende actueel en bevat in ieder geval:
+Het keuringsrapport van iedere eigen keuring als bedoeld in artikel 4.51, tweede lid, onder a, van het besluit is voldoende actueel en bevat in ieder geval:
 
 - a. een toereikende aanduiding van die onderdelen van het spelsysteem die aan de keuring zijn onderworpen;
 
@@ -556,19 +624,19 @@ Het keuringsrapport van iedere eigen keuring als bedoeld in [artikel 4.51, tweed
 
 ### Hoofdstuk 4. Toezicht en handhaving
 
-### Afdeling 1. Registratieverplichtingen
+#### Afdeling 1. Registratieverplichtingen
 
 ##### Artikel 4.1. De gegevens over inschrijvingen
 
 De vergunninghouder registreert met betrekking tot de inschrijving van iedere persoon, voor zover van toepassing, ten minste:
 
-- a. de gegevens, bedoeld in [artikel 4.11, eerste lid, van het besluit](onbekend), en iedere wijziging van deze gegevens;
+- a. de gegevens, bedoeld in artikel 4.11, eerste lid, van het besluit, en iedere wijziging van deze gegevens;
 
 - b. de datum en het tijdstip van de inschrijving, dan wel de weigering daarvan en de reden voor weigering;
 
 - c. of verscherpt cliëntenonderzoek heeft plaatsgevonden overeenkomstig [artikel 8, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8), en de feiten die hebben geleid tot dat onderzoek;
 
-- d. de datum, tijdstip en methode van verificatie van de identiteit van de speler overeenkomstig [artikel 4.16, tweede lid, van het besluit](onbekend);
+- d. de datum, tijdstip en methode van verificatie van de identiteit van de speler overeenkomstig artikel 4.16, tweede lid, van het besluit;
 
 - e. de datum en het tijdstip van iedere door de vergunninghouder opgelegde schorsing van de mogelijkheid tot deelname en de reden voor schorsing;
 
@@ -580,7 +648,7 @@ De vergunninghouder registreert met betrekking tot iedere speler, voor zover van
 
 - a. een zodanig unieke aanduiding van het kansspel dat dit kansspel te onderscheiden is van andere kansspelen waaraan de speler deelneemt;
 
-- b. de namen, voornamen en de unieke aanduiding, bedoeld in [artikel 5.3, tweede lid, onder a, van het besluit](onbekend), van iedere speler die aan het kansspel deelneemt;
+- b. de namen, voornamen en de unieke aanduiding, bedoeld in artikel 5.3, tweede lid, onder a, van het besluit, van iedere speler die aan het kansspel deelneemt;
 
 - c. het totale bedrag dat iedere speler heeft ingezet;
 
@@ -626,9 +694,9 @@ De vergunninghouder registreert met betrekking tot iedere onderbreking als bedoe
 
 ##### Artikel 4.6. De gegevens over de werkzaamheden van vertegenwoordigers
 
-De vergunninghouder registreert met betrekking tot de werkzaamheden van vertegenwoordigers als bedoeld in [artikel 4.1, eerste lid, van het besluit](onbekend), ten minste:
+De vergunninghouder registreert met betrekking tot de werkzaamheden van vertegenwoordigers als bedoeld in artikel 4.1, eerste lid, van het besluit, ten minste:
 
-- a. de datum, de plaats en de gegevens van de organisator van ieder overleg als bedoeld in [artikel 4.1, eerste lid, onderdeel a, van het besluit](onbekend) waaraan de vertegenwoordiger heeft deelgenomen;
+- a. de datum, de plaats en de gegevens van de organisator van ieder overleg als bedoeld in artikel 4.1, eerste lid, onderdeel a, van het besluit waaraan de vertegenwoordiger heeft deelgenomen;
 
 - b. de zakelijke weergave van elk overleg in de vorm van een schriftelijk verslag;
 
@@ -666,15 +734,15 @@ De vergunninghouder registreert met betrekking tot iedere vermoedelijke integrit
 
 ##### Artikel 4.9. De gegevens over betrouwbaarheidsbeoordelingen
 
-De vergunninghouder registreert met betrekking tot de beoordeling, bedoeld in [artikel 4.6 van het besluit](onbekend), ten minste:
+De vergunninghouder registreert met betrekking tot de beoordeling, bedoeld in artikel 4.6 van het besluit, ten minste:
 
-- a. de ter zake relevante gegevens van de personen waarvan de vergunninghouder de betrouwbaarheid op grond van [artikel 4.6 van het besluit](onbekend) heeft beoordeeld;
+- a. de ter zake relevante gegevens van de personen waarvan de vergunninghouder de betrouwbaarheid op grond van artikel 4.6 van het besluit heeft beoordeeld;
 
 - b. de procedures die de vergunninghouder heeft gevolgd om de betrouwbaarheid te beoordelen.
 
 ##### Artikel 4.10. De gegevens over de integriteit van de sport en weddenschappen
 
-De vergunninghouder registreert met betrekking tot ieder risico dat overeenkomstig [artikel 4.8, eerste en derde lid, van het besluit](onbekend) is onderkend:
+De vergunninghouder registreert met betrekking tot ieder risico dat overeenkomstig artikel 4.8, eerste en derde lid, van het besluit is onderkend:
 
 - a. de datum en het tijdstip waarop het risico is onderkend;
 
@@ -702,69 +770,69 @@ De vergunninghouder registreert met betrekking tot ieder risico dat overeenkomst
 
 - g. het rekeningnummer of een andere unieke aanduiding van het betaalinstrument dat voor de transactie is gebruikt.
 
-2. Onverminderd [artikel 5.3, tweede lid, van het besluit](onbekend) neemt de vergunninghouder de volgende gegevens, voor zover van toepassing, per speelrekening op in de controledatabank:
+2. Onverminderd artikel 5.3, tweede lid, van het besluit neemt de vergunninghouder de volgende gegevens, voor zover van toepassing, per speelrekening op in de controledatabank:
 
-- a. ieder bedrag dat overeenkomstig [artikel 4.29, derde lid, van het besluit](onbekend), niet ten gunste van de tegenrekening is gedebiteerd, omdat de betrouwbare, verantwoorde en controleerbare organisatie van de vergunde kansspelen zich daartegen verzet, onder vermelding van de redenen om tot dit oordeel te komen;
+- a. ieder bedrag dat overeenkomstig artikel 4.29, derde lid, van het besluit, niet ten gunste van de tegenrekening is gedebiteerd, omdat de betrouwbare, verantwoorde en controleerbare organisatie van de vergunde kansspelen zich daartegen verzet, onder vermelding van de redenen om tot dit oordeel te komen;
 
-- b. de datum en het tijdstip van ieder verzoek tot creditering van de speelrekening dat de vergunninghouder heeft geweigerd vanwege het gebruik van een betaalinstrument dat niet voldoet aan [artikel 4.25, tweede lid, aanhef en onder a, van het besluit](onbekend), onder vermelding van deze weigeringsgrond.
+- b. de datum en het tijdstip van ieder verzoek tot creditering van de speelrekening dat de vergunninghouder heeft geweigerd vanwege het gebruik van een betaalinstrument dat niet voldoet aan artikel 4.25, tweede lid, aanhef en onder a, van het besluit, onder vermelding van deze weigeringsgrond.
 
 ##### Artikel 4.12. Het moment van registratie
 
-1. De vergunninghouder registreert de gegevens, bedoeld in [artikel 4.5, tweede lid, onder b, van het besluit](onbekend), en de gegevens, bedoeld in deze afdeling, op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
+1. De vergunninghouder registreert de gegevens, bedoeld in artikel 4.5, tweede lid, onder b, van het besluit, en de gegevens, bedoeld in deze afdeling, op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
 
-2. De vergunninghouder neemt de gegevens, bedoeld in [artikel 5.3, tweede lid, van het besluit](onbekend), en in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2026-04-01&g=2026-04-01), van deze regeling in onbewerkte vorm op in de controledatabank op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
+2. De vergunninghouder neemt de gegevens, bedoeld in artikel 5.3, tweede lid, van het besluit, en in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2026-04-01&g=2026-04-01), van deze regeling in onbewerkte vorm op in de controledatabank op het moment waarop deze gegevens worden gegenereerd of, indien dit niet mogelijk is, onverwijld na dat moment.
 
 ##### Artikel 4.13. De termijnen voor het bewaren en aanhouden van gegevens
 
-1. De vergunninghouder bewaart de gegevens die hij opneemt in zijn administratie ter uitvoering van deze afdeling en [artikel 4.4 van het besluit](onbekend) met uitzondering van persoonsgegevens van spelers voor de duur van drie jaar, gerekend vanaf het moment van registratie daarvan, tenzij uit een wettelijk voorschrift anders voortvloeit.
+1. De vergunninghouder bewaart de gegevens die hij opneemt in zijn administratie ter uitvoering van deze afdeling en artikel 4.4 van het besluit met uitzondering van persoonsgegevens van spelers voor de duur van drie jaar, gerekend vanaf het moment van registratie daarvan, tenzij uit een wettelijk voorschrift anders voortvloeit.
 
-2. In afwijking van het eerste lid bewaart de vergunninghouder de spelersprofielen, de daarin opgenomen persoonsgegevens van spelers, alsmede andere persoonsgegevens die hij van spelers registreert ter uitvoering van deze afdeling en [artikel 4.4 van het besluit](onbekend) en vernietigt hij deze na afloop van drie jaar, gerekend vanaf het moment van beëindiging van de inschrijving van de speler, tenzij uit een wettelijk voorschrift anders voortvloeit.
+2. In afwijking van het eerste lid bewaart de vergunninghouder de spelersprofielen, de daarin opgenomen persoonsgegevens van spelers, alsmede andere persoonsgegevens die hij van spelers registreert ter uitvoering van deze afdeling en artikel 4.4 van het besluit en vernietigt hij deze na afloop van drie jaar, gerekend vanaf het moment van beëindiging van de inschrijving van de speler, tenzij uit een wettelijk voorschrift anders voortvloeit.
 
 3. In afwijking van de voorgaande leden bewaart de vergunninghouder de gegevens, bedoeld in [artikel 4.2, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.2&z=2026-04-01&g=2026-04-01), en in [artikel 4.4, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.4&z=2026-04-01&g=2026-04-01), zeven jaar, gerekend vanaf het moment van registratie daarvan.
 
-4. Onverminderd de voorgaande leden houdt de vergunninghouder de gegevens die hij opneemt in de controledatabank ter uitvoering van deze afdeling en [artikel 5.3, tweede lid, van het besluit](onbekend) voor de duur van twaalf maanden in de controledatabank.
+4. Onverminderd de voorgaande leden houdt de vergunninghouder de gegevens die hij opneemt in de controledatabank ter uitvoering van deze afdeling en artikel 5.3, tweede lid, van het besluit voor de duur van twaalf maanden in de controledatabank.
 
-### Afdeling 2. Rapportageverplichtingen
+#### Afdeling 2. Rapportageverplichtingen
 
 ##### Artikel 4.14. Informatie over het integriteitsbeleid
 
-De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, van het besluit](onbekend), in ieder geval de volgende gegevens op:
+De vergunninghouder neemt in de rapportage, bedoeld in artikel 5.1, eerste lid, aanhef en onder a, van het besluit, in ieder geval de volgende gegevens op:
 
 - a. met betrekking tot integriteitsinbreuken:
 
-- 1°. het totaal aantal vermoedelijke integriteitsinbreuken;
+   - 1°. het totaal aantal vermoedelijke integriteitsinbreuken;
 
-- 2°. het totaal aantal onderzoeken dat is verricht naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar status of uitkomst als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.7&z=2026-04-01&g=2026-04-01) van deze regeling;
+   - 2°. het totaal aantal onderzoeken dat is verricht naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar status of uitkomst als bedoeld in [artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.7&z=2026-04-01&g=2026-04-01) van deze regeling;
 
-- 3°. het totaal aantal overeenkomstig [artikel 4.19, eerste lid, aanhef en onder b, van het besluit](onbekend) uitgevoerde schorsingen naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar de aard van deze inbreuken en de daarop getroffen maatregelen;
+   - 3°. het totaal aantal overeenkomstig artikel 4.19, eerste lid, aanhef en onder b, van het besluit uitgevoerde schorsingen naar aanleiding van vermoedelijke integriteitsinbreuken onderverdeeld naar de aard van deze inbreuken en de daarop getroffen maatregelen;
 
 - b. met betrekking tot de integriteit van weddenschappen:
 
-- 1°. het totaal aantal overeenkomstig [artikel 4.8, derde lid, van het besluit](onbekend) onderkende risico’s;
+   - 1°. het totaal aantal overeenkomstig artikel 4.8, derde lid, van het besluit onderkende risico’s;
 
-- 2°. het totaal aantal overeenkomstig [artikel 4.8, vierde lid, van het besluit](onbekend) gedane meldingen.
+   - 2°. het totaal aantal overeenkomstig artikel 4.8, vierde lid, van het besluit gedane meldingen.
 
 ##### Artikel 4.15. Informatie over inschrijvingen van spelers
 
-De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid, aanhef en onder b, van het besluit](onbekend), in ieder geval de volgende gegevens op:
+De vergunninghouder neemt in de rapportage, bedoeld in artikel 5.1, eerste lid, aanhef en onder b, van het besluit, in ieder geval de volgende gegevens op:
 
-- a. het aantal spelers dat overeenkomstig [afdeling 3 van hoofdstuk 4 van het besluit](onbekend) bij hem is ingeschreven;
+- a. het aantal spelers dat overeenkomstig afdeling 3 van hoofdstuk 4 van het besluit bij hem is ingeschreven;
 
 - b. het aantal spelers ten aanzien waarvan overeenkomstig [artikel 8, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=8) een verscherpt cliëntenonderzoek is verricht;
 
-- c. het aantal spelers van wie de inschrijving op grond van [artikel 4.13, eerste respectievelijk tweede lid, van het besluit](onbekend), is geweigerd;
+- c. het aantal spelers van wie de inschrijving op grond van artikel 4.13, eerste respectievelijk tweede lid, van het besluit, is geweigerd;
 
-- d. het aantal spelers waarvan de inschrijving overeenkomstig [artikel 4.17 van het besluit](onbekend) is beëindigd;
+- d. het aantal spelers waarvan de inschrijving overeenkomstig artikel 4.17 van het besluit is beëindigd;
 
-- e. het aantal spelers dat overeenkomstig [artikel 4.19, eerste lid, aanhef en onder c, van het besluit](onbekend) is geschorst.
+- e. het aantal spelers dat overeenkomstig artikel 4.19, eerste lid, aanhef en onder c, van het besluit is geschorst.
 
 ##### Artikel 4.16. Informatie over betalingstransacties
 
-De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid, aanhef en onder c, van het besluit](onbekend), in ieder geval het aantal keer op dat de vergunninghouder de speelrekening van een speler niet overeenkomstig [artikel 4.27, eerste lid, aanhef en onder a, van het besluit](onbekend) heeft gecrediteerd, omdat de geldmiddelen afkomstig zijn van een tegenrekening of een andere betaalrekening die niet ondubbelzinnig tot de persoon van de speler is te herleiden.
+De vergunninghouder neemt in de rapportage, bedoeld in artikel 5.1, eerste lid, aanhef en onder c, van het besluit, in ieder geval het aantal keer op dat de vergunninghouder de speelrekening van een speler niet overeenkomstig artikel 4.27, eerste lid, aanhef en onder a, van het besluit heeft gecrediteerd, omdat de geldmiddelen afkomstig zijn van een tegenrekening of een andere betaalrekening die niet ondubbelzinnig tot de persoon van de speler is te herleiden.
 
 ##### Artikel 4.17. Informatie over consumentenbescherming
 
-De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid, aanhef en onder d, van het besluit](onbekend), in ieder geval het aantal klachten op:
+De vergunninghouder neemt in de rapportage, bedoeld in artikel 5.1, eerste lid, aanhef en onder d, van het besluit, in ieder geval het aantal klachten op:
 
 - a. dat de vergunninghouder heeft ontvangen, onderverdeeld naar onderwerp van de klacht;
 
@@ -774,11 +842,11 @@ De vergunninghouder neemt in de rapportage, bedoeld in [artikel 5.1, eerste lid,
 
 ##### Artikel 4.18. Frequentie en wijze van rapporteren
 
-1. De vergunninghouder stelt de rapportages, bedoeld in [artikel 5.1, eerste lid, van het besluit](onbekend), op en zendt deze jaarlijks aan de raad van bestuur overeenkomstig door de raad te stellen regels. Deze regels hebben in ieder geval betrekking op de vorm waarin en de wijze waarop wordt gerapporteerd.
+1. De vergunninghouder stelt de rapportages, bedoeld in artikel 5.1, eerste lid, van het besluit, op en zendt deze jaarlijks aan de raad van bestuur overeenkomstig door de raad te stellen regels. Deze regels hebben in ieder geval betrekking op de vorm waarin en de wijze waarop wordt gerapporteerd.
 
-2. De raad van bestuur kan in afwijking van het eerste lid bepalen dat een vergunninghouder of de vergunninghouders vaker dan eenmaal per jaar rapporteren. De raad van bestuur geeft in dat geval aan over welke onderwerpen, bedoeld in [artikel 5.1, eerste lid, van het besluit](onbekend), moet worden gerapporteerd.
+2. De raad van bestuur kan in afwijking van het eerste lid bepalen dat een vergunninghouder of de vergunninghouders vaker dan eenmaal per jaar rapporteren. De raad van bestuur geeft in dat geval aan over welke onderwerpen, bedoeld in artikel 5.1, eerste lid, van het besluit, moet worden gerapporteerd.
 
-### Afdeling 3. De controledatabank
+#### Afdeling 3. De controledatabank
 
 ##### Artikel 4.19. De integriteit van de gegevens in de controledatabank
 
@@ -792,19 +860,19 @@ De vergunninghouder treft passende technische en operationele maatregelen die wa
 
 - d. personen uitsluitend in de controledatabank gegevens kunnen opnemen, wijzigen of verwijderen, indien:
 
-- 1°. die personen daartoe uitdrukkelijk geautoriseerd zijn door de vergunninghouder;
+   - 1°. die personen daartoe uitdrukkelijk geautoriseerd zijn door de vergunninghouder;
 
-- 2°. die handelingen voor de uitoefening van de taken van die personen noodzakelijk zijn; en
+   - 2°. die handelingen voor de uitoefening van de taken van die personen noodzakelijk zijn; en
 
-- 3°. die handelingen op indirecte wijze naar de betrokken persoon zijn te herleiden.
+   - 3°. die handelingen op indirecte wijze naar de betrokken persoon zijn te herleiden.
 
-- e. de ambtenaren en personen, bedoeld in [artikel 5.3, derde lid, van het besluit](onbekend), gegevens uit de controledatabank kunnen kopiëren en geen gegevens in de controledatabank kunnen opnemen, wijzigen of verwijderen;
+- e. de ambtenaren en personen, bedoeld in artikel 5.3, derde lid, van het besluit, gegevens uit de controledatabank kunnen kopiëren en geen gegevens in de controledatabank kunnen opnemen, wijzigen of verwijderen;
 
-- f. de ambtenaren en personen, bedoeld in [artikel 5.3, derde lid, onder b en c, van het besluit](onbekend), uitsluitend toegang hebben tot:
+- f. de ambtenaren en personen, bedoeld in artikel 5.3, derde lid, onder b en c, van het besluit, uitsluitend toegang hebben tot:
 
-- 1°. de gegevens, bedoeld in [artikel 5.3, tweede lid, onder a, d en e, van het besluit](onbekend);
+   - 1°. de gegevens, bedoeld in artikel 5.3, tweede lid, onder a, d en e, van het besluit;
 
-- 2°. de gegevens, bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2026-04-01&g=2026-04-01), van deze regeling.
+   - 2°. de gegevens, bedoeld in [artikel 4.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=4&afdeling=1&artikel=4.11&z=2026-04-01&g=2026-04-01), van deze regeling.
 
 ##### Artikel 4.20. Afscheiding en fysieke plaatsing van de controledatabank
 
@@ -828,326 +896,36 @@ De vergunninghouder draagt er zorg voor de dat de controledatabank voldoet aan d
 
 ### Hoofdstuk 5. Wijziging van andere regelingen
 
-##### Artikel 5.1. Wijziging [Regeling werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613)
+##### Artikel 5.1. Wijziging Regeling werving, reclame en verslavingspreventie kansspelen
 
-Wijzigt de Regeling werving, reclame en verslavingspreventie kansspelen.
+*Wijzigt de Regeling werving, reclame en verslavingspreventie kansspelen.*
 
-##### Artikel 5.2. Wijziging [Uitvoeringsregeling kansspelheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0031528)
+##### Artikel 5.2. Wijziging Uitvoeringsregeling kansspelheffing
 
-Wijzigt de Uitvoeringsregeling kansspelheffing.
+*Wijzigt de Uitvoeringsregeling kansspelheffing.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
 ##### Artikel 6.1. Tijdelijke ontheffing inzake keuringen
 
-1. De raad van bestuur kan voor de periode van maximaal twee jaar tot na inwerkingtreding van de [Wet van 20 februari 2019 tot wijziging van de Wet op de kansspelen, de Wet op de kansspelbelasting en enkele andere wetten in verband met het organiseren van kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (Stb. 2019, 127) ontheffing verlenen van het vereiste, bedoeld in [artikel 31h, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l), mits het spelsysteem van de vergunninghouder naar het oordeel van de raad wordt gekeurd door een of meer ter zake kundige keuringsinstellingen.
+1. De raad van bestuur kan voor de periode van maximaal twee jaar tot na inwerkingtreding van de [Wet van 20 februari 2019 tot wijziging van de Wet op de kansspelen, de Wet op de kansspelbelasting en enkele andere wetten in verband met het organiseren van kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (Stb. 2019, 127) ontheffing verlenen van het vereiste, bedoeld in [artikel 31h, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l), mits het spelsysteem van de vergunninghouder naar het oordeel van de raad wordt gekeurd door een of meer ter zake kundige keuringsinstellingen.
 
 2. De keuringsinstellingen, bedoeld in het eerste lid, voldoen in ieder geval aan de volgende vereisten:
 
 - a. de keuringsinstelling is overeenkomstig [artikel 3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=6&artikel=3.29&z=2026-04-01&g=2026-04-01), geaccrediteerd tegen een of meerdere in dat artikel bedoelde accreditatienormen voor het verrichten van keuringen ten aanzien van de organisatie van kansspelen op afstand in ten minste twee lidstaten;
 
-- b. de accreditaties, bedoeld in onderdeel a, zijn afgegeven door een accreditatie-instantie die volwaardig lid is van de **International Laboratory Accreditation Cooperation** of het **International Accreditation Forum**;
+- b. de accreditaties, bedoeld in onderdeel a, zijn afgegeven door een accreditatie-instantie die volwaardig lid is van de *International Laboratory Accreditation Cooperation* of het *International Accreditation Forum*;
 
 - c. de keuringsresultaten en keuringsrapporten van de keuringsinstelling worden geaccepteerd door de ter zake van kansspelen bevoegde autoriteiten in de lidstaten, bedoeld in onderdeel a; en
 
 - d. de keuringsinstellingen hebben ten minste drie jaar ervaring met het onder accreditatie verrichten van keuringen in de lidstaten, bedoeld in onderdeel a.
 
-3. Het bepaalde bij en krachtens [hoofdstuk 4, afdeling 7, van het besluit](onbekend) met uitzondering van de [artikelen 4.44](onbekend) en [4.45](onbekend), is van overeenkomstige toepassing op keuringsinstellingen als bedoeld in eerste lid.
+3. Het bepaalde bij en krachtens hoofdstuk 4, afdeling 7, van het besluit met uitzondering van de artikelen 4.44 en 4.45, is van overeenkomstige toepassing op keuringsinstellingen als bedoeld in eerste lid.
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Deze regeling treedt met uitzondering van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.2&z=2026-04-01&g=2026-04-01) in werking op 1 april 2021.
+Deze regeling treedt met uitzondering van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.2&z=2026-04-01&g=2026-04-01) in werking op 1 april 2021.
 
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kansspelen op afstand.
-
-## Bijlage 1. behorend bij [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.4&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
-
-### Onderdeel 1.1. Strafrechtelijke antecedenten
-
-Onverminderd [artikel 3.4, tweede lid, aanhef en onder d, van het besluit](onbekend) neemt de raad van bestuur bij de beoordeling van de betrouwbaarheid van de vergunninghouder, van de personen die diens beleid bepalen of mede bepalen, van diens uiteindelijke belanghebbenden en van diens middellijke en onmiddellijke vermogensverschaffers, in aanmerking of betrokkene in Nederland of in het buitenland ter zake van de in onderdeel 1.2 bedoelde strafbare feiten:
-
-### Onderdeel 1.2. Strafbare feiten
-
-Poging tot, voorbereiding van, doen plegen van, uitlokking van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### Onderdeel 1.3. Buitenlandse strafrechtelijke antecedenten
-
-Onder veroordelingen als bedoeld in onderdeel 1.1, onder a, worden tevens verstaan veroordelingen in het buitenland ter zake van strafbare feiten die met de in onderdeel 1.2 bedoelde strafbare feiten vergelijkbaar zijn.
-
-Onder strafbeschikkingen als bedoeld in onderdeel 1.1, onder b, worden tevens verstaan daarmee vergelijkbare buitengerechtelijke afdoeningen door een daartoe bevoegde autoriteit in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-Onder transacties als bedoeld in onderdeel 1.1, onder c, worden tevens verstaan daarmee vergelijkbare overeenkomsten met de daartoe bevoegde autoriteit in het buitenland met betrekking tot niet-vervolging ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-Onder geen vervolging of geen verdere vervolging al dan niet onder voorwaarden, vrijspraak of ontslag van rechtsvervolging als bedoeld in onderdeel 1.1, onder d, worden tevens verstaan daarmee vergelijkbare uitspraken en maatregelen door een daartoe bevoegde autoriteit in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-Onverminderd [artikel 3.4, tweede lid, aanhef en onder d, van het besluit](onbekend) neemt de raad van bestuur bij de beoordeling van de betrouwbaarheid van de vergunninghouder, van de personen die diens beleid bepalen of mede bepalen, van diens uiteindelijke belanghebbenden en van diens middellijke en onmiddellijke vermogensverschaffers, in aanmerking of betrokkene in Nederland of in het buitenland ter zake van de in onderdeel 1.2 bedoelde strafbare feiten:
-
-## Bijlage 2. behorend bij de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.13&z=2022-12-10&g=2022-12-10), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.14&z=2022-12-10&g=2022-12-10) en [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.15&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
-
-### Onderdeel 2.1
-
-Een voorafgaande identificatie en analyse als bedoeld in [artikel 4.8, eerste lid, van het Besluit kansspelen op afstand](onbekend) kan achterwege blijven met betrekking tot de volgende wedstrijden en competities:
-
-### Onderdeel 2.2
-
-Onder strafbeschikkingen als bedoeld in onderdeel 1.1, onder b, worden tevens verstaan daarmee vergelijkbare buitengerechtelijke afdoeningen door een daartoe bevoegde autoriteit in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-### Onderdeel 2.3
-
-Onder geen vervolging of geen verdere vervolging al dan niet onder voorwaarden, vrijspraak of ontslag van rechtsvervolging als bedoeld in onderdeel 1.1, onder d, worden tevens verstaan daarmee vergelijkbare uitspraken en maatregelen door een daartoe bevoegde autoriteit in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-## Bijlage 3. behorend bij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=5&artikel=3.27&z=2022-12-10&g=2022-12-10) van de Regeling kansspelen op afstand
-
-| **Onderdeel 3.1** |   |   |
-| --- | --- | --- |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-|   |   |   |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft een kwaliteitsbeheersysteem opgezet dat voorziet in continue verbetering van producten en diensten. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft de kenmerken van zijn producten en diensten gespecificeerd en gedocumenteerd. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft zijn procedures en de verwachte resultaten gespecificeerd en gedocumenteerd voor alle processen die op enigerlei wijze gevolgen hebben voor de speler. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder draagt er zorg voor dat er voldoende middelen beschikbaar zijn om processen uit te voeren die op enigerlei wijze gevolgen hebben voor de speler. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. |   |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft procedures ingericht voor interne controle en beheerstoezicht die onder meer voorzien in terugkoppeling teneinde processen, producten en diensten te verbeteren en wet- en regelgeving na te leven. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder draagt zorg voor continue beoordeling en verbetering van het kwaliteitsbeheersysteem. |
-|   |   |   |
-| **Onderdeel 3.2** |   |   |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft een beheercyclus voor informatiebeveiliging opgezet die voorziet in continue verbetering van de informatiebeveiliging. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | Het beheer van informatiebeveiliging is gebaseerd op identificatie en beperking van risico's. De vergunninghouder heeft als uitgangspunt voor zijn maatregelen een risicobeoordeling uitgevoerd. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | Procedures en beleid ten aanzien van informatiebeveiliging worden gedocumenteerd en onderhouden. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft ten minste de volgende documentatie beschikbaar: – beleid ten aanzien van informatiebeveiliging; – reikwijdte van het informatiebeveiligingsbeheer; – risicobeoordeling; – verantwoordelijkheden met betrekking tot informatiebeveiliging; – beschrijving van beveiligingsmaatregelen; – beschrijving van uitvoering en resultaten van de beheercyclus. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder verricht regelmatige controles op de informatiebeheercyclus en penetratietests van zijn systemen. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft procedures voor het beheer van veiligheidsincidenten opgezet. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de organisatie van de informatiebeveiliging, waaronder in ieder geval: – functies en verantwoordelijkheden; – scheiding van functies; – mobiele apparaten en telewerken. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende personele middelen en veiligheid, waaronder in ieder geval: – screening; – arbeidsvoorwaarden; – managementverantwoordelijkheden; – bewustzijn van en onderwijs en opleiding betreffende informatiebeveiliging; – disciplinaire procedures; – verantwoordelijkheden in verband met beëindiging of wijziging van dienstbetrekking. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende beheer van activa, waaronder in ieder geval: – verantwoordelijkheid voor activa; – classificatie van informatie; – het gebruik van gegevensdragers en andere media. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende toegangscontrole, waaronder in ieder geval: – vereisten van toegangscontrole; – beheer van gebruikerstoegang; – verantwoordelijkheden van gebruikers; – toegangscontrole voor systemen en applicaties. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende cryptografie, waaronder in ieder geval: – cryptografiebeleid; – sleutelbeheer. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende operationele beveiliging, waaronder in ieder geval: – operationele procedures en verantwoordelijkheden; – bescherming tegen malware; – reservekopieën of reservebestanden; – geautomatiseerde verslaglegging, registratie en bewaking; – beheer van bedrijfssoftware; – beheer van technische kwetsbaarheden; – configuraties voor de controle van informatiesystemen. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende communicatiebeveiliging, waaronder in ieder geval: – beheer van netwerkbeveiliging; – informatieoverdracht. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de aanschaf, ontwikkeling en het onderhoud van systemen, waaronder in ieder geval: – beveiligingseisen voor informatiesystemen; – beveiliging bij ontwikkel- en ondersteuningsprocessen; – testgegevens. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende betrekkingen met leveranciers, waaronder in ieder geval: – informatiebeveiliging; – beheer van de dienstverlening van leveranciers. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de informatiebeveiligingsaspecten van bedrijfscontinuïteitsmanagement, waaronder in ieder geval: – continuïteit van informatiebeveiliging; – terugvalopties ingeval van incidenten. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende naleving, waaronder in ieder geval: – naleving van wettelijke en contractuele vereisten; – toetsing van informatiebeveiliging. |
-| **Onderdeel 3.3** |   |   |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder hanteert een IT-beleid dat aansluit op de doelen van de organisatie en het informatiebeveiligingsbeleid. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder beschikt over gedocumenteerde procedures voor het beheer van incidenten en problemen. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Incidenten worden geregistreerd, geclassificeerd, geanalyseerd en opgelost. Deze stappen worden gedocumenteerd. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Problemen worden geregistreerd, geclassificeerd, geanalyseerd en opgelost. Deze stappen worden gedocumenteerd. Onder problemen worden in ieder geval incidenten verstaan die structureel van aard zijn of geen duidelijke oorzaak hebben. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder beschikt over gedocumenteerde procedures voor veranderings- en **releasemanagement**. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Wijzigingen aan IT-systemen worden geregistreerd en gaan vergezeld van een beschrijving en toelichting. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Wijzigingen worden pas door een bevoegde medewerker goedgekeurd nadat hun effect is beoordeeld en geregistreerd. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd waarin een beschrijving wordt gegeven van het onderhoud en de configuratie van systemen. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van de beschikbaarheid en capaciteit van systemen en infrastructuren. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van de IT-aspecten van het financiële management. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van interne en externe serviceniveaus. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3.5a. De melding bij hoger dan het minimum ingestelde inzetten
-
-De vergunninghouder treft passende maatregelen die waarborgen dat indien de hoogte van de inzet in een spel of speelronde zonder tussenkomst van de speler zodanig is ingesteld dat deze inzet hoger is dan de minimaal mogelijke inzet van dat spel of die speelronde, de speler voorafgaand aan of gelijktijdig met de mogelijkheid tot definitieve invoer van de inzet een waarschuwende melding ontvangt met duidelijke en begrijpelijke informatie dat de speler een lagere inzet kan invoeren. Deze melding vermeldt tevens wat de minimaal mogelijke inzet is.
-
-### Afdeling 2. Integriteitsbeleid
-
-#### § 1. Algemeen
-
-#### § 2. Weddenschappen
-
-### Afdeling 3. Toegang tot de vergunde kansspelen en speeltegoeden
-
-### Afdeling 3a. Het spelersprofiel
-
-##### Artikel 3.19a. Vrije invoer
-
-1. Onverminderd [artikel 3.19f](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19f&z=2026-04-01&g=2026-04-01) treft de vergunninghouder passende maatregelen die waarborgen dat spelers en aspirant-spelers de grenzen van hun speelgedrag kunnen invoeren in lege invoervelden zonder dat deze op enige wijze voorzien zijn van:
-
-- a. vooraf ingestelde en zichtbare minima, maxima of andere invoermogelijkheden dan wel invoersuggesties;
-
-- b. opties om minima, maxima of andere invoermogelijkheden dan wel invoersuggesties zichtbaar te maken.
-
-2. In afwijking van het eerste lid treft de vergunninghouder passende maatregelen die waarborgen dat voor spelers die de grenzen van hun speelgedrag wensen te wijzigen, de op dat moment nog ongewijzigde grenzen zichtbaar zijn in of bij de invoervelden.
-
-##### Artikel 3.19b. Stortingslimieten en tegoed in euro’s
-
-De vergunninghouder treft passende maatregelen die waarborgen dat:
-
-- a. spelers en aspirant-spelers stortingslimieten en het maximale tegoed, bedoeld in [artikel 4.14, tweede lid, onder c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) uitsluitend in euro’s kunnen invoeren;
-
-- b. de stortingslimieten en het maximale tegoed uitsluitend in euro’s worden weergegeven in alle gedeelten van de spelersinterface waar deze worden getoond.
-
-##### Artikel 3.19c. Bevestiging van de invoer
-
-1. Onverminderd [artikel 3.19d](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19d&z=2026-04-01&g=2026-04-01) treft de vergunninghouder passende maatregelen die waarborgen dat elke grens die een speler of aspirant-speler als onderdeel van het spelersprofiel invoert, uitsluitend wordt verwerkt door het spelsysteem nadat:
-
-- a. op duidelijke en begrijpelijke wijze is verzocht om de definitieve invoer te bevestigen; en
-
-- b. de bevestiging is ontvangen en geregistreerd.
-
-2. Bij de invoer van elke stortingslimiet bevat het verzoek, bedoeld in het eerste lid, onder a, tevens:
-
-- a. een duidelijke en begrijpelijke vraag of de speler of de aspirant-speler bereid is het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag;
-
-- b. een duidelijke en begrijpelijke mededeling dat de speler of de aspirant-speler met de bevestiging verklaart bereid te zijn het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag.
-
-##### Artikel 3.19d. Contactmoment bij invoeren stortingslimieten
-
-1. De vergunninghouder treft passende maatregelen die waarborgen dat spelers en aspirant-spelers:
-
-- a. in de leeftijdscategorie tussen 18 en 24 jaar, een bedrag dat gelijk is aan of meer is dan:
-
-- 1°. € 150 per maand; of
-
-- 2°. € 37,50 per week bij het ontbreken of niet invoeren van een stortingslimiet per maand; of
-
-- 3°. € 5,35 per dag bij het ontbreken of niet invoeren van een stortingslimiet per maand en per week;
-
-- b. in de leeftijdscategorie van 24 jaar of ouder, een bedrag dat gelijk is aan of meer is dan: slechts definitief kunnen invoeren en laten verwerken als stortingslimiet door daarover via de kansspelinterface of telefonisch contact op te nemen met verslavingspreventie-opgeleid personeel van de vergunninghouder.
-
-- 1°. € 350 per maand; of
-
-- 2°. € 87,50 per week bij het ontbreken of niet invoeren van een stortingslimiet per maand; of
-
-- 3°. € 12,50 per dag bij het ontbreken of niet invoeren van een stortingslimiet per maand en per week;
-
-2. Het eerste lid is niet van toepassing op gevallen waarin spelers een bedrag invoeren tot verlaging van een bestaande stortingslimiet.
-
-##### Artikel 3.19e. Inhoud van het contact bij invoeren stortingslimieten
-
-1. Indien contact als bedoeld in [artikel 3.19d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=3a&artikel=3.19d&z=2026-04-01&g=2026-04-01), plaatsvindt over het invoeren van een stortingslimiet vraagt het verslavingspreventie-opgeleid personeel van de vergunninghouder tijdens dat contact aan de speler of aspirant-speler:
-
-- a. of hij zich ervan bewust is dat hij een hoge stortingslimiet wil instellen;
-
-- b. of hij zich ervan bewust is dat hij het in te voeren bedrag kan verliezen onder herhaling van de hoogte van dat bedrag;
-
-- c. om te verklaren dat hij bereid is het ingevoerde bedrag te verliezen onder herhaling van de hoogte van dat bedrag.
-
-2. Voordat het contact wordt afgerond, wijst het verslavingspreventie-opgeleid personeel de speler of aspirant-speler in ieder geval op:
-
-- a. de risico’s van onmatige deelname aan kansspelen;
-
-- b. de mogelijkheid tot uitsluiting van deelname aan kansspelen, georganiseerd in speelautomatenhallen, in speelcasino’s en op afstand, door inschrijving in het register;
-
-- c. de mogelijkheid tot het zich, zo nodig anoniem, laten voorlichten en ontvangen van informatie omtrent kansspelverslaving door het landelijke preventieloket dat wordt gefinancierd op grond van [artikel 33e, eerste lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33e) onder vermelding van de contactgegevens van dat loket.
-
-3. De vergunninghouder verzendt via e-mail een bevestiging van het contact aan de speler of aspirant-speler alsmede een verslag daarvan. Dat verslag bevat in ieder geval:
-
-- a. de reactie op de vragen, bedoeld in het eerste lid;
-
-- b. de informatie, bedoeld in het tweede lid;
-
-- c. het bedrag dat definitief wordt ingevoerd als stortingslimiet;
-
-- d. de termijn die ingevolge [artikel 4.14, derde lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.14) geldt voor wijziging van de stortingslimiet, indien die wijziging strekt tot verhoging van die limiet.
-
-##### Artikel 3.19f. Onverwerkbare invoer
-
-1. De vergunninghouder treft passende maatregelen die waarborgen dat spelers en aspirant-spelers opnieuw worden verzocht om een grens in te voeren met inachtneming van de bepalingen in deze afdeling, indien zij bij het invullen of wijzigen van het spelersprofiel informatie invoeren die het spelsysteem niet als grens kan verwerken.
-
-2. Indien de ingevoerde grens lager is dan de minimale grens die het spelsysteem kan verwerken, bevat het verzoek, bedoeld in het eerste lid, de mededeling welke minimale waarde kan worden ingevoerd die het spelsysteem kan verwerken. In geen geval wordt daarbij de maximale waarde vermeld die het spelsysteem kan verwerken.
-
-3. Indien de ingevoerde grens hoger is dan de maximale grens die het spelsysteem kan verwerken, bevat het verzoek, bedoeld in het eerste lid, de mededeling welke minimale en maximale waarden kunnen worden ingevoerd die het spelsysteem kan verwerken en dat andere in te voeren waarden tussen die waarden in moeten liggen.
-
-### Afdeling 4. Consumentenbescherming
-
-#### § 1. De klantendienst en de afhandeling van klachten
-
-#### § 2. Informatieverplichtingen
-
-### Afdeling 5. Het spelsysteem
-
-### Afdeling 6. De keuring van het spelsysteem
-
-### Hoofdstuk 4. Toezicht en handhaving
-
-### Afdeling 1. Registratieverplichtingen
-
-### Afdeling 2. Rapportageverplichtingen
-
-### Afdeling 3. De controledatabank
-
-### Hoofdstuk 5. Wijziging van andere regelingen
-
-### Hoofdstuk 6. Slotbepalingen
-
-## Bijlage 1. behorend bij [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=2&artikel=2.4&z=2026-04-01&g=2026-04-01) van de Regeling kansspelen op afstand
-
-### Onderdeel 1.1. Strafrechtelijke antecedenten
-
-### Onderdeel 1.2. Strafbare feiten
-
-Poging tot, voorbereiding van, doen plegen van, uitlokking van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van:
-
-### Onderdeel 1.3. Buitenlandse strafrechtelijke antecedenten
-
-Onder veroordelingen als bedoeld in onderdeel 1.1, onder a, worden tevens verstaan veroordelingen in het buitenland ter zake van strafbare feiten die met de in onderdeel 1.2 bedoelde strafbare feiten vergelijkbaar zijn.
-
-Onder transacties als bedoeld in onderdeel 1.1, onder c, worden tevens verstaan daarmee vergelijkbare overeenkomsten met de daartoe bevoegde autoriteit in het buitenland met betrekking tot niet-vervolging ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-Onder gerechtelijke of strafvorderlijke documenten, processen-verbaal of rapporten als bedoeld in onderdeel 1.1, onder e, worden tevens verstaan daarmee vergelijkbare documenten met gelijke bewijskracht, opgemaakt door tot de berechting, vervolging of opsporing van strafbare feiten bevoegde personen in het buitenland ter zake van de hiervoor bedoelde vergelijkbare strafbare feiten.
-
-## Bijlage 2. behorend bij de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.13&z=2026-04-01&g=2026-04-01), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.14&z=2026-04-01&g=2026-04-01) en [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.15&z=2026-04-01&g=2026-04-01) van de Regeling kansspelen op afstand
-
-### Onderdeel 2.1
-
-Een voorafgaande identificatie en analyse als bedoeld in [artikel 4.8, eerste lid, van het Besluit kansspelen op afstand](onbekend) kan achterwege blijven met betrekking tot de volgende wedstrijden en competities:
-
-### Onderdeel 2.2
-
-De vergunninghouder organiseert in ieder geval geen weddenschappen op de volgende wedstrijden en competities:
-
-### Onderdeel 2.3
-
-De vergunninghouder organiseert in ieder geval geen weddenschappen op de volgende gebeurtenissen:
-
-## Bijlage 3. behorend bij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&hoofdstuk=3&afdeling=5&artikel=3.27&z=2026-04-01&g=2026-04-01) van de Regeling kansspelen op afstand
-
-| **Onderdeel 3.1** |   |   |
-| --- | --- | --- |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-|   |   |   |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft een kwaliteitsbeheersysteem opgezet dat voorziet in continue verbetering van producten en diensten. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft de kenmerken van zijn producten en diensten gespecificeerd en gedocumenteerd. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft zijn procedures en de verwachte resultaten gespecificeerd en gedocumenteerd voor alle processen die op enigerlei wijze gevolgen hebben voor de speler. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder draagt er zorg voor dat er voldoende middelen beschikbaar zijn om processen uit te voeren die op enigerlei wijze gevolgen hebben voor de speler. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. |   |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder heeft procedures ingericht voor interne controle en beheerstoezicht die onder meer voorzien in terugkoppeling teneinde processen, producten en diensten te verbeteren en wet- en regelgeving na te leven. |
-| Kwaliteitsbeheer (algemeen) | De vergunninghouder beheert de kwaliteit van zijn producten, diensten en interne procedures teneinde aan behoeften van klanten en interne behoeften te voldoen en wetten en regelingen na te leven. | De vergunninghouder draagt zorg voor continue beoordeling en verbetering van het kwaliteitsbeheersysteem. |
-|   |   |   |
-| **Onderdeel 3.2** |   |   |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft een beheercyclus voor informatiebeveiliging opgezet die voorziet in continue verbetering van de informatiebeveiliging. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | Het beheer van informatiebeveiliging is gebaseerd op identificatie en beperking van risico's. De vergunninghouder heeft als uitgangspunt voor zijn maatregelen een risicobeoordeling uitgevoerd. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | Procedures en beleid ten aanzien van informatiebeveiliging worden gedocumenteerd en onderhouden. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft ten minste de volgende documentatie beschikbaar: – beleid ten aanzien van informatiebeveiliging; – reikwijdte van het informatiebeveiligingsbeheer; – risicobeoordeling; – verantwoordelijkheden met betrekking tot informatiebeveiliging; – beschrijving van beveiligingsmaatregelen; – beschrijving van uitvoering en resultaten van de beheercyclus. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder verricht regelmatige controles op de informatiebeheercyclus en penetratietests van zijn systemen. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft procedures voor het beheer van veiligheidsincidenten opgezet. |
-| Informatiebeveiliging | De vergunninghouder beheert informatiebeveiligingsprocedures teneinde activa te beschermen, waaronder begrepen gegevens over spelers, spelen en transacties. | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de organisatie van de informatiebeveiliging, waaronder in ieder geval: – functies en verantwoordelijkheden; – scheiding van functies; – mobiele apparaten en telewerken. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende personele middelen en veiligheid, waaronder in ieder geval: – screening; – arbeidsvoorwaarden; – managementverantwoordelijkheden; – bewustzijn van en onderwijs en opleiding betreffende informatiebeveiliging; – disciplinaire procedures; – verantwoordelijkheden in verband met beëindiging of wijziging van dienstbetrekking. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende beheer van activa, waaronder in ieder geval: – verantwoordelijkheid voor activa; – classificatie van informatie; – het gebruik van gegevensdragers en andere media. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende toegangscontrole, waaronder in ieder geval: – vereisten van toegangscontrole; – beheer van gebruikerstoegang; – verantwoordelijkheden van gebruikers; – toegangscontrole voor systemen en applicaties. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende cryptografie, waaronder in ieder geval: – cryptografiebeleid; – sleutelbeheer. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende operationele beveiliging, waaronder in ieder geval: – operationele procedures en verantwoordelijkheden; – bescherming tegen malware; – reservekopieën of reservebestanden; – geautomatiseerde verslaglegging, registratie en bewaking; – beheer van bedrijfssoftware; – beheer van technische kwetsbaarheden; – configuraties voor de controle van informatiesystemen. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende communicatiebeveiliging, waaronder in ieder geval: – beheer van netwerkbeveiliging; – informatieoverdracht. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de aanschaf, ontwikkeling en het onderhoud van systemen, waaronder in ieder geval: – beveiligingseisen voor informatiesystemen; – beveiliging bij ontwikkel- en ondersteuningsprocessen; – testgegevens. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende betrekkingen met leveranciers, waaronder in ieder geval: – informatiebeveiliging; – beheer van de dienstverlening van leveranciers. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende de informatiebeveiligingsaspecten van bedrijfscontinuïteitsmanagement, waaronder in ieder geval: – continuïteit van informatiebeveiliging; – terugvalopties ingeval van incidenten. |
-|   |   | De vergunninghouder heeft op basis van een eigen risicobeoordeling maatregelen gespecificeerd betreffende naleving, waaronder in ieder geval: – naleving van wettelijke en contractuele vereisten; – toetsing van informatiebeveiliging. |
-| **Onderdeel 3.3** |   |   |
-| **Beheersaspect** | **Beheersdoel** | **Beheer** |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder hanteert een IT-beleid dat aansluit op de doelen van de organisatie en het informatiebeveiligingsbeleid. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder beschikt over gedocumenteerde procedures voor het beheer van incidenten en problemen. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Incidenten worden geregistreerd, geclassificeerd, geanalyseerd en opgelost. Deze stappen worden gedocumenteerd. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Problemen worden geregistreerd, geclassificeerd, geanalyseerd en opgelost. Deze stappen worden gedocumenteerd. Onder problemen worden in ieder geval incidenten verstaan die structureel van aard zijn of geen duidelijke oorzaak hebben. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder beschikt over gedocumenteerde procedures voor veranderings- en **releasemanagement**. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Wijzigingen aan IT-systemen worden geregistreerd en gaan vergezeld van een beschrijving en toelichting. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | Wijzigingen worden pas door een bevoegde medewerker goedgekeurd nadat hun effect is beoordeeld en geregistreerd. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd waarin een beschrijving wordt gegeven van het onderhoud en de configuratie van systemen. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van de beschikbaarheid en capaciteit van systemen en infrastructuren. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van de IT-aspecten van het financiële management. |
-| IT-beheer en communicatienetwerken | De vergunninghouder beheert interne IT-processen opdat hij voorspelbare en betrouwbare diensten kan bieden. | De vergunninghouder heeft procedures gespecificeerd en gedocumenteerd voor het beheer van interne en externe serviceniveaus. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

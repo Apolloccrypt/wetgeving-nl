@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de raad van bestuur van de kansspelautoriteit als bedoeld in artikel 33da, vierde lid, van de Wet op de kansspelen (Beleidsregels onvrijwillige inschrijving register)"
+citeertitel: "Beleidsregels onvrijwillige inschrijving register"
 identifier: "BWBR0045439"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-10-01"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045439"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16032593"
-version_id: "27920002"
-internal_id: "C39366551"
-label_id: "15965984"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045439/2021-10-01/0"
-intitule_bron: "Stcrt.2021-35978"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-07-13"
-intitule_published: "2021-07-21"
-intitule_in_force: "2021-07-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-35978"
-original_signed_date: "2021-07-13"
-original_published_date: "2021-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-35978"
-entry_into_force_date: "2021-10-01"
-jci_1_3: "jci1.3:c:BWBR0045439&z=2021-10-01&g=2021-10-01"
-jci_1_0: "1.0:c:BWBR0045439&g=2021-10-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels onvrijwillige inschrijving register"
-signed_date: "2021-07-13"
-entry_into_force: "2021-10-01"
+publicatiedatum: 2021-10-01
+laatste_update: 2021-10-01
+status: geldig
+toestand: 2021-10-01
+bron: "https://wetten.overheid.nl/BWBR0045439"
+opgehaald: 2026-08-31
 ---
+
 # Beleidsregels van de raad van bestuur van de kansspelautoriteit als bedoeld in artikel 33da, vierde lid, van de Wet op de kansspelen (Beleidsregels onvrijwillige inschrijving register)
-
-gelet op [artikel 33da, vierde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33da) en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-besluit de volgende beleidsregels vast te stellen:
 
 #### Paragraaf 1. Definities en toepassing
 
@@ -46,23 +20,24 @@ besluit de volgende beleidsregels vast te stellen:
 
 In deze beleidsregels wordt verstaan onder:
 
-- 1. **speler:** persoon van wie de inschrijving wordt aangevraagd of op wie een kennisgeving betrekking heeft;
+- 1. *speler:* persoon van wie de inschrijving wordt aangevraagd of op wie een kennisgeving betrekking heeft;
 
-- 2. **vergunninghouder:** de houder van een vergunning tot het organiseren van speelcasino’s als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g), tot het aanwezig hebben van speelautomaten in inrichtingen als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c) of tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31);
+- 2. *vergunninghouder:* de houder van een vergunning tot het organiseren van speelcasino’s als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g), tot het aanwezig hebben van speelautomaten in inrichtingen als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c) of tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31);
 
-- 3. **derde:** de persoon die de inschrijving van een speler aanvraagt;
+- 3. *derde:* de persoon die de inschrijving van een speler aanvraagt;
 
-- 4. **kennisgeving:** de procedure bedoeld in [artikel 27ja, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [artikel 30v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), en [artikel 31m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m);
+- 4. *kennisgeving:* de procedure bedoeld in [artikel 27ja, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [artikel 30v, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), en [artikel 31m, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m);
 
-- 5. **deskundige:** een door de raad van bestuur ingeschakelde expert op het gebied van kansspelverslaving;
+- 5. *deskundige:* een door de raad van bestuur ingeschakelde expert op het gebied van kansspelverslaving;
 
-- 6. **inschrijving:** de inschrijving bedoeld in [artikel 33da, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33da);
+- 6. *inschrijving:* de inschrijving bedoeld in [artikel 33da, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33da);
 
-- 7. **raad van bestuur:** de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- 7. *raad van bestuur:* de raad van bestuur, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- 8. **register:** het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- 8. *register:* het register, bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- 9. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- 9. *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 1.2
 
@@ -84,19 +59,19 @@ De aanvraag van een derde kan elektronisch dan wel per post worden ingediend met
 
 - a. informatie ter vaststelling van de identiteit van de aanvrager;
 
-- 1°. naam en voornaam;
+   - 1°. naam en voornaam;
 
-- 2°. contactgegevens;
+   - 2°. contactgegevens;
 
 - b. informatie ter vaststelling van de identiteit van de speler;
 
-- 1°. naam en voornaam;
+   - 1°. naam en voornaam;
 
-- 2°. adresgegevens;
+   - 2°. adresgegevens;
 
-- 3°. geboortedatum;
+   - 3°. geboortedatum;
 
-- 4°. geboorteplaats;
+   - 4°. geboorteplaats;
 
 - c. een toelichting van de relatie met de speler;
 
@@ -122,7 +97,7 @@ Onder schade als bedoeld in [artikel 33da, eerste lid, van de wet](https://wette
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Deze beleidsregels worden met de toelichting gepubliceerd in de Staatscourant en treden in werking op 1 oktober 2021.
+Deze beleidsregels worden met de toelichting gepubliceerd in de Staatscourant en treden in werking op 1 oktober 2021.
 
 ##### Artikel 4.2. Citeertitel
 

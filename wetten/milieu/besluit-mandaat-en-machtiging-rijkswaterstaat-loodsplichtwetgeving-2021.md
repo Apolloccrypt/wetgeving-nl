@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal Rijkswaterstaat van 26 april 2021 met kenmerk RWS-2021/13909 houdende verlening van mandaat en machtiging voor het Loodsplichtbesluit 2021, de Loodsplichtregeling 2021, het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren (Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021)"
+citeertitel: "Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021"
 identifier: "BWBR0045144"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-05-21"
-last_updated: "2021-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045144"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "15959673"
-version_id: "27774442"
-internal_id: "C39173361"
-label_id: "15893814"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045144/2021-05-21/0"
-intitule_bron: "Stcrt.2021-22084"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-26"
-intitule_published: "2021-05-20"
-intitule_in_force: "2021-05-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-22084"
-original_signed_date: "2021-04-26"
-original_published_date: "2021-05-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-22084"
-entry_into_force_date: "2021-05-21"
-jci_1_3: "jci1.3:c:BWBR0045144&z=2021-05-21&g=2021-05-21"
-jci_1_0: "1.0:c:BWBR0045144&g=2021-05-21"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021"
-signed_date: "2021-04-26"
-entry_into_force: "2021-05-21"
+publicatiedatum: 2021-05-21
+laatste_update: 2021-05-21
+status: geldig
+toestand: 2021-05-21
+bron: "https://wetten.overheid.nl/BWBR0045144"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de directeur-generaal Rijkswaterstaat van 26 april 2021 met kenmerk RWS-2021/13909 houdende verlening van mandaat en machtiging voor het Loodsplichtbesluit 2021, de Loodsplichtregeling 2021, het Besluit markttoezicht registerloodsen en het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren (Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021)
-
-Gelet op de [artikelen 2, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=2), [6, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=6), [14, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=14), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=22), [24, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=24), [31, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=31), en [39, tweede lid, van de Loodsplichtregeling 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=39),
-
-Besluit:
 
 ##### Artikel 1. Regionale autoriteit
 
@@ -52,7 +26,7 @@ Besluit:
 
 ##### Artikel 2. Bevoegde autoriteit
 
-1. De aan de directeur-generaal Rijkswaterstaat als bevoegde autoriteit in de [artikelen 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=6), [8, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=8), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=11), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=13), [14, eerste lid en tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=17), [18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=21), [22, tweede lid, van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=22), de [artikelen 3, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=3), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=4), [11, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=11), [19, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=19), [29, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=29), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=34), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=37), en [38, aanhef en onder c, van de Loodsplichtregeling 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=38), de [artikelen 1.1, aanhef en onder **rendez-vousreis**,](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=1.1) en [4.5, aanhef en onder a en c, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.5) en de [artikelen 2.7, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.7), en [2.8, vijfde lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.8) toegekende bevoegdheden worden gemandateerd aan de hoofdingenieur-directeuren van de desbetreffende regionale organisatieonderdelen.
+1. De aan de directeur-generaal Rijkswaterstaat als bevoegde autoriteit in de [artikelen 3, derde lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=3), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=5), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=6), [8, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=8), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=11), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=13), [14, eerste lid en tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=17), [18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=21), [22, tweede lid, van het Loodsplichtbesluit 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044209&artikel=22), de [artikelen 3, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=3), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=4), [11, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=11), [19, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=19), [29, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=29), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=34), [37, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=37), en [38, aanhef en onder c, van de Loodsplichtregeling 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044210&artikel=38), de [artikelen 1.1, aanhef en onder *rendez-vousreis*,](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=1.1) en [4.5, aanhef en onder a en c, van het Besluit markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=4.5) en de [artikelen 2.7, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.7), en [2.8, vijfde lid, van het Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471&artikel=2.8) toegekende bevoegdheden worden gemandateerd aan de hoofdingenieur-directeuren van de desbetreffende regionale organisatieonderdelen.
 
 2. De verlening van mandaat in lid 1 omvat tevens het opleggen van een bestuurlijke sanctie en het invorderen van een geldsom.
 
@@ -78,16 +52,14 @@ Besluit:
 
 2. Een schriftelijke bevestiging hiervan vindt plaats door een ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045144&artikel=2&z=2021-05-21&g=2021-05-21) bevoegde functionaris.
 
-##### Artikel 4. [Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184)
+##### Artikel 4. Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013
 
 Bij de uitoefening van bevoegdheden op grond van dit besluit zijn de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=10), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=11), en [12 tot en met 14 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=12) en de daarbij gegeven instructies van overeenkomstige toepassing.
 
 ##### Artikel 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2021.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 ##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging Rijkswaterstaat loodsplichtwetgeving 2021.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de in dit besluit genoemde functionarissen.

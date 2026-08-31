@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 18 maart 2021, houdende regels voor de toepassing en afwijking van de bij of krachtens de Wet voortgezet onderwijs BES vastgestelde voorschriften over onder meer de inrichting van het onderwijs aan de Saba Comprehensive School op Saba en Gwendoline van Puttenschool op Sint Eustatius (Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES)"
+citeertitel: "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES"
 identifier: "BWBR0045020"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045020"
+categorie: "Onderwijs"
 soort: "AMvB-BES"
-stam_id: "15918473"
-version_id: "27667522"
-internal_id: "C39032921"
-label_id: "15854004"
-dtd_version: "2.0"
-original_entry_into_force: "2021-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045020/2022-08-01/0"
-intitule_bron: "Stb.2021-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-18"
-intitule_published: "2021-04-02"
-intitule_in_force: "2021-04-02"
-intitule_status: "goed"
-original_publication: "Stb.2021-166"
-original_signed_date: "2021-03-18"
-original_published_date: "2021-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-166"
-entry_into_force_date: "2021-04-03"
-jci_1_3: "jci1.3:c:BWBR0045020&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0045020&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES"
-signed_date: "2021-03-18"
-entry_into_force: "2021-04-03"
+publicatiedatum: 2021-04-03
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0045020"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 18 maart 2021, houdende regels voor de toepassing en afwijking van de bij of krachtens de Wet voortgezet onderwijs BES vastgestelde voorschriften over onder meer de inrichting van het onderwijs aan de Saba Comprehensive School op Saba en Gwendoline van Puttenschool op Sint Eustatius (Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES)
-
-Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media, van 6 november 2020, nr.25978357(9296) directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 117, eerste en tweede lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=117) en [artikel 1, onderdeel f, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 16 december 2020, nr. No.W05.20.0409/I);
-
-Gezien het nader rapport van Onze Minister voor Basis- en Voortgezet Onderwijs en Media van 15 maart 2021, nr. 270804203(9296)Z, directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -52,29 +20,29 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Bevoegd gezag:** het bevoegd gezag van de school;
+- *Bevoegd gezag:* het bevoegd gezag van de school;
 
-- **CAPE:** de Caribbean Advanced Proficiency Examination;
+- *CAPE:* de Caribbean Advanced Proficiency Examination;
 
-- **CCSLC:** het Caribbean Certificate of Secondary Level Competence;
+- *CCSLC:* het Caribbean Certificate of Secondary Level Competence;
 
-- **CSEC:** het Caribbean Secondary Education Certificate;
+- *CSEC:* het Caribbean Secondary Education Certificate;
 
-- **CVQ:** de Caribbean Vocational Qualification, niveau 1 of 2;
+- *CVQ:* de Caribbean Vocational Qualification, niveau 1 of 2;
 
-- **CXC:** de Caribbean Examinations Council, gevestigd in Barbados;
+- *CXC:* de Caribbean Examinations Council, gevestigd in Barbados;
 
-- **deelcertificaat:** een certificaat voor een vak;
+- *deelcertificaat:* een certificaat voor een vak;
 
-- **praktijkonderwijs:** praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2022-08-01&g=2022-08-01);
+- *praktijkonderwijs:* praktijkonderwijs als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=13&z=2022-08-01&g=2022-08-01);
 
-- **ERK-niveaus:** niveaus, overeenkomstig het Europees Referentiekader voor moderne vreemde talen, van beheersing van de Nederlandse taal, waarmee de beheersing van de Nederlandse taal door de leerlingen aan het einde van een onderwijssoort kan worden vergeleken, zoals opgenomen in de bijlage bij dit besluit;
+- *ERK-niveaus:* niveaus, overeenkomstig het Europees Referentiekader voor moderne vreemde talen, van beheersing van de Nederlandse taal, waarmee de beheersing van de Nederlandse taal door de leerlingen aan het einde van een onderwijssoort kan worden vergeleken, zoals opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0045020) bij dit besluit;
 
-- **ROA CN:** de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 11.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.1);
+- *ROA CN:* de Raad onderwijs arbeidsmarkt, bedoeld in [artikel 11.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.1);
 
-- **school:** de Gwendoline van Puttenschool of de Saba Comprehensive School;
+- *school:* de Gwendoline van Puttenschool of de Saba Comprehensive School;
 
-- **wet:** de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *wet:* de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Aanwijzing
 
@@ -364,27 +332,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 ### Hoofdstuk 7. Slotbepalingen
 
-##### Artikel 29. Intrekking Tijdelijk besluit
-
-Het [Tijdelijk besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0033722) en [Artikel II van het Besluit van 29 juni 2015 tot wijziging van het Tijdelijk besluit Saba Comprehensive School BES in verband met het invoeren van Engelstalig onderwijs aan de Gwendoline van Puttenschool op Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0036793&artikel=II) (Stb. 2015, 274) worden ingetrokken.
-
-##### Artikel 30. Inwerkingtreding
-
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), terug tot en met 1 augustus 2020.
-
-2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2021.
-
-##### Artikel 31. Citeertitel
-
-Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES.
-
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2021-08-01&g=2021-08-01)
-
-### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2021-08-01&g=2021-08-01)
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 28a. Toepassing [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
+##### Artikel 28a. Toepassing Uitvoeringsbesluit WVO 2020
 
 Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) is niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs en het buitenschoolse praktijkgedeelte.
 
@@ -392,8 +340,16 @@ Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR004578
 
 Dit besluit berust mede op [artikel 2.86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
 
-## Bijlage. bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=1&artikel=1&z=2022-08-01&g=2022-08-01)
+##### Artikel 29. Intrekking Tijdelijk besluit
 
-### Beschrijving van de ERK niveaus van het basisvak en het verdiepende vak Nederlands, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01)
+Het [Tijdelijk besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0033722) en [Artikel II van het Besluit van 29 juni 2015 tot wijziging van het Tijdelijk besluit Saba Comprehensive School BES in verband met het invoeren van Engelstalig onderwijs aan de Gwendoline van Puttenschool op Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0036793&artikel=II) (Stb. 2015, 274) worden ingetrokken.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 30. Inwerkingtreding
+
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), terug tot en met 1 augustus 2020.
+
+2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2021.
+
+##### Artikel 31. Citeertitel
+
+Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES.

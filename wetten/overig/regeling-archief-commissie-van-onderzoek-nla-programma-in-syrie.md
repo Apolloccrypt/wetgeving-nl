@@ -1,66 +1,40 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 7 juni 2021, nr. Min-BuZa.2021.8678-13, tot vaststelling van een regeling inzake de organisatie en het beheer van het archief van de Commissie van onderzoek NLA-programma in Syrië (Regeling archief Commissie van onderzoek NLA-programma in Syrië)"
+citeertitel: "Regeling archief Commissie van onderzoek NLA-programma in Syrië"
 identifier: "BWBR0045494"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-08-07"
-last_updated: "2021-08-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045494"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16043193"
-version_id: "27939692"
-internal_id: "C39401901"
-label_id: "15975784"
-dtd_version: "2.0"
-original_entry_into_force: "2021-08-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045494/2021-08-07/0"
-intitule_bron: "Stcrt.2021-37969"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-07"
-intitule_published: "2021-08-06"
-intitule_in_force: "2021-08-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-37969"
-original_signed_date: "2021-06-07"
-original_published_date: "2021-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-37969"
-entry_into_force_date: "2021-08-07"
-jci_1_3: "jci1.3:c:BWBR0045494&z=2021-08-07&g=2021-08-07"
-jci_1_0: "1.0:c:BWBR0045494&g=2021-08-07"
-citeertitel_status: "officieel"
-short_title: "Regeling archief Commissie van onderzoek NLA-programma in Syrië"
-signed_date: "2021-06-07"
-entry_into_force: "2021-08-07"
+publicatiedatum: 2021-08-07
+laatste_update: 2021-08-07
+status: geldig
+toestand: 2021-08-07
+bron: "https://wetten.overheid.nl/BWBR0045494"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 7 juni 2021, nr. Min-BuZa.2021.8678-13, tot vaststelling van een regeling inzake de organisatie en het beheer van het archief van de Commissie van onderzoek NLA-programma in Syrië (Regeling archief Commissie van onderzoek NLA-programma in Syrië)
-
-Gelet op [artikel 12 van het Instellingsbesluit Commissie van Onderzoek NLA-programma in Syrië](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=12);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a). **de Minister:** de Minister van Buitenlandse Zaken;
+- a) *de Minister:* de Minister van Buitenlandse Zaken;
 
-- b). **commissie:** de door Onze Minister ingestelde commissie belast met het onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Commissie van onderzoek NLA-programma in Syrië1Staatscourant 2021, 15469.);
+- b) *commissie:* de door Onze Minister ingestelde commissie belast met het onderzoek inzake het Non Lethal Assistance (NLA) programma dat de Nederlandse regering van 2015 tot 2018 in Syrië heeft uitgevoerd (Commissie van onderzoek NLA-programma in Syrië1Staatscourant 2021, 15469.);
 
-- c). **archief:** het archief dat door de commissie is overgedragen aan de Minister;
+- c) *archief:* het archief dat door de commissie is overgedragen aan de Minister;
 
-- d). **betrokkene:** degene waarmee de commissie in het kader van haar onderzoek naar het NLA-programma in Syrië heeft gesproken waarvan het gespreksverslag in het archief van de commissie is opgenomen;
+- d) *betrokkene:* degene waarmee de commissie in het kader van haar onderzoek naar het NLA-programma in Syrië heeft gesproken waarvan het gespreksverslag in het archief van de commissie is opgenomen;
 
-- e). **gespreksverslag:** alle gegevens in het archief die betrekking hebben op hetgeen een betrokkene aan de commissie heeft verklaard als bedoeld in de artikelen 4 en 5 van het Informatieprotocol Commissie van onderzoek NLA-programma in Syrië;
+- e) *gespreksverslag:* alle gegevens in het archief die betrekking hebben op hetgeen een betrokkene aan de commissie heeft verklaard als bedoeld in de artikelen 4 en 5 van het Informatieprotocol Commissie van onderzoek NLA-programma in Syrië;
 
-- f). **gemachtigde:** degene die namens een betrokkene schriftelijk is gemachtigd om namens hem/haar bij het Ministerie van Buitenlandse Zaken een verzoek te doen tot inzage in het gespreksverslag;
+- f) *gemachtigde:* degene die namens een betrokkene schriftelijk is gemachtigd om namens hem/haar bij het Ministerie van Buitenlandse Zaken een verzoek te doen tot inzage in het gespreksverslag;
 
-- g). **feitelijk beheerder van het archief:** de Directie Noord-Afrika en Midden-Oosten (DAM) van het Ministerie van Buitenlandse Zaken;
+- g) *feitelijk beheerder van het archief:* de Directie Noord-Afrika en Midden-Oosten (DAM) van het Ministerie van Buitenlandse Zaken;
 
-- h). **informatieprotocol:** het protocol als bedoeld in [artikel 7 van het Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=7);
+- h) *informatieprotocol:* het protocol als bedoeld in [artikel 7 van het Instellingsbesluit Commissie van onderzoek NLA-programma in Syrië](https://wetten.overheid.nl/jci1.3:c:BWBR0044978&artikel=7);
 
-- i). **beoordelaar:** de contactpersoon van de Directie Ondersteuning Bestuur (DOB) van het Ministerie van Buitenlandse Zaken als bedoeld in artikel 1 van het Informatieprotocol Commissie van onderzoek NLA-programma in Syrië.
+- i) *beoordelaar:* de contactpersoon van de Directie Ondersteuning Bestuur (DOB) van het Ministerie van Buitenlandse Zaken als bedoeld in artikel 1 van het Informatieprotocol Commissie van onderzoek NLA-programma in Syrië.
 
 ##### Artikel 2. Doel van de regeling
 

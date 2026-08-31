@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering huiselijk geweld"
 identifier: "BWBR0044659"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-03-01"
-last_updated: "2021-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044659"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "15799393"
-version_id: "27392962"
-internal_id: "C38679011"
-label_id: "15736814"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044659/2021-03-01/0"
-intitule_bron: "Stcrt.2020-62346"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2020-12-31"
-intitule_in_force: "2020-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2020-62346"
-original_published_date: "2020-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2020-62346"
-entry_into_force_date: "2021-03-01"
-jci_1_3: "jci1.3:c:BWBR0044659&z=2021-03-01&g=2021-03-01"
-jci_1_0: "1.0:c:BWBR0044659&g=2021-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-03-01"
+publicatiedatum: 2021-03-01
+laatste_update: 2021-03-01
+status: geldig
+toestand: 2021-03-01
+bron: "https://wetten.overheid.nl/BWBR0044659"
+opgehaald: 2026-08-31
 ---
+
 # Richtlijn voor strafvordering huiselijk geweld
 
 ### Beschrijving
@@ -66,9 +47,56 @@ Zaken die voor voorwaardelijk sepot met algemene voorwaarde in aanmerking komen 
 
 ### Dagvaarding
 
+| first offender | (1x) recidive |
+| --- | --- |
+| GS 2 wkn | GS 4 wkn |
+
+|  | first offender | (1x) recidive* |
+| --- | --- | --- |
+| Alleen verbaal (al dan niet met gebaren) | Eis TS 20 uur + 2 wkn vw (met bijz voorw) | Eis TS 28 uur + GS 3 wkn vw (met bijz voorw) Bij taakstrafverbod: GS 6 wkn waarvan 3 wkn vw (met bijz voorw) |
+| met wapen | Eis TS 60 uur + GS 4 wkn vw (met bijz voorw) | Eis TS 90 uur + GS 6 wkn vw (met bijz voorw) Bij taakstrafverbod: GS 2 mnd waarvan 1 mnd vw (met bijz voorw) |
+| Bijzonderheden: * Let op het taakstrafverbod van art. 22b Sr. Strafverzwarend onder andere: Ernst van de bedreiging(en), bijv. stekende bewegingen, richten (nep)vuurwapen Herhaald slachtofferschap of stelselmatig Meermalen recidive (maatwerk) |  |  |
+
+| gedraging | duur | first offender | 1x recidive* |
+| --- | --- | --- | --- |
+| Basis: | Periode 0-3 mnd | TS 100-150 uur + GS 2 mnd vw | GS 2-3- mnd + GS 1 mnd vw |
+| Bellen/sms’en/ mailen/social media | Periode 3-6 mnd | TS 180 uur + GS 3 mnd vw | GS 3 mnd + GS 2 mnd vw |
+| Basis + Langs huis rijden/voor huis staan | Periode 0-3 mnd Periode 3-6 mnd | TS 180 uur + GS 2 mnd vw TS 200 uur + GS 3 mnd vw | GS 3 mnd + GS 1 mnd vw GS 3 mnd + GS 2 mnd vw |
+| Basis + Contact werkgever/ vrienden/ familie etc. | Periode 0-3 mnd Periode 3-6 mnd | TS 200 uur + GS 2 mnd vw TS 240 uur + GS 3 mnd vw | GS 3 mnd + GS 1 mnd vw GS 5 mnd + GS 2 mnd vw |
+| Bijzonderheden: Ter zitting kan ter ondersteuning van de hulpverlening aan het/de slachtoffer(s) het opleggen van een straatverbod of contactverbod als bijzondere voorwaarde of als afzonderlijke vrijheidsbeperkende maatregel (artikel 38v Sr) worden gevorderd. Bij beide opties kan, als wordt voldaan aan de daarvoor geldende criteria, de dadelijke uitvoerbaarheid en/of elektronisch toezicht worden gevraagd. Bij een voorwaardelijk strafdeel kan voorts gedacht worden aan de mogelijkheid om een langere proeftijd te vragen (artikel 14 b lid 2 Sr). Bij overduidelijk hardnekkige stalkers kan ook bij first-offenders al meteen een onvoorwaardelijke gevangenisstraf worden geëist. Strafverzwarend onder andere: Frequentie en aard van de stalking (vaak sms-en met een onschuldige inhoud is minder erg dan sms-jes die tevens dreigend van aard zijn). Stalking gaat nog steeds door. Vraag dit vlak voor de zitting na bij de politie, Veilig Thuis en/of het slachtoffer. Meermalen recidive* (maatwerk) |  |  |  |
+
+|  |  | first offender | 1x recidive* (los van TUL) |
+| --- | --- | --- | --- |
+| Geen letsel, wel pijn | Een of meerdere klappen/schoppen Slag/stootwapen, kopstoot of gegooid voorwerp Steekwapen, of een als zodanig aan te merken voorwerp | Eis TS 40 uur deels vw (met bijz voorw) Eis TS 60 uur + GS 2 wk vw (met bijz voorw) Eis TS 80 uur + GS 4 wkn vw (met bijz voorw) | Eis TS 60 uur + GS 2 wkn vw (met bijz voorw) Eis TS 90 uur + GS 3 wkn vw (met bijz voorw) Eis TS 120 uur + GS 6 wkn vw (met bijz voorw) |
+| Licht letsel | Een of meerdere klappen/schoppen Slag/stootwapen, kopstoot of gegooid voorwerp Steekwapen, of een als zodanig aan te merken voorwerp | Eis TS 60 uur + GS 2 wkn vw (met bijz voorw) Eis TS 80 uur + GS 4 wkn vw (met bijz voorw) Eis TS 100 uur + GS 6 wkn vw (met bijz voorw) | Eis TS 90 uur + GS 3 wkn vw (met bijz voorw) Eis TS 120 uur + GS 5 wkn vw (met bijz voorw) GS 3 mnd (evt. deels vw) |
+| Zwaarder letsel | Een of meerdere klappen/schoppen Slag/stootwapen, kopstoot ofgegooid voorwerp Steekwapen, of een als zodanig aan te merken voorwerp | Eis TS 80 uur + GS 2 wkn vw (met bijz voorw) Eis TS 100 uur + GS 6 wkn vw (met bijz voorw) maatwerk | GS 4 mnd (evt. deels vw) GS 6 mnd (evt. deels vw) maatwerk |
+| Bijzonderheden: * Let op het taakstrafverbod van art. 22b Sr. Strafverzwarend onder andere: Meermalen mishandeling in één telastelegging al dan niet over langere periode Meermalen recidive (maatwerk) Strafverminderend onder andere: Actief hulp gezocht of aanvaard |  |  |  |
+
+| Poging art. 302/45 Sr | First offender | (1x) recidive |
+| --- | --- | --- |
+| Geen wapen geen letsel | Eis TS 100 uur deels vw (met bijz voorw)* | Eis TS 150 uur + GS 5 wkn vw (met bijz voorw)* |
+| licht letsel | GS 10 wkn deels vw (met bijz voorw) | GS 11 wkn waarvan 5 wkn vw (met bijz voorw) |
+| zwaarder letsel | GS 12 wkn deels vw (met bijz voorw) | GS 4 mnd (evt. deels vw) |
+| Slag/stootwapen of kopstoot |  |  |
+| geen letsel | Eis TS 150 uur deels vw (met bijz voorw)* | GS 16 wkn |
+| licht letsel | GS 12 wkn deels vw (met bijz voorw) | GS 4 mnd |
+| zwaarder letsel | GS 4 mnd deels vw (met bijz voorw) | GS 6 mnd |
+| Steekwapen, of een als zodanig aan te merken voorwerp |  |  |
+| geen letsel | GS 14 wkn deels vw (met bijz voorw) | GS 4 mnd |
+| licht letsel | GS 16 wkn deels vw (met bijz voorw) | GS 5 mnd |
+| zwaarder letsel | Maatwerk (GS vanaf 4 mnd) | Maatwerk (GS vanaf 6 mnd) |
+| Bijzonderheden: Strafbeschikking is niet mogelijk, dus dagvaarden. * Contra-indicatie kale taakstraf is aanwezig indien dit feit een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer ten gevolge heeft gehad of bij recidive (art. 22b Sr). Strafverzwarend onder andere: Meermalen recidive (maatwerk) Strafverminderend onder andere: Actief hulp gezocht of aanvaard |  |  |
+
+|  | first offender | 1x recidive* (los van TUL) |
+| --- | --- | --- |
+| Schade tot 1.000 euro | Eis TS 24 uur deels vw (met bijz voorw) | Eis TS 36 uur + GS 2 wkn vw (met bijz voorw) |
+| Schade tussen 1.000 en 3.000 euro | Eis TS 48 uur deels vw (met bijz voorw) | Eis TS 70 uur + GS 3 wkn vw (met bijz voorw) |
+| Schade vanaf 3.000 euro | Eis TS vanaf 60 uur + GS 4 wkn vw (met bijz voorw) | Eis vanaf TS 90 uur + GS 6 wkn vw (met bijz voorw) |
+| Bijzonderheden: * Let op het taakstrafverbod van art. 22b Sr Strafverzwarend onder andere: Meermalen vernieling in één telastelegging al dan niet over langere periode Meermalen recidive (maatwerk) Strafverminderend onder andere: Actief hulp gezocht of aanvaard |  |  |
+
 ### Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 GS = gevangenisstraf
 

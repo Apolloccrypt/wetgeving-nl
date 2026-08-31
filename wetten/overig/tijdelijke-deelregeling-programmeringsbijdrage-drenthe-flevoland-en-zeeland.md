@@ -1,43 +1,17 @@
 ---
 title: "Tijdelijke deelregeling programmeringsbijdrage Drenthe, Flevoland en Zeeland"
 identifier: "BWBR0045292"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-06-29"
-last_updated: "2021-06-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045292"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "15998013"
-version_id: "27843782"
-internal_id: "C39270111"
-label_id: "15931924"
-dtd_version: "2.0"
-original_entry_into_force: "2021-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045292/2021-06-29/0"
-intitule_bron: "Stcrt.2021-32220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-21"
-intitule_published: "2021-06-28"
-intitule_in_force: "2021-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-32220"
-original_signed_date: "2021-06-21"
-original_published_date: "2021-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-32220"
-entry_into_force_date: "2021-06-29"
-jci_1_3: "jci1.3:c:BWBR0045292&z=2021-06-29&g=2021-06-29"
-jci_1_0: "1.0:c:BWBR0045292&g=2021-06-29"
-citeertitel_status: "officieel"
-signed_date: "2021-06-21"
-entry_into_force: "2021-06-29"
+publicatiedatum: 2021-06-29
+laatste_update: 2021-06-29
+status: geldig
+toestand: 2021-06-29
+bron: "https://wetten.overheid.nl/BWBR0045292"
+opgehaald: 2026-08-31
 ---
+
 # Tijdelijke deelregeling programmeringsbijdrage Drenthe, Flevoland en Zeeland
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,7 +19,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten.
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten.
 
 ##### Artikel 1.2. Aanvraag
 
@@ -105,9 +79,9 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 2. Het indienen van een aanvraag is alleen mogelijk als de aanvrager kan aantonen dat
 
-- •. minimaal een van de zalen waarvoor wordt aangevraagd een capaciteit van meer dan 200 bezoekers heeft en
+- • minimaal een van de zalen waarvoor wordt aangevraagd een capaciteit van meer dan 200 bezoekers heeft en
 
-- •. in de zalen waarvoor wordt aangevraagd minimaal 80 professionele voorstellingen per jaar plaatsvinden.
+- • in de zalen waarvoor wordt aangevraagd minimaal 80 professionele voorstellingen per jaar plaatsvinden.
 
 3. Het bestuur kan besluiten om een aanvraag in behandeling te nemen die niet voldoet aan de vereisten uit lid 2 als de aanvrager slechts in zeer beperkte mate niet voldoet aan die vereisten.
 
@@ -121,11 +95,11 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). programmeringsambitie;
+- a) programmeringsambitie;
 
-- b). publiekspotentieel;
+- b) publiekspotentieel;
 
-- c). inbedding.
+- c) inbedding.
 
 ##### Artikel 2.5. Hoogte subsidie
 
@@ -166,5 +140,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 3.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke deelregeling programmeringsbijdrage Drenthe, Flevoland en Zeeland.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

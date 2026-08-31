@@ -1,52 +1,24 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 juni 2021 tot wijziging van de Omgevingsregeling vanwege het opnemen van regels over landinrichting, onteigening en kostenverhaal en tot wijziging en intrekking van enige andere regelingen (Aanvullingsregeling grondeigendom Omgevingswet)"
+citeertitel: "Aanvullingsregeling grondeigendom Omgevingswet"
 identifier: "BWBR0045506"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045506"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16045863"
-version_id: "27948322"
-internal_id: "C42100651"
-label_id: "15978534"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045506/2024-01-01/0"
-intitule_bron: "Stcrt.2021-34636"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-06-29"
-intitule_published: "2021-07-01"
-intitule_in_force: "2023-04-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-34636"
-original_signed_date: "2021-06-29"
-original_published_date: "2021-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-34636"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0045506&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0045506&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Aanvullingsregeling grondeigendom Omgevingswet"
-signed_date: "2021-06-29"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0045506"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Landbouw, Natuur en Voedselkwaliteit van 29 juni 2021 tot wijziging van de Omgevingsregeling vanwege het opnemen van regels over landinrichting, onteigening en kostenverhaal en tot wijziging en intrekking van enige andere regelingen (Aanvullingsregeling grondeigendom Omgevingswet)
 
-Handelende in overeenstemming met de Minister van Infrastructuur en Waterstaat;
+### Hoofdstuk 1. Aanvulling en wijziging Omgevingsregeling
 
-Gelet op de [artikelen 12.26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=12.26), [13.21](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=13.21) en [16.139, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.139);
+##### Artikel 1.1. (Omgevingsregeling)
 
-BESLUITEN:
-
-### Hoofdstuk 1. Aanvulling en wijziging [Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528)
-
-##### Artikel 1.1. ([Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528))
-
-Wijzigt de Omgevingsregeling.
+*Wijzigt de Omgevingsregeling.*
 
 ### Hoofdstuk 2. Intrekking regelingen
 
@@ -64,7 +36,7 @@ De volgende regelingen worden ingetrokken:
 
 ### Hoofdstuk 3. Overgangsrecht
 
-#### § 3.1. Overgangsbepaling [Regeling uitkeringen beperkingengebied Schiphol](https://wetten.overheid.nl/jci1.3:c:BWBR0015341)
+#### § 3.1. Overgangsbepaling Regeling uitkeringen beperkingengebied Schiphol
 
 ##### Artikel 3.1. (uitkering ter bestrijding van kosten)
 
@@ -81,5 +53,3 @@ Als voor de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jc
 ##### Artikel 4.2. (citeertitel)
 
 Deze regeling wordt aangehaald als: Aanvullingsregeling grondeigendom Omgevingswet.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

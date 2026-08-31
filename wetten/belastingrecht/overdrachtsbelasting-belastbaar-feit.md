@@ -1,51 +1,25 @@
 ---
 title: "Overdrachtsbelasting, belastbaar feit"
 identifier: "BWBR0045104"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-05-07"
-last_updated: "2021-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045104"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "15946443"
-version_id: "27748752"
-internal_id: "C39139871"
-label_id: "15881194"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045104/2021-05-07/0"
-intitule_bron: "Stcrt.2021-22617"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-04-23"
-intitule_published: "2021-05-06"
-intitule_in_force: "2021-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-22617"
-original_signed_date: "2021-04-23"
-original_published_date: "2021-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-22617"
-entry_into_force_date: "2021-05-07"
-jci_1_3: "jci1.3:c:BWBR0045104&z=2021-05-07&g=2021-05-07"
-jci_1_0: "1.0:c:BWBR0045104&g=2021-05-07"
-citeertitel_status: "redactioneel"
-signed_date: "2021-04-23"
-entry_into_force: "2021-05-07"
+publicatiedatum: 2021-05-07
+laatste_update: 2021-05-07
+status: geldig
+toestand: 2021-05-07
+bron: "https://wetten.overheid.nl/BWBR0045104"
+opgehaald: 2026-08-31
 ---
+
 # Overdrachtsbelasting, belastbaar feit
-
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit vervangt het besluit van 15 oktober 2015, nr. BLKB2015/794M (** **Stcrt. 2015, nr. 36766** **) en bevat het beleid over het belastbaar feit in de overdrachtsbelasting. In dit besluit zijn nieuwe goedkeuringen opgenomen voor de situatie van afstand van een recht van opstal tegen verkrijging van een onverdeeld aandeel in een onroerende zaak en voor een verkrijging van aandelen als gevolg van een juridische moeder-dochterfusie.**
 
 ### 1. Inleiding
 
-Dit besluit actualiseert en vervangt het [besluit van 15 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037119), nr. BLKB2015/794M en bevat het beleid over het belastbaar feit in de overdrachtsbelasting. Voor een duidelijker overzicht zijn de onderdelen uit het besluit van 15 oktober 2015 vernummerd en per onderwerp in het besluit opgenomen. De onderdelen 2 tot en met 5 behandelen respectievelijk de verkrijging ([artikel 2, eerste lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2)), de verkrijging van economische eigendom (artikel 2, tweede tot en met zevende lid, WBR), de uitgezonderde verkrijgingen ([artikel 3 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3)) en de verkrijging van fictieve onroerende zaken ([artikel 4 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4)). Het beleid is hierbij in verschillende subonderdelen opgenomen.
+Dit besluit actualiseert en vervangt het [besluit van 15 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037119), nr. BLKB2015/794M en bevat het beleid over het belastbaar feit in de overdrachtsbelasting. Voor een duidelijker overzicht zijn de onderdelen uit het besluit van 15 oktober 2015 vernummerd en per onderwerp in het besluit opgenomen. De [onderdelen 2 tot en met 5](https://wetten.overheid.nl/BWBR0045104) behandelen respectievelijk de verkrijging ([artikel 2, eerste lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2)), de verkrijging van economische eigendom (artikel 2, tweede tot en met zevende lid, WBR), de uitgezonderde verkrijgingen ([artikel 3 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3)) en de verkrijging van fictieve onroerende zaken ([artikel 4 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4)). Het beleid is hierbij in verschillende subonderdelen opgenomen.
 
-In onderdeel 2.2 is verduidelijkt dat het een situatie betreft waarbij de oprichter handelt ten behoeve van de op te richten vennootschap. De onderdelen 2.3 en 5.4 zijn nieuw. Onderdeel 2.3 bevat een goedkeuring voor de situatie van afstand van een recht van opstal tegen verkrijging van een onverdeeld aandeel in een onroerende zaak, die daarna wordt gesplitst in appartementsrechten. Onderdeel 5.4 bevat een goedkeuring voor de verkrijging van aandelen in een OZR als gevolg van een juridische moeder-dochterfusie. Verder is in de onderdelen 5.1 (Certificeren van aandelen) en 5.2 (Ongedaanmaking van certificering) een voorwaarde aangepast. Voor de goedkeuringen is niet meer vereist dat alle aandeelhouders hun aandelen certificeren of dat alle certificaathouders hun certificaten omwisselen voor de onderliggende aandelen.
+In [onderdeel 2.2](https://wetten.overheid.nl/BWBR0045104) is verduidelijkt dat het een situatie betreft waarbij de oprichter handelt ten behoeve van de op te richten vennootschap. De [onderdelen 2.3](https://wetten.overheid.nl/BWBR0045104) en [5.4](https://wetten.overheid.nl/BWBR0045104) zijn nieuw. [Onderdeel 2.3](https://wetten.overheid.nl/BWBR0045104) bevat een goedkeuring voor de situatie van afstand van een recht van opstal tegen verkrijging van een onverdeeld aandeel in een onroerende zaak, die daarna wordt gesplitst in appartementsrechten. [Onderdeel 5.4](https://wetten.overheid.nl/BWBR0045104) bevat een goedkeuring voor de verkrijging van aandelen in een OZR als gevolg van een juridische moeder-dochterfusie. Verder is in de [onderdelen 5.1](https://wetten.overheid.nl/BWBR0045104) (Certificeren van aandelen) en [5.2](https://wetten.overheid.nl/BWBR0045104) (Ongedaanmaking van certificering) een voorwaarde aangepast. Voor de goedkeuringen is niet meer vereist dat alle aandeelhouders hun aandelen certificeren of dat alle certificaathouders hun certificaten omwisselen voor de onderliggende aandelen.
 
-De overige onderdelen van het besluit zijn overgenomen uit het genoemde besluit van 15 oktober 2015. Daarbij zijn ter verduidelijking enkele redactionele aanpassingen aangebracht zonder inhoudelijke gevolgen.
+De overige onderdelen van het besluit zijn overgenomen uit het genoemde besluit van 15 oktober 2015. Daarbij zijn ter verduidelijking enkele redactionele aanpassingen aangebracht zonder inhoudelijke gevolgen.
 
 De goedkeuringen in dit besluit zijn verleend met toepassing van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule).
 
@@ -53,33 +27,93 @@ Voor de in dit besluit opgenomen goedkeuringen geldt verder het volgende. Door t
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+- *AVVE:* De algemene veilingvoorwaarden voor executieveilingen die in opdracht van de Koninklijke Notariële Beroepsorganisatie zijn vastgelegd in een notariële akte die via de Bijzondere veilingvoorwaarden van het te veilen pand van toepassing zijn.
+
+- *AVVI:* Algemene veilingvoorwaarden met internetbieden die in opdracht van de Koninklijke Notariële Beroepsorganisatie zijn vastgelegd in een notariële akte die via de Bijzondere veilingvoorwaarden van het te veilen pand van toepassing zijn.
+
+- *AWR:*
+ [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+
+- *BV:* Besloten vennootschap
+
+- *BW:* Burgerlijk Wetboek
+
+- *NV:* Naamloze vennootschap
+
+- *OZR:* Onroerende zaakrechtspersoon in de zin van [artikel 4 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4)
+
+- *Rv:*
+ [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+
+- *WBR:*
+ [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740)
+
+- *WILG:*
+ [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748)
+
 ### 2. Verkrijging
 
 ### 2.1. Misverstand bij tenaamstelling
 
 Het is mogelijk dat door een misverstand bij een levering de onroerende zaak niet op naam is gesteld van de persoon aan wie bedoeld was over te dragen. Als in een dergelijke situatie de tenaamstelling wordt gecorrigeerd door een nieuwe levering acht ik het niet gewenst dat opnieuw overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder voorwaarden goed dat bij een correctie van de tenaamstelling van een onroerende zaak door een nieuwe levering, op verzoek een tegemoetkoming wordt verleend ten bedrage van de door die correctie verschuldigde overdrachtsbelasting.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende twee voorwaarden:
+
+- – De verkrijger toont aan dat de verkrijging onder de onjuiste tenaamstelling uitsluitend het gevolg is van een misverstand.
+
+- – Het verzoek wordt ingediend binnen vijf jaar na de verkrijging onder de onjuiste tenaamstelling.
 
 ### 2.2. NV of BV in oprichting
 
 De oprichter van een NV of BV kan vooruitlopend op de oprichting, ten behoeve van de op te richten vennootschap, rechtshandelingen verrichten en daarmee onroerende zaken in eigendom verkrijgen. De oprichter is daarbij overdrachtsbelasting verschuldigd. Na oprichting is de NV of BV pas gebonden aan de door de oprichter verrichtte rechtshandeling op het moment waarop de vennootschap deze bekrachtigt ([artikel 93 (203) Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=93)). Na de bekrachtiging levert de oprichter de eerder door hem namens de op te richten NV of BV verkregen onroerende zaken door aan de opgerichte NV of BV zelf. Ik acht het daarbij niet in alle gevallen gewenst dat opnieuw overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 In het geval de oprichter van een NV of BV vooruitlopend op de oprichting onroerende zaken verkrijgt en deze vervolgens doorlevert aan de later tot stand gekomen vennootschap, keur ik onder voorwaarden goed dat op verzoek een tegemoetkoming wordt verleend ten bedrage van de bij de doorlevering verschuldigde overdrachtsbelasting.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende vier voorwaarden:
+
+- – Er wordt (per saldo) niet minder overdrachtsbelasting geheven dan wanneer de NV of BV de onroerende zaken onmiddellijk zou hebben verkregen.
+
+- – De onroerende zaken zijn geleverd aan de oprichter, uitsluitend vanwege het feit dat de NV of BV ten tijde van de eigendomsverkrijging in oprichting was.
+
+- – De oprichter verkrijgt de onroerende zaken ten behoeve van en voor rekening van de NV of BV in oprichting.
+
+- – De doorlevering vindt plaats binnen één jaar na oprichting van de NV of BV.
 
 ### 2.3. Afstand recht van opstal tegen verkrijging van een onverdeeld aandeel in een onroerende zaak
 
 Het is mogelijk dat ten laste van een gedeelte van een onroerende zaak een recht van opstal is gevestigd. Door de vestiging van het recht van opstal ontstaat er tussen de opstalhouder en de (blote) eigenaar een rechtsverhouding met betrekking tot de eigendom van de onroerende zaak. In de praktijk komt het voor dat de opstalhouder en de (blote) eigenaar deze rechtsverhouding met betrekking tot de onroerende zaak op andere wijze willen vormgeven. Dit kan door een splitsing van de onroerende zaak in appartementsrechten. In dat geval doet de opstalhouder, voorafgaand aan de splitsing, afstand van het recht van opstal tegen verkrijging van een onverdeeld aandeel in de onroerende zaak. Zowel de afstand van het recht van opstal als de verkrijging van het onverdeeld aandeel in de onroerende zaak, vormt een belastbaar feit voor de overdrachtsbelasting. Ik acht het niet in alle gevallen gewenst dat in deze situatie overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 In geval een opstalhouder afstand doet van het recht van opstal dat is gevestigd ten laste van een gedeelte van een onroerende zaak tegen verkrijging van een onverdeeld aandeel in dezelfde onroerende zaak, keur ik onder voorwaarden goed dat een tegemoetkoming wordt verleend ten bedrage van de verschuldigde overdrachtsbelasting.
+
+Voorwaarden
 
 Voor deze goedkeuring gelden de volgende vier voorwaarden:
 
+- – De afstand van het recht van opstal en de verkrijging van het onverdeeld aandeel in de onroerende zaak vinden plaats in het kader van een daaropvolgende splitsing in appartementsrechten van de betrokken onroerende zaak.
+
+- – De afstand van het recht van opstal, de verkrijging van het onverdeeld aandeel, de splitsing in appartementsrechten en de toedeling daarvan vinden op dezelfde dag plaats.
+
+- – Het door de appartementsgerechtigden verkregen appartementsrecht geeft recht tot gebruik van hetzelfde gedeelte van de onroerende zaak dat de opstalhouder en de (blote) eigenaar direct voor de wijziging in hun onderlinge rechtsverhouding in gebruik hadden. Voor zover de mate van gerechtigdheid tot de onroerende zaak toeneemt, is over de meerwaarde daarvan overdrachtsbelasting verschuldigd.
+
+- – De voormalige opstalhouder was ter zake van het destijds ten behoeve van hem gevestigde recht van opstal verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij niet aftrekbare omzetbelasting.
+
+Toelichting
+
 Ten aanzien van de derde voorwaarde, merk ik ter verduidelijking het volgende op. De voormalige opstalhouder verkrijgt met de wijziging van de rechtsverhouding een onverdeeld aandeel in de onroerende zaak en wordt daarmee mede gerechtigd tot een onverdeeld aandeel in de ondergrond van de onroerende zaak. De goedkeuring geldt voor zover de waarde van het verkregen onverdeeld aandeel in de onroerende zaak overeenstemt met de waarde van het voormalige recht van opstal. Dit betekent dat de voormalig opstalhouder in de regel overdrachtsbelasting zal zijn verschuldigd over tenminste de waarde van het verkregen aandeel in de ondergrond.
+
+Voorbeeld
 
 A is eigenaar van een onroerende zaak met een beneden- en bovenwoning. Voor de bovenwoning is ten behoeve van B een recht van opstal gevestigd. A en B komen overeen het pand te splitsen in twee appartementsrechten. Voorafgaand aan de splitsing doet B afstand van het recht van opstal tegen verkrijging op dezelfde dag van een 30/100 onverdeeld aandeel in de onroerende zaak (grond plus opstal). De waarde van dit onverdeeld aandeel komt overeen met de waarde van het recht van opstal dat B had. Beide transacties vormen een belastbaar feit voor de overdrachtsbelasting waarvoor onder voorwaarden de goedkeuring geldt. Vervolgens wordt de onroerende zaak gesplitst in appartementsrechten. A verkrijgt het appartement dat recht geeft op gebruik van de benedenwoning en B verkrijgt het appartement dat recht geeft op gebruik van de bovenwoning. De verkrijging door B van een onverdeeld aandeel in de onroerende zaak na afstand van het recht van opstal leidt ertoe dat B ook gerechtigd wordt tot een aandeel in de ondergrond. Hiertoe was B voorheen als houder van het recht van opstal niet gerechtigd. Voor (tenminste) dit gedeelte van de verkrijging, zijnde 30/100 x de grondwaarde, is B overdrachtsbelasting verschuldigd. Hiervoor geldt de goedkeuring niet.
 
@@ -93,9 +127,15 @@ Voor tot bewoning bestemde onroerende zaken is in [artikel 525, vierde lid, Rv](
 
 Bij een onderhandse executoriale verkoop geldt in veel gevallen een vergelijkbare bepaling. Het risico van het verkochte gaat over op het moment zoals beschreven in de bijzondere of algemene veilingvoorwaarden. Ook dan verkrijgt de koper niet de economische eigendom van de onroerende zaak. De verkoop gebeurt weliswaar onderhands maar behoudt haar executoriale karakter.
 
+Verkrijging juridische eigendom
+
 Overdrachtsbelasting is verschuldigd op het moment van de verkrijging van de juridische eigendom ([artikel 2, eerste lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2)). Bij een openbare executoriale verkoop is dat het moment van inschrijving in de openbare registers van het proces-verbaal van toewijzing ([artikel 525 Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=525)). Bij een onderhandse executoriale verkoop is dat moment het tijdstip waarop de notaris de akte van levering opmaakt ([artikel 8 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=8)).
 
+Veilingen onder de AVVE/AVVI
+
 De standpunten in dit onderdeel van het besluit betreffen executieveilingen die worden gehouden onder de AVVE en de AVVI of bepalingen van gelijke strekking. In andere situaties is het denkbaar dat de koper wel de economische eigendom verkrijgt op een moment voorafgaande aan de juridische eigendomsverkrijging. Dit kan zich bijvoorbeeld voordoen als de koper van een niet tot bewoning bestemde onroerende zaak met toestemming van de eigenaar en de executerende hypotheekhouder de onroerende zaak in bezit neemt vóór de inschrijving in de openbare registers van het proces-verbaal van toewijzing.
+
+Beslagexecuties
 
 Het bovenstaande ziet tevens op de situatie dat een openbare executoriale veiling plaatsvindt door een beslaglegger ([artikel 514 e.v. Rv](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=514)).
 
@@ -103,7 +143,11 @@ Het bovenstaande ziet tevens op de situatie dat een openbare executoriale veilin
 
 Echtgenoten die niet zijn gehuwd in wettelijke gemeenschap van goederen kunnen binnen de huwelijksvoorwaarden een verrekenbeding overeenkomen ([afdeling 2 van Titel 8 Boek 1 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=2)). Hetzelfde geldt voor geregistreerd partners. Als een dergelijk verrekenbeding (mede) ziet op de waardeontwikkeling van een onroerende zaak, kan het aangaan dan wel de ontbinding van het verrekenbeding een verkrijging zijn van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2). Ik acht het dan niet in alle gevallen gewenst dat er overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat een tegemoetkoming wordt verleend ten bedrage van de bij de verkrijging van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) verschuldigde overdrachtsbelasting, als deze verkrijging rechtstreeks voortvloeit uit het aangaan of het ontbinden van een verrekenbeding als onderdeel van huwelijks- of partnerschapsvoorwaarden.
+
+Toelichting
 
 Als een echtgenoot op andere wijze een belang verkrijgt in een tot het vermogen van de andere echtgenoot behorende onroerende zaak, kan er overdrachtsbelasting zijn verschuldigd. Dit zal aan de hand van alle relevante feiten en omstandigheden (samenstel van rechten en verplichtingen) moeten worden beoordeeld. De goedkeuring geldt dan niet.
 
@@ -113,7 +157,11 @@ Als een echtgenoot op andere wijze een belang verkrijgt in een tot het vermogen 
 
 Als de in het samenlevingscontract opgenomen clausule of verrekenbeding (mede) betrekking heeft op de waardeontwikkeling van een onroerende zaak, kan onder omstandigheden bij het aangaan dan wel bij ontbinding van deze clausule of dit verrekenbeding sprake zijn van een verkrijging van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2). Ik acht het dan niet in alle gevallen gewenst dat er overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat een tegemoetkoming wordt verleend ten bedrage van de overdrachtsbelasting die is verschuldigd bij de verkrijging van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2), als deze verkrijging rechtstreeks voortvloeit uit het opnemen of het ontbinden van een meerwaardeclausule, een verrekenbeding of een clausule analoog aan de regeling van [artikel 87, eerste, tweede of derde lid, Boek 1 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=87) in een samenlevingscontract.
+
+Toelichting
 
 Als een partner op andere wijze een belang verkrijgt in een tot het vermogen van de andere partner behorende onroerende zaak, kan er overdrachtsbelasting zijn verschuldigd. Dit zal aan de hand van alle relevante feiten en omstandigheden (samenstel van rechten en verplichtingen) moeten worden beoordeeld. De goedkeuring geldt dan niet.
 
@@ -125,9 +173,23 @@ Bij (buitenlandse) rechtsvormen zonder rechtspersoonlijkheid kan de situatie zic
 
 Bij de verkrijging van de juridische eigendom van een onroerende zaak door een beherend vennoot of beheerder/bewaarder verkrijgen de vennoten/deelnemers in onmiddellijke en rechtstreekse samenhang daarmee een (onverdeeld) aandeel in de economische eigendom van dezelfde onroerende zaak. De wijze waarop deze splitsing tot stand komt, leidt in de praktijk tot vragen bij wie en op welke wijze overdrachtsbelasting geheven moet worden. In beginsel zijn hierbij de wettelijke of contractuele verhoudingen leidend. Als op grond van de wettelijke of contractuele verhoudingen de beherend vennoot of beheerder/bewaarder voor rekening van de vennoten/deelnemers de juridische eigendom van de onroerende zaak of van rechten waaraan deze is onderworpen verkrijgt, acht ik heffing bij zowel de verkrijger van de juridische eigendom als bij de verkrijger(s) van de economische eigendom niet gewenst. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder voorwaarden goed dat de heffing van overdrachtsbelasting achterwege blijft over de verkrijging van de economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) van een onroerende zaak of een recht waaraan deze is onderworpen die is verkregen in onmiddellijke en rechtstreekse samenhang met de verkrijging door een ander van de juridische eigendom van dezelfde onroerende zaak of van een recht waaraan deze is onderworpen.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende vier voorwaarden:
+
+- – De beherend vennoot of beheerder/bewaarder van een (buitenlandse) personenvennootschap zonder rechtspersoonlijkheid of (buitenlands) fonds voor gemene rekening verkrijgt de juridische eigendom van de onroerende zaak of van een recht waaraan deze is onderworpen.
+
+- – De vennoten in die (buitenlandse) personenvennootschap zonder rechtspersoonlijkheid of deelnemers in dat (buitenlandse) fonds voor gemene rekening verkrijgen de economische eigendom van de onroerende zaak of van een recht waaraan deze is onderworpen in onmiddellijke en rechtstreekse samenhang met de verkrijging van de juridische eigendom door de beherend vennoot of beheerder/bewaarder.
+
+- – De verkrijging van de juridische eigendom en de verkrijging van de economische eigendom vinden gelijktijdig dan wel op dezelfde dag plaats overeenkomstig de wettelijke of contractuele verplichtingen tussen de beherend vennoot of beheerder/bewaarder en de vennoten/deelnemers.
+
+- – De beherend vennoot of beheerder/bewaarder heeft over de verkrijging van de juridische eigendom overdrachtsbelasting voldaan over de maatstaf van heffing als bedoeld in [artikel 9 tot en met 13 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=9), zonder rekening te houden met de verkrijging van de economische eigendom door de vennoten/deelnemers die in onmiddellijke en rechtstreekse samenhang met de juridische eigendomsverkrijging plaatsheeft.
+
+Toelichting
 
 De verkrijging van de juridische eigendom van de onroerende zaak moet dus effectief aan de heffing van overdrachtsbelasting onderworpen zijn. Dat betekent dat voor de verkrijging geen vrijstelling van toepassing mag zijn. Ook mag de juridische eigenaar geen beroep doen op de toepassing van [artikel 13 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13) als gevolg van de economische verkrijging door de vennoten/deelnemers die in onmiddellijke en rechtstreekse samenhang met de juridische eigendomsverkrijging plaatsheeft. Ten slotte moet de verschuldigde overdrachtsbelasting door de verkrijger van de juridische eigendom daadwerkelijk zijn betaald. Door de goedkeuring wordt alleen geheven bij de juridische eigenaar zodat de (vele) individuele verkrijgers van de economische eigendom geen overdrachtsbelasting op aangifte hoeven te voldoen. De goedkeuring geldt voor elke individuele verkrijger van de economische eigendom.
 
@@ -137,25 +199,43 @@ Bij verkoop van de onroerende zaak door (buitenlandse) rechtsvormen zonder recht
 
 Als de beherend vennoot of beheerder/bewaarder de eigendom voor rekening van de vennoten/deelnemers levert, verkrijgt de koper als gevolg van deze levering de volledige (juridische en economische) eigendom van de onroerende zaak. Deze verkrijging vormt bij de verkrijger één enkel belastbaar feit voor de heffing van overdrachtsbelasting. Indien als gevolg van de wettelijke of contractuele verhoudingen de economische eigendom door de vennoten/deelnemers aan de beherend vennoot of beheerder/bewaarder wordt overgedragen, voorafgaand aan de levering aan de uiteindelijke koper, acht ik heffing van overdrachtsbelasting niet gewenst bij de beherend vennoot of beheer/bewaarder als deze vervolgens, in onmiddellijke en rechtstreekse samenhang met de verkrijging van die economische eigendom, de volledige eigendom overdraagt. Daarom keur ik het volgende goed.
 
-Ik keur onder voorwaarden goed dat de heffing van overdrachtsbelasting achterwege blijft bij de verkrijging door de juridische eigenaar van de economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) van een onroerende zaak of van een recht waaraan deze is onderworpen als vervolgens en in onmiddellijke en rechtstreekse samenhang daarmee de juridische eigenaar de volledige eigendom overdraagt aan een derde. Onder derde kan ook worden verstaan een rechtsvorm zonder rechtspersoonlijkheid waarop onderdeel 3.4.1 (Verkrijging van de onroerende zaak) van dit besluit van toepassing is.
+Goedkeuring
+
+Ik keur onder voorwaarden goed dat de heffing van overdrachtsbelasting achterwege blijft bij de verkrijging door de juridische eigenaar van de economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) van een onroerende zaak of van een recht waaraan deze is onderworpen als vervolgens en in onmiddellijke en rechtstreekse samenhang daarmee de juridische eigenaar de volledige eigendom overdraagt aan een derde. Onder derde kan ook worden verstaan een rechtsvorm zonder rechtspersoonlijkheid waarop [onderdeel 3.4.1](https://wetten.overheid.nl/BWBR0045104) (Verkrijging van de onroerende zaak) van dit besluit van toepassing is.
+
+Voorwaarden
 
 Voor deze goedkeuring gelden de volgende vier voorwaarden:
+
+- – De juridische eigenaar is de beherend vennoot of beheerder/bewaarder van een (buitenlandse) personenvennootschap zonder rechtspersoonlijkheid of (buitenlands) fonds voor gemene rekening.
+
+- – De juridische eigenaar verkrijgt de economische eigendom van de onroerende zaak of van een recht waaraan deze is onderworpen van de vennoten in die (buitenlandse) personenvennootschap zonder rechtspersoonlijkheid of deelnemers in dat (buitenlandse) fonds voor gemene rekening overeenkomstig de wettelijke of contractuele verplichtingen tussen de beherend vennoot of beheerder/bewaarder en de vennoten/deelnemers.
+
+- – Op dezelfde dag van en in onmiddellijke en rechtstreekse samenhang met de verkrijging van de economische eigendom door de beherend vennoot of beheerder/bewaarder, draagt deze de volledige eigendom over aan een derde. Onder derde kan ook worden verstaan een rechtsvorm zonder rechtspersoonlijkheid waarop het [onderdeel 3.4.1](https://wetten.overheid.nl/BWBR0045104). (Verkrijging van de onroerende zaak) van dit besluit van toepassing is.
+
+- – In de akte van levering wordt opgenomen dat de partijen zich op het standpunt stellen dat de juridische eigenaar (verkoper) de economische eigendom heeft verkregen in onmiddellijke en rechtstreekse samenhang met de levering aan de koper. Verder wordt in de akte opgenomen dat de koper geen beroep zal doen op de toepassing van [artikel 13 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13) ter zake van de voorafgaande verkrijging van de economische eigendom door de juridisch eigenaar (verkoper). Daarnaast zal in de akte worden vastgelegd dat de afspraak dat koper afziet van een beroep op artikel 13 WBR heeft te gelden als een derdenbeding ten behoeve van de Belastingdienst en dat dit derdenbeding door partijen in de akte als vrijwillig waarnemer van de Belastingdienst wordt aanvaard.
+
+Toelichting
 
 De goedkeuring bij vervreemding houdt verband met de situatie waarop de goedkeuring voor de verkrijging geldt. Door de goedkeuring bij de vervreemding wordt voorkomen dat de beherend vennoot of beheerder/bewaarder overdrachtsbelasting wordt verschuldigd over de verkrijging van de economische eigendom in verband met de overdracht van de volledige eigendom aan de uiteindelijke koper.
 
 De goedkeuring bij vervreemding van de onroerende zaak kan op overeenkomstige wijze worden toegepast als de splitsing tussen de juridische eigendom en de economische eigendom van de onroerende zaak of van een recht waaraan deze is onderworpen is ontstaan op een moment gelegen voor de inwerkingtreding van dit besluit.
 
-Als voorwaarde voor de goedkeuring bij vervreemding van de onroerende zaak of van een recht waaraan deze is onderworpen geldt onder meer dat in de akte wordt opgenomen dat de koper geen beroep zal doen op de toepassing van [artikel 13 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13). Als de koper de aan hem door de juridisch eigenaar geleverde onroerende zaak of recht waaraan deze is onderworpen doorlevert aan een opvolgende koper, is het voor de opvolgende koper wel mogelijk een beroep te doen op de toepassing van artikel 13 WBR. Dit uiteraard mits de (door)levering plaatsvindt binnen de in de wet gestelde termijn. De aan het slot van onderdeel 1 (inleiding) van dit besluit opgenomen bepaling dat bij een beroep op artikel 13 WBR de in dit besluit opgenomen goedkeuringen komen te vervallen en de niet geheven belasting alsnog verschuldigd is, geldt in dat geval niet.
+Als voorwaarde voor de goedkeuring bij vervreemding van de onroerende zaak of van een recht waaraan deze is onderworpen geldt onder meer dat in de akte wordt opgenomen dat de koper geen beroep zal doen op de toepassing van [artikel 13 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=13). Als de koper de aan hem door de juridisch eigenaar geleverde onroerende zaak of recht waaraan deze is onderworpen doorlevert aan een opvolgende koper, is het voor de opvolgende koper wel mogelijk een beroep te doen op de toepassing van artikel 13 WBR. Dit uiteraard mits de (door)levering plaatsvindt binnen de in de wet gestelde termijn. De aan het slot van [onderdeel 1](https://wetten.overheid.nl/BWBR0045104) (inleiding) van dit besluit opgenomen bepaling dat bij een beroep op artikel 13 WBR de in dit besluit opgenomen goedkeuringen komen te vervallen en de niet geheven belasting alsnog verschuldigd is, geldt in dat geval niet.
 
 ### 3.5. Alternatief koop- en leveringssysteem
 
 In de notariële praktijk is een alternatief ontwikkeld voor het huidige koop- en leveringssysteem van onroerende zaken. In dit systeem stelt de notaris in één (notariële) akte de koopovereenkomst op met daarin ook de levering van de onroerende zaak onder een aantal opschortende voorwaarden. De belangrijkste hiervan is de betaling van de koopprijs gevolgd door het opmaken en inschrijven van de akte van kwijting. Hierna behandel ik enkele overdrachtsbelastingaspecten bij dit alternatieve systeem. Het betreft de vraag of sprake is van de verkrijging van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) en de vraag op welk tijdstip de belaste verkrijging plaatsvindt.
+
+Economische eigendom
 
 In het alternatieve koop- en leveringssysteem vindt de levering plaats in de koop- en leveringsakte onder de opschortende voorwaarde van (onder meer) betaling van de koopsom. De koper verkrijgt hiermee op het moment van de ondertekening van de koop- en leveringsakte een belang bij de onroerende zaak. Het feitelijk risico blijft echter tot aan het moment van ondertekening van de akte van kwijting bij de verkoper. Dit betekent dat de koper op dat moment niet meer verkrijgt dan het recht op levering van de onroerende zaak. Op grond van de slotzin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2) is er dan geen sprake van een verkrijging van economische eigendom.
 
 Ik merk hierbij nog het volgende op. Als partijen aanvullende overeenkomsten sluiten betreffende de koop en levering, zoals bijvoorbeeld een sleutelverklaring, zou een dergelijke overeenkomst er toe kunnen leiden dat de koper meer verkrijgt dan uitsluitend het recht op levering. In dat geval kan er sprake zijn van een verkrijging van economische eigendom in de zin van [artikel 2, tweede lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=2), en wel voor de volledige waarde van de onroerende zaak.
 
 De ‘Vormerkung’ als bedoeld in [artikel 3 Boek 7 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=3) leidt er niet toe dat de koper meer verkrijgt dan uitsluitend het recht op levering.
+
+Tijdstip verkrijging
 
 Als voor de verkrijging van een onroerende zaak een akte in de openbare registers moet worden ingeschreven, vindt de verkrijging voor de overdrachtsbelasting plaats op het tijdstip waarop de akte wordt opgemaakt (zie [artikel 8, eerste lid, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=8)). Als de rechtshandeling echter onder opschortende voorwaarde is verricht, vindt de verkrijging plaats op het tijdstip waarop de voorwaarde wordt vervuld (zie artikel 8, tweede lid, WBR).
 
@@ -173,9 +253,9 @@ Als een erflater bij testament een onroerende zaak heeft gelegateerd, dan is de 
 
 ### 4.2. Verdeling nalatenschap afwijkend van de ouderlijke boedelverdeling
 
-Onder het tot 1 januari 2003 geldende erfrecht was het mogelijk om bij testament een ouderlijke boedelverdeling te maken ([artikel 1167 Boek 4 BW oud](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1167)). De erfgenamen konden dan bij de verdeling van de boedel niet afwijken van de bepalingen in het testament ([artikel 1170 Boek 4 BW oud](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1170)). Wel bestond voor hen de mogelijkheid om in onderling overleg de nalatenschap op andere wijze te verdelen.
+Onder het tot 1 januari 2003 geldende erfrecht was het mogelijk om bij testament een ouderlijke boedelverdeling te maken ([artikel 1167 Boek 4 BW oud](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1167)). De erfgenamen konden dan bij de verdeling van de boedel niet afwijken van de bepalingen in het testament ([artikel 1170 Boek 4 BW oud](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=1170)). Wel bestond voor hen de mogelijkheid om in onderling overleg de nalatenschap op andere wijze te verdelen.
 
-Een testament met ouderlijke boedelverdeling is onder het erfrecht vanaf 1 januari 2003 niet meer mogelijk. De op 1 januari 2003 reeds bestaande testamenten worden op grond van het overgangsrecht geëerbiedigd. Ook kunnen er nog onverdeelde nalatenschappen zijn welke onder het oude erfrecht zijn opengevallen. Voor zover nalatenschappen worden verdeeld in afwijking van de ouderlijke boedelverdeling, is er geen sprake van een verdeling in de zin van [artikel 3 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3). Over de verkrijging van een onroerende zaak is dan overdrachtsbelasting verschuldigd.
+Een testament met ouderlijke boedelverdeling is onder het erfrecht vanaf 1 januari 2003 niet meer mogelijk. De op 1 januari 2003 reeds bestaande testamenten worden op grond van het overgangsrecht geëerbiedigd. Ook kunnen er nog onverdeelde nalatenschappen zijn welke onder het oude erfrecht zijn opengevallen. Voor zover nalatenschappen worden verdeeld in afwijking van de ouderlijke boedelverdeling, is er geen sprake van een verdeling in de zin van [artikel 3 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3). Over de verkrijging van een onroerende zaak is dan overdrachtsbelasting verschuldigd.
 
 ### 4.3. Verdeling huwelijksgemeenschap of nalatenschap na herverkaveling
 
@@ -183,9 +263,17 @@ De verkrijging bij een toedeling op grond van een herverkaveling vormt een origi
 
 Deze titelzuiverende werking heeft gevolgen voor een onroerende zaak die op het moment van herverkaveling behoort tot een nog niet verdeelde huwelijksgemeenschap of nalatenschap. De verdeling kan immers niet meer worden aangemerkt als een verdeling van een huwelijksgemeenschap of nalatenschap waarin de verkrijger onder algemene titel was gerechtigd. Hierdoor is het bepaalde in [artikel 3, eerste lid, onderdeel b, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3) niet van toepassing. Dit acht ik niet in alle gevallen gewenst. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder voorwaarden goed dat [artikel 3, eerste lid, onderdeel b, WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=3), ook van toepassing is als de onroerende zaak of recht waaraan deze is onderworpen behoort tot een nalatenschap of ontbonden huwelijksgemeenschap die na herverkaveling wordt verdeeld.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende twee voorwaarden:
+
+- – Er is sprake van een herverkaveling als bedoeld in [Hoofdstuk 8, Titel 3, WILG](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&titeldeel=3).
+
+- – De toedeling krachtens herverkaveling vindt plaats binnen vijf jaar na de ontbinding van de huwelijksgemeenschap of de verkrijging krachtens erfrecht.
 
 ### 5. Aandelen in onroerende zaakrechtspersonen
 
@@ -193,9 +281,19 @@ Voor deze goedkeuring gelden de volgende twee voorwaarden:
 
 De verkrijging van een of meer aandelen in een OZR kan een belastbaar feit zijn voor de overdrachtsbelasting. Dit geldt ook voor het onderbrengen van de bedoelde aandelen in een stichting administratiekantoor tegen uitreiking van certificaten. De heffing van overdrachtsbelasting bij certificering kan echter onder omstandigheden leiden tot een onbillijkheid van overwegende aard. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Bij certificering van aandelen keur ik onder voorwaarden goed dat op verzoek een tegemoetkoming wordt verleend ten bedrage van de door de certificering verschuldigde overdrachtsbelasting.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende twee voorwaarden:
+
+- – De aandeelhouder brengt alle in zijn of haar bezit zijnde aandelen in de OZR onder in een administratiekantoor, tegen verkrijging van certificaten.
+
+- – Bij de certificering wordt voldaan aan de voorwaarden van [onderdeel 4.4 van het besluit van 9 maart 2018](https://wetten.overheid.nl/BWBR0040742), nr. 2018-27139(Inkomstenbelasting. Aanmerkelijk belang. Verzamelbesluit).
+
+Toelichting
 
 Voor de goedkeuring is het niet noodzakelijk dat alle aandeelhouders van de OZR hun aandelen certificeren. De aandeelhouder die wenst te certificeren moet wel alle in zijn of haar bezit zijnde aandelen in de OZR onderbrengen in een administratiekantoor tegen verkrijging van certificaten.
 
@@ -205,15 +303,33 @@ De verkrijging van certificaten van aandelen in een OZR kan een belastbaar feit 
 
 De heffing van overdrachtsbelasting kan bij het ongedaan maken van de certificering leiden tot een onbillijkheid van overwegende aard. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder voorwaarden goed dat bij het ongedaan maken van certificering van aandelen, door middel van omwisseling van de certificaten voor de onderliggende aandelen, op verzoek een tegemoetkoming wordt verleend ten bedrage van de door het ongedaan maken verschuldigde overdrachtsbelasting.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende drie voorwaarden:
+
+- – Bij de certificering van de aandelen werd voldaan aan de voorwaarden van [onderdeel 4.4 van het besluit van 9 maart 2018](https://wetten.overheid.nl/BWBR0040742), nr. 2018-27139. Bij certificering voor de inwerkingtreding van dat besluit geldt dat, afhankelijk van het tijdstip van certificering, is voldaan aan de voorwaarden vermeld in het [besluit van 4 september 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032006), nr. BLKB2012/101M, het [besluit van 23 november 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020584), nr. CPP2006/2674M, het besluit van 14 november 2000, nr. CPP2000/1943M of de resolutie van 23 maart 1962, no. B2/3678.
+
+- – De certificaathouder wisselt alle in zijn of haar bezit zijnde certificaten om voor de onderliggende aandelen.
+
+- – De aandelen geven dezelfde rechten die aan de certificaten en de certificaathouder toekwamen.
 
 ### 5.3. Inkoop en uitgifte van eigen aandelen
 
 De inkoop van eigen aandelen, dan wel de uitgifte van aandelen door een OZR kan een belastbaar feit vormen voor de overdrachtsbelasting. Ik acht het niet in alle gevallen gewenst dat overdrachtsbelasting wordt geheven. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder een voorwaarde goed dat op verzoek een tegemoetkoming wordt verleend voor het bedrag van de verschuldigde overdrachtsbelasting bij:
+
+- – de verkrijging door een OZR van eigen aandelen als gevolg van een inkoop, direct gevolgd door intrekking van de ingekochte aandelen; en,
+
+- – de uitgifte (toekenning) van aandelen door een OZR.
+
+Voorwaarde
 
 Voor deze goedkeuringen geldt de voorwaarde dat de onderlinge gerechtigdheid van de aandeelhouder(s) tot het vermogen van de OZR niet wijzigt. Met de term 'gerechtigdheid' wordt bedoeld het materiële belang bij de waardeontwikkeling van de (fictieve) onroerende zaken, dat door de aandelen wordt vertegenwoordigd. Als er in de onderlinge gerechtigdheid wel een wijziging optreedt, dan is belast hetgeen meer wordt verkregen ten opzichte van de oorspronkelijke verhouding.
 
@@ -221,11 +337,29 @@ Voor deze goedkeuringen geldt de voorwaarde dat de onderlinge gerechtigdheid van
 
 Voor een (open end) beleggingsmaatschappij met veranderlijk kapitaal is het in beginsel mogelijk om dagelijks eigen aandelen in te kopen en weer uit te geven. Dit gebeurt op verzoek van beleggers al naar gelang de vraag of het aanbod.
 
-Omdat ingekochte eigen aandelen op korte termijn weer kunnen worden uitgegeven, houdt de beleggingsmaatschappij deze aandelen veelal tijdelijk in portefeuille. De aandelen worden aldus niet ingetrokken. Dit betekent dat een beleggingsmaatschappij die eigen aandelen inkoopt en kwalificeert als een OZR, geen gebruik kan maken van de goedkeuring in onderdeel 5.3 van dit besluit. Immers als voorwaarde bij deze goedkeuring geldt dat de inkoop van eigen aandelen direct wordt gevolgd door een intrekking van deze aandelen. Gezien het bijzondere karakter van een beleggingsmaatschappij met veranderlijk kapitaal acht ik het niet gewenst dat bij een inkoop van eigen aandelen in alle gevallen overdrachtsbelasting wordt geheven als de aandelen voor heruitgifte tijdelijk in portefeuille worden gehouden. Daarom keur ik het volgende goed.
+Omdat ingekochte eigen aandelen op korte termijn weer kunnen worden uitgegeven, houdt de beleggingsmaatschappij deze aandelen veelal tijdelijk in portefeuille. De aandelen worden aldus niet ingetrokken. Dit betekent dat een beleggingsmaatschappij die eigen aandelen inkoopt en kwalificeert als een OZR, geen gebruik kan maken van de goedkeuring in [onderdeel 5.3](https://wetten.overheid.nl/BWBR0045104) van dit besluit. Immers als voorwaarde bij deze goedkeuring geldt dat de inkoop van eigen aandelen direct wordt gevolgd door een intrekking van deze aandelen. Gezien het bijzondere karakter van een beleggingsmaatschappij met veranderlijk kapitaal acht ik het niet gewenst dat bij een inkoop van eigen aandelen in alle gevallen overdrachtsbelasting wordt geheven als de aandelen voor heruitgifte tijdelijk in portefeuille worden gehouden. Daarom keur ik het volgende goed.
+
+Goedkeuring
 
 Ik keur onder voorwaarden goed dat op verzoek een tegemoetkoming wordt verleend voor het bedrag van de verschuldigde overdrachtsbelasting bij een inkoop door een beleggingsmaatschappij met veranderlijk kapitaal van eigen aandelen die voor heruitgifte tijdelijk in portefeuille worden gehouden.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende zes voorwaarden:
+
+- – De beleggingsmaatschappij kwalificeert als een beleggingsmaatschappij met veranderlijk kapitaal in de zin van [artikel 76a Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=76a) dan wel een vergelijkbare buitenlandse wettelijke regeling.
+
+- – De ingekochte en heruitgegeven aandelen zijn identificeerbaar door middel van een nummering.
+
+- – De beleggingsmaatschappij saldeert na het einde van elk boekjaar het aantal in het boekjaar ingekochte aandelen met het aantal in hetzelfde boekjaar heruitgegeven aandelen. Voor zover na het einde van het boekjaar het totaal van de in het boekjaar ingekochte eigen aandelen het totaal van de in het boekjaar heruitgegeven aandelen overtreft, worden de op het eind van het boekjaar nog in bezit zijnde in het boekjaar ingekochte eigen aandelen binnen twee maanden na afloop van het boekjaar ingetrokken. Als die aandelen niet binnen twee maanden zijn ingetrokken is alsnog overdrachtsbelasting verschuldigd over de waarde van de onroerende zaken welke per einde van het boekjaar worden vertegenwoordigd door de niet (tijdig) ingetrokken eigen aandelen.
+
+- – Het boekjaar is 12 maanden. Alleen het eerste boekjaar van een nieuw opgerichte beleggingsmaatschappij mag langer of korter zijn dan 12 maanden. Bij een langer boekjaar is het boekjaar maximaal de periode vanaf de oprichting tot het einde van het kalenderjaar van oprichting, vermeerderd met 12 maanden.
+
+- – Op het moment van de inkoop van de aandelen moet aan de in dit onderdeel gestelde voorwaarden zijn voldaan.
+
+- – Het verzoek om een tegemoetkoming voor de overdrachtsbelasting wordt bij de inspecteur van de Belastingdienst ingediend binnen twee maanden na afloop van het boekjaar.
+
+Toelichting
 
 Ter verduidelijking merk ik nog het volgende op. Als de beleggingsmaatschappij niet gedurende het gehele boekjaar voldoet aan de gestelde voorwaarden, geldt de goedkeuring in het betreffende boekjaar alleen over de periode waarin zij wel aan de voorwaarden voldoet.
 
@@ -237,9 +371,29 @@ Er kunnen zich omstandigheden voordoen waarbij het de voorkeur heeft om in geval
 
 Als in de bovengenoemde situatie de dochtervennootschap kwalificeert als OZR zijn de aandeelhouders vanwege hun verkrijging van de aandelen in beginsel overdrachtsbelasting verschuldigd op grond van het bepaalde in [artikel 4 WBR](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4). In het geval de verdwijnende moedervennootschap ook kwalificeerde als OZR, acht ik het niet in alle gevallen gewenst dat de aandeelhouders van deze vennootschap bij de verkrijging van de aandelen in de dochtervennootschap overdrachtsbelasting verschuldigd zijn. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder voorwaarden goed dat in geval een vennootschap als verdwijnende vennootschap juridisch fuseert met een vennootschap waarvan zij alle aandelen houdt, een tegemoetkoming wordt verleend ten bedrage van de overdrachtsbelasting die is verschuldigd ter zake van de verkrijging van de aandelen in de als OZR kwalificerende verkrijgende vennootschap.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende zeven voorwaarden:
+
+- – Er is sprake van een juridische fusie als bedoeld in [artikel 2:309 e.v. BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) of een vergelijkbare fusie naar buitenlands recht
+
+- – Zowel de verdwijnende vennootschap als de verkrijgende vennootschap kwalificeert direct voorafgaand aan de fusie als een OZR.
+
+- – De verdwijnende vennootschap is direct voorafgaand aan de fusie de enig aandeelhouder van de verkrijgende vennootschap.
+
+- – De intrekking van de bestaande aandelen en de toekenning van nieuwe aandelen door de verkrijgende vennootschap vindt plaats overeenkomstig het bepaalde in [artikel 325, derde lid, Boek 2 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=325) of een vergelijkbare bepaling naar buitenlands recht.
+
+- – De door de aandeelhouders van de verdwijnende vennootschap in het kader van de fusie verkregen aandelen in de verkrijgende vennootschap vertegenwoordigen voor die aandeelhouders uitsluitend dezelfde onroerende zaken als de verdwijnende vennootschap (on)middellijk bezat.
+
+- – Het materiële belang van de aandeelhouder(s) in de waardeontwikkeling van de onroerende zaken, dat door de aandelen wordt vertegenwoordigd, wijzigt niet als gevolg van de juridische fusie. Voor zover dit belang wel wijzigt, is over hetgeen meer wordt verkregen ten opzichte van de situatie van vóór de fusie, overdrachtsbelasting verschuldigd.
+
+- – De aandeelhouders van de verdwijnende vennootschap blijven nog gedurende een termijn van drie jaren na de juridische fusie in het bezit van alle bij deze fusie verkregen aandelen in de verkrijgende vennootschap.
+
+Toelichting
 
 Op grond van de laatstgenoemde voorwaarde moeten de aandeelhouders van de verdwijnende vennootschap gedurende een termijn van drie jaren na de juridische fusie in het bezit blijven van alle bij deze fusie verkregen aandelen in de verkrijgende vennootschap. De beoordeling van deze voorwaarde vindt plaats per aandeelhouder. Als één of meer van de aandeelhouders niet voldoet(n) aan deze aanhoudingseis, is de door toepassing van deze goedkeuring bij die aandeelhouder(s) niet geheven belasting alsnog verschuldigd. Voor het gedeelte van de aandelen dat is verkregen door de aandeelhouder(s) die blijft (blijven) voldoen aan de aanhoudingseis, blijft de goedkeuring onder de bestaande voorwaarden van toepassing.
 
@@ -247,8 +401,8 @@ Op grond van de laatstgenoemde voorwaarde moeten de aandeelhouders van de verdwi
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – [15 oktober 2015, nr. BLKB2015/794M](https://wetten.overheid.nl/jci1.3:c:BWBR0037119) (Stcrt. 2015, nr. 36766)
+
 ### 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 15 februari 2021, nr. WJZ/ 20298861, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige infrastructuur in Groningen (Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen)"
+citeertitel: "Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen"
 identifier: "BWBR0044887"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-03-06"
-last_updated: "2021-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044887"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "15869553"
-version_id: "27576972"
-internal_id: "C38903211"
-label_id: "15804474"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044887/2021-03-06/0"
-intitule_bron: "Stcrt.2021-6682"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-02-15"
-intitule_published: "2021-03-05"
-intitule_in_force: "2021-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-6682"
-original_signed_date: "2021-02-15"
-original_published_date: "2021-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-6682"
-entry_into_force_date: "2021-03-06"
-jci_1_3: "jci1.3:c:BWBR0044887&z=2021-03-06&g=2021-03-06"
-jci_1_0: "1.0:c:BWBR0044887&g=2021-03-06"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen"
-signed_date: "2021-02-15"
-entry_into_force: "2021-03-06"
+publicatiedatum: 2021-03-06
+laatste_update: 2021-03-06
+status: geldig
+toestand: 2021-03-06
+bron: "https://wetten.overheid.nl/BWBR0044887"
+opgehaald: 2026-08-31
 ---
+
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 15 februari 2021, nr. WJZ/ 20298861, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige infrastructuur in Groningen (Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen)
-
-Gelet op [artikel 52g, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=52g) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **infrastructuur:** infrastructuur als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1) van en onderdeel A van de [bijlage bij de Omgevingswet](onbekend), en waterkeringen, waaronder begrepen ondersteunende kunstwerken;
+- *infrastructuur:* infrastructuur als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.1) van en onderdeel A van de [bijlage bij de Omgevingswet](https://wetten.overheid.nl/BWBR0037885), en waterkeringen, waaronder begrepen ondersteunende kunstwerken;
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **piekgrondversnelling:** hoogste waarde op maaiveldniveau van de grondversnelling tijdens een aardbeving;
+- *piekgrondversnelling:* hoogste waarde op maaiveldniveau van de grondversnelling tijdens een aardbeving;
 
-- **veiligheidsnorm:** veiligheidsnorm als bedoeld in [artikel 1.3a.3, eerste lid, van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=1.3a.3).
+- *veiligheidsnorm:* veiligheidsnorm als bedoeld in [artikel 1.3a.3, eerste lid, van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=1.3a.3).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -60,7 +34,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Indien de infrastructuur nog niet is gerealiseerd op het moment van indienen van een aanvraag voor een vergoeding als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044887&hoofdstuk=2&artikel=3&z=2021-03-06&g=2021-03-06), wordt in afwijking van het eerste lid bij het berekenen en vaststellen van de piekgrondversnelling uitgegaan van het moment van verwachte oplevering van de nieuw te bouwen infrastructuur.
 
-3. Deze beleidsregel is niet van toepassing op de Zuidelijke Ringweg Groningen, bedoeld in het Tracébesluit A7/N7 Zuidelijke Ringweg Groningen, fase 2 zoals vastgesteld op 29 september 2014 door de Minister van Infrastructuur en Milieu.
+3. Deze beleidsregel is niet van toepassing op de Zuidelijke Ringweg Groningen, bedoeld in het Tracébesluit A7/N7 Zuidelijke Ringweg Groningen, fase 2 zoals vastgesteld op 29 september 2014 door de Minister van Infrastructuur en Milieu.
 
 ### Hoofdstuk 2. Vergoeding
 
@@ -142,10 +116,8 @@ De minister wijst een aanvraag af indien:
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 ##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel vergoeding kosten aardbevingsbestendige infrastructuur Groningen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

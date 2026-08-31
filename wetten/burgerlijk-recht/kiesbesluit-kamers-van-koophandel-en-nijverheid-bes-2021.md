@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 15 januari 2021, houdende regels over de verkiezing van de bestuursleden van de Kamers van Koophandel en Nijverheid BES (Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)"
+citeertitel: "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021"
 identifier: "BWBR0044819"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044819"
+categorie: "Bestuursrecht"
 soort: "AMvB-BES"
-stam_id: "15846053"
-version_id: "27526352"
-internal_id: "C38968581"
-label_id: "15782124"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044819/2022-01-01/0"
-intitule_bron: "Stb.2021-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-01-15"
-intitule_published: "2021-02-16"
-intitule_in_force: "2021-03-15"
-intitule_status: "goed"
-original_publication: "Stb.2021-70"
-original_signed_date: "2021-01-15"
-original_published_date: "2021-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2021-70"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0044819&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0044819&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021"
-signed_date: "2021-01-15"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0044819"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van 15 januari 2021, houdende regels over de verkiezing van de bestuursleden van de Kamers van Koophandel en Nijverheid BES (Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)
-
-Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat van 3 november 2020, nr. WJZ / 20267079;
-
-Gelet op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=3), [artikel 5, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5), [artikel 5a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5a), [artikel 6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=6), en [artikel 9, tweede lid, van de Wet op de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 december 2020, nr. W18.20.0404/IV);
-
-Gezien het nader rapport van de Staatssecretaris van Economische Zaken en Klimaat van 13 januari 2021, nr. WJZ / 20313542;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
@@ -52,15 +20,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- a. **het Bestuurscollege:** het Bestuurscollege van het openbaar lichaam waar de Kamer is gevestigd;
+- a. *het Bestuurscollege:* het Bestuurscollege van het openbaar lichaam waar de Kamer is gevestigd;
 
-- b. **het Gerecht:** het Gerecht in eerste aanleg van de openbare lichamen Bonaire, Sint Eustatius en Saba dat zittingsplaats heeft in het openbaar lichaam waar de Kamer is gevestigd;
+- b. *het Gerecht:* het Gerecht in eerste aanleg van de openbare lichamen Bonaire, Sint Eustatius en Saba dat zittingsplaats heeft in het openbaar lichaam waar de Kamer is gevestigd;
 
-- c. **de secretaris:** de secretaris van de Kamer;
+- c. *de secretaris:* de secretaris van de Kamer;
 
-- d. **de verkiezingscommissie:** de commissie, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=9);
+- d. *de verkiezingscommissie:* de commissie, bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=9);
 
-- e. **de wet:** de [Wet op de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028238).
+- e. *de wet:* de [Wet op de Kamers van Koophandel en Nijverheid BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028238).
 
 #### Paragraaf 2. Vertegenwoordiger van een onderneming of een rechtspersoon die kiesgerechtigde is
 
@@ -102,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 5. Procedure verkiezing bestuursleden Kamers
 
-#### Paragraaf 5.1. Opgave van kandidaten
+##### Paragraaf 5.1. Opgave van kandidaten
 
 ##### Artikel 5
 
@@ -110,7 +78,7 @@ De Kamer kondigt in een of meer dag-, nieuws- of huis-aan-huisbladen, of op een 
 
 ##### Artikel 6
 
-In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandidaten gesteld worden voor de verkiezing van de leden van de Kamer.
+In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandidaten gesteld worden voor de verkiezing van de leden van de Kamer.
 
 ##### Artikel 7
 
@@ -120,7 +88,7 @@ In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandid
 
 - b. een uittreksel van de inschrijving van de kandidaat in het bevolkingsregister van het openbaar lichaam waar de betreffende Kamer op ziet, waaruit blijkt dat deze gedurende de laatste twee jaren voor de verkiezingen daarin ingeschreven is geweest als bedoeld in [artikel 5, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028238&artikel=5).
 
-2. De opgave van de kandidaat voldoet aan model 1, dat als bijlage bij dit besluit is opgenomen.
+2. De opgave van de kandidaat voldoet aan model 1, dat als [bijlage](https://wetten.overheid.nl/BWBR0044819) bij dit besluit is opgenomen.
 
 3. Formulieren voor de opgave van een kandidaat en de verklaringen van kandidaten zijn vanaf het moment van bekendmaking kosteloos voor de kiesgerechtigden te verkrijgen bij de Kamer.
 
@@ -136,7 +104,7 @@ In de periode van 1 tot en met 14 november in het betreffende jaar kunnen kandid
 
 Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ingekomen kandidatenopgaven aan de verkiezingscommissie.
 
-#### Paragraaf 5.2. Het onderzoek van de kandidatenlijst
+##### Paragraaf 5.2. Het onderzoek van de kandidatenlijst
 
 ##### Artikel 10
 
@@ -160,7 +128,7 @@ Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ing
 
 3. Het Gerecht beslist op dit beroep bij een met redenen omklede uitspraak binnen acht werkdagen na de dag waarop het beroep is ingekomen, en deelt zijn uitspraak mede aan de persoon die het beroep heeft ingesteld en aan de verkiezingscommissie.
 
-#### Paragraaf 5.3. De vaststelling en openbaarmaking van de kandidatenlijst
+##### Paragraaf 5.3. De vaststelling en openbaarmaking van de kandidatenlijst
 
 ##### Artikel 12
 
@@ -176,7 +144,7 @@ Nadat de termijn van kandidaatstelling is verstreken, zendt de secretaris de ing
 
 3. Indien plaatsen openblijven als bedoeld in het tweede lid of indien plaatsen openblijven door het niet aanvaarden van een verkiezing door een kandidaat, wordt op voordracht van de overige bestuursleden een bestuurslid benoemd door het Bestuurscollege.
 
-4. Indien het aantal kandidaten dat op de kandidatenlijst voorkomt, groter is dan het aantal te vervullen plaatsen, zal binnen 30 dagen na de periode van 1 tot en met 14 november een stemming plaatsvinden door de verkiezingscommissie over de opgegeven kandidaten op een door de Kamer vast te stellen datum.
+4. Indien het aantal kandidaten dat op de kandidatenlijst voorkomt, groter is dan het aantal te vervullen plaatsen, zal binnen 30 dagen na de periode van 1 tot en met 14 november een stemming plaatsvinden door de verkiezingscommissie over de opgegeven kandidaten op een door de Kamer vast te stellen datum.
 
 5. Van de uitslag van een stemming wordt door de verkiezingscommissie aan de Kamer mededeling gedaan.
 
@@ -192,7 +160,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 2. Ingeval [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.3&artikel=14&z=2022-01-01&g=2022-01-01) van toepassing is, geldt een termijn van bekendmaking van 10 werkdagen.
 
-#### Paragraaf 5.4. De stemming algemeen
+##### Paragraaf 5.4. De stemming algemeen
 
 ##### Artikel 16
 
@@ -216,7 +184,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 3. Bij de tafel bevindt zich de afsluitbare stembus.
 
-#### Paragraaf 5.5. De stembiljetten
+##### Paragraaf 5.5. De stembiljetten
 
 ##### Artikel 18
 
@@ -224,7 +192,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 2. Op het stembiljet zijn aan de ene zijde in alfabetische volgorde de namen van de kandidaten gedrukt en is op de keerzijde de handtekening van de voorzitter van de Kamer gestempeld.
 
-3. Het stembiljet voldoet aan model 2, dat als bijlage bij dit besluit is opgenomen.
+3. Het stembiljet voldoet aan model 2, dat als [bijlage](https://wetten.overheid.nl/BWBR0044819) bij dit besluit is opgenomen.
 
 4. Andere stembiljetten worden bij het stemmen niet gebruikt.
 
@@ -236,7 +204,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 2. De stemmen worden uitgebracht op het stembiljet dat de voorzitter van de verkiezingscommissie aan elke kiezer overhandigt.
 
-#### Paragraaf 5.6. Het uitbrengen van de stem
+##### Paragraaf 5.6. Het uitbrengen van de stem
 
 ##### Artikel 20
 
@@ -274,7 +242,7 @@ Indien de verkiezingscommissie heeft beslist dat verkiezing door stemming zal pl
 
 Zodra de voor de stemming bepaalde tijd verstreken is, wordt dit door de voorzitter van de verkiezingscommissie aangekondigd, en worden alleen de op het ogenblik van deze aankondiging in of bij de deur van het stemlokaal aanwezige kiezers nog tot de stemming toegelaten.
 
-#### Paragraaf 5.7. Het tellen van de stemmen en de uitslag
+##### Paragraaf 5.7. Het tellen van de stemmen en de uitslag
 
 ##### Artikel 24
 
@@ -320,7 +288,7 @@ Zodra de voor de stemming bepaalde tijd verstreken is, wordt dit door de voorzit
 
 De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal op het kantoor van de Kamer voor een ieder ter inzage ligt, en maakt de uitslag van de stemming bekend op de wijze, bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.3&artikel=12&z=2022-01-01&g=2022-01-01).
 
-#### Paragraaf 5.8. Aanvaarding van de verkiezing
+##### Paragraaf 5.8. Aanvaarding van de verkiezing
 
 ##### Artikel 27
 
@@ -336,7 +304,7 @@ De voorzitter van de Kamer zorgt ervoor dat een afschrift van het proces-verbaal
 
 3. De Kamer doet na afloop van de termijn in het eerste lid aan het Bestuurscollege schriftelijke mededeling of de gekozene zijn verkiezing al dan niet heeft aanvaard.
 
-#### Paragraaf 5.9. Het onderzoek en de toelating
+##### Paragraaf 5.9. Het onderzoek en de toelating
 
 ##### Artikel 29
 
@@ -379,62 +347,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 34
 
 Dit besluit wordt aangehaald als: Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021.
-
-## Bijlage. Model 1 inzake opgave kandidaten als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=7&z=2022-01-01&g=2022-01-01), van het Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021
-
-### Verkiezingen 202x
-
-Onderwerp: Kandidaatstelling
-
-Opgave van een kandidaat voor de in het tijdvak van 1 t/m 14 november 202X plaatshebbende verkiezing van leden van de Kamer van Koophandel en Nijverheid op Bonaire/Statia & Saba.
-
-De ondergetekenden, kiezers, bevoegd om deel te nemen aan de bovengenoemde verkiezing, verklaren bovengenoemde persoon kandidaat te stellen.
-
-### Vereisten voor inlevering:
-
-### Verklaring
-
-([artikel 7, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.1&artikel=7&z=2022-01-01&g=2022-01-01), Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021)
-
-De ondergetekende:
-
-verklaart hierbij dat het hem/haar bekend is dat hij/zij voorkomt op ommestaande opgave van een kandidaat voor de in het tijdvak van 1 tot en met 14 december 202X plaatshebbende verkiezing van leden van de Kamer van Koophandel en Nijverheid op Bonaire/Sint Eustatius & Saba, en bereid is een kandidatuur te aanvaarden. Tevens verklaart hij aan de wettelijke vereisten te voldoen om tot bestuurslid van de Kamer van Koophandel gekozen te worden.
-
-Aldus naar waarheid ingevuld en ondertekend.
-
-Handtekening kandidaat
-
-Bonaire/Sint Eustatius & Saba,..... november 202X
-
-## Bijlage. Model 2 inzake stembiljet als bedoeld in [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044819&paragraaf=5&sub-paragraaf=5.5&artikel=18&z=2022-01-01&g=2022-01-01), van het Kiesbesluit Kamers van Koophandel en Nijverheid BES 2021
-
-VERKIEZING
-
-STEMBILJET
-
-Voor de stemming ter
-
-verkiezing van het bestuur van de KAMER
-
-VAN KOOPHANDEL EN NIJVERHEID BONAIRE / Statia & Saba
-
-op de ...e december 202X
-
-PERIODIEKE VERKIEZING
-
-| **XXXXXXXX, X.X.** | □ |
-| --- | --- |
-|   |   |
-| **XXXXXXXX, X.X.** | □ |
-|   |   |
-| **XXXXXXXX, X.X.** | □ |
-|   |   |
-| **XXXXXXXX, X.X.** | □ |
-|   |   |
-| **XXXXXXXX, X.X.** | □ |
-|   |   |
-| **XXXXXXXX, X.X.** | □ |
-
-De Kiezer stemt door met potlood het stemvak achter de naam van de kandidaat van zijn keuze in te vullen. Er mag op één kandidaat worden gestemd. Indien meerdere kandidaten zijn aangekruist, is het stembiljet ongeldig.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

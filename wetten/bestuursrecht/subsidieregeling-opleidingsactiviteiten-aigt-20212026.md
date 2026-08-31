@@ -1,42 +1,42 @@
 ---
-title: "Subsidieregeling opleidingsactiviteiten AIGT 2021–2026"
+title: "Regeling van de Minister voor Medische Zorg van 7 juli 2021, kenmerk 3222015-1012271-MEVA, houdende regels voor het subsidiëren van opleidingsactiviteiten in verband met de opleiding tot Arts Internationale Gezondheid en Tropengeneeskunde 2021–2026 (Subsidieregeling opleidingsactiviteiten AIGT 2021–2026)"
+citeertitel: "Subsidieregeling opleidingsactiviteiten AIG"
 identifier: "BWBR0045412"
-categorie: "Overig"
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
 publicatiedatum: 2021-07-17
-laatste_update: 2021-07-17
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0045412"
+opgehaald: 2026-08-31
 ---
 
 # Regeling van de Minister voor Medische Zorg van 7 juli 2021, kenmerk 3222015-1012271-MEVA, houdende regels voor het subsidiëren van opleidingsactiviteiten in verband met de opleiding tot Arts Internationale Gezondheid en Tropengeneeskunde 2021–2026 (Subsidieregeling opleidingsactiviteiten AIGT 2021–2026)
 
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3);
-
-Besluit:
-
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** arts in opleiding tot Arts Internationale Gezondheid en Tropengeneeskunde, die is ingeschreven in het betreffende profielregister;
+- *aanvrager:* arts in opleiding tot Arts Internationale Gezondheidszorg, die is ingeschreven in het betreffende profielregister;
 
-- **minister:** Minister voor Medische Zorg;
+- *minister:* Minister van Langdurige Zorg, Jeugd en Sport;
 
-- **opleiding AIGT:** opleiding tot Arts Internationale Gezondheid en Tropengeneeskunde als bedoeld in het Besluit van 25 juni 2020 houdende de aanvullende opleidings-, erkenningseisen voor het profiel internationale gezondheidszorg en tropengeneeskunde van het College Geneeskundig Specialismen;
+- *opleiding AIG:* opleiding tot Arts Internationale Gezondheidszorg als bedoeld in het Besluit van 9 april 2025 houdende de aanvullende opleidings-, erkenningseisen voor het profiel internationale gezondheidszorg van het College Geneeskundig Specialismen;
 
-- **opleidingsactiviteiten:** het volgen van het onderdeel ‘Buitenland’ van de opleiding AIGT;
+- *opleidingsactiviteiten:* het volgen van het onderdeel ‘Buitenland’ van de opleiding AIG;
 
-- **opleidingsinstituut:** Opleidingsinstituut Internationale Gezondheidzorg en Tropengeneeskunde;
+- *opleidingsinstituut:* Opleidingsinstituut Internationale Gezondheidszorg en Tropengeneeskunde;
 
-- **studiejaar:** het jaar waarin de aanvrager met het onderdeel ‘Buitenland’ van de opleiding AIGT start of is gestart.
+- *studiejaar:* het jaar waarin de aanvrager met het onderdeel ‘Buitenland’ van de opleiding AIG start of is gestart.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
+Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), [7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) en [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
-#### Artikel 3. Subsidiabele activiteiten
+##### Artikel 3. Subsidiabele activiteiten
 
-1. De minister kan op aanvraag eenmalig een subsidie verstrekken aan de aanvrager voor opleidingsactiviteiten in verband met de opleiding AIGT.
+1. De minister kan op aanvraag eenmalig een subsidie verstrekken aan de aanvrager voor opleidingsactiviteiten in verband met de opleiding AIG.
 
 2. De opleidingsactiviteiten, bedoeld in het eerste lid, die starten in januari van enig jaar zijn subsidiabel voor zover zij worden verricht in het studiejaar waarvoor de subsidie wordt verleend.
 
@@ -44,25 +44,21 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 4. In afwijking van het tweede en derde lid zijn de opleidingsactiviteiten die hebben plaatsgevonden in studiejaar 2020 subsidiabel in 2021.
 
-#### Artikel 4. Hoogte van de subsidie
+##### Artikel 4. Hoogte van de subsidie
 
-De subsidie bedraagt € 17.000 per aanvrager.
+De subsidie bedraagt € 17.000 per aanvrager.
 
-#### Artikel 5. Wijze van subsidieverstrekking
+##### Artikel 5
 
-De minister verstrekt:
+De minister verstrekt indien de opleidingsactiviteiten starten in de studiejaren 2021 tot en met 2027, een subsidie die ambtshalve wordt vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd.
 
-- a. indien de opleidingsactiviteiten zijn gestart in studiejaar 2020, een subsidie die zonder voorafgaande verlening direct wordt vastgesteld op een bedrag waarvan de hoogte door de minister bij de vaststelling wordt genoemd; of
-
-- b. indien de opleidingsactiviteiten starten in de studiejaren 2021 tot en met 2026, een subsidie die ambtshalve wordt vastgesteld op het bedrag waarvan de hoogte door de minister bij de verlening is genoemd.
-
-#### Artikel 6. Aanvraag tot subsidieverlening studiejaar 2021–2026
+##### Artikel 6. Aanvraag tot subsidieverlening studiejaar 2021–2027
 
 1. Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
-2. De subsidieaanvraag wordt uiterlijk 1 november van het desbetreffende studiejaar ontvangen.
+2. De subsidieaanvraag wordt uiterlijk 1 november van het desbetreffende studiejaar ontvangen.
 
-3. In afwijking van het tweede lid wordt de subsidieaanvraag ten behoeve van studiejaar 2021 ingediend in de periode van 1 september 2021 tot en met 1 november 2021.
+3. In afwijking van het tweede lid wordt de subsidieaanvraag ten behoeve van studiejaar 2021 ingediend in de periode van 1 september 2021 tot en met 1 november 2021.
 
 4. Subsidieaanvragen die na de data, bedoeld in het tweede en derde lid, worden ontvangen, worden afgewezen.
 
@@ -72,33 +68,23 @@ De minister verstrekt:
 
 7. De minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.
 
-#### Artikel 7. Besluit tot subsidieverlening studiejaar 2021–2026
+##### Artikel 7. Besluit tot subsidieverlening studiejaar 2021–2027
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
 
 2. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% dat in een keer wordt uitbetaald.
 
-#### Artikel 8. Aanvraag tot subsidievaststelling studiejaar 2020
+##### Artikel 8. Aanvraag tot subsidievaststelling studiejaar 2020
 
-1. Voor de aanvraag tot vaststelling van de subsidie voor studiejaar 2020 wordt een door de minister vastgesteld formulier gebruikt.
+*Vervallen*
 
-2. De aanvraag tot vaststelling wordt ingediend in de periode van 1 september 2021 tot en met 1 november 2021.
-
-3. De aanvraag, bedoeld in het tweede lid, gaat vergezeld van:
-
-- a. een bewijs van inschrijving in het opleidingsregister van de Registratiecommissie Geneeskundige Specialisten voor studiejaar 2020; en
-
-- b. een verklaring van het opleidingsinstituut waaruit blijkt dat de opleidingsactiviteiten in studiejaar 2020 of het daaropvolgende jaar zijn verricht.
-
-4. De minister besluit binnen 13 weken op een aanvraag tot vaststelling.
-
-#### Artikel 9. Subsidievaststelling studiejaar 2021–2026
+##### Artikel 9. Subsidievaststelling studiejaar 2021–2027
 
 1. De minister besluit binnen 22 weken na afronding van de opleidingsactiviteiten ambtshalve over de vaststelling van de subsidie.
 
-2. De subsidie wordt, indien de opleidingsactiviteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045412&artikel=3&z=2021-07-17&g=2021-07-17), zijn verricht, vastgesteld op het in de verleningsbeschikking genoemde bedrag.
+2. De subsidie wordt, indien de opleidingsactiviteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045412&artikel=3&z=2026-07-01&g=2026-07-01), zijn verricht, vastgesteld op het in de verleningsbeschikking genoemde bedrag.
 
-#### Artikel 10. Intrekking, wijziging en terugvordering
+##### Artikel 10. Intrekking, wijziging en terugvordering
 
 De minister kan de verlening of vaststelling van de subsidie intrekken indien:
 
@@ -108,16 +94,14 @@ De minister kan de verlening of vaststelling van de subsidie intrekken indien:
 
 - c. de verlening of vaststelling van de subsidie anderszins onjuist was en de aanvrager dit wist, dan wel behoorde te weten.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. De regeling vervalt met ingang van 1 juli 2026.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. De regeling vervalt met ingang van 1 juli 2029.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
-Deze regeling wordt aangehaald als: Subsidieregeling opleidingsactiviteiten AIGT 2021–2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Subsidie-regeling opleidingsactiviteiten AIG.

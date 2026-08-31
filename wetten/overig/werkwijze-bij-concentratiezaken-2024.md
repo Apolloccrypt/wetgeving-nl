@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-25
 toestand: 2025-01-01
 bron: "https://wetten.overheid.nl/BWBR0050643"
-opgehaald: 2026-08-30
+opgehaald: 2026-08-31
 ---
 
 # Werkwijze bij concentratiezaken 2024

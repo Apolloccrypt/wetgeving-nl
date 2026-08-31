@@ -1,60 +1,37 @@
 ---
 title: "Regeling van de commissie voor de Verzoekschriften en de Burgerinitiatieven"
 identifier: "BWBR0044981"
-country: "nl"
-rank: "reglement"
-publication_date: "2021-03-31"
-last_updated: "2021-03-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044981"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "15909003"
-version_id: "27651382"
-internal_id: "C39010981"
-label_id: "15844274"
-dtd_version: "2.0"
-original_entry_into_force: "2021-03-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044981/2021-03-31/0"
-intitule_bron: "Kst.2021-35713"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-03-10"
-intitule_published: "2021-03-10"
-intitule_in_force: "2021-03-10"
-intitule_status: "goed"
-original_publication: "Kst.2021-35713"
-original_signed_date: "2021-03-10"
-original_published_date: "2021-03-10"
-original_effect: "nieuwe-regeling"
-original_dossier: "35713"
-entry_into_force_date: "2021-03-31"
-entry_into_force_dossier: "35713"
-jci_1_3: "jci1.3:c:BWBR0044981&z=2021-03-31&g=2021-03-31"
-jci_1_0: "1.0:c:BWBR0044981&g=2021-03-31"
-citeertitel_status: "redactioneel"
-signed_date: "2021-03-10"
-entry_into_force: "2021-03-31"
+publicatiedatum: 2021-03-31
+laatste_update: 2021-03-31
+status: geldig
+toestand: 2021-03-31
+bron: "https://wetten.overheid.nl/BWBR0044981"
+opgehaald: 2026-08-31
 ---
+
 # Regeling van de commissie voor de Verzoekschriften en de Burgerinitiatieven
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders is bepaald, verstaan onder:
 
-- –. **burgerinitiatief:** een door de commissie ontvangen schriftelijk stuk met een voorstel als bedoeld in [artikel 14.2, eerste lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=14.2) aan de Kamer om een onderwerp te behandelen, en dat is gericht op de vervaardiging, wijziging of intrekking van een wettelijke regeling of op het te voeren regeringsbeleid;
+- – *burgerinitiatief:* een door de commissie ontvangen schriftelijk stuk met een voorstel als bedoeld in [artikel 14.2, eerste lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=14.2) aan de Kamer om een onderwerp te behandelen, en dat is gericht op de vervaardiging, wijziging of intrekking van een wettelijke regeling of op het te voeren regeringsbeleid;
 
-- –. **commissie:** de commissie voor de Verzoekschriften en de Burgerinitiatieven, bedoeld in [artikel 7.7, eerste lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.7);
+- – *commissie:* de commissie voor de Verzoekschriften en de Burgerinitiatieven, bedoeld in [artikel 7.7, eerste lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.7);
 
-- –. **initiatiefnemer:** een indiener van een burgerinitiatief;
+- – *initiatiefnemer:* een indiener van een burgerinitiatief;
 
-- –. **overheid:** openbare lichamen en hun organen, waaronder begrepen rechtspersonen die direct of indirect, geheel of gedeeltelijk, worden geëxploiteerd voor rekening van een of meer publiekrechtelijke lichamen;
+- – *overheid:* openbare lichamen en hun organen, waaronder begrepen rechtspersonen die direct of indirect, geheel of gedeeltelijk, worden geëxploiteerd voor rekening van een of meer publiekrechtelijke lichamen;
 
-- –. **ombudsman:** de Nationale ombudsman of een substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
+- – *ombudsman:* de Nationale ombudsman of een substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=9);
 
-- –. **rapport:** een onderzoeksrapport van de ombudsman als bedoeld in [artikel 7.7, tweede lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.7);
+- – *rapport:* een onderzoeksrapport van de ombudsman als bedoeld in [artikel 7.7, tweede lid, van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.7);
 
-- –. **verzoeker:** een indiener van een verzoekschrift;
+- – *verzoeker:* een indiener van een verzoekschrift;
 
-- –. **verzoekschrift:** een door de commissie ontvangen schriftelijk stuk als bedoeld in [artikel 14.1 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=14.1) over de taakvervulling door de overheid in een aangelegenheid waarbij de verzoeker een persoonlijk belang heeft.
+- – *verzoekschrift:* een door de commissie ontvangen schriftelijk stuk als bedoeld in [artikel 14.1 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=14.1) over de taakvervulling door de overheid in een aangelegenheid waarbij de verzoeker een persoonlijk belang heeft.
 
 ##### Artikel 2. Vereisten verzoekschrift
 

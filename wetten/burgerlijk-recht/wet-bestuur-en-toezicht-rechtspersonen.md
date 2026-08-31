@@ -1,71 +1,42 @@
 ---
 title: "Wet van 11 november 2020 tot wijziging van het Burgerlijk Wetboek in verband met de uniformering en de verduidelijking van enkele bepalingen omtrent het bestuur en de raad van commissarissen van rechtspersonen (Wet bestuur en toezicht rechtspersonen)"
+citeertitel: "Wet bestuur en toezicht rechtspersonen"
 identifier: "BWBR0044657"
-country: "nl"
-rank: "wet"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0044657"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "15799083"
-version_id: "27391282"
-internal_id: "C38677321"
-label_id: "15736504"
-dtd_version: "2.0"
-original_entry_into_force: "2021-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0044657/2023-01-01/0"
-intitule_bron: "Stb.2020-507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-11-11"
-intitule_published: "2020-12-11"
-intitule_in_force: "2020-12-11"
-intitule_status: "goed"
-original_publication: "Stb.2020-507"
-original_signed_date: "2020-11-11"
-original_published_date: "2020-12-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "34491"
-original_url_id: "stb-2020-507"
-entry_into_force_date: "2021-07-01"
-jci_1_3: "jci1.3:c:BWBR0044657&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0044657&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet bestuur en toezicht rechtspersonen"
-signed_date: "2020-11-11"
-entry_into_force: "2021-07-01"
+publicatiedatum: 2021-07-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0044657"
+opgehaald: 2026-08-31
 ---
+
 # Wet van 11 november 2020 tot wijziging van het Burgerlijk Wetboek in verband met de uniformering en de verduidelijking van enkele bepalingen omtrent het bestuur en de raad van commissarissen van rechtspersonen (Wet bestuur en toezicht rechtspersonen)
 
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I. Wijziging van Boek 2 van het Burgerlijk Wetboek
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de kwaliteit van bestuur en toezicht bij verenigingen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen te verbeteren en daartoe enkele regels inzake bestuur en toezicht voor alle rechtspersonen te uniformeren alsmede enkele specifiek voor stichtingen geldende bepalingen te introduceren;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-##### Artikel I. Wijziging van [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
-
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel II T/M IX
 
-**[vervallen]**
+*[vervallen]*
 
-##### Artikel X. Wijziging van de [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel X. Wijziging van de Wet verplichte beroepspensioenregeling
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
-##### Artikel XI. Wijziging van de [Wet op de loonvorming](https://wetten.overheid.nl/jci1.3:c:BWBR0002698)
+##### Artikel XI. Wijziging van de Wet op de loonvorming
 
-**[vervallen]**
+*[vervallen]*
 
-##### Artikel XII. Wijziging van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+##### Artikel XII. Wijziging van de Woningwet
 
-Wijzigt de Woningwet.
+*Wijzigt de Woningwet.*
 
 ##### Artikelen XIII en XIV
 
-**[vervallen]**
+*[vervallen]*
 
 ##### Artikel XV. Overgangsrecht
 
@@ -81,7 +52,7 @@ Wijzigt de Woningwet.
 
 ##### Artikel XVI. Samenloop
 
-Wijzigt de Wet continuïteit ondernemingen I.
+*Wijzigt de Wet continuïteit ondernemingen I.*
 
 ##### Artikel XVIa. Evaluatie
 
@@ -94,5 +65,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel XVIII. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bestuur en toezicht rechtspersonen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

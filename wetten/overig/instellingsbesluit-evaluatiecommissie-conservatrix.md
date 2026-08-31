@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Financiën van 12 mei 2021, 2021-0000094671, directie Financiële Markten, tot instelling van de Evaluatiecommissie Conservatrix (Instellingsbesluit Evaluatiecommissie Conservatrix)"
+citeertitel: "Instellingsbesluit Evaluatiecommissie Conservatrix"
 identifier: "BWBR0045151"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-05-27"
-last_updated: "2021-05-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045151"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "15964353"
-version_id: "27779922"
-internal_id: "C39182591"
-label_id: "15898444"
-dtd_version: "2.0"
-original_entry_into_force: "2021-05-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045151/2021-05-27/0"
-intitule_bron: "Stcrt.2021-25656"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-05-12"
-intitule_published: "2021-05-26"
-intitule_in_force: "2021-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-25656"
-original_signed_date: "2021-05-12"
-original_published_date: "2021-05-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-25656"
-entry_into_force_date: "2021-05-27"
-jci_1_3: "jci1.3:c:BWBR0045151&z=2021-05-27&g=2021-05-27"
-jci_1_0: "1.0:c:BWBR0045151&g=2021-05-27"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Evaluatiecommissie Conservatrix"
-signed_date: "2021-05-12"
-entry_into_force: "2021-05-27"
+publicatiedatum: 2021-05-27
+laatste_update: 2021-05-27
+status: geldig
+toestand: 2021-05-27
+bron: "https://wetten.overheid.nl/BWBR0045151"
+opgehaald: 2026-08-31
 ---
+
 # Besluit van de Minister van Financiën van 12 mei 2021, 2021-0000094671, directie Financiële Markten, tot instelling van de Evaluatiecommissie Conservatrix (Instellingsbesluit Evaluatiecommissie Conservatrix)
-
-Handelende in overeenstemming met de Raad van Commissarissen van De Nederlandsche Bank N.V.;
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** de commissie, bedoeld in artikel 2;
+- *commissie:* de commissie, bedoeld in artikel 2;
 
-- **DNB:** De Nederlandsche Bank N.V.;
+- *DNB:* De Nederlandsche Bank N.V.;
 
-- **Minister:** de Minister van Financiën;
+- *Minister:* de Minister van Financiën;
 
-- **RvC DNB:** de Raad van Commissarissen van DNB.
+- *RvC DNB:* de Raad van Commissarissen van DNB.
 
 ##### Artikel 2. Instelling en taak van de commissie
 
@@ -66,9 +38,9 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie bestaat uit twee leden. Als leden worden benoemd:
 
-- –. mevrouw mr. P.F.M. van der Meer Mohr;
+- – mevrouw mr. P.F.M. van der Meer Mohr;
 
-- –. de heer R. Konterman.
+- – de heer R. Konterman.
 
 2. De commissie wordt ondersteund door een externe secretaris.
 
@@ -110,10 +82,8 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 19 april 2021.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 19 april 2021.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Evaluatiecommissie Conservatrix.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
