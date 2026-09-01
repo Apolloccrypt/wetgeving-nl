@@ -1,62 +1,32 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 22 december 2021 kenmerk 3677256, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de instandhouding en doorontwikkeling van de NL-Alert keten (Besluit verlening mandaat, volmacht en machtiging NL-Alert keten)"
+citeertitel: "Besluit verlening mandaat, volmacht en machtiging inzake NL-Alert keten"
 identifier: "BWBR0046075"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-25"
-last_updated: "2021-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046075"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16198463"
-version_id: "28269582"
-internal_id: "C39856641"
-label_id: "16126594"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046075/2021-12-25/0"
-intitule_bron: "Stcrt.2021-51026"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-22"
-intitule_published: "2021-12-24"
-intitule_in_force: "2021-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-51026"
-original_signed_date: "2021-12-22"
-original_published_date: "2021-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-51026"
-entry_into_force_date: "2021-12-25"
-jci_1_3: "jci1.3:c:BWBR0046075&z=2021-12-25&g=2021-12-25"
-jci_1_0: "1.0:c:BWBR0046075&g=2021-12-25"
-citeertitel_status: "officieel"
-short_title: "Besluit verlening mandaat, volmacht en machtiging inzake NL-Alert keten"
-signed_date: "2021-12-22"
-entry_into_force: "2021-12-25"
+publicatiedatum: 2021-12-25
+laatste_update: 2021-12-25
+status: geldig
+toestand: 2021-12-25
+bron: "https://wetten.overheid.nl/BWBR0046075"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 22 december 2021 kenmerk 3677256, houdende verlening van mandaat, volmacht en machtiging aan de korpschef van de politie inzake bevoegdheden ten aanzien van de instandhouding en doorontwikkeling van de NL-Alert keten (Besluit verlening mandaat, volmacht en machtiging NL-Alert keten)
-
-Gelet op de Beheerovereenkomst inzake het Tactisch en Operationeel Beheer van het NL-Alert systeem tussen de Staat der Nederlanden (vertegenwoordigd door de Minister van Justitie en Veiligheid) en de Politie,
-
-Gelet op het [Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519), het [Mandaatbesluit hoofden clusters Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041688) en het [Mandaatbesluit DG Politie en Veiligheidsregio’s Ministerie van Justitie en Veiligheid 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044902),
-
-Gelet op [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4),
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- a. **jaarplan:** het jaarplan van de politie betreffende de instandhouding en doorontwikkeling van de NL-Alert keten;
+- a. *jaarplan:* het jaarplan van de politie betreffende de instandhouding en doorontwikkeling van de NL-Alert keten;
 
-- b. **beheerovereenkomst:** de overeenkomst tussen de Staat der Nederlanden (vertegenwoordigd door de Minister van Justitie en Veiligheid) en de Politie waarin de wederzijdse rechten en plichten zijn vastgelegd aangaande alle activiteiten die verband houden met het Tactisch en Operationeel beheer van het NL-Alert systeem;
+- b. *beheerovereenkomst:* de overeenkomst tussen de Staat der Nederlanden (vertegenwoordigd door de Minister van Justitie en Veiligheid) en de Politie waarin de wederzijdse rechten en plichten zijn vastgelegd aangaande alle activiteiten die verband houden met het Tactisch en Operationeel beheer van het NL-Alert systeem;
 
-- c. **de korpschef:** de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- c. *de korpschef:* de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- d. **mandaat:** de bevoegdheid om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen;
+- d. *mandaat:* de bevoegdheid om namens de minister besluiten te nemen en stukken af te doen en te ondertekenen;
 
-- e. **de minister:** de Minister van Justitie en Veiligheid.
+- e. *de minister:* de Minister van Justitie en Veiligheid.
 
 ##### Artikel 2
 

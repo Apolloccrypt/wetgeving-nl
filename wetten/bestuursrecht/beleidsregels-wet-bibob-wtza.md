@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2021, kenmerk 3290096-1020857-PZO, inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van de Wet toetreding zorgaanbieders (Beleidsregels Wet Bibob Wtza)"
+citeertitel: "Beleidsregels Wet Bibob Wtza"
 identifier: "BWBR0046184"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-01-07"
-last_updated: "2022-01-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046184"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "16229693"
-version_id: "28338012"
-internal_id: "C39947481"
-label_id: "16157394"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046184/2022-01-07/0"
-intitule_bron: "Stcrt.2022-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-09"
-intitule_published: "2022-01-06"
-intitule_in_force: "2022-01-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-202"
-original_signed_date: "2021-12-09"
-original_published_date: "2022-01-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-202"
-entry_into_force_date: "2022-01-07"
-jci_1_3: "jci1.3:c:BWBR0046184&z=2022-01-07&g=2022-01-07"
-jci_1_0: "1.0:c:BWBR0046184&g=2022-01-07"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels Wet Bibob Wtza"
-signed_date: "2021-12-09"
-entry_into_force: "2022-01-07"
+publicatiedatum: 2022-01-07
+laatste_update: 2022-01-07
+status: geldig
+toestand: 2022-01-07
+bron: "https://wetten.overheid.nl/BWBR0046184"
+opgehaald: 2026-09-01
 ---
+
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2021, kenmerk 3290096-1020857-PZO, inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van de Wet toetreding zorgaanbieders (Beleidsregels Wet Bibob Wtza)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=5) en [7 van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=7);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,7 +20,27 @@ Het onderhavige beleid heeft betrekking op de manier waarop de minister zijn bev
 
 In deze beleidsregels wordt verstaan onder:
 
-### Hoofdstuk 2. [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+- – *aanvraag:* een aanvraag om een toelatingsvergunning;
+
+- – *betrokkene:* een aanvrager of houder van een toelatingsvergunning en diens relaties;
+
+- – *Bibob-onderzoek:* het onderzoek dat in het kader van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) plaatsvindt;
+
+- – *Bureau:* Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur als bedoeld in [artikel 8 Wet bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8);
+
+- – *houder:* degene die beschikt over een toelatingsvergunning;
+
+- – *minister:* Minister van Volksgezondheid, Welzijn en Sport;
+
+- – *toelatingsvergunning:* een toelatingsvergunning als bedoeld in [artikel 4 Wtza](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=4);
+
+- – *Wet Bibob:*
+ [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+
+- – *Wtza:*
+ [Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797).
+
+### Hoofdstuk 2. Wet Bibob
 
 ### Paragraaf 1. Inleiding
 
@@ -60,6 +54,10 @@ Hierna wordt uitgelegd welke situaties ertoe kunnen leiden dat een vergunning wo
 
 Op basis van [artikel 3 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) kan een vergunning worden geweigerd of ingetrokken als het ernstige gevaar bestaat dat een vergunning mede gebruikt zal worden om:
 
+- a. uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten (hierna: A-grond); of
+
+- b. strafbare feiten te plegen (hierna: B-grond).
+
 Het kan voorkomen dat het – ondanks het bestaan van een ernstige mate van gevaar – vanwege de ernst van de strafbare feiten niet gerechtvaardigd is een aanvraag om een vergunning te weigeren of een bestaande vergunning in te trekken. Ook kan de situatie zich voordoen dat er geen ernstig gevaar bestaat, maar een mindere mate van gevaar. In beide gevallen kan een vergunning niet ingetrokken of geweigerd worden, maar kunnen er voorschriften verbonden worden aan de vergunning om op die manier het bestaande gevaar te beperken of weg te nemen ([artikel 3, zevende lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3)). Hierbij kan bijvoorbeeld worden gedacht aan voorschriften waarbij een relatie als bedoeld in artikel 3, vierde lid, Wet Bibob niet langer mag bestaan of voorschriften die informatieverplichtingen behelzen.
 
 Naast de A- en B-gronden, kan een vergunning(aanvraag) ook worden geweigerd of ingetrokken als feiten of omstandigheden er op wijzen of redelijkerwijs doen vermoeden dat ter verkrijging of behoud van de vergunning een strafbaar feit is gepleegd ([artikel 3, zesde lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3)).
@@ -72,21 +70,89 @@ Vanzelfsprekend worden bij een (eigen) Bibob-onderzoek de relevante strafbare fe
 
 De Bibob-relaties betreffen de (rechts)personen die:
 
+- • direct of indirect zeggenschap hebben of hebben gehad over de aanvrager of houder;
+
+- • direct of indirect leiding geven of hebben gegeven aan de aanvrager of houder;
+
+- • direct of indirect vermogen verschaffen of hebben verschaft aan de aanvrager of houder; of
+
+- • in een zakelijk samenwerkingsverband hebben gestaan tot de aanvrager of houder.
+
 Zeggenschap hebben, leidinggeven en vermogen verschaffen kan ook indirect plaatsvinden. Het maakt hierbij verder niet uit hoeveel schakels er in een zeggenschaps-, leidings- of financieringsketen zitten. Daardoor kan een (eigen) Bibob-onderzoek zich ongeacht het aantal tussenliggende rechtspersonen ook op de natuurlijke personen achter een onderneming richten. Bibob-relaties uit het verleden kunnen hierbij ook relevant zijn.
 
 ### Hoofdstuk 3. Toepassing
 
 In dit hoofdstuk wordt nader ingegaan op de feiten of omstandigheden die voor de minister aanleiding kunnen zijn om een eigen Bibob-onderzoek te starten in het kader van de aanvraag van een vergunning of bij een reeds verleende vergunning. De volgende feiten of omstandigheden kunnen zelfstandig of in onderlinge samenhang aanleiding vormen een zodanig onderzoek uit te voeren. Het hiernavolgende is geen uitputtende opsomming.
 
+Signalen van andere overheidsinstanties
+
 Signalen afkomstig van opsporingsinstanties, toezichthouders en andere bestuursorganen kunnen een aanleiding vormen een eigen Bibob-onderzoek te starten. Gedacht kan worden aan de volgende signalen:
 
+- • signalen van het Bureau ingevolge [artikel 11 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=11);
+
+- • signalen van het Openbaar Ministerie ingevolge [artikel 26 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=26);
+
+- • signalen van opsporingsinstanties die aangeven dat er een (afgerond) strafrechtelijk onderzoek ten aanzien van de betrokkene plaatsvindt of heeft plaatsgevonden; of
+
+- • signalen van de Inspectie gezondheidszorg en jeugd (IGJ), de Nederlandse Zorgautoriteit (NZa), een andere toezichthouder of een ander bestuursorgaan waarin onderbouwd wordt dat met betrekking tot een betrokkene mogelijkerwijs sprake is van een situatie als bedoeld in [artikel 3 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+
+Feiten en omstandigheden die de minister bekend zijn uit eigen taken en bevoegdheden
+
 De minister kan vanuit diens eigen taken en bevoegdheden kennis hebben van feiten of omstandigheden die reden kunnen zijn om te vermoeden dat met betrekking tot een betrokkene mogelijk sprake is van een situatie als bedoeld in [artikel 3 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3). Deze feiten of omstandigheden kunnen bijvoorbeeld blijken uit de antwoorden die in het kader van het aanvraagformulier zijn gegeven, de antwoorden op de nadere vragen die door het CIBG zijn gesteld of het raadplegen van het Handelsregister, maar ook uit bijvoorbeeld de openbare jaarverantwoording. Voor de minister zullen daarbij in elk geval onderstaande feiten of omstandigheden aanleiding kunnen zijn om een Bibob-onderzoek te starten. Dit betreft feiten of omstandigheden waarvan is gebleken dat deze vaak op zichzelf, dan wel in samenhang, voorkomen bij aanbieders die betrokken zijn bij strafbare feiten.
+
+- − *Complexe bedrijfsstructuur* De minister kan besluiten een onderzoek uit te voeren indien sprake is van een instelling met een complexe bedrijfsstructuur waarvoor geen rechtvaardigingsgrond bestaat. Het is bij bepaalde typen zorg of grotere zorginstellingen niet ongebruikelijk dat de zorginstelling is opgebouwd uit meerdere rechtspersonen. Indien er echter geen gerechtvaardigde reden ten grondslag ligt aan de keuze voor een complexe bedrijfsstructuur, dan is de gekozen structuur een indicatie om een eigen Bibob-onderzoek te starten.
+
+- − *Feiten of omstandigheden met betrekking tot de financiële huishouding* Ook feiten of omstandigheden die betrekking hebben op de financiële huishouding kunnen een aanleiding vormen een onderzoek uit te voeren. Gedacht kan worden aan:
+
+   - • een instelling:
+
+      - ○ waarbij hoge winstmarges of hoge winstuitkeringen worden gehanteerd;
+
+      - ○ die in korte tijd een grote omzetstijging weet te realiseren;
+
+      - ○ waarbij sprake is van ongebruikelijke transacties;
+
+      - ○ of waarbij sprake is van zeer lage personeelskosten in verhouding tot de omzet.
+
+   - • onduidelijke of ondoorzichtige financiering van de instelling: of
+
+   - • eerder faillissement of uitstel van betaling bij een instelling of onderneming van een betrokkene.
+
+- − *Het soort zorg* Het soort zorg dat verricht gaat worden of wordt verricht is een factor die niet uitsluitend, maar wel in combinatie met andere feiten of omstandigheden kan leiden tot het starten van een onderzoek. Uit de gegevens van bijvoorbeeld het Informatie Knooppunt Zorgfraude, de NZa, de IGJ, de Inspectie SZW, het Openbaar Ministerie en Zorgverzekeraars Nederland volgt dat bepaalde zorgsoorten of deelsectoren gevoeliger zijn voor regelovertreding en frauduleus handelen dan andere zorgsoorten. Bij deze zorgsoorten bestaat derhalve een groter risico op de aanwezigheid van een mate van gevaar als bedoeld in [artikel 3 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+
+- − *Andere feiten of omstandigheden met betrekking tot betrokkene* Het gaat hierbij bijvoorbeeld om de volgende feiten of omstandigheden:
+
+   - • een instelling is gevestigd op een adres dat niet passend is bij het type zorg dat wordt verleend (denk hierbij aan een verzorgingshuis dat is gevestigd in een garagepand);
+
+   - • een lid van de algemene of dagelijkse leiding heeft geen passende beroepsmatige achtergrond;
+
+   - • een lid van de algemene of dagelijkse leiding of interne toezichthouder is betrokken geweest bij overtredingen of bij ondernemingen of instellingen waar overtredingen zijn geconstateerd of werden vermoed;
+
+   - • er zijn veelvuldige bestuurswisselingen;
+
+   - • de instelling verricht andere bedrijfsactiviteiten die geen relatie hebben met het verlenen van zorg;
+
+   - • de instelling en de leden van de algemene of dagelijkse leiding hebben geen enkele historie in de zorgsector; of
+
+   - • de instelling beschikt niet over voldoende gekwalificeerd personeel.
+
+Signalen uit de onderzoeksjournalistiek of klachten/meldingen van burgers
 
 Onder deze categorie valt informatie in krantenartikelen of andere journalistieke producties die redelijkerwijs kan leiden tot het vermoeden dat met betrekking tot betrokkene mogelijk sprake is van een situatie als bedoeld in [artikel 3 Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3). Deze gegevens moeten deugdelijk onderbouwd zijn. Dit betekent dat niet iedere openbare beschuldiging direct zal leiden tot het starten van een eigen Bibob-onderzoek.
 
 Voorts kunnen ook klachten en meldingen van burgers, na eventueel nader feitenonderzoek, reden zijn voor een eigen Bibob-onderzoek.
 
+Signalen bestaande uit gedragingen van de betrokkene
+
 De houding en het gedrag van de betrokkene kunnen aanleiding vormen een eigen Bibob-onderzoek uit te voeren. Gedacht kan worden aan de situatie waarin:
+
+- • bij de beantwoording van het aanvraagformulier voor de vergunning of eventueel aanvullende gestelde vragen sprake is van een (herhaaldelijke) ontwijkende beantwoording van deze vragen;
+
+- • bij de behandeling van de aanvraag derden betrokken zijn die niet staan opgegeven op het aanvraagformulier voor de vergunning of geen formele betrekking hebben met de instelling;
+
+- • de betrokkene zich intimiderend opstelt bij de behandeling van de vergunningaanvraag; of
+
+- • de betrokkene zich intimiderend opstelt jegens de IGJ of NZa.
 
 ### Hoofdstuk 4. De procedure van het eigen Bibob-onderzoek
 
@@ -101,6 +167,14 @@ Indien het eigen Bibob-onderzoek wordt verricht met het oog op een mogelijke int
 ### Paragraaf 2. Inhoud eigen Bibob-onderzoek
 
 Indien wordt overgegaan tot het uitvoeren van het eigen Bibob-onderzoek kan dit eigen onderzoek, globaal genomen, bestaan uit de controle en analyse van:
+
+- • de door aanvrager of houder ingediende gegevens en bescheiden behorend bij het vragenformulier;
+
+- • eventueel, op verzoek van de minister, door de aanvrager of houder aanvullend ingediende gegevens en bescheiden;
+
+- • een onderzoek in open bronnen, zoals het Handelsregister van de Kamer van Koophandel, het Kadaster, het Centraal Insolventieregister, zoekmachines; en
+
+- • het raadplegen van politie- en strafvorderlijke gegevens, alsmede netwerktekeningen van de afdeling TRACK van de Dienst Justis van het Ministerie van Justitie en Veiligheid.
 
 Indien uit het eigen Bibob-onderzoek feiten en omstandigheden naar voren komen op grond waarvan kan worden geconcludeerd dat betrokkene in relatie staat tot strafbare feiten en deze feiten en omstandigheden dermate ernstig zijn dat kan worden gesproken van een ‘ernstig gevaar’, als bedoeld in [artikel 3, eerste lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), kan de minister zelfstandig, dat wil zeggen zonder tussenkomst van het Bureau, de gevraagde vergunning weigeren of intrekken. Bij een mindere mate van gevaar dan wel als een weigering of intrekking niet wordt gerechtvaardigd door de ernst van de strafbare feiten, kan de minister voorschriften aan de vergunning verbinden. In [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046184&hoofdstuk=6&z=2022-01-07&g=2022-01-07) wordt ingegaan op de vervolgstappen na het eigen Bibob-onderzoek, indien geen advies van het Bureau wordt gevraagd.
 
@@ -126,13 +200,13 @@ Indien het advies van het Bureau ten grondslag aan het besluit wordt gelegd, ver
 
 ### Paragraaf 3. ‘Mindere mate van gevaar’ en het verbinden van voorschriften
 
-De minister heeft, in de situatie dat sprake is van een mindere van mate van gevaar, als bedoeld in [artikel 3, zevende lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), de bevoegdheid om voorschriften te verbinden aan de vergunning. Die bevoegdheid heeft de minister ook indien de ernst van de strafbare feiten een weigering of intrekking van de vergunning niet rechtvaardigt. De voorschriften moeten tot doel hebben de gevaarzetting, die volgt uit het onderzoek, weg te nemen of zoveel als mogelijk te beperken. De minister heeft ook de bevoegdheid om een reeds gegeven voorschrift te wijzigen op grond van artikel 3, zevende lid, Wet Bibob.
+De minister heeft, in de situatie dat sprake is van een mindere van mate van gevaar, als bedoeld in [artikel 3, zevende lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), de bevoegdheid om voorschriften te verbinden aan de vergunning. Die bevoegdheid heeft de minister ook indien de ernst van de strafbare feiten een weigering of intrekking van de vergunning niet rechtvaardigt. De voorschriften moeten tot doel hebben de gevaarzetting, die volgt uit het onderzoek, weg te nemen of zoveel als mogelijk te beperken. De minister heeft ook de bevoegdheid om een reeds gegeven voorschrift te wijzigen op grond van artikel 3, zevende lid, Wet Bibob.
 
-Indien de minister voornemens is om voorschriften aan de toelatingsvergunning te verbinden, wordt paragraaf 5 van dit hoofdstuk in acht genomen alvorens het besluit wordt genomen.
+Indien de minister voornemens is om voorschriften aan de toelatingsvergunning te verbinden, wordt paragraaf 5 van dit hoofdstuk in acht genomen alvorens het besluit wordt genomen.
 
 ### Paragraaf 4. Weigeren aangevraagde of intrekken reeds verleende vergunning
 
-Indien de uitkomst is dat sprake is van een ernstig gevaar als bedoeld in [artikel 3, eerste lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), dan dient door de minister zelf te worden getoetst aan het proportionaliteitsbeginsel van artikel 3, vijfde lid, Wet Bibob. De weigering van een aangevraagde vergunning of intrekking van een reeds gegeven vergunning vindt, op grond van artikel 3, vijfde lid, Wet Bibob, slechts plaats indien deze evenredig is met (a) de mate van het geconstateerde gevaar en (b) de ernst van de strafbare feiten, voor zover het ernstig gevaar als bedoeld in artikel 3, eerste lid, onderdeel b, Wet Bibob, betreft.
+Indien de uitkomst is dat sprake is van een ernstig gevaar als bedoeld in [artikel 3, eerste lid, Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), dan dient door de minister zelf te worden getoetst aan het proportionaliteitsbeginsel van artikel 3, vijfde lid, Wet Bibob. De weigering van een aangevraagde vergunning of intrekking van een reeds gegeven vergunning vindt, op grond van artikel 3, vijfde lid, Wet Bibob, slechts plaats indien deze evenredig is met (a) de mate van het geconstateerde gevaar en (b) de ernst van de strafbare feiten, voor zover het ernstig gevaar als bedoeld in artikel 3, eerste lid, onderdeel b, Wet Bibob, betreft.
 
 De toelatingsvergunning kan ook worden geweigerd of ingetrokken indien feiten en omstandigheden erop wijzen of redelijkerwijs doen vermoeden dat ter verkrijging of behoud van de toelatingsvergunning een strafbaar feit is gepleegd. Ook in dat geval moet de weigering of intrekking tenminste evenredig zijn met, ingeval van vermoedens, de ernst daarvan en met de ernst van het strafbare feit.
 
@@ -153,5 +227,3 @@ Na ontvangst van de zienswijzen worden deze door de minister verwerkt en zal bes
 ### Hoofdstuk 7. Slotbepalingen
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en wordt aangehaald als: Beleidsregels Wet Bibob Wtza.
-
-Deze beleidsregels zullen in de Staatscourant worden geplaatst.

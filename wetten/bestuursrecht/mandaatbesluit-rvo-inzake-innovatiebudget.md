@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 september 2021, nr. 2021-0000473446, houdende de verlening van mandaat, volmacht en machtiging aan de algemeen directeur van de Rijksdienst voor Ondernemend Nederland in verband met de verstrekking van uitkeringen en subsidie ter verbetering van de digitale dienstverlening (Mandaatbesluit RVO inzake Innovatiebudget)"
+citeertitel: "Mandaatbesluit RVO inzake Innovatiebudget"
 identifier: "BWBR0045638"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-23"
-last_updated: "2021-09-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045638"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16081753"
-version_id: "28013722"
-internal_id: "C39517711"
-label_id: "16012474"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045638/2021-09-23/0"
-intitule_bron: "Stcrt.2021-41988"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-09-21"
-intitule_published: "2021-09-22"
-intitule_in_force: "2021-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-41988"
-original_signed_date: "2021-09-21"
-original_published_date: "2021-09-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-41988"
-entry_into_force_date: "2021-09-23"
-jci_1_3: "jci1.3:c:BWBR0045638&z=2021-09-23&g=2021-09-23"
-jci_1_0: "1.0:c:BWBR0045638&g=2021-09-23"
-citeertitel_status: "redactioneel"
-short_title: "Mandaatbesluit RVO inzake Innovatiebudget"
-signed_date: "2021-09-21"
-entry_into_force: "2021-09-23"
+publicatiedatum: 2021-09-23
+laatste_update: 2021-09-23
+status: geldig
+toestand: 2021-09-23
+bron: "https://wetten.overheid.nl/BWBR0045638"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 21 september 2021, nr. 2021-0000473446, houdende de verlening van mandaat, volmacht en machtiging aan de algemeen directeur van de Rijksdienst voor Ondernemend Nederland in verband met de verstrekking van uitkeringen en subsidie ter verbetering van de digitale dienstverlening (Mandaatbesluit RVO inzake Innovatiebudget)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
-
-Gezien de schriftelijke instemming van de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat van 8 september 2021, kenmerk MD2021102INSTAC;
-
-Besluit:
 
 ##### Artikel 1
 

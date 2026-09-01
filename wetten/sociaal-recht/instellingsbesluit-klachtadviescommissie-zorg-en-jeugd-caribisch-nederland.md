@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 sepember 2021, kenmerk 3232850-1013115-ZJCN, houdende instelling van de Klachtadviescommissie Zorg en Jeugd Caribisch Nederland (Instellingsbesluit Klachtadviescommissie Zorg en Jeugd Caribisch Nederland)"
+citeertitel: "Instellingsbesluit Klachtadviescommissie Zorg en Jeugd Caribisch Nederland"
 identifier: "BWBR0045600"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-11"
-last_updated: "2021-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045600"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16073413"
-version_id: "27995972"
-internal_id: "C39489941"
-label_id: "16005384"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045600/2021-09-11/0"
-intitule_bron: "Stcrt.2021-40496"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-09-02"
-intitule_published: "2021-09-10"
-intitule_in_force: "2021-09-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-40496"
-original_signed_date: "2021-09-02"
-original_published_date: "2021-09-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-40496"
-entry_into_force_date: "2021-09-11"
-jci_1_3: "jci1.3:c:BWBR0045600&z=2021-09-11&g=2021-09-11"
-jci_1_0: "1.0:c:BWBR0045600&g=2021-09-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Klachtadviescommissie Zorg en Jeugd Caribisch Nederland"
-signed_date: "2021-09-02"
-entry_into_force: "2021-09-11"
+publicatiedatum: 2021-09-11
+laatste_update: 2021-09-11
+status: geldig
+toestand: 2021-09-11
+bron: "https://wetten.overheid.nl/BWBR0045600"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 2 sepember 2021, kenmerk 3232850-1013115-ZJCN, houdende instelling van de Klachtadviescommissie Zorg en Jeugd Caribisch Nederland (Instellingsbesluit Klachtadviescommissie Zorg en Jeugd Caribisch Nederland)
-
-Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 #### Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **staatssecretaris:** de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- a. *staatssecretaris:* de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **Directie:** directie Zorg en Jeugd Caribisch Nederland van het Ministerie van Volksgezondheid, Welzijn en Sport;
+- b. *Directie:* directie Zorg en Jeugd Caribisch Nederland van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- c. **Directeur:** directeur Zorg en Jeugd Caribisch Nederland van het Ministerie van Volksgezondheid, Welzijn en Sport;
+- c. *Directeur:* directeur Zorg en Jeugd Caribisch Nederland van het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- d. **klacht:** een klacht als bedoeld in [artikel 9:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
+- d. *klacht:* een klacht als bedoeld in [artikel 9:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
 
-- e. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045600&artikel=2&z=2021-09-11&g=2021-09-11).
+- e. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045600&artikel=2&z=2021-09-11&g=2021-09-11).
 
 #### Taak en samenstelling van de commissie
 
@@ -121,5 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Klachtadviescommissie Zorg en Jeugd Caribisch Nederland.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst (en in afschrift worden gezonden aan betrokkenen).

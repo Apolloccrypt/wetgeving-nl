@@ -1,44 +1,33 @@
 ---
 title: "Aanwijzing huiselijk geweld en kindermishandeling"
 identifier: "BWBR0046205"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-03-01"
-last_updated: "2022-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046205"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16236803"
-version_id: "28398642"
-internal_id: "C40051531"
-label_id: "16164404"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046205/2022-03-01/0"
-intitule_bron: "Stcrt.2022-877"
-intitule_effect: "wijziging"
-intitule_published: "2022-01-18"
-intitule_in_force: "2022-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-877"
-original_published_date: "2022-01-18"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-877"
-entry_into_force_date: "2022-03-01"
-jci_1_3: "jci1.3:c:BWBR0046205&z=2022-03-01&g=2022-03-01"
-jci_1_0: "1.0:c:BWBR0046205&g=2022-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-03-01"
+publicatiedatum: 2022-03-01
+laatste_update: 2022-03-01
+status: geldig
+toestand: 2022-03-01
+bron: "https://wetten.overheid.nl/BWBR0046205"
+opgehaald: 2026-09-01
 ---
+
 # Aanwijzing huiselijk geweld en kindermishandeling
 
 ### Samenvatting
 
 Deze aanwijzing geeft een kader en regels voor de strafrechtelijke aanpak van huiselijk geweld en kindermishandeling. ‘Huiselijk geweld en kindermishandeling’ wordt in deze aanwijzing als verzamelbegrip gehanteerd. Soms wordt kortweg gerefereerd aan ‘huiselijk geweld’ of ‘geweld in de privésfeer’. Met deze termen wordt steeds hetzelfde bedoeld.
 
-Deze aanwijzing bevat niet het kader voor de strafrechtelijke aanpak van **seksueel** geweld in de privésfeer; dat is beschreven in de Aanwijzing zeden.
+Deze aanwijzing bevat niet het kader voor de strafrechtelijke aanpak van *seksueel* geweld in de privésfeer; dat is beschreven in de Aanwijzing zeden.
 
 De uitgangspunten zijn:
+
+- • Het schenden van in het strafrecht neergelegde normen vraagt in beginsel om correctie, afkeuring en herstel van de geleden schade. Het strafrecht is in beginsel repressief van aard, het kan – gecombineerd met andere interventies en op voldoende selectieve wijze ingezet – bijdragen aan veiligheid en het voorkomen van herhaling.
+
+- • De belangen van slachtoffers wegen zwaar mee bij de afweging of en zo ja, hoe in zaken van huiselijk geweld en kindermishandeling strafrechtelijk opgetreden moet worden door of onder verantwoordelijkheid van het openbaar ministerie. De veiligheid van slachtoffers en de risico’s op herhaald slachtofferschap en herhaald daderschap worden hierbij steeds goed voor ogen gehouden. Veiligheids- en risicotaxatie vormen derhalve in alle stadia van opsporing en vervolging een belangrijke leidraad voor de prioritering van handelen.
+
+- • Waar het belang van waarheidsvinding botst met het belang van behoud en versterking van veerkracht van slachtoffers worden deze belangen steeds zorgvuldig tegen elkaar afgewogen om te voorkomen dat het strafrechtelijk onderzoek leidt tot schade bij slachtoffers en anderen.
+
+- • Het openbaar ministerie handelt in samenwerking en samenhang met de relevante netwerkpartners. Ook in het netwerkverband houdt het openbaar ministerie de belangen van slachtoffers, met name de waarborg van veiligheid en het behoud en versterken van veerkracht nadrukkelijk voor ogen. Daartoe wordt het sociale systeem, zowel rondom het slachtoffer als de (kwetsbare) verdachte of dader betrokken.
 
 ### 1. Achtergrond
 
@@ -49,6 +38,26 @@ Huiselijk geweld is geweld dat gepleegd wordt in de privésfeer. De term ‘huis
 In veel gevallen van geweld in de privésfeer blijven dader en slachtoffer deel uitmaken van elkaars leefomgeving. Slachtoffers van huiselijk geweld kunnen zich niet altijd onttrekken aan het geweld. Dit geldt bijvoorbeeld voor kinderen ten opzichte van hun ouders, ouderen en personen met beperkingen ten opzichte van hun mantelzorgers en (ex-)partners met gezamenlijke kinderen. Ook financiële afhankelijkheid kan een rol spelen. Daarnaast zijn er verschillende bevolkingsgroepen of gemeenschappen in onze samenleving (met een Nederlandse achtergrond en met een migratieachtergrond) waarbinnen met name vrouwen negatief beoordeeld worden als zij hun echtgenoot of kinderen verlaten. Al deze factoren kunnen ertoe leiden dat slachtoffers van huiselijk geweld minder snel geneigd zijn melding of aangifte te doen.
 
 Geweld in de privésfeer kent veel verschillende vormen. De onderstaande strafbare feiten kunnen in de context van huiselijk geweld voorkomen:
+
+- – Moord (waaronder femicide), doodslag, dood door schuld;
+
+- – fysieke mishandeling (waaronder vrouwelijke genitale verminking);
+
+- – belaging;
+
+- – emotionele of psychische mishandeling, of bedreiging met zware mishandeling of de dood;
+
+- – fysieke verwaarlozing, benadeling van de gezondheid of onthouden van zorg;
+
+- – onttrekken aan het gezag, ontvoering, achterlating, huwelijksdwang, huwelijkse gevangenschap;
+
+- – emotionele of psychische verwaarlozing;
+
+- – dwang om iets te doen, te dulden of juist niet te doen;
+
+- – beschadiging, vernieling, wegnemen of wegmaking van goederen;
+
+- – financiële uitbuiting.
 
 ### 1.2. De rol van het strafrecht
 
@@ -66,7 +75,21 @@ Bij het inzetten van deze maatregelen wordt zo veel mogelijk samengewerkt met an
 
 Bij de beoordeling van de noodzaak om strafrecht in te zetten houdt de officier van justitie rekening met:
 
-Specifiek voor optreden tegen geweld binnen een (gezins)systeem is de ‘systeemgerichte’ aanpak ontwikkeld. De systeemgerichte aanpak is zowel gericht op hulpverlening aan en beveiliging van het slachtoffer als op behandeling en vervolging van de geweldpleger, als op (hulpverlening aan) de andere sociale relaties binnen het (gezins)systeem. In de systeemgerichte aanpak worden het slachtoffer, de dader én het systeem om hen heen betrokken om het patroon van geweld te doorbreken en bij te dragen aan duurzame veiligheid binnen het systeem. In zaken waar eer een rol speelt is voorzichtigheid geboden met het betrekken van het systeem aangezien dat het risico op escalatie juist verhoogt.4De voorzichtigheid richt zich hier op de **wijze** waarop OM en politie handelen, bijvoorbeeld bij het verrichten van een aanhouding.
+- – de ernst van de gedraging of het feit;
+
+- – de kans op recidive;
+
+- – de vraag of de strafrechtelijke interventie bijdraagt aan het vergroten van de veiligheid en het beperken van recidiverisico. In het geval de verdachte naar aanleiding van het voorval een behandeling ondergaat, vraagt de officier van justitie middels een reclasseringsrapportage informatie op over de stand van zaken hiervan;
+
+- – de schade (zowel fysieke als psychische schade aan personen en schade aan eigendommen);
+
+- – de impact die het delict heeft (gehad) op het slachtoffer;
+
+- – de impact die het delict heeft (gehad) op de samenleving; en
+
+- – het belang van waarheidsvinding en bestraffing van gepleegde delicten afgewogen tegen de belangen van veiligheid en veerkracht van de betrokken personen.
+
+Specifiek voor optreden tegen geweld binnen een (gezins)systeem is de ‘systeemgerichte’ aanpak ontwikkeld. De systeemgerichte aanpak is zowel gericht op hulpverlening aan en beveiliging van het slachtoffer als op behandeling en vervolging van de geweldpleger, als op (hulpverlening aan) de andere sociale relaties binnen het (gezins)systeem. In de systeemgerichte aanpak worden het slachtoffer, de dader én het systeem om hen heen betrokken om het patroon van geweld te doorbreken en bij te dragen aan duurzame veiligheid binnen het systeem. In zaken waar eer een rol speelt is voorzichtigheid geboden met het betrekken van het systeem aangezien dat het risico op escalatie juist verhoogt.4De voorzichtigheid richt zich hier op de *wijze* waarop OM en politie handelen, bijvoorbeeld bij het verrichten van een aanhouding.
 
 ### 1.3. Samenwerking en netwerk
 
@@ -90,7 +113,7 @@ In gevallen van verdenking van stalking (belaging) door een (ex-)partner of iema
 
 Indien er sprake is van (mogelijk) eergerelateerd geweld is het van belang dat de officier van justitie die leiding geeft aan het onderzoek hierbij de methode van het Landelijk Expertisecentrum Eergerelateerd Geweld (LEC EGG) als leidraad gebruikt. Eeropvattingen binnen het grotere familieverband (extended family): een geschonden (familie)eergevoel en een gevoelde noodzaak om de (familie)eer te herstellen kunnen leiden tot het dreigen met of overgaan tot gebruik van geweld. Bij eergerelateerd geweld zijn vaak meerdere daders betrokken uit dezelfde context of familie waarbij ook (enkel) intellectueel daderschap aan de orde kan zijn. Het strafrechtelijk onderzoek dient zich in zo’n geval derhalve óók op de invloed van familieleden buiten het (kern)gezinsverband te richten. Tevens kan er sprake zijn van voorbedachte rade.
 
-Als er sprake is van eergerelateerd geweld kan strafrechtelijk ingrijpen leiden tot escalatie. Hier moet bij het strafrechtelijk optreden rekening gehouden worden. Als binnen een casus van eergerelateerd geweld sprake is van dreigen, kan **snel** strafrechtelijk optreden nodig zijn om te voorkomen dat de strafbare feiten waarmee gedreigd wordt daadwerkelijk zullen plaatsvinden. De medewerkers werkzaam bij het stelsel Bewaken en Beveiligen kunnen hierbij ook een belangrijke rol vervullen en gevraagd worden mee te kijken.
+Als er sprake is van eergerelateerd geweld kan strafrechtelijk ingrijpen leiden tot escalatie. Hier moet bij het strafrechtelijk optreden rekening gehouden worden. Als binnen een casus van eergerelateerd geweld sprake is van dreigen, kan *snel* strafrechtelijk optreden nodig zijn om te voorkomen dat de strafbare feiten waarmee gedreigd wordt daadwerkelijk zullen plaatsvinden. De medewerkers werkzaam bij het stelsel Bewaken en Beveiligen kunnen hierbij ook een belangrijke rol vervullen en gevraagd worden mee te kijken.
 
 ### 2.3. Aangifte/meldingen
 
@@ -112,11 +135,25 @@ Na binnenkomst van een proces-verbaal met betrekking tot huiselijk geweld of kin
 
 De inzet van maatregelen ter bescherming van het slachtoffer wordt zo spoedig mogelijk na de aanmelding van de zaak overwogen. Als de officier van justitie op basis van bovenstaande besluit om strafvervolging in te stellen, kan besloten worden tot:
 
+- – *Een dagvaarding (al dan niet voorafgegaan door een gedragsaanwijzing ex 509hh en/of een voorgeleiding).* Het uitgangspunt is dat, vanwege de ernst van het plegen van geweld in afhankelijkheidsrelaties en de bestraffing die daarbij passend is, bij zaken van huiselijk geweld of kindermishandeling wordt gedagvaard. Als iemand verdacht wordt van het plegen van een geweldsdelict in privésfeer waarvoor voorlopige hechtenis is toegelaten en er is sprake van één van de gronden om en verdachte in voorlopige hechtenis te stellen5Bijvoorbeeld gevaar voor het plegen van een 6-jaarsfeit of gevaar voor de gezondheid/veiligheid van personen., wordt deze persoon in beginsel voorgeleid.
+
 of
+
+- – *Een buitengerechtelijke afdoening in de vorm van een OM-strafbeschikking (al dan niet met een gedragsaanwijzing ex art. 257c Sv)* Hiertoe wordt alleen besloten in een situatie van huiselijk geweld of kindermishandeling als sprake is van het ontbreken van letsel of sprake is van heel licht letsel, er geen dreiging is van nieuw geweld, het een eerste incident betreft en/of de berouwvolle dader hulp zoekt en aanvaardt. Aan een OM-Strafbeschikking kan een gedragsaanwijzing verbonden worden conform [artikel 257c lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c), mits de verdachte door de officier van justitie is gehoord en zich bereid heeft verklaard zich aan de betreffende gedragsaanwijzing te houden. Delicten die met een buitengerechtelijke afdoening kunnen worden afgedaan zijn: Andere delicten die vallen onder huiselijk geweld en belaging in de zin van stalking door een (ex-)partner of door iemand anders uit de huiselijke kring of privésfeer worden alleen buitengerechtelijk afgedaan bij hoge uitzondering met expliciete toestemming van de reclasseringsofficier. Zie m.b.t. bovenstaande de [Richtlijn voor strafvordering huiselijk geweld](https://wetten.overheid.nl/jci1.3:c:BWBR0044659) en de [Aanwijzing OM-strafbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0045826).
+
+   - – vernieling ([art. 350 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350))
+
+   - – verbale bedreiging ([art. 285 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285))
+
+   - – eenvoudige mishandeling ([art. 300 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300))
 
 ### 3.2. Beoordeling van overtreding van het tijdelijk huisverbod6Voor meer informatie over het tijdelijk huisverbod: De Wet Tijdelijk Huisverbod (BWBR0024649). en overtreding gedragsaanwijzing ex art 509hh
 
 Bij overtreding van:
+
+- – het tijdelijk huisverbod ([art 11 Wet tijdelijk huisverbod](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=11))
+
+- – de gedragsaanwijzing ([184a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184a))
 
 waarbij sprake is van gronden voor voorgeleiding (bijvoorbeeld gevaar voor het plegen van een 6-jaars feit of gevaar voor de gezondheid/veiligheid van personen), wordt als uitgangspunt voorgeleid. Hierbij geldt wel dat elke zaak op zich wordt beoordeeld en dat van het uitgangspunt in voorkomende gevallen gemotiveerd kan worden afgeweken. Dit geldt met name voor die situaties waarin het contact met achterblijvers niet of nauwelijks te vermijden was.
 
@@ -128,11 +165,11 @@ De veiligheid van het slachtoffer en andere betrokkenen en het stoppen van (drei
 
 Als voor de veiligheid van het slachtoffer of andere (direct) betrokkenen wordt gevreesd, in die mate dat het gevaar niet voldoende kan worden afgewend of bij een begin van ernstig gevaar waarbij de reguliere wegen niet voldoende zijn, dan treedt het stelsel van bewaken en beveiligen in werking. Onder directe verantwoordelijkheid van de hoofdofficier van justitie worden die maatregelen genomen en uitgevoerd die het beste de veiligheid van de betrokkenen kunnen waarborgen.
 
-### 4.2. Secundaire victimisatie7Deze normen volgen uit [Richtlijn 2012/29](32012L0029)/EU van het Europese parlement en de Raad van 25 oktober 2012 tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten, en ter vervanging van Kaderbesluit 2001/220/JBZ (PbEU 2012, L 315/57).
+### 4.2. Secundaire victimisatie7Deze normen volgen uit Richtlijn 2012/29/EU van het Europese parlement en de Raad van 25 oktober 2012 tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten, en ter vervanging van Kaderbesluit 2001/220/JBZ (PbEU 2012, L 315/57).
 
 Als betrokken instanties voorspelbaar handelen en het slachtoffer controle heeft over wat er gebeurt, wordt de kans op secundaire victimisatie verkleind. De officier houdt hier gedurende de behandeling van de zaak zo veel als mogelijk rekening mee, bijvoorbeeld door het voeren van een slachtoffergesprek. In sommige zaken komt het horen van een slachtoffer als getuige aan de orde. In een dergelijk geval maakt de officier van justitie een belangenafweging tussen de bescherming van de persoonlijke levenssfeer, de veiligheid en gezondheid van het slachtoffer en het recht van de verdachte op een eerlijk proces. Het aantal ondervragingen dient beperkt te blijven in het belang van het slachtoffer. Herhaling, visueel contact tussen slachtoffer en verdachte, optreden van een slachtoffer als getuige tijdens een openbare zitting en het nodeloos vragen stellen over het privéleven of de persoon van het slachtoffer worden vermeden. De officier van justitie kan voorstellen om het slachtoffer te horen buiten de openbaarheid en buiten de aanwezigheid van de verdachte, bijvoorbeeld door de inzet van moderne communicatiemiddelen. Alternatieven zijn een verhoor door de rechter-commissaris, het ter terechtzitting afspelen van de geluidsopname die is gemaakt van de belastende verklaring die het slachtoffer tegenover de politie heeft afgelegd, of het horen van de verbalisanten die het verhoor of de aangifte hebben op- dan wel afgenomen.
 
-### 4.3. Minderjarige slachtoffers en slachtoffers met specifieke behoeften8Deze normen volgen uit [Richtlijn 2012/29](32012L0029)/EU van het Europese parlement en de Raad van 25 oktober 2012, zie noot 7 hiervoor.
+### 4.3. Minderjarige slachtoffers en slachtoffers met specifieke behoeften8Deze normen volgen uit Richtlijn 2012/29/EU van het Europese parlement en de Raad van 25 oktober 2012, zie noot 7 hiervoor.
 
 Minderjarige slachtoffers worden waar mogelijk slechts één keer gehoord in een strafzaak. Van dit verhoor wordt in de regel een audiovisuele opname gemaakt. Deze wordt in verband met de bescherming van de privacy van de minderjarige niet verstrekt aan de verdediging. Waar nodig kan de opname door de verdediging afhankelijk van de lokale afspraken worden bekeken op een politiebureau of op het kabinet van de rechter-commissaris. De rechtbank kan de opname ook bekijken indien zij dit noodzakelijk acht. De officier van justitie verzet zich te allen tijde tegen het vertonen van de opname in een openbaar gedeelte van de terechtzitting. De verdediging kan verzoeken nadere vragen aan een minderjarige te stellen. In die gevallen stelt de officier van justitie voor dat de verdediging of de rechter-commissaris deze vragen laat stellen door dezelfde personen die het slachtoffer in eerste instantie hebben gehoord. Bij voorkeur gebeurt dit in dezelfde (studio)setting als het eerste verhoor.
 

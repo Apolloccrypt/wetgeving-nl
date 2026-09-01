@@ -1,41 +1,17 @@
 ---
 title: "Instellingsbesluit Commissie Decoraties Defensie"
 identifier: "BWBR0046124"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-31"
-last_updated: "2021-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046124"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16208063"
-version_id: "28290402"
-internal_id: "C39887401"
-label_id: "16136094"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046124/2021-12-31/0"
-intitule_bron: "Stcrt.2021-51051"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-17"
-intitule_published: "2021-12-30"
-intitule_in_force: "2021-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-51051"
-original_signed_date: "2021-12-17"
-original_published_date: "2021-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-51051"
-entry_into_force_date: "2021-12-31"
-jci_1_3: "jci1.3:c:BWBR0046124&z=2021-12-31&g=2021-12-31"
-jci_1_0: "1.0:c:BWBR0046124&g=2021-12-31"
-citeertitel_status: "officieel"
-signed_date: "2021-12-17"
-entry_into_force: "2021-12-31"
+publicatiedatum: 2021-12-31
+laatste_update: 2021-12-31
+status: geldig
+toestand: 2021-12-31
+bron: "https://wetten.overheid.nl/BWBR0046124"
+opgehaald: 2026-09-01
 ---
-# Instellingsbesluit Commissie Decoraties Defensie
 
-Besluit:
+# Instellingsbesluit Commissie Decoraties Defensie
 
 ##### Artikel 1. Instelling
 
@@ -53,29 +29,29 @@ De commissie heeft de volgende taken:
 
 1. De commissie bestaat uit:
 
-- −. een externe voorzitter, die beschikt over aantoonbare affiniteit met de defensieorganisatie;
+- − een externe voorzitter, die beschikt over aantoonbare affiniteit met de defensieorganisatie;
 
-- −. een secretaris, aangewezen door de Chef Kabinet van de CDS;
+- − een secretaris, aangewezen door de Chef Kabinet van de CDS;
 
-- −. een lid namens het CZSK;
+- − een lid namens het CZSK;
 
-- −. een lid namens het CLAS;
+- − een lid namens het CLAS;
 
-- −. een lid namens het CLSK;
+- − een lid namens het CLSK;
 
-- −. een lid namens de KMar;
+- − een lid namens de KMar;
 
-- −. een lid namens het BSG;
+- − een lid namens het BSG;
 
-- −. een lid namens het Kabinet van de CDS;
+- − een lid namens het Kabinet van de CDS;
 
-- −. een lid namens de HDP;
+- − een lid namens de HDP;
 
-- −. een lid namens de DJZ;
+- − een lid namens de DJZ;
 
-- −. een lid namens het DOSCO, afdeling Decoraties; alsmede
+- − een lid namens het DOSCO, afdeling Decoraties; alsmede
 
-- −. de krijgsmachtadjudant.
+- − de krijgsmachtadjudant.
 
 2. De commissie kan bij de uitvoering van haar taken de Inspecteur-Generaal der Krijgsmacht, het Nederlands Instituut voor Militaire Historie, de Traditie Commissie Krijgsmacht, de Directie Communicatie, alsmede de voorzitter van het Veteranenplatvorm raadplegen met het oog op hun specifieke deskundigheid.
 
@@ -110,5 +86,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Decoraties Defensie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

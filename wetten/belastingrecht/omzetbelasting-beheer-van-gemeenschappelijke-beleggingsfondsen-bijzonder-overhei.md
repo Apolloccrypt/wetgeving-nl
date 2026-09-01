@@ -1,43 +1,21 @@
 ---
 title: "Omzetbelasting, beheer van gemeenschappelijke beleggingsfondsen; bijzonder overheidstoezicht"
 identifier: "BWBR0045760"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-11-03"
-last_updated: "2020-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045760"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "16116993"
-version_id: "28114592"
-internal_id: "C39647761"
-label_id: "16047694"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045760/2021-11-03/0"
-intitule_bron: "Stcrt.2021-44815"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-20"
-intitule_published: "2021-11-02"
-intitule_in_force: "2021-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-44815"
-original_signed_date: "2021-10-20"
-original_published_date: "2021-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-44815"
-entry_into_force_date: "2021-11-03"
-jci_1_3: "jci1.3:c:BWBR0045760&z=2021-11-03&g=2021-11-03"
-jci_1_0: "1.0:c:BWBR0045760&g=2021-11-03"
-citeertitel_status: "redactioneel"
-signed_date: "2021-10-20"
-entry_into_force: "2021-11-03"
+publicatiedatum: 2021-11-03
+laatste_update: 2021-11-03
+status: geldig
+toestand: 2021-11-03
+bron: "https://wetten.overheid.nl/BWBR0045760"
+opgehaald: 2026-09-01
 ---
+
 # Omzetbelasting, beheer van gemeenschappelijke beleggingsfondsen; bijzonder overheidstoezicht
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit is een actualisering van het besluit van 22 maart 2019, nr. 2019-42405 (** **Stcrt. 2019, nr. 17208** **). Actualisering is nodig vanwege jurisprudentie van de Hoge Raad waarin een ruimere uitleg is gegeven van bijzonder overheidstoezicht dan in dit besluit werd gehanteerd.1HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914 en nr. 19/01553, ECLI:NL:HR:2020:1921. Verder zijn enkele redactionele aanpassingen doorgevoerd. Daarmee zijn geen inhoudelijke wijzigingen beoogd.**
+*Dit besluit is een actualisering van het besluit van 22 maart 2019, nr. 2019-42405 (*
+ *Stcrt. 2019, nr. 17208*
+ *). Actualisering is nodig vanwege jurisprudentie van de Hoge Raad waarin een ruimere uitleg is gegeven van bijzonder overheidstoezicht dan in dit besluit werd gehanteerd.1HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914 en nr. 19/01553, ECLI:NL:HR:2020:1921. Verder zijn enkele redactionele aanpassingen doorgevoerd. Daarmee zijn geen inhoudelijke wijzigingen beoogd.*
 
 ### 1. Inleiding
 
@@ -45,31 +23,106 @@ Dit besluit bevat een toelichting op het begrip bijzonder overheidstoezicht. Dat
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+- *AFM:* Autoriteit Financiële Markten
+
+- *Beleggingsinstelling:* Beleggingsinstelling als bedoeld in artikel 4, eerste lid, onderdeel a, van de richtlijn beheerders van alternatieve beleggingsinstellingen in de vorm van een beleggingsfonds of een beleggingsmaatschappij ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1)).
+
+- *Beleggingsonderneming:* Degene die een beleggingsdienst verleent of een beleggingsactiviteit verricht ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *Btw:* Omzetbelasting
+
+- *btw-richtlijn:*
+ Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde
+
+- *DNB:* De Nederlandsche Bank
+
+- *feeder-beleggingsinstelling:* Beleggingsinstelling als bedoeld in artikel 4, eerste lid, onderdeel m, van de richtlijn beheerders van alternatieve beleggingsinstellingen ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *feeder-icbe:*
+ *Een icbe die ten minste 85 procent van het beheerd vermogen belegt in rechten van deelneming in een master-icbe (artikel 1:1 Wft)*
+
+- *HR:*
+ *Hoge Raad der Nederlanden*
+
+- *HvJ:* Hof van Justitie van de Europese Unie
+
+- *Icbe:* Maatschappij voor collectieve belegging in effecten of fonds voor collectieve belegging in effecten, in de vorm van:
+
+   - a. een instelling als bedoeld in artikel 1, tweede lid, van de richtlijn instellingen voor collectieve belegging in effecten;
+
+   - b. een feeder-icbe; of
+
+   - c. een master-icbe die ten minste twee feeder-icbe’s als deelnemer heeft en waarvan de rechten van deelneming verhandelbaar zijn en op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *intern fonds:* Beleggingsinstelling waarin uitsluitend wordt belegd door de beheerders, hun moedermaatschappijen, hun dochtermaatschappijen of andere dochtermaatschappijen van de moedermaatschappijen, indien deze beheerders, moedermaatschappijen of dochtermaatschappijen zelf geen beleggingsinstelling zijn ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *master-beleggingsinstelling:* Een beleggingsinstelling als bedoeld in artikel 4, eerste lid, onderdeel y, van de richtlijn beheerders van alternatieve beleggingsinstellingen ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *master-icbe:* Een icbe die:
+
+   - a. ten minste een feeder-icbe onder haar deelnemers heeft;
+
+   - b. zelf geen feeder-icbe is; en
+
+   - c. niet belegt in rechten van deelneming in een feeder-icbe ([artikel 1:1 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1))
+
+- *vrijstelling:* Vrijstelling van [artikel 11, eerste lid, onderdeel i, 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)
+
+- *wet:*
+ [Wet op de omzetbelasting1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
+
+- *Wft:*
+ [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+
 ### 2. Juridisch kader
 
 In [artikel 11, eerste lid, onderdeel i, 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) is een vrijstelling opgenomen voor het beheer van door beleggingsfondsen en beleggingsmaatschappijen ter collectieve belegging bijeengebrachte vermogens. Deze vrijstellingsbepaling is gebaseerd op de vrijstelling voor het beheer van gemeenschappelijke beleggingsfondsen van artikel 135, lid 1, punt g, van de btw-richtlijn. In dit besluit wordt in het licht van de vrijstellingen gesproken over ‘gemeenschappelijk beleggingsfonds’, welke term ‘door beleggingsfondsen en beleggingsmaatschappijen ter collectieve belegging bijeengebrachte vermogens’ omvat.
 
-De vrijstelling geldt alleen voor het beheer van gemeenschappelijke beleggingsfondsen. Het HvJ heeft geoordeeld dat icbe’s kwalificeren als gemeenschappelijke beleggingsfondsen. Volgens het HvJ ziet deze vrijstelling ook op andere beleggingsfondsen die dezelfde kenmerken vertonen en dus dezelfde handelingen verrichten of die op zijn minst zodanig vergelijkbaar zijn met deze icbe’s dat zij ermee concurreren.2De zaak Wheels Common Investment Fund (HvJ 7 maart 2013, nr. C-424/11, ECLI:EU:C:2013:144), de zaak ATP (HvJ 13 maart 2014, nr. C-464/12, ECLI:EU:C:2014:139) en de zaak Fiscale Eenheid X (HvJ 9 december 2015, nr. C-595/13, ECLI:EU:C:2015:801). Daarbij heeft het HvJ geoordeeld dat het een vereiste is dat het beleggingsfonds aan bijzonder overheidstoezicht is onderworpen. In het arrest Fiscale Eenheid X heeft de HR het oordeel van het HvJ overgenomen en daarmee ook het vereiste van bijzonder overheidstoezicht.3HR 25 november 2016, Fiscale Eenheid X, nr. 11/04540, ECLI:NL:HR:2016:2684.
+De vrijstelling geldt alleen voor het beheer van gemeenschappelijke beleggingsfondsen. Het HvJ heeft geoordeeld dat icbe’s kwalificeren als gemeenschappelijke beleggingsfondsen. Volgens het HvJ ziet deze vrijstelling ook op andere beleggingsfondsen die dezelfde kenmerken vertonen en dus dezelfde handelingen verrichten of die op zijn minst zodanig vergelijkbaar zijn met deze icbe’s dat zij ermee concurreren.2De zaak Wheels Common Investment Fund (HvJ 7 maart 2013, nr. C-424/11, ECLI:EU:C:2013:144), de zaak ATP (HvJ 13 maart 2014, nr. C-464/12, ECLI:EU:C:2014:139) en de zaak Fiscale Eenheid X (HvJ 9 december 2015, nr. C-595/13, ECLI:EU:C:2015:801). Daarbij heeft het HvJ geoordeeld dat het een vereiste is dat het beleggingsfonds aan bijzonder overheidstoezicht is onderworpen. In het arrest Fiscale Eenheid X heeft de HR het oordeel van het HvJ overgenomen en daarmee ook het vereiste van bijzonder overheidstoezicht.3HR 25 november 2016, Fiscale Eenheid X, nr. 11/04540, ECLI:NL:HR:2016:2684.
 
 Op grond van de jurisprudentie van het HvJ en de HR gelden, verkort weergegeven, de volgende voorwaarden om te toetsen of een fonds kwalificeert als gemeenschappelijk beleggingsfonds waarvan het beheer is vrijgesteld:
 
-In de praktijk is de vraag opgekomen welk toezicht voor de heffing van btw als bijzonder overheidstoezicht kan worden aangemerkt. Het HvJ heeft beslist dat in ieder geval sprake is van bijzonder overheidstoezicht in de zin van de vrijstelling bij gemeenschappelijke beleggingsfondsen die onder de icbe-richtlijn5[Richtlijn nr. 2009/65/EG](onbekend) van het Europees parlement en de Raad van de Europese Unie van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe's) (PbEU 2009, L 302). vallen, en binnen dat kader aan bijzonder overheidstoezicht zijn onderworpen. In 2013 is naast de icbe-richtlijn de richtlijn beheerders van alternatieve beleggingsinstellingen (AIFM-richtlijn)6[Richtlijn nr. 2011/61](onbekend)/EU van het Europees parlement en de Raad van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de [Richtlijnen 2003/41/EG](onbekend) en [2009/65/EG](onbekend) en van de Verordeningen [(EG) Nr. 1060/2009](onbekend) en (EU) Nr. [1095/2010](onbekend)(PbEU 2011, L 174). in werking getreden. De AIFM-richtlijn bevat geharmoniseerde toezichtregels voor beheerders van alternatieve beleggingsinstellingen, dat wil zeggen gemeenschappelijke beleggingsfondsen die geen icbe zijn. Daarnaast gelden op grond van de richtlijn markten voor financiële instrumenten 2014 (MiFID II) regels voor beleggingsondernemingen die onder meer beleggingsdiensten kunnen verlenen.7[Richtlijn 2014/65](32014L0065)/EU van het Europees parlement en de Raad van 15 mei 2014 betreffende markten voor financiële instrumenten en tot wijziging van [Richtlijn 2002/92/EG](32002L0092) en [Richtlijn 2011/61](32011L0061)/EU (PbEU, 2014, L 173). De in het kader van dit besluit relevante bepalingen uit de icbe-richtlijn, de AIFM-richtlijn en MIFID II-richtlijn zijn in Nederland geïmplementeerd in de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+- 1. Het fonds moet worden gefinancierd door meer dan één deelnemer;
+
+- 2. De inleg moet worden samengevoegd ter gezamenlijke belegging volgens het beginsel van risicospreiding;
+
+- 3. Het beleggingsrisico wordt gedragen door de deelnemers;
+
+- 4. Iedere belegger heeft een evenredig belang bij de beleggingen via zijn deelname in het fonds, maar bezit niet de beleggingen zelf4HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914, r.o. 3.2.2.; en
+
+- 5. Het fonds moet zijn onderworpen aan bijzonder overheidstoezicht.
+
+In de praktijk is de vraag opgekomen welk toezicht voor de heffing van btw als bijzonder overheidstoezicht kan worden aangemerkt. Het HvJ heeft beslist dat in ieder geval sprake is van bijzonder overheidstoezicht in de zin van de vrijstelling bij gemeenschappelijke beleggingsfondsen die onder de icbe-richtlijn5Richtlijn nr. 2009/65/EG van het Europees parlement en de Raad van de Europese Unie van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe's) (PbEU 2009, L 302). vallen, en binnen dat kader aan bijzonder overheidstoezicht zijn onderworpen. In 2013 is naast de icbe-richtlijn de richtlijn beheerders van alternatieve beleggingsinstellingen (AIFM-richtlijn)6Richtlijn nr. 2011/61/EU van het Europees parlement en de Raad van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) Nr. 1060/2009 en (EU) Nr. 1095/2010(PbEU 2011, L 174). in werking getreden. De AIFM-richtlijn bevat geharmoniseerde toezichtregels voor beheerders van alternatieve beleggingsinstellingen, dat wil zeggen gemeenschappelijke beleggingsfondsen die geen icbe zijn. Daarnaast gelden op grond van de richtlijn markten voor financiële instrumenten 2014 (MiFID II) regels voor beleggingsondernemingen die onder meer beleggingsdiensten kunnen verlenen.7Richtlijn 2014/65/EU van het Europees parlement en de Raad van 15 mei 2014 betreffende markten voor financiële instrumenten en tot wijziging van Richtlijn 2002/92/EG en Richtlijn 2011/61/EU (PbEU, 2014, L 173). De in het kader van dit besluit relevante bepalingen uit de icbe-richtlijn, de AIFM-richtlijn en MIFID II-richtlijn zijn in Nederland geïmplementeerd in de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ### 3. Bijzonder overheidstoezicht
 
-Het bijzonder overheidstoezicht vindt zowel bij icbe’s als bij vergelijkbare andere beleggingsinstellingen plaats via de Wft-vergunning(plicht) van de beheerder van het fonds op grond van [artikel 2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) respectievelijk [2:69b Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b). Alleen als een icbe niet over een beheerder beschikt, is de icbe zelf Wft-vergunningplichtig. De Wft-vergunning(plicht) voor (de beheerder van) een icbe of een beleggingsinstelling betreft toezicht op de beheerder en het beleggingsfonds (bijvoorbeeld of aan de risicospreidingsregels wordt voldaan). Een vergunning om onder meer beleggingsdiensten te verlenen, zoals bedoeld in [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), volstaat volgens de HR voor het onderworpen zijn aan bijzonder overheidstoezicht in het geval de bezitter van deze vergunning beleggingsdiensten verleent aan een fonds dat voor de toepassing van de btw-heffing met een gemeenschappelijk beleggingsfonds is gelijk te stellen omdat het dezelfde kenmerken vertoont als een icbe of zodanig vergelijkbaar is dat het daarmee concurreert.8HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914, r.o. 3.4.4. Het in aanmerking nemen van dit regime voor de toepassing van de vrijstelling laat de gelding van de in de Wft opgenomen toezichtregimes onverlet.
+Het bijzonder overheidstoezicht vindt zowel bij icbe’s als bij vergelijkbare andere beleggingsinstellingen plaats via de Wft-vergunning(plicht) van de beheerder van het fonds op grond van [artikel 2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) respectievelijk [2:69b Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b). Alleen als een icbe niet over een beheerder beschikt, is de icbe zelf Wft-vergunningplichtig. De Wft-vergunning(plicht) voor (de beheerder van) een icbe of een beleggingsinstelling betreft toezicht op de beheerder en het beleggingsfonds (bijvoorbeeld of aan de risicospreidingsregels wordt voldaan). Een vergunning om onder meer beleggingsdiensten te verlenen, zoals bedoeld in [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), volstaat volgens de HR voor het onderworpen zijn aan bijzonder overheidstoezicht in het geval de bezitter van deze vergunning beleggingsdiensten verleent aan een fonds dat voor de toepassing van de btw-heffing met een gemeenschappelijk beleggingsfonds is gelijk te stellen omdat het dezelfde kenmerken vertoont als een icbe of zodanig vergelijkbaar is dat het daarmee concurreert.8HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914, r.o. 3.4.4. Het in aanmerking nemen van dit regime voor de toepassing van de vrijstelling laat de gelding van de in de Wft opgenomen toezichtregimes onverlet.
 
 Voor de toepassing van de vrijstelling kan ervan worden uitgegaan dat onderworpen zijn aan bijzonder overheidstoezicht:
 
-Voor (van vennootschapsbelasting) vrijgestelde beleggingsinstellingen (VBI’s), Fondsen voor Gemene Rekening (FGR’s) en zogenoemde CLO (Collateralized Loan Obligation)-vennootschappen en dergelijke geldt dat ervan kan worden uitgegaan dat sprake is van bijzonder overheidstoezicht als zij onder één van de hiervoor genoemde categorieën vallen. Voor toepassing van de vrijstelling geldt dat naast bijzonder overheidstoezicht sprake moet zijn van een gemeenschappelijk beleggingsfonds dat voldoet aan de in onderdeel 2. genoemde voorwaarden één tot en met vier en dat sprake is van beheer in de zin van de vrijstelling.
+- a. Icbe’s en beleggingsinstellingen die vergunningplichtig zijn of waarvoor de beheerder vergunningplichtig is op grond van [artikel 2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) respectievelijk [2:69b Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b) ([onderdeel 3.1](https://wetten.overheid.nl/BWBR0045760));
 
-### 3.1. Vergunningplicht (beheerders van) icbe’s en beleggingsinstellingen op grond van de [artikelen 2:65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) en [2:69b Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b)
+- b. Andere voor de btw als gemeenschappelijke beleggingsfondsen aan te merken fondsen waaraan beleggingsdiensten worden verleend door beleggingsondernemingen onder hun vergunningplicht op grond van [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96) ([onderdeel 3.2](https://wetten.overheid.nl/BWBR0045760));
+
+- c. Beleggingsinstellingen die vallen onder het registratieregime (licht toezicht) van [artikel 2:66a Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:66a) ([onderdeel 3.3](https://wetten.overheid.nl/BWBR0045760));
+
+- d. Interne fondsen van verzekeraars die vallen onder het toezicht van DNB en AFM op verzekeraars ([onderdeel 3.4.1](https://wetten.overheid.nl/BWBR0045760));
+
+- e. Interne fondsen in een master-feederbeleggingsstructuur die vallen onder het financieel toezicht op de extern opererende feederbeleggingsinstelling of feeder-icbe ([onderdeel 3.4.2](https://wetten.overheid.nl/BWBR0045760));
+
+- f. Pensioenfondsen ([onderdeel 3.5](https://wetten.overheid.nl/BWBR0045760));
+
+- g. Gemeenschappelijke beleggingsfondsen die beheerd worden door banken onder hun vergunningplicht op grond van [artikel 2:11](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) en [2:13 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:13) in samenhang met [artikel 2:97 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:97) ([onderdeel 3.6](https://wetten.overheid.nl/BWBR0045760)).
+
+Voor (van vennootschapsbelasting) vrijgestelde beleggingsinstellingen (VBI’s), Fondsen voor Gemene Rekening (FGR’s) en zogenoemde CLO (Collateralized Loan Obligation)-vennootschappen en dergelijke geldt dat ervan kan worden uitgegaan dat sprake is van bijzonder overheidstoezicht als zij onder één van de hiervoor genoemde categorieën vallen. Voor toepassing van de vrijstelling geldt dat naast bijzonder overheidstoezicht sprake moet zijn van een gemeenschappelijk beleggingsfonds dat voldoet aan de in [onderdeel 2.](https://wetten.overheid.nl/BWBR0045760) genoemde voorwaarden één tot en met vier en dat sprake is van beheer in de zin van de vrijstelling.
+
+### 3.1. Vergunningplicht (beheerders van) icbe’s en beleggingsinstellingen op grond van de artikelen 2:65 en 2:69b Wft
 
 Er kan van worden uitgegaan dat van bijzonder overheidstoezicht in de zin van de vrijstelling sprake is bij icbe’s en bij beleggingsinstellingen die vergunningplichtig zijn dan wel waarvoor de beheerder vergunningplichtig is op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368). Via de vergunning wordt toezicht gehouden op (de beheerder van) de beleggingsinstelling. In een dergelijk geval is sprake van bijzonder overheidstoezicht op het fonds.
 
-### 3.2. Vergunningplicht beleggingsondernemingen op grond van [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96)
+### 3.2. Vergunningplicht beleggingsondernemingen op grond van artikel 2:96 Wft
 
-De HR heeft beslist dat een vergunning voor een beleggingsonderneming om onder meer beleggingsdiensten te verlenen, zoals bedoeld in [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), volstaat voor het onderworpen zijn aan bijzonder overheidstoezicht in het geval de bezitter van deze vergunning beleggingsdiensten verleent aan een fonds dat voor de toepassing van de btw-heffing met een gemeenschappelijk beleggingsfonds is gelijk te stellen omdat het dezelfde kenmerken vertoont als een icbe of zodanig vergelijkbaar is dat het daarmee concurreert.9HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914, r.o. 3.4.4. en Hof Amsterdam 10 juli 2018, nr. 17/00347, [ECLI:NL:GHAMS:2018:2367](onbekend), r.o. 2.2.4.
+De HR heeft beslist dat een vergunning voor een beleggingsonderneming om onder meer beleggingsdiensten te verlenen, zoals bedoeld in [artikel 2:96 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:96), volstaat voor het onderworpen zijn aan bijzonder overheidstoezicht in het geval de bezitter van deze vergunning beleggingsdiensten verleent aan een fonds dat voor de toepassing van de btw-heffing met een gemeenschappelijk beleggingsfonds is gelijk te stellen omdat het dezelfde kenmerken vertoont als een icbe of zodanig vergelijkbaar is dat het daarmee concurreert.9HR 4 december 2020, nr. 18/03680, ECLI:NL:HR:2020:1914, r.o. 3.4.4. en Hof Amsterdam 10 juli 2018, nr. 17/00347, ECLI:NL:GHAMS:2018:2367, r.o. 2.2.4.
 
 ### 3.3. Het Wft-registratieregime (met licht toezicht) voor beleggingsinstellingen
 
@@ -101,19 +154,21 @@ Banken die beschikken over een bankvergunning van DNB staan op grond van de [Wft
 
 In antwoord op Kamervragen13Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel 310. (de zogenoemde poolingbrief) heeft de Staatssecretaris aangegeven dat als twee of meer pensioenfondsen (of andere institutionele of andere beleggers) (een deel van) hun vermogen onderbrengen in een afzonderlijk fonds (pooling) dat kwalificeert als beleggingsinstelling in de zin van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) of daarmee vergelijkbaar is in de zin dat daadwerkelijk collectief wordt belegd in onderliggende waarden en ook gezamenlijk risico wordt gelopen, het vermogen in het fonds geldt als ter collectieve belegging bijeengebracht vermogen.
 
-De poolingbrief dateert van voor het arrest van het HvJ Fiscale Eenheid X (zie noot 2), waarin het HvJ heeft aangegeven dat voor toepassing van de vrijstelling een fonds onderworpen moet zijn aan bijzonder overheidstoezicht. Dit vereiste geldt ook voor het gepoolde vermogen van pensioenfondsen of andere (institutionele) beleggers. In zoverre is de poolingbrief achterhaald en moet voor toepassing van de vrijstelling voor het beheer van het gepoold vermogen ook zijn voldaan aan de eis van bijzonder overheidstoezicht. Voor toepassing van de vrijstelling kan ervan worden uitgegaan dat sprake is van bijzonder overheidstoezicht als het fonds (met gepoold vermogen) of de beheerder voor het fonds vergunningplichtig is op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (zie onderdeel 3.).
+De poolingbrief dateert van voor het arrest van het HvJ Fiscale Eenheid X (zie noot 2), waarin het HvJ heeft aangegeven dat voor toepassing van de vrijstelling een fonds onderworpen moet zijn aan bijzonder overheidstoezicht. Dit vereiste geldt ook voor het gepoolde vermogen van pensioenfondsen of andere (institutionele) beleggers. In zoverre is de poolingbrief achterhaald en moet voor toepassing van de vrijstelling voor het beheer van het gepoold vermogen ook zijn voldaan aan de eis van bijzonder overheidstoezicht. Voor toepassing van de vrijstelling kan ervan worden uitgegaan dat sprake is van bijzonder overheidstoezicht als het fonds (met gepoold vermogen) of de beheerder voor het fonds vergunningplichtig is op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (zie [onderdeel 3](https://wetten.overheid.nl/BWBR0045760).).
 
 ### 4. Grandfathering-regime
 
-In [overgangsartikel VII, eerste en tweede lid, van de wet waarmee de AIFM-richtlijn in de Wft is geïmplementeerd](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=VII) (Wet van 12 juni 2013, Stb. 2013, nr. 228) is een uitzondering op de vergunningplicht opgenomen voor beleggingsinstellingen die vallen onder het grandfathering-regime.14In de zin van artikel 61, leden 3 en 4, AIFM-richtlijn. Deze uitzondering houdt in dat de Wft-vergunningplicht niet van toepassing is op beheerders die vóór 22 juli 2013 uitsluitend één of meer beleggingsinstellingen beheren die closed-end zijn, als vanaf 22 juli 2013 geen additionele beleggingen meer worden gedaan. Er wordt daarom niet voldaan aan de voor toepassing van de vrijstelling geldende voorwaarde van bijzonder overheidstoezicht.
+In [overgangsartikel VII, eerste en tweede lid, van de wet waarmee de AIFM-richtlijn in de Wft is geïmplementeerd](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=VII) (Wet van 12 juni 2013, Stb. 2013, nr. 228) is een uitzondering op de vergunningplicht opgenomen voor beleggingsinstellingen die vallen onder het grandfathering-regime.14In de zin van artikel 61, leden 3 en 4, AIFM-richtlijn. Deze uitzondering houdt in dat de Wft-vergunningplicht niet van toepassing is op beheerders die vóór 22 juli 2013 uitsluitend één of meer beleggingsinstellingen beheren die closed-end zijn, als vanaf 22 juli 2013 geen additionele beleggingen meer worden gedaan. Er wordt daarom niet voldaan aan de voor toepassing van de vrijstelling geldende voorwaarde van bijzonder overheidstoezicht.
 
 Het betreft een bijzondere overgangsmaatregel voor kwalificerende beleggingsinstellingen in het kader van de verdere harmonisering van EU-toezichtswetgeving. Ik vind het ongewenst dat deze overgangsmaatregel nadelige btw-gevolgen heeft. Daarom keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat het beheer van gemeenschappelijke beleggingsfondsen die vallen onder het grandfathering-regime met toepassing van de vrijstelling kan plaatsvinden.
 
 ### 5. Grensoverschrijdende situaties
 
-Er kan bij het beheer van gemeenschappelijke beleggingsfondsen sprake zijn van grensoverschrijdende situaties. Uitgangspunt is dat beheer ten behoeve van een fonds dat als ondernemer kwalificeert, belastbaar is in het land waar het fonds is gevestigd. Ingeval van een in Nederland gevestigd fonds, gelden dan de Nederlandse regels en zal moeten worden getoetst of de beheerder voor het fonds vergunningplichtig is op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (zie onderdeel 3.).
+Er kan bij het beheer van gemeenschappelijke beleggingsfondsen sprake zijn van grensoverschrijdende situaties. Uitgangspunt is dat beheer ten behoeve van een fonds dat als ondernemer kwalificeert, belastbaar is in het land waar het fonds is gevestigd. Ingeval van een in Nederland gevestigd fonds, gelden dan de Nederlandse regels en zal moeten worden getoetst of de beheerder voor het fonds vergunningplichtig is op grond van de [Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) (zie [onderdeel 3](https://wetten.overheid.nl/BWBR0045760).).
 
 Beheerders met een zetel in een andere lidstaat die beschikken over een vergunning in die lidstaat, kunnen door middel van het verrichten van diensten of door middel van een bijkantoor beleggingsinstellingen in Nederland beheren of rechten van deelneming in Nederland aanbieden als wordt voldaan aan de [artikelen 2:70](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:70), [2:71](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:71) en [2:72 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:72). Er is dan sprake van bijzonder overheidstoezicht. Beleggingsondernemingen met een zetel in een andere lidstaat of met een in Nederland gelegen bijkantoor mogen hier beleggingsdiensten aanbieden als voldaan is aan de [artikelen 2:101](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:101) en [2:102 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:102). Ook dan is sprake van bijzonder overheidstoezicht.
 
@@ -121,10 +176,8 @@ Beheerders met een zetel buiten de EU dienen een vergunning aan te vragen als zi
 
 ### 6. Ingetrokken regeling
 
-Het [besluit van 22 maart 2019, nr.2019-42405](https://wetten.overheid.nl/jci1.3:c:BWBR0042089) (Stcrt. 2019, nr. 17208) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 22 maart 2019, nr.2019-42405](https://wetten.overheid.nl/jci1.3:c:BWBR0042089) (Stcrt. 2019, nr. 17208) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 7. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 4 december 2020.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 4 december 2020.

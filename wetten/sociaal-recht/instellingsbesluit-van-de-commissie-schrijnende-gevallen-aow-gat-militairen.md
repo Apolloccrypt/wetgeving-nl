@@ -1,49 +1,25 @@
 ---
 title: "Instellingsbesluit van de Commissie Schrijnende Gevallen AOW-gat Militairen"
 identifier: "BWBR0045591"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-01"
-last_updated: "2021-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045591"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16072013"
-version_id: "27993582"
-internal_id: "C39487201"
-label_id: "16003954"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045591/2021-09-01/0"
-intitule_bron: "Stcrt.2021-39504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-08-06"
-intitule_published: "2021-09-01"
-intitule_in_force: "2021-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-39504"
-original_signed_date: "2021-08-06"
-original_published_date: "2021-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-39504"
-entry_into_force_date: "2021-09-01"
-jci_1_3: "jci1.3:c:BWBR0045591&z=2021-09-01&g=2021-09-01"
-jci_1_0: "1.0:c:BWBR0045591&g=2021-09-01"
-citeertitel_status: "officieel"
-signed_date: "2021-08-06"
-entry_into_force: "2021-09-01"
+publicatiedatum: 2021-09-01
+laatste_update: 2021-09-01
+status: geldig
+toestand: 2021-09-01
+bron: "https://wetten.overheid.nl/BWBR0045591"
+opgehaald: 2026-09-01
 ---
-# Instellingsbesluit van de Commissie Schrijnende Gevallen AOW-gat Militairen
 
-Besluit:
+# Instellingsbesluit van de Commissie Schrijnende Gevallen AOW-gat Militairen
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Staatssecretaris:** Staatssecretaris van Defensie;
+- a. *Staatssecretaris:* Staatssecretaris van Defensie;
 
-- b. **Commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=2&z=2021-09-01&g=2021-09-01).
+- b. *Commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045591&artikel=2&z=2021-09-01&g=2021-09-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -71,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 juli 2021 en wordt opgeheven acht weken nadat het eindrapport is uitgebracht. Oplevering van het rapport is voorzien in het derde kwartaal van 2021.
+De commissie wordt ingesteld met ingang van 1 juli 2021 en wordt opgeheven acht weken nadat het eindrapport is uitgebracht. Oplevering van het rapport is voorzien in het derde kwartaal van 2021.
 
 ##### Artikel 5. Werkwijze
 
@@ -113,7 +89,7 @@ De secretaris draagt zorg voor de archivering van relevante stukken en de overbr
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking bij publicatie in de Staatscourant en heeft een terugwerkende kracht tot 1 juli 2021.
+Dit besluit treedt in werking bij publicatie in de Staatscourant en heeft een terugwerkende kracht tot 1 juli 2021.
 
 ##### Artikel 13. Citeertitel
 

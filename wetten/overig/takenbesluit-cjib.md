@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Secretaris Generaal van het Ministerie van Justitie en Veiligheid, 29 november 2021, nr. 3342915 houdende nadere bepalingen inzake de taakopdracht van het Centraal Justitieel Incassobureau (Takenbesluit CJIB)"
+citeertitel: "Takenbesluit CJIB"
 identifier: "BWBR0045971"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045971"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16168213"
-version_id: "28210612"
-internal_id: "C39767401"
-label_id: "16096534"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045971/2024-04-01/0"
-intitule_bron: "Stcrt.2021-48742"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-29"
-intitule_published: "2021-12-02"
-intitule_in_force: "2021-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-48742"
-original_signed_date: "2021-11-29"
-original_published_date: "2021-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-48742"
-entry_into_force_date: "2021-12-03"
-jci_1_3: "jci1.3:c:BWBR0045971&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0045971&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Takenbesluit CJIB"
-signed_date: "2021-11-29"
-entry_into_force: "2021-12-03"
+publicatiedatum: 2021-12-03
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0045971"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Secretaris Generaal van het Ministerie van Justitie en Veiligheid, 29 november 2021, nr. 3342915 houdende nadere bepalingen inzake de taakopdracht van het Centraal Justitieel Incassobureau (Takenbesluit CJIB)
-
-Gelet op [artikel 63d, tweede lid, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63d);
-
-Overwegende dat, het wenselijk is nadere duiding te geven aan de taakopdracht en bevoegdheden van het Centraal Justitieel Incassobureau;
-
-Overwegende, mede hetgeen is opgenomen in de USB [beleidsregel ‘tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen’](https://wetten.overheid.nl/jci1.3:c:BWBR0045326) en dan met name de [bijlage USB bevoegdhedenschema](onbekend) en het samenwerkingsreglement USB;
-
-Besluit:
 
 ##### Artikel 1. Taken en bevoegdheden
 
@@ -70,17 +40,17 @@ Besluit:
 
 - k. overige taken die voortvloeien uit de rol van ketenregisseur als bedoeld in [artikel 1.2 Regeling tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=1:2) en de bijbehorende kerntaken, waaronder in ieder geval wordt begrepen:
 
-- –. het persoonsgericht beoordelen van het advies OM, alsmede het informeren van de uitvoeringsorganisaties over de aanwezigheid van een advies OM, als ook het routeren van een verzoek van de uitvoeringsorganisatie om een (aanvullend) advies van het Openbaar Ministerie;
+   - – het persoonsgericht beoordelen van het advies OM, alsmede het informeren van de uitvoeringsorganisaties over de aanwezigheid van een advies OM, als ook het routeren van een verzoek van de uitvoeringsorganisatie om een (aanvullend) advies van het Openbaar Ministerie;
 
-- –. het persoonsgericht beoordelen van het advies ZM, alsmede het informeren van de uitvoeringsorganisaties omtrent het advies ZM;
+   - – het persoonsgericht beoordelen van het advies ZM, alsmede het informeren van de uitvoeringsorganisaties omtrent het advies ZM;
 
-- –. het voeren van regie op operationeel niveau bij de afdoening van ketenpartneroverstijgende incidenten tijdens de tenuitvoerlegging van strafrechtelijke beslissingen;
+   - – het voeren van regie op operationeel niveau bij de afdoening van ketenpartneroverstijgende incidenten tijdens de tenuitvoerlegging van strafrechtelijke beslissingen;
 
-- –. het verzoeken aan het Openbaar Ministerie om een vervolgbeslissing te nemen ter zake een vrijheidsbenemende straf of maatregel, vrijheidsbeperkende straf of maatregel of een geldelijke sanctie;
+   - – het verzoeken aan het Openbaar Ministerie om een vervolgbeslissing te nemen ter zake een vrijheidsbenemende straf of maatregel, vrijheidsbeperkende straf of maatregel of een geldelijke sanctie;
 
-- –. de afhandeling van buitengerechtelijke schadevergoedingsverzoeken en gerechtelijke procedures conform [artikel 6:162 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=162);
+   - – de afhandeling van buitengerechtelijke schadevergoedingsverzoeken en gerechtelijke procedures conform [artikel 6:162 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=162);
 
-- –. het verstrekken van de tot haar wettelijke taak behorende informatie over en ten behoeve van de tenuitvoerlegging van strafrechtelijke beslissingen aan ketenpartners of andere samenwerkingspartner. Dit omvat onder andere status- en procesinformatie.
+   - – het verstrekken van de tot haar wettelijke taak behorende informatie over en ten behoeve van de tenuitvoerlegging van strafrechtelijke beslissingen aan ketenpartners of andere samenwerkingspartner. Dit omvat onder andere status- en procesinformatie.
 
 2. Ten aanzien van hetgeen in [artikel 63d, eerste lid, onderdeel c van het Organisatiebesluit van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63d) staat vermeld, wordt een nadere uitwerking gegeven van de navolgende bevoegdheden en feitelijke handelingen:
 
@@ -90,25 +60,25 @@ Het informeren en raadplegen van slachtoffers bij de v.i. en bij een uitplaatsin
 
 - a. de tenuitvoerlegging van een opgelegde geldboete alsmede de daarmee samenhangende administratiekosten; de verplichting tot betaling aan de Staat van:
 
-- °. een som geld ten behoeve van het slachtoffer;
+   - ° een som geld ten behoeve van het slachtoffer;
 
-- °. van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel;
+   - ° van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel;
 
-- °. een geldsom ter voorkoming van de strafvervolging;
+   - ° een geldsom ter voorkoming van de strafvervolging;
 
-- °. kosten van openbaarmaking van de uitspraak indien deze niet zijn betaald;
+   - ° kosten van openbaarmaking van de uitspraak indien deze niet zijn betaald;
 
-- °. de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring of voor ontneming vatbare wederrechtelijk verkregen voordeel.
+   - ° de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring of voor ontneming vatbare wederrechtelijk verkregen voordeel.
 
 - b. de tenuitvoerlegging van de beslissingen:
 
-- °. tot confiscatie betreffende een geldbedrag;
+   - ° tot confiscatie betreffende een geldbedrag;
 
-- °. betreffende de geschatte waarde van niet in beslag genomen voorwerpen ter zake van inkomende beslissingen op grond van [artikel 6 lid 1 van de Wet Wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=6);
+   - ° betreffende de geschatte waarde van niet in beslag genomen voorwerpen ter zake van inkomende beslissingen op grond van [artikel 6 lid 1 van de Wet Wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie](https://wetten.overheid.nl/jci1.3:c:BWBR0022604&artikel=6);
 
-- °. de storting van een vast te stellen som gelds in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen, dan wel de storting van een waarborgsom dan wel betaling van de schade;
+   - ° de storting van een vast te stellen som gelds in het schadefonds geweldsmisdrijven of ten gunste van een instelling die zich ten doel stelt belangen van slachtoffers van strafbare feiten te behartigen, dan wel de storting van een waarborgsom dan wel betaling van de schade;
 
-- °. van een borgsom ter schorsing van de voorlopige hechtenis alsmede de tenuitvoerlegging van een geldsom als voorwaarde voor het verlenen van gratie.
+   - ° van een borgsom ter schorsing van de voorlopige hechtenis alsmede de tenuitvoerlegging van een geldsom als voorwaarde voor het verlenen van gratie.
 
 - c. het bepalen van de dag(en) waarop de betaling moet plaatsvinden en informeren daarover van de persoon die tot betaling is verplicht alsmede het aanwijzen van een plaats van betaling;
 
@@ -175,5 +145,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 3. Citeertitel
 
 Dit besluit wordt aangehaald als: Takenbesluit CJIB
-
-Dit besluit zal in de Staatscourant worden geplaatst.

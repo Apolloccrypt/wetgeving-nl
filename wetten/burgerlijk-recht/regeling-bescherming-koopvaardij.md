@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 houdende nadere regels ter uitvoering van de Wet ter Bescherming Koopvaardij en het Besluit bescherming koopvaardij (Regeling bescherming koopvaardij)"
+citeertitel: "Regeling bescherming koopvaardij"
 identifier: "BWBR0046257"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-12"
-last_updated: "2023-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046257"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16252653"
-version_id: "28397622"
-internal_id: "C40049871"
-label_id: "16180294"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046257/2023-10-12/0"
-intitule_bron: "Stcrt.2022-3319"
-intitule_effect: "wijziging"
-intitule_signed: "2022-01-19"
-intitule_published: "2022-01-31"
-intitule_in_force: "2022-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-3319"
-original_signed_date: "2022-01-19"
-original_published_date: "2022-01-31"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-3319"
-entry_into_force_date: "2022-02-01"
-jci_1_3: "jci1.3:c:BWBR0046257&z=2023-10-12&g=2023-10-12"
-jci_1_0: "1.0:c:BWBR0046257&g=2023-10-12"
-citeertitel_status: "officieel"
-short_title: "Regeling bescherming koopvaardij"
-signed_date: "2022-01-19"
-entry_into_force: "2022-02-01"
+publicatiedatum: 2022-02-01
+laatste_update: 2023-10-12
+status: geldig
+toestand: 2023-10-12
+bron: "https://wetten.overheid.nl/BWBR0046257"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 houdende nadere regels ter uitvoering van de Wet ter Bescherming Koopvaardij en het Besluit bescherming koopvaardij (Regeling bescherming koopvaardij)
-
-Gelet op de [artikelen 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), [eerste, derde en vierde lid, 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=8), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=11), [12, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=12), [13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=13), en [17, eerste en tweede lid, van de Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=17) en de [artikelen 2.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.2), [2.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.4), [3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.2), [5.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.4), [5.5, derde lid, onder c, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.5), [5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.6), [5.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.7), [5.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.8), [5.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.9), [5.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.10), [5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=5.13), [6.1, tweede lid, van het Besluit bescherming koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=6.1),
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Wet ter Bescherming Koopvaardij in werking treedt.
 
 ### Hoofstuk 1. Algemene bepalingen
 
@@ -48,19 +20,20 @@ Treedt in werking op het tijdstip waarop de Wet ter Bescherming Koopvaardij in w
 
 In deze regeling wort verstaan onder:
 
-- a. **Besluit:** [Besluit bescherming koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0046155);
+- a. *Besluit:*
+ [Besluit bescherming koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0046155);
 
-- b. **geneeskundige verklaring:** geneeskundige verklaring van geschiktheid voor het verrichten van maritieme beveiligingswerkzaamheden;
+- b. *geneeskundige verklaring:* geneeskundige verklaring van geschiktheid voor het verrichten van maritieme beveiligingswerkzaamheden;
 
-- c. **Inspectie:** Inspectie Leefomgeving en Transport;
+- c. *Inspectie:* Inspectie Leefomgeving en Transport;
 
-- d. **Minister:** Minister van Justitie en Veiligheid;
+- d. *Minister:* Minister van Justitie en Veiligheid;
 
-- e. **toezichthoudende ambtenaren:** ambtenaren van de Inspectie die krachtens [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=16) zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278);
+- e. *toezichthoudende ambtenaren:* ambtenaren van de Inspectie die krachtens [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=16) zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278);
 
-- f. **vervoerskoffer:** met een slot af te sluiten bewaarplaats van de toegestane geweldsmiddelen;
+- f. *vervoerskoffer:* met een slot af te sluiten bewaarplaats van de toegestane geweldsmiddelen;
 
-- g. **wapenkluis:** met een slot af te sluiten opslagplaats van de vervoerskoffers met aangewezen geweldsmiddelen op het schip als bedoeld in [artikel 3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.2).
+- g. *wapenkluis:* met een slot af te sluiten opslagplaats van de vervoerskoffers met aangewezen geweldsmiddelen op het schip als bedoeld in [artikel 3.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=3.2).
 
 ### Hoofdstuk 2. De toestemming voor de inzet van particulier maritiem beveiligingspersoneel
 
@@ -184,11 +157,11 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 ##### Artikel 8. (leges)
 
-1. De leges voor de afdoening van een aanvraag van een vergunning bedragen in totaal € 17.220,–. Voor de initiële afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 7.220,–. Voor de finale afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 10.000,–.
+1. De leges voor de afdoening van een aanvraag van een vergunning bedragen in totaal € 17.220,–. Voor de initiële afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 7.220,–. Voor de finale afdoening van een aanvraag van een vergunning zijn leges verschuldigd ten bedrage van € 10.000,–.
 
-2. De leges voor de afdoening van een aanvraag tot verlenging van een vergunning bedragen € 14.190,–.
+2. De leges voor de afdoening van een aanvraag tot verlenging van een vergunning bedragen € 14.190,–.
 
-3. De leges voor de afdoening van de overgang van een vergunning op een derde, bedoeld in [artikel 4.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=4.5) bedragen € 17.220,–.
+3. De leges voor de afdoening van de overgang van een vergunning op een derde, bedoeld in [artikel 4.5 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=4.5) bedragen € 17.220,–.
 
 ### Hoofdstuk 5. Wettelijke eisen vergunning
 
@@ -206,7 +179,7 @@ Bij de aanvraag om toestemming als bedoeld in [artikel 4 van de wet](https://wet
 
 - d. een overzicht van belangrijke leveranciers.
 
-2. De verzekering, bedoeld in het eerste lid, onder b, omvat in ieder geval een verzekering voor beroepsaansprakelijkheid, algemene aansprakelijkheid en werkgeversaansprakelijkheid. De verzekering dekt de aansprakelijkheid van het bedrijf voor ten minste € 2.500.000 per schadegeval voor letselschade en ten minste € 750.000 per schadegeval voor zaakschade waartoe de vergunde activiteiten aanleiding kunnen geven.
+2. De verzekering, bedoeld in het eerste lid, onder b, omvat in ieder geval een verzekering voor beroepsaansprakelijkheid, algemene aansprakelijkheid en werkgeversaansprakelijkheid. De verzekering dekt de aansprakelijkheid van het bedrijf voor ten minste € 2.500.000 per schadegeval voor letselschade en ten minste € 750.000 per schadegeval voor zaakschade waartoe de vergunde activiteiten aanleiding kunnen geven.
 
 ##### Artikel 10. (betrouwbaarheid)
 
@@ -455,202 +428,3 @@ Deze regeling treedt in werking met ingang van de datum waarop de [Wet ter Besch
 ##### Artikel 26. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling bescherming koopvaardij.
-
-## Annex 1. Permission Application Form
-
-| To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. | To be completed by the shipping company; for Dutch flagged vessels with registration in the Netherlands only. For VPD-protection of vessels with registration in Curaçao please contact Maritime Authority Curaçao. This application must be submitted to the following email address: **bbk@kustwacht.nl** The statutory timeframe [48 hours, weekends excluded] in which the Coastguard must make its decision on an application for armed private security will start once it receives this form, fully completed; attachments included. |
-| --- | --- | --- | --- |
-
-| For Coastguard use only: | For Coastguard use only: | For Coastguard use only: | For Coastguard use only: |
-| --- | --- | --- | --- |
-| Contact: | Nautisch Beheer/ WtBK | Nautisch Beheer/ WtBK | Nautisch Beheer/ WtBK |
-| e-mail: | bbk@kustwacht.nl | bbk@kustwacht.nl | bbk@kustwacht.nl |
-| Date: Time: |   | KW dossiernr: |   |
-
-| **Urgency:** □ Immediate response by Coastguard within 24 hours preferred? | **Reason:** |
-| --- | --- |
-
-|   | PART 1 – GENERAL INFORMATION | PART 1 – GENERAL INFORMATION | PART 1 – GENERAL INFORMATION |
-| --- | --- | --- | --- |
-|   |   | Details | Remarks |
-| 0 | Registration Dutch flag | Yes □ No □ | If ‘No’ Cancel request. This procedure is only applicable in case of Dutch flagged vessels. |
-| 1 | Company name |   | Applicant must qualify as a ship manager under the Merchant Shipping (Protection) Act |
-| 2 | Address |   |   |
-| 3 | Areal code |   |   |
-| 4 | City |   |   |
-| 5 | Name of contact person(s) |   |   |
-| 6 | E-mail |   |   |
-| 7 | Telephone |   |   |
-| 8 | Name of ship |   |   |
-| 9 | Call sign |   |   |
-| 10 | IMO number |   |   |
-| 11 | Type of ship |   | E.g. tanker, dry cargo, passenger ship, RoRo |
-| 12 | Photo of a side view of the ship | □ | **Photo attached** |
-| 13 | Number of crew members |   |   |
-| 14 | Attach copy of ship’s general plan (including accommodation plan) | □ | **Copy of plan attached** |
-|   | **Voyage Details** | **Voyage Details** | **Voyage Details** |
-|   |   | Details | Remarks |
-| 15 | Dates of transport: 1: Start [ETD] 2: End [ETA] | 1: 2: |   |
-| 16 | Last port of departure before the Risk Area |   |   |
-| 17 | First port of arrival after the Risk Area |   |   |
-| 18 | Intended route: Attach waypoint list. **[RTZ, CSV, or Excel]** | □ | Lat/Long WGS84 [ex. 29° 40 100N / 32° 33 200 E] |
-
-|   | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer | PART 2 – INITIAL RISK ANALYSIS OF THE TRANSPORT to be completed by the Company Security Officer |
-| --- | --- | --- | --- |
-|   |   | Details | Remarks |
-| 19 | Tonnage (Deadweight or Gross Tonnage) | □ DWT: □ GT: |   |
-| 20 | Free board on the Risk Area passage **(metres/decimetres)** |   |   |
-| 21 | Maximum speed |   |   |
-| 22 | Cruising speed during transport |   |   |
-| 23 | Time expected to be in the Risk Area: 1: ETA RA 2: ETD RA 3: Total time in (H)RA | 1: 2: 3: |   |
-| 24 | Manoeuvrability of the ship | Good / average / fairly poor / poor | Strike out what does not apply |
-| 25 | Weather sensitivity of the ship | Very sensitive / sensitive / less sensitive / not sensitive | Strike out what does not apply |
-| 26 | Cargo Specifications |   |   |
-| 27 | Information insurance cargo **(like: type of insurance, name insurance company)** |   |   |
-| 28 | Information insurance ship **(like: type of insurance, name P&I or insurance company)** |   |   |
-
-| Initial risk analysis prior to application of own protection measures | Initial risk analysis prior to application of own protection measures |
-| --- | --- |
-| Impact level: 1. Marine crime (ship stores) 2. Marine crime including exposure for crew 3. Piracy exposure 4. Severe injury / kidnap incident 5. Fatalities / Multiple severe injuries / Hijack of vessel | Frequency: Criteria1 o Exposure time in (High) Risk Area more than 48 hours o Increase of attacks in the last quarter according to IMB reports o Attacks reported last year according to IMB o Vessel speed alignment o Client / cargo resulting in extra exposure |
-| Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix | Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix |
-|   |   |
-
-1 Mark if applicable: the sum of the markings is the frequency.
-
-|   | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer | PART 3 – SECURITY MEASURES to be completed by the Company Security Officer |
-| --- | --- | --- | --- |
-|   | Mandatory measures according to Article 3 of the Merchant Shipping Protection Regulation: | Confirmation | Remarks **Specify reason in case a box is not ticked** |
-| 29 | Binoculars for the team on the bridge | □ |   |
-| 30 | Search lights to check the surroundings of the ship | □ |   |
-| 31 | Razor wire | □ |   |
-| 32 | Locking access to the bridge, the crew and passenger quarters and the engine rooms | □ |   |
-| 33 | Reinforcing large windows and portholes with bars or cover plates | □ |   |
-| 34 | Designating crew muster point or safe room with means of communication with the outside world, such as VHF and/or INMARSAT | □ |   |
-| 35 | Mounting water or foam sprayers | □ |   |
-| 36 | Preparing the crew through anti-piracy exercises | □ |   |
-| 37 | Protecting the ship’s equipment and machinery from third-party use | □ |   |
-| 38 | Deploying fully trained crew members to one or more lookout posts, including the use of the bridge | □ |   |
-|   |   |   |   |
-|   | **Other:** |   |   |
-| 39 | CCTV enabled? | □ |   |
-| 40 | Lifts taken out of service? | □ |   |
-| 41 | Other protective measures? Specify. | □... |   |
-|   | **OTHER CONSIDERATIONS** | **OTHER CONSIDERATIONS** | **OTHER CONSIDERATIONS** |
-|   |   |   |   |
-|   | **Have the following been considered:** | **Confirmation** | **Remarks** **Specify reason why it is not an option** |
-| 42 | Taking a different route? | □ |   |
-| 43 | Sailing in convoy? | □ |   |
-| 44 | Hiring unarmed security personnel? | □ |   |
-
-| Residual risk assessment after application of own protection measures | Residual risk assessment after application of own protection measures |
-| --- | --- |
-| Impact level: 1. Marine crime (ship stores) 2. Marine crime including exposure for crew 3. Piracy exposure 4. Serious injury / abduction 5. Fatalities / Multiple serious injuries / Hijacking of ship | Frequency: Criteria1 o Exposure time in high-risk area > 48 hours o Increase of attacks in the last quarter in the risk area according to IMB reports o Attacks reported last year according to IMB o Vessel speed alignment o Client / cargo resulting in extra exposure |
-| Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix | Risk: High / Medium / Low. Drag the black dot to the appropriate field in the matrix |
-|   |   |
-
-1 Mark if applicable: the sum of the marks is the frequency.
-
-|   | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION | PART 4 – Armed Private Security PMSC QUOTES AND DISTANCE OF DETOUR FOR VPD EMBARKATION |
-| --- | --- | --- | --- |
-|   |   | Details | Remarks |
-| 45 | Quoted price PMSC (total price) | €/$ |   |
-|   |   | □ | **Price offer PMSC attached** |
-|   |   |   |   |
-|   | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** | **DETAILS OF PROPOSED PMSC** |
-|   |   | Details | Remarks |
-| 46 | Name of proposed PMSC / permit holder |   |   |
-| 47 | ILT permit number of PMSC |   |   |
-| 48 | Address / contact details of PMSC/permit holder |   |   |
-| 49 | Size of envisaged security team |   |   |
-| 50 | E-mail address of PMSC |   |   |
-| 51 | Proposed embarkation point of PMSC |   |   |
-| 52 | Proposed disembarkation point of PMSC |   |   |
-| 53 | Specify location & describe weapons storage of arms and ammunition on board when the ship sails outside of the (High) Risk Area |   |   |
-| 54 | Does the ship have a valid (interim-) International Ship Security Certificate (ISSC)? | N/A □ [< 500 GT] Yes □ No □ | **If No, does it have an approved Ship Security Plan? Yes** □ **\| No** □ |
-| 55 | E-mail address / telephone number of ship master |   |   |
-
-|   | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION | Part 5 – Vessel Protection Detachment from Ministry of Defence REGARDING THE VPD/ PCASP EMBARKATION |
-| --- | --- | --- | --- |
-|   |   | Details | Remarks |
-| 56 | What is the total number of persons for which Life-Saving Appliances are provided mentioned on the ships’ Safety Certificate? |   | In case the actual total numbers of persons exceeds, contact the RO in order to obtain a temporary exemption. |
-| 57 | What is the ‘minimum safe manning’ number on board? |   | According to the Minimum Safe Manning Certificate |
-| 58 | Extra accommodation (cabins) available? |   |   |
-| 59 | How many additional beds are available? |   |   |
-| 60 | Description of medical facilities on board |   |   |
-
-| □ I have completed this form correctly to the best of my knowledge. | □ I have completed this form correctly to the best of my knowledge. | □ I have completed this form correctly to the best of my knowledge. |
-| --- | --- | --- |
-| Name and position | Date | Signature |
-
-## Annex 2. Embarkation Form – ship master
-
-| **Instruction** **– Please send the completed form after embarking security guards and armament to the Dutch Coast Guard and the Human Environment and Transport Inspectorate (ccc@kustwacht.nl / MIK-NL@kustwacht.nl / wtbk@ilent.nl)** **– attach completed form to final voyage report** |
-| --- |
-
-| **GENERAL INFORMATION** | **GENERAL INFORMATION** | **GENERAL INFORMATION** |
-| --- | --- | --- |
-|   | Details | Notes |
-| Name of ship |   |   |
-| IMO number |   |   |
-| Call sign |   |   |
-| Name of master |   |   |
-| Place and date of embarkation of security team |   |   |
-
-| **INFORMATION ABOUT THE SECURITY TEAM MEMBERS** **If possible attach crew list with the following information:** Name of maritime security guard Date of birth Address Nationality Passport number |
-| --- |
-
-| **INFORMATION ABOUT THE WEAPONS** | **INFORMATION ABOUT THE WEAPONS** | **INFORMATION ABOUT THE WEAPONS** |
-| --- | --- | --- |
-| Weapons | Details | Notes |
-| Type of weapons |   |   |
-| Serial numbers |   | Attach photo of weapon serial numbers |
-| Do the weapons match the statement from the ship manager and PMSC? | Yes/No |   |
-
-| **INFORMATION ABOUT THE AMMUNITION** | **INFORMATION ABOUT THE AMMUNITION** | **INFORMATION ABOUT THE AMMUNITION** |
-| --- | --- | --- |
-| Ammunition | Details | Notes |
-| Ammunition type |   | (Calibre, FMJ/soft-point) |
-| Number of bullets |   |   |
-|   |   |   |
-
-| **INFORMATION ABOUT THE HELMET CAMERAS** | **INFORMATION ABOUT THE HELMET CAMERAS** | **INFORMATION ABOUT THE HELMET CAMERAS** |
-| --- | --- | --- |
-|   | Details | Notes |
-| Brand and type of the helmet cameras |   |   |
-| Number of helmet cameras |   |   |
-
-| **INFORMATION ABOUT THE HAND CUFFS** | **INFORMATION ABOUT THE HAND CUFFS** | **INFORMATION ABOUT THE HAND CUFFS** |
-| --- | --- | --- |
-|   | Details | Notes |
-| Hand cuffs available? |   |   |
-| Number of hand cuffs |   |   |
-
-| **THE SHIP MASTER DECLARES THAT:** | **THE SHIP MASTER DECLARES THAT:** | **THE SHIP MASTER DECLARES THAT:** |
-| --- | --- | --- |
-|   | Yes | Notes |
-|   |   |   |
-| Outside the high risk area, the weapons will be stored in the weapons locker in accordance with art. 3.2 BBK |   |   |
-| An immediate report will be made to the Dutch Public Prosecutor’s Office concerning any incident at sea involving the use of force and I will also inform the Coast Guard and the Human Environment and Transport Inspectorate. |   |   |
-| a report will be made to the Coast Guard and the Human Environment and Transport Inspectorate about where and when the armed security team disembarks within 48 hours after disembarkment. |   |   |
-
-| I have completed this form correctly to the best of my knowledge. | I have completed this form correctly to the best of my knowledge. | I have completed this form correctly to the best of my knowledge. |
-| --- | --- | --- |
-| Name | Date | Signature |
-
-## Annex 3. Team Leader Embarkation Form
-
-### Team Leader Embarkation Form
-
-## Annex 4. SHIP Master Report Form
-
-### SHIP Master Report Form
-
-## Annex 5. Team leader’s report form
-
-### TEAM LEADER REPORT FORM
-
-## Annex 6. Ship master form for reporting the use of force and/or handcuffs to the public prosecution service
-
-### Form A For immediate notification of the use of force
-
-### Form B Detailed report on the use of force

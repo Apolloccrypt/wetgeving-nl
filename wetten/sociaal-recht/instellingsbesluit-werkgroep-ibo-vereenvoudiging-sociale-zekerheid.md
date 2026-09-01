@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Vereenvoudiging sociale zekerheid (Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid)"
+citeertitel: "Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid"
 identifier: "BWBR0046367"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-03"
-last_updated: "2022-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046367"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16282303"
-version_id: "28446652"
-internal_id: "C40140471"
-label_id: "16208334"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046367/2022-03-03/0"
-intitule_bron: "Stcrt.2022-4923"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-02-09"
-intitule_published: "2022-03-02"
-intitule_in_force: "2022-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-4923"
-original_signed_date: "2022-02-09"
-original_published_date: "2022-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-4923"
-entry_into_force_date: "2022-03-03"
-jci_1_3: "jci1.3:c:BWBR0046367&z=2022-03-03&g=2022-03-03"
-jci_1_0: "1.0:c:BWBR0046367&g=2022-03-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid"
-signed_date: "2022-02-09"
-entry_into_force: "2022-03-03"
+publicatiedatum: 2022-03-03
+laatste_update: 2022-03-03
+status: geldig
+toestand: 2022-03-03
+bron: "https://wetten.overheid.nl/BWBR0046367"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Vereenvoudiging sociale zekerheid (Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Financiën;
+- a. *Minister:* Minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-03-03).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-03-03).
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een werkgroep IBO Vereenvoudiging sociale zekerheid.
 
-2. De werkgroep heeft tot taak een interdepartementaal beleidsonderzoek uit te voeren conform de taakopdracht zoals gepubliceerd in de Najaarsnota 2021 (Kamerstukken Tweede Kamer vergaderjaar 2021-2022, 35 975, nr. 1).
+2. De werkgroep heeft tot taak een interdepartementaal beleidsonderzoek uit te voeren conform de taakopdracht zoals gepubliceerd in de Najaarsnota 2021 (Kamerstukken Tweede Kamer vergaderjaar 2021-2022, 35 975, nr. 1).
 
 3. Het onderzoek moet resulteren in een rapport waarin één of meerdere beleidsopties in kaart worden gebracht op het betreffende beleidsterrein.
 
@@ -68,21 +42,21 @@ In dit besluit wordt verstaan onder:
 
 5. Voor de duur van de werkgroep worden tot lid van de werkgroep benoemd:
 
-- –. Dorien Verbeek (Ministerie van Financiën)
+- – Dorien Verbeek (Ministerie van Financiën)
 
-- –. Karin van Boetzelaer (Ministerie van Algemene Zaken)
+- – Karin van Boetzelaer (Ministerie van Algemene Zaken)
 
-- –. Remko ter Weijden (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
+- – Remko ter Weijden (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
 
-- –. Victor Joosen (Ministerie van Economische Zaken en Klimaat)
+- – Victor Joosen (Ministerie van Economische Zaken en Klimaat)
 
-- –. Judith Duveen (Divosa)
+- – Judith Duveen (Divosa)
 
-- –. Michiel van den Hauten (Uitvoeringsinstituut Werknemersverzekeringen)
+- – Michiel van den Hauten (Uitvoeringsinstituut Werknemersverzekeringen)
 
-- –. Willem Zandbergen (Sociale Verzekeringsbank)
+- – Willem Zandbergen (Sociale Verzekeringsbank)
 
-- –. Jonneke Bolhaar (Centraal Planbureau)
+- – Jonneke Bolhaar (Centraal Planbureau)
 
 6. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -90,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-1. De werkgroep wordt ingesteld per 10 januari 2022.
+1. De werkgroep wordt ingesteld per 10 januari 2022.
 
 2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046367&artikel=2&z=2022-03-03&g=2022-03-03) door de Minister van Financiën aan de Minister van Sociale Zaken en Werkgelegenheid is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
@@ -120,14 +94,12 @@ De werkgroep draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 januari 2022.
 
 ##### Artikel 10. Vergoeding
 
-De voorzitter ontvangt met ingang van 1 januari 2022 een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter is salarisschaal 18, hoogste trede, van paragraaf 6.3 van de CAO Rijk. De arbeidsduurfactor voor de voorzitter is 0,15 per maand.
+De voorzitter ontvangt met ingang van 1 januari 2022 een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter is salarisschaal 18, hoogste trede, van paragraaf 6.3 van de CAO Rijk. De arbeidsduurfactor voor de voorzitter is 0,15 per maand.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Vereenvoudiging sociale zekerheid.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

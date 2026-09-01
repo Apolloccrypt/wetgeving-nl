@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0010280"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van 15 februari 1999, houdende de vaststelling van enkele rechtspositionele bepalingen ten aanzien van burgerambtenaren van Defensie, die belast zijn met het vervoer van bewindslieden en hoge ambtelijke functionarissen (Besluit personenchauffeurs defensie)

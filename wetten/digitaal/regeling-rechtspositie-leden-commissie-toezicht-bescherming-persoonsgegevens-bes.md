@@ -9,7 +9,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0034810"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 3 februari 2014, nr. 474374, houdende regeling van de rechtspositie van de leden van de Commissie toezicht bescherming persoonsgegevens BES

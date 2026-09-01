@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregels informatieplicht"
 identifier: "BWBR0045630"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-10-01"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045630"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16079623"
-version_id: "28010602"
-internal_id: "C39514131"
-label_id: "16011194"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045630/2021-10-01/0"
-intitule_bron: "Stcrt.2021-41355"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-09-20"
-intitule_in_force: "2021-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-41355"
-original_published_date: "2021-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-41355"
-entry_into_force_date: "2021-10-01"
-jci_1_3: "jci1.3:c:BWBR0045630&z=2021-10-01&g=2021-10-01"
-jci_1_0: "1.0:c:BWBR0045630&g=2021-10-01"
-citeertitel_status: "officieel"
-entry_into_force: "2021-10-01"
+publicatiedatum: 2021-10-01
+laatste_update: 2021-10-01
+status: geldig
+toestand: 2021-10-01
+bron: "https://wetten.overheid.nl/BWBR0045630"
+opgehaald: 2026-09-01
 ---
+
 # Beleidsregels informatieplicht
-
-gelet op [artikel 5.1, tweede lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-besluit de volgende beleidsregels vast te stellen:
 
 #### Paragraaf 1. Definities en toepassing
 
@@ -42,21 +19,24 @@ besluit de volgende beleidsregels vast te stellen:
 
 In deze beleidsregels wordt verstaan onder:
 
-- 1. **Besluit:** [Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773);
+- 1. *Besluit:*
+ [Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773);
 
-- 2. **CRUKS:** het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- 2. *CRUKS:* het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- 3. **CDB:** controledatabank als bedoeld in [artikel 5.3 Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.3);
+- 3. *CDB:* controledatabank als bedoeld in [artikel 5.3 Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.3);
 
-- 4. **raad van bestuur:** raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- 4. *raad van bestuur:* raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- 5. **Regeling:** [Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767);
+- 5. *Regeling:*
+ [Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767);
 
-- 6. **vergunning:** een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- 6. *vergunning:* een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- 7. **vergunninghouder(s):** houder(s) van een vergunning;
+- 7. *vergunninghouder(s):* houder(s) van een vergunning;
 
-- 8. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- 8. *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
 ##### Artikel 1.2. Toepassing
 
@@ -72,7 +52,7 @@ De Kansspelautoriteit maakt de wijze waarop vergunninghouders de raad van bestuu
 
 ##### Artikel 3.1. Informeren over relevante wijzigingen
 
-De vergunninghouder informeert de raad van bestuur onverwijld over relevante wijzigingen, overeenkomstig [artikel 5.1, tweede lid, aanhef en onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1). De raad van bestuur verstaat onder onverwijld informeren en relevante wijzigingen [**in ieder geval**] hetgeen in de [artikelen 3.2 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045630&paragraaf=3&artikel=3.2&z=2021-10-01&g=2021-10-01) is bepaald.
+De vergunninghouder informeert de raad van bestuur onverwijld over relevante wijzigingen, overeenkomstig [artikel 5.1, tweede lid, aanhef en onder a, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1). De raad van bestuur verstaat onder onverwijld informeren en relevante wijzigingen [*in ieder geval*] hetgeen in de [artikelen 3.2 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0045630&paragraaf=3&artikel=3.2&z=2021-10-01&g=2021-10-01) is bepaald.
 
 ##### Artikel 3.2. Betrouwbaarheid
 
@@ -130,7 +110,7 @@ De vergunninghouder informeert de raad van bestuur over wijzigingen in de essent
 
 ##### Artikel 3.6. Cruks
 
-1. De vergunninghouder informeert de raad van bestuur over een substantiële wijziging in het aansluitsysteem voor Cruks, die gerelateerd is aan de aansluitprocedure voor Cruks zoals gepubliceerd op de website van de Kansspelautoriteit onder [http://www.kansspelautoriteit.nl/aansluiten-cruks](onbekend).
+1. De vergunninghouder informeert de raad van bestuur over een substantiële wijziging in het aansluitsysteem voor Cruks, die gerelateerd is aan de aansluitprocedure voor Cruks zoals gepubliceerd op de website van de Kansspelautoriteit onder http://www.kansspelautoriteit.nl/aansluiten-cruks.
 
 2. De vergunninghouder informeert de raad van bestuur over de in het eerste lid bedoelde wijziging minimaal drie maanden voorafgaand aan de geplande wijziging als dit een wijziging van IT-leverancier betreft.
 
@@ -142,7 +122,7 @@ De vergunninghouder informeert de raad van bestuur over wijziging van een of mee
 
 ##### Artikel 3.8. Controledatabank
 
-De vergunninghouder informeert de raad van bestuur over wijzigingen in de CDB overeenkomstig het bepaalde in paragraaf 9 van de op de website [http://www.kansspelautoriteit.nl/inrichten-cdb](onbekend) gepubliceerde “Specifications for the remote gambling data safe”.
+De vergunninghouder informeert de raad van bestuur over wijzigingen in de CDB overeenkomstig het bepaalde in paragraaf 9 van de op de website http://www.kansspelautoriteit.nl/inrichten-cdb gepubliceerde “Specifications for the remote gambling data safe”.
 
 ##### Artikel 3.9. Spelsysteem
 
@@ -168,11 +148,11 @@ De vergunninghouder informeert de raad van bestuur onverwijld over incidenten, o
 
 ##### Artikel 4.2. Incidenten
 
-1. Onder **incidenten** verstaat de raad van bestuur onvoorziene en niet-structurele gedragingen en gebeurtenissen die een ernstig gevaar kunnen vormen voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen of het vertrouwen in de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen kunnen schaden, als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1).
+1. Onder *incidenten* verstaat de raad van bestuur onvoorziene en niet-structurele gedragingen en gebeurtenissen die een ernstig gevaar kunnen vormen voor de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen of het vertrouwen in de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen kunnen schaden, als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1).
 
-2. Onder **gedragingen en gebeurtenissen** verstaat de raad van bestuur incidenten die raken aan de onderwerpen waarop de Kansspelautoriteit toeziet of die de doelstellingen van de Kansspelautoriteit raken, te weten het beschermen van consumenten, het voorkomen van kansspelverslaving en het bestrijden van illegaliteit en criminaliteit. Incidenten dienen te worden gemeld voor zover hiervoor geen meldplicht bestaat op grond van andere bepalingen in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) of onderliggende regelgeving.
+2. Onder *gedragingen en gebeurtenissen* verstaat de raad van bestuur incidenten die raken aan de onderwerpen waarop de Kansspelautoriteit toeziet of die de doelstellingen van de Kansspelautoriteit raken, te weten het beschermen van consumenten, het voorkomen van kansspelverslaving en het bestrijden van illegaliteit en criminaliteit. Incidenten dienen te worden gemeld voor zover hiervoor geen meldplicht bestaat op grond van andere bepalingen in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) of onderliggende regelgeving.
 
-3. Onder incidenten die **ernstig gevaar vormen voor** en **het vertrouwen kunnen schaden in**de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen, verstaat de raad van bestuur incidenten van een substantiële omvang. Van een substantiële omvang is sprake als consumentenbescherming als doelstelling van het kansspelbeleid in het geding is. Hiervan is in ieder geval sprake als het incident:
+3. Onder incidenten die *ernstig gevaar vormen voor* en *het vertrouwen kunnen schaden in*de verantwoorde, betrouwbare en controleerbare organisatie van de vergunde kansspelen, verstaat de raad van bestuur incidenten van een substantiële omvang. Van een substantiële omvang is sprake als consumentenbescherming als doelstelling van het kansspelbeleid in het geding is. Hiervan is in ieder geval sprake als het incident:
 
 - a. een groot aantal consumenten betreft;
 
@@ -218,7 +198,7 @@ De vergunninghouder informeert de raad van bestuur onverwijld over incidenten, o
 
 ##### Artikel 5.1. Inwerkingtreding
 
-Deze beleidsregels worden met de toelichting gepubliceerd en bekendgemaakt in de Staatscourant en treden in werking op 1 oktober 2021.
+Deze beleidsregels worden met de toelichting gepubliceerd en bekendgemaakt in de Staatscourant en treden in werking op 1 oktober 2021.
 
 ##### Artikel 5.2. Citeertitel
 

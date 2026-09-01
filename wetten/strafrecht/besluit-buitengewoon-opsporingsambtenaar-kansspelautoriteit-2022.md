@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 2 maart 2022 nr. BOACAT2022/011, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Kansspelautoriteit"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Kansspelautoriteit 2022"
 identifier: "BWBR0046409"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-05-05"
-last_updated: "2022-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046409"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16294133"
-version_id: "28470892"
-internal_id: "C40171901"
-label_id: "16220084"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046409/2022-05-05/0"
-intitule_bron: "Stcrt.2022-6650"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-02"
-intitule_published: "2022-03-09"
-intitule_in_force: "2022-03-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-6650"
-original_signed_date: "2022-03-02"
-original_published_date: "2022-03-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-6650"
-entry_into_force_date: "2022-05-05"
-jci_1_3: "jci1.3:c:BWBR0046409&z=2022-05-05&g=2022-05-05"
-jci_1_0: "1.0:c:BWBR0046409&g=2022-05-05"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Kansspelautoriteit 2022"
-signed_date: "2022-03-02"
-entry_into_force: "2022-05-05"
+publicatiedatum: 2022-05-05
+laatste_update: 2022-05-05
+status: geldig
+toestand: 2022-05-05
+bron: "https://wetten.overheid.nl/BWBR0046409"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 2 maart 2022 nr. BOACAT2022/011, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Kansspelautoriteit
-
-Gelezen het verzoek van de Kansspelautoriteit van 28 oktober 2021 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,7 +24,7 @@ De personen, werkzaam bij de afdeling handhaving KSA in de functie van inspecteu
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -80,7 +42,7 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De Kansspelautoriteit brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Kansspelautoriteit brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046409&artikel=2&z=2022-05-05&g=2022-05-05) genoemde functie;
 
@@ -98,12 +60,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar Kansspelautoriteit 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039343) van 9 maart 2017 nr. BOACAT2017/017 zal vervallen op 5 mei 2022.
+Het [Besluit buitengewoon opsporingsambtenaar Kansspelautoriteit 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039343) van 9 maart 2017 nr. BOACAT2017/017 zal vervallen op 5 mei 2022.
 
-Dit besluit treedt in werking met ingang van 5 mei 2022 en vervalt met ingang van 5 mei 2027.
+Dit besluit treedt in werking met ingang van 5 mei 2022 en vervalt met ingang van 5 mei 2027.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Kansspelautoriteit 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

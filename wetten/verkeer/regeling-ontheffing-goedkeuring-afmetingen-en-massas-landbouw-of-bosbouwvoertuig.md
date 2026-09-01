@@ -1,44 +1,18 @@
 ---
 title: "Regeling alternatieve voorschriften wat betreft afmetingen en massa’s van de voertuigcategorieën landbouw- en bosbouwtrekkers, landbouw- of bosbouwaanhangwagens en verwisselbare getrokken uitrustingsstukken en mobiele machines ten behoeve van het verlenen van een ontheffing van de goedkeuringseisen"
+citeertitel: "Regeling ontheffing goedkeuring afmetingen en massa’s landbouw- of bosbouwvoertuigen en mobiele machines"
 identifier: "BWBR0046249"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-02-01"
-last_updated: "2022-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046249"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16248793"
-version_id: "28375012"
-internal_id: "C40018541"
-label_id: "16176184"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046249/2022-02-01/0"
-intitule_bron: "Stcrt.2022-2954"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-01-20"
-intitule_published: "2022-01-31"
-intitule_in_force: "2022-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-2954"
-original_signed_date: "2022-01-20"
-original_published_date: "2022-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-2954"
-entry_into_force_date: "2022-02-01"
-jci_1_3: "jci1.3:c:BWBR0046249&z=2022-02-01&g=2022-02-01"
-jci_1_0: "1.0:c:BWBR0046249&g=2022-02-01"
-citeertitel_status: "officieel"
-short_title: "Regeling ontheffing goedkeuring afmetingen en massa’s landbouw- of bosbouwvoertuigen en mobiele machines"
-signed_date: "2022-01-20"
-entry_into_force: "2022-02-01"
+publicatiedatum: 2022-02-01
+laatste_update: 2022-02-01
+status: geldig
+toestand: 2022-02-01
+bron: "https://wetten.overheid.nl/BWBR0046249"
+opgehaald: 2026-09-01
 ---
+
 # Regeling alternatieve voorschriften wat betreft afmetingen en massa’s van de voertuigcategorieën landbouw- en bosbouwtrekkers, landbouw- of bosbouwaanhangwagens en verwisselbare getrokken uitrustingsstukken en mobiele machines ten behoeve van het verlenen van een ontheffing van de goedkeuringseisen
-
-Gelet op de [artikelen 3.5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.5.4), [3.6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.2) en [3.6.4, tweede lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=3.6.4);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -87,5 +61,3 @@ Deze regeling wordt aangehaald als: regeling ontheffing goedkeuring afmetingen e
 ##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerst dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

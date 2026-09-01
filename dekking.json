@@ -1,20 +1,15 @@
 {
- "gegenereerd": "2026-08-31",
+ "gegenereerd": "2026-09-01",
  "geverifieerd": true,
- "bwb_regelingen": 46877,
- "bwb_geldend": 22217,
- "site_totaal": 22406,
- "site_geldend": 22214,
+ "bwb_regelingen": 46883,
+ "bwb_geldend": 22218,
+ "site_totaal": 22413,
+ "site_geldend": 22216,
  "dekkingsgraad": 0.9999,
- "aantal_ontbrekend": 3,
- "aantal_ten_onrechte_geldig": 192,
+ "aantal_ontbrekend": 2,
+ "aantal_ten_onrechte_geldig": 197,
  "aantal_onbekend": 0,
  "ontbrekend": [
-  {
-   "id": "BWBR0052795",
-   "titel": "Instellingsbesluit Commissie Toekomst Rijksdienst",
-   "type": "ministeriele-regeling"
-  },
   {
    "id": "BWBV0001764",
    "titel": "Notawisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en de International Nickel Study Group betreffende privileges en immuniteiten van het personeel van de International Nickel Study Group en hun gezinsleden",
@@ -380,6 +375,10 @@
    "titel": "Besluit van 16 juni 2021 houdende regels voor experimenten met het verstrekken van subsidies voor generieke werkgeversvoorzieningen (Besluit experimentele subsidie generieke werkgeversvoorzieningen)"
   },
   {
+   "id": "BWBR0045301",
+   "titel": "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 juni 2021, nr. HO&S/27206364, houdende regels voor de subsidieverstrekking voor virtuele internationale samenwerkingsprojecten in het hoger onderwijs (Subsidieregeling virtuele internationale samenwerkingsprojecten hoger onderwijs)"
+  },
+  {
    "id": "BWBR0045391",
    "titel": "Besluit van de Minister voor Rechtsbescherming van 7 juli 2021 nr. BOACAT2021/032, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Ministerie van Financiën/Douane"
   },
@@ -417,7 +416,7 @@
   },
   {
    "id": "BWBR0045807",
-   "titel": "Regeling modellen van akte gerechtelijke mededelingen 2021"
+   "titel": "Regeling van de Minister van Justitie en Veiligheid van 1 november 2021, nr. 3565428, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2021"
   },
   {
    "id": "BWBR0046496",
@@ -486,6 +485,10 @@
   {
    "id": "BWBR0047632",
    "titel": "Beleidsregels financiële sanering toegelaten instellingen 2023"
+  },
+  {
+   "id": "BWBR0047798",
+   "titel": "Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de sinds 1 mei 2022 van toepassing zijnde macroprudentiële maatregel van de Nationale Bank van België inhoudende een systeemrisicobufferpercentage van 9% (Besluit erkenning 9% systeemrisicobuffer België 2022)"
   },
   {
    "id": "BWBR0048019",
@@ -748,6 +751,10 @@
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 5 maart 2026, nr. RT-0000131866, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en in de biologische appelteelt (Tijdelijke vrijstelling voor de beheersing van appelbloesemkever in de teelt van appel in grondwaterbeschermingsgebieden en biologische appelteelt, 2026)"
   },
   {
+   "id": "BWBR0052415",
+   "titel": "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 februari 2026, nr. 2026-0000072641, houdende regels over waardevermeerdering van gebouwen in verband met schade als gevolg van gaswinning Groningenveld (Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026) [KetenID WGK 028672]"
+  },
+  {
    "id": "BWBR0052435",
    "titel": "Beleidsregel budgetbekostiging spoedeisende hulp"
   },
@@ -794,6 +801,14 @@
   {
    "id": "BWBR0052890",
    "titel": "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur 16 juli 2026, nr. 107479116, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden voor de beheersing van tabakstrips in de teelt van zaaiuien (Tijdelijke vrijstelling voor de beheersing van tabakstrips in de teelt van zaaiuien, 2026)"
+  },
+  {
+   "id": "BWBV0004357",
+   "titel": "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Chili inzake luchtdiensten"
+  },
+  {
+   "id": "BWBV0006861",
+   "titel": "Verklaring van bepaalde Europese Regeringen inzake de exploitatiefase van de lanceervoertuigen Ariane, Vega en Sojoez vanaf het Ruimtevaartcentrum in Guyana"
   }
  ],
  "onbekend": []

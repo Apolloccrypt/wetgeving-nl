@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 1 november 2021,nr. 2021-0000168742, houdende regels ter aanwijzing van signalen van een schuldeiser over betalingsachterstanden (Tijdelijke regeling signaal betalingsachterstanden)"
+citeertitel: "Tijdelijke regeling signaal betalingsachterstanden"
 identifier: "BWBR0045801"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-06-01"
-last_updated: "2025-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045801"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16128563"
-version_id: "28143212"
-internal_id: "C39681931"
-label_id: "16058864"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045801/2025-06-01/0"
-intitule_bron: "Stcrt.2021-45719"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-01"
-intitule_published: "2021-11-09"
-intitule_in_force: "2021-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-45719"
-original_signed_date: "2021-11-01"
-original_published_date: "2021-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-45719"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0045801&z=2025-06-01&g=2025-06-01"
-jci_1_0: "1.0:c:BWBR0045801&g=2025-06-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling signaal betalingsachterstanden"
-signed_date: "2021-11-01"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2025-06-01
+status: geldig
+toestand: 2025-06-01
+bron: "https://wetten.overheid.nl/BWBR0045801"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 1 november 2021,nr. 2021-0000168742, houdende regels ter aanwijzing van signalen van een schuldeiser over betalingsachterstanden (Tijdelijke regeling signaal betalingsachterstanden)
-
-Gelet op [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=8), en [10 van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **CAK:** CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- *CAK:* CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- **signaal:** signaal als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10);
+- *signaal:* signaal als bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=10);
 
-- **wet:** [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331).
+- *wet:*
+ [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331).
 
 ##### Artikel 1.2. Verstrekken van een signaal
 
@@ -74,7 +49,7 @@ Een signaal kan worden verstrekt nadat de verstrekker:
 
 ##### Artikel 2.1. Signaal gemeentelijke belastingen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2.2. Signaal hypotheekachterstand
 
@@ -86,23 +61,9 @@ Vervallen
 
 - b. de hoogte van de betalingsachterstand.
 
-### Hoofdstuk 3. Slotbepalingen
-
-##### Artikel 3.1. Inwerkingtreding
-
-1. Deze regeling treedt in werking met ingang van 1 januari 2022.
-
-2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat de regeling zoals die luidde op 31 december 2029 van toepassing blijft op de dan lopende procedures en gegevensverstrekking.
-
-##### Artikel 3.2. Citeertitel
-
-Deze regeling wordt aangehaald als: Tijdelijke regeling signaal betalingsachterstanden.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 2.3. Signaal DUO
 
-1. Als signaal wordt aangewezen een achterstallige schuld als bedoeld in [artikel 1 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1) van tenminste € 270,– en, voor zover die inwoner ook een betalingsachterstand heeft op een geldboete wegens overtreding van de voorschriften, bedoeld in [artikel 3.27, eerste lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27).
+1. Als signaal wordt aangewezen een achterstallige schuld als bedoeld in [artikel 1 van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1) van tenminste € 270,– en, voor zover die inwoner ook een betalingsachterstand heeft op een geldboete wegens overtreding van de voorschriften, bedoeld in [artikel 3.27, eerste lid, van de Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.27).
 
 2. DUO verstrekt aan het college van burgemeester en wethouders van de gemeente Amsterdam voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
 
@@ -112,33 +73,29 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - c. de hoogte van de betalingsachterstand.
 
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2.4. Signaal eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 2.4. Signaal eigen bijdragen Wmo en Wlz
 
 1. Als signaal wordt aangewezen:
 
 - a. een betalingsachterstand van een inwoner op de eigen bijdrage voor het gebruik van aangewezen voorzieningen, bedoeld in [artikel 2.1.4, derde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4), indien:
 
-- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+   - 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
 
-- 2°. het een betalingsachterstand betreft van minimaal vijf maanden op de oudste vordering.
+   - 2°. het een betalingsachterstand betreft van minimaal vijf maanden op de oudste vordering.
 
 - b. een betalingsachterstand van een inwoner op de eigen bijdrage beschermd wonen, bedoeld in [artikel 2.1.4a, zevende lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4a), indien:
 
-- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+   - 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
 
-- 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
+   - 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
 
 - c. een betalingsachterstand van een inwoner op de eigen bijdrage, bedoeld in [artikel 3.2.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.5), indien:
 
 - d.
 
-- 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
+   - 1°. de betalingsachterstand ten minste € 100,– bedraagt; en
 
-- 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
+   - 2°. het een betalingsachterstand betreft van minimaal twee maanden op de oudste vordering.
 
 2. Het CAK verstrekt aan het college van burgemeester en wethouders van de gemeente Amsterdam, Groningen, Tilburg of Zoetermeer voor de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3):
 
@@ -150,31 +107,27 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 - d. de hoogte en het type van de schuld.
 
-### Hoofdstuk 3. Slotbepalingen
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 2.5. Signaal belastingschuld en signaal schuld toeslagen
 
 1. Als signaal wordt aangewezen:
 
 - a. een belastingaanslag of belastingaanslagen waarvoor een aanmaning als bedoeld in [artikel 11 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=11) is verzonden en waarvoor geen uitstel van betaling is verleend als bedoeld in artikel 25 van die wet, vanwege verschuldigde:
 
-- 1°. inkomstenbelasting als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), waarvan het openstaande bedrag ten minste € 600 bedraagt;
+   - 1°. inkomstenbelasting als bedoeld in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), waarvan het openstaande bedrag ten minste € 600 bedraagt;
 
-- 2°. omzetbelasting als bedoeld in de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), waarvan het openstaande bedrag ten minste € 600 bedraagt; of
+   - 2°. omzetbelasting als bedoeld in de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), waarvan het openstaande bedrag ten minste € 600 bedraagt; of
 
-- 3°. loonbelasting, premies volksverzekeringen of premies werknemersverzekeringen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), waarvan het openstaande bedrag ten minste € 600 bedraagt.
+   - 3°. loonbelasting, premies volksverzekeringen of premies werknemersverzekeringen als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), waarvan het openstaande bedrag ten minste € 600 bedraagt.
 
 - b. een terugvordering of terugvorderingen in verband met inkomensafhankelijke regelingen als bedoeld in [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472), waarvoor een aanmaning als bedoeld in [artikel 32, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32) is verstuurd en waarvoor geen uitstel van betaling is verleend als bedoeld in [artikel 31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31), vanwege verschuldigde:
 
-- 1°. huurtoeslag als bedoeld in de Wet op de huurtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
+   - 1°. huurtoeslag als bedoeld in de Wet op de huurtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
 
-- 2°. zorgtoeslag als bedoeld in de Wet op de zorgtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
+   - 2°. zorgtoeslag als bedoeld in de Wet op de zorgtoeslag, waarvan het openstaande bedrag ten minste € 500 bedraagt;
 
-- 3°. kinderopvangtoeslag als bedoeld in de Wet kinderopvang, waarvan het openstaande bedrag ten minste € 500 bedraagt; of
+   - 3°. kinderopvangtoeslag als bedoeld in de Wet kinderopvang, waarvan het openstaande bedrag ten minste € 500 bedraagt; of
 
-- 4°. kindgebonden budget als bedoeld in de Wet op het kindgebonden budget, waarvan het openstaande bedrag ten minste € 500 bedraagt.
+   - 4°. kindgebonden budget als bedoeld in de Wet op het kindgebonden budget, waarvan het openstaande bedrag ten minste € 500 bedraagt.
 
 2. De Belastingdienst en de Dienst Toeslagen verstrekken aan het college van burgemeester en wethouders van de gemeente Amsterdam, Apeldoorn, Arnhem, Assen, Den Haag, Hollands Kroon, Leiden, Nijmegen, Opsterland en Tilburg voor de uitoefening van de taak, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=3) de volgende gegevens:
 
@@ -190,4 +143,12 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+##### Artikel 3.1. Inwerkingtreding
+
+1. Deze regeling treedt in werking met ingang van 1 januari 2022.
+
+2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat de regeling zoals die luidde op 31 december 2029 van toepassing blijft op de dan lopende procedures en gegevensverstrekking.
+
+##### Artikel 3.2. Citeertitel
+
+Deze regeling wordt aangehaald als: Tijdelijke regeling signaal betalingsachterstanden.

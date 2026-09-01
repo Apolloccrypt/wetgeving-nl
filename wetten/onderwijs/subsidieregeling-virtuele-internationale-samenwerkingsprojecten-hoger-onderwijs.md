@@ -6,10 +6,11 @@ categorie: "Onderwijs"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-09-01
 laatste_update: 2021-11-20
-status: geldig
+status: vervallen
+vervallen_op: 2026-08-31
 toestand: 2021-11-20
 bron: "https://wetten.overheid.nl/BWBR0045301"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 juni 2021, nr. HO&S/27206364, houdende regels voor de subsidieverstrekking voor virtuele internationale samenwerkingsprojecten in het hoger onderwijs (Subsidieregeling virtuele internationale samenwerkingsprojecten hoger onderwijs)

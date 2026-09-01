@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2021, nr. 2021-0000494844, houdende instelling van de Nationaal Coördinator tegen Discriminatie en Racisme"
+citeertitel: "Besluit Instelling Nationaal Coördinator tegen Discriminatie en Racisme"
 identifier: "BWBR0045706"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-10-19"
-last_updated: "2021-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045706"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "16103223"
-version_id: "28089232"
-internal_id: "C39615471"
-label_id: "16034044"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045706/2021-10-19/0"
-intitule_bron: "Stcrt.2021-44309"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-14"
-intitule_published: "2021-10-18"
-intitule_in_force: "2021-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-44309"
-original_signed_date: "2021-10-14"
-original_published_date: "2021-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-44309"
-entry_into_force_date: "2021-10-19"
-jci_1_3: "jci1.3:c:BWBR0045706&z=2021-10-19&g=2021-10-19"
-jci_1_0: "1.0:c:BWBR0045706&g=2021-10-19"
-citeertitel_status: "officieel"
-short_title: "Besluit Instelling Nationaal Coördinator tegen Discriminatie en Racisme"
-signed_date: "2021-10-14"
-entry_into_force: "2021-10-19"
+publicatiedatum: 2021-10-19
+laatste_update: 2021-10-19
+status: geldig
+toestand: 2021-10-19
+bron: "https://wetten.overheid.nl/BWBR0045706"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2021, nr. 2021-0000494844, houdende instelling van de Nationaal Coördinator tegen Discriminatie en Racisme
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Nationaal Programma:** meerjarig programma van doelen en maatregelen om discriminatie en racisme effectief te bestrijden alsmede een jaarlijks actieprogramma.
+- *Nationaal Programma:* meerjarig programma van doelen en maatregelen om discriminatie en racisme effectief te bestrijden alsmede een jaarlijks actieprogramma.
 
-- **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
@@ -86,12 +58,10 @@ De Nationaal Coördinator tegen Discriminatie en Racisme heeft de volgende taken
 
 ##### Artikel 5
 
-1. Dit besluit treedt in werking met ingang van 15 oktober 2021.
+1. Dit besluit treedt in werking met ingang van 15 oktober 2021.
 
 2. Dit besluit vervalt op een door de Minister te bepalen tijdstip.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit Instelling Nationaal Coördinator tegen Discriminatie en Racisme.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

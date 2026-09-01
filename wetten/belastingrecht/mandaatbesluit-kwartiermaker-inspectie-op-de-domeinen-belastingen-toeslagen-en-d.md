@@ -1,52 +1,22 @@
 ---
 title: "Besluit tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane (Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane), d.d. 23 augustus 2021 (2021-158170)"
+citeertitel: "Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane"
 identifier: "BWBR0045579"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-04"
-last_updated: "2021-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045579"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "16069853"
-version_id: "27989592"
-internal_id: "C39482821"
-label_id: "16001684"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045579/2021-09-04/0"
-intitule_bron: "Stcrt.2021-39730"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-08-23"
-intitule_published: "2021-09-03"
-intitule_in_force: "2021-09-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-39730"
-original_signed_date: "2021-08-23"
-original_published_date: "2021-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-39730"
-entry_into_force_date: "2021-09-04"
-jci_1_3: "jci1.3:c:BWBR0045579&z=2021-09-04&g=2021-09-04"
-jci_1_0: "1.0:c:BWBR0045579&g=2021-09-04"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane"
-signed_date: "2021-08-23"
-entry_into_force: "2021-09-04"
+publicatiedatum: 2021-09-04
+laatste_update: 2021-09-04
+status: geldig
+toestand: 2021-09-04
+bron: "https://wetten.overheid.nl/BWBR0045579"
+opgehaald: 2026-09-01
 ---
+
 # Besluit tot verlening van mandaat, volmacht en machtiging aan de kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane (Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane), d.d. 23 augustus 2021 (2021-158170)
-
-Gelet op de op te richten inspectie op de domeinen belastingen, toeslagen en douane,
-
-Gelet op de benoeming van de kwartiermaker per 1 mei 2021,
-
-Gelet op [artikel 3 van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=3) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=7) en [8 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=8);
-
-Besluit:
 
 ##### Artikel 1. Verantwoordelijkheid
 
-De kwartiermaker is verantwoordelijk voor (de voorbereiding van) de oprichting en inrichting van een inspectie op de domeinen belastingen, toeslagen en douane, met inachtneming van zijn taakopdracht zoals opgenomen in de bijlage bij de Kamerbrief van 12 februari 2021 (Kamerstukken II, 2020/21, 31 066, nr. 787).
+De kwartiermaker is verantwoordelijk voor (de voorbereiding van) de oprichting en inrichting van een inspectie op de domeinen belastingen, toeslagen en douane, met inachtneming van zijn taakopdracht zoals opgenomen in de bijlage bij de Kamerbrief van 12 februari 2021 (Kamerstukken II, 2020/21, 31 066, nr. 787).
 
 ##### Artikel 2. Mandaat, volmacht en machtiging
 
@@ -56,9 +26,9 @@ De kwartiermaker is verantwoordelijk voor (de voorbereiding van) de oprichting e
 
 - b. het opstellen van het formatievoorstel;
 
-- c. het langs de lijn van de motie Leijten (Kamerstukken II 2020/21, 31 934, nr. 42) aandacht besteden aan de mogelijkheden voor de inspectie om een bijdrage te leveren aan (het toezicht op) de informatievoorziening en informatiehuishouding van de diensten en aan een goede informatievoorziening aan de inspectie en de benodigde informatiebevoegdheden;
+- c. het langs de lijn van de motie Leijten (Kamerstukken II 2020/21, 31 934, nr. 42) aandacht besteden aan de mogelijkheden voor de inspectie om een bijdrage te leveren aan (het toezicht op) de informatievoorziening en informatiehuishouding van de diensten en aan een goede informatievoorziening aan de inspectie en de benodigde informatiebevoegdheden;
 
-- d. de uitwerking van de borging van de onafhankelijke positionering en het onafhankelijk functioneren van de inspectie, binnen de kaders van de [Aanwijzingen inzake de rijksinspecties](onbekend) en indien nodig met gebruikmaking van de evaluatie van deze Aanwijzingen;
+- d. de uitwerking van de borging van de onafhankelijke positionering en het onafhankelijk functioneren van de inspectie, binnen de kaders van de [Aanwijzingen inzake de rijksinspecties](https://wetten.overheid.nl/BWBR0037073) en indien nodig met gebruikmaking van de evaluatie van deze Aanwijzingen;
 
 - e. de voorbereiding van de benoeming van een Inspecteur-Generaal voor de inspectie door de ministerraad;
 
@@ -82,12 +52,10 @@ De kwartiermaker heeft een onafhankelijke positie en legt rechtstreeks verantwoo
 
 ##### Artikel 4. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en zij werkt terug tot en met 1 mei 2021.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en zij werkt terug tot en met 1 mei 2021.
 
 2. Dit besluit geldt tot en met de dag waarop de inspectie op de domeinen belastingen, toeslagen en douane formeel wordt opgericht, inclusief de benoeming van een Inspecteur-Generaal.
 
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit kwartiermaker inspectie op de domeinen belastingen, toeslagen en douane.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

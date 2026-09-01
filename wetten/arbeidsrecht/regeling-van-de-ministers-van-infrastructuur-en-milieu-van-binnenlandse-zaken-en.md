@@ -9,7 +9,7 @@ laatste_update: 2017-08-01
 status: geldig
 toestand: 2017-08-01
 bron: "https://wetten.overheid.nl/BWBR0039614"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Ministers van Infrastructuur en Milieu, van Binnenlandse Zaken en Koninkrijksrelaties, van Sociale Zaken en Werkgelegenheid en van Volksgezondheid, Welzijn en Sport van 7 juni 2017, nr. IENM/BSK-2016/229044, tot wijziging van de Regeling beveiliging nucleaire inrichtingen en splijtstoffen, de Regeling buitengebruikstelling en ontmanteling nucleaire inrichtingen, de Regeling detectie radioactief besmet schroot, de Regeling implementatie richtlijn nr. 2009/71/Euratom inzake nucleaire veiligheid, de Regeling nucleaire drukapparatuur, de Regeling stralingsbescherming werknemers 2014, de Regeling vervoer over de binnenwateren van gevaarlijke stoffen, de Regeling vervoer over de spoorweg van gevaarlijke stoffen, de Regeling vervoer over land van gevaarlijke stoffen en de Uitvoeringsregeling stralingsbescherming EZ in verband met de Wet tot wijziging van de Kernenergiewet in verband met de instelling van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming (Stb. 2016, 180)

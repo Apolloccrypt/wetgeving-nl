@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 27 januari 2022, nr. IENW/BSK-2021/330670, houdende de aanwijzing van Bonaire International Airport"
+citeertitel: "Aanwijzingsregeling luchtvaartterrein Bonaire"
 identifier: "BWBR0046241"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046241"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "16247503"
-version_id: "28384002"
-internal_id: "C40035301"
-label_id: "16174904"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046241/2022-04-01/0"
-intitule_bron: "Stcrt.2022-40"
-intitule_effect: "wijziging"
-intitule_signed: "2022-01-27"
-intitule_published: "2022-01-28"
-intitule_in_force: "2022-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-40"
-original_signed_date: "2022-01-27"
-original_published_date: "2022-01-28"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-40"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBR0046241&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0046241&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzingsregeling luchtvaartterrein Bonaire"
-signed_date: "2022-01-27"
-entry_into_force: "2022-04-01"
+publicatiedatum: 2022-04-01
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0046241"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 27 januari 2022, nr. IENW/BSK-2021/330670, houdende de aanwijzing van Bonaire International Airport
-
-Gelet op de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=30), [31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=31), [33, eerste en tweede lid, van de Luchtvaartwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028549&artikel=33);
-
-BESLUIT:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -48,7 +22,7 @@ BESLUIT:
 
 2. Het luchtvaartterrein is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046241&bijlage=1&z=2022-04-01&g=2022-04-01) bij deze regeling.
 
-3. Het gebruiksjaar van het luchtvaartterrein omvat de periode van 1 november van enig jaar tot en met 31 oktober van het daaropvolgende jaar.
+3. Het gebruiksjaar van het luchtvaartterrein omvat de periode van 1 november van enig jaar tot en met 31 oktober van het daaropvolgende jaar.
 
 ##### Artikel 2
 
@@ -82,18 +56,8 @@ De [Regeling heraanwijzing luchtvaartterreinen BES](https://wetten.overheid.nl/j
 
 ##### Artikel 7
 
-Deze regeling treedt in werking met ingang van 1 april 2022.
+Deze regeling treedt in werking met ingang van 1 april 2022.
 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Aanwijzingsregeling luchtvaartterrein Bonaire.
-
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046241&paragraaf=1&artikel=1&z=2022-04-01&g=2022-04-01)
-
-Kaart met luchtvaartterrein en indeling
-
-## Bijlage 2. behorende bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046241&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01)
-
-Kaart met aanduiding geluidszone
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

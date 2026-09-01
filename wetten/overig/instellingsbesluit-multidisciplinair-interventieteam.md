@@ -1,58 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Defensie, het College van procureurs-generaal en de korpschef van 17 december 2021, nr. 3708729, tot instelling van het multidisciplinair interventieteam (Instellingsbesluit multidisciplinair interventieteam)"
+citeertitel: "Instellingsbesluit multidisciplinair interventieteam"
 identifier: "BWBR0046065"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-23"
-last_updated: "2021-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046065"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16195353"
-version_id: "28263432"
-internal_id: "C39850181"
-label_id: "16123654"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046065/2021-12-23/0"
-intitule_bron: "Stcrt.2021-50379"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-17"
-intitule_published: "2021-12-22"
-intitule_in_force: "2021-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-50379"
-original_signed_date: "2021-12-17"
-original_published_date: "2021-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-50379"
-entry_into_force_date: "2021-12-23"
-jci_1_3: "jci1.3:c:BWBR0046065&z=2021-12-23&g=2021-12-23"
-jci_1_0: "1.0:c:BWBR0046065&g=2021-12-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit multidisciplinair interventieteam"
-signed_date: "2021-12-17"
-entry_into_force: "2021-12-23"
+publicatiedatum: 2021-12-23
+laatste_update: 2021-12-23
+status: geldig
+toestand: 2021-12-23
+bron: "https://wetten.overheid.nl/BWBR0046065"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid, de Minister van Financiën, de Minister van Defensie, het College van procureurs-generaal en de korpschef van 17 december 2021, nr. 3708729, tot instelling van het multidisciplinair interventieteam (Instellingsbesluit multidisciplinair interventieteam)
-
-Overwegende dat:
-
-De Tweede Kamer op 19 september 2019 met overgrote meerderheid de motie Heerma en Dijkhoff (Kamerstukken II 2019/20, 35 300, nr. 13) heeft aangenomen waarin werd verzocht een multidisciplinair interventieteam ondermijning in te richten.
-
-De aanpak van georganiseerde, ondermijnende criminaliteit al lang niet meer alleen een strafrechtelijke aangelegenheid is, maar overheid breed prioriteit heeft.
-
-Vanuit de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, Koninklijke marechaussee, andere operationele onderdelen van het Ministerie van Defensie, de politie en het openbaar ministerie er behoefte is aan een integrale aanpak op landelijk en internationaal niveau om de georganiseerde, ondermijnende criminaliteit de komende jaren verder terug te dringen en Nederland minder aantrekkelijk te maken voor de vooral internationaal georganiseerde criminaliteit. Het multidisciplinair interventieteam (MIT) vormt de gewenste aanvulling op de bestaande aanpak en vervult een vliegwielfunctie voor innovatie en samenwerking.
-
-De doelstelling van het MIT is het blootleggen en duurzaam verstoren van criminele structuren, bedrijfsprocessen en verdienmodellen, die verweven zijn met of misbruik maken van legale structuren en de legale economie. Het MIT richt zich specifiek op die vormen van de (inter)nationale georganiseerde, ondermijnende criminaliteit die een bedreiging vormen voor de democratische rechtsorde en de nationale veiligheid.
-
-Het MIT dit doet door multidisciplinair, data gedreven, systemisch en innovatief te werk te gaan. Daarbij wordt informatie, kennis en expertise gedeeld, is er meer coördinatie en overzicht om tot betere keuzes voor interventies te komen die met meer effect, worden gepleegd. Het MIT zal systemische bedreigingen in kaart brengen d.m.v. integrale data-analyse, en deze (laten) verstoren en bestrijden door middel van interventies.
-
-Het MIT een samenwerkingsverband is tussen en van bovengenoemde organisaties op het gebied van gegevensverwerking en operationele activiteiten.
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -60,27 +20,27 @@ Besluit:
 
 1. In dit besluit wordt verstaan onder:
 
-- –. **de ministers:** de Minister van Justitie en Veiligheid, de Minister van Financiën en de Minister van Defensie;
+- – *de ministers:* de Minister van Justitie en Veiligheid, de Minister van Financiën en de Minister van Defensie;
 
-- –. **de korpschef:** de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- – *de korpschef:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- –. **het MIT:** het samenwerkingsverband, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-12-23&g=2021-12-23);
+- – *het MIT:* het samenwerkingsverband, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-12-23&g=2021-12-23);
 
-- –. **samenwerkende organisaties:** de politie, de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, de Koninklijke marechaussee en andere operationele onderdelen van het Ministerie van Defensie en het openbaar ministerie;
+- – *samenwerkende organisaties:* de politie, de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, de Koninklijke marechaussee en andere operationele onderdelen van het Ministerie van Defensie en het openbaar ministerie;
 
-- –. **deelnemende operationele organisaties:** de politie, de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, de Koninklijke marechaussee en andere operationele onderdelen van het Ministerie van Defensie;
+- – *deelnemende operationele organisaties:* de politie, de Douane, de Belastingdienst, de Fiscale inlichtingen- en opsporingsdienst, de Koninklijke marechaussee en andere operationele onderdelen van het Ministerie van Defensie;
 
-- –. **de stuurgroep MIT:** de stuurgroep, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2021-12-23&g=2021-12-23);
+- – *de stuurgroep MIT:* de stuurgroep, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2021-12-23&g=2021-12-23);
 
-- –. **het programmateam MIT:** het programmateam, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-12-23&g=2021-12-23);
+- – *het programmateam MIT:* het programmateam, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2021-12-23&g=2021-12-23);
 
-- –. **het SKO:** het strategisch kaderoverleg, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-12-23&g=2021-12-23);
+- – *het SKO:* het strategisch kaderoverleg, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.2&artikel=7&z=2021-12-23&g=2021-12-23);
 
-- –. **het MIO:** het multi interventie overleg, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-12-23&g=2021-12-23);
+- – *het MIO:* het multi interventie overleg, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.2&artikel=8&z=2021-12-23&g=2021-12-23);
 
-- –. **bevoegd gezag:** degene die als zodanig is benoemd in de toepasselijke rechtspositionele regelgeving van een ambtenaar van een deelnemende operationele organisatie;
+- – *bevoegd gezag:* degene die als zodanig is benoemd in de toepasselijke rechtspositionele regelgeving van een ambtenaar van een deelnemende operationele organisatie;
 
-- –. **gezag:** degene die beslissingsbevoegdheid heeft over de inzet en het optreden van een ambtenaar van een deelnemende operationele organisatie.
+- – *gezag:* degene die beslissingsbevoegdheid heeft over de inzet en het optreden van een ambtenaar van een deelnemende operationele organisatie.
 
 2. Voor de toepassing van dit besluit worden met mandaat en ondermandaat gelijkgesteld de verlening en het doorgeven van een machtiging om in naam van de Minister van Justitie en Veiligheid, de Minister van Financiën of de Minister van Defensie, dan wel om in naam van de korpschef handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
@@ -118,17 +78,17 @@ De verwerkingsverantwoordelijken van de politie, de Douane, de Belastingdienst, 
 
 - a. het overleggen over:
 
-- i. het jaarplan;
+   - i. het jaarplan;
 
-- ii. het jaarlijkse bestedingsplan;
+   - ii. het jaarlijkse bestedingsplan;
 
-- iii. de vier-, acht- en twaalfmaands-managementrapportages over de uitvoering van het jaarplan;
+   - iii. de vier-, acht- en twaalfmaands-managementrapportages over de uitvoering van het jaarplan;
 
-- iv. het jaarverslag;
+   - iv. het jaarverslag;
 
-- v. de facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van het MIT;
+   - v. de facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van het MIT;
 
-- vi. de nadere invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-12-23&g=2021-12-23), omschreven taak en opdracht van het MIT en de implementatie ervan;
+   - vi. de nadere invulling van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046065&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2021-12-23&g=2021-12-23), omschreven taak en opdracht van het MIT en de implementatie ervan;
 
 - b. het verstrekken aan de Minister van Justitie en Veiligheid, in de hoedanigheid van coördinerend minister, van viermaands-, achtmaands- en twaalfmaands-managementrapportages over de uitvoering van het jaarplan;
 
@@ -251,5 +211,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit multidisciplinair interventieteam.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 18 februari 2022, kenmerk 3804584, houdende verlening van mandaat aan de Inspecteur-Generaal Leefomgeving en Transport en aanwijzing van ambtenaren voor de uitoefening van het toezicht op de naleving van de Wet ter Bescherming Koopvaardij"
+citeertitel: "Besluit verlening mandaat aan Inspecteur-Generaal Leefomgeving en Transport en aanwijzing ambtenaren voor uitoefening van toezicht op naleving Wet ter Bescherming Koopvaardij"
 identifier: "BWBR0046382"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-04"
-last_updated: "2022-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046382"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16285283"
-version_id: "28451112"
-internal_id: "C40147101"
-label_id: "16211234"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046382/2022-03-04/0"
-intitule_bron: "Stcrt.2022-6020"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-02-18"
-intitule_published: "2022-03-03"
-intitule_in_force: "2022-03-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-6020"
-original_signed_date: "2022-02-18"
-original_published_date: "2022-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-6020"
-entry_into_force_date: "2022-03-04"
-jci_1_3: "jci1.3:c:BWBR0046382&z=2022-03-04&g=2022-03-04"
-jci_1_0: "1.0:c:BWBR0046382&g=2022-03-04"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlening mandaat aan Inspecteur-Generaal Leefomgeving en Transport en aanwijzing ambtenaren voor uitoefening van toezicht op naleving Wet ter Bescherming Koopvaardij"
-signed_date: "2022-02-18"
-entry_into_force: "2022-03-04"
+publicatiedatum: 2022-03-04
+laatste_update: 2022-03-04
+status: geldig
+toestand: 2022-03-04
+bron: "https://wetten.overheid.nl/BWBR0046382"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 18 februari 2022, kenmerk 3804584, houdende verlening van mandaat aan de Inspecteur-Generaal Leefomgeving en Transport en aanwijzing van ambtenaren voor de uitoefening van het toezicht op de naleving van de Wet ter Bescherming Koopvaardij
-
-Gelet op [artikel 16, eerste lid van de Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=16) en [artikel 10:3 lid 1 Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid; en
+- a. *minister:* Minister van Justitie en Veiligheid; en
 
-- b. **mandaat:** bevoegdheid om in naam van de Minister besluiten te nemen.
+- b. *mandaat:* bevoegdheid om in naam van de Minister besluiten te nemen.
 
 ##### Artikel 2
 
@@ -80,6 +54,4 @@ gevolgd door de aanduiding van de gemandateerde functionaris.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 februari 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 februari 2022.

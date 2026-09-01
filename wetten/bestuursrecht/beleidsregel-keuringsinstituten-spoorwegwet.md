@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 1 november 2021 nr. ILT-2021/61062 over de erkenning van medische en psychologische keuringsinstituten en de goedkeuring van keuringsreglementen (Beleidsregel keuringsinstituten Spoorwegwet)"
+citeertitel: "Beleidsregel keuringsinstituten Spoorwegwet"
 identifier: "BWBR0045965"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2021-12-02"
-last_updated: "2021-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045965"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "16167383"
-version_id: "28207222"
-internal_id: "C39763541"
-label_id: "16095814"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045965/2021-12-02/0"
-intitule_bron: "Stcrt.2021-48439"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-01"
-intitule_published: "2021-12-01"
-intitule_in_force: "2021-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-48439"
-original_signed_date: "2021-11-01"
-original_published_date: "2021-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-48439"
-entry_into_force_date: "2021-12-02"
-jci_1_3: "jci1.3:c:BWBR0045965&z=2021-12-02&g=2021-12-02"
-jci_1_0: "1.0:c:BWBR0045965&g=2021-12-02"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel keuringsinstituten Spoorwegwet"
-signed_date: "2021-11-01"
-entry_into_force: "2021-12-02"
+publicatiedatum: 2021-12-02
+laatste_update: 2021-12-02
+status: geldig
+toestand: 2021-12-02
+bron: "https://wetten.overheid.nl/BWBR0045965"
+opgehaald: 2026-09-01
 ---
+
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 1 november 2021 nr. ILT-2021/61062 over de erkenning van medische en psychologische keuringsinstituten en de goedkeuring van keuringsreglementen (Beleidsregel keuringsinstituten Spoorwegwet)
-
-Gelet op [artikel 4:81 van de Algemene Wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 10, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=10), en [19, eerste en tweede lid, van het Besluit spoorwegpersoneel 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030006&artikel=19);
-
-Besluit:
 
 ##### Artikel 1. (gelijktijdige behandeling)
 
@@ -109,5 +83,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel keuringsinstituten Spoorwegwet.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -5,11 +5,11 @@ identifier: "BWBR0034180"
 categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-05-12
-laatste_update: 2026-02-16
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-02-16
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0034180"
-opgehaald: 2026-08-20
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2013, nr. 2013-0000435969, houdende regels ter uitvoering van de Kieswet en het Kiesbesluit (Kiesregeling)

@@ -1,59 +1,33 @@
 ---
 title: "Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021"
 identifier: "BWBR0045932"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-01"
-last_updated: "2021-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045932"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "16161033"
-version_id: "28197372"
-internal_id: "C39752021"
-label_id: "16089484"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045932/2021-12-01/0"
-intitule_bron: "Stcrt.2021-47810"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-28"
-intitule_published: "2021-11-30"
-intitule_in_force: "2021-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-47810"
-original_signed_date: "2021-10-28"
-original_published_date: "2021-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-47810"
-entry_into_force_date: "2021-12-01"
-jci_1_3: "jci1.3:c:BWBR0045932&z=2021-12-01&g=2021-12-01"
-jci_1_0: "1.0:c:BWBR0045932&g=2021-12-01"
-citeertitel_status: "officieel"
-signed_date: "2021-10-28"
-entry_into_force: "2021-12-01"
+publicatiedatum: 2021-12-01
+laatste_update: 2021-12-01
+status: geldig
+toestand: 2021-12-01
+bron: "https://wetten.overheid.nl/BWBR0045932"
+opgehaald: 2026-09-01
 ---
+
 # Regeling werkgeverstegemoetkoming langdurige inzet reservisten 2021
-
-Gelet op [artikel 12l van de Wet Ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- **Civiele werkgever:**
+- *Civiele werkgever:*
 
-- 1). De werkgever, niet zijnde het Ministerie van Defensie, waar de reservist is aangesteld dan wel met wie hij een arbeidsovereenkomst naar burgerlijk recht, of overeenkomstig, heeft gesloten;
+   - 1) De werkgever, niet zijnde het Ministerie van Defensie, waar de reservist is aangesteld dan wel met wie hij een arbeidsovereenkomst naar burgerlijk recht, of overeenkomstig, heeft gesloten;
 
-- 2). de reservist zelf, wanneer hij zelfstandig werkzaam is, al dan niet personeel in dienst heeft en kan aantonen dat hij met zijn activiteiten als zelfstandig ondernemer structureel in zijn levensonderhoud voorziet;
+   - 2) de reservist zelf, wanneer hij zelfstandig werkzaam is, al dan niet personeel in dienst heeft en kan aantonen dat hij met zijn activiteiten als zelfstandig ondernemer structureel in zijn levensonderhoud voorziet;
 
-- **Langdurige inzet:** verblijf in werkelijke dienst voor een onafgebroken periode van drie maanden of langer, voor tenminste 24 uur per week, dat is vastgelegd in een ‘Beschikking oproep in werkelijke dienst’;
+- *Langdurige inzet:* verblijf in werkelijke dienst voor een onafgebroken periode van drie maanden of langer, voor tenminste 24 uur per week, dat is vastgelegd in een ‘Beschikking oproep in werkelijke dienst’;
 
-- **Reservist:** de militair die wordt opgeroepen in werkelijke dienst op grond van het tweede lid onder a van [artikel 12l van de Wet Ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l);
+- *Reservist:* de militair die wordt opgeroepen in werkelijke dienst op grond van het tweede lid onder a van [artikel 12l van de Wet Ambtenaren Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12l);
 
-- **Werkdag:** een aaneengesloten tijdruimte waarin werkzaamheden of diensten worden verricht en die is gelegen tussen twee voorgeschreven opeenvolgende onafgebroken rusttijden.
+- *Werkdag:* een aaneengesloten tijdruimte waarin werkzaamheden of diensten worden verricht en die is gelegen tussen twee voorgeschreven opeenvolgende onafgebroken rusttijden.
 
 ##### Artikel 2. Werkgeverstegemoetkoming bij langdurige inzet
 
@@ -73,13 +47,13 @@ In deze regeling wordt verstaan onder:
 
 2. Bij de aanvraag dienen de volgende bewijsstukken te worden overlegd:
 
-- •. Een afschrift van de “Beschikking oproep in werkelijke dienst” met daarin opgenomen de periode van langdurige inzet van de reservist;
+- • Een afschrift van de “Beschikking oproep in werkelijke dienst” met daarin opgenomen de periode van langdurige inzet van de reservist;
 
-- •. Een bewijs van het bestaan van de arbeidsrelatie dan wel schriftelijke bewijsvoering dat het zelfstandig ondernemerschap wordt gevoerd;
+- • Een bewijs van het bestaan van de arbeidsrelatie dan wel schriftelijke bewijsvoering dat het zelfstandig ondernemerschap wordt gevoerd;
 
-- •. Bij zelfstandig ondernemerschap een bewijs dat direct voorafgaand aan de langdurige inzet met dit ondernemerschap structureel in het levensonderhoud werd voorzien en
+- • Bij zelfstandig ondernemerschap een bewijs dat direct voorafgaand aan de langdurige inzet met dit ondernemerschap structureel in het levensonderhoud werd voorzien en
 
-- •. Bij zelfstandig ondernemerschap een bewijs dat er kosten worden gemaakt voor het laten voortbestaan van de zelfstandige onderneming gedurende de langdurige inzet.
+- • Bij zelfstandig ondernemerschap een bewijs dat er kosten worden gemaakt voor het laten voortbestaan van de zelfstandige onderneming gedurende de langdurige inzet.
 
 3. De aanvraag voor toepassing van de Regeling kan worden ingediend uiterlijk één jaar na de aanvang van de langdurige inzet, waarvoor deze wordt aangevraagd.
 
@@ -104,5 +78,3 @@ De [regeling werkgeverstegemoetkoming langdurig inzet reservisten](https://wette
 ##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling wordt met toelichting gepubliceerd in de Staatscourant.

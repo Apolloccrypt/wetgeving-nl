@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing mensenhandel"
 identifier: "BWBR0046368"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046368"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16282493"
-version_id: "28447052"
-internal_id: "C40141311"
-label_id: "16208734"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046368/2022-04-01/0"
-intitule_bron: "Stcrt.2022-5901"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-03-02"
-intitule_in_force: "2022-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-5901"
-original_published_date: "2022-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-5901"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBR0046368&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0046368&g=2022-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-04-01"
+publicatiedatum: 2022-04-01
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0046368"
+opgehaald: 2026-09-01
 ---
+
 # Aanwijzing mensenhandel
 
 ### Samenvatting
@@ -38,17 +19,29 @@ Deze aanwijzing beschrijft en geeft regels voor de strafrechtelijke aanpak van m
 
 Uitgangspunten zijn:
 
+- • mensenhandel wordt integraal aangepakt;
+
+- • signalen van mensenhandel worden in alle gevallen opgepakt;
+
+- • relevante aanknopingspunten voor onderzoek worden, in overleg met de officier van justitie, onderzocht en leiden zo mogelijk tot vervolging;
+
+- • een financieel onderzoek maakt een vast onderdeel uit van het opsporingsonderzoek en bij de vervolging wordt ingezet op afnemen van het wederrechtelijk verkregen vermogen;
+
+- • bij de aanpak wordt indien mogelijk internationale samenwerking gezocht;
+
+- • slachtofferzorg neemt een centrale plaats in. Slachtoffers worden correct bejegend en met aandacht voor hun specifieke situatie. Slachtoffers worden ondersteund tijdens de rechtsgang, bijvoorbeeld bij het verkrijgen van een schadevergoeding. Slachtoffers worden beschermd tegen vervolging ter zake van strafbare feiten waartoe zij als slachtoffer van mensenhandel zijn gedwongen en beschermd tegen secundaire victimisatie.
+
 ### 1. Achtergrond
 
 ### 1.1. Wijzigingen
 
-Ten opzichte van de [vorige aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0033564) zijn enkel kleine wijzigingen doorgevoerd. Het betreft de verwerking van veranderde regelgeving (de implementatie van [Richtlijn 2011/36](32011L0036)/EU: PbEU 2011, L 101/1) en van wijzigingen in de werkwijze van het Expertisecentrum Mensenhandel en Mensensmokkel (EMM) (in § 1.3.). Daarnaast zijn er kleine redactionele verbeteringen doorgevoerd.
+Ten opzichte van de [vorige aanwijzing](https://wetten.overheid.nl/jci1.3:c:BWBR0033564) zijn enkel kleine wijzigingen doorgevoerd. Het betreft de verwerking van veranderde regelgeving (de implementatie van Richtlijn 2011/36/EU: PbEU 2011, L 101/1) en van wijzigingen in de werkwijze van het Expertisecentrum Mensenhandel en Mensensmokkel (EMM) (in § 1.3.). Daarnaast zijn er kleine redactionele verbeteringen doorgevoerd.
 
 ### 1.2. Mensenhandel is gericht op uitbuiting
 
 Mensenhandel is moderne slavernij. ‘Uitbuiting’ is de centrale term waar het gaat om mensenhandel. De bekendste variant is seksuele uitbuiting. Als verzamelnaam voor mensenhandel anders dan in de zin van seksuele uitbuiting wordt de term “overige uitbuiting” gebruikt. Het gaat daarbij vooral om arbeidsuitbuiting in reguliere arbeid of diensten, zoals in de horeca, de uitzendsector, bij de uitvoering van grote infrastructurele projecten of in de land- en tuinbouw. Andere vormen van uitbuiting zijn gedwongen bedelarij, gedwongen orgaanverwijdering en het onder dwang laten plegen van criminele activiteiten (criminele uitbuiting).
 
-Mensenhandel vormt een grove inbreuk op de menselijke waardigheid en de lichamelijke en geestelijke integriteit van slachtoffers en wordt gezien als schending van fundamentele mensenrechten (art. 4 Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)). Het Handvest van de grondrechten van de Europese Unie verbiedt mensenhandel expliciet.1**PbEU** 2016, C 202/389. Daarom krijgt mensenhandel, zowel nationaal als internationaal, al jaren prioriteit in de opsporing en vervolging en staat er een zware strafbedreiging op mensenhandel.
+Mensenhandel vormt een grove inbreuk op de menselijke waardigheid en de lichamelijke en geestelijke integriteit van slachtoffers en wordt gezien als schending van fundamentele mensenrechten (art. 4 Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)). Het Handvest van de grondrechten van de Europese Unie verbiedt mensenhandel expliciet.1*PbEU* 2016, C 202/389. Daarom krijgt mensenhandel, zowel nationaal als internationaal, al jaren prioriteit in de opsporing en vervolging en staat er een zware strafbedreiging op mensenhandel.
 
 ### 1.3. Integrale aanpak, bestuursrechtelijke en strafrechtelijke handhaving
 
@@ -88,27 +81,27 @@ Waar mogelijk zal het opsporingsonderzoek moeten leiden tot vervolging. Dat geld
 
 ### 3.2. Niet-vervolging en niet-bestraffing van slachtoffers
 
-Het is niet wenselijk dat een slachtoffer van mensenhandel wordt aangemerkt als verdachte indien de strafbare gedraging waarvan het slachtoffer wordt verdacht gedurende een uitbuitingssituatie is gepleegd. De bescherming die voortvloeit uit het non-prosecution- en het non-punishment-beginsel hoeft niet in de weg te staan aan een vervolging of bestraffing voor misdrijven die zij vrijwillig hebben begaan of waaraan zij vrijwillig hebben deelgenomen.6Zie overweging 14 en art. 8 van de [Richtlijn 2011/36](32011L0036)/EU, **PbEU** 2011, L 101/1. In de gevallen waarin het evident is dat slachtoffers gedwongen zijn tot het plegen van misdrijven kan worden gedacht aan bijvoorbeeld een sepot, het vorderen van schuldigverklaring zonder oplegging van straf ([art. 9a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a)), of het toepassen van strafuitsluitingsgronden en/of strafvermindering.
+Het is niet wenselijk dat een slachtoffer van mensenhandel wordt aangemerkt als verdachte indien de strafbare gedraging waarvan het slachtoffer wordt verdacht gedurende een uitbuitingssituatie is gepleegd. De bescherming die voortvloeit uit het non-prosecution- en het non-punishment-beginsel hoeft niet in de weg te staan aan een vervolging of bestraffing voor misdrijven die zij vrijwillig hebben begaan of waaraan zij vrijwillig hebben deelgenomen.6Zie overweging 14 en art. 8 van de Richtlijn 2011/36/EU, *PbEU* 2011, L 101/1. In de gevallen waarin het evident is dat slachtoffers gedwongen zijn tot het plegen van misdrijven kan worden gedacht aan bijvoorbeeld een sepot, het vorderen van schuldigverklaring zonder oplegging van straf ([art. 9a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a)), of het toepassen van strafuitsluitingsgronden en/of strafvermindering.
 
 ### 4. Verantwoordelijkheden ten aanzien van slachtoffers van mensenhandel
 
 Slachtofferzorg neemt een centrale plaats in bij de aanpak van mensenhandel. Het gaat daarbij niet alleen om het middels strafrechtelijke interventies recht doen aan slachtoffers, maar ook om een correcte bejegening en bescherming van het slachtoffer en om ondersteuning tijdens het strafrechtelijk onderzoek en de rechtsgang, bijvoorbeeld bij het verkrijgen van een schadevergoeding.7Zie de Aanwijzing slachtofferrechten.
 
-### 4.1. Rechtmatig verblijf [(paragraaf B8/3 Vc](onbekend)Modern Migratiebeleid)
+### 4.1. Rechtmatig verblijf (paragraaf B8/3 Vc Modern Migratiebeleid)
 
-[Paragraaf B8/3 van de Vreemdelingencirculaire](onbekend) (Vc) Modern Migratiebeleid regelt het rechtmatige verblijf van slachtoffers en getuigen die aangifte doen of op andere wijze medewerking verlenen aan het opsporings- of vervolgingsonderzoek. Op grond van deze regeling kunnen deze personen gedurende langere tijd ter beschikking blijven van het OM. Dat is voor het strafrechtelijk onderzoek van het grootste belang. Ten behoeve van een goede uitvoering van deze regeling informeert het OM de IND zo snel mogelijk over de daarvoor relevante beslissingen en uitspraken in de fase van onderzoek, vervolging en berechting.
+[Paragraaf B8/3 van de Vreemdelingencirculaire](https://wetten.overheid.nl/BWBR0012289) (Vc) Modern Migratiebeleid regelt het rechtmatige verblijf van slachtoffers en getuigen die aangifte doen of op andere wijze medewerking verlenen aan het opsporings- of vervolgingsonderzoek. Op grond van deze regeling kunnen deze personen gedurende langere tijd ter beschikking blijven van het OM. Dat is voor het strafrechtelijk onderzoek van het grootste belang. Ten behoeve van een goede uitvoering van deze regeling informeert het OM de IND zo snel mogelijk over de daarvoor relevante beslissingen en uitspraken in de fase van onderzoek, vervolging en berechting.
 
 ### 4.2. Secundaire victimisatie
 
-Ieder slachtoffer van een strafbaar feit wordt, ter voorkoming van herhaald slachtofferschap, secundaire victimisatie (slachtoffer van het systeem), intimidatie en vergelding, door de politie en het OM aan de hand van criteria beoordeeld op individuele beschermingsbehoefte. Een Individuele Beoordeling (IB) is een wettelijke taak die voortvloeit uit de EU-richtlijn minimumnormen slachtoffers.8[Richtlijn 2012/29](32012L0029)/EU van het Europees parlement en de Raad van 25 oktober 2012 totvaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (**PbEU** 2012, L 315/57). Het palet aan beschermingsmaatregelen is breed, bijvoorbeeld het afschermen van adresgegevens, anoniem aangifte doen of een contact- of gebiedsverbod.
+Ieder slachtoffer van een strafbaar feit wordt, ter voorkoming van herhaald slachtofferschap, secundaire victimisatie (slachtoffer van het systeem), intimidatie en vergelding, door de politie en het OM aan de hand van criteria beoordeeld op individuele beschermingsbehoefte. Een Individuele Beoordeling (IB) is een wettelijke taak die voortvloeit uit de EU-richtlijn minimumnormen slachtoffers.8Richtlijn 2012/29/EU van het Europees parlement en de Raad van 25 oktober 2012 totvaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten (*PbEU* 2012, L 315/57). Het palet aan beschermingsmaatregelen is breed, bijvoorbeeld het afschermen van adresgegevens, anoniem aangifte doen of een contact- of gebiedsverbod.
 
 ### 4.2.1. Bescherming van slachtoffers tijdens het strafrechtelijk onderzoek
 
-Wanneer in een strafzaak het horen van het slachtoffer als getuige aan de orde komt, zal een belangenafweging moeten worden gemaakt tussen de bescherming van de persoonlijke levenssfeer, de veiligheid en gezondheid van het slachtoffer en het recht van de verdachte op een eerlijk proces. Het is in het belang van het slachtoffer dat ondervragingen zonder onnodige vertragingen plaatsvinden, dat het aantal ondervragingen zoveel mogelijk wordt beperkt en dat herhalingen worden vermeden. Daarnaast dient vermeden te worden dat visueel contact plaatsvindt tussen slachtoffer en verdachte, dat het slachtoffer als getuige moet optreden tijdens een openbare zitting en dat nodeloos vragen over het privéleven worden gesteld.9Zie art. 12 lid 4 van de [Richtlijn 2011/36](32011L0036)/EU, **PbEU** 2011, L 101/1. Het OM en de opsporingsdiensten dienen al het mogelijke te doen om aan deze belangen tegemoet te komen. De officier van justitie kan voorstellen het slachtoffer te horen buiten de openbaarheid en buiten de aanwezigheid van de verdachte, bijvoorbeeld door de inzet van moderne communicatiemiddelen. Andere alternatieven zijn een verhoor door de rechter-commissaris, het ter terechtzitting afspelen van de geluidsopname die is gemaakt van de belastende verklaring die het slachtoffer tegenover de opsporingsinstantie heeft afgelegd of het horen van de verbalisanten die het verhoor hebben afgenomen. Waar het gaat om het gebruik als bewijs van verklaringen van getuigen die door de verdediging vanwege specifieke omstandigheden niet kunnen worden gehoord, is het van belang dat de verklaringen in voldoende mate steun vinden in andere bewijsmiddelen.10Zie jurisprudentie met betrekking tot art. 6 EVRM van het EHRM in de zaak Keskin tegen Nederland (nr. 2205/16) en Hoge Raad 20 april 2021, ECLI:NL:HR:2021:576 alsmede PHR 9 mei 2020, ECLI:NL:PHR:2020:645 en Hof Amsterdam 25 mei 2016, ECLI:NL:GHAMS:2016:5900. In uitzonderlijke gevallen kan het slachtoffer als bedreigde getuige worden aangemerkt en anoniem worden gehoord door de rechter-commissaris ([art. 226a e.v. Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=226a)). In zo’n geval kan het slachtoffer ook deelnemen aan het getuigenbeschermingsprogramma. Verder kunnen de bepalingen in de [artt. 187-187d Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187) aan slachtoffer-getuigen bescherming bieden (beperkte anonimiteit).
+Wanneer in een strafzaak het horen van het slachtoffer als getuige aan de orde komt, zal een belangenafweging moeten worden gemaakt tussen de bescherming van de persoonlijke levenssfeer, de veiligheid en gezondheid van het slachtoffer en het recht van de verdachte op een eerlijk proces. Het is in het belang van het slachtoffer dat ondervragingen zonder onnodige vertragingen plaatsvinden, dat het aantal ondervragingen zoveel mogelijk wordt beperkt en dat herhalingen worden vermeden. Daarnaast dient vermeden te worden dat visueel contact plaatsvindt tussen slachtoffer en verdachte, dat het slachtoffer als getuige moet optreden tijdens een openbare zitting en dat nodeloos vragen over het privéleven worden gesteld.9Zie art. 12 lid 4 van de Richtlijn 2011/36/EU, *PbEU* 2011, L 101/1. Het OM en de opsporingsdiensten dienen al het mogelijke te doen om aan deze belangen tegemoet te komen. De officier van justitie kan voorstellen het slachtoffer te horen buiten de openbaarheid en buiten de aanwezigheid van de verdachte, bijvoorbeeld door de inzet van moderne communicatiemiddelen. Andere alternatieven zijn een verhoor door de rechter-commissaris, het ter terechtzitting afspelen van de geluidsopname die is gemaakt van de belastende verklaring die het slachtoffer tegenover de opsporingsinstantie heeft afgelegd of het horen van de verbalisanten die het verhoor hebben afgenomen. Waar het gaat om het gebruik als bewijs van verklaringen van getuigen die door de verdediging vanwege specifieke omstandigheden niet kunnen worden gehoord, is het van belang dat de verklaringen in voldoende mate steun vinden in andere bewijsmiddelen.10Zie jurisprudentie met betrekking tot art. 6 EVRM van het EHRM in de zaak Keskin tegen Nederland (nr. 2205/16) en Hoge Raad 20 april 2021, ECLI:NL:HR:2021:576 alsmede PHR 9 mei 2020, ECLI:NL:PHR:2020:645 en Hof Amsterdam 25 mei 2016, ECLI:NL:GHAMS:2016:5900. In uitzonderlijke gevallen kan het slachtoffer als bedreigde getuige worden aangemerkt en anoniem worden gehoord door de rechter-commissaris ([art. 226a e.v. Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=226a)). In zo’n geval kan het slachtoffer ook deelnemen aan het getuigenbeschermingsprogramma. Verder kunnen de bepalingen in de [artt. 187-187d Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=187) aan slachtoffer-getuigen bescherming bieden (beperkte anonimiteit).
 
 ### 4.2.2. Bescherming van minderjarige slachtoffers en slachtoffers met specifieke behoeften tijdens het strafrechtelijk onderzoek
 
-In aanvulling op het gestelde in paragraaf 2.1 verdienen minderjarige slachtoffers van mensenhandel specifieke aandacht. Waar mogelijk wordt het minderjarige slachtoffer steeds door dezelfde personen ondervraagd en vindt de ondervraging plaats in een daarvoor ontworpen of aangepaste ruimte. Daarnaast mag het minderjarige slachtoffer zich laten vergezellen door een vertegenwoordiger of een volwassene naar keuze van de minderjarige, behoudens uitzonderingen.11Zie art. 15 lid 3 van de [Richtlijn 2011/36](32011L0036)/EU, **PbEU** 2011, L 101/1. Tevens worden er, indien mogelijk, video-opnamen gemaakt van de ondervraging van het minderjarige slachtoffer of de minderjarige getuige, die als bewijs kunnen worden gebruikt in de strafprocedure.12Zie art. 15 lid 4 van de [Richtlijn 2011/36](32011L0036)/EU, **PbEU** 2011, L 101/1. Vergelijkbare maatregelen worden overwogen wanneer het slachtoffers met specifieke behoeften betreft, met name waar deze voortkomen uit zwangerschap, gezondheidstoestand, handicap, geestesstoornis of psychische aandoening, of waar die het gevolg zijn van ernstige vormen van psychisch, fysiek of seksueel geweld die zij hebben ondergaan.13Zie art. 11 lid 7 van de [Richtlijn 2011/36](32011L0036)/EU, **PbEU** 2011, L 101/1.
+In aanvulling op het gestelde in [paragraaf 2.1](https://wetten.overheid.nl/BWBR0046368) verdienen minderjarige slachtoffers van mensenhandel specifieke aandacht. Waar mogelijk wordt het minderjarige slachtoffer steeds door dezelfde personen ondervraagd en vindt de ondervraging plaats in een daarvoor ontworpen of aangepaste ruimte. Daarnaast mag het minderjarige slachtoffer zich laten vergezellen door een vertegenwoordiger of een volwassene naar keuze van de minderjarige, behoudens uitzonderingen.11Zie art. 15 lid 3 van de Richtlijn 2011/36/EU, *PbEU* 2011, L 101/1. Tevens worden er, indien mogelijk, video-opnamen gemaakt van de ondervraging van het minderjarige slachtoffer of de minderjarige getuige, die als bewijs kunnen worden gebruikt in de strafprocedure.12Zie art. 15 lid 4 van de Richtlijn 2011/36/EU, *PbEU* 2011, L 101/1. Vergelijkbare maatregelen worden overwogen wanneer het slachtoffers met specifieke behoeften betreft, met name waar deze voortkomen uit zwangerschap, gezondheidstoestand, handicap, geestesstoornis of psychische aandoening, of waar die het gevolg zijn van ernstige vormen van psychisch, fysiek of seksueel geweld die zij hebben ondergaan.13Zie art. 11 lid 7 van de Richtlijn 2011/36/EU, *PbEU* 2011, L 101/1.
 
 ### Overgangsrecht
 

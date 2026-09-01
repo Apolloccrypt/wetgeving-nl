@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2021, nr. IENW/BSK-2021/308633, houdende vaststelling van regels voor het verstrekken van subsidies voor de taakuitoefening van beheerders van de hoofdspoorweginfrastructuur (Subsidieregeling taakuitoefening beheerders van de HSWI)"
+citeertitel: "Subsidieregeling taakuitoefening beheerders van de HSWI"
 identifier: "BWBR0045984"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045984"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16170613"
-version_id: "28216332"
-internal_id: "C39778791"
-label_id: "16099254"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045984/2022-01-01/0"
-intitule_bron: "Stcrt.2021-47814"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-02"
-intitule_published: "2021-12-03"
-intitule_in_force: "2021-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-47814"
-original_signed_date: "2021-12-02"
-original_published_date: "2021-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-47814"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0045984&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0045984&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling taakuitoefening beheerders van de HSWI"
-signed_date: "2021-12-02"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0045984"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 2 december 2021, nr. IENW/BSK-2021/308633, houdende vaststelling van regels voor het verstrekken van subsidies voor de taakuitoefening van beheerders van de hoofdspoorweginfrastructuur (Subsidieregeling taakuitoefening beheerders van de HSWI)
-
-Gelet op de [artikelen 4:58](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:58), [4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) en [4:77 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:77), en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, tweede, onderdeel b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste en derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-BESLUIT:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,27 +20,27 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **beheerder:** houder van een concessie als bedoeld in [artikel 16, eerste lid, Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16);
+- *beheerder:* houder van een concessie als bedoeld in [artikel 16, eerste lid, Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16);
 
-- **dienstvoorziening:** dienstvoorziening als bedoeld in artikel 3, onderdeel 11, van [richtlijn 2012/34](32012L0034)/EU;
+- *dienstvoorziening:* dienstvoorziening als bedoeld in artikel 3, onderdeel 11, van richtlijn 2012/34/EU;
 
-- **hoofdspoorweginfrastructuur:** hoofdspoorweginfrastructuur als bedoeld in [artikel 1, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
+- *hoofdspoorweginfrastructuur:* hoofdspoorweginfrastructuur als bedoeld in [artikel 1, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **MIRT:** Meerjarenprogramma Infrastructuur, Ruimte en Transport;
+- *MIRT:* Meerjarenprogramma Infrastructuur, Ruimte en Transport;
 
-- **planuitwerkingsfase:** fase volgend op de verkenningsfase, waarin het voorkeursalternatief wordt uitgewerkt om te komen tot vaststelling van een project of programma;
+- *planuitwerkingsfase:* fase volgend op de verkenningsfase, waarin het voorkeursalternatief wordt uitgewerkt om te komen tot vaststelling van een project of programma;
 
-- **project:** ondeelbaar geheel van werkzaamheden ten behoeve van aanleg en verbetering van infrastructuur, tot de uitvoering waarvan in beginsel alleen als geheel besloten kan worden en waarbij afzonderlijke of gefaseerde uitvoering en ingebruikneming na voltooiing van een onderdeel niet zonder aanzienlijke meerkosten mogelijk is;
+- *project:* ondeelbaar geheel van werkzaamheden ten behoeve van aanleg en verbetering van infrastructuur, tot de uitvoering waarvan in beginsel alleen als geheel besloten kan worden en waarbij afzonderlijke of gefaseerde uitvoering en ingebruikneming na voltooiing van een onderdeel niet zonder aanzienlijke meerkosten mogelijk is;
 
-- **programma:** thematische of gebiedsgerichte opgave verband houdend met de hoofdspoorweginfrastructuur gericht op specifieke doelen binnen de doelstelling van [artikel 2, tweede lid, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=2);
+- *programma:* thematische of gebiedsgerichte opgave verband houdend met de hoofdspoorweginfrastructuur gericht op specifieke doelen binnen de doelstelling van [artikel 2, tweede lid, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=2);
 
-- **realisatiefase:** fase volgend op de planuitwerkingsfase, waarin het project of programma wordt uitgevoerd;
+- *realisatiefase:* fase volgend op de planuitwerkingsfase, waarin het project of programma wordt uitgevoerd;
 
-- **Standaardsystematiek voor Kostenramingen 2018:** ramingssystematiek die is vastgelegd in CROW-publicatie nr. D3049;
+- *Standaardsystematiek voor Kostenramingen 2018:* ramingssystematiek die is vastgelegd in CROW-publicatie nr. D3049;
 
-- **verkenningsfase:** fase volgend op de MIRT-startbeslissing van een project of programma, waarin mogelijke ontwerpen van een project worden afgewogen om te komen tot een voorkeursalternatief.
+- *verkenningsfase:* fase volgend op de MIRT-startbeslissing van een project of programma, waarin mogelijke ontwerpen van een project worden afgewogen om te komen tot een voorkeursalternatief.
 
 ##### Artikel 2. Activiteiten waarvoor een subsidie kan worden verstrekt
 
@@ -90,7 +64,7 @@ Een subsidie kan worden aangevraagd door een beheerder.
 
 Het subsidieplafond voor de subsidies wordt voor het desbetreffende begrotingsjaar vastgesteld door middel van de wet tot vaststelling van de begrotingsstaat van het Mobiliteitsfonds van dat begrotingsjaar.
 
-##### Artikel 6. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 6. Kaderbesluit subsidies I en M
 
 De artikelen van het [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) zijn van toepassing, tenzij in deze regeling of in het Kaderbesluit subsidies I en M anders is bepaald.
 
@@ -144,7 +118,7 @@ Deze paragraaf is van toepassing op de aanvraag, verlening en vaststelling van e
 
 1. De raming van de kosten, bedoeld in [artikel 8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=8&z=2022-01-01&g=2022-01-01), is voldoende onderbouwd. De subsidie-aanvrager vermeldt bij de raming welk prijspeil het betreft. De raming behelst de kosten inclusief btw.
 
-2. De raming van de kosten van de realisatiefase van een project, vindt, indien die kosten hoger zijn dan € 25 miljoen, plaats conform de Standaardsystematiek voor Kostenramingen 2018 of indien beschikbaar een actuelere versie daarvan, op basis van de rekenkundig gemiddelde waarde als de uitkomst van een probabilistische raming.
+2. De raming van de kosten van de realisatiefase van een project, vindt, indien die kosten hoger zijn dan € 25 miljoen, plaats conform de Standaardsystematiek voor Kostenramingen 2018 of indien beschikbaar een actuelere versie daarvan, op basis van de rekenkundig gemiddelde waarde als de uitkomst van een probabilistische raming.
 
 ##### Artikel 10. Hoogte subsidie
 
@@ -158,19 +132,19 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 - a. een plan van aanpak, waarin ten minste is opgenomen:
 
-- 1°. een omschrijving van de aard, omvang en urgentie van de opgave;
+   - 1° een omschrijving van de aard, omvang en urgentie van de opgave;
 
-- 2°. een onderbouwing van het nationale belang van het project of programma;
+   - 2° een onderbouwing van het nationale belang van het project of programma;
 
-- 3°. een beschrijving op hoofdlijnen van de aanpak van de verkenning, waaronder de afweging van mogelijke oplossingen en het besluitvormingsproces;
+   - 3° een beschrijving op hoofdlijnen van de aanpak van de verkenning, waaronder de afweging van mogelijke oplossingen en het besluitvormingsproces;
 
-- 4°. een omschrijving van de activiteiten waarvoor de subsidie wordt aangevraagd;
+   - 4°. een omschrijving van de activiteiten waarvoor de subsidie wordt aangevraagd;
 
-- 5°. een tijdschema van de verkenning;
+   - 5° een tijdschema van de verkenning;
 
-- 6°. een omschrijving van de belanghebbende partijen en hun betrokkenheid;
+   - 6° een omschrijving van de belanghebbende partijen en hun betrokkenheid;
 
-- 7°. een opgave van door derden ter beschikking gestelde budgetten voor de realisatie;
+   - 7° een opgave van door derden ter beschikking gestelde budgetten voor de realisatie;
 
 - b. een raming van de kosten van de verkenningsfase;
 
@@ -180,31 +154,31 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 - a. indien de verkenning is uitgevoerd door de subsidie-ontvanger, een eindverantwoording over de in de verkenningsfase behaalde resultaten en het voorkeursalternatief, waarin ten minste is opgenomen:
 
-- 1°. de in kaart gebrachte en afgewogen oplossingsrichtingen;
+   - 1° de in kaart gebrachte en afgewogen oplossingsrichtingen;
 
-- 2°. een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de totstandkoming van het voorkeursalternatief;
+   - 2° een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de totstandkoming van het voorkeursalternatief;
 
-- 3°. een ontwerp van het voorkeursalternatief;
+   - 3° een ontwerp van het voorkeursalternatief;
 
-- 4°. een raming van de kosten van het voorkeursalternatief inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
+   - 4° een raming van de kosten van het voorkeursalternatief inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
 
-- 5°. een beschrijving van de verkeers- en vervoerseffecten;
+   - 5° een beschrijving van de verkeers- en vervoerseffecten;
 
-- 6°. een milieueffectrapport, indien in de verkenningsfase een milieueffectrapportage heeft plaatsgevonden;
+   - 6° een milieueffectrapport, indien in de verkenningsfase een milieueffectrapportage heeft plaatsgevonden;
 
-- 7°. een maatschappelijke kosten-batenanalyse conform de Werkwijzer MKBA bij MIRT-verkenningen;
+   - 7° een maatschappelijke kosten-batenanalyse conform de Werkwijzer MKBA bij MIRT-verkenningen;
 
 - b. een plan van aanpak, waarin ten minste is opgenomen:
 
-- 1°. een beschrijving van de wijze waarop het voorkeursalternatief nader wordt uitgewerkt;
+   - 1° een beschrijving van de wijze waarop het voorkeursalternatief nader wordt uitgewerkt;
 
-- 2°. een omschrijving van de activiteiten waarvoor de subsidie wordt aangevraagd;
+   - 2° een omschrijving van de activiteiten waarvoor de subsidie wordt aangevraagd;
 
-- 3°. een planning van de nadere uitwerking en realisatie van het voorkeursalternatief;
+   - 3° een planning van de nadere uitwerking en realisatie van het voorkeursalternatief;
 
-- 4°. een raming van de kosten van het meest kosteneffectieve variant van het project of programma, indien het voorkeursalternatief hiervan afwijkt;
+   - 4° een raming van de kosten van het meest kosteneffectieve variant van het project of programma, indien het voorkeursalternatief hiervan afwijkt;
 
-- 5°. een overzicht van de beschikbare budgetten voor de bekostiging van het voorkeursalternatief en een omschrijving van de exploitatiegevolgen, indien het project of programma betreft ten behoeve van openbaar vervoer;
+   - 5° een overzicht van de beschikbare budgetten voor de bekostiging van het voorkeursalternatief en een omschrijving van de exploitatiegevolgen, indien het project of programma betreft ten behoeve van openbaar vervoer;
 
 - c. een raming van de kosten van de planuitwerkingsfase inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
 
@@ -214,23 +188,23 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 - a. een eindverantwoording over de in de planuitwerkingsfase behaalde resultaten, waarin ten minste is opgenomen:
 
-- 1°. een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de nadere uitwerking van het voorkeursalternatief;
+   - 1° een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de nadere uitwerking van het voorkeursalternatief;
 
-- 2°. een nadere uitwerking van het ontwerp van het voorkeursalternatief;
+   - 2° een nadere uitwerking van het ontwerp van het voorkeursalternatief;
 
-- 3°. een nadere uitwerking van de kostenraming van het voorkeursalternatief, inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
+   - 3° een nadere uitwerking van de kostenraming van het voorkeursalternatief, inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
 
-- 4°. een risicoanalyse inclusief een beschrijving van de beheersmaatregelen voor de belangrijkste risico’s;
+   - 4° een risicoanalyse inclusief een beschrijving van de beheersmaatregelen voor de belangrijkste risico’s;
 
-- 5°. een milieueffectrapport, indien in de planuitwerkingsfase een milieueffectrapportage heeft plaatsgevonden;
+   - 5° een milieueffectrapport, indien in de planuitwerkingsfase een milieueffectrapportage heeft plaatsgevonden;
 
-- 6°. de planning van de realisatie van het voorkeursalternatief;
+   - 6° de planning van de realisatie van het voorkeursalternatief;
 
-- 7°. een beschrijving van de kosten van beheer, onderhoud en vervanging van het voorkeursalternatief;
+   - 7° een beschrijving van de kosten van beheer, onderhoud en vervanging van het voorkeursalternatief;
 
-- 8°. de berekeningen van de exploitatiegevolgen, indien het een project of programma betreft ten behoeve van openbaar vervoer;
+   - 8° de berekeningen van de exploitatiegevolgen, indien het een project of programma betreft ten behoeve van openbaar vervoer;
 
-- 9°. een overzicht van de beschikbare budgetten voor de bekostiging van realisatie, beheer, onderhoud en vervanging en voor de bekostiging van de exploitatie, indien het een project of programma betreft ten behoeve van openbaar vervoer;
+   - 9° een overzicht van de beschikbare budgetten voor de bekostiging van realisatie, beheer, onderhoud en vervanging en voor de bekostiging van de exploitatie, indien het een project of programma betreft ten behoeve van openbaar vervoer;
 
 - b. een beschrijving van de te behalen resultaten in de realisatiefase en een raming van de te maken kosten voor elk te behalen resultaat;
 
@@ -318,7 +292,7 @@ Een subsidie bedraagt honderd procent van de op basis van [artikel 8](https://we
 
 3. Indien de subsidie-ontvanger niet binnen de van toepassing zijnde termijn bedoeld in [artikel 16, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045984&paragraaf=2&artikel=16&z=2022-01-01&g=2022-01-01), een aanvraag tot vaststelling indient, stelt de minister de subsidie na afloop van die termijn ambtshalve binnen twaalf weken vast.
 
-##### Artikel 18. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 18. Kaderbesluit subsidies I en M
 
 De [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14) en [20 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20) zijn niet van toepassing op een subsidie verleend op grond van deze paragraaf.
 
@@ -402,12 +376,10 @@ De subsidie bedraagt met in achtneming van [artikel 25, zesde lid](https://wette
 
 ##### Artikel 30. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2022.
+1. Deze regeling treedt in werking met ingang van 1 januari 2022.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op voor die datum verleende subsidies.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op voor die datum verleende subsidies.
 
 ##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling taakuitoefening beheerders van de HSWI.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

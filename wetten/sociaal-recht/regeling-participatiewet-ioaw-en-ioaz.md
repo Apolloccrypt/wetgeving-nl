@@ -5,11 +5,11 @@ identifier: "BWBR0015738"
 categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2024-12-18
-laatste_update: 2026-07-15
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-07-15
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0015738"
-opgehaald: 2026-08-07
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien het beeld van de uitvoering, bedoeld in het eerste lid, niet op de in het eerste lid genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69) voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
 
-4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2026-07-15&g=2026-07-15).
+4. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering, bedoeld in het eerste lid, is ontvangen door de minister. Indien daarvoor naar het oordeel van de minister een noodzaak bestaat, kan, na ontvangst van het beeld van de uitvoering, de betaling van de uitkering op een eerdere datum worden hervat, waarbij kan worden afgeweken van het betaalmoment, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=5&z=2026-09-01&g=2026-09-01).
 
 5. Het derde en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163) of het [Bbz 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711).
 
@@ -220,7 +220,9 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - gg. betalingen door de gemeenten Eemsdelta, Groningen en Midden-Groningen op grond van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekte uitkering, bedoeld in artikel 15a, tweede lid, van de Tijdelijke wet Groningen;
 
-- hh. vergoeding door de exploitant, bedoeld in artikel 1 van de Tijdelijke wet Groningen van schade als bedoeld in artikel 177 van Boek 6 van het Burgerlijk Wetboek door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk.
+- hh. vergoeding door de exploitant, bedoeld in artikel 1 van de Tijdelijke wet Groningen van schade als bedoeld in artikel 177 van Boek 6 van het Burgerlijk Wetboek door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of gasopslag bij Norg of de gasopslag bij Grijpskerk;
+
+- ii. de eenmalige vergoeding, bedoeld in de [Tijdelijke regeling eenmalige vergoeding correctie dagloon WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0052927).
 
 ##### Artikel 7a. Indexering
 
@@ -246,7 +248,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2026-07-15&g=2026-07-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2026-07-15&g=2026-07-15), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2026-07-15&g=2026-07-15) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2026-07-15&g=2026-07-15) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2026-09-01&g=2026-09-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2026-09-01&g=2026-09-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2026-09-01&g=2026-09-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2026-09-01&g=2026-09-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet met inkomen uit tegenwoordige arbeid
 
@@ -327,7 +329,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 ##### Artikel 15b. Aantallen beschut werk
 
-Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2026 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2026-07-15&g=2026-07-15) bij deze regeling bepaalde aantal per gemeente.
+Het aantal ten minste te realiseren dienstbetrekkingen, bedoeld in [artikel 10b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) wordt voor het jaar 2026 vastgesteld op het in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&bijlage=II&z=2026-09-01&g=2026-09-01) bij deze regeling bepaalde aantal per gemeente.
 
 #### § 7c. Vaststelling tegemoetkoming alleenverdienersproblematiek
 

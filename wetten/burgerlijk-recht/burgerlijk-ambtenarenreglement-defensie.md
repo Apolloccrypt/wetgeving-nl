@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0006040"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van 25 juni 1993, houdende bepalingen betreffende de algemene rechtspositie van burgerlijke ambtenaren bij het Ministerie van Defensie

@@ -5,11 +5,11 @@ identifier: "BWBR0044408"
 categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2020-12-01
-laatste_update: 2026-03-17
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-03-17
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0044408"
-opgehaald: 2026-08-30
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)
@@ -22,7 +22,7 @@ In deze regeling wordt verstaan onder:
 
 - b. *licentiehouder:* de ambtenaar die beschikt over de licentie EASA part 66 B/C;
 
-- c. *luchtvaarttoelage:* de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17) onderscheidenlijk [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17);
+- c. *luchtvaarttoelage:* de toelage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01) onderscheidenlijk [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-09-01&g=2026-09-01);
 
 - d. *vlieger:* de ambtenaar werkzaam bij de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties in de LFNP functie Politie Vlieger of Chef Vlieger;
 
@@ -34,7 +34,7 @@ In deze regeling wordt verstaan onder:
 
 2. Aanspraak op de luchtvaarttoelage bestaat niet dan wel gedeeltelijk over de periode waarin de vlieger geen dan wel gedeeltelijk aanspraak heeft op de voor hem geldende bezoldiging, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1).
 
-3. De hoogte van de luchtvaarttoelage is afhankelijk van een basisbedrag en een vermenigvuldigingsfactor, die afhankelijk is van de categorie waarin de vlieger is ingedeeld op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=3&z=2026-03-17&g=2026-03-17) en het totaal aantal jaren waarin de ambtenaar:
+3. De hoogte van de luchtvaarttoelage is afhankelijk van een basisbedrag en een vermenigvuldigingsfactor, die afhankelijk is van de categorie waarin de vlieger is ingedeeld op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=3&z=2026-09-01&g=2026-09-01) en het totaal aantal jaren waarin de ambtenaar:
 
 - a. is aangesteld als vlieger en operationeel vliegt,
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het in het vierde lid bedoelde basisbedrag wordt vermenigvuldigd met de op de vlieger van toepassing zijnde factor volgens de hieronder opgenomen tabel. De uitkomst van deze berekening is de maandelijkse luchtvaarttoelage.
 
-6. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12. Als de jaarlijkse luchtvaarttoelage het bedrag van € 46.235,– bruto overstijgt, bedraagt de jaarlijkse luchtvaarttoelage € 46.235,– bruto. Het zevende lid is van overeenkomstige toepassing.
+6. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12. Als de jaarlijkse luchtvaarttoelage het bedrag van € 47.159,– bruto overstijgt, bedraagt de jaarlijkse luchtvaarttoelage € 47.159,– bruto. Het zevende lid is van overeenkomstige toepassing.
 
 7. Bij een andere betrekking dan een volledige betrekking wordt de luchtvaarttoelage naar evenredigheid vastgesteld.
 
@@ -77,11 +77,11 @@ In deze regeling wordt verstaan onder:
 
 1. Hij, die de bevoegdheid tot het uitoefenen van de functie vlieger tijdelijk dan wel blijvend verliest, waarbij dit verlies niet aan grove nalatigheid of opzet van hemzelf is te wijten, behoudt gedurende zijn aanstelling bij de politie aanspraak op de volgende toelage, tenzij een of meer van de gronden, genoemd in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=83) en [84 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=84) van toepassing zijn:
 
-- a. gedurende 36 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien ten minste tien jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17);
+- a. gedurende 36 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien ten minste tien jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01);
 
-- b. gedurende 24 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien vijf tot tien jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17);
+- b. gedurende 24 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien vijf tot tien jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01);
 
-- c. gedurende 12 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien één tot vijf jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17);
+- c. gedurende 12 maanden 100% van de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan, indien één tot vijf jaren zijn verstreken vanaf het moment dat betrokkene voor het eerst aangesteld is als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01);
 
 2. Aansluitend maakt hij gedurende het eerste, het tweede en het derde jaar nadat de periode, genoemd in het eerste lid, is beëindigd aanspraak op een bedrag ter grootte van respectievelijk 75%, 50% en 25% van de luchtvaarttoelage, bedoeld in het eerste lid.
 
@@ -93,9 +93,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Bijstelling maximum luchtvaarttoelage vliegers
 
-1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van de hoogte van het in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17), bedoelde maximumbedrag kan plaatsvinden.
+1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van de hoogte van het in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01), bedoelde maximumbedrag kan plaatsvinden.
 
-2. Indien verlaging van het maximumbedrag leidt tot een lagere luchtvaarttoelage voor de vlieger vindt geleidelijke afbouw van de luchtvaarttoelage plaats volgens de systematiek beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17).
+2. Indien verlaging van het maximumbedrag leidt tot een lagere luchtvaarttoelage voor de vlieger vindt geleidelijke afbouw van de luchtvaarttoelage plaats volgens de systematiek beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-09-01&g=2026-09-01).
 
 ##### Artikel 7. Afbouw jaarlijkse luchtvaarttoelage vliegers
 
@@ -127,17 +127,17 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Samenloop afbouwregimes
 
-1. Indien bij een vlieger geleidelijke afbouw van de luchtvaarttoelage plaatsvindt op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17) en er gedurende de afbouwperiode, bedoeld in artikel 7, eerste dan wel tweede lid, sprake is van loss of licence als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17), blijft de afbouwsystematiek van artikel 7, eerste respectievelijk tweede lid, op hem van toepassing.
+1. Indien bij een vlieger geleidelijke afbouw van de luchtvaarttoelage plaatsvindt op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-09-01&g=2026-09-01) en er gedurende de afbouwperiode, bedoeld in artikel 7, eerste dan wel tweede lid, sprake is van loss of licence als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-09-01&g=2026-09-01), blijft de afbouwsystematiek van artikel 7, eerste respectievelijk tweede lid, op hem van toepassing.
 
-2. Indien [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17) op een medewerker wordt toegepast en gedurende die toepassing verlaging van het maximumbedrag plaatsvindt op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=6&z=2026-03-17&g=2026-03-17), vindt vanaf het moment van verlaging afbouw plaats volgens de afbouwsystematiek van [artikel 7, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17).
+2. Indien [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-09-01&g=2026-09-01) op een medewerker wordt toegepast en gedurende die toepassing verlaging van het maximumbedrag plaatsvindt op grond van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=6&z=2026-09-01&g=2026-09-01), vindt vanaf het moment van verlaging afbouw plaats volgens de afbouwsystematiek van [artikel 7, eerste dan wel tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-09-01&g=2026-09-01).
 
-3. Nadat de afbouwperiode, bedoeld in [artikel 7, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17), is verstreken en er op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17) voor de medewerker nog afbouwjaren resteren wordt, voor het aantal jaren dat er nog aanspraak op artikel 5 bestaat dit artikel op hem toegepast, met dien verstande dat voor de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan wordt gelezen een twaalfde van het voor de medewerker geldende maximumbedrag, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17), op het moment van voltooiing van de afbouw op grond van artikel 7.
+3. Nadat de afbouwperiode, bedoeld in [artikel 7, eerste respectievelijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-09-01&g=2026-09-01), is verstreken en er op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-09-01&g=2026-09-01) voor de medewerker nog afbouwjaren resteren wordt, voor het aantal jaren dat er nog aanspraak op artikel 5 bestaat dit artikel op hem toegepast, met dien verstande dat voor de luchtvaarttoelage waarop aanspraak bestond in de maand waarin het verlies is ingegaan wordt gelezen een twaalfde van het voor de medewerker geldende maximumbedrag, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-09-01&g=2026-09-01), op het moment van voltooiing van de afbouw op grond van artikel 7.
 
-4. Vanaf het moment van verlies van de bevoegdheid tot operationeel vliegen kan het totaal aantal afbouwjaren volgend uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17), niet groter zijn dan op grond van artikel 5 voor de medewerker geldt.
+4. Vanaf het moment van verlies van de bevoegdheid tot operationeel vliegen kan het totaal aantal afbouwjaren volgend uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-09-01&g=2026-09-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-09-01&g=2026-09-01), niet groter zijn dan op grond van artikel 5 voor de medewerker geldt.
 
 ##### Artikel 9. Luchtvaarttoelage licentiehouders
 
-1. De licentiehouder die werkzaam is binnen de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties en zijn licentie nodig heeft voor de uitoefening van zijn functie, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), heeft aanspraak op een maandelijkse luchtvaarttoelage ter grootte van € 2.185,85 bruto.
+1. De licentiehouder die werkzaam is binnen de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties en zijn licentie nodig heeft voor de uitoefening van zijn functie, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), heeft aanspraak op een maandelijkse luchtvaarttoelage ter grootte van € 2.229,56 bruto.
 
 2. De jaarlijkse luchtvaarttoelage is de maandelijkse luchtvaarttoelage vermenigvuldigd met 12.
 
@@ -147,13 +147,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 10. Bijstelling luchtvaarttoelage licentiehouders
 
-1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van het bedrag, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), kan plaatsvinden.
+1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van het bedrag, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-09-01&g=2026-09-01), kan plaatsvinden.
 
-2. Indien de luchtvaarttoelage licentiehouders wordt verlaagd vindt geleidelijke afbouw plaats volgens de systematiek beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=11&z=2026-03-17&g=2026-03-17).
+2. Indien de luchtvaarttoelage licentiehouders wordt verlaagd vindt geleidelijke afbouw plaats volgens de systematiek beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=11&z=2026-09-01&g=2026-09-01).
 
 ##### Artikel 11. Afbouw jaarlijkse luchtvaarttoelage licentiehouders
 
-1. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot en met een hoogte van € 12.000,– bruto per jaar, bedraagt de jaarlijkse luchtvaarttoelage:
+1. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-09-01&g=2026-09-01), tot en met een hoogte van € 12.000,– bruto per jaar, bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 
@@ -161,7 +161,7 @@ In deze regeling wordt verstaan onder:
 
 - c. in het derde jaar na bijstelling het verlaagde bedrag + 33% van het verschil tussen de jaarlijkse luchtvaarttoelage voor bijstelling en na bijstelling.
 
-2. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot onder een bedrag van € 12.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
+2. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-09-01&g=2026-09-01), tot onder een bedrag van € 12.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
 
 - a. in het eerste jaar na bijstelling van het maximumbedrag de jaarlijkse luchtvaarttoelage die werd ontvangen voorafgaand aan de bijstelling.
 

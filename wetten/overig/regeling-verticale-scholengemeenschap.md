@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 20 januari 2022, MBO/30119886, houdende regels ten behoeve van de aanvraag voor de vorming, wijziging en beëindiging van een verticale scholengemeenschap (Regeling verticale scholengemeenschap)"
+citeertitel: "Regeling verticale scholengemeenschap"
 identifier: "BWBR0046250"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046250"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16249073"
-version_id: "28375382"
-internal_id: "C40019131"
-label_id: "16176484"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046250/2022-08-01/0"
-intitule_bron: "Stcrt.2022-3130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-01-20"
-intitule_published: "2022-01-31"
-intitule_in_force: "2022-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-3130"
-original_signed_date: "2022-01-20"
-original_published_date: "2022-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-3130"
-entry_into_force_date: "2022-02-01"
-jci_1_3: "jci1.3:c:BWBR0046250&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0046250&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling verticale scholengemeenschap"
-signed_date: "2022-01-20"
-entry_into_force: "2022-02-01"
+publicatiedatum: 2022-02-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0046250"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 20 januari 2022, MBO/30119886, houdende regels ten behoeve van de aanvraag voor de vorming, wijziging en beëindiging van een verticale scholengemeenschap (Regeling verticale scholengemeenschap)
-
-Gelet op de [artikelen 4.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.1), [4.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.2) en [4.1.3 van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4.1.3), [artikel 53h, vierde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53h) en [artikel 2.1.4, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.4);
-
-Besluiten:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,29 +20,31 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraag:** aanvraag tot de vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [artikel 2.6.2, eerste lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.2);
+- *aanvraag:* aanvraag tot de vorming, wijziging of beëindiging van een verticale scholengemeenschap als bedoeld in [artikel 2.6.2, eerste lid, WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.6.2);
 
-- **afsplitsing:** afsplitsing van een scholengemeenschap door een school als bedoeld in artikel 74b, eerste lid, WVO 2020;
+- *afsplitsing:* afsplitsing van een scholengemeenschap door een school als bedoeld in artikel 74b, eerste lid, WVO 2020;
 
-- **beëindiging:** beëindiging van een verticale scholengemeenschap, waarna de school of scholengemeenschap en de instelling niet langer deel van de verticale scholengemeenschap uitmaken;
+- *beëindiging:* beëindiging van een verticale scholengemeenschap, waarna de school of scholengemeenschap en de instelling niet langer deel van de verticale scholengemeenschap uitmaken;
 
-- **bestuursoverdracht:** bestuursoverdracht als bedoeld in [artikel 53e, eerste lid, onderdeel c, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *bestuursoverdracht:* bestuursoverdracht als bedoeld in [artikel 53e, eerste lid, onderdeel c, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **bevoegd gezag:** bevoegd gezag van een school of scholengemeenschap als bedoeld in artikel 1 WVO 2020 of bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *bevoegd gezag:* bevoegd gezag van een school of scholengemeenschap als bedoeld in artikel 1 WVO 2020 of bevoegd gezag van een instelling als bedoeld in [artikel 1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **inkrimping:** inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
+- *inkrimping:* inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
-- **institutionele fusie:** fusie als bedoeld in [artikel 53e, eerste lid, onderdeel b, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *institutionele fusie:* fusie als bedoeld in [artikel 53e, eerste lid, onderdeel b, WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=53e) of [1.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **uitbreiding:** uitbreiding van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
+- *uitbreiding:* uitbreiding van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
-- **vorming:** vorming van een nieuwe verticale scholengemeenschap;
+- *vorming:* vorming van een nieuwe verticale scholengemeenschap;
 
-- **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- *WEB:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **wijziging:** uitbreiding of inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
+- *wijziging:* uitbreiding of inkrimping van een verticale scholengemeenschap als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=3&z=2022-08-01&g=2022-08-01);
 
-- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *WVO 2020:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Samenstelling verticale scholengemeenschap
 
@@ -82,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - c. mavo of mavo met een afdeling havo als bedoeld in [artikel 2.5, vierde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5); of
 
-- d. havo of vwo, indien het een verticale scholengemeenschap betreft die reeds deze schoolsoorten omvatte op 1 januari 2020.
+- d. havo of vwo, indien het een verticale scholengemeenschap betreft die reeds deze schoolsoorten omvatte op 1 januari 2020.
 
 3. De schoolsoorten bedoeld in het tweede lid kunnen slechts door één school dan wel scholengemeenschap binnen de verticale scholengemeenschap worden verzorgd.
 
@@ -90,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het bevoegd gezag kan een verticale scholengemeenschap met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=1&artikel=2&z=2022-08-01&g=2022-08-01) vormen, wijzigen of beëindigen en doet hiertoe een aanvraag tot goedkeuring bij de Minister.
 
-2. Een aanvraag wordt gedaan in het digitale portaal via de website [www.duo.nl](onbekend).
+2. Een aanvraag wordt gedaan in het digitale portaal via de website www.duo.nl.
 
 3. Een wijziging van een verticale scholengemeenschap kan:
 
@@ -108,11 +84,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Datum vorming, wijziging of beëindiging
 
-1. Vorming of uitbreiding vindt plaats met ingang van de eerstvolgende 1 augustus na de goedkeuring.
+1. Vorming of uitbreiding vindt plaats met ingang van de eerstvolgende 1 augustus na de goedkeuring.
 
-2. Beëindiging of inkrimping vindt plaats met ingang van 1 augustus van het kalenderjaar volgend op de goedkeuring.
+2. Beëindiging of inkrimping vindt plaats met ingang van 1 augustus van het kalenderjaar volgend op de goedkeuring.
 
-3. In afwijking van het eerste en tweede lid vindt vorming, wijziging of beëindiging waarbij sprake is van samenloop met een fusie of afsplitsing als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=3&z=2022-08-01&g=2022-08-01), gelijktijdig met die fusie of afsplitsing plaats op 1 augustus van enig kalenderjaar.
+3. In afwijking van het eerste en tweede lid vindt vorming, wijziging of beëindiging waarbij sprake is van samenloop met een fusie of afsplitsing als bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046250&paragraaf=3&z=2022-08-01&g=2022-08-01), gelijktijdig met die fusie of afsplitsing plaats op 1 augustus van enig kalenderjaar.
 
 ##### Artikel 6. Postcode-eis
 
@@ -174,24 +150,22 @@ Het bevoegd gezag stelt de gemeente of gemeenten waarin de betrokken school of s
 
 #### Paragraaf 4. Overige bepalingen
 
-##### Artikel 12. Wijziging [Regeling en beleidsregels fusietoets in het onderwijs 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039819)
+##### Artikel 12. Wijziging Regeling en beleidsregels fusietoets in het onderwijs 2017
 
-Wijzigt de Regeling en beleidsregels fusietoets in het onderwijs 2017.
+*Wijzigt de Regeling en beleidsregels fusietoets in het onderwijs 2017.*
 
-##### Artikel 13. Wijziging [Regeling voorzieningenplanning vo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044042)
+##### Artikel 13. Wijziging Regeling voorzieningenplanning vo 2020
 
-Wijzigt de Regeling voorzieningenplanning vo 2020.
+*Wijzigt de Regeling voorzieningenplanning vo 2020.*
 
-##### Artikel 14. Wijziging [Regeling splitsingtoets BVE](https://wetten.overheid.nl/jci1.3:c:BWBR0025843)
+##### Artikel 14. Wijziging Regeling splitsingtoets BVE
 
-Wijzigt de Regeling splitsingtoets BVE.
+*Wijzigt de Regeling splitsingtoets BVE.*
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 februari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+Deze regeling treedt in werking met ingang van 1 februari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verticale scholengemeenschap.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

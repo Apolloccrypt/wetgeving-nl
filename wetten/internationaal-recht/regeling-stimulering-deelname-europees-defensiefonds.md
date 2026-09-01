@@ -1,90 +1,66 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21294511, houdende de vaststelling van subsidie-instrumenten ter stimulering van de deelname van ondernemingen aan acties in het kader van het Europees Defensiefonds (Regeling stimulering deelname Europees Defensiefonds)"
+citeertitel: "Regeling stimulering deelname Europees Defensiefonds"
 identifier: "BWBR0045966"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-16"
-last_updated: "2025-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045966"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16167523"
-version_id: "29423162"
-internal_id: "C42075111"
-label_id: "16096064"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045966/2025-04-16/0"
-intitule_bron: "Stcrt.2021-48328"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-29"
-intitule_published: "2021-12-01"
-intitule_in_force: "2021-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-15432"
-original_signed_date: "2023-05-26"
-original_published_date: "2023-05-30"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2023-15432"
-entry_into_force_date: "2023-05-26"
-jci_1_3: "jci1.3:c:BWBR0045966&z=2025-04-16&g=2025-04-16"
-jci_1_0: "1.0:c:BWBR0045966&g=2025-04-16"
-citeertitel_status: "officieel"
-short_title: "Regeling stimulering deelname Europees Defensiefonds"
-signed_date: "2023-05-26"
-entry_into_force: "2023-05-26"
+publicatiedatum: 2023-05-26
+laatste_update: 2025-04-16
+status: geldig
+toestand: 2025-04-16
+bron: "https://wetten.overheid.nl/BWBR0045966"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 29 november 2021, nr. WJZ/ 21294511, houdende de vaststelling van subsidie-instrumenten ter stimulering van de deelname van ondernemingen aan acties in het kader van het Europees Defensiefonds (Regeling stimulering deelname Europees Defensiefonds)
-
-Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- **actie:** subsidiabele actie als bedoeld in artikel 10 van de EDF Verordening;
+- *actie:* subsidiabele actie als bedoeld in artikel 10 van de EDF Verordening;
 
-- **algemene groepsvrijstellingsverordening:** [Verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014 L 187);
+- *algemene groepsvrijstellingsverordening:*
+ Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014 L 187);
 
-- **consortium:** samenwerkingsverband als bedoeld in artikel 2, onderdeel 4, van de EDF Verordening;
+- *consortium:* samenwerkingsverband als bedoeld in artikel 2, onderdeel 4, van de EDF Verordening;
 
-- **EDF Verordening:** [Verordening (EU) nr. 2021/697](32597R2021) van het Europees parlement en de Raad van 29 april 2021 tot oprichting van het Europees Defensiefonds en tot intrekking van [Verordening (EU) 2018/1092](32992R2018) (PbEU 2021, L 170);
+- *EDF Verordening:*
+ Verordening (EU) nr. 2021/697 van het Europees parlement en de Raad van 29 april 2021 tot oprichting van het Europees Defensiefonds en tot intrekking van Verordening (EU) 2018/1092 (PbEU 2021, L 170);
 
-- **entiteit uit een niet-geassocieerd derde land:** entiteit als bedoeld in artikel 2, onderdeel 24, van de EDF verordening;
+- *entiteit uit een niet-geassocieerd derde land:* entiteit als bedoeld in artikel 2, onderdeel 24, van de EDF verordening;
 
-- **Europees Defensiefonds:** fonds, genoemd in artikel 1 van de EDF Verordening;
+- *Europees Defensiefonds:* fonds, genoemd in artikel 1 van de EDF Verordening;
 
-- **Europese ranglijst:** ranglijst van door de Europese Commissie voor financiering uit het Europees Defensiefonds geselecteerde acties;
+- *Europese ranglijst:* ranglijst van door de Europese Commissie voor financiering uit het Europees Defensiefonds geselecteerde acties;
 
-- **experimentele ontwikkeling:** experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel j, van de Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2014/C 198/01 (PbEU 2014, C 198);
+- *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in artikel 2, onderdeel 86, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel j, van de Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2014/C 198/01 (PbEU 2014, C 198);
 
-- **juridische entiteit:** entiteit als bedoeld in artikel 2, onderdeel 1, van de EDF Verordening;
+- *juridische entiteit:* entiteit als bedoeld in artikel 2, onderdeel 1, van de EDF Verordening;
 
-- **kleine onderneming:** kleine onderneming in de zin van de algemene groepsvrijstellingsverordening;
+- *kleine onderneming:* kleine onderneming in de zin van de algemene groepsvrijstellingsverordening;
 
-- **middelgrote onderneming:** middelgrote onderneming in de zin van de algemene groepsvrijstellingverordening;
+- *middelgrote onderneming:* middelgrote onderneming in de zin van de algemene groepsvrijstellingverordening;
 
-- **MKB-ondernemer:** ondernemer die een kleine onderneming of een middelgrote onderneming in stand houdt;
+- *MKB-ondernemer:* ondernemer die een kleine onderneming of een middelgrote onderneming in stand houdt;
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **niet-geassocieerd derde land:** een land dat geen lid is van de Europese Unie noch een geassocieerd land is als bedoeld in artikel 5 van de EDF Verordening;
+- *niet-geassocieerd derde land:* een land dat geen lid is van de Europese Unie noch een geassocieerd land is als bedoeld in artikel 5 van de EDF Verordening;
 
-- **ondernemer:** een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
+- *ondernemer:* een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;
 
-- **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
+- *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- **ontwikkelactiviteit:** activiteit als bedoeld in artikel 10, derde lid, onderdelen e tot en met h, van de EDF Verordening, die valt binnen de categorie experimentele ontwikkeling;
+- *ontwikkelactiviteit:* activiteit als bedoeld in artikel 10, derde lid, onderdelen e tot en met h, van de EDF Verordening, die valt binnen de categorie experimentele ontwikkeling;
 
-- **oproep:** competitieve oproep tot het indienen van voorstellen als bedoeld in artikel 11 van de EDF verordening;
+- *oproep:* competitieve oproep tot het indienen van voorstellen als bedoeld in artikel 11 van de EDF verordening;
 
-- **resultaten:** resultaten als bedoeld in artikel 2, onderdeel 19, van de EDF Verordening;
+- *resultaten:* resultaten als bedoeld in artikel 2, onderdeel 19, van de EDF Verordening;
 
-- **subcontractant:** contractant van de aanvrager of ontvanger als bedoeld in artikel 9, achtste lid, van de EDF Verordening;
+- *subcontractant:* contractant van de aanvrager of ontvanger als bedoeld in artikel 9, achtste lid, van de EDF Verordening;
 
-- **zeggenschap:** zeggenschap als bedoeld in artikel 2, onderdeel 6, van de EDF Verordening.
+- *zeggenschap:* zeggenschap als bedoeld in artikel 2, onderdeel 6, van de EDF Verordening.
 
 ##### Artikel 2. Subsidieverstrekking
 
@@ -98,7 +74,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 1. Voor subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), komen uitsluitend in aanmerking consultancykosten als bedoeld in artikel 18 van de algemene groepsvrijstellingverordening ter voorbereiding op deelname aan een consortium.
 
-2. De kosten, bedoeld in het eerste lid, die een externe consultant in rekening brengt, zijn subsidiabel tot aan een bedrag van ten hoogste € 170 per uur.
+2. De kosten, bedoeld in het eerste lid, die een externe consultant in rekening brengt, zijn subsidiabel tot aan een bedrag van ten hoogste € 170 per uur.
 
 3. Voor subsidie, als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), komen uitsluitend in aanmerking kosten voor ontwikkelactiviteiten die vanwege de maximale financieringspercentages, bedoeld in artikel 13, tweede en derde lid, van de EDF Verordening niet in aanmerking komen voor financiering uit het Europees Defensiefonds, voor zover het kosten betreft als bedoeld in artikel 25, derde lid, van de algemene groepsvrijstellingsverordening.
 
@@ -118,9 +94,9 @@ De minister verstrekt op aanvraag subsidie aan:
 
 ##### Artikel 5. Subsidiemaximum
 
-1. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 5.000 per actie per oproep.
+1. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 5.000 per actie per oproep.
 
-2. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 1.500.000 per actie.
+2. De subsidie, bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt ten hoogste € 1.500.000 per actie.
 
 ##### Artikel 6. Aanvraag tot subsidieverlening
 
@@ -168,17 +144,17 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - a. de aanvraag:
 
-- 1°. niet voldoet aan de bij deze regeling gestelde regels;
+   - 1°. niet voldoet aan de bij deze regeling gestelde regels;
 
-- 2°. niet voldoet aan de eisen inzake het stimulerend effect, bedoeld in artikel 6 van de algemene groepsvrijstellingsverordening;
+   - 2°. niet voldoet aan de eisen inzake het stimulerend effect, bedoeld in artikel 6 van de algemene groepsvrijstellingsverordening;
 
-- 3°. leidt tot een cumulatie van steun die niet is toegestaan op grond van artikel 14, derde lid, of artikel 8 van de algemene groepsvrijstellingsverordening, omdat de in artikel 4 van de algemene groepsvrijstellingsverordening voor aanmelding vastgestelde drempels, of de maximale steunintensiteiten van hoofdstuk III van de algemene groepsvrijstellingsverordening worden overschreden;
+   - 3°. leidt tot een cumulatie van steun die niet is toegestaan op grond van artikel 14, derde lid, of artikel 8 van de algemene groepsvrijstellingsverordening, omdat de in artikel 4 van de algemene groepsvrijstellingsverordening voor aanmelding vastgestelde drempels, of de maximale steunintensiteiten van hoofdstuk III van de algemene groepsvrijstellingsverordening worden overschreden;
 
 - b. de aanvrager:
 
-- 1°. een onderneming is tegen wie bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onderdeel a, van de algemene groepsvrijstellingsverordening;
+   - 1°. een onderneming is tegen wie bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onderdeel a, van de algemene groepsvrijstellingsverordening;
 
-- 2°. een onderneming in moeilijkheden is als bedoeld in artikel 1, vierde lid, onderdeel c, en artikel 2, onderdeel 18, van de algemene groepsvrijstellingsverordening.
+   - 2°. een onderneming in moeilijkheden is als bedoeld in artikel 1, vierde lid, onderdeel c, en artikel 2, onderdeel 18, van de algemene groepsvrijstellingsverordening.
 
 2. In aanvulling op het eerste lid, beslist de minister afwijzend op een subsidieaanvraag als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), indien de subsidieverstrekking leidt tot een overschrijding van de:
 
@@ -190,23 +166,23 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - a. de subsidieverlening:
 
-- 1°. niet voldoet aan de criteria van artikel 10 van de EDF Verordening;
+   - 1°. niet voldoet aan de criteria van artikel 10 van de EDF Verordening;
 
-- 2°. leidt tot een overschrijding van de aanmeldingsdrempel, bedoeld in artikel 4, eerste lid, onderdeel i, subonderdeel iii, van de algemene groepsvrijstellingsverordening;
+   - 2°. leidt tot een overschrijding van de aanmeldingsdrempel, bedoeld in artikel 4, eerste lid, onderdeel i, subonderdeel iii, van de algemene groepsvrijstellingsverordening;
 
-- 3°. leidt tot een overschrijding van de maximale steunintensiteit bedoeld in artikel 25, vijfde of zesde lid, van de algemene groepsvrijstellingsverordening;
+   - 3°. leidt tot een overschrijding van de maximale steunintensiteit bedoeld in artikel 25, vijfde of zesde lid, van de algemene groepsvrijstellingsverordening;
 
 - b. de aanvrager:
 
-- 1°. niet voldoet aan de criteria van artikel 9 van de EDF Verordening;
+   - 1°. niet voldoet aan de criteria van artikel 9 van de EDF Verordening;
 
-- 2°. een onderneming drijft die onder zeggenschap staat van een niet-geassocieerd derde land of een entiteit uit een niet-geassocieerd derde land en niet beschikt over bewijs van door de minister van Defensie gegeven goedkeuring van de garanties, bedoeld in artikel 9, vierde lid, van de EDF Verordening of een bewijs van een aanvraag daartoe;
+   - 2°. een onderneming drijft die onder zeggenschap staat van een niet-geassocieerd derde land of een entiteit uit een niet-geassocieerd derde land en niet beschikt over bewijs van door de minister van Defensie gegeven goedkeuring van de garanties, bedoeld in artikel 9, vierde lid, van de EDF Verordening of een bewijs van een aanvraag daartoe;
 
 - c. de minister van Defensie financiering verstrekt voor de ontwikkelactiviteiten waarvoor subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), wordt aangevraagd.
 
 ##### Artikel 8. Verdeling subsidieplafond
 
-1. Het subsidieplafond voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt € 0 per openstellingsperiode als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=6&z=2025-04-16&g=2025-04-16).
+1. Het subsidieplafond voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt € 0 per openstellingsperiode als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=6&z=2025-04-16&g=2025-04-16).
 
 2. De minister verdeelt het subsidieplafond voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), op volgorde van binnenkomst van de aanvragen, waarbij geldt dat de aanvraag die het eerst is binnengekomen, het eerst voor subsidie in aanmerking komt.
 
@@ -216,9 +192,9 @@ De minister verstrekt op aanvraag subsidie aan:
 
 5. Het subsidieplafond voor subsidie als bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), bedraagt voor de openstellingsperiode, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=6&z=2025-04-16&g=2025-04-16):
 
-- a. voor 2023: € 5.950.000;
+- a. voor 2023: € 5.950.000;
 
-- b. voor 2024: € 5.000.000.
+- b. voor 2024: € 5.000.000.
 
 6. De minister verdeelt het subsidieplafond, bedoeld in het vijfde lid, overeenkomstig de volgorde van de Europese ranglijst, waarbij geldt dat voor alle aanvragen waarop niet afwijzend is beslist, onder de opschortende voorwaarden van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=9&z=2025-04-16&g=2025-04-16), subsidie verleend wordt.
 
@@ -276,7 +252,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 - 1°. de ontwikkelactiviteiten niet, niet tijdig of niet geheel zullen worden verricht;
 
-- 2°. de Europese Commissie naar aanleiding van kennisgeving als bedoeld in artikel 9, zevende lid van de EDF Verordening, oordeelt dat de subsidieontvanger niet meer aan de subsidiabiliteitscriteria uit de EDF Verordening voldoet en dat dit gevolgen heeft voor de verstrekte financiering vanuit het Europees Defensiefonds.
+- 2° de Europese Commissie naar aanleiding van kennisgeving als bedoeld in artikel 9, zevende lid van de EDF Verordening, oordeelt dat de subsidieontvanger niet meer aan de subsidiabiliteitscriteria uit de EDF Verordening voldoet en dat dit gevolgen heeft voor de verstrekte financiering vanuit het Europees Defensiefonds.
 
 7. De subsidieontvanger, bedoeld in [artikel 2, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0045966&artikel=2&z=2025-04-16&g=2025-04-16), brengt aan de minister schriftelijk verslag uit overeenkomstig de wijze en frequentie waarop hij daartoe jegens de Europese Commissie verplicht is op grond van artikel 28, vierde lid, tweede volzin, van de EDF Verordening.
 
@@ -292,7 +268,7 @@ De minister verstrekt op aanvraag subsidie aan:
 
 2. De minister verstrekt het eerste voorschot, indien en zodra de subsidieontvanger aantoont het eerste voorschot vanwege de Europese Commissie te hebben ontvangen.
 
-3. De minister verstrekt de volgende voorschotten ambtshalve binnen twee weken na 1 januari, 1 april, 1 juli en 1 oktober voor de in het desbetreffende kwartaal te maken kosten.
+3. De minister verstrekt de volgende voorschotten ambtshalve binnen twee weken na 1 januari, 1 april, 1 juli en 1 oktober voor de in het desbetreffende kwartaal te maken kosten.
 
 4. Het voorschot, bedoeld in het eerste lid, bedraagt 90% van het bedrag dat in het desbetreffende kwartaal maximaal voor subsidie in aanmerking komt.
 
@@ -324,6 +300,10 @@ De minister verstrekt op aanvraag subsidie aan:
 
 4. De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
+##### Artikel 15a
+
+Deze regeling vervalt met ingang van 29 november 2026, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
+
 ##### Artikel 16
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
@@ -331,11 +311,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling stimulering deelname Europees Defensiefonds.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 15a
-
-Deze regeling vervalt met ingang van 29 november 2026, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

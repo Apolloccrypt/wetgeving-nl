@@ -1,61 +1,33 @@
 ---
 title: "Reglement Adviescommissie bezwaarschriften Ctgb 2021"
 identifier: "BWBR0045977"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-12-07"
-last_updated: "2021-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045977"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16169303"
-version_id: "28213752"
-internal_id: "C39774551"
-label_id: "16097774"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045977/2021-12-07/0"
-intitule_bron: "Stcrt.2021-48498"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-24"
-intitule_published: "2021-12-06"
-intitule_in_force: "2021-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-48498"
-original_signed_date: "2021-11-24"
-original_published_date: "2021-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-48498"
-entry_into_force_date: "2021-12-07"
-jci_1_3: "jci1.3:c:BWBR0045977&z=2021-12-07&g=2021-12-07"
-jci_1_0: "1.0:c:BWBR0045977&g=2021-12-07"
-citeertitel_status: "officieel"
-signed_date: "2021-11-24"
-entry_into_force: "2021-12-07"
+publicatiedatum: 2021-12-07
+laatste_update: 2021-12-07
+status: geldig
+toestand: 2021-12-07
+bron: "https://wetten.overheid.nl/BWBR0045977"
+opgehaald: 2026-09-01
 ---
+
 # Reglement Adviescommissie bezwaarschriften Ctgb 2021
-
-Gelet op [artikel 7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) (hierna: Awb);
-
-Overwegende dat het College een commissie kan instellen ter advisering over de afhandeling van bezwaarschriften;
-
-Besluit het Reglement Adviescommissie bezwaarschriften Ctgb 2021 vast te stellen waarin de volgende bepalingen zijn opgenomen;
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a. **College:** het College voor de toelating van gewasbeschermingsmiddelen en biociden (Ctgb);
+- a. *College:* het College voor de toelating van gewasbeschermingsmiddelen en biociden (Ctgb);
 
-- b. **Adviescommissie:** de externe adviescommissie die uitgenodigd is door het College om een advies uit te brengen over bezwaren op basis van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Adviescommissie:* de externe adviescommissie die uitgenodigd is door het College om een advies uit te brengen over bezwaren op basis van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **bezwaar:** een bezwaar als bedoeld in [artikel 1:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:5);
+- c. *bezwaar:* een bezwaar als bedoeld in [artikel 1:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:5);
 
-- d. **bezwaarschrift:** een bezwaarschrift als bedoeld in [artikel 6:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5);
+- d. *bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5);
 
-- e. **belanghebbende:** een belanghebbende als bedoeld in [artikel 1:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2);
+- e. *belanghebbende:* een belanghebbende als bedoeld in [artikel 1:2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2);
 
-- f. **voorzitter:** Voorzitter van de Adviescommissie bezwaarschriften.
+- f. *voorzitter:* Voorzitter van de Adviescommissie bezwaarschriften.
 
 ##### Artikel 2. Bevoegdheid Adviescommissie
 
@@ -187,7 +159,7 @@ Voor het houden van een hoorzitting is vereist dat tenminste twee van het aantal
 
 ##### Artikel 16. Jaarverslag
 
-De Adviescommissie brengt jaarlijks vóór 1 mei van dat jaar aan het College verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
+De Adviescommissie brengt jaarlijks vóór 1 mei van dat jaar aan het College verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
 ##### Artikel 17. Inwerkingtreding en intrekking voorheen geldende regeling
 
@@ -196,5 +168,3 @@ Dit reglement treedt in werking op de dag na die waarop het is bekendgemaakt. He
 ##### Artikel 18. Citeertitel
 
 Dit reglement wordt aangehaald als ‘Reglement Adviescommissie bezwaarschriften Ctgb 2021’.
-
-Vastgesteld in de vergadering van het College voor de toelating van gewasbeschermingsmiddelen en biociden op 24 november 2021.

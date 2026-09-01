@@ -1,76 +1,50 @@
 ---
 title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 14 februari 2022, nr. 2021-0000600632, houdende regels voor de verstrekking van een subsidie aan de Stichting Geonovum (Subsidieregeling Geonovum 2022–2027)"
+citeertitel: "Subsidieregeling Geonovum 2022–2027"
 identifier: "BWBR0046366"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-03"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046366"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16282103"
-version_id: "28446282"
-internal_id: "C40140101"
-label_id: "16208144"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046366/2022-03-03/0"
-intitule_bron: "Stcrt.2022-4774"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-02-14"
-intitule_published: "2022-03-02"
-intitule_in_force: "2022-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-4774"
-original_signed_date: "2022-02-14"
-original_published_date: "2022-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-4774"
-entry_into_force_date: "2022-03-03"
-jci_1_3: "jci1.3:c:BWBR0046366&z=2022-03-03&g=2022-03-03"
-jci_1_0: "1.0:c:BWBR0046366&g=2022-03-03"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Geonovum 2022–2027"
-signed_date: "2022-02-14"
-entry_into_force: "2022-03-03"
+publicatiedatum: 2022-03-03
+laatste_update: 2022-03-03
+status: geldig
+toestand: 2022-03-03
+bron: "https://wetten.overheid.nl/BWBR0046366"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening, van 14 februari 2022, nr. 2021-0000600632, houdende regels voor de verstrekking van een subsidie aan de Stichting Geonovum (Subsidieregeling Geonovum 2022–2027)
-
-Gelet op de [artikelen 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
-
-Besluit:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- **basisprogramma:** ontwikkelen en beheren van geo-standaarden, het verspreiden van kennis over geo-informatie en geo-informatie-infrastructuur en advisering daarover aan het GI-beraad;
+- *basisprogramma:* ontwikkelen en beheren van geo-standaarden, het verspreiden van kennis over geo-informatie en geo-informatie-infrastructuur en advisering daarover aan het GI-beraad;
 
-- **Geonovum:** Stichting Geonovum;
+- *Geonovum:* Stichting Geonovum;
 
-- **GI-beraad:** beraad voor Geo-informatie, bedoeld in het Instellingsbesluit GI-beraad;
+- *GI-beraad:* beraad voor Geo-informatie, bedoeld in het Instellingsbesluit GI-beraad;
 
-- **Minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening.
+- *Minister:* Minister voor Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 2. (doel subsidie)
 
-1. De Minister kan voor de periode van 1 januari 2022 tot en met 31 december 2026 op aanvraag per boekjaar subsidie verstrekken aan Geonovum voor het verrichten van activiteiten ten behoeve van het uitvoeren van het basisprogramma.
+1. De Minister kan voor de periode van 1 januari 2022 tot en met 31 december 2026 op aanvraag per boekjaar subsidie verstrekken aan Geonovum voor het verrichten van activiteiten ten behoeve van het uitvoeren van het basisprogramma.
 
 2. Geen subsidie wordt verstrekt voor zover de activiteiten zijn te kwalificeren als economische activiteiten.
 
-##### Artikel 3. (toepassing [Afdeling 4.2.8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8))
+##### Artikel 3. (toepassing Afdeling 4.2.8 Awb)
 
 [Afdeling 4.2.8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.8) is van toepassing op de op grond van deze regeling verstrekte subsidies.
 
 ##### Artikel 4. (maximale subsidiebedrag en subsidiabele kosten)
 
-1. Het subsidiebedrag bedraagt voor de jaren 2022 tot en met 2026 maximaal € 2.700.000,–, met een maximum per jaar van € 540.000,–.
+1. Het subsidiebedrag bedraagt voor de jaren 2022 tot en met 2026 maximaal € 2.700.000,–, met een maximum per jaar van € 540.000,–.
 
 2. Als subsidiabele kosten worden uitsluitend in aanmerking genomen de naar het oordeel van de Minister noodzakelijke, rechtstreeks aan de activiteiten als bedoeld in artikel 2, eerste lid, toe te rekenen en door Geonovum gemaakte en betaalde kosten.
 
 ##### Artikel 5. (aanvraag tot subsidieverlening)
 
-1. De aanvraag tot subsidieverlening dient uiterlijk op 1 november van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd bij de Minister te worden ingediend.
+1. De aanvraag tot subsidieverlening dient uiterlijk op 1 november van het jaar voorafgaand aan het boekjaar waarvoor subsidie wordt aangevraagd bij de Minister te worden ingediend.
 
 2. In aanvulling op [artikel 11 Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), bevat de aanvraag het door het bestuur van Geonovum, na goedkeuring van de raad van toezicht van Geonovum, vastgestelde jaarplan voor het basisprogramma.
 
@@ -138,16 +112,14 @@ Geonovum behoeft toestemming van de Minister voor de handelingen, genoemd in [ar
 
 ##### Artikel 11. (aanvraag subsidievaststelling)
 
-Geonovum dient de aanvraag tot subsidievaststelling bij de Minister in voor 1 juli volgend op het boekjaar waarvoor de subsidie is verleend.
+Geonovum dient de aanvraag tot subsidievaststelling bij de Minister in voor 1 juli volgend op het boekjaar waarvoor de subsidie is verleend.
 
 ##### Artikel 12. (inwerkingtreding)
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op reeds verleende subsidies.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op reeds verleende subsidies.
 
 ##### Artikel 13. (citeertitel)
 
 Deze regeling wordt aangehaald als: Subsidieregeling Geonovum 2022–2027.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

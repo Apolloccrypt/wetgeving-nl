@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0010510"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van 8 juni 1999, houdende vaststelling van de regeling inzake de aanvullende voorzieningen bij werkloosheid van defensie personeel (Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie)

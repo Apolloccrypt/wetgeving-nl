@@ -1,41 +1,19 @@
 ---
 title: "Bestuursreglement Nederlandse Emissieautoriteit"
 identifier: "BWBR0046022"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-12-16"
-last_updated: "2021-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046022"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16181923"
-version_id: "28237612"
-internal_id: "C39813711"
-label_id: "16110304"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046022/2021-12-16/0"
-intitule_bron: "Stcrt.2021-49382"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-08-17"
-intitule_published: "2021-12-15"
-intitule_in_force: "2021-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-49382"
-original_signed_date: "2021-08-17"
-original_published_date: "2021-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-49382"
-entry_into_force_date: "2021-12-16"
-jci_1_3: "jci1.3:c:BWBR0046022&z=2021-12-16&g=2021-12-16"
-jci_1_0: "1.0:c:BWBR0046022&g=2021-12-16"
-citeertitel_status: "redactioneel"
-signed_date: "2021-08-17"
-entry_into_force: "2021-12-16"
+publicatiedatum: 2021-12-16
+laatste_update: 2021-12-16
+status: geldig
+toestand: 2021-12-16
+bron: "https://wetten.overheid.nl/BWBR0046022"
+opgehaald: 2026-09-01
 ---
+
 # Bestuursreglement Nederlandse Emissieautoriteit
 
-Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.8) in zijn vergadering van 17 augustus 2021 het navolgende reglement vastgesteld. Het reglement is bij brief van28 september 2021, met kenmerk FEZ / 21199011, goedgekeurd door de Staatssecretaris van Economische Zaken en Klimaat - Klimaat en Energie op grond van [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11).
+Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=2.8) in zijn vergadering van 17 augustus 2021 het navolgende reglement vastgesteld. Het reglement is bij brief van28 september 2021, met kenmerk FEZ / 21199011, goedgekeurd door de Staatssecretaris van Economische Zaken en Klimaat - Klimaat en Energie op grond van [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11).
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -43,23 +21,23 @@ Het bestuur van de Nederlandse Emissieautoriteit heeft op grond van [artikel 2.8
 
 1. In dit bestuursreglement wordt verstaan onder:
 
-- a. **Bestuur:** bestuur van de NEa;
+- a. *Bestuur:* bestuur van de NEa;
 
-- b. **Bestuursreglement:** het onderhavige bestuursreglement;
+- b. *Bestuursreglement:* het onderhavige bestuursreglement;
 
-- c. **Directeur-bestuurder:** directeur-bestuurder van de NEa, belast met de taken van de bestuurder alsmede met de dagelijkse aansturing van de Dienst NEa;
+- c. *Directeur-bestuurder:* directeur-bestuurder van de NEa, belast met de taken van de bestuurder alsmede met de dagelijkse aansturing van de Dienst NEa;
 
-- d. **Afdelingshoofd:** hoofd van een van de afdelingen binnen de NEa;
+- d. *Afdelingshoofd:* hoofd van een van de afdelingen binnen de NEa;
 
-- e. **Minister:** Minister van Economische Zaken en Klimaat;
+- e. *Minister:* Minister van Economische Zaken en Klimaat;
 
-- f. **NEa:** Nederlandse Emissieautoriteit;
+- f. *NEa:* Nederlandse Emissieautoriteit;
 
-- g. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- g. *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- h. **Dienst NEa:** agentschap NEa die bestaat uit ambtenaren die het ZBO-bestuur ondersteunen in de uitvoering van de wettelijke taken;
+- h. *Dienst NEa:* agentschap NEa die bestaat uit ambtenaren die het ZBO-bestuur ondersteunen in de uitvoering van de wettelijke taken;
 
-- i. **voorzitter:** voorzitter van het Bestuur.
+- i. *voorzitter:* voorzitter van het Bestuur.
 
 2. Voor zover een begrip niet in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046022&hoofdstuk=1&artikel=1&z=2021-12-16&g=2021-12-16) omschreven is, heeft het dezelfde betekenis als in de Wet.
 
@@ -125,11 +103,11 @@ Het Bestuur bewerkstelligt dat op de taken en bevoegdheden die onder zijn verant
 
 6. De voorzitter bewerkstelligt dat van elke vergadering een verslag opgesteld wordt. Het verslag bevat ten minste:
 
-- –. een opgave van de aanwezige personen;
+- – een opgave van de aanwezige personen;
 
-- –. een vermelding van de behandelde aangelegenheden;
+- – een vermelding van de behandelde aangelegenheden;
 
-- –. zo nodig een voor goed begrip van hetgeen is besloten noodzakelijke, korte weergave van de gevoerde discussie;
+- – zo nodig een voor goed begrip van hetgeen is besloten noodzakelijke, korte weergave van de gevoerde discussie;
 
 een lijst van de genomen besluiten en actiepunten.
 

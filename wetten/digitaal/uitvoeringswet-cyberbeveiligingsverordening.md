@@ -1,47 +1,18 @@
 ---
 title: "Wet van 9 februari 2022, houdende regels ter uitvoering van Verordening (EU) 2019/881 (Uitvoeringswet cyberbeveiligingsverordening)"
+citeertitel: "Uitvoeringswet cyberbeveiligingsverordening"
 identifier: "BWBR0046349"
-country: "nl"
-rank: "wet"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046349"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "16276103"
-version_id: "28434752"
-internal_id: "C40261891"
-label_id: "16202314"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046349/2022-05-01/0"
-intitule_bron: "Stb.2022-87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-02-09"
-intitule_published: "2022-02-25"
-intitule_in_force: "2022-04-08"
-intitule_status: "goed"
-original_publication: "Stb.2022-87"
-original_signed_date: "2022-02-09"
-original_published_date: "2022-02-25"
-original_effect: "nieuwe-regeling"
-original_dossier: "35838"
-original_url_id: "stb-2022-87"
-entry_into_force_date: "2022-04-09"
-jci_1_3: "jci1.3:c:BWBR0046349&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0046349&g=2022-05-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet cyberbeveiligingsverordening"
-signed_date: "2022-02-09"
-entry_into_force: "2022-04-09"
+publicatiedatum: 2022-04-09
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0046349"
+opgehaald: 2026-09-01
 ---
+
 # Wet van 9 februari 2022, houdende regels ter uitvoering van Verordening (EU) 2019/881 (Uitvoeringswet cyberbeveiligingsverordening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is [Verordening (EU) 2019/881](32781R2019) van het Europees Parlement en de Raad van 17 april 2019 inzake Enisa (het Agentschap van de Europese Unie voor cyberbeveiliging), en inzake de certificering van de cyberbeveiliging van informatie- en communicatietechnologie en tot intrekking van Verordening (EU) nr. 526/2013 (de cyberbeveiligingsverordening) (PbEU 2019, L151) uit te voeren, en dat het wenselijk is de hiervoor noodzakelijke bepalingen vast te stellen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,27 +20,28 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **conformiteitsbeoordeling:** conformiteitsbeoordeling als bedoeld in artikel 2, onderdeel 17, van de cyberbeveiligingsverordening;
+- – *conformiteitsbeoordeling:* conformiteitsbeoordeling als bedoeld in artikel 2, onderdeel 17, van de cyberbeveiligingsverordening;
 
-- –. **conformiteitsbeoordelingsinstantie:** conformiteitsbeoordelingsinstantie als bedoeld in artikel 2, onderdeel 18, van de cyberbeveiligingsverordening;
+- – *conformiteitsbeoordelingsinstantie:* conformiteitsbeoordelingsinstantie als bedoeld in artikel 2, onderdeel 18, van de cyberbeveiligingsverordening;
 
-- –. **cyberbeveiligingsverordening:** [verordening (EU) 2019/881](32019R0881) van het Europees Parlement en de Raad van 17 april 2019 inzake Enisa (het Agentschap van de Europese Unie voor cyberbeveiliging), en inzake de certificering van de cyberbeveiliging van informatie- en communicatietechnologie en tot intrekking van Verordening (EU) nr. 526/2013 (de cyberbeveiligingsverordening) (PbEU 2019, L151);
+- – *cyberbeveiligingsverordening:*
+ verordening (EU) 2019/881 van het Europees Parlement en de Raad van 17 april 2019 inzake Enisa (het Agentschap van de Europese Unie voor cyberbeveiliging), en inzake de certificering van de cyberbeveiliging van informatie- en communicatietechnologie en tot intrekking van Verordening (EU) nr. 526/2013 (de cyberbeveiligingsverordening) (PbEU 2019, L151);
 
-- –. **EU-conformiteitsverklaringen:** EU-conformiteitsverklaring afgegeven met inachtneming van artikel 53 van de cyberbeveiligingsverordening;
+- – *EU-conformiteitsverklaringen:* EU-conformiteitsverklaring afgegeven met inachtneming van artikel 53 van de cyberbeveiligingsverordening;
 
-- –. **Europees cyberbeveiligingscertificaat:** Europees cyberbeveiligingscertificaat als bedoeld in artikel 2, onderdeel 11, van de cyberbeveiligingsverordening;
+- – *Europees cyberbeveiligingscertificaat:* Europees cyberbeveiligingscertificaat als bedoeld in artikel 2, onderdeel 11, van de cyberbeveiligingsverordening;
 
-- –. **Europese cyberbeveiligingscertificeringsregeling:** Europese cyberbeveiligingscertificeringsregeling als bedoeld in artikel 2, onderdeel 9, van de cyberbeveiligingsverordening, die door de Europese Commissie is vastgesteld op grond van artikel 49, zevende lid, van de cyberbeveiligingsverordening;
+- – *Europese cyberbeveiligingscertificeringsregeling:* Europese cyberbeveiligingscertificeringsregeling als bedoeld in artikel 2, onderdeel 9, van de cyberbeveiligingsverordening, die door de Europese Commissie is vastgesteld op grond van artikel 49, zevende lid, van de cyberbeveiligingsverordening;
 
-- –. **ICT-dienst:** ICT-dienst als bedoeld in artikel 2, onderdeel 13, van de cyberbeveiligingsverordening;
+- – *ICT-dienst:* ICT-dienst als bedoeld in artikel 2, onderdeel 13, van de cyberbeveiligingsverordening;
 
-- –. **ICT-proces:** ICT-proces als bedoeld in artikel 2, onderdeel 14, van de cyberbeveiligingsverordening;
+- – *ICT-proces:* ICT-proces als bedoeld in artikel 2, onderdeel 14, van de cyberbeveiligingsverordening;
 
-- –. **ICT-product:** ICT-product als bedoeld in artikel 2, onderdeel 12, van de cyberbeveiligingsverordening;
+- – *ICT-product:* ICT-product als bedoeld in artikel 2, onderdeel 12, van de cyberbeveiligingsverordening;
 
-- –. **Onze Minister:** Onze Minister van Economische Zaken en Klimaat;
+- – *Onze Minister:* Onze Minister van Economische Zaken en Klimaat;
 
-- –. **zekerheidsniveau hoog:** zekerheidsniveau als bedoeld in artikel 2, onderdeel 21, in samenhang met artikel 52, zevende lid, van de cyberbeveiligingsverordening.
+- – *zekerheidsniveau hoog:* zekerheidsniveau als bedoeld in artikel 2, onderdeel 21, in samenhang met artikel 52, zevende lid, van de cyberbeveiligingsverordening.
 
 ### Hoofdstuk 2. Nationale cyberbeveiligingscertificeringsautoriteit
 
@@ -159,7 +131,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 1. Onze Minister kan aan de overtreder een bestuurlijke boete opleggen in geval van overtreding van het bepaalde bij of krachtens deze wet en [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-2. De boete bedraagt ten hoogste € 900.000 per overtreding.
+2. De boete bedraagt ten hoogste € 900.000 per overtreding.
 
 ##### Artikel 14. (vergoedingen)
 
@@ -173,15 +145,15 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 Onze Minister doet in de Staatscourant mededeling van de titel, de vindplaats en de datum van inwerkingtreding van de Europese cyberbeveiligingscertificeringsregelingen, alsmede van wijzigingen daarvan.
 
-##### Artikel 16. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 16. (wijziging Algemene wet bestuursrecht)
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 17. (samenloop met wetsvoorstel [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754))
+##### Artikel 17. (samenloop met wetsvoorstel Wet open overheid)
 
-1. Wijzigt de Wet open overheid.
+1. *Wijzigt de Wet open overheid.*
 
-2. Wijzigt deze wet.
+2. *Wijzigt deze wet.*
 
 ##### Artikel 18. (inwerkingtreding)
 
@@ -190,5 +162,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel 19. (citeertitel)
 
 Deze wet wordt aangehaald als: Uitvoeringswet cyberbeveiligingsverordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

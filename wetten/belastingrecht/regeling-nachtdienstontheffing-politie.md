@@ -5,11 +5,11 @@ identifier: "BWBR0032397"
 categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
 publicatiedatum: 2012-12-13
-laatste_update: 2026-03-17
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-03-17
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0032397"
-opgehaald: 2026-08-19
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 3 december 2012, DGPOL/Arbeidsvoorwaardenbeleid, nr. 327477, tot het structureel regelen van de nachtdienstontheffing (Regeling nachtdienstontheffing politie)
@@ -28,7 +28,7 @@ opgehaald: 2026-08-19
 
 3. Met ingang van de eerste betaalperiode na de dag waarop de in het eerste lid bedoelde ontheffing wordt verleend, ontvangt de ambtenaar een maandelijkse toelage. Bij gedeeltelijke ontheffing wordt de toelage berekend naar rato voor de toelage voor de gehele ontheffing.
 
-4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 3,08 respectievelijk € 0,77 en dat bedrag vervolgens te delen door twaalf.
+4. De in het derde lid bedoelde toelage wordt berekend door het aantal uren dat de ambtenaar in de twaalf maanden direct voorafgaand aan de in het eerste lid bedoelde ontheffing dienst heeft verricht of consignatie is opgelegd tussen 00.00 uur en 06.00 uur te vermenigvuldigen met € 3,14 respectievelijk € 0,79 en dat bedrag vervolgens te delen door twaalf.
 
 5. De in het vierde lid genoemde bedragen worden aangepast overeenkomstig een algemene salarismaatregel in de sector Politie.
 

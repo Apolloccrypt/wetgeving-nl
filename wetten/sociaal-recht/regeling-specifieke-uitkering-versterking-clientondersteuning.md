@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2021, kenmerk 3275465-1017787-DMO, houdende het verstrekken van een specifieke uitkering voor het lokaal versterken van de functie van cliëntondersteuning (Regeling specifieke uitkering versterking cliëntondersteuning)"
+citeertitel: "Regeling specifieke uitkering versterking cliëntondersteuning"
 identifier: "BWBR0045758"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-28"
-last_updated: "2025-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045758"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16116603"
-version_id: "28113142"
-internal_id: "C39752921"
-label_id: "16047084"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045758/2025-02-28/0"
-intitule_bron: "Stcrt.2021-45182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-26"
-intitule_published: "2021-11-01"
-intitule_in_force: "2021-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-45182"
-original_signed_date: "2021-10-26"
-original_published_date: "2021-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-45182"
-entry_into_force_date: "2021-12-01"
-jci_1_3: "jci1.3:c:BWBR0045758&z=2025-02-28&g=2025-02-28"
-jci_1_0: "1.0:c:BWBR0045758&g=2025-02-28"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering versterking cliëntondersteuning"
-signed_date: "2021-10-26"
-entry_into_force: "2021-12-01"
+publicatiedatum: 2021-12-01
+laatste_update: 2025-02-28
+status: geldig
+toestand: 2025-02-28
+bron: "https://wetten.overheid.nl/BWBR0045758"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2021, kenmerk 3275465-1017787-DMO, houdende het verstrekken van een specifieke uitkering voor het lokaal versterken van de functie van cliëntondersteuning (Regeling specifieke uitkering versterking cliëntondersteuning)
-
-Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **cliëntondersteuning:** cliëntondersteuning als bedoeld in de [wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)[artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+- *cliëntondersteuning:* cliëntondersteuning als bedoeld in de [wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)[artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
-- **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **uitkering:** een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
+- *uitkering:* een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 2. Toepasselijkheid Kaderregeling en Awb
 
 1. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -66,45 +40,45 @@ In deze regeling wordt verstaan onder:
 
 - b. het doen van onderzoek naar wat er nodig is om de functie van cliëntondersteuning lokaal te versterken.
 
-3. De activiteiten waarvoor een uitkering wordt verstrekt worden verricht in de periode van 1 november 2021 tot en met 30 november 2026.
+3. De activiteiten waarvoor een uitkering wordt verstrekt worden verricht in de periode van 1 november 2021 tot en met 30 november 2026.
 
 ##### Artikel 4. Hoogte van de uitkering en uitkeringsplafond
 
-1. De uitkering bedraagt maximaal € 50.000 per gemeente.
+1. De uitkering bedraagt maximaal € 50.000 per gemeente.
 
 2. Het uitkeringsplafond bedraagt:
 
-- a. voor 2021 € 500.000;
+- a. voor 2021 € 500.000;
 
-- b. voor 2022 € 1.250.000;
+- b. voor 2022 € 1.250.000;
 
-- c. voor najaar 2022 € 1.000.000;
+- c. voor najaar 2022 € 1.000.000;
 
-- d. voor 2023 € 1.250.000;
+- d. voor 2023 € 1.250.000;
 
-- e. voor 2024 € 1.250.000;
+- e. voor 2024 € 1.250.000;
 
-- f. voor 2025 € 1.250.000.
+- f. voor 2025 € 1.250.000.
 
 3. Het ingevolge het uitkeringsplafond beschikbare bedrag wordt verdeeld op volgorde van binnenkomst van volledige aanvragen.
 
-4. Als de aanvraag krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) is aangevuld, geldt bij de verdeling van het ingevolge het uitkeringsplafond beschikbare bedrag de dag waarop de volledig aangevulde aanvraag is ontvangen, als de datum van ontvangst.
+4. Als de aanvraag krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) is aangevuld, geldt bij de verdeling van het ingevolge het uitkeringsplafond beschikbare bedrag de dag waarop de volledig aangevulde aanvraag is ontvangen, als de datum van ontvangst.
 
 ##### Artikel 5. Aanvraag tot verlening
 
 1. De aanvraag tot verlening van een uitkering:
 
-- a. in 2021 kan worden ingediend tot en met 15 november 2021;
+- a. in 2021 kan worden ingediend tot en met 15 november 2021;
 
-- b. in 2022 kan worden ingediend tot en met 29 april 2022;
+- b. in 2022 kan worden ingediend tot en met 29 april 2022;
 
-- c. in najaar 2022 kan worden ingediend tot en met 14 oktober 2022;
+- c. in najaar 2022 kan worden ingediend tot en met 14 oktober 2022;
 
-- d. in 2023 kan worden ingediend tot en met 28 april 2023;
+- d. in 2023 kan worden ingediend tot en met 28 april 2023;
 
-- e. in 2024 kan worden ingediend tot en met 1 april 2024;
+- e. in 2024 kan worden ingediend tot en met 1 april 2024;
 
-- f. in 2025 kan worden ingediend tot en met 1 april 2025.
+- f. in 2025 kan worden ingediend tot en met 1 april 2025.
 
 2. Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -128,9 +102,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Verantwoording
 
-1. De gemeente legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+1. De gemeente legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. De gemeente vraagt uiterlijk op 15 juli na afloop van het kalenderjaar waarin de activiteiten waarvoor de uitkering is verleend zijn verricht, de vaststelling aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in het eerste lid.
+2. De gemeente vraagt uiterlijk op 15 juli na afloop van het kalenderjaar waarin de activiteiten waarvoor de uitkering is verleend zijn verricht, de vaststelling aan door verantwoordingsinformatie aan de minister te verstrekken op de wijze bedoeld in het eerste lid.
 
 ##### Artikel 9. Vaststelling van de uitkering
 
@@ -144,10 +118,8 @@ De minister kan één of meer bepalingen van deze regeling buiten toepassing lat
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking op een door de minister te bepalen tijdstip en vervalt met ingang van 1 december 2026, met dien verstande dat deze regeling van toepassing blijft op uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking op een door de minister te bepalen tijdstip en vervalt met ingang van 1 december 2026, met dien verstande dat deze regeling van toepassing blijft op uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering versterking cliëntondersteuning.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Handhavingsbeleid prioritering handhavingsonderzoeken"
 identifier: "BWBR0045757"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-11-01"
-last_updated: "2021-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045757"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16116373"
-version_id: "28112882"
-internal_id: "C39646041"
-label_id: "16046894"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045757/2021-11-01/0"
-intitule_bron: "Stcrt.2021-44765"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-11-01"
-intitule_in_force: "2021-11-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-44765"
-original_published_date: "2021-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-44765"
-entry_into_force_date: "2021-11-01"
-jci_1_3: "jci1.3:c:BWBR0045757&z=2021-11-01&g=2021-11-01"
-jci_1_0: "1.0:c:BWBR0045757&g=2021-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-11-01"
+publicatiedatum: 2021-11-01
+laatste_update: 2021-11-01
+status: geldig
+toestand: 2021-11-01
+bron: "https://wetten.overheid.nl/BWBR0045757"
+opgehaald: 2026-09-01
 ---
+
 # Handhavingsbeleid prioritering handhavingsonderzoeken
 
 ### 1. Inleiding
@@ -38,7 +19,7 @@ De Kansspelautoriteit (hierna: Ksa) heeft op grond van [artikel 33b van de Wet o
 
 ### 1.1. Kansspelen op afstand
 
-Kansspelen kunnen op afstand worden aangeboden. Kansspelen op afstand zijn kansspelen waaraan de speler met elektronische communicatiemiddelen en zonder fysiek contact met de organisator van de kansspelen (hierna: de aanbieder) deelneemt. Op 1 april 2021 is de [wet Kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (hierna: wet Koa) in werking getreden waarmee de [Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) is gewijzigd. Hierdoor is het mogelijk om een vergunning aan te vragen voor het organiseren van kansspelen op afstand. Met het verlenen van deze vergunningen is het in Nederland mogelijk legaal kansspelen op afstand aan te bieden. Met deze wijziging van de Wok beoogt de regering de bestaande en toekomstige behoefte aan kansspelen op afstand naar een verantwoord, betrouwbaar en controleerbaar aanbod te leiden.
+Kansspelen kunnen op afstand worden aangeboden. Kansspelen op afstand zijn kansspelen waaraan de speler met elektronische communicatiemiddelen en zonder fysiek contact met de organisator van de kansspelen (hierna: de aanbieder) deelneemt. Op 1 april 2021 is de [wet Kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) (hierna: wet Koa) in werking getreden waarmee de [Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) is gewijzigd. Hierdoor is het mogelijk om een vergunning aan te vragen voor het organiseren van kansspelen op afstand. Met het verlenen van deze vergunningen is het in Nederland mogelijk legaal kansspelen op afstand aan te bieden. Met deze wijziging van de Wok beoogt de regering de bestaande en toekomstige behoefte aan kansspelen op afstand naar een verantwoord, betrouwbaar en controleerbaar aanbod te leiden.
 
 Doel van de [wet Koa](https://wetten.overheid.nl/jci1.3:c:BWBR0042051) is de daadwerkelijke vraag naar kansspelen op afstand die nu bestaat of in de toekomst kan ontstaan, te kanaliseren.1MvT wet Kanspelen op afstand, p. 2.
 
@@ -70,17 +51,33 @@ Bij het stellen van prioriteiten staat voor de Ksa ‘Veilig spelen’ centraal.
 
 De Ksa bepaalt de prioriteit van een onderzoek over een mogelijke overtreding aan de hand van vier vragen. Dit zijn:
 
+- A. Hoeveel Nederlandse spelers maken gebruik van het illegale aanbod?
+
+- B. Hoe schadelijk is het illegale aanbod voor de publieke doelen van de Ksa?
+
+- C. Is er sprake van illegaal aanbod of andere omstandigheden die spelers kunnen wegtrekken van de legale markt?
+
+- D. In welke mate richt het illegale aanbod zich op de Nederlandse consument?
+
 De Ksa beziet en weegt de scores op deze criteria in samenhang af. De mogelijke overtredingen die zich prioriteren worden onderzocht. Toepassing van de criteria laat onverlet dat een niet geprioriteerd onderzoek op een later moment alsnog opgestart kan worden.
 
+A. Nederlandse spelers
+
 De Ksa bestrijdt illegaliteit. Wanneer er veel Nederlandse spelers gebruik maken van illegaal aanbod, betekent dit dat er veel Nederlandse spelers onveilig spelen. De mate waarin de Nederlandse speler gebruik maakt van het illegale aanbod is bij de prioritering van belang. Wanneer een aanbieder veel Nederlandse klanten bedient, weegt dit zwaarder mee bij de prioritering. De Ksa kan, om een inschatting te maken van de omvang, onder andere onderzoek doen naar het aantal Nederlandse klanten dat speelt bij een illegale aanbieder en het aantal Nederlandse bezoekers op het platform.
+
+B. Publieke doelen
 
 Het kansspelbeleid heeft als doelstelling het beschermen van consumenten, het voorkomen van kansspelverslaving en het bestrijden van illegaliteit en criminaliteit. Dit zijn ook de publieke doelen van de Ksa. De speler staat centraal in de missie van de Ksa. De consument moet veilig kunnen spelen. Hij moet worden beschermd tegen de risico’s van kansspelverslaving en criminaliteit. De Ksa pakt uitwassen aan. Die belangen spelen een rol bij de overweging om wel of niet een handhavingsonderzoek te starten.
 
 Bij de beoordeling van signalen over mogelijke overtredingen beoordeelt de Ksa aan de hand van de beschikbare informatie in welke mate de vermoedelijke overtreding de consument kan raken. Dit kan bijvoorbeeld gaan om financiële schade, in het geval van oplichting, oneerlijk spel en niet uitbetalen. Maar ook bij misleiding van een consument, bijvoorbeeld door misbruik van het woordmerk van de Ksa of op een andere manier voordoen als vergund (en daarmee veilig) is er sprake van schade. Ook andere zaken met betrekking tot veilig spelen kunnen een rol spelen bij de vraag of en zo ja, hoezeer er sprake kan zijn van schade voor de publieke doelen. De Ksa weegt schade voor kwetsbare groepen, zoals (oud) spelers met een kansspelverslaving of minderjarigen bijzonder zwaar mee in de prioritering. Dit kan bijvoorbeeld gaan om signalen dat minderjarigen toegang hebben tot kansspelen of dat onmatige deelname aan kansspelen wordt gestimuleerd.
 
+C. Spelers wegtrekken van de legale markt
+
 Doel van de regulering van kansspelen op afstand is de consument zoveel mogelijk naar het legale kansspelaanbod te leiden. Vergunde aanbieders moeten voldoen aan de eisen uit de regelgeving en daarmee een veilig kansspelaanbod aan de consument bieden. Illegale aanbieders hebben geen vergunning en staan niet onder toezicht van de Ksa. Hiermee kunnen zij kansspelen aanbieden, en kunnen zich andere omstandigheden voordoen, die niet zijn toegestaan op grond van de regelgeving. Vergunde aanbieders kunnen dit niet. Een aantal van deze omstandigheden kan aantrekkelijk zijn voor bepaalde spelers. Deze spelers worden hierdoor weggetrokken van het legale aanbod. Dit ondermijnt de kanalisatie. Verboden kansspelaanbod en andere omstandigheden bij een illegale aanbieder die spelers kunnen wegtrekken van het legale aanbod weegt daarom mee in de prioritering.
 
 Voorbeelden zijn het aanbieden van kansspelen op afstand die niet zijn toegestaan met een vergunning, zoals weddenschappen op bepaalde wedstrijdvormen, competities, spelmomenten en gebeurtenissen, het niet voldoen aan de eisen voor inschrijving en aanmelding van spelers of het aanbieden van bepaalde verboden betaalinstrumenten. Deze voorbeelden zijn niet toegestaan met een vergunning vanwege allerlei risico’s die ze met zich meebrengen. Denk aan manipulatie van de gebeurtenissen waarop gewed wordt (matchfixing) en witwassen door middel van gearrangeerde weddenschappen, het gebruik van anonieme betaalinstrumenten en geen verificatie van de identiteit van een speler. Maar ook ten aanzien van verslavingspreventie is het in het bijzonder van belang dat dit soort zaken wordt bestreden. Naast deze voorbeelden kunnen er andere omstandigheden zijn die spelers wegtrekken van de legale markt die meewegen in de prioritering.
+
+D. Richten op de Nederlandse consument
 
 Een illegale aanbieder kan zich mede richten op de Nederlandse consument en hiermee spelers trekken naar onveilig kansspelaanbod. De mate van gerichtheid op de Nederlandse consument weegt daarom mee in de prioritering. Er kan reclame worden gemaakt gericht op de Nederlandse consument. Hierbij weegt het promoten van verboden kansspelaanbod en andere omstandigheden die spelers kunnen wegtrekken van de legale markt, zoals benoemd onder C, extra zwaar mee.
 
@@ -94,4 +91,4 @@ Dit handhavingsbeleid laat onverlet dat het Openbaar Ministerie op basis van het
 
 ### 7. Inwerkingtreding
 
-Dit handhavingsbeleid treedt in werking per 1 november 2021.
+Dit handhavingsbeleid treedt in werking per 1 november 2021.

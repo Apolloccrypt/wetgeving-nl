@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2021/329303, houdende vaststelling van regels voor subsidie ter stimulering van de aanschaf van nieuwe emissieloze vrachtauto’s (Aanschafsubsidieregeling zero-emissie trucks AanZET)"
+citeertitel: "Aanschafsubsidieregeling zero-emissie trucks AanZET"
 identifier: "BWBR0046589"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-15"
-last_updated: "2026-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046589"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16335523"
-version_id: "28572542"
-internal_id: "C40319021"
-label_id: "16260174"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046589/2026-04-15/0"
-intitule_bron: "Stcrt.2022-11166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-19"
-intitule_published: "2022-04-25"
-intitule_in_force: "2022-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-11166"
-original_signed_date: "2022-04-19"
-original_published_date: "2022-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-11166"
-entry_into_force_date: "2022-05-09"
-jci_1_3: "jci1.3:c:BWBR0046589&z=2026-04-15&g=2026-04-15"
-jci_1_0: "1.0:c:BWBR0046589&g=2026-04-15"
-citeertitel_status: "officieel"
-short_title: "Aanschafsubsidieregeling zero-emissie trucks AanZET"
-signed_date: "2022-04-19"
-entry_into_force: "2022-05-09"
+publicatiedatum: 2022-05-09
+laatste_update: 2026-09-01
+status: geldig
+toestand: 2026-09-01
+bron: "https://wetten.overheid.nl/BWBR0046589"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2021/329303, houdende vaststelling van regels voor subsidie ter stimulering van de aanschaf van nieuwe emissieloze vrachtauto’s (Aanschafsubsidieregeling zero-emissie trucks AanZET)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onder b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,51 +20,56 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **aanschaf:** verkrijging van de eigendom, bedoeld in [artikel 3:84, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=84) krachtens koop of financial leasing, als bedoeld in [paragraaf 3.2 van het Besluit Omzetbelasting. Leasing](onbekend) van 25 januari 2007, nr. CPP2006/2847M, Stcrt 2007, nr. 24;
+- *aanschaf:* verkrijging van de eigendom, bedoeld in [artikel 3:84, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=84) krachtens koop of financial leasing, als bedoeld in [paragraaf 3.2 van het Besluit Omzetbelasting. Leasing](https://wetten.overheid.nl/BWBR0021132) van 25 januari 2007, nr. CPP2006/2847M, Stcrt 2007, nr. 24;
 
-- **aanvrager:** onderneming of non-profitinstelling, niet zijnde een publiekrechtelijk zelfstandig bestuursorgaan met rechtspersoonlijkheid, een provincie, gemeente, waterschap of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die is ingeschreven bij de Kamer van Koophandel, met een vestiging in Nederland en die een subsidie aanvraagt op grond van deze regeling;
+- *aanvrager:* onderneming of non-profitinstelling, niet zijnde een publiekrechtelijk zelfstandig bestuursorgaan met rechtspersoonlijkheid, een provincie, gemeente, waterschap of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740), die is ingeschreven bij de Kamer van Koophandel, met een vestiging in Nederland en die een subsidie aanvraagt op grond van deze regeling;
 
-- **algemene groepsvrijstellingsverordening:** Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
+- *algemene groepsvrijstellingsverordening:* Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- **bakwagenchassis:** motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32758R2018) waarop een laadmogelijkheid gecreëerd kan worden; in ieder geval wordt als bakwagenchassis aangemerkt een voertuig met carrosserietype BX of BA volgens [verordening (EU) 2018/858](32758R2018);
+- *bakwagenchassis:* motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens verordening (EU) 2018/858 waarop een laadmogelijkheid gecreëerd kan worden; in ieder geval wordt als bakwagenchassis aangemerkt een voertuig met carrosserietype BX of BA volgens verordening (EU) 2018/858;
 
-- **eerste inschrijving en tenaamstelling:** eerste inschrijving en tenaamstelling als bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25);
+- *eerste inschrijving en tenaamstelling:* eerste inschrijving en tenaamstelling als bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25);
 
-- **emissieloze vrachtauto:** emissievrij vervoermiddel als bedoeld in artikel 2, punt 102 octies, onderdeel c, van de algemene groepsvrijstellingsverordening, dat als motorvoertuig kwalificeert en dat valt onder de voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32018R0858);
+- *emissieloze vrachtauto:* emissievrij vervoermiddel als bedoeld in artikel 2, punt 102 octies, onderdeel c, van de algemene groepsvrijstellingsverordening, dat als motorvoertuig kwalificeert en dat valt onder de voertuigcategorie N2 of N3 volgens verordening (EU) 2018/858;
 
-- **gewicht:** technisch toegestane maximummassa als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
+- *EU-typegoedkeuring:* goedkeuring als bedoeld in artikel 3, tweede lid, van verordening (EU) 2018/858;
 
-- **groep:** groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- *gewicht:* technisch toegestane maximummassa als bedoeld in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1);
 
-- **grote onderneming:** onderneming die niet aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
+- *groep:* groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- **kentekenregister:** kentekenregister als bedoeld in [artikel 42 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42);
+- *grote onderneming:* onderneming die niet aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
 
-- **kleine onderneming:** onderneming als bedoeld in artikel 2, onder 2, van de algemene groepsvrijstellingsverordening en die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
+- *kentekenregister:* kentekenregister als bedoeld in [artikel 42 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42);
 
-- **middelgrote onderneming:** onderneming als bedoeld in artikel 2, onder 2, van de algemene groepsvrijstellingsverordening en die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
+- *kleine onderneming:* onderneming als bedoeld in artikel 2, onder 2, van de algemene groepsvrijstellingsverordening en die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *middelgrote onderneming:* onderneming als bedoeld in artikel 2, onder 2, van de algemene groepsvrijstellingsverordening en die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoet;
 
-- **nieuwe emissieloze vrachtauto:** emissieloze vrachtauto waarvan, blijkens vermelding in het kentekenregister, de datum eerste toelating, de datum eerste inschrijving in Nederland en de datum tenaamstelling, gelijk zijn;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **non-profitinstelling:** rechtspersoonlijkheid bezittende entiteit zonder winstoogmerk, die tot doel heeft de ondersteuning van private of publieke aangelegenheden van niet-commerciële aard;
+- *nationale typegoedkeuring:* goedkeuring als bedoeld in artikel 3, derde lid, van verordening (EU) 2018/858;
 
-- **onderneming:** iedere entiteit, ongeacht haar rechtsvorm die een economische activiteit uitoefent;
+- *nieuwe emissieloze vrachtauto:* emissieloze vrachtauto waarvan, blijkens vermelding in het kentekenregister, de datum eerste toelating, de datum eerste inschrijving in Nederland en de datum tenaamstelling, gelijk zijn;
 
-- **overeenkomst:** schriftelijke overeenkomst tot koop als bedoeld in [artikel 7:1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=1) of een schriftelijke overeenkomst tot financial leasing, bedoeld in [paragraaf 3.2 van het Besluit Omzetbelasting. Leasing](onbekend) van 25 januari 2007, nr. CPP2006/2847M, Stcrt. 2007, nr. 24;
+- *non-profitinstelling:* rechtspersoonlijkheid bezittende entiteit zonder winstoogmerk, die tot doel heeft de ondersteuning van private of publieke aangelegenheden van niet-commerciële aard;
 
-- **RVO:** Rijksdienst voor Ondernemend Nederland;
+- *onderneming:* iedere entiteit, ongeacht haar rechtsvorm die een economische activiteit uitoefent;
 
-- **opleggertrekker:** motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens [verordening (EU) 2018/858](32758R2018) dat hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC volgens [verordening (EU) 2018/858](32758R2018);
+- *overeenkomst:* schriftelijke overeenkomst tot koop als bedoeld in [artikel 7:1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=1) of een schriftelijke overeenkomst tot financial leasing, bedoeld in [paragraaf 3.2 van het Besluit Omzetbelasting. Leasing](https://wetten.overheid.nl/BWBR0021132) van 25 januari 2007, nr. CPP2006/2847M, Stcrt. 2007, nr. 24;
 
-- **verkoopprijs:** prijs van de emissieloze vrachtauto inclusief af-fabriekopties, exclusief de opbouw die bovenop het bakwagenchassis wordt gebouwd, en zoals vermeld op de overeenkomst verminderd met de daarin begrepen omzetbelasting;
+- *RVO:* Rijksdienst voor Ondernemend Nederland;
 
-- **verordening (EU) 2018/858:** [Verordening (EU) 2018/858](32758R2018) van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van Verordeningen (EG) nr. 715/2007 en (EG) nr. 595/2009 en tot intrekking van [Richtlijn 2007/46/EG](32007L0046) (PbEU 2018, L151);
+- *opleggertrekker:* motorvoertuig als bedoeld in voertuigcategorie N2 of N3 volgens verordening (EU) 2018/858 dat hoofdzakelijk is ontworpen en gebouwd voor het trekken van opleggers; in ieder geval wordt als opleggertrekker aangemerkt een voertuig met carrosserietype BC volgens verordening (EU) 2018/858;
 
-- **verstrekkingsvoorbehoud:** registratie als bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25) van de rechtspersoon of natuurlijk persoon die over de tenaamstellingscode van een voertuig in het kentekenregister kan beschikken;
+- *verkoopprijs:* prijs van de emissieloze vrachtauto inclusief af-fabriekopties, exclusief de opbouw die bovenop het bakwagenchassis wordt gebouwd, en zoals vermeld op de overeenkomst verminderd met de daarin begrepen omzetbelasting;
 
-- **voertuigclassificatie N2 en N3:** voertuigclassificaties N2 en N3 als bedoeld in [verordening (EU) 2018/858](32758R2018).
+- *verordening (EU) 2018/858:*
+ Verordening (EU) 2018/858 van het Europees Parlement en de Raad van 30 mei 2018 betreffende de goedkeuring van en het markttoezicht op motorvoertuigen en aanhangwagens daarvan en systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd, tot wijziging van Verordeningen (EG) nr. 715/2007 en (EG) nr. 595/2009 en tot intrekking van Richtlijn 2007/46/EG (PbEU 2018, L151);
+
+- *verstrekkingsvoorbehoud:* registratie als bedoeld in [artikel 25 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25) van de rechtspersoon of natuurlijk persoon die over de tenaamstellingscode van een voertuig in het kentekenregister kan beschikken;
+
+- *voertuigclassificatie N2 en N3:* voertuigclassificaties N2 en N3 als bedoeld in verordening (EU) 2018/858.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -104,29 +83,29 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 1. De subsidie bedraagt:
 
-- a. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N2 bakwagenchassis met een gewicht van minstens 10.000 kilogram:
+- a. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N2 bakwagenchassis met een gewicht van minstens 10.000 kilogram:
 
-  - 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 15.200;
+   - 1°. bij grote ondernemingen: 6,1% van de verkoopprijs tot een maximum van € 15.200;
 
-  - 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 29.900;
+   - 2°. bij middelgrote ondernemingen: 12% van de verkoopprijs tot een maximum van € 29.900;
 
-  - 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 36.900;
+   - 3°. bij kleine ondernemingen en non-profitinstellingen: 14,8% van de verkoopprijs tot een maximum van € 36.900;
 
-- b. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis:
+- b. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 bakwagenchassis:
 
-  - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
+   - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
-  - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
+   - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
 
-  - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200;
+   - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200;
 
-- c. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 opleggertrekker:
+- c. voor een nieuwe emissieloze vrachtauto die valt onder de voertuigclassificatie N3 opleggertrekker:
 
-  - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
+   - 1°. bij grote ondernemingen: 11,1% van de verkoopprijs tot een maximum van € 43.900;
 
-  - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
+   - 2°. bij middelgrote ondernemingen: 21% van de verkoopprijs tot een maximum van € 83.200;
 
-  - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200.
+   - 3°. bij kleine ondernemingen en non-profitinstellingen: 29% van de verkoopprijs tot een maximum van € 115.200.
 
 2. Wanneer het subsidiebedrag, bedoeld in het eerste lid, de maximale steunruimte van de algemene groepsvrijstellingsverordening overschrijdt, wordt de overschrijding in mindering gebracht op het subsidiebedrag.
 
@@ -136,23 +115,27 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 1. Het subsidieplafond is:
 
-- a. voor het jaar 2022 € 25.000.000;
+- a. voor het jaar 2022 € 25.000.000;
 
-- b. voor het jaar 2023 € 57.400.000;
+- b. voor het jaar 2023 € 57.400.000;
 
 - c. voor het jaar 2024:
 
-  - i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15),
+   - i. € 45.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01),
 
-  - ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
+   - ii. € 22.228.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel c, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01);
 
 - d. voor het jaar 2025:
 
-  - i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
+   - i. € 35.300.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01);
 
-  - ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15);
+   - ii. € 30.000.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel d, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01);
 
-- e. voor het jaar 2026: € 85.800.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-04-15&g=2026-04-15).
+- e. voor het jaar 2026:
+
+   - i. € 85.800.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01);
+
+   - ii. € 119.200.000 voor aanvragen gedaan in de periode bedoeld in [artikel 2.2, tweede lid, onderdeel e, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=2&artikel=2.2&z=2026-09-01&g=2026-09-01).
 
 2. De Minister stelt het subsidieplafond vast voor de jaren na 2024 en geeft hiervan kennis in de Staatscourant voor aanvang van het kalenderjaar waarvoor het betreffende subsidieplafond wordt vastgesteld.
 
@@ -170,7 +153,7 @@ De Minister kan, overeenkomstig het bepaalde bij deze regeling, aan een aanvrage
 
 Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
-- a. het gewicht van de nieuwe emissieloze vrachtauto bedraagt minstens 10.000 kilogram;
+- a. het gewicht van de nieuwe emissieloze vrachtauto bedraagt minstens 10.000 kilogram;
 
 - b. de aanschaf van de nieuwe emissieloze vrachtauto door de aanvrager vindt plaats op basis van een overeenkomst die ten tijde van de aanvraag om subsidieverlening geen onherroepelijke verplichtingen mag bevatten;
 
@@ -184,27 +167,27 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 2. Een aanvraag tot subsidieverlening op grond van deze regeling kan worden ingediend:
 
-- a. in 2022 van 9 mei 2022, 9.00 uur tot en met 31 december 2022, 12.00 uur;
+- a. in 2022 van 9 mei 2022, 9.00 uur tot en met 31 december 2022, 12.00 uur;
 
-- b. in 2023 van 4 april 2023, 9.00 uur tot en met 29 december 2023, 12.00 uur;
+- b. in 2023 van 4 april 2023, 9.00 uur tot en met 29 december 2023, 12.00 uur;
 
 - c. in 2024:
 
-  - i. van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
+   - i. van 26 maart 2024, 9.00 uur tot en met 24 mei 2024, 12.00 uur;
 
-  - ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
+   - ii. van 1 oktober 2024, 9.00 uur tot en met 8 oktober 2024, 12.00 uur;
 
 - d. in 2025:
 
-  - i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
+   - i. van 28 januari 2025, 9.00 uur tot en met 7 februari 2025, 12.00 uur;
 
-  - ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur;
+   - ii. van 30 september 2025, 9.00 uur tot en met 10 oktober 2025, 12.00 uur;
 
 - e. in 2026:
 
-  - i. van 27 januari 2026, 9.00 uur tot en met 13 februari 2026, 12.00 uur;
+   - i. van 27 januari 2026, 9.00 uur tot en met 13 februari 2026, 12.00 uur;
 
-  - ii. van 29 september 2026, 9.00 uur tot en met 16 oktober 2026, 12.00 uur.
+   - ii. van 29 september 2026, 9.00 uur tot en met 16 oktober 2026, 12.00 uur.
 
 3. Als tijdstip van indiening van een aanvraag geldt de datum van ontvangst van de volledige aanvraag.
 
@@ -214,9 +197,9 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - b. vanaf de derde werkdag van de aanvraagperiode één aanvraag per werkdag indienen voor de aanschaf van ten hoogste tien emissieloze vrachtauto’s.
 
-5. Indien een aanvrager op een werkdag meerdere aanvragen indient, of indien meerdere aanvragers die tot eenzelfde groep behoren op een werkdag een aanvraag indienen, neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
+5. Indien een aanvrager op een werkdag meerdere aanvragen indient neemt de Minister uitsluitend de eerst ingediende aanvraag in behandeling.
 
-6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2026-04-15&g=2026-04-15), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
+6. Na bekendmaking van het bereiken van het subsidieplafond als bedoeld in [artikel 1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=1&artikel=1.5&z=2026-09-01&g=2026-09-01), kan in afwijking van het tweede lid, geen aanvraag meer worden ingediend.
 
 ##### Artikel 2.3. Gegevensverstrekking aanvraag subsidieverlening
 
@@ -232,7 +215,7 @@ Voor de subsidieverlening moet zijn voldaan aan de volgende voorwaarden:
 
 - d. BSN-nummer van de aanvrager wanneer een onderneming door een natuurlijk persoon wordt gedreven;
 
-- e. merk, type en handelsbenaming van de nieuwe emissieloze vrachtauto waarvoor subsidie wordt aangevraagd;
+- e. fabrikant, type en handelsbenaming van de nieuwe emissieloze vrachtauto waarvoor subsidie wordt aangevraagd;
 
 - f. de hoogte van de verkoopprijs;
 
@@ -254,9 +237,11 @@ De Minister beslist afwijzend op een aanvraag om subsidie:
 
 - d. voor zover er sprake is van ongeoorloofde cumulatie van steun als bedoeld in artikel 8 van de algemene groepsvrijstellingsverordening;
 
-- e. indien er sprake is van een onderneming in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening; of
+- e. indien er sprake is van een onderneming in moeilijkheden als bedoeld in artikel 2, achttiende lid, van de algemene groepsvrijstellingsverordening;
 
-- f. indien de subsidieverstrekking niet in overeenstemming is met enige andere bepaling van de algemene groepsvrijstellingsverordening.
+- f. indien de subsidieverstrekking niet in overeenstemming is met enige andere bepaling van de algemene groepsvrijstellingsverordening; of
+
+- g. indien de aanvrager niet kan aantonen dat de fabrikant van de nieuwe emissieloze vrachtauto op het moment van aanvragen beschikt over een EU-typegoedkeuring of nationale typegoedkeuring voor een emissieloze vrachtauto.
 
 ##### Artikel 2.5. Aanvraag subsidievaststelling
 
@@ -278,7 +263,7 @@ Bij de aanvraag tot vaststelling van de subsidie worden in elk geval de volgende
 
 ##### Artikel 2.7. Beslistermijn
 
-1. De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ontvangst van de aanvraag.
+1. De beschikking op een aanvraag wordt gegeven binnen 13 weken na de datum van ontvangst van de aanvraag.
 
 2. Indien de beschikking niet binnen 13 weken kan worden gegeven, kan deze termijn eenmaal met diezelfde termijn worden verlengd.
 
@@ -292,9 +277,9 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 2.10. Gewijzigde vaststelling en terugvordering
 
-1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-04-15&g=2026-04-15), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
+1. Indien niet is voldaan aan het bepaalde in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-09-01&g=2026-09-01), kan de Minister, onverminderd het bepaalde in de [artikelen 4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57), besluiten de vaststelling van de subsidie te wijzigen en het onverschuldigd betaalde deel van de subsidie terug te vorderen.
 
-2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-04-15&g=2026-04-15).
+2. Het terug te vorderen bedrag wordt bepaald door de subsidie te verminderen met 1/48e van het verstrekte subsidiebedrag vermenigvuldigd met het aantal volledige maanden waarin niet is voldaan aan de verplichting, bedoeld in [artikel 3.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046589&hoofdstuk=3&artikel=3.2&z=2026-09-01&g=2026-09-01).
 
 ### Hoofdstuk 3. Verplichtingen
 
@@ -318,9 +303,11 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 1. De subsidieontvanger is verplicht:
 
-- a. de nieuwe emissieloze vrachtauto of vrachtauto’s waarvoor subsidie is verleend op zijn naam te stellen of een verstrekkingsvoorbehoud op zijn naam te registreren in het kentekenregister; en
+- a. de nieuwe emissieloze vrachtauto of vrachtauto’s waarvoor subsidie is verleend op zijn naam te stellen of een verstrekkingsvoorbehoud op zijn naam te registreren in het kentekenregister;
 
-- b. er zorg voor te dragen dat de nieuwe emissieloze vrachtauto gedurende vier jaar vanaf de datum van de eerste inschrijving en tenaamstelling of registratie van het verstrekkingsvoorbehoud, ononderbroken op zijn naam is gesteld of een verstrekkingsvoorbehoud op zijn naam is geregistreerd in het kentekenregister.
+- b. er zorg voor te dragen dat de nieuwe emissieloze vrachtauto gedurende vier jaar vanaf de datum van de eerste inschrijving en tenaamstelling of registratie van het verstrekkingsvoorbehoud, ononderbroken op zijn naam is gesteld of een verstrekkingsvoorbehoud op zijn naam is geregistreerd in het kentekenregister; en
+
+- c. binnen één maand na de datum van de beschikking tot subsidieverlening desgevraagd aan te tonen dat de overeenkomst met betrekking tot de aanschaf van de nieuwe emissieloze vrachtauto onherroepelijk is geworden.
 
 2. De verplichting, bedoeld in het eerste lid, onder b, geldt niet indien de subsidieontvanger de nieuwe emissieloze vrachtauto vervangt door een andere nieuwe emissieloze vrachtauto die ook in aanmerking zou zijn gekomen voor subsidie op grond van deze regeling en deze andere vrachtauto gedurende de nog resterende termijn van de periode, genoemd in het eerste lid, onder b, op zijn naam is gesteld of middels een verstrekkingsvoorbehoud op zijn naam is geregistreerd. In dit geval wordt de vaststellingsbeschikking op verzoek van de subsidieontvanger, na verstrekking van het kenteken, overeenkomst en factuur van deze andere vrachtauto, dienovereenkomstig gewijzigd.
 
@@ -350,10 +337,8 @@ Na vaststelling van de subsidie vindt de betaling van het resterende subsidiebed
 
 ##### Artikel 4.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 9 mei 2022 en vervalt met ingang van 8 mei 2027, met dien verstande dat zij van toepassing blijft op subsidies die voor de laatstgenoemde datum zijn aangevraagd.
+Deze regeling treedt in werking met ingang van 9 mei 2022 en vervalt met ingang van 8 mei 2027, met dien verstande dat zij van toepassing blijft op subsidies die voor de laatstgenoemde datum zijn aangevraagd.
 
 ##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Aanschafsubsidieregeling zero-emissie trucks AanZET.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

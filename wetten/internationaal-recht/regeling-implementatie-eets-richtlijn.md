@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/108251, houdende regels voor een goede uitvoering van de Wet implementatie EETS-richtlijn (Regeling implementatie EETS-richtlijn)"
+citeertitel: "Regeling implementatie EETS-richtlijn"
 identifier: "BWBR0045661"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-10-19"
-last_updated: "2021-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045661"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16090343"
-version_id: "28056702"
-internal_id: "C39568981"
-label_id: "16021504"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045661/2021-10-19/0"
-intitule_bron: "Stcrt.2021-41535"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-09-15"
-intitule_published: "2021-10-04"
-intitule_in_force: "2021-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-41535"
-original_signed_date: "2021-09-15"
-original_published_date: "2021-10-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-41535"
-entry_into_force_date: "2021-10-19"
-jci_1_3: "jci1.3:c:BWBR0045661&z=2021-10-19&g=2021-10-19"
-jci_1_0: "1.0:c:BWBR0045661&g=2021-10-19"
-citeertitel_status: "officieel"
-short_title: "Regeling implementatie EETS-richtlijn"
-signed_date: "2021-09-15"
-entry_into_force: "2021-10-19"
+publicatiedatum: 2021-10-19
+laatste_update: 2021-10-19
+status: geldig
+toestand: 2021-10-19
+bron: "https://wetten.overheid.nl/BWBR0045661"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 september 2021, nr. IENW/BSK-2021/108251, houdende regels voor een goede uitvoering van de Wet implementatie EETS-richtlijn (Regeling implementatie EETS-richtlijn)
-
-Gelet op [Richtlijn (EU) 2019/520](32019L0520) van het Europees parlement en de Raad van 19 maart 2019 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer en ter facilitering van de grensoverschrijdende uitwisseling van informatie over niet-betaling van wegentol in de Unie (PbEU 2019, L 91) en de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=5), [7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=7), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=35) en [40, zevende lid, van de Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586&artikel=40);
-
-besluit:
-
-Treedt in werking op het tijdstip waarop de Wet implementatie EETS-richtlijn in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,7 +20,8 @@ Treedt in werking op het tijdstip waarop de Wet implementatie EETS-richtlijn in 
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- **wet:** [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586).
+- *wet:*
+ [Wet implementatie EETS-richtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0045586).
 
 ### Hoofdstuk 2. Registratie EETS-aanbieders
 
@@ -62,17 +35,17 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - c. een gedetailleerde beschrijving van de kennis en vaardigheden, voorzien van een door een registeraccountant opgesteld rapport van feitelijke bevindingen, van de aanvrager omtrent elektronische toldiensten of van de bekwaamheid op andere voor tolheffing relevante gebieden over de laatste drie boekjaren, waarin ieder geval vermeld staat:
 
-- 1º. het type van de aangeboden dienst;
+   - 1º. het type van de aangeboden dienst;
 
-- 2º. de uitgevoerde activiteiten;
+   - 2º. de uitgevoerde activiteiten;
 
-- 3º. omvang van de activiteit in aantallen en geld;
+   - 3º. omvang van de activiteit in aantallen en geld;
 
-- 4º. het aantal klanten;
+   - 4º. het aantal klanten;
 
-- 5º. een beschrijving van de ingezette systemen en apparatuur;
+   - 5º. een beschrijving van de ingezette systemen en apparatuur;
 
-- 6º. voor zover het geen elektronische toldienst betreft, hoe de activiteit relevant is voor elektronische tolheffing;
+   - 6º. voor zover het geen elektronische toldienst betreft, hoe de activiteit relevant is voor elektronische tolheffing;
 
 - d. het laatste jaarverslag en de laatste jaarrekening, die niet ouder dan twee jaar zijn, van de aanvrager of indien van toepassing van de entiteit die financieel garant staat welke voorzien is van een goedkeurende accountantsverklaring als bedoeld in [artikel 393, zesde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393);
 
@@ -144,11 +117,11 @@ Als nationaal contactpunt, bedoeld in [artikel 40, zevende lid, van de wet](http
 
 ### Hoofstuk 5. Overige en slotbepalingen
 
-##### Artikel 7. (wijziging [Regeling taken Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008144))
+##### Artikel 7. (wijziging Regeling taken Dienst Wegverkeer)
 
-wijzigt de Regeling taken Dienst Wegverkeer.
+*wijzigt de Regeling taken Dienst Wegverkeer.*
 
-##### Artikel 8. (intrekken [Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998))
+##### Artikel 8. (intrekken Regeling elektronische tolheffingssystemen)
 
 De [Regeling elektronische tolheffingssystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0018998) wordt ingetrokken.
 
@@ -159,5 +132,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.o
 ##### Artikel 10. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling implementatie EETS-richtlijn.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

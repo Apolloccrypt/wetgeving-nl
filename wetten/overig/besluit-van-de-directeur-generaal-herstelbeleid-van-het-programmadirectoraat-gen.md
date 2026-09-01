@@ -9,7 +9,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0053051"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van de directeur-generaal Herstelbeleid van het programmadirectoraat-generaal Herstel van 18 augustus 2026 (2026-343714) tot het verlenen van ondermandaat aan het Hoofd bureau stafondersteuning inzake aanvragen met betrekking tot de toepassing van de hardheidsclausule van artikel 9.1, tweede lid, onder a, van de Wet hersteloperatie, voor zover deze zien op afdeling 2.4 van de Wet hersteloperatie toeslagen

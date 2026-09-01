@@ -1,82 +1,57 @@
 ---
 title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098214, houdende regels voor de verstrekking van aanvullende bekostiging voor geïsoleerde vestigingen in het voortgezet onderwijs (Regeling aanvullende bekostiging geïsoleerde vestigingen vo)"
+citeertitel: "Regeling aanvullende bekostiging geïsoleerde vestigingen vo"
 identifier: "BWBR0045604"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-16"
-last_updated: "2023-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045604"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16074443"
-version_id: "28423162"
-internal_id: "C40109031"
-label_id: "16006344"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045604/2023-03-16/0"
-intitule_bron: "Stcrt.2021-40671"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-08-30"
-intitule_published: "2021-09-13"
-intitule_in_force: "2021-09-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-993"
-original_signed_date: "2021-12-07"
-original_published_date: "2022-02-09"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2022-993"
-entry_into_force_date: "2022-08-01"
-jci_1_3: "jci1.3:c:BWBR0045604&z=2023-03-16&g=2023-03-16"
-jci_1_0: "1.0:c:BWBR0045604&g=2023-03-16"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvullende bekostiging geïsoleerde vestigingen vo"
-signed_date: "2021-12-07"
-entry_into_force: "2022-08-01"
+publicatiedatum: 2022-08-01
+laatste_update: 2023-03-16
+status: geldig
+toestand: 2023-03-16
+bron: "https://wetten.overheid.nl/BWBR0045604"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 30 augustus 2021, nr. VO/29098214, houdende regels voor de verstrekking van aanvullende bekostiging voor geïsoleerde vestigingen in het voortgezet onderwijs (Regeling aanvullende bekostiging geïsoleerde vestigingen vo)
-
-Gelet op [artikel 82 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82) en [artikel 2.2.3 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **BAG:** basisregistratie adressen en gebouwen als bedoeld in [artikel 2 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=2);
+- *BAG:* basisregistratie adressen en gebouwen als bedoeld in [artikel 2 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=2);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **brede scholengemeenschap:** scholengemeenschap voor voortgezet onderwijs waarop de schoolsoorten vwo, havo, mavo en vbo worden aangeboden, al dan niet in combinatie met pro;
+- *brede scholengemeenschap:* scholengemeenschap voor voortgezet onderwijs waarop de schoolsoorten vwo, havo, mavo en vbo worden aangeboden, al dan niet in combinatie met pro;
 
-- **havo:** hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
+- *havo:* hoger algemeen voortgezet onderwijs als bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5);
 
-- **hemelsbreed gemeten afstand:** geografische afstand tussen vestigingen op basis van de adresgegevens opgenomen in de Basisregistratie Instellingen en de bijbehorende coördinaten uit de BAG;
+- *hemelsbreed gemeten afstand:* geografische afstand tussen vestigingen op basis van de adresgegevens opgenomen in de Basisregistratie Instellingen en de bijbehorende coördinaten uit de BAG;
 
-- **leerling:** leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
+- *leerling:* leerling als bedoeld in [artikel 6.7 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.7);
 
-- **mavo:** middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
+- *mavo:* middelbaar algemeen voortgezet onderwijs als bedoeld in [artikel 2.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **pro:** praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
+- *pro:* praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- **scholengemeenschap:** scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *scholengemeenschap:* scholengemeenschap als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **school:** school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **teldatum:** datum van 1 oktober, bedoeld in [artikel 5.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
+- *teldatum:* datum van 1 oktober, bedoeld in [artikel 5.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.8);
 
-- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
+- *vbo:* voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **vestiging:** hoofdvestiging als bedoeld in [artikel 4.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13) of nevenvestiging als bedoeld in [artikel 4.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14), die voldoet aan de voorwaarden, bedoeld in [artikel 6.1, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1);
+- *vestiging:* hoofdvestiging als bedoeld in [artikel 4.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13) of nevenvestiging als bedoeld in [artikel 4.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14), die voldoet aan de voorwaarden, bedoeld in [artikel 6.1, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.1);
 
-- **voortgezet onderwijs:** voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *voortgezet onderwijs:* voortgezet onderwijs als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **vwo:** voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
+- *vwo:* voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.4);
 
-- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Reikwijdte
 
@@ -94,9 +69,9 @@ In deze regeling wordt verstaan onder:
 
 1. Een geïsoleerde vestiging voldoet aan ten minste één van de twee voorwaarden:
 
-- a. op de teldatum wordt op de vestiging één of meer van de schoolsoorten vwo, havo, mavo, vbo of pro aangeboden en de vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand van een andere vestiging waarop dezelfde schoolsoort wordt aangeboden. In afwijking van de eerste volzin is voor het pro een hemelsbreed gemeten afstand van minimaal 20 kilometer van toepassing; of
+- a. op de teldatum wordt op de vestiging één of meer van de schoolsoorten vwo, havo, mavo, vbo of pro aangeboden en de vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand van een andere vestiging waarop dezelfde schoolsoort wordt aangeboden. In afwijking van de eerste volzin is voor het pro een hemelsbreed gemeten afstand van minimaal 20 kilometer van toepassing; of
 
-- b. op de teldatum wordt op de vestiging het eerste en tweede leerjaar van het voortgezet onderwijs aangeboden en deze vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand van een andere vestiging waarop het eerste en tweede leerjaar van het voortgezet onderwijs worden aangeboden.
+- b. op de teldatum wordt op de vestiging het eerste en tweede leerjaar van het voortgezet onderwijs aangeboden en deze vestiging ligt op minimaal 8 kilometer hemelsbreed gemeten afstand van een andere vestiging waarop het eerste en tweede leerjaar van het voortgezet onderwijs worden aangeboden.
 
 2. Een schoolsoort, als bedoeld in het eerste lid, onderdeel a, wordt op een vestiging aangeboden als op de vestiging in het laatste leerjaar van die schoolsoort minimaal één leerling als werkelijk schoolgaand op de teldatum staat ingeschreven. In afwijking van de eerste volzin geldt dat de schoolsoort pro op een vestiging wordt aangeboden als minimaal één pro-leerling als werkelijk schoolgaand op de vestiging op de teldatum staat ingeschreven.
 
@@ -106,9 +81,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Toeslag voor geïsoleerde vestigingen
 
-1. De minister verstrekt aan het bevoegd gezag van een geïsoleerde vestiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2023-03-16&g=2023-03-16), daarvoor een toeslag. De hoogte van de toeslag is gelijk aan het vaste bedrag voor de hoofdvestiging van een school, bedoeld in [artikel 2, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend).
+1. De minister verstrekt aan het bevoegd gezag van een geïsoleerde vestiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045604&artikel=3&z=2023-03-16&g=2023-03-16), daarvoor een toeslag. De hoogte van de toeslag is gelijk aan het vaste bedrag voor de hoofdvestiging van een school, bedoeld in artikel 2, eerste lid, onderdeel a, van de Regeling bekostiging vo-scholen.
 
-2. Indien onder een bevoegd gezag meerdere geïsoleerde vestigingen vallen die binnen 5 kilometer hemelsbreed gemeten afstand van één of meer andere geïsoleerde vestigingen van het bevoegd gezag zijn gevestigd, delen deze geïsoleerde vestigingen de in het eerste lid bedoelde toeslag.
+2. Indien onder een bevoegd gezag meerdere geïsoleerde vestigingen vallen die binnen 5 kilometer hemelsbreed gemeten afstand van één of meer andere geïsoleerde vestigingen van het bevoegd gezag zijn gevestigd, delen deze geïsoleerde vestigingen de in het eerste lid bedoelde toeslag.
 
 ##### Artikel 5. Extra toeslag voor kleine geïsoleerde brede scholengemeenschappen
 
@@ -124,7 +99,7 @@ In deze regeling wordt verstaan onder:
 
 X = de extra toeslag voor kleine geïsoleerde brede scholengemeenschappen;
 
-A = 40 procent van het bedrag per leerling, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend), waarbij de uitkomst wordt afgerond op twee decimalen; en
+A = 40 procent van het bedrag per leerling, bedoeld in artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen, waarbij de uitkomst wordt afgerond op twee decimalen; en
 
 LLX = het aantal leerlingen dat als werkelijk schoolgaand op de scholengemeenschap op de teldatum staat ingeschreven.
 
@@ -144,7 +119,7 @@ LLX = het aantal leerlingen dat als werkelijk schoolgaand op de scholengemeensch
 
 Y = de extra toeslag voor kleine brede geïsoleerde vestigingen van brede scholengemeenschappen;
 
-A = 40 procent van het bedrag per leerling, bedoeld in [artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen](onbekend), waarbij de uitkomst wordt afgerond op twee decimalen;
+A = 40 procent van het bedrag per leerling, bedoeld in artikel 2, tweede lid, onderdeel a, van de Regeling bekostiging vo-scholen, waarbij de uitkomst wordt afgerond op twee decimalen;
 
 LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de teldatum staat ingeschreven.
 
@@ -168,18 +143,14 @@ LLY = het aantal leerlingen dat als werkelijk schoolgaand op de vestiging op de 
 
 2. De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-##### Artikel 9. Inwerkingtreding
-
-De regeling treedt in werking met ingang van 1 januari 2022.
-
-##### Artikel 10. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging geïsoleerde vestigingen vo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
 ##### Artikel 8a. Omhang
 
 Deze regeling is mede gebaseerd op [artikel 5.9 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+##### Artikel 9. Inwerkingtreding
+
+De regeling treedt in werking met ingang van 1 januari 2022.
+
+##### Artikel 10. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging geïsoleerde vestigingen vo.

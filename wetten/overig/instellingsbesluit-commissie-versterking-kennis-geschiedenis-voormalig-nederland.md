@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2021, kenmerk 3276389-1019021-DMO, houdende de instelling van de Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië (Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië)"
+citeertitel: "Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië"
 identifier: "BWBR0045867"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-11-20"
-last_updated: "2021-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045867"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16146243"
-version_id: "28171832"
-internal_id: "C39719101"
-label_id: "16075474"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045867/2021-11-20/0"
-intitule_bron: "Stcrt.2021-46800"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-11"
-intitule_published: "2021-11-19"
-intitule_in_force: "2021-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-46800"
-original_signed_date: "2021-11-11"
-original_published_date: "2021-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-46800"
-entry_into_force_date: "2021-11-20"
-jci_1_3: "jci1.3:c:BWBR0045867&z=2021-11-20&g=2021-11-20"
-jci_1_0: "1.0:c:BWBR0045867&g=2021-11-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië"
-signed_date: "2021-11-11"
-entry_into_force: "2021-11-20"
+publicatiedatum: 2021-11-20
+laatste_update: 2021-11-20
+status: geldig
+toestand: 2021-11-20
+bron: "https://wetten.overheid.nl/BWBR0045867"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2021, kenmerk 3276389-1019021-DMO, houdende de instelling van de Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië (Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **staatssecretaris:** Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- a. *staatssecretaris:* Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045867&artikel=2&z=2021-11-20&g=2021-11-20).
+- b. *commissie:* commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045867&artikel=2&z=2021-11-20&g=2021-11-20).
 
 ##### Artikel 2. Instelling en taak
 
@@ -96,9 +70,9 @@ Tot leden van de commissie worden benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-1. De commissie wordt ingesteld met ingang van 25 oktober 2021.
+1. De commissie wordt ingesteld met ingang van 25 oktober 2021.
 
-2. De commissie brengt voor 1 juli 2022 haar eerste adviesrapport aan de staatssecretaris uit en brengt voor 1 januari 2023 haar laatste adviesrapport aan de staatssecretaris uit. De staatssecretaris kan deze termijn verlengen.
+2. De commissie brengt voor 1 juli 2022 haar eerste adviesrapport aan de staatssecretaris uit en brengt voor 1 januari 2023 haar laatste adviesrapport aan de staatssecretaris uit. De staatssecretaris kan deze termijn verlengen.
 
 3. Na het uitbrengen van het laatste adviesrapport is de commissie opgeheven.
 
@@ -146,10 +120,8 @@ De commissie draagt zo snel mogelijk na beëindiging van haar werkzaamheden of, 
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 25 oktober 2021.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 25 oktober 2021.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Versterking kennis geschiedenis voormalig Nederlands-Indië.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

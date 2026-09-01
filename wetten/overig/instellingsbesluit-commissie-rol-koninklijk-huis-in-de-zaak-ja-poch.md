@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 12 november 2021, nr. 3557824, houdende instelling van de Commissie rol Koninklijk Huis in zaak J.A. Poch"
+citeertitel: "Instellingsbesluit Commissie rol Koninklijk Huis in de zaak J.A. Poch"
 identifier: "BWBR0045843"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-06-18"
-last_updated: "2022-06-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045843"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16139373"
-version_id: "28160662"
-internal_id: "C39705211"
-label_id: "16068924"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045843/2022-06-18/0"
-intitule_bron: "Stcrt.2021-47067"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-11-12"
-intitule_published: "2021-11-16"
-intitule_in_force: "2021-11-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-47067"
-original_signed_date: "2021-11-12"
-original_published_date: "2021-11-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-47067"
-entry_into_force_date: "2021-11-17"
-jci_1_3: "jci1.3:c:BWBR0045843&z=2022-06-18&g=2022-06-18"
-jci_1_0: "1.0:c:BWBR0045843&g=2022-06-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie rol Koninklijk Huis in de zaak J.A. Poch"
-signed_date: "2021-11-12"
-entry_into_force: "2021-11-17"
+publicatiedatum: 2021-11-17
+laatste_update: 2022-06-18
+status: geldig
+toestand: 2022-06-18
+bron: "https://wetten.overheid.nl/BWBR0045843"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 12 november 2021, nr. 3557824, houdende instelling van de Commissie rol Koninklijk Huis in zaak J.A. Poch
-
-In overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Justitie en Veiligheid;
+- a. *Minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=2&z=2022-06-18&g=2022-06-18).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045843&artikel=2&z=2022-06-18&g=2022-06-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -54,9 +28,9 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak te onderzoeken of er beïnvloeding heeft plaatsgevonden vanwege het Koninklijk Huis of vanuit kringen rondom het Koninklijk Huis in de zaak tegen de heer J.A. Poch, waarbij de commissie wordt gevraagd de volgende aspecten in het onderzoek mee te nemen:
 
-- –. de vraag hoe het onderzoek naar de heer J.A. Poch in de voorzomer van 2007 buiten het openbaar ministerie en de Nationale Recherche bekend kon zijn, aangezien slechts een gering aantal personen op dat moment op de hoogte was;
+- – de vraag hoe het onderzoek naar de heer J.A. Poch in de voorzomer van 2007 buiten het openbaar ministerie en de Nationale Recherche bekend kon zijn, aangezien slechts een gering aantal personen op dat moment op de hoogte was;
 
-- –. de betekenis van de door de toenmalige vicepresident van Eurojust gedane uitlatingen in zijn gesprek met de Commissie Dossier J.A. Poch.
+- – de betekenis van de door de toenmalige vicepresident van Eurojust gedane uitlatingen in zijn gesprek met de Commissie Dossier J.A. Poch.
 
 3. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
@@ -132,17 +106,17 @@ Op grond van [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.over
 
 2. Het Ministerie van Justitie en Veiligheid verschaft de commissie daartoe budget onder de voorwaarde dat:
 
-- –. de commissie een gespecificeerde raming van de kosten maakt;
+- – de commissie een gespecificeerde raming van de kosten maakt;
 
-- –. de commissie een deugdelijke financiële administratie voert/laat voeren overeenkomstig de eisen die het Ministerie van Justitie en Veiligheid daaraan stelt;
+- – de commissie een deugdelijke financiële administratie voert/laat voeren overeenkomstig de eisen die het Ministerie van Justitie en Veiligheid daaraan stelt;
 
-- –. de commissie budgetoverschrijdingen tijdig en met reden meldt bij het ministerie;
+- – de commissie budgetoverschrijdingen tijdig en met reden meldt bij het ministerie;
 
-- –. het ministerie als opdrachtgever door de Directie Bestuursondersteuning (DBO) een financiële controle laat uitvoeren;
+- – het ministerie als opdrachtgever door de Directie Bestuursondersteuning (DBO) een financiële controle laat uitvoeren;
 
-- –. afhankelijk van de bevindingen van deze controle kan de ADR worden ingeschakeld om onderzoek uit te voeren en een rapport van feitelijke bevindingen uit te brengen;
+- – afhankelijk van de bevindingen van deze controle kan de ADR worden ingeschakeld om onderzoek uit te voeren en een rapport van feitelijke bevindingen uit te brengen;
 
-- –. na afloop van deze controle de verrekening plaatsvindt.
+- – na afloop van deze controle de verrekening plaatsvindt.
 
 ##### Artikel 12. Huisvesting onderzoekscommissie
 
@@ -150,7 +124,7 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 ##### Artikel 13. Rapport en uiterste datum voor oplevering
 
-1. De commissie brengt vóór 1 juli 2022 haar rapport uit aan de Minister.
+1. De commissie brengt vóór 1 juli 2022 haar rapport uit aan de Minister.
 
 2. De commissie biedt de Minister uiterlijk vier weken na oplevering van het rapport een (eind)verslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest. Desgewenst kan de commissie het eindverslag gelijktijdig met het rapport indienen.
 
@@ -175,5 +149,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie rol Koninklijk Huis in de zaak J.A. Poch.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

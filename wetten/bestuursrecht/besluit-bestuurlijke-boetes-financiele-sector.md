@@ -9,7 +9,7 @@ laatste_update: 2026-08-28
 status: geldig
 toestand: 2026-08-28
 bron: "https://wetten.overheid.nl/BWBR0026204"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van 11 juni 2009, houdende regels voor het vaststellen van de op grond van de Wet op het financieel toezicht en enige andere wetten op te leggen bestuurlijke boetes (Besluit bestuurlijke boetes financiële sector)

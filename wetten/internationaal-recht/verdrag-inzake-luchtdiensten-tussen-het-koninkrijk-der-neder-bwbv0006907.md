@@ -4,11 +4,11 @@ identifier: "BWBV0006907"
 categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 2026-09-01
-laatste_update: 2021-05-24
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2021-05-24
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBV0006907"
-opgehaald: 2026-08-10
+opgehaald: 2026-09-01
 ---
 
 # Verdrag inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Chili
@@ -33,7 +33,7 @@ opgehaald: 2026-08-10
 
 - f) the term “the Convention” means the [Convention on International Civil Aviation](https://wetten.overheid.nl/BWBV0005507), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=90) and any amendment of the Annexes or the Convention under Articles 90 and [94](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=94) thereof, insofar as those Annexes and amendments have become effective for, or have been ratified by both Contracting Parties;
 
-- g) the term “Designated Airline” means the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006907&hoofdstuk=II&artikel=3&z=2021-05-24&g=2021-05-24) (Designation and Authorization) of this Agreement;
+- g) the term “Designated Airline” means the Airline which has been designated and authorized in accordance with [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006907&hoofdstuk=II&artikel=3&z=2026-09-01&g=2026-09-01) (Designation and Authorization) of this Agreement;
 
 - h) the term “Stores” means items of a readily consumable nature for use or sale on board an aircraft during flight including commissary supplies;
 
@@ -149,7 +149,7 @@ At points on the Routes, the Designated Airlines of one Contracting Party shall 
 
    - (iii) the Airline is incorporated and has its principal place of business in the Territory of the Republic of Chile, and that:
 
-- d) the Government designating the Airline is maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/BWBV0006907) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006907&hoofdstuk=V&artikel=14&z=2021-05-24&g=2021-05-24) (Safety) and [Article 15](https://wetten.overheid.nl/BWBV0006907) (Aviation Security) of this Agreement; and
+- d) the Government designating the Airline is maintaining and administering the standards set forth in [Article 8](https://wetten.overheid.nl/BWBV0006907) (Fair Competition), [Article 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006907&hoofdstuk=V&artikel=14&z=2026-09-01&g=2026-09-01) (Safety) and [Article 15](https://wetten.overheid.nl/BWBV0006907) (Aviation Security) of this Agreement; and
 
 - e) the Designated Airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operations of International Air Services by the Contracting Party considering the application or applications.
 

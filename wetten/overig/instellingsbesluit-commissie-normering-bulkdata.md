@@ -9,7 +9,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0051320"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 7 juli 2025 (kenmerk 5446723), houdende instelling van de Commissie normering verwerking bulkdata ten behoeve van de politietaak (Instellingsbesluit Commissie normering bulkdata)

@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid van 2 juni 2020 en nummer 2889153, houdende de instelling van de Raad van Advies van de Inspectie JenV (Instellingsbesluit Raad van Advies Inspectie JenV)"
+citeertitel: "Instellingsbesluit Raad van Advies Inspectie JenV"
 identifier: "BWBR0045904"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-11-27"
-last_updated: "2021-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045904"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16152733"
-version_id: "28184062"
-internal_id: "C39737571"
-label_id: "16081334"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045904/2021-11-27/0"
-intitule_bron: "Stcrt.2021-47525"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-06-02"
-intitule_published: "2021-11-26"
-intitule_in_force: "2021-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-47525"
-original_signed_date: "2020-06-02"
-original_published_date: "2021-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-47525"
-entry_into_force_date: "2021-11-27"
-jci_1_3: "jci1.3:c:BWBR0045904&z=2021-11-27&g=2021-11-27"
-jci_1_0: "1.0:c:BWBR0045904&g=2021-11-27"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies Inspectie JenV"
-signed_date: "2020-06-02"
-entry_into_force: "2021-11-27"
+publicatiedatum: 2021-11-27
+laatste_update: 2021-11-27
+status: geldig
+toestand: 2021-11-27
+bron: "https://wetten.overheid.nl/BWBR0045904"
+opgehaald: 2026-09-01
 ---
-# Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid van 2 juni 2020 en nummer 2889153, houdende de instelling van de Raad van Advies van de Inspectie JenV (Instellingsbesluit Raad van Advies Inspectie JenV)
 
-BESLUIT:
+# Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid van 2 juni 2020 en nummer 2889153, houdende de instelling van de Raad van Advies van de Inspectie JenV (Instellingsbesluit Raad van Advies Inspectie JenV)
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- **Inspectie JenV:** Inspectie Justitie en Veiligheid als bedoeld in [artikel 60 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=60).
+- *Inspectie JenV:* Inspectie Justitie en Veiligheid als bedoeld in [artikel 60 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=60).
 
-- **Raad van Advies:** Raad van Advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045904&artikel=2&z=2021-11-27&g=2021-11-27).
+- *Raad van Advies:* Raad van Advies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045904&artikel=2&z=2021-11-27&g=2021-11-27).
 
 ##### Artikel 2. Instelling en taak
 
@@ -98,10 +74,8 @@ Adviezen en andere producten, die door de Raad van Advies zijn vervaardigd, word
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 2 juni 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 2 juni 2020.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad van Advies Inspectie JenV.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

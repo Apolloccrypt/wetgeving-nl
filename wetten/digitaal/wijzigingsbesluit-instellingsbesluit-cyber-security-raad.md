@@ -1,46 +1,22 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 27 januari 2022, kenmerk 3786249, houdende wijziging van het Instellingsbesluit Cyber Security Raad"
+citeertitel: "Wijzigingsbesluit Instellingsbesluit Cyber Security Raad"
 identifier: "BWBR0046322"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-02-19"
-last_updated: "2022-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046322"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "16269143"
-version_id: "28417902"
-internal_id: "C40084111"
-label_id: "16195254"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046322/2022-02-19/0"
-intitule_bron: "Stcrt.2022-4459"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-01-27"
-intitule_published: "2022-02-18"
-intitule_in_force: "2022-02-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-4459"
-original_signed_date: "2022-01-27"
-original_published_date: "2022-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-4459"
-entry_into_force_date: "2022-02-19"
-jci_1_3: "jci1.3:c:BWBR0046322&z=2022-02-19&g=2022-02-19"
-jci_1_0: "1.0:c:BWBR0046322&g=2022-02-19"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsbesluit Instellingsbesluit Cyber Security Raad"
-signed_date: "2022-01-27"
-entry_into_force: "2022-02-19"
+publicatiedatum: 2022-02-19
+laatste_update: 2022-02-19
+status: geldig
+toestand: 2022-02-19
+bron: "https://wetten.overheid.nl/BWBR0046322"
+opgehaald: 2026-09-01
 ---
-# Besluit van de Minister van Justitie en Veiligheid van 27 januari 2022, kenmerk 3786249, houdende wijziging van het Instellingsbesluit Cyber Security Raad
 
-Besluit:
+# Besluit van de Minister van Justitie en Veiligheid van 27 januari 2022, kenmerk 3786249, houdende wijziging van het Instellingsbesluit Cyber Security Raad
 
 ##### Artikel I
 
-Wijzigt het Instellingsbesluit Cyber Security Raad.
+*Wijzigt het Instellingsbesluit Cyber Security Raad.*
 
 ##### Artikel II
 
@@ -49,5 +25,3 @@ De medevoorzitter en de leden, die op het moment van inwerkingtreding van dit be
 ##### Artikel III
 
 Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

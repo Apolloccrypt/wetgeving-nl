@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister van Financiën, van 25 oktober, nr. 203166, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Publieke investeringen in een politiek bestuurlijke context (Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context)"
+citeertitel: "Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context"
 identifier: "BWBR0045962"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-12-02"
-last_updated: "2021-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045962"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16166833"
-version_id: "28206712"
-internal_id: "C39763031"
-label_id: "16095304"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045962/2021-12-02/0"
-intitule_bron: "Stcrt.2021-48006"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-25"
-intitule_published: "2021-12-01"
-intitule_in_force: "2021-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-48006"
-original_signed_date: "2021-10-25"
-original_published_date: "2021-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-48006"
-entry_into_force_date: "2021-12-02"
-jci_1_3: "jci1.3:c:BWBR0045962&z=2021-12-02&g=2021-12-02"
-jci_1_0: "1.0:c:BWBR0045962&g=2021-12-02"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context"
-signed_date: "2021-10-25"
-entry_into_force: "2021-12-02"
+publicatiedatum: 2021-12-02
+laatste_update: 2021-12-02
+status: geldig
+toestand: 2021-12-02
+bron: "https://wetten.overheid.nl/BWBR0045962"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Financiën, van 25 oktober, nr. 203166, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Publieke investeringen in een politiek bestuurlijke context (Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** minister van Financiën;
+- a. *minister:* minister van Financiën;
 
-- b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045962&artikel=2&z=2021-12-02&g=2021-12-02).
+- b. *werkgroep:* werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045962&artikel=2&z=2021-12-02&g=2021-12-02).
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een werkgroep IBO Publieke investeringen in een politiek bestuurlijke context.
 
-2. De werkgroep heeft tot taak een interdepartementaal beleidsonderzoek uit te voeren conform de taakopdracht zoals gepubliceerd in bijlage 18 van de Miljoenennota 2022 (Kamerstukken Tweede Kamer vergaderjaar 2021-2022, 35 925, nr. 2).
+2. De werkgroep heeft tot taak een interdepartementaal beleidsonderzoek uit te voeren conform de taakopdracht zoals gepubliceerd in bijlage 18 van de Miljoenennota 2022 (Kamerstukken Tweede Kamer vergaderjaar 2021-2022, 35 925, nr. 2).
 
 3. Het onderzoek moet resulteren in een rapport waarin één of meerdere beleidsopties in kaart worden gebracht op het betreffende beleidsterrein.
 
@@ -68,19 +42,19 @@ In dit besluit wordt verstaan onder:
 
 5. Voor de duur van de werkgroep worden tot lid van de werkgroep benoemd:
 
-- –. Niels Muselaers (ministerie van Financiën)
+- – Niels Muselaers (ministerie van Financiën)
 
-- –. Erik Schmieman (ministerie van Infrastructuur en Waterstaat)
+- – Erik Schmieman (ministerie van Infrastructuur en Waterstaat)
 
-- –. Remko ter Weijden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
+- – Remko ter Weijden (ministerie van Binnenlandse Zaken en Koninkrijksrelaties)
 
-- –. Sylvia Bijl (ministerie van Defensie)
+- – Sylvia Bijl (ministerie van Defensie)
 
-- –. Suzanne Kok (ministerie van Economische Zaken en Klimaat)
+- – Suzanne Kok (ministerie van Economische Zaken en Klimaat)
 
-- –. Joost Baeten (ministerie van Sociale Zaken en Werkgelegenheid)
+- – Joost Baeten (ministerie van Sociale Zaken en Werkgelegenheid)
 
-- –. Frits Bos (Centraal Planbureau)
+- – Frits Bos (Centraal Planbureau)
 
 6. De leden van de werkgroep werkzaam voor de overheid kunnen bij afwezigheid of verandering van baan vervangen worden door een collega van dezelfde werkgever.
 
@@ -88,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-1. De werkgroep wordt ingesteld per 1 september 2021.
+1. De werkgroep wordt ingesteld per 1 september 2021.
 
 2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045962&artikel=2&z=2021-12-02&g=2021-12-02) door de minister van Financiën aan de minister van Infrastructuur en Waterstaat is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
@@ -118,10 +92,8 @@ De werkgroep draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 9. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2021.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2021.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Publieke investeringen in een politiek bestuurlijke context.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

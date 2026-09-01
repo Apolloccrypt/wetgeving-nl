@@ -1,47 +1,17 @@
 ---
 title: "Besluit Defensie volmacht en machtiging lokale werknemers"
 identifier: "BWBR0046182"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-13"
-last_updated: "2020-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046182"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "16229433"
-version_id: "28337432"
-internal_id: "C39946661"
-label_id: "16156844"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046182/2022-01-13/0"
-intitule_bron: "Stcrt.2022-488"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2020-08-05"
-intitule_published: "2022-01-12"
-intitule_in_force: "2022-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-488"
-original_signed_date: "2020-08-05"
-original_published_date: "2022-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-488"
-entry_into_force_date: "2022-01-13"
-jci_1_3: "jci1.3:c:BWBR0046182&z=2022-01-13&g=2022-01-13"
-jci_1_0: "1.0:c:BWBR0046182&g=2022-01-13"
-citeertitel_status: "redactioneel"
-signed_date: "2020-08-05"
-entry_into_force: "2022-01-13"
+publicatiedatum: 2022-01-13
+laatste_update: 2022-01-13
+status: geldig
+toestand: 2022-01-13
+bron: "https://wetten.overheid.nl/BWBR0046182"
+opgehaald: 2026-09-01
 ---
+
 # Besluit Defensie volmacht en machtiging lokale werknemers
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
-
-Gelet op [artikel 1.2 van de Legal Status (Local Employees) Regulations 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045662&artikel=1.2);
-
-Besluit
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Volmacht en machtiging
 
@@ -71,4 +41,4 @@ vertegenwoordigd door
 
 ##### Artikel 3. Inwerkingtreding
 
-Deze volmacht en machtiging treedt in werking op de dag na ondertekening en heeft terugwerkende kracht tot 1 januari 2020 en geldt totdat deze wordt herroepen.
+Deze volmacht en machtiging treedt in werking op de dag na ondertekening en heeft terugwerkende kracht tot 1 januari 2020 en geldt totdat deze wordt herroepen.

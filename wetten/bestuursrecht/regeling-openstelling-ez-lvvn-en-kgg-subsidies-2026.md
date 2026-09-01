@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-08-25
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-08-25
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-08-28
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -33,6 +33,8 @@ opgehaald: 2026-08-28
 | Titel 2.17: Programma Jong Leren Eten 2027–2028 | 2.17.2 |  |  | 1 september 2026 t/m 25 september 2026 | Ten hoogste € 200.000 tot € 330.000 voor activiteiten die in dezelfde provincie worden uitgevoerd, afhankelijk van de provincie. |
 | Titel 2.18: Hoogwaardige mestverwerking | 2.18.2, eerste lid, onderdeel a | Inrichting van een hoogwaardige mestverwerkingsinstallatie |  | 31-08-2026 t/m 12-10-2026 | € 4.500.000 |
 |  | 2.18.2, eerste lid, onderdeel b | Herinrichting van een hoogwaardige mestverwerkingsinstallatie |  | 31-08-2026 t/m 12-10-2025 | € 4.500.000 |
+| Titel 2.21: Verbetering energie-efficiëntie van vissersvaartuigen 2026 | 2.21.3, tweede lid |  |  | 28-09-2026 t/m 14-12-2026 | € 2.000.000 |
+|  | 2.21.3, derde lid |  |  | 28-09-2026 t/m 14-12-2026 | € 25.000.000 |
 | Titel 2.23: Warmte-infrastructuur glastuinbouw | 2.23.2 | Investeerders in warmte-infrastructuur | Warmte-infrastructuur glastuinbouw | 03-02-2026 t/m 31-03-2026 | € 89.400.000 |
 | Titel 2.24: Agenda Natuurinclusief | 2.24.2 |  | Natuur | 05-01-2026 t/m 13-02-2026 | € 2.420.000 |
 | Titel 2.25: Experimenteerlocaties | 2.25.2 |  | Innovatie | 07-05-2026 t/m 18-06-2026 | € 25.000.000 |

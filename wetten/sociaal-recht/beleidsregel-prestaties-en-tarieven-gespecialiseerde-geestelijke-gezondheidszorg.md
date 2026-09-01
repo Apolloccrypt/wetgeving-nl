@@ -1,38 +1,16 @@
 ---
 title: "Beleidsregel prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg"
 identifier: "BWBR0046027"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-12-16"
-last_updated: "2021-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046027"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "16184403"
-version_id: "28242012"
-internal_id: "C39818371"
-label_id: "16113654"
-dtd_version: "2.0"
-original_entry_into_force: "2021-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046027/2021-12-16/0"
-intitule_bron: "Stcrt.2021-47394"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-09-21"
-intitule_published: "2021-12-15"
-intitule_in_force: "2021-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-47394"
-original_signed_date: "2021-09-21"
-original_published_date: "2021-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-47394"
-entry_into_force_date: "2021-12-16"
-jci_1_3: "jci1.3:c:BWBR0046027&z=2021-12-16&g=2021-12-16"
-jci_1_0: "1.0:c:BWBR0046027&g=2021-12-16"
-citeertitel_status: "officieel"
-signed_date: "2021-09-21"
-entry_into_force: "2021-12-16"
+publicatiedatum: 2021-12-16
+laatste_update: 2021-12-16
+status: geldig
+toestand: 2021-12-16
+bron: "https://wetten.overheid.nl/BWBR0046027"
+opgehaald: 2026-09-01
 ---
+
 # Beleidsregel prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg
 
 Gelet op [artikel 57, eerste lid, onderdeel b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -81,17 +59,47 @@ Een deelprestatie binnen de dbc-systematiek, niet zijnde een deelprestatie verbl
 
 Vorm van zorg die onder de reikwijdte van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) valt, maar die zich (nog) niet leent voor onderbrenging in de reguliere dbc of zzp-ggz. Een overig zorgproduct is niet hetzelfde als een overige deelprestatie. In [bijlage 4 van de Regeling medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0045669&bijlage=4) (msz) overige zorgproducten per segment kan de NZa andere ozp’s aanmerken als “door ggz te declareren”, waardoor die ozp’s door zorgaanbieders van ggz te declareren zijn.
 
-Vanaf 1 januari 2020 zijn de ozp’s eerstelijnsdiagnostiek opgenomen in de tarieven en niet meer apart declareerbaar voor de gespecialiseerde ggz.
+Vanaf 1 januari 2020 zijn de ozp’s eerstelijnsdiagnostiek opgenomen in de tarieven en niet meer apart declareerbaar voor de gespecialiseerde ggz.
 
 ### 3.8. regiebehandelaar
 
 De regiebehandelaars in de gespecialiseerde ggz zijn BIG-geregistreerd en hebben een ggz-specifieke opleiding gevolgd. Daarbij wordt onderscheid gemaakt tussen ‘vrijgevestigden’ en ‘instellingen’.
 
+Vrijgevestigden
+
 De volgende beroepen kunnen als vrijgevestigde voorkomen als regiebehandelaar:
+
+- − psychiater
+
+- − klinisch psycholoog
+
+- − klinisch neuropsycholoog
+
+- − psychotherapeut
+
+Instellingen
 
 De volgende beroepen kunnen binnen een instelling voorkomen als regiebehandelaar:
 
-Deze beroepen zijn aangewezen als regiebehandelaar in het model-kwaliteitsstatuut ggz. Het model-kwaliteitsstatuut ggz is een veldnorm die ingeschreven is als professionele standaard in het register van het Zorginstituut Nederland (ZIN) en in werking treedt per 1 januari 2017.
+- − psychiater
+
+- − klinisch psycholoog
+
+- − klinisch neuropsycholoog
+
+- − psychotherapeut
+
+- − specialist ouderengeneeskunde
+
+- − verslavingsarts in profielregister KNMG
+
+- − gz-psycholoog
+
+- − klinisch geriater
+
+- − verpleegkundig specialist ggz
+
+Deze beroepen zijn aangewezen als regiebehandelaar in het model-kwaliteitsstatuut ggz. Het model-kwaliteitsstatuut ggz is een veldnorm die ingeschreven is als professionele standaard in het register van het Zorginstituut Nederland (ZIN) en in werking treedt per 1 januari 2017.
 
 ### 3.9. toeslagen zzp
 
@@ -121,7 +129,17 @@ Een zzp-ggz is een volledig pakket van intramurale geestelijke gezondheidszorg m
 
 Zorgprestaties binnen de gespecialiseerde ggz zijn onderverdeeld in:
 
-In Figuur 1 staat een overzicht van deze zorgprestaties. In paragraaf 4.1 wordt beschreven hoe de verschillende typen zorgprestaties worden afgebakend en hoe ze eventueel samen kunnen lopen. Ook worden enkele overgangsbepalingen aan de orde gesteld. In de paragrafen 4.2 tot en met 4.5 staan bepalingen die specifiek gelden voor een type zorgproduct.
+- − diagnose-behandelcombinatie (dbc)
+
+- − zorgzwaartepakketten ggz (zzp-ggz)
+
+- − overige zorgproducten (ozp)
+
+- − onderlinge dienstverlening (odv)
+
+In Figuur 1 staat een overzicht van deze zorgprestaties. In [paragraaf 4.1](https://wetten.overheid.nl/BWBR0046027) wordt beschreven hoe de verschillende typen zorgprestaties worden afgebakend en hoe ze eventueel samen kunnen lopen. Ook worden enkele overgangsbepalingen aan de orde gesteld. In de [paragrafen 4.2 tot en met 4.5](https://wetten.overheid.nl/BWBR0046027) staan bepalingen die specifiek gelden voor een type zorgproduct.
+
+Figuur 1 overzicht zorgprestaties in de gespecialiseerde ggz
 
 ### 4.1. Algemene bepalingen
 
@@ -153,13 +171,37 @@ Een zorgaanbieder mag wel een ozp in combinatie met zowel een dbc-ggz als een zz
 
 Er zijn verschillende soorten dbc’s:
 
+- − Initiële dbc: dit is de dbc die de zorgaanbieder opent voor een eerste of nieuwe primaire zorgvraag van een patiënt. De initiële dbc is altijd de eerste dbc binnen een zorgtraject.
+
+- − Vervolg-dbc: dit is de dbc die volgt op een initiële dbc of een voorgaande vervolg-dbc. Een vervolg-dbc heeft altijd dezelfde primaire diagnose als de eerder afgesloten initiële dbc of vervolg-dbc.
+
+- − Crisis-dbc buiten budget: deze dbc mag in het geval van acute psychiatrische hulpverlening, conform de begripsbepaling, waarvoor geen budget is vastgesteld, worden geopend. Bij een crisis-dbc’s buiten budget moet 1 van de volgende 3 zorgtypes worden geregistreerd: 304 (Acute psychiatrische hulpverlening buiten budget – vervolg binnen budget), 305 (Acute psychiatrische hulpverlening buiten budget – zorgaanbieder geen onderdeel regioplan), 306 (Acute psychiatrische hulpverlening buiten budget – geen regioplan). Zie [bijlage 1 in de Regeling gespecialiseerde geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0045703&bijlage=1): Zorgtypen.
+
+Deelprestaties
+
 Behandeling
 
 Alle dbc’s bevatten de deelprestatie behandeling.
 
-**Daarnaast kan een dbc ook bestaan uit**:
+*Daarnaast kan een dbc ook bestaan uit*:
 
-Een overzicht van de dbc’s is bij deze beleidsregel gevoegd als [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=1&z=2021-12-16&g=2021-12-16)**Prestaties en prestatiebeschrijvingen dbc’s**.
+- − Verblijf: de deelprestaties verblijf omschrijven de verzorgingsgraad (verblijfsintensiteit) van het verblijf. Er zijn acht verzorgingsgraden (A t/m H). Voor verblijf met een verzorgingsgraad A t/m G in een beveiligde setting met beveiligingsniveau 2,3 en 4 bestaan aparte deelprestaties verblijf. Daarnaast is er een prestatie voor verblijf zonder medische noodzaak, waarvoor een rechtvaardigingsgrond is (VMR). De kapitaallasten bij verblijf maken integraal onderdeel uit van de deelprestatie verblijf: per dag dat de patiënt binnen de instelling verblijft, is de normatieve huisvestingscomponent (nhc) voor de kapitaallasten berekend. De nhc is een productie gebonden normatieve vergoeding voor (vervangende) (nieuw)bouw en instandhouding. Hiervoor zijn negen nhc’s aanwezig als onderdeel van het tarief voor de deelprestaties verblijf. Er geldt een specifieke nhc voor verblijf in een Psychiatrisch Medische Unit, de nhc PMU.
+
+- − Overige deelprestaties: er zijn de volgende overige deelprestaties:
+
+   - − elektroconvulsie therapie (ect)
+
+   - − verblijf zonder overnachting (vzo)
+
+   - − ambulante methadonverstrekking
+
+   - − toeslag tolk gebarentaal / communicatiespecialist
+
+   - − toeslag oorlogsgerelateerd psychotrauma
+
+   - − voorbereiding zorgmachtiging
+
+Een overzicht van de dbc’s is bij deze beleidsregel gevoegd als [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=1&z=2021-12-16&g=2021-12-16)*Prestaties en prestatiebeschrijvingen dbc’s*.
 
 ### 4.3. Prestatiebeschrijvingen zzp’s
 
@@ -167,9 +209,60 @@ Voor de zorgvorm voortgezette behandeling met verblijf is de zzp-ggz-b-systemati
 
 Er zijn verschillende zzp’s ggz:
 
+- − zzp-ggz b 3 t/m 7 inclusief dagbesteding
+
+- − zzp-ggz b 3 t/m 7 exclusief dagbesteding
+
+- − zzp-ggz b vmr inclusief dagbesteding
+
+- − zzp-ggz b vmr exclusief dagbesteding
+
+- − zzp-ggz klinisch intensieve behandeling
+
+Deelcomponenten
+
 De tarieven voor de zzp-verblijfsprestaties bestaan uit de volgende componenten:
 
+- − *Zorg en verblijf* De zzp is opgebouwd uit de volgende deelcomponenten: Vanuit deze deelcomponenten worden de functies persoonlijke verzorging, verpleging, begeleiding, behandeling en verblijf geleverd.
+
+   - − woonzorg
+
+   - − dagbesteding
+
+   - − behandelaars
+
+   - − verblijf
+
+   - − kapitaallasten (nhc)
+
+   - − inventaris (nic)
+
+Toeslagen aanvullend op de zzp’s ggz
+
 Naast de zzp’s ggz heeft de NZa toeslagen vastgesteld:
+
+- − toeslag Niet-strafrechtelijke forensische psychiatrie
+
+- − toeslag Vervoer dagbesteding
+
+- − toeslag Woonzorg jong volwassenen ggz Prestatiebeschrijving: nhc voor verblijf pmu/mpu
+ Het leveren van verpleging, verzorging en ondersteuning met verblijf op PMU-plaatsen van een psychiatrische afdeling van een algemeen ziekenhuis (paaz) of een psychiatrische universiteitskliniek (puk). Met pmu-plaats wordt een specifieke kamer van een paaz of puk bedoeld waar intensieve somatische zorg aan het bed kan worden geboden.
+ Dit verblijfsproduct is bedoeld voor ggz cliënten met gecombineerde psychiatrische en somatische problematiek, t.w.:
+ • Psychiatrische stoornis en gelijktijdig ernstige somatische aandoening (voorbeelden: depressie en prostaatcarcinoom; diabetes en chronische schizofrenie).
+ • Psychiatrische stoornis gerelateerd an somatische aandoening (steroid psychose bij suppletie wegens panhypopituïtarisme; organisch psychosyndroom met kenmerken van een manie en dementie bij een cliënt met AIDS; psychiatrische stoornissen die ontstaan tijdens de zwangerschap en postpartum).
+ • Somatische stoornissen als gevolg van een onderliggend psychiatrische stoornis (cliënt met schizofrenie en alcoholafhankelijkheid die hepatitis ontwikkelt; elektrolyt verstoring bij anorexia nervosa, ernstige fracturen na suïcidepoging).
+ • Somatische stoornissen als gevolg van middelenmisbruik (cliënt met polymiddelen gebruik die een organisch psychosyndroom ontwikkelt met onhanteerbare gedragsstoornissen).
+ • Apart wordt hier nog genoemd de groep cliënten met somatoforme stoornissen (somatisatie, conversie, hypochondrie, psychogene pijn e.d.); een groep waarbij veel psychiatrische comorbiditeit (stemmingstoornissen, angststoornissen en dwang) voorkomt.
+ Uitsluitcriteria zijn:
+ • De cliënt is bedreigd in de vitale functies, waardoor hij een intensieve bewaking behoeft op een Intensive Care afdeling waarbij de zorg wordt aangestuurd vanuit de somatische specialist.
+ • De cliënt behoeft voor de somatische problematiek een behandeling of intensievere vorm van verpleging (zogenaamde hoogcomplexe somatische zorg) die niet geboden kan worden op de PMU.
+ • De cliënt heeft somatische problematiek zonder dat daarbij sprake is dat de psychiatrische stoornis de somatische behandeling en verpleging hiervan belemmert.
+ • Een cliënt waarbij plaatsingsproblematiek op de voorgrond staat (of in de nabije toekomst verwacht wordt).
+ • Cliënten onder de leeftijd van 16 jaar worden niet opgenomen op de pmu/paaz, gezien de voor deze jonge kinderen mogelijk ongezonde omgevingsfactoren. In uitzonderlijke gevallen (bijvoorbeeld bij sommige anorexiapatiënten) kan, de voor- en nadelen afwegend, tot opname op de PMU worden besloten als minst slechte optie voor het kind. Een bovengrens is niet te stellen, tenzij de problematiek vraagt om een behandeling in een klimaat met ouderen (zoals geboden op de afdeling Klinische Geriatrie).
+ *Fysieke kenmerken:*
+ De pmu/mpu-plaats verschilt van de reguliere paaz-plaats of puk-plaats door de extra m2 die benodigd zijn. De extra m2 hebben betrekking op de één en tweepersoonskamers met zuurstofvoorziening, extra m2 voor verpleegtechnische apparatuur, extra m2 voor het sanitair, extra brede gangen voor de ziekenhuisbedden en de gangen, en eventueel isolatiekamers (i.v.m. resistentie). Daarnaast heeft de PMU een geoutilleerde medicijnkamer (vergelijkbaar met andere afdelingen van het ziekenhuis). De exacte invulling van de m2 kan verschillen tussen algemene ziekenhuizen enerzijds en academische ziekenhuizen anderzijds.
+
+- – toeslag Woonzorg jong volwassenen ggz
 
 Deze toeslagen kunnen in combinatie met een zzp-ggz worden geleverd. Een overzicht van de zzp’s ggz en toeslagen is bij deze beleidsregel gevoegd in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=2&z=2021-12-16&g=2021-12-16) Prestaties en prestatiebeschrijvingen zzp’s ggz. Deze toeslagen zijn alleen van toepassing als is voldaan aan de voorwaarden die voor alle toeslagen gelden en aan de specifieke voorwaarden per afzonderlijke toeslag zoals genoemd in
 
@@ -179,13 +272,23 @@ Prestaties binnen de gespecialiseerde ggz, niet zijnde dbc- en/of zzp’s ggz, w
 
 Voor de gespecialiseerde ggz gelden onder andere de volgende ozp’s:
 
-In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=3&z=2021-12-16&g=2021-12-16)**Overige zorgproducten** zijn de prestatiebeschrijvingen van de bovengenoemde overige zorgproducten opgenomen.
+- − Rijbewijskeuringen en informatieverstrekkingen
+
+- − ozp niet-basispakketzorg consult
+
+- − ozp niet-basispakketzorg verblijf
+
+- − consultatie bij euthanasieverzoek op grond van psychisch lijden
+
+- − Spravato neusspray 28 mg
+
+In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=3&z=2021-12-16&g=2021-12-16)*Overige zorgproducten* zijn de prestatiebeschrijvingen van de bovengenoemde overige zorgproducten opgenomen.
 
 ### 4.5. Onderlinge dienstverlening
 
 Een (deel)prestatie die een zorgaanbieder levert als onderdeel van door een andere zorgaanbieder te verlenen zorg als bedoeld in [artikel 1, eerste lid, onder b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) op het gebied van gespecialiseerde ggz. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’.
 
-Voor onderlinge dienstverlening geldt de prestatiebeschrijving ‘onderlinge dienstverlening’ zoals opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=4&z=2021-12-16&g=2021-12-16)**Onderlinge dienstverlening**.
+Voor onderlinge dienstverlening geldt de prestatiebeschrijving ‘onderlinge dienstverlening’ zoals opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046027&bijlage=4&z=2021-12-16&g=2021-12-16)*Onderlinge dienstverlening*.
 
 ### 5. Regiebehandelaar
 
@@ -195,11 +298,43 @@ De regiebehandelaar is verantwoordelijk voor de vastlegging van de daadwerkelijk
 
 Zoals vermeld in de begripsbepalingen wordt voor het regiebehandelaarschap (volgens de wens van partijen zoals vastgelegd in het model-kwaliteitsstatuut ggz) onderscheid gemaakt tussen ‘instellingen’ en ‘vrijgevestigden’.
 
-**Instelling:** De zorgaanbieder die declareert met één van onderstaande AGB-classificatiecodes. Andere zorgaanbieders worden gelijkgesteld met een vrijgevestigde.
+*Instelling:* De zorgaanbieder die declareert met één van onderstaande AGB-classificatiecodes. Andere zorgaanbieders worden gelijkgesteld met een vrijgevestigde.
+
+| Classificatiecode | Omschrijving |
+| --- | --- |
+| 06 | Groep 06 Ziekenhuizen |
+| 06-29 | Groep 06-29 Psychiatrisch Ziekenhuis |
+| 19 | Audiologische Centra |
+| 22 | Zelfstandige Behandelcentra Extramurale praktijken medisch specialisten |
+| 25 | Inrichting voor Psychiatrische Deeltijdbehandeling |
+| 30 | Instelling voor Verstandelijk Gehandicapten |
+| 35 | Instelling voor Visueel Gehandicapten |
+| 45 | Verpleeginrichtingen |
+| 47 | Verpleeginrichtingen |
+| 53 | Diverse samenwerkingsverbanden |
+| 54 | GGZ instellingen (puk/paaz) |
+| 60 | Instellingen voor Dagverpleging voor Ouderen |
+| 70 | Kinderdagverblijven |
+| 72 | RIBW |
+| 73 | Wlz Gecombineerd |
+| 75 | Thuiszorginstellingen |
+| 79 | RIAGG |
+
+Ontheffingsregeling regiebehandelaarschap bij overgang vanuit
+
+Jeugdwet
 
 Er geldt een ontheffing op de lijst met beroepen voor het regiebehandelaarschap voor patiënten die gedurende de behandeling (gestart onder de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)) de 18-jarige leeftijd bereiken (zorgtype 147). In dit geval mogen, in afwijking op wat hierboven is weergegeven, ook de onderstaande beroepen voorkomen als regiebehandelaar:
 
+- − kinder- en jeugdpsycholoog5Onder de kinder- en jeugdpsycholoog worden zowel de kinder- en jeugdpsycholoog NIP als de kinder- en jeugdpsycholoog SKJ gerekend.
+
+- − orthopedagoog generalist6Onder de orthopedagoog generalist worden zowel de NVO orthopedagoog generalist als de postmaster orthopedagoog SKJ gerekend.
+
+- − gz-psycholoog7Deze uitzondering betreft de situatie van een gz-psycholoog werkend in het jeugddomein als vrijgevestigde.
+
 Deze ontheffing geldt uitsluitend voor de behandeling die afgerond moet worden zodra een patiënt de 18-jarige leeftijd heeft bereikt. Dit wordt als initiële dbc onder de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) geregistreerd (zorgtype 147). Bij vervolg-dbc’s geldt deze uitzondering niet.
+
+Uitbreiding regiebehandelaarschap bij toegekende experimenteerruimte
 
 Er geldt een ontheffing op de lijst met beroepen voor het regiebehandelaarschap als een zoals in het model-kwaliteitsstatuut benoemde derde (onafhankelijke) partij een tweezijdig verzoek ontvangt tot uitbreiding van het regiebehandelaarschap en goedkeurt.
 
@@ -207,21 +342,23 @@ Het betreffende initiatief kan gebruik maken van een keuzemogelijkheid op dbc-ni
 
 Alleen BIG-geregistreerde beroepen kunnen in aanmerking komen voor een uitbreiding op de lijst met beroepen voor het regiebehandelaarschap.
 
+Voorschrift regiebehandelaar
+
 In de tariefbeschikking zal de NZa als voorwaarde opnemen dat de dbc in rekening gebracht kan worden als de regiebehandelaar direct patiëntgebonden tijd heeft besteed aan de patiënt voor wie wordt gedeclareerd.
 
 ### 6. Tarieven
 
 ### 6.1. Dbc’s
 
-Voor de dbc’s geldt dat sprake is van maximumtarieven, zoals bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). Dit betekent dat prijsafspraken kunnen worden gemaakt op of onder het maximumtarief met een ondergrens van € 0,–
+Voor de dbc’s geldt dat sprake is van maximumtarieven, zoals bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). Dit betekent dat prijsafspraken kunnen worden gemaakt op of onder het maximumtarief met een ondergrens van € 0,–
 
 ### 6.1.1
 
-In aanvulling op het in artikel 6.1 gestelde biedt de NZa aan zorgaanbieders een mogelijkheid om tot een maximum van 10% boven het op basis van artikel 6.1 geldende maximumtarief prijsafspraken te maken. Om hiervoor in aanmerking te komen dient sprake te zijn van een schriftelijke overeenkomst met de zorgverzekeraar.
+In aanvulling op het in [artikel 6.1](https://wetten.overheid.nl/BWBR0046027) gestelde biedt de NZa aan zorgaanbieders een mogelijkheid om tot een maximum van 10% boven het op basis van artikel 6.1 geldende maximumtarief prijsafspraken te maken. Om hiervoor in aanmerking te komen dient sprake te zijn van een schriftelijke overeenkomst met de zorgverzekeraar.
 
 ### 6.1.2
 
-Het in rekening te brengen maximale tarief is de som van het maximumtarief als omschreven in artikel 6.1 en indien daarvoor in aanmerking gekomen wordt, de mogelijkheid als omschreven in artikel 6.1.1.
+Het in rekening te brengen maximale tarief is de som van het maximumtarief als omschreven in [artikel 6.1](https://wetten.overheid.nl/BWBR0046027) en indien daarvoor in aanmerking gekomen wordt, de mogelijkheid als omschreven in [artikel 6.1.1](https://wetten.overheid.nl/BWBR0046027).
 
 ### 6.1.3. Deelprestatie verblijf-dbc
 
@@ -229,7 +366,11 @@ Op de deelprestaties voor verblijf in de dbc-systematiek is een component voor d
 
 ### 6.1.4. Tariefopbouw dbc
 
+- • De NZa heeft in beleidsregels haar beleid voor het vaststellen van de dbc-tarieven vastgelegd. De tarieven zijn in beginsel gebaseerd op de historische kosten van aanbieders. Dit vloeit voort uit de beleidsregel ‘Algemeen kader tariefprincipes curatieve zorg’.
+
 Om de historische kosten van een dbc vast te stellen maakt de NZa gebruik van kostprijsgegevens van aanbieders en gegevens over de gemiddelde tijdsbesteding per dbc uit het DIS. Het door de NZa gehanteerde kostprijsmodel is beschreven in de beleidsregel Kostprijsonderzoek ggz en fz en de Beleidsregel tariefopbouw dbc’s, dbbc’s, prestaties generalistische basis-ggz en ozp’s
+
+Tariefopbouw overige deelprestaties
 
 Het tarief voor de overige deelprestaties wordt eveneens op basis van kostenonderzoek vastgesteld. Uitzondering hierop zijn de tarieven voor de verrichting ambulante methadonverstrekking (amv) en voorbereiding zorgmachtiging. Het tarief voor amv is gebaseerd op een historisch vastgestelde kostprijs. Het tarief voor de voorbereiding zorgmachtiging is gebaseerd op een expert benadering. In de tarieven is geen vergoeding voor kapitaallasten opgenomen.
 
@@ -243,7 +384,7 @@ Het tarief voor de overige deelprestatie voorbereiding zorgmachtiging is gebasee
 
 ### 6.2. Zzp-ggz
 
-Voor de zzp’s ggz en de toeslagen aanvullend op de zzp’s ggz geldt dat sprake is van maximumtarieven, als bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), met een ondergrens van € 0,–.
+Voor de zzp’s ggz en de toeslagen aanvullend op de zzp’s ggz geldt dat sprake is van maximumtarieven, als bedoeld in [artikel 50, eerste lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), met een ondergrens van € 0,–.
 
 Voor de nhc en de nic behorend bij de zzp’s ggz geldt dat deze integraal onderdeel uitmaken van het maximum tarief van de zzp.
 
@@ -251,11 +392,23 @@ Voor de nhc en de nic behorend bij de zzp’s ggz geldt dat deze integraal onder
 
 De zzp’s ggz zijn gebaseerd op:
 
-De NZa heeft het tarief per zzp-ggz berekend door het aantal uur per functie te vermenigvuldigen met het uurbedrag per functie. Hierbij is opgeteld een vast bedrag per dag voor de functie verblijf en als dat van toepassing is de zorggebonden materiële kosten op grond van artikel 15 BZa.
+- − een gemiddelde tijdsduur per week, uitgedrukt in direct en indirect patiëntgebonden uren, voor de functies persoonlijke verzorging, verpleging, begeleiding, behandeling;
+
+- − een bedrag per uur voor deze functies persoonlijke verzorging, verpleging, begeleiding, behandeling;
+
+- − een vast bedrag per dag voor verblijf en als dat van toepassing is de zorggebonden materiële kosten [artikel 3.1.1 Wet langdurige zorg onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1).
+
+De NZa heeft het tarief per zzp-ggz berekend door het aantal uur per functie te vermenigvuldigen met het uurbedrag per functie. Hierbij is opgeteld een vast bedrag per dag voor de functie verblijf en als dat van toepassing is de zorggebonden materiële kosten op grond van artikel 15 BZa.
+
+Onderbouwing van de uren per functie per zzp-ggz
 
 De gemiddelde tijdsduur per functie is gebaseerd op de zzp’s die door de Staatssecretaris van VWS zijn vastgesteld.
 
+Tarieven in- of exclusief dagbesteding
+
 Voor patiënten die zijn aangewezen op een zzp-ggz met dagbesteding is de component dagbesteding een onlosmakelijk onderdeel van het zzp-ggz. Dagbesteding kan niet apart worden afgesproken. Wel kunnen zorgaanbieders afspraken maken via onderlinge dienstverlening als de dagbesteding door een andere zorgaanbieder wordt geboden dan waar de patiënt verblijft.
+
+Toeslag vervoer dagbesteding
 
 Het onderdeel vervoer heeft uitsluitend betrekking op patiënten die zijn aangewezen op zorg met dagbesteding, waarvoor de dagbesteding wordt aangeboden op een andere locatie dan waar de patiënt verblijft.
 
@@ -269,11 +422,11 @@ Voor de prestaties overige zorgproducten die de NZa op grond van deze beleidsreg
 
 ### 6.3.1. Tariefopbouw ozp’s
 
-Voor de overige zorgproducten, met uitzondering van de prestaties niet-basispakketzorg consult en niet-basispakketzorg verblijf, geldt dat de tarieven zijn gebaseerd op historisch vastgestelde kostprijzen. In het kader van de overige zorgproducten vinden geen kostenonderzoeken plaats. De hoogte van de tarieven houdt verband met de gemiddelde tijdsduur van de te leveren zorg en de gemiddelde loonkosten. Het tarief voor de ozp niet-basispakketzorg consult is gebaseerd op het gemiddelde van drie zorgproducten van de basis-ggz (licht, middel, zwaar). Het tarief voor de ozp niet-basispakketzorg verblijf is gebaseerd op het gemiddelde van de maximumtarieven van de verblijfscategorieën in de gespecialiseerde ggz. Het maximumtarief van het ozp niet-basispakket consult is gebaseerd op een consult van 60 minuten. Het maximumtarief voor de ozp niet-basispakket verblijf is gebaseerd op een verblijf van 24 uur.
+Voor de overige zorgproducten, met uitzondering van de prestaties niet-basispakketzorg consult en niet-basispakketzorg verblijf, geldt dat de tarieven zijn gebaseerd op historisch vastgestelde kostprijzen. In het kader van de overige zorgproducten vinden geen kostenonderzoeken plaats. De hoogte van de tarieven houdt verband met de gemiddelde tijdsduur van de te leveren zorg en de gemiddelde loonkosten. Het tarief voor de ozp niet-basispakketzorg consult is gebaseerd op het gemiddelde van drie zorgproducten van de basis-ggz (licht, middel, zwaar). Het tarief voor de ozp niet-basispakketzorg verblijf is gebaseerd op het gemiddelde van de maximumtarieven van de verblijfscategorieën in de gespecialiseerde ggz. Het maximumtarief van het ozp niet-basispakket consult is gebaseerd op een consult van 60 minuten. Het maximumtarief voor de ozp niet-basispakket verblijf is gebaseerd op een verblijf van 24 uur.
 
 ### 6.3.2. Spravato
 
-Het tarief voor de prestatie voor jaar t is gebaseerd op de apotheekinkoopprijs van 1 juni van het jaar t-1 plus btw.
+Het tarief voor de prestatie voor jaar t is gebaseerd op de apotheekinkoopprijs van 1 juni van het jaar t-1 plus btw.
 
 Op de apotheekinkoopprijs is de [Wet Geneesmiddelenprijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007867) (Wgp) van toepassing. Op basis van de Wgp stelt het Ministerie van VWS twee keer per jaar (april en oktober) maximumprijzen voor geneesmiddelen vast voor de farmaceutische industrie. Het vastgestelde maximumtarief van de NZa mag nooit hoger zijn dan de Wgp-maximumprijs. Daarom wordt het maximumtarief indien nodig, gedurende het jaar, verlaagd tot de Wgp-maximumprijs. Deze herziene maximumtarieven zijn terug te vinden in de G-standaard.
 
@@ -299,17 +452,27 @@ Met het oog op de toekomstige tariefvaststelling kan de NZa besluiten tot het ho
 
 ### 7. Procedure bij tarief en prestatieverzoek
 
+Ambtshalve of op aanvraag
+
 Binnen de ggz worden de prestaties en tarieven in beginsel ambtshalve door de NZa vastgesteld. In geval van een wijziging van een bestaande of in geval van een nieuwe prestatie en/of tarief, kan hiertoe een verzoek worden ingediend.
+
+De aanvraag
 
 Naast de hiervoor genoemde ambtshalve vaststelling door de NZa hebben zorgaanbieders en zorgverzekeraars ook de (wettelijk geregelde) mogelijkheid om zelf een aanvraag bij de NZa in te dienen met het verzoek om een nieuwe of een gewijzigde prestatie en/of tarief vast te stellen. In de beleidsregel ‘Toetsingskader beoordeling productstructuur dbc-systematiek’ is beschreven hoe de NZa aanvragen tot vaststelling van nieuwe tarieven en/of prestaties voor de geldende productstructuur behandelt.
 
 Een aanvraag tot een prestatie- en tariefvaststelling in afwijking van de geldende productstructuur c.q. aanvragen tot tariefvaststelling van een overig zorgproduct, moeten aan de volgende criteria voldoen:
 
+- − voldoet aan de vereisten van [artikel 54 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=54). Dit houdt in dat de aanvraag een voorstel bevat voor de toe te passen prestatiebeschrijving, het in rekening te brengen tarief en de periode waarvoor het tarief zal gelden. Als de NZa hierover geen nadere regel(s) heeft vastgesteld, moet de aanvraag ook een voorstel bevatten voor degene aan wie, degene door wie en de manier waarop het tarief in rekening wordt gebracht;
+
+- − heeft betrekking op de uitvoering van taken die voortvloeien uit nieuwe wet- of regelgeving en die niet kunnen worden ondergebracht bij een bestaande prestatiebeschrijving;
+
+- − wordt ondersteund door de representatieve belangenverenigingen.
+
 ### 8. Ingangsdatum prestaties en tarieven
 
 ### 8.1. Reguliere tariefvaststelling
 
-Tariefwijzigingen als gevolg van een kostprijsonderzoek of een indexatie worden enkel per 1 januari van het eerstvolgende kalenderjaar doorgevoerd.
+Tariefwijzigingen als gevolg van een kostprijsonderzoek of een indexatie worden enkel per 1 januari van het eerstvolgende kalenderjaar doorgevoerd.
 
 ### 8.2. Tussentijdse wijziging
 
@@ -325,80 +488,8 @@ De beleidsregel ‘Prestaties en tarieven gespecialiseerde geestelijke gezondhei
 
 ### 11. Inwerkingtreding en citeerregel
 
-Deze beleidsregel treedt in werking op 1 september 2021.
+Deze beleidsregel treedt in werking op 1 september 2021.
 
 Ingevolge [artikel 20, tweede lid, onderdeel b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20), zal van de vaststelling van deze beleidsregel mededeling worden gedaan in de Staatscourant.
 
 Deze beleidsregel kan worden aangehaald als: Beleidsregel prestaties en tarieven gespecialiseerde geestelijke gezondheidszorg.
-
-## Bijlage 1. Prestaties en prestatiebeschrijvingen dbc’s
-
-### Prestaties
-
-Toeslag – Oorlogsgerelateerd psychotrauma kent de volgende omschrijving:
-
-Toelichting:
-
-Voor de registratie van de Toeslag – Oorlogsgerelateerd psychotrauma geldt als vereiste dat deze toeslag alleen mag worden geregistreerd en gedeclareerd als er zorg geleverd wordt aan patiënten met een ernstige verstoring in het psychiatrisch ziektebeeld (psychisch, sociaal en somatisch functioneren), **veroorzaakt door oorlog of oorloggerelateerde vervolging of oorloggerelateerd geweld**, waarvoor bovengemiddeld weekendverlof voor het succesvol afronden van de behandeling noodzakelijk is.
-
-Voorbereiding zorgmachtiging kent de volgende omschrijving:
-
-De prestatie ‘beoordeling Wvggz’ dient ter dekking van de meerkosten van de inzet van een psychiater. De psychiater zal in verschillende rollen een belangrijk aandeel hebben in de beoordelingen in het kader van de Wvggz: als geneesheer-directeur, als zorgverantwoordelijke of als onafhankelijk beoordelaar van de aanvraag.
-
-### Prestatiebeschrijvingen
-
-1 Onder begeleiding is mede begrepen: verzorging en bescherming/structurering.
-
-2 VOV personeel staat voor Verzorgend Opvoedkundig en Verplegend personeel en is in deze context uitwisselbaar met de term ‘24-uurscontinuïteitsdienst’.
-
-3 ADL staat voor Algemene Dagelijkse Levensverrichtingen (bv. wassen, aankleden, eten, toiletgang).
-
-4 BDL staat voor Bijzondere Dagelijkse Levensverrichtingen (bv. huishoudelijk werk, koken, administratie doen, gebruikmaken van het openbaar vervoer).
-
-5 Netto staat voor: ingeroosterd zorgverlenend VOV-personeel.
-
-6 Fte staat voor fulltime-equivalent en staat gelijk aan 1 volledige werkweek.
-
-## Bijlage 2. Prestaties en prestatiebeschrijvingen zzp’s ggz
-
-De NZa heeft de navolgende zorgzwaartepakketten ggz vastgesteld: zzp-ggz b 3 t/m 7 exclusief dagbesteding, zzp-ggz b 3 t/m 7 inclusief dagbesteding, zzp-ggz b vmr inclusief dagbesteding, zzp-ggz b vmr exclusief dagbesteding en klinische intensieve behandeling (kib). Deze prestaties zijn alleen van toepassing als voldaan is aan de voorwaarden zoals weergegeven in de prestatiebeschrijvingen. In deze bijlage worden ook de toeslagen en de voorwaarden verbonden aan de toeslagen genoemd.
-
-1 Zorginsituut Nederland, “Medisch noodzakelijk verblijf in de geneeskundige GGZ”, d.d. 28 februari 2017:
-
-### Toeslagen
-
-Om voor extra bekostiging naastde zzp-ggz in aanmerking te komen gelden de volgende voorwaarden voor alle in deze bijlage vermelde toeslagen:
-
-## Bijlage 3. Overige zorgproducten11In bijlage 4 van de Regeling medisch specialistische zorg (msz) overige zorgproducten per segment kan de NZa andere ozp’s aanmerken als “door ggz te declareren”, waardoor die ozp’s door zorgaanbieders van ggz te declareren zijn. De bij die regeling behorende tariefbeschikking met maximumtarieven is daarop van toepassing.
-
-### 1. Rijbewijskeuringen en informatieverstrekkingen
-
-Aanbieders van gespecialiseerde ggz kunnen de rijbewijskeuringen en informatieverstrekkingen declareren die zijn opgenomen in de ozp lijst en selecteerbaar zijn voor de gespecialiseerde ggz.
-
-### 2. Niet-verzekerde zorg
-
-Voor de curatieve ggz die niet tot het basispakket behoort worden de volgende prestaties gebruikt:
-
-### Ozp niet-basispakketzorg consult
-
-Dit consult betreft een onafgebroken tijdsspanne waarin de zorgaanbieder de patiënt voor één of meerdere indicaties begeleidt, adviseert en/of behandelt. Dit is inclusief tijdsbesteding die uit dit contact voortvloeit. Deze prestatie is bedoeld voor patiënten die zorg ontvangen welke buiten de aanspraak op de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) valt maar wel zorg is zoals omschreven in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
-
-### Ozp niet-basispakketzorg verblijf
-
-Deze verblijfsprestatie betreft standaard een verblijf met overnachting. Deze verblijfsprestatie is bedoeld voor patiënten die opgenomen zijn om zorg te ontvangen welke buiten de aanspraak op de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) valt maar wel zorg is zoals omschreven in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078). De behandeling zelf valt niet onder deze prestatie, het gaat hier uitsluitend om de verblijfskosten.
-
-### 3. Consultatie bij euthanasieverzoek op grond van psychisch lijden
-
-Deze prestatie is bedoeld voor een eerste consulatie door een psychiater bij een euthanasieverzoek op grond van psychisch lijden. De consultatie vindt plaats conform de richtlijn ‘omgaan met het verzoek om hulp bij zelfdoding door patiënten met een psychiatrische stoornis’. Het verzoek tot consultatie is afkomstig van een behandelend psychiater, een huisarts, arts Levenseindekliniek of een overige direct bij de behandeling van de patiënt betrokken arts/medisch specialist. De werkzaamheden die met dit ozp in rekening kunnen worden gebracht bedragen het dossieronderzoek, gesprek met patiënt en naasten, verslaglegging en afsluiting.
-
-### Spravato neusspray 28 mg
-
-Overig zorgproduct voor het intramurale geneesmiddel Spravato neusspray (Spravato®). De prestatiebeschrijving van Spravato wordt gevormd door de artikelomschrijving van het consumentenartikel zoals opgenomen in de G-standaard. Deze toeslag is alleen voor de kosten van het geneesmiddel. De voorzorg, het toedienen en de nazorg kan worden gedeclareerd via de dbc. In de tariefbeschikking zal de NZa opnemen dat deze toeslag alleen gedeclareerd mag worden als de indicatie is vastgelegd waarvoor Spravato is toegediend.
-
-Spravato kan worden ingekocht in inkoophoeveelheden van 2 en 3 stuks (ZI-nummers 16963598 en 16963601). Declaratie vindt plaats per pompje.
-
-## Bijlage 4. Onderlinge dienstverlening
-
-| Prestatiebeschrijving: onderlinge dienstverlening |
-| --- |
-| een (deel)prestatie die een zorgaanbieder verleent levert als onderdeel van door een andere zorgaanbieder uit te verlenen zorg als bedoeld in [artikel 1, eerste lid, onder b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) prestatie op het gebied van gespecialiseerde ggz. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’ |

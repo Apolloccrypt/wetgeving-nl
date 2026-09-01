@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 23 december 2021, kenmerk 2671127, houdende beperking van de openbaarheid van de Archieven van de Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)"
+citeertitel: "Besluit houdende beperking openbaarheid Archieven Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)"
 identifier: "BWBR0046335"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-02-24"
-last_updated: "2022-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046335"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16273653"
-version_id: "28428112"
-internal_id: "C40119151"
-label_id: "16199724"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046335/2022-02-24/0"
-intitule_bron: "Stcrt.2022-3609"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-23"
-intitule_published: "2022-02-23"
-intitule_in_force: "2022-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-3609"
-original_signed_date: "2021-12-23"
-original_published_date: "2022-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-3609"
-entry_into_force_date: "2022-02-24"
-jci_1_3: "jci1.3:c:BWBR0046335&z=2022-02-24&g=2022-02-24"
-jci_1_0: "1.0:c:BWBR0046335&g=2022-02-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit houdende beperking openbaarheid Archieven Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)"
-signed_date: "2021-12-23"
-entry_into_force: "2022-02-24"
+publicatiedatum: 2022-02-24
+laatste_update: 2022-02-24
+status: geldig
+toestand: 2022-02-24
+bron: "https://wetten.overheid.nl/BWBR0046335"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 23 december 2021, kenmerk 2671127, houdende beperking van de openbaarheid van de Archieven van de Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de algemeen rijksarchivaris d.d. **24 november 2021** met kenmerk zaaknummer **1164524.**
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de Archieven van de Rijkspolitie in de provincie Noord-Brabant, Districten Eindhoven, ’s-Hertogenbosch en Breda, (1937) 1945–1993 (1995)
 
 ##### Artikel 1
 

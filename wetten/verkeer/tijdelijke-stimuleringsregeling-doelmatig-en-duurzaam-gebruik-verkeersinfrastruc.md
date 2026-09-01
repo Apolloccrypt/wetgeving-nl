@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 12 oktober 2021, nr. IENW/BSK-2021/264008, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2021 (Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021)"
+citeertitel: "Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021"
 identifier: "BWBR0045694"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-19"
-last_updated: "2025-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045694"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16099983"
-version_id: "28083882"
-internal_id: "C39606761"
-label_id: "16030974"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045694/2025-11-19/0"
-intitule_bron: "Stcrt.2021-43017"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-12"
-intitule_published: "2021-10-14"
-intitule_in_force: "2021-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-43017"
-original_signed_date: "2021-10-12"
-original_published_date: "2021-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-43017"
-entry_into_force_date: "2021-10-15"
-jci_1_3: "jci1.3:c:BWBR0045694&z=2025-11-19&g=2025-11-19"
-jci_1_0: "1.0:c:BWBR0045694&g=2025-11-19"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021"
-signed_date: "2021-10-12"
-entry_into_force: "2021-10-15"
+publicatiedatum: 2021-10-15
+laatste_update: 2025-11-19
+status: geldig
+toestand: 2025-11-19
+bron: "https://wetten.overheid.nl/BWBR0045694"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 12 oktober 2021, nr. IENW/BSK-2021/264008, houdende tijdelijke regels voor toekenning van specifieke uitkeringen ter stimulering van het nemen van maatregelen ten behoeve van doelmatiger en duurzamer gebruik van verkeersinfrastructuur 2021 (Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021)
-
-Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [3, eerste lid, aanhef en onderdelen a, b en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, aanhef en onderdelen a tot en met f, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Bestuurlijke Overleggen MIRT 2020:** Bestuurlijke overleggen MIRT Noord-Nederland, Oost-Nederland, Zuid-Nederland, Zuidwest-Nederland, Noordwest-Nederland en goederenvervoercorridors die hebben plaatsgevonden op 25 en 26 november 2020;
+- *Bestuurlijke Overleggen MIRT 2020:* Bestuurlijke overleggen MIRT Noord-Nederland, Oost-Nederland, Zuid-Nederland, Zuidwest-Nederland, Noordwest-Nederland en goederenvervoercorridors die hebben plaatsgevonden op 25 en 26 november 2020;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2025-11-19&g=2025-11-19).
+- *specifieke uitkering:* uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=3&z=2025-11-19&g=2025-11-19).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -82,7 +56,7 @@ Tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045694&artikel=2
 
 - b. uitvoeringskosten.
 
-2. Kosten van activiteiten die na 1 januari 2020 hebben plaatsgevonden kunnen voor verstrekking van een specifieke uitkering in aanmerking komen.
+2. Kosten van activiteiten die na 1 januari 2020 hebben plaatsgevonden kunnen voor verstrekking van een specifieke uitkering in aanmerking komen.
 
 3. Voor een specifieke uitkering komen niet in aanmerking:
 
@@ -104,7 +78,7 @@ Het percentage van de kosten, bedoeld in [artikel 4, eerste lid](https://wetten.
 
 ##### Artikel 7. Aanvraag voor verlening specifieke uitkering
 
-1. Een aanvraag van een specifieke uitkering wordt uiterlijk op 10 november 2021 ingediend.
+1. Een aanvraag van een specifieke uitkering wordt uiterlijk op 10 november 2021 ingediend.
 
 2. Een aanvraag gaat vergezeld van:
 
@@ -136,7 +110,7 @@ De minister verstrekt bij een besluit tot verlening als bedoeld in [artikel 8](h
 
 ##### Artikel 10. Verplichtingen ontvanger
 
-1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 oktober 2026 gerealiseerd.
+1. De activiteiten waarvoor een specifieke uitkering is verleend, zijn voor uiterlijk 1 oktober 2026 gerealiseerd.
 
 2. De ontvanger van een specifieke uitkering werkt mee aan een door de minister ingesteld evaluatieonderzoek ten behoeve van een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk als bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24).
 
@@ -152,10 +126,8 @@ De minister stelt de specifieke uitkering vast binnen zes maanden nadat de activ
 
 ##### Artikel 13. Inwerkingtreding en verval
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 oktober 2026, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 oktober 2026, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke stimuleringsregeling doelmatig en duurzaam gebruik verkeersinfrastructuur 2021.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

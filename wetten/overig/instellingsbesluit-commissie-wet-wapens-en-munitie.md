@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 19 januari 2022, nr. 3576949, houdende instelling van de Commissie Wet wapens en munitie (Instellingsbesluit Commissie Wet wapens en munitie)"
+citeertitel: "Instellingsbesluit Commissie Wet wapens en munitie"
 identifier: "BWBR0046248"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-07"
-last_updated: "2022-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046248"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16248603"
-version_id: "28374822"
-internal_id: "C40018351"
-label_id: "16175994"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046248/2022-10-07/0"
-intitule_bron: "Stcrt.2022-3320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-01-19"
-intitule_published: "2022-01-28"
-intitule_in_force: "2022-01-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-3320"
-original_signed_date: "2022-01-19"
-original_published_date: "2022-01-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-3320"
-entry_into_force_date: "2022-01-29"
-jci_1_3: "jci1.3:c:BWBR0046248&z=2022-10-07&g=2022-10-07"
-jci_1_0: "1.0:c:BWBR0046248&g=2022-10-07"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Wet wapens en munitie"
-signed_date: "2022-01-19"
-entry_into_force: "2022-01-29"
+publicatiedatum: 2022-01-29
+laatste_update: 2022-10-07
+status: geldig
+toestand: 2022-10-07
+bron: "https://wetten.overheid.nl/BWBR0046248"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 19 januari 2022, nr. 3576949, houdende instelling van de Commissie Wet wapens en munitie (Instellingsbesluit Commissie Wet wapens en munitie)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-10-07&g=2022-10-07).
+- b. *commissie:* commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046248&artikel=2&z=2022-10-07&g=2022-10-07).
 
 ##### Artikel 2. Instelling en taak
 
@@ -54,7 +28,7 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak:
 
-- a. Het maken van een probleem-inventarisatie ten aanzien van het functioneren van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en de onderliggende regelgeving. De commissie betrekt hierbij in ieder geval de onderwerpen die zijn opgenomen in de brief van 18 december 2020, inzake de voortgang van de herziening Wet wapens en munitie (Kamerstukken II 2020/21, 33 033, nr.29);
+- a. Het maken van een probleem-inventarisatie ten aanzien van het functioneren van de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en de onderliggende regelgeving. De commissie betrekt hierbij in ieder geval de onderwerpen die zijn opgenomen in de brief van 18 december 2020, inzake de voortgang van de herziening Wet wapens en munitie (Kamerstukken II 2020/21, 33 033, nr.29);
 
 - b. Naar aanleiding van de probleem-inventarisatie de mogelijkheden in kaart te brengen, met (eventuele) voor- en nadelen, op welke wijze de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804) en onderliggende regelgeving gemoderniseerd kunnen worden op een wijze die past bij het doel van de Wet wapens en munitie, namelijk de openbare orde en veiligheid te waarborgen door het illegale bezit van wapens en munitie te bestrijden en het legale bezit zoveel mogelijk te beheersen;
 
@@ -84,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5. Leden
 
-Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
+Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 - a. de heer mr. C.J.L. van Dam, tevens voorzitter;
 
@@ -150,9 +124,9 @@ Met ingang van 7 februari 2022 worden tot lid van de commissie benoemd:
 
 1. Aan de voorzitter van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16, trede 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) (BBRA) en de arbeidsduurfactor op 8/36.
 
-2. De voorzitter van de begeleidingscommissie ontvangt een vergoeding per vergadering van de begeleidingscommissie van € 390,00. De andere leden van de begeleidingscommissie ontvangen een vergoeding per vergadering van de begeleidingscommissie van € 300,00.
+2. De voorzitter van de begeleidingscommissie ontvangt een vergoeding per vergadering van de begeleidingscommissie van € 390,00. De andere leden van de begeleidingscommissie ontvangen een vergoeding per vergadering van de begeleidingscommissie van € 300,00.
 
-3. Het lid van de commissie de heer ing. J. van Driel ontvangt een vergoeding per vergadering van € 200,00.
+3. Het lid van de commissie de heer ing. J. van Driel ontvangt een vergoeding per vergadering van € 200,00.
 
 ##### Artikel 9. Kosten van de commissie
 
@@ -179,5 +153,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Wet wapens en munitie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

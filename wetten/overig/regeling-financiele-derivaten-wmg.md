@@ -1,74 +1,46 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242401-1014062-PZO, houdende nadere regels voor het aantrekken van financiële derivaten door zorgaanbieders (Regeling financiële derivaten WMG)"
+citeertitel: "Regeling financiële derivaten WMG"
 identifier: "BWBR0045538"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045538"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16059713"
-version_id: "27972302"
-internal_id: "C39464631"
-label_id: "15991704"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045538/2022-01-01/0"
-intitule_bron: "Stcrt.2021-39292"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-08-20"
-intitule_published: "2021-08-30"
-intitule_in_force: "2021-07-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-39292"
-original_signed_date: "2021-08-20"
-original_published_date: "2021-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-39292"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0045538&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0045538&g=2022-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling financiële derivaten WMG"
-signed_date: "2021-08-20"
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0045538"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 augustus 2021, kenmerk 3242401-1014062-PZO, houdende nadere regels voor het aantrekken van financiële derivaten door zorgaanbieders (Regeling financiële derivaten WMG)
-
-Gelet op [artikel 40a, derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40a);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel II, onderdeel C, van de Aanpassingswet Wet toetreding zorgaanbieders in werking treedt.
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- –. **financiële onderneming:** als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
+- – *financiële onderneming:* als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
 
-- –. **financieringsbehoefte:** lening, groep leningen of nog aan te trekken lening respectievelijk groep leningen;
+- – *financieringsbehoefte:* lening, groep leningen of nog aan te trekken lening respectievelijk groep leningen;
 
-- –. **forward starting swap:** renteswap met een overeengekomen toekomstige begindatum;
+- – *forward starting swap:* renteswap met een overeengekomen toekomstige begindatum;
 
-- –. **interne toezichthouder:** interne toezichthouder als bedoeld in [artikel 3, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=3);
+- – *interne toezichthouder:* interne toezichthouder als bedoeld in [artikel 3, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=3);
 
-- –. **lidstaat:** staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte;
+- – *lidstaat:* staat die lid is van de Europese Unie of een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte;
 
-- –. **margin call:** het storten van een zekerheid om een uitstaande positie af te dekken;
+- – *margin call:* het storten van een zekerheid om een uitstaande positie af te dekken;
 
-- –. **payer swap:** renteswap van de partij die een vaste rente betaalt en een variabele rente ontvangt;
+- – *payer swap:* renteswap van de partij die een vaste rente betaalt en een variabele rente ontvangt;
 
-- –. **rating:** taxatie van de kredietwaardigheid van een financiële onderneming;
+- – *rating:* taxatie van de kredietwaardigheid van een financiële onderneming;
 
-- –. **ratingbureau:** bureau dat een rating verstrekt;
+- – *ratingbureau:* bureau dat een rating verstrekt;
 
-- –. **rentecap:** financieel derivaat tussen twee partijen bij of inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een overeengekomen periode de garantie van een ten hoogste te betalen rentetarief verkrijgt;
+- – *rentecap:* financieel derivaat tussen twee partijen bij of inzake een financiering, waarbij de koper tegen betaling van een geldsom gedurende een overeengekomen periode de garantie van een ten hoogste te betalen rentetarief verkrijgt;
 
-- –. **renteswap:** financieel derivaat tussen twee partijen om gedurende een bij dat derivaat overeengekomen periode kasstromen in de vorm van rentebetalingen uit te wisselen;
+- – *renteswap:* financieel derivaat tussen twee partijen om gedurende een bij dat derivaat overeengekomen periode kasstromen in de vorm van rentebetalingen uit te wisselen;
 
-- –. **swaption:** financieel derivaat dat de koper gedurende een bepaalde periode of op een bepaald moment het recht geeft om onder bepaalde voorwaarden een renteswap af te sluiten.
+- – *swaption:* financieel derivaat dat de koper gedurende een bepaalde periode of op een bepaald moment het recht geeft om onder bepaalde voorwaarden een renteswap af te sluiten.
 
 ##### Artikel 2. Treasurystatuut
 
@@ -102,11 +74,11 @@ Een zorgaanbieder trekt een financieel derivaat slechts aan bij een financiële 
 
 - b. hij aan twee van de drie onderstaande eisen voldoet:
 
-- 1°. een balanstotaal op jaarbasis van ten minste € 20 miljoen;
+   - 1°. een balanstotaal op jaarbasis van ten minste € 20 miljoen;
 
-- 2°. een netto-omzet op jaarbasis van ten minste € 40 miljoen;
+   - 2°. een netto-omzet op jaarbasis van ten minste € 40 miljoen;
 
-- 3°. een eigen vermogen van ten minste € 2 miljoen.
+   - 3°. een eigen vermogen van ten minste € 2 miljoen.
 
 ##### Artikel 5. Doeleinden en voorwaarden aan aantrekken financieel derivaat
 
@@ -147,5 +119,3 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel II, onderdeel C,
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling financiële derivaten WMG.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

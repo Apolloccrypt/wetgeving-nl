@@ -1,44 +1,64 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 6 december 2021, nr. NVWA/2022/457, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Besluit ondermandaat, volmacht en machtiging Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022"
 identifier: "BWBR0046225"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-06"
-last_updated: "2025-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046225"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16241673"
-version_id: "28359102"
-internal_id: "C39997021"
-label_id: "16169174"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046225/2025-02-06/0"
-intitule_bron: "Stcrt.2022-1227"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-06"
-intitule_published: "2022-01-21"
-intitule_in_force: "2022-01-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-1227"
-original_signed_date: "2021-12-06"
-original_published_date: "2022-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-1227"
-entry_into_force_date: "2022-01-22"
-jci_1_3: "jci1.3:c:BWBR0046225&z=2025-02-06&g=2025-02-06"
-jci_1_0: "1.0:c:BWBR0046225&g=2025-02-06"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022"
-signed_date: "2021-12-06"
-entry_into_force: "2022-01-22"
+publicatiedatum: 2022-01-22
+laatste_update: 2025-02-06
+status: geldig
+toestand: 2025-02-06
+bron: "https://wetten.overheid.nl/BWBR0046225"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 6 december 2021, nr. NVWA/2022/457, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (Besluit ondermandaat, volmacht en machtiging Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022)
 
 #### § 1. Algemene bepalingen
 
-#### § 1. Algemene bepalingen
+##### Artikel 1
+
+In dit besluit wordt verstaan onder:
+
+- a. *de inspecteur-generaal:* de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
+
+- b. *de plaatsvervangend inspecteur-generaal:* de plaatsvervangend inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
+
+- c. *de directeuren:* de directeur Strategie, de directeur Handhaven, de directeur Slachttoezicht, de directeur Handelstoezicht en de directeur Interne Organisatie, de directeur Bureau Risicobeoordeling & Onderzoek, de directeur Inlichtingen & Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit;
+
+- d. *de plaatsvervangend directeur Interne Organisatie:* de plaatsvervangend directeur Interne Organisatie van de Nederlandse Voedsel- en Warenautoriteit;
+
+- e. *de Chief Nature and Environment Officer:* de Chief Nature and Environment Officer van de Nederlandse Voedsel- en Warenautoriteit
+
+- f. *de Chief Veterinary Inspector:* de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit;
+
+- g. *de Chief Food Safety Officer:* de Chief Food Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
+
+- h. *de Director National Plant Protection Organisation:* de Director National Plant Protection Organisation van de Nederlandse Voedsel- en Warenautoriteit;
+
+- i. *de divisiehoofden:* de divisiehoofden van de Nederlandse Voedsel-en Warenautoriteit;
+
+- j. *de afdelingshoofden:* de afdelingshoofden van een directie of divisie van de Nederlandse Voedsel- en Warenautoriteit;
+
+- k. *de teamleiders:* de teamleiders van een directie, divisie of afdeling van de Nederlandse Voedsel- en Warenautoriteit;
+
+- l. *de teamleiders Bezwaar en Beroep:* de teamleiders van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- m. *de juristen Bezwaar en Beroep:* de juristen van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische Zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
+
+- n. *de inspecteurs van de afdeling Dier:* de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+
+- o. *de inspecteurs van de afdeling Plant, vis, EU en natuur:* de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
+
+- p. *de inspecteurs bij de afdeling Import, bij de afdeling Exportcertificering op locatie, bij de afdeling Toezicht Pluimvee en bij de afdeling toezicht Roodvlees:* de inspecteurs en senior inspecteurs bij de afdeling Import bij de directie Handelstoezicht, bij de afdeling Exportcertificering op locatie bij de directie Handelstoezicht, bij de afdeling Toezicht Pluimvee bij de directie Slachttoezicht en bij de afdeling Toezicht Roodvlees bij de directie Slachttoezicht;
+
+- q. *de senior inspecteurs bij de afdeling Exportcertificering op afstand:* de senior inspecteurs bij de afdeling Exportcertificering op afstand bij de directie Handelstoezicht die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
+
+- r. *de liaison agressie en geweld:* de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit;
+
+- s. *CJIB:* Centraal Justitieel Incassobureau als bedoeld in [artikel 2, derde lid, onderdeel b, onder 1° van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
+
+#### § 2. Taakverdeling
 
 ##### Artikel 2
 
@@ -48,9 +68,9 @@ entry_into_force: "2022-01-22"
 
 - b. aangelegenheden op het werkterrein van een directeur of divisiehoofd:
 
-- 1°. ten aanzien waarvan de inspecteur-generaal in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
+   - 1°. ten aanzien waarvan de inspecteur-generaal in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
 
-- 2°. die door een directeur of divisiehoofd aan de inspecteur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de inspecteur-generaal door een andere directeur of divisiehoofd moeten worden behandeld.
+   - 2°. die door een directeur of divisiehoofd aan de inspecteur-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de inspecteur-generaal door een andere directeur of divisiehoofd moeten worden behandeld.
 
 2. Tot de in het eerste lid, onder a bedoelde aangelegenheden op het gebied van personeel behoren in elk geval:
 
@@ -166,59 +186,11 @@ Aan de Chief Nature and Environment Officer, Chief Veterinary Inspector, de Chie
 
 Aan de liaison agressie en geweld wordt machtiging verleend tot het vertegenwoordigen van de NVWA ter zitting bij de strafrechter, dan wel ter zitting bij de raadkamer ten behoeve van de behandeling van klaagschriften als bedoeld in [artikel 12, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=12).
 
-#### § 3. Vervanging
+##### Artikel 6a
 
-#### § 4. Slotbepalingen
+1. Aan de algemeen directeur van het CJIB wordt ondermandaat en machtiging verleend voor het opmaken en uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen tegen dwangbevelen en het treffen van betalingsregelingen.
 
-Gelet op [artikel 10:3, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [artikel 10, eerste en derde lid, van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=10);
-
-Gelet op de schriftelijke toestemming van de secretaris-generaal, bedoeld in [artikel 10, derde lid, van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=10), d.d. 3 juni 2021, kenmerk PSG-DB / 21150746;
-
-Besluit:
-
-##### Artikel 1
-
-In dit besluit wordt verstaan onder:
-
-- a. **de inspecteur-generaal:** de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
-
-- b. **de plaatsvervangend inspecteur-generaal:** de plaatsvervangend inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
-
-- c. **de directeuren:** de directeur Strategie, de directeur Handhaven, de directeur Slachttoezicht, de directeur Handelstoezicht en de directeur Interne Organisatie, de directeur Bureau Risicobeoordeling & Onderzoek, de directeur Inlichtingen & Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit;
-
-- d. **de plaatsvervangend directeur Interne Organisatie:** de plaatsvervangend directeur Interne Organisatie van de Nederlandse Voedsel- en Warenautoriteit;
-
-- e. **de Chief Nature and Environment Officer:** de Chief Nature and Environment Officer van de Nederlandse Voedsel- en Warenautoriteit
-
-- f. **de Chief Veterinary Inspector:** de Chief Veterinary Inspector van de Nederlandse Voedsel- en Warenautoriteit;
-
-- g. **de Chief Food Safety Officer:** de Chief Food Safety Officer van de Nederlandse Voedsel- en Warenautoriteit;
-
-- h. **de Director National Plant Protection Organisation:** de Director National Plant Protection Organisation van de Nederlandse Voedsel- en Warenautoriteit;
-
-- i. **de divisiehoofden:** de divisiehoofden van de Nederlandse Voedsel-en Warenautoriteit;
-
-- j. **de afdelingshoofden:** de afdelingshoofden van een directie of divisie van de Nederlandse Voedsel- en Warenautoriteit;
-
-- k. **de teamleiders:** de teamleiders van een directie, divisie of afdeling van de Nederlandse Voedsel- en Warenautoriteit;
-
-- l. **de teamleiders Bezwaar en Beroep:** de teamleiders van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
-
-- m. **de juristen Bezwaar en Beroep:** de juristen van team Bezwaar en Beroep 1 en van team Bezwaar en Beroep 2, van de divisie Juridische Zaken, directie Strategie, van de Nederlandse Voedsel- en Warenautoriteit;
-
-- n. **de inspecteurs van de afdeling Dier:** de inspecteurs van de afdeling Dier van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
-
-- o. **de inspecteurs van de afdeling Plant, vis, EU en natuur:** de inspecteurs van de afdeling Plant, vis, EU en natuur van de divisie Inspectie, directie Handhaven van de Nederlandse Voedsel- en Warenautoriteit;
-
-- p. **de inspecteurs bij de afdeling Import, bij de afdeling Exportcertificering op locatie, bij de afdeling Toezicht Pluimvee en bij de afdeling toezicht Roodvlees:** de inspecteurs en senior inspecteurs bij de afdeling Import bij de directie Handelstoezicht, bij de afdeling Exportcertificering op locatie bij de directie Handelstoezicht, bij de afdeling Toezicht Pluimvee bij de directie Slachttoezicht en bij de afdeling Toezicht Roodvlees bij de directie Slachttoezicht;
-
-- q. **de senior inspecteurs bij de afdeling Exportcertificering op afstand:** de senior inspecteurs bij de afdeling Exportcertificering op afstand bij de directie Handelstoezicht die toezichthoudend dierenarts, dan wel senior toezichthoudend dierenarts zijn;
-
-- r. **de liaison agressie en geweld:** de liaison agressie en geweld van de Nederlandse Voedsel- en Warenautoriteit;
-
-- s. **CJIB:** Centraal Justitieel Incassobureau als bedoeld in [artikel 2, derde lid, onderdeel b, onder 1° van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
-
-#### § 2. Taakverdeling
+2. De algemeen directeur van het CJIB kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 #### § 3. Vervanging
 
@@ -244,22 +216,8 @@ Het [Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2025-02-06&g=2025-02-06) terug tot 1 januari 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2020, en werkt ten aanzien van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046225&paragraaf=2&artikel=3&z=2025-02-06&g=2025-02-06) terug tot 1 januari 2019.
 
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 6a
-
-1. Aan de algemeen directeur van het CJIB wordt ondermandaat en machtiging verleend voor het opmaken en uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen tegen dwangbevelen en het treffen van betalingsregelingen.
-
-2. De algemeen directeur van het CJIB kan met betrekking tot zijn bevoegdheden, bedoeld in het eerste lid, ondermandaat en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
-
-#### § 3. Vervanging
-
-#### § 4. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.

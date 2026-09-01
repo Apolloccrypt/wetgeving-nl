@@ -1,51 +1,25 @@
 ---
-title: "Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz"
+title: "Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz."
 identifier: "BWBR0046150"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046150"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "16219593"
-version_id: "28319642"
-internal_id: "C39923131"
-label_id: "16147234"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046150/2022-01-01/0"
-intitule_bron: "Stcrt.2021-50107"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-12-31"
-intitule_in_force: "2021-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-50107"
-original_published_date: "2021-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-50107"
-entry_into_force_date: "2022-01-01"
-jci_1_3: "jci1.3:c:BWBR0046150&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBR0046150&g=2022-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz."
-entry_into_force: "2022-01-01"
+publicatiedatum: 2022-01-01
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBR0046150"
+opgehaald: 2026-09-01
 ---
-# Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz
 
-Overwegende dat met deze verordening opvolging wordt gegeven aan de aanbeveling om het toezicht op accountantsorganisaties volledig onder te brengen bij de Autoriteit Financiële Markten;
-
-Gelet op de [artikel 19, eerste lid van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
+# Wijzigingsverordening Verordening op de kwaliteitsbeoordelingen, enz.
 
 ##### Artikel I
 
-Wijzigt de Verordening op de kwaliteitsbeoordelingen.
+*Wijzigt de Verordening op de kwaliteitsbeoordelingen.*
 
 ##### Artikel II
 
-Wijzigt de Verordening op de kosten kwaliteitsbeoordelingen.
+*Wijzigt de Verordening op de kosten kwaliteitsbeoordelingen.*
 
 ##### Artikel III
 

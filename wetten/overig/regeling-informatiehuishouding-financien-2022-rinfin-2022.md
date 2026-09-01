@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 16 december 2021, nr. 2021-238261, houdende beheersregels op het gebied van de informatiehuishouding voor het Ministerie van Financiën (Regeling Informatiehuishouding Financiën 2022)"
+citeertitel: "Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022)"
 identifier: "BWBR0046157"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-07"
-last_updated: "2023-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046157"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16221513"
-version_id: "28323192"
-internal_id: "C39928251"
-label_id: "16149284"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046157/2023-07-07/0"
-intitule_bron: "Stcrt.2022-59"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-16"
-intitule_published: "2022-01-04"
-intitule_in_force: "2022-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-59"
-original_signed_date: "2021-12-16"
-original_published_date: "2022-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-59"
-entry_into_force_date: "2022-01-05"
-jci_1_3: "jci1.3:c:BWBR0046157&z=2023-07-07&g=2023-07-07"
-jci_1_0: "1.0:c:BWBR0046157&g=2023-07-07"
-citeertitel_status: "officieel"
-short_title: "Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022)"
-signed_date: "2021-12-16"
-entry_into_force: "2022-01-05"
+publicatiedatum: 2022-01-05
+laatste_update: 2023-07-07
+status: geldig
+toestand: 2023-07-07
+bron: "https://wetten.overheid.nl/BWBR0046157"
+opgehaald: 2026-09-01
 ---
+
 # Regeling van de Minister van Financiën van 16 december 2021, nr. 2021-238261, houdende beheersregels op het gebied van de informatiehuishouding voor het Ministerie van Financiën (Regeling Informatiehuishouding Financiën 2022)
-
-gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,81 +20,81 @@ besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- **archiefbeheerder:** degene die namens de plaatsvervangend secretaris-generaal verantwoordelijk is voor het laten uitvoeren van het beheer van de overheidsinformatie voor de onder hem vallende archiefvormende onderdelen;
+- *archiefbeheerder:* degene die namens de plaatsvervangend secretaris-generaal verantwoordelijk is voor het laten uitvoeren van het beheer van de overheidsinformatie voor de onder hem vallende archiefvormende onderdelen;
 
-- **archiefbeherend onderdeel:** het organisatieonderdeel of de organisatie die tot taak heeft in opdracht van de archiefbeheerder de feitelijke werkzaamheden met betrekking tot het beheer van overheidsinformatie uit te voeren;
+- *archiefbeherend onderdeel:* het organisatieonderdeel of de organisatie die tot taak heeft in opdracht van de archiefbeheerder de feitelijke werkzaamheden met betrekking tot het beheer van overheidsinformatie uit te voeren;
 
-- **archieffunctie:** de bedrijfsfunctie gericht op de kwaliteit van het duurzaam toegankelijk maken en houden, bewaren en beheren van de overheidsinformatie van de archiefvormende onderdelen;
+- *archieffunctie:* de bedrijfsfunctie gericht op de kwaliteit van het duurzaam toegankelijk maken en houden, bewaren en beheren van de overheidsinformatie van de archiefvormende onderdelen;
 
-- **archiefsysteem:** een informatiesysteem dat het beheer van overheidsinformatie ondersteunt;
+- *archiefsysteem:* een informatiesysteem dat het beheer van overheidsinformatie ondersteunt;
 
-- **archiefvormend onderdeel:** een organisatieonderdeel onder verantwoordelijkheid van de Minister, dat bevoegd is te handelen en op grond van de verantwoordelijkheid voor dat handelen overheidsinformatie verzamelt, ontvangt, produceert, verzendt of beheert;
+- *archiefvormend onderdeel:* een organisatieonderdeel onder verantwoordelijkheid van de Minister, dat bevoegd is te handelen en op grond van de verantwoordelijkheid voor dat handelen overheidsinformatie verzamelt, ontvangt, produceert, verzendt of beheert;
 
-- **beheer van overheidsinformatie (synoniem: archiefbeheer):** de uitvoerende werkzaamheden om overheidsinformatie in goede, geordende en toegankelijke staat te brengen en te bewaren, als ook om overheidsinformatie die daarvoor in aanmerking komt te vernietigen dan wel over te brengen;
+- *beheer van overheidsinformatie (synoniem: archiefbeheer):* de uitvoerende werkzaamheden om overheidsinformatie in goede, geordende en toegankelijke staat te brengen en te bewaren, als ook om overheidsinformatie die daarvoor in aanmerking komt te vernietigen dan wel over te brengen;
 
-- **CIO van een verzorgingsgebied:** Chief Information Officer van het kernministerie, het directoraat-generaal Belastingdienst, het directoraat-generaal Douane of het directoraat-generaal Toeslagen;
+- *CIO van een verzorgingsgebied:* Chief Information Officer van het kernministerie, het directoraat-generaal Belastingdienst, het directoraat-generaal Douane of het directoraat-generaal Toeslagen;
 
-- **conversie:** het proces van omzetten van informatie van het ene formaat naar het andere formaat;
+- *conversie:* het proces van omzetten van informatie van het ene formaat naar het andere formaat;
 
-- **duurzaam toegankelijk:** overheidsinformatie vallend onder de archiefwettelijke zorg, moet gedurende de in een selectielijst opgenomen termijn in goede, geordende en toegankelijke staat worden bewaard, dat wil zeggen:
+- *duurzaam toegankelijk:* overheidsinformatie vallend onder de archiefwettelijke zorg, moet gedurende de in een selectielijst opgenomen termijn in goede, geordende en toegankelijke staat worden bewaard, dat wil zeggen:
 
-- •. toegankelijk, vindbaar en in contextuele samenhang raadpleegbaar;
+   - • toegankelijk, vindbaar en in contextuele samenhang raadpleegbaar;
 
-- •. met de garantieresultaatverplichting dat deze juist, volledig en authentiek en leesbaar is, ook in de toekomst en, bij digitale overheidsinformatie, onafhankelijk van het gebruikte bestandsformaat;
+   - • met de garantieresultaatverplichting dat deze juist, volledig en authentiek en leesbaar is, ook in de toekomst en, bij digitale overheidsinformatie, onafhankelijk van het gebruikte bestandsformaat;
 
-- **emulatie:** de techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie;
+- *emulatie:* de techniek waarmee een computer of toepassingsprogrammatuur zich hetzelfde gedraagt als één van een oudere generatie;
 
-- **informatie:** een verzameling gegevens die in hun samenhang een bepaalde betekenis hebben;
+- *informatie:* een verzameling gegevens die in hun samenhang een bepaalde betekenis hebben;
 
-- **informatiehuishouding:** het totaal aan regels, voorzieningen, activiteiten en processen gericht op de informatiestromen en op het beheer van informatie;
+- *informatiehuishouding:* het totaal aan regels, voorzieningen, activiteiten en processen gericht op de informatiestromen en op het beheer van informatie;
 
-- **informatiesysteem:** een gegevensverwerkend systeem met als activiteiten het verzamelen, verwerken, bewerken, bewaren, overdragen en verstrekken van gegevens met betrekking tot een bepaald toepassingsgebied;
+- *informatiesysteem:* een gegevensverwerkend systeem met als activiteiten het verzamelen, verwerken, bewerken, bewaren, overdragen en verstrekken van gegevens met betrekking tot een bepaald toepassingsgebied;
 
-- **kernministerie:** het directoraat-generaal Fiscale Zaken, het directoraat-generaal Rijksbegroting, de generale thesaurie, het programma directoraat-generaal Herstel en het cluster secretaris-generaal van het Ministerie van Financiën;
+- *kernministerie:* het directoraat-generaal Fiscale Zaken, het directoraat-generaal Rijksbegroting, de generale thesaurie, het programma directoraat-generaal Herstel en het cluster secretaris-generaal van het Ministerie van Financiën;
 
-- **migratie:** het overzetten van informatie en toepassingsprogrammatuur van het ene systeem en/of platform naar het andere, met behoud van authenticiteit, integriteit, betrouwbaarheid en bruikbaarheid;
+- *migratie:* het overzetten van informatie en toepassingsprogrammatuur van het ene systeem en/of platform naar het andere, met behoud van authenticiteit, integriteit, betrouwbaarheid en bruikbaarheid;
 
-- **Minister:** de Minister van Financiën;
+- *Minister:* de Minister van Financiën;
 
-- **ministerie:** het Ministerie van Financiën;
+- *ministerie:* het Ministerie van Financiën;
 
-- **noodvernietiging:** de mogelijkheid om voor vitale overheidsinformatie in buitengewone omstandigheden, waarbij de staatsveiligheid in gevaar is, af te wijken van voorgeschreven vernietigingsprocedures en deze direct te vernietigen;
+- *noodvernietiging:* de mogelijkheid om voor vitale overheidsinformatie in buitengewone omstandigheden, waarbij de staatsveiligheid in gevaar is, af te wijken van voorgeschreven vernietigingsprocedures en deze direct te vernietigen;
 
-- **overheidsinformatie:** alle informatie die de overheid zelf maakt of van een ander ontvangt bij het uitvoeren van haar taken, ongeacht:
+- *overheidsinformatie:* alle informatie die de overheid zelf maakt of van een ander ontvangt bij het uitvoeren van haar taken, ongeacht:
 
-- •. het proces waaruit de informatie voortkomt;
+   - • het proces waaruit de informatie voortkomt;
 
-- •. de inhoud van de informatie;
+   - • de inhoud van de informatie;
 
-- •. de formele status van de informatie;
+   - • de formele status van de informatie;
 
-- •. de fase waarin de creatie en behandeling van de informatie verkeert;
+   - • de fase waarin de creatie en behandeling van de informatie verkeert;
 
-- •. de termijn dat de informatie bewaard moet worden (bewaartermijn);
+   - • de termijn dat de informatie bewaard moet worden (bewaartermijn);
 
-- •. de technische vorm van de informatie;
+   - • de technische vorm van de informatie;
 
-- •. de applicaties waarmee de informatie is gemaakt en wordt beheerd;
+   - • de applicaties waarmee de informatie is gemaakt en wordt beheerd;
 
-- •. door wie de informatie beheerd wordt;
+   - • door wie de informatie beheerd wordt;
 
-- **overbrenging:** overheidsinformatie die op grond van selectielijsten voor bewaring in aanmerking komt moet worden overgebracht naar een archiefbewaarplaats;
+- *overbrenging:* overheidsinformatie die op grond van selectielijsten voor bewaring in aanmerking komt moet worden overgebracht naar een archiefbewaarplaats;
 
-- **SIO:** Strategisch Informatie Overleg tussen de Chief Information Officer van het Ministerie van Financiën en de Algemeen Rijksarchivaris over de informatiehuishouding van het Ministerie van Financiën;
+- *SIO:* Strategisch Informatie Overleg tussen de Chief Information Officer van het Ministerie van Financiën en de Algemeen Rijksarchivaris over de informatiehuishouding van het Ministerie van Financiën;
 
-- **vernietiging:** het zodanig materieel behandelen van een informatiedrager (o.a. papier, geluidsband, database, film, usb stick, hard disk) met overheidsinformatie, die op grond van selectielijsten voor vernietiging in aanmerking komt, dan wel op grond van een machtiging van vervanging of op grond van noodvernietiging, dat de daarop vastgelegde informatie niet te reconstrueren is;
+- *vernietiging:* het zodanig materieel behandelen van een informatiedrager (o.a. papier, geluidsband, database, film, usb stick, hard disk) met overheidsinformatie, die op grond van selectielijsten voor vernietiging in aanmerking komt, dan wel op grond van een machtiging van vervanging of op grond van noodvernietiging, dat de daarop vastgelegde informatie niet te reconstrueren is;
 
-- **vervanging:** de, al dan niet routinematige, vervanging van oorspronkelijke overheidsinformatie door reproducties, die daar volledig de plaats van innemen;
+- *vervanging:* de, al dan niet routinematige, vervanging van oorspronkelijke overheidsinformatie door reproducties, die daar volledig de plaats van innemen;
 
-- **vervreemding:** het in eigendom overdragen van overheidsinformatie aan een andere zorgdrager of aan derden;
+- *vervreemding:* het in eigendom overdragen van overheidsinformatie aan een andere zorgdrager of aan derden;
 
-- **verzorgingsgebied:** archiefvormende onderdelen die:
+- *verzorgingsgebied:* archiefvormende onderdelen die:
 
-- •. vallen onder de kaderstellende en toezichthoudende bevoegdheid van één CIO, of;
+   - • vallen onder de kaderstellende en toezichthoudende bevoegdheid van één CIO, of;
 
-- •. vallen onder de verantwoordelijkheid van één archiefbeheerder, of;
+   - • vallen onder de verantwoordelijkheid van één archiefbeheerder, of;
 
-- •. diensten afnemen van één archiefbeherend onderdeel.
+   - • diensten afnemen van één archiefbeherend onderdeel.
 
 ### Hoofdstuk 2. Reikwijdte en verantwoordelijkheden
 
@@ -296,7 +270,7 @@ De plaatsvervangend secretaris-generaal is:
 
 ##### Artikel 17. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, en werkt zij terug tot en met 1 januari 2022.
+Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, en werkt zij terug tot en met 1 januari 2022.
 
 ##### Artikel 18. Intrekking regelingen
 
@@ -309,5 +283,3 @@ De volgende regelingen worden ingetrokken:
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Informatiehuishouding Financiën 2022 (RINFIN 2022).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

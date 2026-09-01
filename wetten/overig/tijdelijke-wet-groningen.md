@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0043252"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Wet van 5 februari 2020, houdende tijdelijke maatregelen inzake een publiekrechtelijke aanpak van de gevolgen van bodembeweging door gaswinning uit het Groningenveld en de gasopslag bij Norg (Tijdelijke wet Groningen)

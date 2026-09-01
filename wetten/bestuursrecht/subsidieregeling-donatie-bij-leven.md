@@ -9,7 +9,7 @@ laatste_update: 2026-08-31
 status: geldig
 toestand: 2026-08-31
 bron: "https://wetten.overheid.nl/BWBR0025870"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)

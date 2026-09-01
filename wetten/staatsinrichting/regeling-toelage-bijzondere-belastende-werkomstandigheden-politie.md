@@ -5,11 +5,11 @@ identifier: "BWBR0051876"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-08-08
+laatste_update: 2026-09-01
 status: geldig
-toestand: 2026-08-08
+toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0051876"
-opgehaald: 2026-08-14
+opgehaald: 2026-09-01
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 25 november 2025, nr. 6882787, houdende nadere regels betreffende een toelage wegens bijzondere belastende werkomstandigheden bij de politie (Regeling toelage bijzondere belastende werkomstandigheden politie)
@@ -26,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
 - *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- *beoordelingskader:* kader waarmee beoordeeld wordt of de werkomstandigheden van een groep medewerkers die werkzaam is in een vergelijkbare situatie, aanleiding geven tot een toelage voor bijzondere belastende werkomstandigheden, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&bijlage=1&z=2026-08-08&g=2026-08-08);
+- *beoordelingskader:* kader waarmee beoordeeld wordt of de werkomstandigheden van een groep medewerkers die werkzaam is in een vergelijkbare situatie, aanleiding geven tot een toelage voor bijzondere belastende werkomstandigheden, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&bijlage=1&z=2026-09-01&g=2026-09-01);
 
 - *commissie:* een door de korpschef landelijk ingesteld paritair adviesorgaan bestaande uit vertegenwoordigers van de werkgever en de politievakbonden;
 
@@ -70,7 +70,7 @@ Aan een functie wordt door de korpschef een toelage toegekend als aan de volgend
 
 1. De korpschef wijst de functies aan waarvoor een toelage geldt.
 
-2. Over de aanwijzing en herbeoordeling van functies met een toelage wint de korpschef vooraf een advies in bij de commissie, indien aan de voorwaarden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=2&artikel=2&z=2026-08-08&g=2026-08-08), is voldaan.
+2. Over de aanwijzing en herbeoordeling van functies met een toelage wint de korpschef vooraf een advies in bij de commissie, indien aan de voorwaarden, bedoeld in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=2&artikel=2&z=2026-09-01&g=2026-09-01), is voldaan.
 
 3. De commissie toetst, op basis van het beoordelingskader, of een functie voldoet aan de definitie van ten minste drie van de vier in het beoordelingskader opgenomen aspecten, beoordeelt vervolgens per aspect de toepasselijke categorie en berekent tenslotte het totaal van de aan deze categorieën toegekende percentages;
 
@@ -106,9 +106,9 @@ De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelin
 
 1. Indien de ambtenaar, in opdracht van het bevoegd gezag, in zijn functie wordt ingezet als heimelijk of forensisch duiker, ontvangt deze ambtenaar een duiktoelage.
 
-2. De duiktoelage voor de heimelijke duiker bedraagt € 357,– per maand.
+2. De duiktoelage voor de heimelijke duiker bedraagt € 364,14 per maand.
 
-3. De duiktoelage voor de forensische duiker bedraagt € 178,50 per maand.
+3. De duiktoelage voor de forensische duiker bedraagt € 182,07 per maand.
 
 4. De duiktoelage wordt stopgezet als de ambtenaar, bedoeld in het eerste lid, in opdracht van het bevoegd gezag of op eigen verzoek, niet meer wordt ingezet als heimelijk of forensisch duiker.
 
@@ -122,7 +122,7 @@ De aangewezen functies worden iedere vijf jaar met toepassing van het beoordelin
 
 - a. de ambtenaar is op 31 december 2025 in dienst bij een team binnen SO/DISO van de eenheid LO, met uitzondering van een Undercover Team en;
 
-- b. de ambtenaar op 31 december 2025 is aangesteld op een per 1 januari 2026 aangewezen functie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=3&artikel=3&z=2026-08-08&g=2026-08-08) en;
+- b. de ambtenaar op 31 december 2025 is aangesteld op een per 1 januari 2026 aangewezen functie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051876&hoofdstuk=3&artikel=3&z=2026-09-01&g=2026-09-01) en;
 
 - c. de ambtenaar kon geen aanspraak maken op de tijdelijke toelage op grond van het Besluit Vergoedingsafspraken medewerkers Observatie en Techniek en Delta1Stcrt. 2021, 43543..
 

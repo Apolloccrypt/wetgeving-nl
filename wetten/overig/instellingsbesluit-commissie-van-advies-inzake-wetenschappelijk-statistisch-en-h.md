@@ -1,55 +1,31 @@
 ---
 title: "Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB"
 identifier: "BWBR0046164"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-01-12"
-last_updated: "2022-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046164"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16224313"
-version_id: "28329772"
-internal_id: "C39936981"
-label_id: "16151894"
-dtd_version: "2.0"
-original_entry_into_force: "2022-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046164/2022-01-12/0"
-intitule_bron: "Stcrt.2022-361"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-15"
-intitule_published: "2022-01-11"
-intitule_in_force: "2022-01-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-361"
-original_signed_date: "2021-12-15"
-original_published_date: "2022-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-361"
-entry_into_force_date: "2022-01-12"
-jci_1_3: "jci1.3:c:BWBR0046164&z=2022-01-12&g=2022-01-12"
-jci_1_0: "1.0:c:BWBR0046164&g=2022-01-12"
-citeertitel_status: "officieel"
-signed_date: "2021-12-15"
-entry_into_force: "2022-01-12"
+publicatiedatum: 2022-01-12
+laatste_update: 2022-01-12
+status: geldig
+toestand: 2022-01-12
+bron: "https://wetten.overheid.nl/BWBR0046164"
+opgehaald: 2026-09-01
 ---
-# Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB
 
-Besluit:
+# Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- 1. **De SVB:** de Sociale Verzekeringsbank, genoemd in [artikel 3, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
+- 1. *De SVB:* de Sociale Verzekeringsbank, genoemd in [artikel 3, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=3);
 
-- 2. **De Raad van Bestuur:** het met de dagelijkse leiding van de SVB belaste orgaan, bedoeld in [artikel 6, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
+- 2. *De Raad van Bestuur:* het met de dagelijkse leiding van de SVB belaste orgaan, bedoeld in [artikel 6, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
 
-- 3. **De Commissie:** Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=2&z=2022-01-12&g=2022-01-12);
+- 3. *De Commissie:* Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=2&z=2022-01-12&g=2022-01-12);
 
-- 4. **Begeleidende instellingen:** Stichting 1940–1945, Stichting Joods Maatschappelijk Werk, Stichting Pelita;
+- 4. *Begeleidende instellingen:* Stichting 1940–1945, Stichting Joods Maatschappelijk Werk, Stichting Pelita;
 
-- 5. **De PUR:** de Pensioen- en Uitkeringsraad, genoemd in [artikel 1 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=1).
+- 5. *De PUR:* de Pensioen- en Uitkeringsraad, genoemd in [artikel 1 van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=1).
 
 ##### Artikel 2
 
@@ -97,7 +73,7 @@ Het lidmaatschap van de Commissie eindigt:
 
 - d. als naar het oordeel van de Raad van Bestuur de goede gang van zaken bij de werkzaamheden van de Commissie door toedoen van het lid wordt belemmerd;
 
-- e. wegens het eindigen van de termijn van vijf jaar als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=5&z=2022-01-12&g=2022-01-12).
+- e. wegens het eindigen van de termijn van vijf jaar als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046164&artikel=5&z=2022-01-12&g=2022-01-12).
 
 ##### Artikel 8. Vergoedingen
 
@@ -105,14 +81,12 @@ De voorzitter en de leden van de Commissie hebben recht op door de SVB vast te s
 
 ##### Artikel 9. Intrekking
 
-Het [Instellingsbesluit Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk en statistisch onderzoek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0031195) van 14 december 2011, Stcrt. 2012, 1685, wordt ingetrokken.
+Het [Instellingsbesluit Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk en statistisch onderzoek in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen](https://wetten.overheid.nl/jci1.3:c:BWBR0031195) van 14 december 2011, Stcrt. 2012, 1685, wordt ingetrokken.
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na datum uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
+Deze regeling treedt in werking met ingang van de dag na datum uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsbesluit Commissie van Advies inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek SVB.
-
-Dit besluit wordt gepubliceerd in de Staatscourant.

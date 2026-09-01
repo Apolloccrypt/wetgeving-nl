@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 12 oktober 2021, kenmerk 2021031251, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2022 (Beleidsregels Risicoverevening 2022)"
+citeertitel: "Beleidsregels risicoverevening 2022"
 identifier: "BWBR0045725"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-20"
-last_updated: "2026-01-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045725"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16108253"
-version_id: "28097912"
-internal_id: "C39627181"
-label_id: "16039714"
-dtd_version: "2.0"
-original_entry_into_force: "2021-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045725/2026-01-20/0"
-intitule_bron: "Stcrt.2021-44294"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-12"
-intitule_published: "2021-10-22"
-intitule_in_force: "2021-10-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-44294"
-original_signed_date: "2021-10-12"
-original_published_date: "2021-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-44294"
-entry_into_force_date: "2021-10-23"
-jci_1_3: "jci1.3:c:BWBR0045725&z=2026-01-20&g=2026-01-20"
-jci_1_0: "1.0:c:BWBR0045725&g=2026-01-20"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels risicoverevening 2022"
-signed_date: "2021-10-12"
-entry_into_force: "2021-10-23"
+publicatiedatum: 2021-10-23
+laatste_update: 2026-01-20
+status: geldig
+toestand: 2026-01-20
+bron: "https://wetten.overheid.nl/BWBR0045725"
+opgehaald: 2026-09-01
 ---
+
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 12 oktober 2021, kenmerk 2021031251, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2022 (Beleidsregels Risicoverevening 2022)
-
-gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
-
-Besluit:
 
 ### Hoofdstuk 1. I Algemene bepalingen
 
@@ -46,89 +20,91 @@ Besluit:
 
 Deze beleidsregels verstaan onder:
 
-- **AVI:** AVI als bedoeld in [artikel 1, onderdeel s, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *AVI:* AVI als bedoeld in [artikel 1, onderdeel s, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **BASIC:** databestand van Vektis met zorgkosten en kenmerken van Zvw-verzekerden;
+- *BASIC:* databestand van Vektis met zorgkosten en kenmerken van Zvw-verzekerden;
 
-- **belastingdienstbestand:** het bij het Zorginstituut meest recent beschikbare bestand met inkomensgegevens en gepseudonimiseerde adresgegevens per gepseudonimiseerd burgerservicenummer voor een peiljaar;
+- *belastingdienstbestand:* het bij het Zorginstituut meest recent beschikbare bestand met inkomensgegevens en gepseudonimiseerde adresgegevens per gepseudonimiseerd burgerservicenummer voor een peiljaar;
 
-- **Bzv:** [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492);
+- *Bzv:*
+ [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492);
 
-- **COVID-19:** de ziekte die door het virus SARS-CoV-2 veroorzaakt wordt;
+- *COVID-19:* de ziekte die door het virus SARS-CoV-2 veroorzaakt wordt;
 
-- **COVID-correctiefactor:** een door het Zorginstituut bepaalde factor die voor de betreffende risicoklasse van een bepaald criterium de geraamde prevalentie corrigeert voor de effecten van COVID-19. Er zijn COVID-correctiefactoren voor de criteria FKG_C, DKG_C, HKG_C en FDG_C. Deze correctiefactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](onbekend);
+- *COVID-correctiefactor:* een door het Zorginstituut bepaalde factor die voor de betreffende risicoklasse van een bepaald criterium de geraamde prevalentie corrigeert voor de effecten van COVID-19. Er zijn COVID-correctiefactoren voor de criteria FKG_C, DKG_C, HKG_C en FDG_C. Deze correctiefactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **criterium:** een vereveningscriterium;
+- *criterium:* een vereveningscriterium;
 
-- **DKG_C:** DKG’s als bedoeld in [artikel 1, onderdeel r, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *DKG_C:* DKG’s als bedoeld in [artikel 1, onderdeel r, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **DKG_G:** DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *DKG_G:* DKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel ee, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FDG_C:** FDG’s als bedoeld in [artikel 1, onderdeel jj, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FDG_C:* FDG’s als bedoeld in [artikel 1, onderdeel jj, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FKG_C:** FKG’s als bedoeld in [artikel 1, onderdeel p, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FKG_C:* FKG’s als bedoeld in [artikel 1, onderdeel p, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FKG_G:** FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FKG_G:* FKG’s psychische aandoeningen als bedoeld in [artikel 1, onderdeel q, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- **HKC:** hogekostencompensatie als bedoeld in [artikel 1, onderdeel ll, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *HKC:* hogekostencompensatie als bedoeld in [artikel 1, onderdeel ll, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **HKG_C:** HKG’s als bedoeld in [artikel 1, onderdeel dd, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *HKG_C:* HKG’s als bedoeld in [artikel 1, onderdeel dd, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **HSM_C:** HSM als bedoeld in artikel 1, onderdeel a, van de Rrv;
+- *HSM_C:* HSM als bedoeld in artikel 1, onderdeel a, van de Rrv;
 
-- **L5G:** leeftijd en geslacht als bedoeld in [artikel 1, onderdeel o, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *L5G:* leeftijd en geslacht als bedoeld in [artikel 1, onderdeel o, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau voor het jaar 2022. De verantwoording van de macroverzekerdenraming is opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](onbekend);
+- *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau voor het jaar 2022. De verantwoording van de macroverzekerdenraming is opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **MFK_C:** MFK als bedoeld in artikel 1, onderdeel b, van de Rrv;
+- *MFK_C:* MFK als bedoeld in artikel 1, onderdeel b, van de Rrv;
 
-- **MHK_C:** MHK als bedoeld in [artikel 1, onderdeel z, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MHK_C:* MHK als bedoeld in [artikel 1, onderdeel z, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **MHK_G:** GGZ-MHK als bedoeld in [artikel 1, onderdeel hh, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MHK_G:* GGZ-MHK als bedoeld in [artikel 1, onderdeel hh, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **MVV_C:** MVV als bedoeld in [artikel 1, onderdeel kk, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MVV_C:* MVV als bedoeld in [artikel 1, onderdeel kk, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **PER:** opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand, geboortejaar, viercijferige postcode, identificatie verzekerde in het buitenland en gepseudonimiseerd adres. De peildatum van het bestand met gegevensjaar t is 1 mei van jaar t, de aanleverdatum is 1 juni van jaar t;
+- *PER:* opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand, geboortejaar, viercijferige postcode, identificatie verzekerde in het buitenland en gepseudonimiseerd adres. De peildatum van het bestand met gegevensjaar t is 1 mei van jaar t, de aanleverdatum is 1 juni van jaar t;
 
-- **PKB:** een door het Zorginstituut samengesteld bestand. Het Zorginstituut koppelt per gepseudonimiseerd burgerservicenummer het PER-bestand, het VPPER-bestand en het 0BSN-bestand die door zorgverzekeraars worden aangeleverd. Het PKB-bestand voor gegevensjaar t is een koppeling van de PER, VPPER en 0BSN-bestanden over jaar t, aangeleverd op 1 juni van jaar t (PER) of t+1 (VPPER, 0BSN);
+- *PKB:* een door het Zorginstituut samengesteld bestand. Het Zorginstituut koppelt per gepseudonimiseerd burgerservicenummer het PER-bestand, het VPPER-bestand en het 0BSN-bestand die door zorgverzekeraars worden aangeleverd. Het PKB-bestand voor gegevensjaar t is een koppeling van de PER, VPPER en 0BSN-bestanden over jaar t, aangeleverd op 1 juni van jaar t (PER) of t+1 (VPPER, 0BSN);
 
-- **PPA:** PPA als bedoeld in [artikel 1, onderdeel u, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *PPA:* PPA als bedoeld in [artikel 1, onderdeel u, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **REG_C:** regio als bedoeld in [artikel 1, onderdeel v, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *REG_C:* regio als bedoeld in [artikel 1, onderdeel v, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **REG_G:** GGZ-regio als bedoeld in [artikel 1, onderdeel w, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *REG_G:* GGZ-regio als bedoeld in [artikel 1, onderdeel w, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **Rrv:** Regeling risicoverevening voor het betreffende vereveningsjaar;
+- *Rrv:* Regeling risicoverevening voor het betreffende vereveningsjaar;
 
-- **Rzv:** [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715);
+- *Rzv:*
+ [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715);
 
-- **schalingsfactor:** een door het Zorginstituut berekende factor onderdeel van flankerend beleid. De factor wordt bepaald per bijdrage voor het deelbedrag variabele zorgkosten, het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de normatieve opbrengst van het eigen risico. De factor wordt per bijdrage bepaald als de verhouding tussen de totale kosten en de totale bijdrage op macroniveau;
+- *schalingsfactor:* een door het Zorginstituut berekende factor onderdeel van flankerend beleid. De factor wordt bepaald per bijdrage voor het deelbedrag variabele zorgkosten, het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg en de normatieve opbrengst van het eigen risico. De factor wordt per bijdrage bepaald als de verhouding tussen de totale kosten en de totale bijdrage op macroniveau;
 
-- **SEI:** SEI als bedoeld in artikel 1, onderdeel c, van de Rrv;
+- *SEI:* SEI als bedoeld in artikel 1, onderdeel c, van de Rrv;
 
-- **SES:** SES als bedoeld in [artikel 1, onderdeel t, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *SES:* SES als bedoeld in [artikel 1, onderdeel t, van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **sterftecorrectiefactor:** een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de sterfte corrigeert naar de geraamde sterfte in de ex-postsituatie;
+- *sterftecorrectiefactor:* een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de sterfte corrigeert naar de geraamde sterfte in de ex-postsituatie;
 
-- **trendfactor:** een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de trendmatige ontwikkeling voor de risicoklasse weergeeft. De trendfactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](onbekend);
+- *trendfactor:* een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de trendmatige ontwikkeling voor de risicoklasse weergeeft. De trendfactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **UWV-bestand:** het bij het Zorginstituut meest recent beschikbare bestand van het UWV met de inkomstenbron per gepseudonimiseerd burgerservicenummer voor een peiljaar;
+- *UWV-bestand:* het bij het Zorginstituut meest recent beschikbare bestand van het UWV met de inkomstenbron per gepseudonimiseerd burgerservicenummer voor een peiljaar;
 
-- **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- **verzekerde die in het buitenland woont:** een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is. Dit wordt bepaald aan de hand van de opgave van zorgverzekeraars in het PER of VPPER;
+- *verzekerde die in het buitenland woont:* een persoon die een zorgverzekering heeft afgesloten en geen ingezetene van Nederland is. Dit wordt bepaald aan de hand van de opgave van zorgverzekeraars in het PER of VPPER;
 
-- **VPPER:** opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar, aanduiding voor een verzekerde die in het buitenland woont, viercijferige postcode en gepseudonimiseerd adres. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar;
+- *VPPER:* opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar, aanduiding voor een verzekerde die in het buitenland woont, viercijferige postcode en gepseudonimiseerd adres. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar;
 
-- **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **zelfstandigenbestand:** bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar. Het bestand wordt aangeleverd in de maand juli en heeft betrekking op directeuren grootaandeelhouders en overige zelfstandigen. Het Zorginstituut gebruikt het meest recente beschikbare bestand;
+- *zelfstandigenbestand:* bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister voor een peiljaar. Het bestand wordt aangeleverd in de maand juli en heeft betrekking op directeuren grootaandeelhouders en overige zelfstandigen. Het Zorginstituut gebruikt het meest recente beschikbare bestand;
 
-- **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- **0BSN:** opgave van zorgverzekeraars over verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer met per verzekerde de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar en viercijferige postcode. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar.
+- *0BSN:* opgave van zorgverzekeraars over verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer met per verzekerde de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar en viercijferige postcode. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar.
 
 ##### Artikel 1.2. Algemene bepaling
 
@@ -148,7 +124,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 3. Wanneer een verzekerde tegelijkertijd bij meer zorgverzekeraars is ingeschreven, past het Zorginstituut artikel 11 van de Rrv toe.
 
-4. Het Zorginstituut beschrijft de wijze waarop de verzekerden zijn geraamd in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](onbekend).
+4. Het Zorginstituut beschrijft de wijze waarop de verzekerden zijn geraamd in de Verantwoording Verzekerdenraming 2022 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl).
 
 ##### Artikel 2.2. De verzekerdenaantallen 2022 voor het macro-deelbedrag variabele zorgkosten
 
@@ -188,7 +164,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 ##### Artikel 2.4. De verzekerdenaantallen 2022 voor de normatieve opbrengst van het eigen risico
 
-1. Het Zorginstituut deelt voor de normatieve opbrengst van het eigen risico verzekerden van achttien jaar of ouder die worden ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’ en ‘Geen MVV_C’ en niet worden ingedeeld bij MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, in bij de criteria L5G, MHK_C, AVI, SEI en REG_C.
+1. Het Zorginstituut deelt voor de normatieve opbrengst van het eigen risico verzekerden van achttien jaar of ouder die worden ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’ en ‘Geen MVV_C’ en niet worden ingedeeld bij MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, in bij de criteria L5G, MHK_C, AVI, SEI en REG_C.
 
 2. In afwijking van het eerste lid deelt het Zorginstituut verzekerden die in het buitenland wonen niet in bij het criterium REG_C.
 
@@ -212,11 +188,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=2&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2021 van declaraties farmaceutische hulp 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2021 van declaraties farmaceutische hulp 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- c. de opgave per 1 juni 2021 van declaraties add-ons duur of weesgeneesmiddel 2019 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- c. de opgave per 1 juni 2021 van declaraties add-ons duur of weesgeneesmiddel 2019 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
-- d. de opgave per 1 juni 2020 van declaraties farmaceutische hulp 2019 per gepseudonimiseerd Burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- d. de opgave per 1 juni 2020 van declaraties farmaceutische hulp 2019 per gepseudonimiseerd Burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met d, met het gepseudonimiseerde burgerservicenummer aan het PER 2021 en bepaalt daarmee en met inachtneming van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=2&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke FKG_C-klassen een verzekerde wordt ingedeeld. Aan de verzekerde koppelt het Zorginstituut een zwaarte van 1 voor de betreffende klassen.
 
@@ -258,7 +234,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FKG_G klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=3&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave per 1 juni 2021 van declaraties farmaceutische hulp 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2021 van declaraties farmaceutische hulp 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PER 2021 en bepaalt daarmee en met inachtneming van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=3&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke FKG_G-klassen een verzekerde wordt ingedeeld. Aan de verzekerde koppelt het Zorginstituut een zwaarte van 1 voor de betreffende klassen.
 
@@ -276,7 +252,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in DKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=4&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2019 geopend zijn.
+- b. de opgave van de zorgverzekeraars per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2019 geopend zijn.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PKB 2020 en bepaalt daarmee en met inachtneming van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=4&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke DKG_C-klassen een verzekerde wordt ingedeeld. Het Zorginstituut stelt voor elke keer dat de verzekerde in de toepasselijke risicoklasse valt, de zwaarte op 1.
 
@@ -300,11 +276,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in DKG_G klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=5&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2019 en van alle dbc’s GGZ en zzp’s GGZ die in 2019 geopend zijn;
+- b. de opgave van de zorgverzekeraars per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2019 en van alle dbc’s GGZ en zzp’s GGZ die in 2019 geopend zijn;
 
-- c. de opgave van de zorgverzekeraars per 1 juni 2020 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2018 geopend zijn;
+- c. de opgave van de zorgverzekeraars per 1 juni 2020 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2018 geopend zijn;
 
-- d. de opgave van de zorgverzekeraars per 1 juni 2019 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ die in 2017 geopend zijn; en
+- d. de opgave van de zorgverzekeraars per 1 juni 2019 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ die in 2017 geopend zijn; en
 
 - e. de vertaaltabel zoals vastgesteld in het conversieonderzoek bekostiging GGZ (WOR 1037).
 
@@ -328,7 +304,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in HKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=6&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave per 1 juni 2021 van declaraties hulpmiddelen 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2021 van declaraties hulpmiddelen 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PER 2021 en bepaalt daarmee en met inachtneming van [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=6&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke HKG_C-klassen een verzekerde wordt ingedeeld. Het Zorginstituut stelt voor de toepasselijke klassen waarin de verzekerde valt de zwaarte op 1.
 
@@ -348,7 +324,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FDG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=7&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2021 van declaraties fysiotherapie en oefentherapie 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2021 van declaraties fysiotherapie en oefentherapie 2020 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. het PKB 2020.
 
@@ -388,11 +364,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MHK_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=9&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd; en
+- d. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd; en
 
 - e. het PKB 2017, PKB 2018 en PKB 2019.
 
@@ -410,15 +386,15 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MHK_G-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=10&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2015 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2017, zoals zorgverzekeraars die op 1 mei 2018 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2016 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2018, zoals zorgverzekeraars die op 1 mei 2019 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- d. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- e. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
+- e. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
 
-- f. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd; en
+- f. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd; en
 
 - g. het PKB 2015, PKB 2016, PKB 2017, PKB 2018 en PKB 2019.
 
@@ -438,11 +414,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - b. de leeftijd volgens het PKB 2020;
 
-- c. de kosten volgens declaraties kosten verpleging en verzorging 2017 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten volgens declaraties kosten verpleging en verzorging 2017 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten volgens declaraties kosten verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten volgens declaraties kosten verpleging en verzorging 2018 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
 
-- e. de kosten volgens declaraties kosten verpleging en verzorging 2019 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
+- e. de kosten volgens declaraties kosten verpleging en verzorging 2019 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
 
 - f. bewoners Wlz-instelling volgens Wlz-declaraties december 2019 en Wlz-declaraties december 2020; en
 
@@ -464,11 +440,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MFK_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=12&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave per 19 december 2019 van BASIC-gegevens 2017 per gepseudonimiseerd burgerservicenummer van Vektis aan het Zorginstituut;
+- b. de opgave per 19 december 2019 van BASIC-gegevens 2017 per gepseudonimiseerd burgerservicenummer van Vektis aan het Zorginstituut;
 
-- c. de opgave per 22 december 2020 van BASIC-gegevens 2018 per gepseudonimiseerd burgerservicenummer van Vektis aan het Zorginstituut; en
+- c. de opgave per 22 december 2020 van BASIC-gegevens 2018 per gepseudonimiseerd burgerservicenummer van Vektis aan het Zorginstituut; en
 
-- d. de opgave per 27 juli 2021 van BASIC-gegevens 2019 per gepseudonimiseerd burgerservicenummer van ESHPM aan het Zorginstituut.
+- d. de opgave per 27 juli 2021 van BASIC-gegevens 2019 per gepseudonimiseerd burgerservicenummer van ESHPM aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met d, met het gepseudonimiseerde burgerservicenummer aan het PKB 2020 en bepaalt daarmee en met inachtneming van [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=12&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke MFK_C-klasse een verzekerde wordt ingedeeld. Aan de verzekerde koppelt het Zorginstituut een zwaarte van 1 voor de betreffende klassen.
 
@@ -490,11 +466,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - b. de leeftijd volgens het PKB 2020;
 
-- c. de zelfstandigen volgens het zelfstandigenbestand met peildatum 30 juni 2020;
+- c. de zelfstandigen volgens het zelfstandigenbestand met peildatum 30 juni 2020;
 
-- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2020;
+- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2020;
 
-- e. de studenten en hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2020;
+- e. de studenten en hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2020;
 
 - f. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer in het belastingdienstbestand over 2020;
 
@@ -658,7 +634,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 ##### Artikel 2.28. Gewichten en forfaitair bedrag voor de opbrengst van het eigen risico
 
-1. Voor de berekening van de normatieve opbrengst van het eigen risico voor verzekerden die zijn ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’, en ‘Geen MVV_C’ en niet zijn ingedeeld bij de MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, gaat het Zorginstituut uit van de gewichten, bedoeld in bijlage 4 van de Rrv.
+1. Voor de berekening van de normatieve opbrengst van het eigen risico voor verzekerden die zijn ingedeeld in de klassen ‘Geen FKG_C’, ‘Geen DKG_C’, ‘Geen HKG_C’, ‘Geen FDG_C’, en ‘Geen MVV_C’ en niet zijn ingedeeld bij de MHK_C-klasse ‘2 voorafgaande jaren variabele zorgkosten in top 10 procent’ of hoger, gaat het Zorginstituut uit van de gewichten, bedoeld in bijlage 4 van de Rrv.
 
 2. Voor de berekening van de normatieve opbrengst van het eigen risico voor verzekerden die niet bedoeld zijn in het eerste lid, hanteert het Zorginstituut de geraamde opbrengst per verzekerde, bedoeld in artikel 9, vierde lid, van de Rrv.
 
@@ -698,9 +674,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 ##### Artikel 3.2. De herberekening en herziening van de toegekende bijdrage 2022
 
-1. Het Zorginstituut baseert de herberekening van de vereveningsbijdrage op de verzekerdenaantallen 2022 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2021.
+1. Het Zorginstituut baseert de herberekening van de vereveningsbijdrage op de verzekerdenaantallen 2022 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2021.
 
-2. Het Zorginstituut herberekent de vereveningsbijdrage 2022, zoals toegekend op grond van [Artikel 2.30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.30&z=2026-01-20&g=2026-01-20), per zorgverzekeraar en betrekt daarbij de verzekerden die, volgens opgave van Vektis, op peildatum 15 februari zijn ingeschreven bij die zorgverzekeraar.
+2. Het Zorginstituut herberekent de vereveningsbijdrage 2022, zoals toegekend op grond van [Artikel 2.30, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.30&z=2026-01-20&g=2026-01-20), per zorgverzekeraar en betrekt daarbij de verzekerden die, volgens opgave van Vektis, op peildatum 15 februari zijn ingeschreven bij die zorgverzekeraar.
 
 3. Het Zorginstituut voert de herberekening van de toegekende vereveningsbijdrage 2022 als volgt uit: Het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de opgaven, bedoeld in het eerste lid, door het geraamde totaal aantal verzekerden 2022 uit het tweede lid en vermenigvuldigt per zorgverzekeraar de uitkomst hiervan met de op grond van het tweede lid herberekende vereveningsbijdrage 2022.
 
@@ -738,9 +714,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=2&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2022 van declaraties farmaceutische hulp 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2022 van declaraties farmaceutische hulp 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
-- c. de opgave per 1 juni 2023 van declaraties add-ons duur- of weesgeneesmiddel 2021 van de zorgverzekeraars aan het Zorginstituut.
+- c. de opgave per 1 juni 2023 van declaraties add-ons duur- of weesgeneesmiddel 2021 van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b en c, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022 en bepaalt daarmee en met inachtneming van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=2&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke FKG_C-klassen een verzekerde wordt ingedeeld.
 
@@ -752,7 +728,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FKG_G-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=3&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave per 1 juni 2022 van declaraties farmaceutische hulp 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2022 van declaraties farmaceutische hulp 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022 en bepaalt daarmee en met inachtneming van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=3&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke FKG_G-klassen een verzekerde wordt ingedeeld.
 
@@ -764,7 +740,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in DKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=4&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave van de zorgverzekeraar per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2021 geopend zijn;
+- b. de opgave van de zorgverzekeraar per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2021 geopend zijn;
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022 en bepaalt daarmee en met inachtneming van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=4&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke DKG_C-klassen een verzekerde wordt ingedeeld.
 
@@ -776,11 +752,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in DKG_G-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=5&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraar per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2021 en van alle dbc’s GGZ en zzp’s GGZ die in 2021 geopend zijn;
+- b. de opgave van de zorgverzekeraar per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2021 en van alle dbc’s GGZ en zzp’s GGZ die in 2021 geopend zijn;
 
-- c. de opgave van de zorgverzekeraar per 1 juni 2022 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s GGZ en zzp’s GGZ die in 2020 geopend zijn; en
+- c. de opgave van de zorgverzekeraar per 1 juni 2022 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s GGZ en zzp’s GGZ die in 2020 geopend zijn; en
 
-- d. de opgave van de zorgverzekeraar per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s GGZ die in 2019 geopend zijn.
+- d. de opgave van de zorgverzekeraar per 1 juni 2021 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle dbc’s GGZ die in 2019 geopend zijn.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met d, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022. Het Zorginstituut bepaalt daarmee en met inachtneming van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=5&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke DKG_G-klasse een verzekerde wordt ingedeeld.
 
@@ -792,7 +768,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in de HKG_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=6&z=2026-01-20&g=2026-01-20) van deze Beleidsregels; en
 
-- b. de opgave per 1 juni 2022 van declaraties hulpmiddelen 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
+- b. de opgave per 1 juni 2022 van declaraties hulpmiddelen 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022 en bepaalt daarmee en met inachtneming van [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=6&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke HKG_C-klassen een verzekerde wordt ingedeeld.
 
@@ -804,7 +780,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in FDG_C klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=7&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2022 van declaraties fysiotherapie en oefentherapie 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2022 van declaraties fysiotherapie en oefentherapie 2021 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. het PKB 2021.
 
@@ -830,11 +806,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MHK_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=9&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties met betrekking tot 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
+- d. declaraties met betrekking tot 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
 
 - e. het PKB 2019, PKB 2020 en PKB 2021.
 
@@ -848,15 +824,15 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MHK_G-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=10&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
+- b. declaraties met betrekking tot 2017 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2019, zoals zorgverzekeraars die op 1 mei 2020 bij het Zorginstituut hebben aangeleverd;
 
-- c. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
+- c. declaraties met betrekking tot 2018 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2020, zoals zorgverzekeraars die op 1 mei 2021 bij het Zorginstituut hebben aangeleverd;
 
-- d. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
+- d. declaraties met betrekking tot 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
 
-- e. declaraties met betrekking tot 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
+- e. declaraties met betrekking tot 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
 
-- f. declaraties met betrekking tot 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
+- f. declaraties met betrekking tot 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
 
 - g. het PKB 2017, PKB 2018, PKB 2019, PKB 2020 en PKB 2021.
 
@@ -872,11 +848,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - b. de leeftijd volgens het PKB 2022;
 
-- c. de kosten volgens declaraties kosten verpleging en verzorging 2019 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten volgens declaraties kosten verpleging en verzorging 2019 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten volgens declaraties kosten verpleging en verzorging 2020 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten volgens declaraties kosten verpleging en verzorging 2020 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
 
-- e. de kosten volgens declaraties kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
+- e. de kosten volgens declaraties kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
 
 - f. bewoners Wlz-instelling volgens Wlz-declaraties december 2021 en Wlz-declaraties december 2022; en
 
@@ -894,11 +870,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - a. de indeling in MFK_C-klassen 2022 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=12&z=2026-01-20&g=2026-01-20) van deze Beleidsregels;
 
-- b. de farmaciekosten 2019 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
+- b. de farmaciekosten 2019 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
 
-- c. de farmaciekosten 2020 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
+- c. de farmaciekosten 2020 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd; en
 
-- d. de farmaciekosten 2021 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd.
+- d. de farmaciekosten 2021 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met d, met het gepseudonimiseerde burgerservicenummer aan het PKB 2022 en bepaalt daarmee en met inachtneming van [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=12&z=2026-01-20&g=2026-01-20) van deze Beleidsregels, in welke MFK_C-klasse een verzekerde wordt ingedeeld.
 
@@ -912,11 +888,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2022 en de ber
 
 - b. de leeftijd volgens het PKB 2022;
 
-- c. de zelfstandigen volgens het zelfstandigenbestand met peildatum 30 juni 2022;
+- c. de zelfstandigen volgens het zelfstandigenbestand met peildatum 30 juni 2022;
 
-- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2022;
+- d. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2022;
 
-- e. de studenten en de hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2022;
+- e. de studenten en de hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2022;
 
 - f. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer in het belastingdienstbestand over 2022;
 
@@ -1006,7 +982,7 @@ Het Zorginstituut herberekent de gewichten, bedoeld in artikel 12, vierde, vijfd
 
 ##### Artikel 4.21. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2022
 
-1. Het Zorginstituut bepaalt de variabele zorgkosten 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13, 14 en 15 van de Rrv
+1. Het Zorginstituut bepaalt de variabele zorgkosten 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13, 14 en 15 van de Rrv
 
 2. Het Zorginstituut herberekent het normatieve bedrag variabele zorgkosten 2022 voor iedere zorgverzekeraar afzonderlijk en voor het totaal van de verzekerden 2022 van alle zorgverzekeraars gezamenlijk met de op grond van [Artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=4&artikel=4.20&z=2026-01-20&g=2026-01-20) herberekende gewichten en overeenkomstig de in [Artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.23&z=2026-01-20&g=2026-01-20) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.24&z=2026-01-20&g=2026-01-20) beschreven rekenwijze.
 
@@ -1022,7 +998,7 @@ Het Zorginstituut herberekent de gewichten, bedoeld in artikel 12, vierde, vijfd
 
 ##### Artikel 4.22. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2022
 
-1. Het Zorginstituut bepaalt de vaste zorgkosten 2022 voor iedere zorgverzekeraar afzonderlijk op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13, 14 en 16 van de Rrv.
+1. Het Zorginstituut bepaalt de vaste zorgkosten 2022 voor iedere zorgverzekeraar afzonderlijk op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13, 14 en 16 van de Rrv.
 
 2. Het Zorginstituut herberekent het deelbedrag vaste zorgkosten door het totaal aantal verzekerden 2022 per zorgverzekeraar te vermenigvuldigen met het gewicht vaste zorgkosten 2022, berekend in [Artikel 2.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.25&z=2026-01-20&g=2026-01-20).
 
@@ -1036,7 +1012,7 @@ Het Zorginstituut herberekent de gewichten bedoeld in artikel 12, achtste, elfde
 
 ##### Artikel 4.24. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2022
 
-1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13 en 14 van de Rrv.
+1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023 en met inachtneming van de artikelen 13 en 14 van de Rrv.
 
 2. Het Zorginstituut herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2022 voor iedere zorgverzekeraar afzonderlijk en voor het totaal van de verzekerden van achttien jaar of ouder 2022 van alle zorgverzekeraars gezamenlijk met de op grond van [Artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=4&artikel=4.23&z=2026-01-20&g=2026-01-20) herberekende gewichten en overeenkomstig de in [Artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.26&z=2026-01-20&g=2026-01-20) en [2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.27&z=2026-01-20&g=2026-01-20) beschreven rekenwijze.
 
@@ -1056,7 +1032,7 @@ Het Zorginstituut herberekent de gewichten, bedoeld in artikel 18, derde en vier
 
 ##### Artikel 4.26. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2022
 
-1. Het Zorginstituut bepaalt de opbrengst van het verplicht eigen risico 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023.
+1. Het Zorginstituut bepaalt de opbrengst van het verplicht eigen risico 2022 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2022 per 1 mei 2023.
 
 2. Het Zorginstituut herberekent de normatieve opbrengt van het eigen risico 2022 voor iedere zorgverzekeraar afzonderlijk en voor het totaal van de verzekerden van achttien jaar of ouder 2022 van alle zorgverzekeraars gezamenlijk met de op grond van [Artikel 4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=4&artikel=4.25&z=2026-01-20&g=2026-01-20) herberekende gewichten en overeenkomstig de in [Artikel 2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.28&z=2026-01-20&g=2026-01-20) en [2.29](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.29&z=2026-01-20&g=2026-01-20) beschreven rekenwijze.
 
@@ -1084,7 +1060,7 @@ Het Zorginstituut herberekent de gewichten, bedoeld in artikel 18, derde en vier
 
 3. Het Zorginstituut berekent de opbrengst van de nominale rekenpremie per zorgverzekeraar voor de eerste voorlopige vaststelling door de verzekerden van achttien jaar of ouder 2022 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2022.
 
-4. Het Zorginstituut vermindert het resultaat na toepassing van het derde lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2022 per 1 mei 2023 als gederfde inkomsten voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+4. Het Zorginstituut vermindert het resultaat na toepassing van het derde lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2022 per 1 mei 2023 als gederfde inkomsten voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
 5. Het Zorginstituut herberekent voor de eerste voorlopige vaststelling de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2022 te vermenigvuldigen met het bedrag in artikel 20 van de Rrv.
 
@@ -1096,19 +1072,19 @@ Het Zorginstituut herberekent de gewichten, bedoeld in artikel 18, derde en vier
 
 ##### Artikel 5.1. Algemene bepaling
 
-Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2022 uit de opgave jaarstaat 2024 per 1 mei 2025, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
+Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2022 uit de opgave jaarstaat 2024 per 1 mei 2025, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
 
 ##### Artikel 5.2. Bepaling van de verzekerdenaantallen 2022
 
 1. Het Zorginstituut voert de correcties door die de Nederlandse Zorgautoriteit heeft toegepast bij de verzekerdenaantallen 2022.
 
-2. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_C met de declaraties 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
+2. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_C met de declaraties 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten exclusief declaraties verpleging en verzorging tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
 
-3. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_G met de declaraties 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
+3. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_G met de declaraties 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
 
-4. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MVV_C met de declaraties kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
+4. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MVV_C met de declaraties kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
 
-5. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MFK_C met de farmaciekosten 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
+5. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MFK_C met de farmaciekosten 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd.
 
 6. Het Zorginstituut herberekent het aantal verzekerden voor het criterium AVI met het zelfstandigenbestand over 2025.
 
@@ -1164,7 +1140,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve opbren
 
 3. Het Zorginstituut berekent de tweede voorlopige opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van achttien jaar of ouder per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2022.
 
-4. Het Zorginstituut vermindert het resultaat na toepassing van het derde lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2024 per 1 mei 2025 als gederfde inkomsten 2022 voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24)geen nominale premies worden ontvangen.
+4. Het Zorginstituut vermindert het resultaat na toepassing van het derde lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2024 per 1 mei 2025 als gederfde inkomsten 2022 voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24)geen nominale premies worden ontvangen.
 
 5. Het Zorginstituut berekent voor de tweede voorlopige vaststelling de aanvulling op de bijdrage voor de uitkering in verband met uitvoeringskosten van verzekerden jonger dan achttien jaar door het aantal verzekerden jonger dan achttien jaar 2022 te vermenigvuldigen met het bedrag in artikel 20 van de Rrv.
 
@@ -1222,7 +1198,7 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 1. Het Zorginstituut bepaalt per zorgverzekeraar de som van de bestanddelen bedoeld in [Artikel 7.1, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.1&z=2026-01-20&g=2026-01-20), en de uitkering, bedoeld in Artikel 7.1, tweede lid.
 
-2. Het Zorginstituut berekent per zorgverzekeraar de som van de vereveningsbijdrage 2022, bedoeld in [artikel 2.30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.30&z=2026-01-20&g=2026-01-20), en de normatieve opbrengst van het eigen risico 2022, zoals bepaald in [artikel 2.29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.29&z=2026-01-20&g=2026-01-20), en deelt het resultaat door het resultaat na toepassing van het eerste lid.
+2. Het Zorginstituut berekent per zorgverzekeraar de som van de vereveningsbijdrage 2022, bedoeld in [artikel 2.30, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.30&z=2026-01-20&g=2026-01-20), en de normatieve opbrengst van het eigen risico 2022, zoals bepaald in [artikel 2.29, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=2&artikel=2.29&z=2026-01-20&g=2026-01-20), en deelt het resultaat door het resultaat na toepassing van het eerste lid.
 
 3. Het Zorginstituut vermenigvuldigt per zorgverzekeraar ieder van de bestanddelen bedoeld in [Artikel 7.1 eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.1&z=2026-01-20&g=2026-01-20), en de uitkering bedoeld in Artikel 7.1, tweede lid, met de uitkomst op grond van het tweede lid.
 
@@ -1248,10 +1224,10 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 10. Indien de zorgverzekeraar het bedrag bedoeld in het negende lid niet aan het Zorginstituut heeft betaald, verrekent het Zorginstituut het verschuldigde bedrag met de betalingen aan de zorgverzekeraar totdat het verschuldigde bedrag is voldaan.
 
-|   | Bestanddelen betalingen |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
-|   | Variabele en vaste zorgkosten | GGZ | Uitvoeringskosten | Eigen risico opbrengst |
-| Betaalmoment | [Artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.2&z=2026-01-20&g=2026-01-20) vierde lid, onder a en b | [Artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.2&z=2026-01-20&g=2026-01-20) vierde lid, onder c | [Artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.2&z=2026-01-20&g=2026-01-20) vierde lid, onder d | [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&hoofdstuk=7&artikel=7.1&z=2026-01-20&g=2026-01-20) eerste lid, onder d |
+|  | Variabele en vaste zorgkosten | GGZ | Uitvoeringskosten | Eigen risico opbrengst |
+| Betaalmoment | Artikel 7.2 vierde lid, onder a en b | Artikel 7.2 vierde lid, onder c | Artikel 7.2 vierde lid, onder d | Artikel 7.1 eerste lid, onder d |
 | januari 2022 | 1,26% | 0,42% | 8,33% | 5,50% |
 | februari 2022 | 2,26% | 0,84% | 8,33% | 7,83% |
 | maart 2022 | 3,56% | 1,38% | 8,34% | 9,50% |
@@ -1327,78 +1303,8 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ##### Artikel 8.1. Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 15 oktober 2021.
+Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 15 oktober 2021.
 
 ##### Artikel 8.2. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels risicoverevening 2022.
-
-## Bijlage 1. Referentiebestand L5G modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 2. Referentiebestand FKG_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 3. Referentiebestand FKG_G modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 4. Referentiebestand DKG_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 5. Referentiebestand DKG_G modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 6. Referentiebestand HKG_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 7. Referentiebestand FDG_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 8. Referentiebestand HSM_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 9. Referentiebestand MHK_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 10. Referentiebestand MHK_G modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 11. Referentiebestand MVV_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 12. Referentiebestand MFK_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 13. Referentiebestand AVI modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 14. Referentiebestand SES modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 15. Referentiebestand PPA modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 16. Referentiebestand REG_C modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-## Bijlage 17. Referentiebestand REG_G modeljaar 2022
-
-Gepubliceerd op de website www.zorginstituutnederland.nl.
-
-Deze beleidsregels worden in de Staatscourant geplaatst, met uitzondering van de [bijlagen 1 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0045725&bijlage=1&z=2026-01-20&g=2026-01-20) (referentiebestanden). Deze bijlagen worden gepubliceerd op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl).

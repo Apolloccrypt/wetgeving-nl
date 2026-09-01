@@ -1,44 +1,21 @@
 ---
 title: "Besluit beperking openbaarheid archief H.C. van Hallinstituut te Groningen 1893 – 1995"
 identifier: "BWBR0045576"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2021-09-04"
-last_updated: "2021-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045576"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16069443"
-version_id: "27988882"
-internal_id: "C39482101"
-label_id: "16001274"
-dtd_version: "2.0"
-original_entry_into_force: "2021-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045576/2021-09-04/0"
-intitule_bron: "Stcrt.2021-38853"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2021-09-03"
-intitule_in_force: "2021-09-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-38853"
-original_published_date: "2021-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-38853"
-entry_into_force_date: "2021-09-04"
-jci_1_3: "jci1.3:c:BWBR0045576&z=2021-09-04&g=2021-09-04"
-jci_1_0: "1.0:c:BWBR0045576&g=2021-09-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2021-09-04"
+publicatiedatum: 2021-09-04
+laatste_update: 2021-09-04
+status: geldig
+toestand: 2021-09-04
+bron: "https://wetten.overheid.nl/BWBR0045576"
+opgehaald: 2026-09-01
 ---
+
 # Besluit beperking openbaarheid archief H.C. van Hallinstituut te Groningen 1893 – 1995
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 22 juli 2021, met kenmerk 25609968.
-
-Besluit: Tot de volgende beperkingen aan de openbaarheid van het archief van H.C. van Hallinstituut te Groningen en voorgangers.
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar genoemd in de tweede kolom.
 
 | Inventarisnummer | Openbaar per |
 | --- | --- |

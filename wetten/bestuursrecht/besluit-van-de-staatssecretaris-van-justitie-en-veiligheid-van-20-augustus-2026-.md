@@ -9,7 +9,7 @@ laatste_update: 2026-08-28
 status: geldig
 toestand: 2026-08-28
 bron: "https://wetten.overheid.nl/BWBR0053057"
-opgehaald: 2026-08-31
+opgehaald: 2026-09-01
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 20 augustus 2026 nr. BOACAT2026/050, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Provincie Gelderland

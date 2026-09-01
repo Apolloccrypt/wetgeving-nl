@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 22 december 2021, houdende regels ter uitvoering van de Wet ter Bescherming Koopvaardij (Besluit bescherming koopvaardij) alsmede vaststelling van het tijdstip van inwerkingtreding van de Wet ter Bescherming Koopvaardij"
+citeertitel: "Besluit bescherming koopvaardij"
 identifier: "BWBR0046155"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046155"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16220503"
-version_id: "28322292"
-internal_id: "C39927341"
-label_id: "16148494"
-dtd_version: "2.0"
-original_entry_into_force: "2022-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046155/2025-07-01/0"
-intitule_bron: "Stb.2022-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-22"
-intitule_published: "2022-01-04"
-intitule_in_force: "2022-01-04"
-intitule_status: "goed"
-original_publication: "Stb.2022-3"
-original_signed_date: "2021-12-22"
-original_published_date: "2022-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-3"
-entry_into_force_date: "2022-02-01"
-jci_1_3: "jci1.3:c:BWBR0046155&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0046155&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit bescherming koopvaardij"
-signed_date: "2021-12-22"
-entry_into_force: "2022-02-01"
+publicatiedatum: 2022-02-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0046155"
+opgehaald: 2026-09-01
 ---
+
 # Besluit van 22 december 2021, houdende regels ter uitvoering van de Wet ter Bescherming Koopvaardij (Besluit bescherming koopvaardij) alsmede vaststelling van het tijdstip van inwerkingtreding van de Wet ter Bescherming Koopvaardij
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 24 november 2020, directie Wetgeving en Juridische Zaken, nr. 3098778;
-
-Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=2), [4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4), [6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=8), [9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=11), en [13, eerste en vijfde lid, van de Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=13) en [9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 januari 2021, no. W16.20.0437/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 17 december 2021, directie Wetgeving en Juridische Zaken, nr. 3685395;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,23 +20,24 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Europees Verdrag tot bescherming van de rechten van de mens:** het op 4 november 1950 te Rome tot stand gekomen Europees Verdrag tot bescherming van de rechte van de mens en de fundamentele vrijheden;
+- *Europees Verdrag tot bescherming van de rechten van de mens:* het op 4 november 1950 te Rome tot stand gekomen Europees Verdrag tot bescherming van de rechte van de mens en de fundamentele vrijheden;
 
-- **geweldsinstructie:** regels in [artikel 9, eerste tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01);
+- *geweldsinstructie:* regels in [artikel 9, eerste tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=9) en [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=3&artikel=3.4&z=2025-07-01&g=2025-07-01);
 
-- **opslagplaats:** locatie op het land of een schip waarvan de vergunninghouder gebruik maakt voor opslag van vuurwapens en munitie, met uitzondering van een door hem gebruikte wapenkluis aan boord van het schip;
+- *opslagplaats:* locatie op het land of een schip waarvan de vergunninghouder gebruik maakt voor opslag van vuurwapens en munitie, met uitzondering van een door hem gebruikte wapenkluis aan boord van het schip;
 
-- **particulier beveiligingsteam:** het op een schip in te zetten of ingezette particulier maritiem beveiligingspersoneel, met inbegrip van de teamleider;
+- *particulier beveiligingsteam:* het op een schip in te zetten of ingezette particulier maritiem beveiligingspersoneel, met inbegrip van de teamleider;
 
-- **particuliere maritieme beveiliger:** gewapend lid van het beveiligingsteam dat door de vergunninghouder op een schip wordt of is ingezet;
+- *particuliere maritieme beveiliger:* gewapend lid van het beveiligingsteam dat door de vergunninghouder op een schip wordt of is ingezet;
 
-- **risicogebied:** het in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01), bedoelde zeegebied;
+- *risicogebied:* het in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01), bedoelde zeegebied;
 
-- **toestemming:** toestemming, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3), en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4);
+- *toestemming:* toestemming, bedoeld in de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3), en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4);
 
-- **vergunning:** vergunning, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3);
+- *vergunning:* vergunning, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=3);
 
-- **wet:** [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278).
+- *wet:*
+ [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278).
 
 ##### Artikel 1.2. (aanwijzing risicogebied)
 
@@ -78,21 +47,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. In de Indische Oceaan een lijn die de volgende punten verbindt:
 
-- 1°. Vanaf de kust van Oost-Afrika op 01° 30’ S
+   - 1°. Vanaf de kust van Oost-Afrika op 01° 30’ S
 
-- 2°. achtereenvolgens naar de punten:
+   - 2°. achtereenvolgens naar de punten:
 
-- (a). 01° 30’ S - 046° 00’ E,
+      - (a) 01° 30’ S - 046° 00’ E,
 
-- (b). 01° 00’ N - 049° 30’ E,
+      - (b) 01° 00’ N - 049° 30’ E,
 
-- (c). 09° 00’ N - 055° 00’ E,
+      - (c) 09° 00’ N - 055° 00’ E,
 
-- (d). 14° 20’ N - 057° 30’ E, en
+      - (d) 14° 20’ N - 057° 30’ E, en
 
-- 3°. vervolgens naar de kust van Jemen naar het punt 053° 00’N.
+   - 3°. vervolgens naar de kust van Jemen naar het punt 053° 00’N.
 
-2. Het in het eerste lid bedoelde zeegebied is bij wijze van illustratie ingetekend op de als bijlage bij dit besluit gevoegde kaart.
+2. Het in het eerste lid bedoelde zeegebied is bij wijze van illustratie ingetekend op de als [bijlage](https://wetten.overheid.nl/BWBR0046155) bij dit besluit gevoegde kaart.
 
 ### Hoofdstuk 2. De toestemming voor de inzet van particulier maritiem beveiligingspersoneel
 
@@ -178,7 +147,7 @@ De gewapende bescherming van op grond van voor Nederland geldende rechtsregels o
 
 ##### Artikel 3.1. (vuurwapens, munitie, handboeien)
 
-1. Het geweldsmiddel van de particuliere maritieme beveiligers bestaat uit een niet-automatisch vuurwapen of een semi-automatisch schoudervuurwapen met een maximumkaliber van .50 (12,7 mm) met bijbehorende munitie van het type full metal jacket.
+1. Het geweldsmiddel van de particuliere maritieme beveiligers bestaat uit een niet-automatisch vuurwapen of een semi-automatisch schoudervuurwapen met een maximumkaliber van .50 (12,7 mm) met bijbehorende munitie van het type full metal jacket.
 
 2. Een teamlid beschikt over ten hoogste twee vuurwapens en ten hoogste 200 eenheden van de in het eerste lid bedoelde munitie.
 
@@ -430,20 +399,16 @@ Het maritiem beveiligingsbedrijf draagt zorg voor voldoende beschikbaarheid van 
 
 ### Hoofdstuk 7. Wijziging ander besluit
 
-##### Artikel 7.1. (wijziging [Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544))
+##### Artikel 7.1. (wijziging Besluit justitiële en strafvorderlijke gegevens)
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 8.1. (inwerkingtreding)
 
-De [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) en dit besluit treden in werking met ingang van 1 februari 2022.
+De [Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278) en dit besluit treden in werking met ingang van 1 februari 2022.
 
 ##### Artikel 8.2. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit bescherming koopvaardij.
-
-## Bijlage. bij [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&hoofdstuk=1&artikel=1.2&z=2025-07-01&g=2025-07-01) van het Besluit bescherming koopvaardij
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

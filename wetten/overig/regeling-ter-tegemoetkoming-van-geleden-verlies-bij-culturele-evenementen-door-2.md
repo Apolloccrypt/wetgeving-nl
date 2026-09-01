@@ -1,51 +1,25 @@
 ---
 title: "Regeling ter tegemoetkoming van geleden verlies bij culturele evenementen door 25%-COVID-19-maatregel"
 identifier: "BWBR0045798"
-country: "nl"
-rank: "zbo"
-publication_date: "2021-11-08"
-last_updated: "2021-09-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0045798"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16127913"
-version_id: "28141832"
-internal_id: "C39678621"
-label_id: "16058234"
-dtd_version: "2.0"
-original_entry_into_force: "2021-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0045798/2021-11-08/0"
-intitule_bron: "Stcrt.2021-45573"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-10-27"
-intitule_published: "2021-11-08"
-intitule_in_force: "2021-11-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2021-45573"
-original_signed_date: "2021-10-27"
-original_published_date: "2021-11-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2021-45573"
-entry_into_force_date: "2021-11-08"
-jci_1_3: "jci1.3:c:BWBR0045798&z=2021-11-08&g=2021-11-08"
-jci_1_0: "1.0:c:BWBR0045798&g=2021-11-08"
-citeertitel_status: "officieel"
-signed_date: "2021-10-27"
-entry_into_force: "2021-11-08"
+publicatiedatum: 2021-11-08
+laatste_update: 2021-11-08
+status: geldig
+toestand: 2021-11-08
+bron: "https://wetten.overheid.nl/BWBR0045798"
+opgehaald: 2026-09-01
 ---
+
 # Regeling ter tegemoetkoming van geleden verlies bij culturele evenementen door 25%-COVID-19-maatregel
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 2. Doel
 
@@ -53,9 +27,9 @@ Het bestuur kent subsidies toe aan professionele organisatoren van culturele eve
 
 ##### Artikel 3. Procedure
 
-1. Aanvragen dienen te worden ingediend in de periode van woensdag 17 november 2021 tot en met dinsdag 23 november 2021.
+1. Aanvragen dienen te worden ingediend in de periode van woensdag 17 november 2021 tot en met dinsdag 23 november 2021.
 
-2. Het bestuur informeert de aanvrager uiterlijk binnen 13 weken na 23 november 2021 schriftelijk over zijn besluit.
+2. Het bestuur informeert de aanvrager uiterlijk binnen 13 weken na 23 november 2021 schriftelijk over zijn besluit.
 
 3. Het bestuur kan besluiten om extra subsidierondes vast te stellen. In dat geval wordt ook een datum en tijdstip vastgesteld waarop aanvragen uiterlijk ontvangen dienen te zijn. Een dergelijk besluit wordt gepubliceerd op de website van het Fonds.
 
@@ -85,7 +59,7 @@ Een aanvraag kan worden ingediend door een organisatie met privaatrechtelijke re
 
 3. Het subsidie is uitsluitend bedoeld ten behoeve van evenementen, waarvoor geldt dat:
 
-- a. het evenement heeft plaatsgevonden in de periode van 25 september 2021 tot en met 12 november 2021;
+- a. het evenement heeft plaatsgevonden in de periode van 25 september 2021 tot en met 12 november 2021;
 
 - b. het evenement primair een cultureel karakter heeft;
 
@@ -121,10 +95,8 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt met terugwerkende kracht in werking met ingang van 25 september 2021.
+Deze regeling treedt met terugwerkende kracht in werking met ingang van 25 september 2021.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling ter tegemoetkoming van geleden verlies bij culturele evenementen door 25%-COVID-19-maatregel.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
