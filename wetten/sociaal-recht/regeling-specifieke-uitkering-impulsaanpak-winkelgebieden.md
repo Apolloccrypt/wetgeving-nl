@@ -1,50 +1,50 @@
 ---
-title: "Regeling specifieke uitkering impulsaanpak winkelgebieden"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 22 april 2022, nr. WJZ/ 22038298, tot instelling van een specifieke uitkering gericht op de impulsaanpak winkelgebieden (Regeling specifieke uitkering impulsaanpak winkelgebieden)"
+citeertitel: "Regeling specifieke uitkering impulsaanpak winkelgebieden"
 identifier: "BWBR0046593"
 categorie: "Sociaal recht"
-publicatiedatum: 2025-11-29
-laatste_update: 2025-11-29
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-04-27
+laatste_update: 2026-06-03
 status: geldig
+toestand: 2026-06-03
 bron: "https://wetten.overheid.nl/BWBR0046593"
+opgehaald: 2026-09-02
 ---
 
 # Regeling van de Minister van Economische Zaken en Klimaat van 22 april 2022, nr. WJZ/ 22038298, tot instelling van een specifieke uitkering gericht op de impulsaanpak winkelgebieden (Regeling specifieke uitkering impulsaanpak winkelgebieden)
 
-Gelet op [artikel 3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
-
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- **binnenstedelijke winkelstraat:** een buiten het centrale winkelgebied gelegen winkelstraat die niet planmatig ontwikkeld is met meer dan 50 winkels in de detailhandel;
+- *binnenstedelijke winkelstraat:* een buiten het centrale winkelgebied gelegen winkelstraat die niet planmatig ontwikkeld is met meer dan 50 winkels in de detailhandel;
 
-- **centraal winkelgebied:** het grootste gebied met een winkelbestemming in een dorp of stad;
+- *centraal winkelgebied:* het grootste gebied met een winkelbestemming in een dorp of stad;
 
-- **college:** college van burgemeester en wethouders;
+- *college:* college van burgemeester en wethouders;
 
-- **G4-gemeente:** gemeente Amsterdam, Den Haag, Rotterdam of Utrecht;
+- *G4-gemeente:* gemeente Amsterdam, Den Haag, Rotterdam of Utrecht;
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **onrendabele top:** het bedrag dat overblijft wanneer de marktwaarde van de verblijfsobjecten in de panden in het projectgebied na uitvoering van het project wordt afgetrokken van de marktwaarde van de verblijfsobjecten in de panden in het projectgebied voorafgaand aan de uitvoering van het project opgeteld met de realisatiekosten;
+- *onrendabele top:* het bedrag dat overblijft wanneer de marktwaarde van de verblijfsobjecten in de panden in het projectgebied na uitvoering van het project wordt afgetrokken van de marktwaarde van de verblijfsobjecten in de panden in het projectgebied voorafgaand aan de uitvoering van het project opgeteld met de realisatiekosten;
 
-- **pand:** kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is;
+- *pand:* kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is;
 
-- **projectgebied:** een geografisch aaneengesloten gebied dat ligt in een centraal winkelgebied of deel uitmaakt van een binnenstedelijke winkelstraat waarop het project tot herstructurering betrekking heeft;
+- *projectgebied:* een geografisch aaneengesloten gebied dat ligt in een centraal winkelgebied of deel uitmaakt van een binnenstedelijke winkelstraat waarop het project tot herstructurering betrekking heeft;
 
-- **realisatiekosten:** de direct aan het project toerekenbare kosten voor renovatie, transformatie, sloop-nieuwbouw en de aanleg van openbare voorzieningen in het projectgebied, verminderd met de opbrengsten uit het kostenverhaal;
+- *realisatiekosten:* de direct aan het project toerekenbare kosten voor renovatie, transformatie, sloop-nieuwbouw en de aanleg van openbare voorzieningen in het projectgebied, verminderd met de opbrengsten uit het kostenverhaal;
 
-- **renovatie:** het verbeteren van de kwaliteit of energie-efficiëntie van een verblijfsobject in een pand;
+- *renovatie:* het verbeteren van de kwaliteit of energie-efficiëntie van een verblijfsobject in een pand;
 
-- **sloop-nieuwbouw:** slopen van een pand en vervolgens binnen hetzelfde deelgebied bouwen van een nieuw pand;
+- *sloop-nieuwbouw:* slopen van een pand en vervolgens binnen hetzelfde deelgebied bouwen van een nieuw pand;
 
-- **transformatie:** werkzaamheden waarbij de gebruiksfunctie van een verblijfsobject in een pand of van een onderdeel van een verblijfsobject in een pand wijzigt in een andere functie;
+- *transformatie:* werkzaamheden waarbij de gebruiksfunctie van een verblijfsobject in een pand of van een onderdeel van een verblijfsobject in een pand wijzigt in een andere functie;
 
-- **verblijfsobject:** de kleinste binnen één of meerdere panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte en die onderwerp kan zijn van goederenrechtelijke rechtshandelingen.
+- *verblijfsobject:* de kleinste binnen één of meerdere panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte en die onderwerp kan zijn van goederenrechtelijke rechtshandelingen.
 
-#### Artikel 2. (specifieke uitkering)
+##### Artikel 2. (specifieke uitkering)
 
 De minister verstrekt op aanvraag een specifieke uitkering aan een gemeente ten behoeve van de uitvoering van een project, in samenwerking met twee of meerdere rechtspersonen of natuurlijke personen, dat zich richt op de herstructurering van een projectgebied tot vitaal, toekomstbestendig en sociaaleconomisch gezond gebied, voor de volgende activiteiten:
 
@@ -56,23 +56,23 @@ De minister verstrekt op aanvraag een specifieke uitkering aan een gemeente ten 
 
 - d. aanleg van openbare voorzieningen in het projectgebied.
 
-#### Artikel 3. (hoogte van de uitkering)
+##### Artikel 3. (hoogte van de uitkering)
 
-1. De specifieke uitkering bedraagt ten hoogste 25% van de realisatiekosten met een maximum van 50% van de onrendabele top en niet meer dan € 5.000.000 per project.
+1. De specifieke uitkering bedraagt ten hoogste 25% van de realisatiekosten met een maximum van 50% van de onrendabele top en niet meer dan € 5.000.000 per project.
 
 2. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over realisatiekosten die gemaakt worden voor de uitvoering van een project, voor zover de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 3. De huidige en de toekomstige marktwaarde van de verblijfsobjecten in de panden in het projectgebied wordt vastgesteld op basis van een taxatie uitgevoerd door een onafhankelijk taxateur.
 
-#### Artikel 4. (uitkeringsplafond)
+##### Artikel 4. (uitkeringsplafond)
 
-De minister verdeelt het uitkeringsplafond, opgenomen in de bijlage, op volgorde van rangschikking van de aanvragen.
+De minister verdeelt het uitkeringsplafond, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0046593), op volgorde van rangschikking van de aanvragen.
 
-#### Artikel 5. (aanvraag)
+##### Artikel 5. (aanvraag)
 
 1. Een specifieke uitkering wordt op aanvraag van een college verstrekt.
 
-2. De periode waarin de specifieke uitkering kan worden aangevraagd is opgenomen in de bijlage bij deze regeling.
+2. De periode waarin de specifieke uitkering kan worden aangevraagd is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0046593) bij deze regeling.
 
 3. De aanvraag bevat in ieder geval de hoogte van de gevraagde specifieke uitkering.
 
@@ -92,31 +92,31 @@ De minister verdeelt het uitkeringsplafond, opgenomen in de bijlage, op volgorde
 
 - f. een plankaart en een toelichting op de afbakening van het projectgebied; en
 
-- g. een door een onafhankelijk taxateur uitgevoerde taxatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=3&z=2025-11-29&g=2025-11-29).
+- g. een door een onafhankelijk taxateur uitgevoerde taxatie als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=3&z=2026-06-03&g=2026-06-03).
 
 6. Een aanvraag voor een specifieke uitkering wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
-#### Artikel 6. (beslistermijn)
+##### Artikel 6. (beslistermijn)
 
 De minister verleent de specifieke uitkering binnen 13 weken na de laatste dag van de periode waarin aanvragen kunnen worden ingediend. Indien niet binnen deze termijn kan worden beslist, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een redelijke termijn waarbinnen de beslissing wel kan worden genomen.
 
-#### Artikel 7. (realisatietermijn)
+##### Artikel 7. (realisatietermijn)
 
 De maximale realisatietermijn van het project is zeven jaar, gerekend vanaf de datum waarop de specifieke uitkering is verleend.
 
-#### Artikel 8. (afwijzingsgronden)
+##### Artikel 8. (afwijzingsgronden)
 
 De minister besluit afwijzend op een aanvraag indien:
 
-- a. de onrendabele top van het project minder dan € 1.000.000 bedraagt;
+- a. de onrendabele top van het project minder dan € 1.000.000 bedraagt;
 
-- b. aan het project na toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2025-11-29&g=2025-11-29), op één van de onderdelen minder dan 5,5 punten zijn toegekend;
+- b. aan het project na toepassing van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2026-06-03&g=2026-06-03), op één van de onderdelen minder dan 5,5 punten zijn toegekend;
 
 - c. de aanvrager een G4-gemeente is.
 
-#### Artikel 9. (instelling adviescommissie)
+##### Artikel 9. (instelling adviescommissie)
 
-1. Er is een Adviescommissie impulsaanpak winkelgebieden die tot taak heeft de minister te adviseren over de rangschikking van de aanvragen, op basis van rangschikkingscriteria, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2025-11-29&g=2025-11-29).
+1. Er is een Adviescommissie impulsaanpak winkelgebieden die tot taak heeft de minister te adviseren over de rangschikking van de aanvragen, op basis van rangschikkingscriteria, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=10&z=2026-06-03&g=2026-06-03).
 
 2. De commissie bestaat uit ten minste 4 en ten hoogste 5 leden. De voorzitter en de leden zijn geen ambtenaren, werkzaam bij het Ministerie van Economische Zaken en Klimaat.
 
@@ -138,11 +138,11 @@ De minister besluit afwijzend op een aanvraag indien:
 
 11. De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van de taak van de minister benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van de taak van de minister redelijkerwijs nodig is.
 
-#### Artikel 10. (rangschikkingscriteria)
+##### Artikel 10. (rangschikkingscriteria)
 
 1. De minister kent een aanvraag een hoger aantal punten toe naarmate:
 
-- a. de bijdrage aan de doelstelling van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2025-11-29&g=2025-11-29), hoger is blijkend uit de verbetering van de gebruikswaarde, belevingswaarde en toekomstwaarde in het projectgebied;
+- a. de bijdrage aan de doelstelling van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2026-06-03&g=2026-06-03), hoger is blijkend uit de verbetering van de gebruikswaarde, belevingswaarde en toekomstwaarde in het projectgebied;
 
 - b. het bestuurlijk en maatschappelijk draagvlak van het projectplan hoger is;
 
@@ -158,7 +158,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 5. Indien aan twee of meer aanvragen in totaal een gelijk aantal punten is toegekend, rangschikt de minister een aanvraag hoger naarmate meer punten zijn toegekend aan respectievelijk onderdeel a, b, c, en d, van het eerste lid.
 
-#### Artikel 11. (verplichtingen)
+##### Artikel 11. (verplichtingen)
 
 1. De gemeente voert de activiteiten uit overeenkomstig het projectplan.
 
@@ -172,21 +172,21 @@ De minister besluit afwijzend op een aanvraag indien:
 
 6. Binnen één jaar na de verlening van de specifieke uitkering is de samenwerkingsovereenkomst tussen de gemeente en de deelnemende rechtspersonen of natuurlijke personen ten behoeve van de uitvoering van het project definitief.
 
-7. De minister kan voor het vertragen of het essentieel wijzigen van de wijze waarop de activiteiten worden uitgevoerd op voorafgaand verzoek van de gemeente ontheffing verlenen van de verplichting, bedoeld in het eerste en tweede lid, tenzij hierdoor afbreuk wordt gedaan aan de mate waarin het project bijdraagt aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2025-11-29&g=2025-11-29). Aan de ontheffing kunnen voorschriften worden verbonden.
+7. De minister kan voor het vertragen of het essentieel wijzigen van de wijze waarop de activiteiten worden uitgevoerd op voorafgaand verzoek van de gemeente ontheffing verlenen van de verplichting, bedoeld in het eerste en tweede lid, tenzij hierdoor afbreuk wordt gedaan aan de mate waarin het project bijdraagt aan de doelstelling, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=2&z=2026-06-03&g=2026-06-03). Aan de ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel 12. (voorschot)
+##### Artikel 12. (voorschot)
 
 1. Het voorschot bedraagt 100% van de specifieke uitkering en wordt ambtshalve verstrekt binnen 2 weken na de verlening van de specifieke uitkering.
 
-2. Indien de specifieke uitkering is verleend tussen 2 juli 2024 en 31 december 2024 kan een gemeente verzoeken tot het verstrekken van het voorschot overeenkomstig het eerste lid.
+2. Indien de specifieke uitkering is verleend tussen 2 juli 2024 en 31 december 2024 kan een gemeente verzoeken tot het verstrekken van het voorschot overeenkomstig het eerste lid.
 
-#### Artikel 13. (verantwoording en terugvordering)
+##### Artikel 13. (verantwoording en terugvordering)
 
 1. De gemeente legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet volledig is besteed aan het project waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-3. De gemeente rapporteert jaarlijks op 1 maart over het voorafgaande jaar aan de minister. De rapportage bevat in ieder geval:
+3. De gemeente rapporteert jaarlijks op 1 maart over het voorafgaande jaar aan de minister. De rapportage bevat in ieder geval:
 
 - a. een schriftelijk verslag omtrent de uitvoering van het project met inbegrip van een vergelijking van de daadwerkelijke uitvoering met de beschrijving van het project in het projectplan, zowel in materiële als financiële zin;
 
@@ -194,21 +194,10 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - c. een beschrijving van de wijze waarop de gemeente zorg draagt voor monitoring van het project conform het projectplan. De gemeente maakt hiertoe afspraken met de overige partijen in het samenwerkingsverband zodat uniforme, cumulatieve informatie wordt verzameld en gerapporteerd over het programmaverloop.
 
-#### Artikel 14. (inwerkingtreding)
+##### Artikel 14. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 15. (citeertitel)
+##### Artikel 15. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering impulsaanpak winkelgebieden.
-
-## Bijlage. behorende bij de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=4&z=2025-11-29&g=2025-11-29) en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046593&artikel=5&z=2025-11-29&g=2025-11-29), van de Regeling specifieke uitkering impulsaanpak winkelgebieden
-
-| Uitkeringsplafond | Periode voor het aanvragen van de specifieke uitkering |
-| --- | --- |
-| € 22.000.000 | 9 mei 9:00 2022 tot en met 30 mei 12:00 2022 |
-| € 22.000.000 | 14 november 9:00 2022 tot en met 5 december 12:00 2022 |
-| € 26.000.000 | 26 juni 9:00 2023 tot en met 4 september 12:00 2023 |
-| € 28.000.000 | 21 mei 9:00 2024 tot en met 1 juli 2024 12:00 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

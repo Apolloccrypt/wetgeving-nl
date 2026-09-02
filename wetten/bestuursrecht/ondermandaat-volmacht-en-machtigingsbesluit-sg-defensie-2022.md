@@ -1,55 +1,29 @@
 ---
 title: "Ondermandaat, -volmacht en -machtigingsbesluit SG Defensie 2022"
 identifier: "BWBR0046552"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-14"
-last_updated: "2022-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046552"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16326473"
-version_id: "28541822"
-internal_id: "C40274431"
-label_id: "16251354"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046552/2022-04-14/0"
-intitule_bron: "Stcrt.2022-9864"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-01"
-intitule_published: "2022-04-13"
-intitule_in_force: "2022-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9864"
-original_signed_date: "2022-03-01"
-original_published_date: "2022-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9864"
-entry_into_force_date: "2022-04-14"
-jci_1_3: "jci1.3:c:BWBR0046552&z=2022-04-14&g=2022-04-14"
-jci_1_0: "1.0:c:BWBR0046552&g=2022-04-14"
-citeertitel_status: "officieel"
-signed_date: "2022-03-01"
-entry_into_force: "2022-04-14"
+publicatiedatum: 2022-04-14
+laatste_update: 2022-04-14
+status: geldig
+toestand: 2022-04-14
+bron: "https://wetten.overheid.nl/BWBR0046552"
+opgehaald: 2026-09-02
 ---
+
 # Ondermandaat, -volmacht en -machtigingsbesluit SG Defensie 2022
-
-Gelet op [artikel 3, eerste lid, van het Algemeen mandaat, volmacht en machtigingsbesluit Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046551&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **bewindspersoon:** Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
 
-- b. **mandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2. Ondermandaat, -volmacht en -machtiging; uitgezonderde bevoegdheden
 
@@ -85,10 +59,8 @@ Het Subtaakbesluit dienstonderdeel SG 2008 en het [Ondermandaat, volmacht en mac
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Ondermandaat, -volmacht en -machtigingsbesluit SG Defensie 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

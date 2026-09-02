@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 25 april 2022, kenmerk 3804037 houdende verlening van mandaat aan de directeur Kustwacht voor het verlenen van toestemming aan scheepsbeheerders ten behoeve van het verrichten, toe te staan of mogelijk te maken van gewapende maritieme beveiligingswerkzaamheden"
+citeertitel: "Besluit mandaat directeur Kustwacht ten behoeve van het toestaan of mogelijk maken van gewapende maritieme beveiligingswerkzaamheden"
 identifier: "BWBR0046635"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-05-06"
-last_updated: "2022-05-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046635"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16352223"
-version_id: "28608332"
-internal_id: "C40360321"
-label_id: "16276824"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046635/2022-05-06/0"
-intitule_bron: "Stcrt.2022-11932"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-25"
-intitule_published: "2022-05-05"
-intitule_in_force: "2022-05-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-11932"
-original_signed_date: "2022-04-25"
-original_published_date: "2022-05-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-11932"
-entry_into_force_date: "2022-05-06"
-jci_1_3: "jci1.3:c:BWBR0046635&z=2022-05-06&g=2022-05-06"
-jci_1_0: "1.0:c:BWBR0046635&g=2022-05-06"
-citeertitel_status: "redactioneel"
-short_title: "Besluit mandaat directeur Kustwacht ten behoeve van het toestaan of mogelijk maken van gewapende maritieme beveiligingswerkzaamheden"
-signed_date: "2022-04-25"
-entry_into_force: "2022-05-06"
+publicatiedatum: 2022-05-06
+laatste_update: 2022-05-06
+status: geldig
+toestand: 2022-05-06
+bron: "https://wetten.overheid.nl/BWBR0046635"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 25 april 2022, kenmerk 3804037 houdende verlening van mandaat aan de directeur Kustwacht voor het verlenen van toestemming aan scheepsbeheerders ten behoeve van het verrichten, toe te staan of mogelijk te maken van gewapende maritieme beveiligingswerkzaamheden
-
-Gelet op [artikel 4 van de Wet ter Bescherming Koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0042278&artikel=4), [artikel 2.2 van het Besluit bescherming koopvaardij](https://wetten.overheid.nl/jci1.3:c:BWBR0046155&artikel=2.2) en [artikel 10:3 lid 1 Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Justitie en Veiligheid; en
+- a. *Minister:* Minister van Justitie en Veiligheid; en
 
-- b. **mandaat:** bevoegdheid om in naam van de Minister besluiten te nemen.
+- b. *mandaat:* bevoegdheid om in naam van de Minister besluiten te nemen.
 
 ##### Artikel 2
 
@@ -78,6 +52,4 @@ gevolgd door de aanduiding van de gemandateerde functionaris.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 februari 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 februari 2022.

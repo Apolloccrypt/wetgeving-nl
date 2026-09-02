@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 20 mei 2022, nr. IENW/BSK-2022/48111, houdende regels voor toekenning van specifieke uitkeringen voor intelligente verkeersregelinstallaties (Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties)"
+citeertitel: "Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties"
 identifier: "BWBR0046687"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-05-24"
-last_updated: "2022-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046687"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16364923"
-version_id: "28641492"
-internal_id: "C40415941"
-label_id: "16289144"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046687/2022-05-24/0"
-intitule_bron: "Stcrt.2022-13189"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-20"
-intitule_published: "2022-05-23"
-intitule_in_force: "2022-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-13189"
-original_signed_date: "2022-05-20"
-original_published_date: "2022-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-13189"
-entry_into_force_date: "2022-05-24"
-jci_1_3: "jci1.3:c:BWBR0046687&z=2022-05-24&g=2022-05-24"
-jci_1_0: "1.0:c:BWBR0046687&g=2022-05-24"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties"
-signed_date: "2022-05-20"
-entry_into_force: "2022-05-24"
+publicatiedatum: 2022-05-24
+laatste_update: 2022-05-24
+status: geldig
+toestand: 2022-05-24
+bron: "https://wetten.overheid.nl/BWBR0046687"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 20 mei 2022, nr. IENW/BSK-2022/48111, houdende regels voor toekenning van specifieke uitkeringen voor intelligente verkeersregelinstallaties (Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en [artikel 2, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- **intelligente verkeersregelinstallatie:** verkeersregelinstallatie die kan communiceren met voertuigen en verkeersdeelnemers en de wegbeheerder de mogelijkheid biedt om verkeerstromen efficiënter te regelen;
+- *intelligente verkeersregelinstallatie:* verkeersregelinstallatie die kan communiceren met voertuigen en verkeersdeelnemers en de wegbeheerder de mogelijkheid biedt om verkeerstromen efficiënter te regelen;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **ontvanger:** een gemeente of een provincie;
+- *ontvanger:* een gemeente of een provincie;
 
-- **specifieke uitkering:** specifieke uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046687&artikel=4&z=2022-05-24&g=2022-05-24).
+- *specifieke uitkering:* specifieke uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046687&artikel=4&z=2022-05-24&g=2022-05-24).
 
-##### Artikel 2. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Kaderbesluit subsidies I en M
 
-De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, derde lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, eerste, derde en vierde lid, onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, onderdelen b tot en met f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, onderdelen a tot en met c en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), en [21,van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van overeenkomstige toepassing op een specifieke uitkering die op grond van deze regeling wordt verstrekt.
+De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, derde lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, eerste, derde en vierde lid, onderdelen a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, onderdelen b tot en met f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, onderdelen a tot en met c en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), en [21,van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van overeenkomstige toepassing op een specifieke uitkering die op grond van deze regeling wordt verstrekt.
 
 ##### Artikel 3. Doel
 
@@ -160,9 +134,9 @@ De specifieke uitkering bedraagt ten hoogste 50% van de kosten, bedoeld in [arti
 
 - a. indien een gegronde reden bestaat om aan te nemen dat:
 
-- 1°. de activiteiten niet of niet geheel zullen plaatsvinden;
+   - 1°. de activiteiten niet of niet geheel zullen plaatsvinden;
 
-- 2°. de aanvrager niet zal voldoen aan de aan de specifieke uitkering verbonden verplichtingen;
+   - 2°. de aanvrager niet zal voldoen aan de aan de specifieke uitkering verbonden verplichtingen;
 
 - b. indien de aanvrager in het kader van de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou hebben geleid.
 
@@ -249,5 +223,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkeringen intelligente verkeersregelinstallaties.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

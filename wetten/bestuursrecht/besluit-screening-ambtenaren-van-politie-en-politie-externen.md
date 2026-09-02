@@ -1,86 +1,54 @@
 ---
 title: "Besluit van 3 oktober 2022, houdende regels over het screenen van personen die ambtenaar van politie willen worden of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (Besluit screening ambtenaren van politie en politie-externen)"
+citeertitel: "Besluit screening ambtenaren van politie en politie-externen"
 identifier: "BWBR0047260"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047260"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16510353"
-version_id: "28940362"
-internal_id: "C41164871"
-label_id: "16431944"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047260/2023-01-01/0"
-intitule_bron: "Stb.2022-380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-03"
-intitule_published: "2022-10-06"
-intitule_in_force: "2022-11-17"
-intitule_status: "goed"
-original_publication: "Stb.2022-380"
-original_signed_date: "2022-10-03"
-original_published_date: "2022-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-380"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047260&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047260&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit screening ambtenaren van politie en politie-externen"
-signed_date: "2022-10-03"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0047260"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 3 oktober 2022, houdende regels over het screenen van personen die ambtenaar van politie willen worden of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (Besluit screening ambtenaren van politie en politie-externen)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 30 juni 2022, directie Wetgeving en Juridische Zaken, nr. 4064197;
-
-Gelet op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), [48q, tweede, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48q), [48r, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48r), [48s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48s), [48u, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48u), [48w, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48w), [48x, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48x), [48y, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48y), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18), [23, derde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23) en [artikel 9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 31 augustus 2022, nr. W16.22.00080/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 27 september 2022, directie Wetgeving en Juridische Zaken, nr 4190592;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wijzigingswet Politiewet 2012 en Wet op de medische keuringen (screening ambtenaren van politie en politie-externen) in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **Algemene verordening gegevensbescherming:** [verordening (EU) 2016/679](32579R2016) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (Algemene verordening gegevensbescherming) (PbEU 2016, L 119);
+- *Algemene verordening gegevensbescherming:*
+ verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (Algemene verordening gegevensbescherming) (PbEU 2016, L 119);
 
-- **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
+- *ambtenaar:* de ambtenaar van politie, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2);
 
-- **betrouwbaarheidsonderzoek:** het onderzoek, bedoeld in [artikel 48q, eerste of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48q);
+- *betrouwbaarheidsonderzoek:* het onderzoek, bedoeld in [artikel 48q, eerste of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48q);
 
-- **bevoegd gezag:**
+- *bevoegd gezag:*
 
-- a. de korpschef, voor zover het betreft de kandidaat-ambtenaar, de kandidaat-externe, de ambtenaar en de externe bij het landelijke politiekorps, bedoeld in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
+   - a. de korpschef, voor zover het betreft de kandidaat-ambtenaar, de kandidaat-externe, de ambtenaar en de externe bij het landelijke politiekorps, bedoeld in [artikel 1, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
 
-- b. het College van procureurs-generaal, voor zover het betreft de kandidaat-ambtenaar, de kandidaat-externe, de ambtenaar en de externe bij de rijksrecherche;
+   - b. het College van procureurs-generaal, voor zover het betreft de kandidaat-ambtenaar, de kandidaat-externe, de ambtenaar en de externe bij de rijksrecherche;
 
-- c. de directeur van de Politieacademie, voor zover het betreft de kandidaat-externe en de externe bij de Politieacademie;
+   - c. de directeur van de Politieacademie, voor zover het betreft de kandidaat-externe en de externe bij de Politieacademie;
 
-- **externe:** degene die krachtens overeenkomst werkzaamheden verricht voor de politie, de rijksrecherche of de Politieacademie;
+- *externe:* degene die krachtens overeenkomst werkzaamheden verricht voor de politie, de rijksrecherche of de Politieacademie;
 
-- **hernieuwd incidenteel betrouwbaarheidsonderzoek:** het onderzoek, bedoeld in [artikel 48x, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48x);
+- *hernieuwd incidenteel betrouwbaarheidsonderzoek:* het onderzoek, bedoeld in [artikel 48x, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48x);
 
-- **hernieuwd periodiek betrouwbaarheidsonderzoek:** het onderzoek, bedoeld in [artikel 48x, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48x);
+- *hernieuwd periodiek betrouwbaarheidsonderzoek:* het onderzoek, bedoeld in [artikel 48x, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=48x);
 
-- **kandidaat-ambtenaar:** degene die ambtenaar wil worden;
+- *kandidaat-ambtenaar:* degene die ambtenaar wil worden;
 
-- **kandidaat-externe:** degene die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie wil verrichten;
+- *kandidaat-externe:* degene die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie wil verrichten;
 
-- **politiegegevens:** gegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
+- *politiegegevens:* gegevens als bedoeld in [artikel 1, onder a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=1);
 
-- **verklaring omtrent het gedrag:** een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
+- *verklaring omtrent het gedrag:* een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
 
-- **wet:** [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
+- *wet:*
+ [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788).
 
 ##### Artikel 2. Werkzaamheden waarvoor een VOG volstaat
 
@@ -162,11 +130,11 @@ De gegevens, bedoeld in [artikel 48r, derde lid, onder d, van de wet](https://we
 
 - j. de gegevens die betrekking hebben op de periode van acht jaar voorafgaand aan het onderzoek tot aan het onderzoek:
 
-- 1°. over de financiële omstandigheden van de betrokkene;
+   - 1°. over de financiële omstandigheden van de betrokkene;
 
-- 2°. over vrijetijdsbesteding, nevenactiviteiten en lidmaatschappen van de betrokkene; en
+   - 2°. over vrijetijdsbesteding, nevenactiviteiten en lidmaatschappen van de betrokkene; en
 
-- 3°. over aaneengesloten verblijf in het buitenland van betrokkene van langer dan zes maanden, alsmede meerdere verblijfsperiodes in het buitenland van tenminste twee aaneengesloten maanden per jaar, die in totaliteit zes maanden overschrijden.
+   - 3°. over aaneengesloten verblijf in het buitenland van betrokkene van langer dan zes maanden, alsmede meerdere verblijfsperiodes in het buitenland van tenminste twee aaneengesloten maanden per jaar, die in totaliteit zes maanden overschrijden.
 
 ##### Artikel 7. Goede en professionele uitvoering
 
@@ -224,22 +192,20 @@ De gegevens van het onderzoek worden opgeslagen in een apart register waarvoor e
 
 ##### Artikel 14. Wijziging Besluit politiegegevens
 
-Wijzigd het Besluit politiegegevens.
+*Wijzigd het Besluit politiegegevens.*
 
 ##### Artikel 15. Wijziging Besluit justitiële en strafvorderlijke gegevens
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 16. Wijziging Besluit algemene rechtspositie politie
 
-Wijzigt het Besluit algemene rechtspositie politie.
+*Wijzigt het Besluit algemene rechtspositie politie.*
 
 ##### Artikel 17. Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop de Wet van 14 oktober 2020 tot [wijziging van de Politiewet 2012 en de Wet op de medische keuringen in verband met het screenen van personen die ambtenaar van politie willen worden](https://wetten.overheid.nl/jci1.3:c:BWBR0044296) of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (screening ambtenaren van politie en politie-externen) (Stb. 2020, 412) in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop de Wet van 14 oktober 2020 tot [wijziging van de Politiewet 2012 en de Wet op de medische keuringen in verband met het screenen van personen die ambtenaar van politie willen worden](https://wetten.overheid.nl/jci1.3:c:BWBR0044296) of zijn en personen die krachtens overeenkomst werkzaamheden voor de politie, de rijksrecherche of de Politieacademie gaan verrichten of verrichten (screening ambtenaren van politie en politie-externen) (Stb. 2020, 412) in werking treedt.
 
 ##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit screening ambtenaren van politie en politie-externen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

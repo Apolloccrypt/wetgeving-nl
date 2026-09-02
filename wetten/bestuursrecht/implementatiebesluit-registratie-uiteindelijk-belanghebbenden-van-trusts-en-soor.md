@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 8 april 2022, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)"
+citeertitel: "Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies"
 identifier: "BWBR0046618"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046618"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16345263"
-version_id: "28592692"
-internal_id: "C41027091"
-label_id: "16269814"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046618/2025-01-01/0"
-intitule_bron: "Stb.2022-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-08"
-intitule_published: "2022-05-02"
-intitule_in_force: "2022-10-24"
-intitule_status: "goed"
-original_publication: "Stb.2022-168"
-original_signed_date: "2022-04-08"
-original_published_date: "2022-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-168"
-entry_into_force_date: "2022-11-01"
-jci_1_3: "jci1.3:c:BWBR0046618&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0046618&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies"
-signed_date: "2022-04-08"
-entry_into_force: "2022-11-01"
+publicatiedatum: 2022-11-01
+laatste_update: 2026-06-03
+status: geldig
+toestand: 2026-06-03
+bron: "https://wetten.overheid.nl/BWBR0046618"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 8 april 2022, houdende regels met betrekking tot de registratie van uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter implementatie van artikel 31 van de gewijzigde vierde anti-witwasrichtlijn (Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies)
-
-Op de voordracht van Onze Minister van Financiën van 21 december 2021, 2021-0000257758, directie Financiële Markten, gedaan mede namens Onze Minister van Justitie en Veiligheid en Onze Minister van Economische Zaken en Klimaat;
-
-Gelet op de [artikelen 5, tweede lid, derde lid, onderdeel f en vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=6), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=7), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=8), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=10) en [18, tweede lid van de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=18);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 16 februari 2022, nr. W06.21.0386/III);
-
-Gezien het nader rapport van Onze Minister van Financiën van 6 april 2022, 2022-0000054066, directie Financiële Markten, uitgebracht mede namens Onze Minister van Justitie en Veiligheid en Onze Minister van Economische Zaken en Klimaat;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definities
 
@@ -122,11 +90,15 @@ Als bevoegde autoriteiten, bedoeld in [artikel 7, tweede lid, van de wet](https:
 
 ##### Artikel 7. Bewaartermijn gegevens verzoeker
 
-Dit onderdeel is nog niet inwerking getreden
+De beheerder bewaart de in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046156&artikel=8) bedoelde persoonsgegevens van een verzoeker niet langer dan vijf jaar.
 
 ##### Artikel 8. Vergoeding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor inzage in informatie die is opgenomen in het register is een vergoeding verschuldigd. De hoogte van die vergoeding wordt bij regeling van Onze Minister van Financiën vastgesteld.
+
+2. De in het eerste lid bedoelde vergoeding is verschuldigd zonder dat dit bij beschikking is vastgesteld.
+
+3. De in het eerste lid bedoelde vergoeding dient bij verstrekking te worden voldaan.
 
 ##### Artikel 9. Afscherming
 
@@ -150,9 +122,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 In het register kunnen gegevens over natuurlijke personen worden overgenomen uit de basisregistratie personen bedoeld in [artikel 1.2 van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.2), de basisregistratie adressen en gebouwen bedoeld in [artikel 2 van de Wet basisregistratie adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=2) alsmede uit het handelsregister bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
-##### Artikel 11. Wijziging van het [Uitvoeringsbesluit Wwft 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041193)
+##### Artikel 11. Wijziging van het Uitvoeringsbesluit Wwft 2018
 
-Wijzigt het Uitvoeringsbesluit Wwft 2018.
+*Wijzigt het Uitvoeringsbesluit Wwft 2018.*
 
 ##### Artikel 12. Inwerkingtreding
 
@@ -161,5 +133,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Implementatiebesluit registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

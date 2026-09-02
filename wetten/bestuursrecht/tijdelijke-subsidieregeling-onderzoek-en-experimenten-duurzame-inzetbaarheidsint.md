@@ -1,72 +1,73 @@
 ---
-title: "Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2022, 2022-0000091000, tot vaststelling van een tijdelijke subsidieregeling gericht op het ontwikkelen, uitvoeren en onderzoeken van experimenten en het uitvoeren van wetenschappelijke onderzoek naar effectieve interventies inzake duurzame inzetbaarheid en leven lang ontwikkelen (Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)"
+citeertitel: "Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
 identifier: "BWBR0046626"
-categorie: "Overig"
-publicatiedatum: 2026-07-17
-laatste_update: 2026-07-21
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-07-09
+laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046626"
+opgehaald: 2026-09-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2022, 2022-0000091000, tot vaststelling van een tijdelijke subsidieregeling gericht op het ontwikkelen, uitvoeren en onderzoeken van experimenten en het uitvoeren van wetenschappelijke onderzoek naar effectieve interventies inzake duurzame inzetbaarheid en leven lang ontwikkelen (Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)
-
-Gelet op de [artikelen 3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak:** een door de Minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ingediend;
+- *aanvraagtijdvak:* een door de Minister vastgesteld tijdvak waarin aanvragen voor subsidie op grond van deze regeling kunnen worden ingediend;
 
-- **activiteit:** een activiteit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=4&z=2026-07-17&g=2026-07-17);
+- *activiteit:* een activiteit als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=4&z=2026-07-17&g=2026-07-17);
 
-- **belastende werkzaamheden:** werkzaamheden die bij langdurige uitoefening of uitoefening op hogere leeftijd kunnen leiden tot een aanzienlijk verhoogd risico op gezondheidsschade, gelet op de belasting door werktijden, psychosociale arbeidsbelasting, cognitieve belasting, fysieke belasting en omgevingsbelasting;
+- *belastende werkzaamheden:* werkzaamheden die bij langdurige uitoefening of uitoefening op hogere leeftijd kunnen leiden tot een aanzienlijk verhoogd risico op gezondheidsschade, gelet op de belasting door werktijden, psychosociale arbeidsbelasting, cognitieve belasting, fysieke belasting en omgevingsbelasting;
 
-- **brancheorganisatie:** belangenorganisatie voor de professionalisering van een bepaalde branche, onder andere door het delen van kennis over de sector of bedrijfstak met haar leden;
+- *brancheorganisatie:* belangenorganisatie voor de professionalisering van een bepaalde branche, onder andere door het delen van kennis over de sector of bedrijfstak met haar leden;
 
-- **brutoloon:** bruto salaris, inclusief eindejaarsuitkering of een beloning in de vorm van een dertiende maand, zijnde een vast bedrag of vastgesteld percentage van het salaris, dat werkenden als extra loon ontvangen, voor zover dit is geregeld in de geldende collectieve arbeidsovereenkomst of arbeidsovereenkomst, exclusief vakantiegeld, exclusief overige vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen en aanvullende werkgeverslasten;
+- *brutoloon:* bruto salaris, inclusief eindejaarsuitkering of een beloning in de vorm van een dertiende maand, zijnde een vast bedrag of vastgesteld percentage van het salaris, dat werkenden als extra loon ontvangen, voor zover dit is geregeld in de geldende collectieve arbeidsovereenkomst of arbeidsovereenkomst, exclusief vakantiegeld, exclusief overige vergoedingen, bijzondere beloningen, winst- of prestatieafhankelijke uitkeringen en aanvullende werkgeverslasten;
 
-- **duurzame inzetbaarheid:** het gemotiveerd, gezond en productief houden van werkenden om hen in staat te stellen tot aan het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), binnen of buiten een arbeidsorganisatie betaalde arbeid te verrichten;
+- *duurzame inzetbaarheid:* het gemotiveerd, gezond en productief houden van werkenden om hen in staat te stellen tot aan het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), binnen of buiten een arbeidsorganisatie betaalde arbeid te verrichten;
 
-- **hoofdaanvrager:** een organisatie als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17);
+- *hoofdaanvrager:* een organisatie als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17);
 
-- **Kaderregeling subsidies:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling subsidies:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **kostendrager:** een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
+- *kostendrager:* een product of een in economisch opzicht homogene groep van producten, die als voorwerp van calculatie wordt gekozen;
 
-- **leven lang ontwikkelen:** alle leeractiviteiten die gedurende het leven worden ontplooid om kennis, vaardigheden en competenties vanuit een persoonlijk, burgerlijk, sociaal of werkgelegenheidsperspectief te verbeteren;
+- *leven lang ontwikkelen:* alle leeractiviteiten die gedurende het leven worden ontplooid om kennis, vaardigheden en competenties vanuit een persoonlijk, burgerlijk, sociaal of werkgelegenheidsperspectief te verbeteren;
 
-- **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- **onderzoeksinstelling:** een publieke of private organisatie die zich in hoofdzaak bezighoudt met het onafhankelijk verrichten van toegepast wetenschappelijk onderzoek of beleidsonderzoek, waarbij toepassingsgericht onderzoek van veelal gammawetenschappelijke aard wordt verricht ten behoeve van instanties die beleid voor de samenleving ontwikkelen, uitvoeren en evalueren;
+- *onderzoeksinstelling:* een publieke of private organisatie die zich in hoofdzaak bezighoudt met het onafhankelijk verrichten van toegepast wetenschappelijk onderzoek of beleidsonderzoek, waarbij toepassingsgericht onderzoek van veelal gammawetenschappelijke aard wordt verricht ten behoeve van instanties die beleid voor de samenleving ontwikkelen, uitvoeren en evalueren;
 
-- **oriënterend adviesgesprek:** adviesgesprek waar vrijblijvend om kan worden verzocht ter bespreking van een beknopt plan van aanpak voor voorgenomen activiteiten, als bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17);
+- *oriënterend adviesgesprek:* adviesgesprek waar vrijblijvend om kan worden verzocht ter bespreking van een beknopt plan van aanpak voor voorgenomen activiteiten, als bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17);
 
-- **O&O-fonds:** een stichting of vereniging die als doel heeft het optimaliseren van de werking van de arbeidsmarkt en die:
+- *O&O-fonds:* een stichting of vereniging die als doel heeft het optimaliseren van de werking van de arbeidsmarkt en die:
 
-  - a. is opgericht bij een bij de Minister aangemelde collectieve arbeidsovereenkomst
+   - a. is opgericht bij een bij de Minister aangemelde collectieve arbeidsovereenkomst
 
-  - b. paritair wordt bestuurd door vertegenwoordigers van een of meer arbeidsorganisaties, waarbij in ieder geval bij een arbeidsorganisatie ten minste 500 werknemers werkzaam zijn, alsmede vertegenwoordigers van een of meer werknemersorganisaties; of
+   - b. paritair wordt bestuurd door vertegenwoordigers van een of meer arbeidsorganisaties, waarbij in ieder geval bij een arbeidsorganisatie ten minste 500 werknemers werkzaam zijn, alsmede vertegenwoordigers van een of meer werknemersorganisaties; of
 
-  - c. paritair wordt bestuurd door vertegenwoordigers van een of meer werkgeversorganisaties alsmede vertegenwoordigers van een of meer werknemersorganisaties;
+   - c. paritair wordt bestuurd door vertegenwoordigers van een of meer werkgeversorganisaties alsmede vertegenwoordigers van een of meer werknemersorganisaties;
 
-- **samenwerkingsverband:** een samenwerkingsverband als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17);
+- *samenwerkingsverband:* een samenwerkingsverband als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17);
 
-- **subsidieaanvrager:** samenwerkingsverband dat subsidie aanvraagt op grond van deze regeling;
+- *subsidieaanvrager:* samenwerkingsverband dat subsidie aanvraagt op grond van deze regeling;
 
-- **subsidieontvanger:** samenwerkingsverband waaraan subsidie is verleend op grond van deze regeling;
+- *subsidieontvanger:* samenwerkingsverband waaraan subsidie is verleend op grond van deze regeling;
 
-- **werkende:** elke natuurlijke persoon die betaalde arbeid verricht, een band heeft met de Nederlandse arbeidsmarkt, achttien jaar of ouder is en de pensioengerechtigde leeftijd, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt;
+- *werkende:* elke natuurlijke persoon die betaalde arbeid verricht, een band heeft met de Nederlandse arbeidsmarkt, achttien jaar of ouder is en de pensioengerechtigde leeftijd, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt;
 
-- **werkgeversorganisatie:** een vereniging met volledige rechtsbevoegdheid van werkgevers, die krachtens haar statuten de belangenbehartiging van werkgevers beoogt;
+- *werkgeversorganisatie:* een vereniging met volledige rechtsbevoegdheid van werkgevers, die krachtens haar statuten de belangenbehartiging van werkgevers beoogt;
 
-- **werknemersorganisatie:** een vereniging met volledige rechtsbevoegdheid van werknemers, die krachtens haar statuten de belangenbehartiging van werknemers beoogt.
+- *werknemersorganisatie:* een vereniging met volledige rechtsbevoegdheid van werknemers, die krachtens haar statuten de belangenbehartiging van werknemers beoogt.
 
 2. Voor de toepassing van deze regeling wordt onder werkgeversorganisatie mede verstaan een beroepsorganisatie, zijnde een vereniging met volledige rechtsbevoegdheid van beroepsgenoten, die krachtens haar statuten de belangbehartiging van beroepsgenoten beoogt.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
+##### Artikel 2. Toepasselijkheid Kaderregeling subsidies en benodigde formulieren
 
 1. Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1), van toepassing.
 
@@ -102,11 +103,11 @@ Besluit:
 
 ##### Artikel 5. Subsidieplafond en maximale hoeveelheid aanvragen
 
-1. Het subsidieplafond bedraagt in totaal € 30 miljoen voor aanvragen in 2026, met deelplafonds van:
+1. Het subsidieplafond bedraagt in totaal € 30 miljoen voor aanvragen in 2026, met deelplafonds van:
 
-- a. € 22 miljoen voor aanvragen gericht op de doelen als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17);
+- a. € 22 miljoen voor aanvragen gericht op de doelen als bedoeld in [artikel 3, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17);
 
-- b. € 8 miljoen primair voor aanvragen waarbij het aangevraagde subsidiebedrag voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17), en secundair voor aanvragen gericht op de doelen als bedoeld in artikel 3, tweede lid, onderdelen a tot en met e.
+- b. € 8 miljoen primair voor aanvragen waarbij het aangevraagde subsidiebedrag voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17), en secundair voor aanvragen gericht op de doelen als bedoeld in artikel 3, tweede lid, onderdelen a tot en met e.
 
 2. Per samenwerkingsverband wordt in een aanvraagtijdvak voor maximaal twee aanvragen subsidie verleend.
 
@@ -116,15 +117,15 @@ Besluit:
 
 ##### Artikel 6. Aanvraagtijdvakken
 
-1. Het eerste aanvraagtijdvak loopt van 23 mei 2022 9.00 uur tot en met 24 juni 2022 17.00 uur.
+1. Het eerste aanvraagtijdvak loopt van 23 mei 2022 9.00 uur tot en met 24 juni 2022 17.00 uur.
 
-2. Het tweede aanvraagtijdvak loopt van 27 mei 2024 9.00 uur tot en met 21 juni 2024 17.00 uur.
+2. Het tweede aanvraagtijdvak loopt van 27 mei 2024 9.00 uur tot en met 21 juni 2024 17.00 uur.
 
-3. Het derde aanvraagtijdvak loopt van 16 november 2026 9.00 uur tot en met 4 december 2026 17.00 uur.
+3. Het derde aanvraagtijdvak loopt van 16 november 2026 9.00 uur tot en met 4 december 2026 17.00 uur.
 
 ##### Artikel 7. Minimaal en maximaal aan te vragen subsidiebedrag
 
-Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan te vragen subsidiebedrag bedraagt € 3 miljoen.
+Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan te vragen subsidiebedrag bedraagt € 3 miljoen.
 
 ##### Artikel 8. Looptijd van de activiteiten
 
@@ -136,7 +137,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 1. Een subsidieaanvraag wordt ingediend door middel van een elektronisch aanvraagformulier ondertekend door een daartoe bevoegd functionaris van de hoofdaanvrager. Onderdeel van de aanvraag is in ieder geval:
 
-- a. een activiteitenplan dat, in aanvulling op [artikel 3.4 van de Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), voldoet aan de eisen die worden gesteld in de bij deze regeling behorende bijlage;
+- a. een activiteitenplan dat, in aanvulling op [artikel 3.4 van de Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), voldoet aan de eisen die worden gesteld in de bij deze regeling behorende [bijlage](https://wetten.overheid.nl/BWBR0046626);
 
 - b. een beschrijving van de wijze waarop de activiteit door middel van een eenmalige subsidie als bedoeld in deze regeling, een eindproduct kan opleveren dat een bijdrage levert aan de overdracht van kennis als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17), dat voor een ieder beschikbaar is en waarvan een overdraagbare methodiek of interventieomschrijving in ieder geval onderdeel moet zijn;
 
@@ -144,7 +145,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 - d. een onderbouwing waarom subsidie door het Rijk in de gevraagde omvang noodzakelijk is voor de activiteit waarvoor subsidie is aangevraagd;
 
-- e. voor zover de aanvraag deels ziet op een activiteit gericht op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17): een onderbouwing van welk deel van de activiteit zich op dit doel richt;
+- e. voor zover de aanvraag deels ziet op een activiteit gericht op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17): een onderbouwing van welk deel van de activiteit zich op dit doel richt;
 
 - f. een onderbouwde begroting van de kosten van de activiteiten waarvoor subsidie wordt aangevraagd, met een financieringsplan waaruit blijkt hoe de activiteiten gefinancierd worden en hoe de verdeling van kosten en van de subsidie, waaronder de in [artikel 16, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17), bedoeld toeslag, tussen partijen in het samenwerkingsverband is; en
 
@@ -158,7 +159,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 ##### Artikel 10. Volledigheid subsidieaanvraag
 
-1. Na indiening van een aanvraag controleert de Minister of alle in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17), genoemde stukken aanwezig zijn. Indien een onvolledige aanvraag ten minste een week voor sluiting van het aanvraagtijdvak is ingediend, dan deelt de Minister de onvolledigheid voor sluiting van het aanvraagtijdvak mee aan de aanvrager.
+1. Na indiening van een aanvraag controleert de Minister of alle in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17), genoemde stukken aanwezig zijn. Indien een onvolledige aanvraag ten minste een week voor sluiting van het aanvraagtijdvak is ingediend, dan deelt de Minister de onvolledigheid voor sluiting van het aanvraagtijdvak mee aan de aanvrager.
 
 2. Een aanvraag kan tot sluiting van het aanvraagtijdvak worden aangepast of aangevuld. Na sluiting van het aanvraagtijdvak is aanpassing of wijziging niet meer mogelijk. Onvolledige aanvragen worden buiten behandeling gelaten.
 
@@ -196,19 +197,41 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 5. Het beschikbare subsidiebedrag wordt na beoordeling van de subsidieaanvragen en hun onderlinge afweging gerangschikt, waarbij de Minister aan de hand van de criteria en puntentoekenning voorrang geeft aan subsidieaanvragen voor activiteiten die naar verwachting meer geschikt zijn om bij te dragen aan de doelstellingen van de regeling.
 
+##### Artikel 11a. Oriënterend adviesgesprek
+
+1. De Minister stelt een partij als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17), die voornemens is deel te nemen aan een samenwerkingsverband, namens dat samenwerkingsverband in de gelegenheid om middels een daartoe strekkend verzoek met het adviespanel, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=12&z=2026-07-17&g=2026-07-17) een oriënterend adviesgesprek over de voorgenomen activiteiten te voeren.
+
+2. Het verzoek om een oriënterend adviesgesprek wordt met gebruikmaking van een door de Minister vastgesteld formulier langs elektronische weg ingediend. Bij het verzoek is een omschrijving van de voorgenomen activiteiten opgenomen dat:
+
+- a. in het Nederlands is opgesteld, uit maximaal drie pagina’s bestaat en waarbij het lettertype Arial, lettergrootte 10 en regelafstand 1,0 is gebruikt;
+
+- b. een opgave bevat van de partijen die deel gaan nemen aan het samenwerkingsverband;
+
+- c. uiteen zet wat de probleemanalyse is;
+
+- d. een omschrijving bevat van de kennis die wordt gebruikt als basis voor de activiteiten;
+
+- e. een omschrijving bevat van de methodieken en interventies en de manier waarop deze worden onderzocht;
+
+- f. een omschrijving bevat van de beoogde kennis die wordt ontwikkeld door de activiteiten.
+
+3. Een verzoek tot een oriënterend adviesgesprek kan worden ingediend van 24 augustus 2026 9.00 uur tot en met 11 september 2026 17.00 uur.
+
+4. Het adviespanel voert een oriënterend adviesgesprek binnen twee tot zes weken na afloop van het tijdvak, bedoeld in het derde lid, met een partij als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17), als die een complete aanvraag heeft ingediend. Het adviespanel nodigt die partij ten minste één week van tevoren voor dat oriënterende adviesgesprek uit.
+
 ##### Artikel 12. Adviespanel
 
 1. De Minister stelt een adviespanel in dat tot taak heeft:
 
-- a. de Minister te adviseren over de beoordeling van de aanvragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17);
+- a. de Minister te adviseren over de beoordeling van de aanvragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17);
 
-- b. de oriënterende adviesgesprekken te voeren, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17).
+- b. de oriënterende adviesgesprekken te voeren, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17).
 
 2. Het adviespanel:
 
-- a. beoordeelt subsidieaanvragen op basis van de criteria, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2026-07-17&g=2026-07-17), en de weigeringsgrond, bedoeld in [artikel 15, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=15&z=2026-07-17&g=2026-07-17);
+- a. beoordeelt subsidieaanvragen op basis van de criteria, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2026-07-17&g=2026-07-17), en de weigeringsgrond, bedoeld in [artikel 15, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=15&z=2026-07-17&g=2026-07-17);
 
-- b. voert oriënterende adviesgesprekken op basis van de informatie, bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17) en hetgeen tijdens het oriënterend adviesgesprek naar voren wordt gebracht.
+- b. voert oriënterende adviesgesprekken op basis van de informatie, bedoeld in [artikel 11a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a&z=2026-07-17&g=2026-07-17) en hetgeen tijdens het oriënterend adviesgesprek naar voren wordt gebracht.
 
 ##### Artikel 13. Samenwerkingsverband
 
@@ -238,15 +261,15 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 ##### Artikel 14. Subsidieverlening
 
-1. De Minister besluit binnen 22 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=6&z=2026-07-17&g=2026-07-17), op de in dat tijdvak ingediende subsidieaanvragen.
+1. De Minister besluit binnen 22 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 6, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=6&z=2026-07-17&g=2026-07-17), op de in dat tijdvak ingediende subsidieaanvragen.
 
-2. De Minister verleent de subsidie in volgorde van rangschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2026-07-17&g=2026-07-17), waarbij de minister achtereenvolgens:
+2. De Minister verleent de subsidie in volgorde van rangschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11&z=2026-07-17&g=2026-07-17), waarbij de minister achtereenvolgens:
 
-- a. alle ingediende subsidieaanvragen voor subsidie in aanmerking laat komen totdat het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) is bereikt;
+- a. alle ingediende subsidieaanvragen voor subsidie in aanmerking laat komen totdat het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) is bereikt;
 
-- b. alleen ingediende subsidieaanvragen voor subsidie in aanmerking laat komen waaraan nog geen subsidie op grond van onderdeel a is verleend en waarbij het aangevraagde subsidiebedrag voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17), totdat het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) is bereikt;
+- b. alleen ingediende subsidieaanvragen voor subsidie in aanmerking laat komen waaraan nog geen subsidie op grond van onderdeel a is verleend en waarbij het aangevraagde subsidiebedrag voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3&z=2026-07-17&g=2026-07-17), totdat het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) is bereikt;
 
-- c. alle ingediende subsidieaanvragen voor subsidie in aanmerking laat komen waaraan nog geen subsidie op grond van onderdeel a of b is verleend als het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) niet is bereikt, totdat dit subsidiedeelplafond wel is bereikt.
+- c. alle ingediende subsidieaanvragen voor subsidie in aanmerking laat komen waaraan nog geen subsidie op grond van onderdeel a of b is verleend als het subsidiedeelplafond bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=5&z=2026-07-17&g=2026-07-17) niet is bereikt, totdat dit subsidiedeelplafond wel is bereikt.
 
 3. De subsidie wordt verleend aan de hoofdaanvrager.
 
@@ -262,7 +285,7 @@ Het minimum aan te vragen subsidiebedrag bedraagt € 750.000 en het maximum aan
 
 7. Bij de subsidieverlening wordt aan de hoofdaanvrager een voorschot van 25% van de toegekende subsidie verleend.
 
-8. De hoofdaanvrager kan bij indiening van het eerste en het tweede tussentijdse voortgangsverslag, als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), de Minister verzoeken opnieuw een voorschot van 25% van de toegekende subsidie te verlenen. De aanspraak op een voorschot vervalt indien het tussentijdse voortgangsverslag niet voldoet aan [artikel 20, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), of, later dan de termijn, als bedoeld in artikel 20, eerste lid, wordt ingediend.
+8. De hoofdaanvrager kan bij indiening van het eerste en het tweede tussentijdse voortgangsverslag, als bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), de Minister verzoeken opnieuw een voorschot van 25% van de toegekende subsidie te verlenen. De aanspraak op een voorschot vervalt indien het tussentijdse voortgangsverslag niet voldoet aan [artikel 20, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), of, later dan de termijn, als bedoeld in artikel 20, eerste lid, wordt ingediend.
 
 ##### Artikel 15. Weigeringsgronden
 
@@ -302,7 +325,7 @@ rechtstreeks aan de uitvoering van de activiteit zijn toe te rekenen.
 
 3. Voor externe opdrachten wordt de marktconformiteit van de kosten bepaald door:
 
-- a. een offerteprocedure waarbij ten minste drie offertes zijn aangevraagd en beoordeeld door de subsidieaanvrager, indien deze kosten meer bedragen dan € 50.000; of
+- a. een offerteprocedure waarbij ten minste drie offertes zijn aangevraagd en beoordeeld door de subsidieaanvrager, indien deze kosten meer bedragen dan € 50.000; of
 
 - b. een transparante, objectieve en niet-discriminatoire aanbestedingsprocedure.
 
@@ -331,6 +354,20 @@ rechtstreeks aan de uitvoering van de activiteit zijn toe te rekenen.
 - b. over de meerderheid van de stemmen beschikt die aan de door de organisatie uitgegeven aandelen zijn verbonden; of
 
 - c. meer dan de helft van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van de organisatie kan benoemen.
+
+##### Artikel 16a. Integrale kostensystematiek
+
+1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) kan het samenwerkingsverband voor een of meer deelnemers aan het samenwerkingsverband voor de berekening van de hoogte van de subsidiabele kosten gebruik maken van de integrale kostensystematiek.
+
+2. Indien het samenwerkingsverband de integrale kostensystematiek hanteert voor een of meer deelnemers dan komen, in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17), voor de subsidie van activiteiten verricht door of in opdracht van deze deelnemers slechts de volgende kosten in aanmerking:
+
+- a. de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager vermenigvuldigd met het aantal eenheden van de kostendragers;
+
+- b. externe kosten voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) is van overeenkomstige toepassing op deze externe kosten;
+
+- c. kosten van een controleverklaring als bedoeld in de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), en [21, vierde](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=21&z=2026-07-17&g=2026-07-17), en de kosten van een rapport van feitelijke bevindingen als bedoeld in artikel 21, vijfde lid, voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) is van overeenkomstige toepassing op de kosten van een controleverklaring.
+
+3. De kosten die ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17), in aanmerking komen voor subsidie vanwege activiteiten verricht door of in opdracht van andere deelnemers komen niet in aanmerking voor de kosten, bedoeld in het tweede lid.
 
 ##### Artikel 17. Niet subsidiabele kosten
 
@@ -386,7 +423,7 @@ Niet voor subsidie komen in aanmerking:
 
 2. In het tussentijds voortgangsverslag wordt de voortgang van de activiteiten beschreven en worden tussentijdse inzichten gedeeld.
 
-3. Indien de hoofdaanvrager een voorschot verzoekt als bedoeld in [artikel 14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14&z=2026-07-17&g=2026-07-17), dan is het tussentijdse voortgangsverslag voorzien van een rapport van feitelijke bevindingen opgesteld door een accountant overeenkomstig een door de Minister vastgesteld model met inachtneming van een door de Minister vastgesteld accountantsprotocol.
+3. Indien de hoofdaanvrager een voorschot verzoekt als bedoeld in [artikel 14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14&z=2026-07-17&g=2026-07-17), dan is het tussentijdse voortgangsverslag voorzien van een rapport van feitelijke bevindingen opgesteld door een accountant overeenkomstig een door de Minister vastgesteld model met inachtneming van een door de Minister vastgesteld accountantsprotocol.
 
 4. De hoofdaanvrager overlegt binnen drie maanden na ontvangst van de beschikking tot subsidieverlening een kopie van de opdrachtbevestiging of een andere schriftelijke mededeling, waarin de toepassing en naleving van het controleprotocol, dat naar aanleiding van de in de beschikking tot subsidieverlening opgenomen verplichting als bedoeld in het tweede lid is opgesteld, door de controlerend accountant wordt bevestigd.
 
@@ -402,9 +439,9 @@ Niet voor subsidie komen in aanmerking:
 
 4. De aanvraag tot vaststelling van de subsidie gaat vergezeld van een controleverklaring opgesteld door een accountant, overeenkomstig een door de Minister vastgesteld model met inachtneming van een door de Minister vastgesteld accountantsprotocol.
 
-5. Indien een of meer deelnemers aan het samenwerkingsverband de integrale kostensystematiek, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16a&z=2026-07-17&g=2026-07-17), toepast, dan gaat de aanvraag tot vaststelling van de subsidie vergezeld van een afschrift van een rapport van feitelijke bevindingen over de uitkomst van het onderzoek van een accountant betreffende de door deelnemer of deelnemers gehanteerde integrale kostensystematiek. Het rapport van feitelijke bevindingen voldoet aan de eisen die worden gesteld in de bij deze regeling behorende bijlage.
+5. Indien een of meer deelnemers aan het samenwerkingsverband de integrale kostensystematiek, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16a&z=2026-07-17&g=2026-07-17), toepast, dan gaat de aanvraag tot vaststelling van de subsidie vergezeld van een afschrift van een rapport van feitelijke bevindingen over de uitkomst van het onderzoek van een accountant betreffende de door deelnemer of deelnemers gehanteerde integrale kostensystematiek. Het rapport van feitelijke bevindingen voldoet aan de eisen die worden gesteld in de bij deze regeling behorende bijlage.
 
-6. Als rapport als bedoeld in het vijfde lid, wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van [Verordening (EG) nr. 1906/2006](32006R1906) van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU 2006, L 391) en, indien het samenwerkingsverband daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.
+6. Als rapport als bedoeld in het vijfde lid, wordt aangewezen een afschrift van het rapport van feitelijke bevindingen van een externe accountant inzake de actueel gebruikte methode voor berekening van de personeelskosten en indirecte kosten dat is opgesteld in het kader van Verordening (EG) nr. 1906/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2006 tot vaststelling van de regels voor de deelname van ondernemingen, onderzoekscentra en universiteiten aan acties op grond van het zevende kaderprogramma, en voor verspreiding van onderzoeksresultaten (2007–2013) (PbEU 2006, L 391) en, indien het samenwerkingsverband daarover beschikt, een afschrift van de goedkeuring door de Europese Commissie van dat rapport.
 
 7. Indien bij het indienen dan wel het controleren van de aanvraag tot vaststelling van de subsidie blijkt, dat minder dan 50% van de totale subsidiabele kosten voor een activiteit, genoemd in de beschikking tot subsidieverlening, is gerealiseerd, kan het subsidiebedrag op nihil worden vastgesteld, of naar evenredigheid worden verlaagd als naar het oordeel van de Minister geen gronden aanwezig zijn om de subsidie op nihil vast te stellen.
 
@@ -422,7 +459,7 @@ Niet voor subsidie komen in aanmerking:
 
 3. Indien de beschikking tot subsidievaststelling geheel of gedeeltelijk wordt ingetrokken, wordt het subsidiebedrag dat tot dat moment is uitgekeerd, vermeerderd met de wettelijke rente, geheel of gedeeltelijk van de subsidieaanvrager teruggevorderd.
 
-4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14&z=2026-07-17&g=2026-07-17).
+4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op de beschikking tot voorschotverlening, bedoeld in [artikel 14, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=14&z=2026-07-17&g=2026-07-17).
 
 ##### Artikel 23. Evaluatie van de regeling
 
@@ -432,142 +469,10 @@ Niet voor subsidie komen in aanmerking:
 
 ##### Artikel 24. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juni 2028.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juni 2028.
 
-2. In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 mei 2028, van toepassing op de afwikkeling van ingediende verzoeken tot vaststelling van subsidie op grond van deze regeling.
+2. In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 31 mei 2028, van toepassing op de afwikkeling van ingediende verzoeken tot vaststelling van subsidie op grond van deze regeling.
 
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
-
-## Bijlage 1. bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2022-05-04&g=2022-05-04), van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies
-
-### 1. Eisen als bedoeld in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2022-05-04&g=2022-05-04), ten aanzien van het activiteitenplan
-
-Het activiteitenplan waar in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2024-07-02&g=2024-07-02), naar wordt verwezen moet in elk geval een aantal onderdelen bevatten. In deze bijlage wordt toegelicht uit welke onderdelen dit activiteitenplan moet bestaan.
-
-### 1. Planning
-
-Het gaat hierbij in elk geval om:
-
-Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 11a. Oriënterend adviesgesprek
-
-1. De Minister stelt een partij als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17), die voornemens is deel te nemen aan een samenwerkingsverband, namens dat samenwerkingsverband in de gelegenheid om middels een daartoe strekkend verzoek met het adviespanel, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=12&z=2026-07-17&g=2026-07-17) een oriënterend adviesgesprek over de voorgenomen activiteiten te voeren.
-
-2. Het verzoek om een oriënterend adviesgesprek wordt met gebruikmaking van een door de Minister vastgesteld formulier langs elektronische weg ingediend. Bij het verzoek is een omschrijving van de voorgenomen activiteiten opgenomen dat:
-
-- a. in het Nederlands is opgesteld, uit maximaal drie pagina’s bestaat en waarbij het lettertype Arial, lettergrootte 10 en regelafstand 1,0 is gebruikt;
-
-- b. een opgave bevat van de partijen die deel gaan nemen aan het samenwerkingsverband;
-
-- c. uiteen zet wat de probleemanalyse is;
-
-- d. een omschrijving bevat van de kennis die wordt gebruikt als basis voor de activiteiten;
-
-- e. een omschrijving bevat van de methodieken en interventies en de manier waarop deze worden onderzocht;
-
-- f. een omschrijving bevat van de beoogde kennis die wordt ontwikkeld door de activiteiten.
-
-3. Een verzoek tot een oriënterend adviesgesprek kan worden ingediend van 24 augustus 2026 9.00 uur tot en met 11 september 2026 17.00 uur.
-
-4. Het adviespanel voert een oriënterend adviesgesprek binnen twee tot zes weken na afloop van het tijdvak, bedoeld in het derde lid, met een partij als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13&z=2026-07-17&g=2026-07-17), als die een complete aanvraag heeft ingediend. Het adviespanel nodigt die partij ten minste één week van tevoren voor dat oriënterende adviesgesprek uit.
-
-## Bijlage. behorend bij [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2024-07-02&g=2024-07-02), van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies
-
-### 2. Analyse en onderbouwing
-
-Ter onderbouwing van de aanvraag is het nodig inzichtelijk te maken op basis van welke bestaande kennis deze aanvraag wordt gedaan. Daarom is ten minste onderdeel van de aanvraag:
-
-### 3. Activiteitenbeschrijving
-
-Onderdeel van het activiteitenplan is vanzelfsprekend een beschrijving van de activiteiten waar het om gaat. Daarom neemt de aanvrager in het activiteitenplan op:
-
-### 4. Onderzoeksplan
-
-Tot slot is het belangrijk inzicht te geven in hoe het onderzoek wordt opgezet. Om hier goed inzicht in te krijgen, is het van belang dat in het activiteitenplan wordt beschreven:
-
-Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.
-
-##### Artikel 16a. Integrale kostensystematiek
-
-1. In afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) kan het samenwerkingsverband voor een of meer deelnemers aan het samenwerkingsverband voor de berekening van de hoogte van de subsidiabele kosten gebruik maken van de integrale kostensystematiek.
-
-2. Indien het samenwerkingsverband de integrale kostensystematiek hanteert voor een of meer deelnemers dan komen, in afwijking van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17), voor de subsidie van activiteiten verricht door of in opdracht van deze deelnemers slechts de volgende kosten in aanmerking:
-
-- a. de directe en indirecte kosten per kostendrager in een tarief per eenheid van deze kostendrager vermenigvuldigd met het aantal eenheden van de kostendragers;
-
-- b. externe kosten voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) is van overeenkomstige toepassing op deze externe kosten;
-
-- c. kosten van een controleverklaring als bedoeld in de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=20&z=2026-07-17&g=2026-07-17), en [21, vierde](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=21&z=2026-07-17&g=2026-07-17), en de kosten van een rapport van feitelijke bevindingen als bedoeld in artikel 21, vijfde lid, voor zover deze geen deel uitmaken van het tarief, bedoeld in onderdeel a. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17) is van overeenkomstige toepassing op de kosten van een controleverklaring.
-
-3. De kosten die ingevolge [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=16&z=2026-07-17&g=2026-07-17), in aanmerking komen voor subsidie vanwege activiteiten verricht door of in opdracht van andere deelnemers komen niet in aanmerking voor de kosten, bedoeld in het tweede lid.
-
-## Bijlage. behorend bij [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17), van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies
-
-Het activiteitenplan waar in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9&z=2026-07-17&g=2026-07-17), naar wordt verwezen moet in elk geval een aantal onderdelen bevatten. In deze bijlage wordt toegelicht uit welke onderdelen dit activiteitenplan moet bestaan.
-
-### 1. Planning
-
-Het gaat hierbij in elk geval om:
-
-### 2. Analyse en onderbouwing
-
-Ter onderbouwing van de aanvraag is het nodig inzichtelijk te maken op basis van welke bestaande kennis deze aanvraag wordt gedaan, en wat de urgentie van de aanvraag is. Daarom is ten minste onderdeel van de aanvraag:
-
-### 3. Activiteitenbeschrijving
-
-Onderdeel van het activiteitenplan is vanzelfsprekend een beschrijving van de activiteiten waar het om gaat. Daarom neemt de aanvrager in het activiteitenplan op:
-
-### 4. Onderzoeksplan
-
-Tot slot is het belangrijk inzicht te geven in hoe het onderzoek wordt opgezet. Om hier goed inzicht in te krijgen, is het van belang dat in het activiteitenplan wordt beschreven:
-
-## Bijlage. [behorend bij 21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=21&z=2026-07-17&g=2026-07-17), van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies
-
-Het rapport van feitelijke bevindingen wordt opgesteld in overeenstemming met de Nederlandse Standaard 4400N ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden’. In het rapport van feitelijke bevindingen rapporteert de accountant over de hieronder genoemde aspecten en aandachtspunten van de integrale kostensystematiek.
-
-| 1. Beschrijving integrale kostensystematiek | 1. Beschrijving integrale kostensystematiek |
-| --- | --- |
-| **Opzet systematiek** | **Opzet systematiek** |
-| 1.1 | Welke kostendragers gebruikt de onderzoeksinstelling in de integrale kostensystematiek? |
-| 1.2 | Hoe worden de indirecte kosten toegerekend aan de kostendragers? |
-| 1.3 | Worden de jaarlijkse tarieven op basis van de integrale kostensystematiek voorcalculatorisch vastgesteld? **Als de onderzoeksinstelling jaarlijks vooraf de tarieven vaststelt, is aan het begin van het jaar duidelijk wat de tarieven van dat jaar zijn. Deze tarieven worden gehanteerd bij de begroting en ook bij de vaststelling van projecten. Als de onderzoeksinstelling niet met voorcalculatorische tarieven werkt, dan moet de hoofdaanvrager dit toelichten**. |
-| 1.4 | Hoe worden de uitgangscijfers bepaald die voor de jaarlijkse berekening van de tarieven gebruikt worden? |
-| 1.5 | Sinds wanneer wordt deze integrale kostensystematiek door de onderzoeksinstelling toegepast? |
-| 1.6 | Is er een wijziging van de integrale kostensystematiek gepland en zo ja wanneer? |
-| **Over personeelskosten** | **Over personeelskosten** |
-| 1.7 | Is het personeel ingedeeld in tariefgroepen? Zo ja, welke? |
-| 1.8 | Hoe wordt het aantal direct productieve uren per voltijd werknemer berekend en wat is het aantal direct productieve uren per voltijd werknemer? Is dit aantal gelijk voor alle personen? Zo nee, licht toe. |
-| **Over machines en apparatuur** | **Over machines en apparatuur** |
-| 1.9 | Zijn de kosten voor machines en apparatuur onderdeel van de integrale kostensystematiek? Zo ja, geldt dat voor alle machines en apparatuur of zijn er ook machines en apparaten die in projecten als aparte post worden begroot? |
-
-| 2. Basisvoorwaarden integrale kostensystematiek | 2. Basisvoorwaarden integrale kostensystematiek |
-| --- | --- |
-| 2.1 | De toerekeningssystematiek en -principes (verdeelsleutels en -mechanismen van indirecte kosten; normen voor percentages, etc.) worden binnen de hele onderzoeksinstelling stelselmatig toegepast. |
-| 2.2 | Kosten worden op een bedrijfseconomische aanvaardbare en stelselmatige wijze aan kostendragers toegerekend. Deze toerekening is transparant en controleerbaar. |
-| 2.3 | Specifieke indirecte kosten van bepaalde activiteiten worden niet toegerekend aan andere activiteiten. **Bijvoorbeeld: specifieke indirecte kosten van onderwijsactiviteiten worden niet toegerekend aan onderzoeksactiviteiten en specifieke indirecte kosten van de marketingafdeling worden niet toegerekend aan R&D activiteiten.** |
-| 2.4 | Toerekenbare indirecte kosten worden evenredig omgeslagen over de activiteiten. |
-| 2.5 | Directe kosten worden niet nogmaals meegenomen in de indirecte kosten. |
-| 2.6 | In de systematiek zijn geen winstopslagen opgenomen. **Winstopslagen bij transacties binnen een groep worden wel in aanmerking genomen, maar alleen voor zover het gebruikelijk is die winstopslagen ook bij soortgelijke transacties buiten de groep in rekening te brengen.** |
-| 2.7 | In de systematiek zijn geen toeslagen voor risico’s opgenomen. |
-
-| 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten | 3. Niet in de integrale kostensystematiek op te nemen kostencomponenten |
-| --- | --- |
-| 3.1 | Kosten van algemene research (hieronder valt basisonderzoek, waaronder het eerste geldstroom onderzoek van universiteiten. De directe kosten van algemene research mogen niet zonder meer deel uitmaken van de integrale kostensytematiek. De indirecte kosten die aan algemene research zijn verbonden kunnen wel deel uitmaken van de systematiek, mits deze kosten evenredig worden omgeslagen over alle activiteiten). |
-| 3.2 | Kosten die al door de overheid of derden zijn of worden gefinancierd. **Bijvoorbeeld afschrijvingskosten van reeds gefinancierde gebouwen, installaties en apparatuur.** |
-| 3.3 | Kosten die het gevolg zijn van buitensporige of roekeloze uitgaven. **Van buitensporige uitgaven is sprake als de onderzoeksinstelling beduidend meer betaalt voor producten, diensten of personeel dan tegen de gangbare markttarieven, waardoor een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald.** **Bij roekeloze uitgaven gaat het om het onzorgvuldig omgaan met het selecteren van producten, diensten of personeel waardoor eveneens een vermijdbaar verlies wordt geleden of een vermijdbare hoge prijs wordt betaald.** |
-| 3.4 | Kosten die door crediteuren in rekening worden gebracht bij te laat betalen. |
-| 3.5 | Kosten van incourante voorraden. |
-| 3.6 | Kosten van vaste activa als gevolg van leegstand buiten de normale bezetting. |
-| 3.7 | Kosten van externe subsidie-adviseurs voor zover deze specifiek betrokken zijn bij de aanvraag van individuele projecten. |
-| 3.8 | Voorzieningen en reserveringen voor verliezen en schulden. **Dit betreft reserveringen en voorzieningen die niet rechtstreeks aan kosten voor normale bedrijfsuitoefening verbonden zijn. Overlopende activa en passiva zijn dus niet uitgesloten.** |
-| 3.9 | Alle indirecte belastingen, waaronder BTW, voor zover die kunnen worden teruggevorderd of verrekend. |
-| 3.10 | Bemiddelingskosten, transactiekosten en provisies bij het afsluiten van leningen. |
-| 3.11 | Bemiddelingskosten, transactiekosten en provisies bij het beleggen van geld. |
-| 3.12 | Rentekosten, met uitzondering van rente voor gebouwen en technische installaties, mits toerekenbaar aan de subsidiabele activiteiten. |
-| 3.13 | Rekenrente op met eigen vermogen gefinancierde activa. **Voor universiteiten geldt hier een uitzondering, voor zover activa van universiteiten beslag leggen op eigen vermogen en voor zover die activa toerekenbaar zijn aan de subsidiabele activiteiten. Als rekenrente moet dan de 10-jaars rente van de Bank Nederlandse Gemeenten per primo van een betreffend jaar gehanteerd worden.** |
-| 3.14 | Wisselkoersverliezen. |
-
-Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.

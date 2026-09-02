@@ -1,60 +1,36 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 11 maart 2022, nr. 3849015, houdende de bekendmaking van een beleidsregel voor coulance bij de toepassing van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 (Beleidsregel coulance wateroverlast in juli 2021)"
+citeertitel: "Beleidsregel coulance wateroverlast in juli 2021"
 identifier: "BWBR0046421"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-03-15"
-last_updated: "2022-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046421"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "16297163"
-version_id: "28475452"
-internal_id: "C40177161"
-label_id: "16222844"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046421/2022-03-15/0"
-intitule_bron: "Stcrt.2022-6099"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-11"
-intitule_published: "2022-03-14"
-intitule_in_force: "2022-03-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-6099"
-original_signed_date: "2022-03-11"
-original_published_date: "2022-03-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-6099"
-entry_into_force_date: "2022-03-15"
-jci_1_3: "jci1.3:c:BWBR0046421&z=2022-03-15&g=2022-03-15"
-jci_1_0: "1.0:c:BWBR0046421&g=2022-03-15"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel coulance wateroverlast in juli 2021"
-signed_date: "2022-03-11"
-entry_into_force: "2022-03-15"
+publicatiedatum: 2022-03-15
+laatste_update: 2022-03-15
+status: geldig
+toestand: 2022-03-15
+bron: "https://wetten.overheid.nl/BWBR0046421"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 11 maart 2022, nr. 3849015, houdende de bekendmaking van een beleidsregel voor coulance bij de toepassing van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021 (Beleidsregel coulance wateroverlast in juli 2021)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045602);
-
-Besluit:
 
 ##### Artikel 1
 
 Voor deze beleidsregel wordt verstaan onder:
 
-- a. **gedupeerde:** degene die een melding als bedoeld in [artikel 17, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&artikel=17), heeft gedaan om in aanmerking te komen voor een tegemoetkoming in de schade;
+- a. *gedupeerde:* degene die een melding als bedoeld in [artikel 17, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&artikel=17), heeft gedaan om in aanmerking te komen voor een tegemoetkoming in de schade;
 
-- b. **Minister:** de Minister van Justitie en Veiligheid;
+- b. *Minister:* de Minister van Justitie en Veiligheid;
 
-- c. **Regeling:** [Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045602) (Staatscourant 2021, 40211);
+- c. *Regeling:*
+ [Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045602) (Staatscourant 2021, 40211);
 
-- d. **schade:** schade en kosten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046421&artikel=3&z=2022-03-15&g=2022-03-15) die in het schadegebied zijn ontstaan als rechtstreeks en onmiddellijk gevolg van extreem zware regenval, overstroming of afstromend water in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in de periode van 13 juli tot en met 20 juli 2021;
+- d. *schade:* schade en kosten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046421&artikel=3&z=2022-03-15&g=2022-03-15) die in het schadegebied zijn ontstaan als rechtstreeks en onmiddellijk gevolg van extreem zware regenval, overstroming of afstromend water in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in de periode van 13 juli tot en met 20 juli 2021;
 
-- e. **schadegebied:** de gebieden, die zijn ingekleurd op de kaart die is opgenomen als [bijlage bij de Regeling](onbekend);
+- e. *schadegebied:* de gebieden, die zijn ingekleurd op de kaart die is opgenomen als [bijlage bij de Regeling](https://wetten.overheid.nl/BWBR0045602);
 
-- f. **wet:** [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637).
+- f. *wet:*
+ [Wet tegemoetkoming schade bij rampen](https://wetten.overheid.nl/jci1.3:c:BWBR0009637).
 
 ##### Artikel 2
 
@@ -68,7 +44,7 @@ De Minister kan, met inachtneming van het bepaalde in de [artikelen 3 tot en met
 
 ##### Artikel 4
 
-1. De gedupeerde dient uiterlijk 16 december 2021 een melding als bedoeld in [artikel 17, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&artikel=17) te hebben ingediend bij de Rijksdienst voor Ondernemend Nederland.
+1. De gedupeerde dient uiterlijk 16 december 2021 een melding als bedoeld in [artikel 17, eerste lid, van de Regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&artikel=17) te hebben ingediend bij de Rijksdienst voor Ondernemend Nederland.
 
 2. De gedupeerde dient op verzoek van de Rijksdienst voor Ondernemend Nederland door middel van het overleggen van zijn verzekeringspolis dan wel een afwijzend besluit van zijn verzekeraar aan te tonen dat hij niet verzekerd was voor de schade terwijl deze wel redelijkerwijs verzekerbaar was.
 

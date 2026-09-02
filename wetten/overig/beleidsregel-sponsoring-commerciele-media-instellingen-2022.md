@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregel sponsoring commerciële media-instellingen 2022"
 identifier: "BWBR0046664"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-05-18"
-last_updated: "2022-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046664"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16360903"
-version_id: "28632382"
-internal_id: "C40396911"
-label_id: "16285294"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046664/2022-05-18/0"
-intitule_bron: "Stcrt.2022-12446"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-05-17"
-intitule_in_force: "2022-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-12446"
-original_published_date: "2022-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-12446"
-entry_into_force_date: "2022-05-18"
-jci_1_3: "jci1.3:c:BWBR0046664&z=2022-05-18&g=2022-05-18"
-jci_1_0: "1.0:c:BWBR0046664&g=2022-05-18"
-citeertitel_status: "officieel"
-entry_into_force: "2022-05-18"
+publicatiedatum: 2022-05-18
+laatste_update: 2022-05-18
+status: geldig
+toestand: 2022-05-18
+bron: "https://wetten.overheid.nl/BWBR0046664"
+opgehaald: 2026-09-02
 ---
+
 # Beleidsregel sponsoring commerciële media-instellingen 2022
-
-Gelet op [afdeling 3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&afdeling=3.2.3) en de [artikelen 3.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), [3.29d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29d), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,27 +23,28 @@ Deze beleidsregel is van toepassing op het media-aanbod van commerciële media-i
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **wet:** [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- – *wet:*
+ [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- –. **media-aanbod:** programma-aanbod (televisie en radio) en audiovisueel media-aanbod op aanvraag (VOD-diensten en video);
+- – *media-aanbod:* programma-aanbod (televisie en radio) en audiovisueel media-aanbod op aanvraag (VOD-diensten en video);
 
-- –. **video:** audiovisueel media-aanbod op aanvraag dat door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload.
+- – *video:* audiovisueel media-aanbod op aanvraag dat door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload.
 
 ##### Artikel 3. Verbod op sponsoring
 
 1. Media-aanbod bestaande uit nieuws, actualiteiten of politieke informatie wordt niet gesponsord ([artikel 3.15, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.15)).
 
-2. Onder media-aanbod bestaande uit **nieuws** wordt verstaan: media-aanbod dat bestaat uit het brengen van nieuwsfeiten die eventueel beperkt worden geduid en (live) verslagen van nieuwswaardige gebeurtenissen.
+2. Onder media-aanbod bestaande uit *nieuws* wordt verstaan: media-aanbod dat bestaat uit het brengen van nieuwsfeiten die eventueel beperkt worden geduid en (live) verslagen van nieuwswaardige gebeurtenissen.
 
-3. Onder media-aanbod bestaande uit **actualiteiten** wordt verstaan: media-aanbod dat bestaat uit het verder uitdiepen, duiden en in een context plaatsen van nieuwsfeiten van dat moment.
+3. Onder media-aanbod bestaande uit *actualiteiten* wordt verstaan: media-aanbod dat bestaat uit het verder uitdiepen, duiden en in een context plaatsen van nieuwsfeiten van dat moment.
 
 4. Onder media-aanbod bestaande uit nieuws en actualiteiten wordt in elk geval niet verstaan:
 
-- –. media-aanbod bestaande uit een weerbericht;
+- – media-aanbod bestaande uit een weerbericht;
 
-- –. media-aanbod bestaande uit verkeersinformatie.
+- – media-aanbod bestaande uit verkeersinformatie.
 
-5. Onder media-aanbod bestaande uit**politieke informatie** wordt verstaan: media-aanbod waarin wordt bericht over politici, (standpunten van) politieke partijen en het politieke besluitvormingsproces.
+5. Onder media-aanbod bestaande uit*politieke informatie* wordt verstaan: media-aanbod waarin wordt bericht over politici, (standpunten van) politieke partijen en het politieke besluitvormingsproces.
 
 ### Hoofdstuk 2. Reikwijdte begrip sponsoring
 
@@ -78,13 +56,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. die door een derde in bruikleen is gegeven; of
 
-- b. waarvan de waarde in verhouding tot de totale kosten van de totstandkoming of aankoop van het media-aanbod van ondergeschikte betekenis is, maar in ieder geval niet hoger dan € 1.000,– per televisieprogramma en € 200,– per radioprogramma.
+- b. waarvan de waarde in verhouding tot de totale kosten van de totstandkoming of aankoop van het media-aanbod van ondergeschikte betekenis is, maar in ieder geval niet hoger dan € 1.000,– per televisieprogramma en € 200,– per radioprogramma.
 
 3. De naam van degene die een bijdrage als bedoeld in het tweede lid verstrekt, wordt uitsluitend vermeld of vertoond:
 
 - a. op een neutrale wijze aan het begin of einde van het media-aanbod; en
 
-- b. gecombineerd met niet meer dan de woorden ‘**met dank aan**’.
+- b. gecombineerd met niet meer dan de woorden ‘*met dank aan*’.
 
 4. Dit artikel is niet van toepassing op bijdragen die worden verstrekt ten behoeve van de totstandkoming van video’s.
 
@@ -94,29 +72,29 @@ In deze beleidsregel wordt verstaan onder:
 
 Bij de toepassing van [artikel 3.16, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.16) wordt verstaan onder:
 
-- a. **naam:** de statutaire naam of handelsnaam van de sponsor of evenementensponsor;
+- a. *naam:* de statutaire naam of handelsnaam van de sponsor of evenementensponsor;
 
-- b. **(beeld)merk:** benamingen, tekeningen, letters, cijfers, vormen van waren of van verpakkingen en alle andere voor grafische voorstelling vatbare tekens die dienen om de sponsor of evenementensponsor te onderscheiden van andere partijen;
+- b. *(beeld)merk:* benamingen, tekeningen, letters, cijfers, vormen van waren of van verpakkingen en alle andere voor grafische voorstelling vatbare tekens die dienen om de sponsor of evenementensponsor te onderscheiden van andere partijen;
 
-- c. **ander onderscheidend teken van de sponsor:** ieder ander teken waarmee de sponsor of evenementensponsor kan worden onderscheiden.
+- c. *ander onderscheidend teken van de sponsor:* ieder ander teken waarmee de sponsor of evenementensponsor kan worden onderscheiden.
 
 ##### Artikel 6. Vormgeving van de sponsorvermelding
 
 1. Bij gesponsord media-aanbod wordt aan het begin of het einde daarvan duidelijk vermeld dat en door wie het media-aanbod is gesponsord ([artikel 3.16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.16)). Hieraan wordt in ieder geval voldaan als bij deze vermelding gebruik wordt gemaakt van een van de volgende teksten:
 
-- a. **dit programma is (mede) mogelijk gemaakt door;**
+- a. *dit programma is (mede) mogelijk gemaakt door;*
 
-- b. **deze video is (mede) mogelijk gemaakt door;**
+- b. *deze video is (mede) mogelijk gemaakt door;*
 
-- c. **dit programma is gesponsord door;**
+- c. *dit programma is gesponsord door;*
 
-- d. **deze video is gesponsord door;**
+- d. *deze video is gesponsord door;*
 
-- e. **voor dit programma ben ik betaald door;**
+- e. *voor dit programma ben ik betaald door;*
 
-- f. **voor deze video ben ik betaald door;** of
+- f. *voor deze video ben ik betaald door;* of
 
-- g. **de volgende producten heb ik gekregen van;**
+- g. *de volgende producten heb ik gekregen van;*
 
 mits deze vermelding bij video’s ook is opgenomen in de bijbehorende beschrijving.
 
@@ -166,6 +144,6 @@ Het vermelden en vertonen van de sponsor in het media-aanbod mag het publiek nie
 
 2. De [Beleidsregels sponsoring commerciële media-instellingen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031834) wordt ingetrokken.
 
-3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media ([www.cvdm.nl](onbekend)).
+3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media (www.cvdm.nl).
 
 4. Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Staatscourant.

@@ -1,57 +1,28 @@
 ---
 title: "Wet van 22 juni 2022, houdende tijdelijke regels inzake instelling van een Nationaal Groeifonds (Tijdelijke wet Nationaal Groeifonds)"
+citeertitel: "Tijdelijke wet Nationaal Groeifonds"
 identifier: "BWBR0046840"
-country: "nl"
-rank: "wet"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046840"
+categorie: "Overig"
 soort: "wet"
-stam_id: "16404113"
-version_id: "28731722"
-internal_id: "C40684161"
-label_id: "16328304"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046840/2022-08-01/0"
-intitule_bron: "Stb.2022-271"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-22"
-intitule_published: "2022-07-01"
-intitule_in_force: "2022-07-06"
-intitule_status: "goed"
-original_publication: "Stb.2022-271"
-original_signed_date: "2022-06-22"
-original_published_date: "2022-07-01"
-original_effect: "nieuwe-regeling"
-original_dossier: "35976"
-original_url_id: "stb-2022-271"
-entry_into_force_date: "2022-08-01"
-jci_1_3: "jci1.3:c:BWBR0046840&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0046840&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke wet Nationaal Groeifonds"
-signed_date: "2022-06-22"
-entry_into_force: "2022-08-01"
+publicatiedatum: 2022-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0046840"
+opgehaald: 2026-09-02
 ---
+
 # Wet van 22 juni 2022, houdende tijdelijke regels inzake instelling van een Nationaal Groeifonds (Tijdelijke wet Nationaal Groeifonds)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is om het duurzaam verdienvermogen van Nederland op de lange termijn te versterken door financiële middelen uit het Nationaal Groeifonds beschikbaar te stellen voor investeringen en daartoe tijdelijk een begrotingsfonds in te stellen als bedoeld in [artikel 2.11 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.11);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **duurzaam verdienvermogen:** het bruto binnenlands product dat Nederland op de lange termijn op structurele basis kan genereren, met oog voor een economische, sociale en milieuvriendelijke duurzame toekomst voor de aarde en voor huidige en toekomstige generaties;
+- *duurzaam verdienvermogen:* het bruto binnenlands product dat Nederland op de lange termijn op structurele basis kan genereren, met oog voor een economische, sociale en milieuvriendelijke duurzame toekomst voor de aarde en voor huidige en toekomstige generaties;
 
-- **fonds:** Nationaal Groeifonds, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2&z=2022-08-01&g=2022-08-01);
+- *fonds:* Nationaal Groeifonds, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2&z=2022-08-01&g=2022-08-01);
 
-- **Onze Ministers:** Onze Minister van Economische Zaken en Klimaat en Onze Minister van Financiën.
+- *Onze Ministers:* Onze Minister van Economische Zaken en Klimaat en Onze Minister van Financiën.
 
 ##### Artikel 2. Instelling, doel en bereik van het fonds
 
@@ -181,15 +152,15 @@ In het kader van het bereiken van het doel, genoemd in [artikel 2, tweede lid](h
 
 5. Bij ministeriële regeling van Onze Ministers worden nadere regels gesteld over onder meer de taak van de adviescommissie, de onafhankelijkheid van de leden van de adviescommissie en het afleggen van verantwoording door de adviescommissie.
 
-##### Artikel 10. Wijziging [bijlage 2 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&bijlage=2)
+##### Artikel 10. Wijziging bijlage 2 Awb
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
 ##### Artikel 11. Evaluatie
 
-Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van [deze wet](https://wetten.overheid.nl/BWBR0046840) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [deze wet](https://wetten.overheid.nl/BWBR0046840) in de praktijk.
 
-##### Artikel 12. Vervallen bepalingen [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en overgangsrecht
+##### Artikel 12. Vervallen bepalingen Comptabiliteitswet 2016 en overgangsrecht
 
 1. Onder vervanging van de puntkomma aan het slot van het vijfde lid, onderdeel d, van [artikel 2.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1) door een punt, vervallen [artikel 2.1, vijfde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.1), en [artikel 4.3, vierde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.3).
 
@@ -197,12 +168,10 @@ Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet aan d
 
 ##### Artikel 13. Inwerkingtredings- en vervalbepaling en overgangsrecht
 
-1. Deze wet treedt in werking en vervalt op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat de wet van toepassing blijft op uitgaven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=6&z=2022-08-01&g=2022-08-01) die zijn gedaan voordat de wet vervalt.
+1. [Deze wet](https://wetten.overheid.nl/BWBR0046840) treedt in werking en vervalt op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat [de wet](https://wetten.overheid.nl/BWBR0046840) van toepassing blijft op uitgaven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=6&z=2022-08-01&g=2022-08-01) die zijn gedaan voordat [de wet](https://wetten.overheid.nl/BWBR0046840) vervalt.
 
-2. Na zes jaar na het tijdstip van inwerkingtreding van deze wet worden geen financiële middelen beschikbaar gesteld als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2&z=2022-08-01&g=2022-08-01), voor het doen van nieuwe investeringen.
+2. Na zes jaar na het tijdstip van inwerkingtreding van [deze wet](https://wetten.overheid.nl/BWBR0046840) worden geen financiële middelen beschikbaar gesteld als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046840&artikel=2&z=2022-08-01&g=2022-08-01), voor het doen van nieuwe investeringen.
 
 ##### Artikel 14. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet Nationaal Groeifonds.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

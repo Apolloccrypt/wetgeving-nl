@@ -1,64 +1,38 @@
 ---
 title: "Regeling productiekosten bijzondere uitgaven"
 identifier: "BWBR0047158"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-10-04"
-last_updated: "2022-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047158"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16484743"
-version_id: "28888382"
-internal_id: "C40894531"
-label_id: "16406594"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047158/2022-10-04/0"
-intitule_bron: "Stcrt.2022-24447"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-09-16"
-intitule_in_force: "2022-09-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24447"
-original_published_date: "2022-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-24447"
-entry_into_force_date: "2022-10-04"
-jci_1_3: "jci1.3:c:BWBR0047158&z=2022-10-04&g=2022-10-04"
-jci_1_0: "1.0:c:BWBR0047158&g=2022-10-04"
-citeertitel_status: "officieel"
-entry_into_force: "2022-10-04"
+publicatiedatum: 2022-10-04
+laatste_update: 2022-10-04
+status: geldig
+toestand: 2022-10-04
+bron: "https://wetten.overheid.nl/BWBR0047158"
+opgehaald: 2026-09-02
 ---
+
 # Regeling productiekosten bijzondere uitgaven
-
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **algemeen reglement:** [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735);
+- *algemeen reglement:*
+ [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735);
 
-- **bestuur:** het bestuur van het Letterenfonds;
+- *bestuur:* het bestuur van het Letterenfonds;
 
-- **het Letterenfonds:** Stichting Nederlands Letterenfonds;
+- *het Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- **uitgave:** een op de Nederlandse markt uitgebracht literair boek in het Nederlands, het Fries en in gebarentaal waarvoor aanvrager een uitgave-overeenkomst heeft afgesloten;
+- *uitgave:* een op de Nederlandse markt uitgebracht literair boek in het Nederlands, het Fries en in gebarentaal waarvoor aanvrager een uitgave-overeenkomst heeft afgesloten;
 
-- **uitgave-overeenkomst:** een overeenkomst tussen uitgever en auteur en de vertaler betreffende de exploitatierechten op een uitgave met minimaal de bepalingen over het royalty-percentage en de licentie, zoals geregeld in het Modelcontract van de Literaire Uitgeversgroep en Auteursbond voor de uitgave van een literair werk of een vertaling;
+- *uitgave-overeenkomst:* een overeenkomst tussen uitgever en auteur en de vertaler betreffende de exploitatierechten op een uitgave met minimaal de bepalingen over het royalty-percentage en de licentie, zoals geregeld in het Modelcontract van de Literaire Uitgeversgroep en Auteursbond voor de uitgave van een literair werk of een vertaling;
 
-- **uitgeverij:** een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literair werk;
+- *uitgeverij:* een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literair werk;
 
-- **Nederland:** het Koninkrijk der Nederlanden;
+- *Nederland:* het Koninkrijk der Nederlanden;
 
-- **subsidie:** subsidie in de productiekosten van een uitgave.
+- *subsidie:* subsidie in de productiekosten van een uitgave.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -104,7 +78,7 @@ Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door le
 
 De aanvraag wordt beoordeeld op de volgende criteria:
 
-**algemeen:**
+*algemeen:*
 
 - a. de kwaliteit van de aanvraag.
 
@@ -118,19 +92,19 @@ De aanvraag wordt beoordeeld op de volgende criteria:
 
 - f. de kwaliteit van de redactie.
 
-**geïllustreerd:**
+*geïllustreerd:*
 
 - a. de stijl van de illustraties, het taalgebruik en de inhoud zijn op dezelfde leeftijdsgroep gericht.
 
 - b. er bestaat een goede samenhang tussen de tekst, de illustraties en de vormgeving.
 
-**niet geïllustreerd:**
+*niet geïllustreerd:*
 
 de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te verwachten publieksbereik.
 
 ##### Artikel 8. Hoogte van de subsidie
 
-1. De subsidie bedraagt maximaal € 20.000 per uitgave.
+1. De subsidie bedraagt maximaal € 20.000 per uitgave.
 
 2. De subsidie is niet hoger dan het verschil tussen de in aanmerking komende kosten en de gedisconteerde inkomsten van de uitgave, noch hoger dan 70% van de in aanmerking komende kosten. De inkomsten worden in mindering gebracht op de in aanmerking komende kosten na ontvangst van de nacalculatie.
 
@@ -138,7 +112,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 ##### Artikel 9. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
-1. De aanvraagperiode loopt vanaf 4 oktober 2022.
+1. De aanvraagperiode loopt vanaf 4 oktober 2022.
 
 2. Het bestuur behandelt de aanvragen in volgorde van ontvangst van de aanvragen door het Letterenfonds.
 
@@ -166,7 +140,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 2. Indien de aanvraag wordt gehonoreerd, zendt de subsidieontvanger, voor zover dat nog niet is ingediend, binnen één maand na ontvangst van het besluit tot subsidieverlening aan het Letterenfonds, de uitgave-overeenkomst met de betrokkene(n) alsmede andere overeenkomsten, voor zover relevant.
 
-3. Indien de papieren uitgave via de uitgever binnen vier jaar na publicatie niet meer beschikbaar is, is het werk via **print on demand** of e-boek nog minimaal vier jaar leverbaar.
+3. Indien de papieren uitgave via de uitgever binnen vier jaar na publicatie niet meer beschikbaar is, is het werk via *print on demand* of e-boek nog minimaal vier jaar leverbaar.
 
 4. Het werk wordt binnen een jaar na de geplande publicatiedatum uitgebracht.
 
@@ -208,17 +182,17 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt onmiddellijk in werking met ingang van 4 oktober 2022.
+Deze regeling treedt onmiddellijk in werking met ingang van 4 oktober 2022.
 
 ##### Artikel 16. Overgangsbepalingen
 
-1. Deze regeling is door het bestuur van het Letterenfonds vastgesteld op 18 augustus 2002.
+1. Deze regeling is door het bestuur van het Letterenfonds vastgesteld op 18 augustus 2002.
 
-2. De Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven worden per 4 oktober 2022 ingetrokken.
+2. De Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven worden per 4 oktober 2022 ingetrokken.
 
 3. In afwijking van het eerste lid blijven de Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven van toepassing op, voor het tijdstip van inwerkingtreding van deze regelingen tijdig ingestelde, bezwaar- en beroepschriften.
 
-4. Voor zover op 4 oktober 2022 nog geen vaststelling heeft plaatsgevonden van verleende subsidies in het kader van de Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven, zullen deze vaststellingen plaatsvinden binnen vier weken na ontvangst van de nacalculatie.
+4. Voor zover op 4 oktober 2022 nog geen vaststelling heeft plaatsgevonden van verleende subsidies in het kader van de Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven, zullen deze vaststellingen plaatsvinden binnen vier weken na ontvangst van de nacalculatie.
 
 ##### Artikel 17. Slotbepalingen
 

@@ -1,46 +1,18 @@
 ---
 title: "Regeling van het College voor toetsen en examens van 27 juni 2022, nummer CvTE-22.00899, houdende vaststelling van het examenprotocol centrale examinering mbo 2022 (Regeling examenprotocol centrale examinering mbo 2022)"
+citeertitel: "Regeling examenprotocol centrale examinering mbo 2022"
 identifier: "BWBR0047055"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-08-19"
-last_updated: "2022-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047055"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16456973"
-version_id: "28833522"
-internal_id: "C40827051"
-label_id: "16379974"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047055/2022-08-19/0"
-intitule_bron: "Stcrt.2022-21654"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-27"
-intitule_published: "2022-08-18"
-intitule_in_force: "2022-08-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-21654"
-original_signed_date: "2022-06-27"
-original_published_date: "2022-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-21654"
-entry_into_force_date: "2022-08-19"
-jci_1_3: "jci1.3:c:BWBR0047055&z=2022-08-19&g=2022-08-19"
-jci_1_0: "1.0:c:BWBR0047055&g=2022-08-19"
-citeertitel_status: "officieel"
-short_title: "Regeling examenprotocol centrale examinering mbo 2022"
-signed_date: "2022-06-27"
-entry_into_force: "2022-08-19"
+publicatiedatum: 2022-08-19
+laatste_update: 2022-08-19
+status: geldig
+toestand: 2022-08-19
+bron: "https://wetten.overheid.nl/BWBR0047055"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van het College voor toetsen en examens van 27 juni 2022, nummer CvTE-22.00899, houdende vaststelling van het examenprotocol centrale examinering mbo 2022 (Regeling examenprotocol centrale examinering mbo 2022)
-
-Gelet op [artikel 3 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3), en [artikel 6, eerste lid, onderdeel j, van het Examen- en kwalificatiebesluit beroepsopleidingen WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6);
-
-Gezien de goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, gegeven op 14 juli 2022, kenmerk 33398565,
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **college:** het College voor toetsen en examens
+- *college:* het College voor toetsen en examens
 
-- **contactpersoon examencommissie:** door het bevoegd gezag aangewezen medewerker die het aanspreekpunt is voor het college namens de examencommissie;
+- *contactpersoon examencommissie:* door het bevoegd gezag aangewezen medewerker die het aanspreekpunt is voor het college namens de examencommissie;
 
-- **examencommissie:** examencommissie als bedoeld in [art. 7.4.5 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.5), ingesteld door het bevoegd gezag;
+- *examencommissie:* examencommissie als bedoeld in [art. 7.4.5 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.5), ingesteld door het bevoegd gezag;
 
-- **medewerker:** persoon die onder de verantwoordelijkheid van de examencommissie betrokken is bij de centrale examens, zoals afnameplanners, afnameleiders, surveillanten, medewerkers examenbureau, roostermakers;
+- *medewerker:* persoon die onder de verantwoordelijkheid van de examencommissie betrokken is bij de centrale examens, zoals afnameplanners, afnameleiders, surveillanten, medewerkers examenbureau, roostermakers;
 
-- **student:** student in de zin van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die een centraal examen aflegt.
+- *student:* student in de zin van de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) die een centraal examen aflegt.
 
 ### Hoofdstuk 2. Regels ten behoeve van geheimhouding
 
@@ -88,7 +60,7 @@ De examencommissie draagt de medewerkers op de werkzaamheden met inachtneming va
 
 ##### Artikel 3. Contactpersoon examencommissie
 
-Elk jaar voor 1 september maakt het bevoegd gezag aan het college bekend wie als contactpersoon examencommissie voor het college aanspreekpunt is.
+Elk jaar voor 1 september maakt het bevoegd gezag aan het college bekend wie als contactpersoon examencommissie voor het college aanspreekpunt is.
 
 ##### Artikel 4. Taken examencommissie
 
@@ -267,5 +239,3 @@ De [Regeling examenprotocol centrale examinering](https://wetten.overheid.nl/jci
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenprotocol centrale examinering mbo 2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

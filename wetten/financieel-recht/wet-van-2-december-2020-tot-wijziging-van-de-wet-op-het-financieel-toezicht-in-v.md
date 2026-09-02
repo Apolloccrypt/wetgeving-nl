@@ -9,7 +9,7 @@ laatste_update: 2020-12-29
 status: geldig
 toestand: 2020-12-29
 bron: "https://wetten.overheid.nl/BWBR0044471"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Wet van 2 december 2020 tot wijziging van de Wet op het financieel toezicht in verband met implementatie van Richtlijn 2019/878/EU van het Europees Parlement en de Raad van 20 mei 2019 tot wijziging van Richtlijn 2013/36/EU met betrekking tot vrijgestelde entiteiten, financiële holdings, gemengde financiële holdings, beloning, toezichtsmaatregelen en -bevoegdheden en kapitaalconserveringsmaatregelen (PbEU 2019, L 150) en ter uitvoering van Verordening (EU) 2019/876 van het Europees Parlement en de Raad van 20 mei 2019 tot wijziging van Verordening (EU) nr. 575/2013 wat betreft de hefboomratio, de nettostabielefinancieringsratio, vereisten inzake eigen vermogen en in aanmerking komende passiva, tegenpartijkredietrisico, marktrisico, blootstellingen aan centrale tegenpartijen, blootstellingen aan instellingen voor collectieve belegging, grote blootstellingen, rapportage- en openbaarmakingsvereisten, en van Verordening (EU) nr. 648/2012 (PbEU 2019, L 150) (Implementatiewet kapitaalvereisten 2020)

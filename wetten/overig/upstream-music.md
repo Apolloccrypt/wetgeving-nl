@@ -1,43 +1,17 @@
 ---
 title: "Upstream: Music"
 identifier: "BWBR0046574"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-04-20"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046574"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16331993"
-version_id: "28565842"
-internal_id: "C40309981"
-label_id: "16256934"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046574/2022-04-20/0"
-intitule_bron: "Stcrt.2022-10845"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-23"
-intitule_published: "2022-04-20"
-intitule_in_force: "2022-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-10845"
-original_signed_date: "2022-03-23"
-original_published_date: "2022-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-10845"
-entry_into_force_date: "2022-04-20"
-jci_1_3: "jci1.3:c:BWBR0046574&z=2022-04-20&g=2022-04-20"
-jci_1_0: "1.0:c:BWBR0046574&g=2022-04-20"
-citeertitel_status: "officieel"
-signed_date: "2022-03-23"
-entry_into_force: "2022-04-20"
+publicatiedatum: 2022-04-20
+laatste_update: 2022-04-20
+status: geldig
+toestand: 2022-04-20
+bron: "https://wetten.overheid.nl/BWBR0046574"
+opgehaald: 2026-09-02
 ---
+
 # Upstream: Music
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. algemene bepalingen
 
@@ -45,11 +19,11 @@ Besluit:
 
 In dit reglement wordt verstaan onder:
 
-- **bestuur:** de directeur-bestuurder van het Fonds Podiumkunsten;
+- *bestuur:* de directeur-bestuurder van het Fonds Podiumkunsten;
 
-- **Fonds Podiumkunsten:** Stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* Stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland/NL:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland/NL:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 1.2. Doel
 
@@ -79,15 +53,15 @@ Om bij te dragen aan de carrièreontwikkeling van artiesten in Nederland kent he
 
 Om in aanmerking te komen voor een bijdrage in de zin van dit reglement dient de artiest waarop de aanvraag betrekking heeft naar het oordeel van het bestuur aan de hierna volgende kenmerken te voldoen:
 
-- a). de artiest is NL-based;
+- a) de artiest is NL-based;
 
-- b). de artiest voert (hoofdzakelijk) eigen materiaal uit of materiaal dat specifiek voor de artiest wordt geschreven;
+- b) de artiest voert (hoofdzakelijk) eigen materiaal uit of materiaal dat specifiek voor de artiest wordt geschreven;
 
-- c). de artiest beschikt over een voldoende professioneel team om zich heen, waarin zowel zakelijk als artistiek sprake is van professionele begeleiding en ondersteuning;
+- c) de artiest beschikt over een voldoende professioneel team om zich heen, waarin zowel zakelijk als artistiek sprake is van professionele begeleiding en ondersteuning;
 
-- d). de artiest is al geruime tijd actief en zichtbaar als zodanig;
+- d) de artiest is al geruime tijd actief en zichtbaar als zodanig;
 
-- e). de artiest kan worden aangemerkt als zijnde (pre) mid career.
+- e) de artiest kan worden aangemerkt als zijnde (pre) mid career.
 
 ##### Artikel 2.4. Subsidiabele kosten
 
@@ -101,39 +75,39 @@ Om in aanmerking te komen voor een bijdrage in de zin van dit reglement dient de
 
 Een bijdrage op grond van deze regeling kan slechts worden verstrekt, indien naar het oordeel van het bestuur:
 
-- a). aannemelijk is dat verlening van een bijdrage noodzakelijk is voor het bereiken van het doel van de aanvraag;
+- a) aannemelijk is dat verlening van een bijdrage noodzakelijk is voor het bereiken van het doel van de aanvraag;
 
-- b). voldoende vertrouwen bestaat dat het plan naar behoren kan worden uitgevoerd;
+- b) voldoende vertrouwen bestaat dat het plan naar behoren kan worden uitgevoerd;
 
-- c). de bijdrage niet ter dekking dient van kosten die zijn gemaakt in de periode gelegen voor het besluit tot verlening van een bijdrage;
+- c) de bijdrage niet ter dekking dient van kosten die zijn gemaakt in de periode gelegen voor het besluit tot verlening van een bijdrage;
 
-- d). de aanvraag voldoet aan de vereisten, criteria en bepalingen genoemd in deze regeling.
+- d) de aanvraag voldoet aan de vereisten, criteria en bepalingen genoemd in deze regeling.
 
 ##### Artikel 2.6. Vereisten met betrekking tot fair policy
 
 Uit de aanvraag blijkt:
 
-- a). dat er sprake is van concrete en duidelijke afspraken over de rechten op te produceren materiaal tussen de bij het traject betrokken partijen;
+- a) dat er sprake is van concrete en duidelijke afspraken over de rechten op te produceren materiaal tussen de bij het traject betrokken partijen;
 
-- b). dat er sprake is van een redelijke vergoeding van artistiek betrokkenen;
+- b) dat er sprake is van een redelijke vergoeding van artistiek betrokkenen;
 
-- c). dat er sprake is van een redelijke verdeling van risico's en revenuen over de betrokken partijen.
+- c) dat er sprake is van een redelijke verdeling van risico's en revenuen over de betrokken partijen.
 
 ##### Artikel 2.7. Afwijzingsgronden
 
 Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur:
 
-- a). de aanvrager of één van de verantwoordelijke (co)producenten in het verleden ernstig in gebreke is gebleven bij een eerdere fondsaanvraag of terzake sprake is geweest van verwijtbaar handelen;
+- a) de aanvrager of één van de verantwoordelijke (co)producenten in het verleden ernstig in gebreke is gebleven bij een eerdere fondsaanvraag of terzake sprake is geweest van verwijtbaar handelen;
 
-- b). reeds eerder een aanvraag voor het betreffende traject is ingediend, deze door het bestuur is afgewezen en de aanvraag niet wezenlijk is veranderd;
+- b) reeds eerder een aanvraag voor het betreffende traject is ingediend, deze door het bestuur is afgewezen en de aanvraag niet wezenlijk is veranderd;
 
-- c). reeds eerder een bijdrage is aangevraagd en toegekend voor de betreffende artiest op grond van deze regeling en dit traject nog niet is afgerond;
+- c) reeds eerder een bijdrage is aangevraagd en toegekend voor de betreffende artiest op grond van deze regeling en dit traject nog niet is afgerond;
 
-- d). reeds eerder direct of indirect een bijdrage is toegekend voor het betreffende traject door het Fonds Podiumkunsten of vanuit het Sena Performers Muziekproductiefonds;
+- d) reeds eerder direct of indirect een bijdrage is toegekend voor het betreffende traject door het Fonds Podiumkunsten of vanuit het Sena Performers Muziekproductiefonds;
 
-- e). de financiële positie van de aanvrager of een van de betrokken financiers of deelnemers dermate onzeker is dat deze bedreigend is voor de uitvoering van de activiteiten;
+- e) de financiële positie van de aanvrager of een van de betrokken financiers of deelnemers dermate onzeker is dat deze bedreigend is voor de uitvoering van de activiteiten;
 
-- f). niet aannemelijk is dat de aanvrager aan de in dit reglement vermelde verplichtingen kan voldoen.
+- f) niet aannemelijk is dat de aanvrager aan de in dit reglement vermelde verplichtingen kan voldoen.
 
 #### Paragraaf 3. beoordeling en besluit
 
@@ -141,19 +115,19 @@ Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voor een bijdrage als:
 
-- a). er een duidelijk verband is tussen totale investering en het te behalen resultaat;
+- a) er een duidelijk verband is tussen totale investering en het te behalen resultaat;
 
-- b). het traject een zinvolle bijdrage zal leveren aan de carrièreontwikkeling van de betrokken artiest;
+- b) het traject een zinvolle bijdrage zal leveren aan de carrièreontwikkeling van de betrokken artiest;
 
-- c). aannemelijk is dat de betrokken partijen in staat zijn om het traject succesvol uit te voeren;
+- c) aannemelijk is dat de betrokken partijen in staat zijn om het traject succesvol uit te voeren;
 
-- d). aannemelijk is dat het doel van de aanvraag gerealiseerd kan worden conform de in de aanvraag begrote uitgaven en dat de begrote uitgaven redelijk en marktconform zijn;
+- d) aannemelijk is dat het doel van de aanvraag gerealiseerd kan worden conform de in de aanvraag begrote uitgaven en dat de begrote uitgaven redelijk en marktconform zijn;
 
-- e). het bij de aanvraag overgelegde financieringsplan haalbaar en solide is;
+- e) het bij de aanvraag overgelegde financieringsplan haalbaar en solide is;
 
-- f). de geprognosticeerde inkomsten realistisch en haalbaar zijn;
+- f) de geprognosticeerde inkomsten realistisch en haalbaar zijn;
 
-- g). aannemelijk is dat het traject kan leiden tot een structurele stijging van de inkomsten voor de betrokken artiest.
+- g) aannemelijk is dat het traject kan leiden tot een structurele stijging van de inkomsten voor de betrokken artiest.
 
 ##### Artikel 3.2. Hoogte en aard bijdrage
 
@@ -205,11 +179,11 @@ Het beschikbare budget wordt jaarlijks vastgesteld door het bestuur en bekendgem
 
 De ontvanger van een bijdrage meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor de bijdrage is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor de bijdrage is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet of niet geheel aan de aan de bijdrage verbonden verplichtingen zal worden voldaan; of
+- b) niet of niet geheel aan de aan de bijdrage verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan de bijdrage is verstrekt.
+- c) er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan de bijdrage is verstrekt.
 
 ##### Artikel 4.6. Verantwoording
 
@@ -223,64 +197,8 @@ De ontvanger van een bijdrage meldt onverwijld aan het bestuur als:
 
 ##### Artikel 5.1. Inwerkingtreding
 
-Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2022.
+Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2022.
 
 ##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Upstream: Music.
-
-## Upstream: music
-
-### 1. Algemeen
-
-Upstream: Music wil de ruimte maken om te investeren in de carrièreontwikkeling van artiesten die al enige tijd bezig zijn. Daar is behoefte aan omdat Nederland een relatief kleine thuismarkt heeft. Niet alleen is het daarom voor sommige artiesten lastig een redelijk inkomen te verdienen, ook is er daardoor relatief beperkt ruimte om te investeren in bijvoorbeeld het opnemen van nieuw materiaal of het ontwikkelen van een goede live-act. De kosten zijn al snel hoog wanneer die worden afgezet tegen de mogelijke opbrengsten. Zeker bij artiesten die zich niet op een heel algemeen publiek richten. Dat terwijl het investeren in het maken van en promoten van nieuw werk een belangrijke voorwaarde is om de carrière van artiesten te ontwikkelen en zo inkomsten te verwerven.
-
-Upstream: Music richt zich specifiek op dat deel van de muzieksector waar de ontwikkeling primair marktgedreven is. Het gaat om artiesten waarvoor wel een markt is, maar waar het financiële risico nog steeds dusdanig is dat de ruimte om te investeren kleiner is dan eigenlijk nodig is. Upstream: Music kan de investeringsruimte vergroten en zo een extra impuls geven aan de carrièreontwikkeling van een artiest. Doel is een structurele verbetering van het verdienmodel van de betreffende artiest.
-
-Een bijdrage vanuit Upstream: Music wordt gedeeltelijk als lening verstrekt. De terugbetaalde bedragen komen opnieuw beschikbaar voor nieuwe aanvragers. Op die manier wordt het werkkapitaal vergroot en kunnen meer trajecten worden ondersteund.
-
-Upstream: Music is een samenwerking tussen het Fonds Podiumkunsten en Sena. Voor dit programma is 600.000 euro per jaar beschikbaar. Dit budget is in gelijke delen afkomstig van het Fonds Podiumkunsten en Sena. De uitvoering wordt door het Fonds Podiumkunsten verzorgd.
-
-### 2. De hoofdlijnen
-
-Upstream: Music geeft bijdrages aan creatieve en zakelijke trajecten waarin artiesten samenwerken met een of meer andere partijen, zoals bijvoorbeeld een label, distributeur, publisher, manager, boeker, sponsor et cetera. Een deel van het bedrag wordt verstrekt als lening. Het geld dat wordt terugbetaald vloeit terug en komt dan opnieuw beschikbaar voor andere artiesten.
-
-Doel van het traject is dat de carrière van een artiest een structurele sprong maakt. Het eindpunt is dus dat er aan het einde sprake is van ‘meer’: meer publiek, meer exposure, meer optredens. Met uiteindelijk als resultaat: meer inkomsten. Plannen worden getoetst op zakelijke en formele eisen, er is geen artistieke beoordeling. Voorwaarden hebben betrekking op:
-
-### De artiest / act
-
-Upstream: Music staat open voor artiesten die Nederland als uitvalsbasis hebben. Bepalend is niet de werkelijke woonplaats van de artiest, maar de vraag of een artiest zowel artistiek als financieel als NL-based kan worden beschouwd. Upstream: Music richt zich op artiesten die materiaal spelen dat voor of door hen is geschreven. Aan alle noodzakelijke randvoorwaarden om als artiest te kunnen bouwen aan de eigen ontwikkeling, moet zijn voldaan. Een voldoende professioneel team is daarbij een voorwaarde, waarbij het afhankelijk is van de artiest en zijn werkwijze welke deskundigheden daarvoor nodig zijn.
-
-Upstream: Music richt zich op artiesten die al enige tijd bezig zijn (‘mid career'). Dit wordt niet heel direct vertaald in een eis met betrekking tot een aantal jaar dat iemand actief is, aangezien dat voor artiesten een weinig geschikte graadmeter is. Een artiest moet meerdere releases op zijn naam hebben staan, meermaals hebben getourd langs relevante grote(re) podia en festivals, een eigen fanbase hebben, substantiële media-aandacht hebben gehad etc. Een indicatie voor de fase waarin de carrière van een artiest zit, is bijvoorbeeld het aantal volgers op sociale media, aantallen gerealiseerde streams en andere elementen die een beeld geven van het bereik dat de artiest al heeft.
-
-### Het traject
-
-Een plan heeft in de kern betrekking op een creatief en zakelijk traject, waarbinnen sprake is van het verder uitbouwen van de carrière van een artiest. Onderdeel van zo’n traject kan zijn het produceren van nieuw werk (het maken van een EP, album etc.), maar ook bijvoorbeeld de investering in een liveshow of in marketing en promotie gericht op het vergroten van de inkomsten in een bepaalde markt. Concreet:
-
-### De financiering
-
-Uitgangspunt is dat Upstream: Music maximaal 50% van de kosten dekt. De bijdrage is in ieder geval nooit hoger dan 50.000 euro. De rest van de dekking moet de aanvrager dus zelf regelen. De aanvrager moet desgevraagd ook kunnen aantonen dat die andere financiering gegarandeerd beschikbaar is. Dit hoeft niet per se voordat de aanvraag wordt ingediend. Verder moeten:
-
-Alleen werkelijk geleverde goederen en diensten komen in aanmerking. Denk onder meer aan de kosten voor het opnemen van materiaal (studiohuur, honorarium muzikanten), promotiekosten (kosten videoclips, advertenties), investeren in een live-show (repetitiekosten, ontwikkelkosten etc.) en andere kosten die een directe relatie hebben met het te bereiken doel. Ook specifieke zakelijke en juridische ondersteuning, voor zover direct samenhangend met het traject, kan onderdeel van de op te voeren kosten zijn. Zowel uitgaven als inkomsten moeten redelijk en passend zijn, zowel in absolute zin als wanneer ze worden afgezet tegen omvang en doel van het traject.
-
-Eigen inzet van partijen komt niet in aanmerking (geen kapitaliseren van eigen inspanningen). Het is dus niet de bedoeling dat een partij, zoals een label, management of platenmaatschappij, interne kosten doorberekent (bijvoorbeeld inzet van de labelmanager of een vergoeding voor overhead) of een deel van het eigen investeringsrisico in rekening brengt.
-
-### De rechtenverdeling
-
-Uitgangspunt binnen de trajecten die vanuit Upstream: Music worden gefinancierd, is dat er sprake moet zijn van een redelijke verdeling van risico's en revenuen over de betrokken partijen (‘fair policy’). Leidend in de toetsing zijn de normen die hiervoor tussen vertegenwoordigers van belanghebbenden zijn overeengekomen, zoals bijvoorbeeld de Aanbevelingen artiestenovereenkomsten NVPI, Ntb en Kunstenbond. Faire afspraken zijn een voorwaarde om voor een bijdrage in aanmerking te komen.
-
-### 3. De procedure
-
-Een aanvraag kan worden ingediend door de artiest of door een professionele partij zoals een platenmaatschappij of een publisher. Voor aanvragen tot 24.999 euro geldt dat rechtspersoonlijkheid niet vereist is. Wel dient de aanvrager bedrijfsmatig actief te zijn en als zodanig ingeschreven bij de Kamer van Koophandel. Als een bijdrage van 25.000 euro of meer wordt gevraagd, is rechtspersoonlijkheid van de aanvrager vereist (bv, stichting etc.).
-
-Een deel van de bijdrage heeft de vorm van een lening. Basis is dat 30% van het bedrag de vorm van een lening heeft. De andere 70% hoeft dus niet te worden terugbetaald. In specifieke gevallen kan het Fonds het leningdeel hoger vaststellen als de te verwachten inkomsten daar aanleiding toe geven.
-
-Aanvragen worden ingediend bij en afgehandeld door het Fonds Podiumkunsten. Het Fonds voorziet in een toets of de aanvraag voldoet aan de formele voorwaarden. Voor de beoordeling van het zakelijke traject wordt gebruik gemaakt van het advies van deskundigen. Aanvragen worden beoordeeld in het perspectief van het marktsegment waarin een artiest actief is.
-
-Een bijdrage uit Upstream: Music kan pas worden uitbetaald als een uitvoeringsovereenkomst is opgesteld. In elk geval is daarvoor vereist dat de bijdrage van de aanvrager zelf en de bijdragen van eventuele derden onvoorwaardelijk beschikbaar zijn. In de uitvoeringsovereenkomst worden afspraken gemaakt over de wijze van terugbetaling. Pas na het totstandkomen van de overeenkomst kan de bijdrage worden uitbetaald. Er wordt rekening gehouden met hoe en op welk moment inkomsten worden verwacht. Als een traject minder goed verloopt dan gedacht en terugbetaling niet goed mogelijk is, kan een verzoek tot kwijtschelding van (een deel van) het leningdeel worden gedaan.
-
-### 4. Monitoring en evaluatie
-
-Monitoring en evaluatie van Upstream: Music vindt plaats in overleg tussen Fonds Podiumkunsten, SENA en het Stimuleringsfonds Creatieve Industrie.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

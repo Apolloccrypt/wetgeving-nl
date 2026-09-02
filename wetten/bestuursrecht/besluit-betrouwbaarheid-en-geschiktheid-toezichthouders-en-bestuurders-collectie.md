@@ -1,60 +1,28 @@
 ---
 title: "Besluit van 12 april 2022, houdende regels met betrekking tot de vaststelling door het College van Toezicht van de betrouwbaarheid en geschiktheid van een persoon die is of wordt belast met de taken van het orgaan dat de toezichtfunctie uitoefent of de dagelijkse leiding heeft in een collectieve beheersorganisatie en tot wijziging van het Besluit doorberekening kosten College van Toezicht (Stb. 2021, 164) in verband met een aanpassing van overwegend technische aard (Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties)"
+citeertitel: "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties"
 identifier: "BWBR0046567"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046567"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "16329903"
-version_id: "28551972"
-internal_id: "C40290871"
-label_id: "16254614"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046567/2022-07-01/0"
-intitule_bron: "Stb.2022-149"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-12"
-intitule_published: "2022-04-19"
-intitule_in_force: "2022-04-19"
-intitule_status: "goed"
-original_publication: "Stb.2022-149"
-original_signed_date: "2022-04-12"
-original_published_date: "2022-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-149"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046567&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046567&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties"
-signed_date: "2022-04-12"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046567"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 12 april 2022, houdende regels met betrekking tot de vaststelling door het College van Toezicht van de betrouwbaarheid en geschiktheid van een persoon die is of wordt belast met de taken van het orgaan dat de toezichtfunctie uitoefent of de dagelijkse leiding heeft in een collectieve beheersorganisatie en tot wijziging van het Besluit doorberekening kosten College van Toezicht (Stb. 2021, 164) in verband met een aanpassing van overwegend technische aard (Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 10 februari 2022, directie Wetgeving en Juridische Zaken, nr. 3838455;
-
-Gelet op [artikel 5aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=5aa), en [artikel 12, derde lid, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=12);
-
-De Afdeling advisering van de Raad van State gehoord 2 maart 2022, nr. W16.22.00009/II;
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 6 april 2022, directie Wetgeving en Juridische Zaken, nr. 3929568;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de wet:** de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779);
+- a. *de wet:* de [Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779);
 
-- b. **grote collectieve beheersorganisatie:** een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1), waarvan het geïnde bedrag aan vergoedingen in een bepaald kalenderjaar meer bedraagt dan € 50.000.000;
+- b. *grote collectieve beheersorganisatie:* een collectieve beheersorganisatie als bedoeld in [artikel 1, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=1), waarvan het geïnde bedrag aan vergoedingen in een bepaald kalenderjaar meer bedraagt dan € 50.000.000;
 
-- c. **persoon:** een persoon die bij een grote collectieve beheersorganisatie is of wordt belast met taken als bedoeld in de [artikelen 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2e), of [2f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f).
+- c. *persoon:* een persoon die bij een grote collectieve beheersorganisatie is of wordt belast met taken als bedoeld in de [artikelen 2e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2e), of [2f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2f).
 
 ##### Artikel 2. Toetsing voor een benoeming of herbenoeming
 
@@ -102,7 +70,7 @@ Het College van Toezicht kan de betrouwbaarheid en geschiktheid van de persoon v
 
 ##### Artikel 6. Vaststelling van de betrouwbaarheid en geschiktheid
 
-1. Het College van Toezicht stelt vast of de betrouwbaarheid van een persoon buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. Deze vaststelling heeft in elk geval betrekking op de antecedenten, genoemd in de bijlage bij dit besluit.
+1. Het College van Toezicht stelt vast of de betrouwbaarheid van een persoon buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. Deze vaststelling heeft in elk geval betrekking op de antecedenten, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0046567) bij dit besluit.
 
 2. Het College van Toezicht stelt vast of de geschiktheid van een persoon buiten twijfel staat op basis van diens kennis, vaardigheden en professioneel gedrag. De geschiktheid van die persoon blijkt in elk geval uit de opleiding, werkervaring en competenties van de persoon en de doorlopende toepassing hiervan.
 
@@ -126,50 +94,14 @@ Het College van Toezicht kan de betrouwbaarheid en geschiktheid van de persoon v
 
 - d. de overige belangen van de grote collectieve beheersorganisatie, de persoon, rechthebbenden en organisaties die rechthebbenden vertegenwoordigen.
 
-##### Artikel 7. Wijziging [Besluit doorberekening kosten College van Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0044995)
+##### Artikel 7. Wijziging Besluit doorberekening kosten College van Toezicht
 
-Wijzigt het Besluit doorberekening kosten College van Toezicht.
+*Wijzigt het Besluit doorberekening kosten College van Toezicht.*
 
 ##### Artikel 8. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2022.
+Dit besluit treedt in werking met ingang van 1 juli 2022.
 
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit betrouwbaarheid en geschiktheid toezichthouders en bestuurders collectieve beheersorganisaties.
-
-## Bijlage. als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046567&artikel=6&z=2022-07-01&g=2022-07-01)
-
-### 1. Strafrechtelijke antecedenten
-
-Er wordt geacht sprake te zijn van een of meer strafrechtelijke antecedenten bij de persoon indien, op grond van [artikel 2, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046567&artikel=2&z=2022-07-01&g=2022-07-01), van het besluit, geen verklaring omtrent het gedrag aan het College van Toezicht kan worden overgelegd.
-
-### 2. Financiële antecedenten
-
-### 2.1. Persoonlijk
-
-### 2.2. Zakelijk
-
-### 2.3. Andere feiten of omstandigheden
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van de persoon bij één of meer financiële gedragingen, voor zover die redelijkerwijs voor het College van Toezicht van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 3. Toezichtantecedenten
-
-### 4. Fiscaal bestuursrechtelijke antecedenten
-
-### 4.1. Persoonlijk
-
-Aan de persoon is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 4.2. Zakelijk
-
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij de persoon een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten:
-
-### 4.3. Andere feiten of omstandigheden
-
-Andere feiten of omstandigheden die wijzen op betrokkenheid van de persoon bij één of meer gedragingen op fiscaal gebied die redelijkerwijs voor het College van Toezicht van belang kunnen zijn voor de beoordeling van diens betrouwbaarheid.
-
-### 5. Overige antecedenten
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

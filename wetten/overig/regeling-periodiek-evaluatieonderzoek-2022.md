@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 11 juli 2022, houdende regels voor periodiek evaluatieonderzoek 2022 (Regeling periodiek evaluatieonderzoek 2022)"
+citeertitel: "Regeling periodiek evaluatieonderzoek 2022"
 identifier: "BWBR0046970"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-27"
-last_updated: "2022-07-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046970"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16436853"
-version_id: "28795562"
-internal_id: "C40773751"
-label_id: "16361114"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046970/2022-07-27/0"
-intitule_bron: "Stcrt.2022-19587"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-11"
-intitule_published: "2022-07-26"
-intitule_in_force: "2022-07-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-19587"
-original_signed_date: "2022-07-11"
-original_published_date: "2022-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-19587"
-entry_into_force_date: "2022-07-27"
-jci_1_3: "jci1.3:c:BWBR0046970&z=2022-07-27&g=2022-07-27"
-jci_1_0: "1.0:c:BWBR0046970&g=2022-07-27"
-citeertitel_status: "officieel"
-short_title: "Regeling periodiek evaluatieonderzoek 2022"
-signed_date: "2022-07-11"
-entry_into_force: "2022-07-27"
+publicatiedatum: 2022-07-27
+laatste_update: 2022-07-27
+status: geldig
+toestand: 2022-07-27
+bron: "https://wetten.overheid.nl/BWBR0046970"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Financiën van 11 juli 2022, houdende regels voor periodiek evaluatieonderzoek 2022 (Regeling periodiek evaluatieonderzoek 2022)
-
-Gelet op [artikel 4.20, tweede lid, aanhef en onderdeel f, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,25 +20,25 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- **Beleid:** inspanningen van de overheid om met de inzet van mensen, middelen en tijd maatregelen uit te voeren om afgesproken doelstellingen te realiseren. Beleid als bedoeld in deze regeling gaat over één of meerdere beleidsinstrumenten;
+- *Beleid:* inspanningen van de overheid om met de inzet van mensen, middelen en tijd maatregelen uit te voeren om afgesproken doelstellingen te realiseren. Beleid als bedoeld in deze regeling gaat over één of meerdere beleidsinstrumenten;
 
-- **(Beleids)thema:** een inhoudelijk logisch en herkenbaar samenhangend beleidsterrein;
+- *(Beleids)thema:* een inhoudelijk logisch en herkenbaar samenhangend beleidsterrein;
 
-- **Doeltreffendheid van beleid:** de mate waarin de beleidsdoelstellingen gerealiseerd worden dankzij het ingezette beleid en met zo min mogelijk ongewenste neveneffecten;
+- *Doeltreffendheid van beleid:* de mate waarin de beleidsdoelstellingen gerealiseerd worden dankzij het ingezette beleid en met zo min mogelijk ongewenste neveneffecten;
 
-- **Doelmatigheid van beleid:** de mate waarin de prestaties en effecten van beleid tegen de laagst mogelijke inzet van (financiële) middelen en ongewenste neveneffecten worden bewerkstelligd, dan wel de mate waarin met de inzet van een bepaalde hoeveelheid (financiële) middelen de maximale prestaties en effecten van beleid worden gerealiseerd tegen zo min mogelijk ongewenste neveneffecten;
+- *Doelmatigheid van beleid:* de mate waarin de prestaties en effecten van beleid tegen de laagst mogelijke inzet van (financiële) middelen en ongewenste neveneffecten worden bewerkstelligd, dan wel de mate waarin met de inzet van een bepaalde hoeveelheid (financiële) middelen de maximale prestaties en effecten van beleid worden gerealiseerd tegen zo min mogelijk ongewenste neveneffecten;
 
-- **Evaluatieonderzoek:** onderzoek dat inzicht geeft in (voorwaarden voor) doeltreffendheid en doelmatigheid van beleid. Evaluatieonderzoek kan zowel ex ante, ex durante als ex post worden uitgevoerd;
+- *Evaluatieonderzoek:* onderzoek dat inzicht geeft in (voorwaarden voor) doeltreffendheid en doelmatigheid van beleid. Evaluatieonderzoek kan zowel ex ante, ex durante als ex post worden uitgevoerd;
 
-- **Evaluatieparagraaf:** een toelichting bij een beleids- of wetsvoorstel over hoe het beleid wordt gemonitord en geëvalueerd;
+- *Evaluatieparagraaf:* een toelichting bij een beleids- of wetsvoorstel over hoe het beleid wordt gemonitord en geëvalueerd;
 
-- **Minister:** de Minister die het aangaat;
+- *Minister:* de Minister die het aangaat;
 
-- **Onafhankelijk deskundige:** een methodologisch en beleidsinhoudelijk deskundige die geen verantwoordelijkheid draagt voor het te onderzoeken beleid en geen significante rol heeft gespeeld bij het evaluatieonderzoek dat ten grondslag ligt aan de periodieke rapportage;
+- *Onafhankelijk deskundige:* een methodologisch en beleidsinhoudelijk deskundige die geen verantwoordelijkheid draagt voor het te onderzoeken beleid en geen significante rol heeft gespeeld bij het evaluatieonderzoek dat ten grondslag ligt aan de periodieke rapportage;
 
-- **Periodieke rapportage over doeltreffendheid en doelmatigheid (hierna: periodieke rapportage):** een vier- tot zeven jaarlijkse rapportage over een (beleids)thema op de SEA waarin de in de rapportageperiode opgedane inzichten in de (voorwaarden voor) doeltreffendheid en doelmatigheid worden samengebracht;
+- *Periodieke rapportage over doeltreffendheid en doelmatigheid (hierna: periodieke rapportage):* een vier- tot zeven jaarlijkse rapportage over een (beleids)thema op de SEA waarin de in de rapportageperiode opgedane inzichten in de (voorwaarden voor) doeltreffendheid en doelmatigheid worden samengebracht;
 
-- **Strategische Evaluatie Agenda (SEA):** de SEA is een meerjarige agenda die ex ante, ex durante en ex post evaluaties omspant op alle belangrijke (beleids)thema’s en bijbehorende begrotingsartikelen per departement. De SEA laat zien wanneer en hoe periodiek gerapporteerd wordt over de (voorwaarden voor) doeltreffendheid en doelmatigheid per (beleids)thema.
+- *Strategische Evaluatie Agenda (SEA):* de SEA is een meerjarige agenda die ex ante, ex durante en ex post evaluaties omspant op alle belangrijke (beleids)thema’s en bijbehorende begrotingsartikelen per departement. De SEA laat zien wanneer en hoe periodiek gerapporteerd wordt over de (voorwaarden voor) doeltreffendheid en doelmatigheid per (beleids)thema.
 
 2. De begrippen van [artikel 1.1 van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1) zijn van overeenkomstige toepassing op deze regeling.
 
@@ -74,21 +48,21 @@ Besluit:
 
 De begroting van een departement bevat een SEA die voldoet aan de volgende eisen:
 
-- a). de SEA is ingedeeld op basis van (beleids)thema’s. Alle artikelen (als wel de middelen die onder deze artikelen vallen) op de begroting staan op de SEA, middels een koppeling aan (beleids)thema’s. Alle belangrijke (beleids)thema’s zijn vertegenwoordigd in termen van budgettaire en maatschappelijke relevantie;
+- a) de SEA is ingedeeld op basis van (beleids)thema’s. Alle artikelen (als wel de middelen die onder deze artikelen vallen) op de begroting staan op de SEA, middels een koppeling aan (beleids)thema’s. Alle belangrijke (beleids)thema’s zijn vertegenwoordigd in termen van budgettaire en maatschappelijke relevantie;
 
-- b). de SEA heeft een looptijd van vier jaar. De aan de start van de looptijd vastgelegde thema’s en bijbehorende artikelen kunnen elke twee jaar met instemming van het Ministerie van Financiën worden gewijzigd;
+- b) de SEA heeft een looptijd van vier jaar. De aan de start van de looptijd vastgelegde thema’s en bijbehorende artikelen kunnen elke twee jaar met instemming van het Ministerie van Financiën worden gewijzigd;
 
-- c). de agendering van een (beleids)thema op de SEA heeft een minimale looptijd van vier tot maximaal zeven jaar en kan hiermee een SEA overstijgen;
+- c) de agendering van een (beleids)thema op de SEA heeft een minimale looptijd van vier tot maximaal zeven jaar en kan hiermee een SEA overstijgen;
 
-- d). de SEA bevat per (beleids)thema een uitwerking door een overzicht te geven van het geplande evaluatieonderzoek en een toelichting op deze planning. De invulling van de (beleids)thema’s op de SEA kan jaarlijks worden aangepast;
+- d) de SEA bevat per (beleids)thema een uitwerking door een overzicht te geven van het geplande evaluatieonderzoek en een toelichting op deze planning. De invulling van de (beleids)thema’s op de SEA kan jaarlijks worden aangepast;
 
-- e). de SEA bevat een agendering van passend ex ante, ex durante en ex post evaluatieonderzoek om inzicht te genereren in (voorwaarden voor) de doeltreffendheid en doelmatigheid van het beleid en inzicht in mogelijkheden om (de kans op) de doeltreffendheid en doelmatigheid hiervan te vergroten;
+- e) de SEA bevat een agendering van passend ex ante, ex durante en ex post evaluatieonderzoek om inzicht te genereren in (voorwaarden voor) de doeltreffendheid en doelmatigheid van het beleid en inzicht in mogelijkheden om (de kans op) de doeltreffendheid en doelmatigheid hiervan te vergroten;
 
-- f). de SEA bevat een toelichting per (beleids)thema met een korte samenvatting van de bij aanvang van de looptijd vastgestelde stand van kennis en inzichtbehoefte. Onderbouwd wordt hoe de evaluatieplanning hierop ingrijpt;
+- f) de SEA bevat een toelichting per (beleids)thema met een korte samenvatting van de bij aanvang van de looptijd vastgestelde stand van kennis en inzichtbehoefte. Onderbouwd wordt hoe de evaluatieplanning hierop ingrijpt;
 
-- g). aan het einde van de looptijd van de agendering van een (beleids)thema op de SEA geldt een rapportageverplichting in de vorm van een periodieke rapportage, die voldoet aan de eisen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=4&artikel=4&z=2022-07-27&g=2022-07-27). De periodieke rapportage wordt opgenomen op de evaluatieplanning van de SEA;
+- g) aan het einde van de looptijd van de agendering van een (beleids)thema op de SEA geldt een rapportageverplichting in de vorm van een periodieke rapportage, die voldoet aan de eisen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=4&artikel=4&z=2022-07-27&g=2022-07-27). De periodieke rapportage wordt opgenomen op de evaluatieplanning van de SEA;
 
-- h). na afronding van de periodieke rapportage wordt, indien het thema niet eindigt, een nieuwe evaluatie-agenda vastgesteld voor het (beleids)thema op de SEA. De looptijd van de agendering van het (beleids)thema, in beginsel tussen de vier tot zeven jaar, wordt daarbij gemotiveerd.
+- h) na afronding van de periodieke rapportage wordt, indien het thema niet eindigt, een nieuwe evaluatie-agenda vastgesteld voor het (beleids)thema op de SEA. De looptijd van de agendering van het (beleids)thema, in beginsel tussen de vier tot zeven jaar, wordt daarbij gemotiveerd.
 
 #### § 3. Kwaliteitseisen evaluatieonderzoek
 
@@ -96,21 +70,21 @@ De begroting van een departement bevat een SEA die voldoet aan de volgende eisen
 
 Evaluatieonderzoek voldoet aan de volgende kwaliteitseisen:
 
-- a). het is passend bij de fase en context waarin het beleid zich bevindt en sluit aan op de kenmerken en de inzichtbehoefte van het beleid dat wordt onderzocht;
+- a) het is passend bij de fase en context waarin het beleid zich bevindt en sluit aan op de kenmerken en de inzichtbehoefte van het beleid dat wordt onderzocht;
 
-- b). het maakt duidelijk welk beleid wordt onderzocht over welke periode, wat de doelen en de beleidstheorie zijn en welke financiële gevolgen het beleid heeft voor de rijksbegroting;
+- b) het maakt duidelijk welk beleid wordt onderzocht over welke periode, wat de doelen en de beleidstheorie zijn en welke financiële gevolgen het beleid heeft voor de rijksbegroting;
 
-- c). het maakt duidelijk welke evaluatievragen centraal staan om inzicht te geven in de (voorwaarden voor) doeltreffendheid en de doelmatigheid van het beleid. Departementen worden aangemoedigd om bij het evalueren rekening te houden met publieke waarde(n) in den brede;
+- c) het maakt duidelijk welke evaluatievragen centraal staan om inzicht te geven in de (voorwaarden voor) doeltreffendheid en de doelmatigheid van het beleid. Departementen worden aangemoedigd om bij het evalueren rekening te houden met publieke waarde(n) in den brede;
 
-- d). de in het evaluatieonderzoek gebruikte methoden sluiten aan op de evaluatievragen;
+- d) de in het evaluatieonderzoek gebruikte methoden sluiten aan op de evaluatievragen;
 
-- e). de conclusies en aanbevelingen worden onderbouwd door onderliggende bevindingen;
+- e) de conclusies en aanbevelingen worden onderbouwd door onderliggende bevindingen;
 
-- f). het evaluatieonderzoek verantwoordt de gebruikte evaluatiemethoden, als wel de validiteit en betrouwbaarheid van de gegenereerde resultaten;
+- f) het evaluatieonderzoek verantwoordt de gebruikte evaluatiemethoden, als wel de validiteit en betrouwbaarheid van de gegenereerde resultaten;
 
-- g). waar relevant geeft het inzicht in de mogelijkheden en plannen voor nader onderzoek naar de (voorwaarden voor) doeltreffendheid en doelmatigheid van het beleid;
+- g) waar relevant geeft het inzicht in de mogelijkheden en plannen voor nader onderzoek naar de (voorwaarden voor) doeltreffendheid en doelmatigheid van het beleid;
 
-- h). het rapport beschrijft de wijze waarop de onafhankelijkheid van het evaluatieonderzoek is gewaarborgd.
+- h) het rapport beschrijft de wijze waarop de onafhankelijkheid van het evaluatieonderzoek is gewaarborgd.
 
 #### § 4. Periodieke rapportage over doeltreffendheid en doelmatigheid
 
@@ -154,7 +128,7 @@ Evaluatieonderzoek voldoet aan de volgende kwaliteitseisen:
 
 ##### Artikel 5. Evaluatieparagraaf
 
-Voorstellen aan de Tweede Kamer der Staten-Generaal die leiden tot een substantiële beleidswijziging (met financiële gevolgen van ten minste € 20 miljoen in enig jaar) bevatten een evaluatieparagraaf.
+Voorstellen aan de Tweede Kamer der Staten-Generaal die leiden tot een substantiële beleidswijziging (met financiële gevolgen van ten minste € 20 miljoen in enig jaar) bevatten een evaluatieparagraaf.
 
 #### § 6. Evaluatie van subsidieregelingen en fiscale regelingen
 
@@ -162,15 +136,15 @@ Voorstellen aan de Tweede Kamer der Staten-Generaal die leiden tot een substanti
 
 Onverminderd het bepaalde in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) geldt voor de evaluatie van subsidieregelingen die op een wettelijk voorschrift berusten aanvullend het volgende:
 
-- a). voor subsidieregelingen met een budget kleiner dan € 500.000 gelden geen aanvullende eisen;
+- a) voor subsidieregelingen met een budget kleiner dan € 500.000 gelden geen aanvullende eisen;
 
-- b). voor subsidieregelingen met een budget tussen de € 500.000 en € 10 miljoen zijn aanvullend de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=3&artikel=3&z=2022-07-27&g=2022-07-27), van toepassing;
+- b) voor subsidieregelingen met een budget tussen de € 500.000 en € 10 miljoen zijn aanvullend de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=3&artikel=3&z=2022-07-27&g=2022-07-27), van toepassing;
 
-- c). voor subsidieregelingen met een budget groter dan € 10 miljoen zijn aanvullend de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=3&artikel=3&z=2022-07-27&g=2022-07-27), van toepassing, en wordt bij de evaluatie een onafhankelijke deskundige betrokken;
+- c) voor subsidieregelingen met een budget groter dan € 10 miljoen zijn aanvullend de eisen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=3&artikel=3&z=2022-07-27&g=2022-07-27), van toepassing, en wordt bij de evaluatie een onafhankelijke deskundige betrokken;
 
-- d). voor subsidieregelingen met een budget groter dan € 500.000 wordt aanvullend inzicht gegeven in de doelmatigheid van de subsidie en de daarmee samenhangende uitgaven;
+- d) voor subsidieregelingen met een budget groter dan € 500.000 wordt aanvullend inzicht gegeven in de doelmatigheid van de subsidie en de daarmee samenhangende uitgaven;
 
-- e). evaluaties van subsidieregelingen kunnen worden opgenomen op de SEA bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van subsidie-evaluaties kunnen worden meegenomen in periodieke rapportages.
+- e) evaluaties van subsidieregelingen kunnen worden opgenomen op de SEA bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046970&paragraaf=2&artikel=2&z=2022-07-27&g=2022-07-27). De bevindingen van subsidie-evaluaties kunnen worden meegenomen in periodieke rapportages.
 
 ##### Artikel 7. Evaluatie van fiscale regelingen
 
@@ -219,5 +193,3 @@ De Minister van Financiën zendt binnen vijf jaar na de inwerkingtreding van dez
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling periodiek evaluatieonderzoek 2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

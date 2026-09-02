@@ -1,53 +1,41 @@
 ---
 title: "Besluit pensioenen Internationale Organisaties"
 identifier: "BWBR0047063"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-08-24"
-last_updated: "2022-08-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047063"
+categorie: "Sociaal recht"
 soort: "beleidsregel"
-stam_id: "16458793"
-version_id: "28836312"
-internal_id: "C40831791"
-label_id: "16381774"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047063/2022-08-24/0"
-intitule_bron: "Stcrt.2022-21897"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-19"
-intitule_published: "2022-08-23"
-intitule_in_force: "2022-08-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-21897"
-original_signed_date: "2022-08-19"
-original_published_date: "2022-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-21897"
-entry_into_force_date: "2022-08-24"
-jci_1_3: "jci1.3:c:BWBR0047063&z=2022-08-24&g=2022-08-24"
-jci_1_0: "1.0:c:BWBR0047063&g=2022-08-24"
-citeertitel_status: "officieel"
-signed_date: "2022-08-19"
-entry_into_force: "2022-08-24"
+publicatiedatum: 2022-08-24
+laatste_update: 2022-08-24
+status: geldig
+toestand: 2022-08-24
+bron: "https://wetten.overheid.nl/BWBR0047063"
+opgehaald: 2026-09-02
 ---
+
 # Besluit pensioenen Internationale Organisaties
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit bevat beleid over de fiscale behandeling van pensioenuitkeringen van Internationale Organisaties.**
+*Dit besluit bevat beleid over de fiscale behandeling van pensioenuitkeringen van Internationale Organisaties.*
 
 ### 1. Inleiding
 
-Inwoners van Nederland die een pensioenuitkering ontvangen van een Internationale Organisatie1Volgens internationale standaarden wordt hieronder verstaan: een bij verdrag opgericht samenwerkingsverband tussen staten met eigen taken en organen., dienen voor het vaststellen van hun belastbaar inkomen te beschikken over gedetailleerde informatie over de opbouwfase van het pensioen.2Zie onder meer het arrest HR 16 januari 2009, ECLI:NL:HR:2009:BF7264 voor een illustratie van de vaak complexe uitwerking van de geldende (overgangs-)regelgeving voor pensioenen van Internationale Organisaties.
+Inwoners van Nederland die een pensioenuitkering ontvangen van een Internationale Organisatie1Volgens internationale standaarden wordt hieronder verstaan: een bij verdrag opgericht samenwerkingsverband tussen staten met eigen taken en organen., dienen voor het vaststellen van hun belastbaar inkomen te beschikken over gedetailleerde informatie over de opbouwfase van het pensioen.2Zie onder meer het arrest HR 16 januari 2009, ECLI:NL:HR:2009:BF7264 voor een illustratie van de vaak complexe uitwerking van de geldende (overgangs-)regelgeving voor pensioenen van Internationale Organisaties.
 
 In de praktijk is gebleken dat gepensioneerden vaak niet beschikken over deze informatie. Om te komen tot een wetstoepassing die recht doet aan de omstandigheden van het individuele geval heeft de inspecteur met een aanzienlijk aantal gepensioneerden vaststellingsovereenkomsten (VSO) gesloten. Het gaat hierbij in het bijzonder om gepensioneerden van het Europees Octrooibureau (EOB) en om gepensioneerden van de Europese Ruimtevaartorganisatie (ESA) en de Noord-Atlantische Verdragsorganisatie (NAVO) die een uitkering ontvangen op basis van de zogenoemde Gecoördineerde Pensioenregeling. Van deze VSO bestaan verschillende varianten, waaraan steeds bepaalde uitgangspunten ten grondslag liggen.
 
 In dit besluit zijn de in de inmiddels meest gangbare variant gehanteerde uitgangspunten opgenomen. Daarnaast is beschreven onder welke voorwaarden gepensioneerden van EOB en gepensioneerden van de Gecoördineerde Internationale Organisaties die een uitkering ontvangen op basis van de Gecoördineerde Pensioenregeling deze uitgangspunten, ook zonder het sluiten van een VSO, kunnen toepassen in hun aangifte. Genoemde uitgangspunten zijn gebaseerd op de kenmerken van de betreffende pensioenregelingen en kunnen derhalve niet onverkort worden toegepast bij (gepensioneerde) deelnemers aan andere pensioenregelingen van Internationale Organisaties. Dergelijke deelnemers kunnen zich, desgewenst, tot de inspecteur wenden.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| Aangifte | Aangifte Inkomstenbelasting, Premie volksverzekeringen en Inkomensafhankelijke bijdrage Zorgverzekeringswet |
+| --- | --- |
+| BW | Burgerlijk Wetboek |
+| EOB | Europees Octrooibureau, European Patent Office |
+| ESA | Europese ruimtevaartorganisatie, European Space Agency |
+| Gecoördineerde Internationale Organisaties | ESA, NAVO en daarnaast: Organisatie voor Economische Samenwerking en Ontwikkeling, Raad van Europa, West Europese Unie, European Centre for Medium-Range Weather Forecasts en European Organisation for the Exploitation of Meteorological Satellites. |
+| Gecoördineerde pensioenregeling | Standaard pensioenregeling die deel uitmaakt van het door de Gecoördineerde Internationale Organisaties onderling afgestemde arbeidsvoorwaardenpakket |
+| NAVO | Noord Atlantische Verdrags Organisatie, North Atlantic Treaty Organization |
+| UBIB 2001 | Uitvoeringsbesluit inkomstenbelasting 2001 |
+| VSO | Vaststellingsovereenkomst(en) in de zin van artikel 7:900 BW |
+| Wet IB 2001 | Wet inkomstenbelasting 2001 |
 
 ### 2. Wettelijk kader
 
@@ -57,7 +45,11 @@ Algemeen uitgangspunt van de Nederlandse inkomstenbelasting en premieheffing is 
 
 Pensioenen vallen niet onder de omkeerregel voor zover:
 
-Daarnaast kunnen op basis van overgangsrecht afwijkende regels gelden voor pensioenrechten die voor een bepaalde datum, bijvoorbeeld 1 januari 1995 of 1 januari 2001, zijn opgebouwd.
+- – over de toekenning van de pensioenrechten (door de werkgever) een belastingheffing naar het inkomen heeft plaatsgevonden, en/of
+
+- – de door de werknemer betaalde premies niet aftrekbaar waren bij een zodanige heffing.
+
+Daarnaast kunnen op basis van overgangsrecht afwijkende regels gelden voor pensioenrechten die voor een bepaalde datum, bijvoorbeeld 1 januari 1995 of 1 januari 2001, zijn opgebouwd.
 
 De waarde van de pensioenrechten die niet behoren tot het inkomen uit werk en woning (box 1), behoort tot de bezittingen uit de rendementsgrondslag van het inkomen uit sparen en beleggen (box 3).3Vanaf de toekenning van de aanspraak, tenzij hiervoor, bijvoorbeeld op basis van een Zetelovereenkomst, (tijdens de actieve periode) een vrijstelling geldt.
 
@@ -68,6 +60,12 @@ Personeelsleden van Internationale Organisaties genieten in Nederland doorgaans 
 Bij de meeste Internationale Organisaties vallen pensioenuitkeringen niet onder de toegekende belastingvrijstelling. Deze mogen door Nederland volgens de reguliere nationale regels in de belastingheffing worden betrokken.
 
 Voor de bepaling van de Nederlandse belastingheffing is dan onder meer van belang:
+
+- – Of sprake is (dan wel tijdens de opbouw: was) van naar Nederlandse maatstaven (on)zuivere pensioenregeling.
+
+- – Of de door de werkgever toegekende pensioenrechten met een interne heffing zijn belast en/of de door de werknemer betaalde premies aftrekbaar waren, dan wel uit het netto-inkomen zijn betaald.4Artikel 3.82, onderdeel c, Wet IB 2001.
+
+- – In welke mate de werkgever en de werknemer hebben bijgedragen aan de opbouw van de rechten.
 
 Indien de belastingplichtige (de pensioengerechtigde) stelt dat (een deel van) de pensioenuitkeringen niet in box 1 mogen worden belast, rust de bewijslast hiervoor bij hem.
 
@@ -113,13 +111,17 @@ Bij een pensioengerechtigde zonder partner wordt de waarde bepaald met overeenko
 
 Bij een pensioengerechtigde met een partner is in beginsel sprake van een uitkering afhankelijk van – de langstlevende van – twee levens, maar is het nabestaandenpensioen – na overlijden van de pensioengerechtigde – lager dan het oudedagspensioen. Bij overlijden van de partner blijft het oudedagspensioen in stand. [Artikel 19 UBIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=19) bevat geen waarderingsvoorschrift dat precies op deze situatie is toegeschreven. Dit betekent dat strikt genomen zou moeten worden teruggevallen op het elfde lid (bedrag waarvoor een dergelijke uitkering – bij een verzekeraar – zou kunnen worden gekocht). Om praktische redenen kan in deze specifieke situatie, en als onderdeel van het totaal aan gehanteerde uitgangspunten, echter voor 50% worden aangesloten bij de waarderingsmaatstaf voor een periodieke uitkering afhankelijk van het leven van één persoon (artikel 19, eerste of zevende lid, UBIB 2001) en voor 50% bij de waarderingsmaatstaf voor een uitkering afhankelijk van de langstlevende van twee levens (artikel 19, achtste lid, onderdeel a UBIB 2001).
 
-Een gepensioneerde inwoner van Nederland geniet een pensioenuitkering op basis van de Gecoördineerde Pensioenregeling van € 21.000 per jaar, en een tax adjustment van € 500. Hij is alleenstaande en op 1 januari van het jaar 71 jaar oud.
+Voorbeeld 1
 
-Deze gepensioneerde kan een bedrag van (ten minste) € 14.000 (pensioen) plus € 500 (tax adjustment) is € 14.500 in box 1 aangeven. Daarnaast moet hij dan een waarde van 8 x € 7.000 is € 56.0007Toerekening box 3 is 1/3*21.000 = 7.000. Toepassing tabel artikel 19, eerste lid, UBIB betekent vermenigvuldigen met factor 8 (o.b.v. 71 jaar)). als bezitting in box 3 aangeven.
+Een gepensioneerde inwoner van Nederland geniet een pensioenuitkering op basis van de Gecoördineerde Pensioenregeling van € 21.000 per jaar, en een tax adjustment van € 500. Hij is alleenstaande en op 1 januari van het jaar 71 jaar oud.
 
-Als in voorbeeld 1, alleen bedraagt de uitkering nu € 27.000, de tax adjustment € 1.000 en heeft de gepensioneerde een partner die op 1 januari van het jaar 67 jaar oud is.
+Deze gepensioneerde kan een bedrag van (ten minste) € 14.000 (pensioen) plus € 500 (tax adjustment) is € 14.500 in box 1 aangeven. Daarnaast moet hij dan een waarde van 8 x € 7.000 is € 56.0007Toerekening box 3 is 1/3*21.000 = 7.000. Toepassing tabel artikel 19, eerste lid, UBIB betekent vermenigvuldigen met factor 8 (o.b.v. 71 jaar)). als bezitting in box 3 aangeven.
 
-Deze gepensioneerde kan een bedrag van (ten minste) € 18.000 (pensioen) plus € 1.000 (tax adjustment) is € 19.000 in box 1 aangeven. Daarnaast moet hij dan een waarde van 8 x € 4.5008Toerekening box 3 is 1/3*27.000 = 9.000. In verband met partner vermenigvuldigd met 50%.Toepassing tabel artikel 19, eerste lid, UBIB betekent vermenigvuldigen met factor 8 (o.b.v. 71 jaar). + 13 x € 4.5009Toerekening box 3 is 1/3*27.000 = 9.000. In verband met partner vermenigvuldigd met 50%.Toepassing tabel artikel 19, achtste lid, onderdeel a, UBIB betekent vermenigvuldigen met factor 13 (o.b.v. jongste partner 67 jaar). is € 94.500 als bezitting in box 3 aangeven.
+Voorbeeld 2
+
+Als in voorbeeld 1, alleen bedraagt de uitkering nu € 27.000, de tax adjustment € 1.000 en heeft de gepensioneerde een partner die op 1 januari van het jaar 67 jaar oud is.
+
+Deze gepensioneerde kan een bedrag van (ten minste) € 18.000 (pensioen) plus € 1.000 (tax adjustment) is € 19.000 in box 1 aangeven. Daarnaast moet hij dan een waarde van 8 x € 4.5008Toerekening box 3 is 1/3*27.000 = 9.000. In verband met partner vermenigvuldigd met 50%.Toepassing tabel artikel 19, eerste lid, UBIB betekent vermenigvuldigen met factor 8 (o.b.v. 71 jaar). + 13 x € 4.5009Toerekening box 3 is 1/3*27.000 = 9.000. In verband met partner vermenigvuldigd met 50%.Toepassing tabel artikel 19, achtste lid, onderdeel a, UBIB betekent vermenigvuldigen met factor 13 (o.b.v. jongste partner 67 jaar). is € 94.500 als bezitting in box 3 aangeven.
 
 ### 4.3. Overige aandachtspunten
 
@@ -133,7 +135,7 @@ Belastingplichtigen kunnen na toepassing van de hiervoor genoemde uitgangspunten
 
 ### 4.3.3. Geen samenloop met overgangsregeling
 
-Als een belastingplichtige kiest voor bovenstaande benadering kan geen gebruik gemaakt worden van de in [hoofdstuk 2, art. I, onderdeel O, Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=I) opgenomen overgangsregeling (de saldomethode).10Deze overgangsregeling kan, kortgezegd, alleen van toepassing zijn op pensioenrechten die vóór 1 januari 2001 zijn opgebouwd. Aangezien zowel de bovenstaande, op de structurele wettelijke regeling gebaseerde, benadering als die overgangsregeling tot doel hebben om te voorkomen dat uit netto-inkomen opgebouwd pensioen bij uitkering nogmaals volledig wordt belast, mogen deze niet cumuleren. Voor zover, omgekeerd, een belastingplichtige al gebruikt maakt of heeft gemaakt van genoemde overgangsregeling waardoor de niet-afgetrokken premies in mindering komen of zijn gekomen op de belaste uitkeringen, kan van de 1/3 – 2/3-benadering geen gebruik gemaakt worden en zijn de pensioenuitkeringen na afloop van de overgangsregeling volledig belast in box 1.
+Als een belastingplichtige kiest voor bovenstaande benadering kan geen gebruik gemaakt worden van de in [hoofdstuk 2, art. I, onderdeel O, Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&artikel=I) opgenomen overgangsregeling (de saldomethode).10Deze overgangsregeling kan, kortgezegd, alleen van toepassing zijn op pensioenrechten die vóór 1 januari 2001 zijn opgebouwd. Aangezien zowel de bovenstaande, op de structurele wettelijke regeling gebaseerde, benadering als die overgangsregeling tot doel hebben om te voorkomen dat uit netto-inkomen opgebouwd pensioen bij uitkering nogmaals volledig wordt belast, mogen deze niet cumuleren. Voor zover, omgekeerd, een belastingplichtige al gebruikt maakt of heeft gemaakt van genoemde overgangsregeling waardoor de niet-afgetrokken premies in mindering komen of zijn gekomen op de belaste uitkeringen, kan van de 1/3 – 2/3-benadering geen gebruik gemaakt worden en zijn de pensioenuitkeringen na afloop van de overgangsregeling volledig belast in box 1.
 
 ### 4.3.4. Samenloop met afgesloten VSO
 
@@ -152,5 +154,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ### 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit pensioenen Internationale Organisaties.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

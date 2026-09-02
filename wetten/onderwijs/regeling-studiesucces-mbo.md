@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 juni 2022, nr. MBO/30739616, houdende uitwerking maatstaven voor studiesucces in het mbo"
+citeertitel: "Regeling studiesucces mbo"
 identifier: "BWBR0046913"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046913"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16420843"
-version_id: "28758822"
-internal_id: "C40696591"
-label_id: "16344914"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046913/2022-08-01/0"
-intitule_bron: "Stcrt.2022-18467"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-24"
-intitule_published: "2022-07-13"
-intitule_in_force: "2022-07-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-18467"
-original_signed_date: "2022-06-24"
-original_published_date: "2022-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-18467"
-entry_into_force_date: "2022-08-01"
-jci_1_3: "jci1.3:c:BWBR0046913&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0046913&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Regeling studiesucces mbo"
-signed_date: "2022-06-24"
-entry_into_force: "2022-08-01"
+publicatiedatum: 2022-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0046913"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 juni 2022, nr. MBO/30739616, houdende uitwerking maatstaven voor studiesucces in het mbo
-
-Gelet op [artikel 4a.3. van het Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646&artikel=4a.3);
-
-Besluit:
 
 ##### Artikel 1. Berekening jaarresultaat
 
@@ -66,9 +40,9 @@ Besluit:
 
 ((aantal gediplomeerde instellingsverlaters van de nieuw ingeschreven studenten + aantal in de instelling gebleven nieuw ingeschreven studenten) / aantal nieuw ingeschreven studenten) x 100%.
 
-2. Als nieuw ingeschreven student wordt beschouwd een student of extraneus die op 1 oktober is ingeschreven bij de beroepsopleiding bij de instelling en op de voorgaande zes peildata van 1 oktober niet ingeschreven was bij de instelling.
+2. Als nieuw ingeschreven student wordt beschouwd een student of extraneus die op 1 oktober is ingeschreven bij de beroepsopleiding bij de instelling en op de voorgaande zes peildata van 1 oktober niet ingeschreven was bij de instelling.
 
-3. Als in de instelling gebleven nieuw ingeschreven student wordt beschouwd een nieuw ingeschreven student als bedoeld in het tweede lid die blijft ingeschreven op een beroepsopleiding op niveau 2, 3 of 4 op 1 oktober van het daarop volgende jaar bij de instelling.
+3. Als in de instelling gebleven nieuw ingeschreven student wordt beschouwd een nieuw ingeschreven student als bedoeld in het tweede lid die blijft ingeschreven op een beroepsopleiding op niveau 2, 3 of 4 op 1 oktober van het daarop volgende jaar bij de instelling.
 
 4. Iedere student of extraneus wordt maximaal eenmaal per instelling meegeteld voor de berekening van het startersresultaat.
 
@@ -132,10 +106,8 @@ De inspectie kan afwijken van het gebruik van het driejaarscijfer bij het bereke
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2022.
+Deze regeling treedt in werking met ingang van 1 augustus 2022.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling studiesucces mbo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

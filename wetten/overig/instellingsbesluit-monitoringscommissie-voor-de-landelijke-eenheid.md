@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 13 juli 2022, nr. 4094455, houdende instelling van de monitoringscommissie voor de Landelijke Eenheid (Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid)"
+citeertitel: "Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid"
 identifier: "BWBR0047219"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-20"
-last_updated: "2024-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047219"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16502223"
-version_id: "28920762"
-internal_id: "C40945741"
-label_id: "16423824"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047219/2024-06-20/0"
-intitule_bron: "Stcrt.2022-25338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-13"
-intitule_published: "2022-10-03"
-intitule_in_force: "2022-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-25338"
-original_signed_date: "2022-07-13"
-original_published_date: "2022-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-25338"
-entry_into_force_date: "2022-10-04"
-jci_1_3: "jci1.3:c:BWBR0047219&z=2024-06-20&g=2024-06-20"
-jci_1_0: "1.0:c:BWBR0047219&g=2024-06-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid"
-signed_date: "2022-07-13"
-entry_into_force: "2022-10-04"
+publicatiedatum: 2022-10-04
+laatste_update: 2024-06-20
+status: geldig
+toestand: 2024-06-20
+bron: "https://wetten.overheid.nl/BWBR0047219"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 13 juli 2022, nr. 4094455, houdende instelling van de monitoringscommissie voor de Landelijke Eenheid (Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-BESLUIT:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2024-06-20&g=2024-06-20);
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047219&artikel=2&z=2024-06-20&g=2024-06-20);
 
-- c. **Landelijke Eenheid:** de Landelijke eenheid van de politie.
+- c. *Landelijke Eenheid:* de Landelijke eenheid van de politie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -76,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 5. De minister kan tussentijds een ander lid benoemen wanneer de voorzitter aangeeft dat dat noodzakelijk is voor de commissie om haar opdracht uit te voeren.
 
-6. Voor 31 december 2022 wordt geëvalueerd of de samenstelling van de commissie voldoende is om de opdracht uit te voeren.
+6. Voor 31 december 2022 wordt geëvalueerd of de samenstelling van de commissie voldoende is om de opdracht uit te voeren.
 
 7. De voorzitter en de andere leden kunnen worden geschorst en ontslagen door de minister.
 
@@ -96,7 +68,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 1. De commissie wordt ingesteld met ingang van de datum van inwerkingtreding van dit besluit.
 
-2. De commissie wordt opgeheven per 15 juli 2024.
+2. De commissie wordt opgeheven per 15 juli 2024.
 
 ##### Artikel 6. Secretariaat
 
@@ -146,7 +118,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 11. Rapportages
 
-1. De commissie rapport schriftelijk aan de minister met een frequentie van één rapportage per vier maanden. De derde rapportage zal verschijnen op 1 juni 2023.
+1. De commissie rapport schriftelijk aan de minister met een frequentie van één rapportage per vier maanden. De derde rapportage zal verschijnen op 1 juni 2023.
 
 2. Indien de commissie daartoe aanleiding ziet, doet zij tussentijds verslag aan de minister.
 
@@ -160,10 +132,8 @@ omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffend
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking per 1 september 2022.
+Dit besluit treedt in werking per 1 september 2022.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit monitoringscommissie voor de Landelijke Eenheid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 april 2022, nr. IENW/BSK-2022/54670, houdende regels voor het verstrekken van specifieke uitkeringen om fijnstofknelpunten rondom veehouderijen op te lossen (Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen)"
+citeertitel: "Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen"
 identifier: "BWBR0046531"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-09"
-last_updated: "2022-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046531"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16322653"
-version_id: "28534192"
-internal_id: "C40260841"
-label_id: "16247834"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046531/2022-04-09/0"
-intitule_bron: "Stcrt.2022-8603"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-04"
-intitule_published: "2022-04-08"
-intitule_in_force: "2022-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-8603"
-original_signed_date: "2022-04-04"
-original_published_date: "2022-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-8603"
-entry_into_force_date: "2022-04-09"
-jci_1_3: "jci1.3:c:BWBR0046531&z=2022-04-09&g=2022-04-09"
-jci_1_0: "1.0:c:BWBR0046531&g=2022-04-09"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen"
-signed_date: "2022-04-04"
-entry_into_force: "2022-04-09"
+publicatiedatum: 2022-04-09
+laatste_update: 2022-04-09
+status: geldig
+toestand: 2022-04-09
+bron: "https://wetten.overheid.nl/BWBR0046531"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 4 april 2022, nr. IENW/BSK-2022/54670, houdende regels voor het verstrekken van specifieke uitkeringen om fijnstofknelpunten rondom veehouderijen op te lossen (Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en de [artikelen 3, eerste lid, aanhef onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **besluit 1:** besluit van het college van burgemeester en wethouders tot wijziging van een omgevingsvergunning voor een veehouderij waarbij tevens nadeelcompensatie wordt toegekend;
+- *besluit 1:* besluit van het college van burgemeester en wethouders tot wijziging van een omgevingsvergunning voor een veehouderij waarbij tevens nadeelcompensatie wordt toegekend;
 
-- **besluit 2:** besluit van het college van burgemeester en wethouders waarbij de hoogte van de nadeelcompensatie definitief wordt vastgesteld;
+- *besluit 2:* besluit van het college van burgemeester en wethouders waarbij de hoogte van de nadeelcompensatie definitief wordt vastgesteld;
 
-- **fijnstofknelpunt:** overschrijding van de fijnstofnormen rondom veehouderijen als bedoeld in de ‘Aanpassing Nationaal Samenwerkingsprogramma Luchtkwaliteit (NSL) 2018’;
+- *fijnstofknelpunt:* overschrijding van de fijnstofnormen rondom veehouderijen als bedoeld in de ‘Aanpassing Nationaal Samenwerkingsprogramma Luchtkwaliteit (NSL) 2018’;
 
-- **fijnstofnormen:** grenswaarden voor zwevende deeltjes (PM10) zoals opgenomen in voorschrift 4.1 van [bijlage 2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2);
+- *fijnstofnormen:* grenswaarden voor zwevende deeltjes (PM10) zoals opgenomen in voorschrift 4.1 van [bijlage 2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **ontvangers:** gemeenten Nederweert, Peel en Maas en Someren;
+- *ontvangers:* gemeenten Nederweert, Peel en Maas en Someren;
 
-- **oplossen van het fijnstofknelpunt:** beëindigen overschrijding fijnstofnormen rondom een veehouderij.
+- *oplossen van het fijnstofknelpunt:* beëindigen overschrijding fijnstofnormen rondom een veehouderij.
 
 ##### Artikel 2. Doel
 
@@ -78,15 +52,15 @@ De minister kan voor het doel, genoemd in [artikel 2](https://wetten.overheid.nl
 
 - b. voor kosten gemaakt voor de aankoop van een woning ten hoogste de som van:
 
-- 1°. de marktwaarde van de woning en het bijbehorende perceel verminderd met de restwaarde van de bij de woning behorende grond;
+   - 1°. de marktwaarde van de woning en het bijbehorende perceel verminderd met de restwaarde van de bij de woning behorende grond;
 
-- 2°. de kosten voor overdracht;
+   - 2°. de kosten voor overdracht;
 
-- 3°. voor zover van toepassing, de kosten die moeten worden gemaakt om de desbetreffende woning te slopen;
+   - 3°. voor zover van toepassing, de kosten die moeten worden gemaakt om de desbetreffende woning te slopen;
 
-- 4°. de taxatiekosten; en
+   - 4°. de taxatiekosten; en
 
-- 5°. de verhuiskosten.
+   - 5°. de verhuiskosten.
 
 2. De marktwaarde van de woning en het bijbehorende perceel wordt bepaald door een deskundig taxateur die een taxatie uitvoert in opdracht van de aankopende partij.
 
@@ -96,7 +70,7 @@ De minister kan voor het doel, genoemd in [artikel 2](https://wetten.overheid.nl
 
 ##### Artikel 5. Uitkeringsplafond en wijze van verdelen
 
-1. Het uitkeringsplafond bedraagt € 5.800.000.
+1. Het uitkeringsplafond bedraagt € 5.800.000.
 
 2. De verdeling van de beschikbare gelden vindt plaats op volgorde van binnenkomst van de aanvragen.
 
@@ -118,7 +92,7 @@ Een aanvraag om een specifieke uitkering voor het aankopen van een woning wordt 
 
 - b. met toepassing van de rekenregels van de [Regeling beoordeling luchtkwaliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022817) en de rekenwijze van de NSL-monitoring is aangetoond dat aan de fijnstofnormen wordt voldaan;
 
-- c. de marktwaarde van de woning en het bijbehorende perceel zijn vastgesteld overeenkomstig [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), of voor zover van toepassing, het derde of het vierde lid van dat artikel;
+- c. de marktwaarde van de woning en het bijbehorende perceel zijn vastgesteld overeenkomstig [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), of voor zover van toepassing, het derde of het vierde lid van dat artikel;
 
 - d. de restwaarde van de bij de woning behorende grond is vastgesteld door een onafhankelijk bureau met expertise op het gebied van taxatie van grond.
 
@@ -146,13 +120,13 @@ De aanvraag voor een specifieke uitkering voor kosten gemaakt voor de aankoop va
 
 - b. een taxatierapport als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), of, in het geval van toepassing het derde lid of het vierde lid van dat artikel, waarin de in de aanvraag genoemde marktwaarde van de woning en het bijbehorende perceel wordt onderbouwd;
 
-- c. een rapport waarin de restwaarde van de grond, bedoeld in [artikel 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=7&z=2022-04-09&g=2022-04-09), is vastgesteld;
+- c. een rapport waarin de restwaarde van de grond, bedoeld in [artikel 7, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=7&z=2022-04-09&g=2022-04-09), is vastgesteld;
 
-- d. een onderbouwing van de gekozen oplossing van het fijnstofknelpunt waarin wordt toegelicht dat wordt voldaan aan de voorwaarden die worden genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=7&z=2022-04-09&g=2022-04-09), en waarin een berekening is opgenomen als bedoeld artikel 7, onder b;
+- d. een onderbouwing van de gekozen oplossing van het fijnstofknelpunt waarin wordt toegelicht dat wordt voldaan aan de voorwaarden die worden genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=7&z=2022-04-09&g=2022-04-09), en waarin een berekening is opgenomen als bedoeld artikel 7, onder b;
 
 - e. een raming van de kosten, genoemd in [artikel 4, eerste lid, onder b, sub 2 en 5, en, voor zover van toepassing, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09);
 
-- f. een opgave van de kosten, genoemd in [artikel 4, eerste lid, onder b, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), en bijbehorende facturen; en
+- f. een opgave van de kosten, genoemd in [artikel 4, eerste lid, onder b, sub 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), en bijbehorende facturen; en
 
 - g. een opgave van de compensabele btw voor zover van toepassing.
 
@@ -178,27 +152,27 @@ De aanvraag voor een specifieke uitkering voor kosten gemaakt voor de aankoop va
 
 1. De ontvanger draagt er zorg voor dat:
 
-- a. het fijnstofknelpunt waarmee de kosten gemoeid zijn waarvoor een specifieke uitkering wordt gevraagd, vóór 1 januari 2024 is opgelost; en
+- a. het fijnstofknelpunt waarmee de kosten gemoeid zijn waarvoor een specifieke uitkering wordt gevraagd, vóór 1 januari 2024 is opgelost; en
 
 - b. wanneer zich de situatie voordoet dat de activiteiten waarvoor de specifieke uitkering is verstrekt niet tijdig of niet geheel zullen worden verricht, dat niet tijdig of geheel aan de verplichtingen in dit artikel zal worden voldaan of zich andere omstandigheden zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van de specifieke uitkering, zij dit onverwijld en schriftelijk meldt bij de minister.
 
-2. Wanneer een specifieke uitkering is verleend voor het betalen van nadeelcompensatie verzendt de ontvanger besluit 2 binnen twee weken nadat dit onherroepelijk is geworden aan de minister.
+2. Wanneer een specifieke uitkering is verleend voor het betalen van nadeelcompensatie verzendt de ontvanger besluit 2 binnen twee weken nadat dit onherroepelijk is geworden aan de minister.
 
 3. Wanneer een specifieke uitkering is verleend voor kosten gemaakt voor de aankoop van een woning
 
 - a. draagt de ontvanger er zorg voor dat:
 
-- 1°. de woning daadwerkelijk wordt aangekocht en er een eigendomsoverdracht plaatsvindt aan de gemeente;
+   - 1°. de woning daadwerkelijk wordt aangekocht en er een eigendomsoverdracht plaatsvindt aan de gemeente;
 
-- 2°. de woonbestemming van het perceel waarop de woning is gelegen binnen twee jaar nadat de specifieke uitkering is verleend uit het bestemmingsplan wordt verwijderd en deze wijziging van het bestemmingplan binnen twee weken na inwerkingtreding van de wijziging aan de minister wordt verzonden; en
+   - 2°. de woonbestemming van het perceel waarop de woning is gelegen binnen twee jaar nadat de specifieke uitkering is verleend uit het bestemmingsplan wordt verwijderd en deze wijziging van het bestemmingplan binnen twee weken na inwerkingtreding van de wijziging aan de minister wordt verzonden; en
 
-- 3°. aan het perceel een bestemming wordt gegeven waarvoor de fijnstofnormen niet gelden; en
+   - 3°. aan het perceel een bestemming wordt gegeven waarvoor de fijnstofnormen niet gelden; en
 
-- b. overlegt de ontvanger aan de minister een opgave van de kosten, genoemd in [artikel 4, eerste lid, onder b, sub 2 en 5, en, voor zover van toepassing, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), en bijbehorende facturen nadat vaststaat hoe hoog deze kosten zijn.
+- b. overlegt de ontvanger aan de minister een opgave van de kosten, genoemd in [artikel 4, eerste lid, onder b, sub 2 en 5, en, voor zover van toepassing, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=4&z=2022-04-09&g=2022-04-09), en bijbehorende facturen nadat vaststaat hoe hoog deze kosten zijn.
 
 ##### Artikel 14. Verantwoording
 
-De ontvangers leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
+De ontvangers leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 ##### Artikel 15. Vaststelling
 
@@ -216,7 +190,7 @@ De ontvangers leggen verantwoording af over de besteding van de specifieke uitke
 
 - a. de specifieke uitkering niet of niet volledig overeenkomstig het doel van deze regeling is besteed;
 
-- b. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=13&z=2022-04-09&g=2022-04-09).
+- b. niet of niet volledig is voldaan aan de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046531&artikel=13&z=2022-04-09&g=2022-04-09).
 
 5. De vaststelling vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -240,16 +214,14 @@ De ontvangers leggen verantwoording af over de besteding van de specifieke uitke
 
 ##### Artikel 17. Evaluatieverslag
 
-De minister publiceert uiterlijk 31 december 2026 een verslag over de doeltreffendheid en de effecten van de uitkeringen in de praktijk.
+De minister publiceert uiterlijk 31 december 2026 een verslag over de doeltreffendheid en de effecten van de uitkeringen in de praktijk.
 
 ##### Artikel 18. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor de datum zijn verleend.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor de datum zijn verleend.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkeringen oplossen fijnstofknelpunten rondom veehouderijen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

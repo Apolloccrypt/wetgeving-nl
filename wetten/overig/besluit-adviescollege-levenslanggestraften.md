@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0038779"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 25 november 2016, houdende de instelling van een Adviescollege levenslanggestraften (Besluit Adviescollege levenslanggestraften)

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 24 juni 2022 (2022-163738), houdende regels inzake de taakuitoefening en bevoegdheden van de inspectie belastingen, toeslagen en douane (Regeling taakuitoefening en bevoegdheden IBTD)"
+citeertitel: "Regeling taakuitoefening en bevoegdheden IBTD"
 identifier: "BWBR0046866"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-08"
-last_updated: "2022-07-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046866"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "16410683"
-version_id: "28741872"
-internal_id: "C40666391"
-label_id: "16334904"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046866/2022-07-08/0"
-intitule_bron: "Stcrt.2022-17683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-24"
-intitule_published: "2022-07-07"
-intitule_in_force: "2022-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-17683"
-original_signed_date: "2022-06-24"
-original_published_date: "2022-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-17683"
-entry_into_force_date: "2022-07-08"
-jci_1_3: "jci1.3:c:BWBR0046866&z=2022-07-08&g=2022-07-08"
-jci_1_0: "1.0:c:BWBR0046866&g=2022-07-08"
-citeertitel_status: "officieel"
-short_title: "Regeling taakuitoefening en bevoegdheden IBTD"
-signed_date: "2022-06-24"
-entry_into_force: "2022-07-08"
+publicatiedatum: 2022-07-08
+laatste_update: 2022-07-08
+status: geldig
+toestand: 2022-07-08
+bron: "https://wetten.overheid.nl/BWBR0046866"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Financiën van 24 juni 2022 (2022-163738), houdende regels inzake de taakuitoefening en bevoegdheden van de inspectie belastingen, toeslagen en douane (Regeling taakuitoefening en bevoegdheden IBTD)
-
-Gelet op [artikel 41c van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41c);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,13 +20,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **inspecteur-generaal:** inspecteur-generaal belastingen, toeslagen en douane;
+- a. *inspecteur-generaal:* inspecteur-generaal belastingen, toeslagen en douane;
 
-- b. **inspectie:** de inspectie belastingen, toeslagen en douane, genoemd in [hoofdstuk 8a van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=8A);
+- b. *inspectie:* de inspectie belastingen, toeslagen en douane, genoemd in [hoofdstuk 8a van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=8A);
 
-- c. **minister:** Minister van Financiën;
+- c. *minister:* Minister van Financiën;
 
-- d. **ministerie:** Ministerie van Financiën.
+- d. *ministerie:* Ministerie van Financiën.
 
 #### Paragraaf 2. Taakuitoefening en bevoegdheden
 
@@ -60,11 +34,11 @@ In deze regeling wordt verstaan onder:
 
 1. De inspectie richt haar werkzaamheden in op basis van een werkprogramma, waarin de risicoanalyse, aandachtsvelden en, voor zover mogelijk, de geplande onderzoeken, alsmede het voor het volgende kalenderjaar in de rijksbegroting vastgestelde budget voor de inspectie zijn opgenomen.
 
-2. De inspecteur-generaal stelt het werkprogramma vast en biedt het door hem vastgestelde werkprogramma jaarlijks vóór 1 november ter goedkeuring aan de minister aan.
+2. De inspecteur-generaal stelt het werkprogramma vast en biedt het door hem vastgestelde werkprogramma jaarlijks vóór 1 november ter goedkeuring aan de minister aan.
 
 3. De minister biedt het door hem nog goed te keuren werkprogramma onverkort en terstond na ontvangst aan beide Kamers der Staten-Generaal aan.
 
-4. De minister verleent zijn goedkeuring aan het werkprogramma niet eerder dan vier weken nadat het door hem aan beide Kamers der Staten-Generaal is aangeboden, maar uiterlijk op 31 december. De minister doet onverwijld mededeling van de goedkeuring aan beide Kamers der Staten-Generaal.
+4. De minister verleent zijn goedkeuring aan het werkprogramma niet eerder dan vier weken nadat het door hem aan beide Kamers der Staten-Generaal is aangeboden, maar uiterlijk op 31 december. De minister doet onverwijld mededeling van de goedkeuring aan beide Kamers der Staten-Generaal.
 
 5. De minister onthoudt zijn goedkeuring aan het werkprogramma van de inspectie slechts indien het werkprogramma op ondeugdelijke wijze tot stand is gekomen. Indien de minister zijn goedkeuring aan het werkprogramma onthoudt doet hij daarvan zo spoedig mogelijk, onder vermelding van zijn overwegingen, mededeling aan beide Kamers der Staten-Generaal.
 
@@ -120,7 +94,7 @@ De inspecteur-generaal is verantwoordelijk voor het met de taken van de inspecti
 
 - a. de geheimhoudingsplicht, bedoeld in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67);
 
-- b. het beroepsgeheim, bedoeld in artikel 12 van [Verordening (EU) nr. 952/2013](32013R0952) van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) en, indien van toepassing, in samenhang met [artikel 1:5 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:5);
+- b. het beroepsgeheim, bedoeld in artikel 12 van Verordening (EU) nr. 952/2013 van het Europees Parlement en van de Raad van 9 oktober 2013 tot vaststelling van het douanewetboek van de Unie (PbEU 2013, L 269) en, indien van toepassing, in samenhang met [artikel 1:5 van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:5);
 
 - c. de geheimhoudingsplicht, bedoeld in [artikel 2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5).
 
@@ -174,10 +148,8 @@ De inspecteur-generaal informeert de minister rechtstreeks over zijn bevindingen
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2022.
+Deze regeling treedt in werking met ingang van 1 januari 2022. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 januari 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2022.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling taakuitoefening en bevoegdheden IBTD.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

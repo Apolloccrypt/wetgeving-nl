@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 14 juli 2022, kenmerk 2700831, houdende beperking van de openbaarheid van het archief van de Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)"
+citeertitel: "Besluit beperking openbaarheid archief Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)"
 identifier: "BWBR0047105"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-06"
-last_updated: "2022-09-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047105"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16472353"
-version_id: "28862962"
-internal_id: "C40866161"
-label_id: "16394184"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047105/2022-09-06/0"
-intitule_bron: "Stcrt.2022-22804"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-14"
-intitule_published: "2022-09-05"
-intitule_in_force: "2022-09-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-22804"
-original_signed_date: "2022-07-14"
-original_published_date: "2022-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-22804"
-entry_into_force_date: "2022-09-06"
-jci_1_3: "jci1.3:c:BWBR0047105&z=2022-09-06&g=2022-09-06"
-jci_1_0: "1.0:c:BWBR0047105&g=2022-09-06"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)"
-signed_date: "2022-07-14"
-entry_into_force: "2022-09-06"
+publicatiedatum: 2022-09-06
+laatste_update: 2022-09-06
+status: geldig
+toestand: 2022-09-06
+bron: "https://wetten.overheid.nl/BWBR0047105"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 14 juli 2022, kenmerk 2700831, houdende beperking van de openbaarheid van het archief van de Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d.22 december 2020, met kenmerk Zaaknummer: 100537 en nader overleg met het Nationaal Archief.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)
 
 ##### Artikel 1
 
@@ -169,4 +141,4 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)’.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van het archief van de Bijzondere Raad van Cassatie van het Ministerie van Justitie 1945 – 1951 (1986)’.

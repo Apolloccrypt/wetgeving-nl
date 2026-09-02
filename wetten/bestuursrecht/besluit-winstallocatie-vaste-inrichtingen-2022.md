@@ -1,49 +1,38 @@
 ---
 title: "Besluit winstallocatie vaste inrichtingen 2022"
 identifier: "BWBR0046838"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-02"
-last_updated: "2022-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046838"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16402003"
-version_id: "28729012"
-internal_id: "C40616321"
-label_id: "16326534"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046838/2022-07-02/0"
-intitule_bron: "Stcrt.2022-16683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-14"
-intitule_published: "2022-07-01"
-intitule_in_force: "2022-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16683"
-original_signed_date: "2022-06-14"
-original_published_date: "2022-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16683"
-entry_into_force_date: "2022-07-02"
-jci_1_3: "jci1.3:c:BWBR0046838&z=2022-07-02&g=2022-07-02"
-jci_1_0: "1.0:c:BWBR0046838&g=2022-07-02"
-citeertitel_status: "officieel"
-signed_date: "2022-06-14"
-entry_into_force: "2022-07-02"
+publicatiedatum: 2022-07-02
+laatste_update: 2022-07-02
+status: geldig
+toestand: 2022-07-02
+bron: "https://wetten.overheid.nl/BWBR0046838"
+opgehaald: 2026-09-02
 ---
+
 # Besluit winstallocatie vaste inrichtingen 2022
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*Dit besluit geeft nader inzicht in mijn standpunten met betrekking tot de winstallocatie aan vaste inrichtingen. Het doel van dit besluit is om duidelijkheid te geven over de wijze waarop de Belastingdienst de winstallocatie aan vaste inrichtingen beoordeelt.*
 
-**Dit besluit geeft nader inzicht in mijn standpunten met betrekking tot de winstallocatie aan vaste inrichtingen. Het doel van dit besluit is om duidelijkheid te geven over de wijze waarop de Belastingdienst de winstallocatie aan vaste inrichtingen beoordeelt.**
-
-**De ontwikkelingen op het gebied van de winstallocatie aan vaste inrichtingen, waaronder de resultaten van het BEPS1Base Erosion and Profit Shifting.-project van de OESO, zijn aanleiding tot een actualisering van het Besluit van 15 januari 2011, nr. IFZ 2010/457M. In dit besluit is aandacht voor de introductie van de objectvrijstelling in de Wet op de vennootschapsbelasting 1969 (Wet Vpb 1969) in 2012, is een aantal redactionele wijzigingen aangebracht en zijn verwijzingen naar andere besluiten en documenten geactualiseerd.**
+*De ontwikkelingen op het gebied van de winstallocatie aan vaste inrichtingen, waaronder de resultaten van het BEPS1Base Erosion and Profit Shifting.-project van de OESO, zijn aanleiding tot een actualisering van het Besluit van 15 januari 2011, nr. IFZ 2010/457M. In dit besluit is aandacht voor de introductie van de objectvrijstelling in de Wet op de vennootschapsbelasting 1969 (Wet Vpb 1969) in 2012, is een aantal redactionele wijzigingen aangebracht en zijn verwijzingen naar andere besluiten en documenten geactualiseerd.*
 
 ### 1. Inleiding
 
 ### 1.1. Gebruikte afkortingen en termen
+
+| AOA | Authorised OECD Approach |
+| --- | --- |
+| Artikel 7 Nieuw | Het in juli 2010 vastgestelde artikel 7 OESO-modelverdrag |
+| Artikel 7 Oud | Het tot juli 2010 geldende artikel 7 OESO-modelverdrag |
+| BEPS | Base Erosion and Profit Shifting |
+| Bvdb | Besluit voorkoming dubbele belasting 2001 |
+| KERT-functies | Key Entrepreneurial Risk Taking functies |
+| OESO | Organisatie voor Economische Samenwerking en Ontwikkeling |
+| OESO-richtlijnen | Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations |
+| PE | Permanent Establishment |
+| PE-Report | Report on the Attribution of Profits to Permanent Establishments 2010 |
+| Wet Vpb 1969 | Wet op de vennootschapsbelasting 1969 |
 
 ### 1.2. Doel besluit
 
@@ -55,13 +44,21 @@ Dit besluit betreft niet de toepassing van artikel 5 OESO-modelverdrag bij de vr
 
 ### 1.3. Hoofdlijnen van het Nederlandse beleid
 
-Het Nederlandse beleid inzake winstallocatie aan vaste richtingen sluit aan bij de conclusies van het PE-Report.2OESO (2010). **2010 Report on the Attribution of Profits to Permanent Establishments**. OECD Publishing: Paris. In het PE-Report wordt gekozen voor de ‘functionally separate entity approach’ en daarmee voor de toepassing van het arm’s-lengthbeginsel zoals nader uitgewerkt in de OESO-richtlijnen.
+Aansluiting bij het PE-Report
+
+Het Nederlandse beleid inzake winstallocatie aan vaste richtingen sluit aan bij de conclusies van het PE-Report.2OESO (2010). *2010 Report on the Attribution of Profits to Permanent Establishments*. OECD Publishing: Paris. In het PE-Report wordt gekozen voor de ‘functionally separate entity approach’ en daarmee voor de toepassing van het arm’s-lengthbeginsel zoals nader uitgewerkt in de OESO-richtlijnen.
 
 Uitgangspunt bij de winstallocatie in het PE-Report is de ‘Authorised OECD Approach’ (AOA). De AOA bestaat, kort gezegd, uit de volgende stappen:
 
-Met ingang van 1 januari 2012 is voor (buitenlandse) vaste inrichtingen in de [Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) de objectvrijstelling geïntroduceerd door middel van [artikel 15e Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e).3Voor vaste inrichtingen in Nederland van een buitenlands lichaam is Hoofdstuk III (art. 17 e.v.) Wet Vpb 1969 van toepassing. Vanaf de invoering van de objectvrijstelling voor buitenlandse ondernemingswinsten worden zowel de positieve als de negatieve resultaten van de buitenlandse vaste inrichting uit de wereldwinst van een Nederlands lichaam geëlimineerd.4Dit vindt geen toepassing voor de laagbelaste buitenlandse beleggingsonderneming (art. 15e, lid 7 jo. art. 15g Wet Vpb 1969).
+- 1. In de eerste stap worden de activa en risico’s alsmede het vermogen gealloceerd aan de vaste inrichting op basis van de functionele analyse. Bij deze vermogensallocatie zijn in grote lijnen twee methoden te onderscheiden: de ‘capital allocation approach’ en de ‘thin capitalisation approach’. Mede gelet op het uitgangspunt van het PE-Report dat de vaste inrichting in principe een gelijke kredietwaardigheid heeft als het lichaam in zijn geheel, heb ik een voorkeur voor de capital allocation approach.
 
-Voor de winsttoerekening aan vaste inrichtingen in verdragssituaties is het van toepassing zijnde artikel in het verdrag relevant. Voor de winsttoerekening aan vaste inrichtingen in niet-verdragssituaties moet worden aangesloten bij de meest recente tekst van [artikel 7](onbekend) OESO-modelverdrag,5In dit besluit zal het nieuwe artikel 7 OESO-modelverdrag zoals door de OESO vastgesteld in juli 2010 als artikel 7 Nieuw worden aangeduid. Het artikel 7 dat tot juli 2010 geldig was zal in dit besluit als artikel 7 Oud worden aangeduid. waardoor het OESO-commentaar op dit artikel en het PE-Report relevant zijn.
+- 2. In de tweede stap wordt de winst van de vaste inrichting bepaald op basis van de analyse in de eerste stap en de toepassing van het arm’s-lengthbeginsel. Daarbij kan de rentelast ter zake van het gealloceerde vreemd vermogen worden bepaald aan de hand van twee methoden: de ‘fungibility approach’ en de ‘tracing approach’. Ik heb de voorkeur voor de fungibility approach, waarbij na de allocatie van het vermogen op basis van de capital allocation approach de rentelast van het lichaam naar rato van het toegerekend vreemd vermogen wordt gealloceerd aan de vaste inrichting.
+
+De objectvrijstelling
+
+Met ingang van 1 januari 2012 is voor (buitenlandse) vaste inrichtingen in de [Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) de objectvrijstelling geïntroduceerd door middel van [artikel 15e Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15e).3Voor vaste inrichtingen in Nederland van een buitenlands lichaam is Hoofdstuk III (art. 17 e.v.) Wet Vpb 1969 van toepassing. Vanaf de invoering van de objectvrijstelling voor buitenlandse ondernemingswinsten worden zowel de positieve als de negatieve resultaten van de buitenlandse vaste inrichting uit de wereldwinst van een Nederlands lichaam geëlimineerd.4Dit vindt geen toepassing voor de laagbelaste buitenlandse beleggingsonderneming (art. 15e, lid 7 jo. art. 15g Wet Vpb 1969).
+
+Voor de winsttoerekening aan vaste inrichtingen in verdragssituaties is het van toepassing zijnde artikel in het verdrag relevant. Voor de winsttoerekening aan vaste inrichtingen in niet-verdragssituaties moet worden aangesloten bij de meest recente tekst van artikel 7 OESO-modelverdrag,5In dit besluit zal het nieuwe artikel 7 OESO-modelverdrag zoals door de OESO vastgesteld in juli 2010 als artikel 7 Nieuw worden aangeduid. Het artikel 7 dat tot juli 2010 geldig was zal in dit besluit als artikel 7 Oud worden aangeduid. waardoor het OESO-commentaar op dit artikel en het PE-Report relevant zijn.
 
 ##### Artikel 7. Oeso-modelverdrag
 
@@ -71,13 +68,15 @@ De vraag in hoeverre de wijzigingen in artikel 7 Nieuw en het daarbij horende co
 
 Daarnaast is relevant dat het PE-Report, de relevante artikelen in het OESO-modelverdrag en het daarbij horende commentaar geen directe betekenis hebben voor de toepassing van de nationale belastingwetten en van het [Bvdb](https://wetten.overheid.nl/jci1.3:c:BWBR0012095), maar slechts voor de uitleg van door Nederland afgesloten belastingverdragen. De bepalingen over vaste inrichtingen in de nationale belastingwetten, in het Bvdb en in de bilaterale verdragen hebben echter wel dezelfde uitgangspunten. Dat blijkt ook uit de sterk overeenkomende definities van een vaste inrichting en van de methode waarmee de winst aan een vaste inrichting moet worden toegerekend. Het uiteenlopen van de invulling van deze bepalingen kan leiden tot dubbele belasting of tot dubbele niet-belasting en dat zou in strijd zijn met het doel van deze regelingen.
 
+Dubbele niet-belasting
+
 Het Nederlandse uitgangspunt is dat dubbele niet-belasting als gevolg van een verschillende interpretatie van het arm’s-lengthbeginsel bij de winsttoerekening in relatie tot een naar de winst geheven belasting ongewenst is en zoveel mogelijk voorkomen dient te worden. Indien en voor zover een belastingplichtige bij de winstallocatie in de betrokken landen afwijkende keuzes maakt die ertoe leiden dat een deel van de winst van de vaste inrichting niet in de heffing van een naar de winst geheven belasting wordt betrokken, kan de Belastingdienst afwijken van het beleid zoals beschreven in dit besluit om te komen tot een uitkomst die niet leidt tot dubbele niet-belasting.
 
 ### 2. Winstallocatie vaste inrichtingen
 
 ### 2.1. Algemeen
 
-In juli 2008 is het PE-Report gepubliceerd, dat in 2010 is aangepast.6Deze aanpassingen hadden als voornaamste doel het in overeenstemming brengen van bepaalde begrippen uit het PE-Report met begrippen uit het nieuwe artikel 7 OESO-modelverdrag en de vernieuwde OESO-richtlijnen. Met deze aanpassingen zijn geen inhoudelijke wijzigingen beoogd.7Na de publicatie van het PE-Report publiceerde de OESO in maart 2018 de **Additional Guidance on the Attribution of Profits to a Permanent Establishment under BEPS Action 7**. Dit rapport wijkt niet af van de op het PE-Report gebaseerde Nederlandse visie. In dit rapport wordt beschreven hoe winsten8Indien in dit besluit sprake is van het begrip winsten wordt hier tevens verliezen onder verstaan. aan vaste inrichtingen toegerekend dienen te worden. Het doel van het PE-Report is om grotere internationale consensus te bereiken met betrekking tot de toepassing van artikel 7 OESO-modelverdrag. Hoewel in het in 2008 geldende artikel 7 de verwijzing naar de functionally separate entity approach als zodanig in lid 2 was opgenomen, bleek vanuit ervaringen in de praktijk nadere uitleg noodzakelijk. Daarnaast zijn nieuwe inzichten inzake winstallocatie aan vaste inrichtingen in het PE-Report verwerkt.
+In juli 2008 is het PE-Report gepubliceerd, dat in 2010 is aangepast.6Deze aanpassingen hadden als voornaamste doel het in overeenstemming brengen van bepaalde begrippen uit het PE-Report met begrippen uit het nieuwe artikel 7 OESO-modelverdrag en de vernieuwde OESO-richtlijnen. Met deze aanpassingen zijn geen inhoudelijke wijzigingen beoogd.7Na de publicatie van het PE-Report publiceerde de OESO in maart 2018 de *Additional Guidance on the Attribution of Profits to a Permanent Establishment under BEPS Action 7*. Dit rapport wijkt niet af van de op het PE-Report gebaseerde Nederlandse visie. In dit rapport wordt beschreven hoe winsten8Indien in dit besluit sprake is van het begrip winsten wordt hier tevens verliezen onder verstaan. aan vaste inrichtingen toegerekend dienen te worden. Het doel van het PE-Report is om grotere internationale consensus te bereiken met betrekking tot de toepassing van artikel 7 OESO-modelverdrag. Hoewel in het in 2008 geldende artikel 7 de verwijzing naar de functionally separate entity approach als zodanig in lid 2 was opgenomen, bleek vanuit ervaringen in de praktijk nadere uitleg noodzakelijk. Daarnaast zijn nieuwe inzichten inzake winstallocatie aan vaste inrichtingen in het PE-Report verwerkt.
 
 In het kader van de implementatie van het PE-Report heeft de OESO een traject gevolgd dat uit twee stappen bestond. Voor zover de conclusies van het PE-Report niet conflicteerden met het op dat moment bestaande commentaar is het commentaar op artikel 7 OESO-modelverdrag in 2008 aangepast. Veelal ging het hier om een verduidelijking of een nadere interpretatie. De tweede stap in het implementatietraject bestond uit het herschrijven van het bestaande artikel 7 OESO-modelverdrag en het commentaar. Dit is in juli 2010 door de OESO vastgesteld.
 
@@ -87,6 +86,10 @@ Het uitgangspunt bij de winstallocatie in het PE-Report is de AOA. Deze benaderi
 
 De AOA bestaat uit twee stappen:
 
+- 1. In de eerste stap worden de activa en risico’s alsmede het vermogen gealloceerd aan de vaste inrichting op basis van de functionele analyse.
+
+- 2. In de tweede stap wordt de winst van de vaste inrichting bepaald op basis van de analyse in de eerste stap en de toepassing van het arm’s-lengthbeginsel.
+
 ### 2.2.1. Stap 1. Allocatie van activa en risico’s op basis van de functionele analyse
 
 In de eerste stap dient voor de allocatie van activa en risico’s in zijn algemeenheid aangesloten te worden bij de plaats waar de zogeheten ‘significant people functions’ worden uitgeoefend. Significant people functions zijn gerelateerd aan de mensen die de activiteiten verrichten met betrekking tot het eigendom van activa en het aangaan en beheren van risico’s. Het gaat hier om de zogenaamde ‘day to day’ activiteiten die bij de bedrijfsvoering een bepalende rol spelen. De plaats waar deze activiteiten worden verricht is bepalend voor de allocatie van het economisch eigendom van de activa en de door het lichaam gelopen risico’s.
@@ -95,21 +98,35 @@ Tevens wordt in de eerste stap het eigen en daarna het vreemd vermogen geallocee
 
 Voor de toerekening van het eigen vermogen aan de vaste inrichting worden in het PE-Report verschillende methoden beschreven die tot verschillende uitkomsten kunnen leiden, namelijk:
 
+- 1. Capital allocation approach, deze methode gaat uit van de actuele vermogensstructuur van het generale lichaam; en
+
+- 2. Thin capitalisation approach, deze methode gaat uit van de vermogensstructuur van met de vaste inrichting vergelijkbare ongelieerde lichamen.
+
 Het Nederlandse beleid is gericht op een winsttoerekening aan de vaste inrichting die zoveel mogelijk leidt tot de winst die een ongelieerd lichaam zou hebben behaald met vergelijkbare activiteiten onder vergelijkbare omstandigheden. Ik heb in dat kader een voorkeur voor de capital allocation approach, mede gelet op het uitgangspunt van het PE-Report dat de vaste inrichting in principe een gelijke kredietwaardigheid heeft als het lichaam in zijn geheel.
 
 Om de gelijke kredietwaardigheid te bewerkstelligen zal er bij de toedeling van het vermogen naar zowel de waarde van de activa als de aan de activiteiten en activa verbonden risico’s gekeken moeten worden.
 
 Een voorbeeld van de toepassing van de capital allocation approach is uitgewerkt in een bijlage bij dit besluit.
 
-Het PE-Report schetst bij de eerste stap van de AOA onder welke omstandigheden er dealings tussen het hoofdhuis en de vaste inrichting aangenomen moeten worden. Deze dealings hebben invloed op de winstallocatie tussen hoofdhuis en vaste inrichting. Op specifieke dealings met betrekking tot concerndiensten, immateriële vaste activa en financiering wordt in paragraaf 4 van dit besluit nader ingegaan.
+Het PE-Report schetst bij de eerste stap van de AOA onder welke omstandigheden er dealings tussen het hoofdhuis en de vaste inrichting aangenomen moeten worden. Deze dealings hebben invloed op de winstallocatie tussen hoofdhuis en vaste inrichting. Op specifieke dealings met betrekking tot concerndiensten, immateriële vaste activa en financiering wordt in [paragraaf 4](https://wetten.overheid.nl/BWBR0046838) van dit besluit nader ingegaan.
 
 Met betrekking tot de allocatie van eigen en vreemd vermogen geldt tevens het volgende:
+
+- • Voor de bepaling van de waarde van de activa bij de vaststelling van het relatieve belang van de actiefzijde van de vaste inrichting in relatie tot de balans van het lichaam als geheel zal in principe uitgegaan moeten worden van de waarde van de activa in het economisch verkeer.
+
+- • De bepaling van de relatieve waarde van de activa dient in beginsel jaarlijks te worden vastgesteld.
+
+- • Gelet op de complexiteit van de bepaling van de jaarlijkse relatieve waarde van de activa en het besef dat het bij de allocatie van eigen en vreemd vermogen niet om een exacte wetenschap gaat, zal de Belastingdienst bij de beoordeling ervan een zekere flexibiliteit in acht nemen.
 
 ### 2.2.2. Stap 2. Allocatie van kosten en opbrengsten op basis van het arm’s-lengthbeginsel
 
 In de tweede stap worden de kosten en opbrengsten at arm’s length gealloceerd aan de vaste inrichting op basis van de functies, de activa, de risico’s, het vermogen en de dealings zoals die in de eerste stap zijn geanalyseerd. Voor de in de eerste stap geïdentificeerde dealings dient in de tweede stap een verrekenprijs te worden bepaald.
 
 Na het toerekenen van het eigen en vreemd vermogen dient een arm’s-lengthrentelast aan de vaste inrichting te worden toegerekend. In het PE-Report worden daartoe twee methoden beschreven:
+
+- 1. De tracing approach, waarbij voor het bepalen van het rentepercentage zoveel mogelijk wordt aangesloten bij het rentepercentage van de externe lening die aangetrokken is om het specifieke actief te financieren; en
+
+- 2. De fungibility approach, waarbij de totale rentelast van het lichaam in zijn geheel naar rato van het toegerekend vreemd vermogen wordt gealloceerd aan de vaste inrichting en het historisch verband met een lening niet van belang is.
 
 ### 2.2.3. Nederlandse voorkeursmethode voor allocatie van rentelasten
 
@@ -125,11 +142,17 @@ Een voorbeeld van de toepassing van de fungibility approach is uitgewerkt in een
 
 ### 2.3. Het gebruik van afwijkende methoden in het land van het hoofdhuis en de vaste inrichting
 
-Omdat in het PE-Report niet gekozen wordt voor een specifieke methode is het risico aanwezig dat landen de allocatie van het eigen vermogen en de rentelasten verschillend benaderen waardoor geen of dubbele belastingheffing ontstaat.10Zie art. 12aa lid 1 sub g Wet Vpb 1969 waarbij een mogelijke mismatch kan ontstaan met betrekking tot de renteallocatie door een verschillende benadering van belastingautoriteiten ten aanzien van de allocatiewijze van eigen en vreemd vermogen en van rentelasten, waardoor sprake kan zijn van een dubbele aftrek. Indien vanwege de toepassing van een verschillende benadering met betrekking tot de allocatie van rentelasten door verschillende belastingdiensten, belastingplichtige wordt geconfronteerd met dubbele belastingheffing, ben ik bereid bij toepassing van een belastingverdrag in overleg te treden met de bevoegde autoriteit van het andere land en daarbij ernaar te streven om de ontstane dubbele belastingheffing te elimineren zoals omschreven is in het [Besluit van 11 juni 2020, nr. 2020-0000101607](https://wetten.overheid.nl/jci1.3:c:BWBR0043694), Staatscourant 2020, 32689.
+Omdat in het PE-Report niet gekozen wordt voor een specifieke methode is het risico aanwezig dat landen de allocatie van het eigen vermogen en de rentelasten verschillend benaderen waardoor geen of dubbele belastingheffing ontstaat.10Zie art. 12aa lid 1 sub g Wet Vpb 1969 waarbij een mogelijke mismatch kan ontstaan met betrekking tot de renteallocatie door een verschillende benadering van belastingautoriteiten ten aanzien van de allocatiewijze van eigen en vreemd vermogen en van rentelasten, waardoor sprake kan zijn van een dubbele aftrek. Indien vanwege de toepassing van een verschillende benadering met betrekking tot de allocatie van rentelasten door verschillende belastingdiensten, belastingplichtige wordt geconfronteerd met dubbele belastingheffing, ben ik bereid bij toepassing van een belastingverdrag in overleg te treden met de bevoegde autoriteit van het andere land en daarbij ernaar te streven om de ontstane dubbele belastingheffing te elimineren zoals omschreven is in het [Besluit van 11 juni 2020, nr. 2020-0000101607](https://wetten.overheid.nl/jci1.3:c:BWBR0043694), Staatscourant 2020, 32689.
 
 Bij toepassing van verdragen waarin artikel 7 Oud van toepassing is zal, overeenkomstig het commentaar in paragraaf 48 bij dat artikel, bij het gebruik van een verschillende benadering met betrekking tot de vermogensallocatie in de betreffende landen de benadering van het land van de vaste inrichting worden gevolgd indien:
 
-Zoals ook in paragraaf 1.3 van dit besluit opgemerkt kan de Belastingdienst afwijken van het beleid in dit besluit om te komen tot een uitkomst die arm’s-length is en die niet leidt tot dubbele niet-belasting.
+- 1. de verschillende benaderingen in de landen het gevolg is van keuzes die zijn verankerd in de wet- of regelgeving; en
+
+- 2. de keuze in het land van de vaste inrichting een door de OESO geautoriseerde keuze is; en
+
+- 3. in de betreffende specifieke casus deze benadering een resultaat tot gevolg heeft dat als arm’s length beschouwd kan worden.
+
+Zoals ook in [paragraaf 1.3](https://wetten.overheid.nl/BWBR0046838) van dit besluit opgemerkt kan de Belastingdienst afwijken van het beleid in dit besluit om te komen tot een uitkomst die arm’s-length is en die niet leidt tot dubbele niet-belasting.
 
 ### 3. Risicoallocatie, significant people functions versus control
 
@@ -137,11 +160,11 @@ Het is van belang dat de uitgangspunten die worden gehanteerd bij de risicoalloc
 
 In het PE-Report is in het kader van de analoge toepassing van het arm’s-lengthbeginsel voor de winstallocatie aan vaste inrichtingen het begrip significant people functions geïntroduceerd. Significant people functions zijn de functies die betrekking hebben op het actief nemen van beslissingen met betrekking tot het eigendom van activa en het aangaan en beheren van risico’s. Volgens het PE-Report gaat het hier met name om de day to day-activiteiten die bij de bedrijfsvoering van een lichaam een bepalende rol spelen.
 
-In het deel van het PE-Report dat handelt over de financiële instellingen wordt hiervoor de term ‘key entrepreneurial risk taking’ functies (KERT-functies) gebruikt. De reden voor het gebruik van deze afwijkende terminologie is gelegen in het feit dat er bij financiële instellingen meer dan bij andere lichamen een overlap zal bestaan tussen de significant people functions die bepalend zijn voor de toerekening van het economisch eigendom van activa en de significant people functions bij het aangaan en beheren van risico’s. Dit vindt zijn oorzaak in de nauwe relatie bij financiële instellingen tussen activa en risico’s. Een KERT-functie bij een financiële instelling ziet doorgaans op een activiteit (significant people function) die zowel van belang is voor de toerekening van een activum, als voor de toerekening van een risico (bijvoorbeeld het verstrekken van een lening door een bank).11Met betrekking tot specifieke overwegingen voor de winstallocatie aan een vaste inrichting in het geval van financiële instellingen en financieringstransacties, verwijs ik naar het tweede deel (**Part II.****Banks**) van het PE-Report uit 2010.
+In het deel van het PE-Report dat handelt over de financiële instellingen wordt hiervoor de term ‘key entrepreneurial risk taking’ functies (KERT-functies) gebruikt. De reden voor het gebruik van deze afwijkende terminologie is gelegen in het feit dat er bij financiële instellingen meer dan bij andere lichamen een overlap zal bestaan tussen de significant people functions die bepalend zijn voor de toerekening van het economisch eigendom van activa en de significant people functions bij het aangaan en beheren van risico’s. Dit vindt zijn oorzaak in de nauwe relatie bij financiële instellingen tussen activa en risico’s. Een KERT-functie bij een financiële instelling ziet doorgaans op een activiteit (significant people function) die zowel van belang is voor de toerekening van een activum, als voor de toerekening van een risico (bijvoorbeeld het verstrekken van een lening door een bank).11Met betrekking tot specifieke overwegingen voor de winstallocatie aan een vaste inrichting in het geval van financiële instellingen en financieringstransacties, verwijs ik naar het tweede deel (*Part II.**Banks*) van het PE-Report uit 2010.
 
-In de OESO-richtlijnen, waarin nadere uitwerking wordt gegeven aan het arm’s-lengthbeginsel met betrekking tot transacties tussen gelieerde lichamen, wordt eveneens aandacht besteed aan risicoallocatie. Hoewel in de OESO-richtlijnen de contractuele werkelijkheid het startpunt is van de functionele analyse, wordt ook aandacht besteed aan de wijze waarop risico’s tussen partijen gealloceerd worden. In de OESO-richtlijnen speelt het begrip control een belangrijke rol bij de risicoallocatie. Dit wordt als volgt gedefinieerd: ‘**Control over risk involves (…) (i) the capability to make decisions to take on, lay off, or decline a risk-bearing opportunity, together with the actual performance of that decision-making function and (ii) the capability to make decisions on whether and how to respond to the risks associated with the opportunity, together with the actual performance of that decision-making function.’**12OESO (2022). **Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations**, par. 1.65.
+In de OESO-richtlijnen, waarin nadere uitwerking wordt gegeven aan het arm’s-lengthbeginsel met betrekking tot transacties tussen gelieerde lichamen, wordt eveneens aandacht besteed aan risicoallocatie. Hoewel in de OESO-richtlijnen de contractuele werkelijkheid het startpunt is van de functionele analyse, wordt ook aandacht besteed aan de wijze waarop risico’s tussen partijen gealloceerd worden. In de OESO-richtlijnen speelt het begrip control een belangrijke rol bij de risicoallocatie. Dit wordt als volgt gedefinieerd: ‘*Control over risk involves (…) (i) the capability to make decisions to take on, lay off, or decline a risk-bearing opportunity, together with the actual performance of that decision-making function and (ii) the capability to make decisions on whether and how to respond to the risks associated with the opportunity, together with the actual performance of that decision-making function.’*12OESO (2022). *Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations*, par. 1.65.
 
-Paragraaf 1.65 van de OESO-richtlijnen stelt daarbij aan het eind dat voor de allocatie van risico’s het volgende van belang is: ‘**a party requires both capability and functional performance as described above in order to exercise control over a risk’.**
+Paragraaf 1.65 van de OESO-richtlijnen stelt daarbij aan het eind dat voor de allocatie van risico’s het volgende van belang is: ‘*a party requires both capability and functional performance as described above in order to exercise control over a risk’.*
 
 Het is de vraag wat nu precies de verhouding is tussen de significant people functions en de functies van mensen die control uitoefenen met betrekking tot bepaalde risico’s. De activiteiten van de partijen die control uitoefenen zouden een iets ander karakter kunnen hebben dan de activiteiten van de partijen die de significant people functions uitoefenen, doordat ze functioneel mogelijk iets verder afstaan van de day to day-activiteiten.
 
@@ -157,7 +180,7 @@ Op basis van het arm’s-lengthbeginsel dienen concerndiensten te worden beloond
 
 Het derde lid van artikel 7 Oud geeft regels voor bij de vaste inrichting in aftrek toegestane kosten. Volgens dit artikel behoren kosten van leiding en algemene beheerskosten tot de in aftrek toegelaten kosten, ongeacht waar deze uitgaven gedaan zijn. Dit moet in dit verband niet worden gelezen als een beperking van het tweede lid van artikel 7 Oud, maar als een verduidelijking die de toepassing van het arm’s-lengthbeginsel niet in de weg staat.
 
-Hoewel het derde lid van artikel 7 Oud een benadering op basis van het arm’s-lengthbeginsel niet in de weg staat is in het commentaar van artikel 7 Oud (paragrafen 37 en 38) te lezen dat voor de daar genoemde diensten (inclusief strategisch management) de kosten toegerekend worden **zonder** een winstopslag in aanmerking te nemen.14Met het commentaar van artikel 7 Oud wordt hier bedoeld het commentaar op het OESO-modelverdrag dat in 2008 is herzien. Dit is slechts anders indien de betreffende diensten ook meer dan incidenteel aan niet-gelieerde partijen worden verleend of indien de betreffende diensten de belangrijkste activiteit van het lichaam vormen (paragrafen 35 en 36). Het is mijn visie dat in geval van interne dienstverlening, evenals bij toepassing van artikel 9 OESO-modelverdrag, in beginsel een winstopslag in aanmerking dient te worden genomen om tot een arm’s length uitkomst te komen.
+Hoewel het derde lid van artikel 7 Oud een benadering op basis van het arm’s-lengthbeginsel niet in de weg staat is in het commentaar van artikel 7 Oud (paragrafen 37 en 38) te lezen dat voor de daar genoemde diensten (inclusief strategisch management) de kosten toegerekend worden *zonder* een winstopslag in aanmerking te nemen.14Met het commentaar van artikel 7 Oud wordt hier bedoeld het commentaar op het OESO-modelverdrag dat in 2008 is herzien. Dit is slechts anders indien de betreffende diensten ook meer dan incidenteel aan niet-gelieerde partijen worden verleend of indien de betreffende diensten de belangrijkste activiteit van het lichaam vormen (paragrafen 35 en 36). Het is mijn visie dat in geval van interne dienstverlening, evenals bij toepassing van artikel 9 OESO-modelverdrag, in beginsel een winstopslag in aanmerking dient te worden genomen om tot een arm’s length uitkomst te komen.
 
 Ik zal mij bij de toepassing van verdragen die niet zijn gebaseerd op artikel 7 Nieuw soepel opstellen bij de interpretatie van artikel 7 Oud. Dit betekent concreet dat met betrekking tot de in het commentaar genoemde diensten, de toerekening van kosten aan een vaste inrichting zowel op basis van alle relevante werkelijke kosten zonder winstopslag als tegen een prijs gebaseerd op het arm’s-lengthbeginsel in principe als passend zal worden aangemerkt.
 
@@ -205,7 +228,7 @@ Een uitzondering op deze allocatieregel kan gelden voor financiële activa die w
 
 ### 5.3. De agent als vaste vertegenwoordiger
 
-Het PE-Report (zie D5 van Part I) beschrijft op welke wijze winst dient te worden toegerekend aan een specifieke vaste inrichting, zijnde de vaste inrichting van de buitenlandse opdrachtgever die het gevolg is van het aanmerken van een afhankelijke, al dan niet gelieerde, agent als vaste vertegenwoordiger. Feitelijk ontstaan er in die situatie twee belastingplichtigen: de onderneming van de afhankelijke agent (de ‘dependent agent’) en de vaste inrichting van de buitenlandse opdrachtgever (de ‘dependent agent PE’). Met nadruk geldt de beschreven methodiek niet om te bepalen of er sprake is van een vaste vertegenwoordiger. Voor wat betreft de allocatie van winst gelden volgens het PE-Report bij de dependent agent PE dezelfde regels als bij een gewone vaste inrichting.18De definitie van de dependent agent PE is aangepast in het in 2018 gepubliceerde OESO-Rapport ‘**Additional Guidance on the Attribution of Profits to Permanent Establishments, BEPS Action 7**.’
+Het PE-Report (zie D5 van Part I) beschrijft op welke wijze winst dient te worden toegerekend aan een specifieke vaste inrichting, zijnde de vaste inrichting van de buitenlandse opdrachtgever die het gevolg is van het aanmerken van een afhankelijke, al dan niet gelieerde, agent als vaste vertegenwoordiger. Feitelijk ontstaan er in die situatie twee belastingplichtigen: de onderneming van de afhankelijke agent (de ‘dependent agent’) en de vaste inrichting van de buitenlandse opdrachtgever (de ‘dependent agent PE’). Met nadruk geldt de beschreven methodiek niet om te bepalen of er sprake is van een vaste vertegenwoordiger. Voor wat betreft de allocatie van winst gelden volgens het PE-Report bij de dependent agent PE dezelfde regels als bij een gewone vaste inrichting.18De definitie van de dependent agent PE is aangepast in het in 2018 gepubliceerde OESO-Rapport ‘*Additional Guidance on the Attribution of Profits to Permanent Establishments, BEPS Action 7*.’
 
 Ik ben van mening dat, gelet op het uitgangspunt dat de agent in de uitoefening van zijn eigen onderneming arm’s length beloond dient te worden, er normaliter geen aanleiding is om daarnaast winst toe te rekenen aan een eventueel te constateren vaste inrichting van de buitenlandse opdrachtgever.
 
@@ -213,7 +236,7 @@ Indien de buitenlandse opdrachtgever met haar eigen personeel significant people
 
 ### 5.4. Zekerheid vooraf
 
-Voor het verkrijgen van zekerheid vooraf over de winstallocatie aan een vaste inrichting, zie het Besluit van 9 augustus 2021, nr. 2021/16465, Staatscourant 2021, 38442.
+Voor het verkrijgen van zekerheid vooraf over de winstallocatie aan een vaste inrichting, zie het Besluit van 9 augustus 2021, nr. 2021/16465, Staatscourant 2021, 38442.
 
 ### 6. Inwerkingtreding
 
@@ -223,30 +246,8 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – [Besluit van de Staatssecretaris van Financiën van 15 januari 2011, nr. IFZ2010/457M, Staatscourant 2011, 1375](https://wetten.overheid.nl/jci1.3:c:BWBR0029486).
+
 ### 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit winstallocatie vaste inrichtingen 2022.
-
-## Bijlage. bij het Besluit winstallocatie vaste inrichtingen
-
-Dit voorbeeld is opgenomen ter illustratie van de capital allocation approach en fungibility approach. Het doel van de gehanteerde methode is de allocatie van eigen en vervolgens vreemd vermogen aan de vaste inrichting.
-
-Het generale lichaam kent de volgende balans:
-
-Er dienen in het kader van de eerste stap van de AOA activa aan de vaste inrichting te worden toegerekend. Stel dat op basis van de analyse van de significant people functions de toewijzing van de activa aan de vaste inrichting resulteert in activa voor een bedrag van 200. In dat geval dient daarna financiering ter grootte van 200 te worden gealloceerd aan de vaste inrichting. Het is de vraag welk deel daarvan uit eigen vermogen en welk deel uit vreemd vermogen dient te bestaan ter bepaling van de arm’s-lengthrentelast van de vaste inrichting.
-
-Bij de uitwerking van dit voorbeeld wordt onderscheid gemaakt tussen twee situaties. In beide situaties mag worden aangenomen dat de vaste inrichting dezelfde kredietwaardigheid heeft als het generale lichaam.
-
-In dit voorbeeld wordt ervan uitgegaan dat de verrichte activiteiten, gebruikte activa en gelopen risico’s van de vaste inrichting volledig vergelijkbaar zijn met die van het generale lichaam. Toepassing van de capital allocation approach zou er dan toe kunnen leiden dat er naar rato van de waarde van de activa eigen vermogen toegerekend moet worden aan de vaste inrichting (in dit geval 200/400 * 150 = 75). Het toe te rekenen vreemd vermogen bedraagt in dat geval 125 (200 – 75).
-
-De balans van de vaste inrichting ziet er dan als volgt uit.
-
-De rentelast zal berekend worden naar rato van het toegerekende vreemd vermogen van 125. Aangezien de verrichte activiteiten en gebruikte activa van de vaste inrichting hetzelfde risicoprofiel hebben als die van het generale lichaam, ligt het voor de hand dat bij toepassing van de fungibility approach ook circa 50% van de rentelasten van het lichaam dient te worden toegerekend aan de vaste inrichting.
-
-In dit voorbeeld wordt ervan uitgegaan dat de verrichte activiteiten en gebruikte activa van de vaste inrichting een lager risicoprofiel hebben dan die van het generale lichaam. Stel dat toepassing van de capital allocation approach tot de conclusie leidt dat 1/3 deel van het eigen vermogen van het lichaam aan de vaste inrichting dient te worden toegerekend, dan dient aan de vaste inrichting een eigen vermogen te worden toegerekend van 50 (1/3 * 150). Het toe te rekenen deel van het vreemd vermogen wordt hierdoor 150 (200 – 50).
-
-De balans van de vaste inrichting ziet er dan als volgt uit.
-
-De rentelast zal berekend worden naar rato van het toegerekende vreemd vermogen van 150. Omdat de vaste inrichting een lager risicoprofiel heeft dan het generale lichaam, dient relatief minder eigen vermogen te worden toegerekend aan de vaste inrichting in situatie 2 en daarmee ook minder dan in situatie 1. De keerzijde daarvan is dat er relatief veel vreemd vermogen aan de vaste inrichting dient te worden toegerekend, waardoor in principe aan de vaste inrichting relatief meer rente wordt gealloceerd.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

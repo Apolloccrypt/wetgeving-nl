@@ -1,43 +1,19 @@
 ---
 title: "Omzetbelasting, accijns, belasting op personenauto's en motorrijwielen, motorrijtuigenbelasting, overdrachtsbelasting, energiebelasting en opslag duurzame energie- en klimaattransitie en belasting op leidingwater, diplomatieke vrijstellingen"
 identifier: "BWBR0046823"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-06-30"
-last_updated: "2022-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046823"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "16397033"
-version_id: "28719242"
-internal_id: "C40577771"
-label_id: "16322014"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046823/2022-06-30/0"
-intitule_bron: "Stcrt.2022-16180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-23"
-intitule_published: "2022-06-29"
-intitule_in_force: "2022-06-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16180"
-original_signed_date: "2022-06-23"
-original_published_date: "2022-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16180"
-entry_into_force_date: "2022-06-30"
-jci_1_3: "jci1.3:c:BWBR0046823&z=2022-06-30&g=2022-06-30"
-jci_1_0: "1.0:c:BWBR0046823&g=2022-06-30"
-citeertitel_status: "redactioneel"
-signed_date: "2022-06-23"
-entry_into_force: "2022-06-30"
+publicatiedatum: 2022-06-30
+laatste_update: 2022-06-30
+status: geldig
+toestand: 2022-06-30
+bron: "https://wetten.overheid.nl/BWBR0046823"
+opgehaald: 2026-09-02
 ---
+
 # Omzetbelasting, accijns, belasting op personenauto's en motorrijwielen, motorrijtuigenbelasting, overdrachtsbelasting, energiebelasting en opslag duurzame energie- en klimaattransitie en belasting op leidingwater, diplomatieke vrijstellingen
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit bevat beleid met betrekking tot diplomatieke vrijstellingen van omzetbelasting, accijns, belasting op personenauto's en motorrijwielen, motorrijtuigenbelasting, overdrachtsbelasting, energiebelasting en opslag duurzame energie- en klimaattransitie en belasting op leidingwater.**
+*Dit besluit bevat beleid met betrekking tot diplomatieke vrijstellingen van omzetbelasting, accijns, belasting op personenauto's en motorrijwielen, motorrijtuigenbelasting, overdrachtsbelasting, energiebelasting en opslag duurzame energie- en klimaattransitie en belasting op leidingwater.*
 
 ### 1. Inleiding
 
@@ -45,15 +21,42 @@ entry_into_force: "2022-06-30"
 
 Voor de toepassing van dit besluit worden de volgende begrippen en afkortingen gehanteerd:
 
+| Adr | Algemene douaneregeling |
+| --- | --- |
+| ATB-personeel | Administratief, technisch en bedienend personeel |
+| AWR | Algemene wet inzake rijksbelastingen |
+| DPG | Directie Protocol en Gastlandzaken van het Ministerie van Buitenlandse Zaken |
+| EER | Europese Economisch Ruimte |
+| EU | Europese Unie |
+| Functionarissen | Functionarissen van internationale organisaties |
+| Internationale overeenkomsten | Zetelverdragen en briefwisselingen |
+| PROBAS | Protocollaire Basisadministratie |
+| Team IFB | Team Internationale Fiscale Behandeling van de Belastingdienst |
+| UrA | Uitvoeringsregeling accijns |
+| UrAWR | Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 |
+| Vertegenwoordigingen | Diplomatieke en consulaire vertegenwoordigingen van andere staten in Nederland |
+| Vertegenwoordigers | Leden van vertegenwoordigingen |
+| WA | Wet op de accijns |
+
 ### 1.2. Achtergrond
 
 De [artikelen 32 tot en met 40 UrAWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=32) bevatten een aantal belastingvrijstellingen voor ambassades, consulaten, internationale organisaties, militaire begraafplaatsen, vertegenwoordigers en functionarissen. Deze vrijstellingen zijn gebaseerd op [artikel 39 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=39).
 
-In dit besluit, dat dient ter vervanging van [Besluit IFZ2002/1208M](https://wetten.overheid.nl/jci1.3:c:BWBR0028044) van 21 januari 2003, worden verschillende vrijstellingen nader uitgewerkt. Dit besluit heeft hoofdzakelijk een toelichtend karakter. Er is niet beoogd de vrijstellingen te verruimen, tenzij dit uitdrukkelijk is aangegeven.
+In dit besluit, dat dient ter vervanging van [Besluit IFZ2002/1208M](https://wetten.overheid.nl/jci1.3:c:BWBR0028044) van 21 januari 2003, worden verschillende vrijstellingen nader uitgewerkt. Dit besluit heeft hoofdzakelijk een toelichtend karakter. Er is niet beoogd de vrijstellingen te verruimen, tenzij dit uitdrukkelijk is aangegeven.
 
-In dit besluit wordt een onderscheid gemaakt tussen de vrijstellingen die gelden voor het **officieel gebruik**: het gebruik door de vertegenwoordigingen of internationale organisaties zelf, en de vrijstellingen voor het **persoonlijk gebruik**: het gebruik door de vertegenwoordigers of de functionarissen. Daarbij wordt ingegaan op de algemene voorwaarden voor, alsmede op een aantal andere van belang zijnde aspecten van de vrijstellingen. Verder worden enkele procedurele aspecten toegelicht.
+In dit besluit wordt een onderscheid gemaakt tussen de vrijstellingen die gelden voor het *officieel gebruik*: het gebruik door de vertegenwoordigingen of internationale organisaties zelf, en de vrijstellingen voor het *persoonlijk gebruik*: het gebruik door de vertegenwoordigers of de functionarissen. Daarbij wordt ingegaan op de algemene voorwaarden voor, alsmede op een aantal andere van belang zijnde aspecten van de vrijstellingen. Verder worden enkele procedurele aspecten toegelicht.
 
 De belangrijkste wijzigingen ten opzichte van [besluit IFZ2002/1208M](https://wetten.overheid.nl/jci1.3:c:BWBR0028044) betreffen de volgende onderdelen:
+
+- • [Onderdeel 3.1, tweede alinea](https://wetten.overheid.nl/BWBR0046823): uitzondering op de nationaliteitseis op basis van het EU recht.
+
+- • [Onderdeel 3.4](https://wetten.overheid.nl/BWBR0046823): studerende kinderen worden aangemerkt als inwonend.
+
+- • [Onderdeel 4](https://wetten.overheid.nl/BWBR0046823): nadere toelichting op het officieel gebruik.
+
+- • [Onderdeel 5.3.7](https://wetten.overheid.nl/BWBR0046823): nadere toelichting met betrekking tot vrijgestelden uit een andere EU-lidstaat.
+
+- • [Onderdeel 7.3](https://wetten.overheid.nl/BWBR0046823): verduidelijking met betrekking tot het vervallen van de vrijstelling van belasting van personenauto’s en motorrijwielen.
 
 De overige wijzigingen zijn van redactionele of verduidelijkende aard.
 
@@ -61,7 +64,7 @@ De vrijstellingen die aan bepaalde internationale organisaties en hun functionar
 
 In dit besluit wordt waar nodig verwezen naar de in de [artikelen 7:8 tot en met 7:14 Adr](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:10) opgenomen vrijstellingen van rechten bij invoer. Op deze vrijstellingen wordt in dit besluit echter niet nader ingegaan.
 
-In dit besluit wordt verder niet ingegaan op vrijstellingen van inkomstenbelasting, loonbelasting en kansspelbelasting, alsmede de per 1 april 2018 in de [UrAWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736) opgenomen belastingvrijstellingen ten aanzien van buitenlandse NAVO-strijdkrachten en personeelsleden daarvan.
+In dit besluit wordt verder niet ingegaan op vrijstellingen van inkomstenbelasting, loonbelasting en kansspelbelasting, alsmede de per 1 april 2018 in de [UrAWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736) opgenomen belastingvrijstellingen ten aanzien van buitenlandse NAVO-strijdkrachten en personeelsleden daarvan.
 
 ### 1.3. Betrokken organen
 
@@ -85,23 +88,23 @@ Functionarissen van internationale organisaties hebben de AO- of de BO-status. V
 
 De eis van wederkerigheid speelt in relatie tot de volgende belastingmiddelen en situaties:
 
-**Omzetbelasting:**
+*Omzetbelasting:*
 
-De eis van wederkerigheid geldt voor de vrijstelling van omzetbelasting. Ten aanzien van prestaties in verband met officiële gebouwen gelden afwijkende regels, zie hiervoor nader paragraaf 5.2.3.
+De eis van wederkerigheid geldt voor de vrijstelling van omzetbelasting. Ten aanzien van prestaties in verband met officiële gebouwen gelden afwijkende regels, zie hiervoor nader [paragraaf 5.2.3](https://wetten.overheid.nl/BWBR0046823).
 
-**Energiebelasting en opslag duurzame energie en klimaattransitie en belasting op leidingwater:**
+*Energiebelasting en opslag duurzame energie en klimaattransitie en belasting op leidingwater:*
 
 De vrijstellingen van energiebelasting en opslag duurzame energie en belasting op leidingwater worden verleend indien er voor de betreffende producten ook een vrijstelling van omzetbelasting wordt verleend. Daarmee speelt de eis van wederkerigheid ook ten aanzien van deze belastingen.
 
-**Accijns:**
+*Accijns:*
 
-De vrijstelling van accijns op alcohol en tabak wordt verleend indien de desbetreffende vrijgestelde ter zake in aanmerking komt voor vrijstelling van belastingen bij invoer. Hierdoor is de wederkerigheidseis van de invoervrijstelling voor deze producten, mede van toepassing op de vrijstelling van accijns. Zoals bekendgemaakt in **Stcrt.**2021, 48636 wordt de invoervrijstelling op tabak, en daarmee ook de vrijstelling van accijns op tabak per 1 januari 2023 afgeschaft.
+De vrijstelling van accijns op alcohol en tabak wordt verleend indien de desbetreffende vrijgestelde ter zake in aanmerking komt voor vrijstelling van belastingen bij invoer. Hierdoor is de wederkerigheidseis van de invoervrijstelling voor deze producten, mede van toepassing op de vrijstelling van accijns. Zoals bekendgemaakt in *Stcrt.*2021, 48636 wordt de invoervrijstelling op tabak, en daarmee ook de vrijstelling van accijns op tabak per 1 januari 2023 afgeschaft.
 
-**Belasting van personenauto’s en motorrijwielen en Motorrijtuigenbelasting:**
+*Belasting van personenauto’s en motorrijwielen en Motorrijtuigenbelasting:*
 
 De eis van wederkerigheid geldt met betrekking tot de belasting op personenauto's en motorrijwielen en de motorrijtuigenbelasting slechts voor particuliere bedienden.
 
-**Overdrachtsbelasting:**
+*Overdrachtsbelasting:*
 
 De eis van wederkerigheid geldt ten aanzien van de vrijstelling van overdrachtsbelasting indien de betreffende onroerende zaak is bestemd voor bewoning door andere vertegenwoordigers dan het hoofd van de vertegenwoordiging.
 
@@ -125,7 +128,15 @@ Wanneer de vrijstelling vervalt, dient de betrokken vrijgestelde vooraf contact 
 
 Indien geen sprake is van oneigenlijk gebruik van de vrijstelling, wordt volstaan met heffing naar het tarief en over de waarde van het goed of de dienst op het moment waarop de vrijstelling vervalt, tot ten hoogste het bedrag aan belasting waarvan vrijstelling werd verleend. Indien sprake is van oneigenlijk gebruik van de vrijstelling wordt de verschuldigde belasting vastgesteld op ten minste het bedrag aan belasting waarvan vrijstelling werd verleend.
 
+Goedkeuring
+
 Uit doelmatigheidsoverwegingen keur ik het volgende goed. In afwijking van het voorgaande is bij het vervallen van de vrijstelling geen belasting verschuldigd, indien aan de volgende voorwaarden wordt voldaan:
+
+- • het betreft een goed of dienst met een aanschafprijs van ten hoogste € 3.100 (inclusief omzetbelasting);
+
+- • het goed of de dienst is gedurende ten minste vijf jaar ten goede gekomen aan het doel waarvoor de vrijstelling werd verleend;
+
+- • het betreft geen motorrijtuig of dienst met betrekking tot een motorrijtuig.
 
 Wanneer aan deze voorwaarden wordt voldaan, hoeft de betrokken vrijgestelde bij het vervallen van de vrijstelling geen contact op te nemen met Team IFB.
 
@@ -165,9 +176,19 @@ Ten aanzien van het ATB-personeel worden de vrijstellingen uitsluitend verleend 
 
 Inwonende gezinsleden kunnen, als zij aan de voorwaarden voldoen, in aanmerking komen voor de belastingvrijstellingen. Hierbij is van belang dat zij als zodanig in PROBAS zijn opgenomen.
 
+Goedkeuring
+
 Ik keur overeenkomstig internationaal gebruik het volgende goed:
 
 Als inwonende gezinsleden worden tevens aanmerkt uitwonende kinderen die:
+
+- • in het kader van een voltijdstudie elders in Nederland wonen;
+
+- • financieel afhankelijk zijn van hun ouders;
+
+- • ongehuwd zijn; en
+
+- • jonger zijn dan 28 jaar.
 
 ### 3.5. Geen honorair consul
 
@@ -189,15 +210,17 @@ Zaken en diensten die ten behoeve van de werknemer in het kader van goed werkgev
 
 De vrijstelling van omzetbelasting voor persoonlijk gebruik omvat de binnenlandse levering van alle roerende zaken met uitzondering van levensmiddelen, drank en tabakswaren. Deze vrijstelling geldt, in tegenstelling tot de vrijstelling voor officieel gebruik, niet voor de levering van onroerende zaken en voor diensten.
 
-Deze vrijstelling van omzetbelasting wordt verleend onder voorwaarde van wederkerigheid. Zie hiervoor nader paragraaf 2.1.
+Deze vrijstelling van omzetbelasting wordt verleend onder voorwaarde van wederkerigheid. Zie hiervoor nader [paragraaf 2.1](https://wetten.overheid.nl/BWBR0046823).
 
-Deze vrijstelling van omzetbelasting geldt voor leveringen van ten minste € 225 per factuur (exclusief omzetbelasting).
+Deze vrijstelling van omzetbelasting geldt voor leveringen van ten minste € 225 per factuur (exclusief omzetbelasting).
+
+Goedkeuring
 
 Hierbij keur ik het volgende goed.
 
-Voor het bepalen van het drempelbedrag van € 225 mogen de facturen die betrekking hebben op de leveranties van dezelfde ondernemer gedurende een kalenderkwartaal bij elkaar worden opgeteld (samentelregel).
+Voor het bepalen van het drempelbedrag van € 225 mogen de facturen die betrekking hebben op de leveranties van dezelfde ondernemer gedurende een kalenderkwartaal bij elkaar worden opgeteld (samentelregel).
 
-Voor accijnsgoederen, aangeschaft in een accijnsgoederenplaats, gelden afwijkende regels. Zie hiervoor nader paragraaf 5.4.
+Voor accijnsgoederen, aangeschaft in een accijnsgoederenplaats, gelden afwijkende regels. Zie hiervoor nader [paragraaf 5.4](https://wetten.overheid.nl/BWBR0046823).
 
 ### 5.2. Officieel gebruik
 
@@ -205,13 +228,13 @@ Voor accijnsgoederen, aangeschaft in een accijnsgoederenplaats, gelden afwijkend
 
 De vrijstelling van omzetbelasting voor officieel gebruik geldt voor de levering van roerende zaken, onroerende zaken (inclusief de rechten waaraan deze zijn onderworpen) en diensten. Deze vrijstelling geldt daarmee ook voor de levering van levensmiddelen bestemd voor officieel gebruik.
 
-Deze vrijstelling van omzetbelasting wordt verleend onder voorwaarde van wederkerigheid. Zie hiervoor nader de paragrafen 2.1. en 5.2.3.
+Deze vrijstelling van omzetbelasting wordt verleend onder voorwaarde van wederkerigheid. Zie hiervoor nader de [paragrafen 2.1.](https://wetten.overheid.nl/BWBR0046823) en [5.2.3](https://wetten.overheid.nl/BWBR0046823).
 
 Deze vrijstelling van omzetbelasting wordt verleend aan het hoofd van de vertegenwoordiging of de internationale organisatie. Deze dient in een verklaring te bevestigen dat de betreffende goederen en/of diensten voor officieel gebruik zijn bestemd.
 
-De in paragraaf 5.1 beschreven drempel van € 225 per factuur is ook hier van toepassing, inclusief de aldaar beschreven samentelregel.
+De in [paragraaf 5.1](https://wetten.overheid.nl/BWBR0046823) beschreven drempel van € 225 per factuur is ook hier van toepassing, inclusief de aldaar beschreven samentelregel.
 
-Honorair consulaten komen slechts in aanmerking voor een vrijstelling van omzetbelasting op bepaalde goederen en diensten in verband met de huisvesting van het consulaat en van beroepsconsulaire leden daarvan, zie hiervoor nader paragraaf 5.2.2.
+Honorair consulaten komen slechts in aanmerking voor een vrijstelling van omzetbelasting op bepaalde goederen en diensten in verband met de huisvesting van het consulaat en van beroepsconsulaire leden daarvan, zie hiervoor nader [paragraaf 5.2.2](https://wetten.overheid.nl/BWBR0046823).
 
 ### 5.2.2. Diplomatieke vrijstelling in verband met de officiële gebouwen
 
@@ -219,15 +242,23 @@ Vertegenwoordigingen en internationale organisaties komen in aanmerking voor vri
 
 Indien gebouwen voor officieel gebruik worden gehuurd, wordt ter zake vrijstelling van omzetbelasting verleend, ingeval er sprake is van belaste verhuur op grond van [artikel 11, eerste lid, onderdeel b, ten 5e, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
-Zie voor de goedkeuringen voor de belaste levering en belaste verhuur van onroerende zaken aan vertegenwoordigingen en internationale organisaties [paragraaf 4.6.3](onbekend) en [paragraaf 7.3.8 van het Besluit Omzetbelasting. Levering en verhuur van onroerende zaken van 19 september 2013](onbekend), BLKB 2013/1686M. Belaste verhuur van (ambts-)woningen is niet mogelijk en valt daarom niet onder deze vrijstelling van omzetbelasting.
+Zie voor de goedkeuringen voor de belaste levering en belaste verhuur van onroerende zaken aan vertegenwoordigingen en internationale organisaties [paragraaf 4.6.3](https://wetten.overheid.nl/BWBR0033962) en [paragraaf 7.3.8 van het Besluit Omzetbelasting. Levering en verhuur van onroerende zaken van 19 september 2013](https://wetten.overheid.nl/BWBR0033962), BLKB 2013/1686M. Belaste verhuur van (ambts-)woningen is niet mogelijk en valt daarom niet onder deze vrijstelling van omzetbelasting.
 
 Tot slot bestaat er een vrijstelling van omzetbelasting voor de levering van goederen en diensten voor het (ver)bouwen, herstellen en onderhouden (wat de honorair consulaten betreft is hieronder niet begrepen het schoonmaken) van panden bestemd voor officieel gebruik, daaronder begrepen de ambtswoning van het hoofd van een ambassade of beroepsconsulaat. Het is daarbij niet van belang of de desbetreffende panden zijn aangekocht dan wel gehuurd. Een eventuele ambtswoning van een honorair consul komt niet voor deze vrijstelling in aanmerking.
 
 ### 5.2.3. Wederkerigheid voor prestaties i.v.m. de officiële gebouwen
 
-Zoals eerder opgemerkt wordt de vrijstelling van omzetbelasting verleend onder voorwaarde van wederkerigheid. Zie nader paragraaf 2.1.
+Zoals eerder opgemerkt wordt de vrijstelling van omzetbelasting verleend onder voorwaarde van wederkerigheid. Zie nader [paragraaf 2.1](https://wetten.overheid.nl/BWBR0046823).
 
 Aan de eis van wederkerigheid wordt geacht te zijn voldaan, indien sprake is van:
+
+- • de levering van roerende zaken en het verrichten van diensten bestemd voor het verbouwen, herstellen en onderhouden (hieronder niet begrepen het schoonmaken) van de officiële gebouwen, met uitzondering van de woning van de honorair consul;
+
+- • de verhuur van onroerende zaken, bestemd voor officieel gebruik;
+
+- • de levering aan een ambassade of beroepsconsulaat van gas, leidingwater en elektriciteit, bestemd voor officieel gebruik, daaronder begrepen gebruik door het hoofd van de vertegenwoordiging; of
+
+- • het verrichten van beveiligings-, schoonmaak- en telecommunicatiediensten in het kader van het officiële functioneren van een ambassade of beroepsconsulaat, daaronder begrepen beveiliging van leden van de vertegenwoordiging.
 
 Met betrekking tot de vrijstelling van omzetbelasting ter zake van de levering van onroerende zaken (daaronder begrepen rechten waaraan deze zijn onderworpen) wordt per geval getoetst aan de voorwaarde van wederkerigheid.
 
@@ -239,13 +270,23 @@ De vrijstelling van omzetbelasting wordt in beginsel verleend in de vorm van ter
 
 ### 5.3.2. Directe vrijstelling
 
-Met betrekking tot prestaties ten behoeve van het officieel gebruik door vertegenwoordigingen en internationale organisaties waarmee een aanzienlijk belastingbedrag is gemoeid, is echter ook een directe vrijstelling mogelijk. Op verzoek kan de inspecteur een certificaat afgeven waaruit blijkt dat het tarief van nihil kan worden toegepast. De inspecteur geeft een dergelijk certificaat af, indien aanspraak bestaat op vrijstelling en de vergoeding ten minste € 35.000 bedraagt, exclusief omzetbelasting.
+Met betrekking tot prestaties ten behoeve van het officieel gebruik door vertegenwoordigingen en internationale organisaties waarmee een aanzienlijk belastingbedrag is gemoeid, is echter ook een directe vrijstelling mogelijk. Op verzoek kan de inspecteur een certificaat afgeven waaruit blijkt dat het tarief van nihil kan worden toegepast. De inspecteur geeft een dergelijk certificaat af, indien aanspraak bestaat op vrijstelling en de vergoeding ten minste € 35.000 bedraagt, exclusief omzetbelasting.
 
 Hierbij geldt de volgende procedure:
 
+- • De in Nederland gevestigde vertegenwoordiging of internationale organisatie verzoekt Team IFB om uitreiking van een certificaat.
+
+- • De vertegenwoordiging of internationale organisatie stuurt het ingevulde certificaat aan Team IFB, tezamen met bescheiden waaruit blijkt dat de vergoeding op jaarbasis tenminste € 35.000 bedraagt (bijvoorbeeld een conceptovereenkomst of een order/opdracht). Indien de vertegenwoordiging of internationale organisatie de meegestuurde bescheiden retour wenst te ontvangen, wordt dit op de bescheiden aangegeven en wordt een kopie van deze bescheiden meegestuurd.
+
+- • Indien naar het oordeel van de inspecteur aan de voorwaarden wordt voldaan, wordt het certificaat gewaarmerkt en ontvangt de vertegenwoordiging of internationale organisatie het gewaarmerkte certificaat, tezamen met eventueel retour te zenden bescheiden.
+
+- • De vertegenwoordiging of internationale organisatie stelt het originele, gewaarmerkte certificaat ter beschikking aan de ondernemer.;
+
+- • Deze ondernemer kan vervolgens het tarief van nihil toepassen. Hij bewaart het gewaarmerkte certificaat in zijn administratie.
+
 Het is mogelijk dat de inspecteur van oordeel is dat niet aan de voorwaarden voor een directe vrijstelling wordt voldaan. Team IFB stuurt dan de toegestuurde bescheiden terug met een motivering waarom niet wordt voldaan aan de voorwaarden. De vertegenwoordiging of internationale organisatie kan dan alsnog – indien men in aanmerking komt voor de vrijstelling van omzetbelasting – teruggaaf vragen van betaalde omzetbelasting.
 
-In geval sprake is van doorlopende contracten (zoals bij energie- en waterleveringen het geval is), kan op verzoek van de vertegenwoordiging of internationale organisatie eveneens een verklaring worden afgegeven op grond waarvan het tarief van nihil kan worden toegepast. Voor energie- en waterleveringen blijft hierbij het minimumbedrag van € 35.000 buiten toepassing.
+In geval sprake is van doorlopende contracten (zoals bij energie- en waterleveringen het geval is), kan op verzoek van de vertegenwoordiging of internationale organisatie eveneens een verklaring worden afgegeven op grond waarvan het tarief van nihil kan worden toegepast. Voor energie- en waterleveringen blijft hierbij het minimumbedrag van € 35.000 buiten toepassing.
 
 ### 5.3.3. Afwijkende procedure bij levering onroerende zaken
 
@@ -259,7 +300,7 @@ Voor de vrijstelling van omzetbelasting bij de levering van een motorrijtuig wor
 
 Deze vrijstelling dient vooraf te worden aangevraagd bij Team IFB. Teruggaaf van omzetbelasting op een in het vrije verkeer aangeschaft motorrijtuig wordt niet verleend.
 
-De vrijstelling van omzetbelasting bij levering van motorbrandstoffen wordt alleen verleend indien voor het betreffende motorvoertuig een bijzonder kenteken is afgegeven. De vrijstelling wordt verleend in de vorm van teruggaaf van betaalde belasting, tegelijk met de teruggaaf van de betaalde accijns. Voor een toelichting op de gecombineerde procedure, zie paragraaf 6.2.
+De vrijstelling van omzetbelasting bij levering van motorbrandstoffen wordt alleen verleend indien voor het betreffende motorvoertuig een bijzonder kenteken is afgegeven. De vrijstelling wordt verleend in de vorm van teruggaaf van betaalde belasting, tegelijk met de teruggaaf van de betaalde accijns. Voor een toelichting op de gecombineerde procedure, zie [paragraaf 6.2](https://wetten.overheid.nl/BWBR0046823).
 
 ### 5.3.5. Aanschaf in een douane-entrepot
 
@@ -275,13 +316,15 @@ Vertegenwoordigingen en internationale organisaties die in een andere EU-lidstaa
 
 De vrijstelling wordt in Nederland slechts verleend indien de vrijgestelde een door de andere EU-lidstaat gewaarmerkte verklaring kan overleggen (EU- certificaat). Een directe vrijstelling kan worden toegepast indien de vrijgestelde tijdig beschikt over een verklaring van de andere EU-lidstaat en deze ter beschikking stelt aan de ondernemer die de prestatie verricht. Hierbij is geen voorafgaande goedkeuring van de inspecteur vereist.
 
-Beschikt de vrijgestelde niet tijdig over een verklaring van de andere EU-lidstaat, dan kan vrijstelling worden verleend door middel van een teruggaaf van belasting. Hierbij geldt dan de in paragraaf 5.3.1 beschreven procedure.
+Beschikt de vrijgestelde niet tijdig over een verklaring van de andere EU-lidstaat, dan kan vrijstelling worden verleend door middel van een teruggaaf van belasting. Hierbij geldt dan de in [paragraaf 5.3.1](https://wetten.overheid.nl/BWBR0046823) beschreven procedure.
 
 ### 5.4. Goedkeuring met betrekking tot de vrijstelling voor accijnsgoederen
 
-Vertegenwoordigingen, vertegenwoordigers en functionarissen kunnen in aanmerking komen voor vrijstelling van accijns bij aanschaf van goederen in een accijnsgoederenplaats indien de betrokkene ter zake in aanmerking komt voor vrijstelling van belastingen bij invoer, zie hiervoor nader paragraaf 6.2.
+Vertegenwoordigingen, vertegenwoordigers en functionarissen kunnen in aanmerking komen voor vrijstelling van accijns bij aanschaf van goederen in een accijnsgoederenplaats indien de betrokkene ter zake in aanmerking komt voor vrijstelling van belastingen bij invoer, zie hiervoor nader [paragraaf 6.2](https://wetten.overheid.nl/BWBR0046823).
 
-Uit praktische overwegingen keur ik goed dat in dergelijke gevallen ook de vrijstelling van omzetbelasting wordt verleend overeenkomstig de bij invoer geldende voorwaarden en procedures. De in paragraaf 5.1. beschreven drempel behoeft in die situatie niet te worden toegepast.
+Goedkeuring
+
+Uit praktische overwegingen keur ik goed dat in dergelijke gevallen ook de vrijstelling van omzetbelasting wordt verleend overeenkomstig de bij invoer geldende voorwaarden en procedures. De in [paragraaf 5.1](https://wetten.overheid.nl/BWBR0046823). beschreven drempel behoeft in die situatie niet te worden toegepast.
 
 ### 6. Accijns
 
@@ -291,7 +334,7 @@ De diplomatieke vrijstelling van accijns wordt, behoudens in geval van invoer en
 
 ### 6.2. Procedure
 
-Voor de vrijstelling bij aanschaf van accijnsgoederen in een accijnsgoederenplaats zijn de bij invoer geldende voorwaarden en procedures van overeenkomstige toepassing. De vrijstelling dient vooraf te worden aangevraagd met gebruikmaking van een formulier Douane 39 dat op verzoek door Team IFB wordt verstrekt of toegezonden. Het ingevulde formulier wordt ter waarmerking aangeboden aan Team IFB. Bij het verlenen van vrijstelling van accijns bij aanschaf in een accijnsgoederenplaats wordt tevens vrijstelling van omzetbelasting verleend, zie hiervoor nader paragraaf 5.4.
+Voor de vrijstelling bij aanschaf van accijnsgoederen in een accijnsgoederenplaats zijn de bij invoer geldende voorwaarden en procedures van overeenkomstige toepassing. De vrijstelling dient vooraf te worden aangevraagd met gebruikmaking van een formulier Douane 39 dat op verzoek door Team IFB wordt verstrekt of toegezonden. Het ingevulde formulier wordt ter waarmerking aangeboden aan Team IFB. Bij het verlenen van vrijstelling van accijns bij aanschaf in een accijnsgoederenplaats wordt tevens vrijstelling van omzetbelasting verleend, zie hiervoor nader [paragraaf 5.4](https://wetten.overheid.nl/BWBR0046823).
 
 De vrijstelling van accijns op motorbrandstoffen wordt evenals de vrijstelling van omzetbelasting verleend in de vorm van een teruggaaf en enkel indien voor het betreffende motorvoertuig een bijzonder kenteken is afgegeven. De vrijstellingsgerechtigde moet gebruik maken van een aan het bijzonder kenteken gekoppelde tankpas. De aan de tankpas gekoppelde factuur dient een overzicht te bevatten van het kenteken, het aantal getankte liters, de soort brandstof, de data waarop getankt is en de gereden kilometers. De originele facturen worden door de vrijstellingsgerechtigde gevoegd bij het teruggaafverzoek. Voor het teruggaafverzoek wordt gebruik gemaakt van het gecombineerd formulier verzoek OB/accijns (Request VAT/Excise duties) dat op verzoek door Team IFB wordt verstrekt of toegezonden.
 
@@ -312,6 +355,12 @@ Bij het verlenen van de vrijstelling wordt in beginsel aangesloten bij de proced
 ### 7.3. Voorwaardelijkheid
 
 De vrijstelling wordt voorwaardelijk verleend. Wanneer een motorrijtuig wordt gebruikt voor andere doeleinden dan waarvoor de vrijstelling is verleend, vervalt de vrijstelling en wordt de belasting alsnog geheel verschuldigd. Dat is niet het geval wanneer het motorrijtuig op het moment dat de vrijstelling vervalt niet langer in Nederland op een regulier kenteken behoeft te worden geregistreerd omdat het:
+
+- • aantoonbaar buiten Nederland is gebracht; of
+
+- • aantoonbaar is gesloopt; of
+
+- • opnieuw wordt geregistreerd onder een bijzonder kenteken.
 
 ### 8. Motorrijtuigenbelasting
 
@@ -351,73 +400,12 @@ Wanneer voor officieel gebruik vrijstelling wordt verleend van omzetbelasting te
 
 De vrijstelling van energiebelasting en opslag duurzame energie- en klimaattransitie en van belasting op leidingwater wordt gerealiseerd door teruggaaf van in rekening gebrachte en betaalde belasting. Een verzoek om teruggaaf wordt bij Team IFB ingediend binnen dertien weken nadat de eindafrekening van het energiedistributiebedrijf dan wel het waterleidingbedrijf of van de afzonderlijke watervoorziening is verzonden. Bij het verzoek dient de originele eindfactuur te worden overgelegd. Deze factuur wordt bij de beschikking op het verzoek om teruggaaf teruggezonden.
 
-Op verzoek is het mogelijk om een directe vrijstelling toe te passen. Voor de te volgen procedure wordt verwezen naar de procedure beschreven in paragraaf 5.3.2.
+Op verzoek is het mogelijk om een directe vrijstelling toe te passen. Voor de te volgen procedure wordt verwezen naar de procedure beschreven in [paragraaf 5.3.2](https://wetten.overheid.nl/BWBR0046823).
 
 ### 11. Ingetrokken regeling
 
-Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit: het [besluit van 21 januari 2003, nr. IFZ2002-1208M](https://wetten.overheid.nl/jci1.3:c:BWBR0028044).
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit: het [besluit van 21 januari 2003, nr. IFZ2002-1208M](https://wetten.overheid.nl/jci1.3:c:BWBR0028044).
 
 ### 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-## Bijlage I. Wederkerigheidspakketten
-
-|   | Diplomatieke vertegenwoordiging (officieel gebruik) | Hoofd van de diplomatieke vertegenwoordiging (AD, AC) | Diplomatiek personeel (AD, AC) | Administratief, technisch en bedienend personeel (BD, ED, BC, EC)1 |
-| --- | --- | --- | --- | --- |
-| OB goederen (in Nederland) | Ja **Art. 36, lid 2 UrAWR** | Ja **Art. 36, lid 1 UrAWR** | Ja **Art. 36, lid 1 UrAWR** | Ja **Art. 36, lid 1 UrAWR** |
-| OB diensten | Ja **Art. 36, lid 2 UrAWR** | Nee **Art. 36, lid 1 UrAWR** | Nee **Art. 36, lid 1 UrAWR** | Nee **Art. 36, lid 1 UrAWR** |
-| Belastingen bij invoer | Ja **Art. 7:11 Adr** | Ja **Art. 7:8 Adr** | Ja **Art. 7:8 Adr** | Ja **Art. 7:9 Adr** |
-| Alcohol (invoer) | Ja, o.b.v. quota **Art. 7:11 Adr** | Ja, o.b.v. quota **Art. 7:8 Adr** | Ja, o.b.v. quota **Art. 7:8 Adr** | Ja, o.b.v. quota **Art. 7:9 Adr** |
-| Tabak2 (invoer) | Nee | Ja, o.b.v. quota **Art 7:8 Adr** | Ja, o.b.v. quota **Art. 7:8 Adr** | Ja, o.b.v. quota **Art. 7:9 Adr** |
-| Motorrijtuigen | Een redelijk aantal auto’s3 **Art. 38 UrAWR / art. 7:11 Adr** | Twee auto’s **Art. 38 UrAWR / art. 7:8 Adr** | Twee auto’s **Art. 38 UrAWR / art. 7:8 Adr** | Twee auto’s **Art. 38 UrAWR / art. 7:9 Adr** |
-| Motorbrandstoffen | Accijns en OB o.b.v. quota **Art. 32, lid 5 en 7 UrAWR / art. 69 WA jo. art 32a UrA** | Accijns en OB o.b.v. quota **Art. 32, lid 5 en 7 UrAWR / art. 69 WA jo. art 32a UrA** | Accijns en OB o.b.v. quota **Art. 32, lid 5 en 7 UrAWR / art. 69 WA** **jo. art. 32a UrA** | Accijns en OB o.b.v. quota **Art. 32, lid 5 en 7 UrAWR / art. 69 WA** **jo. art. 32a UrA** |
-
-1 Maximaal 10 jaar vanaf de aanvang van de tewerkstelling in Nederland ([art. 33, lid 1 UrAWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=33)) en [art. 7:9 Adr](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:9).
-
-2 Met ingang van 1 januari 2023 vervalt de invoervrijstelling en daarmee ook de accijnsvrijstelling op tabak (zie [Strt. 2021, 48636](https://wetten.overheid.nl/jci1.3:c:BWBR0046114)).
-
-3 Afhankelijk van de omvang van de vertegenwoordiging.
-
-| Vrijstellingen belastingen | Diplomatieke vertegenwoordiging | Hoofd van de diplomatieke vertegenwoordiging (AD/AC) | Diplomatiek personeel (AD/AC) | Administratief, technisch en bedienend personeel (BD/BC)1 |
-| --- | --- | --- | --- | --- |
-| OB goederen | Beperkt2 **Art. 23 Verdrag van Wenen** | Nee **Art. 34, onder a Verdrag van Wenen** | Nee **Art. 34, onder a Verdrag van Wenen** | Nee |
-| OB diensten | Beperkt3 **Art. 23 Verdrag van Wenen** | Nee **Art. 34, onder a Verdrag van Wenen** | Nee **Art. 34, onder a Verdrag van Wenen** | Nee |
-| Belastingen bij invoer (geen alcohol en tabak) | Ja **Art. 36, lid 1, onder a Verdrag van Wenen /** **art. 7:11 Adr** | Ja **Art. 36, lid 1, onder b Verdrag van Wenen /** **art. 7:8 Adr** | Ja **Art. 36, lid 1, onder b Verdrag van Wenen /** **Art. 7:8 Adr** | Ja **Art. 37, lid 2 Verdrag van Wenen /** **Art. 7:9 Adr** |
-| Alcohol (invoer) | Ja, o.b.v. quota **Art. 36, lid 1, onder a Verdrag van Wenen /** **art. 7:11 Adr** | Ja, o.b.v. quota **Art. 36, lid 1, onder b Verdrag van Wenen /** **art. 7:8 Adr** | Nee | Nee |
-| Tabak4 (invoer) | Nee | Ja, o.b.v. quota **Art. 36, lid 1, onder b Verdrag van Wenen /** **art. 7:8 Adr** | Nee | Nee |
-| Motorrijtuigen | Een redelijk aantal auto’s5 **Art. 7:11 Adr** | Twee auto’s **Art. 7:8 Adr** | Twee auto’s **Art. 7:8 Adr** | Twee auto’s6 Art. 7:9 Adr |
-| Motorbrandstoffen | Alleen accijns en o.b.v. quota **Art. 69 WA jo. art. 32a UrA** | Alleen accijns en o.b.v. quota **Art. 69 WA jo. art. 32a UrA** | Alleen accijns en o.b.v. quota **Art. 69 WA jo. art. 32a UrA** | Alleen accijns en o.b.v. quota Art. 69 WA jo. art. 32a UrA |
-
-1 Maximaal 10 jaar vanaf de aanvang van de tewerkstelling in Nederland ([art. 33, lid 1 UrAWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=33)) en [art. 7:9 Adr](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=7:9).
-
-2 Vrijstelling in verband met de officiële gebouwen (zoals gas, water en elektriciteit).
-
-3 Vrijstelling in verband met de officiële gebouwen (zoals telecommunicatiediensten en beveiligingsdiensten).
-
-4 Met ingang van 1 januari 2023 vervalt de invoervrijstelling en daarmee ook de accijnsvrijstelling op tabak (zie [Strt. 2021, 48636](https://wetten.overheid.nl/jci1.3:c:BWBR0046114)).
-
-5 Afhankelijk van de omvang van de vertegenwoordiging.
-
-6 Het verdrag van Wenen verplicht niet tot een vrijstelling voor een motorrijtuig voor ATB-personeel. Ondanks dat verleent Nederland dit privilege.
-
-## Bijlage II. Quota
-
-|   | Alcoholische drank (≥ 22%) | Sigaretten (en andere tabaksproducten) |
-| --- | --- | --- |
-| **Vertegenwoordigingen en internationale organisaties** | 300 liter per jaar | Geen |
-| **Hoofd van de diplomatieke vertegenwoordiging** | 90 liter per jaar | 12.000 sigaretten per jaar |
-| **Diplomatiek personeel** **(AD, AC, AO)** | 60 liter per jaar | 12.000 sigaretten per jaar |
-| **ATB?Diplomatiek personeel** **BD/BC/BO of ED/EC/EO** | 30 liter per jaar | 12.000 sigaretten per jaar |
-
-|   | Officiële voertuigen | 1e vrijgesteld voertuig | 2e vrijgesteld voertuig |
-| --- | --- | --- | --- |
-| **Vertegenwoordigingen en internationale organisaties** | Voor maximaal 5 voertuigen: 500 liter per maand |   |   |
-|   | Extra voertuigen: 300 liter per maand |   |   |
-| **Hoofd van de diplomatieke vertegenwoordiging** |   | 300 liter per maand | 200 liter per maand |
-| **Diplomatiek personeel (AD, AC, AO)** |   | 300 liter per maand | 200 liter per maand |
-| **ATB?Diplomatiek personeel** **BD/BC/BO of ED/EC/EO (maximaal 10 jaar)** |   | 200 liter per maand | 100 liter per maand1 |
-
-1 BO personeel heeft in beginsel slechts recht op één vrijgesteld voertuig.
-
-Dit besluit wordt in de Staatscourant geplaatst.

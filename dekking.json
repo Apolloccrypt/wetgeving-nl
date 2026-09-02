@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-01",
+ "gegenereerd": "2026-09-02",
  "geverifieerd": true,
- "bwb_regelingen": 46883,
- "bwb_geldend": 22218,
- "site_totaal": 22413,
- "site_geldend": 22216,
+ "bwb_regelingen": 46886,
+ "bwb_geldend": 22220,
+ "site_totaal": 22416,
+ "site_geldend": 22218,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 197,
+ "aantal_ten_onrechte_geldig": 198,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -177,6 +177,10 @@
   {
    "id": "BWBR0040594",
    "titel": "Besluit van 25 oktober 2017, houdende regels met betrekking tot subsidiëring van de kosten van sloop en ombouw van nertsenhouderijen (Besluit subsidiëring sloop- en ombouwkosten pelsdierhouderij)"
+  },
+  {
+   "id": "BWBR0040683",
+   "titel": "Regeling cursusfaciliteiten en studietoelage"
   },
   {
    "id": "BWBR0040783",
@@ -420,7 +424,7 @@
   },
   {
    "id": "BWBR0046496",
-   "titel": "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof-, en metaalafval 2022"
+   "titel": "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 februari 2022, nr. IENW/ILT-2022/12059, houdende vaststelling van beleid inzake de kwalificatie van verontreinigd papier-, kunststof- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EG) Nr. 1013/2006 van het Europees Parlement en Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)"
   },
   {
    "id": "BWBR0046568",
@@ -432,7 +436,7 @@
   },
   {
    "id": "BWBR0046805",
-   "titel": "Subsidieregeling Wel in Ontwikkeling"
+   "titel": "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 juni 2022, nr. 32713080, houdende regels voor subsidieverstrekking aan samenwerkingsverbanden voor het bereiken van niet-ingeschreven jongeren ten behoeve van de stimulering van hun ontwikkeling (Subsidieregeling Wel in Ontwikkeling)"
   },
   {
    "id": "BWBR0046857",
@@ -444,11 +448,11 @@
   },
   {
    "id": "BWBR0046942",
-   "titel": "Regeling vaststelling subsidieplafond tot eind 2022 voor experimentele subsidie generieke werkgeversvoorzieningen"
+   "titel": "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 7 juli 2022, 2022-0000107346, houdende de vaststelling van een subsidieplafond tot eind 2022 voor de experimentele subsidie generieke werkgeversvoorzieningen"
   },
   {
    "id": "BWBR0046997",
-   "titel": "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
+   "titel": "Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)"
   },
   {
    "id": "BWBR0047079",

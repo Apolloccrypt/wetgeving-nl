@@ -1,43 +1,21 @@
 ---
 title: "Besluit correctieverplichting"
 identifier: "BWBR0046764"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-06-17"
-last_updated: "2022-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046764"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16381943"
-version_id: "28689192"
-internal_id: "C40482341"
-label_id: "16306584"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046764/2022-06-17/0"
-intitule_bron: "Stcrt.2022-14481"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-23"
-intitule_published: "2022-06-16"
-intitule_in_force: "2022-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-14481"
-original_signed_date: "2022-05-23"
-original_published_date: "2022-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-14481"
-entry_into_force_date: "2022-06-17"
-jci_1_3: "jci1.3:c:BWBR0046764&z=2022-06-17&g=2022-06-17"
-jci_1_0: "1.0:c:BWBR0046764&g=2022-06-17"
-citeertitel_status: "officieel"
-signed_date: "2022-05-23"
-entry_into_force: "2022-06-17"
+publicatiedatum: 2022-06-17
+laatste_update: 2022-06-17
+status: geldig
+toestand: 2022-06-17
+bron: "https://wetten.overheid.nl/BWBR0046764"
+opgehaald: 2026-09-02
 ---
+
 # Besluit correctieverplichting
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit is een actualisering van het besluit van 8 maart 2010, nr. DGB2010/565M (** **Stcrt. 2010, nr. 3990** **). Het besluit bevat een goedkeuring voor de loonheffingen om in bepaalde gevallen correctieberichten achterwege te laten. De wijzigingen ten opzichte van het besluit van 8 maart 2010 zijn voornamelijk verduidelijkingen. In onderdeel 3 is de ambtshalve vermindering of teruggaaf expliciet genoemd en zijn er enkele voorbeelden toegevoegd. Het voorbeeld dat een correctie, na afweging van de voorwaarden, achterwege kan blijven bij het maximum premieloon is niet langer opgenomen omdat dit in de praktijk voor onduidelijkheid zorgde. Inhoudelijk is geen wijziging beoogd. De toelichting aan het eind van onderdeel 3 is uitgebreid. Het nieuwe onderdeel 3.1 gaat in op de verhouding tot het Besluit Fiscaal Bestuursrecht, paragraaf 23 Ambtshalve verminderen of teruggeven. Tot slot maak ik in onderdeel 4 gebruik van de gelegenheid om twee besluiten die hun belang hebben verloren in te trekken. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.**
+*Dit besluit is een actualisering van het besluit van 8 maart 2010, nr. DGB2010/565M (*
+ *Stcrt. 2010, nr. 3990*
+ *). Het besluit bevat een goedkeuring voor de loonheffingen om in bepaalde gevallen correctieberichten achterwege te laten. De wijzigingen ten opzichte van het besluit van 8 maart 2010 zijn voornamelijk verduidelijkingen. In onderdeel 3 is de ambtshalve vermindering of teruggaaf expliciet genoemd en zijn er enkele voorbeelden toegevoegd. Het voorbeeld dat een correctie, na afweging van de voorwaarden, achterwege kan blijven bij het maximum premieloon is niet langer opgenomen omdat dit in de praktijk voor onduidelijkheid zorgde. Inhoudelijk is geen wijziging beoogd. De toelichting aan het eind van onderdeel 3 is uitgebreid. Het nieuwe onderdeel 3.1 gaat in op de verhouding tot het Besluit Fiscaal Bestuursrecht, paragraaf 23 Ambtshalve verminderen of teruggeven. Tot slot maak ik in onderdeel 4 gebruik van de gelegenheid om twee besluiten die hun belang hebben verloren in te trekken. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.*
 
 ### 1. Inleiding
 
@@ -45,11 +23,27 @@ De Belastingdienst heft naast de loonbelasting en premie volksverzekeringen ook 
 
 In de praktijk blijkt daarom behoefte te bestaan aan beleid in welke gevallen correctieberichten, al dan niet op werknemersniveau, achterwege kunnen blijven. Als een correctiebericht op basis van dit besluit achterwege blijft dan heeft dit voor een werknemer geen invloed op het recht op inzage in de polisadministratie en de correctie van eventuele onjuistheden. Evenmin beïnvloedt dit de wettelijke plicht van de werknemer om eventuele onjuistheden aan het UWV te melden (zie [artikel 33c van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33c)).
 
-In onderdeel 2 van dit besluit geef ik aan wanneer de Belastingdienst correctieverplichtingen oplegt en onder welke omstandigheden dat niet nodig is. In verband hiermee bevat onderdeel 3 een goedkeuring onder voorwaarden voor bepaalde situaties waarin werkgevers geen correctiebericht hoeven in te dienen. Hierbij staat voorop dat correctie wel nodig is als anders onevenredige voor- of nadelen zouden optreden voor de betrokken werknemers en in verband daarmee ook voor de afnemers van de gegevens uit de polisadministratie. De Belastingdienst legt een correctieverplichting op na een afweging van de belangen in het concrete geval volgens de beleidsregels in dit besluit.
+In [onderdeel 2](https://wetten.overheid.nl/BWBR0046764) van dit besluit geef ik aan wanneer de Belastingdienst correctieverplichtingen oplegt en onder welke omstandigheden dat niet nodig is. In verband hiermee bevat [onderdeel 3](https://wetten.overheid.nl/BWBR0046764) een goedkeuring onder voorwaarden voor bepaalde situaties waarin werkgevers geen correctiebericht hoeven in te dienen. Hierbij staat voorop dat correctie wel nodig is als anders onevenredige voor- of nadelen zouden optreden voor de betrokken werknemers en in verband daarmee ook voor de afnemers van de gegevens uit de polisadministratie. De Belastingdienst legt een correctieverplichting op na een afweging van de belangen in het concrete geval volgens de beleidsregels in dit besluit.
 
-Dit besluit is een actualisering van het [besluit van 8 maart 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027395), nr. DGB2010/565M (Stcrt. 2010, nr. 3990). Het betreft voornamelijk verduidelijkingen. In onderdeel 3 is de ambtshalve vermindering of teruggaaf expliciet genoemd en zijn er enkele voorbeelden toegevoegd. Het voorbeeld dat een correctie, na afweging van de voorwaarden, achterwege kan blijven bij het maximum premieloon is niet langer opgenomen omdat dit in de praktijk voor onduidelijkheid zorgde. Inhoudelijk is geen wijziging beoogd. De toelichting aan het eind van onderdeel 3 is uitgebreid. Het nieuwe onderdeel 3.1 gaat in op de verhouding tot het [Besluit Fiscaal Bestuursrecht, paragraaf 23 Ambtshalve verminderen of teruggeven](https://wetten.overheid.nl/jci1.3:c:BWBR0045752). Tot slot maak ik in onderdeel 4 gebruik van de gelegenheid om twee besluiten die hun belang hebben verloren in te trekken. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.
+Dit besluit is een actualisering van het [besluit van 8 maart 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027395), nr. DGB2010/565M (Stcrt. 2010, nr. 3990). Het betreft voornamelijk verduidelijkingen. In [onderdeel 3](https://wetten.overheid.nl/BWBR0046764) is de ambtshalve vermindering of teruggaaf expliciet genoemd en zijn er enkele voorbeelden toegevoegd. Het voorbeeld dat een correctie, na afweging van de voorwaarden, achterwege kan blijven bij het maximum premieloon is niet langer opgenomen omdat dit in de praktijk voor onduidelijkheid zorgde. Inhoudelijk is geen wijziging beoogd. De toelichting aan het eind van onderdeel 3 is uitgebreid. Het nieuwe [onderdeel 3.1](https://wetten.overheid.nl/BWBR0046764) gaat in op de verhouding tot het [Besluit Fiscaal Bestuursrecht, paragraaf 23 Ambtshalve verminderen of teruggeven](https://wetten.overheid.nl/jci1.3:c:BWBR0045752). Tot slot maak ik in [onderdeel 4](https://wetten.overheid.nl/BWBR0046764) gebruik van de gelegenheid om twee besluiten die hun belang hebben verloren in te trekken. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| Awr | Algemene wet inzake rijksbelastingen |
+| --- | --- |
+| BFB | Besluit Fiscaal Bestuursrecht |
+| Bijdrage Zvw | inkomensafhankelijke bijdrage ingevolge de Zvw |
+| Loonheffing | loonbelasting en premie volksverzekeringen |
+| Loonheffingen | loonheffing, premies werknemersverzekeringen en de bijdrage Zvw |
+| Polisadministratie | de polisadministratie in de zin van artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen |
+| T-4 | het vierde kalenderjaar voorafgaand aan het huidige kalenderjaar |
+| T-5 | het vijfde kalenderjaar voorafgaand aan het huidige kalenderjaar |
+| Werkgever | inhoudingsplichtige voor de loonheffing en de bijdrage Zvw en de werkgever voor de werknemersverzekeringen |
+| Werknemer | werknemer en uitkeringsgerechtigde |
+| Wet IB 2001 | Wet inkomstenbelasting 2001 |
+| Wet LB | Wet op de loonbelasting 1964 |
+| Wfsv | Wet financiering sociale verzekeringen |
+| Zvw | Zorgverzekeringswet |
 
 ### 2. Wanneer correctieverplichting
 
@@ -59,11 +53,11 @@ Hoofdregel is dat de Belastingdienst bij constatering van een onjuiste of onvoll
 
 Het kan voorkomen dat loon, mede gelet op het aantal werknemers, moeilijk te individualiseren is. Dit kan zich onder meer voordoen als de Belastingdienst steekproefsgewijs de loonadministratie van de werkgever controleert en fouten constateert. In dat geval kan een correctieverplichting op werknemersniveau leiden tot in verhouding hoge regeldrukkosten voor de werkgever. De regeldrukkosten voor de werkgever kunnen onevenredig zijn ten opzichte van de eventuele belangen van werknemers en in verband daarmee ook van de afnemers van gegevens uit de polisadministratie. Dit is niet wenselijk.
 
-Voor de loonheffing kent de wet in die gevallen de mogelijkheid van naheffing via eindheffing (zie [artikel 31, eerste lid, onderdeel a, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a)). Dit is een heffing van de werkgever. Hierbij past geen doorwerking naar de loongegevens op werknemersniveau. Die doorwerking is echter wel aan de orde als werknemers daarbij in uitkeringssituaties belang kunnen hebben. Dit neemt niet weg dat ook voor de premieheffing werknemersverzekeringen en de bijdrage [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) de noodzaak bestaat in de hiervoor geschetste gevallen te heffen zonder dat sprake is van doorwerking naar de gegevens op werknemersniveau. Gelet op een redelijke wetstoepassing en om de redenen van eenvoud en doelmatigheid heb ik daarom besloten voor de praktijk nadere regels te geven in welke gevallen correctieberichten op werknemersniveau achterwege kunnen blijven. Die regels zijn opgenomen in de goedkeuring in onderdeel 3.
+Voor de loonheffing kent de wet in die gevallen de mogelijkheid van naheffing via eindheffing (zie [artikel 31, eerste lid, onderdeel a, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a)). Dit is een heffing van de werkgever. Hierbij past geen doorwerking naar de loongegevens op werknemersniveau. Die doorwerking is echter wel aan de orde als werknemers daarbij in uitkeringssituaties belang kunnen hebben. Dit neemt niet weg dat ook voor de premieheffing werknemersverzekeringen en de bijdrage [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) de noodzaak bestaat in de hiervoor geschetste gevallen te heffen zonder dat sprake is van doorwerking naar de gegevens op werknemersniveau. Gelet op een redelijke wetstoepassing en om de redenen van eenvoud en doelmatigheid heb ik daarom besloten voor de praktijk nadere regels te geven in welke gevallen correctieberichten op werknemersniveau achterwege kunnen blijven. Die regels zijn opgenomen in de goedkeuring in [onderdeel 3](https://wetten.overheid.nl/BWBR0046764).
 
 ### 2.2. Corrigeren op collectief niveau
 
-In de aangifte loonheffingen worden ook gegevens opgenomen die de werknemersgegevens in de polisadministratie niet raken. Te denken valt aan premiekortingen, afdrachtverminderingen, eindheffingen of andere gegevens over de werkgever. Ook voor onjuistheden hierin geldt de hoofdregel dat eventuele fouten via een correctiebericht moeten worden hersteld. Gelet op een redelijke wetstoepassing en om de redenen van eenvoud en doelmatigheid heb ik besloten voor de praktijk nadere regels te geven in welke gevallen correctieberichten op collectief niveau achterwege kunnen blijven. Die regels zijn ook opgenomen in de goedkeuring in onderdeel 3.
+In de aangifte loonheffingen worden ook gegevens opgenomen die de werknemersgegevens in de polisadministratie niet raken. Te denken valt aan premiekortingen, afdrachtverminderingen, eindheffingen of andere gegevens over de werkgever. Ook voor onjuistheden hierin geldt de hoofdregel dat eventuele fouten via een correctiebericht moeten worden hersteld. Gelet op een redelijke wetstoepassing en om de redenen van eenvoud en doelmatigheid heb ik besloten voor de praktijk nadere regels te geven in welke gevallen correctieberichten op collectief niveau achterwege kunnen blijven. Die regels zijn ook opgenomen in de goedkeuring in [onderdeel 3](https://wetten.overheid.nl/BWBR0046764).
 
 ### 2.3. Ontbreken software
 
@@ -71,11 +65,45 @@ In de bijzondere situatie dat de software die werd gebruikt bij het indienen van
 
 ### 3. Goedkeuring
 
+Goedkeuring
+
 Ik keur in de volgende drie groepen van gevallen onder een tweetal voorwaarden goed dat een werkgever correctieberichten achterwege laat over tijdvakken voorafgaand aan het lopende kalenderjaar:
+
+- A. Geen correctieberichten op werknemersniveau
+
+   - − De inspecteur heft loonheffing na via eindheffing zoals bedoeld in [artikel 31, eerste lid, onderdeel a, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a); of
+
+   - − het betreft loonbestanddelen of tariefsverschillen die niet of moeilijk individualiseerbaar zijn en die zich daarom in het geval van naheffing van loonheffing zouden lenen voor naheffing via eindheffing.
+
+- B. Geen correctieberichten op collectief niveau
+
+   - − Het betreft correcties in het collectieve deel van de aangifte loonheffingen die de individuele werknemersgegevens niet raken en waarbij de regeldrukkosten van de werkgever niet in verhouding staan tot het belang van de afnemers van gegevens uit de polisadministratie.
+
+- C. Geen correctieberichten T-4 en T-5 door ontbreken software
+
+   - – Het betreft correcties die zien op de jaren T-4 en T-5 waarvoor de softwareleverancier niet langer de vereiste software ter beschikking stelt omdat de softwareleverancier de betreffende activiteit definitief heeft beëindigd, al dan niet door een faillissement.
+
+Voorwaarden
 
 Er zijn twee voorwaarden verbonden aan deze goedkeuring:
 
+- 1. De werkgever maakt aannemelijk dat er geen onevenredige nadelige effecten optreden voor de eventuele uitkeringsrechten voor de werknemersverzekeringen van de betrokken werknemers. Hierna zijn ter illustratie enkele voorbeelden opgenomen.
+
+- 2. De inspecteur heft, als sprake is van te weinig geheven loonheffingen, de verschuldigde loonheffingen na door het opleggen van een naheffingsaanslag of stelt in het geval dat teveel loonheffingen zijn afgedragen, een ambtshalve vermindering of teruggaaf vast.
+
+Voorbeelden
+
 Onderstaande voorbeelden zijn bedoeld als illustratie van voorwaarde 1. Toepassing van de goedkeuring is met inachtneming van voorwaarde 2 onder meer mogelijk bij:
+
+- − relatief geringe loonvoordelen of relatief geringe tariefsverschillen in de loonheffingen in meerdere loontijdvakken;
+
+- − loonbetalingen aan werknemers waarbij niet bekend is wie het betreft en wat die persoon aan loon heeft genoten, zoals werknemers als bedoeld in [artikel 26b Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b);
+
+- − naheffingen van niet meer dan het bedrag genoemd in [artikel 9.4, vijfde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), per werknemer, per kalenderjaar;
+
+- − correcties van de sectorpremie die verband houden met een wijziging in de sectorindeling (van belang voor de jaren tot en met 2019);
+
+- − correcties van premiekortingen (van belang voor de jaren tot en met 2017).
 
 Ter verduidelijking merk ik hierbij nog het volgende op.
 
@@ -85,17 +113,23 @@ De goedkeuring is niet van toepassing als een werkgever wil afzien van het indie
 
 Correctieberichten op werknemersniveau zijn niet aan de orde voor eindheffingsbestanddelen als bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31). Deze bestanddelen vormen geen loon voor de werknemersverzekeringen en de bijdrage [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-### 3.1. Verhouding tot het [BFB](https://wetten.overheid.nl/jci1.3:c:BWBR0045752)
+### 3.1. Verhouding tot het BFB
 
-Als een correctiebericht moet of kan worden ingediend verleent de inspecteur alleen een vermindering of teruggaaf als het verzoek daartoe in de vorm van een correctiebericht wordt gedaan (zie [paragraaf 23, onder 8, letter d, BFB](onbekend)). Dit geldt niet als een correctiebericht achterwege blijft op basis van dit besluit.
+Als een correctiebericht moet of kan worden ingediend verleent de inspecteur alleen een vermindering of teruggaaf als het verzoek daartoe in de vorm van een correctiebericht wordt gedaan (zie [paragraaf 23, onder 8, letter d, BFB](https://wetten.overheid.nl/BWBR0045752)). Dit geldt niet als een correctiebericht achterwege blijft op basis van dit besluit.
 
 ### 4. Ingetrokken regeling
 
 De volgende besluiten worden ingetrokken bij de inwerkingtreding van dit besluit
 
-Het besluit van 21 april 2011 ‘[Loonheffingen. Verwerking teruggaaf inkomensafhankelijke bijdrage Zorgverzekeringswet 2010, 2011 en 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0029932)’ heeft zijn belang verloren door het verlopen van de maximale termijn van vijf jaar om de aangifte loonheffingen te corrigeren.
+- − [besluit van 8 maart 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027395), nr. DGB2010/565M (Stcrt. 2010, nr. 3990);
 
-Het besluit van 29 juli 2004 ‘[Loonbelasting. Beroepssportersregeling. Kwalificatie als beroepssporter](https://wetten.overheid.nl/jci1.3:c:BWBR0017075)’ heeft enkel een voorlichtend karakter. De van belang zijnde informatie is opgenomen in de Handleiding Loonheffingen artiesten- en beroepssportersregeling.
+- − [besluit van 21 april 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029932), nr. BLKB 2011/322M (Stcrt. 2011, nr. 7633);
+
+- − [besluit van 29 juli 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017075), nr. CPP2004/752M (Stcrt. 2004, nr. 177).
+
+Het besluit van 21 april 2011 ‘[Loonheffingen. Verwerking teruggaaf inkomensafhankelijke bijdrage Zorgverzekeringswet 2010, 2011 en 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0029932)’ heeft zijn belang verloren door het verlopen van de maximale termijn van vijf jaar om de aangifte loonheffingen te corrigeren.
+
+Het besluit van 29 juli 2004 ‘[Loonbelasting. Beroepssportersregeling. Kwalificatie als beroepssporter](https://wetten.overheid.nl/jci1.3:c:BWBR0017075)’ heeft enkel een voorlichtend karakter. De van belang zijnde informatie is opgenomen in de Handleiding Loonheffingen artiesten- en beroepssportersregeling.
 
 ### 5. Inwerkingtreding
 
@@ -104,5 +138,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ### 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit correctieverplichting.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Podiumregeling Fonds Podiumkunsten"
 identifier: "BWBR0046665"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-25"
-last_updated: "2024-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046665"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16361123"
-version_id: "28632972"
-internal_id: "C40397501"
-label_id: "16285684"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046665/2024-06-25/0"
-intitule_bron: "Stcrt.2022-13303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-25"
-intitule_published: "2022-05-17"
-intitule_in_force: "2022-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-13303"
-original_signed_date: "2022-04-25"
-original_published_date: "2022-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-13303"
-entry_into_force_date: "2022-05-18"
-jci_1_3: "jci1.3:c:BWBR0046665&z=2024-06-25&g=2024-06-25"
-jci_1_0: "1.0:c:BWBR0046665&g=2024-06-25"
-citeertitel_status: "officieel"
-signed_date: "2022-04-25"
-entry_into_force: "2022-05-18"
+publicatiedatum: 2022-05-18
+laatste_update: 2024-06-25
+status: geldig
+toestand: 2024-06-25
+bron: "https://wetten.overheid.nl/BWBR0046665"
+opgehaald: 2026-09-02
 ---
+
 # Podiumregeling Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,15 +19,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **podium:** een organisatie die de hoofdgebruiker is van een gebouw met een of meer theater- en/of concertzalen, waarin zij op regelmatige basis professionele podiumkunstenaars en publiek samenbrengt bij voorstellingen en/of concerten.
+- *podium:* een organisatie die de hoofdgebruiker is van een gebouw met een of meer theater- en/of concertzalen, waarin zij op regelmatige basis professionele podiumkunstenaars en publiek samenbrengt bij voorstellingen en/of concerten.
 
-- **programmeringskosten:** de kosten in de vorm van uitkoopsommen, honoraria en gages voor de professionele podiumkunstprogrammering.
+- *programmeringskosten:* de kosten in de vorm van uitkoopsommen, honoraria en gages voor de professionele podiumkunstprogrammering.
 
 ##### Artikel 1.2. Doel
 
@@ -117,11 +91,11 @@ Een aanvraag kan worden gedaan door een rechtspersoon die artistiek en financiee
 
 1. Aanvragen die aan de voorwaarden voldoen om voor subsidie in aanmerking te komen worden per landsdeel onderverdeeld in:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat; en
+- B: honoreren voor zover het budget dat toelaat; en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
 2. Als een subsidieplafond voor een landsdeel ontoereikend is om alle aanvragen met het advies 'honoreren voor zover het budget dat toelaat' te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria.
 
@@ -161,11 +135,11 @@ Een aanvraag voor de programmeringsbijdrage kan primair worden ingediend voor he
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). artistieke positie;
+- a) artistieke positie;
 
-- b). publieksfunctie;
+- b) publieksfunctie;
 
-- c). inbedding.
+- c) inbedding.
 
 ##### Artikel 3.4. Subsidiehoogte
 
@@ -185,17 +159,17 @@ Een aanvraag voor de productiebijdrage kan worden ingediend voor (co)producerend
 
 2. Aanvragers komen niet in aanmerking voor een aanvullende bijdrage uit het budget voor de productiebijdrage indien:
 
-- –. er vanuit het podium structureel wordt geproduceerd door een instelling die een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige productiesubsidie van het Fonds Podiumkunsten ontvangt;
+- – er vanuit het podium structureel wordt geproduceerd door een instelling die een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap of een meerjarige productiesubsidie van het Fonds Podiumkunsten ontvangt;
 
-- –. het podium een BIS-ontwikkelfunctie heeft.
+- – het podium een BIS-ontwikkelfunctie heeft.
 
 ##### Artikel 4.3. Voordracht
 
 1. Aanvragen kunnen voor een productiebijdrage worden voorgedragen door de adviescommissies indien:
 
-- –. de aanvrager kan aantonen dat het podium intensief samenwerkt met producenten bij de ontwikkeling van nieuw professioneel aanbod of zelf nieuw professioneel aanbod ontwikkelt ten behoeve van de presentatie ervan op het eigen podium; of
+- – de aanvrager kan aantonen dat het podium intensief samenwerkt met producenten bij de ontwikkeling van nieuw professioneel aanbod of zelf nieuw professioneel aanbod ontwikkelt ten behoeve van de presentatie ervan op het eigen podium; of
 
-- –. de aanvrager kan aantonen dat het podium een substantiële bijdrage levert aan talentontwikkeling, waarbij het podium niet alleen een presenterende, maar tevens een (co)producerende rol vervult.
+- – de aanvrager kan aantonen dat het podium een substantiële bijdrage levert aan talentontwikkeling, waarbij het podium niet alleen een presenterende, maar tevens een (co)producerende rol vervult.
 
 2. De adviescommissies doen hun voordracht op basis van de mate waarin een podium van betekenis is voor de lokale maakcultuur.
 
@@ -209,11 +183,11 @@ De subsidiehoogte van de productiebijdrage bedraagt 29.400 euro per jaar.
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 2. De subsidieontvanger plaatst het logo of de naam van het Fonds Podiumkunsten op alle publiciteitsuitingen die betrekking hebben op de gesubsidieerde activiteiten.
 
@@ -248,5 +222,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Podiumregeling Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

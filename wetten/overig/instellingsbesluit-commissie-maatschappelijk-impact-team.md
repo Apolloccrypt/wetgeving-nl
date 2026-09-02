@@ -1,56 +1,28 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 24 augustus 2022, nr. 2022-0000173239, houdende de instelling van de Commissie Maatschappelijk Impact Team (Instellingsbesluit Commissie Maatschappelijk Impact Team)"
+citeertitel: "Instellingsbesluit Commissie Maatschappelijk Impact Team"
 identifier: "BWBR0047087"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-01"
-last_updated: "2022-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047087"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16468943"
-version_id: "28854412"
-internal_id: "C40856321"
-label_id: "16391434"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047087/2022-09-01/0"
-intitule_bron: "Stcrt.2022-22807"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-24"
-intitule_published: "2022-08-31"
-intitule_in_force: "2022-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-22807"
-original_signed_date: "2022-08-24"
-original_published_date: "2022-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-22807"
-entry_into_force_date: "2022-09-01"
-jci_1_3: "jci1.3:c:BWBR0047087&z=2022-09-01&g=2022-09-01"
-jci_1_0: "1.0:c:BWBR0047087&g=2022-09-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Maatschappelijk Impact Team"
-signed_date: "2022-08-24"
-entry_into_force: "2022-09-01"
+publicatiedatum: 2022-09-01
+laatste_update: 2022-09-01
+status: geldig
+toestand: 2022-09-01
+bron: "https://wetten.overheid.nl/BWBR0047087"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 24 augustus 2022, nr. 2022-0000173239, houdende de instelling van de Commissie Maatschappelijk Impact Team (Instellingsbesluit Commissie Maatschappelijk Impact Team)
-
-handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 2, eerste lid, van de van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- a. *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **Commissie:** Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047087&artikel=2&z=2022-09-01&g=2022-09-01);
+- b. *Commissie:* Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047087&artikel=2&z=2022-09-01&g=2022-09-01);
 
-- c. **Ministerie:** Ministerie van Sociale Zaken en Werkgelegenheid.
+- c. *Ministerie:* Ministerie van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 2. Instelling en taak
 
@@ -108,11 +80,11 @@ De Commissie stelt haar eigen werkwijze vast.
 
 ##### Artikel 8. Vergoeding
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 trede 10 van de Bijlage bij Akkoord over CAO Rijk (1 januari 2021 tot en met 31 maart 2022) en de arbeidsduurfactor op in gedeelte van werkweek in breuk 20/36.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 trede 10 van de Bijlage bij Akkoord over CAO Rijk (1 januari 2021 tot en met 31 maart 2022) en de arbeidsduurfactor op in gedeelte van werkweek in breuk 20/36.
 
-2. De andere leden ontvangen indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van € 368.
+2. De andere leden ontvangen indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van € 368.
 
-3. De experts ontvangen, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van € 368.
+3. De experts ontvangen, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van € 368.
 
 ##### Artikel 9. Kosten van de Commissie
 
@@ -139,5 +111,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Maatschappelijk Impact Team.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

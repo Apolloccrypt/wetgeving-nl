@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0035474"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJZ / 13125043, houdende vaststelling van nationale subsidie-instrumenten op het terrein van Economische Zaken (Regeling nationale EZ-subsidies)

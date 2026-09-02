@@ -1,65 +1,39 @@
 ---
 title: "Bestuursreglement UWV 2021"
 identifier: "BWBR0046584"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-04-23"
-last_updated: "2022-04-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046584"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16334443"
-version_id: "28571062"
-internal_id: "C40317481"
-label_id: "16259014"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046584/2022-04-23/0"
-intitule_bron: "Stcrt.2022-9890"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2021-12-14"
-intitule_published: "2022-04-22"
-intitule_in_force: "2022-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9890"
-original_signed_date: "2021-12-14"
-original_published_date: "2022-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9890"
-entry_into_force_date: "2022-04-23"
-jci_1_3: "jci1.3:c:BWBR0046584&z=2022-04-23&g=2022-04-23"
-jci_1_0: "1.0:c:BWBR0046584&g=2022-04-23"
-citeertitel_status: "officieel"
-signed_date: "2021-12-14"
-entry_into_force: "2022-04-23"
+publicatiedatum: 2022-04-23
+laatste_update: 2022-04-23
+status: geldig
+toestand: 2022-04-23
+bron: "https://wetten.overheid.nl/BWBR0046584"
+opgehaald: 2026-09-02
 ---
+
 # Bestuursreglement UWV 2021
-
-Gelet op [artikel 6, zesde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. (Definities)
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **Wet:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- a. *Wet:* de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- b. **UWV:** Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 2, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
+- b. *UWV:* Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 2, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
 
-- c. **Raad van bestuur:** Raad van bestuur van het UWV als bedoeld in [artikel 6, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
+- c. *Raad van bestuur:* Raad van bestuur van het UWV als bedoeld in [artikel 6, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6);
 
-- d. **voorzitter:** het ingevolge [artikel 6, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde lid van de Raad van bestuur;
+- d. *voorzitter:* het ingevolge [artikel 6, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde lid van de Raad van bestuur;
 
-- e. **bestuursleden:** de ingevolge [artikel 6, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde leden van de Raad van bestuur;
+- e. *bestuursleden:* de ingevolge [artikel 6, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=6) als zodanig benoemde leden van de Raad van bestuur;
 
-- g. **Onze Minister:** Onze Minister van Sociale Zaken en Werkgelegenheid;
+- g. *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-- h. **mandaat:** de bevoegdheid om in naam van het UWV besluiten te nemen;
+- h. *mandaat:* de bevoegdheid om in naam van het UWV besluiten te nemen;
 
-- i. **volmacht:** de bevoegdheid om in naam van het UWV privaatrechtelijke rechtshandelingen te verrichten;
+- i. *volmacht:* de bevoegdheid om in naam van het UWV privaatrechtelijke rechtshandelingen te verrichten;
 
-- j. **machtiging:** de bevoegdheid om in naam van het UWV handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
+- j. *machtiging:* de bevoegdheid om in naam van het UWV handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2. (Taak en bevoegdheden)
 
@@ -109,7 +83,7 @@ De Raad van bestuur evalueert dit bestuursreglement periodiek.
 
 ##### Artikel 10. (Formaliteiten)
 
-1. Het [Bestuursreglement Uwv](https://wetten.overheid.nl/jci1.3:c:BWBR0013528) van 19 maart 2002 (Stcrt. 1 juli 2002, nr.122) wordt ingetrokken.
+1. Het [Bestuursreglement Uwv](https://wetten.overheid.nl/jci1.3:c:BWBR0013528) van 19 maart 2002 (Stcrt. 1 juli 2002, nr.122) wordt ingetrokken.
 
 2. Dit bestuursreglement is overeenkomstig [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) door Onze Minister goedgekeurd.
 
@@ -118,5 +92,3 @@ De Raad van bestuur evalueert dit bestuursreglement periodiek.
 ##### Artikel 11. (Citeertitel)
 
 Dit besluit kan worden aangehaald als: Bestuursreglement UWV 2021.
-
-Dit besluit wordt gepubliceerd in de Staatscourant.

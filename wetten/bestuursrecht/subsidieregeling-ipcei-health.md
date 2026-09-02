@@ -1,130 +1,104 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid Welzijn en Sport van 29 juni 2022, kenmerk 3389067-1031676-GMT, houdende regels voor de subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Subsidieregeling IPCEI Health)"
+citeertitel: "Subsidieregeling IPCEI Health"
 identifier: "BWBR0046873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-26"
-last_updated: "2024-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046873"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16411843"
-version_id: "28743672"
-internal_id: "C40669091"
-label_id: "16336104"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046873/2024-07-26/0"
-intitule_bron: "Stcrt.2022-17724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-29"
-intitule_published: "2022-07-08"
-intitule_in_force: "2022-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-17724"
-original_signed_date: "2022-06-29"
-original_published_date: "2022-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-17724"
-entry_into_force_date: "2022-07-09"
-jci_1_3: "jci1.3:c:BWBR0046873&z=2024-07-26&g=2024-07-26"
-jci_1_0: "1.0:c:BWBR0046873&g=2024-07-26"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling IPCEI Health"
-signed_date: "2022-06-29"
-entry_into_force: "2022-07-09"
+publicatiedatum: 2022-07-09
+laatste_update: 2024-07-26
+status: geldig
+toestand: 2024-07-26
+bron: "https://wetten.overheid.nl/BWBR0046873"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Volksgezondheid Welzijn en Sport van 29 juni 2022, kenmerk 3389067-1031676-GMT, houdende regels voor de subsidiëring van activiteiten die binnen de reikwijdte van Important Projects of Common European Interest op het gebied van Health vallen (Subsidieregeling IPCEI Health)
-
-Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak 1:** de periode die twee dagen na de publicatie van de Subsidieregeling IPCEI Health in de Staatscourant aanvangt om 09:00 uur en duurt tot en met 12 augustus 2022, 17:00 uur;
+- *aanvraagtijdvak 1:* de periode die twee dagen na de publicatie van de Subsidieregeling IPCEI Health in de Staatscourant aanvangt om 09:00 uur en duurt tot en met 12 augustus 2022, 17:00 uur;
 
-- **algemene groepsvrijstellingsverordening:** Verordening (EU) nummer 2023/1315 van de Commissie van 23 juni 2023 tot wijziging van [Verordening (EU) nr. 651/2014](32014R0651) waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU, 2023, L 167/2);
+- *algemene groepsvrijstellingsverordening:* Verordening (EU) nummer 2023/1315 van de Commissie van 23 juni 2023 tot wijziging van Verordening (EU) nr. 651/2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU, 2023, L 167/2);
 
-- **AMR:** antimicrobiële resistentie;
+- *AMR:* antimicrobiële resistentie;
 
-- **directe partner:** een onderneming als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
+- *directe partner:* een onderneming als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
 
-- **eerste industriële toepassing van innovatieve producten of diensten:** activiteiten als bedoeld in paragraaf 3.2.3, onderdelen 23 en 24, van het IPCEI-steunkader;
+- *eerste industriële toepassing van innovatieve producten of diensten:* activiteiten als bedoeld in paragraaf 3.2.3, onderdelen 23 en 24, van het IPCEI-steunkader;
 
-- **eerste wave:** Europese belangrijke projecten die vallen binnen de thematiek van het manifesto;
+- *eerste wave:* Europese belangrijke projecten die vallen binnen de thematiek van het manifesto;
 
-- **Europees belangrijk project:** project als bedoeld in paragraaf 3.1 van het IPCEI-steunkader dat is voorzien van een Europees goedkeuringsbesluit en wordt uitgevoerd door een Europees samenwerkingsverband;
+- *Europees belangrijk project:* project als bedoeld in paragraaf 3.1 van het IPCEI-steunkader dat is voorzien van een Europees goedkeuringsbesluit en wordt uitgevoerd door een Europees samenwerkingsverband;
 
-- **Europees goedkeuringsbesluit:** besluit waarin de Europese Commissie een project heeft gekwalificeerd als belangrijk project van gemeenschappelijk Europees belang en overheidssteun voor één of meer ondernemingen die deelnemen aan het desbetreffende Europese samenwerkingsverband verenigbaar heeft verklaard met de interne markt, in de zin van artikel 107, derde lid, onderdeel b, van het Verdrag betreffende de werking van de Europese Unie;
+- *Europees goedkeuringsbesluit:* besluit waarin de Europese Commissie een project heeft gekwalificeerd als belangrijk project van gemeenschappelijk Europees belang en overheidssteun voor één of meer ondernemingen die deelnemen aan het desbetreffende Europese samenwerkingsverband verenigbaar heeft verklaard met de interne markt, in de zin van artikel 107, derde lid, onderdeel b, van het Verdrag betreffende de werking van de Europese Unie;
 
-- **Europese matchmakingsbijeenkomst:** een internationale bijeenkomst waar ondernemingen en onderzoeksorganisaties fysiek of digitaal samenkomen met als doel Europese samenwerkingsverbanden overeenkomstig het IPCEI-steunkader aan te gaan;
+- *Europese matchmakingsbijeenkomst:* een internationale bijeenkomst waar ondernemingen en onderzoeksorganisaties fysiek of digitaal samenkomen met als doel Europese samenwerkingsverbanden overeenkomstig het IPCEI-steunkader aan te gaan;
 
-- **Europees matchmakingsproces:** interactief multilateraal en publiek-privaat proces dat:
+- *Europees matchmakingsproces:* interactief multilateraal en publiek-privaat proces dat:
 
-- a. door een of meerdere lidstaten van de Europese Unie geïnitieerd is en plaatsvindt tussen lidstaten van de Europese Unie, eventueel met een of meer lidstaten van de Europese Vrijhandelsassociatie, en door de minister geselecteerde participerende ondernemingen;
+   - a. door een of meerdere lidstaten van de Europese Unie geïnitieerd is en plaatsvindt tussen lidstaten van de Europese Unie, eventueel met een of meer lidstaten van de Europese Vrijhandelsassociatie, en door de minister geselecteerde participerende ondernemingen;
 
-- b. gericht is op het tot stand brengen van samenwerkingsverbanden die bijdragen aan de totstandkoming van een Europees belangrijk project;
+   - b. gericht is op het tot stand brengen van samenwerkingsverbanden die bijdragen aan de totstandkoming van een Europees belangrijk project;
 
-- **Europees samenwerkingsverband:** samenwerkingsverband dat bestaat uit ondernemingen en in voorkomende gevallen onderzoeksorganisaties die overeenkomstig paragraaf 3.2.1, onderdeel 16, van het IPCEI-steunkader gevestigd zijn in ten minste vier landen die lid zijn van de Europese Unie of Europese Vrijhandelsassociatie, behoudens gevallen waarin de aard van een Europees belangrijk project vestiging in een kleiner aantal lidstaten rechtvaardigt;
+- *Europees samenwerkingsverband:* samenwerkingsverband dat bestaat uit ondernemingen en in voorkomende gevallen onderzoeksorganisaties die overeenkomstig paragraaf 3.2.1, onderdeel 16, van het IPCEI-steunkader gevestigd zijn in ten minste vier landen die lid zijn van de Europese Unie of Europese Vrijhandelsassociatie, behoudens gevallen waarin de aard van een Europees belangrijk project vestiging in een kleiner aantal lidstaten rechtvaardigt;
 
-- **Europese notificatiefase:** fase waarin een Nederlands belangrijk project formeel bij de Europese Commissie wordt aangemeld om een Europees goedkeuringsbesluit te krijgen;
+- *Europese notificatiefase:* fase waarin een Nederlands belangrijk project formeel bij de Europese Commissie wordt aangemeld om een Europees goedkeuringsbesluit te krijgen;
 
-- **Europese pre-notificatiefase:** fase waarin de minister bij de Europese Commissie informeel een Nederlands belangrijk project onder de aandacht brengt om, voorafgaand aan een eventuele Europese notificatiefase, te verkennen of dit project in aanmerking zou kunnen komen voor een Europees goedkeuringsbesluit;
+- *Europese pre-notificatiefase:* fase waarin de minister bij de Europese Commissie informeel een Nederlands belangrijk project onder de aandacht brengt om, voorafgaand aan een eventuele Europese notificatiefase, te verkennen of dit project in aanmerking zou kunnen komen voor een Europees goedkeuringsbesluit;
 
-- **experimentele ontwikkeling:** het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het ontwikkelen van nieuwe of verbeterde producten, procedés of diensten, of activiteiten die gericht zijn op de conceptuele formulering, de planning en documentering van alternatieve producten, procedés of diensten;
+- *experimentele ontwikkeling:* het verwerven, combineren, vormgeven en gebruiken van bestaande wetenschappelijke, technologische, zakelijke en andere relevante kennis en vaardigheden, gericht op het ontwikkelen van nieuwe of verbeterde producten, procedés of diensten, of activiteiten die gericht zijn op de conceptuele formulering, de planning en documentering van alternatieve producten, procedés of diensten;
 
-- **financieringskloof:** financieringskloof als bedoeld in paragraaf 4.1, onderdeel 33, van het IPCEI-steunkader;
+- *financieringskloof:* financieringskloof als bedoeld in paragraaf 4.1, onderdeel 33, van het IPCEI-steunkader;
 
-- **grote onderneming:** grote onderneming als bedoeld in artikel 2, onderdeel 24, van de algemene groepsvrijstellingsverordening;
+- *grote onderneming:* grote onderneming als bedoeld in artikel 2, onderdeel 24, van de algemene groepsvrijstellingsverordening;
 
-- **haalbaarheidsstudie:** het onderzoek en de analyse van het potentieel van een project, met als doel de besluitvorming te ondersteunen door objectief en rationeel de sterke en de zwakke punten van een project, de kansen en risico's in kaart te brengen, waarbij ook wordt aangegeven welke middelen nodig zijn om het project te kunnen doorvoeren en wat uiteindelijk de slaagkansen zijn;
+- *haalbaarheidsstudie:* het onderzoek en de analyse van het potentieel van een project, met als doel de besluitvorming te ondersteunen door objectief en rationeel de sterke en de zwakke punten van een project, de kansen en risico's in kaart te brengen, waarbij ook wordt aangegeven welke middelen nodig zijn om het project te kunnen doorvoeren en wat uiteindelijk de slaagkansen zijn;
 
-- **indirecte partner:** een onderneming of onderzoeksorganisatie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
+- *indirecte partner:* een onderneming of onderzoeksorganisatie als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=5&z=2024-07-26&g=2024-07-26);
 
-- **industrieel onderzoek:** planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, procedés of diensten aanmerkelijk te verbeteren;
+- *industrieel onderzoek:* planmatig of kritisch onderzoek dat is gericht op het opdoen van nieuwe kennis en vaardigheden met het oog op de ontwikkeling van nieuwe producten, procedés of diensten, of om bestaande producten, procedés of diensten aanmerkelijk te verbeteren;
 
-- **infrastructuurprojectactiviteiten:** activiteiten als bedoeld in paragraaf 3.2.3, onderdeel 25, van het IPCEI-steunkader;
+- *infrastructuurprojectactiviteiten:* activiteiten als bedoeld in paragraaf 3.2.3, onderdeel 25, van het IPCEI-steunkader;
 
-- **IPCEI Health:** het op het IPCEI-steunkader gestoeld initiatief dat gericht is op het aanpakken van potentiële situaties van marktfalen die in de weg staan aan innovaties om de kwaliteit van en toegang tot de gezondheidszorg voor patiënten te verbeteren, waarvan de doelstellingen zijn neergelegd in het manifesto;
+- *IPCEI Health:* het op het IPCEI-steunkader gestoeld initiatief dat gericht is op het aanpakken van potentiële situaties van marktfalen die in de weg staan aan innovaties om de kwaliteit van en toegang tot de gezondheidszorg voor patiënten te verbeteren, waarvan de doelstellingen zijn neergelegd in het manifesto;
 
-- **IPCEI-steunkader:** Mededeling van de Commissie – Criteria voor de beoordeling van de verenigbaarheid met de interne markt van staatssteun ter bevordering van de verwezenlijking van belangrijke projecten van gemeenschappelijk Europees belang (PBEU 2021 C 528/02);
+- *IPCEI-steunkader:* Mededeling van de Commissie – Criteria voor de beoordeling van de verenigbaarheid met de interne markt van staatssteun ter bevordering van de verwezenlijking van belangrijke projecten van gemeenschappelijk Europees belang (PBEU 2021 C 528/02);
 
-- **kleine onderneming:** kleine onderneming als bedoeld in bijlage I, artikel 2, tweede lid, bij de algemene groepsvrijstellingsverordening;
+- *kleine onderneming:* kleine onderneming als bedoeld in bijlage I, artikel 2, tweede lid, bij de algemene groepsvrijstellingsverordening;
 
-- **manifesto:** ‘Manifesto towards a health IPCEI’ dat op 3 maart 2022 is ondertekend door Oostenrijk, België, Denemarken, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Nederland, Polen, Roemenië, Slovenië en Spanje;
+- *manifesto:* ‘Manifesto towards a health IPCEI’ dat op 3 maart 2022 is ondertekend door Oostenrijk, België, Denemarken, Frankrijk, Griekenland, Hongarije, Ierland, Italië, Letland, Litouwen, Luxemburg, Nederland, Polen, Roemenië, Slovenië en Spanje;
 
-- **middelgrote onderneming:** middelgrote onderneming als bedoeld in bijlage I, artikel 2, eerste lid, van de algemene groepsvrijstellingsverordening;
+- *middelgrote onderneming:* middelgrote onderneming als bedoeld in bijlage I, artikel 2, eerste lid, van de algemene groepsvrijstellingsverordening;
 
-- **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **Nederlands belangrijk project:** deelproject of projectonderdeel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26) van een Europees belangrijk project uitgevoerd door in Nederland gevestigde ondernemingen of in voorkomend geval onderzoeksorganisaties;
+- *Nederlands belangrijk project:* deelproject of projectonderdeel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26) van een Europees belangrijk project uitgevoerd door in Nederland gevestigde ondernemingen of in voorkomend geval onderzoeksorganisaties;
 
-- **Nederlands samenwerkingsverband:** een samenwerkingsverband bestaande uit in Nederland gevestigde ondernemingen en onderzoeksorganisaties dat is opgericht voor de gezamenlijke uitvoering van activiteiten;
+- *Nederlands samenwerkingsverband:* een samenwerkingsverband bestaande uit in Nederland gevestigde ondernemingen en onderzoeksorganisaties dat is opgericht voor de gezamenlijke uitvoering van activiteiten;
 
-- **nul-scenario:** nul-scenario als bedoeld in paragraaf 4.1, onderdeel 31, van het IPCEI-steunkader;
+- *nul-scenario:* nul-scenario als bedoeld in paragraaf 4.1, onderdeel 31, van het IPCEI-steunkader;
 
-- **onderneming:** iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
+- *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;
 
-- **onderzoek, ontwikkeling en innovatie:** activiteiten als bedoeld in paragraaf 3.2.3, onderdeel 22 van het IPCEI-steunkader;
+- *onderzoek, ontwikkeling en innovatie:* activiteiten als bedoeld in paragraaf 3.2.3, onderdeel 22 van het IPCEI-steunkader;
 
-- **onderzoeksinfrastructuur:** onderzoeksinfrastructuur als bedoeld in artikel 2, onderdeel 91, van de algemene groepsvrijstellingsverordening;
+- *onderzoeksinfrastructuur:* onderzoeksinfrastructuur als bedoeld in artikel 2, onderdeel 91, van de algemene groepsvrijstellingsverordening;
 
-- **onderzoeksorganisatie:** organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel ee, van het O&O&I-steunkader;
+- *onderzoeksorganisatie:* organisatie voor onderzoek en kennisverspreiding als bedoeld in artikel 2, onderdeel 83, van de algemene groepsvrijstellingsverordening en paragraaf 1.3, onderdeel ee, van het O&O&I-steunkader;
 
-- **O&O&I-steunkader:** Mededeling van de Commissie inzake een Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C 198);
+- *O&O&I-steunkader:* Mededeling van de Commissie inzake een Kaderregeling betreffende staatssteun voor onderzoek, ontwikkeling en innovatie (PbEU 2014, C 198);
 
-- **organisatie-innovatie:** organisatie-innovatie als bedoeld in artikel 2, onderdeel 96, van de algemene groepsvrijstellingsverordening;
+- *organisatie-innovatie:* organisatie-innovatie als bedoeld in artikel 2, onderdeel 96, van de algemene groepsvrijstellingsverordening;
 
-- **procesinnovatie:** procesinnovatie als bedoeld in artikel 2, onderdeel 97, van de algemene groepsvrijstellingsverordening;
+- *procesinnovatie:* procesinnovatie als bedoeld in artikel 2, onderdeel 97, van de algemene groepsvrijstellingsverordening;
 
-- **prodcom-template:** document opgesteld door de Europese Commissie met codes van de producten die ondernemingen van plan zijn om op de markt te brengen na uitvoering van het Europese belangrijke project;
+- *prodcom-template:* document opgesteld door de Europese Commissie met codes van de producten die ondernemingen van plan zijn om op de markt te brengen na uitvoering van het Europese belangrijke project;
 
-- **wave:** afgebakende periode in de tijd waarin Europese belangrijke projecten zijn gericht op specifieke deelonderwerpen van de IPCEI Health.
+- *wave:* afgebakende periode in de tijd waarin Europese belangrijke projecten zijn gericht op specifieke deelonderwerpen van de IPCEI Health.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing, met uitzondering van de [artikelen 5.1 tot en met 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.1), [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.11) en [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
@@ -218,21 +192,21 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 ##### Artikel 8. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor de eerste wave van IPCEI Health bedraagt € 41.800.000.
+1. Het subsidieplafond voor de eerste wave van IPCEI Health bedraagt € 41.800.000.
 
 2. De subsidie bedraagt per Nederlands belangrijk project niet meer dan:
 
 - a. het in het Europees goedkeuringsbesluit op te nemen maximum subsidiebedrag per subsidieaanvrager, voor zover de activiteiten bestaan uit onderzoek en ontwikkeling, de eerste industriële toepassing van innovatieve producten of diensten of infrastructuurprojectactiviteiten;
 
-- b. € 10.450.000 per subsidieaanvrager;
+- b. € 10.450.000 per subsidieaanvrager;
 
-- c. € 7.500.000 per subsidieaanvrager, indien de activiteiten bestaan uit:
+- c. € 7.500.000 per subsidieaanvrager, indien de activiteiten bestaan uit:
 
-- 1°. een haalbaarheidsstudie door een onderneming of onderzoeksorganisatie als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
+   - 1°. een haalbaarheidsstudie door een onderneming of onderzoeksorganisatie als bedoeld in [artikel 3, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
 
-- 2°. het verrichten van investeringen als bedoeld in [artikel 3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming; of
+   - 2°. het verrichten van investeringen als bedoeld in [artikel 3, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een middelgrote of kleine onderneming; of
 
-- 3°. proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
+   - 3°. proces- en organisatie-innovatie als bedoeld in [artikel 3, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26), door een onderneming;
 
 3. De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen overeenkomstig de rangschikkingscriteria, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26).
 
@@ -260,15 +234,15 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 - b. een financieringsplan en begroting waarin een omschrijving wordt gegeven van:
 
-- 1°. de omvang van de gevraagde subsidie;
+   - 1°. de omvang van de gevraagde subsidie;
 
-- 2°. de totale kosten van het Nederlandse belangrijke project, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
+   - 2°. de totale kosten van het Nederlandse belangrijke project, inclusief een beschrijving van welk deel van de kosten betrekking heeft op één of meer van de activiteiten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=3&z=2024-07-26&g=2024-07-26);
 
-- 3°. informatie over de wijze waarop de deelnemers in het Europees of Nederlands samenwerkingsverband hun eigen aandeel in de projectkosten van het Nederlandse belangrijke project financieren;
+   - 3°. informatie over de wijze waarop de deelnemers in het Europees of Nederlands samenwerkingsverband hun eigen aandeel in de projectkosten van het Nederlandse belangrijke project financieren;
 
-- 4°. het nul-scenario, waaronder mede begrepen een beschrijving van de wijze van financiering voor de situatie waarin geen subsidie op grond van deze regeling verstrekt zou worden;
+   - 4°. het nul-scenario, waaronder mede begrepen een beschrijving van de wijze van financiering voor de situatie waarin geen subsidie op grond van deze regeling verstrekt zou worden;
 
-- 5°. de aanwezige financieringskloof, waaronder mede begrepen informatie over de verwachte opbrengsten gedurende de levensduur van een investering;
+   - 5°. de aanwezige financieringskloof, waaronder mede begrepen informatie over de verwachte opbrengsten gedurende de levensduur van een investering;
 
 - c. een managementsamenvatting en beschrijving hoe het project bijdraagt aan de nationale beleidsprioriteiten, bedoeld in [artikel 11, tweede lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0046873&artikel=11&z=2024-07-26&g=2024-07-26).
 
@@ -282,21 +256,21 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
-- a. de aanvrager niet heeft deelgenomen aan de Oproep om belangstelling kenbaar te maken voor deelname aan een IPCEI Health, Ministerie van Volksgezondheid, Welzijn en Sport van 24 maart 2022, Stcrt 2022, 8392;
+- a. de aanvrager niet heeft deelgenomen aan de Oproep om belangstelling kenbaar te maken voor deelname aan een IPCEI Health, Ministerie van Volksgezondheid, Welzijn en Sport van 24 maart 2022, Stcrt 2022, 8392;
 
 - b. de subsidieaanvraag niet is ingediend in aanvraagtijdvak 1;
 
 - c. het project onvoldoende aansluit bij de doelstellingen en criteria, bedoeld in paragrafen 3.2.1, onderdelen 14, 15, 16, 18, 19 en 20, 3.2.3, onderdelen 22, 23, 24 en 25, en 3.3, onderdeel 26, van het IPCEI-steunkader;
 
-- d. de subsidiabele kosten voor een Nederlands belangrijk project minder zouden bedragen dan € 1.000.000;
+- d. de subsidiabele kosten voor een Nederlands belangrijk project minder zouden bedragen dan € 1.000.000;
 
 - e. in onvoldoende mate is gewaarborgd dat de uitvoering van het Europese of Nederlandse belangrijke project door de betrokken partijen in overeenstemming zal zijn met:
 
-- 1°. internationale en Europese verdragen; of
+   - 1°. internationale en Europese verdragen; of
 
-- 2°. het recht van de Europese Unie;
+   - 2°. het recht van de Europese Unie;
 
-- f. in het geval er sprake is van een Nederlands samenwerkingsverband waaraan een onderzoeksorganisatie deelneemt en de onderzoeksorganisatie meer dan 65 procent van de subsidiabele kosten draagt.
+- f. in het geval er sprake is van een Nederlands samenwerkingsverband waaraan een onderzoeksorganisatie deelneemt en de onderzoeksorganisatie meer dan 65 procent van de subsidiabele kosten draagt.
 
 ##### Artikel 11. Rangschikkingscriteria
 
@@ -310,19 +284,19 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - a. de bijdrage die het Nederlandse belangrijke project levert aan het vergroten van de structurele weerbaarheid binnen de Nederlandse en Europese geneesmiddelenproductie-sector en daarmee aan de leveringszekerheid van geneesmiddelen ten behoeve van de patiënt en de zorg, hetgeen onder meer kan blijken uit:
 
-- 1°. het diversificeren van de productieketen van de grondstof tot aan het eindproduct;
+   - 1°. het diversificeren van de productieketen van de grondstof tot aan het eindproduct;
 
-- 2°. het stimuleren van de vergroening of modernisering van de productieprocessen van geneesmiddelen in Nederland en de Europese Unie; of
+   - 2°. het stimuleren van de vergroening of modernisering van de productieprocessen van geneesmiddelen in Nederland en de Europese Unie; of
 
-- 3°. het stimuleren van de realisatie of modernisering van de benodigde productietechnologieën in Nederland en de Europese Unie; en
+   - 3°. het stimuleren van de realisatie of modernisering van de benodigde productietechnologieën in Nederland en de Europese Unie; en
 
 - b. afhankelijk van de thematiek van het projectvoorstel, de bijdrage die het Nederlandse belangrijke project levert aan één van de onderstaande beleidsdoelstellingen door het verrichten van:
 
-- 1°. projectactiviteiten op het gebied van de productie en productieprocessen van geneesmiddelen die belangrijk zijn voor de toekomstige continuering van de zorg in Nederland en de Europese Unie;
+   - 1°. projectactiviteiten op het gebied van de productie en productieprocessen van geneesmiddelen die belangrijk zijn voor de toekomstige continuering van de zorg in Nederland en de Europese Unie;
 
-- 2°. projectactiviteiten op het gebied van AMR; of
+   - 2°. projectactiviteiten op het gebied van AMR; of
 
-- 3°. projectactiviteiten op het gebied van productieprocessen en technologieën voor de ontwikkeling van cel- en gentherapieën; en
+   - 3°. projectactiviteiten op het gebied van productieprocessen en technologieën voor de ontwikkeling van cel- en gentherapieën; en
 
 - c. de ontwikkelfase van het Nederlandse belangrijke project op het moment van het indienen van de subsidieaanvraag en de beoogde ontwikkelfase na afloop van de subsidieperiode.
 
@@ -330,39 +304,39 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - a. de kwaliteit van het projectplan van het Nederlandse belangrijke project, hetgeen onder meer kan blijken uit:
 
-- 1°. een onderbouwing waaruit volgt op welke wijze de doelstellingen uit het Europese belangrijke project en bijhorende doelstellingen van het Nederlandse belangrijke project gerealiseerd zullen worden;
+   - 1°. een onderbouwing waaruit volgt op welke wijze de doelstellingen uit het Europese belangrijke project en bijhorende doelstellingen van het Nederlandse belangrijke project gerealiseerd zullen worden;
 
-- 2°. een beschrijving van de aanpak en methodiek van het Nederlandse belangrijke project, de projectactiviteiten, de uitvoerbaarheid van het project en de omgang met risico’s en intellectuele eigendomsrechten;
+   - 2°. een beschrijving van de aanpak en methodiek van het Nederlandse belangrijke project, de projectactiviteiten, de uitvoerbaarheid van het project en de omgang met risico’s en intellectuele eigendomsrechten;
 
-- 3°. een overzicht van de wijze waarop monitoring plaatsvindt en welke prestatie-indicatoren hierbij gehanteerd worden; of
+   - 3°. een overzicht van de wijze waarop monitoring plaatsvindt en welke prestatie-indicatoren hierbij gehanteerd worden; of
 
-- 4°. de uitwerking van het financieringsplan en de begroting, waaronder begrepen de onderbouwing van de noodzakelijkheid van de benodigde subsidie per subsidieaanvrager, de mate waarin er een financieringskloof aanwezig is en de uitwerking van het nul-scenario; en
+   - 4°. de uitwerking van het financieringsplan en de begroting, waaronder begrepen de onderbouwing van de noodzakelijkheid van de benodigde subsidie per subsidieaanvrager, de mate waarin er een financieringskloof aanwezig is en de uitwerking van het nul-scenario; en
 
 - b. de mate waarin de partijen die het Nederlandse belangrijke project uitvoeren geschikt zijn om het project uit te voeren, hetgeen onder meer kan blijken uit:
 
-- 1°. de mate waarin de daarvoor benodigde competenties aanwezig zijn;
+   - 1°. de mate waarin de daarvoor benodigde competenties aanwezig zijn;
 
-- 2°. de mate waarin er draagvlak bestaat voor het Nederlands belangrijke project binnen het Nederlands en Europees samenwerkingsverband en bij andere relevante partijen;
+   - 2°. de mate waarin er draagvlak bestaat voor het Nederlands belangrijke project binnen het Nederlands en Europees samenwerkingsverband en bij andere relevante partijen;
 
-- 3°. de mate waarin de subsidieaanvrager of deelnemers aan het samenwerkingsverband ervaring hebben met de uitvoering van soortgelijke projecten;
+   - 3°. de mate waarin de subsidieaanvrager of deelnemers aan het samenwerkingsverband ervaring hebben met de uitvoering van soortgelijke projecten;
 
-- 4°. de mate waarin de deelnemers in het Europese en Nederlandse samenwerkingsverband een innovatieve samenstelling vormen en kleine en middelgrote ondernemingen en startups betrekken bij de uitvoering van het project;
+   - 4°. de mate waarin de deelnemers in het Europese en Nederlandse samenwerkingsverband een innovatieve samenstelling vormen en kleine en middelgrote ondernemingen en startups betrekken bij de uitvoering van het project;
 
-- 5°. de kwaliteit van de projectorganisatiestructuur en partners van de subsidieaanvrager dan wel in het Nederlands samenwerkingsverband;
+   - 5°. de kwaliteit van de projectorganisatiestructuur en partners van de subsidieaanvrager dan wel in het Nederlands samenwerkingsverband;
 
-- 6°. de binnen het Nederlands samenwerkingsverband gemaakte afspraken en overeengekomen werkwijze; of
+   - 6°. de binnen het Nederlands samenwerkingsverband gemaakte afspraken en overeengekomen werkwijze; of
 
-- 7°. dat het project door meerdere Nederlandse partners of partners uit de Europese Unie wordt ingediend; en
+   - 7°. dat het project door meerdere Nederlandse partners of partners uit de Europese Unie wordt ingediend; en
 
 - c. de mate waarin het Nederlandse belangrijke project technologisch vooruitstrevend is en een aanzienlijke impact heeft op de gezondheidssector, economie en samenleving, hetgeen onder meer kan blijken uit de omstandigheid dat:
 
-- 1°. het project vernieuwend is ten opzichte van de internationale stand van onderzoek of techniek;
+   - 1°. het project vernieuwend is ten opzichte van de internationale stand van onderzoek of techniek;
 
-- 2°. het project naar verwachting een grote bijdrage zal leveren aan de doelstelling van het overkoepelende Europese belangrijk project;
+   - 2°. het project naar verwachting een grote bijdrage zal leveren aan de doelstelling van het overkoepelende Europese belangrijk project;
 
-- 3°. het project naar verwachting zal zorgen voor grote positieve overloopeffecten en toepassingsmogelijkheden voor de Europese en Nederlandse gezondheidsmarkt ten behoeve van de patiënt, zorg en samenleving, waaronder mede begrepen de verwachte bijdrage aan brede welvaart, de productiviteit en het verdienvermogen van Nederlandse ondernemingen en overige publieke belangen; of
+   - 3°. het project naar verwachting zal zorgen voor grote positieve overloopeffecten en toepassingsmogelijkheden voor de Europese en Nederlandse gezondheidsmarkt ten behoeve van de patiënt, zorg en samenleving, waaronder mede begrepen de verwachte bijdrage aan brede welvaart, de productiviteit en het verdienvermogen van Nederlandse ondernemingen en overige publieke belangen; of
 
-- 4°. het project een grote slagingskans heeft en een blijvend effect zal hebben; en
+   - 4°. het project een grote slagingskans heeft en een blijvend effect zal hebben; en
 
 - d. de manier waarop de financiële middelen effectief en efficiënt worden ingezet, hetgeen onder meer kan blijken uit de hoogte van de gevraagde subsidie ten opzichte van andere financiële bijdragen aan het Nederlandse belangrijke project en de verhouding van de inzet van deze financiële middelen tot het beoogde resultaat, mede gelet op het nul-scenario.
 
@@ -428,19 +402,19 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - b. worden de projectactiviteiten door de onderzoeksorganisatie:
 
-- 1°. uitgevoerd in daadwerkelijke samenwerking met ondernemingen; en
+   - 1°. uitgevoerd in daadwerkelijke samenwerking met ondernemingen; en
 
-- 2°. in de boekhouding opgenomen als niet-economische activiteiten; en
+   - 2°. in de boekhouding opgenomen als niet-economische activiteiten; en
 
 - c. draagt de onderzoeksorganisatie er zorg voor dat:
 
-- 1°. de deelnemende ondernemingen de volledige kosten van de activiteiten dragen;
+   - 1°. de deelnemende ondernemingen de volledige kosten van de activiteiten dragen;
 
-- 2°. de resultaten van de activiteiten waaraan geen intellectuele eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van de onderzoeksorganisatie voortvloeien, volledig aan haar worden toegekend;
+   - 2°. de resultaten van de activiteiten waaraan geen intellectuele eigendomsrechten kunnen worden ontleend, ruim mogen worden verspreid en eventuele intellectuele eigendomsrechten die uit de activiteiten van de onderzoeksorganisatie voortvloeien, volledig aan haar worden toegekend;
 
-- 3°. uit de activiteiten ontstane intellectuele eigendomsrechten, alsmede daarmee verband houdende toegangsrechten, aan de verschillende samenwerkende deelnemers worden toegekend op een wijze die een passende afspiegeling is van hun werkpakketten, bijdragen en respectieve belangen; of
+   - 3°. uit de activiteiten ontstane intellectuele eigendomsrechten, alsmede daarmee verband houdende toegangsrechten, aan de verschillende samenwerkende deelnemers worden toegekend op een wijze die een passende afspiegeling is van hun werkpakketten, bijdragen en respectieve belangen; of
 
-- 4°. het van de deelnemende ondernemingen een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject die worden overgedragen aan de deelnemende ondernemingen.
+   - 4°. het van de deelnemende ondernemingen een vergoeding ontvangt die overeenstemt met de marktprijs voor de intellectuele eigendomsrechten die voortvloeien uit het samenwerkingsproject die worden overgedragen aan de deelnemende ondernemingen.
 
 2. Het absolute bedrag van financiële en niet-financiële bijdragen van de deelnemende ondernemingen in de kosten van de activiteiten van de onderzoeksorganisatie die de betrokken intellectuele eigendomsrechten hebben opgeleverd, kan op de vergoeding, bedoeld in het eerste lid, onderdeel c, subonderdeel 4°, in mindering worden gebracht.
 
@@ -468,9 +442,9 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 - b. draagt deze onderneming er zorg voor dat:
 
-- 1°. de toegang tot deze onderzoeksinfrastructuur openstaat voor meerdere gebruikers en dat deze op transparante en niet-discriminerende basis verleend wordt;
+   - 1°. de toegang tot deze onderzoeksinfrastructuur openstaat voor meerdere gebruikers en dat deze op transparante en niet-discriminerende basis verleend wordt;
 
-- 2°. de vergoedingen die voor de exploitatie of het gebruik van de onderzoeksinfrastructuur worden berekend, overeenstemmen met de marktprijs.
+   - 2°. de vergoedingen die voor de exploitatie of het gebruik van de onderzoeksinfrastructuur worden berekend, overeenstemmen met de marktprijs.
 
 4. In afwijking van het derde lid, aanhef en onderdeel b, subonderdeel 1°, kunnen ondernemingen die ten minste 10 procent van de investeringskosten van de onderzoeksinfrastructuur hebben gefinancierd preferente toegang krijgen op gunstigere voorwaarden, indien deze toegang evenredig is aan de bijdrage van de onderneming in de investeringskosten en deze gunstigere voorwaarden publiek beschikbaar worden gesteld.
 
@@ -494,7 +468,7 @@ De minister beslist afwijzend op een aanvraag voor subsidie indien:
 
 ##### Artikel 18. Aanvraag tot subsidievaststelling
 
-1. Een aanvraag tot vaststelling van de subsidie wordt ingediend binnen 13 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
+1. Een aanvraag tot vaststelling van de subsidie wordt ingediend binnen 13 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
 2. Voor de aanvraag tot vaststelling van een subsidie wordt een door de minister vastgesteld modelformulier gebruikt.
 
@@ -534,10 +508,8 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 juli 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
+2. Deze regeling vervalt met ingang van 1 juli 2029, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.
 
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling IPCEI Health.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

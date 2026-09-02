@@ -1,72 +1,46 @@
 ---
 title: "Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 5 september 2022, nr. 2022-0000033803, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het ontzorgen van kleine maatschappelijk vastgoedeigenaren bij de verduurzaming van de gebouwde onroerende zaken die zij in eigendom hebben, tweede tranche (Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche)"
+citeertitel: "Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche"
 identifier: "BWBR0047108"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047108"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16473423"
-version_id: "28864162"
-internal_id: "C40867561"
-label_id: "16395364"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047108/2024-10-01/0"
-intitule_bron: "Stcrt.2022-22589"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-05"
-intitule_published: "2022-09-06"
-intitule_in_force: "2022-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-22589"
-original_signed_date: "2022-09-05"
-original_published_date: "2022-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-22589"
-entry_into_force_date: "2022-10-01"
-jci_1_3: "jci1.3:c:BWBR0047108&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0047108&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche"
-signed_date: "2022-09-05"
-entry_into_force: "2022-10-01"
+publicatiedatum: 2022-10-01
+laatste_update: 2024-10-01
+status: geldig
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0047108"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 5 september 2022, nr. 2022-0000033803, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het ontzorgen van kleine maatschappelijk vastgoedeigenaren bij de verduurzaming van de gebouwde onroerende zaken die zij in eigendom hebben, tweede tranche (Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche)
-
-Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **gebouwde onroerende zaak:** gebouwde onroerende zaak of gebouwde onroerende zaken of gedeelten daarvan die niet uitsluitend een woonfunctie heeft of hebben en die staan ingeschreven in de basisregistratie kadaster op één adres of één gebouwde onroerende zaak die staat ingeschreven in de basisregistratie kadaster op meerdere adressen;
+- *gebouwde onroerende zaak:* gebouwde onroerende zaak of gebouwde onroerende zaken of gedeelten daarvan die niet uitsluitend een woonfunctie heeft of hebben en die staan ingeschreven in de basisregistratie kadaster op één adres of één gebouwde onroerende zaak die staat ingeschreven in de basisregistratie kadaster op meerdere adressen;
 
-- **eigendom:** eigendom, erfpacht of recht van opstal op een gebouwde onroerende zaak;
+- *eigendom:* eigendom, erfpacht of recht van opstal op een gebouwde onroerende zaak;
 
-- **kleine maatschappelijk vastgoedeigenaar:**
+- *kleine maatschappelijk vastgoedeigenaar:*
 
-- a. gemeente met minder dan 50.000 inwoners op 1 oktober 2022;
+   - a. gemeente met minder dan 50.000 inwoners op 1 oktober 2022;
 
-- b. schoolbestuur van een door het Rijk bekostigde school in het primair onderwijs met maximaal vijftien gebouwde onroerende zaken in eigendom;
+   - b. schoolbestuur van een door het Rijk bekostigde school in het primair onderwijs met maximaal vijftien gebouwde onroerende zaken in eigendom;
 
-- c. schoolbestuur van een door het Rijk bekostigde school in het voortgezet onderwijs met maximaal tien gebouwde onroerende zaken in eigendom;
+   - c. schoolbestuur van een door het Rijk bekostigde school in het voortgezet onderwijs met maximaal tien gebouwde onroerende zaken in eigendom;
 
-- d. zorgaanbieder, met uitzondering van academische en algemene ziekenhuizen, met maximaal tien gebouwde onroerende zaken in eigendom;
+   - d. zorgaanbieder, met uitzondering van academische en algemene ziekenhuizen, met maximaal tien gebouwde onroerende zaken in eigendom;
 
-- e. culturele instelling met een door de Belastingdienst aangewezen status als culturele algemeen nut beogende instelling of gelieerd aan een instelling met een door de Belastingdienst aangewezen status als culturele algemeen nut beogende instelling, met maximaal tien gebouwde onroerende zaken in eigendom;
+   - e. culturele instelling met een door de Belastingdienst aangewezen status als culturele algemeen nut beogende instelling of gelieerd aan een instelling met een door de Belastingdienst aangewezen status als culturele algemeen nut beogende instelling, met maximaal tien gebouwde onroerende zaken in eigendom;
 
-- f. stichting, vereniging of coöperatie ter exploitatie en beheer van gebouwen met een publieksfunctie, waaronder in ieder geval behoort een buurthuis, dorpshuis, wijkcentrum of gemeenschapscentrum, met maximaal tien gebouwde onroerende zaken in eigendom;
+   - f. stichting, vereniging of coöperatie ter exploitatie en beheer van gebouwen met een publieksfunctie, waaronder in ieder geval behoort een buurthuis, dorpshuis, wijkcentrum of gemeenschapscentrum, met maximaal tien gebouwde onroerende zaken in eigendom;
 
-- g. religieuze of levensbeschouwelijke instelling met maximaal vijftien gebouwde onroerende zaken in eigendom;
+   - g. religieuze of levensbeschouwelijke instelling met maximaal vijftien gebouwde onroerende zaken in eigendom;
 
-- h. kinderopvangorganisatie met maximaal tien gebouwde onroerende zaken in eigendom;
+   - h. kinderopvangorganisatie met maximaal tien gebouwde onroerende zaken in eigendom;
 
-- **de minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening.
+- *de minister:* de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
 ##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
@@ -96,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 1. Een specifieke uitkering bedraagt ten hoogste het per provincie genoemde bedrag in bijlage I verminderd met het bedrag aan compensabele BTW.
 
-2. De minister kan in totaal ten hoogste € 14.953.000,– aan specifieke uitkeringen verstrekken verminderd met het bedrag aan compensabele BTW.
+2. De minister kan in totaal ten hoogste € 14.953.000,– aan specifieke uitkeringen verstrekken verminderd met het bedrag aan compensabele BTW.
 
 3. Het bedrag aan compensabele BTW stort de minister in het BTW-compensatiefonds.
 
 ##### Artikel 4. Aanvraagperiode en wijze van indienen
 
-1. Een aanvraag voor een specifieke uitkering kan worden ingediend vanaf 1 oktober 2024 tot en met 15 oktober 2024.
+1. Een aanvraag voor een specifieke uitkering kan worden ingediend vanaf 1 oktober 2024 tot en met 15 oktober 2024.
 
 2. Een aanvraag bevat ten minste:
 
@@ -148,7 +122,7 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 - b. de aanvraag minder dan 60 punten scoort bij de beoordeling op basis van de beoordelingscriteria, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&bijlage=II&z=2024-10-01&g=2024-10-01);
 
-- c. niet aannemelijk is dat de activiteiten in de aanvraag voor 1 mei 2027 zijn afgerond; of
+- c. niet aannemelijk is dat de activiteiten in de aanvraag voor 1 mei 2027 zijn afgerond; of
 
 - d. de aanvraag onvoldoende informatie bevat om te beoordelen op basis van de beoordelingscriteria, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&bijlage=II&z=2024-10-01&g=2024-10-01).
 
@@ -156,7 +130,7 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 1. De ontvanger van de specifieke uitkering is verplicht om:
 
-- a. de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=2&z=2024-10-01&g=2024-10-01), af te ronden voor 1 mei 2027;
+- a. de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=2&z=2024-10-01&g=2024-10-01), af te ronden voor 1 mei 2027;
 
 - b. de minister op verzoek te informeren over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt;
 
@@ -168,9 +142,9 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 ##### Artikel 8. Bestemming niet-gebruikte middelen
 
-1. De minister kan het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2027.
+1. De minister kan het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2027.
 
-2. In afwijking van het eerste lid kan de minister, indien sprake is van een verlenging van de termijn voor de uitvoering van de activiteiten als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=7&z=2024-10-01&g=2024-10-01), het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2028.
+2. In afwijking van het eerste lid kan de minister, indien sprake is van een verlenging van de termijn voor de uitvoering van de activiteiten als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=7&z=2024-10-01&g=2024-10-01), het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2028.
 
 ##### Artikel 9. Verantwoording en terugvordering
 
@@ -180,40 +154,8 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 oktober 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling vóór laatstgenoemde datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van 1 oktober 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling vóór laatstgenoemde datum zijn verstrekt.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche.
-
-## Bijlage I. Verdeling middelen
-
-|   | Aantal inwoners | Aantal gemeenten tot 50.000 inwoners | Startkosten (50% van totaal) | Verdeelde middelen o.b.v. inwoners (25% van totaal) | Verdeelde middelen o.b.v. kleine gemeenten (25% van totaal) | Totaal | Doelstelling begeleiding aantal vastgoedeigenaren |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Nederland** | 17.475.415 | 253 | € 7.476.500 | € 3.738.250 | € 3.738.250 | € 14.953.000 | 850 |
-| **Drenthe** | 494.771 | 9 | € 623.042 | € 105.839 | € 132.981 | € 861.862 | 49 |
-| **Flevoland** | 428.226 | 4 | € 623.042 | € 91.604 | € 59.103 | € 773.748 | 44 |
-| **Fryslân** | 651.435 | 13 | € 623.042 | € 139.352 | € 192.084 | € 954.477 | 54 |
-| **Gelderland** | 2.096.603 | 44 | € 623.042 | € 448.494 | € 650.130 | € 1.721.667 | 98 |
-| **Groningen** | 586.937 | 7 | € 623.042 | € 125.555 | € 103.430 | € 852.026 | 48 |
-| **Limburg** | 1.115.872 | 25 | € 623.042 | € 238.702 | € 369.392 | € 1.231.135 | 70 |
-| **Noord-Brabant** | 2.573.949 | 43 | € 623.042 | € 550.606 | € 635.355 | € 1.809.002 | 103 |
-| **Noord-Holland** | 2.888.486 | 31 | € 623.042 | € 617.890 | € 458.046 | € 1.698.978 | 97 |
-| **Overijssel** | 1.166.533 | 18 | € 623.042 | € 249.539 | € 265.962 | € 1.138.543 | 65 |
-| **Utrecht** | 1.361.153 | 16 | € 623.042 | € 291.171 | € 236.411 | € 1.150.624 | 65 |
-| **Zeeland** | 385.400 | 12 | € 623.042 | € 82.443 | € 177.308 | € 882.793 | 50 |
-| **Zuid-Holland** | 3.726.050 | 31 | € 623.042 | € 797.057 | € 458.046 | € 1.878.145 | 107 |
-
-### Bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=3&z=2022-10-01&g=2022-10-01)
-
-## Bijlage II. Beoordelingscriteria
-
-### Bijlage bij [artikel 6, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=6&z=2022-10-01&g=2022-10-01)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-## Bijlage II. Beoordelingscriteria
-
-### Bijlage bij [artikel 6, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=6&z=2024-10-01&g=2024-10-01)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

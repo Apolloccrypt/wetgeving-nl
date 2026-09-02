@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 6 september 2022, kenmerk 2701704, houdende beperking van de openbaarheid van de aanvulling op het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)"
+citeertitel: "Besluit beperking openbaarheid Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)"
 identifier: "BWBR0047164"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-21"
-last_updated: "2022-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047164"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16485893"
-version_id: "28889682"
-internal_id: "C40896061"
-label_id: "16407694"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047164/2022-09-21/0"
-intitule_bron: "Stcrt.2022-24142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-06"
-intitule_published: "2022-09-20"
-intitule_in_force: "2022-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24142"
-original_signed_date: "2022-09-06"
-original_published_date: "2022-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-24142"
-entry_into_force_date: "2022-09-21"
-jci_1_3: "jci1.3:c:BWBR0047164&z=2022-09-21&g=2022-09-21"
-jci_1_0: "1.0:c:BWBR0047164&g=2022-09-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)"
-signed_date: "2022-09-06"
-entry_into_force: "2022-09-21"
+publicatiedatum: 2022-09-21
+laatste_update: 2022-09-21
+status: geldig
+toestand: 2022-09-21
+bron: "https://wetten.overheid.nl/BWBR0047164"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 6 september 2022, kenmerk 2701704, houdende beperking van de openbaarheid van de aanvulling op het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 7 juli 2022, met kenmerk zaaknummer 1172845.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid op de aanvulling van het archief van het Ministerie van Justitie: Directoraat-Generaal van Politie, (1937) 1940-1946 (1948)
 
 ##### Artikel 1
 

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat van 17 augustus 2022 nr. IENW/BSK-2020/105070, tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Infrastructuur en Waterstaat (Besluit volmacht en machtiging attachés en lokale werknemers Infrastructuur en Waterstaat)"
+citeertitel: "Besluit volmacht en machtiging attachés en lokale werknemers Infrastructuur en Waterstaat"
 identifier: "BWBR0047069"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-26"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047069"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "16460993"
-version_id: "28839092"
-internal_id: "C40836701"
-label_id: "16383674"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047069/2022-08-26/0"
-intitule_bron: "Stcrt.2022-22296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-17"
-intitule_published: "2022-08-25"
-intitule_in_force: "2022-08-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-22296"
-original_signed_date: "2022-08-17"
-original_published_date: "2022-08-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-22296"
-entry_into_force_date: "2022-08-26"
-jci_1_3: "jci1.3:c:BWBR0047069&z=2022-08-26&g=2022-08-26"
-jci_1_0: "1.0:c:BWBR0047069&g=2022-08-26"
-citeertitel_status: "redactioneel"
-short_title: "Besluit volmacht en machtiging attachés en lokale werknemers Infrastructuur en Waterstaat"
-signed_date: "2022-08-17"
-entry_into_force: "2022-08-26"
+publicatiedatum: 2022-08-26
+laatste_update: 2022-08-26
+status: geldig
+toestand: 2022-08-26
+bron: "https://wetten.overheid.nl/BWBR0047069"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat van 17 augustus 2022 nr. IENW/BSK-2020/105070, tot het verlenen van volmacht en machtiging aan functionarissen van het Ministerie van Buitenlandse Zaken in verband met bevoegdheden ten aanzien van attachés en lokale werknemers van het Ministerie van Infrastructuur en Waterstaat (Besluit volmacht en machtiging attachés en lokale werknemers Infrastructuur en Waterstaat)
-
-Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
-
-Gelet op [artikel 1.2 van de Legal Status (Local Staff) Regulations 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045662&artikel=1.2);
-
-Besluit:
 
 ##### Artikel 1. Volmacht en machtiging
 
@@ -76,4 +48,4 @@ de Minister van Infrastructuur en Waterstaat, vertegenwoordigd door
 
 ##### Artikel 3. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.

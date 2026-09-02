@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 30 augustus 2022 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2022 worden uitgegeven ter gelegenheid van de honderdvijftigste geboortedag van Piet Mondriaan"
+citeertitel: "Besluit vaststelling bestanddelen munten van vijf en tien euro ter gelegenheid van honderdvijftigste geboortedag Piet Mondriaan"
 identifier: "BWBR0047119"
-country: "nl"
-rank: "kb"
-publication_date: "2022-09-28"
-last_updated: "2022-09-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047119"
+categorie: "Overig"
 soort: "KB"
-stam_id: "16474843"
-version_id: "28867882"
-internal_id: "C40871611"
-label_id: "16396654"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047119/2022-09-28/0"
-intitule_bron: "Stb.2022-349"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-30"
-intitule_published: "2022-09-07"
-intitule_in_force: "2022-09-07"
-intitule_status: "goed"
-original_publication: "Stb.2022-349"
-original_signed_date: "2022-08-30"
-original_published_date: "2022-09-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-349"
-entry_into_force_date: "2022-09-28"
-jci_1_3: "jci1.3:c:BWBR0047119&z=2022-09-28&g=2022-09-28"
-jci_1_0: "1.0:c:BWBR0047119&g=2022-09-28"
-citeertitel_status: "redactioneel"
-short_title: "Besluit vaststelling bestanddelen munten van vijf en tien euro ter gelegenheid van honderdvijftigste geboortedag Piet Mondriaan"
-signed_date: "2022-08-30"
-entry_into_force: "2022-09-28"
+publicatiedatum: 2022-09-28
+laatste_update: 2022-09-28
+status: geldig
+toestand: 2022-09-28
+bron: "https://wetten.overheid.nl/BWBR0047119"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 30 augustus 2022 tot vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2022 worden uitgegeven ter gelegenheid van de honderdvijftigste geboortedag van Piet Mondriaan
-
-Op de voordracht van de Staatssecretaris van Financiën van 25 augustus 2022, nr. 2022-0000193752, directie Financiële Markten;
-
-Gelet op [artikel 4, tweede lid, van de Muntwet 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -60,6 +32,4 @@ De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als be
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van 28 september 2022.
-
-Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst.
+Dit besluit treedt in werking met ingang van 28 september 2022.

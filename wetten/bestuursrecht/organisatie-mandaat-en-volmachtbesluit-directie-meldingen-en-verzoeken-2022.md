@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juni 2022, 2022-0000004981, houdende de inrichting van de directie Meldingen en Verzoeken, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022"
 identifier: "BWBR0046803"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-11"
-last_updated: "2025-04-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046803"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16389893"
-version_id: "28704092"
-internal_id: "C40501051"
-label_id: "16314314"
-dtd_version: "2.0"
-original_entry_into_force: "2022-06-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046803/2025-04-11/0"
-intitule_bron: "Stcrt.2022-16557"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-13"
-intitule_published: "2022-06-24"
-intitule_in_force: "2022-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16557"
-original_signed_date: "2022-06-13"
-original_published_date: "2022-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16557"
-entry_into_force_date: "2022-06-25"
-jci_1_3: "jci1.3:c:BWBR0046803&z=2025-04-11&g=2025-04-11"
-jci_1_0: "1.0:c:BWBR0046803&g=2025-04-11"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022"
-signed_date: "2022-06-13"
-entry_into_force: "2022-06-25"
+publicatiedatum: 2022-06-25
+laatste_update: 2025-04-11
+status: geldig
+toestand: 2025-04-11
+bron: "https://wetten.overheid.nl/BWBR0046803"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 juni 2022, 2022-0000004981, houdende de inrichting van de directie Meldingen en Verzoeken, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022)
-
-Gelet op de [artikelen 5, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=5), en [12 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal Nederlandse Arbeidsinspectie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039965&artikel=12);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **afdeling M&V AMF:** de afdeling Meldingen en Verzoeken Arbeidsmarktfraude;
+- a. *afdeling M&V AMF:* de afdeling Meldingen en Verzoeken Arbeidsmarktfraude;
 
-- b. **afdeling M&V ARBO:** de afdeling Meldingen en Verzoeken Arbeidsomstandigheden;
+- b. *afdeling M&V ARBO:* de afdeling Meldingen en Verzoeken Arbeidsomstandigheden;
 
-- c. **afdeling MIC:** de afdeling Meldingen Informatie Centrum;
+- c. *afdeling MIC:* de afdeling Meldingen Informatie Centrum;
 
-- d. **directeur:** de directeur van de directie Meldingen en Verzoeken;
+- d. *directeur:* de directeur van de directie Meldingen en Verzoeken;
 
-- e. **directie:** de directie Meldingen en Verzoeken;
+- e. *directie:* de directie Meldingen en Verzoeken;
 
-- f. **vakgroep AMF:** de vakgroep Arbeidsmarktfraude;
+- f. *vakgroep AMF:* de vakgroep Arbeidsmarktfraude;
 
-- g. **vakgroep ARBO:** de vakgroep Arbeidsomstandigheden;
+- g. *vakgroep ARBO:* de vakgroep Arbeidsomstandigheden;
 
-- h. **vakgroep P&P:** de vakgroep Programma- en Projectmanagement van de directie Toezicht.
+- h. *vakgroep P&P:* de vakgroep Programma- en Projectmanagement van de directie Toezicht.
 
 #### § 2. Organisatie
 
@@ -70,13 +44,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de afdeling MIC, waarbinnen de volgende teams zijn ingericht:
 
-- 1°. Loket Vragen en Verzoeken;
+   - 1°. Loket Vragen en Verzoeken;
 
-- 2°. Loket Meldingen;
+   - 2°. Loket Meldingen;
 
-- 3°. Team Meldingen Eerlijk Werk;
+   - 3°. Team Meldingen Eerlijk Werk;
 
-- 4°. Team Beheer en Informatie;
+   - 4°. Team Beheer en Informatie;
 
 - b. de afdeling M&V ARBO;
 
@@ -108,9 +82,9 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het leiding geven aan de eigen afdeling of vakgroep, waaronder begrepen:
 
-- 1°. de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen afdeling of vakgroep;
+   - 1°. de HRM-taken ten aanzien van de medewerkers, de coaching van de medewerkers en het bevorderen van de sociale cohesie van de eigen afdeling of vakgroep;
 
-- 2°. de vakontwikkeling en kennisborging;
+   - 2°. de vakontwikkeling en kennisborging;
 
 - b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling of vakgroep aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
@@ -126,11 +100,11 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het leidinggeven aan een afdeling bestaande uit functioneel leidinggevenden die de teams functioneel aansturen, waaronder begrepen:
 
-- 1°. het toezien op de taakuitoefening van de functioneel leidinggevenden;
+   - 1°. het toezien op de taakuitoefening van de functioneel leidinggevenden;
 
-- 2°. de HRM-taken ten aanzien van deze functioneel leidinggevenden, de coaching van deze functioneel leidinggevenden en het bevorderen van de sociale cohesie van de eigen afdeling;
+   - 2°. de HRM-taken ten aanzien van deze functioneel leidinggevenden, de coaching van deze functioneel leidinggevenden en het bevorderen van de sociale cohesie van de eigen afdeling;
 
-- 3°. de vakontwikkeling en kennisborging;
+   - 3°. de vakontwikkeling en kennisborging;
 
 - b. het afleggen van verantwoording en het rapporteren aan de directeur over bijdragen van de eigen afdeling aan de uitvoering van het jaarplan van de Nederlandse Arbeidsinspectie;
 
@@ -154,11 +128,11 @@ De teammanagers zijn verantwoordelijk voor de volgende taken:
 
 - b. het organiseren van een vakmatige thuisbasis voor de medewerkers en het vormgeven van de werkgeversrol gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerker; waaronder in ieder geval de volgende taken worden begrepen:
 
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
+   - 2°. het begeleiden van medewerkers met ziekteverzuim;
 
-- 3°. het voeren van personeelsgesprekken;
+   - 3°. het voeren van personeelsgesprekken;
 
 - c. het zorgdragen dat de ontwikkeling en aansturing van het team in lijn is met de gewenste productiviteit, inzetbaarheid en resultaten en het daartoe schakelen met de functioneel leidinggevende waarmee de teammanager een duaal koppel vormt;
 
@@ -212,11 +186,11 @@ De teamleiders afdeling MIC zijn verantwoordelijk voor de volgende algemene take
 
 - b. het vormgeven van een professionele thuisbasis voor de medewerkers en het vervullen van de werkgeversrol, gericht op de vakontwikkeling, continuïteit, vitaliteit en inzetbaarheid van de medewerkers, waaronder in ieder geval de volgende taken worden begrepen:
 
-- 1°. het bevorderen van de persoonlijke ontwikkeling;
+   - 1°. het bevorderen van de persoonlijke ontwikkeling;
 
-- 2°. het begeleiden van medewerkers met ziekteverzuim;
+   - 2°. het begeleiden van medewerkers met ziekteverzuim;
 
-- 3°. het voeren van personeelsgesprekken;
+   - 3°. het voeren van personeelsgesprekken;
 
 - c. het zicht houden op de voortgang van de realisatie van teamdoelen en het zo nodig bijsturen;
 
@@ -234,9 +208,9 @@ De teamleiders afdeling MIC zijn verantwoordelijk voor de volgende algemene take
 
 - j. het op een tijdige en juiste wijze toepassen van personeelsinstrumenten, waaronder in ieder geval worden begrepen:
 
-- 1°. start- en personeelsgesprekken;
+   - 1°. start- en personeelsgesprekken;
 
-- 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
+   - 2°. de ontwikkeling, opleiding en loopbaanbegeleiding van de medewerkers;
 
 - k. het analyseren van ontwikkelingen, innovaties en verbetermogelijkheden en vertalen naar nieuwe vakinhoudelijke producten en diensten;
 
@@ -260,11 +234,11 @@ De afdeling MIC is verantwoordelijk voor:
 
 - g. het behandelen of doen behandelen van klachten, meldingen, signalen en verzoeken over het niet naleven van wet- en regelgeving door werkgevers en werknemers:
 
-- 1°. op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag. Hieronder valt in ieder geval het behandelen van verzoeken om een onderzoek als bedoeld in [artikel 10, eerste en tweede lid, van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
+   - 1°. op het gebied van de arbeidsmarkt en arbeidsverhoudingen, met name ten aanzien van illegale tewerkstelling van vreemdelingen, allocatie van arbeidskrachten door intermediairs, gelijke behandeling en beloning van mannen en vrouwen en de betaling van het minimumloon en de minimumvakantiebijslag. Hieronder valt in ieder geval het behandelen van verzoeken om een onderzoek als bedoeld in [artikel 10, eerste en tweede lid, van de Wet op het algemeen verbindend en onverbindend verklaren van bepalingen van collectieve overeenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10);
 
-- 2°. op het gebied van arbeidstijden en arbeidsomstandigheden, met inbegrip van stralingsbescherming, gewasbeschermingsmiddelen en biociden, gevaarlijke werktuigen en stoffen en daaraan gerelateerd milieubeheer. Hieronder valt in ieder geval het behandelen van klachten, meldingen, signalen, verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
+   - 2°. op het gebied van arbeidstijden en arbeidsomstandigheden, met inbegrip van stralingsbescherming, gewasbeschermingsmiddelen en biociden, gevaarlijke werktuigen en stoffen en daaraan gerelateerd milieubeheer. Hieronder valt in ieder geval het behandelen van klachten, meldingen, signalen, verzoeken om onderzoek als bedoeld in [artikel 24, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), en verzoeken tot vrijstelling of ontheffing als bedoeld in [artikel 30 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=30);
 
-- 3°. op het gebied van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen;
+   - 3°. op het gebied van arbeidsomstandigheden, met name op het terrein van risico’s op zware ongevallen;
 
 - h. het vervullen van de rol van liaison met regionale netwerken en landelijke netwerken voor zover deze niet zijn niet verbonden aan programma’s;
 
@@ -334,7 +308,7 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 - c. het beslissen over verlof van medewerkers;
 
-- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
+- d. het toekennen van kleine beloningen, niet zijnde gratificaties, ten bedrage van minder dan € 250,– per medewerker, onder gelijktijdige mededeling daarvan aan de directeur;
 
 - e. het accorderen van buitenlandse dienstreizen en declaraties van kosten in verband met buitenlandse dienstreizen op grond van de CAO Rijk.
 
@@ -342,7 +316,7 @@ De onder de directeur Meldingen en Verzoeken ressorterende ambtenaren, belast me
 
 ##### Artikel 16. Volmacht afdelingshoofden en vakgroephoofden
 
-De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
+De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst betreffende:
 
 - a. het opleiden van medewerkers van de eigen afdeling binnen de kaders van het door het Directieteam goedgekeurde opleidingsplan;
 
@@ -350,7 +324,7 @@ De afdelingshoofden en vakgroephoofden zijn binnen de daarvoor geldende departem
 
 ##### Artikel 17. Volmacht teamleiders, teammanagers en functioneel leidinggevenden
 
-De teamleiders, de teammanagers en de functioneel leidinggevenden zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
+De teamleiders, de teammanagers en de functioneel leidinggevenden zijn gevolmachtigd tot het aangaan van overeenkomsten ter waarde van ten hoogste € 5.000,– inclusief BTW per overeenkomst betreffende activiteiten ten behoeve van sociale en functionele cohesie, representatieve aangelegenheden, vergaderingen en recepties voor het eigen team binnen de daarvoor geldende departementale, dan wel door de inspecteur-generaal vastgestelde financiële kaders.
 
 ##### Artikel 18. Plaatsvervanging
 
@@ -366,10 +340,8 @@ Het [Organisatie-, mandaat- en volmachtbesluit directie Mensen & Middelen 2017](
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2022.
 
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Meldingen en Verzoeken 2022.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

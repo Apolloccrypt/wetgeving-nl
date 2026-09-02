@@ -1,86 +1,61 @@
 ---
 title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 augustus 2022, nr. PO/32407496, houdende regels voor de subsidieverstrekking als tegemoetkoming in de opleidingskosten van instromende schoolleiders die de opleiding tot schoolleider gaan volgen (Subsidieregeling instroom schoolleiders po van buiten)"
+citeertitel: "Subsidieregeling instroom schoolleiders po van buiten"
 identifier: "BWBR0047089"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-22"
-last_updated: "2025-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047089"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16469273"
-version_id: "28855512"
-internal_id: "C40857501"
-label_id: "16391774"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047089/2025-01-22/0"
-intitule_bron: "Stcrt.2022-23004"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-24"
-intitule_published: "2022-08-31"
-intitule_in_force: "2022-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23004"
-original_signed_date: "2022-08-24"
-original_published_date: "2022-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-23004"
-entry_into_force_date: "2022-09-01"
-jci_1_3: "jci1.3:c:BWBR0047089&z=2025-01-22&g=2025-01-22"
-jci_1_0: "1.0:c:BWBR0047089&g=2025-01-22"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling instroom schoolleiders po van buiten"
-signed_date: "2022-08-24"
-entry_into_force: "2022-09-01"
+publicatiedatum: 2022-09-01
+laatste_update: 2025-01-22
+status: geldig
+toestand: 2025-01-22
+bron: "https://wetten.overheid.nl/BWBR0047089"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 24 augustus 2022, nr. PO/32407496, houdende regels voor de subsidieverstrekking als tegemoetkoming in de opleidingskosten van instromende schoolleiders die de opleiding tot schoolleider gaan volgen (Subsidieregeling instroom schoolleiders po van buiten)
-
-Gelet op de [artikelen 71 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=71), [71 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=71) en [67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **adjunct-schoolleider:** adjunct-directeur als bedoeld in [artikel 32 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29) of [artikel 31 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31);
+- *adjunct-schoolleider:* adjunct-directeur als bedoeld in [artikel 32 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29) of [artikel 31 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31);
 
-- **begeleidingskosten:** door het bevoegd gezag te maken kosten voor de begeleiding van een instromer tijdens diens opleiding;
+- *begeleidingskosten:* door het bevoegd gezag te maken kosten voor de begeleiding van een instromer tijdens diens opleiding;
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover het een school voor speciaal onderwijs betreft, of [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover het een school voor speciaal onderwijs betreft, of [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- **instelling:** instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- *instelling:* instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- **instromer:** persoon die,
+- *instromer:* persoon die,
 
-- a. een opleiding volgt om schoolleider te worden van een school; en
+   - a. een opleiding volgt om schoolleider te worden van een school; en
 
-- b. werkzaam is in de functie van schoolleider of adjunct-schoolleider op een school of instelling voor minimaal 0,5 fte en voor een periode van minimaal de nominale duur van de in onderdeel a genoemde opleiding;
+   - b. werkzaam is in de functie van schoolleider of adjunct-schoolleider op een school of instelling voor minimaal 0,5 fte en voor een periode van minimaal de nominale duur van de in onderdeel a genoemde opleiding;
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **opleiding:** opleiding, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&bijlage=1&z=2025-01-22&g=2025-01-22);
+- *opleiding:* opleiding, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&bijlage=1&z=2025-01-22&g=2025-01-22);
 
-- **opleidingskosten:** studiekosten, kosten van studieverlof en begeleidingskosten in verband met de opleiding van een instromer;
+- *opleidingskosten:* studiekosten, kosten van studieverlof en begeleidingskosten in verband met de opleiding van een instromer;
 
-- **primair onderwijs:** onderwijs dat gegeven wordt op een school of speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een school of instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+- *primair onderwijs:* onderwijs dat gegeven wordt op een school of speciale school voor basisonderwijs als bedoeld in [artikel 1 van de Wet primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een school of instelling als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+- *school:* school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-- **schoolleider:** directeur als bedoeld in [artikel 32 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29) of [artikel 31 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31);
+- *schoolleider:* directeur als bedoeld in [artikel 32 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29) of [artikel 31 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=31);
 
-- **studiekosten:** kosten van lesmateriaal of college-, examen- en diplomagelden;
+- *studiekosten:* kosten van lesmateriaal of college-, examen- en diplomagelden;
 
-- **studieverlof:** verlof ten behoeve van het bijwonen van lessen en examens van de opleiding tot schoolleider en verlof voor zelfstudie;
+- *studieverlof:* verlof ten behoeve van het bijwonen van lessen en examens van de opleiding tot schoolleider en verlof voor zelfstudie;
 
-- **voortgezet onderwijs:** onderwijs dat gegeven wordt op een school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
+- *voortgezet onderwijs:* onderwijs dat gegeven wordt op een school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -100,13 +75,13 @@ In deze regeling wordt verstaan onder:
 
 1. Voor subsidieverstrekking op grond van deze regeling is een bedrag beschikbaar van:
 
-- a. € 540.000 voor subsidieverstrekking in 2022;
+- a. € 540.000 voor subsidieverstrekking in 2022;
 
-- b. € 2.000.000 per kalenderjaar, voor subsidieverstrekking in 2023 en 2024;
+- b. € 2.000.000 per kalenderjaar, voor subsidieverstrekking in 2023 en 2024;
 
-- c. € 1.000.000 voor subsidieverstrekking in 2025.
+- c. € 1.000.000 voor subsidieverstrekking in 2025.
 
-2. De subsidie bedraagt maximaal € 20.000 per instromer.
+2. De subsidie bedraagt maximaal € 20.000 per instromer.
 
 3. Voor subsidieontvangers op Bonaire, Sint Eustatius of Saba worden de subsidiebedragen omgerekend in dollars tegen de vastgestelde wisselkoers op het moment van de subsidievaststelling.
 
@@ -120,13 +95,13 @@ In deze regeling wordt verstaan onder:
 
 1. Een subsidieaanvraag per instromer kan worden ingediend:
 
-- a. van 1 september tot en met 15 oktober 2022 voor subsidieverstrekking in het jaar 2022;
+- a. van 1 september tot en met 15 oktober 2022 voor subsidieverstrekking in het jaar 2022;
 
-- b. van 16 oktober 2022 tot en met 15 oktober 2023 voor subsidieverstrekking in het jaar 2023;
+- b. van 16 oktober 2022 tot en met 15 oktober 2023 voor subsidieverstrekking in het jaar 2023;
 
-- c. van 16 oktober 2023 tot en met 15 oktober 2024 voor subsidieverstrekking in het jaar 2024; en
+- c. van 16 oktober 2023 tot en met 15 oktober 2024 voor subsidieverstrekking in het jaar 2024; en
 
-- d. van 1 februari 2025 tot en met 15 oktober 2025 voor subsidieverstrekking in het jaar 2025.
+- d. van 1 februari 2025 tot en met 15 oktober 2025 voor subsidieverstrekking in het jaar 2025.
 
 2. Het bevoegd gezag dient de aanvraag per instromer in met gebruikmaking van het aanvraagformulier dat op de website [www.dus-i.nl](http://www.dus-i.nl/) beschikbaar is gesteld.
 
@@ -154,11 +129,11 @@ In deze regeling wordt verstaan onder:
 
 - f. welke afspraken zijn gemaakt voor het geval:
 
-- 1°. de instromer voortijdig stopt met de opleiding;
+   - 1°. de instromer voortijdig stopt met de opleiding;
 
-- 2°. de instromer uit dienst treedt; of
+   - 2°. de instromer uit dienst treedt; of
 
-- 3°. er geen subsidie wordt toegekend.
+   - 3°. er geen subsidie wordt toegekend.
 
 5. Voor aanvragen die worden ingediend in het tijdvak, bedoeld in het eerste lid, onderdeel d, geldt:
 
@@ -168,11 +143,11 @@ In deze regeling wordt verstaan onder:
 
 - c. dat in de overeenkomst, bedoeld in het derde lid, onderdeel c, in aanvulling op het vierde lid, wordt opgenomen:
 
-- 1°. het soort aanstelling dat de instromer heeft;
+   - 1°. het soort aanstelling dat de instromer heeft;
 
-- 2°. de duur van de aanstelling; en
+   - 2°. de duur van de aanstelling; en
 
-- 3°. voor welk aantal fte de aanstelling is.
+   - 3°. voor welk aantal fte de aanstelling is.
 
 ##### Artikel 7. Subsidieverplichtingen
 
@@ -206,30 +181,8 @@ De minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling instroom schoolleiders po van buiten.
-
-## Bijlage 1. Gecertificeerde schoolleidersopleidingen voor instromende schoolleiders van buiten
-
-Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047089&artikel=1&z=2025-01-22&g=2025-01-22) van de Subsidieregeling instroom schoolleiders po van buiten
-
-| Aanbieder | Opleiding(en) |
-| --- | --- |
-| ATTC | Leading beyond Boundaries: Opleiding tot leidinggevende in het basis- en voortgezet onderwijs |
-| 1801, Jeugd en Onderwijsadvies | Schoolleider van Betekenis |
-| Hanzehogeschool Groningen, Pedagogische Academie | Schoolleider Primair Onderwijs Vakbekwaam |
-| KPZ Leiderschapsopleidingen Kind en Educatie | Vakbekwaam Schoolleider |
-| Hogeschool Ipabo | Zij-instroomopleiding directeur basisonderwijs en Schoolleider Vakbekwaam |
-| Penta Nova **Penta Nova heeft een samenwerkingsverband met:** • Marnix Academie • Hogeschool Leiden • Hogeschool Inholland • Hogeschool Viaa • Hogeschool de Kempel • Christelijke Hogeschool Ede • Driestar Hogeschool | Zij-instroomtraject schoolleider basisonderwijs |
-| Academica University of applied sciences | Schoolleidersopleiding vakbekwaam |
-| Onderwijs maak je Samen | Schoolleidersopleiding toekomstbewuste schoolleider Vakbekwaam zij-instroom |
-| Fontys | Leiderschapsopleiding Vakbekwaam Schoolleider van buiten |
-| Avans+ | Directeur van Buiten |
-| Thomas More Leiderschapsacademie | Vakbekwaam schoolleiders voor zij-instromers |
-| NHL Stenden Hogeschool | Schoolleidersopleiding Vakbekwaam |
-| NSO CNA | Vakbekwaam schoolleider |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

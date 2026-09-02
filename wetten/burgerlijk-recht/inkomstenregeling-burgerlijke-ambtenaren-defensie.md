@@ -8,7 +8,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0039881"
-opgehaald: 2026-08-30
+opgehaald: 2026-09-02
 ---
 
 # Inkomstenregeling burgerlijke ambtenaren defensie
@@ -61,9 +61,7 @@ Het pensioengevend inkomen bestaat uit:
 
 - m. de vergoeding i.v.m. de Berichtendienst, bedoeld in de Regeling vergoeding werkzaamheden berichtendienst;
 
-- n. de toelagen en toeslagen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5) en [6 van de Regeling toelage bedrijfshulpverlening en toelage medische bijstand defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6);
-
-- o. de inkomenstoeslag, bedoeld in [artikel 44a IBBAD](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=44a).
+- n. de toelagen en toeslagen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=5) en [6 van de Regeling toelage bedrijfshulpverlening en toelage medische bijstand defensiepersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0015828&artikel=6).
 
 ### Hoofdstuk 2. Toelagen voor risico’s, inconveniënten en functiegebonden werkzaamheden
 
@@ -231,7 +229,7 @@ De ambtenaar die als duiker, leerling-duiker of duikmedicus primair of als neven
 
 - c. op de ZZF-dag minimaal drie aaneengesloten uren daadwerkelijk wordt gereisd.
 
-3. De ambtenaar heeft aanspraak op € 55,74 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
+3. De ambtenaar heeft aanspraak op € 63,87 voor iedere ZZF-dag waarop aan de in het tweede lid bedoelde voorwaarden zijn voldaan.
 
 ##### Artikel 7a. Vlieggeld
 
@@ -349,9 +347,9 @@ De ambtenaar met een Nederlands militair parachutistenbrevet, of in opleiding da
 
 ### Hoofdstuk 4. Kostentegemoetkomingen
 
-##### Artikel 10. Tegemoetkoming ziektekostenverzekering
+##### Artikel 10. Tegemoetkoming in de kosten van aanschaf paspoort
 
-[Vervallen]
+De ambtenaar die om redenen van dienst in het bezit dient te zijn van een Nederlands paspoort, heeft aanspraak op een tegemoetkoming in de kosten van de aanschaf van een Nederlands paspoort tot een maximumbedrag van € 100,– met inbegrip van de kosten van de daarvoor benodigde pasfoto’s tot een maximumbedrag van € 10,–.
 
 ##### Artikel 11. Tegemoetkoming in de kosten van representatie
 

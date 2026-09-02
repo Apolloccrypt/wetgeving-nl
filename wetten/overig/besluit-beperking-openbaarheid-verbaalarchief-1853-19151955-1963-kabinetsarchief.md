@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 1 september 2022, kenmerk 2988943, houdende beperking van de openbaarheid van de aanvulling van de archieven van het Ministerie van Justitie: Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940"
+citeertitel: "Besluit beperking openbaarheid Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940"
 identifier: "BWBR0047163"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-21"
-last_updated: "2022-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047163"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16485783"
-version_id: "28889572"
-internal_id: "C40895951"
-label_id: "16407584"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047163/2022-09-21/0"
-intitule_bron: "Stcrt.2022-23946"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-01"
-intitule_published: "2022-09-20"
-intitule_in_force: "2022-09-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23946"
-original_signed_date: "2022-09-01"
-original_published_date: "2022-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-23946"
-entry_into_force_date: "2022-09-21"
-jci_1_3: "jci1.3:c:BWBR0047163&z=2022-09-21&g=2022-09-21"
-jci_1_0: "1.0:c:BWBR0047163&g=2022-09-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940"
-signed_date: "2022-09-01"
-entry_into_force: "2022-09-21"
+publicatiedatum: 2022-09-21
+laatste_update: 2022-09-21
+status: geldig
+toestand: 2022-09-21
+bron: "https://wetten.overheid.nl/BWBR0047163"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 1 september 2022, kenmerk 2988943, houdende beperking van de openbaarheid van de aanvulling van de archieven van het Ministerie van Justitie: Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 18 augustus 2022, met kenmerk zaaknummer 1172843.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de archieven van het Ministerie van Justitie: Verbaalarchief, (1853) 1915–1955 (1963); Kabinetsarchief, (1907) 1915–1940.
 
 ##### Artikel 1
 

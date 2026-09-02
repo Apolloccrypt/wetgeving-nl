@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 april 2022, nr. 2022-0000167676, houdende regels voor de verstrekking van subsidies voor experimenten, kennisontwikkeling- en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022)"
+citeertitel: "Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022"
 identifier: "BWBR0046549"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-13"
-last_updated: "2022-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046549"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16325713"
-version_id: "28540082"
-internal_id: "C40272221"
-label_id: "16250664"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046549/2022-04-13/0"
-intitule_bron: "Stcrt.2022-8955"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-11"
-intitule_published: "2022-04-12"
-intitule_in_force: "2022-04-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-8955"
-original_signed_date: "2022-04-11"
-original_published_date: "2022-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-8955"
-entry_into_force_date: "2022-04-13"
-jci_1_3: "jci1.3:c:BWBR0046549&z=2022-04-13&g=2022-04-13"
-jci_1_0: "1.0:c:BWBR0046549&g=2022-04-13"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022"
-signed_date: "2022-04-11"
-entry_into_force: "2022-04-13"
+publicatiedatum: 2022-04-13
+laatste_update: 2022-04-13
+status: geldig
+toestand: 2022-04-13
+bron: "https://wetten.overheid.nl/BWBR0046549"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 april 2022, nr. 2022-0000167676, houdende regels voor de verstrekking van subsidies voor experimenten, kennisontwikkeling- en kennisoverdrachtactiviteiten op het terrein van het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving (Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, onderdelen a, b, d en f, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en de [artikelen 6, vijfde lid, onderdeel b, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- – *minister:* Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- –. **Commissie:** Commissie van de Europese Gemeenschappen;
+- – *Commissie:* Commissie van de Europese Gemeenschappen;
 
-- –. **de-minimisverordening:** [verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1), dan wel later daarvoor in de plaats tredende Europese regelgeving.
+- – *de-minimisverordening:*
+ verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU L352/1), dan wel later daarvoor in de plaats tredende Europese regelgeving.
 
 ##### Artikel 2
 
@@ -130,32 +105,8 @@ Een subsidie die is verleend krachtens de [Subsidieregeling experimenten en kenn
 
 ##### Artikel 10
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verleend.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verleend.
 
 ##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling experimenten, kennisontwikkeling en kennisoverdracht wonen 2022.
-
-## Bijlage I. als bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046549&paragraaf=3&artikel=5&z=2022-04-13&g=2022-04-13)
-
-### Verklaring de-minimissteun
-
-Hierbij verklaart ondergetekende, dat aan de hierna genoemde onderneming, evenals aan het eventuele gehele moederconcern waartoe de onderneming behoort,
-
-Aldus volledig en naar waarheid ingevuld door:......
-
-(Bedrijfsnaam)......
-
-(Inschrijfnummer KvK)......
-
-(Naam functionaris en functie)......
-
-(Adres onderneming)......
-
-(Postcode en plaatsnaam)......
-
-(datum)......
-
-(Handtekening)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

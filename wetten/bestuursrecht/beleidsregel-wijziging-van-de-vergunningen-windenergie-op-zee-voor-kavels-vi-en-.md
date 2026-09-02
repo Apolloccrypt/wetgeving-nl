@@ -1,58 +1,33 @@
 ---
 title: "Regeling van de Minister voor Klimaat en Energie van 21 juni 2022, nr. WJZ/ 22087356, houdende beleidsregel inzake de wijziging van de vergunningen windenergie op zee voor de kavels VI en VII Hollandse Kust (west) (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west))"
+citeertitel: "Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west)"
 identifier: "BWBR0046828"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046828"
+categorie: "Bestuursrecht"
 soort: "beleidsregel"
-stam_id: "16399273"
-version_id: "28723072"
-internal_id: "C40587411"
-label_id: "16323394"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046828/2022-07-01/0"
-intitule_bron: "Stcrt.2022-16802"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-21"
-intitule_published: "2022-06-30"
-intitule_in_force: "2022-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16802"
-original_signed_date: "2022-06-21"
-original_published_date: "2022-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16802"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046828&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046828&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west)"
-signed_date: "2022-06-21"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046828"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister voor Klimaat en Energie van 21 juni 2022, nr. WJZ/ 22087356, houdende beleidsregel inzake de wijziging van de vergunningen windenergie op zee voor de kavels VI en VII Hollandse Kust (west) (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west))
-
-Gelet op [artikel 17, vierde lid van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanvraag:** aanvraag om wijziging van een vergunning als bedoeld in [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17);
+- *aanvraag:* aanvraag om wijziging van een vergunning als bedoeld in [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17);
 
-- **kavel VI:** kavel VI als bedoeld in [artikel 1 van de Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046407);
+- *kavel VI:* kavel VI als bedoeld in [artikel 1 van de Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0046407);
 
-- **kavel VII:** kavel VI als bedoeld in [artikel 1 van de Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046405);
+- *kavel VII:* kavel VI als bedoeld in [artikel 1 van de Regeling vergunningverlening windenergiegebied Hollandse Kust (west) kavel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0046405);
 
-- **Minister:** Minister voor Klimaat en Energie;
+- *Minister:* Minister voor Klimaat en Energie;
 
-- **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
+- *wet:*
+ [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
 ##### Artikel 2
 
@@ -103,5 +78,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels VI en VII Hollandse Kust (west).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

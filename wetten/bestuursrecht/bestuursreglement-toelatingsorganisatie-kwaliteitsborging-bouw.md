@@ -1,41 +1,19 @@
 ---
 title: "Bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw"
 identifier: "BWBR0047074"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-08-27"
-last_updated: "2022-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047074"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16461783"
-version_id: "28841092"
-internal_id: "C40838791"
-label_id: "16384614"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047074/2022-08-27/0"
-intitule_bron: "Stcrt.2022-22324"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-22"
-intitule_published: "2022-08-26"
-intitule_in_force: "2022-08-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-22324"
-original_signed_date: "2022-04-22"
-original_published_date: "2022-08-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-22324"
-entry_into_force_date: "2022-08-27"
-jci_1_3: "jci1.3:c:BWBR0047074&z=2022-08-27&g=2022-08-27"
-jci_1_0: "1.0:c:BWBR0047074&g=2022-08-27"
-citeertitel_status: "redactioneel"
-signed_date: "2022-04-22"
-entry_into_force: "2022-08-27"
+publicatiedatum: 2022-08-27
+laatste_update: 2022-08-27
+status: geldig
+toestand: 2022-08-27
+bron: "https://wetten.overheid.nl/BWBR0047074"
+opgehaald: 2026-09-02
 ---
+
 # Bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw
 
-**Besluit van het Bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw van 22 april 2022, houdende vaststelling van het bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw op grond van artikel 7ao, eerste lid, van de Woningwet, goedgekeurd door de Minister voor Volkshuisvesting en Ruimtelijke Ordening op grond van artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen, bij brief van 6 juli 2022.**
+*Besluit van het Bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw van 22 april 2022, houdende vaststelling van het bestuursreglement Toelatingsorganisatie Kwaliteitsborging Bouw op grond van artikel 7ao, eerste lid, van de Woningwet, goedgekeurd door de Minister voor Volkshuisvesting en Ruimtelijke Ordening op grond van artikel 11, eerste lid, Kaderwet zelfstandige bestuursorganen, bij brief van 6 juli 2022.*
 
 ### I. Algemeen
 
@@ -43,27 +21,27 @@ entry_into_force: "2022-08-27"
 
 Dit bestuursreglement verstaat onder:
 
-- a. **Wkb:** de [Wet Kwaliteitsborging voor het bouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0042732);
+- a. *Wkb:* de [Wet Kwaliteitsborging voor het bouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0042732);
 
-- b. **Toelatingsorganisatie kwaliteitsborging bouw:** Thet zelfstandig bestuursorgaan toelatingsorganisatie kwaliteitsborging bouw, bedoeld in [artikel 7ak van de Wkb](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ak);
+- b. *Toelatingsorganisatie kwaliteitsborging bouw:* Thet zelfstandig bestuursorgaan toelatingsorganisatie kwaliteitsborging bouw, bedoeld in [artikel 7ak van de Wkb](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ak);
 
-- c. **Bestuur:** de voorzitter en de leden van de Toelatingsorganisatie kwaliteitsborging bouw, zoals benoemd door de Minister;
+- c. *Bestuur:* de voorzitter en de leden van de Toelatingsorganisatie kwaliteitsborging bouw, zoals benoemd door de Minister;
 
-- d. **Minister:** de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- d. *Minister:* de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- e. **Dienst TloKB:** het door de Minister ter beschikking gestelde personeel als bedoeld in mandaatbesluit beheer TloKB;
+- e. *Dienst TloKB:* het door de Minister ter beschikking gestelde personeel als bedoeld in mandaatbesluit beheer TloKB;
 
-- f. **Reglement:** het onderhavige bestuursreglement dat is vastgesteld door de Toelatingsorganisatie kwaliteitsborging bouw en goedgekeurd door de minister;
+- f. *Reglement:* het onderhavige bestuursreglement dat is vastgesteld door de Toelatingsorganisatie kwaliteitsborging bouw en goedgekeurd door de minister;
 
-- g. **Voorzitter:** degene die als voorzitter van de Toelatingsorganisatie kwaliteitsborging bouw is benoemd door de minister;
+- g. *Voorzitter:* degene die als voorzitter van de Toelatingsorganisatie kwaliteitsborging bouw is benoemd door de minister;
 
-- h. **Bestuurslid:** diegene die als lid van de Toelatingsorganisatie kwaliteitsborging bouw is benoemd door de minister, waaronder ook de voorzitter;
+- h. *Bestuurslid:* diegene die als lid van de Toelatingsorganisatie kwaliteitsborging bouw is benoemd door de minister, waaronder ook de voorzitter;
 
-- i. **Raad van advies:** adviesorgaan van de Toelatingsorganisatie kwaliteitsborging bouw, bestaande uit de bij de uitvoering van de wet betrokken partijen en overige betrokkenen;
+- i. *Raad van advies:* adviesorgaan van de Toelatingsorganisatie kwaliteitsborging bouw, bestaande uit de bij de uitvoering van de wet betrokken partijen en overige betrokkenen;
 
-- j. **Adviesgroep Harmonisatie:** een groep van vertegenwoordigers in het kader van certificatie en normalisatie van bouwproducten en/of -processen die door de Toelatingsorganisatie kwaliteitsborging bouw ingezet kan worden bij de aanwijzing van beoordelingsrichtlijnen;
+- j. *Adviesgroep Harmonisatie:* een groep van vertegenwoordigers in het kader van certificatie en normalisatie van bouwproducten en/of -processen die door de Toelatingsorganisatie kwaliteitsborging bouw ingezet kan worden bij de aanwijzing van beoordelingsrichtlijnen;
 
-- k. **Expertgroep (Bouwkwaliteit / Bodemkwaliteit):** een groep van deskundigen die door de Toelatingsorganisatie kwaliteitsborging bouw ingezet kan worden bij de aanwijzing van beoordelingsrichtlijnen.
+- k. *Expertgroep (Bouwkwaliteit / Bodemkwaliteit):* een groep van deskundigen die door de Toelatingsorganisatie kwaliteitsborging bouw ingezet kan worden bij de aanwijzing van beoordelingsrichtlijnen.
 
 ### II. Samenstelling Bestuur
 
@@ -145,7 +123,7 @@ Het Bestuur vergadert conform het vergaderreglement. Derden kunnen slechts op ui
 
 4. Op de website van de Toelatingsorganisatie kwaliteitsborging bouw wordt in elk geval opgenomen een profielschets en de relevante – voormalige -(neven)functies van de Bestuursleden.
 
-5. Het Bestuur stelt jaarlijks voor 15 maart zijn jaarverslag vast over de taakuitoefening en het gevoerde beleid van het voorafgaande jaar. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de doelstellingen van de [Wkb](https://wetten.overheid.nl/jci1.3:c:BWBR0042732).
+5. Het Bestuur stelt jaarlijks voor 15 maart zijn jaarverslag vast over de taakuitoefening en het gevoerde beleid van het voorafgaande jaar. Het jaarverslag beschrijft voorts het gevoerde beleid met betrekking tot de doelstellingen van de [Wkb](https://wetten.overheid.nl/jci1.3:c:BWBR0042732).
 
 6. Het Bestuur zendt het jaarverslag naar de minister en naar beide kamers der Staten-Generaal.
 

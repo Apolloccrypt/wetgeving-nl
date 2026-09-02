@@ -1,68 +1,42 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 10 maart 2022, nr. IENW/BSK-2022/44209, houdende vaststelling van regels voor het verstrekken van specifieke uitkeringen ten behoeve van lokale en regionale MIRT-projecten en MIRT-projectpakketten (Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten)"
+citeertitel: "Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten"
 identifier: "BWBR0046418"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-01"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046418"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16296323"
-version_id: "28474452"
-internal_id: "C40175761"
-label_id: "16222084"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046418/2022-04-01/0"
-intitule_bron: "Stcrt.2022-6620"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-10"
-intitule_published: "2022-03-11"
-intitule_in_force: "2022-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-6620"
-original_signed_date: "2022-03-10"
-original_published_date: "2022-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-6620"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBR0046418&z=2022-04-01&g=2022-04-01"
-jci_1_0: "1.0:c:BWBR0046418&g=2022-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten"
-signed_date: "2022-03-10"
-entry_into_force: "2022-04-01"
+publicatiedatum: 2022-04-01
+laatste_update: 2022-04-01
+status: geldig
+toestand: 2022-04-01
+bron: "https://wetten.overheid.nl/BWBR0046418"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 10 maart 2022, nr. IENW/BSK-2022/44209, houdende vaststelling van regels voor het verstrekken van specifieke uitkeringen ten behoeve van lokale en regionale MIRT-projecten en MIRT-projectpakketten (Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten)
-
-Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [3, eerste lid, onderdelen a en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, onderdelen a tot en met f en h, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **infrastructuur:** onroerende zaken ten behoeve van verkeer of vervoer van personen of goederen met daarbij behorende voorzieningen ten behoeve van de verkeersveiligheid, verkeersmanagement en bescherming van het milieu;
+- *infrastructuur:* onroerende zaken ten behoeve van verkeer of vervoer van personen of goederen met daarbij behorende voorzieningen ten behoeve van de verkeersveiligheid, verkeersmanagement en bescherming van het milieu;
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **MIRT:** Meerjarenprogramma Infrastructuur, Ruimte en Transport;
+- *MIRT:* Meerjarenprogramma Infrastructuur, Ruimte en Transport;
 
-- **ontvanger:** gemeente, die niet is gelegen in het gebied van de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, provincie, de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag;
+- *ontvanger:* gemeente, die niet is gelegen in het gebied van de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, provincie, de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag;
 
-- **planuitwerkingsfase:** fase volgend op de verkenningsfase, waarin het voorkeursalternatief voor een project of projectpakket wordt uitgewerkt;
+- *planuitwerkingsfase:* fase volgend op de verkenningsfase, waarin het voorkeursalternatief voor een project of projectpakket wordt uitgewerkt;
 
-- **project:** ondeelbaar geheel van werkzaamheden ten behoeve van de aanleg of verbetering van infrastructuur, tot de uitvoering waarvan in beginsel alleen als geheel besloten kan worden en waarbij afzonderlijke uitvoering en ingebruikneming na voltooiing van een onderdeel niet zonder aanzienlijke meerkosten mogelijk is;
+- *project:* ondeelbaar geheel van werkzaamheden ten behoeve van de aanleg of verbetering van infrastructuur, tot de uitvoering waarvan in beginsel alleen als geheel besloten kan worden en waarbij afzonderlijke uitvoering en ingebruikneming na voltooiing van een onderdeel niet zonder aanzienlijke meerkosten mogelijk is;
 
-- **projectpakket:** verkeerskundig samenhangende combinatie van ten minste twee projecten of ten minste een project en ten minste een maatregel als bedoeld in [artikel 6, derde lid, onderdeel a, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6), die alle nodig zijn om de bereikbaarheid van een gebied op doelmatige wijze te verbeteren;
+- *projectpakket:* verkeerskundig samenhangende combinatie van ten minste twee projecten of ten minste een project en ten minste een maatregel als bedoeld in [artikel 6, derde lid, onderdeel a, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6), die alle nodig zijn om de bereikbaarheid van een gebied op doelmatige wijze te verbeteren;
 
-- **realisatiefase:** fase volgend op de planuitwerkingsfase, waarin het project of projectpakket wordt uitgevoerd;
+- *realisatiefase:* fase volgend op de planuitwerkingsfase, waarin het project of projectpakket wordt uitgevoerd;
 
-- **specifieke uitkering:** specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=2&z=2022-04-01&g=2022-04-01);
+- *specifieke uitkering:* specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=2&z=2022-04-01&g=2022-04-01);
 
-- **Standaardsystematiek voor Kostenramingen 2018:** ramingssystematiek die is vastgelegd in CROW-publicatie nr. D3049;
+- *Standaardsystematiek voor Kostenramingen 2018:* ramingssystematiek die is vastgelegd in CROW-publicatie nr. D3049;
 
-- **verkenningsfase:** fase volgend op het opnemen van een project of projectpakket in het MIRT, waarin mogelijke ontwerpen van het project of projectpakket worden afgewogen om te komen tot een voorkeursalternatief.
+- *verkenningsfase:* fase volgend op het opnemen van een project of projectpakket in het MIRT, waarin mogelijke ontwerpen van het project of projectpakket worden afgewogen om te komen tot een voorkeursalternatief.
 
 ##### Artikel 2. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
@@ -180,15 +154,15 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 - a. een plan van aanpak, waarin ten minste is opgenomen:
 
-- 1°. een omschrijving van de aard, omvang en urgentie van de opgave en een onderbouwing van het nationale belang van het project of projectpakket;
+   - 1° een omschrijving van de aard, omvang en urgentie van de opgave en een onderbouwing van het nationale belang van het project of projectpakket;
 
-- 2°. een beschrijving op hoofdlijnen van de aanpak van de verkenning, waaronder de afweging van mogelijke oplossingen en het besluitvormingsproces;
+   - 2° een beschrijving op hoofdlijnen van de aanpak van de verkenning, waaronder de afweging van mogelijke oplossingen en het besluitvormingsproces;
 
-- 3°. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd;
+   - 3° een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd;
 
-- 4°. een tijdschema van de verkenning;
+   - 4° een tijdschema van de verkenning;
 
-- 5°. een omschrijving van de belanghebbende partijen en hun betrokkenheid en een opgave van de door de betrokken medeoverheden gereserveerde budgetten voor de realisatie;
+   - 5° een omschrijving van de belanghebbende partijen en hun betrokkenheid en een opgave van de door de betrokken medeoverheden gereserveerde budgetten voor de realisatie;
 
 - b. een raming van de kosten die in de verkenningsfase in aanmerking komen voor een specifieke uitkering, overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=7&z=2022-04-01&g=2022-04-01);
 
@@ -200,31 +174,31 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 - a. een eindverantwoording over de in de verkenningsfase behaalde resultaten en het voorkeursalternatief, waarin ten minste is opgenomen:
 
-- 1°. een beschrijving van de in kaart gebrachte en afgewogen oplossingsrichtingen;
+   - 1° een beschrijving van de in kaart gebrachte en afgewogen oplossingsrichtingen;
 
-- 2°. een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de totstandkoming van het voorkeursalternatief;
+   - 2° een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de totstandkoming van het voorkeursalternatief;
 
-- 3°. een ontwerp van het voorkeursalternatief;
+   - 3° een ontwerp van het voorkeursalternatief;
 
-- 4°. een raming van de kosten van het voorkeursalternatief;
+   - 4° een raming van de kosten van het voorkeursalternatief;
 
-- 5°. een beschrijving van de verkeers- en vervoerseffecten;
+   - 5° een beschrijving van de verkeers- en vervoerseffecten;
 
-- 6°. het milieueffectrapport, indien in de verkenningsfase een milieueffectrapportage heeft plaatsgevonden;
+   - 6° het milieueffectrapport, indien in de verkenningsfase een milieueffectrapportage heeft plaatsgevonden;
 
-- 7°. een maatschappelijke kosten-batenanalyse conform de Werkwijzer MKBA bij MIRT-verkenningen;
+   - 7° een maatschappelijke kosten-batenanalyse conform de Werkwijzer MKBA bij MIRT-verkenningen;
 
 - b. een plan van aanpak, waarin ten minste is opgenomen:
 
-- 1°. een beschrijving van de wijze waarop het voorkeursalternatief nader wordt uitgewerkt;
+   - 1° een beschrijving van de wijze waarop het voorkeursalternatief nader wordt uitgewerkt;
 
-- 2°. een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd;
+   - 2° een omschrijving van de activiteiten waarvoor de specifieke uitkering wordt aangevraagd;
 
-- 3°. een planning van de nadere uitwerking en realisatie van het voorkeursalternatief;
+   - 3° een planning van de nadere uitwerking en realisatie van het voorkeursalternatief;
 
-- 4°. een raming van de kosten van de meest doelmatige variant van het project of projectpakket, indien het voorkeursalternatief hiervan afwijkt;
+   - 4° een raming van de kosten van de meest doelmatige variant van het project of projectpakket, indien het voorkeursalternatief hiervan afwijkt;
 
-- 5°. een overzicht van de beschikbare budgetten voor de bekostiging van het voorkeursalternatief en een omschrijving van de exploitatiegevolgen, indien het een project of projectpakket betreft ten behoeve van openbaar vervoer;
+   - 5° een overzicht van de beschikbare budgetten voor de bekostiging van het voorkeursalternatief en een omschrijving van de exploitatiegevolgen, indien het een project of projectpakket betreft ten behoeve van openbaar vervoer;
 
 - c. een raming van de kosten die in de planuitwerkingsfase onderscheidenlijk de realisatiefase in aanmerking komen voor een specifieke uitkering, overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=7&z=2022-04-01&g=2022-04-01), onderscheidenlijk artikel 7, derde lid; en
 
@@ -234,21 +208,21 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 - a. een eindverantwoording over de in de planuitwerkingsfase behaalde resultaten, waarin ten minste is opgenomen:
 
-- 1°. een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de nadere uitwerking van het voorkeursalternatief;
+   - 1° een beschrijving van het besluitvormingsproces en de betrokkenheid van belanghebbende partijen bij de nadere uitwerking van het voorkeursalternatief;
 
-- 2°. een nadere uitwerking van het ontwerp van het voorkeursalternatief;
+   - 2° een nadere uitwerking van het ontwerp van het voorkeursalternatief;
 
-- 3°. een nadere uitwerking van de kostenraming van het voorkeursalternatief, inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
+   - 3° een nadere uitwerking van de kostenraming van het voorkeursalternatief, inclusief een reservering voor voorziene risico’s en een reservering voor onvoorziene risico’s;
 
-- 4°. een risicoanalyse inclusief een beschrijving van de beheersmaatregelen voor de belangrijkste risico’s;
+   - 4° een risicoanalyse inclusief een beschrijving van de beheersmaatregelen voor de belangrijkste risico’s;
 
-- 5°. het milieueffectrapport, indien in de planuitwerkingsfase een milieueffectrapportage heeft plaatsgevonden;
+   - 5° het milieueffectrapport, indien in de planuitwerkingsfase een milieueffectrapportage heeft plaatsgevonden;
 
-- 6°. de planning van de realisatie van het voorkeursalternatief;
+   - 6° de planning van de realisatie van het voorkeursalternatief;
 
-- 7°. het besluit van het bevoegde bestuursorgaan van de aanvrager tot de realisatie van het project, waaruit blijkt dat de kosten voor realisatie alsmede de kosten voor het beheer en onderhoud zijn gereserveerd in zijn meerjarige begroting;
+   - 7° het besluit van het bevoegde bestuursorgaan van de aanvrager tot de realisatie van het project, waaruit blijkt dat de kosten voor realisatie alsmede de kosten voor het beheer en onderhoud zijn gereserveerd in zijn meerjarige begroting;
 
-- 8°. de berekeningen van de exploitatiegevolgen, indien het een project of projectpakket betreft ten behoeve van openbaar vervoer;
+   - 8° de berekeningen van de exploitatiegevolgen, indien het een project of projectpakket betreft ten behoeve van openbaar vervoer;
 
 - b. een beschrijving van de te behalen mijlpalen in de realisatiefase en een raming van de voor elke mijlpaal te maken kosten;
 
@@ -278,7 +252,7 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 1. De minister verleent op aanvraag van de ontvanger een voorschot, indien een mijlpaal in de voortgang van een project of projectpakket is bereikt en het besluit tot verlening, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046418&artikel=10&z=2022-04-01&g=2022-04-01), in voorschotverlening na het bereiken van een mijlpaal voorziet.
 
-2. Een voorschot kan maximaal tweemaal per kalenderjaar worden aangevraagd. De indiening van de aanvraag vindt plaats vóór 1 juli of vóór 1 januari.
+2. Een voorschot kan maximaal tweemaal per kalenderjaar worden aangevraagd. De indiening van de aanvraag vindt plaats vóór 1 juli of vóór 1 januari.
 
 3. Een aanvraag van een voorschot vermeldt het gevraagde bedrag en gaat vergezeld van een voortgangsrapportage, waaruit blijkt dat de mijlpaal is bereikt.
 
@@ -330,10 +304,8 @@ De minister kan bij het vaststellen van de uitkering afwijken van [artikel 8, ee
 
 ##### Artikel 16. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2022. Indien de Staatscourant waarin deze regeling wordt gepubliceerd wordt uitgegeven na 31 maart 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+Deze regeling treedt in werking met ingang van 1 april 2022. Indien de Staatscourant waarin deze regeling wordt gepubliceerd wordt uitgegeven na 31 maart 2022, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkeringen lokale en regionale MIRT-projecten en MIRT-projectpakketten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

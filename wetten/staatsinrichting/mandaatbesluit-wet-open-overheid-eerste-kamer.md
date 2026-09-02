@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Huishoudelijke Commissie en de Griffier van de Eerste Kamer der Staten- Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid (Mandaatbesluit Wet open overheid Eerste Kamer)"
+citeertitel: "Mandaatbesluit Wet open overheid Eerste Kamer"
 identifier: "BWBR0046612"
-country: "nl"
-rank: "reglement"
-publication_date: "2022-05-01"
-last_updated: "2022-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046612"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "16343953"
-version_id: "28590042"
-internal_id: "C40343791"
-label_id: "16268334"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046612/2022-05-01/0"
-intitule_bron: "Stcrt.2022-12374"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-05"
-intitule_published: "2022-05-03"
-intitule_in_force: "2022-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-12374"
-original_signed_date: "2022-04-05"
-original_published_date: "2022-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-12374"
-entry_into_force_date: "2022-05-01"
-jci_1_3: "jci1.3:c:BWBR0046612&z=2022-05-01&g=2022-05-01"
-jci_1_0: "1.0:c:BWBR0046612&g=2022-05-01"
-citeertitel_status: "redactioneel"
-short_title: "Mandaatbesluit Wet open overheid Eerste Kamer"
-signed_date: "2022-04-05"
-entry_into_force: "2022-05-01"
+publicatiedatum: 2022-05-01
+laatste_update: 2022-05-01
+status: geldig
+toestand: 2022-05-01
+bron: "https://wetten.overheid.nl/BWBR0046612"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Huishoudelijke Commissie en de Griffier van de Eerste Kamer der Staten- Generaal, houdende regels inzake het verlenen van mandaat en machtiging betreffende de uitvoering van de Wet open overheid (Mandaatbesluit Wet open overheid Eerste Kamer)
-
-Gelet op [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=15) en [artikel 28 van het Reglement van Orde van de Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0007428&artikel=28), [artikel 2.2, eerste lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=2.2) en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1),
-
-Besluiten:
 
 ##### Artikel 1. Definities
 

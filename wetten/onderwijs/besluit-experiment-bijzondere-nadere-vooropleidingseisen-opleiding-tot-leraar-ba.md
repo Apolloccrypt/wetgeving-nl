@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 5 juli 2022, houdende voorschriften voor een experiment met betrekking tot de bijzondere nadere vooropleidingseisen voor de opleiding tot leraar basisonderwijs, met het oog op verbetering van de toegankelijkheid (Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs)"
+citeertitel: "Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs"
 identifier: "BWBR0046872"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-09"
-last_updated: "2022-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046872"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "16411603"
-version_id: "28743072"
-internal_id: "C40668381"
-label_id: "16335814"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046872/2022-07-09/0"
-intitule_bron: "Stb.2022-290"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-05"
-intitule_published: "2022-07-08"
-intitule_in_force: "2022-07-08"
-intitule_status: "goed"
-original_publication: "Stb.2022-290"
-original_signed_date: "2022-07-05"
-original_published_date: "2022-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-290"
-entry_into_force_date: "2022-07-09"
-jci_1_3: "jci1.3:c:BWBR0046872&z=2022-07-09&g=2022-07-09"
-jci_1_0: "1.0:c:BWBR0046872&g=2022-07-09"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs"
-signed_date: "2022-07-05"
-entry_into_force: "2022-07-09"
+publicatiedatum: 2022-07-09
+laatste_update: 2022-07-09
+status: geldig
+toestand: 2022-07-09
+bron: "https://wetten.overheid.nl/BWBR0046872"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 5 juli 2022, houdende voorschriften voor een experiment met betrekking tot de bijzondere nadere vooropleidingseisen voor de opleiding tot leraar basisonderwijs, met het oog op verbetering van de toegankelijkheid (Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs)
-
-Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 4 april 2022, nr. WJZ/32259834 (13530), directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 1.7a, eerste en tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.7a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 22 juni 2022, nr. W05.22.00040/I);
-
-Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 30 juni 2022, nr. WJZ/32940850 (13530), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,27 +20,28 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **bijzondere nadere vooropleidingseisen:** eisen als bedoeld in [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a);
+- *bijzondere nadere vooropleidingseisen:* eisen als bedoeld in [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a);
 
-- **deelnemende instelling:** een aan het experiment deelnemende instelling voor hoger onderwijs;
+- *deelnemende instelling:* een aan het experiment deelnemende instelling voor hoger onderwijs;
 
-- **experiment:** experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs;
+- *experiment:* experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs;
 
-- **instellingsbestuur:** instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *instellingsbestuur:* instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **instelling voor hoger onderwijs:** een bekostigde instelling, opgenomen in de bijlage van de wet onder g of een rechtspersoon voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *instelling voor hoger onderwijs:* een bekostigde instelling, opgenomen in de bijlage van de wet onder g of een rechtspersoon voor hoger onderwijs als bedoeld in [artikel 1.1, onderdeel aa, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **studiejaar:** het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
+- *studiejaar:* het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
 
-- **postpropedeutische fase:** de postpropedeutische fase of, indien in een opleiding geen propedeutische fase is ingesteld, de fase in een bacheloropleiding die volgt op de eerste periode in een opleiding met een studielast van 60 studiepunten;
+- *postpropedeutische fase:* de postpropedeutische fase of, indien in een opleiding geen propedeutische fase is ingesteld, de fase in een bacheloropleiding die volgt op de eerste periode in een opleiding met een studielast van 60 studiepunten;
 
-- **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- *wet:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2. Bijzondere begripsbepaling
 
-Voor de toepassing van dit besluit wordt onder «eerste jaar van inschrijving» mede begrepen de periode die loopt van 1 februari tot en met 31 januari, indien een student zich inschrijft met ingang van 1 februari.
+Voor de toepassing van dit besluit wordt onder «eerste jaar van inschrijving» mede begrepen de periode die loopt van 1 februari tot en met 31 januari, indien een student zich inschrijft met ingang van 1 februari.
 
 ### Hoofdstuk 2. Het experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs
 
@@ -84,19 +53,19 @@ Met het experiment wordt beoogd te onderzoeken:
 
 - b. welk effect dit heeft op de studievoortgang en belasting van studenten en de belasting van deelnemende instellingen.
 
-##### Artikel 4. Afwijkingen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 4. Afwijkingen van de wet
 
 In afwijking van de [artikelen 7.25a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a), en [7.37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.37), voor zover het betreft de verplichting om te voldoen aan de bijzondere nadere vooropleidingseisen, staat de inschrijving voor een opleiding tot leraar basisonderwijs ook open voor aspirant-studenten die niet aan deze eisen voldoen en die zich niet reeds met toepassing van dit besluit voor de desbetreffende opleiding hebben ingeschreven.
 
 ##### Artikel 5. Duur van het experiment
 
-1. Het experiment vangt aan met ingang van 1 september 2022 en eindigt met ingang van 1 september 2027.
+1. Het experiment vangt aan met ingang van 1 september 2022 en eindigt met ingang van 1 september 2027.
 
-2. Indien het voorstel tot omzetting van het experiment in een structurele wettelijke regeling tot wet is verheven en in werking treedt voor 1 september 2027, eindigt het experiment van rechtswege voortijdig.
+2. Indien het voorstel tot omzetting van het experiment in een structurele wettelijke regeling tot wet is verheven en in werking treedt voor 1 september 2027, eindigt het experiment van rechtswege voortijdig.
 
 ##### Artikel 6. Melding deelname aan het experiment
 
-1. Het instellingsbestuur van een instelling voor hoger onderwijs die wenst deel te nemen aan het experiment, meldt dit voor 1 september 2022 aan Onze Minister.
+1. Het instellingsbestuur van een instelling voor hoger onderwijs die wenst deel te nemen aan het experiment, meldt dit voor 1 september 2022 aan Onze Minister.
 
 2. De melding, bedoeld in het eerste lid, bevat:
 
@@ -132,7 +101,7 @@ In afwijking van de [artikelen 7.25a, tweede lid](https://wetten.overheid.nl/jci
 
 Het instellingsbestuur is verplicht:
 
-- a. na afloop van elk studiejaar voor 1 maart van het daaropvolgende jaar een verslag uit te brengen aan Onze Minister over het experiment, waarin in ieder geval wordt ingegaan op het effect van de inschrijving van aspirant-studenten op de in [artikel 11, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046872&hoofdstuk=2&artikel=11&z=2022-07-09&g=2022-07-09), genoemde elementen; en
+- a. na afloop van elk studiejaar voor 1 maart van het daaropvolgende jaar een verslag uit te brengen aan Onze Minister over het experiment, waarin in ieder geval wordt ingegaan op het effect van de inschrijving van aspirant-studenten op de in [artikel 11, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0046872&hoofdstuk=2&artikel=11&z=2022-07-09&g=2022-07-09), genoemde elementen; en
 
 - b. desgevraagd nadere informatie aan Onze Minister te verstrekken in verband met de evaluatie van het experiment.
 
@@ -171,5 +140,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

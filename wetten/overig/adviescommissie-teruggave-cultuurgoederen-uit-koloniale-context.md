@@ -1,54 +1,30 @@
 ---
 title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 september 2022, nr. 33115912, houdende instelling van een commissie ter advisering over verzoeken tot teruggave van cultuurgoederen uit koloniale context (Instellingsbesluit Adviescommissie teruggave cultuurgoederen uit koloniale context)"
+citeertitel: "Adviescommissie teruggave cultuurgoederen uit koloniale context"
 identifier: "BWBR0047127"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-10"
-last_updated: "2022-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047127"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16476583"
-version_id: "28873912"
-internal_id: "C40879201"
-label_id: "16398404"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047127/2022-09-10/0"
-intitule_bron: "Stcrt.2022-24248"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-06"
-intitule_published: "2022-09-09"
-intitule_in_force: "2022-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24248"
-original_signed_date: "2022-09-06"
-original_published_date: "2022-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-24248"
-entry_into_force_date: "2022-09-10"
-jci_1_3: "jci1.3:c:BWBR0047127&z=2022-09-10&g=2022-09-10"
-jci_1_0: "1.0:c:BWBR0047127&g=2022-09-10"
-citeertitel_status: "officieel"
-short_title: "Adviescommissie teruggave cultuurgoederen uit koloniale context"
-signed_date: "2022-09-06"
-entry_into_force: "2022-09-10"
+publicatiedatum: 2022-09-10
+laatste_update: 2022-09-10
+status: geldig
+toestand: 2022-09-10
+bron: "https://wetten.overheid.nl/BWBR0047127"
+opgehaald: 2026-09-02
 ---
-# Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 september 2022, nr. 33115912, houdende instelling van een commissie ter advisering over verzoeken tot teruggave van cultuurgoederen uit koloniale context (Instellingsbesluit Adviescommissie teruggave cultuurgoederen uit koloniale context)
 
-Besluit:
+# Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 6 september 2022, nr. 33115912, houdende instelling van een commissie ter advisering over verzoeken tot teruggave van cultuurgoederen uit koloniale context (Instellingsbesluit Adviescommissie teruggave cultuurgoederen uit koloniale context)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **Adviescommissie:** Adviescommissie teruggave cultuurgoederen uit koloniale context, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047127&artikel=2&z=2022-09-10&g=2022-09-10);
+- *Adviescommissie:* Adviescommissie teruggave cultuurgoederen uit koloniale context, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047127&artikel=2&z=2022-09-10&g=2022-09-10);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
+- *ministerie:* Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- **verzoek om teruggave:** verzoek door een staat om teruggave van een cultuurgoed dat in de context van koloniaal gezag uit deze staat is weggenomen.
+- *verzoek om teruggave:* verzoek door een staat om teruggave van een cultuurgoed dat in de context van koloniaal gezag uit deze staat is weggenomen.
 
 ##### Artikel 2. Instelling en taak Adviescommissie
 
@@ -107,5 +83,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Adviescommissie teruggave cultuurgoederen uit koloniale context.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing opsporing en vervolging ambtelijke corruptie in Nederland"
 identifier: "BWBR0046822"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046822"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16396613"
-version_id: "28713002"
-internal_id: "C40559061"
-label_id: "16320864"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046822/2022-07-01/0"
-intitule_bron: "Stcrt.2022-16637"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-06-27"
-intitule_in_force: "2022-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16637"
-original_published_date: "2022-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16637"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046822&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046822&g=2022-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046822"
+opgehaald: 2026-09-02
 ---
+
 # Aanwijzing opsporing en vervolging ambtelijke corruptie in Nederland
 
 ### Samenvatting
@@ -61,6 +42,56 @@ Bij het bepalen van de opportuniteit van de vervolging van de omkoper en de omge
 Bij het bepalen van de opportuniteit van (verdere) vervolging dient in elk geval rekening te worden gehouden met het initiatief tot de gift, de waarde, de heimelijkheid en de mate van maatschappelijke acceptatie van een dergelijke gift. Daarnaast zijn van belang het al dan niet incidentele karakter van de gift, de functie van de begiftigde ambtenaar, de aard van de relatie tussen gever en ontvanger en de mate van kenbaarheid aan de ambtenaar dat diens handelen verboden was en/of strijdig met bijvoorbeeld een voor die ambtenaar geldende gedragscode. Ook dient rekening te worden gehouden met de gevolgen die het handelen van de ambtenaar heeft gehad.
 
 Toelichting factoren:
+
+- • het initiatief tot de gift;
+
+- • Hoewel de wet geen verschil maakt tussen de ambtenaar die vraagt om een gift en de ambtenaar die een gift krijgt aangeboden is in het eerste geval een vervolging van de ambtenaar meer opportuun dan in het tweede;
+
+- • de waarde van de gift;
+
+- • Evenals in de wet wordt ook in deze aanwijzing geen harde – in euro's uitgedrukte – grens genoemd. Enerzijds gebeurt dit niet omdat het meermalen geven of accepteren van giften met een waarde die telkens onder zo’n grens blijft (bijvoorbeeld € 50,–) toch vervolgingswaardig kan zijn. Anderzijds wordt geen harde grens geformuleerd omdat ook een eenmalige betrekkelijk geringe gift kan leiden tot een ambtelijke gedraging die de zaak maatschappelijk gezien vervolgingswaardig maakt;
+
+- • de mate waarin de betreffende ambtelijke organisatie aan het in de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) voorgeschreven integriteitsbeleid voldoet;
+
+- • de mate van (sociale) acceptatie van de gift;
+
+- • Het is sociaal gezien volstrekt geaccepteerd dat ambtenaren ter gelegenheid van bijvoorbeeld een ambtsjubileum of een afscheidsreceptie cadeaus ontvangen;
+
+- • de al dan niet strijdigheid met de heersende gedragscode;
+
+- • Veel organisaties hebben een integriteits- of gedragscode. Voor het nemen van de strafrechtelijke maat maakt het verschil of al dan niet in strijd met die code is gehandeld;
+
+- • de mate van kenbaarheid aan de ambtenaar dat diens handelen verboden was;
+
+- • Het maakt verschil of in de ambtelijke organisatie te voren kenbaar is gemaakt wat wel en wat niet aanvaardbaar is op dit terrein;
+
+- • de heimelijkheid van de gift;
+
+- • Is de gift heimelijk gegeven en geaccepteerd? Heeft de ambtenaar de gift intern gemeld? Is achteraf getracht de gift te maskeren?;
+
+- • het al dan niet incidentele karakter van de gift;
+
+- • Is er sprake van een incident of een meer structurele / stelselmatige gang van zaken?;
+
+- • de aard van de relatie tussen de gever en de ontvanger;
+
+- • Gaat het om een meer persoonlijke of een meer zakelijke relatie? Hierbij kan een zekere wederkerigheid in die relatie relevant zijn (nu eens betaalt de een, dan weer de ander);
+
+- • de functie van de begiftigde ambtenaar;
+
+- • Van belang is zowel het functieniveau (Is het een ‘hoge’ ambtenaar of een ‘lagere’?; voor bestuurders en volksvertegenwoordigers gelden hogere straffen), als de positie ten opzichte van collega's (Gaat het bijvoorbeeld om een mentor van jonge collega's), als de inhoud (Beschikt iemand over veel vertrouwelijke gegevens, over een grote discretionaire bevoegdheid etc.);
+
+- • de uitwerking op de overheid(sdienst);
+
+- • Gaat het om een geïsoleerd geval of straalt de omkopingszaak negatief af op het aanzien van de betreffende dienst of zelfs het aanzien van de gehele overheid?;
+
+- • de mogelijkheid van een ander dan strafrechtelijk optreden;
+
+- • Heeft het bevoegd gezag reeds disciplinaire maatregelen jegens de betrokken ambtenaar getroffen en kan daarmee maatschappelijk gezien worden volstaan?;
+
+- • de gevolgen die het handelen van de ambtenaar heeft gehad;
+
+- • Is bijvoorbeeld (politie)informatie verstrekt waardoor levens in gevaar zijn gekomen of is tegen geringe betaling een kenteken nagetrokken.
 
 Uiteindelijk zal aan de hand van deze niet-limitatieve opsomming van factoren van geval tot geval de opportuniteit van de vervolging moeten worden bepaald.
 

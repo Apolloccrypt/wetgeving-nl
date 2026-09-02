@@ -1,71 +1,44 @@
 ---
 title: "Beleidsregels UWV Onderzoekssubsidies 2022"
 identifier: "BWBR0047125"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-09-10"
-last_updated: "2022-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047125"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16476263"
-version_id: "28871702"
-internal_id: "C40876921"
-label_id: "16398254"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047125/2022-09-10/0"
-intitule_bron: "Stcrt.2022-23757"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-23"
-intitule_published: "2022-09-09"
-intitule_in_force: "2022-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23757"
-original_signed_date: "2022-08-23"
-original_published_date: "2022-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-23757"
-entry_into_force_date: "2022-09-10"
-jci_1_3: "jci1.3:c:BWBR0047125&z=2022-09-10&g=2022-09-10"
-jci_1_0: "1.0:c:BWBR0047125&g=2022-09-10"
-citeertitel_status: "officieel"
-signed_date: "2022-08-23"
-entry_into_force: "2022-09-10"
+publicatiedatum: 2022-09-10
+laatste_update: 2022-09-10
+status: geldig
+toestand: 2022-09-10
+bron: "https://wetten.overheid.nl/BWBR0047125"
+opgehaald: 2026-09-02
 ---
+
 # Beleidsregels UWV Onderzoekssubsidies 2022
-
-Gelet op:
-
-[artikel 32b van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b), [titel 4.2 Subsidies van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2), en de [Regeling vaststelling Aanwijzingen voor subsidieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0027023);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- 1. *Wet SUWI:*
+ [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
-- 2. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- 2. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
-- 3. **UWV Kennisagenda:** UWV-brede agenda die periodiek op uwv.nl verschijnt en inzicht geeft in het onderzoek en de kennisontwikkeling die binnen UWV plaatsvindt.
+- 3. *UWV Kennisagenda:* UWV-brede agenda die periodiek op uwv.nl verschijnt en inzicht geeft in het onderzoek en de kennisontwikkeling die binnen UWV plaatsvindt.
 
-- 4. **Subsidie:** een subsidie ten behoeve van onderzoek als bedoeld in [artikel 32b Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b).
+- 4. *Subsidie:* een subsidie ten behoeve van onderzoek als bedoeld in [artikel 32b Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b).
 
-- 5. **Subsidiethema:** onderwerp ten behoeve waarvan onderzoeksinstellingen aanvragen voor onderzoekssubsidie kunnen indienen.
+- 5. *Subsidiethema:* onderwerp ten behoeve waarvan onderzoeksinstellingen aanvragen voor onderzoekssubsidie kunnen indienen.
 
-- 6. **Project:** het onderzoek dat de onderzoeksinstelling met subsidie wil gaan uitvoeren of een afgebakend deel daarvan.
+- 6. *Project:* het onderzoek dat de onderzoeksinstelling met subsidie wil gaan uitvoeren of een afgebakend deel daarvan.
 
-- 7. **Aanvrager:** een instelling of organisatie als bedoeld in [artikel 32b Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b).
+- 7. *Aanvrager:* een instelling of organisatie als bedoeld in [artikel 32b Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32b).
 
-- 8. **Themabesluit:** besluit waarin een subsidiethema en het bijbehorende maximale subsidiebedrag per project en voor het thema als geheel wordt vastgesteld en waarin eventuele aanvullende eisen zijn opgenomen.
+- 8. *Themabesluit:* besluit waarin een subsidiethema en het bijbehorende maximale subsidiebedrag per project en voor het thema als geheel wordt vastgesteld en waarin eventuele aanvullende eisen zijn opgenomen.
 
-- 9. **Beoordelingscommissie:** vertegenwoordigers van UWV en van externe stakeholders die gezamenlijk bijdragen aan het opstellen van subsidiethema’s en beoordelingen van subsidieaanvragen.
+- 9. *Beoordelingscommissie:* vertegenwoordigers van UWV en van externe stakeholders die gezamenlijk bijdragen aan het opstellen van subsidiethema’s en beoordelingen van subsidieaanvragen.
 
-- 10. **Begeleidingscommissie:** vertegenwoordigers van externe stakeholders, eventueel aangevuld met inhoudelijke deskundigen van UWV, die gezamenlijk de kwaliteit en voortgang van het project bewaken.
+- 10. *Begeleidingscommissie:* vertegenwoordigers van externe stakeholders, eventueel aangevuld met inhoudelijke deskundigen van UWV, die gezamenlijk de kwaliteit en voortgang van het project bewaken.
 
-- 11. **Startnotitie:** bijlage bij het themabesluit waarin de context, probleemstelling en beoordelingscriteria van het subsidiethema nader worden toegelicht.
+- 11. *Startnotitie:* bijlage bij het themabesluit waarin de context, probleemstelling en beoordelingscriteria van het subsidiethema nader worden toegelicht.
 
 ##### Artikel 2. Subsidiethema’s
 
@@ -73,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 2. UWV stelt per kalenderjaar 1,5 miljoen euro beschikbaar voor subsidie.
 
-3. UWV publiceert een themabesluit in de Staatscourant en op [www.uwv.nl/marktplaats](onbekend).
+3. UWV publiceert een themabesluit in de Staatscourant en op www.uwv.nl/marktplaats.
 
 4. Nadat UWV een themabesluit publiceert in de Staatscourant kunnen instellingen of organisaties een aanvraag voor een onderzoekssubsidie doen.
 
@@ -149,7 +122,7 @@ UWV hanteert voor subsidieonderzoek de volgende criteria:
 
 ##### Artikel 8. Tussentijdse rapportage
 
-Bij subsidies hoger dan € 25.000 welke verleend worden voor activiteiten die meer dan een jaar in beslag nemen, kan UWV de verplichting opleggen tot het tussentijds afleggen van rekening en verantwoording omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten. Een dergelijke tussenrapportage wordt niet vaker dan één maal per jaar gevraagd.
+Bij subsidies hoger dan € 25.000 welke verleend worden voor activiteiten die meer dan een jaar in beslag nemen, kan UWV de verplichting opleggen tot het tussentijds afleggen van rekening en verantwoording omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten. Een dergelijke tussenrapportage wordt niet vaker dan één maal per jaar gevraagd.
 
 ##### Artikel 9. Meldingsplicht
 
@@ -179,7 +152,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 ##### Artikel 11. Subsidies tot € 25.000
 
-1. Subsidies tot € 25.000 worden door UWV:
+1. Subsidies tot € 25.000 worden door UWV:
 
 - a. direct vastgesteld of;
 
@@ -189,7 +162,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 ##### Artikel 12. Subsidies vanaf € 25.000 tot € 125.000
 
-1. Indien de subsidieverlening meer bedraagt dan € 25.000, maar minder dan € 125.000, dient de subsidieontvanger uiterlijk 13 weken na het einde van de activiteiten een aanvraag tot vaststelling in bij UWV.
+1. Indien de subsidieverlening meer bedraagt dan € 25.000, maar minder dan € 125.000, dient de subsidieontvanger uiterlijk 13 weken na het einde van de activiteiten een aanvraag tot vaststelling in bij UWV.
 
 2. De aanvraag tot vaststelling bevat een inhoudelijk verslag, waaruit blijkt dat de activiteiten, waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden.
 
@@ -197,7 +170,7 @@ De subsidieontvanger doet onverwijld schriftelijk melding aan UWV, zodra aanneme
 
 ##### Artikel 13. Subsidies vanaf € 125.000
 
-1. Indien de subsidieverlening meer bedraagt dan € 125.000, dient de subsidieontvanger uiterlijk binnen 13 weken na het verricht zijn van de activiteiten een aanvraag tot vaststelling in bij UWV.
+1. Indien de subsidieverlening meer bedraagt dan € 125.000, dient de subsidieontvanger uiterlijk binnen 13 weken na het verricht zijn van de activiteiten een aanvraag tot vaststelling in bij UWV.
 
 2. De aanvraag tot vaststelling bevat:
 
@@ -232,5 +205,3 @@ Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Sta
 ##### Artikel 18. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels UWV Onderzoekssubsidies 2022.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

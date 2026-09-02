@@ -1,106 +1,46 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2022 kenmerk 2022-0000352542 (Besluit Sturing Digitale Overheid 2022), tot wijziging van het Instellingsbesluit Sturing Digitale Overheid in het kader van de introductie van een meerjarenprogrammering op de generieke digitale infrastructuur"
+citeertitel: "Besluit Sturing Digitale Overheid 2022"
 identifier: "BWBR0046935"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-19"
-last_updated: "2022-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046935"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "16425383"
-version_id: "28769382"
-internal_id: "C40726951"
-label_id: "16349554"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046935/2022-07-19/0"
-intitule_bron: "Stcrt.2022-18861"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-12"
-intitule_published: "2022-07-18"
-intitule_in_force: "2022-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-18861"
-original_signed_date: "2022-07-12"
-original_published_date: "2022-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-18861"
-entry_into_force_date: "2022-07-19"
-jci_1_3: "jci1.3:c:BWBR0046935&z=2022-07-19&g=2022-07-19"
-jci_1_0: "1.0:c:BWBR0046935&g=2022-07-19"
-citeertitel_status: "officieel"
-short_title: "Besluit Sturing Digitale Overheid 2022"
-signed_date: "2022-07-12"
-entry_into_force: "2022-07-19"
+publicatiedatum: 2022-07-19
+laatste_update: 2022-07-19
+status: geldig
+toestand: 2022-07-19
+bron: "https://wetten.overheid.nl/BWBR0046935"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2022 kenmerk 2022-0000352542 (Besluit Sturing Digitale Overheid 2022), tot wijziging van het Instellingsbesluit Sturing Digitale Overheid in het kader van de introductie van een meerjarenprogrammering op de generieke digitale infrastructuur
-
-Overwegende dat;
-
-het verbeteren van de uitvoering en de publieke dienstverlening vanuit de behoeften van burgers, bedrijven en instellingen een prioriteit is en van belang voor het vertrouwen in de publieke sector;
-
-het functioneren van de publieke sector in belangrijke mate bepaald wordt door digitalisering;
-
-een goede, betrouwbare en veilige digitale infrastructuur een randvoorwaarde is om de dienstverlening te verbeteren en toekomstige vragen vanuit politiek en samenleving te kunnen verwezenlijken;
-
-de Generieke Digitale Infrastructuur het fundament vormt voor publieke dienstverlening naar burgers en bedrijven en voor de samenwerking tussen overheidsorganisaties onderling;
-
-onderdelen van de generieke digitale infrastructuur als vitaal zijn bestempeld;
-
-de regieverantwoordelijkheid voor de digitale overheid van de staatssecretaris de volgende aspecten omvat:
-
-te zorgen voor wettelijke en beleidsmatige kaders voor het functioneren van de digitale overheid;
-
-de zorg voor het op peil houden en ontwikkelen van de generieke digitale infrastructuur;
-
-de zorg voor de realisatie van afspraken, standaarden en voorzieningen van de generieke digitale infrastructuur;
-
-de zorg voor het realiseren van de noodzakelijke architectuurproducten om die bouwstenen te kunnen ontwikkelen en beheren;
-
-de zorg voor het opdrachtgeverschap van beheer, exploitatie en vernieuwing van de generieke digitale infrastructuur richting opdrachtnemers;
-
-de zorg voor de in dit kader centraal beschikbaar gestelde middelen.
-
-naast deze generieke verantwoordelijkheid ook sectorale en organisatiespecifieke verantwoordelijkheden bestaan voor de digitalisering, die binnen het Rijk bij de desbetreffende bewindspersonen, binnen de medeoverheden bij de besturen van gemeenten, provincies en waterschappen en bij de betrokken private partijen belegd zijn;
-
-beleidsmatige vraagstukken van de digitale overheid alleen kunnen worden opgelost als zij in samenhang geagendeerd worden en digitaliseringsambities in afstemming worden geprogrammeerd en opgepakt;
-
-de digitale overheid hiermee nadrukkelijk een interbestuurlijke opgave is;
-
-de totstandkoming en het actualiseren van een overheidsbrede agenda voor de digitale overheid een meerjarige gezamenlijke prioritering en programmering op de generieke digitale infrastructuur vraagt;
-
-hier een adequate overlegstructuur en interbestuurlijke governance voor nodig is.
-
-BESLUIT:
 
 ##### Artikel 1. Definities
 
-- a. **de staatssecretaris:** de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
+- a. *de staatssecretaris:* de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **de Generieke Digitale Infrastructuur (hierna: GDI):** de set aan afspraken, standaarden en voorzieningen die overheidsorganisaties en dienstverleners met een publieke taak ondersteunt bij de inrichting van hun digitale dienstverlening aan burgers en bedrijven en ook bij hun onderlinge digitale samenwerking;
+- b. *de Generieke Digitale Infrastructuur (hierna: GDI):* de set aan afspraken, standaarden en voorzieningen die overheidsorganisaties en dienstverleners met een publieke taak ondersteunt bij de inrichting van hun digitale dienstverlening aan burgers en bedrijven en ook bij hun onderlinge digitale samenwerking;
 
-- c. **de GDI-bouwstenen:** de afspraken, standaarden en voorzieningen die gezamenlijk de GDI vormen;
+- c. *de GDI-bouwstenen:* de afspraken, standaarden en voorzieningen die gezamenlijk de GDI vormen;
 
-- d. **de GDI-domeinen:** de terreinen waar de GDI betrekking op heeft, te weten toegang, interactie, gegevensuitwisseling en infrastructuur;
+- d. *de GDI-domeinen:* de terreinen waar de GDI betrekking op heeft, te weten toegang, interactie, gegevensuitwisseling en infrastructuur;
 
-- e. **de GDI-partners:** de partijen die vanuit verschillende rollen onderdeel zijn van de sturing op de ontwikkeling van de GDI;
+- e. *de GDI-partners:* de partijen die vanuit verschillende rollen onderdeel zijn van de sturing op de ontwikkeling van de GDI;
 
-- f. **de GDI-architectuur:** de inrichtingsprincipes die gelden voor de GDI;
+- f. *de GDI-architectuur:* de inrichtingsprincipes die gelden voor de GDI;
 
-- g. **interoperabiliteit:** het vermogen van organisaties (en hun processen en systemen) om effectief en efficiënt informatie te delen met hun omgeving;
+- g. *interoperabiliteit:* het vermogen van organisaties (en hun processen en systemen) om effectief en efficiënt informatie te delen met hun omgeving;
 
-- h. **de GDI-meerjarenvisie:** schetst de beoogde (door)ontwikkeling van de GDI gelet op relevante beleidsmatige, technologische (internationale) ontwikkelingen en wet- en regelgeving op de middellange termijn;
+- h. *de GDI-meerjarenvisie:* schetst de beoogde (door)ontwikkeling van de GDI gelet op relevante beleidsmatige, technologische (internationale) ontwikkelingen en wet- en regelgeving op de middellange termijn;
 
-- i. **het GDI-programmeringsplan:** een totaaloverzicht van beheer en exploitatie, projecten en programma’s met bijbehorende begroting van de GDI voor het komende jaar (t+1);
+- i. *het GDI-programmeringsplan:* een totaaloverzicht van beheer en exploitatie, projecten en programma’s met bijbehorende begroting van de GDI voor het komende jaar (t+1);
 
-- j. **de opdrachtgever:** degene die opdracht geeft tot het leveren van producten of diensten en daarvoor een bijdrage toekent en betaalt;
+- j. *de opdrachtgever:* degene die opdracht geeft tot het leveren van producten of diensten en daarvoor een bijdrage toekent en betaalt;
 
-- k. **de opdrachtnemer:** degene die GDI-onderdelen in beheer of in ontwikkeling heeft;
+- k. *de opdrachtnemer:* degene die GDI-onderdelen in beheer of in ontwikkeling heeft;
 
-- l. **de afnemer:** degene die afspraken, standaarden en voorzieningen van de GDI gebruikt of inzet voor de interactie met burgers en bedrijven of voor interactie met andere afnemers;
+- l. *de afnemer:* degene die afspraken, standaarden en voorzieningen van de GDI gebruikt of inzet voor de interactie met burgers en bedrijven of voor interactie met andere afnemers;
 
-- m. **het bestuurlijk overleg:** een overleg tussen de eindverantwoordelijke bestuurders van het Rijk en medeoverheden.
+- m. *het bestuurlijk overleg:* een overleg tussen de eindverantwoordelijke bestuurders van het Rijk en medeoverheden.
 
 ##### Artikel 2
 
@@ -126,17 +66,17 @@ Er is een hoog ambtelijk Overheidsbreed Beleidsoverleg Digitale Overheid (hierna
 
 2. De volgende producten worden ter advisering aan het OBDO aangeboden:
 
-- –. voorstellen met betrekking tot een overheidsbrede visie op digitale overheidsdienstverlening aan burgers, bedrijven en instellingen;
+- – voorstellen met betrekking tot een overheidsbrede visie op digitale overheidsdienstverlening aan burgers, bedrijven en instellingen;
 
-- –. voorstellen voor de digitale transitie van het openbaar bestuur in verbinding met sectorale doelen en ambities voor de digitale overheid;
+- – voorstellen voor de digitale transitie van het openbaar bestuur in verbinding met sectorale doelen en ambities voor de digitale overheid;
 
-- –. uitkomsten van in- en of uitvoeringstoetsen, als onderdeel van beleidsvoorstellen;
+- – uitkomsten van in- en of uitvoeringstoetsen, als onderdeel van beleidsvoorstellen;
 
-- –. de GDI-meerjarenvisie;
+- – de GDI-meerjarenvisie;
 
-- –. een voorstel voor allocatie van het centrale budget in de vorm van het jaarlijkse GDI-programmeringsplan;
+- – een voorstel voor allocatie van het centrale budget in de vorm van het jaarlijkse GDI-programmeringsplan;
 
-- –. adviezen aan de staatssecretaris met betrekking tot de financiering van de GDI.
+- – adviezen aan de staatssecretaris met betrekking tot de financiering van de GDI.
 
 3. Het OBDO bevordert de interoperabiliteit en stelt – op advies van het Forum Standaardisatie – de samenstelling van de lijst met open standaarden vast, waarbij voor overheidsorganisaties het ‘pas-toe-of-leg-uit’ regime geldt. Het OBDO stimuleert en volgt het gebruik van de adoptie van de standaarden op die lijst.
 
@@ -290,7 +230,7 @@ De architectuurraad heeft tot taak:
 
 3. De voorzitter opereert op bestuurlijk niveau met autoriteit op basis van natuurlijk gezag en expertise.
 
-4. De samenstelling van de architectuurraad bestaat uit een vertegenwoordiging van verschillende rollen ingevuld op managementniveau (**Chief Technology Officer** / **Chief Information Officer**):
+4. De samenstelling van de architectuurraad bestaat uit een vertegenwoordiging van verschillende rollen ingevuld op managementniveau (*Chief Technology Officer* / *Chief Information Officer*):
 
 - a. drie / vier vertegenwoordigers van uitvoeringsorganisaties;
 
@@ -377,5 +317,3 @@ Dit besluit wordt aangehaald als: Besluit Sturing Digitale Overheid 2022.
 ##### Artikel 21
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden gepubliceerd.

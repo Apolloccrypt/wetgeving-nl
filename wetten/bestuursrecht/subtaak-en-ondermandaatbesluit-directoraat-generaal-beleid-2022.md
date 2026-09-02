@@ -1,82 +1,56 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
+citeertitel: "subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
 identifier: "BWBR0046559"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-14"
-last_updated: "2022-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046559"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16327653"
-version_id: "28544242"
-internal_id: "C40276851"
-label_id: "16252634"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046559/2022-04-14/0"
-intitule_bron: "Stcrt.2022-9868"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-16"
-intitule_published: "2022-04-13"
-intitule_in_force: "2022-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9868"
-original_signed_date: "2022-03-16"
-original_published_date: "2022-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9868"
-entry_into_force_date: "2022-04-14"
-jci_1_3: "jci1.3:c:BWBR0046559&z=2022-04-14&g=2022-04-14"
-jci_1_0: "1.0:c:BWBR0046559&g=2022-04-14"
-citeertitel_status: "officieel"
-short_title: "subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022"
-signed_date: "2022-03-16"
-entry_into_force: "2022-04-14"
+publicatiedatum: 2022-04-14
+laatste_update: 2022-04-14
+status: geldig
+toestand: 2022-04-14
+bron: "https://wetten.overheid.nl/BWBR0046559"
+opgehaald: 2026-09-02
 ---
+
 # Subtaak- en ondermandaatbesluit Directoraat-Generaal Beleid 2022
-
-Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **bewindspersoon:** Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
 
-- b. **mandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- d. *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- e. **directeuren:** de directeur Strategie en Kennis, de directeur Operationeel Beleid en Plannen, de directeur Bedrijfsvoering en Evaluatie, de hoofddirecteur Personeel, de directeur Materieel, Vastgoed en Duurzaamheid, de chief Information Officer, de directeur Internationale Aangelegenheden, de directeur Veiligheid en de chef Kabinet DGB.
+- e. *directeuren:* de directeur Strategie en Kennis, de directeur Operationeel Beleid en Plannen, de directeur Bedrijfsvoering en Evaluatie, de hoofddirecteur Personeel, de directeur Materieel, Vastgoed en Duurzaamheid, de chief Information Officer, de directeur Internationale Aangelegenheden, de directeur Veiligheid en de chef Kabinet DGB.
 
 ##### Artikel 2. Organisatie van het Directoraat-Generaal Beleid (DGB)
 
 1. Het Directoraat-Generaal Beleid, genoemd in [artikel 4 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=4), bestaat uit:
 
-- −. de Directie Strategie en Kennis;
+- − de Directie Strategie en Kennis;
 
-- −. de Directie Operationeel Beleid en Plannen;
+- − de Directie Operationeel Beleid en Plannen;
 
-- −. de Directie Bedrijfsvoering en Evaluatie;
+- − de Directie Bedrijfsvoering en Evaluatie;
 
-- −. de Hoofddirectie Personeel;
+- − de Hoofddirectie Personeel;
 
-- −. de Directie Materieel, Vastgoed en Duurzaamheid;
+- − de Directie Materieel, Vastgoed en Duurzaamheid;
 
-- −. de Chief Information Office;
+- − de Chief Information Office;
 
-- −. de Directie Internationale Aangelegenheden;
+- − de Directie Internationale Aangelegenheden;
 
-- −. de Directie Veiligheid;
+- − de Directie Veiligheid;
 
-- −. het Kabinet DGB.
+- − het Kabinet DGB.
 
-2. Het organogram van het Directoraat-Generaal Beleid is opgenomen in de bijlage bij dit besluit.
+2. Het organogram van het Directoraat-Generaal Beleid is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0046559) bij dit besluit.
 
 ##### Artikel 3. De Directie Strategie en Kennis (DSK)
 
@@ -86,11 +60,11 @@ De Directie Strategie en Kennis staat onder leiding van de directeur Strategie e
 
 - 2. het inhoud geven aan de strategische functie door:
 
-- a. het realiseren van en sturing te geven op integrale visievorming en strategieontwikkeling;
+   - a. het realiseren van en sturing te geven op integrale visievorming en strategieontwikkeling;
 
-- b. regie te voeren op proces en kalender strategieontwikkeling;
+   - b. regie te voeren op proces en kalender strategieontwikkeling;
 
-- c. het proces van visie en strategie naar beleid en plannen aan te jagen;
+   - c. het proces van visie en strategie naar beleid en plannen aan te jagen;
 
 - 3. het ontwikkelen, onderhouden en coördineren van uitvoerbaar strategisch kennis- (wetenschap, onderzoek en technologie) en innovatiebeleid, het voeren van regie over de strategische K&I-kalender van Defensie, alsmede de governance van de kennisinstellingen TNO, NLR en Marin;
 
@@ -114,7 +88,7 @@ De Directie Operationeel Beleid en Plannen staat onder leiding van de directeur 
 
 - 4. het voorzien in een defensiebrede kennisbasis, door middel van het initiëren, coördineren, programmeren en begeleiden van kennisopbouw en technologieontwikkeling/R&D, om tegemoet te komen aan de kennisbehoefte van Defensie, en ter ondersteuning van capability development, (grote) investeringsprojecten en operationele inzet;
 
-- 5. het optreden als **National Capability Director (NCD)**;
+- 5. het optreden als *National Capability Director (NCD)*;
 
 - 6. het optreden als plaatsvervangend DGB.
 
@@ -132,9 +106,9 @@ De Directie Bedrijfsvoering en Evaluatie staat onder leiding van de directeur Be
 
 - 5. het namens de SG toezicht houden op naleving kaders beveiliging (BA) en gegevensbeschermingsrecht (FG);
 
-- 6. het faciliteren van het hoofd Afdeling Inkoop Management in de rol van **Coördinerend Directeur Inkoop (CDI),** met dien verstande dat op de taken, verantwoordelijkheden en bevoegdheden van de CDI het Taakbesluit Chief Procurement Officer Rijk en het taakbesluit Coördinerend Directeur Inkoop Rijk, zoals vastgesteld in de ICBR van 16 maart 2021, van overeenkomstige toepassing zijn.
+- 6. het faciliteren van het hoofd Afdeling Inkoop Management in de rol van *Coördinerend Directeur Inkoop (CDI),* met dien verstande dat op de taken, verantwoordelijkheden en bevoegdheden van de CDI het Taakbesluit Chief Procurement Officer Rijk en het taakbesluit Coördinerend Directeur Inkoop Rijk, zoals vastgesteld in de ICBR van 16 maart 2021, van overeenkomstige toepassing zijn.
 
-- 7. het optreden als de **Military National Security Authority**, **Chief Privacy Officer** en **Data Protection Officer (FG)**;
+- 7. het optreden als de *Military National Security Authority*, *Chief Privacy Officer* en *Data Protection Officer (FG)*;
 
 - 8. het in opdracht (van de SG of DGB) voeren van complexe bedrijfsvoeringsprogramma’s of -projecten.
 
@@ -192,7 +166,7 @@ De Directie Veiligheid staat onder leiding van de directeur Veiligheid. Deze is 
 
 - 6. het onderhouden van contacten met de in- en externe toezichthouders en zuster- en expertorganisaties voor het domein veiligheid en het appreciëren van de onderzoeken die zij hebben uitgevoerd en waar nodig op basis van die onderzoeken veiligheid verhogende maatregelen implementeren;
 
-- 7. het vervullen van de rol van **Concern Safety Policy Officer**.
+- 7. het vervullen van de rol van *Concern Safety Policy Officer*.
 
 ##### Artikel 11. Het Kabinet DGB
 
@@ -222,11 +196,11 @@ De directeuren zijn, binnen hun aandachtsgebied, verantwoordelijk voor:
 
 - c. het ondersteunen van de bewindspersonen bij hun interactie met het parlement door met name:
 
-- 1°. het voorbereiden en opstellen van Kamerbrieven en de beantwoording van Kamervragen;
+   - 1° het voorbereiden en opstellen van Kamerbrieven en de beantwoording van Kamervragen;
 
-- 2°. het tot stand (doen) brengen van rapportages;
+   - 2° het tot stand (doen) brengen van rapportages;
 
-- 3°. het voorbereiden en ambtelijk ondersteunen van Kamerdebatten;
+   - 3° het voorbereiden en ambtelijk ondersteunen van Kamerdebatten;
 
 - d. het vertegenwoordigen van Defensie in interdepartementale en internationale gremia, bij decentrale overheden, bij private organisaties en bij burgers;
 
@@ -244,21 +218,21 @@ De directeuren zijn, binnen hun aandachtsgebied, verantwoordelijk voor:
 
 4. Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
-DE **<< BEWINDSPERSOON>>** VAN DEFENSIE
+DE *<< BEWINDSPERSOON>>* VAN DEFENSIE
 
 voor deze,
 
-**<< functie, handtekening en naam van de ondertekenaar >>**
+*<< functie, handtekening en naam van de ondertekenaar >>*
 
 ##### Artikel 14. Intrekking
 
 Ingetrokken worden:
 
-- −. het Subtaakbesluit DAB 1992 d.d. 9 mei 1994;
+- − het Subtaakbesluit DAB 1992 d.d. 9 mei 1994;
 
-- −. het Subtaakbesluit Hoofddirectie Personeel 2005 d.d. 1 mei 2005;
+- − het Subtaakbesluit Hoofddirectie Personeel 2005 d.d. 1 mei 2005;
 
-- −. het Ondermandaat, -volmacht en -machtigingsbesluit HDP 2005 d.d. 1 januari 2005 (ongenummerd)
+- − het Ondermandaat, -volmacht en -machtigingsbesluit HDP 2005 d.d. 1 januari 2005 (ongenummerd)
 
 ##### Artikel 15. Citeertitel
 
@@ -266,8 +240,4 @@ Dit besluit wordt aangehaald als: subtaak- en ondermandaatbesluit Directoraat-Ge
 
 ##### Artikel 16. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
-
-## Bijlage. Organogram
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.

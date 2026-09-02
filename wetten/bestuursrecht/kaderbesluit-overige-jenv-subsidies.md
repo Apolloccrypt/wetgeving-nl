@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 21 april 2022, houdende regels voor het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming (Kaderbesluit overige JenV-subsidies)"
+citeertitel: "Kaderbesluit overige JenV-subsidies"
 identifier: "BWBR0046660"
-country: "nl"
-rank: "amvb"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046660"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16359853"
-version_id: "28627572"
-internal_id: "C40562521"
-label_id: "16284524"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046660/2022-07-01/0"
-intitule_bron: "Stb.2022-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-04-21"
-intitule_published: "2022-05-13"
-intitule_in_force: "2022-06-28"
-intitule_status: "goed"
-original_publication: "Stb.2022-180"
-original_signed_date: "2022-04-21"
-original_published_date: "2022-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-180"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046660&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046660&g=2022-07-01"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit overige JenV-subsidies"
-signed_date: "2022-04-21"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046660"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 21 april 2022, houdende regels voor het verstrekken van subsidies door de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming (Kaderbesluit overige JenV-subsidies)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid, gedaan mede namens Onze Minister voor Rechtsbescherming van 5 oktober 2021, Directie Wetgeving en Juridische Zaken, nr. 3562409;
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4 van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4);
-
-De Afdeling advisering van de Raad van State gehoord advies van 2 maart 2022, nr.W16.21.0304/II;
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid, uitgebracht mede namens Onze Minister voor Rechtsbescherming van 14 april 2022, Directie Wetgeving en Juridische Zaken, nr. 3946181;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Kaderwet overige JenV-subsidies in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,13 +20,15 @@ Treedt in werking op het tijdstip waarop de Kaderwet overige JenV-subsidies in w
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **algemene groepsvrijstellingsverordening:** verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1), dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- – *algemene groepsvrijstellingsverordening:* verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- –. **de-minimisverordening:** [verordening (EU) nr. 1407/2013](32013R1407) van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352/1) en [verordening (EU) nr. 360/2012](32012R0360) van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen (PbEU 2012, L 114/8), dan wel later daarvoor in de plaats tredende Europese regelgeving;
+- – *de-minimisverordening:*
+ verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PbEU 2013, L 352/1) en verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen (PbEU 2012, L 114/8), dan wel later daarvoor in de plaats tredende Europese regelgeving;
 
-- –. **Europees steunkader:** een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Europese Commissie gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie heeft vastgesteld;
+- – *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Europese Commissie gelet op de artikelen 106, derde lid, 107 en 108 van het Verdrag betreffende de werking van de Europese Unie heeft vastgesteld;
 
-- –. **wet:** [Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954).
+- – *wet:*
+ [Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954).
 
 ##### Artikel 2
 
@@ -80,7 +48,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Een subsidie lager dan € 25 000, die op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie is aan te merken als staatssteun, wordt voor zover mogelijk verstrekt met toepassing van de betrokken de-minimisverordening.
+1. Een subsidie lager dan € 25 000, die op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie is aan te merken als staatssteun, wordt voor zover mogelijk verstrekt met toepassing van de betrokken de-minimisverordening.
 
 2. Het eerste lid is niet van toepassing indien de subsidie kan worden verstrekt met goedkeuring van de Europese Commissie of onder de werking van een vrijstellingsverordening.
 
@@ -210,9 +178,9 @@ Tenzij bij ministeriële regeling anders is bepaald, wordt een subsidie ten last
 
 ##### Artikel 14
 
-1. Een subsidie lager dan € 25.000 wordt verstrekt in de vorm van een vast bedrag dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
+1. Een subsidie lager dan € 25.000 wordt verstrekt in de vorm van een vast bedrag dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
-2. Indien een subsidie lager dan € 25.000 wordt verstrekt, wordt:
+2. Indien een subsidie lager dan € 25.000 wordt verstrekt, wordt:
 
 - a. direct een beschikking tot subsidievaststelling gegeven; of
 
@@ -226,11 +194,11 @@ Tenzij bij ministeriële regeling anders is bepaald, wordt een subsidie ten last
 
 ##### Artikel 15
 
-1. Een subsidie van € 25.000 tot € 125.000 wordt verstrekt in de vorm van een vast bedrag of een vast bedrag voor een nog te verrichten prestatie-eenheid, dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
+1. Een subsidie van € 25.000 tot € 125.000 wordt verstrekt in de vorm van een vast bedrag of een vast bedrag voor een nog te verrichten prestatie-eenheid, dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
-2. Indien een subsidie van € 25.000 tot € 125.000 wordt verstrekt, wordt een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en het tijdstip waarop een aanvraag van een beschikking tot subsidievaststelling moet worden gedaan.
+2. Indien een subsidie van € 25.000 tot € 125.000 wordt verstrekt, wordt een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en het tijdstip waarop een aanvraag van een beschikking tot subsidievaststelling moet worden gedaan.
 
-3. In geval van een subsidie van € 25.000 tot € 125.000 is de subsidieontvanger verplicht om:
+3. In geval van een subsidie van € 25.000 tot € 125.000 is de subsidieontvanger verplicht om:
 
 - a. onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; en
 
@@ -238,19 +206,19 @@ Tenzij bij ministeriële regeling anders is bepaald, wordt een subsidie ten last
 
 ##### Artikel 16
 
-1. Een subsidie van € 125.000 of meer wordt verstrekt in de vorm van een maximumbedrag voor een nog te verrichten prestatie-eenheid, dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
+1. Een subsidie van € 125.000 of meer wordt verstrekt in de vorm van een maximumbedrag voor een nog te verrichten prestatie-eenheid, dat bij ministeriële regeling wordt vastgesteld of dat wordt bepaald op basis van gegevens die worden ingediend bij de aanvraag.
 
-2. Indien een subsidie van € 125.000 of meer wordt verstrekt, wordt een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en het tijdstip waarop een aanvraag van een beschikking tot subsidievaststelling moet worden gedaan.
+2. Indien een subsidie van € 125.000 of meer wordt verstrekt, wordt een beschikking tot subsidieverlening gegeven, met vermelding van de datum waarop de activiteiten uiterlijk moeten zijn verricht en het tijdstip waarop een aanvraag van een beschikking tot subsidievaststelling moet worden gedaan.
 
-3. In geval van een subsidie van € 125.000 of meer is de subsidieontvanger verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
+3. In geval van een subsidie van € 125.000 of meer is de subsidieontvanger verplicht om onverwijld een schriftelijke melding te doen zodra aannemelijk is dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht of dat niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.
 
 ##### Artikel 17
 
-Indien de periode van uitvoering van de activiteiten waarvoor subsidie van € 25.000 of meer wordt verstrekt meer dan twaalf maanden bedraagt, is de subsidieontvanger tevens verplicht om één keer per periode van twaalf maanden via een voortgangsverslag inzicht te geven in de voortgang van de activiteiten.
+Indien de periode van uitvoering van de activiteiten waarvoor subsidie van € 25.000 of meer wordt verstrekt meer dan twaalf maanden bedraagt, is de subsidieontvanger tevens verplicht om één keer per periode van twaalf maanden via een voortgangsverslag inzicht te geven in de voortgang van de activiteiten.
 
 ##### Artikel 18
 
-Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie lager dan € 25.000 van toepassing zijn op een subsidie van € 25.000 of meer of dat de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing zijn op subsidies van € 125.000 of meer.
+Bij ministeriële regeling kan worden bepaald dat de regels inzake een subsidie lager dan € 25.000 van toepassing zijn op een subsidie van € 25.000 of meer of dat de regels inzake een subsidie van € 25.000 tot € 125.000 van toepassing zijn op subsidies van € 125.000 of meer.
 
 ### Hoofdstuk 8. Algemene verplichtingen van de subsidieontvanger
 
@@ -280,7 +248,7 @@ De subsidieontvanger is verplicht:
 
 ##### Artikel 20
 
-1. Een beschikking tot subsidieverlening wordt gegeven binnen dertien weken na ontvangst van de aanvraag of, indien een subsidieplafond geldt en de verdeling plaatsvindt in volgorde van rangschikking of evenredige verdeling, binnen dertien weken na afloop van de periode waarbinnen aanvragen kunnen worden ingediend. In geval van cofinanciering, indien over de aanvraag advies wordt ingewonnen of indien een nader onderzoek is ingesteld, geldt een termijn van 22 weken.
+1. Een beschikking tot subsidieverlening wordt gegeven binnen dertien weken na ontvangst van de aanvraag of, indien een subsidieplafond geldt en de verdeling plaatsvindt in volgorde van rangschikking of evenredige verdeling, binnen dertien weken na afloop van de periode waarbinnen aanvragen kunnen worden ingediend. In geval van cofinanciering, indien over de aanvraag advies wordt ingewonnen of indien een nader onderzoek is ingesteld, geldt een termijn van 22 weken.
 
 2. Een beschikking tot subsidievaststelling als bedoeld in [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&hoofdstuk=7&artikel=14&z=2022-07-01&g=2022-07-01), wordt gegeven binnen dertien weken na ontvangst van de aanvraag van de subsidie.
 
@@ -344,19 +312,19 @@ De subsidieontvanger is verplicht:
 
 ##### Artikel 24
 
-Wijzigt het Besluit Jeugdwet.
+*Wijzigt het Besluit Jeugdwet.*
 
 ##### Artikel 25
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ##### Artikel 26
 
-Wijzigt het Besluit slachtoffers van strafbare feiten.
+*Wijzigt het Besluit slachtoffers van strafbare feiten.*
 
 ##### Artikel 27
 
-Wijzigt het Besluit vergoeding bewindvoerder schuldsanering.
+*Wijzigt het Besluit vergoeding bewindvoerder schuldsanering.*
 
 ### Hoofdstuk 14. Slotbepalingen
 
@@ -367,5 +335,3 @@ Dit besluit treedt in werking op het tijdstip waarop de [Kaderwet overige JenV-s
 ##### Artikel 29
 
 Dit besluit wordt aangehaald als: Kaderbesluit overige JenV-subsidies.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

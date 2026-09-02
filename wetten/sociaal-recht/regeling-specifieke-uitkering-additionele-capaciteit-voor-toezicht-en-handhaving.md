@@ -1,44 +1,44 @@
 ---
-title: "Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing"
+title: "Regeling van de Minister voor Klimaat en Energie van 30 juni 2022, nr. WJZ/ 22076980, houdende regels over het verstrekken van eenmalige specifieke uitkeringen ten behoeve van extra ondersteuning voor toezicht op en handhaving van de energiebesparingsplicht"
+citeertitel: "Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing"
 identifier: "BWBR0046881"
 categorie: "Sociaal recht"
-publicatiedatum: 2026-05-14
-laatste_update: 2026-05-16
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-07-12
+laatste_update: 2026-05-14
 status: geldig
+toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0046881"
+opgehaald: 2026-09-02
 ---
 
 # Regeling van de Minister voor Klimaat en Energie van 30 juni 2022, nr. WJZ/ 22076980, houdende regels over het verstrekken van eenmalige specifieke uitkeringen ten behoeve van extra ondersteuning voor toezicht op en handhaving van de energiebesparingsplicht
-
-Gelet op [artikel 3, eerste lid, van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **additionele capaciteit:** de eigen capaciteit van een omgevingsdienst die wordt ingezet in aanvulling op de toezichts- en handhavingscapaciteit die reeds is ingezet en gepland met middelen van gemeenten en provincies;
+- *additionele capaciteit:* de eigen capaciteit van een omgevingsdienst die wordt ingezet in aanvulling op de toezichts- en handhavingscapaciteit die reeds is ingezet en gepland met middelen van gemeenten en provincies;
 
-- **energiebesparingsplicht:** de energiebesparingsplicht, bedoeld in [artikel 5.15 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) en [artikel 3.84 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84);
+- *energiebesparingsplicht:* de energiebesparingsplicht, bedoeld in [artikel 5.15 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15) en [artikel 3.84 van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84);
 
-- **EU ETS-deelnemer:** bedrijf of instelling waarop [artikel 16.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5) van toepassing is;
+- *EU ETS-deelnemer:* bedrijf of instelling waarop [artikel 16.5 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=16.5) van toepassing is;
 
-- **fte:** fulltime-equivalent, de rekeneenheid voor de omvang van een baan of voor de totale personeelssterkte, waarbij één fte gelijk staat aan een werkweek van 36 uur;
+- *fte:* fulltime-equivalent, de rekeneenheid voor de omvang van een baan of voor de totale personeelssterkte, waarbij één fte gelijk staat aan een werkweek van 36 uur;
 
-- **informatieplicht:** de verplichting tot het verstrekken van gegevens en bescheiden als bedoeld in [artikel 5.15a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a) en [artikel 3.84a van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84a);
+- *informatieplicht:* de verplichting tot het verstrekken van gegevens en bescheiden als bedoeld in [artikel 5.15a van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15a) en [artikel 3.84a van het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.84a);
 
-- **kwaliteitscriteria VTH:** de kwaliteitscriteria voor vergunningverlening, toezicht en handhaving, bedoeld in Kwaliteitscriteria 2.2 zoals vastgesteld door het Interprovinciaal Overleg en de Vereniging van Nederlandse Gemeenten;
+- *kwaliteitscriteria VTH:* de kwaliteitscriteria voor vergunningverlening, toezicht en handhaving, bedoeld in Kwaliteitscriteria 2.2 zoals vastgesteld door het Interprovinciaal Overleg en de Vereniging van Nederlandse Gemeenten;
 
-- **minister:** Minister van Klimaat en Groene Groei;
+- *minister:* Minister van Klimaat en Groene Groei;
 
-- **nulsituatie:** de stand van toezicht en handhaving op de energiebesparingsplicht op basis van het budget en een omschrijving van de reeds geplande capaciteit uitgedrukt in fte hiervoor over het gehele jaar 2025;
+- *nulsituatie:* de stand van toezicht en handhaving op de energiebesparingsplicht op basis van het budget en een omschrijving van de reeds geplande capaciteit uitgedrukt in fte hiervoor over het gehele jaar 2025;
 
-- **omgevingsdienst:** omgevingsdienst die is ingesteld als een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
+- *omgevingsdienst:* omgevingsdienst die is ingesteld als een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8);
 
-- **onderzoeksplicht:** de verplichting tot het verrichten van een onderzoek naar de maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b);
+- *onderzoeksplicht:* de verplichting tot het verrichten van een onderzoek naar de maatregelen ter verduurzaming van het energiegebruik als bedoeld in [artikel 5.15b van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=5.15b);
 
-- **toezichts- en handhavingsactiviteiten:** activiteiten in het kader van het toezicht op en de handhaving van de energiebesparingsplicht en informatieplicht als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2026-05-14&g=2026-05-14) bij deze regeling.
+- *toezichts- en handhavingsactiviteiten:* activiteiten in het kader van het toezicht op en de handhaving van de energiebesparingsplicht en informatieplicht als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2026-05-14&g=2026-05-14) bij deze regeling.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -50,7 +50,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 ##### Artikel 4. Hoogte, plafond en verdeling
 
-1. Het bedrag dat voor 2027 en 2028 voor de specifieke uitkering beschikbaar is gesteld is € 27,571 miljoen.
+1. Het bedrag dat voor 2027 en 2028 voor de specifieke uitkering beschikbaar is gesteld is € 27,571 miljoen.
 
 2. De minister verstrekt ten hoogste één specifieke uitkering per omgevingsdienst en de specifieke uitkering bedraagt ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2026-05-14&g=2026-05-14) bij deze regeling.
 
@@ -58,7 +58,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 4. De bevoorschotting en uitbetaling van de specifieke uitkering aan een omgevingsdienst geschiedt in 2027 en 2028 jaarlijks en bedraagt voor het desbetreffende jaar ten hoogste het bedrag opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=2&z=2026-05-14&g=2026-05-14) bij deze regeling.
 
-5. De bevoorschotting en uitbetaling voor het jaar 2027 geschiedt enkel indien een omgevingsdienst een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2026-05-14&g=2026-05-14) heeft ingediend vóór 2 oktober 2026.
+5. De bevoorschotting en uitbetaling voor het jaar 2027 geschiedt enkel indien een omgevingsdienst een aanvraag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=5&z=2026-05-14&g=2026-05-14) heeft ingediend vóór 2 oktober 2026.
 
 6. De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien de omgevingsdienst die de kosten heeft gemaakt, omzetbelasting niet in aftrek kan brengen.
 
@@ -66,7 +66,7 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 1. Een specifieke uitkering wordt op aanvraag aan een omgevingsdienst verstrekt.
 
-2. Een aanvraag voor een specifieke uitkering wordt ingediend in de periode van 3 augustus 2026 tot en met 2 oktober 2026.
+2. Een aanvraag voor een specifieke uitkering wordt ingediend in de periode van 3 augustus 2026 tot en met 2 oktober 2026.
 
 3. Een omgevingsdienst verklaart met het doen van de aanvraag dat de aanvraag is afgestemd met het dagelijks bestuur van de omgevingsdienst.
 
@@ -108,45 +108,45 @@ De minister kan op aanvraag aan een omgevingsdienst een specifieke uitkering ver
 
 4. De omgevingsdienst draagt er zorg voor dat de activiteiten, bedoeld in [bijlage 1, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14), uitsluitend door werknemers in dienst bij een omgevingsdienst worden uitgevoerd.
 
-5. De omgevingsdienst draagt er zorg voor dat de in het projectplan opgenomen activiteiten uiterlijk op 31 december 2028 zijn afgerond.
+5. De omgevingsdienst draagt er zorg voor dat de in het projectplan opgenomen activiteiten uiterlijk op 31 december 2028 zijn afgerond.
 
 ##### Artikel 7. Monitoring
 
-1. De omgevingsdienst rapporteert uiterlijk op 13 augustus 2027, 11 februari 2028, 11 augustus 2028 en 9 februari 2029 aan de minister over de voortgang van de in het projectplan opgenomen activiteiten.
+1. De omgevingsdienst rapporteert uiterlijk op 13 augustus 2027, 11 februari 2028, 11 augustus 2028 en 9 februari 2029 aan de minister over de voortgang van de in het projectplan opgenomen activiteiten.
 
 2. De in het eerste lid genoemde rapportage omvat in ieder geval:
 
 - a. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14), onderdeel A, genoemde activiteiten, onderverdeeld naar:
 
-  - 1°. informatieplichtige bedrijven;
+   - 1°. informatieplichtige bedrijven;
 
-  - 2°. onderzoeksplichtige (niet ETS) bedrijven; en
+   - 2°. onderzoeksplichtige (niet ETS) bedrijven; en
 
-  - 3°. EU ETS-deelnemers.
+   - 3°. EU ETS-deelnemers.
 
 - b. het aantal uitgevoerde hercontroles op de energiebesparingsplicht onderverdeeld naar het aantal bedrijven per jaar, onderverdeeld naar:
 
-  - 1°. informatieplichtige bedrijven;
+   - 1°. informatieplichtige bedrijven;
 
-  - 2°. onderzoeksplichtige (niet ETS) bedrijven; en
+   - 2°. onderzoeksplichtige (niet ETS) bedrijven; en
 
-  - 3°. EU ETS-deelnemers.
+   - 3°. EU ETS-deelnemers.
 
 - c. het aantal geconstateerde overtredingen onderverdeeld in:
 
-  - 1°. gebouwmaatregelen;
+   - 1°. gebouwmaatregelen;
 
-  - 2°. procesmaatregelen; en
+   - 2°. procesmaatregelen; en
 
-  - 3°. faciliteitmaatregelen.
+   - 3°. faciliteitmaatregelen.
 
 - d. de besteding van de specifieke uitkering, waarbij wordt vermeld:
 
-  - 1°. de totale omvang van de besteding;
+   - 1°. de totale omvang van de besteding;
 
-  - 2°. het percentage dat is besteed aan de activiteiten, bedoeld in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14); en
+   - 2°. het percentage dat is besteed aan de activiteiten, bedoeld in [bijlage 1, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14); en
 
-  - 3°. het percentage dat is besteed aan de activiteiten, bedoeld in [bijlage 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14).
+   - 3°. het percentage dat is besteed aan de activiteiten, bedoeld in [bijlage 1, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&bijlage=1&z=2026-05-14&g=2026-05-14).
 
 - e. het aantal nog te bezoeken bedrijven op basis van het projectplan.
 
@@ -186,99 +186,12 @@ De minister stelt de specifieke uitkering overeenkomstig de verlening vast, tenz
 
 ##### Artikel 12. Wijziging van de Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=12&z=2026-05-14&g=2026-05-14), dat in werking treedt per 1 januari 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=12&z=2026-05-14&g=2026-05-14), dat in werking treedt per 1 januari 2024.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering additionele capaciteit voor toezicht en handhaving energiebesparing.
-
-## Bijlage 1. Activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=3&z=2026-05-14&g=2026-05-14)
-
-### A. Activiteiten die zien op toezicht en handhaving op de energiebesparings- en informatieplicht
-
-### B. Stimulerend toezicht
-
-## Bijlage 2. Bedragen per omgevingsdienst als bedoeld in [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=4&z=2024-01-01&g=2024-01-01)
-
-|   | 2022 | 2023 | 2024 | 2025 | 2026 | Totaal |
-| --- | --- | --- | --- | --- | --- | --- |
-| **Nederland** | € 10.732.277 | € 12.858.378 | € 12.849.329 | € 8.849.329 | € 8.849.329 | € 54.138.642 |
-| **Omgevingsdienst (indeling 2022) Achterhoek** | € 254.870 | € 269.461 | € 269.209 | € 247.068 | € 247.068 | € 1.287.677 |
-| **Omgevingsdienst (indeling 2022) Brabant Noord** | € 427.969 | € 477.790 | € 477.393 | € 388.832 | € 388.832 | € 2.160.815 |
-| **Omgevingsdienst (indeling 2022) DCMR Milieudienst Rijnmond** | € 1.081.386 | € 1.604.329 | € 1.603.742 | € 574.221 | € 574.221 | € 5.437.900 |
-| **Omgevingsdienst (indeling 2022) De Vallei** | € 174.577 | € 180.735 | € 180.558 | € 173.178 | € 173.178 | € 882.226 |
-| **Omgevingsdienst (indeling 2022) Flevoland & Gooi en Vechtstreek** | € 338.668 | € 363.560 | € 363.230 | € 322.640 | € 322.640 | € 1.710.739 |
-| **Omgevingsdienst (indeling 2022) Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO)** | € 413.477 | € 477.636 | € 477.268 | € 359.187 | € 359.187 | € 2.086.755 |
-| **Omgevingsdienst (indeling 2022) Groningen** | € 466.400 | € 673.156 | € 672.883 | € 266.979 | € 266.979 | € 2.346.396 |
-| **Omgevingsdienst (indeling 2022) Haaglanden** | € 536.377 | € 580.490 | € 579.972 | € 506.171 | € 506.171 | € 2.709.182 |
-| **Omgevingsdienst (indeling 2022) IJmond** | € 232.733 | € 239.731 | € 239.493 | € 232.113 | € 232.113 | € 1.176.184 |
-| **Omgevingsdienst (indeling 2022) IJsselland** | € 326.955 | € 349.861 | € 349.541 | € 312.641 | € 312.641 | € 1.651.638 |
-| **Omgevingsdienst (indeling 2022) Midden- en West Brabant** | € 899.715 | € 1.145.459 | € 1.144.772 | € 672.447 | € 672.447 | € 4.534.840 |
-| **Omgevingsdienst (indeling 2022) Midden-Holland (totale uitkering)** | € 159.383 | € 165.322 | € 165.160 | € 157.780 | € 157.780 | € 805.426 |
-| **Omgevingsdienst (indeling 2022) Noord-Holland Noord** | € 322.854 | € 360.247 | € 359.947 | € 293.526 | € 293.526 | € 1.630.101 |
-| **Omgevingsdienst (indeling 2022) Noord-Veluwe** | € 99.109 | € 100.541 | € 100.438 | € 100.438 | € 100.438 | € 500.964 |
-| **Omgevingsdienst (indeling 2022) Noordzeekanaalgebied** | € 857.431 | € 1.057.106 | € 1.056.414 | € 676.341 | € 676.341 | € 4.323.633 |
-| **Omgevingsdienst (indeling 2022) Regio Arnhem** | € 311.249 | € 448.486 | € 448.303 | € 178.930 | € 178.930 | € 1.565.897 |
-| **Omgevingsdienst (indeling 2022) Regio Nijmegen** | € 152.446 | € 180.104 | € 179.973 | € 128.313 | € 128.313 | € 769.149 |
-| **Omgevingsdienst (indeling 2022) Regio Utrecht** | € 267.095 | € 281.863 | € 281.597 | € 259.457 | € 259.457 | € 1.349.470 |
-| **Omgevingsdienst (indeling 2022) Rivierenland** | € 182.746 | € 210.842 | € 210.680 | € 159.019 | € 159.019 | € 922.307 |
-| **Omgevingsdienst (indeling 2022) RUD Drenthe** | € 311.812 | € 370.866 | € 370.601 | € 259.900 | € 259.900 | € 1.573.079 |
-| **Omgevingsdienst (indeling 2022) RUD Limburg-Noord** | € 413.865 | € 456.209 | € 455.819 | € 382.018 | € 382.018 | € 2.089.929 |
-| **Omgevingsdienst (indeling 2022) RUD Utrecht** | € 377.365 | € 419.182 | € 418.829 | € 345.028 | € 345.028 | € 1.905.433 |
-| **Omgevingsdienst (indeling 2022) RUD Zeeland** | € 263.893 | € 311.345 | € 311.117 | € 222.556 | € 222.556 | € 1.331.467 |
-| **Omgevingsdienst (indeling 2022) RUD Zuid-Limburg** | € 385.427 | € 516.461 | € 516.193 | € 261.581 | € 261.581 | € 1.941.244 |
-| **Omgevingsdienst (indeling 2022) Twente** | € 406.032 | € 466.446 | € 466.083 | € 355.382 | € 355.382 | € 2.049.325 |
-| **Omgevingsdienst (indeling 2022) Veluwe IJssel** | € 130.328 | € 139.484 | € 139.356 | € 124.596 | € 124.596 | € 658.360 |
-| **Omgevingsdienst (indeling 2022) West-Holland** | € 207.531 | € 219.620 | € 219.414 | € 200.964 | € 200.964 | € 1.048.494 |
-| **Omgevingsdienst (indeling 2022) Zuid-Holland Zuid** | € 237.257 | € 269.777 | € 269.562 | € 210.521 | € 210.521 | € 1.197.639 |
-| **Omgevingsdienst (indeling 2022) Zuidoost-Brabant** | € 493.324 | € 522.269 | € 521.781 | € 477.500 | € 477.500 | € 2.492.375 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Stimulerend toezicht: het aansporen en motiveren van bedrijven of instellingen om energiebesparende maatregelen te treffen, waarbij de nadruk niet ligt op regulier toezicht en handhaving.
-
-### C. Overige activiteiten, waaronder:
-
-C1. Het verbeteren van het inzicht in de doelgroep op andere wijze dan via aanschrijvingen.
-
-C2. Opleiding en training van toezichthouders op het gebied van energiebesparing via (externe) cursussen en trainingen.
-
-C3. Overheadkosten: kosten voor het inrichten van de monitoringssystemen, de aanschaf van apparatuur ter ondersteuning van het toezicht en periodieke rapportage, alsmede management- en wervingskosten.
-
-## Bijlage 2. Bedragen per omgevingsdienst als bedoeld in [artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046881&artikel=4&z=2026-05-14&g=2026-05-14)
-
-|   | 2027 | 2028 | Totaal |
-| --- | --- | --- | --- |
-| **Nederland** | € 13.499.878 | € 13.499.878 | € 26.999.757 |
-| **Omgevingsdienst Achterhoek** | € 321.092 | € 321.092 | € 642.184 |
-| **Omgevingsdienst Brabant Noord** | € 538.815 | € 538.815 | € 1.077.630 |
-| **Omgevingsdienst DCMR** | € 1.355.981 | € 1.355.981 | € 2.711.962 |
-| **Omgevingsdienst de Vallei** | € 219.990 | € 219.990 | € 439.980 |
-| **Omgevingsdienst Flevoland & Gooi en Vechtstreek** | € 426.586 | € 426.586 | € 853.172 |
-| **Omgevingsdienst Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO)** | € 520.348 | € 520.348 | € 1.040.696 |
-| **Omgevingsdienst Groene Metropool** | € 582.261 | € 582.261 | € 1.164.522 |
-| **Omgevingsdienst Groningen** | € 585.092 | € 585.092 | € 1.170.184 |
-| **Omgevingsdienst Haaglanden** | € 675.555 | € 675.555 | € 1.351.110 |
-| **Omgevingsdienst IJmond** | € 293.290 | € 293.290 | € 586.580 |
-| **Omgevingsdienst IJsselland** | € 411.848 | € 411.848 | € 823.696 |
-| **Omgevingsdienst Midden- en West-Brabant** | € 1.130.796 | € 1.130.796 | € 2.261.592 |
-| **Omgevingsdienst Midden-Holland** | € 200.839 | € 200.839 | € 401.678 |
-| **Omgevingsdienst Noord-Holland Noord** | € 406.478 | € 406.478 | € 812.956 |
-| **Omgevingsdienst Noordzeekanaalgebied** | € 1.078.130 | € 1.078.130 | € 2.156.260 |
-| **Omgevingsdienst Rivierenland** | € 229.984 | € 229.984 | € 459.968 |
-| **Omgevingsdienst Drenthe** | € 392.259 | € 392.259 | € 784.518 |
-| **Omgevingsdienst Noord- en Midden-Limburg** | € 521.140 | € 521.140 | € 1.042.280 |
-| **Omgevingsdienst RUD Zeeland** | € 332.011 | € 332.011 | € 664.022 |
-| **Omgevingsdienst Zuid-Limburg** | € 484.064 | € 484.064 | € 968.128 |
-| **Omgevingsdienst Utrecht** | € 811.635 | € 811.635 | € 1.623.270 |
-| **Omgevingsdienst Twente** | € 511.015 | € 511.015 | € 1.022.030 |
-| **Omgevingsdienst Veluwe** | € 289.087 | € 289.087 | € 578.174 |
-| **Omgevingsdienst West-Holland** | € 261.450 | € 261.450 | € 522.900 |
-| **Omgevingsdienst Zuid-Holland Zuid** | € 298.640 | € 298.640 | € 597.280 |
-| **Omgevingsdienst Zuidoost-Brabant** | € 621.492 | € 621.492 | € 1.242.984 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

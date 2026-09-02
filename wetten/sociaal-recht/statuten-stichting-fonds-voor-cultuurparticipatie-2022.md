@@ -1,39 +1,17 @@
 ---
 title: "Statutenwijziging 2022 Stichting Fonds voor Cultuurparticipatie"
+citeertitel: "Statuten Stichting Fonds voor Cultuurparticipatie 2022"
 identifier: "BWBR0046706"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-05-25"
-last_updated: "2022-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046706"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16369103"
-version_id: "28648782"
-internal_id: "C40425821"
-label_id: "16293614"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046706/2022-05-25/0"
-intitule_bron: "Stcrt.2022-13896"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-13"
-intitule_published: "2022-05-25"
-intitule_in_force: "2022-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-13896"
-original_signed_date: "2022-05-13"
-original_published_date: "2022-05-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-13896"
-entry_into_force_date: "2022-05-25"
-jci_1_3: "jci1.3:c:BWBR0046706&z=2022-05-25&g=2022-05-25"
-jci_1_0: "1.0:c:BWBR0046706&g=2022-05-25"
-citeertitel_status: "redactioneel"
-short_title: "Statuten Stichting Fonds voor Cultuurparticipatie 2022"
-signed_date: "2022-05-13"
-entry_into_force: "2022-05-25"
+publicatiedatum: 2022-05-25
+laatste_update: 2022-05-25
+status: geldig
+toestand: 2022-05-25
+bron: "https://wetten.overheid.nl/BWBR0046706"
+opgehaald: 2026-09-02
 ---
+
 # Statutenwijziging 2022 Stichting Fonds voor Cultuurparticipatie
 
 ### Statuten.
@@ -43,6 +21,16 @@ entry_into_force: "2022-05-25"
 ### Artikel 1
 
 In de statuten wordt verstaan onder:
+
+- a. *stichting:* Stichting Fonds voor Cultuurparticipatie;
+
+- b. *bestuur:* het bestuur van de stichting;
+
+- c. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
+
+- d. *raad van toezicht:* de raad van toezicht van de stichting;
+
+- e. *schriftelijk:* bij brief, telefax of e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen.
 
 ### Naam en zetel.
 
@@ -72,9 +60,23 @@ In de statuten wordt verstaan onder:
 
 4.1. Het vermogen van de stichting wordt gevormd door:
 
+- a. subsidies;
+
+- b. bijdragen van instellingen en particulieren;
+
+- c. hetgeen wordt verkregen door erfstellingen en legaten, met dien verstande dat erfstellingen niet anders kunnen worden aanvaard dan onder het voorrecht van boedelbeschrijving;
+
+- d. andere baten.
+
 4.2. De stichting houdt niet meer vermogen aan dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van haar doelstelling.
 
 4.3. Onder vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden als bedoeld in artikel 4.2 wordt begrepen:
+
+- a. vermogen of bestanddelen daarvan die krachtens uiterste wilsbeschikking of schenking door de stichting zijn verkregen, en die op grond van aan die uiterste wilsbeschikking of schenking verbonden voorwaarden, al dan niet in reële termen, in stand moeten worden gehouden;
+
+- b. vermogensbestanddelen voor zover de instandhouding daarvan voortvloeit uit de doelstelling van de stichting, en
+
+- c. activa en voor de voorziene aanschaf van activa aangehouden vermogensbestanddelen, voor zover de stichting die activa redelijkerwijs nodig heeft ten behoeve van haar doelstelling.
 
 4.4. De stichting mag ter financiering van haar doelstelling werkzaamheden verrichten of diensten verlenen tegen commerciële tarieven met het oogmerk hiermee, ter financiering van de activiteiten die erop gericht zijn om haar doelstelling te verwezenlijken of te bevorderen, een positief resultaat te behalen.
 
@@ -94,6 +96,22 @@ In de statuten wordt verstaan onder:
 
 5.6. Een bestuurder defungeert:
 
+- a. door zijn overlijden;
+
+- b. doordat hij failliet wordt verklaard of wel doordat de schuldsaneringsregeling natuurlijke personen op hem van toepassing wordt verklaard;
+
+- c. door zijn ondercuratelestelling of doordat hij anderszins het vrije beheer over zijn vermogen verliest;
+
+- d. door zijn aftreden;
+
+- e. door zijn ontslag, verleend door de rechtbank in de gevallen in de wet voorzien;
+
+- f. door zijn ontslag, verleend door de Minister;
+
+- g. door het aanvaarden van een benoeming tot lid van de raad van toezicht;
+
+- h. door het aanvaarden van een benoeming tot directeur dan wel bestuurder of tot lid van een toezichthoudend orgaan van een instelling op het gebied van cultuurparticipatie of cultuureducatie, voor welke benoeming door de raad van toezicht geen ontheffing is verleend.
+
 5.7. De raad van toezicht stelt de bezoldiging en verdere arbeidsvoorwaarden van de bestuurders vast.
 
 ### Bestuur: taak en bevoegdheden.
@@ -109,6 +127,14 @@ In de statuten wordt verstaan onder:
 6.4. Bestuurders doen aan de raad van toezicht opgave van hun nevenfuncties, waaronder bestuursfuncties, commissariaten en adviseurschappen. Een bestuurder dient melding te doen van zakelijke banden tussen de stichting en een andere rechtspersoon of onderneming waarbij de betreffende bestuurder, direct dan wel indirect, persoonlijk is betrokken.
 
 6.5. Het bestuur stelt de volgende plannen op, welke plannen de goedkeuring van de raad van toezicht behoeven, en herziet deze zonodig:
+
+- a. een jaarlijkse begroting met toelichting;
+
+- b. een voortschrijdend meerjaren beleidsplan;
+
+- c. een adequaat planning- en controlesysteem;
+
+- d. eventuele andere plannen als van tijd tot tijd door de raad van toezicht te bepalen.
 
 6.6. In geval van ontstentenis of belet van een of meer bestuurders, berust het bestuur tijdelijk bij de overblijvende bestuurders. In geval van ontstentenis of belet van alle bestuurders of de enig bestuurder, berust het bestuur tijdelijk bij een of meer door de raad van toezicht – al dan niet uit zijn midden – aan te wijzen personen.
 
@@ -146,6 +172,26 @@ In de statuten wordt verstaan onder:
 
 10.1. Onverminderd het elders in deze statuten bepaalde, zijn aan de goedkeuring van de raad van toezicht onderworpen de besluiten van het bestuur omtrent:
 
+- a. het verkrijgen, vervreemden, bezwaren, huren, verhuren en op andere wijze in gebruik of genot verkrijgen en geven van registergoederen;
+
+- b. de strategie van de stichting, die moet leiden tot realisatie van de statutaire doelstellingen;
+
+- c. de financiering van de strategie van de stichting;
+
+- d. het ter leen verstrekken van gelden, alsmede het ter leen opnemen van gelden waaronder niet is begrepen het gebruik maken van een aan de stichting verleend bankkrediet;
+
+- e. duurzame rechtstreekse of middellijke samenwerking met een andere organisatie of instelling en het verbreken van zodanige samenwerking;
+
+- f. het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidsstelling voor een schuld van een derde verbindt;
+
+- g. het optreden in rechte, met uitzondering van het nemen van die rechtsmaatregelen die geen uitstel kunnen lijden;
+
+- h. het vaststellen van de hoofdlijnen van het arbeidsvoorwaardenbeleid voor de medewerkers;
+
+- i. het sluiten en wijzigen van arbeidsovereenkomsten waarbij een beloning wordt toegekend boven die, welke uit bestaande regelingen voortvloeien;
+
+- j. het treffen van pensioenregelingen en het toekennen van pensioenrechten boven die, welke uit bestaande regelingen voortvloeien.
+
 10.2. De raad van toezicht kan bepalen dat een in artikel 10.1 bedoeld besluit niet aan zijn goedkeuring is onderworpen, indien het daarmee gemoeide belang een door de raad van toezicht te bepalen en schriftelijk aan het bestuur op te geven waarde niet te boven gaat.
 
 Evenmin is een besluit aan de goedkeuring onderworpen wanneer dit voortvloeit uit een van de goedgekeurde plannen genoemd in artikel 6.5.
@@ -182,6 +228,22 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 
 12.9. Een lid van de raad van toezicht defungeert:
 
+- a. door zijn overlijden;
+
+- b. doordat hij failliet wordt verklaard dan wel doordat de schuldsaneringsregeling natuurlijke personen op hem van toepassing wordt verklaard;
+
+- c. door zijn ondercuratelestelling of indien hij anderszins het vrije beheer over zijn vermogen verliest;
+
+- d. door zijn aftreden, al dan niet volgens het in artikel 12.8 bedoelde rooster;
+
+- e. door zijn ontslag, verleend door de Minister;
+
+- f. door het aanvaarden van een benoeming tot bestuurder van de stichting;
+
+- g. doordat hij werknemer wordt van de stichting;
+
+- h. door het aanvaarden van een benoeming tot directeur dan wel bestuurder of tot lid van een toezichthoudend orgaan van een instelling die eenzelfde of een gelijksoortig doel heeft als de stichting, voor welke benoeming door de Minister geen ontheffing is verleend.
+
 ### Raad van toezicht: taak en bevoegdheden.
 
 ### Artikel 13
@@ -193,6 +255,10 @@ Het bestuur beslist over het verlenen van bijdragen met inachtneming van een doo
 13.3. De raad van toezicht kan zich voor rekening van de stichting in de uitoefening van zijn taak doen bijstaan door een of meer deskundigen.
 
 13.4. Leden van de raad van toezicht ontvangen voor de door hen in die hoedanigheid voor de stichting verrichte werkzaamheden geen beloning, middellijk noch onmiddellijk. Onder beloning wordt niet verstaan:
+
+- a. een redelijke, niet bovenmatige vergoeding voor de ten behoeve van de stichting gemaakte kosten;
+
+- b. een niet bovenmatig vacatiegeld.
 
 13.5. De leden van de raad van toezicht doen opgave aan de raad van toezicht van hun nevenfuncties, waaronder, maar niet beperkt tot, bestuursfuncties, commissariaten en adviseurschappen. Indien en voor zover hiervan sprake is, dient een lid van de raad van toezicht melding te doen van zakelijke banden tussen de stichting en een andere rechtspersoon of onderneming waarbij het betreffende lid, direct dan wel indirect, persoonlijk is betrokken.
 
@@ -223,6 +289,14 @@ In geval van ontstentenis of belet van alle leden van de raad van toezicht wordt
 15.2. Het bestuur is verplicht van de vermogenstoestand van de stichting en van alles betreffende de werkzaamheden van de stichting, naar de eisen die voortvloeien uit deze werkzaamheden, op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat daaruit te allen tijde de rechten en verplichtingen van de stichting kunnen worden gekend.
 
 Uit de administratie dient tevens duidelijk te blijken:
+
+- a. de aard en omvang van de (eventuele) aan de afzonderlijke bestuurders en leden van de raad van toezicht toekomende onkostenvergoedingen en vacatiegelden;
+
+- b. de aard en omvang van de kosten die door de stichting zijn gemaakt ten behoeve van het beheer van de stichting, alsmede de aard en omvang van de andere uitgaven van de stichting;
+
+- c. de aard en omvang van de inkomsten van de stichting, en
+
+- d. de aard en omvang van het vermogen van de stichting.
 
 15.3. Het bestuur is verplicht jaarlijks binnen zes maanden, of zoveel eerder als op grond van andere verplichtingen van de stichting nodig is, na afloop van het boekjaar een jaarrekening op te maken en legt deze over aan de raad van toezicht. Binnen deze termijn legt het bestuur ook een bestuursverslag, de verklaring van de registeraccountant houdende bevindingen, alsmede het door de accountant opgestelde accountantsverslag, over aan de raad van toezicht.
 

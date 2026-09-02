@@ -1,43 +1,17 @@
 ---
 title: "Controlevoorschriften toeslagenwet 2022"
 identifier: "BWBR0047207"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-10-01"
-last_updated: "2022-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047207"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16499643"
-version_id: "28914402"
-internal_id: "C40938231"
-label_id: "16421204"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047207/2022-10-01/0"
-intitule_bron: "Stcrt.2022-25510"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-20"
-intitule_published: "2022-09-30"
-intitule_in_force: "2022-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-25510"
-original_signed_date: "2022-09-20"
-original_published_date: "2022-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-25510"
-entry_into_force_date: "2022-10-01"
-jci_1_3: "jci1.3:c:BWBR0047207&z=2022-10-01&g=2022-10-01"
-jci_1_0: "1.0:c:BWBR0047207&g=2022-10-01"
-citeertitel_status: "officieel"
-signed_date: "2022-09-20"
-entry_into_force: "2022-10-01"
+publicatiedatum: 2022-10-01
+laatste_update: 2022-10-01
+status: geldig
+toestand: 2022-10-01
+bron: "https://wetten.overheid.nl/BWBR0047207"
+opgehaald: 2026-09-02
 ---
+
 # Controlevoorschriften toeslagenwet 2022
-
-Gelet op [artikel 30 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=30);
-
-Besluit:
 
 ### I. Algemeen
 
@@ -94,5 +68,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit kan worden aangehaald als: Controlevoorschriften toeslagenwet 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

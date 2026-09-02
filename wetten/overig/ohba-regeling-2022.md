@@ -1,76 +1,50 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 februari 2022, nummer 3848377, houdende vaststelling van de Regeling onderwijshuisvestingsbudgetten asielzoekers 2022 (OHBA-regeling 2022)"
+citeertitel: "OHBA-regeling 2022"
 identifier: "BWBR0046410"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-06"
-last_updated: "2025-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046410"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16294303"
-version_id: "28471322"
-internal_id: "C40172361"
-label_id: "16220314"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046410/2025-02-06/0"
-intitule_bron: "Stcrt.2022-5642"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-02-25"
-intitule_published: "2022-03-10"
-intitule_in_force: "2022-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-5642"
-original_signed_date: "2022-02-25"
-original_published_date: "2022-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-5642"
-entry_into_force_date: "2022-04-01"
-jci_1_3: "jci1.3:c:BWBR0046410&z=2025-02-06&g=2025-02-06"
-jci_1_0: "1.0:c:BWBR0046410&g=2025-02-06"
-citeertitel_status: "officieel"
-short_title: "OHBA-regeling 2022"
-signed_date: "2022-02-25"
-entry_into_force: "2022-04-01"
+publicatiedatum: 2022-04-01
+laatste_update: 2025-02-06
+status: geldig
+toestand: 2025-02-06
+bron: "https://wetten.overheid.nl/BWBR0046410"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 februari 2022, nummer 3848377, houdende vaststelling van de Regeling onderwijshuisvestingsbudgetten asielzoekers 2022 (OHBA-regeling 2022)
-
-Gelet op [artikel 5a, tweede lid, van het Faciliteitenbesluit opvangcentra](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- –. **het besluit:** het [Faciliteitenbesluit opvangcentra](https://wetten.overheid.nl/jci1.3:c:BWBR0006849);
+- – *het besluit:* het [Faciliteitenbesluit opvangcentra](https://wetten.overheid.nl/jci1.3:c:BWBR0006849);
 
-- –. **het orgaan:** het Centraal Orgaan opvang asielzoekers;
+- – *het orgaan:* het Centraal Orgaan opvang asielzoekers;
 
-- –. **de gemeente:** een gemeente waarmee het orgaan een bestuursovereenkomst heeft afgesloten ten behoeve van de vestiging van een opvangcentrum voor asielzoekers;
+- – *de gemeente:* een gemeente waarmee het orgaan een bestuursovereenkomst heeft afgesloten ten behoeve van de vestiging van een opvangcentrum voor asielzoekers;
 
-- –. **de bestuursovereenkomst:** een tussen het orgaan en de gemeente gesloten overeenkomst ten behoeve van de vestiging van een opvangcentrum voor asielzoekers;
+- – *de bestuursovereenkomst:* een tussen het orgaan en de gemeente gesloten overeenkomst ten behoeve van de vestiging van een opvangcentrum voor asielzoekers;
 
-- –. **de beschikking:** de beschikking van het orgaan op de aanvraag van de gemeente ten behoeve van de voorzieningen voor basisonderwijs aan asielzoekers;
+- – *de beschikking:* de beschikking van het orgaan op de aanvraag van de gemeente ten behoeve van de voorzieningen voor basisonderwijs aan asielzoekers;
 
-- –. **de uitkering:** de uitkering bestaande uit de in [artikel 5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a) bedoelde bijdragen aan een gemeente ten behoeve van de voorzieningen voor basisonderwijs aan asielzoekers;
+- – *de uitkering:* de uitkering bestaande uit de in [artikel 5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a) bedoelde bijdragen aan een gemeente ten behoeve van de voorzieningen voor basisonderwijs aan asielzoekers;
 
-- –. **de bijdrage:** de afzonderlijke bijdragen, bedoeld in het eerste lid, onderdelen a tot en met e, van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a) die tezamen de uitkering vormen;
+- – *de bijdrage:* de afzonderlijke bijdragen, bedoeld in het eerste lid, onderdelen a tot en met e, van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a) die tezamen de uitkering vormen;
 
-- –. **de normbedragen:** de normbedragen voor de bijdragen, bedoeld in het eerste lid, onderdelen a tot en met e, van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a);
+- – *de normbedragen:* de normbedragen voor de bijdragen, bedoeld in het eerste lid, onderdelen a tot en met e, van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a);
 
-- –. **eerste aanvraag:** de eerste aanvraag van de gemeente voor de uitkering;
+- – *eerste aanvraag:* de eerste aanvraag van de gemeente voor de uitkering;
 
-- –. **uitbreiding:** een aanvraag van de gemeente voor een extra uitkering ten behoeve van basisonderwijs in verband met een toename van het aantal te onderwijzen kinderen;
+- – *uitbreiding:* een aanvraag van de gemeente voor een extra uitkering ten behoeve van basisonderwijs in verband met een toename van het aantal te onderwijzen kinderen;
 
-- –. **verlenging:** een aanvraag van een gemeente voor een uitkering ten behoeve van basisonderwijs in verband met een verlenging van de bestuursovereenkomst;
+- – *verlenging:* een aanvraag van een gemeente voor een uitkering ten behoeve van basisonderwijs in verband met een verlenging van de bestuursovereenkomst;
 
-- –. **opvolgende aanvraag:** een nieuwe aanvraag van een gemeente die volgt na het verstrijken van de maximum looptijd van vijftien jaar waarvoor een eerste of verlengingsaanvraag kon worden ingediend, de opvolgende aanvraag wordt behandeld als een eerste aanvraag;
+- – *opvolgende aanvraag:* een nieuwe aanvraag van een gemeente die volgt na het verstrijken van de maximum looptijd van vijftien jaar waarvoor een eerste of verlengingsaanvraag kon worden ingediend, de opvolgende aanvraag wordt behandeld als een eerste aanvraag;
 
-- –. **peilmoment:** het moment dat bepalend is voor het vaststellen van het normbedrag waarmee de hoogte van de uitkering wordt berekend;
+- – *peilmoment:* het moment dat bepalend is voor het vaststellen van het normbedrag waarmee de hoogte van de uitkering wordt berekend;
 
-- –. **leerlingaantal:** het aantal leerlingen dat basisonderwijs volgt en dat verblijft in een opvangcentrum voor asielzoekers.
+- – *leerlingaantal:* het aantal leerlingen dat basisonderwijs volgt en dat verblijft in een opvangcentrum voor asielzoekers.
 
 ##### Artikel 2
 
@@ -126,13 +100,13 @@ In deze regeling wordt verstaan onder:
 
 5. Bij een uitbreiding gaat het om het extra aantal leerlingen, te weten het verschil tussen het aantal leerlingen op het peilmoment en het totaal aantal uit de eerdere beschikking of beschikkingen.
 
-6. De peildata voor vaststelling van het aantal leerlingen bij een uitbreiding met zes of meer leerlingen zijn 1 januari, 1 april, 1 juli en 1 oktober van ieder jaar. In geval van een uitbreiding met vijf of minder leerlingen is het peilmoment 1 oktober van elk jaar.
+6. De peildata voor vaststelling van het aantal leerlingen bij een uitbreiding met zes of meer leerlingen zijn 1 januari, 1 april, 1 juli en 1 oktober van ieder jaar. In geval van een uitbreiding met vijf of minder leerlingen is het peilmoment 1 oktober van elk jaar.
 
 ##### Artikel 6
 
 1. Het aantal vierkante meters waarop een bijdrage bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**M = 200 + (Lt * J)**
+*M = 200 + (Lt * J)*
 
 Waarbij:
 
@@ -144,7 +118,7 @@ J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wet
 
 2. Het aantal extra vierkante meters waarop een bijdrage bij een uitbreiding wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**N = Lu * J**
+*N = Lu * J*
 
 Waarbij:
 
@@ -156,7 +130,7 @@ J staat voor ruimtebehoefte per asielleerling bedoeld in [bijlage I](https://wet
 
 3. De waarde van het schoolgebouw waarop een bijdrage bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**O = P + (Q * M)**
+*O = P + (Q * M)*
 
 Waarbij:
 
@@ -170,7 +144,7 @@ M staat voor het aantal vierkante meters, bedoeld in het eerste lid.
 
 4. De waarde van het schoolgebouw waarop een bijdrage bij een uitbreiding wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**R = Q * N**
+*R = Q * N*
 
 Waarbij:
 
@@ -182,7 +156,7 @@ N staat voor het aantal extra vierkante meters, bedoeld in het tweede lid.
 
 5. De waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair waarop een bijdrage bij een eerste aanvraag of een opvolgende aanvraag wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**S = T + (U * (M –/– 200))**
+*S = T + (U * (M –/– 200))*
 
 Waarbij:
 
@@ -196,7 +170,7 @@ M staat voor het aantal vierkante meters, bedoeld in het eerste lid.
 
 6. De waarde van de eerste inrichting, het onderwijsleerpakket en het meubilair, waarop een bijdrage bij een uitbreiding wordt gebaseerd, wordt vastgesteld volgens de formule:
 
-**W = U * N**
+*W = U * N*
 
 Waarbij:
 
@@ -214,7 +188,7 @@ N staat voor het aantal extra vierkante meters, bedoeld in het tweede lid.
 
 2. De bijdrage voor het schoolgebouw bij een eerste aanvraag of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
-**Ae = %e * O**
+*Ae = %e * O*
 
 Waarbij:
 
@@ -226,7 +200,7 @@ O staat voor de waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](h
 
 3. De bijdrage voor het terrein bij een eerste aanvraag of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
-**Ate = %e * V * M**
+*Ate = %e * V * M*
 
 waarbij:
 
@@ -242,7 +216,7 @@ M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https:/
 
 5. Het bekostigingspercentage bij een verlenging wordt vastgesteld volgens de formule:
 
-**%v = F –/– G**
+*%v = F –/– G*
 
 waarbij:
 
@@ -254,7 +228,7 @@ G staat voor het bekostigingspercentage van de looptijd van de eerdere beschikki
 
 6. De bijdrage voor het schoolgebouw bij een verlenging wordt vastgesteld volgens de formule:
 
-**Av = %v * O**
+*Av = %v * O*
 
 waarbij:
 
@@ -266,7 +240,7 @@ O staat voor waarde van het schoolgebouw, bedoeld in [artikel 6, derde lid](http
 
 7. De bijdrage voor het terrein bij een verlenging wordt vastgesteld volgens de formule:
 
-**Atv = %v * V * M**
+*Atv = %v * V * M*
 
 waarbij:
 
@@ -280,7 +254,7 @@ M staat voor aantal vierkante meters, bedoeld in [artikel 6, eerste lid](https:/
 
 8. Het bekostigingspercentage bij een uitbreiding wordt vastgesteld volgens de formule:
 
-**%u = H –/– I**
+*%u = H –/– I*
 
 waarbij:
 
@@ -294,7 +268,7 @@ I staat voor het bekostigingspercentage van de op het peilmoment van de uitbreid
 
 9. De bijdrage voor het schoolgebouw bij uitbreiding wordt vastgesteld volgens de formule:
 
-**Au = %u * R**
+*Au = %u * R*
 
 waarbij:
 
@@ -306,7 +280,7 @@ R staat voor uitbreidingswaarde van het schoolgebouw, bedoeld in [artikel 6, vie
 
 10. De bijdrage voor het terrein bij een uitbreiding wordt vastgesteld volgens de formule:
 
-**Atu = %u * V * N**
+*Atu = %u * V * N*
 
 waarbij:
 
@@ -334,7 +308,7 @@ N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](h
 
 2. De bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
-**Ce = Lt * K * Y * 1,5**
+*Ce = Lt * K * Y * 1,5*
 
 waarbij:
 
@@ -348,7 +322,7 @@ Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overhe
 
 3. De bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie bij een uitbreiding wordt vastgesteld volgens de formule:
 
-**Cu = Lu * K * Y * 1,5**
+*Cu = Lu * K * Y * 1,5*
 
 waarbij:
 
@@ -366,7 +340,7 @@ Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overhe
 
 2. De bijdrage in de onroerendezaakbelastingen bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
-**De = M * X * Y**
+*De = M * X * Y*
 
 Waarbij:
 
@@ -380,7 +354,7 @@ Y staat voor de looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.ove
 
 3. De bijdrage in de onroerendezaakbelastingen bij een uitbreiding wordt vastgesteld volgens de formule:
 
-**Du = N * X * Y**
+*Du = N * X * Y*
 
 Waarbij:
 
@@ -398,10 +372,10 @@ Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overhe
 
 2. De bijdrage in de kosten van de verzekering bij een eerste aanvraag of een opvolgende aanvraag wordt vastgesteld volgens de formule:
 
-|   | **O + S** |   |
+|  | O + S |  |
 | --- | --- | --- |
-| **Ee = (** | ——— | **) * Z * Y** |
-|   | **1000** |   |
+| Ee = ( | ——— | ) * Z * Y |
+|  | 1000 |  |
 
 Waarbij:
 
@@ -417,10 +391,10 @@ Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overhe
 
 3. De bijdrage in de kosten van de verzekering bij een verlenging wordt vastgesteld volgens de formule:
 
-|   | **O** |   |
+|  | O |  |
 | --- | --- | --- |
-| **Ev = (** | ——— | **) * Z * Y** |
-|   | **1000** |   |
+| Ev = ( | ——— | ) * Z * Y |
+|  | 1000 |  |
 
 Waarbij:
 
@@ -434,10 +408,10 @@ Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overhe
 
 4. De bijdrage in de kosten van de verzekering bij een uitbreiding wordt vastgesteld volgens de formule:
 
-|   | **R + W** |   |
+|  | R + W |  |
 | --- | --- | --- |
-| **Eu = (** | ——— | **) * Z * Y** |
-|   | **1000** |   |
+| Eu = ( | ——— | ) * Z * Y |
+|  | 1000 |  |
 
 Waarbij:
 
@@ -461,74 +435,8 @@ Deze regeling wordt aangehaald als OHBA-regeling 2022.
 
 ##### Artikel 14
 
-1. Deze regeling treedt in werking met ingang van 1 april 2022 en werkt terug tot en met 1 januari 2021. Zij is van toepassing op eerste aanvragen, verlengingsaanvragen en opvolgende aanvragen waarbij de datum van inwerkingtreding van de bestuursovereenkomst, van de verlenging van de bestuursovereenkomst of de dag na de datum waarop de maximale looptijd van vijftien jaar wordt overschreden op of na 1 januari 2021 valt. Zij is tevens van toepassing op uitbreidingen waarbij de peildatum voor vaststelling van het aantal leerlingen op of na 1 januari 2021 ligt.
+1. Deze regeling treedt in werking met ingang van 1 april 2022 en werkt terug tot en met 1 januari 2021. Zij is van toepassing op eerste aanvragen, verlengingsaanvragen en opvolgende aanvragen waarbij de datum van inwerkingtreding van de bestuursovereenkomst, van de verlenging van de bestuursovereenkomst of de dag na de datum waarop de maximale looptijd van vijftien jaar wordt overschreden op of na 1 januari 2021 valt. Zij is tevens van toepassing op uitbreidingen waarbij de peildatum voor vaststelling van het aantal leerlingen op of na 1 januari 2021 ligt.
 
-2. Een op of na 1 januari 2021 reeds afgegeven beschikking kan gelet op de terugwerkende kracht op verzoek worden herzien. Reeds bij het orgaan bekende beschikkingen die vallen onder de werking van het eerste lid zullen actief door het orgaan worden herzien.
+2. Een op of na 1 januari 2021 reeds afgegeven beschikking kan gelet op de terugwerkende kracht op verzoek worden herzien. Reeds bij het orgaan bekende beschikkingen die vallen onder de werking van het eerste lid zullen actief door het orgaan worden herzien.
 
 3. Indien een bestuursovereenkomst waarop de [Regeling onderwijshuisvestingsbudgetten asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0009908) van toepassing is door de gemeente wordt beëindigd voordat de looptijd van de bestuursovereenkomst is verstreken, zal, indien binnen een jaar voor hetzelfde opvangcentrum een nieuwe bestuursovereenkomst in werking treedt en hiervoor een aanvraag wordt ingediend, deze aanvraag worden behandeld als een voortzetting van de eerdere aanvraag.
-
-## Bijlage I
-
-### Indexering
-
-### [Artikel 5a, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a)
-
-Jaar t + 1 staat voor jaar waarvoor het normbedrag wordt vastgesteld.
-
-### [Artikel 5a, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a)
-
-Jaar t + 1 staat voor jaar waarvoor het normbedrag wordt vastgesteld.
-
-### [Artikel 5a, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a)
-
-Indexering is het jaarlijks door de Minister van OCW in het bekostigingsstelsel opgenomen prijsindexcijfer.
-
-### Ruimtebehoefte per asielleerling
-
-De ruimtebehoefte per asielleerling wordt als volgt bepaald. De achterstandsscore asiel per leerling wordt bepaald volgens de volgende formule:1Bron: [www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020), tabel onder tabblad Toelichting, waarbij E komt te vervallen omdat de achterstandsscore asiel per leerling wordt bepaald.
-
-Achterstandsscore asiel = (C – D) – (F × (C – G))
-
-Waarbij:
-
-C staat voor landelijk gemiddelde onderwijsscore van alle leerlingen van alle basisscholen;
-
-D staat voor onderwijsscore van de leerling;
-
-F staat voor 12%;
-
-G staat voor landelijk gemiddelde onderwijsscore van alle leerlingen van alle basisscholen die behoren tot de 15% van alle leerlingen van alle basisscholen met de laagste onderwijsscore.
-
-De waarden van C en G uit de formule zijn landelijk gemiddelden en hebben in een jaar voor alle scholen dezelfde hoogte. Deze worden door het CBS bepaald. In 2020 was de waarde van C 535,36 en de waarde van G 529,54.2Bron: [www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020](https://www.cbs.nl/nl-nl/maatwerk/2021/05/achterstandsscores-per-school-2020), tabel onder tabblad Toelichting
-
-Nu alle asielleerlingen de gemiddelde onderwijsscore van de onderste 15% krijgen toegerekend, betekent dit dat bij het bepalen van de achterstandsscore asiel per leerling D gelijk is aan G.
-
-Vervolgens wordt de ruimtebehoefte per asielleerling bepaald volgens de volgende formule:3Modelverordening VNG (oktober 2020), Bijlage III, onder B.1.1.
-
-Ruimtebehoefte = 5,03 + (1,40 × achterstandsscore asiel × 7,17%)
-
-### Normbedragen voor de jaren 2022, 2023, 2024 en 2025
-
-### Percentages van het leerlingaantal per opvangmodaliteit:
-
-Het percentage van het leerlingaantal ten opzichte van de voor een nieuwe locatie in de bestuursovereenkomst afgesproken maximale bezetting wordt vastgesteld op 10% voor een regulier opvangcentrum en 15% voor een gezinslocatie.
-
-### Bekostigingspercentages voor het schoolgebouw en terrein
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Normbedragen voor de jaren 2021, 2022 en 2023
-
-### Percentages van het leerlingaantal per opvangmodaliteit:
-
-### Bekostigingspercentages voor het schoolgebouw en terrein
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-**Ruimtebehoefte per asielleerling**
-
-**Percentages van het leerlingaantal per opvangmodaliteit:**
-
-Het percentage van het leerlingaantal ten opzichte van de voor een nieuwe locatie in de bestuursovereenkomst afgesproken maximale bezetting wordt vastgesteld op 10% voor een regulier opvangcentrum en 15% voor een gezinslocatie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

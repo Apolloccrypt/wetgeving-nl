@@ -1,51 +1,25 @@
 ---
 title: "Instellingsbesluit Commissie van onderzoek LIMC"
 identifier: "BWBR0047128"
-country: "nl"
-rank: "archiefselectielijst"
-publication_date: "2022-09-10"
-last_updated: "2022-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047128"
+categorie: "Overig"
 soort: "ministeriele-regeling-archiefselectielijst"
-stam_id: "16476733"
-version_id: "28875222"
-internal_id: "C40880511"
-label_id: "16398614"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047128/2022-09-10/0"
-intitule_bron: "Stcrt.2022-23947"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-01"
-intitule_published: "2022-09-09"
-intitule_in_force: "2022-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-23947"
-original_signed_date: "2022-07-01"
-original_published_date: "2022-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-23947"
-entry_into_force_date: "2022-09-10"
-jci_1_3: "jci1.3:c:BWBR0047128&z=2022-09-10&g=2022-09-10"
-jci_1_0: "1.0:c:BWBR0047128&g=2022-09-10"
-citeertitel_status: "officieel"
-signed_date: "2022-07-01"
-entry_into_force: "2022-09-10"
+publicatiedatum: 2022-09-10
+laatste_update: 2022-09-10
+status: geldig
+toestand: 2022-09-10
+bron: "https://wetten.overheid.nl/BWBR0047128"
+opgehaald: 2026-09-02
 ---
+
 # Instellingsbesluit Commissie van onderzoek LIMC
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Defensie;
+- a. *minister:* Minister van Defensie;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=2&z=2022-09-10&g=2022-09-10).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047128&artikel=2&z=2022-09-10&g=2022-09-10).
 
 ##### Artikel 2. Instelling en taak
 
@@ -125,7 +99,7 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 1. Op de werkzaamheden van de voorzitter en de leden is het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279) van toepassing.
 
-2. Aan de voorzitter en leden wordt een vaste vergoeding per maand toegekend van € 4.259,57 waarbij de salarisschaal is vastgesteld op schaal 18 zoals opgenomen in de Collectieve Arbeidsovereenkomst Rijk en de arbeidsduurfactor op 15/36.
+2. Aan de voorzitter en leden wordt een vaste vergoeding per maand toegekend van € 4.259,57 waarbij de salarisschaal is vastgesteld op schaal 18 zoals opgenomen in de Collectieve Arbeidsovereenkomst Rijk en de arbeidsduurfactor op 15/36.
 
 ##### Artikel 10. Kosten van de onderzoekscommissie
 
@@ -157,10 +131,8 @@ De commissie wordt ingesteld voor de duur van het onderzoek.
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 april 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 april 2022.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek LIMC.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

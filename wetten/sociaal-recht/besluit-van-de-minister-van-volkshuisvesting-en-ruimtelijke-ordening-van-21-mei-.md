@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0052851"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 21 mei 2026, nr. 2026-0000336832, tot vaststelling van het uitkeringsplafond van de derde tranche van de Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven

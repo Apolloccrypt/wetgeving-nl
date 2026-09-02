@@ -1,46 +1,24 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken, de Minister van Defensie en de Staatssecretaris van Justitie en Veiligheid van 25 maart 2022, nr. Min-BuZa.2022.858, houdende de instelling van de Commissie van onderzoek naar de evacuatieoperatie vanuit Kaboel, die Nederland in de tweede helft van augustus 2021 uitvoerde nadat de Taliban de macht in Afghanistan had overgenomen (Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel)"
+citeertitel: "Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel"
 identifier: "BWBR0047091"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-01"
-last_updated: "2022-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047091"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16470003"
-version_id: "28857112"
-internal_id: "C40859131"
-label_id: "16392194"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047091/2022-09-01/0"
-intitule_bron: "Stcrt.2022-9005"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-25"
-intitule_published: "2022-08-31"
-intitule_in_force: "2022-08-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9005"
-original_signed_date: "2022-03-25"
-original_published_date: "2022-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9005"
-entry_into_force_date: "2022-09-01"
-jci_1_3: "jci1.3:c:BWBR0047091&z=2022-09-01&g=2022-09-01"
-jci_1_0: "1.0:c:BWBR0047091&g=2022-09-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel"
-signed_date: "2022-03-25"
-entry_into_force: "2022-09-01"
+publicatiedatum: 2022-09-01
+laatste_update: 2022-09-01
+status: geldig
+toestand: 2022-09-01
+bron: "https://wetten.overheid.nl/BWBR0047091"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken, de Minister van Defensie en de Staatssecretaris van Justitie en Veiligheid van 25 maart 2022, nr. Min-BuZa.2022.858, houdende de instelling van de Commissie van onderzoek naar de evacuatieoperatie vanuit Kaboel, die Nederland in de tweede helft van augustus 2021 uitvoerde nadat de Taliban de macht in Afghanistan had overgenomen (Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel)
 
 ##### Artikel 1. Begripsbepaling
 
-1. **bewindspersonen:** Minister van Buitenlandse Zaken, Minister van Defensie, en Staatssecretaris van Justitie en Veiligheid gezamenlijk;
+1. *bewindspersonen:* Minister van Buitenlandse Zaken, Minister van Defensie, en Staatssecretaris van Justitie en Veiligheid gezamenlijk;
 
-2. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=2&z=2022-09-01&g=2022-09-01).
+2. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=2&z=2022-09-01&g=2022-09-01).
 
 ##### Artikel 2. Instelling en taak
 
@@ -48,23 +26,23 @@ entry_into_force: "2022-09-01"
 
 2. De commissie heeft tot taak:
 
-- a. onafhankelijk en naar eigen inzicht onderzoek te doen naar de in lid 1 genoemde evacuatieoperatie vanaf het moment van aannemen van de motie-Belhaj c.s. over de tolkenregeling op 12 november 2019 (Kamerstuk 35 300-X, nr. 45);
+- a. onafhankelijk en naar eigen inzicht onderzoek te doen naar de in lid 1 genoemde evacuatieoperatie vanaf het moment van aannemen van de motie-Belhaj c.s. over de tolkenregeling op 12 november 2019 (Kamerstuk 35 300-X, nr. 45);
 
-- b. in het onderzoek tenminste de volgende aspecten mee te nemen, conform motie-Boswijk c.s. (Kamerstuk 27 925, nr. 838):
+- b. in het onderzoek tenminste de volgende aspecten mee te nemen, conform motie-Boswijk c.s. (Kamerstuk 27 925, nr. 838):
 
-- i. het akkoord tussen de Verenigde Staten en de Taliban van februari 2020;
+   - i. het akkoord tussen de Verenigde Staten en de Taliban van februari 2020;
 
-- ii. de Nederlandse inlichtingenpositie;
+   - ii. de Nederlandse inlichtingenpositie;
 
-- iii. de voorbereidende evacuatieplannen;
+   - iii. de voorbereidende evacuatieplannen;
 
-- iv. de uitvoering van de relevante Kamermoties;
+   - iv. de uitvoering van de relevante Kamermoties;
 
-- v. de communicatie en samenwerking tussen de betrokken ministeries;
+   - v. de communicatie en samenwerking tussen de betrokken ministeries;
 
-- vi. het verloop van de evacuatieoperatie;
+   - vi. het verloop van de evacuatieoperatie;
 
-- vii. de mogelijke internationale juridische consequenties; en
+   - vii. de mogelijke internationale juridische consequenties; en
 
 - c. het doen van eventuele aanbevelingen naar aanleiding van de bevindingen en conclusies.
 
@@ -96,9 +74,9 @@ De commissie heeft de volgende samenstelling:
 
 ##### Artikel 5. Instellingsduur
 
-1. De commissie wordt ingesteld met ingang van 1 april 2022 en wordt opgeheven vier weken nadat het eindrapport is uitgebracht.
+1. De commissie wordt ingesteld met ingang van 1 april 2022 en wordt opgeheven vier weken nadat het eindrapport is uitgebracht.
 
-2. De commissie brengt uiterlijk 31 mei 2023, of zoveel eerder als mogelijk, haar eindrapport uit aan de bewindspersonen.
+2. De commissie brengt uiterlijk 31 mei 2023, of zoveel eerder als mogelijk, haar eindrapport uit aan de bewindspersonen.
 
 3. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan van het tijdig afronden van het onderzoek, dan stelt zij de bewindspersonen daarvan onverwijld op de hoogte.
 
@@ -176,16 +154,8 @@ Bij de beëindiging van haar werkzaamheden brengt de commissie een eindrapport u
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 april 2022, en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=9&z=2022-09-01&g=2022-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=10&z=2022-09-01&g=2022-09-01) terug tot en met 1 februari 2022 voor zover het gaat om voorbereidende werkzaamheden.
+Dit besluit treedt in werking met ingang van 1 april 2022, en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=9&z=2022-09-01&g=2022-09-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047091&artikel=10&z=2022-09-01&g=2022-09-01) terug tot en met 1 februari 2022 voor zover het gaat om voorbereidende werkzaamheden.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek evacuatieoperatie Kaboel.
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluiten:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

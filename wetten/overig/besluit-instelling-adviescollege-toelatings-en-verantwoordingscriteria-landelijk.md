@@ -1,56 +1,26 @@
 ---
 title: "Besluit van 14 september 2022, tot instelling van het Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep (Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep)"
+citeertitel: "Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep"
 identifier: "BWBR0047213"
-country: "nl"
-rank: "kb"
-publication_date: "2022-10-01"
-last_updated: "2022-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047213"
+categorie: "Overig"
 soort: "KB"
-stam_id: "16500993"
-version_id: "28916642"
-internal_id: "C40941111"
-label_id: "16422534"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047213/2022-10-01/0"
-intitule_bron: "Stcrt.2022-26193"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-14"
-intitule_published: "2022-09-30"
-intitule_in_force: "2022-09-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-26193"
-original_signed_date: "2022-09-14"
-original_published_date: "2022-09-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-26193"
-entry_into_force_date: "2022-10-01"
-jci_1_3: "jci1.3:c:BWBR0047213&z=2022-10-01&g=2022-10-01"
-jci_1_0: "1.0:c:BWBR0047213&g=2022-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep"
-signed_date: "2022-09-14"
-entry_into_force: "2022-10-01"
+publicatiedatum: 2022-10-01
+laatste_update: 2022-10-01
+status: geldig
+toestand: 2022-10-01
+bron: "https://wetten.overheid.nl/BWBR0047213"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van 14 september 2022, tot instelling van het Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep (Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep)
-
-Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 september 2022, nr. M&C/33963446, directie Wetgeving en Juridische Zaken;
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 6, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **adviescollege:** adviescollege, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047213&artikel=2&z=2022-10-01&g=2022-10-01);
+- *adviescollege:* adviescollege, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047213&artikel=2&z=2022-10-01&g=2022-10-01);
 
-- **staatssecretaris:** Staatssecretaris van Onderwijs, Cultuur en Wetenschap.
+- *staatssecretaris:* Staatssecretaris van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2
 
@@ -76,7 +46,7 @@ Het adviescollege bestaat uit een voorzitter en vier andere leden.
 
 1. Het adviescollege brengt uiterlijk in juli 2023 een eindrapport uit.
 
-2. Het eindrapport wordt voorafgegaan door een tussenrapportage die uiterlijk 1 december 2022 wordt uitgebracht.
+2. Het eindrapport wordt voorafgegaan door een tussenrapportage die uiterlijk 1 december 2022 wordt uitgebracht.
 
 3. Indien er onvoorziene omstandigheden zijn die het tijdig uitbrengen van het eindrapport belemmeren, dan stelt het adviescollege de staatssecretaris daar onverwijld van op de hoogte.
 
@@ -91,5 +61,3 @@ Het adviescollege bestaat uit een voorzitter en vier andere leden.
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit instelling Adviescollege toelatings- en verantwoordingscriteria landelijke publieke omroep.
-
-Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in de Staatscourant zal worden geplaatst.

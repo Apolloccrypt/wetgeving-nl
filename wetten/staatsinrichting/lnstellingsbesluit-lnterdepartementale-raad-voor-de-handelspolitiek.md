@@ -1,18 +1,18 @@
 ---
-title: "lnstellingsbesluit lnterdepartementale Raad voor de Handelspolitiek"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2022, kenmerk Min-BuZa.2022.11939-7, tot heroprichting van de lnterdepartementale Raad voor de Handelspolitiek"
+citeertitel: "lnstellingsbesluit lnterdepartementale Raad voor de Handelspolitiek"
 identifier: "BWBR0046773"
 categorie: "Overig"
-publicatiedatum: 2026-05-30
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-06-22
 laatste_update: 2026-05-30
 status: geldig
+toestand: 2026-05-30
 bron: "https://wetten.overheid.nl/BWBR0046773"
+opgehaald: 2026-09-02
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 13 juni 2022, kenmerk Min-BuZa.2022.11939-7, tot heroprichting van de lnterdepartementale Raad voor de Handelspolitiek
-
-Handelend in overeenstemming met de Ministers van Buitenlandse Zaken, van Algemene Zaken, van Financiën, van Economische Zaken en Klimaat, van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, van Landbouw, Natuur en Voedselkwaliteit, van Welzijn en Sport en van lnfrastructuur en Waterstaat;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,6 +88,4 @@ Dit besluit wordt aangehaald als: lnstellingsbesluit lnterdepartementale Raad vo
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2022. Dit besluit vervalt met ingang van 1 juni 2030.
-
-Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juni 2022. Dit besluit vervalt met ingang van 1 juni 2030.

@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 1987-08-28
 laatste_update: 2026-02-04
-status: geldig
+status: vervallen
+vervallen_op: 2026-08-25
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0040683"
-opgehaald: 2026-08-26
+opgehaald: 2026-09-02
 ---
 
 # Regeling cursusfaciliteiten en studietoelage

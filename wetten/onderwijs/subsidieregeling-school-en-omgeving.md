@@ -1,88 +1,63 @@
 ---
 title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 juli 2022, nr. 33295719, houdende regels voor de subsidiëring van een rijke schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs (Subsidieregeling School en omgeving)"
+citeertitel: "Subsidieregeling School en omgeving"
 identifier: "BWBR0046936"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046936"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16425653"
-version_id: "28769752"
-internal_id: "C40727621"
-label_id: "16349814"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046936/2022-08-01/0"
-intitule_bron: "Stcrt.2022-19058"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-06"
-intitule_published: "2022-07-18"
-intitule_in_force: "2022-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-19058"
-original_signed_date: "2022-07-06"
-original_published_date: "2022-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-19058"
-entry_into_force_date: "2022-07-19"
-jci_1_3: "jci1.3:c:BWBR0046936&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0046936&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling School en omgeving"
-signed_date: "2022-07-06"
-entry_into_force: "2022-07-19"
+publicatiedatum: 2022-07-19
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0046936"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 juli 2022, nr. 33295719, houdende regels voor de subsidiëring van een rijke schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs (Subsidieregeling School en omgeving)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
-- **Convenant Rijke Schooldag:** document waarin de lokale coalitie de samenwerking voor het uitvoeren en uitbreiden van een lokale rijke schooldag heeft vastgelegd voor de periode van ten minste drie jaar, en waarin is vastgelegd aan welke ambities de lokale coalitie zich committeert;
+- *Convenant Rijke Schooldag:* document waarin de lokale coalitie de samenwerking voor het uitvoeren en uitbreiden van een lokale rijke schooldag heeft vastgelegd voor de periode van ten minste drie jaar, en waarin is vastgelegd aan welke ambities de lokale coalitie zich committeert;
 
-- **doorgroeier:** een lokale coalitie met een goed lopend programma maar een beperkt aanbod en bereik.
+- *doorgroeier:* een lokale coalitie met een goed lopend programma maar een beperkt aanbod en bereik.
 
-- **GKA:** Gelijke Kansen Alliantie;
+- *GKA:* Gelijke Kansen Alliantie;
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **lokale coalitie:** groep van lokale partijen die gezamenlijk betrokken zijn bij de ontwikkeling en uitvoering van het programma rijke schooldag, die in ieder geval bestaat uit een bevoegd gezag van één van deelnemende schoolvestiging, de gemeente waarin de school of vestiging staat, en één of meer (maatschappelijke) organisaties;
+- *lokale coalitie:* groep van lokale partijen die gezamenlijk betrokken zijn bij de ontwikkeling en uitvoering van het programma rijke schooldag, die in ieder geval bestaat uit een bevoegd gezag van één van deelnemende schoolvestiging, de gemeente waarin de school of vestiging staat, en één of meer (maatschappelijke) organisaties;
 
-- **lokale partij:** organisatie die opereert in de fysieke omgeving van een schoolvestiging, zoals zorginstellingen, bibliotheken, instelling op het gebied van sociaal werk, welzijnsorganisaties, sportverenigingen, cultuurinstellingen of kinderopvang;
+- *lokale partij:* organisatie die opereert in de fysieke omgeving van een schoolvestiging, zoals zorginstellingen, bibliotheken, instelling op het gebied van sociaal werk, welzijnsorganisaties, sportverenigingen, cultuurinstellingen of kinderopvang;
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **ontwikkelgebieden:** aanbod op het gebied van sport, cultuur, cognitieve ontwikkeling, sociale ontwikkeling of het gebied van oriëntatie op jezelf of op de wereld;
+- *ontwikkelgebieden:* aanbod op het gebied van sport, cultuur, cognitieve ontwikkeling, sociale ontwikkeling of het gebied van oriëntatie op jezelf of op de wereld;
 
-- **penvoerder:** bevoegd gezag van een deelnemende school of schoolvestiging die namens de lokale coalitie de aanvraag indient;
+- *penvoerder:* bevoegd gezag van een deelnemende school of schoolvestiging die namens de lokale coalitie de aanvraag indient;
 
-- **po:** primair onderwijs niet zijnde speciaal onderwijs of voortgezet speciaal onderwijs;
+- *po:* primair onderwijs niet zijnde speciaal onderwijs of voortgezet speciaal onderwijs;
 
-- **programma rijke schooldag:** lokaal programma met activiteiten buiten de reguliere onderwijstijd van een school of schoolvestiging, aangeboden door de lokale coalitie ten behoeve van leerlingen op scholen met relatief veel leerlingen met een risico op een onderwijsachterstand;
+- *programma rijke schooldag:* lokaal programma met activiteiten buiten de reguliere onderwijstijd van een school of schoolvestiging, aangeboden door de lokale coalitie ten behoeve van leerlingen op scholen met relatief veel leerlingen met een risico op een onderwijsachterstand;
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
+- *school:* school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 67 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=67);
 
-- **schoolvestiging:** nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging als bedoeld in [artikel 4.13 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), nevenvestiging als bedoeld in [artikel 4.14 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) of tijdelijke nevenvestiging als bedoeld in [artikel 4.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16);
+- *schoolvestiging:* nevenvestiging als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), hoofdvestiging als bedoeld in [artikel 4.13 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.13), nevenvestiging als bedoeld in [artikel 4.14 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.14) of tijdelijke nevenvestiging als bedoeld in [artikel 4.16 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.16);
 
-- **so:** speciaal onderwijs, niet zijnde voortgezet speciaal onderwijs;
+- *so:* speciaal onderwijs, niet zijnde voortgezet speciaal onderwijs;
 
-- **starter:** gebied dat nog niet gestart is met de uitvoering van een programma rijke schooldag of nog geen coalitie heeft gevormd.
+- *starter:* gebied dat nog niet gestart is met de uitvoering van een programma rijke schooldag of nog geen coalitie heeft gevormd.
 
-- **voorloper:** lokale coalitie die op grond van de [Regeling selectie voorlopers Rijke Schooldag](https://wetten.overheid.nl/jci1.3:c:BWBR0046620) door de minister als voorloper is aangemerkt;
+- *voorloper:* lokale coalitie die op grond van de [Regeling selectie voorlopers Rijke Schooldag](https://wetten.overheid.nl/jci1.3:c:BWBR0046620) door de minister als voorloper is aangemerkt;
 
-- **vo:** voortgezet onderwijs;
+- *vo:* voortgezet onderwijs;
 
-- **vso:** voortgezet speciaal onderwijs.
+- *vso:* voortgezet speciaal onderwijs.
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -98,7 +73,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 3. Met doelgroep wordt in deze regeling bedoeld:
 
-- a. basisscholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores als bedoeld in [artikel 18 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), van de leerlingen die op 1 oktober 2021 stonden ingeschreven op de desbetreffende school of schoolvestiging;
+- a. basisscholen als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores als bedoeld in [artikel 18 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=18), van de leerlingen die op 1 oktober 2021 stonden ingeschreven op de desbetreffende school of schoolvestiging;
 
 - b. scholen als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
@@ -106,7 +81,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - d. scholen voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), die meer dan vier leerlingen hebben met een niet-Nederlandse culturele achtergrond als bedoeld in [artikel 1 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=1);
 
-- d. scholen voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores van de leerlingen die op 1 oktober 2021 op deze vestigingen zijn ingeschreven, zoals opgenomen in de [bijlage van de Regeling aanvullende bekostiging uitvoering Nationaal Programma Onderwijs PO en VO](onbekend); en
+- d. scholen voor voortgezet onderwijs als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) die ten minste een positieve achterstandsscore hebben op basis van de onderwijsscores van de leerlingen die op 1 oktober 2021 op deze vestigingen zijn ingeschreven, zoals opgenomen in de [bijlage van de Regeling aanvullende bekostiging uitvoering Nationaal Programma Onderwijs PO en VO](https://wetten.overheid.nl/BWBR0046693); en
 
 - e. scholen als bedoeld in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1).
 
@@ -118,21 +93,21 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 4. Subsidieplafond, maximale hoogte subsidie
 
-1. Voor subsidieverstrekking op grond van deze regeling is voor het schooljaar 2022–2023 in totaal een bedrag beschikbaar van € 33.970.000,–.
+1. Voor subsidieverstrekking op grond van deze regeling is voor het schooljaar 2022–2023 in totaal een bedrag beschikbaar van € 33.970.000,–.
 
 2. Van het bedrag, bedoeld in het eerste lid, is:
 
-- a. € 26.370.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 45 voorlopers;
+- a. € 26.370.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 45 voorlopers;
 
-- b. € 5.000.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 50 doorgroeiers; en
+- b. € 5.000.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 50 doorgroeiers; en
 
-- c. € 2.625.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 35 starters.
+- c. € 2.625.000,– beschikbaar voor subsidieverstrekking aan ten hoogste 35 starters.
 
-3. Het subsidiebedrag voor een subsidie aan voorlopers is een vast bedrag van € 586.000,– per aanvraag.
+3. Het subsidiebedrag voor een subsidie aan voorlopers is een vast bedrag van € 586.000,– per aanvraag.
 
-4. Het subsidiebedrag voor een subsidie aan doorgroeiers is een vast bedrag van € 100.000,– per aanvraag.
+4. Het subsidiebedrag voor een subsidie aan doorgroeiers is een vast bedrag van € 100.000,– per aanvraag.
 
-5. Het subsidiebedrag voor een subsidie aan starters is een vast bedrag van € 75.000,– per aanvraag.
+5. Het subsidiebedrag voor een subsidie aan starters is een vast bedrag van € 75.000,– per aanvraag.
 
 6. Het subsidiebedrag voor een subsidieontvanger in Caribisch Nederland wordt omgerekend in dollars tegen de vastgestelde wisselkoers.
 
@@ -158,9 +133,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 6. Aanvraag subsidie
 
-1. Een subsidieaanvraag kan worden ingediend van 22 augustus 2022 tot en met 30 september 2022. Aanvragen die worden ingediend na 30 september 2022 worden afgewezen.
+1. Een subsidieaanvraag kan worden ingediend van 22 augustus 2022 tot en met 30 september 2022. Aanvragen die worden ingediend na 30 september 2022 worden afgewezen.
 
-2. Subsidieaanvragen kunnen worden ingediend met het digitale aanvraagformulier dat te vinden is op de website [www.dus-i.nl](onbekend).
+2. Subsidieaanvragen kunnen worden ingediend met het digitale aanvraagformulier dat te vinden is op de website www.dus-i.nl.
 
 ##### Artikel 7. Aanvullende eisen aanvraag voorlopers
 
@@ -170,17 +145,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. een activiteitenplan dat is opgesteld waarin de voorloper aangeeft:
 
-- 1°. wat het huidige aanbod is in schooljaar 2021/2022;
+   - 1°. wat het huidige aanbod is in schooljaar 2021/2022;
 
-- 2°. wat het gemiddelde aantal leerlingen is dat een aanvullend aanbod krijgt per week over 40 schoolweken, over de gehele populatie van de scholen in de coalitie;
+   - 2°. wat het gemiddelde aantal leerlingen is dat een aanvullend aanbod krijgt per week over 40 schoolweken, over de gehele populatie van de scholen in de coalitie;
 
-- 3°. wat het gemiddelde aantal uren aanvullende aanbod is per week over 40 schoolweken over de gehele populatie van de scholen in de coalitie;
+   - 3°. wat het gemiddelde aantal uren aanvullende aanbod is per week over 40 schoolweken over de gehele populatie van de scholen in de coalitie;
 
-- 4°. hoeveel ontwikkelgebieden in het huidig aanbod worden aangeboden;
+   - 4°. hoeveel ontwikkelgebieden in het huidig aanbod worden aangeboden;
 
-- 5°. naar welk aanbod wordt gestreefd, in leerlingenaantallen, uren, ontwikkelgebieden of naar welke kwaliteit, en
+   - 5°. naar welk aanbod wordt gestreefd, in leerlingenaantallen, uren, ontwikkelgebieden of naar welke kwaliteit, en
 
-- 6°. welke concrete activiteiten worden uitgevoerd om dat streven te bereiken;
+   - 6°. welke concrete activiteiten worden uitgevoerd om dat streven te bereiken;
 
 2. Een Convenant Rijke Schooldag wordt ondertekend door alle deelnemers aan de lokale coalitie die verantwoordelijk zijn voor de opstelling en uitvoering van het programma Rijke schooldag, waarin de deelnemers:
 
@@ -188,17 +163,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. zich committeren aan:
 
-- 1°. een samenwerking van ten minste drie jaar als lokale coalitie;
+   - 1°. een samenwerking van ten minste drie jaar als lokale coalitie;
 
-- 2°. een door henzelf opgestelde en, in het convenant opgenomen, ambitie en globale afspraken voor het intensiveren, doorontwikkelen of uitbreiden van het lokale programma rijke schooldag;
+   - 2°. een door henzelf opgestelde en, in het convenant opgenomen, ambitie en globale afspraken voor het intensiveren, doorontwikkelen of uitbreiden van het lokale programma rijke schooldag;
 
-- 3°. het doorlopend analyseren van de eigen context en leerlingpopulatie, met als doel te komen tot een onderbouwde keuze voor de doorontwikkeling van hun Rijke schooldag op basis van onderzoek, data, monitoring of voortschrijdend inzicht;
+   - 3°. het doorlopend analyseren van de eigen context en leerlingpopulatie, met als doel te komen tot een onderbouwde keuze voor de doorontwikkeling van hun Rijke schooldag op basis van onderzoek, data, monitoring of voortschrijdend inzicht;
 
-- 4°. het leveren van een actieve bijdrage aan de lerende aanpak van het voorloperstraject en de kennisopbouw en kennisdeling, bestaande uit:
+   - 4°. het leveren van een actieve bijdrage aan de lerende aanpak van het voorloperstraject en de kennisopbouw en kennisdeling, bestaande uit:
 
-- i. het meewerken aan monitoring en onderzoek; en
+      - i. het meewerken aan monitoring en onderzoek; en
 
-- ii. het deelnemen aan het inhoudelijke programma van het voorloperstraject en activiteiten te organiseren met als doel kennis te delen met de lokale coalitie, in de regio en met de Gelijke Kansen Alliantie van het Ministerie van OCW.
+      - ii. het deelnemen aan het inhoudelijke programma van het voorloperstraject en activiteiten te organiseren met als doel kennis te delen met de lokale coalitie, in de regio en met de Gelijke Kansen Alliantie van het Ministerie van OCW.
 
 ##### Artikel 8. Aanvullende eisen aanvraag doorgroeiers
 
@@ -230,7 +205,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 ##### Artikel 11. Vaststelling, betaling en besteding subsidie
 
-1. De subsidie wordt uiterlijk op 31 december 2022 direct vastgesteld.
+1. De subsidie wordt uiterlijk op 31 december 2022 direct vastgesteld.
 
 2. De minister bepaalt het betaalritme in de beschikkingen.
 
@@ -252,7 +227,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 ##### Artikel 13. Aanvullende subsidieverplichtingen voorlopers
 
-1. De activiteiten van voorlopers worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2023.
+1. De activiteiten van voorlopers worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2023.
 
 2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-08-01&g=2022-08-01) geldt voor voorlopers dat:
 
@@ -270,7 +245,7 @@ De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid
 
 ##### Artikel 15. Aanvullende subsidieverplichtingen starters
 
-1. De activiteiten van starters worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2025.
+1. De activiteiten van starters worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2025.
 
 2. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=12&z=2022-08-01&g=2022-08-01) dienen starters:
 
@@ -286,18 +261,16 @@ De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid
 
 3. De aanvrager toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-##### Artikel 17. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) in [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
+##### Artikel 17. Wijziging Wet op het voortgezet onderwijs in Wet voortgezet onderwijs 2020
 
-Wijzigt deze regeling.
+*Wijzigt deze regeling.*
 
 ##### Artikel 18. Inwerkingtreding en geldigheidsduur
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=17&z=2022-08-01&g=2022-08-01), dat in werking treedt met ingang van 1 augustus 2022.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=17&z=2022-08-01&g=2022-08-01), dat in werking treedt met ingang van 1 augustus 2022.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027.
+2. Deze regeling vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling School en omgeving.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

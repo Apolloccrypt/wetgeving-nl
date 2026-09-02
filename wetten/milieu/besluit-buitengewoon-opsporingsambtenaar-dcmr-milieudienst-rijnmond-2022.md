@@ -1,62 +1,22 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 17 juni 2022 nr. BOACAT2022/043, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij DCMR Milieudienst Rijnmond"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond 2022"
 identifier: "BWBR0046802"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-08-01"
-last_updated: "2022-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046802"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16389733"
-version_id: "28703622"
-internal_id: "C40746281"
-label_id: "16313984"
-dtd_version: "2.0"
-original_entry_into_force: "2022-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046802/2022-08-01/0"
-intitule_bron: "Stcrt.2022-16556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-17"
-intitule_published: "2022-06-24"
-intitule_in_force: "2022-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16556"
-original_signed_date: "2022-06-17"
-original_published_date: "2022-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16556"
-entry_into_force_date: "2022-08-01"
-jci_1_3: "jci1.3:c:BWBR0046802&z=2022-08-01&g=2022-08-01"
-jci_1_0: "1.0:c:BWBR0046802&g=2022-08-01"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond 2022"
-signed_date: "2022-06-17"
-entry_into_force: "2022-08-01"
+publicatiedatum: 2022-08-01
+laatste_update: 2022-08-01
+status: geldig
+toestand: 2022-08-01
+bron: "https://wetten.overheid.nl/BWBR0046802"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 17 juni 2022 nr. BOACAT2022/043, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij DCMR Milieudienst Rijnmond
-
-Gelezen het verzoek van DCMR Milieudienst Rijnmond van 28 maart 2022 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
-
-Besluit ook gepubliceerd in Stcrt. 2022/19018.
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=2&z=2022-08-01&g=2022-08-01).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=2&z=2022-08-01&g=2022-08-01).
 
 ##### Artikel 2
 
@@ -64,7 +24,7 @@ De personen, werkzaam in de functie van ‘Specialist’ (schaal 10, 11 en 12), 
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend) alsmede de bepalingen zoals genoemd in de Algemene Plaatselijke Verordening van de gemeente Rotterdam, hoofdstuk 4, afdeling 1 (geluidsvoorschriften).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447) alsmede de bepalingen zoals genoemd in de Algemene Plaatselijke Verordening van de gemeente Rotterdam, hoofdstuk 4, afdeling 1 (geluidsvoorschriften).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -78,19 +38,19 @@ Op grond van dit besluit kunnen maximaal 50 personen als buitengewoon opsporings
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
-2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
+2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
 ##### Artikel 6
 
-1. De DCMR Milieudienst Rijnmond brengt jaarlijks, voor 1 april, verslag uit over:
+1. De DCMR Milieudienst Rijnmond brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=2&z=2022-08-01&g=2022-08-01) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=2&z=2022-08-01&g=2022-08-01) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Minister voor Rechtsbescherming goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=5&z=2022-08-01&g=2022-08-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046802&artikel=5&z=2022-08-01&g=2022-08-01) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 7
 
@@ -100,12 +60,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond](https://wetten.overheid.nl/jci1.3:c:BWBR0039378) van 17 maart 2017 nr. BOACAT2017/022 zal vervallen op 1 augustus 2022.
+Het [Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond](https://wetten.overheid.nl/jci1.3:c:BWBR0039378) van 17 maart 2017 nr. BOACAT2017/022 zal vervallen op 1 augustus 2022.
 
-Dit besluit treedt in werking met ingang van 1 augustus 2022 en vervalt met ingang van 1 augustus 2027.
+Dit besluit treedt in werking met ingang van 1 augustus 2022 en vervalt met ingang van 1 augustus 2027.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar DCMR Milieudienst Rijnmond 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

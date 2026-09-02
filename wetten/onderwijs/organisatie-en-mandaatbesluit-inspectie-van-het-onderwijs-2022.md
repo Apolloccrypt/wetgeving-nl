@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de inspecteur-generaal van het onderwijs van 11 juli 2022, nr. IvhO/2022/33553859, houdende vaststelling van de organisatie van en de mandaatbevoegdheden binnen de Inspectie van het Onderwijs (Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022)"
+citeertitel: "Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022"
 identifier: "BWBR0047242"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-05"
-last_updated: "2022-10-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047242"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16506503"
-version_id: "28928982"
-internal_id: "C40955631"
-label_id: "16428234"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047242/2022-10-05/0"
-intitule_bron: "Stcrt.2022-26053"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-11"
-intitule_published: "2022-10-04"
-intitule_in_force: "2022-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-26053"
-original_signed_date: "2022-07-11"
-original_published_date: "2022-10-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-26053"
-entry_into_force_date: "2022-10-05"
-jci_1_3: "jci1.3:c:BWBR0047242&z=2022-10-05&g=2022-10-05"
-jci_1_0: "1.0:c:BWBR0047242&g=2022-10-05"
-citeertitel_status: "officieel"
-short_title: "Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022"
-signed_date: "2022-07-11"
-entry_into_force: "2022-10-05"
+publicatiedatum: 2022-10-05
+laatste_update: 2022-10-05
+status: geldig
+toestand: 2022-10-05
+bron: "https://wetten.overheid.nl/BWBR0047242"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de inspecteur-generaal van het onderwijs van 11 juli 2022, nr. IvhO/2022/33553859, houdende vaststelling van de organisatie van en de mandaatbevoegdheden binnen de Inspectie van het Onderwijs (Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=2), en [3, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3), de [artikelen 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=11), en [14, derde lid, van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14), [artikel 9 van de Regeling Inspectie van het onderwijs 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041185), [artikel 3 van Regeling verlening mandaat, volmacht en machtiging Inspecteur-generaal van het Onderwijs betreffende de behandeling van Wob-verzoeken over informatie tweedelijns toezicht kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0035118&artikel=3) (Stcrt. 2014, 13942) en [artikel 6, derde lid, van de Regeling bezoldiging topfunctionarissen OCW-sectoren](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&artikel=6);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,19 +20,20 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **inspectie:** Inspectie van het Onderwijs,
+- – *inspectie:* Inspectie van het Onderwijs,
 
-- –. **inspecteur-generaal:** inspecteur-generaal van de inspectie,
+- – *inspecteur-generaal:* inspecteur-generaal van de inspectie,
 
-- –. **directeur:** degene die aan het hoofd staat van een directie als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047242&bijlage=1&z=2022-10-05&g=2022-10-05) bij dit besluit, zulks voor wat betreft [paragraaf 1 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047242&hoofdstuk=3&paragraaf=1&z=2022-10-05&g=2022-10-05) in afwijking van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543),
+- – *directeur:* degene die aan het hoofd staat van een directie als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047242&bijlage=1&z=2022-10-05&g=2022-10-05) bij dit besluit, zulks voor wat betreft [paragraaf 1 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047242&hoofdstuk=3&paragraaf=1&z=2022-10-05&g=2022-10-05) in afwijking van het [Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543),
 
-- –. **afdelingshoofd:** degene die binnen de inspectie de functie bekleedt van afdelingshoofd,
+- – *afdelingshoofd:* degene die binnen de inspectie de functie bekleedt van afdelingshoofd,
 
-- –. **inspecteur:** degene die binnen de inspectie de functie bekleedt van coördinerend inspecteur, senior inspecteur of inspecteur,
+- – *inspecteur:* degene die binnen de inspectie de functie bekleedt van coördinerend inspecteur, senior inspecteur of inspecteur,
 
-- –. **mandaatregeling kinderopvang:** Regeling verlening mandaat, volmacht en machtiging Inspecteur-generaal van het Onderwijs betreffende de behandeling van Wob-verzoeken over informatie tweedelijns toezicht kinderopvang,
+- – *mandaatregeling kinderopvang:* Regeling verlening mandaat, volmacht en machtiging Inspecteur-generaal van het Onderwijs betreffende de behandeling van Wob-verzoeken over informatie tweedelijns toezicht kinderopvang,
 
-- –. **WNT:** [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
+- – *WNT:*
+ [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
 ##### Artikel 2. Organisatie van de inspectie
 
@@ -82,9 +57,9 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 2. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bewindspersoon:** Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Primair en Voortgezet Onderwijs of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap
+- – *bewindspersoon:* Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Primair en Voortgezet Onderwijs of een Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 
-- –. **het ministerie:** het Ministerie van Onderwijs, Cultuur en Wetenschap.
+- – *het ministerie:* het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 6. Voorbehouden aan de inspecteur-generaal
 
@@ -92,19 +67,19 @@ Aan de inspecteur-generaal is voorbehouden:
 
 - a. het afdoen en ondertekenen van stukken gericht aan de:
 
-- 1°. Eerste en de Tweede Kamer der Staten-Generaal,
+   - 1°. Eerste en de Tweede Kamer der Staten-Generaal,
 
-- 2°. bewindspersonen van het ministerie of bewindspersonen van andere ministeries,
+   - 2°. bewindspersonen van het ministerie of bewindspersonen van andere ministeries,
 
-- 3°. secretaris-generaal en directeuren-generaal van het ministerie en secretarissen-generaal en directeuren-generaal van andere ministeries, en
+   - 3°. secretaris-generaal en directeuren-generaal van het ministerie en secretarissen-generaal en directeuren-generaal van andere ministeries, en
 
 - b. het vaststellen van:
 
-- 1°. het jaarwerkplan, bedoeld in [artikel 7 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=7),
+   - 1°. het jaarwerkplan, bedoeld in [artikel 7 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=7),
 
-- 2°. een themarapport als bedoeld in [artikel 8, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=8),
+   - 2°. een themarapport als bedoeld in [artikel 8, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=8),
 
-- 3°. het onderwijsverslag, bedoeld in [artikel 8, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=8),
+   - 3°. het onderwijsverslag, bedoeld in [artikel 8, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=8),
 
 - c. het ingevolge [artikel 9:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12) geven van een oordeel over een klacht.
 
@@ -158,7 +133,7 @@ Deze paragraaf is van toepassing op de uitoefening van de bevoegdheden ten aanzi
 
 - b. opzegging van de arbeidsovereenkomst wegens een dringende reden in de zin van [artikel 677, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=677), en [678 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) (ontslag op staande voet).
 
-4. De directeuren zijn budgethouder voor de hun door de desbetreffende leidinggevende functionaris toegewezen budgetten en hebben mandaat tot het aangaan van verplichtingen op basis van het door de minister vastgestelde departementale bestedingsplan tot maximaal € 150.000 exclusief btw.
+4. De directeuren zijn budgethouder voor de hun door de desbetreffende leidinggevende functionaris toegewezen budgetten en hebben mandaat tot het aangaan van verplichtingen op basis van het door de minister vastgestelde departementale bestedingsplan tot maximaal € 150.000 exclusief btw.
 
 ##### Artikel 12. Geen onderondermandaat
 
@@ -188,9 +163,9 @@ De directeuren hebben, onverminderd de mandaatverlening aan de inspecteur-genera
 
 - d. overige geschillen voor zover:
 
-- 1°. dit past binnen het kader van de functie van betrokkene, of
+   - 1°. dit past binnen het kader van de functie van betrokkene, of
 
-- 2°. daar vanwege de Minister van Sociale Zaken en Werkgelegenheid om is verzocht.
+   - 2°. daar vanwege de Minister van Sociale Zaken en Werkgelegenheid om is verzocht.
 
 ##### Artikel 16. Beperking verder ondermandaat
 
@@ -235,46 +210,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 22. Citeertitel
 
 Dit besluit wordt aangehaald als het Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022.
-
-## Bijlage 1. bij het Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022
-
-### I. Organisatiebeschrijving Inspectie van het Onderwijs
-
-De inspecteur-generaal van het Onderwijs is verantwoordelijk voor de gehele inspectie. De inspecteur-generaal beheert daarnaast een aantal specifieke portefeuilleonderdelen.
-
-De inspectie kent een topstructuur van maximaal 9 personen, te weten de inspecteur-generaal en maximaal acht directeuren.
-
-De directeuren toezicht houden toezicht op de verschillende onderwijssectoren. De inspecteurs en hun medewerkers oefenen toezicht uit onder leiding van de directeuren toezicht.
-
-De directie Beleidsondersteuning en Organisatie, de directie Kennis en de directie Rekenschap en Juridische Zaken staan onder leiding van respectievelijk een directeur Beleidsondersteuning en Organisatie, een directeur Kennis en een directeur Rekenschap en Juridische Zaken.
-
-Alle directeuren zijn verantwoordelijk voor de uitvoering van programma’s, projecten en thema’s binnen de eigen directie en beheren een aantal specifieke (inspectiebrede) portefeuilleonderdelen. Alle directeuren leggen verantwoording af aan de inspecteur-generaal.
-
-### II. Taken en verantwoordelijkheden directies
-
-## Bijlage 2. bij het Organisatie- en mandaatbesluit Inspectie van het Onderwijs 2022
-
-De formule, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047242&hoofdstuk=4&artikel=19&z=2022-10-05&g=2022-10-05), luidt:
-
-| a. voor zover het aan de inspectie geattribueerde taken en bevoegdheden betreft: | De inspecteur-generaal van het Onderwijs, **namens deze,** **functie van de gemandateerde,** **handtekening van de gemandateerde,** **naam van de gemandateerde** |
-| --- | --- |
-| b. voor zover het overige aangelegenheden betreft op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap: | De <Minister van Onderwijs, Cultuur en Wetenschap> of <Minister voor Primair en Voortgezet Onderwijs> ¹, **namens deze,** **functie van de gemandateerde,** **handtekening van de gemandateerde,** **naam van de gemandateerde** |
-| c. voor zover het aangelegenheden betreft op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid: | De 1° <Minister> / 2° <Staatssecretaris> ¹ van Sociale Zaken en Werkgelegenheid, **namens deze,** **functie van de gemandateerde,** **handtekening van de gemandateerde,** **naam van de gemandateerde** |
-
-¹ Afhankelijk van de onderlinge taakverdeling
-
-**De formule, bedoeld in artikel 19, tweede lid, luidt:**
-
-De Staat der Nederlanden, vertegenwoordigd door
-
-de Minister van Onderwijs, Cultuur en Wetenschap,
-
-namens deze,
-
-(aanduiding functie gevolmachtigde)
-
-(handtekening gevolmachtigde)
-
-(naam gevolmachtigde)
-
-Dit besluit zal in de Staatscourant worden geplaatst.

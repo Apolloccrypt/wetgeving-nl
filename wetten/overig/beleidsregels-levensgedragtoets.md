@@ -1,61 +1,39 @@
 ---
 title: "Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake de beoordeling van het levensgedrag bij vergunningen voor de exploitatie van speelautomaten (Beleidsregels levensgedragtoets)"
+citeertitel: "Beleidsregels levensgedragtoets"
 identifier: "BWBR0046555"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-04-13"
-last_updated: "2022-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046555"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16327063"
-version_id: "28543132"
-internal_id: "C40275741"
-label_id: "16251974"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046555/2022-04-13/0"
-intitule_bron: "Stcrt.2022-9950"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-04-13"
-intitule_in_force: "2022-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9950"
-original_published_date: "2022-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9950"
-entry_into_force_date: "2022-04-13"
-jci_1_3: "jci1.3:c:BWBR0046555&z=2022-04-13&g=2022-04-13"
-jci_1_0: "1.0:c:BWBR0046555&g=2022-04-13"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregels levensgedragtoets"
-entry_into_force: "2022-04-13"
+publicatiedatum: 2022-04-13
+laatste_update: 2022-04-13
+status: geldig
+toestand: 2022-04-13
+bron: "https://wetten.overheid.nl/BWBR0046555"
+opgehaald: 2026-09-02
 ---
+
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake de beoordeling van het levensgedrag bij vergunningen voor de exploitatie van speelautomaten (Beleidsregels levensgedragtoets)
-
-gelet op [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30i), [30k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30k) en [30l van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30l) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4) en [7 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7),
-
-besluit de volgende beleidsregels vast te stellen:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
-- 1. **aanvraag:** aanvraag voor een vergunning;
+- 1. *aanvraag:* aanvraag voor een vergunning;
 
-- 2. **aanvrager:** de (rechts)persoon die een vergunning aanvraagt;
+- 2. *aanvrager:* de (rechts)persoon die een vergunning aanvraagt;
 
-- 3. **besluit:** het [Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373);
+- 3. *besluit:* het [Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373);
 
-- 4. **levensgedragtoets:** de beoordeling of de aanvrager, vergunninghouder, bedrijfsleiders en beheerders van een exploitatie in enig opzicht van slecht levensgedrag zijn, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4), en [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7);
+- 4. *levensgedragtoets:* de beoordeling of de aanvrager, vergunninghouder, bedrijfsleiders en beheerders van een exploitatie in enig opzicht van slecht levensgedrag zijn, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4), en [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7);
 
-- 5. **raad van bestuur:** raad van bestuur als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- 5. *raad van bestuur:* raad van bestuur als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- 6. **vergunning:** vergunning voor het exploiteren van speelautomaten als bedoeld in [artikel 30h van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h);
+- 6. *vergunning:* vergunning voor het exploiteren van speelautomaten als bedoeld in [artikel 30h van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h);
 
-- 7. **vergunninghouder:** de (rechts)persoon die een vergunning heeft;
+- 7. *vergunninghouder:* de (rechts)persoon die een vergunning heeft;
 
-- 8. **Wok:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- 8. *Wok:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 ##### Artikel 2. Toepassing
 
@@ -139,11 +117,11 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 - c. de officier van justitie heeft besloten hem niet of niet verder te vervolgen voor dat strafbare feit omdat:
 
-- 1°. hij ten onrechte verdacht werd;
+   - 1° hij ten onrechte verdacht werd;
 
-- 2°. er onvoldoende wettig en overtuigend bewijs was;
+   - 2° er onvoldoende wettig en overtuigend bewijs was;
 
-- 3°. het feit niet strafbaar was.
+   - 3° het feit niet strafbaar was.
 
 4. In andere gevallen dan in het eerste, tweede en derde lid zijn beschreven, beoordeelt de raad van bestuur aan de hand van de feiten en omstandigheden die op een antecedent betrekking hebben of betrokkenheid bij dat antecedent voldoende aannemelijk is.
 

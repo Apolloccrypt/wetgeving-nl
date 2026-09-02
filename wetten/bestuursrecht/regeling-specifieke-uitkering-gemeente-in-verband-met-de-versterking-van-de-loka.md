@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 11 juli 2022, nr. 4098572, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2023 – 2026"
+citeertitel: "Regeling specifieke uitkering gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme 2023–2026"
 identifier: "BWBR0046954"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-24"
-last_updated: "2022-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046954"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16429593"
-version_id: "28779682"
-internal_id: "C40745951"
-label_id: "16353684"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046954/2022-07-24/0"
-intitule_bron: "Stcrt.2022-19011"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-11"
-intitule_published: "2022-07-22"
-intitule_in_force: "2022-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-19011"
-original_signed_date: "2022-07-11"
-original_published_date: "2022-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-19011"
-entry_into_force_date: "2022-07-24"
-jci_1_3: "jci1.3:c:BWBR0046954&z=2022-07-24&g=2022-07-24"
-jci_1_0: "1.0:c:BWBR0046954&g=2022-07-24"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme 2023–2026"
-signed_date: "2022-07-11"
-entry_into_force: "2022-07-24"
+publicatiedatum: 2022-07-24
+laatste_update: 2022-07-24
+status: geldig
+toestand: 2022-07-24
+bron: "https://wetten.overheid.nl/BWBR0046954"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 11 juli 2022, nr. 4098572, houdende een specifieke uitkering voor gemeenten in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme in 2023 – 2026
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **Eenjarig project:** een project met een duur van maximaal één jaar gericht op de lokale integrale aanpak van radicalisering, extremisme en terrorisme, niet zijnde een preventieproject;
+- – *Eenjarig project:* een project met een duur van maximaal één jaar gericht op de lokale integrale aanpak van radicalisering, extremisme en terrorisme, niet zijnde een preventieproject;
 
-- –. **Basis op orde taken:** een pakket taken dat de basis is voor de lokale integrale aanpak van radicalisering, extremisme en terrorisme als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24);
+- – *Basis op orde taken:* een pakket taken dat de basis is voor de lokale integrale aanpak van radicalisering, extremisme en terrorisme als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24);
 
-- –. **hoofdaanvrager:** de gemeente die mede namens andere gemeenten in zijn regio een aanvraag indient;
+- – *hoofdaanvrager:* de gemeente die mede namens andere gemeenten in zijn regio een aanvraag indient;
 
-- –. **preventieproject:** een preventieproject van een gemeente als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=3&z=2022-07-24&g=2022-07-24):
+- – *preventieproject:* een preventieproject van een gemeente als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=3&z=2022-07-24&g=2022-07-24):
 
-- –. **minister:** de Minister van Justitie en Veiligheid;
+- – *minister:* de Minister van Justitie en Veiligheid;
 
-- –. **radicalisering:** radicalisering naar extremisme en terrorisme;
+- – *radicalisering:* radicalisering naar extremisme en terrorisme;
 
-- –. **extremisme:** fenomeen waarbij personen of groepen vanuit ideologisch motief bereid zijn in ernstige mate de wet te overtreden of activiteiten te verrichten die de democratische rechtsorde ondermijnen;
+- – *extremisme:* fenomeen waarbij personen of groepen vanuit ideologisch motief bereid zijn in ernstige mate de wet te overtreden of activiteiten te verrichten die de democratische rechtsorde ondermijnen;
 
-- –. **terrorisme:** het uit ideologische motieven (voorbereiden van het) plegen van op mensenlevens gericht geweld, of het veroorzaken van maatschappij-ontwrichtende schade, met als doel (een deel van) de bevolking ernstige vrees aan te jagen, maatschappelijke veranderingen te bewerkstelligen, en/of politieke besluitvorming te beïnvloeden.
+- – *terrorisme:* het uit ideologische motieven (voorbereiden van het) plegen van op mensenlevens gericht geweld, of het veroorzaken van maatschappij-ontwrichtende schade, met als doel (een deel van) de bevolking ernstige vrees aan te jagen, maatschappelijke veranderingen te bewerkstelligen, en/of politieke besluitvorming te beïnvloeden.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -112,15 +86,15 @@ De minister kan in 2023 tot en met 2026 op aanvraag aan een gemeente een specifi
 
 ##### Artikel 5. Termijnen
 
-1. De aanvraag tot verlening van een specifieke uitkering voor de Basis op orde taken en voor de preventieprojecten wordt gedaan voor 30 september 2022 respectievelijk 30 september 2024.
+1. De aanvraag tot verlening van een specifieke uitkering voor de Basis op orde taken en voor de preventieprojecten wordt gedaan voor 30 september 2022 respectievelijk 30 september 2024.
 
-2. De aanvraag tot verlening van een specifieke uitkering voor de uitvoering van een eenjarig project wordt ingediend voor 30 september in het jaar voorafgaand aan het jaar waarin de uitkering wordt toegekend en gebruikt.
+2. De aanvraag tot verlening van een specifieke uitkering voor de uitvoering van een eenjarig project wordt ingediend voor 30 september in het jaar voorafgaand aan het jaar waarin de uitkering wordt toegekend en gebruikt.
 
-3. In hetzelfde jaar als waarin de aanvraag wordt gedaan, wordt hierop beslist voor 30 november.
+3. In hetzelfde jaar als waarin de aanvraag wordt gedaan, wordt hierop beslist voor 30 november.
 
 ##### Artikel 6. Hoogte specifieke uitkering
 
-1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24) bedraagt jaarlijks maximaal € 5.925.000.
+1. Het totale bedrag van de te verlenen uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046954&artikel=2&z=2022-07-24&g=2022-07-24) bedraagt jaarlijks maximaal € 5.925.000.
 
 2. Bij de beoordeling van de aanvraag om een specifieke uitkering:
 
@@ -178,8 +152,6 @@ De hoofdaanvrager coördineert:
 
 ##### Artikel 12. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2022.
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2022.
 
-2. Deze regeling vervalt met ingang van 31 december 2026 met dien verstande dat zij van toepassing blijft op uitkeringen die voor deze datum zijn verstrekt.
-
-Deze regeling wordt aangehaald als: Regeling specifieke uitkering gemeente in verband met de versterking van de lokale integrale aanpak van radicalisering, extremisme en terrorisme 2023–2026.
+2. Deze regeling vervalt met ingang van 31 december 2026 met dien verstande dat zij van toepassing blijft op uitkeringen die voor deze datum zijn verstrekt.

@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregel reclame commerciële media-instellingen 2022"
 identifier: "BWBR0046663"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-05-18"
-last_updated: "2022-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046663"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16360703"
-version_id: "28632012"
-internal_id: "C40396431"
-label_id: "16285074"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046663/2022-05-18/0"
-intitule_bron: "Stcrt.2022-12443"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-05-17"
-intitule_in_force: "2022-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-12443"
-original_published_date: "2022-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-12443"
-entry_into_force_date: "2022-05-18"
-jci_1_3: "jci1.3:c:BWBR0046663&z=2022-05-18&g=2022-05-18"
-jci_1_0: "1.0:c:BWBR0046663&g=2022-05-18"
-citeertitel_status: "officieel"
-entry_into_force: "2022-05-18"
+publicatiedatum: 2022-05-18
+laatste_update: 2022-05-18
+status: geldig
+toestand: 2022-05-18
+bron: "https://wetten.overheid.nl/BWBR0046663"
+opgehaald: 2026-09-02
 ---
+
 # Beleidsregel reclame commerciële media-instellingen 2022
-
-Gelet op de [artikelen 3.5b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.5b), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.7), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.8), [3.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), [3.29d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29d), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,21 +23,22 @@ Deze beleidsregel is van toepassing op het media-aanbod van commerciële media-i
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **wet:** [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- – *wet:*
+ [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- –. **media-aanbod:** programma-aanbod (televisie en radio) en audiovisueel media-aanbod op aanvraag (VOD-diensten en video);
+- – *media-aanbod:* programma-aanbod (televisie en radio) en audiovisueel media-aanbod op aanvraag (VOD-diensten en video);
 
-- –. **video:** audiovisueel media-aanbod op aanvraag dat door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload;
+- – *video:* audiovisueel media-aanbod op aanvraag dat door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload;
 
-- –. **omlijsting:** kader waarbinnen reclame- en telewinkelboodschappen worden geplaatst, bestaande uit een aankondiging en afkondiging;
+- – *omlijsting:* kader waarbinnen reclame- en telewinkelboodschappen worden geplaatst, bestaande uit een aankondiging en afkondiging;
 
-- –. **splitscreen:** het gelijktijdig en parallel plaatsen in één beeld van redactionele inhoud en van reclame- of telewinkelboodschappen.
+- – *splitscreen:* het gelijktijdig en parallel plaatsen in één beeld van redactionele inhoud en van reclame- of telewinkelboodschappen.
 
 ##### Artikel 3. Reclame voor medische behandelingen
 
 1. Het media-aanbod bevat geen reclame- en telewinkelboodschappen voor medische behandelingen ([artikel 3.7, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.7), en [3.29d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29d)).
 
-2. Onder **medische behandelingen** wordt hierbij verstaan: behandelingen die alleen op doktersvoorschrift verkrijgbaar zijn.
+2. Onder *medische behandelingen* wordt hierbij verstaan: behandelingen die alleen op doktersvoorschrift verkrijgbaar zijn.
 
 ### Hoofdstuk 2. Programma-aanbod (televisie en radio)
 
@@ -94,9 +72,9 @@ In deze beleidsregel wordt verstaan onder:
 
 1. In programma’s bestaande uit films en (commentaar op het) nieuws worden ten hoogste eenmaal per geprogrammeerd tijdvak van dertig minuten reclame- of telewinkelboodschappen opgenomen. In programma’s die in het bijzonder bestemd zijn voor kinderen jonger dan twaalf jaar kunnen ten hoogste eenmaal per geprogrammeerd tijdvak van dertig minuten reclameboodschappen worden opgenomen, mits de geprogrammeerde duur van het programma meer dan dertig minuten bedraagt ([artikel 3.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.11)).
 
-2. Onder **geprogrammeerd tijdvak** wordt hierbij verstaan: de totale tijd tussen het tijdstip van aanvang en het tijdstip van einde van een programma, inclusief reclame- en telewinkelboodschappen en andere programmaonderbrekingen uitgezonden tijdens dat programma.
+2. Onder *geprogrammeerd tijdvak* wordt hierbij verstaan: de totale tijd tussen het tijdstip van aanvang en het tijdstip van einde van een programma, inclusief reclame- en telewinkelboodschappen en andere programmaonderbrekingen uitgezonden tijdens dat programma.
 
-3. Onder **geprogrammeerde duur** wordt hierbij verstaan: de lengte van het programma, exclusief reclame- en telewinkelboodschappen en andere programmaonderbrekingen.
+3. Onder *geprogrammeerde duur* wordt hierbij verstaan: de lengte van het programma, exclusief reclame- en telewinkelboodschappen en andere programmaonderbrekingen.
 
 ##### Artikel 7. Afzonderlijke reclame- of telewinkelboodschappen
 
@@ -112,17 +90,17 @@ In het programma-aanbod bestaande uit het verslag of de weergave van sportevenem
 
 - a. bij een duidelijk zichtbare en/of hoorbare vermelding van:
 
-- –. ‘reclame’
+   - – ‘reclame’
 
-- –. ‘advertentie’
+   - – ‘advertentie’
 
-- –. ‘advertorial’
+   - – ‘advertorial’
 
-- –. ‘betaalde promotie’
+   - – ‘betaalde promotie’
 
-- –. ‘betaalde samenwerking’ of
+   - – ‘betaalde samenwerking’ of
 
-- –. ‘betaald partnerschap’ en
+   - – ‘betaald partnerschap’ en
 
 - b. waarbij deze vermelding of vertoning aan het begin van de video, tijdens de aanprijzing of doorlopend zichtbaar is; en
 
@@ -138,6 +116,6 @@ In het programma-aanbod bestaande uit het verslag of de weergave van sportevenem
 
 2. De [Beleidsregels reclame commerciële media-instellingen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031835) wordt ingetrokken.
 
-3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media ([www.cvdm.nl](onbekend)).
+3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media (www.cvdm.nl).
 
 4. Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Staatscourant.

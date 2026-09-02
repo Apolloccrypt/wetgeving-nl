@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0006622"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Wet van 21 april 1994, houdende vervanging van de Wegenverkeerswet

@@ -1,51 +1,25 @@
 ---
 title: "Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 1 februari tot en met 8 maart 2022"
 identifier: "BWBR0046583"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-04-22"
-last_updated: "2022-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046583"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16333983"
-version_id: "28569882"
-internal_id: "C40315981"
-label_id: "16258784"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046583/2022-04-22/0"
-intitule_bron: "Stcrt.2022-11144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-23"
-intitule_published: "2022-04-22"
-intitule_in_force: "2022-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-11144"
-original_signed_date: "2022-03-23"
-original_published_date: "2022-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-11144"
-entry_into_force_date: "2022-04-22"
-jci_1_3: "jci1.3:c:BWBR0046583&z=2022-04-22&g=2022-04-22"
-jci_1_0: "1.0:c:BWBR0046583&g=2022-04-22"
-citeertitel_status: "officieel"
-signed_date: "2022-03-23"
-entry_into_force: "2022-04-22"
+publicatiedatum: 2022-04-22
+laatste_update: 2022-04-22
+status: geldig
+toestand: 2022-04-22
+bron: "https://wetten.overheid.nl/BWBR0046583"
+opgehaald: 2026-09-02
 ---
+
 # Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 1 februari tot en met 8 maart 2022
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 2. Doel
 
@@ -53,9 +27,9 @@ Het bestuur kent subsidies toe ter tegemoetkoming voor inkomstenverlies geleden 
 
 ##### Artikel 3. Procedure
 
-1. Aanvragen dienen te worden ingediend in de periode van maandag 25 april 2022 tot en met woensdag 11 mei 2022.
+1. Aanvragen dienen te worden ingediend in de periode van maandag 25 april 2022 tot en met woensdag 11 mei 2022.
 
-2. Het bestuur informeert de aanvrager uiterlijk binnen 13 weken na 11 mei 2022 schriftelijk over zijn besluit.
+2. Het bestuur informeert de aanvrager uiterlijk binnen 13 weken na 11 mei 2022 schriftelijk over zijn besluit.
 
 3. Het bestuur kan besluiten om extra subsidierondes vast te stellen. In dat geval wordt ook een datum en tijdstip vastgesteld waarop aanvragen uiterlijk ontvangen dienen te zijn. Een dergelijk besluit wordt gepubliceerd op de website van het Fonds.
 
@@ -93,11 +67,11 @@ Het bestuur kent subsidies toe ter tegemoetkoming voor inkomstenverlies geleden 
 
 3. Het subsidie is uitsluitend bedoeld ten behoeve van:
 
-- a. professionele concerten en voorstellingen die hebben plaatsgevonden in de periode van 1 februari 2022 tot en met 8 maart 2022 en te maken hebben gekregen met de nadelige gevolgen van de covid19-maatregelen in de vorm van verloren kaartverkoopopbrengsten.
+- a. professionele concerten en voorstellingen die hebben plaatsgevonden in de periode van 1 februari 2022 tot en met 8 maart 2022 en te maken hebben gekregen met de nadelige gevolgen van de covid19-maatregelen in de vorm van verloren kaartverkoopopbrengsten.
 
-- b. professionele concerten en voorstellingen die zouden plaatsvinden in de periode van 1 februari 2022 tot en met 8 maart 2022, maar zijn geannuleerd omdat het concert of de voorstelling niet uitvoerbaar was omdat een of meerdere betrokkene(n) ziek waren als gevolg van een covid19-besmetting dan wel in quarantaine waren.
+- b. professionele concerten en voorstellingen die zouden plaatsvinden in de periode van 1 februari 2022 tot en met 8 maart 2022, maar zijn geannuleerd omdat het concert of de voorstelling niet uitvoerbaar was omdat een of meerdere betrokkene(n) ziek waren als gevolg van een covid19-besmetting dan wel in quarantaine waren.
 
-- c. professionele concerten en voorstellingen die zouden hebben plaatsgevonden in de periode van 1 februari 2022 tot en met 15 februari 2022, maar moesten worden geannuleerd naar aanleiding van de covid19-maatregelen.
+- c. professionele concerten en voorstellingen die zouden hebben plaatsgevonden in de periode van 1 februari 2022 tot en met 15 februari 2022, maar moesten worden geannuleerd naar aanleiding van de covid19-maatregelen.
 
 4. Het subsidie wordt geweigerd indien:
 
@@ -137,10 +111,8 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 ##### Artikel 11. Inwerkingtreding
 
-Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 april 2022.
+Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 april 2022.
 
 ##### Artikel 12. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 1 februari tot en met 8 maart 2022
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling ter tegemoetkoming van geleden verlies door COVID-19-maatregelen bij concerten en voorstellingen in de periode van 1 februari tot en met 8 maart 2022

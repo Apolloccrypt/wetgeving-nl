@@ -1,55 +1,29 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022"
 identifier: "BWBR0046562"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-14"
-last_updated: "2022-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046562"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16328673"
-version_id: "28545572"
-internal_id: "C40279531"
-label_id: "16253704"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046562/2022-04-14/0"
-intitule_bron: "Stcrt.2022-9869"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-16"
-intitule_published: "2022-04-13"
-intitule_in_force: "2022-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9869"
-original_signed_date: "2022-03-16"
-original_published_date: "2022-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9869"
-entry_into_force_date: "2022-04-14"
-jci_1_3: "jci1.3:c:BWBR0046562&z=2022-04-14&g=2022-04-14"
-jci_1_0: "1.0:c:BWBR0046562&g=2022-04-14"
-citeertitel_status: "officieel"
-signed_date: "2022-03-16"
-entry_into_force: "2022-04-14"
+publicatiedatum: 2022-04-14
+laatste_update: 2022-04-14
+status: geldig
+toestand: 2022-04-14
+bron: "https://wetten.overheid.nl/BWBR0046562"
+opgehaald: 2026-09-02
 ---
+
 # Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022
-
-Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en op [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **bewindspersoon:** Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
 
-- b. **mandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 ##### Artikel 2. Organisatie van de Directie Juridische Zaken
 
@@ -73,17 +47,17 @@ De Directeur Juridische Zaken laat zich bij de uitvoering van zijn taken, genoem
 
 - a. een plaatsvervangend directeur die is belast met:
 
-- 1°. de plaatsvervanging van de Directeur Juridische Zaken bij diens afwezigheid;
+   - 1°. de plaatsvervanging van de Directeur Juridische Zaken bij diens afwezigheid;
 
-- 2°. door de Directeur Juridische Zaken opgedragen werkzaamheden of taken;
+   - 2°. door de Directeur Juridische Zaken opgedragen werkzaamheden of taken;
 
 - b. een adjunct directeur die is belast met:
 
-- 1°. beheerstaken op het gebied van personeels- administratief- en organisatorisch management van de Directie Juridische Zaken;
+   - 1°. beheerstaken op het gebied van personeels- administratief- en organisatorisch management van de Directie Juridische Zaken;
 
-- 2°. beheerstaken op het gebied van klachtbehandeling in het kader van de Defensie Klachtenregeling, alsmede op het gebied van behandeling van onderzoeken van de Nationale Ombudsman;
+   - 2°. beheerstaken op het gebied van klachtbehandeling in het kader van de Defensie Klachtenregeling, alsmede op het gebied van behandeling van onderzoeken van de Nationale Ombudsman;
 
-- 3°. door de Directeur Juridische Zaken opgedragen werkzaamheden of taken.
+   - 3°. door de Directeur Juridische Zaken opgedragen werkzaamheden of taken.
 
 ##### Artikel 3a. Ondermandaat, -volmacht en -machtiging plaatsvervangend directeur
 
@@ -231,11 +205,11 @@ Aan het Hoofd van de Militair Juridische Dienst Krijgsmacht wordt mandaat verlee
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
-DE **<< BEWINDSPERSOON>>** VAN DEFENSIE
+DE *<< BEWINDSPERSOON>>* VAN DEFENSIE
 
 voor deze,
 
-**<< functie, handtekening en naam van de ondertekenaar >>**
+*<< functie, handtekening en naam van de ondertekenaar >>*
 
 ##### Artikel 12. Intrekking oude subtaakbesluit en ondermandaatbesluit
 
@@ -243,10 +217,8 @@ Het Subtaakbesluit DJZ Defensie 2016 en het [Ondermandaat, -volmacht en -machtig
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit Directie Juridische Zaken Defensie 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

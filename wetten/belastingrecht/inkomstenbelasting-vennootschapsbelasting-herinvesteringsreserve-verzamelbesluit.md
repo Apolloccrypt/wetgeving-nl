@@ -1,51 +1,59 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, herinvesteringsreserve; Verzamelbesluit"
 identifier: "BWBR0046937"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-19"
-last_updated: "2022-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046937"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "16425913"
-version_id: "28772122"
-internal_id: "C40730021"
-label_id: "16350854"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046937/2022-07-19/0"
-intitule_bron: "Stcrt.2022-19071"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-13"
-intitule_published: "2022-07-18"
-intitule_in_force: "2022-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-19071"
-original_signed_date: "2022-07-13"
-original_published_date: "2022-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-19071"
-entry_into_force_date: "2022-07-19"
-jci_1_3: "jci1.3:c:BWBR0046937&z=2022-07-19&g=2022-07-19"
-jci_1_0: "1.0:c:BWBR0046937&g=2022-07-19"
-citeertitel_status: "redactioneel"
-signed_date: "2022-07-13"
-entry_into_force: "2022-07-19"
+publicatiedatum: 2022-07-19
+laatste_update: 2022-07-19
+status: geldig
+toestand: 2022-07-19
+bron: "https://wetten.overheid.nl/BWBR0046937"
+opgehaald: 2026-09-02
 ---
+
 # Inkomstenbelasting, vennootschapsbelasting, herinvesteringsreserve; Verzamelbesluit
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit beleidsbesluit bevat het beleid over de herinvesteringsreserve (HIR) voor de inkomstenbelasting en vennootschapsbelasting.**
+*Dit beleidsbesluit bevat het beleid over de herinvesteringsreserve (HIR) voor de inkomstenbelasting en vennootschapsbelasting.*
 
 ### 1. Inleiding
 
-Dit besluit is een actualisering van het [besluit van 27 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037149), nr. BLKB2015/864M (Stcrt. 2015, nr. 38250). De volgende onderdelen zijn aangepast, verduidelijkt of nieuw toegevoegd:
+Dit besluit is een actualisering van het [besluit van 27 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037149), nr. BLKB2015/864M (Stcrt. 2015, nr. 38250). De volgende onderdelen zijn aangepast, verduidelijkt of nieuw toegevoegd:
+
+- – [Onderdeel 2.2](https://wetten.overheid.nl/BWBR0046937): Aangepast naar aanleiding van jurisprudentie over de HIR bij onttrekking (HR 16 september 2016, ECLI:NL:HR:2016:2080).
+
+- – [Onderdeel 2.5](https://wetten.overheid.nl/BWBR0046937): Aangepast om te verduidelijken dat de HIR bij gedeeltelijke staking behoort tot het vermogen van het niet gestaakte deel van de onderneming waarin wordt geherinvesteerd.
+
+- – [Onderdelen 2.5](https://wetten.overheid.nl/BWBR0046937) en [3.2](https://wetten.overheid.nl/BWBR0046937): Aangepast door de verwijzingen naar het melkquotum te schrappen, omdat dit per 1 april 2015 is afgeschaft.
+
+- – [Onderdeel 2.8](https://wetten.overheid.nl/BWBR0046937): Aangepast om te verduidelijken hoe de boekwaarde van een beschadigd bedrijfsmiddel na herstel wordt bepaald en om een nieuw standpunt over nabetaling op te nemen.
+
+- – [Onderdeel 2.10](https://wetten.overheid.nl/BWBR0046937): Nieuw toegevoegd met een standpunt over het opwaarderen van een bedrijfsmiddel na een eerdere afwaardering naar lagere bedrijfswaarde.
+
+- – [Onderdeel 3.8](https://wetten.overheid.nl/BWBR0046937): Nieuw toegevoegd met een standpunt over afboeking van een HIR.
+
+- – [Onderdeel 6.3.1](https://wetten.overheid.nl/BWBR0046937): Aangepast om te verduidelijken dat er ook sprake kan zijn van een vervreemding als gevolg van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid, onderdeel b, Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), als het besluit, daaronder begrepen een regeling, van een publiekrechtelijke rechtspersoon wordt uitgevoerd door een andere publiekrechtelijke rechtspersoon.
+
+- – [Onderdeel 6.7](https://wetten.overheid.nl/BWBR0046937): Verduidelijkt naar aanleiding van het nieuwe standpunt in [onderdeel 3.8](https://wetten.overheid.nl/BWBR0046937).
+
+- – [Onderdeel 7.1](https://wetten.overheid.nl/BWBR0046937): Verduidelijkt dat het bij een juridische afsplitsing van belang is dat het bedrijfsmiddel ter zake waarvan de HIR is gevormd, is vervreemd door de afsplitsende rechtspersoon.
 
 Met de overige aanpassingen is geen inhoudelijke wijziging beoogd.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| Wet IB 1964 | Wet op de inkomstenbelasting 1964 |  |
+| --- | --- | --- |
+| Wet IB 2001 | Wet inkomstenbelasting 2001 |  |
+| Wet Vpb 1969 | Wet op de vennootschapsbelasting 1969 |  |
+| AMvB | Algemene maatregel van bestuur |  |
+| artikel 3.54 | artikel 3.54 Wet IB 2001 |  |
+| artikel 3.64 | artikel 3.64 Wet IB 2001 |  |
+| driejaarstermijn | de termijn als bedoeld in artikel 3.54, vijfde lid |  |
+| HIR | herinvesteringsreserve als bedoeld in artikel 3.54 |  |
+| HR | Hoge Raad |  |
+| kort-afschrijfbare bedrijfsmiddelen | bedrijfsmiddelen waarop in maximaal tien jaren pleegt te worden afgeschreven |  |
+| lang-afschrijfbare bedrijfsmiddelen | bedrijfsmiddelen waarop in meer dan tien jaren pleegt te worden afgeschreven |  |
+| niet-afschrijfbare bedrijfsmiddelen | bedrijfsmiddelen waarop niet pleegt te worden afgeschreven |  |
 
 ### 2. Vorming van de HIR
 
@@ -59,7 +67,9 @@ Bij ‘verlies’ kan in de eerste plaats worden gedacht aan het onvrijwillig te
 
 Een HIR kan uitsluitend worden gevormd bij vervreemding, waaronder mede begrepen verlies of beschadiging, van een bedrijfsmiddel. Bij een onttrekking zonder een daarmee samenhangende vervreemding is de vorming van een HIR dus niet toegestaan. Van een dergelijke situatie is sprake als een ondernemer in de inkomstenbelasting twee ondernemingen drijft en een bedrijfsmiddel uit de ene onderneming onttrekt en inbrengt in de andere onderneming.
 
-Bij onttrekkingen kunnen wel de ruilarresten worden toegepast (HR 15 april 1998, ECLI:NL:HR:1998:AA2491). De ruilarresten kunnen echter niet worden gebruikt bij een onttrekking door staking van de oude onderneming gevolgd door inbreng in een andere onderneming, omdat de ruilarresten niet over de stakingsgrens heen werken. Ook is dan [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64) niet van toepassing, omdat deze bepaling voor het begrip ‘herinvesteren’ aansluit bij [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) en er geen aanschaffings- dan wel voortbrengingskosten worden gemaakt waarop bij staking behaalde (boek)winst zou kunnen worden afgeboekt.
+Bij onttrekkingen kunnen wel de ruilarresten worden toegepast (HR 15 april 1998, ECLI:NL:HR:1998:AA2491). De ruilarresten kunnen echter niet worden gebruikt bij een onttrekking door staking van de oude onderneming gevolgd door inbreng in een andere onderneming, omdat de ruilarresten niet over de stakingsgrens heen werken. Ook is dan [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64) niet van toepassing, omdat deze bepaling voor het begrip ‘herinvesteren’ aansluit bij [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) en er geen aanschaffings- dan wel voortbrengingskosten worden gemaakt waarop bij staking behaalde (boek)winst zou kunnen worden afgeboekt.
+
+Goedkeuring
 
 De bedoeling van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64) is om geen fiscale belemmeringen op te werpen ingeval de onderneming wordt gestaakt en daarbij behaalde winst wordt aangewend voor investeringen in de nieuwe onderneming. Tegen deze achtergrond keur ik goed dat artikel 3.64 ook geldt voor bedrijfsmiddelen die met of bij de staking zijn onttrokken aan de ‘oude’ onderneming en die vervolgens zijn ingebracht in een andere onderneming van belastingplichtige. Hierbij wordt de inbreng als aanschaf gezien en de waarde van het ingebrachte bedrijfsmiddel als aanschaffingskosten aangemerkt.
 
@@ -73,13 +83,13 @@ Als niet het voornemen bestaat de gehele opbrengst te herinvesteren, kan bij een
 
 Aan de vorming van een HIR is inherent dat de belastingplichtige een voornemen heeft tot herinvestering in één of meer bedrijfsmiddelen waarop deze reserve ook kan worden afgeboekt. Immers, ‘gereserveerd kan worden (.) tot vermindering van de in aanmerking te nemen aanschaffings- of voortbrengingskosten’ van de bedrijfsmiddelen waarin men voornemens is te herinvesteren ([artikel 3.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Dit betekent bijvoorbeeld dat voor de boekwinst op een vervreemd lang-afschrijfbaar bedrijfsmiddel geen HIR kan worden gevormd, als het voornemen bestaat uitsluitend te herinvesteren in een ander lang-afschrijfbaar bedrijfsmiddel dat niet eenzelfde economische functie vervult als het vervreemde bedrijfsmiddel.
 
-Voor de instandhouding van de gevormde HIR moet het herinvesteringsvoornemen onafgebroken aanwezig zijn. Als een relevant herinvesteringsvoornemen niet langer aanwezig is, moet de eerder gevormde HIR in de winst worden opgenomen (HR 9 november 2012, ECLI:NL:HR:2012:BX6705).
+Voor de instandhouding van de gevormde HIR moet het herinvesteringsvoornemen onafgebroken aanwezig zijn. Als een relevant herinvesteringsvoornemen niet langer aanwezig is, moet de eerder gevormde HIR in de winst worden opgenomen (HR 9 november 2012, ECLI:NL:HR:2012:BX6705).
 
-Als vervreemding plaatsvindt in het kader van herstructurering van een bedrijfstak, maar de desbetreffende regelgeving niet kwalificeert als overheidsingrijpen, omdat deze regelgeving nog niet is aangewezen bij AMvB ([artikel 3.54, twaalfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)), geldt de goedkeuring als vermeld in onderdeel 6.4.
+Als vervreemding plaatsvindt in het kader van herstructurering van een bedrijfstak, maar de desbetreffende regelgeving niet kwalificeert als overheidsingrijpen, omdat deze regelgeving nog niet is aangewezen bij AMvB ([artikel 3.54, twaalfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)), geldt de goedkeuring als vermeld in [onderdeel 6.4](https://wetten.overheid.nl/BWBR0046937).
 
 ### 2.5. Herinvesteringsvoornemen bij afstoten tak gemengd bedrijf
 
-Bij het staken van een gedeelte van de onderneming moet rekening worden gehouden met de mogelijkheid dat bij herinvestering in niet- of lang-afschrijfbare bedrijfsmiddelen in het overgebleven deel van de onderneming niet wordt voldaan aan de eis van ‘eenzelfde economische functie’ ([artikel 3.54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Als dat het geval is kan een HIR niet op die bedrijfsmiddelen worden afgeboekt. Van staking van een gedeelte van de onderneming kan bijvoorbeeld sprake zijn bij verkoop van zowel het melkvee als fosfaatrechten (vergelijk HR 11 juni 1997, ECLI:NL:HR:1997:AA2182).
+Bij het staken van een gedeelte van de onderneming moet rekening worden gehouden met de mogelijkheid dat bij herinvestering in niet- of lang-afschrijfbare bedrijfsmiddelen in het overgebleven deel van de onderneming niet wordt voldaan aan de eis van ‘eenzelfde economische functie’ ([artikel 3.54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Als dat het geval is kan een HIR niet op die bedrijfsmiddelen worden afgeboekt. Van staking van een gedeelte van de onderneming kan bijvoorbeeld sprake zijn bij verkoop van zowel het melkvee als fosfaatrechten (vergelijk HR 11 juni 1997, ECLI:NL:HR:1997:AA2182).
 
 Als binnen één onderneming een gemengd bedrijf wordt uitgeoefend en in samenhang met de beëindiging van de ene tak van bedrijvigheid de andere verwante tak wordt uitgebreid, brengt een redelijke wetstoepassing mee dat ervan uitgegaan mag worden dat geen sprake is van staking van een gedeelte van de onderneming. Hierdoor kan gemakkelijker worden voldaan aan de eis van ‘eenzelfde economische functie’.
 
@@ -89,11 +99,17 @@ Voor zover een HIR wordt gevormd, behoort de boekwinst niet tot de jaarwinst en 
 
 In de vennootschapsbelasting gaat het om het herinvesteringsvoornemen van het bestuur van de vennootschap dat het bedrijfsmiddel heeft vervreemd.
 
-Deze situaties verschillen van die waarin sprake is van aankoop van een vennootschap met daarin het als vervanging te verwerven bedrijfsmiddel (HR 25 maart 1998, ECLI:NL:HR:1998:AA2520).
+Voorbeeld
+
+- 1. Een vennootschap heeft een boekwinst behaald bij de vervreemding van een pand. Kort daarna gaat zij als dochtermaatschappij deel uitmaken van een fiscale eenheid. Zij kan geen HIR vormen als het bestuur van de vennootschap reeds vóór het aangaan van de fiscale eenheid wist dat de moeder (door middel van een andere gevoegde dochter) de herinvestering gaat plegen. De gevoegde vennootschap heeft dan niet of niet meer het voornemen tot herinvestering.
+
+- 2. Een vennootschap heeft een boekwinst behaald bij de vervreemding van een pand met de bedoeling door middel van juridische fusie als verkrijgende rechtspersoon een pand in eigendom te verwerven van haar dochtermaatschappij als verdwijnende rechtspersoon. Bij een juridische fusie wordt niet ‘geherinvesteerd’. Een HIR kan niet worden gevormd omdat geen voornemen tot herinvesteren bestaat.
+
+Deze situaties verschillen van die waarin sprake is van aankoop van een vennootschap met daarin het als vervanging te verwerven bedrijfsmiddel (HR 25 maart 1998, ECLI:NL:HR:1998:AA2520).
 
 ### 2.7. Pacht- of huurrecht bedrijfsmiddel
 
-Een waardevol huur- of pachtrecht dat binnen een onderneming wordt gebruikt, is een bedrijfsmiddel. Of sprake is van een waardevol recht kan blijken uit de vergoeding die ervoor wordt betaald bij beëindiging daarvan. De omstandigheid dat op de balans van de onderneming voor het huur- of pachtrecht geen actiefpost is opgevoerd, doet daaraan niet af (Hof Arnhem 6 juni 1995, ECLI:NL:GHARN:1995:AW0735).
+Een waardevol huur- of pachtrecht dat binnen een onderneming wordt gebruikt, is een bedrijfsmiddel. Of sprake is van een waardevol recht kan blijken uit de vergoeding die ervoor wordt betaald bij beëindiging daarvan. De omstandigheid dat op de balans van de onderneming voor het huur- of pachtrecht geen actiefpost is opgevoerd, doet daaraan niet af (Hof Arnhem 6 juni 1995, ECLI:NL:GHARN:1995:AW0735).
 
 Een beëindigingsvergoeding voor een als bedrijfsmiddel aan te merken huur- of pachtrecht kan leiden tot boekwinst. Voor deze boekwinst kan een HIR worden gevormd, voor zover deze vergoeding niet is aan te merken als een vergoeding wegens inkomensschade (bijvoorbeeld wegens hogere lasten van het vervangende bedrijfsmiddel).
 
@@ -103,17 +119,34 @@ Bij de beschadiging van een bedrijfsmiddel kan alleen een HIR worden gevormd voo
 
 Het herinvesteringsvoornemen op grond waarvan voor het verschil tussen de vergoeding en de genoemde boekwaarde een HIR is gevormd, kan gericht zijn op:
 
+- a. investeringen in het beschadigde bedrijfsmiddel;
+
+- b. investering in een nieuw lang- of niet-afschrijfbaar bedrijfsmiddel met eenzelfde economische functie, als de HIR is gevormd ter zake van de vergoeding van een lang- of niet-afschrijfbaar bedrijfsmiddel; of
+
+- c. investering in één of meer kort-afschrijfbare bedrijfsmiddelen.
+
 In de situatie als bedoeld in onderdeel a wordt de boekwaarde van een beschadigd bedrijfsmiddel direct na herstel als volgt bepaald:
+
+| Boekwaarde vóór beschadiging | € .... |
+| --- | --- |
+| Eventueel boekverlies door schade | € .... -/- |
+| Geactiveerde uitgaven voor herstel | € .... +/+ |
+| (Gedeeltelijke) afboeking van de HIR | € .... -/- |
+| Afschrijving over periode tussen beschadiging en herstel | € .... -/- |
+|  |  |
+| Boekwaarde na herstel | € .... |
 
 De boekwaarde na herstel mag door afboeking van de HIR niet lager worden dan de boekwaarde vóór beschadiging ([artikel 3.54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Hierbij wordt uitgegaan van de boekwaarde na herstel zoals hierboven bepaald, maar dan zonder rekening te houden met de vermindering als gevolg van afschrijving ter zake van het beschadigde deel over de periode tussen beschadiging en herstel.
 
-Een na het jaar van vervreemding (beschadiging van het bedrijfsmiddel) tot de winst te rekenen schadevergoeding of een schadevergoeding die hoger is dan voorzien, acht ik voldoende vergelijkbaar met een nabetaling. Onderdeel 7.2 kan daarom naar analogie worden toegepast.
+Een na het jaar van vervreemding (beschadiging van het bedrijfsmiddel) tot de winst te rekenen schadevergoeding of een schadevergoeding die hoger is dan voorzien, acht ik voldoende vergelijkbaar met een nabetaling. [Onderdeel 7.2](https://wetten.overheid.nl/BWBR0046937) kan daarom naar analogie worden toegepast.
 
 ### 2.9. Geen HIR en evenmin toepassing ruilarresten bij normale verkoop uit handelsvoorraad
 
-De ruilarresten kunnen in beginsel toepassing vinden op de ruil van alle soorten activa (HR 1 november 1989, ECLI:NL:HR:1989:ZC4131, en HR 22 oktober 2010, ECLI:NL:HR:2010:BO1393). Bij ruil hoeft geen winst te worden genomen als economisch gezien de oude toestand is gehandhaafd (HR 28 december 1951, ECLI:NL:HR:1951:113).
+De ruilarresten kunnen in beginsel toepassing vinden op de ruil van alle soorten activa (HR 1 november 1989, ECLI:NL:HR:1989:ZC4131, en HR 22 oktober 2010, ECLI:NL:HR:2010:BO1393). Bij ruil hoeft geen winst te worden genomen als economisch gezien de oude toestand is gehandhaafd (HR 28 december 1951, ECLI:NL:HR:1951:113).
 
-De ruilarresten kunnen niet worden toegepast bij vervreemding van een bedrijfsmiddel als bedoeld in [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), waarvoor in beginsel een HIR kan worden gevormd (HR 23 mei 2014, ECLI:NL:HR:2014:1183). Als vorming van een HIR niet mogelijk is omdat geen sprake is van een bedrijfsmiddel als bedoeld in artikel 3.54, komt de vraag op of de ruilarresten toepassing kunnen vinden.
+De ruilarresten kunnen niet worden toegepast bij vervreemding van een bedrijfsmiddel als bedoeld in [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), waarvoor in beginsel een HIR kan worden gevormd (HR 23 mei 2014, ECLI:NL:HR:2014:1183). Als vorming van een HIR niet mogelijk is omdat geen sprake is van een bedrijfsmiddel als bedoeld in artikel 3.54, komt de vraag op of de ruilarresten toepassing kunnen vinden.
+
+Voorbeeld
 
 Twee leveranciers op verschillende locaties ruilen hun voorraden zodat zij op een bepaalde locatie tijdig aan de vraag kunnen voldoen. De ruilarresten zijn van toepassing.
 
@@ -123,7 +156,7 @@ Bij normale verkoop uit de handelsvoorraad en aanvulling daarvan, is vanuit econ
 
 ### 2.10. Opwaardering na afwaardering naar lagere bedrijfswaarde
 
-Een bedrijfsmiddel dat is afgewaardeerd naar lagere bedrijfswaarde dient naar goed koopmansgebruik, als de bedrijfswaarde in een later jaar stijgt, te worden opgewaardeerd (HR 18 maart 1992, ECLI:NL:HR:1992:ZC4933). De HIR wordt gevormd op het moment waarop de stille reserve (vervreemdingswinst) wordt gerealiseerd (HR 23 mei 2015, ECLI:NL:HR:2014:1092). Bij het bepalen van de vervreemdingswinst moet rekening worden gehouden met de uitgangspunten van goed koopmansgebruik. Dit betekent dat bij een stijging van de bedrijfswaarde een opwaardering in aanmerking wordt genomen alvorens de vervreemdingswinst kan worden bepaald. De boekwinst omvat dan ook de stijging van de bedrijfswaarde die volgens goed koopmansgebruik tot de winst zou worden gerekend als vervreemding niet zou hebben plaatsgevonden.
+Een bedrijfsmiddel dat is afgewaardeerd naar lagere bedrijfswaarde dient naar goed koopmansgebruik, als de bedrijfswaarde in een later jaar stijgt, te worden opgewaardeerd (HR 18 maart 1992, ECLI:NL:HR:1992:ZC4933). De HIR wordt gevormd op het moment waarop de stille reserve (vervreemdingswinst) wordt gerealiseerd (HR 23 mei 2015, ECLI:NL:HR:2014:1092). Bij het bepalen van de vervreemdingswinst moet rekening worden gehouden met de uitgangspunten van goed koopmansgebruik. Dit betekent dat bij een stijging van de bedrijfswaarde een opwaardering in aanmerking wordt genomen alvorens de vervreemdingswinst kan worden bepaald. De boekwinst omvat dan ook de stijging van de bedrijfswaarde die volgens goed koopmansgebruik tot de winst zou worden gerekend als vervreemding niet zou hebben plaatsgevonden.
 
 ### 3. Afboeking van een HIR
 
@@ -133,7 +166,7 @@ Afboeking van een HIR op een bedrijfsmiddel is mogelijk tot beneden de restwaard
 
 ### 3.2. Beoordeling periode waarin pleegt te worden afgeschreven
 
-Voor de afboeking van een HIR is van belang of sprake is van de investering in een kort-afschrijfbaar, dan wel een lang- of niet-afschrijfbaar bedrijfsmiddel. Voor de laatstgenoemde categorieën geldt de eis van ‘eenzelfde economische functie’ (zie onderdeel 5). De afschrijvingstermijn is door de wetgever bewust geobjectiveerd. Bepalend is of en in hoeveel jaren op het bedrijfsmiddel ‘pleegt’ te worden afgeschreven. Het gaat dus om de normale, in het economische verkeer gebruikelijke afschrijvingstermijn. Niet relevant is dat een individuele ondernemer het bedrijfsmiddel – eventueel door willekeurig af te schrijven – in een kortere periode afschrijft.
+Voor de afboeking van een HIR is van belang of sprake is van de investering in een kort-afschrijfbaar, dan wel een lang- of niet-afschrijfbaar bedrijfsmiddel. Voor de laatstgenoemde categorieën geldt de eis van ‘eenzelfde economische functie’ (zie [onderdeel 5](https://wetten.overheid.nl/BWBR0046937)). De afschrijvingstermijn is door de wetgever bewust geobjectiveerd. Bepalend is of en in hoeveel jaren op het bedrijfsmiddel ‘pleegt’ te worden afgeschreven. Het gaat dus om de normale, in het economische verkeer gebruikelijke afschrijvingstermijn. Niet relevant is dat een individuele ondernemer het bedrijfsmiddel – eventueel door willekeurig af te schrijven – in een kortere periode afschrijft.
 
 ### 3.3. Volgorde afboeking, keuze afboeking binnen kort-afschrijvingsregime
 
@@ -142,6 +175,8 @@ Een HIR, die is gevormd voor de winst op een niet- of lang-afschrijfbaar bedrijf
 ### 3.4. Volgorde afboeking, keuze voor verschillende investeringen
 
 Als binnen een boekjaar meerdere aanschaffingen en ten minste één vervreemding hebben plaatsgevonden, komt de vraag op waar een gevormde HIR op moet worden afgeboekt.
+
+Goedkeuring
 
 Als in enig boekjaar aanschaffingen hebben plaatsgevonden vóór en na de vervreemding van een bedrijfsmiddel, keur ik voor zover nodig goed dat de voor de vervreemdingswinst gevormde HIR naar keuze van de ondernemer wordt afgeboekt op de daarvoor in aanmerking komende investeringen. Het is dan dus niet van belang of die aanschaffingen vóór of na de vervreemding hebben plaatsgevonden.
 
@@ -155,7 +190,7 @@ Als een ondernemer in de afgelopen drie jaren meerdere HIR’s heeft gevormd die
 
 ### 3.6. Wanneer is sprake van herinvestering waarop een HIR wordt afgeboekt
 
-Een HIR wordt – afgezien van de andere voorwaarden – afgeboekt als te activeren aanschaffings- of voortbrengingskosten zijn gemaakt. In geval van koop van een bedrijfsmiddel laat goed koopmansgebruik toe dat aanschaffingskosten op de fiscale balans worden geactiveerd vanaf het tijdstip waarop voor de verwerving van dit bedrijfsmiddel verplichtingen zijn aangegaan (HR 23 mei 2014, ECLI:NL:HR:2014:1187, ECLI:NL:HR:2014:1188, ECLI:NL:HR:2014:1189 en ECLI:NL:HR:2014:1190). Voor de uitleg van het begrip ‘aangaan van verplichtingen’ kan worden aangesloten bij het begrip ‘aangaan van verplichtingen’ van de investeringsaftrek en de in dat kader gewezen jurisprudentie ([artikel 3.43, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.43)).
+Een HIR wordt – afgezien van de andere voorwaarden – afgeboekt als te activeren aanschaffings- of voortbrengingskosten zijn gemaakt. In geval van koop van een bedrijfsmiddel laat goed koopmansgebruik toe dat aanschaffingskosten op de fiscale balans worden geactiveerd vanaf het tijdstip waarop voor de verwerving van dit bedrijfsmiddel verplichtingen zijn aangegaan (HR 23 mei 2014, ECLI:NL:HR:2014:1187, ECLI:NL:HR:2014:1188, ECLI:NL:HR:2014:1189 en ECLI:NL:HR:2014:1190). Voor de uitleg van het begrip ‘aangaan van verplichtingen’ kan worden aangesloten bij het begrip ‘aangaan van verplichtingen’ van de investeringsaftrek en de in dat kader gewezen jurisprudentie ([artikel 3.43, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.43)).
 
 ### 3.7. De termijn waarbinnen een HIR uiterlijk kan worden afgeboekt
 
@@ -165,7 +200,7 @@ Bij de bepaling van de driejaarstermijn waarbinnen een gevormde HIR uiterlijk ka
 
 ### 3.8. HIR lang-afschrijfbaar afboeken op niet-afschrijfbaar
 
-Een HIR kan alleen worden afgeboekt op niet- of lang-afschrijfbare bedrijfsmiddelen als die HIR is gevormd bij de vervreemding van bedrijfsmiddelen met eenzelfde economische functie ([artikel 3.54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). In de praktijk is de vraag gesteld of de HIR die is gevormd ter zake van de vervreemding van een lang-afschrijfbaar bedrijfsmiddel kan worden afgeboekt op een niet-afschrijfbaar bedrijfsmiddel. Op basis van de wettekst neem ik het standpunt in dat de HIR die is gevormd ter zake van de vervreemding van een lang-afschrijfbaar bedrijfsmiddel kan worden afgeboekt op een niet-afschrijfbaar bedrijfsmiddel, mits sprake is van eenzelfde economische functie in de onderneming. De eis van eenzelfde economische functie is geduid in jurisprudentie, zoals het arrest van de Hoge Raad van 12 november 1975, ECLI:NL:HR:1975:AX4129, en komt terug in onderdeel 5 van dit besluit. Bijvoorbeeld bij de vervanging van verhuurde panden in eigendom door voor verhuur bestemde grond in eigendom zou sprake kunnen zijn van eenzelfde economische functie in de onderneming. Dit is afhankelijk van de feiten en omstandigheden.
+Een HIR kan alleen worden afgeboekt op niet- of lang-afschrijfbare bedrijfsmiddelen als die HIR is gevormd bij de vervreemding van bedrijfsmiddelen met eenzelfde economische functie ([artikel 3.54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). In de praktijk is de vraag gesteld of de HIR die is gevormd ter zake van de vervreemding van een lang-afschrijfbaar bedrijfsmiddel kan worden afgeboekt op een niet-afschrijfbaar bedrijfsmiddel. Op basis van de wettekst neem ik het standpunt in dat de HIR die is gevormd ter zake van de vervreemding van een lang-afschrijfbaar bedrijfsmiddel kan worden afgeboekt op een niet-afschrijfbaar bedrijfsmiddel, mits sprake is van eenzelfde economische functie in de onderneming. De eis van eenzelfde economische functie is geduid in jurisprudentie, zoals het arrest van de Hoge Raad van 12 november 1975, ECLI:NL:HR:1975:AX4129, en komt terug in [onderdeel 5](https://wetten.overheid.nl/BWBR0046937) van dit besluit. Bijvoorbeeld bij de vervanging van verhuurde panden in eigendom door voor verhuur bestemde grond in eigendom zou sprake kunnen zijn van eenzelfde economische functie in de onderneming. Dit is afhankelijk van de feiten en omstandigheden.
 
 ### 4. Boekwaarde-eis
 
@@ -175,7 +210,7 @@ Voor de vraag of aan de boekwaarde-eis is voldaan, zijn alleen bepalend de boekw
 
 Een HIR, ontstaan door de vervreemding van een lang- of niet-afschrijfbaar bedrijfsmiddel, mag worden aangehouden tot het moment waarop wordt geherinvesteerd in een bedrijfsmiddel met eenzelfde economische functie ([artikel 3.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). In dat geval is de investering in het vervangende bedrijfsmiddel bepalend voor de toets aan de boekwaarde-eis.
 
-De boekwaarde-eis kan ertoe leiden dat als wordt geherinvesteerd in een bedrijfsmiddel met eenzelfde economische functie, een deel van de HIR moet vrijvallen (zie ook onderdeel 5.1, slot). Is evenwel sprake van gedeeltelijke herinvestering dan kan het deel van de HIR dat door de boekwaarde-eis niet kon worden afgeboekt, alsnog worden afgeboekt op een latere aanvullende investering in een bedrijfsmiddel met eenzelfde economische functie (zie ook onderdeel 5.7).
+De boekwaarde-eis kan ertoe leiden dat als wordt geherinvesteerd in een bedrijfsmiddel met eenzelfde economische functie, een deel van de HIR moet vrijvallen (zie ook [onderdeel 5.1](https://wetten.overheid.nl/BWBR0046937), slot). Is evenwel sprake van gedeeltelijke herinvestering dan kan het deel van de HIR dat door de boekwaarde-eis niet kon worden afgeboekt, alsnog worden afgeboekt op een latere aanvullende investering in een bedrijfsmiddel met eenzelfde economische functie (zie ook [onderdeel 5.7](https://wetten.overheid.nl/BWBR0046937)).
 
 ### 5. Eenzelfde economische functie
 
@@ -183,11 +218,13 @@ De boekwaarde-eis kan ertoe leiden dat als wordt geherinvesteerd in een bedrijfs
 
 Een HIR kan worden afgeboekt op een investering in een lang- of niet-afschrijfbaar bedrijfsmiddel, als dat bedrijfsmiddel eenzelfde economische functie heeft als het vervreemde bedrijfsmiddel waarvoor de HIR is gevormd. Is daarbij sprake van een volledige vervanging terwijl het investeringsbedrag lager is dan de bruto verkoopopbrengst (derhalve inclusief de boekwaarde) van het vervreemde bedrijfsmiddel, dan kan de HIR niet volledig worden afgeboekt. De resterende HIR kan dan niet worden afgeboekt op een investering in een ander lang- of niet-afschrijfbaar bedrijfsmiddel. Er is immers al vervangen waardoor een andere investering niet voldoet aan de eis van eenzelfde economische functie ([artikel 3.54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)).
 
-Als een HIR bij volledige vervanging maar voor een deel kan worden afgeboekt, dan kan het restant bij investeringen in kort-afschrijfbare bedrijfsmiddelen daarop volledig worden afgeboekt omdat al is voldaan aan de boekwaarde-eis. Dat kan dan zelfs tot beneden de restwaarde (zie onderdeel 3.1). Zie voor onvolledige vervanging onderdeel 5.7.
+Als een HIR bij volledige vervanging maar voor een deel kan worden afgeboekt, dan kan het restant bij investeringen in kort-afschrijfbare bedrijfsmiddelen daarop volledig worden afgeboekt omdat al is voldaan aan de boekwaarde-eis. Dat kan dan zelfs tot beneden de restwaarde (zie [onderdeel 3.1](https://wetten.overheid.nl/BWBR0046937)). Zie voor onvolledige vervanging [onderdeel 5.7](https://wetten.overheid.nl/BWBR0046937).
 
 ### 5.2. Verkoop grond, investering in grond en opstal
 
 Eén van de kenmerken van een bedrijfsmiddel is dat het geëtiketteerd is als ondernemingsvermogen. Bij onroerende zaken komt het voor dat één zaak deels geëtiketteerd is als ondernemingsvermogen en voor het andere deel als privévermogen. Als na vervreemding van de zaak voor het bedrijfsmiddel(deel) een herinvesteringsvoornemen bestaat, moet bij de beoordeling van eenzelfde economische functie rekening worden gehouden met de aard van het deel dat tot het privévermogen behoorde. Als wordt geherinvesteerd in een zaak die in zijn geheel tot het ondernemingsvermogen wordt gerekend, brengt een redelijke wetstoepassing mee de HIR uitsluitend in verband te brengen met dat deel van de herinvestering dat op het oorspronkelijke ondernemingsvermogendeel betrekking heeft.
+
+Voorbeeld
 
 Een woonhuis met ondergrond vormt één (onroerende) zaak. De eerder verworven grond behoort tot het ondernemingsvermogen en voor het nadien gebouwde woonhuis heeft de ondernemer gekozen voor privévermogen. Woonhuis en ondergrond worden vervreemd. Voor de aan de grond toe te rekenen boekwinst kan een HIR worden gevormd, mits bij de beoordeling van de economische functie van de grond rekening wordt gehouden met de aard van de opstal. Bij herinvestering in een woonhuis met ondergrond dat in zijn geheel tot het ondernemingsvermogen wordt gerekend, wordt de HIR afgeboekt op het deel van het investeringsbedrag dat is toe te rekenen aan de grond. De overige vereisten blijven uiteraard van toepassing, waaronder de boekwaarde-eis.
 
@@ -197,17 +234,17 @@ Vorming van een HIR geschiedt per bedrijfsmiddel. Ieder bedrijfspand in aanbouw 
 
 ### 5.4. Investering in het buitenland
 
-Een ondernemer die in Nederland woont, mag bij de vervreemding van een in Nederland gelegen onroerende zaak een HIR vormen ter afboeking op een in het buitenland aangeschafte onroerende zaak (HR 2 maart 1994, ECLI:NL:HR:1994:BH8737). Ik merk hierbij op dat een HIR niet over de ondernemingsgrens kan worden toegepast. Als sprake is van staking en binnen 12 maanden daarna herinvestering in een andere onderneming van belastingplichtige plaatsvindt, gelden de regels van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64) (zie onderdelen 2.2. en 2.3).
+Een ondernemer die in Nederland woont, mag bij de vervreemding van een in Nederland gelegen onroerende zaak een HIR vormen ter afboeking op een in het buitenland aangeschafte onroerende zaak (HR 2 maart 1994, ECLI:NL:HR:1994:BH8737). Ik merk hierbij op dat een HIR niet over de ondernemingsgrens kan worden toegepast. Als sprake is van staking en binnen 12 maanden daarna herinvestering in een andere onderneming van belastingplichtige plaatsvindt, gelden de regels van [artikel 3.64](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.64) (zie [onderdelen 2.2](https://wetten.overheid.nl/BWBR0046937). en [2.3](https://wetten.overheid.nl/BWBR0046937)).
 
 Als een HIR op een in het buitenland aangeschafte onroerende zaak is afgeboekt, wordt de totale (wereld)winst uit onderneming berekend met inachtneming van afschrijvingen op basis van de historische kostprijs van de in het buitenland gelegen onroerende zaak verminderd met de HIR. De winst uit het in het buitenland gelegen gedeelte van de onderneming ter bepaling van de aftrek ter voorkoming van dubbele belasting wordt daarentegen berekend met inachtneming van afschrijvingen op basis van de historische kostprijs, dus zonder afboeking van de HIR. Eén en ander vindt overeenkomstige toepassing bij vervreemding van de in het buitenland gelegen onroerende zaak.
 
-Met ingang van 1 januari 2012 is voor belastingplichtigen voor de vennootschapsbelasting de objectvrijstelling voor buitenlandse ondernemingswinsten ingevoerd. Alleen de wijze waarop met buitenlandse winsten en verliezen rekening wordt gehouden is gewijzigd, niet de vaststelling daarvan. De manier waarop met de HIR rekening wordt gehouden bij de vaststelling van de (wereld)winst en de buitenlandse winst is met de invoering van deze objectvrijstelling dus niet gewijzigd.
+Met ingang van 1 januari 2012 is voor belastingplichtigen voor de vennootschapsbelasting de objectvrijstelling voor buitenlandse ondernemingswinsten ingevoerd. Alleen de wijze waarop met buitenlandse winsten en verliezen rekening wordt gehouden is gewijzigd, niet de vaststelling daarvan. De manier waarop met de HIR rekening wordt gehouden bij de vaststelling van de (wereld)winst en de buitenlandse winst is met de invoering van deze objectvrijstelling dus niet gewijzigd.
 
 ### 5.5. Herinvestering: erfpachtrecht soms sterk verwant aan eigendom
 
 Bij de toets of sprake is van eenzelfde economische functie komt het voor dat een erfpachtrecht op grond enerzijds en grond in volle eigendom anderzijds moet worden beoordeeld. Afgezien van de wijze waarop het bedrijfsmiddel wordt aangewend in de onderneming, is ook vereist dat het erfpachtrecht een sterke verwantschap vertoont met een recht van eigendom. Daarvan is sprake als het erfpachtrecht niet in duur is beperkt en het geen of een eeuwigdurend afgekochte canon kent.
 
-In andere gevallen verschilt het recht van erfpacht naar zijn aard zozeer van het recht van eigendom van grond dat alleen daarom al niet kan worden voldaan aan het vereiste dat sprake moet zijn van het vervullen van eenzelfde economische functie in de onderneming (HR 3 maart 1982, ECLI:NL:HR:1982:AW9357, inzake een pachtrecht).
+In andere gevallen verschilt het recht van erfpacht naar zijn aard zozeer van het recht van eigendom van grond dat alleen daarom al niet kan worden voldaan aan het vereiste dat sprake moet zijn van het vervullen van eenzelfde economische functie in de onderneming (HR 3 maart 1982, ECLI:NL:HR:1982:AW9357, inzake een pachtrecht).
 
 Als het erfpachtrecht geen sterke verwantschap vertoont met een eigendomsrecht, zal het afschrijfbaar kunnen zijn. De afschrijvingsduur is doorgaans afhankelijk van de afgesproken duur van het erfpachtrecht. Wanneer, gelet op de voorwaarden, op een dergelijk erfpachtrecht in tien jaren of minder pleegt te worden afgeschreven, dan geldt niet het vereiste dat sprake moet zijn van eenzelfde economische functie. De boekwinst op de grond in eigendom is dan in beginsel af te boeken op het erfpachtrecht ([artikel 3.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). Pleegt een dergelijk erfpachtrecht echter in meer dan tien jaren te worden afgeschreven, dan kan de HIR niet worden afgeboekt op dit recht (artikel 3.54, vierde lid). In dat geval geldt immers wèl het vereiste dat de HIR alleen kan worden afgeboekt op een bedrijfsmiddel met eenzelfde economische functie.
 
@@ -218,6 +255,8 @@ Bij overheidsingrijpen geldt het vereiste van eenzelfde economische functie niet
 ### 5.6. Vervanging eigendom door erfpacht en opstalrecht en vice versa
 
 Bij de beoordeling of sprake is van eenzelfde economische functie kan de vraag opkomen hoe kan worden omgegaan met enerzijds een pand op grond in erfpacht, waarbij voor het pand een recht van opstal is gevestigd, en anderzijds een pand met ondergrond in eigendom. Een recht van opstal is een recht om op of boven een onroerende zaak van een ander gebouwen (werken of beplantingen) in eigendom te hebben of te verkrijgen.
+
+Goedkeuring
 
 Ik keur voor zoveel nodig goed dat een bedrijfsmiddel bestaand uit een pand met ondergrond in volle eigendom wat de opstal betreft eenzelfde economische functie kan vervullen als een pand waarvan de eigendom bestaat krachtens een recht van opstal. Daarnaast is uiteraard nog van belang de wijze waarop het bedrijfsmiddel wordt aangewend in de onderneming.
 
@@ -231,7 +270,7 @@ In dat geval zal slechts een met de mate van vervanging evenredig deel van de ge
 
 Als volledig wordt vervangen en daarenboven sprake is van een uitbreidingsinvestering, zal alleen het deel van de investering dat als vervanging is aan te merken eenzelfde economische functie kunnen vervullen. Dit betekent dat in geval van uitbreiding de totale investering zal moeten worden gesplitst in enerzijds een uitbreidingsdeel en anderzijds een vervangingsdeel waarop – met inachtneming van de boekwaarde-eis – de HIR kan worden afgeboekt.
 
-In situaties van panden in eigen gebruik wordt de mate van vervanging veelal gerelateerd aan oppervlakte, inhoud of rendement (Hof Den Haag 5 september 1986, ECLI:NL:GHSGR:1986:AW7891, HR 25 november 1998, ECLI:NL:HR:1998:AA2722, en HR 19 december 2003, ECLI:NL:HR:2003:AO0655). In de situatie van verhuurde panden daarentegen wordt de mate van vervanging gerelateerd aan de aankoopprijs ten opzichte van de verkoopopbrengst (HR 10 maart 2006, ECLI:NL:HR:2006:AU8196).
+In situaties van panden in eigen gebruik wordt de mate van vervanging veelal gerelateerd aan oppervlakte, inhoud of rendement (Hof Den Haag 5 september 1986, ECLI:NL:GHSGR:1986:AW7891, HR 25 november 1998, ECLI:NL:HR:1998:AA2722, en HR 19 december 2003, ECLI:NL:HR:2003:AO0655). In de situatie van verhuurde panden daarentegen wordt de mate van vervanging gerelateerd aan de aankoopprijs ten opzichte van de verkoopopbrengst (HR 10 maart 2006, ECLI:NL:HR:2006:AU8196).
 
 ### 6. Overheidsingrijpen
 
@@ -239,41 +278,65 @@ In situaties van panden in eigen gebruik wordt de mate van vervanging veelal ger
 
 Onder overheidsingrijpen wordt het volgende verstaan ([artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)):
 
-Het is mogelijk dat een bepaalde situatie onder meer dan één van de hiervoor genoemde onderdelen valt. Dit is van belang, omdat de bewijsrechtelijke aspecten per onderdeel verschillen. Bij een aangewezen regeling als bedoeld in onderdeel c, behoeft de (beperkende) invloed op de mogelijkheden tot voortzetting of uitbreiding niet te worden beoordeeld en is verdere discussie over de vraag of sprake is van overheidsingrijpen niet meer aan de orde. Op deze bepaling ga ik in onderdeel 6.4 nader in.
+- a. onteigening, daaronder begrepen minnelijke onteigening en verkoop ter voorkoming van onteigening;
 
-Ook bij onderdeel b is sprake van een bestaand objectief kenbaar gegeven, namelijk een in dat onderdeel omschreven besluit of regeling. Er kan dan nog wel verschil van inzicht zijn over bijvoorbeeld de vraag of sprake is van een beperking van de mogelijkheden tot voortzetting of uitbreiding als bedoeld in dit onderdeel. Op deze bepaling ga ik in onderdeel 6.3 nader in.
+- b. een besluit, daaronder begrepen een regeling, op het gebied van ruimtelijke ordening, natuur of milieu van een publiekrechtelijke rechtspersoon dat de mogelijkheden om de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm voort te zetten of uit te breiden in belangrijke mate beperkt;
 
-Als er geen besluit is dat voldoet aan de voorwaarden gesteld in onderdeel b, kan er nog altijd sprake zijn van (minnelijke) onteigening of ‘verkoop ter voorkoming van onteigening’: onderdeel a. Op deze bepaling ga ik in onderdeel 6.2 nader in.
+- c. bij AMvB aangewezen communautaire of nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak.
 
-### 6.2. Onteigening, minnelijke onteigening en verkoop ter voorkoming van onteigening ([3.54, twaalfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54))
+Het is mogelijk dat een bepaalde situatie onder meer dan één van de hiervoor genoemde onderdelen valt. Dit is van belang, omdat de bewijsrechtelijke aspecten per onderdeel verschillen. Bij een aangewezen regeling als bedoeld in onderdeel c, behoeft de (beperkende) invloed op de mogelijkheden tot voortzetting of uitbreiding niet te worden beoordeeld en is verdere discussie over de vraag of sprake is van overheidsingrijpen niet meer aan de orde. Op deze bepaling ga ik in [onderdeel 6.4](https://wetten.overheid.nl/BWBR0046937) nader in.
+
+Ook bij onderdeel b is sprake van een bestaand objectief kenbaar gegeven, namelijk een in dat onderdeel omschreven besluit of regeling. Er kan dan nog wel verschil van inzicht zijn over bijvoorbeeld de vraag of sprake is van een beperking van de mogelijkheden tot voortzetting of uitbreiding als bedoeld in dit onderdeel. Op deze bepaling ga ik in [onderdeel 6.3](https://wetten.overheid.nl/BWBR0046937) nader in.
+
+Als er geen besluit is dat voldoet aan de voorwaarden gesteld in onderdeel b, kan er nog altijd sprake zijn van (minnelijke) onteigening of ‘verkoop ter voorkoming van onteigening’: onderdeel a. Op deze bepaling ga ik in [onderdeel 6.2](https://wetten.overheid.nl/BWBR0046937) nader in.
+
+### 6.2. Onteigening, minnelijke onteigening en verkoop ter voorkoming van onteigening (3.54, twaalfde lid, onderdeel a)
 
 ### 6.2.1. Verkoop ter voorkoming van onteigening
 
-Voor ‘verkoop ter voorkoming van onteigening’ is beslissend of de belastingplichtige ‘weet of redelijkerwijs kan verwachten dat te zijner tijd tegen hem een onteigeningsprocedure zal worden aangespannen indien hij niet tot medewerking bereid is’. Er hoeft geen vastgesteld of gepubliceerd bestemmingsplan te zijn. Ook als een bestemmingsplan (nog) niet is aangenomen (en er dus nog geen burgers bindende regeling is), kan dit in een zodanig stadium zijn dat sprake is van bedoelde verwachting (Kamerstukken II 2000/01, 27 209, nr. 7, p. 10-11).
+Voor ‘verkoop ter voorkoming van onteigening’ is beslissend of de belastingplichtige ‘weet of redelijkerwijs kan verwachten dat te zijner tijd tegen hem een onteigeningsprocedure zal worden aangespannen indien hij niet tot medewerking bereid is’. Er hoeft geen vastgesteld of gepubliceerd bestemmingsplan te zijn. Ook als een bestemmingsplan (nog) niet is aangenomen (en er dus nog geen burgers bindende regeling is), kan dit in een zodanig stadium zijn dat sprake is van bedoelde verwachting (Kamerstukken II 2000/01, 27 209, nr. 7, p. 10-11).
 
 ### 6.2.2. Beoordeling ‘weet of redelijkerwijs kan verwachten’
 
-Bij de behandeling van het wetsvoorstel [Overige Fiscale Maatregelen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023147) heb ik toegezegd dit criterium toe te lichten (Kamerstukken II 2007/08, 31 206, nr. 7, p. 10). Daartoe dient het navolgende.
+Bij de behandeling van het wetsvoorstel [Overige Fiscale Maatregelen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023147) heb ik toegezegd dit criterium toe te lichten (Kamerstukken II 2007/08, 31 206, nr. 7, p. 10). Daartoe dient het navolgende.
 
 Aan de bewijslast dat sprake is van zodanige verwachting is in ieder geval voldaan bij:
 
-### 6.3. Besluit op het gebied van ruimtelijke ordening, natuur of milieu van een publiekrechtelijke rechtspersoon dat de mogelijkheden tot voortzetting of uitbreiding van de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm in belangrijke mate beperkt ([artikel 3.54, twaalfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54))
+- a. Verkoop aan de desbetreffende gemeente op grond van de [Wet voorkeursrecht gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0003391).
+
+- b. Verkoop die een gevolg is van een vastgesteld dan wel een verplicht nog vast te stellen inrichtings-, reconstructie- of bestemmingsplan dat op grond (van bijvoorbeeld [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=122)) van de [Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842) tot onteigening zou kunnen leiden. Op grond van artikel 122 van de Onteigeningswet kan zowel een inrichtingsplan als bedoeld in [artikel 17, eerste lid, van de Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748&artikel=17) als een reconstructieplan als bedoeld in [hoofdstuk 2 van de Reconstructiewet concentratiegebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0013399&hoofdstuk=2) tot onteigening leiden. Bij onverplichte (ontwerp)bestemmings- of andere plannen zal steeds moeten worden beoordeeld of een redelijke verwachting aanwezig is of kan zijn. Dit criterium zal de Belastingdienst met enige welwillendheid hanteren; zie hierna c.
+
+- c. Verkoop in een vroegtijdig planstadium aan een publiekrechtelijke rechtspersoon die – nadat aan de overigens daarvoor gestelde vereisten is voldaan – tot onteigening bevoegd zal zijn, tenzij de inspecteur aannemelijk maakt dat die ‘redelijke verwachting’ niet aanwezig kon zijn. Voorbeeld van zodanige verkoop is verkoop aan een gemeente of provincie naar aanleiding van een structuurvisie, een voorbereidings- en/of projectbesluit dan wel een ontwerp van een bestemmingsplan.
+
+- d. Verkoop aan een ander dan een publiekrechtelijke rechtspersoon, zoals een projectontwikkelaar, in een plangebied waarin inmiddels ook één of meer verkopen hebben plaatsgevonden als bedoeld in onderdeel c hiervóór. In het geval laatstbedoelde verkopen (nog) niet hebben plaatsgevonden, dient niettemin van geval tot geval beoordeeld te worden of sprake kan zijn van een redelijke verwachting.
+
+### 6.3. Besluit op het gebied van ruimtelijke ordening, natuur of milieu van een publiekrechtelijke rechtspersoon dat de mogelijkheden tot voortzetting of uitbreiding van de onderneming of een gedeelte daarvan op de huidige locatie in de huidige vorm in belangrijke mate beperkt (artikel 3.54, twaalfde lid, onderdeel b)
 
 ### 6.3.1. Besluit van een publiekrechtelijke rechtspersoon
 
 In [onderdeel b van artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), staat ‘besluit (...) van een publiekrechtelijke rechtspersoon’. Bij publiekrechtelijke rechtspersonen valt te denken aan de staat, provincies, gemeenten en waterschappen. Sommige besluiten worden – ook in de titel – regeling genoemd (bijvoorbeeld ‘saneringsregeling’). Wel moet er een formeel besluit zijn, genomen door of namens het daartoe bevoegde bestuursorgaan van de desbetreffende publiekrechtelijke rechtspersoon. Een dergelijk besluit moet in werking getreden zijn, dan wel – als de inwerkingtreding afhankelijk is van een goedkeuringsprocedure – zijn vastgesteld.
 
-In veel gevallen ontstaat pas in een laat stadium zekerheid over het doorgang vinden van zo’n besluit of regeling en de definitieve inhoud daarvan. Daarom ligt het niet in de rede om vervreemding van bedrijfsmiddelen voorafgaand aan de inwerkingtreding of vaststelling ook al als overheidsingrijpen aan te merken als bedoeld in onderdeel b. Eventueel kan een dergelijke vervreemding vallen onder de reikwijdte van [onderdeel a van artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) (verkoop ter voorkoming van onteigening, zie onderdeel 6.2).
+In veel gevallen ontstaat pas in een laat stadium zekerheid over het doorgang vinden van zo’n besluit of regeling en de definitieve inhoud daarvan. Daarom ligt het niet in de rede om vervreemding van bedrijfsmiddelen voorafgaand aan de inwerkingtreding of vaststelling ook al als overheidsingrijpen aan te merken als bedoeld in onderdeel b. Eventueel kan een dergelijke vervreemding vallen onder de reikwijdte van [onderdeel a van artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) (verkoop ter voorkoming van onteigening, zie [onderdeel 6.2](https://wetten.overheid.nl/BWBR0046937)).
 
-Er kan ook sprake zijn van een vervreemding als gevolg van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), als het besluit, daaronder begrepen een regeling, van een publiekrechtelijke rechtspersoon wordt uitgevoerd door een andere publiekrechtelijke rechtspersoon. Een voorbeeld hiervan is de Regeling provinciale aankoop veehouderijen nabij natuurgebieden1Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 oktober 2020, nr. WJZ/ 20259020, houdende eenmalige specifieke uitkeringen ten behoeve van de gerichte opkoop van veehouderijen ter vermindering van de stikstofdepositie op overbelaste stikstofgevoelige Natura 2000-gebieden (Regeling provinciale aankoop veehouderijen nabij natuurgebieden) (Stcrt. 2020, 57568 en de nieuwe vaststelling en wijziging in Stcrt. 2021, 49899)., waarbij het Rijk de uitvoering van het besluit overlaat aan provincies.
+Er kan ook sprake zijn van een vervreemding als gevolg van overheidsingrijpen als bedoeld in [artikel 3.54, twaalfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), als het besluit, daaronder begrepen een regeling, van een publiekrechtelijke rechtspersoon wordt uitgevoerd door een andere publiekrechtelijke rechtspersoon. Een voorbeeld hiervan is de Regeling provinciale aankoop veehouderijen nabij natuurgebieden1Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 oktober 2020, nr. WJZ/ 20259020, houdende eenmalige specifieke uitkeringen ten behoeve van de gerichte opkoop van veehouderijen ter vermindering van de stikstofdepositie op overbelaste stikstofgevoelige Natura 2000-gebieden (Regeling provinciale aankoop veehouderijen nabij natuurgebieden) (Stcrt. 2020, 57568 en de nieuwe vaststelling en wijziging in Stcrt. 2021, 49899)., waarbij het Rijk de uitvoering van het besluit overlaat aan provincies.
 
 ### 6.3.2. Besluit op het gebied van ruimtelijke ordening, natuur of milieu
 
-Onder de besluiten die zien op ‘**ruimtelijke ordening, natuur of het milieu’** vallen in ieder geval:
+Onder de besluiten die zien op ‘*ruimtelijke ordening, natuur of het milieu’* vallen in ieder geval:
+
+- – Gemeentelijke bestemmingsplannen;
+
+- – Provinciale inrichtings- of reconstructieplannen die verband houden met de natuurontwikkeling in het kader van de ecologische hoofdstructuur (Natuurnetwerk Nederland);
+
+- – Provinciale aanwijzing van gebieden in de zin van de [Wet ammoniak en veehouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0013402);
+
+- – Rijksaanwijzing van gebieden in de zin van de [Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641);
+
+- – Ruimte voor Ruimteregeling (bijvoorbeeld in de provincie Zuid-Holland) en de Rood voor Roodregeling (een vergelijkbare regeling als de Ruimte voor Ruimteregeling elders in het land).
 
 Overigens is er, gelet op de beoogde verruiming van het begrip overheidsingrijpen, geen reden om de begrippen ruimtelijke ordening, natuur of milieu beperkt uit te leggen. Ook tal van andere besluiten of (sanerings)regelingen kunnen onder die omschrijving vallen. Zo heb ik in een aan mij voorgelegd geval het verbod op het houden van kippen in legbatterijen, een maatregel met het oog op dierenwelzijn, aangemerkt als een overheidsbesluit op het gebied van natuur.
 
-Vanzelfsprekend moet wel worden beoordeeld of sprake is van een in [onderdeel b van artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), omschreven beperking (zie onderdeel 6.3.3).
+Vanzelfsprekend moet wel worden beoordeeld of sprake is van een in [onderdeel b van artikel 3.54, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), omschreven beperking (zie [onderdeel 6.3.3](https://wetten.overheid.nl/BWBR0046937)).
 
 ### 6.3.3. Mogelijkheden tot voortzetting of uitbreiding ‘in belangrijke mate beperkt’
 
@@ -289,9 +352,11 @@ De belastingplichtige zal de beperking als gevolg van het besluit aannemelijk mo
 
 Een beperking in de mogelijkheden tot voortzetting of uitbreiding van de onderneming kan voortvloeien uit een keuze van de belastingplichtige om gebruik te maken van een besluit of (sanerings)regeling op het gebied van ruimtelijke ordening, natuur en milieu van een publiekrechtelijke rechtspersoon.
 
+Goedkeuring
+
 Ik keur voor zoveel nodig goed dat ook die beperking wordt aangemerkt als een beperking als gevolg van dat besluit. In dat geval zal voor het antwoord op de vraag of sprake is van ‘in belangrijke mate beperkt’, de situatie van na de gebruikmaking van bedoeld besluit moeten worden vergeleken met de situatie die daaraan voorafgaat.
 
-Als een in onderdeel b bedoeld besluit niet leidt tot een ‘in belangrijke mate beperkt’, kan een dergelijke vervreemding mogelijk vallen onder de reikwijdte van onderdeel a (verkoop ter voorkoming van onteigening, zie onderdeel 6.2).
+Als een in onderdeel b bedoeld besluit niet leidt tot een ‘in belangrijke mate beperkt’, kan een dergelijke vervreemding mogelijk vallen onder de reikwijdte van onderdeel a (verkoop ter voorkoming van onteigening, zie [onderdeel 6.2](https://wetten.overheid.nl/BWBR0046937)).
 
 ### 6.3.4. Bewijsvermoeden bij vervreemding binnen drie jaar na een onderdeel b-besluit
 
@@ -301,11 +366,13 @@ Voor latere vervreemdingen geldt het bewijsvermoeden van overheidsingrijpen slec
 
 Is sprake van een vervreemding na de termijn van het dertiende lid dan geldt de normale bewijslast. In dat geval moet de belastingplichtige aannemelijk maken dat de vervreemding een gevolg is van een in onderdeel b bedoeld besluit.
 
-Het komt voor dat een publiekrechtelijke rechtspersoon een besluit neemt op het gebied van ruimtelijke ordening, natuur of milieu dat op termijn tot een belangrijke beperking voor ondernemingen kan leiden, maar waaruit nog geen concrete gebods- of verbodsbepalingen of bestemmingsbeperkingen voortvloeien. Bijvoorbeeld een besluit op rijksniveau dat vervolgens op gemeentelijk niveau in gewijzigde bestemmingsplannen moet worden uitgewerkt. De termijn van drie jaar als bedoeld in [artikel 3.54, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), gaat dan pas lopen op het moment dat, in dit voorbeeld, de gemeente een dergelijk bestemmingsplan vaststelt. Bij vervreemding voorafgaand aan die vaststelling zal beoordeeld moeten worden of die vervreemding mogelijk valt onder onderdeel a (verkoop ter voorkoming van onteigening, zie onderdeel 6.2).
+Het komt voor dat een publiekrechtelijke rechtspersoon een besluit neemt op het gebied van ruimtelijke ordening, natuur of milieu dat op termijn tot een belangrijke beperking voor ondernemingen kan leiden, maar waaruit nog geen concrete gebods- of verbodsbepalingen of bestemmingsbeperkingen voortvloeien. Bijvoorbeeld een besluit op rijksniveau dat vervolgens op gemeentelijk niveau in gewijzigde bestemmingsplannen moet worden uitgewerkt. De termijn van drie jaar als bedoeld in [artikel 3.54, dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), gaat dan pas lopen op het moment dat, in dit voorbeeld, de gemeente een dergelijk bestemmingsplan vaststelt. Bij vervreemding voorafgaand aan die vaststelling zal beoordeeld moeten worden of die vervreemding mogelijk valt onder onderdeel a (verkoop ter voorkoming van onteigening, zie [onderdeel 6.2](https://wetten.overheid.nl/BWBR0046937)).
 
-### 6.4. Bij AMvB aangewezen communautaire of nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak ([artikel 3.54, twaalfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54))
+### 6.4. Bij AMvB aangewezen communautaire of nationale regelgeving die leidt tot herstructurering of beëindiging van een bedrijfstak (artikel 3.54, twaalfde lid, onderdeel c)
 
 Van overheidsingrijpen is ook sprake als de regelgeving die leidt tot de herstructurering of beëindiging van een bedrijfstak bij AMvB is aangewezen ([artikel 3.54, twaalfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)). De bij AMvB aangewezen regelingen zijn opgenomen in [artikel 12a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=12a).
+
+Goedkeuring
 
 Gelet op de lange tijd die een aanwijzingsprocedure soms vergt, keur ik goed dat [artikel 3.54, twaalfde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), ook toepassing kan vinden als de regelgeving op het tijdstip van de vervreemding van het bedrijfsmiddel nog niet was aangewezen bij AMvB, maar wél op het tijdstip van afboeking van de HIR.
 
@@ -317,11 +384,13 @@ Gelet op de lange tijd die een aanwijzingsprocedure soms vergt, keur ik goed dat
 
 Een pachtrecht waarvoor, in overeenstemming met het bepaalde in [titel 7.5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=5), niets is betaald en ook overigens niets is opgeofferd, kan gelet op het specifieke karakter van dat pachtrecht worden aangemerkt als een niet-afschrijfbaar bedrijfsmiddel. Dat pachtrecht is dan een ‘zodanig’ bedrijfsmiddel zoals genoemd in [artikel 3.54, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54). Als bij overheidsingrijpen een vergoeding voor een dergelijk pachtrecht wordt verkregen, kan deze worden afgeboekt op de aanschaffingskosten van elders in eigendom verworven grond. Het moet dan wel gaan om een vergoeding wegens vermogensschade.
 
-Deze situatie moet worden onderscheiden van pachtrechten waarvoor wel een bedrag is opgeofferd en waarop wel pleegt te worden afgeschreven (HR 6 december 1989, ECLI:NL:HR:1989:ZC4170).
+Deze situatie moet worden onderscheiden van pachtrechten waarvoor wel een bedrag is opgeofferd en waarop wel pleegt te worden afgeschreven (HR 6 december 1989, ECLI:NL:HR:1989:ZC4170).
 
 ### 6.7. Vervanging ondergrond door grond
 
-Doel en strekking van het woord ‘zodanig’ in [artikel 3.54, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), is te voorkomen dat de belastingheffing over de winst op een afschrijfbaar bedrijfsmiddel door middel van afboeking van de winst op een niet-afschrijfbaar bedrijfsmiddel tot in de verre toekomst zou kunnen worden uitgesteld, zonder dat sprake is van eenzelfde economische functie (zie onderdeel 3.8).
+Doel en strekking van het woord ‘zodanig’ in [artikel 3.54, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), is te voorkomen dat de belastingheffing over de winst op een afschrijfbaar bedrijfsmiddel door middel van afboeking van de winst op een niet-afschrijfbaar bedrijfsmiddel tot in de verre toekomst zou kunnen worden uitgesteld, zonder dat sprake is van eenzelfde economische functie (zie [onderdeel 3.8](https://wetten.overheid.nl/BWBR0046937)).
+
+Goedkeuring
 
 Gelet op voormelde doel en strekking keur ik goed dat bij overheidsingrijpen de boekwinst voor zover die is toe te rekenen aan de (niet-afschrijfbare) ondergrond van een op zich afschrijfbaar bedrijfsmiddel (bijvoorbeeld tuinbouwkassen), kan worden afgeboekt op een niet-afschrijfbaar bedrijfsmiddel, bijvoorbeeld landbouwgrond. Hierbij merk ik op dat dan bij latere verkoop van dat bedrijfsmiddel in zoverre geen sprake is van een onder de landbouwvrijstelling vrijgesteld voordeel ([artikel 3.12, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.12)). Deze goedkeuring is van toepassing voor zover de HIR niet kan worden afgeboekt op ondergrond van afschrijfbare bedrijfsmiddelen waarin ook wordt geherinvesteerd. De goedkeuring geldt bijvoorbeeld niet als een belastingplichtige de boekwinst die is toe te rekenen aan de ondergrond van de tuinbouwkas, wil afboeken op landbouwgrond en daarnaast de boekwinst die toerekenbaar is aan de tuinbouwkas, wil afboeken op een herinvestering in een tuinbouwkas met ondergrond.
 
@@ -331,9 +400,13 @@ Het komt voor dat de ondernemer een onroerende zaak verkoopt en dat hij of de ko
 
 ### 7. Overige onderwerpen
 
-### 7.1. HIR bij juridische splitsing ([artikel 14a Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14a))
+### 7.1. HIR bij juridische splitsing (artikel 14a Wet Vpb 1969)
 
 Een HIR wordt gevormd per vervreemd bedrijfsmiddel. Als bij een juridische splitsing de fiscale splitsingsfaciliteit van toepassing is, is het toegestaan om één of meer HIR’s gevormd bij een eerdere vervreemding door de afsplitsende rechtspersoon, te verdelen over de verschillende rechtspersonen. De toedeling van genoemde (gedeelte van een) HIR kan dan plaatsvinden aan een vennootschap die een relevant herinvesteringsvoornemen heeft. Hierbij kan onderscheid worden gemaakt tussen kort-afschrijfbare bedrijfsmiddelen en niet- of lang-afschrijfbare bedrijfsmiddelen. (Afgezien wordt van overheidsingrijpen.)
+
+- – De bij de vervreemding van een kort-afschrijfbaar bedrijfsmiddel gevormde HIR kan alleen worden toebedeeld aan rechtspersonen die een voornemen hebben tot tijdige herinvestering in eveneens kort-afschrijfbare bedrijfsmiddelen.
+
+- – De bij de vervreemding van een niet- of lang-afschrijfbaar bedrijfsmiddel gevormde HIR kan naar keuze ([artikel 3.54, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54)) worden toebedeeld aan rechtspersonen die een voornemen hebben tot tijdige herinvestering in kort-afschrijfbare bedrijfsmiddelen, dan wel in niet- of lang-afschrijfbare bedrijfsmiddelen met eenzelfde economische functie als het vervreemde bedrijfsmiddel.
 
 Bij splitsing van een HIR wordt voor de toepassing van de boekwaarde-eis de desbetreffende boekwaarde naar rato van de toedeling van die HIR aan de rechtspersonen toegerekend.
 
@@ -345,18 +418,18 @@ Zo komt het voor dat grond wordt verkocht aan een projectontwikkelaar en dat daa
 
 In een dergelijk geval is het jaar van winstrealisatie niet hetzelfde als het jaar van vervreemding. Het kan dan voorkomen dat de herinvestering wel plaatsvindt binnen drie jaren na het jaar van winstrealisatie, maar niet binnen drie jaren na het jaar van vervreemding. Een HIR kan dan niet worden gevormd.
 
+Goedkeuring
+
 De wetgever heeft op dit punt geen materiële wijziging beoogd ten opzichte van de regeling van de vervangingsreserve. Om die reden keur ik goed dat voor de toepassing van [artikel 3.54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), de zinsnede ‘jaar van vervreemding’ wordt opgevat als ‘jaar van winstrealisatie, mits een gevolg van vervreemding’.
 
 Als in een eerder jaar wordt geherinvesteerd dan het jaar waarin de boekwinst wordt gerealiseerd, kan de afboeking van de HIR op die investering pas aan de orde komen in het jaar waarin de boekwinst tot uitdrukking wordt gebracht en die HIR wordt gevormd.
 
-Het is ook mogelijk dat het verkregen recht op een hogere koopprijs binnen goed koopmansgebruik is geactiveerd (HR 6 december 2000, ECLI:NL:HR:2000:AA8866, en HR 1 oktober 2004, ECLI:NL:HR:2004:AR3100). Dan kan een later tot uitdrukking komende winst op het geactiveerde vorderingsrecht niet worden gereserveerd door middel van een HIR, omdat in zoverre geen sprake is van winst ter zake van de vervreemding van een bedrijfsmiddel.
+Het is ook mogelijk dat het verkregen recht op een hogere koopprijs binnen goed koopmansgebruik is geactiveerd (HR 6 december 2000, ECLI:NL:HR:2000:AA8866, en HR 1 oktober 2004, ECLI:NL:HR:2004:AR3100). Dan kan een later tot uitdrukking komende winst op het geactiveerde vorderingsrecht niet worden gereserveerd door middel van een HIR, omdat in zoverre geen sprake is van winst ter zake van de vervreemding van een bedrijfsmiddel.
 
 ### 8. Ingetrokken regeling
 
-Het [besluit van 27 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037149), nr. BLKB2015/864M (Stcrt. 2015, nr. 38250) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 27 oktober 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037149), nr. BLKB2015/864M (Stcrt. 2015, nr. 38250) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

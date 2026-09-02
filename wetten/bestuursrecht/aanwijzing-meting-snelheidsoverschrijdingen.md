@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing meting snelheidsoverschrijdingen"
 identifier: "BWBR0046820"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046820"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16396253"
-version_id: "28712282"
-internal_id: "C40558271"
-label_id: "16320574"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046820/2022-07-01/0"
-intitule_bron: "Stcrt.2022-16647"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-06-27"
-intitule_in_force: "2022-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16647"
-original_published_date: "2022-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16647"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046820&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046820&g=2022-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046820"
+opgehaald: 2026-09-02
 ---
+
 # Aanwijzing meting snelheidsoverschrijdingen
 
 ### Samenvatting
@@ -48,37 +29,76 @@ Deze aanwijzing heeft tot doel een uniforme handhaving te bewerkstelligen van sn
 
 ### 1. Meting van snelheidsovertredingen
 
-De snelheid van voertuigen moet zijn aangepast direct op de plaats waar een lagere maximumsnelheid gaat gelden1Hof Leeuwarden 18 april 2001, ECLI:NL:GHLEE:2001:16, WAHV 00/00267. ‘Mede gelet op de toelichting op art. 19 RVV1990 vloeit uit het bepaalde in art. 5 WVW1994 en art. 19 RVV1990, gelezen in onderling verband en samenhang, voort dat een bestuurder zijn snelheid steeds zodanig dient te regelen, dat hij in staat is borden zo tijdig waar te nemen dat hij zijn weggedrag tijdig aan de door die borden gegeven ge- of verboden, waarschuwingen of andere informatie kan aanpassen.’. Desalniettemin is staand beleid dat een minimumafstand in acht genomen wordt tussen de plaats van inwerkingtreding van de lagere maximumsnelheid tot de meetplaats. Voor het bepalen van deze minimumafstand wordt geen rekening gehouden met de voor het gebod geldende maximumsnelheid. Het uitgangspunt is immers dat de snelheid bij het passeren van het gebod moet zijn aangepast en derhalve wordt bij het bepalen van de afstand tussen gebod en meetplaats uitgegaan van de uit het gebod volgende maximumsnelheid.
+Plaats meetlocatie snelheidsmetingen
+
+De snelheid van voertuigen moet zijn aangepast direct op de plaats waar een lagere maximumsnelheid gaat gelden1Hof Leeuwarden 18 april 2001, ECLI:NL:GHLEE:2001:16, WAHV 00/00267. ‘Mede gelet op de toelichting op art. 19 RVV1990 vloeit uit het bepaalde in art. 5 WVW1994 en art. 19 RVV1990, gelezen in onderling verband en samenhang, voort dat een bestuurder zijn snelheid steeds zodanig dient te regelen, dat hij in staat is borden zo tijdig waar te nemen dat hij zijn weggedrag tijdig aan de door die borden gegeven ge- of verboden, waarschuwingen of andere informatie kan aanpassen.’. Desalniettemin is staand beleid dat een minimumafstand in acht genomen wordt tussen de plaats van inwerkingtreding van de lagere maximumsnelheid tot de meetplaats. Voor het bepalen van deze minimumafstand wordt geen rekening gehouden met de voor het gebod geldende maximumsnelheid. Het uitgangspunt is immers dat de snelheid bij het passeren van het gebod moet zijn aangepast en derhalve wordt bij het bepalen van de afstand tussen gebod en meetplaats uitgegaan van de uit het gebod volgende maximumsnelheid.
 
 De minimale afstanden tussen gebod en meetplaats zijn:
 
-Dezelfde afstanden moeten worden gebruikt tussen de meetplaats en de plaats waarop het gebod dat door middel van de snelheidsmeter wordt gehandhaafd eindigt als daarna een hogere maximumsnelheid gaat gelden. Hierbij moet worden uitgegaan van de ter plaatse geldende lagere maximumsnelheid. Bij kruisingen2Hof Leeuwarden 21 september 2006, ECLI:NL:GLEE:2006:AZ5513. De ratio van de snelheidsbeperking tot 70 km per uur bij kruisingen als de onderhavige is niet slechts gelegen in het de bestuurder nopen tijdig te reageren op de verplichting zijn voertuig voor het rode verkeerslicht tot stilstand te brengen, maar ook in het met die gematigde snelheid de kruising op te rijden. Nu daaraan niet is voldaan is niet relevant op welke afstand van de kruising het bord G3(autoweg) zich bevindt. en in bijzondere omstandigheden kan hier van worden afgeweken.
+| 15 km/u | 4 m/s | 40 meter afstand |
+| --- | --- | --- |
+| 30 km/u | 8 m/s | 80 meter afstand |
+| 50 km/u | 14 m/s | 140 meter afstand |
+| 60 km/u | 17 m/s | 170 meter afstand |
+| 70 km/u | 19 m/s | 190 meter afstand |
+| 80 km/u | 22 m/s | 220 meter afstand |
+| 90 km/u | 25 m/s | 250 meter afstand |
+| 100 km/u | 28 m/s | 280 meter afstand |
+| 120 km/u | 33 m/s | 330 meter afstand |
 
-NB: De in de tabel vermelde afstanden betreffen de minimale afstanden. Om aan deze eis te voldoen, zonder gebruik te maken van de tabel, kan de ter plaatse toegestane snelheid worden vermenigvuldigd met het getal drie. Deze formule geldt voor alle in de tabel vermelde snelheden. Bijvoorbeeld: Toegestaan 80 km/u. De afstand tussen gebod en meetplaats wordt dan via deze formule: 80 x 3 = 240 m.
+Dezelfde afstanden moeten worden gebruikt tussen de meetplaats en de plaats waarop het gebod dat door middel van de snelheidsmeter wordt gehandhaafd eindigt als daarna een hogere maximumsnelheid gaat gelden. Hierbij moet worden uitgegaan van de ter plaatse geldende lagere maximumsnelheid. Bij kruisingen2Hof Leeuwarden 21 september 2006, ECLI:NL:GLEE:2006:AZ5513. De ratio van de snelheidsbeperking tot 70 km per uur bij kruisingen als de onderhavige is niet slechts gelegen in het de bestuurder nopen tijdig te reageren op de verplichting zijn voertuig voor het rode verkeerslicht tot stilstand te brengen, maar ook in het met die gematigde snelheid de kruising op te rijden. Nu daaraan niet is voldaan is niet relevant op welke afstand van de kruising het bord G3(autoweg) zich bevindt. en in bijzondere omstandigheden kan hier van worden afgeweken.
+
+NB: De in de tabel vermelde afstanden betreffen de minimale afstanden. Om aan deze eis te voldoen, zonder gebruik te maken van de tabel, kan de ter plaatse toegestane snelheid worden vermenigvuldigd met het getal drie. Deze formule geldt voor alle in de tabel vermelde snelheden. Bijvoorbeeld: Toegestaan 80 km/u. De afstand tussen gebod en meetplaats wordt dan via deze formule: 80 x 3 = 240 m.
 
 ### 2. Marges
 
 ### 2.1. Maximale fout
 
-De maximale fout onder bedrijfsomstandigheden bedraagt 3 km/u voor snelheden niet groter dan 100 km/u en 3 procent van de gemeten snelheid voor snelheden hoger dan 100 km/u.
+(Mobiele) radarsnelheidsmeter, lasersnelheidsmeter, detectorsnelheidsmeter, (mobiele) trajectsnelheidsmeter
+
+De maximale fout onder bedrijfsomstandigheden bedraagt 3 km/u voor snelheden niet groter dan 100 km/u en 3 procent van de gemeten snelheid voor snelheden hoger dan 100 km/u.
+
+Gekalibreerde boordsnelheidsmeter in dienstvoertuig
 
 De maximale fout voor gekalibreerde boordsnelheidsmeters bedraagt 3 km/u voor snelheden niet hoger dan 100 km/u en 3 procent van de werkelijke snelheid voor snelheden hoger dan 100 km/u. De in de kalibratietabel onder gemeten snelheid opgenomen waarden (zie de bijlage) moeten daarom ook met deze waarden worden gecorrigeerd.
 
 ### 2.1.1. Correctietabel
 
-De in punt 2.1 vermelde maximale fout van 3 procent is uitgewerkt in onderstaande correctietabel. De correctie van de maximale fout vindt plaats conform deze tabel.
+De in [punt 2.1](https://wetten.overheid.nl/BWBR0046820) vermelde maximale fout van 3 procent is uitgewerkt in onderstaande correctietabel. De correctie van de maximale fout vindt plaats conform deze tabel.
+
+| Correctietabel in km/u |  |
+| --- | --- |
+| Correctie met 3% |  |
+| Gemeten snelheid | Correctie 3% |
+| 0 t/m 100 km/u | 3 km/u |
+| 101 t/m 133 km/u | 4 km/u |
+| 134 t/m 166 km/u | 5 km/u |
+| 167 t/m 200 km/u | 6 km/u |
+| 201 t/m 233 km/u | 7 km/u |
+| 234 t/m 266 km/u | 8 km/u |
+| 267 t/m 300 km/u | 9 km/u |
 
 ### 2.1.2. Werkelijk gemeten snelheid
 
-De Hoge Raad heeft in diverse arresten3Bijv. HR 12 december 1995 en 23 januari 1996, **NJ** 1996, 397-400. het standpunt ingenomen dat met de in [artikel 21 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21) genoemde snelheid niet de gemeten, maar de werkelijk gereden snelheid wordt bedoeld. Een ten laste gelegde snelheid is slechts bewezen, als van de gemeten snelheid de maximaal toelaatbaar geoordeelde meetfout van de meetapparatuur is afgetrokken. Hetzelfde geldt voor snelheden die zijn vastgesteld met een mobiele radarsnelheidsmeter.4HR 12 maart 1996, ECLI:NL:HR:1996: ZD0406, **NJ** 1996, 511.
+De Hoge Raad heeft in diverse arresten3Bijv. HR 12 december 1995 en 23 januari 1996, *NJ* 1996, 397-400. het standpunt ingenomen dat met de in [artikel 21 RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=21) genoemde snelheid niet de gemeten, maar de werkelijk gereden snelheid wordt bedoeld. Een ten laste gelegde snelheid is slechts bewezen, als van de gemeten snelheid de maximaal toelaatbaar geoordeelde meetfout van de meetapparatuur is afgetrokken. Hetzelfde geldt voor snelheden die zijn vastgesteld met een mobiele radarsnelheidsmeter.4HR 12 maart 1996, ECLI:NL:HR:1996: ZD0406, *NJ* 1996, 511.
 
-De onder punt 2.1 vermelde maximale fout onder bedrijfsomstandigheden moet daarom van de gemeten snelheid worden afgetrokken waardoor de werkelijke snelheid (= gecorrigeerde snelheid) wordt vastgesteld.
+De onder [punt 2.1](https://wetten.overheid.nl/BWBR0046820) vermelde maximale fout onder bedrijfsomstandigheden moet daarom van de gemeten snelheid worden afgetrokken waardoor de werkelijke snelheid (= gecorrigeerde snelheid) wordt vastgesteld.
 
 ### 2.2. Ondergrens vervolging en instellen snelheidsmeters
 
-Om te voorkomen dat de gemeten snelheid na aftrek van de meetcorrectie te dicht bij de toegestane maximumsnelheid ligt, wordt pas opgetreden als de gemeten snelheid verminderd met de voorgeschreven correctie van 3 km/u c.q. 3 procent, de toegestane maximumsnelheid met 4 km/u of meer overschrijdt.
+Om te voorkomen dat de gemeten snelheid na aftrek van de meetcorrectie te dicht bij de toegestane maximumsnelheid ligt, wordt pas opgetreden als de gemeten snelheid verminderd met de voorgeschreven correctie van 3 km/u c.q. 3 procent, de toegestane maximumsnelheid met 4 km/u of meer overschrijdt.
 
-**De snelheidsmeters zoals genoemd onder 2.1 van deze aanwijzing moeten dus als volgt worden ingesteld:**
+*De snelheidsmeters zoals genoemd onder 2.1 van deze aanwijzing moeten dus als volgt worden ingesteld:*
+
+| Maximumsnelheid | Snelheidsmeter instellen op | Correctie | Beschikking |
+| --- | --- | --- | --- |
+| 30 km/u | 37 km/u | -3 | 34 km/u |
+| 50 km/u | 57 km/u | -3 | 54 km/u |
+| 80 km/u | 87 km/u | -3 | 84 km/u |
+| 100 km/u | 108 km/u | -4 | 104 km/u |
+| 120 km/u | 128 km/u | -4 | 124 km/u |
+| 130 km/u | 139 km/u | -5 | 134 km/u |
+| Wegwerkzaamheden | Snelheid + 7 | -3 |  |
 
 Als de voor een weg geldende snelheidslimiet niet past bij de infrastructuur van de weg, moet met de wegbeheerder worden overlegd over de mogelijkheid om de maximumsnelheid aan te passen aan de omstandigheden of om de weg zodanig in te richten dat deze uitnodigt om de daar geldende maximumsnelheid niet te overschrijden.
 

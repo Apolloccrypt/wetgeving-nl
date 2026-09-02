@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken en Klimaat van 31 maart 2022, nr. WJZ/ 22050244, houdende de verlening van mandaat aan het Samenwerkingsverband Noord-Nederland en de intrekking van enkele besluiten"
+citeertitel: "Besluit mandaat, volmacht en machtiging SNN inzake de schadeafhandeling en versterking in het Groningenveld"
 identifier: "BWBR0046497"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-12"
-last_updated: "2026-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046497"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16313133"
-version_id: "28513632"
-internal_id: "C40231261"
-label_id: "16238344"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046497/2026-03-12/0"
-intitule_bron: "Stcrt.2022-8993"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-31"
-intitule_published: "2022-04-01"
-intitule_in_force: "2022-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-8993"
-original_signed_date: "2022-03-31"
-original_published_date: "2022-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-8993"
-entry_into_force_date: "2022-04-02"
-jci_1_3: "jci1.3:c:BWBR0046497&z=2026-03-12&g=2026-03-12"
-jci_1_0: "1.0:c:BWBR0046497&g=2026-03-12"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging SNN inzake de schadeafhandeling en versterking in het Groningenveld"
-signed_date: "2022-03-31"
-entry_into_force: "2022-04-02"
+publicatiedatum: 2022-04-02
+laatste_update: 2026-03-12
+status: geldig
+toestand: 2026-03-12
+bron: "https://wetten.overheid.nl/BWBR0046497"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Economische Zaken en Klimaat van 31 maart 2022, nr. WJZ/ 22050244, houdende de verlening van mandaat aan het Samenwerkingsverband Noord-Nederland en de intrekking van enkele besluiten
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Gezien de schriftelijke instemming van het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -78,12 +50,10 @@ De volgende besluiten worden ingetrokken:
 
 ##### Artikel 6
 
-1. Dit besluit treedt in werking met ingang van 1 april 2022.
+1. Dit besluit treedt in werking met ingang van 1 april 2022.
 
-2. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 april 2022.
+2. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 april 2022.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging SNN inzake de schadeafhandeling en versterking in het Groningenveld.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

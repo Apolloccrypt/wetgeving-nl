@@ -1,81 +1,53 @@
 ---
 title: "Besluit betreffende het opheffen van de beperkingen gesteld aan de openbaarheid van een aantal rijksarchieven en collecties thans in beheer bij het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies"
+citeertitel: "Besluit opheffen beperkingen openbaarheid aantal rijksarchieven en collecties Nederlands Instituut voor Oorlogs-, Holocaust en Genocidestudies"
 identifier: "BWBR0047250"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-07"
-last_updated: "2022-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047250"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16507663"
-version_id: "28958662"
-internal_id: "C40991601"
-label_id: "16429254"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047250/2022-10-07/0"
-intitule_bron: "Stcrt.2022-26281"
-intitule_effect: "wijziging"
-intitule_signed: "2022-04-25"
-intitule_published: "2022-10-06"
-intitule_in_force: "2022-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-26281"
-original_signed_date: "2022-04-25"
-original_published_date: "2022-10-06"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-26281"
-entry_into_force_date: "2022-10-07"
-jci_1_3: "jci1.3:c:BWBR0047250&z=2022-10-07&g=2022-10-07"
-jci_1_0: "1.0:c:BWBR0047250&g=2022-10-07"
-citeertitel_status: "redactioneel"
-short_title: "Besluit opheffen beperkingen openbaarheid aantal rijksarchieven en collecties Nederlands Instituut voor Oorlogs-, Holocaust en Genocidestudies"
-signed_date: "2022-04-25"
-entry_into_force: "2022-10-07"
+publicatiedatum: 2022-10-07
+laatste_update: 2022-10-07
+status: geldig
+toestand: 2022-10-07
+bron: "https://wetten.overheid.nl/BWBR0047250"
+opgehaald: 2026-09-02
 ---
+
 # Besluit betreffende het opheffen van de beperkingen gesteld aan de openbaarheid van een aantal rijksarchieven en collecties thans in beheer bij het NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies
-
-Gelet op [artikel 15, derde lid Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Gelet op de Verklaring van Overbrenging van 29 mei 2007 waarbij deze archieven door de Minister van Onderwijs, Cultuur en Wetenschap aan het Nationaal Archief zijn overgedragen en het bijbehorende besluit van de openbaarheid,
-
-Besluit:
 
 ##### Artikel 1
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Zentralauftragstelle, (1933) 1940 – 1945 (1948), nummer archiefinventaris **093**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Zentralauftragstelle, (1933) 1940 – 1945 (1948), nummer archiefinventaris *093*, worden opgeheven.
 
 | 121 | 122 | 123 | 124 | 125 | 126 | 127 | 128 | 129 | 130 | 131 | 132 | 133 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 134 | 135 | 136 | 137 | 138 | 139 | 140 | 141 | 142 |   |   |   |   |
+| 134 | 135 | 136 | 137 | 138 | 139 | 140 | 141 | 142 |  |  |  |  |
 
 ##### Artikel 2
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Vredegerechtshof en vrederechters, (1940) 1941–1944, nummer archiefinventaris **101**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Vredegerechtshof en vrederechters, (1940) 1941–1944, nummer archiefinventaris *101*, worden opgeheven.
 
 | 1141 |
 | --- |
 
 ##### Artikel 3
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in de Collectie Nederlandse regering in Londen, 1935–1979, nummer archiefinventaris **233b**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in de Collectie Nederlandse regering in Londen, 1935–1979, nummer archiefinventaris *233b*, worden opgeheven.
 
 | 8 | 41 | 44 | 47 | 54 | 55 | 60 | 64 | 65 | 66 | 74 | 76 | 81 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 82 | 84 | 96 | 97 | 101 | 103 | 111 | 117 | 122 | 123 | 124 | 125 | 126 |
-| 127 | 128 | 129 | 130 | 131 | 132 | 134 | 135 | 136 | 137 | 139 | 140 |   |
+| 127 | 128 | 129 | 130 | 131 | 132 | 134 | 135 | 136 | 137 | 139 | 140 |  |
 
 ##### Artikel 4
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van dhr. C.W.P.C. de Koning, 1940–1945 [1976], nummer archiefinventaris **235d**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van dhr. C.W.P.C. de Koning, 1940–1945 [1976], nummer archiefinventaris *235d*, worden opgeheven.
 
 | 1 |
 | --- |
 
 ##### Artikel 5
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Nederlands Informatiebureau – New York, 1941–1949, nummer archiefinventaris **243b**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief Nederlands Informatiebureau – New York, 1941–1949, nummer archiefinventaris *243b*, worden opgeheven.
 
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,28 +80,28 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 969 | 970 | 972 | 973 | 974 | 975 | 976 | 977 | 978 | 979 | 980 | 981 | 982 |
 | 983 | 984 | 985 | 986 | 990 | 993 | 994 | 995 | 1021 | 1170 | 1171 | 1172 | 1173 |
 | 1193 | 1194 | 1195 | 1196 | 1201 | 1202 | 1203 | 1204 | 1205 | 1206 | 1226 | 1240 | 1241 |
-| 1242 | 1245 | 1311 | 1343 |   |   |   |   |   |   |   |   |   |
+| 1242 | 1245 | 1311 | 1343 |  |  |  |  |  |  |  |  |  |
 
 ##### Artikel 6
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van dr. A.E.D. von Saher [1916] 1930–1968, nummer archiefinventaris **243f** worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van dr. A.E.D. von Saher [1916] 1930–1968, nummer archiefinventaris *243f* worden opgeheven.
 
 | 1a | 1b | 1c | 1e | 1f | 1g | 1h | 2b | 2c | 2d | 2e | 2f | 7b |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 8a | 8c | 13b | 13c | 13d | 13e | 13f | 14c | 14d | 14e | 14f | 14g | 14h |
-| 15b | 15c | 15d | 15e | 16c | 16d | 16e | 16f | 16g | 22 |   |   |   |
+| 15b | 15c | 15d | 15e | 16c | 16d | 16e | 16f | 16g | 22 |  |  |  |
 
 ##### Artikel 7
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van ir. Th. P. Tromp [1939] 1940–1945 [1983], nummer archiefinventaris **243g**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van ir. Th. P. Tromp [1939] 1940–1945 [1983], nummer archiefinventaris *243g*, worden opgeheven.
 
 | 4 | 8 | 10 | 11 | 57 | 61 | 65 | 66 | 67 | 68 | 69 | 71 | 72 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 73 | 74 | 75 | 76 | 77 | 78 |   |   |   |   |   |   |   |
+| 73 | 74 | 75 | 76 | 77 | 78 |  |  |  |  |  |  |  |
 
 ##### Artikel 8
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie gevangenissen in Nederland, 1940–1945 [1946–1949], [1970–1979], [1943] 2000–2013, nummer archiefinventaris **250b**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie gevangenissen in Nederland, 1940–1945 [1946–1949], [1970–1979], [1943] 2000–2013, nummer archiefinventaris *250b*, worden opgeheven.
 
 | 3 | 49 | 50 | 51 | 52 | 53 | 58 | 59 | 60 | 71 | 77 | 78 | 79 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -137,11 +109,11 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 113 | 160 | 164 | 165 | 166 | 167 | 168 | 170 | 171 | 172 | 173 | 174 | 176 |
 | 177 | 178 | 180 | 189 | 192 | 193 | 194 | 195 | 196 | 197 | 198 | 199 | 200 |
 | 201 | 202 | 203 | 204 | 205 | 206 | 207 | 208 | 209 | 210 | 211 | 212 | 213 |
-| 214 | 229 | 242 | 243 | 244 | 268 | 399 | 400 | 401 | 408 |   |   |   |
+| 214 | 229 | 242 | 243 | 244 | 268 | 399 | 400 | 401 | 408 |  |  |  |
 
 ##### Artikel 9
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Kampen en gevangenissen buiten Nederland, 1946–2006, nummer archiefinventaris **250d**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Kampen en gevangenissen buiten Nederland, 1946–2006, nummer archiefinventaris *250d*, worden opgeheven.
 
 | 1 | 2 | 3 | 4 | 6 | 9 | 10 | 15 | 16 | 19 | 21 | 22 | 23 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -211,19 +183,19 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 1120 | 1134 | 1135 | 1136 | 1137 | 1138 | 1140 | 1144 | 1145 | 1147 | 1148 | 1149 | 1150 |
 | 1152 | 1154 | 1155 | 1157 | 1158 | 1163 | 1165 | 1166 | 1167 | 1168 | 1170 | 1172 | 1179 |
 | 1180 | 1181 | 1182 | 1183 | 1184 | 1185 | 1187 | 1189 | 1190 | 1198 | 1205 | 1210 | 1217 |
-| 1232 | 1233 | 1244 | 1247 | 1250 | 1252 |   |   |   |   |   |   |   |
+| 1232 | 1233 | 1244 | 1247 | 1250 | 1252 |  |  |  |  |  |  |  |
 
 ##### Artikel 10
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Schoorl, Polizeiliches Durchgangslager, 1941–1979 [1995], nummer archiefinventaris **250e**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Schoorl, Polizeiliches Durchgangslager, 1941–1979 [1995], nummer archiefinventaris *250e*, worden opgeheven.
 
 | 1 | 3 | 4 | 5 | 6 | 8 | 9 | 10 | 11 | 12 | 14 | 17 | 27 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 32 | 33 | 34 |   |   |   |   |   |   |   |   |   |   |
+| 32 | 33 | 34 |  |  |  |  |  |  |  |  |  |  |
 
 ##### Artikel 11
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Amersfoort, Polizeiliches Durchgangslager 1940–1958 [1994], [2002], nummer archiefinventaris **250f**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Amersfoort, Polizeiliches Durchgangslager 1940–1958 [1994], [2002], nummer archiefinventaris *250f*, worden opgeheven.
 
 | 6 | 7 | 8 | 9 | 13 | 16 | 17 | 18 | 19 | 21 | 22 | 23 | 27 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -240,11 +212,11 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 269 | 271 | 272a | 272b | 273 | 274 | 275 | 276 | 277 | 278 | 279 | 280 | 281 |
 | 282 | 283 | 284 | 285 | 286 | 287 | 288 | 289 | 290 | 291 | 292 | 293 | 295 |
 | 297 | 298 | 300 | 301 | 302 | 303 | 305 | 307 | 308 | 311 | 312 | 313 | 314 |
-| 316 | 318 | 319 | 320 | 324 | 325 | 328 | 330 | 332 |   |   |   |   |
+| 316 | 318 | 319 | 320 | 324 | 325 | 328 | 330 | 332 |  |  |  |  |
 
 ##### Artikel 12
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Vught, Konzentrationslager Herzogenbusch, 1942–1996 [2004, 2005], nummer archiefinventaris **250g**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Vught, Konzentrationslager Herzogenbusch, 1942–1996 [2004, 2005], nummer archiefinventaris *250g*, worden opgeheven.
 
 | 4 | 16 | 53 | 54 | 55 | 56 | 58 | 60 | 84 | 92 | 96 | 97 | 98 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -286,21 +258,21 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 1035 | 1054 | 1057 | 1061 | 1070 | 1159 | 1163 | 1164 | 1175 | 1176 | 1177 | 1184 | 1187 |
 | 1188 | 1193 | 1194 | 1217 | 1246 | 1247 | 1248 | 1263 | 1264 | 1265 | 1266 | 1267 | 1268 |
 | 1269 | 1270 | 1271 | 1272 | 1273 | 1274 | 1275 | 1276 | 1277 | 1278 | 1279 | 1280 | 1282 |
-| 1283 | 1285 | 1301 | 1302 | 1303 | 1305 | 1308 | 1309 | 1312 | 1313 |   |   |   |
+| 1283 | 1285 | 1301 | 1302 | 1303 | 1305 | 1308 | 1309 | 1312 | 1313 |  |  |  |
 
 ##### Artikel 13
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Ommen, Arbeitseinsatzlager ‘Erika’, 1936–1954, nummer archiefinventaris **250h**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Ommen, Arbeitseinsatzlager ‘Erika’, 1936–1954, nummer archiefinventaris *250h*, worden opgeheven.
 
 | 33 | 34 | 48 | 112 | 113 | 114 | 120 | 122 | 123 | 124 | 125 | 126 | 127 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 128 | 130 | 131 | 132 | 134 | 135 | 136 | 137 | 138 | 139 | 140 | 141 | 142 |
 | 143 | 144 | 145 | 146 | 147 | 148 | 149 | 150 | 151 | 152 | 153 | 154 | 155 |
-| 156 | 157 | 158 | 159 | 160 | 161 |   |   |   |   |   |   |   |
+| 156 | 157 | 158 | 159 | 160 | 161 |  |  |  |  |  |  |  |
 
 ##### Artikel 14
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Westerbork, Judendurchgangslager, (1923–1927), 1940–1945, (1945–1957) [1961, 1976] (1990–2000), nummer archiefinventaris **250i**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie Westerbork, Judendurchgangslager, (1923–1927), 1940–1945, (1945–1957) [1961, 1976] (1990–2000), nummer archiefinventaris *250i*, worden opgeheven.
 
 | 3 | 13 | 34 | 207 | 337 | 444 | 475 | 488 | 493 | 494 | 495 | 496 | 497 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -316,24 +288,24 @@ De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnu
 | 1093 | 1094 | 1095 | 1096 | 1097 | 1098 | 1099 | 1100 | 1101 | 1102 | 1104 | 1105 | 1107 |
 | 1108 | 1109 | 1110 | 1112 | 1113 | 1114 | 1115 | 1116 | 1117 | 1121 | 1122 | 1123 | 1125 |
 | 1126 | 1127 | 1131 | 1132 | 1133 | 1134 | 1135 | 1136 | 1141 | 1142 | 1143 | 1145 | 1150 |
-| 1151 | 1153 | 1165 | 1166 | 1172 |   |   |   |   |   |   |   |   |
+| 1151 | 1153 | 1165 | 1166 | 1172 |  |  |  |  |  |  |  |  |
 
 ##### Artikel 15
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie gijzelaarskampen, 1940–1945 (1946–1961) [1988], nummer archiefinventaris **250j**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in Collectie Gevangenissen en Kampen – deelcollectie gijzelaarskampen, 1940–1945 (1946–1961) [1988], nummer archiefinventaris *250j*, worden opgeheven.
 
 | 3 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 21 | 22 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 26 | 37 | 39 | 45 | 56 | 73 | 88 | 117 | 119 | 124 | 125 | 126 | 127 |
-| 128 | 129 | 130 | 132 | 133 | 134 | 135 | 136 | 138 | 164 |   |   |   |
+| 128 | 129 | 130 | 132 | 133 | 134 | 135 | 136 | 138 | 164 |  |  |  |
 
 ##### Artikel 16
 
-De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van E.J. Roskam, (1860) 1922–1975 (1995), nummer archiefinventaris **469**, worden opgeheven.
+De beperkingen die zijn gesteld aan de openbaarheid van de volgende inventarisnummers in het archief van E.J. Roskam, (1860) 1922–1975 (1995), nummer archiefinventaris *469*, worden opgeheven.
 
 | 1 | 2 | 3 | 9 | 21 | 22 | 23 | 24 | 25 | 29 | 30 | 31 | 32 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 33 | 34 | 35 | 36 | 37 |   |   |   |   |   |   |   |   |
+| 33 | 34 | 35 | 36 | 37 |  |  |  |  |  |  |  |  |
 
 ##### Artikel 17
 

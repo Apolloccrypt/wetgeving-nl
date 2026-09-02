@@ -1,61 +1,35 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Defensiestaf 2022"
 identifier: "BWBR0046554"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-04-14"
-last_updated: "2022-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046554"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16326713"
-version_id: "28542802"
-internal_id: "C40275411"
-label_id: "16251804"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046554/2022-04-14/0"
-intitule_bron: "Stcrt.2022-9866"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-16"
-intitule_published: "2022-04-13"
-intitule_in_force: "2022-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9866"
-original_signed_date: "2022-03-16"
-original_published_date: "2022-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9866"
-entry_into_force_date: "2022-04-14"
-jci_1_3: "jci1.3:c:BWBR0046554&z=2022-04-14&g=2022-04-14"
-jci_1_0: "1.0:c:BWBR0046554&g=2022-04-14"
-citeertitel_status: "officieel"
-signed_date: "2022-03-16"
-entry_into_force: "2022-04-14"
+publicatiedatum: 2022-04-14
+laatste_update: 2022-04-14
+status: geldig
+toestand: 2022-04-14
+bron: "https://wetten.overheid.nl/BWBR0046554"
+opgehaald: 2026-09-02
 ---
+
 # Subtaak- en ondermandaatbesluit Defensiestaf 2022
-
-Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en op [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **bewindspersoon:** Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
 
-- b. **mandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 2. Voor de toepassing van dit besluit wordt begrepen onder:
 
-- a. **krijgsmacht:** de Defensiestaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, het Defensie Cybercommando en het (NLD) Special Operations Command en tevens de Defensie Materieel Organisatie, het Defensie Ondersteuningscommando en de Koninklijke Marechaussee voor zover het de verantwoordelijkheid betreft van de Minister van Defensie;
+- a. *krijgsmacht:* de Defensiestaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, het Defensie Cybercommando en het (NLD) Special Operations Command en tevens de Defensie Materieel Organisatie, het Defensie Ondersteuningscommando en de Koninklijke Marechaussee voor zover het de verantwoordelijkheid betreft van de Minister van Defensie;
 
-- b. **defensieonderdelen:** het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, het Commando Koninklijke Marechaussee, de Defensie Materieel Organisatie en het Defensie Ondersteuningscommando.
+- b. *defensieonderdelen:* het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, het Commando Koninklijke Marechaussee, de Defensie Materieel Organisatie en het Defensie Ondersteuningscommando.
 
 ##### Artikel 2. Organisatie van de Defensiestaf
 
@@ -103,7 +77,7 @@ Het Kabinet staat onder leiding van de Chef Kabinet die is belast met:
 
 - e. het adviseren van de (plaatsvervangend) Commandant der Strijdkrachten en andere autoriteiten binnen Defensie over de positie van de onderofficier in de krijgsmacht en het optreden als centraal aanspreekpunt daarvoor;
 
-- f. het opstellen van regelgeving voor en de coördinatie van ceremoniële en protocollaire aangelegenheden van Defensie, het adviseren van de (plaatsvervangend) Commandant der Strijdkrachten over militaire representatie daarbij en het ondersteunen van de Traditiecommissie Krijgsmacht en het Nationaal Comité 4–5 mei;
+- f. het opstellen van regelgeving voor en de coördinatie van ceremoniële en protocollaire aangelegenheden van Defensie, het adviseren van de (plaatsvervangend) Commandant der Strijdkrachten over militaire representatie daarbij en het ondersteunen van de Traditiecommissie Krijgsmacht en het Nationaal Comité 4–5 mei;
 
 - g. het verstrekken van kaders aan de kabinetten van de defensieonderdelen.
 
@@ -253,7 +227,7 @@ De directie Operaties staat onder leiding van de Directeur Operaties, die is bel
 
 ##### Artikel 9a. Ondermandaat, -volmacht en -machtiging Directie Operaties
 
-Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=9&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
+Aan de directeur van de Directie Operaties, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=9&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 10. Het Militair Strategisch Element
 
@@ -307,7 +281,7 @@ Het Transitieteam staat onder leiding van de Programmamanager Transitie, die is 
 
 ##### Artikel 12a. Ondermandaat, -volmacht en -machtiging Transitieteam
 
-Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=12&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
+Aan de programmamanager van het Transitieteam, dan wel bij diens afwezigheid zijn plaatsvervanger, wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen ter uitvoering van de taken die ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046554&artikel=12&z=2022-04-14&g=2022-04-14) tot zijn werkterrein behoren.
 
 ##### Artikel 13. Innovatiecentrum FRONT
 
@@ -391,26 +365,24 @@ Aan de Commandant NLD SOCOM wordt mandaat, volmacht en machtiging verleend tot h
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
-DE **<< BEWINDSPERSOON>>** VAN DEFENSIE
+DE *<< BEWINDSPERSOON>>* VAN DEFENSIE
 
 voor deze,
 
-**<< functie, handtekening en naam van de ondertekenaar >>**
+*<< functie, handtekening en naam van de ondertekenaar >>*
 
 ##### Artikel 17. Intrekking oude subtaakbesluit en ondermandaatbesluit
 
 Ingetrokken worden:
 
-- −. Subtaakbesluit Defensiestaf 2013
+- − Subtaakbesluit Defensiestaf 2013
 
-- −. [Ondermandaat, -volmacht en -machtigingsbesluit Defensiestaf 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034818)
+- − [Ondermandaat, -volmacht en -machtigingsbesluit Defensiestaf 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034818)
 
 ##### Artikel 18. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 19. Citeertitel
 
 Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit Defensiestaf 2022
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

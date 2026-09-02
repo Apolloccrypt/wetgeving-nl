@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 maart 2022, nr. DOB/32058971, inhoudende de instelling van de Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld (Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld)"
+citeertitel: "Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld"
 identifier: "BWBR0046512"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-12"
-last_updated: "2024-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046512"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16317963"
-version_id: "28524012"
-internal_id: "C40247821"
-label_id: "16243144"
-dtd_version: "2.0"
-original_entry_into_force: "2022-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046512/2024-07-12/0"
-intitule_bron: "Stcrt.2022-9585"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-30"
-intitule_published: "2022-04-04"
-intitule_in_force: "2022-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-9585"
-original_signed_date: "2022-03-30"
-original_published_date: "2022-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-9585"
-entry_into_force_date: "2022-04-05"
-jci_1_3: "jci1.3:c:BWBR0046512&z=2024-07-12&g=2024-07-12"
-jci_1_0: "1.0:c:BWBR0046512&g=2024-07-12"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld"
-signed_date: "2022-03-30"
-entry_into_force: "2022-04-05"
+publicatiedatum: 2022-04-05
+laatste_update: 2024-07-12
+status: geldig
+toestand: 2024-07-12
+bron: "https://wetten.overheid.nl/BWBR0046512"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 30 maart 2022, nr. DOB/32058971, inhoudende de instelling van de Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld (Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **minister:** Minister van Onderwijs Cultuur en Wetenschap;
+- – *minister:* Minister van Onderwijs Cultuur en Wetenschap;
 
-- –. **Nationaal Actieplan:** meerjarig actieplan van doelen en maatregelen om seksueel grensoverschrijdend gedrag en seksueel geweld effectief te bestrijden alsmede een jaarlijks voortgangsbericht;
+- – *Nationaal Actieplan:* meerjarig actieplan van doelen en maatregelen om seksueel grensoverschrijdend gedrag en seksueel geweld effectief te bestrijden alsmede een jaarlijks voortgangsbericht;
 
-- –. **Regeringscommissaris:** Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld.
+- – *Regeringscommissaris:* Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld.
 
 ##### Artikel 2
 
@@ -84,12 +58,10 @@ De Regeringscommissaris heeft de volgende taken:
 
 ##### Artikel 5
 
-1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 april 2022.
+1. Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt daarbij terug tot en met 1 april 2022.
 
-2. Dit besluit vervalt op 1 januari 2027.
+2. Dit besluit vervalt op 1 januari 2027.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

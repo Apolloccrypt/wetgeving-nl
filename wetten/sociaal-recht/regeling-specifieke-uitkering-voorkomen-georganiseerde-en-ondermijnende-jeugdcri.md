@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 30 augustus 2022, nr 4165922, houdende regels met betrekking tot het verstrekken van een specifieke uitkering tegen ondermijnende jeugdcriminaliteit (Regeling specifieke uitkering voorkomen georganiseerde en ondermijnende jeugdcriminaliteit 2022)"
+citeertitel: "Regeling specifieke uitkering voorkomen georganiseerde en ondermijnende jeugdcriminaliteit 2022"
 identifier: "BWBR0047146"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-14"
-last_updated: "2022-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047146"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16481783"
-version_id: "28883292"
-internal_id: "C40889321"
-label_id: "16403554"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047146/2022-09-14/0"
-intitule_bron: "Stcrt.2022-24113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-08-30"
-intitule_published: "2022-09-14"
-intitule_in_force: "2022-09-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24113"
-original_signed_date: "2022-08-30"
-original_published_date: "2022-09-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-24113"
-entry_into_force_date: "2022-09-14"
-jci_1_3: "jci1.3:c:BWBR0047146&z=2022-09-14&g=2022-09-14"
-jci_1_0: "1.0:c:BWBR0047146&g=2022-09-14"
-citeertitel_status: "redactioneel"
-short_title: "Regeling specifieke uitkering voorkomen georganiseerde en ondermijnende jeugdcriminaliteit 2022"
-signed_date: "2022-08-30"
-entry_into_force: "2022-09-14"
+publicatiedatum: 2022-09-14
+laatste_update: 2022-09-14
+status: geldig
+toestand: 2022-09-14
+bron: "https://wetten.overheid.nl/BWBR0047146"
+opgehaald: 2026-09-02
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 30 augustus 2022, nr 4165922, houdende regels met betrekking tot het verstrekken van een specifieke uitkering tegen ondermijnende jeugdcriminaliteit (Regeling specifieke uitkering voorkomen georganiseerde en ondermijnende jeugdcriminaliteit 2022)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17),
-
-Besluit:
 
 ##### Artikel 1. Definitiebepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **minister:** de Minister van Justitie en Veiligheid;
+- – *minister:* de Minister van Justitie en Veiligheid;
 
-- –. **gemeente:** een van de voor deze aanpak geselecteerde gemeenten, te weten Amsterdam, Rotterdam, Den Haag, Utrecht, Lelystad, Zaanstad, Schiedam, Nieuwegein, Groningen, Eindhoven, Arnhem, Tilburg, Breda, Leeuwarden of Heerlen.
+- – *gemeente:* een van de voor deze aanpak geselecteerde gemeenten, te weten Amsterdam, Rotterdam, Den Haag, Utrecht, Lelystad, Zaanstad, Schiedam, Nieuwegein, Groningen, Eindhoven, Arnhem, Tilburg, Breda, Leeuwarden of Heerlen.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -64,9 +38,9 @@ De minister kan op aanvraag van een gemeente een specifieke uitkering verstrekke
 
 - d. het IBAN-nummer waarop het toegekende bedrag kan worden overgemaakt.
 
-2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 juni 2022 en 1 juni 2026.
+2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 juni 2022 en 1 juni 2026.
 
-3. De aanvraag wordt voor 1 oktober 2022 ingediend, met gebruikmaking van een door de Minister ter beschikking gesteld digitaal aanvraagformulier.
+3. De aanvraag wordt voor 1 oktober 2022 ingediend, met gebruikmaking van een door de Minister ter beschikking gesteld digitaal aanvraagformulier.
 
 ##### Artikel 4. Hoogte specifieke uitkering
 
@@ -102,4 +76,4 @@ De minister kan onverschuldigd uitgekeerde bedragen als bedoeld in [artikel 7, t
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag van publicatie in de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2022.
+Deze regeling treedt in werking met ingang van de dag van publicatie in de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2022.

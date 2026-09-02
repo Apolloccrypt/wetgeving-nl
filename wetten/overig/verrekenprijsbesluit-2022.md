@@ -1,59 +1,61 @@
 ---
 title: "Verrekenprijsbesluit 2022"
 identifier: "BWBR0046839"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-07-02"
-last_updated: "2022-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046839"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16402543"
-version_id: "28730582"
-internal_id: "C40617921"
-label_id: "16328104"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046839/2022-07-02/0"
-intitule_bron: "Stcrt.2022-16685"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-14"
-intitule_published: "2022-07-01"
-intitule_in_force: "2022-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16685"
-original_signed_date: "2022-06-14"
-original_published_date: "2022-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16685"
-entry_into_force_date: "2022-07-02"
-jci_1_3: "jci1.3:c:BWBR0046839&z=2022-07-02&g=2022-07-02"
-jci_1_0: "1.0:c:BWBR0046839&g=2022-07-02"
-citeertitel_status: "officieel"
-signed_date: "2022-06-14"
-entry_into_force: "2022-07-02"
+publicatiedatum: 2022-07-02
+laatste_update: 2022-07-02
+status: geldig
+toestand: 2022-07-02
+bron: "https://wetten.overheid.nl/BWBR0046839"
+opgehaald: 2026-09-02
 ---
+
 # Verrekenprijsbesluit 2022
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*In dit besluit wordt nadere invulling gegeven aan de toepassing van het zogenoemde arm’s-lengthbeginsel. Het arm’s-lengthbeginsel is in Nederland gecodificeerd in 2002 door het opnemen van artikel 8b Wet op de vennootschapsbelasting 1969 (Wet Vpb 1969).1In artikel 3.2 Wet bronbelasting 2021 is het arm’s-lengthbeginsel ook gecodificeerd. Waar in dit besluit het arm’s-lengthbeginsel wordt uitgelegd geldt dat ook voor artikel 3.2 Wet bronbelasting 2021.*
 
-**In dit besluit wordt nadere invulling gegeven aan de toepassing van het zogenoemde arm’s-lengthbeginsel. Het arm’s-lengthbeginsel is in Nederland gecodificeerd in 2002 door het opnemen van artikel 8b Wet op de vennootschapsbelasting 1969 (Wet Vpb 1969).1In artikel 3.2 Wet bronbelasting 2021 is het arm’s-lengthbeginsel ook gecodificeerd. Waar in dit besluit het arm’s-lengthbeginsel wordt uitgelegd geldt dat ook voor artikel 3.2 Wet bronbelasting 2021.**
+*Binnen de OESO2Organisatie voor Economische Samenwerking en Ontwikkeling.-lidstaten bestaat overeenstemming omtrent het arm’s-lengthbeginsel zoals dat is opgenomen in artikel 9 van het OESO-modelverdrag. Dit is van nadere invulling voorzien in het OESO-commentaar op artikel 9 van het OESO-modelverdrag en in de OESO-richtlijnen.*
 
-**Binnen de OESO2Organisatie voor Economische Samenwerking en Ontwikkeling.-lidstaten bestaat overeenstemming omtrent het arm’s-lengthbeginsel zoals dat is opgenomen in artikel 9 van het OESO-modelverdrag. Dit is van nadere invulling voorzien in het OESO-commentaar op artikel 9 van het OESO-modelverdrag en in de OESO-richtlijnen.**
+*De OESO-richtlijnen spreken veelal van een multinationale onderneming (‘Multinational Enterprise’ of MNE). Een multinationale onderneming is in de OESO-richtlijnen gedefinieerd als een lichaam dat onderdeel is van een MNE-groep. Een MNE-groep wordt vervolgens gedefinieerd als een groep van gelieerde lichamen die in twee of meer landen opereren. Waar in dit besluit over groep wordt gesproken, wordt bedoeld een groep van gelieerde lichamen die nationaal en/of internationaal opereren.*
 
-**De OESO-richtlijnen spreken veelal van een multinationale onderneming (‘Multinational Enterprise’ of MNE). Een multinationale onderneming is in de OESO-richtlijnen gedefinieerd als een lichaam dat onderdeel is van een MNE-groep. Een MNE-groep wordt vervolgens gedefinieerd als een groep van gelieerde lichamen die in twee of meer landen opereren. Waar in dit besluit over groep wordt gesproken, wordt bedoeld een groep van gelieerde lichamen die nationaal en/of internationaal opereren.**
-
-**Waar in dit besluit wordt verwezen naar paragrafen, hoofdstukken of onderdelen wordt gedoeld op verwijzingen naar de OESO-richtlijnen 2022, tenzij anders vermeld.**
+*Waar in dit besluit wordt verwezen naar paragrafen, hoofdstukken of onderdelen wordt gedoeld op verwijzingen naar de OESO-richtlijnen 2022, tenzij anders vermeld.*
 
 ### 1. Inleiding
 
 ### 1.1. Gebruikte afkortingen en termen
 
+| AWR | Algemene wet inzake rijksbelastingen |
+| --- | --- |
+| BEPS | Base Erosion and Profit Shifting |
+| CCA | Cost Contribution Arrangement |
+| CUP | Comparable Uncontrolled Price |
+| DEMPE | Development, Enhancement, Maintenance, Protection and Exploitation |
+| DVL | Dienstverleningslichaam |
+| NOW | Tijdelijke Noodmaatregel Overbrugging voor behoud van Werkgelegenheid |
+| MNE | Multinational Enterprise |
+| OESO | Organisatie voor Economische Samenwerking en Ontwikkeling |
+| OESO-richtlijnen | Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations |
+| ORA | Options Realistically Available |
+| R&D | Research & Development |
+| TNMM | Transactional Net Margin Methode |
+| WACC | Weighted Average Cost of Capital |
+| Wet Vpb 1969 | Wet op de vennootschapsbelasting 1969 |
+| WEV | Waarde in het Economische Verkeer |
+
 ### 1.2. Aanleiding van het besluit
 
-Dit besluit vervangt het [besluit van de Staatssecretaris van Financiën van 22 april 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040893), nr. 2018-6865, **Stcrt.** 2018, 26874. Dit besluit geeft onder andere aandacht aan recente ontwikkelingen die hebben geleid tot wijzigingen in de OESO-richtlijnen. Voor zover deze wijzigingen een nadere verduidelijking betreffen van de toepassing van het arm’s-lengthbeginsel ben ik van mening dat deze wijzigingen ook van toepassing zijn op jaren waarin deze wijzigingen nog niet waren gepubliceerd.
+Dit besluit vervangt het [besluit van de Staatssecretaris van Financiën van 22 april 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040893), nr. 2018-6865, *Stcrt.* 2018, 26874. Dit besluit geeft onder andere aandacht aan recente ontwikkelingen die hebben geleid tot wijzigingen in de OESO-richtlijnen. Voor zover deze wijzigingen een nadere verduidelijking betreffen van de toepassing van het arm’s-lengthbeginsel ben ik van mening dat deze wijzigingen ook van toepassing zijn op jaren waarin deze wijzigingen nog niet waren gepubliceerd.
 
 Belangrijke wijzigingen ten opzichte van het voorgaande besluit zijn:
+
+- – Aanpassing van de paragraaf over financiële transacties;
+
+- – Aanpassing van [paragraaf 6](https://wetten.overheid.nl/BWBR0046839) van dit besluit over dienstverlening in concernverband;
+
+- – Uitbreiding van de paragraaf over overheidsbeleid met een onderdeel over steunmaatregelen van de overheid naar aanleiding van bijvoorbeeld de COVID-19 pandemie; en
+
+- – Tekstuele wijzigingen om de gebruikte terminologie beter te laten aansluiten bij de terminologie zoals gebruikt in de OESO-richtlijnen en de Nederlandse wet- en regelgeving.
 
 In de afgelopen jaren zijn de OESO-richtlijnen gewijzigd, mede als gevolg van het BEPS3Base Erosion and Profit Shifting.-project. De OESO-richtlijnen zijn nog volop in ontwikkeling en zullen ook in de toekomst regelmatig worden uitgebreid en aangepast. Indien nodig zal het onderhavige besluit naar aanleiding van nieuwe ontwikkelingen worden vervangen door een nieuw besluit.
 
@@ -65,7 +67,7 @@ Op het gebied van verrekenprijzen past een constructieve samenwerking tussen Bel
 
 ### 1.4. Zekerheid vooraf
 
-Belastingplichtige kan zekerheid verkrijgen door middel van het maken van afspraken vooraf. Voor het al of niet kunnen verkrijgen van zekerheid over de toepassing van het arm’s-lengthbeginsel in internationale verhoudingen, is het [Besluit van 19 juni 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042342), nr. 2019/13003 (Stcrt. 28 juni 2019, nr. 35519)5Inclusief de latere wijzigingen van dit besluit, zoals die van 9 augustus 2021, nr. 2021 – 16465. inzake het vooroverleg rulings met een internationaal karakter relevant.
+Belastingplichtige kan zekerheid verkrijgen door middel van het maken van afspraken vooraf. Voor het al of niet kunnen verkrijgen van zekerheid over de toepassing van het arm’s-lengthbeginsel in internationale verhoudingen, is het [Besluit van 19 juni 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042342), nr. 2019/13003 (Stcrt. 28 juni 2019, nr. 35519)5Inclusief de latere wijzigingen van dit besluit, zoals die van 9 augustus 2021, nr. 2021 – 16465. inzake het vooroverleg rulings met een internationaal karakter relevant.
 
 ### 1.5. Relatie met de OESO-richtlijnen
 
@@ -81,7 +83,7 @@ Een belangrijke taak van het EU Joint Transfer Pricing Forum is het wegnemen van
 
 ### 1.7. Coördinatie van de uitvoering
 
-De coördinatie van de uitvoering op het terrein van verrekenprijzen binnen de Belastingdienst is in handen van de Coördinatiegroep Verrekenprijzen ([Instelbesluit CGVP](https://wetten.overheid.nl/jci1.3:c:BWBR0040891), nr. 2018-4380).
+De coördinatie van de uitvoering op het terrein van verrekenprijzen binnen de Belastingdienst is in handen van de Coördinatiegroep Verrekenprijzen ([Instelbesluit CGVP](https://wetten.overheid.nl/jci1.3:c:BWBR0040891), nr. 2018-4380).
 
 Bij de bestrijding van onzakelijke verschuiving van winst zal binnen de Belastingdienst de Coördinatiegroep Verrekenprijzen zo nodig met de Coördinatiegroep Taxhavens en Concernfinanciering en de Coördinatiegroep Constructiebestrijding samenwerken.
 
@@ -105,7 +107,7 @@ Vervolgens dient deze informatie te worden aangevuld met een analyse van de ande
 
 Er dient een analyse van de uitgeoefende functies en de economisch relevante risico’s die gepaard gaan met de transactie plaats te vinden. De analyse van de risico’s in een gelieerde transactie bestaat uit de in par. 1.60 beschreven stappen.
 
-In de praktijk zijn situaties denkbaar waarbij meerdere partijen ‘control’ (zie par. 1.65) uitoefenen over de risico’s en de ‘financial capacity’ (zie par. 1.64) hebben om die risico’s te dragen, terwijl slechts één van die partijen de risico’s contractueel op zich heeft genomen. In dergelijke gevallen bepaalt par. 1.94 dat de contractuele risicoallocatie wordt gerespecteerd. Dat neemt niet weg dat de andere partij(en) at arm’s-length dient/dienen te worden beloond voor het uitoefenen van de door die partij(en) vervulde control-functie. Par. 1.105 bepaalt dat deze beloning, indien in overeenstemming met de bijdrage die wordt geleverd aan de control-functie, ook een aandeel in de positieve en negatieve consequenties van de risico’s kan zijn. Dat betekent naar mijn mening dat in dergelijke gevallen de ‘transactional profit split’ methode (zie par. 3 van dit besluit) passend kan zijn. Het lijkt namelijk niet at arm’s-length dat een partij die op basis van het contract risico’s draagt, maar in feite slechts gedeeltelijk bijdraagt aan de control, op basis van par. 1.94 alle negatieve en positieve consequenties van de betreffende risico’s toegerekend krijgt, terwijl de andere partij(en) een beperkte, routinematige beloning krijgt. In het geval dat de door de betrokken partijen gehanteerde risicoallocatie bij vergelijkbare transacties onder vergelijkbare omstandigheden tussen ongelieerde partijen daadwerkelijk voorkomt, zou de conclusie van deze analyse anders kunnen zijn.
+In de praktijk zijn situaties denkbaar waarbij meerdere partijen ‘control’ (zie par. 1.65) uitoefenen over de risico’s en de ‘financial capacity’ (zie par. 1.64) hebben om die risico’s te dragen, terwijl slechts één van die partijen de risico’s contractueel op zich heeft genomen. In dergelijke gevallen bepaalt par. 1.94 dat de contractuele risicoallocatie wordt gerespecteerd. Dat neemt niet weg dat de andere partij(en) at arm’s-length dient/dienen te worden beloond voor het uitoefenen van de door die partij(en) vervulde control-functie. Par. 1.105 bepaalt dat deze beloning, indien in overeenstemming met de bijdrage die wordt geleverd aan de control-functie, ook een aandeel in de positieve en negatieve consequenties van de risico’s kan zijn. Dat betekent naar mijn mening dat in dergelijke gevallen de ‘transactional profit split’ methode (zie [par. 3](https://wetten.overheid.nl/BWBR0046839) van dit besluit) passend kan zijn. Het lijkt namelijk niet at arm’s-length dat een partij die op basis van het contract risico’s draagt, maar in feite slechts gedeeltelijk bijdraagt aan de control, op basis van par. 1.94 alle negatieve en positieve consequenties van de betreffende risico’s toegerekend krijgt, terwijl de andere partij(en) een beperkte, routinematige beloning krijgt. In het geval dat de door de betrokken partijen gehanteerde risicoallocatie bij vergelijkbare transacties onder vergelijkbare omstandigheden tussen ongelieerde partijen daadwerkelijk voorkomt, zou de conclusie van deze analyse anders kunnen zijn.
 
 Nadat alle stappen in de analyse van de risico’s zijn genomen, is de transactie als zodanig gekarakteriseerd. De aldus gekarakteriseerde transactie kan derhalve afwijken van hetgeen contractueel is overeengekomen tussen de gelieerde partijen of de uitleg die zij daaraan geven. Op basis van de gekarakteriseerde transactie dient een passende prijs te worden vastgesteld, rekening houdend met de arm’s-length risicoallocatie. Dit dient in principe te gebeuren op basis van vergelijkbare transacties tussen ongelieerde partijen die voortvloeien uit een vergelijkbaarheidsanalyse. De in de OESO-richtlijnen genoemde economisch relevante kenmerken vormen eveneens de elementen van deze vergelijkbaarheidsanalyse.
 
@@ -144,6 +146,12 @@ Nadat de arm’s-length range is vastgesteld, dient beoordeeld te worden of de p
 ### 2.7. Gebruik van meerjarengegevens (par. 3.75 – 3.79)
 
 Bij de beoordeling van een transactie kan het nuttig zijn gegevens over meerdere jaren te bezien. Door het gebruik van meerjarengegevens kan worden voorkomen dat in een bepaald jaar correcties worden aangebracht, terwijl het betreffende groepsonderdeel over een aantal jaren bezien een vergoeding ontvangt die in overeenstemming is met het arm’s-lengthbeginsel. Het toepassen van meerjarengegevens kan er echter ook toe leiden dat achteraf ontwikkelde inzichten worden gebruikt om een situatie te beoordelen die zich eerder heeft voorgedaan (‘hindsight’). De OESO-richtlijnen geven aan dat door belastingdiensten geen gebruik mag worden gemaakt van hindsight. Daarom kunnen bij het gebruik van meerjarencijfers alleen gegevens over het betreffende jaar en eerdere jaren worden gehanteerd. Een uitwerking hiervan is het werken met een voortschrijdend gemiddelde. Dit leidt tot de volgende systematiek:
+
+- – Allereerst wordt getoetst of de vergoeding voor de te beoordelen transactie binnen de arm’s-length range valt die voor het betreffende jaar is vastgesteld. Indien de vergoeding binnen de jaarrange valt, wordt geen correctie aangebracht.
+
+- – Indien de vergoeding buiten de jaarrange valt, wordt bovengenoemde toets herhaald op basis van (voortschrijdende) gemiddelden over een aantal jaren. De lengte van de periode die wordt meegenomen zal mede afhankelijk zijn van de lengte van de levenscyclus van het product of de dienst. Als de gemiddelde vergoeding voor de te beoordelen transactie binnen de meerjarenrange valt, wordt geen correctie aangebracht.
+
+- – Indien de te beoordelen vergoeding zowel buiten de arm’s-length jaarrange valt, als buiten de arm’s-length meerjarenrange, wordt een correctie aangebracht conform hetgeen in [paragraaf 2.6](https://wetten.overheid.nl/BWBR0046839) van dit besluit is beschreven.
 
 ### 2.8. Overheidsbeleid
 
@@ -243,7 +251,7 @@ Par. 4.68 tot en met 4.78 behandelt de gevolgen van secondary transactions. In v
 
 Niet alle landen gaan van eenzelfde systeem uit. Dit kan ertoe leiden dat de andere betrokken staat niet bereid is om bijvoorbeeld de als secondary adjustment nageheven dividendbelasting te verrekenen, omdat de fictieve dividenduitkering niet wordt erkend. Indien de belastingplichtige aannemelijk maakt dat in de andere betrokken staat de dividendbelasting (als zijnde de secondary adjustment) niet kan worden verrekend en er geen sprake is van misbruik dat is gericht op het ontgaan van dividendbelasting, wordt de secondary adjustment achterwege gelaten.
 
-De heffing van dividendbelasting als secondary adjustment wordt niet achterwege gelaten, indien de andere betrokken staat in het jaar waarin de secondary adjustment wordt aangebracht is aangewezen in de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.14Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot aanwijzing van laagbelastende staten en staten die zijn opgenomen op de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden)
+De heffing van dividendbelasting als secondary adjustment wordt niet achterwege gelaten, indien de andere betrokken staat in het jaar waarin de secondary adjustment wordt aangebracht is aangewezen in de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.14Regeling van de Staatssecretaris van Financiën van 31 december 2018 tot aanwijzing van laagbelastende staten en staten die zijn opgenomen op de EU-lijst van niet-coöperatieve rechtsgebieden voor belastingdoeleinden (Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden)
 
 ### 5. (im)materiële vaste activa
 
@@ -271,7 +279,7 @@ Bij de overdracht van immateriële activa kan het moeilijk zijn om op het moment
 
 Ook de Nederlandse Belastingdienst zal het standpunt innemen dat het onzakelijk is een vaste prijs overeen te komen wanneer de waardering op het tijdstip van de transactie hoogst onzeker is en economisch rationeel handelende onafhankelijke partijen in een soortgelijke situatie geen vaste prijs zouden zijn overeengekomen. In dergelijke gevallen dient bijvoorbeeld een aanpassingsclausule te worden opgenomen in de overeenkomst tussen de gelieerde partijen waarbij de prijs mede afhankelijk is van de voordelen die het immateriële vaste activum in de toekomst genereert.
 
-Een voorbeeld hiervan is de situatie waarin een nieuw immaterieel activum is ontwikkeld dat aan een gelieerd lichaam wordt overgedragen op een moment dat het succes daarvan nog onvoldoende zichtbaar is, bijvoorbeeld omdat het immateriële activum nog geen opbrengsten heeft gegenereerd en aan het inschatten van de toekomstige opbrengsten belangrijke onzekerheden zijn verbonden. In die situatie is de waardering op het tijdstip van de transactie hoogst onzeker en ligt het opnemen van een prijsaanpassingsclausule in de rede.16Zie hiervoor ook Hoge Raad 17 augustus 1998, nr. 32.997, ECLI:NL:HR:1998:AA2288. Hierbij dient te worden opgemerkt dat een prijsaanpassingsclausule kan leiden tot zowel een opwaartse als een neerwaartse aanpassing van de oorspronkelijk overeengekomen prijs.
+Een voorbeeld hiervan is de situatie waarin een nieuw immaterieel activum is ontwikkeld dat aan een gelieerd lichaam wordt overgedragen op een moment dat het succes daarvan nog onvoldoende zichtbaar is, bijvoorbeeld omdat het immateriële activum nog geen opbrengsten heeft gegenereerd en aan het inschatten van de toekomstige opbrengsten belangrijke onzekerheden zijn verbonden. In die situatie is de waardering op het tijdstip van de transactie hoogst onzeker en ligt het opnemen van een prijsaanpassingsclausule in de rede.16Zie hiervoor ook Hoge Raad 17 augustus 1998, nr. 32.997, ECLI:NL:HR:1998:AA2288. Hierbij dient te worden opgemerkt dat een prijsaanpassingsclausule kan leiden tot zowel een opwaartse als een neerwaartse aanpassing van de oorspronkelijk overeengekomen prijs.
 
 ### 5.3. Moeilijk te waarderen immateriële activa (par. 6.186 t/m 6.195)
 
@@ -279,11 +287,15 @@ In gevallen van overdracht of licensering van immateriële activa zoals omschrev
 
 De Belastingdienst kan, met een verwijzing naar de daadwerkelijk gerealiseerde resultaten, de prijs zoals die is bepaald op het moment van het aangaan van de transactie alsnog ter discussie stellen indien blijkt dat:
 
+- – er grote afwijkingen zijn tussen de gerealiseerde resultaten en de verwachtingen en daaruit voortvloeiende prognoses die ten grondslag hebben gelegen aan de prijsbepaling op het moment van de transactie; en
+
+- – deze afwijkingen niet zijn te verklaren vanuit feiten en omstandigheden die zich pas na de datum van de prijsbepaling hebben voorgedaan.
+
 Een grote afwijking is een afwijking van meer dan 20% in vergelijking met de projecties die de basis vormden voor de oorspronkelijk vastgestelde prijs. De immateriële activa zullen niet als moeilijk te waarderen immateriële activa worden aangemerkt als een dergelijke afwijking pas optreedt na een periode van vijf jaar nadat er voor het eerst met het immaterieel activum opbrengsten zijn gerealiseerd in transacties met ongelieerde partijen.
 
 ### 5.4. De koop van aandelen in een ongelieerd lichaam gevolgd door een business restructuring
 
-In de praktijk komt het veelvuldig voor dat een lichaam dat behoort tot een groep, de aandelen in een ongelieerd lichaam koopt, waarna de daarin aanwezige immateriële activa worden overgedragen aan een ander lichaam binnen de groep. Dit kan tot discussies leiden tussen belastingplichtigen en de Belastingdienst over de vast te stellen arm’s-length prijs voor de overdracht van de immateriële activa. Voorafgaand daaraan is van belang om vast te stellen of naast de juridisch eigendom van de immateriële activa ook de bijbehorende functionaliteit en de gerelateerde risico’s worden overgedragen. Ook de overige paragrafen van dit besluit (waaronder par. 5.2 en 5.3) zijn hierop onverkort van toepassing.
+In de praktijk komt het veelvuldig voor dat een lichaam dat behoort tot een groep, de aandelen in een ongelieerd lichaam koopt, waarna de daarin aanwezige immateriële activa worden overgedragen aan een ander lichaam binnen de groep. Dit kan tot discussies leiden tussen belastingplichtigen en de Belastingdienst over de vast te stellen arm’s-length prijs voor de overdracht van de immateriële activa. Voorafgaand daaraan is van belang om vast te stellen of naast de juridisch eigendom van de immateriële activa ook de bijbehorende functionaliteit en de gerelateerde risico’s worden overgedragen. Ook de overige paragrafen van dit besluit (waaronder [par. 5.2](https://wetten.overheid.nl/BWBR0046839) en [5.3](https://wetten.overheid.nl/BWBR0046839)) zijn hierop onverkort van toepassing.
 
 In par. 6.147 en voorbeeld 23 van de Annex bij hoofdstuk VI wordt gesteld dat de arm’s-length prijs voor de aandelen van het aangekochte lichaam nuttige informatie bevat voor de waardering van de onderneming van dit lichaam. Ik ben dan ook van mening dat het aankoopdossier (met uitzondering van de onderdelen waarvan door belastingplichtige onderbouwd kan worden dat deze niet van belang zijn voor de belastingheffing), dat doorgaans bij de koper van de aandelen in bezit is, een essentieel onderdeel uitmaakt van de door belastingplichtige te verstrekken verrekenprijsdocumentatie ter onderbouwing van de prijs van de overgedragen immateriële vaste activa.
 
@@ -307,6 +319,10 @@ Op basis van de OESO-richtlijnen is sprake van een concerndienst als ten behoeve
 
 Bij de te hanteren methode voor het bepalen van de verrekenprijs voor een dienst kan een keuze worden gemaakt uit17Indien niet van deze methoden gebruik wordt gemaakt, maar een beroep wordt gedaan op par. 7.37 dient aan alle voorwaarden van die paragraaf te worden voldaan. Daarnaast dienen alle financieringskosten te worden meegenomen. De Belastingdienst heeft bij het al dan niet toepassen van par. 7.37 een discretionaire bevoegdheid.:
 
+- 1. Toepassing van het arm’s-lengthbeginsel aan de hand van de in dit besluit genoemde methoden en de OESO-richtlijnen (zie par. 6.1 van dit besluit); of
+
+- 2. De vereenvoudigde methode voor diensten met beperkte toegevoegde waarde (zie par. 6.2 van dit besluit).
+
 ### 6.1. Toepassing van het arm’s-lengthbeginsel
 
 In de praktijk blijkt dat vaak gekozen wordt voor een kostengerelateerde beloning op basis van de TNMM. Op basis van een functionele analyse zal vastgesteld moeten worden of de beloning voor de betreffende concerndiensten op deze wijze dient te worden vastgesteld. Deze aanpak zal immers doorgaans alleen kunnen worden toegepast voor de meer routinematige diensten. Bij deze aanpak (beloning gerelateerd aan kosten) zal in beginsel slechts sprake kunnen zijn van een arm’s-length vergoeding als bij het bepalen van de vergoeding rekening is gehouden met een passende winstopslag.
@@ -317,9 +333,53 @@ Met betrekking tot het doorbelasten van concerndiensten is er een duidelijke voo
 
 Aandeelhoudersactiviteiten worden niet aangemerkt als concerndiensten voor zover ze geen economische of commerciële waarde toevoegen ten behoeve van concernonderdelen en voor zover een groepsonderdeel daarvoor normaliter niet bereid zou zijn te betalen. Voor aandeelhoudersactiviteiten behoort geen vergoeding in rekening te worden gebracht aan andere groepsmaatschappijen.
 
-Bij de beoordeling van de vraag of sprake is van aandeelhoudersactiviteiten gaat de Belastingdienst er, met inachtneming van het gestelde in par. 6.6.2 van dit besluit, van uit dat in ieder geval de activiteiten die worden genoemd in de hierna opgenomen lijst in de hoedanigheid van aandeelhouder zijn verricht. Onder elke categorie activiteiten wordt een aantal voorbeelden genoemd van activiteiten die daaronder vallen.
+Bij de beoordeling van de vraag of sprake is van aandeelhoudersactiviteiten gaat de Belastingdienst er, met inachtneming van het gestelde in [par. 6.6.2](https://wetten.overheid.nl/BWBR0046839) van dit besluit, van uit dat in ieder geval de activiteiten die worden genoemd in de hierna opgenomen lijst in de hoedanigheid van aandeelhouder zijn verricht. Onder elke categorie activiteiten wordt een aantal voorbeelden genoemd van activiteiten die daaronder vallen.
 
 ### 6.2.1. Lijst van aandeelhoudersactiviteiten
+
+- 1. Activiteiten die samenhangen met de wettelijke structuur van het lichaam zelf
+
+   - 1.1. Uitvoering van vereisten [boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
+
+      - – het organiseren, voorbereiden en houden van de aandeelhoudersvergadering
+
+      - – de activiteiten rondom het opstellen en goedkeuren van de jaarrekening en het deponeren bij de Kamer van Koophandel
+
+      - – de activiteiten van de Raad van Commissarissen voor zover het de uitvoering van zijn wettelijke toezichtstaken betreft
+
+      - – de activiteiten van de Ondernemingsraad
+
+   - 1.2. Uitvoering [AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320), voor zover het fiscale verplichtingen van het lichaam zelf betreft
+
+      - – het voeren van een administratie
+
+      - – het voldoen aan de bewaarplicht
+
+      - – het doen van fiscale aangiftes
+
+      - – het voldoen aan de informatieplicht
+
+- 2. Activiteiten die samenhangen met de plaatsing/uitgifte/splitsing van aandelen in het lichaam zelf, of vergelijkbare waardepapieren op de kapitaalmarkten en activiteiten met betrekking tot het aanvragen/aanhouden van een (buitenlandse) beursnotering van het lichaam zelf
+
+   - – het voldoen aan de toelatingsvereisten tot een aandelenmarkt
+
+   - – de activiteiten die samenhangen met de beursnotering, bijvoorbeeld opstellen van de formulieren die aan de Amerikaanse SEC worden verstrekt in het kader van de notering, (gratis) ter beschikking stellen van jaarrekening, jaarverslag etc.
+
+   - – het lidmaatschap van de verenigingen en andere instanties die de aandelenbeurzen vertegenwoordigen
+
+- 3. Activiteiten die samenhangen met de invoering en handhaving van wettelijke regels inzake toezicht op aandelentransacties
+
+   - – de invoering en het onderhouden van een registratiesysteem op grond van de [Wet op het Financieel Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+
+   - – het melden van aandelentransacties door personeel van het lichaam onder deze wetgeving
+
+- 4. Activiteiten die samenhangen met de invoering van en voldoening aan wettelijke regels en gedragsregels inzake ‘corporate governance’ bij het lichaam zelf of de groep als geheel
+
+   - – het invoeren van door wet- en regelgeving voorgeschreven corporate governance toezicht, inclusief het opnemen van een paragraaf hierover in het jaarverslag
+
+- 5. Activiteiten die samenhangen met rapportages aan diverse belanghebbenden betreffende het lichaam zelf of de groep als geheel
+
+   - – persconferenties en overige communicatiekosten met aandeelhouders en andere belanghebbenden, zoals financieel analisten, voor zover de communicatie verband houdt met externe verslaggeving, financiële prestaties en toekomstverwachtingen van het lichaam zelf of de groep als geheel.
 
 Bovengenoemde lijst is niet limitatief. Dat wil zeggen dat voor activiteiten die niet op deze lijst zijn opgenomen, steeds afzonderlijk beoordeeld dient te worden of sprake is van concerndiensten dan wel activiteiten die in de hoedanigheid van aandeelhouder worden verricht.
 
@@ -331,21 +391,29 @@ Bij de kwalificatie van de activiteiten als concerndiensten of aandeelhoudersact
 
 De volgende voorbeelden beschrijven situaties waarin al dan niet sprake is van activiteiten met een gemengd karakter.
 
+A. Voorbeeld consolidatieactiviteiten
+
 Een groep hanteert een managementinformatiesysteem waarin de resultaten van alle groepsmaatschappijen worden opgenomen. Deze informatie wordt zowel gebruikt voor budgetbeslissingen, aansturing en beoordelingen van de betreffende groepsmaatschappijen, als voor het opstellen van kwartaal-, halfjaar- en jaarlijkse consolidatieopstellingen die de basis voor de jaarrekening vormen.
 
-**Conclusie:** Voor wat betreft het opzetten en onderhouden van het managementinformatiesysteem en het verwerken van de informatie voor aansturing van de groepsmaatschappijen is sprake van concerndiensten. Voor wat betreft het uiteindelijk op basis van de aldus verkregen informatie samenstellen van de periodieke geconsolideerde cijferopstellingen van de (tussen)houdstermaatschappij is sprake van activiteiten die als aandeelhouder worden verricht.
+*Conclusie:* Voor wat betreft het opzetten en onderhouden van het managementinformatiesysteem en het verwerken van de informatie voor aansturing van de groepsmaatschappijen is sprake van concerndiensten. Voor wat betreft het uiteindelijk op basis van de aldus verkregen informatie samenstellen van de periodieke geconsolideerde cijferopstellingen van de (tussen)houdstermaatschappij is sprake van activiteiten die als aandeelhouder worden verricht.
+
+B. Voorbeeld fusie- en overnameactiviteiten
 
 Een afdeling op het Europese hoofdkantoor van de groep houdt zich bezig met fusies en overnames. De groep heeft in Europa een extra productielocatie nodig en de afdeling analyseert welke bedrijven in de verschillende Europese landen in aanmerking komen voor een potentiële overname die door het Europese hoofdkantoor zelf zal worden verricht.
 
-**Conclusie:** De analyse van de afdeling fusies en overnames is een activiteit die wordt verricht in de hoedanigheid van aandeelhouder. Ter zake van deze activiteit behoort derhalve geen vergoeding van de groepsmaatschappijen gevraagd te worden.
+*Conclusie:* De analyse van de afdeling fusies en overnames is een activiteit die wordt verricht in de hoedanigheid van aandeelhouder. Ter zake van deze activiteit behoort derhalve geen vergoeding van de groepsmaatschappijen gevraagd te worden.
+
+C. Voorbeeld fusie- en overnameactiviteiten
 
 De afdeling fusies en overnames in voornoemd voorbeeld analyseert welke bedrijven op continent X (niet zijnde Europa) in aanmerking komen voor een potentiële overname om het marktaandeel in dat continent te vergroten. De analyse leidt tot een overname van een bedrijf door het regionale hoofdkantoor van continent X.
 
-**Conclusie:** Er wordt een concerndienst aan het regionale hoofdkantoor van continent X verricht. Ter zake van deze activiteit dient een bedrag in rekening gebracht te worden dat leidt tot een arm’s-length beloning.
+*Conclusie:* Er wordt een concerndienst aan het regionale hoofdkantoor van continent X verricht. Ter zake van deze activiteit dient een bedrag in rekening gebracht te worden dat leidt tot een arm’s-length beloning.
+
+D. Voorbeeld fusie- en overnameactiviteiten
 
 Een afdeling van de groep die zich bezighoudt met fusies en overnames assisteert een overgenomen bedrijf bij de juridische implementatie van de overname (bijvoorbeeld het van de beurs halen van de aandelen), de aanpassingen aan het systeem en huisstijl van de groep en het opzetten en uitvoeren van het draaiboek voor het personeel. Door deze assistentie wordt economische en/of commerciële waarde toegevoegd aan de overgenomen groepsmaatschappij waarvoor een ongelieerde in vergelijkbare omstandigheden bereid zou zijn te betalen.
 
-**Conclusie:** Er wordt een concerndienst aan de betreffende groepsmaatschappij verricht. Ter zake van deze activiteit dient een bedrag in rekening gebracht te worden dat leidt tot een arm’s-length beloning.
+*Conclusie:* Er wordt een concerndienst aan de betreffende groepsmaatschappij verricht. Ter zake van deze activiteit dient een bedrag in rekening gebracht te worden dat leidt tot een arm’s-length beloning.
 
 ### 6.3. De vereenvoudigde methode voor diensten met beperkte toegevoegde waarde (par. 7.43 t/m 7.65)
 
@@ -359,35 +427,47 @@ Tot de kostengrondslag behoren de directe kosten en indirecte kosten die samenha
 
 ### 6.3.1. Voorbeelden
 
+E. Voorbeeld
+
 Een groep is actief op het gebied van het verlenen van juridische diensten aan ongelieerden. Een medewerker van een van de lichamen van de groep geeft een advies over lokale juridische aspecten aan een buitenlandse groepsmaatschappij die betrokken is bij de advisering van een cliënt omtrent een internationale transactie.
 
-**Conclusie:** Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast, omdat sprake is van activiteiten die behoren tot de primaire bedrijfsprocessen van de groep. Bovendien worden de betreffende diensten ook meer dan incidenteel aan ongelieerde partijen verleend.
+*Conclusie:* Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast, omdat sprake is van activiteiten die behoren tot de primaire bedrijfsprocessen van de groep. Bovendien worden de betreffende diensten ook meer dan incidenteel aan ongelieerde partijen verleend.
+
+F. Voorbeeld
 
 Een juridische afdeling van een bank is intensief betrokken bij de vormgeving van een bankproduct dat een ander groepslichaam aan wil bieden. De activiteit van de juridische afdeling is een activiteit die meer dan marginaal waarde toevoegt aan de primaire bedrijfsprocessen van de groep.
 
-**Conclusie:** Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast, omdat sprake is van een activiteit die meer dan marginaal waarde toevoegt aan de groep.
+*Conclusie:* Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast, omdat sprake is van een activiteit die meer dan marginaal waarde toevoegt aan de groep.
+
+G. Voorbeeld
 
 Een helpdesk afdeling houdt zich enkel bezig met vragen van medewerkers van verschillende groepslichamen over de werking van het computersysteem, de gebruikte software en het verhelpen van kleine gebruikersproblemen. Belastingplichtige maakt op basis van de aard van de activiteiten, de relatieve omvang van de activiteiten binnen de groep en de toegevoegde waarde van de activiteiten aannemelijk dat er geen sprake is van een primair bedrijfsproces van de groep en dat de activiteiten niet meer dan marginaal waarde toevoegen aan de primaire bedrijfsprocessen van de groep.
 
-**Conclusie:** In dit geval kan worden volstaan met de doorbelasting van alle relevante daadwerkelijke kosten met een winstopslag van 5% (toepassing van de vereenvoudigde methode).
+*Conclusie:* In dit geval kan worden volstaan met de doorbelasting van alle relevante daadwerkelijke kosten met een winstopslag van 5% (toepassing van de vereenvoudigde methode).
+
+H. Voorbeeld
 
 Een groep exploiteert een internationale keten van hotels. Een afdeling houdt zich bezig met het aanleggen en onderhouden van een computerapplicatie binnen de groep, waarmee het boekingssysteem, de factureringen en het voorraadsysteem worden geautomatiseerd.
 
-**Conclusie:** De activiteiten van de afdeling behoren waarschijnlijk niet tot de primaire bedrijfsprocessen van de groep, maar voegen in ieder geval meer dan marginale waarde toe aan de primaire bedrijfsprocessen van de groep. Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast.
+*Conclusie:* De activiteiten van de afdeling behoren waarschijnlijk niet tot de primaire bedrijfsprocessen van de groep, maar voegen in ieder geval meer dan marginale waarde toe aan de primaire bedrijfsprocessen van de groep. Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast.
+
+I. Voorbeeld
 
 Een lichaam houdt zich bezig met het produceren van halffabricaten onder aansturing en voor risico van een ander groepslichaam (als ‘contract manufacturer’). Dergelijke productieactiviteiten behoren naar hun aard over het algemeen tot de primaire bedrijfsprocessen van de groep. Daarnaast maken deze activiteiten, tezamen met gelijksoortige of in het verlengde liggende activiteiten (zoals bijvoorbeeld de productieactiviteiten van de opdrachtgever) over het algemeen absoluut of relatief een relevant deel van de totale activiteiten van de groep uit.
 
-**Conclusie:** Dat de toegevoegde waarde van deze activiteit op zich marginaal kan zijn, is niet voldoende om de activiteit als ondersteunende activiteit aan te merken. Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast.
+*Conclusie:* Dat de toegevoegde waarde van deze activiteit op zich marginaal kan zijn, is niet voldoende om de activiteit als ondersteunende activiteit aan te merken. Ter zake van deze activiteit kan de vereenvoudigde methode niet worden toegepast.
 
 ### 6.4. Contract research en contract manufacturing
 
 In een situatie waarin groepslichamen A en B contractueel vastleggen dat A voor rekening en risico van B immateriële vaste activa ontwikkelt (‘contract research’) of producten produceert (‘contract manufacturing’), zou een beloning voor B gerelateerd aan de kosten als at arm’s-length kunnen worden aangemerkt.
 
-Voor de verrekenprijsanalyse dient de transactie echter eerst gekarakteriseerd te worden volgens de uitgangspunten zoals in par. 2 van dit besluit beschreven. Een beloning gerelateerd aan de kosten is at arm’s-length indien de uitvoering van de contract research- of contract manufacturing-activiteiten door A plaatsvindt en indien B de research- of manufacturing-activiteiten aanstuurt, de kosten en risico’s draagt en de economische eigenaar wordt van de ontwikkelde activa of geproduceerde producten. B moet daarbij control uitoefenen over de gelopen risico’s en de financial capacity hebben om de gevolgen van de gelopen risico’s te kunnen dragen (zie voor deze begrippen par. 2.1 van dit besluit). De analyse hiervan dient in ieder geval te worden gebaseerd op de specifieke feiten en omstandigheden.
+Voor de verrekenprijsanalyse dient de transactie echter eerst gekarakteriseerd te worden volgens de uitgangspunten zoals in [par. 2](https://wetten.overheid.nl/BWBR0046839) van dit besluit beschreven. Een beloning gerelateerd aan de kosten is at arm’s-length indien de uitvoering van de contract research- of contract manufacturing-activiteiten door A plaatsvindt en indien B de research- of manufacturing-activiteiten aanstuurt, de kosten en risico’s draagt en de economische eigenaar wordt van de ontwikkelde activa of geproduceerde producten. B moet daarbij control uitoefenen over de gelopen risico’s en de financial capacity hebben om de gevolgen van de gelopen risico’s te kunnen dragen (zie voor deze begrippen [par. 2.1](https://wetten.overheid.nl/BWBR0046839) van dit besluit). De analyse hiervan dient in ieder geval te worden gebaseerd op de specifieke feiten en omstandigheden.
 
 Voor een antwoord op de vraag wie de research-activiteiten aanstuurt en control uitoefent over de daarbij gelopen risico’s, spelen de volgende elementen een rol: de besluitvorming, de planning, de budgettering, het meten van prestaties, het belonen, het aanpassen/herdefiniëren van werkterreinen, het vaststellen van de commercieel waardevolle gebieden en het beoordelen van de kans op (on)succesvolle research.
 
 ### 6.4.1. Voorbeelden
+
+J. Voorbeeld
 
 Een groep heeft zijn hoofdkantoor in land X. De groep houdt zich bezig met de productie en verkoop van consumentenproducten. Teneinde de marktpositie te behouden en waar mogelijk te verbeteren vindt continu onderzoek plaats naar de mogelijke verbetering van bestaande producten en naar de ontwikkeling van nieuwe producten. Hiertoe heeft de groep een tweetal R&D-centra die zijn ondergebracht in een afzonderlijk lichaam, gevestigd in respectievelijk land X (R&D X, als onderdeel van het hoofdkantoor) en in Nederland (R&D NL).
 
@@ -397,7 +477,9 @@ Niet alle onderzoeksactiviteiten leiden tot succes. In de contractuele voorwaard
 
 R&D X betaalt aan R&D NL een vergoeding gerelateerd aan de kosten die is berekend op basis van de TNMM met de verhouding operationele winst/kosten als profit level indicator.
 
-**Conclusie:** De functies van R&D NL zijn beperkt tot de uitvoering van de R&D-activiteiten. Deze worden uitgevoerd in opdracht en onder aansturing (daaronder begrepen control en besluitvorming) van R&D X. De risico’s die samenhangen met de R&D-activiteiten komen voor rekening van R&D X. R&D X oefent de benodigde control uit over de risico’s en heeft de financial capacity om de voor haar rekening komende gevolgen van de risico’s te dragen. De activiteiten van R&D NL zijn terecht als contract research aangemerkt. Het toepassen van een beloning gerelateerd aan de kosten is in dit geval passend.
+*Conclusie:* De functies van R&D NL zijn beperkt tot de uitvoering van de R&D-activiteiten. Deze worden uitgevoerd in opdracht en onder aansturing (daaronder begrepen control en besluitvorming) van R&D X. De risico’s die samenhangen met de R&D-activiteiten komen voor rekening van R&D X. R&D X oefent de benodigde control uit over de risico’s en heeft de financial capacity om de voor haar rekening komende gevolgen van de risico’s te dragen. De activiteiten van R&D NL zijn terecht als contract research aangemerkt. Het toepassen van een beloning gerelateerd aan de kosten is in dit geval passend.
+
+K. Voorbeeld
 
 Een groep heeft zijn hoofdkantoor in land X. De groep houdt zich bezig met de productie en verkoop van consumentenproducten. Teneinde de marktpositie te behouden en waar mogelijk te verbeteren vindt continu onderzoek plaats naar de mogelijke verbetering van bestaande producten en naar de ontwikkeling van nieuwe producten.
 
@@ -407,7 +489,7 @@ Niet al deze onderzoeksactiviteiten leiden tot succes. In de contractuele voorwa
 
 Y betaalt aan R&D NL een vergoeding die is berekend op basis van de door R&D NL gemaakte kosten met een winstopslag.
 
-**Conclusie:** De functies van R&D NL behelzen de gehele R&D-activiteit, van de besluitvorming over welk onderzoek wordt verricht tot de uitvoering zelf. R&D NL stuurt derhalve zelfstandig de R&D-activiteiten aan. In de contractuele voorwaarden is bepaald dat de risico’s die samenhangen met deze R&D-activiteit voor rekening van Y komen. Y heeft echter niet de benodigde expertise om control uit te oefenen over het voor haar rekening komende risico. Feitelijk wordt de control uitgeoefend door R&D NL, zodat het risico ook aan R&D NL dient te worden toegerekend. Er is derhalve op basis van de feitelijke situatie geen sprake van een contract research activiteit die wordt uitgevoerd door R&D NL, met als gevolg dat de berekening van een beloning op basis van de gemaakte kosten met een winstopslag voor R&D NL in deze situatie niet tot een arm’s-length beloning leidt.
+*Conclusie:* De functies van R&D NL behelzen de gehele R&D-activiteit, van de besluitvorming over welk onderzoek wordt verricht tot de uitvoering zelf. R&D NL stuurt derhalve zelfstandig de R&D-activiteiten aan. In de contractuele voorwaarden is bepaald dat de risico’s die samenhangen met deze R&D-activiteit voor rekening van Y komen. Y heeft echter niet de benodigde expertise om control uit te oefenen over het voor haar rekening komende risico. Feitelijk wordt de control uitgeoefend door R&D NL, zodat het risico ook aan R&D NL dient te worden toegerekend. Er is derhalve op basis van de feitelijke situatie geen sprake van een contract research activiteit die wordt uitgevoerd door R&D NL, met als gevolg dat de berekening van een beloning op basis van de gemaakte kosten met een winstopslag voor R&D NL in deze situatie niet tot een arm’s-length beloning leidt.
 
 ### 7. Bijdragen aan een ‘cost contribution arrangement’ (CCA) (hoofdstuk VIII)
 
@@ -427,13 +509,17 @@ Hierna volgen enkele voorbeelden van CCA’s met betrekking tot R&D-activiteiten
 
 ### 7.2. Voorbeelden
 
+L. Voorbeeld
+
 In groepslichaam A, respectievelijk groepslichaam B is het hoofdkantoor van continent A, respectievelijk het hoofdkantoor van continent B ondergebracht. Beide houden zich bezig met de productie en verkoop van producten. Beide hebben een R&D-centrum. De groep besluit onderzoek te gaan doen naar de ontwikkeling van een nieuw product. De marktvooruitzichten voor het product zijn goed, maar er dient belangrijk onderzoek plaats te vinden voordat het product klaar is voor productie en verkoop. Het product heeft potentie voor de markt in continent A en B.
 
 A en B sluiten een CCA voor het verrichten van het noodzakelijke onderzoek. A stelt de onderzoekscapaciteit en de eerste ontwikkelingsresultaten ter beschikking en B stelt kennis, know how en onderzoekers ter beschikking. A en B komen een aantal momenten overeen waarop ze gezamenlijk beslissen over de volgende fase van het project. De verhouding tussen de marktwaarde van de bijdrage van A en die van B bedraagt 1:1. De totale verwachte waarde van het ontwikkelresultaat van het product is in continent A even groot als in continent B.
 
 A en B komen overeen dat ieder van de deelnemers de kosten van de eigen bijdrage draagt. Daarnaast is bepaald dat A zowel juridisch als economisch eigenaar van het ontwikkelresultaat wordt voor zover het continent A betreft en dat B juridisch en economisch eigenaar wordt van het ontwikkelresultaat voor zover het continent B betreft. De strategische projectplanning en aansturing (inclusief controle en besluitvorming van het project) vindt op een gelijkwaardige wijze plaats.
 
-**Conclusie**: Zowel A als B kan als deelnemer in de CCA worden aangemerkt, omdat beide deelnemers tegenover hun bijdrage een deel van het recht verkrijgen dat wordt ontwikkeld. Dit recht kunnen zij bovendien zelfstandig exploiteren/gebruiken. Ten slotte stemt het relatieve aandeel van beide deelnemers in de bijdragen overeen met het relatieve aandeel in de totale verwachte voordelen (dat wil zeggen, het recht dat de deelnemers verkrijgen). De voorwaarden van de CCA leiden dus tot een arm’s-length resultaat.
+*Conclusie*: Zowel A als B kan als deelnemer in de CCA worden aangemerkt, omdat beide deelnemers tegenover hun bijdrage een deel van het recht verkrijgen dat wordt ontwikkeld. Dit recht kunnen zij bovendien zelfstandig exploiteren/gebruiken. Ten slotte stemt het relatieve aandeel van beide deelnemers in de bijdragen overeen met het relatieve aandeel in de totale verwachte voordelen (dat wil zeggen, het recht dat de deelnemers verkrijgen). De voorwaarden van de CCA leiden dus tot een arm’s-length resultaat.
+
+M. Voorbeeld
 
 Groepslichaam A houdt zich bezig met de ontwikkeling, productie en verkoop van consumentenproducten in continent A. A heeft initieel onderzoek verricht naar de haalbaarheid van de ontwikkeling van een nieuw product. De conclusie is dat het product waarschijnlijk succesvol ontwikkeld kan worden. De marktvooruitzichten voor het product zijn goed.
 
@@ -441,9 +527,19 @@ Het product is ook zeer geschikt voor de markt in continent B en C. Groepslicham
 
 Teneinde tot een succesvolle ontwikkeling te komen, worden de volgende afspraken gemaakt:
 
+- – Gelijkwaardige bijdrage door allen: het opstellen van een onderzoekprogramma en de besluitvorming per in het onderzoekprogramma geïdentificeerde voortgangsfase van het project (strategische projectplanning en aansturing, inclusief controle en besluitvorming, van het project).
+
+- – Bijdrage door A: resultaten van het initiële onderzoek. Kosten die gemaakt zijn voor de ontwikkeling: EUR 1 miljoen. WEV van het onderzoeksresultaat: EUR 2 miljoen.
+
+- – Bijdrage door B: ontwikkelcapaciteit (personeel + vaste activa). De kosten die naar verwachting verband houden met deze ontwikkelcapaciteit zijn EUR 1,8 miljoen. Als deze ontwikkelcapaciteit op contract research basis van derden zou moeten worden ingehuurd, zou hiervoor EUR 2 miljoen moeten worden betaald (= WEV).
+
+- – Bijdrage door C: liquide middelen ten bedrage van EUR 2 miljoen voor de verwachte additionele kosten (inkoop materialen van derden en inhuur van derden).
+
 De deelnemers komen overeen dat ieder van de deelnemers de kosten van de eigen bijdrage draagt. De totale verwachte waarde van het ontwikkelresultaat in de continenten A, B respectievelijk C is naar verwachting gelijk, zodat de waarde van het te ontwikkelen recht naar verwachting voor al de continenten gelijk is. De groepslichamen komen overeen dat A, B en C juridisch en economisch eigenaar worden van het ontwikkelresultaat voor zover het continent A, B respectievelijk C betreft.
 
-**Conclusie**: Zowel A, B als C kunnen als deelnemer in de CCA worden aangemerkt, omdat de deelnemers tegenover hun bijdrage een deel van het recht verkrijgen dat wordt ontwikkeld. Dit recht kunnen zij bovendien zelfstandig exploiteren/gebruiken. Ten slotte stemt het relatieve aandeel van de deelnemers in de bijdragen overeen met het relatieve aandeel in de totale verwachte voordelen (d.w.z. het recht dat de deelnemers verkrijgen). De voorwaarden van de CCA leiden dus tot een arm’s-length resultaat.
+*Conclusie*: Zowel A, B als C kunnen als deelnemer in de CCA worden aangemerkt, omdat de deelnemers tegenover hun bijdrage een deel van het recht verkrijgen dat wordt ontwikkeld. Dit recht kunnen zij bovendien zelfstandig exploiteren/gebruiken. Ten slotte stemt het relatieve aandeel van de deelnemers in de bijdragen overeen met het relatieve aandeel in de totale verwachte voordelen (d.w.z. het recht dat de deelnemers verkrijgen). De voorwaarden van de CCA leiden dus tot een arm’s-length resultaat.
+
+N. Voorbeeld
 
 Groepslichaam A, groepslichaam B en groepslichaam C houden zich bezig met de productie en verkoop van soortgelijke consumentenproducten in continent A, continent B en continent C. A heeft een R&D-centrum. B en C hebben een aantal productdeskundigen in dienst die tevens kennis hebben van de ontwikkeling van producten, maar hebben geen eigen R&D-centrum.
 
@@ -451,21 +547,43 @@ A heeft een initieel onderzoek verricht naar de ontwikkeling van een nieuw produ
 
 A, B en C sluiten een CCA onder de volgende voorwaarden:
 
-**Conclusie**: A is op basis van de OESO-richtlijnen geen deelnemer die onder arm’s-length voorwaarden participeert in de CCA, omdat A zelf geen voordeel kan ontlenen aan het ontwikkelresultaat. A verkoopt feitelijk het initiële ontwikkelresultaat aan B en C in combinatie met het verrichten van contract researchactiviteiten voor B en C.
+- – B en C stellen gezamenlijk en met een gelijke bijdrage een onderzoekprogramma op ten behoeve van de (door)ontwikkeling van het product. Daarnaast stellen zij gelijke capaciteit ter beschikking ten aanzien van de aansturing van het project (strategische projectplanning en aansturing, inclusief controle en besluitvorming, van het project).
+
+- – Bijdrage door A: resultaten van het initiële onderzoek. Kosten die gemaakt zijn voor de ontwikkeling: EUR 1 miljoen. WEV van het onderzoeksresultaat: EUR 2 miljoen.
+
+- – Bijdrage door A: ontwikkelcapaciteit (personeel + vaste activa): de R&D-afdeling van A werkt het projectplan uit en legt de uitwerking voor aan B en C. Vervolgens neemt de R&D-afdeling van A de uitvoering van het onderzoek ter hand. Hierbij legt de R&D-afdeling van A regelmatig verantwoording af aan B en C ten aanzien van de gang van zaken. De kosten die naar verwachting verband houden met deze ontwikkelcapaciteit zijn EUR 1,8 miljoen. WEV van de ontwikkelcapaciteit als in opdracht wordt gewerkt: EUR 2 miljoen.
+
+- – Bijdrage door B en C: ieder een betaling aan A ten bedrage van EUR 2 miljoen als vergoeding voor de bijdrage van A. Daarnaast draagt ieder de helft van de additionele kosten betaald aan derden (inkoop materialen, inhuur derden) ten bedrage van EUR 2 miljoen.
+
+- – De deelnemers dragen ieder de kosten van de eigen bijdrage.
+
+- – B en C verkrijgen de juridisch en economische eigendom van het ontwikkelresultaat voor continent B respectievelijk continent C.
+
+*Conclusie*: A is op basis van de OESO-richtlijnen geen deelnemer die onder arm’s-length voorwaarden participeert in de CCA, omdat A zelf geen voordeel kan ontlenen aan het ontwikkelresultaat. A verkoopt feitelijk het initiële ontwikkelresultaat aan B en C in combinatie met het verrichten van contract researchactiviteiten voor B en C.
 
 B en C kunnen beide wel als deelnemers in de CCA worden aangemerkt, omdat voor hen geldt dat zij tegenover hun bijdragen (geld en aansturing) een deel van het recht verkrijgen dat wordt ontwikkeld, welk recht zij bovendien zelfstandig kunnen exploiteren/gebruiken. A stelt ontwikkelcapaciteit en het initiële ontwikkelresultaat ter beschikking met een WEV van in totaal EUR 4 miljoen en ontvangt als tegenprestatie een bedrag aan geld van EUR 4 miljoen. Een dergelijke beloning is arm’s-length.
 
 De bijdrage van beide deelnemers in de CCA (B en C) en het te verwachten voordeel (het recht dat zij verkrijgen) stemmen met elkaar overeen. Hoewel het contract voor A derhalve niet als een CCA kan worden aangemerkt, is de beloning die uit de voorwaarden van het contract volgt voor alle deelnemers als arm’s-length aan te merken.
 
+O. Voorbeeld
+
 Groepslichaam A houdt zich bezig met de ontwikkeling, productie en verkoop van consumentenproducten. Groepslichaam B heeft een beperkt aantal personen in dienst met een financiële en een administratieve achtergrond. A heeft een initieel onderzoek verricht naar de ontwikkeling van een nieuw product. De marktvooruitzichten voor het product zijn goed voor continent A en continent B, maar er dient aanvullend onderzoek plaats te vinden voordat het product klaar is voor productie en verkoop. De totale verwachte waarde van het ontwikkelresultaat voor de continenten A en B is naar verwachting gelijk.
 
 A en B sluiten een CCA onder de volgende voorwaarden:
+
+- – Bijdrage door A: initiële ontwikkelingsresultaten en ontwikkelcapaciteit. Totale kosten die hiermee zijn gemoeid: EUR 5 miljoen. Totale WEV: EUR 10 miljoen.
+
+- – B betaalt aan A EUR 5 miljoen en 50% van de kosten voor zover deze de geprognosticeerde kosten van EUR 5 miljoen overschrijden.
+
+- – A respectievelijk B worden economisch eigenaar van het ontwikkelresultaat voor zover het continent A, respectievelijk continent B betreft.
+
+- – A wordt juridisch eigenaar.
 
 In de contractuele voorwaarden is bepaald dat de risico’s die samenhangen met deze R&D-activiteit voor 50% voor rekening van B komen (B betaalt EUR 5 miljoen en 50% van de kosten voor zover deze de geprognosticeerde kosten overschrijden en wordt economisch eigenaar van het ontwikkelde recht).
 
 Uit een analyse van functies, gebruikte activa en gelopen risico’s blijkt dat de functies van A de gehele R&D-activiteit behelzen, van de besluitvorming over welk onderzoek wordt verricht tot de uitvoering zelf. A stuurt daarbij geheel zelfstandig de R&D-activiteit aan. B is, gelet op de door haar uitgeoefende functies, niet in staat om control uit te oefenen over de relevante risico’s in relatie tot de R&D-activiteit. De functie van B is slechts beperkt tot de financiering van de R&D-activiteit en het uitoefenen van control over de met die financiering gepaard gaande risico’s.
 
-**Conclusie**: Feitelijk wordt control over het gehele risico dat samenhangt met de R&D-activiteit uitgeoefend door A. Daarnaast beschikt A over de financiële capaciteit om deze risico’s te dragen. Het gehele risico dat samenhangt met de R&D-activiteiten dient dan ook te worden toegerekend aan A. De beloning die A ontvangt moet in lijn zijn met de door A uitgeoefende functies en de daarbij behorende risico’s. Op basis van de overeenkomst tussen A en B deelt B echter de positieve en negatieve consequenties van het door A beheerste risico met A. De voorwaarden van het tussen A en B gesloten contract zijn daarmee niet arm’s-length.
+*Conclusie*: Feitelijk wordt control over het gehele risico dat samenhangt met de R&D-activiteit uitgeoefend door A. Daarnaast beschikt A over de financiële capaciteit om deze risico’s te dragen. Het gehele risico dat samenhangt met de R&D-activiteiten dient dan ook te worden toegerekend aan A. De beloning die A ontvangt moet in lijn zijn met de door A uitgeoefende functies en de daarbij behorende risico’s. Op basis van de overeenkomst tussen A en B deelt B echter de positieve en negatieve consequenties van het door A beheerste risico met A. De voorwaarden van het tussen A en B gesloten contract zijn daarmee niet arm’s-length.
 
 De beloning van B, die geen control uitoefent over enig specifiek risico met betrekking tot de R&D-activiteit, dient slechts te bestaan uit een arm’s-length vergoeding voor de financiering van de R&D-activiteiten van A, waarbij rekening gehouden wordt met het financieringsrisico (zie par. 6.61 waarin gesproken wordt over een ‘risk-adjusted return’). Indien en voor zover B geen control uitoefent over de risico’s in relatie tot deze financiering, kan B hooguit recht hebben op een risicoloos rendement (zie par. 1.103).
 
@@ -477,6 +595,14 @@ De activiteiten welke samenhangen met inkoop kunnen variëren van het uitoefenen
 
 In het geval dat de inkoopactiviteiten een routinematig karakter hebben, zullen er weinig risico’s worden gelopen. Dergelijke activiteiten omvatten onder andere:
 
+- – de selectie van potentiële toeleveranciers;
+
+- – de (lokale) afstemming met toeleveranciers;
+
+- – de kwaliteitscontrole op de inkopen; en
+
+- – het verzorgen van transport en andere logistieke activiteiten.
+
 In de praktijk blijkt dat bij dergelijke activiteiten niet of nauwelijks prijs- of voorraadrisico’s worden gelopen.
 
 Het komt voor dat de activiteiten meer complexe kenmerken hebben en dat ook sprake is van bijvoorbeeld het samenstellen van het productassortiment (wat als een afzonderlijke functie dient te worden beschouwd).
@@ -487,7 +613,7 @@ Van lokale ongelieerde inkoopagenten is bekend dat zij met name ondersteunende a
 
 Bij het zoeken naar betrouwbare comparables blijkt het in de praktijk moeilijk om de vergelijking op basis van een percentage van de inkoopwaarde uit te voeren. Daarom zal de Belastingdienst in dergelijke situaties doorgaans de TNMM (waarbij de netto operationele winst gerelateerd wordt aan de kosten) als toets hanteren om het arm’s-length karakter van de beloning te beoordelen. Daarbij blijft in principe de kostengrondslag, gezien het routinematige karakter van de inkoopactiviteiten, beperkt tot de eigen operationele kosten van het inkoopkantoor. De kostprijs van de inkopen maakt daar geen deel van uit.
 
-Indien de groep door het centraliseren van de inkoopactiviteiten als gevolg van het toegenomen inkoopvolume hogere kortingen dan voorheen weet te realiseren, is dit extra voordeel in principe niet toe te rekenen aan het (gecentraliseerde) inkoopkantoor. Een dergelijk voordeel dient toegerekend te worden aan de onderdelen van de groep die door hun gezamenlijke inkoopvolumes het inkoopkantoor in staat stellen dergelijke (extra) kortingen te realiseren. Slechts indien en voor zover (extra) kortingen worden gerealiseerd door de specifieke kennis en vaardigheden van het inkoopkantoor, is het at arm’s-length om een deel hiervan toe te rekenen aan het inkoopkantoor.22Hoge Raad 23 april 2004, nr. 39 542, ECLI:NL:HR:2004:AO9474.
+Indien de groep door het centraliseren van de inkoopactiviteiten als gevolg van het toegenomen inkoopvolume hogere kortingen dan voorheen weet te realiseren, is dit extra voordeel in principe niet toe te rekenen aan het (gecentraliseerde) inkoopkantoor. Een dergelijk voordeel dient toegerekend te worden aan de onderdelen van de groep die door hun gezamenlijke inkoopvolumes het inkoopkantoor in staat stellen dergelijke (extra) kortingen te realiseren. Slechts indien en voor zover (extra) kortingen worden gerealiseerd door de specifieke kennis en vaardigheden van het inkoopkantoor, is het at arm’s-length om een deel hiervan toe te rekenen aan het inkoopkantoor.22Hoge Raad 23 april 2004, nr. 39 542, ECLI:NL:HR:2004:AO9474.
 
 ### 9. Financiële transacties
 
@@ -495,13 +621,13 @@ Indien de groep door het centraliseren van de inkoopactiviteiten als gevolg van 
 
 ### 9.1.1. Karakterisering van de transactie
 
-Op basis van de OESO-richtlijnen begint de arm’s-length toets voor intra-group leningen bij de karakterisering van die transacties (zie ook par. 2.1 van dit besluit). De beoordeling van de vraag of een transactie die door partijen wordt gepresenteerd als een lening ook feitelijk als een lening moet worden gekarakteriseerd maakt onderdeel uit van het in hoofdstuk I beschreven karakteriseringsproces (zie onderdeel B van hoofdstuk X en specifiek par. 10.4 tot en met 10.18).
+Op basis van de OESO-richtlijnen begint de arm’s-length toets voor intra-group leningen bij de karakterisering van die transacties (zie ook [par. 2.1](https://wetten.overheid.nl/BWBR0046839) van dit besluit). De beoordeling van de vraag of een transactie die door partijen wordt gepresenteerd als een lening ook feitelijk als een lening moet worden gekarakteriseerd maakt onderdeel uit van het in hoofdstuk I beschreven karakteriseringsproces (zie onderdeel B van hoofdstuk X en specifiek par. 10.4 tot en met 10.18).
 
 Ook bij intra-group leningen kan het gebrek aan control en/of financial capacity bij een partij in relatie tot bepaalde risico’s ertoe leiden dat de betreffende risico’s, en de daarmee gepaard gaande vergoeding, gealloceerd dienen te worden aan de partij die wél de control over die risico’s uitoefent en over voldoende financial capacity beschikt.
 
 Indien een financiële transactie als lening is gekarakteriseerd dienen de gehanteerde voorwaarden te worden getoetst aan het arm’s-lengthbeginsel. Daarbij gaat het ook bij een intra-group lening om het toetsen van alle voorwaarden, waaronder de prijs. Het eindresultaat van deze toets dient in principe een prijs (rentelast/rentebate) te zijn die voldoet aan de criteria van [artikel 8b Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b).
 
-Als de transactie met een aanpassing van de prijs en/of de andere voorwaarden niet arm’s-length te maken is, kan dit in extreme gevallen leiden tot het negeren of herkwalificeren van (een deel van) de lening (zie par. 1.142 van de OESO-richtlijnen en par. 2 van dit besluit). Met inachtneming van het voorgaande kan vervolgens een arm’s-length rentebate/rentelast voor de resterende lening worden bepaald.
+Als de transactie met een aanpassing van de prijs en/of de andere voorwaarden niet arm’s-length te maken is, kan dit in extreme gevallen leiden tot het negeren of herkwalificeren van (een deel van) de lening (zie par. 1.142 van de OESO-richtlijnen en [par. 2](https://wetten.overheid.nl/BWBR0046839) van dit besluit). Met inachtneming van het voorgaande kan vervolgens een arm’s-length rentebate/rentelast voor de resterende lening worden bepaald.
 
 ### 9.1.2. Het tweezijdig perspectief
 
@@ -533,17 +659,17 @@ De OESO-richtlijnen beschrijven een aantal methoden ter bepaling van de arm’s-
 
 Naast de CUP-methode wordt in de OESO-richtlijnen ook de ‘cost of funds approach’ beschreven. Dit is een methode waarbij de kosten die de uitlener moet maken om het uitgeleende geld zelf in te lenen worden verhoogd met een dekking voor kosten, een risicopremie en een vergoeding voor het benodigde eigen vermogen.
 
-In dit kader is er in de OESO-richtlijnen specifieke aandacht voor gevallen waarin van ongelieerde partijen wordt ingeleend en het ingeleende bedrag uiteindelijk via een of meerdere lichamen binnen de groep bij de uiteindelijke gelieerde inlener terecht komt. Indien dergelijke lichamen slechts een functie als tussenpersoon (‘agent’ of ‘intermediary function’) uitoefenen, hebben deze slechts recht op een beloning die bestaat uit een opslag op de kosten van hun eigen functie (zie hiervoor ook par. 7.34). In par. 9.2 van dit besluit inzake dienstverleningslichamen wordt hier nader op ingegaan.
+In dit kader is er in de OESO-richtlijnen specifieke aandacht voor gevallen waarin van ongelieerde partijen wordt ingeleend en het ingeleende bedrag uiteindelijk via een of meerdere lichamen binnen de groep bij de uiteindelijke gelieerde inlener terecht komt. Indien dergelijke lichamen slechts een functie als tussenpersoon (‘agent’ of ‘intermediary function’) uitoefenen, hebben deze slechts recht op een beloning die bestaat uit een opslag op de kosten van hun eigen functie (zie hiervoor ook par. 7.34). In [par. 9.2](https://wetten.overheid.nl/BWBR0046839) van dit besluit inzake dienstverleningslichamen wordt hier nader op ingegaan.
 
 Een in het kader van een lening in rekening gebrachte rente wordt in de OESO-richtlijnen aangeduid als een ‘risk-adjusted rate of return’. Deze bestaat uit de ‘risk-free rate of return’ en een premie als beloning voor het at arm’s-length aan de financier gealloceerde risico. Voor het bepalen van de risk-adjusted rate of return zijn par. 1.137 t/m 1.146 relevant.
 
 Par. 1.103 bepaalt dat de partij die niet in control is ten aanzien van de risico’s die gepaard gaan met het investeren in een financieel actief, slechts recht heeft op een risk-free rate of return. De risk-free rate of return wordt omschreven als het rendement op een investering waarvan het risico op tenietgaan nihil is. In de richtlijnen wordt erkend dat een dergelijke investering niet voorkomt. Daarom wordt, op basis van de bestaande praktijk, voor de bepaling van de risk-free rate of return doorgaans aangesloten bij de rente op daarvoor in aanmerking komende staatsobligaties (zie par. 1.128 t/m 1.136).
 
-Hoewel de beloning voor de financier beperkt kan zijn tot een risk-free rate of return, heeft de inlener wél recht op aftrek van de arm’s-length rente. Het verschil tussen de arm’s-length rente en de risk-free rate of return (de risicopremie), komt toe aan de partij die in control is ten aanzien van de risico’s die gepaard gaan met de investering in het financieel actief. Uitgangspunt is hierbij wel dat de totale rentebate wordt betrokken in een naar de winst geheven belasting. Hierbij is de in par. 1.5 van dit besluit genoemde mogelijkheid voor de Belastingdienst om af te wijken van de uitleg in dit besluit ook relevant.
+Hoewel de beloning voor de financier beperkt kan zijn tot een risk-free rate of return, heeft de inlener wél recht op aftrek van de arm’s-length rente. Het verschil tussen de arm’s-length rente en de risk-free rate of return (de risicopremie), komt toe aan de partij die in control is ten aanzien van de risico’s die gepaard gaan met de investering in het financieel actief. Uitgangspunt is hierbij wel dat de totale rentebate wordt betrokken in een naar de winst geheven belasting. Hierbij is de in [par. 1.5](https://wetten.overheid.nl/BWBR0046839) van dit besluit genoemde mogelijkheid voor de Belastingdienst om af te wijken van de uitleg in dit besluit ook relevant.
 
 ### 9.1.6. Nederlandse jurisprudentie
 
-De Hoge Raad oordeelde over de vraag of in binnenlandse verhoudingen een gelieerde geldlening afgewaardeerd kon worden.26Hoge Raad van 25 november 2011, nr. 08/05323, ECLI:NL:PHR:2011:BN3442. De Hoge Raad heeft hierbij bepaald dat, als bij een geldlening tussen gelieerde partijen de rente niet in overeenstemming met het arm’s-lengthbeginsel is vastgesteld, voor de fiscale winstberekening moet worden uitgegaan van een rente die wel aan dit beginsel voldoet.
+De Hoge Raad oordeelde over de vraag of in binnenlandse verhoudingen een gelieerde geldlening afgewaardeerd kon worden.26Hoge Raad van 25 november 2011, nr. 08/05323, ECLI:NL:PHR:2011:BN3442. De Hoge Raad heeft hierbij bepaald dat, als bij een geldlening tussen gelieerde partijen de rente niet in overeenstemming met het arm’s-lengthbeginsel is vastgesteld, voor de fiscale winstberekening moet worden uitgegaan van een rente die wel aan dit beginsel voldoet.
 
 Ik ben van mening dat voor de bepaling van die rente als uitgangspunt dient te worden genomen hetgeen hiervoor is beschreven over de vaststelling van de arm’s-length rente.
 
@@ -551,9 +677,17 @@ Indien de hiervoor door de Hoge Raad beschreven aanpassing van de rente ertoe le
 
 Vervolgens dient voor de onzakelijke geldlening de fiscaal in aanmerking te nemen rente vastgesteld te worden. De Hoge Raad hanteert daartoe een tweetal voorschriften:
 
+- (i) de vuistregel27HR 25 november 2011, nr. 08/05323, HR 25 november 2011, nr. 08/05323.
+
+- (ii) de WEV-regel28HR 15 maart 2013, nr. 11/02248, ECLI:NL:HR:2013:BW6552.
+
 De laagste geldt als de fiscaal in aanmerking te nemen rente.
 
+Ad i de vuistregel
+
 De rente op de onzakelijke lening wordt gesteld op de rente die het inlenende groepslichaam zou moeten vergoeden indien zij met een borgstelling van het uitlenende groepslichaam onder overigens gelijke voorwaarden en omstandigheden van een derde zou lenen. De aldus bepaalde rente is aftrekbaar bij het inlenende groepslichaam en belast bij het uitlenende groepslichaam. Het verschil tussen de daadwerkelijk in rekening gebrachte rente en de op basis van de kredietwaardigheid van het uitlenende groepslichaam bepaalde rente bevindt zich in de kapitaalsfeer.
+
+Ad ii de WEV-regel
 
 De toepassing van de WEV-regel is met name aan de orde als de onzakelijke lening renteloos is dan wel de overeengekomen rente schuldig wordt gebleven. De fiscaal in aanmerking te nemen rente wordt dan bepaald op de waarde in het economische verkeer van elke rentetermijn, op het moment waarop deze vervalt.
 
@@ -577,13 +711,25 @@ In de gevallen waarin de DVL onvoldoende control en/of financial capacity heeft,
 
 In dit besluit wordt voor de beoordeling van het verrekenprijssysteem van een DVL onderscheid gemaakt in drie verschillende situaties:
 
+- (i) De DVL heeft de volledige control over de kredietrisico’s en heeft de daarvoor benodigde financial capacity;
+
+- (ii) De DVL heeft geen control over de kredietrisico’s en/of onvoldoende financial capacity; en
+
+- (iii) De DVL heeft gedeelde control over de kredietrisico’s en heeft de daarvoor benodigde financial capacity.
+
+Ad i De DVL heeft de volledige control over de kredietrisico’s en heeft de daarvoor benodigde financial capacity
+
 Nadat is vastgesteld dat de DVL volledige control uitoefent over de kredietrisico’s, dient beoordeeld te worden of de DVL voldoende financial capacity heeft om de gevolgen van de gelopen risico’s te kunnen dragen. Daarbij moet rekening worden gehouden met de vraag of en in hoeverre de DVL zelfstandig (zonder garanties van gelieerde lichamen) in staat zou zijn om vreemd vermogen van een ongelieerde partij aan te trekken (par. 1.64). Op basis van par. 10.161 dient een financiering die alleen onder garantsteling van een gelieerd lichaam door de DVL kan worden aangetrokken te worden aangemerkt als een kapitaalstorting in de DVL. Een dergelijke kwalificatie als eigen vermogen leidt op grond van par. 1.64 echter niet tot vergroting van de financial capacity van de DVL.30In par. 10.161 wordt gesteld dat indien en voor zover lichamen niet zonder garantie van een gelieerd lichaam kunnen lenen, deze leningen moeten worden gezien als leningen aan de garantiegever die het geld daarna als eigen vermogen (al dan niet via de moeder) stort in de DVL.
 
 De jurisprudentie van de Hoge Raad hanteert andere specifieke criteria voor de kwalificatie van een lening als eigen vermogen. Hier is mogelijk sprake van een spanningsveld tussen de OESO-richtlijnen en de Nederlandse jurisprudentie. Indien een belastingplichtige zekerheid vooraf vraagt over de toepassing van het arm’s-lengthbeginsel, zullen de OESO-richtlijnen als uitgangspunt worden genomen. De reden hiervan is gelegen in het feit dat unilateraal gegeven zekerheid vooraf ook internationaal verdedigbaar moet zijn.
 
 Indien de DVL volledige control en de benodigde financial capacity heeft, moet een passend rentepercentage worden bepaald op basis van een vergelijkbaarheidsstudie. Dit moet plaatsvinden per individuele inkomende en uitgaande gelieerde transactie en in samenhang met de totale financieringspositie van de DVL. Het gaat bij de vergelijkbaarheidsstudie om de vergelijkbaarheid van de voorwaarden van de gelieerde transactie met de voorwaarden van vergelijkbare ongelieerde transacties. Voor intercompany leningen zal de CUP-methode het meest logische aanknopingspunt vormen voor het vinden van een arm’s-length beloning per transactie.
 
+Ad ii De DVL heeft geen control over de kredietrisico’s en/of onvoldoende financial capacity
+
 Als de control over de kredietrisico’s niet bij de DVL ligt en/of de DVL onvoldoende financial capacity heeft om de kredietrisico’s te kunnen dragen, kunnen deze risico’s niet arm’s-length aan de DVL worden gealloceerd. Een beloning gerelateerd aan de omvang van de geldstromen is dan ook niet at arm’s-length. Bij het ontbreken van control over het kredietrisico en/of voldoende financial capacity om de kredietrisico’s te kunnen dragen, ligt een beloning gerelateerd aan de eigen operationele kosten van de DVL meer voor de hand.31De kostengrondslag wordt bepaald met inachtneming van par. 10.100. Mogelijk loopt de DVL namelijk wel een operationeel risico in relatie tot de uitvoering van de eigen activiteiten. Deze risico’s zijn doorgaans niet materieel in vergelijking tot de kredietrisico’s.
+
+Ad iii De DVL heeft gedeelde control over de kredietrisico’s en heeft de daarvoor benodigde financial capacity
 
 Als zowel de DVL als het hoofdkantoor (of een ander gelieerd lichaam) over de kredietrisico’s control-activiteiten uitoefenen zoals beschreven in par. 1.65 (dus niet alleen ‘wider policy setting’ zoals beschreven in par. 1.76), is sprake van gedeelde control. Er is in deze situatie sprake van control-activiteiten in zowel kwantitatieve als kwalitatieve zin. De DVL moet in beide opzichten een bepaalde omvang van de activiteiten uitoefenen voordat sprake is van voldoende control om (een deel van) de betreffende risico’s aan de DVL te alloceren.
 
@@ -601,19 +747,25 @@ Bij de vaststelling van de arm’s-length beloning dient rekening gehouden te wo
 
 Onderstaande voorbeelden gaan uit van de situatie waarbij BV X onderdeel uitmaakt van een internationaal opererende groep. BV X trekt financiering aan van ongelieerde partijen en verstrekt financiering aan gelieerde lichamen in het buitenland.32De financiering is niet afkomstig uit een laagbelastend land en er wordt geen financiering verstrekt aan een laagbelastend land. Eventuele toepassing van de 30% EBITDA-regeling is hier buiten beschouwing gelaten. Alle financiële stromen lopen over de boeken van BV X. De treasury-afdeling van de groep bestaat uit vijftig werknemers.
 
+P. Voorbeeld volledige control
+
 De volledige treasury-afdeling van de groep is in dienst bij BV X en werkzaam in Nederland. Deze treasury-afdeling oefent control uit over de kredietrisico’s en BV X heeft voldoende financial capacity om het kredietrisico te dragen.
 
-**Conclusie:** De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich in Nederland en BV X heeft voldoende financial capacity om de gevolgen van het kredietrisico te dragen. BV X draagt daarom het kredietrisico. Per transactie dient een passende beloning te worden bepaald. Dit kan bijvoorbeeld aan de hand van een CUP.
+*Conclusie:* De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich in Nederland en BV X heeft voldoende financial capacity om de gevolgen van het kredietrisico te dragen. BV X draagt daarom het kredietrisico. Per transactie dient een passende beloning te worden bepaald. Dit kan bijvoorbeeld aan de hand van een CUP.
+
+Q. Voorbeeld geen control
 
 Een veertigtal werknemers van de treasury-afdeling is in dienst bij BV X en werkzaam in Nederland. Deze werknemers houden zich met name bezig met ondersteunende en uitvoerende activiteiten. De overige tien werknemers (CFO of hoofd treasury33De aard van de activiteiten is hierbij meer doorslaggevend dan de functietitel. en de laag direct daaronder) zijn in dienst van een gelieerd lichaam in het buitenland en daar werkzaam.
 
-**Conclusie:** De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich niet in Nederland. De in Nederland aanwezige functionaliteit beperkt zich tot ondersteunende en uitvoerende activiteiten. Een beloning op basis van de kosten van de ondersteunende en uitvoerende activiteiten is passend (ongeacht de beantwoording van de vraag of BV X voldoende financial capacity heeft om de risico’s te dragen).
+*Conclusie:* De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich niet in Nederland. De in Nederland aanwezige functionaliteit beperkt zich tot ondersteunende en uitvoerende activiteiten. Een beloning op basis van de kosten van de ondersteunende en uitvoerende activiteiten is passend (ongeacht de beantwoording van de vraag of BV X voldoende financial capacity heeft om de risico’s te dragen).
 
 Een beloningsmethodiek waarbij de kosten en opbrengsten (rente) die gerelateerd zijn aan de leningen, deel uitmaken van de grondslag van de in Nederland belastbare winst, is niet passend.
 
+R. Voorbeeld gedeelde control
+
 Van de vijftig medewerkers van de treasury, zijn er 45 in dienst bij BV X en werkzaam in Nederland. Binnen deze groep houden veertig werknemers zich met name bezig met ondersteunende en uitvoerende activiteiten. De overige vijf werknemers zijn mede in control ten aanzien van de risico’s die gepaard gaan met het financieren van gelieerde lichamen. De resterende vijf werknemers van de treasury-afdeling zijn werkzaam in een ander gelieerd lichaam in het buitenland en zijn samen met de eerdergenoemde vijf werknemers in Nederland in control ten aanzien van de risico’s die gepaard gaan met het financieren van gelieerde lichamen. Beide lichamen oefenen control uit over de kredietrisico’s zoals beschreven in par. 1.65 (er is dus niet alleen sprake van wider policy setting) en hebben de financial capacity om de kredietrisico’s te dragen.
 
-**Conclusie:** De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich gedeeltelijk in Nederland en gedeeltelijk in het buitenland. Hier is een allocatie van de risico’s als gevolg van de aanwezigheid van de control-functies bij BV X en het gelieerde buitenlandse lichaam passend. Indien bij zo’n verdeling een risico daadwerkelijk tot uiting komt, dienen de gevolgen daarvan naar rato te worden gealloceerd tussen BV X en het gelieerde buitenlandse lichaam aan de hand van die risicoallocatie.
+*Conclusie:* De relevante functies om control uit te oefenen over de kredietrisico’s bevinden zich gedeeltelijk in Nederland en gedeeltelijk in het buitenland. Hier is een allocatie van de risico’s als gevolg van de aanwezigheid van de control-functies bij BV X en het gelieerde buitenlandse lichaam passend. Indien bij zo’n verdeling een risico daadwerkelijk tot uiting komt, dienen de gevolgen daarvan naar rato te worden gealloceerd tussen BV X en het gelieerde buitenlandse lichaam aan de hand van die risicoallocatie.
 
 In bovenstaande situatie dient een passende beloning te worden vastgesteld aan de hand van de feiten en omstandigheden. Bij de vaststelling van de arm’s-length beloning dient rekening gehouden te worden met de andere partij binnen de groep die control-activiteiten uitoefent en die eveneens arm’s-length beloond dient te worden.
 
@@ -663,7 +815,12 @@ De OESO-richtlijnen beschrijven een vijftal methodes waarmee de garantie fee kan
 
 Bij wijze van voorbeeld kan het zijn dat de kapitaalmarkt in een bepaalde situatie de volgende rentepercentages hanteert:
 
-In deze situatie zou de garantie fee op basis van de yield approach niet hoger kunnen zijn dan het verschil tussen het rentepercentage dat aansluit bij de afgeleide rating (zie par. 9.1 van dit besluit) en het rentepercentage dat aansluit bij de groepsrating. Dat is het maximale voordeel dat de garantienemer zou kunnen behalen met de expliciete garantie.
+| – Op basis van de standalone rating: | 6% |
+| --- | --- |
+| – Op basis van de afgeleide rating: | tussen 4% en 6% |
+| – Op basis van de groepsrating: | 4% |
+
+In deze situatie zou de garantie fee op basis van de yield approach niet hoger kunnen zijn dan het verschil tussen het rentepercentage dat aansluit bij de afgeleide rating (zie [par. 9.1](https://wetten.overheid.nl/BWBR0046839) van dit besluit) en het rentepercentage dat aansluit bij de groepsrating. Dat is het maximale voordeel dat de garantienemer zou kunnen behalen met de expliciete garantie.
 
 Bij de bepaling van de mate van impliciete steun en het gevolg daarvan voor de afgeleide credit rating van het lichaam wordt mede gekeken naar de rol en positie van het lichaam binnen de groep. De afgeleide rating zal zich bevinden tussen de standalone rating van het groepslichaam en de groepsrating.
 
@@ -675,7 +832,7 @@ Net als bij cash pooling wordt bij garanties in onderdeel D.1.2 van hoofdstuk X 
 
 Een analyse van feiten en omstandigheden leidt dan doorgaans tot de conclusie dat het voordeel van een dergelijke cross-guarantee niet uitgaat boven het voordeel als gevolg van passieve associatie en het onderdeel uitmaken van een groep (impliciete steun). In een dergelijk geval is geen garantie fee verschuldigd en vindt de ondersteuning als gevolg van de gegeven garantie bij het in gebreke blijven van één of meerdere deelnemers plaats in de kapitaalsfeer en heeft deze geen gevolgen voor de belastbare winst.
 
-Naast het bovenstaande is in dit kader ook een arrest van de Hoge Raad van belang.36Hoge Raad 1 maart 2013, nr. 11/01985, ECLI:NL:HR:2013:BW6520. Hierin is bepaald dat bij een garantstelling onder een zogenaamde paraplu-kredietfaciliteit het aanvaarden door een lichaam van hoofdelijke aansprakelijkheid voor alle schulden van andere lichamen die deelnemen aan het kredietarrangement zijn oorzaak vindt in de vennootschapsrechtelijke betrekkingen tussen dat lichaam en die andere lichamen. Het handelen van de lichamen wordt in dat geval geregeerd door het groepsbelang. De lichamen aanvaarden daarbij een aansprakelijkheid die groter is dan de aansprakelijkheid die bestaat bij het zelfstandig aantrekken van vreemd vermogen.
+Naast het bovenstaande is in dit kader ook een arrest van de Hoge Raad van belang.36Hoge Raad 1 maart 2013, nr. 11/01985, ECLI:NL:HR:2013:BW6520. Hierin is bepaald dat bij een garantstelling onder een zogenaamde paraplu-kredietfaciliteit het aanvaarden door een lichaam van hoofdelijke aansprakelijkheid voor alle schulden van andere lichamen die deelnemen aan het kredietarrangement zijn oorzaak vindt in de vennootschapsrechtelijke betrekkingen tussen dat lichaam en die andere lichamen. Het handelen van de lichamen wordt in dat geval geregeerd door het groepsbelang. De lichamen aanvaarden daarbij een aansprakelijkheid die groter is dan de aansprakelijkheid die bestaat bij het zelfstandig aantrekken van vreemd vermogen.
 
 Een vergelijkbare hoofdelijke aansprakelijkheid zal niet snel tussen ongelieerde partijen worden aangetroffen. Het zal zelden mogelijk zijn een arm’s-length vergoeding voor de onderlinge garantstelling van de verschillende gelieerde partijen vast te stellen. De gevolgen van de hoofdelijke aansprakelijkheid bevinden zich in die gevallen in de kapitaalsfeer.
 
@@ -687,6 +844,18 @@ Binnen groepsverband komen er lichamen voor die contractueel optreden als intern
 
 Om in het kader van het karakteriseringsproces van deze transacties te beoordelen of feitelijk sprake is van verzekeringstransacties door de captives, zijn de volgende vragen in relatie tot deze captives van belang:
 
+- – Is er sprake van diversificatie en pooling in de captives?
+
+- – Is de economische vermogenspositie van de groepsonderdelen verbeterd als gevolg van de diversificatie?
+
+- – Is de captive als gereguleerd lichaam onderworpen aan regels met betrekking tot het feitelijk aangaan van risico’s en het daarbij vereiste kapitaal?
+
+- – Zou het verzekerde risico ook buiten de groep verzekerbaar zijn?
+
+- – Heeft de captive de vereiste deskundigheid en ervaring in relatie tot de verzekeringsactiviteit en het beleggen van de ontvangen premies?
+
+- – Is er een reële mogelijkheid dat de captive verliezen lijdt?
+
 Om tot de conclusie te komen dat er feitelijk sprake is van daadwerkelijke verzekeringstransacties dienen in principe alle bovenstaande vragen bevestigend beantwoord te worden.
 
 Ten aanzien van de diversificatie dient in aanmerking te worden genomen dat er bij een captive over het algemeen sprake is van een lagere graad van diversificatie dan bij een externe verzekeraar die vergelijkbare risico’s verzekert, omdat het meestal gaat om een beperktere kring van verzekerden. Een lagere graad van diversificatie leidt er in beginsel toe dat de captive een hogere premie in rekening zou moeten brengen om het verzekerde risico op zich te kunnen nemen. Zonder die hogere premie zou de captive namelijk te weinig rendement genereren om de gelopen risico’s te kunnen dragen en de vergoeding voor haar risicokapitaal te kunnen realiseren.
@@ -697,9 +866,13 @@ Een verlaging van het risicokapitaal, hetgeen mogelijk zou kunnen leiden tot een
 
 Bij de analyse van een verzekeringstransactie is het belangrijk om onderscheid te maken tussen:
 
+- (i) het verzekeringsrisico dat gepaard gaat met verzekeren; en
+
+- (ii) het verzekerde risico.
+
 Over het algemeen is de verzekerde in control ten aanzien van het verzekerde risico. De beslissing om het risico aan te gaan en zich tegen de negatieve gevolgen van dat risico te verzekeren, is immers onderdeel van de control van de verzekerde ten aanzien van dat risico (zie (i) en (ii) van par. 1.61). Indien feitelijk sprake is van verzekeren, oefent de captive een zogenaamde ‘risk mitigation function’ uit. Dit is een functie die niet behoort tot de control-functie ten aanzien van het verzekerde risico (zie (iii) van par. 1.61 en par. 1.65).
 
-Vervolgens dient vastgesteld te worden of de captive in control is ten aanzien van het verzekeringsrisico. Daarbij is van belang dat de OESO-richtlijnen37Zie par. 10.211. de in het OESO PE rapport38OESO (2010). **Report on the Attribution of Profits to Permanent Establishments**. OECD Publishing: Paris. beschreven ‘underwriting function’ als de control-functie ten aanzien van het verzekeringsrisico beschouwen. Indien de captive niet de omschreven control-functies uitoefent dienen de risico’s te worden gealloceerd aan de partij die dat wel doet. Ook de (netto) opbrengst uit de belegde premies dient in dat geval aan die partij te worden toegerekend (zie par. 10.212).
+Vervolgens dient vastgesteld te worden of de captive in control is ten aanzien van het verzekeringsrisico. Daarbij is van belang dat de OESO-richtlijnen37Zie par. 10.211. de in het OESO PE rapport38OESO (2010). *Report on the Attribution of Profits to Permanent Establishments*. OECD Publishing: Paris. beschreven ‘underwriting function’ als de control-functie ten aanzien van het verzekeringsrisico beschouwen. Indien de captive niet de omschreven control-functies uitoefent dienen de risico’s te worden gealloceerd aan de partij die dat wel doet. Ook de (netto) opbrengst uit de belegde premies dient in dat geval aan die partij te worden toegerekend (zie par. 10.212).
 
 ### 9.5.3. Passieve pooling van verzekeringsrisico’s
 
@@ -713,11 +886,11 @@ De overige via dit lichaam opkomende voordelen, zoals het bundelvoordeel als gev
 
 Er zijn situaties waarbij de verzekering als bijproduct wordt aangeboden aan ongelieerde afnemers van producten of diensten door een groep met activiteiten buiten de verzekeringsbranche, zoals annuleringsverzekeringen of verzekeringen voor een extra garantieperiode. De betreffende polis voor de afnemer staat over het algemeen op naam van een ongelieerde verzekeraar die onder toezicht staat van een lokale toezichthouder. De premie wordt, na aftrek van een vergoeding voor de ongelieerde verzekeraar, als herverzekeringspremie aan de interne gelieerde herverzekeraar doorbetaald.
 
-In de praktijk biedt niet de interne herverzekeraar, maar het groepsonderdeel dat de hoofdactiviteit van de groep uitoefent de verzekering aan als bijproduct aan de ongelieerde klant. Dat groepsonderdeel bereikt diversificatie via zijn klantenbestand en weet daardoor de verzekeringsvoordelen voor de groep te behalen. De interne herverzekeraar verricht over het algemeen niet de hierboven beschreven underwriting function, diversifieert niet zelf en heeft ook zelf niet de vereiste deskundigheid en ervaring in relatie tot de verzekeringsactiviteit en het beleggen van de ontvangen premies. Daarom wordt niet voldaan aan de hierboven genoemde vereisten om de transacties tussen de interne herverzekeraar en het groepsonderdeel dat de hoofdactiviteit van de groep uitoefent als verzekeringstransacties aan te merken. Een dergelijk lichaam verricht slechts een beperkte administratieve functie die een beperkte beloning rechtvaardigt.39Zie hiervoor ook: Rechtbank ’s-Gravenhage van 11 juli 2011. AWB08/9105, LJN BR4966.
+In de praktijk biedt niet de interne herverzekeraar, maar het groepsonderdeel dat de hoofdactiviteit van de groep uitoefent de verzekering aan als bijproduct aan de ongelieerde klant. Dat groepsonderdeel bereikt diversificatie via zijn klantenbestand en weet daardoor de verzekeringsvoordelen voor de groep te behalen. De interne herverzekeraar verricht over het algemeen niet de hierboven beschreven underwriting function, diversifieert niet zelf en heeft ook zelf niet de vereiste deskundigheid en ervaring in relatie tot de verzekeringsactiviteit en het beleggen van de ontvangen premies. Daarom wordt niet voldaan aan de hierboven genoemde vereisten om de transacties tussen de interne herverzekeraar en het groepsonderdeel dat de hoofdactiviteit van de groep uitoefent als verzekeringstransacties aan te merken. Een dergelijk lichaam verricht slechts een beperkte administratieve functie die een beperkte beloning rechtvaardigt.39Zie hiervoor ook: Rechtbank ’s-Gravenhage van 11 juli 2011. AWB08/9105, LJN BR4966.
 
 ### 9.5.5. Verkoop van verzekeringen via een agent
 
-Onderdeel E.3.4 van hoofdstuk X beschrijft de verkoop van verzekeringen via een gelieerde tussenpersoon, waarbij de winst die de verzekeraar maakt hoger is dan bij vergelijkbare transacties met vergelijkbare derden. Het gaat daarbij uitsluitend om een groepslichaam dat, aan de hand van de in paragraaf 9.5.1 van dit besluit genoemde criteria ook daadwerkelijk verzekeringen afsluit. In het voorbeeld gaat de verkoop van hoogwaardige technische producten door een detailhandelaar gepaard met een verzekering tegen schade en diefstal bij een gelieerde verzekeraar. In een dergelijke situatie dient ter bepaling van de arm’s-length vergoeding voor de tussenpersoon bijzondere aandacht te worden besteed aan de omstandigheden die tot die hoge winst leiden. Indien de hoge winst is toe te rekenen aan de mogelijkheid om op het moment en de plaats van verkoop van een product of dienst door het directe contact van de tussenpersoon met de klant óók een verzekering aan te bieden, dient het hierdoor gerealiseerde (extra) voordeel niet te worden gealloceerd aan de gelieerde verzekeraar. De gelieerde verzekeraar dient in een dergelijke situatie een vergoeding te krijgen gelijk aan die van vergelijkbare ongelieerde verzekeraars.
+Onderdeel E.3.4 van hoofdstuk X beschrijft de verkoop van verzekeringen via een gelieerde tussenpersoon, waarbij de winst die de verzekeraar maakt hoger is dan bij vergelijkbare transacties met vergelijkbare derden. Het gaat daarbij uitsluitend om een groepslichaam dat, aan de hand van de in [paragraaf 9.5.1](https://wetten.overheid.nl/BWBR0046839) van dit besluit genoemde criteria ook daadwerkelijk verzekeringen afsluit. In het voorbeeld gaat de verkoop van hoogwaardige technische producten door een detailhandelaar gepaard met een verzekering tegen schade en diefstal bij een gelieerde verzekeraar. In een dergelijke situatie dient ter bepaling van de arm’s-length vergoeding voor de tussenpersoon bijzondere aandacht te worden besteed aan de omstandigheden die tot die hoge winst leiden. Indien de hoge winst is toe te rekenen aan de mogelijkheid om op het moment en de plaats van verkoop van een product of dienst door het directe contact van de tussenpersoon met de klant óók een verzekering aan te bieden, dient het hierdoor gerealiseerde (extra) voordeel niet te worden gealloceerd aan de gelieerde verzekeraar. De gelieerde verzekeraar dient in een dergelijke situatie een vergoeding te krijgen gelijk aan die van vergelijkbare ongelieerde verzekeraars.
 
 ### 10. De documentatieverplichting
 
@@ -725,7 +898,7 @@ In de [Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) is de docu
 
 ### 10.1. Landenrapport, groepsdossier en lokaal dossier
 
-[Artikel 29b t/m h Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b) is van toepassing op belastingplichtigen die aan bepaalde normen voldoen. In de [regeling aanvullende documentatieverplichtingen verrekenprijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0037475) van 30 december 2015 (DB2015/462M) zijn nadere regels gesteld voor de vorm en inhoud van het landenrapport, het groepsdossier en het lokaal dossier.
+[Artikel 29b t/m h Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b) is van toepassing op belastingplichtigen die aan bepaalde normen voldoen. In de [regeling aanvullende documentatieverplichtingen verrekenprijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0037475) van 30 december 2015 (DB2015/462M) zijn nadere regels gesteld voor de vorm en inhoud van het landenrapport, het groepsdossier en het lokaal dossier.
 
 De verplichtingen van de [artikelen 29b t/m 29h Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b) zien alleen op grensoverschrijdende transacties tussen gelieerde groepslichamen en het geven van een onderbouwing van een zakelijke winstallocatie aan vaste inrichtingen.
 
@@ -743,7 +916,7 @@ Ik keur goed dat lichamen die met hun documentatie voldoen aan de in [artikel 29
 
 Dubbele belastingheffing als gevolg van verrekenprijscorrecties is ongewenst. Belastingplichtigen die geconfronteerd worden met belastingheffing die niet in overeenstemming is met de bepalingen van een verdrag kunnen een verzoek indienen voor een onderlinge overlegprocedure. De bevoegde autoriteit voor Nederland is de Minister van Financiën. Aan de Algemeen directeur Belastingdienst/Grote Ondernemingen is het onder mandaat verleend de taak van bevoegde autoriteit uit te voeren.
 
-Uitgangspunt bij een onderlinge overlegprocedure is dat de dubbele belastingheffing zo snel en efficiënt mogelijk wordt weggenomen. Deze bijstand wordt verleend op basis van gesloten belastingverdragen, het EU-arbitrageverdrag42Verdrag ter afschaffing van dubbele belasting ingeval van winstcorrecties tussen verbonden ondernemingen (90/436/EEG). en de EU-arbitragerichtlijn43[Richtlijn 2017/1852](32017L1852) van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie. zoals in Nederland geïmplementeerd in de [Wet fiscale arbitrage](https://wetten.overheid.nl/jci1.3:c:BWBR0042409).44Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie, Stbl. 2019, 261. Nederland streeft naar het vroegtijdig opstarten van onderlinge overlegprocedures met verdragspartners. Dit is nader uitgewerkt in het [besluit van 15 november 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046042), nr. 2021-0000226675, Staatscourant 2021, 47634.
+Uitgangspunt bij een onderlinge overlegprocedure is dat de dubbele belastingheffing zo snel en efficiënt mogelijk wordt weggenomen. Deze bijstand wordt verleend op basis van gesloten belastingverdragen, het EU-arbitrageverdrag42Verdrag ter afschaffing van dubbele belasting ingeval van winstcorrecties tussen verbonden ondernemingen (90/436/EEG). en de EU-arbitragerichtlijn43Richtlijn 2017/1852 van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie. zoals in Nederland geïmplementeerd in de [Wet fiscale arbitrage](https://wetten.overheid.nl/jci1.3:c:BWBR0042409).44Wet van 10 juli 2019, houdende Invoering van een wettelijk mechanisme ten behoeve van de beslechting van belastinggeschillen tussen lidstaten van de Europese Unie, Stbl. 2019, 261. Nederland streeft naar het vroegtijdig opstarten van onderlinge overlegprocedures met verdragspartners. Dit is nader uitgewerkt in het [besluit van 15 november 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046042), nr. 2021-0000226675, Staatscourant 2021, 47634.
 
 De ervaring leert dat in een aantal gevallen tijdens de overlegprocedure de dubbele belastingheffing op een relatief eenvoudige wijze opgeheven kan worden door onderlinge uitwisseling van feiten en omstandigheden die relevant zijn voor de betreffende casus. De Belastingdienst is daarom bereid om, indien een belastingplichtige de verwachting heeft te worden geconfronteerd met dubbele belastingheffing op het gebied van de verrekenprijzen als gevolg van handelen door de Belastingdienst of van een belastingdienst van een land waarmee Nederland de mogelijkheid heeft om informatie uit te wisselen, te zoeken naar mogelijkheden om door het uitwisselen van gegevens of het gezamenlijk uitvoeren van controlewerkzaamheden de mogelijke dubbele belastingheffing in een zo vroeg mogelijk stadium te voorkomen. Een verzoek daartoe kan door belastingplichtige worden ingediend bij de Nederlandse inspecteur.
 
@@ -757,8 +930,10 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 De volgende besluiten zijn ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – [Besluit van de Staatssecretaris van Financiën van 22 april 2018, nr. 2018-6865](https://wetten.overheid.nl/jci1.3:c:BWBR0040893), Stcrt. 2018, 26874; en
+
+- – [Onderdeel V van het Vraag- en antwoordbesluit dienstverleningslichamen, nr. DGB 2014/3102](https://wetten.overheid.nl/BWBR0035187).
+
 ### 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Verrekenprijsbesluit 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

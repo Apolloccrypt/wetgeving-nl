@@ -1,43 +1,19 @@
 ---
 title: "Loonheffingen, loon, vrijgesteld loon en vergoedingen en verstrekkingen"
 identifier: "BWBR0046987"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-29"
-last_updated: "2022-07-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046987"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16439843"
-version_id: "28800862"
-internal_id: "C40780461"
-label_id: "16364444"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046987/2022-07-29/0"
-intitule_bron: "Stcrt.2022-18970"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-06-21"
-intitule_published: "2022-07-28"
-intitule_in_force: "2022-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-18970"
-original_signed_date: "2022-06-21"
-original_published_date: "2022-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-18970"
-entry_into_force_date: "2022-07-29"
-jci_1_3: "jci1.3:c:BWBR0046987&z=2022-07-29&g=2022-07-29"
-jci_1_0: "1.0:c:BWBR0046987&g=2022-07-29"
-citeertitel_status: "redactioneel"
-signed_date: "2022-06-21"
-entry_into_force: "2022-07-29"
+publicatiedatum: 2022-07-29
+laatste_update: 2022-07-29
+status: geldig
+toestand: 2022-07-29
+bron: "https://wetten.overheid.nl/BWBR0046987"
+opgehaald: 2026-09-02
 ---
+
 # Loonheffingen, loon, vrijgesteld loon en vergoedingen en verstrekkingen
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit is een actualisering van het besluit van 17 december 2014, nr. BLKB2014/1894M. Het nieuwe onderdeel 3.2.1 gaat nader in op het aanwijzen van vergoedingen en verstrekkingen als eindheffingsbestanddelen. Onderdeel 3.5 is verduidelijkt met twee voorbeelden. Onderdeel 4.2 is aangepast door het per 1 januari 2022 vervallen van de aftrek van scholingsuitgaven in de inkomstenbelasting. De overige wijzigingen zijn van redactionele aard. Het voorgaande besluit wordt in dit besluit ingetrokken.**
+*Dit besluit is een actualisering van het besluit van 17 december 2014, nr. BLKB2014/1894M. Het nieuwe onderdeel 3.2.1 gaat nader in op het aanwijzen van vergoedingen en verstrekkingen als eindheffingsbestanddelen. Onderdeel 3.5 is verduidelijkt met twee voorbeelden. Onderdeel 4.2 is aangepast door het per 1 januari 2022 vervallen van de aftrek van scholingsuitgaven in de inkomstenbelasting. De overige wijzigingen zijn van redactionele aard. Het voorgaande besluit wordt in dit besluit ingetrokken.*
 
 ### 1. Inleiding
 
@@ -45,17 +21,28 @@ Naar aanleiding van vragen aan de Belastingdienst zijn de afgelopen jaren standp
 
 Dit besluit betreft beleid inzake de loonheffingen. Naast dit besluit hebben werkgevers de beschikking over het Handboek Loonheffingen en bijbehorende berichten op belastingdienst.nl. Dit is echter algemeen voorlichtingsmateriaal. Dat biedt niet precies dezelfde rechtszekerheid als een beleidsbesluit. Dit acht ik ongewenst voor werkgevers als zij bij het nakomen van hun inhoudingsplicht in redelijkheid afgaan op het Handboek Loonheffingen en bijbehorende berichten. Dat speelt met name bij standpunten die niet letterlijk zijn overgenomen uit de jurisprudentie of andere rechtsbronnen. Daarom volgt de Belastingdienst in zo’n geval de handelwijze van de werkgever. Dit is alleen anders als de verstrekte informatie zo duidelijk onjuist is dat de werkgever dat in redelijkheid moest beseffen.
 
-Dit besluit is een actualisering van het [besluit van 17 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036072), nr. BLKB2014/1894M. De wijzigingen zijn grotendeels het gevolg van het vervallen van de overgangsregeling voor werkgevers die nog geen gebruik maakten van de werkkostenregeling en aanpassing van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236) met ingang van 1 januari 2015. Onderdelen die achterhaald zijn of een voorlichtend karakter hebben, zijn vervallen. Zo is het voormalige onderdeel 4.6.7 over provisies van tussenpersonen vervallen mede als gevolg van het arrest van de Hoge Raad van 1 juni 2012, nr.11/02478, ECLI:NL:HR:2012:BV1430. Ook wordt een besluit ingetrokken dat haar belang verloren heeft; het besluit van 17 december 2014, nr. BLKB2014/1894M.
+Dit besluit is een actualisering van het [besluit van 17 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036072), nr. BLKB2014/1894M. De wijzigingen zijn grotendeels het gevolg van het vervallen van de overgangsregeling voor werkgevers die nog geen gebruik maakten van de werkkostenregeling en aanpassing van de [Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236) met ingang van 1 januari 2015. Onderdelen die achterhaald zijn of een voorlichtend karakter hebben, zijn vervallen. Zo is het voormalige onderdeel 4.6.7 over provisies van tussenpersonen vervallen mede als gevolg van het arrest van de Hoge Raad van 1 juni 2012, nr.11/02478, ECLI:NL:HR:2012:BV1430. Ook wordt een besluit ingetrokken dat haar belang verloren heeft; het besluit van 17 december 2014, nr. BLKB2014/1894M.
 
-Het nieuwe onderdeel 3.2.1 gaat nader in op het aanwijzen van vergoedingen en verstrekkingen als eindheffingsbestanddelen. Onderdeel 3.5 is verduidelijkt met twee voorbeelden. Onderdeel 4.2 is aangepast door het per 1 januari 2022 vervallen van de aftrek van scholingsuitgaven in de inkomstenbelasting. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.
+Het nieuwe [onderdeel 3.2.1](https://wetten.overheid.nl/BWBR0046987) gaat nader in op het aanwijzen van vergoedingen en verstrekkingen als eindheffingsbestanddelen. [Onderdeel 3.5](https://wetten.overheid.nl/BWBR0046987) is verduidelijkt met twee voorbeelden. [Onderdeel 4.2](https://wetten.overheid.nl/BWBR0046987) is aangepast door het per 1 januari 2022 vervallen van de aftrek van scholingsuitgaven in de inkomstenbelasting. De overige wijzigingen zijn van redactionele aard en hebben geen inhoudelijke betekenis.
 
-Onderdeel 2 gaat in op loon en vrijgesteld loon.
+[Onderdeel 2](https://wetten.overheid.nl/BWBR0046987) gaat in op loon en vrijgesteld loon.
 
-Onderdeel 3 betreft vergoedingen, verstrekkingen en terbeschikkingstellingen volgens de werkkostenregeling.
+[Onderdeel 3](https://wetten.overheid.nl/BWBR0046987) betreft vergoedingen, verstrekkingen en terbeschikkingstellingen volgens de werkkostenregeling.
 
-Onderdeel 4 verduidelijkt de gevolgen van het terugbetalen van vergoedingen en verstrekkingen. In het bijzonder gaat dat onderdeel in op het vergoeden van studiekosten en de terugbetaling van een studiekostenvergoeding.
+[Onderdeel 4](https://wetten.overheid.nl/BWBR0046987) verduidelijkt de gevolgen van het terugbetalen van vergoedingen en verstrekkingen. In het bijzonder gaat dat onderdeel in op het vergoeden van studiekosten en de terugbetaling van een studiekostenvergoeding.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| IB: | inkomstenbelasting/premie volksverzekeringen |
+| --- | --- |
+| individueel loon van de werknemer: | het loon waarover met toepassing van de artikelen 20a, 20b, 26 en 26b van de Wet LB belasting wordt geheven |
+| loonheffing: | loonbelasting/premie volksverzekeringen |
+| loonheffingen: | loonheffing, premies werknemersverzekeringen en inkomensafhankelijke bijdrage Zorgverzekeringswet |
+| URLB 2011: | Uitvoeringsregeling loonbelasting 2011 |
+| vrije ruimte: | 1,18% en deels 1,7% (in 2022) van het loon, zoals bedoeld in artikel 31a van de Wet LB |
+| werkgever: | inhoudingsplichtige voor de loonheffing |
+| Wet LB: | Wet op de loonbelasting 1964 |
+| Zvw: | Zorgverzekeringswet |
 
 ### 2. Loon en vrijgesteld loon
 
@@ -65,6 +52,8 @@ Onderdeel 4 verduidelijkt de gevolgen van het terugbetalen van vergoedingen en v
 
 Loon van een overleden werknemer dat door de erfgenamen wordt genoten, vormt voor hen loon uit vroegere dienstbetrekking van een ander (zie [artikel 2, eerste lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) en het Handboek Loonheffingen). Dit kan tot praktische problemen leiden. Om aan deze problemen tegemoet te komen, keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat de inhoudingsplichtige postuum loon kan aanmerken als loon uit vroegere dienstbetrekking van de overledene. Op dit loon dient de tabel te worden toegepast die geldt op het tijdstip dat het loon wordt genoten. Over dit loon zijn geen premies werknemersverzekeringen en inkomensafhankelijke bijdrage Zvw verschuldigd.
 
 Deze goedkeuring is niet van toepassing als een niet-natuurlijke persoon postuum loon geniet. Als een niet-natuurlijke persoon genieter is, is immers geen loonheffing verschuldigd.
@@ -72,6 +61,8 @@ Deze goedkeuring is niet van toepassing als een niet-natuurlijke persoon postuum
 ### IB en bijdrage-inkomen Zvw
 
 Postuum loon wordt in beginsel bij de erven belast. In dat geval behoort het postume loon tot het bijdrage-inkomen voor de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450). De ingehouden loonheffing kan ieder van de erven voor zijn eigen aandeel met zijn aanslag IB verrekenen. In het verlengde van de goedkeuring voor de loonheffing keur ik het volgende goed.
+
+Goedkeuring
 
 Als de inhoudingsplichtige bij de inhouding op het postuum loon de voor de loonheffing geldende goedkeuring heeft toegepast, kunnen de erven dit postuum uitbetaalde loon ook voor de heffing van de IB beschouwen als inkomsten van de overledene.
 
@@ -85,7 +76,7 @@ Bepaalde overlijdensuitkeringen (en dergelijke verstrekkingen) zijn vrijgesteld 
 
 Zie voor ‘het loon over een maand’ de toelichting in het Handboek Loonheffingen. In 2022 staat die toelichting in paragraaf 21.2.1.
 
-De vrijstelling van de aanspraak sluit aan bij de maximale vrijstelling van de uitkering. Dit betekent dat het recht op toepassing van de wettelijke vrijstelling voor het gedeelte van drie maandlonen ook blijft bestaan als sprake is van een bovenmatige aanspraak. Dit is een aanspraak op een uitkering ter grootte van meer dan drie maandlonen. Het meerdere behoort tot het individuele loon van de werknemer, tenzij de werkgever het aanwijst als eindheffingsbestanddeel (zie onderdeel 3 en verder van dit besluit). Voor de IB maakt het niet vrijgestelde deel van de waarde van de bovenmatige aanspraak bij de desbetreffende werknemer vervolgens deel uit van de grondslag sparen en beleggen waarover zijn inkomen uit sparen en beleggen wordt berekend (box 3).
+De vrijstelling van de aanspraak sluit aan bij de maximale vrijstelling van de uitkering. Dit betekent dat het recht op toepassing van de wettelijke vrijstelling voor het gedeelte van drie maandlonen ook blijft bestaan als sprake is van een bovenmatige aanspraak. Dit is een aanspraak op een uitkering ter grootte van meer dan drie maandlonen. Het meerdere behoort tot het individuele loon van de werknemer, tenzij de werkgever het aanwijst als eindheffingsbestanddeel (zie [onderdeel 3](https://wetten.overheid.nl/BWBR0046987) en verder van dit besluit). Voor de IB maakt het niet vrijgestelde deel van de waarde van de bovenmatige aanspraak bij de desbetreffende werknemer vervolgens deel uit van de grondslag sparen en beleggen waarover zijn inkomen uit sparen en beleggen wordt berekend (box 3).
 
 Er is een mogelijkheid om bovenmatige aanspraken via een aanwijzing vrij te stellen (zie [artikel 3.3a, onderdeel c, URLB 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=3.3a)). Ik ben hiertoe bereid in zeer bijzondere gevallen. Hierbij stel ik als voorwaarde dat de verzoeker laat blijken dat de waarde van de aanspraak niet in redelijkheid kan worden vastgesteld. Dit kan bijvoorbeeld aan de hand van een verklaring van (een) verzekeraar(s) waarin staat dat de desbetreffende overlijdensuitkeringen niet verzekerbaar zijn in verband met de onmogelijkheid een premie te berekenen.
 
@@ -93,15 +84,30 @@ Er is een mogelijkheid om bovenmatige aanspraken via een aanwijzing vrij te stel
 
 Een werkgever kan zijn werknemers na het bereiken van een diensttijd van ten minste 25 of ten minste 40 jaar een vrijgestelde uitkering of verstrekking geven (zie [artikel 11, eerste lid, onderdeel o, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11); de zogenoemde diensttijdvrijstelling). Bij de toepassing van de diensttijdvrijstelling geldt het volgende:
 
+- – Voor de toepassing van de diensttijdvrijstelling is niet van belang of ooit gebruik is gemaakt van de jubileumvrijstelling, die tot 1 mei 1994 van toepassing kon zijn.
+
+- – Bij een diensttijd van ten minste 40 jaar kan ook gebruik worden gemaakt van de vrijstelling na het bereiken van een diensttijd van ten minste 25 jaar als deze vrijstelling nog niet eerder is gebruikt. Het is niet zo dat deze vrijstelling na het bereiken van een diensttijd van ten minste 40 jaar vervalt.
+
+- – De diensttijdvrijstelling heeft betrekking op loon dat eenmalig wordt toegekend. Dit betekent dat de vrijstelling niet van toepassing kan zijn op vakantiegeld en evenmin op andere loonbestanddelen met een min of meer periodiek karakter.
+
 ### 2.4. Gebruikelijk loon en auto van de zaak
 
-De zogenoemde gebruikelijkloonregeling van [artikel 12a Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) sluit aan bij het loonbegrip in de [Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
+De zogenoemde gebruikelijkloonregeling van [artikel 12a Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) sluit aan bij het loonbegrip in de [Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 Dit loonbegrip omvat ook eindheffingsbestanddelen. Deze hebben echter alleen gevolgen voor de gebruikelijkloonregeling als ze individualiseerbaar zijn.
 
 Onder omstandigheden behoort het privégebruik van een auto tot het loon voor de loonheffingen (zie [artikel 13bis Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis)) en de inkomensafhankelijke bijdrage Zvw.
 
-Een werknemer valt onder de gebruikelijkloonregeling en geniet feitelijk alleen privégebruik van een auto op grond van [artikel 13bis Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis) tot een bedrag van € 19.000. Aannemelijk is dat voor hem een loon inclusief privégebruik van een auto van € 48.000 gebruikelijk is.
+Voorbeeld
+
+Een werknemer valt onder de gebruikelijkloonregeling en geniet feitelijk alleen privégebruik van een auto op grond van [artikel 13bis Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis) tot een bedrag van € 19.000. Aannemelijk is dat voor hem een loon inclusief privégebruik van een auto van € 48.000 gebruikelijk is.
+
+Uitwerking
+
+| € 19.000 | bijtelling privégebruik auto |
+| --- | --- |
+| € 29.000 + | fictief loon o.g.v. artikel 12a Wet LB |
+| € 48.000 | loon voor de loonheffingen |
 
 Als een aanmerkelijkbelanghouder geen werknemer is voor de werknemersverzekeringen, dan zijn in dit voorbeeld geen premies werknemersverzekeringen verschuldigd. ‘De loonheffingen’ dient dan te worden gelezen als ‘de loonheffing en de inkomensafhankelijke bijdrage Zvw’.
 
@@ -118,6 +124,18 @@ Wat betreft de gerichte vrijstellingen merk ik op, dat de beoordeling van een ve
 In het algemeen geldt als uitgangspunt dat een specifieke regeling voorgaat op een algemene regeling, tenzij uit de wet, de wetsgeschiedenis, het doel en de strekking van de desbetreffende regeling of de jurisprudentie iets anders blijkt.
 
 Voor de (gerichte) vrijstellingen en waardering van loon is de rangorde als volgt:
+
+- – een vrijstelling op grond van [artikel 11 Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), bijvoorbeeld voor een vrijgestelde diensttijduitkering;
+
+- – waarderingen bij of krachtens de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13),[13bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis) en [13ter Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13ter);
+
+- – eindheffingsbestanddelen volgens [artikel 31, eerste lid, onderdelen f en g, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31):
+
+   - • een gerichte vrijstelling volgens [artikel 31a, tweede lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), bijvoorbeeld voor een reiskosten- of studiekostenvergoeding;
+
+   - • de vrije ruimte, bijvoorbeeld voor kerstpakketten;
+
+   - • vergoedingen en verstrekkingen voor zover deze niet gericht zijn vrijgesteld en ook niet passen binnen de vrije ruimte;
 
 ### 3.2.1. Aanwijzen als eindheffingsbestanddeel
 
@@ -139,19 +157,41 @@ De verblijfkostenvergoedingen bij buitenlandse dienstreizen zijn wel volledig ge
 
 Intermediaire kosten zijn uitgaven die de werknemer niet voor zichzelf doet maar als intermediair (tussenpersoon) namens en voor rekening van de werkgever. Een vergoeding van intermediaire kosten is hierom geen voordeel uit dienstbetrekking en dus geen loon voor de loonheffingen. Van loon kan wel sprake zijn als de werkgever de werknemer meer vergoedt dan het precieze bedrag van de uitgaven. Dit geldt ook voor zover de intermediaire kosten leiden tot een voordeel voor een of meer werknemers (zie hierna).
 
+Goedkeuring
+
 Ik keur goed dat een vaste vergoeding van intermediaire kosten plaatsvindt alsof sprake is van een vaste vergoeding van kosten van de werknemer als bedoeld in [artikel 31a, vierde lid, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a).
+
+Toelichting
 
 Deze goedkeuring houdt het volgende in:
 
+- – De werkgever kan het bedrag van de intermediaire kosten aannemelijk maken.
+
+- – Hij specificeert de intermediaire kosten per kostenpost naar aard en veronderstelde omvang.
+
+- – Hij specificeert de vaste vergoeding naar het bedrag dat ziet op intermediaire kosten en gerichte vrijstellingen.
+
+- – Hij onderbouwt de vergoeding met een onderzoek naar de werkelijk gemaakte kosten en herhaalt dit als de inspecteur dat vraagt.
+
+- – Een aanvullende vergoeding is alleen mogelijk als de werkgever aannemelijk kan maken in hoeverre de werkelijke uitgaven hoger zijn dan het bedrag van de vaste vergoeding.
+
 Intermediaire kosten kunnen leiden tot een bevoordeling van een of meer werknemers. Dit is bijvoorbeeld het geval als een werknemer in opdracht van de werkgever cadeaubonnen koopt voor het personeel. Deze goedkeuring heeft geen gevolgen voor de belastbaarheid van de verstrekking aan werknemers van zulke voordelen.
+
+Voorbeeld
 
 Uit een kostenonderzoek volgt dat de buitendienstwerknemers van een verkooporganisatie de volgende kosten (per persoon en per periode) maken:
 
-De werkgever kan met deze gegevens een vaste vergoeding geven. Deze vaste vergoeding kan bestaan uit intermediaire kosten al dan niet in combinatie met kosten waarvoor een gerichte vrijstelling geldt. In het voorbeeld kan een vaste vergoeding worden gegeven die de werkgever tot een bedrag van € 49 per periode moet specificeren. Dit betreft € 33 voor intermediaire kosten (parkeren en externe representatie) en € 16 kosten waarvoor een gerichte vrijstelling geldt (consumpties onderweg vallen onder de gerichte vrijstelling voor kosten van tijdelijk verblijf, zie [artikel 31a, tweede lid, onderdeel b, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a)). Voor zover hij een hogere vergoeding geeft dan € 49 (in dit voorbeeld voor de reinigingskosten), kan hij het meerdere aanwijzen als eindheffingsbestanddeel. Dat deel van de vaste vergoeding komt ten laste van de beschikbare vrije ruimte. Zie onderdeel 3 van dit besluit.
+| Kosten voor parkeren van de auto van de zaak | € | 25 |
+| --- | --- | --- |
+| Kosten van externe representatie | € | 8 |
+| Kosten van consumpties onderweg | € | 16 |
+| Kosten van het reinigen van een kostuum (geen werkkleding) | € | 7 |
+
+De werkgever kan met deze gegevens een vaste vergoeding geven. Deze vaste vergoeding kan bestaan uit intermediaire kosten al dan niet in combinatie met kosten waarvoor een gerichte vrijstelling geldt. In het voorbeeld kan een vaste vergoeding worden gegeven die de werkgever tot een bedrag van € 49 per periode moet specificeren. Dit betreft € 33 voor intermediaire kosten (parkeren en externe representatie) en € 16 kosten waarvoor een gerichte vrijstelling geldt (consumpties onderweg vallen onder de gerichte vrijstelling voor kosten van tijdelijk verblijf, zie [artikel 31a, tweede lid, onderdeel b, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a)). Voor zover hij een hogere vergoeding geeft dan € 49 (in dit voorbeeld voor de reinigingskosten), kan hij het meerdere aanwijzen als eindheffingsbestanddeel. Dat deel van de vaste vergoeding komt ten laste van de beschikbare vrije ruimte. Zie onderdeel 3 van dit besluit.
 
 ### 3.3.3. Geen vaste vergoeding achteraf
 
-Een vaste vergoeding ziet op kosten die de werknemer nog moet maken. Het is niet mogelijk om achteraf een onbelaste vaste vergoeding te geven. Dit is alleen anders in geval van een wettelijke uitzonderingen; zie [artikel 31a, tweede lid, onderdelen a en k, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). Bij een vergoeding op declaratiebasis is vergoeding achteraf wel mogelijk. Zie onderdeel 3.1 voor de vraag wanneer een vergoeding in een volgend jaar mogelijk is.
+Een vaste vergoeding ziet op kosten die de werknemer nog moet maken. Het is niet mogelijk om achteraf een onbelaste vaste vergoeding te geven. Dit is alleen anders in geval van een wettelijke uitzonderingen; zie [artikel 31a, tweede lid, onderdelen a en k, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a). Bij een vergoeding op declaratiebasis is vergoeding achteraf wel mogelijk. Zie [onderdeel 3.1](https://wetten.overheid.nl/BWBR0046987) voor de vraag wanneer een vergoeding in een volgend jaar mogelijk is.
 
 ### 3.4. Maaltijden, inwoning en kleding meewerkende kinderen
 
@@ -169,9 +209,17 @@ De Belastingdienst neemt aan dat sprake is van loon bij verstrekkingen en betali
 
 De Belastingdienst neemt in elk geval aan dat geen sprake is van loon als een werkgever diens werknemer een persoonlijke attentie geeft in situaties waarin ook anderen dan een werkgever een dergelijke attentie plegen te geven bij de desbetreffende gelegenheid en:
 
+- – het geen geld of waardebonnen betreft; en
+
+- – de factuurwaarde (inclusief omzetbelasting) van de attentie niet hoger is dan € 25, exclusief eventuele bezorgkosten, mits deze bezorgkosten apart zijn gefactureerd.
+
 Van een persoonlijke attentie is sprake als de persoon van de werknemer vooropstaat bij het geven van de attentie. Niet van belang is of de werknemer recht heeft op de attentie.
 
+Voorbeeld persoonlijke attentie
+
 Een werkgever geeft elke werknemer een bos bloemen bij zijn verjaardag. Dit is een persoonlijke attentie.
+
+Voorbeeld niet-persoonlijke attentie
 
 Een werkgever geeft elke werknemer een kerstpakket, een chocoladeletter in het kader van het sinterklaasfeest en een bloemetje op de eerste werkdag. Dit zijn attenties die niet gericht zijn op de persoon, maar op de werknemer. Dit zijn geen persoonlijke attenties.
 
@@ -217,11 +265,32 @@ Ter illustratie ga ik hierna specifiek in op de terugbetaling van studiekostenve
 
 Het komt regelmatig voor dat werknemers bij ontslag een vergoeding voor studiekosten moeten terugbetalen aan hun werkgever. Ook komt het voor dat een nieuwe werkgever de terug te betalen vergoeding van studiekosten direct of indirect voor zijn rekening neemt. Waar hierna gesproken wordt over studiekosten, zijn dit uitgaven voor het volgen van een opleiding of studie als bedoeld in [artikel 31a, tweede lid, onderdeel d, Wet LB](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a).
 
+|  | Casus | Gevolgen voor de werkgever |
+| --- | --- | --- |
+| A | Werknemer doet uitgaven voor een studie en krijgt geen vergoeding van zijn werkgever | geen gevolgen |
+| B | Werknemer doet uitgaven voor een studie en krijgt een vergoeding van zijn werkgever | gerichte vrijstelling |
+| C | Werknemer betaalt vrijgestelde studiekostenvergoeding terug aan zijn werkgever | geen negatief loon |
+| D | Een nieuwe werkgever kent een vergoeding toe in het jaar van terugbetaling van de studiekostenvergoeding aan de oude werkgever | gerichte vrijstelling |
+| E | Een nieuwe werkgever kent een vergoeding toe na het jaar van terugbetaling van de studiekostenvergoeding aan de oude werkgever | geen gerichte vrijstelling |
+| F | Een nieuwe werkgever betaalt de studiekostenvergoeding rechtstreeks terug aan de oude werkgever | buiten de loonheffing om |
+
+Toelichting
+
+- 1. *Vergoeding van studiekosten door een werkgever* Dit is de gebruikelijke (begin)situatie. Een werkgever kent een studiekostenvergoeding toe in het jaar waarin de werknemer de uitgaven doet. De studiekostenvergoeding is gericht vrijgesteld. Zie casus B in het schema hiervoor.
+
+- 2. *Terugbetaling van een studiekostenvergoeding door de werknemer* Als een werknemer een eerder onbelaste studiekostenvergoeding terugbetaalt is voor de werknemer geen sprake van negatief loon. Ook voor de werkgever zijn er geen gevolgen (zie [onderdeel 4.1](https://wetten.overheid.nl/BWBR0046987) van dit besluit). Zie casus C in het schema hiervoor.
+
+- 3. *Vergoeding door een nieuwe werkgever binnen het kalenderjaar van terugbetaling* Aangezien de terugbetaling van de studiekostenvergoeding voor de werknemer meebrengt dat in zoverre sprake is van studiekosten van de werknemer (zie hiervoor onder 2), kan een nieuwe werkgever hiervoor een onbelaste studiekostenvergoeding geven. Het is dan een gericht vrijgestelde vergoeding. Hierbij geldt als voorwaarde dat hij de vergoeding betaalt of onvoorwaardelijk toezegt in het kalenderjaar waarin de werknemer terugbetaalt aan zijn oude werkgever. Zie casus D in het schema hiervoor.
+
+- 4. Vergoeding door een nieuwe werkgever buiten het kalenderjaar van terugbetaling Als een nieuwe werkgever een vergoeding toekent na afloop van het jaar waarin de werknemer terugbetaalt aan zijn oude werkgever, is geen sprake van een onbelaste studiekostenvergoeding. In een later jaar is geen sprake van uitgaven van de werknemer en is – omdat geen sprake is van een onvoorwaardelijke toezegging in het jaar van terugbetaling – een onbelaste vergoeding in zoverre niet mogelijk. Zie casus E in het schema hiervoor.
+
 In de praktijk hoeft de situatie onder 3 en 4 overigens niet via de werknemer te verlopen. Als een nieuwe werkgever de terugbetalingsverplichting van de werknemer overneemt en rechtstreeks aan de oude werkgever betaalt, heeft deze betaling geen gevolgen voor de loonheffingen. Zie casus F in het schema hiervoor.
 
 ### 5. Ingetrokken regeling
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+
+- – het [besluit van 17 december 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036072), nr. BLKB2014/1894M, inzake Loonheffingen. Loon, vrijgesteld loon en vergoedingen en verstrekkingen.
 
 ### 6. Inwerkingtreding
 

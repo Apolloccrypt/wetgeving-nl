@@ -4,11 +4,11 @@ identifier: "BWBR0039974"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 1996-01-19
-laatste_update: 2026-07-18
+laatste_update: 2026-08-26
 status: geldig
-toestand: 2026-07-18
+toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0039974"
-opgehaald: 2026-08-26
+opgehaald: 2026-09-02
 ---
 
 # Inkomstenregeling militairen
@@ -123,9 +123,9 @@ Onder commandant, bedoeld in [artikel 1, onderdeel d, van het besluit](https://w
 
 ##### Artikel 5a. Samenloop functioneringstoelage, bindingspremie en beloningen
 
-1. Bij toekenning van een aanspraak op een functioneringstoelage, als bedoeld in [artikel 12a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12a), een bindingspremie, als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12) jo [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-07-18&g=2026-07-18), of een beloning, als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=13), bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van de tot een jaarbedrag herleide bezoldiging in de maand van de toekenning.
+1. Bij toekenning van een aanspraak op een functioneringstoelage, als bedoeld in [artikel 12a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12a), een bindingspremie, als bedoeld in [artikel 12 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=12) jo [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-08-26&g=2026-08-26), of een beloning, als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=13), bedraagt de totale waarde van die aanspraken, gerekend over de voorafgaande 12 maanden, maximaal 40% van de tot een jaarbedrag herleide bezoldiging in de maand van de toekenning.
 
-2. Onverminderd het eerste lid bedraagt bij het toekennen van een bindingspremie op grond van [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-07-18&g=2026-07-18), de totale waarde van die aanspraken, gerekend over de voorgaande 12 maanden, maximaal 50% van de tot een jaarbedrag herleide bezoldiging in de maand van toekenning.
+2. Onverminderd het eerste lid bedraagt bij het toekennen van een bindingspremie op grond van [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=2&artikel=4&z=2026-08-26&g=2026-08-26), de totale waarde van die aanspraken, gerekend over de voorgaande 12 maanden, maximaal 50% van de tot een jaarbedrag herleide bezoldiging in de maand van toekenning.
 
 ##### Artikel 6. Maatregel voor negatieve inkomenseffecten pensioenpremie
 
@@ -163,7 +163,7 @@ Onder commandant, bedoeld in [artikel 1, onderdeel d, van het besluit](https://w
 
 - – *nadelig pensioenvooruitzicht:* het berekende bedrag dat het uitzichtpensioen op basis van de eindloonregeling hoger is dan het uitzichtpensioen op basis van de middelloonregeling;
 
-- – *niet reguliere wijziging van een vaste toelage:* de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-07-18&g=2026-07-18) van de Inkomstenregeling militairen;
+- – *niet reguliere wijziging van een vaste toelage:* de wijziging van de vliegtoelage als bedoeld in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-08-26&g=2026-08-26) van de Inkomstenregeling militairen;
 
 - – *nieuwe diensteinderegeling:* het leeftijdsontslag als bedoeld in [artikel 39, tweede lid, onder a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), waarbij in dit artikel wordt uitgegaan van een UGM-ingangsdatum op de leeftijd van 63 jaar en een pensioeningangsdatum op de leeftijd van 68 jaar;
 
@@ -253,7 +253,7 @@ Indien de berekeningsgrondslag eindloon kleiner is dan € 31.158, dan wordt he
 
 7. De officier-arts, -tandarts of -apotheker en de officier-medisch specialist die op 31 december 2001 aanspraak hebben op een toelage officieren-arts, -tandarts en -apotheker ingevolge [tabel 8B](https://wetten.overheid.nl/BWBR0039974), hebben met ingang van de datum waarop de vaststelling van de toelage ingevolge tabel 8B leidt tot een lager bedrag dan bij toepassing van tabel 8C, aanspraak op ingevolge deze laatste tabel vastgestelde toelage officieren-arts, -tandarts en -apotheker.
 
-8. Naar het oordeel van de Minister kan aan de officier-medisch specialist, die ten minste 10 jaar functioneert in de hoedanigheid van medisch specialist, een aanvullende toelage van € 1.011,43 per maand worden toegekend.
+8. Naar het oordeel van de Minister kan aan de officier-medisch specialist, die ten minste 10 jaar functioneert in de hoedanigheid van medisch specialist, een aanvullende toelage van € 1.159,07 per maand worden toegekend.
 
 ##### Artikel 7a. Toelage Huis van Zijne Majesteit de Koning
 
@@ -561,9 +561,15 @@ De militair van de Koninklijke landmacht die – anders dan als rij-examinator �
 
 2. De militair die een dienstreis maakt, heeft, indien de dienstreis een etmaal of langer duurt, aanspraak op een toelage voor elke ZZF-dag waarop de feitelijke reistijd het aantal van drie aaneengesloten uren overschrijdt, waarvan het bedrag is opgenomen in [tabel 25](https://wetten.overheid.nl/BWBR0039974).
 
-##### Artikel 27. Aanvullende WUL-compensatie
+##### Artikel 27. Toelage Snel Inzetbare Capaciteit
 
-*Vervallen*
+1. De militair die een verplichting, bedoeld in [artikel 139, tweede lid, van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=139) heeft opgelegd gekregen, heeft aanspraak op een toelage indien:
+
+- a. de militair behoort tot een Snel Inzetbare Capaciteit eenheid bestemd voor mogelijke inzet in het kader van door Nederland aangegane verplichtingen voor de NAVO of de EU; en
+
+- b. de betreffende eenheid voor de periode van aanwijzing rekening dient te houden met de mogelijkheid om na een daartoe strekkende kennisgeving van de commandant binnen tien dagen te worden ingezet.
+
+2. De toelage bedraagt voor de periode van aanwijzing € 3,– per dag.
 
 ##### Artikel 28
 
@@ -655,9 +661,9 @@ heeft aanspraak op een éénmalige tegemoetkoming in de kosten, met toepassing v
 
 - 2°. 50% bij regelmatig gebruik (enkele uitgaande diensttelefoongesprekken per dag) van de privé-telefoonaansluiting voor dienstdoeleinden.
 
-##### Artikel 32a. Internetkostenvergoeding
+##### Artikel 32a. Tegemoetkoming in de kosten van aanschaf paspoort
 
-*Vervallen*
+De militair die om redenen van dienst in het bezit dient te zijn van een Nederlands paspoort, heeft aanspraak op een tegemoetkoming in de kosten van de aanschaf van een Nederlands paspoort tot een maximumbedrag van € 100,– met inbegrip van de kosten van de daarvoor benodigde pasfoto’s tot een maximumbedrag van € 10,–.
 
 ##### Artikel 32b. Tegemoetkoming in de extra kosten voor zorg voor jonge kinderen tijdens uitzending en inzet
 
@@ -695,7 +701,7 @@ heeft aanspraak op een éénmalige tegemoetkoming in de kosten, met toepassing v
 
    - 3°. in militaire dienst bij het voormalig KNIL, troepen in Suriname (tot 25 november 1975), de Nederlandse Antillen en Aruba;
 
-- c. voor de berekening van de diensttijd bedoeld onder a en b telt dubbel mee de tijd bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=34&z=2026-07-18&g=2026-07-18) alsmede de dubbel tellende pensioengeldige tijd die tot 1 januari 2019 dubbel werd geteld op grond van de Regeling dubbeltelling pensioengeldige tijd of op grond van vroegere militaire pensioenwetten;
+- c. voor de berekening van de diensttijd bedoeld onder a en b telt dubbel mee de tijd bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=34&z=2026-08-26&g=2026-08-26) alsmede de dubbel tellende pensioengeldige tijd die tot 1 januari 2019 dubbel werd geteld op grond van de Regeling dubbeltelling pensioengeldige tijd of op grond van vroegere militaire pensioenwetten;
 
 - d. de in onderdeel c genoemde diensttijd wordt voor de vaststelling van de diensttijd voor het 12½ jaar en 25 jaar ten hoogste zes, onderscheidenlijk negen jaar dubbel geteld;
 
@@ -731,7 +737,7 @@ heeft aanspraak op een éénmalige tegemoetkoming in de kosten, met toepassing v
 
 van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [artikel 23a van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a), waarop de militair per maand aanspraak heeft. Het bedrag van de diensttijdgratificatie wordt naar boven afgerond op een veelvoud van 2,50.
 
-4. De militair heeft aanspraak op een proportionele diensttijdgratificatie op de dag dat hem ontslag is verleend met toepassing van [artikel 39, tweede lid, onder a, b, d, e ten 2e, f, g of i, onderscheidenlijk het zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), [artikel 39a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), indien hij zonder dat ontslag binnen een periode van:
+4. De militair heeft aanspraak op een proportionele diensttijdgratificatie op de dag dat hem ontslag is verleend met toepassing van [artikel 39, tweede lid, onder a, b, d, e ten 2e, f of g, onderscheidenlijk het zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39), [artikel 39a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), indien hij zonder dat ontslag binnen een periode van:
 
 - a. tweeëneenhalf jaar na de datum van ingang van dat ontslag aanspraak zou hebben gehad op een diensttijdgratificatie ingevolge het derde lid, onder a, dan wel binnen een periode van:
 
@@ -755,7 +761,7 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 34. Dubbeltelling diensttijd voor diensttijdgratificaties
 
-1. Voor diensttijdgratificaties telt dubbel als bedoeld in [artikel 33, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=33&z=2026-07-18&g=2026-07-18):
+1. Voor diensttijdgratificaties telt dubbel als bedoeld in [artikel 33, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=5&artikel=33&z=2026-08-26&g=2026-08-26):
 
 - a. inzet in tijd van oorlog, voor zover door de Minister bepaald, na beëindiging van de staat van oorlog door de Staten-Generaal;
 
@@ -789,15 +795,15 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 ##### Artikel 36a. Garantievliegtoelage
 
-1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-07-18&g=2026-07-18), zoals dat artikel luidde voor genoemde datum.
+1. De loopbaanluchtvarende die vóór 1 juli 1999 tijdelijk de hoedanigheid van lid van een vliegtuigbemanning had verloren, verliest met ingang van genoemde datum definitief de bedoelde hoedanigheid en verkrijgt aanspraak op een garantievliegtoelage als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-08-26&g=2026-08-26), zoals dat artikel luidde voor genoemde datum.
 
-2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-07-18&g=2026-07-18) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
+2. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-08-26&g=2026-08-26) behoudt de loopbaanluchtvarende, die vóór 1 juli 1999 definitief de bedoelde hoedanigheid reeds had verloren, of deze verliest op grond van het eerste lid, aanspraak op garantievliegtoelage als bedoeld in artikel 11, zoals dat artikel luidde voor genoemde datum.
 
-3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-07-18&g=2026-07-18) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-07-18&g=2026-07-18), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
+3. Indien een militair als bedoeld in het tweede lid desondanks wederom wordt aangewezen als lid van een vliegtuigbemanning, verkrijgt hij aanspraak op vliegtoelage op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-08-26&g=2026-08-26) en in voorkomend geval op garantievliegtoelage op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=11&z=2026-08-26&g=2026-08-26), waarbij de tijd dat hij voor 1 juli 1999 reeds lid van een vliegtuigbemanning is geweest mede in aanmerking wordt genomen.
 
 ##### Artikel 37. Herstructurering vliegtoelage/garantievliegtoelage
 
-1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van [tabel 21](https://wetten.overheid.nl/BWBR0039974). Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-07-18&g=2026-07-18), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
+1. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een vliegtoelage als bedoeld in artikel 2, eerste lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 47, eerste lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, wordt de waarderingsfactor vastgesteld met toepassing van [tabel 21](https://wetten.overheid.nl/BWBR0039974). Voor de betrokken militair zal de waarderingsfactor eerst worden vastgesteld met toepassing van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039974&hoofdstuk=3&artikel=10&z=2026-08-26&g=2026-08-26), vanaf het moment dat zulks leidt tot een hogere waarderingsfactor dan die met toepassing van tabel 21.
 
 2. Ten aanzien van de gebrevetteerde militair die op 31 maart 1989 in het genot was of gedurende een deel van het tijdvak tussen 30 juni 1988 en 1 april 1989 in het genot is geweest van een garantievliegtoelage als bedoeld in artikel 3, tweede lid, of artikel 5, vierde lid, van de Regeling vliegtoelagen militairen zeemacht 1986, onderscheidenlijk artikel 48, tweede lid, of artikel 80, vierde lid, van de Regeling inkomsten militairen land- en luchtmacht 1969, is bij beëindiging van de in genoemde bepalingen bedoelde tijdelijke onderbreking voor het vaststellen van de waarderingsfactor het eerste lid van overeenkomstige toepassing.
 
@@ -809,7 +815,7 @@ van het salaris, in voorkomend geval vermeerderd met de inkomsten, bedoeld in [a
 
 1. In dit artikel wordt verstaan onder:
 
-- a. *militair:* de militair van de Koninklijke marechaussee met een lagere rang dan die van tweede luitenant in fase drie;
+- a. *militair:* de militair van de Koninklijke marechaussee met een lagere rang dan die van tweede luitenant;
 
 - b. *bevordering:* het toekennen aan de militair van een hogere rang dan die van marechaussee der eerste klasse, daaronder begrepen de aanstelling in een hogere rang bij de groep middenkader Koninklijke marechaussee en de groep specifiek personeel.
 

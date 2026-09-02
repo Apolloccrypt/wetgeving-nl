@@ -9,7 +9,7 @@ laatste_update: 2026-08-29
 status: geldig
 toestand: 2026-08-29
 bron: "https://wetten.overheid.nl/BWBR0053060"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, van 27 augustus 2026 nr. WJZ/ 108138817, tot het zich voordoen van een bijzondere omstandigheid als bedoeld in de artikelen 4.1187, derde lid en 4.1188, derde lid, van het Besluit activiteiten leefomgeving en 19.0 van de Omgevingswet in verband met extreme weersomstandigheden in combinatie met een landbouwkundige noodzaak

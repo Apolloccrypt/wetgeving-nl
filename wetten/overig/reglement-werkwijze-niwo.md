@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Nationale en Internationale Wegvervoer Organisatie van 2 januari 2017, tot vaststelling van een reglement (Reglement werkwijze NIWO)"
+citeertitel: "Reglement werkwijze NIWO"
 identifier: "BWBR0046699"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-05-25"
-last_updated: "2022-05-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046699"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16366983"
-version_id: "28644672"
-internal_id: "C40420431"
-label_id: "16291274"
-dtd_version: "2.0"
-original_entry_into_force: "2022-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046699/2022-05-25/0"
-intitule_bron: "Stcrt.2022-13643"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2017-01-02"
-intitule_published: "2022-05-24"
-intitule_in_force: "2022-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-13643"
-original_signed_date: "2017-01-02"
-original_published_date: "2022-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-13643"
-entry_into_force_date: "2022-05-25"
-jci_1_3: "jci1.3:c:BWBR0046699&z=2022-05-25&g=2022-05-25"
-jci_1_0: "1.0:c:BWBR0046699&g=2022-05-25"
-citeertitel_status: "officieel"
-short_title: "Reglement werkwijze NIWO"
-signed_date: "2017-01-02"
-entry_into_force: "2022-05-25"
+publicatiedatum: 2022-05-25
+laatste_update: 2022-05-25
+status: geldig
+toestand: 2022-05-25
+bron: "https://wetten.overheid.nl/BWBR0046699"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Nationale en Internationale Wegvervoer Organisatie van 2 januari 2017, tot vaststelling van een reglement (Reglement werkwijze NIWO)
-
-Gezien de goedkeuring van de Minister van Infrastructuur en Milieu van 13 december 2016;
-
-Gelet op [artikel 4.2 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.2);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,21 +20,23 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **Aanwijzende organisatie:** een organisatie, instelling, stichting, vereniging of andere entiteit die op grond van dit reglement bevoegd is om een lid aan te wijzen voor de Sectorraad;
+- *Aanwijzende organisatie:* een organisatie, instelling, stichting, vereniging of andere entiteit die op grond van dit reglement bevoegd is om een lid aan te wijzen voor de Sectorraad;
 
-- **directie:** de directie van de NIWO, bedoeld in [artikel 4.3 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.3);
+- *directie:* de directie van de NIWO, bedoeld in [artikel 4.3 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.3);
 
-- **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- **Minister:** de Minister van Infrastructuur en Waterstaat;
+- *Minister:* de Minister van Infrastructuur en Waterstaat;
 
-- **Ministerie:** het Ministerie van Infrastructuur en Waterstaat;
+- *Ministerie:* het Ministerie van Infrastructuur en Waterstaat;
 
-- **NIWO:** het zelfstandig bestuursorgaan Nationale en Internationale Wegvervoer Organisatie, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1);
+- *NIWO:* het zelfstandig bestuursorgaan Nationale en Internationale Wegvervoer Organisatie, bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1);
 
-- **Sectorraad:** voorziening van gebruikers als bedoeld in [artikel 19, lid 2 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19);
+- *Sectorraad:* voorziening van gebruikers als bedoeld in [artikel 19, lid 2 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19);
 
-- **Wwg:** [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
+- *Wwg:*
+ [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800).
 
 ### Hoofdstuk 2. Organen van de niwo
 
@@ -399,5 +373,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Reglement werkwijze NIWO.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

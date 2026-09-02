@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid van 17 maart 2022, nr. 3891150, houdende verlening van ondermandaat aan het hoofd van de sector Juridische Zaken en Wetgevingsbeleid (Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022)"
+citeertitel: "Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022"
 identifier: "BWBR0046449"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-23"
-last_updated: "2019-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046449"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16303223"
-version_id: "28488862"
-internal_id: "C40200151"
-label_id: "16228674"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046449/2022-03-23/0"
-intitule_bron: "Stcrt.2022-7648"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-03-17"
-intitule_published: "2022-03-22"
-intitule_in_force: "2022-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-7648"
-original_signed_date: "2022-03-17"
-original_published_date: "2022-03-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-7648"
-entry_into_force_date: "2022-03-23"
-jci_1_3: "jci1.3:c:BWBR0046449&z=2022-03-23&g=2022-03-23"
-jci_1_0: "1.0:c:BWBR0046449&g=2022-03-23"
-citeertitel_status: "officieel"
-short_title: "Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022"
-signed_date: "2022-03-17"
-entry_into_force: "2022-03-23"
+publicatiedatum: 2022-03-23
+laatste_update: 2022-03-23
+status: geldig
+toestand: 2022-03-23
+bron: "https://wetten.overheid.nl/BWBR0046449"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de directeur Wetgeving en Juridische Zaken van het Ministerie van Justitie en Veiligheid van 17 maart 2022, nr. 3891150, houdende verlening van ondermandaat aan het hoofd van de sector Juridische Zaken en Wetgevingsbeleid (Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022)
-
-Gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3), de [mandaatbesluiten van de hoofden van de clusters](https://wetten.overheid.nl/jci1.3:c:BWBR0041688), bedoeld in [artikel 2, tweede lid, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2), en het [hoofd van het WODC](https://wetten.overheid.nl/jci1.3:c:BWBR0046408);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -54,10 +28,8 @@ Het [ondermandaatbesluit DWJZ Ministerie van Veiligheid en Justitie 2016](https:
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatsten werkt terug tot en met 20 september 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatsten werkt terug tot en met 20 september 2019.
 
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Ondermandaatbesluit DWJZ Ministerie van Justitie en Veiligheid 2022.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

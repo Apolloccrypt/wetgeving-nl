@@ -1,40 +1,17 @@
 ---
 title: "Regeling bezwaaradviescommissie Tweede Kamer"
 identifier: "BWBR0047170"
-country: "nl"
-rank: "reglement"
-publication_date: "2022-09-15"
-last_updated: "2022-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047170"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "16487823"
-version_id: "28895652"
-internal_id: "C40911881"
-label_id: "16409724"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047170/2022-09-15/0"
-intitule_bron: "Kst.2022-36111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-15"
-intitule_published: "2022-09-21"
-intitule_in_force: "2022-09-21"
-intitule_status: "goed"
-original_publication: "Kst.2022-36111"
-original_signed_date: "2022-09-15"
-original_published_date: "2022-09-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2022-09-15"
-jci_1_3: "jci1.3:c:BWBR0047170&z=2022-09-15&g=2022-09-15"
-jci_1_0: "1.0:c:BWBR0047170&g=2022-09-15"
-citeertitel_status: "officieel"
-signed_date: "2022-09-15"
-entry_into_force: "2022-09-15"
+publicatiedatum: 2022-09-15
+laatste_update: 2022-09-15
+status: geldig
+toestand: 2022-09-15
+bron: "https://wetten.overheid.nl/BWBR0047170"
+opgehaald: 2026-09-02
 ---
-# Regeling bezwaaradviescommissie Tweede Kamer
 
-De regeling, bedoeld in [artikel 7.10a van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=7.10a), wordt als volgt vastgesteld:
+# Regeling bezwaaradviescommissie Tweede Kamer
 
 ### Hoofdstuk 1. Begripsbepalingen
 

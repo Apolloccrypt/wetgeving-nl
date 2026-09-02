@@ -1,60 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 28 juli 2022 nr. BOACAT BOACAT2022/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Valkenburg aan de Geul 2022"
 identifier: "BWBR0047035"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-18"
-last_updated: "2022-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047035"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16451273"
-version_id: "28823472"
-internal_id: "C40805651"
-label_id: "16374084"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047035/2022-09-18/0"
-intitule_bron: "Stcrt.2022-20463"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-28"
-intitule_published: "2022-08-04"
-intitule_in_force: "2022-08-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-20463"
-original_signed_date: "2022-07-28"
-original_published_date: "2022-08-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-20463"
-entry_into_force_date: "2022-09-18"
-jci_1_3: "jci1.3:c:BWBR0047035&z=2022-09-18&g=2022-09-18"
-jci_1_0: "1.0:c:BWBR0047035&g=2022-09-18"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Valkenburg aan de Geul 2022"
-signed_date: "2022-07-28"
-entry_into_force: "2022-09-18"
+publicatiedatum: 2022-09-18
+laatste_update: 2022-09-18
+status: geldig
+toestand: 2022-09-18
+bron: "https://wetten.overheid.nl/BWBR0047035"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 28 juli 2022 nr. BOACAT BOACAT2022/053, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul
-
-Gelezen het verzoek van Afdelingshoofd Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul van 14 juli 2022 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Limburg en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +24,7 @@ De personen, werkzaam in de functie van Toezichthouder Integraal-Boa Domein I en
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -88,7 +46,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 7
 
-1. De gemeente Valkenburg aan de Geul brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Valkenburg aan de Geul brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047035&artikel=2&z=2022-09-18&g=2022-09-18) genoemde functie;
 
@@ -106,12 +64,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul in het domein I, Openbare Ruimte van 5 juli 2017 nr. BOACAT2017/045](https://wetten.overheid.nl/jci1.3:c:BWBR0039782) zal vervallen op 18 september 2022.
+Het [Besluit buitengewoon opsporingsambtenaar Afdeling Veiligheid Toezicht en Handhaving van de gemeente Valkenburg aan de Geul in het domein I, Openbare Ruimte van 5 juli 2017 nr. BOACAT2017/045](https://wetten.overheid.nl/jci1.3:c:BWBR0039782) zal vervallen op 18 september 2022.
 
-Dit besluit treedt in werking met ingang van 18 september 2022 en vervalt met ingang van 18 september 2027.
+Dit besluit treedt in werking met ingang van 18 september 2022 en vervalt met ingang van 18 september 2027.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Valkenburg aan de Geul 2022.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

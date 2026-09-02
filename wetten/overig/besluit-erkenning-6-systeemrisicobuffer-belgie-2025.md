@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-28
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0047798"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-02
 ---
 
 # Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de sinds 1 mei 2022 van toepassing zijnde macroprudentiële maatregel van de Nationale Bank van België inhoudende een systeemrisicobufferpercentage van 9% (Besluit erkenning 9% systeemrisicobuffer België 2022)

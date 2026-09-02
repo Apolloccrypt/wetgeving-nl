@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 29 januari 2022, kenmerk 3817562, houdende instelling van de Commissie Waarborgen Werken Onder Dekmantel (Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel)"
+citeertitel: "Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel"
 identifier: "BWBR0046458"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-03-24"
-last_updated: "2022-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046458"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16304623"
-version_id: "28491532"
-internal_id: "C40205571"
-label_id: "16230194"
-dtd_version: "2.0"
-original_entry_into_force: "2022-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046458/2022-03-24/0"
-intitule_bron: "Stcrt.2022-7403"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-01-29"
-intitule_published: "2022-03-23"
-intitule_in_force: "2022-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-7403"
-original_signed_date: "2022-01-29"
-original_published_date: "2022-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-7403"
-entry_into_force_date: "2022-03-24"
-jci_1_3: "jci1.3:c:BWBR0046458&z=2022-03-24&g=2022-03-24"
-jci_1_0: "1.0:c:BWBR0046458&g=2022-03-24"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel"
-signed_date: "2022-01-29"
-entry_into_force: "2022-03-24"
+publicatiedatum: 2022-03-24
+laatste_update: 2022-03-24
+status: geldig
+toestand: 2022-03-24
+bron: "https://wetten.overheid.nl/BWBR0046458"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 29 januari 2022, kenmerk 3817562, houdende instelling van de Commissie Waarborgen Werken Onder Dekmantel (Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** Commissie Waarborgen Werken Onder Dekmantel
+- b. *commissie:* Commissie Waarborgen Werken Onder Dekmantel
 
 ##### Artikel 2. Instelling en taak
 
@@ -166,10 +140,8 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,42 +1,43 @@
 ---
-title: "Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2022, 2022-0000079265, tot instelling van het Adviespanel beoordeling Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies (Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)"
+citeertitel: "Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies"
 identifier: "BWBR0046651"
-categorie: "Overig"
-publicatiedatum: 2026-07-17
-laatste_update: 2026-07-21
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-05-23
+laatste_update: 2026-07-17
 status: geldig
+toestand: 2026-07-17
 bron: "https://wetten.overheid.nl/BWBR0046651"
+opgehaald: 2026-09-02
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 april 2022, 2022-0000079265, tot instelling van het Adviespanel beoordeling Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies (Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies)
-
-Gelet op de [artikelen 12 van de Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=12) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **adviespanel:** Adviespanel beoordeling aanvragen [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626), bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=2&z=2026-07-17&g=2026-07-17);
+- *adviespanel:* Adviespanel beoordeling aanvragen [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626), bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=2&z=2026-07-17&g=2026-07-17);
 
-- **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- **oriënterend adviesgesprek:** adviesgesprek waar vrijblijvend om kan worden verzocht ter bespreking van een beknopt plan van aanpak voor voorgenomen activiteiten, als bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a);
+- *oriënterend adviesgesprek:* adviesgesprek waar vrijblijvend om kan worden verzocht ter bespreking van een beknopt plan van aanpak voor voorgenomen activiteiten, als bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a);
 
-- **regeling:** [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626).
+- *regeling:*
+ [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626).
 
 ##### Artikel 2. Instelling adviespanel
 
 1. Er is een Adviespanel beoordeling aanvragen [Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies](https://wetten.overheid.nl/jci1.3:c:BWBR0046626).
 
-2. Het adviespanel wordt ingesteld met ingang van 23 mei 2022 en wordt opgeheven met ingang van 23 mei 2028.
+2. Het adviespanel wordt ingesteld met ingang van 23 mei 2022 en wordt opgeheven met ingang van 23 mei 2028.
 
-3. Leden van het adviespanel zijn ook na 23 mei 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=3&z=2026-07-17&g=2026-07-17) genoemde taken van het adviespanel.
+3. Leden van het adviespanel zijn ook na 23 mei 2028 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046651&artikel=3&z=2026-07-17&g=2026-07-17) genoemde taken van het adviespanel.
 
 ##### Artikel 3. Taken
 
-1. Het adviespanel is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9), het voeren van de oriënterend adviesgesprekken, bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a).
+1. Het adviespanel is belast met het beoordelen van de subsidieaanvragen, bedoeld in [artikel 9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9), het voeren van de oriënterend adviesgesprekken, bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a).
 
 2. Het adviespanel brengt per aanvraagtijdvak als bedoeld in [artikel 6 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=6) een advies uit aan de Minister over de subsidieaanvragen. Dit advies bevat:
 
@@ -44,15 +45,15 @@ In deze regeling wordt verstaan onder:
 
 - b. een voorstel voor de rangschikking van de voldoende beoordeelde aanvragen, bedoeld in [artikel 11, tweede tot en met vijfde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11);
 
-- c. een overzicht van de aanvragen uit de rangschikking, bedoeld in onderdeel b, waarbij het aangevraagde subsidiebedrag naar het oordeel van het adviespanel voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3);
+- c. een overzicht van de aanvragen uit de rangschikking, bedoeld in onderdeel b, waarbij het aangevraagde subsidiebedrag naar het oordeel van het adviespanel voor ten minste 50% ziet op het doel als bedoeld in [artikel 3, tweede lid, onderdeel e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=3);
 
 - d. of er naar het oordeel van het adviespanel sprake is van aanvragen die vergelijkbaar zijn met betrekking tot de beoogde activiteiten en de verwachte kennisbijdrage, als bedoeld in [artikel 15, onderdeel e, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=15); en
 
 - e. een deugdelijke motivering per beoordeling.
 
-3. Het adviespanel voert na het tijdvak, bedoeld in [artikel 11a, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a) een oriënterend adviesgesprek als bedoeld in artikel 11a van de regeling over de voorgenomen activiteiten met een partij als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13) die voornemens is deel te nemen aan een samenwerkingsverband en een complete aanvraag voor het voeren van een oriënterend adviesgesprek heeft ingediend. Het oriënterend adviesgesprek wordt gevoerd op basis van:
+3. Het adviespanel voert na het tijdvak, bedoeld in [artikel 11a, derde lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a) een oriënterend adviesgesprek als bedoeld in artikel 11a van de regeling over de voorgenomen activiteiten met een partij als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13) die voornemens is deel te nemen aan een samenwerkingsverband en een complete aanvraag voor het voeren van een oriënterend adviesgesprek heeft ingediend. Het oriënterend adviesgesprek wordt gevoerd op basis van:
 
-- a. de informatie, bedoeld in [artikel 11a, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a); en
+- a. de informatie, bedoeld in [artikel 11a, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a); en
 
 - b. hetgeen tijdens het oriënterend adviesgesprek naar voren wordt gebracht.
 
@@ -60,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 1. Het adviespanel voert de taken met betrekking tot de subsidieaanvragen, bedoeld in [artikel 9 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=9), telkens na afloop van een aanvraagtijdvak, binnen vijftien weken uit.
 
-2. Het adviespanel voert een oriënterend adviesgesprek, bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a), binnen twee tot zes weken na afloop van het tijdvak, bedoeld in artikel 11a, derde lid. Het adviespanel nodigt een partij als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13) ten minste één week van tevoren voor dat oriënterende adviesgesprek uit.
+2. Het adviespanel voert een oriënterend adviesgesprek, bedoeld in [artikel 11a van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=11a), binnen twee tot zes weken na afloop van het tijdvak, bedoeld in artikel 11a, derde lid. Het adviespanel nodigt een partij als bedoeld in [artikel 13, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046626&artikel=13) ten minste één week van tevoren voor dat oriënterende adviesgesprek uit.
 
 ##### Artikel 5. Samenstelling, benoeming en ontslag
 
@@ -122,10 +123,8 @@ Het adviespanel draagt zo spoedig mogelijk na beëindiging van zijn werkzaamhede
 
 ##### Artikel 13. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van 23 mei 2022 en vervalt met ingang van 23 mei 2028.
+Deze regeling treedt in werking met ingang van 23 mei 2022 en vervalt met ingang van 23 mei 2028.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviespanel beoordeling aanvragen Tijdelijke subsidieregeling onderzoek en experimenten duurzame inzetbaarheidsinterventies.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

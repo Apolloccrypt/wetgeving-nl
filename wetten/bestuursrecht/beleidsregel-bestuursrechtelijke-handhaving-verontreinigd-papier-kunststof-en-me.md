@@ -1,69 +1,70 @@
 ---
-title: "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof-, en metaalafval 2022"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 februari 2022, nr. IENW/ILT-2022/12059, houdende vaststelling van beleid inzake de kwalificatie van verontreinigd papier-, kunststof- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EG) Nr. 1013/2006 van het Europees Parlement en Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)"
+citeertitel: "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof-, en metaalafval 2022"
 identifier: "BWBR0046496"
 categorie: "Bestuursrecht"
+soort: "beleidsregel"
 publicatiedatum: 2022-04-01
-laatste_update: 2026-05-21
+laatste_update: 2022-04-01
 status: vervallen
+vervallen_op: 2026-05-20
+toestand: 2022-04-01
 bron: "https://wetten.overheid.nl/BWBR0046496"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-02
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat, van 21 februari 2022, nr. IENW/ILT-2022/12059, houdende vaststelling van beleid inzake de kwalificatie van verontreinigd papier-, kunststof- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EG) Nr. 1013/2006 van het Europees Parlement en Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)
-
-Gelet op [artikel 7 van het Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740&artikel=7) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanhangende olie:** olie die resteert nadat oliehoudend ijzer- en staal(ferro) schroot en non-ferro schroot gedurende ten minste 48 uur bij een temperatuur die hoger is dan 15 graden Celsius is uitgelekt;
+- *aanhangende olie:* olie die resteert nadat oliehoudend ijzer- en staal(ferro) schroot en non-ferro schroot gedurende ten minste 48 uur bij een temperatuur die hoger is dan 15 graden Celsius is uitgelekt;
 
-- **bestuursrechtelijke handhaving:** bestuursrechtelijke handhaving van de bij of krachtens de EVOA gestelde verplichtingen als opgedragen aan de Minister van Infrastructuur en Waterstaat bij [artikel 18.2b, eerste lid, onderdeel d, en vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) in samenhang met [artikel 5.15 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.15) en [Hoofdstuk 5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5);
+- *bestuursrechtelijke handhaving:* bestuursrechtelijke handhaving van de bij of krachtens de EVOA gestelde verplichtingen als opgedragen aan de Minister van Infrastructuur en Waterstaat bij [artikel 18.2b, eerste lid, onderdeel d, en vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) in samenhang met [artikel 5.15 van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.15) en [Hoofdstuk 5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5);
 
-- **EVOA**: [Verordening (EU) nr. 1013/2006](32006R1013), van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);
+- *EVOA*: Verordening (EU) nr. 1013/2006, van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);
 
-- **huishoudelijk afval (Y46):** afvalstof als bedoeld in bijlage V, deel 3 onder Y46 van de EVOA;
+- *huishoudelijk afval (Y46):* afvalstof als bedoeld in bijlage V, deel 3 onder Y46 van de EVOA;
 
-- **gevaarlijke afvalstof:** afvalstof die een of meer van de in bijlage III bij de Kader richtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit;
+- *gevaarlijke afvalstof:* afvalstof die een of meer van de in bijlage III bij de Kader richtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit;
 
-- **ILT:** Inspectie Leefomgeving en Transport;
+- *ILT:* Inspectie Leefomgeving en Transport;
 
-- **inspecteur:** toezichthouder als bedoeld in [artikel 5.11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die werkzaam is bij de ILT;
+- *inspecteur:* toezichthouder als bedoeld in [artikel 5.11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die werkzaam is bij de ILT;
 
-- **Kaderrichtlijn afvalstoffen:** [Richtlijn 2008/98/EG](32008L0098) van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen;
+- *Kaderrichtlijn afvalstoffen:*
+ Richtlijn 2008/98/EG van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen;
 
-- **kunststofafval A3210:** afvalstof zoals omschreven in bijlage V, deel 1, onder A3210 van de EVOA;
+- *kunststofafval A3210:* afvalstof zoals omschreven in bijlage V, deel 1, onder A3210 van de EVOA;
 
-- **kunststofafval AC300:** afvalstof zoals omschreven in bijlage IV, deel 2 onder AC300 van de EVOA;
+- *kunststofafval AC300:* afvalstof zoals omschreven in bijlage IV, deel 2 onder AC300 van de EVOA;
 
-- **kunststofafval EU48:** afvalstof zoals omschreven in bijlage IV, deel 1, onder EU48 van de EVOA;
+- *kunststofafval EU48:* afvalstof zoals omschreven in bijlage IV, deel 1, onder EU48 van de EVOA;
 
-- **kunststofafval Y48:** afvalstof zoals omschreven in bijlage V, deel 3, onder Y48 van de EVOA;
+- *kunststofafval Y48:* afvalstof zoals omschreven in bijlage V, deel 3, onder Y48 van de EVOA;
 
-- **niet-ingedeelde afvalstof:** afvalstof als bedoeld in artikel 3, eerste lid, onderdeel b, onder iii of iv, van de EVOA;
+- *niet-ingedeelde afvalstof:* afvalstof als bedoeld in artikel 3, eerste lid, onderdeel b, onder iii of iv, van de EVOA;
 
-- **partij:** hoeveelheid afval die uit het oogpunt van haar wijze van opslag of vervoer en uit het oogpunt van (deel)proces van oorsprong als eenheid wordt beschouwd;
+- *partij:* hoeveelheid afval die uit het oogpunt van haar wijze van opslag of vervoer en uit het oogpunt van (deel)proces van oorsprong als eenheid wordt beschouwd;
 
-- **R3-handeling:** recycling of terugwinning van organische stoffen die niet als oplosmiddelen worden gebruikt, zoals omschreven in bijlage II onder R3 van de kaderrichtlijn afvalstoffen;
+- *R3-handeling:* recycling of terugwinning van organische stoffen die niet als oplosmiddelen worden gebruikt, zoals omschreven in bijlage II onder R3 van de kaderrichtlijn afvalstoffen;
 
-- **tijdelijke opslag:** het uitvoeren van een voorlopige handeling, zoals bedoeld artikel 2, zevende lid, van de EVOA, en aangemerkt als R12 en R13 handeling van nuttige toepassing zoals omschreven in bijlage II van de kaderrichtlijn afvalstoffen.
+- *tijdelijke opslag:* het uitvoeren van een voorlopige handeling, zoals bedoeld artikel 2, zevende lid, van de EVOA, en aangemerkt als R12 en R13 handeling van nuttige toepassing zoals omschreven in bijlage II van de kaderrichtlijn afvalstoffen.
 
 ##### Artikel 2. Criteria papierafval
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld papierafval, bestaande uit:
 
-- –. ongebleekt papier en karton of gegolfd papier en golfkarton;
+- – ongebleekt papier en karton of gegolfd papier en golfkarton;
 
-- –. overig papier en karton, hoofdzakelijk gemaakt van gebleekt chemisch pulp, dat niet in bulk is gekleurd;
+- – overig papier en karton, hoofdzakelijk gemaakt van gebleekt chemisch pulp, dat niet in bulk is gekleurd;
 
-- –. papier en karton, hoofdzakelijk gemaakt van gebleekt mechanisch pulp, bijvoorbeeld kranten, tijdschriften en soortgelijk drukwerk;
+- – papier en karton, hoofdzakelijk gemaakt van gebleekt mechanisch pulp, bijvoorbeeld kranten, tijdschriften en soortgelijk drukwerk;
 
-- –. overig papierafval, met inbegrip van gelamineerd karton en ongesorteerd afval, of
+- – overig papierafval, met inbegrip van gelamineerd karton en ongesorteerd afval, of
 
-- –. een mengsel van papierafval bestaande uit de eerste drie gedachtestreepjes,
+- – een mengsel van papierafval bestaande uit de eerste drie gedachtestreepjes,
 
 in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als papierafval als bedoeld in bijlage III(A) en zoals omschreven bij code B3020 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede tot en met het vijfde lid. Indien de inspecteur constateert dat de partij papierafval niet voldoet aan deze criteria, wordt de partij als een niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -200,5 +201,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel bestuursrechtelijke handhav
 ##### Artikel 15
 
 De [Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof- en metaalafval 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037272) wordt ingetrokken.
-
-Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.

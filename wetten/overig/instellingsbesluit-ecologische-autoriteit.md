@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister voor Natuur en Stikstof van 9 september 2022, nr. WJZ/22306358, tot instelling van de Ecologische Autoriteit (Instellingsbesluit Ecologische Autoriteit)"
+citeertitel: "Instellingsbesluit Ecologische Autoriteit"
 identifier: "BWBR0047147"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-09-19"
-last_updated: "2022-09-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047147"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16481973"
-version_id: "28883702"
-internal_id: "C40889731"
-label_id: "16403784"
-dtd_version: "2.0"
-original_entry_into_force: "2022-09-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047147/2022-09-19/0"
-intitule_bron: "Stcrt.2022-24607"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-09"
-intitule_published: "2022-09-15"
-intitule_in_force: "2022-09-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-24607"
-original_signed_date: "2022-09-09"
-original_published_date: "2022-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-24607"
-entry_into_force_date: "2022-09-19"
-jci_1_3: "jci1.3:c:BWBR0047147&z=2022-09-19&g=2022-09-19"
-jci_1_0: "1.0:c:BWBR0047147&g=2022-09-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Ecologische Autoriteit"
-signed_date: "2022-09-09"
-entry_into_force: "2022-09-19"
+publicatiedatum: 2022-09-19
+laatste_update: 2022-09-19
+status: geldig
+toestand: 2022-09-19
+bron: "https://wetten.overheid.nl/BWBR0047147"
+opgehaald: 2026-09-02
 ---
+
 # Besluit van de Minister voor Natuur en Stikstof van 9 september 2022, nr. WJZ/22306358, tot instelling van de Ecologische Autoriteit (Instellingsbesluit Ecologische Autoriteit)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **autoriteit:** Ecologische Autoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047147&artikel=2&z=2022-09-19&g=2022-09-19);
+- a. *autoriteit:* Ecologische Autoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047147&artikel=2&z=2022-09-19&g=2022-09-19);
 
-- b. **minister:** Minister voor Natuur en Stikstof;
+- b. *minister:* Minister voor Natuur en Stikstof;
 
-- c. **stichting:** Stichting Bureau Commissie voor de milieueffectrapportage.
+- c. *stichting:* Stichting Bureau Commissie voor de milieueffectrapportage.
 
 ##### Artikel 2. Instelling
 
@@ -78,19 +52,19 @@ De autoriteit is onafhankelijk en heeft tot taak om vanuit haar deskundigheid:
 
 Ter gelegenheid van de instelling van de autoriteit worden tot voorzitter en plaatsvervangend voorzitters van de autoriteit benoemd:
 
-- a. de heer J.T. Mommaas te Maastricht, tevens voorzitter, voor de periode vanaf 1 november 2022 tot 1 november 2026;
+- a. de heer J.T. Mommaas te Maastricht, tevens voorzitter, voor de periode vanaf 1 november 2022 tot 1 november 2026;
 
-- b. mevrouw M.W.J.A. van Gool te Leidschendam, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 april 2023;
+- b. mevrouw M.W.J.A. van Gool te Leidschendam, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 april 2023;
 
-- c. mevrouw M.A.J. van der Tas te Heerde, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 14 juni 2028;
+- c. mevrouw M.A.J. van der Tas te Heerde, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 14 juni 2028;
 
-- d. de heer H.A.A.M. Webers te Deventer, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 december 2025;
+- d. de heer H.A.A.M. Webers te Deventer, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 december 2025;
 
-- e. mevrouw J.G.M. van Rhijn te Noordwijk (Zuid-Holland), tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 3 september 2025;
+- e. mevrouw J.G.M. van Rhijn te Noordwijk (Zuid-Holland), tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 3 september 2025;
 
-- f. mevrouw A.M. Burger te Veghel, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 mei 2024;
+- f. mevrouw A.M. Burger te Veghel, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 1 mei 2024;
 
-- g. de heer C.T. Slingerland te Oosterhuizen, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 9 januari 2030.
+- g. de heer C.T. Slingerland te Oosterhuizen, tevens plaatsvervangend voorzitter, voor de periode vanaf inwerkingtreding van dit besluit tot 9 januari 2030.
 
 ##### Artikel 6. Instellingsduur
 
@@ -146,10 +120,8 @@ De voorzitter en plaatsvervangende voorzitters van de autoriteit, voor zover nie
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 19 september 2022.
+Dit besluit treedt in werking met ingang van 19 september 2022.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ecologische Autoriteit.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

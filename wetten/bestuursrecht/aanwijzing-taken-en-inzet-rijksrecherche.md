@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing taken en inzet rijksrecherche"
 identifier: "BWBR0046819"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-07-01"
-last_updated: "2022-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0046819"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16395913"
-version_id: "28712042"
-internal_id: "C40557801"
-label_id: "16320334"
-dtd_version: "2.0"
-original_entry_into_force: "2022-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0046819/2022-07-01/0"
-intitule_bron: "Stcrt.2022-16636"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-06-27"
-intitule_in_force: "2022-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-16636"
-original_published_date: "2022-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-16636"
-entry_into_force_date: "2022-07-01"
-jci_1_3: "jci1.3:c:BWBR0046819&z=2022-07-01&g=2022-07-01"
-jci_1_0: "1.0:c:BWBR0046819&g=2022-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-07-01"
+publicatiedatum: 2022-07-01
+laatste_update: 2022-07-01
+status: geldig
+toestand: 2022-07-01
+bron: "https://wetten.overheid.nl/BWBR0046819"
+opgehaald: 2026-09-02
 ---
+
 # Aanwijzing taken en inzet rijksrecherche
 
 ### Samenvatting
@@ -40,7 +21,7 @@ Deze aanwijzing beschrijft met welke zaken de rijksrecherche is of kan worden be
 
 De rijksrecherche is van oudsher een opsporingsinstantie met een speciale taak. Zij richt zich op de opsporing van door ambtenaren/overheidsfunctionarissen gepleegde misdrijven. Niet alle door deze functionarissen gepleegde misdrijven worden echter door de rijksrecherche onderzocht. Haar taken en inzet zijn afgebakend. Het doel van deze aanwijzing is dan ook ervoor te zorgen dat de rijksrecherche met name opereert op het terrein van die strafbare feiten die in ernstige mate de integriteit van de rechtspleging en het openbaar bestuur raken. De rijksrecherche wordt in beginsel niet belast met disciplinaire (integriteits)onderzoeken. De rijksrecherche voert oriënterende onderzoeken, feitenonderzoeken als bedoeld in [artikel 511a Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511a) en opsporingsonderzoeken uit. Voor de oriënterende onderzoeken geldt dat het moet gaan om onderzoeken naar gedragingen, feiten en omstandigheden waaraan een strafrechtelijk aspect kleeft. Feitenonderzoeken zoals bedoeld in [artikel 511a Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511a) zijn onderzoeken gericht op de vraag of het door een opsporingsambtenaar toegepaste geweld in overeenstemming is met de geweldsinstructie. Bij een oriënterend onderzoek kunnen geen opsporingsbevoegdheden of dwangmiddelen worden ingezet, bij een feitenonderzoek als bedoeld in [artikel 511a Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=511a) kan dat wel. De opsporingsonderzoeken die de rijksrecherche doet richten zich op de opsporing van misdrijven; voor (uitsluitend) overtredingen wordt de rijksrecherche niet ingeschakeld.
 
-Bij besluit van het College van procureurs-generaal van 16 januari 2001 is de Coördinatiecommissie Rijksrecherche (CCR) ingesteld. De CCR – voorgezeten door het lid van het College van procureurs-generaal dat belast is met de portefeuille rijksrecherche – beslist uiteindelijk over de inzet van de rijksrecherche, bepaalt het beleid voor de inzet van de rijksrecherche en toetst waar nodig de prioritering van de inzet van de rijksrecherche door de directie van de rijksrecherche en de landelijk coördinerend officier van justitie rijksrecherche (LOvJ RR)1Landelijk Parket, Team Informatie en Operationele Coördinatie (TIOC)..
+Bij besluit van het College van procureurs-generaal van 16 januari 2001 is de Coördinatiecommissie Rijksrecherche (CCR) ingesteld. De CCR – voorgezeten door het lid van het College van procureurs-generaal dat belast is met de portefeuille rijksrecherche – beslist uiteindelijk over de inzet van de rijksrecherche, bepaalt het beleid voor de inzet van de rijksrecherche en toetst waar nodig de prioritering van de inzet van de rijksrecherche door de directie van de rijksrecherche en de landelijk coördinerend officier van justitie rijksrecherche (LOvJ RR)1Landelijk Parket, Team Informatie en Operationele Coördinatie (TIOC)..
 
 De rijksrecherche kan gelet op haar bijzondere expertise bijstand verlenen aan andere opsporingsdiensten. De rijksrecherche kan op grond van [artikel 60 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=60) zelf ook bijstand vragen van de politie.
 
@@ -49,6 +30,10 @@ De rijksrecherche kan gelet op haar bijzondere expertise bijstand verlenen aan a
 Als algemeen uitgangspunt geldt dat de rijksrecherche is belast met onderzoeken naar misdrijven, gepleegd door functionarissen in dienst van de (semi)overheid, waardoor de integriteit van de overheid ernstig is of kan worden aangetast.
 
 Daarnaast is de inzet van de rijksrecherche aangewezen:
+
+- − in onderzoeken waarin de objectiviteit en onafhankelijkheid van de onderzoekende instantie van groot belang zijn en iedere schijn van partijdigheid moet worden vermeden;
+
+- − in onderzoeken waarin de bijzondere expertise van de rijksrecherche nodig is, delicate verhoudingen een rol spelen of in verband waarmee maatschappelijke onrust is ontstaan.
 
 Zaken die zich lenen voor inzet van de rijksrecherche zijn onder te verdelen in ‘typische rijksrecherchezaken’ (zaken die in beginsel zonder meer moeten worden ondergebracht bij de rijksrecherche) en ‘mogelijke rijksrecherchezaken’ (zaken waarbij de inzet van de rijksrecherche een goed denkbare optie is).
 
@@ -59,6 +44,14 @@ Bij de prioritering van onderzoeken geldt in het algemeen dat ‘typische rijksr
 ### 2a. Typische rijksrecherchezaken:
 
 ### I. Aan de functie te relateren verdenkingen van misdrijven, gepleegd door:
+
+- – opsporingsambtenaren;
+
+- – functionarissen werkzaam bij het Openbaar Ministerie;
+
+- – functionarissen werkzaam bij een met rechtspraak belaste instantie;
+
+- – politieke en bestuurlijke ambtsdragers.2Bijvoorbeeld burgemeesters, gedeputeerden, gemeenteraadsleden, hogere ambtenaren van de centrale overheid en decentrale overheden, zoals kabinetschefs en gemeentesecretarissen. Ten aanzien van leden van de Staten-Generaal en ten aanzien van bewindspersonen geldt een afzonderlijk protocol (Stcrt. 2018, 3803).
 
 Toelichting:
 
@@ -85,6 +78,14 @@ Van een dergelijk geval is bijvoorbeeld sprake wanneer iemand tijdens de aanhoud
 ### 2b. Mogelijke rijksrecherchezaken
 
 ### I. Niet aan de functie te relateren misdrijven gepleegd door:
+
+- • opsporingsambtenaren;
+
+- • functionarissen werkzaam bij het openbaar ministerie;
+
+- • functionarissen werkzaam bij een met rechtspraak belaste instantie;
+
+- • politieke en bestuurlijke ambtsdragers.
 
 Toelichting:
 
@@ -126,9 +127,19 @@ Over de inhoudelijke aansturing van het rijksrecherche-onderzoek beslist het beh
 
 ### Spoedeisende zaken
 
-Op incidenten van de categorieën beschreven in paragraaf 2A (typische rijksrecherchezaken) onder II, III en IV volgt in principe altijd inzet van de rijksrecherche. Spoedig optreden is bij dergelijke incidenten noodzakelijk. Om die reden wordt in deze gevallen:
+Op incidenten van de categorieën beschreven in [paragraaf 2A](https://wetten.overheid.nl/BWBR0046819) (typische rijksrecherchezaken) onder II, III en IV volgt in principe altijd inzet van de rijksrecherche. Spoedig optreden is bij dergelijke incidenten noodzakelijk. Om die reden wordt in deze gevallen:
 
-Een onverwijlde melding is ook noodzakelijk in de gevallen zoals beschreven onder 2B.II (confrontatie tussen justitiabelen en opsporingsambtenaren met de dood of zwaar lichamelijk letsel van een opsporingsambtenaar tot gevolg).
+- − de rijksrecherche onmiddellijk en rechtstreeks gealarmeerd door/via de meldkamer van de landelijke eenheid;
+
+- − het lokale OM-onderdeel door de politie zo spoedig mogelijk ingelicht;
+
+- − door het lokale OM-onderdeel zo spoedig contact gelegd met de LOvJ RR en/of de piketfunctionaris van de RR;
+
+- − door de LOvJ RR en/of de piketfunctionaris van de RR op zo kort mogelijke termijn de inzet van de rijksrecherche bevestigd;
+
+- − de inzet van de rijksrecherche naderhand ter goedkeuring aan de CCR voorgelegd.
+
+Een onverwijlde melding is ook noodzakelijk in de gevallen zoals beschreven onder [2B.II](https://wetten.overheid.nl/BWBR0046819) (confrontatie tussen justitiabelen en opsporingsambtenaren met de dood of zwaar lichamelijk letsel van een opsporingsambtenaar tot gevolg).
 
 ### Overgangsrecht
 

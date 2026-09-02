@@ -2,18 +2,17 @@
 title: "Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022"
 identifier: "BWBR0046568"
 categorie: "Verkeer"
+soort: "zbo"
 publicatiedatum: 2022-04-19
-laatste_update: 2026-07-18
+laatste_update: 2022-04-19
 status: vervallen
+vervallen_op: 2026-07-14
+toestand: 2022-04-19
 bron: "https://wetten.overheid.nl/BWBR0046568"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-02
 ---
 
 # Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022
-
-Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022
-
-De Dienst Wegverkeer is op basis van de [Wegenverkeerswet 1994](onbekend) en het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) verantwoordelijk voor het beheer van het kentekenregister als basisregistratie (hierna: register).Verstrekkingen van gegevens uit het register vinden plaats conform de doeleinden en voorwaarden genoemd in de wet- en regelgeving en deze aanvullende voorwaarden van de RDW. Iedere aanvrager of ontvanger van gegevens uit het register conformeert zich aan deze voorwaarden.
 
 ### Hoofdstuk 1. Algemeen deel van toepassing op alle categorieën van ontvangers
 
@@ -21,39 +20,39 @@ De Dienst Wegverkeer is op basis van de [Wegenverkeerswet 1994](onbekend) en het
 
 In dit besluit wordt verstaan onder:
 
-- **aanvrager:** de persoon of instantie die de RDW verzoekt om informatie en/of gegevens uit het register beschikbaar te stellen;
+- *aanvrager:* de persoon of instantie die de RDW verzoekt om informatie en/of gegevens uit het register beschikbaar te stellen;
 
-- **beroepsbeoefenaren:** door de minister als zodanig aangewezen (groepen van) personen of instanties voor zover zij de gegevens nodig hebben voor de aangewezen doelen als bedoeld in [artikel 9, lid 1, sub a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
+- *beroepsbeoefenaren:* door de minister als zodanig aangewezen (groepen van) personen of instanties voor zover zij de gegevens nodig hebben voor de aangewezen doelen als bedoeld in [artikel 9, lid 1, sub a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
 
-- **betrokkene:** de natuurlijke persoon of rechtspersoon aan wie een kentekenbewijs is afgegeven;
+- *betrokkene:* de natuurlijke persoon of rechtspersoon aan wie een kentekenbewijs is afgegeven;
 
-- **derden:** (rechts)personen die in opdracht van één of meer ontvanger(s) geheel of gedeeltelijk de verwerking van de van de RDW verkregen gevoelige gegevens voor die ontvanger(s) uitvoeren, voor zover die derden toegang hebben tot deze gevoelige gegevens;
+- *derden:* (rechts)personen die in opdracht van één of meer ontvanger(s) geheel of gedeeltelijk de verwerking van de van de RDW verkregen gevoelige gegevens voor die ontvanger(s) uitvoeren, voor zover die derden toegang hebben tot deze gevoelige gegevens;
 
-- **gevoelig gegeven:** gegeven als bedoeld in [artikel 7, lid 2 Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
+- *gevoelig gegeven:* gegeven als bedoeld in [artikel 7, lid 2 Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
 
-- **informatieprovider:** door de minister aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden als bedoeld in [art 9 lid 1, sub b Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
+- *informatieprovider:* door de minister aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden als bedoeld in [art 9 lid 1, sub b Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
 
-- **minister:** de Minister van Infrastructuur en Waterstaat;
+- *minister:* de Minister van Infrastructuur en Waterstaat;
 
-- **niet gevoelig gegeven:** alle gegevens die niet als gevoelig zijn aangewezen, zoals bedoeld in [artikel 7, lid 3 Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
+- *niet gevoelig gegeven:* alle gegevens die niet als gevoelig zijn aangewezen, zoals bedoeld in [artikel 7, lid 3 Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
 
-- **ontvanger:** de persoon of instantie waaraan door de RDW gegevens uit het register beschikbaar worden gesteld of worden verstrekt;
+- *ontvanger:* de persoon of instantie waaraan door de RDW gegevens uit het register beschikbaar worden gesteld of worden verstrekt;
 
-- **RDW:** Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *RDW:* Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **overheidsorgaan:** voor de verstrekking van gegevens uit het register van de RDW, wordt onder overheidsorgaan als bedoeld in [art 41a WVW](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) verstaan:
+- *overheidsorgaan:* voor de verstrekking van gegevens uit het register van de RDW, wordt onder overheidsorgaan als bedoeld in [art 41a WVW](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) verstaan:
 
-  - 1. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld en een publiekrechtelijke taak uitvoert; of
+   - 1. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld en een publiekrechtelijke taak uitvoert; of
 
-  - 2. een door de minister aangewezen persoon of instantie, die een publiekrechtelijke taak uitoefent, voor zover dit met het oog op hun publieke- taakuitoefening naar het oordeel van de minister noodzakelijk is;
+   - 2. een door de minister aangewezen persoon of instantie, die een publiekrechtelijke taak uitoefent, voor zover dit met het oog op hun publieke- taakuitoefening naar het oordeel van de minister noodzakelijk is;
 
-- **overige belanghebbenden:** alle andere aanvragers dan de aanvragers die specifiek zijn benoemd;
+- *overige belanghebbenden:* alle andere aanvragers dan de aanvragers die specifiek zijn benoemd;
 
-- **WVW:** de [Wegenverkeerswet 1994](onbekend).
+- *WVW:* de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622).
 
 ##### Artikel 2. Werkingssfeer
 
-Deze bepalingen zijn van toepassing op de aanvragers en ontvangers van gegevens uit het register. De bepalingen zijn aanvullend op en ter uitwerking van de regels voor de aanvraag en het gebruik van gegevens in de [WVW](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) en de aanwijzingsbeschikkingen van de minister.
+Deze bepalingen zijn van toepassing op de aanvragers en ontvangers van gegevens uit het register. De bepalingen zijn aanvullend op en ter uitwerking van de regels voor de aanvraag en het gebruik van gegevens in de [WVW](https://wetten.overheid.nl/BWBR0006622), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) en de aanwijzingsbeschikkingen van de minister.
 
 ##### Artikel 3. Algemene verstrekkingsvoorwaarden
 
@@ -77,13 +76,13 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 - d. De RDW bepaalt de technische specificaties. De technische invulling daarvan wordt in overleg vastgesteld;
 
-- e. Ter beveiliging van digitale gegevensstromen naar externe relaties hanteert de RDW digitale cliëntcertificaten en digitale servicecertificaten. Hierbij zijn de aanvullende eisen vermeld in de Bijlage van deze Verstrekkingsvoorwaarden van toepassing.
+- e. Ter beveiliging van digitale gegevensstromen naar externe relaties hanteert de RDW digitale cliëntcertificaten en digitale servicecertificaten. Hierbij zijn de aanvullende eisen vermeld in de [Bijlage](https://wetten.overheid.nl/BWBR0046568) van deze Verstrekkingsvoorwaarden van toepassing.
 
 ##### Artikel 5. Laten uitvoeren van taken door derden (uitbesteding, knooppunten, cloud, etc.)
 
 - a. De ontvanger blijft onverkort verantwoordelijk voor alle handelingen die een derde in zijn opdracht uitvoert richting de RDW en/of met van RDW verkregen gevoelige gegevens.
 
-- b. De ontvanger blijft onverkort verantwoordelijk voor alle handelingen die een door de ontvanger ingeschakelde derde uitvoert met door de RDW aan ontvanger verstrekte beveiligingsmiddelen zoals gebruikerscodes, certificaten ed.) en/of bijbehorende pincodes (zie ook de bijlage bij online verbindingen en de daar in artikel 1 genoemde gebruikersvoorwaarden en CPS die gelden voor het gebruik van RDW-certificaten).
+- b. De ontvanger blijft onverkort verantwoordelijk voor alle handelingen die een door de ontvanger ingeschakelde derde uitvoert met door de RDW aan ontvanger verstrekte beveiligingsmiddelen zoals gebruikerscodes, certificaten ed.) en/of bijbehorende pincodes (zie ook de [bijlage](https://wetten.overheid.nl/BWBR0046568) bij online verbindingen en de daar in artikel 1 genoemde gebruikersvoorwaarden en CPS die gelden voor het gebruik van RDW-certificaten).
 
 - c. Gegeven de feitelijke technische inrichting, mag het gerealiseerde beveiligingsniveau in de gehele keten RDW, ontvanger en derden nooit lager worden dan indien de ontvanger zonder derden zou werken. Dit geldt voor de gehanteerde beveiligingsmiddelen en de beveiliging van de verbindingen en opgeslagen gegevens.
 
@@ -107,7 +106,7 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 - a. De RDW houdt zelfstandig en actief toezicht op het gebruik van gevoelige gegevens uit het register en op de naleving van de relevante vereisten uit wet- en regelgeving en deze voorwaarden;
 
-- b. De ontvanger is ingevolge de [WVW](onbekend) gehouden medewerking te verlenen aan dit toezicht en het opsporen door de RDW van onjuist handelen. Zie ook [artikel 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) m.b.t. het inschakelen van derden;
+- b. De ontvanger is ingevolge de [WVW](https://wetten.overheid.nl/BWBR0006622) gehouden medewerking te verlenen aan dit toezicht en het opsporen door de RDW van onjuist handelen. Zie ook [artikel 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) m.b.t. het inschakelen van derden;
 
 - c. De RDW kan met het oog op een correct gebruik van de gevoelige gegevens onder meer inzage in documenten, en overlegging van verklaringen van de ontvanger verlangen.
 
@@ -121,7 +120,7 @@ Bij digitale verstrekkingen uit het register gelden de volgende voorwaarden:
 
 ##### Artikel 7. Aansprakelijkheid
 
-De aanvrager en/of ontvanger van de gegevens uit het kentekenregister is aansprakelijk voor alle hem toe te rekenen handelingen die in strijd zijn met doel en strekking van deze voorwaarden, waarbij hetgeen is bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden onverkort van toepassing is. Bij digitale verstrekkingen is de ontvanger in ieder geval aansprakelijk voor alle handelingen vanaf het moment dat hij de informatie uit het register van de RDW heeft ontvangen.
+De aanvrager en/of ontvanger van de gegevens uit het kentekenregister is aansprakelijk voor alle hem toe te rekenen handelingen die in strijd zijn met doel en strekking van deze voorwaarden, waarbij hetgeen is bepaald in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden onverkort van toepassing is. Bij digitale verstrekkingen is de ontvanger in ieder geval aansprakelijk voor alle handelingen vanaf het moment dat hij de informatie uit het register van de RDW heeft ontvangen.
 
 ##### Artikel 8. Intellectuele eigendom
 
@@ -145,7 +144,7 @@ Voor overheidsorganen zijn naast de voorwaarden genoemd in [hoofdstuk 1](https:/
 
 ##### Artikel 11. Tergmelden
 
-Voor meer informatie over terugmelden bij gerede twijfel over de juistheid van een in het kentekenregister opgenomen authentiek gegeven zie: [www.rdw.nl](onbekend) zoekterm ‘terugmelden’
+Voor meer informatie over terugmelden bij gerede twijfel over de juistheid van een in het kentekenregister opgenomen authentiek gegeven zie: www.rdw.nl zoekterm ‘terugmelden’
 
 ### Hoofdstuk 3. Informatieproviders en overige belanghebbenden, niet zijnde overheidsorganen
 
@@ -165,46 +164,10 @@ Ongeacht de wijze van levering geldt dat verstrekking van gegevens plaatsvindt t
 
 - c. De verstrekte gegevens moeten worden vernietigd als deze het doel niet meer dienen waarvoor zij zijn verstrekt, behoudens andersluidende schriftelijke toestemming van de RDW.
 
-- d. De gegevens uit de registers van de RDW kunnen alleen worden verkregen/opgevraagd door personen, die hiervoor expliciet zijn geautoriseerd door de daartoe (hoogst verantwoordelijke) bevoegde persoon binnen de organisatie van de ontvanger. De organisatie wordt door de RDW verantwoordelijk gehouden voor het toezicht op verleende autorisaties en het gebruik van de autorisaties of de gegevens. Zie ook [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden.
+- d. De gegevens uit de registers van de RDW kunnen alleen worden verkregen/opgevraagd door personen, die hiervoor expliciet zijn geautoriseerd door de daartoe (hoogst verantwoordelijke) bevoegde persoon binnen de organisatie van de ontvanger. De organisatie wordt door de RDW verantwoordelijk gehouden voor het toezicht op verleende autorisaties en het gebruik van de autorisaties of de gegevens. Zie ook [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=5&z=2022-04-19&g=2022-04-19) van deze voorwaarden.
 
 ##### Artikel 15. Citeertitel
 
-Dit besluit wordt aangehaald als: Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022.
+Dit besluit wordt aangehaald als: Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2022.
 
-Dit besluit vervangt het besluit [Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036654).
-
-## Bijlage. bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046568&hoofdstuk=1&artikel=4&z=2022-04-19&g=2022-04-19) (online verbindingen)
-
-### Digitale Cliëntcertificaten
-
-### Artikel 1. Inleiding
-
-Om de toegang tot zijn applicaties en systemen te beveiligen geeft de RDW als Certification Authority (hierna: CA) digitale certificaten uit.
-
-De ontvanger heeft een dergelijk digitaal certificaat nodig om toegang te krijgen tot RDW-applicaties. Dit certificaat wordt door de RDW aangeleverd in een beveiligd bestand (PKCS#12).
-
-In dit bestand bevindt zich ook een privésleutel welke de ontvanger nodig heeft indien hij het certificaat gebruikt. De RDW kent twee soorten certificaten, namelijk:
-
-Om het certificaat te kunnen gebruiken dient de ontvanger dit certificaat en de hierbij behorende privésleutel op zijn computer te installeren. Bij die installatie heeft de ontvanger het wachtwoord nodig dat de RDW hem in een brief heeft toegezonden. Als het certificaat en de bijbehorende privésleutel zijn geïnstalleerd, dient de privésleutel te worden beschermd met een door de ontvanger zelf gekozen wachtwoord.
-
-RDW Cliënt certificaten dienen te worden geïnstalleerd op de werkplek(ken) van de eindgebruikers.
-
-RDW Service certificaten dienen te worden geïnstalleerd op de server(s) die de verbinding maken met de RDW. Authenticatie dient vervolgens via een klantnummer + wachtwoord of een ander door de RDW erkend of uitgereikt authenticatiemiddel te worden geregeld.
-
-Voor het gebruikt van de RDW certificaten gelden de voorwaarden die beschreven zijn in de Certification Practice Statement (hierna: CPS) en gebruikersvoorwaarden. Het CPS is te raadplegen via [www.rdw.nl](onbekend).
-
-### Artikel 2. Verplichtingen van de certificaathouder
-
-### Artikel 3. Positie van het RDW-CPS
-
-Het RDW-CPS maakt integraal onderdeel uit van deze voorwaarden. Alle bepalingen hierin zijn van toepassing op de rechtsverhouding tussen de RDW en de certificaathouder.
-
-### Artikel 4. Acceptatie van deze voorwaarden
-
-Door installatie van het certificaat verklaart de certificaathouder aan de voorwaarden voor de verkrijging ervan en aan de gebruikers-voorwaarden te (blijven) voldoen. Daarnaast verklaart de certificaathouder dat hij er kennis van heeft genomen dat er jaarlijks kosten verschuldigd zijn voor het in stand houden van een beveiligde verbinding in de datacommunicatie met de RDW, voor welk doel het gebruik van dit certificaat verplicht is gesteld door de RDW.
-
-Bovenstaande eisen zijn van toepassing als RDW-certificaten worden gebruikt.
-
-Indien de aanvrager andere certificaten gebruikt, dient de aanvrager ook minimaal aan bovenstaande of voor wat betreft beveiliging vergelijkbare eisen te voldoen. Bovendien geldt dat andere authenticatiemiddelen alleen met toestemming van de RDW zijn toegestaan.
-
-Dit besluit wordt met een Bijlage in de Staatscourant geplaatst.
+Dit besluit vervangt het besluit [Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkeer 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036654).
