@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders van 8 juli 2022 houdende de vaststelling van de Gerechtsdeurwaardersverordening (Gerechtsdeurwaardersverordening)"
+citeertitel: "Gerechtsdeurwaardersverordening"
 identifier: "BWBR0047777"
-country: "nl"
-rank: "pbo"
-publication_date: "2023-02-01"
-last_updated: "2023-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047777"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "16646193"
-version_id: "29198392"
-internal_id: "C41486321"
-label_id: "16565124"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047777/2023-02-01/0"
-intitule_bron: "Stcrt.2023-858"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-08"
-intitule_published: "2023-01-20"
-intitule_in_force: "2023-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-858"
-original_signed_date: "2022-07-08"
-original_published_date: "2023-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-858"
-entry_into_force_date: "2023-02-01"
-jci_1_3: "jci1.3:c:BWBR0047777&z=2023-02-01&g=2023-02-01"
-jci_1_0: "1.0:c:BWBR0047777&g=2023-02-01"
-citeertitel_status: "officieel"
-short_title: "Gerechtsdeurwaardersverordening"
-signed_date: "2022-07-08"
-entry_into_force: "2023-02-01"
+publicatiedatum: 2023-02-01
+laatste_update: 2023-02-01
+status: geldig
+toestand: 2023-02-01
+bron: "https://wetten.overheid.nl/BWBR0047777"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders van 8 juli 2022 houdende de vaststelling van de Gerechtsdeurwaardersverordening (Gerechtsdeurwaardersverordening)
-
-Gelet op de [artikelen 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=17), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25), [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=57), [57a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=57a), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=73) en [78, tweede lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=78);
-
-Gezien het ontwerp van het bestuur en de bijbehorende toelichting van 14 april 2022;
-
-Gehoord de algemene ledenvergadering van 17 juni 2022;
-
-Besluit de volgende verordening vast te stellen:
-
-**Gerechtsdeurwaardersverordening**
 
 ### Hoofdstuk 1. Algemeen
 
@@ -52,21 +20,22 @@ Besluit de volgende verordening vast te stellen:
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beroepsstage:** stage als bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25);
+- *beroepsstage:* stage als bedoeld in [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25);
 
-- **beslagregister:** beslagregister als bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-02-01&g=2023-02-01);
+- *beslagregister:* beslagregister als bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-02-01&g=2023-02-01);
 
-- **beslagvrije voet:** beslagvrije voet als bedoeld in [artikel 475b, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b);
+- *beslagvrije voet:* beslagvrije voet als bedoeld in [artikel 475b, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475b);
 
-- **bestuur:** bestuur van de KBvG;
+- *bestuur:* bestuur van de KBvG;
 
-- **justitiabele:** degene tot wie een ambtshandeling zich richt;
+- *justitiabele:* degene tot wie een ambtshandeling zich richt;
 
-- **nevenwerkzaamheden:** andere werkzaamheden dan die bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2);
+- *nevenwerkzaamheden:* andere werkzaamheden dan die bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=2);
 
-- **stageverklaring:** verklaring dat de beroepsstage is doorlopen;
+- *stageverklaring:* verklaring dat de beroepsstage is doorlopen;
 
-- **wet:** [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197).
+- *wet:*
+ [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197).
 
 ##### Artikel 1.2. (betamelijkheid)
 
@@ -412,7 +381,7 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 2. Het beslagregister heeft ten doel de juiste uitvoering van bij of krachtens wet aan de gerechtsdeurwaarder opgedragen rollen en taken in verband met beslaglegging te bevorderen, het voorkomen van niet-invorderbare kosten, een juiste afwikkeling van het beslag en de juiste vaststelling en toepassing van de beslagvrije voet.
 
-3. Het bestuur wijst de beheerder van het digitaal beslagregister aan. De beheerder is belast met de verwerking van de gegevens in het beslagregister. De beheerder is verwerker in de zin van artikel 4, achtste lid, van de Algemene verordening gegevensbescherming.
+3. Het bestuur wijst de beheerder van het digitaal beslagregister aan. De beheerder is belast met de verwerking van de gegevens in het beslagregister. De beheerder is verwerker in de zin van artikel 4, achtste lid, van de Algemene verordening gegevensbescherming.
 
 4. Het bestuur stelt, met het oog op de doelen, bedoeld in het tweede lid, vast welke beslagen ingeschreven worden in het register en welke gegevens daarbij worden opgenomen over:
 
@@ -484,13 +453,13 @@ Het bestuur stelt regels vast over de ordentelijke afwikkeling van beslagen, waa
 
 - a. de verplichting het houden van aandelen te beperken of te beëindigen, als:
 
-- 1°. de aandeelhouder een vennootschap is en die vennootschap overgaat op een andere persoon waardoor niet meer voldaan wordt aan [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.2&artikel=6.7&z=2023-02-01&g=2023-02-01) of [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.2&artikel=6.8&z=2023-02-01&g=2023-02-01);
+   - 1° de aandeelhouder een vennootschap is en die vennootschap overgaat op een andere persoon waardoor niet meer voldaan wordt aan [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.2&artikel=6.7&z=2023-02-01&g=2023-02-01) of [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.2&artikel=6.8&z=2023-02-01&g=2023-02-01);
 
-- 2°. de aandeelhouder of de in haar deelnemende personen diensten aanbiedt of werkzaamheden verricht voor het gerechtsdeurwaarderskantoor waarin deelgenomen wordt en de diensten of werkzaamheden schadelijk zijn voor het gerechtsdeurwaarderskantoor;
+   - 2° de aandeelhouder of de in haar deelnemende personen diensten aanbiedt of werkzaamheden verricht voor het gerechtsdeurwaarderskantoor waarin deelgenomen wordt en de diensten of werkzaamheden schadelijk zijn voor het gerechtsdeurwaarderskantoor;
 
-- 3°. de aandeelhouder, of de in haar deelnemende personen, niet langer in aanmerking komt voor een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28); en
+   - 3° de aandeelhouder, of de in haar deelnemende personen, niet langer in aanmerking komt voor een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28); en
 
-- 4°. de aandeelhouder nalaat zich te onderwerpen aan toezicht bedoeld in [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30) en [31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=31);
+   - 4° de aandeelhouder nalaat zich te onderwerpen aan toezicht bedoeld in [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30) en [31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=31);
 
 - b. een in het economisch verkeer als niet onredelijk te beoordelen en objectieve maatstaf voor de bepaling van de waarde van deelnemingen;
 
@@ -842,12 +811,8 @@ Het recht zoals dat gold onmiddellijk voorafgaand aan het tijdstip van inwerking
 
 ##### Artikel 8.5. (inwerkingtreding)
 
-Deze verordening treedt in werking met ingang van 1 februari 2023.
+Deze verordening treedt in werking met ingang van 1 februari 2023.
 
 ##### Artikel 8.6. (citeertitel)
 
 Deze verordening wordt aangehaald als Gerechtsdeurwaardersverordening.
-
-## Bijlage 1
-
-Niet opgenomen.

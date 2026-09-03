@@ -1,49 +1,21 @@
 ---
 title: "Besluit beperking openbaarheid, Ministerie van Volksgezondheid, Welzijn en Sport"
 identifier: "BWBR0047380"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-28"
-last_updated: "2022-10-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047380"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16538243"
-version_id: "28991392"
-internal_id: "C41043361"
-label_id: "16459314"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047380/2022-10-28/0"
-intitule_bron: "Stcrt.2022-28454"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-13"
-intitule_published: "2022-10-27"
-intitule_in_force: "2022-10-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-28454"
-original_signed_date: "2022-10-13"
-original_published_date: "2022-10-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-28454"
-entry_into_force_date: "2022-10-28"
-jci_1_3: "jci1.3:c:BWBR0047380&z=2022-10-28&g=2022-10-28"
-jci_1_0: "1.0:c:BWBR0047380&g=2022-10-28"
-citeertitel_status: "redactioneel"
-signed_date: "2022-10-13"
-entry_into_force: "2022-10-28"
+publicatiedatum: 2022-10-28
+laatste_update: 2022-10-28
+status: geldig
+toestand: 2022-10-28
+bron: "https://wetten.overheid.nl/BWBR0047380"
+opgehaald: 2026-09-03
 ---
+
 # Besluit beperking openbaarheid, Ministerie van Volksgezondheid, Welzijn en Sport
-
-Gelet op [artikel 15, lid 1, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15); [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 10 november 2021, met kenmerk 27744066.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Afdeling Kabinet en Protocol van het Ministerie van Welzijn, Volksgezondheid en Cultuur en taakopvolgers over de periode (1960) 1983–1996.
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | beperkt openbaar tot 1 januari: |
 | --- | --- |

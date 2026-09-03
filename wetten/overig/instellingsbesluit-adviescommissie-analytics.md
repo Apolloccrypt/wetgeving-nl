@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister van Financiën van 7 april 2023, nr. 80552, houdende instelling van de Adviescommissie Analytics (Instellingsbesluit Adviescommissie Analytics)"
+citeertitel: "Instellingsbesluit Adviescommissie Analytics"
 identifier: "BWBR0048082"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-21"
-last_updated: "2023-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048082"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16728423"
-version_id: "29347852"
-internal_id: "C41875811"
-label_id: "16645044"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048082/2023-04-21/0"
-intitule_bron: "Stcrt.2023-11469"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-07"
-intitule_published: "2023-04-20"
-intitule_in_force: "2023-04-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-11469"
-original_signed_date: "2023-04-07"
-original_published_date: "2023-04-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-11469"
-entry_into_force_date: "2023-04-21"
-jci_1_3: "jci1.3:c:BWBR0048082&z=2023-04-21&g=2023-04-21"
-jci_1_0: "1.0:c:BWBR0048082&g=2023-04-21"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie Analytics"
-signed_date: "2023-04-07"
-entry_into_force: "2023-04-21"
+publicatiedatum: 2023-04-21
+laatste_update: 2023-04-21
+status: geldig
+toestand: 2023-04-21
+bron: "https://wetten.overheid.nl/BWBR0048082"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Financiën van 7 april 2023, nr. 80552, houdende instelling van de Adviescommissie Analytics (Instellingsbesluit Adviescommissie Analytics)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Financiën;
+- a. *minister:* de Minister van Financiën;
 
-- b. **adviescommissie:** de Adviescommissie Analytics, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048082&artikel=2&z=2023-04-21&g=2023-04-21);
+- b. *adviescommissie:* de Adviescommissie Analytics, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048082&artikel=2&z=2023-04-21&g=2023-04-21);
 
-- c. **analytics:** data-analyse, algoritmen, risicomodellen en artificiële intelligentie;
+- c. *analytics:* data-analyse, algoritmen, risicomodellen en artificiële intelligentie;
 
-- d. **Belastingdienst:** het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen.
+- d. *Belastingdienst:* het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen.
 
 ##### Artikel 2. Instelling en taak
 
@@ -66,11 +40,11 @@ In dit besluit wordt verstaan onder:
 
 2. Adviezen richten zich met name op:
 
-- •. het verbeteren van de beheersing van analytics;
+- • het verbeteren van de beheersing van analytics;
 
-- •. borging van rechtvaardige analytics (beschermen van privacy en voorkoming van bias en proxies);
+- • borging van rechtvaardige analytics (beschermen van privacy en voorkoming van bias en proxies);
 
-- •. concrete situaties waarin bestaande (wettelijke) kaders en richtlijnen van buiten en binnen de Belastingdienst (nog) niet voldoende richting geven;
+- • concrete situaties waarin bestaande (wettelijke) kaders en richtlijnen van buiten en binnen de Belastingdienst (nog) niet voldoende richting geven;
 
 3. De adviezen van de adviescommissie bevatten een (multidisciplinaire) afweging over het voorgelegde onderwerp, vanuit vijf perspectieven:
 
@@ -102,27 +76,27 @@ In dit besluit wordt verstaan onder:
 
 8. Met ingang vanaf de datum van inwerkingtreding van dit besluit worden tot leden van de commissie benoemd:
 
-- a). prof. dr. E.H.L. Aarts (Emile)
+- a) prof. dr. E.H.L. Aarts (Emile)
 
-- b). dr. E.E.W. Bruins (Eppo)
+- b) dr. E.E.W. Bruins (Eppo)
 
-- c). prof. dr. S. Bhulai (Sandjai)
+- c) prof. dr. S. Bhulai (Sandjai)
 
-- d). prof. dr. P.J.J. van Geest (Paul)
+- d) prof. dr. P.J.J. van Geest (Paul)
 
-- e). prof. dr. M.J. van den Hoven (Jeroen)
+- e) prof. dr. M.J. van den Hoven (Jeroen)
 
-- f). mr. F.C. van der Jagt (Friederike)
+- f) mr. F.C. van der Jagt (Friederike)
 
-- g). R. van Kan MCI, BSc (Rob)
+- g) R. van Kan MCI, BSc (Rob)
 
-- h). prof. dr. E.L.O Keymolen (Esther)
+- h) prof. dr. E.L.O Keymolen (Esther)
 
-- i). dr. P. Prüfer (Patricia)
+- i) dr. P. Prüfer (Patricia)
 
-- j). dr. M.T. Schäfer (Mirko)
+- j) dr. M.T. Schäfer (Mirko)
 
-- k). dr. A. van Wissen (Arlette)
+- k) dr. A. van Wissen (Arlette)
 
 ##### Artikel 5. Instellingsduur
 
@@ -154,9 +128,9 @@ De minister geeft geen aanwijzingen met betrekking tot de werkwijze en de inhoud
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter ontvangt een bruto vergoeding per vergadering van € 390,87.
+1. De voorzitter ontvangt een bruto vergoeding per vergadering van € 390,87.
 
-2. De leden ontvangen een bruto vergoeding per vergadering van € 300,67.
+2. De leden ontvangen een bruto vergoeding per vergadering van € 300,67.
 
 3. De kosten worden specifiek gedekt op de financiënbegroting
 
@@ -181,5 +155,3 @@ Staatscourant waarin het wordt geplaatst.
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Analytics.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

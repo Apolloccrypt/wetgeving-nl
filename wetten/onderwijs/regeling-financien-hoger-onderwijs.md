@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0024005"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juni 2008, nr. HO&S/CBV/2008/5214, houdende vaststelling van nadere regels vanwege financiering in het hoger onderwijs (Regeling financiën hoger onderwijs)

@@ -1,66 +1,41 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 10 oktober 2022, nr. 4219202, houdende regels inzake de subsidiëring van Halt (Regeling Halt 2022)"
+citeertitel: "Regeling Halt 2022"
 identifier: "BWBR0047314"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-19"
-last_updated: "2022-10-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047314"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16521503"
-version_id: "28956682"
-internal_id: "C40989431"
-label_id: "16443074"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047314/2022-10-19/0"
-intitule_bron: "Stcrt.2022-27307"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-10"
-intitule_published: "2022-10-18"
-intitule_in_force: "2022-10-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-27307"
-original_signed_date: "2022-10-10"
-original_published_date: "2022-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-27307"
-entry_into_force_date: "2022-10-19"
-jci_1_3: "jci1.3:c:BWBR0047314&z=2022-10-19&g=2022-10-19"
-jci_1_0: "1.0:c:BWBR0047314&g=2022-10-19"
-citeertitel_status: "officieel"
-short_title: "Regeling Halt 2022"
-signed_date: "2022-10-10"
-entry_into_force: "2022-10-19"
+publicatiedatum: 2022-10-19
+laatste_update: 2022-10-19
+status: geldig
+toestand: 2022-10-19
+bron: "https://wetten.overheid.nl/BWBR0047314"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 10 oktober 2022, nr. 4219202, houdende regels inzake de subsidiëring van Halt (Regeling Halt 2022)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4, eerste lid, van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en de [artikelen 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=5), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=6), [10, tweede lid, van het Kaderbesluit overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=10) en de [artikelen 4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), [4:71](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:71), [4:72](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) en [4:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:79);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Rechtsbescherming;
+- a. *de Minister:* de Minister voor Rechtsbescherming;
 
-- b. **Halt:** Stichting Halt;
+- b. *Halt:* Stichting Halt;
 
-- c. **Halt-afdoening:** een afdoening als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e);
+- c. *Halt-afdoening:* een afdoening als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e);
 
-- d. **Halt-verwijzing:** een voorstel van een opsporingsambtenaar tot Halt-afdoening;
+- d. *Halt-verwijzing:* een voorstel van een opsporingsambtenaar tot Halt-afdoening;
 
-- e. **jeugdige:** een verdachte in de leeftijd vanaf twaalf tot en met zeventien jaar;
+- e. *jeugdige:* een verdachte in de leeftijd vanaf twaalf tot en met zeventien jaar;
 
-- f. **Besluit:** het [Besluit aanwijzing Halt-feiten](https://wetten.overheid.nl/jci1.3:c:BWBR0007217);
+- f. *Besluit:* het [Besluit aanwijzing Halt-feiten](https://wetten.overheid.nl/jci1.3:c:BWBR0007217);
 
-- g. **Richtlijn:** [Richtlijn en kader voor strafvordering jeugd en adolescenten](https://wetten.overheid.nl/jci1.3:c:BWBR0044737), inclusief strafmaten Halt;
+- g. *Richtlijn:*
+ [Richtlijn en kader voor strafvordering jeugd en adolescenten](https://wetten.overheid.nl/jci1.3:c:BWBR0044737), inclusief strafmaten Halt;
 
-- h. **ZSM:** een werkwijze van het Openbaar Ministerie samen met andere organisaties die staat voor een afdoeningstraject dat zorgvuldig, snel en op maat is;
+- h. *ZSM:* een werkwijze van het Openbaar Ministerie samen met andere organisaties die staat voor een afdoeningstraject dat zorgvuldig, snel en op maat is;
 
-- i. **ketenpartners:** het Openbaar Ministerie, de politie, de reclassering, de Raad voor de Kinderbescherming, Slachtofferhulp Nederland en de hulpverlening.
+- i. *ketenpartners:* het Openbaar Ministerie, de politie, de reclassering, de Raad voor de Kinderbescherming, Slachtofferhulp Nederland en de hulpverlening.
 
 ##### Artikel 2. Werkzaamheden
 
@@ -242,7 +217,7 @@ De [Regeling Halt 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032680) wordt i
 
 ##### Artikel 22. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2028.
 
 ##### Artikel 24. Citeertitel
 

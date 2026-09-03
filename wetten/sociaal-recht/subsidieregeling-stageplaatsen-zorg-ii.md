@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0030326"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport, nr. MEVA/ABA-3072441, houdende regels voor het subsidiëren van stageplaatsen in de zorg vanaf studiejaar 2011/2012 (Subsidieregeling stageplaatsen zorg 2011/2012)

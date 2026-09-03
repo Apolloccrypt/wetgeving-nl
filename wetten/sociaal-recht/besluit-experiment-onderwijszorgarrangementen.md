@@ -1,74 +1,42 @@
 ---
 title: "Besluit van 8 november 2022, houdende voorschriften voor een experiment op het terrein van onderwijszorgarrangementen, met het oog op verbetering van de toegankelijkheid van het onderwijs (Besluit experiment onderwijszorgarrangementen)"
+citeertitel: "Besluit experiment onderwijszorgarrangementen"
 identifier: "BWBR0047473"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047473"
+categorie: "Onderwijs"
 soort: "AMvB"
-stam_id: "16565403"
-version_id: "29039882"
-internal_id: "C41140251"
-label_id: "16485434"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047473/2023-01-01/0"
-intitule_bron: "Stb.2022-449"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-08"
-intitule_published: "2022-11-14"
-intitule_in_force: "2022-11-14"
-intitule_status: "goed"
-original_publication: "Stb.2022-449"
-original_signed_date: "2022-11-08"
-original_published_date: "2022-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2022-449"
-entry_into_force_date: "2022-11-15"
-jci_1_3: "jci1.3:c:BWBR0047473&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047473&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment onderwijszorgarrangementen"
-signed_date: "2022-11-08"
-entry_into_force: "2022-11-15"
+publicatiedatum: 2022-11-15
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0047473"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van 8 november 2022, houdende voorschriften voor een experiment op het terrein van onderwijszorgarrangementen, met het oog op verbetering van de toegankelijkheid van het onderwijs (Besluit experiment onderwijszorgarrangementen)
-
-Op de voordracht van Onze Minister voor Primair en Voortgezet Onderwijs, gedaan in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, van 27 juni 2022, nr. WJZ/33128811 (ID12955), directie Wetgeving en Juridische Zaken;
-
-Gelet op [artikel 172 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=172), [artikel 180 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=180), [artikel 9.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.1) en [artikel 8, vierde lid, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 september 2022, nr. W05.22.00075/I);
-
-Gezien het nader rapport van Onze Minister voor Primair en Voortgezet Onderwijs, uitgebracht in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport van 7 november 2022, nr. WJZ/34193494 (ID12955), directie Wetgeving en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit en in de op dit besluit berustende bepalingen wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag van een school;
+- *bevoegd gezag:* bevoegd gezag van een school;
 
-- **complexe ondersteuningsbehoefte:** ondersteuningsbehoefte van een jongere op het gebied van onderwijs en zorg die zodanig complex is dat die niet kan worden ondervangen in het basis-, voortgezet, speciaal, en voortgezet speciaal onderwijs;
+- *complexe ondersteuningsbehoefte:* ondersteuningsbehoefte van een jongere op het gebied van onderwijs en zorg die zodanig complex is dat die niet kan worden ondervangen in het basis-, voortgezet, speciaal, en voortgezet speciaal onderwijs;
 
-- **experiment:** tijdelijke mogelijkheid om af te wijken van wetgeving op het gebied van onderwijstijd, inhoud van het onderwijs, locatie van het onderwijs en bekostiging in het onderwijs ten behoeve van jongeren met een complexe ondersteuningsbehoefte met het oog op de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=2&z=2023-01-01&g=2023-01-01);
+- *experiment:* tijdelijke mogelijkheid om af te wijken van wetgeving op het gebied van onderwijstijd, inhoud van het onderwijs, locatie van het onderwijs en bekostiging in het onderwijs ten behoeve van jongeren met een complexe ondersteuningsbehoefte met het oog op de doelstelling, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=2&z=2023-01-01&g=2023-01-01);
 
-- **jeugdhulpaanbieder:** jeugdhulpaanbieder als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+- *jeugdhulpaanbieder:* jeugdhulpaanbieder als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
 
-- **onderwijszorgarrangement:** samengaan van het onderwijs en de zorg als maatwerk voor jongeren met een complexe ondersteuningsbehoefte;
+- *onderwijszorgarrangement:* samengaan van het onderwijs en de zorg als maatwerk voor jongeren met een complexe ondersteuningsbehoefte;
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport;
+- *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- **school:** school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), voor zover uit ’s Rijks kas bekostigd;
+- *school:* school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) of de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), voor zover uit ’s Rijks kas bekostigd;
 
-- **zorg:** zorg of jeugdhulp als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+- *zorg:* zorg of jeugdhulp als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
 
-- **zorgaanbieder:** zorgaanbieder als bedoeld in de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) of aanbieder als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+- *zorgaanbieder:* zorgaanbieder als bedoeld in de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) of aanbieder als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
 ##### Artikel 2. Doel experiment
 
@@ -124,15 +92,15 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 - e. een uitwerking van de wijze waarop het onderwijszorgarrangement wordt vormgegeven, waarbij in elk geval wordt ingegaan op:
 
-- 1°. de organisatorische en onderwijskundige inrichting van het onderwijszorgarrangement, waaronder de betrokken docenten en zorg- of jeugdhulpverleners;
+   - 1°. de organisatorische en onderwijskundige inrichting van het onderwijszorgarrangement, waaronder de betrokken docenten en zorg- of jeugdhulpverleners;
 
-- 2°. de waarborgen voor de kwaliteit van het onderwijs en de zorg;
+   - 2°. de waarborgen voor de kwaliteit van het onderwijs en de zorg;
 
-- 3°. de locatie van het onderwijs;
+   - 3°. de locatie van het onderwijs;
 
-- 4°. de wijze van samenwerking met in ieder geval de ouders, het samenwerkingsverband, gemeenten, zorgaanbieders, jeugdhulpaanbieders, zorgverzekeraars of zorgkantoren;
+   - 4°. de wijze van samenwerking met in ieder geval de ouders, het samenwerkingsverband, gemeenten, zorgaanbieders, jeugdhulpaanbieders, zorgverzekeraars of zorgkantoren;
 
-- 5°. de wijze waarop uitvoering wordt gegeven aan het ontwikkelingsperspectief, bedoeld in de [artikelen 41a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), [40a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a) of [2.44 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44), het jeugdhulpverleningsplan of het zorgplan van de jongeren en hoe de samenhang tussen de twee plannen wordt geborgd.
+   - 5°. de wijze waarop uitvoering wordt gegeven aan het ontwikkelingsperspectief, bedoeld in de [artikelen 41a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), [40a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a) of [2.44 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44), het jeugdhulpverleningsplan of het zorgplan van de jongeren en hoe de samenhang tussen de twee plannen wordt geborgd.
 
 ##### Artikel 7. Ontwikkelingsperspectief
 
@@ -184,7 +152,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 10. Duur van het experiment
 
-1. Het experiment vangt aan met ingang van 1 januari 2023 en eindigt met ingang van 1 januari 2028.
+1. Het experiment vangt aan met ingang van 1 januari 2023 en eindigt met ingang van 1 januari 2028.
 
 2. Uiterlijk een jaar voor het eind van het experiment informeert het bevoegd gezag de leerling en de ouders over de afloop van het experiment.
 
@@ -192,7 +160,7 @@ Het projectplan, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 11. Monitoring en evaluatie
 
-1. Onze Minister monitort de onderwijszorgarrangementen van 1 januari 2023 tot 1 januari 2026.
+1. Onze Minister monitort de onderwijszorgarrangementen van 1 januari 2023 tot 1 januari 2026.
 
 2. Onze Minister onderzoekt voor het verslag over de doeltreffendheid en de effecten van het experiment in de praktijk in elk geval of het experiment leidt tot een:
 
@@ -222,18 +190,16 @@ Onze Minister kan de toestemming voor deelname aan het experiment geheel of gede
 
 - b. het onderwijszorgarrangement naar het oordeel van Onze Minister te weinig bijdrage levert aan de kwaliteit, de toegankelijkheid of de doeltreffendheid van het onderwijs.
 
-##### Artikel 14. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
+##### Artikel 14. Wijziging Besluit register onderwijsdeelnemers
 
-Wijzigt het Besluit register onderwijsdeelnemers.
+*Wijzigt het Besluit register onderwijsdeelnemers.*
 
 ##### Artikel 15. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van 15 november 2022, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 januari 2023.
+1. Dit besluit treedt in werking met ingang van 15 november 2022, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 januari 2023.
 
-2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 november, treedt het besluit, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 15 november.
+2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 15 november, treedt het besluit, met uitzondering van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0047473&artikel=14&z=2023-01-01&g=2023-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 15 november.
 
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment onderwijszorgarrangementen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

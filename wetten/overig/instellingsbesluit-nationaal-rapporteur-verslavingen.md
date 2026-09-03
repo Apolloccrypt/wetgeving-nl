@@ -1,52 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)"
+citeertitel: "Instellingsbesluit Nationaal Rapporteur Verslavingen"
 identifier: "BWBR0047491"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-01"
-last_updated: "2022-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047491"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16568793"
-version_id: "29046682"
-internal_id: "C41166581"
-label_id: "16488754"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047491/2022-12-01/0"
-intitule_bron: "Stcrt.2022-31039"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-11"
-intitule_published: "2022-11-18"
-intitule_in_force: "2022-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31039"
-original_signed_date: "2022-11-11"
-original_published_date: "2022-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-31039"
-entry_into_force_date: "2022-12-01"
-jci_1_3: "jci1.3:c:BWBR0047491&z=2022-12-01&g=2022-12-01"
-jci_1_0: "1.0:c:BWBR0047491&g=2022-12-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nationaal Rapporteur Verslavingen"
-signed_date: "2022-11-11"
-entry_into_force: "2022-12-01"
+publicatiedatum: 2022-12-01
+laatste_update: 2022-12-01
+status: geldig
+toestand: 2022-12-01
+bron: "https://wetten.overheid.nl/BWBR0047491"
+opgehaald: 2026-09-03
 ---
-# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)
 
-Besluit:
+# Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **bewindspersonen:** de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming;
+- a. *bewindspersonen:* de Minister van Volksgezondheid, Welzijn en Sport, de Minister voor Langdurige Zorg en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Justitie en Veiligheid en de Minister voor Rechtsbescherming;
 
-- b. **Nationaal Rapporteur Verslavingen:** Nationaal Rapporteur Verslavingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047491&artikel=2&z=2022-12-01&g=2022-12-01);
+- b. *Nationaal Rapporteur Verslavingen:* Nationaal Rapporteur Verslavingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047491&artikel=2&z=2022-12-01&g=2022-12-01);
 
-- c. **Staatssecretaris:** de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
+- c. *Staatssecretaris:* de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2
 
@@ -148,10 +124,8 @@ De Nationaal Rapporteur Verslavingen verstrekt aan de Staatssecretaris desgevraa
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van 1 december 2022.
+Dit besluit treedt in werking met ingang van 1 december 2022.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Rapporteur Verslavingen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

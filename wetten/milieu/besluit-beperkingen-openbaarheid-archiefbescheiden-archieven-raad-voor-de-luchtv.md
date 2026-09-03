@@ -1,49 +1,21 @@
 ---
 title: "Besluit beperkingen openbaarheid archiefbescheiden archieven Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000), nummer toegang 2.16.107"
 identifier: "BWBR0047278"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-15"
-last_updated: "2022-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047278"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "16515043"
-version_id: "28947452"
-internal_id: "C40990601"
-label_id: "16436524"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047278/2022-10-15/0"
-intitule_bron: "Stcrt.2022-27097"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-20"
-intitule_published: "2022-10-14"
-intitule_in_force: "2022-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-27097"
-original_signed_date: "2022-09-20"
-original_published_date: "2022-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-27097"
-entry_into_force_date: "2022-10-15"
-jci_1_3: "jci1.3:c:BWBR0047278&z=2022-10-15&g=2022-10-15"
-jci_1_0: "1.0:c:BWBR0047278&g=2022-10-15"
-citeertitel_status: "redactioneel"
-signed_date: "2022-09-20"
-entry_into_force: "2022-10-15"
+publicatiedatum: 2022-10-15
+laatste_update: 2022-10-15
+status: geldig
+toestand: 2022-10-15
+bron: "https://wetten.overheid.nl/BWBR0047278"
+opgehaald: 2026-09-03
 ---
+
 # Besluit beperkingen openbaarheid archiefbescheiden archieven Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000), nummer toegang 2.16.107
-
-Gelet op [artikel 15 eerste lid onder a en b, en tweede lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de archieven van de Raad voor de Luchtvaart en het Bureau Vooronderzoek Ongevallen en Incidenten van de Rijksluchtvaartdienst, 1924–1998 (2000)
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot **1 januari** van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot *1 januari* van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers | Jaar |
 | --- | --- |
@@ -53,7 +25,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot **1 januari** van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot *1 januari* van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers | Jaar |
 | --- | --- |
@@ -114,9 +86,9 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 
 ##### Artikel 3
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in **artikel 1** is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met bijzondere persoonsgegevens.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in *artikel 1* is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met bijzondere persoonsgegevens.
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in **artikel 2** is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de Minister van Infrastructuur en Waterstaat.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in *artikel 2* is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de Minister van Infrastructuur en Waterstaat.
 
 ##### Artikel 4
 

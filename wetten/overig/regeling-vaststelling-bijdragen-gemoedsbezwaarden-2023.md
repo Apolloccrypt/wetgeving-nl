@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 16 januari 2023, 2023-0000004930, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2023"
+citeertitel: "Regeling vaststelling bijdragen gemoedsbezwaarden 2023"
 identifier: "BWBR0047805"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-25"
-last_updated: "2023-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047805"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16655923"
-version_id: "29213522"
-internal_id: "C41508801"
-label_id: "16573714"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047805/2023-01-25/0"
-intitule_bron: "Stcrt.2023-2866"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-01-16"
-intitule_published: "2023-01-24"
-intitule_in_force: "2023-01-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-2866"
-original_signed_date: "2023-01-16"
-original_published_date: "2023-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-2866"
-entry_into_force_date: "2023-01-25"
-jci_1_3: "jci1.3:c:BWBR0047805&z=2023-01-25&g=2023-01-25"
-jci_1_0: "1.0:c:BWBR0047805&g=2023-01-25"
-citeertitel_status: "redactioneel"
-short_title: "Regeling vaststelling bijdragen gemoedsbezwaarden 2023"
-signed_date: "2023-01-16"
-entry_into_force: "2023-01-25"
+publicatiedatum: 2023-01-25
+laatste_update: 2023-01-25
+status: geldig
+toestand: 2023-01-25
+bron: "https://wetten.overheid.nl/BWBR0047805"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister van Financiën van 16 januari 2023, 2023-0000004930, directie Financiële Markten, tot vaststelling van de bijdragen gemoedsbezwaarden 2023
-
-Gelet op [artikel 20 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=20);
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -54,5 +28,3 @@ Het bedrag dat personen die gemoedsbezwaren hebben tegen het sluiten van een ver
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

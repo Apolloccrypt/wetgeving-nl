@@ -1,45 +1,17 @@
 ---
 title: "Beleidsregels CAK termijnen eigen bijdrage Wlz en Wmo 2015"
 identifier: "BWBR0047964"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-03-16"
-last_updated: "2023-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047964"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "16694373"
-version_id: "29285502"
-internal_id: "C41715181"
-label_id: "16611724"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047964/2023-03-16/0"
-intitule_bron: "Stcrt.2023-8091"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-07"
-intitule_published: "2023-03-16"
-intitule_in_force: "2023-03-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-8091"
-original_signed_date: "2023-03-07"
-original_published_date: "2023-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-8091"
-entry_into_force_date: "2023-03-16"
-jci_1_3: "jci1.3:c:BWBR0047964&z=2023-03-16&g=2023-03-16"
-jci_1_0: "1.0:c:BWBR0047964&g=2023-03-16"
-citeertitel_status: "officieel"
-signed_date: "2023-03-07"
-entry_into_force: "2023-03-16"
+publicatiedatum: 2023-03-16
+laatste_update: 2023-03-16
+status: geldig
+toestand: 2023-03-16
+bron: "https://wetten.overheid.nl/BWBR0047964"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregels CAK termijnen eigen bijdrage Wlz en Wmo 2015
-
-gelet op de [artikelen 3.3.1.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.3); [3.3.1.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.5); [3.3.1.6, derde lid, vijfde lid juncto zesde lid en het zevende lid juncto achtste lid van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.1.6) (Blz) en [3.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.5); [3.6, derde lid; vierde lid juncto vijfde lid en zesde lid juncto zevende lid van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.6) (Uvb). [4:93](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:93) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (Awb),
-
-overwegende dat het gewenst is om regels te stellen ter invulling van de bevoegdheid om over te gaan tot het beperken van de vaststellings- en herzieningstermijn of het niet verschuldigd verklaren van de eigen bijdrage of verruimen van de herzieningstermijn,
-
-besluit om de volgende beleidsregels vast te stellen:
 
 ##### Artikel 1. Toepassingsbereik van deze beleidsregels
 
@@ -57,7 +29,7 @@ Bij de toepassing van de bevoegdheden volgend uit deze beleidsregels wordt voorl
 
 ##### Artikel 2. Herzieningstermijn bij ernstige tekortkomingen of vertragingen
 
-Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-03-16), indien de naheffing van de eigen bijdrage van meer dan 12 maanden in het verleden, naar het oordeel van het CAK, het gevolg is van:
+Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=1&z=2023-03-16&g=2023-03-16), indien de naheffing van de eigen bijdrage van meer dan 12 maanden in het verleden, naar het oordeel van het CAK, het gevolg is van:
 
 - a. een wijziging in zorggegevens die niet aan de verzekerde of cliënt te wijten is; of
 
@@ -69,7 +41,7 @@ Het CAK gaat over tot een herzieningstermijn ter hoogte van 12 maanden zoals bed
 
 ##### Artikel 3. Bijzondere of verzwarende omstandigheden die kunnen leiden tot verdere vermindering van de termijn of niet verschuldigd zijn van de eigen bijdrage
 
-Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de in [artikel 2, onderdelen a–d](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-03-16) genoemde omstandigheden, dan is een verdere beperking van de termijn van 12 maanden of niet verschuldigd zijn van de eigen bijdrage over het verleden mogelijk indien daarnaast ook sprake is van bijzondere of verzwarende omstandigheden. Hiertoe rekent het CAK in ieder geval de situatie waarin de verzekerde of cliënt volgens het CAK:
+Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de in [artikel 2, onderdelen a–d](https://wetten.overheid.nl/jci1.3:c:BWBR0047964&artikel=2&z=2023-03-16&g=2023-03-16) genoemde omstandigheden, dan is een verdere beperking van de termijn van 12 maanden of niet verschuldigd zijn van de eigen bijdrage over het verleden mogelijk indien daarnaast ook sprake is van bijzondere of verzwarende omstandigheden. Hiertoe rekent het CAK in ieder geval de situatie waarin de verzekerde of cliënt volgens het CAK:
 
 - a. aantoonbaar in betalingsonmacht verkeert; of
 
@@ -105,11 +77,11 @@ Indien bij de vaststelling of herziening van de eigen bijdrage sprake is van de 
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt – na publicatie in de Staatscourant – met terugwerkende kracht in werking met ingang van 1 januari 2023.
+Dit besluit treedt – na publicatie in de Staatscourant – met terugwerkende kracht in werking met ingang van 1 januari 2023.
 
 ##### Artikel 7. Beëindiging voorgaand besluit
 
-Met ingang van 1 januari 2023 worden de ‘[Beleidsregels CAK inkorten termijnen of niet verschuldigd zijn eigen bijdrage Wlz en Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0042826)’ (Staatscourant 2019, nr. 64871) beëindigd.
+Met ingang van 1 januari 2023 worden de ‘[Beleidsregels CAK inkorten termijnen of niet verschuldigd zijn eigen bijdrage Wlz en Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0042826)’ (Staatscourant 2019, nr. 64871) beëindigd.
 
 ##### Artikel 8. Citeertitel
 

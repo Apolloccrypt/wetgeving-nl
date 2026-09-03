@@ -1,44 +1,17 @@
 ---
 title: "Regeling bezwaarschriftenprocedure Awb NVAO"
 identifier: "BWBR0047857"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047857"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16667723"
-version_id: "29234932"
-internal_id: "C41533151"
-label_id: "16585724"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047857/2023-01-01/0"
-intitule_bron: "Stcrt.2023-4630"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-02-07"
-intitule_in_force: "2023-02-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-4630"
-original_published_date: "2023-02-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-4630"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047857&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047857&g=2023-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0047857"
+opgehaald: 2026-09-03
 ---
+
 # Regeling bezwaarschriftenprocedure Awb NVAO
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
-
-Overwegende dat het wenselijk is een adviescommissie in te stellen voor de behandeling van bezwaarschriften tegen voor bezwaar vatbare besluiten van het bestuur van de Nederlands-Vlaamse Accreditatieorganisatie (NVAO), voor zover deze besluiten betrekking hebben op de Nederlandse rechtsorde;
-
-BESLUIT
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Begripsbepalingen
 
@@ -46,25 +19,26 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Stb. 1992, 315, zoals nadien gewijzigd);
+- a. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Stb. 1992, 315, zoals nadien gewijzigd);
 
-- b. **NVAO:** als bedoeld in [artikel 1.1 onder p van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) (Stb. 2002, 302, zoals nadien gewijzigd) in verbinding met artikel 1, eerste lid, van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs, met bijlage; Den Haag 3 september 2003 (Trb 2003, 167, als nadien gewijzigd);
+- b. *NVAO:* als bedoeld in [artikel 1.1 onder p van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) (Stb. 2002, 302, zoals nadien gewijzigd) in verbinding met artikel 1, eerste lid, van het Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs, met bijlage; Den Haag 3 september 2003 (Trb 2003, 167, als nadien gewijzigd);
 
-- c. **bureau van de NVAO:** de ambtelijke ondersteuning van de NVAO;
+- c. *bureau van de NVAO:* de ambtelijke ondersteuning van de NVAO;
 
-- d. **de commissie:** adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
+- d. *de commissie:* adviescommissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
 
-- e. **voorzitter:** de voorzitter van de commissie;
+- e. *voorzitter:* de voorzitter van de commissie;
 
-- f. **secretaris:** de secretaris dan wel adjunct-secretaris als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047857&artikel=4&z=2023-01-01&g=2023-01-01);
+- f. *secretaris:* de secretaris dan wel adjunct-secretaris als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047857&artikel=4&z=2023-01-01&g=2023-01-01);
 
-- g. **bezwaar:** een bezwaar als bedoeld in [artikel 7:1 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
+- g. *bezwaar:* een bezwaar als bedoeld in [artikel 7:1 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1);
 
-- h. **bezwaarschrift:** een bezwaarschrift als bedoeld in [artikel 6:5 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) (vormvereisten);
+- h. *bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) (vormvereisten);
 
-- i. **bezwaarde:** indiener van een bezwaarschrift dan wel diens gemachtigde;
+- i. *bezwaarde:* indiener van een bezwaarschrift dan wel diens gemachtigde;
 
-- j. **belanghebbende:** belanghebbende als bedoeld in [artikel 1:2 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
+- j. *belanghebbende:* belanghebbende als bedoeld in [artikel 1:2 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
 #### De commissie voor de bezwaarschriften
 
@@ -108,7 +82,7 @@ De commissie heeft tot taak het horen van bezwaarde, het bestuur van de NVAO en 
 
 #### Procedure
 
-#### Adressering aan en in behandeling nemen van een bezwaarschrift door de NVAO
+##### Adressering aan en in behandeling nemen van een bezwaarschrift door de NVAO
 
 ##### Artikel 5
 
@@ -224,11 +198,11 @@ Voor situaties waarin deze regeling niet voorziet, beslist de voorzitter, de led
 
 ##### Artikel 14
 
-Deze regeling is op 1 februari 2005 in werking getreden. Daarvan is mededeling gedaan in de Staatscourant. Op 1 januari 2023 treedt de voorliggende, gewijzigde regeling in werking; deze vervangt de eerdergenoemde regeling.
+Deze regeling is op 1 februari 2005 in werking getreden. Daarvan is mededeling gedaan in de Staatscourant. Op 1 januari 2023 treedt de voorliggende, gewijzigde regeling in werking; deze vervangt de eerdergenoemde regeling.
 
 ##### Artikel 15
 
-De regeling ligt ter inzage bij het secretariaat van de commissie, is beschikbaar via de website van de NVAO [www.nvao.net](onbekend) en zal door de Minister van Onderwijs, Cultuur en Wetenschap worden geplaatst in de Nederlandse Staatscourant.
+De regeling ligt ter inzage bij het secretariaat van de commissie, is beschikbaar via de website van de NVAO www.nvao.net en zal door de Minister van Onderwijs, Cultuur en Wetenschap worden geplaatst in de Nederlandse Staatscourant.
 
 ##### Artikel 16
 

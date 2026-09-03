@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directie van het Centraal Bureau Rijvaardigheidsbewijzen (CBR) te Rijswijk tot regulering van de wijze van digitale indiening van informatieaanvragen en verzoeken in het kader van de Wet open overheid"
+citeertitel: "Besluit regulering wijze van digitale indiening informatieaanvragen en verzoeken"
 identifier: "BWBR0047652"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-12-20"
-last_updated: "2022-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047652"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "16602643"
-version_id: "29117262"
-internal_id: "C41383581"
-label_id: "16521204"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047652/2022-12-20/0"
-intitule_bron: "Stcrt.2022-34479"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-31"
-intitule_published: "2022-12-20"
-intitule_in_force: "2022-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34479"
-original_signed_date: "2022-05-31"
-original_published_date: "2022-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34479"
-entry_into_force_date: "2022-12-20"
-jci_1_3: "jci1.3:c:BWBR0047652&z=2022-12-20&g=2022-12-20"
-jci_1_0: "1.0:c:BWBR0047652&g=2022-12-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit regulering wijze van digitale indiening informatieaanvragen en verzoeken"
-signed_date: "2022-05-31"
-entry_into_force: "2022-12-20"
+publicatiedatum: 2022-12-20
+laatste_update: 2022-12-20
+status: geldig
+toestand: 2022-12-20
+bron: "https://wetten.overheid.nl/BWBR0047652"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de directie van het Centraal Bureau Rijvaardigheidsbewijzen (CBR) te Rijswijk tot regulering van de wijze van digitale indiening van informatieaanvragen en verzoeken in het kader van de Wet open overheid
-
-gelet op [artikelen 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4), [4:5 lid 1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), [2:15 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15) en [artikel 4.1, tweede lid, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.1),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -55,7 +29,3 @@ Aan de Manager Juridische Zaken van het CBR wordt mandaat verleend voor het neme
 ##### Artikel 4
 
 Dit besluit treedt na bekendmaking per direct in werking.
-
-## Bijlage
-
-Dit besluit wordt bekend gemaakt in de Staatscourant.

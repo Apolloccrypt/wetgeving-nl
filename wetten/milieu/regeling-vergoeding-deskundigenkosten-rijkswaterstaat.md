@@ -1,52 +1,24 @@
 ---
 title: "Beleidsregel vergoeding deskundigenkosten Rijkswaterstaat"
+citeertitel: "Regeling vergoeding deskundigenkosten Rijkswaterstaat"
 identifier: "BWBR0047555"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-12-03"
-last_updated: "2022-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047555"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "16582333"
-version_id: "29076802"
-internal_id: "C41332841"
-label_id: "16501974"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047555/2022-12-03/0"
-intitule_bron: "Stcrt.2022-31360"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-01"
-intitule_published: "2022-12-02"
-intitule_in_force: "2022-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31360"
-original_signed_date: "2022-11-01"
-original_published_date: "2022-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-31360"
-entry_into_force_date: "2022-12-03"
-jci_1_3: "jci1.3:c:BWBR0047555&z=2022-12-03&g=2022-12-03"
-jci_1_0: "1.0:c:BWBR0047555&g=2022-12-03"
-citeertitel_status: "officieel"
-short_title: "Regeling vergoeding deskundigenkosten Rijkswaterstaat"
-signed_date: "2022-11-01"
-entry_into_force: "2022-12-03"
+publicatiedatum: 2022-12-03
+laatste_update: 2022-12-03
+status: geldig
+toestand: 2022-12-03
+bron: "https://wetten.overheid.nl/BWBR0047555"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregel vergoeding deskundigenkosten Rijkswaterstaat
-
-gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en gelet op het feit dat het bij de verwerving van onroerende zaken en beëindiging van een aantal rechten door de Staat (Rijkswaterstaat) ter voorkoming van gerechtelijke onteigening veelal redelijk is de wederpartij een vergoeding te verlenen voor de daartoe in redelijkheid gemaakte kosten van deskundige bijstand;
-
-Besluit
-
-tot vaststelling van de navolgende beleidsregel:
 
 ##### Artikel 1
 
 Bij minnelijke grondverwerving en beëindiging van rechten, als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=3) en [4 van de Onteigeningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001842&artikel=4), door Rijkswaterstaat ter voorkoming van gerechtelijke onteigening, hanteert de Minister de volgende formule om het forfaitaire bedrag te berekenen exclusief btw voor de vergoeding van de kosten van deskundige bijstand:
 
-2% van de schadeloosstelling met een minimum van € 2.250,– en een maximum van € 20.000,–
+2% van de schadeloosstelling met een minimum van € 2.250,– en een maximum van € 20.000,–
 
 ##### Artikel 2
 
@@ -74,7 +46,7 @@ Na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 7. Intrekking
 
-Het [Besluit Vergoeding van kosten deskundige bijstand bij minnelijke grondverwerving door Rijkswaterstaat ter voorkoming van gerechtelijke onteigening](https://wetten.overheid.nl/jci1.3:c:BWBR0019179), Staatscourant. 15-12-2005, nr. 244, wordt ingetrokken.
+Het [Besluit Vergoeding van kosten deskundige bijstand bij minnelijke grondverwerving door Rijkswaterstaat ter voorkoming van gerechtelijke onteigening](https://wetten.overheid.nl/jci1.3:c:BWBR0019179), Staatscourant. 15-12-2005, nr. 244, wordt ingetrokken.
 
 ##### Artikel 8. Inwerkingtreding
 

@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-09-01
+laatste_update: 2026-09-02
 status: geldig
-toestand: 2026-09-01
+toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -46,6 +46,7 @@ opgehaald: 2026-09-02
 |  | Artikel 2.29.2, tweede lid, onder b |  | Het ontwikkelen van maatregelen en instrumenten | 29-04-2026 t/m 03-06-2026 | € 15.000.000 |
 | Titel 3.4: MKB-innovatiestimulering topsectoren | 3.4.20 | MIT-R&D-samenwerkingsprojecten | 7.a. Digital Technologies: Artificiële Intelligentie (AI) | 07-04-2026 t/m 26-05-2026 | € 3.550.000 |
 |  |  | MIT-R&D-samenwerkingsprojecten |  | 09-06-2026 t/m 15-09-2026 | € 3.000.000, waarvan ten hoogste € 1.500.000 voor MIT-R&D-samenwerkingsprojecten groot |
+| Titel 3.5: Connecting Europe Facility-projecten (CEF-projecten) | artikel 3.5.2, eerste lid |  | Een Nederlands CEF-project op het deelgebied ‘Quantum Communication Infrastructure’, opgenomen in het toepasselijke werkprogramma als bedoeld in de CEF call ‘Quantum Communication Infrastructure’, te raadplegen via https://hadea.ec.europa.eu/calls-proposals/quantum-communication-infrastructure_en | 07-09-2026 t/m 18-09-2026 | € 4.494.173 |
 | Titel 3.6: Maritieme innovatieprojecten | 3.6.2, eerste lid |  |  | 04-11-2025 t/m 03-02-2026 | € 10.500.000 |
 | Titel 3.7: Eurostarsprojecten | 3.7.2 |  | Innovatie (internationaal) | 01-01-2026 t/m 20-01-2026 | € 12.250.000 |
 |  | 3.7.2 |  | Innovatie (internationaal) | 30-06-2026 t/m 28-07-2026 | € 10.506.133 |

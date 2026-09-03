@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0015738"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 16 oktober 2003, nr. W&B/WWB/2003/78560, Directie Werk en Bijstand, houdende nadere regels terzake van enkele in de Wet werk en bijstand en het Besluit WWB geregelde onderwerpen (Regeling WWB)

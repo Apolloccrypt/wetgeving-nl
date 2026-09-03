@@ -1,47 +1,25 @@
 ---
 title: "Instellingsbesluit Commissie van onderzoek mortierongeval Mali"
 identifier: "BWBR0047886"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-18"
-last_updated: "2023-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047886"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16676993"
-version_id: "29253022"
-internal_id: "C41652461"
-label_id: "16594654"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047886/2023-02-18/0"
-intitule_bron: "Stcrt.2023-5596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-10"
-intitule_published: "2023-02-17"
-intitule_in_force: "2023-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-5596"
-original_signed_date: "2023-02-10"
-original_published_date: "2023-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-5596"
-entry_into_force_date: "2023-02-18"
-jci_1_3: "jci1.3:c:BWBR0047886&z=2023-02-18&g=2023-02-18"
-jci_1_0: "1.0:c:BWBR0047886&g=2023-02-18"
-citeertitel_status: "officieel"
-signed_date: "2023-02-10"
-entry_into_force: "2023-02-18"
+publicatiedatum: 2023-02-18
+laatste_update: 2023-02-18
+status: geldig
+toestand: 2023-02-18
+bron: "https://wetten.overheid.nl/BWBR0047886"
+opgehaald: 2026-09-03
 ---
+
 # Instellingsbesluit Commissie van onderzoek mortierongeval Mali
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Defensie;
+- a. *Minister:* Minister van Defensie;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=2&z=2023-02-18&g=2023-02-18).
+- b. *commissie:* commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=2&z=2023-02-18&g=2023-02-18).
 
 ##### Artikel 2. Instelling en taak
 
@@ -187,14 +165,8 @@ De Commissie, de leden van de Commissie en het secretariaat zijn zowel collectie
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=9&z=2023-02-18&g=2023-02-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=10&z=2023-02-18&g=2023-02-18) terug tot en met 1 december 2022 voor zover het gaat om voorbereidende werkzaamheden.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=9&z=2023-02-18&g=2023-02-18) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0047886&artikel=10&z=2023-02-18&g=2023-02-18) terug tot en met 1 december 2022 voor zover het gaat om voorbereidende werkzaamheden.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek mortierongeval Mali.
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Minister voor Natuur en Stikstof, van 7 februari 2023, nr. WJZ/ 26322531 tot instelling van de Commissie schadevergoeding PAS-melders"
+citeertitel: "Instellingsbesluit Commissie schadevergoeding PAS-melders"
 identifier: "BWBR0047873"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-14"
-last_updated: "2023-02-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047873"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16671583"
-version_id: "29242412"
-internal_id: "C41622711"
-label_id: "16589444"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047873/2023-02-14/0"
-intitule_bron: "Stcrt.2023-4495"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-07"
-intitule_published: "2023-02-13"
-intitule_in_force: "2023-02-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-4495"
-original_signed_date: "2023-02-07"
-original_published_date: "2023-02-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-4495"
-entry_into_force_date: "2023-02-14"
-jci_1_3: "jci1.3:c:BWBR0047873&z=2023-02-14&g=2023-02-14"
-jci_1_0: "1.0:c:BWBR0047873&g=2023-02-14"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie schadevergoeding PAS-melders"
-signed_date: "2023-02-07"
-entry_into_force: "2023-02-14"
+publicatiedatum: 2023-02-14
+laatste_update: 2023-02-14
+status: geldig
+toestand: 2023-02-14
+bron: "https://wetten.overheid.nl/BWBR0047873"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister voor Natuur en Stikstof, van 7 februari 2023, nr. WJZ/ 26322531 tot instelling van de Commissie schadevergoeding PAS-melders
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- –. **commissie:** commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047873&artikel=2&z=2023-02-14&g=2023-02-14);
+- – *commissie:* commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047873&artikel=2&z=2023-02-14&g=2023-02-14);
 
-- –. **minister:** Minister voor Natuur en Stikstof;
+- – *minister:* Minister voor Natuur en Stikstof;
 
-- –. **ministerie:** Ministerie van Landbouw, Natuur en Voedselkwaliteit;
+- – *ministerie:* Ministerie van Landbouw, Natuur en Voedselkwaliteit;
 
-- –. **PAS-melder:** degene die een project heeft gerealiseerd waarvoor een melding is gedaan op grond van [artikel 8 van de Regeling programmatische aanpak stikstof](https://wetten.overheid.nl/jci1.3:c:BWBR0036688&artikel=8) zoals dat luidde tot 1 januari 2017 of [artikel 2.7 van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.7) zoals dat luidde op 28 mei 2019.
+- – *PAS-melder:* degene die een project heeft gerealiseerd waarvoor een melding is gedaan op grond van [artikel 8 van de Regeling programmatische aanpak stikstof](https://wetten.overheid.nl/jci1.3:c:BWBR0036688&artikel=8) zoals dat luidde tot 1 januari 2017 of [artikel 2.7 van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.7) zoals dat luidde op 28 mei 2019.
 
 ##### Artikel 2. Instelling
 
@@ -121,5 +95,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie schadevergoeding PAS-melders.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

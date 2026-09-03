@@ -1,41 +1,19 @@
 ---
 title: "Legal Status (Local Employees) Regulations 2020"
 identifier: "BWBR0047757"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-07"
-last_updated: "2026-01-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047757"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16638433"
-version_id: "29184322"
-internal_id: "C41458791"
-label_id: "16558054"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047757/2026-01-07/0"
-intitule_bron: "Stcrt.2023-32"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2019-11-13"
-intitule_published: "2023-01-02"
-intitule_in_force: "2023-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-32"
-original_signed_date: "2019-11-13"
-original_published_date: "2023-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-32"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047757&z=2026-01-07&g=2026-01-07"
-jci_1_0: "1.0:c:BWBR0047757&g=2026-01-07"
-citeertitel_status: "officieel"
-signed_date: "2019-11-13"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2026-01-07
+status: geldig
+toestand: 2026-01-07
+bron: "https://wetten.overheid.nl/BWBR0047757"
+opgehaald: 2026-09-03
 ---
+
 # Legal Status (Local Employees) Regulations 2020
 
-**Version as amended with effect from 1 January 2023**
+*Version as amended with effect from 1 January 2023*
 
 ### Chapter 1. General provisions
 
@@ -43,47 +21,47 @@ entry_into_force: "2023-01-01"
 
 The following definitions are used in these Regulations:
 
-- a. **mission:** a diplomatic representation, a consular representation or a permanent representation to an international organisation of the Kingdom of the Netherlands abroad;
+- a. *mission:* a diplomatic representation, a consular representation or a permanent representation to an international organisation of the Kingdom of the Netherlands abroad;
 
-- b. **head of mission:** the head of a mission;
+- b. *head of mission:* the head of a mission;
 
-- c. **HDPO:** the director of the Human Resources Department of the Ministry of Foreign Affairs;
+- c. *HDPO:* the director of the Human Resources Department of the Ministry of Foreign Affairs;
 
-- d. **employer:** the State of the Netherlands;
+- d. *employer:* the State of the Netherlands;
 
-- e. **employee:** a person employed at a mission on an employment contract subject to local regulations;
+- e. *employee:* a person employed at a mission on an employment contract subject to local regulations;
 
-- f. **family members:** an employee’s partner and dependent children;
+- f. *family members:* an employee’s partner and dependent children;
 
-- g. **partner:**
+- g. *partner:*
 
-- 1°. a spouse;
+   - 1°. a spouse;
 
-- 2°. a registered partner; or
+   - 2°. a registered partner; or
 
-- 3°. a partner with whom an unmarried employee cohabits and runs a joint household, with a view to long-term cohabitation, on the basis of a cohabitation agreement executed by a civil-law notary stating the mutual rights and obligations of the cohabitees in respect of their cohabitation and joint household. Only one person may be deemed to be an employee’s partner at any given time. A person deemed to be an employee’s partner only loses this status on the day this person ceases to be a partner within the meaning of this point of this article;
+   - 3°. a partner with whom an unmarried employee cohabits and runs a joint household, with a view to long-term cohabitation, on the basis of a cohabitation agreement executed by a civil-law notary stating the mutual rights and obligations of the cohabitees in respect of their cohabitation and joint household. Only one person may be deemed to be an employee’s partner at any given time. A person deemed to be an employee’s partner only loses this status on the day this person ceases to be a partner within the meaning of this point of this article;
 
-- h. **dependent children:** the children of an employee or an employee’s partner, including adopted children and stepchildren, who are under 18 and for whom the employee bears full financial responsibility or more than half of the financial responsibility;
+- h. *dependent children:* the children of an employee or an employee’s partner, including adopted children and stepchildren, who are under 18 and for whom the employee bears full financial responsibility or more than half of the financial responsibility;
 
-- i. **mission version:** a document laying out detailed regulations, based on these Regulations, specifically for the country in which a mission is located;
+- i. *mission version:* a document laying out detailed regulations, based on these Regulations, specifically for the country in which a mission is located;
 
-- j. **occupational health service:** the medical officer or health service designated by the head of mission to assist the head of mission in the provision of occupational health support to employees;
+- j. *occupational health service:* the medical officer or health service designated by the head of mission to assist the head of mission in the provision of occupational health support to employees;
 
-- k. **job:** the various duties to be performed by an employee by virtue of and in accordance with the instructions given to the employee by the employer;
+- k. *job:* the various duties to be performed by an employee by virtue of and in accordance with the instructions given to the employee by the employer;
 
-- l. **salary:** the salary amount referred to in chapter 4, part 1, plus the allowances referred to in part 2 of that chapter;
+- l. *salary:* the salary amount referred to in [chapter 4, part 1](https://wetten.overheid.nl/BWBR0047757), plus the allowances referred to in [part 2](https://wetten.overheid.nl/BWBR0047757) of that chapter;
 
-- m. **monthly salary:** the salary amount referred to in chapter 4, part 1 relating to a period of one month, plus the allowances referred to in part 2 of that chapter relating to a period of one month, in so far as these allowances have been awarded for an open-ended period or for a period of at least five consecutive years immediately preceding the end of the employment contract;
+- m. *monthly salary:* the salary amount referred to in [chapter 4, part 1](https://wetten.overheid.nl/BWBR0047757) relating to a period of one month, plus the allowances referred to in [part 2](https://wetten.overheid.nl/BWBR0047757) of that chapter relating to a period of one month, in so far as these allowances have been awarded for an open-ended period or for a period of at least five consecutive years immediately preceding the end of the employment contract;
 
-- n. **local:** in the place where the mission is located;
+- n. *local:* in the place where the mission is located;
 
-- o. **local regulation:** a peremptory provision of employment law in force locally that is applicable to the employee;
+- o. *local regulation:* a peremptory provision of employment law in force locally that is applicable to the employee;
 
-- p. **local usage:** what is standard practice locally at the foreign representations of the United States, the United Kingdom, Germany, Canada and the European Union. If there are fewer than three of the aforementioned foreign representations in the place where the mission is located, HDPO will designate one or more other foreign representations established locally, after consultation with the head of mission;
+- p. *local usage:* what is standard practice locally at the foreign representations of the United States, the United Kingdom, Germany, Canada and the European Union. If there are fewer than three of the aforementioned foreign representations in the place where the mission is located, HDPO will designate one or more other foreign representations established locally, after consultation with the head of mission;
 
-- q. **in-house emergency officer:** an employee working at the mission who has been designated by the head of mission to perform the emergency service activities referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-07) in addition to their normal duties;
+- q. *in-house emergency officer:* an employee working at the mission who has been designated by the head of mission to perform the emergency service activities referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-07) in addition to their normal duties;
 
-- r. **3W:** the director of 3W WorldWide Working (3W **WereldWijd Werken**) at the Ministry of Foreign Affairs.
+- r. *3W:* the director of 3W WorldWide Working (3W *WereldWijd Werken*) at the Ministry of Foreign Affairs.
 
 ##### Article 1.2. Powers
 
@@ -171,15 +149,15 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 1. The employer may require a prospective employee to undergo a medical examination if, in the opinion of the employer, the duties of the job to which the employment contract relates necessitate that special requirements be imposed in terms of medical suitability, including protection of the health and safety of the prospective employee and of third parties in relation to the performance of the work concerned.
 
-2. The costs of the medical examination are borne by the employer. The travel and subsistence expenses necessarily incurred by the prospective employee are reimbursed in accordance with chapter 4, part 5.
+2. The costs of the medical examination are borne by the employer. The travel and subsistence expenses necessarily incurred by the prospective employee are reimbursed in accordance with [chapter 4, part 5](https://wetten.overheid.nl/BWBR0047757).
 
 ##### Article 2.3. Psychological examination
 
 1. A prospective employee may be required to undergo a psychological examination if the employer considers this desirable in view of the nature of the job to be performed.
 
-2. The costs of the psychological examination are borne by the employer. The travel and subsistence expenses necessarily incurred by the prospective employee are reimbursed in accordance with chapter 4, part 5.
+2. The costs of the psychological examination are borne by the employer. The travel and subsistence expenses necessarily incurred by the prospective employee are reimbursed in accordance with [chapter 4, part 5](https://wetten.overheid.nl/BWBR0047757).
 
-3. Paragraphs 1 and 2 apply **mutatis mutandis** to an employee who applies for another job at the mission or another mission.
+3. Paragraphs 1 and 2 apply *mutatis mutandis* to an employee who applies for another job at the mission or another mission.
 
 ##### Article 2.4. Investigation of a prospective employee’s trustworthiness and suitability
 
@@ -245,15 +223,15 @@ The following information is included in the mission version, with due observanc
 
 - a. a working times arrangement that specifies at a minimum:
 
-- 1°. the number of working hours per week for employees;
+   - 1°. the number of working hours per week for employees;
 
-- 2°. a schedule of the start and end of daily working times and, unless this is not in keeping with local regulations and local usage, breaks during the working day on the understanding that, provided the number of working hours is not exceeded, provisions that differ from the working times arrangement contained in the mission version may be laid down in the employment contract of:
+   - 2°. a schedule of the start and end of daily working times and, unless this is not in keeping with local regulations and local usage, breaks during the working day on the understanding that, provided the number of working hours is not exceeded, provisions that differ from the working times arrangement contained in the mission version may be laid down in the employment contract of:
 
-- –. **an employee who usually works at least half of their working hours at the official residence and who enters into employment on or after 1 January 2026; or**
+      - – *an employee who usually works at least half of their working hours at the official residence and who enters into employment on or after 1 January 2026; or*
 
-- –. **a driver/senior driver or security officer/senior security officer who enters into employment on or after 1 January 2026;**
+      - – *a driver/senior driver or security officer/senior security officer who enters into employment on or after 1 January 2026;*
 
-- 3°. the number of days of rest and public holidays when no work is required, except as necessary in the interests of the service for special reasons;
+   - 3°. the number of days of rest and public holidays when no work is required, except as necessary in the interests of the service for special reasons;
 
 - b. provisions concerning the determination of the allowance which employees receive if they perform their duties at times outside the working times arrangement applicable to them.
 
@@ -449,11 +427,11 @@ The following information is included in the mission version, with due observanc
 
 ##### Article 4.11. Payment of gross or net salary; double tax liability
 
-1. If salary is taxable both locally and in the Netherlands, [article 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.9&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis.**
+1. If salary is taxable both locally and in the Netherlands, [article 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.9&z=2026-01-07&g=2026-01-07) applies *mutatis mutandis.*
 
 2. Salaries tax owed in the Netherlands is payable and remitted by the employer.
 
-3. [Paragraph 5 of article 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.10&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
+3. [Paragraph 5 of article 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.10&z=2026-01-07&g=2026-01-07) applies *mutatis mutandis*.
 
 ### § 5. Official travel and travel for the purposes of training
 
@@ -557,7 +535,7 @@ The journey time is calculated from the employee's place of work to the destinat
 
 8. For the purposes of paragraphs 5 and 7, the total flying time of the longest flight will be taken into account.
 
-9. With due regard for paragraphs 5, 6 and 7, the ticket provided to the employee, or the cost reimbursed, will be for a direct flight where available for the journey. If the flying time of a direct flight is more than six hours, the employer may, with due regard for paragraphs 5, 6 and 7, deviate from this if the cost of an indirect flight is at least € 350 less than that of a direct flight and the journey time is at most four hours longer than that of a direct flight.
+9. With due regard for paragraphs 5, 6 and 7, the ticket provided to the employee, or the cost reimbursed, will be for a direct flight where available for the journey. If the flying time of a direct flight is more than six hours, the employer may, with due regard for paragraphs 5, 6 and 7, deviate from this if the cost of an indirect flight is at least € 350 less than that of a direct flight and the journey time is at most four hours longer than that of a direct flight.
 
 10. The employer may allow an employee flying in economy class or equivalent to claim the cost of using a business lounge at an airport if there are special reasons for doing so and if the employee submits a reasoned request.
 
@@ -571,15 +549,15 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 2. Subsistence costs are reimbursed on the basis of the lists of rates for subsistence costs that apply to Dutch civil servants in:
 
-- −. appendix 7 **List of rates for subsistence costs on official trips abroad** (‘**Tarieflijst verblijfkosten buitenlandse dienstreizen’)** of the collective labour agreement for central government (CAO Rijk) for stays outside the Netherlands; and
+- − appendix 7 *List of rates for subsistence costs on official trips abroad* (‘*Tarieflijst verblijfkosten buitenlandse dienstreizen’)* of the collective labour agreement for central government (CAO Rijk) for stays outside the Netherlands; and
 
-- −. part 10.2 **Official trips in the Netherlands** of the collective labour agreement for central government (CAO Rijk) for stays within the Netherlands.
+- − part 10.2 *Official trips in the Netherlands* of the collective labour agreement for central government (CAO Rijk) for stays within the Netherlands.
 
 3. The allowance for subsistence costs comprises:
 
 - a. an hourly component: an allowance for minor expenses equal to 1.5% of the amount for other costs specified in the list of rates for each hour of travel;
 
-- b. an accommodation component: reimbursement of the actual costs of accommodation up to the maximum amount per night specified in the list of rates. If no supporting document can be submitted to demonstrate that accommodation costs were incurred at an establishment intended for the purpose, an amount of € 11.34 will be reimbursed for each night’s accommodation up to a maximum of four nights per trip;
+- b. an accommodation component: reimbursement of the actual costs of accommodation up to the maximum amount per night specified in the list of rates. If no supporting document can be submitted to demonstrate that accommodation costs were incurred at an establishment intended for the purpose, an amount of € 11.34 will be reimbursed for each night’s accommodation up to a maximum of four nights per trip;
 
 - c. a breakfast component: an allowance for breakfast equal to 12% of the amount for other costs specified in the list of rates for each period between 06.00 to 08.00 during the trip;
 
@@ -629,13 +607,13 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 1. If climatic conditions or other special circumstances in a country that will be visited in the course of an official trip or a trip for the purposes of training differ significantly from those in the country where the employee works, the employer may grant an allowance to the employee towards the demonstrably and, in the opinion of the employer, necessarily incurred costs of special clothing and equipment.
 
-2. The allowance is equal to half of the costs necessarily incurred. The maximum allowance for each calendar year is € 453.78, consisting of € 226.89 for locations with a tropical climate and € 226.89 for locations with a polar climate.
+2. The allowance is equal to half of the costs necessarily incurred. The maximum allowance for each calendar year is € 453.78, consisting of € 226.89 for locations with a tropical climate and € 226.89 for locations with a polar climate.
 
 ##### Article 4.23. Costs related to sickness, accident or the loss, theft of or damage to luggage
 
 1. If an employee demonstrably incurs necessary costs during an official trip or a trip for the purposes of training as a result of sickness or an accident, the employer can set an amount for the reimbursement of these costs.
 
-2. If an employee demonstrably incurs necessary costs as a result of the loss, theft of or damage to luggage the employee needed to take on the official trip or trip for the purposes of training, the employer can set an amount for the reimbursement of these costs. The maximum amount reimbursed for the costs of the loss, theft of or damage to luggage is € 2,268.90 per trip.
+2. If an employee demonstrably incurs necessary costs as a result of the loss, theft of or damage to luggage the employee needed to take on the official trip or trip for the purposes of training, the employer can set an amount for the reimbursement of these costs. The maximum amount reimbursed for the costs of the loss, theft of or damage to luggage is € 2,268.90 per trip.
 
 ### § 6. Reimbursement of other costs
 
@@ -671,7 +649,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 4. The payment is inclusive of any payments made under insurance policies taken out or reimbursed by the employer.
 
-5. The payment is paid net and is grossed up for the purposes of the applicable local or Dutch tax law. Chapter 4, part 4 applies **mutatis mutandis**.
+5. The payment is paid net and is grossed up for the purposes of the applicable local or Dutch tax law. [Chapter 4, part 4](https://wetten.overheid.nl/BWBR0047757) applies *mutatis mutandis*.
 
 6. The amount of the payment to be awarded in the event of permanent disability depends on the degree of disability and is determined, subject to the above-mentioned maximum, in accordance with the criteria of the American Medical Association’s Guides to the Evaluation of Permanent Impairment (AMA Guides).
 
@@ -803,7 +781,7 @@ The amount of the contribution towards medical expenses and any further conditio
 
 8. A part-time employee is entitled to a proportionate part of the contribution payable under paragraphs 1, 4 and 5 to a full-time employee.
 
-9. The head of mission may permit the employee, following the end of the employment contract, to continue participating at the employee’s own expense in the health insurance policy taken out by the employer, provided that the insurer allows this. The previous sentence applies **mutatis mutandis** to the members of the employee’s family. The head of mission may set conditions for such participation.
+9. The head of mission may permit the employee, following the end of the employment contract, to continue participating at the employee’s own expense in the health insurance policy taken out by the employer, provided that the insurer allows this. The previous sentence applies *mutatis mutandis* to the members of the employee’s family. The head of mission may set conditions for such participation.
 
 ##### Article 5.10. Reimbursement of medical expenses in the event of a work-related accident or occupational sickness
 
@@ -845,17 +823,17 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 - d. during a period that the employee:
 
-- 1°. refuses to submit to a medical examination by or on behalf of the occupational health service or, after being given notice of such an examination, fails to attend without a valid reason;
+   - 1°. refuses to submit to a medical examination by or on behalf of the occupational health service or, after being given notice of such an examination, fails to attend without a valid reason;
 
-- 2°. fails without a valid reason to undergo, or to continue to undergo, medical treatment or fails to obey the instructions given by the treating physician, other than instructions to undergo an invasive medical procedure;
+   - 2°. fails without a valid reason to undergo, or to continue to undergo, medical treatment or fails to obey the instructions given by the treating physician, other than instructions to undergo an invasive medical procedure;
 
-- 3°. acts in a way that hinders or delays recovery;
+   - 3°. acts in a way that hinders or delays recovery;
 
-- 4°. works either for themselves or for third parties during the period of unfitness to work due to sickness, unless the occupational health service considers this to be desirable in the interests of recovery;
+   - 4°. works either for themselves or for third parties during the period of unfitness to work due to sickness, unless the occupational health service considers this to be desirable in the interests of recovery;
 
-- 5°. fails to return to work and resume their duties at the time and to the extent determined by the occupational health service, unless the employee has given a reason recognised as valid by this service or the employer;
+   - 5°. fails to return to work and resume their duties at the time and to the extent determined by the occupational health service, unless the employee has given a reason recognised as valid by this service or the employer;
 
-- 6°. refuses, without good grounds, to accept an offer of work which is suitable and which the occupational health service believes the employee is capable of performing.
+   - 6°. refuses, without good grounds, to accept an offer of work which is suitable and which the occupational health service believes the employee is capable of performing.
 
 ### § 8. Pregnancy and birth
 
@@ -1011,7 +989,7 @@ The conditions that apply when a staff residence is made available to an employe
 
 1. Employees who take the initiative to undergo training may at their request be fully or partially reimbursed for the necessary costs of training or granted paid training leave, if training is the interests of the service.
 
-2. [Article 6.11, paragraphs 4 and 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.11&z=2026-01-07&g=2026-01-07) apply **mutatis mutandis**.
+2. [Article 6.11, paragraphs 4 and 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.11&z=2026-01-07&g=2026-01-07) apply *mutatis mutandis*.
 
 ### § 4. Introductory interviews, staff interviews and assessments
 
@@ -1065,15 +1043,15 @@ The employer adopts the plan of action after the head of mission has consulted w
 
 - a. an employee with a fixed-term or open-ended employment contract:
 
-- 1°. whose contract has been terminated by the employer as a result of the job ceasing to exist; or
+   - 1°. whose contract has been terminated by the employer as a result of the job ceasing to exist; or
 
-- 2°. who has been notified orally or in writing by the employer that the contract is expected to be terminated as a result of the job ceasing to exist;
+   - 2°. who has been notified orally or in writing by the employer that the contract is expected to be terminated as a result of the job ceasing to exist;
 
 - b. an employee with a fixed-term employment contract who was hired before the announcement of the reorganisation which led to the job ceasing to exist and:
 
-- 1°. whose contract was not renewed by the employer as a result of the job ceasing to exist; or
+   - 1°. whose contract was not renewed by the employer as a result of the job ceasing to exist; or
 
-- 2°. who has been notified orally or in writing by the employer that the contract is not expected to be renewed as a result of the job ceasing to exist.
+   - 2°. who has been notified orally or in writing by the employer that the contract is not expected to be renewed as a result of the job ceasing to exist.
 
 A job loser who is informed by the employer that, on reflection, the employment contract will not be terminated as a result of the job ceasing to exist will no longer be considered a job loser from then on.
 
@@ -1167,7 +1145,7 @@ The total sum of the contributions referred to in [articles 6.23](https://wetten
 
 - a. having household effects packed, unpacked and transported over land or water in a 40-foot container by a removal firm designated by 3W. If a container of this kind is not used, the allowance relates to a maximum volume of 60 m3;
 
-- b. insurance covering the household effects transported at the employer’s expense, up to a maximum value of € 2,500 per m3.
+- b. insurance covering the household effects transported at the employer’s expense, up to a maximum value of € 2,500 per m3.
 
 3. If a job loser starting work in a new job and any family members do not yet have a home in the vicinity of the location of the unit concerned, the job loser will be reimbursed for temporary housing costs incurred for three months, up to a maximum of 25% of the gross monthly salary for the new job.
 
@@ -1177,9 +1155,9 @@ The total sum of the contributions referred to in [articles 6.23](https://wetten
 
 - b. the following costs incurred by the job loser, the job loser’s partner and any dependent children are reimbursed:
 
-- 1°. the cost of travel by air or public transport, up to a maximum equal to the cost of an economy class airfare;
+   - 1°. the cost of travel by air or public transport, up to a maximum equal to the cost of an economy class airfare;
 
-- 2°. the cost of travel using the job loser’s own vehicle at a rate of € 0.19 per kilometre, up to a maximum equal to the cost of travel in accordance with 10.
+   - 2°. the cost of travel using the job loser’s own vehicle at a rate of € 0.19 per kilometre, up to a maximum equal to the cost of travel in accordance with 10.
 
 5. A job loser is granted a contribution towards the cost of refurbishing the new home in the vicinity of the location of the unit concerned amounting to 12% of the full-time equivalent of the job loser’s gross annual salary in the new job.
 
@@ -1331,7 +1309,7 @@ The employment contract ends on the first day following the day on which the emp
 
 ##### Article 8.7. End of an employment contract when an employee is missing
 
-1. If an employee is missing and, considering all the circumstances, it can be regarded as certain that the employee is dead, the employee will be deemed to have died on a date to be determined by the employer. In such a case [article 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
+1. If an employee is missing and, considering all the circumstances, it can be regarded as certain that the employee is dead, the employee will be deemed to have died on a date to be determined by the employer. In such a case [article 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) applies *mutatis mutandis*.
 
 2. [Article 8.6, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) does not apply if there is good reason to believe that the employee is absent without leave.
 
@@ -1385,9 +1363,9 @@ The employment contract ends on the first day following the day on which the emp
 
 - a. supplement: the amount consisting of the difference between:
 
-- 1°. the supplementation ceiling and
+   - 1°. the supplementation ceiling and
 
-- 2°. the amount of the provisions referred to in this chapter to which the employee is entitled on other grounds;
+   - 2°. the amount of the provisions referred to in this chapter to which the employee is entitled on other grounds;
 
 - b. supplementation ceiling: the maximum supplement which may be granted pursuant to [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-07), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07) and [article 9.8, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07);
 
@@ -1395,7 +1373,7 @@ The employment contract ends on the first day following the day on which the emp
 
 - d. pension date: the first day following the day on which the employee or ex-employee reaches the age of retirement referred to in [article 8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.5&z=2026-01-07&g=2026-01-07);
 
-- e. qualifying salary: the salary amount, calculated over a period of one year, belonging to the pay scale and the pay number which last applied to the employee, for which purpose the salary amount is taken to be that which applies to the pay scale and the pay number at the moment of payment, on the understanding that if the salary amount referred to above is less than the salary amount previously applicable, the latter is treated as the qualifying salary until the salary amount at the moment of payment is equal to or higher than the salary amount previously applicable. This amount is increased by the allowances referred to in chapter 4, part 2 (as at the moment of payment), calculated over a period of one year, in so far as such allowances were granted for an open-ended period or for a period of at least five consecutive years immediately preceding the termination of the employment contract. If on the date of payment of the supplement major changes have been made to the system of pay scales and pay numbers that most recently applied to the employee, 3W must reasonably and fairly reposition the employee’s most recent salary amount within the structure in use at that moment for the purposes of calculating the qualifying salary.
+- e. qualifying salary: the salary amount, calculated over a period of one year, belonging to the pay scale and the pay number which last applied to the employee, for which purpose the salary amount is taken to be that which applies to the pay scale and the pay number at the moment of payment, on the understanding that if the salary amount referred to above is less than the salary amount previously applicable, the latter is treated as the qualifying salary until the salary amount at the moment of payment is equal to or higher than the salary amount previously applicable. This amount is increased by the allowances referred to in [chapter 4, part 2](https://wetten.overheid.nl/BWBR0047757) (as at the moment of payment), calculated over a period of one year, in so far as such allowances were granted for an open-ended period or for a period of at least five consecutive years immediately preceding the termination of the employment contract. If on the date of payment of the supplement major changes have been made to the system of pay scales and pay numbers that most recently applied to the employee, 3W must reasonably and fairly reposition the employee’s most recent salary amount within the structure in use at that moment for the purposes of calculating the qualifying salary.
 
 2. To determine the amount referred to in paragraph 1 (a) 2° of the provisions referred to in this chapter to which entitlement exists on other grounds, use will be made of the formulas adopted by the Secretary-General of the Ministry of Foreign Affairs if it is necessary to:
 
@@ -1425,7 +1403,7 @@ Where necessary, this calculation must take into account the average life expect
 
 1. Where local regulations or local usage so require, the employer must locally take out insurance or make comparable provision to ensure the accrual of an old age pension and provide cover in the event of death. In that case the employer must deduct part or all of the premium from the employee’s salary in accordance with local regulations or local usage. The nature of the insurance or provision and the percentage of the premium withheld from the employee’s salary are specified in the mission version.
 
-2. The employer takes out insurance locally for the employee that provides cover in the event of invalidity, if local regulations or local usage so require. In such a case the second and third sentences of paragraph 1 apply **mutatis mutandis**.
+2. The employer takes out insurance locally for the employee that provides cover in the event of invalidity, if local regulations or local usage so require. In such a case the second and third sentences of paragraph 1 apply *mutatis mutandis*.
 
 ### § 3. Supplementation of old age pensions
 
@@ -1479,7 +1457,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 4. The supplement referred to in paragraph 1 is granted to the surviving dependant with effect from the first day of the month following the month in which the employee or ex-employee died. The provision of the supplement ends:
 
-- a. on the first day of the month following the month in which the period during which the supplement was paid is equal to the period of employment, but no sooner than five years after the death of the employee or ex-employee. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**;
+- a. on the first day of the month following the month in which the period during which the supplement was paid is equal to the period of employment, but no sooner than five years after the death of the employee or ex-employee. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies *mutatis mutandis*;
 
 - b. on the first day of the month following the month in which the surviving dependant dies;
 
@@ -1529,7 +1507,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 - c. the ex-employee dies; or
 
-- d. the supplement has been paid for a period equal to the period of employment, subject to a minimum period of five years. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
+- d. the supplement has been paid for a period equal to the period of employment, subject to a minimum period of five years. The second sentence of [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07) applies *mutatis mutandis*.
 
 5. Paragraph 4 (d) does not apply if the invalidity is, in the opinion of the employer, largely due to the nature of the duties which the employee was instructed to perform or to the special circumstances in which they had to be performed and is not attributable to the employee’s fault or actions.
 
@@ -1547,13 +1525,13 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 3. During any period in which the ex-employee does not cooperate with regard to the medical examination referred to in paragraphs 1 and 2, no entitlement to a supplement exists, unless the ex-employee cannot reasonably be faulted for failing to cooperate.
 
-4. The costs of the medical examination referred to in paragraphs 1 and 2 are borne by the employer. The travel expenses incurred by the ex-employee in connection with this article are reimbursed in accordance with chapter 4, part 5, on the understanding that, if the ex-employee has moved since the first day of the condition leading to the termination of employment to a different place than where the mission is located, the amount paid out will not be any higher than it would have been if the ex-employee had not moved.
+4. The costs of the medical examination referred to in paragraphs 1 and 2 are borne by the employer. The travel expenses incurred by the ex-employee in connection with this article are reimbursed in accordance with [chapter 4, part 5](https://wetten.overheid.nl/BWBR0047757), on the understanding that, if the ex-employee has moved since the first day of the condition leading to the termination of employment to a different place than where the mission is located, the amount paid out will not be any higher than it would have been if the ex-employee had not moved.
 
 ### § 6. Payment of supplements
 
 ##### Article 9.10. Fixing and payment of supplements
 
-1. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07) and [4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.28&z=2026-01-07&g=2026-01-07) apply **mutatis mutandis** to fixing and paying supplements. 3W may, in individual cases, deviate from article 4.28, paragraph 5.
+1. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07) and [4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.28&z=2026-01-07&g=2026-01-07) apply *mutatis mutandis* to fixing and paying supplements. 3W may, in individual cases, deviate from article 4.28, paragraph 5.
 
 2. A supplement to be paid periodically, as referred to in [article 9.4, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), [article 9.6, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.6&z=2026-01-07&g=2026-01-07), [article 9.7, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.7&z=2026-01-07&g=2026-01-07), and [article 9.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07) is set by the employer as a fixed amount which will remain unchanged for a period not exceeding 12 months. Early adjustment of that amount is possible if the employer believes that this is necessary due to special circumstances.
 
@@ -1563,19 +1541,19 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 5. The amount of the one-off payment is calculated using the formulas established by HDPO for this purpose, which in any event take account of the following:
 
-- −. the supplementation ceiling applicable to the person concerned;
+- − the supplementation ceiling applicable to the person concerned;
 
-- −. the provisions referred to in this chapter to which the person concerned is entitled on other grounds and which are deducted from the supplementation ceiling;
+- − the provisions referred to in this chapter to which the person concerned is entitled on other grounds and which are deducted from the supplementation ceiling;
 
-- −. the age of the person concerned;
+- − the age of the person concerned;
 
-- −. the civil status of the person concerned;
+- − the civil status of the person concerned;
 
-- −. the pension date referred to in the mission version;
+- − the pension date referred to in the mission version;
 
-- −. a table showing the average life expectancy for the relevant country or region.
+- − a table showing the average life expectancy for the relevant country or region.
 
-6. Paragraph 4 may be applied **mutatis mutandis** by the employer to an employee or ex-employee who is not yet receiving a supplement and whose employment contract or successive employment contracts has/have lasted for 15 years or less, if the mission where the person concerned is or was most recently employed has been closed or is scheduled to close within six months and no employees are or will be employed in that country after the closure.
+6. Paragraph 4 may be applied *mutatis mutandis* by the employer to an employee or ex-employee who is not yet receiving a supplement and whose employment contract or successive employment contracts has/have lasted for 15 years or less, if the mission where the person concerned is or was most recently employed has been closed or is scheduled to close within six months and no employees are or will be employed in that country after the closure.
 
 7. Notwithstanding [article 9.1, paragraph 1 (e)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.1&z=2026-01-07&g=2026-01-07), the qualifying salary for an employee or ex-employee to whom neither paragraph 4 nor paragraph 6 applies is determined as follows. From 1 January of the year following that in which pay scales were last fixed for the closed mission, the salary amount referred to in article 9.1, paragraph 1 (e) is to be adjusted by the employer in each case by reference to the rate of inflation in the country where the mission was located, subject to a maximum of 15%. If the inflation rate exceeds 15% HDPO may decide to fix the adjustment level at more than 15%. The inflation rate is based on data from the Economist Intelligence Unit (EIU).
 
@@ -1597,17 +1575,17 @@ These Regulations enter into force on 1 January 2020.
 
 2. Notwithstanding paragraph 1, in the following mission versions [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) is not repealed but will be amended as soon as possible with due observance of [article 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07) of these Regulations and local regulations:
 
-- −. the Mission Version for Costa Rica 2020;
+- − the Mission Version for Costa Rica 2020;
 
-- −. the Mission Version for Hong Kong 2020;
+- − the Mission Version for Hong Kong 2020;
 
-- −. the Mission Version for Israel 2020;
+- − the Mission Version for Israel 2020;
 
-- −. the Mission Version for Italy 2020;
+- − the Mission Version for Italy 2020;
 
-- −. the Mission Version for Peru 2020;
+- − the Mission Version for Peru 2020;
 
-- −. the Mission Version for the United States of America 2020.
+- − the Mission Version for the United States of America 2020.
 
 Until [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) of these mission versions has been amended, the provisions of that article relate only to a one-off transition redundancy payment as compensation for the disadvantageous consequences of termination of employment as referred to in [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07) of these Regulations and not to a one-off old age pension redundancy payment to make provision for old age pension as referred to in article 8.3, paragraph 2 of these Regulations.
 
@@ -1618,38 +1596,3 @@ Until [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&
 ##### Article 10.3. Short title
 
 These Regulations are to be cited as: Legal Status (Local Employees) Regulations 2020.
-
-## Annexe 1. Jobs and pay scales
-
-| cleaning staff | scale 1 |
-| --- | --- |
-| catering staff | scale 1 |
-| housekeeping coordinator | scale 2 |
-| garden maintenance staff | scale 1 |
-| messenger | scale 2 |
-| security guard | scale 1 |
-| senior security guard | scale 2 |
-| facilities officer | scale 3 |
-| senior facilities officer | scale 4 |
-| chef | scale 3 |
-| head chef | scale 6 |
-| driver | scale 3 |
-| senior driver | scale 4 |
-| receptionist/telephone operator | scale 4 |
-| secretary/administrative assistant | scale 5 |
-| senior secretary/administrative assistant | scale 6 |
-| records officer | scale 5 |
-| senior records officer | scale 6 |
-| general affairs/accounting officer | scale 5 |
-| senior general affairs/accounting officer | scale 6 |
-| general affairs officer | scale 6 |
-| senior general affairs officer | scale 7 |
-| consular affairs officer | scale 6 |
-| senior consular affairs officer | scale 7 |
-| interpreter/translator | scale 7 |
-| press and cultural affairs/economic affairs officer | scale 7 |
-| senior press and cultural affairs/economic affairs officer | scale 8 |
-| policy officer | scale 9 |
-| senior policy officer | scale 10 |
-
-These Regulations are to be published in the Government Gazette with the explanatory notes and [annexes](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07).

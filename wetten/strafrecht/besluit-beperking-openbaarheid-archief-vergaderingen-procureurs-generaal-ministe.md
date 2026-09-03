@@ -1,48 +1,22 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 28 februari 2023, kenmerk 2322822, houdende beperking van de openbaarheid van het archief betreffende de Vergaderingen van Procureurs-Generaal van het Ministerie van Justitie 1935–1994 (1995)"
+citeertitel: "Besluit beperking openbaarheid archief Vergaderingen Procureurs-Generaal Ministerie van Justitie 1935–1994 (1995)"
 identifier: "BWBR0047954"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-11"
-last_updated: "2023-03-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047954"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16691773"
-version_id: "29279792"
-internal_id: "C41706711"
-label_id: "16609094"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047954/2023-03-11/0"
-intitule_bron: "Stcrt.2023-7167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-28"
-intitule_published: "2023-03-10"
-intitule_in_force: "2023-03-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-7167"
-original_signed_date: "2023-02-28"
-original_published_date: "2023-03-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-7167"
-entry_into_force_date: "2023-03-11"
-jci_1_3: "jci1.3:c:BWBR0047954&z=2023-03-11&g=2023-03-11"
-jci_1_0: "1.0:c:BWBR0047954&g=2023-03-11"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Vergaderingen Procureurs-Generaal Ministerie van Justitie 1935–1994 (1995)"
-signed_date: "2023-02-28"
-entry_into_force: "2023-03-11"
+publicatiedatum: 2023-03-11
+laatste_update: 2023-03-11
+status: geldig
+toestand: 2023-03-11
+bron: "https://wetten.overheid.nl/BWBR0047954"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 28 februari 2023, kenmerk 2322822, houdende beperking van de openbaarheid van het archief betreffende de Vergaderingen van Procureurs-Generaal van het Ministerie van Justitie 1935–1994 (1995)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 24 november 2021, met kenmerk zaaknummer 100679.
-
-Besluit: Tot de volgende beperkingen aan de openbaarheid van het archief van de Vergaderingen van Procureurs-Generaal van het Ministerie van Justitie 1935–1994 (1995).
 
 ##### Artikel 1
 
-Gelet op het feit dat in de inventarisnummers genoemd in de eerste kolom bijzondere persoonsgegevens als, bedoeld in de Algemene Verordening Gegevensbescherming, voorkomen zijn deze inventarisnummers met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Gelet op het feit dat in de inventarisnummers genoemd in de eerste kolom bijzondere persoonsgegevens als, bedoeld in de Algemene Verordening Gegevensbescherming, voorkomen zijn deze inventarisnummers met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnr. | Beperkt openbaar tot | Inventarisnr. | Beperkt openbaar tot | Inventarisnr. | Beperkt openbaar tot |
 | --- | --- | --- | --- | --- | --- |
@@ -250,7 +224,7 @@ Gelet op het feit dat in de inventarisnummers genoemd in de eerste kolom bijzond
 
 ##### Artikel 2
 
-De inventarisnummers genoemd in artikel 2, genoemd in de eerste kolom, zijn beperkt openbaar in verband met de belangen van de staat en zijn bondgenoten, i.v.m. overleg met de Binnenlandse Veiligheidsdienst, tot 1 januari van het jaar genoemd in de tweede kolom
+De inventarisnummers genoemd in artikel 2, genoemd in de eerste kolom, zijn beperkt openbaar in verband met de belangen van de staat en zijn bondgenoten, i.v.m. overleg met de Binnenlandse Veiligheidsdienst, tot 1 januari van het jaar genoemd in de tweede kolom
 
 | Inventarisnummer | Beperkt openbaar tot |
 | --- | --- |

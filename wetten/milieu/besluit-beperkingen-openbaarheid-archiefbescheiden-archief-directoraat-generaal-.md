@@ -1,49 +1,21 @@
 ---
 title: "Besluit beperkingen openbaarheid archiefbescheiden archief Directoraat-Generaal Rijksluchtvaartdienst, 1919–1982, nummer toegang 2.16.5240"
 identifier: "BWBR0047810"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-26"
-last_updated: "2023-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047810"
+categorie: "Verkeer"
 soort: "ministeriele-regeling"
-stam_id: "16658453"
-version_id: "29216422"
-internal_id: "C41511711"
-label_id: "16576304"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047810/2023-01-26/0"
-intitule_bron: "Stcrt.2023-3015"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-01-17"
-intitule_published: "2023-01-25"
-intitule_in_force: "2023-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-3015"
-original_signed_date: "2023-01-17"
-original_published_date: "2023-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-3015"
-entry_into_force_date: "2023-01-26"
-jci_1_3: "jci1.3:c:BWBR0047810&z=2023-01-26&g=2023-01-26"
-jci_1_0: "1.0:c:BWBR0047810&g=2023-01-26"
-citeertitel_status: "redactioneel"
-signed_date: "2023-01-17"
-entry_into_force: "2023-01-26"
+publicatiedatum: 2023-01-26
+laatste_update: 2023-01-26
+status: geldig
+toestand: 2023-01-26
+bron: "https://wetten.overheid.nl/BWBR0047810"
+opgehaald: 2026-09-03
 ---
+
 # Besluit beperkingen openbaarheid archiefbescheiden archief Directoraat-Generaal Rijksluchtvaartdienst, 1919–1982, nummer toegang 2.16.5240
-
-Gelet op [artikel 15 eerste lid onder b, en tweede lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van het Directoraat-Generaal van de Rijksluchtvaartdienst, 1919–1982, nummer toegang 2.16.5240.
 
 ##### Artikel 1
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot **1 januari**van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot *1 januari*van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers | Jaar |
 | --- | --- |
@@ -83,7 +55,7 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 
 ##### Artikel 2
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in **artikel 1** is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de Minister van Infrastructuur en Waterstaat.
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in *artikel 1* is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de Minister van Infrastructuur en Waterstaat.
 
 ##### Artikel 3
 

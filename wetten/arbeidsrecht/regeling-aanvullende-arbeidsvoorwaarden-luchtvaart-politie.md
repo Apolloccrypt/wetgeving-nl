@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0044408"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)

@@ -8,7 +8,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0028236"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Uitvoeringsregeling loonbelasting 2011

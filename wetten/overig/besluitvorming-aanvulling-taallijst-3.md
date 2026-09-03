@@ -1,113 +1,105 @@
 ---
 title: "Besluitvorming Aanvulling taallijst 3"
 identifier: "BWBR0047569"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-12-02"
-last_updated: "2022-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047569"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16584533"
-version_id: "29104482"
-internal_id: "C41368911"
-label_id: "16503994"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047569/2022-12-02/0"
-intitule_bron: "Stcrt.2022-31847"
-intitule_effect: "wijziging"
-intitule_signed: "2022-11-18"
-intitule_published: "2022-12-01"
-intitule_in_force: "2022-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31847"
-original_signed_date: "2022-11-18"
-original_published_date: "2022-12-01"
-original_effect: "wijziging"
-original_url_id: "stcrt-2022-31847"
-entry_into_force_date: "2022-12-02"
-jci_1_3: "jci1.3:c:BWBR0047569&z=2022-12-02&g=2022-12-02"
-jci_1_0: "1.0:c:BWBR0047569&g=2022-12-02"
-citeertitel_status: "officieel"
-signed_date: "2022-11-18"
-entry_into_force: "2022-12-02"
+publicatiedatum: 2022-12-02
+laatste_update: 2022-12-02
+status: geldig
+toestand: 2022-12-02
+bron: "https://wetten.overheid.nl/BWBR0047569"
+opgehaald: 2026-09-03
 ---
+
 # Besluitvorming Aanvulling taallijst 3
 
-**Overwegende dat:**
+- − Het Bambara in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Adviescommissie Talen Wbtv zijn grondslag vindt in de [Regeling van de Raad voor Rechtsbijstand van 6 augustus 2015, houdende de instelling van de Adviescommissie Talen Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036939) (Stcrt 2015, nr. 25102);
+- − Het Bilen slechts in de gesproken variant in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Adviescommissie Talen Wbtv advies uitbrengt over de wettelijke competentie Taalvaardigheid;
+- − Het Cherepon in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-de Raad voor Rechtsbijstand aanleiding heeft gezien om advies in te winnen bij de Adviescommissie Talen Wbtv omtrent het aanvullen van de taallijst;
+- − Het Dagbani in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-De Adviescommissie Talen Wbtv op 23 juli 2021 en 13 oktober 2022 advies heeft uitgebracht;
+- − Het Duala in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-**Stelt vast dat:**
+- − Het Gilaki in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Ambons Maleis een niet-voorkeursnaam is voor het Moluks Maleis;
+- − Het Harari in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bamileke-Dschang een niet-voorkeursnaam is voor het Yemba;
+- − Het Hindko in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bamileke-Mengaka een niet-voorkeursnaam is voor het Mengaka;
+- − Het Hmong in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bamileke-Ngiemboom een niet-voorkeursnaam is voor het Ngiemboon;
+- − Het Ika in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bamileke-Ngomba een niet-voorkeursnaam is voor het Ngomba;
+- − Het Masalit slechts in de gesproken variant in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bamileke-Ngombale een niet-voorkeursnaam is voor het Ngombale;
+- − Het Mengaka in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Bilen niet ruim schriftelijk wordt gebruikt;
+- − Het Moluks Maleis in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Chaldeeuws een niet-voorkeursnaam is voor het Aramees (Suret);
+- − Het Nso in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Chaldeeuws berust op religieuze motieven, en niet op taalkundige motieven;
+- − Het Ngiemboon in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Dagbanli een niet-voorkeursnaam is voor het Dagbani;
+- − Het Ngomba in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Damut een niet-voorkeursnaam is voor het Tama;
+- − Het Ngombale in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Diola een niet-voorkeursnaam is voor het Jola;
+- − Het Ovambo in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Dyola een niet-voorkeursnaam is voor het Jola;
+- − Het Pahari-Pothwari in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Faili geen niet-voorkeursnaam is van het Feyli;
+- − Het Tama in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Faili geen niet-voorkeursnaam is van het Afar;
+- − Het Tetela in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Jola niet een niet-voorkeursnaam is voor het Jola-Fonyi;
+- − Het Tswana in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Jola naar een groep talen refereert;
+- − Het Waama in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Lamnso een niet-voorkeursnaam is voor het Nso;
+- − Het Yamba in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Lusoga een niet-voorkeursnaam is voor het Soga;
+- − Het Yemba in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Masalit niet ruim schriftelijk gebruikt wordt;
+- − Het Zarma in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Masarak een niet-voorkeursnaam is voor het Masalit;
+- − Het Faili niet in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Massalit een niet-voorkeursnaam is voor het Masalit;
+- − Het Jola niet in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Moluks een niet-voorkeursnaam is voor het Moluks Maleis;
+- − Het Roetheens niet in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Okere een niet-voorkeursnaam is voor het Cherepon;
+- − Het Bamileke-Dschang als niet-voorkeursnaam voor het Yemba in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Oshivambo een niet-voorkeursnaam is voor het Ovambo;
+- − Het Bamileke-Mengaka als niet-voorkeursnaam voor het Mengaka in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Roetheens een dialect is van het Oekraïens;
+- − Het Bamileke-Ngiemboom als niet-voorkeursnaam voor het Ngieboom in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Setswana een niet-voorkeursnaam is voor het Tswana;
+- − Het Bamileke-Ngomba als niet-voorkeursnaam voor het Ngomba in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Het Sungu een niet-voorkeursnaam is voor het Tetela;
+- − Het Bamileke-Ngombale voor het als niet-voorkeursnaam voor het Ngombale de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-**Besluit dat:**
+- − Het Chaldeeuws wordt als niet-voorkeursnaam voor het Aramees (Suret) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-**Slotbepalingen**
+- − Het Dagbanli als niet-voorkeursnaam voor het Dagbani in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
 
-Dit besluit wordt aangehaald als ...‘**Besluitvorming Aanvulling taallijst 3**’....
+- − Het Damut als niet-voorkeursnaam voor het Tama in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- − Het Lamnso als niet-voorkeursnaam voor het Nso in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- − Het Okere als niet-voorkeursnaam voor het Cherepon in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- − Het Oshivambo als niet-voorkeursnaam voor het Ovambo in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- − Het Setswana als niet-voorkeursnaam voor het Tswana in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- − Het Sungu als niet-voorkeursnaam voor het Tetela in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+*Slotbepalingen*
+
+Dit besluit wordt aangehaald als ...‘*Besluitvorming Aanvulling taallijst 3*’....
 
 Bekendmaking vindt plaats door publicatie in de Staatscourant.
 

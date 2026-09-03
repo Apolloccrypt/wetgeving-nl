@@ -1,50 +1,42 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 25 oktober 2022, kenmerk 3577266, houdende beperking van de openbaarheid op de geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133"
+citeertitel: "Besluit beperking openbaarheid geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133"
 identifier: "BWBR0047453"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-12"
-last_updated: "2022-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047453"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16562313"
-version_id: "29035512"
-internal_id: "C41098531"
-label_id: "16482304"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047453/2022-11-12/0"
-intitule_bron: "Stcrt.2022-30193"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-25"
-intitule_published: "2022-11-11"
-intitule_in_force: "2022-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-30193"
-original_signed_date: "2022-10-25"
-original_published_date: "2022-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-30193"
-entry_into_force_date: "2022-11-12"
-jci_1_3: "jci1.3:c:BWBR0047453&z=2022-11-12&g=2022-11-12"
-jci_1_0: "1.0:c:BWBR0047453&g=2022-11-12"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133"
-signed_date: "2022-10-25"
-entry_into_force: "2022-11-12"
+publicatiedatum: 2022-11-12
+laatste_update: 2022-11-12
+status: geldig
+toestand: 2022-11-12
+bron: "https://wetten.overheid.nl/BWBR0047453"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 25 oktober 2022, kenmerk 3577266, houdende beperking van de openbaarheid op de geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133
 
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 16 december 2021, met kenmerk 1168291.
+Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 16 december 2021, met kenmerk 1168291.
 
 Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid op de geluidsbanden van de processen tegen P.N. Menten 1976–1980 toegang 2.09.133.
 
+| Bandnr. | GVO nr. | onderwerp | Verwijzing Inventarisnr |
+| --- | --- | --- | --- |
+| I |  | Onderzoek ontvankelijkheid OM i.o.v. de Hoge Raad 29 mei 1978 |  |
+| II | 3 | Verhoor verdachte door Rechter Commissaris | 45 |
+| III | 3 | Verhoor verdachte door Rechter Commissaris | 45 |
+| IV | 4 | Verhoor getuige mr. Drooglever Fortuyn Verhoor getuige Jhr.mr. Reigersman Verhoor getuige mr. Hassoldt | 45 |
+| V | 4 | Verhoor getuige mr. Drabbe Verhoor getuige mr. Coebergh Verhoor getuige mw. Toussaint-van Rosse Verhoor getuige hr. Ram | 45 |
+| VI | 4 | Verhoor getuige hr. Gorter Verhoor getuige mw. Kortenhorst-Woltersom | 45 |
+| VII | 4 | Verhoor getuige hr. Scheps Verhoor getuige Prof. Duynstee Verhoor getuige mw.mr. Mulders | 45 |
+| VIII | 4 | Verhoor getuige mr. Hoogenraad Verhoor getuige Prof.mr. Duk Verhoor getuige mr. Tenkink (begin) | 45 |
+| IX | 4 | Verhoor getuige mr. Tenkink (eind) Verhoor getuige mr. Anneveldt Verhoor getuige mr. Grasso Verhoor getuige mr. Kuyper Verhoor getuige mr. Mulder | 45 |
+| X | 4 | Verhoor getuige mr Veegens Verhoor getuige mr. Lunshof Verhoor getuige mr. Van Duuren | 45 |
+| XI | 3 | Verhoor verdachte door Rechter Commissaris | 45 |
+
 ##### Artikel 1
 
-Gelet op het feit dat op de geluidsbanden bijzondere persoonsgegevens als bedoeld in de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) voorkomen zijn deze geluidsbanden met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt openbaar tot het jaar 2030. Gelijk aan het [Besluit van de Minister van Justitie en Veiligheid d.d. 15 december 2020, kenmerk 2618966, houdende beperking van de openbaarheid van het Archief van de processen tegen P.N. Menten 1976-1980](https://wetten.overheid.nl/jci1.3:c:BWBR0044700). Gepubliceerd in de Staatscourant van 13 januari 2021 onder nr. 730
+Gelet op het feit dat op de geluidsbanden bijzondere persoonsgegevens als bedoeld in de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) voorkomen zijn deze geluidsbanden met het oog op de eerbiediging van de persoonlijke levenssfeer beperkt openbaar tot het jaar 2030. Gelijk aan het [Besluit van de Minister van Justitie en Veiligheid d.d. 15 december 2020, kenmerk 2618966, houdende beperking van de openbaarheid van het Archief van de processen tegen P.N. Menten 1976-1980](https://wetten.overheid.nl/jci1.3:c:BWBR0044700). Gepubliceerd in de Staatscourant van 13 januari 2021 onder nr. 730
 
 ##### Artikel 2
 

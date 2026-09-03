@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4369109, tot benoeming van de voorzitter en de overige leden van de Adviescommissie VOG-Politiegegevens en houdende bepalingen inzake andere aangelegenheden die de adviescommissie aangaan (Benoemingsbesluit Adviescommissie VOG-Politiegegevens)"
+citeertitel: "Benoemingsbesluit Adviescommissie VOG-Politiegegevens"
 identifier: "BWBR0047624"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-01"
-last_updated: "2025-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047624"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16594703"
-version_id: "29104012"
-internal_id: "C41367691"
-label_id: "16513424"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047624/2025-02-01/0"
-intitule_bron: "Stcrt.2022-34039"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-12"
-intitule_published: "2022-12-19"
-intitule_in_force: "2022-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34039"
-original_signed_date: "2022-12-12"
-original_published_date: "2022-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34039"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047624&z=2025-02-01&g=2025-02-01"
-jci_1_0: "1.0:c:BWBR0047624&g=2025-02-01"
-citeertitel_status: "officieel"
-short_title: "Benoemingsbesluit Adviescommissie VOG-Politiegegevens"
-signed_date: "2022-12-12"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2025-02-01
+status: geldig
+toestand: 2025-02-01
+bron: "https://wetten.overheid.nl/BWBR0047624"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 12 december 2022, nr. 4369109, tot benoeming van de voorzitter en de overige leden van de Adviescommissie VOG-Politiegegevens en houdende bepalingen inzake andere aangelegenheden die de adviescommissie aangaan (Benoemingsbesluit Adviescommissie VOG-Politiegegevens)
-
-Gelet, [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister voor Rechtsbescherming,
+- a. *minister:* de Minister voor Rechtsbescherming,
 
-- b. **commissie:** de Adviescommissie VOG-Politiegegevens, als bedoeld in [artikel 35a, vierde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a),
+- b. *commissie:* de Adviescommissie VOG-Politiegegevens, als bedoeld in [artikel 35a, vierde lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35a),
 
-- c. **Justis:** Justis, als bedoeld in [artikel 2, derde lid, onder b, sub 2, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
+- c. *Justis:* Justis, als bedoeld in [artikel 2, derde lid, onder b, sub 2, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=2).
 
 ##### Artikel 2. Samenstelling
 
@@ -188,10 +162,8 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2023.
+Dit besluit treedt in werking met ingang van 1 januari 2023.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit Adviescommissie VOG-Politiegegevens.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

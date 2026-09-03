@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 februari 2023, nr. 2023-0000070265, tot instelling van de Commissie sociaal minimum Caribisch Nederland (Instellingsbesluit Commissie sociaal minimum Caribisch Nederland)"
+citeertitel: "Instellingsbesluit Commissie sociaal minimum Caribisch Nederland"
 identifier: "BWBR0047917"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-28"
-last_updated: "2023-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047917"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16684083"
-version_id: "29266292"
-internal_id: "C41686051"
-label_id: "16601714"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047917/2023-02-28/0"
-intitule_bron: "Stcrt.2023-6204"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-17"
-intitule_published: "2023-02-27"
-intitule_in_force: "2023-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-6204"
-original_signed_date: "2023-02-17"
-original_published_date: "2023-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-6204"
-entry_into_force_date: "2023-02-28"
-jci_1_3: "jci1.3:c:BWBR0047917&z=2023-02-28&g=2023-02-28"
-jci_1_0: "1.0:c:BWBR0047917&g=2023-02-28"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie sociaal minimum Caribisch Nederland"
-signed_date: "2023-02-17"
-entry_into_force: "2023-02-28"
+publicatiedatum: 2023-02-28
+laatste_update: 2023-02-28
+status: geldig
+toestand: 2023-02-28
+bron: "https://wetten.overheid.nl/BWBR0047917"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 februari 2023, nr. 2023-0000070265, tot instelling van de Commissie sociaal minimum Caribisch Nederland (Instellingsbesluit Commissie sociaal minimum Caribisch Nederland)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en Commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Armoedebeleid, Participatie en Pensioenen;
+- a. *de Minister:* de Minister voor Armoedebeleid, Participatie en Pensioenen;
 
-- b. **de Commissie:** de Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047917&artikel=2&z=2023-02-28&g=2023-02-28).
+- b. *de Commissie:* de Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047917&artikel=2&z=2023-02-28&g=2023-02-28).
 
 ##### Artikel 2. Instelling en taak
 
@@ -66,7 +38,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Instellingsduur
 
-1. De Commissie wordt ingesteld met ingang van 1 maart 2023 en brengt haar eindrapport voor 1 oktober 2023 uit aan de Minister.
+1. De Commissie wordt ingesteld met ingang van 1 maart 2023 en brengt haar eindrapport voor 1 oktober 2023 uit aan de Minister.
 
 2. Indien onvoorziene omstandigheden naar het oordeel van de Commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij de Minister daarvan onverwijld op de hoogte.
 
@@ -131,5 +103,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sociaal minimum Caribisch Nederland.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

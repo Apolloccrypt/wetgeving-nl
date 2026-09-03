@@ -1,62 +1,38 @@
 ---
 title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 3 oktober 2022, nr. 2022-0000197282, tot vaststelling van controlevoorschriften voor de uitvoering van de volksverzekeringen in Caribisch Nederland (Regeling controlevoorschriften AOV en AWW BES)"
+citeertitel: "Regeling controlevoorschriften AOV en AWW BES"
 identifier: "BWBR0047265"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2022-10-12"
-last_updated: "2022-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047265"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "16511583"
-version_id: "28941842"
-internal_id: "C40970771"
-label_id: "16433154"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047265/2022-10-12/0"
-intitule_bron: "Stcrt.2022-26655"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-03"
-intitule_published: "2022-10-11"
-intitule_in_force: "2022-10-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-26655"
-original_signed_date: "2022-10-03"
-original_published_date: "2022-10-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-26655"
-entry_into_force_date: "2022-10-12"
-jci_1_3: "jci1.3:c:BWBR0047265&z=2022-10-12&g=2022-10-12"
-jci_1_0: "1.0:c:BWBR0047265&g=2022-10-12"
-citeertitel_status: "officieel"
-short_title: "Regeling controlevoorschriften AOV en AWW BES"
-signed_date: "2022-10-03"
-entry_into_force: "2022-10-12"
+publicatiedatum: 2022-10-12
+laatste_update: 2022-10-12
+status: geldig
+toestand: 2022-10-12
+bron: "https://wetten.overheid.nl/BWBR0047265"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 3 oktober 2022, nr. 2022-0000197282, tot vaststelling van controlevoorschriften voor de uitvoering van de volksverzekeringen in Caribisch Nederland (Regeling controlevoorschriften AOV en AWW BES)
-
-Gelet op de [artikelen 36a, eerste lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=36a) en [14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=14), en [37a, eerste lid, van de Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=37a);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **AOV:** [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459);
+- a. *AOV:*
+ [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459);
 
-- b. **AWW:** [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387);
+- b. *AWW:*
+ [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387);
 
-- c. **Belanghebbende:** degene die een uitkering op grond van de [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) of [AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) ontvangt of daarvoor in aanmerking wenst te komen, dan wel diens wettelijke vertegenwoordiger;
+- c. *Belanghebbende:* degene die een uitkering op grond van de [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) of [AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) ontvangt of daarvoor in aanmerking wenst te komen, dan wel diens wettelijke vertegenwoordiger;
 
-- d. **Caribisch Nederland:** de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- d. *Caribisch Nederland:* de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- e. **Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- e. *Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- f. **Partnertoeslag:** de toeslag, bedoeld in [artikel 7a, eerste lid, van de AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7a);
+- f. *Partnertoeslag:* de toeslag, bedoeld in [artikel 7a, eerste lid, van de AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=7a);
 
-- g. **RCN-unit SZW:** het organisatieonderdeel van het Ministerie van Sociale Zaken en Werkgelegenheid dat zorgdraagt voor de uitvoeringstaken van de minister in Caribisch Nederland;
+- g. *RCN-unit SZW:* het organisatieonderdeel van het Ministerie van Sociale Zaken en Werkgelegenheid dat zorgdraagt voor de uitvoeringstaken van de minister in Caribisch Nederland;
 
 2. Voor zover van toepassing en noodzakelijk in verband met de uitvoering van de [AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) of de [AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), wordt onder belanghebbende als bedoeld in het eerste lid, onder c, tevens verstaan de inrichting of instelling, bedoeld in [artikel 14, eerste lid, van de AOV](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=14) of [artikel 17, eerste lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=17).
 
@@ -106,7 +82,7 @@ Besluit:
 
 2. Op verzoek van de minister verstrekt de belanghebbende aan wie wezenpensioen wordt uitbetaald als bedoeld in [artikel 9, eerste lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=9) ten behoeve van de minderjarige wees of halfwees die buiten Caribisch Nederland woont, eenmaal per twaalf maanden binnen een door de minister te bepalen redelijke termijn een door een bevoegde autoriteit gewaarmerkt bewijs van leven. Indien de belanghebbende een meerderjarige wees of halfwees betreft die recht heeft op wezenpensioen als bedoeld in artikel 9, vijfde lid, AWW, rust de in de vorige zin bedoelde informatieplicht op het kind.
 
-3. Op verzoek van de minister verstrekt de belanghebbende studerende wees of halfwees op wie [artikel 9, vijfde lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=9) van toepassing is, of diens wettelijke vertegenwoordiger elk schooljaar vóór 1 september een met het betreffende tijdvak corresponderende door de school gewaarmerkte schoolverklaring of ander door de minister toegestaan bewijsstuk van het volgen van het onderwijs.
+3. Op verzoek van de minister verstrekt de belanghebbende studerende wees of halfwees op wie [artikel 9, vijfde lid, van de AWW](https://wetten.overheid.nl/jci1.3:c:BWBR0028387&artikel=9) van toepassing is, of diens wettelijke vertegenwoordiger elk schooljaar vóór 1 september een met het betreffende tijdvak corresponderende door de school gewaarmerkte schoolverklaring of ander door de minister toegestaan bewijsstuk van het volgen van het onderwijs.
 
 ##### Artikel 9. Verschijningsplicht en medewerkingsplicht controle
 
@@ -125,5 +101,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling controlevoorschriften AOV en AWW BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

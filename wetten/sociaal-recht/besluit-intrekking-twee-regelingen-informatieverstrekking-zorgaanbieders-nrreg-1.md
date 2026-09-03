@@ -1,42 +1,18 @@
 ---
 title: "Besluit houdende intrekking van de regeling verplichte informatieverstrekking zorgaanbieders van forensische zorg (NR/REG-1913) en regeling Informatieverstrekking voorheen gebudgetteerde zorgaanbieders van gespecialiseerde ggz (NR/REG-1826)"
+citeertitel: "Besluit intrekking twee regelingen informatieverstrekking zorgaanbieders (NR/REG-1913 en NR/REG-1826)"
 identifier: "BWBR0047837"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-02-01"
-last_updated: "2023-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047837"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16663663"
-version_id: "29225352"
-internal_id: "C41522751"
-label_id: "16581484"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047837/2023-02-01/0"
-intitule_bron: "Stcrt.2023-3608"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-20"
-intitule_published: "2023-01-31"
-intitule_in_force: "2023-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-3608"
-original_signed_date: "2022-12-20"
-original_published_date: "2023-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-3608"
-entry_into_force_date: "2023-02-01"
-jci_1_3: "jci1.3:c:BWBR0047837&z=2023-02-01&g=2023-02-01"
-jci_1_0: "1.0:c:BWBR0047837&g=2023-02-01"
-citeertitel_status: "redactioneel"
-short_title: "Besluit intrekking twee regelingen informatieverstrekking zorgaanbieders (NR/REG-1913 en NR/REG-1826)"
-signed_date: "2022-12-20"
-entry_into_force: "2023-02-01"
+publicatiedatum: 2023-02-01
+laatste_update: 2023-02-01
+status: geldig
+toestand: 2023-02-01
+bron: "https://wetten.overheid.nl/BWBR0047837"
+opgehaald: 2026-09-03
 ---
-# Besluit houdende intrekking van de regeling verplichte informatieverstrekking zorgaanbieders van forensische zorg (NR/REG-1913) en regeling Informatieverstrekking voorheen gebudgetteerde zorgaanbieders van gespecialiseerde ggz (NR/REG-1826)
 
-Besluit:
+# Besluit houdende intrekking van de regeling verplichte informatieverstrekking zorgaanbieders van forensische zorg (NR/REG-1913) en regeling Informatieverstrekking voorheen gebudgetteerde zorgaanbieders van gespecialiseerde ggz (NR/REG-1826)
 
 ##### Artikel 1
 

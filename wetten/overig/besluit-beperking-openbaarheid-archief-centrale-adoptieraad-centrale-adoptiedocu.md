@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3955715, houdende beperking van de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
+citeertitel: "Besluit beperking openbaarheid archief Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
 identifier: "BWBR0047912"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-28"
-last_updated: "2023-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047912"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16683393"
-version_id: "29265082"
-internal_id: "C41684841"
-label_id: "16600964"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047912/2023-02-28/0"
-intitule_bron: "Stcrt.2023-5400"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-07"
-intitule_published: "2023-02-27"
-intitule_in_force: "2023-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-5400"
-original_signed_date: "2023-02-07"
-original_published_date: "2023-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-5400"
-entry_into_force_date: "2023-02-28"
-jci_1_3: "jci1.3:c:BWBR0047912&z=2023-02-28&g=2023-02-28"
-jci_1_0: "1.0:c:BWBR0047912&g=2023-02-28"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
-signed_date: "2023-02-07"
-entry_into_force: "2023-02-28"
+publicatiedatum: 2023-02-28
+laatste_update: 2023-02-28
+status: geldig
+toestand: 2023-02-28
+bron: "https://wetten.overheid.nl/BWBR0047912"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3955715, houdende beperking van de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 30 november 2022, met kenmerk 100604.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999.
 
 ##### Artikel 1
 
@@ -857,7 +829,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 2301 | 2047 | 2365 | 2058 | 2432 | 2054 |
 | 2302 | 2059 | 2367 | 2039 | 2433 | 2040 |
 | 2303 | 2059 | 2368 | 2057 | 2434 | 2049 |
-|   |   | 2369 | 2058 | 2435 | 2054 |
+|  |  | 2369 | 2058 | 2435 | 2054 |
 | 2437 | 2058 | 2502 | 2060 | 2568 | 2047 |
 | 2438 | 2046 | 2503 | 2042 | 2569 | 2061 |
 | 2439 | 2057 | 2504 | 2052 | 2570 | 2060 |
@@ -922,7 +894,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 2498 | 2050 | 2564 | 2059 | 2630 | 2030 |
 | 2499 | 2059 | 2565 | 2047 | 2631 | 2037 |
 | 2500 | 2048 | 2566 | 2062 | 2632 | 2060 |
-| 2501 | 2056 | 2567 | 2046 |   |   |
+| 2501 | 2056 | 2567 | 2046 |  |  |
 | 2633 | 2057 | 2699 | 2043 | 2764 | 2062 |
 | 2634 | 2055 | 2700 | 2048 | 2765 | 2048 |
 | 2635 | 2040 | 2701 | 2059 | 2766 | 2061 |
@@ -1507,7 +1479,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 4268 | 2072 | 4334 | 2067 | 4399 | 2071 |
 | 4269 | 2073 | 4335 | 2069 | 4400 | 2069 |
 | 4270 | 2072 | 4336 | 2073 | 4401 | 2070 |
-| 4271 | 2071 |   |   | 4402 | 2069 |
+| 4271 | 2071 |  |  | 4402 | 2069 |
 | 4403 | 2071 | 4468 | 2075 | 4533 | 2072 |
 | 4404 | 2070 | 4469 | 2072 | 4534 | 2075 |
 | 4405 | 2070 | 4470 | 2069 | 4535 | 2072 |

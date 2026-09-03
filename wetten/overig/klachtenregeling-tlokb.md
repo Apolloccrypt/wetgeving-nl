@@ -1,41 +1,17 @@
 ---
 title: "Klachtenregeling TloKB"
 identifier: "BWBR0047794"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-01-21"
-last_updated: "2023-01-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047794"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16650273"
-version_id: "29205102"
-internal_id: "C41500161"
-label_id: "16568234"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047794/2023-01-21/0"
-intitule_bron: "Stcrt.2023-1571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-04"
-intitule_published: "2023-01-20"
-intitule_in_force: "2023-01-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-1571"
-original_signed_date: "2022-05-04"
-original_published_date: "2023-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-1571"
-entry_into_force_date: "2023-01-21"
-jci_1_3: "jci1.3:c:BWBR0047794&z=2023-01-21&g=2023-01-21"
-jci_1_0: "1.0:c:BWBR0047794&g=2023-01-21"
-citeertitel_status: "officieel"
-signed_date: "2022-05-04"
-entry_into_force: "2023-01-21"
+publicatiedatum: 2023-01-21
+laatste_update: 2023-01-21
+status: geldig
+toestand: 2023-01-21
+bron: "https://wetten.overheid.nl/BWBR0047794"
+opgehaald: 2026-09-03
 ---
-# Klachtenregeling TloKB
 
-De Toelatingsorganisatie Kwaliteitsborging Bouw (hierna te noemen: TloKB), overwegende dat het wenselijk is dat er een regeling is die een behoorlijke behandeling van klachten waarborgt, gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) (Awb), heeft besloten de volgende klachtenregeling vast te stellen:
+# Klachtenregeling TloKB
 
 ### Algemene bepalingen
 
@@ -101,17 +77,17 @@ De TloKB bevestigt de ontvangst van het klaagschrift schriftelijk binnen een wee
 
 1. De TloKB is niet verplicht de klacht te behandelen indien deze klacht betrekking heeft op een gedraging:
 
-- a). waarover reeds eerder een klacht is ingediend die met inachtneming van deze klachtregeling is behandeld;
+- a) waarover reeds eerder een klacht is ingediend die met inachtneming van deze klachtregeling is behandeld;
 
-- b). die langer dan een jaar voor indiening van de klacht heeft plaatsgevonden;
+- b) die langer dan een jaar voor indiening van de klacht heeft plaatsgevonden;
 
-- c). waartegen door de klager bezwaar gemaakt had kunnen worden;
+- c) waartegen door de klager bezwaar gemaakt had kunnen worden;
 
-- d). waartegen door de klager beroep kan of kon worden ingesteld;
+- d) waartegen door de klager beroep kan of kon worden ingesteld;
 
-- e). die door het instellen van een procedure aan het oordeel van een andere rechterlijke instantie dan een administratieve rechter onderworpen is, dan wel onderworpen is geweest;
+- e) die door het instellen van een procedure aan het oordeel van een andere rechterlijke instantie dan een administratieve rechter onderworpen is, dan wel onderworpen is geweest;
 
-- f). zolang ter zake daarvan een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en ter zake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.
+- f) zolang ter zake daarvan een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en ter zake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.
 
 2. De TloKB is niet verplicht een klacht in behandeling te nemen, indien het belang van de klager dan wel het gewicht van de gedraging kennelijk onvoldoende is.
 

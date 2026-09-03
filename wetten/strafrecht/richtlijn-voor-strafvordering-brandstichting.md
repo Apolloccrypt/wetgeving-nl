@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering brandstichting"
 identifier: "BWBR0047547"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2022-12-01"
-last_updated: "2022-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047547"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "16580883"
-version_id: "29072992"
-internal_id: "C41327391"
-label_id: "16500474"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047547/2022-12-01/0"
-intitule_bron: "Stcrt.2022-32289"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-11-30"
-intitule_in_force: "2022-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32289"
-original_published_date: "2022-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-32289"
-entry_into_force_date: "2022-12-01"
-jci_1_3: "jci1.3:c:BWBR0047547&z=2022-12-01&g=2022-12-01"
-jci_1_0: "1.0:c:BWBR0047547&g=2022-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-12-01"
+publicatiedatum: 2022-12-01
+laatste_update: 2022-12-01
+status: geldig
+toestand: 2022-12-01
+bron: "https://wetten.overheid.nl/BWBR0047547"
+opgehaald: 2026-09-03
 ---
+
 # Richtlijn voor strafvordering brandstichting
 
 ### Beschrijving
@@ -40,9 +21,32 @@ Deze richtlijn heeft betrekking op enkele vormen van opzettelijke met name vanda
 
 Brandstichting of teweegbrengen van een ontploffing met gemeen gevaar voor goederen/personen
 
+| Gevaar voor goederen/gebouwen: | First offender | 1 x recidive |
+| --- | --- | --- |
+| Brandstichting vuilcontainer e.d. met gevaar voor goederen (andere containers, fietsen, auto’s) | Geen schade: Eis TS 60 uur of GS 1 mnd | GS 3 mnd |
+| Wel schade: Eis TS 120 – 180 uur of GS 2 – 3 mnd | GS 3 – 4 mnd |  |
+| Brandstichting vuilcontainer e.d. met gevaar voor kleine opstallen (schuurtje) | Geen schade: GS 4 – 6 mnd | GS 8 – 10 mnd |
+| Wel schade: GS 6 – 8 mnd | GS 12 – 15 mnd |  |
+| Brandstichting vuilcontainer e.d. met gevaar voor gebouwen (kantoren/scholen) of woningen (niet personen) | Geen schade: GS 8 – 12 mnd | GS 18 – 24 mnd |
+| Schade gering: GS 10 – 14 mnd | GS 24 – 36 mnd |  |
+| Schade groot: GS 20 – 30 mnd |  |  |
+| Brandstichting auto (auto afgebrand) met gevaar auto’s e.d. in nabijheid tijdens jaarwisseling/evenement | Geen schade: GS 4 mnd | GS 10 – 12 mnd |
+| Wel schade: GS 6 – 8 mnd | GS 15 – 18 mnd |  |
+| Brandstichting auto met gevaar gebouwen/woningen tijdens jaarwisseling/evenement | Geen schade: GS 10 – 18 mnd | GS 24 – 30 mnd |
+| Schade beperkt: GS 12 – 16 mnd | GS 30 – 36 mnd |  |
+|  |  |  |
+| Schade groot: GS 24 – 30 mnd |  |  |
+| Brandstichting in politiecel van papier/kleding, enkel gevaar voor schade aan deur/vloer | Geen schade: GS 2 – 4 mnd | GS 6 – 10 mnd |
+| Wel schade: GS 3 – 5 mnd | GS 8 – 12 mnd |  |
+| Gevaar voor personen (en goederen): | First offender | 1 x recidive |
+| Brandstichting met gevaar voor personen in gebouwen/woningen | Geen schade en geen letsel: GS 24 – 30 mnd Wel schade of licht letsel: GS 3 – 4 jaar | GS 3 – 5 jaar* GS 3½ – 6 jaar* |
+| Bijzonderheden: Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed. Transactie of strafbeschikking is niet mogelijk, dus dagvaarden. |  |  |
+|  |  |  |
+| Strafverzwarend onder andere: Evenement (+ 75%, bij brandstichting auto’s al verdisconteerd in de tabel) of voetbal gerelateerd (+50%) Discriminatoire aspecten (dagvaarden +100%) Kwetsbare slachtoffers Ontruiming nodig Forse schade * Ernstige recidive (met ernstige inbreuk op de lichamelijke integriteit van het slachtoffer) Meermalen recidive (maatwerk) |  |  |
+
 ### Legenda
 
-**Afkortingen**
+*Afkortingen*
 
 TS = Taakstraf
 

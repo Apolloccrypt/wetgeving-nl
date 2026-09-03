@@ -1,37 +1,16 @@
 ---
 title: "Regeling vertrouwelijke stukken Eerste Kamer 2023"
 identifier: "BWBR0048045"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-04-05"
-last_updated: "2023-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048045"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "16719763"
-version_id: "29328562"
-internal_id: "C41772851"
-label_id: "16636414"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048045/2023-04-05/0"
-intitule_bron: "Kst.2023-CLIII"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-28"
-intitule_published: "2023-04-04"
-intitule_in_force: "2023-04-04"
-intitule_status: "goed"
-original_publication: "Kst.2023-CLIII"
-original_signed_date: "2023-03-28"
-original_published_date: "2023-04-04"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2023-04-05"
-jci_1_3: "jci1.3:c:BWBR0048045&z=2023-04-05&g=2023-04-05"
-jci_1_0: "1.0:c:BWBR0048045&g=2023-04-05"
-citeertitel_status: "officieel"
-signed_date: "2023-03-28"
-entry_into_force: "2023-04-05"
+publicatiedatum: 2023-04-05
+laatste_update: 2023-04-05
+status: geldig
+toestand: 2023-04-05
+bron: "https://wetten.overheid.nl/BWBR0048045"
+opgehaald: 2026-09-03
 ---
+
 # Regeling vertrouwelijke stukken Eerste Kamer 2023
 
 #### Paragraaf 1. Algemeen
@@ -44,11 +23,11 @@ entry_into_force: "2023-04-05"
 
 - b. staatsgeheim stuk:
 
-- –. een stuk dat bij of krachtens de wet als zodanig is aangewezen,
+   - – een stuk dat bij of krachtens de wet als zodanig is aangewezen,
 
-- –. een stuk dat is voorzien van een rubricering als bedoeld in [artikel 4, tweede lid, aanhef en onder a, b of c, van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=4), of
+   - – een stuk dat is voorzien van een rubricering als bedoeld in [artikel 4, tweede lid, aanhef en onder a, b of c, van het Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507&artikel=4), of
 
-- –. een stuk dat bij of krachtens een internationaal verdrag of overeenkomst is verkregen waaraan een vergelijkbaar rubriceringsniveau is of moet worden toegekend;
+   - – een stuk dat bij of krachtens een internationaal verdrag of overeenkomst is verkregen waaraan een vergelijkbaar rubriceringsniveau is of moet worden toegekend;
 
 - c. embargo: door de afzender aangegeven vertrouwelijkheid met een beperkte tijdsduur;
 

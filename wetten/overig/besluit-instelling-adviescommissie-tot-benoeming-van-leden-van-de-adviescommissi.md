@@ -1,28 +1,28 @@
 ---
-title: "Instellingsbesluit BAC voor de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 maart 2023, nr. 33945522, houdende instelling van de Adviescommissie tot benoeming van leden van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog"
+citeertitel: "Instellingsbesluit BAC voor de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog"
 identifier: "BWBR0048036"
-categorie: "Overig"
-publicatiedatum: 2026-07-18
-laatste_update: 2026-07-23
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-06-23
+laatste_update: 2026-07-18
 status: geldig
+toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0048036"
+opgehaald: 2026-09-03
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 28 maart 2023, nr. 33945522, houdende instelling van de Adviescommissie tot benoeming van leden van de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-b. **de Restitutiecommissie:**Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog;
+b. *de Restitutiecommissie:*Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog;
 
-c. **de commissie:**Adviescommissie benoeming leden van de Restitutiecommissie.
+c. *de commissie:*Adviescommissie benoeming leden van de Restitutiecommissie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -66,16 +66,12 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 ##### Artikel 7. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 april 2023 voor onbepaalde duur.
+De commissie wordt ingesteld met ingang van 1 april 2023 voor onbepaalde duur.
 
 ##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
 ##### Artikel 9. Citeertitel
 
 Dit besluit kan worden aangehaald als: Instellingsbesluit BAC voor de Adviescommissie restitutieverzoeken cultuurgoederen en Tweede Wereldoorlog.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

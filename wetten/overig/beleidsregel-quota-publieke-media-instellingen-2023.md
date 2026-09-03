@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregel quota publieke media-instellingen 2023"
 identifier: "BWBR0047885"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-02-18"
-last_updated: "2023-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047885"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16676603"
-version_id: "29252002"
-internal_id: "C41651181"
-label_id: "16594274"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047885/2023-02-18/0"
-intitule_bron: "Stcrt.2023-5501"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-02-17"
-intitule_in_force: "2023-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-5501"
-original_published_date: "2023-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-5501"
-entry_into_force_date: "2023-02-18"
-jci_1_3: "jci1.3:c:BWBR0047885&z=2023-02-18&g=2023-02-18"
-jci_1_0: "1.0:c:BWBR0047885&g=2023-02-18"
-citeertitel_status: "officieel"
-entry_into_force: "2023-02-18"
+publicatiedatum: 2023-02-18
+laatste_update: 2023-02-18
+status: geldig
+toestand: 2023-02-18
+bron: "https://wetten.overheid.nl/BWBR0047885"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregel quota publieke media-instellingen 2023
-
-Gelet op de [artikelen 2.115 tot en met 2.123 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
 
 ### I. Begripsbepalingen en reikwijdte
 
@@ -42,49 +19,51 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- a. *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- b. **besluit:** het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
+- b. *besluit:* het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
 
-- c. **regeling:** [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
+- c. *regeling:*
+ [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
 
-- d. **catalogus:** de ordening van het audiovisueel media-aanbod in een databank die audiovisueel media-aanbod voor de gebruiker toegankelijk maakt;
+- d. *catalogus:* de ordening van het audiovisueel media-aanbod in een databank die audiovisueel media-aanbod voor de gebruiker toegankelijk maakt;
 
-- e. **Europese producties:** producties als bedoeld in artikel 1, eerste lid, onder n en artikel 1, tweede, derde en vierde lid van de Richtlijn;
+- e. *Europese producties:* producties als bedoeld in artikel 1, eerste lid, onder n en artikel 1, tweede, derde en vierde lid van de Richtlijn;
 
-- f. **Richtlijn:** [Richtlijn 2010/13](32010L0013)/EU van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele media- diensten;
+- f. *Richtlijn:*
+ Richtlijn 2010/13/EU van 10 maart 2010 betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele media- diensten;
 
-- g. **onafhankelijke producent:** de producent van een onafhankelijke productie als bedoeld in [artikel 2.120, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.120);
+- g. *onafhankelijke producent:* de producent van een onafhankelijke productie als bedoeld in [artikel 2.120, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.120);
 
-- h. **ondertiteling:** Nederlands-of Friestalig programma-aanbod voorzien van Nederlandstalige onderti- teling;
+- h. *ondertiteling:* Nederlands-of Friestalig programma-aanbod voorzien van Nederlandstalige onderti- teling;
 
-- i. **producent:** degene die programma-aanbod vervaardigt;
+- i. *producent:* degene die programma-aanbod vervaardigt;
 
-- j. **programma-aanbod:** televisieprogramma-aanbod;
+- j. *programma-aanbod:* televisieprogramma-aanbod;
 
-- k. **programmakanaal:** televisieprogrammakanaal;
+- k. *programmakanaal:* televisieprogrammakanaal;
 
-- l. **themakanaal:** een themakanaal op televisie;
+- l. *themakanaal:* een themakanaal op televisie;
 
-- m. **recente productie:** een onafhankelijke productie die niet ouder is dan vijf jaar.
+- m. *recente productie:* een onafhankelijke productie die niet ouder is dan vijf jaar.
 
 ##### Artikel 2. Europese producties
 
-1. Een **producent**als bedoeld in artikel 1, derde en vierde lid, van de Richtlijn wordt geacht in een lidstaat gevestigd te zijn indien zijn onderneming aldaar permanent is gevestigd en over vast personeel beschikt dat zich zowel met productie- als commerciële activiteiten in de Europese Unie bezighoudt.
+1. Een *producent*als bedoeld in artikel 1, derde en vierde lid, van de Richtlijn wordt geacht in een lidstaat gevestigd te zijn indien zijn onderneming aldaar permanent is gevestigd en over vast personeel beschikt dat zich zowel met productie- als commerciële activiteiten in de Europese Unie bezighoudt.
 
-2. Indien niet bekend is welke producent een productie tot stand heeft gebracht, wordt onder **producent**mede verstaan de distributeur van de productie. In dat geval wordt de lidstaat waarin de distributeur is gevestigd aangemerkt als de lidstaat waarin de producent is gevestigd.
+2. Indien niet bekend is welke producent een productie tot stand heeft gebracht, wordt onder *producent*mede verstaan de distributeur van de productie. In dat geval wordt de lidstaat waarin de distributeur is gevestigd aangemerkt als de lidstaat waarin de producent is gevestigd.
 
 3. Het tweede lid is slechts van toepassing indien de media-instelling die de productie heeft verspreid, naar genoegen van het Commissariaat heeft aangetoond dat zij zich voldoende heeft ingespannen om de relevante gegevens over de producent van de productie te achterhalen.
 
 ##### Artikel 3. Onafhankelijke producties
 
-1. In aansluiting op [artikel 2.120, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.120) wordt als **onafhankelijke productie**mede aangemerkt:
+1. In aansluiting op [artikel 2.120, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.120) wordt als *onafhankelijke productie*mede aangemerkt:
 
 - a. programma-aanbod dat wordt geproduceerd door een onafhankelijke producent tezamen met een media-instelling, ingeval de media-instelling niet wordt aangemerkt als producent van het betreffende aanbod;
 
 - b. een door een media-instelling aangekochte onafhankelijke productie.
 
-2. Niet als **onafhankelijke productie**wordt aangemerkt:
+2. Niet als *onafhankelijke productie*wordt aangemerkt:
 
 - a. programma-aanbod dat uitsluitend geproduceerd is door een media-instelling;
 
@@ -116,11 +95,11 @@ Het onder de aandacht brengen van Europese producties als bedoeld in [artikel 2.
 
 ##### Artikel 7. Ontheffing aandeel Europese producties lage omzet en klein publiek
 
-1. De verplichting voor het behalen van het aandeel Europese producties en het onder de aandacht brengen daarvan als bedoeld in [artikel 2.115, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) geldt niet voor aanbieders van audiovisuele mediadiensten op aanvraag op aanbodkanalen met een **lage omzet**of een **klein publiek**.
+1. De verplichting voor het behalen van het aandeel Europese producties en het onder de aandacht brengen daarvan als bedoeld in [artikel 2.115, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) geldt niet voor aanbieders van audiovisuele mediadiensten op aanvraag op aanbodkanalen met een *lage omzet*of een *klein publiek*.
 
-2. Als **lage omzet**wordt aangemerkt een jaaromzet tot twee miljoen euro.
+2. Als *lage omzet*wordt aangemerkt een jaaromzet tot twee miljoen euro.
 
-3. Als **klein publiek**wordt aangemerkt een aandeel gebruikers van minder dan 1% ten opzichte van het veronderstelde aantal potentiële gebruikers van audiovisuele mediadiensten op aanvraag. Voor het aantal veronderstelde potentiële gebruikers van audiovisuele mediadiensten op aan- vraag, wordt uitgegaan van 80% van de Nederlandse bevolking.
+3. Als *klein publiek*wordt aangemerkt een aandeel gebruikers van minder dan 1% ten opzichte van het veronderstelde aantal potentiële gebruikers van audiovisuele mediadiensten op aanvraag. Voor het aantal veronderstelde potentiële gebruikers van audiovisuele mediadiensten op aan- vraag, wordt uitgegaan van 80% van de Nederlandse bevolking.
 
 4. Om voor de toepassing van het eerste lid in aanmerking te komen, dient de aanbieder van de audiovisuele mediadienst op aanvraag voor het aanbodkanaal een verzoek om een ontheffing in bij het Commissariaat. Bij het verzoek om een ontheffing dient alle relevante informatie op grond waarvan een besluit kan worden genomen te worden gevoegd.
 
@@ -138,7 +117,7 @@ Het onder de aandacht brengen van Europese producties als bedoeld in [artikel 2.
 
 ##### Artikel 9. Oorspronkelijk Nederlands- of Friestalige producties
 
-Als **oorspronkelijk Nederlands- of Friestalige producties**als bedoeld in [artikel 2.122, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) wordt mede aangemerkt:
+Als *oorspronkelijk Nederlands- of Friestalige producties*als bedoeld in [artikel 2.122, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) wordt mede aangemerkt:
 
 - a. programma-aanbod dat Nederlands- of Friestalig is ingesproken;
 
@@ -186,15 +165,15 @@ Als oorspronkelijk Nederlandstalige producties die voorzien zijn van ondertiteli
 
 ##### Artikel 15. Rapportageverplichting quota
 
-1. De NPO brengt eenmaal per jaar voor 1 juni over het voorafgaande jaar verslag uit aan het Commissariaat over de naleving van de [artikelen 2.115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.116), [2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.119), [2.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) en [2.123, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.123) op de programmakanalen van de landelijke publieke mediadienst, daarbij inbegrepen de themakanalen van de NPO.
+1. De NPO brengt eenmaal per jaar voor 1 juni over het voorafgaande jaar verslag uit aan het Commissariaat over de naleving van de [artikelen 2.115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115), [2.116](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.116), [2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.119), [2.122, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) en [2.123, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.123) op de programmakanalen van de landelijke publieke mediadienst, daarbij inbegrepen de themakanalen van de NPO.
 
-2. De NPO brengt eenmaal per jaar voor 1 juni over het voorafgaande jaar verslag uit aan het Commissariaat over de naleving van [artikel 2.115, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) op de aanbodkanalen van de NPO.
+2. De NPO brengt eenmaal per jaar voor 1 juni over het voorafgaande jaar verslag uit aan het Commissariaat over de naleving van [artikel 2.115, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) op de aanbodkanalen van de NPO.
 
-3. De regionale publieke media-instellingen brengen eenmaal per twee jaar in de oneven jaren vóór 1 juni over de voorafgaande jaren verslag uit aan het Commissariaat over de naleving van de [artikelen 2.115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115), [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.117), [2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.119) en [2.122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) op de programmakanalen.
+3. De regionale publieke media-instellingen brengen eenmaal per twee jaar in de oneven jaren vóór 1 juni over de voorafgaande jaren verslag uit aan het Commissariaat over de naleving van de [artikelen 2.115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115), [2.117](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.117), [2.119](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.119) en [2.122, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.122) op de programmakanalen.
 
-4. De regionale publieke media-instellingen brengen eenmaal per twee jaar in de oneven jaren vóór 1 juni over de voorafgaande jaren verslag uit aan het Commissariaat over de naleving van [artikel 2.115, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) op de aanbodkanalen.
+4. De regionale publieke media-instellingen brengen eenmaal per twee jaar in de oneven jaren vóór 1 juni over de voorafgaande jaren verslag uit aan het Commissariaat over de naleving van [artikel 2.115, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) op de aanbodkanalen.
 
-5. De mediadiensten die audiovisueel media-aanbod op aanvraag verzorgen, rapporteren naast het uitbrengen van het verslag als bedoeld in het tweede en vierde lid, gelijktijdig over de naleving van de verplichting in [artikel 2.115, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) om in het audiovisueel media-aanbod aandacht te besteden aan Europese producties ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047885&hoofdstuk=II&artikel=6&z=2023-02-18&g=2023-02-18) van deze beleidsregel).
+5. De mediadiensten die audiovisueel media-aanbod op aanvraag verzorgen, rapporteren naast het uitbrengen van het verslag als bedoeld in het tweede en vierde lid, gelijktijdig over de naleving van de verplichting in [artikel 2.115, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.115) om in het audiovisueel media-aanbod aandacht te besteden aan Europese producties ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047885&hoofdstuk=II&artikel=6&z=2023-02-18&g=2023-02-18) van deze beleidsregel).
 
 ##### Artikel 16. Verslag programmakanalen NPO met uitzondering van de themakanalen
 
@@ -242,7 +221,7 @@ eerste lid van dit artikel. Het Commissariaat deelt dit in de loop van het desbe
 
 2. De [Beleidsregel quota publieke media-instellingen 2022 wordt ingetrokken](https://wetten.overheid.nl/jci1.3:c:BWBR0046210).
 
-3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media ([www.cvdm.nl](onbekend)).
+3. Deze beleidsregel wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Commissariaat voor de Media (www.cvdm.nl).
 
 4. Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Staatscourant.
 

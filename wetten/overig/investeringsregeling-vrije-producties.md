@@ -1,43 +1,17 @@
 ---
 title: "Investeringsregeling vrije producties"
 identifier: "BWBR0047852"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-04-16"
-last_updated: "2024-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047852"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16666933"
-version_id: "29233812"
-internal_id: "C41531911"
-label_id: "16584914"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047852/2024-04-16/0"
-intitule_bron: "Stcrt.2023-4450"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-01-16"
-intitule_published: "2023-02-06"
-intitule_in_force: "2023-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-4450"
-original_signed_date: "2023-01-16"
-original_published_date: "2023-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-4450"
-entry_into_force_date: "2023-02-06"
-jci_1_3: "jci1.3:c:BWBR0047852&z=2024-04-16&g=2024-04-16"
-jci_1_0: "1.0:c:BWBR0047852&g=2024-04-16"
-citeertitel_status: "officieel"
-signed_date: "2023-01-16"
-entry_into_force: "2023-02-06"
+publicatiedatum: 2023-02-06
+laatste_update: 2024-04-16
+status: geldig
+toestand: 2024-04-16
+bron: "https://wetten.overheid.nl/BWBR0047852"
+opgehaald: 2026-09-03
 ---
+
 # Investeringsregeling vrije producties
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,11 +19,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **vrije productie:** productie op het gebied van de professionele podiumkunst die gefinancierd wordt uit de opbrengsten van de commerciële exploitatie van deze productie en alle daarmee samenhangende uitingen.
+- *vrije productie:* productie op het gebied van de professionele podiumkunst die gefinancierd wordt uit de opbrengsten van de commerciële exploitatie van deze productie en alle daarmee samenhangende uitingen.
 
 ##### Artikel 1.2. Doel
 
@@ -61,11 +35,11 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 
 1. Een aanvraag kan worden ingediend door een organisatie met privaatrechtelijke rechtspersoonlijkheid die:
 
-- –. in het kader van de bedrijfsuitoefening vrije producties tot stand brengt; en
+- – in het kader van de bedrijfsuitoefening vrije producties tot stand brengt; en
 
-- –. de artistieke en financiële eindverantwoordelijkheid voor het project draagt; en
+- – de artistieke en financiële eindverantwoordelijkheid voor het project draagt; en
 
-- –. de uitvoering daarvan heeft belegd bij professionals die eerder minimaal twee vergelijkbare grootschalige vrije producties, als die waarvoor wordt aangevraagd, op hun naam hebben staan.
+- – de uitvoering daarvan heeft belegd bij professionals die eerder minimaal twee vergelijkbare grootschalige vrije producties, als die waarvoor wordt aangevraagd, op hun naam hebben staan.
 
 2. Het bestuur kan de aanvraag weigeren:
 
@@ -153,15 +127,15 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 2. In deze overeenkomst worden de aan de subsidie verbonden nadere verplichtingen vastgelegd. Onder meer zal hierin worden opgenomen:
 
-- a). de datum waarop wordt vastgesteld of de voorwaardelijke subsidie definitief wordt;
+- a) de datum waarop wordt vastgesteld of de voorwaardelijke subsidie definitief wordt;
 
-- b). de wijze waarop de hoogte van het bedrag wordt vastgesteld dat wordt omgezet in een betaling;
+- b) de wijze waarop de hoogte van het bedrag wordt vastgesteld dat wordt omgezet in een betaling;
 
-- c). het moment waarop het Fonds Podiumkunsten de betaling zal doen;
+- c) het moment waarop het Fonds Podiumkunsten de betaling zal doen;
 
-- d). de afspraken die gelden voor het doen van een bijdrage aan het budget in het geval van een financieel succesvolle productie;
+- d) de afspraken die gelden voor het doen van een bijdrage aan het budget in het geval van een financieel succesvolle productie;
 
-- e). de consequenties van het niet nakomen van verplichtingen.
+- e) de consequenties van het niet nakomen van verplichtingen.
 
 ##### Artikel 3.4. Bijdrage bij succes
 
@@ -205,11 +179,11 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 1. De ontvanger van de voorwaardelijke subsidie meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor de subsidie onder voorwaarden is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor de subsidie onder voorwaarden is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan;
+- b) niet of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan;
 
-- c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan de subsidie onder voorwaarden is verstrekt.
+- c) er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan de subsidie onder voorwaarden is verstrekt.
 
 2. Het bestuur kan bij beschikking andere dan de in het eerste lid opgenomen verplichtingen aan de subsidie verbinden.
 
@@ -231,10 +205,8 @@ In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
 ##### Artikel 5.2. Inwerkingtreding
 
-Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 februari 2023.
+Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 februari 2023.
 
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Investeringsregeling vrije producties.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

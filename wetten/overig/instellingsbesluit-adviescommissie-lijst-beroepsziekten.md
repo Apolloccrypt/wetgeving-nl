@@ -1,30 +1,30 @@
 ---
-title: "Instellingsbesluit Adviescommissie Lijst beroepsziekten"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, 2022-0000230810, tot instelling van een Adviescommissie beroepsziekten als gevolg van blootstelling aan gevaarlijke stoffen (Instellingsbesluit Adviescommissie Lijst beroepsziekten)"
+citeertitel: "Instellingsbesluit Adviescommissie Lijst beroepsziekten"
 identifier: "BWBR0047526"
-categorie: "Overig"
-publicatiedatum: 2026-07-16
-laatste_update: 2026-07-21
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2022-11-30
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0047526"
+opgehaald: 2026-09-03
 ---
 
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, 2022-0000230810, tot instelling van een Adviescommissie beroepsziekten als gevolg van blootstelling aan gevaarlijke stoffen (Instellingsbesluit Adviescommissie Lijst beroepsziekten)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- a. *minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **adviescommissie:** de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2026-07-16&g=2026-07-16);
+- b. *adviescommissie:* de adviescommissie Lijst beroepsziekten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047526&artikel=2&z=2026-07-16&g=2026-07-16);
 
-- c. **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven;
+- c. *RIVM:* Rijksinstituut voor Volksgezondheid en Milieu, te Bilthoven;
 
-- d. **Lexces:** het samenwerkingsverband, genoemd in de samenwerkingsovereenkomst Landelijk Expertisecentrum Stoffengerelateerde beroepsziekten (Lexces) van 27 juni 2022, gepubliceerd in Staatscourant 2022, nr. 29239.
+- d. *Lexces:* het samenwerkingsverband, genoemd in de samenwerkingsovereenkomst Landelijk Expertisecentrum Stoffengerelateerde beroepsziekten (Lexces) van 27 juni 2022, gepubliceerd in Staatscourant 2022, nr. 29239.
 
 ##### Artikel 2. Adviescommissie beroepsziekten
 
@@ -36,7 +36,7 @@ In dit besluit wordt verstaan onder:
 
 - b. ten behoeve van de minister een afwegingskader causaliteit en bijbehorende protocollen beroepsziekten op te stellen en te onderhouden.
 
-3. De Lijst beroepsziekten wordt als bijlage opgenomen bij de in Kamerstukken II 2021/22, 25 883, nr. 442 aangekondigde Regeling tegemoetkoming stoffengerelateerde beroepsziekten. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden door de minister gepubliceerd in de Staatscourant.
+3. De Lijst beroepsziekten wordt als bijlage opgenomen bij de in Kamerstukken II 2021/22, 25 883, nr. 442 aangekondigde Regeling tegemoetkoming stoffengerelateerde beroepsziekten. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden door de minister gepubliceerd in de Staatscourant.
 
 4. De adviescommissie kan bij de taakuitoefening deskundigen raadplegen.
 
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 1. De adviescommissie bestaat uit maximaal negen leden, waaronder een voorzitter en een plaatsvervangend voorzitter.
 
-2. De voorzitter en de leden van de adviescommissie worden door de minister benoemd telkens voor een termijn van 3 jaar. Zij kunnen worden herbenoemd.
+2. De voorzitter en de leden van de adviescommissie worden door de minister benoemd telkens voor een termijn van 3 jaar. Zij kunnen worden herbenoemd.
 
 3. De leden kiezen uit hun midden een plaatsvervangend voorzitter, die de voorzitter vervangt bij diens afwezigheid.
 
@@ -88,6 +88,4 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Lijst beroe
 
 ##### Artikel 7. Inwerkingtreding
 
-Treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 29 november 2022.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+Treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 29 november 2022.

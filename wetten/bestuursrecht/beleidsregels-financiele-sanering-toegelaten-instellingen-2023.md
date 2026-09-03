@@ -1,45 +1,30 @@
 ---
 title: "Beleidsregels financiële sanering toegelaten instellingen 2023"
 identifier: "BWBR0047632"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: vervallen
-source: "https://wetten.overheid.nl/BWBR0047632"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16596563"
-version_id: "29107562"
-internal_id: "C41372841"
-label_id: "16515124"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047632/2023-01-01/0"
-intitule_bron: "Stcrt.2022-34038"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-12-16"
-intitule_in_force: "2022-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34038"
-original_published_date: "2022-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34038"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047632&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047632&g=2023-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2023-01-01"
-gecontroleerd: 2026-07-29
+publicatiedatum: 2023-01-01
+laatste_update: 2024-07-02
+status: vervallen
+vervallen_op: 2026-07-06
+toestand: 2024-07-02
+bron: "https://wetten.overheid.nl/BWBR0047632"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregels financiële sanering toegelaten instellingen 2023
-
-De directie van WSW, namens de Minister voor Volkshuisvesting en Ruimtelijke Ordening, en gezien de schriftelijke instemming van de Minister voor Volkshuisvesting en Ruimtelijke Ordening,
-
-Het navolgende betreft de vaststelling van beleidsregels als bedoeld in [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), inzake het nemen van besluiten ten aanzien van de financiële sanering van toegelaten instellingen in 2023 (Beleidsregels financiële sanering toegelaten instellingen 2023).
 
 ### Inleiding
 
-De [Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530) is op 1 juli 2015 in werking getreden. [Artikel 57, eerste lid, onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) bepaalt dat een toegelaten instelling subsidie kan ontvangen ten behoeve van de sanering van de toegelaten instelling. De regels met betrekking tot deze subsidie zijn nader uitgewerkt in het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (Btiv). De wet biedt de mogelijkheid om deze saneringstaak te mandateren aan de borgingsvoorziening ([artikel 59, lid 2, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59)). Met het [Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0036753) is de saneringstaak aan het Waarborgfonds Sociale Woningbouw (WSW) gemandateerd. In dit mandaatbesluit is opgenomen dat WSW beleidsregels na voorafgaande instemming van de Minister kan vaststellen en op de volgende vier onderwerpen beleidsregels moet vaststellen:
+De [Herzieningswet toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036530) is op 1 juli 2015 in werking getreden. [Artikel 57, eerste lid, onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57) bepaalt dat een toegelaten instelling subsidie kan ontvangen ten behoeve van de sanering van de toegelaten instelling. De regels met betrekking tot deze subsidie zijn nader uitgewerkt in het [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) (Btiv). De wet biedt de mogelijkheid om deze saneringstaak te mandateren aan de borgingsvoorziening ([artikel 59, lid 2, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59)). Met het [Besluit mandatering Stichting Waarborgfonds Sociale Woningbouw financiële sanering toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0036753) is de saneringstaak aan het Waarborgfonds Sociale Woningbouw (WSW) gemandateerd. In dit mandaatbesluit is opgenomen dat WSW beleidsregels na voorafgaande instemming van de Minister kan vaststellen en op de volgende vier onderwerpen beleidsregels moet vaststellen:
+
+- • Kwijtschelding van de saneringsbijdrage;
+
+- • Het moment waarop een toegelaten instelling in aanmerking kan komen voor sanering;
+
+- • Het betrekken van de gemeentelijke zienswijze bij de beoordeling van een saneringsplan;
+
+- • De door WSW te hanteren termijnen ten behoeve van de saneringsaanvraag en beoordeling.
 
 Dit besluit heeft betrekking op de vier onderwerpen waarover beleidsregels moeten worden vastgesteld en gaat tevens in op de beoordeling van een aanvraag tot saneringssubsidie.
 
@@ -67,11 +52,29 @@ De zienswijze van de gemeente vormt hiermee een bovengrens voor de DAEB-werkzaam
 
 Op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt op aanvragen voor saneringssubsidie als bedoeld in [artikel 111 van het BTIV](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111), binnen 8 weken beslist. Zoals de Algemene wet bestuursrecht (Awb) bepaalt kan deze termijn langer zijn als WSW dit heeft gemeld aan de aanvrager, onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien. De termijn kan worden opgeschort indien de aanvrager is gevraagd om de aanvraag en of het saneringsplan aan te vullen of aan te passen.
 
+Beoordeling saneringsplan
+
 In het saneringsplan beschrijft de toegelaten instelling conform [artikel 111, vijfde lid, Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=111) in elk geval:
+
+- − welke maatregelen de toegelaten instelling, al dan niet in samenwerking met andere partijen, neemt of zal nemen om de DAEB-werkzaamheden voort te (laten) zetten;
+
+- − de uitkomst van overleg met andere partijen die betrokken zijn bij de financiering of werkzaamheden van de toegelaten instelling over het door hen financieel bijdragen aan de uitvoering van het saneringsplan;
+
+- − een raming van de benodigde subsidie, alsmede de gewenste vorm van die subsidie en het gewenste tijdstip of de gewenste tijdstippen van uitbetaling van die subsidie.
+
+- − de noodzakelijk DAEB-werkzaamheden zoals aangewezen door de gemeenten in relatie tot het volkshuisvestelijk belang.
 
 Nadat de saneerder heeft beoordeeld dat de genoemde punten in het saneringsplan voldoende in kaart zijn gebracht en dat de te nemen maatregelen reëel zijn, neemt hij een besluit op de saneringsaanvraag.
 
+Beoordeling saneringsaanvraag
+
 De saneerder toetst aan de voorwaarden in [artikel 112, eerste lid, Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=112) voor verlening van de aangevraagde saneringssubsidie:
+
+- − Is naar het oordeel van de saneerder de toegelaten instelling niet in staat om zonder saneringssubsidie de betrokken DAEB-werkzaamheden te kunnen verrichten of voort te zetten?;
+
+- − Is het verrichten of voortzetten van die werkzaamheden naar het oordeel van burgemeester en wethouders van de gemeenten waar zij worden verricht noodzakelijk voor het in stand houden van voldoende woongelegenheden in die gemeenten?; en
+
+- − Beschikt de saneerder over voldoende middelen als verkregen of te verkrijgen uit de saneringsbijdrage?
 
 Indien voldaan wordt aan alle voorwaarden in [artikel 112, eerste lid, Btiv](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=112), stelt de saneerder conform artikel 112, tweede lid, Btiv vast welk bedrag noodzakelijk is om – na uitvoering van het saneringsplan – de noodzakelijke DAEB-werkzaamheden te kunnen verrichten of voort te zetten.
 
@@ -79,8 +82,18 @@ Hierbij moet de evenredigheid van de toekenning van het bedrag worden getoetst: 
 
 In de evenredigheidstoets moeten alle omstandigheden van het geval worden betrokken. In ieder geval worden daarbij betrokken:
 
+- − dat de saneringssubsidie gericht dient te zijn op voortzetting van de noodzakelijke DAEB-werkzaamheden; en
+
+- − de verhouding tussen de noodzakelijke DAEB-werkzaamheden en de overige werkzaamheden.
+
 Daarnaast kunnen de volgende elementen een rol spelen (niet-limitatief):
+
+- − de bredere volkshuisvestelijke effecten;
+
+- − de mogelijke gevolgen indien geen saneringssubsidie wordt toegekend; en
+
+- − de omvang van de aangevraagde saneringssubsidie in relatie tot het volkshuisvestelijke belang van voortzetting van de DAEB werkzaamheden.
 
 De saneerder kent de aanvraag voor subsidie toe indien hij concludeert dat aan alle voorwaarden is voldaan en de hoogte van het subsidiebedrag evenredig is. Indien de saneerder alles overwegende tot de conclusie komt dat de aanvraag om saneringssubsidie zou moeten worden afgewezen, maakt hij aan de toegelaten instelling het voornemen bekend dat hij de aanvraag om saneringssubsidie zal afwijzen en motiveert hij waarom hij tot dat oordeel is gekomen. De saneerder stelt daarbij de toegelaten instelling in de gelegenheid hierover een zienswijze in te dienen en de saneringsaanvraag (en zo nodig het saneringsplan) aan te passen. Indien de toegelaten instelling de saneringsaanvraag nader onderbouwt, maakt de saneerder op basis daarvan een nieuwe afweging en neemt een besluit.
 
-Deze beleidsregels treden in werking met ingang van 1 januari 2023 en vervangen de [beleidsregels financiële sanering toegelaten instellingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046119).
+Deze beleidsregels treden in werking met ingang van 1 januari 2023 en vervangen de [beleidsregels financiële sanering toegelaten instellingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046119).

@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 16 maart 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Nicaragua, ambassade Managua, Besluit Beperking Openbaarheid Managua 1990–2013"
+citeertitel: "Besluit Beperking Openbaarheid Managua 1990–2013"
 identifier: "BWBR0047988"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-25"
-last_updated: "2023-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047988"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16701423"
-version_id: "29296432"
-internal_id: "C41727781"
-label_id: "16618274"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047988/2023-03-25/0"
-intitule_bron: "Stcrt.2023-8825"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-16"
-intitule_published: "2023-03-24"
-intitule_in_force: "2023-03-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-8825"
-original_signed_date: "2023-03-16"
-original_published_date: "2023-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-8825"
-entry_into_force_date: "2023-03-25"
-jci_1_3: "jci1.3:c:BWBR0047988&z=2023-03-25&g=2023-03-25"
-jci_1_0: "1.0:c:BWBR0047988&g=2023-03-25"
-citeertitel_status: "redactioneel"
-short_title: "Besluit Beperking Openbaarheid Managua 1990–2013"
-signed_date: "2023-03-16"
-entry_into_force: "2023-03-25"
+publicatiedatum: 2023-03-25
+laatste_update: 2023-03-25
+status: geldig
+toestand: 2023-03-25
+bron: "https://wetten.overheid.nl/BWBR0047988"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 16 maart 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Nicaragua, ambassade Managua, Besluit Beperking Openbaarheid Managua 1990–2013
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris d.d. 14 maart 2023, referentie 35828251;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -56,7 +28,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |

@@ -1,43 +1,17 @@
 ---
 title: "Reglement Kwaliteitsraad van Zorginstituut Nederland"
 identifier: "BWBR0047443"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-11-12"
-last_updated: "2022-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047443"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16558983"
-version_id: "29025642"
-internal_id: "C41085891"
-label_id: "16480144"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047443/2022-11-12/0"
-intitule_bron: "Stcrt.2022-29026"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-12"
-intitule_published: "2022-11-10"
-intitule_in_force: "2022-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-29026"
-original_signed_date: "2022-10-12"
-original_published_date: "2022-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-29026"
-entry_into_force_date: "2022-11-11"
-jci_1_3: "jci1.3:c:BWBR0047443&z=2022-11-12&g=2022-11-12"
-jci_1_0: "1.0:c:BWBR0047443&g=2022-11-12"
-citeertitel_status: "officieel"
-signed_date: "2022-10-12"
-entry_into_force: "2022-11-11"
+publicatiedatum: 2022-11-11
+laatste_update: 2022-11-12
+status: geldig
+toestand: 2022-11-12
+bron: "https://wetten.overheid.nl/BWBR0047443"
+opgehaald: 2026-09-03
 ---
+
 # Reglement Kwaliteitsraad van Zorginstituut Nederland
-
-gelet op [artikel 59b van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b), [artikelen 11b](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11b), [11f](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11f) en [11j van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11j) hierna (Wkkgz) en [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=12) en [13 van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=13),
-
-heeft in zijn vergadering van 12 oktober 2022 besloten:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -45,23 +19,23 @@ heeft in zijn vergadering van 12 oktober 2022 besloten:
 
 Dit reglement verstaat onder:
 
-- a. **het Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- a. *het Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- b. **Kwaliteitsraad:** de Adviescommissie Kwaliteit bedoeld in [artikel 59b van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b);
+- b. *Kwaliteitsraad:* de Adviescommissie Kwaliteit bedoeld in [artikel 59b van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b);
 
-- c. **Raad van Bestuur:** de Raad van Bestuur van Zorginstituut Nederland;
+- c. *Raad van Bestuur:* de Raad van Bestuur van Zorginstituut Nederland;
 
-- d. **leden:** de leden van de Kwaliteitsraad, bedoeld onder b;
+- d. *leden:* de leden van de Kwaliteitsraad, bedoeld onder b;
 
-- e. **voorzitter:** de voorzitter van de Kwaliteitsraad, bedoeld onder b;
+- e. *voorzitter:* de voorzitter van de Kwaliteitsraad, bedoeld onder b;
 
-- f. **secretaris:** de secretaris dan wel plaatsvervangend secretaris van de Kwaliteitsraad, bedoeld onder b;
+- f. *secretaris:* de secretaris dan wel plaatsvervangend secretaris van de Kwaliteitsraad, bedoeld onder b;
 
-- g. **kwaliteitsstandaard:** kwaliteitsstandaard als bedoeld in [artikel 1, lid 1 van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- g. *kwaliteitsstandaard:* kwaliteitsstandaard als bedoeld in [artikel 1, lid 1 van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- h. **meetinstrument:** meetinstrument bedoeld in [artikel 1, lid 1 van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- h. *meetinstrument:* meetinstrument bedoeld in [artikel 1, lid 1 van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- i. **openbaar register:** het openbare register als bedoeld in [artikel 11a van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11a).
+- i. *openbaar register:* het openbare register als bedoeld in [artikel 11a van de Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=11a).
 
 ### Hoofdstuk 2. Taken Kwaliteitsraad
 
@@ -245,7 +219,7 @@ In die gevallen waarin het reglement niet voorziet, neemt de voorzitter beslissi
 
 ##### Artikel 20
 
-Het Reglement Kwaliteitsraad van Zorginstituut Nederland d.d. 12 oktober 2016 wordt ingetrokken.
+Het Reglement Kwaliteitsraad van Zorginstituut Nederland d.d. 12 oktober 2016 wordt ingetrokken.
 
 ##### Artikel 21
 
@@ -257,4 +231,4 @@ Dit besluit wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 23
 
-Dit besluit treedt in werking na publicatie daarvan in de Staatscourant en werkt, uitgezonderd het bepaalde in [artikel 4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=3&artikel=4&z=2022-11-12&g=2022-11-12), terug tot en met 1 juli 2021. Artikel 4, lid 3 treedt met ingang van de tweede dag na publicatie in Staatscourant in werking.
+Dit besluit treedt in werking na publicatie daarvan in de Staatscourant en werkt, uitgezonderd het bepaalde in [artikel 4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047443&hoofdstuk=3&artikel=4&z=2022-11-12&g=2022-11-12), terug tot en met 1 juli 2021. Artikel 4, lid 3 treedt met ingang van de tweede dag na publicatie in Staatscourant in werking.

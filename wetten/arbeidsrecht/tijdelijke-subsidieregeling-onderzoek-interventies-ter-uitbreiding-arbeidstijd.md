@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0050406"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2024, nr. 2024-0000896682, houdende de vaststelling van een tijdelijke subsidieregeling gericht op het uitvoeren van interventies ter uitbreiding van de arbeidstijd voor wetenschappelijk onderzoek in het kader van het programma Meer uren werkt! (Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd)

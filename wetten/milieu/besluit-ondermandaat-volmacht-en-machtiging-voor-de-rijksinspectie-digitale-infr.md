@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van 22 november 2022, betreffende verlening van ondermandaat, volmacht en machtiging aan de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat"
 identifier: "BWBR0047538"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-08-30"
-last_updated: "2024-08-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047538"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16579243"
-version_id: "29070002"
-internal_id: "C41322261"
-label_id: "16498964"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047538/2024-08-30/0"
-intitule_bron: "Stcrt.2022-32145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-22"
-intitule_published: "2022-11-30"
-intitule_in_force: "2022-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32145"
-original_signed_date: "2022-11-22"
-original_published_date: "2022-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-32145"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047538&z=2024-08-30&g=2024-08-30"
-jci_1_0: "1.0:c:BWBR0047538&g=2024-08-30"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat"
-signed_date: "2022-11-22"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2024-08-30
+status: geldig
+toestand: 2024-08-30
+bron: "https://wetten.overheid.nl/BWBR0047538"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur van 22 november 2022, betreffende verlening van ondermandaat, volmacht en machtiging aan de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat)
-
-Gelet op [artikel 19, eerste en derde lid, van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19);
-
-Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,27 +20,27 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de directeuren:**
+- a. *de directeuren:*
 
-- 1. de directeur van de Directie Infrastructuur van de Rijksinspectie Digitale Infrastructuur;
+   - 1. de directeur van de Directie Infrastructuur van de Rijksinspectie Digitale Infrastructuur;
 
-- 2. de directeur van de Directie Apparatuur van de Rijksinspectie Digitale Infrastructuur;
+   - 2. de directeur van de Directie Apparatuur van de Rijksinspectie Digitale Infrastructuur;
 
-- 3. de directeur van de Directie Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur;
+   - 3. de directeur van de Directie Digitale Weerbaarheid van de Rijksinspectie Digitale Infrastructuur;
 
-- 4. de directeur van de Directie Bestuur, Juridische Zaken en Communicatie van de Rijksinspectie Digitale Infrastructuur;
+   - 4. de directeur van de Directie Bestuur, Juridische Zaken en Communicatie van de Rijksinspectie Digitale Infrastructuur;
 
-- 5. de directeur van de Directie Mens en Middelen van de Rijksinspectie Digitale Infrastructuur;
+   - 5. de directeur van de Directie Mens en Middelen van de Rijksinspectie Digitale Infrastructuur;
 
-- b. **CIO:** plaatsvervangend directeur Mens en Middelen;
+- b. *CIO:* plaatsvervangend directeur Mens en Middelen;
 
-- c. **de teammanagers:** de leidinggevenden van de teams die behoren tot een directie;
+- c. *de teammanagers:* de leidinggevenden van de teams die behoren tot een directie;
 
-- d. **de P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie;
+- d. *de P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie;
 
-- e. **een bedrag:** een bedrag exclusief de verschuldigde omzetbelasting (BTW);
+- e. *een bedrag:* een bedrag exclusief de verschuldigde omzetbelasting (BTW);
 
-- f. **de machtigingenbeheerders eHerkenningsmiddelen:** de machtigingenbeheerders eHerkenningsmiddelen van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat;
+- f. *de machtigingenbeheerders eHerkenningsmiddelen:* de machtigingenbeheerders eHerkenningsmiddelen van de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat;
 
 ##### Artikel 2
 
@@ -80,7 +52,7 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 ##### Artikel 3
 
-1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
+1. Aan de directeuren wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat.
 
 2. Onder het werkterrein als bedoeld in het eerste lid valt ook:
 
@@ -106,7 +78,7 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 ##### Artikel 4
 
-1. Aan de teammanagers wordt, ieder voor zich, mandaat volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+1. Aan de teammanagers wordt, ieder voor zich, mandaat volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 2. Aan de directeuren en teammanagers wordt tevens mandaat, volmacht en machtiging verleend voor:
 
@@ -122,7 +94,7 @@ Aan de inspecteur-generaal is voorbehouden: het nemen van besluiten, het verrich
 
 ##### Artikel 5
 
-Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 ##### Artikel 6
 
@@ -130,7 +102,7 @@ Aan de CIO wordt mandaat, volmacht en machtiging verleend voor aangelegenheden o
 
 - a. het behandelen van bezwaar- en beroepschriften op zijn werkterrein, waaronder begrepen het nemen van beslissingen op bezwaarschriften, het instellen van en het voeren van beroep, hoger beroep en voorlopige voorzieningen procedures;
 
-- b. het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat;
+- b. het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 250.000 per verplichting niet te boven gaat;
 
 - c. het doen van bekendmakingen via het Digitaal Loket voor Officiële Elektronische Publicaties en het daartoe aanwijzen en registreren van één of meer contactpersonen waardoor uitsluitend deze contactpersonen toegang hebben tot dat Digitaal Loket.
 
@@ -160,11 +132,11 @@ Aan de teammanager Caribisch Nederland wordt mandaat, volmacht en machtiging ver
 
 ##### Artikel 9
 
-Aan de senior inspecteur van het kantoor van de Rijksinspectie Digitale Infrastructuur te Bonaire wordt mandaat, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen van kantoorbenodigdheden voor die vestiging van de Rijksinspectie, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
+Aan de senior inspecteur van het kantoor van de Rijksinspectie Digitale Infrastructuur te Bonaire wordt mandaat, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen van kantoorbenodigdheden voor die vestiging van de Rijksinspectie, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
 ##### Artikel 10
 
-1. Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
+1. Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
 2. De machtigingenbeheerders eHerkenningsmiddelen nemen voor de in het eerste lid genoemde aangelegenheden, de door de secretaris-generaal gestelde regels over de uitgifte en beheer van eHerkenningsmiddelen in acht.
 
@@ -208,7 +180,7 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 13
 
-Dit besluit treedt in werking op 1 januari 2023.
+Dit besluit treedt in werking op 1 januari 2023.
 
 ##### Artikel 14
 

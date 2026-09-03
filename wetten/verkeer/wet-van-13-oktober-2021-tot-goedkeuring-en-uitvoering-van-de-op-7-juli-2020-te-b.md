@@ -9,7 +9,7 @@ laatste_update: 2021-11-09
 status: geldig
 toestand: 2021-11-09
 bron: "https://wetten.overheid.nl/BWBR0045797"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Wet van 13 oktober 2021 tot goedkeuring en uitvoering van de op 7 juli 2020 te Brussel tot stand gekomen Overeenkomst tussen de Regering van de Franse Republiek, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot wijziging en aanvulling van de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding met protocol, gedaan te Brussel op 15 december 1993 (Trb. 2020, 67, Trb. 2020, 107 en Trb. 2020, 128); Goedkeuring en uitvoering van de op 10 juli 2020 te ’s-Gravenhage tot stand gekomen Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van het Koninkrijk der Nederlanden met betrekking tot grenscontroles op het treinverkeer tussen Nederland en het Verenigd Koninkrijk via de vaste kanaalverbinding (Trb. 2020, 69 en Trb. 2021, 62)

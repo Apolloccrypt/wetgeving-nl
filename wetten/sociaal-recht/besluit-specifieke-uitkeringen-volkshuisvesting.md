@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving"
+citeertitel: "Besluit specifieke uitkeringen volkshuisvesting"
 identifier: "BWBR0047481"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047481"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "16566753"
-version_id: "30996242"
-internal_id: "C44389931"
-label_id: "16486674"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047481/2026-01-01/0"
-intitule_bron: "Stb.2022-452"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-29"
-intitule_published: "2022-11-16"
-intitule_in_force: "2023-02-21"
-intitule_status: "goed"
-original_publication: "Stb.2025-306"
-original_signed_date: "2025-10-08"
-original_published_date: "2025-10-27"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2025-306"
-entry_into_force_date: "2025-10-08"
-jci_1_3: "jci1.3:c:BWBR0047481&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0047481&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit specifieke uitkeringen volkshuisvesting"
-signed_date: "2025-10-08"
-entry_into_force: "2025-10-08"
+publicatiedatum: 2025-10-08
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0047481"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving
-
-Op de voordracht van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 22 april 2022, nr. 2022-0000203708;
-
-Gelet op [artikel 81, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=81);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 15 juni 2022, nr. W04.22.00051/I);
-
-Gezien het nader rapport van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 25 oktober 2022, nr. 2022-0000550664;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepaling
 
@@ -78,9 +46,9 @@ Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan 
 
 - l. het bij bouwactiviteiten, sloopactiviteiten of het gebruik en het in stand houden van bouwwerken:
 
-- 1°. waarborgen van de veiligheid;
+   - 1°. waarborgen van de veiligheid;
 
-- 2°. beschermen van de gezondheid; of
+   - 2°. beschermen van de gezondheid; of
 
 - m. het bevorderen van de duurzaamheid en bruikbaarheid van gebouwen.
 
@@ -136,11 +104,11 @@ Na de inwerkingtreding van dit besluit berust:
 
 - h. de [Stimuleringsregeling flex- en transformatiewoningen](https://wetten.overheid.nl/jci1.3:c:BWBR0047455) op [artikel 2, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- i. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken](https://wetten.overheid.nl/jci1.3:c:BWBR0046413) (Stct. 2022, 6641) op [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
+- i. de [Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken](https://wetten.overheid.nl/jci1.3:c:BWBR0046413) (Stct. 2022, 6641) op [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- j. de [Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan de provincies Noord-Holland, Utrecht, Limburg, Zeeland, Overijssel, Groningen en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVI-gebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0045931) (Stct. 2021, 47806) op [artikel 2, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
+- j. de [Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan de provincies Noord-Holland, Utrecht, Limburg, Zeeland, Overijssel, Groningen en Zuid-Holland ten behoeve van een kwalitatief hoogwaardige en duurzame woon- en leefomgeving in acht NOVI-gebieden](https://wetten.overheid.nl/jci1.3:c:BWBR0045931) (Stct. 2021, 47806) op [artikel 2, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
-- k. de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening tot wijziging van de Regeling houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken (Stcrt. 2022, nr. 6641) in verband met het toevoegen van twee gemeenten op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
+- k. de Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening tot wijziging van de Regeling houdende regels met betrekking tot de verstrekking van een specifieke uitkering aan gemeenten voor de derde ronde proeftuinen van het programma aardgasvrije wijken (Stcrt. 2022, nr. 6641) in verband met het toevoegen van twee gemeenten op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit;
 
 - l. de [Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0047108) op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2&z=2026-01-01&g=2026-01-01), van dit besluit; en
 
@@ -150,12 +118,8 @@ Na de inwerkingtreding van dit besluit berust:
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. In het koninklijk besluit kan worden bepaald dat dit besluit terugwerkt tot en met 22 september 2022.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+2. In het koninklijk besluit kan worden bepaald dat dit besluit terugwerkt tot en met 22 september 2022.
 
 ##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit specifieke uitkeringen volkshuisvesting
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,84 +1,56 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 19 december 2022, nr. WJZ/ 22099861, houdende regels voor aanbieders van openbare mobiele communicatienetwerken inzake de alarmeringsdienst NL-Alert (Regeling alarmeringsdienst NL-Alert 2023)"
+citeertitel: "Regeling alarmeringsdienst NL-Alert 2023"
 identifier: "BWBR0047721"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047721"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16628353"
-version_id: "29159902"
-internal_id: "C41430291"
-label_id: "16547084"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047721/2024-01-01/0"
-intitule_bron: "Stcrt.2022-34404"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-19"
-intitule_published: "2022-12-28"
-intitule_in_force: "2022-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34404"
-original_signed_date: "2022-12-19"
-original_published_date: "2022-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34404"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047721&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0047721&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling alarmeringsdienst NL-Alert 2023"
-signed_date: "2022-12-19"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0047721"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 19 december 2022, nr. WJZ/ 22099861, houdende regels voor aanbieders van openbare mobiele communicatienetwerken inzake de alarmeringsdienst NL-Alert (Regeling alarmeringsdienst NL-Alert 2023)
-
-handelende in overeenstemming met de Minister van Justitie en Veiligheid;
-
-Gelet op [artikel 14.1, tweede lid, onderdeel a, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.1), en [artikel 3.8 van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=3.8);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **aanbieder:** aanbieder van een openbaar mobiel elektronisch communicatienetwerk dat geschikt is, of geschikt te maken is, voor cell broadcasttechnologie;
+- *aanbieder:* aanbieder van een openbaar mobiel elektronisch communicatienetwerk dat geschikt is, of geschikt te maken is, voor cell broadcasttechnologie;
 
-- **alarmeringsdienst NL-Alert:** dienst van de overheid om burgers te waarschuwen en te informeren over levens- en gezondheidsbedreigende situaties, of dreiging daarvan, door locatiespecifiek een bericht uit te zenden dat wordt ontvangen op eindapparaten;
+- *alarmeringsdienst NL-Alert:* dienst van de overheid om burgers te waarschuwen en te informeren over levens- en gezondheidsbedreigende situaties, of dreiging daarvan, door locatiespecifiek een bericht uit te zenden dat wordt ontvangen op eindapparaten;
 
-- **best server map:** digitale presentatie op een kaart van het gebied waar het NL-Alert door een aanbieder via zijn netwerken is uitgezonden, rekening houdend met de fysieke omgeving;
+- *best server map:* digitale presentatie op een kaart van het gebied waar het NL-Alert door een aanbieder via zijn netwerken is uitgezonden, rekening houdend met de fysieke omgeving;
 
-- **broker:** degene die door de Minister van Justitie en Veiligheid is aangewezen voor het faciliteren van het aanmaken en distribueren van het NL-Alert en aan de aanbieder de gegevens te verstrekken, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=12&z=2024-01-01&g=2024-01-01);
+- *broker:* degene die door de Minister van Justitie en Veiligheid is aangewezen voor het faciliteren van het aanmaken en distribueren van het NL-Alert en aan de aanbieder de gegevens te verstrekken, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047721&artikel=12&z=2024-01-01&g=2024-01-01);
 
-- **brokerinterface:** punt waarop de broker een netwerkkoppeling maakt met het netwerk van de aanbieder;
+- *brokerinterface:* punt waarop de broker een netwerkkoppeling maakt met het netwerk van de aanbieder;
 
-- **cell:** netwerkelement dat door aanbieder kan worden geselecteerd om een NL-Alert al dan niet uit te zenden;
+- *cell:* netwerkelement dat door aanbieder kan worden geselecteerd om een NL-Alert al dan niet uit te zenden;
 
-- **cell broadcasttechnologie:** technologie volgens standaard ETSI TS 123 041 die als drager voor het uitzenden van een NL-Alert wordt gebruikt;
+- *cell broadcasttechnologie:* technologie volgens standaard ETSI TS 123 041 die als drager voor het uitzenden van een NL-Alert wordt gebruikt;
 
-- **dienstverlening:** door de aanbieder op grond van deze regeling te verrichten diensten en te leveren prestaties;
+- *dienstverlening:* door de aanbieder op grond van deze regeling te verrichten diensten en te leveren prestaties;
 
-- **eindapparaat:** radioapparaat dat via elektromagnetische golven is aangesloten op het openbare elektronische communicatienetwerk van een aanbieder en een NL-Alert via cell broadcasttechnologie kan ontvangen;
+- *eindapparaat:* radioapparaat dat via elektromagnetische golven is aangesloten op het openbare elektronische communicatienetwerk van een aanbieder en een NL-Alert via cell broadcasttechnologie kan ontvangen;
 
-- **geofencing:** techniek waarbij de aanbieder het uitzendgebied als onderdeel van de alarmeringsdienst NL-Alert distribueert, waarmee een eindapparaat, op basis van zijn locatie, bepaalt of een NL-Alert relevant is en, als dit het geval is, vervolgens de eindgebruiker notificeert;
+- *geofencing:* techniek waarbij de aanbieder het uitzendgebied als onderdeel van de alarmeringsdienst NL-Alert distribueert, waarmee een eindapparaat, op basis van zijn locatie, bepaalt of een NL-Alert relevant is en, als dit het geval is, vervolgens de eindgebruiker notificeert;
 
-- **geofencing trigger bericht:** door aanbieder via cell broadcast technologie uitgezonden bericht dat het eindapparaat triggert om te controleren of zijn locatie zich in het uitzendgebied bevindt;
+- *geofencing trigger bericht:* door aanbieder via cell broadcast technologie uitgezonden bericht dat het eindapparaat triggert om te controleren of zijn locatie zich in het uitzendgebied bevindt;
 
-- **Minister:** Minister van Economische Zaken en Klimaat;
+- *Minister:* Minister van Economische Zaken en Klimaat;
 
-- **NL-Alert:** tekstbericht dat door de aanbieder via cell broadcasttechnologie, conform ETSI TS 122 268, in het uitzendgebied wordt uitgezonden;
+- *NL-Alert:* tekstbericht dat door de aanbieder via cell broadcasttechnologie, conform ETSI TS 122 268, in het uitzendgebied wordt uitgezonden;
 
-- **prestatiepercentage aanbieder:** het quotiënt, uitgedrukt in een percentage, van het aantal cellen van de aanbieder in het uitzendgebied dat een NL-Alert respectievelijk een repeterend testbericht heeft uitgezonden, gedeeld door het totaal aantal cellen dat op dat moment door de aanbieder is geselecteerd om het uitzendgebied af te dekken;
+- *prestatiepercentage aanbieder:* het quotiënt, uitgedrukt in een percentage, van het aantal cellen van de aanbieder in het uitzendgebied dat een NL-Alert respectievelijk een repeterend testbericht heeft uitgezonden, gedeeld door het totaal aantal cellen dat op dat moment door de aanbieder is geselecteerd om het uitzendgebied af te dekken;
 
-- **repeterend testbericht:** bericht gebruikt voor ketenmonitoring, dat door de aanbieder in opdracht van de Minister van Justitie en Veiligheid, met tussenkomst van de broker, via een daartoe bestemd cell broadcast kanaal wordt uitgezonden;
+- *repeterend testbericht:* bericht gebruikt voor ketenmonitoring, dat door de aanbieder in opdracht van de Minister van Justitie en Veiligheid, met tussenkomst van de broker, via een daartoe bestemd cell broadcast kanaal wordt uitgezonden;
 
-- **serviceverzoek:** verzoek van de Minister van Justitie en Veiligheid tot het leveren van informatie, advies, rapportages of informatie omtrent wijzigingen betreffende de alarmeringsdienst NL-Alert;
+- *serviceverzoek:* verzoek van de Minister van Justitie en Veiligheid tot het leveren van informatie, advies, rapportages of informatie omtrent wijzigingen betreffende de alarmeringsdienst NL-Alert;
 
-- **uitzendgebied:** geografisch gebied, dat met coördinaten wordt vastgesteld, waarbinnen een NL-Alert dient te worden gedistribueerd door de aanbieder via de cellen.
+- *uitzendgebied:* geografisch gebied, dat met coördinaten wordt vastgesteld, waarbinnen een NL-Alert dient te worden gedistribueerd door de aanbieder via de cellen.
 
 ##### Artikel 2
 
@@ -213,5 +185,3 @@ Deze regeling treedt in werking met ingang van 01-01-2023, met uitzondering van 
 ##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling alarmeringsdienst NL-Alert 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

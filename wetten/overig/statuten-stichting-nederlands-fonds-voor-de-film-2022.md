@@ -1,35 +1,16 @@
 ---
 title: "Statuten Stichting Nederlands Fonds voor de Film 2022"
 identifier: "BWBR0047541"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-11-29"
-last_updated: "2022-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047541"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16579823"
-version_id: "29071482"
-internal_id: "C41325051"
-label_id: "16499764"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047541/2022-11-29/0"
-intitule_bron: "Stcrt.2022-32043"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-11-29"
-intitule_in_force: "2022-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32043"
-original_published_date: "2022-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-32043"
-entry_into_force_date: "2022-11-29"
-jci_1_3: "jci1.3:c:BWBR0047541&z=2022-11-29&g=2022-11-29"
-jci_1_0: "1.0:c:BWBR0047541&g=2022-11-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "2022-11-29"
+publicatiedatum: 2022-11-29
+laatste_update: 2022-11-29
+status: geldig
+toestand: 2022-11-29
+bron: "https://wetten.overheid.nl/BWBR0047541"
+opgehaald: 2026-09-03
 ---
+
 # Statuten Stichting Nederlands Fonds voor de Film 2022
 
 ### Statuten
@@ -52,7 +33,7 @@ ln de statuten wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De stichting draagt de naam: ****Stichting Nederlands Fonds voor de Film****.
+1. De stichting draagt de naam: **Stichting Nederlands Fonds voor de Film**.
 
 2. Zij heeft haar zetel in de gemeente Amsterdam.
 
@@ -226,7 +207,7 @@ Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit geno
 
 - m. het treffen van pensioenregelingen en het toekennen van pensioenrechten boven die, welke uit bestaande regelingen voortvloeien.
 
-2. Besluiten van het bestuur tot de verstrekking van een subsidie welke een bedrag van één miljoen achthonderdduizend euro (€ 1.800.000,00) te boven gaan, treden niet in werking, dan nadat zij ter goedkeuring aan de raad van toezicht zijn voorgelegd en een termijn van twee weken is verstreken na de dag van voorlegging.
+2. Besluiten van het bestuur tot de verstrekking van een subsidie welke een bedrag van één miljoen achthonderdduizend euro (€ 1.800.000,00) te boven gaan, treden niet in werking, dan nadat zij ter goedkeuring aan de raad van toezicht zijn voorgelegd en een termijn van twee weken is verstreken na de dag van voorlegging.
 
 3. De raad van toezicht kan bepalen dat een in het eerste lid bedoeld besluit niet aan zijn goedkeuring is onderworpen, indien het daarmee gemoeide belang een door de raad van toezicht te bepalen en schriftelijk aan het bestuur op te geven waarde niet te boven gaat. Evenmin is een besluit aan de goedkeuring onderworpen wanneer dit voortvloeit uit een van de goedgekeurde plannen genoemd in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047541&artikel=6&z=2022-11-29&g=2022-11-29).
 

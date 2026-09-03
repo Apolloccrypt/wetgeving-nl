@@ -1,44 +1,35 @@
 ---
 title: "Besluit van 4 oktober 2022 van het bestuur van de Nederlandse beroepsorganisatie van accountants houdende regels inzake mandaat en machtiging (Besluit mandaat en machtiging bestuur NBA 2022)"
+citeertitel: "Besluit mandaat en machtiging bestuur NBA 2022"
 identifier: "BWBR0047311"
-country: "nl"
-rank: "pbo"
-publication_date: "2022-12-13"
-last_updated: "2022-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047311"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "16521033"
-version_id: "28955642"
-internal_id: "C40988351"
-label_id: "16442534"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047311/2022-12-13/0"
-intitule_bron: "Stcrt.2022-26911"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-04"
-intitule_published: "2022-10-17"
-intitule_in_force: "2022-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-26911"
-original_signed_date: "2022-10-04"
-original_published_date: "2022-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-26911"
-entry_into_force_date: "2022-10-18"
-jci_1_3: "jci1.3:c:BWBR0047311&z=2022-12-13&g=2022-12-13"
-jci_1_0: "1.0:c:BWBR0047311&g=2022-12-13"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging bestuur NBA 2022"
-signed_date: "2022-10-04"
-entry_into_force: "2022-10-18"
+publicatiedatum: 2022-10-18
+laatste_update: 2022-12-13
+status: geldig
+toestand: 2022-12-13
+bron: "https://wetten.overheid.nl/BWBR0047311"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van 4 oktober 2022 van het bestuur van de Nederlandse beroepsorganisatie van accountants houdende regels inzake mandaat en machtiging (Besluit mandaat en machtiging bestuur NBA 2022)
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
-### Hoofdstuk 1. – Algemene bepalingen
+##### Artikel 1
+
+Voor de toepassing van dit besluit wordt verstaan onder:
+
+- – *directie:* directie, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=18);
+
+- – *Raad voor de praktijkopleidingen:* Raad voor de praktijkopleidingen, bedoeld in [artikel 2 van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=2);
+
+- – *Raad voor Toezicht:* Raad voor Toezicht bedoeld in [artikel 2 van de Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&artikel=2);
+
+- – *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+
+### Hoofdstuk 2. – Mandaat en machtiging directie
 
 ##### Artikel 2
 
@@ -75,28 +66,6 @@ Het bestuur verleent mandaat en machtiging aan de directie om:
 De directie kan ter zake van de in [artikel 2, onderdeel a tot en met e en h tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0047311&hoofdstuk=2&artikel=2&z=2022-12-13&g=2022-12-13) genoemde mandaten en machtigingen, ondermandaat en machtiging verlenen aan een daartoe aangewezen orgaan of functionaris.
 
 ### Hoofdstuk 3. – Mandaat en machtiging Raad voor Toezicht
-
-### Hoofdstuk 4. – Mandaat en machtiging Raad voor de praktijkopleidingen
-
-### Hoofdstuk 3. – Mandaat en machtiging Raad voor Toezicht
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Besluit als volgt:
-
-##### Artikel 1
-
-Voor de toepassing van dit besluit wordt verstaan onder:
-
-- –. **directie:** directie, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=18);
-
-- –. **Raad voor de praktijkopleidingen:** Raad voor de praktijkopleidingen, bedoeld in [artikel 2 van de Verordening op de praktijkopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&artikel=2);
-
-- –. **Raad voor Toezicht:** Raad voor Toezicht bedoeld in [artikel 2 van de Verordening op de Raad voor Toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0033787&artikel=2);
-
-- –. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
-
-### Hoofdstuk 2. – Mandaat en machtiging directie
 
 ##### Artikel 4
 

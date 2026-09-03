@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 23 januari 2023, nr. 4381549, houdende regels omtrent het aanstellen van politieambtenaren (Regeling aanstellingseisen politie 2023)"
+citeertitel: "Regeling aanstellingseisen politie 2023"
 identifier: "BWBR0047833"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-10-02"
-last_updated: "2024-10-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047833"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16662423"
-version_id: "29223092"
-internal_id: "C41519391"
-label_id: "16580614"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047833/2024-10-02/0"
-intitule_bron: "Stcrt.2023-3423"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-01-23"
-intitule_published: "2023-01-30"
-intitule_in_force: "2023-01-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-3423"
-original_signed_date: "2023-01-23"
-original_published_date: "2023-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-3423"
-entry_into_force_date: "2023-01-31"
-jci_1_3: "jci1.3:c:BWBR0047833&z=2024-10-02&g=2024-10-02"
-jci_1_0: "1.0:c:BWBR0047833&g=2024-10-02"
-citeertitel_status: "officieel"
-short_title: "Regeling aanstellingseisen politie 2023"
-signed_date: "2023-01-23"
-entry_into_force: "2023-01-31"
+publicatiedatum: 2023-01-31
+laatste_update: 2024-10-02
+status: geldig
+toestand: 2024-10-02
+bron: "https://wetten.overheid.nl/BWBR0047833"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 23 januari 2023, nr. 4381549, houdende regels omtrent het aanstellen van politieambtenaren (Regeling aanstellingseisen politie 2023)
-
-Gelet op [artikel 7, eerste lid, onderdelen b, c en d, en tweede lid, onderdelen b, c en e, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=7);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,27 +20,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **ambtenaar in opleiding:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *ambtenaar in opleiding:* de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **aspirant:** de aspirant, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *aspirant:* de aspirant, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **bevoegd gezag:** de korpschef;
+- *bevoegd gezag:* de korpschef;
 
-- **cognitieve capaciteiten:** abstracte, verbale en numerieke redeneervermogen;
+- *cognitieve capaciteiten:* abstracte, verbale en numerieke redeneervermogen;
 
-- **NLQF:** Nederlands kwalificatieraamwerk gebaseerd op het European Qualifications Framework, het Europees raamwerk van de Europese Unie waarin alle kwalificaties van diploma’s en certificaten onderverdeeld zijn in het kader van leven lang leren;
+- *NLQF:* Nederlands kwalificatieraamwerk gebaseerd op het European Qualifications Framework, het Europees raamwerk van de Europese Unie waarin alle kwalificaties van diploma’s en certificaten onderverdeeld zijn in het kader van leven lang leren;
 
-- **politieopleiding:** politieopleiding als bedoeld in [artikel 1, eerste lid, onderdeel s, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
+- *politieopleiding:* politieopleiding als bedoeld in [artikel 1, eerste lid, onderdeel s, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
 
-- **politieopleidingen op een vergelijkbaar mbo-niveau:** opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=87), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen een diploma wordt uitgereikt ten bewijze van de behaalde kwalificatie op een niveau dat overeenkomt met een niveau als bedoeld in [artikel 7.2.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
+- *politieopleidingen op een vergelijkbaar mbo-niveau:* opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=87), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen een diploma wordt uitgereikt ten bewijze van de behaalde kwalificatie op een niveau dat overeenkomt met een niveau als bedoeld in [artikel 7.2.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2);
 
-- **politieopleiding op het niveau van het hoger onderwijs:** opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=87), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen een diploma wordt uitgereikt ten bewijze van de behaalde kwalificatie op een niveau dat op grond van [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a) of [artikel 7.10b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10b) recht geeft op het voeren van de graad Associate degree, Bachelor of Master;
+- *politieopleiding op het niveau van het hoger onderwijs:* opleidingen gericht op de uitoefening van de politietaak, waarvoor in de kwalificatiestructuur, bedoeld in [artikel 87 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=87), de kwalificaties zijn vastgesteld en ten bewijze waarvan na een met goed gevolg afgelegd examen een diploma wordt uitgereikt ten bewijze van de behaalde kwalificatie op een niveau dat op grond van [artikel 7.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10a) of [artikel 7.10b van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10b) recht geeft op het voeren van de graad Associate degree, Bachelor of Master;
 
-- **vakgebied:** vakgebied als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *vakgebied:* vakgebied als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **vrijwillige ambtenaar in opleiding:** de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *vrijwillige ambtenaar in opleiding:* de ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **vrijwilliger-aspirant:** de ambtenaar, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
+- *vrijwilliger-aspirant:* de ambtenaar, bedoeld in [artikel 1, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
 ##### Artikel 2. Minimumleeftijd
 
@@ -80,7 +54,7 @@ De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
 3. Het bevoegd gezag draagt ervoor zorg dat de eis van het rijbewijs B, bedoeld in het tweede lid, voor kandidaten met dezelfde functie of met dezelfde inzet uniform wordt toegepast.
 
-4. In afwijking van het eerste lid geldt voor kandidaat aspiranten die tussen 1 november 2023 en 31 december 2023 instromen in de politieopleiding en voor kandidaat aspiranten die in aanmerking komen voor een tegemoetkoming in de kosten van het rijbewijs op grond van de [Regeling tegemoetkoming rijbewijs aspiranten](onbekend), dat het rijbewijs B moet zijn behaald binnen negen maanden na het moment van aanstelling.
+4. In afwijking van het eerste lid geldt voor kandidaat aspiranten die tussen 1 november 2023 en 31 december 2023 instromen in de politieopleiding en voor kandidaat aspiranten die in aanmerking komen voor een tegemoetkoming in de kosten van het rijbewijs op grond van de Regeling tegemoetkoming rijbewijs aspiranten, dat het rijbewijs B moet zijn behaald binnen negen maanden na het moment van aanstelling.
 
 ##### Artikel 4. Opleidingsniveau
 
@@ -90,7 +64,7 @@ De minimumleeftijd voor aanstelling bedraagt 18 jaar.
 
 3. Kandidaten die niet voldoen aan de in het eerste of tweede lid gestelde eisen krijgen de gelegenheid om een toelatingstoets af te leggen. Indien deze toets met goed gevolg wordt afgelegd, voldoet de kandidaat aan de eisen met betrekking tot het vooropleidingsniveau.
 
-4. Tenzij het een interne kandidaat betreft, worden er bij de kandidaat kosten ten bedrage van € 50,– in rekening gebracht voor het afleggen van de toelatingstoets.
+4. Tenzij het een interne kandidaat betreft, worden er bij de kandidaat kosten ten bedrage van € 50,– in rekening gebracht voor het afleggen van de toelatingstoets.
 
 5. Bij aanstelling van de kandidaat worden de kosten van de toelatingstoets vergoed op basis van een declaratie van de kandidaat.
 
@@ -270,94 +244,8 @@ De [Regeling aanstellingseisen politie 2002](https://wetten.overheid.nl/jci1.3:c
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 31 januari 2023.
+Deze regeling treedt in werking met ingang van 31 januari 2023.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanstellingseisen politie 2023.
-
-## Bijlage 1
-
-| Competentie | Definitie | Normering (1–5 punten) |
-| --- | --- | --- |
-| Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig. | Minimaal 3 |
-| Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
-| Zelfreflectie | Laat blijken eigen gedrag en standpunten kritisch te evalueren en open te staan voor evaluatie door anderen. Toont te leren van deze evaluaties door wijziging van eigen gedrag of de standpunten. | Minimaal 2 |
-| Samenwerken | Heeft oog voor het groepsbelang, stelt zich collegiaal op en draagt actief bij aan het realiseren van het gemeenschappelijke resultaat. | Minimaal 2 |
-| Sociale Vaardigheid | Beweegt zich tactvol en gemakkelijk in contacten met anderen. Is in staat met zijn optreden emoties en de sociale interactie te beïnvloeden. | Minimaal 2 |
-| Gezag | Maakt een stevige en betrouwbare eerste indruk op anderen, handhaaft deze en handelt met impact. | Minimaal 2 |
-| Initiatief | Signaleert kansen. Handelt ernaar en durft daarbij risico’s te nemen om uiteindelijk een bepaald herkenbaar voordeel voor de organisatie te behalen. Begint liever uit zichzelf dan passief af te wachten. | Minimaal 2 |
-
-| Competentie | Definitie | Normering (1–5 punten) |
-| --- | --- | --- |
-| Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig | Minimaal 3 |
-| Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
-| Leervermogen | Is alert op nieuwe informatie. Maakt zich actief meester van nieuwe kennis en past deze effectief toe voor de eigen functie. Kan op zichzelf en eigen handelen reflecteren | Minimaal 3 |
-| Netwerkvaardigheid | Ontwikkelt en onderhoudt relaties, allianties en coalities zowel binnen als buiten de eigen organisatie en benut deze voor het verkrijgen van informatie, steun en medewerking. | Minimaal 2 |
-| Coachen | Verkent de ontwikkelbehoeften van anderen en stimuleert, motiveert en coacht hen om hun vakbekwaamheid op een hoger niveau te brengen en de ander zo verder te ontwikkelen. | Minimaal 3 |
-| Initiatief | Signaleert kansen. Handelt ernaar en durft daarbij risico’s te nemen om uiteindelijk een bepaald herkenbaar voordeel voor de organisatie te behalen. Begint liever uit zichzelf dan passief af te wachten. | Minimaal 2 |
-| Overtuigingskracht | Toont gedrag dat er op is gericht om anderen te overtuigen van een bepaald standpunt en instemming te krijgen met bepaalde plannen of ideeën. | Minimaal 2 |
-
-| Competentie | Definitie | Normering (1–5 punten) |
-| --- | --- | --- |
-| Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig. | Minimaal 3 |
-| Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
-| Leervermogen | Is alert op nieuwe informatie. Maakt zich actief meester van nieuwe kennis en past deze effectief toe voor de eigen functie. Kan op zichzelf en eigen handelen reflecteren | Minimaal 2 |
-| Creativiteit | Bekijkt vraagstukken vanuit verschillende invalshoeken. Komt tot originele, oorspronkelijke en vernieuwende ideeën of oplossingen voor problemen die met de functie verband houden. | Minimaal 2 |
-| Kwaliteitsgerichtheid | Stelt hoge eisen aan de kwaliteit van het eigen werk. Is voortdurend op zoek naar mogelijkheden om de kwaliteit te verbeteren. | Minimaal 2 |
-| Netwerkvaardigheid | Ontwikkelt en onderhoudt relaties, allianties en coalities zowel binnen als buiten de eigen organisatie en benut deze voor het verkrijgen van informatie, steun en medewerking | Minimaal 3 |
-| Overtuigingskracht | Toont gedrag dat er op is gericht om anderen te overtuigen van een bepaald standpunt en instemming te krijgen met bepaalde plannen of ideeën. | Minimaal 2 |
-
-| Competentie | Definitie | Normering (1-5 punten) |
-| --- | --- | --- |
-| Stressbestendigheid | Blijft effectief presteren onder hoge werk- en tijdsdruk, bij tegenspel en druk door anderen en in onzekere omstandigheden. Relativeert en herstelt zijn/haar motivatie na teleurstelling of tegenslag, toont zich evenwichtig. | Minimaal 3 |
-| Oordeelsvorming | Weegt (nieuwe) gegevens en mogelijke handelwijzen tegen elkaar af in het licht van relevante criteria en komt tot een realistische, verantwoorde en onderbouwde beoordeling. | Minimaal 3 |
-| Zelfreflectie | Laat blijken eigen gedrag en standpunten kritisch te evalueren en open te staan voor evaluatie door anderen. Toont te leren van deze evaluaties door wijziging van eigen gedrag of de standpunten. | Minimaal 3 |
-| Mensgericht leidinggeven | Geeft richting en sturing aan de taakvervulling van individuele medewerkers en groepen vanuit een mensgerichte en betrokken houding. Stelt doelen en verbindt mensen met oog voor ieders kwaliteiten om zo doeltreffende samenwerkings- verbanden tot stand te brengen en een basis te leggen voor een inclusieve en veilige werksfeer. | Minimaal 3 |
-| Sociale vaardigheid | Beweegt zich tactvol en gemakkelijk in contacten met anderen. Is in staat met zijn optreden emoties en de sociale interactie te beïnvloeden. | Minimaal 2 |
-| Verandergerichtheid | Gaat effectief om met onzekerheid en veranderingen in de organisatie, de omgeving en zichzelf. Beschouwt verandering als vanzelfsprekend en noodzakelijk. Zet veranderingen in vanuit een duidelijke visie en persoonlijke overtuiging. | Minimaal 2 |
-| Overtuigingskracht | Toont gedrag dat erop is gericht om anderen te overtuigen van een bepaald standpunt en instemming te krijgen met bepaalde plannen of ideeën. | Minimaal 2 |
-
-## Bijlage 2
-
-Voor het fysiek motorisch onderzoek moet de kandidaat een circuit met hindernissen afleggen waarbij de volgende minimale normtijden gelden:
-
-| **Vrouwen** |   |   |   |   |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Leeftijd** | **17–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
-|   | 3:45 | 3:46 | 3:52 | 4:00 | 4:07 | 4:13 | 4:25 | 4:40 | 4:50 |
-| **Mannen** |   |   |   |   |   |   |   |   |   |
-| **Leeftijd** | **17–24** | **25–29** | **30–34** | **35–39** | **40–44** | **45–49** | **50–54** | **55–59** | **60 en ouder** |
-|   | 3:08 | 3:10 | 3:13 | 3:19 | 3:24 | 3:30 | 3:38 | 3:53 | 4:00 |
-
-Het circuit bevat de volgende onderdelen:
-
-- −. **Het overbruggen van een kast (zowel in lengte- als breedterichting)**
-
-- −. **Het springen over banken**
-
-- −. **Het duwen en trekken van een verzwaarde kar**
-
-- −. **Het verplaatsen van medicine ballen**
-
-Het circuit wordt uitgezet in een binnenruimte met een minimale afmeting van 9 x 18 meter waarbij aan alle kanten een vrije ruimte aanwezig is van minimaal 0,5 meter.
-
-Gesommeerd over het gehele circuit rent en sprint de kandidaat 226,5 meter, duwt deze een kar van 200 kilogram over 18 meter (verdeeld over 3 rondes) en trekt hij/zij deze kar 12 meter (verdeeld over 2 rondes). Verder wordt tillend een gewicht van 5 kilogram over een afstand van ± 3 meter per keer verplaatst (verdeeld over 3 rondes met een frequentie van 6 maal per ronde).
-
-## Bijlage 3
-
-De kandidaat aspirant en de kandidaat vrijwilliger-aspirant worden onderworpen aan een medische keuring, gerelateerd aan de te verrichten taken en werkzaamheden.
-
-### Taken/werkzaamheden
-
-In de uitvoering van het zorgen voor een daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die dit behoeven ([artikel 3 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3)) zijn de volgende elementen te onderscheiden:
-
-De diensten zijn onregelmatig (dag-, avond-, weekend- en nachtdiensten). De diensten worden te voet, per (motor)rijwiel of per auto verricht en moeten onder alle weersomstandigheden doorgang vinden.
-
-Expositie aan gevaarlijke stoffen – ook radioactieve – komt voor. Het dragen van een helm, beschermende kleding en een gasmasker is soms noodzakelijk.
-
-Ten aanzien van de energetische belastbaarheid is voor politieambtenaren die zijn aangesteld voor de uitvoering van de politietaak het fysiek motorisch onderzoek maatgevend. De ergometrie dient om relevante cardiovasculaire pathologie uit te sluiten en de bepaalde VO2max dient als bevestiging bij het fysiek motorisch onderzoek. In de uitzonderlijke situatie dat de keuring plaatsvindt zonder voorafgaand fysiek motorisch onderzoek of bij het niet gehaald hebben van de minimumnorm tijdens de selectie, geldt de minimale norm voor de VO2max. Deze norm is voor leeftijd en geslacht minus 10% in de bijlage gecorrigeerd.
-
-1 Bij overlappende belastbaarheideisen van de diverse functie-eisen belastbaarheideisen moet de zwaarste eis als beoordelingscriterium genomen worden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

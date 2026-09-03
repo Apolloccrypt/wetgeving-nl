@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 11 oktober 2022, nr. 4225136, houdende regels over het verstrekken van subsidies aan belangenorganisaties voor interlandelijk geadopteerden (Subsidieregeling belangenorganisaties interlandelijk geadopteerden)"
+citeertitel: "Subsidieregeling belangenorganisaties interlandelijk geadopteerden"
 identifier: "BWBR0047326"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-20"
-last_updated: "2022-10-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047326"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16524763"
-version_id: "28960902"
-internal_id: "C40994081"
-label_id: "16445984"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047326/2022-10-20/0"
-intitule_bron: "Stcrt.2022-27555"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-11"
-intitule_published: "2022-10-19"
-intitule_in_force: "2022-10-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-27555"
-original_signed_date: "2022-10-11"
-original_published_date: "2022-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-27555"
-entry_into_force_date: "2022-10-20"
-jci_1_3: "jci1.3:c:BWBR0047326&z=2022-10-20&g=2022-10-20"
-jci_1_0: "1.0:c:BWBR0047326&g=2022-10-20"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling belangenorganisaties interlandelijk geadopteerden"
-signed_date: "2022-10-11"
-entry_into_force: "2022-10-20"
+publicatiedatum: 2022-10-20
+laatste_update: 2022-10-20
+status: geldig
+toestand: 2022-10-20
+bron: "https://wetten.overheid.nl/BWBR0047326"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 11 oktober 2022, nr. 4225136, houdende regels over het verstrekken van subsidies aan belangenorganisaties voor interlandelijk geadopteerden (Subsidieregeling belangenorganisaties interlandelijk geadopteerden)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3), en [4, eerste lid van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en de [artikelen 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=2), [5 zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=5), [7 tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=7), [10 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=10), [15 eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=15), en [18 van het Kaderbesluit overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=18);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **belangenorganisatie:** een in Nederland gevestigde rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid, die ten minste een jaar voor de subsidieaanvraag volgens haar statuten als primaire doel heeft het behartigen van de belangen van interlandelijk geadopteerden in Nederland of het ondersteunen van interlandelijk geadopteerden in Nederland of hun biologische familie bij het vinden van elkaar;
+- a. *belangenorganisatie:* een in Nederland gevestigde rechtspersoon zonder winstoogmerk met volledige rechtsbevoegdheid, die ten minste een jaar voor de subsidieaanvraag volgens haar statuten als primaire doel heeft het behartigen van de belangen van interlandelijk geadopteerden in Nederland of het ondersteunen van interlandelijk geadopteerden in Nederland of hun biologische familie bij het vinden van elkaar;
 
-- b. **expertisecentrum:** het expertisecentrum interlandelijke adoptie dat bestuurlijk gepositioneerd is bij de Stichting Fiom, statutair gevestigd te ’s-Hertogenbosch;
+- b. *expertisecentrum:* het expertisecentrum interlandelijke adoptie dat bestuurlijk gepositioneerd is bij de Stichting Fiom, statutair gevestigd te ’s-Hertogenbosch;
 
-- c. **interlandelijk geadopteerden:** personen die uit het buitenland in Nederland zijn geadopteerd;
+- c. *interlandelijk geadopteerden:* personen die uit het buitenland in Nederland zijn geadopteerd;
 
-- d. **land van herkomst:** land waaruit een interlandelijke geadopteerde is geadopteerd in Nederland;
+- d. *land van herkomst:* land waaruit een interlandelijke geadopteerde is geadopteerd in Nederland;
 
-- e. **Minister:** de Minister voor Rechtsbescherming.
+- e. *Minister:* de Minister voor Rechtsbescherming.
 
 ##### Artikel 2. Te subsidiëren activiteiten
 
@@ -96,25 +70,25 @@ Subsidiabele kosten voor zoektochten of rootsreizen als bedoeld in [artikel 2, e
 
 ##### Artikel 4. Subsidiebedrag per belangenorganisatie
 
-1. De subsidie bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047326&artikel=2&z=2022-10-20&g=2022-10-20), bedraagt ten hoogste € 35.000,– per belangenorganisatie per aanvraagtijdvak met dien verstande dat voor de onderdelen a of b ten hoogste ten hoogste € 10.000,– kan worden toegekend en voor onderdelen c of d ten hoogste € 25.000,–.
+1. De subsidie bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047326&artikel=2&z=2022-10-20&g=2022-10-20), bedraagt ten hoogste € 35.000,– per belangenorganisatie per aanvraagtijdvak met dien verstande dat voor de onderdelen a of b ten hoogste ten hoogste € 10.000,– kan worden toegekend en voor onderdelen c of d ten hoogste € 25.000,–.
 
 ##### Artikel 5. Aanvraagtijdvak
 
 Een subsidieaanvraag kan worden ingediend tijdens de volgende aanvraagtijdvakken:
 
-- a. Van 20 oktober 2022 tot en met 31 december 2023;
+- a. Van 20 oktober 2022 tot en met 31 december 2023;
 
-- b. Van 1 januari 2024 tot en met 31 december 2024;
+- b. Van 1 januari 2024 tot en met 31 december 2024;
 
-- c. Van 1 januari 2025 tot en met 31 december 2025;
+- c. Van 1 januari 2025 tot en met 31 december 2025;
 
-- d. Van 1 januari 2026 tot en met 31 december 2026;
+- d. Van 1 januari 2026 tot en met 31 december 2026;
 
-- e. Van 1 januari 2027 tot en met 19 oktober 2027.
+- e. Van 1 januari 2027 tot en met 19 oktober 2027.
 
 ##### Artikel 6. Subsidieplafond
 
-1. Voor subsidieverstrekking op grond van deze regeling is per aanvraagtijdvak € 600.000,– beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is per aanvraagtijdvak € 600.000,– beschikbaar.
 
 2. De Minister verdeelt het beschikbare bedrag op volgorde van binnenkomst van volledige aanvragen.
 
@@ -122,7 +96,7 @@ Een subsidieaanvraag kan worden ingediend tijdens de volgende aanvraagtijdvakken
 
 1. Een aanvraag wordt ingediend door middel van een daartoe door de Minister vastgesteld aanvraagformulier.
 
-2. Indien subsidie wordt aangevraagd voor een activiteit als bedoeld in [artikel 2, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0047326&artikel=2&z=2022-10-20&g=2022-10-20), wordt bij de aanvraag een advies van het expertisecentrum gevoegd en een beschrijving van de aanvrager van de manier waarop dit advies wordt meegenomen in de activiteiten.
+2. Indien subsidie wordt aangevraagd voor een activiteit als bedoeld in [artikel 2, eerste lid, onderdeel c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0047326&artikel=2&z=2022-10-20&g=2022-10-20), wordt bij de aanvraag een advies van het expertisecentrum gevoegd en een beschrijving van de aanvrager van de manier waarop dit advies wordt meegenomen in de activiteiten.
 
 ##### Artikel 8. Verplichtingen
 
@@ -146,7 +120,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze regeling aa
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en vervalt met ingang van 20 oktober 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling voor laatstgenoemde datum zijn verstrekt.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en vervalt met ingang van 20 oktober 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling voor laatstgenoemde datum zijn verstrekt.
 
 ##### Artikel 12. Citeertitel
 

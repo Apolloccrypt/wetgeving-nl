@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000260375, houdende verlening van mandaat, volmacht en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant voor de uitvoering van de Subsidieregeling JTF 2021–2027 (Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027)"
+citeertitel: "Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027"
 identifier: "BWBR0047730"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-30"
-last_updated: "2022-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047730"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16629873"
-version_id: "29163152"
-internal_id: "C41433721"
-label_id: "16548524"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047730/2022-12-30/0"
-intitule_bron: "Stcrt.2022-34288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-22"
-intitule_published: "2022-12-29"
-intitule_in_force: "2022-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34288"
-original_signed_date: "2022-12-22"
-original_published_date: "2022-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34288"
-entry_into_force_date: "2022-12-30"
-jci_1_3: "jci1.3:c:BWBR0047730&z=2022-12-30&g=2022-12-30"
-jci_1_0: "1.0:c:BWBR0047730&g=2022-12-30"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027"
-signed_date: "2022-12-22"
-entry_into_force: "2022-12-30"
+publicatiedatum: 2022-12-30
+laatste_update: 2022-12-30
+status: geldig
+toestand: 2022-12-30
+bron: "https://wetten.overheid.nl/BWBR0047730"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000260375, houdende verlening van mandaat, volmacht en machtiging aan het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant voor de uitvoering van de Subsidieregeling JTF 2021–2027 (Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en [artikel 1.9 van de Subsidieregeling JTF 2021–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&artikel=1.9);
-
-Gezien de schriftelijke instemming van het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** de Minister van de Sociale Zaken en Werkgelegenheid;
+- a. *de minister:* de Minister van de Sociale Zaken en Werkgelegenheid;
 
-- b. **de beheerautoriteit:** de Minister;
+- b. *de beheerautoriteit:* de Minister;
 
-- c. **de intermediaire instanties:** het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en Wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant;
+- c. *de intermediaire instanties:* het dagelijks bestuur van het Samenwerkingsverband Noord-Nederland, het college van burgemeester en Wethouders van de gemeente Rotterdam en gedeputeerde staten van de Provincie Noord-Brabant;
 
-- d. **de JTF-regio:** de in [artikel 1.7 van de Subsidieregeling JTF 2021–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&artikel=1.7) aangewezen regio’s.
+- d. *de JTF-regio:* de in [artikel 1.7 van de Subsidieregeling JTF 2021–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047689&artikel=1.7) aangewezen regio’s.
 
 ##### Artikel 2. Bestuursrechtelijke bevoegdheden
 
@@ -108,10 +80,8 @@ functie betrokken vertegenwoordigingsbevoegde;
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2021.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging voor de uitvoering van de Subsidieregeling JTF 2021–2027.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

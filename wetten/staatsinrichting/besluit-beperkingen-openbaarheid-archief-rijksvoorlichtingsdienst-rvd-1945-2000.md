@@ -1,49 +1,21 @@
 ---
 title: "Besluit Beperkingen Openbaarheid archief Rijksvoorlichtingsdienst (RVD) 1945 – 2000"
 identifier: "BWBR0047745"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-03"
-last_updated: "2023-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047745"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16636773"
-version_id: "29176742"
-internal_id: "C41449161"
-label_id: "16554844"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047745/2023-01-03/0"
-intitule_bron: "Stcrt.2023-73"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-22"
-intitule_published: "2023-01-02"
-intitule_in_force: "2023-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-73"
-original_signed_date: "2022-12-22"
-original_published_date: "2023-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-73"
-entry_into_force_date: "2023-01-03"
-jci_1_3: "jci1.3:c:BWBR0047745&z=2023-01-03&g=2023-01-03"
-jci_1_0: "1.0:c:BWBR0047745&g=2023-01-03"
-citeertitel_status: "redactioneel"
-signed_date: "2022-12-22"
-entry_into_force: "2023-01-03"
+publicatiedatum: 2023-01-03
+laatste_update: 2023-01-03
+status: geldig
+toestand: 2023-01-03
+bron: "https://wetten.overheid.nl/BWBR0047745"
+opgehaald: 2026-09-03
 ---
+
 # Besluit Beperkingen Openbaarheid archief Rijksvoorlichtingsdienst (RVD) 1945 – 2000
-
-Gelet op [artikel 15, eerste lid, onder a, b en c, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 7 juni 2021, met kenmerk 27383943
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Rijksvoorlichtingsdienst (RVD) 1945 – 2000
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer ([artikel 15, lid 1, sub a Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer ([artikel 15, lid 1, sub a Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer(s) | Beperkt openbaar tot 1 januari van het jaar: |
 | --- | --- |
@@ -68,7 +40,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer ([artikel 15, lid
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten ([artikel 15, lid 1, sub b Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten ([artikel 15, lid 1, sub b Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer(s) | Beperkt openbaar tot 1 januari van het jaar: |
 | --- | --- |
@@ -433,7 +405,7 @@ Inventarisnummers 3423 en 3483 betreffen verboden gebied volgens de Wet op de St
 
 ##### Artikel 3
 
-Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden ([artikel 15, lid 1, sub c Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden ([artikel 15, lid 1, sub c Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15)) zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer(s) | Beperkt openbaar tot 1 januari van het jaar: |
 | --- | --- |

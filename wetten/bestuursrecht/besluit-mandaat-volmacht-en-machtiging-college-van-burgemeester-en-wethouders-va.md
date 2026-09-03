@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/22233987, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan het college van burgemeester en wethouders van Rotterdam betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZK- en LNV-subsidies 2021 (Besluit mandaat, volmacht en machtiging college van burgemeester en wethouders van Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK-en LNV-subsidies 2021)"
+citeertitel: "Besluit mandaat, volmacht en machtiging college van burgemeester en wethouders van Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK-en LNV-subsidies 2021"
 identifier: "BWBR0047655"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-21"
-last_updated: "2022-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047655"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16603293"
-version_id: "29118402"
-internal_id: "C41385071"
-label_id: "16521874"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047655/2022-12-21/0"
-intitule_bron: "Stcrt.2022-33980"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-17"
-intitule_published: "2022-12-20"
-intitule_in_force: "2022-12-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33980"
-original_signed_date: "2022-12-17"
-original_published_date: "2022-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-33980"
-entry_into_force_date: "2022-12-21"
-jci_1_3: "jci1.3:c:BWBR0047655&z=2022-12-21&g=2022-12-21"
-jci_1_0: "1.0:c:BWBR0047655&g=2022-12-21"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging college van burgemeester en wethouders van Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK-en LNV-subsidies 2021"
-signed_date: "2022-12-17"
-entry_into_force: "2022-12-21"
+publicatiedatum: 2022-12-21
+laatste_update: 2022-12-21
+status: geldig
+toestand: 2022-12-21
+bron: "https://wetten.overheid.nl/BWBR0047655"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Economische Zaken en Klimaat van 17 december 2022, nr. WJZ/22233987, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan het college van burgemeester en wethouders van Rotterdam betreffende het verstrekken van subsidies ten laste van de Rijkscofinanciering op grond van de Regeling Europese EZK- en LNV-subsidies 2021 (Besluit mandaat, volmacht en machtiging college van burgemeester en wethouders van Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK-en LNV-subsidies 2021)
-
-Gelet op [afdeling 10.1.1. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gezien de schriftelijke instemming van het college van burgemeester en wethouders van Rotterdam;
-
-Besluit:
 
 ##### Artikel 1
 
@@ -81,5 +53,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging college van burgemeester en wethouders van Rotterdam inzake subsidieverstrekking Rijkscofinanciering Regeling Europese EZK-en LNV-subsidies 2021.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

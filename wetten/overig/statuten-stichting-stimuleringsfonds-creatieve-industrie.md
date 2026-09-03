@@ -1,35 +1,16 @@
 ---
 title: "Statuten Stichting Stimuleringsfonds Creatieve Industrie"
 identifier: "BWBR0047849"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-02-06"
-last_updated: "2023-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047849"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16666493"
-version_id: "29246492"
-internal_id: "C41627081"
-label_id: "16584554"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047849/2023-02-06/0"
-intitule_bron: "Stcrt.2023-4110"
-intitule_effect: "wijziging"
-intitule_published: "2023-02-06"
-intitule_in_force: "2023-02-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-4110"
-original_published_date: "2023-02-06"
-original_effect: "wijziging"
-original_url_id: "stcrt-2023-4110"
-entry_into_force_date: "2023-02-06"
-jci_1_3: "jci1.3:c:BWBR0047849&z=2023-02-06&g=2023-02-06"
-jci_1_0: "1.0:c:BWBR0047849&g=2023-02-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-02-06"
+publicatiedatum: 2023-02-06
+laatste_update: 2023-02-06
+status: geldig
+toestand: 2023-02-06
+bron: "https://wetten.overheid.nl/BWBR0047849"
+opgehaald: 2026-09-03
 ---
+
 # Statuten Stichting Stimuleringsfonds Creatieve Industrie
 
 ### Hoofdstuk I
@@ -38,21 +19,21 @@ entry_into_force: "2023-02-06"
 
 In deze statuten hebben de volgende begrippen de daarachter vermelde betekenissen:
 
-- 1. **‘bestuur’:** het bestuur van de stichting;
+- 1. *‘bestuur’:* het bestuur van de stichting;
 
-- 2. **‘Raad van Toezicht’:** de raad van toezicht van de stichting;
+- 2. *‘Raad van Toezicht’:* de raad van toezicht van de stichting;
 
-- 3. **‘schriftelijk’:** bij brief of e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
+- 3. *‘schriftelijk’:* bij brief of e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
 
-- 4. **‘stichting’:** Stichting Stimuleringsfonds Creatieve Industrie;
+- 4. *‘stichting’:* Stichting Stimuleringsfonds Creatieve Industrie;
 
-- 5. **‘Minister’:** de Minister van Onderwijs, Cultuur en Wetenschap.
+- 5. *‘Minister’:* de Minister van Onderwijs, Cultuur en Wetenschap.
 
 ### Hoofdstuk II. Naam, zetel, doel en vermogen
 
 ##### Artikel 2. Naam en zetel
 
-1. De naam van de stichting is: **Stichting Stimuleringsfonds Creatieve Industrie**.
+1. De naam van de stichting is: *Stichting Stimuleringsfonds Creatieve Industrie*.
 
 2. De stichting heeft haar zetel in de gemeente Rotterdam.
 

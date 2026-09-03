@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister voor Natuur en Stikstof van 4 april 2023, nr. WJZ/26743967, houdende regels over het verstrekken van een specifieke uitkering aan provincies ten behoeve van PAS-melders (Regeling provinciale maatregelen PAS-melders)"
+citeertitel: "Regeling provinciale maatregelen PAS-melders"
 identifier: "BWBR0048054"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-05-01"
-last_updated: "2023-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048054"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16722233"
-version_id: "29335952"
-internal_id: "C41828251"
-label_id: "16638834"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048054/2023-05-01/0"
-intitule_bron: "Stcrt.2023-10833"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-04"
-intitule_published: "2023-04-14"
-intitule_in_force: "2023-04-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-10833"
-original_signed_date: "2023-04-04"
-original_published_date: "2023-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-10833"
-entry_into_force_date: "2023-05-01"
-jci_1_3: "jci1.3:c:BWBR0048054&z=2023-05-01&g=2023-05-01"
-jci_1_0: "1.0:c:BWBR0048054&g=2023-05-01"
-citeertitel_status: "officieel"
-short_title: "Regeling provinciale maatregelen PAS-melders"
-signed_date: "2023-04-04"
-entry_into_force: "2023-05-01"
+publicatiedatum: 2023-05-01
+laatste_update: 2023-05-01
+status: geldig
+toestand: 2023-05-01
+bron: "https://wetten.overheid.nl/BWBR0048054"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Natuur en Stikstof van 4 april 2023, nr. WJZ/26743967, houdende regels over het verstrekken van een specifieke uitkering aan provincies ten behoeve van PAS-melders (Regeling provinciale maatregelen PAS-melders)
-
-Gelet op de [artikelen 2a, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
-- **gemeld PAS-project:**
+- *gemeld PAS-project:*
 
-- a. tot de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885): project dat voldoet aan de voorwaarden van [artikel 2.8b van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.8b);
+   - a. tot de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885): project dat voldoet aan de voorwaarden van [artikel 2.8b van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.8b);
 
-- b. na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885): Natura 2000-activiteit die voldoet aan de voorwaarden van [artikel 17a.8 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.8);
+   - b. na de inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885): Natura 2000-activiteit die voldoet aan de voorwaarden van [artikel 17a.8 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.8);
 
-- **minister:** Minister voor Natuur en Stikstof;
+- *minister:* Minister voor Natuur en Stikstof;
 
-- **onafhankelijke taxateur:** taxateur die is ingeschreven in de van toepassing zijnde Kamer van het Nederlands Register Vastgoed Taxateurs.
+- *onafhankelijke taxateur:* taxateur die is ingeschreven in de van toepassing zijnde Kamer van het Nederlands Register Vastgoed Taxateurs.
 
 ##### Artikel 2. (specifieke uitkering)
 
@@ -60,7 +34,7 @@ In deze regeling wordt verstaan onder:
 
 2. Per provincie kan één uitkering worden verstrekt.
 
-3. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn aangegaan in de periode vanaf 4 augustus 2022 tot en met 31 augustus 2023 ten behoeve van maatregelen die uiterlijk 28 februari 2025 zijn afgerond.
+3. De uitkering kan alleen worden verstrekt voor de kosten van verplichtingen die door de provincie zijn aangegaan in de periode vanaf 4 augustus 2022 tot en met 31 augustus 2023 ten behoeve van maatregelen die uiterlijk 28 februari 2025 zijn afgerond.
 
 4. De uitkering wordt niet verstrekt voor:
 
@@ -68,9 +42,9 @@ In deze regeling wordt verstaan onder:
 
 - b. de financiering van omzetbelasting als:
 
-- 1°. de provincie voor compensatie hiervan in aanmerking komt op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817); of
+   - 1°. de provincie voor compensatie hiervan in aanmerking komt op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817); of
 
-- 2°. de provincie in verband met de besteding van de uitkering als ondernemer wordt aangemerkt in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
+   - 2°. de provincie in verband met de besteding van de uitkering als ondernemer wordt aangemerkt in de zin van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
 
 - c. kosten waarvoor al uit anderen hoofde een uitkering of subsidie is of wordt verstrekt.
 
@@ -78,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 Het uitkeringsplafond bedraagt per provincie:
 
-| **Provincie** | **Uitkeringsplafond** |
+| Provincie | Uitkeringsplafond |
 | --- | --- |
 | Drenthe | € 13.870.315,64 |
 | Flevoland | € 15.170.705,76 |
@@ -95,7 +69,7 @@ Het uitkeringsplafond bedraagt per provincie:
 
 ##### Artikel 4. (aanvraag)
 
-1. De uitkering kan worden aangevraagd tot en met 31 augustus 2023, 17:00 uur.
+1. De uitkering kan worden aangevraagd tot en met 31 augustus 2023, 17:00 uur.
 
 2. De aanvraag bevat in ieder geval:
 
@@ -119,13 +93,13 @@ gesteld middel.
 
 2. De beschikking tot verlening van de uitkering vermeldt in elk geval de wijze van verantwoording over de besteding van de uitkering.
 
-3. De minister verleent bij de beschikking tot verlening een voorschot van 100% van het uitkeringsbedrag en betaalt dat voorschot uiterlijk op 31 december 2023.
+3. De minister verleent bij de beschikking tot verlening een voorschot van 100% van het uitkeringsbedrag en betaalt dat voorschot uiterlijk op 31 december 2023.
 
 ##### Artikel 6. (verplichtingen met het oog op een doelmatige besteding)
 
 1. De provincie spant zich in om de middelen te besteden op de meest kostenefficiënte wijze per gemeld PAS-project.
 
-2. De provincie besteedt voor het bieden van een oplossing voor een gemeld PAS-project niet meer middelen dan de waarde van de onderneming waarvoor de melding is gedaan, met een maximum van € 3.500.000, zoals bepaald door een onafhankelijke taxateur.
+2. De provincie besteedt voor het bieden van een oplossing voor een gemeld PAS-project niet meer middelen dan de waarde van de onderneming waarvoor de melding is gedaan, met een maximum van € 3.500.000, zoals bepaald door een onafhankelijke taxateur.
 
 3. De provincie houdt bij de besteding van de middelen rekening met haar in ontwikkeling zijnde programma voor de gebiedsgerichte aanpak voor natuur, inclusief stikstof, water en klimaat.
 
@@ -137,7 +111,7 @@ gesteld middel.
 
 3. De provincie informeert de Minister op verzoek over de voortgang van de maatregelen waarvoor de uitkering is verstrekt.
 
-4. De provincie zorgt ervoor dat de verkregen depositieruimte die zij niet vóór 28 februari 2025 gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048054&artikel=2&z=2023-05-01&g=2023-05-01), bedoelde maatregelen, beschikbaar blijft om te worden opgenomen in het register, bedoeld in [artikel 2.3 van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.3), dan wel, na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), [artikel 17a.4, eerste lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.4).
+4. De provincie zorgt ervoor dat de verkregen depositieruimte die zij niet vóór 28 februari 2025 gebruikt voor de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048054&artikel=2&z=2023-05-01&g=2023-05-01), bedoelde maatregelen, beschikbaar blijft om te worden opgenomen in het register, bedoeld in [artikel 2.3 van de Regeling natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038668&artikel=2.3), dan wel, na inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), [artikel 17a.4, eerste lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.4).
 
 5. De minister kan in de beschikking tot verlening verplichtingen opleggen over de wijze van vastlegging van de gegevens die zijn gebruikt bij het in kaart brengen van de effecten van de maatregelen waarvoor de uitkering is verstrekt.
 
@@ -145,7 +119,7 @@ gesteld middel.
 
 ##### Artikel 8. (vergoeding opbrengst- of restwaarde van met de uitkering gekochte goederen)
 
-1. Voor zover de uitkering door de provincie is aangewend voor de koop van goederen, stelt de provincie de Minister in één keer voor de hele uitkering, uiterlijk 15 juli 2028 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048054&artikel=10&z=2023-05-01&g=2023-05-01), in kennis van de opbrengst- of restwaarde van die goederen.
+1. Voor zover de uitkering door de provincie is aangewend voor de koop van goederen, stelt de provincie de Minister in één keer voor de hele uitkering, uiterlijk 15 juli 2028 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048054&artikel=10&z=2023-05-01&g=2023-05-01), in kennis van de opbrengst- of restwaarde van die goederen.
 
 2. De restwaarde van de betrokken goederen blijkt uit een daarbij door de provincie verstrekt rapport dat is opgesteld door een onafhankelijke taxateur.
 
@@ -169,12 +143,10 @@ gesteld middel.
 
 ##### Artikel 11. (inwerkingtreding en horizonbepaling)
 
-1. Deze regeling treedt in werking met ingang van 1 mei 2023.
+1. Deze regeling treedt in werking met ingang van 1 mei 2023.
 
-2. Deze regeling vervalt met ingang van de eerste dag van het zesde jaar na haar inwerkingtreding, met dien verstande dat zij van toepassing blijft op aanvragen die zijn ingediend voor 31 augustus 2023.
+2. Deze regeling vervalt met ingang van de eerste dag van het zesde jaar na haar inwerkingtreding, met dien verstande dat zij van toepassing blijft op aanvragen die zijn ingediend voor 31 augustus 2023.
 
 ##### Artikel 12. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling provinciale maatregelen PAS-melders.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 november 2022, nr. 2022-0000027551, houdende instelling van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst (Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst)"
+citeertitel: "Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst"
 identifier: "BWBR0047819"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-26"
-last_updated: "2023-01-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047819"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "16659903"
-version_id: "29218782"
-internal_id: "C41514351"
-label_id: "16577814"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047819/2023-01-26/0"
-intitule_bron: "Stcrt.2023-2981"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-18"
-intitule_published: "2023-01-25"
-intitule_in_force: "2023-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-2981"
-original_signed_date: "2022-11-18"
-original_published_date: "2023-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-2981"
-entry_into_force_date: "2023-01-26"
-jci_1_3: "jci1.3:c:BWBR0047819&z=2023-01-26&g=2023-01-26"
-jci_1_0: "1.0:c:BWBR0047819&g=2023-01-26"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst"
-signed_date: "2022-11-18"
-entry_into_force: "2023-01-26"
+publicatiedatum: 2023-01-26
+laatste_update: 2023-01-26
+status: geldig
+toestand: 2023-01-26
+bron: "https://wetten.overheid.nl/BWBR0047819"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 november 2022, nr. 2022-0000027551, houdende instelling van de Interdepartementale Commissie Bedrijfsvoering Rijksdienst (Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst)
-
-Handelende in overeenstemming met het gevoelen van de Ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Onze Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- a. *Onze Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-- b. **de commissie:** de Interdepartementale Commissie Bedrijfsvoering Rijksdienst.
+- b. *de commissie:* de Interdepartementale Commissie Bedrijfsvoering Rijksdienst.
 
-- c. **SGO:** het overleg van Secretarissen-Generaal.
+- c. *SGO:* het overleg van Secretarissen-Generaal.
 
 ##### Artikel 2
 
@@ -123,5 +97,3 @@ Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscoura
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Interdepartementale Commissie Bedrijfsvoering Rijksdienst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

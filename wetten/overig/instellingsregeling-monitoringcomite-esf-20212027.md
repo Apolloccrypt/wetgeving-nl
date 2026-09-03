@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 14 november 2022, 2022-0000226601, tot instelling van het monitoringcomité ESF+ 2021–2027"
+citeertitel: "Instellingsregeling monitoringcomité ESF+ 2021–2027"
 identifier: "BWBR0047500"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-23"
-last_updated: "2022-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047500"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16571643"
-version_id: "29052492"
-internal_id: "C41298761"
-label_id: "16491254"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047500/2022-11-23/0"
-intitule_bron: "Stcrt.2022-31232"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-14"
-intitule_published: "2022-11-22"
-intitule_in_force: "2022-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31232"
-original_signed_date: "2022-11-14"
-original_published_date: "2022-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-31232"
-entry_into_force_date: "2022-11-23"
-jci_1_3: "jci1.3:c:BWBR0047500&z=2022-11-23&g=2022-11-23"
-jci_1_0: "1.0:c:BWBR0047500&g=2022-11-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsregeling monitoringcomité ESF+ 2021–2027"
-signed_date: "2022-11-14"
-entry_into_force: "2022-11-23"
+publicatiedatum: 2022-11-23
+laatste_update: 2022-11-23
+status: geldig
+toestand: 2022-11-23
+bron: "https://wetten.overheid.nl/BWBR0047500"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 14 november 2022, 2022-0000226601, tot instelling van het monitoringcomité ESF+ 2021–2027
-
-Gelet op de artikelen 38 tot en met 40 van de [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **monitoringcomité ESF+ 2021–2027:** monitoringcomité als bedoeld in artikel 38 van de verordening;
+- *monitoringcomité ESF+ 2021–2027:* monitoringcomité als bedoeld in artikel 38 van de verordening;
 
-- **Minister:** Minister voor Armoedebeleid, Participatie en Pensioenen;
+- *Minister:* Minister voor Armoedebeleid, Participatie en Pensioenen;
 
-- **verordening:** [Verordening (EU) 2021/1060](onbekend) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231).
+- *verordening:*
+ Verordening (EU) 2021/1060 van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU 2021, L 231).
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een monitoringcomité ESF+ 2021–2027.
 
-2. Het monitoringcomité ESF+ 2021–2027 heeft de taak om toe te zien op een goede voortgang en uitvoering van het programma ESF+ 2021–2027, zoals nader uitgewerkt in artikel 40 van de verordening, en wordt ingesteld tot en met 30 december 2031.
+2. Het monitoringcomité ESF+ 2021–2027 heeft de taak om toe te zien op een goede voortgang en uitvoering van het programma ESF+ 2021–2027, zoals nader uitgewerkt in artikel 40 van de verordening, en wordt ingesteld tot en met 30 december 2031.
 
 ##### Artikel 3. Samenstelling en benoeming
 
@@ -112,10 +87,8 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt op 31 december 2031.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt op 31 december 2031.
 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling monitoringcomité ESF+ 2021–2027.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

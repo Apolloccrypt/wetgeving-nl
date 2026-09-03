@@ -1,58 +1,31 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 6 december 2022, nr. IENW/BSK-2022/281749, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet vrachtwagenheffing en de Wet implementatie EETS-richtlijn (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing)"
+citeertitel: "Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing"
 identifier: "BWBR0047686"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-04"
-last_updated: "2025-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047686"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16610943"
-version_id: "29132742"
-internal_id: "C41402281"
-label_id: "16529534"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047686/2025-10-04/0"
-intitule_bron: "Stcrt.2022-33399"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-06"
-intitule_published: "2022-12-23"
-intitule_in_force: "2022-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33399"
-original_signed_date: "2022-12-06"
-original_published_date: "2022-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-33399"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047686&z=2025-10-04&g=2025-10-04"
-jci_1_0: "1.0:c:BWBR0047686&g=2025-10-04"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing"
-signed_date: "2022-12-06"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2025-10-04
+status: geldig
+toestand: 2025-10-04
+bron: "https://wetten.overheid.nl/BWBR0047686"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 6 december 2022, nr. IENW/BSK-2022/281749, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan de Dienst Wegverkeer voor de uitvoering van de Wet vrachtwagenheffing en de Wet implementatie EETS-richtlijn (Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de Dienst Wegverkeer van 17 november 2022, kenmerk JBZ-22.0012133;
-
-BESLUIT:
 
 ##### Artikel 1. (begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
-- **Dienst Wegverkeer:** Dienst als bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *Dienst Wegverkeer:* Dienst als bedoeld in [artikel 4a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **secretaris-generaal:** secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat;
+- *secretaris-generaal:* secretaris-generaal van het Ministerie van Infrastructuur en Waterstaat;
 
-- **wet:** [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
+- *wet:*
+ [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082).
 
 ##### Artikel 2. (bestuursrechtelijke bevoegdheden)
 
@@ -100,7 +73,7 @@ De uitoefening van bevoegdheden die bij of krachtens dit besluit zijn verleend, 
 
 - a. de door de Minister gegeven algemene of bijzondere instructies;
 
-- b. de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) en de Circulaire ‘Grensbedragen voor procedures Aanbestedingswet 2012 onder de drempelwaarde’ van het Ministerie van Binnenlandse Zaken Koninkrijkrelaties, 3 augustus 2015, kenmerk 2015-0000428359 en dat indien deze Circulaire voor de start van de aanbesteding wordt gewijzigd, rekening wordt gehouden met de wijziging;
+- b. de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) en de Circulaire ‘Grensbedragen voor procedures Aanbestedingswet 2012 onder de drempelwaarde’ van het Ministerie van Binnenlandse Zaken Koninkrijkrelaties, 3 augustus 2015, kenmerk 2015-0000428359 en dat indien deze Circulaire voor de start van de aanbesteding wordt gewijzigd, rekening wordt gehouden met de wijziging;
 
 - c. de gemaakte afspraken in de door de Minister en de Dienst Wegverkeer op te stellen uitvoeringsovereenkomst, waaronder de toegekende financiële middelen.
 
@@ -168,10 +141,8 @@ Dit bericht is automatisch gegenereerd en bevat daarom geen handtekening.
 
 ##### Artikel 12. (inwerkingtreding)
 
-Dit besluit treedt in werking met ingang van 1 januari 2023. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
+Dit besluit treedt in werking met ingang van 1 januari 2023. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2022, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2023.
 
 ##### Artikel 13. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging RDW voor de uitvoering van de Wet vrachtwagenheffing.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

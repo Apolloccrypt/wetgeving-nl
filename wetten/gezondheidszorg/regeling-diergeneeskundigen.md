@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0035238"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ / 14101632, houdende regels voor diergeneeskundigen (Regeling diergeneeskundigen)

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-31
 toestand: 1966-05-21
 bron: "https://wetten.overheid.nl/BWBV0004357"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Chili inzake luchtdiensten

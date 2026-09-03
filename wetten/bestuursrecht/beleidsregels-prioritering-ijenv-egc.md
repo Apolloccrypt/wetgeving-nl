@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de Inspecteur-generaal van de Inspectie van Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 7 juli 2022, houdende de vaststelling van beleidsregel met betrekking tot prioritering EGC (Beleidsregels prioritering IJenV EGC)"
+citeertitel: "Beleidsregels prioritering IJenV EGC"
 identifier: "BWBR0047822"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-01-28"
-last_updated: "2023-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047822"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "16660603"
-version_id: "29220122"
-internal_id: "C41515801"
-label_id: "16578564"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047822/2023-01-28/0"
-intitule_bron: "Stcrt.2023-1507"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-07-07"
-intitule_published: "2023-01-27"
-intitule_in_force: "2023-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-1507"
-original_signed_date: "2022-07-07"
-original_published_date: "2023-01-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-1507"
-entry_into_force_date: "2023-01-28"
-jci_1_3: "jci1.3:c:BWBR0047822&z=2023-01-28&g=2023-01-28"
-jci_1_0: "1.0:c:BWBR0047822&g=2023-01-28"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels prioritering IJenV EGC"
-signed_date: "2022-07-07"
-entry_into_force: "2023-01-28"
+publicatiedatum: 2023-01-28
+laatste_update: 2023-01-28
+status: geldig
+toestand: 2023-01-28
+bron: "https://wetten.overheid.nl/BWBR0047822"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Inspecteur-generaal van de Inspectie van Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 7 juli 2022, houdende de vaststelling van beleidsregel met betrekking tot prioritering EGC (Beleidsregels prioritering IJenV EGC)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 8, eerste lid van de Wet Experiment Gesloten Coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8), [artikel 6 van het Besluit inhoudende aanwijzing van toezichthouders naleving Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6)
@@ -66,6 +44,10 @@ De Inspectie JenV beziet bij de signalen en handhavingsverzoeken die binnenkomen
 
 In haar prioriteringsbeleid hanteert de Inspectie twee criteria op basis waarvan zij handhavingsverzoeken en signalen over mogelijke overtredingen beoordeelt:
 
+- 1. Wat is ernst en de omvang van de overtreding?
+
+- 2. Is een optreden van de Inspectie doelmatig en doeltreffend?
+
 Aan de hand van deze twee criteria bepaalt de Inspectie haar prioriteiten.
 
 Hieronder een nadere toelichting van de hierboven gestelde prioriteiten:
@@ -87,5 +69,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregels prioritering IJenV EGC
 ### 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst.
-
-Deze beleidsregel wordt in de Staatscourant geplaatst.

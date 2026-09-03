@@ -1,61 +1,35 @@
 ---
 title: "Subtaak- en ondermandaatbesluit Human Resources & Bedrijfsvoering (Kerndepartement) 2022"
 identifier: "BWBR0047424"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-04"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047424"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16553173"
-version_id: "29015802"
-internal_id: "C41073501"
-label_id: "16474214"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047424/2022-11-04/0"
-intitule_bron: "Stcrt.2022-29250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-30"
-intitule_published: "2022-11-03"
-intitule_in_force: "2022-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-29250"
-original_signed_date: "2022-09-30"
-original_published_date: "2022-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-29250"
-entry_into_force_date: "2022-11-04"
-jci_1_3: "jci1.3:c:BWBR0047424&z=2022-11-04&g=2022-11-04"
-jci_1_0: "1.0:c:BWBR0047424&g=2022-11-04"
-citeertitel_status: "officieel"
-signed_date: "2022-09-30"
-entry_into_force: "2022-11-04"
+publicatiedatum: 2022-11-04
+laatste_update: 2022-11-04
+status: geldig
+toestand: 2022-11-04
+bron: "https://wetten.overheid.nl/BWBR0047424"
+opgehaald: 2026-09-03
 ---
+
 # Subtaak- en ondermandaatbesluit Human Resources & Bedrijfsvoering (Kerndepartement) 2022
-
-Gelet op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) en op [artikel 3 van het Ondermandaat-, volmacht- en machtigingsbesluit SG Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046552&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 1. In dit besluit wordt verstaan onder:
 
-- a. **bewindspersoon:** Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
+- a. *bewindspersoon:* Minister van Defensie of Staatssecretaris van Defensie, afhankelijk van wie het aangaat;
 
-- b. **mandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- b. *mandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- c. **volmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
+- c. *volmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten;
 
-- d. **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
+- d. *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
 2. Voor de toepassing van dit besluit wordt begrepen onder:
 
-- a. **Kerndepartement:** de Bestuursstaf;
+- a. *Kerndepartement:* de Bestuursstaf;
 
-- b. **Directie Human Resources & Bedrijfsvoering (HR&BV):** de directie HR&BV die zich richt op de ondersteuning van het Kerndepartement.
+- b. *Directie Human Resources & Bedrijfsvoering (HR&BV):* de directie HR&BV die zich richt op de ondersteuning van het Kerndepartement.
 
 ##### Artikel 2. Organisatie van de Directie Human Resources & Bedrijfsvoering
 
@@ -73,7 +47,7 @@ Besluit:
 
 - f. Afdeling Advies, Informatiemanagement en Projecten.
 
-2. Het organogram van de Directie HR&BV is opgenomen in de bijlage bij dit besluit.
+2. Het organogram van de Directie HR&BV is opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0047424) bij dit besluit.
 
 ##### Artikel 3. Bureau Beveiliging coördinatie/Eenheid bewaken en beveiligen
 
@@ -171,22 +145,16 @@ Aan de plaatsvervangend directeur HR&BV wordt bij afwezigheid van de Directeur H
 
 Een document dat krachtens mandaat, volmacht of machtiging wordt ondertekend bevat aan het slot de volgende formule:
 
-DE **<< BEWINDSPERSOON>>** VAN DEFENSIE
+DE *<< BEWINDSPERSOON>>* VAN DEFENSIE
 
 voor deze,
 
-**<< functie, handtekening en naam van de ondertekenaar >>**
+*<< functie, handtekening en naam van de ondertekenaar >>*
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 januari 2022.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit Human Resources & Bedrijfsvoering (Kerndepartement) 2022.
-
-## Bijlage
-
-Niet opgenomen.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

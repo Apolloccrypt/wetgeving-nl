@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0035059"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 april 2014, nr. 540459 inzake de toelating tot het hoger onderwijs

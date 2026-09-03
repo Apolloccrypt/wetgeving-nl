@@ -1,43 +1,17 @@
 ---
 title: "Reglement gegevensbeheer Kansspelautoriteit"
 identifier: "BWBR0047835"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-02-02"
-last_updated: "2023-02-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047835"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16663173"
-version_id: "29224632"
-internal_id: "C41521781"
-label_id: "16581254"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047835/2023-02-02/0"
-intitule_bron: "Stcrt.2023-3819"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-01-24"
-intitule_published: "2023-02-01"
-intitule_in_force: "2023-02-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-3819"
-original_signed_date: "2023-01-24"
-original_published_date: "2023-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-3819"
-entry_into_force_date: "2023-02-02"
-jci_1_3: "jci1.3:c:BWBR0047835&z=2023-02-02&g=2023-02-02"
-jci_1_0: "1.0:c:BWBR0047835&g=2023-02-02"
-citeertitel_status: "officieel"
-signed_date: "2023-01-24"
-entry_into_force: "2023-02-02"
+publicatiedatum: 2023-02-02
+laatste_update: 2023-02-02
+status: geldig
+toestand: 2023-02-02
+bron: "https://wetten.overheid.nl/BWBR0047835"
+opgehaald: 2026-09-03
 ---
+
 # Reglement gegevensbeheer Kansspelautoriteit
-
-gelet op [artikel 33g van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33g);
-
-besluit vast te stellen:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,25 +19,27 @@ besluit vast te stellen:
 
 In dit reglement wordt verstaan onder:
 
-- a. **AVG:** Algemene verordening gegevensbescherming;
+- a. *AVG:* Algemene verordening gegevensbescherming;
 
-- b. **UAVG:** [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
+- b. *UAVG:*
+ [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
 
-- c. **Wok:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- c. *Wok:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- d. **persoonsgegevens:** alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon als bedoeld in artikel 4, sub 1, van de AVG;
+- d. *persoonsgegevens:* alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon als bedoeld in artikel 4, sub 1, van de AVG;
 
-- e. **gegevens:** alle gegevens inclusief persoonsgegevens;
+- e. *gegevens:* alle gegevens inclusief persoonsgegevens;
 
-- f. **strafrechtelijke gegevens:** persoonsgegevens of gegevens over een rechtspersoon, van strafrechtelijke aard;
+- f. *strafrechtelijke gegevens:* persoonsgegevens of gegevens over een rechtspersoon, van strafrechtelijke aard;
 
-- g. **burgerservicenummer:** het nummer bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- g. *burgerservicenummer:* het nummer bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- h. **raad van bestuur:** de raad van bestuur van de Kansspelautoriteit, als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- h. *raad van bestuur:* de raad van bestuur van de Kansspelautoriteit, als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- i. **verwerkingsverantwoordelijke:** de raad van bestuur;
+- i. *verwerkingsverantwoordelijke:* de raad van bestuur;
 
-- j. **Autoriteit Persoonsgegevens:** de toezichthoudende autoriteit als bedoeld in artikel 51, eerste lid, van de AVG.
+- j. *Autoriteit Persoonsgegevens:* de toezichthoudende autoriteit als bedoeld in artikel 51, eerste lid, van de AVG.
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -185,7 +161,7 @@ Dit reglement wordt met de toelichting in de Staatscourant geplaatst en treedt i
 
 ##### Artikel 7.2. Intrekking
 
-Het Reglement bescherming persoonsgegevens Kansspelautoriteit, bekendgemaakt in de Staatscourant 2014 nr. 21460 van 29 juli 2014, wordt ingetrokken.
+Het Reglement bescherming persoonsgegevens Kansspelautoriteit, bekendgemaakt in de Staatscourant 2014 nr. 21460 van 29 juli 2014, wordt ingetrokken.
 
 ##### Artikel 7.3. Citeertitel
 

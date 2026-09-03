@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken 25 november 2022 nr. 4302072, houdende instelling van de Ministeriële Commissie Crisisbeheersing"
+citeertitel: "Instellingsbesluit Ministeriële Commissie Crisisbeheersing 2022"
 identifier: "BWBR0047534"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-11-30"
-last_updated: "2022-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047534"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16578263"
-version_id: "29068142"
-internal_id: "C41319851"
-label_id: "16497894"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047534/2022-11-30/0"
-intitule_bron: "Stcrt.2022-32675"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-25"
-intitule_published: "2022-11-29"
-intitule_in_force: "2022-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-32675"
-original_signed_date: "2022-11-25"
-original_published_date: "2022-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-32675"
-entry_into_force_date: "2022-11-30"
-jci_1_3: "jci1.3:c:BWBR0047534&z=2022-11-30&g=2022-11-30"
-jci_1_0: "1.0:c:BWBR0047534&g=2022-11-30"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Ministeriële Commissie Crisisbeheersing 2022"
-signed_date: "2022-11-25"
-entry_into_force: "2022-11-30"
+publicatiedatum: 2022-11-30
+laatste_update: 2022-11-30
+status: geldig
+toestand: 2022-11-30
+bron: "https://wetten.overheid.nl/BWBR0047534"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken 25 november 2022 nr. 4302072, houdende instelling van de Ministeriële Commissie Crisisbeheersing
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 25, eerste lid, van het reglement van orde voor de ministerraad](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&artikel=25),
-
-Besluit:
 
 ##### Artikel 1
 
@@ -93,5 +65,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ministeriële Commissie Crisisbeheersing 2022.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

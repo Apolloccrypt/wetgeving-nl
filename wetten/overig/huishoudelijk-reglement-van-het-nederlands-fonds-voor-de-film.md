@@ -1,62 +1,41 @@
 ---
 title: "Huishoudelijk reglement van het Nederlands Fonds voor de Film"
 identifier: "BWBR0047487"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-11-19"
-last_updated: "2022-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047487"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16568083"
-version_id: "29045782"
-internal_id: "C41165291"
-label_id: "16488034"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047487/2022-11-19/0"
-intitule_bron: "Stcrt.2022-31005"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-11-18"
-intitule_in_force: "2022-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31005"
-original_published_date: "2022-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-31005"
-entry_into_force_date: "2022-11-19"
-jci_1_3: "jci1.3:c:BWBR0047487&z=2022-11-19&g=2022-11-19"
-jci_1_0: "1.0:c:BWBR0047487&g=2022-11-19"
-citeertitel_status: "officieel"
-entry_into_force: "2022-11-19"
+publicatiedatum: 2022-11-19
+laatste_update: 2022-11-19
+status: geldig
+toestand: 2022-11-19
+bron: "https://wetten.overheid.nl/BWBR0047487"
+opgehaald: 2026-09-03
 ---
-# Huishoudelijk reglement van het Nederlands Fonds voor de Film
 
-Ter uitwerking van de statuten d.d. 22 september 2022 van de Stichting Nederlands Fonds voor de Film (hierna te noemen: ‘het Fonds’) geldt het volgende.
+# Huishoudelijk reglement van het Nederlands Fonds voor de Film
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a. **Beleidskader:** het beleidskader voor de Stichting Nederlands Fonds voor de Film, vastgesteld door de Minister of Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
+- a. *Beleidskader:* het beleidskader voor de Stichting Nederlands Fonds voor de Film, vastgesteld door de Minister of Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-- b. **Bestuur:** het bestuur als bedoeld in [artikel 1 sub a van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025&artikel=1);
+- b. *Bestuur:* het bestuur als bedoeld in [artikel 1 sub a van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025&artikel=1);
 
-- c. **Bezwaarcommissie:** een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
+- c. *Bezwaarcommissie:* een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
 
-- d. **Fonds:** Stichting Nederlands Fonds voor de Film;
+- d. *Fonds:* Stichting Nederlands Fonds voor de Film;
 
-- e. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- e. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- f. **Personeelsvertegenwoordiging:** medezeggenschapsorgaan dat werknemers vertegenwoordigt in het overleg met het Bestuur;
+- f. *Personeelsvertegenwoordiging:* medezeggenschapsorgaan dat werknemers vertegenwoordigt in het overleg met het Bestuur;
 
-- g. **Raad van toezicht:** de raad van toezicht als bedoeld in [artikel 1 sub c van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025&artikel=1);
+- g. *Raad van toezicht:* de raad van toezicht als bedoeld in [artikel 1 sub c van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025&artikel=1);
 
-- h. **Reglement:** het Huishoudelijk reglement van het Fonds;
+- h. *Reglement:* het Huishoudelijk reglement van het Fonds;
 
-- i. **Statuten:** de [statuten van de Stichting Nederlands Fonds voor de Film](https://wetten.overheid.nl/jci1.3:c:BWBR0037025) zoals die luiden per 14 september 2015;
+- i. *Statuten:* de [statuten van de Stichting Nederlands Fonds voor de Film](https://wetten.overheid.nl/jci1.3:c:BWBR0037025) zoals die luiden per 14 september 2015;
 
-- j. **Wet:** De [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993.
+- j. *Wet:* De [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904) van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993.
 
 ##### Artikel 2. Inrichting van de organisatie
 
@@ -130,15 +109,15 @@ Het Fonds kent:
 
 4. Hoofden en (project)managers hebben in ieder geval tot taak:
 
-- –. In hun specifieke aandachtsgebied contact met het veld en met samenwerkingspartners te onderhouden;
+- – In hun specifieke aandachtsgebied contact met het veld en met samenwerkingspartners te onderhouden;
 
-- –. het beheer en behoud van de consistentie in de uitvoering van de deelreglementen met betrekking tot hun specifieke subsidieprogramma;
+- – het beheer en behoud van de consistentie in de uitvoering van de deelreglementen met betrekking tot hun specifieke subsidieprogramma;
 
-- –. toe te zien op een zorgvuldige analyse waarin de subsidieaanvraag wordt getoetst aan de subsidiereglementen en Beleidskaders van het Fonds;
+- – toe te zien op een zorgvuldige analyse waarin de subsidieaanvraag wordt getoetst aan de subsidiereglementen en Beleidskaders van het Fonds;
 
-- –. het beheer van de subsidierelaties;
+- – het beheer van de subsidierelaties;
 
-- –. het Bestuur te adviseren binnen hun specifieke aandachtsgebied en over het algehele beleid van het Fonds.
+- – het Bestuur te adviseren binnen hun specifieke aandachtsgebied en over het algehele beleid van het Fonds.
 
 5. De afdelingen subsidiebureau en Productie zijn belast met het proces van subsidieverlening, dragen zorg voor een zorgvuldige afhandeling van ingediende subsidieaanvragen en adviseren het Bestuur over de productionele, financiële en zakelijke kwaliteit van subsidieaanvragen.
 
@@ -154,13 +133,13 @@ Het Fonds kent:
 
 3. Filmconsulenten hebben in ieder geval tot taak:
 
-- –. subsidieaanvragen te voorzien van een advies aan het Bestuur waarin de aanvraag wordt getoetst aan de subsidiereglementen en het Beleidskader van het Fonds;
+- – subsidieaanvragen te voorzien van een advies aan het Bestuur waarin de aanvraag wordt getoetst aan de subsidiereglementen en het Beleidskader van het Fonds;
 
-- –. contact te onderhouden met de aanvragers;
+- – contact te onderhouden met de aanvragers;
 
-- –. de voortgang van geselecteerde filmplannen te volgen;
+- – de voortgang van geselecteerde filmplannen te volgen;
 
-- –. te adviseren over beleidsontwikkelingen binnen het specifieke aandachtsgebied.
+- – te adviseren over beleidsontwikkelingen binnen het specifieke aandachtsgebied.
 
 4. Het Bestuur kan nadere regels stellen inzake de taak en werkwijze van filmconsulenten.
 
@@ -188,7 +167,7 @@ Het Fonds kent:
 
 2. Nevenfuncties kunnen slechts worden aanvaard na schriftelijke toestemming van het Bestuur.
 
-3. Werknemers onthouden zich van het in verband met de vervulling van hun functie bedingen of aannemen van geschenken, beloningen, tegemoetkomingen, provisies of vergoedingen in welke vorm dan ook. Het voorgaande geldt niet voor zover het gebruikelijke relatiegeschenken van geringe waarde (tot € 25,–) betreft, en de ontvangst daarvan bij het Bestuur wordt gemeld.
+3. Werknemers onthouden zich van het in verband met de vervulling van hun functie bedingen of aannemen van geschenken, beloningen, tegemoetkomingen, provisies of vergoedingen in welke vorm dan ook. Het voorgaande geldt niet voor zover het gebruikelijke relatiegeschenken van geringe waarde (tot € 25,–) betreft, en de ontvangst daarvan bij het Bestuur wordt gemeld.
 
 4. Een werknemer van het Fonds is zowel tijdens als na beëindiging van de arbeidsovereenkomst verplicht tot geheimhouding omtrent alle bedrijfsaangelegenheden die hem ter kennis zijn gekomen.
 
@@ -202,7 +181,7 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 8. Werknemers van het Fonds zijn verplicht aan derden geen mededelingen te doen over de inhoud van de beraadslaging met betrekking tot ingediende subsidieaanvragen, over de (uitkomsten van) de behandeling van subsidieaanvragen en over de inhoud van adviezen. Al hetgeen in verband hiermee besproken en/of vastgelegd wordt is strikt vertrouwelijk en mag slechts ter kennis van derden worden gebracht na schriftelijke toestemming van het Bestuur.
 
-9. Werknemers van het Fonds leggen in overeenstemming met de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) bij indiensttreding een door het Fonds vastgestelde eed / verklaring omtrent integriteit af.
+9. Werknemers van het Fonds leggen in overeenstemming met de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) bij indiensttreding een door het Fonds vastgestelde eed / verklaring omtrent integriteit af.
 
 10. Het Fonds onderschrijft de Gedragscode Cultuurfondsen.
 
@@ -216,11 +195,11 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 4. Het besluit tot toekenning of afwijzing van een subsidieaanvraag omvat in ieder geval:
 
-- –. feitelijke informatie over de aanvraag;
+- – feitelijke informatie over de aanvraag;
 
-- –. indien de subsidieaanvraag is voorgelegd voor advies, de namen van diegenen die advies hebben uitgebracht en hun gemotiveerde overwegingen;
+- – indien de subsidieaanvraag is voorgelegd voor advies, de namen van diegenen die advies hebben uitgebracht en hun gemotiveerde overwegingen;
 
-- –. de gemotiveerde overwegingen van het Bestuur.
+- – de gemotiveerde overwegingen van het Bestuur.
 
 5. Een overzicht van de gehonoreerde subsidieaanvragen wordt geplaatst op de website van het Fonds.
 
@@ -248,10 +227,10 @@ medewerker een middellijk of onmiddellijk eigen belang heeft of kan hebben doet 
 
 1. Bij onverenigbaarheid of strijd van enige bepaling van dit Reglement of uiting daarvan met een bepaling uit de [Statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0037025), zullen de Statuten prevaleren.
 
-2. Per 1 juli 2022 zijn wijzigingen in het Reglement vastgesteld door het Bestuur met goedkeuring van de Raad van Toezicht op 1 juli 2022.
+2. Per 1 juli 2022 zijn wijzigingen in het Reglement vastgesteld door het Bestuur met goedkeuring van de Raad van Toezicht op 1 juli 2022.
 
 3. Dit Reglement vervangt het vorige [Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044007), en treedt in werking op de dag na publicatie ervan in de Staatscourant.
 
 4. Dit Reglement wordt aangehaald als: Huishoudelijk reglement van het Nederlands Fonds voor de Film.
 
-5. Dit Reglement wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Nederlands Fonds voor de Film ([www.filmfonds.nl](onbekend)).
+5. Dit Reglement wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Nederlands Fonds voor de Film (www.filmfonds.nl).

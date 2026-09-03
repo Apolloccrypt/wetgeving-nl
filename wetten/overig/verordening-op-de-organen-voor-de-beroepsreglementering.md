@@ -1,40 +1,17 @@
 ---
 title: "Verordening op de organen voor de Beroepsreglementering"
 identifier: "BWBR0047744"
-country: "nl"
-rank: "pbo"
-publication_date: "2023-06-21"
-last_updated: "2023-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047744"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "16636423"
-version_id: "29176612"
-internal_id: "C41448671"
-label_id: "16554734"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047744/2023-06-21/0"
-intitule_bron: "Stcrt.2022-34519"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-12-22"
-intitule_in_force: "2022-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34519"
-original_published_date: "2022-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34519"
-entry_into_force_date: "2023-05-01"
-jci_1_3: "jci1.3:c:BWBR0047744&z=2023-06-21&g=2023-06-21"
-jci_1_0: "1.0:c:BWBR0047744&g=2023-06-21"
-citeertitel_status: "officieel"
-entry_into_force: "2023-05-01"
+publicatiedatum: 2023-05-01
+laatste_update: 2023-06-21
+status: geldig
+toestand: 2023-06-21
+bron: "https://wetten.overheid.nl/BWBR0047744"
+opgehaald: 2026-09-03
 ---
+
 # Verordening op de organen voor de Beroepsreglementering
-
-Gelet op [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -42,27 +19,27 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder:
 
-- –. **aan assurance verwante opdracht:** aan assurance verwante opdracht als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
+- – *aan assurance verwante opdracht:* aan assurance verwante opdracht als bedoeld in [artikel 1 van de Verordening op de ledengroepen](https://wetten.overheid.nl/jci1.3:c:BWBR0033813&artikel=1);
 
-- –. **accountant:** accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
+- – *accountant:* accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
 
-- –. **assurance opdracht:** assurance-opdracht als bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
+- – *assurance opdracht:* assurance-opdracht als bedoeld in [artikel 1 van de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=1);
 
-- –. **beroepsorganisatie:** Nederlandse beroepsorganisatie van accountants als bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
+- – *beroepsorganisatie:* Nederlandse beroepsorganisatie van accountants als bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=2);
 
-- –. **beroepsreglementeringsproces:** het regelgevend proces voor het opstellen van gedrags- en beroepsregels van de beroepsorganisatie, handreikingen en alerts van de beroepsorganisatie en interpretaties van gedrags- en beroepsregels.
+- – *beroepsreglementeringsproces:* het regelgevend proces voor het opstellen van gedrags- en beroepsregels van de beroepsorganisatie, handreikingen en alerts van de beroepsorganisatie en interpretaties van gedrags- en beroepsregels.
 
-- –. **bestuur:** bestuur van de beroepsorganisatie;
+- – *bestuur:* bestuur van de beroepsorganisatie;
 
-- –. **collegelid of collegeleden:** lid of leden van het College;
+- – *collegelid of collegeleden:* lid of leden van het College;
 
-- –. **IAASB:** International Auditing and Assurance Standards Board;
+- – *IAASB:* International Auditing and Assurance Standards Board;
 
-- –. **IESBA:** International Ethics Standards Boards for Accountants;
+- – *IESBA:* International Ethics Standards Boards for Accountants;
 
-- –. **lid of leden:** het lid of de leden van het Belanghebbendenorgaan;
+- – *lid of leden:* het lid of de leden van het Belanghebbendenorgaan;
 
-- –. **subcommissielid of subcommissieleden:** het lid of de leden van een subcommissie.
+- – *subcommissielid of subcommissieleden:* het lid of de leden van een subcommissie.
 
 ### Hoofdstuk 2. Het belanghebbendenorgaan beroepsreglementering
 
@@ -210,7 +187,7 @@ Het lidmaatschap van het Belanghebbendenorgaan eindigt:
 
 9. De expertise van de niet-accountantsleden moet complementair zijn aan de competenties van de accountants en een bijdrage kunnen leveren aan de goede beroepsuitoefening door accountants,
 
-10. Door vernummering vervallen.
+10. *Door vernummering vervallen.*
 
 11. In de uitoefening van zijn taken en die van de subcommissies wordt het College bijgestaan door een staf. De staf legt verantwoording af aan de voorzitter van het college en wordt middels een interne service level agreement door de beroepsorganisatie aan het College ter beschikking gesteld.
 
@@ -332,11 +309,11 @@ Het College voert zijn werkzaamheden uit in een door hem ingericht eerlijk en tr
 
 ##### Artikel 18
 
-Jaarlijks voor 1 april brengt het College een verslag uit omtrent de uitgevoerde werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
+Jaarlijks voor 1 april brengt het College een verslag uit omtrent de uitgevoerde werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
 
 ##### Artikel 19
 
-Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent de werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
+Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent de werkzaamheden in het afgelopen kalenderjaar en maakt dit openbaar.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -356,6 +333,6 @@ Jaarlijks voor 1 april brengt het Belanghebbendenorgaan een verslag uit omtrent 
 
 ##### Artikel 21
 
-1. Deze verordening treedt in werking op 1 mei 2023.
+1. Deze verordening treedt in werking op 1 mei 2023.
 
 2. Deze verordening wordt aangehaald als: Verordening op de organen voor de Beroepsreglementering.

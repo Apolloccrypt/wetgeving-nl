@@ -8,7 +8,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0053063"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Besluit vaststelling selectielijst Autoriteit Persoonsgegevens vanaf 1 januari 2019

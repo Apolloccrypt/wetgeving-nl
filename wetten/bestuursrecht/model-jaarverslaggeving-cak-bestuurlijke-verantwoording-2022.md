@@ -1,38 +1,16 @@
 ---
 title: "Model jaarverslaggeving CAK bestuurlijke verantwoording 2022"
 identifier: "BWBR0048001"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-03-28"
-last_updated: "2023-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048001"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16703713"
-version_id: "29302102"
-internal_id: "C41741391"
-label_id: "16621144"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048001/2023-03-28/0"
-intitule_bron: "Stcrt.2023-8977"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-07"
-intitule_published: "2023-03-27"
-intitule_in_force: "2023-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-8977"
-original_signed_date: "2023-03-07"
-original_published_date: "2023-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-8977"
-entry_into_force_date: "2023-03-28"
-jci_1_3: "jci1.3:c:BWBR0048001&z=2023-03-28&g=2023-03-28"
-jci_1_0: "1.0:c:BWBR0048001&g=2023-03-28"
-citeertitel_status: "redactioneel"
-signed_date: "2023-03-07"
-entry_into_force: "2023-03-28"
+publicatiedatum: 2023-03-28
+laatste_update: 2023-03-28
+status: geldig
+toestand: 2023-03-28
+bron: "https://wetten.overheid.nl/BWBR0048001"
+opgehaald: 2026-09-03
 ---
+
 # Model jaarverslaggeving CAK bestuurlijke verantwoording 2022
 
 ### 1. Algemeen
@@ -45,29 +23,37 @@ Het CAK dient zich over het jaar 2022 te verantwoorden over de uitvoering van de
 
 Dit hoofdstuk beschrijft de verantwoordingsplicht van het CAK over de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) en de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (Wmo), hierna samen benoemd als de ‘wettelijke taken’. Het CAK is belast met het uitvoeren van publiekrechtelijke werkzaamheden. De wettelijke taken bestaan uit 4 specifieke taken en regelingen. Dit betreft als volgt:
 
-**Doorlopende taken en regelingen:**
+*Doorlopende taken en regelingen:*
 
-De voormalige [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ), die per 1 januari 2015 is ingetrokken en verbonden is aan het Algemene Fonds Bijzondere Ziektekosten (AFBZ) die per 31 december 2022 door het Zorginstituut wordt afgewikkeld, betrof voor het CAK de uitvoering van de eigenbijdrageregelingen AWBZ-Zorg met Verblijf (ZmV), AWBZ-Zorg zonder Verblijf (ZzV) alsmede de financieringstaak voor AWBZ-zorginstellingen. Conform de overgangsbepalingen in de [Wlz in artikel 11.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.8) heeft het CAK haar eindverslag over haar uitvoering van de AWBZ uitgebracht als integraal deel van haar bestuurlijke verantwoording 2020. De ontvangsten of eventuele correcties op nog resterende balansposities op 31 december 2020, zoals resterende openstaande vorderingen van de eigenbijdrageregelingen ZmV en ZzV, worden met ingang van 2021 ten gunste of ten laste van het Flz gebracht2Zie hiervoor artikel 11.2.12 van de Wlz.. Ook geldt hierbij het reguliere proces volgens het incassoprotocol van het CAK. De afloop van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) kan worden verantwoord via de geldstroom van [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), wel dienen fouten en onzekerheden die worden geconstateerd apart te worden benoemd in de verantwoording.
+- 1. Financiering van de Wlz-erkende instellingen;
 
-Het CAK heeft als zelfstandig bestuursorgaan te maken met wet- en regelgeving en volgt zover van toepassing de Code Goed Bestuur Publieke Dienstverleners van de Handvestgroep Publiek Verantwoorden van november 20153Zie hiervoor [www.publiekverantwoorden.nl](onbekend).. De [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) (ZBO’s) maken hier onderdeel van uit en zijn van toepassing op het CAK. Nadere afspraken tussen het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport (het Ministerie van VWS) over de samenwerking en afstemming op het gebied van sturing, verantwoording en toezicht liggen vast in het ‘Governance arrangement tussen het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport’ van 14 juni 2022.
+- 2. Eigenbijdrageregeling [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-In hoofdstuk 2 is beschreven welke verantwoordingsdocumenten het CAK over het jaar 2022 moet aanleveren voor de verantwoording over de uitvoering van de wettelijke taken bij het Ministerie van VWS, de Nederlandse Zorgautoriteit (NZa) en Zorginstituut Nederland (Zorginstituut).
+- 3. Eigenbijdrageregeling [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
+
+- 4. Afdracht interest geldmiddelen Fonds langdurige zorg (Flz) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)1Deze taak vloeit voort uit de voorgaand genoemde regelingen..
+
+De voormalige [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ), die per 1 januari 2015 is ingetrokken en verbonden is aan het Algemene Fonds Bijzondere Ziektekosten (AFBZ) die per 31 december 2022 door het Zorginstituut wordt afgewikkeld, betrof voor het CAK de uitvoering van de eigenbijdrageregelingen AWBZ-Zorg met Verblijf (ZmV), AWBZ-Zorg zonder Verblijf (ZzV) alsmede de financieringstaak voor AWBZ-zorginstellingen. Conform de overgangsbepalingen in de [Wlz in artikel 11.2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.2.8) heeft het CAK haar eindverslag over haar uitvoering van de AWBZ uitgebracht als integraal deel van haar bestuurlijke verantwoording 2020. De ontvangsten of eventuele correcties op nog resterende balansposities op 31 december 2020, zoals resterende openstaande vorderingen van de eigenbijdrageregelingen ZmV en ZzV, worden met ingang van 2021 ten gunste of ten laste van het Flz gebracht2Zie hiervoor artikel 11.2.12 van de Wlz.. Ook geldt hierbij het reguliere proces volgens het incassoprotocol van het CAK. De afloop van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) kan worden verantwoord via de geldstroom van [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), wel dienen fouten en onzekerheden die worden geconstateerd apart te worden benoemd in de verantwoording.
+
+Het CAK heeft als zelfstandig bestuursorgaan te maken met wet- en regelgeving en volgt zover van toepassing de Code Goed Bestuur Publieke Dienstverleners van de Handvestgroep Publiek Verantwoorden van november 20153Zie hiervoor www.publiekverantwoorden.nl.. De [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) (ZBO’s) maken hier onderdeel van uit en zijn van toepassing op het CAK. Nadere afspraken tussen het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport (het Ministerie van VWS) over de samenwerking en afstemming op het gebied van sturing, verantwoording en toezicht liggen vast in het ‘Governance arrangement tussen het CAK en het Ministerie van Volksgezondheid, Welzijn en Sport’ van 14 juni 2022.
+
+In [hoofdstuk 2](https://wetten.overheid.nl/BWBR0048001) is beschreven welke verantwoordingsdocumenten het CAK over het jaar 2022 moet aanleveren voor de verantwoording over de uitvoering van de wettelijke taken bij het Ministerie van VWS, de Nederlandse Zorgautoriteit (NZa) en Zorginstituut Nederland (Zorginstituut).
 
 ### 1.2. Publicatie in Staatscourant
 
 Op basis van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=27) en [artikel 31 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31) (Wmg) kan de NZa regels stellen voor de wijze waarop het CAK zijn verantwoordingsdocumenten inricht. Door middel van dit model wordt hier invulling aan gegeven.
 
-De Raad van Bestuur van de NZa heeft op 7 maart 2023 dit ‘Model jaarverslaggeving CAK bestuurlijke verantwoording 2022’ vastgesteld. Dit model treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit model is geplaatst en werkt terug tot en met 1 januari 2022. U kunt dit model raadplegen via [www.nza.nl](onbekend).
+De Raad van Bestuur van de NZa heeft op 7 maart 2023 dit ‘Model jaarverslaggeving CAK bestuurlijke verantwoording 2022’ vastgesteld. Dit model treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit model is geplaatst en werkt terug tot en met 1 januari 2022. U kunt dit model raadplegen via www.nza.nl.
 
 ### 1.3. Taken onder beoordeling van het Ministerie van VWS
 
 Het Ministerie van VWS beoordeelt:
 
-de beheerskosten die het CAK maakt voor de uitvoering van haar publiekrechtelijke taken (zie paragraaf 2.1 ad 1);
+de beheerskosten die het CAK maakt voor de uitvoering van haar publiekrechtelijke taken (zie [paragraaf 2.1 ad 1](https://wetten.overheid.nl/BWBR0048001));
 
-de uitvoering van de burgerregelingen die gefinancierd zijn met begrotingsgelden (zie paragraaf 2.1 ad 4);
+de uitvoering van de burgerregelingen die gefinancierd zijn met begrotingsgelden (zie [paragraaf 2.1 ad 4](https://wetten.overheid.nl/BWBR0048001));
 
-de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) (als bijlage verantwoord in de andere informatie van de bestuurlijke verantwoording burgerrelingen, zie paragraaf 2.1 ad 2);
+de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) (als bijlage verantwoord in de andere informatie van de bestuurlijke verantwoording burgerrelingen, zie [paragraaf 2.1 ad 2](https://wetten.overheid.nl/BWBR0048001));
 
 De afgifte van Schengen- en Engelstalige medicijnverklaringen (als bijlage verantwoord in de andere informatie van de bestuurlijke verantwoording burgerrelingen).
 
@@ -75,9 +61,17 @@ De afgifte van Schengen- en Engelstalige medicijnverklaringen (als bijlage veran
 
 De NZa houdt toezicht op de rechtmatige en doelmatige uitvoering van de (premiegefinancierde) wettelijke taken door het CAK. Dit betreft het toezicht op de:
 
-**Doorlopende regelingen en taken:**
+*Doorlopende regelingen en taken:*
 
-Naast deze wettelijke taken houdt de NZa met ingang van 1 januari 2019 ook toezicht op de rechtmatige uitvoering door het CAK van de burgerregelingen en de buitenlandtaak. Deze regelingen worden verantwoord in de bestuurlijke verantwoording burgerregelingen in overeenstemming met het Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen (zie paragraaf 2.1 ad. 4).
+- 1. Financiering van de Wlz-erkende instellingen;
+
+- 2. Eigenbijdrageregeling [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+
+- 3. Eigenbijdrageregeling [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
+
+- 4. Afdracht interest geldmiddelen Fonds langdurige zorg (Flz) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+
+Naast deze wettelijke taken houdt de NZa met ingang van 1 januari 2019 ook toezicht op de rechtmatige uitvoering door het CAK van de burgerregelingen en de buitenlandtaak. Deze regelingen worden verantwoord in de bestuurlijke verantwoording burgerregelingen in overeenstemming met het Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen (zie [paragraaf 2.1 ad. 4](https://wetten.overheid.nl/BWBR0048001)).
 
 ### 1.5. Scope model
 
@@ -85,21 +79,43 @@ Om toezicht te kunnen houden moeten de NZa en het Ministerie van VWS over inform
 
 Dit model vormt een uitwerking van de afspraken voor de bestuurlijke verantwoording als onderdeel van het financieel verslag van het CAK. De regels voor de accountantscontrole en de op te leveren accountantsproducten heeft de NZa vastgelegd in het Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2022 (verder: protocol).
 
-In dit model wordt voor het verantwoordingsjaar 2022 (vanaf paragraaf 2.1.1) uitsluitend ingegaan op de verantwoording over de 4 wettelijke taken (zie paragraaf 1.1). De overige verantwoordingsvereisten zijn nader geregeld in de [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119), het model jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2022 en de eisen die het Ministerie van VWS gesteld heeft voor de financiële verantwoording over de uitvoering van de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230).
+In dit model wordt voor het verantwoordingsjaar 2022 (vanaf [paragraaf 2.1.1](https://wetten.overheid.nl/BWBR0048001)) uitsluitend ingegaan op de verantwoording over de 4 wettelijke taken (zie [paragraaf 1.1](https://wetten.overheid.nl/BWBR0048001)). De overige verantwoordingsvereisten zijn nader geregeld in de [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119), het model jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2022 en de eisen die het Ministerie van VWS gesteld heeft voor de financiële verantwoording over de uitvoering van de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230).
 
 ### 2. Verantwoordingsstructuur
 
-Het CAK moet op grond van [artikel 6.2.6 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.2.6) vóór 1 juli4De aanleverdatum zoals overeengekomen tussen partijen is gevolgd voor het verantwoordingsjaar 2022 en geldt voor de bestuurlijke verantwoording en de bestuurlijke verantwoording burgerregelingen. Deze datum kan afwijken van de aanleverdata die gelden voor andere onderdelen van het financieel verslag. van het jaar volgend op het verantwoordingsjaar bij het Ministerie van VWS en de NZa de volgende verantwoordingsdocumenten (inclusief accountantsproducten) aanleveren:
+Het CAK moet op grond van [artikel 6.2.6 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.2.6) vóór 1 juli4De aanleverdatum zoals overeengekomen tussen partijen is gevolgd voor het verantwoordingsjaar 2022 en geldt voor de bestuurlijke verantwoording en de bestuurlijke verantwoording burgerregelingen. Deze datum kan afwijken van de aanleverdata die gelden voor andere onderdelen van het financieel verslag. van het jaar volgend op het verantwoordingsjaar bij het Ministerie van VWS en de NZa de volgende verantwoordingsdocumenten (inclusief accountantsproducten) aanleveren:
+
+- – een financieel verslag;
+
+- – een uitvoeringsverslag.
 
 ### 2.1. Financieel verslag
 
 Het financieel verslag bestaat uit vier financiële verantwoordingen. Alleen de derde verantwoording valt onder de reikwijdte van dit model:
 
-Uit de uitvoering van de voorgenoemde publiekrechtelijke taken en regelingen vloeien voor het CAK beheerskosten voort. Het budget voor de beheerskosten wordt door het Ministerie van VWS aan het CAK verstrekt. De jaarlijkse verantwoordingsplicht van het CAK over de besteding van het door het Ministerie van VWS verstrekte budget van de beheerskosten is onder andere opgenomen in de jaarrekening. De nadere eisen die worden gesteld aan de jaarrekening zijn met ingang van 1 januari 2020 opgenomen in de [Regeling bezoldiging beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en het accountantsprotocol als bijlage hiervan.
+- 1. een financiële verantwoording van de uitvoeringsorganisatie (hierna aangeduid als: de jaarrekening);
 
-Over de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) (SOV) stelt het CAK op verzoek van het Ministerie van VWS separaat een verantwoording op voorzien van een accountantsverklaring. De nadere eisen voor deze verantwoording over de uitvoering van de SOV zijn opgesteld door het Ministerie van VWS5De Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, Laatstelijk gewijzigd op 1 maart 2019 houdende regels voor de subsidieverstrekking aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan onverzekerden. De SOV kent een eigen protocol die door het Ministerie van VWS is vastgesteld (d.d. 17-01-2018) bij brief van 08/02/2018 (kenmerk: 286351-172555-Z).. De verantwoording en controleverklaring van de uitvoering van de [SOV](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) is genomen in de andere informatie in de bestuurlijke verantwoording burgerregelingen.
+- 2. een financiële verantwoording over de uitvoering van de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230);
+
+- 3. een bestuurlijke verantwoording;
+
+- 4. een bestuurlijke verantwoording burgerregelingen.
+
+Ad 1: de jaarrekening
+
+Uit de uitvoering van de voorgenoemde publiekrechtelijke taken en regelingen vloeien voor het CAK beheerskosten voort. Het budget voor de beheerskosten wordt door het Ministerie van VWS aan het CAK verstrekt. De jaarlijkse verantwoordingsplicht van het CAK over de besteding van het door het Ministerie van VWS verstrekte budget van de beheerskosten is onder andere opgenomen in de jaarrekening. De nadere eisen die worden gesteld aan de jaarrekening zijn met ingang van 1 januari 2020 opgenomen in de [Regeling bezoldiging beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en het accountantsprotocol als bijlage hiervan.
+
+Ad 2:
+
+Subsidieregeling medisch noodzakelijke zorg aan onverzekerden
+
+Over de [Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) (SOV) stelt het CAK op verzoek van het Ministerie van VWS separaat een verantwoording op voorzien van een accountantsverklaring. De nadere eisen voor deze verantwoording over de uitvoering van de SOV zijn opgesteld door het Ministerie van VWS5De Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, Laatstelijk gewijzigd op 1 maart 2019 houdende regels voor de subsidieverstrekking aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan onverzekerden. De SOV kent een eigen protocol die door het Ministerie van VWS is vastgesteld (d.d. 17-01-2018) bij brief van 08/02/2018 (kenmerk: 286351-172555-Z).. De verantwoording en controleverklaring van de uitvoering van de [SOV](https://wetten.overheid.nl/jci1.3:c:BWBR0039230) is genomen in de andere informatie in de bestuurlijke verantwoording burgerregelingen.
+
+Ad 3: bestuurlijke verantwoording
 
 In de bestuurlijke verantwoording (over onder meer de eigenbijdrageregelingen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de uitbetaling zorgaanspraken namens de zorgkantoren aan de Wlz-zorgaanbieders) wordt verantwoording afgelegd over het financieel beheer, de rechtmatigheid en de doelmatigheid van de financiële stromen van de door het CAK uitgevoerde wettelijke taken. De nadere eisen die worden gesteld aan de bestuurlijke verantwoording van het CAK (uitgezonderd de burgerregelingen) zijn opgenomen in dit model.
+
+Ad 4: bestuurlijke verantwoording burgerregelingen
 
 In de bestuurlijke verantwoording burgerregelingen legt het CAK verantwoording af over de rechtmatige uitvoering van de wettelijke taken volgens de criteria opgenomen in het Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2022.
 
@@ -107,17 +123,55 @@ Ook is het CAK verantwoordelijk voor de verstrekking van de Schengen- en Engelst
 
 ### 2.1.1. Bestuurlijke verantwoording als onderdeel financieel verslag
 
-De bestuurlijke verantwoording van de wettelijke regelingen en taken (zie paragraaf 1.1) bestaat uit drie componenten:
+De bestuurlijke verantwoording van de wettelijke regelingen en taken (zie [paragraaf 1.1](https://wetten.overheid.nl/BWBR0048001)) bestaat uit drie componenten:
+
+- 1. matrix bestuurlijke verantwoording van in- en uitgaande financiële stromen en toelichtingen daarop;
+
+- 2. de financiële overzichten van de activa en passiva van de financiële stromen en toelichtingen daarop;
+
+- 3. andere informatie die minimaal uit de volgende onderdelen bestaat:
+
+   - a. voorwoord en inleiding;
+
+   - b. de verantwoording over de ordelijkheid en controleerbaarheid van het gevoerde financieel beheer van de wettelijke taken (inclusief de invulling van de doelmatigheid);
+
+   - c. de verantwoording over de borging van de rechtmatigheid van de financiële stromen;
+
+   - d. de bestuursverklaring met eventuele bijlagen;
+
+   - e. de kengetallen en prestatie-indicatoren;
+
+   - f. de verantwoording over klachten en bezwaar;
+
+   - g. de verantwoording over de opvolging verbeterpunten vorige verslagjaar – NZa;
+
+   - h. de verantwoording over de uitvoering van de hersteloperatie Kinderopvangtoeslag (KOT).
+
+Ad 1: matrix bestuurlijke verantwoording
 
 Voor de verantwoording van de financiële stromen maakt het CAK gebruik van de matrix bestuurlijke verantwoording. De matrix geven aan bij welke financiële stromen (op kasbasis) het CAK direct is betrokken, wat de omvang is van deze financiële stromen, welke taken en verantwoordelijkheden het CAK heeft ten aanzien van deze financiële stromen en welke voorbehouden gelden in verband met de opdrachtverstrekking en gegevensaanlevering door derden. In de kolom bestuurlijke toelichting geeft het CAK aan hoe en in hoeverre de rechtmatigheid van de financiële stromen door het CAK is gewaarborgd.
 
 De matrix voor de NZa is uitgewerkt in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=3&z=2023-03-28&g=2023-03-28) ‘Model Matrix bestuurlijke verantwoording NZa’. De matrix, die een rol speelt bij de concrete invulling van het rechtmatigheidsbegrip bij het CAK, geven de volgende financiële stromen weer op kasbasis:
 
+- 1. financiering van de Wlz-erkende instellingen;
+
+- 2. afdracht eigenbijdrageregeling [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+
+- 3. afdracht eigenbijdrageregeling [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)6In de matrices bestuurlijke verantwoording zullen de in- en uitgaande geldstromen in het verantwoordingsjaar 2021 met betrekking tot de uitvoering van de Wmo 2015-2019, Wmo beschermd wonen en de Wmo 2020 samen opgeteld worden weergegeven.
+
+- 4. afdracht interest geldmiddelen Fonds langdurige zorg (Flz) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+
+Ad 2: financiële overzichten
+
 In de bestuurlijke verantwoording worden financiële overzichten inclusief toelichtingen opgenomen van de activa en passiva van de financiële stromen van de door het CAK uitgevoerde wettelijke taken in het verantwoordingsjaar (inclusief vergelijkende cijfers) op basis van het toerekeningsbeginsel, in totaal- en in specificatieoverzichten per regeling. Van deze activa en passiva worden verloopoverzichten met balansstanden, balansmutaties en vergelijkende cijfers en toelichtingen opgenomen van vorderingen en schulden (minimaal verloopoverzichten van de rekening-courantposities en de openstaande vorderingen inclusief een uitsplitsing van deze openstaande vorderingen naar ouderdom voor de posten die betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)).
+
+Analyse debiteurenpositie
 
 Het CAK neemt in de financiële overzichten van de activa en passiva op basis van het toerekeningsbeginsel debiteurenvorderingen op. Deze vorderingen worden gewaardeerd tegen nominale waarde. Er wordt in dit onderdeel van de bestuurlijke verantwoording geen voorziening voor oninbaarheid opgenomen voor de debiteurenvorderingen, omdat het risico voor oninbaarheid voor rekening van het desbetreffende fonds of gemeente is. Het CAK neemt in de toelichting van de financiële verantwoording een analyse op van de debiteurenpositie gewaardeerd tegen reële waarde (inclusief toelichting van eventuele schattingen), alsmede een nadere toelichting inzake juistheid, volledigheid en bestaan van de debiteurenpositie teneinde de voorziening voor oninbaarheid te kunnen bepalen.
 
 De te hanteren sjablonen en modellen die gebruikt worden in de bestuurlijke verantwoording worden vooraf met partijen afgestemd. De te hanteren uitgangspunten en waarderingsgrondslagen zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=1&z=2023-03-28&g=2023-03-28) Waarderingsgrondslagen van dit model.
+
+Ad 3: andere informatie
 
 De andere informatie in de bestuurlijke verantwoording bestaat minimaal uit bovengenoemde onderdelen a tot en met h. Onderdeel a het voorwoord en de inleiding spreken hierbij voor zich. De verantwoording bij overige onderdelen worden onderstaand nader beschreven.
 
@@ -125,7 +179,7 @@ Onderdeel b ‘de verantwoording over de ordelijkheid en controleerbaarheid van 
 
 In dit onderdeel beschrijft het CAK onder andere in hoeverre de organisatorische maatregelen ter borging van de rechtmatigheid gedurende het verantwoordingsjaar 2022 hebben gefunctioneerd.
 
-Voor een nadere toelichting op de minimaal voorgeschreven inhoudelijke aandachtpunten wordt verwezen naar paragraaf 3.1. Ten aanzien van de invulling van het doelmatigheidsbegrip wordt verwezen naar paragraaf 3.1 ad 7.
+Voor een nadere toelichting op de minimaal voorgeschreven inhoudelijke aandachtpunten wordt verwezen naar [paragraaf 3.1](https://wetten.overheid.nl/BWBR0048001). Ten aanzien van de invulling van het doelmatigheidsbegrip wordt verwezen naar paragraaf 3.1 ad 7.
 
 Onderdeel c ‘de verantwoording over de borging van de rechtmatigheid van de financiële stromen’
 
@@ -137,9 +191,9 @@ bestuurlijke verantwoording opgenomen financiële stromen is
 
 gewaarborgd.
 
-Gelet op de positie en de taken van het CAK is het rechtmatigheidsbegrip naar de 4 specifieke taken en regelingen, zoals opgenomen in paragraaf 1.1, onder te verdelen. Als in deze taken en regelingen wordt voldaan aan de voorschriften van de wet- en regelgeving, dan zijn de betreffende processen en de daaruit voortvloeiende financiële stromen als rechtmatig aan te merken.
+Gelet op de positie en de taken van het CAK is het rechtmatigheidsbegrip naar de 4 specifieke taken en regelingen, zoals opgenomen in [paragraaf 1.1](https://wetten.overheid.nl/BWBR0048001), onder te verdelen. Als in deze taken en regelingen wordt voldaan aan de voorschriften van de wet- en regelgeving, dan zijn de betreffende processen en de daaruit voortvloeiende financiële stromen als rechtmatig aan te merken.
 
-Voor specifieke taken en regelingen zijn de beoordelings- respectievelijk toezichtstaken verdeeld tussen het Ministerie van VWS en de NZa (zie paragraaf 1.3 en 1.4). In de paragrafen van hoofdstuk 4 is het rechtmatigheidsbegrip (zie ook paragraaf 3.3) per taak of regeling uitgewerkt. Ook wordt aangegeven hoe dit begrip concreet ingevuld moet worden, met een directe koppeling naar de betreffende financiële stroom. De matrix bestuurlijke verantwoording NZa vormt hierbij een hulpmiddel om de financiële stromen, taken en verantwoordelijkheden van het CAK schematisch weer te geven.
+Voor specifieke taken en regelingen zijn de beoordelings- respectievelijk toezichtstaken verdeeld tussen het Ministerie van VWS en de NZa (zie [paragraaf 1.3](https://wetten.overheid.nl/BWBR0048001) en [1.4](https://wetten.overheid.nl/BWBR0048001)). In de paragrafen van [hoofdstuk 4](https://wetten.overheid.nl/BWBR0048001) is het rechtmatigheidsbegrip (zie ook [paragraaf 3.3](https://wetten.overheid.nl/BWBR0048001)) per taak of regeling uitgewerkt. Ook wordt aangegeven hoe dit begrip concreet ingevuld moet worden, met een directe koppeling naar de betreffende financiële stroom. De matrix bestuurlijke verantwoording NZa vormt hierbij een hulpmiddel om de financiële stromen, taken en verantwoordelijkheden van het CAK schematisch weer te geven.
 
 Onderdeel d ‘de bestuursverklaring’
 
@@ -152,6 +206,12 @@ Het CAK moet in de bestuurlijke verantwoording een aantal kengetallen en prestat
 Met het oog op eventuele controles achteraf legt het CAK duidelijk intern vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
 
 In het kader van de tijdige vaststelling en inning van de eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) bij de cliënt zijn er specifieke werkafspraken gedefinieerd in respectievelijk de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014) ([artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.12), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.13) en [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.14)) en de [Uitvoeringsregeling Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036096) ([hoofdstuk 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2a)) ten aanzien van de uitwisseling van gegevens tussen het CAK en de zorgkantoren en het CAK en de gemeenten. Het CAK besteedt in de bestuurlijke verantwoording 2022 als onderdeel van het ketenmanagement aandacht aan:
+
+- – de tijdige aanlevering van gegevens (van cliënten die noodzakelijk zijn voor de vaststelling en inning van de eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)) aan het CAK;
+
+- – de organisatie en uitkomst van periodieke bestandvergelijkingen van de administraties (houdende de relevante gegevens van cliënten) met zorgkantoren en gemeenten;
+
+- – de door het CAK genomen acties inclusief terugkoppeling aan zorgkantoren en gemeenten, naar aanleiding van mogelijke problematiek bij het in samenwerkingsverband tijdig opleggen van de eigen bijdrage aan de cliënt.
 
 Onderdeel f ‘de verantwoording over klachten en bezwaar’
 
@@ -175,7 +235,7 @@ verantwoording omvat en waar deze verantwoording aan moet voldoen.
 
 ### 2.2. Uitvoeringsverslag
 
-De eisen die gesteld worden aan het uitvoeringsverslag zijn met ingang van 1 januari 2020 nader uitgewerkt in de ‘[Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en het accountantsprotocol als bijlage hiervan. Deze eisen voor de inrichting van het uitvoeringsverslag zijn niet van toepassing op de bestuurlijke verantwoording 2022. Wel kunnen in het uitvoeringsverslag eventueel onderwerpen zijn opgenomen die betrekking hebben op alle wettelijke taken die worden uitgevoerd door het CAK.
+De eisen die gesteld worden aan het uitvoeringsverslag zijn met ingang van 1 januari 2020 nader uitgewerkt in de ‘[Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041119) en het accountantsprotocol als bijlage hiervan. Deze eisen voor de inrichting van het uitvoeringsverslag zijn niet van toepassing op de bestuurlijke verantwoording 2022. Wel kunnen in het uitvoeringsverslag eventueel onderwerpen zijn opgenomen die betrekking hebben op alle wettelijke taken die worden uitgevoerd door het CAK.
 
 ### 2.3. Taken van het Ministerie van VWS en de NZa
 
@@ -193,19 +253,95 @@ Het Ministerie van VWS vormt zich ook een oordeel en stuurt een brief naar het C
 
 De Raad van Bestuur van het CAK beschrijft in het onderdeel ordelijkheid en controleerbaarheid van het financieel beheer (onderdeel b van de andere informatie) de organisatorische maatregelen die gedurende het jaar bij het CAK hebben gefunctioneerd om de rechtmatige en doelmatige uitvoering van de wettelijke regelingen te borgen. In dit onderdeel moet het CAK in elk geval aan de volgende zes punten aandacht besteden:
 
+- 1. het gevoerde beleid;
+
+- 2. naleving van de wet- en regelgeving;
+
+- 3. de administratieve organisatie en interne beheersing;
+
+- 4. de geautomatiseerde gegevensverwerking;
+
+- 5. de bestrijding van misbruik en oneigenlijk gebruik;
+
+- 6. de tijdige afstorting van ontvangen gelden.
+
+- 7. de invulling van de doelmatigheid
+
 De uitwerking van deze onderdelen richt zich bij de bestuurlijke verantwoording op de uitvoering van de wettelijke taken. De wijze waarop de Raad van Bestuur van het CAK zich verantwoordt, is in vormvrij. Als enige voorwaarde geldt dat in ieder geval afzonderlijk wordt ingegaan op de hieronder genoemde zeven punten.
 
-Hierbij besteedt het CAK aandacht aan:
+Ad 1: het gevoerde beleid
 
 Hierbij besteedt het CAK aandacht aan:
 
-Hierbij besteedt het CAK aandacht aan:
+- – het gevoerde en voorgenomen beleid;
+
+- – de doeltreffendheid van het beleid en de bedrijfsvoering;
+
+- – de invloed van het gevoerde beleid;
+
+- – verantwoording over de (financiële) gevolgen voor de burger en voor de dienstverlening van (actuele) knelpunten in de uitvoering.
+
+Ad 2: naleving van de wet- en regelgeving
 
 Hierbij besteedt het CAK aandacht aan:
 
-Hierbij besteedt het CAK aandacht aan:
+- – het volledig, juist en tijdig toepassen van geldende wet- en regelgeving in het verslagjaar;
+
+- – de wijze waarop het onderhoud van procedurebeschrijvingen en werkinstructies plaatsvindt naar aanleiding van wijzigingen in geldende wet- en regelgeving.
+
+Ad 3: de administratieve organisatie en interne beheersing (AO/IB)
 
 Hierbij besteedt het CAK aandacht aan:
+
+- – de maatregelen die zijn getroffen om de rechtmatigheid van de financiële stromen van de wettelijke taken te waarborgen;
+
+- – de actualiteit van de procesbeschrijvingen per regeling en de koppeling tussen de procesbeschrijvingen en de werkprogramma’s;
+
+- – de maatregelen die zijn genomen in het kader van de Algemene Verordening Gegevensbescherming (AVG) en de Baseline Informatiebeveiliging Rijksdienst (BIR);
+
+- – de voorzieningen die het CAK heeft getroffen waardoor personen en instellingen, die met het CAK in aanraking komen in verband met de uitvoering van de taak van het CAK, in de gelegenheid zijn voorstellen tot verbetering van werkwijzen en procedures te doen;
+
+- – de wijze waarop de zorgvuldige behandeling van enerzijds personen en instellingen en anderzijds bezwaarschriften en klachten is gewaarborgd;
+
+- – de wijze waarop het risicomanagementsysteem en de interne beheersstructuur is ingericht en in hoeverre de interne beheersmaatregelen gedurende het jaar hebben gewerkt. Met daarbij een expliciete toelichting van belangrijke actuele zaken, risico’s en knelpunten in de uitvoering;
+
+- – de belangrijkste uitkomsten van de interne controles en intern uitgevoerd toezicht en de vervolgacties die op basis van de uitkomsten van deze controles zijn genomen;
+
+- – de wijze waarop de betrouwbaarheid en de continuïteit van de managementinformatie voor de algehele besluitvorming en de interne en externe financiële verantwoording is gewaarborgd.
+
+Ad 4: de geautomatiseerde gegevensverwerking
+
+Hierbij besteedt het CAK aandacht aan:
+
+- – de mate waarin in de applicaties geprogrammeerde controles – application controls – zijn opgenomen die de juiste uitvoering van de taken van het CAK garanderen, de continue werking hiervan en de mate waarin het CAK steunt op deze controles;
+
+- – de opzet, het bestaan en de werking van de maatregelen om de bedrijfscontinuïteit van de geautomatiseerde systemen te waarborgen;
+
+- – de opzet, het bestaan en de werking van de maatregelen voor de toegangsbeveiliging van de geautomatiseerde systemen;
+
+- – de opzet, het bestaan en de werking van de maatregelen voor change management van de geautomatiseerde systemen;
+
+- – de belangrijkste uitkomsten van de uitgevoerde IT-audits naar de opzet, het bestaan en de werking en de vervolgacties die op basis van de uitkomsten van deze controles zijn genomen.
+
+Ad 5: de bestrijding van misbruik en oneigenlijk gebruik
+
+Hierbij besteedt het CAK aandacht aan:
+
+- – de hoofdlijnen van het beleid ter voorkoming van misbruik en oneigenlijk gebruik;
+
+- – de onderzoeken die in het verslagjaar hebben plaatsgevonden, de aard van de fraude (interne of externe fraude) en tot welke resultaten en verbeteracties deze zaken geleid hebben.
+
+Ad 6: de tijdige afstorting van ontvangen gelden
+
+Hierbij besteedt het CAK aandacht aan:
+
+- – de gemaakte afspraken met de fondsbeheerder, gemeenten en het Ministerie van VWS over het tijdig afstorten van gelden;
+
+- – de opzet, het bestaan en de werking van de mitigerende maatregelen die garanderen dat de ontvangen gelden tijdig worden afgestort aan onder andere de gemeenten, de fondsbeheerder en het Ministerie van VWS;
+
+- – de belangrijkste uitkomsten van het intern uitgevoerd toezicht op de opzet, het bestaan en de werking van de mitigerende maatregelen en de vervolgacties die op basis van de uitkomsten van deze controles zijn genomen.
+
+Ad 7: de invulling van doelmatigheid
 
 De NZa is op grond van [artikel 16 sub d en f van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) belast met de toezichtstaak om een oordeel te geven bij de rechtmatige en doelmatige uitvoering van de wettelijke taken van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) door het CAK.
 
@@ -237,6 +373,14 @@ Afhankelijk van de financiële dimensie van het rechtmatigheidsbegrip kan onders
 
 Het CAK dient zich te verantwoorden in de bestuurlijke toelichting (als onderdeel van de matrix bestuurlijke verantwoording) over bijzonderheden die hieromtrent mogelijk hebben gespeeld of nog spelen bij de verschillende taken en regelingen. Het CAK dient zich in ieder geval te verantwoorden over de uitvoering door het CAK met betrekking tot:
 
+- – de procedures inzake het opvolgen en/of oplossen van (technische) storingen of signaleringslijsten (functionele uitvalbakken) bij het opleggen van eigen bijdragen ter voorkoming van stapelfacturen;
+
+- – de procedures inzake de informatie- en onderzoeksplicht, zodat de opgelegde eigen bijdragen op de juiste informatie zijn gebaseerd en gevolgen van foutieve registratie voor cliënten worden beperkt. Bijvoorbeeld door middel van het verrichten van periodieke bestandvergelijkingen en het opvolgen en oplossen van signaleringslijsten hierbij;
+
+- – procedures inzake het tijdig, binnen de wettelijke opleggings- en herzieningstermijnen van eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), beschikken van de eigen bijdragen aan de cliënt ter voorkoming van het afboeken van de baten van de inning van de eigen bijdragen voor geleverde Wlz- en Wmo-zorg richting het Flz-fonds respectievelijk de gemeenten;
+
+- – de procedures inzake de incasso-inspanningen ter voorkoming van het afboeken van vorderingen.
+
 Bij de rechtmatige uitvoering van taken kan voor de daarbij gebruikte gegevens onderscheid worden gemaakt tussen directe verantwoordelijkheid en gebruikersverantwoordelijkheid.
 
 Bij directe verantwoordelijkheid is een organisatie geheel verantwoordelijk voor de uitkomsten van een proces en moet de organisatie instaan voor de volledigheid, juistheid en tijdigheid van de daarmee samenhangende uitkomsten of informatie.
@@ -245,9 +389,19 @@ Bij gebruikersverantwoordelijkheid moet een organisatie ook zorgen voor de juist
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen, die een externe accountant als maatstaf kan hanteren bij zijn accountantsonderzoek, zijn de volgende randvoorwaarden van belang:
 
-In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2023-03-28) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie paragraaf 4.2 voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+- – er moet een duidelijk gedefinieerd normenkader aanwezig zijn;
 
-Met inachtneming van de genoemde randvoorwaarden en nadere uitwerking van het begrip rechtmatigheid in hoofdstuk 4, dient de externe accountant een rechtmatigheidsoordeel te geven en in zijn verslag een toelichting te geven op de rechtmatige uitvoering door het CAK. In het protocol zijn de richtlijnen voor de controle van de externe accountant uitgewerkt.
+- – het te onderzoeken object – proces of resultaat daarvan – is duidelijk omschreven;
+
+- – de hieraan gekoppelde verantwoordelijkheden zijn afgebakend;
+
+- – afwijkingen van de norm en fouten moeten meetbaar en kwantificeerbaar zijn. Daarbij moet duidelijk herleidbaar gedocumenteerd zijn door het CAK hoe wet- en regelgeving is geïmplementeerd in de uitvoering door het CAK;
+
+- – de te hanteren controletoleranties, nauwkeurigheid en betrouwbaarheid, staan vast.
+
+In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2023-03-28) bij dit model is een overzicht opgenomen van de circulaires en regelgeving die de basis vormen voor het rechtmatigheidskader van het CAK, daarnaast zijn daar ook de overige beleidsstukken opgenomen. Zie [paragraaf 4.2](https://wetten.overheid.nl/BWBR0048001) voor de uitwerking van de rechtmatigheidseisen per specifieke geldstroom.
+
+Met inachtneming van de genoemde randvoorwaarden en nadere uitwerking van het begrip rechtmatigheid in [hoofdstuk 4](https://wetten.overheid.nl/BWBR0048001), dient de externe accountant een rechtmatigheidsoordeel te geven en in zijn verslag een toelichting te geven op de rechtmatige uitvoering door het CAK. In het protocol zijn de richtlijnen voor de controle van de externe accountant uitgewerkt.
 
 ### 3.4. Fouten en onzekerheden
 
@@ -285,15 +439,35 @@ Gelet op de diversiteit van de regelingen is het rechtmatigheidskader onderverde
 
 ### 4.2. Financiële stromen
 
-### 4.2.1. [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+### 4.2.1. Wet langdurige zorg
 
-Met ingang van 1 januari 2015 is de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) van kracht geworden. De taken van het CAK zijn geregeld in [artikel 6.1.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2). Het CAK is in het kader van de Wlz belast met het uitvoeren van publiekrechtelijke werkzaamheden:
+Grondslag en taken
+
+Met ingang van 1 januari 2015 is de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) van kracht geworden. De taken van het CAK zijn geregeld in [artikel 6.1.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2). Het CAK is in het kader van de Wlz belast met het uitvoeren van publiekrechtelijke werkzaamheden:
+
+- − De vaststelling, oplegging en de inning van de eigen bijdragen, bedoeld in [artikel 3.2.5 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.2.5).
+
+- − Het namens een Wlz-uitvoerder of het Zorginstituut verrichten van betalingen aan zorgaanbieders, welke de Wlz-uitvoerders of het Zorginstituut, uit hoofde van de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verschuldigd zijn.
 
 Het [Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948) (Blz) en de [Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014) (Rlz) geven een omschrijving en opsomming van alle zorg die onder de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) valt.
 
 Het verrichten van het hiervoor genoemd deel van de administratie door het CAK worden in het [Blz](https://wetten.overheid.nl/jci1.3:c:BWBR0035948) en [Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014) uitgewerkt voor de volgende taken:
 
+- – De administratieve taak van landelijk kantoor voor de betaling van bedragen die uit hoofde van de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) verschuldigd zijn aan zorgaanbieders voor het verlenen van zorg als bedoeld in [artikel 3.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1). Deze betalingen geschieden namens de Wlz-uitvoerders aan de hand van gegevens die afkomstig zijn van de zorgkantoren. Het verrichten van de betalingen is een bancaire taak.
+
+- – De administratieve taak van landelijk kantoor voor de betaling van bedragen die dienen tot vergoeding van bedragen die de Wlz-uitvoerders uit hoofde van de uitvoering van de wet verschuldigd zijn aan zorgaanbieders betreffende het verlenen van zorg, voor zover die niet is begrepen onder de zorg die in [3.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) is genoemd. Deze betalingen geschieden namens het Zorginstituut en vormen eveneens een bancaire taak.9Door de Staatssecretaris van het Ministerie van VWS is een besluit genomen over het toekennen van subsidies aan zorgaanbieders over extramurale behandeling. Het Zorginstituut controleert de gegevens en voert het fondsbeheer. Het CAK heeft opdracht gekregen om de uitbetaling van deze subsidies in opdracht van de zorgkantoren te verzorgen en daarover separaat te rapporteren aan het Zorginstituut. De NZa houdt uitsluitend toezicht op de uitbetalingen van deze subsidiegelden in het kader van de taak betalingen van zorgaanspraken Wlz.
+
+- – Het CAK verricht de vaststelling, de oplegging en de inning van de eigen bijdrage, bedoeld in de [artikelen 3.3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.1) en [3.3.2.2 van het Blz](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.3.2.2). Ook heeft het CAK een taak in het afboeken van de vorderingen. Het CAK heeft een zelfstandige taak in dit proces, met gebruikmaking van gegevens van derden, zoals zorgkantoren, zorgaanbieders, de Belastingdienst en inhoudingsorganen. De zorgkantoren leveren de gegevens voor de vaststelling van de eigen bijdrage volgens de artikelen 3.3.2.1 en 3.3.2.2 van het Blz aan. Deze partijen zijn verantwoordelijk voor de juistheid, volledigheid en tijdigheid van de aanlevering van deze data. De grondslag voor de gegevensverstrekking is te vinden in [artikel 9.1.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.2).
+
+- – Het verstrekken van alle gegevens aan zorgkantoren, die zij voor de vervulling van hun taak bij de uitvoering van de wet nodig hebben. Dit is een intermediaire taak. De gegevensverstrekking is gebaseerd op [artikel 9.1.2 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.2).
+
 De taken kunnen tot twee deelgebieden betreffende de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) worden samengevoegd:
+
+- – Het zelfstandig vaststellen, opleggen en innen van de eigen bijdragen voor verblijf in een instelling10Hieronder wordt in het vervolg ook verstaan deeltijd verblijf zoals bedoeld in artikel 3.3.2.2, eerste lid, onderdeel e van het Blz., volledig pakket thuis (vpt), persoonsgebonden budget (pgb) en modulair pakket thuis (mpt) op basis van gegevens van de Belastingdienst, het UWV, de SVB, zorgkantoren en zorgaanbieders, waarbij de persoonsgegevens geverifieerd worden bij de Basisregistratie personen (BRP).
+
+- – Het verrichten van de betaling van zorgaanspraken [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) in de hoedanigheid van landelijk betaalkantoor in opdracht van de Wlz-uitvoerders of het Zorginstituut op grond van [artikel 6.1.2 onderdeel c van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2).
+
+Toezicht en verantwoording
 
 De NZa houdt op grond van [artikel 16 sub d van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) toezicht op de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door het CAK.
 
@@ -309,25 +483,49 @@ Het begrip rechtmatigheid speelt dus pas een rol vanaf het ontvangen van de opdr
 
 De invulling van de begrippen volledigheid, juistheid en tijdigheid concretiseren het begrip rechtmatigheid:
 
+- – volledigheid betekent dat het CAK alle binnengekomen opdrachten moet afwikkelen;
+
+- – juistheid houdt in dat het CAK de binnengekomen opdrachten moet afwikkelen volgens de betaalinstructies van de Wlz-uitvoerders/zorgkantoren of het Zorginstituut;
+
+- – tijdigheid houdt in dat het CAK de ontvangen opdrachten binnen vastgestelde termijnen moet afwikkelen. Als norm voor tijdigheid van voorschotbetalingen geldt een betaaltermijn van maximaal vijf weken na ontvangst van de betaalopdracht. Als norm voor tijdigheid van eenmalige betalingsopdrachten geldt een betaaltermijn van maximaal drie weken na ontvangst van de betaalopdracht door het CAK (zie [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=5&z=2023-03-28&g=2023-03-28) ‘Definities kengetallen en prestatie-indicatoren’).
+
 Tegenover de uitgevoerde betaalopdrachten staan de afrekeningen met het Flz. Hiervoor worden identieke rechtmatigheidsnormen gehanteerd als voor de afwikkeling van betaalopdrachten, dat wil zeggen dat de afrekeningen volledig, juist en tijdig moeten plaatsvinden.
+
+Bestuurlijke verantwoording
 
 In de bestuurlijke verantwoording beschrijft het CAK de interne beheersingsmaatregelen die het CAK heeft getroffen ter waarborging van de rechtmatigheid van de betalingen en ter voorkoming van het onttrekken van waarden aan het Flz via het CAK. Bovendien geeft het CAK in de bestuurlijke verantwoording aan of alle binnengekomen opdrachten volledig, juist en tijdig zijn afgewikkeld en of de afrekeningen met het Flz volledig, juist en tijdig hebben plaatsgevonden.
 
+Koppeling met financiële stromen
+
 De uitgevoerde betalingen en de op grond hiervan met het Flz verrekende bedragen komen in de bestuurlijke verantwoording van het CAK onder andere tot uitdrukking in de post ‘Liquide middelen wettelijke taken’, de post ‘Door te storten middelen wettelijke taken’, de post ‘Rekening-couranten’ als onderdeel van het overzicht van activa en passiva.
 
-### 4.2.1.2. Afdracht eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+### 4.2.1.2. Afdracht eigen bijdragen Wlz
 
-Het CAK heeft per 1 januari 2015 als taak het vaststellen, opleggen en innen van de eigen bijdragen voor de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en het namens een Wlz-uitvoerder/zorgkantoor of het Zorginstituut verrichten van betalingen aan zorgaanbieders. Binnen de Wlz wordt onderscheid gemaakt in de eigen bijdrage voor enerzijds (1) verblijf in een instelling, (2) volledig pakket thuis (vpt), (3) persoonsgebonden budget (pgb) en anderzijds het (4) modulair pakket thuis (mpt).
+Het CAK heeft per 1 januari 2015 als taak het vaststellen, opleggen en innen van de eigen bijdragen voor de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en het namens een Wlz-uitvoerder/zorgkantoor of het Zorginstituut verrichten van betalingen aan zorgaanbieders. Binnen de Wlz wordt onderscheid gemaakt in de eigen bijdrage voor enerzijds (1) verblijf in een instelling, (2) volledig pakket thuis (vpt), (3) persoonsgebonden budget (pgb) en anderzijds het (4) modulair pakket thuis (mpt).
 
 Het CAK maakt gebruik van gegevens van zorgaanbieders, de Wlz-uitvoerders/zorgkantoren, de BRP, het UWV, de SVB en de Belastingdienst. Het rechtmatigheidsbegrip speelt een rol vanaf het moment dat het CAK alle gegevens binnen heeft voor de vaststelling van de eigen bijdragen in het kader van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). Het CAK voert deze taak rechtmatig uit, als de eigen bijdragen volledig, juist en tijdig worden vastgesteld, opgelegd en de geïncasseerd en ontvangen eigen bijdragen volledig, juist en tijdig worden afgedragen aan het Flz. Vertraging in de gegevensaanlevering door één van de informatieleveranciers valt buiten het rechtmatigheidsbegrip van het CAK. Als voorwaarde hierbij geldt, dat de opvraagprocedures van het CAK (technisch) goed functioneren, zodat de opvraagprocedure geen problemen veroorzaakt.
 
+Vaststellen en opleggen eigen bijdragen
+
+Wlz
+
 Het begrip rechtmatigheid wordt geconcretiseerd door de invulling van de begrippen volledigheid, juistheid en tijdigheid.
+
+Volledigheid
 
 Volledigheid heeft betrekking op het volledig afwikkelen van alle binnengekomen gegevens tot opgelegde eigen bijdragen.
 
+Juistheid
+
 Juistheid heeft als norm het juist opleggen van de eigen bijdrage volgens het [Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948) en de specifieke circulaires van het Zorginstituut. Het betreft vooral de juistheid van het berekeningsproces volgens de juiste procedures. Het begrip juistheid heeft ook betrekking op de juiste toepassing van het anti-cumulatiebeding.
 
+Tijdigheid
+
 Het CAK hanteert als interne norm dat facturering moet plaatsvinden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken zijn opgebouwd uit zes weken voor facturering en twee weken voor het versturen van alle facturen.
+
+Inning van eigen bijdragen
+
+Wlz
 
 De begrippen volledigheid, juistheid en tijdigheid bepalen ook de rechtmatigheid van het incassoproces.
 
@@ -336,6 +534,8 @@ Bij het innen van de eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:B
 Dit model sluit verder aan bij de intern opgestelde incassoprocedure van het CAK. Deze incassoprocedure is ter kennisgeving aangenomen door ketenpartijen. Deze procedure geeft aan hoe het CAK de opgelegde eigen bijdragen moet incasseren en wanneer afboeking wegens oninbaarheid plaatsvindt.
 
 Als het CAK voldoet aan de geldende wet- en regelgeving en de procedures zoals vastgelegd in het protocol ‘oninbaar verklaren & matigen invorderingen’, is er sprake van een rechtmatige uitvoering van de wettelijke taak van het incasseren van de eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+
+Bestuurlijke verantwoording
 
 In de bestuurlijke verantwoording beschrijft het CAK:
 
@@ -349,9 +549,11 @@ de problemen die het CAK heeft ondervonden bij de samenwerking met de broninhoud
 
 de informatie die aan cliënten is verstrekt over de eigen bijdragen (bijvoorbeeld toezending brochures, organiseren van informatiebijeenkomsten).
 
+Koppeling met financiële stromen
+
 De in een kalenderjaar opgelegde, geïncasseerde en afgeboekte eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) komen in de bestuurlijke verantwoording tot uitdrukking in de toelichting op de post ‘Liquide middelen wettelijke taken’, de post ‘Door te storten middelen wettelijke taken’, de post ‘Debiteuren’ (inclusief analyse debiteurenpositie) en de post ‘Rekening-couranten’ als onderdeel van het overzicht van activa en passiva.
 
-### 4.2.1.3. Interest geldmiddelen Flz en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+### 4.2.1.3. Interest geldmiddelen Flz en Wmo
 
 De in deze paragraaf opgenomen tekst is van toepassing op de interest geldmiddelen Flz en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
@@ -361,29 +563,35 @@ Omdat de kosten van het CAK inclusief de bankkosten in principe gedekt worden do
 
 van de gemaakte afspraak tussen het CAK en het Zorginstituut. De bedragen die door het CAK zijn bepaald op basis van deze verdeling worden opgenomen in de bestuurlijke verantwoording van het CAK.
 
+Koppeling met financiële stromen
+
 De in een kalenderjaar verrekende interest geldmiddelen komt in de bestuurlijke verantwoording van het CAK tot uitdrukking in de toelichting op de post ‘Liquide middelen wettelijke taken’, de post ‘Door te storten middelen wettelijke taken’ en de post ‘Rekening-couranten als onderdeel van het overzicht van activa en passiva.
 
-### 4.2.2. [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+### 4.2.2. Wet maatschappelijke ondersteuning
 
-Het CAK is op grond van [artikel 6.1.2. aanhef en sub b van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2) vanaf 1 januari 2015, belast met de vaststelling en inning van de eigen bijdragen, bedoeld in [artikel 2.1.4b van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4b) (extramuraal en intramuraal). Vanaf 1 januari 2007 tot 1 januari 2015 was [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=15) en [16 van de Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=16) van toepassing (uitsluitend Wmo extramuraal). Deze taak is per 1 januari 2015 uitgebreid. Er is geen overgangsregeling van toepassing.
+Grondslag en taken
 
-Eén van de gevolgen van de wijziging in wet- en regelgeving is dat de producten ‘beschermd wonen’ en ‘kort verblijf’ vanuit de voormalige [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ) overgeheveld zijn naar de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). De verantwoordelijkheid voor faciliteren van de zorg voor Wmo beschermd wonen is met ingang van 1 januari 2015 op grond van de Wmo bij gemeenten komen te liggen en het CAK is verantwoordelijk voor het innen en afdragen van de eigen bijdragen.
+Het CAK is op grond van [artikel 6.1.2. aanhef en sub b van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2) vanaf 1 januari 2015, belast met de vaststelling en inning van de eigen bijdragen, bedoeld in [artikel 2.1.4b van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4b) (extramuraal en intramuraal). Vanaf 1 januari 2007 tot 1 januari 2015 was [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=15) en [16 van de Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=16) van toepassing (uitsluitend Wmo extramuraal). Deze taak is per 1 januari 2015 uitgebreid. Er is geen overgangsregeling van toepassing.
 
-Per 1 januari 2020 is de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) aangepast met de invoering van het abonnementstarief11Gewijzigd met de introductie van een maximale bijdrage van € 19 per maand voor maatwerkvoorzieningen en persoonsgebonden budgetten (pgb’s) in de Wmo 2015, aangeduid als ‘Wmo 2020’. Op basis van het Besluit van 4 oktober 2019, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 voor de verdere doorvoering van het abonnementstarief voor maatschappelijke ondersteuning (Stb. 2019, 319) en de Wet van 24 april 2019 tot wijziging van de Wet maatschappelijke ondersteuning 2015 inzake de bijdrage voor maatschappelijke ondersteuning en de beoordeling voor de verstrekking van de maatwerkvoorziening (Stb. 2019, 185). Inwerkingtreding van de wijziging van wet en het besluit tot wijziging via besluit van 25 november 2019, Stb. 2019, 452. (hierna aangeduid als Wmo 2020) voor de Wmo extramuraal. Hieraan ging per 1 januari 2019 de invoering van het gemaximeerd Wmo tarief vooraf12Voor 2019 heeft het kabinet gekozen voor een tussenvorm richting de invoering van het abonnementstarief per 1 januari 2020. Het Uitvoeringsbesluit Wmo 2015 is zo gewijzigd dat per 1 januari 2019 een maximale periodebijdrage van € 17,50 per vier weken voor maatwerkvoorzieningen van kracht werd. Op basis van het Besluit van 26 november 2018, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 tot het introduceren van een abonnementstarief voor maatwerkvoorzieningen in de zin van de Wet maatschappelijke ondersteuning 2015 (Stb. 2018, 444).. In samenhang met deze aanpassingen is onder meer ook de wijziging doorgevoerd dat met ingang van 1 januari 2020 cliënten die een PGB beschermd wonen ontvangen, net als cliënten die Wmo beschermd wonen in natura ontvangen, de intramurale Wmo eigen bijdrage moeten betalen (inkomensafhankelijke hoge of lage eigenbijdragetarief) 13Gewijzigd op basis van het Besluit van 4 oktober 2019, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 voor de aanpassing van de bijdragesystematiek voor persoonsgebonden budgetten voor beschermd wonen (Stb. 2019, 319)..
+Eén van de gevolgen van de wijziging in wet- en regelgeving is dat de producten ‘beschermd wonen’ en ‘kort verblijf’ vanuit de voormalige [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ) overgeheveld zijn naar de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). De verantwoordelijkheid voor faciliteren van de zorg voor Wmo beschermd wonen is met ingang van 1 januari 2015 op grond van de Wmo bij gemeenten komen te liggen en het CAK is verantwoordelijk voor het innen en afdragen van de eigen bijdragen.
+
+Per 1 januari 2020 is de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) aangepast met de invoering van het abonnementstarief11Gewijzigd met de introductie van een maximale bijdrage van € 19 per maand voor maatwerkvoorzieningen en persoonsgebonden budgetten (pgb’s) in de Wmo 2015, aangeduid als ‘Wmo 2020’. Op basis van het Besluit van 4 oktober 2019, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 voor de verdere doorvoering van het abonnementstarief voor maatschappelijke ondersteuning (Stb. 2019, 319) en de Wet van 24 april 2019 tot wijziging van de Wet maatschappelijke ondersteuning 2015 inzake de bijdrage voor maatschappelijke ondersteuning en de beoordeling voor de verstrekking van de maatwerkvoorziening (Stb. 2019, 185). Inwerkingtreding van de wijziging van wet en het besluit tot wijziging via besluit van 25 november 2019, Stb. 2019, 452. (hierna aangeduid als Wmo 2020) voor de Wmo extramuraal. Hieraan ging per 1 januari 2019 de invoering van het gemaximeerd Wmo tarief vooraf12Voor 2019 heeft het kabinet gekozen voor een tussenvorm richting de invoering van het abonnementstarief per 1 januari 2020. Het Uitvoeringsbesluit Wmo 2015 is zo gewijzigd dat per 1 januari 2019 een maximale periodebijdrage van € 17,50 per vier weken voor maatwerkvoorzieningen van kracht werd. Op basis van het Besluit van 26 november 2018, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 tot het introduceren van een abonnementstarief voor maatwerkvoorzieningen in de zin van de Wet maatschappelijke ondersteuning 2015 (Stb. 2018, 444).. In samenhang met deze aanpassingen is onder meer ook de wijziging doorgevoerd dat met ingang van 1 januari 2020 cliënten die een PGB beschermd wonen ontvangen, net als cliënten die Wmo beschermd wonen in natura ontvangen, de intramurale Wmo eigen bijdrage moeten betalen (inkomensafhankelijke hoge of lage eigenbijdragetarief) 13Gewijzigd op basis van het Besluit van 4 oktober 2019, onder meer houdende een wijziging van het Uitvoeringsbesluit Wmo 2015 voor de aanpassing van de bijdragesystematiek voor persoonsgebonden budgetten voor beschermd wonen (Stb. 2019, 319)..
 
 Overigens kan er binnen een huishouden sprake zijn van een samenloop van verschillende zorgproducten. Hierdoor kan een anti-cumulatiebeding14In artikel 3.8 van het Uitvoeringsbesluit Wmo 2015 is bepaald dat op de extramurale eigen bijdrage Wmo een anti-cumulatiebeding van toepassing te laten zijn. Binnen de Wmo gaat de intramurale bijdrage voor beschermd wonen voor op de extramurale bijdrage. De voorrang van de Wlz op de Wmo en het anti-cumulatiebeding betekent dat de eigen bijdrage Wlz voor gaat op de eigen bijdrage Wmo. Wanneer een persoon een intramurale eigen bijdrage voor de Wlz verschuldigd is, gaat deze voor op de bijdrage Wmo. En in het geval dat beide partners een intramurale bijdrage verschuldigd zijn (op grond van de Wlz dan wel voor beschermd wonen in de Wmo) wordt de gezamenlijke bijdrage naar rato over de beide partners verdeeld. van toepassing zijn.
+
+Toezicht en verantwoording
 
 Op basis van [artikel 16 sub f van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) houdt de NZa toezicht op de vaststelling en inning van de eigen bijdragen zoals bedoeld in [artikel 2.1.4b van de Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4b) door het CAK. Een goed toezicht op de uitvoering door het CAK van de eigen bijdragen in het kader van de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) is van direct belang vanuit het perspectief van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en omgekeerd.
 
 Om toezicht te kunnen uitoefenen, moet de NZa over informatie beschikken. [Artikel 6.2.6 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.2.6) wijst de verantwoordingsdocumenten en de accountantsproducten aan die jaarlijks door het CAK bij de NZa moeten worden ingediend. Op basis van [artikel 6.2 van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=6.2) kan de NZa hiervoor regels stellen.
 
-Omdat er geen overgangsregeling van toepassing is, is er met het Ministerie van VWS afgesproken dat de verantwoording niet gesplitst hoeft te worden naar [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) voor 1 januari 2015 en na 1 januari 2015.
+Omdat er geen overgangsregeling van toepassing is, is er met het Ministerie van VWS afgesproken dat de verantwoording niet gesplitst hoeft te worden naar [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) voor 1 januari 2015 en na 1 januari 2015.
 
-De standen en/of bedragen met betrekking tot de invoering van het abonnementstarief per 1 januari 2020, worden door het CAK in de financiële overzichten van de activa en passiva de bestuurlijke verantwoording 2022 separaat opgenomen op basis van het toerekeningsbeginsel. In de matrix bestuurlijke verantwoording wordt één bedrag opgenomen voor de afdracht eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
+De standen en/of bedragen met betrekking tot de invoering van het abonnementstarief per 1 januari 2020, worden door het CAK in de financiële overzichten van de activa en passiva de bestuurlijke verantwoording 2022 separaat opgenomen op basis van het toerekeningsbeginsel. In de matrix bestuurlijke verantwoording wordt één bedrag opgenomen voor de afdracht eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
-### 4.2.2.1. Afdracht eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+### 4.2.2.1. Afdracht eigen bijdragen Wmo
 
-De in deze paragraaf opgenomen tekst is van toepassing op de eigenbijdrageregeling [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). De regelingen Wmo 2015-2019 (Wmo-oud), Wmo beschermd wonen en het per 1 januari 2020 ingevoerde abonnementstarief maken onderdeel uit van de Wmo 2015.
+De in deze paragraaf opgenomen tekst is van toepassing op de eigenbijdrageregeling [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). De regelingen Wmo 2015-2019 (Wmo-oud), Wmo beschermd wonen en het per 1 januari 2020 ingevoerde abonnementstarief maken onderdeel uit van de Wmo 2015.
 
 Het CAK heft en int maandelijks de eigen bijdrage voor cliënten die Wmo beschermd wonen (Wmo intramuraal) of Wmo extramuraal ontvangen. Het CAK geeft hiertoe beschikkingen af.
 
@@ -395,27 +603,67 @@ De vaststelling van de eigen bijdragen vindt plaats op basis van gegevens van de
 
 De door de zorgaanbieders en gemeenten bij het CAK aangeleverde persoonsgegevens worden aan de hand van de gegevens van het BRP geverifieerd. Het CAK maakt gebruik van de gegevens van zes informatieleveranciers:
 
+- – de zorgaanbieders voor persoons- en zorgurengegevens15Ziet uitsluitend op Wmo extramuraal tot en met zorgjaar 2019. Vanaf Wmo 2020 is de gemeente verantwoordelijk om betreffende gegevens te leveren via het Gemeentelijk Gegevensknooppunt (GGK).;
+
+- – de gemeenten voor parameters, vrijstellingen en persoons- en zorggegevens en minimabeleid;
+
+- – de BRP voor persoonsgegevens;
+
+- – het UWV voor inkomensgegevens en bevestigde broninhoudingen;
+
+- – de SVB voor bevestigde broninhoudingen en de relatiestatus van een cliënt;
+
+- – de Belastingdienst voor inkomensgegevens.
+
 Voor de gegevens van de informatieleveranciers geldt gebruikersverantwoordelijkheid. De directe verantwoordelijkheid voor de betrouwbaarheid (juistheid en volledigheid) van de gegevens ligt bij de informatieleveranciers zelf. Het CAK heeft niet de taak om vast te stellen dat iedereen die een eigen bijdrage zou moeten betalen, tijdig bij het CAK wordt aangemeld. Niet of te laat aangemelde cliënten vallen niet onder de verantwoordelijkheid van het CAK. Het begrip rechtmatigheid speelt dus pas een rol vanaf de ontvangst van alle gegevens die nodig zijn voor vaststelling van de eigen bijdragen. Het CAK voert deze taak rechtmatig uit, als de eigen bijdragen voor [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) volledig, juist en tijdig worden vastgesteld, opgelegd en de geïncasseerd en ontvangen eigen bijdragen voor Wmo volledig, juist en tijdig worden afgedragen aan de gemeenten.
 
-Vertragingen in de gegevensaanlevering door één van de zes informatieleveranciers vallen buiten het rechtmatigheidsbegrip van het CAK. Als voorwaarde hierbij geldt, dat de (opvraag)procedures van het CAK (technisch) goed functioneren, zodat de (opvraag)procedure geen problemen veroorzaken. Ook gelden voor het CAK ten aanzien van de procedurele rechtmatigheid plichten om zorg te dragen dat de eigen bijdrage op de juiste informatie is gebaseerd en gevolgen van de foutieve registraties voor cliënten worden beperkt. Zie voor meer details paragraaf 3.3.
+Vertragingen in de gegevensaanlevering door één van de zes informatieleveranciers vallen buiten het rechtmatigheidsbegrip van het CAK. Als voorwaarde hierbij geldt, dat de (opvraag)procedures van het CAK (technisch) goed functioneren, zodat de (opvraag)procedure geen problemen veroorzaken. Ook gelden voor het CAK ten aanzien van de procedurele rechtmatigheid plichten om zorg te dragen dat de eigen bijdrage op de juiste informatie is gebaseerd en gevolgen van de foutieve registraties voor cliënten worden beperkt. Zie voor meer details [paragraaf 3.3](https://wetten.overheid.nl/BWBR0048001).
+
+Vaststellen en opleggen eigen bijdragen
+
+Wmo
 
 Wettelijk is besloten om op de eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) een anti-cumulatiebeding van toepassing te laten zijn.
 
 Het begrip rechtmatigheid wordt geconcretiseerd door de invulling van de begrippen volledigheid, juistheid en tijdigheid.
 
+Volledigheid
+
 Volledigheid heeft betrekking op het volledig afwikkelen van alle binnengekomen gegevens tot opgelegde eigen bijdragen. Het ‘volledig afwikkelen’ heeft betrekking op alle gegevens waarbij geen sprake is van kwijtschelding.
+
+Juistheid
 
 Juistheid heeft als norm het juist opleggen van de eigen bijdrage volgens de door de gemeenten aangeleverde parameters. Het betreft vooral de juistheid van het berekeningsproces volgens de juiste procedures. Het begrip juistheid heeft ook betrekking op de juiste toepassing van het anti-cumulatiebeding.
 
+Tijdigheid
+
 Het CAK hanteert als interne norm dat facturering moet plaatsvinden binnen maximaal acht weken nadat alle benodigde gegevens aanwezig zijn. Deze acht weken is opgebouwd uit zes weken voor facturering en twee weken voor het versturen van alle facturen.
+
+Innen van eigen bijdragen
+
+Wmo
 
 De begrippen volledigheid, juistheid en tijdigheid bepalen ook de rechtmatigheid van het incassoproces. Dit model sluit verder aan bij de intern opgestelde incassoprocedure van het CAK. Deze incassoprocedure is ter kennisgeving aangenomen door het Ministerie van VWS. Deze procedure geeft aan hoe het CAK de opgelegde eigen bijdragen moet incasseren en wanneer afboeking wegens oninbaarheid plaatsvindt.
 
 Als het CAK voldoet aan de geldende wet- en regelgeving en de procedures zoals vastgelegd in het protocol ‘oninbaar verklaren & matigen invorderingen’, is er sprake van een rechtmatige uitvoering van de wettelijke taak van het incasseren van de eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
+Bestuurlijke verantwoording
+
 In de bestuurlijke verantwoording 2021 verantwoordt het CAK in het hoofdstuk van de matrices bestuurlijke verantwoording de in- en uitgaande geldstromen voor alle Wmo geldstromen samen. Dit betreft het totaal van [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en eerder, Wmo beschermd wonen en het abonnementstarief (Wmo 2020). In de hoofdstukken van de financiële overzichten van de activa en passiva op kasbasis en op basis van toerekeningbeginsel, verantwoordt het CAK de balansposities van de uitvoering van de Wmo 2020 separaat in de financiële overzichten, in de verloopoverzichten en toelichtingen hierop.
 
 In de bestuurlijke verantwoording beschrijft het CAK:
+
+- – de problemen die zich in het verslagjaar hebben voorgedaan ten aanzien van de juistheid, volledigheid en tijdigheid van de vaststelling, oplegging en inning van de eigen bijdragen;
+
+- – de wijze waarop het management in het verslagjaar is geïnformeerd over de rechtmatige uitvoering van de eigen bijdrageregeling [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). Daarbij besteedt het CAK aandacht aan de volledigheid van de managementinformatie (kritische prestatie-indicatoren);
+
+- – de problemen die het CAK heeft ondervonden bij de aanlevering van gegevens vanuit de informatieleveranciers, welke aanvullende acties zijn ondernomen en welke maatregelen op managementniveau zijn genomen om de gegevensuitwisseling te optimaliseren;
+
+- – de problemen die het CAK heeft ondervonden bij de samenwerking met de broninhouders, welke aanvullende acties zijn ondernomen en welke maatregelen op managementniveau zijn genomen om de samenwerking met de broninhouders te optimaliseren;
+
+- – informatie die aan cliënten is verstrekt over de eigen bijdragen (bijvoorbeeld toezending brochures, organiseren van informatiebijeenkomsten).
+
+Koppeling met financiële stromen
 
 De in een kalenderjaar opgelegde, geïncasseerde en afgeboekte eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) komen tot uitdrukking in de bestuurlijke verantwoording van het CAK in de post ‘Liquide middelen wettelijke taken’, de post ‘Door te storten middelen wettelijke taken’, de post ‘Debiteuren’ (inclusief analyse debiteurenpositie) en de post ‘Rekening-couranten’ als onderdeel van het overzicht van activa en passiva.
 
@@ -425,7 +673,9 @@ De in een kalenderjaar opgelegde, geïncasseerde en afgeboekte eigen bijdragen [
 
 Bij de aanleverprocedure gaat het om de manier waarop het CAK de jaarverslaggeving aan het Ministerie van VWS en de NZa moet toesturen.
 
-Het CAK moet de bestuurlijke verantwoording en de accountantsproducten (controleverklaring en accountantsverslag) vóór 1 juli van het jaar volgend op het verslagjaar versturen aan het Ministerie van VWS en de NZa. Hierbij is bepaald dat het Zorginstituut onderdeel uitmaakt van de verspreidingskring.
+Het CAK moet de bestuurlijke verantwoording en de accountantsproducten (controleverklaring en accountantsverslag) vóór 1 juli van het jaar volgend op het verslagjaar versturen aan het Ministerie van VWS en de NZa. Hierbij is bepaald dat het Zorginstituut onderdeel uitmaakt van de verspreidingskring.
+
+Fysieke inzending het Ministerie van VWS
 
 Voor het insturen van de fysieke verantwoordingsdocumenten verzoekt het Ministerie van VWS het CAK gebruik te maken van de volgende adressering:
 
@@ -439,6 +689,8 @@ Postbus 20350
 
 2500 EJ Den Haag
 
+Fysieke inzending NZa
+
 Voor het insturen van de fysieke verantwoordingsdocumenten verzoekt de NZa het CAK gebruik te maken van de volgende adressering:
 
 Nederlandse Zorgautoriteit
@@ -449,7 +701,11 @@ Postbus 3017
 
 3502 GA Utrecht
 
+Elektronische inzending NZa
+
 Voor de elektronische toezending van verantwoordingsdocumenten verzoekt de NZa het CAK gebruik te maken van het NZa-uitwisselportaal.
+
+Overige informatie
 
 Het CAK kan op eigen initiatief of op uitnodiging van het Ministerie van VWS of de NZa aanvullende informatie over de jaarverslaggeving verstrekken. Voor het inzenden daarvan geldt de bovenstaande wijze van inzending.
 
@@ -464,222 +720,3 @@ De NZa, het Ministerie van VWS en het Zorginstituut hanteren de gedragslijn dat 
 ### 6.1. Raad van Bestuur van de NZa
 
 Dit model is tot stand gekomen na overleg tussen vertegenwoordigers van de NZa enerzijds en het CAK en zijn externe accountant anderzijds, in samenspraak met het Zorginstituut. De bekrachtiging van dit model zal gezamenlijk door het Ministerie van VWS en de NZa plaatsvinden door middel van een brief. De brief wordt geadresseerd aan de Raad van Bestuur van het CAK.
-
-## Bijlage 1. Toelichtingen en waarderingsgrondslagen
-
-Het CAK neemt in haar bestuurlijke verantwoording het financiële overzicht van activa en passiva op. De te hanteren sjablonen en modellen zijn vooraf met partijen afgestemd.
-
-### Toelichtingen en waarderingsgrondslagen Financieel overzicht activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel
-
-Hierna zijn de te hanteren waarderingsgrondslagen opgenomen welke worden bepaald met inachtneming van het toerekeningsbeginsel. Indien het CAK deze waarderingsgrondslagen wil wijzigen, niet wil toepassen of waarderingsgrondslagen wil toevoegen vindt er hierover vooraf afstemming plaats met het Ministerie van VWS, het Zorginstituut en de NZa. Partijen moeten het eens zijn over de te hanteren waarderingsgrondslagen. Met het opstellen van de financiële verantwoording inclusief toelichting conform dit model stelt het CAK zich in staat om te voldoen aan de verantwoordingsvereisten van het Ministerie van VWS en de NZa als toezichthouders.
-
-### Algemene toelichting
-
-### Gebruik van schattingen
-
-Bij de toepassing van de grondslagen en regels voor het opstellen van het financieel overzichten vormt het bestuur van het CAK zich verschillende oordÎelen en schattingen die essentieel kunnen zijn voor de in het financieel overzicht opgenomen bedragen. De daadwerkelijke uitkomsten kunnen afwijken van deze schattingen. Indien de schattingen voor het geven van inzicht voor de gebruikers van het financieel overzicht noodzakelijk is, is de aard van deze oordelen en schattingen inclusief de bijbehorende veronderstellingen opgenomen in de toelichting op betreffende financiële stroom of balanspost.
-
-### Gebeurtenissen na balansdatum
-
-Gebeurtenissen die nadere informatie geven over de feitelijke situatie per balansdatum en die blijken tot aan de datum van het opmaken van de verantwoording worden verwerkt in het overzicht.
-
-Gebeurtenissen die geen nadere informatie geven over de feitelijke situatie per balansdatum worden niet in het overzicht verwerkt. Als dergelijke gebeurtenissen van belang zijn voor de oordeelsvorming van de gebruikers van het overzicht, worden de aard en de geschatte financiële gevolgen ervan toegelicht in het overzicht.
-
-### Waarderingsgrondslagen
-
-### Algemeen
-
-Het financieel overzicht is opgesteld in overeenstemming met de grondslagen zoals opgenomen in bijlage 1 van het Model Jaarverslaggeving CAK bestuurlijke verantwoording 2022. Uitgangspunt voor de opstelling van het financieel overzicht van activa en passiva van de financiële stromen van de wettelijke taken op basis van het toerekeningsbeginsel vindt plaats op basis van de grondslagen zoals hierna opgenomen, voor zoverre in afwijking ten opzichte van de grondslagen voor verwerking van transacties op kasbasis.
-
-Vanuit de wettelijke taken geldt dat uitsluitend sprake is van balansposities omdat er geen baten en lasten voor rekening van het CAK komen. Derhalve is er geen staat van baten en lasten opgenomen van de wettelijke taken.
-
-### Vergelijking voorgaand jaar
-
-De gehanteerde grondslagen zijn ongewijzigd gebleven ten opzichte van het voorgaande jaar.
-
-### Grondslagen voor waardering van activa en passiva
-
-### Rekening-courantposities
-
-De rekening-courantposities met vorderingen en/of schulden met fondsen en gemeenten als gevolg van toepassing van het toerekeningsbeginsel worden gewaardeerd tegen nominale waarde.
-
-### Debiteuren
-
-Vorderingen worden gewaardeerd tegen nominale waarde. Er worden geen voorzieningen voor oninbaarheid opgenomen. Het risico voor oninbaarheid is voor rekening van het desbetreffende fonds of de desbetreffende gemeente. In de toelichting van het financieel overzicht dient een analyse te worden opgenomen, waaronder informatie van de debiteurenpositie gewaardeerd tegen reële waarde een nadere toelichting de inzake juistheid, volledigheid en bestaan van de debiteurenpositie om de voorziening voor oninbaarheid te kunnen bepalen.
-
-### Liquide middelen
-
-De toelichtingen en waarderingsgrondslagen van de liquide middelen op basis van het toerekeningsbeginsel zijn gelijk aan de toelichtingen en waarderingsgrondslagen van de liquide middelen bij het financieel overzicht activa en passiva op kasbasis.
-
-## Bijlage 2. Juridisch kader met wet- en regelgeving en overige beleidsstukken
-
-Inzake de in het verslagjaar 2022 geldende relevante algemene wet- en regelgeving, bijzondere wet- en regelgeving, circulaires, brieven van het Zorginstituut en brieven van het Ministerie van VWS verwijzen het Ministerie van VWS en de NZa naar de tabellen in het juridisch kader van het CAK. Hierin zijn alle documenten die van belang zijn voor het CAK voor de uitvoering van de wettelijke taken in het verslagjaar 2022 opgenomen. Het juridisch kader op de wettelijke taken wordt actueel gehouden door de afdeling Strategie & Beleid, de afdeling Bestuurszaken is eindverantwoordelijk.
-
-Het juridisch kader geeft een opsomming van alle voor het CAK geldende wet- en regelgeving, waaronder ook nadere uitwerkingen en uitvoeringskaders van de wet- en regelgeving, waarbij de volgende categorieën gelden voor de wettelijke taken:
-
-Wet- en regelgeving
-
-- 1. Algemene wet- en regelgeving;
-
-Overig kader en beleidsstukken
-
-- 2. Inkoop en contract management;
-
-- 3. Brieven VWS – CAK Algemeen;
-
-- 4. Overig, onder meer:
-
-- a. brieven Zorginstituut Nederland
-
-- b. protocol CAK
-
-- c. externe publicaties
-
-- d. beleidsmemo’s
-
-Voor de geldende onderliggende specifieke verwijzingen naar regelgeving, brieven, beleidstukken en dergelijke wordt voor de bovengenoemde categorieën verwezen naar het juridisch kader van het CAK en de daarbij horende bijlage van het juridisch kader. Daarnaast wordt verwezen in dit model naar paragraaf 4.2 waarin per regeling de voornaamste specifieke geldende wet- en regelgeving is opgenomen onder het normenkader.
-
-## Bijlage 3. Model matrix bestuurlijke verantwoording NZa
-
-Het CAK is betrokken bij een aantal in- en uitgaande financiële stromen (op kasbasis) van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). In deze matrix is het totaal van deze stromen weergegeven, evenals de bestuurlijke verantwoording van het CAK rekening houdend met de invulling van het rechtmatigheidsbegrip volgens dit model.
-
-| Financiële stroom | Bedrag verslagjaar in € 1.000 | Taken volgens de voor het CAK geldende wet- en regelgeving | Verantwoordelijkheid CAK | Voorbehoud CAK | Bestuurlijke toelichting |
-| --- | --- | --- | --- | --- | --- |
-| 1. Betalingen van zorgaanspraken [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) |   | De uitvoering van de administratieve taak van het verrichten van betalingen aan zorgaanbieders in opdracht van de Wlz-uitvoerders/zorgkantoren en het Zorginstituut in de hoedanigheid van landelijk betaalkantoor. | Volledigheid, juistheid en tijdigheid van de betalingen op basis van de van Wlz-uitvoerders/zorgkantoren en het Zorginstituut ontvangen en geautoriseerde opdrachten. Volledigheid, juistheid en tijdigheid van de door het CAK bij het Flz in rekening gebrachte bedragen voor de verrichte betalingen. | Juiste, tijdige en volledige aanlevering van de gegevens door de informatieleveranciers. |   |
-| 2. Afdracht eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) |   | De afdrachten aan het Zorginstituut na het verrichten van de vaststelling, oplegging en inning van de eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) op basis van door de informatieleveranciers aangeleverde gegevens. | Volledigheid, juistheid en tijdigheid van de vastgestelde en opgelegde eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) op basis van de berekeningswijze voor eigen bijdragen Wlz en de gegevens van de informatieleveranciers. Volledigheid, juistheid en tijdigheid van de te innen eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). Volledigheid, juistheid en tijdigheid van de door het CAK aan het Flz via het Zorginstituut afgedragen en geïnde eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917). | Juiste, tijdige en volledige aanlevering van de gegevens door de informatieleveranciers. |   |
-| 3. Afdracht eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) |   | De afdrachten aan gemeenten na het verrichten van de vaststelling, oplegging en inning van de eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) op basis van door de informatieleveranciers aangeleverde gegevens. | Volledigheid, juistheid en tijdigheid van de vastgestelde en opgelegde eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) op basis van de berekeningswijze voor eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de gegevens van de informatieleveranciers. Volledigheid, juistheid en tijdigheid van de te innen eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). Volledigheid, juistheid en tijdigheid van de door het CAK aan de gemeenten afgedragen en geïnde eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). | Juiste, tijdige en volledige aanlevering van de gegevens door de informatieleveranciers. |   |
-| 4. Interest geldmiddelen Flz en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) |   | Verrekening van interest op publieke geldmiddelen en openstaande vorderingen in rekening-courant met het Flz en de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). | Volledigheid, juistheid en tijdigheid van de verrekening van de interest geldmiddelen met het Flz en de [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362). De wijze van verdelen van de interest geldmiddelen naar het Flz en de Wmo vindt plaats op basis van de gemaakte afspraak tussen het CAK en het Zorginstituut. | Het betreft uitsluitend de interest van de publieke geldmiddelen en de openstaande vorderingen. |   |
-
-## Bijlage 4. Definities kengetallen en prestatie-indicatoren
-
-In deze paragraaf zijn de kengetallen en prestatie-indicatoren opgenomen die het CAK in de bestuurlijke verantwoording moet opnemen. Het CAK vermeldt de kengetallen en prestatie-indicatoren voor het verslagjaar en het voorafgaand jaar.
-
-Met het oog op eventuele controles achteraf legt het CAK duidelijk vast, hoe de aan de kengetallen en prestatie-indicatoren ten grondslag liggende gegevens tot stand zijn gekomen.
-
-| Categorie | Kengetal | Omschrijving | Definitie |
-| --- | --- | --- | --- |
-| Eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | KC1503 | Afgeboekte oninbare eigen bijdragen – redenen | Over het huidig verslagjaar worden de belangrijkste vijf redenen getoond. |
-| Eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | KC1504b | Restituties ontvangen eigen bijdragen in € 1.000 | Het in het huidig verslagjaar gerestitueerde bedrag van de rekeningen, dat betrekking heeft op ontvangen eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) afgerond op € 1.000. |
-| Eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | KC1504c | Aantal uitgevoerde restituties | Het aantal in het huidig verslagjaar uitgevoerde restituties. |
-| Eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | KC1506 | Vastgestelde eigen bijdragen in € 1.000 | Bedrag van alle door het bronsysteem in het huidige verslagjaar vastgestelde eigen bijdragen voor alle zorgperioden van het huidig verslagjaar. |
-|   | KC1507a | Gemiddelde vastgestelde eigen bijdrage | De som van de door het bronsysteem vastgestelde eigen bijdragen gedeeld door het aantal unieke bijdrageplichtigen waarvoor een eigen bijdrage is vastgesteld. Weergegeven voor de lage eigen bijdrage, de hoge eigen bijdrage en het totaal. |
-|   | KC1507b | Gemiddelde opgelegde eigen bijdrage | De som van de opgelegde eigen bijdragen gedeeld door het aantal unieke cliënten waarvoor een eigen bijdrage is opgelegd. Weergegeven voor de eigen bijdrage en de broninhouding. |
-|   | KC1508a | Totaal aantal bijdrageplichtigen met een vastgestelde eigen bijdrage | Het aantal unieke bijdrageplichtigen zoals voor het huidig verslagjaar aanwezig in het bronsysteem. Waarbij is aangeleverd dat zij zorg ontvangen en waarvoor een eigen bijdrage is vastgesteld. Weergegeven voor de lage eigen bijdrage, de hoge eigen bijdrage en het totaal. |
-|   | KC1508b | Totaal aantal bijdrageplichtigen met een opgelegde eigen bijdrage | Het aantal unieke bijdrageplichtigen waarvoor in het huidig verslagjaar een hoge respectievelijk een lage eigen bijdrage is opgelegd, onderverdeeld naar eigen bijdrage, broninhouding en totaal. |
-|   | KC1509a | Aantal nieuwe bijdrageplichtigen | Het aantal bijdrageplichtigen, die nieuw zijn aangeleverd en waarvoor nog niet eerder Wlz-zorg is geregistreerd, waarvoor in het huidig verslagjaar voor de eerste keer een beschikking is afgegeven voor een doorlopende opnameperiode. |
-|   | KC1509b | Doorlooptijd van startdatum aanvang zorg tot eerste factuur | De gemiddelde doorlooptijd in dagen van startdatum aanvang zorg tot eerste factuur gedurende het huidige verslagjaar. Weergegeven voor nieuwe cliënten, bestaande cliënten en het totaal aantal cliënten. |
-|   | KC1509c | Doorlooptijd van einde zorg als gevolg van overlijden tot laatste factuur | De gemiddelde doorlooptijd in dagen van datum einde zorg als gevolg van overlijden tot de laatste factuur gedurende het huidige verslagjaar. |
-|   | KC1510 | Broninhoudingspercentages | Het percentage van de in het huidig verslagjaar via opgelegde broninhouding bevestigde eigen bijdragen ten opzichte van het totaalbedrag van de in het huidig verslagjaar opgelegde eigen bijdragen. |
-|   | KC1511 | Aantal bezwaarschriften | Het aantal in het huidige verslagjaar ontvangen bezwaarschriften gesplitst naar status (ontvangen, afgehandeld, onderhanden). |
-|   | KC1511 | Aantal bezwaarschriften – redenen | top 5 oorzaken van gegronde en deels gegronde bezwaren |
-|   | KC1512 | Percentage bezwaarschriften ten opzichte van totaal aantal verstuurde beschikkingen | Het aantal bezwaren als percentage van het totaal aantal beschikkingen dat in het huidig verslagjaar wordt verstuurd. |
-|   | KC1513 | Aantal beroepzaken | Het aantal in het huidig verslagjaar ontvangen (hoger) beroepen, gesplitst naar status (ontvangen, zelf ingesteld, afgehandeld, gegrond, ongegrond). |
-|   | KC1514 | Aantal calls | Het aantal in het huidig verslagjaar bij het CAK binnengekomen calls. (exclusief geannuleerde calls in de wachtrij). |
-|   |   | Aantal calls – redenen | Over de in het huidig verslagjaar beantwoorde calls worden de belangrijkste vijf redenen getoond. |
-|   | KC1515 | Aantal e-mails | Het aantal in het huidige verslagjaar (via het webformulier) ontvangen e-mails, al dan niet verstuurd via een vertegenwoordiger, van cliënten. |
-|   |   | Aantal e-mails – contactonderwerpen | Over de in het huidig verslagjaar (via het webformulier) ontvangen e-mails, al dan niet verstuurd via een vertegenwoordiger, van cliënten worden de belangrijkste vijf contactonderwerpen getoond. |
-|   | KC1516 | Aantal brieven | Het aantal in het huidige verslagjaar ontvangen brieven, al dan niet verstuurd via een vertegenwoordiger, van cliënten. |
-|   |   | Aantal brieven – contactonderwerpen | In het huidig verslagjaar ontvangen brieven, al dan niet verstuurd via een vertegenwoordiger, van cliënten, worden de belangrijkste vijf contactonderwerpen getoond. |
-|   | KC1517 | Gemiddelde beantwoordingstermijn | De gemiddelde termijn waarbinnen op informatieverzoeken van burgers, al dan niet verstuurd via een vertegenwoordiger, (onderverdeeld naar telefonisch, schriftelijk of via e-mail) in het verslagjaar wordt gereageerd. |
-|   | KC1518 | Aantal klachten | Het aantal in het huidig verslagjaar ontvangen klachten. |
-|   |   | Aantal klachten – redenen | Over de in het huidig verslagjaar ontvangen klachten worden de belangrijkste vijf redenen getoond. |
-|   | KC1519 | Aantal interventies Nationale ombudsman | Het aantal in het huidig verslagjaar binnengekomen interventies. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1603 | Afgeboekte oninbare eigen bijdragen – redenen | Over het huidig verslagjaar worden de belangrijkste vijf redenen getoond. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1604b | Restituties ontvangen eigen bijdragen in € 1.000 | Het in het huidig verslagjaar gerestitueerde bedrag van de rekeningen, dat betrekking heeft op ontvangen eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) afgerond op € 1.000. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1604c | Aantal uitgevoerde restituties | Het aantal in het huidig verslagjaar uitgevoerde restituties. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1609a | Totaal aantal bijdrageplichtigen Met uitsplitsing naar: – Wmo 2015 2019 – Wmo 2020 – Wmo beschermd wonen | Het aantal bijdrageplichtigen die aangeleverd zijn bij het CAK en zorg hebben afgenomen in het zorgjaar. Weergegeven voor cliënten Wmo en cliënten Wmo beschermd wonen. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1609b | Doorlooptijd van startdatum aanvang zorg tot eerste factuur Met uitsplitsing naar: – Wmo 2015 2019 – Wmo 2020 – Wmo beschermd wonen | De gemiddelde doorlooptijd van startdatum aanvang zorg tot eerste factuur gedurende het huidige verslagjaar. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1609c | Doorlooptijd van einde zorg als gevolg van overlijden tot laatste factuur Met uitsplitsing naar: – Wmo 2015 2019 – Wmo 2020 – Wmo beschermd wonen | De gemiddelde doorlooptijd van datum einde zorg als gevolg van overlijden tot de laatste factuur gedurende het huidige verslagjaar. |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1610 | Aantal bezwaarschriften | Het aantal in het huidig verslagjaar ontvangen bezwaarschriften gesplitst naar status (ontvangen, afgehandeld, onderhanden). |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1611 | Aantal bezwaarschriften – redenen | top 5 oorzaken van gegronde en deels gegronde bezwaren |
-| Eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) 1 | KC1611 | Percentage bezwaarschriften ten opzichte van totaal aantal verstuurde facturen | Het aantal ontvangen bezwaren als percentage van het totaal aantal facturen dat per jaar wordt verstuurd. |
-|   | KC1612 | Aantal beroepzaken | Het aantal in het huidig verslagjaar ontvangen (hoger) beroepen, gesplitst naar status (ontvangen, zelf ingesteld, afgehandeld, gegrond, ongegrond). |
-|   | KC1613 | Aantal calls | Het aantal in het huidig verslagjaar bij het CAK binnengekomen calls. (exclusief geannuleerde calls in de wachtrij). |
-|   |   | Aantal calls – redenen | Over de in het huidig verslagjaar beantwoorde calls worden de belangrijkste vijf redenen getoond. |
-|   | KC1614 | Aantal e-mails | Het aantal in het huidige verslagjaar (via het webformulier) ontvangen e-mails, al dan niet verstuurd via een vertegenwoordiger, van cliënten. |
-|   |   | Aantal e-mails – contactonderwerpen | Over de in het huidig verslagjaar (via het webformulier) ontvangen e-mails, al dan niet verstuurd via een vertegenwoordiger, van cliënten, worden de belangrijkste vijf contactonderwerpen getoond. |
-|   | KC1615 | Aantal brieven | Het aantal in het huidige verslagjaar ontvangen brieven, al dan niet verstuurd via een vertegenwoordiger, van cliënten in het huidig verslagjaar. |
-|   |   | Aantal brieven – contactonderwerpen | Over de in het huidig verslagjaar ontvangen brieven, al dan niet verstuurd via een vertegenwoordiger, van cliënten, worden de belangrijkste vijf contactmomenten getoond. |
-|   | KC1616 | Gemiddelde beantwoordingstermijn | De gemiddelde termijn waarbinnen op informatieverzoeken van burgers, al dan niet via een vertegenwoordiger, (onderverdeeld naar telefonisch, schriftelijk of via e-mail) in het verslagjaar wordt gereageerd. |
-|   | KC1617 | Aantal klachten | Het aantal in het huidig verslagjaar binnengekomen klachten. |
-|   |   | Aantal klachten – redenen | top 5 oorzaken van gegronde en deels gegronde klachten |
-|   | KC1618 | Aantal interventies Nationale ombudsman | Het aantal in het huidig verslagjaar binnengekomen interventies. |
-
-1 De kengetallen over de financiële afhandeling van de eigen bijdrage [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) betreffen de eigen bijdragen Wmo 2015-2019, Wmo beschermd wonen en Wmo 2020. Het CAK maakt een splitsing voor deze kengetallen in de bestuurlijke verantwoording en licht de splitsing ook toe. Kengetallen van PC1401 tot en met PC1410 betreffen sec de kengetallen de uitvoering van de Wmo 2020.
-
-| Categorie | Prestatie-indicator | Omschrijving | Definitie |
-| --- | --- | --- | --- |
-| Financiering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1101 | Percentage eenmalige betalingsopdrachten uitgevoerd binnen drie weken na ontvangst van de opdracht door het CAK | Het verschil tussen het totaal aantal betalingsopdrachten en het aantal later dan drie weken na ontvangstdatum door het CAK uitgevoerde betalingsopdrachten gedeeld door het totaal aantal betalingsopdrachten. Norm voor verslagjaar 2022: 99% |
-| Financiering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1102 | Percentage voorschotbetalingen uitgevoerd binnen vijf weken (dan wel de opgedragen termijn) na ontvangst van de opdracht door het CAK | Het verschil tussen het totaal aantal voorschotbetalingsopdrachten en het aantal later dan vijf weken na ontvangstdatum door het CAK uitgevoerde voorschotbetalingen gedeeld door het totaal aantal ontvangen voorschotbetalingsopdrachten. Norm voor verslagjaar 2022: 99% |
-| Financiering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1103 | Juistheid uitgevoerde betaalopdrachten | Eenmalige betaalopdrachten en voorschotwijzigingen dienen juist en volledig uitgevoerd te worden, zijnde 1% goedkeuringstolerantie van het totaal aan mutaties in rekening-courant met het Zorginstituut. Norm voor verslagjaar 2022: 99% |
-| Eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1201 | Gemiddelde facturatietermijn | Gemiddeld aantal dagen tussen het bekend worden van alle gegevens en het aanmaken van de factuur aan de cliënt (nieuwe en bestaande cliënt in het huidig verslagjaar). Norm voor verslagjaar 2022: <6 weken |
-| Eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1202 | Percentage gefactureerd binnen acht weken na ontvangst van alle gegevens | Het percentage van de facturen dat binnen acht weken wordt verzonden na het aanmaken van de beschikking (voor cliënten met nieuwe opnamegegevens) in het huidig verslagjaar. Norm voor verslagjaar 2022: 97,5% |
-| Eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1203 | Percentage klachten in relatie tot totaal aantal cliënten | Het aantal klachten als percentage van het totaal aantal cliënten. Norm voor verslagjaar 2022: < 1%. |
-| Eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1204 | Telefonische bereikbaarheid | Het aantal beantwoorde calls als percentage van het aantal bij het CAK binnengekomen calls in het huidig verslagjaar. Norm voor verslagjaar 2022: 90% |
-| Eigen bijdragen [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) | PC1205 | Gemiddelde antwoordsnelheid calls | De gemiddelde antwoordsnelheid in percentage van alle beantwoorde calls in het huidige verslagjaar. Norm voor verslagjaar 2022: < 90 seconden |
-| Eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1301 | Gemiddelde facturatietermijn Met uitsplitsing naar: – Wmo 2015 2019) – Wmo 2020 – Wmo beschermd wonen | Het gemiddelde aantal dagen tussen het bekend worden van alle gegevens en het aanmaken van de factuur aan de cliënt (nieuwe en bestaande cliënt) in het huidig verslagjaar. Norm voor verslagjaar 2022: < 6 weken. |
-| Eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1302 | Percentage gefactureerd binnen acht weken na ontvangst van alle gegevens Met uitsplitsing naar: – Wmo 2015 2019 – Wmo 2020 – Wmo beschermd wonen | Het percentage van de facturen dat binnen acht weken wordt verzonden na het bekend worden van alle gegevens in het huidig verslagjaar (voor nieuwe en bestaande cliënten). Norm voor verslagjaar 2022: 97,5% |
-| Eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1303 | Percentage klachten in relatie tot totaal aantal cliënten | aantal klachten uitdrukken in een percentage van het aantal cliënten Norm voor verslagjaar 2022: < 1% |
-| Eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1304 | Telefonische bereikbaarheid | Percentage van het aantal beantwoorde calls ten opzichte van het aantal bij het CAK binnengekomen calls in het huidig verslagjaar. Norm voor verslagjaar 2022: 80% |
-| Eigen bijdragen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1305 | Gemiddelde antwoordsnelheid calls | De gemiddelde antwoordsnelheid in seconden van alle beantwoorde calls in het huidige verslagjaar. Norm voor verslagjaar 2022: < 90 seconden |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1401 | gemiddelde verwerkingstermijn berichten vanuit gemeenten Met uitsplitsing: 401 (nieuwe cliënten) 402 (startbericht) 403 (stopbericht) | Gemiddelde doorlooptijd vanaf aanmaak startbericht tot en met beschikking aangemaakt. Norm = 5 werkdagen |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1402 | gemiddelde verwerkingstermijn opgelegde beschikkingen | Gemiddelde doorlooptijd vanaf aanmaak startbericht tot en met beschikking verzonden. Norm = 5 werkdagen na verwerken start/stop bericht gemeente |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1403 | Aantal verzonden facturen binnen doorlooptijd, of gemiddelde verwerkingstermijn facturen | Over het verslagjaar wordt het aantal verzonden facturen weergegeven |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1404 | Percentage geïnde facturen | over het verslagjaar wordt het percentage geïnde facturen weergegeven |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1405 | Percentage afdrachten gemeente per periode | Percentage van de afdrachten aan Gemeenten per periode. Norm is 100% |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1406 | Percentage ontvangen klachten t.o.v. aantal cliënten | aantal klachten uitdrukken in een percentage van het aantal cliënten |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1407 | Doorlooptijd afhandelen klachten, bezwaren en beroepen | Over het verslagjaar wordt de doorlooptijd van de afhandeling van de klachten, bezwaren en beroepen weergegeven. Norm = wettelijk bepaald, m.u.v. van beroepen (geen wettelijke termijnen bepaald). Met uitsplitsing in: Doorlooptijd klachten Doorlooptijd bezwaren Doorlooptijd beroepen |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1408 | Top 5 oorzaken klachten | Over het verslagjaar wordt de top 5 van de oorzaak van de ontvangen klachten weergegeven. |
-| Eigen bijdragen [Wmo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) | PC1409 | Percentage cliënten waarvoor 1 factuur per maand wordt verzonden. | Het percentage cliënten met 1 verzonden factuur t.o.v. het totaal aantal cliënten dat 1 of meer facturen ontvangt. |
-
-## Bijlage 5. Verantwoording uitvoering hersteloperatie kinderopvangtoeslag
-
-Op 18 januari 2021 is door de Staatssecretaris van Financiën – Toeslagen en Douane in een brief aan de Tweede Kamer (2021Z0896) de gewenste aanpak voor gedupeerde ouders binnen de hersteloperatie kinderopvangtoeslag (KOT) beschreven. In relatie tot de aanpak van de schuldenproblematiek is aangegeven dat alle openstaande schulden, die gedupeerde ouders op dat moment van uitbetalen van de herstelbetaling bij de Belastingdienst hebben, worden kwijtgescholden. Ook andere publieke schuldeisers waaronder het CAK schelden de betreffende schulden van deze gedupeerden kwijt.
-
-De kwijtschelding van openstaande schulden heeft wettelijke grondslag gekregen met implementatie van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) op 2 november 2022, met terugwerkende kracht vanaf 1 juni 2021.
-
-Voor het CAK speelt kwijtschelding bij de volgende regelingen in dit model:
-
-Binnen het proces van de hersteloperatie moeten een aantal stappen worden doorlopen. De gemaakte afspraken hierover tussen het Ministerie van VWS en het CAK zijn beschreven in de brief van 23 februari 2021 (1833099-218853-Z), in de brief van 6 mei 2021 (2352044-10076900) alsook in latere brieven en opdrachtmails die door de directeur Zorgverzekeringen van het Ministerie van VWS of een gemandateerd MT-lid zijn verzonden aan de Raad van Bestuur van het CAK. In onderstaand overzicht zijn de afspraken opgenomen.
-
-### Het pauzeren en kwijtschelden van schulden
-
-### Pauzering
-
-Concreet betekent pauzering dat het CAK voorlopig de reguliere incasso-inspanningen opschort van de invorderingen van alle openstaande facturen met zorg(regels) die zien op zorg van vóór 1 januari 2021 voor de eigen bijdrage [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) van de door de Belastingdienst aangegeven lijst(en) met (mogelijk) gedupeerden. Dit houdt in dat het CAK voor deze groep, tot dat nadere berichtgeving van de Belastingdienst is ontvangen, niet meer handelt naar het reguliere proces volgens het incassoprotocol van het CAK en daarom geen aanmaningen stuurt en ook het traject bij de gecontracteerde deurwaarders laat pauzeren. In eerste instantie heeft het Ministerie van VWS op 23 februari 2021 schriftelijk aan het CAK gevraagd om schulden van de betreffende (mogelijk) gedupeerden op te schorten (1833099-218853-Z). De invordering van schulden van zelfmelders bij de Belastingdienst blijft opgeschort totdat het CAK van de Belastingdienst/Toeslagen bericht heeft ontvangen:
-
-### Kwijtschelden
-
-Met de brief van 6 mei 2021 is schriftelijk door het Ministerie van VWS aan het CAK de opdracht gegeven om schulden kwijt te schelden17Schulden die voortvloeien uit ernstig misbruik blijven hiervan uitgezonderd. bij gedupeerden waarvan de Belastingdienst/Toeslagen heeft vastgesteld dat deze hiervoor in aanmerking komen.
-
-### Toelichting kwijtschelding
-
-Openstaande vorderingen van gedupeerden bij het CAK worden kwijtgescholden tot en met 31 december 2020, nadat de Belastingdienst/Toeslagen heeft vastgesteld dat de betreffende gedupeerde hiervoor in aanmerking komt. Voor de eigen bijdrage regelingen [Wmo](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) houdt dit in alle facturen met zorg(regels) die zien op zorg vóór 1 januari 2021.
-
-Het kwijtschelden van de betreffende schulden betekent ook dat de bedragen die vanaf 1 januari 2021 zijn betaald voor de betreffende schulden in aanmerking komen voor kwijtschelding (restitutie).
-
-### Bestuurlijke verantwoording
-
-In de bestuurlijke verantwoording 2022 verantwoord het CAK zich over de uitvoering van de hersteloperatie KOT in de andere informatie.
-
-### Verantwoording over het uitvoeringsproces hersteloperatie KOT
-
-Het Ministerie van VWS vraagt aan het CAK om zich in de bestuurlijke verantwoording in de andere informatie te verantwoorden over of zij de uitvoering van de hersteloperatie KOT heeft uitgevoerd zoals gevraagd door het Ministerie van VWS in haar brieven en mails tot aan de inwerkingtreding van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) op 2 november 2022. Hierbij is van belang dat het CAK aangeeft of deze uitvoering er volgens het CAK toe heeft geleid dat in 2022 schulden van (mogelijk) gedupeerden, op basis van de aangeleverde gegevens door de Belastingdienst, zijn gepauzeerd en/of kwijtgescholden en/of onverschuldigde betalingen zijn terugbetaald. Alsook dat het CAK zorgvuldig is omgegaan met (persoons)gegevens. Van belang is dat de door het Ministerie van VWS aan het CAK gevraagde afwikkeling voor de betreffende (mogelijk) gedupeerden goed is verlopen. Het is aan de Belastingdienst om te bepalen voor welke (mogelijk) gedupeerden pauzering en/of kwijtschelding van toepassing is. Voor de door de Belastingdienst aangeleverde gegevens geldt de zogenaamde ‘gebruikersverantwoordelijkheid’.
-
-Het CAK besteedt in haar bestuurlijke verantwoording minimaal aandacht aan de uitvoering van de volgende onderdelen:
-
-Voor de hiervoor beschreven onderdelen geeft het CAK aan hoe zij een correcte uitvoering heeft geborgd. Het CAK beschrijft de interne beheersingsmaatregelen die het CAK heeft getroffen ter waarborging de juiste en volledige verwerking in de (financiële) administratie van de door de Belastingdienst aangegeven lijst(en) met (mogelijk) gedupeerden volgens het stappenplan van de hersteloperatieprocedures zoals beschreven in de voorgenoemde opdrachtbrieven en mails van het Ministerie van VWS tot het moment van de inwerkingtreding van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
-
-### Verantwoording over de omvang van de hersteloperatie KOT
-
-Daarnaast wordt het CAK gevraagd om in de bestuurlijke verantwoording 2022 bij de andere informatie te verantwoorden wat de omvang per 31 december 2022 is van:
-
-Ook moet het CAK bij deze verantwoording van aantallen en bedragen voor pauzeren of kwijtschelden primair zelf een aansluiting hebben gemaakt, waaruit aantoonbaar blijkt dat de uitgevoerde (financiële) handelingen voor de herstelacties van de KOT terug te herleiden zijn naar de opdrachtbrieven en mails van het Ministerie van VWS tot het moment van inwerkingtreding van de wetswijziging en de daar bijhorende door de Belastingdienst aangegeven lijst(en) van (mogelijk) gedupeerden met betrekking tot de herstelactieprocedures van de KOT voor wat betreft het pauzeren en/of kwijtschelden. Vanaf 2 november vormt de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) de wettelijke grondslag met terugwerkende kracht tot 1 juni 2021 voor de uitgevoerde (financiële handelingen).
-
-Het CAK moet zelf ook een beoordeling doen in het verlengde van haar uitvoeringstaken die aantoont dat de door de Belastingdienst aangegeven lijst(en) tot een juiste en volledige verwerking in de (financiële) administratie en bestuurlijke verantwoording hebben geleid. Het CAK verantwoordt zich hierover in de bestuurlijke verantwoording 2022. De externe accountant rapporteert vervolgens conform NVCOS 720 voorschriften, dit is verder uitgewerkt in het protocol.
-
-### Kwijtscheldingsgrondslag
-
-Om kwijtschelding mogelijk te maken is er een kwijtscheldingsgrondslag opgenomen in de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) ([artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.10)), die in werking is getreden op 2 november 2022 en terugwerkt tot en met 1 juni 2021 ([artikel 9.2, lid 1g](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=9.2)). Voor 2022 handelt het CAK tot het moment van inwerkingtreding van de Wet hersteloperaties toeslagen in opdracht van het Ministerie van VWS, daarna overeenkomstig de wet. Inzake de opdrachtverstrekking door het Ministerie van VWS in 2021 is de Tweede Kamer, voordat de eerste kwijtschelding door het CAK werd uitgevoerd, geïnformeerd.
-
-De [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436) is onderdeel van het rechtmatigheidskader van ‘[Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048001&bijlage=2&z=2023-03-28&g=2023-03-28). Algemene wet- en regelgeving’.

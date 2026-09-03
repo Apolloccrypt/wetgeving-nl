@@ -1,66 +1,34 @@
 ---
 title: "Besluit van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB) van 15 februari 2023 tot instelling van de Raad van Advies van de TloKB"
+citeertitel: "Instellingsbesluit Raad van Advies TloKB"
 identifier: "BWBR0048032"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-04-05"
-last_updated: "2023-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048032"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16717583"
-version_id: "29325042"
-internal_id: "C41768421"
-label_id: "16634264"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048032/2023-04-05/0"
-intitule_bron: "Stcrt.2023-9917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-15"
-intitule_published: "2023-04-04"
-intitule_in_force: "2023-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-9917"
-original_signed_date: "2023-02-15"
-original_published_date: "2023-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-9917"
-entry_into_force_date: "2023-04-05"
-jci_1_3: "jci1.3:c:BWBR0048032&z=2023-04-05&g=2023-04-05"
-jci_1_0: "1.0:c:BWBR0048032&g=2023-04-05"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies TloKB"
-signed_date: "2023-02-15"
-entry_into_force: "2023-04-05"
+publicatiedatum: 2023-04-05
+laatste_update: 2023-04-05
+status: geldig
+toestand: 2023-04-05
+bron: "https://wetten.overheid.nl/BWBR0048032"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB) van 15 februari 2023 tot instelling van de Raad van Advies van de TloKB
-
-**besluit**
-
-tot instelling van de Raad van Advies van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB). (Instellingsbesluit Raad van Advies TloKB)
-
-Gelet op:
-
-[artikel 19, lid 2, Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19);
-
-[bestuursreglement TloKB](https://wetten.overheid.nl/jci1.3:c:BWBR0047074).
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a). **de minister:** de Minister voor Volkshuisvesting en Ruimtelijke Ordening (VRO);
+- a) *de minister:* de Minister voor Volkshuisvesting en Ruimtelijke Ordening (VRO);
 
-- b). **de TloKB:** de Toelatingsorganisatie Kwaliteitsborging Bouw;
+- b) *de TloKB:* de Toelatingsorganisatie Kwaliteitsborging Bouw;
 
-- c). **het Bestuur:** het Bestuur van de TloKB;
+- c) *het Bestuur:* het Bestuur van de TloKB;
 
-- d). **de Directeur:** de directeur-secretaris van de TloKB;
+- d) *de Directeur:* de directeur-secretaris van de TloKB;
 
-- e). **de Raad:** de Raad van Advies, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=2&z=2023-04-05&g=2023-04-05);
+- e) *de Raad:* de Raad van Advies, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=2&z=2023-04-05&g=2023-04-05);
 
-- f). **het stelsel van kwaliteitsborging:** de stelsels van kwaliteitsborging in de bouw, erkende kwaliteitsverklaringen en van werkzaamheden aan gasverbrandingsinstallaties, ten aanzien waarvan de TloKB bevoegdheden heeft.
+- f) *het stelsel van kwaliteitsborging:* de stelsels van kwaliteitsborging in de bouw, erkende kwaliteitsverklaringen en van werkzaamheden aan gasverbrandingsinstallaties, ten aanzien waarvan de TloKB bevoegdheden heeft.
 
 ##### Artikel 2. De Raad van Advies
 
@@ -72,9 +40,9 @@ Er is een Raad van Advies (verder te noemen ‘de Raad’) voor de TloKB.
 
 De adviezen gaan inhoudelijk over:
 
-- a). de werking van het stelsel van kwaliteitsborging;
+- a) de werking van het stelsel van kwaliteitsborging;
 
-- b). uitvoering van haar taken door de TloKB als organisatie.
+- b) uitvoering van haar taken door de TloKB als organisatie.
 
 2. De Raad brengt gevraagd en ongevraagd, schriftelijk of mondeling, advies uit aan het Bestuur over hetgeen genoemd in lid 1. De TloKB neemt de adviezen van de Raad, voorzien van een appreciatie, op in het jaarverslag.
 
@@ -120,13 +88,13 @@ De Raad bestaat uit tenminste vijf (5) leden en ten hoogste twaalf (12) leden, w
 
 Het lidmaatschap van de Raad eindigt:
 
-- a). op eigen schriftelijk verzoek;
+- a) op eigen schriftelijk verzoek;
 
-- b). wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=5&z=2023-04-05&g=2023-04-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=6&z=2023-04-05&g=2023-04-05);
+- b) wegens het eindigen van de termijn van 4 jaren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=5&z=2023-04-05&g=2023-04-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048032&artikel=6&z=2023-04-05&g=2023-04-05);
 
-- c). wegens overlijden;
+- c) wegens overlijden;
 
-- d). indien het lid door het Bestuur wordt ontslagen.
+- d) indien het lid door het Bestuur wordt ontslagen.
 
 ##### Artikel 8. Reglement
 
@@ -136,11 +104,11 @@ Het lidmaatschap van de Raad eindigt:
 
 3. In het reglement worden in ieder geval de volgende onderdelen geregeld:
 
-- a). de vergaderingen en besluitvorming van de Raad;
+- a) de vergaderingen en besluitvorming van de Raad;
 
-- b). wijzigingen in het reglement;
+- b) wijzigingen in het reglement;
 
-- c). geheimhouding.
+- c) geheimhouding.
 
 ##### Artikel 9. Vergaderingen van de Raad
 
@@ -166,7 +134,7 @@ Het secretariaat van de Raad wordt verzorgd door de Dienst TloKB. Het personeel 
 
 ##### Artikel 12. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023. Op www.officielebekendmakingen.nl vindt u de officiële publicaties van het besluit.
+Deze regeling treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023. Op www.officielebekendmakingen.nl vindt u de officiële publicaties van het besluit.
 
 ##### Artikel 13. Titel
 

@@ -1,48 +1,18 @@
 ---
 title: "Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)"
+citeertitel: "Beleidsregel afwikkelbaarheid verzekeraars 2023"
 identifier: "BWBR0048033"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-04-06"
-last_updated: "2023-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048033"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "16717793"
-version_id: "29325342"
-internal_id: "C41768941"
-label_id: "16634494"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048033/2023-04-06/0"
-intitule_bron: "Stcrt.2023-10174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-27"
-intitule_published: "2023-04-05"
-intitule_in_force: "2023-04-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-10174"
-original_signed_date: "2023-03-27"
-original_published_date: "2023-04-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-10174"
-entry_into_force_date: "2023-04-06"
-jci_1_3: "jci1.3:c:BWBR0048033&z=2023-04-06&g=2023-04-06"
-jci_1_0: "1.0:c:BWBR0048033&g=2023-04-06"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel afwikkelbaarheid verzekeraars 2023"
-signed_date: "2023-03-27"
-entry_into_force: "2023-04-06"
+publicatiedatum: 2023-04-06
+laatste_update: 2023-04-06
+status: geldig
+toestand: 2023-04-06
+bron: "https://wetten.overheid.nl/BWBR0048033"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)
-
-Gelet op de [artikelen 3a:77](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:77), [3a:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:78), [3a:81 eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:81), [3a:82](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:82), [3a:83](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:83), [3a:85 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:85), [3a:86](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:86), [3a:89](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89), [3a:90](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:90) en [3a:91 eerste en tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:91) (‘**Wft**’)
-
-Gelet op [artikel 6 van het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=6) (‘**Bbpm**’)
-
-Na consultatie van de verzekeraars en groepen waarvoor DNB afwikkelingsplannen opstelt, betrokken representatieve organisaties en het bredere publiek.
-
-Besluit:
 
 #### § 1. Definities
 
@@ -52,19 +22,19 @@ De begrippen in deze beleidsregel hebben dezelfde betekenis als in [hoofdstuk 3a
 
 Daarnaast wordt in deze beleidsregel verstaan onder:
 
-- a. **DNB:** De Nederlandsche Bank N.V.
+- a. *DNB:* De Nederlandsche Bank N.V.
 
-- b. **governancesysteem:** governancesysteem als bedoeld in Hoofdstuk IX van de (Solvency II) Gedelegeerde [verordening (EU) 2015/35](31935R2015) van de Commissie van 10 oktober 2014.
+- b. *governancesysteem:* governancesysteem als bedoeld in Hoofdstuk IX van de (Solvency II) Gedelegeerde verordening (EU) 2015/35 van de Commissie van 10 oktober 2014.
 
-- c. **kritieke diensten:** diensten die noodzakelijk zijn voor de uitoefening van de verzekeringsactiviteiten van de verzekeraar of groep en die niet binnen een redelijke termijn door een andere dienstverlener kunnen worden verstrekt.
+- c. *kritieke diensten:* diensten die noodzakelijk zijn voor de uitoefening van de verzekeringsactiviteiten van de verzekeraar of groep en die niet binnen een redelijke termijn door een andere dienstverlener kunnen worden verstrekt.
 
-- d. **management informatiesystemen (of ‘MIS’):** het geheel van processen en systemen, opgezet en onderhouden door of in opdracht van de verzekeraar of groep, voor de organisatie, aggregatie en levering van informatie die nodig is ter ondersteuning van beslissingen binnen een verzekeraar of groep.
+- d. *management informatiesystemen (of ‘MIS’):* het geheel van processen en systemen, opgezet en onderhouden door of in opdracht van de verzekeraar of groep, voor de organisatie, aggregatie en levering van informatie die nodig is ter ondersteuning van beslissingen binnen een verzekeraar of groep.
 
-- e. **Resolutierapportage (of ‘ReRap’):** een informatieverzoek dat DNB, ten behoeve van het opstellen van afwikkelingsplannen, deelt met verzekeraars en groepen waar zij resolutieplanning voor uitvoert en die de verzekeraars of groepen ingevuld retourneren.
+- e. *Resolutierapportage (of ‘ReRap’):* een informatieverzoek dat DNB, ten behoeve van het opstellen van afwikkelingsplannen, deelt met verzekeraars en groepen waar zij resolutieplanning voor uitvoert en die de verzekeraars of groepen ingevuld retourneren.
 
-- f. **verzekeraar:** een verzekeraar als bedoeld in [artikel 3a:78, onder a, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:78).
+- f. *verzekeraar:* een verzekeraar als bedoeld in [artikel 3a:78, onder a, Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:78).
 
-- g. **verzekeringsactiviteiten:** het verschaffen van risicodekking en het uitkeren van polisgelden aan polishouders, verzekerden en begunstigden.
+- g. *verzekeringsactiviteiten:* het verschaffen van risicodekking en het uitkeren van polisgelden aan polishouders, verzekerden en begunstigden.
 
 ##### Artikel 2. Reikwijdte
 
@@ -94,15 +64,15 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - e. beschikt over procedures die waarborgen dat resolutieplanning- en afwikkelbaarheid bij strategische besluiten in ogenschouw worden genomen. Als strategisch besluit wordt in ieder geval aangemerkt een materiële wijziging in:
 
-- i. de juridische structuur;
+   - i. de juridische structuur;
 
-- ii. het operationele businessmodel;
+   - ii. het operationele businessmodel;
 
-- iii. de IT-structuur en managementinformatiesystemen;
+   - iii. de IT-structuur en managementinformatiesystemen;
 
-- iv. de interne governanceregelingen en ondersteunende processen; en
+   - iv. de interne governanceregelingen en ondersteunende processen; en
 
-- v. het risico- en kapitaalmanagement.
+   - v. het risico- en kapitaalmanagement.
 
 - f. verantwoordelijkheden, rapportagelijnen, escalatieprocedures richting het bestuur en (hoger) management en goedkeuringsprocessen als bedoeld in onderdeel d, en procedures als bedoeld in onderdeel e, binnen het governancesysteem van de verzekeraar of groep helder heeft vastgelegd.
 
@@ -194,6 +164,4 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 
 ##### Artikel 12. Citeertitel
 
-Deze beleidsregel wordt aangehaald als: **Beleidsregel afwikkelbaarheid verzekeraars 2023**.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregel wordt aangehaald als: *Beleidsregel afwikkelbaarheid verzekeraars 2023*.

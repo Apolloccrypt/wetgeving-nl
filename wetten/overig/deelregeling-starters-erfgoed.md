@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling starters erfgoed"
 identifier: "BWBR0047812"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-01-25"
-last_updated: "2023-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047812"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16658703"
-version_id: "29217262"
-internal_id: "C41512551"
-label_id: "16576634"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047812/2023-01-25/0"
-intitule_bron: "Stcrt.2023-2970"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-01-24"
-intitule_in_force: "2023-01-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-2970"
-original_published_date: "2023-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-2970"
-entry_into_force_date: "2023-01-25"
-jci_1_3: "jci1.3:c:BWBR0047812&z=2023-01-25&g=2023-01-25"
-jci_1_0: "1.0:c:BWBR0047812&g=2023-01-25"
-citeertitel_status: "officieel"
-entry_into_force: "2023-01-25"
+publicatiedatum: 2023-01-25
+laatste_update: 2023-01-25
+status: geldig
+toestand: 2023-01-25
+bron: "https://wetten.overheid.nl/BWBR0047812"
+opgehaald: 2026-09-03
 ---
+
 # Deelregeling starters erfgoed
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -64,13 +41,13 @@ Een bijdrage kan worden verstrekt voor het in dienst nemen van een starter die m
 
 Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
-- –. een kenschets van de instelling;
+- – een kenschets van de instelling;
 
-- –. een motivatie waarin aannemelijk wordt gemaakt dat de aangevraagde bijdrage wordt gebruikt om de starter relevante werkervaring op te laten doen;
+- – een motivatie waarin aannemelijk wordt gemaakt dat de aangevraagde bijdrage wordt gebruikt om de starter relevante werkervaring op te laten doen;
 
-- –. een functieprofiel;
+- – een functieprofiel;
 
-- –. indien de instelling een medewerker op het oog heeft een c.v. van de starter.
+- – indien de instelling een medewerker op het oog heeft een c.v. van de starter.
 
 ##### Artikel 6. Beoordeling
 
@@ -82,11 +59,11 @@ Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformul
 
 4. Bij de beoordeling van een aanvraag voor de Deelregeling starters erfgoed worden onderstaande aspecten gehanteerd:
 
-- –. de wijze waarop de starter de mogelijkheid wordt geboden om relevante werkervaring op te doen;
+- – de wijze waarop de starter de mogelijkheid wordt geboden om relevante werkervaring op te doen;
 
-- –. het belang en de reputatie van de aanvragende instelling;
+- – het belang en de reputatie van de aanvragende instelling;
 
-- –. het belang van de functie voor de starter waarvoor de aanvraag wordt ingediend.
+- – het belang van de functie voor de starter waarvoor de aanvraag wordt ingediend.
 
 Positief kan meewegen als de aanstelling bijdraagt aan nieuwe inzichten of kennis toevoegt aan de organisatie.
 
@@ -116,10 +93,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 februari 2023, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 februari 2023.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 februari 2023, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 februari 2023.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling starters erfgoed.
-
-Deze regeling zal na goedkeuring door de Staatssecretaris van Cultuur en Media in de Staatscourant worden geplaatst.

@@ -1,53 +1,27 @@
 ---
 title: "Tournee- en promotieregeling"
 identifier: "BWBR0047669"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-12-23"
-last_updated: "2022-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047669"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16606143"
-version_id: "29124802"
-internal_id: "C41392661"
-label_id: "16524764"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047669/2022-12-23/0"
-intitule_bron: "Stcrt.2022-34746"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-28"
-intitule_published: "2022-12-22"
-intitule_in_force: "2022-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34746"
-original_signed_date: "2022-11-28"
-original_published_date: "2022-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34746"
-entry_into_force_date: "2022-12-23"
-jci_1_3: "jci1.3:c:BWBR0047669&z=2022-12-23&g=2022-12-23"
-jci_1_0: "1.0:c:BWBR0047669&g=2022-12-23"
-citeertitel_status: "officieel"
-signed_date: "2022-11-28"
-entry_into_force: "2022-12-23"
+publicatiedatum: 2022-12-23
+laatste_update: 2022-12-23
+status: geldig
+toestand: 2022-12-23
+bron: "https://wetten.overheid.nl/BWBR0047669"
+opgehaald: 2026-09-03
 ---
+
 # Tournee- en promotieregeling
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
 
 ##### Artikel 2. Doel
 
@@ -93,7 +67,7 @@ Een aanvraag kan worden gedaan voor het geven van een serie concerten of voorste
 
 1. Een bijdrage op grond van deze regeling kan slechts worden toegekend indien:
 
-- a. sprake is van een serie van minimaal 3 en maximaal 10 concerten of voorstellingen binnen een periode van maximaal 3 maanden;
+- a. sprake is van een serie van minimaal 3 en maximaal 10 concerten of voorstellingen binnen een periode van maximaal 3 maanden;
 
 - b. de concerten of voorstellingen plaatsvinden op podia of festivals in Nederland die in de disciplines of genres waarbinnen de podiumkunstenaar(s) opereert/opereren een relevante programmering verzorgen;
 
@@ -164,5 +138,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Tournee- en promotieregeling.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

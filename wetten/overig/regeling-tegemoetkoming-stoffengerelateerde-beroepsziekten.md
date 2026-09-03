@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, nr. 2022-0000185147, tot verlening van een tegemoetkoming aan werkenden en voormalig werkenden die lijden aan een beroepsziekte als gevolg van blootstelling aan gevaarlijke stoffen bij het verrichten van arbeid (Regeling tegemoetkoming stoffengerelateerde beroepsziekten)"
+citeertitel: "Regeling tegemoetkoming stoffengerelateerde beroepsziekten"
 identifier: "BWBR0047535"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047535"
+categorie: "Arbeidsrecht"
 soort: "ministeriele-regeling"
-stam_id: "16578413"
-version_id: "29068702"
-internal_id: "C41320411"
-label_id: "16498304"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047535/2026-01-01/0"
-intitule_bron: "Stcrt.2022-31978"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-25"
-intitule_published: "2022-11-29"
-intitule_in_force: "2022-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-31978"
-original_signed_date: "2022-11-25"
-original_published_date: "2022-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-31978"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047535&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0047535&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tegemoetkoming stoffengerelateerde beroepsziekten"
-signed_date: "2022-11-25"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0047535"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, nr. 2022-0000185147, tot verlening van een tegemoetkoming aan werkenden en voormalig werkenden die lijden aan een beroepsziekte als gevolg van blootstelling aan gevaarlijke stoffen bij het verrichten van arbeid (Regeling tegemoetkoming stoffengerelateerde beroepsziekten)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9), en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,47 +20,47 @@ BESLUIT:
 
 1. In deze regeling wordt verstaan onder:
 
-- –. **beroepsziekte:** een ernstige aandoening die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de bijlage;
+- – *beroepsziekte:* een ernstige aandoening die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0047535);
 
-- –. **Deskundigenpanel:** Deskundigenpanel beroepsziekten als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2026-01-01&g=2026-01-01);
+- – *Deskundigenpanel:* Deskundigenpanel beroepsziekten als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=15&z=2026-01-01&g=2026-01-01);
 
-- –. **gevaarlijke stof:** een stof die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de bijlage;
+- – *gevaarlijke stof:* een stof die vermeld is op de bij deze regeling behorende Lijst beroepsziekten, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0047535);
 
-- –. **ISBG:** stichting Instituut Slachtoffers Beroepsziekten door Gevaarlijke stoffen, gevestigd te ’s-Gravenhage;
+- – *ISBG:* stichting Instituut Slachtoffers Beroepsziekten door Gevaarlijke stoffen, gevestigd te ’s-Gravenhage;
 
-- –. **Bureau Lexces:** Bureau Landelijk Expertisecentrum Stoffengerelateerde Beroepsziekten, ondergebracht bij het Rijksinstituut voor Volksgezondheid en Milieu, gevestigd te Bilthoven;
+- – *Bureau Lexces:* Bureau Landelijk Expertisecentrum Stoffengerelateerde Beroepsziekten, ondergebracht bij het Rijksinstituut voor Volksgezondheid en Milieu, gevestigd te Bilthoven;
 
-- –. **minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- – *minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- –. **nabestaanden:**
+- – *nabestaanden:*
 
-- a. de langstlevende van de echtgenoten;
+   - a. de langstlevende van de echtgenoten;
 
-- b. bij ontstentenis van de onder a bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
+   - b. bij ontstentenis van de onder a bedoelde persoon, de minderjarige kinderen, tot wie de overledene in familierechtelijke betrekking stond;
 
-- c. bij ontstentenis van de onder a en b bedoelde personen, de personen met wie de overledene in gezinsverband leefde;
+   - c. bij ontstentenis van de onder a en b bedoelde personen, de personen met wie de overledene in gezinsverband leefde;
 
-- d. bij ontstentenis van de onder a, b en c bedoelde personen, de erfgenamen, bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
+   - d. bij ontstentenis van de onder a, b en c bedoelde personen, de erfgenamen, bedoeld in [Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761), mits een verklaring van erfrecht wordt overgelegd;
 
-- –. **opdrachtgever:** natuurlijke persoon of rechtspersoon voor wie de zelfstandige zonder personeel arbeid in Nederland verricht of heeft verricht krachtens een overeenkomst, waarop Nederlands recht van toepassing is of was, niet zijnde een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
+- – *opdrachtgever:* natuurlijke persoon of rechtspersoon voor wie de zelfstandige zonder personeel arbeid in Nederland verricht of heeft verricht krachtens een overeenkomst, waarop Nederlands recht van toepassing is of was, niet zijnde een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610);
 
-- –. **SVB:** Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- – *SVB:* Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- –. **uitkeringslasten:** de kosten van het aantal tegemoetkomingen dat is uitgekeerd;
+- – *uitkeringslasten:* de kosten van het aantal tegemoetkomingen dat is uitgekeerd;
 
-- –. **uitvoeringskosten:**
+- – *uitvoeringskosten:*
 
-- a. kosten die door de SVB zijn gemaakt bij het uitvoeren van deze regeling; en
+   - a. kosten die door de SVB zijn gemaakt bij het uitvoeren van deze regeling; en
 
-- b. vergoedingen die door de SVB aan het ISBG worden verstrekt voor de advisering ten behoeve van deze regeling;
+   - b. vergoedingen die door de SVB aan het ISBG worden verstrekt voor de advisering ten behoeve van deze regeling;
 
-- –. **werkende:** werknemer of zelfstandige zonder personeel;
+- – *werkende:* werknemer of zelfstandige zonder personeel;
 
-- –. **werkgever:** natuurlijke persoon of rechtspersoon voor wie de werknemer arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), waarop Nederlands recht van toepassing is of was;
+- – *werkgever:* natuurlijke persoon of rechtspersoon voor wie de werknemer arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), waarop Nederlands recht van toepassing is of was;
 
-- –. **werknemer:** degene die voor een natuurlijke persoon of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), waarop Nederlands recht van toepassing is of was;
+- – *werknemer:* degene die voor een natuurlijke persoon of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=610), waarop Nederlands recht van toepassing is of was;
 
-- –. **zelfstandige zonder personeel:** degene die zonder werknemer, werkgever of opdrachtgever te zijn, voor een natuurlijke persoon of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een overeenkomst, waarop Nederlands recht van toepassing is of was.
+- – *zelfstandige zonder personeel:* degene die zonder werknemer, werkgever of opdrachtgever te zijn, voor een natuurlijke persoon of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een overeenkomst, waarop Nederlands recht van toepassing is of was.
 
 2. In deze regeling wordt met echtgenoot gelijkgesteld de geregistreerde partner en de persoon die op grond van [artikel 1, derde lid, onder a, en vierde tot en met zevende lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) en de daarop berustende bepalingen, mede als zodanig wordt aangemerkt.
 
@@ -108,13 +82,13 @@ Een tegemoetkoming uit hoofde van deze regeling houdt geen erkenning van aanspra
 
 - a. het Deskundigenpanel, met inachtneming van het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten heeft beoordeeld of:
 
-- 1°. sprake is van een ernstige aandoening die ten tijde van de aanvraag voor de tegemoetkoming vermeld is op de Lijst beroepsziekten, opgenomen in de bijlage; en
+   - 1°. sprake is van een ernstige aandoening die ten tijde van de aanvraag voor de tegemoetkoming vermeld is op de Lijst beroepsziekten, opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0047535); en
 
-- 2°. voorshands aannemelijk is dat deze ernstige aandoening in het geval van de aanvrager het gevolg is van blootstelling aan één of meer gevaarlijke stoffen bij het verrichten van de arbeid; en
+   - 2°. voorshands aannemelijk is dat deze ernstige aandoening in het geval van de aanvrager het gevolg is van blootstelling aan één of meer gevaarlijke stoffen bij het verrichten van de arbeid; en
 
 - b. de werkende geen betaling in verband met deze ernstige aandoening van één of meer werkgevers of opdrachtgevers heeft ontvangen gelijk aan of hoger dan het bedrag van de tegemoetkoming, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
-2. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden op voordracht van de Adviescommissie Lijst beroepsziekten, bedoeld in het [Instellingsbesluit Adviescommissie Lijst beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047526), door de minister vastgesteld en gepubliceerd in de Staatscourant. De vindplaats in de Staatscourant van het geldende afwegingskader en de geldende protocollen worden opgenomen in de bijlage bij deze regeling.
+2. Het afwegingskader causaliteit en de bijbehorende protocollen beroepsziekten worden op voordracht van de Adviescommissie Lijst beroepsziekten, bedoeld in het [Instellingsbesluit Adviescommissie Lijst beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047526), door de minister vastgesteld en gepubliceerd in de Staatscourant. De vindplaats in de Staatscourant van het geldende afwegingskader en de geldende protocollen worden opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0047535) bij deze regeling.
 
 3. Indien de werkende na ontvangst van een tegemoetkoming tevens een betaling, van de werkgever dan wel opdrachtgever ontvangt in verband met dezelfde ernstige aandoening als waarvoor de tegemoetkoming is toegekend, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet:
 
@@ -138,7 +112,7 @@ De nabestaanden hebben, onder dezelfde voorwaarden, in plaats van de werkende re
 
 ##### Artikel 6. Hoogte tegemoetkoming. Algemeen
 
-1. De eenmalige tegemoetkoming bedraagt € 27.030.
+1. De eenmalige tegemoetkoming bedraagt € 27.030.
 
 2. Indien een of meer werkgevers of een of meer opdrachtgevers een bedrag hebben betaald aan de werkende in verband met dezelfde ernstige aandoening, of indien de werkende betalingen heeft ontvangen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=7&z=2026-01-01&g=2026-01-01), dat in totaal lager is dan het bedrag van de tegemoetkoming, wordt de hoogte van de tegemoetkoming vastgesteld op het positieve verschil tussen de ontvangen bedragen en het bedrag, genoemd in het eerste lid, ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
@@ -210,7 +184,7 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 ##### Artikel 13. Indexering van bedragen
 
-Het bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), wordt jaarlijks herzien op 1 januari. Het bedrag wordt herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
+Het bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), wordt jaarlijks herzien op 1 januari. Het bedrag wordt herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
 
 ### Hoofdstuk 5. Uitvoering en financiering
 
@@ -288,25 +262,25 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 - b. de bedragen die op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=4&artikel=12&z=2026-01-01&g=2026-01-01) zijn teruggevorderd en zijn terugbetaald.
 
-3. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen periodieke voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
+3. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen periodieke voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 ### Hoofdstuk 6. Wijziging van diverse regelingen
 
-##### Artikel 20. Wijziging [Regeling Participatiewet, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015738)
+##### Artikel 20. Wijziging Regeling Participatiewet, IOAW en IOAZ
 
-Wijzigt de Regeling Participatiewet, IOAW en IOAZ.
+*Wijzigt de Regeling Participatiewet, IOAW en IOAZ.*
 
-##### Artikel 21. Wijziging [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006)
+##### Artikel 21. Wijziging Regeling tegemoetkoming asbestslachtoffers 2014
 
-Wijzigt de Regeling tegemoetkoming asbestslachtoffers 2014.
+*Wijzigt de Regeling tegemoetkoming asbestslachtoffers 2014.*
 
-##### Artikel 22. Wijziging [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
+##### Artikel 22. Wijziging Regeling tegemoetkoming werknemers met CSE
 
-Wijzigt de Regeling tegemoetkoming werknemers met CSE.
+*Wijzigt de Regeling tegemoetkoming werknemers met CSE.*
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-##### Artikel 23. Overgangsbepaling [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
+##### Artikel 23. Overgangsbepaling Regeling tegemoetkoming werknemers met CSE
 
 [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), is niet van toepassing op een werkende wiens verzoek om toekenning van een tegemoetkoming op grond van de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193) is afgewezen uitsluitend wegens het niet voldoen aan de verplichting, genoemd in [artikel 3, eerste lid, onderdeel e, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043193&artikel=3).
 
@@ -316,49 +290,8 @@ De minister zendt binnen vijf jaar na de inwerkingtreding van deze regeling aan 
 
 ##### Artikel 25. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2023.
+Deze regeling treedt in werking met ingang van 1 januari 2023.
 
 ##### Artikel 26. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming stoffengerelateerde beroepsziekten.
-
-## Bijlage. behorende bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), en [artikel 4, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), van de Regeling tegemoetkoming stoffengerelateerde beroepsziekten
-
-|   | Ernstige aandoening | Veroorzaakt door blootstelling aan | Toegevoegd aan de lijst per | Vindplaats van het geldende protocol in de Staatscourant |
-| --- | --- | --- | --- | --- |
-| 1. | Longkanker | asbest | 1 januari 2023 | stcrt-2025-18096 |
-| 1. | Longkanker | respirabel kristallijn silica | 1 juli 2025 | stcrt-2025-18096 |
-| 2. | Allergisch beroeps-astma | allergenen | 1 januari 2023 | stcrt-2025-18099 |
-| 3. | Chronic solvent-induced encephalopathy (CSE) | Vluchtige oplosmiddelen zoals bedoeld in [artikel 4.62a van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62a). | 1 januari 2023 | stcrt-2025-18100 |
-| 4. | Neus(bijholte)kanker | houtstof | 1 juli 2025 | stcrt-2025-18101 |
-| 5. | Silicose | respirabel kristallijn silica | 1 juli 2025 | stcrt-2025-18102 |
-
-De protocollen worden beoordeeld aan de hand van het afwegingskader causaliteit dat door de Staatssecretaris is gepubliceerd in de Staatscourant van 30 mei 2025 (Stcrt. 2025-18094).
-
-Deze bijlage bevat de Lijst beroepsziekten waarvoor een tegemoetkoming op grond van de regeling kan worden gevraagd.
-
-In de komende jaren zullen geleidelijk meer beroepsziekten aan de Lijst worden toegevoegd. Hierover zal de door de Minister ingestelde Adviescommissie Lijst beroepsziekten adviseren, die wordt ondersteund door Bureau Lexces. De volgorde waarin beroepsziekten worden toegevoegd is gebaseerd op de adviezen van de Adviescommissie. In het afwegingskader causaliteit staan de kenmerken op basis waarvan nieuwe ziekten worden gekozen voor toevoeging aan de lijst.
-
-Bij de beroepsziekten die op deze lijst staan, gaat het telkens om de combinatie van een ernstige aandoening en de specifieke gevaarlijke stof of stoffen die deze aandoening veroorzaakt of veroorzaken. Zolang een beroepsziekte niet op de Lijst beroepsziekten staat, kan voor die beroepsziekte geen tegemoetkoming worden toegekend.
-
-Sommige beroepsziekten hebben in alle gevallen een grote impact, zoals longkanker. Andere beroepsziekten kunnen in meer of mindere mate een grote impact hebben of bijvoorbeeld in de loop van de tijd als de blootstelling niet wordt weggenomen een grotere impact krijgen. Als een beroepsziekte niet in alle gevallen een ernstige aandoening betreft, komt dit tot uitdrukking in de benaming in de Lijst beroepsziekten.
-
-Per beroepsziekte wordt een protocol opgesteld aan de hand waarvan de deskundigen uit het Deskundigenpanel kunnen beoordelen of bij een aanvraag al dan niet sprake is van de betreffende beroepsziekte. De protocollen beroepsziekten gaan daartoe nader in op de vraag of een bepaalde ernstige aandoening het gevolg kan zijn van de blootstelling aan de betreffende gevaarlijke stof of stoffen en hoe de bijdrage van de beroepsmatige blootstelling aan die stof of stoffen wordt beoordeeld. Daarnaast vermelden de protocollen beroepsziekten welke eisen worden gesteld aan de medische informatie over de ernstige aandoening en aan de informatie over de blootstellingsgeschiedenis. Als het gaat om een beroepsziekte die niet in alle gevallen een ernstige aandoening betreft, bieden de protocollen beroepsziekten in voorkomende gevallen ook daarvoor een nadere invulling. De protocollen beroepsziekten dragen op die manier bij aan een efficiënte aanpak en een gelijke behandeling van gelijke gevallen door het Deskundigenpanel.
-
-### Lijst beroepsziekten
-
-### Toelichting op de bijlage
-
-Deze bijlage bevat de Lijst beroepsziekten waarvoor een tegemoetkoming op grond van de regeling kan worden gevraagd.
-
-Mede met het oog op een zorgvuldige uitvoering wordt gestart met een beperkt aantal beroepsziekten. Hierin speelt ook mee dat de regeling niet alleen voor nieuwe gevallen wordt opgesteld, maar tevens open staat voor werkenden waarvan de ernstige aandoening al langer geleden is vastgesteld. In de komende jaren zullen geleidelijk meer beroepsziekten aan de Lijst worden toegevoegd. Hierover zal de door de minister ingestelde adviescommissie Lijst beroepsziekten adviseren, die wordt ondersteund door Bureau Lexces.
-
-Bij de beroepsziekten die op deze lijst staan, gaat het telkens om de combinatie van een ernstige aandoening en de specifieke gevaarlijke stof of stoffen die deze aandoening veroorzaakt of veroorzaken. Zolang een beroepsziekte niet op de Lijst beroepsziekten staat, kan voor die beroepsziekte geen tegemoetkoming worden toegekend.
-
-Sommige beroepsziekten hebben in alle gevallen een grote impact, zoals longkanker. Andere beroepsziekten kunnen in meer of mindere mate een grote impact hebben of bijvoorbeeld in de loop van de tijd als de blootstelling niet wordt weggenomen een grotere impact krijgen. Als een beroepsziekte niet in alle gevallen een ernstige aandoening betreft, komt dit tot uitdrukking in de benaming in de Lijst beroepsziekten.
-
-Per beroepsziekte wordt een protocol opgesteld aan de hand waarvan de deskundigen uit het Deskundigenpanel kunnen beoordelen of bij een aanvraag al dan niet sprake is van de betreffende beroepsziekte. De protocollen beroepsziekten gaan daartoe nader in op de vraag of een bepaalde ernstige aandoening het gevolg kan zijn van de blootstelling aan de betreffende gevaarlijke stof of stoffen en hoe de bijdrage van de beroepsmatige blootstelling aan die stof of stoffen wordt beoordeeld. Daarnaast vermelden de protocollen beroepsziekten welke eisen worden gesteld aan de medische informatie over de ernstige aandoening en aan de informatie over de blootstellingsgeschiedenis. Als het gaat om een beroepsziekte die niet in alle gevallen een ernstige aandoening betreft, bieden de protocollen beroepsziekten in voorkomende gevallen ook daarvoor een nadere invulling. De protocollen beroepsziekten dragen op die manier bij aan een efficiënte aanpak en een gelijke behandeling van gelijke gevallen door het Deskundigenpanel.
-
-Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting en bijlage in de Staatscourant worden geplaatst.

@@ -1,59 +1,33 @@
 ---
 title: "Beleidsregels proefplaatsing UWV 2023"
 identifier: "BWBR0047741"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-01-03"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047741"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16635903"
-version_id: "29175022"
-internal_id: "C41446841"
-label_id: "16553974"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047741/2023-01-03/0"
-intitule_bron: "Stcrt.2023-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-15"
-intitule_published: "2023-01-02"
-intitule_in_force: "2023-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-52"
-original_signed_date: "2022-11-15"
-original_published_date: "2023-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-52"
-entry_into_force_date: "2023-01-03"
-jci_1_3: "jci1.3:c:BWBR0047741&z=2023-01-03&g=2023-01-03"
-jci_1_0: "1.0:c:BWBR0047741&g=2023-01-03"
-citeertitel_status: "officieel"
-signed_date: "2022-11-15"
-entry_into_force: "2023-01-03"
+publicatiedatum: 2023-01-03
+laatste_update: 2023-01-03
+status: geldig
+toestand: 2023-01-03
+bron: "https://wetten.overheid.nl/BWBR0047741"
+opgehaald: 2026-09-03
 ---
+
 # Beleidsregels proefplaatsing UWV 2023
-
-Gelet op de [artikelen 76a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [52 e, eerste lid van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52e), [37, eerste lid, van de Wet en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), [2:24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:24) en [3:69, eerste lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:69), [65g, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65g) en [67 e van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67e):
-
-Besluit:
 
 ##### Artikel 1. Algemene begrippen
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
-- a. **Inlener:** iedere natuurlijke of rechtspersoon die een persoon onder zijn leiding en toezicht in het kader van een uitzend- of detacheringovereenkomst werkzaamheden laat uitvoeren;
+- a. *Inlener:* iedere natuurlijke of rechtspersoon die een persoon onder zijn leiding en toezicht in het kader van een uitzend- of detacheringovereenkomst werkzaamheden laat uitvoeren;
 
-- b. **Proefplaatsing:** het verrichten van onbeloonde werkzaamheden op een proefplaatsing door een uitkeringsgerechtigde bij een werkgever met behoud van uitkering met als doel de inschakeling van de uitkeringsgerechtigde in arbeid bij deze werkgever te bevorderen;
+- b. *Proefplaatsing:* het verrichten van onbeloonde werkzaamheden op een proefplaatsing door een uitkeringsgerechtigde bij een werkgever met behoud van uitkering met als doel de inschakeling van de uitkeringsgerechtigde in arbeid bij deze werkgever te bevorderen;
 
-- c. **Startkwalificatie:** een mbo-diploma op niveau 2 of hoger of een havo- of vwo-diploma.
+- c. *Startkwalificatie:* een mbo-diploma op niveau 2 of hoger of een havo- of vwo-diploma.
 
-- d. **Uitzendbeding:** een bepaling als bedoeld in [artikel 7:691, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691);
+- d. *Uitzendbeding:* een bepaling als bedoeld in [artikel 7:691, tweede lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691);
 
-- e. **Uitkeringsgerechtigden:** personen die al dan niet gedeeltelijk recht hebben op een uitkering op grond van de [WW-](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [Wet Wia](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), dan wel recht hebben op arbeidsondersteuning als bedoeld in [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15);
+- e. *Uitkeringsgerechtigden:* personen die al dan niet gedeeltelijk recht hebben op een uitkering op grond van de [WW-](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), [Wet Wia](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), dan wel recht hebben op arbeidsondersteuning als bedoeld in [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15);
 
-- f. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- f. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 ##### Artikel 2. Doelgroep van de proefplaatsing
 
@@ -121,7 +95,7 @@ UWV trekt de toestemming voor de proefplaatsing in per de datum dat:
 
 ##### Artikel 9. Intrekking Beleidsregels proefplaatsing UWV 2019
 
-Het [Besluit Beleidsregels proefplaatsing UWV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042706) (Staatscourant 2019, 58367 van 28 oktober 2019) wordt ingetrokken.
+Het [Besluit Beleidsregels proefplaatsing UWV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042706) (Staatscourant 2019, 58367 van 28 oktober 2019) wordt ingetrokken.
 
 ##### Artikel 10. Citeertitel
 
@@ -129,6 +103,4 @@ Dit besluit wordt aangehaald als: Beleidsregels proefplaatsing UWV 2023
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin dit besluit is geplaatst en werkt terug tot en met 1 januari 2023.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin dit besluit is geplaatst en werkt terug tot en met 1 januari 2023.

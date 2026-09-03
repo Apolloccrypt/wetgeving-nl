@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 13 december 2022, nr. Min-BuZa.2022.14738-9, tot het verlenen van machtiging aan de Secretaris-Generaal van het Ministerie van Financiën in het kader van de Nederlandse afdrachten aan de Europese Unie en ontvangsten vanuit het Europees herstelfonds"
+citeertitel: "Besluit verlenen machtiging aan Secretaris-Generaal Ministerie van Financiën (Nederlandse afdrachten aan Europese Unie en ontvangsten vanuit Europees herstelfonds)"
 identifier: "BWBR0047779"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-18"
-last_updated: "2023-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047779"
+categorie: "Internationaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16647583"
-version_id: "29200642"
-internal_id: "C41489101"
-label_id: "16565444"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047779/2023-01-18/0"
-intitule_bron: "Stcrt.2023-1255"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-13"
-intitule_published: "2023-01-18"
-intitule_in_force: "2023-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-1255"
-original_signed_date: "2022-12-13"
-original_published_date: "2023-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-1255"
-entry_into_force_date: "2023-01-18"
-jci_1_3: "jci1.3:c:BWBR0047779&z=2023-01-18&g=2023-01-18"
-jci_1_0: "1.0:c:BWBR0047779&g=2023-01-18"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlenen machtiging aan Secretaris-Generaal Ministerie van Financiën (Nederlandse afdrachten aan Europese Unie en ontvangsten vanuit Europees herstelfonds)"
-signed_date: "2022-12-13"
-entry_into_force: "2023-01-18"
+publicatiedatum: 2023-01-18
+laatste_update: 2023-01-18
+status: geldig
+toestand: 2023-01-18
+bron: "https://wetten.overheid.nl/BWBR0047779"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 13 december 2022, nr. Min-BuZa.2022.14738-9, tot het verlenen van machtiging aan de Secretaris-Generaal van het Ministerie van Financiën in het kader van de Nederlandse afdrachten aan de Europese Unie en ontvangsten vanuit het Europees herstelfonds
-
-Gelet op het convenant ‘Versterking van het controleproces van de Nederlandse afdrachten aan de Europese Unie en ontvangsten vanuit het Europees herstelfonds’ (verder: het Convenant);
-
-Besluit:
 
 ##### Artikel 1
 

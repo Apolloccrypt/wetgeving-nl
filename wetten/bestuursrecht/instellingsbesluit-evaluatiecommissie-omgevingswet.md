@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 23 december 2022 houdende instelling van de Commissie evaluatie Omgevingswet (Instellingsbesluit Evaluatiecommissie Omgevingswet)"
+citeertitel: "Instellingsbesluit Evaluatiecommissie Omgevingswet"
 identifier: "BWBR0047729"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047729"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16629673"
-version_id: "29162812"
-internal_id: "C41433361"
-label_id: "16548344"
-dtd_version: "2.0"
-original_entry_into_force: "2023-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047729/2023-01-01/0"
-intitule_bron: "Stcrt.2022-33206"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-23"
-intitule_published: "2022-12-29"
-intitule_in_force: "2022-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33206"
-original_signed_date: "2022-12-23"
-original_published_date: "2022-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-33206"
-entry_into_force_date: "2023-01-01"
-jci_1_3: "jci1.3:c:BWBR0047729&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047729&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Evaluatiecommissie Omgevingswet"
-signed_date: "2022-12-23"
-entry_into_force: "2023-01-01"
+publicatiedatum: 2023-01-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0047729"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 23 december 2022 houdende instelling van de Commissie evaluatie Omgevingswet (Instellingsbesluit Evaluatiecommissie Omgevingswet)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 23.9 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=23.9);
-
-Besluit:
 
 ##### Artikel 1. (Begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- a. *minister:* de Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- b. **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047729&artikel=2&z=2023-01-01&g=2023-01-01).
+- b. *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047729&artikel=2&z=2023-01-01&g=2023-01-01).
 
 ##### Artikel 2. (Instelling en taak)
 
@@ -58,23 +30,23 @@ In dit besluit wordt verstaan onder:
 
 - a. de doeltreffendheid en de effecten van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) in de praktijk te evalueren. In het evaluatieonderzoek wordt in ieder geval aandacht besteed aan de volgende onderwerpen:
 
-- i. in hoeverre de vier verbeterdoelen van de stelselherziening van het omgevingsrecht zijn gerealiseerd. De vier verbeterdoelen van de stelselherziening zijn:
+   - i. in hoeverre de vier verbeterdoelen van de stelselherziening van het omgevingsrecht zijn gerealiseerd. De vier verbeterdoelen van de stelselherziening zijn:
 
-- 1°. het vergroten van de inzichtelijkheid, de voorspelbaarheid en het gebruiksgemak van het omgevingsrecht;
+      - 1°. het vergroten van de inzichtelijkheid, de voorspelbaarheid en het gebruiksgemak van het omgevingsrecht;
 
-- 2°. het bewerkstelligen van een samenhangende benadering van de fysieke leefomgeving in beleid, besluitvorming en regelgeving;
+      - 2°. het bewerkstelligen van een samenhangende benadering van de fysieke leefomgeving in beleid, besluitvorming en regelgeving;
 
-- 3°. het vergroten van de bestuurlijke afwegingsruimte door een actieve en flexibele aanpak mogelijk te maken voor het bereiken van doelen voor de fysieke leefomgeving; en
+      - 3°. het vergroten van de bestuurlijke afwegingsruimte door een actieve en flexibele aanpak mogelijk te maken voor het bereiken van doelen voor de fysieke leefomgeving; en
 
-- 4°. het versnellen en verbeteren van besluitvorming over projecten in de fysieke leefomgeving;
+      - 4°. het versnellen en verbeteren van besluitvorming over projecten in de fysieke leefomgeving;
 
-- ii. of het wettelijke kader van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een geschikt instrumentarium biedt om de maatschappelijke doelen, bedoeld in [artikel 1.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.3), te realiseren;
+   - ii. of het wettelijke kader van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) een geschikt instrumentarium biedt om de maatschappelijke doelen, bedoeld in [artikel 1.3 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=1.3), te realiseren;
 
-- iii. in hoeverre de zes kerninstrumenten van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) toereikend zijn voor de verschillende overheidslagen om hun verschillende taken uit te voeren;
+   - iii. in hoeverre de zes kerninstrumenten van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) toereikend zijn voor de verschillende overheidslagen om hun verschillende taken uit te voeren;
 
-- iv. in hoeverre het wettelijke kader van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) bijdraagt aan een adequate uitvoeringspraktijk voor burgers, bedrijven, organisaties en overheden; en
+   - iv. in hoeverre het wettelijke kader van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) bijdraagt aan een adequate uitvoeringspraktijk voor burgers, bedrijven, organisaties en overheden; en
 
-- v. op welke wijze wordt vormgegeven aan de nieuwe elementen van het stelsel van het omgevingsrecht en hoeverre dit volstaat.
+   - v. op welke wijze wordt vormgegeven aan de nieuwe elementen van het stelsel van het omgevingsrecht en hoeverre dit volstaat.
 
 - b. te adviseren over de inrichting van de monitoring die onder de verantwoordelijkheid van de minister wordt uitgevoerd.
 
@@ -146,10 +118,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 12. (Inwerkingtreding)
 
-Dit besluit treedt in werking met ingang van 1 januari 2023.
+Dit besluit treedt in werking met ingang van 1 januari 2023.
 
 ##### Artikel 13. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Evaluatiecommissie Omgevingswet.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

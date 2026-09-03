@@ -1,57 +1,33 @@
 ---
 title: "Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams"
 identifier: "BWBR0047947"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-03-07"
-last_updated: "2023-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047947"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16690423"
-version_id: "29277112"
-internal_id: "C41700201"
-label_id: "16607774"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047947/2023-03-07/0"
-intitule_bron: "Stcrt.2023-7047"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-17"
-intitule_published: "2023-03-06"
-intitule_in_force: "2023-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-7047"
-original_signed_date: "2023-02-17"
-original_published_date: "2023-03-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-7047"
-entry_into_force_date: "2023-03-07"
-jci_1_3: "jci1.3:c:BWBR0047947&z=2023-03-07&g=2023-03-07"
-jci_1_0: "1.0:c:BWBR0047947&g=2023-03-07"
-citeertitel_status: "officieel"
-signed_date: "2023-02-17"
-entry_into_force: "2023-03-07"
+publicatiedatum: 2023-03-07
+laatste_update: 2023-03-07
+status: geldig
+toestand: 2023-03-07
+bron: "https://wetten.overheid.nl/BWBR0047947"
+opgehaald: 2026-09-03
 ---
-# Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams
 
-Besluit:
+# Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams
 
 ##### Artikel 1. algemene begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **defensieschietvereniging:** schietvereniging waarvan het bestuur en leden militaire ambtenaren als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1)zijn;
+- a. *defensieschietvereniging:* schietvereniging waarvan het bestuur en leden militaire ambtenaren als bedoeld in [artikel 1, eerste lid, onderdeel a, onder 1, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1)zijn;
 
-- b. **studentenweerbaarheidsvereniging:** studenten schiet- of weerbaarheidsvereniging welke door de Minister van Defensie is erkend ingevolge [artikel 9 van het Uitvoeringsbesluit Wet op de weerkorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&artikel=9);
+- b. *studentenweerbaarheidsvereniging:* studenten schiet- of weerbaarheidsvereniging welke door de Minister van Defensie is erkend ingevolge [artikel 9 van het Uitvoeringsbesluit Wet op de weerkorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0001992&artikel=9);
 
-- c. **KNSA-schietvereniging:** schietvereniging welke is aangesloten bij de Koninklijke Nederlandse Schutters Associatie (KNSA), niet zijnde een defensieschietvereniging of studentenweerbaarheidsvereniging;
+- c. *KNSA-schietvereniging:* schietvereniging welke is aangesloten bij de Koninklijke Nederlandse Schutters Associatie (KNSA), niet zijnde een defensieschietvereniging of studentenweerbaarheidsvereniging;
 
-- d. **defensieonderdeel:** de Bestuursstaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando onderscheidenlijk de Defensie Materieel Organisatie;
+- d. *defensieonderdeel:* de Bestuursstaf, het Commando Zeestrijdkrachten, het Commando Landstrijdkrachten, het Commando Luchtstrijdkrachten, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando onderscheidenlijk de Defensie Materieel Organisatie;
 
-- e. **hoofd defensieonderdeel:** de plaatsvervangend Secretaris-Generaal, de Commandant Zeestrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Koninklijke Marechaussee, de Commandant Defensie Ondersteuningscommando, onderscheidenlijk de Directeur van de Defensie Materieel Organisatie;
+- e. *hoofd defensieonderdeel:* de plaatsvervangend Secretaris-Generaal, de Commandant Zeestrijdkrachten, de Commandant Luchtstrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Koninklijke Marechaussee, de Commandant Defensie Ondersteuningscommando, onderscheidenlijk de Directeur van de Defensie Materieel Organisatie;
 
-- f. **defensieschietteam:** een door een hoofd defensieonderdeel aangewezen team van militaire sportschutters die zich hebben bekwaamd op een of meer wapens en in dit kader deelnemen aan schietsportwedstrijden.
+- f. *defensieschietteam:* een door een hoofd defensieonderdeel aangewezen team van militaire sportschutters die zich hebben bekwaamd op een of meer wapens en in dit kader deelnemen aan schietsportwedstrijden.
 
 ##### Artikel 2. medewerking aan een defensieschietvereniging
 
@@ -131,7 +107,7 @@ De Koninklijke marechaussee is belast met de controle op de naleving van deze re
 
 ##### Artikel 9. intrekking oude regeling
 
-Het Weerbaarheidsvoorschrift 1980, met nummer CWW.80/032 van 17 december 1980, wordt ingetrokken.
+Het Weerbaarheidsvoorschrift 1980, met nummer CWW.80/032 van 17 december 1980, wordt ingetrokken.
 
 ##### Artikel 10. inwerkingtreding
 
@@ -140,5 +116,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 11. citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel kaders medewerking defensie aan (defensie-) schietverenigingen, studentenweerbaarheidsverenigingen en defensieschietteams.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

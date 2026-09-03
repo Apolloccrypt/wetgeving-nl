@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0006368"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Wet van 23 december 1993, houdende regelen omtrent de door de overheid gefinancierde rechtsbijstand

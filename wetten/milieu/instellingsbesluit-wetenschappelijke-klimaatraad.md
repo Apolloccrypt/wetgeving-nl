@@ -1,21 +1,19 @@
 ---
-title: "Instellingsbesluit Wetenschappelijke Klimaatraad"
+title: "Besluit van 29 oktober 2022 tot instelling van de Wetenschappelijke Klimaatraad"
+citeertitel: "Instellingsbesluit Wetenschappelijke Klimaatraad"
 identifier: "BWBR0047416"
 categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-07-15
+soort: "KB"
+publicatiedatum: 2022-11-05
+laatste_update: 2026-01-01
 status: vervallen
+vervallen_op: 2026-07-13
+toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0047416"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-03
 ---
 
 # Besluit van 29 oktober 2022 tot instelling van de Wetenschappelijke Klimaatraad
-
-Op de voordracht van Onze Minister voor Klimaat en Energie van 25 oktober 2022, nr. WJZ / 22524141, gedaan mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
-
-Gelet op [artikel 5, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=5);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -35,10 +33,8 @@ De evaluatie van de taakvervulling vindt drie jaar na instelling plaats.
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van 4 november 2026.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van 4 november 2026.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Wetenschappelijke Klimaatraad.
-
-Onze Minister voor Klimaat en Energie is belast met de uitvoering van dit besluit dat met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.

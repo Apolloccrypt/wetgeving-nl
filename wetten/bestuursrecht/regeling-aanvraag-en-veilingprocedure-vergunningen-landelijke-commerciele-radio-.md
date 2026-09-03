@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 23 februari 2023, nr. WJZ/26476420, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor landelijke commerciële FM-radio-omroep met bijbehorende vergunningen voor digitale radio-omroep in laag 2 (kanaal 11C) (Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023)"
+citeertitel: "Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023"
 identifier: "BWBR0047925"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-01"
-last_updated: "2023-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047925"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16685113"
-version_id: "29269002"
-internal_id: "C41689361"
-label_id: "16603184"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047925/2023-03-01/0"
-intitule_bron: "Stcrt.2023-6526"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-23"
-intitule_published: "2023-02-28"
-intitule_in_force: "2023-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-6526"
-original_signed_date: "2023-02-23"
-original_published_date: "2023-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-6526"
-entry_into_force_date: "2023-03-01"
-jci_1_3: "jci1.3:c:BWBR0047925&z=2023-03-01&g=2023-03-01"
-jci_1_0: "1.0:c:BWBR0047925&g=2023-03-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023"
-signed_date: "2023-02-23"
-entry_into_force: "2023-03-01"
+publicatiedatum: 2023-03-01
+laatste_update: 2023-03-01
+status: geldig
+toestand: 2023-03-01
+bron: "https://wetten.overheid.nl/BWBR0047925"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 23 februari 2023, nr. WJZ/26476420, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor landelijke commerciële FM-radio-omroep met bijbehorende vergunningen voor digitale radio-omroep in laag 2 (kanaal 11C) (Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023)
-
-Gelet op [artikel 3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,45 +20,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene die bij de Minister een aanvraag voor een vergunning heeft ingediend;
+- *aanvrager:* degene die bij de Minister een aanvraag voor een vergunning heeft ingediend;
 
-- **aanvraagformulier:** aanvraagformulier als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01);
+- *aanvraagformulier:* aanvraagformulier als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01);
 
-- **activiteitsniveau:** activiteitsniveau als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=25&z=2023-03-01&g=2023-03-01);
+- *activiteitsniveau:* activiteitsniveau als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=25&z=2023-03-01&g=2023-03-01);
 
-- **activiteitspunt:** activiteitspunt als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=25&z=2023-03-01&g=2023-03-01);
+- *activiteitspunt:* activiteitspunt als bedoeld in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=25&z=2023-03-01&g=2023-03-01);
 
-- **bankgarantie:** bankgarantie als bedoeld [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-03-01&g=2023-03-01);
+- *bankgarantie:* bankgarantie als bedoeld [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-03-01&g=2023-03-01);
 
-- **bekendmakingsbesluit:** [Besluit bekendmaking veiling vergunningen landelijke commerciële FM-radio-omroep 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047936);
+- *bekendmakingsbesluit:*
+ [Besluit bekendmaking veiling vergunningen landelijke commerciële FM-radio-omroep 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047936);
 
-- **bod:** bod als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=26&z=2023-03-01&g=2023-03-01);
+- *bod:* bod als bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=26&z=2023-03-01&g=2023-03-01);
 
-- **deelnemer:** aanvrager die is toegelaten tot de veiling als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=2&artikel=20&z=2023-03-01&g=2023-03-01);
+- *deelnemer:* aanvrager die is toegelaten tot de veiling als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=2&artikel=20&z=2023-03-01&g=2023-03-01);
 
-- **gekwalificeerde elektronische handtekening:** handtekening als bedoeld in artikel 3, twaalfde lid, van de eidas-verordening;
+- *gekwalificeerde elektronische handtekening:* handtekening als bedoeld in artikel 3, twaalfde lid, van de eidas-verordening;
 
-- **pakket:** pakket als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=1&artikel=2&z=2023-03-01&g=2023-03-01);
+- *pakket:* pakket als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=1&artikel=2&z=2023-03-01&g=2023-03-01);
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **niet-winnende deelnemer:** deelnemer wiens bod of biedingen niet zijn aangemerkt als winnende biedingen;
+- *niet-winnende deelnemer:* deelnemer wiens bod of biedingen niet zijn aangemerkt als winnende biedingen;
 
-- **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
+- *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
 
-- **rondeprijs:** bedrag als bedoeld in [artikel 27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=27&z=2023-03-01&g=2023-03-01);
+- *rondeprijs:* bedrag als bedoeld in [artikel 27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=27&z=2023-03-01&g=2023-03-01);
 
-- **verbonden rechtspersoon:** als één aangemerkte rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3);
+- *verbonden rechtspersoon:* als één aangemerkte rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3);
 
-- **vergunning:** vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=1&artikel=2&z=2023-03-01&g=2023-03-01);
+- *vergunning:* vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=1&artikel=2&z=2023-03-01&g=2023-03-01);
 
-- **voorlopig hoogste bod:** voorlopig hoogste bod als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=28&z=2023-03-01&g=2023-03-01);
+- *voorlopig hoogste bod:* voorlopig hoogste bod als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=28&z=2023-03-01&g=2023-03-01);
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- **winnend bod:** winnend bod als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=31&z=2023-03-01&g=2023-03-01);
+- *winnend bod:* winnend bod als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=31&z=2023-03-01&g=2023-03-01);
 
-- **winnende deelnemer:** deelnemer wiens bod of biedingen zijn aangemerkt als winnende biedingen.
+- *winnende deelnemer:* deelnemer wiens bod of biedingen zijn aangemerkt als winnende biedingen.
 
 ##### Artikel 2. Beschikbare pakketten en vergunningen
 
@@ -116,11 +92,11 @@ Ingevolge het [bekendmakingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 1. Degene die voor een pakket in aanmerking wil komen, dient daartoe een aanvraag in bij de Minister.
 
-2. De aanvraag kan van 7 maart 2023 tot en met 3 april 2023 worden ingediend:
+2. De aanvraag kan van 7 maart 2023 tot en met 3 april 2023 worden ingediend:
 
 - a. per versleutelde e-mail of e-mail op het volgende e-mailadres: veilinglco@rdi.nl, of
 
-- b. per aangetekende post of door persoonlijke overhandiging, op het volgende adres en met de volgende adressering: **Rijksinspectie Digitale Infrastructuur** **Ter attentie van: Projectteam uitgifte commerciële FM-frequenties** **Emmasingel 1** **9726 AH Groningen**
+- b. per aangetekende post of door persoonlijke overhandiging, op het volgende adres en met de volgende adressering: *Rijksinspectie Digitale Infrastructuur* *Ter attentie van: Projectteam uitgifte commerciële FM-frequenties* *Emmasingel 1* *9726 AH Groningen*
 
 3. De persoonlijke overhandiging, bedoeld in het tweede lid, onderdeel b, vindt uitsluitend plaats op werkdagen tussen 10.00 uur en 12.00 uur of tussen 14.00 uur en 16.00 uur. Na de overhandiging ontvangt de aanvrager een bewijs van ontvangst dat is voorzien van datum en tijdstip van ontvangst.
 
@@ -176,7 +152,7 @@ De aanvrager informeert de Minister onmiddellijk op de wijze, bedoeld in [artike
 
 ##### Artikel 8. Zekerheidstelling door de aanvrager
 
-1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 1.500.000,– per pakket.
+1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 1.500.000,– per pakket.
 
 2. De waarborgsom wordt verstrekt voor de periode tot en met:
 
@@ -384,23 +360,23 @@ De veiling geschiedt door middel van een simultane meerrondenveiling.
 
 1. In de eerste biedronde is de rondeprijs:
 
-- a. voor pakket LCO1: € 15.427.000,–;
+- a. voor pakket LCO1: € 15.427.000,–;
 
-- b. voor pakket LCO2: € 7.794.000,–;
+- b. voor pakket LCO2: € 7.794.000,–;
 
-- c. voor pakket LCO3: € 15.816.000,–;
+- c. voor pakket LCO3: € 15.816.000,–;
 
-- d. voor pakket LCO4: € 0,–;
+- d. voor pakket LCO4: € 0,–;
 
-- e. voor pakket LCO5: € 4.792.000,–;
+- e. voor pakket LCO5: € 4.792.000,–;
 
-- f. voor pakket LCO6: € 15.241.000,–;
+- f. voor pakket LCO6: € 15.241.000,–;
 
-- g. voor pakket LCO7: € 11.493.000,–;
+- g. voor pakket LCO7: € 11.493.000,–;
 
-- h. voor pakket LCO8: € 2.636.000,–, en
+- h. voor pakket LCO8: € 2.636.000,–, en
 
-- i. voor pakket LCO9: € 0,–.
+- i. voor pakket LCO9: € 0,–.
 
 2. In de tweede en daaropvolgende biedronden verhoogt de Minister de rondeprijs met een door de Minister vast te stellen bedrag.
 
@@ -418,27 +394,27 @@ De veiling geschiedt door middel van een simultane meerrondenveiling.
 
 - a. alle deelnemers mee:
 
-- 1°. het rondenummer van die biedronde;
+   - 1°. het rondenummer van die biedronde;
 
-- 2°. per pakket: of daarop één of meer biedingen zijn uitgebracht, en, indien van toepassing, wat daarop het voorlopig hoogste bod is;
+   - 2°. per pakket: of daarop één of meer biedingen zijn uitgebracht, en, indien van toepassing, wat daarop het voorlopig hoogste bod is;
 
-- 3°. het aantal deelnemers dat nog actief is in de veiling;
+   - 3°. het aantal deelnemers dat nog actief is in de veiling;
 
-- 4°. per pakket: de rondeprijs in de volgende biedronde;
+   - 4°. per pakket: de rondeprijs in de volgende biedronde;
 
-- 5°. de aanvangstijd en de duur van de volgende biedronde, en in hoeverre in die volgende biedronde op grond van [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=23&z=2023-03-01&g=2023-03-01), wordt afgeweken van artikel 23, derde lid, en
+   - 5°. de aanvangstijd en de duur van de volgende biedronde, en in hoeverre in die volgende biedronde op grond van [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=23&z=2023-03-01&g=2023-03-01), wordt afgeweken van artikel 23, derde lid, en
 
-- 6°. het rondenummer van de volgende biedronde;
+   - 6°. het rondenummer van de volgende biedronde;
 
 - b. iedere deelnemer afzonderlijk mee:
 
-- 1. de biedingen die hij in die biedronde heeft uitgebracht, of het gebrek daaraan;
+   - 1. de biedingen die hij in die biedronde heeft uitgebracht, of het gebrek daaraan;
 
-- 2. of zijn biedingen zijn aangemerkt als hoogste bod, en, indien van toepassing, welke pakketten dit betreft;
+   - 2. of zijn biedingen zijn aangemerkt als hoogste bod, en, indien van toepassing, welke pakketten dit betreft;
 
-- 3. het aantal biedingen dat hij mag uitbrengen in de volgende biedronde, en
+   - 3. het aantal biedingen dat hij mag uitbrengen in de volgende biedronde, en
 
-- 4. het aantal keer dat hij nog in aanmerking komt voor een verlenging als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=24&z=2023-03-01&g=2023-03-01).
+   - 4. het aantal keer dat hij nog in aanmerking komt voor een verlenging als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=3&paragraaf=4&artikel=24&z=2023-03-01&g=2023-03-01).
 
 ##### Artikel 30. Laatste biedronde
 
@@ -496,15 +472,15 @@ De Minister maakt zo spoedig mogelijk na de veiling aan alle deelnemers de winne
 
 ##### Artikel 37. Wijziging Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003
 
-Wijzigt de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.
+*Wijzigt de Regeling aanvraag en vergelijkende toets vergunningen commerciële radio-omroep 2003.*
 
 ##### Artikel 38. Wijziging Regeling vervolg verdeling frequenties commerciële radio-omroep 2003
 
-Wijzigt de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003.
+*Wijzigt de Regeling vervolg verdeling frequenties commerciële radio-omroep 2003.*
 
 ##### Artikel 39. Wijziging Tijdelijke regeling gebruiksbeperking commerciële radio-omroep
 
-Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.
+*Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.*
 
 ##### Artikel 40. Inwerkingtreding
 
@@ -513,43 +489,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 41. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023.
-
-## Bijlage 1. als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=1&artikel=6&z=2023-03-01&g=2023-03-01)
-
-### Aanvraagformulier
-
-## Bijlage 2. als bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-03-01&g=2023-03-01)
-
-– Model bankgarantie –
-
-- I. De ondergetekende............... **(naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte)**1Hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld., gevestigd te..............., mede kantoorhoudende te..............., hierna te noemen: ‘de bank’; In aanmerking nemende:
-
-- A. dat [artikel 3.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13) bepaalt dat voor het gebruik van frequentieruimte een vergunning is vereist van de Minister van Economische Zaken en Klimaat (hierna: ‘de minister’);
-
-- B. dat de minister bij besluit van [PM: DATUM] heeft bekendgemaakt dat de pakketten (als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=1&artikel=2&z=2023-03-01&g=2023-03-01) van de Regeling aanvraag- en veilingprocedure vergunningen landelijke commerciële radio-omroep 2023 (hierna: de Regeling)) overeenkomstig deze Regeling worden verdeeld;
-
-- C. dat............... **(naam aanvrager),** rechtspersoon naar............... recht **(het recht van een van de lidstaten van de Europese Unie of van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte)**2het bedrag invullen overeenkomstig de formule: € 1.500.000,– x het aantal pakketten waar de aanvraag betrekking op heeft. Dit betekent dat als de aanvraag betrekking heeft op één pakket de bankgarantie € € 1.500.00,– betreft en als de aanvraag op twee pakketten betrekking heeft de bankgarantie € 3.000.000,– betreft, enzovoorts., waarvan de zetel is gevestigd te..............., kantoorhoudende te..............., hierna te noemen: ‘de aanvrager’, voornemens is een bieding in de veiling uit te brengen teneinde een een/meerdere pakketten als opgenomen in het onder B bedoelde bekendmakingsbesluit te verwerven;
-
-- D. dat de minister met betrekking tot de verdeling van vergunningen voor landelijke commerciële radio regels heeft gesteld. Deze regels zijn vastgelegd in de Regeling;
-
-- E. dat degene die een aanvraag om de voornoemde pakket(ten) indient op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=2&artikel=8&z=2023-03-01&g=2023-03-01) van de Regeling verplicht is voor de vergunning een zekerheid te verschaffen door een waarborgsom ter grootte van € 1.500.000,– per pakket, waar de aanvraag, voor zover van toepassing, na toepassing van [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047925&hoofdstuk=2&paragraaf=3&artikel=11&z=2023-03-01&g=2023-03-01), van de Regeling betrekking op heeft, te storten dan wel voor dat bedrag een bankgarantie te verstrekken. Deze zekerheid heeft een looptijd tot, in geval van afwijzing van de aanvraag, het tijdstip van die afwijzing, tot, in geval van niet in behandeling nemen van de aanvraag, het tijdstip van het besluit om de aanvraag niet te behandelen, of tot, in geval van toewijzing van de aanvraag, het tijdstip waarop het bod volledig is betaald;
-
-- F. dat de aanvrager op grond hiervan is gehouden een waarborgsom te storten of een bankgarantie te doen stellen ter zekerheid van al hetgeen de aanvrager ter zekerheid verschuldigd is, hierna te noemen: ‘de vordering’, aan de Staat der Nederlanden, rechtspersoon naar Nederlands recht, waarvan de statutaire zetel is gevestigd te ’s-Gravenhage, hierna te noemen: ‘de Staat’;
-
-- G. dat de aanvrager de bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie te stellen ten behoeve van de Staat, welke op eerste verzoek van de Staat betaalbaar is.
-
-- II. Verbindt zich tot het navolgende: **Plaats:.........................................................................................................** **Datum:........................................................................................................** **Naam bank:...........................................** **Naam medewerker:......................................................................................** **Functie medewerker:......................................** **Handtekening medewerker3In geval de bankgarantie niet is voorzien van een gekwalificeerde elektronische handtekening, dient de originele schriftelijke bankgarantie per aangetekende post of door persoonlijke overhandiging te worden ingediend op de wijze bedoeld in artikel 3, tweede lid, en onderdeel b.** **Stempel bank:**
-
-- A. De bank stelt zich bij wijze van zelfstandige verbintenis tot een bedrag van €...............2het bedrag invullen overeenkomstig de formule: € 1.500.000,– x het aantal pakketten waar de aanvraag betrekking op heeft. Dit betekent dat als de aanvraag betrekking heeft op één pakket de bankgarantie € € 1.500.00,– betreft en als de aanvraag op twee pakketten betrekking heeft de bankgarantie € 3.000.000,– betreft, enzovoorts. (zegge: .......... .............................euro3), onherroepelijk garant jegens de Staat voor de betaling van al hetgeen de Staat blijkens een schriftelijke verklaring van de Staat ter zake van de Vordering van de aanvrager te vorderen heeft, aldus dat de bank zich verbindt het gevorderde bedrag als eigen verplichting aan de Staat te voldoen.
-
-- B. De bank verbindt zich om als eigen schuld op eerste verzoek en op de enkele schriftelijke mededeling van de Staat zonder overlegging van enig ander document of opgaaf van redenen te verlangen, aan de Staat te voldoen het bedrag dat de Staat verklaart ter zake van de vordering van de aanvrager te vorderen te hebben, met dien verstande dat de bank nimmer gehouden is aan de Staat meer te voldoen dan het hiervoor vermelde maximumbedrag.
-
-- C. Deelberoepen onder deze bankgarantie zijn mogelijk. Het maximumbedrag van deze bankgarantie wordt met een bedrag gelijk met dat van elk deelberoep verlaagd.
-
-- D. Deze bankgarantie vervalt na ontvangst door de bank van een per aangetekende brief gezonden schriftelijke verklaring van de Staat dat de bankgarantie vervalt en in ieder geval één jaar na datum van ondertekening van deze garantie, tenzij de bank ten minste één maand voor de einddatum van de garantie per aangetekende brief een schriftelijke verklaring van of namens de minister heeft ontvangen dat deze bankgarantie niet vervalt, in welk geval de garantie telkens voor een nieuwe termijn van een jaar geldig is.
-
-- E. Deze bankgarantie wordt beheerst door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te ’s-Gravenhage.
-
-- F. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de bank uit hoofde van deze bankgarantie tenzij de bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

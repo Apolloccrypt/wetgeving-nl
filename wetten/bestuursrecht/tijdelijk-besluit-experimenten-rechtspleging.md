@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 6 maart 2023 tot vaststelling van tijdelijke regels betreffende de opzet, inhoud en evaluatie van experimenten in de rechtspleging en het tijdstip van inwerkingtreding van Tijdelijke Experimentenwet rechtspleging (Tijdelijk besluit experimenten rechtspleging)"
+citeertitel: "Tijdelijk besluit experimenten rechtspleging"
 identifier: "BWBR0047951"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-03-01"
-last_updated: "2025-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047951"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16691083"
-version_id: "29278312"
-internal_id: "C41702541"
-label_id: "16608584"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047951/2025-03-01/0"
-intitule_bron: "Stb.2023-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-06"
-intitule_published: "2023-03-09"
-intitule_in_force: "2023-03-09"
-intitule_status: "goed"
-original_publication: "Stb.2023-70"
-original_signed_date: "2023-03-06"
-original_published_date: "2023-03-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-70"
-entry_into_force_date: "2023-04-01"
-jci_1_3: "jci1.3:c:BWBR0047951&z=2025-03-01&g=2025-03-01"
-jci_1_0: "1.0:c:BWBR0047951&g=2025-03-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit experimenten rechtspleging"
-signed_date: "2023-03-06"
-entry_into_force: "2023-04-01"
+publicatiedatum: 2023-04-01
+laatste_update: 2025-03-01
+status: geldig
+toestand: 2025-03-01
+bron: "https://wetten.overheid.nl/BWBR0047951"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van 6 maart 2023 tot vaststelling van tijdelijke regels betreffende de opzet, inhoud en evaluatie van experimenten in de rechtspleging en het tijdstip van inwerkingtreding van Tijdelijke Experimentenwet rechtspleging (Tijdelijk besluit experimenten rechtspleging)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 4 november 2021, directie Wetgeving en Juridische Zaken, nr. 3620704;
-
-Gelet op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=2), en [8 Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=8);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 15 december 2021, nr. W16.21.0333/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming, van 24 februari 2023, nr. 4492383;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -52,23 +20,23 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **de wet:** de [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790);
+- *de wet:* de [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790);
 
-- **de wetten:** het bepaalde bij of krachtens de wetten, genoemd in [artikel 1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1);
+- *de wetten:* het bepaalde bij of krachtens de wetten, genoemd in [artikel 1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1);
 
-- **algemene maatregel van bestuur:** een algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1);
+- *algemene maatregel van bestuur:* een algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1);
 
-- **experiment:** een experiment als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1), en [5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=5), zoals vastgelegd in een algemene maatregel van bestuur;
+- *experiment:* een experiment als bedoeld in de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1), en [5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=5), zoals vastgelegd in een algemene maatregel van bestuur;
 
-- **experimentele procedure:** de procedure die wordt toegepast in het experiment;
+- *experimentele procedure:* de procedure die wordt toegepast in het experiment;
 
-- **andere tijdelijke procedure:** een gerechtelijke procedure die op basis van [artikel 96 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=96) tijdelijk door een bepaalde rechtbank wordt aangeboden;
+- *andere tijdelijke procedure:* een gerechtelijke procedure die op basis van [artikel 96 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=96) tijdelijk door een bepaalde rechtbank wordt aangeboden;
 
-- **onderzoekers:** de onderzoekers of onderzoeksinstanties die de evaluatie van een experiment, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=3) uitvoeren;
+- *onderzoekers:* de onderzoekers of onderzoeksinstanties die de evaluatie van een experiment, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=3) uitvoeren;
 
-- **bepaald wordt:** bepaald wordt in de algemene maatregel van bestuur;
+- *bepaald wordt:* bepaald wordt in de algemene maatregel van bestuur;
 
-- **toelichten:** toelichten in de nota van toelichting bij de algemene maatregel van bestuur.
+- *toelichten:* toelichten in de nota van toelichting bij de algemene maatregel van bestuur.
 
 ### Hoofdstuk 2. Opzet en inhoud
 
@@ -238,10 +206,8 @@ Tenzij het experiment tussentijds overeenkomstig [artikel 11](https://wetten.ove
 
 ##### Artikel 19. – Inwerkingtreding
 
-De [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790) en dit besluit treden in werking met ingang van 1 april 2023. Dit besluit vervalt met ingang van de dag waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790) vervalt.
+De [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790) en dit besluit treden in werking met ingang van 1 april 2023. Dit besluit vervalt met ingang van de dag waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790) vervalt.
 
 ##### Artikel 20. – Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit experimenten rechtspleging.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

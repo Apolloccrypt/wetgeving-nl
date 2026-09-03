@@ -1,64 +1,64 @@
 ---
-title: "Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2022, kenmerk 3468798-1039784-J, houdende specifieke uitkeringen voor randvoorwaardelijke functies jeugdhulp"
+citeertitel: "Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp"
 identifier: "BWBR0047609"
 categorie: "Sociaal recht"
-publicatiedatum: 2026-04-21
+soort: "ministeriele-regeling"
+publicatiedatum: 2023-01-01
 laatste_update: 2026-04-21
 status: geldig
+toestand: 2026-04-21
 bron: "https://wetten.overheid.nl/BWBR0047609"
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2022, kenmerk 3468798-1039784-J, houdende specifieke uitkeringen voor randvoorwaardelijke functies jeugdhulp
 
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
-
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- –. **academisch centrum kinder- en jeugdpsychiatrie (ACKJP):** een instelling voor specialistische kinder- en jeugdpsychiatrie waar naast zorg ook medisch specialisten worden opgeleid en wetenschappelijke kennis wordt gegenereerd, toegepast en verspreid, als onderdeel van of gelieerd aan een universitair medisch centrum met academische infrastructuur zondervolledige financiering door het Landelijk Transitiearrangement;
+- – *academisch centrum kinder- en jeugdpsychiatrie (ACKJP):* een instelling voor specialistische kinder- en jeugdpsychiatrie waar naast zorg ook medisch specialisten worden opgeleid en wetenschappelijke kennis wordt gegenereerd, toegepast en verspreid, als onderdeel van of gelieerd aan een universitair medisch centrum met academische infrastructuur zondervolledige financiering door het Landelijk Transitiearrangement;
 
-- –. **bovenregionaal gebied:** een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2026-04-21&g=2026-04-21);
+- – *bovenregionaal gebied:* een cluster van jeugdzorgregio’s in een bepaald gebied genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&bijlage=1&z=2026-04-21&g=2026-04-21);
 
-- –. **coördinerende gemeente:** de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2026-04-21&g=2026-04-21), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
+- – *coördinerende gemeente:* de gemeente, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=4&z=2026-04-21&g=2026-04-21), die verantwoordelijk is voor de organisatie van de betreffende randvoorwaardelijke functie;
 
-- –. **expertisenetwerk jeugdhulp:** netwerk in een bovenregionaal gebied dat ten doel heeft om te zorgen voor een passende oplossing voor jongeren met complexe en meervoudige problematiek die vastlopen in de zorg of niet de juiste hulp krijgen en te voorkomen dat de zorgvraag van jongeren steeds complexer wordt;
+- – *expertisenetwerk jeugdhulp:* netwerk in een bovenregionaal gebied dat ten doel heeft om te zorgen voor een passende oplossing voor jongeren met complexe en meervoudige problematiek die vastlopen in de zorg of niet de juiste hulp krijgen en te voorkomen dat de zorgvraag van jongeren steeds complexer wordt;
 
-- –. **gesloten jeugdhulp:** opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4);
+- – *gesloten jeugdhulp:* opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4);
 
-- –. **Landelijk Transitiearrangement:** een set aan afspraken die door de VNG landelijk met een beperkt aantal jeugdhulpaanbieders wordt gemaakt, om er zeker van te zijn dat er een contractbasis is voor aanbieders met uitzonderlijk aanbod;
+- – *Landelijk Transitiearrangement:* een set aan afspraken die door de VNG landelijk met een beperkt aantal jeugdhulpaanbieders wordt gemaakt, om er zeker van te zijn dat er een contractbasis is voor aanbieders met uitzonderlijk aanbod;
 
-- –. **Jeugdautoriteit:** organisatie, genoemd in [artikel 2 van het Instellingsbesluit Jeugdautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0044078&artikel=2);
+- – *Jeugdautoriteit:* organisatie, genoemd in [artikel 2 van het Instellingsbesluit Jeugdautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0044078&artikel=2);
 
-- –. **jeugdregio:** een regionaal samenwerkingsverband waarin gemeenten samenwerken voor uitvoering van jeugdhulptaken;
+- – *jeugdregio:* een regionaal samenwerkingsverband waarin gemeenten samenwerken voor uitvoering van jeugdhulptaken;
 
-- –. **minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- – *minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **plaatsingscoördinatie gesloten jeugdhulp:** een coördinatiepunt van waaruit het plaatsingsproces van jeugdigen naar de gesloten jeugdhulp wordt gecoördineerd;
+- – *plaatsingscoördinatie gesloten jeugdhulp:* een coördinatiepunt van waaruit het plaatsingsproces van jeugdigen naar de gesloten jeugdhulp wordt gecoördineerd;
 
-- –. **SiSa:** Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole. SiSa is de manier waarop provincies, gemeenten, gemeenschappelijke regelingen zich per jaar verantwoorden over de besteding van specifieke uitkeringen of provinciale middelen;
+- – *SiSa:* Single information, Single audit, eenmalige informatieverstrekking, eenmalige accountantscontrole. SiSa is de manier waarop provincies, gemeenten, gemeenschappelijke regelingen zich per jaar verantwoorden over de besteding van specifieke uitkeringen of provinciale middelen;
 
-- –. **toeleidingssysteem:** systeem dat de plaatsings-, cliënt- en uitstroomgegevens bevat van jeugdigen in de gesloten jeugdhulp;
+- – *toeleidingssysteem:* systeem dat de plaatsings-, cliënt- en uitstroomgegevens bevat van jeugdigen in de gesloten jeugdhulp;
 
-- –. **VNG:** Vereniging van Nederlandse Gemeenten;
+- – *VNG:* Vereniging van Nederlandse Gemeenten;
 
-- –. **VWS:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- – *VWS:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- –. **zorggebied:** de jeugdregio’s waarvoor de plaatsingscoördinatie actief is.
+- – *zorggebied:* de jeugdregio’s waarvoor de plaatsingscoördinatie actief is.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 2. Toepasselijkheid Kaderregeling en Awb
 
 1. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 2. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
-#### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
+##### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
 1. De minister kan een specifieke uitkering aan een coördinerende gemeente verstrekken voor activiteiten die nodig zijn in verband met de inkoop en organisatie van de volgende randvoorwaardelijke functies:
 
-- a. expertisenetwerken jeugdhulp, voor activiteiten die nodig zijn in verband met de instandhouding en doorontwikkeling van het expertisenetwerk jeugdhulp voor het bovenregionale gebied conform de uitgangspunten als bedoeld in de Kamerbrief ‘Stand van zaken expertisecentra jeugdhulp’ d.d. 17 juni 2020;
+- a. expertisenetwerken jeugdhulp, voor activiteiten die nodig zijn in verband met de instandhouding en doorontwikkeling van het expertisenetwerk jeugdhulp voor het bovenregionale gebied conform de uitgangspunten als bedoeld in de Kamerbrief ‘Stand van zaken expertisecentra jeugdhulp’ d.d. 17 juni 2020;
 
 - b. de academische onderzoeksfunctie van de academische centra kinder- en jeugdpsychiatrie, voor activiteiten die nodig zijn voor de financiering van wetenschappelijk academisch onderzoek als onderdeel van de academische functie van één van de academische centra kinder- en jeugdpsychiatrie;
 
@@ -82,79 +82,129 @@ In deze regeling wordt verstaan onder:
 
 - b. het monitoren van de capaciteitsbehoefte en beschikbare capaciteit in de gesloten jeugdhulp.
 
-#### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond 2025
+##### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond 2025
 
 De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt voor 2025 maximaal:
 
-- 1. Expertisenetwerken:
+- 1. Expertisenetwerken: a)
+ Amsterdam
+ € 3.897.690,33
+ b)
+ Rotterdam
+ € 5.004.065,81
+ c)
+ Eindhoven
+ € 3.930.712,26
+ d)
+ Roermond
+ € 1.844.638,51
+ e)
+ Groningen
+ € 2.677.568,31
+ f)
+ Utrecht
+ € 2.812.216,18
+ g)
+ Nijmegen
+ € 3.237.468,30
+ h)
+ Enschede
+ € 2.140.640,29
 
-| a) | Amsterdam | € 3.897.690,33 |
-| --- | --- | --- |
-| b) | Rotterdam | € 5.004.065,81 |
-| c) | Eindhoven | € 3.930.712,26 |
-| d) | Roermond | € 1.844.638,51 |
-| e) | Groningen | € 2.677.568,31 |
-| f) | Utrecht | € 2.812.216,18 |
-| g) | Nijmegen | € 3.237.468,30 |
-| h) | Enschede | € 2.140.640,29 |
+- 2. Academische centra: a)
+ Amsterdam
+ € 1.095.699,40
+ b)
+ Groningen
+ € 1.692.175,12
+ c)
+ Leiden
+ € 978.997,50
+ d)
+ Nijmegen
+ € 1.951.512,53
 
-- 2. Academische centra:
+- 3. Plaatsingscoördinatie gesloten jeugdhulp: a)
+ Arnhem
+ € 106.487,63
+ b)
+ Den Haag
+ € 165.647,42
+ c)
+ Leeuwarden
+ € 106.487,63
+ d)
+ Tilburg
+ € 136.067,53
+ e)
+ Utrecht
+ € 136.067,53
 
-| a) | Amsterdam | € 1.095.699,40 |
-| --- | --- | --- |
-| b) | Groningen | € 1.692.175,12 |
-| c) | Leiden | € 978.997,50 |
-| d) | Nijmegen | € 1.951.512,53 |
-
-- 3. Plaatsingscoördinatie gesloten jeugdhulp:
-
-| a) | Arnhem | € 106.487,63 |
-| --- | --- | --- |
-| b) | Den Haag | € 165.647,42 |
-| c) | Leeuwarden | € 106.487,63 |
-| d) | Tilburg | € 136.067,53 |
-| e) | Utrecht | € 136.067,53 |
-
-#### Artikel 5. Hoogte van de specifieke uitkering en uitkeringsplafond vanaf 2026
+##### Artikel 5. Hoogte van de specifieke uitkering en uitkeringsplafond vanaf 2026
 
 De specifieke uitkering per randvoorwaardelijke functies Expertisenetwerken en Academische centra en per coördinerende gemeente bedraagt voor de jaren 2026 en 2027 tezamen maximaal:
 
-- 1. Expertisenetwerken:
+- 1. Expertisenetwerken: a)
+ Amsterdam
+ € 6.866.160,30
+ b)
+ Rotterdam
+ € 8.815.148,22
+ c)
+ Eindhoven
+ € 6.924.331,64
+ d)
+ Roermond
+ € 3.249.510,02
+ e)
+ Groningen
+ € 4.716.796,78
+ f)
+ Utrecht
+ € 4.953.992,10
+ g)
+ Nijmegen
+ € 5.703.115,04
+ h)
+ Enschede
+ € 3.770.945,90
 
-| a) | Amsterdam | € 6.866.160,30 |
-| --- | --- | --- |
-| b) | Rotterdam | € 8.815.148,22 |
-| c) | Eindhoven | € 6.924.331,64 |
-| d) | Roermond | € 3.249.510,02 |
-| e) | Groningen | € 4.716.796,78 |
-| f) | Utrecht | € 4.953.992,10 |
-| g) | Nijmegen | € 5.703.115,04 |
-| h) | Enschede | € 3.770.945,90 |
-
-- 2. Academische centra:
-
-| a) | Amsterdam | € 1.882.106,04 |
-| --- | --- | --- |
-| b) | Groningen | € 2.906.485,00 |
-| c) | Leiden | € 1.681.644,72 |
-| d) | Nijmegen | € 3.352.154,36 |
+- 2. Academische centra: a)
+ Amsterdam
+ € 1.882.106,04
+ b)
+ Groningen
+ € 2.906.485,00
+ c)
+ Leiden
+ € 1.681.644,72
+ d)
+ Nijmegen
+ € 3.352.154,36
 
 De specifieke uitkering per randvoorwaardelijke functie Plaatsingscoördinatie gesloten jeugdhulp en per coördinerende gemeente bedraagt vanaf 2026 jaarlijks maximaal:
 
-- 3. Plaatsingscoördinatie gesloten jeugdhulp:
+- 3. Plaatsingscoördinatie gesloten jeugdhulp: a)
+ Arnhem
+ € 91.458,03
+ b)
+ Den Haag
+ € 142.268,04
+ c)
+ Leeuwarden
+ € 91.458,03
+ d)
+ Tilburg
+ € 116.863,04
+ e)
+ Utrecht
+ € 116.863,04
 
-| a) | Arnhem | € 91.458,03 |
-| --- | --- | --- |
-| b) | Den Haag | € 142.268,04 |
-| c) | Leeuwarden | € 91.458,03 |
-| d) | Tilburg | € 116.863,04 |
-| e) | Utrecht | € 116.863,04 |
+##### Artikel 6. Verlening
 
-#### Artikel 6. Verlening
+1. De minister neemt vóór 15 mei 2026 een besluit omtrent de verlening van de specifieke uitkering voor de functies expertisenetwerken en academische centra voor de jaren 2026 en 2027 tezamen.
 
-1. De minister neemt vóór 15 mei 2026 een besluit omtrent de verlening van de specifieke uitkering voor de functies expertisenetwerken en academische centra voor de jaren 2026 en 2027 tezamen.
-
-2. De minister neemt vóór 15 oktober 2026 een besluit omtrent de verlening van de specifieke uitkering voor de functie plaatsingscoördinatie gesloten jeugdhulp voor het jaar 2027.
+2. De minister neemt vóór 15 oktober 2026 een besluit omtrent de verlening van de specifieke uitkering voor de functie plaatsingscoördinatie gesloten jeugdhulp voor het jaar 2027.
 
 3. Het besluit tot verlening vermeldt in elk geval het doel waarvoor de specifieke uitkering wordt verleend, het bedrag van de specifieke uitkering, de periode waarvoor de specifieke uitkering wordt verleend en de wijze waarop de verantwoording plaatsvindt.
 
@@ -162,7 +212,7 @@ De specifieke uitkering per randvoorwaardelijke functie Plaatsingscoördinatie g
 
 5. De minister verleent bij het besluit tot verlening van de specifieke uitkering voor de functie plaatsingscoördinatie gesloten jeugdhulp een voorschot van 100% dat in één keer wordt betaald.
 
-#### Artikel 7. Algemene verplichtingen
+##### Artikel 7. Algemene verplichtingen
 
 1. De coördinerende gemeente informeert de minister op verzoek over de stand van zaken rond de randvoorwaardelijke functie, de activiteiten die ondernomen worden en over de besteding van de middelen uit de specifieke uitkering.
 
@@ -174,7 +224,7 @@ De specifieke uitkering per randvoorwaardelijke functie Plaatsingscoördinatie g
 
 - c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
 
-#### Artikel 8. Specifieke verplichtingen expertisenetwerken jeugdhulp
+##### Artikel 8. Specifieke verplichtingen expertisenetwerken jeugdhulp
 
 1. De coördinerende gemeente draagt er zorg voor dat het expertisenetwerk jeugdhulp de basisset indicatoren, zoals afgesproken tussen VNG, VWS en de coördinerende gemeente, gebruikt om te leren van de casuïstiek.
 
@@ -182,11 +232,11 @@ De specifieke uitkering per randvoorwaardelijke functie Plaatsingscoördinatie g
 
 3. De coördinerende gemeente draagt er zorg voor dat de wethouder die verantwoordelijk is voor het jeugddomein deelneemt aan het bestuurlijk overleg expertisenetwerken jeugdhulp.
 
-#### Artikel 9. Specifieke verplichting academisch onderzoek als onderdeel van de academische functie van een ACKJP
+##### Artikel 9. Specifieke verplichting academisch onderzoek als onderdeel van de academische functie van een ACKJP
 
 De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesprek met het ACKJP over de vraag of en hoe de onderzoeksresultaten van waarde zijn voor de uitvoering van de jeugdhulp en de vakinhoudelijke ontwikkeling van jeugdhulpprofessionals.
 
-#### Artikel 10. Specifieke verplichtingen plaatsingscoördinatie gesloten jeugdhulp
+##### Artikel 10. Specifieke verplichtingen plaatsingscoördinatie gesloten jeugdhulp
 
 1. De coördinerende gemeente draagt er zorg voor dat er een plaatsingscoördinatie gesloten jeugdhulp is.
 
@@ -196,7 +246,7 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 4. De coördinerende gemeente draagt de plaatsingscoördinatie gesloten jeugdhulp op om ten behoeve van landelijk inzicht monitoringsinformatie te delen met de Jeugdautoriteit.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De ontvanger van een specifieke uitkering legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -204,68 +254,20 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2026-04-21&g=2026-04-21), niet of niet geheel in het jaar of in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2026-04-21&g=2026-04-21), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend, zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering, wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 januari 2028, met dien verstande dat de regeling van toepassing blijft op specifieke uitkeringen die krachtens deze regeling zijn verleend.
+Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 januari 2028, met dien verstande dat de regeling van toepassing blijft op specifieke uitkeringen die krachtens deze regeling zijn verleend.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp.
-
-## Bijlage 1. Regio-indeling
-
-| Bovenregionaal gebied Noord-Holland Coördinerende gemeente: Amsterdam | Bovenregionaal gebied Zuid-Holland Coördinerende gemeente: Rotterdam |
-| --- | --- |
-| Aangesloten jeugdzorgregio’s: | Aangesloten jeugdzorgregio’s: |
-| Kop van Noord-Holland | Holland Rijnland |
-| Noord-Kennemerland | Haaglanden |
-| Midden Kennemerland | Rijnmond |
-| Zuid- Kennemerland | Zuid-Holland-Zuid |
-| Haarlemmermeer | Midden-Holland |
-| West-Friesland |   |
-| Zaanstreek-Waterland |   |
-| Amsterdam-Amstelland |   |
-| Gooi- en Vechtstreek |   |
-
-| Bovenregionaal gebied Brabant en Zeeland Coördinerende gemeente: Eindhoven | Bovenregionaal gebied Limburg Coördinerende gemeente: Roermond |
-| --- | --- |
-| Aangesloten jeugdzorgregio’s: | Aangesloten jeugdzorgregio’s: |
-| Zeeland | Noord-Limburg |
-| West-Brabant-West | Midden-Limburg West |
-| West-Brabant-Oost | Midden-Limburg Oost |
-| Midden Brabant | Zuid-Limburg |
-| Zuidoost Brabant |   |
-| Noordoost Brabant |   |
-
-| Bovenregionaal gebied Utrecht en Flevoland Coördinerende gemeente: Utrecht | Bovenregionaal gebied Overijssel Coördinerende gemeente: Enschede |
-| --- | --- |
-| Aangesloten jeugdzorgregio’s: | Aangesloten jeugdzorgregio’s: |
-| Utrecht | IJsselland |
-| Utrecht West | Twente |
-| Flevoland |   |
-| Lekstroom |   |
-| Zuidoost-Utrecht |   |
-| Eemland |   |
-
-| Bovenregionaal gebied Gelderland Coördinerende gemeente: Nijmegen | Bovenregionaal gebied Noord Nederland Coördinerende gemeente: Groningen |
-| --- | --- |
-| Aangesloten jeugdzorgregio’s: | Aangesloten jeugdzorgregio’s: |
-| Rijk van Nijmegen | Friesland |
-| Centraal Gelderland | Groningen |
-| Achterhoek | Drenthe |
-| Rivierenland |   |
-| Food Valley |   |
-| Noord Veluwe |   |
-| Middel IJssel – Oost Veluwe |   |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

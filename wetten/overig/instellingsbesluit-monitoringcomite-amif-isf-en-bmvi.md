@@ -1,58 +1,33 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 december 2022, nummer 4357330, tot instelling van een Monitoringcomité AMIF, ISF en BMVI (Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI)"
+citeertitel: "Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI"
 identifier: "BWBR0047664"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-22"
-last_updated: "2022-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047664"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16604673"
-version_id: "29121632"
-internal_id: "C41389131"
-label_id: "16523274"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047664/2022-12-22/0"
-intitule_bron: "Stcrt.2022-34197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-12-12"
-intitule_published: "2022-12-21"
-intitule_in_force: "2022-12-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-34197"
-original_signed_date: "2022-12-12"
-original_published_date: "2022-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-34197"
-entry_into_force_date: "2022-12-22"
-jci_1_3: "jci1.3:c:BWBR0047664&z=2022-12-22&g=2022-12-22"
-jci_1_0: "1.0:c:BWBR0047664&g=2022-12-22"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI"
-signed_date: "2022-12-12"
-entry_into_force: "2022-12-22"
+publicatiedatum: 2022-12-22
+laatste_update: 2022-12-22
+status: geldig
+toestand: 2022-12-22
+bron: "https://wetten.overheid.nl/BWBR0047664"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 12 december 2022, nummer 4357330, tot instelling van een Monitoringcomité AMIF, ISF en BMVI (Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI)
-
-Gelet op de artikelen 38, 39 en 40 van [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 tot vaststelling van de gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU L 231/159);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de auditautoriteit:** de Auditdienst Rijk van het Ministerie van Financiën;
+- a. *de auditautoriteit:* de Auditdienst Rijk van het Ministerie van Financiën;
 
-- b. **de beheerautoriteit:** de directeur Regie Migratieketen van het Ministerie van Justitie en Veiligheid;
+- b. *de beheerautoriteit:* de directeur Regie Migratieketen van het Ministerie van Justitie en Veiligheid;
 
-- c. **de intermediaire instantie:** de Minister van Sociale Zaken en Werkgelegenheid;
+- c. *de intermediaire instantie:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- d. **de Verordening:** [Verordening (EU) 2021/1060](32960R2021) van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU L 231/159);
+- d. *de Verordening:*
+ Verordening (EU) 2021/1060 van het Europees Parlement en de Raad van 24 juni 2021 houdende gemeenschappelijke bepalingen inzake het Europees Fonds voor regionale ontwikkeling, het Europees Sociaal Fonds Plus, het Cohesiefonds, het Fonds voor een rechtvaardige transitie en het Europees Fonds voor maritieme zaken, visserij en aquacultuur en de financiële regels voor die fondsen en voor het Fonds voor asiel, migratie en integratie, het Fonds voor interne veiligheid en het Instrument voor financiële steun voor grensbeheer en visumbeleid (PbEU L 231/159);
 
-- e. **het comité:** het comité, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047664&artikel=2&z=2022-12-22&g=2022-12-22).
+- e. *het comité:* het comité, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047664&artikel=2&z=2022-12-22&g=2022-12-22).
 
 ##### Artikel 2. Instelling
 
@@ -160,12 +135,10 @@ Het archief van het comité wordt na afloop van de werkzaamheden overgebracht na
 
 ##### Artikel 11. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-2. Dit besluit vervalt met ingang van 1 januari 2030.
+2. Dit besluit vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Monitoringcomité AMIF, ISF en BMVI.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

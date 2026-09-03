@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 28 november 2022, nr. 3654280, tot aanwijzing van de Bond van Harddraverijverenigingen en -stichtingen in Nederland als ontvanger, bedoeld in artikel 2.2, tweede lid, van de Regeling kansspelen op afstand"
+citeertitel: "Besluit aanwijzing Bond van Harddraverijverenigingen en -stichtingen in Nederland als ontvanger, ex artikel 2.2, tweede lid, Regeling kansspelen op afstand"
 identifier: "BWBR0047601"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-12-10"
-last_updated: "2021-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047601"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16590083"
-version_id: "29092842"
-internal_id: "C41353651"
-label_id: "16509444"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047601/2022-12-10/0"
-intitule_bron: "Stcrt.2022-33233"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-11-28"
-intitule_published: "2022-12-09"
-intitule_in_force: "2022-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33233"
-original_signed_date: "2022-11-28"
-original_published_date: "2022-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-33233"
-entry_into_force_date: "2022-12-10"
-jci_1_3: "jci1.3:c:BWBR0047601&z=2022-12-10&g=2022-12-10"
-jci_1_0: "1.0:c:BWBR0047601&g=2022-12-10"
-citeertitel_status: "redactioneel"
-short_title: "Besluit aanwijzing Bond van Harddraverijverenigingen en -stichtingen in Nederland als ontvanger, ex artikel 2.2, tweede lid, Regeling kansspelen op afstand"
-signed_date: "2022-11-28"
-entry_into_force: "2022-12-10"
+publicatiedatum: 2022-12-10
+laatste_update: 2022-12-10
+status: geldig
+toestand: 2022-12-10
+bron: "https://wetten.overheid.nl/BWBR0047601"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 28 november 2022, nr. 3654280, tot aanwijzing van de Bond van Harddraverijverenigingen en -stichtingen in Nederland als ontvanger, bedoeld in artikel 2.2, tweede lid, van de Regeling kansspelen op afstand
-
-Gelet op [artikel 2.2, tweede en vierde lid, van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=2.2);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop artikel 2.2, tweede lid, van de Regeling kansspelen op afstand in werking treedt.
 
 ##### Artikel 1
 
@@ -58,9 +30,9 @@ Onverminderd [artikel 2.2, derde lid, van de Regeling kansspelen op afstand](htt
 
 - d. uit de administratie van de ontvanger moet in ieder geval blijken:
 
-- 1°. de hoogte en herkomst van elk afdrachtsbedrag, alsmede het tijdvak waarin het bedrag is ontvangen;
+   - 1°. de hoogte en herkomst van elk afdrachtsbedrag, alsmede het tijdvak waarin het bedrag is ontvangen;
 
-- 2°. de hoogte en bestemming van elk bedrag dat uit de afdracht wordt besteed, het tijdvak waarin het bedrag is besteed, alsmede dat dit in overeenstemming is met [artikel 2.2, derde lid, van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=2.2);
+   - 2°. de hoogte en bestemming van elk bedrag dat uit de afdracht wordt besteed, het tijdvak waarin het bedrag is besteed, alsmede dat dit in overeenstemming is met [artikel 2.2, derde lid, van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=2.2);
 
 - e. de ontvanger brengt uiterlijk vier maanden na afloop van elk boekjaar een jaarverslag uit voorzien van een passende, duidelijke en begrijpelijke toelichting met betrekking tot de ontvangen en bestede bedragen;
 
@@ -75,5 +47,3 @@ Onverminderd [artikel 2.2, derde lid, van de Regeling kansspelen op afstand](htt
 ##### Artikel 3
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 2.2, tweede lid, van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=2.2) in werking treedt.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

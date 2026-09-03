@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0052921"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 9 juli 2026 nr. 2026-0000323431 tot openstelling en vaststelling uitkeringsplafond aanvraagtijdvak van de negende tranche van de Woningbouwimpuls

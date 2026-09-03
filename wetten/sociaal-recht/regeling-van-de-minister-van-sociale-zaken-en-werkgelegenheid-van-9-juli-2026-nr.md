@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0052927"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2026, nr. 2026-0000230468, tot de vaststelling van tijdelijke regels over het toekennen van een financiële vergoeding aan personen voor wie de WIA-uitkering niet correct is berekend als gevolg van een te lage vaststelling van het dagloon (Tijdelijke regeling eenmalige vergoeding correctie dagloon WIA) [KetenID WGK028117]

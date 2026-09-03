@@ -1,56 +1,30 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 21 maart 2023, nr. 3533353, houdende regels voor de beoordeling van de gegrondheid van verzoeken van curatoren tot verstrekking van een voorschot en de grenzen waarbinnen zodanige verzoeken kunnen worden toegewezen (Garantstellingsregeling curatoren 2023)"
+citeertitel: "Garantstellingsregeling curatoren 2023"
 identifier: "BWBR0048015"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-01"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048015"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16710743"
-version_id: "29312282"
-internal_id: "C41752491"
-label_id: "16627524"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048015/2023-06-01/0"
-intitule_bron: "Stcrt.2023-9704"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-21"
-intitule_published: "2023-03-31"
-intitule_in_force: "2023-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-9704"
-original_signed_date: "2023-03-21"
-original_published_date: "2023-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-9704"
-entry_into_force_date: "2023-06-01"
-jci_1_3: "jci1.3:c:BWBR0048015&z=2023-06-01&g=2023-06-01"
-jci_1_0: "1.0:c:BWBR0048015&g=2023-06-01"
-citeertitel_status: "officieel"
-short_title: "Garantstellingsregeling curatoren 2023"
-signed_date: "2023-03-21"
-entry_into_force: "2023-06-01"
+publicatiedatum: 2023-06-01
+laatste_update: 2023-06-01
+status: geldig
+toestand: 2023-06-01
+bron: "https://wetten.overheid.nl/BWBR0048015"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 21 maart 2023, nr. 3533353, houdende regels voor de beoordeling van de gegrondheid van verzoeken van curatoren tot verstrekking van een voorschot en de grenzen waarbinnen zodanige verzoeken kunnen worden toegewezen (Garantstellingsregeling curatoren 2023)
-
-Gelet op [artikel 138, tiende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **de Minister:** de Minister voor Rechtsbescherming;
+- a. *de Minister:* de Minister voor Rechtsbescherming;
 
-- b. **de Recofa:** het landelijk overleg van rechters-commissarissen insolventies;
+- b. *de Recofa:* het landelijk overleg van rechters-commissarissen insolventies;
 
-- c. **de Recofa-richtlijnen voor faillissementen en surseances van betaling:** de periodiek door de Recofa vastgestelde richtlijnen voor faillissementen en surseances van betaling;
+- c. *de Recofa-richtlijnen voor faillissementen en surseances van betaling:* de periodiek door de Recofa vastgestelde richtlijnen voor faillissementen en surseances van betaling;
 
-- d. **de Staat:** de Staat der Nederlanden.
+- d. *de Staat:* de Staat der Nederlanden.
 
 ##### Artikel 2. Garantstelling
 
@@ -164,16 +138,14 @@ De Minister zendt binnen vijf jaar na de inwerkingtreding van deze regeling, en 
 
 2. Toepassing van het eerste lid kan niet leiden tot een wijziging ten nadele van de betrokken curator.
 
-##### Artikel 14. Intrekking [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312)
+##### Artikel 14. Intrekking Garantstellingsregeling curatoren 2012
 
 De [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312) wordt ingetrokken.
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juni 2023.
+Deze regeling treedt in werking met ingang van 1 juni 2023.
 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Garantstellingsregeling curatoren 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

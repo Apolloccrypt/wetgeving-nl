@@ -1,40 +1,17 @@
 ---
 title: "Organisatiebesluit AIVD 2023"
 identifier: "BWBR0047903"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-02-23"
-last_updated: "2020-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047903"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16681843"
-version_id: "29262802"
-internal_id: "C41663301"
-label_id: "16599404"
-dtd_version: "2.0"
-original_entry_into_force: "2023-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047903/2023-02-23/0"
-intitule_bron: "Stcrt.2023-5556"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-02-22"
-intitule_in_force: "2023-02-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-5556"
-original_published_date: "2023-02-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-5556"
-entry_into_force_date: "2023-02-23"
-jci_1_3: "jci1.3:c:BWBR0047903&z=2023-02-23&g=2023-02-23"
-jci_1_0: "1.0:c:BWBR0047903&g=2023-02-23"
-citeertitel_status: "officieel"
-entry_into_force: "2023-02-23"
+publicatiedatum: 2023-02-23
+laatste_update: 2023-02-23
+status: geldig
+toestand: 2023-02-23
+bron: "https://wetten.overheid.nl/BWBR0047903"
+opgehaald: 2026-09-03
 ---
+
 # Organisatiebesluit AIVD 2023
-
-Gelet op [artikel 25, derde lid van het Organisatiebesluit BZK 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043708&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -116,7 +93,7 @@ Het Organisatiebesluit AIVD 2015 wordt ingetrokken.
 
 ##### Artikel 10
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 11
 

@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0046589"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2021/329303, houdende vaststelling van regels voor subsidie ter stimulering van de aanschaf van nieuwe emissieloze vrachtauto’s (Aanschafsubsidieregeling zero-emissie trucks AanZET)

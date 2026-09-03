@@ -1,40 +1,17 @@
 ---
 title: "Besluit instelling Expertgroep drugsprecursoren"
 identifier: "BWBR0048010"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-03-30"
-last_updated: "2023-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048010"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16707483"
-version_id: "29306252"
-internal_id: "C41746371"
-label_id: "16624264"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048010/2023-03-30/0"
-intitule_bron: "Stcrt.2023-9473"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-03-29"
-intitule_in_force: "2023-03-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-9473"
-original_published_date: "2023-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-9473"
-entry_into_force_date: "2023-03-30"
-jci_1_3: "jci1.3:c:BWBR0048010&z=2023-03-30&g=2023-03-30"
-jci_1_0: "1.0:c:BWBR0048010&g=2023-03-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-03-30"
+publicatiedatum: 2023-03-30
+laatste_update: 2023-03-30
+status: geldig
+toestand: 2023-03-30
+bron: "https://wetten.overheid.nl/BWBR0048010"
+opgehaald: 2026-09-03
 ---
+
 # Besluit instelling Expertgroep drugsprecursoren
-
-Gelet op [artikel 4a, tweede lid, van de Wet voorkoming misbruik chemicaliën](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=4a);
-
-Besluiten:
 
 ##### Artikel 1
 
@@ -42,7 +19,7 @@ Besluiten:
 
 2. De Expertgroep drugsprecursoren heeft tot taak aan de Minister van Justitie en Veiligheid en de Minister van Volksgezondheid, Welzijn en Sport gevraagd en ongevraagd rapport uit te brengen over de vraag of bij stoffen die in Nederland zijn aangetroffen, dan wel waarvan wegens internationale ontwikkelingen de verwachting bestaat dat deze stoffen in de nabije toekomst in Nederland zullen worden aangetroffen, wordt voldaan aan de voorwaarden genoemd in [artikel 4a, tweede lid, van de Wet voorkoming misbruik van chemicaliën](https://wetten.overheid.nl/jci1.3:c:BWBR0007286&artikel=4a).
 
-3. De taak van de Expertgroep strekt zich niet uit tot geregistreerde stoffen of een op een lijst van niet-geregistreerde stoffen geplaatste stof als bedoeld in [Verordening nr. 273/2004](32004R0273) en [Verordening nr. 111/2005](32005R0111).
+3. De taak van de Expertgroep strekt zich niet uit tot geregistreerde stoffen of een op een lijst van niet-geregistreerde stoffen geplaatste stof als bedoeld in Verordening nr. 273/2004 en Verordening nr. 111/2005.
 
 ##### Artikel 2
 
@@ -84,7 +61,7 @@ Besluiten:
 
 - b. Of er een legale toepassing van de stof bekend is; en
 
-- c. Of de stof een geregistreerde stof of een op een lijst van niet-geregistreerde stoffen geplaatste stof als bedoeld in [Verordening nr. 273/2004](32004R0273) en [Verordening nr. 111/2005](32005R0111) betreft.
+- c. Of de stof een geregistreerde stof of een op een lijst van niet-geregistreerde stoffen geplaatste stof als bedoeld in Verordening nr. 273/2004 en Verordening nr. 111/2005 betreft.
 
 5. Het rapport van de Expertgroep drugsprecursoren doet verslag van alle bevindingen en overwegingen die door één of meer van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048010&artikel=2&z=2023-03-30&g=2023-03-30) genoemde vertegenwoordigers als relevant worden beoordeeld.
 
@@ -97,5 +74,3 @@ Besluiten:
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

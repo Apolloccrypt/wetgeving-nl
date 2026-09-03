@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 20 februari 2023, 2023-0000079987, tot subsidiëring van re-integratiemethode Individuele Plaatsing en Steun voor de gemeentelijke doelgroep (Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep)"
+citeertitel: "Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep"
 identifier: "BWBR0047929"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047929"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16686223"
-version_id: "29270162"
-internal_id: "C41690671"
-label_id: "16604044"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047929/2026-01-01/0"
-intitule_bron: "Stcrt.2023-6260"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-02-20"
-intitule_published: "2023-02-28"
-intitule_in_force: "2023-02-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-6260"
-original_signed_date: "2023-02-20"
-original_published_date: "2023-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-6260"
-entry_into_force_date: "2023-03-01"
-jci_1_3: "jci1.3:c:BWBR0047929&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0047929&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep"
-signed_date: "2023-02-20"
-entry_into_force: "2023-03-01"
+publicatiedatum: 2023-03-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0047929"
+opgehaald: 2026-09-03
 ---
+
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 20 februari 2023, 2023-0000079987, tot subsidiëring van re-integratiemethode Individuele Plaatsing en Steun voor de gemeentelijke doelgroep (Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep)
-
-Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [5, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5) en de [artikelen 45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=45), en [49, vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -46,35 +20,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **college:** het college van burgemeester en wethouders;
+- *college:* het college van burgemeester en wethouders;
 
-- **CMD:** common mental disorder, zijnde een gediagnosticeerde hoogprevalente psychische stoornis waarvoor de klant gedurende beperkte tijd in behandeling is bij of onder begeleiding staat van een GGZ-instelling, voornamelijk in diagnosespecifieke ambulante of poliklinische zorgprogramma’s;
+- *CMD:* common mental disorder, zijnde een gediagnosticeerde hoogprevalente psychische stoornis waarvoor de klant gedurende beperkte tijd in behandeling is bij of onder begeleiding staat van een GGZ-instelling, voornamelijk in diagnosespecifieke ambulante of poliklinische zorgprogramma’s;
 
-- **EPA:** ernstige psychiatrische aandoening, zijnde een gediagnosticeerde psychische, gedrags- of emotionele stoornis waarvoor de klant in behandeling is bij of onder begeleiding staat van een GGZ-instelling, die:
+- *EPA:* ernstige psychiatrische aandoening, zijnde een gediagnosticeerde psychische, gedrags- of emotionele stoornis waarvoor de klant in behandeling is bij of onder begeleiding staat van een GGZ-instelling, die:
 
-- a. van voldoende duur is om te voldoen aan de diagnostische criteria, bedoeld in de vierde herziene versie van het diagnostisch handboek ‘Diagnostic and statistic manual of mental disorders (DSM), vastgesteld door de American Psychiatric Association en overgenomen door de Nederlandse vereniging voor Psychiatrie, en
+   - a. van voldoende duur is om te voldoen aan de diagnostische criteria, bedoeld in de vierde herziene versie van het diagnostisch handboek ‘Diagnostic and statistic manual of mental disorders (DSM), vastgesteld door de American Psychiatric Association en overgenomen door de Nederlandse vereniging voor Psychiatrie, en
 
-- b. resulteert in ernstige functionele beperkingen die leiden tot substantiële verstoring of begrenzing van belangrijke levensactiviteiten;
+   - b. resulteert in ernstige functionele beperkingen die leiden tot substantiële verstoring of begrenzing van belangrijke levensactiviteiten;
 
-- **GGZ-instelling:** een rechtspersoon die geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en over een vergunning als bedoeld in [artikel 4, eerste of tweede lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=4) beschikt; of, een rechtspersoon die geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en die zorg verleent op basis van één of meerdere van de volgende wetten:
+- *GGZ-instelling:* een rechtspersoon die geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en over een vergunning als bedoeld in [artikel 4, eerste of tweede lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=4) beschikt; of, een rechtspersoon die geestelijke gezondheidszorg biedt, onder onafhankelijk toezicht staat en die zorg verleent op basis van één of meerdere van de volgende wetten:
 
-- ○. [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
+   - ○ [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925);
 
-- ○. [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
+   - ○ [Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634);
 
-- ○. [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+   - ○ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- ○. [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
+   - ○ [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362);
 
-- ○. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+   - ○ [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **IPS-traject:** een re-integratietraject Individuele Plaatsing en Steun dat het totaal aan ondersteuningsactiviteiten bevat gericht op het vinden en behoud van werk die een klant doorloopt;
+- *IPS-traject:* een re-integratietraject Individuele Plaatsing en Steun dat het totaal aan ondersteuningsactiviteiten bevat gericht op het vinden en behoud van werk die een klant doorloopt;
 
-- **klant:** een persoon als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), in samenhang met de artikelen 7, derde lid, [7a, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13) en [16, van de Participatiewet en met uitzondering van artikel 7, eerste lid, onderdeel a, tweede subonderdeel, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=16);
+- *klant:* een persoon als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), in samenhang met de artikelen 7, derde lid, [7a, eerste lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=13) en [16, van de Participatiewet en met uitzondering van artikel 7, eerste lid, onderdeel a, tweede subonderdeel, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=16);
 
-- **Minister:** Minister van Sociale Zaken en Werkgelegenheid;
+- *Minister:* Minister van Sociale Zaken en Werkgelegenheid;
 
-- **UWV:** Uitvoeringsinstituut werknemersverzekeringen.
+- *UWV:* Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -82,7 +56,7 @@ Het doel van deze regeling is om door middel van subsidie de inzet van IPS-traje
 
 ##### Artikel 3. Subsidieverstrekking
 
-1. De Minister verstrekt subsidie overeenkomstig deze regeling aan een GGZ-instelling voor een IPS-traject. Indien het traject ten tijde van de aanvraag reeds van start is gegaan, ligt de startdatum niet voor 20 november 2025.
+1. De Minister verstrekt subsidie overeenkomstig deze regeling aan een GGZ-instelling voor een IPS-traject. Indien het traject ten tijde van de aanvraag reeds van start is gegaan, ligt de startdatum niet voor 20 november 2025.
 
 2. De Minister neemt binnen zes weken na ontvangst van de subsidieaanvraag een besluit omtrent verlening.
 
@@ -102,7 +76,7 @@ Het doel van deze regeling is om door middel van subsidie de inzet van IPS-traje
 
 - c. voor aanvragen gedaan in het jaar 2025 9,996 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 4,638 miljoen euro in 2025, 3,319 miljoen euro in 2026 en 2,039 miljoen euro in 2027;
 
-- d. voor aanvragen gedaan in het jaar 2026 10,1 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 5,4 miljoen euro in 2026, 2,9 miljoen euro in 2027 en 1,8 miljoen euro in 2028.
+- d. voor aanvragen gedaan in het jaar 2026 10,1 miljoen euro. De bijbehorende uitgaven zijn verdeeld over drie jaren: 5,4 miljoen euro in 2026, 2,9 miljoen euro in 2027 en 1,8 miljoen euro in 2028.
 
 2. Het subsidiebedrag voor een volledig IPS-traject van maximaal 24 maanden vanwege CMD of 36 maanden vanwege EPA bedraagt:
 
@@ -156,7 +130,7 @@ Subsidie voor een IPS-traject wordt uitsluitend verstrekt aan een GGZ-instelling
 
 ##### Artikel 10. Aanvraag
 
-1. Een subsidieaanvraag voor een IPS-traject kan worden ingediend vanaf 1 januari 2026, 9.00 uur, tot en met 19 november 2026, 17.00 uur.
+1. Een subsidieaanvraag voor een IPS-traject kan worden ingediend vanaf 1 januari 2026, 9.00 uur, tot en met 19 november 2026, 17.00 uur.
 
 2. Een GGZ-instelling dient de aanvraag schriftelijk in bij het college van de gemeente waar de klant woonachtig is.
 
@@ -196,7 +170,7 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 3. UWV betaalt de eerste termijn van de bevoorschotting binnen acht weken na de datum van een besluit tot subsidieverlening.
 
-4. UWV betaalt de opvolgende termijn dan wel termijnen binnen 12 maanden na de betaling van de voorafgaande termijn, behoudens in het geval dat het college UWV uiterlijk twee weken voor de eerstvolgende termijn heeft geïnformeerd over wijziging in de subsidieverlening of de subsidievaststelling.
+4. UWV betaalt de opvolgende termijn dan wel termijnen binnen 12 maanden na de betaling van de voorafgaande termijn, behoudens in het geval dat het college UWV uiterlijk twee weken voor de eerstvolgende termijn heeft geïnformeerd over wijziging in de subsidieverlening of de subsidievaststelling.
 
 5. Indien het IPS-traject reeds van start is gegaan ten tijde van de subsidieaanvraag, wordt voor de vaststelling van de opvolgende termijnen van de bevoorschotting de eerste termijn vastgesteld op de datum van de aanvang van het IPS-traject. Indien op basis van de vastgestelde termijn de tweede termijn reeds is verstreken, vindt de betaling van deze termijn tegelijkertijd plaats met de betaling krachtens het derde lid, of binnen een periode van twee weken nadien.
 
@@ -226,7 +200,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 2. UWV is verwerker als bedoeld in artikel 4 van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens ter uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01), die UWV onder volmacht en machtiging uitoefent.
 
-3. De verwerker, genoemd in het eerste lid, voldoet bij de verwerking van persoonsgegevens in het kader van deze regeling aan de voorwaarden vermeld in de bijlage bij deze regeling.
+3. De verwerker, genoemd in het eerste lid, voldoet bij de verwerking van persoonsgegevens in het kader van deze regeling aan de voorwaarden vermeld in de [bijlage](https://wetten.overheid.nl/BWBR0047929) bij deze regeling.
 
 ##### Artikel 17. Gegevensverwerking door de colleges
 
@@ -306,13 +280,13 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten, waaronder de ontvangen voorschotten, en lasten opgenomen, met betrekking tot de uitvoering van de taak, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=6&z=2026-01-01&g=2026-01-01).
 
-2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
+2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 ##### Artikel 22. Verslag beheer subsidiegelden UWV
 
 1. Overeenkomstig de bij of krachtens [artikel 49, van de van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) gestelde regels, worden met betrekking tot de subsidiegelden bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), de baten, waaronder de door UWV ontvangen voorschotten, en de lasten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), opgenomen.
 
-2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
+2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister de baten en lasten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 3. UWV werkt tot zeven jaar na de inwerkingtreding van deze regeling, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de verstrekking van de subsidiegelden.
 
@@ -332,7 +306,7 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 
 ##### Artikel 24. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 1 maart 2023.
+1. Deze regeling treedt in werking met ingang van 1 maart 2023.
 
 2. Deze regeling vervalt zeven jaar na haar inwerkingtreding.
 
@@ -341,61 +315,3 @@ De Minister is verwerkingsverantwoordelijke als bedoeld in artikel 4 van de Alge
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep.
-
-## Bijlage. bij [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=16&z=2026-01-01&g=2026-01-01): gegevensverwerking door gemeenten
-
-### Doel
-
-De ‘Subsidieregeling IPS-trajecten voor de gemeentelijke doelgroep’ heeft als doel de inzet van IPS-trajecten voor de gemeentelijke doelgroep te bevorderen. De trajecten zijn erop gericht de arbeidsparticipatie van klanten met psychische aandoeningen te vergroten.
-
-### Algemeen
-
-In het kader van deze subsidieverstrekking worden twee typen gegevens aangeleverd. Allereerst betreft het algemene contactgegevens van de subsidieaanvrager. Deze gegevens zijn noodzakelijk voor de uitwerking van de subsidiebevoegdheid. De grondslag hiervoor is artikel 6, eerste lid onder e, van de Algemene Verordening Gegevensbescherming (AVG) in combinatie met [artikel 2 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2), waarin de subsidiebevoegdheid aan de Minister voor APP is toegekend.
-
-Het tweede type gegevens zijn bijzondere persoonsgegevens, namelijk de gegevens betreffende de klant ten behoeve van wie het subsidietraject wordt aangevraagd. Het betreft bijzondere persoonsgegevens, namelijk gegevens over de gezondheid. Ook hier geldt als grondslag artikel 6, eerste lid, onder e van de AVG. Het feit dat dit traject wordt aangevraagd voor de klant geeft echter informatie over diens gezondheidstoestand en daarom moeten de persoonsgegevens van de klant worden aangemerkt, gelet op artikel 4 onder 15 van de AVG, als bijzondere persoonsgegevens. Voor bijzondere persoonsgegevens geldt een verwerkingsverbod, tenzij aan bepaalde voorwaarden is voldaan.
-
-Een IPS-traject is in de regeling omschreven als een (re-)integratietraject dat gericht is op het vinden en behouden van werk. De verwerking valt daarmee binnen de doelstelling van [artikel 30, eerste lid onder b van de UAVG](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=30), dat
-
-het verwerkingsverbod van artikel 9, eerste lid, van de AVG opheft. Volgens eerstgenoemd artikel mogen gegevens van werknemers of uitkeringsgerechtigden over de gezondheid worden verwerkt ten behoeve van de re-integratie of begeleiding naar werk.
-
-Bij de verwerking van de gegevens en de daaruit voortvloeiende administratie dienen gemeenten zorg te dragen voor het gebruik van passende technische en organisatorische maatregelen ten aanzien van de bescherming van de persoonsgegevens. Daarbij kunnen zij gebruik maken van bijvoorbeeld de werkprotocollen en applicaties die zij hebben voor (bijzondere) persoonsgegevens die zij uit hoofde van de WMO of re-integratie vanuit de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) hebben.
-
-Verder schrijft de regeling voor dat de persoonsgegevens uitsluitend mogen worden verwerkt voor het doel van de regeling. Subsidiedossiers dienen na het vaststellen van de subsidie te worden gearchiveerd. Na de bewaartermijn van dit archief die in de regeling is voorgeschreven dienen de gegevens te worden vernietigd.
-
-De bewaartermijn volgt uit de bepaling dat tot vijf jaar na de inwerkingtreding van deze regeling door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, aan door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor het beoordelen van de rechtmatigheid van de subsidieverstrekking, en is eveneens opgenomen in [artikel 23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=5&artikel=23&z=2026-01-01&g=2026-01-01).
-
-### Werkproces
-
-Voor het verstrekken van de subsidie wordt een werkproces gevolgd dat in overleg met de betrokken partijen tot stand is gekomen. Na beëindiging van het IPS-traject stelt de gemeente ambtshalve het subsidiebedrag vast.
-
-Hieronder zijn de belangrijkste stappen in dat werkproces weergegeven.
-
-### Aanvraag door GGZ-instelling voor subsidie bij gemeente
-
-De gemeente ontvangt van een GGZ-instelling een subsidieaanvraag middels een formulier dat de navolgende gegevens bevat:
-
-Daarnaast geeft de GGZ-instelling aan of de subsidie aangevraagd wordt voor een IPS-traject van maximaal twee- of drie-jaar. Dit in verband met de hoogte van de subsidie die aangevraagd wordt. De clientgegevens en trajectgegevens die de gemeente ontvangt van een GGZ-instelling zijn limitatief beschreven in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van de regeling.
-
-Wanneer de aanvraag wordt ingediend voor een IPS-traject dat is gestart voorafgaand aan de subsidieaanvraag, wordt tevens de startdatum van het traject gedeeld.
-
-### Besluit gemeente op aanvraag
-
-Gemeente stuurt UWV een voorgenomen besluit tot subsidieverlening teneinde te verifiëren of het subsidiebudget toereikend is. [Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047929&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van deze regeling, beschrijft limitatief welke gegevens de gemeente verstrekt aan UWV.
-
-Bij een afwijzend besluit stelt de gemeente via een beveiligd mailsysteem (zivver) de GGZ-instelling daarvan op de hoogte. Bij een toewijzend besluit stelt de gemeente via een beveiligd mailsysteem (zivver) de GGZ-instelling daarvan op de hoogte en informeert UWV hierover.
-
-### Melding gemeente aan UWV over aanvraag
-
-De gemeente stuurt een formulier via een beveiligd mailsysteem (zivver) naar ipsgemeenten@uwv.nl met een cc naar de GGZ-instelling.
-
-Gedeeld worden:
-
-Daarnaast geeft de gemeente aan of de subsidie wordt toegekend voor een IPS-traject van maximaal twee- of drie jaar. En indien van toepassing of het traject is gestart voorafgaand aan de subsidieaanvraag. UWV weet daarmee welke bedragen in welke termijnen moeten worden betaald.
-
-### Gedurende de looptijd van de subsidie
-
-Na de beslissing tot subsidieverlening en de eerste bevoorschotting zijn er gedurende de looptijd van het traject nog een aantal informatie-uitwisselingen.
-
-Deze uitwisseling dient altijd via een beveiligd mailsysteem (zivver) plaats te vinden.
-
-Deze regeling zal met toelichting en de bijlage in de Staatscourant worden geplaatst.

@@ -1,42 +1,17 @@
 ---
 title: "Regeling Voucherprocedure"
 identifier: "BWBR0047587"
-country: "nl"
-rank: "zbo"
-publication_date: "2022-12-01"
-last_updated: "2022-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047587"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16588063"
-version_id: "29088552"
-internal_id: "C41347951"
-label_id: "16507704"
-dtd_version: "2.0"
-original_entry_into_force: "2022-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047587/2022-12-01/0"
-intitule_bron: "Stcrt.2022-33090"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2022-12-08"
-intitule_in_force: "2022-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-33090"
-original_published_date: "2022-12-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-33090"
-entry_into_force_date: "2022-12-01"
-jci_1_3: "jci1.3:c:BWBR0047587&z=2022-12-01&g=2022-12-01"
-jci_1_0: "1.0:c:BWBR0047587&g=2022-12-01"
-citeertitel_status: "officieel"
-entry_into_force: "2022-12-01"
+publicatiedatum: 2022-12-01
+laatste_update: 2022-12-01
+status: geldig
+toestand: 2022-12-01
+bron: "https://wetten.overheid.nl/BWBR0047587"
+opgehaald: 2026-09-03
 ---
+
 # Regeling Voucherprocedure
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
-
-besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -50,17 +25,17 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
-- 1. **bestuur:** de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=5&z=2022-12-01&g=2022-12-01) van de statuten;
+- 1. *bestuur:* de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=5&z=2022-12-01&g=2022-12-01) van de statuten;
 
-- 2. **creatieve industrie:** het werkterrein van de disciplines vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze disciplines;
+- 2. *creatieve industrie:* het werkterrein van de disciplines vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze disciplines;
 
-- 3. **voucherprocedure:** de procedure waarmee het Stimuleringsfonds Creatieve Industrie binnen een bepaald tijdvak subsidies kan verstrekken binnen zijn taakstelling, gericht op een specifieke doelstelling of binnen een bepaalde thematiek, welke kenbaar worden gemaakt op de website [www.stimuleringsfonds.nl](onbekend).
+- 3. *voucherprocedure:* de procedure waarmee het Stimuleringsfonds Creatieve Industrie binnen een bepaald tijdvak subsidies kan verstrekken binnen zijn taakstelling, gericht op een specifieke doelstelling of binnen een bepaalde thematiek, welke kenbaar worden gemaakt op de website www.stimuleringsfonds.nl.
 
-- 4. **project:** alle werkzaamheden voor een opzichzelfstaande, concreet omschreven activiteit, afgebakend in tijd en doelen.
+- 4. *project:* alle werkzaamheden voor een opzichzelfstaande, concreet omschreven activiteit, afgebakend in tijd en doelen.
 
-- 5. **fonds:** stichting Stimuleringsfonds Creatieve Industrie.
+- 5. *fonds:* stichting Stimuleringsfonds Creatieve Industrie.
 
-- 6. **subsidieplafond:** het beschikbare bedrag binnen het bepaalde tijdvak.
+- 6. *subsidieplafond:* het beschikbare bedrag binnen het bepaalde tijdvak.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
@@ -84,7 +59,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - g. Versterken van de internationale positie van de ontwerpdisciplines.
 
-3. Het bestuur kan nadere regels stellen ter uitvoering van deze regeling over specifieke doelstellingen, voorwaarden en weigeringsgronden en de procedure. Deze worden expliciet vermeld in de tekst van de op deze regeling gebaseerde voucherprocedure op de website [www.stimuleringsfonds.nl](onbekend). De tekst van de voucherprocedure is aanvullend op deze regeling.
+3. Het bestuur kan nadere regels stellen ter uitvoering van deze regeling over specifieke doelstellingen, voorwaarden en weigeringsgronden en de procedure. Deze worden expliciet vermeld in de tekst van de op deze regeling gebaseerde voucherprocedure op de website www.stimuleringsfonds.nl. De tekst van de voucherprocedure is aanvullend op deze regeling.
 
 ##### Artikel 4. Voorwaarden voor ondersteuning
 
@@ -102,7 +77,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - f. Er is sprake van een begrotingstekort en de behoefte aan een subsidie is, naar het oordeel van het bestuur, aangetoond.
 
-- g. Het begrotingstekort zoals bedoeld in [artikel 4 lid f](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=4&z=2022-12-01&g=2022-12-01). van deze regeling bedraagt niet meer dan € 10.000.
+- g. Het begrotingstekort zoals bedoeld in [artikel 4 lid f](https://wetten.overheid.nl/jci1.3:c:BWBR0047587&hoofdstuk=2&artikel=4&z=2022-12-01&g=2022-12-01). van deze regeling bedraagt niet meer dan € 10.000.
 
 - h. Op basis van de aanvraag kan redelijkerwijs worden verwacht dat de door de aanvrager gestelde doelen zullen worden bereikt.
 
@@ -140,7 +115,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ##### Artikel 6. Wijze van publicatie
 
-1. Een voucherprocedure wordt bekendgemaakt via de website [www.stimuleringsfonds.nl](onbekend) met verwijzing naar deze regeling.
+1. Een voucherprocedure wordt bekendgemaakt via de website www.stimuleringsfonds.nl met verwijzing naar deze regeling.
 
 2. Het fonds maakt in de tekst van de voucherprocedure in ieder geval bekend:
 
@@ -208,7 +183,7 @@ Een aanvraag bevat:
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door de Minister van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het fonds ter beschikking worden gesteld.
 
-2. Het bestuur stelt bij het toepassen van de voucherprocedure een subsidieplafond vast. Daarbij wordt aangegeven binnen welk tijdvak de subsidieaanvraag kan worden ingediend. Het besluit tot vaststelling van het subsidieplafond wordt bekendgemaakt via de website van het fonds: [www.stimuleringsfonds.nl](onbekend).
+2. Het bestuur stelt bij het toepassen van de voucherprocedure een subsidieplafond vast. Daarbij wordt aangegeven binnen welk tijdvak de subsidieaanvraag kan worden ingediend. Het besluit tot vaststelling van het subsidieplafond wordt bekendgemaakt via de website van het fonds: www.stimuleringsfonds.nl.
 
 3. Als het bedrag dat samenhangt met het aantal ingediende aanvragen het subsidieplafond overschrijdt, kan het bestuur besluiten de procedure eerder te sluiten.
 
@@ -254,7 +229,7 @@ In het geval een van de onderstaande situaties zich voordoet, brengt de subsidie
 
 ##### Artikel 15. Bezwaar
 
-Een belanghebbende kan tegen een besluit van het bestuur van het fonds bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. Deze termijn gaat in op de dag van de beschikkingsdatum. De procedure voor bezwaren is gepubliceerd op de website [www.stimuleringsfonds.nl](onbekend).
+Een belanghebbende kan tegen een besluit van het bestuur van het fonds bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. Deze termijn gaat in op de dag van de beschikkingsdatum. De procedure voor bezwaren is gepubliceerd op de website www.stimuleringsfonds.nl.
 
 ##### Artikel 16. Bescherming persoonsgegevens
 
@@ -262,12 +237,10 @@ Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derde
 
 ##### Artikel 17. Inwerkingtreding en expiratie
 
-1. Deze regeling treedt in werking met ingang van 01 december 2022.
+1. Deze regeling treedt in werking met ingang van 01 december 2022.
 
 2. Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
 ##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Voucherprocedure.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0051868"
-opgehaald: 2026-09-02
+opgehaald: 2026-09-03
 ---
 
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 25 november 2025, nr. WJZ/101735172, tot instelling van de Commissie gelijke kansen bij gronduitgifte voor natuur (Instellingsbesluit Commissie gelijke kansen bij gronduitgifte voor natuur)

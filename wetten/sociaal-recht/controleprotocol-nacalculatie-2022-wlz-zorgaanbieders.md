@@ -1,35 +1,16 @@
 ---
 title: "Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders"
 identifier: "BWBR0047966"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-03-17"
-last_updated: "2023-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047966"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16694693"
-version_id: "29286442"
-internal_id: "C41716121"
-label_id: "16612554"
-dtd_version: "2.0"
-original_entry_into_force: "2023-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047966/2023-03-17/0"
-intitule_bron: "Stcrt.2023-8145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-03-17"
-intitule_in_force: "2023-03-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-8145"
-original_published_date: "2023-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-8145"
-entry_into_force_date: "2023-03-17"
-jci_1_3: "jci1.3:c:BWBR0047966&z=2023-03-17&g=2023-03-17"
-jci_1_0: "1.0:c:BWBR0047966&g=2023-03-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-03-17"
+publicatiedatum: 2023-03-17
+laatste_update: 2023-03-17
+status: geldig
+toestand: 2023-03-17
+bron: "https://wetten.overheid.nl/BWBR0047966"
+opgehaald: 2026-09-03
 ---
+
 # Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders
 
 Versie 1, maart 2023
@@ -42,21 +23,63 @@ De zorgaanbieder verantwoordt in de nacalculatie-opgave 2022 de totaal financiee
 
 De door de zorgaanbieder ingevulde nacalculatie-opgave 2022 bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2022’, met daarin de volgende onderdelen:
 
-Door het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van een handtekening te voorzien, verklaart de persoon die bevoegd is te tekenen namens de zorgaanbieder dat hij/zij de nacalculatie-opgave 2022 naar waarheid en in overeenstemming met de voor het jaar 2022 geldende beleidsregels en regelingen van de Nederlandse Zorgautoriteit (NZa) heeft ingevuld. In paragraaf 3.3 (tabel 1) van dit controleprotocol is een overzicht opgenomen van de NZa-regelgeving 2022.
+- – de totaal financieel gerealiseerde productie over 2022;
+
+- – de totaal financiële realisatie overige onderdelen over 2022 (indien van toepassing). De overige onderdelen bestaan uit: de Vergoeding innovatie voor kleinschalige experimenten, de Realisatie van inrichtingskosten bij gedwongen verhuizing, de Extra kosten SARS-CoV-2 virus, de Vergoeding extreme kosten van zorggebonden materiaal en geneesmiddelen en de Vergoeding BRMO-uitbraak;
+
+- – het bedrag volgens de Regeling generieke vergoeding extra energiekosten;
+
+- – Indien van toepassing het bedrag volgens de Regeling specifieke vergoeding extra energiekosten;
+
+- – de ‘Vragenlijst controleprotocol’ met indien nodig een door de accountant voor identificatiedoeleinden gewaarmerkte toelichting. De ‘Vragenlijst controleprotocol’ met indien nodig een gewaarmerkte toelichting bij deze vragenlijst zijn te beschouwen als andere informatie;
+
+- – de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant1Met accountant wordt in dit verband bedoeld: de openbare accountant die de nacalculatie-opgave 2022 van de Wlz-zorgaanbieder controleert. gewaarmerkte toelichting;
+
+- – het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’, met daarop de bedragen vermeld voor de totaal financieel gerealiseerde productie over 2022, de totaal financiële realisatie overige onderdelen over 2022, het bedrag volgens de Regeling generieke vergoeding extra energiekosten en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten. Dit document wordt ondertekend door de persoon die bevoegd is te tekenen namens de zorgaanbieder en door de accountant gewaarmerkt. De accountant waarmerkt het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ voor het bedrag of de bedragen zoals vermeld in de controleverklaring. Voor de accountant volstaat voor de waarmerking ook een gekwalificeerde elektronische handtekening volgens EU Verordering 910/2014.2Een voorbeeld hiervan is het certificaat van QuoVadis PKIoverheid.
+
+Door het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van een handtekening te voorzien, verklaart de persoon die bevoegd is te tekenen namens de zorgaanbieder dat hij/zij de nacalculatie-opgave 2022 naar waarheid en in overeenstemming met de voor het jaar 2022 geldende beleidsregels en regelingen van de Nederlandse Zorgautoriteit (NZa) heeft ingevuld. In [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966) (tabel 1) van dit controleprotocol is een overzicht opgenomen van de NZa-regelgeving 2022.
 
 De accountant, zoals bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), controleert het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’. De volgende onderdelen in dit ondertekeningsdocument zijn uitdrukkelijk geen object van onderzoek door de accountant:
+
+- – in sommige situaties komt het voor dat een zorgkantoor nog correcties doorvoert op de productie volgens de nacalculatie-opgave 2022 van de zorgaanbieder. Deze correcties (feitelijk: niet gehonoreerde (over)productie) wordenop een separate regel opgenomen in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ en zijn uitdrukkelijk geen object van onderzoek door de accountant. Deze correcties zijn te beschouwen als ‘andere informatie’.
 
 het bedrag volgens de Regeling generieke vergoeding extra energiekosten. Dit bedrag is ook te beschouwen als ‘andere informatie’.
 
 De accountant geeft de uitkomst van zijn controle van het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ weer in een controleverklaring bij de nacalculatie-opgave 2022. De accountant verklaart in deze controleverklaring dat:
 
+- – het bedrag ‘Totaal financieel gerealiseerde productie over 2022’3Eventuele financiële correcties van de productie door het zorgkantoor vallen buiten de scope van de accountantscontrole. dat is opgenomen op het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als onderdeel van de nacalculatie-opgave 2022, in overeenstemming is met de NZa-regelgeving 2022 zoals deze in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966) (tabel 1) van dit controleprotocol staat vermeld en indien van toepassing;
+
+- – het bedrag ‘Totaal financiële realisatie overige onderdelen over 2022’ dat is opgenomen op het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als onderdeel van de nacalculatie-opgave 2022, in overeenstemming is met de NZa-regelgeving 2022 zoals deze in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966) (tabel 1) van dit controleprotocol staat vermeld en indien van toepassing;
+
+- – het bedrag volgens de Regeling specifieke vergoeding extra energiekosten dat is opgenomen op het ondertekeningsdocument ’Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als onderdeel van de nacalculatie-opgave 2022, in overeenstemming is met de NZa-regelgeving 2022 zoals deze in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966) (tabel 1) van dit controleprotocol staat vermeld;
+
+- – de andere informatie verenigbaar is met het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder en met de kennis verkregen tijdens de controle van de nacalculatie-opgave 2022.
+
 Voor de tekst van de controleverklaring bij de nacalculatie-opgave maakt de accountant gebruik van de voorbeeldtekst die in de bijlage van dit controleprotocol is opgenomen. Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst van de controleverklaring aangepast overeenkomstig de Nadere Voorschriften Controle- en Overige Standaarden (NV COS, bij verwijzingen aangeduid met ‘Standaard’).
 
 Met waarmerking wordt in dit controleprotocol bedoeld: een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie. Voor de accountant volstaat voor de waarmerking ook een gekwalificeerde elektronische handtekening volgens EU Verordering 910/2014.
 
-Vóór 1 juni 2023 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2022 via het aanvragenportaal van de NZa worden ingediend. De nacalculatie-opgave bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2022’, met daarin de volgende onderdelen:
+Vóór 1 juni 2023 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2022 via het aanvragenportaal van de NZa worden ingediend. De nacalculatie-opgave bestaat uit het ‘Formulier Langdurige zorg nacalculatie 2022’, met daarin de volgende onderdelen:
 
-Daarnaast stuurt de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder voor 1 juni 2023 via het aanvragenportaal van de NZa de volgende onderdelen toe:
+- – de totaal financieel gerealiseerde productie over 2022;
+
+- – de totaal financiële realisatie overige onderdelen over 2022 (indien van toepassing);
+
+- – het bedrag volgens de Regeling generieke vergoeding extra energiekosten;
+
+- – het bedrag volgens de Regeling specifieke vergoeding extra energiekosten (indien van toepassing);
+
+- – de ‘Vragenlijst controleprotocol’ met indien nodig een door de accountant voor identificatiedoeleinden gewaarmerkte toelichting;
+
+- – de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant gewaarmerkte toelichting;
+
+- – het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’, waarbij dit document is ondertekend door de persoon die bevoegd is te ondertekenen namens de zorgaanbieder en dit document is gewaarmerkt door de accountant.
+
+Daarnaast stuurt de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder voor 1 juni 2023 via het aanvragenportaal van de NZa de volgende onderdelen toe:
+
+- – de door de accountant ondertekende controleverklaring bij de nacalculatie-opgave 2022;
+
+- – het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van het zorgkantoor/Wlz-uitvoerder, waarbij deze documenten zijn ondertekend door de persoon die bevoegd is te tekenen namens het zorgkantoor.
 
 Bij eenzijdige ondertekening gaat het om het ondertekeningsdocument van of de zorgaanbieder of het zorgkantoor/Wlz-uitvoerder.
 
@@ -78,27 +101,51 @@ Het doel van dit controleprotocol is niet om de aanpak van de controleopdracht v
 
 De nacalculatie-opgave 2022 omvat ook andere informatie, die bestaat uit:
 
+- – de ‘Vragenlijst controleprotocol’ en de eventuele voor identificatiedoeleinden gewaarmerkte toelichting hierbij;
+
+- – de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant gewaarmerkte toelichting;
+
+- – correcties door het zorgkantoor;
+
+- – het bedrag volgens de Regeling generieke vergoeding extra energiekosten.
+
 Onderstaand wordt per soort andere informatie nader toegelicht wat daaromtrent van de accountant wordt verwacht.
 
 Indien de accountant constateert dat er een materiële inconsistentie en/of een materiële afwijking in de andere informatie lijkt te bestaan, handelt de accountant overeenkomstig Standaard 720.16.
 
 Indien de accountant concludeert dat sprake is van een materiële afwijking in de andere informatie (of in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’), handelt de accountant overeenkomstig Standaard 720.17 tot en met 720.20.
 
+Vragenlijst controleprotocol
+
 De accountant stelt op grond van Standaard 720.14 vast dat de informatie in de ‘Vragenlijst controleprotocol’ en de eventuele daarbij behorende toelichting niet strijdig is/zijn met de informatie in de ingevulde nacalculatie-opgave 2022 en zijn kennis vanuit de controle van de nacalculatie-opgave 2022.
 
 Ten aanzien van de vraag die betrekking heeft op de levering van passende zorg stelt de accountant uitsluitend vast of er een interne procedure aanwezig is (met indien nodig een specifieke toelichting hierop), gericht op de levering van passende zorg binnen het kader van artikel 9 (Administratieve organisatie en interne controle Wlz-zorgaanbieders) van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2022 (NR/REG-2208b). Van de accountant wordt hierover geen inhoudelijk oordeel verwacht, noch een oordeel over de toereikendheid van de specifieke toelichting of interne procedure.
 
+Vragen en overige opmerkingen
+
 De accountant stelt op grond van Standaard 720.14 vast dat de informatie in de ‘Vragen en overige opmerkingen’ en de eventuele daarbij behorende toelichting niet strijdig is/zijn met de informatie in de ingevulde nacalculatie-opgave 2022 en zijn kennis vanuit de controle van de nacalculatie-opgave 2022.
+
+Correcties door het zorgkantoor
 
 In sommige situaties komt het voor dat een zorgkantoor nog correcties doorvoert op de productie volgens de nacalculatie-opgave 2022 van de zorgaanbieder. Het kan hierbij gaan om:
 
+- – Correctie zorgkantoor op realisatie productieafspraak algemeen;
+
+- – Correctie zorgkantoor op restant overproductie.
+
 Deze correcties vallen buiten de scope van de assurance-opdracht van de accountant en zijn te beschouwen als ‘andere informatie’. Overeenkomstig Standaard 720.14 dient de accountant te overwegen of er (1) een inconsistentie van materieel belang bestaat tussen deze correcties in het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ en de correcties in de nacalculatie-opgave 2022 en (2) een inconsistentie van materieel belang bestaat tussen deze correcties opgenomen in de nacalculatie-opgave 2022 en de kennis van de accountant verkregen tijdens de controle van de nacalculatie-opgave 2022.
+
+Bedrag volgens de Regeling generieke vergoeding extra energiekosten
 
 De accountant stelt op grond van Standaard 720.14 vast dat het ‘Bedrag regeling generieke vergoeding extra energiekosten’ niet strijdig is/zijn met de informatie in de ingevulde nacalculatie-opgave 2022 en zijn kennis vanuit de controle van de nacalculatie-opgave 2022.
 
 ### Artikel 2. Procedure onderzoek nacalculatie 2022
 
 De procedure van het onderzoek naar de juistheid van de nacalculatie-opgave 2022 ziet er als volgt uit:
+
+- – de zorgaanbieder stelt de verantwoording op over de totaal financieel gerealiseerde productie over 2022, de totaal financiële realisatie overige onderdelen over 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten met gebruikmaking van het door de NZa voorgeschreven formulier (‘Formulier Langdurige zorg nacalculatie 2022). Indien de beantwoording van de vragen in de ‘Vragenlijst Controleprotocol' en de ‘Vragen en overige opmerkingen’ in het formulier daartoe aanleiding geeft moet de zorgaanbieder het antwoord op deze vragen nader toelichten;
+
+- – de zorgaanbieder geeft een accountant opdracht tot het uitvoeren van een accountantsonderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2022, de totaal financiële realisatie overige onderdelen over 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten.
 
 De accountant voert zijn onderzoek uit op basis van de kaders die de NZa in dit controleprotocol geeft.
 
@@ -108,7 +155,7 @@ Ten slotte verstrekt de accountant een ondertekende controleverklaring bij de na
 
 Na controle van de nacalculatie-opgave 2022 door het zorgkantoor/de Wlz-uitvoerder ondertekent een persoon die bevoegd is te tekenen namens het zorgkantoor/de Wlz-uitvoerder het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van het zorgkantoor/Wlz-uitvoerder.
 
-De zorgaanbieder of het zorgkantoor/de Wlz-uitvoerder dient via het aanvragenportaal van de NZa de in paragraaf 1.1 genoemde stukken vóór 1 juni 2023 in bij de NZa.
+De zorgaanbieder of het zorgkantoor/de Wlz-uitvoerder dient via het aanvragenportaal van de NZa de in [paragraaf 1.1](https://wetten.overheid.nl/BWBR0047966) genoemde stukken vóór 1 juni 2023 in bij de NZa.
 
 ### Artikel 3. Toetsing productie, overige onderdelen en specifieke vergoeding extra energiekosten 2022
 
@@ -120,25 +167,66 @@ Langdurige zorg nacalculatie 2022’ van de zorgaanbieder opgenomen bedragen voo
 
 ### 3.2. Algemeen
 
-Voor het onderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2022, de totaal financiële realisatie overige onderdelen over 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten’ kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat de bedragen ‘Totaal financieel gerealiseerde productie over 2022’, ‘Totaal financiële realisatie overige onderdelen over 2022’ en het bedrag volgens de ‘Regeling specifieke vergoeding extra energiekosten’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als in het ‘Formulier Langdurige zorg nacalculatie 2022’, zijn verantwoord in overeenstemming met de toetsingscriteria (zie hiervoor ook paragraaf 3.4).
+Voor het onderzoek naar de juistheid van de totaal financieel gerealiseerde productie over 2022, de totaal financiële realisatie overige onderdelen over 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten’ kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat de bedragen ‘Totaal financieel gerealiseerde productie over 2022’, ‘Totaal financiële realisatie overige onderdelen over 2022’ en het bedrag volgens de ‘Regeling specifieke vergoeding extra energiekosten’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als in het ‘Formulier Langdurige zorg nacalculatie 2022’, zijn verantwoord in overeenstemming met de toetsingscriteria (zie hiervoor ook [paragraaf 3.4](https://wetten.overheid.nl/BWBR0047966)).
 
-Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in paragraaf 1.2 van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
+Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in [paragraaf 1.2](https://wetten.overheid.nl/BWBR0047966) van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
 
 ### 3.3. Beleidskader
 
 Het beleidskader voor de controle van de productie, overige onderdelen 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten wordt gevormd door de in tabel 1 genoemde NZa-beleidsregels en NZa-regelingen.
 
-De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij de nacalculatie-opgave 2022 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen. Dat doet hij alleen indien en voor zover deze zijn verwoord in de toetsingscriteria van paragraaf 3.4.
+De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0047966) vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij de nacalculatie-opgave 2022 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen. Dat doet hij alleen indien en voor zover deze zijn verwoord in de toetsingscriteria van paragraaf 3.4.
 
-1 [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045785&artikel=6) (Declaratievoorschrift verkeerde bed Wlz) van deze regeling valt, evenals voorgaande jaren, niet onder de accountantscontrole.
+| Citeertitel en nummer beleidsregel/regeling |
+| --- |
+| Beleidsregel afronding tarieven (AL/BR-0031) |
+| Beleidsregel bekostigingscyclus Wlz 2022 (BR/REG-22115) |
+| Beleidsregel BRMO-uitbraak (BR/REG-22116) |
+| Beleidsregel budgettair kader Wlz 2022 (BR/REG-22117d) |
+| Beleidsregel compensatie hogere energiekosten 2022 Wlz (BR/REG-22164) |
+| Beleidsregel definities Wlz (BR/REG-22118a) |
+| Beleidsregel experiment Wlz-zorg in onderwijstijd (BR/REG-22161) |
+| Beleidsregel innovatie voor kleinschalige experimenten (BR/REG-19158) |
+| Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) gespecialiseerde ggz, forensische zorg en langdurige zorg (BR/REG-22119a) |
+| Beleidsregel overige kosten Wlz 2022 (BR/REG-22120) |
+| Beleidsregel prestatiebeschrijving en tarief gespecialiseerde zorg Wlz 2022 (BR/REG-22153) |
+| Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz (BR/REG-22122a) |
+| Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) 2022 (BR/REG-22123b) |
+| Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2022 (BR/REG-22124d) |
+| Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2022 (BR/REG-22125d) |
+| Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022 (BR/REG-22159a) |
+| Beleidsregel tijdelijke instandlating gevolgen experimenten (BR/REG-17164) |
+| Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2022 (NR/REG-2208b)1 |
+| Regeling innovatie voor kleinschalige experimenten (NR/REG-1928) |
 
-**Bron: NZa**
+1
+ [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045785&artikel=6) (Declaratievoorschrift verkeerde bed Wlz) van deze regeling valt, evenals voorgaande jaren, niet onder de accountantscontrole.
+
+*Bron: NZa*
 
 ### 3.4. Toetsingscriteria
 
 Om de juistheid van de totaal financieel gerealiseerde productie over 2022 (waaronder ook Zorg in onderwijstijd), de totaal financiële realisatie overige onderdelen over 2022 en het bedrag volgens de Regeling specifieke vergoeding extra energiekosten vast te stellen, gelden de volgende acht toetsingscriteria voor de accountant. Hij moet vaststellen dat:
 
+- – de gedeclareerde zorg8Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg. volgens de nacalculatie-opgave 2022 feitelijk is geleverd aan de cliënt (zie [paragraaf 3.5](https://wetten.overheid.nl/BWBR0047966))8Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg.;
+
+- – de cliënt over een geldig indicatiebesluit beschikt8Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg.;
+
+- – de gedeclareerde zorg binnen het indicatiebesluit is geleverd (geldt voor modulaire zorg)8Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg.;
+
+- – het gedeclareerde tarief overeenkomt met het tussen partijen contractueel overeengekomen tarief en niet hoger is dan het door de NZa vastgestelde tarief9Betreft toetspunten ten aanzien van Zorg in Onderwijstijd.;
+
+- – de overige onderdelen10De overige onderdelen bestaan uit de Vergoeding van inrichtingskosten bij gedwongen verhuizing, Vergoeding extreme kosten van zorggebonden materiaal en geneesmiddelen, Vergoeding BRMO-uitbraak, de Vergoeding innovatie voor kleinschalige experimenten, financiering van extra kosten als gevolg van het SARS-CoV-2 virus.,11Ten aanzien van de vergoeding innovatie voor kleinschalige experimenten controleert de accountant of de kosten in de nacalculatie-opgave 2022 zijn gemaakt en aan kleinschalige experimenten zijn besteed. juist in de nacalculatie-opgave 2022 zijn ingevuld (zie [paragraaf 3.6](https://wetten.overheid.nl/BWBR0047966) voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus12BR/REG-22159a, artikel 4.);
+
+- – het bedrag volgens de Regeling specifieke vergoeding extra energiekosten juist in de nacalculatie-opgave 2022 is ingevuld (zie [paragraaf 3.7](https://wetten.overheid.nl/BWBR0047966) voor de controle van het bedrag volgens de Regeling specifieke vergoeding extra energiekosten);
+
+- – de in de nacalculatie-opgave 2022 opgenomen cijfermatige gegevens voor de overige onderdelen overeenkomstig de voor het jaar 2022 geldende NZa-beleidsregels en regelingen zijn bepaald. Hierbij gaat het om de volgende Wlz-regelgeving: Beleidsregel BRMO-uitbraak (BR/REG-22116); Beleidsregel innovatie voor kleinschalige experimenten (BR/REG-19158); Beleidsregel overige kosten Wlz 2022 (BR/REG-22120); Regeling innovatie voor kleinschalige experimenten (NR/REG-1928) en de Beleidsregel SARS-CoV-2 virus extra kosten Wlz 2022 (BR/REG-22159a);
+
+- – de in de nacalculatie-opgave 2022 opgenomen cijfermatige gegevens voor het bedrag volgens de Regeling specifieke vergoeding extra energiekosten overeenkomstig de voor het jaar 2022 geldende Beleidsregel compensatie hogere energiekosten 2022 Wlz (BR/REG-22164) is bepaald.
+
 De accountant controleert specifiek of:
+
+- – de in de nacalculatie-opgave 2022 van de zorgaanbieder opgenomen productie, in die situaties waarin sprake is van onderaanneming of uitbesteding, slechts betrekking heeft op productie waarbij de zorgaanbieder hoofdaannemer is en als zodanig is afgesproken met het zorgkantoor/de Wlz-uitvoerder.
 
 ### 3.5. Feitelijke levering
 
@@ -148,21 +236,23 @@ De zorgaanbieder moet de Regeling declaratievoorschriften, administratievoorschr
 
 ### 3.5.2. Controles door de accountant
 
-De accountant maakt bij zijn onderzoek voor zover mogelijk gebruik van de onder paragraaf 3.5.1 beschreven interne controlewerkzaamheden van de zorgaanbieder.
+De accountant maakt bij zijn onderzoek voor zover mogelijk gebruik van de onder [paragraaf 3.5.1](https://wetten.overheid.nl/BWBR0047966) beschreven interne controlewerkzaamheden van de zorgaanbieder.
 
-Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de intramurale zorg en de modulaire zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in paragraaf 3.5.3.
+Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de intramurale zorg en de modulaire zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in [paragraaf 3.5.3](https://wetten.overheid.nl/BWBR0047966).
 
 De zorginhoudelijke toetsing van de uitgevoerde zorgactiviteiten valt buiten de scope van de controle. Dit zou problemen met de privacywetgeving kunnen opleveren, bovendien bezit de accountant geen zorginhoudelijke kennis. De accountant richt zich primair op de administratieve organisatie en interne beheersing rondom zorgregistratie en -declaratie. Het uitgangspunt van de controle door de accountant is derhalve niet een controle op dossier- of cliëntniveau.
 
 Van de accountant wordt echter wel verwacht dat hij tijdens zijn controle verkregen informatie op dossier- of cliëntniveau betrekt bij zijn oordeelsvorming, voor zover dit van hem geen nadere zorginhoudelijke beoordeling vraagt.
 
-De accountant hanteert de in paragraaf 3.3 (tabel 1) genoemde NZa-beleidsregels en NZa-regelingen als kader voor zijn werkzaamheden echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria. Daarnaast voert de accountant zijn controle uit in overeenstemming met Nederlands recht, waaronder de VGBA, de geldende beroepsvoorschriften van de NBA en de NV COS.
+De accountant hanteert de in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966) (tabel 1) genoemde NZa-beleidsregels en NZa-regelingen als kader voor zijn werkzaamheden echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0047966) vermelde toetsingscriteria. Daarnaast voert de accountant zijn controle uit in overeenstemming met Nederlands recht, waaronder de VGBA, de geldende beroepsvoorschriften van de NBA en de NV COS.
 
 ### 3.5.3. Uitwerking controle op feitelijke levering
 
 ### 3.5.3.1. Modulaire zorg
 
 Voor wat betreft de feitelijke levering van gedeclareerde zorg in het kader van modulaire zorg richt de accountant zich op opzet, bestaan en, indien de accountant dit eventueel wenselijk acht, werking van de AO/IC rondom zorgplanning, -registratie en -declaratie bij de zorgaanbieder. Dit kan bijvoorbeeld door middel van een onderzoek van de planning en urenregistratie.
+
+Zorgplan/zorgplanning is realisatie
 
 Steeds meer zorgaanbieders passen bij modulaire zorg een vorm van registratie toe waarbij het uitgangspunt is dat de planning de basis is voor de werkelijk geleverde en gedeclareerde modulaire zorg. Daarbij wordt het zorgplan in het algemeen uitgewerkt in een ‘arrangement’, waarbij een vorm van kwantificering plaatsvindt naar aard en hoeveelheid te leveren zorg, de periode en de frequentie. Voorwaarde voor de declaratie van modulaire zorg volgens dit principe is dat in het zorgplan en/of de zorgplanning vermeld staat welke zorg door een zorgaanbieder wanneer geleverd wordt aan de cliënt.
 
@@ -206,6 +296,10 @@ De wijze waarop zorgaanbieders komen tot de interne registratie van de extra kos
 
 Van de accountant wordt het volgende verwacht:
 
+- – De accountant stelt vast dat de extra kosten in de nacalculatie-opgave 2022 in totaal en per subcategorie aansluiten op de onderbouwing van de interne registratie daarvan door de zorgaanbieders. De accountant beoordeelt de onderbouwing van de zorgaanbieder dat de kosten extra zijn als gevolg van het SARS-CoV-2 virus op redelijkheid.
+
+- – Tevens stelt de accountant vast dat de materiële kosten zijn gemaakt en voor het juiste bedrag zijn verantwoord voor de periode 1 januari 2022 tot en met 31 december 2022 en dat de kosten juist zijn geclassificeerd in de financiële administratie17Van zorgaanbieders wordt niet verwacht dat zij in 2022 nieuwe grootboekrekeningen in de financiële administratie hebben aangemaakt om één-op-één aan te sluiten op de subcategorieën extra kosten in de beleidsregel (BR/REG-22159a, artikel 4) en de nacalculatie-opgave 2022..
+
 De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie. De accountant betrekt bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden. De accountant mag hiervoor gebruik maken van de werkzaamheden die hij uitvoert in het kader van de reguliere jaarrekeningcontrolewerkzaamheden, indien en voor zo ver hij dat mogelijk en passend acht.18In het geval gesteund wordt op werkzaamheden van de reguliere jaarrekeningcontrole volgt de accountant Standaard 230.8 voor zijn vastleggingen daarvan in het kader van de controle van de nacalculatie-opgave 2022.
 
 ### 3.6.2.2. Personele kosten
@@ -213,6 +307,10 @@ De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende w
 De wijze waarop zorgaanbieders komen tot de interne registratie van de extra kosten is niet nader uitgewerkt in de beleidsregel.19Door zorgaanbieders wordt zoveel als mogelijk gesteund op de laatste versie van de Handreiking uitgangspunten Fizi in verband met registratie corona impact die voor het verantwoordingsjaar 2022 van toepassing is en in samenwerking door brancheorganisaties en Fizi is gepubliceerd (BR/REG-22159a, artikel 5). Zorgaanbieders kunnen bijvoorbeeld op grond van een verschillenanalyse hebben bepaald welk deel van kosten extra is geweest als gevolg van het SARS-CoV-2 virus; er kunnen ook andere onderbouwingen voor de interne registratie bestaan.
 
 Van de accountant wordt het volgende verwacht:
+
+- – De accountant stelt vast dat de extra kosten in de nacalculatie-opgave 2022 in totaal en per subcategorie aansluiten op de onderbouwing van de interne registratie daarvan door de zorgaanbieders.20Op grond van beleidsregel BR/REG-22159a artikel 8 registreert de zorgaanbieder de extra kosten duidelijk identificeerbaar in zijn administratie. De accountant beoordeelt de onderbouwing van de zorgaanbieder dat de kosten extra zijn als gevolg van het SARS-CoV-2 virus op redelijkheid.
+
+- – De accountant stelt daarnaast vast dat de personele kosten zijn gemaakt en voor de juiste bedragen zijn verantwoord, en dat de kosten juist zijn geclassificeerd in de financiële administratie.21Van zorgaanbieders wordt niet verwacht dat zij in 2022 nieuwe grootboekrekeningen in de financiële administratie hebben aangemaakt om één-op-één aan te sluiten op de subcategorieën extra kosten in de beleidsregel (BR/REG-22159a, artikel 4) en de nacalculatie-opgave 2022.
 
 De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie. De accountant betrekt bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden. De accountant mag hiervoor gebruik maken van de werkzaamheden die hij uitvoert in het kader van de reguliere jaarrekeningcontrolewerkzaamheden, indien en voor zo ver hij dat mogelijk en passend acht.22In het geval gesteund wordt op werkzaamheden van de reguliere jaarrekeningcontrole volgt de accountant Standaard 230.8 voor zijn vastleggingen daarvan in het kader van de controle van de nacalculatie-opgave 2022.
 
@@ -230,13 +328,35 @@ Zorgaanbieders maken extra kosten door de bovenmatige stijging van de energiekos
 
 De regeling voor extra gemaakte energiekosten is opgedeeld in twee componenten:
 
+- 1. regeling generieke vergoeding extra energiekosten;
+
+- 2. regeling specifieke vergoeding extra energiekosten.
+
+- 1. Regeling generieke vergoeding extra energiekosten De regeling generieke vergoeding extra energiekosten is geen onderdeel van het onderzoek naar de juistheid van de verantwoording anders dan de ‘andere informatie’ zoals benoemd in [paragraaf 3.10](https://wetten.overheid.nl/BWBR0047966).
+
+- 2. Regeling specifieke vergoeding extra energiekosten Voor de regeling specifieke vergoeding extra energiekosten komen alleen Wlz-zorgaanbieders in aanmerking waarbij sprake is van energiekosten in 2022 die volgens een rekenregel sterker zijn gestegen dan een drempelwaarde van 20 procent ten opzichte van de energiekosten in 2021. De voorwaarden voor de vergoeding zijn in de beleidsregel BR/REG-22164 vastgelegd. Verantwoording van de aanvraag voor compensatie van de extra kosten door zorgaanbieders vindt plaats middels de nacalculatie-opgave 2022. Vanuit maatschappelijk oogpunt is een bepaalde zekerheid over de verantwoorde kosten noodzakelijk. De combinatie van controles door de accountant van de zorgaanbieder en door het zorgkantoor moet deze zekerheid kunnen bieden. In de volgende paragraaf wordt ingegaan op de verantwoordelijkheden van de accountant van de zorgaanbieder ten aanzien van de Regeling specifieke vergoeding extra energiekosten.
+
 ### 3.7.2. Controles door de accountant
 
 De zorgaanbieder bepaalt conform de beleidsregel de extra kosten als gevolg van de bovenmatig gestegen energiekosten en neemt de berekening in de administratie op en verantwoordt de extra kosten in de nacalculatie-opgave 2022. Alle gegevens en berekeningen zijn herleidbaar en identificeerbaar in de administratie. De zorgkantoren beoordelen de plausibiliteit van de extra kosten. De accountant van de zorgaanbieder controleert of de in de nacalculatie-opgave 2022 opgenomen extra kosten juist zijn. Wat daaronder wordt verstaan is hieronder nader toegelicht. De accountant controleert niet of de kosten nodig waren (doelmatigheid).
 
-De regeling generieke vergoeding extra energiekosten is geen onderdeel van het onderzoek naar de juistheid van de verantwoording anders dan de ‘andere informatie’ zoals benoemd in paragraaf 3.10.
+Regeling generieke vergoeding extra energiekosten
+
+De regeling generieke vergoeding extra energiekosten is geen onderdeel van het onderzoek naar de juistheid van de verantwoording anders dan de ‘andere informatie’ zoals benoemd in [paragraaf 3.10](https://wetten.overheid.nl/BWBR0047966).
+
+Regeling specifieke vergoeding extra energiekosten
 
 Van de accountant wordt het volgende verwacht:
+
+- – De accountant stelt vast dat de berekening overeenkomstig deze beleidsregel is opgesteld (de in artikel 4 beschreven componenten bevat)24Waarbij het bij ‘totale energiekosten volgens administratie’ gaat het om het werkelijke verbruik van het betreffende jaar en waar dit niet mogelijk is kan gebruik worden gemaakt van informatie over voorschotten. Waarbij het bij ‘Totale Wlz-omzet’ gaat het om de ‘Totale Wlz omzet’ inclusief correcties voorgaande jaren.;
+
+- – De accountant stelt vast dat de specifieke vergoeding voor de bovenmatig gestegen energieprijzen in de nacalculatie-opgave 2022 is berekend volgens de in deze beleidsregel voorgeschreven berekeningswijze (de in artikel 4 beschreven formules zijn juist toegepast);
+
+- – Tevens stelt de accountant vast dat de bij de berekening gehanteerde gegevens juist zijn, dit wil zeggen dat de accountant vaststelt dat:
+
+   - ○ Het in de berekening als drempel voor de specificieke vergoeding gehanteerde percentage (component G) aansluit bij het in artikel 4 genoemde percentage (20%);
+
+   - ○ De in de berekening gehanteerde omzet- en kostenbedragen, alsmede eventuele correcties daarop, aansluiten op de administratie van de Wlz-zorgaanbieder.
 
 De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende werkzaamheden ter verkrijging van voldoende en geschikte controle-informatie. Indien relevant betrekt de accountant bij zijn controle onder andere de risicoanalyse, de administratieve organisatie (AO) en de interne controle (IC) van de zorgaanbieder en bepaalt op grond hiervan zelfstandig de door hem uit te voeren controlewerkzaamheden. De accountant mag hiervoor gebruik maken van de werkzaamheden die hij uitvoert in het kader van de reguliere jaarrekeningcontrole, indien en voor zo ver hij dat mogelijk en passend acht.25In het geval gesteund wordt op werkzaamheden van de reguliere jaarrekeningcontrole volgt de accountant Standaard 230.8 voor zijn vastleggingen daarvan in het kader van de controle van de nacalculatie-opgave 2022.
 
@@ -244,7 +364,7 @@ De accountant is zelfstandig verantwoordelijk voor het uitvoeren van voldoende w
 
 ### 3.8.1. Algemeen
 
-Zoals beschreven in paragraaf 3.2 dient de accountant zijn controle zodanig in te richten dat het bedrag ‘Totaal financieel gerealiseerde productie over 2022’ en het bedrag ‘Totaal financiële realisatie overige onderdelen over 2022’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als het ‘Formulier Langdurige zorg nacalculatie 2022’, met een redelijke mate van zekerheid is verantwoord in overeenstemming met de geldende NZa-beleidsregels en regelingen zoals genoemd in paragraaf 3.3, tabel 1 echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de paragraaf 3.4 vermelde toetsingscriteria.
+Zoals beschreven in [paragraaf 3.2](https://wetten.overheid.nl/BWBR0047966) dient de accountant zijn controle zodanig in te richten dat het bedrag ‘Totaal financieel gerealiseerde productie over 2022’ en het bedrag ‘Totaal financiële realisatie overige onderdelen over 2022’ zoals vermeld in zowel het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2022’ van de zorgaanbieder als het ‘Formulier Langdurige zorg nacalculatie 2022’, met een redelijke mate van zekerheid is verantwoord in overeenstemming met de geldende NZa-beleidsregels en regelingen zoals genoemd in [paragraaf 3.3](https://wetten.overheid.nl/BWBR0047966), tabel 1 echter uitsluitend indien en voorzover deze beleidsregels en regelingen de grondslag vormen voor de in de [paragraaf 3.4](https://wetten.overheid.nl/BWBR0047966) vermelde toetsingscriteria.
 
 Onder het begrip redelijke mate van zekerheid wordt verstaan dat het onderzoek met een betrouwbaarheid van 95% en een nauwkeurigheid van 99% moet worden uitgevoerd.
 
@@ -252,13 +372,13 @@ De NZa benadrukt dat de nauwkeurigheidstolerantie, die de accountant hanteert vo
 
 Productie gerealiseerd boven de productieafspraak, ondanks het feit dat deze productie26Onder bepaalde voorwaarden komt gerealiseerde productie boven de productieafspraak wel voor vergoeding in aanmerking; zie hiervoor Beleidsregel bekostigingscyclus Wlz 2022, artikel 5 lid 4. niet voor vergoeding in aanmerking komt, wordt meegenomen bij de bepaling van de materialiteit.
 
-Voor het jaar 2022 geldt het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% voor de optelsom van de bedragen ‘Totaal financieel gerealiseerde productie over 2022’ en ‘Totaal financiële realisatie van de overige onderdelen over 2022.’ Voor het opgetelde bedrag geldt dat de controle door de accountant zodanig moet worden ingericht dat niet meer dan 1% van dit opgetelde bedrag niet juist is. Voor het aspect feitelijke levering geldt een betrouwbaarheidspercentage van 95% en een nauwkeurigheidspercentage van 95% conform de uitleg in de laatste alinea van paragraaf 3.5.3.3. Voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus en de Regeling specifieke vergoeding extra energiekosten geldt daarnaast een andere materialiteit (zie paragraaf hierna).
+Voor het jaar 2022 geldt het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% voor de optelsom van de bedragen ‘Totaal financieel gerealiseerde productie over 2022’ en ‘Totaal financiële realisatie van de overige onderdelen over 2022.’ Voor het opgetelde bedrag geldt dat de controle door de accountant zodanig moet worden ingericht dat niet meer dan 1% van dit opgetelde bedrag niet juist is. Voor het aspect feitelijke levering geldt een betrouwbaarheidspercentage van 95% en een nauwkeurigheidspercentage van 95% conform de uitleg in de laatste alinea van [paragraaf 3.5.3.3](https://wetten.overheid.nl/BWBR0047966). Voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus en de Regeling specifieke vergoeding extra energiekosten geldt daarnaast een andere materialiteit (zie paragraaf hierna).
 
 ### 3.8.2. Materialiteit SARS-CoV 2 virus en Specifieke vergoeding extra energiekosten
 
 ### 3.8.2.1. Materialiteit extra kosten als gevolg van het SARS-CoV-2 virus
 
-De accountant bepaalt de materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus op een andere grondslag dan voor de in paragraaf 3.8.1 genoemde onderdelen van de nacalculatie-opgave 2022. Voor de materialiteitsbepaling voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder als grondslag, wat leidt tot een hogere materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus dan voor de in paragraaf 3.8.1 genoemde onderdelen van de nacalculatie-opgave 2022. Het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% zijn overeenkomstig van toepassing. De materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus is daarmee 1% van het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder.
+De accountant bepaalt de materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus op een andere grondslag dan voor de in [paragraaf 3.8.1](https://wetten.overheid.nl/BWBR0047966) genoemde onderdelen van de nacalculatie-opgave 2022. Voor de materialiteitsbepaling voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus geldt het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder als grondslag, wat leidt tot een hogere materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus dan voor de in paragraaf 3.8.1 genoemde onderdelen van de nacalculatie-opgave 2022. Het betrouwbaarheidspercentage van 95% en het nauwkeurigheidspercentage van 99% zijn overeenkomstig van toepassing. De materialiteit voor de controle van de extra kosten als gevolg van het SARS-CoV-2 virus is daarmee 1% van het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder.
 
 ### 3.8.2.2. Materialiteit Regeling specifieke vergoeding extra energiekosten
 
@@ -268,7 +388,17 @@ De accountant bepaalt de materialiteit voor de controle van de extra kosten van 
 
 Voor de strekking van het oordeel in de controleverklaring gelden de toleranties zoals vermeld in tabel 2. Indien de accountant zowel fouten in de nacalculatie-opgave 2022 als onzekerheden in de controle aantreft dan weegt hij deze fouten en onzekerheden bij zijn oordeelsvorming altijd in onderlinge samenhang.
 
+| Oordeel |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Goedkeurend | Beperking | Oordeelonthouding | Afkeurend |
+| Fouten in de nacalculatie-opgave 2022 | ≤ 1% | >1% en ≤ 3% | n.v.t. | > 3% |
+| Onzekerheden in de controle 2022 | ≤3% | >3% en ≤ 10% | > 10% | n.v.t. |
+
 De volgende omvangsbasis is van toepassing:
+
+- • ‘Totaal financieel gerealiseerde productie over 2022’ en ‘totaal financiële realisatie overige onderdelen over 2022’: de optelsom van de bedragen ‘Totaal financieel gerealiseerde productie over 2022’ en ‘totaal financiële realisatie van de overige onderdelen over 2022’;
+
+- • ‘Extra kosten SARS-CoV-2 virus’ en ‘Regeling specifieke vergoeding extra energiekosten’: het totaal wettelijk budget Wlz op het niveau van de zorgaanbieder.
 
 Er is sprake van één oordeel. In geval sprake is van een overschrijding van de tolerantie voor ‘Totaal financieel gerealiseerde productie over 2022’ en ‘Totaal financiële realisatie van de overige onderdelen over 2022’ en/of ‘extra kosten als gevolg van het SARS-CoV-2 virus’ en/of ‘de extra kosten van de bovenmatig gestegen energieprijzen’ zal dit leiden tot aangepast oordeel overeenkomstig tabel 2. Uitspraak over oordeel controleverklaring.
 
@@ -278,17 +408,25 @@ De accountant rapporteert de uit zijn onderzoek geconstateerde onjuistheden aan 
 
 Alle fouten moeten door of namens het bestuur van de zorgaanbieder op prestatieniveau in de financiële- en zorgadministratie van de zorgaanbieder worden gecorrigeerd en onzekerheden in de nacalculatie-opgave 2022 moeten nader worden onderzocht. Correcties hebben gevolgen voor het bedrag ‘Totaal financieel gerealiseerde productie over 2022’ en/of het bedrag ‘Totaal financiële realisatie overige onderdelen over 2022’ en/of ‘het Bedrag volgens de Regeling specifieke vergoeding extra energiekosten’.
 
+Fouten
+
 Van een fout in de nacalculatie-opgave 2022 is sprake wanneer gebleken is dat – een gedeelte van – een post niet in overeenstemming is met de toetsingscriteria.
 
 Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
 
 Zorg geleverd boven de gehonoreerde productieafspraak27Zie voor de omschrijving van het begrip ‘gehonoreerde productieafspraak’ de Beleidsregel bekostigingscyclus Wlz 2022, artikel 1 (Begripsbepalingen). wordt in beginsel niet vergoed. Voor de vaststelling van de juistheid van het bedrag ‘Totaal financieel gerealiseerde productie over 2022’ in de nacalculatie-opgave 2022 is het niet van belang of dat bedrag de gehonoreerde productieafspraak overschrijdt. De totaal financieel gerealiseerde productie dient in de nacalculatie-opgave 2022 verantwoord te worden.
 
+Onzekerheden in de controle/in de nacalculatie-opgave 2022
+
 Een onzekerheid in de controle/in de nacalculatie-opgave 2022 doet zich voor als gebleken is dat onvoldoende (controle-)informatie beschikbaar is om een – gedeelte van een – post als goed of fout aan te merken.
+
+Zorgaanbieder
 
 De zorgaanbieder dient alle geconstateerde fouten te corrigeren in zijn financiële- en zorgadministratie. Correcties hebben gevolgen voor het bedrag ‘Totaal financieel gerealiseerde productie over 2022’ en/of het bedrag ‘Totaal financiële realisatie overige onderdelen over 2022’ en/of het ‘Bedrag volgens de Regeling specifieke vergoeding extra energiekosten’. Dit geldt dus ook voor fouten die onder de nauwkeurigheidstolerantie blijven. Niet gecorrigeerde fouten op prestatieniveau dienen in de toelichting bij de nacalculatie-opgave 2022 door de zorgaanbieder gekwantificeerd te zijn opgenomen. De accountant stelt vervolgens vast of hierover in zijn controleverklaring een paragraaf ter benadrukking van deze aangelegenheid moet worden opgenomen.
 
-Fouten en onzekerheden in de nacalculatie-opgave 2022 die de zorgaanbieder om een bepaalde reden objectief niet **kan**oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2022 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van het budget aanvaardbare kosten.
+Fouten en onzekerheden in de nacalculatie-opgave 2022 die de zorgaanbieder om een bepaalde reden objectief niet *kan*oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2022 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van het budget aanvaardbare kosten.
+
+Accountant
 
 De accountant dient na te gaan of de zorgaanbieder de geconstateerde fouten heeft gecorrigeerd en met de onzekerheden in de nacalculatie-opgave 2022 is omgegaan zoals hierboven is vermeld. De accountant neemt de niet gecorrigeerde fouten en onzekerheden mee in zijn oordeelsvorming in de controleverklaring.
 
@@ -296,84 +434,12 @@ De accountant dient na te gaan of de zorgaanbieder de geconstateerde fouten heef
 
 De nacalculatie-opgave 2022 omvat naast het ondertekeningsdocument ook andere informatie, die bestaat uit:
 
-Wat betreft de verenigbaarheid van de andere informatie handelt de accountant overeenkomstig hetgeen in paragraaf 1.2 van dit controleprotocol is uitgewerkt.
+- – de ‘Vragenlijst controleprotocol’ en de eventuele voor identificatiedoeleinden gewaarmerkte toelichting hierbij;
 
-## Bijlage. Voorbeeldtekst van de controleverklaring bij de nacalculatie-opgave 2022
+- – de ‘Vragen en overige opmerkingen’ met indien nodig een niet door de accountant gewaarmerkte toelichting;
 
-In deze bijlage is de door de Nederlandse Beroepsorganisatie van Accountants (NBA) vastgestelde voorbeeldtekst van de goedkeurende controleverklaring geactualiseerd voor de nacalculatie-opgave 2022.
+- – correcties door het zorgkantoor28(indien aanwezig) Correctie zorgkantoor op realisatie productieafspraak algemeen, correctie zorgkantoor op restant overproductie..
 
-De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn. Voor de teksten van deze verklaringen wordt verwezen naar de desbetreffende NBA voorbeeldteksten.
+- – het bedrag volgens de Regeling generieke vergoeding extra energiekosten (zie beleidsregel [Beleidsregel compensatie hogere energiekosten 2022 Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0047894) (BR/REG-22164).
 
-Aan: opdrachtgever
-
-Wij hebben de in het bijgevoegde, door ons gewaarmerkte, Ondertekeningsdocument Langdurige zorg nacalculatie 2022 van de zorgaanbieder (hierna: ‘het ondertekeningsdocument’) opgenomen bedragen ‘Totaal financieel gerealiseerde productie over 2022’ en ‘Totaal financiële realisatie van de overige onderdelen over 202229Alleen in de controleverklaring opnemen als het onderdeel financiële realisatie overige onderdelen over 2022 in de nacalculatie-opgave 2022 is ingevuld.’ en ‘het Bedrag volgens de Regeling specifieke vergoeding extra energiekosten’ behorende bij het, door ons voor identificatiedoeleinden gewaarmerkte, Formulier Langdurige zorg nacalculatie 2022 (hierna: ‘de realisatie bedragen’) van (**naam Wlz-zorgaanbieder**) te (**vestigingsplaats**) gecontroleerd.,
-
-Naar ons oordeel is het in het ondertekeningsdocument opgenomen bedrag ‘Totaal financieel gerealiseerde productie over 2022’ ten bedrage van € (bedrag) als onderdeel van de nacalculatie-opgave 2022 in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders (versie 1, maart 2023).
-
-(**Onderstaande alinea in controleverklaring opnemen als het onderdeel financiële realisatie overige onderdelen over 2022 in de nacalculatie-opgave 2022 is ingevuld**)
-
-Naar ons oordeel is het in het ondertekeningsdocument opgenomen bedrag ‘Totaal financiële realisatie van de overige onderdelen over 2022’ ten bedrage van € (bedrag) als onderdeel van de nacalculatie-opgave 2022 in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders (versie 1, maart 2023).
-
-(**Onderstaande alinea in controleverklaring opnemen als het onderdeel Bedrag volgens de Regeling specifieke vergoeding extra energiekosten in de nacalculatie-opgave 2022 is ingevuld**)
-
-Naar ons oordeel is het in het ondertekeningsdocument opgenomen bedrag volgens de ‘Regeling specifieke vergoeding extra energiekosten’ ten bedrage van € (bedrag) als onderdeel van de nacalculatie-opgave 2022 in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders (versie 1, maart 2023).
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders (versie 1, maart 2023) vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van de realisatie bedragen’.
-
-Wij zijn onafhankelijk van (**naam Wlz-zorgaanbieder**) zoals vereist in de Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten (ViO) en andere voor de opdracht relevante onafhankelijkheidsregels in Nederland. Verder hebben wij voldaan aan de Verordening gedrags- en beroepsregels accountants (VGBA).
-
-Wij vinden dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.
-
-De nacalculatie-opgave 2022 omvat naast de realisatie bedragen ook andere informatie, die bestaat uit:
-
-- –. de vragenlijst controleprotocol;
-
-- –. indien van toepassing de voor identificatiedoeleinden gewaarmerkte toelichting(en) bij de vragenlijst controleprotocol;
-
-- –. de ‘Vragen en overige opmerkingen’;
-
-- –. indien van toepassing een niet gewaarmerkte toelichting(en) bij de ‘Vragen en overige opmerkingen’;
-
-- –. (indien aanwezig) Correctie zorgkantoor op realisatie productieafspraak algemeen;
-
-- –. (indien aanwezig) Correctie zorgkantoor op restant overproductie;
-
-- –. (indien aanwezig) het bedrag volgens de Regeling generieke vergoeding extra energiekosten.
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met de realisatie bedragen verenigbaar is en geen materiële afwijkingen bevat.
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
-
-Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de realisatie bedragen.
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.
-
-De nacalculatie-opgave 2022 is opgesteld voor het zorgkantoor/de Wlz-uitvoerder en de NZa met als doel het bestuur van (**naam Wlz-zorgaanbieder**) in staat te stellen te voldoen aan de beleidsregels en regelingen van de NZa. Hierdoor is de nacalculatie-opgave 2022 mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor het bestuur van (**naam Wlz-zorgaanbieder**), het zorgkantoor/de Wlz-uitvoerder en de NZa en dient niet te worden verspreid aan of te worden gebruikt door anderen.
-
-Het bestuur van de entiteit is verantwoordelijk voor het opstellen van de in het ondertekeningsdocument van de zorgaanbieder opgenomen bedragen voor de financieel gerealiseerde productie over 2022 en indien van toepassing voor de financiële realisatie van de overige onderdelen over 2022 en indien van toepassing het bedrag volgens de Regeling Specifieke vergoeding extra energiekosten behorende bij de nacalculatie-opgave 2022. Dit bedrag/deze bedragen moeten in overeenstemming zijn met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1 van het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders, versie 1, maart 2023).
-
-Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht, om het opstellen van het ondertekeningsdocument en de nacalculatie-opgave mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
-
-Onze verantwoordelijkheid is het zodanig plannen en uitvoeren van een controleopdracht dat wij daarmee voldoende en geschikte controle-informatie verkrijgen voor het door ons af te geven oordeel.
-
-Onze controle is uitgevoerd met een hoge maar geen absolute mate van zekerheid waardoor het mogelijk is dat wij tijdens onze controle niet alle materiële fouten en fraude ontdekken.
-
-Afwijkingen kunnen ontstaan als gevolg van fraude of fouten en zijn materieel indien redelijkerwijs kan worden verwacht dat deze, afzonderlijk of gezamenlijk, van invloed kunnen zijn op de economische beslissingen die gebruikers op basis van de realisatie bedragen nemen. De materialiteit beïnvloedt de aard, timing en omvang van onze controlewerkzaamheden en de evaluatie van het effect van onderkende afwijkingen op ons oordeel.
-
-Wij hebben deze accountantscontrole professioneel kritisch uitgevoerd en hebben waar relevant professionele oordeelsvorming toegepast in overeenstemming met de Nederlandse controlestandaarden en het Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders (versie 1, maart 2023), ethische voorschriften en de onafhankelijkheidseisen. Onze controle bestond onder andere uit:
-
-- –. het identificeren en inschatten van de risico’s dat de realisatie bedragen afwijkingen van materieel belang bevatten als gevolg van fouten of fraude, het in reactie op deze risico’s bepalen en uitvoeren van controlewerkzaamheden en het verkrijgen van controle-informatie die voldoende en geschikt is als basis voor ons oordeel. Bij fraude is het risico dat een afwijking van materieel belang niet ontdekt wordt groter dan bij fouten. Bij fraude kan sprake zijn van samenspanning, valsheid in geschrifte, het opzettelijk nalaten transacties vast te leggen, het opzettelijk verkeerd voorstellen van zaken of het doorbreken van de interne beheersing;
-
-- –. het verkrijgen van inzicht in de interne beheersing die relevant is voor de controle met als doel controlewerkzaamheden te selecteren die passend zijn in de omstandigheden. Deze werkzaamheden hebben niet als doel om een oordeel uit te spreken over de effectiviteit van de interne beheersing van de organisatie;
-
-- –. het evalueren van de geschiktheid van de gebruikte grondslagen voor de realisatie bedragen en het evalueren van de redelijkheid van schattingen door het bestuur;
-
-- –. het evalueren van de presentatie, structuur en inhoud van de realisatie bedragen;
-
-- –. het evalueren of de realisatie bedragen de onderliggende transacties en gebeurtenissen zonder materiële afwijkingen weergeven.
-
-Plaats en datum
-
-... (**naam accountantspraktijk**)
-
-... (**naam accountant**)
+Wat betreft de verenigbaarheid van de andere informatie handelt de accountant overeenkomstig hetgeen in [paragraaf 1.2](https://wetten.overheid.nl/BWBR0047966) van dit controleprotocol is uitgewerkt.

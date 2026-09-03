@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 september 2022, nr. KENNIS/34020061, houdende de formele instelling van de Begeleidingscommissie Leerlingen- en Studentenramingen (Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen 2022)"
+citeertitel: "Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen"
 identifier: "BWBR0047356"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2022-10-25"
-last_updated: "2022-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047356"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16531233"
-version_id: "28976852"
-internal_id: "C41025781"
-label_id: "16452454"
-dtd_version: "2.0"
-original_entry_into_force: "2022-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047356/2022-10-25/0"
-intitule_bron: "Stcrt.2022-28084"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-09-27"
-intitule_published: "2022-10-24"
-intitule_in_force: "2022-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2022-28084"
-original_signed_date: "2022-09-27"
-original_published_date: "2022-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2022-28084"
-entry_into_force_date: "2022-10-25"
-jci_1_3: "jci1.3:c:BWBR0047356&z=2022-10-25&g=2022-10-25"
-jci_1_0: "1.0:c:BWBR0047356&g=2022-10-25"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen"
-signed_date: "2022-09-27"
-entry_into_force: "2022-10-25"
+publicatiedatum: 2022-10-25
+laatste_update: 2022-10-25
+status: geldig
+toestand: 2022-10-25
+bron: "https://wetten.overheid.nl/BWBR0047356"
+opgehaald: 2026-09-03
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 september 2022, nr. KENNIS/34020061, houdende de formele instelling van de Begeleidingscommissie Leerlingen- en Studentenramingen (Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen 2022)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **begeleidingscommissie:** Begeleidingscommissie Leerlingen- en Studentenramingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047356&artikel=2&z=2022-10-25&g=2022-10-25).
+- b. *begeleidingscommissie:* Begeleidingscommissie Leerlingen- en Studentenramingen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047356&artikel=2&z=2022-10-25&g=2022-10-25).
 
 ##### Artikel 2. Instelling en taak
 
@@ -86,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Benoeming voorzitter
 
-Te rekenen vanaf 14 september 2022 wordt tot voorzitter van de begeleidingscommissie benoemd: mw. prof. dr. W. Smits te Kanne (B).
+Te rekenen vanaf 14 september 2022 wordt tot voorzitter van de begeleidingscommissie benoemd: mw. prof. dr. W. Smits te Kanne (B).
 
 ##### Artikel 5. Secretariaat
 
@@ -140,7 +114,7 @@ De begeleidingscommissie draagt zo spoedig mogelijk na beëindiging van haar wer
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 september 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 september 2022.
 
 ##### Artikel 15. Intrekking oude regeling
 
@@ -149,5 +123,3 @@ De Instellingsbeschikking Adviesgroep Leerlingen- en Studentenramingen wordt ing
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Begeleidingscommissie Leerlingen- en Studentenramingen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

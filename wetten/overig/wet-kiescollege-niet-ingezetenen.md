@@ -1,143 +1,36 @@
 ---
 title: "Wet van 19 oktober 2022, houdende regels omtrent de oprichting en inrichting van een kiescollege voor de Eerste Kamer voor Nederlanders die geen ingezetenen zijn alsmede wijziging van de Kieswet ten behoeve van de verkiezing van de leden van het kiescollege voor Nederlanders die geen ingezetenen zijn en de verkiezing van de leden van de Eerste Kamer door de leden van dit kiescollege (Wet kiescollege niet-ingezetenen)"
+citeertitel: "Wet kiescollege niet-ingezetenen"
 identifier: "BWBR0047384"
-country: "nl"
-rank: "wet"
-publication_date: "2023-01-01"
-last_updated: "2023-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0047384"
+categorie: "Overig"
 soort: "wet"
-stam_id: "16540533"
-version_id: "28996582"
-internal_id: "C41064091"
-label_id: "16462094"
-dtd_version: "2.0"
-original_entry_into_force: "2022-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0047384/2023-01-01/0"
-intitule_bron: "Stb.2022-410"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-10-19"
-intitule_published: "2022-10-26"
-intitule_in_force: "2022-10-31"
-intitule_status: "goed"
-original_publication: "Stb.2022-410"
-original_signed_date: "2022-10-19"
-original_published_date: "2022-10-26"
-original_effect: "nieuwe-regeling"
-original_dossier: "36071"
-original_url_id: "stb-2022-410"
-entry_into_force_date: "2022-11-01"
-jci_1_3: "jci1.3:c:BWBR0047384&z=2023-01-01&g=2023-01-01"
-jci_1_0: "1.0:c:BWBR0047384&g=2023-01-01"
-citeertitel_status: "officieel"
-short_title: "Wet kiescollege niet-ingezetenen"
-signed_date: "2022-10-19"
-entry_into_force: "2022-11-01"
+publicatiedatum: 2022-11-01
+laatste_update: 2023-01-01
+status: geldig
+toestand: 2023-01-01
+bron: "https://wetten.overheid.nl/BWBR0047384"
+opgehaald: 2026-09-03
 ---
+
 # Wet van 19 oktober 2022, houdende regels omtrent de oprichting en inrichting van een kiescollege voor de Eerste Kamer voor Nederlanders die geen ingezetenen zijn alsmede wijziging van de Kieswet ten behoeve van de verkiezing van de leden van het kiescollege voor Nederlanders die geen ingezetenen zijn en de verkiezing van de leden van de Eerste Kamer door de leden van dit kiescollege (Wet kiescollege niet-ingezetenen)
 
-## Titel I. Begripsbepalingen
-
-## Titel I. Begripsbepalingen
-
-## Titel III. Wijziging van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
-
-## Titel IV. Overgangs- en slotbepalingen
-
-##### Artikel 31
-
-Ten behoeve van de registratie van de kiesgerechtigdheid voor de verkiezing van de leden van het kiescollege, worden kiesgerechtigden in het eerste jaar na de inwerkingtreding van deze wet uitgenodigd tot registratie voor de verkiezing van de leden van het kiescollege op basis van de gegevens die zijn opgenomen in de bestanden, bedoeld in [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2).
-
-##### Artikel 32
-
-Na de eerste verkiezing van de leden van het kiescollege geschiedt in afwijking van [artikel V 4 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=V_4) het onderzoek van de geloofsbrieven van de benoemde leden van het kiescollege, bedoeld in dat artikel, door die leden.
-
-##### Artikel 33
-
-De gedragscode, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=11&z=2023-01-01&g=2023-01-01), wordt vastgesteld uiterlijk in de kalendermaand voorafgaande aan de eerstvolgende verkiezing van de leden van de Eerste Kamer na de inwerkingtreding van deze wet.
-
-##### Artikel 34
-
-Wijzigt de Algemene wet bestuursrecht.
-
-##### Artikel 35
-
-Vervallen
-
-##### Artikel 36
-
-Vervallen
-
-##### Artikel 37
-
-Vervallen
-
-##### Artikel 38
-
-Vervallen
-
-##### Artikel 39
-
-Vervallen
-
-##### Artikel 40
-
-Vervallen
-
-##### Artikel 41
-
-Vervallen
-
-##### Artikel 42
-
-De kiesgerechtigden die op grond van [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=36&z=2023-01-01&g=2023-01-01), in samenhang met [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2) zijn geregistreerd, worden geacht geregistreerd te zijn op basis van [artikel Pa 3 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_3).
-
-##### Artikel 43
-
-De aanduidingen die zijn geregistreerd op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=38&z=2023-01-01&g=2023-01-01) in samenhang met [artikel G 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2), worden geacht geregistreerd te zijn op basis van [artikel Pa 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_1) in samenhang met artikel G 2 van de Kieswet.
-
-##### Artikel 44
-
-De logo’s die zijn geregistreerd op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=39&z=2023-01-01&g=2023-01-01) in samenhang met [artikel 4 van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598&artikel=4) dan wel in samenhang met [artikel G 1a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1a), worden geacht geregistreerd te zijn op basis van [artikel Pa 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_8).
-
-##### Artikel 45
-
-De gegevens die het register bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=40&z=2023-01-01&g=2023-01-01), bevat, worden opgenomen in het register bedoeld in [artikel M 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_5).
-
-##### Artikel 46
-
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=III&artikel=30&z=2023-01-01&g=2023-01-01), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=42&z=2023-01-01&g=2023-01-01) in werking treden. Op dit tijdstip vervallen de artikelen [35 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2023-01-01&g=2023-01-01).
-
-3. Indien het bij koninklijk besluit van 31 maart 2021 ingediende voorstel van wet tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), strekkende tot het opnemen van een bepaling over een door niet-ingezetenen gekozen kiescollege voor de verkiezing van de Eerste Kamer der Staten-Generaal (35 785), na tot wet te zijn verheven in werking is getreden voor het tijdstip waarop deze wet in werking treedt, eindigt de termijn gedurende welke [artikel 55 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=55), naar de tekst van 2017, van kracht blijft, op het tijdstip waarop deze wet in werking treedt.
-
-##### Artikel 47
-
-Deze wet wordt aangehaald als: Wet kiescollege niet-ingezetenen.
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een kiescollege op te richten en in te richten dat Nederlanders die geen ingezetenen van Nederland zijn vertegenwoordigt bij de verkiezing van de leden van de Eerste Kamer der Staten-Generaal, en dat een voorstel tot wijziging van de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) hiertoe is aanvaard, alsmede de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) te wijzigen ter invoering van de verkiezing van het kiescollege door Nederlanders die geen ingezetenen zijn en de verkiezing van de leden van de Eerste Kamer der Staten-Generaal door de leden van het kiescollege;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+### Titel I. Begripsbepalingen
 
 ##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
-- a. **het aantal geregistreerde kiesgerechtigden:** het aantal kiesgerechtigden dat is geregistreerd als kiezer voor de verkiezing van het kiescollege op grond van [artikel Pa 3](onbekend) in samenhang met [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2);
+- a. *het aantal geregistreerde kiesgerechtigden:* het aantal kiesgerechtigden dat is geregistreerd als kiezer voor de verkiezing van het kiescollege op grond van artikel Pa 3 in samenhang met [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2);
 
-- b. **ingezetenen:** zij die hun werkelijke woonplaats in Nederland hebben; en
+- b. *ingezetenen:* zij die hun werkelijke woonplaats in Nederland hebben; en
 
-- c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2
 
 Zij die als ingezetene met een adres in een gemeente zijn ingeschreven in de basisregistratie personen, worden voor de toepassing van deze wet, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats in Nederland te hebben.
 
-## Titel II. De inrichting en samenstelling van het kiescollege
+### Titel II. De inrichting en samenstelling van het kiescollege
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -399,12 +292,82 @@ Voor het tot stand komen van een beslissing bij stemming wordt de volstrekte mee
 
 3. De griffier dan wel zijn plaatsvervanger is in de vergadering van het kiescollege aanwezig.
 
-## Titel III. Wijziging van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627)
+### Titel III. Wijziging van de Kieswet
 
 ##### Artikel 30
 
-Wijzigt de Kieswet.
+*Wijzigt de Kieswet.*
 
-## Titel IV. Overgangs- en slotbepalingen
+### Titel IV. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+##### Artikel 31
+
+Ten behoeve van de registratie van de kiesgerechtigdheid voor de verkiezing van de leden van het kiescollege, worden kiesgerechtigden in het eerste jaar na de inwerkingtreding van deze wet uitgenodigd tot registratie voor de verkiezing van de leden van het kiescollege op basis van de gegevens die zijn opgenomen in de bestanden, bedoeld in [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2).
+
+##### Artikel 32
+
+Na de eerste verkiezing van de leden van het kiescollege geschiedt in afwijking van [artikel V 4 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=V_4) het onderzoek van de geloofsbrieven van de benoemde leden van het kiescollege, bedoeld in dat artikel, door die leden.
+
+##### Artikel 33
+
+De gedragscode, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=II&hoofdstuk=II&artikel=11&z=2023-01-01&g=2023-01-01), wordt vastgesteld uiterlijk in de kalendermaand voorafgaande aan de eerstvolgende verkiezing van de leden van de Eerste Kamer na de inwerkingtreding van deze wet.
+
+##### Artikel 34
+
+*Wijzigt de Algemene wet bestuursrecht.*
+
+##### Artikel 35
+
+*Vervallen*
+
+##### Artikel 36
+
+*Vervallen*
+
+##### Artikel 37
+
+*Vervallen*
+
+##### Artikel 38
+
+*Vervallen*
+
+##### Artikel 39
+
+*Vervallen*
+
+##### Artikel 40
+
+*Vervallen*
+
+##### Artikel 41
+
+*Vervallen*
+
+##### Artikel 42
+
+De kiesgerechtigden die op grond van [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=36&z=2023-01-01&g=2023-01-01), in samenhang met [artikel D 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=D_2) zijn geregistreerd, worden geacht geregistreerd te zijn op basis van [artikel Pa 3 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_3).
+
+##### Artikel 43
+
+De aanduidingen die zijn geregistreerd op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=38&z=2023-01-01&g=2023-01-01) in samenhang met [artikel G 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_2), worden geacht geregistreerd te zijn op basis van [artikel Pa 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_1) in samenhang met artikel G 2 van de Kieswet.
+
+##### Artikel 44
+
+De logo’s die zijn geregistreerd op grond van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=39&z=2023-01-01&g=2023-01-01) in samenhang met [artikel 4 van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming](https://wetten.overheid.nl/jci1.3:c:BWBR0033598&artikel=4) dan wel in samenhang met [artikel G 1a van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=G_1a), worden geacht geregistreerd te zijn op basis van [artikel Pa 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Pa_8).
+
+##### Artikel 45
+
+De gegevens die het register bedoeld in [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=40&z=2023-01-01&g=2023-01-01), bevat, worden opgenomen in het register bedoeld in [artikel M 5, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=M_5).
+
+##### Artikel 46
+
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=III&artikel=30&z=2023-01-01&g=2023-01-01), [42 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=42&z=2023-01-01&g=2023-01-01) in werking treden. Op dit tijdstip vervallen de artikelen [35 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0047384&titeldeel=IV&artikel=35&z=2023-01-01&g=2023-01-01).
+
+3. Indien het bij koninklijk besluit van 31 maart 2021 ingediende voorstel van wet tot verandering in de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840), strekkende tot het opnemen van een bepaling over een door niet-ingezetenen gekozen kiescollege voor de verkiezing van de Eerste Kamer der Staten-Generaal (), na tot wet te zijn verheven in werking is getreden voor het tijdstip waarop deze wet in werking treedt, eindigt de termijn gedurende welke [artikel 55 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=55), naar de tekst van 2017, van kracht blijft, op het tijdstip waarop deze wet in werking treedt.
+
+##### Artikel 47
+
+Deze wet wordt aangehaald als: Wet kiescollege niet-ingezetenen.
