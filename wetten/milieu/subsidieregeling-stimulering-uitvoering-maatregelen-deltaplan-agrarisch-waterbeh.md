@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat van 22 juni 2023 nr. IENW/BSK-2023/168582, houdende vaststelling van regels voor subsidie ter stimulering van de uitvoering van maatregelen van het Deltaplan Agrarisch Waterbeheer (Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer)"
+citeertitel: "Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer"
 identifier: "BWBR0048372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-25"
-last_updated: "2025-07-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048372"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16795993"
-version_id: "29506452"
-internal_id: "C42189361"
-label_id: "16710984"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048372/2025-07-25/0"
-intitule_bron: "Stcrt.2023-18054"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-22"
-intitule_published: "2023-07-07"
-intitule_in_force: "2023-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-18054"
-original_signed_date: "2023-06-22"
-original_published_date: "2023-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-18054"
-entry_into_force_date: "2023-07-08"
-jci_1_3: "jci1.3:c:BWBR0048372&z=2025-07-25&g=2025-07-25"
-jci_1_0: "1.0:c:BWBR0048372&g=2025-07-25"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer"
-signed_date: "2023-06-22"
-entry_into_force: "2023-07-08"
+publicatiedatum: 2023-07-08
+laatste_update: 2025-07-25
+status: geldig
+toestand: 2025-07-25
+bron: "https://wetten.overheid.nl/BWBR0048372"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat van 22 juni 2023 nr. IENW/BSK-2023/168582, houdende vaststelling van regels voor subsidie ter stimulering van de uitvoering van maatregelen van het Deltaplan Agrarisch Waterbeheer (Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer)
-
-Gelet op [artikel 7.22d, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.22d) en artikel 7.22d, derde lid, van de Waterwet juncto de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **deelproject:** project van een waterschap en een of meer agrariërs of het georganiseerde agrarisch bedrijfsleven met een beschrijving van de maatregelen;
+- *deelproject:* project van een waterschap en een of meer agrariërs of het georganiseerde agrarisch bedrijfsleven met een beschrijving van de maatregelen;
 
-- **Gebiedsdocument agrarische wateropgave:** document waarin per waterschapsgebied de met de agrarische bedrijfsvoering samenhangende wateropgaven aangaande waterkwantiteit en waterkwaliteit, zijn beschreven voor zowel grond- als oppervlaktewater;
+- *Gebiedsdocument agrarische wateropgave:* document waarin per waterschapsgebied de met de agrarische bedrijfsvoering samenhangende wateropgaven aangaande waterkwantiteit en waterkwaliteit, zijn beschreven voor zowel grond- als oppervlaktewater;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **projectpakket:** totaal van deelprojecten die als geheel bij een aanvraag wordt gevoegd.
+- *projectpakket:* totaal van deelprojecten die als geheel bij een aanvraag wordt gevoegd.
 
 ##### Artikel 2. Doel
 
 Deze regeling heeft tot doel het door middel van subsidieverstrekking stimuleren van het versneld uitvoeren van deelprojecten die de agrarische wateropgave zoals beschreven in de Gebiedsdocumenten agrarische wateropgave verminderen.
 
-##### Artikel 3. Bepalingen [Kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381) van overeenkomstige toepassing
+##### Artikel 3. Bepalingen Kaderbesluit van overeenkomstige toepassing
 
 De [artikelen 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [10, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onder a, b, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), en [23, zesde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) zijn van overeenkomstige toepassing.
 
@@ -68,13 +42,13 @@ De [artikelen 6, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - a. de uitvoering van het projectpakket, waaronder in ieder geval de volgende maatregelen worden begrepen:
 
-- 1°. fysieke maatregelen, waaronder de aanschaf van middelen en de aanleg van voorzieningen waarvan het waterschap eigenaar wordt of het door een waterschap inzetten van middelen van derden tegen een marktconform tarief;
+   - 1°. fysieke maatregelen, waaronder de aanschaf van middelen en de aanleg van voorzieningen waarvan het waterschap eigenaar wordt of het door een waterschap inzetten van middelen van derden tegen een marktconform tarief;
 
-- 2°. het organiseren van de samenwerking tussen de waterbeheerders en agrariërs;
+   - 2°. het organiseren van de samenwerking tussen de waterbeheerders en agrariërs;
 
-- 3°. het ontwikkelen of delen van kennis en geven van advies;
+   - 3°. het ontwikkelen of delen van kennis en geven van advies;
 
-- 4°. het monitoren van de voortgang van de uitvoering van de deelprojecten uit het projectpakket en waar van toepassing het meten van het effect van de uitvoering hiervan; en
+   - 4°. het monitoren van de voortgang van de uitvoering van de deelprojecten uit het projectpakket en waar van toepassing het meten van het effect van de uitvoering hiervan; en
 
 - b. de voorbereiding om te komen tot een projectpakket.
 
@@ -108,19 +82,19 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 - b. kosten die op basis van een andere rijksregeling gefinancierd worden uit het deltafonds, bedoeld in [artikel 7.22a van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.22a).
 
-3. Voor de berekening van de kosten die niet voor subsidie in aanmerking komen, bedoeld in [artikel 5, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2025-07-25&g=2025-07-25), geldt een tarief van € 50,– per uur inclusief BTW.
+3. Voor de berekening van de kosten die niet voor subsidie in aanmerking komen, bedoeld in [artikel 5, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=5&z=2025-07-25&g=2025-07-25), geldt een tarief van € 50,– per uur inclusief BTW.
 
 ##### Artikel 7. Subsidieplafond en verdeling
 
-1. Het subsidieplafond bedraagt € 21.000.000,-.
+1. Het subsidieplafond bedraagt € 21.000.000,-.
 
-2. In de bijlage is bepaald welk budget per waterschap ten hoogste beschikbaar is voor subsidie.
+2. In de [bijlage](https://wetten.overheid.nl/BWBR0048372) is bepaald welk budget per waterschap ten hoogste beschikbaar is voor subsidie.
 
 3. De minister kan de budgetverdeling, bedoeld in het tweede lid, wijzigen, mits de betrokken waterschappen daartoe hebben verzocht en hebben ingestemd met de betreffende budgetoverheveling.
 
 ##### Artikel 8. Aanvraag
 
-1. Een aanvraag voor een subsidie kan door een waterschap worden ingediend tot en met 31 december 2025.
+1. Een aanvraag voor een subsidie kan door een waterschap worden ingediend tot en met 31 december 2025.
 
 2. Per waterschap kan ten hoogste driemaal een aanvraag worden ingediend binnen de periode, bedoeld in het eerste lid.
 
@@ -130,17 +104,17 @@ Voor een subsidie op grond van deze regeling komen niet in aanmerking:
 
 - a. een projectpakket met daarin per deelproject:
 
-- 1°. per beschreven maatregel de uitvoeringsverantwoordelijken en de beoogde start- en einddatum;
+   - 1°. per beschreven maatregel de uitvoeringsverantwoordelijken en de beoogde start- en einddatum;
 
-- 2°. een beschrijving van de wijze waarop uitvoering van een deelproject bijdraagt aan het verminderen van de opgaven als beschreven in het Gebiedsdocument agrarische wateropgave;
+   - 2°. een beschrijving van de wijze waarop uitvoering van een deelproject bijdraagt aan het verminderen van de opgaven als beschreven in het Gebiedsdocument agrarische wateropgave;
 
-- 3°. een beschrijving van de wijze waarop aan de maatregelen uitvoering zal worden gegeven;
+   - 3°. een beschrijving van de wijze waarop aan de maatregelen uitvoering zal worden gegeven;
 
-- 4°. een beschrijving van de wijze van samenwerking en overlegstructuur met waterbeheerders en agrariërs, eventuele agrarische samenwerkingsverbanden en, indien nodig en van toepassing, de eigenaren van de percelen waarop de maatregelen in de deelprojecten worden uitgevoerd;
+   - 4°. een beschrijving van de wijze van samenwerking en overlegstructuur met waterbeheerders en agrariërs, eventuele agrarische samenwerkingsverbanden en, indien nodig en van toepassing, de eigenaren van de percelen waarop de maatregelen in de deelprojecten worden uitgevoerd;
 
-- 5°. voorziene datum aanvang en afronding van een deelproject;
+   - 5°. voorziene datum aanvang en afronding van een deelproject;
 
-- 6°. een beschrijving van een op te schalen leereffect, indien van toepassing;
+   - 6°. een beschrijving van een op te schalen leereffect, indien van toepassing;
 
 - b. de gevraagde subsidiebijdrage, onderbouwd met een specificatie en raming van de totale kosten per maatregel in het projectpakket, waarbij onderscheid wordt gemaakt tussen kosten die voor subsidie in aanmerking komen en de overige kosten voor de berekening van de hoogte van het subsidiebedrag overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=6&z=2025-07-25&g=2025-07-25);
 
@@ -196,11 +170,11 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 ##### Artikel 12. Verplichtingen subsidieontvanger
 
-1. De deelprojecten in het projectpakket waarvoor een subsidie is verleend worden uitgevoerd voor 31 december 2027, tenzij in de beschikking tot verlening van de subsidie een eerdere einddatum is opgenomen.
+1. De deelprojecten in het projectpakket waarvoor een subsidie is verleend worden uitgevoerd voor 31 december 2027, tenzij in de beschikking tot verlening van de subsidie een eerdere einddatum is opgenomen.
 
 2. Een subsidieontvanger levert binnen 6 weken na ontvangst van de beschikking tot verlening van de subsidie aan de minister een ingevuld monitoringsfiche per deelproject aan, met daarin een beschrijving van de voorgenomen maatregelen en de daarbij behorende effectmonitoringswijze en de indicatoren die zullen worden gebruikt.
 
-3. Een subsidieontvanger verstrekt jaarlijks voor 31 maart aan de minister een geactualiseerd monitoringsfiche per deelproject, met daarin informatie over de voortgang van uitvoering van de maatregelen en informatie over uitgevoerde metingen naar de effecten hiervan.
+3. Een subsidieontvanger verstrekt jaarlijks voor 31 maart aan de minister een geactualiseerd monitoringsfiche per deelproject, met daarin informatie over de voortgang van uitvoering van de maatregelen en informatie over uitgevoerde metingen naar de effecten hiervan.
 
 4. Indien bij een deelproject wordt samengewerkt tussen twee of meer waterschappen, dienen deze de informatie, bedoeld in het tweede en derde lid, in via het waterschap dat de aanvraag namens de andere waterschappen heeft ingediend.
 
@@ -242,49 +216,20 @@ Een beschikking tot verlening van een subsidie bevat in ieder geval:
 
 ##### Artikel 14. Vaststelling van de subsidie
 
-1. De minister stelt de subsidie uiterlijk op 31 december van het tweede kalenderjaar dat volgt op het kalenderjaar waarin alle deelprojecten volledig zijn uitgevoerd en volledig is voldaan aan de aan de subsidie verbonden verplichtingen, ambtshalve vast.
+1. De minister stelt de subsidie uiterlijk op 31 december van het tweede kalenderjaar dat volgt op het kalenderjaar waarin alle deelprojecten volledig zijn uitgevoerd en volledig is voldaan aan de aan de subsidie verbonden verplichtingen, ambtshalve vast.
 
-2. Indien een beschikking tot subsidievaststelling niet uiterlijk op 31 december van het jaar, bedoeld in het eerste lid, kan worden gegeven, kan de minister de termijn voor het nemen van het besluit omtrent vaststelling van de subsidie eenmaal met dertien weken verlengen.
+2. Indien een beschikking tot subsidievaststelling niet uiterlijk op 31 december van het jaar, bedoeld in het eerste lid, kan worden gegeven, kan de minister de termijn voor het nemen van het besluit omtrent vaststelling van de subsidie eenmaal met dertien weken verlengen.
 
 3. De beschikking tot het vaststellen van de subsidie vindt plaats op basis van de verantwoordingsinformatie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=13&z=2025-07-25&g=2025-07-25).
 
 ##### Artikel 15. Evaluatie
 
-De minister publiceert uiterlijk op 1 juli 2028 een verslag over de doeltreffendheid en de effecten van deze regeling.
+De minister publiceert uiterlijk op 1 juli 2028 een verslag over de doeltreffendheid en de effecten van deze regeling.
 
 ##### Artikel 16. Inwerkingtreding en vervallen van de regeling
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 april 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 april 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor die datum zijn verstrekt.
 
 ##### Artikel 17. Citeertitel
 
 Deze regeling word aangehaald als: Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer.
-
-## Bijlage. als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048372&artikel=7&z=2025-07-25&g=2025-07-25), van de Subsidieregeling stimulering uitvoering maatregelen Deltaplan Agrarisch Waterbeheer
-
-| Waterschap | Deelbudget |
-| --- | --- |
-| Wetterskip Fryslan | € 1.488.000 |
-| Drents Overijsselse Delta | € 1.488.000 |
-| Hunze en Aa’s | € 1.100.000 |
-| Vechtstromen | € 1.279.000 |
-| Scheldestromen | € 1.182.000 |
-| Hollands Noorderkwartier | € 1.182.000 |
-| Rijn en IJssel | € 1.898.291 |
-| Rivierenland | € 534.256 |
-| Zuiderzeeland | € 1.182.000 |
-| Aa en Maas | € 904.000 |
-| Noorderzijlvest | € 904.000 |
-| Brabantse Delta | € 904.000 |
-| Vallei en Veluwe | € 835.453 |
-| De Dommel | € 904.000 |
-| Hollandse Delta | € 904.000 |
-| De Stichtse Rijnlanden | € 904.000 |
-| Rijnland | € 904.000 |
-| Limburg | € 695.000 |
-| Amstel, Gooi en Vecht | € 695.000 |
-| Schieland en de Krimpenerwaard | € 695.000 |
-| Delfland | € 418.000 |
-| Totaal | € 21.000.0000 |
-
-Deze regeling zal mede toelichtingn de Staatscourant worden geplaatst.

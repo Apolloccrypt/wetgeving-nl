@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 14 juli 2023, nr 4718153, houdende de instelling van de regeringscommissaris nieuw Wetboek van Strafvordering (Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering)"
+citeertitel: "Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering"
 identifier: "BWBR0048418"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-19"
-last_updated: "2023-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048418"
+categorie: "Strafrecht"
 soort: "ministeriele-regeling"
-stam_id: "16808023"
-version_id: "29528742"
-internal_id: "C42214861"
-label_id: "16721664"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048418/2023-07-19/0"
-intitule_bron: "Stcrt.2023-20178"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-14"
-intitule_published: "2023-07-18"
-intitule_in_force: "2023-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-20178"
-original_signed_date: "2023-07-14"
-original_published_date: "2023-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-20178"
-entry_into_force_date: "2023-07-19"
-jci_1_3: "jci1.3:c:BWBR0048418&z=2023-07-19&g=2023-07-19"
-jci_1_0: "1.0:c:BWBR0048418&g=2023-07-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering"
-signed_date: "2023-07-14"
-entry_into_force: "2023-07-19"
+publicatiedatum: 2023-07-19
+laatste_update: 2023-07-19
+status: geldig
+toestand: 2023-07-19
+bron: "https://wetten.overheid.nl/BWBR0048418"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 14 juli 2023, nr 4718153, houdende de instelling van de regeringscommissaris nieuw Wetboek van Strafvordering (Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **ministers:** de Minister voor Rechtsbescherming en de Minister van Justitie en Veiligheid;
+- – *ministers:* de Minister voor Rechtsbescherming en de Minister van Justitie en Veiligheid;
 
-- –. **nieuw Wetboek van Strafvordering:** de verschillende wetsvoorstellen binnen het wetgevingsproject nieuw Wetboek van Strafvordering;
+- – *nieuw Wetboek van Strafvordering:* de verschillende wetsvoorstellen binnen het wetgevingsproject nieuw Wetboek van Strafvordering;
 
-- –. **regeringscommissaris:** de regeringscommissaris nieuw Wetboek van Strafvordering.
+- – *regeringscommissaris:* de regeringscommissaris nieuw Wetboek van Strafvordering.
 
 ##### Artikel 2
 
@@ -80,12 +54,10 @@ De regeringscommissaris heeft de volgende taken:
 
 ##### Artikel 6
 
-1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 april 2023.
+1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 april 2023.
 
 2. Dit besluit vervalt op een door de Minister voor Rechtsbescherming te bepalen tijdstip.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit regeringscommissaris nieuw Wetboek van Strafvordering.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

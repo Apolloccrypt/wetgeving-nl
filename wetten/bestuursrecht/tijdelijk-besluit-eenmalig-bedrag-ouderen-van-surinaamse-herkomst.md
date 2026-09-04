@@ -1,58 +1,26 @@
 ---
 title: "Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst)"
+citeertitel: "Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst"
 identifier: "BWBR0048840"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-06-01"
-last_updated: "2024-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048840"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16905123"
-version_id: "29709882"
-internal_id: "C42568681"
-label_id: "16816834"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048840/2024-06-01/0"
-intitule_bron: "Stb.2023-386"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-06"
-intitule_published: "2023-11-03"
-intitule_in_force: "2023-11-03"
-intitule_status: "goed"
-original_publication: "Stb.2023-386"
-original_signed_date: "2023-10-06"
-original_published_date: "2023-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-386"
-entry_into_force_date: "2024-06-01"
-jci_1_3: "jci1.3:c:BWBR0048840&z=2024-06-01&g=2024-06-01"
-jci_1_0: "1.0:c:BWBR0048840&g=2024-06-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst"
-signed_date: "2023-10-06"
-entry_into_force: "2024-06-01"
+publicatiedatum: 2024-06-01
+laatste_update: 2024-06-01
+status: geldig
+toestand: 2024-06-01
+bron: "https://wetten.overheid.nl/BWBR0048840"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 6 oktober 2023, houdende de toekenning van een eenmalig bedrag aan ouderen van Surinaamse herkomst (Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst)
-
-Op de voordracht van Onze Minister voor Armoedebeleid, Participatie en Pensioenen van 7 juli 2023, nr. 2023-0000513605,
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3) en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9) en [artikel 54, elfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 september 2023 nr. W12.23.00174/III);
-
-Gezien het nader rapport van Onze Minister voor Armoedebeleid, Participatie en Pensioenen van 4 oktober 2023, nr. 2023-0000526908,
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **SVB:** Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- *SVB:* Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- **Toescheidingsovereenkomst:** de op 25 november 1975 te Paramaribo ondertekende Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname.
+- *Toescheidingsovereenkomst:* de op 25 november 1975 te Paramaribo ondertekende Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname.
 
 ##### Artikel 2. Doel van het besluit
 
@@ -62,17 +30,17 @@ Met dit besluit wordt als gebaar van erkenning een eenmalig bedrag toegekend aan
 
 Een persoon heeft recht op een eenmalig bedrag, indien deze:
 
-- a. uiterlijk op 25 november 1975 in Nederland is gaan wonen, met het oog op de inwerkingtreding van de Toescheidingsovereenkomst;
+- a. uiterlijk op 25 november 1975 in Nederland is gaan wonen, met het oog op de inwerkingtreding van de Toescheidingsovereenkomst;
 
 - b. voorafgaand aan het tijdstip waarop deze persoon in Nederland ging wonen in Suriname woonde;
 
 - c. ten minste de leeftijd van 18 jaar had bereikt op het tijdstip, waarop deze persoon in Nederland ging wonen; en
 
-- d. op 1 juli 2024 ten minste 20 jaar in Nederland heeft gewoond.
+- d. op 1 juli 2024 ten minste 20 jaar in Nederland heeft gewoond.
 
 ##### Artikel 4. De hoogte van het eenmalige bedrag
 
-Het bedrag waarop de persoon, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048840&artikel=3&z=2024-06-01&g=2024-06-01), recht heeft bedraagt € 5.000.
+Het bedrag waarop de persoon, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048840&artikel=3&z=2024-06-01&g=2024-06-01), recht heeft bedraagt € 5.000.
 
 ##### Artikel 5. De toekenning van het recht
 
@@ -82,13 +50,13 @@ Het recht op het eenmalige bedrag wordt ambtshalve of op aanvraag toegekend.
 
 1. Onze Minister stelt de persoon ten aanzien waarvan het voornemen bestaat om het recht op het eenmalige bedrag ambtshalve toe te kennen, gedurende een door Onze Minister gestelde termijn in de gelegenheid om te kennen te geven niet in aanmerking te willen komen voor de ambtshalve toekenning van het eenmalige bedrag.
 
-2. Het recht op het eenmalige bedrag wordt vanaf 1 juli 2024 ambtshalve toegekend, nadat de termijn, bedoeld in het eerste lid, is verstreken.
+2. Het recht op het eenmalige bedrag wordt vanaf 1 juli 2024 ambtshalve toegekend, nadat de termijn, bedoeld in het eerste lid, is verstreken.
 
 3. Onze Minister kent het recht op het eenmalige bedrag niet ambtshalve toe ten aanzien van de persoon die te kennen heeft gegeven niet in aanmerking te willen komen voor het eenmalige bedrag.
 
 ##### Artikel 7. Toekenning op aanvraag
 
-1. Een aanvraag kan in de periode van 1 juli 2024 tot en met 30 juni 2026 bij de SVB worden ingediend, door middel van een door de SVB verstrekt aanvraagformulier.
+1. Een aanvraag kan in de periode van 1 juli 2024 tot en met 30 juni 2026 bij de SVB worden ingediend, door middel van een door de SVB verstrekt aanvraagformulier.
 
 2. Onze Minister beslist binnen twaalf weken na ontvangst van de volledige aanvraag over de toekenning van het eenmalige bedrag.
 
@@ -156,18 +124,16 @@ Onze Minister kan de voorzitter van de raad van bestuur van de SVB mandaat verle
 
 5. De SVB brengt aan Onze Minister inhoudelijk en financieel verslag uit over de uitvoering van dit besluit overeenkomstig [artikel 49, eerste en derde tot en met vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) en de krachtens die bepaling geldende regels.
 
-6. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent Onze Minister de baten en lasten, alsmede de ontvangen voorschotten met betrekking tot het betreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
+6. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent Onze Minister de baten en lasten, alsmede de ontvangen voorschotten met betrekking tot het betreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
 ##### Artikel 15. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van 1 juni 2024.
+1. Dit besluit treedt in werking met ingang van 1 juni 2024.
 
-2. Dit besluit vervalt met ingang van 1 januari 2027.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 3. In afwijking van het tweede lid blijft dit besluit, zoals het luidde op de dag voorafgaand aan de datum met ingang waarvan dit besluit vervalt, van toepassing op de afwikkeling van het eenmalige bedrag op grond van dit besluit.
 
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit eenmalig bedrag ouderen van Surinaamse herkomst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,60 +1,31 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41104475, houdende de verlening van mandaat, volmacht en machtiging aan het Limburgs Instituut voor Ontwikkeling en Financiering N.V. (LIOF) voor de uitvoering van de R&D-Regeling technologiedomeinen Einstein Telescope (Mandaatbesluit R&D-regeling technologiedomeinen Einstein Telescope)"
+citeertitel: "Mandaatbesluit R&D-regeling technologiedomeinen Einstein Telescope"
 identifier: "BWBR0048765"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-24"
-last_updated: "2023-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048765"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16886983"
-version_id: "29680362"
-internal_id: "C42491561"
-label_id: "16798974"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048765/2023-10-24/0"
-intitule_bron: "Stcrt.2023-28783"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-10"
-intitule_published: "2023-10-23"
-intitule_in_force: "2023-10-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-28783"
-original_signed_date: "2023-10-10"
-original_published_date: "2023-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-28783"
-entry_into_force_date: "2023-10-24"
-jci_1_3: "jci1.3:c:BWBR0048765&z=2023-10-24&g=2023-10-24"
-jci_1_0: "1.0:c:BWBR0048765&g=2023-10-24"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit R&D-regeling technologiedomeinen Einstein Telescope"
-signed_date: "2023-10-10"
-entry_into_force: "2023-10-24"
+publicatiedatum: 2023-10-24
+laatste_update: 2023-10-24
+status: geldig
+toestand: 2023-10-24
+bron: "https://wetten.overheid.nl/BWBR0048765"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41104475, houdende de verlening van mandaat, volmacht en machtiging aan het Limburgs Instituut voor Ontwikkeling en Financiering N.V. (LIOF) voor de uitvoering van de R&D-Regeling technologiedomeinen Einstein Telescope (Mandaatbesluit R&D-regeling technologiedomeinen Einstein Telescope)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Gezien de Uitvoeringsovereenkomst aan het Limburgs Instituut voor Ontwikkeling en Financiering N.V, kenmerk 41104475, en de instemming van LIOF met de verlening van het mandaat, de volmacht en de machtiging;
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de R&D-regeling technologiedomeinen Einstein Telescope in werking treedt.
 
 ##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
-- **algemeen directeur:** algemeen directeur van het Limburgs Instituut voor Ontwikkeling en Financiering N.V.;
+- *algemeen directeur:* algemeen directeur van het Limburgs Instituut voor Ontwikkeling en Financiering N.V.;
 
-- **begeleidingsgroep** begeleidingsgroep R&D-regeling technologiedomeinen Einstein Telescope;
+- *begeleidingsgroep* begeleidingsgroep R&D-regeling technologiedomeinen Einstein Telescope;
 
-- **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **R&D-regeling:** [R&D-regeling technologiedomeinen Einstein Telescope](https://wetten.overheid.nl/jci1.3:c:BWBR0048766).
+- *R&D-regeling:*
+ [R&D-regeling technologiedomeinen Einstein Telescope](https://wetten.overheid.nl/jci1.3:c:BWBR0048766).
 
 ##### Artikel 2. Mandaatverlening en voorwaarden
 
@@ -113,5 +84,3 @@ Dit besluit wordt aangehaald als: Mandaatbesluit R&D-regeling technologiedomeine
 ##### Artikel 6. Inwerkingtreding en vervaldatum
 
 Dit besluit treedt in werking op het tijdstip waarop de [R&D-regeling technologiedomeinen Einstein Telescope](https://wetten.overheid.nl/jci1.3:c:BWBR0048766) in werking treedt en vervalt op het moment dat de R&D-regeling technologiedomeinen Einstein Telescope vervalt.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

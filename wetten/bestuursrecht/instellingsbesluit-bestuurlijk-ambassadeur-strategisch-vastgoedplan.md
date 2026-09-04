@@ -1,44 +1,18 @@
 ---
 title: "Instelling van een bestuurlijk ambassadeur uitwerking Strategisch Vastgoedplan bij het Ministerie van Defensie (Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan)"
+citeertitel: "Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan"
 identifier: "BWBR0048097"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-25"
-last_updated: "2023-04-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048097"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16731253"
-version_id: "29353332"
-internal_id: "C41883031"
-label_id: "16647814"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048097/2023-04-25/0"
-intitule_bron: "Stcrt.2023-11810"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-04"
-intitule_published: "2023-04-24"
-intitule_in_force: "2023-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-11810"
-original_signed_date: "2023-04-04"
-original_published_date: "2023-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-11810"
-entry_into_force_date: "2023-04-25"
-jci_1_3: "jci1.3:c:BWBR0048097&z=2023-04-25&g=2023-04-25"
-jci_1_0: "1.0:c:BWBR0048097&g=2023-04-25"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan"
-signed_date: "2023-04-04"
-entry_into_force: "2023-04-25"
+publicatiedatum: 2023-04-25
+laatste_update: 2023-04-25
+status: geldig
+toestand: 2023-04-25
+bron: "https://wetten.overheid.nl/BWBR0048097"
+opgehaald: 2026-09-04
 ---
+
 # Instelling van een bestuurlijk ambassadeur uitwerking Strategisch Vastgoedplan bij het Ministerie van Defensie (Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan)
-
-Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Instelling
 
@@ -90,12 +64,10 @@ De bestuurlijk ambassadeur draagt zo spoedig mogelijk na beëindiging van zijn w
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst (en werkt terug tot en met 1 maart 2023).
+1. Dit besluit treedt in werking met ingang van de ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst (en werkt terug tot en met 1 maart 2023).
 
 2. Dit besluit vervalt na voltooiing van de taken genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048097&artikel=1&z=2023-04-25&g=2023-04-25), van dit besluit.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit bestuurlijk ambassadeur Strategisch Vastgoedplan.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

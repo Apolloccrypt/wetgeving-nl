@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0048174"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 15 mei 2023, nr. 2023-0000224684, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de regionale structuur van het Nationaal Programma Lokale Warmtetransitie (Regeling specifieke uitkering regionale structuur Nationaal Programma Lokale Warmtetransitie)

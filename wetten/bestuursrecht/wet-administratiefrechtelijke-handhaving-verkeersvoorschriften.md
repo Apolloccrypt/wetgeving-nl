@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0004581"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Wet van 3 juli 1989, houdende administratiefrechtelijke afdoening van inbreuken op bepaalde verkeersvoorschriften

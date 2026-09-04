@@ -1,43 +1,17 @@
 ---
 title: "Mandaatbesluit eigenaarsrol pSG BZK 2023"
 identifier: "BWBR0048599"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-02"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048599"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16850833"
-version_id: "29607662"
-internal_id: "C42351931"
-label_id: "16763024"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048599/2023-09-02/0"
-intitule_bron: "Stcrt.2023-24169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-08-23"
-intitule_published: "2023-09-01"
-intitule_in_force: "2023-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-24169"
-original_signed_date: "2023-08-23"
-original_published_date: "2023-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-24169"
-entry_into_force_date: "2023-09-02"
-jci_1_3: "jci1.3:c:BWBR0048599&z=2023-09-02&g=2023-09-02"
-jci_1_0: "1.0:c:BWBR0048599&g=2023-09-02"
-citeertitel_status: "officieel"
-signed_date: "2023-08-23"
-entry_into_force: "2023-09-02"
+publicatiedatum: 2023-09-02
+laatste_update: 2023-09-02
+status: geldig
+toestand: 2023-09-02
+bron: "https://wetten.overheid.nl/BWBR0048599"
+opgehaald: 2026-09-04
 ---
+
 # Mandaatbesluit eigenaarsrol pSG BZK 2023
-
-Gelet op [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=1.2), [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=3.4), [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=4.1) en [artikel 4.2, aanhef en onder d, van het Mandaatbesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048593&artikel=4.2) en [artikel 5, tweede lid, onder e, van het Organisatiebesluit BZK 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047860&artikel=5);
-
-vast te stellen het navolgende Mandaatbesluit eigenaarsrol pSG BZK 2023:
 
 ##### Artikel 1
 
@@ -55,10 +29,8 @@ De plaatsvervangend secretaris-generaal is bevoegd tot het verlenen van onderman
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 13 juni 2022.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 13 juni 2022.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Mandaatbesluit eigenaarsrol pSG BZK 2023.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,43 +1,17 @@
 ---
 title: "Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen"
 identifier: "BWBR0048519"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-22"
-last_updated: "2026-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048519"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "16829223"
-version_id: "29569642"
-internal_id: "C42270131"
-label_id: "16741954"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048519/2026-01-22/0"
-intitule_bron: "Stcrt.2023-22116"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-08-01"
-intitule_published: "2023-08-09"
-intitule_in_force: "2023-08-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-22116"
-original_signed_date: "2023-08-01"
-original_published_date: "2023-08-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-22116"
-entry_into_force_date: "2023-08-10"
-jci_1_3: "jci1.3:c:BWBR0048519&z=2026-01-22&g=2026-01-22"
-jci_1_0: "1.0:c:BWBR0048519&g=2026-01-22"
-citeertitel_status: "officieel"
-signed_date: "2023-08-01"
-entry_into_force: "2023-08-10"
+publicatiedatum: 2023-08-10
+laatste_update: 2026-01-22
+status: geldig
+toestand: 2026-01-22
+bron: "https://wetten.overheid.nl/BWBR0048519"
+opgehaald: 2026-09-04
 ---
+
 # Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen
-
-gelet op [artikel 33e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b) en [37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van en met het oog op de verlening van rechtsbijstand voor bijzondere doeleinden en projecten en [artikel 13n Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n) waarin als bijzondere doeleinden als hiervoor genoemd rechtsbijstand en het inroepen van advies van een bouwkundige of financiële adviseur in het kader van het verlenen van rechtsbijstand zijn aangewezen,
-
-besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -45,37 +19,41 @@ besluit:
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=10&z=2026-01-22&g=2026-01-22) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. *advocaat:* de advocaat die op basis van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=10&z=2026-01-22&g=2026-01-22) van deze regeling is toegelaten tot deze subsidieregeling;
 
-- b. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **bestuur:** het bestuur van de raad voor rechtsbijstand, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- c. *bestuur:* het bestuur van de raad voor rechtsbijstand, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- d. **Bvr:** [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- d. *Bvr:*
+ [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- e. **deskundige:** deskundige (ook wel ‘adviseur’) zoals bedoeld in [artikel 13n, tweede lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n);
+- e. *deskundige:* deskundige (ook wel ‘adviseur’) zoals bedoeld in [artikel 13n, tweede lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n);
 
-- f. **Instituut:** Het Instituut Mijnbouwschade Groningen, als bedoeld in [artikel 2 van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2);
+- f. *Instituut:* Het Instituut Mijnbouwschade Groningen, als bedoeld in [artikel 2 van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2);
 
-- g. **mediation:** mediation zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in een geschil waarvoor rechtsbijstand kan worden vergoed op grond van deze regeling;
+- g. *mediation:* mediation zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in een geschil waarvoor rechtsbijstand kan worden vergoed op grond van deze regeling;
 
-- h. **mediator:** de mediator als bedoeld in [artikel 33a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die op basis van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=11&z=2026-01-22&g=2026-01-22) van deze regeling is toegelaten tot deze subsidieregeling;
+- h. *mediator:* de mediator als bedoeld in [artikel 33a Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die op basis van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=V&artikel=11&z=2026-01-22&g=2026-01-22) van deze regeling is toegelaten tot deze subsidieregeling;
 
-- i. **regeling:** Subsidieregeling rechtsbijstand en aanverwante kosten TwG;
+- i. *regeling:* Subsidieregeling rechtsbijstand en aanverwante kosten TwG;
 
-- j. **rechtsbijstand:** rechtsbijstand zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in de situaties genoemd in [artikel 13n, eerste lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n);
+- j. *rechtsbijstand:* rechtsbijstand zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in de situaties genoemd in [artikel 13n, eerste lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13n);
 
-- k. **rechtzoekende:** een eigenaar van een gebouw als bedoeld in [artikel 1b, hoofdstuk 1 algemene bepalingen van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1b) – met uitzondering van de woningcorporatie – die aanspraak maakt op rechtsbijstand, mediation of advies van een deskundige, op grond van deze regeling;
+- k. *rechtzoekende:* een eigenaar van een gebouw als bedoeld in [artikel 1b, hoofdstuk 1 algemene bepalingen van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1b) – met uitzondering van de woningcorporatie – die aanspraak maakt op rechtsbijstand, mediation of advies van een deskundige, op grond van deze regeling;
 
-- l. **schade:** schade waarvan redelijkerwijs kan worden aangenomen dat die is veroorzaakt door beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg of de gasopslag bij Grijpskerk;
+- l. *schade:* schade waarvan redelijkerwijs kan worden aangenomen dat die is veroorzaakt door beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg of de gasopslag bij Grijpskerk;
 
-- m. **TwG:** [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252);
+- m. *TwG:*
+ [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252);
 
-- n. **toevoeging:** de toevoeging als bedoeld in de wet ten behoeve van mediation of rechtsbijstand zoals bedoeld onder ‘e’ respectievelijk onder ‘h’ van dit artikel;
+- n. *toevoeging:* de toevoeging als bedoeld in de wet ten behoeve van mediation of rechtsbijstand zoals bedoeld onder ‘e’ respectievelijk onder ‘h’ van dit artikel;
 
-- o. **vergoeding:** de op grond van deze regeling vast te stellen subsidie;
+- o. *vergoeding:* de op grond van deze regeling vast te stellen subsidie;
 
-- p. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
+- p. *Wrb:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
 ##### Artikel 2. Doel
 
@@ -179,7 +157,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 1. De advocaat en de mediator kunnen namens de rechtzoekende het advies van een deskundige, die is beoordeeld op de daarvoor van toepassing zijnde kwaliteitsvereisten door het Instituut of de Minister van Binnenlandse Zaken en Koninkrijksrelaties (lees: NCG), inroepen.
 
-2. De advocaat of mediator kan om vergoeding verzoeken met het formulier ‘Aanvraag vergoeding deskundigen’. Bij het verzoek stuurt de advocaat of mediator de factuur van de deskundige mee. De maximumvergoeding per advies bedraagt € 3.316,- inclusief btw. Indien vergoeding van een derde of verder advies wordt verzocht, wordt dit in het verzoek gemotiveerd. Het bestuur vergoedt de factuur aan de advocaat of mediator als aan de voorwaarden van deze regeling is voldaan.
+2. De advocaat of mediator kan om vergoeding verzoeken met het formulier ‘Aanvraag vergoeding deskundigen’. Bij het verzoek stuurt de advocaat of mediator de factuur van de deskundige mee. De maximumvergoeding per advies bedraagt € 3.316,- inclusief btw. Indien vergoeding van een derde of verder advies wordt verzocht, wordt dit in het verzoek gemotiveerd. Het bestuur vergoedt de factuur aan de advocaat of mediator als aan de voorwaarden van deze regeling is voldaan.
 
 ### Hoofdstuk V. Voorwaarden
 
@@ -187,15 +165,15 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 1. De regeling is van toepassing op advocaten die zaken doen:
 
-- a. onder [artikel 4, eerste tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22) en die voldoen aan de in de bijlage onder I en II genoemde deelnamecriteria; of
+- a. onder [artikel 4, eerste tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22) en die voldoen aan de in de [bijlage](https://wetten.overheid.nl/BWBR0048519) onder I en II genoemde deelnamecriteria; of
 
-- b. onder [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22) en die voldoen aan de in de bijlage onder III genoemde deelnamecriteria.
+- b. onder [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048519&hoofdstuk=II&artikel=4&z=2026-01-22&g=2026-01-22) en die voldoen aan de in de [bijlage](https://wetten.overheid.nl/BWBR0048519) onder III genoemde deelnamecriteria.
 
 2. Advocaten kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
 ##### Artikel 11. Voorwaarden tot deelname voor mediators
 
-1. De regeling is van toepassing op mediators die voldoen aan de in de bijlage onder II genoemde deelnamecriteria.
+1. De regeling is van toepassing op mediators die voldoen aan de in de [bijlage](https://wetten.overheid.nl/BWBR0048519) onder II genoemde deelnamecriteria.
 
 2. Mediators kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
@@ -207,7 +185,7 @@ Voor gemaakte kosten vanwege deelname aan deze regeling wordt een vergoeding van
 
 3. De aanvraag tot deelname aan de regeling geldt tevens als de aanvraag om subsidieverlening en -vaststelling voor de opleidingskosten. Bij zijn aanvraag voegt de advocaat het certificaat en de factuur van de cursus.
 
-4. Het bestuur vergoedt de kosten van de cursus als genoemd in lid 1 tot een maximum van € 2.300,– incl. btw per advocaat.
+4. Het bestuur vergoedt de kosten van de cursus als genoemd in lid 1 tot een maximum van € 2.300,– incl. btw per advocaat.
 
 ### Hoofdstuk VI. Aanvraag rechtsbijstand
 
@@ -253,18 +231,4 @@ Deze regeling wordt aangehaald als: Subsidieregeling rechtsbijstand en aanverwan
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 juli 2023. Indien publicatie van de regeling in de Staatscourant na die datum ligt, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juli 2023.
-
-## Bijlage. Deelname- en matchingscriteria voor advocaten en mediators
-
-### I. Deelnamecriteria advocaten bestuursrecht
-
-Voor deelname aan deze regeling gelden voor advocaten de volgende cumulatieve voorwaarden:
-
-### II. Deelnamecriteria advocaten bouwrecht
-
-Voor deelname aan deze regeling gelden voor advocaten de volgende cumulatieve voorwaarden:
-
-### III. Deelnamecriteria mediators
-
-Voor deelname aan deze regeling gelden voor mediators de volgende cumulatieve voorwaarden:
+Deze regeling treedt in werking op 1 juli 2023. Indien publicatie van de regeling in de Staatscourant na die datum ligt, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juli 2023.

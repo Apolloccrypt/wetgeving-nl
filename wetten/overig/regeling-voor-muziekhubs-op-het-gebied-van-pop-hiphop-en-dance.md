@@ -1,43 +1,17 @@
 ---
 title: "Regeling voor muziekhubs op het gebied van pop, hiphop en dance"
 identifier: "BWBR0048389"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-03-17"
-last_updated: "2026-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048389"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16800563"
-version_id: "31471212"
-internal_id: "C44949531"
-label_id: "16715624"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048389/2026-03-17/0"
-intitule_bron: "Stcrt.2023-19508"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-26"
-intitule_published: "2023-07-12"
-intitule_in_force: "2023-07-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-10776"
-original_signed_date: "2026-03-05"
-original_published_date: "2026-03-16"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2026-10776"
-entry_into_force_date: "2026-03-17"
-jci_1_3: "jci1.3:c:BWBR0048389&z=2026-03-17&g=2026-03-17"
-jci_1_0: "1.0:c:BWBR0048389&g=2026-03-17"
-citeertitel_status: "officieel"
-signed_date: "2026-03-05"
-entry_into_force: "2026-03-17"
+publicatiedatum: 2026-03-17
+laatste_update: 2026-03-17
+status: geldig
+toestand: 2026-03-17
+bron: "https://wetten.overheid.nl/BWBR0048389"
+opgehaald: 2026-09-04
 ---
+
 # Regeling voor muziekhubs op het gebied van pop, hiphop en dance
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,13 +19,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **landsdelen:** Noord (Groningen, Friesland en Drenthe), Oost (Overijssel en Gelderland), Midden (Utrecht en Flevoland), Zuid (Zeeland, Noord-Brabant en Limburg) en West (Noord-Holland en Zuid-Holland);
+- *landsdelen:* Noord (Groningen, Friesland en Drenthe), Oost (Overijssel en Gelderland), Midden (Utrecht en Flevoland), Zuid (Zeeland, Noord-Brabant en Limburg) en West (Noord-Holland en Zuid-Holland);
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **Caribisch deel van het Koninkrijk der Nederlanden:** Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
+- *Caribisch deel van het Koninkrijk der Nederlanden:* Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
 ##### Artikel 1.2. Doel
 
@@ -161,6 +135,10 @@ De aanvraag wordt ingediend door een van de samenwerkingspartners van het samenw
 
 Het bestuur informeert de aanvrager binnen 13 weken na de uiterlijke indiendatum schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
 
+##### Artikel 2.6. Afwijking
+
+De bepalingen in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=2&z=2026-03-17&g=2026-03-17) van deze regeling hebben geen betrekking op subsidies die verstrekt worden uit het budget van [artikel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.4&z=2026-03-17&g=2026-03-17) van deze regeling.
+
 #### Paragraaf 3. Waarvoor
 
 ##### Artikel 3.1. Waarvoor kan worden aangevraagd
@@ -171,25 +149,25 @@ Een aanvraag kan worden gedaan voor een samenwerkingsverband voor talentontwikke
 
 1. Een aanvraag komt in aanmerking voor een bijdrage:
 
-- a). als het samenwerkingsverband minimaal een partner bevat uit iedere provincie van het landsdeel, waarbinnen wordt aangevraagd;
+- a) als het samenwerkingsverband minimaal een partner bevat uit iedere provincie van het landsdeel, waarbinnen wordt aangevraagd;
 
-- b). als tenminste een van de partners een presentatiefunctie heeft;
+- b) als tenminste een van de partners een presentatiefunctie heeft;
 
-- c). als de activiteiten zich richten op talentontwikkeling in de popmuziek, hiphop en dance;
+- c) als de activiteiten zich richten op talentontwikkeling in de popmuziek, hiphop en dance;
 
-- d). als de partners een meerjarige samenwerking overeen zijn gekomen.
+- d) als de partners een meerjarige samenwerking overeen zijn gekomen.
 
 ##### Artikel 3.3. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
-- a). de kwaliteit van de beoogde samenwerking;
+- a) de kwaliteit van de beoogde samenwerking;
 
-- b). de ontwikkelmogelijkheden van de talenten;
+- b) de ontwikkelmogelijkheden van de talenten;
 
-- c). duurzaamheid van de samenwerking;
+- c) duurzaamheid van de samenwerking;
 
-- d). begroting en (co)financiering.
+- d) begroting en (co)financiering.
 
 ##### Artikel 3.4. Subsidiehoogte
 
@@ -199,7 +177,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria:
 
 3. Het bestuur kan ten nadele van de subsidieontvanger afwijken van het bepaalde in het eerste lid indien een strikte toepassing hiervan zou leiden tot een kennelijk onredelijk resultaat.
 
-#### Paragraaf 4. Verplichtingen en verantwoording
+##### Artikel 3.5. Afwijking
+
+De bepalingen in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=3&z=2026-03-17&g=2026-03-17) van deze regeling hebben geen betrekking op subsidies die verstrekt worden uit het budget van [artikel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.4&z=2026-03-17&g=2026-03-17) van deze regeling.
+
+#### Paragraaf 4. Caribisch deel van het Koninkrijk der Nederlanden
 
 ##### Artikel 4.1. Algemeen
 
@@ -213,11 +195,11 @@ Een aanvraag kan worden gedaan om één of meer talenten in het Caribisch deel v
 
 Het bestuur weigert de subsidie:
 
-- a). als een aanvrager niet woonachtig is in het Caribisch deel van het Koninkrijk der Nederlanden en, indien een aanvrager een rechtspersoon is, deze statutair niet gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden;
+- a) als een aanvrager niet woonachtig is in het Caribisch deel van het Koninkrijk der Nederlanden en, indien een aanvrager een rechtspersoon is, deze statutair niet gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden;
 
-- b). als één of meer talenten waarop de aanvraag betrekking heeft, niet beschouwd worden als een professionele podiumkunstenaar;
+- b) als één of meer talenten waarop de aanvraag betrekking heeft, niet beschouwd worden als een professionele podiumkunstenaar;
 
-- c). als een aanvrager in het betreffende kalenderjaar een aanvraag voor deze subsidie heeft ingediend en deze aanvraag gehonoreerd is.
+- c) als een aanvrager in het betreffende kalenderjaar een aanvraag voor deze subsidie heeft ingediend en deze aanvraag gehonoreerd is.
 
 ##### Artikel 4.4. Subsidieplafond
 
@@ -225,17 +207,57 @@ Het bestuur weigert de subsidie:
 
 2. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond als bedoeld in lid 1 wordt bekendgemaakt door kennisgeving van het besluit in de Staatscourant.
 
-#### Paragraaf 5. Overige bepalingen
+##### Artikel 4.5. Verdeling budget
+
+1. Het bestuur verleent de subsidie op volgorde van ontvangst van de aanvragen die voor subsidie in aanmerking komen, totdat het vastgestelde subsidieplafond voor het desbetreffende kalenderjaar en eiland van het Caribisch deel van het Koninkrijk der Nederlanden is bereikt. Bij een incomplete aanvraag geldt als ontvangstdatum de datum waarop de aanvullende informatie is ontvangen en de aanvraag daarmee compleet is.
+
+2. Als het subsidieplafond dreigt te worden overschreden of wordt overschreden als gevolg van een aantal aanvragen met dezelfde ontvangstdatum, dan worden deze aanvragen gerangschikt op basis van het tijdstip van ontvangst.
+
+3. In de situatie dat voor een of meer eilanden van het Caribisch deel van het Koninkrijk der Nederlanden in een kalenderjaar het subsidieplafond als bedoeld in [artikel 4.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=4&artikel=4.3&z=2026-03-17&g=2026-03-17) niet wordt bereikt, kan het bestuur besluiten om het resterende budget toe te voegen aan de subsidieplafonds van een of meer van de eilanden van het Caribisch deel van het Koninkrijk der Nederlanden voor het daaropvolgende kalenderjaar.
+
+##### Artikel 4.6. Procedure
+
+1. Het bestuur behandelt subsidieaanvragen die digitaal zijn ingediend met behulp van een door het bestuur opgesteld formulier en die een reflectie bevatten op de beoordelingscriteria die genoemd staan bij artikel 4.7 van de regeling. Deze reflectie wordt inhoudelijk beoordeeld.
+
+2. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze paragraaf.
+
+3. Indien de beoordeling van de reflectie van de aanvrager op de beoordelingscriteria van artikel 4.7 van de regeling drie of meer kritiekpunten bevat, wordt de aanvraag afgewezen.
+
+##### Artikel 4.7. Beoordelingscriteria
+
+Een aanvraag komt in aanmerking voor een subsidie wanneer er naar het oordeel van het bestuur sprake is van dat:
+
+- a) de aanvrager een bewezen staat van dienst heeft op het gebied van talentontwikkeling binnen de popmuziek, hiphopmuziek en dancemuziek in de breedste zin van het woord;
+
+- b) aan één of meer talenten de ruimte wordt geboden voor ontwikkeling en presentatie in de muzikale infrastructuur op de eilanden; en
+
+- c) de aanvrager een realistische en marktconforme begroting heeft opgesteld.
+
+##### Artikel 4.8. Subsidiehoogte
+
+1. Een subsidie bedraagt nooit meer dan 40.000 euro indien de aanvrager een rechtspersoon is en 20.000 euro indien de aanvrager een natuurlijk persoon is.
+
+2. Van het toegekende subsidiebedrag mag maximaal een percentage van 25% worden besteed aan organisatie- en overheadkosten.
+
+##### Artikel 4.9. Subsidieperiode
+
+Het bestuur verstrekt subsidie voor de in de aanvraag beschreven activiteiten die worden uitgevoerd over een periode van minimaal 12 maanden, maar zijn afgerond binnen 24 maanden gerekend van de dag na die waarop het besluit tot subsidieverlening op de voorgeschreven wijze is bekendgemaakt.
+
+##### Artikel 4.10. Besluit
+
+Het bestuur informeert de aanvrager binnen 13 weken na de datum waarop de complete aanvraag is ontvangen schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
+
+#### Paragraaf 5. Verplichtingen en verantwoording
 
 ##### Artikel 5.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt het direct aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan; of
 
-- a). er aanzienlijke inhoudelijke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- a) er aanzienlijke inhoudelijke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 2. De subsidieontvanger plaatst het logo of de naam van Fonds Podiumkunsten op alle publiciteitsuitingen die betrekking hebben op de gesubsidieerde activiteiten. Daarnaast levert de subsidieontvanger minstens twee rechtenvrije foto’s aan die Fonds Podiumkunsten met naamsvermelding mag gebruiken in zijn communicatie-uitingen.
 
@@ -259,62 +281,6 @@ Het bestuur weigert de subsidie:
 
 2. Als de activiteiten volgens plan zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen, stelt het bestuur de subsidie binnen 22 weken overeenkomstig de verlening vast.
 
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-##### Artikel 2.6. Afwijking
-
-De bepalingen in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=2&z=2026-03-17&g=2026-03-17) van deze regeling hebben geen betrekking op subsidies die verstrekt worden uit het budget van [artikel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.4&z=2026-03-17&g=2026-03-17) van deze regeling.
-
-#### Paragraaf 3. Waarvoor
-
-##### Artikel 3.5. Afwijking
-
-De bepalingen in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=3&z=2026-03-17&g=2026-03-17) van deze regeling hebben geen betrekking op subsidies die verstrekt worden uit het budget van [artikel 1.4, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=1&artikel=1.4&z=2026-03-17&g=2026-03-17) van deze regeling.
-
-#### Paragraaf 4. Caribisch deel van het Koninkrijk der Nederlanden
-
-##### Artikel 4.5. Verdeling budget
-
-1. Het bestuur verleent de subsidie op volgorde van ontvangst van de aanvragen die voor subsidie in aanmerking komen, totdat het vastgestelde subsidieplafond voor het desbetreffende kalenderjaar en eiland van het Caribisch deel van het Koninkrijk der Nederlanden is bereikt. Bij een incomplete aanvraag geldt als ontvangstdatum de datum waarop de aanvullende informatie is ontvangen en de aanvraag daarmee compleet is.
-
-2. Als het subsidieplafond dreigt te worden overschreden of wordt overschreden als gevolg van een aantal aanvragen met dezelfde ontvangstdatum, dan worden deze aanvragen gerangschikt op basis van het tijdstip van ontvangst.
-
-3. In de situatie dat voor een of meer eilanden van het Caribisch deel van het Koninkrijk der Nederlanden in een kalenderjaar het subsidieplafond als bedoeld in [artikel 4.3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048389&paragraaf=4&artikel=4.3&z=2026-03-17&g=2026-03-17) niet wordt bereikt, kan het bestuur besluiten om het resterende budget toe te voegen aan de subsidieplafonds van een of meer van de eilanden van het Caribisch deel van het Koninkrijk der Nederlanden voor het daaropvolgende kalenderjaar.
-
-##### Artikel 4.6. Procedure
-
-1. Het bestuur behandelt subsidieaanvragen die digitaal zijn ingediend met behulp van een door het bestuur opgesteld formulier en die een reflectie bevatten op de beoordelingscriteria die genoemd staan bij artikel 4.7 van de regeling. Deze reflectie wordt inhoudelijk beoordeeld.
-
-2. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze paragraaf.
-
-3. Indien de beoordeling van de reflectie van de aanvrager op de beoordelingscriteria van artikel 4.7 van de regeling drie of meer kritiekpunten bevat, wordt de aanvraag afgewezen.
-
-##### Artikel 4.7. Beoordelingscriteria
-
-Een aanvraag komt in aanmerking voor een subsidie wanneer er naar het oordeel van het bestuur sprake is van dat:
-
-- a). de aanvrager een bewezen staat van dienst heeft op het gebied van talentontwikkeling binnen de popmuziek, hiphopmuziek en dancemuziek in de breedste zin van het woord;
-
-- b). aan één of meer talenten de ruimte wordt geboden voor ontwikkeling en presentatie in de muzikale infrastructuur op de eilanden; en
-
-- c). de aanvrager een realistische en marktconforme begroting heeft opgesteld.
-
-##### Artikel 4.8. Subsidiehoogte
-
-1. Een subsidie bedraagt nooit meer dan 40.000 euro indien de aanvrager een rechtspersoon is en 20.000 euro indien de aanvrager een natuurlijk persoon is.
-
-2. Van het toegekende subsidiebedrag mag maximaal een percentage van 25% worden besteed aan organisatie- en overheadkosten.
-
-##### Artikel 4.9. Subsidieperiode
-
-Het bestuur verstrekt subsidie voor de in de aanvraag beschreven activiteiten die worden uitgevoerd over een periode van minimaal 12 maanden, maar zijn afgerond binnen 24 maanden gerekend van de dag na die waarop het besluit tot subsidieverlening op de voorgeschreven wijze is bekendgemaakt.
-
-##### Artikel 4.10. Besluit
-
-Het bestuur informeert de aanvrager binnen 13 weken na de datum waarop de complete aanvraag is ontvangen schriftelijk over zijn besluit. Als voor de motivering van het besluit wordt verwezen naar een over de aanvraag uitgebracht advies wordt de tekst van het advies aan de aanvrager toegezonden.
-
-#### Paragraaf 5. Verplichtingen en verantwoording
-
 ##### Artikel 5.4. Intrekking of wijziging subsidie
 
 1. Als op enig moment blijkt dat niet is voldaan aan enige voorwaarde van deze regeling of enige aan de subsidie verbonden verplichting, kan het bestuur de subsidie intrekken, ten nadele van de subsidieontvanger wijzigen of lager vaststellen.
@@ -334,5 +300,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voor muziekhubs op het gebied van pop, hiphop en dance.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

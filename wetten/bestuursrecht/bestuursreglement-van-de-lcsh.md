@@ -1,38 +1,16 @@
 ---
 title: "Bestuursreglement van de Lcsh"
 identifier: "BWBR0048641"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-09-26"
-last_updated: "2023-09-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048641"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16860563"
-version_id: "29630882"
-internal_id: "C42394851"
-label_id: "16772744"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048641/2023-09-26/0"
-intitule_bron: "Stcrt.2023-26168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-04"
-intitule_published: "2023-09-25"
-intitule_in_force: "2023-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-26168"
-original_signed_date: "2023-09-04"
-original_published_date: "2023-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-26168"
-entry_into_force_date: "2023-09-26"
-jci_1_3: "jci1.3:c:BWBR0048641&z=2023-09-26&g=2023-09-26"
-jci_1_0: "1.0:c:BWBR0048641&g=2023-09-26"
-citeertitel_status: "officieel"
-signed_date: "2023-09-04"
-entry_into_force: "2023-09-26"
+publicatiedatum: 2023-09-26
+laatste_update: 2023-09-26
+status: geldig
+toestand: 2023-09-26
+bron: "https://wetten.overheid.nl/BWBR0048641"
+opgehaald: 2026-09-04
 ---
+
 # Bestuursreglement van de Lcsh
 
 De Landelijke commissie sociale hygiëne, gelet op [artikel 11b, derde lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11b), besluit het volgende bestuursreglement vast te stellen:
@@ -41,21 +19,21 @@ De Landelijke commissie sociale hygiëne, gelet op [artikel 11b, derde lid, van 
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **de Alcoholwet:** de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
+- a. *de Alcoholwet:* de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
 
-- b. **de Lcsh:** de Landelijke Commissie Sociale Hygiëne zoals genoemd in de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), afgekort met de Commissie;
+- b. *de Lcsh:* de Landelijke Commissie Sociale Hygiëne zoals genoemd in de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), afgekort met de Commissie;
 
-- c. **de Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- c. *de Minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- d. **het ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- d. *het ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- e. **voorzitter:** de voorzitter van de Commissie;
+- e. *voorzitter:* de voorzitter van de Commissie;
 
-- f. **lid / leden:** lid / leden van de Commissie waaronder de voorzitter;
+- f. *lid / leden:* lid / leden van de Commissie waaronder de voorzitter;
 
-- g. **de secretaris:** ambtelijk secretaris van de Commissie;
+- g. *de secretaris:* ambtelijk secretaris van de Commissie;
 
-- h. **sociale hygiëne:** zoals gedefinieerd in het [Alcoholbesluit art. 4.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&artikel=4.1a)[bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II).
+- h. *sociale hygiëne:* zoals gedefinieerd in het [Alcoholbesluit art. 4.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&artikel=4.1a)[bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II).
 
 ##### Artikel 2. Juridische grondslag
 
@@ -93,9 +71,9 @@ In dit bestuursreglement wordt verstaan onder:
 
 - b. Bij de beoordeling van het diploma wordt gekeken naar de kwaliteit van de ingezette examens:
 
-- i. Voor de examens van het middelbaar en hoger beroepsonderwijs gelden de vigerende kwaliteitseisen. Reguliere examencommissies stellen vast dat het ingezet examen aan de gestelde eisen voldoet.
+   - i. Voor de examens van het middelbaar en hoger beroepsonderwijs gelden de vigerende kwaliteitseisen. Reguliere examencommissies stellen vast dat het ingezet examen aan de gestelde eisen voldoet.
 
-- ii. Voor examens die worden ingezet in het cursorisch onderwijs gelden vergelijkbare vigerende kwaliteitseisen zoals gesteld voor het middelbaar en hoger beroepsonderwijs. Voor examens die worden ingezet in het cursorisch onderwijs laat de Commissie door certificerende autoriteiten vaststellen dat een in te zetten examen aan vigerende kwaliteitseisen voldoet.
+   - ii. Voor examens die worden ingezet in het cursorisch onderwijs gelden vergelijkbare vigerende kwaliteitseisen zoals gesteld voor het middelbaar en hoger beroepsonderwijs. Voor examens die worden ingezet in het cursorisch onderwijs laat de Commissie door certificerende autoriteiten vaststellen dat een in te zetten examen aan vigerende kwaliteitseisen voldoet.
 
 - c. Voor wat betreft cursorisch onderwijs definieert de Commissie welke informatie een diploma moet bevatten.
 
@@ -109,7 +87,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. De website van de Commissie bevat een overzicht van erkende diploma’s.
 
-5. Taken die de Commissie uitvoert (of laat uitvoeren) als onderdeel van de erkenning van beroepskwalificaties conform artikel 19 van [Richtlijn 2005/36/EG](32005L0036) (in lijn met [art. 11e, lid 1c van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e)):
+5. Taken die de Commissie uitvoert (of laat uitvoeren) als onderdeel van de erkenning van beroepskwalificaties conform artikel 19 van Richtlijn 2005/36/EG (in lijn met [art. 11e, lid 1c van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=11e)):
 
 - a. Opvragen van benodigde informatie over werkervaring in lijn met gestelde in art. 19 van de Richtlijn;
 
@@ -169,7 +147,7 @@ Als zelfstandig bestuursorgaan valt de Commissie onder de [Kaderwet zbo’s](htt
 
 - 4. De inlichtingenplicht is van toepassing.
 
-- 5. Jaarlijks voor 15 maart wordt een jaarverslag aan de Minister toegezonden waarin verantwoording wordt afgelegd over de uitvoering van de taken en over het beleid in het voorafgaande jaar. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid en het gevoerde beleid met betrekking tot kwaliteitszorg. Voor de derde woensdag in mei wordt het jaarverslag toegezonden aan beide Kamers der Staten-Generaal.
+- 5. Jaarlijks voor 15 maart wordt een jaarverslag aan de Minister toegezonden waarin verantwoording wordt afgelegd over de uitvoering van de taken en over het beleid in het voorafgaande jaar. Het jaarverslag beschrijft de taakuitoefening en het gevoerde beleid en het gevoerde beleid met betrekking tot kwaliteitszorg. Voor de derde woensdag in mei wordt het jaarverslag toegezonden aan beide Kamers der Staten-Generaal.
 
 - 6. De Commissie en het ministerie maken samenwerkingsafspraken.
 

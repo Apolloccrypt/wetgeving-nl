@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 september 2023, houdende regels ter uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15)"
+citeertitel: "Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15"
 identifier: "BWBR0048667"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-09-17"
-last_updated: "2025-09-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048667"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16866993"
-version_id: "29643622"
-internal_id: "C42414681"
-label_id: "16779304"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048667/2025-09-17/0"
-intitule_bron: "Stb.2023-317"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-19"
-intitule_published: "2023-09-29"
-intitule_in_force: "2023-09-29"
-intitule_status: "goed"
-original_publication: "Stb.2023-317"
-original_signed_date: "2023-09-19"
-original_published_date: "2023-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-317"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048667&z=2025-09-17&g=2025-09-17"
-jci_1_0: "1.0:c:BWBR0048667&g=2025-09-17"
-citeertitel_status: "officieel"
-short_title: "Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15"
-signed_date: "2023-09-19"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2025-09-17
+status: geldig
+toestand: 2025-09-17
+bron: "https://wetten.overheid.nl/BWBR0048667"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 19 september 2023, houdende regels ter uitvoering van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15 (Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15)
-
-Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 22 juni 2023, nr. IENW/BSK-2023/168584, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op de [artikelen 4a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=4a), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=6), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=10), en [10a, eerste lid, van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=10a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 19 juli 2023, nr. W17.23.00154/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat van 11 september 2023, nr. IENW/BSK-2023/239436, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,11 +20,12 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **wet:** [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517);
+- *wet:*
+ [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517);
 
-- **KvK-nummer:** het nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9).
+- *KvK-nummer:* het nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9).
 
-- **KvK-vestigingsnummer:** een door een Kamer van Koophandel toegekend uniek nummer aan een vestiging van een onderneming in het handelsregister als bedoeld in [artikel 11, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), of indien sprake is van een rechtspersoon waar geen onderneming aan toebehoort als bedoeld in [artikel 14, eerste lid, aanhef en onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14).
+- *KvK-vestigingsnummer:* een door een Kamer van Koophandel toegekend uniek nummer aan een vestiging van een onderneming in het handelsregister als bedoeld in [artikel 11, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=11), of indien sprake is van een rechtspersoon waar geen onderneming aan toebehoort als bedoeld in [artikel 14, eerste lid, aanhef en onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=14).
 
 ### Hoofdstuk 2. Regels over inzet en kenbaar maken gebruik technisch hulpmiddel en benodigde informatie boordapparatuur
 
@@ -128,10 +97,8 @@ De te verwerken persoonsgegevens voor het toezicht op de naleving, bedoeld in [a
 
 ##### Artikel 9. (inwerkingtreding)
 
-Dit besluit treedt in werking op 1 januari 2024.
+Dit besluit treedt in werking op 1 januari 2024.
 
 ##### Artikel 10. (citeertitel)
 
 Dit besluit wordt aangeduid als: Besluit tijdelijke tolheffing Blankenburgverbinding en ViA15.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

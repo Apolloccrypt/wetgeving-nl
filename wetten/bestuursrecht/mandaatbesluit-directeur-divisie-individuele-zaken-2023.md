@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur Divisie Individuele Zaken van 26 september 2023, nr. 4924760, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de directeur Divisie Individuele Zaken ressorterende ambtenaren (Mandaatbesluit directeur Divisie Individuele Zaken 2023)"
+citeertitel: "Mandaatbesluit directeur Divisie Individuele Zaken 2023"
 identifier: "BWBR0048691"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-07"
-last_updated: "2023-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048691"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16872063"
-version_id: "29652552"
-internal_id: "C42435331"
-label_id: "16784244"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048691/2023-10-07/0"
-intitule_bron: "Stcrt.2023-27209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-26"
-intitule_published: "2023-10-06"
-intitule_in_force: "2023-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-27209"
-original_signed_date: "2023-09-26"
-original_published_date: "2023-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-27209"
-entry_into_force_date: "2023-10-07"
-jci_1_3: "jci1.3:c:BWBR0048691&z=2023-10-07&g=2023-10-07"
-jci_1_0: "1.0:c:BWBR0048691&g=2023-10-07"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit directeur Divisie Individuele Zaken 2023"
-signed_date: "2023-09-26"
-entry_into_force: "2023-10-07"
+publicatiedatum: 2023-10-07
+laatste_update: 2023-10-07
+status: geldig
+toestand: 2023-10-07
+bron: "https://wetten.overheid.nl/BWBR0048691"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de directeur Divisie Individuele Zaken van 26 september 2023, nr. 4924760, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de directeur Divisie Individuele Zaken ressorterende ambtenaren (Mandaatbesluit directeur Divisie Individuele Zaken 2023)
-
-Gelet op [artikel 3, tweede lid, van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -88,12 +62,10 @@ Het [Mandaatbesluit directeur Divisie Individuele Zaken 2019](https://wetten.ove
 
 ##### Artikel 5
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2023.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2023.
 
 2. Ministeriële beslissingen of (privaatrechtelijke rechts)handelingen die vóór het tijdstip van inwerkingtreding van dit besluit zijn genomen of verricht door een functionaris van een dienstonderdeel van de Divisie Individuele Zaken op grond van de tot dat tijdstip geldende mandaatbesluiten, behouden hun rechtskracht.
 
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Mandaatbesluit directeur Divisie Individuele Zaken 2023.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

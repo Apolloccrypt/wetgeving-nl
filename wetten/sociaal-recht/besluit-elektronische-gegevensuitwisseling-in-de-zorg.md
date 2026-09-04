@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 19 april 2023, houdende regels voor de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Besluit elektronische gegevensuitwisseling in de zorg)"
+citeertitel: "Besluit elektronische gegevensuitwisseling in de zorg"
 identifier: "BWBR0048096"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048096"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16731053"
-version_id: "29686442"
-internal_id: "C42516451"
-label_id: "16647644"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048096/2024-07-01/0"
-intitule_bron: "Stb.2023-134"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-19"
-intitule_published: "2023-04-21"
-intitule_in_force: "2023-04-21"
-intitule_status: "goed"
-original_publication: "Stb.2023-369"
-original_signed_date: "2023-10-21"
-original_published_date: "2023-10-25"
-original_effect: "structuurwijziging"
-original_url_id: "stb-2023-369"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048096&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0048096&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit elektronische gegevensuitwisseling in de zorg"
-signed_date: "2023-10-21"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0048096"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 19 april 2023, houdende regels voor de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Besluit elektronische gegevensuitwisseling in de zorg)
-
-Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 december 2022, kenmerk 3479772-1040954-WJZ;
-
-Gelet op de [artikelen 3.3, eerste lid](onbekend), [3.4, eerste lid](onbekend), en [5.1, eerste lid, van de Wet elektronische gegevensuitwisseling in de zorg](onbekend);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 1 februari 2023, no. W13.22.00201/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport, van 18 april 2023, kenmerk 3559512-1040954-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. – Algemeen
 
@@ -52,15 +20,16 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanwijzing:** aanwijzing van een instelling als bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=3.2);
+- *aanwijzing:* aanwijzing van een instelling als bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=3.2);
 
-- **gegevensdienst:** een gestandaardiseerde dienst voor gegevensuitwisseling binnen het gesloten, door Stichting MedMij beheerde netwerk waarin deelnemers met elkaar gegevens kunnen uitwisselen;
+- *gegevensdienst:* een gestandaardiseerde dienst voor gegevensuitwisseling binnen het gesloten, door Stichting MedMij beheerde netwerk waarin deelnemers met elkaar gegevens kunnen uitwisselen;
 
-- **informatiestandaard:** verzameling van afspraken die ervoor zorgt dat informatie over de zorg van een cliënt op de juiste manier wordt vastgelegd, opgevraagd, gedeeld, uitgewisseld en overgedragen;
+- *informatiestandaard:* verzameling van afspraken die ervoor zorgt dat informatie over de zorg van een cliënt op de juiste manier wordt vastgelegd, opgevraagd, gedeeld, uitgewisseld en overgedragen;
 
-- **terhandsteller:** degene die de geneesmiddelen, bedoeld in [artikel 61, eerste lid, onderdelen a en b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) ter hand stelt;
+- *terhandsteller:* degene die de geneesmiddelen, bedoeld in [artikel 61, eerste lid, onderdelen a en b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=61) ter hand stelt;
 
-- **wet:** [Wet elektronische gegevensuitwisseling in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048095).
+- *wet:*
+ [Wet elektronische gegevensuitwisseling in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048095).
 
 ### Hoofdstuk 2. – Certificering en informatie-uitwisseling
 
@@ -84,7 +53,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. in staat is te voldoen aan informatieverplichtingen; en
 
-- h. in staat is te beoordelen of een aanvraag voor een certificaat voldoet aan de eisen die worden gesteld in de norm die op grond van [artikel 1.4, derde lid, onderdeel b, van de wet](onbekend) is of kan worden aangewezen, voor zover het gaat om het deel dat betrekking heeft op informatietechnologieproducten of -diensten.
+- h. in staat is te beoordelen of een aanvraag voor een certificaat voldoet aan de eisen die worden gesteld in de norm die op grond van artikel 1.4, derde lid, onderdeel b, van de wet is of kan worden aangewezen, voor zover het gaat om het deel dat betrekking heeft op informatietechnologieproducten of -diensten.
 
 ##### Artikel 2.2. (inhoud aanwijzing)
 
@@ -104,17 +73,17 @@ Onze Minister kan in ieder geval de aanwijzing schorsen, wijzigen of intrekken:
 
 - a. op grond van feiten of omstandigheden waarvan Onze Minister bij het besluit tot aanwijzing redelijkerwijs niet op de hoogte kon zijn;
 
-- b. als de certificerende instelling niet langer voldoet aan de bij of krachtens de [wet](onbekend) gestelde eisen; of
+- b. als de certificerende instelling niet langer voldoet aan de bij of krachtens de wet gestelde eisen; of
 
-- c. als een certificerende instelling niet langer beschikt over een accreditatie als bedoeld in [artikel 3.2, derde of vierde lid, van de wet](onbekend).
+- c. als een certificerende instelling niet langer beschikt over een accreditatie als bedoeld in artikel 3.2, derde of vierde lid, van de wet.
 
 ##### Artikel 2.4. (aanvragen certificaat)
 
-Een aanbieder van een informatietechnologieproduct of -dienst welke op grond van [artikel 1.4, vierde lid, van de wet](onbekend) voorzien is van een certificaat, dient de aanvraag voor de afgifte van een certificaat in bij een certificerende instelling.
+Een aanbieder van een informatietechnologieproduct of -dienst welke op grond van artikel 1.4, vierde lid, van de wet voorzien is van een certificaat, dient de aanvraag voor de afgifte van een certificaat in bij een certificerende instelling.
 
 ##### Artikel 2.5. (weigeren, schorsen of intrekken van een certificaat)
 
-1. De certificerende instelling weigert de afgifte van een certificaat als de aanvrager niet voldoet aan de in [artikel 3.1, onder a, van de wet](onbekend) met betrekking tot het certificaat gestelde eisen.
+1. De certificerende instelling weigert de afgifte van een certificaat als de aanvrager niet voldoet aan de in artikel 3.1, onder a, van de wet met betrekking tot het certificaat gestelde eisen.
 
 2. De certificerende instelling kan een certificaat schorsen of intrekken:
 
@@ -132,29 +101,19 @@ In het geval Onze Minister de aanvraag behandelt en overige taken uitvoert ten a
 
 ##### Artikel 2.7. (informatieverstrekking in het kader van uitvoering, toezicht en handhaving van de wet en in het kader van beleidsvorming)
 
-Onze Minister, de Raad voor Accreditatie, een certificerende instelling of een ander bestuursorgaan verstrekken elkaar kosteloos informatie die is verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](onbekend) voor zover die noodzakelijk is voor de uitvoering van hun wettelijke taken of voor beleidsvorming.
+Onze Minister, de Raad voor Accreditatie, een certificerende instelling of een ander bestuursorgaan verstrekken elkaar kosteloos informatie die is verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de wet voor zover die noodzakelijk is voor de uitvoering van hun wettelijke taken of voor beleidsvorming.
 
 ### Hoofdstuk 3. – Aanwijzen gegevensuitwisseling
-
-##### Artikel 3.1. (citeertitel)
-
-Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in de zorg.
-
-##### Artikel 3.2. (inwerkingtreding)
-
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 #### Paragraaf 3.1. – Versturen van recept door huisarts aan terhandsteller
 
 ##### Artikel 3.1.1. (aanwijzing versturen van recept door huisarts aan terhandsteller als aangewezen gegevensuitwisseling)
 
-Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) door een huisarts aan een terhandsteller is een aangewezen gegevensuitwisseling.
+Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) door een huisarts aan een terhandsteller is een aangewezen gegevensuitwisseling.
 
 ##### Artikel 3.1.2. (beschikbaar stellen voor een persoonlijke gezondheidsomgeving)
 
-1. Een persoonlijke gezondheidsomgeving waar de cliënt gebruik van maakt als bedoeld in artikel 15ea, tweede lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg, voldoet aan de gegevensdienst Verzamelen Huisartsgegevens, versie 2.0 zoals die is opgenomen in de actuele catalogus van de Stichting MedMij op de website: [https://catalogus.medmij.nl/details/gegevensdienst/49](https://catalogus.medmij.nl/details/gegevensdienst/49) en bijbehorende informatiestandaard die is opgenomen op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens) en op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data).
+1. Een persoonlijke gezondheidsomgeving waar de cliënt gebruik van maakt als bedoeld in artikel 15ea, tweede lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg, voldoet aan de gegevensdienst Verzamelen Huisartsgegevens, versie 2.0 zoals die is opgenomen in de actuele catalogus van de Stichting MedMij op de website: [https://catalogus.medmij.nl/details/gegevensdienst/49](https://catalogus.medmij.nl/details/gegevensdienst/49) en bijbehorende informatiestandaard die is opgenomen op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens) en op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data).
 
 2. Onverminderd het eerste lid kan de militaire ambtenaar in werkelijke dienst als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) alleen gebruik maken van een persoonlijke gezondheidsomgeving die aantoonbaar voldoet aan de eisen die de Minister van Defensie stelt in de Algemene beveiligingseisen defensieopdrachten 2019 om gegevens te ontvangen van de militair geneeskundige dienst als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1).
 
@@ -166,7 +125,7 @@ Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp
 
 ##### Artikel 3.1.3. (uitzondering militaire gezondheidszorg)
 
-Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-07-01&g=2024-07-01) en 3.1.2 niet.
+Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-07-01&g=2024-07-01) en 3.1.2 niet.
 
 ### Hoofdstuk 4. – Slotbepalingen
 
@@ -177,5 +136,3 @@ Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in 
 ##### Artikel 4.2. (inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister voor Klimaat en Energie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juli 2023, nr. 2023-0000029558, houdende instelling van het Burgerforum klimaat- en energiebeleid (Instellingsbesluit Burgerforum klimaat- en energiebeleid)"
+citeertitel: "Instellingsbesluit Burgerforum klimaat- en energiebeleid"
 identifier: "BWBR0048436"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-09-11"
-last_updated: "2024-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048436"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16812783"
-version_id: "30320602"
-internal_id: "C43494301"
-label_id: "16726394"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048436/2024-09-11/0"
-intitule_bron: "Stcrt.2023-20500"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-18"
-intitule_published: "2023-07-24"
-intitule_in_force: "2023-07-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-29805"
-original_signed_date: "2024-08-20"
-original_published_date: "2024-09-10"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-29805"
-entry_into_force_date: "2024-08-20"
-jci_1_3: "jci1.3:c:BWBR0048436&z=2024-09-11&g=2024-09-11"
-jci_1_0: "1.0:c:BWBR0048436&g=2024-09-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Burgerforum klimaat- en energiebeleid"
-signed_date: "2024-08-20"
-entry_into_force: "2024-08-20"
+publicatiedatum: 2024-08-20
+laatste_update: 2024-09-11
+status: geldig
+toestand: 2024-09-11
+bron: "https://wetten.overheid.nl/BWBR0048436"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Klimaat en Energie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 18 juli 2023, nr. 2023-0000029558, houdende instelling van het Burgerforum klimaat- en energiebeleid (Instellingsbesluit Burgerforum klimaat- en energiebeleid)
-
-En handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluiten:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Burgerforum:** Burgerforum klimaat- en energiebeleid;
+- a. *Burgerforum:* Burgerforum klimaat- en energiebeleid;
 
-- b. **De Ministers:** de Minister voor Klimaat en Energie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *De Ministers:* de Minister voor Klimaat en Energie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
 ##### Artikel 2
 
@@ -83,6 +57,12 @@ In dit besluit wordt verstaan onder:
 - b. een Staatssecretaris;
 
 - c. een lid van de Staten-Generaal.
+
+##### Artikel 4a
+
+1. Deelname aan het Burgerforum kan op eigen verzoek van een deelnemer of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden beëindigd door de Ministers.
+
+2. Bij een tussentijdse beëindiging van de deelname kunnen de Ministers tot de selectie van een nieuw lid overgaan.
 
 ##### Artikel 5
 
@@ -139,13 +119,3 @@ De archiefbescheiden van het Burgerforum worden na opheffing, of zo de omstandig
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Burgerforum klimaat- en energiebeleid.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Deelname aan het Burgerforum kan op eigen verzoek van een deelnemer of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden beëindigd door de Ministers.
-
-2. Bij een tussentijdse beëindiging van de deelname kunnen de Ministers tot de selectie van een nieuw lid overgaan.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

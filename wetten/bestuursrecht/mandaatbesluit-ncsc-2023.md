@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de directeur van het Nationaal Cyber Security Centrum (NCSC) van het Ministerie van Justitie en Veiligheid van 6 juni 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit NCSC 2023 Ministerie van Justitie en Veiligheid)"
+citeertitel: "Mandaatbesluit NCSC 2023"
 identifier: "BWBR0048278"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-17"
-last_updated: "2023-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048278"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "16774323"
-version_id: "29460082"
-internal_id: "C42129871"
-label_id: "16689564"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048278/2023-06-17/0"
-intitule_bron: "Stcrt.2023-17130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-06"
-intitule_published: "2023-06-16"
-intitule_in_force: "2023-06-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-17130"
-original_signed_date: "2023-06-06"
-original_published_date: "2023-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-17130"
-entry_into_force_date: "2023-06-17"
-jci_1_3: "jci1.3:c:BWBR0048278&z=2023-06-17&g=2023-06-17"
-jci_1_0: "1.0:c:BWBR0048278&g=2023-06-17"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit NCSC 2023"
-signed_date: "2023-06-06"
-entry_into_force: "2023-06-17"
+publicatiedatum: 2023-06-17
+laatste_update: 2023-06-17
+status: geldig
+toestand: 2023-06-17
+bron: "https://wetten.overheid.nl/BWBR0048278"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de directeur van het Nationaal Cyber Security Centrum (NCSC) van het Ministerie van Justitie en Veiligheid van 6 juni 2023, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur ressorterende ambtenaren (Mandaatbesluit NCSC 2023 Ministerie van Justitie en Veiligheid)
-
-Gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3);
-
-Gelet op het bepaalde in het [Mandaatbesluit Hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699);
-
-Gelezen het bepaalde in [artikel 63h1 van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63h1);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -76,7 +46,7 @@ Onverminderd het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 5
 
-- a. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
+- a. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
 - b. Dit besluit doet niets af aan de rechtskracht van besluiten die voor de inwerkingtreding van dit besluit zijn genomen.
 

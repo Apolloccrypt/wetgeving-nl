@@ -1,60 +1,36 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 2 oktober 2023, nr. IENW/BSK-2023/269257, houdende regels voor het verstrekken van een bijzondere uitkering ten behoeve van verbetering van water-, haven- en luchtvaartinfrastructuur (Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES)"
+citeertitel: "Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES"
 identifier: "BWBR0048694"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2024-06-26"
-last_updated: "2024-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048694"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "16872713"
-version_id: "29654852"
-internal_id: "C42438991"
-label_id: "16785034"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048694/2024-06-26/0"
-intitule_bron: "Stcrt.2023-27133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-02"
-intitule_published: "2023-10-05"
-intitule_in_force: "2023-10-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-27133"
-original_signed_date: "2023-10-02"
-original_published_date: "2023-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-27133"
-entry_into_force_date: "2023-10-06"
-jci_1_3: "jci1.3:c:BWBR0048694&z=2024-06-26&g=2024-06-26"
-jci_1_0: "1.0:c:BWBR0048694&g=2024-06-26"
-citeertitel_status: "officieel"
-short_title: "Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES"
-signed_date: "2023-10-02"
-entry_into_force: "2023-10-06"
+publicatiedatum: 2023-10-06
+laatste_update: 2024-06-26
+status: geldig
+toestand: 2024-06-26
+bron: "https://wetten.overheid.nl/BWBR0048694"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 2 oktober 2023, nr. IENW/BSK-2023/269257, houdende regels voor het verstrekken van een bijzondere uitkering ten behoeve van verbetering van water-, haven- en luchtvaartinfrastructuur (Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES)
-
-Gelet op de [artikelen 3, eerste lid, onderdelen a, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), [artikel 2, eerste en derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2) en [artikel 92, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** openbare lichamen Bonaire, Sint Eustatius of Saba;
+- *aanvrager:* openbare lichamen Bonaire, Sint Eustatius of Saba;
 
-- **activiteiten:** activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26);
+- *activiteiten:* activiteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26);
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **kaderwet:** [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789);
+- *kaderwet:*
+ [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789);
 
-- **kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **bijzondere uitkering:** bijzondere uitkering als bedoeld in [artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91).
+- *bijzondere uitkering:* bijzondere uitkering als bedoeld in [artikel 91, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91).
 
 ##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
@@ -70,7 +46,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 ##### Artikel 5. Plafond
 
-1. Het plafond voor bijzondere uitkeringen voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26), bedraagt, inclusief eventueel verschuldigde BTW, voor 2023 € 16.499.000,–.
+1. Het plafond voor bijzondere uitkeringen voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=3&z=2024-06-26&g=2024-06-26), bedraagt, inclusief eventueel verschuldigde BTW, voor 2023 € 16.499.000,–.
 
 2. De minister stelt de plafonds voor de opvolgende jaren jaarlijks vast en maakt die bekend in de Staatscourant voor aanvang van het tijdvak waarvoor ze worden vastgesteld.
 
@@ -78,7 +54,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 ##### Artikel 6. Aanvraag tot verlening
 
-1. Een aanvraag tot verlening van een bijzondere uitkering wordt ingediend vóór 1 november 2023 en vervolgens jaarlijks voor 1 september van het jaar waarvoor de bijzondere uitkering wordt aangevraagd.
+1. Een aanvraag tot verlening van een bijzondere uitkering wordt ingediend vóór 1 november 2023 en vervolgens jaarlijks voor 1 september van het jaar waarvoor de bijzondere uitkering wordt aangevraagd.
 
 2. In afwijking van het eerste lid kan bij onvoorziene urgente projecten een aanvraag op een ander tijdstip worden ingediend na overleg met de minister.
 
@@ -104,7 +80,7 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 ##### Artikel 8. Verplichtingen
 
-1. Onverminderd de [artikelen 17, eerste lid, onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19, eerste lid, aanhef en onderdelen a en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19) en [20 van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20) is het openbaar lichaam verplicht ieder jaar uiterlijk op 1 december de voortgang van de uitvoering van de projecten in te dienen in een tussentijds voortgangsverslag.
+1. Onverminderd de [artikelen 17, eerste lid, onderdelen a, b, c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [19, eerste lid, aanhef en onderdelen a en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=19) en [20 van het kaderbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20) is het openbaar lichaam verplicht ieder jaar uiterlijk op 1 december de voortgang van de uitvoering van de projecten in te dienen in een tussentijds voortgangsverslag.
 
 2. De minister kan verplichtingen opleggen met betrekking tot de aard en omvang van de projecten waarvoor de bijzondere uitkering wordt verleend.
 
@@ -116,9 +92,9 @@ De vóór indiening van de aanvraag door de aanvrager gemaakte kosten komen voor
 
 ##### Artikel 10. Verantwoording
 
-1. Het openbaar lichaam zendt informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
+1. Het openbaar lichaam zendt informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
 
-2. De minister stelt de bijzondere uitkering uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de activiteiten waarvoor de bijzondere uitkering is verleend, volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=8&z=2024-06-26&g=2024-06-26), ambtshalve vast.
+2. De minister stelt de bijzondere uitkering uiterlijk op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de activiteiten waarvoor de bijzondere uitkering is verleend, volledig zijn uitgevoerd en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048694&artikel=8&z=2024-06-26&g=2024-06-26), ambtshalve vast.
 
 3. Indien een beschikking tot subsidievaststelling niet binnen de in het tweede lid genoemde termijn kan worden gegeven, kan deze termijn eenmaal met dertien weken worden verlengd.
 
@@ -215,5 +191,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

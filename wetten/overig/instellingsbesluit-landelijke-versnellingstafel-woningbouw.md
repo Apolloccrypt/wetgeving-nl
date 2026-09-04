@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 16 mei 2023, nr. 2023-0000254706, houdende instelling van de landelijke versnellingstafel woningbouw (Instellingsbesluit landelijke versnellingstafel woningbouw)"
+citeertitel: "Instellingsbesluit landelijke versnellingstafel woningbouw"
 identifier: "BWBR0048175"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-06"
-last_updated: "2025-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048175"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16749493"
-version_id: "29412242"
-internal_id: "C42051981"
-label_id: "16665484"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048175/2025-02-06/0"
-intitule_bron: "Stcrt.2023-12112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-16"
-intitule_published: "2023-05-22"
-intitule_in_force: "2023-05-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-12112"
-original_signed_date: "2023-05-16"
-original_published_date: "2023-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-12112"
-entry_into_force_date: "2023-05-23"
-jci_1_3: "jci1.3:c:BWBR0048175&z=2025-02-06&g=2025-02-06"
-jci_1_0: "1.0:c:BWBR0048175&g=2025-02-06"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit landelijke versnellingstafel woningbouw"
-signed_date: "2023-05-16"
-entry_into_force: "2023-05-23"
+publicatiedatum: 2023-05-23
+laatste_update: 2025-02-06
+status: geldig
+toestand: 2025-02-06
+bron: "https://wetten.overheid.nl/BWBR0048175"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 16 mei 2023, nr. 2023-0000254706, houdende instelling van de landelijke versnellingstafel woningbouw (Instellingsbesluit landelijke versnellingstafel woningbouw)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- –. **bestuurlijke woningbouwafspraken:** afspraken tussen Rijk en medeoverheden over het aantal te bouwen woningen, het aandeel betaalbaar en de doelgroepen waarvoor wordt gebouwd;
+- – *bestuurlijke woningbouwafspraken:* afspraken tussen Rijk en medeoverheden over het aantal te bouwen woningen, het aandeel betaalbaar en de doelgroepen waarvoor wordt gebouwd;
 
-- –. **landelijke versnellingstafel:** de landelijke versnellingstafel woningbouw;
+- – *landelijke versnellingstafel:* de landelijke versnellingstafel woningbouw;
 
-- –. **landsdelen:** regionale groepering van een aantal provincies;
+- – *landsdelen:* regionale groepering van een aantal provincies;
 
-- –. **medeoverheden:** provincies en gemeenten;
+- – *medeoverheden:* provincies en gemeenten;
 
-- –. **minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- – *minister:* de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- –. **woningmarktpartijen:** woningcorporaties, projectontwikkelaars, bouwbedrijven.
+- – *woningmarktpartijen:* woningcorporaties, projectontwikkelaars, bouwbedrijven.
 
 ##### Artikel 2. Instelling en taak
 
@@ -114,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aan de leden, genoemd in [artikel 4, derde lid, onder a, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 12/36.
 
-2. Aan de leden, genoemd in [artikel 4, derde lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
+2. Aan de leden, genoemd in [artikel 4, derde lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048175&artikel=4&z=2025-02-06&g=2025-02-06), wordt, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 8/36.
 
 3. Aan de voorzitter van de door het Rijk ingestelde Aanjaagteam Wonen, welzijn en zorg wordt, indien hij daarvan gebruik wenst te maken, en indien hij niet valt onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vaste vergoeding per maand toegekend, waarbij de toepasselijke salarisschaal wordt bepaald op het maximum van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren bij een arbeidsduurfactor van 2/36.
 
@@ -154,10 +128,8 @@ De landelijke versnellingstafel draagt zo spoedig mogelijk na beëindiging van h
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 20 april 2023.
+Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 20 april 2023.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit landelijke versnellingstafel woningbouw.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

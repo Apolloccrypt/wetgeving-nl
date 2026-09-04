@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de directeur-generaal van de statistiek van 30 mei 2023, houdende de instelling van een Commissie bezwaarschriften handhaving CBS"
+citeertitel: "Besluit Commissie bezwaarschriften handhaving CBS 2023"
 identifier: "BWBR0048309"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048309"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16779163"
-version_id: "29469582"
-internal_id: "C42142641"
-label_id: "16694494"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048309/2023-07-01/0"
-intitule_bron: "Stcrt.2023-17361"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-30"
-intitule_published: "2023-06-22"
-intitule_in_force: "2023-06-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-17361"
-original_signed_date: "2023-05-30"
-original_published_date: "2023-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-17361"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048309&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048309&g=2023-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit Commissie bezwaarschriften handhaving CBS 2023"
-signed_date: "2023-05-30"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0048309"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de directeur-generaal van de statistiek van 30 mei 2023, houdende de instelling van een Commissie bezwaarschriften handhaving CBS
 
 ### Paragraaf 1. Algemene bepalingen
@@ -42,23 +20,24 @@ entry_into_force: "2023-07-01"
 
 In deze verordening wordt verstaan onder:
 
-- –. **ambtelijk hoorder:** door de directeur-generaal aangewezen persoon die bevoegd is om bezwaarschriften te behandelen;
+- – *ambtelijk hoorder:* door de directeur-generaal aangewezen persoon die bevoegd is om bezwaarschriften te behandelen;
 
-- –. **ambtelijk horen:** horen door een ambtenaar of meerdere ambtenaren namens de directeur-generaal, bedoeld in [artikel 7:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:5);
+- – *ambtelijk horen:* horen door een ambtenaar of meerdere ambtenaren namens de directeur-generaal, bedoeld in [artikel 7:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:5);
 
-- –. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- – *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- –. **bezwaarmaker:** indiener van een bezwaarschrift;
+- – *bezwaarmaker:* indiener van een bezwaarschrift;
 
-- –. **CBS:** het Centraal bureau voor de statistiek;
+- – *CBS:* het Centraal bureau voor de statistiek;
 
-- –. **CBS-wet:** de [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926);
+- – *CBS-wet:* de [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926);
 
-- –. **commissie:** de Commissie bezwaarschriften handhaving CBS, een adviescommissie als bedoeld in [artikel 7:13 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
+- – *commissie:* de Commissie bezwaarschriften handhaving CBS, een adviescommissie als bedoeld in [artikel 7:13 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
 
-- –. **directeur-generaal:** directeur-generaal van de statistiek
+- – *directeur-generaal:* directeur-generaal van de statistiek
 
-- –. **voorzitter:** voorzitter van de commissie.
+- – *voorzitter:* voorzitter van de commissie.
 
 ##### Artikel 2. Ingediend bezwaarschrift
 
@@ -206,16 +185,16 @@ De voorzitter en de leden nemen niet deel aan de behandeling van een bezwaarschr
 
 ##### Artikel 17. Jaarverslag
 
-De commissie brengt jaarlijks vóór 1 april aan de directeur-generaal verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar. De directeur-generaal kan regels stellen aan de inrichting van het jaarverslag.
+De commissie brengt jaarlijks vóór 1 april aan de directeur-generaal verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar. De directeur-generaal kan regels stellen aan de inrichting van het jaarverslag.
 
 ### Paragraaf 4. Slotbepalingen
 
 ##### Artikel 18. Intrekking oude regeling
 
-Het Besluit Commissie bezwaarschriften handhaving CBS van 6 juli 2005 wordt ingetrokken.
+Het Besluit Commissie bezwaarschriften handhaving CBS van 6 juli 2005 wordt ingetrokken.
 
 ##### Artikel 19. Inwerkingtreding en citeertitel
 
-1. Dit besluit treedt in werking op 1 juli 2023.
+1. Dit besluit treedt in werking op 1 juli 2023.
 
 2. Dit besluit wordt aangehaald als: Besluit Commissie bezwaarschriften handhaving CBS 2023.

@@ -1,60 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 25 mei 2023 nr. BOACAT2023/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Capelle aan den IJssel"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Capelle aan den IJssel 2023"
 identifier: "BWBR0048228"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-06"
-last_updated: "2023-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048228"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16759263"
-version_id: "29431812"
-internal_id: "C42093681"
-label_id: "16675194"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048228/2023-06-06/0"
-intitule_bron: "Stcrt.2023-15683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-25"
-intitule_published: "2023-06-05"
-intitule_in_force: "2023-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-15683"
-original_signed_date: "2023-05-25"
-original_published_date: "2023-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-15683"
-entry_into_force_date: "2023-06-06"
-jci_1_3: "jci1.3:c:BWBR0048228&z=2023-06-06&g=2023-06-06"
-jci_1_0: "1.0:c:BWBR0048228&g=2023-06-06"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Capelle aan den IJssel 2023"
-signed_date: "2023-05-25"
-entry_into_force: "2023-06-06"
+publicatiedatum: 2023-06-06
+laatste_update: 2023-06-06
+status: geldig
+toestand: 2023-06-06
+bron: "https://wetten.overheid.nl/BWBR0048228"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 25 mei 2023 nr. BOACAT2023/029, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Capelle aan den IJssel
-
-Gelezen het verzoek van de gemeente Capelle aan den IJssel van 15 mei 2023, en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Rotterdam en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +24,7 @@ De personen, werkzaam in de functie van medewerker Handhaving, allround medewerk
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -90,7 +48,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 7
 
-1. De gemeente Capelle aan den IJssel brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Capelle aan den IJssel brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048228&artikel=2&z=2023-06-06&g=2023-06-06) genoemde functie;
 
@@ -108,12 +66,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar gemeente Capelle aan den IJssel 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040977) van 30 mei 2018, nr. BOACAT2018/027 zal vervallen op 6 juni 2023.
+Het [Besluit buitengewoon opsporingsambtenaar gemeente Capelle aan den IJssel 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040977) van 30 mei 2018, nr. BOACAT2018/027 zal vervallen op 6 juni 2023.
 
-Dit besluit treedt in werking met ingang van 6 juni 2023 en vervalt met ingang van 6 juni 2028.
+Dit besluit treedt in werking met ingang van 6 juni 2023 en vervalt met ingang van 6 juni 2028.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Capelle aan den IJssel 2023.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

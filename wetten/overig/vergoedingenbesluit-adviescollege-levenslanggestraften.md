@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0044075"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 4 september 2020, nr. 2976626, houdende vergoedingen van de voorzitter, de overige leden en de plaatsvervangend leden van het Adviescollege levenslanggestraften (Vergoedingenbesluit Adviescollege levenslanggestraften)

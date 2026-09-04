@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-08-31
 toestand: 2026-08-21
 bron: "https://wetten.overheid.nl/BWBR0052415"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 26 februari 2026, nr. 2026-0000072641, houdende regels over waardevermeerdering van gebouwen in verband met schade als gevolg van gaswinning Groningenveld (Regeling waardevermeerdering gebouwen gaswinning Groningenveld 2026) [KetenID WGK 028672]

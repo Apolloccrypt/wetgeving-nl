@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 juni 2023, kenmerk EZK_MO /27705165, tot instelling Personeelsraadgever LNV (Besluit instelling personeelsraadgever LNV)"
+citeertitel: "Besluit instelling personeelsraadgever LNV"
 identifier: "BWBR0048469"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048469"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16820123"
-version_id: "29552582"
-internal_id: "C42242401"
-label_id: "16732834"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048469/2023-09-01/0"
-intitule_bron: "Stcrt.2023-21629"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-22"
-intitule_published: "2023-07-28"
-intitule_in_force: "2023-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-21629"
-original_signed_date: "2023-06-22"
-original_published_date: "2023-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-21629"
-entry_into_force_date: "2023-09-01"
-jci_1_3: "jci1.3:c:BWBR0048469&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0048469&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling personeelsraadgever LNV"
-signed_date: "2023-06-22"
-entry_into_force: "2023-09-01"
+publicatiedatum: 2023-09-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0048469"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Ministerie van Landbouw, Natuur en Voedselkwaliteit van 22 juni 2023, kenmerk EZK_MO /27705165, tot instelling Personeelsraadgever LNV (Besluit instelling personeelsraadgever LNV)
-
-Gehoord het Decentraal Georganiseerd Overleg;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Medewerker:** degene die werkzaam is bij een van de dienstonderdelen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+- 1. *Medewerker:* degene die werkzaam is bij een van de dienstonderdelen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-- 2. **Personeelsraadgever LNV:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048469&artikel=2&z=2023-09-01&g=2023-09-01).
+- 2. *Personeelsraadgever LNV:* de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048469&artikel=2&z=2023-09-01&g=2023-09-01).
 
 ##### Artikel 2
 
@@ -108,7 +82,7 @@ De personeelsraadgever LNV kan, met toestemming van de secretaris-generaal, een 
 
 ##### Artikel 8
 
-1. De personeelsraadgever LNV brengt jaarlijks, uiterlijk op 1 mei, verslag uit aan de secretaris-generaal over de doeltreffendheid en de effecten van dit besluit in de praktijk.
+1. De personeelsraadgever LNV brengt jaarlijks, uiterlijk op 1 mei, verslag uit aan de secretaris-generaal over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
 2. Het evaluatieverslag wordt ter informatie door de secretaris-generaal gezonden aan de DOR LNV en het DGO LNV. De beschrijving van de behandelde zaken is zodanig dat de privacy van de desbetreffende medewerkers volledig wordt beschermd.
 

@@ -1,50 +1,18 @@
 ---
 title: "Besluit tot het opheffen en verlengen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Centraal Medisch Tuchtcollege, 1931–1975 (2.09.21)"
+citeertitel: "Besluit opheffen en verlengen beperkingen openbaarheid archiefbescheiden archief Centraal Medisch Tuchtcollege, 1931–1975 (2.09.21)"
 identifier: "BWBR0048661"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-30"
-last_updated: "2023-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048661"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16864963"
-version_id: "29639442"
-internal_id: "C42409321"
-label_id: "16777094"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048661/2023-09-30/0"
-intitule_bron: "Stcrt.2023-26575"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-14"
-intitule_published: "2023-09-29"
-intitule_in_force: "2023-09-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-26575"
-original_signed_date: "2023-09-14"
-original_published_date: "2023-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-26575"
-entry_into_force_date: "2023-09-30"
-jci_1_3: "jci1.3:c:BWBR0048661&z=2023-09-30&g=2023-09-30"
-jci_1_0: "1.0:c:BWBR0048661&g=2023-09-30"
-citeertitel_status: "redactioneel"
-short_title: "Besluit opheffen en verlengen beperkingen openbaarheid archiefbescheiden archief Centraal Medisch Tuchtcollege, 1931–1975 (2.09.21)"
-signed_date: "2023-09-14"
-entry_into_force: "2023-09-30"
+publicatiedatum: 2023-09-30
+laatste_update: 2023-09-30
+status: geldig
+toestand: 2023-09-30
+bron: "https://wetten.overheid.nl/BWBR0048661"
+opgehaald: 2026-09-04
 ---
+
 # Besluit tot het opheffen en verlengen van beperkingen aan de openbaarheid van archiefbescheiden geborgen in het archief van het Centraal Medisch Tuchtcollege, 1931–1975 (2.09.21)
-
-Gelet op [artikel 15, tweede en vierde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Gelet op het besluit van:
-
-Het Centraal Medische Tuchtcollege van 19 februari 1980
-
-houdende de beperking op de openbaarheid.
-
-Besluit:
 
 ##### Artikel 1
 

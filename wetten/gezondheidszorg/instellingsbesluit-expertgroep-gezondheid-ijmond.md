@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond"
+citeertitel: "Instellingsbesluit Expertgroep Gezondheid IJmond"
 identifier: "BWBR0048808"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-19"
-last_updated: "2025-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048808"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16896413"
-version_id: "29696912"
-internal_id: "C42551581"
-label_id: "16808184"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048808/2025-12-19/0"
-intitule_bron: "Stcrt.2023-29181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-17"
-intitule_published: "2023-10-31"
-intitule_in_force: "2023-10-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-29181"
-original_signed_date: "2023-10-17"
-original_published_date: "2023-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-29181"
-entry_into_force_date: "2023-11-01"
-jci_1_3: "jci1.3:c:BWBR0048808&z=2025-12-19&g=2025-12-19"
-jci_1_0: "1.0:c:BWBR0048808&g=2025-12-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Expertgroep Gezondheid IJmond"
-signed_date: "2023-10-17"
-entry_into_force: "2023-11-01"
+publicatiedatum: 2023-11-01
+laatste_update: 2025-12-19
+status: geldig
+toestand: 2025-12-19
+bron: "https://wetten.overheid.nl/BWBR0048808"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 17 oktober 2023, nr. IENW/BSK-2023/288283, houdende de instelling van de Expertgroep Gezondheid IJmond
-
-Gelet op [artikel 2, eerste en tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. (Begripsbepaling)
 
 In dit besluit wordt verstaan onder:
 
-- a. **Expertgroep:** Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-12-19&g=2025-12-19);
+- a. *Expertgroep:* Expertgroep Gezondheid IJmond, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=2&z=2025-12-19&g=2025-12-19);
 
-- b. **Groenstaalplan:** de complete set aan plannen van het bedrijf Tata Steel om schoon en duurzaam staal te gaan produceren;
+- b. *Groenstaalplan:* de complete set aan plannen van het bedrijf Tata Steel om schoon en duurzaam staal te gaan produceren;
 
-- c. **Ministerie:** Ministerie van Infrastructuur en Waterstaat;
+- c. *Ministerie:* Ministerie van Infrastructuur en Waterstaat;
 
-- d. **Maatwerkafspraak:** een wederkerige bindende afspraak tussen de rijksoverheid en een bedrijf als bedoeld in het Coalitieakkoord 2021 – 2025, Omzien naar elkaar, vooruitkijken naar de toekomst;
+- d. *Maatwerkafspraak:* een wederkerige bindende afspraak tussen de rijksoverheid en een bedrijf als bedoeld in het Coalitieakkoord 2021 – 2025, Omzien naar elkaar, vooruitkijken naar de toekomst;
 
-- e. **Staatssecretaris:** Staatssecretaris van Infrastructuur en Waterstaat;
+- e. *Staatssecretaris:* Staatssecretaris van Infrastructuur en Waterstaat;
 
-- f. **IJmond:** de gemeenten Velsen, Beverwijk en Heemskerk.
+- f. *IJmond:* de gemeenten Velsen, Beverwijk en Heemskerk.
 
 ##### Artikel 2. (Instelling en taak)
 
@@ -102,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 - a. verduurzamingsplannen van Tata Steel;
 
-- b. het RIVM-rapport 2023-0171 **‘De bijdrage van Tata Steel Nederland aan de gezondheidsrisico's van omwonenden en de kwaliteit van hun leefomgeving’**;
+- b. het RIVM-rapport 2023-0171 *‘De bijdrage van Tata Steel Nederland aan de gezondheidsrisico's van omwonenden en de kwaliteit van hun leefomgeving’*;
 
 - c. waar relevant de zienswijzen die door belanghebbenden zijn opgesteld in reactie op het groenstaalplan en andere relevante informatie.
 
@@ -128,13 +102,13 @@ In dit besluit wordt verstaan onder:
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-2. De vergoeding per vergadering van de leden bedraagt € 317.
+2. De vergoeding per vergadering van de leden bedraagt € 317.
 
-3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt € 412.
+3. De vergoeding per vergadering van de voorzitter van de commissie bedraagt € 412.
 
 ##### Artikel 8. (Leden)
 
-1. Vanaf 1 november 2023, de datum van inwerkingtreding van dit besluit, worden voor een periode van twee jaar tot lid van de expertgroep benoemd:
+1. Vanaf 1 november 2023, de datum van inwerkingtreding van dit besluit, worden voor een periode van twee jaar tot lid van de expertgroep benoemd:
 
 - a. De heer prof. dr. M. Levi te Amsterdam, tevens voorzitter;
 
@@ -154,13 +128,13 @@ In dit besluit wordt verstaan onder:
 
 - i. Mevrouw prof. dr. E.G. Smit, te Hilversum.
 
-2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-12-19&g=2025-12-19), wordt als lid van de expertgroep benoemd:
+2. Op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=3&z=2025-12-19&g=2025-12-19), wordt als lid van de expertgroep benoemd:
 
-- a. voor de periode 1 november 2023 – 2 maart 2025 mevrouw prof. dr. K. Stronks, te Abcoude;
+- a. voor de periode 1 november 2023 – 2 maart 2025 mevrouw prof. dr. K. Stronks, te Abcoude;
 
-- b. voor de periode 3 maart 2025 – 1 november 2025 de heer prof. dr. J.O. Mierau, te Groningen.
+- b. voor de periode 3 maart 2025 – 1 november 2025 de heer prof. dr. J.O. Mierau, te Groningen.
 
-3. Vanaf 1 november 2025 worden, op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=4&z=2025-12-19&g=2025-12-19), voor een periode van een jaar tot lid van de expertgroep benoemd:
+3. Vanaf 1 november 2025 worden, op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048808&artikel=4&z=2025-12-19&g=2025-12-19), voor een periode van een jaar tot lid van de expertgroep benoemd:
 
 - a. De heer prof. dr. M. Levi te Amsterdam, tevens voorzitter;
 
@@ -205,5 +179,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Expertgroep Gezondheid IJmond.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

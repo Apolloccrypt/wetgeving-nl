@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 april 2023, houdende regels inzake het elektronisch delen en benaderen van gegevens tussen zorgverleners in aangewezen gegevensuitwisselingen (Wet elektronische gegevensuitwisseling in de zorg)"
+citeertitel: "Wet elektronische gegevensuitwisseling in de zorg"
 identifier: "BWBR0048095"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048095"
+categorie: "Overig"
 soort: "wet"
-stam_id: "16730593"
-version_id: "29352742"
-internal_id: "C41882241"
-label_id: "16647424"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048095/2025-07-05/0"
-intitule_bron: "Stb.2023-133"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-19"
-intitule_published: "2023-04-21"
-intitule_in_force: "2023-04-21"
-intitule_status: "goed"
-original_publication: "Stb.2023-133"
-original_signed_date: "2023-04-19"
-original_published_date: "2023-04-21"
-original_effect: "nieuwe-regeling"
-original_dossier: "35824"
-original_url_id: "stb-2023-133"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048095&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0048095&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet elektronische gegevensuitwisseling in de zorg"
-signed_date: "2023-04-19"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0048095"
+opgehaald: 2026-09-04
 ---
+
 # Wet van 19 april 2023, houdende regels inzake het elektronisch delen en benaderen van gegevens tussen zorgverleners in aangewezen gegevensuitwisselingen (Wet elektronische gegevensuitwisseling in de zorg)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo, Wij in overweging genomen hebben, dat het goed en tijdig delen en benaderen van gegevens een belangrijke randvoorwaarde is voor goede kwaliteit van zorg; dat met het gebruik maken van een elektronische infrastructuur het delen en benaderen van gegevens beter en sneller gaat en het daarom wenselijk is dit in de zorg te bevorderen; dat het daarbij wenselijk is gegevensuitwisselingen aan te wijzen waarbij gegevens via een elektronische infrastructuur tussen zorgverleners worden gedeeld of benaderd en waarbij gegevens met cliënten kunnen worden gedeeld; dat het daarnaast wenselijk kan zijn regels te stellen over de wijze waarop via een elektronische infrastructuur wordt uitgewisseld; dat het ook wenselijk is eisen te kunnen stellen aan informatietechnologieproducten of -diensten, zodat geborgd is dat in de aangewezen gegevensuitwisseling het delen en benaderen van gegevens plaatsvindt op interoperabele wijze; dat het daarbij met het oog op de bescherming van de gezondheid van personen en de volksgezondheid gerechtvaardigd is het vrij verkeer van goederen en diensten te beperken door middel van de introductie van een verplicht systeem van certificering; dat het verder wenselijk is eisen te stellen aan informatietechnologieproducten en -diensten en zorginformatiesystemen, zodat de inwisselbaarheid en daarmee de marktwerking van deze producten, diensten en systemen wordt verbeterd;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### Paragraaf 1. – Algemene bepalingen
 
@@ -49,47 +20,47 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aangewezen gegevensuitwisseling:** gegevensuitwisseling die is aangewezen op grond van [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05);
+- – *aangewezen gegevensuitwisseling:* gegevensuitwisseling die is aangewezen op grond van [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05);
 
-- –. **benaderen:** het indirect verkrijgen van gegevens uit een ander informatiesysteem van een andere zorgaanbieder met behulp van software, webpagina’s of via een netwerk verbonden apparaten;
+- – *benaderen:* het indirect verkrijgen van gegevens uit een ander informatiesysteem van een andere zorgaanbieder met behulp van software, webpagina’s of via een netwerk verbonden apparaten;
 
-- –. **certificaat:** certificaat als bedoeld in [artikel 3.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05);
+- – *certificaat:* certificaat als bedoeld in [artikel 3.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05);
 
-- –. **certificerende instelling:** instelling als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.2&z=2025-07-05&g=2025-07-05);
+- – *certificerende instelling:* instelling als bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.2&z=2025-07-05&g=2025-07-05);
 
-- –. **cliënt:** cliënt als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- – *cliënt:* cliënt als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- –. **informatietechnologieproduct of -dienst:** software, hardware of dienst, die door de aanbieder bestemd is te worden gebruikt voor het uitwisselen van gegevens bij een aangewezen gegevensuitwisseling;
+- – *informatietechnologieproduct of -dienst:* software, hardware of dienst, die door de aanbieder bestemd is te worden gebruikt voor het uitwisselen van gegevens bij een aangewezen gegevensuitwisseling;
 
-- –. **norm:**
+- – *norm:*
 
-- 1°. NEN, zijnde een door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
+   - 1°. NEN, zijnde een door de Stichting Nederlands Normalisatie-instituut uitgegeven norm;
 
-- 2°. NEN-EN, zijnde een NEN als bedoeld onder 1° die door het Europees Comité voor Normalisatie is vastgesteld;
+   - 2°. NEN-EN, zijnde een NEN als bedoeld onder 1° die door het Europees Comité voor Normalisatie is vastgesteld;
 
-- 3°. NEN-EN-ISO, zijnde een NEN-EN als bedoeld onder 2° die door de International Organization for Standardization is vastgesteld;
+   - 3°. NEN-EN-ISO, zijnde een NEN-EN als bedoeld onder 2° die door de International Organization for Standardization is vastgesteld;
 
-- 4°. NEN-EN-IEC, zijnde een NEN-EN als bedoeld onder 2° die door de International Electrotechnical Commission is vastgesteld;
+   - 4°. NEN-EN-IEC, zijnde een NEN-EN als bedoeld onder 2° die door de International Electrotechnical Commission is vastgesteld;
 
-- 5°. NEN-EN-ISO/IEC, zijnde een NEN-EN als bedoeld onder 2° die door de International Organization for Standardization en de International Electrotechnical Commission is vastgesteld; of
+   - 5°. NEN-EN-ISO/IEC, zijnde een NEN-EN als bedoeld onder 2° die door de International Organization for Standardization en de International Electrotechnical Commission is vastgesteld; of
 
-- 6°. NEN-ISO, zijnde een NEN als bedoeld onder 1° die door de International Organization for Standardization is vastgesteld;
+   - 6°. NEN-ISO, zijnde een NEN als bedoeld onder 1° die door de International Organization for Standardization is vastgesteld;
 
-- –. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- – *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **persoonlijke gezondheidsomgeving:** een app of website waarmee een cliënt onder meer kopieën van gegevens over zijn gezondheid kan verzamelen, beheren of delen;
+- – *persoonlijke gezondheidsomgeving:* een app of website waarmee een cliënt onder meer kopieën van gegevens over zijn gezondheid kan verzamelen, beheren of delen;
 
-- –. **Raad voor Accreditatie:** de Stichting Raad voor Accreditatie, genoemd in [artikel 2, eerste lid, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
+- – *Raad voor Accreditatie:* de Stichting Raad voor Accreditatie, genoemd in [artikel 2, eerste lid, van de Wet aanwijzing nationale accreditatie-instantie](https://wetten.overheid.nl/jci1.3:c:BWBR0026591&artikel=2);
 
-- –. **uitwisselen:** delen of benaderen;
+- – *uitwisselen:* delen of benaderen;
 
-- –. **zorg:** zorg als bedoeld in [artikel 1, eerste, tweede en derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- – *zorg:* zorg als bedoeld in [artikel 1, eerste, tweede en derde lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- –. **zorgaanbieder:** zorgaanbieder als bedoeld in [artikel 1, eerste en achtste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
+- – *zorgaanbieder:* zorgaanbieder als bedoeld in [artikel 1, eerste en achtste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1);
 
-- –. **zorginformatiesysteem:** zorginformatiesysteem als bedoeld in [artikel 1, onderdeel m, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=1);
+- – *zorginformatiesysteem:* zorginformatiesysteem als bedoeld in [artikel 1, onderdeel m, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=1);
 
-- –. **zorgverlener:** zorgverlener als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+- – *zorgverlener:* zorgverlener als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
 
 ##### Artikel 1.2. (doel)
 
@@ -261,11 +232,11 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 2. De in het eerste lid bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, voor zover de woning deel uitmaakt van een bouwkundige voorziening voor het verlenen van zorg.
 
-3. De aan de in het eerste lid bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op gegevens, waaronder gegevens over gezondheid.
+3. De aan de in het eerste lid bedoelde ambtenaren toekomende bevoegdheden, bedoeld in de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en [5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17), hebben mede betrekking op gegevens, waaronder gegevens over gezondheid.
 
 4. Voor zover de desbetreffende zorgaanbieder of zorgverlener uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van gegevens verplicht is, kan diegene deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de in het eerste lid bedoelde ambtenaren. Op de in het eerste lid bedoelde ambtenaren rust dezelfde geheimhoudingsplicht als op de desbetreffende zorgaanbieder of zorgverlener.
 
-##### Artikel 4.2. (handhaving [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05))
+##### Artikel 4.2. (handhaving artikelen 2.1 en 2.2)
 
 1. Als Onze Minister van oordeel is dat het bepaalde in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05) niet wordt nageleefd, kan hij de zorgaanbieder een schriftelijke aanwijzing geven.
 
@@ -279,9 +250,9 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 - b. de op grond van het eerste lid gegeven aanwijzing.
 
-5. Onze Minister is bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder die het bepaalde in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05) niet naleeft.
+5. Onze Minister is bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder die het bepaalde in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05) niet naleeft.
 
-##### Artikel 4.3. (handhaving [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05))
+##### Artikel 4.3. (handhaving artikel 3.1)
 
 Onze Minister kan degene die een informatietechnologieproduct of -dienst aanbiedt aan een zorgaanbieder of een informatietechnologieproduct of -dienst ondersteunt die in strijd met [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05) niet voorzien is van een certificaat, een bestuurlijke boete opleggen van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, als dat meer is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, als de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
@@ -305,29 +276,29 @@ Als aan een aangewezen gegevensuitwisseling geen eisen zijn gesteld als bedoeld 
 
 #### Paragraaf 7. – Aanpassing andere wetten
 
-##### Artikel 7.1. (aanpassing [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864)
+##### Artikel 7.1. (aanpassing Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg
 
-Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.
+*Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.*
 
-##### Artikel 7.2. (aanpassing [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173))
+##### Artikel 7.2. (aanpassing Wet kwaliteit, klachten en geschillen zorg)
 
-Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
+*Wijzigt de Wet kwaliteit, klachten en geschillen zorg.*
 
-##### Artikel 7.3. (aanpassing [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705))
+##### Artikel 7.3. (aanpassing Wet publieke gezondheid)
 
-Wijzigt de Wet publieke gezondheid.
+*Wijzigt de Wet publieke gezondheid.*
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 #### Paragraaf 8. – Samenloopbepalingen
 
 ##### Artikel 8.1. (eerste samenloopbepaling)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8.2. (tweede samenloopbepaling)
 
-Vervallen
+*Vervallen*
 
 #### Paragraaf 9. – Slotbepalingen
 
@@ -342,5 +313,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 9.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet elektronische gegevensuitwisseling in de zorg.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

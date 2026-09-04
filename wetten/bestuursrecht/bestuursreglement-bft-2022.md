@@ -1,70 +1,43 @@
 ---
 title: "Bestuursreglement Bureau Financieel Toezicht"
+citeertitel: "Bestuursreglement BFT 2022"
 identifier: "BWBR0048846"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-10"
-last_updated: "2023-11-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048846"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16906073"
-version_id: "29711142"
-internal_id: "C42571621"
-label_id: "16817654"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048846/2023-11-10/0"
-intitule_bron: "Stcrt.2023-29952"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2022-05-24"
-intitule_published: "2023-11-09"
-intitule_in_force: "2023-11-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-29952"
-original_signed_date: "2022-05-24"
-original_published_date: "2023-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-29952"
-entry_into_force_date: "2023-11-10"
-jci_1_3: "jci1.3:c:BWBR0048846&z=2023-11-10&g=2023-11-10"
-jci_1_0: "1.0:c:BWBR0048846&g=2023-11-10"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement BFT 2022"
-signed_date: "2022-05-24"
-entry_into_force: "2023-11-10"
+publicatiedatum: 2023-11-10
+laatste_update: 2023-11-10
+status: geldig
+toestand: 2023-11-10
+bron: "https://wetten.overheid.nl/BWBR0048846"
+opgehaald: 2026-09-04
 ---
+
 # Bestuursreglement Bureau Financieel Toezicht
-
-Gelet op [110, zevende en negende lid, van de Wet op het Notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110) en [artikel 11, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11),
-
-Gelet op de vaststelling van het Bestuursreglement van het bestuur Bureau Financieel Toezicht d.d. 24 mei 2022,
-
-Gelet op de goedkeuring van de Minister voor Rechtsbescherming d.d. 12 juni 2023,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **Wna:** [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
+- a. *Wna:*
+ [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388);
 
-- b. **Gdw:** [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197);
+- b. *Gdw:*
+ [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197);
 
-- c. **Wwft:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+- c. *Wwft:*
+ [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- d. **BFT:** het Bureau Financieel Toezicht, zoals bedoeld in [artikel 110, eerste lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
+- d. *BFT:* het Bureau Financieel Toezicht, zoals bedoeld in [artikel 110, eerste lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
 
-- e. **Bestuur:** het bestuur van het BFT, zoals bedoeld in [artikel 110, derde, vierde, vijfde en zesde lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
+- e. *Bestuur:* het bestuur van het BFT, zoals bedoeld in [artikel 110, derde, vierde, vijfde en zesde lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
 
-- f. **Bestuurslid:** lid van het bestuur BFT;
+- f. *Bestuurslid:* lid van het bestuur BFT;
 
-- g. **Voorzitter:** bestuurslid, tevens voorzitter van het bestuur van het BFT;
+- g. *Voorzitter:* bestuurslid, tevens voorzitter van het bestuur van het BFT;
 
-- h. **Directeur:** de directeur BFT, zoals bedoeld in [artikel 110, zesde lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
+- h. *Directeur:* de directeur BFT, zoals bedoeld in [artikel 110, zesde lid, van de Wna](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110);
 
-- i. **Minister:** de Minister van Rechtsbescherming.
+- i. *Minister:* de Minister van Rechtsbescherming.
 
 ##### Artikel 2. Taken en werkzaamheden BFT
 
@@ -88,7 +61,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 7. De voorzitter en de bestuursleden onthouden zich van alles wat een goede taakvervulling van het BFT kan schaden.
 
-8. Een bestuurslid meldt het voornemen tot het aanvaarden van een nevenfunctie anders dan uit hoofde van zijn functie aan de minister. De lijst van nevenfuncties van de voorzitter en de bestuursleden is gepubliceerd op de website van het BFT: [www.bureauft.nl](onbekend).
+8. Een bestuurslid meldt het voornemen tot het aanvaarden van een nevenfunctie anders dan uit hoofde van zijn functie aan de minister. De lijst van nevenfuncties van de voorzitter en de bestuursleden is gepubliceerd op de website van het BFT: www.bureauft.nl.
 
 ##### Artikel 4. Werkwijze en procedure van het bestuur
 
@@ -162,7 +135,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 ##### Artikel 10. Jaarverslag en jaarrekening
 
-1. Het jaarverslag wordt voor 15 maart opgesteld en daarna aan de minister toegezonden.
+1. Het jaarverslag wordt voor 15 maart opgesteld en daarna aan de minister toegezonden.
 
 2. Tevens wordt het jaarverslag toegezonden aan de Minister van Financiën en aan beide Kamers der Staten-Generaal.
 

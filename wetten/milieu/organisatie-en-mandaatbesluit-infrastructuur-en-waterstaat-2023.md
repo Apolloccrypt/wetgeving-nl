@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat, van 8 mei 2023, nr. IENM/BSK-2023/96266, houdende vaststelling van de organisatie van het Ministerie van Infrastructuur en Waterstaat en verlening van mandaat, volmacht en machtiging aan de secretaris-generaal en de diensthoofden (Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023)"
+citeertitel: "Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023"
 identifier: "BWBR0048191"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-02-12"
-last_updated: "2026-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048191"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16752533"
-version_id: "29420142"
-internal_id: "C42066031"
-label_id: "16668944"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048191/2026-02-12/0"
-intitule_bron: "Stcrt.2023-13849"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-08"
-intitule_published: "2023-05-24"
-intitule_in_force: "2023-05-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13849"
-original_signed_date: "2023-05-08"
-original_published_date: "2023-05-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13849"
-entry_into_force_date: "2023-05-25"
-jci_1_3: "jci1.3:c:BWBR0048191&z=2026-02-12&g=2026-02-12"
-jci_1_0: "1.0:c:BWBR0048191&g=2026-02-12"
-citeertitel_status: "officieel"
-short_title: "Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023"
-signed_date: "2023-05-08"
-entry_into_force: "2023-05-25"
+publicatiedatum: 2023-05-25
+laatste_update: 2026-02-12
+status: geldig
+toestand: 2026-02-12
+bron: "https://wetten.overheid.nl/BWBR0048191"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Infrastructuur en Waterstaat, van 8 mei 2023, nr. IENM/BSK-2023/96266, houdende vaststelling van de organisatie van het Ministerie van Infrastructuur en Waterstaat en verlening van mandaat, volmacht en machtiging aan de secretaris-generaal en de diensthoofden (Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023)
-
-Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), [10:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:11) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen organisatie en mandaat
 
@@ -46,25 +20,25 @@ BESLUIT:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bewindspersoon:** Minister van Infrastructuur en Waterstaat of Staatssecretaris van Infrastructuur en Waterstaat;
+- *bewindspersoon:* Minister van Infrastructuur en Waterstaat of Staatssecretaris van Infrastructuur en Waterstaat;
 
-- **dienst:** onderdeel van het ministerie, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
+- *dienst:* onderdeel van het ministerie, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
 
-- **diensthoofd:** persoon die overeenkomstig dit besluit, dan wel overeenkomstig overige wet- en regelgeving, is belast met de leiding van een dienst;
+- *diensthoofd:* persoon die overeenkomstig dit besluit, dan wel overeenkomstig overige wet- en regelgeving, is belast met de leiding van een dienst;
 
-- **dienstonderdeel:** onderdeel van een dienst;
+- *dienstonderdeel:* onderdeel van een dienst;
 
-- **dienstonderdeelhoofd:** persoon die overeenkomstig dit besluit, dan wel overeenkomstig overige wet- en regelgeving, is belast met de leiding van een dienstonderdeel;
+- *dienstonderdeelhoofd:* persoon die overeenkomstig dit besluit, dan wel overeenkomstig overige wet- en regelgeving, is belast met de leiding van een dienstonderdeel;
 
-- **functionaris:** persoon die krachtens een arbeidsovereenkomst of krachtens een andere overeenkomst naar burgerlijk recht werkzaam is bij het ministerie;
+- *functionaris:* persoon die krachtens een arbeidsovereenkomst of krachtens een andere overeenkomst naar burgerlijk recht werkzaam is bij het ministerie;
 
-- **ministerie:** Ministerie van Infrastructuur en Waterstaat;
+- *ministerie:* Ministerie van Infrastructuur en Waterstaat;
 
-- **plaatsvervangend secretaris-generaal:** plaatsvervangend secretaris-generaal als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2026-02-12&g=2026-02-12);
+- *plaatsvervangend secretaris-generaal:* plaatsvervangend secretaris-generaal als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2026-02-12&g=2026-02-12);
 
-- **secretaris van adviesorgaan:** secretaris van een adviesorgaan, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
+- *secretaris van adviesorgaan:* secretaris van een adviesorgaan, genoemd in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
 
-- **secretaris-generaal:** secretaris-generaal van het ministerie.
+- *secretaris-generaal:* secretaris-generaal van het ministerie.
 
 ### Hoofdstuk 2. Organisatie
 
@@ -122,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Taken secretaris-generaal
 
-1. De secretaris-generaal is overeenkomstig het [Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499) belast met de ambtelijke leiding van al hetgeen het ministerie betreft.
+1. De secretaris-generaal is overeenkomstig het [Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499) belast met de ambtelijke leiding van al hetgeen het ministerie betreft.
 
 2. Bij afwezigheid of verhindering van de secretaris-generaal en ten aanzien van specifieke, bij instructie van de secretaris-generaal aangewezen taken, is de plaatsvervangend secretaris-generaal bevoegd om als zodanig als plaatsvervanger op te treden.
 
@@ -190,45 +164,45 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de directie Luchtvaart: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de aansluiting op het mondiale luchtvaartnetwerk;
+   - 1°. de aansluiting op het mondiale luchtvaartnetwerk;
 
-- 2°. de bevordering van verduurzaming van de luchtvaart;
+   - 2°. de bevordering van verduurzaming van de luchtvaart;
 
-- 3°. regionale luchthavens;
+   - 3°. regionale luchthavens;
 
-- 4°. de veiligheid en beveiliging in de luchtvaart; en
+   - 4°. de veiligheid en beveiliging in de luchtvaart; en
 
-- 5°. het gebruik van het luchtruim, alsmede de luchtverkeersdienstverlening;
+   - 5°. het gebruik van het luchtruim, alsmede de luchtverkeersdienstverlening;
 
 - b. de directie Maritieme Zaken: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. zeehavens en zeevaart, waaronder de maritieme toegang tot zeehavens;
+   - 1°. zeehavens en zeevaart, waaronder de maritieme toegang tot zeehavens;
 
-- 2°. het vervoer over water en de Nederlandse binnenvaart;
+   - 2°. het vervoer over water en de Nederlandse binnenvaart;
 
-- 3°. de instandhouding en gebruik van het hoofdvaarwegennet;
+   - 3°. de instandhouding en gebruik van het hoofdvaarwegennet;
 
-- 4°. maritieme veiligheid en security;
+   - 4°. maritieme veiligheid en security;
 
-- 5°. verduurzaming van de scheepvaart; en
+   - 5°. verduurzaming van de scheepvaart; en
 
-- 6°. bevorderen van multimodaal goederenvervoer en gebruik van buisleidingen;
+   - 6°. bevorderen van multimodaal goederenvervoer en gebruik van buisleidingen;
 
 - c. de programmadirectie Omgeving Luchthaven Schiphol:
 
-- 1°. de besluitvorming over de ontwikkeling van Schiphol;
+   - 1°. de besluitvorming over de ontwikkeling van Schiphol;
 
-- 2°. het verminderen van geluidbelasting, geluidhinder en schadelijke stoffenuitstoot veroorzaakt door vliegverkeer; en
+   - 2°. het verminderen van geluidbelasting, geluidhinder en schadelijke stoffenuitstoot veroorzaakt door vliegverkeer; en
 
-- 3°. de ruimtelijke kwaliteit rond Schiphol;
+   - 3°. de ruimtelijke kwaliteit rond Schiphol;
 
 - d. de directie Luchtruimvernieuwing:
 
-- 1°. de realisatie van rijkskaders voor het vliegveld Lelystad;
+   - 1°. de realisatie van rijkskaders voor het vliegveld Lelystad;
 
-- 2°. de herziening van het luchtruim; en
+   - 2°. de herziening van het luchtruim; en
 
-- 3°. het ontwikkelen en implementeren van beleid met betrekking tot onbemande luchtvaart;
+   - 3°. het ontwikkelen en implementeren van beleid met betrekking tot onbemande luchtvaart;
 
 - e. het stafbureau directoraat-generaal Luchtvaart en Maritieme Zaken: het ondersteunen van het directoraat-generaal Luchtvaart en Maritieme Zaken.
 
@@ -260,41 +234,41 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de directie Duurzame Leefomgeving en Circulaire Economie: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de transitie naar een circulaire economie door:
+   - 1°. de transitie naar een circulaire economie door:
 
-- i. het vitaal houden van het natuurlijk kapitaal;
+      - i. het vitaal houden van het natuurlijk kapitaal;
 
-- ii. het verduurzamen van afval- en grondstoffenbeleid; en
+      - ii. het verduurzamen van afval- en grondstoffenbeleid; en
 
-- iii. het versterken van een op de transitie gericht instrumentarium;
+      - iii. het versterken van een op de transitie gericht instrumentarium;
 
-- 2°. de luchtkwaliteit en geluidhinder; en
+   - 2°. de luchtkwaliteit en geluidhinder; en
 
-- 3°. de luchtemissies industrie;
+   - 3°. de luchtemissies industrie;
 
 - b. de directie Internationaal:
 
-- 1°. advisering ten behoeve van de bewindspersoon en de ambtelijke leiding op het terrein van internationale strategie en beleidsvorming;
+   - 1°. advisering ten behoeve van de bewindspersoon en de ambtelijke leiding op het terrein van internationale strategie en beleidsvorming;
 
-- 2°. het verbinden van de internationale context met de nationale beleidsontwikkelingen;
+   - 2°. het verbinden van de internationale context met de nationale beleidsontwikkelingen;
 
-- 3°. het ontwikkelen en implementeren van beleid met betrekking tot plaats- en tijdbepaling door middel van Global Navigation Satellite Systems (GNSS), andere al dan niet op ruimtevaart gebaseerde technologieën voor plaats- en tijdbepaling en aardobservatie;
+   - 3°. het ontwikkelen en implementeren van beleid met betrekking tot plaats- en tijdbepaling door middel van Global Navigation Satellite Systems (GNSS), andere al dan niet op ruimtevaart gebaseerde technologieën voor plaats- en tijdbepaling en aardobservatie;
 
-- 4°. het waarborgen van de kwaliteit en coherentie van het beleid van het ministerie in het internationale veld; en
+   - 4°. het waarborgen van de kwaliteit en coherentie van het beleid van het ministerie in het internationale veld; en
 
-- 5°. het coördineren en regisseren van de internationale functie binnen het ministerie;
+   - 5°. het coördineren en regisseren van de internationale functie binnen het ministerie;
 
 - c. de directie Omgevingsveiligheid en Milieurisico’s: het ontwikkelen en implementeren van beleid met betrekking tot omgevingsveiligheid en milieurisico’s op het gebied van:
 
-- 1°. het vervoer van gevaarlijke stoffen via weg, water, spoor en buisleidingen en door tunnels;
+   - 1°. het vervoer van gevaarlijke stoffen via weg, water, spoor en buisleidingen en door tunnels;
 
-- 2°. gevaarlijke stoffen en nieuwe risico’s, waaronder chemische stoffen, nanodeeltjes, genetisch gemodificeerde organismen en asbest;
+   - 2°. gevaarlijke stoffen en nieuwe risico’s, waaronder chemische stoffen, nanodeeltjes, genetisch gemodificeerde organismen en asbest;
 
-- 3°. gevaarlijke stoffen in risicovolle bedrijven en de omgeving daarvan;
+   - 3°. gevaarlijke stoffen in risicovolle bedrijven en de omgeving daarvan;
 
-- 4°. biociden en gewasbeschermingsmiddelen buiten de landbouw; en
+   - 4°. biociden en gewasbeschermingsmiddelen buiten de landbouw; en
 
-- 5°. nucleaire veiligheid en stralingsbescherming;
+   - 5°. nucleaire veiligheid en stralingsbescherming;
 
 - d. het stafbureau directoraat-generaal Milieu en Internationaal: het ondersteunen van het directoraat-generaal Milieu en Internationaal.
 
@@ -318,7 +292,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. het stafbureau directoraat-generaal Mobiliteit.
 
-3. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder f, staat onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder g, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, bestaan uit afdelingen en programma’s die onder leiding staan van een afdelingshoofd respectievelijk een programmamanager.
+3. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, staan onder leiding van een directeur. Het dienstonderdeel, genoemd in het tweede lid, onder f, staat onder leiding van een programmadirecteur. Het dienstonderdeel, genoemd in het tweede lid, onder g, staat onder leiding van een afdelingshoofd. De dienstonderdelen, genoemd in het tweede lid, onder a tot en met e, bestaan uit afdelingen en programma’s die onder leiding staan van een afdelingshoofd respectievelijk een programmamanager.
 
 4. Bij afwezigheid of verhindering van de directeur-generaal Mobiliteit zijn de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal en Water en Bodem, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2026-02-12&g=2026-02-12), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=6&z=2026-02-12&g=2026-02-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-02-12&g=2026-02-12), en de directeuren en de programmadirecteuren bevoegd om als plaatsvervanger op te treden.
 
@@ -332,65 +306,65 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de directie Openbaar Vervoer en Spoor: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. het openbaar vervoer en ander personenvervoer;
+   - 1°. het openbaar vervoer en ander personenvervoer;
 
-- 2°. het beheer, gebruik en aanleg van de hoofdspoorweginfrastructuur en spoorwegen;
+   - 2°. het beheer, gebruik en aanleg van de hoofdspoorweginfrastructuur en spoorwegen;
 
-- 3°. het goederenvervoer per spoor; en
+   - 3°. het goederenvervoer per spoor; en
 
-- 4°. de veiligheid op en rond het spoor;
+   - 4°. de veiligheid op en rond het spoor;
 
 - b. de directie Wegen en Verkeersveiligheid: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de aanleg van het hoofdwegennet;
+   - 1°. de aanleg van het hoofdwegennet;
 
-- 2°. slim gebruik en onderhoud van het hoofdwegennet en goederenvervoer over de weg;
+   - 2°. slim gebruik en onderhoud van het hoofdwegennet en goederenvervoer over de weg;
 
-- 3°. de inpassing van wegen in relatie tot milieu en natuur alsmede bereikbaarheid; en
+   - 3°. de inpassing van wegen in relatie tot milieu en natuur alsmede bereikbaarheid; en
 
-- 4°. veilig verkeer en vervoer;
+   - 4°. veilig verkeer en vervoer;
 
 - c. de directie Mobiliteit en Gebieden:
 
-- 1°. de departementbrede systeemverantwoordelijkheid voor het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT);
+   - 1°. de departementbrede systeemverantwoordelijkheid voor het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT);
 
-- 2°. het bijdragen aan samenwerking en afstemming tussen partijen met het oog op investeringen in het ruimtelijke-fysieke domein;
+   - 2°. het bijdragen aan samenwerking en afstemming tussen partijen met het oog op investeringen in het ruimtelijke-fysieke domein;
 
-- 3°. het realiseren, stimuleren en coördineren van beleid en activiteiten op het gebied van:
+   - 3°. het realiseren, stimuleren en coördineren van beleid en activiteiten op het gebied van:
 
-- i. integrale mobiliteitsaanpak en bereikbaarheidsprogramma’s in de vijf MIRT-gebieden en voor stedelijke bereikbaarheid;
+      - i. integrale mobiliteitsaanpak en bereikbaarheidsprogramma’s in de vijf MIRT-gebieden en voor stedelijke bereikbaarheid;
 
-- ii. toekomstbestendigheid van het MIRT, de spelregels en het gehele MIRT-proces;
+      - ii. toekomstbestendigheid van het MIRT, de spelregels en het gehele MIRT-proces;
 
-- iii. integrale besluitvorming over en uitvoering van MIRT-onderzoeken en -verkenningen;
+      - iii. integrale besluitvorming over en uitvoering van MIRT-onderzoeken en -verkenningen;
 
-- iv. stadslogistiek en goederenvervoer binnen het directoraat-generaal Mobiliteit; en
+      - iv. stadslogistiek en goederenvervoer binnen het directoraat-generaal Mobiliteit; en
 
-- v. het bereikbaar maken van nieuwe woningbouw;
+      - v. het bereikbaar maken van nieuwe woningbouw;
 
 - d. de directie Innovatie en Strategie voor Mobiliteit: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. het waarborgen van integrale beleids- en visievorming van het directoraat-generaal Mobiliteit en het directoraat-generaal Luchtvaart en Maritieme Zaken;
+   - 1°. het waarborgen van integrale beleids- en visievorming van het directoraat-generaal Mobiliteit en het directoraat-generaal Luchtvaart en Maritieme Zaken;
 
-- 2°. het bevorderen van de toepassing van innovatieve mogelijkheden binnen het mobiliteitsterrein; en
+   - 2°. het bevorderen van de toepassing van innovatieve mogelijkheden binnen het mobiliteitsterrein; en
 
-- 3°. het verbeteren van de sturing en beheersing van het Mobiliteitsfonds en het aanboren en vergroten van financiering van de IenW-opgaven;
+   - 3°. het verbeteren van de sturing en beheersing van het Mobiliteitsfonds en het aanboren en vergroten van financiering van de IenW-opgaven;
 
 - e. de directie Duurzame Mobiliteit: het realiseren, beheren, stimuleren en faciliteren van strategie, coördinatie, aanpak en maatregelen met betrekking tot:
 
-- 1°. duurzame mobiliteit;
+   - 1°. duurzame mobiliteit;
 
-- 2°. CO2-reductie voor de Nederlandse mobiliteits- en transportsector;
+   - 2°. CO2-reductie voor de Nederlandse mobiliteits- en transportsector;
 
-- 3°. fietsen en lopen; en
+   - 3°. fietsen en lopen; en
 
-- 4°. het beleid op het gebied van voertuigemissies en brandstoffen;
+   - 4°. het beleid op het gebied van voertuigemissies en brandstoffen;
 
 - f. de programmadirectie Vrachtwagenheffing en tijdelijke tolheffing: het realiseren, stimuleren en faciliteren van strategie, coördinatie, aanpak en maatregelen met betrekking tot:
 
-- 1°. het programma Vrachtwagenheffing dat bestaat uit de invoering van een kilometerheffing voor vrachtwagens en een terugsluis naar verduurzaming en innovatie; en
+   - 1°. het programma Vrachtwagenheffing dat bestaat uit de invoering van een kilometerheffing voor vrachtwagens en een terugsluis naar verduurzaming en innovatie; en
 
-- 2°. het project Tijdelijke Tolheffing dat de exploitatie van een tolheffing op het snelwegtraject Blankenburgverbinding en de invoering van de tolheffing op het snelwegtraject ViA15 betreft;
+   - 2°. het project Tijdelijke Tolheffing dat de exploitatie van een tolheffing op het snelwegtraject Blankenburgverbinding en de invoering van de tolheffing op het snelwegtraject ViA15 betreft;
 
 - g. het stafbureau directoraat-generaal Mobiliteit: het ondersteunen van het directoraat-generaal Mobiliteit.
 
@@ -426,61 +400,61 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. de directie Bodem, Ruimte en Klimaatadaptatie: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de bodem en ondergrond;
+   - 1°. de bodem en ondergrond;
 
-- 2°. de relatie tussen de ruimtelijk ordening en het water- en bodembeleid;
+   - 2°. de relatie tussen de ruimtelijk ordening en het water- en bodembeleid;
 
-- 3°. de bevordering van innovatie en kennis in het waterdomein;
+   - 3°. de bevordering van innovatie en kennis in het waterdomein;
 
-- 4°. de klimaatadaptatie en nationale adaptatiestrategie; en
+   - 4°. de klimaatadaptatie en nationale adaptatiestrategie; en
 
-- 5°. het stelsel van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) voor het gehele IenW domein;
+   - 5°. het stelsel van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) voor het gehele IenW domein;
 
 - b. de directie Waterkwaliteit en Grote Wateren: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de waterkwaliteit en zoetwater;
+   - 1°. de waterkwaliteit en zoetwater;
 
-- 2°. de drinkwatervoorziening en het rioleringsbeheer;
+   - 2°. de drinkwatervoorziening en het rioleringsbeheer;
 
-- 3°. de stoffen in water en bodem;
+   - 3°. de stoffen in water en bodem;
 
-- 4°. het grondwaterbeheer;
+   - 4°. het grondwaterbeheer;
 
-- 5°. de Wadden en Eems Dollard;
+   - 5°. de Wadden en Eems Dollard;
 
-- 6°. de gebiedsstudies grote wateren IJsselmeer en Zuidwestelijke Delta; en
+   - 6°. de gebiedsstudies grote wateren IJsselmeer en Zuidwestelijke Delta; en
 
-- 7°. het bestuur en de instrumentatie van het waterbeheer;
+   - 7°. het bestuur en de instrumentatie van het waterbeheer;
 
 - c. de directie Waterveiligheid, Rivieren en Zee: het ontwikkelen en implementeren van beleid met betrekking tot:
 
-- 1°. de waterveiligheid;
+   - 1°. de waterveiligheid;
 
-- 2°. de coördinatie van het opdrachtgeverschap van het Deltaprogramma;
+   - 2°. de coördinatie van het opdrachtgeverschap van het Deltaprogramma;
 
-- 3°. de uitvoering en financiering van en toezicht op het waterbeleid;
+   - 3°. de uitvoering en financiering van en toezicht op het waterbeleid;
 
-- 4°. het monitoren en evalueren van het waterbeleid;
+   - 4°. het monitoren en evalueren van het waterbeleid;
 
-- 5°. de Rijnmond Drechtsteden; en
+   - 5°. de Rijnmond Drechtsteden; en
 
-- 6°. de Noordzee, de Caribische zee en oceanen;
+   - 6°. de Noordzee, de Caribische zee en oceanen;
 
 - d. de programmadirectie Klimaatadaptatie en Water Internationaal: het ontwikkelen en implementeren van (internationaal) beleid met betrekking tot klimaatadaptatie en water met een focus op:
 
-- 1°. de watergerelateerde Sustainable Development Goals van Agenda 2030;
+   - 1°. de watergerelateerde Sustainable Development Goals van Agenda 2030;
 
-- 2°. de klimaatadaptatie in het Klimaatakkoord van Parijs; en
+   - 2°. de klimaatadaptatie in het Klimaatakkoord van Parijs; en
 
-- 3°. de uitvoering van de internationale wateraanpak;
+   - 3°. de uitvoering van de internationale wateraanpak;
 
 - e. de Unit Instandhouding:
 
-- 1°. treedt op als de systeemeigenaar van het wegennet, vaarwegennet en de watersystemen;
+   - 1°. treedt op als de systeemeigenaar van het wegennet, vaarwegennet en de watersystemen;
 
-- 2°. zorgt voor de verbetering van de prestaties op deze netwerken; en
+   - 2°. zorgt voor de verbetering van de prestaties op deze netwerken; en
 
-- 3°. werkt samen met RWS en andere belanghebbenden aan een toekomstbestendige en efficiënte instandhouding;
+   - 3°. werkt samen met RWS en andere belanghebbenden aan een toekomstbestendige en efficiënte instandhouding;
 
 - f. het stafbureau directoraat-generaal Water en Bodem: het ondersteunen van het directoraat-generaal Water en Bodem.
 
@@ -572,7 +546,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Plaatsvervanging geschiedt voor het overige overeenkomstig daartoe strekkende instructies van de concerndirecteur Financieel-Economische Zaken.
 
-5. De concerndirectie Financieel-Economische Zaken heeft de volgende taken: advisering conform de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), de taken, bedoeld in het [Besluit FEZ van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0041910), de zorg voor de begrotingszaken en de daarmee samenhangende administraties, de zorg voor de departementale financiële functie en de departementale beleidstaken op het gebied van inkoop (de rol van Coördinerend Directeur Inkoop, bedoeld in het Taakbesluit CPO (Chief Procurement Officer) Rijk en het Taakbesluit CDI (Coördinerend Directeur Inkoop), zoals vastgesteld in de ICBR van 16 maart 2021).
+5. De concerndirectie Financieel-Economische Zaken heeft de volgende taken: advisering conform de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), de taken, bedoeld in het [Besluit FEZ van het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0041910), de zorg voor de begrotingszaken en de daarmee samenhangende administraties, de zorg voor de departementale financiële functie en de departementale beleidstaken op het gebied van inkoop (de rol van Coördinerend Directeur Inkoop, bedoeld in het Taakbesluit CPO (Chief Procurement Officer) Rijk en het Taakbesluit CDI (Coördinerend Directeur Inkoop), zoals vastgesteld in de ICBR van 16 maart 2021).
 
 ##### Artikel 14. Concerndirectie Informatiebeleid
 
@@ -600,7 +574,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De concerndirectie Mens en Organisatie heeft de volgende taken: de departementale kaderstelling, control en advisering van de secretaris-generaal op het terrein van mens en organisatie, de zorg inzake goed werkgeverschap, rechtspositionele aangelegenheden, overleg met bonden en de medezeggenschap, duurzaamheid, huisvesting en integriteit.
 
-6. De Functionaris Gegevensbescherming, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming, is ondergebracht bij de concerndirectie Mens en Organisatie.
+6. De Functionaris Gegevensbescherming, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming, is ondergebracht bij de concerndirectie Mens en Organisatie.
 
 ##### Artikel 16. Directie Eigenaarsadvisering
 
@@ -738,17 +712,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. het aanwijzen van conformiteitsbeoordelingsinstanties als bedoeld in [artikel 26v, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26v);
 
-- h. het aanmelden van beoordelingsinstanties als bedoeld in artikel 6 van [Uitvoeringsverordening (EU) nr. 402/2013](32013R0402) van de Commissie van 30 april 2013 betreffende de gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling en tot intrekking van [Verordening (EG) nr. 352/2009](32009R0352) (PbEU 2013, L 121);
+- h. het aanmelden van beoordelingsinstanties als bedoeld in artikel 6 van Uitvoeringsverordening (EU) nr. 402/2013 van de Commissie van 30 april 2013 betreffende de gemeenschappelijke veiligheidsmethode voor risico-evaluatie en -beoordeling en tot intrekking van Verordening (EG) nr. 352/2009 (PbEU 2013, L 121);
 
-- i. het uitvoeren van de taken van de aanmeldende autoriteit, bedoeld in artikel 19, eerste lid, van Gedelegeerde [verordening (EU) 2019/945](32845R2019) van de Europese Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L152/1);
+- i. het uitvoeren van de taken van de aanmeldende autoriteit, bedoeld in artikel 19, eerste lid, van Gedelegeerde verordening (EU) 2019/945 van de Europese Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L152/1);
 
-- j. de taken van de markttoezichtautoriteit als bedoeld in artikel 35, eerste lid, van Gedelegeerde [verordening (EU) 2019/945](32845R2019) van de Europese Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L152/1).
+- j. de taken van de markttoezichtautoriteit als bedoeld in artikel 35, eerste lid, van Gedelegeerde verordening (EU) 2019/945 van de Europese Commissie van 12 maart 2019 inzake onbemande luchtvaartuigsystemen en uit derde landen afkomstige exploitanten van onbemande luchtvaartuigsystemen (PbEU 2019, L152/1).
 
 6. Onverminderd het bepaalde in het vierde en vijfde lid kan de Inspectie Leefomgeving en Transport specifieke taken uitvoeren die voortvloeien uit verdragsrechtelijke verplichtingen of Europese regelgeving, waaronder:
 
-- a. de taken van de nationale veiligheidsinstantie, bedoeld in artikel 16, tweede lid, van [Richtlijn (EU) 2016/798](32016L0798) van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102), voor zover het niet betreft het vaststellen of wijzigen van algemeen verbindende voorschriften;
+- a. de taken van de nationale veiligheidsinstantie, bedoeld in artikel 16, tweede lid, van Richtlijn (EU) 2016/798 van het Europees Parlement en de Raad van 11 mei 2016 inzake veiligheid op het spoor (PbEU 2016, L 138/102), voor zover het niet betreft het vaststellen of wijzigen van algemeen verbindende voorschriften;
 
-- b. de taken van de nationale toezichthoudende instantie, bedoeld in artikel 4, eerste lid, van [Verordening (EG) nr. 549/2004](32004R0549) van het Europees Parlement en de Raad van 10 maart 2004 tot vaststelling van het kader voor de totstandbrenging van het gemeenschappelijke Europese luchtruim (de kaderverordening) (PbEG L 96/1).
+- b. de taken van de nationale toezichthoudende instantie, bedoeld in artikel 4, eerste lid, van Verordening (EG) nr. 549/2004 van het Europees Parlement en de Raad van 10 maart 2004 tot vaststelling van het kader voor de totstandbrenging van het gemeenschappelijke Europese luchtruim (de kaderverordening) (PbEG L 96/1).
 
 7. De Inspectie Leefomgeving en Transport kan handhavende taken verrichten op het werkterrein van andere ministeries.
 
@@ -880,15 +854,15 @@ Aan de secretaris-generaal is voorbehouden de bevoegdheid tot:
 
 - b. de directeuren-generaal Luchtvaart en Maritieme Zaken, Milieu en Internationaal, Mobiliteit, Water en Bodem en Rijkswaterstaat, de hoofddirecteuren Bestuurlijke en Juridische Zaken en KNMI, de programmadirecteuren, de directeur Planbureau voor de Leefomgeving en de inspecteur-generaal Leefomgeving en Transport: het nemen van een besluit op verzoek om informatie, bedoeld in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- c. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in [artikel 9, achtste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2026-02-12&g=2026-02-12), met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;
+- c. de hoofddirecteur Bestuurlijke en Juridische Zaken: de bevoegdheden inzake het behandelen van bezwaarschriften en het vertegenwoordigen van de bewindspersoon in bestuursrechtelijke procedures, bedoeld in [artikel 9, achtste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=9&z=2026-02-12&g=2026-02-12), met uitzondering van bezwaarschriften en bestuursrechtelijke procedures die verband houden met de taken van de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat, alsmede de ambtelijke rechtspositie;
 
 - d. de directeur Uitvoering en Decentraal Advies en Control:
 
-- i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
+   - i. het voeren van de personeels- en salarisadministratie voor alle onderdelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-02-12&g=2026-02-12);
 
-- ii. het vaststellen van documentatie conform de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de daarop berustende regelgeving ten behoeve van de documentaire informatiebeleid, behoudens bij instructie te bepalen uitzonderingen, welke worden vastgelegd in de beheersregels, bedoeld in [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), voor de onderdelen van het ministerie, met uitzondering van het Planbureau voor de Leefomgeving, en het directoraat-generaal Rijkswaterstaat;
+   - ii. het vaststellen van documentatie conform de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en de daarop berustende regelgeving ten behoeve van de documentaire informatiebeleid, behoudens bij instructie te bepalen uitzonderingen, welke worden vastgelegd in de beheersregels, bedoeld in [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14), voor de onderdelen van het ministerie, met uitzondering van het Planbureau voor de Leefomgeving, en het directoraat-generaal Rijkswaterstaat;
 
-- iii. de zorg voor gebouwgebonden veiligheid, waaronder brandpreventie en bedrijfshulpverlening bij alle gebouwen en vitale objecten van het ministerie, met uitzondering van die gebouwen waarvan het gebouwbeheer onder verantwoordelijkheid staat van het Planbureau voor de Leefomgeving, het Koninklijk Nederlands Meteorologisch Instituut, de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat; en
+   - iii. de zorg voor gebouwgebonden veiligheid, waaronder brandpreventie en bedrijfshulpverlening bij alle gebouwen en vitale objecten van het ministerie, met uitzondering van die gebouwen waarvan het gebouwbeheer onder verantwoordelijkheid staat van het Planbureau voor de Leefomgeving, het Koninklijk Nederlands Meteorologisch Instituut, de Inspectie Leefomgeving en Transport en het directoraat-generaal Rijkswaterstaat; en
 
 - e. de directeur-generaal Rijkswaterstaat: de inkoop van energie voor gebruik door het ministerie.
 
@@ -978,6 +952,8 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 7. Het eerste en tweede lid zijn niet van toepassing op bevoegdheden betreffende de ambtelijke rechtspositie.
 
+### Hoofdstuk 5. Slotbepalingen
+
 ##### Artikel 38. Intrekking oud Organisatie- en Mandaatbesluit
 
 1. Het [Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610) wordt ingetrokken.
@@ -986,9 +962,7 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 3. Na de inwerkingtreding van dit besluit berust het [Protocol KiM 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046209) op [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=19&z=2026-02-12&g=2026-02-12) van dit besluit.
 
-### Hoofdstuk 5. Slotbepalingen
-
-##### Artikel 39. Intrekking [Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032)
+##### Artikel 39. Intrekking Instellingsbesluit Inspectie Leefomgeving en Transport
 
 1. Het [Instellingsbesluit Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0031032) wordt ingetrokken.
 
@@ -996,18 +970,8 @@ DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN WATERSTAAT.
 
 ##### Artikel 40. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 8, tweede lid, onder e, en achtste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-02-12&g=2026-02-12), die in werking treden met ingang van 1 juli 2023.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, met uitzondering van [artikel 8, tweede lid, onder e, en achtste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2026-02-12&g=2026-02-12), die in werking treden met ingang van 1 juli 2023.
 
 ##### Artikel 41. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023.
-
-##### Artikel 42. Citeertitel
-
-Dit besluit wordt aangehaald als: Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-### Hoofdstuk 5. Slotbepalingen
-
-Dit besluit zal in de Staatscourant worden geplaatst.

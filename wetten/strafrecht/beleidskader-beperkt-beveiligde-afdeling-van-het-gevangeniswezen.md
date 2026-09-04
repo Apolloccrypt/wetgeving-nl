@@ -1,55 +1,43 @@
 ---
 title: "Beleidskader Beperkt Beveiligde Afdeling van het Gevangeniswezen"
 identifier: "BWBR0048836"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-11-02"
-last_updated: "2023-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048836"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16904083"
-version_id: "29708512"
-internal_id: "C42567281"
-label_id: "16816154"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048836/2023-11-02/0"
-intitule_bron: "Stcrt.2023-30008"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-11"
-intitule_published: "2023-11-02"
-intitule_in_force: "2023-11-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30008"
-original_signed_date: "2023-10-11"
-original_published_date: "2023-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30008"
-entry_into_force_date: "2023-11-02"
-jci_1_3: "jci1.3:c:BWBR0048836&z=2023-11-02&g=2023-11-02"
-jci_1_0: "1.0:c:BWBR0048836&g=2023-11-02"
-citeertitel_status: "redactioneel"
-signed_date: "2023-10-11"
-entry_into_force: "2023-11-02"
+publicatiedatum: 2023-11-02
+laatste_update: 2023-11-02
+status: geldig
+toestand: 2023-11-02
+bron: "https://wetten.overheid.nl/BWBR0048836"
+opgehaald: 2026-09-04
 ---
+
 # Beleidskader Beperkt Beveiligde Afdeling van het Gevangeniswezen
 
 ### Inleiding
 
-Op 17 juni 2018 bood de Minister voor Rechtsbescherming de visie ‘Recht doen, kansen bieden; naar effectievere gevangenisstraffen’ bij de kamer aan. Een visie waarin een effectieve tenuitvoerlegging van gevangenisstraffen recht moet doen aan vergelding en bij moet dragen aan een veiligere samenleving door herhaald crimineel gedrag te voorkomen. Eén van de middelen om dit te bereiken is een goede re-integratie van (ex-) gedetineerden in de samenleving. Het beleid gaat ervan uit dat de kans op recidive kleiner wordt wanneer overheden en betrokken instanties investeren in een aantal basisvoorwaarden waar gedetineerden al tijdens hun detentie aan werken.
+Op 17 juni 2018 bood de Minister voor Rechtsbescherming de visie ‘Recht doen, kansen bieden; naar effectievere gevangenisstraffen’ bij de kamer aan. Een visie waarin een effectieve tenuitvoerlegging van gevangenisstraffen recht moet doen aan vergelding en bij moet dragen aan een veiligere samenleving door herhaald crimineel gedrag te voorkomen. Eén van de middelen om dit te bereiken is een goede re-integratie van (ex-) gedetineerden in de samenleving. Het beleid gaat ervan uit dat de kans op recidive kleiner wordt wanneer overheden en betrokken instanties investeren in een aantal basisvoorwaarden waar gedetineerden al tijdens hun detentie aan werken.
 
 Re-integratie-maatregelen voor (ex-)gedetineerden zijn bedoeld om aan vijf basisvoorwaarden voor maatschappelijke (re-)integratie te voldoen;
 
-Deze vijf punten worden als schakels gezien naar een succesvolle maatschappelijke re-integratie. In de handreiking Bestuurlijk akkoord, van 19 december 2019, is aan de vijf basisvoorwaarden ook het sociale netwerk toegevoegd.
+- 1. het hebben van een identiteitsbewijs,
 
-Het gevangeniswezen, de reclassering en de gemeente ondersteunen de gedetineerde bij het op orde krijgen van deze vijf basisvoorwaarden en het sociale netwerk. Dit gebeurt op een herstelgerichte wijze. Alle werkzaamheden en activiteiten door personeel die een bijdrage kunnen leveren aan een of meerdere lagen van herstel worden met de term ‘herstelgericht werken’ aangeduid1Goulding, D., Hall, G., & Steels, B. (2008). Restorative prisons: Towards radical prisonreform. **Current Issues in Criminal Justice**, **20**(2), 231-242..
+- 2. werk/inkomen,
 
-Ingevolge de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990), welke op 1 juli 2021 is ingegaan, dient verlof gekoppeld te zijn aan een re-integratiedoel. Ten aanzien van de basisvoorwaarden werk en inkomen is het mogelijk om re-integratieverlof voor extramurale arbeid toegekend te krijgen. Gedetineerden aan wie dit wordt toegekend worden geplaatst in/op een Beperkt Beveiligde Afdeling (BBA).
+- 3. huisvesting,
 
-Voor u ligt het beleidskader voor de inrichting van de Beperkt Beveiligde Afdeling zoals omschreven in de wet. Dit beleidskader is op 1 juli 2021 vastgesteld en op grond van een aantal door de Minister voor Rechtsbescherming goedgekeurde beleidswijzigingen per 01 oktober 2023 opnieuw vastgesteld.
+- 4. toegang tot schuld-hulpverlening,
 
-Het [beleidskader BBA](https://wetten.overheid.nl/jci1.3:c:BWBR0046864), zoals gepubliceerd in de Staatcourant van 07 juli 2022 met nummer 18437 wordt hierbij ingetrokken.
+- 5. toegang tot zorg.
+
+Deze vijf punten worden als schakels gezien naar een succesvolle maatschappelijke re-integratie. In de handreiking Bestuurlijk akkoord, van 19 december 2019, is aan de vijf basisvoorwaarden ook het sociale netwerk toegevoegd.
+
+Het gevangeniswezen, de reclassering en de gemeente ondersteunen de gedetineerde bij het op orde krijgen van deze vijf basisvoorwaarden en het sociale netwerk. Dit gebeurt op een herstelgerichte wijze. Alle werkzaamheden en activiteiten door personeel die een bijdrage kunnen leveren aan een of meerdere lagen van herstel worden met de term ‘herstelgericht werken’ aangeduid1Goulding, D., Hall, G., & Steels, B. (2008). Restorative prisons: Towards radical prisonreform. *Current Issues in Criminal Justice*, *20*(2), 231-242..
+
+Ingevolge de [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990), welke op 1 juli 2021 is ingegaan, dient verlof gekoppeld te zijn aan een re-integratiedoel. Ten aanzien van de basisvoorwaarden werk en inkomen is het mogelijk om re-integratieverlof voor extramurale arbeid toegekend te krijgen. Gedetineerden aan wie dit wordt toegekend worden geplaatst in/op een Beperkt Beveiligde Afdeling (BBA).
+
+Voor u ligt het beleidskader voor de inrichting van de Beperkt Beveiligde Afdeling zoals omschreven in de wet. Dit beleidskader is op 1 juli 2021 vastgesteld en op grond van een aantal door de Minister voor Rechtsbescherming goedgekeurde beleidswijzigingen per 01 oktober 2023 opnieuw vastgesteld.
+
+Het [beleidskader BBA](https://wetten.overheid.nl/jci1.3:c:BWBR0046864), zoals gepubliceerd in de Staatcourant van 07 juli 2022 met nummer 18437 wordt hierbij ingetrokken.
 
 ### 1. Doel Beperkt Beveiligde Afdeling
 
@@ -75,11 +63,46 @@ Voor een plaatsing op de BBA komen gedetineerden in aanmerking die gedurende de 
 
 Naast de weigeringsgronden, zoals beschreven in [artikel 4 van de Regeling tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=4), komt de gedetineerde niet in aanmerking voor re-integratieverlof voor extramurale arbeid als hij op het moment van selectie:4Artikel 16 Rtvi:
 
+- • is geplaatst in het basisprogramma
+
+- • is gedegradeerd
+
+- • niet wil meewerken aan een betalingsregeling
+
+- • een levenslange gevangenisstraf opgelegd heeft gekregen
+
+- • een Tbs-maatregel opgelegd heeft gekregen
+
+- • een ISD-maatregel opgelegd heeft gekregen
+
+- • in een extra beveiligde inrichting of terroristen afdeling is geplaatst
+
+- • is geplaatst in een penitentiair programma5Met uitzondering van de laatste bullet gelden deze uitsluitingsgronden ook voor kort – en langdurend re-integratieverlof. Bij verlies van een aanvaardbaar verblijfadres is het voorstelbaar dat (een tijdelijke) overplaatsing naar een BBA wenselijk is om detentieschade te beperken, met in achtneming van het voldoen aan de voorwaarden en de geldende procedures.
+
 ### 2.3. Selectiecriteria
 
 Om in aanmerking te komen voor re-integratieverlof voor extramurale arbeid dient de beoordeling van gedrag, risico’s en slachtofferbelangen, net zoals bij kort- en langdurend re-integratieverlof, tot een positief advies te leiden.
 
 Hiervoor zijn onderliggende kaders6De kaders zijn te vinden op de themapagina op het intranet over de Wet straffen en beschermen. opgesteld:
+
+- • Checklist MDO/VC
+
+- • [Beleidskader gedrag gehele detentie](https://wetten.overheid.nl/jci1.3:c:BWBR0045306)
+
+- • Handleiding en Draaiboek risicoscreener geweld (hierbij geldt dat de toetsing op het risico geweld een onderdeel is van de totale toetsing op risico’s)
+
+- • Toetsingskader slachtofferbelangen
+
+| Basisvoorwaarde | Minimale vereisten |
+| --- | --- |
+| ID bewijs | Ten tijde van de plaatsing in de BBA is een geldig ID-bewijs aanwezig. |
+| Onderdak | Bij plaatsing op de BBA hoeft nog geen onderdak geregeld te zijn, maar de doelen en acties om bij einde detentie onderdak te hebben, zijn opgenomen in het D&R-plan. Voor de rechtactiviteit bezoek is het toegestaan één goedgekeurd verlofadres te hebben. |
+| Schulden | Betalingsregeling is met het CJIB overeengekomen op basis van de te verwachte BBA-inkomsten, overige schulden zijn in kaart gebracht i.s.m. het RIC/casemanager. |
+| Werk en inkomen | Gedurende de intramurale fase is aantoonbaar7 actief gewerkt aan de doelen op arbeid ná detentie zoals opgenomen in het D&R plan. De gedetineerde heeft laten zien dat hij in staat is om (evt. met ondersteuning van de mentor/casemanager) contact te zoeken met een externe organisatie en te solliciteren en heeft daarmee een leer-/werkplek8, dagbesteding of dagopleiding in de regio geregeld. De leer-/werkplek of dagbesteding sluit aan bij de re-integratiedoelen op arbeid na detentie. Beschikt over het getuigschrift Algemene werknemersvaardigheden. Bij een gevangenisstraf van meer dan 3 jaar beschikt over het getuigschrift Algemene werknemersvaardigheden én een getuigschrift van een profiel of een mbo-praktijkverklaring, dan wel het maximaal haalbare9. Indien de gedetineerde reeds in het bezit is van diploma’s/ certificaten die passen bij zijn doelen op arbeid ná detentie of al tijdens de BBA terug kan keren bij zijn ex-werkgever is dit niet van toepassing. De screening van de externe organisatie heeft via de senior casemanager plaatsgevonden door de Serviceorganisatie Inmade, tevens is een getekende overeenkomst met de externe organisatie door tussenkomst van de senior casemanager opgesteld waarin is meegenomen; – Er zijn afspraken gemaakt voor een werkweek/ dagbesteding, dagopleiding van tenminste 32 uur, dan wel tenminste 26 uur in combinatie met opleiding en zorg; – In bijzondere gevallen, zoals bij AOW-gerechtigden, is het mogelijk om maatwerk toe te passen indien de minimale duur van de tijdsbesteding niet wordt behaald. Het aantal uren dient te worden opgenomen in het goedgekeurde D&R-plan. AOW-gerechtigden hoeven tevens geen doelen te hebben op arbeid na detentie. – Een eventueel extramuraal aanvullend zorg- of opleidingstraject is naast het werk/dagbesteding in de intramurale fase voorbereid en uitgewerkt in het D&R-plan. |
+| Bankrekening | Voor het ontvangen van het basisuurloon is het nodig dat de gedetineerde beschikt over een Nederlandse bankrekening op eigen naam. |
+| Zorg | Een extramuraal zorgtraject zoals geïndiceerd in het D&R-plan dient in de intramurale fase voorbereid en gepland te zijn, bijvoorbeeld noodzakelijke therapieën en/of behandelingen. |
+| Sociaal netwerk | Niet van toepassing bij plaatsing, doelen en acties t.a.v. het sociale netwerk staan indien van toepassing opgenomen in het D&R-plan. |
+| Algemeen | De in het D&R-plan opgenomen gedragsinterventies zijn minimaal gestart. Er is een getekende deelnameverklaring, inclusief afspraken Ex-Made toegevoegd aan het D&R-plan waarin de gemaakte afspraken t.a.v. de BBA-periode beschreven staan. |
 
 7 Dit komt tot uiting in de resultaten op de behaalde doelen.
 
@@ -91,6 +114,14 @@ Indien er een advies van het OM en/of reclassering aanwezig is, dient deze bij d
 
 Re-integratieverlof voor extramurale arbeid en daarmee een plaatsing op de BBA:
 
+- • wordt verleend voor minimaal de duur van 4 weken, het verlof duurt per dag maximaal de werk- en reistijd;
+
+- • is alleen mogelijk bij een gevangenisstraf langer dan 6 maanden;
+
+- • is maximaal 1/6 deel van de opgelegde straf voorafgaand aan het moment waarop de gedetineerde in aanmerking kan komen voor de voorwaardelijke invrijheidstelling dan wel de invrijheidstelling10De (fictieve) einddatum is bekend. Indien deze datum wijzigt, wordt er een herberekeninggedaan.;
+
+- • heeft een maximum van 12 maanden;
+
 Daarnaast gelden aanvullend de volgende randvoorwaarden, waarbij geldt dat de gedetineerde, bijgestaan door zijn casemanager, er zorg voor heeft gedragen dat hij minimaal per basisvoorwaarde voldoet aan de voorwaarden zoals beschreven in onderstaande tabel (resultaatverplichting).
 
 ### 3. Toelating
@@ -99,7 +130,19 @@ Daarnaast gelden aanvullend de volgende randvoorwaarden, waarbij geldt dat de ge
 
 De [Wet straffen en beschermen](https://wetten.overheid.nl/jci1.3:c:BWBR0043990) kent drie vormen van re-integratieverlof:
 
+- 1 Kortdurend re-integratieverlof
+
+- 2 Langdurend re-integratieverlof
+
+- 3 Re-integratieverlof voor extramurale arbeid in de Beperkt Beveiligde Afdeling (BBA).
+
 Het verlof wordt vastgelegd in het D&R-plan. Gedetineerden krijgen alleen nog verlof als dat verlof wordt gebruikt voor het realiseren van een of meer re-integratiedoelen uit het D&R-plan.
+
+| Verlofvorm | Beslissingsbevoegdheid |
+| --- | --- |
+| Kortdurend verlof | VD (< 2 jaar) SF (> 2 jaar, eerste aanvraag) |
+| Langdurend verlof | VD (< 2 jaar) SF (> 2 jaar, eerste aanvraag) |
+| Verlof voor extramurale arbeid | SF |
 
 De 3 vormen van re-integratieverlof kunnen naast elkaar voorkomen. Over het algemeen komt een gedetineerde eerst in aanmerking voor kortdurend re-integratieverlof, vervolgens voor langdurend re-integratieverlof en dan voor verlof voor extramurale arbeid met plaatsing in een BBA.
 
@@ -123,6 +166,12 @@ Zolang er sprake is van PP’s die vallen onder het overgangsrecht11Hier is spra
 
 Om te beoordelen welk traject het best past bij de re-integratie van de gedetineerde, geldt voor PP, dat aanvullend op de BBA-randvoorwaarden, er sprake moet zijn van:
 
+- • een aanvaardbaar goedgekeurd verblijfadres;
+
+- • re-integratiedoelen op het weer zelfstandig kunnen wonen, de thuissituatie en/of het opbouwen van het sociaal netwerk (naast het hebben van re-integratiedoelen op werk-en inkomen, danwel dagbesteding);
+
+- • een afweging op de risico’s en de slachtofferbelangen i.r.t. de extra toe te kennen vrijheden.
+
 ### 4. Overplaatsing
 
 Ongewenst gedrag of ontoelaatbaar gedrag, conform het Toetsingskader promoveren en degraderen, maar ook het verliezen van de baan of ziekte kan tot overplaatsing naar een regulier regime leiden.
@@ -133,7 +182,19 @@ De VD is verantwoordelijk voor het besluit tot degradatie wegens ontoelaatbaar g
 
 In onderstaande tabel is bovenstaande schematisch weergegeven.
 
+| Oorzaak | Gevolg | Besluit |
+| --- | --- | --- |
+| Ontoelaatbaar gedrag | Overplaatsen | SF |
+| Ongewenst gedrag | Rapporteren aan de directeur Afhankelijk van de ernst van de situatie, insluiten (m.u.v. rechtenactiviteiten en arbeid) of overplaatsen door tussenkomst van het MDO. Het gevolg is maatwerk. | VD of SF |
+| Baan kwijt Ongewenst gedrag | Overplaatsen | SF |
+| Baan kwijt Overmacht (langer dan 2 weken) | Overplaatsen | SF |
+| Ziekte (langer dan 2 weken) | Overplaatsen | SF |
+
 N.B.
+
+- • Indien een gedetineerde door ontoelaatbaar of ongewenst gedrag overgeplaatst is, dan kan hij/zij op zijn vroegst na drie maanden opnieuw een aanvraag doen voor re-integratieverlof voor extramurale arbeid. Het D&R-plan wordt dan opnieuw beoordeeld. ([artikel 20ab, lid 5 Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=20ab))
+
+- • Indien de gedetineerde door het verliezen van de baan door overmacht of door langdurige ziekte wordt overgeplaatst, dan kan hij z.s.m. na het vinden van werk of bij herstel een nieuwe (spoed) aanvraag doen. De aanvraag wordt dan met voorrang behandeld.
 
 ### 5. Rechtactiviteiten en programma
 
@@ -161,6 +222,25 @@ Arbeid/dagbesteding maakt een wezenlijk onderdeel uit van het programma: te wete
 
 Door de PI worden op de BBA geen activiteiten aangeboden c.q. georganiseerd. De gedetineerden zijn zelf verantwoordelijk voor hun bezigheden op de BBA.
 
+| Activiteiten | Uren per week | Buiten de BBA |
+| --- | --- | --- |
+| Verblijf op cel / kamer (9.25 uur per dag) | 64.75 |  |
+| Arbeid / dagbesteding / opleiding buiten de inrichting | 32 |  |
+| Overige uren (reistijd en vrij te besteden op de BBA) | 41.2514 |  |
+|  |  |  |
+| Rechtactiviteiten |  |  |
+| Recreatie | 6 |  |
+| Persoonlijke verzorging, douchen en corvee | 7 |  |
+| Luchten/ verblijf in de buitenlucht15 | 7 |  |
+| Bezoek | 2,5 | 2,5 |
+| Sport / Beweging | 3,5 | 3,5 |
+| Geestelijke verzorging | 1,5 | 1,5 |
+| Bibliotheek | 1 | 1 |
+| Boodschappen (recreatie)16 | 1,5 | 1,5 |
+| Educatie | - | - |
+| Medische zorg | - | - |
+| Totaal rechtactiviteiten | 30 | 10 |
+
 14 Deze uren zijn flexibel en afhankelijk van de contracturen werk/dagbesteding en de reistijd.
 
 15 Op werkdagen is het recht om te luchten onderdeel van de reistijd PI-werk. Op niet-werkdagen is het mogelijk 1 uur te luchten op de door de BBA aangewezen luchtplaats.
@@ -185,7 +265,7 @@ Zodra er sprake is van een overplaatsing naar een BBA spreken we van een zendend
 
 Zodra er sprake is van (het zoeken van) een externe organisatie start de afstemming met de senior casemanager van de betreffende BBA waar de gedetineerde naar toe gaat. Deze afstemming start door het invullen van het aanmeldformulier, [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048836&bijlage=2&z=2023-11-02&g=2023-11-02).
 
-Voor het vinden van een externe organisatie kan door tussenkomst van de senior casemanager gebruik gemaakt worden van het werkgeversservicepunt van de gemeente, de staffunctionaris ketensamenwerking, de afdeling arbeid of de Serviceorganisatie Inmade (SO Inmade). Indien een externe organisatie is gevonden zet de senior casemanager het proces t.a.v. de toets van de organisatie in gang, zie hoofdstuk 8, waarbij de senior casemanager verantwoordelijk is voor een werkbezoek aan de externe organisatie en de SO Inmade voor het administratieve deel.
+Voor het vinden van een externe organisatie kan door tussenkomst van de senior casemanager gebruik gemaakt worden van het werkgeversservicepunt van de gemeente, de staffunctionaris ketensamenwerking, de afdeling arbeid of de Serviceorganisatie Inmade (SO Inmade). Indien een externe organisatie is gevonden zet de senior casemanager het proces t.a.v. de toets van de organisatie in gang, zie [hoofdstuk 8](https://wetten.overheid.nl/BWBR0048836), waarbij de senior casemanager verantwoordelijk is voor een werkbezoek aan de externe organisatie en de SO Inmade voor het administratieve deel.
 
 Bij plaatsing in de BBA draagt de casemanager van de zendende inrichting het D&R-plan over aan een senior casemanager van de BBA.
 
@@ -205,19 +285,39 @@ In de deelnameverklaring, welke onderdeel is van het plaatsingsbesluit door de S
 
 ### 8.1. Categorieën
 
+- A. Plaatsing bij een betalende organisatie met een arbeidscontract.
+
+- B. Leer- werkplek. Plaatsing bij een (niet)-betalende organisatie voor een bepaalde periode Gericht op betaalde leer- werkplek, max. 4 maanden.
+
+- C. Dagbesteding. Plaatsing bij een (niet)-betalende organisatie voor een bepaalde, danwel de gehele BBA-periode. Afstemming met de gemeente t.b.v. een doorlopend traject na detentie.
+
 Een leer/werkplek (werkervaringsplaats/stage) is een plek om relevante werkervaring op te kunnen doen, eventueel in een andere beroepsrichting.
 
 Een werkervaringsplaats helpt de deelnemer:
+
+- – Te onderzoeken of deze functie past bij zijn belastbaarheid;
+
+- – Arbeidsritme op te bouwen en werkervaring op te doen;
+
+- – Te ontdekken of werk passend is en er een klik is met de organisatie en werkcultuur.
 
 Een werkervaringsplek is een goede optie voor deelnemers, die na langere tijd weer de arbeidsmarkt gaan betreden. Voorwaarde is; leren staat centraal! Voor een stage en een werkervaringsplek geldt dat de deelnemer geen opleiding hoeft te volgen. Bij elke stage wordt in een leerplan afgesproken wat de stagiair moet leren (leerdoelen). De deelnemer krijgt begeleiding van het stagebedrijf.
 
 Van belang is dat de gedetineerde voldoende intrinsieke motivatie heeft en voldoende zelfredzaam is om aanspraak te maken op re-integratieverlof voor extramurale arbeid en daarmee een plaatsing op de BBA. Er dient perspectief te zijn op het hebben van werk/dagbesteding na detentie.
 
+ZZP’er / eigen zaak
+
 DJI gaat uitsluitend overeenkomsten aan met externe organisaties en niet met gedetineerde, het is daarom niet mogelijk om in de eigen zaak te werken. Indien een gedetineerde voor detentie als ZZP’er heeft gewerkt of een ambitie heeft om na detentie als ZZP’er te starten, dan kan dat vanuit de BBA indien hij een externe organisatie kan vinden waarbij hij de werkzaamheden, middels één van de bestaande overeenkomsten, kan uitvoeren.
+
+Werken bij familie
 
 Het werken bij familie is niet toegestaan. De risico’s, met name om het mogelijke gebrek aan een onafhankelijk toezicht, vindt DJI te groot.
 
+Bijzondere doelgroep
+
 In bijzondere gevallen, zoals bij AOW gerechtigde, is het mogelijk om maatwerk toe te passen indien de minimale duur van de tijdsbesteding niet wordt behaald. Het aantal uren dient te worden opgenomen in het goedgekeurde D&R-plan. AOW-gerechtigden hoeven tevens geen doelen te hebben op arbeid na detentie.
+
+Thuiswerken vanuit de BBA
 
 Mits passend in het traject van de gedetineerde, de branche, het vooruitzicht op duurzame baan na detentie en goede afspraken met de organisatie is het mogelijk om vanuit de BBA “thuis te werken”, op de kamer/cel. Uitgangspunt is dat de organisatie de middelen die hiervoor nodig zijn faciliteert, niet DJI.
 
@@ -227,15 +327,31 @@ Voordat overgegaan wordt tot het aangaan van een overeenkomst met een externe or
 
 In de overeenkomst worden vervolgens de afspraken, zoals deze zijn gemaakt door de senior casemanager met de externe organisatie, vastgelegd. Deze afspraken gaan o.a. over:
 
+- • de duur van de overeenkomst
+
+- • de werktijden
+
+- • de te verrichten leer/werk- of dagbestedingsactiviteiten
+
+- • de vergoeding voor de inzet
+
+- • de vergoeding voor de (eventuele) reiskosten17Indien een externe organisatie geen reiskosten vergoed, maar een gedetineerde deze wel heeft, dan kan hij hiervoor een beroep doen op het gereserveerde geld op zijn geblokkeerde rekeningcourant.
+
 Op de BBA behoort werken in het weekend, ‘s ochtends of ’s avonds tot de mogelijkheden. Ook (incidenteel) overwerk of het werken in ploegendiensten is niet uitgesloten. Een voorwaarde hierbij is dat dit gebruikelijk is in de branche waar de gedetineerde zijn leer-/werkactiviteiten uitvoert. Tevens is het van belang dat dit gekoppeld is aan zijn re-integratiedoelen op de basisvoorwaarde werk en inkomen.
 
 De externe organisatie dient zich hierbij te allen tijde te houden aan de [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) (ATW). De senior casemanager maakt met de werkgever afspraken over de vergoeding voor de leer-/werkactiviteiten, dagbesteding die de gedetineerde verricht. De hoogte van vergoeding wordt in overleg met de externe organisatie bepaald aan de hand van de afgesproken activiteiten van de gedetineerde.
 
+Vervoer
+
 Vervoer naar en van de externe organisatie kan met de fiets (eventueel ter beschikking gesteld door de PI), de eigen auto of met het openbaar vervoer. Voorwaarden hiervoor staan opgenomen in de huisregels.
+
+Verlof
 
 Een verlofaanvraag18Het vrij vragen voor een niet-erkende feestdag valt hier tevens onder. bij de externe organisatie is enkel toegestaan wanneer hier een kort- of langdurend re-integratieverlof aan ten grondslag ligt en wanneer het continueren van de externe werkzaamheden hier niet mee te combineren is. Het is aan het MDO om te besluiten of een verlofaanvraag arbeid doorbrekend mag zijn. Het is aan de externe organisatie om de verlofaanvraag goed te keuren als het werk dit toelaat. Verlofuren worden niet doorbetaald. De gedetineerde stemt hierover af met de senior casemanager.
 
-Bij een bedrijfssluiting of sluiting van de school langer dan 3 werkdagen dient de gedetineerde een alternatief te zoeken voor minimaal 26 uur per week. Zie hiervoor ook: Hoofdstuk 4 Overplaatsing. De vrij te besteden uren bij een bedrijfssluiting of sluiting van de school t/m 3 werkdagen worden in overleg met de senior casemanager en de mentor opgenomen in het persoonlijke activiteitenprogramma.
+Sluiting externe organisatie of school
+
+Bij een bedrijfssluiting of sluiting van de school langer dan 3 werkdagen dient de gedetineerde een alternatief te zoeken voor minimaal 26 uur per week. Zie hiervoor ook: [Hoofdstuk 4](https://wetten.overheid.nl/BWBR0048836) Overplaatsing. De vrij te besteden uren bij een bedrijfssluiting of sluiting van de school t/m 3 werkdagen worden in overleg met de senior casemanager en de mentor opgenomen in het persoonlijke activiteitenprogramma.
 
 ### 8.3. Verloning
 
@@ -245,7 +361,15 @@ Gedetineerden ontvangen op de BBA minimaal 300% van het basisuurloon19Regeling a
 
 Voor de besteding van het gereserveerde deel op de geblokkeerde rekeningcourant geldt de volgende prioritering:
 
+- 1. Betalingsregeling CJIB, ten aanzien van verkeersboetes, schadevergoedingsmaatregelen, ontnemingsmaatregelen, dwangsommen, bestuurlijke boetes voor andere overheden, conform [Rtvi](https://wetten.overheid.nl/jci1.3:c:BWBR0010171). Hierbij geldt dat betalingsregelingen reeds gestart zijn tijdens de intramurale fase, dan wel her berekend zijn vanaf het moment dat de gedetineerde start op de BBA. De vergoeding die de gedetineerden ontvangen kan immers tijdens de BBA-periode omhooggaan, vooraf dienen hier door de zendende inrichting/ casemanager afspraken over gemaakt te worden. Deze afspraken zijn vastgelegd in het D&R-plan.
+
+- 2. Inzet t.b.v. re-integratiedoelen op de vijf basisvoorwaarden en het sociale netwerk. Hierbij geldt dat deze gelden tijdens of na detentie al benodigd kunnen zijn. De besteding daarvan is de verantwoordelijkheid van de gedetineerde.
+
+Tijdens detentie
+
 Een verzoek van de gedetineerde om tijdens de detentie gebruik te maken van het geld op zijn geblokkeerde rekeningcourant, gaat in overleg met de senior casemanager tijdens het trajectgesprek.
+
+Na detentie
 
 Tijdens detentie is in kaart gebracht in samenwerking met de senior casemanager voor welke re-integratiedoelen t.a.v. de basisvoorwaarden financiële middelen benodigd zijn. Hierbij kan gedacht worden aan het (door) betalen van huur, de inrichting van een woning of eventuele andere nazorgactiviteiten. Indien nodig wordt de gemeente ingeroepen voor de begeleiding tijdens en na detentie om de vergoeding die de gedetineerden voor zijn leer-werkactiviteiten/ dagbesteding heeft ontvangen doelmatig in te zetten. Aan het einde van detentie maakt DJI het resterende geld over aan de gedetineerde.
 
@@ -253,36 +377,36 @@ Tijdens detentie is in kaart gebracht in samenwerking met de senior casemanager 
 
 De BBA heeft een beperkt beveiligingsniveau20artikel 13 lid 1a, van de Pbw.. Dit maakt dat een deel van het dagprogramma buiten de inrichting plaats kan vinden. Voor het bepalen van het beveiligingsniveau en het ruimtelijk programma van eisen voor de BBA zijn o.a. de volgende eisen als uitgangspunt genomen.
 
+- • Strikte scheiding, de BBA is bouwkundig en organisatorisch gescheiden van normaal beveiligde afdelingen. Het doel hiervan is te voorkomen dat contrabande of berichten tussen gedetineerden worden uitgewisseld.
+
+- • Kamer/cel wordt niet afgesloten, gedetineerden worden niet ingesloten.
+
+- • Gedetineerden hebben een sleutel van hun eigen kamer/cel.
+
+- • Het is gedetineerden toegestaan een smartphone op de BBA te gebruiken, hoe hier mee om te gaan is uitgewerkt in de huisregels.
+
+- • Cel inspecties zijn van toepassing.
+
+- • Portiers functie21Primair kan dit een PIW’er zijn, afhankelijk van de bouwkundige situatie kan gekozen worden voor de inzet van een complexbeveiliger. is overdag aanwezig (aan- en afmelden) > aan en afmelden wordt geregistreerd d.m.v. biometrie.
+
+- • ‘s Nachts zijn camera’s actief ten behoeve van het toezicht op de verkeersruimten, na afsluiten gebouw/afdeling wordt overgeschakeld naar de meldkamer.
+
+- • Spreekruimte(s) is(zijn) aanwezig.
+
+- • Op de BBA is meerpersoonscelgebruik mogelijk.
+
+- • Op de BBA het mogelijk gebruik te maken van 4G.
+
 Deze uitgangspunten en daarmee het ruimtelijk programma van eisen zijn verder uitgewerkt in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048836&bijlage=7&z=2023-11-02&g=2023-11-02). In deze bijlage wordt onderscheid gemaakt in BBA’s:
+
+- • binnen de perimeter van een normaal beveiligde inrichting22Uitgangspunt is dat dit niet kan in een locatie die op grond van de circulaire GVM is aangewezen als zgn. GVM-hoog-inrichting.: portiers functie en BAD zijn onderdeel van de totale complexbeveiliging.
+
+- • buiten de perimeter (nabij de PI). Overdag is een portiers functie aanwezig (t.b.v. aan- en afmelden).
+
+- • binnen de perimeter van een normaal beveiligde inrichting een apart gebouw waar een lager beveiligingsniveau voor geldt. Lokaal zal bekeken worden wat dit betekent voor de beveiliging.
 
 De lokale situatie kan leiden tot aanvullende bouwkundige of elektronische of organisatorische maatregelen. Hiermee wordt het beveiligingsniveau van de BBA als volgt beschreven:
 
-## Bijlage 1
-
-Niet opgenomen.
-
-## Bijlage 2
-
-Niet opgenomen.
-
-## Bijlage 3
-
-Niet opgenomen.
-
-## Bijlage 4
-
-Niet opgenomen.
-
-## Bijlage 5
-
-Niet opgenomen.
-
-## Bijlage 6
-
-Niet opgenomen.
-
-## Bijlage 7
-
-Niet opgenomen.
-
-Ondertekening;
+| Niveau | Omschrijving | PBW | Niveau |
+| --- | --- | --- | --- |
+| BBA | Beperkt Beveiligde Afdeling | A | • Geen / beperkte barrière geen of beperkte fysieke beveiligingsring, detectie of cameratoezicht; • geen of minimale omtrekbeveiliging/ detectie; • grote mate van bewegingsvrijheid. |

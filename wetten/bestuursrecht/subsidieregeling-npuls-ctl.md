@@ -1,48 +1,50 @@
 ---
-title: "Subsidieregeling Npuls CTL"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40194623, houdende regels voor subsidieverstrekking in het kader van het programma Npuls ten behoeve van de inrichting en de verdere ontwikkeling van een Center for Teaching and Learning voor de periode 2023 tot en met 2026 (Subsidieregeling Npuls CTL)"
+citeertitel: "Subsidieregeling Npuls CTL"
 identifier: "BWBR0048587"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-15
-laatste_update: 2026-07-17
+laatste_update: 2026-07-15
 status: geldig
+toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0048587"
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 augustus 2023, nr. 40194623, houdende regels voor subsidieverstrekking in het kader van het programma Npuls ten behoeve van de inrichting en de verdere ontwikkeling van een Center for Teaching and Learning voor de periode 2023 tot en met 2026 (Subsidieregeling Npuls CTL)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2026-07-15&g=2026-07-15);
+- *beoordelingscommissie:* commissie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=14&z=2026-07-15&g=2026-07-15);
 
-- **Center for Teaching and Learning:** binnen een onderwijsinstelling te realiseren of verder te ontwikkelen separaat organisatieonderdeel, fysieke locatie, netwerk van mensen, online platform of afdeling, dat met inzet van digitale mogelijkheden de onderwijsontwikkeling van en door docenten en overig onderwijspersoneel faciliteert, en kennisdeling, innovatie, ondersteuning en onderzoek stimuleert en de onderlinge verbinding van reeds aanwezige voorzieningen versterkt;
+- *Center for Teaching and Learning:* binnen een onderwijsinstelling te realiseren of verder te ontwikkelen separaat organisatieonderdeel, fysieke locatie, netwerk van mensen, online platform of afdeling, dat met inzet van digitale mogelijkheden de onderwijsontwikkeling van en door docenten en overig onderwijspersoneel faciliteert, en kennisdeling, innovatie, ondersteuning en onderzoek stimuleert en de onderlinge verbinding van reeds aanwezige voorzieningen versterkt;
 
-- **CTL-plan:** onderdeel van de aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2026-07-15&g=2026-07-15);
+- *CTL-plan:* onderdeel van de aanvraag als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2026-07-15&g=2026-07-15);
 
-- **docentontwikkeling:** ontwikkeling en versterking van de eigen vakbekwaamheid onder andere met behulp van digitalisering;
+- *docentontwikkeling:* ontwikkeling en versterking van de eigen vakbekwaamheid onder andere met behulp van digitalisering;
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **Npuls:** het Nationaal Groeifondsprogramma van en voor alle mbo-scholen, hogescholen en universiteiten in Nederland, dat zich richt op het verbeteren van de onderwijskwaliteit, de adaptiviteit van het onderwijs en de verbetering van digitale vaardigheden van docenten en lerenden, door te investeren in de samenwerking tussen onderwijsinstellingen en de mogelijkheden van digitalisering beter te benutten;
+- *Npuls:* het Nationaal Groeifondsprogramma van en voor alle mbo-scholen, hogescholen en universiteiten in Nederland, dat zich richt op het verbeteren van de onderwijskwaliteit, de adaptiviteit van het onderwijs en de verbetering van digitale vaardigheden van docenten en lerenden, door te investeren in de samenwerking tussen onderwijsinstellingen en de mogelijkheden van digitalisering beter te benutten;
 
-- **onderwijsinstelling:** bekostigde instelling voor hoger onderwijs als bedoeld in de [onderdelen a tot en met i, van de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), of bekostigde instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1);
+- *onderwijsinstelling:* bekostigde instelling voor hoger onderwijs als bedoeld in de [onderdelen a tot en met i, van de bijlage behorende bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682), of bekostigde instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1);
 
-- **onderwijsinnovatie:** nieuwe aanpak of technologie waarmee wordt beoogd het onderwijs voor studenten te verbeteren;
+- *onderwijsinnovatie:* nieuwe aanpak of technologie waarmee wordt beoogd het onderwijs voor studenten te verbeteren;
 
-- **project:** in het kader van deze regeling gesubsidieerde activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=3&z=2026-07-15&g=2026-07-15);
+- *project:* in het kader van deze regeling gesubsidieerde activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=3&z=2026-07-15&g=2026-07-15);
 
-- **samenwerking:** gezamenlijk streven van onderwijsinstellingen bij het opzetten of verder ontwikkelen van een Center for Teaching and Learning;
+- *samenwerking:* gezamenlijk streven van onderwijsinstellingen bij het opzetten of verder ontwikkelen van een Center for Teaching and Learning;
 
-- **verordening:** [Verordening (EU) 2021/241](32021R0241) van het Europees Parlement en de Raad van 12 februari 2021 tot instelling van de herstel- en veerkrachtfaciliteit (PbEU 2021, L 057).
+- *verordening:*
+ Verordening (EU) 2021/241 van het Europees Parlement en de Raad van 12 februari 2021 tot instelling van de herstel- en veerkrachtfaciliteit (PbEU 2021, L 057).
 
 ##### Artikel 2. Toepasselijke regelgeving
 
@@ -52,9 +54,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De minister kan subsidie verstrekken aan een onderwijsinstelling voor een project waarmee een Center for Teaching and Learning wordt gerealiseerd of verder wordt ontwikkeld.
 
-2. Het subsidiebedrag per onderwijsinstelling bedraagt eenmalig ten minste € 250.000 en ten hoogste € 500.000.
+2. Het subsidiebedrag per onderwijsinstelling bedraagt eenmalig ten minste € 250.000 en ten hoogste € 500.000.
 
-3. In afwijking van het tweede lid bedraagt het subsidiebedrag per onderwijsinstelling voor een aanvraag in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), ten minste € 125.000 en ten hoogste € 500.000.
+3. In afwijking van het tweede lid bedraagt het subsidiebedrag per onderwijsinstelling voor een aanvraag in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), ten minste € 125.000 en ten hoogste € 500.000.
 
 ##### Artikel 4. Ontvankelijkheidscriteria
 
@@ -68,15 +70,15 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Op grond van deze regeling kan subsidie worden aangevraagd:
 
-- a. van 2 oktober 2023 tot en met 31 oktober 2023;
+- a. van 2 oktober 2023 tot en met 31 oktober 2023;
 
-- b. van 1 oktober 2024 tot en met 31 oktober 2024;
+- b. van 1 oktober 2024 tot en met 31 oktober 2024;
 
-- c. van 1 oktober 2025 tot en met 31 oktober 2025;
+- c. van 1 oktober 2025 tot en met 31 oktober 2025;
 
-- d. van 5 oktober 2026 09:00 uur tot en met 30 oktober 2026 16:00 uur; en
+- d. van 5 oktober 2026 09:00 uur tot en met 30 oktober 2026 16:00 uur; en
 
-- e. van 4 oktober 2027 09:00 uur tot en met 29 oktober 2027 16:00 uur.
+- e. van 4 oktober 2027 09:00 uur tot en met 29 oktober 2027 16:00 uur.
 
 2. In iedere aanvraagronde kan subsidie worden toegekend totdat het subsidieplafond, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=6&z=2026-07-15&g=2026-07-15), is bereikt.
 
@@ -84,13 +86,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 6. Subsidieplafond
 
-1. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
+1. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 10.000.000 beschikbaar.
 
-2. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 20.363.567,– beschikbaar.
+2. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 20.363.567,– beschikbaar.
 
-3. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 15.000.000 beschikbaar.
+3. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is een bedrag van ten hoogste € 15.000.000 beschikbaar.
 
-4. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is in totaal een bedrag van ten hoogste € 27.000.000 beschikbaar.
+4. Voor subsidieverstrekking op aanvragen die zijn ingediend in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), is in totaal een bedrag van ten hoogste € 27.000.000 beschikbaar.
 
 5. De minister kan het bedrag dat resteert na toewijzing van alle in aanmerking komende aanvragen in de aanvraagronde, bedoeld in [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), toevoegen aan het beschikbare bedrag, genoemd in het eerste lid, onderdeel b.
 
@@ -126,7 +128,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De eigen bijdrage bedraagt ten minste 70% van het aangevraagde subsidiebedrag.
 
-2. Voor een subsidieaanvraag in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), waarbij het aangevraagde subsidiebedrag ten minste € 125.000 en ten hoogste € 250.000 bedraagt, bedraagt de eigen bijdrage ten minste 35% van het aangevraagde subsidiebedrag.
+2. Voor een subsidieaanvraag in de aanvraagrondes, bedoeld in [artikel 5, eerste lid, onder c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), waarbij het aangevraagde subsidiebedrag ten minste € 125.000 en ten hoogste € 250.000 bedraagt, bedraagt de eigen bijdrage ten minste 35% van het aangevraagde subsidiebedrag.
 
 3. De verplichte eigen bijdrage, genoemd in het eerste lid, kan bestaan uit een bijdrage in geld, uit een op economische waarde bepaalbare bijdrage die relevant of noodzakelijk is voor de ontwikkeling van het Center for Teaching and Learning waarvoor de subsidie is aangevraagd, of uit een combinatie van deze twee bijdragen.
 
@@ -238,7 +240,7 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
 ##### Artikel 15. Besluitvorming minister aanvraagrondes 2023 tot en met 2025
 
-1. De minister beoordeelt de aanvragen, bedoeld in [artikel 5, eerste lid, onderdeel a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15) met kennisneming van het advies van beoordelingscommissie.
+1. De minister beoordeelt de aanvragen, bedoeld in [artikel 5, eerste lid, onderdeel a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15) met kennisneming van het advies van beoordelingscommissie.
 
 2. Na beoordeling en rangschikking wordt voor een aanvraagperiode als bedoeld in [artikel 5, eerste lid, onder a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15) het maximaal aantal aanvragen voor die ronde toegekend op volgorde van rangschikking.
 
@@ -249,26 +251,6 @@ Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 5. De minister besluit uiterlijk binnen 22 weken na de sluitingsdatum van een aanvraagperiode, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15), over de subsidieverlening.
 
 6. Indien in een aanvraagronde als bedoeld in [artikel 5, eerste lid, onderdeel a, b, of c](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=5&z=2026-07-15&g=2026-07-15)budget resteert, maar een gerangschikt voorstel niet volledig kan worden gehonoreerd, doet de minister aan de aanvrager het voorstel om met het nog resterende bedrag van het subsidiebudget zijn project in volledige of aangepaste vorm uit te voeren. Indien de betreffende aanvrager niet instemt met dit voorstel wordt de aanvraag afgewezen.
-
-##### Artikel 16. Bevoorschotting en betaling
-
-De minister verstrekt een voorschot van 100%, en bepaalt het bevoorschottingsritme in de beschikking.
-
-##### Artikel 17. Inwerkingtreding en vervaldatum
-
-1. Deze regeling treedt in werking met ingang van 1 september 2023.
-
-2. Deze regeling vervalt met ingang van 1 september 2031, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
-
-##### Artikel 18. Citeertitel
-
-Deze regeling wordt aangehaald als: Subsidieregeling Npuls CTL.
-
-## Bijlage. behorende bij de Subsidieregeling Npuls CTL
-
-### Beoordelingskader
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 15a. Besluitvorming minister aanvraagrondes 2026 en 2027
 
@@ -288,35 +270,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 8. Voor de subsidieverstrekking op de gewijzigde aanvragen is het bedrag beschikbaar dat resteerde na de toewijzing van de aanvragen onder toepassing van het tweede lid, eerste volzin.
 
-## Bijlage 1. behorende bij [artikel 10, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=10&z=2026-07-15&g=2026-07-15), van de Subsidieregeling Npuls CTL
+##### Artikel 16. Bevoorschotting en betaling
 
-### Beoordelingskader
+De minister verstrekt een voorschot van 100%, en bepaalt het bevoorschottingsritme in de beschikking.
 
-## Bijlage 2. behorende bij [artikel 10, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=10&z=2026-07-15&g=2026-07-15), van de Subsidieregeling Npuls CTL
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
-| **Criterium 1** | **Deelaspecten** | **Minimumeisen/Toelichting** |
-| --- | --- | --- |
-| 1. Visie op docentontwikkeling en onderwijsinnovatie (maximaal 20 punten) | 1.1 De onderwijsinstelling beschrijft de visie met een concretisering naar het beoogde effect op docentontwikkeling en onderwijsinnovatie. | • Beschrijf vanuit de brede visie van de instelling, hoe deze vertaald wordt naar docentontwikkeling en onderwijsinnovatie |
-| 1. Visie op docentontwikkeling en onderwijsinnovatie (maximaal 20 punten) | 1.2 De onderwijsinstelling beschrijft de stand van zaken op gebied van docentontwikkeling en onderwijsinnovatie en maakt een probleemanalyse | • Beschrijf de huidige situatie: Welke relevante activiteiten heb je al ondernomen en wat was het effect daarbij? Hoe is het op dit moment gesteld met de bekwaamheid van de docenten om innovaties in de onderwijspraktijk goed te kunnen toepassen? • Maak een analyse van de huidige situatie, trek conclusies en geef aan wat je wilt veranderen of verbeteren. |
-| 1. Visie op docentontwikkeling en onderwijsinnovatie (maximaal 20 punten) | 1.3 De onderwijsinstelling beschrijft de toekomstige situatie met succescriteria en geeft een beschrijving van de concrete aspecten die de instelling wil implementeren of verder wil ontwikkelen op het gebied van docentontwikkeling en onderwijsinnovatie. | • Beschrijf de toekomstige situatie: geef aan wat er straks is bereikt met de onderdelen die je wilt ontwikkelen en implementeren. • Beschrijf wanneer het succesvol is: Welke impact heeft de groei van bekwaamheid van docenten en welke impact heeft de innovatie concreet in de onderwijspraktijk. |
-| 1. Visie op docentontwikkeling en onderwijsinnovatie (maximaal 20 punten) | 1.4. De onderwijsinstelling beschrijft de veranderstrategie die ingezet wordt om tot verandering te komen. | • Geef aan hoe je van de huidige situatie in de toekomstige situatie komt en welke strategie je daarbij inzet. |
-| 1. Visie op docentontwikkeling en onderwijsinnovatie (maximaal 20 punten) | 1.5 De onderwijsinstelling beschrijft hoe actieve betrokkenheid van docenten en overig onderwijspersoneel en van bestuur en directie gerealiseerd wordt. | • Geef aan hoe draagvlak tot stand komt: Wat levert het CTL voor docenten op, wat motiveert hen, wanneer willen ze een bijdrage leveren en wat maakt hen tot ambassadeur? • Geef aan hoe het CTL en de docenten door het bestuur en de directie gefaciliteerd worden. |
-| **Criterium 2** | **Deelaspecten** | **Minimumeisen/Toelichting** |
-| 2. Plan van aanpak (maximaal 30 punten) | 2.1 De doelen en resultaten van het CTL-project zijn SMART en sluiten aan op de visie. | • Geef aan welke impact en aantoonbare verandering met de doelen nagestreefd wordt. • Zorg dat de doelen logisch volgen uit de conclusies van de probleemanalyse. |
-| 2. Plan van aanpak (maximaal 30 punten) | 2.2 De activiteiten dragen bij aan het bereiken van de doelen en passen bij de activiteiten genoemd in artikel 7, lid 1, sub a tot en met f. Er zijn activiteiten op alle onderdelen geformuleerd, met duidelijke mijlpalen. | • Laat zien dat de activiteiten bijdragen aan het bereiken van de doelen in het plan van aanpak. • Beschrijf de activiteiten concreet. • Zorg dat onderzoeksactiviteiten een directe aansluiting hebben op de ontwikkeling van het CTL en de doelen. • Zorg ervoor dat de activiteiten volledig aansluiten op de begroting en vice versa. |
-| 2. Plan van aanpak (maximaal 30 punten) | 2.3 In de aanpak is aangegeven wie wat doet op welk moment en vanuit welke rol. | • Beschrijf de projectorganisatie. Ga in op de verantwoordelijkheidsverdeling en besluitvorming. Geef aan wie bij het project betrokken zijn. • Leg uit hoe de docenten betrokken zijn bij de besluitvorming. • Geef aan hoe overige belanghebbenden betrokken worden en wat hun invloed is op het project. |
-| 2. Plan van aanpak (maximaal 30 punten) | 2.4 De onderwijsinstelling beschrijft op welke manier omgegaan wordt met voortschrijdend inzicht gedurende het project en welke instrumenten daarbij worden ingezet. | • Geef aan hoe het proces van monitoring-, evaluatie- en bijsturing eruitziet en welke instrumenten daarbij gebruikt worden. • Maak een koppeling met de succescriteria en de gekozen doelen. |
-| **Criterium 3** | **Deelaspecten** | **Minimumeisen/Toelichting** |
-| 3. Samenwerking (maximaal 20 punten) | 3.1 De instelling beschrijft de vormen van samenwerking (intern en/of extern gericht) en de relatie tot het CTL. | • Geef aan of de samenwerking meer intern of extern gericht is en waarom. • Beschrijf wat je met de samenwerking wilt bereiken en met welke partners. |
-| 3. Samenwerking (maximaal 20 punten) | 3.2 De instelling beargumenteert hoe de samenwerking bijdraagt aan het realiseren van de doelen. |  Leg uit hoe de samenwerking bijdraagt aan de doelen die beoogd worden met het CTL. |
-| **Criterium 4** | **Deelaspecten** | **Minimumeisen/Toelichting** |
-| 4. Verduurzaming (maximaal 20 punten) | 4.1 Er is sprake van een duurzame bestendiging (in organisatorisch, financieel en kwalitatief opzicht) van het CTL binnen de instelling. | • Geef aan hoe de duurzame bestendiging er kwalitatief, organisatorisch en financieel uitziet. Geef aan hoe het CTL na de projectperiode structureel gefinancierd wordt. • Laat zien dat het eigenaarschap van het CTL ook na de projectperiode goed is belegd. |
-| 4. Verduurzaming (maximaal 20 punten) | 4.2 Er is sprake van een duurzame bestendiging van docentontwikkeling en onderwijsinnovatie binnen de instelling. | • Leg uit hoe de kwaliteit blijft bestaan na de projectperiode en wordt ingebed in de cultuur en structuur van de organisatie. |
-| **Criterium 5** | **Deelaspecten** | **Minimumeisen/Toelichting** |
-| 5. Financiële haalbaarheid (10 punten als is voldaan aan de deelaspecten) | De begroting is voldoende als aan de eisen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=11&z=2026-07-15&g=2026-07-15) van de regeling is voldaan: 5.1 De begroting is ingevuld in het format van DUS-I. | • Zorg dat uw begroting voldoet aan de eisen in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=11&z=2026-07-15&g=2026-07-15) van de regeling. |
-| 5. Financiële haalbaarheid (10 punten als is voldaan aan de deelaspecten) | 5.2 De begroting is doelmatig | • De omvang van de activiteiten staat in verhouding tot de kosten die daarvoor begroot zijn. |
-| 5. Financiële haalbaarheid (10 punten als is voldaan aan de deelaspecten) | 5.3 De begroting sluit aan op de activiteiten in het CTL-plan. | • De begroting, bedoeld in [artikel 9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048587&artikel=9&z=2026-07-15&g=2026-07-15), sluit aan op de activiteiten die zijn beschreven in het CTL-plan. • Zorg ervoor dat de beschreven activiteiten in het activiteitenplan, (één-op-één) herleidbaar zijn in de begroting. • In de begroting worden de kosten per activiteit beschreven in samenhang met het gehele CTL-plan en met het in het CTL-plan gegeven tijdstraject. |
-| 5. Financiële haalbaarheid (10 punten als is voldaan aan de deelaspecten) | 5.4 De gekozen tarieven zijn marktconform en zijn inclusief een opslag voor overhead en administratie. | • Opdrachtverlening aan derden voor uitvoering van de activiteiten of een deel daarvan wordt in de begroting opgevoerd, met inachtneming van de aanbestedingswetgeving. |
-| 5. Financiële haalbaarheid (10 punten als is voldaan aan de deelaspecten) | 5.5 De begroting geeft een onderbouwing van de eigen bijdrage. | • Ga in de toelichting in op de relatie van de eigen bijdrage ten opzichte van de totale projectkosten. |
+1. Deze regeling treedt in werking met ingang van 1 september 2023.
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+2. Deze regeling vervalt met ingang van 1 september 2031, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
+
+##### Artikel 18. Citeertitel
+
+Deze regeling wordt aangehaald als: Subsidieregeling Npuls CTL.

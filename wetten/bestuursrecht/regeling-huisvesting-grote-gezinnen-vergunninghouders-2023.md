@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 juni 2023, nr. 2023-0000309544 houdende regels voor het verlenen van eenmalige specifieke uitkeringen aan gemeenten ten behoeve van de versnelde huisvesting en begeleiding van grote gezinnen vergunninghouders (Regeling specifieke uitkering huisvesting grote gezinnen vergunninghouders)"
+citeertitel: "Regeling huisvesting grote gezinnen vergunninghouders 2023"
 identifier: "BWBR0048251"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048251"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16765393"
-version_id: "29444012"
-internal_id: "C42110511"
-label_id: "16680864"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048251/2023-07-01/0"
-intitule_bron: "Stcrt.2023-15875"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-01"
-intitule_published: "2023-06-08"
-intitule_in_force: "2023-06-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-15875"
-original_signed_date: "2023-06-01"
-original_published_date: "2023-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-15875"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048251&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048251&g=2023-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling huisvesting grote gezinnen vergunninghouders 2023"
-signed_date: "2023-06-01"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0048251"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 1 juni 2023, nr. 2023-0000309544 houdende regels voor het verlenen van eenmalige specifieke uitkeringen aan gemeenten ten behoeve van de versnelde huisvesting en begeleiding van grote gezinnen vergunninghouders (Regeling specifieke uitkering huisvesting grote gezinnen vergunninghouders)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **COA:** Centraal Orgaan opvang asielzoekers als bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2);
+- *COA:* Centraal Orgaan opvang asielzoekers als bedoeld in [artikel 2 van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=2);
 
-- **college:** college van burgemeester en wethouders;
+- *college:* college van burgemeester en wethouders;
 
-- **groot gezin:** gezin van zeven of meer personen dat gekoppeld is aan een gemeente en in een opvangvoorziening van het COA verblijft of waarvan een deel van het gezin in een woning in de gemeente verblijft en ten tijde van de indiening van de aanvraag voor een specifieke uitkering ten minste één gezinslid in het bezit is van een verblijfsvergunning en de rest een machtiging tot voorlopig verblijf;
+- *groot gezin:* gezin van zeven of meer personen dat gekoppeld is aan een gemeente en in een opvangvoorziening van het COA verblijft of waarvan een deel van het gezin in een woning in de gemeente verblijft en ten tijde van de indiening van de aanvraag voor een specifieke uitkering ten minste één gezinslid in het bezit is van een verblijfsvergunning en de rest een machtiging tot voorlopig verblijf;
 
-- **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening;
+- *minister:* Minister voor Volkshuisvesting en Ruimtelijke Ordening;
 
-- **object:** ruimte die ter bewoning voor verhuur wordt aangeboden of een ruimte met een andere bestemming dan wonen die na transformatie geschikt is voor bewoning en aan de daartoe gestelde eisen voldoet.
+- *object:* ruimte die ter bewoning voor verhuur wordt aangeboden of een ruimte met een andere bestemming dan wonen die na transformatie geschikt is voor bewoning en aan de daartoe gestelde eisen voldoet.
 
 ##### Artikel 2. Doel en activiteiten
 
@@ -74,15 +48,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Uitkeringsplafond
 
-1. Het plafond in 2023 voor het totaalbedrag aan verleningen van een specifieke uitkering bedraagt € 3.500.000.
+1. Het plafond in 2023 voor het totaalbedrag aan verleningen van een specifieke uitkering bedraagt € 3.500.000.
 
-2. De maximumhoogte in 2023 die per aanvraag voor een specifieke uitkering kan worden verleend bedraagt € 35.000 voor een groot gezin van zeven tot en met negen personen en € 50.000 voor een groot gezin van tien personen of meer.
+2. De maximumhoogte in 2023 die per aanvraag voor een specifieke uitkering kan worden verleend bedraagt € 35.000 voor een groot gezin van zeven tot en met negen personen en € 50.000 voor een groot gezin van tien personen of meer.
 
 3. De maximumhoogte, bedoeld in het tweede lid, is inclusief de eventuele aftrek van het bedrag dat aan BTW verschuldigd is over de kosten van het project wat in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
 ##### Artikel 4. Aanvraag
 
-1. Een specifieke uitkering kan worden aangevraagd binnen de aanvraagperiode die loopt van 3 juli 2023 vanaf 12.00 uur tot en met 1 november 2023 om 17.00 uur.
+1. Een specifieke uitkering kan worden aangevraagd binnen de aanvraagperiode die loopt van 3 juli 2023 vanaf 12.00 uur tot en met 1 november 2023 om 17.00 uur.
 
 2. Een aanvraag bevat in ieder geval:
 
@@ -154,10 +128,8 @@ De minister kan de specifieke uitkering lager vaststellen, indien het niet of on
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2023.
+Deze regeling treedt in werking met ingang van 1 juli 2023.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling huisvesting grote gezinnen vergunninghouders 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

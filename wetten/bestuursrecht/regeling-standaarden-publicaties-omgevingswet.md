@@ -1,26 +1,26 @@
 ---
-title: "Regeling standaarden publicaties Omgevingswet"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2023, 2023-000083586, houdende aanwijzing van standaarden voor publicatie van besluiten en andere rechtsfiguren op grond van de Omgevingswet (Regeling standaarden publicaties Omgevingswet)"
+citeertitel: "Regeling standaarden publicaties Omgevingswet"
 identifier: "BWBR0048085"
 categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-30
-laatste_update: 2026-05-02
+soort: "ministeriele-regeling"
+publicatiedatum: 2024-01-01
+laatste_update: 2026-04-30
 status: geldig
+toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0048085"
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 april 2023, 2023-000083586, houdende aanwijzing van standaarden voor publicatie van besluiten en andere rechtsfiguren op grond van de Omgevingswet (Regeling standaarden publicaties Omgevingswet)
-
-Gelet op [artikel 19, vijfde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=2.1) en [3.8 van het Besluit elektronische publicaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045037&artikel=3.8);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **de wet:** de [Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287);
+- *de wet:* de [Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287);
 
-- **publicatieblad:** een in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1) of [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemd publicatieblad dat elektronisch worden uitgegeven, met uitzondering van het Staatsblad.
+- *publicatieblad:* een in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=1) of [2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2) genoemd publicatieblad dat elektronisch worden uitgegeven, met uitzondering van het Staatsblad.
 
 ##### Artikel 2. Aanwijzing technische standaarden
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Clausule wederzijdse erkenning
 
-Voor zover in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=1&z=2026-04-30&g=2026-04-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=3&z=2026-04-30&g=2026-04-30) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in [Richtlijn (EU) 2015/1535](32015L1535) van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Voor de EER relevante tekst) (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
+Voor zover in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=1&z=2026-04-30&g=2026-04-30) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bijlage=3&z=2026-04-30&g=2026-04-30) bij deze regeling ten aanzien van producten technische voorschriften zijn gesteld als bedoeld in Richtlijn (EU) 2015/1535 van het Europees Parlement en de Raad van 9 september 2015 betreffende een informatieprocedure op het gebied van technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (Voor de EER relevante tekst) (PbEU 2015, L 241), worden met die producten gelijkgesteld producten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met die technische voorschriften wordt nagestreefd.
 
 ##### Artikel 5. Overgangsbepaling
 
@@ -56,58 +56,8 @@ Voor zover in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&bi
 
 ##### Artikel 6. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2024.
+Deze regeling treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling standaarden publicaties Omgevingswet.
-
-## Bijlage 1. Standaard officiële publicaties (STOP)
-
-Bijlage als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2026-04-30&g=2026-04-30)
-
-De Standaard officiële publicaties (STOP), versie 1.3, geplaatst op: [https://standaarden.overheid.nl/stop/doc/](https://standaarden.overheid.nl/stop/doc/)
-
-## Bijlage 2. Koppelvlakbeschrijving
-
-Bijlage als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2026-04-30&g=2026-04-30)
-
-Het Bronhouderkoppelvlak Landelijke voorziening bekendmaken en beschikbaarstellen (LVBB), versie 1.2, geplaatst op: [https://standaarden.overheid.nl/lvbb/doc/](https://standaarden.overheid.nl/lvbb/doc/)
-
-## Bijlage 3. Domeinspecifiek informatiemodel
-
-Bijlage als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2026-04-30&g=2026-04-30)
-
-Het Informatiemodel Omgevingswet, versie 3.0, geplaatst op [https://www.geonovum.nl/omgevingswet/STOPTPOD](https://www.geonovum.nl/omgevingswet/STOPTPOD)
-
-## Bijlage 4. Toepassingsprofielen voor publicatie
-
-Bijlage als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2026-04-30&g=2026-04-30)
-
-De onderstaande toepassingsprofielen, geplaatst op [https://www.geonovum.nl/omgevingswet/STOPTPOD](https://www.geonovum.nl/omgevingswet/STOPTPOD)
-
-| Besluit of andere rechtsfiguur op grond van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) | TPOD | VERSIENUMMER |
-| --- | --- | --- |
-| Omgevingsvisie | Omgevingsvisie | 3.0 |
-| Waterschapsverordening | Waterschapsverordening | 3.0 |
-| Omgevingsverordening | Omgevingsverordening | 3.0 |
-| Omgevingsplan | Omgevingsplan | 3.0 |
-| Programma | Programma | 3.0 |
-| Reactieve interventie op grond van [artikel 16.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=16.21) | Reactieve interventie | 3.0 |
-| Instructie tot het nemen van een besluit, op grond van [artikel 2.33](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.33) of [2.34 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.34) | Instructie | 3.0 |
-| Voorbereidingsbesluit | Voorbereidingsbesluit | 3.0 |
-| Projectbesluit | Projectbesluit | 4.0 |
-| Ministeriële regeling | AMvB en MR | 3.0 |
-| Aanwijzings- of toegangsbeperkingsbesluit Natura 2000 | Natura 2000-besluiten | 3.0 |
-
-## Bijlage 5. Toepassingsprofiel bij publicatie
-
-Bijlage als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048085&artikel=2&z=2026-04-30&g=2026-04-30)
-
-Het onderstaande toepassingsprofiel, geplaatst op [https://www.geonovum.nl/omgevingswet/STOPTPOD](https://www.geonovum.nl/omgevingswet/STOPTPOD)
-
-| Besluit of andere rechtsfiguur op grond van de Omgevingswet | TPOD | Versienummer |
-| --- | --- | --- |
-| De kennisgeving van een verleende omgevingsvergunning voor een voortdurende buitenplanse omgevingsplanactiviteit, waaraan geen termijn als bedoeld in [artikel 5.36, eerste lid, Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.36) is verbonden, die betreft: 1. een omgevingsplanactiviteit bestaande uit het in stand houden van: a. een of meer nieuw te bouwen hoofdgebouwen, b. een of meer andere bouwwerken buiten de bebouwde kom met een oppervlakte van meer dan 150 m2 of een hoogte van meer dan 40 m; 2. een omgevingsplanactiviteit, anders dan onder 1, die niet in overeenstemming is met een aan een locatie toegedeelde functie. | Kennisgeving omgevingsvergunning voor buitenplanse omgevingsplanactiviteit | 2.0 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

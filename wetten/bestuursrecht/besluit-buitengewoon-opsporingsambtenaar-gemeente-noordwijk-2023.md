@@ -1,58 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 23 juni 2023 nr. BOACAT2023/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Noordwijk"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Noordwijk 2023"
 identifier: "BWBR0048406"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-08-17"
-last_updated: "2023-08-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048406"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16805363"
-version_id: "29524212"
-internal_id: "C42209831"
-label_id: "16718924"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048406/2023-08-17/0"
-intitule_bron: "Stcrt.2023-18140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-23"
-intitule_published: "2023-06-30"
-intitule_in_force: "2023-06-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-18140"
-original_signed_date: "2023-06-23"
-original_published_date: "2023-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-18140"
-entry_into_force_date: "2023-08-17"
-jci_1_3: "jci1.3:c:BWBR0048406&z=2023-08-17&g=2023-08-17"
-jci_1_0: "1.0:c:BWBR0048406&g=2023-08-17"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Noordwijk 2023"
-signed_date: "2023-06-23"
-entry_into_force: "2023-08-17"
+publicatiedatum: 2023-08-17
+laatste_update: 2023-08-17
+status: geldig
+toestand: 2023-08-17
+bron: "https://wetten.overheid.nl/BWBR0048406"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 23 juni 2023 nr. BOACAT2023/036, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Noordwijk
-
-Gelezen het verzoek van de gemeente Noordwijk van 14 juni 2023 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Den Haag en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -64,7 +24,7 @@ De personen, werkzaam in de functie van handhaver openbare ruimte in dienst van 
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -82,7 +42,7 @@ Op grond van dit besluit kunnen maximaal 27 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De gemeente Noordwijk brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Noordwijk brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048406&artikel=2&z=2023-08-17&g=2023-08-17) genoemde functie;
 
@@ -100,12 +60,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar gemeente Noordwijk 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041246) van 6 augustus 2018 nr. BOACAT2018/045 zal vervallen op 17 augustus 2023.
+Het [Besluit buitengewoon opsporingsambtenaar gemeente Noordwijk 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041246) van 6 augustus 2018 nr. BOACAT2018/045 zal vervallen op 17 augustus 2023.
 
-Dit besluit treedt in werking met ingang van 17 augustus 2023 en vervalt met ingang van 17 augustus 2028.
+Dit besluit treedt in werking met ingang van 17 augustus 2023 en vervalt met ingang van 17 augustus 2028.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Noordwijk 2023.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 15 september 2023, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met uitbreiding van de bijhouding van gegevens over niet-ingezetenen in de basisregistratie personen, alsmede van een experiment met het informeren van ingeschrevenen op het woonadres over de inschrijvingen op dat adres (Besluit experimenten bijhouding basisregistratie personen)"
+citeertitel: "Besluit experimenten bijhouding basisregistratie personen"
 identifier: "BWBR0048654"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048654"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16863353"
-version_id: "29636592"
-internal_id: "C42403961"
-label_id: "16775694"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048654/2023-10-01/0"
-intitule_bron: "Stb.2023-309"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-15"
-intitule_published: "2023-09-27"
-intitule_in_force: "2023-09-27"
-intitule_status: "goed"
-original_publication: "Stb.2023-309"
-original_signed_date: "2023-09-15"
-original_published_date: "2023-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-309"
-entry_into_force_date: "2023-10-01"
-jci_1_3: "jci1.3:c:BWBR0048654&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0048654&g=2023-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit experimenten bijhouding basisregistratie personen"
-signed_date: "2023-09-15"
-entry_into_force: "2023-10-01"
+publicatiedatum: 2023-10-01
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0048654"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 15 september 2023, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met uitbreiding van de bijhouding van gegevens over niet-ingezetenen in de basisregistratie personen, alsmede van een experiment met het informeren van ingeschrevenen op het woonadres over de inschrijvingen op dat adres (Besluit experimenten bijhouding basisregistratie personen)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 maart 2023, nr. 2022-0000518722;
-
-Gelet op de [artikelen 2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.65) en [4.16a, eerste lid, aanhef en onderdelen d en f, en zesde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.16a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 juni 2023, nr. W04.23.00060/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 12 september 2023, nr. 2023-0000427870;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -52,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **de wet:** de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715).
+- *de wet:* de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715).
 
 ### Hoofdstuk 2. Experiment uitbreiding bijhouding gegevens niet-ingezetenen
 
@@ -62,7 +30,7 @@ In dit besluit wordt verstaan onder:
 
 In dit hoofdstuk wordt verstaan onder:
 
-- **het experiment:** het experiment, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048654&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2023-10-01&g=2023-10-01).
+- *het experiment:* het experiment, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048654&hoofdstuk=2&paragraaf=2&artikel=2.2&z=2023-10-01&g=2023-10-01).
 
 #### § 2. Het experiment
 
@@ -70,7 +38,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 Met het oogmerk om de bijhouding van gegevens over niet-ingezetenen in de basisregistratie uit te breiden, vindt voor de periode van vier jaar een experiment als bedoeld in [artikel 4.16a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.16a) plaats.
 
-##### Artikel 2.3. Afwijken van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
+##### Artikel 2.3. Afwijken van de wet
 
 1. Onverminderd het tweede lid, vindt het experiment plaats overeenkomstig hetgeen bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) is bepaald.
 
@@ -126,7 +94,7 @@ Criteria aan de hand waarvan in het kader van monitoring en evaluatie als bedoel
 
 In dit hoofdstuk wordt verstaan onder:
 
-- **het experiment:** het experiment, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048654&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2023-10-01&g=2023-10-01).
+- *het experiment:* het experiment, bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048654&hoofdstuk=3&paragraaf=2&artikel=3.2&z=2023-10-01&g=2023-10-01).
 
 #### § 2. Het experiment
 
@@ -134,7 +102,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 Met het oogmerk om de ingeschrevene op het woonadres te informeren over de inschrijvingen op het betreffende adres, vindt voor de periode van vier jaar een experiment als bedoeld in [artikel 4.16a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.16a) plaats.
 
-##### Artikel 3.3. Afwijken van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715)
+##### Artikel 3.3. Afwijken van de wet
 
 1. Onverminderd het tweede lid, vindt het experiment plaats overeenkomstig hetgeen bij en krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) is bepaald.
 
@@ -199,5 +167,3 @@ Criteria aan de hand waarvan in het kader van monitoring en evaluatie als bedoel
 ##### Artikel 4.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experimenten bijhouding basisregistratie personen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

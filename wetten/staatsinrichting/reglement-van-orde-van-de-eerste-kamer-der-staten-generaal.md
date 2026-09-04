@@ -1,37 +1,16 @@
 ---
 title: "Reglement van Orde van de Eerste Kamer der Staten-Generaal"
 identifier: "BWBR0048272"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-06-13"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048272"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "16771563"
-version_id: "29458662"
-internal_id: "C42128061"
-label_id: "16688864"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048272/2023-06-13/0"
-intitule_bron: "Kst.2023-CLVI"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-28"
-intitule_published: "2023-05-16"
-intitule_in_force: "2023-05-16"
-intitule_status: "goed"
-original_publication: "Kst.2023-CLVI"
-original_signed_date: "2023-03-28"
-original_published_date: "2023-05-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "2023-06-13"
-jci_1_3: "jci1.3:c:BWBR0048272&z=2023-06-13&g=2023-06-13"
-jci_1_0: "1.0:c:BWBR0048272&g=2023-06-13"
-citeertitel_status: "redactioneel"
-signed_date: "2023-03-28"
-entry_into_force: "2023-06-13"
+publicatiedatum: 2023-06-13
+laatste_update: 2023-06-13
+status: geldig
+toestand: 2023-06-13
+bron: "https://wetten.overheid.nl/BWBR0048272"
+opgehaald: 2026-09-04
 ---
+
 # Reglement van Orde van de Eerste Kamer der Staten-Generaal
 
 #### Begripsbepalingen
@@ -106,8 +85,6 @@ Over de toelating van leden die na een verkiezing benoemd zijn verklaard beslist
 
 2. De tijdelijk Voorzitter legt ten overstaan van de vergadering de eed of verklaring en belofte af.
 
-3.
-
 #### Benoeming van de Voorzitter en de Ondervoorzitters
 
 ##### Artikel 7
@@ -131,8 +108,6 @@ Nadat de Kamer een Voorzitter heeft benoemd, gaat zij over tot de benoeming van 
 1. De Voorzitter kan aan een van de Ondervoorzitters het voorzitterschap tijdelijk overdragen.
 
 2. Is geen gebruikgemaakt van het eerste lid, dan wordt bij afwezigheid van de Voorzitter het voorzitterschap van rechtswege waargenomen door de eerste, dan wel bij diens afwezigheid de tweede Ondervoorzitter.
-
-3.
 
 Is noch de Voorzitter, noch een van de Ondervoorzitters beschikbaar, dan wordt de Voorzitter vervangen overeenkomstig de regeling in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=6&z=2023-06-13&g=2023-06-13).
 
@@ -407,8 +382,6 @@ Commissies zijn in ieder geval bevoegd:
 - b. een indicatie van de duur van de werkzaamheden en
 
 - c. een indicatie van de benodigde ambtelijke ondersteuning.
-
-3.
 
 Een rapport wordt na gereedkomen aan de Voorzitter aangeboden, die het naar de betrokken commissie of commissies doorgeleidt.
 
@@ -895,8 +868,6 @@ Indien bij de stemming over de vraag wie in herstemming komt of komen, de stemme
 - a. tot de Koning met de volgende woorden: "Aan de Koning, De Eerste Kamer der Staten-Generaal heeft nevenstaand voorstel verworpen."
 
 - b. Tot de Tweede Kamer met de volgende woorden: "Aan de Tweede Kamer, De Eerste Kamer der Staten-Generaal geeft aan de Tweede Kamer kennis van het feit dat zij het voorstel van wet betreffende ..., op de ... aan haar toegezonden, heeft verworpen."
-
-3.
 
 Indien het voorstel door de Tweede Kamer ingediend werd, richt de Kamer zich tot die Kamer met de volgende woorden:
 

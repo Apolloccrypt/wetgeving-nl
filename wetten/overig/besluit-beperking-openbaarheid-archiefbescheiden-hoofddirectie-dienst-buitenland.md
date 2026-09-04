@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 8 mei 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
 identifier: "BWBR0048160"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-05-18"
-last_updated: "2023-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048160"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16746193"
-version_id: "29405072"
-internal_id: "C42042991"
-label_id: "16662134"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048160/2023-05-18/0"
-intitule_bron: "Stcrt.2023-13970"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-08"
-intitule_published: "2023-05-17"
-intitule_in_force: "2023-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13970"
-original_signed_date: "2023-05-08"
-original_published_date: "2023-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13970"
-entry_into_force_date: "2023-05-18"
-jci_1_3: "jci1.3:c:BWBR0048160&z=2023-05-18&g=2023-05-18"
-jci_1_0: "1.0:c:BWBR0048160&g=2023-05-18"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010"
-signed_date: "2023-05-08"
-entry_into_force: "2023-05-18"
+publicatiedatum: 2023-05-18
+laatste_update: 2023-05-18
+status: geldig
+toestand: 2023-05-18
+bron: "https://wetten.overheid.nl/BWBR0048160"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 8 mei 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers, Besluit Beperking Openbaarheid Hoofddirectie Dienst Buitenlandse Zaken en Hoofddirectie Personeel en Organisatie, personeelsdossiers (1945) 1985–2010
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris d.d. 2 mei 2023, referentie 37559585;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste, derde en vijfde kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de kolom rechts van het inventarisnummer. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
+Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste, derde en vijfde kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de kolom rechts van het inventarisnummer. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
 
 | Inventaris- nummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: | Inventaris- nummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: | Inventaris- nummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- | --- | --- | --- | --- |
@@ -466,8 +438,8 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 452 | 2030 | 883 | 2044 | 1331 | 2032 |
 | 453 | 2050 | 885 | 2047 | 1332 | 2032 |
 | 454 | 2035 | 887 | 2044 | 1333 | 2032 |
-| 455 | 2035 | 890 | 2057 |   |   |
-| 456 | 2035 | 892 | 2046 |   |   |
+| 455 | 2035 | 890 | 2057 |  |  |
+| 456 | 2035 | 892 | 2046 |  |  |
 
 ##### Artikel 2
 

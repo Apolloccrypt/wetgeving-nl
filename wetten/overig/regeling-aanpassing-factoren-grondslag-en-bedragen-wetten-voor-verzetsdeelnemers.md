@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 mei 2023, kenmerk 3594862-1048050-WJZ, houdende aanpassing van de factoren, grondslag en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2023"
+citeertitel: "Regeling aanpassing factoren, grondslag en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2023"
 identifier: "BWBR0048221"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048221"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16758233"
-version_id: "29430072"
-internal_id: "C42085951"
-label_id: "16674174"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048221/2023-07-01/0"
-intitule_bron: "Stcrt.2023-15199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-23"
-intitule_published: "2023-06-01"
-intitule_in_force: "2023-06-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-15199"
-original_signed_date: "2023-05-23"
-original_published_date: "2023-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-15199"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048221&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048221&g=2023-07-01"
-citeertitel_status: "redactioneel"
-short_title: "Regeling aanpassing factoren, grondslag en bedragen wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2023"
-signed_date: "2023-05-23"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0048221"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 23 mei 2023, kenmerk 3594862-1048050-WJZ, houdende aanpassing van de factoren, grondslag en bedragen in de wetten voor verzetsdeelnemers en oorlogsgetroffenen per 1 juli 2023
-
-Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31a), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28a), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=18) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=25);
-
-Besluit:
 
 ##### Artikel 1
 
-De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31b) en in [artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28b), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
+De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31b) en in [artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28b), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
 
 ##### Artikel 2
 
-De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden met ingang van 1 juli 2023 vastgesteld als volgt:
+De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden met ingang van 1 juli 2023 vastgesteld als volgt:
 
-| A | A | B | B |
+| A | B |  |  |
 | --- | --- | --- | --- |
-| pensioengrondslagen 1947 per jaar in euro | pensioengrondslagen 1947 per jaar in euro | welvaartstoeslag vanaf 1 juli 2023 | welvaartstoeslag vanaf 1 juli 2023 |
-| van | tot en met |   |   |
-| 1.225,21 | 1.356,79 | 32.962,44 minus pensioengrondslag | 32.962,44 minus pensioengrondslag |
+| pensioengrondslagen 1947 per jaar in euro | welvaartstoeslag vanaf 1 juli 2023 |  |  |
+| van | tot en met |  |  |
+| 1.225,21 | 1.356,79 | 32.962,44 minus pensioengrondslag |  |
 | van | tot en met | pensioen-grondslag maal | plus extra bedrag in euro |
 | 1.356,80 | 1.404,44 | 23,1132 | 260,00 |
 | 1.404,45 | 1.446,64 | 23,1490 | 260,00 |
@@ -106,30 +80,28 @@ De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buite
 
 ##### Artikel 3
 
-De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=10), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
+De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=10), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
 
 ##### Artikel 4
 
-Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+*Wijzigt de Wet buitengewoon pensioen Indisch verzet.*
 
 ##### Artikel 5
 
-De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
+De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
 
 ##### Artikel 6
 
-Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945.*
 
 ##### Artikel 7
 
-De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
+De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10), zoals zij golden op 1 januari 2023, worden met ingang van 1 juli 2023 verhoogd met 3,13%.
 
 ##### Artikel 8
 
-Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.
+*Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945.*
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van 1 juli 2023.
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 juli 2023.

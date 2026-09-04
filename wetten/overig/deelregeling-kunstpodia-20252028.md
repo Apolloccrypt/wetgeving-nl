@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunstpodia 2025–2028"
 identifier: "BWBR0048428"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-07-21"
-last_updated: "2023-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048428"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16810733"
-version_id: "29533772"
-internal_id: "C42222161"
-label_id: "16724684"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048428/2023-07-21/0"
-intitule_bron: "Stcrt.2023-20142"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-07-20"
-intitule_in_force: "2023-07-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-20142"
-original_published_date: "2023-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-20142"
-entry_into_force_date: "2023-07-21"
-jci_1_3: "jci1.3:c:BWBR0048428&z=2023-07-21&g=2023-07-21"
-jci_1_0: "1.0:c:BWBR0048428&g=2023-07-21"
-citeertitel_status: "officieel"
-entry_into_force: "2023-07-21"
+publicatiedatum: 2023-07-21
+laatste_update: 2023-07-21
+status: geldig
+toestand: 2023-07-21
+bron: "https://wetten.overheid.nl/BWBR0048428"
+opgehaald: 2026-09-04
 ---
+
 # Deelregeling Kunstpodia 2025–2028
-
-Gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -42,41 +19,41 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **het fonds:** het Mondriaan Fonds;
+- a. *het fonds:* het Mondriaan Fonds;
 
-- b. **het bestuur:** de directeur-bestuurder van het fonds;
+- b. *het bestuur:* de directeur-bestuurder van het fonds;
 
-- c. **kunstpodium:** een organisatie met rechtspersoonlijkheid gevestigd in Nederland, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst, die niet overwegend gericht is op het beheer van een collectie, die de programmering laat plaatsvinden in een fysieke ruimte en tot primair doel heeft hedendaagse beeldende kunst te presenteren zonder verkoopdoel en waarbij winst niet het primair oogmerk is;
+- c. *kunstpodium:* een organisatie met rechtspersoonlijkheid gevestigd in Nederland, die een publiekstoegankelijk podium biedt voor de presentatie van vernieuwend of experimenteel aanbod van hedendaagse beeldende kunst, die niet overwegend gericht is op het beheer van een collectie, die de programmering laat plaatsvinden in een fysieke ruimte en tot primair doel heeft hedendaagse beeldende kunst te presenteren zonder verkoopdoel en waarbij winst niet het primair oogmerk is;
 
-- d. **programma:** een serie van inhoudelijk samenhangende activiteiten gericht op presentatie, experiment, opinie en debat, zoals tentoonstellingen, discussiebijeenkomsten en lezingen;
+- d. *programma:* een serie van inhoudelijk samenhangende activiteiten gericht op presentatie, experiment, opinie en debat, zoals tentoonstellingen, discussiebijeenkomsten en lezingen;
 
-- e. **beeldend kunstenaar:** degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten;
+- e. *beeldend kunstenaar:* degene die op professionele wijze werk maakt binnen het kader van de beeldende kunsten;
 
-- f. **beeldende kunst:** hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
+- f. *beeldende kunst:* hedendaagse en actuele vormen van verbeelding die door beeldend kunstenaars worden vervaardigd binnen één of meer van de volgende terreinen:
 
-- •. teken-, schilder- en grafische kunsten,
+   - • teken-, schilder- en grafische kunsten,
 
-- •. beeldhouwkunst, (sociale) sculptuur en installatiekunst,
+   - • beeldhouwkunst, (sociale) sculptuur en installatiekunst,
 
-- •. conceptuele kunst, performancekunst, artistiek onderzoek,
+   - • conceptuele kunst, performancekunst, artistiek onderzoek,
 
-- •. niet-traditionele vormen van beeldende kunst,
+   - • niet-traditionele vormen van beeldende kunst,
 
-- •. fotografie,
+   - • fotografie,
 
-- •. audiovisuele, digitale, geluids- en (nieuwe) mediakunst,
+   - • audiovisuele, digitale, geluids- en (nieuwe) mediakunst,
 
-- •. beeldende kunsttoepassingen,
+   - • beeldende kunsttoepassingen,
 
-- •. kunst in de openbare ruimte;
+   - • kunst in de openbare ruimte;
 
-- g. **aanvrager:** een kunstpodium dat een aanvraag doet;
+- g. *aanvrager:* een kunstpodium dat een aanvraag doet;
 
-- h. **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten inclusief de bijzondere gemeentes Bonaire, Sint Eustatius en Saba;
+- h. *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland, Aruba, Curaçao en Sint Maarten inclusief de bijzondere gemeentes Bonaire, Sint Eustatius en Saba;
 
-- i. **bevoegd adviesorgaan:** een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen;
+- i. *bevoegd adviesorgaan:* een onder welke benaming dan ook door het bestuur aangewezen adviseur of adviescommissie aan wie is opgedragen aanvragen op grond van een of meer deelregelingen te beoordelen;
 
-- j. **pluriformiteit:** culturele, geografische en andere vormen van diversiteit.
+- j. *pluriformiteit:* culturele, geografische en andere vormen van diversiteit.
 
 ##### Artikel 1.2. Doel
 
@@ -186,9 +163,9 @@ De subsidie wordt maximaal drie keer verstrekt voor telkens een periode van twee
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Start:
 
-- •. toont aan dat minimaal 10 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
+- • toont aan dat minimaal 10 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
 
-- •. onderschrijft de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
+- • onderschrijft de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
@@ -196,21 +173,21 @@ De subsidie wordt maximaal drie keer verstrekt voor telkens een periode van twee
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
-- –. Een beschrijving van de organisatie, betrokken personen, de activiteiten in het recente verleden en de ambities voor de nabije toekomst;
+- – Een beschrijving van de organisatie, betrokken personen, de activiteiten in het recente verleden en de ambities voor de nabije toekomst;
 
-- –. Een plan met de volgende onderdelen;
+- – Een plan met de volgende onderdelen;
 
-- •. Een programma;
+   - • Een programma;
 
-- •. Een presentatieplan waarin toegelicht wordt hoe het beoogde publiek wordt bereikt;
+   - • Een presentatieplan waarin toegelicht wordt hoe het beoogde publiek wordt bereikt;
 
-- •. Een toelichting waarom op dit moment een bijdrage van belang is en op welke manier de bijdrage ook op langere termijn een impuls voor de organisatie kan betekenen;
+   - • Een toelichting waarom op dit moment een bijdrage van belang is en op welke manier de bijdrage ook op langere termijn een impuls voor de organisatie kan betekenen;
 
-- •. Een toelichting op de lokale inbedding van de organisatie, zoals ook kan blijken uit bijdragen van de lokale overheid;
+   - • Een toelichting op de lokale inbedding van de organisatie, zoals ook kan blijken uit bijdragen van de lokale overheid;
 
-- •. Een reflectie op de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin de organisatie een toelichting geeft op hoe de codes tot nu toe een rol hebben gespeeld in het beleid en welke stappen de organisatie de komende twee jaar wil nemen op dit gebied.
+   - • Een reflectie op de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin de organisatie een toelichting geeft op hoe de codes tot nu toe een rol hebben gespeeld in het beleid en welke stappen de organisatie de komende twee jaar wil nemen op dit gebied.
 
-- –. Een begroting met een dekkingsplan.
+- – Een begroting met een dekkingsplan.
 
 ##### Artikel 3.5. Beoordelingscriteria
 
@@ -242,11 +219,11 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Basis:
 
-- •. voerde in de twee jaar voorafgaand aan de aanvraag een programma uit, zoals bedoeld in [artikel 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0048428&paragraaf=1&artikel=1.1&z=2023-07-21&g=2023-07-21);
+- • voerde in de twee jaar voorafgaand aan de aanvraag een programma uit, zoals bedoeld in [artikel 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0048428&paragraaf=1&artikel=1.1&z=2023-07-21&g=2023-07-21);
 
-- •. toont aan dat minimaal 20 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
+- • toont aan dat minimaal 20 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
 
-- •. beschikt over actief geïmplementeerd beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
+- • beschikt over actief geïmplementeerd beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
@@ -254,19 +231,19 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
-- –. Een beschrijving van de instelling, de daarbij betrokken personen, de activiteiten in recente jaren en de ambities voor de nabije toekomst.
+- – Een beschrijving van de instelling, de daarbij betrokken personen, de activiteiten in recente jaren en de ambities voor de nabije toekomst.
 
-- –. Een plan dat de volgende onderdelen bevat:
+- – Een plan dat de volgende onderdelen bevat:
 
-- •. Een programma met een overtuigende artistiek inhoudelijke basis;
+   - • Een programma met een overtuigende artistiek inhoudelijke basis;
 
-- •. Een presentatieplan waarin toegelicht wordt hoe het beoogde publiek wordt bereikt;
+   - • Een presentatieplan waarin toegelicht wordt hoe het beoogde publiek wordt bereikt;
 
-- •. Een toelichting op de lokale inbedding van de instelling, zoals ook kan blijken uit bijdragen van de lokale overheid;
+   - • Een toelichting op de lokale inbedding van de instelling, zoals ook kan blijken uit bijdragen van de lokale overheid;
 
-- •. Een toelichting op het actief geïmplementeerde beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin verbeterpunten worden benoemd en een stappenplan richting verbetering wordt geformuleerd.
+   - • Een toelichting op het actief geïmplementeerde beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin verbeterpunten worden benoemd en een stappenplan richting verbetering wordt geformuleerd.
 
-- –. Een begroting met een dekkingsplan.
+- – Een begroting met een dekkingsplan.
 
 ##### Artikel 4.5. Beoordelingscriteria
 
@@ -302,11 +279,11 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Breed:
 
-- •. voerde in de twee jaar voorafgaand aan de aanvraag een programma, zoals bedoeld in [artikel 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0048428&paragraaf=1&artikel=1.1&z=2023-07-21&g=2023-07-21);
+- • voerde in de twee jaar voorafgaand aan de aanvraag een programma, zoals bedoeld in [artikel 1 sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0048428&paragraaf=1&artikel=1.1&z=2023-07-21&g=2023-07-21);
 
-- •. toont aan dat minimaal 30 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
+- • toont aan dat minimaal 30 procent van de begroting is gedekt door financiële bijdragen van andere overheden en/of andere partijen en/of eigen inkomsten voor de structurele kosten van de organisatie;
 
-- •. beschikt over actief geïmplementeerd beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
+- • beschikt over actief geïmplementeerd beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
@@ -314,21 +291,21 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
-- –. Een beschrijving van de missie, visie en het profiel van de instelling, de daarbij betrokken personen en een reflectie op de activiteiten in recente jaren.
+- – Een beschrijving van de missie, visie en het profiel van de instelling, de daarbij betrokken personen en een reflectie op de activiteiten in recente jaren.
 
-- –. Een plan dat de volgende onderdelen bevat:
+- – Een plan dat de volgende onderdelen bevat:
 
-- •. Een doordacht artistiek inhoudelijk breed programma;
+   - • Een doordacht artistiek inhoudelijk breed programma;
 
-- •. Een presentatieplan waarin toegelicht wordt hoe een stevig publieksbereik voorbij het professionele bereikt wordt waarbij de aanvrager ingaat op de (gewenste)publieksvoorzieningen en een overtuigende publieksstrategie aanlevert waaruit inzicht in meer verschillende doelgroepen blijkt en hoe deze te bereiken.;
+   - • Een presentatieplan waarin toegelicht wordt hoe een stevig publieksbereik voorbij het professionele bereikt wordt waarbij de aanvrager ingaat op de (gewenste)publieksvoorzieningen en een overtuigende publieksstrategie aanlevert waaruit inzicht in meer verschillende doelgroepen blijkt en hoe deze te bereiken.;
 
-- •. Een duidelijke strategie met betrekking tot de lokale en (inter)nationale context;
+   - • Een duidelijke strategie met betrekking tot de lokale en (inter)nationale context;
 
-- •. Een heldere en overtuigende visie op marketing en communicatie;
+   - • Een heldere en overtuigende visie op marketing en communicatie;
 
-- •. Een toelichting op het actief geïmplementeerde beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin verbeterpunten worden benoemd en een stappenplan richting verbetering wordt geformuleerd.
+   - • Een toelichting op het actief geïmplementeerde beleid op het gebied van de Fair Practice Code, Governance Code Cultuur en de Code Diversiteit & Inclusie waarin verbeterpunten worden benoemd en een stappenplan richting verbetering wordt geformuleerd.
 
-- –. Een begroting met een dekkingsplan.
+- – Een begroting met een dekkingsplan.
 
 ##### Artikel 5.5. Beoordelingscriteria
 
@@ -368,7 +345,7 @@ De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaag
 
 ##### Artikel 6.2. Verantwoording
 
-1. De subsidieontvanger stuurt jaarlijks voor 1 juni een inhoudelijke en financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar binnen de subsidieperiode.
+1. De subsidieontvanger stuurt jaarlijks voor 1 juni een inhoudelijke en financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar binnen de subsidieperiode.
 
 2. De inhoudelijke verantwoording bestaat uit een verslag over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 

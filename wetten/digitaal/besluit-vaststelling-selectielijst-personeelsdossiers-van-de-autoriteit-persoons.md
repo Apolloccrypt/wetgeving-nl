@@ -8,7 +8,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0053064"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Besluit vaststelling selectielijst Personeelsdossiers van de Autoriteit Persoonsgegevens (AP) en rechtsvoorgangers vanaf 1 januari 2019

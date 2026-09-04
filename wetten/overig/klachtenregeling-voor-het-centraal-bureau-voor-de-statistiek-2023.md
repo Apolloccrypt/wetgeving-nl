@@ -1,45 +1,17 @@
 ---
 title: "Klachtenregeling voor het Centraal bureau voor de statistiek 2023"
 identifier: "BWBR0048403"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048403"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16804793"
-version_id: "29522952"
-internal_id: "C42208561"
-label_id: "16718464"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048403/2023-07-01/0"
-intitule_bron: "Stcrt.2023-19963"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-20"
-intitule_published: "2023-07-18"
-intitule_in_force: "2023-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-19963"
-original_signed_date: "2023-06-20"
-original_published_date: "2023-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-19963"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048403&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048403&g=2023-07-01"
-citeertitel_status: "officieel"
-signed_date: "2023-06-20"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0048403"
+opgehaald: 2026-09-04
 ---
+
 # Klachtenregeling voor het Centraal bureau voor de statistiek 2023
-
-Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [artikel 10 van de Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april, nr. WJZ/19207028, met betrekking tot de taakuitoefening van het Centraal bureau voor de statistiek (Beleidsregel taakuitoefening CBS)](https://wetten.overheid.nl/jci1.3:c:BWBR0043439&artikel=10) en de Handreiking Klachtafhandeling bij aanbesteden van 17 februari 2022;
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,33 +19,35 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze regeling wordt verstaan onder:
 
-- a. **CBS:** het Centraal bureau voor de statistiek, zoals genoemd in de [Wet op het Centraal bureau](https://wetten.overheid.nl/jci1.3:c:BWBR0015926)
+- a. *CBS:* het Centraal bureau voor de statistiek, zoals genoemd in de [Wet op het Centraal bureau](https://wetten.overheid.nl/jci1.3:c:BWBR0015926)
 
-- b. **Directeur-Generaal:** de directeur-generaal van de statistiek;
+- b. *Directeur-Generaal:* de directeur-generaal van de statistiek;
 
-- c. **Klager:** de natuurlijke persoon of rechtspersoon die zich met een klacht tot het bestuursorgaan wendt over de wijze waarop het bestuursorgaan zich in een bepaalde aangelegenheid jegens deze persoon heeft gedragen of marktpartijen en andere betrokkenen die een klacht hebben ingediend over gedragingen van het CBS met betrekking tot de toepassing van de [Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) of de [Regeling werkzaamheden derden CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) of de ondernemer die een klacht heeft over een aanbestedingsprocedure, een brancheorganisatie of een branche gerelateerd aanbestedingsadviescentrum namens haar leden;
+- c. *Klager:* de natuurlijke persoon of rechtspersoon die zich met een klacht tot het bestuursorgaan wendt over de wijze waarop het bestuursorgaan zich in een bepaalde aangelegenheid jegens deze persoon heeft gedragen of marktpartijen en andere betrokkenen die een klacht hebben ingediend over gedragingen van het CBS met betrekking tot de toepassing van de [Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) of de [Regeling werkzaamheden derden CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) of de ondernemer die een klacht heeft over een aanbestedingsprocedure, een brancheorganisatie of een branche gerelateerd aanbestedingsadviescentrum namens haar leden;
 
-- d. **Beklaagde:** degene op wiens gedragingen de klacht betrekking heeft;
+- d. *Beklaagde:* degene op wiens gedragingen de klacht betrekking heeft;
 
-- e. **Klachtencommissie BR en MR:** de klachtencommissie voor toepassing van de [Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) en [Regeling werkzaamheden derden CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043438), een onafhankelijke externe commissie zoals bedoeld in [artikel 10 van de Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439&artikel=10);
+- e. *Klachtencommissie BR en MR:* de klachtencommissie voor toepassing van de [Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) en [Regeling werkzaamheden derden CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043438), een onafhankelijke externe commissie zoals bedoeld in [artikel 10 van de Beleidsregel taakuitoefening CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0043439&artikel=10);
 
-- f. **Klacht:** een mondeling of schriftelijke ingediende klacht over de wijze waarop CBS of een bestuursorgaan van CBS, dan wel een medewerker werkzaam onder de verantwoordelijkheid van CBS, zich in een bepaalde gelegenheid heeft gedragen tegenover derden. Onder gedragingen wordt mede begrepen een nalaten. Onder een klacht over een publicatie wordt verstaan iedere uiting van ongenoegen over het niet voldoen van een publicatie van het CBS aan het publicatiebeleid van het CBS;
+- f. *Klacht:* een mondeling of schriftelijke ingediende klacht over de wijze waarop CBS of een bestuursorgaan van CBS, dan wel een medewerker werkzaam onder de verantwoordelijkheid van CBS, zich in een bepaalde gelegenheid heeft gedragen tegenover derden. Onder gedragingen wordt mede begrepen een nalaten. Onder een klacht over een publicatie wordt verstaan iedere uiting van ongenoegen over het niet voldoen van een publicatie van het CBS aan het publicatiebeleid van het CBS;
 
-- g. **Klachtenbehandelaar:** een medewerker van het CBS die de klacht behandelt en die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest, de klachtencommissie BR en MR, de CBS-klachten commissie of het Contactcenter;
+- g. *Klachtenbehandelaar:* een medewerker van het CBS die de klacht behandelt en die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest, de klachtencommissie BR en MR, de CBS-klachten commissie of het Contactcenter;
 
-- h. **Klachtenmeldpunt aanbestedingen:** klachtenloket, waarbij de klager schriftelijk een klacht over een aanbestedingsprocedure of het ontbreken daarvan kan indienen;
+- h. *Klachtenmeldpunt aanbestedingen:* klachtenloket, waarbij de klager schriftelijk een klacht over een aanbestedingsprocedure of het ontbreken daarvan kan indienen;
 
-- i. **Secretaris:** de secretaris van de Klachtencommissie BR en MR;
+- i. *Secretaris:* de secretaris van de Klachtencommissie BR en MR;
 
-- j. **Beleidsregel taakuitoefening CBS (BR):** [Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207028 met betrekking tot de taakuitoefening van het Centraal Bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) (Stcrt. 2020, 23676) (Beleidsregel taakuitoefening CBS);
+- j. *Beleidsregel taakuitoefening CBS (BR):*
+ [Beleidsregel van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ/19207028 met betrekking tot de taakuitoefening van het Centraal Bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0043439) (Stcrt. 2020, 23676) (Beleidsregel taakuitoefening CBS);
 
-- k. **Regeling werkzaamheden derden CBS (MR):** [Regeling van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ19207030, houdende regels over werkzaamheden die het Centraal Bureau voor de statistiek voor derden verricht](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) (Stcrt. 2020, 23676) (Regeling werkzaamheden derden CBS);
+- k. *Regeling werkzaamheden derden CBS (MR):*
+ [Regeling van de Minister van Economische Zaken en Klimaat van 19 april 2020, nr. WJZ19207030, houdende regels over werkzaamheden die het Centraal Bureau voor de statistiek voor derden verricht](https://wetten.overheid.nl/jci1.3:c:BWBR0043438) (Stcrt. 2020, 23676) (Regeling werkzaamheden derden CBS);
 
-- l. **CBS-publicatiebeleid:** het beleid van het CBS vastgesteld door de directeur-generaal op 15 april 2020;
+- l. *CBS-publicatiebeleid:* het beleid van het CBS vastgesteld door de directeur-generaal op 15 april 2020;
 
-- m. **Raad van advies:** adviesorgaan, zoals genoemd in [artikel 20 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=20);
+- m. *Raad van advies:* adviesorgaan, zoals genoemd in [artikel 20 van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=20);
 
-- n. **Communicatieraad CBS:** de adviesraad voor CBS Communicatie en Nieuws geeft gevraagd en ongevraagd advies over de communicatie-uitingen van het CBS in de samenleving.
+- n. *Communicatieraad CBS:* de adviesraad voor CBS Communicatie en Nieuws geeft gevraagd en ongevraagd advies over de communicatie-uitingen van het CBS in de samenleving.
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -213,9 +187,9 @@ Deze klachtenregeling is van toepassing op klachten die voortvloeien uit gedragi
 
 ##### Artikel 14. Inwerkingtreding
 
-1. Deze klachtenregeling treedt in werking op 1 juli 2023.
+1. Deze klachtenregeling treedt in werking op 1 juli 2023.
 
-2. De [Klachtenregeling van het Centraal bureau voor de statistiek voor klachten van externen](https://wetten.overheid.nl/jci1.3:c:BWBR0033200) van 1 juni 2009, de[Klachtenregeling in het kader van de toepassing van de Beleidsregel taakuitoefening CBS, Regeling werkzaamheden derden CBS en het instellen van een klachtencommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0043772) van 1 juli 2020 (Stcrt. 2020, 35272) en de Procedure voor klachten over CBS-publicaties van 30 juni 2017 worden ingetrokken.
+2. De [Klachtenregeling van het Centraal bureau voor de statistiek voor klachten van externen](https://wetten.overheid.nl/jci1.3:c:BWBR0033200) van 1 juni 2009, de[Klachtenregeling in het kader van de toepassing van de Beleidsregel taakuitoefening CBS, Regeling werkzaamheden derden CBS en het instellen van een klachtencommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0043772) van 1 juli 2020 (Stcrt. 2020, 35272) en de Procedure voor klachten over CBS-publicaties van 30 juni 2017 worden ingetrokken.
 
 3. Deze klachtenregeling zal in de Staatscourant worden gepubliceerd.
 

@@ -1,67 +1,37 @@
 ---
 title: "Besluit bevoegde instanties grensoverschrijdende representatieve vorderingen"
 identifier: "BWBR0048383"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-07-13"
-last_updated: "2023-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048383"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16799403"
-version_id: "29513782"
-internal_id: "C42197381"
-label_id: "16714324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048383/2023-07-13/0"
-intitule_bron: "Stb.2023-253"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-10"
-intitule_published: "2023-07-12"
-intitule_in_force: "2023-07-12"
-intitule_status: "goed"
-original_publication: "Stb.2023-253"
-original_signed_date: "2023-07-10"
-original_published_date: "2023-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-253"
-entry_into_force_date: "2023-07-13"
-jci_1_3: "jci1.3:c:BWBR0048383&z=2023-07-13&g=2023-07-13"
-jci_1_0: "1.0:c:BWBR0048383&g=2023-07-13"
-citeertitel_status: "officieel"
-signed_date: "2023-07-10"
-entry_into_force: "2023-07-13"
+publicatiedatum: 2023-07-13
+laatste_update: 2023-07-13
+status: geldig
+toestand: 2023-07-13
+bron: "https://wetten.overheid.nl/BWBR0048383"
+opgehaald: 2026-09-04
 ---
+
 # Besluit bevoegde instanties grensoverschrijdende representatieve vorderingen
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 30 mei 2023, directie Wetgeving en Juridische Zaken, nr. 4684357;
-
-Gelet op [artikel 305e lid 4 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305e) en op [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van [Richtlijn 2009/22/EG](32009L0022) (PbEU 2020, L 409);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 21 juni 2023, No. W16.23.00123/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 30 juni 2023, directie Wetgeving en Juridische Zaken, nr. 3849633;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. (definities)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **achterban:** de natuurlijke personen die handelen voor doeleinden die geen verband houden met hun handels-, bedrijfs-, ambachts- of beroepsactiviteit, tot bescherming van wier collectieve belangen een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland rechtsvorderingen wil instellen in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische ruimte;
+- – *achterban:* de natuurlijke personen die handelen voor doeleinden die geen verband houden met hun handels-, bedrijfs-, ambachts- of beroepsactiviteit, tot bescherming van wier collectieve belangen een stichting of vereniging met volledige rechtsbevoegdheid met zetel in Nederland rechtsvorderingen wil instellen in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische ruimte;
 
-- –. **bevoegde instantie:** bevoegde instantie als bedoeld in artikel 4, derde lid, van de Richtlijn;
+- – *bevoegde instantie:* bevoegde instantie als bedoeld in artikel 4, derde lid, van de Richtlijn;
 
-- –. **grensoverschrijdende representatieve vorderingen:** een rechtsvordering ter bescherming van een belang als bedoeld in artikel 2, eerste lid, van de Richtlijn die een stichting of vereniging instelt in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische ruimte dan die waarin zij werd aangewezen;
+- – *grensoverschrijdende representatieve vorderingen:* een rechtsvordering ter bescherming van een belang als bedoeld in artikel 2, eerste lid, van de Richtlijn die een stichting of vereniging instelt in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische ruimte dan die waarin zij werd aangewezen;
 
-- –. **lijst:** de lijst, bedoeld in artikel 5, eerste lid, van de Richtlijn;
+- – *lijst:* de lijst, bedoeld in artikel 5, eerste lid, van de Richtlijn;
 
-- –. **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- – *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- –. **Richtlijn:** [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van [Richtlijn 2009/22/EG](32009L0022) (PbEU 2020, L 409);
+- – *Richtlijn:*
+ Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van Richtlijn 2009/22/EG (PbEU 2020, L 409);
 
-- –. **wet:** [Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291).
+- – *wet:*
+ [Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291).
 
 ##### Artikel 2. (de aanvraag)
 
@@ -137,10 +107,8 @@ Onze minister maakt de lijst openbaar.
 
 ##### Artikel 10. (inwerkingtreding)
 
-Dit besluit treedt in werking met ingang van 25 juni 2023. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 24 juni 2023, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+Dit besluit treedt in werking met ingang van 25 juni 2023. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 24 juni 2023, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 11. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit bevoegde instanties grensoverschrijdende representatieve vorderingen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

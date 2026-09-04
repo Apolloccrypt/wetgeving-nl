@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 2023-0000244781, houdende regels met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in artikel 5, eerste lid, van de Wet digitale overheid (Regeling voorzieningen Wdo)"
+citeertitel: "Regeling voorzieningen Wdo"
 identifier: "BWBR0048167"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-06"
-last_updated: "2025-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048167"
+categorie: "Digitaal en privacy"
 soort: "ministeriele-regeling"
-stam_id: "16747683"
-version_id: "29408582"
-internal_id: "C42046931"
-label_id: "16663674"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048167/2025-12-06/0"
-intitule_bron: "Stcrt.2023-13657"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-08"
-intitule_published: "2023-05-17"
-intitule_in_force: "2023-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13657"
-original_signed_date: "2023-05-08"
-original_published_date: "2023-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13657"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048167&z=2025-12-06&g=2025-12-06"
-jci_1_0: "1.0:c:BWBR0048167&g=2025-12-06"
-citeertitel_status: "officieel"
-short_title: "Regeling voorzieningen Wdo"
-signed_date: "2023-05-08"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2025-12-06
+status: geldig
+toestand: 2025-12-06
+bron: "https://wetten.overheid.nl/BWBR0048167"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 2023-0000244781, houdende regels met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in artikel 5, eerste lid, van de Wet digitale overheid (Regeling voorzieningen Wdo)
-
-Gelet op [artikel 10, tweede lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=10) en [artikel 20, vijfde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,25 +20,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **afnemer:** een bestuursorgaan als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=2) dat, of een aangewezen organisatie die voor elektronische berichtenverkeer met en informatieverschaffing aan natuurlijke personen, ondernemingen en rechtspersonen gebruik maakt van MijnOverheid of voor elektronische dienstverlening gebruik maakt van DigiD respectievelijk DigiD Machtigen;
+- – *afnemer:* een bestuursorgaan als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=2) dat, of een aangewezen organisatie die voor elektronische berichtenverkeer met en informatieverschaffing aan natuurlijke personen, ondernemingen en rechtspersonen gebruik maakt van MijnOverheid of voor elektronische dienstverlening gebruik maakt van DigiD respectievelijk DigiD Machtigen;
 
-- –. **betrouwbaarheidsniveau laag, substantieel en hoog:** betrouwbaarheidsniveau als bedoeld in artikel 8 van de [Verordening (EU) nr. 910/2014](32014R0910) van het Europees Parlement en de Raad van 23 juli 2014 betreffende de elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van de [Richtlijn 1999/93/EG](31999L0093) (Pb EU 2014, L 257/73);
+- – *betrouwbaarheidsniveau laag, substantieel en hoog:* betrouwbaarheidsniveau als bedoeld in artikel 8 van de Verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende de elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van de Richtlijn 1999/93/EG (Pb EU 2014, L 257/73);
 
-- –. **DigiD:** een via de DigiD-voorziening aan gebruiker verstrekt publiek identificatiemiddel voor de toegang tot elektronische dienstverlening, waarbij kan worden onderscheiden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog;
+- – *DigiD:* een via de DigiD-voorziening aan gebruiker verstrekt publiek identificatiemiddel voor de toegang tot elektronische dienstverlening, waarbij kan worden onderscheiden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog;
 
-- –. **DigiD Machtigen, MijnOverheid:** hetgeen onder deze voorzieningen wordt verstaan in het Besluit digitale overheid;
+- – *DigiD Machtigen, MijnOverheid:* hetgeen onder deze voorzieningen wordt verstaan in het Besluit digitale overheid;
 
-- –. **DigiD-voorziening:** de voorziening voor uitgifte of activatie van publieke identificatiemiddelen, waarbij onderscheiden kan worden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog, en die bereikbaar is via het webadres [www.digid.nl](http://www.digid.nl);
+- – *DigiD-voorziening:* de voorziening voor uitgifte of activatie van publieke identificatiemiddelen, waarbij onderscheiden kan worden tussen de betrouwbaarheidsniveaus laag, substantieel en hoog, en die bereikbaar is via het webadres [www.digid.nl](http://www.digid.nl);
 
-- –. **gebruiker:** een natuurlijk persoon die DigiD, DigiD Machtigen of MijnOverheid gebruikt;
+- – *gebruiker:* een natuurlijk persoon die DigiD, DigiD Machtigen of MijnOverheid gebruikt;
 
-- –. **gemachtigde of vertegenwoordiger:** een natuurlijke persoon of rechtspersoon die met een in DigiD Machtigen geregistreerde machtiging toegang heeft tot elektronische diensten zoals berichten, ten behoeve van de vertegenwoordigde;
+- – *gemachtigde of vertegenwoordiger:* een natuurlijke persoon of rechtspersoon die met een in DigiD Machtigen geregistreerde machtiging toegang heeft tot elektronische diensten zoals berichten, ten behoeve van de vertegenwoordigde;
 
-- –. **machtinggever of vertegenwoordigde:** een natuurlijk persoon die zich ter behartiging van zijn belangen laat vertegenwoordigen en daartoe met een in DigiD Machtigen geregistreerde machtiging een gemachtigde toegang verleent tot elektronische diensten zoals berichten, voor zover deze vallen binnen de reikwijdte van de machtiging;
+- – *machtinggever of vertegenwoordigde:* een natuurlijk persoon die zich ter behartiging van zijn belangen laat vertegenwoordigen en daartoe met een in DigiD Machtigen geregistreerde machtiging een gemachtigde toegang verleent tot elektronische diensten zoals berichten, voor zover deze vallen binnen de reikwijdte van de machtiging;
 
-- –. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **wet:** de [Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156).
+- – *wet:* de [Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156).
 
 ##### Artikel 2. Onderbreking toegang en informatieverschaffing
 
@@ -170,10 +144,8 @@ De [Regeling voorzieningen GDI](https://wetten.overheid.nl/jci1.3:c:BWBR0037124)
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2023.
+Deze regeling treedt in werking met ingang van 1 juli 2023.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen Wdo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

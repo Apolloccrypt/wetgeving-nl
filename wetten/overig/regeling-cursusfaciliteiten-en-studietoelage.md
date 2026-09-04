@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-08-25
 toestand: 2026-02-04
 bron: "https://wetten.overheid.nl/BWBR0040683"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling cursusfaciliteiten en studietoelage

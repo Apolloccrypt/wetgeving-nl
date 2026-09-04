@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 6 juli 2023, kenmerk 4236958, houdende beperking van de openbaarheid van het archief van de A-dossiers 1988–2005"
+citeertitel: "Besluit beperking openbaarheid archief A-dossiers 1988–2005"
 identifier: "BWBR0048551"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-08-16"
-last_updated: "2023-08-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048551"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16838283"
-version_id: "29583852"
-internal_id: "C42292681"
-label_id: "16750734"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048551/2023-08-16/0"
-intitule_bron: "Stcrt.2023-22092"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-06"
-intitule_published: "2023-08-15"
-intitule_in_force: "2023-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-22092"
-original_signed_date: "2023-07-06"
-original_published_date: "2023-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-22092"
-entry_into_force_date: "2023-08-16"
-jci_1_3: "jci1.3:c:BWBR0048551&z=2023-08-16&g=2023-08-16"
-jci_1_0: "1.0:c:BWBR0048551&g=2023-08-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief A-dossiers 1988–2005"
-signed_date: "2023-07-06"
-entry_into_force: "2023-08-16"
+publicatiedatum: 2023-08-16
+laatste_update: 2023-08-16
+status: geldig
+toestand: 2023-08-16
+bron: "https://wetten.overheid.nl/BWBR0048551"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 6 juli 2023, kenmerk 4236958, houdende beperking van de openbaarheid van het archief van de A-dossiers 1988–2005
-
-Gelet op [artikel 15, lid 1, onder a en b, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 10 mei 2023, met kenmerk 101015.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de A-dossiers van het Ministerie van Justitie, 1988–2005.
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van (mogelijk) nog levende personen.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van (mogelijk) nog levende personen.
 
 | Inventaris- nummer | Openbaar 1 januari | Inventaris- nummer | Openbaar 1 januari | Inventaris- nummer | Openbaar 1 januari |
 | --- | --- | --- | --- | --- | --- |
@@ -83,20 +55,20 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 4565 | 2058 | 10059 | 2077 | 12902 | 2079 |
 | 4566 | 2061 | 10060 | 2078 | 12903 | 2079 |
 | 4567 | 2063 | 10061 | 2078 | 12904 | 2080 |
-| 4568 | 2066 | 10085 | 2084 |   |   |
-| 4569 | 2065 | 10093 | 2072 |   |   |
-| 4570 | 2068 | 10119 | 2079 |   |   |
-| 4571 | 2068 | 10120 | 2079 |   |   |
-| 4573 | 2068 | 10121 | 2079 |   |   |
-| 4580 | 2081 | 10122 | 2079 |   |   |
-| 5248 | 2079 | 10158 | 2074 |   |   |
-| 5436 | 2078 | 10365 | 2082 |   |   |
-| 5547 | 2065 | 10366 | 2080 |   |   |
-| 5550 | 2067 | 10367 | 2081 |   |   |
+| 4568 | 2066 | 10085 | 2084 |  |  |
+| 4569 | 2065 | 10093 | 2072 |  |  |
+| 4570 | 2068 | 10119 | 2079 |  |  |
+| 4571 | 2068 | 10120 | 2079 |  |  |
+| 4573 | 2068 | 10121 | 2079 |  |  |
+| 4580 | 2081 | 10122 | 2079 |  |  |
+| 5248 | 2079 | 10158 | 2074 |  |  |
+| 5436 | 2078 | 10365 | 2082 |  |  |
+| 5547 | 2065 | 10366 | 2080 |  |  |
+| 5550 | 2067 | 10367 | 2081 |  |  |
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventaris- nummer | Openbaar 1 januari | Inventaris- nummer | Openbaar 1 januari | Inventaris- nummer | Openbaar 1 januari |
 | --- | --- | --- | --- | --- | --- |

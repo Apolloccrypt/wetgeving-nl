@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0030288"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie, van 14 juli 2011, nr. 218837, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de zeevisserij (Uitvoeringsregeling zeevisserij)

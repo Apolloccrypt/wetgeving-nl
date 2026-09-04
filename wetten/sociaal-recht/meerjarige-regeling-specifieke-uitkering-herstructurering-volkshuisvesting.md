@@ -1,70 +1,44 @@
 ---
 title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2023, nr. 2023-0000024188, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in het belang van de verbetering van de leefbaarheid in kwetsbare gebieden (Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting)"
+citeertitel: "Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting"
 identifier: "BWBR0048319"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-12-05"
-last_updated: "2024-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048319"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16781933"
-version_id: "29475282"
-internal_id: "C42148631"
-label_id: "16697204"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048319/2024-12-05/0"
-intitule_bron: "Stcrt.2023-17370"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-19"
-intitule_published: "2023-06-27"
-intitule_in_force: "2023-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-17370"
-original_signed_date: "2023-06-19"
-original_published_date: "2023-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-17370"
-entry_into_force_date: "2023-06-28"
-jci_1_3: "jci1.3:c:BWBR0048319&z=2024-12-05&g=2024-12-05"
-jci_1_0: "1.0:c:BWBR0048319&g=2024-12-05"
-citeertitel_status: "officieel"
-short_title: "Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting"
-signed_date: "2023-06-19"
-entry_into_force: "2023-06-28"
+publicatiedatum: 2023-06-28
+laatste_update: 2024-12-05
+status: geldig
+toestand: 2024-12-05
+bron: "https://wetten.overheid.nl/BWBR0048319"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2023, nr. 2023-0000024188, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in het belang van de verbetering van de leefbaarheid in kwetsbare gebieden (Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting)
-
-Gelet op [artikel 2, eerste lid, onderdeel h en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [artikel 3, van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **college:** college van burgemeester en wethouders;
+- *college:* college van burgemeester en wethouders;
 
-- **financieel tekort:** negatief saldo van alle kosten en baten die onderdeel zijn van een project, berekend voor de gehele looptijd van het project;
+- *financieel tekort:* negatief saldo van alle kosten en baten die onderdeel zijn van een project, berekend voor de gehele looptijd van het project;
 
-- **gespikkeld bezit:** samenhangend geheel van woningen dat in aanmerking komt voor herstructureringsactiviteiten dat deels in bezit is van een toegelaten instelling en waarbij die toegelaten instelling de herstructurering van het samenhangend geheel van woningen op zich wil nemen;
+- *gespikkeld bezit:* samenhangend geheel van woningen dat in aanmerking komt voor herstructureringsactiviteiten dat deels in bezit is van een toegelaten instelling en waarbij die toegelaten instelling de herstructurering van het samenhangend geheel van woningen op zich wil nemen;
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **project:** project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05);
+- *project:* project als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05);
 
-- **toegelaten instelling:** toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
+- *toegelaten instelling:* toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19);
 
-- **vereniging:** vereniging van eigenaars, woonvereniging of wooncoöperatie;
+- *vereniging:* vereniging van eigenaars, woonvereniging of wooncoöperatie;
 
-- **vereniging van eigenaars:** vereniging van de eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=12);
+- *vereniging van eigenaars:* vereniging van de eigenaars als bedoeld in [artikel 112, eerste lid, onderdeel e, van Boek 5 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005288&artikel=12);
 
-- **wijkontwikkelingsmaatschappij:** een wijkontwikkelingsmaatschappij als bedoeld in [artikel 1, tweede lid, onderdeel c, van de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=1);
+- *wijkontwikkelingsmaatschappij:* een wijkontwikkelingsmaatschappij als bedoeld in [artikel 1, tweede lid, onderdeel c, van de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering](https://wetten.overheid.nl/jci1.3:c:BWBR0016402&artikel=1);
 
-- **wooncoöperatie:** wooncoöperatie als bedoeld in [artikel 18a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=18a);
+- *wooncoöperatie:* wooncoöperatie als bedoeld in [artikel 18a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=18a);
 
-- **woonvereniging:** vereniging die eigenaar is van één of meer gebouwen en waarvan de leden het recht hebben om in een bepaalde woning die onderdeel uitmaakt van dat gebouw of die gebouwen te wonen.
+- *woonvereniging:* vereniging die eigenaar is van één of meer gebouwen en waarvan de leden het recht hebben om in een bepaalde woning die onderdeel uitmaakt van dat gebouw of die gebouwen te wonen.
 
 ##### Artikel 2. Doelstelling
 
@@ -82,13 +56,13 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - d. inponding: het aankopen of verwerven van een woning ten behoeve van de herstructurering van deze woning, waaronder uitsluitend:
 
-- 1. verwerving;
+   - 1. verwerving;
 
-- 2. advies;
+   - 2. advies;
 
-- 3. participatie; en
+   - 3. participatie; en
 
-- 4. compensatie van de minimumbijdrage in de verhuiskosten, bedoeld in [artikel 220 lid 6 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=220).
+   - 4. compensatie van de minimumbijdrage in de verhuiskosten, bedoeld in [artikel 220 lid 6 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=220).
 
 2. Een project kan aanvullend op primaire herstructureringsactiviteiten bestaan uit secundaire herstructureringsactiviteiten:
 
@@ -98,7 +72,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - c. de voor de uitvoering van het project door de gemeente te maken noodzakelijke projectkosten.
 
-3. De gevraagde rijksbijdrage voor secundaire activiteiten als bedoeld onder [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05), mag niet meer dan 30 procent van het totaal van de gevraagde rijksbijdrage bedragen.
+3. De gevraagde rijksbijdrage voor secundaire activiteiten als bedoeld onder [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05), mag niet meer dan 30 procent van het totaal van de gevraagde rijksbijdrage bedragen.
 
 ##### Artikel 4. Toelatingscriteria
 
@@ -106,7 +80,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 2. Een aanvraag wordt alleen in behandeling genomen als uit de bij de aanvraag ingediende gegevens en bescheiden blijkt dat voor het project:
 
-- a. het geheel van de door een gemeente ingediende aanvragen binnen een tranche maximaal € 11,4 miljoen bedraagt;
+- a. het geheel van de door een gemeente ingediende aanvragen binnen een tranche maximaal € 11,4 miljoen bedraagt;
 
 - b. de uitkering enkel wordt aangevraagd voor de financiering van herstructureringsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05);
 
@@ -244,7 +218,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 2. Als uit de verantwoordingsinformatie blijkt dat de uitkering niet volledig is besteed aan de activiteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-3. De minister stelt de specifieke uitkering uiterlijk vast op 31 december van het jaar waarin het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
+3. De minister stelt de specifieke uitkering uiterlijk vast op 31 december van het jaar waarin het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
 ##### Artikel 17. Intrekking
 
@@ -257,63 +231,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting.
-
-## Bijlage 1. behorende bij [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2024-12-05&g=2024-12-05), van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (uitkeringsplafond en aanvraagtijdvak)
-
-### Tranchebedragen en tijdvak loket
-
-Het plafond voor de tweede tranche in 2024 bedraagt € 149.923.000,–.
-
-De aanvragen voor de tweede tranche in 2024 kunnen worden ingediend met ingang van 3 juni 2024 om 9.00 uur tot en met 1 oktober 2024 om 12.00 uur.
-
-## Bijlage 2. behorende bij [artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=4&z=2024-12-05&g=2024-12-05) en [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2024-12-05&g=2024-12-05), van de Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting (beoordelingscriteria en weging)
-
-### Beoordelingscriteria en weging
-
-De rangschikking wordt bepaald aan de hand van de eindscore van 1 tot 11,25 die wordt toebedeeld aan het project/de projecten die in de aanvraag worden beschreven. Alleen aanvragen die een eindscore behalen van 5,5 of hoger komen in aanmerking voor een uitkering.
-
-De eindscore wordt bepaald aan de hand van vier deelscores op grond van het gewogen gemiddelde van de criteria in [artikel 9, eerste lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2024-12-05&g=2024-12-05):
-
-Het advies van de toetsingscommissie op grond van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2024-12-05&g=2024-12-05), ziet toe op de tussenscores a, b, en c. De tussenscore d wordt bepaald op grond van de op voorhand door de minister vastgestelde bonuspunten voor prioritaire gebieden. De eindscore wordt bepaald op grond van het gewogen gemiddelde van de scores op alle criteria uit [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2024-12-05&g=2024-12-05).
-
-### A. Doeltreffendheid
-
-De doeltreffendheid gaat over de mate waarin een project bijdraagt aan het doel van het Volkshuisvestingfonds: het verbeteren van de leefbaarheid en het verhogen van de (sociale) veiligheid.
-
-In de weging van dit criterium wordt naar de volgende elementen gekeken:
-
-### B. Organisatorische gedegenheid
-
-Binnen het criterium organisatorische gedegenheid wordt beoordeeld op de mate van zekerheid van een tijdige realisatie van het project in de aanvraag en in welke mate relevante stakeholders zijn of zullen worden meegenomen in het proces. De organisatorische gedegenheid wordt beoordeeld aan de hand van:
-
-### C. Financiële onderbouwing
-
-In het criterium financiële onderbouwing wordt gekeken naar een efficiënte besteding van het Volkshuisvestingsfonds. Daartoe wordt naar de volgende elementen gekeken:
-
-### D. Prioriteit
-
-Het Volkshuisvestingsfonds kent twee type prioritaire gebieden: de 20 Stedelijke Focusgebieden en de 13 grensregio’s. Aanvragen uit deze prioritaire gebieden krijgen extra punten in de beoordeling waarbij:
-
-Leeuwarden-Oost, Groningen-Noord, Arnhem-Oost, Heerlen-Noord, Breda-Noord, Eindhoven Woensel-Zuid, Tilburg-Noordwest, Schiedam Nieuwland-Oost, Rotterdam-Zuid, Den Haag-Zuidwest, Amsterdam-Zuidoost, Amsterdam Nieuw-West, Zaandam-Oost, Lelystad-Oost, Utrecht-Overvecht, Nieuwegein Centrale-As, Vlaardingen-West, en Delft-West, Dordrecht-West en Roosendaal-Ring zijn de Stedelijke Focusgebieden.
-
-Eemsdelta, Oost-Groningen, Het Hogeland, Parkstad Limburg, Midden-Limburg, Maastricht-Mergelland, Westelijke Mijnstreek, Zeeuws-Vlaanderen, Achterhoek, Noord-Friesland, Zuid- en Oost-Drenthe, Twente, Noord-Limburg zijn de grensregio’s.
-
-In gevallen waarin een project betrekking heeft op zowel prioritaire als niet prioritaire gebieden, worden de bonuspunten proportioneel toegepast naar aandeel van het aantal prioritaire woningen op het totaal van het aantal te herstructureren woningen in het gehele projectgebied. In gevallen waarin projecten zijn gelegen in zowel een Stedelijk Focus-gebied als een grensregio, gelden de bonuspunten van het Stedelijk Focus-gebied.
-
-Daarnaast worden er 5 extra punten in de beoordeling toegekend aan aanvragen van gemeenten die op grond van voorgaande tranches geen enkele keer een VHF-bijdrage hebben ontvangen, ondanks dat er bij meerdere tranches sprake was van ten minste één aanvraag met een voldoende score. Deze vijf punten worden alleen toegekend indien een aanvraag zonder deze vijf punten reeds een voldoende scoort.
-
-### Schematische weergave beoordelingskader
-
-Elk criterium krijgt een deelscore op een schaal van 1 tot 10. Een project scoort onvoldoende als de eindscore lager is dan een 5,5.
-
-Elk criterium krijgt een deelscore op een schaal van 1 tot 10. Een project scoort onvoldoende als de eindscore lager is dan een 5,5.
-
-Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.
-
-Het criterium ‘Prioriteit’ onderscheidt zich van de andere drie criteria, omdat de score op dit criterium vaststaat en niet beoordeeld wordt door de toetsingscommissie. De score wordt wel meegenomen bij het bepalen van de eindscore door de toetsingscommissie.
-
-### Schematische weergave beoordelingskader
-
-Eindscore: deelscore Doeltreffendheid (45%) + deelscore Organisatorische gedegenheid (25%) + deelscore Financiële onderbouwing (15%) + deelscore Prioriteit (15%)
-
-Lasten en bevelen dat deze regeling met de daarbij behorende toelichting in de Staatscourant zal worden geplaatst.

@@ -1,71 +1,49 @@
 ---
 title: "Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek"
 identifier: "BWBR0048145"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-05-11"
-last_updated: "2023-05-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048145"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16743363"
-version_id: "29398892"
-internal_id: "C41994491"
-label_id: "16659354"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048145/2023-05-11/0"
-intitule_bron: "Stcrt.2023-13503"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-11"
-intitule_published: "2023-05-11"
-intitule_in_force: "2023-05-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13503"
-original_signed_date: "2023-04-11"
-original_published_date: "2023-05-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13503"
-entry_into_force_date: "2023-05-11"
-jci_1_3: "jci1.3:c:BWBR0048145&z=2023-05-11&g=2023-05-11"
-jci_1_0: "1.0:c:BWBR0048145&g=2023-05-11"
-citeertitel_status: "redactioneel"
-signed_date: "2023-04-11"
-entry_into_force: "2023-05-11"
+publicatiedatum: 2023-05-11
+laatste_update: 2023-05-11
+status: geldig
+toestand: 2023-05-11
+bron: "https://wetten.overheid.nl/BWBR0048145"
+opgehaald: 2026-09-04
 ---
+
 # Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek
-
-Gelet op het bepaalde in [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7) (Woo)
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a). **AVG:** [Verordening (EU) 2016/679](32579R2016) bescherming natuurlijke personen i.v.m. verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming);
+- a) *AVG:*
+ Verordening (EU) 2016/679 bescherming natuurlijke personen i.v.m. verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming);
 
-- b). **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b) *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c). **Commissie:** Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen;
+- c) *Commissie:* Commissie van Advies voor de Sociale Verzekeringsbank inzake wetenschappelijk, statistisch en historisch onderzoek en onderzoeksjournalistiek betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen;
 
-- d). **derde-belanghebbende:** belanghebbende – niet zijnde de verzoeker – die naar verwachting bedenkingen zal hebben bij het verlenen van toegang tot (informatie uit) een dossier op verzoek;
+- d) *derde-belanghebbende:* belanghebbende – niet zijnde de verzoeker – die naar verwachting bedenkingen zal hebben bij het verlenen van toegang tot (informatie uit) een dossier op verzoek;
 
-- e). **dossier:** dossier betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen voor zover dit ziet op het oorlogsrelaas van een verzetsdeelnemer of oorlogsgetroffene. Medische gegevens vallen hier niet onder;
+- e) *dossier:* dossier betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen voor zover dit ziet op het oorlogsrelaas van een verzetsdeelnemer of oorlogsgetroffene. Medische gegevens vallen hier niet onder;
 
-- f). **Protocol:** Protocol onderzoek dossiers verzetsdeelnemers en oorlogsgetroffenen;
+- f) *Protocol:* Protocol onderzoek dossiers verzetsdeelnemers en oorlogsgetroffenen;
 
-- g). **RvB:** Raad van Bestuur;
+- g) *RvB:* Raad van Bestuur;
 
-- h). **SVB:** Sociale Verzekeringsbank;
+- h) *SVB:* Sociale Verzekeringsbank;
 
-- i). **UAVG:** [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
+- i) *UAVG:*
+ [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
 
-- j). **verzoek:** een verzoek om toegang tot informatie uit een dossier op grond van [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7);
+- j) *verzoek:* een verzoek om toegang tot informatie uit een dossier op grond van [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7);
 
-- k). **verzoeker:** degene die een verzoek op grond van [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7) indient;
+- k) *verzoeker:* degene die een verzoek op grond van [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7) indient;
 
-- l). **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
+- l) *Woo:*
+ [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
 ##### Artikel 2. Wijze waarop een verzoek kan worden ingediend
 
@@ -81,17 +59,17 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 1. Een verzoek moet aan de volgende voorwaarden voldoen:
 
-- •. het verzoek is gedaan ten behoeve van historisch, statistisch, wetenschappelijk of journalistiek onderzoek;
+- • het verzoek is gedaan ten behoeve van historisch, statistisch, wetenschappelijk of journalistiek onderzoek;
 
-- •. het verzoek ziet op een specifiek dossier of meerdere specifieke dossiers. Algemene verzoeken worden niet in behandeling genomen;
+- • het verzoek ziet op een specifiek dossier of meerdere specifieke dossiers. Algemene verzoeken worden niet in behandeling genomen;
 
-- •. het verzoek bevat een onderzoeksopzet dat voldoet aan de vereisten die het protocol van de Commissie stelt;
+- • het verzoek bevat een onderzoeksopzet dat voldoet aan de vereisten die het protocol van de Commissie stelt;
 
-- •. een bericht van overlijden van de betrokken persoon of een uitdrukkelijke toestemming van de betrokken persoon dient te worden verstrekt. Indien het vragen van uitdrukkelijke toestemming onmogelijk is of een onevenredige inspanning kost dient dit gemotiveerd te worden;
+- • een bericht van overlijden van de betrokken persoon of een uitdrukkelijke toestemming van de betrokken persoon dient te worden verstrekt. Indien het vragen van uitdrukkelijke toestemming onmogelijk is of een onevenredige inspanning kost dient dit gemotiveerd te worden;
 
-- •. de verzoeker dient te motiveren of, en zo ja waarom, het verwerken van persoonsgegevens noodzakelijk is;
+- • de verzoeker dient te motiveren of, en zo ja waarom, het verwerken van persoonsgegevens noodzakelijk is;
 
-- •. verzoeker dient te onderbouwen dat bij de uitvoering van het onderzoek in zodanige waarborgen is voorzien dat de persoonlijke levenssfeer van degene op wie het dossier betrekking heeft niet onevenredig wordt geschaad.
+- • verzoeker dient te onderbouwen dat bij de uitvoering van het onderzoek in zodanige waarborgen is voorzien dat de persoonlijke levenssfeer van degene op wie het dossier betrekking heeft niet onevenredig wordt geschaad.
 
 2. Indien het verzoek niet voldoende specifiek is, niet compleet is of indien de RvB van de SVB anderszins vragen heeft ten aanzien van het verzoek, wordt de verzoeker in de gelegenheid gesteld het verzoek respectievelijk te preciseren, aan te vullen of de vragen te beantwoorden.
 
@@ -117,13 +95,13 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 4. De RvB van de SVB kan voorwaarden stellen aan het verlenen van toegang. De volgende voorwaarden worden in elk geval aan een (gedeeltelijke) toewijzing verbonden:
 
-- •. de informatie kan enkel worden ingezien op het kantoor van de SVB waar de dossiers zich bevinden.
+- • de informatie kan enkel worden ingezien op het kantoor van de SVB waar de dossiers zich bevinden.
 
-- •. het is niet toegestaan om kopieën of foto’s te maken van (documenten uit) de dossiers;
+- • het is niet toegestaan om kopieën of foto’s te maken van (documenten uit) de dossiers;
 
-- •. inzage van de dossiers kan alleen op afspraak;
+- • inzage van de dossiers kan alleen op afspraak;
 
-- •. de verkregen informatie wordt niet verder verspreid zonder voorafgaand besluit van de RvB als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048145&artikel=8&z=2023-05-11&g=2023-05-11).
+- • de verkregen informatie wordt niet verder verspreid zonder voorafgaand besluit van de RvB als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048145&artikel=8&z=2023-05-11&g=2023-05-11).
 
 ##### Artikel 7. Termijn
 

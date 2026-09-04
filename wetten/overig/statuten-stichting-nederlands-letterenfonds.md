@@ -1,54 +1,35 @@
 ---
 title: "Statuten Stichting Nederlands Letterenfonds"
 identifier: "BWBR0048363"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-07-04"
-last_updated: "2023-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048363"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16793313"
-version_id: "29501372"
-internal_id: "C42183721"
-label_id: "16708294"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048363/2023-07-04/0"
-intitule_bron: "Stcrt.2023-18352"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-07-04"
-intitule_in_force: "2023-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-18352"
-original_published_date: "2023-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-18352"
-entry_into_force_date: "2023-07-04"
-jci_1_3: "jci1.3:c:BWBR0048363&z=2023-07-04&g=2023-07-04"
-jci_1_0: "1.0:c:BWBR0048363&g=2023-07-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-07-04"
+publicatiedatum: 2023-07-04
+laatste_update: 2023-07-04
+status: geldig
+toestand: 2023-07-04
+bron: "https://wetten.overheid.nl/BWBR0048363"
+opgehaald: 2026-09-04
 ---
+
 # Statuten Stichting Nederlands Letterenfonds
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze statuten wordt verstaan onder:
 
-- **‘bestuur’:** het bestuur van de stichting;
+- *‘bestuur’:* het bestuur van de stichting;
 
-- **'Raad van Toezicht’:** de raad van toezicht van de stichting;
+- *'Raad van Toezicht’:* de raad van toezicht van de stichting;
 
-- **‘schriftelijk’:** bij brief, e-mail of bij bericht dat via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
+- *‘schriftelijk’:* bij brief, e-mail of bij bericht dat via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
 
-- **‘in vergadering’:**gezamenlijk in dezelfde ruimte aanwezig of via een communicatiemiddel met elkaar verbonden;
+- *‘in vergadering’:*gezamenlijk in dezelfde ruimte aanwezig of via een communicatiemiddel met elkaar verbonden;
 
-- **‘stichting’:**Stichting Nederlands Letterenfonds;
+- *‘stichting’:*Stichting Nederlands Letterenfonds;
 
-- **‘minister’:**de minister die het cultuurbeleid in zijn portefeuille heeft, thans de Minister van Onderwijs, Cultuur en Wetenschap;
+- *‘minister’:*de minister die het cultuurbeleid in zijn portefeuille heeft, thans de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **‘hij’:**onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
+- *‘hij’:*onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
 
 ##### Artikel 2. Naam en zetel
 
@@ -94,11 +75,11 @@ In deze statuten wordt verstaan onder:
 
 6. De stichting zal de volgende codes, zoals deze van tijd tot tijd zullen luiden, toepassen:
 
-- –. de Governance Code Cultuur;
+- – de Governance Code Cultuur;
 
-- –. de Code Diversiteit & Inclusie; en
+- – de Code Diversiteit & Inclusie; en
 
-- –. de Fair Practice Code.
+- – de Fair Practice Code.
 
 ##### Artikel 4. Organen van de stichting
 

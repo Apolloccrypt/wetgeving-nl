@@ -1,50 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
+citeertitel: "Regeling eenmalige specifieke uitkering voor gemeenten i.v.m. het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
 identifier: "BWBR0048652"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-29"
-last_updated: "2023-09-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048652"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16862873"
-version_id: "29635892"
-internal_id: "C42403261"
-label_id: "16775034"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048652/2023-09-29/0"
-intitule_bron: "Stcrt.2023-26417"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-08"
-intitule_published: "2023-09-28"
-intitule_in_force: "2023-09-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-26417"
-original_signed_date: "2023-09-08"
-original_published_date: "2023-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-26417"
-entry_into_force_date: "2023-09-29"
-jci_1_3: "jci1.3:c:BWBR0048652&z=2023-09-29&g=2023-09-29"
-jci_1_0: "1.0:c:BWBR0048652&g=2023-09-29"
-citeertitel_status: "redactioneel"
-short_title: "Regeling eenmalige specifieke uitkering voor gemeenten i.v.m. het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024"
-signed_date: "2023-09-08"
-entry_into_force: "2023-09-29"
+publicatiedatum: 2023-09-29
+laatste_update: 2023-09-29
+status: geldig
+toestand: 2023-09-29
+bron: "https://wetten.overheid.nl/BWBR0048652"
+opgehaald: 2026-09-04
 ---
-# Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024
 
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
+# Regeling van de Staatssecretaris van Justitie en Veiligheid van 8 september 2023, nr. 4879916, houdende een eenmalige specifieke uitkering voor gemeenten in verband met het treffen van maatregelen ter vermindering van overlast en criminaliteit veroorzaakt door asielzoekers in 2023 en 2024
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **COA:** Centraal Orgaan opvang Asielzoekers
+- – *COA:* Centraal Orgaan opvang Asielzoekers
 
-- –. **staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid
+- – *staatssecretaris:* de Staatssecretaris van Justitie en Veiligheid
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -62,19 +38,19 @@ De staatssecretaris kan in 2023 op aanvraag van een of meer gemeenten eenmalig e
 
 - d. het IBAN-nummer waarop het toegekende bedrag kan worden overgemaakt.
 
-2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 juni 2023 en 31 december 2024.
+2. De aanvraag heeft betrekking op kosten die zijn gemaakt tussen 1 juni 2023 en 31 december 2024.
 
-3. De aanvraag wordt voor 1 november 2023 ingediend, met gebruikmaking van een door de staatssecretaris ter beschikking gesteld digitaal aanvraagformulier.
+3. De aanvraag wordt voor 1 november 2023 ingediend, met gebruikmaking van een door de staatssecretaris ter beschikking gesteld digitaal aanvraagformulier.
 
 ##### Artikel 4. Hoogte specifieke uitkering en wijze van verstrekking
 
-1. Voor het verlenen van uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) is ten hoogste € 2.000.000 beschikbaar. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
+1. Voor het verlenen van uitkeringen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048652&artikel=2&z=2023-09-29&g=2023-09-29) is ten hoogste € 2.000.000 beschikbaar. [Artikel 4:25, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25) zijn van overeenkomstige toepassing.
 
-2. Elke gemeente met minimaal 1.500 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 200.000 inclusief BTW aan specifieke uitkering ontvangen.
+2. Elke gemeente met minimaal 1.500 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 200.000 inclusief BTW aan specifieke uitkering ontvangen.
 
-3. Elke gemeente met minimaal 1.000 en maximaal 1.499 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 150.000 inclusief BTW aan specifieke uitkering ontvangen.
+3. Elke gemeente met minimaal 1.000 en maximaal 1.499 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 150.000 inclusief BTW aan specifieke uitkering ontvangen.
 
-4. Elke gemeente met minder dan 1.000 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 100.000 inclusief BTW aan specifieke uitkering ontvangen. Dit geldt ook voor gemeenten zonder Bestuursovereenkomst met het COA, maar die wel overlast ervaren van bewoners van opvanglocaties in andere gemeenten.
+4. Elke gemeente met minder dan 1.000 opvangplekken volgens de Bestuursovereenkomt met het COA kan maximaal € 100.000 inclusief BTW aan specifieke uitkering ontvangen. Dit geldt ook voor gemeenten zonder Bestuursovereenkomst met het COA, maar die wel overlast ervaren van bewoners van opvanglocaties in andere gemeenten.
 
 5. Indien meerdere gemeenten gezamenlijk een aanvraag indienen, wordt het van toepassing zijnde maximale bedrag aan specifieke uitkering als bedoeld in het tweede of derde lid bij elkaar opgeteld.
 
@@ -86,7 +62,7 @@ De gemeente die een specifieke uitkering heeft ontvangen is verplicht om onverwi
 
 ##### Artikel 6. Vaststelling en verantwoording
 
-1. Nadat de staatssecretaris de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, stelt de staatssecretaris de uitkering binnen 22 weken overeenkomstig de verlening vast.
+1. Nadat de staatssecretaris de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, stelt de staatssecretaris de uitkering binnen 22 weken overeenkomstig de verlening vast.
 
 2. De staatssecretaris kan de uitkering lager vaststellen, indien:
 
@@ -106,6 +82,4 @@ De staatssecretaris kan onverschuldigd uitgekeerde bedragen als bedoeld in [arti
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.

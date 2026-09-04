@@ -9,7 +9,7 @@ laatste_update: 2026-08-31
 status: geldig
 toestand: 2026-08-31
 bron: "https://wetten.overheid.nl/BWBR0018743"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 september 2005, nr. PG-2.611.880, houdende de regels inzake de verstrekking van subsidies op het terrein van de publieke gezondheid (Subsidieregeling publieke gezondheid)

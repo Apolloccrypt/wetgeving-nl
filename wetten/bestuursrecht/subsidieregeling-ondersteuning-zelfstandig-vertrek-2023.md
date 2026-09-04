@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 6 juli 2023, nummer 4718821, houdende regels voor de subsidiëring van projecten ter ondersteuning van zelfstandig vertrek van vreemdelingen en gemeenschapsonderdanen uit Nederland (Subsidieregeling ondersteuning zelfstandig vertrek 2023)"
+citeertitel: "Subsidieregeling ondersteuning zelfstandig vertrek 2023"
 identifier: "BWBR0048465"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-16"
-last_updated: "2026-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048465"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16819243"
-version_id: "29551042"
-internal_id: "C42240521"
-label_id: "16732224"
-dtd_version: "2.0"
-original_entry_into_force: "2023-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048465/2026-01-16/0"
-intitule_bron: "Stcrt.2023-20983"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-06"
-intitule_published: "2023-07-26"
-intitule_in_force: "2023-07-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-20983"
-original_signed_date: "2023-07-06"
-original_published_date: "2023-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-20983"
-entry_into_force_date: "2023-08-01"
-jci_1_3: "jci1.3:c:BWBR0048465&z=2026-01-16&g=2026-01-16"
-jci_1_0: "1.0:c:BWBR0048465&g=2026-01-16"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling ondersteuning zelfstandig vertrek 2023"
-signed_date: "2023-07-06"
-entry_into_force: "2023-08-01"
+publicatiedatum: 2023-08-01
+laatste_update: 2026-01-16
+status: geldig
+toestand: 2026-01-16
+bron: "https://wetten.overheid.nl/BWBR0048465"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 6 juli 2023, nummer 4718821, houdende regels voor de subsidiëring van projecten ter ondersteuning van zelfstandig vertrek van vreemdelingen en gemeenschapsonderdanen uit Nederland (Subsidieregeling ondersteuning zelfstandig vertrek 2023)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=3) en [4 van de Kaderwet overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0044954&artikel=4) en [artikel 2, eerste lid, van het Kaderbesluit overige JenV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=2),
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,47 +20,47 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **brutoloon:** brutosalaris, inclusief vakantiegeld, een beloning in de vorm van een dertiende maand en eindejaarsuitkering, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst;
+- *brutoloon:* brutosalaris, inclusief vakantiegeld, een beloning in de vorm van een dertiende maand en eindejaarsuitkering, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst;
 
-- **CAO:** een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
+- *CAO:* een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
-- **directe loonkosten:** loonkosten van personeel, waarbij de gerealiseerde uren direct betrekking hebben op deelnemers aan het project dan wel loonkosten van personeel die direct te relateren zijn aan de uitvoering van subsidiabele activiteiten;
+- *directe loonkosten:* loonkosten van personeel, waarbij de gerealiseerde uren direct betrekking hebben op deelnemers aan het project dan wel loonkosten van personeel die direct te relateren zijn aan de uitvoering van subsidiabele activiteiten;
 
-- **DT&V:** Dienst Terugkeer en Vertrek;
+- *DT&V:* Dienst Terugkeer en Vertrek;
 
-- **financieringsplan:** een beschrijving van de benodigde en beschikbare financiële capaciteit voor de uitvoering van de voorgenomen activiteiten, waaronder in ieder geval een liquiditeitsplan waaruit blijkt op welke wijze de projectkosten gefinancierd worden;
+- *financieringsplan:* een beschrijving van de benodigde en beschikbare financiële capaciteit voor de uitvoering van de voorgenomen activiteiten, waaronder in ieder geval een liquiditeitsplan waaruit blijkt op welke wijze de projectkosten gefinancierd worden;
 
-- **FX EURP:** Frontex EU Reintegration Programma;
+- *FX EURP:* Frontex EU Reintegration Programma;
 
-- **gemeenschapsonderdaan:** onderdaan van de lidstaten van de Europese Unie, of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, of van de Zwitserse Bondsstaat, alsmede hun familieleden als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1);
+- *gemeenschapsonderdaan:* onderdaan van de lidstaten van de Europese Unie, of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992, of van de Zwitserse Bondsstaat, alsmede hun familieleden als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1);
 
-- **handleiding:** Handleiding Projectadministratie Subsidieregeling ondersteuning zelfstandig vertrek 2023, zoals beschikbaar op [www.dienstterugkeerenvertrek.nl](http://www.dienstterugkeerenvertrek.nl);
+- *handleiding:* Handleiding Projectadministratie Subsidieregeling ondersteuning zelfstandig vertrek 2023, zoals beschikbaar op [www.dienstterugkeerenvertrek.nl](http://www.dienstterugkeerenvertrek.nl);
 
-- **indirecte kosten:** kosten die niet kunnen worden aangewezen als specifieke kosten van het project, en niet rechtstreeks verband houden met de uitvoering ervan;
+- *indirecte kosten:* kosten die niet kunnen worden aangewezen als specifieke kosten van het project, en niet rechtstreeks verband houden met de uitvoering ervan;
 
-- **IOM:** Internationale Organisatie voor Migratie;
+- *IOM:* Internationale Organisatie voor Migratie;
 
-- **minister:** Minister van Asiel en Migratie;
+- *minister:* Minister van Asiel en Migratie;
 
-- **onderdaan van een derde land:** eenieder die geen gemeenschapsonderdanen zijn;
+- *onderdaan van een derde land:* eenieder die geen gemeenschapsonderdanen zijn;
 
-- **penvoerder:** door het samenwerkingsverband aangewezen penvoerende persoon of organisatie die deelneemt aan het samenwerkingsverband;
+- *penvoerder:* door het samenwerkingsverband aangewezen penvoerende persoon of organisatie die deelneemt aan het samenwerkingsverband;
 
-- **post-arrival ondersteuning:** een bijdrage aan de terugkeerder in contanten of in natura om de eerste dagen na terugkeer te vergemakkelijken;
+- *post-arrival ondersteuning:* een bijdrage aan de terugkeerder in contanten of in natura om de eerste dagen na terugkeer te vergemakkelijken;
 
-- **project:** het specifieke praktische middel waarmee een subsidieontvanger een activiteit of meerdere activiteiten in het geheel of gedeeltelijk uitvoert;
+- *project:* het specifieke praktische middel waarmee een subsidieontvanger een activiteit of meerdere activiteiten in het geheel of gedeeltelijk uitvoert;
 
-- **projectperiode:** periode tussen het tijdstip waarop activiteiten starten en worden afgerond;
+- *projectperiode:* periode tussen het tijdstip waarop activiteiten starten en worden afgerond;
 
-- **REAN-programma:** het programma ‘Return and Emigration Assistance from The Netherlands’ van de Internationale Organisatie voor Migratie;
+- *REAN-programma:* het programma ‘Return and Emigration Assistance from The Netherlands’ van de Internationale Organisatie voor Migratie;
 
-- **samenwerkingsverband:** samenwerking tussen twee of meer in Nederland gevestigde, niet-gouvernementele organisaties met rechtspersoonlijkheid naar Nederlands recht;
+- *samenwerkingsverband:* samenwerking tussen twee of meer in Nederland gevestigde, niet-gouvernementele organisaties met rechtspersoonlijkheid naar Nederlands recht;
 
-- **specifieke kosten:** kosten voor goederen, diensten en financiële bijdragen die rechtstreeks aan de deelnemer ten goede komen om perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek;
+- *specifieke kosten:* kosten voor goederen, diensten en financiële bijdragen die rechtstreeks aan de deelnemer ten goede komen om perspectief te bieden op herintegratie in het land van herkomst of bestemming na vertrek;
 
-- **terugkeerondersteuning:** ondersteuning in de vorm van geld of in natura die rechtstreeks ten goede komt aan de terugkeerder;
+- *terugkeerondersteuning:* ondersteuning in de vorm van geld of in natura die rechtstreeks ten goede komt aan de terugkeerder;
 
-- **vreemdeling:** eenieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld.
+- *vreemdeling:* eenieder die de Nederlandse nationaliteit niet bezit en niet op grond van een wettelijke bepaling als Nederlander moet worden behandeld.
 
 ##### Artikel 2. Aard en doel van de projecten
 
@@ -314,7 +288,7 @@ De minister kan een subsidie weigeren wanneer:
 
 2. De subsidiabele kosten voor doelgroep A worden verhoogd met een opslag van maximaal 13% ter dekking van de indirecte kosten. Voor doelgroep B geldt een opslag van maximaal 9%.
 
-3. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden, indien een berekening overeenkomstig het eerste lid, onderdeel a, niet mogelijk is, berekend door het aantal uren dat de betrokken persoon aan het project ten behoeve van deze activiteiten heeft gemaakt, te vermenigvuldigen met een vast uurtarief van € 43.
+3. De kosten van de door een subsidieontvanger verrichte eigen arbeid ten behoeve van het project worden, indien een berekening overeenkomstig het eerste lid, onderdeel a, niet mogelijk is, berekend door het aantal uren dat de betrokken persoon aan het project ten behoeve van deze activiteiten heeft gemaakt, te vermenigvuldigen met een vast uurtarief van € 43.
 
 ##### Artikel 13. Niet subsidiabel
 
@@ -340,13 +314,13 @@ Niet voor subsidiëring komen in aanmerking:
 
 - j. kosten gemaakt buiten de projectperiode, met uitzondering van kosten die na afloop van de projectperiode zijn gemaakt voor:
 
-- 1°. de directe loonkosten voor de projectcoördinatie en -administratie ten behoeve van het opstellen van de einddeclaratie;
+   - 1°. de directe loonkosten voor de projectcoördinatie en -administratie ten behoeve van het opstellen van de einddeclaratie;
 
-- 2°. de kosten voor onderaanneming ten behoeve van het opstellen van de einddeclaratie;
+   - 2°. de kosten voor onderaanneming ten behoeve van het opstellen van de einddeclaratie;
 
-- 3°. de directe loonkosten of de kosten van onderaanneming ten behoeve van de loonadministratie tot 13 weken na afloop van de projectperiode; en
+   - 3°. de directe loonkosten of de kosten van onderaanneming ten behoeve van de loonadministratie tot 13 weken na afloop van de projectperiode; en
 
-- 4°. de kosten van specifieke uitgaven in verband met doelgroepen tot 4 weken na afloop van de projectperiode;
+   - 4°. de kosten van specifieke uitgaven in verband met doelgroepen tot 4 weken na afloop van de projectperiode;
 
 - k. bijdragen in natura, met uitzondering van de kosten, bedoeld in artikel 12, eerste lid;
 
@@ -370,7 +344,7 @@ Niet voor subsidiëring komen in aanmerking:
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van het project een verzoek tot vaststelling van de subsidie in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt een inhoudelijke en financiële eindrapportage gevoegd. De financiële eindrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister beschikbaar gesteld formulier.
 
-2. Voor projecten waarvoor een maximale subsidie is verstrekt van meer dan € 125.000, wordt bij het verzoek om vaststelling tevens een volgens het door de minister opgestelde accountantsprotocol opgestelde verklaring van een accountant gevoegd.
+2. Voor projecten waarvoor een maximale subsidie is verstrekt van meer dan € 125.000, wordt bij het verzoek om vaststelling tevens een volgens het door de minister opgestelde accountantsprotocol opgestelde verklaring van een accountant gevoegd.
 
 3. De minister stelt binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie de subsidie vast.
 
@@ -468,11 +442,11 @@ Deze uitgaven zijn subsidiabel voor zover zij niet door een ander programma of o
 
 ##### Artikel 20. Hoogte van de subsidie
 
-1. De hoogte van de subsidie bedraagt minimaal € 125.000 en maximaal € 450.000 per project per tijdvak van 12 maanden.
+1. De hoogte van de subsidie bedraagt minimaal € 125.000 en maximaal € 450.000 per project per tijdvak van 12 maanden.
 
-2. Organisaties die nog geen ervaring hebben met het organiseren van terugkeerprojecten die door de minister worden gesubsidieerd, komen in aanmerking voor een maximale subsidie van € 192.500 met een maximale projectduur van twaalf maanden.
+2. Organisaties die nog geen ervaring hebben met het organiseren van terugkeerprojecten die door de minister worden gesubsidieerd, komen in aanmerking voor een maximale subsidie van € 192.500 met een maximale projectduur van twaalf maanden.
 
-3. Een subsidie van meer dan € 350.000 per tijdvak van 12 maanden wordt alleen verstrekt aan organisaties:
+3. Een subsidie van meer dan € 350.000 per tijdvak van 12 maanden wordt alleen verstrekt aan organisaties:
 
 - a. die eerder vergelijkbare activiteiten hebben uitgevoerd met subsidie van de minister;
 
@@ -482,11 +456,11 @@ Deze uitgaven zijn subsidiabel voor zover zij niet door een ander programma of o
 
 ##### Artikel 21. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister jaarlijks ontvangen in het aanvraagtijdvak tussen 1 maart tot en met 31 december.
+Subsidieaanvragen met betrekking tot een project voor doelgroep A worden door de minister jaarlijks ontvangen in het aanvraagtijdvak tussen 1 maart tot en met 31 december.
 
 ##### Artikel 22. Subsidieplafond
 
-Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2026-01-16&g=2026-01-16), € 1.702.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=2&artikel=21&z=2026-01-16&g=2026-01-16), € 1.702.000.
 
 ### Hoofdstuk 3. Bepalingen die zien op doelgroep b
 
@@ -524,7 +498,7 @@ Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 4. Als het vanuit medisch of sociaal oogpunt noodzakelijk is, kan de Gemeenschapsonderdaan tijdens zijn reis begeleid worden door een medische of sociaal-maatschappelijke begeleider. De noodzaak van de begeleiding dient uit het persoonlijke dossier van de deelnemer te blijken.
 
-5. De specifieke uitgave in verband met doelgroepen die direct ten goede komen aan de Gemeenschapsonderdaan en in contanten worden verstrekt, kan bestaan uit een ondersteuningsbijdrage ter dekking van eerste levensbehoeften tijdens de terugreis van maximaal € 35 per deelnemer.
+5. De specifieke uitgave in verband met doelgroepen die direct ten goede komen aan de Gemeenschapsonderdaan en in contanten worden verstrekt, kan bestaan uit een ondersteuningsbijdrage ter dekking van eerste levensbehoeften tijdens de terugreis van maximaal € 35 per deelnemer.
 
 6. Reis- en verblijfskosten van projectmedewerkers die niet permanent in Nederland wonen, die niet de Nederlandse nationaliteit bezitten en die tijdelijk voor het project werkzaam zijn, zijn subsidiabel onder de kostenpost reis- en verblijfskosten. Als er gedurende de projectperiode een aparte woning wordt gehuurd voor het verblijf van deze buitenlandse medewerkers, dan vallen de woonlasten onder de kostenpost 'huur van onroerende zaken'.
 
@@ -532,27 +506,27 @@ Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ##### Artikel 26. Hoogte van de subsidie
 
-1. De hoogte van de subsidie bedraagt maximaal € 2.000.000 per project per tijdvak van 12 maanden.
+1. De hoogte van de subsidie bedraagt maximaal € 2.000.000 per project per tijdvak van 12 maanden.
 
 2. De subsidie ten behoeve van projecten als bedoeld in dit hoofdstuk worden voor maximaal 50% door de Dienst Terugkeer & Vertrek gefinancierd. De overige 50% van de subsidiabele kosten van een project dienen gezamenlijk gefinancierd te worden door Nederlandse gemeenten, die in dit kader een co-financieringsverklaring hebben opgesteld, zoals bedoeld in artikel 23, tweede lid.
 
 ##### Artikel 27. Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project voor doelgroep B worden door de minister ontvangen in het aanvraagtijdvak van 1 januari 2026 tot en met 31 maart 2026.
+Subsidieaanvragen met betrekking tot een project voor doelgroep B worden door de minister ontvangen in het aanvraagtijdvak van 1 januari 2026 tot en met 31 maart 2026.
 
 ##### Artikel 28. Subsidieplafond
 
-Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&artikel=27&z=2026-01-16&g=2026-01-16), € 4.000.000.
+Het maximale beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0048465&hoofdstuk=3&artikel=27&z=2026-01-16&g=2026-01-16), € 4.000.000.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-##### Artikel 29. Intrekking [Subsidieregeling ondersteuning zelfstandig vertrek 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041714)
+##### Artikel 29. Intrekking Subsidieregeling ondersteuning zelfstandig vertrek 2019
 
 De [Subsidieregeling ondersteuning zelfstandig vertrek 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041714) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op subsidies die voor het tijdstip van inwerkingtreding van deze regeling zijn aangevraagd.
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 augustus 2023 en vervalt met ingang van 1 augustus 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor laatstgenoemde datum zijn aangevraagd. De regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van 1 augustus 2023 en vervalt met ingang van 1 augustus 2028, met dien verstande dat zij van toepassing blijft op subsidies die voor laatstgenoemde datum zijn aangevraagd. De regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 31. Citeertitel
 

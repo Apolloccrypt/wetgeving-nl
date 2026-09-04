@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister voor Langdurige Zorg en Sport van 10 oktober 2023, kenmerk 3698854-1053525-DMO, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de Stimuleringsregeling zorggeschikte woningen (Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen)"
+citeertitel: "Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen"
 identifier: "BWBR0048771"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-25"
-last_updated: "2023-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048771"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16887893"
-version_id: "29682142"
-internal_id: "C42493431"
-label_id: "16799904"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048771/2023-10-25/0"
-intitule_bron: "Stcrt.2023-28881"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-10"
-intitule_published: "2023-10-24"
-intitule_in_force: "2023-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-28881"
-original_signed_date: "2023-10-10"
-original_published_date: "2023-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-28881"
-entry_into_force_date: "2023-10-25"
-jci_1_3: "jci1.3:c:BWBR0048771&z=2023-10-25&g=2023-10-25"
-jci_1_0: "1.0:c:BWBR0048771&g=2023-10-25"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen"
-signed_date: "2023-10-10"
-entry_into_force: "2023-10-25"
+publicatiedatum: 2023-10-25
+laatste_update: 2023-10-25
+status: geldig
+toestand: 2023-10-25
+bron: "https://wetten.overheid.nl/BWBR0048771"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Langdurige Zorg en Sport van 10 oktober 2023, kenmerk 3698854-1053525-DMO, houdende verlening van mandaat, volmacht en machtiging aan de Rijksdienst voor Ondernemend Nederland in verband met de subsidieverstrekking inzake de Stimuleringsregeling zorggeschikte woningen (Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de instemming van de algemeen directeur van de Rijksdienst voor Ondernemend Nederland;
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **algemeen directeur:** de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
+- *algemeen directeur:* de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat;
 
-- **minister:** de Minister voor Langdurige Zorg en Sport.
+- *minister:* de Minister voor Langdurige Zorg en Sport.
 
 ##### Artikel 2
 
@@ -109,5 +81,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging RVO inzake de Stimuleringsregeling zorggeschikte woningen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,68 +1,43 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende instelling van de beoordelingscommissie voor het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 voor de periode 2023 tot en met 2026 (Instellingsbesluit beoordelingscommissie LLO-oplossingen energie- en grondstoffentransitie 2023-2026)"
+citeertitel: "Instellingsbesluit beoordelingscommissie LLO-oplossingen energie- en grondstoffentransitie 2023-2026"
 identifier: "BWBR0048368"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-28"
-last_updated: "2024-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048368"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16794893"
-version_id: "29504252"
-internal_id: "C42187051"
-label_id: "16709844"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048368/2024-06-28/0"
-intitule_bron: "Stcrt.2023-19050"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-27"
-intitule_published: "2023-07-07"
-intitule_in_force: "2023-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-19050"
-original_signed_date: "2023-06-27"
-original_published_date: "2023-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-19050"
-entry_into_force_date: "2023-07-08"
-jci_1_3: "jci1.3:c:BWBR0048368&z=2024-06-28&g=2024-06-28"
-jci_1_0: "1.0:c:BWBR0048368&g=2024-06-28"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit beoordelingscommissie LLO-oplossingen energie- en grondstoffentransitie 2023-2026"
-signed_date: "2023-06-27"
-entry_into_force: "2023-07-08"
+publicatiedatum: 2023-07-08
+laatste_update: 2024-06-28
+status: geldig
+toestand: 2024-06-28
+bron: "https://wetten.overheid.nl/BWBR0048368"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende instelling van de beoordelingscommissie voor het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 voor de periode 2023 tot en met 2026 (Instellingsbesluit beoordelingscommissie LLO-oplossingen energie- en grondstoffentransitie 2023-2026)
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048368&artikel=2&z=2024-06-28&g=2024-06-28);
+- *commissie:* beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048368&artikel=2&z=2024-06-28&g=2024-06-28);
 
-- **DUS-I (Dienst Uitvoering Subsidies aan Instellingen):** uitvoeringsorganisatie van het Ministerie van Volksgezondheid, Welzijn en Sport die verantwoordelijk is voor het secretariaat;
+- *DUS-I (Dienst Uitvoering Subsidies aan Instellingen):* uitvoeringsorganisatie van het Ministerie van Volksgezondheid, Welzijn en Sport die verantwoordelijk is voor het secretariaat;
 
-- **groot project:** project als bedoeld in het derde lid van [artikel 3 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&artikel=3);
+- *groot project:* project als bedoeld in het derde lid van [artikel 3 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&artikel=3);
 
 - klein project:project als bedoeld in het tweede lid van [artikel 3 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&artikel=3);
 
-- **kalibreersessie:** gezamenlijke bijeenkomst van de leden van de beoordelingscommissie waarin onderlinge afstemming van de beoordelingscriteria worden besproken en afgestemd met als doel de betrouwbaarheid van de beoordeling te verhogen en de toepasselijke criteria te verduidelijken;
+- *kalibreersessie:* gezamenlijke bijeenkomst van de leden van de beoordelingscommissie waarin onderlinge afstemming van de beoordelingscriteria worden besproken en afgestemd met als doel de betrouwbaarheid van de beoordeling te verhogen en de toepasselijke criteria te verduidelijken;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **regeling:** [Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023-2026](https://wetten.overheid.nl/jci1.3:c:BWBR0048365), ter beoordeling waarvan de beoordelingscommissie is ingesteld.
+- *regeling:*
+ [Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023-2026](https://wetten.overheid.nl/jci1.3:c:BWBR0048365), ter beoordeling waarvan de beoordelingscommissie is ingesteld.
 
 ##### Artikel 2. Instelling van de commissie
 
 1. Er is een beoordelingscommissie LLO-oplossingen.
 
-2. De commissie wordt ingesteld met ingang van 1 juli 2023 en wordt opgeheven met ingang van 31 december 2026.
+2. De commissie wordt ingesteld met ingang van 1 juli 2023 en wordt opgeheven met ingang van 31 december 2026.
 
 3. De periode van instelling van de beoordelingscommissie kan worden verlengd indien het programma LLO-Katalysator in een volgende periode wordt voortgezet.
 
@@ -100,7 +75,7 @@ In dit besluit wordt verstaan onder:
 
 7. Voor haar taken als bedoeld in de onderdelen a en b van het tweede lid adviseert de commissie de Minister binnen 16 weken na afloop van iedere aanvraagperiode als bedoeld in het [eerste lid van artikel 6 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&artikel=6).
 
-8. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de taken van de commissie, genoemd in het derde lid.
+8. Leden van de commissie zijn ook na 1 januari 2026 te consulteren door de Minister in verband met de rechten en plichten die voortvloeien uit de taken van de commissie, genoemd in het derde lid.
 
 ##### Artikel 5. Leden
 
@@ -132,13 +107,13 @@ Tot leden van de commissie worden benoemd:
 
 - m. Sjoerd Keijser;
 
-- n. Trudy van Megen, tot 1 mei 2024;
+- n. Trudy van Megen, tot 1 mei 2024;
 
-- o. Wieger Bakker, tot 1 mei 2024;
+- o. Wieger Bakker, tot 1 mei 2024;
 
-- p. te rekenen vanaf 8 april 2024: Wilbert Kolkman;
+- p. te rekenen vanaf 8 april 2024: Wilbert Kolkman;
 
-- q. te rekenen vanaf 8 april 2024: Klaas Verschuure.
+- q. te rekenen vanaf 8 april 2024: Klaas Verschuure.
 
 ##### Artikel 6. Secretariaat
 
@@ -180,13 +155,13 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 ##### Artikel 9. Vergoeding
 
-1. De vergoeding van de voorzitter van de commissie bedraagt € 378,63 excl. btw per dagdeel.
+1. De vergoeding van de voorzitter van de commissie bedraagt € 378,63 excl. btw per dagdeel.
 
-2. De vergoeding van de overige leden bedraagt € 278,63 excl. btw euro per dagdeel.
+2. De vergoeding van de overige leden bedraagt € 278,63 excl. btw euro per dagdeel.
 
 3. Per beoordeelde aanvraag worden voor een commissielid ten hoogste twee dagdelen vergoed, blijkend uit de taakverdeling tussen de commissieleden.
 
-4. De reiskostenvergoeding is € 0,21 per kilometer of de werkelijk gemaakte kosten met openbaar vervoer.
+4. De reiskostenvergoeding is € 0,21 per kilometer of de werkelijk gemaakte kosten met openbaar vervoer.
 
 ##### Artikel 10. Kosten van de commissie
 
@@ -206,10 +181,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2027.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie LLO-oplossingen energie- en grondstoffentransitie 2023-2026.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

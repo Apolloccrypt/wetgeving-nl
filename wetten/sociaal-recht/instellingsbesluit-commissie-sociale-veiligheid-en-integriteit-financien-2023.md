@@ -1,80 +1,50 @@
 ---
 title: "Besluit van de Minister van Financiën van 23 juni 2023, houdende instelling van de Commissie sociale veiligheid en integriteit Financiën (Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023)"
+citeertitel: "Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023"
 identifier: "BWBR0048417"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-25"
-last_updated: "2025-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048417"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16807793"
-version_id: "31220502"
-internal_id: "C44656451"
-label_id: "16721534"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048417/2025-12-25/0"
-intitule_bron: "Stcrt.2023-20141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-23"
-intitule_published: "2023-07-19"
-intitule_in_force: "2023-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44412"
-original_signed_date: "2025-11-21"
-original_published_date: "2025-12-24"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-44412"
-entry_into_force_date: "2025-11-21"
-jci_1_3: "jci1.3:c:BWBR0048417&z=2025-12-25&g=2025-12-25"
-jci_1_0: "1.0:c:BWBR0048417&g=2025-12-25"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023"
-signed_date: "2025-11-21"
-entry_into_force: "2025-11-21"
+publicatiedatum: 2025-11-21
+laatste_update: 2025-12-25
+status: geldig
+toestand: 2025-12-25
+bron: "https://wetten.overheid.nl/BWBR0048417"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Financiën van 23 juni 2023, houdende instelling van de Commissie sociale veiligheid en integriteit Financiën (Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023)
-
-Gehoord hebbende de Departementale Ondernemingsraad Financiën;
-
-In overeenstemming met het Departementaal Georganiseerd Overleg Financiën;
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **het Ministerie:** het Ministerie van Financiën (inclusief het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen);
+- a. *het Ministerie:* het Ministerie van Financiën (inclusief het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen);
 
-- b. **de Minister:** de Minister van Financiën;
+- b. *de Minister:* de Minister van Financiën;
 
-- c. **de SG:** de secretaris-generaal van het Ministerie van Financiën;
+- c. *de SG:* de secretaris-generaal van het Ministerie van Financiën;
 
-- d. **de pSG:** de plaatsvervangend secretaris-generaal van het Ministerie van Financiën;
+- d. *de pSG:* de plaatsvervangend secretaris-generaal van het Ministerie van Financiën;
 
-- e. **de DG’s:** de directeur-generaal Belastingdienst, de directeur-generaal Toeslagen, de directeur-generaal Douane, de directeur-generaal Rijksbegroting, de directeur-generaal Fiscale Zaken en de thesaurier-generaal van het Ministerie van Financiën;
+- e. *de DG’s:* de directeur-generaal Belastingdienst, de directeur-generaal Toeslagen, de directeur-generaal Douane, de directeur-generaal Rijksbegroting, de directeur-generaal Fiscale Zaken en de thesaurier-generaal van het Ministerie van Financiën;
 
-- f. **de commissie:** de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2025-12-25&g=2025-12-25);
+- f. *de commissie:* de Commissie sociale veiligheid en integriteit Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048417&artikel=2&z=2025-12-25&g=2025-12-25);
 
-- g. **betrokkene:** een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon die individueel of als groep anderszins arbeid verricht of heeft verricht bij het Ministerie;
+- g. *betrokkene:* een medewerker, voormalig medewerker, stagiair, vrijwilliger, oproepkracht, gedetacheerde dan wel een persoon die individueel of als groep anderszins arbeid verricht of heeft verricht bij het Ministerie;
 
-- h. **het vermoeden van een integriteitschending:** als een medewerker (incidenteel of structureel) niet handelt overeenkomstig de (daarvoor) geldende morele waarden en normen en de daarmee samenhangende regels. Ook gedrag buiten werktijd en buiten de plaats waar de functie normaal wordt uitgeoefend kan een integriteitschending opleveren, zeker wanneer er een relatie is tussen gedrag en functie. De Gedragscode Integriteit Rijk (GIR) geeft de ambtenaar een kader voor integer handelen. Het document geeft een overzicht van de belangrijkste Rijksbrede afspraken op het gebied van integriteit;
+- h. *het vermoeden van een integriteitschending:* als een medewerker (incidenteel of structureel) niet handelt overeenkomstig de (daarvoor) geldende morele waarden en normen en de daarmee samenhangende regels. Ook gedrag buiten werktijd en buiten de plaats waar de functie normaal wordt uitgeoefend kan een integriteitschending opleveren, zeker wanneer er een relatie is tussen gedrag en functie. De Gedragscode Integriteit Rijk (GIR) geeft de ambtenaar een kader voor integer handelen. Het document geeft een overzicht van de belangrijkste Rijksbrede afspraken op het gebied van integriteit;
 
-- i. **het vermoeden van een misstand:** het vermoeden zoals geformuleerd in [artikel 1, aanhef en onder d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- i. *het vermoeden van een misstand:* het vermoeden zoals geformuleerd in [artikel 1, aanhef en onder d, van de Wet Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- j. **de melder:** de ambtenaar, een collectief van ambtenaren, de gewezen ambtenaar of degene die anderszins arbeid verricht of heeft verricht bij het Ministerie die een vermoeden van een integriteitschending of misstand meldt;
+- j. *de melder:* de ambtenaar, een collectief van ambtenaren, de gewezen ambtenaar of degene die anderszins arbeid verricht of heeft verricht bij het Ministerie die een vermoeden van een integriteitschending of misstand meldt;
 
-- k. **de melding:** een vermoeden van een integriteitschending of misstand welke bekend is gemaakt aan de commissie;
+- k. *de melding:* een vermoeden van een integriteitschending of misstand welke bekend is gemaakt aan de commissie;
 
-- l. **de BIPO:** de Baseline Intern Persoonsgericht Onderzoek;
+- l. *de BIPO:* de Baseline Intern Persoonsgericht Onderzoek;
 
-- m. **het OIF:** het Onderzoeksbureau Integriteit Financiën;
+- m. *het OIF:* het Onderzoeksbureau Integriteit Financiën;
 
-- n. **Sociale veiligheid:** sociale veiligheid zoals bedoeld in de cao Rijk.
+- n. *Sociale veiligheid:* sociale veiligheid zoals bedoeld in de cao Rijk.
 
 ##### Artikel 2. Instelling en taak
 
@@ -146,6 +116,12 @@ De commissie adviseert degene die het signaal of melding heeft gedaan over vervo
 
 6. In afwijking van het vijfde lid zal de Minister zo spoedig mogelijk worden geïnformeerd bij een melding van een vermoeden van integriteitsschending of een misstand, indien dit vermoeden ziet op (een) gedraging(en) van de SG.
 
+##### Artikel 6a. Calamiteitenprocedure
+
+1. De commissie heeft een calamiteitenprocedure voor urgente situaties. Dit betreft integriteitssituaties die direct gerelateerd zijn aan het werk, zoals een acute maatschappelijke misstand, ernstige druk of ernstige ongepaste bejegening en ernstig grensoverschrijdend gedrag. Het is aan de werknemer om aannemelijk te maken dat sprake is van een acute situatie die geen uitstel duldt. De commissie behandelt de gemelde kwestie, waarbij indien nodig direct actie wordt ondernomen richting de hoogst leidinggevende van de organisatie, om de veiligheid en het welzijn van de meldende werknemer te borgen.
+
+2. Indien de melding een secretaris-generaal (of functionaris van een vergelijkbaar niveau) betreft, dan wordt de minister van de melding op de hoogte gebracht.
+
 ##### Artikel 7. Vertrouwelijkheid, het inwinnen van inlichtingen en medewerkingsplicht ambtenaren
 
 1. De commissie zorgt ervoor dat de identiteit van personen die zich tot haar wenden niet verder bekend wordt dan noodzakelijk is voor de behandeling van een signaal of melding.
@@ -198,24 +174,14 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden, 
 
 2. In afwijking van het eerste lid kan de commissie de halfjaarlijkse en jaarlijkse verslagen acht weken nadat zij zijn uitgebracht zelfstandig openbaar maken aan derden.
 
-##### Artikel 14. Intrekken [Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0048022)
+##### Artikel 14. Intrekken Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën
 
 Het [Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0048022) wordt ingetrokken.
 
 ##### Artikel 15. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2023.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2023.
 
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de commissie.
-
-##### Artikel 6a. Calamiteitenprocedure
-
-1. De commissie heeft een calamiteitenprocedure voor urgente situaties. Dit betreft integriteitssituaties die direct gerelateerd zijn aan het werk, zoals een acute maatschappelijke misstand, ernstige druk of ernstige ongepaste bejegening en ernstig grensoverschrijdend gedrag. Het is aan de werknemer om aannemelijk te maken dat sprake is van een acute situatie die geen uitstel duldt. De commissie behandelt de gemelde kwestie, waarbij indien nodig direct actie wordt ondernomen richting de hoogst leidinggevende van de organisatie, om de veiligheid en het welzijn van de meldende werknemer te borgen.
-
-2. Indien de melding een secretaris-generaal (of functionaris van een vergelijkbaar niveau) betreft, dan wordt de minister van de melding op de hoogte gebracht.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de commissie.

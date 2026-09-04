@@ -1,44 +1,18 @@
 ---
 title: "Deelregeling van het bestuur van het Fonds Podiumkunsten van 11 oktober 2023, houdende meerjarige productiesubsidies 2025–2028"
+citeertitel: "Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028"
 identifier: "BWBR0048742"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-10-17"
-last_updated: "2023-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048742"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16881603"
-version_id: "29670692"
-internal_id: "C42469381"
-label_id: "16793834"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048742/2023-10-17/0"
-intitule_bron: "Stcrt.2023-28493"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-11"
-intitule_published: "2023-10-16"
-intitule_in_force: "2023-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-28493"
-original_signed_date: "2023-10-11"
-original_published_date: "2023-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-28493"
-entry_into_force_date: "2023-10-17"
-jci_1_3: "jci1.3:c:BWBR0048742&z=2023-10-17&g=2023-10-17"
-jci_1_0: "1.0:c:BWBR0048742&g=2023-10-17"
-citeertitel_status: "officieel"
-short_title: "Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028"
-signed_date: "2023-10-11"
-entry_into_force: "2023-10-17"
+publicatiedatum: 2023-10-17
+laatste_update: 2023-10-17
+status: geldig
+toestand: 2023-10-17
+bron: "https://wetten.overheid.nl/BWBR0048742"
+opgehaald: 2026-09-04
 ---
+
 # Deelregeling van het bestuur van het Fonds Podiumkunsten van 11 oktober 2023, houdende meerjarige productiesubsidies 2025–2028
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,21 +20,21 @@ Besluit
 
 In deze regeling wordt verstaan onder:
 
-- –. **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- – *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- –. **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- – *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- –. **kernactiviteit:** Het in continuïteit produceren van aanbod op het gebied van professionele podiumkunsten in Nederland;
+- – *kernactiviteit:* Het in continuïteit produceren van aanbod op het gebied van professionele podiumkunsten in Nederland;
 
-- –. **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief de drie bijzondere gemeenten Bonaire, Sint Eustatius en Saba en de landen Aruba, Curaçao en Sint Maarten;
+- – *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief de drie bijzondere gemeenten Bonaire, Sint Eustatius en Saba en de landen Aruba, Curaçao en Sint Maarten;
 
-- –. **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
+- – *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland;
 
-- –. **solvabiliteit:** het eigen vermogen gedeeld door het vreemd vermogen;
+- – *solvabiliteit:* het eigen vermogen gedeeld door het vreemd vermogen;
 
-- –. **uitvoering:** een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
+- – *uitvoering:* een voorstelling of concert dan wel een schoolvoorstelling of schoolconcert;
 
-- –. **voorstelling of concert:** openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
+- – *voorstelling of concert:* openbaar toegankelijke podiumkunstactiviteit die bedoeld is voor publiek en waarbij sprake is van een (muziek)theatraal concept of choreografisch idee of een muzikale programmatische samenhang.
 
 ##### Artikel 1.2. Doel
 
@@ -70,11 +44,11 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 1. Een instelling die meerjarige subsidie wil aanvragen heeft de keuze tussen drie categorieën aan subsidie:
 
-- a). categorie I
+- a) categorie I
 
-- b). categorie II
+- b) categorie II
 
-- c). categorie III
+- c) categorie III
 
 2. Subsidie wordt verstrekt voor een periode van vier jaar.
 
@@ -84,13 +58,13 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 ##### Artikel 1.4. Subsidieplafonds
 
-1. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie I: € 6.250.000
+1. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie I: € 6.250.000
 
-2. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie II: € 18.750.000
+2. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie II: € 18.750.000
 
-3. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie III: € 10.450.000
+3. Voor de periode 2025–2028 is per kalenderjaar het volgende bedrag beschikbaar voor het verstrekken van subsidies in de categorie III: € 10.450.000
 
-4. Voor de periode 2025–2028 is per kalenderjaar een flexibel budget beschikbaar voor de drie categorieën gezamenlijk ten bedrage van: € 4.750.000
+4. Voor de periode 2025–2028 is per kalenderjaar een flexibel budget beschikbaar voor de drie categorieën gezamenlijk ten bedrage van: € 4.750.000
 
 5. De bedragen genoemd in de eerste vier leden gelden als subsidieplafond.
 
@@ -104,7 +78,7 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 - b. als het bestuur op basis van de aanvraag er onvoldoende van overtuigd is dat de uit te voeren activiteiten kunnen worden gerealiseerd;
 
-- c. als niet minimaal 50% van het in [artikel 3.2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=3&artikel=3.2&z=2023-10-17&g=2023-10-17) van de regeling genoemde minimumaantal uitvoeringen per jaar in Nederland plaatsvindt;
+- c. als niet minimaal 50% van het in [artikel 3.2 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=3&artikel=3.2&z=2023-10-17&g=2023-10-17) van de regeling genoemde minimumaantal uitvoeringen per jaar in Nederland plaatsvindt;
 
 - d. als de aanvrager geen rechtspersoon met volledige rechtsbevoegdheid is;
 
@@ -112,7 +86,7 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 - f. als de aanvrager in 2022 en 2023 niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de realisatie en het juist en tijdig verantwoorden van de activiteiten;
 
-- g. als aan de aanvrager voor zijn kernactiviteit subsidie is of zal worden verleend op grond van de [Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025–2028](onbekend) dan wel op grond van een meerjarige regeling van een van de andere Rijkscultuurfondsen;
+- g. als aan de aanvrager voor zijn kernactiviteit subsidie is of zal worden verleend op grond van de Deelregeling meerjarige festivalsubsidies Fonds Podiumkunsten 2025–2028 dan wel op grond van een meerjarige regeling van een van de andere Rijkscultuurfondsen;
 
 - h. als de aanvraag niet aan het bepaalde in deze regeling voldoet.
 
@@ -126,7 +100,7 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 ##### Artikel 2.1. Indienen aanvraag
 
-1. Aanvragen dienen uiterlijk 31 januari 2024 om 23.59 uur te zijn ontvangen.
+1. Aanvragen dienen uiterlijk 31 januari 2024 om 23.59 uur te zijn ontvangen.
 
 2. De aanvraag wordt digitaal ingediend.
 
@@ -136,7 +110,7 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 ##### Artikel 2.2. Kosten die voor subsidie in aanmerking komen
 
-1. Voor subsidie komen uitsluitend de kosten in aanmerking die in rechtstreeks verband staan tot de activiteiten genoemd in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=3&artikel=3.2&z=2023-10-17&g=2023-10-17) eerste lid van de regeling.
+1. Voor subsidie komen uitsluitend de kosten in aanmerking die in rechtstreeks verband staan tot de activiteiten genoemd in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=3&artikel=3.2&z=2023-10-17&g=2023-10-17) eerste lid van de regeling.
 
 2. Kosten zijn uitsluitend subsidiabel indien deze na indienen van de aanvraag door de subsidieontvanger zijn gemaakt.
 
@@ -152,13 +126,13 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 1. Aanvragen voor een meerjarige subsidie die aan de vereisten voldoen om voor subsidie in aanmerking te komen worden onderverdeeld in:
 
-- A:. honoreren;
+- A: honoreren;
 
-- B:. honoreren voor zover het budget dat toelaat; en
+- B: honoreren voor zover het budget dat toelaat; en
 
-- C:. niet honoreren.
+- C: niet honoreren.
 
-2. Aanvragen met een eindscore van minimaal 6 punten komen in aanmerking voor honorering als bedoeld in het eerste lid onder A of B.
+2. Aanvragen met een eindscore van minimaal 6 punten komen in aanmerking voor honorering als bedoeld in het eerste lid onder A of B.
 
 3. Als een subsidieplafond ontoereikend is om alle aanvragen met het advies 'honoreren voor zover het budget dat toelaat' te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de van toepassing zijnde criteria. De aanvraag die de meeste punten scoort wordt als eerste gehonoreerd. Telkens wordt de daaropvolgende aanvraag die de meeste punten scoort als eerste gehonoreerd.
 
@@ -182,7 +156,7 @@ Het bestuur kan meerjarige subsidies verstrekken aan producerende instellingen v
 
 ##### Artikel 2.5. Verdeling flexibele budget
 
-Het flexibele budget wordt verdeeld over de drie verschillende categorieën op basis van het totaalbedrag dat gemoeid is met de aanvragen die in aanmerking komen voor honorering, maar niet kunnen worden gehonoreerd uit de subsidieplafonds als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=1&artikel=1.4&z=2023-10-17&g=2023-10-17). De bedragen van alle aanvragen die voor honorering in aanmerking komen maar waar onvoldoende budget voor is om te kunnen honoreren, worden daartoe bij elkaar opgeteld. Vervolgens wordt per categorie het aandeel berekend ten opzichte van het totale bedrag dat gemoeid is met aanvragen met een advies ‘honoreren voor zover het budget dat toelaat’. Het flexibel budget wordt pro rato verdeeld over de drie categorieën.
+Het flexibele budget wordt verdeeld over de drie verschillende categorieën op basis van het totaalbedrag dat gemoeid is met de aanvragen die in aanmerking komen voor honorering, maar niet kunnen worden gehonoreerd uit de subsidieplafonds als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=1&artikel=1.4&z=2023-10-17&g=2023-10-17). De bedragen van alle aanvragen die voor honorering in aanmerking komen maar waar onvoldoende budget voor is om te kunnen honoreren, worden daartoe bij elkaar opgeteld. Vervolgens wordt per categorie het aandeel berekend ten opzichte van het totale bedrag dat gemoeid is met aanvragen met een advies ‘honoreren voor zover het budget dat toelaat’. Het flexibel budget wordt pro rato verdeeld over de drie categorieën.
 
 ##### Artikel 2.6. Besluit
 
@@ -224,11 +198,11 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden gedaan door een
 
 - b. De aanvrager dient aan te tonen dat:
 
-- i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
+   - i. het bestuur dan wel de raad van toezicht bestaat uit minimaal drie personen die onafhankelijk toezicht houden op de activiteiten;
 
-- ii. er een directiereglement is dan wel reglementen voor bestuur en raad van toezicht zijn, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
+   - ii. er een directiereglement is dan wel reglementen voor bestuur en raad van toezicht zijn, waarin afspraken zijn gemaakt over de taak-, verantwoordelijksheids- en bevoegdheidsverdeling;
 
-- iii. de aanvrager een procedure heeft vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht.
+   - iii. de aanvrager een procedure heeft vastgelegd in het geval er sprake is van (mogelijke) belangenverstrengeling bij een van de leden van de directie, het bestuur of de raad van toezicht.
 
 4. In het kader van de toepassing van de Fair Practice Code dient een aanvrager zijn beloningsbeleid met inachtneming van fair pay, openbaar te hebben gemaakt.
 
@@ -252,11 +226,11 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden gedaan door een
 
 1. Voor de hoogte van de subsidie heeft de aanvrager de keuze uit de volgende bedragen per jaar:
 
-- a. categorie I: € 100.000, € 130.000 of € 160.000
+- a. categorie I: € 100.000, € 130.000 of € 160.000
 
-- b. categorie II: € 250.000, € 370.000 of € 485.000
+- b. categorie II: € 250.000, € 370.000 of € 485.000
 
-- c. categorie III: € 605.000, € 725.000 of € 845.000
+- c. categorie III: € 605.000, € 725.000 of € 845.000
 
 Deze bedragen zijn per jaar op basis van prijspeil 2023 en kunnen worden geïndexeerd. Het percentage indexatie zal dan gelijk zijn aan het percentage indexatie van het instellingssubsidie van Fonds Podiumkunsten door het Ministerie van OCW.
 
@@ -270,27 +244,27 @@ Deze bedragen zijn per jaar op basis van prijspeil 2023 en kunnen worden geïnde
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
-- a). de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
+- a) de activiteiten waarvoor subsidie is verstrekt niet of niet geheel zullen doorgaan;
 
-- b). niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
+- b) niet geheel aan de aan het subsidie verbonden verplichtingen zal worden voldaan; of
 
-- c). er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
+- c) er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
 2. De subsidieontvanger plaatst het logo of de naam van het Fonds Podiumkunsten op alle publiciteitsuitingen die betrekking hebben op de gesubsidieerde activiteiten en stuurt exemplaren van drukwerk dat betrekking heeft op de gesubsidieerde activiteiten aan het Fonds Podiumkunsten. Daarnaast levert de subsidieontvanger minstens twee rechtenvrije foto’s aan, die het Fonds Podiumkunsten met naamsvermelding mag gebruiken in zijn communicatie-uitingen.
 
-3. De subsidieontvanger in categorie III dient aan te tonen dat de solvabiliteit minimaal hoger is dan 0,50 op 31 december in de jaren 2024, 2025, 2026, 2027 en 2028. Hiertoe dienen gedurende de subsidieperiode 2025–2028 ieder jaar de jaarrekeningen van de organisatie aan het Fonds Podiumkunsten te worden gestuurd.
+3. De subsidieontvanger in categorie III dient aan te tonen dat de solvabiliteit minimaal hoger is dan 0,50 op 31 december in de jaren 2024, 2025, 2026, 2027 en 2028. Hiertoe dienen gedurende de subsidieperiode 2025–2028 ieder jaar de jaarrekeningen van de organisatie aan het Fonds Podiumkunsten te worden gestuurd.
 
 4. Het bestuur kan bij beschikking andere dan de in het eerste tot en met het derde lid opgenomen verplichtingen aan het subsidie verbinden.
 
 ##### Artikel 4.2. Verantwoording
 
-1. De subsidieontvanger stuurt jaarlijks voor 1 mei een inhoudelijke en financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
+1. De subsidieontvanger stuurt jaarlijks voor 1 mei een inhoudelijke en financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
 2. De inhoudelijke verantwoording bestaat uit een verslag over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
 3. De financiële verantwoording sluit aan op de ingediende begroting.
 
-4. De financiële verantwoording van aanvragers die een subsidie van minstens € 160.001 per jaar ontvangen, dient vergezeld te gaan van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
+4. De financiële verantwoording van aanvragers die een subsidie van minstens € 160.001 per jaar ontvangen, dient vergezeld te gaan van een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het bestuur vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
 
 5. Voor het bepalen van het toepasselijke verantwoordingsregime geldt als peildatum de datum waarop het besluit op de aanvraag is genomen.
 
@@ -298,7 +272,7 @@ Deze bedragen zijn per jaar op basis van prijspeil 2023 en kunnen worden geïnde
 
 ##### Artikel 4.3. Vaststelling subsidie
 
-Het bestuur stelt binnen 22 weken na de laatste verantwoordingstermijn van de subsidieperiode als bedoeld in [artikel 4.2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=4&artikel=4.2&z=2023-10-17&g=2023-10-17) van de regeling, de subsidie vast op basis van de inhoudelijke en financiële verantwoordingen van de gerealiseerde activiteiten over de respectievelijke jaren.
+Het bestuur stelt binnen 22 weken na de laatste verantwoordingstermijn van de subsidieperiode als bedoeld in [artikel 4.2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048742&paragraaf=4&artikel=4.2&z=2023-10-17&g=2023-10-17) van de regeling, de subsidie vast op basis van de inhoudelijke en financiële verantwoordingen van de gerealiseerde activiteiten over de respectievelijke jaren.
 
 ##### Artikel 4.4. Reserveringen
 
@@ -319,7 +293,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling meerjarige productiesubsidies Fonds Podiumkunsten 2025–2028.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
-
-**Vastgesteld in de vergadering van de Raad van Bestuur d.d. 11 oktober 2023**

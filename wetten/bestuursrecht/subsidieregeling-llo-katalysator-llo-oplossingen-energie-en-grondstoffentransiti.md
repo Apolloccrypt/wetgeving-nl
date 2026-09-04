@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende regels voor de subsidieverstrekking ten behoeve van het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 (Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
+citeertitel: "Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
 identifier: "BWBR0048365"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-12"
-last_updated: "2025-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048365"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16794213"
-version_id: "29503142"
-internal_id: "C42185491"
-label_id: "16709374"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048365/2025-07-12/0"
-intitule_bron: "Stcrt.2023-19046"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-27"
-intitule_published: "2023-07-07"
-intitule_in_force: "2023-07-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-19046"
-original_signed_date: "2023-06-27"
-original_published_date: "2023-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-19046"
-entry_into_force_date: "2023-07-07"
-jci_1_3: "jci1.3:c:BWBR0048365&z=2025-07-12&g=2025-07-12"
-jci_1_0: "1.0:c:BWBR0048365&g=2025-07-12"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026)"
-signed_date: "2023-06-27"
-entry_into_force: "2023-07-07"
+publicatiedatum: 2023-07-07
+laatste_update: 2025-07-12
+status: geldig
+toestand: 2025-07-12
+bron: "https://wetten.overheid.nl/BWBR0048365"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 27 juni 2023, nr. 1409103, houdende regels voor de subsidieverstrekking ten behoeve van het Leven Lang Ontwikkelen-Katalysator programma voor Bouwsteen 2 (Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -46,45 +20,45 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **arbeidsorganisatie:** publieke of private werkgever die binnen een samenwerkingsverband de aanleiding vormt voor het ontwerpen en het ontwikkelen van een LLO-oplossing niet zijnde een publieke opleider;
+- *arbeidsorganisatie:* publieke of private werkgever die binnen een samenwerkingsverband de aanleiding vormt voor het ontwerpen en het ontwikkelen van een LLO-oplossing niet zijnde een publieke opleider;
 
-- **beoordelingscommissie:** commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2025-07-12&g=2025-07-12);
+- *beoordelingscommissie:* commissie als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2025-07-12&g=2025-07-12);
 
-- **cofinanciering:** cofinanciering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=17&z=2025-07-12&g=2025-07-12);
+- *cofinanciering:* cofinanciering als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=3&artikel=17&z=2025-07-12&g=2025-07-12);
 
-- **co-makerschap:** vorm van partnerschap waarin de samenwerking dusdanig is dat alle deelnemers invloed hebben op en bijdragen aan het ontwikkelproces van een LLO-oplossing en een aantoonbaar belang hebben bij het resultaat van de samenwerking;
+- *co-makerschap:* vorm van partnerschap waarin de samenwerking dusdanig is dat alle deelnemers invloed hebben op en bijdragen aan het ontwikkelproces van een LLO-oplossing en een aantoonbaar belang hebben bij het resultaat van de samenwerking;
 
-- **competentieknelpunt:** belemmering in de ontwikkeling of beschikbaarheid van menselijk kapitaal op de arbeidsmarkt doordat de benodigde competenties of vaardigheden ontbreken of niet beschikbaar zijn, onvoldoende ontwikkeld zijn of onvoldoende erkend worden;
+- *competentieknelpunt:* belemmering in de ontwikkeling of beschikbaarheid van menselijk kapitaal op de arbeidsmarkt doordat de benodigde competenties of vaardigheden ontbreken of niet beschikbaar zijn, onvoldoende ontwikkeld zijn of onvoldoende erkend worden;
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- **energie- en grondstoffentransitie:** overgang van het gebruik van fossiele energie naar energie uit hernieuwbare bronnen en de overgang van een lineaire economie naar een circulaire economie waarin geen verspilling bestaat;
+- *energie- en grondstoffentransitie:* overgang van het gebruik van fossiele energie naar energie uit hernieuwbare bronnen en de overgang van een lineaire economie naar een circulaire economie waarin geen verspilling bestaat;
 
-- **groot project:** project als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
+- *groot project:* project als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
-- **klein project:** project als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
+- *klein project:* project als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
-- **LLO:** Leven Lang Ontwikkelen;
+- *LLO:* Leven Lang Ontwikkelen;
 
-- **LLO-ecosysteem:** samenhangend geheel van interacterende partijen als overheid, brancheverenigingen, vakbonden, opleiders en uitvoerders binnen de context van een (arbeidsmarkt)regio of sector dat gericht is op het stimuleren van leren en ontwikkelen van werkenden, werkzoekenden en organisaties en bijdraagt aan een sterke leercultuur en leerinfrastructuur;
+- *LLO-ecosysteem:* samenhangend geheel van interacterende partijen als overheid, brancheverenigingen, vakbonden, opleiders en uitvoerders binnen de context van een (arbeidsmarkt)regio of sector dat gericht is op het stimuleren van leren en ontwikkelen van werkenden, werkzoekenden en organisaties en bijdraagt aan een sterke leercultuur en leerinfrastructuur;
 
-- **LLO-oplossing:** op grond van deze regeling gesubsidieerde leer- of ontwikkelactiviteit of reeks van activiteiten gericht op het oplossen van een competentieknelpunt van werkenden, werkzoekenden en werkgevers binnen de context van een (arbeidsmarkt)regio of sector;
+- *LLO-oplossing:* op grond van deze regeling gesubsidieerde leer- of ontwikkelactiviteit of reeks van activiteiten gericht op het oplossen van een competentieknelpunt van werkenden, werkzoekenden en werkgevers binnen de context van een (arbeidsmarkt)regio of sector;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **model:** beschrijving van het eindproduct van de LLO-oplossing waaruit in elk geval blijkt welk competentieknelpunt het eindproduct oplost, op welke doelgroep het is gericht en hoe de LLO-oplossing uitvoerbaar, kostendekkend en schaalbaar in de praktijk gebracht kan worden;
+- *model:* beschrijving van het eindproduct van de LLO-oplossing waaruit in elk geval blijkt welk competentieknelpunt het eindproduct oplost, op welke doelgroep het is gericht en hoe de LLO-oplossing uitvoerbaar, kostendekkend en schaalbaar in de praktijk gebracht kan worden;
 
-- **penvoerder:** penvoerder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
+- *penvoerder:* penvoerder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=3&z=2025-07-12&g=2025-07-12);
 
-- **project:** in het kader van deze subsidieregeling ontplooide activiteiten van een samenwerkingsverband om te komen tot een LLO-oplossing;
+- *project:* in het kader van deze subsidieregeling ontplooide activiteiten van een samenwerkingsverband om te komen tot een LLO-oplossing;
 
-- **publieke opleider:** instelling als bedoeld in [artikel 1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) of [1.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.2) of instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
+- *publieke opleider:* instelling als bedoeld in [artikel 1.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) of [1.3.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.2) of instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.8);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=4&z=2025-07-12&g=2025-07-12);
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=4&z=2025-07-12&g=2025-07-12);
 
-- **testen:** in de praktijk testen van een conceptversie van een LLO-oplossing of een onderdeel daarvan door de deelnemers aan een samenwerkingsverband, met het doel de LLO-oplossing door te ontwikkelen tot een eindproduct;
+- *testen:* in de praktijk testen van een conceptversie van een LLO-oplossing of een onderdeel daarvan door de deelnemers aan een samenwerkingsverband, met het doel de LLO-oplossing door te ontwikkelen tot een eindproduct;
 
-- **vraagarticulatie:** voortdurend proces van afstemming tussen arbeidsorganisaties en opleiders binnen een samenwerkingsverband om een leer- en ontwikkelvraagstuk in de huidige of toekomstige praktijk te signaleren, te verkennen en te doorgronden, waarbij het resultaat van dit proces de basis vormt voor het ontwerpen en ontwikkelen van een LLO-oplossing en waarbij de hierbij opgedane inzichten kunnen leiden tot nieuwe vragen.
+- *vraagarticulatie:* voortdurend proces van afstemming tussen arbeidsorganisaties en opleiders binnen een samenwerkingsverband om een leer- en ontwikkelvraagstuk in de huidige of toekomstige praktijk te signaleren, te verkennen en te doorgronden, waarbij het resultaat van dit proces de basis vormt voor het ontwerpen en ontwikkelen van een LLO-oplossing en waarbij de hierbij opgedane inzichten kunnen leiden tot nieuwe vragen.
 
 ##### Artikel 2. Toepasselijke regelgeving
 
@@ -94,11 +68,11 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. De minister kan op grond van deze regeling subsidie verstrekken aan de penvoerder van een samenwerkingsverband voor een klein of groot project gericht op het ontwikkelen van een LLO-oplossing in het kader van de energie- en grondstoffentransitie.
 
-2. Voor een klein project bedraagt de subsidie ten minste € 50.000, maar minder dan € 125.000.
+2. Voor een klein project bedraagt de subsidie ten minste € 50.000, maar minder dan € 125.000.
 
-3. Voor een groot project bedraagt de subsidie ten minste € 125.000 en ten hoogste € 2.000.000.
+3. Voor een groot project bedraagt de subsidie ten minste € 125.000 en ten hoogste € 2.000.000.
 
-4. Subsidieaanvragen die betrekking hebben op een bedrag van minder dan € 50.000,– of meer dan € 2.000.000,– worden afgewezen.
+4. Subsidieaanvragen die betrekking hebben op een bedrag van minder dan € 50.000,– of meer dan € 2.000.000,– worden afgewezen.
 
 5. Een subsidieaanvraag kan uitsluitend worden ingediend door een publieke opleider die deelneemt aan een samenwerkingsverband, en die namens dat samenwerkingsverband als penvoerder optreedt.
 
@@ -110,49 +84,49 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. een instelling als bedoeld in [artikel 1.3.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.3.1) die op grond van [artikel 2.1.3 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.3) in aanmerking voor bekostiging is gebracht; of
 
-- b. een hogeschool als bedoeld in de onderdelen c en g van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend); of
+- b. een hogeschool als bedoeld in de onderdelen c en g van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682); of
 
-- c. een universiteit als bedoeld in de onderdelen a, b, h, i en j van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend).
+- c. een universiteit als bedoeld in de onderdelen a, b, h, i en j van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682).
 
 2. Naast publieke opleiders en arbeidsorganisaties kunnen ook andere partijen zoals private opleiders aan het samenwerkingsverband deelnemen.
 
 ##### Artikel 5. Subsidieplafond
 
-1. Voor subsidieverstrekking op aanvragen die in de eerste aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 17.500.000 beschikbaar, waarvan:
+1. Voor subsidieverstrekking op aanvragen die in de eerste aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 17.500.000 beschikbaar, waarvan:
 
-- a. € 2.250.000 beschikbaar is voor kleine projecten; en
+- a. € 2.250.000 beschikbaar is voor kleine projecten; en
 
-- b. € 15.250.000 beschikbaar is voor grote projecten.
+- b. € 15.250.000 beschikbaar is voor grote projecten.
 
-2. Voor subsidieverstrekking op aanvragen die in de tweede aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 20.500.000 beschikbaar, waarvan:
+2. Voor subsidieverstrekking op aanvragen die in de tweede aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 20.500.000 beschikbaar, waarvan:
 
-- a. € 1.000.000 beschikbaar is voor kleine projecten; en
+- a. € 1.000.000 beschikbaar is voor kleine projecten; en
 
-- b. € 19.500.000 beschikbaar is voor grote projecten.
+- b. € 19.500.000 beschikbaar is voor grote projecten.
 
-3. Voor subsidieverstrekking op aanvragen die in de derde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 26.250.000 beschikbaar, waarvan:
+3. Voor subsidieverstrekking op aanvragen die in de derde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 26.250.000 beschikbaar, waarvan:
 
-- a. € 1.250.000 beschikbaar is voor kleine projecten; en
+- a. € 1.250.000 beschikbaar is voor kleine projecten; en
 
-- b. € 25.000.000 beschikbaar is voor grote projecten.
+- b. € 25.000.000 beschikbaar is voor grote projecten.
 
-4. Voor subsidieverstrekking op aanvragen die in de vierde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 5.450.257,00 beschikbaar, waarvan:
+4. Voor subsidieverstrekking op aanvragen die in de vierde aanvraagronde, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=1&artikel=6&z=2025-07-12&g=2025-07-12), zijn ingediend, is een bedrag van € 5.450.257,00 beschikbaar, waarvan:
 
-- a. € 375.000 beschikbaar is voor kleine projecten; en
+- a. € 375.000 beschikbaar is voor kleine projecten; en
 
-- b. € 5.075.257 beschikbaar is voor grote projecten.
+- b. € 5.075.257 beschikbaar is voor grote projecten.
 
 ##### Artikel 6. Algemene bepalingen subsidieaanvraag
 
 1. Op grond van deze regeling kan subsidie worden aangevraagd:
 
-- a. van 2 oktober 2023 tot en met 16 oktober 2023;
+- a. van 2 oktober 2023 tot en met 16 oktober 2023;
 
-- b. van 1 april 2024 tot en met 15 april 2024;
+- b. van 1 april 2024 tot en met 15 april 2024;
 
-- c. van 18 november tot en met 2 december 2024;
+- c. van 18 november tot en met 2 december 2024;
 
-- d. van 15 september tot en met 22 september 2025.
+- d. van 15 september tot en met 22 september 2025.
 
 2. Aanvragen die buiten een in het eerste lid bedoelde aanvraagperiode worden ingediend, worden afgewezen.
 
@@ -222,13 +196,13 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 2. Voor de begroting kan worden gekozen uit vier functies met een vast integraal uurtarief inclusief opslag voor overhead en administratie:
 
-- a. secretarieel of administratief medewerker € 63;
+- a. secretarieel of administratief medewerker € 63;
 
-- b. projectmedewerker € 86;
+- b. projectmedewerker € 86;
 
-- c. projectleider, docent of onderzoeker € 108;
+- c. projectleider, docent of onderzoeker € 108;
 
-- d. (associate) practor, lector, of hoogleraar € 127.
+- d. (associate) practor, lector, of hoogleraar € 127.
 
 3. De begroting wordt aangeleverd in het hiervoor door DUS-I beschikbaar gestelde format.
 
@@ -378,13 +352,13 @@ In voorkomend geval in aanvulling op [artikel 3.4 van de Kaderregeling](https://
 
 3. Voor de begroting kan worden gekozen uit vier functies met een vast integraal uurtarief inclusief opslag voor overhead en administratie:
 
-- a. secretarieel of administratief medewerker € 63;
+- a. secretarieel of administratief medewerker € 63;
 
-- b. projectmedewerker € 86;
+- b. projectmedewerker € 86;
 
-- c. projectleider, docent of onderzoeker € 108;
+- c. projectleider, docent of onderzoeker € 108;
 
-- d. (associate) practor, lector, of hoogleraar € 127.
+- d. (associate) practor, lector, of hoogleraar € 127.
 
 4. De begroting wordt aangeleverd in het hiervoor door DUS-I beschikbaar gestelde format.
 
@@ -510,28 +484,10 @@ Aan de penvoerder die subsidie ontvangt voor een groot project, worden de volgen
 
 ##### Artikel 28. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 7 juli 2023.
+1. Deze regeling treedt in werking met ingang van 7 juli 2023.
 
-2. Deze regeling vervalt met ingang van 31 december 2026, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
+2. Deze regeling vervalt met ingang van 31 december 2026, met dien verstande dat zij van toepassing blijft ten aanzien van subsidies die op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als Subsidieregeling LLO-Katalysator (LLO-oplossingen energie- en grondstoffentransitie 2023–2026).
-
-## Bijlage 1. Beoordelingskader
-
-Deze bijlage behoort bij [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048365&paragraaf=4&artikel=26&z=2025-07-12&g=2025-07-12), van de Subsidieregeling LLO-oplossingen energie- en grondstoffentransitie 2023–2026
-
-| Criterium | Minimumvereisten |
-| --- | --- |
-| **Impact (10-punts schaal)** Er is duidelijk onderbouwd: • op welke regio of sector het samenwerkingsverband zich richt; • wat hierbinnen de competentieknelpunten op de arbeidsmarkt zijn in het kader van de energie- en grondstoffentransitie; • wat de ambities zijn van het samenwerkingsverband met het project qua bereik voor werkenden, werkzoekenden en werkgevers en andere stakeholders; • wat de beoogde bijdrage is aan de energie- en grondstoffentransitie. **Weging 30%** | Uit het visiedocument blijkt voor de vraagarticulatie en het ontwerp van een LLO-oplossing: • op welke regio/sector en competentieknelpunten het project is gericht; • wat de relevante partijen binnen de regio of sector zijn waar de aanvrager zich op richt; • wat de regionale of sectorale human capital agenda is in zoverre deze beschikbaar is; • welk doel de gezamenlijke vraagarticulatie heeft; • waarom de gezamenlijke vraagarticulatie, vertaald in een ontwerp LLO-oplossing, nodig is en wat het oplevert. Uit het visiedocument blijkt voor het testen en ontwikkelen van een LLO-oplossing: • op welke regio/sector en competentieknelpunten het project zich richt; • wat de relevante partijen binnen de regio of sector zijn waar de aanvrager zich op richt; • wat de regionale of sectorale human capital agenda is in zoverre deze beschikbaar is; • welk doel het ontwikkelen en testen heeft; • waarom het ontwikkelen en testen van de LLO-oplossing nodig is; • wat de beoogde LLO-oplossing is en wat het bereik is voor werkenden, werkzoekenden en werkgevers. |
-| **Kwaliteit (10-puntsschaal**) **Samenwerking** a) Er is sprake van co-makerschap en een gedragen samenwerking met relevante actoren, bij voorkeur ook met private opleiders. **Inhoud** b) Er wordt beschreven hoe de gezamenlijke vraagarticulatie, het ontwerpen of het testen van een LLO-oplossing tot stand komt, uitgewerkt in een activiteitenplan. **Projectorganisatie** c) Er is inzichtelijk gemaakt hoe het project georganiseerd gaat worden, waardoor een succesvolle uitvoering mogelijk is. **Begroting** d) De begroting bevat een overzicht van de kosten van de activiteiten, voorzien van een toelichting. **Weging 60%** | Uit het visiedocument en de samenwerkingsovereenkomst blijkt: • de kwaliteit van het samenwerkingsverband blijkend uit de betrokken organisaties (publieke opleiders mbo, hbo en wo, private opleiders, werkgevers en andere regionale of sectorale partijen) wordt samengewerkt en waarom; • wat elke partij in het samenwerkingsverband in het kader van co-makerschap inhoudelijk, organisatorisch of financieel bijdraagt aan het project; Uit het activiteitenplan blijkt: • wat het project inhoudt en wat de doelstellingen zijn in relatie tot het visiedocument; • welke resultaten het project concreet oplevert; • welke activiteiten in samenhang worden ondernomen om het gewenste resultaat te behalen, vormgegeven in een activiteitenplanning (wie doet wat wanneer) waardoor het aannemelijk is dat de projectdoelen behaald gaan worden; • wat de projectorganisatie- en overlegstructuur is en hoe die wordt ingevuld, passend bij de omvang van het project. Uit de begroting blijkt: • welke kosten door wie worden gemaakt tegen welke bijdrage. Waarbij kostenefficiëntie en effectiviteit van de ingezette middelen belangrijk is; • dat de juiste functies en uurtarieven opgenomen zijn. |
-| **Verankering (10-puntsschaal)** Er is duidelijk onderbouwd: • hoe het samenwerkingsverband wil bijdragen aan het oplossen van de competentieknelpunten in het kader van de energie- en grondstoffentransitie; • hoe het LLO-ecosysteem versterkt wordt door dit project; • hoe de activiteiten en resultaten verduurzaamd worden na afloop van het project. **Weging 10%** | Uit het visiedocument, activiteitenplan en samenwerkingsovereenkomst blijkt: • welke afspraken zijn gemaakt over de verduurzaming en verankering van de activiteiten en resultaten van het project na afloop en de voortzetting van de samenwerking; • wat het potentiële bereik is van het project of de LLO-oplossing qua werkenden, werknemers en werkgevers; • een toelichting op de bijdrage van het project aan het oplossen van competentieknelpunten in het kader van de energie- en grondstoffentransitie; • een toelichting op de wijze waarmee dit project bijdraagt aan het versterken van het LLO-ecosysteem. |
-
-| Criterium | Minimumvereisten |
-| --- | --- |
-| **Impact (10-puntsschaal)** Er is duidelijk onderbouwd: • op welke regio of sector het samenwerkingsverband zich richt met een overzicht van de relevante partijen die daarbinnen actief zijn; • wat hierbinnen de competentieknelpunten op de arbeidsmarkt zijn in het kader van de energie- en grondstoffentransitie; • dat de beoogde LLO-oplossing nog niet voorhanden is blijkend uit de analyse van het relevante LLO aanbod; • wat de ambities zijn van het samenwerkingsverband met het project qua bereik voor werkenden, werkzoekenden en werkgevers en andere stakeholders; • wat de beoogde bijdrage is aan de energie- en grondstoffentransitie. **Weging 30%** | Uit het visiedocument blijkt: • op welke regio of sector en op welke competentieknelpunten het project zich richt en waarom juist hiervoor is gekozen; • wat de relevante partijen binnen de regio of sector zijn waar de aanvrager zich op richt; • wat de regionale of sectorale human capital agenda is in zoverre deze beschikbaar is; • wat de beoogde LLO-oplossing is van het samenwerkingsverband en hoe dit aansluit op de regionale/sectorale agenda’s van de regio of sector en aansluit bij de vraag van arbeidsorganisaties; • een analyse waaruit blijkt in welke mate het huidige LLO aanbod de vraag dekt die voortkomt uit de beschreven competentieknelpunten waardoor de beoogde LLO-oplossing een toevoeging is; • wat de ambities zijn qua bereik van de LLO-oplossing voor werkenden, werkzoekenden en werkgevers. |
-| **Kwaliteit (10-puntsschaal)** **Samenwerking** a) Er is sprake van co-makerschap en een gedragen samenwerking met relevante actoren, bij voorkeur ook met private opleiders. **Inhoud** b) Er is inzichtelijk gemaakt hoe de concrete uitwerking van het project eruit gaat zien, welke stappen in het ontwikkelproces doorlopen worden en hoe de beoogde LLO-oplossing aansluit bij het oplossen van competentieknelpunten in het kader van de energie- en grondstoffentransitie. **Projectorganisatie** c) Er is inzichtelijk gemaakt hoe het project georganiseerd gaat worden, waardoor een succesvolle uitvoering mogelijk is. **Begroting** f) De begroting bevat een overzicht van de kosten van de activiteiten, de gerealiseerde cofinanciering en is voorzien van een toelichting. **Weging 60%** | Uit het visiedocument en de samenwerkingsovereenkomst blijkt: • de kwaliteit van het samenwerkingsverband blijkend uit de betrokken organisaties (publieke opleiders mbo, hbo en wo, private opleiders, werkgevers en andere regionale of sectorale partijen) wordt samengewerkt en waarom; • wat elke partij in het samenwerkingsverband in het kader van co-makerschap inhoudelijk, organisatorisch of financieel bijdraagt aan het project; • dat het samenwerkingsverband een open netwerk is waar geïnteresseerde partijen in de regio of sector zich onder transparante en redelijke voorwaarden bij kunnen aansluiten; • wat de financiële of bestuurlijke afspraken zijn die gemaakt zijn over verduurzaming van de activiteiten en de samenwerking na afloop van het project; • wat het draagvlak is voor het project onder deelnemers in het samenwerkingsverband. Uit het activiteitenplan blijkt: • wat het project inhoudt en wat de doelstellingen zijn in relatie tot het visiedocument; • welke activiteiten in samenhang worden ondernomen om het gewenste resultaat te behalen, vormgegeven in een activiteitenplanning (wie doet wat wanneer) waardoor het aannemelijk is dat de projectdoelen behaald gaan worden; • wat de organisatie- en overlegstructuur is en hoe die wordt ingevuld; • op welke doelgroepen de beoogde LLO-oplossing zich richt en hoe met de aanpak wordt aangesloten bij de behoeften van deze doelgroepen; • de wijze waarop het testen van een conceptversie van het eindproduct wordt vormgegeven en hoe dit proportioneel en in verhouding is tot het beoogde resultaat; • de wijze waarop individuele resultaten van deelnemers inzichtelijk worden gemaakt (bijv. via mbo-certificaten of microcredentials); • hoe het project invulling geeft aan een lerende aanpak; • wat de risico’s en bijbehorende beheersmaatregelen zijn tijdens de uitvoering van het project; • er is beschreven hoe het model van de beoogde LLO-oplossing tot stand gaat komen. Uit de begroting blijkt: • welke kosten door wie worden gemaakt tegen welke bijdrage. Waarbij kostenefficiëntie en effectiviteit van de ingezette middelen belangrijk is; • welke cofinanciering is gerealiseerd, over welke fase of activiteiten en door welke partijen. Er is aangegeven waaruit die cofinanciering bestaat, geld of bijdrage in natura. Waarbij geldt dat een gelijkmatigere verdeling van de cofinanciering in alle stappen van het ontwikkelproces een hogere score oplevert; • de juiste functies en uurtarieven zijn gevolgd. |
-| **Verankering (10-puntsschaal)** Er is duidelijk onderbouwd: • hoe het samenwerkingsverband wil bijdragen aan het oplossen van de competentieknelpunten in het kader van de energie- en grondstoffentransitie; • hoe het LLO-ecosysteem versterkt wordt door dit project; • hoe de activiteiten en resultaten verduurzaamd worden na afloop van het project; • hoe de ambities qua bereik van werkenden, werkzoekenden en werkgevers behaald gaan worden. **Weging 10%** | Uit het visiedocument, activiteitenplan en samenwerkingsovereenkomst blijkt: • welke afspraken zijn gemaakt over de verduurzaming en verankering van de activiteiten en resultaten van het project na afloop en de voortzetting van de samenwerking; • wat het bereik is van de LLO-oplossing qua werkenden, werknemers en werkgevers en hoe deze ambities gerealiseerd gaan worden; • een toelichting op de bijdrage van het project aan het oplossen van competentieknelpunten in het kader van de energie- en grondstoffentransitie; • een toelichting op de wijze waarmee dit project bijdraagt aan het versterken van het LLO-ecosysteem; • hoe het samenwerkingsverband kennisdeling faciliteert waardoor ontwikkelde methodieken gebruikt kunnen worden door andere organisaties dan het oorspronkelijke samenwerkingsverband gedurende en na afloop van het project. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

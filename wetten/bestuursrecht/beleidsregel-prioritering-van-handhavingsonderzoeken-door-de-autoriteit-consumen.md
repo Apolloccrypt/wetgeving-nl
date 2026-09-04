@@ -1,43 +1,21 @@
 ---
 title: "Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023"
 identifier: "BWBR0048190"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-05-26"
-last_updated: "2023-05-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048190"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16752343"
-version_id: "29419492"
-internal_id: "C42065321"
-label_id: "16668324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048190/2023-05-26/0"
-intitule_bron: "Stcrt.2023-15184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-22"
-intitule_published: "2023-05-25"
-intitule_in_force: "2023-05-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-15184"
-original_signed_date: "2023-05-22"
-original_published_date: "2023-05-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-15184"
-entry_into_force_date: "2023-05-26"
-jci_1_3: "jci1.3:c:BWBR0048190&z=2023-05-26&g=2023-05-26"
-jci_1_0: "1.0:c:BWBR0048190&g=2023-05-26"
-citeertitel_status: "officieel"
-signed_date: "2023-05-22"
-entry_into_force: "2023-05-26"
+publicatiedatum: 2023-05-26
+laatste_update: 2023-05-26
+status: geldig
+toestand: 2023-05-26
+bron: "https://wetten.overheid.nl/BWBR0048190"
+opgehaald: 2026-09-04
 ---
+
 # Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023
 
 ### 1. Inleiding
 
-De missie van de ACM is om markten goed te laten werken voor mensen en bedrijven, nu en in de toekomst. In goedwerkende markten concurreren bedrijven eerlijk met elkaar en benadelen zij niemand met misleidende of agressieve praktijken of door misbruik van marktmacht. Concurrentie is daarbij een economisch proces dat het bereiken van bepaalde maatschappelijke doelen bevordert. Het is voor de ACM geen doel op zich, maar een middel om een gezonde economie en welvaart in brede zin te bevorderen en bij te dragen aan het vertrouwen in een overheid die mensen en bedrijven beschermt tegen het falen van markten. De focus van de werkzaamheden van de ACM als markttoezichthouder is dan ook niet gericht op het bevorderen van marktwerking **per se**, maar vooral op het voorkomen en bestrijden van marktfalen, binnen de regels die door de overheid voor de markten zijn gesteld.
+De missie van de ACM is om markten goed te laten werken voor mensen en bedrijven, nu en in de toekomst. In goedwerkende markten concurreren bedrijven eerlijk met elkaar en benadelen zij niemand met misleidende of agressieve praktijken of door misbruik van marktmacht. Concurrentie is daarbij een economisch proces dat het bereiken van bepaalde maatschappelijke doelen bevordert. Het is voor de ACM geen doel op zich, maar een middel om een gezonde economie en welvaart in brede zin te bevorderen en bij te dragen aan het vertrouwen in een overheid die mensen en bedrijven beschermt tegen het falen van markten. De focus van de werkzaamheden van de ACM als markttoezichthouder is dan ook niet gericht op het bevorderen van marktwerking *per se*, maar vooral op het voorkomen en bestrijden van marktfalen, binnen de regels die door de overheid voor de markten zijn gesteld.
 
 De ACM houdt toezicht op de naleving van een groot aantal wetten op het gebied van consumentenbescherming, energie, mededinging, post, telecommunicatie en vervoer. De ACM beschikt bij de uitvoering van deze taak over ruimte om te kiezen welke handhavingsonderzoeken wanneer worden opgestart. De ACM ontvangt meer verzoeken om handhaving en signalen over mogelijke overtredingen dan zij gelet op haar onderzoekscapaciteit in onderzoek kan nemen. Daarom moet de ACM prioriteiten stellen. Dit doet de ACM in het licht van haar missie op basis van haar prioriteringsbeleid. Dit beleid vormt een houvast op basis waarvan prioriteiten worden aangebracht in de keuze van handhavingsonderzoeken. Het prioriteringsbeleid maakt inzichtelijk waarom de ACM in het ene geval wel en in het andere geval geen handhavingsonderzoek uitvoert.
 
@@ -55,9 +33,17 @@ Het prioriteringsbeleid van de ACM gaat alleen over de vraag of de ACM een handh
 
 In haar prioriteringsbeleid hanteert de ACM drie algemene criteria op basis waarvan zij verzoeken om handhaving of signalen over mogelijke overtredingen beoordeelt:
 
+- • hoe schadelijk is het gedrag waarop het verzoek of het signaal ziet voor het goed werken van markten en het vertrouwen daarin van mensen en bedrijven,
+
+- • hoe groot is het maatschappelijk belang bij het optreden van de ACM en
+
+- • in hoeverre is de ACM in staat doeltreffend en doelmatig op te treden.
+
 Hieronder worden deze drie criteria nader toegelicht.
 
 ### 5. Initieel inventariserend onderzoek
+
+Schade aan goed werken van markten
 
 In haar initieel inventariserend onderzoek vraagt de ACM zich af of, en zo ja hoezeer, de mogelijke overtreding schadelijk is voor het goed werken van markten voor mensen en bedrijven, op korte en langere termijn.
 
@@ -67,7 +53,11 @@ In het kader van haar prioriteringsbeleid kijkt de ACM in het initieel onderzoek
 
 Tot slot is de beoordeling van schadelijkheid niet beperkt tot ‘gemiddelde’ of ‘representatieve’ deelnemers aan markten. De ACM kan een handhavingsonderzoek ook prioriteren vanwege de relatief grote impact die haar optreden kan hebben op een in omvang beperkte groep, zoals mensen en bedrijven in kwetsbare of afhankelijke posities. Juist ook zij moeten erop kunnen vertrouwen dat markten goed voor hen werken.
 
+Maatschappelijk belang
+
 Om zicht te krijgen op de relevantie voor de maatschappij van een handhavingsonderzoek, gaat de ACM bij het initieel inventariserend onderzoek na welke verschillende publieke belangen betrokken zijn. Goed werkende markten, een optimale regulering van wettelijke dan wel natuurlijke monopolies en consumentenbescherming zijn publieke belangen waarvan de wetgever heeft bepaald dat de ACM die behartigt. Ook andere publieke belangen kunnen in ogenschouw worden genomen bij de overweging om wel of niet een handhavingsonderzoek te starten. Het kan dan bijvoorbeeld gaan om het belang van duurzaamheid, economische weerbaarheid, kwaliteit van zorg, privacy of veiligheid. Dit betekent niet dat de ACM een handhavingsonderzoek richt op een domein dat niet onder haar bevoegdheid valt, maar wel dat de ACM in haar prioriteringsbeleid ook andere publieke belangen kan meewegen in de keuze al dan niet een handhavingsonderzoek te starten. Zo kan de ACM besluiten om een mogelijke overtreding met het oog op bepaalde publieke belangen toch niet te prioriteren. Of de ACM kan besluiten om juist wel een onderzoek te starten, omdat daarmee naast de publieke belangen die de ACM bij wet behartigt ook andere publieke belangen worden bevorderd. Bij deze afweging kijkt de ACM ook of de mogelijke overtreding binnen een van de strategische doelstellingen uit de ACM-Agenda valt.
+
+Doeltreffendheid en doelmatigheid
 
 Tot slot hecht de ACM eraan dat haar optreden doeltreffend en doelmatig is. Bij doeltreffendheid gaat het om de inschatting of met de inzet van een geschikt handhavingsinstrument binnen een gewenste termijn een gewenste situatie kan worden bereikt of in voldoende mate benaderd. Bij doelmatigheid gaat het om een kosten-batenanalyse: of de uitvoering van het handhavingsonderzoek mogelijk is met de beschikbare menskracht en de toegekende financiële middelen, afgezet tegen de huidige of andere voorgenomen werkzaamheden van de ACM die eveneens een beslag leggen op menskracht en middelen. Daarnaast kunnen synergievoordelen met bijvoorbeeld al lopende trajecten onder een strategische doelstelling van de ACM reden zijn een onderzoek te prioriteren. Gelet op het grote aantal wetten waarvan de naleving aan het toezicht van de ACM is onderworpen, zal de ACM bovendien trachten volledige handhavingsonderzoeken evenwichtig te verdelen over de gebieden.
 
@@ -81,8 +71,8 @@ Het prioriteringsbeleid is geen optelsom. De ACM beziet en weegt het belang van 
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-Met inwerkingtreding van deze beleidsregel wordt de Beleidsregel [Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0037737) van 18 maart 2016 (Stcrt. 2016, 14564) ingetrokken.
+Met inwerkingtreding van deze beleidsregel wordt de Beleidsregel [Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0037737) van 18 maart 2016 (Stcrt. 2016, 14564) ingetrokken.
 
-Lopende bezwaarprocedures op tijdstip van inwerkingtreding van deze beleidsregel worden afgehandeld overeenkomstig de Beleidsregel [Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0037737) van 18 maart 2016 (Stcrt. 2016, 14564).
+Lopende bezwaarprocedures op tijdstip van inwerkingtreding van deze beleidsregel worden afgehandeld overeenkomstig de Beleidsregel [Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0037737) van 18 maart 2016 (Stcrt. 2016, 14564).
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023.

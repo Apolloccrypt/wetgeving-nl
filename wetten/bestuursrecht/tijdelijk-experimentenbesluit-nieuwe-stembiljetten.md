@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 30 oktober 2023, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijk experimentenbesluit nieuwe stembiljetten)"
+citeertitel: "Tijdelijk experimentenbesluit nieuwe stembiljetten"
 identifier: "BWBR0048850"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048850"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16907093"
-version_id: "29712892"
-internal_id: "C42575231"
-label_id: "16818774"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048850/2024-01-01/0"
-intitule_bron: "Stb.2023-384"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-30"
-intitule_published: "2023-11-06"
-intitule_in_force: "2023-11-06"
-intitule_status: "goed"
-original_publication: "Stb.2023-384"
-original_signed_date: "2023-10-30"
-original_published_date: "2023-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-384"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048850&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0048850&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk experimentenbesluit nieuwe stembiljetten"
-signed_date: "2023-10-30"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0048850"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 30 oktober 2023, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijk experimentenbesluit nieuwe stembiljetten)
-
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 juli 2023, nr. 2023-0000360559;
-
-Gelet op [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&artikel=3), [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&artikel=4), en [artikel 16 van de Tijdelijke experimentenwet nieuwe stembiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&artikel=16);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 14 september 2023, nr. W04.23.00209/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2023, nr. 2023-0000592650;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,7 +20,8 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **Experimentenwet:** [Tijdelijke experimentenwet nieuwe stembiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0047212);
+- *Experimentenwet:*
+ [Tijdelijke experimentenwet nieuwe stembiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0047212);
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -221,5 +190,3 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn in aanvulling op [artikel 
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk experimentenbesluit nieuwe stembiljetten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

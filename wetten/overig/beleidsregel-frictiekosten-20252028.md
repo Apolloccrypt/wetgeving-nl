@@ -1,36 +1,36 @@
 ---
-title: "Beleidsregel frictiekosten 2025–2028"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juli 2026, nr. WJZ/1853084 (29021), over de frictiekostenvergoeding aan de landelijke publieke mediadiensten 2025–2028 (Beleidsregel frictiekosten 2025–2028)"
+citeertitel: "Beleidsregel frictiekosten 2025–2028"
 identifier: "BWBR0052835"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "beleidsregel"
 publicatiedatum: 2026-07-15
-laatste_update: 2026-07-17
+laatste_update: 2026-09-03
 status: geldig
+toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0052835"
+opgehaald: 2026-09-04
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juli 2026, nr. WJZ/1853084 (29021), over de frictiekostenvergoeding aan de landelijke publieke mediadiensten 2025–2028 (Beleidsregel frictiekosten 2025–2028)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 2.166, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.166), [2.167, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.167), en [2.169 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.169);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- **CAO SR:** CAO Sociale Regeling voor het omroeppersoneel 1 juli 2025 – 30 juni 2030;
+- *CAO SR:* CAO Sociale Regeling voor het omroeppersoneel 1 juli 2025 – 30 juni 2030;
 
-- **Commissariaat:** Commissariaat voor de Media;
+- *Commissariaat:* Commissariaat voor de Media;
 
-- **landelijke publieke mediadienst:**
+- *landelijke publieke mediadienst:*
 
-  - –. landelijke publieke media-instelling, niet zijnde een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a);
+   - – landelijke publieke media-instelling, niet zijnde een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a);
 
-  - –. omroepvereniging die is vertegenwoordigd in een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a); en
+   - – omroepvereniging die is vertegenwoordigd in een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a); en
 
-  - –. NPO.
+   - – NPO.
 
-- **Minister:** Minister van Onderwijs Cultuur en Wetenschap.
+- *Minister:* Minister van Onderwijs Cultuur en Wetenschap.
 
 ##### Artikel 2. Frictiekosten
 
@@ -38,11 +38,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. doelmatig en noodzakelijk zijn voor de uitvoering van bezuinigings- en reorganisatieplannen van de landelijke publieke mediadiensten als gevolg van de opgelegde overheidsbezuinigingen;
 
-- b. zijn genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-07-15&g=2026-07-15) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-07-15&g=2026-07-15); en
+- b. zijn genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-09-03&g=2026-09-03) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-09-03&g=2026-09-03); en
 
 - c. die niet in verband staan met de doorlopende activiteiten van de landelijke publieke mediadienst.
 
-2. Personeelskosten als bedoeld in het eerste lid die verband houden met de beëindiging van de arbeidsovereenkomsten van de medewerkers van de landelijke publieke mediadienst voor de periode van 1 januari 2025 tot en met 31 december 2028 dienen in overeenstemming te zijn met de CAO SR en de aldaar genoemde bedragen niet te overschrijden.
+2. Personeelskosten als bedoeld in het eerste lid die verband houden met de beëindiging van de arbeidsovereenkomsten van de medewerkers van de landelijke publieke mediadienst voor de periode van 1 januari 2025 tot en met 31 december 2028 dienen in overeenstemming te zijn met de CAO SR en de aldaar genoemde bedragen niet te overschrijden.
 
 3. Kosten van een vrijwillige vertrekregeling kunnen slechts worden aangemerkt als personele frictiekosten als aan de volgende procedure is voldaan:
 
@@ -56,21 +56,21 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 3. Aanvraag bijdrage in de frictiekosten van een landelijke publieke mediadienst
 
-1. Een landelijke publieke mediadienst kan tot en met 30 april 2029 een bijdrage in de frictiekosten aanvragen bij de minister. In afwijking van de vorige zin geldt voor de NPO dat zij tot en met 30
+1. Een landelijke publieke mediadienst kan tot en met 30 april 2029 een bijdrage in de frictiekosten aanvragen bij de minister. In afwijking van de vorige zin geldt voor de NPO dat zij tot en met 30 juni 2029 een bijdrage in de frictiekosten kan aanvragen bij de minister.
 
 2. In het geval de landelijke publieke mediadienst een omroepvereniging is die is vertegenwoordigd in een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a), wordt de aanvraag bedoeld in het eerste lid gedaan door de omroepvereniging en niet door de samenwerkingsomroep.
 
-3. De aanvraag wordt vergezeld van de stukken, bedoeld in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-07-15&g=2026-07-15).
+3. De aanvraag wordt vergezeld van de stukken, bedoeld in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-09-03&g=2026-09-03).
 
 4. De landelijke publieke mediadienst zendt gelijktijdig een afschrift van de aanvraag en de bijbehorende stukken naar het Commissariaat.
 
 ##### Artikel 4. Toetsen van de aanvraag door het Commissariaat
 
-1. Het Commissariaat toetst of de aanvraag van een landelijke publieke mediadienst voor een bijdrage in de frictiekosten volledig is en voldoet aan de vereisten van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-07-15&g=2026-07-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-07-15&g=2026-07-15) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-07-15&g=2026-07-15).
+1. Het Commissariaat toetst of de aanvraag van een landelijke publieke mediadienst voor een bijdrage in de frictiekosten volledig is en voldoet aan de vereisten van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-09-03&g=2026-09-03), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-09-03&g=2026-09-03) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-09-03&g=2026-09-03).
 
-2. Het Commissariaat bericht de minister uiterlijk op 1 oktober 2029 of de aanvraag voldoet aan de vereisten van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-07-15&g=2026-07-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-07-15&g=2026-07-15) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-07-15&g=2026-07-15) en bericht de minister over de rechtmatigheid van de hoogte van de gevraagde bijdrage ten behoeve van het al dan niet vaststellen van de bijdrage in de frictiekosten.
+2. Het Commissariaat bericht de minister uiterlijk op 1 oktober 2029 of de aanvraag voldoet aan de vereisten van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-09-03&g=2026-09-03), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-09-03&g=2026-09-03) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-09-03&g=2026-09-03) en bericht de minister over de rechtmatigheid van de hoogte van de gevraagde bijdrage ten behoeve van het al dan niet vaststellen van de bijdrage in de frictiekosten.
 
-3. Het Commissariaat kan de landelijke publieke mediadienst in de gelegenheid stellen om de aanvraag aan te vullen of te verbeteren binnen een door het Commissariaat te bepalen termijn. Het Commissariaat bericht de minister in dat geval uiterlijk op 15 november 2029 over de aanvraag.
+3. Het Commissariaat kan de landelijke publieke mediadienst in de gelegenheid stellen om de aanvraag aan te vullen of te verbeteren binnen een door het Commissariaat te bepalen termijn. Het Commissariaat bericht de minister in dat geval uiterlijk op 15 november 2029 over de aanvraag.
 
 ##### Artikel 5. Samenvatting van de bezuinigings- en reorganisatieplannen
 
@@ -88,7 +88,7 @@ Een aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke m
 
 ##### Artikel 6. Toelichting op de frictiekosten
 
-Een aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke mediadienst wordt vergezeld van de jaarrekening 2028 van de landelijke publieke mediadienst met daarin opgenomen een toelichting op de frictiekosten van de landelijke publieke mediadienst overeenkomstig [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-07-15&g=2026-07-15) bij deze regeling.
+Een aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke mediadienst wordt vergezeld van de jaarrekening 2028 van de landelijke publieke mediadienst met daarin opgenomen een toelichting op de frictiekosten van de landelijke publieke mediadienst overeenkomstig [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-09-03&g=2026-09-03) bij deze regeling.
 
 ##### Artikel 7. Overzicht medezeggenschapstrajecten
 
@@ -96,89 +96,89 @@ Een aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke m
 
 ##### Artikel 8. Overzicht omvang van het verenigingsvermogen
 
-1. Bij de aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke mediadienst wordt duidelijk inzicht geboden in de omvang van het verenigingsvermogen overeenkomstig [bijlage 2, onderdeel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-07-15&g=2026-07-15), bij deze regeling.
+1. Bij de aanvraag voor een bijdrage in de frictiekosten van een landelijke publieke mediadienst wordt duidelijk inzicht geboden in de omvang van het verenigingsvermogen overeenkomstig [bijlage 2, onderdeel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=2&z=2026-09-03&g=2026-09-03), bij deze regeling.
 
-2. De peildatum voor het verenigingsvermogen is 31 december 2024.
+2. De peildatum voor het verenigingsvermogen is 31 december 2024.
 
 3. Dit artikel is niet van toepassing op een landelijke publieke mediadienst die een stichting is.
 
 ##### Artikel 9. Besluit van de minister
 
-1. De minister kan op aanvraag van een landelijke publieke mediadienst besluiten tot een bijdrage in de frictiekosten van de landelijke publieke mediadienst voor de boekjaren 2025–2028 indien blijkens de aanvraag wordt voldaan aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-07-15&g=2026-07-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-07-15&g=2026-07-15) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-07-15&g=2026-07-15).
+1. De minister kan op aanvraag van een landelijke publieke mediadienst besluiten tot een bijdrage in de frictiekosten van de landelijke publieke mediadienst voor de boekjaren 2025–2028 indien blijkens de aanvraag wordt voldaan aan de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=2&z=2026-09-03&g=2026-09-03), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=3&z=2026-09-03&g=2026-09-03) en [5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-09-03&g=2026-09-03).
 
-2. De minister neemt bij het besluit tot een bijdrage in de frictiekosten van een landelijke publieke mediadienst de uitkomsten van de toets en de berichten van het Commissariaat, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=4&z=2026-07-15&g=2026-07-15), mede in overweging.
+2. De minister neemt bij het besluit tot een bijdrage in de frictiekosten van een landelijke publieke mediadienst de uitkomsten van de toets en de berichten van het Commissariaat, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=4&z=2026-09-03&g=2026-09-03), mede in overweging.
 
-3. De minister past bij het besluit tot een bijdrage in de frictiekosten van een landelijke publieke mediadienst [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=10&z=2026-07-15&g=2026-07-15) toe om de hoogte van de bijdrage in de frictiekosten te bepalen.
+3. De minister past bij het besluit tot een bijdrage in de frictiekosten van een landelijke publieke mediadienst [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=10&z=2026-09-03&g=2026-09-03) toe om de hoogte van de bijdrage in de frictiekosten te bepalen.
 
-4. De minister besluit uiterlijk op 31 december 2029.
+4. De minister besluit uiterlijk op 31 december 2029.
 
 5. De minister zendt zijn besluit aan de landelijke publieke mediadienst en een afschrift van zijn besluit aan het Commissariaat.
 
-6. Aanvragen die niet tijdig zijn ingediend of die niet tijdig zijn aangevuld nadat daartoe door het Commissariaat een termijn is gesteld als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=4&z=2026-07-15&g=2026-07-15), worden afgewezen.
+6. Aanvragen die niet tijdig zijn ingediend of die niet tijdig zijn aangevuld nadat daartoe door het Commissariaat een termijn is gesteld als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=4&z=2026-09-03&g=2026-09-03), worden afgewezen.
 
-7. De minister doet betalingen aan de landelijke publieke mediadienst door tussenkomst van het Commissariaat. Op de bijdrage wordt een ontvangen voorschot als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=14&z=2026-07-15&g=2026-07-15) in mindering gebracht. Onverschuldigd betaalde voorschotten worden teruggevorderd.
+7. De minister doet betalingen aan de landelijke publieke mediadienst door tussenkomst van het Commissariaat. Op de bijdrage wordt een ontvangen voorschot als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=14&z=2026-09-03&g=2026-09-03) in mindering gebracht. Onverschuldigd betaalde voorschotten worden teruggevorderd.
 
 ##### Artikel 10. Berekening van de hoogte van de bijdrage in de frictiekosten
 
-1. Aan een landelijke publieke mediadienst die op 31 december 2024 beschikte over een verenigingsvermogen van meer dan € 1,5 miljoen, kan een bijdrage worden verstrekt van ten hoogste 50% van de frictiekosten van de desbetreffende mediadienst. De reserve media-aanbod wordt buiten beschouwing gelaten.
+1. Aan een landelijke publieke mediadienst die op 31 december 2024 beschikte over een verenigingsvermogen van meer dan € 1,5 miljoen, kan een bijdrage worden verstrekt van ten hoogste 50% van de frictiekosten van de desbetreffende mediadienst. De reserve media-aanbod wordt buiten beschouwing gelaten.
 
-2. Aan een landelijke publieke mediadienst die op 31 december 2024 beschikte over een verenigingsvermogen van € 1,5 miljoen of minder of die een stichting is, kan een bijdrage worden verstrekt van ten hoogste 100% van de frictiekosten van de desbetreffende mediadienst.
+2. Aan een landelijke publieke mediadienst die op 31 december 2024 beschikte over een verenigingsvermogen van € 1,5 miljoen of minder of die een stichting is, kan een bijdrage worden verstrekt van ten hoogste 100% van de frictiekosten van de desbetreffende mediadienst.
 
 3. Bij de bepaling van de hoogte van de bijdrage in de frictiekosten van de landelijke publieke mediadiensten geldt het volgende:
 
-- a. de totale hoogte van de bijdrage in de frictiekosten van de landelijke publieke mediadiensten gezamenlijk kan het bedrag van € 50 miljoen niet overschrijden;
+- a. de totale hoogte van de bijdrage in de frictiekosten van de landelijke publieke mediadiensten gezamenlijk kan het bedrag van € 50 miljoen niet overschrijden;
 
-- b. indien het totale bedrag van de ingediende aanvragen voor de landelijke publieke mediadiensten bedoeld in het eerste en tweede lid gezamenlijk hoger is dan € 50 miljoen, dan wordt eerst aan de landelijke publieke mediadiensten, bedoeld in het tweede lid, een bijdrage verleend;
+- b. indien het totale bedrag van de ingediende aanvragen voor de landelijke publieke mediadiensten bedoeld in het eerste en tweede lid gezamenlijk hoger is dan € 50 miljoen, dan wordt eerst aan de landelijke publieke mediadiensten, bedoeld in het tweede lid, een bijdrage verleend;
 
 - c. de resterende middelen worden vervolgens ingezet ten behoeve van de landelijke publieke mediadiensten, bedoeld in het eerste lid, waarbij indien het totale bedrag van de ingediende aanvragen van de landelijke publieke mediadiensten, bedoeld in het eerste lid, de resterende middelen overschrijdt, bijdragen naar rato worden verleend; en
 
-- d. indien het totale bedrag van de ingediende aanvragen voor de landelijke publieke mediadiensten, bedoeld in het tweede lid, hoger is dan de beschikbare € 50 miljoen, dan worden de bijdragen naar rato verleend uitsluitend aan de landelijke publieke mediadiensten bedoeld in het tweede lid.
+- d. indien het totale bedrag van de ingediende aanvragen voor de landelijke publieke mediadiensten, bedoeld in het tweede lid, hoger is dan de beschikbare € 50 miljoen, dan worden de bijdragen naar rato verleend uitsluitend aan de landelijke publieke mediadiensten bedoeld in het tweede lid.
 
 ##### Artikel 11. Verantwoording bijdrage frictiekosten in de jaarrekening
 
-1. Op basis van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=10&z=2026-07-15&g=2026-07-15), berekent een landelijke publieke mediadienst jaarlijks de te verwachten bijdrage van OCW in de frictiekosten en neemt het volledige bedrag op als bate en als vordering in de jaarrekening in het jaar dat deze vordering ontstaat. Hierbij wordt geen rekening gehouden met de mogelijkheid dat een deel van deze vordering niet geïnd kan worden als de aanvragen de in artikel 10, derde lid, onder a, genoemde maximale bijdrage overschrijden.
+1. Op basis van [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=10&z=2026-09-03&g=2026-09-03), berekent een landelijke publieke mediadienst jaarlijks de te verwachten bijdrage van OCW in de frictiekosten en neemt het volledige bedrag op als bate en als vordering in de jaarrekening in het jaar dat deze vordering ontstaat. Hierbij wordt geen rekening gehouden met de mogelijkheid dat een deel van deze vordering niet geïnd kan worden als de aanvragen de in artikel 10, derde lid, onder a, genoemde maximale bijdrage overschrijden.
 
-2. Op basis van het besluit van de minister, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=9&z=2026-07-15&g=2026-07-15), verwerkt een landelijke publieke mediadienst de in dat besluit opgenomen bijdrage in de frictiekosten in de jaarrekening 2029.
+2. Op basis van het besluit van de minister, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=9&z=2026-09-03&g=2026-09-03), verwerkt een landelijke publieke mediadienst de in dat besluit opgenomen bijdrage in de frictiekosten in de jaarrekening 2029.
 
 ##### Artikel 12. Voorschot bijdrage frictiekosten
 
-1. Een landelijke publieke mediadienst kan voor 1 september 2026 en voor 1 september 2027 een voorschot op een bijdrage in de frictiekosten voor de boekjaren 2025, 2026, 2027 of 2028 aanvragen bij de minister.
+1. Een landelijke publieke mediadienst kan voor 1 september 2026 en voor 1 september 2027 een voorschot op een bijdrage in de frictiekosten voor de boekjaren 2025, 2026, 2027 of 2028 aanvragen bij de minister.
 
 2. In het geval de landelijke publieke mediadienst een omroepvereniging is die is vertegenwoordigd in een samenwerkingsomroep als bedoeld in [artikel 2.24a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.24a), wordt de aanvraag bedoeld in het eerste lid gedaan door de omroepvereniging en niet door de samenwerkingsomroep.
 
 3. De aanvraag wordt vergezeld van:
 
-- a. een samenvatting van de bezuinigings- en reorganisatieplannen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-07-15&g=2026-07-15);
+- a. een samenvatting van de bezuinigings- en reorganisatieplannen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=5&z=2026-09-03&g=2026-09-03);
 
-- b. een overzicht van de frictiekosten waarvoor een voorschot aangevraagd wordt, overeenkomstig [bijlagen 1, onderdelen 1.1 en 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-07-15&g=2026-07-15); en
+- b. een overzicht van de frictiekosten waarvoor een voorschot aangevraagd wordt, overeenkomstig [bijlagen 1, onderdelen 1.1 en 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-09-03&g=2026-09-03); en
 
-- c. een overzicht van de medezeggenschapstrajecten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=7&z=2026-07-15&g=2026-07-15).
+- c. een overzicht van de medezeggenschapstrajecten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=7&z=2026-09-03&g=2026-09-03).
 
-4. Bij de aanvraag van een voorschot op een bijdrage in de frictiekosten van een landelijke mediadienst wordt duidelijk inzicht geboden in de omvang van het verenigingsvermogen overeenkomstig [bijlage 1, onderdeel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-07-15&g=2026-07-15). De peildatum voor de omvang van het verenigingsvermogen is 31 december 2024. Dit lid is niet van toepassing op een landelijke publieke mediadienst die een stichting is.
+4. Bij de aanvraag van een voorschot op een bijdrage in de frictiekosten van een landelijke mediadienst wordt duidelijk inzicht geboden in de omvang van het verenigingsvermogen overeenkomstig [bijlage 1, onderdeel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&bijlage=1&z=2026-09-03&g=2026-09-03). De peildatum voor de omvang van het verenigingsvermogen is 31 december 2024. Dit lid is niet van toepassing op een landelijke publieke mediadienst die een stichting is.
 
 5. De landelijke publieke mediadienst zendt gelijktijdig een afschrift van de voorschotaanvraag en de bijbehorende stukken naar het Commissariaat.
 
 ##### Artikel 13. Toetsen van de voorschotaanvraag door het Commissariaat
 
-1. Het Commissariaat toetst de volledigheid van de aanvraag van een landelijke publieke mediadienst voor een voorschot op een bijdrage in de frictiekosten overeenkomstig de vereisten van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-07-15&g=2026-07-15).
+1. Het Commissariaat toetst de volledigheid van de aanvraag van een landelijke publieke mediadienst voor een voorschot op een bijdrage in de frictiekosten overeenkomstig de vereisten van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-09-03&g=2026-09-03).
 
 2. Het Commissariaat bericht de minister of de aanvraag voldoet aan het eerste lid.
 
-3. Het Commissariaat bericht de minister over een voorschotaanvraag voor een bijdrage in de frictiekosten die vóór 1 september 2026 is ontvangen uiterlijk op 1 december 2026, en over voorschotaanvragen die in de periode van 1 september 2026 tot en met 31 augustus 2027 zijn ontvangen uiterlijk op 1 december 2027.
+3. Het Commissariaat bericht de minister over een voorschotaanvraag voor een bijdrage in de frictiekosten die vóór 1 september 2026 is ontvangen uiterlijk op 1 december 2026, en over voorschotaanvragen die in de periode van 1 september 2026 tot en met 31 augustus 2027 zijn ontvangen uiterlijk op 1 december 2027.
 
-4. Het Commissariaat kan de landelijke publieke mediadienst in de gelegenheid stellen om de aanvraag binnen twee weken aan te vullen of te verbeteren. Het Commissariaat bericht de minister in dat geval uiterlijk op 15 december 2026 over de voorschotaanvraag die voor 1 september 2026 is ontvangen en uiterlijk op 15 december 2027 over de voorschotaanvraag die voor 1 september 2027 is ontvangen.
+4. Het Commissariaat kan de landelijke publieke mediadienst in de gelegenheid stellen om de aanvraag binnen twee weken aan te vullen of te verbeteren. Het Commissariaat bericht de minister in dat geval uiterlijk op 15 december 2026 over de voorschotaanvraag die voor 1 september 2026 is ontvangen en uiterlijk op 15 december 2027 over de voorschotaanvraag die voor 1 september 2027 is ontvangen.
 
 ##### Artikel 14. Besluit van de minister op de voorschotaanvraag
 
-1. De minister kan op aanvraag van een landelijke publieke mediadienst besluiten tot een voorschot op de bijdrage in de frictiekosten van die landelijke publieke mediadienst indien blijkens de aanvraag wordt voldaan aan de vereisten van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-07-15&g=2026-07-15).
+1. De minister kan op aanvraag van een landelijke publieke mediadienst besluiten tot een voorschot op de bijdrage in de frictiekosten van die landelijke publieke mediadienst indien blijkens de aanvraag wordt voldaan aan de vereisten van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-09-03&g=2026-09-03).
 
-2. De minister neemt bij het besluit tot een voorschot op de bijdrage in de frictiekosten van een landelijke publieke mediadienst de uitkomsten van de toets en de berichten van het Commissariaat, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=13&z=2026-07-15&g=2026-07-15), mede in overweging.
+2. De minister neemt bij het besluit tot een voorschot op de bijdrage in de frictiekosten van een landelijke publieke mediadienst de uitkomsten van de toets en de berichten van het Commissariaat, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=13&z=2026-09-03&g=2026-09-03), mede in overweging.
 
 3. De minister neemt zijn besluit op de aanvraag voor een voorschot binnen twee maanden na ontvangst van het bericht van het Commissariaat.
 
 4. De minister zendt zijn besluit aan de landelijke publieke mediadienst en een afschrift van zijn besluit aan het Commissariaat.
 
-5. Aanvragen voor een voorschot op een bijdrage in de frictiekosten die niet voor de data bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-07-15&g=2026-07-15), zijn ingediend of die niet tijdig zijn aangevuld nadat daartoe door het Commissariaat een termijn is gesteld als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=13&z=2026-07-15&g=2026-07-15), worden afgewezen.
+5. Aanvragen voor een voorschot op een bijdrage in de frictiekosten die niet voor de data bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=12&z=2026-09-03&g=2026-09-03), zijn ingediend of die niet tijdig zijn aangevuld nadat daartoe door het Commissariaat een termijn is gesteld als bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052835&artikel=13&z=2026-09-03&g=2026-09-03), worden afgewezen.
 
 6. De minister doet betalingen aan de landelijke publieke mediadienst door tussenkomst van het Commissariaat.
 
@@ -188,10 +188,4 @@ Deze regeling wordt aangehaald als: Beleidsregel frictiekosten 2025–2028.
 
 ##### Artikel 16. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025.
-
-## Bijlage 1. Format aanvraag voorschot frictiekosten landelijke publieke mediadiensten
-
-## Bijlage 2. Format aanvraag bijdrage gerealiseerde frictiekosten landelijke publieke mediadiensten
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2025.

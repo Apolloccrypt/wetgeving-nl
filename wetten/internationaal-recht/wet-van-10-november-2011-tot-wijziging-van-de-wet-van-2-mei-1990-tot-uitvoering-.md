@@ -9,7 +9,7 @@ laatste_update: 2012-01-01
 status: geldig
 toestand: 2012-01-01
 bron: "https://wetten.overheid.nl/BWBR0030658"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Wet van 10 november 2011 tot wijziging van de Wet van 2 mei 1990 tot uitvoering van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen Verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen alsmede algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan en van de Uitvoeringswet internationale kinderbescherming in verband met afschaffing van de procesvertegenwoordigende bevoegdheid van de centrale autoriteit in zaken van internationale kinderontvoering en kinderbescherming, alsmede, in teruggeleidingszaken, de concentratie van rechtspraak, introductie van de bevoegdheid van de rechter om te beslissen aan het hoger beroep in teruggeleidingszaken schorsende werking te verlenen, en beperking van het beroep in cassatie

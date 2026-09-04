@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0001860"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Wet van 30 september 1893, op het faillissement en de surséance van betaling

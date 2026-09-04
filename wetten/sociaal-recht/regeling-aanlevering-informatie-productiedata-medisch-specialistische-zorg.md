@@ -1,62 +1,39 @@
 ---
 title: "Regeling aanlevering informatie productiedata medisch-specialistische zorg – TH/NR-029"
+citeertitel: "Regeling aanlevering informatie productiedata medisch-specialistische zorg"
 identifier: "BWBR0048669"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-10-01"
-last_updated: "2023-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048669"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "16867463"
-version_id: "29644132"
-internal_id: "C42419181"
-label_id: "16779684"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048669/2023-10-01/0"
-intitule_bron: "Stcrt.2023-27059"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-12"
-intitule_published: "2023-10-02"
-intitule_in_force: "2023-10-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-27059"
-original_signed_date: "2023-09-12"
-original_published_date: "2023-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-27059"
-entry_into_force_date: "2023-10-01"
-jci_1_3: "jci1.3:c:BWBR0048669&z=2023-10-01&g=2023-10-01"
-jci_1_0: "1.0:c:BWBR0048669&g=2023-10-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanlevering informatie productiedata medisch-specialistische zorg"
-signed_date: "2023-09-12"
-entry_into_force: "2023-10-01"
+publicatiedatum: 2023-10-01
+laatste_update: 2023-10-01
+status: geldig
+toestand: 2023-10-01
+bron: "https://wetten.overheid.nl/BWBR0048669"
+opgehaald: 2026-09-04
 ---
-# Regeling aanlevering informatie productiedata medisch-specialistische zorg – TH/NR-029
 
-Gelet op de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg) is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels inhoudende welke gegevens en inlichtingen regelmatig moeten worden verstrekt dan wel onder welke omstandigheden deze moeten worden verstrekt door zorgaanbieders, en is de NZa bevoegd tot het stellen van regels die inhouden door wie, aan wie en op welke wijze deze gegevens en inlichtingen moeten worden verstrekt.
+# Regeling aanlevering informatie productiedata medisch-specialistische zorg – TH/NR-029
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- a. **Dbc:** diagnose-behandelcombinatie: Declarabele prestatie, die het resultaat is van (een deel van) het totale zorgtraject van de diagnose die de zorgaanbieder stelt tot en met de (eventuele) behandeling die hieruit volgt;
+- a. *Dbc:* diagnose-behandelcombinatie: Declarabele prestatie, die het resultaat is van (een deel van) het totale zorgtraject van de diagnose die de zorgaanbieder stelt tot en met de (eventuele) behandeling die hieruit volgt;
 
-- b. **Instelling:** Rechtspersoon die bedrijfsmatig zorg verleent of doet verlenen, organisatorisch verband van natuurlijke personen die bedrijfsmatig zorg verlenen of doen verlenen met uitzondering van een instelling die binnen het kader van de binnen een andere instelling verleende zorg een deel van die zorg verleent;
+- b. *Instelling:* Rechtspersoon die bedrijfsmatig zorg verleent of doet verlenen, organisatorisch verband van natuurlijke personen die bedrijfsmatig zorg verlenen of doen verlenen met uitzondering van een instelling die binnen het kader van de binnen een andere instelling verleende zorg een deel van die zorg verleent;
 
-- c. **Medisch-specialistische zorg:** Bij ministeriële regeling aangewezen zorg die door een arts wordt verleend en valt binnen de bijzondere deskundigheid van artsen aan wie de bevoegdheid toekomt tot het voeren van een wettelijk erkende specialistentitel als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
+- c. *Medisch-specialistische zorg:* Bij ministeriële regeling aangewezen zorg die door een arts wordt verleend en valt binnen de bijzondere deskundigheid van artsen aan wie de bevoegdheid toekomt tot het voeren van een wettelijk erkende specialistentitel als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
 
-- d. **NZa:** Nederlandse Zorgautoriteit;
+- d. *NZa:* Nederlandse Zorgautoriteit;
 
-- e. **Stichting DHD:** Stichting Dutch Hospital Data;
+- e. *Stichting DHD:* Stichting Dutch Hospital Data;
 
-- f. **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- f. *Wmg:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- g. **Zorgactiviteit:** Bouwstenen van het dbc-zorgproduct die gezamenlijk het profiel van een dbc-zorgproduct vormen. Zorgactiviteiten bepalen in combinatie met het geregistreerde subtraject welke prestatie is geleverd en welk dbc-zorgproduct mag worden gedeclareerd. Daarnaast vormt de onderverdeling in zorgactiviteiten de basis voor overige zorgproducten
+- g. *Zorgactiviteit:* Bouwstenen van het dbc-zorgproduct die gezamenlijk het profiel van een dbc-zorgproduct vormen. Zorgactiviteiten bepalen in combinatie met het geregistreerde subtraject welke prestatie is geleverd en welk dbc-zorgproduct mag worden gedeclareerd. Daarnaast vormt de onderverdeling in zorgactiviteiten de basis voor overige zorgproducten
 
-- h. **Zorgactiviteitcode:** Het unieke nummer van een Zorgactiviteit.
+- h. *Zorgactiviteitcode:* Het unieke nummer van een Zorgactiviteit.
 
 ##### Artikel 2. Doel
 
@@ -72,27 +49,27 @@ Deze regeling is van toepassing op Instellingen die medisch-specialistische zorg
 
 1. Instellingen voor medisch-specialistische zorg verstrekken één maal per maand, uiterlijk op de derde maandag van de maand, elektronisch een overzicht aan van het geaggregeerd aantal verrichtingen en het geaggregeerd aantal patiënten per ziekenhuis per week, uitgesplitst in:
 
-- –. jaar;
+- – jaar;
 
-- –. maand;
+- – maand;
 
-- –. weeknummer;
+- – weeknummer;
 
-- –. ROAZ-regio;
+- – ROAZ-regio;
 
-- –. Provincie;
+- – Provincie;
 
-- –. type ziekenhuis (bijv. algemeen, topklinisch);
+- – type ziekenhuis (bijv. algemeen, topklinisch);
 
-- –. Zorgactiviteitcode (slechts vereist voor het aantal verrichtingen, niet op patiëntniveau)
+- – Zorgactiviteitcode (slechts vereist voor het aantal verrichtingen, niet op patiëntniveau)
 
-- –. specialisme;
+- – specialisme;
 
-- –. specialisme code;
+- – specialisme code;
 
-- –. Dbc specialisme diagnosecode;
+- – Dbc specialisme diagnosecode;
 
-- –. Dbc diagnose.
+- – Dbc diagnose.
 
 2. Het overzicht dient alle gegevens te bevatten van de maand voorafgaand aan de maand waarin de gegevens geleverd worden, inclusief alle mutaties die betrekking hebben op de al eerder aangeleverde data.
 
@@ -104,6 +81,4 @@ Deze regeling is van toepassing op Instellingen die medisch-specialistische zorg
 
 ##### Artikel 6. Inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking met ingang van 1 oktober 2023. Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt de regeling in de Staatscourant geplaatst.
-
-Deze regeling wordt aangehaald als: ’Regeling aanlevering informatie productiedata medisch-specialistische zorg’.
+Deze regeling treedt in werking met ingang van 1 oktober 2023. Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt de regeling in de Staatscourant geplaatst.

@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2015-10-01
 laatste_update: 2015-10-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-01
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0037034"
-opgehaald: 2026-08-23
+opgehaald: 2026-09-04
 ---
 
 # Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd

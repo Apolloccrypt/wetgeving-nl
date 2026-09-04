@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 30 mei 2023 nr. BOACAT2023/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Staatstoezicht op de Mijnen"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Staatstoezicht op de Mijnen 2023"
 identifier: "BWBR0048238"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-07"
-last_updated: "2023-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048238"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16761013"
-version_id: "29436932"
-internal_id: "C42103371"
-label_id: "16676754"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048238/2023-06-07/0"
-intitule_bron: "Stcrt.2023-16320"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-30"
-intitule_published: "2023-06-07"
-intitule_in_force: "2023-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-16320"
-original_signed_date: "2023-05-30"
-original_published_date: "2023-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-16320"
-entry_into_force_date: "2023-06-07"
-jci_1_3: "jci1.3:c:BWBR0048238&z=2023-06-07&g=2023-06-07"
-jci_1_0: "1.0:c:BWBR0048238&g=2023-06-07"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Staatstoezicht op de Mijnen 2023"
-signed_date: "2023-05-30"
-entry_into_force: "2023-06-07"
+publicatiedatum: 2023-06-07
+laatste_update: 2023-06-07
+status: geldig
+toestand: 2023-06-07
+bron: "https://wetten.overheid.nl/BWBR0048238"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 30 mei 2023 nr. BOACAT2023/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Staatstoezicht op de Mijnen
-
-Gelezen het verzoek van Staatstoezicht op de Mijnen van 17 mei 2023, en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de Inspecteur-generaal der Mijnen;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -80,7 +42,7 @@ Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De Inspecteur-generaal der Mijnen brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Inspecteur-generaal der Mijnen brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048238&artikel=2&z=2023-06-07&g=2023-06-07) genoemde functie;
 
@@ -98,12 +60,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar Staatstoezicht op de Mijnen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040983) van 30 mei 2018, nr. BOACAT2018/025 zal vervallen op 7 juni 2023.
+Het [Besluit buitengewoon opsporingsambtenaar Staatstoezicht op de Mijnen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040983) van 30 mei 2018, nr. BOACAT2018/025 zal vervallen op 7 juni 2023.
 
-Dit besluit treedt in werking met ingang van 7 juni 2023 en vervalt met ingang van 7 juni 2028.
+Dit besluit treedt in werking met ingang van 7 juni 2023 en vervalt met ingang van 7 juni 2028.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Staatstoezicht op de Mijnen 2023.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

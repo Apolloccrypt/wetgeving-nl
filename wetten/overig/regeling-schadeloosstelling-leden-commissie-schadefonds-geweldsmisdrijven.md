@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 15 mei 2023, nr. 4596063, houdende vaststelling van de schadeloosstelling van de leden van de commissie schadefonds geweldsmisdrijven (Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven)"
+citeertitel: "Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven"
 identifier: "BWBR0048684"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-03"
-last_updated: "2025-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048684"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16870563"
-version_id: "29650692"
-internal_id: "C42432741"
-label_id: "16782774"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048684/2025-05-03/0"
-intitule_bron: "Stcrt.2023-26906"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-15"
-intitule_published: "2023-10-03"
-intitule_in_force: "2023-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-26906"
-original_signed_date: "2023-05-15"
-original_published_date: "2023-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-26906"
-entry_into_force_date: "2023-10-04"
-jci_1_3: "jci1.3:c:BWBR0048684&z=2025-05-03&g=2025-05-03"
-jci_1_0: "1.0:c:BWBR0048684&g=2025-05-03"
-citeertitel_status: "officieel"
-short_title: "Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven"
-signed_date: "2023-05-15"
-entry_into_force: "2023-10-04"
+publicatiedatum: 2023-10-04
+laatste_update: 2025-05-03
+status: geldig
+toestand: 2025-05-03
+bron: "https://wetten.overheid.nl/BWBR0048684"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 15 mei 2023, nr. 4596063, houdende vaststelling van de schadeloosstelling van de leden van de commissie schadefonds geweldsmisdrijven (Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven)
-
-Gelet op [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **CAO rijk:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren;
+- a. *CAO rijk:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren;
 
-- b. **enkelvoudige kamer:** enkelvoudige kamer van de commissie, bedoeld in [artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8);
+- b. *enkelvoudige kamer:* enkelvoudige kamer van de commissie, bedoeld in [artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979&artikel=8);
 
-- c. **leden:** leden van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
+- c. *leden:* leden van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
 
-- d. **meervoudige kamer:** meervoudige kamer van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
+- d. *meervoudige kamer:* meervoudige kamer van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
 
-- e. **plaatsvervangend voorzitter:** plaatsvervangend voorzitter van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
+- e. *plaatsvervangend voorzitter:* plaatsvervangend voorzitter van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven;
 
-- f. **voorzitter:** voorzitter van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven.
+- f. *voorzitter:* voorzitter van de commissie, bedoeld in artikel 8, tweede lid, van de Wet schadefonds geweldsmisdrijven.
 
 ##### Artikel 2
 
@@ -88,10 +62,8 @@ De [Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven 20
 
 ##### Artikel 8
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werkt terug tot en met 1 januari 2020.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst en werkt terug tot en met 1 januari 2020.
 
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling schadeloosstelling leden commissie schadefonds geweldsmisdrijven.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

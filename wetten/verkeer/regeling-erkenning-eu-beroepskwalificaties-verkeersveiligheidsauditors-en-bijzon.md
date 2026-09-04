@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 15 mei 2023, nr. IENW/BSK-2023/132812, houdende vaststelling van regels in verband met de erkenning van EU-beroepskwalificaties voor verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs (Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs)"
+citeertitel: "Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs"
 identifier: "BWBR0048194"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-01"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048194"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16753493"
-version_id: "29421832"
-internal_id: "C42069131"
-label_id: "16669454"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048194/2023-06-01/0"
-intitule_bron: "Stcrt.2023-14995"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-15"
-intitule_published: "2023-05-26"
-intitule_in_force: "2023-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-14995"
-original_signed_date: "2023-05-15"
-original_published_date: "2023-05-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-14995"
-entry_into_force_date: "2023-06-01"
-jci_1_3: "jci1.3:c:BWBR0048194&z=2023-06-01&g=2023-06-01"
-jci_1_0: "1.0:c:BWBR0048194&g=2023-06-01"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs"
-signed_date: "2023-05-15"
-entry_into_force: "2023-06-01"
+publicatiedatum: 2023-06-01
+laatste_update: 2023-06-01
+status: geldig
+toestand: 2023-06-01
+bron: "https://wetten.overheid.nl/BWBR0048194"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 15 mei 2023, nr. IENW/BSK-2023/132812, houdende vaststelling van regels in verband met de erkenning van EU-beroepskwalificaties voor verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs (Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs)
-
-Gelet op [richtlijn nr. 2005/36/EG](32005L0036) van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU 2005, L 255) en [artikel 33, eerste lid, van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) en de [artikelen 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048193&artikel=6), en [11, zevende lid, van het Besluit verkeersveiligheid weginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0048193&artikel=11);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop het Besluit verkeersveiligheid weginfrastructuur in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,17 +20,18 @@ Treedt in werking op het tijdstip waarop het Besluit verkeersveiligheid weginfra
 
 In deze regeling wordt verstaan onder:
 
-- –. **aanvraag:** aanvraag als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), tot het verkrijgen van erkenning van beroepskwalificaties voor het gereglementeerd beroep van verkeersveiligheidsauditor of bijzondere verkeersveiligheidsinspecteur;
+- – *aanvraag:* aanvraag als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), tot het verkrijgen van erkenning van beroepskwalificaties voor het gereglementeerd beroep van verkeersveiligheidsauditor of bijzondere verkeersveiligheidsinspecteur;
 
-- –. **aanvrager:** migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), die een aanvraag indient;
+- – *aanvrager:* migrerende beroepsbeoefenaar als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), die een aanvraag indient;
 
-- –. **bijzondere verkeersveiligheidsinspecteur:** bijzondere verkeersveiligheidsinspecteur als bedoeld in het[Besluit verkeersveiligheid weginfrastructuur](onbekend);
+- – *bijzondere verkeersveiligheidsinspecteur:* bijzondere verkeersveiligheidsinspecteur als bedoeld in hetBesluit verkeersveiligheid weginfrastructuur;
 
-- –. **Minister:** Minister van Infrastructuur en Waterstaat;
+- – *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- –. **verkeersveiligheidsauditor:** verkeersveiligheidsauditor als bedoeld in het [Besluit verkeersveiligheid weginfrastructuur](onbekend);
+- – *verkeersveiligheidsauditor:* verkeersveiligheidsauditor als bedoeld in het Besluit verkeersveiligheid weginfrastructuur;
 
-- –. **wet:** [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
+- – *wet:*
+ [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
 ### Hoofdstuk 2. Erkenning van eu-beroepskwalificaties
 
@@ -72,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien bij de toepassing van [artikel 11, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) is gebleken dat de kennis en ervaring van de aanvrager wezenlijk verschilt van de inhoudsgebieden die deel uitmaken van de opleiding of het examen tot verkeersveiligheidsauditor of bijzondere verkeersveiligheidsinspecteur als bedoeld in het [Besluit verkeersveiligheid weginfrastructuur](onbekend), en dat het daardoor noodzakelijk is dat een aanpassingsstage wordt doorlopen of proeve van bekwaamheid wordt afgelegd, maakt de aanvrager zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage binnen een daartoe door de Minister gestelde termijn kenbaar.
+1. Indien bij de toepassing van [artikel 11, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) is gebleken dat de kennis en ervaring van de aanvrager wezenlijk verschilt van de inhoudsgebieden die deel uitmaken van de opleiding of het examen tot verkeersveiligheidsauditor of bijzondere verkeersveiligheidsinspecteur als bedoeld in het Besluit verkeersveiligheid weginfrastructuur, en dat het daardoor noodzakelijk is dat een aanpassingsstage wordt doorlopen of proeve van bekwaamheid wordt afgelegd, maakt de aanvrager zijn keuze voor een proeve van bekwaamheid of een aanpassingsstage binnen een daartoe door de Minister gestelde termijn kenbaar.
 
 2. Indien de aanvrager voor een aanpassingsstage of proeve van bekwaamheid in aanmerking wenst te komen, stelt de Minister vast met betrekking tot welke inhoudsgebieden de aanvrager de proeve van bekwaamheid aflegt of met betrekking tot welke inhoudsgebieden de aanvrager de aanpassingsstage doorloopt, alsmede de termijn waarbinnen dit geschiedt.
 
@@ -94,10 +67,8 @@ Indien na afgifte van de erkenning van de EU-beroepskwalificaties is gebleken, d
 
 ##### Artikel 7
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit verkeersveiligheid weginfrastructuur in werking](onbekend) treedt.
+Deze regeling treedt in werking op het tijdstip waarop het Besluit verkeersveiligheid weginfrastructuur in werking treedt.
 
 ##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties verkeersveiligheidsauditors en bijzondere verkeersveiligheidsinspecteurs.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

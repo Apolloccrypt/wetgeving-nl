@@ -1,114 +1,88 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2023, nr. 38118126 houdende regels voor de subsidieverstrekking voor het versterken van de aansluiting in de beroepsonderwijskolom (Subsidieregeling versterking aansluiting beroepsonderwijskolom)"
+citeertitel: "Subsidieregeling versterking aansluiting beroepsonderwijskolom"
 identifier: "BWBR0048295"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048295"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16776913"
-version_id: "29464792"
-internal_id: "C42135931"
-label_id: "16692184"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048295/2026-01-01/0"
-intitule_bron: "Stcrt.2023-17079"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-12"
-intitule_published: "2023-06-19"
-intitule_in_force: "2023-06-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-17079"
-original_signed_date: "2023-06-12"
-original_published_date: "2023-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-17079"
-entry_into_force_date: "2023-06-20"
-jci_1_3: "jci1.3:c:BWBR0048295&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0048295&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling versterking aansluiting beroepsonderwijskolom"
-signed_date: "2023-06-12"
-entry_into_force: "2023-06-20"
+publicatiedatum: 2023-06-20
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0048295"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 12 juni 2023, nr. 38118126 houdende regels voor de subsidieverstrekking voor het versterken van de aansluiting in de beroepsonderwijskolom (Subsidieregeling versterking aansluiting beroepsonderwijskolom)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aansluitende opleidingsroute:** opleidingsroute van vo, vso of vavo naar mbo en daarna hbo, die voldoet aan de eisen genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
+- *aansluitende opleidingsroute:* opleidingsroute van vo, vso of vavo naar mbo en daarna hbo, die voldoet aan de eisen genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- **hbo-opleiding:**
+- *hbo-opleiding:*
 
-- a. hbo-bacheloropleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a); of
+   - a. hbo-bacheloropleiding als bedoeld in [artikel 7.3a, eerste lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a); of
 
-- b. associate degree-opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
+   - b. associate degree-opleiding als bedoeld in [artikel 7.3a, tweede lid, onderdeel a, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a);
 
-- **hogeschool:** hogeschool als bedoeld in onderdeel g van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend), voor zover zij bekostigde hbo-opleidingen verzorgt;
+- *hogeschool:* hogeschool als bedoeld in onderdeel g van de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/BWBR0005682), voor zover zij bekostigde hbo-opleidingen verzorgt;
 
-- **leerling:** degene die onderwijs volgt aan een school;
+- *leerling:* degene die onderwijs volgt aan een school;
 
-- **mbo-opleiding:**
+- *mbo-opleiding:*
 
-- a. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); of
+   - a. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1); of
 
-- b. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+   - b. beroepsopleiding als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **mbo-instelling:**
+- *mbo-instelling:*
 
-- a. instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde mbo-opleidingen verzorgt; of
+   - a. instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde mbo-opleidingen verzorgt; of
 
-- b. Scholengemeenschap Bonaire, voor zover zij bekostigde mbo-opleidingen verzorgt;
+   - b. Scholengemeenschap Bonaire, voor zover zij bekostigde mbo-opleidingen verzorgt;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **onderwijsinstelling:** school, vavo-instelling, mbo-instelling of hogeschool;
+- *onderwijsinstelling:* school, vavo-instelling, mbo-instelling of hogeschool;
 
-- **penvoerder:** penvoerder als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2026-01-01&g=2026-01-01);
+- *penvoerder:* penvoerder als bedoeld in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=4&z=2026-01-01&g=2026-01-01);
 
-- **samenwerkingsverband:** samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
+- *samenwerkingsverband:* samenwerkingsverband als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
 
-- **school:**
+- *school:*
 
-- a. school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), voor zover zij bekostigde vo-opleidingen verzorgt; of
+   - a. school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), voor zover zij bekostigde vo-opleidingen verzorgt; of
 
-- b. school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover zij bekostigde vso-opleidingen verzorgt;
+   - b. school als bedoeld in [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), voor zover zij bekostigde vso-opleidingen verzorgt;
 
-- **sectorkamer:** sectorkamer als beschreven door de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven en te raadplegen op [https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/](https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/), waar de mbo-opleiding onder valt;
+- *sectorkamer:* sectorkamer als beschreven door de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven en te raadplegen op [https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/](https://www.s-bb.nl/organisatie/directie-en-bestuur/overlegtafels/sectorkamers-marktsegmenten/), waar de mbo-opleiding onder valt;
 
-- **sectoronderdeel:** onderdeel als bedoeld in [artikel 3.1 van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=3.1), waar de hbo-opleiding onder valt;
+- *sectoronderdeel:* onderdeel als bedoeld in [artikel 3.1 van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=3.1), waar de hbo-opleiding onder valt;
 
-- **student:** degene die onderwijs volgt aan een vavo-instelling, mbo-instelling of hogeschool;
+- *student:* degene die onderwijs volgt aan een vavo-instelling, mbo-instelling of hogeschool;
 
-- **tekortsectoren:** sectoren techniek, woningbouw, zorg, onderwijs, klimaat en energie, veiligheid en kinderopvang;
+- *tekortsectoren:* sectoren techniek, woningbouw, zorg, onderwijs, klimaat en energie, veiligheid en kinderopvang;
 
-- **vavo-opleiding:** opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs,](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) gericht op het behalen van een diploma havo of mavo als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) respectievelijk [artikel 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
+- *vavo-opleiding:* opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs,](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) gericht op het behalen van een diploma havo of mavo als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5) respectievelijk [artikel 2.6 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.6);
 
-- **vavo-instelling:** instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde vavo-opleidingen verzorgt;
+- *vavo-instelling:* instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1), voor zover zij bekostigde vavo-opleidingen verzorgt;
 
-- **vo-opleiding:**
+- *vo-opleiding:*
 
-- a. havo, mavo, vbo of praktijkonderwijs als bedoeld in de [artikelen 2.5 tot en met 2.8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5); of
+   - a. havo, mavo, vbo of praktijkonderwijs als bedoeld in de [artikelen 2.5 tot en met 2.8 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5); of
 
-- b. CCSLC, CSEC of CVQ als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
+   - b. CCSLC, CSEC of CVQ als bedoeld in [artikel 1 van het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&artikel=1);
 
-- **voedingsgebied:** postcodegebieden waarbinnen de leerlingen of studenten van de onderwijsinstellingen die deel uitmaken van een samenwerkingsverband woonachtig zijn;
+- *voedingsgebied:* postcodegebieden waarbinnen de leerlingen of studenten van de onderwijsinstellingen die deel uitmaken van een samenwerkingsverband woonachtig zijn;
 
-- **vso-opleiding:** voortgezet speciaal onderwijs in het uitstroomprofiel vervolgonderwijs als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), gericht op het behalen van een diploma havo, mavo of vbo als bedoeld in de [artikelen 2.5 tot en met 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
+- *vso-opleiding:* voortgezet speciaal onderwijs in het uitstroomprofiel vervolgonderwijs als bedoeld in [artikel 14a van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), gericht op het behalen van een diploma havo, mavo of vbo als bedoeld in de [artikelen 2.5 tot en met 2.7 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.5).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -152,29 +126,29 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - a. is het minimale totaalaantal studenten, genoemd in het vierde lid, onderdelen c en d, vijftien in plaats van dertig respectievelijk acht in plaats van vijftien, indien:
 
-- 1°. aan de aan het samenwerkingsverband deelnemende mbo-instellingen per mbo-instelling minder dan 10.000 studenten zijn ingeschreven; en
+   - 1°. aan de aan het samenwerkingsverband deelnemende mbo-instellingen per mbo-instelling minder dan 10.000 studenten zijn ingeschreven; en
 
-- 2°. de prognose is dat het aantal studenten aan elk van die mbo-instellingen tot 2037 met minimaal 5% zal afnemen;
+   - 2°. de prognose is dat het aantal studenten aan elk van die mbo-instellingen tot 2037 met minimaal 5% zal afnemen;
 
 - b. is het minimale aantal studenten dat afkomstig is van elke onderwijsinstelling, genoemd in het vierde lid, onderdelen c en d, alsmede het minimale uitval- en switchpercentage, genoemd in het vierde lid, onderdeel e, niet van toepassing op onderwijsinstellingen in Caribisch Nederland.
 
 7. De minister baseert zich voor de beoordeling:
 
-- a. van de aantallen en percentages, bedoeld in het vierde lid, onderdelen c tot en met f, en zesde lid, onderdeel a, onder 1°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [www.dus-i.nl](http://www.dus-i.nl); en
+- a. van de aantallen en percentages, bedoeld in het vierde lid, onderdelen c tot en met f, en zesde lid, onderdeel a, onder 1°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [www.dus-i.nl](http://www.dus-i.nl); en
 
-- b. van de prognose, bedoeld in het zesde lid, onderdeel a, onder 2°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp](https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp).
+- b. van de prognose, bedoeld in het zesde lid, onderdeel a, onder 2°: op de bij de minister bekende gegevens op 1 oktober van het jaar voorafgaand aan de aanvraag, die zijn te raadplegen op [https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp](https://duo.nl/open_onderwijsdata/middelbaar-beroepsonderwijs/aantal-studenten/studenten-mbo-tellingen-prognoses.jsp).
 
 ##### Artikel 4. Aanvraag subsidie
 
 1. De aanvraag kan worden ingediend:
 
-- a. in het kalenderjaar 2023: gedurende het aanvraagtijdvak van 1 juli 2023 tot en met 15 september 2023, voor subsidieverstrekking in het jaar 2023;
+- a. in het kalenderjaar 2023: gedurende het aanvraagtijdvak van 1 juli 2023 tot en met 15 september 2023, voor subsidieverstrekking in het jaar 2023;
 
-- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
+- b. in het kalenderjaar 2024: gedurende een eerste aanvraagtijdvak van 1 mei 2024 tot en met 31 mei 2024 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, gedurende een tweede aanvraagtijdvak van 15 augustus 2024 tot en met 15 september 2024 voor subsidieverstrekking in het jaar 2024; en
 
-- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025;
+- c. in het kalenderjaar 2025: gedurende een eerste aanvraagtijdvak van 1 mei 2025 tot en met 31 mei 2025 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2025 tot en met 15 september 2025 voor subsidieverstrekking in het jaar 2025;
 
-- d. in het kalenderjaar 2026: gedurende een eerste aanvraagtijdvak van 1 mei 2026 tot en met 31 mei 2026 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2026 tot en met 15 september 2026 voor subsidieverstrekking in het jaar 2026.
+- d. in het kalenderjaar 2026: gedurende een eerste aanvraagtijdvak van 1 mei 2026 tot en met 31 mei 2026 en, indien het subsidieplafond, bedoeld in [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=5&z=2026-01-01&g=2026-01-01), na behandeling van de aanvragen uit het eerste aanvraagtijdvak nog niet is bereikt, van 15 augustus 2026 tot en met 15 september 2026 voor subsidieverstrekking in het jaar 2026.
 
 2. De minister wijst aanvragen die zijn ingediend buiten de aanvraagtijdvakken, genoemd in het eerste lid, af.
 
@@ -188,13 +162,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 - d. een afschrift van de afspraken die de aan het samenwerkingsverband deelnemende onderwijsinstellingen met elkaar hebben gemaakt, minimaal bestaande uit afspraken over:
 
-- 1°. de wijze waarop de onderwijsinstellingen binnen het samenwerkingsverband met elkaar gaan samenwerken ten behoeve van de ontwikkeling, uitvoering en verduurzaming van de aansluitende opleidingsroute;
+   - 1°. de wijze waarop de onderwijsinstellingen binnen het samenwerkingsverband met elkaar gaan samenwerken ten behoeve van de ontwikkeling, uitvoering en verduurzaming van de aansluitende opleidingsroute;
 
-- 2°. de voorgenomen verdeling van de subsidiemiddelen tussen de onderwijsinstellingen binnen het samenwerkingsverband;
+   - 2°. de voorgenomen verdeling van de subsidiemiddelen tussen de onderwijsinstellingen binnen het samenwerkingsverband;
 
-- 3°. de wijze van informatieverstrekking en verantwoording aan de penvoerder door de overige onderwijsinstellingen binnen het samenwerkingsverband zodat de penvoerder aan de verplichtingen in deze regeling kan voldoen; en
+   - 3°. de wijze van informatieverstrekking en verantwoording aan de penvoerder door de overige onderwijsinstellingen binnen het samenwerkingsverband zodat de penvoerder aan de verplichtingen in deze regeling kan voldoen; en
 
-- 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
+   - 4°. het aanstellen van de coördinator, bedoeld in [artikel 3, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01);
 
 - e. een beschrijving, aan de hand van eisen, bedoeld in [artikel 3, derde lid, onderdelen a en c tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01), van de opbouw en inrichting van de huidige onderwijsprogramma’s van de opleidingen waarvoor de aansluitende opleidingsroute zal worden ontwikkeld.
 
@@ -206,13 +180,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 1. Voor subsidieverstrekking is:
 
-- a. in het kalenderjaar 2023 een bedrag van € 49,14 miljoen beschikbaar;
+- a. in het kalenderjaar 2023 een bedrag van € 49,14 miljoen beschikbaar;
 
-- b. in het kalenderjaar 2024 een bedrag van € 32,76 miljoen beschikbaar;
+- b. in het kalenderjaar 2024 een bedrag van € 32,76 miljoen beschikbaar;
 
-- c. in het kalenderjaar 2025 een bedrag van € 39,06 miljoen beschikbaar; en
+- c. in het kalenderjaar 2025 een bedrag van € 39,06 miljoen beschikbaar; en
 
-- d. in het kalenderjaar 2026 een bedrag van € 39,06 miljoen beschikbaar.
+- d. in het kalenderjaar 2026 een bedrag van € 39,06 miljoen beschikbaar.
 
 2. Indien het voor subsidieverstrekking beschikbare bedrag voor 2023 ontoereikend is om alle daarvoor in aanmerking komende aanvragen voor één aansluitende opleidingsroute te kunnen toewijzen, verdeelt de minister het beschikbare bedrag op volgorde van binnenkomst van de aanvragen.
 
@@ -222,7 +196,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 5. Indien na toepassing van het vierde lid nog middelen resteren, wordt het tweede lid, totdat het subsidieplafond is bereikt, telkens overeenkomstig toegepast voor penvoerders waaraan steeds eenmaal vaker eerder op grond van deze regeling subsidie is verstrekt.
 
-6. De subsidie bedraagt € 1.260.000,– per aansluitende opleidingsroute.
+6. De subsidie bedraagt € 1.260.000,– per aansluitende opleidingsroute.
 
 7. Een penvoerder kan in het kalenderjaar 2023 subsidie aanvragen voor maximaal twee aansluitende opleidingsroutes. Een penvoerder kan in de kalenderjaren 2024 en 2025 per aanvraagtijdvak subsidie aanvragen voor maximaal één aansluitende opleidingsroute.
 
@@ -230,7 +204,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 ##### Artikel 6. Subsidieverplichtingen
 
-1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01).
+1. De penvoerder informeert de minister binnen twee maanden na de vaststelling van de subsidie over wie de coördinator is, bedoeld in [artikel 3, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=3&z=2026-01-01&g=2026-01-01).
 
 2. Binnen drie jaar na de vaststelling van de subsidie:
 
@@ -242,7 +216,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 3. De penvoerder begint binnen één jaar na de vaststelling van de subsidie met uitvoering van de activiteiten.
 
-4. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2026-01-01&g=2026-01-01) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
+4. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048295&artikel=9&z=2026-01-01&g=2026-01-01) verstrekt de penvoerder namens alle aan het samenwerkingsverband deelnemende onderwijsinstellingen jaarlijks de volgende informatie aan de minister:
 
 - a. de status van de realisatie en de bijbehorende planning van de aansluitende opleidingsroute;
 
@@ -276,7 +250,7 @@ Als de activiteiten zijn uitgevoerd en aan de verplichtingen is voldaan, kan het
 
 1. De subsidie wordt direct vastgesteld binnen 13 weken na het sluiten van de desbetreffende aanvraagtermijn.
 
-2. De minister betaalt het subsidiebedrag in drie gelijke delen van € 420.000,– jaarlijks uit. De termijnen worden betaald:
+2. De minister betaalt het subsidiebedrag in drie gelijke delen van € 420.000,– jaarlijks uit. De termijnen worden betaald:
 
 - a. voor de aanvragen van 2023 in december;
 
@@ -300,10 +274,8 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing verkl
 
 1. Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling versterking aansluiting beroepsonderwijskolom.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

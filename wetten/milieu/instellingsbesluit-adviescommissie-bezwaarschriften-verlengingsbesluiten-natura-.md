@@ -1,48 +1,27 @@
 ---
 title: "instellingsbesluit adviescommissie bezwaarschriften verlengingsbesluiten Natura 2000-beheerplannen Deltawateren, Waddenzee en Noordzeekustzone"
 identifier: "BWBR0048260"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-06-13"
-last_updated: "2023-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048260"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16769093"
-version_id: "29451662"
-internal_id: "C42118851"
-label_id: "16684384"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048260/2023-06-13/0"
-intitule_bron: "Stcrt.2023-16267"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-06-12"
-intitule_in_force: "2023-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-16267"
-original_published_date: "2023-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-16267"
-entry_into_force_date: "2023-06-13"
-jci_1_3: "jci1.3:c:BWBR0048260&z=2023-06-13&g=2023-06-13"
-jci_1_0: "1.0:c:BWBR0048260&g=2023-06-13"
-citeertitel_status: "officieel"
-entry_into_force: "2023-06-13"
+publicatiedatum: 2023-06-13
+laatste_update: 2023-06-13
+status: geldig
+toestand: 2023-06-13
+bron: "https://wetten.overheid.nl/BWBR0048260"
+opgehaald: 2026-09-04
 ---
-# instellingsbesluit adviescommissie bezwaarschriften verlengingsbesluiten Natura 2000-beheerplannen Deltawateren, Waddenzee en Noordzeekustzone
 
-Besluit:
+# instellingsbesluit adviescommissie bezwaarschriften verlengingsbesluiten Natura 2000-beheerplannen Deltawateren, Waddenzee en Noordzeekustzone
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de minister:** De Minister van Infrastructuur en Waterstaat;
+- a. *de minister:* De Minister van Infrastructuur en Waterstaat;
 
-- b. **de adviescommissie:** de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13);
+- b. *de adviescommissie:* de commissie bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13);
 
-- c. **het ministerie:** het Ministerie van Infrastructuur en Waterstaat.
+- c. *het ministerie:* het Ministerie van Infrastructuur en Waterstaat.
 
 ##### Artikel 2. Instelling en taak
 
@@ -82,7 +61,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6. Instellingsduur
 
-De adviescommissie wordt ingesteld met ingang van 1 mei 2023 en wordt opgeheven één week nadat de adviescommissie haar adviezen als bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13) heeft uitgebracht.
+De adviescommissie wordt ingesteld met ingang van 1 mei 2023 en wordt opgeheven één week nadat de adviescommissie haar adviezen als bedoeld in [artikel 2 lid 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=2&z=2023-06-13&g=2023-06-13) heeft uitgebracht.
 
 ##### Artikel 7. Geheimhouding
 
@@ -90,12 +69,10 @@ Ieder lid van de adviescommissie, dat de beschikking krijgt over gegevens waarva
 
 ##### Artikel 8. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2023.
+1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2023.
 
 2. Dit besluit vervalt, behoudens verlenging bij besluit van de minister, op het moment dat de adviescommissie is opgeheven als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048260&artikel=6&z=2023-06-13&g=2023-06-13).
 
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: instellingsbesluit adviescommissie bezwaarschriften verlengingsbesluiten Natura 2000-beheerplannen Deltawateren, Waddenzee en Noordzeekustzone.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0032397"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Veiligheid en Justitie van 3 december 2012, DGPOL/Arbeidsvoorwaardenbeleid, nr. 327477, tot het structureel regelen van de nachtdienstontheffing (Regeling nachtdienstontheffing politie)

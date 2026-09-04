@@ -1,53 +1,28 @@
 ---
 title: "Nadere voorschriften inzake de werkwijze van het bestuur"
 identifier: "BWBR0048407"
-country: "nl"
-rank: "pbo"
-publication_date: "2023-07-17"
-last_updated: "2023-07-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048407"
+categorie: "Bestuursrecht"
 soort: "pbo"
-stam_id: "16805523"
-version_id: "29524552"
-internal_id: "C42210171"
-label_id: "16719124"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048407/2023-07-17/0"
-intitule_bron: "Stcrt.2023-19917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-04"
-intitule_published: "2023-07-17"
-intitule_in_force: "2023-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-19917"
-original_signed_date: "2023-07-04"
-original_published_date: "2023-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-19917"
-entry_into_force_date: "2023-07-17"
-jci_1_3: "jci1.3:c:BWBR0048407&z=2023-07-17&g=2023-07-17"
-jci_1_0: "1.0:c:BWBR0048407&g=2023-07-17"
-citeertitel_status: "officieel"
-signed_date: "2023-07-04"
-entry_into_force: "2023-07-17"
+publicatiedatum: 2023-07-17
+laatste_update: 2023-07-17
+status: geldig
+toestand: 2023-07-17
+bron: "https://wetten.overheid.nl/BWBR0048407"
+opgehaald: 2026-09-04
 ---
+
 # Nadere voorschriften inzake de werkwijze van het bestuur
-
-Gelet op [artikel 20 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=20);
-
-Stelt de volgende nadere voorschriften vast:
 
 ##### Artikel 1
 
 In deze nadere voorschriften wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- –. **accountant:** accountant als bedoeld in [artikel 29, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=29);
+- – *accountant:* accountant als bedoeld in [artikel 29, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=29);
 
-- –. **pbo-orgaan:** orgaan dat binnen de beroepsorganisatie belast is met het zo nodig bij wege van mandaat uitoefenen van taken die eigen zijn aan het publiekrechtelijke karakter van de beroepsorganisatie;
+- – *pbo-orgaan:* orgaan dat binnen de beroepsorganisatie belast is met het zo nodig bij wege van mandaat uitoefenen van taken die eigen zijn aan het publiekrechtelijke karakter van de beroepsorganisatie;
 
-- –. **verordening:** [verordening op het bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0033794);
+- – *verordening:*
+ [verordening op het bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0033794);
 
 ##### Artikel 2
 

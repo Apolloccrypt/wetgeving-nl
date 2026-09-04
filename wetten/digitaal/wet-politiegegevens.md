@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0022463"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Wet van 21 juli 2007, houdende regels inzake de verwerking van politiegegevens (Wet politiegegevens)

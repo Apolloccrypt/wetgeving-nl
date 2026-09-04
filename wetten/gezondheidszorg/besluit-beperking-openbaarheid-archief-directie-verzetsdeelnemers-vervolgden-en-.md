@@ -1,49 +1,21 @@
 ---
 title: "Besluit beperking openbaarheid archief Directie Verzetsdeelnemers, Vervolgden en Burgeroorlogsgetroffenen en Projectbureau Tegoeden Tweede Wereldoorlog Ministerie van Volksgezondheid, Welzijn en Sport en taakvoorgangers, 1946-2004 (2010)"
 identifier: "BWBR0048776"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-10-25"
-last_updated: "2023-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048776"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16889663"
-version_id: "29684602"
-internal_id: "C42506141"
-label_id: "16801634"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048776/2023-10-25/0"
-intitule_bron: "Stcrt.2023-28936"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-10"
-intitule_published: "2023-10-24"
-intitule_in_force: "2023-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-28936"
-original_signed_date: "2023-10-10"
-original_published_date: "2023-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-28936"
-entry_into_force_date: "2023-10-25"
-jci_1_3: "jci1.3:c:BWBR0048776&z=2023-10-25&g=2023-10-25"
-jci_1_0: "1.0:c:BWBR0048776&g=2023-10-25"
-citeertitel_status: "redactioneel"
-signed_date: "2023-10-10"
-entry_into_force: "2023-10-25"
+publicatiedatum: 2023-10-25
+laatste_update: 2023-10-25
+status: geldig
+toestand: 2023-10-25
+bron: "https://wetten.overheid.nl/BWBR0048776"
+opgehaald: 2026-09-04
 ---
+
 # Besluit beperking openbaarheid archief Directie Verzetsdeelnemers, Vervolgden en Burgeroorlogsgetroffenen en Projectbureau Tegoeden Tweede Wereldoorlog Ministerie van Volksgezondheid, Welzijn en Sport en taakvoorgangers, 1946-2004 (2010)
-
-Gelet op [artikel 15, lid 1, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15); [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 4 mei 2023, met kenmerk 37764889.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de Directie Verzetsdeelnemers, Vervolgden en Burgeroorlogsgetroffenen en Projectbureau Tegoeden Tweede Wereldoorlog van het Ministerie van Volksgezondheid, Welzijn en Sport en haar taakvoorgangers, 1946-2004 (2010).
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
 
 | Inventarisnummer: | beperkt openbaar tot 1 januari: |
 | --- | --- |

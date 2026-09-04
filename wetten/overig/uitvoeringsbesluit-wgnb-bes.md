@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 10 juli 2023, houdende regels ter uitvoering van de Wet grondslagen natuurbeheer- en bescherming BES, alsmede houdende wijziging van het Visserijbesluit BES in verband met het uitbreiden van verboden vistuigen en vistechnieken, redactionele verbeteringen en technische wijzigingen (Uitvoeringsbesluit Wgnb BES)"
+citeertitel: "Uitvoeringsbesluit Wgnb BES"
 identifier: "BWBR0048396"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2023-07-15"
-last_updated: "2023-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048396"
+categorie: "Milieu"
 soort: "AMvB-BES"
-stam_id: "16803133"
-version_id: "29520322"
-internal_id: "C42205471"
-label_id: "16716894"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048396/2023-07-15/0"
-intitule_bron: "Stb.2023-261"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-07-10"
-intitule_published: "2023-07-14"
-intitule_in_force: "2023-07-14"
-intitule_status: "goed"
-original_publication: "Stb.2023-261"
-original_signed_date: "2023-07-10"
-original_published_date: "2023-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-261"
-entry_into_force_date: "2023-07-15"
-jci_1_3: "jci1.3:c:BWBR0048396&z=2023-07-15&g=2023-07-15"
-jci_1_0: "1.0:c:BWBR0048396&g=2023-07-15"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit Wgnb BES"
-signed_date: "2023-07-10"
-entry_into_force: "2023-07-15"
+publicatiedatum: 2023-07-15
+laatste_update: 2023-07-15
+status: geldig
+toestand: 2023-07-15
+bron: "https://wetten.overheid.nl/BWBR0048396"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 10 juli 2023, houdende regels ter uitvoering van de Wet grondslagen natuurbeheer- en bescherming BES, alsmede houdende wijziging van het Visserijbesluit BES in verband met het uitbreiden van verboden vistuigen en vistechnieken, redactionele verbeteringen en technische wijzigingen (Uitvoeringsbesluit Wgnb BES)
-
-Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Natuur en Stikstof van 11 juli 2022, nr. WJZ/22271787;
-
-Gelet op de artikelen 5, 10 en 11 van het op 18 januari 1990 te Kingston getekende protocol betreffende de bijzondere beschermde gebieden en de in de natuur levende dieren en planten, met bijlagen (Trb. 1990, 115), behorende bij het op 24 maart 1983 te Cartagena de Indias gesloten Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied (Trb. 1983, 152);
-
-Gelet op [artikel 8a, derde lid, van de Wet grondslagen natuurbeheer- en bescherming BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=8a) en de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=4) en [12 van de Visserijwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&artikel=12);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 december 2022, no. W11.22.00092/IV);
-
-Gezien het nader rapport van Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Natuur en Stikstof van 6 juli 2023, nr. WJZ/33364356;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -54,13 +20,14 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
-- **haaien en roggen:** dieren van soorten behorend tot de familie van de Elasmobranchii;
+- *haaien en roggen:* dieren van soorten behorend tot de familie van de Elasmobranchii;
 
-- **Onze minister:** Onze Minister voor Natuur en Stikstof;
+- *Onze minister:* Onze Minister voor Natuur en Stikstof;
 
-- **wet:** [Wet grondslagen natuurbeheer- en bescherming BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028434);
+- *wet:*
+ [Wet grondslagen natuurbeheer- en bescherming BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028434);
 
-- **Yarari-reservaat:** gebied dat op grond van [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=2a) door Onze minister is ingesteld als natuurpark ten uitvoering van het SPAW-protocol, ten behoeve van dieren van walvisachtigen, haaien en roggen en hun leefgebieden, en dat de territoriale wateren van de openbare lichamen Saba, Sint-Eustatius en Bonaire omvat, alsmede de exclusieve economische zone van het Koninkrijk, als bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voor zover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
+- *Yarari-reservaat:* gebied dat op grond van [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=2a) door Onze minister is ingesteld als natuurpark ten uitvoering van het SPAW-protocol, ten behoeve van dieren van walvisachtigen, haaien en roggen en hun leefgebieden, en dat de territoriale wateren van de openbare lichamen Saba, Sint-Eustatius en Bonaire omvat, alsmede de exclusieve economische zone van het Koninkrijk, als bedoeld in [artikel 1 van de Rijkswet instelling exclusieve economische zone](https://wetten.overheid.nl/jci1.3:c:BWBR0010480&artikel=1), voor zover deze betrekking heeft op Bonaire, Sint Eustatius en Saba.
 
 2. In dit besluit en de daarop rustende bepalingen wordt mede verstaan onder verhandelen: aankopen, te koop vragen, verwerven voor commerciële doeleinden, tentoonstellen voor commerciële doeleinden, gebruik met winstoogmerk, verkopen, in bezit hebben met het oog op verkoop, ten verkoop aanbieden of vervoeren met het oog op verkoop, huren, verhuren, ruilen of ten ruil aanbieden.
 
@@ -90,9 +57,9 @@ Alle binnen het Yarari-reservaat van nature in het wild voorkomende soorten haai
 
 - a. die wetenschaps-, vormings- en beheersdoeleinden dienen:
 
-- 1°. met het oog op het voortbestaan van de haaien en roggen; of
+   - 1°. met het oog op het voortbestaan van de haaien en roggen; of
 
-- 2°. ter voorkoming van aanzienlijke schade aan het mariene milieu van het Yarari-reservaat; of
+   - 2°. ter voorkoming van aanzienlijke schade aan het mariene milieu van het Yarari-reservaat; of
 
 - b. van een bestuurscollege, een eilandsraad of een bestuursorgaan van het Rijk, indien de activiteiten in het belang van de volksgezondheid of de openbare veiligheid zijn.
 
@@ -114,7 +81,7 @@ Het is binnen het Yarari-reservaat verboden dieren van niet-inheemse soorten of 
 
 ##### Artikel 6
 
-Wijzigt het Visserijbesluit BES.
+*Wijzigt het Visserijbesluit BES.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -125,5 +92,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wgnb BES.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,60 +1,35 @@
 ---
 title: "Regeling van de Minister van Financiën van 8 mei 2023, 2023-0000109118, directie Financiële Markten, houdende regels ten behoeve van de betaalbaarstelling van schadeloosstelling aan rechthebbenden in verband met de nationalisatie van SNS Reaal N.V. en SNS Bank N.V. (Regeling uitbetaling schadeloosstelling onteigening SNS REAAL)"
+citeertitel: "Regeling uitbetaling schadeloosstelling onteigening SNS REAAL"
 identifier: "BWBR0048155"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-05-15"
-last_updated: "2023-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048155"
+categorie: "Financieel recht"
 soort: "ministeriele-regeling"
-stam_id: "16745033"
-version_id: "29402662"
-internal_id: "C42037761"
-label_id: "16661034"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048155/2023-05-15/0"
-intitule_bron: "Stcrt.2023-13576"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-08"
-intitule_published: "2023-05-12"
-intitule_in_force: "2023-05-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13576"
-original_signed_date: "2023-05-08"
-original_published_date: "2023-05-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13576"
-entry_into_force_date: "2023-05-15"
-jci_1_3: "jci1.3:c:BWBR0048155&z=2023-05-15&g=2023-05-15"
-jci_1_0: "1.0:c:BWBR0048155&g=2023-05-15"
-citeertitel_status: "officieel"
-short_title: "Regeling uitbetaling schadeloosstelling onteigening SNS REAAL"
-signed_date: "2023-05-08"
-entry_into_force: "2023-05-15"
+publicatiedatum: 2023-05-15
+laatste_update: 2023-05-15
+status: geldig
+toestand: 2023-05-15
+bron: "https://wetten.overheid.nl/BWBR0048155"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Financiën van 8 mei 2023, 2023-0000109118, directie Financiële Markten, houdende regels ten behoeve van de betaalbaarstelling van schadeloosstelling aan rechthebbenden in verband met de nationalisatie van SNS Reaal N.V. en SNS Bank N.V. (Regeling uitbetaling schadeloosstelling onteigening SNS REAAL)
-
-Gelet op [artikel 6:12, vijfde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:12);
-
-BESLUIT:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **recht:** recht op schadeloosstelling als bedoeld in [artikel 6:8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:8);
+- *recht:* recht op schadeloosstelling als bedoeld in [artikel 6:8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=6:8);
 
-- **rechthebbende:** houder van een recht;
+- *rechthebbende:* houder van een recht;
 
-- **Minister:** Minister van Financiën;
+- *Minister:* Minister van Financiën;
 
-- **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+- *wet:*
+ [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ##### Artikel 2. Toepassingsbereik
 
-Deze regeling is van toepassing op rechten die verband houden met het Besluit van de Minister van Financiën van 1 februari 2013 tot onteigening van effecten en vermogensbestanddelen SNS REAAL NV en SNS Bank NV in verband met de stabiliteit van het financiële stelsel, alsmede tot het treffen van onmiddellijke voorzieningen ten aanzien van SNS REAAL NV (Stcrt. 2013, 3018).
+Deze regeling is van toepassing op rechten die verband houden met het Besluit van de Minister van Financiën van 1 februari 2013 tot onteigening van effecten en vermogensbestanddelen SNS REAAL NV en SNS Bank NV in verband met de stabiliteit van het financiële stelsel, alsmede tot het treffen van onmiddellijke voorzieningen ten aanzien van SNS REAAL NV (Stcrt. 2013, 3018).
 
 ##### Artikel 3. Betaling
 
@@ -74,7 +49,7 @@ Deze regeling is van toepassing op rechten die verband houden met het Besluit va
 
 ##### Artikel 4. Girale procedure voor onteigende achtergestelde obligaties
 
-1. Een rechthebbende die, in verband met onteigende achtergestelde obligaties, informatie met betrekking tot het effectueren van zijn recht ontvangt via het girale systeem, doet binnen zes weken na 15 mei 2023 een aanvraag tot betaling door zich te registreren op het portaal [https://deals.is.kroll.com/snscompensation](onbekend) en deze aanvraag vervolgens ook te bevestigen via het girale systeem.
+1. Een rechthebbende die, in verband met onteigende achtergestelde obligaties, informatie met betrekking tot het effectueren van zijn recht ontvangt via het girale systeem, doet binnen zes weken na 15 mei 2023 een aanvraag tot betaling door zich te registreren op het portaal https://deals.is.kroll.com/snscompensation en deze aanvraag vervolgens ook te bevestigen via het girale systeem.
 
 2. De rechthebbende verstrekt daarbij alle informatie die redelijkerwijs noodzakelijk is voor de verificatie van zijn recht alsmede voor betaling van de schadeloosstelling.
 
@@ -82,7 +57,7 @@ Deze regeling is van toepassing op rechten die verband houden met het Besluit va
 
 ##### Artikel 5. Niet-girale procedure voor onteigende achtergestelde obligaties
 
-1. Een rechthebbende die, in verband met onteigende achtergestelde obligaties, geen informatie ontvangt via het girale systeem, doet binnen zes weken na 15 mei 2023 een aanvraag tot betaling door middel van registratie op het portaal [www.vergoedingsns.nl](onbekend) (Nederlands) of [www.compensationsns.nl](onbekend) (Engels).
+1. Een rechthebbende die, in verband met onteigende achtergestelde obligaties, geen informatie ontvangt via het girale systeem, doet binnen zes weken na 15 mei 2023 een aanvraag tot betaling door middel van registratie op het portaal www.vergoedingsns.nl (Nederlands) of www.compensationsns.nl (Engels).
 
 2. De rechthebbende verstrekt daarbij alle informatie die redelijkerwijs noodzakelijk is voor de verificatie van zijn recht alsmede voor betaling van de schadeloosstelling.
 
@@ -90,7 +65,7 @@ Deze regeling is van toepassing op rechten die verband houden met het Besluit va
 
 ##### Artikel 6. Procedure voor onteigende SNS Participatie Certificaten serie 3
 
-1. Een rechthebbende met onteigende SNS Participatie Certificaten serie 3, die op grond van de Schadevergoeding SNS Participatie Certificaten serie 3 in 2013 minder dan 90% van de nominale waarde zoals vastgesteld door de ondernemingskamer van het gerechtshof Amsterdam heeft ontvangen, doet op verzoek van de Minister binnen zes weken na 15 mei 2023 een aanvraag tot betaling.
+1. Een rechthebbende met onteigende SNS Participatie Certificaten serie 3, die op grond van de Schadevergoeding SNS Participatie Certificaten serie 3 in 2013 minder dan 90% van de nominale waarde zoals vastgesteld door de ondernemingskamer van het gerechtshof Amsterdam heeft ontvangen, doet op verzoek van de Minister binnen zes weken na 15 mei 2023 een aanvraag tot betaling.
 
 2. De Minister beschrijft in het verzoek hoe de aanvraag tot betaling ingediend kan worden.
 
@@ -100,7 +75,7 @@ Deze regeling is van toepassing op rechten die verband houden met het Besluit va
 
 ##### Artikel 7. Procedure voor onteigende vermogensbestanddelen
 
-1. Een rechthebbende met een recht als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048155&artikel=3&z=2023-05-15&g=2023-05-15), doet op verzoek van de Minister binnen zes weken na 15 mei 2023 een aanvraag tot betaling.
+1. Een rechthebbende met een recht als bedoeld in [artikel 3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048155&artikel=3&z=2023-05-15&g=2023-05-15), doet op verzoek van de Minister binnen zes weken na 15 mei 2023 een aanvraag tot betaling.
 
 2. De Minister beschrijft in het verzoek hoe de aanvraag tot betaling ingediend kan worden.
 
@@ -114,10 +89,8 @@ Voor de goede uitvoering van deze regeling kan bij de schriftelijke mededeling, 
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 15 mei 2023.
+Deze regeling treedt in werking met ingang van 15 mei 2023.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitbetaling schadeloosstelling onteigening SNS REAAL.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

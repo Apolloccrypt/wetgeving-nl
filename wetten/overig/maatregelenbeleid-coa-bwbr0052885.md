@@ -8,7 +8,7 @@ laatste_update: 2026-07-22
 status: geldig
 toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052885"
-opgehaald: 2026-07-31
+opgehaald: 2026-09-04
 ---
 
 # Maatregelenbeleid COA
@@ -170,7 +170,7 @@ Zeer grote impact
 
    - ○ gedrag met als doel de ander ernstige fysieke schade toe te brengen.
 
-### 4.2. waarbij geen verstrekkingen ingehouden worden
+### 4.2. Maatregelen waarbij geen verstrekkingen ingehouden worden
 
 Wanneer een bewoner onacceptabel gedrag vertoont, maar niet met zo’n grote impact dat verstrekkingen ingehouden moeten worden, kunnen minder verstrekkende maatregelen worden opgelegd. Het doel van deze maatregelen is gedragsverandering, het voorkomen van herhaling of verergering van gedrag. Daarvoor zijn meerdere mogelijkheden. De maatregelen kunnen aan iedere bewoner worden opgelegd, ongeacht waar de bewoner verblijft.
 

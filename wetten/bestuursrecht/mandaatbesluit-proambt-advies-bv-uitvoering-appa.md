@@ -1,48 +1,18 @@
 ---
-title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 oktober 2023, nr. 2023-0000038103, houdende mandaat, volmacht en machtiging PROambt Advies b.v"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 oktober 2023, nr. 2023-0000038103, houdende mandaat, volmacht en machtiging PROambt Advies b.v."
+citeertitel: "Mandaatbesluit PROambt Advies b.v. uitvoering Appa"
 identifier: "BWBR0048839"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-12-01"
-last_updated: "2023-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048839"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "16904973"
-version_id: "29709522"
-internal_id: "C42568311"
-label_id: "16816604"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048839/2023-12-01/0"
-intitule_bron: "Stcrt.2023-30013"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-24"
-intitule_published: "2023-11-03"
-intitule_in_force: "2023-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30013"
-original_signed_date: "2023-10-24"
-original_published_date: "2023-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30013"
-entry_into_force_date: "2023-12-01"
-jci_1_3: "jci1.3:c:BWBR0048839&z=2023-12-01&g=2023-12-01"
-jci_1_0: "1.0:c:BWBR0048839&g=2023-12-01"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit PROambt Advies b.v. uitvoering Appa"
-signed_date: "2023-10-24"
-entry_into_force: "2023-12-01"
+publicatiedatum: 2023-12-01
+laatste_update: 2023-12-01
+status: geldig
+toestand: 2023-12-01
+bron: "https://wetten.overheid.nl/BWBR0048839"
+opgehaald: 2026-09-04
 ---
-# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 oktober 2023, nr. 2023-0000038103, houdende mandaat, volmacht en machtiging PROambt Advies b.v
 
-Gelet op [artikel 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Gezien de overeenkomst tussen het Rijk en PROambt Advies b.v. tot uitvoering van de [Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) e.a., alsmede de opbouwadministratie, d.d. 4 oktober 2023;
-
-Gezien de instemming van dhr. J. van den As, directeur van PROambt Advies b.v. d.d. 10 oktober 2023;
-
-Besluit:
+# Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 oktober 2023, nr. 2023-0000038103, houdende mandaat, volmacht en machtiging PROambt Advies b.v.
 
 ##### Artikel 1
 
@@ -104,10 +74,8 @@ Dit besluit wordt aangehaald als: Mandaatbesluit PROambt Advies b.v. uitvoering 
 
 Het volgende besluit wordt ingetrokken:
 
-- a. het [Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 januari 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047811), nr. 2022-0000052638, houdende mandaat, volmacht en machtiging aan APG DWS en Fondsenbedrijf N.V. uitvoering Appa
+- a. het [Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 januari 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047811), nr. 2022-0000052638, houdende mandaat, volmacht en machtiging aan APG DWS en Fondsenbedrijf N.V. uitvoering Appa
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang met ingang 1 december 2023.
-
-Dit besluit wordt in de Staatscourant geplaatst.
+Dit besluit treedt in werking met ingang met ingang 1 december 2023.

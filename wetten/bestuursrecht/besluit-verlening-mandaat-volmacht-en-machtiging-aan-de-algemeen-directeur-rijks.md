@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening, van 1 september 2023, nr. 2023-0000416168, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van de subsidiëring vanuit het Nationale Groeifonds voor het programma Toekomstbestendige Leefomgeving"
+citeertitel: "Besluit verlening mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van de subsidiëring vanuit het Nationale Groeifonds voor het programma Toekomstbestendige Leefomgeving"
 identifier: "BWBR0048610"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-09-14"
-last_updated: "2023-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048610"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16855083"
-version_id: "29614972"
-internal_id: "C42368751"
-label_id: "16767234"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048610/2023-09-14/0"
-intitule_bron: "Stcrt.2023-25211"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-01"
-intitule_published: "2023-09-13"
-intitule_in_force: "2023-09-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-25211"
-original_signed_date: "2023-09-01"
-original_published_date: "2023-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-25211"
-entry_into_force_date: "2023-09-14"
-jci_1_3: "jci1.3:c:BWBR0048610&z=2023-09-14&g=2023-09-14"
-jci_1_0: "1.0:c:BWBR0048610&g=2023-09-14"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlening mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van de subsidiëring vanuit het Nationale Groeifonds voor het programma Toekomstbestendige Leefomgeving"
-signed_date: "2023-09-01"
-entry_into_force: "2023-09-14"
+publicatiedatum: 2023-09-14
+laatste_update: 2023-09-14
+status: geldig
+toestand: 2023-09-14
+bron: "https://wetten.overheid.nl/BWBR0048610"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening, van 1 september 2023, nr. 2023-0000416168, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van de subsidiëring vanuit het Nationale Groeifonds voor het programma Toekomstbestendige Leefomgeving
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat van 11 juli 2023, kenmerk MD202329INSTAC;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -65,5 +37,3 @@ gevolgd door de functieaanduiding, naam en handtekening van de gemandateerde, ge
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de directeur-generaal van de statistiek van 29 juni 2023 kenmerk CSB-2023-099, houdende instelling Personeelsraadgever CBS"
+citeertitel: "Besluit instelling Personeelsraadgever CBS"
 identifier: "BWBR0048628"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-09-20"
-last_updated: "2023-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048628"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16857923"
-version_id: "29622262"
-internal_id: "C42379091"
-label_id: "16770114"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048628/2023-09-20/0"
-intitule_bron: "Stcrt.2023-25572"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-29"
-intitule_published: "2023-09-19"
-intitule_in_force: "2023-09-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-25572"
-original_signed_date: "2023-06-29"
-original_published_date: "2023-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-25572"
-entry_into_force_date: "2023-09-20"
-jci_1_3: "jci1.3:c:BWBR0048628&z=2023-09-20&g=2023-09-20"
-jci_1_0: "1.0:c:BWBR0048628&g=2023-09-20"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling Personeelsraadgever CBS"
-signed_date: "2023-06-29"
-entry_into_force: "2023-09-20"
+publicatiedatum: 2023-09-20
+laatste_update: 2023-09-20
+status: geldig
+toestand: 2023-09-20
+bron: "https://wetten.overheid.nl/BWBR0048628"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de directeur-generaal van de statistiek van 29 juni 2023 kenmerk CSB-2023-099, houdende instelling Personeelsraadgever CBS
-
-Met instemming van het Georganiseerd Overleg,
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Medewerker:** degene die werkzaam is bij het Centraal Bureau voor de Statistiek;
+- 1. *Medewerker:* degene die werkzaam is bij het Centraal Bureau voor de Statistiek;
 
-- 2. **Personeelsraadgever CBS1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048628&artikel=2&z=2023-09-20&g=2023-09-20).
+- 2. *Personeelsraadgever CBS1Daar waar personeelsraadgever staat kan ook raadsman of raadsvrouw worden gelezen.:* de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048628&artikel=2&z=2023-09-20&g=2023-09-20).
 
 ##### Artikel 2
 
@@ -104,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8
 
-1. Dit besluit treedt in werking met ingang van 1 juli 2023.
+1. Dit besluit treedt in werking met ingang van 1 juli 2023.
 
 2. Conform het bepaalde in de CAO Rijk wordt deze regeling geëvalueerd.
 

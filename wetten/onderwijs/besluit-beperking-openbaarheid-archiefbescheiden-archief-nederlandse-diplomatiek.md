@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 28 juni 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordigingen in Vietnam, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013, Doc-Direkt (1963) 1975–2013, Besluit Beperking Openbaarheid, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden archief Nederlandse diplomatieke vertegenwoordigingen in Vietnam, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013"
 identifier: "BWBR0048358"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-07-07"
-last_updated: "2023-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048358"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16792433"
-version_id: "29497892"
-internal_id: "C42176881"
-label_id: "16707294"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048358/2023-07-07/0"
-intitule_bron: "Stcrt.2023-18597"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-28"
-intitule_published: "2023-07-06"
-intitule_in_force: "2023-07-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-18597"
-original_signed_date: "2023-06-28"
-original_published_date: "2023-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-18597"
-entry_into_force_date: "2023-07-07"
-jci_1_3: "jci1.3:c:BWBR0048358&z=2023-07-07&g=2023-07-07"
-jci_1_0: "1.0:c:BWBR0048358&g=2023-07-07"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden archief Nederlandse diplomatieke vertegenwoordigingen in Vietnam, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013"
-signed_date: "2023-06-28"
-entry_into_force: "2023-07-07"
+publicatiedatum: 2023-07-07
+laatste_update: 2023-07-07
+status: geldig
+toestand: 2023-07-07
+bron: "https://wetten.overheid.nl/BWBR0048358"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 28 juni 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordigingen in Vietnam, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013, Doc-Direkt (1963) 1975–2013, Besluit Beperking Openbaarheid, Ambassade Hanoi en CG Ho Chi Minhstad (1963) 1975–2013
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris 26 juni 2023, referentie 37892752;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -573,7 +545,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -601,5 +573,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Vietnam, ambassade Hanoi en CG Ho Chi Minhstad.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 20 april 2023, kenmerk 2696573, houdende beperking van de openbaarheid van de aanvulling op het archief van Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)"
+citeertitel: "Besluit beperking openbaarheid aanvulling archief Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)"
 identifier: "BWBR0048158"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-05-17"
-last_updated: "2023-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048158"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16745933"
-version_id: "29404412"
-internal_id: "C42042261"
-label_id: "16661874"
-dtd_version: "2.0"
-original_entry_into_force: "2023-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048158/2023-05-17/0"
-intitule_bron: "Stcrt.2023-12448"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-20"
-intitule_published: "2023-05-16"
-intitule_in_force: "2023-05-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-12448"
-original_signed_date: "2023-04-20"
-original_published_date: "2023-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-12448"
-entry_into_force_date: "2023-05-17"
-jci_1_3: "jci1.3:c:BWBR0048158&z=2023-05-17&g=2023-05-17"
-jci_1_0: "1.0:c:BWBR0048158&g=2023-05-17"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid aanvulling archief Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)"
-signed_date: "2023-04-20"
-entry_into_force: "2023-05-17"
+publicatiedatum: 2023-05-17
+laatste_update: 2023-05-17
+status: geldig
+toestand: 2023-05-17
+bron: "https://wetten.overheid.nl/BWBR0048158"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 20 april 2023, kenmerk 2696573, houdende beperking van de openbaarheid van de aanvulling op het archief van Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 17 maart 2023, met kenmerk 101310
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief van de Afdeling Politie, Bureaus Kabinet en Juridische Zaken, (1932) 1945–1952 (1968)
 
 ##### Artikel 1
 

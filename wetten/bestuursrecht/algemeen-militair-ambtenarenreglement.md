@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0003482"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Besluit van 25 februari 1982, houdende regelen betreffende de rechtstoestand van de militaire ambtenaren van de krijgsmacht

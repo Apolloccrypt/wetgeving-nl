@@ -5,11 +5,11 @@ identifier: "BWBR0052002"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-09-02
+laatste_update: 2026-09-03
 status: geldig
-toestand: 2026-09-02
+toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0052002"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling van de Minister van Economische Zaken, de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Klimaat en Groene Groei, van 13 december 2025, nr. WJZ/102735469, tot vaststelling van de subsidieplafonds en termijnen van openstelling van EZ-subsidie-instrumenten, LVVN-subsidie-instrumenten en KGG-subsidie-instrumenten (Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026) [KetenID WGK 28368]
@@ -70,6 +70,7 @@ opgehaald: 2026-09-03
 |  | 3.16.2 en 3.16.7 | MKB-ondernemer en innovatieve starter |  | 01-01-2026 t/m 31-12-2026 | € 3.000.000 |
 |  | 3.16.12 | Academische innovatieve starter, hbo-innovatieve starter en TO2- innovatieve starter |  | 06-01-2026 t/m 26-02-2026 | € 4.950.000 |
 |  | 3.16.12 | Academische innovatieve starter, hbo-innovatieve starter en TO2-innovatieve starter |  | 01-07-2026 t/m 01-09-2026 | € 4.950.000 |
+| Titel 3.18a: Mijn cyberweerbare zaak | 3.18a.2 |  |  | 07-09- 2026 t/m 30-11- 2026 | € 1.000.000 |
 | Titel 3.19: Duurzame innovatieve scheepsbouw | 3.19.2 |  |  | 12-03-2026 t/m 18-06-2026 | € 2.360.000 |
 |  | 3.19.2 |  |  | 30-06-2026 t/m 22-09-2026 | € 2.360.000 |
 | Titel 3.22: Thematische Technology Transfer | 3.22.2b, eerste lid |  | Thematisch technology transferplan gericht op defensie | 16-12-2025 t/m 15-04-2026 | € 13.800.000 |

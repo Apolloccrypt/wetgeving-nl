@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0015828"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Ministeriële regeling van 3 november 2003, nr. P/2003007139, afdeling Arbeidsvoorwaarden

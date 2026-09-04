@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Inspecteur-generaal van het onderwijs van 21 september 2023, nr. 41801739, houdende regels met betrekking tot het niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs en van het staatsexamen (Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023)"
+citeertitel: "Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023"
 identifier: "BWBR0048744"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-10-18"
-last_updated: "2023-10-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048744"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "16882123"
-version_id: "29671252"
-internal_id: "C42470701"
-label_id: "16794244"
-dtd_version: "2.0"
-original_entry_into_force: "2023-10-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048744/2023-10-18/0"
-intitule_bron: "Stcrt.2023-28371"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-21"
-intitule_published: "2023-10-17"
-intitule_in_force: "2023-10-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-28371"
-original_signed_date: "2023-09-21"
-original_published_date: "2023-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-28371"
-entry_into_force_date: "2023-10-18"
-jci_1_3: "jci1.3:c:BWBR0048744&z=2023-10-18&g=2023-10-18"
-jci_1_0: "1.0:c:BWBR0048744&g=2023-10-18"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023"
-signed_date: "2023-09-21"
-entry_into_force: "2023-10-18"
+publicatiedatum: 2023-10-18
+laatste_update: 2023-10-18
+status: geldig
+toestand: 2023-10-18
+bron: "https://wetten.overheid.nl/BWBR0048744"
+opgehaald: 2026-09-04
 ---
+
 # Beleidsregel van de Inspecteur-generaal van het onderwijs van 21 september 2023, nr. 41801739, houdende regels met betrekking tot het niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs en van het staatsexamen (Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 2.61 tweede lid WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61) en [artikel 2.82 derde lid WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.82);
-
-Besluit:
 
 #### Paragraaf 1. Algemeen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **College:** het College voor toetsen en examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
+- *College:* het College voor toetsen en examens, bedoeld in [artikel 2, eerste lid, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
 
-- **centraal examen:** het centraal examen, bedoeld in [artikel 2.56 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56);
+- *centraal examen:* het centraal examen, bedoeld in [artikel 2.56 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.56);
 
-- **centraal examen van het staatsexamen:** het centraal examen van het staatsexamen of deelstaatsexamen, bedoeld in [artikel 2.72 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72);
+- *centraal examen van het staatsexamen:* het centraal examen van het staatsexamen of deelstaatsexamen, bedoeld in [artikel 2.72 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72);
 
-- **examenreglement:** het examenreglement, bedoeld in [artikel 2.60 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.60) of [artikel 2.81 eerste lid van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81);
+- *examenreglement:* het examenreglement, bedoeld in [artikel 2.60 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.60) of [artikel 2.81 eerste lid van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.81);
 
-- **inspectie:** de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspectie:* de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **onregelmatigheid:** het niet op regelmatige wijze plaatsvinden van het centraal examen, in de gevallen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=2&artikel=2&z=2023-10-18&g=2023-10-18) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=3&artikel=7&z=2023-10-18&g=2023-10-18).
+- *onregelmatigheid:* het niet op regelmatige wijze plaatsvinden van het centraal examen, in de gevallen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=2&artikel=2&z=2023-10-18&g=2023-10-18) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=3&artikel=7&z=2023-10-18&g=2023-10-18).
 
 #### Paragraaf 2. Centraal examen in het voortgezet onderwijs
 
@@ -124,7 +98,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 2. Onderdeel a van het eerste lid is niet van toepassing op het cspe.
 
-##### Artikel 6. Specifiek onderzoek [artikel 15 Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15)
+##### Artikel 6. Specifiek onderzoek artikel 15 Wet op het onderwijstoezicht
 
 1. De inspectie kan, naast het geheel of gedeeltelijk opnieuw laten afnemen van het centraal examen, een onderzoek doen als bedoeld in artikel 15 van de Wet op het onderwijstoezicht.
 
@@ -193,5 +167,3 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel onregelmatigheden centraal 
 ##### Artikel 13. Inwerkingtreding beleidsregel
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

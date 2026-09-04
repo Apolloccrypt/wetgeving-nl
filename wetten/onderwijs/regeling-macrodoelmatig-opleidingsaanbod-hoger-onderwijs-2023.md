@@ -1,78 +1,53 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 april 2023, nr. HO&S/35600834, houdende nadere regels inzake de macrodoelmatigheid van het opleidingsaanbod in het hoger onderwijs (Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023)"
+citeertitel: "Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023"
 identifier: "BWBR0048105"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-29"
-last_updated: "2023-04-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048105"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16733033"
-version_id: "29374712"
-internal_id: "C41909441"
-label_id: "16649304"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048105/2023-04-29/0"
-intitule_bron: "Stcrt.2023-12161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-14"
-intitule_published: "2023-04-28"
-intitule_in_force: "2023-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-12161"
-original_signed_date: "2023-04-14"
-original_published_date: "2023-04-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-12161"
-entry_into_force_date: "2023-04-29"
-jci_1_3: "jci1.3:c:BWBR0048105&z=2023-04-29&g=2023-04-29"
-jci_1_0: "1.0:c:BWBR0048105&g=2023-04-29"
-citeertitel_status: "officieel"
-short_title: "Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023"
-signed_date: "2023-04-14"
-entry_into_force: "2023-04-29"
+publicatiedatum: 2023-04-29
+laatste_update: 2023-04-29
+status: geldig
+toestand: 2023-04-29
+bron: "https://wetten.overheid.nl/BWBR0048105"
+opgehaald: 2026-09-04
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 april 2023, nr. HO&S/35600834, houdende nadere regels inzake de macrodoelmatigheid van het opleidingsaanbod in het hoger onderwijs (Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023)
-
-Gelet op de [artikelen 2:15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15), en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikel 6.2 vierde en tiende lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **wet:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- a. *wet:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- b. **bestaand opleidingsaanbod:** het reeds bestaande opleidingsaanbod van alle bekostigde opleidingen tezamen, tenzij anders aangegeven;
+- b. *bestaand opleidingsaanbod:* het reeds bestaande opleidingsaanbod van alle bekostigde opleidingen tezamen, tenzij anders aangegeven;
 
-- c. **CDHO:** Commissie Doelmatigheid Hoger Onderwijs;
+- c. *CDHO:* Commissie Doelmatigheid Hoger Onderwijs;
 
-- d. **clusteraanvraag:** het tegelijkertijd aanvragen van een macrodoelmatigheidstoets voor meerdere, met elkaar samenhangende, opleidingen door één of meer instellingen;
+- d. *clusteraanvraag:* het tegelijkertijd aanvragen van een macrodoelmatigheidstoets voor meerdere, met elkaar samenhangende, opleidingen door één of meer instellingen;
 
-- e. **instelling:** een bekostigde instelling, opgenomen in de [bijlage van de wet onder a tot en met i](onbekend);
+- e. *instelling:* een bekostigde instelling, opgenomen in de [bijlage van de wet onder a tot en met i](https://wetten.overheid.nl/BWBR0005682);
 
-- f. **instellingsplan:** een instellingsplan, als bedoeld in [artikel 2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.2);
+- f. *instellingsplan:* een instellingsplan, als bedoeld in [artikel 2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.2);
 
-- g. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- g. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- h. **nevenvestiging:** een nevenvestiging als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17);
+- h. *nevenvestiging:* een nevenvestiging als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17);
 
-- i. **NVAO:** Nederlands-Vlaamse Accreditatieorganisatie;
+- i. *NVAO:* Nederlands-Vlaamse Accreditatieorganisatie;
 
-- j. **onbekostigde instelling:** rechtspersoon voor hoger onderwijs als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- j. *onbekostigde instelling:* rechtspersoon voor hoger onderwijs als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- k. **onbekostigde opleiding:** een associate degree-opleiding, een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of [7.3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b), waarvoor accreditatie is verleend die niet uit ’s Rijks kas wordt bekostigd;
+- k. *onbekostigde opleiding:* een associate degree-opleiding, een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a) of [7.3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3b), waarvoor accreditatie is verleend die niet uit ’s Rijks kas wordt bekostigd;
 
-- l. **opleiding:** een associate degree-opleiding, een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), waarvoor accreditatie is verleend en die bekostigd wordt aangeboden uit ’s Rijks kas;
+- l. *opleiding:* een associate degree-opleiding, een bacheloropleiding of een masteropleiding als bedoeld in [artikel 7.3a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3a), waarvoor accreditatie is verleend en die bekostigd wordt aangeboden uit ’s Rijks kas;
 
-- m. **m. profiel van de instelling:** de individuele onderscheidende inhoudelijke profielkeuzes van de instelling die zijn gemaakt in onderlinge regionale en sectorale afstemming met andere kennisinstellingen, het werkveld en andere maatschappelijke partners ten aanzien van het portfolio van opleidingen, onderzoeksgebieden (zwaartepunten) en de onderwijs- en onderzoeksvisie en daaruit voortvloeiende beleidskeuzes. Hierbij kan worden aangesloten bij hetgeen over de profiel van de instelling is opgenomen in het instellingsplan of ander strategisch plan (op instellingsniveau) van de instelling;
+- m. *m. profiel van de instelling:* de individuele onderscheidende inhoudelijke profielkeuzes van de instelling die zijn gemaakt in onderlinge regionale en sectorale afstemming met andere kennisinstellingen, het werkveld en andere maatschappelijke partners ten aanzien van het portfolio van opleidingen, onderzoeksgebieden (zwaartepunten) en de onderwijs- en onderzoeksvisie en daaruit voortvloeiende beleidskeuzes. Hierbij kan worden aangesloten bij hetgeen over de profiel van de instelling is opgenomen in het instellingsplan of ander strategisch plan (op instellingsniveau) van de instelling;
 
-- n. **RIO:** Registratie instellingen en opleidingen, als bedoeld in [artikel 6.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
+- n. *RIO:* Registratie instellingen en opleidingen, als bedoeld in [artikel 6.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13);
 
-- o. **verwant opleidingsaanbod:** verwante opleidingen komen inhoudelijk sterk met elkaar overeen en leiden op tot (min of meer) dezelfde beroepen.Daarbij kan het zowel gaan om bekostigde opleidingen als om geaccrediteerd onbekostigde opleidingen dat onder vergelijkbare condities wordt aangeboden.
+- o. *verwant opleidingsaanbod:* verwante opleidingen komen inhoudelijk sterk met elkaar overeen en leiden op tot (min of meer) dezelfde beroepen.Daarbij kan het zowel gaan om bekostigde opleidingen als om geaccrediteerd onbekostigde opleidingen dat onder vergelijkbare condities wordt aangeboden.
 
 ##### Artikel 2. Instellingen en reikwijdte
 
@@ -82,13 +57,13 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 ##### Artikel 3. Kenbaar maken voornemen tot aanvraag nieuwe opleiding
 
-1. Het instellingsbestuur maakt zoveel als mogelijk aan de CDHO het voornemen tot het starten van een nieuwe opleiding kenbaar voorafgaand aan de aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=2&artikel=4&z=2023-04-29&g=2023-04-29), tenzij het een clusteraanvraag in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=8&z=2023-04-29&g=2023-04-29) betreft.
+1. Het instellingsbestuur maakt zoveel als mogelijk aan de CDHO het voornemen tot het starten van een nieuwe opleiding kenbaar voorafgaand aan de aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=2&artikel=4&z=2023-04-29&g=2023-04-29), tenzij het een clusteraanvraag in de zin van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=8&z=2023-04-29&g=2023-04-29) betreft.
 
-2. Het instellingsbestuur kan het voornemen tot een aanvraag nieuwe opleiding ieder kalenderjaar uiterlijk op 15 maart respectievelijk 15 september kenbaar maken ten behoeve van publicatie door de CDHO.
+2. Het instellingsbestuur kan het voornemen tot een aanvraag nieuwe opleiding ieder kalenderjaar uiterlijk op 15 maart respectievelijk 15 september kenbaar maken ten behoeve van publicatie door de CDHO.
 
-3. De CDHO publiceert uiterlijk op 31 maart en 30 september van ieder kalenderjaar een overzicht op haar website van de door haar in de zes maanden daarvoor ontvangen voornemens.
+3. De CDHO publiceert uiterlijk op 31 maart en 30 september van ieder kalenderjaar een overzicht op haar website van de door haar in de zes maanden daarvoor ontvangen voornemens.
 
-4. Nadat het voornemen door de CDHO is gepubliceerd, dient het instellingsbestuur binnen 12 maanden de aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=2&artikel=4&z=2023-04-29&g=2023-04-29) in.
+4. Nadat het voornemen door de CDHO is gepubliceerd, dient het instellingsbestuur binnen 12 maanden de aanvraag als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=2&artikel=4&z=2023-04-29&g=2023-04-29) in.
 
 5. Bij een voornemen, als bedoeld in het eerste lid, wordt vermeld:
 
@@ -122,7 +97,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 ##### Artikel 6. Criteria voor het starten van een nieuwe opleiding
 
-1. De minister stemt in ieder geval in met een voornemen tot het verzorgen van een nieuwe opleiding in de zin van [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) indien het instellingsbestuur heeft aangetoond dat:
+1. De minister stemt in ieder geval in met een voornemen tot het verzorgen van een nieuwe opleiding in de zin van [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) indien het instellingsbestuur heeft aangetoond dat:
 
 - a. de arbeidsmarkt behoefte heeft aan de opleiding, en
 
@@ -140,15 +115,15 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 ##### Artikel 7. Aanvullend criterium wo-opleidingen bij hogescholen en hbo-opleidingen bij universiteiten
 
-1. Indien een hogeschool voornemens is om een wo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een universiteit.
+1. Indien een hogeschool voornemens is om een wo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een universiteit.
 
-2. Indien een universiteit voornemens is om een hbo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een hogeschool.
+2. Indien een universiteit voornemens is om een hbo-opleiding te verzorgen, toont het instellingsbestuur, in aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29), aan dat er sprake is van een langdurige samenwerking met een hogeschool.
 
 ##### Artikel 8. Vrijstelling van de individuele macrodoelmatigheidstoets door middel van een clusteraanvraag
 
-1. Indien een clusteraanvraag wordt ingediend, vindt er geen individuele macrodoelmatigheidstoets plaats en is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) niet van toepassing op de opleidingen die onderdeel zijn van de clusteraanvraag indien:
+1. Indien een clusteraanvraag wordt ingediend, vindt er geen individuele macrodoelmatigheidstoets plaats en is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) niet van toepassing op de opleidingen die onderdeel zijn van de clusteraanvraag indien:
 
-- a. in de clusteraanvraag een paragraaf over de macrodoelmatigheid van het opleidingsaanbod in de sector is opgenomen, waarin is aangegeven welke nieuwe opleidingen de betrokken instellingen in de sector voornemens zijn te starten en waarin de criteria van [artikel 6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) worden onderbouwd;
+- a. in de clusteraanvraag een paragraaf over de macrodoelmatigheid van het opleidingsaanbod in de sector is opgenomen, waarin is aangegeven welke nieuwe opleidingen de betrokken instellingen in de sector voornemens zijn te starten en waarin de criteria van [artikel 6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) worden onderbouwd;
 
 - b. aantoonbaar landelijk is samengewerkt tussen alle betrokken instellingen in de sector, met andere instellingen met verwant bekostigd opleidingsaanbod, met het werkveld en maatschappelijke partners, waaronder de koepels van universiteiten en hogescholen, en
 
@@ -162,13 +137,13 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 ##### Artikel 9. Instemming met het (gedeeltelijk) verzorgen van een bestaande opleiding op een nieuwe vestigingsplaats
 
-1. De minister stemt in met een voornemen voor een (gedeeltelijke) nevenvestiging van een bestaande opleiding als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) indien voldaan is aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29).
+1. De minister stemt in met een voornemen voor een (gedeeltelijke) nevenvestiging van een bestaande opleiding als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) indien voldaan is aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29).
 
-2. De minister stemt in met een voornemen voor een (gedeeltelijke) verplaatsing van een bestaande opleiding als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) indien het instellingsbestuur aantoont dat de verplaatsing geen nadelige gevolgen heeft voor de spreiding van het landelijke opleidingsaanbod.
+2. De minister stemt in met een voornemen voor een (gedeeltelijke) verplaatsing van een bestaande opleiding als bedoeld in [artikel 7.17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.17) indien het instellingsbestuur aantoont dat de verplaatsing geen nadelige gevolgen heeft voor de spreiding van het landelijke opleidingsaanbod.
 
 3. In geval van het gedeeltelijk verzorgen van een opleiding buiten een vestigingsplaats daarvan is de instemming van de minister enkel nodig indien:
 
-- a. minimaal de propedeutische fase of de eerste 60 studiepunten van een opleiding in een nieuwe vestigingsplaats wordt verzorgd;
+- a. minimaal de propedeutische fase of de eerste 60 studiepunten van een opleiding in een nieuwe vestigingsplaats wordt verzorgd;
 
 - b. minimaal een afstudeerrichting in een nieuwe vestigingsplaats wordt verzorgd;
 
@@ -178,9 +153,9 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 4. De in het vorige lid bij onderdelen c en d genoemde normen hebben geen betrekking op de situatie van een student die:
 
-- –. het beroepsuitoefeningsdeel van een duale opleiding op individuele basis in een of meer andere gemeentes doorloopt; of
+- – het beroepsuitoefeningsdeel van een duale opleiding op individuele basis in een of meer andere gemeentes doorloopt; of
 
-- –. een deeltijdse opleiding volgt en met wie op individuele basis een overeenkomst is gesloten die vergelijkbaar is met de overeenkomst als bedoeld in [artikel 7.7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7).
+- – een deeltijdse opleiding volgt en met wie op individuele basis een overeenkomst is gesloten die vergelijkbaar is met de overeenkomst als bedoeld in [artikel 7.7, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7).
 
 #### Paragraaf 5. Samenvoegen van bestaande opleidingen
 
@@ -188,7 +163,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 1. De minister stemt, zonder een macrodoelmatigheidstoets, in met het voornemen om bestaande opleidingen samen te voegen tot:
 
-- a. een gezamenlijke opleiding als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c), indien het voornemen volgens het oordeel van de NVAO niet leidt tot het verzorgen van een nieuwe opleiding; of
+- a. een gezamenlijke opleiding als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c), indien het voornemen volgens het oordeel van de NVAO niet leidt tot het verzorgen van een nieuwe opleiding; of
 
 - b. een verbrede opleiding, indien het volgens het oordeel van de NVAO niet leidt tot het verzorgen van een nieuwe opleiding.
 
@@ -196,7 +171,7 @@ Deze regeling is van toepassing op universiteiten, hogescholen, de Open Universi
 
 3. De in het eerste lid genoemde instemming wordt niet verleend als:
 
-- a. een of meer van de samen te voegen opleidingen gericht is op een bepaald beroep waarvoor, als bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.6), beroepsvereisten gelden en de samengevoegde opleiding niet meer voldoet aan deze vereisten; of
+- a. een of meer van de samen te voegen opleidingen gericht is op een bepaald beroep waarvoor, als bedoeld in [artikel 7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.6), beroepsvereisten gelden en de samengevoegde opleiding niet meer voldoet aan deze vereisten; of
 
 - b. de NVAO heeft besloten dat geen accreditatie wordt verleend.
 
@@ -208,15 +183,15 @@ De aanvraag tot samenvoeging gaat vergezeld van de volgende informatie:
 
 - b. de beoogde startdatum van de samengevoegde opleiding en, voor zover noodzakelijk, de redelijke termijn waarbinnen de studenten de oorspronkelijke opleiding kunnen afronden;
 
-- c. indien de nadere vooropleidingseisen, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25) en [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a) en, voor zover van toepassing, de aanvullende eisen, bedoeld in [artikel 7.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26), van de samen te voegen opleidingen verschillen, een voorstel van het instellingsbestuur voor de nieuw te stellen eisen indienen, en
+- c. indien de nadere vooropleidingseisen, bedoeld in [artikel 7.25](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25) en [artikel 7.25a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.25a) en, voor zover van toepassing, de aanvullende eisen, bedoeld in [artikel 7.26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.26), van de samen te voegen opleidingen verschillen, een voorstel van het instellingsbestuur voor de nieuw te stellen eisen indienen, en
 
-- d. of het instellingsbestuur gebruik wil maken van de in [artikel 6.2, vijfde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) genoemde mogelijkheid om de verbrede opleiding zonder instemming van de minister ten hoogste vijf jaar na de start van de opleiding geheel of gedeeltelijk te splitsen in de oorspronkelijke opleidingen.
+- d. of het instellingsbestuur gebruik wil maken van de in [artikel 6.2, vijfde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.2) genoemde mogelijkheid om de verbrede opleiding zonder instemming van de minister ten hoogste vijf jaar na de start van de opleiding geheel of gedeeltelijk te splitsen in de oorspronkelijke opleidingen.
 
 #### Paragraaf 6. Gezamenlijk verzorgen van een nieuwe opleiding of afstudeerrichting
 
 ##### Artikel 12. Criteria voor het gezamenlijk verzorgen van een nieuwe opleiding
 
-De minister stemt in met een voornemen tot het gezamenlijk verzorgen van een nieuwe opleiding of een afstudeerrichting als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c) indien is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) van deze regeling.
+De minister stemt in met een voornemen tot het gezamenlijk verzorgen van een nieuwe opleiding of een afstudeerrichting als bedoeld in [artikel 7.3c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3c) indien is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048105&paragraaf=3&artikel=6&z=2023-04-29&g=2023-04-29) van deze regeling.
 
 #### Paragraaf 7. Overgangs- en slotbepalingen
 
@@ -231,5 +206,3 @@ Onder gelijktijdige intrekking van de [Regeling macrodoelmatigheid hoger onderwi
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling macrodoelmatig opleidingsaanbod hoger onderwijs 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

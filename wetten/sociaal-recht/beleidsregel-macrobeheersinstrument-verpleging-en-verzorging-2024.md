@@ -1,75 +1,47 @@
 ---
 title: "Beleidsregel macrobeheersinstrument verpleging en verzorging 2024"
 identifier: "BWBR0048538"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048538"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16834183"
-version_id: "29577072"
-internal_id: "C42278191"
-label_id: "16746694"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048538/2024-01-01/0"
-intitule_bron: "Stcrt.2023-19098"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-27"
-intitule_published: "2023-07-11"
-intitule_in_force: "2023-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-19098"
-original_signed_date: "2023-06-27"
-original_published_date: "2023-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-19098"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048538&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0048538&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2023-06-27"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0048538"
+opgehaald: 2026-09-04
 ---
+
 # Beleidsregel macrobeheersinstrument verpleging en verzorging 2024
-
-Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van artikel 50, tweede lid, van de Wmg.
-
-Gelet op [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) worden grenzen, die uit deze beleidsregel voortvloeien, ambtshalve door de NZa vastgesteld.
-
-Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brief van 16 juli 2014, kenmerk 378012-121397-MC, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van artikel 7 van de Wmg aan de NZa gegeven.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- **algemeen gegevensbeheer code (AGB-code):** unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.
+- *algemeen gegevensbeheer code (AGB-code):* unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.
 
-- **Budgettair kader zorg:** door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg.
+- *Budgettair kader zorg:* door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg.
 
-- **doelbedrag:** het totaalbedrag dat door de NZa moet worden teruggehaald bij alle aanbieders van verpleging en verzorging, indien de Minister besluit dat een bedrag moet worden teruggehaald. Dit doelbedrag staat in de realisatiebrief.
+- *doelbedrag:* het totaalbedrag dat door de NZa moet worden teruggehaald bij alle aanbieders van verpleging en verzorging, indien de Minister besluit dat een bedrag moet worden teruggehaald. Dit doelbedrag staat in de realisatiebrief.
 
-- **gerealiseerde omzet:** de omzet in 2024 verkregen uit declaratie van de prestaties verpleging en verzorging.
+- *gerealiseerde omzet:* de omzet in 2024 verkregen uit declaratie van de prestaties verpleging en verzorging.
 
-- **kaderbrief:** de brief die de NZa in 2023 ontvangt van de Minister, met daarin voor 2024 de macro-omzetgrens.
+- *kaderbrief:* de brief die de NZa in 2023 ontvangt van de Minister, met daarin voor 2024 de macro-omzetgrens.
 
-- **macrobeheersinstrument:** instrument waarmee op grond van [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), en [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd.
+- *macrobeheersinstrument:* instrument waarmee op grond van [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), en [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd.
 
-- **macro-omzetgrens:** de bovengrens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
+- *macro-omzetgrens:* de bovengrens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-- **Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- *Minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
-- **prestaties verpleging en verzorging:** de prestaties waarvan de totaal gedeclareerde bedragen gezamenlijk als uitgangspunt dienen voor het macrobeheersinstrument. Hieronder vallen de prestaties als omschreven in de [Beleidsregel verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048536), alsmede de prestaties op basis van de [Beleidsregel experiment cliëntprofielen verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048537), de [Beleidsregel regiefunctie complexe wondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0046868) en de [Beleidsregel verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047292).
+- *prestaties verpleging en verzorging:* de prestaties waarvan de totaal gedeclareerde bedragen gezamenlijk als uitgangspunt dienen voor het macrobeheersinstrument. Hieronder vallen de prestaties als omschreven in de [Beleidsregel verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048536), alsmede de prestaties op basis van de [Beleidsregel experiment cliëntprofielen verpleging en verzorging](https://wetten.overheid.nl/jci1.3:c:BWBR0048537), de [Beleidsregel regiefunctie complexe wondzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0046868) en de [Beleidsregel verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047292).
 
-- **realisatiebrief:** de brief die de NZa ontvangt van de Minister na afloop van 2024, met daarin het besluit of het kader is overschreden en, zo ja, welk doelbedrag door de NZa moet worden teruggehaald.
+- *realisatiebrief:* de brief die de NZa ontvangt van de Minister na afloop van 2024, met daarin het besluit of het kader is overschreden en, zo ja, welk doelbedrag door de NZa moet worden teruggehaald.
 
-- **zorgaanbieder:** de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én die houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument.
+- *zorgaanbieder:* de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én die houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument.
 
-- **zorgverzekeraar:** een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+- *zorgverzekeraar:* een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-- **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
+- *Zorgverzekeringsfonds:* het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -111,7 +83,7 @@ Deze beleidsregel is ook van toepassing op intensieve kindzorg en daarmee gepaar
 
 9. De NZa neemt bij de toerekening voor het bepalen van de hoogte van de omzet het volgende onderdeel mee:
 
-- –. de gerealiseerde omzet uit de prestaties verpleging en verzorging.
+- – de gerealiseerde omzet uit de prestaties verpleging en verzorging.
 
 10. De NZa legt in de [Regeling macrobeheersinstrument verpleging en verzorging 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048333) vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
@@ -123,10 +95,14 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsrege
 
 ##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
+Inwerkingtreding / Bekendmaking
+
+Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst.
 
-De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](onbekend).
+De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op www.nza.nl.
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel macrobeheersinstrument verpleging en verzorging 2024.

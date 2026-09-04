@@ -1,62 +1,31 @@
 ---
 title: "Besluit van 22 juni 2023, houdende vaststelling van regels omtrent experimenten voor een pensioenregeling voor zelfstandigen (Besluit experiment pensioenregeling zelfstandigen)"
+citeertitel: "Besluit experiment pensioenregeling zelfstandigen"
 identifier: "BWBR0048326"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048326"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "16785223"
-version_id: "29481842"
-internal_id: "C42156701"
-label_id: "16700354"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048326/2026-01-01/0"
-intitule_bron: "Stb.2023-221"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-22"
-intitule_published: "2023-06-30"
-intitule_in_force: "2023-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2023-221"
-original_signed_date: "2023-06-22"
-original_published_date: "2023-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-221"
-entry_into_force_date: "2023-07-01"
-jci_1_3: "jci1.3:c:BWBR0048326&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0048326&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment pensioenregeling zelfstandigen"
-signed_date: "2023-06-22"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0048326"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 22 juni 2023, houdende vaststelling van regels omtrent experimenten voor een pensioenregeling voor zelfstandigen (Besluit experiment pensioenregeling zelfstandigen)
-
-Op de voordracht van Onze Minister voor Armoedebeleid, Participatie en Pensioenen van 24 februari, 2023-0000100036;
-
-Gelet op [artikel 150a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=150a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 12 april 2023, nr. W12.23.00041/III);
-
-Gezien het nader rapport van Onze Minister voor Armoedebeleid, Participatie en Pensioenen van 19 juni 2023, nr. 2023-000032463;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **derdepijlerlijfrente:** fiscaal gefaciliteerd product als bedoeld in de [artikelen 3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125) en [3.126a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), die niet voortkomt uit een arbeidsrechtelijke overeenkomst en waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) niet van toepassing zijn, met als doel het genereren van pensioeninkomen voor de zelfstandige;
+- a. *derdepijlerlijfrente:* fiscaal gefaciliteerd product als bedoeld in de [artikelen 3.125](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.125) en [3.126a van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.126a), die niet voortkomt uit een arbeidsrechtelijke overeenkomst en waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) en de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092) niet van toepassing zijn, met als doel het genereren van pensioeninkomen voor de zelfstandige;
 
-- b. **experiment:** tijdelijke mogelijkheid om een pensioenregeling als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) aan zelfstandigen te bieden om op basis daarvan sparen voor de oude dag door zelfstandigen te stimuleren;
+- b. *experiment:* tijdelijke mogelijkheid om een pensioenregeling als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) aan zelfstandigen te bieden om op basis daarvan sparen voor de oude dag door zelfstandigen te stimuleren;
 
-- c. **wet:** [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809);
+- c. *wet:*
+ [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809);
 
-- d. **zelfstandige:** een zelfstandige of een directeur-grootaandeelhouder in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809).
+- d. *zelfstandige:* een zelfstandige of een directeur-grootaandeelhouder in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809).
 
 ##### Artikel 2. Openstellen pensioenregeling
 
@@ -196,9 +165,9 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. in afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=65) is het recht op afkoop klein ouderdomspensioen, bedoeld in [artikel 66, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66), van overeenkomstige toepassing waarbij in afwijking hiervan:
 
-- 1°. uitsluitend de pensioenaanspraak opgebouwd als zelfstandige in het kader van dit experiment gehanteerd wordt voor de vaststelling of de opgebouwde pensioenaanspraak op ouderdomspensioen minder bedraagt dan het in het [eerste lid, onderdeel a, van artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) genoemde bedrag; en
+   - 1°. uitsluitend de pensioenaanspraak opgebouwd als zelfstandige in het kader van dit experiment gehanteerd wordt voor de vaststelling of de opgebouwde pensioenaanspraak op ouderdomspensioen minder bedraagt dan het in het [eerste lid, onderdeel a, van artikel 66 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66) genoemde bedrag; en
 
-- 2°. de pensioenuitvoerder binnen een jaar na einde van het experiment ten minste eenmaal tevergeefs gepoogd heeft de overdrachtswaarde van een zelfstandige over te dragen als bedoeld in [artikel 70a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a);
+   - 2°. de pensioenuitvoerder binnen een jaar na einde van het experiment ten minste eenmaal tevergeefs gepoogd heeft de overdrachtswaarde van een zelfstandige over te dragen als bedoeld in [artikel 70a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70a);
 
 - c. in afwijking van [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70) is de pensioenuitvoerder verplicht om na een verzoek van de zelfstandige tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken rechtstreeks over te dragen aan een andere pensioenuitvoerder indien de zelfstandige reeds pensioenaanspraken heeft bij de ontvangende pensioenuitvoerder, tenzij sprake is van een van de in de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=72), [72a](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=72a) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=73) omschreven situaties; en
 
@@ -238,7 +207,7 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van 1 juli 2023.
+1. Dit besluit treedt in werking met ingang van 1 juli 2023.
 
 2. Dit besluit vervalt op een bij koninklijk besluit te bepalen tijdstip dat niet later ligt dan vijf jaar na het tijdstip van inwerkingtreding.
 
@@ -247,5 +216,3 @@ In afwijking van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment pensioenregeling zelfstandigen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

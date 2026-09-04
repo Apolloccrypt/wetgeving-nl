@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering 138aa Sr (uithalers)"
 identifier: "BWBR0048568"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048568"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "16841893"
-version_id: "29590892"
-internal_id: "C42323621"
-label_id: "16754244"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048568/2023-09-01/0"
-intitule_bron: "Stcrt.2023-22687"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-08-28"
-intitule_in_force: "2023-08-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-22687"
-original_published_date: "2023-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-22687"
-entry_into_force_date: "2023-09-01"
-jci_1_3: "jci1.3:c:BWBR0048568&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0048568&g=2023-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-09-01"
+publicatiedatum: 2023-09-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0048568"
+opgehaald: 2026-09-04
 ---
+
 # Richtlijn voor strafvordering 138aa Sr (uithalers)
 
 ### Beschrijving
@@ -40,15 +21,24 @@ Deze richtlijn kent een eigen recidiveregeling.
 
 ### Basiscasus/delict
 
-**Afkortingen**
+| Art. 138aa SR | First offender | 1x recidive** | Meermalen recidive** |  |
+| --- | --- | --- | --- | --- |
+| Lid 1 (verblijven) | GS 4 mnd + Locatieverbod* 3 jaar | 5j | GS 5 mnd + Locatieverbod* 4 jaar | GS 11 mnd ov + Locatieverbod* 5 jaar |
+| 2j | GS 6 mnd + Locatieverbod* 4 jaar |  |  |  |
+| Lid 2 (toegang verschaft door) | GS 6 – 8 mnd + Locatieverbod* 3 jaar | 5j | GS 7 – 9 mnd + Locatieverbod* 4 jaar | GS 14 mnd ov + Locatieverbod* 5 jaar |
+| 2j | GS 8 – 10 mnd + Locatieverbod* 4 jaar |  |  |  |
+| Lid 3 (Medeplegen of ook al toegang verschaft tot container, gebouw of ruimte) | + 1/3e |  | +1/3e | +1/3e |
+| Bijzonderheden Uitgangspunt is tevens dat de (totale) schade is /wordt vergoed. * Betreft de vordering op zitting van een 38v SR-maatregel met daarin een locatieverbod voor de duur van 3 jaar (of 4 jaar bij recidive of 5 jaar bij meermalen recidive), per overtreding hiervan twee weken vervangende hechtenis, max 6 maanden + een DUT van deze 38v maatregel (voorbeeldtekst: ‘waarbij verdachte wordt verboden zich op te houden op een haven van Rotterdam en/of heel Nederland zoals bijgevoegde kaartjes’) ** Er is o.a. sprake van recidive ingeval van: – 138aa Sr – 461 Sr op een haven- of luchthaventerrein – 184/184a Sr overtreden gedragsaanwijzing op het haven- of luchthaventerrein – Art. 2B/2C/10 Opiumwet, n.b.: alleen op het haven- of luchthaventerrein /in- uitvoer gerelateerd! Strafverminderend onder andere: Poging of medeplichtigheid (– 1/3e) |  |  |  |  |
+
+*Afkortingen*
 
 GS = gevangenisstraf
 
 ov = onvoorwaardelijk
 
-5j = recidive binnen 5 jaar
+5j = recidive binnen 5 jaar
 
-2j = recidive binnen 2 jaar
+2j = recidive binnen 2 jaar
 
 DUT = dadelijke uitvoerbaarheid
 

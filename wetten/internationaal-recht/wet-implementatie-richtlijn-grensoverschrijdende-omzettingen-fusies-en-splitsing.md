@@ -1,55 +1,26 @@
 ---
 title: "Wet van 28 juni 2023 tot wijziging van Boek 2 van het Burgerlijk Wetboek en de Wet op het notarisambt in verband met de implementatie van Richtlijn (EU) 2019/2121 van het Europees Parlement en de Raad van 27 november 2019 tot wijziging van Richtlijn (EU) 2017/1132 met betrekking tot grensoverschrijdende omzettingen, fusies en splitsingen (PbEU 2019, L 321/1) (Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen)"
+citeertitel: "Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen"
 identifier: "BWBR0048462"
-country: "nl"
-rank: "wet"
-publication_date: "2023-09-01"
-last_updated: "2023-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048462"
+categorie: "Burgerlijk recht"
 soort: "wet"
-stam_id: "16818663"
-version_id: "29549582"
-internal_id: "C42239041"
-label_id: "16731324"
-dtd_version: "2.0"
-original_entry_into_force: "2023-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048462/2023-09-01/0"
-intitule_bron: "Stb.2023-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-28"
-intitule_published: "2023-07-12"
-intitule_in_force: "2023-07-12"
-intitule_status: "goed"
-original_publication: "Stb.2023-252"
-original_signed_date: "2023-06-28"
-original_published_date: "2023-07-12"
-original_effect: "nieuwe-regeling"
-original_dossier: "36267"
-original_url_id: "stb-2023-252"
-entry_into_force_date: "2023-09-01"
-jci_1_3: "jci1.3:c:BWBR0048462&z=2023-09-01&g=2023-09-01"
-jci_1_0: "1.0:c:BWBR0048462&g=2023-09-01"
-citeertitel_status: "officieel"
-short_title: "Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen"
-signed_date: "2023-06-28"
-entry_into_force: "2023-09-01"
+publicatiedatum: 2023-09-01
+laatste_update: 2023-09-01
+status: geldig
+toestand: 2023-09-01
+bron: "https://wetten.overheid.nl/BWBR0048462"
+opgehaald: 2026-09-04
 ---
+
 # Wet van 28 juni 2023 tot wijziging van Boek 2 van het Burgerlijk Wetboek en de Wet op het notarisambt in verband met de implementatie van Richtlijn (EU) 2019/2121 van het Europees Parlement en de Raad van 27 november 2019 tot wijziging van Richtlijn (EU) 2017/1132 met betrekking tot grensoverschrijdende omzettingen, fusies en splitsingen (PbEU 2019, L 321/1) (Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen)
-
-Allen, die zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat [Richtlijn (EU) 2019/2121](32019L2121) van het Europees Parlement en de Raad van 27 november 2019 tot wijziging van [Richtlijn (EU) 2017/1132](32017L1132) met betrekking tot grensoverschrijdende omzettingen, fusies en splitsingen (PbEU 2019, L 321/1) implementatie behoeft.
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel I
 
-Wijzigt het Burgerlijk Wetboek Boek 2.
+*Wijzigt het Burgerlijk Wetboek Boek 2.*
 
 ##### Artikel II
 
-Wijzigt de Wet op het notarisambt.
+*Wijzigt de Wet op het notarisambt.*
 
 ##### Artikel IIa
 
@@ -64,5 +35,3 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel IV
 
 Deze wet wordt aangehaald als: Wet implementatie richtlijn grensoverschrijdende omzettingen, fusies en splitsingen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

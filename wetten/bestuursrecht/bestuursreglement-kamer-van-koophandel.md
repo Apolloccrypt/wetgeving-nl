@@ -1,72 +1,42 @@
 ---
 title: "Besluit van de Kamer van Koophandel van 6 april 2023 tot vaststelling van een Bestuursreglement en Gedragscode voor de Kamer van Koophandel"
+citeertitel: "Bestuursreglement Kamer van Koophandel"
 identifier: "BWBR0048834"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-04"
-last_updated: "2023-11-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048834"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16903233"
-version_id: "29707162"
-internal_id: "C42565931"
-label_id: "16814974"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048834/2023-11-04/0"
-intitule_bron: "Stcrt.2023-30118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-13"
-intitule_published: "2023-11-03"
-intitule_in_force: "2023-11-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30118"
-original_signed_date: "2023-10-13"
-original_published_date: "2023-11-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30118"
-entry_into_force_date: "2023-11-04"
-jci_1_3: "jci1.3:c:BWBR0048834&z=2023-11-04&g=2023-11-04"
-jci_1_0: "1.0:c:BWBR0048834&g=2023-11-04"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement Kamer van Koophandel"
-signed_date: "2023-10-13"
-entry_into_force: "2023-11-04"
+publicatiedatum: 2023-11-04
+laatste_update: 2023-11-04
+status: geldig
+toestand: 2023-11-04
+bron: "https://wetten.overheid.nl/BWBR0048834"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Kamer van Koophandel van 6 april 2023 tot vaststelling van een Bestuursreglement en Gedragscode voor de Kamer van Koophandel
-
-Gezien de goedkeuring van de Minister van Economische Zaken en Klimaat van 12 oktober 2023;
-
-Gelet op [artikel 21 van de Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=21);
-
-Besluit:
-
-**Reglement Raad van Bestuur Kamer van Koophandel**
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **bestuurssecretaris:** de medewerker van de KvK met de functie van bestuurssecretaris en leiding geeft aan de bestuursstaf;
+- a. *bestuurssecretaris:* de medewerker van de KvK met de functie van bestuurssecretaris en leiding geeft aan de bestuursstaf;
 
-- b. **Centrale Raad:** de raad, zoals bedoeld in [artikel 9 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=9);
+- b. *Centrale Raad:* de raad, zoals bedoeld in [artikel 9 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=9);
 
-- c. **KvK:** de Kamer van Koophandel, zoals bedoeld in [artikel 2 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
+- c. *KvK:* de Kamer van Koophandel, zoals bedoeld in [artikel 2 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
 
-- d. **minister:** de Minister van Economische Zaken en Klimaat;
+- d. *minister:* de Minister van Economische Zaken en Klimaat;
 
-- e. **ministerie:** het Ministerie van Economische Zaken en Klimaat;
+- e. *ministerie:* het Ministerie van Economische Zaken en Klimaat;
 
-- f. **Regionale Raad:** de raad, zoals bedoeld in [artikel 13 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=13);
+- f. *Regionale Raad:* de raad, zoals bedoeld in [artikel 13 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=13);
 
-- g. **Raad van Advies:** de raad die de Raad van Bestuur adviseert, ingesteld bij besluit van 22 december 2021;
+- g. *Raad van Advies:* de raad die de Raad van Bestuur adviseert, ingesteld bij besluit van 22 december 2021;
 
-- h. **Raad van Bestuur:** de voorzitter en leden van het bestuur van de KvK, zoals bedoeld in [artikel 6 lid 1 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=6);
+- h. *Raad van Bestuur:* de voorzitter en leden van het bestuur van de KvK, zoals bedoeld in [artikel 6 lid 1 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=6);
 
-- i. **voorzitter:** het lid van de Raad van Bestuur dat door de minister als voorzitter van de KvK is benoemd, zoals bedoeld in [artikel 6 lid 1 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=6);
+- i. *voorzitter:* het lid van de Raad van Bestuur dat door de minister als voorzitter van de KvK is benoemd, zoals bedoeld in [artikel 6 lid 1 Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=6);
 
-- j. **Wet KvK:** de [Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331) zoals deze van tijd tot tijd geldt.
+- j. *Wet KvK:* de [Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331) zoals deze van tijd tot tijd geldt.
 
 ##### Artikel 2. Juridische grondslag en werkingssfeer
 
@@ -74,9 +44,9 @@ In dit besluit wordt verstaan onder:
 
 2. In het bestuursreglement worden in elk geval regels gesteld omtrent de samenstelling, taken en bevoegdheden van de (leden van de) Raad van Bestuur en de besluitvorming binnen de KvK.
 
-3. Dit bestuursreglement is vastgesteld door de Raad van Bestuur op 6 april 2023,waarna de minister op 12 oktober 2023 daaraan goedkeuring heeft verleend.
+3. Dit bestuursreglement is vastgesteld door de Raad van Bestuur op 6 april 2023,waarna de minister op 12 oktober 2023 daaraan goedkeuring heeft verleend.
 
-4. Dit bestuursreglement treedt in werking na publicatie in de Staatscourant en werkt terug tot 6 april 2023.
+4. Dit bestuursreglement treedt in werking na publicatie in de Staatscourant en werkt terug tot 6 april 2023.
 
 ##### Artikel 3. Samenstelling
 
@@ -102,21 +72,21 @@ In dit besluit wordt verstaan onder:
 
 5. Tot de verantwoordelijkheden en bevoegdheden van de Raad van Bestuur behoren onder meer het:
 
-- –. inrichten van de organisatie, waaronder begrepen het stellen en wijzigen van beleidsmatige kaders en instellen, opheffen, verzelfstandigen of samenvoegen van organisatieonderdelen, dan wel aangaan of verbreken van duurzame samenwerkingen, overnemen, fuseren of deelnemen in andere organisaties;
+- – inrichten van de organisatie, waaronder begrepen het stellen en wijzigen van beleidsmatige kaders en instellen, opheffen, verzelfstandigen of samenvoegen van organisatieonderdelen, dan wel aangaan of verbreken van duurzame samenwerkingen, overnemen, fuseren of deelnemen in andere organisaties;
 
-- –. geven van richting aan en bepalen van de (duurzame) strategie, beleids- en bedrijfsvoering van de KvK;
+- – geven van richting aan en bepalen van de (duurzame) strategie, beleids- en bedrijfsvoering van de KvK;
 
-- –. het verlenen van mandaat, volmacht en machtiging tot het nemen van besluiten of het aangaan van rechtshandelingen namens KvK,
+- – het verlenen van mandaat, volmacht en machtiging tot het nemen van besluiten of het aangaan van rechtshandelingen namens KvK,
 
-- –. aansturen van de dagelijkse werkzaamheden van de KvK, waaronder het inrichten en uitvoeren van het personeelsbeleid en arbeidsomstandigheden,
+- – aansturen van de dagelijkse werkzaamheden van de KvK, waaronder het inrichten en uitvoeren van het personeelsbeleid en arbeidsomstandigheden,
 
-- –. vaststellen van het meerjarenplan, inclusief meerjarenbegroting1Het meerjarenplan wordt in de Wet KvK het meerjarenprogramma genoemd.;
+- – vaststellen van het meerjarenplan, inclusief meerjarenbegroting1Het meerjarenplan wordt in de Wet KvK het meerjarenprogramma genoemd.;
 
-- –. vaststellen van het jaarplan2Het jaarplan wordt in de Wet KvK het activiteitenplan genoemd. en de jaarlijkse begroting voor het daaropvolgende jaar;
+- – vaststellen van het jaarplan2Het jaarplan wordt in de Wet KvK het activiteitenplan genoemd. en de jaarlijkse begroting voor het daaropvolgende jaar;
 
-- –. vaststellen van het jaarverslag en de jaarrekening;
+- – vaststellen van het jaarverslag en de jaarrekening;
 
-- –. opstellen van een gedragscode ter bevordering van de integriteit en het gedrag van de leden van de KvK (****aangehecht als bijlage aan dit reglement****);
+- – opstellen van een gedragscode ter bevordering van de integriteit en het gedrag van de leden van de KvK (**aangehecht als bijlage aan dit reglement**);
 
 6. De Raad van Bestuur ontwerpt het meerjarenplan, betrekt hier de Centrale Raad bij en stelt het meerjarenplan vast. Indien een voorstel van de Centrale Raad niet door de Raad van Bestuur wordt overgenomen wordt dit met redenen omkleed weergegeven in het meerjarenplan. De Raad van Bestuur zendt het meerjarenplan daarna ter goedkeuring aan de minister, vergezeld van zijn standpunt inzake de financiële en organisatorische voorwaarden die ter uitvoering ervan moeten worden vervuld.
 
@@ -142,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 4. In zijn besluitvorming streeft de Raad van Bestuur ernaar dat besluiten bij unanimiteit worden genomen. Indien unanimiteit niet haalbaar blijkt, worden de besluiten genomen bij gewone meerderheid van de uitgebrachte stemmen.
 
-6. Indien de stemmen staken wordt de besluitvorming – behoudens in spoedeisende gevallen in welk geval de voorzitter beslist – over het betreffende onderwerp verdaagd naar een volgende vergadering. Indien de stemmen ook in deze vergadering staken, is de stem van de voorzitter doorslaggevend.
+6. Indien de stemmen staken wordt de besluitvorming – behoudens in spoedeisende gevallen in welk geval de voorzitter beslist – over het betreffende onderwerp verdaagd naar een volgende vergadering. Indien de stemmen ook in deze vergadering staken, is de stem van de voorzitter doorslaggevend.
 
 5. In spoedeisende gevallen beslist de voorzitter, zo mogelijk na consultatie van het andere lid van de Raad van Bestuur. In de eerstvolgende vergadering van de Raad van Bestuur wordt van deze besluiten mededeling gedaan en deze worden in de besluitenlijst van die vergadering opgenomen.
 
@@ -216,11 +186,11 @@ In dit besluit wordt verstaan onder:
 
 5. Een lid van de Raad van Bestuur neemt geen deel aan de behandeling en/of de besluitvorming over en vertegenwoordigt de KvK niet inzake een onderwerp waarbij hij/zij een (potentieel) tegenstrijdig belang heeft. Een tegenstrijdig belang bestaat in ieder geval wanneer de KvK voornemens is een transactie aan te gaan met een rechtspersoon:
 
-- i). waarin een lid van de Raad van Bestuur persoonlijk een materieel financieel belang houdt;
+- i) waarin een lid van de Raad van Bestuur persoonlijk een materieel financieel belang houdt;
 
-- ii). waarmee een lid van de Raad van Bestuur een familierechtelijke verhouding heeft; of
+- ii) waarmee een lid van de Raad van Bestuur een familierechtelijke verhouding heeft; of
 
-- iii). waarbij een lid van de Raad van Bestuur een bestuurs- of toezichthoudende functie vervult.
+- iii) waarbij een lid van de Raad van Bestuur een bestuurs- of toezichthoudende functie vervult.
 
 6. Bij besluiten over aangelegenheden waarbij een of meer leden van de Raad van Bestuur een tegenstrijdig belang hebben, is [artikel 6 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-11-04) van dit bestuursreglement van overeenkomstige toepassing.
 
@@ -270,104 +240,4 @@ In dit besluit wordt verstaan onder:
 
 1. Dit besluit wordt aangehaald als: Bestuursreglement Kamer van Koophandel.
 
-2. Het besluit [Bestuursreglement Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0035843) van 28 mei 2014 wordt ingetrokken.
-
-## Bijlage. Gedragscode Kamer van Koophandel
-
-##### Artikel 1. Begripsbepalingen
-
-In deze gedragscode wordt verstaan onder:
-
-- a. **KvK:** de Kamer van Koophandel, zoals bedoeld in [artikel 2 van de Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=2);
-
-- b. **Raad van Bestuur:** het bestuur van de KvK, zoals bedoeld in [artikel 6 van de Wet KvK](https://wetten.overheid.nl/jci1.3:c:BWBR0034331&artikel=6);
-
-- c. **minister:** de Minister van Economische Zaken & Klimaat;
-
-- d. **Wet KvK:** de [Wet op de Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0034331) zoals deze van tijd tot tijd geldt.
-
-##### Artikel 2. Juridische grondslag en toepassing
-
-- 1. De Raad van Bestuur stelt een gedragscode op ter bevordering van de integriteit van het gedrag en de werkwijze van de leden van de Raad van Bestuur.
-
-- 2. Deze gedragscode is van toepassing op alle leden van de Raad van Bestuur. Zij ontvangen hiervan ieder een exemplaar.
-
-- 3. De leden van de Raad van Bestuur zijn aanspreekbaar op naleving van deze gedragscode.
-
-- 4. In gevallen waarin deze gedragscode niet voorziet of waarbij de toepassing niet eenduidig is, vindt hierover overleg plaats in de vergadering van de Raad van Bestuur.
-
-- 5. Deze gedragscode is vastgesteld door de Raad van Bestuur op 6 april 2023, waarna de minister op 12 april 2023 daaraan goedkeuring heeft verleend.
-
-- 6. Deze gedragscode treedt in werking na publicatie in de Staatscourant en werkt terug tot 6 april 2023.
-
-##### Artikel 3. Wet- en regelgeving en interne regelingen
-
-- 1. De leden van de Raad van Bestuur moeten alle relevante wet- en/of regelgeving naleven. Zij dienen hiervan dan ook op de hoogte te zijn. Indien juridisch advies nodig is, zal daartoe een gerenommeerd advocatenkantoor worden ingeschakeld. Het is in ieder geval niet de bedoeling dat leden van de Raad van Bestuur aan wet- en/of regelgeving een eigen interpretatie geven.
-
-- 2. De leden van de Raad van Bestuur moeten zich daarnaast houden aan alle interne regelingen van de KvK.
-
-##### Artikel 4. Veiligheid, gezondheid en milieu
-
-- 1. Bij de uitvoering van hun werkzaamheden dienen de leden van de Raad van Bestuur alle geldende voorschriften en regels op het gebied van veiligheid, gezondheid en milieu na te leven. In dit kader moeten in ieder geval de volgende bepalingen gerespecteerd worden:
-
-- i). onveilige situaties dienen onmiddellijk gerapporteerd te worden aan de voorzitter van de Raad van Bestuur;
-
-- ii). de bedrijfsvoering dient op duurzame en milieuvriendelijke wijze te geschieden; en
-
-- iii). lokale veiligheids-, gezondheids- en milieuvoorschriften moeten nageleefd worden. Indien internationale standaarden hogere eisen stellen, moeten deze standaarden nageleefd worden.
-
-##### Artikel 5. Integriteit
-
-- 1. De leden van de Raad van Bestuur accepteren geen geschenken, faciliteiten of diensten, indien hun onafhankelijke positie hierdoor kan worden beïnvloed. In onderhandelingssituaties weigeren zij door betrokken relaties aangeboden geschenken en/of andere voordelen.
-
-- 2. Geschenken en giften die de leden van de Raad van Bestuur uit hoofde van hun functie ontvangen worden gemeld in de vergadering van de Raad van Bestuur. Geschenken en giften die een geschatte waarde hebben van meer dan € 50,– worden geacht eigendom te zijn van de KvK. Geschenken en giften die een waarde van € 50,– of minder vertegenwoordigen kunnen door de leden van de Raad van Bestuur worden behouden.
-
-- 3. Aanbiedingen voor privé-werkzaamheden of kortingen op privé-goederen worden door de leden van de Raad van Bestuur niet geaccepteerd.
-
-- 4. Leden van de Raad van Bestuur dienen dubieuze transacties te vermijden.
-
-##### Artikel 6. Bestuurlijke uitgaven en buitenlandse reizen
-
-- 1. Uitgaven van de leden van de Raad van Bestuur worden uitsluitend vergoed als de hoogte en de functionaliteit ervan kunnen worden aangetoond. De leden van de Raad van Bestuur declareren geen kosten die reeds op andere wijze worden vergoed.
-
-- 2. Voor het maken van een buitenlandse dienstreis of het uitbrengen van een werkbezoek door een lid van de Raad van Bestuur is voorafgaande toestemming vereist van de Raad van Bestuur. Het KvK gerelateerde belang van de reis is doorslaggevend voor de besluitvorming hierover.
-
-- 3. Het verlengen van een buitenlandse dienstreis voor privédoeleinden is slechts beperkt toegestaan en moet betrokken worden bij de besluitvorming. De extra reis- en verblijfkosten komen volledig voor rekening van de betrokkene.
-
-- 4. Als uitgangspunt geldt dat leden van de Raad van Bestuur die voor een dienstreis een vliegreis moeten maken, in aanmerking komen voor business klasse of een vergelijkbare klassen indien de vliegreis zes uur of langer duurt. Bij een vlucht van korter dan zes uur zal een ticket worden geboekt in de economy klasse.
-
-##### Artikel 7. Informatie
-
-- 1. De leden van de Raad van Bestuur gaan zorgvuldig en correct om met informatie waarover zij uit hoofde van hun functie beschikken en zorgen ervoor dat stukken met vertrouwelijke gegevens veilig worden opgeborgen en dat computerbestanden zijn beveiligd.
-
-- 2. Onverminderd [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) verstrekken de leden van de Raad van Bestuur geen informatie, die vertrouwelijk en/of geheim is, dan na de uitdrukkelijke schriftelijke toestemming van de eigenaar van de informatie, dan wel op uitdrukkelijk verzoek van de minister.
-
-- 3. De leden van de Raad van Bestuur gaan verantwoord om met de e-mail- en internetfaciliteiten van de KvK en met sociale media.
-
-##### Artikel 8. Rechtvaardigheid
-
-- 1. De leden van de Raad van Bestuur behandelen een ieder rechtvaardig en met respect.
-
-- 2. Discriminatie, (seksuele) intimidatie, agressie, geweld en pesten zijn uitingen van ongewenst gedrag en worden niet getolereerd.
-
-##### Artikel 9. Rapporteren vermeende onregelmatigheden
-
-- 1. Een lid van de Raad van Bestuur dient vermeende onregelmatigheden van algemene, operationele en financiële aard binnen de KvK aan de voorzitter van de Raad van Bestuur te rapporteren. Vermeende onregelmatigheden die het functioneren van de Raad van Bestuur betreffen, moeten worden gerapporteerd aan de minister.
-
-- 2. De Raad van Bestuur bevordert daarnaast dat functionarissen van de KvK zonder gevaar voor hun rechtspositie de mogelijkheid hebben te rapporteren aan de voorzitter van de Raad van Bestuur of door deze aangewezen functionarissen over vermeende onregelmatigheden binnen de KvK van algemene, operationele en financiële aard, dan wel schending van gedragscodes en wet- en regelgeving.
-
-- 3. De KvK heeft een ‘klokkenluidersregeling’ die is opgenomen in het personeelshandboek van de KvK.
-
-##### Artikel 10. Wijziging/intrekking
-
-- 1. Een wijziging van deze gedragscode geschiedt in overeenstemming met de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048834&artikel=6&z=2023-11-04&g=2023-11-04) van het Bestuursreglement Kamer van Koophandel beschreven besluitvormingsprocedure.
-
-- 2. Een wijziging als bedoeld in lid 1 van dit artikel behoeft goedkeuring van de minister.
-
-##### Artikel 11. Slotbepalingen
-
-- 1. Deze gedragscode wordt aangehaald als: Gedragscode Kamer van Koophandel.
-
-- 2. Het besluit Gedragcode Kamer van Koophandel van 28 mei 2014 wordt ingetrokken.
-
-Dit besluit zal in de Staatscourant worden geplaatst.
+2. Het besluit [Bestuursreglement Kamer van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0035843) van 28 mei 2014 wordt ingetrokken.

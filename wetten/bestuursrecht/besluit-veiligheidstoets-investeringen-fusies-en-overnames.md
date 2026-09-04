@@ -1,54 +1,22 @@
 ---
 title: "Besluit van 4 mei 2023, houdende voorschriften ter uitvoering van de Wet veiligheidstoets investeringen, fusies en overnames en tot wijziging van het Besluit justitiële en strafvorderlijke gegevens (Besluit veiligheidstoets investeringen, fusies en overnames)"
+citeertitel: "Besluit veiligheidstoets investeringen, fusies en overnames"
 identifier: "BWBR0048204"
-country: "nl"
-rank: "amvb"
-publication_date: "2023-06-01"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048204"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "16755023"
-version_id: "29425172"
-internal_id: "C42078071"
-label_id: "16671004"
-dtd_version: "2.0"
-original_entry_into_force: "2023-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048204/2023-06-01/0"
-intitule_bron: "Stb.2023-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-05-04"
-intitule_published: "2023-05-31"
-intitule_in_force: "2023-05-31"
-intitule_status: "goed"
-original_publication: "Stb.2023-173"
-original_signed_date: "2023-05-04"
-original_published_date: "2023-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2023-173"
-entry_into_force_date: "2023-06-01"
-jci_1_3: "jci1.3:c:BWBR0048204&z=2023-06-01&g=2023-06-01"
-jci_1_0: "1.0:c:BWBR0048204&g=2023-06-01"
-citeertitel_status: "officieel"
-short_title: "Besluit veiligheidstoets investeringen, fusies en overnames"
-signed_date: "2023-05-04"
-entry_into_force: "2023-06-01"
+publicatiedatum: 2023-06-01
+laatste_update: 2023-06-01
+status: geldig
+toestand: 2023-06-01
+bron: "https://wetten.overheid.nl/BWBR0048204"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van 4 mei 2023, houdende voorschriften ter uitvoering van de Wet veiligheidstoets investeringen, fusies en overnames en tot wijziging van het Besluit justitiële en strafvorderlijke gegevens (Besluit veiligheidstoets investeringen, fusies en overnames)
-
-Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 28 december 2022, nr WJZ/22586329, gedaan mede namens Onze Minister van Justitie en Veiligheid;
-
-Gelet op de [artikelen 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=11), [29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=29), [34, vierde lid, onderdeel f, en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=34), [41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=41), en [43, zesde lid, van de Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=43) en [artikel 9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=9);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 maart 2023, nr. W18.22.00223/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken en Klimaat van 1 mei 2023, nr. WJZ/26912696, uitgebracht mede namens Onze Minister van Justitie en Veiligheid;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit en de daarop berustende bepalingen wordt onder **wet** verstaan: de [Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747).
+In dit besluit en de daarop berustende bepalingen wordt onder *wet* verstaan: de [Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747).
 
 ##### Artikel 2
 
@@ -134,7 +102,7 @@ De bewaartermijn van de persoonsgegevens die op grond van de [wet](https://wette
 
 ##### Artikel 10
 
-Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
+*Wijzigt het Besluit justitiële en strafvorderlijke gegevens.*
 
 ##### Artikel 11
 
@@ -143,5 +111,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit veiligheidstoets investeringen, fusies en overnames.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,92 +1,62 @@
 ---
 title: "Wet van 3 juni 2023, houdende regels aangaande een tijdelijke uitwisseling van persoonsgegevens ter identificering van de ouders die gedupeerd zijn als gevolg van problemen bij de uitvoering van de kinderopvangtoeslag en geconfronteerd zijn met uithuisplaatsing van kinderen (Tijdelijke wet uitwisseling persoonsgegevens UHP KOT)"
+citeertitel: "Tijdelijke wet uitwisseling persoonsgegevens UHP KOT"
 identifier: "BWBR0048336"
-country: "nl"
-rank: "wet"
-publication_date: "2023-07-01"
-last_updated: "2023-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048336"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "16786973"
-version_id: "29484592"
-internal_id: "C42159611"
-label_id: "16702044"
-dtd_version: "2.0"
-original_entry_into_force: "2023-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048336/2023-07-01/0"
-intitule_bron: "Stb.2023-234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-06-03"
-intitule_published: "2023-06-30"
-intitule_in_force: "2023-06-30"
-intitule_status: "goed"
-original_publication: "Stb.2023-234"
-original_signed_date: "2023-06-03"
-original_published_date: "2023-06-30"
-original_effect: "nieuwe-regeling"
-original_dossier: "36275"
-original_url_id: "stb-2023-234"
-entry_into_force_date: "2023-07-01"
-entry_into_force_dossier: "36275"
-jci_1_3: "jci1.3:c:BWBR0048336&z=2023-07-01&g=2023-07-01"
-jci_1_0: "1.0:c:BWBR0048336&g=2023-07-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke wet uitwisseling persoonsgegevens UHP KOT"
-signed_date: "2023-06-03"
-entry_into_force: "2023-07-01"
+publicatiedatum: 2023-07-01
+laatste_update: 2023-07-01
+status: geldig
+toestand: 2023-07-01
+bron: "https://wetten.overheid.nl/BWBR0048336"
+opgehaald: 2026-09-04
 ---
+
 # Wet van 3 juni 2023, houdende regels aangaande een tijdelijke uitwisseling van persoonsgegevens ter identificering van de ouders die gedupeerd zijn als gevolg van problemen bij de uitvoering van de kinderopvangtoeslag en geconfronteerd zijn met uithuisplaatsing van kinderen (Tijdelijke wet uitwisseling persoonsgegevens UHP KOT)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om regels te stellen over een tijdelijke uitwisseling van persoonsgegevens van de bij de uitvoering van de kinderopvangtoeslag gedupeerde ouders en hun uithuisgeplaatste kinderen en deze regels onder te brengen in één wet;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze wet wordt verstaan onder:
 
-- **Burgerlijk Wetboek (oud):** het Burgerlijk Wetboek zoals dat gold in de periode tussen 1 januari 2005 en 1 januari 2015;
+- *Burgerlijk Wetboek (oud):* het Burgerlijk Wetboek zoals dat gold in de periode tussen 1 januari 2005 en 1 januari 2015;
 
-- **commissie:** de Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire, bedoeld in [artikel 2 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047840&artikel=2);
+- *commissie:* de Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire, bedoeld in [artikel 2 van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0047840&artikel=2);
 
-- **gecertificeerde instelling:** gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+- *gecertificeerde instelling:* gecertificeerde instelling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
-- **gedupeerde aanvrager van een kinderopvangtoeslag:** de aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel en daarvoor voor 1 januari 2024 een aanvraag heeft ingediend of recht heeft op toepassing van een herstelmaatregel als bedoeld in de Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen ([Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)) (**Stb.** 2022, 433);
+- *gedupeerde aanvrager van een kinderopvangtoeslag:* de aanvrager van een kinderopvangtoeslag die in aanmerking komt voor toepassing van een herstelmaatregel en daarvoor voor 1 januari 2024 een aanvraag heeft ingediend of recht heeft op toepassing van een herstelmaatregel als bedoeld in de Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen ([Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)) (*Stb.* 2022, 433);
 
-- **gerechten:** de rechtbanken en de gerechtshoven;
+- *gerechten:* de rechtbanken en de gerechtshoven;
 
-- **instelling of dienst:** een instelling voor hoger onderwijs als bedoeld in [artikel 1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of dienst met taken op het terrein van onderzoek;
+- *instelling of dienst:* een instelling voor hoger onderwijs als bedoeld in [artikel 1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1) of dienst met taken op het terrein van onderzoek;
 
-- **Instellingsbesluit:** Besluit van de Minister voor Rechtsbescherming, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris Financiën – Toeslagen en Douane van 30 januari 2023, nr. 4437273, houdende instelling van de commissie onderzoek naar uithuisplaatsingen in relatie tot de toeslagenaffaire ([Instellingsbesluit Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire](https://wetten.overheid.nl/jci1.3:c:BWBR0047840));
+- *Instellingsbesluit:* Besluit van de Minister voor Rechtsbescherming, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris Financiën – Toeslagen en Douane van 30 januari 2023, nr. 4437273, houdende instelling van de commissie onderzoek naar uithuisplaatsingen in relatie tot de toeslagenaffaire ([Instellingsbesluit Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire](https://wetten.overheid.nl/jci1.3:c:BWBR0047840));
 
-- **kind van een gedupeerde aanvrager van een kinderopvangtoeslag:** kind of pleegkind, zoals omschreven in de Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen ([Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)) (**Stb**. 2022, 433), van een gedupeerde aanvrager van een kinderopvangtoeslag;
+- *kind van een gedupeerde aanvrager van een kinderopvangtoeslag:* kind of pleegkind, zoals omschreven in de Wet van 2 november 2022, houdende regels ten behoeve van de hersteloperatie toeslagen ([Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)) (*Stb*. 2022, 433), van een gedupeerde aanvrager van een kinderopvangtoeslag;
 
-- **kind waarvoor een verzoek tot uithuisplaatsing is gedaan:** de persoon waarvoor in de periode vanaf 1 januari 2005 een verzoek is gedaan dat strekt tot:
+- *kind waarvoor een verzoek tot uithuisplaatsing is gedaan:* de persoon waarvoor in de periode vanaf 1 januari 2005 een verzoek is gedaan dat strekt tot:
 
-- a. het verlenen van een machtiging tot uithuisplaatsing van een minderjarige als bedoeld in [artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b) of als bedoeld in [artikel 261 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=261) (oud);
+   - a. het verlenen van een machtiging tot uithuisplaatsing van een minderjarige als bedoeld in [artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b) of als bedoeld in [artikel 261 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=261) (oud);
 
-- b. het beëindigen van het ouderlijk gezag over een minderjarige als bedoeld in [artikel 266, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) of het ontheffen of ontzetten van een ouder van de ouderlijke macht over dan wel het gezag over een of meer van zijn kinderen als bedoeld in de artikelen 266 en [269 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=269) (oud); of
+   - b. het beëindigen van het ouderlijk gezag over een minderjarige als bedoeld in [artikel 266, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) of het ontheffen of ontzetten van een ouder van de ouderlijke macht over dan wel het gezag over een of meer van zijn kinderen als bedoeld in de artikelen 266 en [269 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=269) (oud); of
 
-- c. het verlenen van een machtiging om de jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4) of het verlenen van een machtiging om een jeugdige in een accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b) en [29c van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29c).
+   - c. het verlenen van een machtiging om de jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4) of het verlenen van een machtiging om een jeugdige in een accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b) en [29c van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29c).
 
-- **Onze Minister:** Onze Minister voor Rechtsbescherming;
+- *Onze Minister:* Onze Minister voor Rechtsbescherming;
 
-- **ouder:** een ouder of stiefouder van een kind of een ander die het kind als behorend tot zijn gezin verzorgt en opvoedt of heeft verzorgd en opgevoed;
+- *ouder:* een ouder of stiefouder van een kind of een ander die het kind als behorend tot zijn gezin verzorgt en opvoedt of heeft verzorgd en opgevoed;
 
-- **UHP KOT-kind:** het uithuisgeplaatste kind van een UHP KOT-ouder;
+- *UHP KOT-kind:* het uithuisgeplaatste kind van een UHP KOT-ouder;
 
-- **UHP KOT-ouder:** een gedupeerde aanvrager van een kinderopvangtoeslag, die tevens ouder is van het uithuisgeplaatste kind;
+- *UHP KOT-ouder:* een gedupeerde aanvrager van een kinderopvangtoeslag, die tevens ouder is van het uithuisgeplaatste kind;
 
-- **uithuisgeplaatst kind:** de persoon waarvoor in de periode vanaf 1 januari 2005:
+- *uithuisgeplaatst kind:* de persoon waarvoor in de periode vanaf 1 januari 2005:
 
-- a. een machtiging tot uithuisplaatsing als bedoeld in[artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b) of als bedoeld in [artikel 261 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=261) (oud), is verleend;
+   - a. een machtiging tot uithuisplaatsing als bedoeld in[artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b) of als bedoeld in [artikel 261 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=261) (oud), is verleend;
 
-- b. van zijn ouder het ouderlijk gezag is beëindigd als bedoeld in [artikel 266, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) of zijn ouder van de ouderlijke macht dan wel het gezag is ontheven of ontzet als bedoeld in de [artikelen 266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) en[269 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=269) (oud); of
+   - b. van zijn ouder het ouderlijk gezag is beëindigd als bedoeld in [artikel 266, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) of zijn ouder van de ouderlijke macht dan wel het gezag is ontheven of ontzet als bedoeld in de [artikelen 266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266) en[269 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=269) (oud); of
 
-- c. een machtiging is verleend om de jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4) of een machtiging is verleend om een jeugdige in een accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b) en [29c van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29c).
+   - c. een machtiging is verleend om de jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4) of een machtiging is verleend om een jeugdige in een accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b) en [29c van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29c).
 
 ##### Artikel 2. Taak en doel verstrekken en verwerken van persoonsgegevens
 
@@ -186,7 +156,7 @@ Onze Minister en de in deze wet genoemde organisaties vernietigen vóór het ver
 
 ##### Artikel 11. Inwerkingtreding en verval
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt op 1 januari 2025.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt op 1 januari 2025.
 
 2. Het tijdstip waarop deze wet vervalt kan bij koninklijk besluit telkens met twee jaren worden verlengd indien daarvoor dringende redenen zijn die samenhangen met de uitoefening van de taak, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), of het bereiken van de doelen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01). Een verlenging kan ten hoogste drie maal plaatsvinden.
 
@@ -195,5 +165,3 @@ Onze Minister en de in deze wet genoemde organisaties vernietigen vóór het ver
 ##### Artikel 12. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet uitwisseling persoonsgegevens UHP KOT.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

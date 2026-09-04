@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0032573"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Wet van 13 december 2012, houdende bepalingen over het accountantsberoep, de Nederlandse beroepsorganisatie van accountants en de Commissie eindtermen accountantsopleiding (Wet op het accountantsberoep)

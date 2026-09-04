@@ -8,7 +8,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0039900"
-opgehaald: 2026-09-03
+opgehaald: 2026-09-04
 ---
 
 # Regeling vergoeding voor overwerk, onregelmatigheid, beschikbaarheid en bereikbaarheid

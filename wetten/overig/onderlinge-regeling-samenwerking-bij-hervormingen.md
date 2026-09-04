@@ -1,53 +1,17 @@
 ---
 title: "Onderlinge regeling samenwerking bij hervormingen"
 identifier: "BWBR0048172"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-04-04"
-last_updated: "2023-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048172"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16748793"
-version_id: "29410962"
-internal_id: "C42050381"
-label_id: "16664834"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048172/2023-04-04/0"
-intitule_bron: "Stcrt.2023-13947"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-04-04"
-intitule_published: "2023-05-17"
-intitule_in_force: "2023-05-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-13947"
-original_signed_date: "2023-04-04"
-original_published_date: "2023-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-13947"
-entry_into_force_date: "2023-04-04"
-jci_1_3: "jci1.3:c:BWBR0048172&z=2023-04-04&g=2023-04-04"
-jci_1_0: "1.0:c:BWBR0048172&g=2023-04-04"
-citeertitel_status: "officieel"
-signed_date: "2023-04-04"
-entry_into_force: "2023-04-04"
+publicatiedatum: 2023-04-04
+laatste_update: 2023-04-04
+status: geldig
+toestand: 2023-04-04
+bron: "https://wetten.overheid.nl/BWBR0048172"
+opgehaald: 2026-09-04
 ---
+
 # Onderlinge regeling samenwerking bij hervormingen
-
-In overweging genomen hebbende dat:
-
-de COVID-19 pandemie ernstige financieel-economische en sociale gevolgen heeft gehad voor Aruba, Curaçao en Sint Maarten, en dat het daardoor voor deze Landen noodzakelijk is om de economische weerbaarheid en bestuurskracht te verhogen;
-
-de regeringen van Aruba, Curaçao en Sint Maarten het wenselijk achten de nodige hervormingen in de publieke sector ter verhoging van de economische weerbaarheid en bestuurskracht daadkrachtig en in samenwerking met de regering van Nederland uit te voeren;
-
-de regering van Nederland ondersteuning wenst te bieden en in dat verband op 13 november, 2 november en 22 december 2020 met de regeringen van Aruba, Curaçao en Sint Maarten de door elk Land wenselijk geachte hervormingen ter bevordering van de economische weerbaarheid en versterking van de bestuurskracht hebben vastgelegd in onderscheidenlijke landspakketten;
-
-het wenselijk is om een werkwijze vast te stellen voor de samenwerking tussen enerzijds Nederland en anderzijds Aruba, Curaçao onderscheidenlijk Sint Maarten ter ondersteuning en uitvoering van de in de landspakketten opgenomen hervormingen;
-
-eigenaarschap, gelijkwaardigheid en gemeenschappelijkheid binnen deze samenwerking de leidende beginselen vormen en de eerbiediging van de staatsrechtelijke positie en bevoegdheden van de regeringen en de Staten van Aruba, Curaçao onderscheidenlijk Sint Maarten conform het [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) en het landsrecht hierbij als uitgangspunt geldt;
-
-Komen als volgt overeen:
 
 #### § 1. Algemene bepalingen
 
@@ -55,39 +19,40 @@ Komen als volgt overeen:
 
 In deze onderlinge regeling wordt, tenzij anders bepaald, verstaan onder:
 
-- a. **hervormingsprojecten, -programma’s en -maatregelen:** de hervormingsprojecten, -programma’s en -maatregelen die vereist zijn voor het bereiken van de beleidsdoelen, genoemd in een landspakket;
+- a. *hervormingsprojecten, -programma’s en -maatregelen:* de hervormingsprojecten, -programma’s en -maatregelen die vereist zijn voor het bereiken van de beleidsdoelen, genoemd in een landspakket;
 
-- b. **Landen:** Aruba, Curaçao en Sint Maarten;
+- b. *Landen:* Aruba, Curaçao en Sint Maarten;
 
-- c. **landspakket:** een landspakket als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=3&z=2023-04-04&g=2023-04-04);
+- c. *landspakket:* een landspakket als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=3&z=2023-04-04&g=2023-04-04);
 
-- d. **minister:** de vakminister van een land die politieke verantwoordelijkheid draagt voor een beleidsterrein of onderdeel van het landspakket;
+- d. *minister:* de vakminister van een land die politieke verantwoordelijkheid draagt voor een beleidsterrein of onderdeel van het landspakket;
 
-- e. **Minister van Algemene Zaken:** de Minister van Algemene Zaken van onderscheidenlijk Aruba, Curaçao of Sint Maarten;
+- e. *Minister van Algemene Zaken:* de Minister van Algemene Zaken van onderscheidenlijk Aruba, Curaçao of Sint Maarten;
 
-- f. **Ministers van Algemene Zaken:** de Ministers van Algemene Zaken van Aruba, van Curaçao en van Sint Maarten;
+- f. *Ministers van Algemene Zaken:* de Ministers van Algemene Zaken van Aruba, van Curaçao en van Sint Maarten;
 
-- g. **Ministers:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties, en de Minister van Algemene Zaken;
+- g. *Ministers:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties, en de Minister van Algemene Zaken;
 
-- h. **overheidsorgaan:** een bij of krachtens de Staatsregeling van Aruba, van Curaçao of van Sint Maarten of onderlinge regeling in de zin van [artikel 38 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) ingesteld bestuursorgaan of andere instantie die met openbaar gezag is bekleed;
+- h. *overheidsorgaan:* een bij of krachtens de Staatsregeling van Aruba, van Curaçao of van Sint Maarten of onderlinge regeling in de zin van [artikel 38 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) ingesteld bestuursorgaan of andere instantie die met openbaar gezag is bekleed;
 
-- i. **plan van aanpak:** een plan van aanpak als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=6&z=2023-04-04&g=2023-04-04);
+- i. *plan van aanpak:* een plan van aanpak als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=6&z=2023-04-04&g=2023-04-04);
 
-- j. **reglement:** het reglement bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04), bevattende nadere regels met betrekking tot de gezamenlijke werkwijze van de Uitvoeringsorganisatie en de Werkorganisatie;
+- j. *reglement:* het reglement bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04), bevattende nadere regels met betrekking tot de gezamenlijke werkwijze van de Uitvoeringsorganisatie en de Werkorganisatie;
 
-- k. **Staten:** de Staten van onderscheidenlijk Aruba, Curaçao of Sint Maarten;
+- k. *Staten:* de Staten van onderscheidenlijk Aruba, Curaçao of Sint Maarten;
 
-- l. **Statuut:** [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
+- l. *Statuut:*
+ [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154);
 
-- m. **uitvoeringsagenda:** een uitvoeringsagenda als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=5&z=2023-04-04&g=2023-04-04);
+- m. *uitvoeringsagenda:* een uitvoeringsagenda als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=5&z=2023-04-04&g=2023-04-04);
 
-- n. **uitvoeringsrapportage:** een uitvoeringsrapportage als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=7&z=2023-04-04&g=2023-04-04);
+- n. *uitvoeringsrapportage:* een uitvoeringsrapportage als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=7&z=2023-04-04&g=2023-04-04);
 
-- o. **Uitvoeringsorganisaties:** de uitvoeringsorganisaties, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04);
+- o. *Uitvoeringsorganisaties:* de uitvoeringsorganisaties, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04);
 
-- p. **Volksvertegenwoordiging:** de Staten van Aruba, van Curaçao, van Sint-Maarten, en de Staten-Generaal;
+- p. *Volksvertegenwoordiging:* de Staten van Aruba, van Curaçao, van Sint-Maarten, en de Staten-Generaal;
 
-- q. **Werkorganisatie:** de werkorganisatie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04).
+- q. *Werkorganisatie:* de werkorganisatie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048172&paragraaf=2&artikel=4&z=2023-04-04&g=2023-04-04).
 
 ##### Artikel 2. Doel
 
@@ -246,17 +211,3 @@ Onthouding van instemming vindt niet plaats dan nadat aan de minister of, voor z
 ##### Artikel 12. Citeertitel
 
 Deze onderlinge regeling wordt aangehaald als: Onderlinge regeling samenwerking bij hervormingen.
-
-## Bijlage A
-
-Niet opgenomen.
-
-## Bijlage B
-
-Niet opgenomen.
-
-## Bijlage C
-
-Niet opgenomen.
-
-Deze onderlinge regeling zal met de toelichting in het Afkondigingsblad van Aruba, het Publicatieblad van Curaçao, de Staatscourant van Nederland en het Afkondigingsblad van Sint Maarten worden geplaatst.

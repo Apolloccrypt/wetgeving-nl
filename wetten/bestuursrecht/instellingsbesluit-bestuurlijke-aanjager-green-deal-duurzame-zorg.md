@@ -1,62 +1,32 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2023, kenmerk 3709946-1055637-MEVA, houdende instelling van de bestuurlijke aanjager Green Deal Duurzame Zorg"
+citeertitel: "Instellingsbesluit bestuurlijke aanjager Green Deal duurzame zorg"
 identifier: "BWBR0048852"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-08"
-last_updated: "2023-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048852"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16907513"
-version_id: "29713552"
-internal_id: "C42579941"
-label_id: "16819054"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048852/2023-11-08/0"
-intitule_bron: "Stcrt.2023-30376"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-26"
-intitule_published: "2023-11-07"
-intitule_in_force: "2023-11-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30376"
-original_signed_date: "2023-10-26"
-original_published_date: "2023-11-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30376"
-entry_into_force_date: "2023-11-08"
-jci_1_3: "jci1.3:c:BWBR0048852&z=2023-11-08&g=2023-11-08"
-jci_1_0: "1.0:c:BWBR0048852&g=2023-11-08"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit bestuurlijke aanjager Green Deal duurzame zorg"
-signed_date: "2023-10-26"
-entry_into_force: "2023-11-08"
+publicatiedatum: 2023-11-08
+laatste_update: 2023-11-08
+status: geldig
+toestand: 2023-11-08
+bron: "https://wetten.overheid.nl/BWBR0048852"
+opgehaald: 2026-09-04
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 26 oktober 2023, kenmerk 3709946-1055637-MEVA, houdende instelling van de bestuurlijke aanjager Green Deal Duurzame Zorg
-
-Gelet op artikel 7, onder c, Green Deal Samen werken aan duurzame zorg,
-
-gehoord de voorzitter van de regiegroep van de Green Deal Samen werken aan duurzame zorg,
-
-gehoord de als bestuurlijke aanjager aan te wijzen persoon;
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- –. **bestuurlijke aanjager:** de tijdelijke onafhankelijke functionaris, bedoeld in artikel 7, onder c, Green Deal Samen werken aan duurzame zorg.
+- – *bestuurlijke aanjager:* de tijdelijke onafhankelijke functionaris, bedoeld in artikel 7, onder c, Green Deal Samen werken aan duurzame zorg.
 
-- –. **Green Deal:** de ‘Green Deal Samen werken aan duurzame zorg, afspraken tussen de rijksoverheid en andere partijen om duurzame plannen uit te voeren op het gebied van zorg (C-238)’, zoals overeengekomen op 4 november 2022.
+- – *Green Deal:* de ‘Green Deal Samen werken aan duurzame zorg, afspraken tussen de rijksoverheid en andere partijen om duurzame plannen uit te voeren op het gebied van zorg (C-238)’, zoals overeengekomen op 4 november 2022.
 
-- –. **minister:** Onze Minister van Volksgezondheid, Welzijn en Sport.
+- – *minister:* Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-- –. **ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport.
+- – *ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-- –. **regiegroep:** de ‘Regiegroep Green Deal’, bedoeld in artikel 7, onder a, Green Deal Samen werken aan duurzame zorg.
+- – *regiegroep:* de ‘Regiegroep Green Deal’, bedoeld in artikel 7, onder a, Green Deal Samen werken aan duurzame zorg.
 
 ##### Artikel 2. Instelling
 
@@ -124,7 +94,7 @@ De minister voorziet in het secretariaat van de bestuurlijke aanjager.
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking de dag na datum van uitgifte van de **Staatscourant** waarin het wordt geplaatst en werkt terug tot en met 1 juni 2023.
+Dit besluit treedt in werking de dag na datum van uitgifte van de *Staatscourant* waarin het wordt geplaatst en werkt terug tot en met 1 juni 2023.
 
 ##### Artikel 11. Citeertitel
 
