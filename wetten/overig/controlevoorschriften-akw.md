@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 16, eerste lid, van de Algemene kinderbijslagwet (Controlevoorschriften AKW)"
+citeertitel: "Controlevoorschriften AKW"
 identifier: "BWBR0048929"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-24"
-last_updated: "2023-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048929"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "16927533"
-version_id: "29750352"
-internal_id: "C42639521"
-label_id: "16839104"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048929/2023-11-24/0"
-intitule_bron: "Stcrt.2023-31937"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-13"
-intitule_published: "2023-11-22"
-intitule_in_force: "2023-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31937"
-original_signed_date: "2023-11-13"
-original_published_date: "2023-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31937"
-entry_into_force_date: "2023-11-24"
-jci_1_3: "jci1.3:c:BWBR0048929&z=2023-11-24&g=2023-11-24"
-jci_1_0: "1.0:c:BWBR0048929&g=2023-11-24"
-citeertitel_status: "officieel"
-short_title: "Controlevoorschriften AKW"
-signed_date: "2023-11-13"
-entry_into_force: "2023-11-24"
+publicatiedatum: 2023-11-24
+laatste_update: 2023-11-24
+status: geldig
+toestand: 2023-11-24
+bron: "https://wetten.overheid.nl/BWBR0048929"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 16, eerste lid, van de Algemene kinderbijslagwet (Controlevoorschriften AKW)
-
-Gelet op [artikel 16, eerste lid, van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=16);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de AKW:** de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+- a. *de AKW:* de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
 
-- b. **SVB:** de Sociale verzekeringsbank;
+- b. *SVB:* de Sociale verzekeringsbank;
 
-- c. **kinderbijslag:** kinderbijslag in de zin van [Hoofdstuk III van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III);
+- c. *kinderbijslag:* kinderbijslag in de zin van [Hoofdstuk III van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&hoofdstuk=III);
 
-- d. **een kind:** een eigen kind, een aangehuwd kind of een pleegkind als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048929&hoofdstuk=2&artikel=7&z=2023-11-24&g=2023-11-24), waarvoor kinderbijslag is aangevraagd of dat van invloed is op de hoogte van de kinderbijslag, en ten opzichte waarvan men niet van de verplichting tot het opgeven van wijzigingen is ontslagen;
+- d. *een kind:* een eigen kind, een aangehuwd kind of een pleegkind als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048929&hoofdstuk=2&artikel=7&z=2023-11-24&g=2023-11-24), waarvoor kinderbijslag is aangevraagd of dat van invloed is op de hoogte van de kinderbijslag, en ten opzichte waarvan men niet van de verplichting tot het opgeven van wijzigingen is ontslagen;
 
-- e. **de partner:** de persoon met wie de aanvrager een huishouden vormt.
+- e. *de partner:* de persoon met wie de aanvrager een huishouden vormt.
 
 ##### Artikel 2
 
@@ -120,7 +94,7 @@ Als het kind onderwijs volgt in het buitenland, zorgt de in [artikel 2, eerste l
 
 ##### Artikel 13
 
-Het [Besluit van de Sociale Verzekeringsbank van 26 januari 1996, Stcrt. 1996, 141](https://wetten.overheid.nl/jci1.3:c:BWBR0007872), laatstelijk gewijzigd door Stcrt. 2008, 112, wordt ingetrokken.
+Het [Besluit van de Sociale Verzekeringsbank van 26 januari 1996, Stcrt. 1996, 141](https://wetten.overheid.nl/jci1.3:c:BWBR0007872), laatstelijk gewijzigd door Stcrt. 2008, 112, wordt ingetrokken.
 
 ##### Artikel 14
 
@@ -129,5 +103,3 @@ Dit besluit treedt in werking twee dagen na plaatsing in de Staatscourant.
 ##### Artikel 15
 
 Dit besluit wordt aangehaald als: ’Controlevoorschriften AKW’.
-
-Dit reglement wordt in de Staatscourant geplaatst.

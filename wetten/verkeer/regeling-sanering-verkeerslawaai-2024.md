@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 6 december 2023, nr. IENW/BSK-2023/343978, houdende regels voor toekenning van bijdragen voor sanering van verkeerslawaai (Regeling sanering verkeerslawaai 2024)"
+citeertitel: "Regeling sanering verkeerslawaai 2024"
 identifier: "BWBR0049082"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-14"
-last_updated: "2025-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049082"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16963343"
-version_id: "29820022"
-internal_id: "C42736531"
-label_id: "16874364"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049082/2025-11-14/0"
-intitule_bron: "Stcrt.2023-32620"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-06"
-intitule_published: "2023-12-13"
-intitule_in_force: "2023-03-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-32620"
-original_signed_date: "2023-12-06"
-original_published_date: "2023-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-32620"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049082&z=2025-11-14&g=2025-11-14"
-jci_1_0: "1.0:c:BWBR0049082&g=2025-11-14"
-citeertitel_status: "officieel"
-short_title: "Regeling sanering verkeerslawaai 2024"
-signed_date: "2023-12-06"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2025-11-14
+status: geldig
+toestand: 2025-11-14
+bron: "https://wetten.overheid.nl/BWBR0049082"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 6 december 2023, nr. IENW/BSK-2023/343978, houdende regels voor toekenning van bijdragen voor sanering van verkeerslawaai (Regeling sanering verkeerslawaai 2024)
-
-Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), [artikel 2, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop de Omgevingswet in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,65 +20,66 @@ Treedt in werking op het tijdstip waarop de Omgevingswet in werking treedt.
 
 In deze regeling wordt verstaan onder:
 
-- **afschermende maatregel:** geluidbeperkende maatregel bestaande uit een werk of bouwwerk die de overdracht van geluid door een weg of spoorweg naar een geluidgevoelig gebouw beperkt;
+- *afschermende maatregel:* geluidbeperkende maatregel bestaande uit een werk of bouwwerk die de overdracht van geluid door een weg of spoorweg naar een geluidgevoelig gebouw beperkt;
 
-- **Bkl:** [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313);
+- *Bkl:*
+ [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313);
 
-- **bijdrage:** specifieke uitkering of een subsidie op grond van deze regeling;
+- *bijdrage:* specifieke uitkering of een subsidie op grond van deze regeling;
 
-- **bronmaatregel:** geluidbeperkende maatregel die het geluid door een weg of spoorweg beperkt bij de bron;
+- *bronmaatregel:* geluidbeperkende maatregel die het geluid door een weg of spoorweg beperkt bij de bron;
 
-- **budgetontvanger:** ontvanger die is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2025-11-14&g=2025-11-14);
+- *budgetontvanger:* ontvanger die is aangewezen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&bijlage=1&z=2025-11-14&g=2025-11-14);
 
-- **budgetbijdrage:** bijdrage als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14);
+- *budgetbijdrage:* bijdrage als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14);
 
-- **Bureau Sanering Verkeerslawaai:** bureau, genoemd in het [Mandaatbesluit Bureau Sanering Verkeerslawaai 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035624), dat voor de minister deze regeling uitvoert;
+- *Bureau Sanering Verkeerslawaai:* bureau, genoemd in het [Mandaatbesluit Bureau Sanering Verkeerslawaai 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035624), dat voor de minister deze regeling uitvoert;
 
-- **geluid:** geluid zoals dat bepaald wordt in overeenstemming met [artikel 3.24 van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.24);
+- *geluid:* geluid zoals dat bepaald wordt in overeenstemming met [artikel 3.24 van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.24);
 
-- **gekoppelde sanering:** sanering die bij de uitvoering samenloopt met het treffen van maatregelen als bedoeld in [artikel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.28), [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.35) of [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.37), [5.78j](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78j), [5.78k](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78k) of [5.78af van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78af), [artikel 22.272 van het Invoeringsbesluit Omgevingswet](onbekend) of [artikel 21a van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=21a);
+- *gekoppelde sanering:* sanering die bij de uitvoering samenloopt met het treffen van maatregelen als bedoeld in [artikel 3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.28), [3.35](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.35) of [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.37), [5.78j](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78j), [5.78k](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78k) of [5.78af van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=5.78af), artikel 22.272 van het Invoeringsbesluit Omgevingswet of [artikel 21a van het Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=21a);
 
-- **geluidbeperkende maatregel:** maatregel die het geluid op een geluidgevoelig gebouw verlaagt;
+- *geluidbeperkende maatregel:* maatregel die het geluid op een geluidgevoelig gebouw verlaagt;
 
-- **geluidgevoelig gebouw:** gebouw of een gedeelte van een gebouw als bedoeld in [artikel 3.21 van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.21);
+- *geluidgevoelig gebouw:* gebouw of een gedeelte van een gebouw als bedoeld in [artikel 3.21 van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.21);
 
-- **geluidwerende maatregel:** maatregel aan een geluidgevoelig gebouw ter beperking van het geluid in dat gebouw;
+- *geluidwerende maatregel:* maatregel aan een geluidgevoelig gebouw ter beperking van het geluid in dat gebouw;
 
-- **gemeenteweg:** weg in beheer bij een gemeente;
+- *gemeenteweg:* weg in beheer bij een gemeente;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **omgevingsdienst:** omgevingsdienst als bedoeld in [artikel 18.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.21);
+- *omgevingsdienst:* omgevingsdienst als bedoeld in [artikel 18.21 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.21);
 
-- **ontvanger:** gemeente, provincie, omgevingsdienst of waterschap;
+- *ontvanger:* gemeente, provincie, omgevingsdienst of waterschap;
 
-- **pre-sanering:** sanering die een provincie kan uitvoeren op basis van de brief van de Staatssecretaris van Infrastructuur en Waterstaat van 1 november 2019 met kenmerk IENW/BSK-2019/217157;
+- *pre-sanering:* sanering die een provincie kan uitvoeren op basis van de brief van de Staatssecretaris van Infrastructuur en Waterstaat van 1 november 2019 met kenmerk IENW/BSK-2019/217157;
 
-- **project:** in tijd en financiële middelen begrensde activiteit gericht op het tot stand brengen van maatregelen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
+- *project:* in tijd en financiële middelen begrensde activiteit gericht op het tot stand brengen van maatregelen als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=3&z=2025-11-14&g=2025-11-14);
 
-- **projectbijdrage:** bijdrage als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14);
+- *projectbijdrage:* bijdrage als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14);
 
-- **provinciale weg:** weg in beheer bij een provincie;
+- *provinciale weg:* weg in beheer bij een provincie;
 
-- **saneringsgebouwen:** geluidgevoelige gebouwen als bedoeld in [artikel 15.2 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.2), die zijn vermeld op de saneringslijst, dan wel gebouwen waarvoor de provincie conform de uitgangspunten van de pre-sanering inschat dat deze op de saneringslijst komen;
+- *saneringsgebouwen:* geluidgevoelige gebouwen als bedoeld in [artikel 15.2 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.2), die zijn vermeld op de saneringslijst, dan wel gebouwen waarvoor de provincie conform de uitgangspunten van de pre-sanering inschat dat deze op de saneringslijst komen;
 
-- **saneringslijst:** lijst als bedoeld in [artikel 15.2, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.2);
+- *saneringslijst:* lijst als bedoeld in [artikel 15.2, eerste lid, van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.2);
 
-- **saneringsprogramma:** programma of deel van een programma als bedoeld in [artikel 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.12), [12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13) en [12.13a van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a), dan wel een besluit van Gedeputeerde Staten over de geluidbeperkende en geluidwerende maatregelen voor een specifieke projectlocatie in het kader van het actieplan omgevingslawaai, waarbij wordt voldaan aan de voorwaarden in [artikel 12.13a, eerste en tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a);
+- *saneringsprogramma:* programma of deel van een programma als bedoeld in [artikel 12.12](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.12), [12.13](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13) en [12.13a van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a), dan wel een besluit van Gedeputeerde Staten over de geluidbeperkende en geluidwerende maatregelen voor een specifieke projectlocatie in het kader van het actieplan omgevingslawaai, waarbij wordt voldaan aan de voorwaarden in [artikel 12.13a, eerste en tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.13a);
 
-- **spoorweg:** lokale spoorweg als bedoeld in de [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363);
+- *spoorweg:* lokale spoorweg als bedoeld in de [Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363);
 
-- **toolbox vrijwillige geluidsanering:** methodiek om de overschrijding van de binnenwaarde te schatten (vastgesteld op 8 april 2021, vindplaats [www.bureausaneringverkeerslawaai.nl](http://www.bureausaneringverkeerslawaai.nl));
+- *toolbox vrijwillige geluidsanering:* methodiek om de overschrijding van de binnenwaarde te schatten (vastgesteld op 8 april 2021, vindplaats [www.bureausaneringverkeerslawaai.nl](http://www.bureausaneringverkeerslawaai.nl));
 
-- **verkeersmaatregelen:** maatregelen die tot doel hebben het geluid, veroorzaakt door het verkeer op de weg of spoorweg, te verminderen;
+- *verkeersmaatregelen:* maatregelen die tot doel hebben het geluid, veroorzaakt door het verkeer op de weg of spoorweg, te verminderen;
 
-- **vrijwillig te saneren gebouwen:** geluidgevoelige gebouwen die worden opgenomen in een saneringsprogramma en voldoen aan [artikel 12.11, tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.11);
+- *vrijwillig te saneren gebouwen:* geluidgevoelige gebouwen die worden opgenomen in een saneringsprogramma en voldoen aan [artikel 12.11, tweede lid, van het Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.11);
 
-- **waterschapsweg:** weg in beheer bij een waterschap;
+- *waterschapsweg:* weg in beheer bij een waterschap;
 
-- **weg:** gemeenteweg, waterschapsweg of provinciale weg.
+- *weg:* gemeenteweg, waterschapsweg of provinciale weg.
 
-##### Artikel 2. [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Kaderbesluit subsidies I en M
 
 De [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) en [21 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van overeenkomstige toepassing op een bijdrage.
 
@@ -146,8 +119,8 @@ De [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&ar
 | 1-2 | 30% |
 | 3-6 | 50% |
 | ≥7 | 60% |
-|   |   |
-| **Ander criterium** |   |
+|  |  |
+| Ander criterium |  |
 | Het berekende gezamenlijke geluid op de gevel is > 70 dB | 60% |
 
 5. De budgetbijdrage heeft een looptijd van maximaal 5 jaar.
@@ -236,33 +209,33 @@ Kosten die in aanmerking komen voor een bijdrage voor voorbereiding, begeleiding
 
 - a. de volgende uitvoeringen van een scherm:
 
-- 1°. absorberende geluidschermen;
+   - 1°. absorberende geluidschermen;
 
-- 2°. reflecterende geluidschermen;
+   - 2°. reflecterende geluidschermen;
 
-- 3°. geluidschermen op kunstwerken;
+   - 3°. geluidschermen op kunstwerken;
 
-- 4°. transparante geluidschermen, voor zover nodig wegens veiligheidseisen of lichttoetreding in gebouwen;
+   - 4°. transparante geluidschermen, voor zover nodig wegens veiligheidseisen of lichttoetreding in gebouwen;
 
-- 5°. hellende geluidschermen;
+   - 5°. hellende geluidschermen;
 
 - b. noodzakelijke aanvullende voorzieningen, zoals:
 
-- 1°. aanpassing van het talud;
+   - 1°. aanpassing van het talud;
 
-- 2°. afwateringsvoorzieningen;
+   - 2°. afwateringsvoorzieningen;
 
-- 3°. beplanting tegen een geluidscherm, gras op een geluidwal, vervanging (alleen klein groen) of terugplaatsing van beplanting die voor de bouw van een geluidscherm of -wal moest worden verwijderd;
+   - 3°. beplanting tegen een geluidscherm, gras op een geluidwal, vervanging (alleen klein groen) of terugplaatsing van beplanting die voor de bouw van een geluidscherm of -wal moest worden verwijderd;
 
-- 4°. bouwkosten voor veiligheidsmaatregelen voor noodzakelijke aanvullende voorzieningen voor een geluidscherm;
+   - 4°. bouwkosten voor veiligheidsmaatregelen voor noodzakelijke aanvullende voorzieningen voor een geluidscherm;
 
-- 5°. aanvulling van grond;
+   - 5°. aanvulling van grond;
 
 - c. noodzakelijke wijzigingen aan kabels en leidingen, zoals:
 
-- 1°. beschermingsmaatregelen voor kabels en leidingen;
+   - 1°. beschermingsmaatregelen voor kabels en leidingen;
 
-- 2°. het verleggen van de gebruikelijk aanwezige kabels en leidingen;
+   - 2°. het verleggen van de gebruikelijk aanwezige kabels en leidingen;
 
 - d. verkeersmaatregelen op de weg die noodzakelijk zijn voor de bouw.
 
@@ -294,11 +267,11 @@ Kosten die in aanmerking komen voor een bijdrage voor maatregelen waardoor een g
 
 1. De minister maakt de tijdvakken voor projectbijdragen en budgetbijdragen uiterlijk in november van het jaar voorafgaand aan het tijdvak waarvoor het plafond wordt vastgesteld, bekend in de Staatscourant, waarbij ook het plafond per tijdvak wordt vastgesteld.
 
-2. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.000.000 voor 2024.
+2. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.000.000 voor 2024.
 
-3. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.435.000 voor 2025.
+3. Het plafond voor budgetbijdragen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) wordt vastgesteld op € 2.435.000 voor 2025.
 
-4. Het plafond voor budgetbijdragen als bedoeld in artikel 4 wordt vastgesteld op € 3.000.000 voor 2026.
+4. Het plafond voor budgetbijdragen als bedoeld in artikel 4 wordt vastgesteld op € 3.000.000 voor 2026.
 
 5. Indien het plafond voor projectbijdragen of het plafond voor budgetbijdragen niet volledig wordt benut in het tijdvak waarvoor het is vastgesteld, kan de minister het resterende bedrag beschikbaar stellen voor aanvragen vallend onder het andere plafond wanneer dit reeds voor het aflopen van het tijdvak volledig is uitgeput.
 
@@ -600,7 +573,7 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 2. Het eerste voorschot voor een budgetbijdrage wordt binnen vier weken na verlening of aan de hand van de liquiditeitsbehoefte voor het saneringsprogramma verstrekt.
 
-3. De voorschotverlening kan worden opgeschort zolang de rapportage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
+3. De voorschotverlening kan worden opgeschort zolang de rapportage, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.2&artikel=30&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
 
 ##### Artikel 34. Bevoorschotting projectbijdrage
 
@@ -612,7 +585,7 @@ Zolang nog geen aanvraag tot vaststelling is ingediend, dienen waterschappen een
 
 4. Voorschotten als bedoeld in het derde lid worden maximaal viermaal, gelijkmatig verspreid over het tijdvak waarin de maatregelen zullen worden getroffen, of aan de hand van de liquiditeitsbehoefte voor het project verstrekt, nadat de ontvanger aan de verplichting van [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.1&artikel=27&z=2025-11-14&g=2025-11-14), om de terinzagelegging van het saneringsprogramma te melden, heeft voldaan, en de minister met het saneringsprogramma heeft ingestemd ingevolge [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=31&z=2025-11-14&g=2025-11-14).
 
-5. De voorschotverlening aan een waterschap wordt opgeschort zolang de rapportage, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=32&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
+5. De voorschotverlening aan een waterschap wordt opgeschort zolang de rapportage, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=7&paragraaf=7.3&artikel=32&z=2025-11-14&g=2025-11-14), in strijd met dat artikel niet is ontvangen.
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
@@ -739,45 +712,45 @@ Gemeenten, provincies en omgevingsdiensten leggen verantwoording af over de best
 
 - a. Voor bijdrageverlening:
 
-- 1°. het aantal verleende budgetbijdragen;
+   - 1°. het aantal verleende budgetbijdragen;
 
-- 2°. het aantal saneringsgebouwen waarvoor een budgetbijdrage is verleend;
+   - 2°. het aantal saneringsgebouwen waarvoor een budgetbijdrage is verleend;
 
-- 3°. het aantal vrijwillig te saneren gebouwen waarvoor een budgetbijdrage is verleend;
+   - 3°. het aantal vrijwillig te saneren gebouwen waarvoor een budgetbijdrage is verleend;
 
-- 4°. het bedrag dat is aangevraagd voor budgetbijdragen;
+   - 4°. het bedrag dat is aangevraagd voor budgetbijdragen;
 
-- 5°. het bedrag dat is verleend voor budgetbijdragen;
+   - 5°. het bedrag dat is verleend voor budgetbijdragen;
 
-- 6°. het aantal aanvragen voor een projectbijdrage;
+   - 6°. het aantal aanvragen voor een projectbijdrage;
 
-- 7°. het aantal verleende projectbijdragen;
+   - 7°. het aantal verleende projectbijdragen;
 
-- 8°. het aantal saneringsgebouwen waarvoor een projectbijdrage is verleend;
+   - 8°. het aantal saneringsgebouwen waarvoor een projectbijdrage is verleend;
 
-- 9°. het aantal vrijwillig te saneren gebouwen waarvoor een projectbijdrage is verleend;
+   - 9°. het aantal vrijwillig te saneren gebouwen waarvoor een projectbijdrage is verleend;
 
-- 10°. het bedrag dat is aangevraagd voor projectbijdragen
+   - 10°. het bedrag dat is aangevraagd voor projectbijdragen
 
-- 11°. het bedrag dat is verleend voor projectbijdragen;
+   - 11°. het bedrag dat is verleend voor projectbijdragen;
 
 - b. Voor bijdragevaststelling:
 
-- 1°. het aantal vastgestelde budgetbijdragen;
+   - 1°. het aantal vastgestelde budgetbijdragen;
 
-- 2°. het aantal saneringsgebouwen waarvoor de budgetbijdrage is vastgesteld;
+   - 2°. het aantal saneringsgebouwen waarvoor de budgetbijdrage is vastgesteld;
 
-- 3°. het aantal vrijwillig te saneren gebouwen waarvoor de budgetbijdrage is vastgesteld;
+   - 3°. het aantal vrijwillig te saneren gebouwen waarvoor de budgetbijdrage is vastgesteld;
 
-- 4°. het vastgestelde totaalbedrag voor budgetbijdragen;
+   - 4°. het vastgestelde totaalbedrag voor budgetbijdragen;
 
-- 5°. het aantal vastgestelde projectbijdragen;
+   - 5°. het aantal vastgestelde projectbijdragen;
 
-- 6°. het aantal saneringsgebouwen waarvoor een projectbijdrage is vastgesteld;
+   - 6°. het aantal saneringsgebouwen waarvoor een projectbijdrage is vastgesteld;
 
-- 7°. het aantal vrijwillig te saneren gebouwen waarvoor een projectbijdrage is vastgesteld;
+   - 7°. het aantal vrijwillig te saneren gebouwen waarvoor een projectbijdrage is vastgesteld;
 
-- 8°. het vastgestelde totaalbedrag voor projectbijdragen;
+   - 8°. het vastgestelde totaalbedrag voor projectbijdragen;
 
 - c. Voor maatregelen: het aantal gebouwen per maatregel dat (mede) met die maatregel is gesaneerd, met onderscheid naar saneringsgebouwen en vrijwillig te saneren gebouwen.
 
@@ -792,151 +765,3 @@ Deze regeling treedt in werking op het tijdstip waarop de [Omgevingswet](https:/
 ##### Artikel 45. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sanering verkeerslawaai 2024.
-
-## Bijlage 1. Budgetontvangers als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=1&artikel=1&z=2025-11-14&g=2025-11-14)
-
-Provincie Utrecht
-
-Provincie Noord-Brabant
-
-Provincie Gelderland
-
-Provincie Friesland
-
-Provincie Noord-Holland
-
-Provincie Zuid-Holland
-
-Provincie Drenthe
-
-## Bijlage 2. Berekening van de bijdrage als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14)
-
-### a. Berekening bijdrage voor de voorbereiding, begeleiding en toezicht bij geluidwerende maatregelen
-
-Het in [artikel 36, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), bedoelde bedrag voor de voorbereiding, begeleiding en toezicht bij geluidwerende maatregelen is een bedrag per woning, zoals opgenomen in de tabel, waarbij per woning slechts één categorie van toepassing is.
-
-### Toelichting bij de tabel
-
-**Woningtype 2:** vrijstaande woning
-
-Dit betreft woningen die als gesaneerd kunnen worden aangemerkt zonder dat er een akoestisch-bouwkundige opname heeft plaatsgevonden en zonder dat een toetsingsberekening is uitgevoerd. Bijvoorbeeld omdat de eigenaar geen medewerking heeft verleend. Onder deze categorie valt ook de sanering waarbij na schouwing van de buitenzijde wordt besloten dat geen maatregelen noodzakelijk zijn.
-
-### Categorie A: ‘Formeel gesaneerd’
-
-Dit betreft het bedrag voor woningen waarvoor geldt dat na uitvoering van een akoestisch-bouwkundige opname en een toetsingsberekening blijkt dat maatregelen nodig zijn. In het bedrag is een opslag verwerkt voor het regelen van de aanbesteding en het per 20 woningen uitvoeren van een controlemeting.
-
-### b. Maximale bijdrage verkeersmaatregelen
-
-De maximale bijdrage voor verkeersmaatregel, als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), wordt per woning bepaald door het geluid op de gevel van de woning en door de mate van afname die met de verkeersmaatregelen wordt gerealiseerd. Omdat de saneringsdrempel afwijkend is voor provinciale wegen buiten de bebouwde kom, is de bijdrage voor een woning langs die wegen bij hetzelfde geluid hoger dan bij andere wegen.
-
-### Categorie C: ‘Maatregelen’
-
-2 Eenheid: – bij woningen: elke woning; – bij andere geluidgevoelige gebouwen per 5 meter gevellengte
-
-### c. Maximale bijdrage afschermende maatregelen
-
-De maximale bijdrage voor afschermende maatregelen, als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), is gebaseerd op de gemiddelde kosten van een geluidscherm. De maximale bijdrage bestaat uit een basisbedrag waarop een aantal correcties worden toegepast. De uitkomst voor het gemiddelde scherm wordt daarna vermeerderd met 10% van het totaal om te komen tot de maximale bijdrage. Onder de tabellen staat de precieze werkwijze voor de berekening. Op de website [www.bureausaneringverkeerslawaai.nl](http://www.bureausaneringverkeerslawaai.nl/) wordt een rekenformulier geplaatst waarmee de maximale bijdrage berekend kan worden. Dit formulier kan ook gebruikt worden om de kosten van een scherm vooraf te ramen.
-
-1voor zover niet op een kunstwerk geplaatst
-
-1voor zover niet op een kunstwerk geplaatst
-
-### c. Maximale bijdrage afschermende maatregelen
-
-De maximale bijdrage voor afschermende maatregelen, als bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2024-12-03&g=2024-12-03), is gebaseerd op de gemiddelde kosten van een geluidscherm. De maximale bijdrage bestaat uit een basisbedrag waarop een aantal correcties worden toegepast. De uitkomst voor het gemiddelde scherm wordt daarna vermeerderd met 10% van het totaal om te komen tot de maximale bijdrage. Onder de tabellen staat de precieze werkwijze voor de berekening. Op de website [www.bureausaneringverkeerslawaai.nl](http://www.bureausaneringverkeerslawaai.nl/) wordt een rekenformulier geplaatst waarmee de maximale bijdrage berekend kan worden. Dit formulier kan ook gebruikt worden om de kosten van een scherm vooraf te ramen.
-
-De maximale bijdrage voor geluidwerende maatregelen, zoals bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), wordt per woning bepaald op basis van de volgende toetsbedragen en eventuele correcties en toeslagen.
-
-De belangrijkste aspecten van het systeem van de toetsbedragen zijn:
-
-Wanneer een andere afschermende maatregel wordt toegepast dan een geluidscherm, is de maximale bijdrage gelijk aan:
-
-Het in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), bedoelde maximale bedrag voor maatregelen waardoor een geluidgevoelig gebouw ophoudt een geluidgevoelig gebouw te zijn, is afhankelijk van het geluid op de gevel van het gebouw en het type geluidbron zoals weergegeven in de tabel.
-
-### d. Maximale bijdrage geluidwerende maatregelen
-
-De maximale bijdrage voor geluidwerende maatregelen, zoals bedoeld in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2024-12-03&g=2024-12-03), wordt per woning bepaald op basis van de volgende toetsbedragen en eventuele correcties en toeslagen.
-
-De in [artikel 36, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14), bedoelde bijdrage voor maatregelen aan de constructie van een weg is afhankelijk van de kleinste afname van het geluid op de gevel van een saneringsgebouw of vrijwillig te saneren gebouw volgens de tabel.
-
-### 1. Gevelmaatregelen
-
-### 2. Geluiddempende ventilatievoorzieningen
-
-### 3. Maatregelen hellend dakvlak
-
-### 4. ¡Maatregelen plafonds
-
-**Wijze van berekening met het toetsbedragensysteem voor geluidwerende maatregelen**
-
-De belangrijkste aspecten van het systeem van de toetsbedragen zijn:
-
-### e. Maximale bijdrage voor maatregelen waardoor een geluidgevoelig gebouw ophoudt een geluidgevoelig gebouw te zijn
-
-Het in [artikel 36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2024-12-03&g=2024-12-03), bedoelde maximale bedrag voor maatregelen waardoor een geluidgevoelig gebouw ophoudt een geluidgevoelig gebouw te zijn, is afhankelijk van het geluid op de gevel van het gebouw en het type geluidbron zoals weergegeven in de tabel.
-
-1 uitsluitend voor geluidgevoelige gebouwen langs een provinciale weg buiten de bebouwde kom
-
-### f. Bijdrage maatregelen aan de constructie van een weg
-
-De in [artikel 36, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2024-12-03&g=2024-12-03), bedoelde bijdrage voor maatregelen aan de constructie van een weg is afhankelijk van de kleinste afname van het geluid op de gevel van een saneringsgebouw of vrijwillig te saneren gebouw volgens de tabel.
-
-## Bijlage 3. Normbedragen verlening bijdrage als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2024-12-03&g=2024-12-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2024-12-03&g=2024-12-03)
-
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2024-12-03&g=2024-12-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2024-12-03&g=2024-12-03) bedoelde normbedragen zijn bedragen gebaseerd op de onderstaande tabel, die gelden per te saneren gebouw. De bijdrage per gebouw is de optelling van beide normbedragen.
-
-| Geluid op de gevel (dB) | Normbedrag voorbereiding, begeleiding en toezicht | Normbedrag maatregelen |
-| --- | --- | --- |
-| 61 | €700 | € 0 |
-| 62 | €700 | € 560,00 |
-| 63 | €700 | € 1.200,00 |
-| 64 | €700 | € 2.800,00 |
-| 65 | €700 | € 3.200,00 |
-| 66 | €700 | € 3.600,00 |
-| 67 | €700 | € 4.200,00 |
-| 68 | €700 | € 4.800,00 |
-| 69 | €700 | € 5.200,00 |
-| 70 | €700 | € 5.600,00 |
-| 71 | €700 | € 6.800,00 |
-| 72 | €700 | € 8.000,00 |
-| ≥ 73 | €700 | € 9.600,00 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-**Woningtype 1:** etagewoning, appartement, rijtjeswoning, hoekwoning, geschakelde woning
-
-Dit betreft het bedrag voor woningen waarvoor geldt dat na uitvoering van een akoestisch-bouwkundige opname en een toetsingsberekening geldt dat geen maatregelen nodig zijn. De binnenwaarde voldoet. Dit bedrag is ook van toepassing op woningen waarvoor geldt dat deze na een toetsingsberekening wel voor maatregelen in aanmerking komen, maar waarvoor de eigenaar toch afziet van maatregelen.
-
-1 Dit is het geluid op de uitwendige scheidingsconstructie vóór uitvoering van de maatregelen (in dB)
-
-Wanneer een andere afschermende maatregel wordt toegepast dan een geluidscherm, is de maximale bijdrage gelijk aan de maximale kosten voor een geluidscherm met dezelfde lengte en dezelfde geluidreductie, met de volgende keuzes voor de correctiefactoren in de tabellen 2 tot en met 12. Deze keuzes geven een veel voorkomende situatie voor lokale schermen weer.
-
-### d. Maximale bijdrage geluidwerende maatregelen
-
-### e. Maximale bijdrage voor maatregelen waardoor een geluidgevoelig gebouw ophoudt een geluidgevoelig gebouw te zijn
-
-1 uitsluitend voor geluidgevoelige gebouwen langs een provinciale weg buiten de bebouwde kom
-
-### f. Bijdrage maatregelen aan de constructie van een weg
-
-## Bijlage 3. Berekening van de bijdrage als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=9&artikel=36&z=2025-11-14&g=2025-11-14)
-
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=4&z=2025-11-14&g=2025-11-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049082&hoofdstuk=2&artikel=5&z=2025-11-14&g=2025-11-14) bedoelde normbedragen zijn bedragen gebaseerd op de onderstaande tabel, die gelden per te saneren gebouw. De bijdrage per gebouw is de optelling van beide normbedragen.
-
-| Geluid op de gevel (dB) | Normbedrag voorbereiding, begeleiding en toezicht [€] | Normbedrag maatregelen [€] |
-| --- | --- | --- |
-| 61 | 1.250 | 0 |
-| 62 | 1.250 | 720 |
-| 63 | 1.250 | 1.540,00 |
-| 64 | 1.250 | 3.580,00 |
-| 65 | 1.250 | 4.100,00 |
-| 66 | 1.250 | 4.610,00 |
-| 67 | 1.250 | 5.380,00 |
-| 68 | 1.250 | 6.140,00 |
-| 69 | 1.250 | 6.660,00 |
-| 70 | 1.250 | 7.170,00 |
-| 71 | 1.250 | 8.700,00 |
-| 72 | 1.250 | 10.240,00 |
-| ≥ 73 | 1.250 | 12.290,00 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

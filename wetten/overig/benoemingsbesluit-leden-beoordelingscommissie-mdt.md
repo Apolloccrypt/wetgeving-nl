@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)"
+citeertitel: "Benoemingsbesluit leden beoordelingscommissie MDT"
 identifier: "BWBR0049026"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-16"
-last_updated: "2025-10-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049026"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "16952683"
-version_id: "30973792"
-internal_id: "C44358511"
-label_id: "16863084"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049026/2025-10-16/0"
-intitule_bron: "Stcrt.2023-33513"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-22"
-intitule_published: "2023-12-07"
-intitule_in_force: "2023-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34704"
-original_signed_date: "2025-09-26"
-original_published_date: "2025-10-15"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-34704"
-entry_into_force_date: "2025-09-26"
-jci_1_3: "jci1.3:c:BWBR0049026&z=2025-10-16&g=2025-10-16"
-jci_1_0: "1.0:c:BWBR0049026&g=2025-10-16"
-citeertitel_status: "officieel"
-short_title: "Benoemingsbesluit leden beoordelingscommissie MDT"
-signed_date: "2025-09-26"
-entry_into_force: "2025-09-26"
+publicatiedatum: 2025-09-26
+laatste_update: 2025-10-16
+status: geldig
+toestand: 2025-10-16
+bron: "https://wetten.overheid.nl/BWBR0049026"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)
-
-Gelet op [artikel 4, vierde lid, van het Instellingsbesluit beoordelingscommissie MDT](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2 van het Instellingsbesluit beoordelingscommissie MDT](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2).
+- *commissie:* beoordelingscommissie als bedoeld in [artikel 2 van het Instellingsbesluit beoordelingscommissie MDT](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2).
 
 ##### Artikel 2. Vaste voorzitter en leden
 
@@ -54,107 +28,95 @@ In dit besluit wordt verstaan onder:
 
 2. De overige leden van de commissie zijn:
 
-- –. A. (Akram) Achahboun
+- – A. (Akram) Achahboun
 
-- –. B. (Bilal) el Allouchi
+- – B. (Bilal) el Allouchi
 
-- –. E.G. (Elijah) Alvares
+- – E.G. (Elijah) Alvares
 
-- –. C.T. (Chinyere) Aronu
+- – C.T. (Chinyere) Aronu
 
-- –. Y. (Youssef) Boutkabout
+- – Y. (Youssef) Boutkabout
 
-- –. Z. (Zaid) Bakdounes
+- – Z. (Zaid) Bakdounes
 
-- –. A. (Anass) Boukakar
+- – A. (Anass) Boukakar
 
-- –. G.G.A. (Gilbert) Vanblarcum
+- – G.G.A. (Gilbert) Vanblarcum
 
-- –. V.E.M. (Valeski) Boor
+- – V.E.M. (Valeski) Boor
 
-- –. J. (Joost) Dijkstra
+- – J. (Joost) Dijkstra
 
-- –. K. (Kaya) van den Dikkenberg
+- – K. (Kaya) van den Dikkenberg
 
-- –. N. (Noa) Dunnewind
+- – N. (Noa) Dunnewind
 
-- –. J. (Jan) Faber, vanaf 1 juni 2024
+- – J. (Jan) Faber, vanaf 1 juni 2024
 
-- –. P.A.J. (Pieter) Folkeringa
+- – P.A.J. (Pieter) Folkeringa
 
-- –. G.E. (Rochelle) Heerema-Richardson
+- – G.E. (Rochelle) Heerema-Richardson
 
-- –. S.H. (Selim) Helmi
+- – S.H. (Selim) Helmi
 
-- –. I. (Isra) Khogali
+- – I. (Isra) Khogali
 
-- –. M.J. (Marcel) van Kleij
+- – M.J. (Marcel) van Kleij
 
-- –. D.C. (Dwight) Krolis
+- – D.C. (Dwight) Krolis
 
-- –. E.S. (Emily) de Laat
+- – E.S. (Emily) de Laat
 
-- –. J.Y. (Jessy Yasmeen) Lugo
+- – J.Y. (Jessy Yasmeen) Lugo
 
-- –. A.E.M. (Djela) Breinburg-Maduro
+- – A.E.M. (Djela) Breinburg-Maduro
 
-- –. H.A.M (Hans) Migchielsen, vanaf 1 juni 2024
+- – H.A.M (Hans) Migchielsen, vanaf 1 juni 2024
 
-- –. S. (Salwa) Ringim Mohammed
+- – S. (Salwa) Ringim Mohammed
 
-- –. M. (Mourad) El Moussati
+- – M. (Mourad) El Moussati
 
-- –. B.L. (Boris) Odinot, vanaf 1 juni 2024
+- – B.L. (Boris) Odinot, vanaf 1 juni 2024
 
-- –. K. (Kirsten) Ottens
+- – K. (Kirsten) Ottens
 
-- –. K.J. (Karen) Retera
+- – K.J. (Karen) Retera
 
-- –. R.B.M.S. (Rhobynn) van Rossen
+- – R.B.M.S. (Rhobynn) van Rossen
 
-- –. M. (Marit) Scheers
+- – M. (Marit) Scheers
 
-- –. S.A.H (Ali) Shah, vanaf 1 juni 2024
+- – S.A.H (Ali) Shah, vanaf 1 juni 2024
 
-- –. F.A. (Femke) Soethout
+- – F.A. (Femke) Soethout
 
-- –. M.J.M. (Maud) Stamsnijder
+- – M.J.M. (Maud) Stamsnijder
 
-- –. S. (Sue) van Soest
+- – S. (Sue) van Soest
 
-- –. P. (Parnav) Sira
+- – P. (Parnav) Sira
 
-- –. N.F. (Noraly) van Tinteren
+- – N.F. (Noraly) van Tinteren
 
-- –. J.J.B. (Jacqueline) van der Velden, tot 17 juni 2024
+- – J.J.B. (Jacqueline) van der Velden, tot 17 juni 2024
 
-- –. C.A.G.M. (Corinne) Vellekoop
+- – C.A.G.M. (Corinne) Vellekoop
 
-- –. M.F.G. (Matthijs) Verbeek
+- – M.F.G. (Matthijs) Verbeek
 
-- –. P. (Anna) Versteegh, vanaf 1 juni 2024
+- – P. (Anna) Versteegh, vanaf 1 juni 2024
 
-- –. E. (Evelien) Wieringa, vanaf 1 juni 2024
+- – E. (Evelien) Wieringa, vanaf 1 juni 2024
 
-- –. L. (Lanja) van Wingerden
+- – L. (Lanja) van Wingerden
 
-- –. N.D.R (Niels) Zagema
+- – N.D.R (Niels) Zagema
 
-- –. M.H. (Melle) Zwart
+- – M.H. (Melle) Zwart
 
-3. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2024 voor de periode tot 1 februari 2025.
-
-##### Artikel 3. Inwerkingtreding
-
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
-
-2. Dit besluit vervalt met ingang van 1 juli 2027.
-
-##### Artikel 4. Citeertitel
-
-Dit besluit wordt aangehaald als: Benoemingsbesluit leden beoordelingscommissie MDT.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+3. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2024 voor de periode tot 1 februari 2025.
 
 ##### Artikel 2a. beoordelingscommissie tijdvak 2025
 
@@ -162,68 +124,76 @@ Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezo
 
 2. Tot leden van de commissie worden benoemd:
 
-- –. A. (Akram) Achahboun;
+- – A. (Akram) Achahboun;
 
-- –. J. L. (Joost) van Alkemade;
+- – J. L. (Joost) van Alkemade;
 
-- –. E.G. (Elijah) Alvares;
+- – E.G. (Elijah) Alvares;
 
-- –. C.T. (Chinyere) Aronu;
+- – C.T. (Chinyere) Aronu;
 
-- –. Y. (Youssef) Boutkabout;
+- – Y. (Youssef) Boutkabout;
 
-- –. Z. (Zaid) Bakdounes;
+- – Z. (Zaid) Bakdounes;
 
-- –. G.E. (Rochelle) Heerema-Richardson;
+- – G.E. (Rochelle) Heerema-Richardson;
 
-- –. S.H (Selim) Helmi;
+- – S.H (Selim) Helmi;
 
-- –. S. R. (Sidney) Janssen;
+- – S. R. (Sidney) Janssen;
 
-- –. I. (Isra) Khogali;
+- – I. (Isra) Khogali;
 
-- –. M.J. (Marcel) van Kleij;
+- – M.J. (Marcel) van Kleij;
 
-- –. D.C. (Dwight) Krolis;
+- – D.C. (Dwight) Krolis;
 
-- –. J.Y. (Jessy Yasmeen) Lugo;
+- – J.Y. (Jessy Yasmeen) Lugo;
 
-- –. A.E.M. (Djela) Breinburg-Maduro;
+- – A.E.M. (Djela) Breinburg-Maduro;
 
-- –. S. (Salwa) Ringim Mohammed;
+- – S. (Salwa) Ringim Mohammed;
 
-- –. M. (Mourad) El Moussati;
+- – M. (Mourad) El Moussati;
 
-- –. B.L. (Boris) Odinot;
+- – B.L. (Boris) Odinot;
 
-- –. K.J. (Karen) Retera;
+- – K.J. (Karen) Retera;
 
-- –. R.B.M.S. (Rhobynn) van Rossen;
+- – R.B.M.S. (Rhobynn) van Rossen;
 
-- –. M. (Marit) Scheers;
+- – M. (Marit) Scheers;
 
-- –. F.A. (Femke) Soethout;
+- – F.A. (Femke) Soethout;
 
-- –. S. (Sue) van Soest;
+- – S. (Sue) van Soest;
 
-- –. P. (Parnav) Sira;
+- – P. (Parnav) Sira;
 
-- –. E. (Esther) Starrevelt;
+- – E. (Esther) Starrevelt;
 
-- –. C.A.G.M. (Corinne) Vellekoop;
+- – C.A.G.M. (Corinne) Vellekoop;
 
-- –. M.F.G. (Matthijs) Verbeek;
+- – M.F.G. (Matthijs) Verbeek;
 
-- –. P. (Anna) Versteegh;
+- – P. (Anna) Versteegh;
 
-- –. E. (Evelien) Wieringa;
+- – E. (Evelien) Wieringa;
 
-- –. N.F. (Noraly) van Tinteren;
+- – N.F. (Noraly) van Tinteren;
 
-- –. N.D.R (Niels) Zagema;
+- – N.D.R (Niels) Zagema;
 
-- –. M.H. (Melle) Zwart.
+- – M.H. (Melle) Zwart.
 
-2. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2025 voor de periode tot 1 februari 2026.
+2. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2025 voor de periode tot 1 februari 2026.
 
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+##### Artikel 3. Inwerkingtreding
+
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
+
+2. Dit besluit vervalt met ingang van 1 juli 2027.
+
+##### Artikel 4. Citeertitel
+
+Dit besluit wordt aangehaald als: Benoemingsbesluit leden beoordelingscommissie MDT.

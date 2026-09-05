@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0050945"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 31 maart 2025, nr. MBO/1649552, houdende regels voor het verstrekken van een instellingssubsidie ten behoeve van het organiseren van nationale vakwedstrijden in het voortgezet (speciaal) onderwijs en beroepsonderwijs alsmede het voorbereiden op en deelname aan internationale vakwedstrijden in het beroepsonderwijs (Regeling instellingssubsidie vakwedstrijden vo en mbo 2026–2036)

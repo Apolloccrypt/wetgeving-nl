@@ -1,43 +1,21 @@
 ---
 title: "Besluit algemeen nut investeringen"
 identifier: "BWBR0049518"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-04-03"
-last_updated: "2024-04-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049518"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17062323"
-version_id: "30024942"
-internal_id: "C43037641"
-label_id: "16971144"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049518/2024-04-03/0"
-intitule_bron: "Stcrt.2024-8860"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-15"
-intitule_published: "2024-04-02"
-intitule_in_force: "2024-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8860"
-original_signed_date: "2024-03-15"
-original_published_date: "2024-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8860"
-entry_into_force_date: "2024-04-03"
-jci_1_3: "jci1.3:c:BWBR0049518&z=2024-04-03&g=2024-04-03"
-jci_1_0: "1.0:c:BWBR0049518&g=2024-04-03"
-citeertitel_status: "officieel"
-signed_date: "2024-03-15"
-entry_into_force: "2024-04-03"
+publicatiedatum: 2024-04-03
+laatste_update: 2024-04-03
+status: geldig
+toestand: 2024-04-03
+bron: "https://wetten.overheid.nl/BWBR0049518"
+opgehaald: 2026-09-05
 ---
+
 # Besluit algemeen nut investeringen
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**In dit besluit is beleid opgenomen over de voorwaarden waaraan een investering moet voldoen om als algemeen nut investering te kwalificeren en daarmee binnen de kaders van het bestedings-criterium te blijven. Met dit beleid wordt uitvoering gegeven aan de toezegging die ik in het kader van de verbetervoorstellen van de giftenaftrek en ANBI/SBBI-regeling heb gedaan aan de Tweede Kamer.** 1 Kamerstukken II, 2018/19, 35 026, nr. 63, blz. 9 en Kamerstukken II, 2018/19, 35 026, nr. 67, p. 7.
+*In dit besluit is beleid opgenomen over de voorwaarden waaraan een investering moet voldoen om als algemeen nut investering te kwalificeren en daarmee binnen de kaders van het bestedings-criterium te blijven. Met dit beleid wordt uitvoering gegeven aan de toezegging die ik in het kader van de verbetervoorstellen van de giftenaftrek en ANBI/SBBI-regeling heb gedaan aan de Tweede Kamer.*
+ 1
+ Kamerstukken II, 2018/19, 35 026, nr. 63, blz. 9 en Kamerstukken II, 2018/19, 35 026, nr. 67, p. 7.
 
 ### 1. Inleiding
 
@@ -45,25 +23,47 @@ In [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overh
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+- *Algemeen nut investering:* een investering die voldoet aan de voorwaarden van [onderdeel 3](https://wetten.overheid.nl/BWBR0049518) van dit besluit
+
+- *ANBI:* een algemeen nut beogende instelling als bedoeld in [artikel 5b van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b)
+
+- *AWR:*
+ [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+
+- *Bestedingscriterium:* de regeling van [artikel 1a, lid 1, sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1a) juncto [artikel 1b Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1b)
+
+- *UR AWR:*
+ [Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006736)
+
 ### 2. Bestedingscriterium
 
 ANBI’s moeten hun inkomsten daadwerkelijk besteden aan de algemeen nuttige doelstelling. Een ANBI moet meer dan 90% van haar bestedingen algemeen nuttig doen. Zij mag daarom niet meer vermogen aanhouden dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.2Artikel 1a, lid 1, sub d juncto artikel 1b UR AWR. Dit vereiste wordt ook wel aangeduid als het bestedingscriterium of anti-oppoteis.3In dit besluit wordt de term ‘bestedingscriterium’ gehanteerd. Deze voorwaarde is opgenomen om zeker te stellen dat de ANBI de gelden die voor het algemeen nut zijn bestemd, besteedt conform haar algemeen nuttige doelstelling en niet nodeloos vermogen oppot.
 
-De voorwaarden waaraan een investering moet voldoen om als algemeen nut investering te kunnen worden aangemerkt, zijn opgenomen in onderdeel 3. In dit onderdeel wordt onder het begrip ‘investering’ voor de toepassing van dit besluit verstaan het ter beschikking stellen van geld en/of goederen, al dan niet tegen verkrijging van aandelen of winstbewijzen, waarvan de (tegen)waarde zichtbaar blijft als activum bij de investerende ANBI. Onder het ter beschikking stellen van geld valt ook het verstrekken van leningen.
+De voorwaarden waaraan een investering moet voldoen om als algemeen nut investering te kunnen worden aangemerkt, zijn opgenomen in [onderdeel 3](https://wetten.overheid.nl/BWBR0049518). In dit onderdeel wordt onder het begrip ‘investering’ voor de toepassing van dit besluit verstaan het ter beschikking stellen van geld en/of goederen, al dan niet tegen verkrijging van aandelen of winstbewijzen, waarvan de (tegen)waarde zichtbaar blijft als activum bij de investerende ANBI. Onder het ter beschikking stellen van geld valt ook het verstrekken van leningen.
 
-Als een investering voldoet aan de voorwaarden van onderdeel 3, dan kwalificeert deze investering als een algemeen nuttige activiteit en daarmee als vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.
+Als een investering voldoet aan de voorwaarden van [onderdeel 3](https://wetten.overheid.nl/BWBR0049518), dan kwalificeert deze investering als een algemeen nuttige activiteit en daarmee als vermogen dat nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling van de instelling.
 
 ### 3. Voorwaarden algemeen nut investeringen
 
+- a. Het primaire doel van de investering is het rechtstreeks verwezenlijken of bevorderen van een of meer van de algemeen nuttige doelen van de ANBI, zoals opgenomen in haar statuten. Dit doel (of deze doelen) moet(en) voldoende concreet bepaald zijn en ook feitelijk geheel dan wel nagenoeg geheel worden gediend met de investering.4Artikel 5b, eerste lid, sub a, ten eerste en derde lid AWR juncto artikel 1a, eerste lid, onderdeel b en vijfdelid UR AWR. De werkzaamheden van een ANBI moeten rechtstreeks erop zijn gericht enig algemeen belang te dienen5Dit volgt o.a. uit de uitspraak van Gerechtshof Den Haag van 20 januari 2021, nr. BK-20/00480, ECLI:NL:GHDHA:2021:270 en de uitspraak van Rechtbank Noord-Holland van 16 januari 2014, nr. AWB 13/2344, ECLI:NL:RBNHO:2014:201. en het doel dat door de ANBI wordt beoogd moet (nagenoeg) geheel ten bate van het algemeen belang strekken. Een ANBI moet dus meer zijn dan alleen een doorgeefluik. Het enkel financieel of op andere wijze ondersteunen van een ander lichaam is op zichzelf onvoldoende, behalve als het doel van de ANBI is het ondersteunen van een of meerdere specifieke ANBI’s ([artikel 5b, lid 3, onderdeel m, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b)). Om als algemeen nuttige activiteit te kunnen worden aangemerkt is het nodig dat de investering past binnen de eigen algemeen nuttige doelstelling van de investerende ANBI. Dit vereist dat het doel van de investering voldoende concreet is, bijvoorbeeld een specifiek project dat of een bepaalde activiteit die aansluit bij de algemeen nuttige doelstelling van de ANBI. Daarbij wordt van de investerende ANBI bovendien een actieve houding en betrokkenheid verwacht om te kunnen waarborgen dat de investering ook feitelijk past en blijft passen binnen haar eigen algemeen nuttige doelstelling. Onder het voorgaande valt niet de situatie van een concern met een topstichting, waarbij de feitelijke werkzaamheden plaatsvinden op het niveau van de onderliggende vennootschap(pen).6Zie o.a. de uitspraak van gerechtshof Den Haag van 20 januari 2021, nr. BK-20/00480, ECLI:NL:GHDHA:2021:270 In die situatie is niet zozeer sprake van een investering, maar van een bepaalde vormgeving van de concernstructuur. Daarbij kunnen de activiteiten van de onderliggende vennootschap(pen) niet aan de topstichting worden toegerekend. Een voorbeeld waar in dit verband wel aan kan worden gedacht is de situatie waarin een instelling investeringen doet die passen binnen haar eigen doelstelling en deze investeringen weer afstoot op het moment dat deze niet langer of in onvoldoende mate bijdragen aan die doelstelling.
+
+- b. De investering is geen zakelijke activiteit met als primair doel om daarmee een voordeel te behalen. Deze voorwaarde sluit aan bij voorwaarde a. Als sprake is van een zakelijke activiteit met als primair doel het behalen van een voordeel, dan is deze activiteit niet primair gericht op het realiseren van de algemeen nuttige doelstelling. Dit betekent niet dat als met een investering een voordeel wordt behaald, deze investering niet als algemeen nut investering kan kwalificeren. Van belang is steeds wat primair met de investering wordt beoogd. Het uitlenen van geld of het anderszins doen van investeringen, een en ander onder marktconforme voorwaarden, is in principe een normale, zakelijke activiteit, die niet als algemeen nuttig kwalificeert.7Kamerstukken II 2011/12, 33 003, nr. 17, p. 52. Bij de beoordeling of een investering als algemeen nut investering kwalificeert, is van belang dat andere (commerciële) partijen niet of onvoldoende bereid zijn om diezelfde investering te doen, gelet op de financiële risico’s die daaraan verbonden zijn. De investering van de ANBI is dan cruciaal voor het doorgang vinden van de activiteit of het project waarin wordt geïnvesteerd. Voegen andere (commerciële) investeerders zich bij de investerende ANBI, dan kan dat een indicatie zijn dat de investering niet (langer) primair is gericht op het (rechtstreeks) realiseren van de algemeen nuttige doelstelling. Uiteraard is daarbij steeds van belang wat de reden is dat andere (commerciële) investeerders bereid zijn om (mee) te investeren. Is dat bijvoorbeeld omdat de ANBI bepaalde financiële garanties afgeeft en/of zij onder gunstigere voorwaarden investeren dan de ANBI, waardoor ze minder risico lopen? In deze beide situaties kan de aanwezigheid van de ANBI nog steeds cruciaal zijn, namelijk voor de bereidheid van andere (commerciële) partijen om ook te investeren en daarmee de activiteit of het project waarin wordt geïnvesteerd doorgang te kunnen laten vinden. De ANBI neemt in laatstgenoemde situaties meer risico op zich, waarvan de andere investeerders in zekere zin profiteren. Dit kan onder omstandigheden betekenen dat met de investering niet primair het algemeen nut, maar particuliere belangen worden beoogd. Blijkt na verloop van tijd dat een investering structureel tot positieve opbrengsten leidt, waarmee deze (ook) interessant wordt voor andere (commerciële) partijen, dan kan dit eveneens een indicatie zijn dat deze investering vanaf een bepaald moment niet langer primair is gericht op het (rechtstreeks) realiseren van de algemeen nuttige doelstelling van de ANBI. Voor algemeen nut investeringen geldt, net als voor andere algemeen nuttige activiteiten, dat een instelling met het totaal van haar algemeen nuttige activiteiten geen winstoogmerk mag hebben ([artikel 1a, eerste lid, onderdeel a, UR AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1a)). Ook geldt dat activiteiten geen algemeen nuttige activiteiten zijn als de instelling het geheel van die activiteiten tegen commerciële tarieven verricht (artikel 1a, vijfde lid, UR AWR). Een en ander wordt naar objectieve maatstaven beoordeeld.
+
+- c. Het bedrag van de investering moet door de organisatie waarin wordt geïnvesteerd (nagenoeg) geheel worden aangewend ten behoeve van de activiteit(en) die of het project dat verband houdt met het doel van de investerende ANBI. Deze voorwaarde sluit eveneens aan bij voorwaarde a. Een investering van een ANBI in een commerciële organisatie kan voor de ANBI een algemeen nuttig karakter hebben als deze organisatie een bepaalde activiteit verricht of een bepaald project uitvoert dat aansluit bij de algemeen nuttige doelstelling van de investerende ANBI. Wordt het bedrag van de investering niet (nagenoeg) geheel aangewend voor deze activiteit of dit project, dan wordt met deze investering het doel van de ANBI feitelijk niet (nagenoeg) geheel gediend. Hierbij kan niet alleen worden gedacht aan besteding ten behoeve van andere activiteiten of projecten, maar bijvoorbeeld ook aan bovenmatige beloningen van personen die betrokken zijn bij de organisatie waarin wordt geïnvesteerd. Het voorgaande vereist dat de ANBI afspraken over de aanwending van het bedrag van de investering maakt met de organisatie waarin wordt geïnvesteerd en zorgdraagt dat deze afspraken ook daadwerkelijk worden nagekomen. De precieze vormgeving hiervan is onder meer afhankelijk van het doel van de ANBI, het type investering en de (activiteiten van) de organisatie waarin wordt geïnvesteerd. Een lening voor uitsluitend de aanschaf van een specifiek bedrijfsmiddel vereist andere afspraken dan het verschaffen van werkkapitaal, waarbij op voorhand niet of niet exact duidelijk is waar dit kapitaal in de toekomst voor zal worden gebruikt. Steeds geldt echter het uitgangspunt dat de gemaakte afspraken/gestelde voorwaarden ertoe moeten leiden dat het bedrag van de investering feitelijk (nagenoeg) geheel wordt aangewend voor de activiteit die of het project dat verband houdt met het doel van de ANBI.
+
+- d. Een bestuurder van de ANBI of een aan deze bestuurder gelieerde persoon (natuurlijk persoon of rechtspersoon) is op geen enkele wijze betrokken als oprichter, bestuurder, aandeelhouder, andere kapitaalverschaffer of werknemer bij de organisatie waarin de ANBI investeert. Is een bestuurder van de ANBI of een aan deze bestuurder gelieerde persoon op enigerlei wijze betrokken bij de organisatie waarin de ANBI investeert, dan wordt de investering geacht niet primair te zijn gericht op het realiseren van de algemeen nuttige doelstelling van de ANBI, maar (mede) op het particuliere belang van de bestuurder of de aan deze bestuurder gelieerde persoon. Voorwaarde d. ziet niet op de situatie dat, na het doen van de investering, de (bestuurder van de) ANBI zitting neemt in het bestuur of in het toezichthoudend orgaan van de organisatie waarin wordt geïnvesteerd. Dit kan namelijk juist bijdragen aan een voldoende mate van betrokkenheid van de ANBI bij de organisatie waarin wordt geïnvesteerd.
+
+- e. De ANBI neemt de investering in haar financiële administratie herkenbaar als algemeen nut investering op. De ANBI neemt het doen van algemeen nut investeringen ook op in haar beleidsplan of tussentijdse aanpassingen daarvan. ANBI’s zijn zeer divers en hanteren diverse accountancy richtlijnen. Dit laatste neemt niet weg dat algemeen nut investeringen als zodanig in de administratie en verslaglegging van de ANBI moeten worden geïdentificeerd. De doelstelling is om het verloop van deze investeringen te kunnen volgen, zodat deze toetsbaar zijn aan de voorwaarden zoals opgenomen in dit [onderdeel 3](https://wetten.overheid.nl/BWBR0049518) van het besluit.
+
 ### 4. Nog niet, niet of niet meer voldoen aan de vereisten
 
-Als een ANBI en/of een investering van de ANBI op het moment van inwerkingtreding van dit besluit niet aan de voorwaarden van voornoemd onderdeel 3 voldoet, dan meldt de ANBI dit binnen zes maanden na de publicatie van dit besluit aan de inspecteur. De inspecteur kan de instelling een termijn stellen waarbinnen alsnog aan deze voorwaarden wordt voldaan.
+Als een ANBI en/of een investering van de ANBI op het moment van inwerkingtreding van dit besluit niet aan de voorwaarden van voornoemd [onderdeel 3](https://wetten.overheid.nl/BWBR0049518) voldoet, dan meldt de ANBI dit binnen zes maanden na de publicatie van dit besluit aan de inspecteur. De inspecteur kan de instelling een termijn stellen waarbinnen alsnog aan deze voorwaarden wordt voldaan.
 
-Voldoet een investering van een ANBI bij aanvang aan de voorwaarden van onderdeel 3 van dit besluit, maar na verloop van tijd niet meer, dan leidt dat in beginsel tot de conclusie dat geen sprake meer is van een algemeen nut investering. De ANBI meldt dit zo snel mogelijk aan de inspecteur. De inspecteur kan de instelling een redelijke termijn bieden om de (voorwaarden van de) investering aan te passen of op andere wijze het vermogen in lijn te brengen met het bestedingscriterium. Als dit een desinvestering vereist, mag daarbij rekening worden gehouden met een geschikt desinvesteringsmoment. De inspecteur stelt daarvoor een redelijke termijn. Deze termijn wordt in overleg met de ANBI vastgesteld, waarbij rekening wordt gehouden met de relevante (individuele) feiten en omstandigheden.
+Voldoet een investering van een ANBI bij aanvang aan de voorwaarden van [onderdeel 3](https://wetten.overheid.nl/BWBR0049518) van dit besluit, maar na verloop van tijd niet meer, dan leidt dat in beginsel tot de conclusie dat geen sprake meer is van een algemeen nut investering. De ANBI meldt dit zo snel mogelijk aan de inspecteur. De inspecteur kan de instelling een redelijke termijn bieden om de (voorwaarden van de) investering aan te passen of op andere wijze het vermogen in lijn te brengen met het bestedingscriterium. Als dit een desinvestering vereist, mag daarbij rekening worden gehouden met een geschikt desinvesteringsmoment. De inspecteur stelt daarvoor een redelijke termijn. Deze termijn wordt in overleg met de ANBI vastgesteld, waarbij rekening wordt gehouden met de relevante (individuele) feiten en omstandigheden.
 
 ### 5. Niet-kwalificerende algemeen nut investeringen
 
-Voor investeringen van een ANBI die niet aan de voorwaarden van onderdeel 3 van dit besluit voldoen en dus niet als algemeen nuttige activiteit kwalificeren, geldt in verband met het bestedingscriterium dat steeds moet worden beoordeeld of dit vermogen anderszins redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling. Dit betekent dat moet worden beoordeeld of dit vermogen kan worden toegerekend aan een van de toegelaten reserves of dat dit deel uitmaakt van het stamvermogen.
+Voor investeringen van een ANBI die niet aan de voorwaarden van [onderdeel 3](https://wetten.overheid.nl/BWBR0049518) van dit besluit voldoen en dus niet als algemeen nuttige activiteit kwalificeren, geldt in verband met het bestedingscriterium dat steeds moet worden beoordeeld of dit vermogen anderszins redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van de doelstelling. Dit betekent dat moet worden beoordeeld of dit vermogen kan worden toegerekend aan een van de toegelaten reserves of dat dit deel uitmaakt van het stamvermogen.
 
 ### 6. Inwerkingtreding
 
@@ -72,5 +72,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ### 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit algemeen nut investeringen.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

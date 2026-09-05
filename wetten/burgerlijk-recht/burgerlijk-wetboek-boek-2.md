@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0003045"
-opgehaald: 2026-07-30
+opgehaald: 2026-09-05
 ---
 
 # Burgerlijk Wetboek Boek 2, Rechtspersonen
@@ -3892,7 +3892,7 @@ De raad van commissarissen benoemt de bestuurders der vennootschap; deze bevoegd
 
 1. Dit artikel is van toepassing op een vennootschap die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397 leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=9&afdeling=11&artikel=397&z=2026-07-01&g=2026-07-01).
 
-2. De vennootschap stelt passende en ambitieuze doelen in de vorm van een streefcijfer vast om de verhouding tussen het aantal mannen en vrouwen in het bestuur en de raad van commissarissen, alsmede bij nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, evenwichtiger te maken. Indien het bestuur en de raad van commissarissen bestaan uitéén persoon, kan een streefcijfer worden vastgesteld voor beide organen gezamenlijk. Indien [artikel 142b lid 2 of 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=4&afdeling=5&artikel=142b&z=2026-07-01&g=2026-07-01) van toepassing is, behoeft voor de raad van commissarissen dan wel de niet-uitvoerende bestuurders geen streefcijfer te worden vastgesteld.
+2. De vennootschap stelt passende en ambitieuze doelen in de vorm van een streefcijfer vast om de verhouding tussen het aantal mannen en vrouwen in het bestuur ende raad van commissarissen, alsmede bij nader door de vennootschap te bepalen categorieën werknemers in leidinggevende functies, evenwichtiger te maken. Indien het bestuur en de raad van commissarissen bestaan uitéén persoon, kan een streefcijfer worden vastgesteld voor beide organen gezamenlijk. Indien [artikel 142b lid 2 of 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=4&afdeling=5&artikel=142b&z=2026-07-01&g=2026-07-01) van toepassing is, behoeft voor de raad van commissarissen dan wel de niet-uitvoerende bestuurders geen streefcijfer te worden vastgesteld.
 
 3. De vennootschap stelt een plan op om de in het vorige lid gestelde doelen te bereiken.
 

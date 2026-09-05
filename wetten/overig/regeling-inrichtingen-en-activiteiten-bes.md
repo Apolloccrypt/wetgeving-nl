@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2023, nr IENW/BSK-2023/363174, houdende vaststelling algemene regels voor inrichtingen en activiteiten (Regeling inrichtingen- en activiteiten BES)"
+citeertitel: "Regeling inrichtingen en activiteiten BES"
 identifier: "BWBR0049285"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049285"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "17012683"
-version_id: "29925832"
-internal_id: "C42892591"
-label_id: "16923544"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049285/2024-04-01/0"
-intitule_bron: "Stcrt.2023-35121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-15"
-intitule_published: "2023-12-21"
-intitule_in_force: "2023-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35121"
-original_signed_date: "2023-12-15"
-original_published_date: "2023-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-35121"
-entry_into_force_date: "2024-04-01"
-jci_1_3: "jci1.3:c:BWBR0049285&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0049285&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling inrichtingen en activiteiten BES"
-signed_date: "2023-12-15"
-entry_into_force: "2024-04-01"
+publicatiedatum: 2024-04-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0049285"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2023, nr IENW/BSK-2023/363174, houdende vaststelling algemene regels voor inrichtingen en activiteiten (Regeling inrichtingen- en activiteiten BES)
-
-Gelet op [artikel 2.1, eerste en tweede lid, van het Inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&artikel=2.1);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop het Inrichtingen- en activiteitenbesluit BES in werking treedt.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,101 +20,102 @@ Treedt in werking op het tijdstip waarop het Inrichtingen- en activiteitenbeslui
 
 In deze regeling wordt verstaan onder:
 
-- **aaneengesloten bodembeschermende voorziening:** vloer, verharding of constructie die stoffen tijdelijk keert, waarvan eventuele onderbrekingen of naden zijn gedicht;
+- *aaneengesloten bodembeschermende voorziening:* vloer, verharding of constructie die stoffen tijdelijk keert, waarvan eventuele onderbrekingen of naden zijn gedicht;
 
-- **ADR-klasse:** klasse waarin een gevaarlijke stof volgens de ADR valt vanwege het overheersende gevaar en het bijkomende gevaar;
+- *ADR-klasse:* klasse waarin een gevaarlijke stof volgens de ADR valt vanwege het overheersende gevaar en het bijkomende gevaar;
 
-- **agrarische bedrijfsstoffen:** dierlijke meststoffen die niet verpompbaar zijn, kuilvoer, bijvoedermiddelen die niet verpompbaar zijn, gebruikt substraatmateriaal van plantaardige oorsprong en restmateriaal afkomstig van de teelt van gewassen, voor zover geen sprake is van inerte goederen;
+- *agrarische bedrijfsstoffen:* dierlijke meststoffen die niet verpompbaar zijn, kuilvoer, bijvoedermiddelen die niet verpompbaar zijn, gebruikt substraatmateriaal van plantaardige oorsprong en restmateriaal afkomstig van de teelt van gewassen, voor zover geen sprake is van inerte goederen;
 
-- **appendages:** bij machines of installaties behorende toestellen en onderdelen die dienen ter completering van deze machines of installaties;
+- *appendages:* bij machines of installaties behorende toestellen en onderdelen die dienen ter completering van deze machines of installaties;
 
-- **bedrijfsafvalwater:** afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is;
+- *bedrijfsafvalwater:* afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is;
 
-- **besluit:** [Besluit inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276);
+- *besluit:*
+ [Besluit inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276);
 
-- **bodembedreigende stoffen:** bodembedreigende stoffen die de bodem kunnen verontreinigen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=1&z=2024-04-01&g=2024-04-01), onderdeel A, bij deze regeling;
+- *bodembedreigende stoffen:* bodembedreigende stoffen die de bodem kunnen verontreinigen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=1&z=2024-04-01&g=2024-04-01), onderdeel A, bij deze regeling;
 
-- **bodembeschermende voorziening:** lekbak, opvangbassin, aaneengesloten bodembeschermende voorziening, of andere lekdichte voorziening;
+- *bodembeschermende voorziening:* lekbak, opvangbassin, aaneengesloten bodembeschermende voorziening, of andere lekdichte voorziening;
 
-- **CMR-stoffen:** stoffen opgenomen in de lijst met kankerverwekkende stoffen en processen als bedoeld in [artikel 4.11 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.11);
+- *CMR-stoffen:* stoffen opgenomen in de lijst met kankerverwekkende stoffen en processen als bedoeld in [artikel 4.11 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.11);
 
-- **dB(A):** maat voor de geluidsterkte, gecorrigeerd naar de gevoeligheid van het menselijke oor;
+- *dB(A):* maat voor de geluidsterkte, gecorrigeerd naar de gevoeligheid van het menselijke oor;
 
-- **dierlijke meststoffen:** uitwerpselen van voor gebruiks- of winstdoeleinden gehouden dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan;
+- *dierlijke meststoffen:* uitwerpselen van voor gebruiks- of winstdoeleinden gehouden dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan;
 
-- **emissiegrenswaarde:** massa, gerelateerd aan een parameter, concentratie of niveau van een emissie die tijdens een of meer ga
+- *emissiegrenswaarde:* massa, gerelateerd aan een parameter, concentratie of niveau van een emissie die tijdens een of meer ga
 
-- **IMDG:** IMDG-Code International Maritime Dangerous Goods Code (MSC.406(96);
+- *IMDG:* IMDG-Code International Maritime Dangerous Goods Code (MSC.406(96);
 
-- **intrinsiek niet-bodembedreigende stoffen:** stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=1&z=2024-04-01&g=2024-04-01), onderdeel B, bij deze regeling;
+- *intrinsiek niet-bodembedreigende stoffen:* stoffen als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=1&z=2024-04-01&g=2024-04-01), onderdeel B, bij deze regeling;
 
-- **kwetsbare objecten:** woningen, gebouwen waarin minderjarigen, ouderen, zieken of gehandicapten de gehele dag of een gedeelte van de dag verblijven, zoals, ziekenhuizen, verzorgingstehuizen, verpleeghuizen en kinderopvanginstellingen, andere gebouwen waarin relatief grote aantallen personen een groot deel van de dag verblijven zoals kantoren en hotels, scholen, complexen met meer dan 5 winkels, supermarkten, warenhuizen en kampeer- en recreatieterreinen;
+- *kwetsbare objecten:* woningen, gebouwen waarin minderjarigen, ouderen, zieken of gehandicapten de gehele dag of een gedeelte van de dag verblijven, zoals, ziekenhuizen, verzorgingstehuizen, verpleeghuizen en kinderopvanginstellingen, andere gebouwen waarin relatief grote aantallen personen een groot deel van de dag verblijven zoals kantoren en hotels, scholen, complexen met meer dan 5 winkels, supermarkten, warenhuizen en kampeer- en recreatieterreinen;
 
-- **lichtbronnen:** lichtbronnen waaronder wordt verstaan:
+- *lichtbronnen:* lichtbronnen waaronder wordt verstaan:
 
-- −. openbare verlichting;
+   - − openbare verlichting;
 
-- −. terreinverlichting;
+   - − terreinverlichting;
 
-- −. aanstraling van gebouwen en objecten;
+   - − aanstraling van gebouwen en objecten;
 
-- −. verlichting van sportvelden;
+   - − verlichting van sportvelden;
 
-- −. terrasverlichting; reclameverlichting;
+   - − terrasverlichting; reclameverlichting;
 
-- −. verlichting van installaties;
+   - − verlichting van installaties;
 
-- −. skybeamers;
+   - − skybeamers;
 
-- −. sierverlichting;
+   - − sierverlichting;
 
-- −. verlichting op en van bedrijventerreinen;
+   - − verlichting op en van bedrijventerreinen;
 
-- **lozen:** het brengen van:
+- *lozen:* het brengen van:
 
-- −. afvalwater of andere afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;
+   - − afvalwater of andere afvalstoffen, verontreinigende of schadelijke stoffen in een oppervlaktewaterlichaam;
 
-- −. afvalwater op of in de bodem;
+   - − afvalwater op of in de bodem;
 
-- −. afvalwater of andere afvalstoffen in een openbaar afvalwaterstelsel;
+   - − afvalwater of andere afvalstoffen in een openbaar afvalwaterstelsel;
 
-- **grondstoffen:** natuurlijke grondstoffen zoals (zoet) water, zand, mineralen en hout;
+- *grondstoffen:* natuurlijke grondstoffen zoals (zoet) water, zand, mineralen en hout;
 
-- **koelinstallatie:** combinatie van met koudemiddel gevulde onderdelen die met elkaar zijn verbonden en die tezamen een gesloten koudemiddelcircuit vormen waarin het koudemiddel circuleert met het doel warmte op te nemen of af te staan;
+- *koelinstallatie:* combinatie van met koudemiddel gevulde onderdelen die met elkaar zijn verbonden en die tezamen een gesloten koudemiddelcircuit vormen waarin het koudemiddel circuleert met het doel warmte op te nemen of af te staan;
 
-- **natuurlijke koudemiddelen:** kooldioxide, ammoniak of koolwaterstoffen niet zijnde een gefluoreerd broeikasgas voor zover toegepast als koudemiddel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=2&z=2024-04-01&g=2024-04-01) bij deze regeling;
+- *natuurlijke koudemiddelen:* kooldioxide, ammoniak of koolwaterstoffen niet zijnde een gefluoreerd broeikasgas voor zover toegepast als koudemiddel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=2&z=2024-04-01&g=2024-04-01) bij deze regeling;
 
-- **normaal kubieke meter:** afgashoeveelheid bij 273,15 kelvin en 101,3 kilo pascal en betrokken op droge lucht;
+- *normaal kubieke meter:* afgashoeveelheid bij 273,15 kelvin en 101,3 kilo pascal en betrokken op droge lucht;
 
-- **onderhoud en inspectie:** activiteiten, uitgezonderd terugwinning zoals bedoeld in [artikel 2.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.1&artikel=2.13.2&z=2024-04-01&g=2024-04-01) en controles op lekkages overeenkomstig [artikel 2.13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.1&artikel=2.13.3&z=2024-04-01&g=2024-04-01) van deze regeling, die met zich brengen dat de circuits die gefluoreerde broeikasgassen bevatten of daartoe ontworpen zijn, worden geopend, met name het toevoegen aan het systeem van gefluoreerde broeikasgassen, het verwijderen van één of meer onderdelen van het circuit of de apparatuur, het opnieuw monteren van twee of meer onderdelen van het circuit of de apparatuur, alsook het repareren van lekkages;
+- *onderhoud en inspectie:* activiteiten, uitgezonderd terugwinning zoals bedoeld in [artikel 2.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.1&artikel=2.13.2&z=2024-04-01&g=2024-04-01) en controles op lekkages overeenkomstig [artikel 2.13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.1&artikel=2.13.3&z=2024-04-01&g=2024-04-01) van deze regeling, die met zich brengen dat de circuits die gefluoreerde broeikasgassen bevatten of daartoe ontworpen zijn, worden geopend, met name het toevoegen aan het systeem van gefluoreerde broeikasgassen, het verwijderen van één of meer onderdelen van het circuit of de apparatuur, het opnieuw monteren van twee of meer onderdelen van het circuit of de apparatuur, alsook het repareren van lekkages;
 
-- **opslagvoorziening:** vaste ruimte bestemd voor de opslag van verpakte gevaarlijke stoffen of CMR-stoffen uitgevoerd als een brandcompartiment met een weerstand tegen branddoorslag en brandoverslag van 60 minuten (60 WBDBO);
+- *opslagvoorziening:* vaste ruimte bestemd voor de opslag van verpakte gevaarlijke stoffen of CMR-stoffen uitgevoerd als een brandcompartiment met een weerstand tegen branddoorslag en brandoverslag van 60 minuten (60 WBDBO);
 
-- **openbaar afvalwaterstelsel:** een voorziening voor de inzameling en het transport van afvalwater, in beheer bij het bestuurscollege of een rechtspersoon die door het eilandsraad met het beheer is belast;
+- *openbaar afvalwaterstelsel:* een voorziening voor de inzameling en het transport van afvalwater, in beheer bij het bestuurscollege of een rechtspersoon die door het eilandsraad met het beheer is belast;
 
-- **oplosmiddelen:** oplosmiddelen die worden gebruikt bij het chemisch reinigen van textiel;
+- *oplosmiddelen:* oplosmiddelen die worden gebruikt bij het chemisch reinigen van textiel;
 
-- **ondergronds:** geheel of gedeeltelijk in de bodem gelegen of ingeterpt;
+- *ondergronds:* geheel of gedeeltelijk in de bodem gelegen of ingeterpt;
 
-- **PER:** tetrachlooretheen;
+- *PER:* tetrachlooretheen;
 
-- **standaardbrandstoffen:** propaan, butaan en vloeibare brandstoffen, inclusief biodiesel die voldoet aan NEN-EN 14214;
+- *standaardbrandstoffen:* propaan, butaan en vloeibare brandstoffen, inclusief biodiesel die voldoet aan NEN-EN 14214;
 
-- **synthetische koudemiddelen:** gefluoreerde broeikasgassen; fluorkoolwaterstoffen (HFK’S) voor zover toegepast als koudemiddel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=2&z=2024-04-01&g=2024-04-01) bij deze regeling;
+- *synthetische koudemiddelen:* gefluoreerde broeikasgassen; fluorkoolwaterstoffen (HFK’S) voor zover toegepast als koudemiddel als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&bijlage=2&z=2024-04-01&g=2024-04-01) bij deze regeling;
 
-- **terugwinning:** verzamelen en opslaan van gefluoreerde broeikasgassen uit producten, waaronder houders, en apparatuur gedurende het onderhoud of de service, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur;
+- *terugwinning:* verzamelen en opslaan van gefluoreerde broeikasgassen uit producten, waaronder houders, en apparatuur gedurende het onderhoud of de service, dan wel voorafgaand aan de verwijdering van de producten of de apparatuur;
 
-- **UN nummer:** stofidentificatienummer tijdens vervoer;
+- *UN nummer:* stofidentificatienummer tijdens vervoer;
 
-- **vloeistofdichte bodembeschermende voorziening:** vloer, verharding of constructie waardoor stoffen niet in de bodem terecht kunnen komen;
+- *vloeistofdichte bodembeschermende voorziening:* vloer, verharding of constructie waardoor stoffen niet in de bodem terecht kunnen komen;
 
-- **werkvoorraad:** voorraad verpakte gevaarlijke stoffen of CMR-stoffen als bedoeld in voorschrift 3.1.3 van PGS 15;
+- *werkvoorraad:* voorraad verpakte gevaarlijke stoffen of CMR-stoffen als bedoeld in voorschrift 3.1.3 van PGS 15;
 
-- **zee:** zee als bedoeld in [artikel 1, onderdeel j, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=1);
+- *zee:* zee als bedoeld in [artikel 1, onderdeel j, van de Wet maritiem beheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028550&artikel=1);
 
-- **zuiveringstechnisch werk:** voor de zuivering van afvalwater bestemd werk dat in beheer is bij het bestuurscollege of bij een rechtspersoon die door de eilandsraad met het beheer is belast;
+- *zuiveringstechnisch werk:* voor de zuivering van afvalwater bestemd werk dat in beheer is bij het bestuurscollege of bij een rechtspersoon die door de eilandsraad met het beheer is belast;
 
-- **zuiveringsvoorziening:** werk voor het zuiveren van afvalwater dat geen zuiveringstechnisch werk is.
+- *zuiveringsvoorziening:* werk voor het zuiveren van afvalwater dat geen zuiveringstechnisch werk is.
 
 ##### Artikel 1.2. Normadressaat
 
@@ -150,7 +123,7 @@ Aan de [hoofdstukken 2 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ### Hoofdstuk 2. Kwaliteitscriteria bedrijfsbranche overschrijdend
 
-### Afdeling 2.1. Kwaliteitscriteria afvalstoffen
+#### Afdeling 2.1. Kwaliteitscriteria afvalstoffen
 
 ##### Artikel 2.1.1. Omgaan met afvalstoffen
 
@@ -188,7 +161,7 @@ In een inrichting, niet zijnde een inrichting voor onderhoud en reparatie van mo
 
 Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bodem of sloopschepen, wordt aangeboden aan een door het bestuurscollege aangewezen inzameldienst.
 
-### Afdeling 2.2. Kwaliteitscriteria afvalwater
+#### Afdeling 2.2. Kwaliteitscriteria afvalwater
 
 ##### Artikel 2.2.1. Lozingsroute
 
@@ -224,7 +197,7 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 3. De oliefractie wordt als gevaarlijk afval afgevoerd door een door het bestuurscollege aangewezen erkende verwerker.
 
-### Afdeling 2.3. Kwaliteitscriteria bodem
+#### Afdeling 2.3. Kwaliteitscriteria bodem
 
 ##### Artikel 2.3.1. Preventieve bodembescherming algemeen
 
@@ -258,13 +231,13 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 Handelingen aan, op of in de bodem die erosie bevorderen, worden vermeden.
 
-### Afdeling 2.4. Kwaliteitscriteria licht
+#### Afdeling 2.4. Kwaliteitscriteria licht
 
 ##### Artikel 2.4.1. Voorkomen en beperken van lichthinder
 
 Ter bescherming en bevordering van de duisternis en het donkere landschap wordt ter voorkoming van lichthinder het gebruik van lichtbronnen tot een aanvaardbaar niveau beperkt.
 
-### Afdeling 2.5. Kwaliteitscriteria geluid
+#### Afdeling 2.5. Kwaliteitscriteria geluid
 
 ##### Artikel 2.5.1. Voorkomen en beperken geluidhinder
 
@@ -274,7 +247,7 @@ Ter voorkoming en beperking van geluidhinder worden luide werkzaamheden zoveel m
 
 Ter verkoming van geluidhinder worden de onderstaande grenswaarden niet overschreden:
 
-| **Gebiedstypen** | 07:00–19:00 | 19:00–07:00 |
+| Gebiedstypen | 07:00–19:00 | 19:00–07:00 |
 | --- | --- | --- |
 | Landelijke omgeving, stille recreatie/ agrarisch/kunuku-gebied | 40 dB(A) | 35 dB(A) |
 | Woongebied buiten de bebouwde kom | 45 dB(A) | 40 dB(A) |
@@ -282,19 +255,19 @@ Ter verkoming van geluidhinder worden de onderstaande grenswaarden niet overschr
 | Centrum (gebied met woon- en werkfuncties) | 55 dB(A) | 50 dB(A) |
 | Bedrijventerrein/zware bedrijven | 65 dB(A) | 60 dB(A) |
 
-### Afdeling 2.6. Kwaliteitscriteria geur
+#### Afdeling 2.6. Kwaliteitscriteria geur
 
 ##### Artikel 2.6.1. Voorkomen en beperken geurhinder
 
 Geurhinder bij kwetsbare objecten wordt voorkomen en voor zover dat niet mogelijk is tot een aanvaardbaar niveau beperkt.
 
-### Afdeling 2.7. Kwaliteitscriteria trilling
+#### Afdeling 2.7. Kwaliteitscriteria trilling
 
 ##### Artikel 2.7.1. Preventie trillinghinder
 
 Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van doeltreffende dempers.
 
-### Afdeling 2.8. Kwaliteitscriteria energiegebruik
+#### Afdeling 2.8. Kwaliteitscriteria energiegebruik
 
 ##### Artikel 2.8.1. Energiebesparende maatregelen
 
@@ -302,7 +275,7 @@ Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van do
 
 2. Het eerste lid is niet van toepassing als het elektriciteitsverbruik van de inrichting in het voorafgaande jaar lager is dan 20.000 kWh geleverd door het openbare elektriciteitsnet.
 
-### Afdeling 2.9. Kwaliteitscriteria externe veiligheid
+#### Afdeling 2.9. Kwaliteitscriteria externe veiligheid
 
 ##### Artikel 2.9.1. Verpakking gevaarlijke stoffen
 
@@ -378,7 +351,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 2. In een opslagvoorziening zijn geen goederen aanwezig, die voor het beheer van de gasflessen niet functioneel zijn.
 
-### Afdeling 2.10. Kwaliteitscriteria brandveiligheid
+#### Afdeling 2.10. Kwaliteitscriteria brandveiligheid
 
 ##### Artikel 2.10.1. Blusmiddelen
 
@@ -396,7 +369,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 4. Na de inspectie worden blusmiddelen en slanghaspels voorzien van een label of sticker met datum van de keuring.
 
-### Afdeling 2.11. Kwaliteitscriteria lucht
+#### Afdeling 2.11. Kwaliteitscriteria lucht
 
 ##### Artikel 2.11.1. Stofemissies
 
@@ -416,7 +389,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 4. Aan het derde lid wordt in elk geval voldaan, indien stofafzuiging plaatsvindt door middel van een mechanische afzuiging en de afgezogen lucht wordt geleid door een stofzak.
 
-### Afdeling 2.12. Kwaliteitscriteria zuinig gebruik grondstoffen
+#### Afdeling 2.12. Kwaliteitscriteria zuinig gebruik grondstoffen
 
 ##### Artikel 2.12.1. Beperken gebruik van grondstoffen
 
@@ -424,7 +397,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 2. Zoet water wordt zoveel mogelijk hergebruikt.
 
-### Afdeling 2.13. Kwaliteitscriteria installaties
+#### Afdeling 2.13. Kwaliteitscriteria installaties
 
 #### § 2.13.1. Koelinstallaties
 
@@ -485,11 +458,11 @@ Het rookgas van een stookinstallatie met een nominaal thermisch ingangsvermogen 
 | Standaard Brandstof | Installatie | Stikstofoxiden (NOx) (mg per normaal kubieke meter) | Zwaveldioxide (SO2) (mg per normaal kubieke meter) | Totaal stof (mg per normaal kubieke meter) |
 | --- | --- | --- | --- | --- |
 | Brandstof in vloeibare vorm | stookinstallatie groter dan 0,4 MWth | 120 | 200 | 20 |
-| Brandstof in vloeibare vorm | Verbrandings-motor | 150 | 65 | 20 |
-| Brandstof in vloeibare vorm | Gasturbine | 50 | 75 | 5 |
+| Verbrandings-motor | 150 | 65 | 20 |  |
+| Gasturbine | 50 | 75 | 5 |  |
 | Brandstof in gasvorm | stookinstallatie groter dan 0,4 MWth | 140 | – | – |
-| Brandstof in gasvorm | Verbrandings-motor | 115 | – | – |
-| Brandstof in gasvorm | Gasturbine | 50 | 15 | – |
+| Verbrandings-motor | 115 | – | – |  |
+| Gasturbine | 50 | 15 | – |  |
 
 ##### Artikel 2.13.7. Vrijstelling emissiegrenswaarden
 
@@ -525,15 +498,15 @@ De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/j
 
 - a. het risico op vermeerdering van legionellabacteriën in de koeltoren door:
 
-- 1°. de aard en de kwaliteit van het water dat wordt gebruikt;
+   - 1°. de aard en de kwaliteit van het water dat wordt gebruikt;
 
-- 2°. de temperatuur van het water;
+   - 2°. de temperatuur van het water;
 
-- 3°. de verblijfstijd van het water;
+   - 3°. de verblijfstijd van het water;
 
-- 4°. de stilstand van het water; en
+   - 4°. de stilstand van het water; en
 
-- 5°. de aanwezigheid van biofilm en sediment;
+   - 5°. de aanwezigheid van biofilm en sediment;
 
 - b. de bedrijfsvoering van de natte koeltoren;
 
@@ -556,7 +529,7 @@ Bij het in werking hebben en bij onderhoudswerkzaamheden van een installatie voo
 
 ### Hoofdstuk 3. Kwaliteitscriteria activiteiten bedrijfsbranches
 
-### Afdeling 3.1. Kwaliteitscriteria activiteiten vaartuigen
+#### Afdeling 3.1. Kwaliteitscriteria activiteiten vaartuigen
 
 #### § 3.1.1. Onderhouden, repareren of afspuiten vaartuigen
 
@@ -596,7 +569,7 @@ Deze paragraaf is van toepassing op het afleveren van vloeibare brandstoffen aan
 
 5. Een installatie voor het afleveren van vloeibare brandstoffen aan vaartuigen wordt niet gebruikt voor het vullen van jerrycans en andere vaten met vloeibare brandstoffen.
 
-### Afdeling 3.2. Kwaliteitscriteria sport en recreatie
+#### Afdeling 3.2. Kwaliteitscriteria sport en recreatie
 
 #### § 3.2.1. Jachthaven
 
@@ -644,7 +617,7 @@ De gezondheid van de gebruikers van een badinrichting wordt zoveel mogelijk besc
 
 - d. een zo gering mogelijke aanwezigheid van desinfectiebijproducten.
 
-### Afdeling 3.3. Kwaliteitscriteria dienstverlening en zorg
+#### Afdeling 3.3. Kwaliteitscriteria dienstverlening en zorg
 
 #### § 3.3.1. Tandheelkundige bewerkingen met amalgaam
 
@@ -682,7 +655,7 @@ Deze paragraaf is van toepassing op het chemisch reinigen van textiel.
 
 Er worden uitsluitend tetrachlooretheen of niet-gechloreerde alifatische koolwaterstoffen gebruikt.
 
-### Afdeling 3.4. Kwaliteitscriteria agrarisch
+#### Afdeling 3.4. Kwaliteitscriteria agrarisch
 
 #### § 3.4.1. Opslag vaste dierlijke meststoffen
 
@@ -716,27 +689,27 @@ Dit hoofdstuk is van toepassing op degene die een inrichting type I en een inric
 
 ##### Artikel 4.1.1. Overgangsrecht met betrekking tot een zuiveringsvoorziening voor afvalwater
 
-[Artikel 2.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het lozen van huishoudelijk afvalwater op een zuiveringsvoorziening niet van toepassing tot 1 januari 2029.
+[Artikel 2.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het lozen van huishoudelijk afvalwater op een zuiveringsvoorziening niet van toepassing tot 1 januari 2029.
 
 ##### Artikel 4.1.2. Overgangsrecht met betrekking tot vetafscheiders
 
-[Artikel 2.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.2&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van vethoudend afvalwater toepassen van een vetafscheider en slibvangput niet van toepassing tot 1 januari 2026, indien dat lozen plaatsvindt buiten een rioleringsgebied op Bonaire en het gehele eilandsgebied op Sint Eustatius.
+[Artikel 2.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.2&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van vethoudend afvalwater toepassen van een vetafscheider en slibvangput niet van toepassing tot 1 januari 2026, indien dat lozen plaatsvindt buiten een rioleringsgebied op Bonaire en het gehele eilandsgebied op Sint Eustatius.
 
 ##### Artikel 4.1.3. Overgangsrecht met betrekking tot een aaneengesloten bodembeschermende voorziening
 
-1. [Artikel 2.3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het gebruiken of afleveren van bodembedreigende stoffen boven een bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
+1. [Artikel 2.3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het gebruiken of afleveren van bodembedreigende stoffen boven een bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
 
-2. [Artikel 2.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het plaatsen van een apparaat of installatie dat een vloeistofcircuit bevat boven een aaneengesloten bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
+2. [Artikel 2.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het plaatsen van een apparaat of installatie dat een vloeistofcircuit bevat boven een aaneengesloten bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
 
 ##### Artikel 4.1.4. Overgangsrecht met betrekking tot slibvangputten en olieafscheiders
 
-1. [Artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.3&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van oliehoudend afvalwater toepassen van een olieafscheider en slibvangput niet van toepassing tot 1 januari 2025.
+1. [Artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.3&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van oliehoudend afvalwater toepassen van een olieafscheider en slibvangput niet van toepassing tot 1 januari 2025.
 
 2. Het eerste lid is niet van toepassing op inrichtingen waarop voorafgaand aan de inwerkingtreding van deze regeling het Hinderbesluit garagebedrijven Bonaire van toepassing is.
 
 ##### Artikel 4.1.5. Overgangsrecht met betrekking tot energiebesparende maatregelen
 
-[Artikel 2.8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.8&artikel=2.8.1&z=2024-04-01&g=2024-04-01), is met betrekking tot te nemen energiebesparende maatregelen met een terugverdientijd van vijf jaar of minder niet van toepassing tot 1 januari 2026.
+[Artikel 2.8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.8&artikel=2.8.1&z=2024-04-01&g=2024-04-01), is met betrekking tot te nemen energiebesparende maatregelen met een terugverdientijd van vijf jaar of minder niet van toepassing tot 1 januari 2026.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -747,68 +720,3 @@ Deze regeling wordt aangehaald als: Regeling inrichtingen en activiteiten BES.
 ##### Artikel 5.2. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276) in werking treedt.
-
-## Bijlage 1. Niet limitatieve lijst van voorbeelden van veel voorkomende bodembedreigende stoffen
-
-### Onderdeel A. Bodembedreigende stoffen:
-
-### 1. Organische (vloei) stoffen, waterige oplossingen of emulsies daarvan:
-
-### 2. Anorganische (vloei-)stoffen, waterige oplossingen of emulsies daarvan:
-
-### 3. Mineralen en ertsen:
-
-### 4. Agrarische bedrijfsstoffen:
-
-### 5. Hieronder met name genoemde stoffen/afvalmaterialen:
-
-### Onderdeel B. Intrinsiek niet-bodembedreigende stoffen
-
-Met intrinsiek wordt bedoeld de stof als zodanig. Om als (intrinsiek) niet-bodembedreigend te worden aangemerkt, staat van een stof bij voorbaat vast dat zij bij bedrijfsmatig gebruik niet tot een bodemverontreiniging kan leiden. Aangemerkt als intrinsiek niet-bodembedreigende stof, voor zover de stoffen niet verontreinigd of gemengd zijn met andere stoffen, worden:
-
-Zowel de drijver van de inrichting als het bevoegd gezag kunnen aangeven dat een stof niet bodembedreigend is.
-
-## Bijlage 2. Gereguleerde stoffen
-
-| Groep | Stof | Stof | Stof | Ozonafbrekend vermogen |
-| --- | --- | --- | --- | --- |
-| Groep VIII | CHFCl2 | HCFC-21 | Dichloorfluormethaan | 0,040 |
-| Groep VIII | CHF2Cl | HCFC-22 | Chloordifluormethaan | 0,055 |
-| Groep VIII | CH2FCl | HCFC-31 | Chloorfluormethaan | 0,020 |
-| Groep VIII | C2HFCl4 | HCFC-121 | Tetrachloorfluorethaan | 0,040 |
-| Groep VIII | C2HF2Cl3 | HCFC-122 | Trichloordifluorethaan | 0,080 |
-| Groep VIII | C2HF3Cl2 | HCFC-123 | Dichloortrifluorethaan | 0,020 |
-| Groep VIII | C2HF4Cl | HCFC-124 | Chloortetrafluorethaan | 0,022 |
-| Groep VIII | C2H2FCl3 | HCFC-131 | Trichloorfluorethaan | 0,050 |
-| Groep VIII | C2H2F2Cl2 | HCFC-132 | Dichloordifluorethaan | 0,050 |
-| Groep VIII | C2H2F3Cl | HCFC-133 | Chloortrifluorethaan | 0,060 |
-| Groep VIII | C2H3FCl2 | HCFC-141 | Dichloorfluorethaan | 0,070 |
-| Groep VIII | CH3CFCl2 | HCFC-141b | 1,1-Dichloor-1-fluorethaan | 0,110 |
-| Groep VIII | C2H3F2Cl | HCFC-142 | Chloordifluorethaan | 0,070 |
-| Groep VIII | CH3CF2Cl | HCFC-142b | 1-Chloor-1,1-difluorethaan | 0,065 |
-| Groep VIII | C2H4FCl | HCFC-151 | Chloorfluorethaan | 0,005 |
-| Groep VIII | C3HFCl6 | HCFC-221 | Hexachloorfluorpropaan | 0,070 |
-| Groep VIII | C3HF2Cl5 | HCFC-222 | Pentachloordifluorpropaan | 0,090 |
-| Groep VIII | C3HF3Cl4 | HCFC-223 | Tetrachloortrifluorpropaan | 0,080 |
-| Groep VIII | C3HF4Cl3 | HCFC-224 | Trichloortetrafluorpropaan | 0,090 |
-| Groep VIII | C3HF5Cl2 | HCFC-225 | Dichloorpentafluorpropaan | 0,070 |
-| Groep VIII | CF3CF2CHCl2 | HCFC-225ca | 3,3-Dichloor-1,1,1,2,2-pentafluorpropaan | 0,025 |
-| Groep VIII | CF2ClCF2CHClF | HCFC-225cb | 1,3-Dichloor-1,1,2,2,3-pentafluorpropaan | 0,033 |
-| Groep VIII | C3HF6Cl | HCFC-226 | Chloorhexafluorpropaan | 0,100 |
-| Groep VIII | C3H2FCl5 | HCFC-231 | Pentachloorfluorpropaan | 0,090 |
-| Groep VIII | C3H2F2Cl4 | HCFC-232 | Tetrachloordifluorpropaan | 0,100 |
-| Groep VIII | C3H2F3Cl3 | HCFC-233 | Trichloortrifluorpropaan | 0,230 |
-| Groep VIII | C3H2F4Cl2 | HCFC-234 | Dichloortetrafluorpropaan | 0,280 |
-| Groep VIII | C3H2F5Cl | HCFC-235 | Chloorpentafluorpropaan | 0,520 |
-| Groep VIII | C3H3FCl4 | HCFC-241 | Tetrachloorfluorpropaan | 0,090 |
-| Groep VIII | C3H3F2Cl3 | HCFC-242 | Trichloordifluorpropaan | 0,130 |
-| Groep VIII | C3H3F3Cl2 | HCFC-243 | Dichloortrifluorpropaan | 0,120 |
-| Groep VIII | C3H3F4Cl | HCFC-244 | Chloortetrafluorpropaan | 0,140 |
-| Groep VIII | C3H4FCl3 | HCFC-251 | Trichloorfluorpropaan | 0,010 |
-| Groep VIII | C3H4F2Cl2 | HCFC-252 | Dichloordifluorpropaan | 0,040 |
-| Groep VIII | C3H4F3Cl | HCFC-253 | Chloortrifluorpropaan | 0,030 |
-| Groep VIII | C3H5FCl2 | HCFC-261 | Dichloorfluorpropaan | 0,020 |
-| Groep VIII | C3H5F2Cl | HCFC-262 | Chloordifluorpropaan | 0,020 |
-| Groep VIII | C3H6FCl | HCFC-271 | Chloorfluorpropaan | 0,030 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

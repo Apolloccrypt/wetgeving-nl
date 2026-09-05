@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0053075"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Besluit ingevolge artikel 18, tweede lid, Wet politiegegevens en artikel 4:7, eerste lid, onder a, van het Besluit politiegegevens van de Minister van Justitie en Veiligheid, kenmerk 7765469 van 25 augustus 2026 houdende toestemming aan de korpschef tot het verstrekken van politiegegevens voor het uitvoeren van wetenschappelijk onderzoek door LEBZ en onderzoekers (Wpg-machtigingsbesluit zedenzaken aan LEBZ en onderzoekers)

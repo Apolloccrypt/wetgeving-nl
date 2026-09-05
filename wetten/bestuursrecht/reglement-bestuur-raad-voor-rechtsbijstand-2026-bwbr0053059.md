@@ -8,7 +8,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0053059"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Reglement Bestuur Raad voor Rechtsbijstand 2026

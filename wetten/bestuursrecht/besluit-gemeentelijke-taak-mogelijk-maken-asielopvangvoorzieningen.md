@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 26 januari 2024, houdende regels inzake de uitvoering van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen alsmede vaststelling van het tijdstip van inwerkingtreding van de wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen (Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen)"
+citeertitel: "Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen"
 identifier: "BWBR0049310"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-03-30"
-last_updated: "2024-03-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049310"
+categorie: "Bestuursrecht"
 soort: "AMvB"
-stam_id: "17019373"
-version_id: "29939852"
-internal_id: "C42911241"
-label_id: "16929174"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049310/2024-03-30/0"
-intitule_bron: "Stb.2024-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-01-26"
-intitule_published: "2024-01-30"
-intitule_in_force: "2024-01-30"
-intitule_status: "goed"
-original_publication: "Stb.2024-13"
-original_signed_date: "2024-01-26"
-original_published_date: "2024-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-13"
-entry_into_force_date: "2024-01-31"
-jci_1_3: "jci1.3:c:BWBR0049310&z=2024-03-30&g=2024-03-30"
-jci_1_0: "1.0:c:BWBR0049310&g=2024-03-30"
-citeertitel_status: "officieel"
-short_title: "Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen"
-signed_date: "2024-01-26"
-entry_into_force: "2024-01-31"
+publicatiedatum: 2024-01-31
+laatste_update: 2024-03-30
+status: geldig
+toestand: 2024-03-30
+bron: "https://wetten.overheid.nl/BWBR0049310"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van 26 januari 2024, houdende regels inzake de uitvoering van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen alsmede vaststelling van het tijdstip van inwerkingtreding van de wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen (Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen)
-
-Op de voordracht van de Staatssecretaris van Justitie en Veiligheid van 8 december 2023, directie Wetgeving en Juridische Zaken, nr. 5045523;
-
-Gelet op de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=3), [9, tweede lid, onderdeel b, van de Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9) en [3b, tweede lid, van de Wet Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=3b);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 januari 2024, No. W16.23.00372/II);
-
-Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 26 januari 2024, directie Wetgeving en Juridische Zaken, nr.5182321
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,17 +20,18 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanmeldvoorziening:** een voorziening waar asielzoekers opgevangen worden ten behoeve van activiteiten/werkzaamheden in het kader van het aanmeldproces;
+- – *aanmeldvoorziening:* een voorziening waar asielzoekers opgevangen worden ten behoeve van activiteiten/werkzaamheden in het kader van het aanmeldproces;
 
-- –. **capaciteitsraming:** de verwachte landelijke behoefte aan opvangplaatsen waaraan in de twee volgende jaren behoefte zal zijn, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=2);
+- – *capaciteitsraming:* de verwachte landelijke behoefte aan opvangplaatsen waaraan in de twee volgende jaren behoefte zal zijn, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=2);
 
-- –. **duurzame opvangplaatsen:** opvangplaatsen die voor minimaal vijf jaar beschikbaar zijn;
+- – *duurzame opvangplaatsen:* opvangplaatsen die voor minimaal vijf jaar beschikbaar zijn;
 
-- –. **opvangplaatsen van bijzondere aard:** alle opvangplaatsen waarbij een bijzondere vorm van begeleiding en opvang noodzakelijk is vanwege de individuele kenmerken van de asielzoeker of de fase van het asiel- of vertrekproces;
+- – *opvangplaatsen van bijzondere aard:* alle opvangplaatsen waarbij een bijzondere vorm van begeleiding en opvang noodzakelijk is vanwege de individuele kenmerken van de asielzoeker of de fase van het asiel- of vertrekproces;
 
-- –. **uitkering:** de specifieke uitkering, bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), voor duurzame opvangplaatsen op grond van [artikel 9, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9);
+- – *uitkering:* de specifieke uitkering, bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), voor duurzame opvangplaatsen op grond van [artikel 9, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=9);
 
-- –. **wet:** [Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307).
+- – *wet:*
+ [Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0049307).
 
 ### Hoofdstuk 2. Raming en verdeling
 
@@ -94,7 +63,7 @@ in welke formule voorstelt:
 
 - g. Iv: de indicatieve verdeling per gemeente, bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049307&artikel=3).
 
-4. Onze Minister maakt de capaciteitsraming, de provinciale opvangopgaven en de indicatieve verdelingen per gemeente voor 1 februari bekend door middel van een publicatie in de Staatscourant.
+4. Onze Minister maakt de capaciteitsraming, de provinciale opvangopgaven en de indicatieve verdelingen per gemeente voor 1 februari bekend door middel van een publicatie in de Staatscourant.
 
 ##### Artikel 2.2. Opvangplaatsen van bijzondere aard
 
@@ -134,11 +103,11 @@ in welke formule voorstelt:
 
 - d. de inzet van derde partijen.
 
-### Hoofdstuk 5. Wijziging [Ambtsinstructie commissaris van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006728)
+### Hoofdstuk 5. Wijziging Ambtsinstructie commissaris van de Koning
 
-##### Artikel 5.1. Wijziging [ambtsinstructie commissaris van de Koning](https://wetten.overheid.nl/jci1.3:c:BWBR0006728)
+##### Artikel 5.1. Wijziging ambtsinstructie commissaris van de Koning
 
-Wijzigt de Ambtsinstructie commissaris van de Koning.
+*Wijzigt de Ambtsinstructie commissaris van de Koning.*
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
@@ -149,5 +118,3 @@ De [Wet gemeentelijke taak mogelijk maken asielopvangvoorzieningen](https://wett
 ##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gemeentelijke taak mogelijk maken asielopvangvoorzieningen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

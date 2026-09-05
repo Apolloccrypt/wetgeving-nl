@@ -1,67 +1,25 @@
 ---
 title: "Onderlinge regeling inzake het Strategic Education Alliance-programma"
 identifier: "BWBR0048989"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-07"
-last_updated: "2023-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048989"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16943493"
-version_id: "29779782"
-internal_id: "C42679771"
-label_id: "16854154"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048989/2023-11-07/0"
-intitule_bron: "Stcrt.2023-33139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-06"
-intitule_published: "2023-12-04"
-intitule_in_force: "2023-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-33139"
-original_signed_date: "2023-11-06"
-original_published_date: "2023-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-33139"
-entry_into_force_date: "2023-11-07"
-jci_1_3: "jci1.3:c:BWBR0048989&z=2023-11-07&g=2023-11-07"
-jci_1_0: "1.0:c:BWBR0048989&g=2023-11-07"
-citeertitel_status: "redactioneel"
-signed_date: "2023-11-06"
-entry_into_force: "2023-11-07"
+publicatiedatum: 2023-11-07
+laatste_update: 2023-11-07
+status: geldig
+toestand: 2023-11-07
+bron: "https://wetten.overheid.nl/BWBR0048989"
+opgehaald: 2026-09-05
 ---
+
 # Onderlinge regeling inzake het Strategic Education Alliance-programma
-
-Overwegende dat:
-
-de Koninkrijkslanden elkaar op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=36) en [38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) hulp en bijstand kunnen verlenen, en onderling regelingen kunnen treffen;
-
-de Koninkrijkslanden het belang van de samenwerking op het gebied van onderwijs erkennen, willen continueren en versterken;
-
-de onderwijsministers van de Koninkrijkslanden elkaar periodiek in het Ministerieel Vierlandenoverleg Onderwijs, Cultuur en Wetenschap (OCW) treffen om gezamenlijke lijnen in de onderwijssamenwerking te bepalen en uit te zetten, en de daarover gemaakte afspraken te monitoren;
-
-de Koninkrijkslanden erkennen dat er strategische samenwerking nodig is voor het middelbaar en hoger onderwijs in het Caribisch deel van het Koninkrijk;
-
-de Koninkrijkslanden in het Ministerieel Vierlandenoverleg OCW hebben bekrachtigd, zich meerjarig in te zetten voor een stabiele en toekomstbestendige structuur voor de organisatie van het gezamenlijke programma voor Strategic Education Alliance (hierna: SEA) en daartoe het ‘implementatieplan SEA’ hebben vastgesteld;
-
-de Koninkrijkslanden in het Ministerieel Vierlandenoverleg OCW hebben bekrachtigdgezamenlijk het SEA-programma verder te ontwikkelen en daartoe potentiële vervolgprioriteiten en initiatieven te verkennen;
-
-uit onderzoeken, onder andere van de Nationale ombudsman, blijkt, dat er breedgedragen behoefte is aan verbetering van de overgang tussen het voortgezet onderwijs en het hoger onderwijs van het Caribisch deel van het Koninkrijk, naar Nederland.
-
-Komen het volgende overeen:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Paragraaf 1. Begripsbepalingen
 
-- **Hoogambtelijke stuurgroep:** de hoogambtelijke stuurgroep van het Vierlandenoverleg;
+- *Hoogambtelijke stuurgroep:* de hoogambtelijke stuurgroep van het Vierlandenoverleg;
 
-- **Programmateam:** Programmateam SEA;
+- *Programmateam:* Programmateam SEA;
 
-- **SEA:** Strategic Education Alliance, een gezamenlijk programma van de vier Koninkrijkslanden.
+- *SEA:* Strategic Education Alliance, een gezamenlijk programma van de vier Koninkrijkslanden.
 
 ##### Paragraaf 2. Doelstellingen
 
@@ -89,7 +47,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 5. De werkwijze van de adviescommissie, de vergoedingen voor de leden, de instellingsduur en de vergoeding van de kosten van de adviescommissie worden in het instellingsbesluit geregeld.
 
-6. De adviescommissie wordt na een instellingsduur van drie jaren opgeheven met ingang van 31 december 2026.
+6. De adviescommissie wordt na een instellingsduur van drie jaren opgeheven met ingang van 31 december 2026.
 
 7. In een Ministerieel Vierlandenoverleg OCW voorafgaand aan het einde van de instellingsduur kunnen de Koninkrijkslanden gezamenlijk instemmen om op basis van deze onderlinge regeling de instellingsduur van de adviescommissie telkens voor een periode van drie jaren te verlengen.
 
@@ -133,7 +91,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Paragraaf 8. Inwerkingtreding, looptijd en beëindiging
 
-1. Deze onderlinge regeling treedt in werking met ingang van de dag na ondertekening door alle Partijen en eindigt met ingang van 31 december 2026.
+1. Deze onderlinge regeling treedt in werking met ingang van de dag na ondertekening door alle Partijen en eindigt met ingang van 31 december 2026.
 
 2. Deze onderlinge regeling kan telkens voor drie jaren worden verlengd, na voorafgaande gezamenlijke instemming in het Ministerieel Vierlandenoverleg OCW in het jaar dat voorafgaat aan de einddatum.
 
@@ -150,5 +108,3 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 2. Bij wijzigingen van deze onderlinge regeling, vindt het eerste lid overeenkomstige toepassing.
 
 3. Van verlenging of beëindiging van deze onderlinge regeling wordt melding gemaakt in de Staatscourant en in de publicatiebladen van de Caribische landen van het Koninkrijk.
-
-Aldus overeengekomen en in viervoud ondertekend,

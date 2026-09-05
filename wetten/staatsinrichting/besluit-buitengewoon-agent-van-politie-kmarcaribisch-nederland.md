@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 10 november 2023, nr.: 2023/KPCN/0358, strekkende tot aanwijzing van buitengewoon agenten van politie bij de KMAR/Caribisch Nederland"
+citeertitel: "Besluit buitengewoon agent van politie KMAR/Caribisch Nederland"
 identifier: "BWBR0048947"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-25"
-last_updated: "2023-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048947"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16933713"
-version_id: "29761472"
-internal_id: "C42652841"
-label_id: "16845164"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048947/2023-11-25/0"
-intitule_bron: "Stcrt.2023-32296"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-10"
-intitule_published: "2023-11-24"
-intitule_in_force: "2023-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-32296"
-original_signed_date: "2023-11-10"
-original_published_date: "2023-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-32296"
-entry_into_force_date: "2023-11-25"
-jci_1_3: "jci1.3:c:BWBR0048947&z=2023-11-25&g=2023-11-25"
-jci_1_0: "1.0:c:BWBR0048947&g=2023-11-25"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon agent van politie KMAR/Caribisch Nederland"
-signed_date: "2023-11-10"
-entry_into_force: "2023-11-25"
+publicatiedatum: 2023-11-25
+laatste_update: 2023-11-25
+status: geldig
+toestand: 2023-11-25
+bron: "https://wetten.overheid.nl/BWBR0048947"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid van 10 november 2023, nr.: 2023/KPCN/0358, strekkende tot aanwijzing van buitengewoon agenten van politie bij de KMAR/Caribisch Nederland
-
-Gelezen het verzoek van de Koninklijke Marechaussee (KMar) en de daaropvolgende adviezen van de hoofdofficier van justitie;
-
-Gelet op:
-
-[Artikel 184, eerste lid, onder c, van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184);
-
-Het [Besluit buitengewoon agent van politie](https://wetten.overheid.nl/jci1.3:c:BWBR0029175);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -86,7 +54,7 @@ De buitengewoon agent van politie is, zodra hij met goed gevolg de opleiding aan
 
 ##### Artikel 8
 
-1. De commandant KMAR/Caribisch Nederland brengt jaarlijks, voor 1 april, verslag uit over:
+1. De commandant KMAR/Caribisch Nederland brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon agenten van politie werkzaam voor de KMar in Caribisch Nederland;
 

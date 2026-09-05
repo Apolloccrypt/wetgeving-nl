@@ -8,7 +8,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0039881"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Inkomstenregeling burgerlijke ambtenaren defensie

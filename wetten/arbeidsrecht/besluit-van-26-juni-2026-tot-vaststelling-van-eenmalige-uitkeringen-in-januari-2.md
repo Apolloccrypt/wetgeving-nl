@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0053053"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Besluit van 26 juni 2026 tot vaststelling van eenmalige uitkeringen in januari 2024, september 2024 en 1 juli 2025 en tot wijziging van enige besluiten in het kader van hoofdstuk 2 van het arbeidsvoorwaardenakkoord voor de sector Defensie over de periode van 1 januari 2021 tot en met 31 december 2023, het arbeidsvoorwaardenakkoord voor de sector Defensie over de periode 1 januari 2024 tot en met 31 december 2024 en het arbeidsvoorwaardenakkoord voor de sector Defensie over de periode van 1 januari 2025 tot 1 september 2026 (Wijzigingsbesluit arbeidsvoorwaardenakkoorden Defensie hoofdstuk 2 van 2021–2023, 2024 en 2025–2026)

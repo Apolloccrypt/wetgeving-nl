@@ -1,64 +1,39 @@
 ---
 title: "Regeling van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 41336172, houdende regels inzake de vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver (Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver)"
+citeertitel: "Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver"
 identifier: "BWBR0049179"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049179"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16987813"
-version_id: "29870572"
-internal_id: "C42820021"
-label_id: "16898084"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049179/2024-01-01/0"
-intitule_bron: "Stcrt.2023-34855"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-12"
-intitule_published: "2023-12-29"
-intitule_in_force: "2023-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-34855"
-original_signed_date: "2023-12-12"
-original_published_date: "2023-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-34855"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049179&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049179&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver"
-signed_date: "2023-12-12"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049179"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 41336172, houdende regels inzake de vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver (Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver)
-
-Gelet op de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10), [12a, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14), [14a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14a), [15a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a), [24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24), en [25b, derde en vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene die de aanvraag heeft ingediend;
+- *aanvrager:* degene die de aanvraag heeft ingediend;
 
-- **kavel:** kavel Alpha in het windenergiegebied IJmuiden Ver zoals aangewezen in [Kavelbesluit kavel Alpha in windenergiegebied IJmuiden Ver](https://wetten.overheid.nl/jci1.3:c:BWBR0049193) (Stcrt. 2023, 35269);
+- *kavel:* kavel Alpha in het windenergiegebied IJmuiden Ver zoals aangewezen in [Kavelbesluit kavel Alpha in windenergiegebied IJmuiden Ver](https://wetten.overheid.nl/jci1.3:c:BWBR0049193) (Stcrt. 2023, 35269);
 
-- **minister:** Minister voor Klimaat en Energie;
+- *minister:* Minister voor Klimaat en Energie;
 
-- **P50-waarde voor de netto elektriciteitsproductie:** de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, die dient te zijn bepaald met een waarschijnlijkheid van 50%;
+- *P50-waarde voor de netto elektriciteitsproductie:* de verwachte jaarlijkse energieproductie voor een gegeven combinatie van locatie en productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie, die dient te zijn bepaald met een waarschijnlijkheid van 50%;
 
-- **verbonden rechtspersoon:** alle rechtspersonen en vennootschappen die behoren tot de groep of groepsmaatschappij waartoe de aanvrager behoort en joint ventures waarin de aanvrager deelneemt;
+- *verbonden rechtspersoon:* alle rechtspersonen en vennootschappen die behoren tot de groep of groepsmaatschappij waartoe de aanvrager behoort en joint ventures waarin de aanvrager deelneemt;
 
-- **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
+- *wet:*
+ [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
 ##### Artikel 2
 
-1. Een aanvraag voor een vergunning voor de kavel wordt ingediend in de periode van 29 februari 2024 tot en met 28 maart 2024, 17:00 uur.
+1. Een aanvraag voor een vergunning voor de kavel wordt ingediend in de periode van 29 februari 2024 tot en met 28 maart 2024, 17:00 uur.
 
 2. Een aanvrager dient ten hoogste één aanvraag in.
 
@@ -86,7 +61,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de plaatsing van de eerste windturbine;
 
-- e. de start van het intrekken van de 66 kV-kabels op het platform van het net op zee;
+- e. de start van het intrekken van de 66 kV-kabels op het platform van het net op zee;
 
 - f. de start van de levering van elektriciteit;
 
@@ -158,15 +133,15 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 - g. het nummer van inschrijving in het handelsregister van alle met de aanvrager verbonden rechtspersonen;
 
-- h. indien van toepassing een beschrijving van de mate van naleving van de beginselen van internationaal maatschappelijk verantwoord ondernemen, bedoeld in tabel 4 van de bijlage;
+- h. indien van toepassing een beschrijving van de mate van naleving van de beginselen van internationaal maatschappelijk verantwoord ondernemen, bedoeld in tabel 4 van de [bijlage](https://wetten.overheid.nl/BWBR0049179);
 
-- i. indien van toepassing een beschrijving van de mate van inzicht in grondstoffenverbruik, milieu-impact en waardebehoud bij het ontwerp, de bouw, de exploitatie en de verwijdering van het windpark, bedoeld in tabel 5 van de bijlage; en
+- i. indien van toepassing een beschrijving van de mate van inzicht in grondstoffenverbruik, milieu-impact en waardebehoud bij het ontwerp, de bouw, de exploitatie en de verwijdering van het windpark, bedoeld in tabel 5 van de [bijlage](https://wetten.overheid.nl/BWBR0049179); en
 
-- j. indien van toepassing een beschrijving van de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de bijlage.
+- j. indien van toepassing een beschrijving van de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de [bijlage](https://wetten.overheid.nl/BWBR0049179).
 
 ##### Artikel 5
 
-1. De kosten voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 12a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a) bedragen € 0.
+1. De kosten voor de behandeling van een aanvraag voor een vergunning als bedoeld in [artikel 12a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a) bedragen € 0.
 
 2. De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14) bedraagt 56 maanden nadat de vergunning onherroepelijk is geworden.
 
@@ -196,15 +171,15 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 2. In aanvulling op [artikel 25b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) betrekt de minister bij de rangschikking de criteria:
 
-- a. de naleving van de beginselen van internationaal maatschappelijk verantwoord ondernemen, bedoeld in tabel 4 van de bijlage;
+- a. de naleving van de beginselen van internationaal maatschappelijk verantwoord ondernemen, bedoeld in tabel 4 van de [bijlage](https://wetten.overheid.nl/BWBR0049179);
 
-- b. de mate van inzicht in grondstoffenverbruik, milieu-impact en waardebehoud bij het ontwerp, de bouw, de exploitatie en de verwijdering van het windpark, bedoeld in tabel 5 van de bijlage; en
+- b. de mate van inzicht in grondstoffenverbruik, milieu-impact en waardebehoud bij het ontwerp, de bouw, de exploitatie en de verwijdering van het windpark, bedoeld in tabel 5 van de [bijlage](https://wetten.overheid.nl/BWBR0049179); en
 
-- c. de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de bijlage.
+- c. de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de [bijlage](https://wetten.overheid.nl/BWBR0049179).
 
 ##### Artikel 8
 
-1. De onderlinge weging van de rangschikkingscriteria, genoemd in [artikel 25b, tweede lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b)en [artikel 7, eerste en tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=7&z=2024-01-01&g=2024-01-01), vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de bijlage waarbij een hoger aantal punten leidt tot een hogere rangschikking.
+1. De onderlinge weging van de rangschikkingscriteria, genoemd in [artikel 25b, tweede lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b)en [artikel 7, eerste en tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=7&z=2024-01-01&g=2024-01-01), vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de [bijlage](https://wetten.overheid.nl/BWBR0049179) waarbij een hoger aantal punten leidt tot een hogere rangschikking.
 
 2. Als bij de rangschikking van de aanvragen volgens de onderlinge weging van de rangschikkingscriteria, bedoeld in het eerste lid, twee of meer aanvragen gelijk als hoogste worden gerangschikt, weegt het criterium, genoemd in [artikel 7, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=7&z=2024-01-01&g=2024-01-01), zwaarder dan de criteria, genoemd in [artikel 25b, tweede lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) en artikel 7, tweede lid, onderdelen a en b, gezamenlijk.
 
@@ -220,13 +195,13 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 ##### Artikel 9
 
-1. De kosten, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10) bedragen € 19.885.756.
+1. De kosten, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10) bedragen € 19.885.756.
 
 2. Degene aan wie de vergunning wordt verleend betaalt de vergoeding van de kosten, bedoeld in het eerste lid, op een door de minister bekendgemaakte rekening uiterlijk op de dag dat de termijn genoemd in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=10&z=2024-01-01&g=2024-01-01), verstrijkt.
 
 ##### Artikel 10
 
-1. De hoogte van de waarborgsom of bankgarantie, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) bedraagt € 200.000.000.
+1. De hoogte van de waarborgsom of bankgarantie, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) bedraagt € 200.000.000.
 
 2. De termijn waarbinnen de waarborgsom of bankgarantie moet zijn verstrekt, bedraagt vier weken na de datum waarop de minister de vergunning heeft verleend.
 
@@ -234,24 +209,18 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 4. De hoogte van de waarborgsom of bankgarantie die op grond van [artikel 15a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) wordt verbeurd bedraagt:
 
-- a. € 0 voor het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht;
+- a. € 0 voor het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht;
 
-- b. € 10.000.000 voor de eerste en tweede maand volgend op het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht; en
+- b. € 10.000.000 voor de eerste en tweede maand volgend op het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht; en
 
-- c. € 20.000.000 voor elke maand volgend op de tweede maand op het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht.
+- c. € 20.000.000 voor elke maand volgend op de tweede maand op het tijdvak waarbinnen de houder van de vergunning de voor dat tijdvak in de vergunning aangegeven activiteiten niet heeft verricht.
 
-5. De waarborgsom, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) wordt afgesloten bij een verzekeraar die minimaal beschikt over een door een ratingbureau, overeenkomstig [Verordening (EG) nr. 1060/2009](32009R1060) van het Europees parlement en Raad van 16 september 2009 inzake ratingbureaus, afgegeven langetermijnrating A.
+5. De waarborgsom, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) wordt afgesloten bij een verzekeraar die minimaal beschikt over een door een ratingbureau, overeenkomstig Verordening (EG) nr. 1060/2009 van het Europees parlement en Raad van 16 september 2009 inzake ratingbureaus, afgegeven langetermijnrating A.
 
 ##### Artikel 11
 
-Deze regeling treedt in werking met ingang van 1 januari 2024.
+Deze regeling treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver.
-
-## Bijlage. behorende bij [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=8&z=2024-01-01&g=2024-01-01), van de Regeling vergunningverlening kavel Alpha in windenergiegebied IJmuiden Ver
-
-Onderlinge weging van de rangschikkingscriteria, bedoeld in [artikel 25b, tweede lid, onderdelen a, b en c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) en [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049179&artikel=7&z=2024-01-01&g=2024-01-01), van de regeling
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

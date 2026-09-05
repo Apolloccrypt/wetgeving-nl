@@ -1,54 +1,29 @@
 ---
 title: "Regeling van de Minister voor Rechtsbescherming van 23 maart, nr. 5207106 houdende nadere regels ter zake van enkele kwaliteitseisen voor incassodienstverleners (Regeling kwaliteit incassodienstverlening)"
+citeertitel: "Regeling kwaliteit incassodienstverlening"
 identifier: "BWBR0049507"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049507"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17060433"
-version_id: "30020182"
-internal_id: "C43032211"
-label_id: "16969224"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049507/2024-04-01/0"
-intitule_bron: "Stcrt.2024-10329"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-23"
-intitule_published: "2024-03-28"
-intitule_in_force: "2024-03-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-10329"
-original_signed_date: "2024-03-23"
-original_published_date: "2024-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-10329"
-entry_into_force_date: "2024-04-01"
-jci_1_3: "jci1.3:c:BWBR0049507&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0049507&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling kwaliteit incassodienstverlening"
-signed_date: "2024-03-23"
-entry_into_force: "2024-04-01"
+publicatiedatum: 2024-04-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0049507"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister voor Rechtsbescherming van 23 maart, nr. 5207106 houdende nadere regels ter zake van enkele kwaliteitseisen voor incassodienstverleners (Regeling kwaliteit incassodienstverlening)
-
-Gelet op de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=2.5), [4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=4.1), en [5.1, vijfde lid, van het Besluit kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=5.1);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049422);
+- *besluit:*
+ [Besluit kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049422);
 
-- **niveau B1:** niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen;
+- *niveau B1:* niveau B1 van het Gemeenschappelijk Europees Referentiekader voor Moderne Vreemde Talen;
 
-- **schuldhulpverlening:** het ondersteunen bij het vinden van een adequate oplossing gericht op de aflossing van schulden indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen, alsmede de nazorg.
+- *schuldhulpverlening:* het ondersteunen bij het vinden van een adequate oplossing gericht op de aflossing van schulden indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen, alsmede de nazorg.
 
 ##### Artikel 2. Vakbekwaamheid
 
@@ -158,10 +133,8 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2024.
+Deze regeling treedt in werking met ingang van 1 april 2024.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kwaliteit incassodienstverlening.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0018191"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Besluit van 12 april 2005, houdende vaststelling van regels met betrekking tot de inkomsten van burgerlijke ambtenaren bij het Ministerie van Defensie (Inkomstenbesluit burgerlijke ambtenaren defensie) en tot wijziging van enkele besluiten in verband met technische wijzigingen

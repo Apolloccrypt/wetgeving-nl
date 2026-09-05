@@ -1,58 +1,32 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 11 januari 2024, nr. 5125931, houdende algemene aanwijzingen inzake de afgifte van tijdelijke certificaten aan jeugdbeschermings- en jeugdreclasseringsinstellingen (Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering 2024)"
+citeertitel: "Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering 2024"
 identifier: "BWBR0049304"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-01"
-last_updated: "2024-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049304"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17018203"
-version_id: "29938352"
-internal_id: "C42907821"
-label_id: "16927984"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049304/2024-03-01/0"
-intitule_bron: "Stcrt.2024-2854"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-01-11"
-intitule_published: "2024-01-25"
-intitule_in_force: "2024-01-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-2854"
-original_signed_date: "2024-01-11"
-original_published_date: "2024-01-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-2854"
-entry_into_force_date: "2024-03-01"
-jci_1_3: "jci1.3:c:BWBR0049304&z=2024-03-01&g=2024-03-01"
-jci_1_0: "1.0:c:BWBR0049304&g=2024-03-01"
-citeertitel_status: "officieel"
-short_title: "Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering 2024"
-signed_date: "2024-01-11"
-entry_into_force: "2024-03-01"
+publicatiedatum: 2024-03-01
+laatste_update: 2024-03-01
+status: geldig
+toestand: 2024-03-01
+bron: "https://wetten.overheid.nl/BWBR0049304"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 11 januari 2024, nr. 5125931, houdende algemene aanwijzingen inzake de afgifte van tijdelijke certificaten aan jeugdbeschermings- en jeugdreclasseringsinstellingen (Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering 2024)
-
-Gelet op [artikel 3.1.4, eerste lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.4);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze algemene aanwijzingen wordt verstaan onder:
 
-- –. **beëindigingscertificaat:** beëindigingscertificaat als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=4&z=2024-03-01&g=2024-03-01);
+- – *beëindigingscertificaat:* beëindigingscertificaat als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=4&z=2024-03-01&g=2024-03-01);
 
-- –. **certificaat:** certificaat als bedoeld in [artikel 3.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
+- – *certificaat:* certificaat als bedoeld in [artikel 3.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **certificerende instelling:** certificerende instelling als bedoeld in [artikel 3.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
+- – *certificerende instelling:* certificerende instelling als bedoeld in [artikel 3.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **overbruggingscertificaat:** overbruggingscertificaat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=4&z=2024-03-01&g=2024-03-01);
+- – *overbruggingscertificaat:* overbruggingscertificaat als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=4&z=2024-03-01&g=2024-03-01);
 
-- –. **tijdelijk certificaat:** tijdelijk certificaat als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=3&z=2024-03-01&g=2024-03-01).
+- – *tijdelijk certificaat:* tijdelijk certificaat als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049304&artikel=3&z=2024-03-01&g=2024-03-01).
 
 ##### Artikel 2
 
@@ -118,7 +92,7 @@ De certificerende instelling beoordeelt, indien zij overweegt om een eerder verl
 
 ##### Artikel 10
 
-Deze algemene aanwijzingen worden door toezending daarvan op 11 januari 2024 bekendgemaakt aan de certificerende instelling.
+Deze algemene aanwijzingen worden door toezending daarvan op 11 januari 2024 bekendgemaakt aan de certificerende instelling.
 
 ##### Artikel 11
 
@@ -127,5 +101,3 @@ Deze algemene aanwijzingen worden aangehaald als: Algemene aanwijzingen tijdelij
 ##### Artikel 12
 
 De Algemene aanwijzingen tijdelijk certificaat jeugdbescherming en jeugdreclassering worden ingetrokken.
-
-Deze algemene aanwijzingen zullen met de toelichting in de Staatscourant worden geplaatst.

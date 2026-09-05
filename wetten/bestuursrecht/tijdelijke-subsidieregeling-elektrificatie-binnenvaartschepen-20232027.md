@@ -1,74 +1,52 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 4 december 2023, nr. IENW/BSK-2023/360435, tot verstrekking van subsidie voor de elektrificatie van binnenvaartschepen voor de kalenderjaren 2023 tot en met 2027 (Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027)"
+citeertitel: "Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027"
 identifier: "BWBR0049024"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-29"
-last_updated: "2025-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049024"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16952263"
-version_id: "29797152"
-internal_id: "C42709331"
-label_id: "16862764"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049024/2025-05-29/0"
-intitule_bron: "Stcrt.2023-33424"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-04"
-intitule_published: "2023-12-07"
-intitule_in_force: "2023-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-33424"
-original_signed_date: "2023-12-04"
-original_published_date: "2023-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-33424"
-entry_into_force_date: "2023-12-08"
-jci_1_3: "jci1.3:c:BWBR0049024&z=2025-05-29&g=2025-05-29"
-jci_1_0: "1.0:c:BWBR0049024&g=2025-05-29"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027"
-signed_date: "2023-12-04"
-entry_into_force: "2023-12-08"
+publicatiedatum: 2023-12-08
+laatste_update: 2026-06-25
+status: geldig
+toestand: 2026-06-25
+bron: "https://wetten.overheid.nl/BWBR0049024"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 december 2023, nr. IENW/BSK-2023/360435, tot verstrekking van subsidie voor de elektrificatie van binnenvaartschepen voor de kalenderjaren 2023 tot en met 2027 (Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3) en [4 van de Kaderwet subsidie I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [8, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22) en [23, vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** natuurlijke of rechtspersoon uit een lidstaat van de Europese Unie of uit Zwitserland aan wie het binnenschipcertificaat voor het desbetreffende vaartuig is verstrekt;
+- *aanvrager:* natuurlijke of rechtspersoon uit een lidstaat van de Europese Unie of uit Zwitserland aan wie het binnenschipcertificaat voor het desbetreffende vaartuig is verstrekt;
 
-- **AGVV:** [Verordening (EU) 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L187), zoals daarna gewijzigd;
+- *AGVV:*
+ Verordening (EU) 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L187), zoals daarna gewijzigd;
 
-- **binnenschip:** binnenschip als bedoeld in de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009), met uitzondering van een drijvend werktuig, bestemd voor het bedrijfsmatig vervoer van goederen, als bedoeld in die wet;
+- *binnenschip:* binnenschip als bedoeld in de [Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009), met uitzondering van een drijvend werktuig, bestemd voor het bedrijfsmatig vervoer van goederen, als bedoeld in die wet;
 
-- **binnenschipcertificaat:** certificaat van onderzoek als bedoeld in [hoofdstuk 3, paragraaf 1, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&hoofdstuk=3) of een Uniebinnenvaartcertificaat voor binnenschepen overeenkomstig de richtlijn;
+- *binnenschipcertificaat:* certificaat van onderzoek als bedoeld in [hoofdstuk 3, paragraaf 1, van het Binnenvaartbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0025631&hoofdstuk=3) of een Uniebinnenvaartcertificaat voor binnenschepen overeenkomstig de richtlijn;
 
-- **industrieel onderzoeksproject:** onderzoek als bedoeld in artikel 2, punt 85, van de AGVV;
+- *industrieel onderzoeksproject:* onderzoek als bedoeld in artikel 2, punt 85, van de AGVV;
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **kleine en middelgrote onderneming:** ondernemingen als bedoeld in artikel 2, punt 2, van de AGVV;
+- *kleine en middelgrote onderneming:* ondernemingen als bedoeld in artikel 2, punt 2, van de AGVV;
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **NGF-project:** het Project – Zero emissie binnenvaart batterij-elektrisch zoals toegekend uit het Nationaal Groei Fonds;
+- *NGF-project:* het Project – Zero emissie binnenvaart batterij-elektrisch zoals toegekend uit het Nationaal Groei Fonds;
 
-- **Richtlijn:** [Richtlijn (EU) 2016/1629](32016L1629) van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van [Richtlijn 2009/100/EG](32009L0100) en tot intrekking van [Richtlijn 2006/87/EG](32006L0087) (PbEU 2016, L252);
+- *Richtlijn:*
+ Richtlijn (EU) 2016/1629 van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van Richtlijn 2009/100/EG en tot intrekking van Richtlijn 2006/87/EG (PbEU 2016, L252);
 
-- **ROSR:** [Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007858);
+- *ROSR:*
+ [Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007858);
 
-- **staatssteun:** steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie;
+- *staatssteun:* steunmaatregelen als omschreven in artikel 107 van het Verdrag betreffende de werking van de Europese Unie;
 
-- **uitvoeringsinstantie:** uitvoeringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=6&z=2025-05-29&g=2025-05-29).
+- *uitvoeringsinstantie:* uitvoeringsinstantie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=6&z=2026-06-25&g=2026-06-25).
 
 ##### Artikel 2. Doel en toepassingsbereik van de subsidie
 
@@ -86,33 +64,37 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 ##### Artikel 4. Subsidieplafond, hoogte van de subsidie en subsidiabele kosten
 
-1. Voor de periode tot en met 31 december 2026 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), ten hoogste € 15.100.000,– beschikbaar.
+1. Voor de periode tot en met 31 december 2027 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), ten hoogste € 15.100.000,– beschikbaar.
 
-2. Voor de periode tot en met 31 december 2025 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), ten hoogste € 7.397.000,– beschikbaar.
+2. Voor de periode tot en met 31 december 2025 is voor de subsidiëring van de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), ten hoogste € 7.397.000,– beschikbaar.
 
-3. Voor de periode van 1 januari 2026 tot en met 31 december 2026 is € 3.698.000,– beschikbaar.
+3. Voor de periode van 1 januari 2026 tot en met 31 december 2026 is € 4.125.000,– beschikbaar.
 
-4. Een aanvraag voor een subsidie kan worden ingediend in de volgende perioden:
+4. Voor de periode van 1 januari 2027 tot en met 31 december 2027 is € 6.282.000,– beschikbaar.
 
-- a. met ingang van de inwerkingtreding van deze regeling, 9.00 uur tot en met 31 juli 2025, 12.00 uur;
+5. Een aanvraag voor een subsidie kan worden ingediend in de volgende perioden:
 
-- b. van 1 september 2025, 9.00 uur tot en met 15 oktober 2025, 12.00 uur;
+- a. van 15 januari 2026, 9.00 uur tot en met 15 maart 2026, 12.00 uur;
 
-- c. van 15 januari 2026, 9.00 uur tot en met 15 maart 2026, 12.00 uur.
+- b. van 1 september 2026, 9.00 uur tot en met 15 oktober 2026, 12.00 uur;
 
-5. Een subsidie ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, wordt verleend onder de voorwaarde dat voldoende middelen op de begroting beschikbaar zullen worden gesteld.
+- c. van 15 januari 2027, 9.00 uur tot en met 15 maart 2027, 12.00 uur;
 
-6. De subsidieverlening wordt gerechtvaardigd op grond van artikel 25, eerste lid, en artikel 36 ter, eerste lid, van de AGVV.
+- d. van 1 september 2027, 9.00 uur tot en met 15 oktober 2027, 12.00 uur.
 
-7. De subsidie voor de activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bedraagt ten hoogste 40% van de in aanmerking komende kosten tot een maximum van:
+6. Een subsidie ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, wordt verleend onder de voorwaarde dat voldoende middelen op de begroting beschikbaar zullen worden gesteld.
 
-- a. € 550.000,– per nieuw te bouwen vaartuig of als het vaartuig vóór de uitvoering van het project was uitgerust met een diesel elektrische aandrijving of volledig elektrische aandrijving; of
+7. De subsidieverlening wordt gerechtvaardigd op grond van artikel 25, eerste lid, en artikel 36 ter, eerste lid, van de AGVV.
 
-- b. € 750.000,– per vaartuig als het vaartuig vóór de uitvoering van het project enkel was uitgerust met een conventionele aandrijving met verbrandingsmotoren.
+8. De subsidie voor de activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), bedraagt ten hoogste 40% van de in aanmerking komende kosten tot een maximum van:
 
-8. De aanvullende subsidie voor een industrieel onderzoeksproject als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bedraagt ten hoogste € 75.000,– per aanvraag.
+- a. € 550.000,– per nieuw te bouwen vaartuig of als het vaartuig vóór de uitvoering van het project was uitgerust met een diesel elektrische aandrijving of volledig elektrische aandrijving; of
 
-9. Voor een industrieel onderzoeksproject komt 50% van de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten voor industriële onderzoeksprojecten voor subsidie in aanmerking:
+- b. € 750.000,– per vaartuig als het vaartuig vóór de uitvoering van het project enkel was uitgerust met een conventionele aandrijving met verbrandingsmotoren.
+
+9. De aanvullende subsidie voor een industrieel onderzoeksproject als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), bedraagt ten hoogste € 75.000,– per aanvraag.
+
+10. Voor een industrieel onderzoeksproject komt 50% van de volgende rechtstreeks aan de uitvoering van het project toe te rekenen kosten voor industriële onderzoeksprojecten voor subsidie in aanmerking:
 
 - a. loonkosten van direct bij het project betrokken personeel, waarbij het uurloon wordt berekend aan de hand van het brutoloon: loon in geld, volgens de verzamelloonstaat, ingevolge [artikel 7.2 van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=7.2), te delen door 1.650 productieve uren, verhoogd met een forfaitair percentage van 20 voor de werkgeverslasten.
 
@@ -128,11 +110,11 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 - g. aan derden verschuldigde kosten ter zake van studies en onderzoeksactiviteiten en ter zake van de aanschaf van kennis en intellectuele eigendomsrechten alsmede ter zake van bescherming van die rechten.
 
-10. De steunintensiteit van een onderzoek als bedoeld in het zesde lid kan met 10 procentpunten worden verhoogd voor subsidie aan middelgrote ondernemingen en met 20 procentpunten voor subsidie aan kleine ondernemingen.
+11. De steunintensiteit van een onderzoek als bedoeld in het zevende lid kan met 10 procentpunten worden verhoogd voor subsidie aan middelgrote ondernemingen en met 20 procentpunten voor subsidie aan kleine ondernemingen.
 
 ##### Artikel 5. Verdelingsregime
 
-1. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria:
+1. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria:
 
 - a. emissievrij;
 
@@ -142,7 +124,7 @@ Om de uitstoot van CO2, stikstof en fijnstof door de binnenvaart terug te dringe
 
 - d. plan en onderbouwing.
 
-2. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria, waarbij gebruik wordt gemaakt van de volgende, op het eerste lid, aanvullende criteria:
+2. De Minister verleent subsidie voor projecten als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), op basis van een door de uitvoeringsorganisatie schriftelijk opgestelde rangschikking conform de volgende criteria, waarbij gebruik wordt gemaakt van de volgende, op het eerste lid, aanvullende criteria:
 
 - a. schaalbaarheid;
 
@@ -194,13 +176,13 @@ Onverminderd de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR003
 
 ##### Artikel 9. Verplichtingen van de subsidie-ontvanger
 
-1. De subsidie-ontvanger rondt de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), binnen 18 maanden na de subsidieverlening af.
+1. De subsidie-ontvanger rondt de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), binnen 18 maanden na de subsidieverlening af.
 
 2. De subsidieontvanger vraagt, binnen twee weken nadat het binnenschip een volledig kalenderjaar binnen het NGF-project heeft gevaren, een emissielabel aan bij de Stichting Afvalstoffen en Vaardocumenten Binnenvaart.
 
 3. Het label voor het binnenschip is bij eerste uitreiking minimaal B2 voor binnenschepen die aan de Stage V emissienormen voldoen en minimaal B3 voor schepen die niet aan de Stage V emissienormen voldoen.
 
-4. De subsidie-ontvanger toont gedurende 24 maanden na afronding van een activiteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2025-05-29&g=2025-05-29), bij een steekproefsgewijze controle aan dat het binnenschip functioneert binnen de kaders van het NGF-project.
+4. De subsidie-ontvanger toont gedurende 24 maanden na afronding van een activiteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049024&artikel=3&z=2026-06-25&g=2026-06-25), bij een steekproefsgewijze controle aan dat het binnenschip functioneert binnen de kaders van het NGF-project.
 
 5. Indien blijkt dat de subsidie-ontvanger niet voldaan heeft aan de in dit artikel opgenomen verplichtingen, kan de subsidie teruggevorderd worden.
 
@@ -230,10 +212,8 @@ Bij de beschikking tot subsidieverlening wordt een voorschot verleend van 100% v
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
+2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling elektrificatie binnenvaartschepen 2023–2027.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Toezichtkader stelsel Kwaliteitsborging Bouw"
 identifier: "BWBR0049360"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-02-12"
-last_updated: "2024-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049360"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17028883"
-version_id: "29963212"
-internal_id: "C42956211"
-label_id: "16939204"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049360/2024-02-12/0"
-intitule_bron: "Stcrt.2024-3757"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-02-12"
-intitule_in_force: "2024-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-3757"
-original_published_date: "2024-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-3757"
-entry_into_force_date: "2024-02-12"
-jci_1_3: "jci1.3:c:BWBR0049360&z=2024-02-12&g=2024-02-12"
-jci_1_0: "1.0:c:BWBR0049360&g=2024-02-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-02-12"
+publicatiedatum: 2024-02-12
+laatste_update: 2024-02-12
+status: geldig
+toestand: 2024-02-12
+bron: "https://wetten.overheid.nl/BWBR0049360"
+opgehaald: 2026-09-05
 ---
+
 # Toezichtkader stelsel Kwaliteitsborging Bouw
 
 ### 1. Inleiding
@@ -39,6 +20,8 @@ Dit toezichtkader bevat een algemene toelichting op de toezichttaak van de Toela
 ### 1.1. Toelatingsorganisatie Kwaliteitsborging Bouw
 
 De TloKB is een zelfstandig bestuursorgaan en heeft hoofdtaken ten aanzien van drie stelsels: kwaliteitsborging bouw, erkende kwaliteitsverklaringen en werkzaamheden aan gasverbrandingsinstallaties (zie figuur 1).
+
+Figuur 1: Taken TloKB
 
 ### 1.1.1. Kwaliteitsborging bouw
 
@@ -68,17 +51,47 @@ De wettelijke basis voor deze beleidsregel is [artikel 7ak Wonw](https://wetten.
 
 Het toezichtkader bouwt voort op de missie, visie en kernwaarden en met inzet van de kwaliteiten van de TloKB. Het toezichtkader geeft invulling aan het wettelijke kader en draagt bij aan een beter vertrouwen in kwaliteit van bouwen.
 
+Missie
+
 De TloKB ziet toe op het stelsel van kwaliteitsborging van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties. Eigenaren en gebruikers krijgen zo bouwwerken die veiliger, gezonder, duurzamer, bruikbaarder en toegankelijker zijn.
+
+Visie
 
 De TloKB speelt een publieke sleutelrol in de verbetering van de bouwkwaliteit. De TloKB laat toetsmethoden toe en ziet toe op het juiste gebruik van deze methoden in de bouwpraktijk. Zo kan iedereen vertrouwen op de kwaliteit van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties.
 
+Kernwaarden
+
 De TloKB voert haar taken uit vanuit drie kernwaarden:
 
+- • Onafhankelijk: De TloKB neemt besluiten en adviseert met het oog op het maatschappelijk belang van een goede bouwkwaliteit.
+
+- • Transparant: De TloKB geeft inzicht in de overwegingen die ten grondslag liggen aan het te nemen besluiten en adviezen, en draagt deze uit.
+
+- • Zorgvuldig: De TloKB neemt alle relevante aspecten in ogenschouw en staat open voor uiteenlopende maatschappelijke signalen.
+
+Kwaliteiten
+
 Bij de uitvoering van de taken zet de TloKB de volgende vier kwaliteiten in:
+
+- • Professioneel: De TloKB verstaat haar vak en is op de hoogte van de ontwikkelingen relevant voor de bouwsector.
+
+- • Inlevend: De TloKB voert vanuit een open houding overleg met betrokken partijen, weegt alle belangen en onderhoudt een relevant maatschappelijk netwerk.
+
+- • Kosteneffectief: De TloKB gaat in haar taakuitvoering doelmatig om met de aan hen verstrekte middelen.
+
+- • Doortastend: De TloKB verzamelt alle informatie die nodig is voor heldere en consistente besluitvorming in toelating en handhaving.
 
 ### 1.5. Beleidsregels KB-toezicht
 
 De TloKB stelt voor ieder stelsel waar zij toezichthoudende taken over heeft beleidsregels in de vorm van kaders op en een protocol werkwijze. Daarin legt zij de invulling vast van het toezicht, de inspecties en de handhaving en de daarbij te hanteren uitgangspunten en werkwijzen:
+
+- • een toezichtkader;
+
+- • een inspectiekader;
+
+- • een handhavingskader, en
+
+- • een protocol werkwijze toezicht (inspectie en handhaving).
 
 Toezicht is gericht op het bevorderen van nalevingsgedrag via informatieverzameling, beoordeling en (eventueel) handhaving. De werkwijze van toezicht is in de regel het verzamelen en beoordelen van informatie aan de hand van inspecties.
 
@@ -87,6 +100,20 @@ Het inspectiekader bevat een nadere concretisering van het toezichtkader en werk
 Het handhavingskader werkt de handhavingsbevoegdheden van de TloKB uit welke uitgangspunten zij hierbij hanteert en welke keuzes zij hierbij maakt. Wanneer en hoe handhaaft de TloKB, welke afwegingen gelden bij handhaving. Hoe zet zij haar bevoegdheden op basis van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) (Wonw) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb) in en hoe verhouden de verschillende handhavingsinstrumenten zich tot elkaar.
 
 Toezicht kent ook andere werkwijzen dan inspecties. De TloKB zet ook andere middelen in om instrumentaanbieders (en via hen kwaliteitsborgers en opdrachtnemers (bouwers) te stimuleren tot nalevingsgedrag, zoals:
+
+- • het publiceren van beleidsregels;
+
+- • het publiceren van richtlijnen of ‘good practices’;
+
+- • het uitdragen van een gerichte toezichtboodschap op bijeenkomsten;
+
+- • de inzet van media (interviews, social media, e.d.);
+
+- • het onderhouden van contacten met betrokken partijen;
+
+- • ad hoc informatieverzoeken aan ondertoezichtstaande partijen;
+
+- • samenwerking met andere toezichthouders en opsporingsdiensten.
 
 ### 1.6. Opbouw van het toezichtkader
 
@@ -98,47 +125,81 @@ In dit toezichtkader komt als eerste een beschrijving aan de orde van het KB-ste
 
 Het doel van het KB-stelsel is de verbetering van de bouwkwaliteit aan de hand van aantoonbare kwaliteit van bouwwerken en het vermogen om structureel te leren van tekortkomingen.3Met verbetering van de bouwkwaliteit wordt in dit toelatingskader gedoeld op de bouwkwaliteit zoals vastgelegd in de bouwtechnische regelgeving. Dit draagt bij aan bouwwerken die veiliger, gezonder, duurzamer, bruikbaarder en toegankelijker zijn.
 
-Voor toezicht op de bouwsector heeft het kabinet ervoor gekozen om geen gebruik te maken van regulering via accreditatie en certificering. Reden hiervoor is om diversiteit en innovatie in KB-instrumenten mogelijk te maken en ook om een proportioneel en betaalbaar stelsel te creëren. Hiermee houdt het kabinet rekening met het feit dat de bouwsector zich onder andere kenmerkt door een beperkt aantal grote bedrijven en een groot aantal kleinere bouwbedrijven. Bij het KB-stelsel volgt het kabinet het kabinetsstandpunt accreditatie en certificatie niet volledig, maar sluit wel aan bij de daarbij gehanteerde uitgangspunten.4Zie voor dit kabinetsstandpunt: Kamerstuk 29304, nr. 6 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl) Het kabinet kiest niet voor het aanwijzen van individuele kwaliteitsborgers op basis van accreditatie door de Minister. De verantwoordelijkheid voor de juiste toepassing van KB-instrumenten door kwaliteitsborgers ligt bij de instrumentaanbieder. De TloKB toetst aan de hand van wettelijke criteria of het KB-instrument hiervoor voldoende waarborgen biedt.5Memorie van toelichting bij de Wkb, TK, 2015-2026, 34 453, nr.3, par. 2.2, p. 17.
+Figuur 2: het KB-stelsel
+
+Voor toezicht op de bouwsector heeft het kabinet ervoor gekozen om geen gebruik te maken van regulering via accreditatie en certificering. Reden hiervoor is om diversiteit en innovatie in KB-instrumenten mogelijk te maken en ook om een proportioneel en betaalbaar stelsel te creëren. Hiermee houdt het kabinet rekening met het feit dat de bouwsector zich onder andere kenmerkt door een beperkt aantal grote bedrijven en een groot aantal kleinere bouwbedrijven. Bij het KB-stelsel volgt het kabinet het kabinetsstandpunt accreditatie en certificatie niet volledig, maar sluit wel aan bij de daarbij gehanteerde uitgangspunten.4Zie voor dit kabinetsstandpunt: Kamerstuk 29304, nr. 6 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl) Het kabinet kiest niet voor het aanwijzen van individuele kwaliteitsborgers op basis van accreditatie door de Minister. De verantwoordelijkheid voor de juiste toepassing van KB-instrumenten door kwaliteitsborgers ligt bij de instrumentaanbieder. De TloKB toetst aan de hand van wettelijke criteria of het KB-instrument hiervoor voldoende waarborgen biedt.5Memorie van toelichting bij de Wkb, TK, 2015-2026, 34 453, nr.3, par. 2.2, p. 17.
 
 Voor het vertrouwen in het KB-stelsel en een goede werking ervan is van belang dat de kwaliteitsborger geheel onafhankelijk en deskundig is. Om dit aan te tonen schrijft de instrumentaanbieder in zijn KB-instrument voor dat de kwaliteitsborger niet organisatorisch, financieel of juridisch betrokken is bij het betreffende bouwproject, tenzij deze betrokkenheid alleen voortvloeit uit de overeenkomst tot het voeren van kwaliteitsborging.
 
 De belangrijkste veranderingen ten opzichte van de huidige situatie om het gestelde doel van verbetering van de bouwkwaliteit met het nieuwe KB-stelsel te bereiken zijn:
 
+- • Systematisch toetsen De toetsing van de kwaliteit van bouwwerken en bouwwerkzaamheden is niet vormvrij, maar vindt systematisch plaats, in overeenstemming met een door de TloKB toegelaten KB-instrument.
+
+- • Aantoonbaarheid van kwaliteit Een opdrachtnemer (bouwbedrijf) legt de kwaliteit van zijn werkzaamheden vast, zodat hij aan de kwaliteitsborger kan aantonen dat hij zijn werk in overeenstemming met de bouwtechnische regelgeving heeft uitgevoerd.
+
+- • Lerend vermogen Een opdrachtnemer (bouwbedrijf) leert systematisch van geconstateerde afwijkingen, zodat stapsgewijs verbetering in de kwaliteit van bouwwerkzaamheden plaatsvindt.
+
 Wanneer het KB-stelsel door systematisch toetsen leidt tot bouwwerken die aantoonbaar aan de bouwtechnische regels voldoen en tot het structureel vermogen om te leren van afwijkingen, draagt dit bij aan het verbeteren van de bouwkwaliteit.
 
 ### 2.2. Krachtenveld
 
-Bij de uitoefening van haar taken bevindt de TloKB zich in een krachtenveld van verschillende partijen en hun belangen. Deze zijn als volgt te onderscheiden.6Zie Roddeman en Van Veen, [Draagvlak is essentieel voor waardecreatie | AevesBenefit](onbekend), 2021
+Bij de uitoefening van haar taken bevindt de TloKB zich in een krachtenveld van verschillende partijen en hun belangen. Deze zijn als volgt te onderscheiden.6Zie Roddeman en Van Veen, Draagvlak is essentieel voor waardecreatie | AevesBenefit, 2021
 
 ### 2.2.1. Actoren binnen het krachtenveld
+
+- • Instrumentaanbieders De instrumentaanbieder is belangrijk vanwege zijn kennis van en ervaring met de bouwpraktijk. Die kennis en ervaring past hij toe in zijn KB-instrument. Daarin stelt hij eisen aan de toepassing van zijn KB-instrument ter toetsing van de kwaliteit van bouwwerken door kwaliteitsborgers. De instrumentaanbieder houdt zelf toezicht op de juiste toepassing van het KB-instrument, zodat de last van het publieke toezicht, afhankelijk van de kwaliteit van het toezicht door de instrumentaanbieder, beperkt kan blijven.
+
+- • Kwaliteitsborgers De kwaliteitsborger vervult een sleutelpositie als onafhankelijke toetser van de kwaliteit van bouwwerken. Zijn verklaring dient boven iedere twijfel verheven te zijn voor een goede werking van het KB-stelsel. De kwaliteitsborger is vanwege zijn bijzondere positie een belangrijke partner van de TloKB bij het verbeteren van de bouwkwaliteit. Van belang is dat kwaliteitsborgers onafhankelijk zijn en adequate kennis van en ervaring met alle aspecten van de bouwtechnische regelgeving hebben en dat hun kennis regelmatig wordt geactualiseerd om ontwikkelingen in de bouw bij te houden en hun taken goed te kunnen uitvoeren.
+
+- • Brancheorganisaties De brancheorganisaties van instrumentaanbieders en kwaliteitsborgers, maar ook van bouwbedrijven, opdrachtgevers, adviseurs en bevoegd gezag waken over de reputatie van de branche en hun belangen en zullen de ontwikkelingen op het gebied van kwaliteitsborging nauw volgen en signalen afgeven in geval van tekortkomingen.
+
+- • Bevoegd gezag Binnen het KB-stelsel blijft het bevoegd gezag (in dit geval: de burgemeester en wethouders van de betreffende gemeente) zijn handhavingsbevoegdheid houden. Wanneer een kwaliteitsborger constateert dat een bouwwerk bij oplevering niet aan de bouwtechnische regels zal voldoen, meldt hij dit direct aan het bevoegd gezag, zodat deze een handhavingsbesluit kan nemen. Verder blijft het bevoegd gezag verantwoordelijk voor het toezicht op de bouwwerken die niet onder het KB-stelsel vallen (gevolgklassen 2 en 3) en voor de bestaande bouw. Om de verantwoordelijkheden voor bestaande bouw goed te kunnen invullen heeft het bevoegd gezag belang bij goede informatie over afgeronde bouwwerken. Daarnaast heeft het bevoegd gezag belang bij een goede werking van het KB-stelsel, dat leidt tot goede kwaliteit van bouwwerken en minder handhavingsbesluiten. Als adviseurs van het bevoegd gezag hebben de hulpverleningsdiensten als de brandweer belang bij een goede werking van het KB-stelsel, omdat hiermee het beroep dat op hen wordt gedaan in geval van (bijna-) ongevallen afneemt.
+
+- • Bouwbedrijven en professioneel opdrachtgevers Voor bouwbedrijven en professioneel opdrachtgevers is van belang dat de baten van het KB-stelsel opwegen tegen de lasten. Hiervoor is van belang dat zij de nieuwe rolverdeling binnen het KB-stelsel in de vingers krijgen. Doordat de kwaliteitsborger vaker en anders controleert kunnen de kosten toenemen. Hier staat tegenover dat door meer grip op de kwaliteit van het bouwproces betere kwaliteit wordt gehaald en eventueel besparingen worden gerealiseerd.
+
+- • Productiebedrijven Met de opkomst van industrieel en conceptueel bouwen neemt het belang toe van productiebedrijven. De productiebedrijven produceren onderdelen van bouwwerken die vervolgens op de bouwplaats in een bouwwerk worden toegepast. Deze manier van bouwen kan de bouwkwaliteit verhogen en tevens invloed hebben op het toezicht op de bouwkwaliteit. Zo kan het voor een kwaliteitsborger noodzakelijk zijn om een productiebedrijf te bezoeken voor meer inzicht in de kwaliteit van de productie. Ook voor de TloKB is een dergelijk inzicht van belang. Voor productiebedrijven is het van belang dat de baten van het KB-stelsel opwegen tegen de lasten.
+
+- • Bouwconsumenten Anders dan andere partijen in het krachtenveld zijn particuliere en zakelijke bouwconsumenten een diffuse sterk wisselende groep, omdat ze slechts belanghebbende zijn voor de duur van het bouwproces van het bouwwerk. Mede om die reden zijn deze bouwconsumenten niet goed georganiseerd om hun belangen te behartigen. Ook voor particuliere en zakelijke bouwconsumenten is van belang dat de baten van het KB-stelsel opwegen tegen de lasten, aangezien zij uiteindelijk de rekening betalen.
+
+- • Minister voor VRO en parlement Meer op afstand staan de politieke spelers binnen het krachtenveld, de Minister voor VRO en het parlement. Het KB-stelsel is het resultaat van een lange tijd van politiek debat. Voor de Minister en het parlement zal van belang zijn dat met dit stelsel na verloop van tijd de bouwkwaliteit toeneemt tegen aanvaardbare kosten. De TloKB zal om die reden de ontwikkelingen in en om het KB-stelsel monitoren en evalueren om de Minister en het parlement hiervan verslag te doen.
 
 ### 2.2.2. Kenmerken krachtenveld
 
 Specifieke kenmerken van het krachtenveld maken de uitvoering van taken door de TloKB complex:
 
+- • Eerste kenmerk is dat het een krachtenveld van professionele, goed in het onderwerp van de bouwkwaliteit ingevoerde partijen betreft waarmee de TloKB voor een goede taakuitvoering contact zal onderhouden.
+
+- • Tweede kenmerk is dat de uiteindelijke doelgroep van kwaliteitsborging, namelijk de particuliere en zakelijke consumenten die een bouwwerk laten bouwen, een diffuse doelgroep is van steeds wisselende partijen. Deze zijn niet goed vertegenwoordigd binnen het krachtenveld, waardoor zij moeilijk hun stem kunnen laten horen.
+
 ### 2.2.3. Regulatory capture
 
 De TloKB heeft als zelfstandig bestuursorgaan een sterke, onafhankelijke positie om haar taken uit te oefenen. Voor een goede taakuitoefening is van belang dat er voldoende kennis en ervaring is en ook dat er voldoende voeling is met de bouwpraktijk en hetgeen speelt bij de instrumentaanbieders, als ondertoezichtstaande partijen. Uit onderzoek naar toezicht blijkt dat bij het houden van toezicht zoals opgedragen aan de TloKB het risico ontstaat van wat ‘regulatory capture’ wordt genoemd.7D. Carpenter & D. Moss (eds.), “Preventing regulatory capture: special interest influence and how to limit it”, Cambridge: Cambridge University Press, the Tobin Project, 2013Regulatory capture duidt op het risico dat een steeds betere relatie tussen toezichthouder en ondertoezichtstaande organisaties ertoe leidt dat de toezichthouder zich meer met de ondertoezichtstaande organisaties vereenzelvigt dan vanuit het publieke belang en het belang van particuliere en zakelijke bouwconsumenten wenselijk is.
 
-Om dit risico te beperken investeert de TloKB in goed contact en goede relaties met bouwconsumenten, die zich wel georganiseerd hebben. Dit kan zowel door middel van overleg, als via werkbezoeken. Ook houdt de TloKB voeling met de bouwpraktijk doordat zij de mogelijkheid biedt om (vermoedens van) misstanden te melden voor eenieder die dit wil, voor zover deze onder de bevoegdheid van de TloKB vallen. Hiervoor is een formulier op de TloKB-website ingericht waarmee belanghebbenden contact op kunnen nemen met de TloKB.8[Contact | Toelatingsorganisatie Kwaliteitsborging Bouw (tlokb.nl)](onbekend) Maar ook anderszins staat de TloKB open voor signalen over het functioneren van het KB-stelsel.
+Om dit risico te beperken investeert de TloKB in goed contact en goede relaties met bouwconsumenten, die zich wel georganiseerd hebben. Dit kan zowel door middel van overleg, als via werkbezoeken. Ook houdt de TloKB voeling met de bouwpraktijk doordat zij de mogelijkheid biedt om (vermoedens van) misstanden te melden voor eenieder die dit wil, voor zover deze onder de bevoegdheid van de TloKB vallen. Hiervoor is een formulier op de TloKB-website ingericht waarmee belanghebbenden contact op kunnen nemen met de TloKB.8Contact | Toelatingsorganisatie Kwaliteitsborging Bouw (tlokb.nl) Maar ook anderszins staat de TloKB open voor signalen over het functioneren van het KB-stelsel.
 
 De Raad van Advies van de TloKB biedt ruimte voor vertegenwoordiging van bouwconsumenten om te komen tot een evenwichtige vertegenwoordiging van partijen en belangen.
 
 ### 2.3. Toezicht
 
-Toezicht is het verzamelen van **informatie** over de vraag of een handeling of zaak voldoet aan de gestelde eisen, het zich daarna **vormen van een oordeel** daarover en het eventueel naar aanleiding daarvan **interveniëren**.9Kaderstellende visie op toezicht, TK, 2000-2001, 27 831, nr. 1. Het verzamelen van informatie is dus de basis van toezicht. Het volgende hoofdstuk geeft aan welke informatie de TloKB op reguliere basis ontvangt.
+Toezicht is het verzamelen van *informatie* over de vraag of een handeling of zaak voldoet aan de gestelde eisen, het zich daarna *vormen van een oordeel* daarover en het eventueel naar aanleiding daarvan *interveniëren*.9Kaderstellende visie op toezicht, TK, 2000-2001, 27 831, nr. 1. Het verzamelen van informatie is dus de basis van toezicht. Het volgende hoofdstuk geeft aan welke informatie de TloKB op reguliere basis ontvangt.
 
 ### 2.4. Object van toezicht
 
-In 2022 heeft de TloKB de KB-instrumenten van zes instrumentaanbieders toegelaten aan de hand van de vereisten van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het bijbehorende [Besluit kwaliteitsborging voor het bouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0046570) en de Ministeriële regeling kwaliteitsborging voor het bouwen.10wetten.nl - Regeling - Woningwet - BWBR0005181 (overheid.nl) Hiervoor heeft de TloKB het **Toelatingskader Wkb-instrument** vastgesteld.11Zie: [Toelatingskader Wkb-instrument | Publicatie | Toelatingsorganisatie kwaliteitsboring bouw (tlokb.nl)](onbekend) Wanneer een nieuwe instrumentaanbieder een KB-instrument ter toelating voorlegt, wordt deze beoordeeld op basis van het op dat moment voor alle KB-instrumenten geldende toelatingskader.
+In 2022 heeft de TloKB de KB-instrumenten van zes instrumentaanbieders toegelaten aan de hand van de vereisten van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het bijbehorende [Besluit kwaliteitsborging voor het bouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0046570) en de Ministeriële regeling kwaliteitsborging voor het bouwen.10wetten.nl - Regeling - Woningwet - BWBR0005181 (overheid.nl) Hiervoor heeft de TloKB het *Toelatingskader Wkb-instrument* vastgesteld.11Zie: Toelatingskader Wkb-instrument | Publicatie | Toelatingsorganisatie kwaliteitsboring bouw (tlokb.nl) Wanneer een nieuwe instrumentaanbieder een KB-instrument ter toelating voorlegt, wordt deze beoordeeld op basis van het op dat moment voor alle KB-instrumenten geldende toelatingskader.
 
 Met de inwerkingtreding van het KB-stelsel is de TloKB bevoegd tot het houden van toezicht over en tot het kunnen handhaven ten opzichte van instrumentaanbieders van toegelaten instrumenten voor kwaliteitsborging en tot het bezoeken van bouwplaatsen. De instrumentaanbieder van een toegelaten KB-instrument is dan ook het object van toezicht door de TloKB.
 
-Het KB-stelsel reikt bij de start niet verder dan gevolgklasse 1.12Met name grondgebonden eengezinswoningen, woonboten en vakantiewoningen, bedrijfspanden van maximaal 2 bouwlagen. Zie voor complete opsomming artikel 2.17 Besluit bouwwerken leefomgeving. Monumenten vallen vooralsnog niet onder het KB-stelsel. Vanaf 1 januari 2027 zal een evaluatie plaatsvinden, waarna de Minister van VRO besluit over uitbreiding van het KB-stelsel naar de beide overige gevolgklassen 2 en 3.
+Het KB-stelsel reikt bij de start niet verder dan gevolgklasse 1.12Met name grondgebonden eengezinswoningen, woonboten en vakantiewoningen, bedrijfspanden van maximaal 2 bouwlagen. Zie voor complete opsomming artikel 2.17 Besluit bouwwerken leefomgeving. Monumenten vallen vooralsnog niet onder het KB-stelsel. Vanaf 1 januari 2027 zal een evaluatie plaatsvinden, waarna de Minister van VRO besluit over uitbreiding van het KB-stelsel naar de beide overige gevolgklassen 2 en 3.
 
 ### 2.5. Juridische grondslagen toezichttaken
 
 De TloKB verkrijgt haar juridische grondslag voor het toezicht op en het handhavend optreden ter zake de toepassing van de instrumenten voor kwaliteitsborging via:
+
+- • de met de [Wkb](https://wetten.overheid.nl/jci1.3:c:BWBR0042732) aan de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) toegevoegde [afdeling 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&afdeling=1a). Kwaliteitsborging voor het bouwen ([art. 7aa tot en met 7ap](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7aa));
+
+- • het aangevulde [artikel 92 lid 4 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92);
+
+- • de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 [Artikel 7ak](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ak) is de juridische grondslag voor de TloKB en haar toezichthoudende en overige taken. In [artikel 7ac](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac) is opgenomen waaraan een KB-instrument dient te voldoen en wat de taken zijn van de instrumentaanbieder. [Artikel 7ah](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ah) beschrijft de door de instrumentaanbieder aan de TloKB aan te leveren informatie over de kwaliteitsborgers die het KB-instrument toepassen en over het informeren van de TloKB in geval van een door een rechtbank uitgesproken surseance van betaling dan wel faillissement van de instrumentaanbieder.
 
@@ -152,6 +213,8 @@ In het besluit tot aanwijzing van toezichthouder Toelatingsorganisatie Kwaliteit
 
 De TloKB onderscheidt twee hoofdvormen van toezicht, te weten nalevingstoezicht en kwaliteitstoezicht. Uitgangspunt binnen het KB-stelsel is dat nalevingstoezicht ([art. 7ac Wonw, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac)) en kwaliteitstoezicht (art. 7ac Wonw, eerste lid) elkaar aanvullen en versterken. Het nalevingstoezicht bij de instrumentaanbieder heeft tot doel om vast te stellen dat de instrumentaanbieders hetgeen in de door de TloKB toegelaten KB-instrumenten is vastgelegd en de van toepassing zijnde wet- en regelgeving naleven. De instrumentaanbieder voert controles uit op de juiste toepassing van zijn toegelaten KB-instrument.
 
+Figuur 3: Nalevings- en kwaliteitstoezicht door de TloKB
+
 Het kwaliteitstoezicht door de TloKB is gericht op de werking van het KB-stelsel als geheel. Op basis van de inspecties in het kader van kwaliteitstoezicht trekt de TloKB conclusies over de werking van het KB-stelsel in de bouw als geheel.
 
 ### 3. Informatiepositie TloKB
@@ -159,6 +222,8 @@ Het kwaliteitstoezicht door de TloKB is gericht op de werking van het KB-stelsel
 ### 3.1. Informatiebronnen voor toezicht
 
 Met de start van het KB-stelsel houdt de TloKB toezicht op een nieuw stelsel met nieuwe regelgeving en deels nieuwe partijen. De TloKB baseert haar nalevings- en kwaliteitstoezicht op informatie die zij periodiek ontvangt van instrumentaanbieders. Een belangrijk deel van deze informatie ontvangen instrumentaanbieders op hun beurt van kwaliteitsborgers, in overeenstemming met hetgeen hierover in het KB-instrument is vastgelegd.
+
+Figuur 4: Informatiebronnen van de TloKB
 
 Voor een deel van de informatiebronnen (1 t/m 3) geldt dat de aanlevering van de betreffende informatie verplichtend is vastgelegd in wet- en regelgeving, waaronder de beleidsregels van de TloKB, de toelatingsbeschikkingen en overeenkomsten.14Informatiebronnen 2 en 3 zijn nadere uitwerkingen van de wettelijk voorgeschreven informatiebronnen zoals bedoeld onder 1.
 
@@ -170,11 +235,47 @@ De informatiestromen van betrokken partijen en derden verkrijgt de TloKB op onge
 
 De instrumentaanbieder houdt een actueel overzicht bij van kwaliteitsborgers die toestemming hebben om het KB-instrument te mogen toepassen.15Zie artikel 7ah Woningwet Iedere mutatie meldt de instrumentaanbieder direct, dan wel uiterlijk binnen twee (werk)dagen, aan de TloKB. Daarbij vermeldt de instrumentaanbieder de volgende gegevens:
 
+- • Bedrijfsnaam, plaats van vestiging en KvK-nummer van de kwaliteitsborger die toestemming heeft om het KB-instrument te mogen toepassen.
+
+- • Toepassingsgebied/reikwijdte van de werkzaamheden die door de kwaliteitsborger mogen worden uitgevoerd.
+
+- • De datum waarop toestemming is verleend, waarop is gewaarschuwd, geschorst of ingetrokken, in het geval van:
+
+   - – waarschuwing de reden en de datum waarop de waarschuwing is opgeheven,
+
+   - – schorsing de termijn en de reden van schorsing,
+
+   - – intrekking de reden en de datum van intrekking.
+
 Daarnaast informeert de instrumentaanbieder de TloKB onverwijld, uiterlijk binnen twee werkdagen, over een door de rechtbank over hem uitgesproken faillissement of surseance van betaling.16Zie artikel 7ah Woningwet
 
 ### 3.2.2. In de beschikking voorgeschreven informatiebronnen
 
 De instrumentaanbieder houdt een actueel overzicht bij van de bouwprojecten waarin zijn KB-instrument wordt toegepast volgens een door de toelatingsorganisatie beschikbaar gesteld format.17Zie toelatingsbeschikkingen instrumenten voor kwaliteitsborging artikelen 8a en 8k Wekelijks verstrekt de instrumentaanbieder een overzicht met de gestarte, beëindigde of gewijzigde bouwprojecten, waarbij de volgende gegevens kunnen zijn vermeld: 18De instrument aanbieder kan wijzigingen van een bouwproject door te geven. Dit betreft niet het wekelijks actueel houden van de bouwprojecten.
+
+- • Projectnaam en projectcode;
+
+- • locatie (adres en coördinaten);
+
+- • nieuwbouw of verbouw;
+
+- • gevolgklasse(n) binnen het bouwproject;
+
+- • beschrijving van de bouwmethode;
+
+- • bouwmaterialen hoofddraagconstructie;
+
+- • omvang bouwproject;
+
+- • data planning bouwfasen;
+
+- • toegepast KB-instrument;
+
+- • kwaliteitsborger die KB-instrument toepast;
+
+- • contactgegevens van de opdrachtnemer;
+
+- • datum afgifte verklaring.
 
 Deze projectinformatie gebruikt de TloKB om een steekproef te trekken voor uit te voeren inspecties.
 
@@ -192,11 +293,13 @@ Tot slot gebruikt de TloKB openbare informatiebronnen van derden ter aanvulling 
 
 ### 4. Nalevingstoezicht
 
-Bij nalevingstoezicht ziet de TloKB toe op de naleving door de instrumentaanbieder van wet- en regelgeving als neergelegd in de in het toegelaten KB-instrument opgenomen verplichtingen.20Wet kwaliteitsborging voor het bouwen, artikel 7ak, tweede lid, onder b, en artikel 7ac, tweede lid In ieder KB-instrument heeft een instrumentaanbieder de verplichtingen voor hemzelf en voor kwaliteitsborgers vastgelegd. Dat betreft onder meer het toezicht door de instrumentaanbieder op de toepassing van zijn KB-instrument door de kwaliteitsborger.21Zie memorie van toelichting bij de Wet kwaliteitsborging voor het bouwen, (Kamerstukken II 2019/2020, 34 453, nr. 382, p. 18/19).
+Bij nalevingstoezicht ziet de TloKB toe op de naleving door de instrumentaanbieder van wet- en regelgeving als neergelegd in de in het toegelaten KB-instrument opgenomen verplichtingen.20Wet kwaliteitsborging voor het bouwen, artikel 7ak, tweede lid, onder b, en artikel 7ac, tweede lid In ieder KB-instrument heeft een instrumentaanbieder de verplichtingen voor hemzelf en voor kwaliteitsborgers vastgelegd. Dat betreft onder meer het toezicht door de instrumentaanbieder op de toepassing van zijn KB-instrument door de kwaliteitsborger.21Zie memorie van toelichting bij de Wet kwaliteitsborging voor het bouwen, (Kamerstukken II 2019/2020, 34 453, nr. 382, p. 18/19).
 
 ### 4.1. Verantwoordelijkheden binnen het nalevingstoezicht
 
 In het kader van het nalevingstoezicht voert de TloKB inspecties uit bij de instrumentaanbieder. Bij inspecties neemt de TloKB mogelijk tekortkomingen waar en beoordeelt deze. Vervolgens spreekt de TloKB de instrumentaanbieder indien aan de orde aan en wijst zij hem op de geconstateerde tekortkomingen. De instrumentaanbieder is in dat geval aan zet om tekortkomingen te herstellen en om herhaling van tekortkomingen te voorkomen.
+
+Figuur 5: Nalevingstoezicht door de TloKB
 
 Als blijkt dat de naleving van een instrumentaanbieder niet voldoet, zal de TloKB bij de instrumentaanbieder interveniëren. Uitgangspunt hierbij is dat de TloKB een passende interventie toepast om het gewenste resultaat te behalen. Dit wil zeggen dat de interventie, gegeven de verzamelde feiten en omstandigheden en de beoordeling daarvan, zo effectief en efficiënt mogelijk leidt tot herstel van de situatie. Het is aan de instrumentaanbieder om de oorzaak van de tekortkoming vast te stellen en beheersmaatregelen te nemen om de oorzaak weg te nemen dan wel tekortkomingen in de toekomst te voorkomen. Dit kan door een sanctie daar waar dit passend is of noodzakelijk om de instrumentaanbieder tot naleven te bewegen. Doel van de TloKB is om naleving te waarborgen en herhaling te voorkomen.
 
@@ -205,6 +308,12 @@ Bij het nalevingstoezicht respecteert de TloKB de taken van de instrumentaanbied
 ### 4.2. Perspectieven nalevingstoezicht
 
 De TloKB bezoekt ook kwaliteitsborgers die het KB-instrument van hun instrumentaanbieder toepassen en/of bouwplaatsen waar een kwaliteitsborger het KB-instrument toepast. Door niet alleen bij de instrumentaanbieder informatie te verzamelen maar ook ter verificatie bij de kwaliteitsborger en op de bouwplaats, verkrijgt de TloKB een zo volledig mogelijk beeld van de naleving van het KB-instrument door de instrumentaanbieder. Dit leidt tot drie perspectieven van informatieverzameling:22Zie voor verdere uitwerking het inspectiekader KB.
+
+- • *Nalevingstoezicht bij de instrumentaanbieder* Het nalevingstoezicht bij de instrumentaanbieder vormt de kern van het nalevingstoezicht. Het heeft tot doel om vast te stellen of het door de instrumentaanbieder uit te voeren toezicht op de juiste toepassing van het KB-instrument door de kwaliteitsborger plaatsvindt in overeenstemming met hetgeen hierover in het toegelaten KB-instrument zelf is vastgelegd. De toepassing van de KB-instrumenten is onder te verdelen in de volgende onderwerpen: kwaliteitsborging, onafhankelijkheid kwaliteitsborger, informatieverstrekking, opleiding, kennis en ervaring kwaliteitsborgers, administratieve organisatie, taken en verantwoordelijkheden instrumentaanbieder en bouwkwaliteit. Dit toezicht vindt plaats door middel van vragenlijsten, interviews en dossieronderzoek bij de instrumentaanbieder. De TloKB inspecteert hiervoor minimaal eenmaal per jaar de administratie van iedere instrumentaanbieder.
+
+- • *Nalevingstoezicht bij de kwaliteitsborger* Het nalevingstoezicht bij de kwaliteitsborger heeft tot doel om, aanvullend op het toezicht bij de instrumentaanbieder op basis van informatie bij de kwaliteitsborger te toetsen in hoeverre de instrumentaanbieder het toezicht op de kwaliteitsborger juist en in overeenstemming met het toegelaten KB-instrument uitvoert. Dit nalevingstoezicht zal plaatsvinden zowel door middel van vragenlijsten, interviews, schouwen en door dossieronderzoek op kantoor. In geval van een nalevingstoezicht bij de kwaliteitsborger kan de TloKB ervoor kiezen om een toezichtmoment van een instrumentaanbieder bij te wonen, maar ook om zonder aanwezigheid van een instrumentaanbieder toezicht te houden. De TloKB verwacht hiervoor minimaal eens per twee jaar iedere kwaliteitsborger per instrumentaanbieder te inspecteren.23Met kwaliteitsborger wordt hier bedoeld iedere kwaliteitsborger die eindverantwoordelijk is voor toepassing van een toegelaten instrument in lopende bouwprojecten. De invulling en opzet van de inspectie hangt mede af van de omvang van de werkzaamheden van de betreffende kwaliteitsborger en van het instrument waarvoor de inspectie bij de betreffende kwaliteitsborger plaatsvindt.
+
+- • *Nalevingstoezicht op de bouwplaats* Het nalevingstoezicht op de bouwplaats heeft tot doel om, eveneens voor zover nodig, het toezicht van de instrumentaanbieder op de toepassing van een KB-instrument door de kwaliteitsborger te toetsen in de bouwpraktijk. Dit nalevingstoezicht kan, afhankelijk van hetgeen wordt getoetst, plaatsvinden door middel van vragenlijsten, interviews, dossieronderzoek of een schouw van het bouwproject of werkzaamheden. Voor een evenwichtig beeld zal een schouw op verschillende momenten tijdens het bouwproces kunnen plaatsvinden. Dit toezicht zal steekproefsgewijs plaatsvinden (zie [hoofdstuk 5](https://wetten.overheid.nl/BWBR0049360)). Denkbaar is dat inspecties in het kader van nalevingstoezicht in de praktijk worden gecombineerd met inspecties in het kader van kwaliteitstoezicht. Aangezien opdrachtnemers (bouwers) steeds meer geprefabriceerde onderdelen van bouwwerken toepassen, kan als de TloKB dit nodig acht het nalevingstoezicht zich uitstrekken tot productielocaties. Vanzelfsprekend houdt de TloKB er daarbij rekening mee dat opdrachtnemers (bouwers) gebruik kunnen maken van (erkende) kwaliteitsverklaringen die de kwaliteit van bouwproducten dan wel onderdelen van bouwwerken borgen.
 
 ### 4.3. Opvolging van tekortkomingen nalevingstoezicht
 
@@ -216,17 +325,35 @@ Bij geconstateerde tekortkomingen hangt het van de aard en de gevolgen van de te
 
 Naleving van de KB-instrumenten is geen doel op zichzelf. Uiteindelijk dient de TloKB de naleving van KB-instrumenten te beoordelen in de context van de doelstelling van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) en het KB-stelsel om bij te dragen aan verdere verbetering van de bouwkwaliteit. Eigenaren en gebruikers krijgen zo bouwwerken die veiliger, gezonder, duurzamer, bruikbaarder en toegankelijker zijn. Daarom voert de TloKB naast het toezicht op de naleving een tweede vorm van toezicht uit, te weten kwaliteitstoezicht.24Wet kwaliteitsborging voor het bouwen, artikel 7ak, tweede lid, onder b, en artikel 7ac, eerste lid.
 
+Figuur 6: Kwaliteitstoezicht TloKB
+
 In het kader van het kwaliteitstoezicht verzamelt de TloKB informatie op de bouwplaats via inspecties. Tijdens deze bouwplaatsinspecties beoordeelt de TloKB een aantal fysieke aspecten van bouwwerken op de bouwplaats. Welke aspecten dit zijn, hangt per inspectie af van de fase waarin de te inspecteren bouwwerken zich bevinden en de prioriteiten die de TloKB stelt. Aan de hand van de inspecties ter plaatse beoordeelt de TloKB in hoeverre het KB-stelsel leidt tot bouwwerken die voldoen aan de bouwtechnische regels. Tekortkomingen uit het kwaliteitstoezicht betreffen altijd het niet voldoen aan de bouwtechnische regels van het Bbl. Meerdere inspecties per KB-instrument en/of kwaliteitsborger leiden tot een geaggregeerd beeld van tekortkomingen op basis waarvan de TloKB conclusies trekt en eventuele maatregelen overweegt.
 
 Deze tekortkomingen kunnen verschillende soorten oorzaken hebben:
 
+- 1. Tekortkomingen in de naleving van een KB-instrument.
+
+- 2. Tekortkomingen doordat een KB-instrument anders blijkt te werken dan bij de toetsing en toelating is voorzien.
+
+- 3. Tekortkomingen op punten die niet of niet eenduidig in een KB-instrument zijn vastgelegd.
+
+- 4. Tekortkomingen buiten de werking van de KB-instrumenten25Uitgangspunt bij wijzigingen van het toelatingskader in deze paragraaf is dat deze voor zover redelijkerwijs mogelijk jaarlijks worden doorgevoerd.
+
+1. Tekortkomingen in de naleving van een KB-instrument
+
 Tekortkomingen in de naleving van een KB-instrument kunnen naar voren komen tijdens de inspecties in het kader van het nalevingstoezicht, maar ze kunnen zich ook openbaren bij inspecties op de bouwplaats in het kader van kwaliteitstoezicht.
 
-In de praktijk kan blijken dat een KB-instrument anders werkt dan bij toetsing en toelating is voorzien. Wanneer dit het geval is, zal de TloKB de instrumentaanbieder verzoeken om het KB-instrument aan te passen, dan wel overwegen om het toelatingskader aan te passen. Aanpassing van het toelatingskader leidt er dan toe dat een instrumentaanbieder zijn KB-instrument zal moeten aanpassen. Vervolgens zal de TloKB de aanpassingen van het KB-instrument toetsen aan het gewijzigde toelatingskader.26Zie [Protocol werkwijze Toelating & Aanwijzing | Publicatie | Toelatingsorganisatie Kwaliteitsborging Bouw (tlokb.nl)](onbekend)
+2. Tekortkomingen als gevolg van het feit dat een KB-instrument anders blijken te werken dan bij de toetsing en toelating is voorzien
+
+In de praktijk kan blijken dat een KB-instrument anders werkt dan bij toetsing en toelating is voorzien. Wanneer dit het geval is, zal de TloKB de instrumentaanbieder verzoeken om het KB-instrument aan te passen, dan wel overwegen om het toelatingskader aan te passen. Aanpassing van het toelatingskader leidt er dan toe dat een instrumentaanbieder zijn KB-instrument zal moeten aanpassen. Vervolgens zal de TloKB de aanpassingen van het KB-instrument toetsen aan het gewijzigde toelatingskader.26Zie Protocol werkwijze Toelating & Aanwijzing | Publicatie | Toelatingsorganisatie Kwaliteitsborging Bouw (tlokb.nl)
+
+3. Tekortkomingen op punten die niet of niet eenduidig in een KB-instrument zijn vastgelegd
 
 In het KB-stelsel is gekozen voor toelating van meerdere KB-instrumenten die naast elkaar op de markt actief zijn. Hiermee doet het KB-stelsel recht aan verschillen op de markt, zoals in de mate waarin bouwbedrijven zelf sturen op de kwaliteit van hun bouwwerken via een kwaliteitsmanagementsysteem.
 
 Bij alle toegelaten KB-instrumenten is sprake van zogeheten open normen. De invulling hiervan is niet in alle KB-instrumenten gelijk. Wanneer blijkt dat bepaalde open normen in een KB-instrument in de praktijk niet goed blijken te werken kan de TloKB overwegen nadere concretisering van open normen te eisen.
+
+4. Tekortkomingen buiten de werking van de KB-instrumenten
 
 Wanneer tekortkomingen blijken buiten werking van de KB-instrumenten zijn aanpassingen van een KB-instrument of het toelatingskader niet effectief. In dat geval kan de TloKB de Minister voor VRO adviseren om te komen tot aanpassing van regelgeving.
 
@@ -235,6 +362,8 @@ Centrale vraag bij het kwaliteitstoezicht is in hoeverre het KB-stelsel leidt to
 ### 5.2. Opvolging van tekortkomingen kwaliteitstoezicht
 
 In het kwaliteitstoezicht hangt het, net als in het nalevingstoezicht, bij geconstateerde tekortkomingen van de aard en de gevolgen van de tekortkomingen af welke actie de TloKB onderneemt.
+
+Figuur 5: Opvolging tekortkomingen kwaliteitstoezicht
 
 Wanneer de TloKB constateert dat bouwwerken niet voldoen aan de bouwtechnische regels, is de vraag in hoeverre dit wordt veroorzaakt door niet naleving door de instrumentaanbieder. In geval van niet-naleving door de instrumentaanbieder zal de TloKB een handhavingsmaatregel treffen gericht op herstel van de naleving door de instrumentaanbieder. Naast niet-naleving door de instrumentaanbieder zijn ook andere oorzaken denkbaar bij tekortkomingen in het kwaliteitstoezicht. De eerste is dat een KB-instrument tekortkomingen bevat, die bij de toelating niet zijn onderkend. Daarnaast kan de TloKB bij de toelating van een instrument een verkeerdere afweging hebben gemaakt. Afhankelijk van de oorzaak kan de TloKB altijd de instrumentaanbieder verzoeken om zijn instrument aan te passen. Vervolgens weegt de TloKB af of ook haar toelatingskader moet worden aangepast. Een andere mogelijkheid is dat sprake is van tekortkomingen in de wet- en regelgeving. In dat geval zal de TloKB de Minister voor VRO adviseren de wet- en regelgeving aan te passen. Het handhavingskader KB-stelsel gaat nader in op handhaving.
 
@@ -252,6 +381,10 @@ De TloKB gaat in haar taakuitvoering doelmatig om met de aan haar verstrekte mid
 
 Voor een effectieve en efficiënte inzet van mensen en middelen programmeert de TloKB haar toezicht risicogericht. Bij risicogericht programmeren inventariseert de toezichthouder de belangrijkste risico’s gerelateerd aan het niet of onvoldoende halen van de doelen van het KB-stelsel:
 
+- • vaststellen in hoeverre instrumentaanbieders (en onder hun toezicht staande kwaliteitsborgers) de toegelaten KB-instrumenten juist naleven en toepassen;
+
+- • vaststellen in hoeverre het KB-stelsel leidt tot een verbetering van de bouwkwaliteit, doordat bouwwerken beter voldoen aan de bouwtechnische regels.
+
 Bij de start van het toezicht programmeert de TloKB echter nog slechts beperkt risicogericht, omdat nog weinig objectiveerbare gegevens beschikbaar zijn om risico’s op te baseren. Hierbij is van belang om onderscheid te maken tussen het nalevingstoezicht enerzijds en het kwaliteitstoezicht anderzijds.
 
 Voor het nalevingstoezicht is bij de start van het KB-stelsel, zij het beperkt, informatie bekend. De toelatingsvereisten aan de KB-instrumenten waarop het nalevingstoezicht zich richt, heeft de TloKB beoordeeld in het kader van het toetsings- en toelatingsproces. In dat kader heeft de TloKB bevindingen opgedaan die zij als aandachtspunten voor het toezicht gebruikt. De TloKB heeft instrumentaanbieders laten weten dat zij deze bevindingen meeneemt in het nalevingstoezicht.
@@ -260,21 +393,45 @@ Bij het kwaliteitstoezicht zal de TloKB op basis van inspecties eerst inzicht mo
 
 ### 6.3. Informatie als basis voor toezichtprogrammering
 
-In eerste instantie is de TloKB voor het programmeren van toezicht aangewezen op haar informatiebronnen, zoals genoemd in hoofdstuk 3. Op basis van informatie die de TloKB ontvangt van instrumentaanbieders en informatie van betrokken partijen en van derden doet de TloKB inzichten op om na te gaan in hoeverre het KB-stelsel tot de beoogde resultaten leidt.
+In eerste instantie is de TloKB voor het programmeren van toezicht aangewezen op haar informatiebronnen, zoals genoemd in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0049360). Op basis van informatie die de TloKB ontvangt van instrumentaanbieders en informatie van betrokken partijen en van derden doet de TloKB inzichten op om na te gaan in hoeverre het KB-stelsel tot de beoogde resultaten leidt.
 
 Bij kwaliteitstoezicht zijn bouwwerken het onderwerp van toezicht. De voorziene omvang van de organisatie van de TloKB maakt het mogelijk om de ambitie te realiseren om door middel van aselecte steekproeven vijf procent van de door de instrumentaanbieder gemelde bouwprojecten te inspecteren. Dit geeft een basis om betrouwbare uitspraken te kunnen doen over de effecten van het KB-stelsel in de bouwpraktijk. Bij kwaliteitstoezicht is tevoren niet bekend welke bouwplaatsen zullen worden bezocht en wat de TloKB op de bouwplaats aantreft. Voor inspecties op de bouwplaats selecteert de TloKB periodiek uit het totaal aantal lopende bouwprojecten de te bezoeken projecten.
 
 Van belang hierbij is dat de TloKB deze selectie zorgvuldig uitvoert, zodat zij een representatief, betrouwbaar en nauwkeurig beeld krijgt van de kwaliteit van de bouwwerken. Aandachtspunten voor de TloKB zijn hierbij:
 
+- • minimaal vijf procent geïnspecteerde bouwwerken;
+
+- • diversiteit in evenredigheid naar type bouwwerken;
+
+- • diversiteit in de fase waarin bouwprojecten zich bevinden;
+
+- • diversiteit aan toezichtonderwerpen, aansluitend bij de fase waarin bouwprojecten zich bevinden;
+
+- • spreiding over de afdelingen van het Besluit bouwwerken leefomgeving,27Veiligheid, gezondheid, duurzaamheid, bruikbaarheid, toegankelijkheid en bouwwerkinstalaties en
+
+- • evenredige verdeling over bij bouwprojecten betrokken instrumentaanbieders en kwaliteitsborgers.
+
 Uitgangspunt voor de TloKB is dat het kwaliteitstoezicht op termijn de basis van het toezicht zal vormen. Partijen hebben enige tijd nodig om hun rol te vinden en uit te vinden op welke wijze ze het best aan verbetering van de bouwkwaliteit kunnen bijdragen. Na verloop van tijd zal het kwaliteitstoezicht zich verder ontwikkelen, in lijn met de groei van het aantal bouwprojecten dat onder het KB-stelsel wordt uitgevoerd. Naarmate de naleving door instrumentaanbieders zich goed ontwikkelt, neemt de omvang van het nalevingstoezicht in de loop van de tijd af. De inzichten die worden opgedaan bepalen de uiteindelijke inrichting en programmering van zowel het nalevingstoezicht als het kwaliteitstoezicht door de TloKB binnen het KB-stelsel.
 
-Bij de uit te voeren inspecties is de bouwplaatsinspectie en dan vooral de bepaling van de steekproefomvang van die inspecties een belangrijke factor voor de benodigde toezichtcapaciteit. Met de steekproeven (zie hoofdstuk 5) geeft de TloKB invulling aan haar taak om in de praktijk de werking van het KB-stelsel te toetsen. De omvang van de werkzaamheden en de benodigde personele capaciteit bepaalt de TloKB aan de hand van de omvang van een adequate steekproef. Om verantwoord conclusies te kunnen trekken over de werking van het KB-stelsel voeren in principe steeds twee inspecteurs gezamenlijk een inspectie uit.
+Bij de uit te voeren inspecties is de bouwplaatsinspectie en dan vooral de bepaling van de steekproefomvang van die inspecties een belangrijke factor voor de benodigde toezichtcapaciteit. Met de steekproeven (zie [hoofdstuk 5](https://wetten.overheid.nl/BWBR0049360)) geeft de TloKB invulling aan haar taak om in de praktijk de werking van het KB-stelsel te toetsen. De omvang van de werkzaamheden en de benodigde personele capaciteit bepaalt de TloKB aan de hand van de omvang van een adequate steekproef. Om verantwoord conclusies te kunnen trekken over de werking van het KB-stelsel voeren in principe steeds twee inspecteurs gezamenlijk een inspectie uit.
 
 ### 6.4. Thematisch programmeren van toezicht
 
 Uitkomst van risicogericht programmeren kan zijn dat een thema bijzondere aandacht verdient. Ook wanneer de TloKB substantieel signalen krijgt dat een bepaald thema extra aandacht verdient, besluit zij een thema in het jaarplan op te nemen. Binnen de programmering van het nalevingstoezicht valt hierbij te denken aan:
 
+- • de onafhankelijkheid van de kwaliteitsborger en de contractuele relatie kwaliteitsborger en opdrachtgever;
+
+- • de werking van de risicobeoordeling en het borgingsplan;
+
+- • de integrale beoordeling van de verschillende kwaliteitsaspecten en publieke waarden in de bouw;
+
+- • de informatieoverdracht door de kwaliteitsborgers aan het bevoegd gezag en derde partijen.
+
 Binnen de programmering van het kwaliteitstoezicht valt te denken aan:
+
+- • de kwaliteitsborging van industrieel geproduceerde bouwwerken;
+
+- • de kwaliteitsborging van een bepaalde soort/categorie bouwwerken in geval van incidenten/calamiteiten.
 
 Afhankelijk van het thema kan de TloKB besluiten thematisch te programmeren binnen het nalevingstoezicht, dan wel het kwaliteitstoezicht.
 
@@ -282,10 +439,22 @@ Afhankelijk van het thema kan de TloKB besluiten thematisch te programmeren binn
 
 Voor een goede beoordeling van de effectiviteit van het KB-stelsel is van belang om, naast het toezicht op het KB-stelsel zelf, ook over de grenzen van het KB-stelsel heen te kijken. Enkele onderwerpen vallen buiten de reikwijdte van het KB-stelsel, maar zijn wel van belang om te volgen om te komen tot een afgewogen oordeel van werking van het KB-stelsel als geheel. Daarmee vallen deze onderwerpen buiten het toezicht, maar binnen de monitoringstaak van de TloKB. De uitkomsten worden te zijner tijd ook meegenomen in de evaluatie van het KB-stelsel. Denkbare onderwerpen zijn:
 
+- • het handhavingsbeleid van gemeenten als bevoegd gezag naar aanleiding van gemelde afwijkingen die de afgifte van de verklaring onomkeerbaar belemmeren door de kwaliteitsborger;
+
+- • de ontwikkeling van het lerend vermogen van opdrachtnemers (bouwbedrijven) via verbetering van hun interne kwaliteitsborgingssystemen.
+
+Figuur 7: Monitoringstaak TloKB
+
 De TloKB heeft de mogelijkheid naar dit soort onderwerpen eigen onderzoek te doen.
 
 Ook signalen van derden en calamiteiten kunnen, mits voldoende onderbouwd, aanleiding zijn tot nader onderzoek.
 
 ### 6.6. Jaarlijkse rapportage over het KB-stelsel
 
-De TloKB heeft de wettelijke verplichting om verslag te doen van haar bevindingen aan de Minister voor VRO. Jaarlijks, vóór 15 maart informeert de TloKB de Minister over het functioneren en de effectiviteit van het KB-stelsel. Gezien de ingangsdatum van het KB-stelsel is dit voor het eerst in 2025. Om invulling te geven aan de verslaglegging en de toezichttaak van de TloKB ten aanzien van de effectiviteit en het functioneren van het KB-stelsel maakt de TloKB gebruik van drie bronnen:
+De TloKB heeft de wettelijke verplichting om verslag te doen van haar bevindingen aan de Minister voor VRO. Jaarlijks, vóór 15 maart informeert de TloKB de Minister over het functioneren en de effectiviteit van het KB-stelsel. Gezien de ingangsdatum van het KB-stelsel is dit voor het eerst in 2025. Om invulling te geven aan de verslaglegging en de toezichttaak van de TloKB ten aanzien van de effectiviteit en het functioneren van het KB-stelsel maakt de TloKB gebruik van drie bronnen:
+
+- – de beschikbare informatiebronnen genoemd in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0049360);
+
+- – de bevindingen uit het toezicht, en
+
+- – het door de TloKB uitgevoerde onderzoek.

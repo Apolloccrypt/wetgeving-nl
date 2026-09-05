@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 22 februari 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Tunesië, Ambassade Tunis (1946) 1975–2013, Besluit Beperking Openbaarheid, Tunis (1946) 1975–2013"
+citeertitel: "Besluit Beperking Openbaarheid Tunis (1946) 1975–2013"
 identifier: "BWBR0049446"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-09"
-last_updated: "2024-03-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049446"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17045983"
-version_id: "29992052"
-internal_id: "C42998931"
-label_id: "16955414"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049446/2024-03-09/0"
-intitule_bron: "Stcrt.2024-6886"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-22"
-intitule_published: "2024-03-08"
-intitule_in_force: "2024-03-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6886"
-original_signed_date: "2024-02-22"
-original_published_date: "2024-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6886"
-entry_into_force_date: "2024-03-09"
-jci_1_3: "jci1.3:c:BWBR0049446&z=2024-03-09&g=2024-03-09"
-jci_1_0: "1.0:c:BWBR0049446&g=2024-03-09"
-citeertitel_status: "redactioneel"
-short_title: "Besluit Beperking Openbaarheid Tunis (1946) 1975–2013"
-signed_date: "2024-02-22"
-entry_into_force: "2024-03-09"
+publicatiedatum: 2024-03-09
+laatste_update: 2024-03-09
+status: geldig
+toestand: 2024-03-09
+bron: "https://wetten.overheid.nl/BWBR0049446"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 22 februari 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Tunesië, Ambassade Tunis (1946) 1975–2013, Besluit Beperking Openbaarheid, Tunis (1946) 1975–2013
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris van 19 januari 2024, referentie 100867;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -113,7 +85,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -147,5 +119,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Tunesië, ambassade Tunis.

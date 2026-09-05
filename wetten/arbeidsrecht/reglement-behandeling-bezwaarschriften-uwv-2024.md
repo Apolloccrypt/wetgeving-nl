@@ -1,71 +1,45 @@
 ---
 title: "Reglement behandeling bezwaarschriften UWV 2024"
 identifier: "BWBR0048909"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048909"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16920903"
-version_id: "29739662"
-internal_id: "C42625001"
-label_id: "16832504"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048909/2024-01-01/0"
-intitule_bron: "Stcrt.2023-31588"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-31"
-intitule_published: "2023-11-20"
-intitule_in_force: "2023-11-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31588"
-original_signed_date: "2023-10-31"
-original_published_date: "2023-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31588"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048909&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0048909&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "2023-10-31"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0048909"
+opgehaald: 2026-09-05
 ---
+
 # Reglement behandeling bezwaarschriften UWV 2024
-
-Gelet op de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7),
-
-Besluit:
 
 ##### Artikel 1. definities
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- a. *de wet:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+- b. *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- c. **beschikking:** een beschikking als bedoeld in [artikel 1:3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3);
+- c. *beschikking:* een beschikking als bedoeld in [artikel 1:3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3);
 
-- d. **bijzondere persoonsgegevens:** dit zijn gegevens over gezondheid, ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, het lidmaatschap van een vakbond, genetische gegevens, biometrische gegevens met het oog op de unieke identificatie van een persoon, seksueel gedrag of seksuele gerichtheid, strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen;
+- d. *bijzondere persoonsgegevens:* dit zijn gegevens over gezondheid, ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, het lidmaatschap van een vakbond, genetische gegevens, biometrische gegevens met het oog op de unieke identificatie van een persoon, seksueel gedrag of seksuele gerichtheid, strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen;
 
-- e. **bijzondere beschikking:** een beschikking waaraan een beoordeling van bijzondere persoonsgegevens ten grondslag ligt;
+- e. *bijzondere beschikking:* een beschikking waaraan een beoordeling van bijzondere persoonsgegevens ten grondslag ligt;
 
-- f. **medische beschikking:** een bijzondere beschikking waaraan een beoordeling van medische gegevens ten grondslag ligt;
+- f. *medische beschikking:* een bijzondere beschikking waaraan een beoordeling van medische gegevens ten grondslag ligt;
 
-- g. **bezwaarschrift:** een bezwaarschrift als bedoeld in [artikel 6:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4);
+- g. *bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:4);
 
-- h. **belanghebbende:** een belanghebbende als bedoeld in [artikel 1:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2);
+- h. *belanghebbende:* een belanghebbende als bedoeld in [artikel 1:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2);
 
-- i. **werknemer:** de belanghebbende op wiens gegevens de beoordeling betrekking heeft;
+- i. *werknemer:* de belanghebbende op wiens gegevens de beoordeling betrekking heeft;
 
-- j. **medebelanghebbende:**
+- j. *medebelanghebbende:*
 
-- 1. de werkgever als bedoeld in de [artikelen 75a onder c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=75a) en [88 onder c van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=88), die belanghebbende is bij een medische beschikking, en niet de werknemer is;
+   - 1. de werkgever als bedoeld in de [artikelen 75a onder c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=75a) en [88 onder c van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=88), die belanghebbende is bij een medische beschikking, en niet de werknemer is;
 
-- 2. de werkgever en de bank of verzekeraar, die als garantsteller optreedt voor de werkgever die eigenrisicodrager is voor de WGA-uitkeringen van zijn werknemers, genoemd in [artikel 103 onder c Wet Werk en Inkomen naar Arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=103), en die belanghebbende zijn bij de medische beschikking.
+   - 2. de werkgever en de bank of verzekeraar, die als garantsteller optreedt voor de werkgever die eigenrisicodrager is voor de WGA-uitkeringen van zijn werknemers, genoemd in [artikel 103 onder c Wet Werk en Inkomen naar Arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=103), en die belanghebbende zijn bij de medische beschikking.
 
 ##### Artikel 2. bevestiging van ontvangst, telefonisch contact en afspraken
 
@@ -77,7 +51,7 @@ In dit reglement wordt verstaan onder:
 
 4. Als de indiener van het bezwaarschrift is gevraagd een verzuim te herstellen, wordt de datum om het bezwaarschrift en de invulling van de procedure te bespreken gepland, nadat het verzuim is hersteld.
 
-5. Als de indiener van het bezwaarschrift een professioneel gemachtigde is, kan in afwijking van lid 2, de ontvangst van het bezwaarschrift zonder telefonisch contact worden bevestigd.
+5. Als de indiener van het bezwaarschrift een professioneel gemachtigde is, kan in afwijking van lid 2, de ontvangst van het bezwaarschrift zonder telefonisch contact worden bevestigd.
 
 6. Om afspraken te maken met de professioneel gemachtigde over het verdere verloop van de procedure wordt telefonisch contact opgenomen. Hierbij vindt overleg plaats over het inbrengen van aanvullende informatie, de mogelijkheden voor informele afdoening en/of een te plannen hoorzitting.
 
@@ -95,7 +69,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 4. vormverzuimen
 
-1. Als niet is voldaan aan [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) of aan enig ander wettelijk vereiste voor het in behandeling nemen van het bezwaar, wordt de indiener van het bezwaarschrift in de gelegenheid gesteld dit verzuim te herstellen binnen een door UWV vastgestelde termijn.
+1. Als niet is voldaan aan [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) of aan enig ander wettelijk vereiste voor het in behandeling nemen van het bezwaar, wordt de indiener van het bezwaarschrift in de gelegenheid gesteld dit verzuim te herstellen binnen een door UWV vastgestelde termijn.
 
 2. De in het eerste lid bedoelde termijn kan op verzoek van de indiener van het bezwaarschrift worden verlengd met een door UWV vastgestelde termijn.
 
@@ -103,7 +77,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 5. vormverzuimen bij medische beschikkingen
 
-1. In afwijking van het bepaalde in [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) worden de gronden van het bezwaarschrift die betrekking hebben op medische gegevens, op een aparte bijlage vermeld.
+1. In afwijking van het bepaalde in [artikel 6:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) worden de gronden van het bezwaarschrift die betrekking hebben op medische gegevens, op een aparte bijlage vermeld.
 
 2. Bij het niet nakomen van het bepaalde in het eerste lid, kan de indiener van het bezwaarschrift in de gelegenheid worden gesteld zijn verzuim te herstellen binnen een door UWV vastgestelde termijn.
 
@@ -121,7 +95,7 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 7. prematuur bezwaar
 
-1. Als [artikel 6:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:10) van toepassing is, stelt UWV de indiener van het bezwaarschrift in de gelegenheid de gronden van zijn bezwaarschrift aan te vullen. De termijn waarbinnen de gronden worden aangevuld, wordt in overleg met de indiener van het bezwaarschrift dan wel door UWV bepaald en vangt aan na verzending van de beschikking waartegen het bezwaar is gericht.
+1. Als [artikel 6:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:10) van toepassing is, stelt UWV de indiener van het bezwaarschrift in de gelegenheid de gronden van zijn bezwaarschrift aan te vullen. De termijn waarbinnen de gronden worden aangevuld, wordt in overleg met de indiener van het bezwaarschrift dan wel door UWV bepaald en vangt aan na verzending van de beschikking waartegen het bezwaar is gericht.
 
 2. De in het eerste lid bedoelde termijn kan op verzoek van de indiener van het bezwaarschrift worden verlengd met een in overleg dan wel door UWV vastgestelde termijn.
 
@@ -137,9 +111,9 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 9. informatie aan en betrokkenheid van andere belanghebbenden dan de indiener van het bezwaarschrift
 
-1. UWV kan het bezwaarschrift, met inachtneming van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01), aan andere belanghebbenden sturen met de vraag of dezen bij de verdere voortgang van de procedure betrokken willen worden.
+1. UWV kan het bezwaarschrift, met inachtneming van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01), aan andere belanghebbenden sturen met de vraag of dezen bij de verdere voortgang van de procedure betrokken willen worden.
 
-2. Als de andere belanghebbende betrokken wil worden, dan ontvangt deze belanghebbende desgevraagd de op de zaak betrekking hebbende stukken met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01).
+2. Als de andere belanghebbende betrokken wil worden, dan ontvangt deze belanghebbende desgevraagd de op de zaak betrekking hebbende stukken met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01).
 
 3. UWV zendt de beslissing op bezwaar aan deze belanghebbenden, ook als zij niet betrokken willen worden.
 
@@ -175,13 +149,13 @@ In dit reglement wordt verstaan onder:
 
 4. UWV kan van een gemachtigde verlangen dat hij bij het begin van de hoorzitting een schriftelijke machtiging overlegt, tenzij de belanghebbende zelf met hem verschijnt of de gemachtigde advocaat is.
 
-5. Het horen van belanghebbenden geschiedt met inachtneming van het bepaalde in [artikel 7:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:5) door een of meer medewerkers van UWV.
+5. Het horen van belanghebbenden geschiedt met inachtneming van het bepaalde in [artikel 7:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:5) door een of meer medewerkers van UWV.
 
-6. Als een van de in [artikel 7:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) genoemde gevallen zich voordoet beslist UWV of van het horen van belanghebbenden wordt afgezien. UWV kan pas beslissen om van het horen van belanghebbenden af te zien nadat UWV contact met belanghebbenden heeft gezocht om te onderzoeken of een informele afdoening van het bezwaar mogelijk is.
+6. Als een van de in [artikel 7:3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) genoemde gevallen zich voordoet beslist UWV of van het horen van belanghebbenden wordt afgezien. UWV kan pas beslissen om van het horen van belanghebbenden af te zien nadat UWV contact met belanghebbenden heeft gezocht om te onderzoeken of een informele afdoening van het bezwaar mogelijk is.
 
 ##### Artikel 13. hoorzitting bij bezwaar tegen bijzondere beschikkingen
 
-1. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=12&z=2024-01-01&g=2024-01-01) geldt bij bezwaar tegen bijzondere beschikkingen het bepaalde in dit artikel.
+1. In aanvulling op [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=12&z=2024-01-01&g=2024-01-01) geldt bij bezwaar tegen bijzondere beschikkingen het bepaalde in dit artikel.
 
 2. Toegang tot dat deel van de hoorzitting waarin bijzondere persoonsgegevens worden behandeld, heeft alleen de belanghebbende waar de bijzondere persoonsgegevens betrekking op hebben en / of diens gemachtigde.
 
@@ -189,17 +163,17 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 14. toezending en inzage
 
-1. Voorafgaand aan de hoorzitting kan UWV alle op de zaak betrekking hebbende stukken kosteloos aan belanghebbenden sturen. Voor stukken die bijzondere persoonsgegevens bevatten geldt [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01).
+1. Voorafgaand aan de hoorzitting kan UWV alle op de zaak betrekking hebbende stukken kosteloos aan belanghebbenden sturen. Voor stukken die bijzondere persoonsgegevens bevatten geldt [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01).
 
 2. Onverminderd het bepaalde in het eerste lid, liggen het bezwaarschrift en alle andere op de zaak betrekking hebbende stukken voorafgaand aan de hoorzitting een week ter inzage voor belanghebbenden op een door UWV te bepalen plaats en tijdstip.
 
-3. Belanghebbenden worden op de terinzagelegging gewezen in de uitnodiging voor de hoorzitting, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=12&z=2024-01-01&g=2024-01-01).
+3. Belanghebbenden worden op de terinzagelegging gewezen in de uitnodiging voor de hoorzitting, genoemd in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=12&z=2024-01-01&g=2024-01-01).
 
 4. Belanghebbenden kunnen van de in het tweede lid bedoelde stukken, voor zover niet reeds toegezonden, kosteloos afschriften krijgen.
 
 ##### Artikel 15. toezending, inzage en toestemming bij bezwaren tegen bijzondere beschikkingen
 
-1. De belanghebbende, die niet de werknemer is, heeft in afwijking van het bepaalde in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01), geen recht op inzage in dan wel kennisname of toezending van enig stuk dat bijzondere persoonsgegevens bevat.
+1. De belanghebbende, die niet de werknemer is, heeft in afwijking van het bepaalde in [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=14&z=2024-01-01&g=2024-01-01), geen recht op inzage in dan wel kennisname of toezending van enig stuk dat bijzondere persoonsgegevens bevat.
 
 2. Bij medische gegevens is de inzage in, dan wel kennisname of toezending van stukken voorbehouden aan de gemachtigde van de medebelanghebbende die arts of advocaat is, dan wel van UWV bijzondere toestemming heeft gekregen om kennis te nemen van stukken die medische gegevens bevatten. In geval van medische beschikkingen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) is het tweede lid evenmin van toepassing op de arbodienst of de bedrijfsarts van de werkgever die eigenrisicodrager is voor de Ziektewet.
 
@@ -231,11 +205,11 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 3. Het verslag verwijst naar de stukken die ter zitting zijn overgelegd.
 
-4. Het verslag wordt gesplitst in een verslag van het deel waarin de bijzondere persoonsgegevens zijn behandeld en een verslag waarin de overige aspecten van het bezwaar zijn behandeld. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
+4. Het verslag wordt gesplitst in een verslag van het deel waarin de bijzondere persoonsgegevens zijn behandeld en een verslag waarin de overige aspecten van het bezwaar zijn behandeld. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 20. nader onderzoek/nieuwe hoorzitting
 
-1. Als na afloop van de hoorzitting blijkt dat een nader onderzoek wenselijk is, worden de resultaten van dat onderzoek in afschrift aan belanghebbenden toegezonden als de uitkomst van dit onderzoek van aanmerkelijk belang is voor de beslissing op bezwaar. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) van dit reglement is van overeenkomstige toepassing.
+1. Als na afloop van de hoorzitting blijkt dat een nader onderzoek wenselijk is, worden de resultaten van dat onderzoek in afschrift aan belanghebbenden toegezonden als de uitkomst van dit onderzoek van aanmerkelijk belang is voor de beslissing op bezwaar. [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048909&artikel=15&z=2024-01-01&g=2024-01-01) van dit reglement is van overeenkomstige toepassing.
 
 2. Belanghebbenden worden opnieuw in de gelegenheid gesteld om te worden gehoord, als
 
@@ -247,11 +221,11 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 ##### Artikel 21. Opschorten en verdaging
 
-1. Als tijdens de bezwaarprocedure blijkt dat het noodzakelijk is om informatie op te vragen bij een buitenlandse instantie, dan schort UWV de beslistermijn op overeenkomstig het bepaalde in [artikel 4:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15).
+1. Als tijdens de bezwaarprocedure blijkt dat het noodzakelijk is om informatie op te vragen bij een buitenlandse instantie, dan schort UWV de beslistermijn op overeenkomstig het bepaalde in [artikel 4:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15).
 
 2. UWV kan de beslistermijn ook opschorten als wensen van de indiener van het bezwaarschrift of diens professioneel gemachtigde in verband met de behandeling van dat bezwaar daar aanleiding toe geven.
 
-3. Als de beslissing op bezwaar niet kan worden genomen binnen de daarvoor geldende wettelijke termijn kan UWV de beschikking verdagen overeenkomstig het bepaalde in [artikel 7:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
+3. Als de beslissing op bezwaar niet kan worden genomen binnen de daarvoor geldende wettelijke termijn kan UWV de beschikking verdagen overeenkomstig het bepaalde in [artikel 7:10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10).
 
 ##### Artikel 22. beslissing op bezwaar
 
@@ -277,13 +251,13 @@ Als de indiener van het bezwaarschrift zijn bezwaarschrift intrekt, wordt dit sc
 
 Dit reglement is niet van toepassing op bezwaarschriften gericht tegen beschikkingen genomen op grond van:
 
-- –. de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149);
+- – de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149);
 
-- –. [Wet Open Overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+- – [Wet Open Overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- –. [artikel 30b, Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b) (weigering registratie) en
+- – [artikel 30b, Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30b) (weigering registratie) en
 
-- –. [artikel 14 van de Wet vermindering afdracht](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) (verklaring startkwalificatie).
+- – [artikel 14 van de Wet vermindering afdracht](https://wetten.overheid.nl/jci1.3:c:BWBR0007746&artikel=14) (verklaring startkwalificatie).
 
 ##### Artikel 26. intrekking eerdere reglement
 
@@ -295,6 +269,4 @@ Dit reglement wordt aangehaald als: Reglement behandeling bezwaarschriften UWV 2
 
 ##### Artikel 28. inwerkingtreding
 
-Dit reglement treedt op 1 januari 2024 in werking.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
+Dit reglement treedt op 1 januari 2024 in werking.

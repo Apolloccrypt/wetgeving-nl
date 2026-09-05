@@ -9,7 +9,7 @@ laatste_update: 2026-08-27
 status: geldig
 toestand: 2026-08-27
 bron: "https://wetten.overheid.nl/BWBR0045528"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Regeling van de Minister voor Milieu en Wonen, de Staatssecretaris van Defensie, de Minister van Economische Zaken en Klimaat, de Minister van Infrastructuur en Waterstaat, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2019, houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingsregeling)

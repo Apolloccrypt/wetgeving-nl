@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen"
 identifier: "BWBR0049057"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049057"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "16958203"
-version_id: "29912922"
-internal_id: "C42877661"
-label_id: "16868944"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049057/2024-01-01/0"
-intitule_bron: "Stcrt.2023-32927-n1"
-intitule_effect: "wijziging"
-intitule_published: "2023-11-30"
-intitule_in_force: "2023-11-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-32927-n1"
-original_published_date: "2023-11-30"
-original_effect: "wijziging"
-original_url_id: "stcrt-2023-32927-n1"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049057&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049057&g=2024-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049057"
+opgehaald: 2026-09-05
 ---
+
 # Aanwijzing kader voor toepassing van voorwaarden, gedragsaanwijzingen en maatregelen
 
 ### Samenvatting
@@ -40,9 +21,15 @@ Verder geeft deze aanwijzing concrete handvatten met betrekking tot de gedragsaa
 
 ### 1. Inleiding
 
-Het Openbaar Ministerie (OM) heeft verschillende mogelijkheden om in de diverse fasen van het strafproces het gedrag van verdachten of veroordeelden te beïnvloeden en/of hun vrijheid te beperken, middels het stellen of vorderen van voorwaarden, gedragsaanwijzingen of maatregelen. Dat brede arsenaal is van groot belang om maatwerk te kunnen leveren en recht te doen aan de specifieke kenmerken van de zaak of aan de verdachte/veroordeelde. De keerzijde van die veelheid aan mogelijkheden is dat iedere mogelijkheid min of meer andere juridische kaders kent en hierdoor uitvoeringsproblemen kunnen ontstaan. Daarbij komt dat een deel van de praktijk buiten de klassieke sanctionering op basis van de in [artikel 9 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) genoemde straffen, niet door de wetgever genormeerd is. Met deze aanwijzing wordt beoogd de praktijk te vergemakkelijken en te voorzien van een duidelijk kader, teneinde de kwaliteit te bevorderen. Hiertoe wordt voorzien in een overzicht van algemene uitgangspunten die gelden naast de juridische kaders die gelden voor elke voorwaarde, gedragsaanwijzing en maatregel.1Deze aanwijzing vormt de beleidsmatige uitwerking van het advies van de Commissie ‘Rechtstatelijke grenzen en mogelijkheden bij het afdoen van strafbare feiten door het Openbaar Ministerie’, zie bijlage 5 in het onderzoek dat ten behoeve van de commissie is verricht: J. Bijlsma, **Het voorwaardelijk sepot. Normering, praktijk, evaluatie (OM-reeks nr. 4)**, Den Haag: Boom Juridisch 2019.
+Het Openbaar Ministerie (OM) heeft verschillende mogelijkheden om in de diverse fasen van het strafproces het gedrag van verdachten of veroordeelden te beïnvloeden en/of hun vrijheid te beperken, middels het stellen of vorderen van voorwaarden, gedragsaanwijzingen of maatregelen. Dat brede arsenaal is van groot belang om maatwerk te kunnen leveren en recht te doen aan de specifieke kenmerken van de zaak of aan de verdachte/veroordeelde. De keerzijde van die veelheid aan mogelijkheden is dat iedere mogelijkheid min of meer andere juridische kaders kent en hierdoor uitvoeringsproblemen kunnen ontstaan. Daarbij komt dat een deel van de praktijk buiten de klassieke sanctionering op basis van de in [artikel 9 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) genoemde straffen, niet door de wetgever genormeerd is. Met deze aanwijzing wordt beoogd de praktijk te vergemakkelijken en te voorzien van een duidelijk kader, teneinde de kwaliteit te bevorderen. Hiertoe wordt voorzien in een overzicht van algemene uitgangspunten die gelden naast de juridische kaders die gelden voor elke voorwaarde, gedragsaanwijzing en maatregel.1Deze aanwijzing vormt de beleidsmatige uitwerking van het advies van de Commissie ‘Rechtstatelijke grenzen en mogelijkheden bij het afdoen van strafbare feiten door het Openbaar Ministerie’, zie bijlage 5 in het onderzoek dat ten behoeve van de commissie is verricht: J. Bijlsma, *Het voorwaardelijk sepot. Normering, praktijk, evaluatie (OM-reeks nr. 4)*, Den Haag: Boom Juridisch 2019.
 
 Achtereenvolgens komen aan de orde:
+
+- – proportionaliteit en subsidiariteit,
+
+- – bepaaldheid,
+
+- – uitvoerbaarheid van het toezicht.
 
 Omdat niet ten aanzien van elke voorwaarde/gedragsaanwijzing/maatregel beleid is vastgesteld in OM-aanwijzingen geeft deze aanwijzing concrete handvatten voor drie mogelijkheden in het bijzonder. Het gaat dan om de gedragsaanwijzing ex [art. 509hh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh), de vrijheidsbeperkende maatregel ex [art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) en de voorwaarden ex [art. 13 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13).
 
@@ -56,7 +43,19 @@ Waar in deze aanwijzing gesproken wordt over voorwaarde(n) kan ook aanwijzing(en
 
 Omdat sprake is van strafrechtelijke reacties dient de keuze voor een bepaalde voorwaarde en de wijze waarop deze in een concrete zaak wordt ingevuld, altijd te voldoen aan de beginselen van proportionaliteit en subsidiariteit. Daarbij gelden de volgende uitgangspunten:
 
+- a. toepassing van een voorwaarde moet het doel van de voorwaarde dienen (doelcriteria). Dit is voor iedere voorwaarde uitgewerkt in de bij de voorwaarde behorende OM-aanwijzing. Hieronder zijn voor voorwaarden, aanwijzingen of maatregelen die niet in een OM-aanwijzing zijn vervat, te weten de gedragsaanwijzing ex [art. 509hh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh), de vrijheidsbeperkende maatregel ex [art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) en de voorwaarden ex [art. 13 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13), de doelcriteria benoemd (zie [5.1. tot en met 5.3.](https://wetten.overheid.nl/BWBR0049057)).
+
+- b. de voorwaarde en de concrete invulling ervan mogen in het licht van de ernst van het feit niet onevenredig bezwarend zijn.
+
+   - – Deze afweging kan ertoe leiden dat een meer ingrijpende voorwaarde wordt ingezet indien voorwaarde en concrete invulling daarvan door de strafrechter geschiedt of in het kader van de tenuitvoerlegging van een straf (voorwaardelijke invrijheidstelling en gratie) dan bij een OM-strafbeschikking.
+
+   - – De te maken afweging kan er ook toe leiden dat een bepaalde afdoening (zoals de buitengerechtelijke afdoening) in de gegeven omstandigheden te licht wordt bevonden. Bepaalde delicten op het vlak van (huiselijk) geweld, zeden en belaging worden nimmer buitengerechtelijk afgedaan tenzij de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie daarmee heeft ingestemd. Hiervoor wordt verwezen naar de specifieke strafvorderingsrichtlijnen. Voor misdrijven waarbij sprake is van meervoudige recidive geldt hetzelfde.3Zie de [Aanwijzing OM-strafbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0046521).
+
 Voor verdachten/veroordeelden in de categorie ‘straf met zorg’ (verdachten/veroordeelden die problemen hebben op meerdere leefgebieden4Denk hierbij aan verdachten/veroordeelden met problematiek op gebied van huisvesting, psychische problematiek, schulden, verslaving, recidive, enzovoorts.) geldt, indien en voor zover voorwaarden (deels) gericht zijn op bepaalde gedragsproblematiek, dat:
+
+- c. er een verband bestaat tussen de betreffende gedragsproblematiek en het delict waarop de voorwaarde een strafrechtelijke reactie vormt; en
+
+- d. de (concrete invulling van de) voorwaarde (voor zover die gericht is op bepaalde gedragsproblematiek) bijdraagt aan het oplossen van die gedragsproblematiek.
 
 ### 3. Bepaaldheid
 
@@ -66,17 +65,23 @@ Alle op te leggen/te vorderen voorwaarden/aanwijzingen/maatregelen dienen te vol
 
 In de bewoordingen van de vordering en de op te leggen voorwaarde(n) is concreet en eenduidig aangegeven:
 
+- – de gedraging(en) waarvan de verdachte/veroordeelde zich moet onthouden en/of die de verdachte/veroordeelde moet uitvoeren om te voldoen aan de voorwaarde;
+
+- – de termijn waarbinnen aan de voorwaarde(n) moet zijn voldaan;
+
+- – welke instantie het toezicht feitelijk uitvoert (zie onder [4.1.](https://wetten.overheid.nl/BWBR0049057) hierna) en wat het toezicht inhoudt (zie onder [3.6.](https://wetten.overheid.nl/BWBR0049057) hierna).
+
 Bij gedragsaanwijzingen in een OM-strafbeschikking is zo duidelijk mogelijk de omvang aangegeven van de opgelegde verplichting (bijvoorbeeld het aantal uren opleiding dat gevolgd moet worden of het aantal behandelbijeenkomsten).
 
 ### 3.2. Locatieverboden, locatiegeboden, contactverboden
 
-Ten aanzien van **locatieverboden** geldt dat het voor verdachte/veroordeelde duidelijk dient te zijn voor welke (soort) locatie(s) en gedurende welke momenten het verbod van toepassing is en wat wordt bedoeld met de ‘directe omgeving’.
+Ten aanzien van *locatieverboden* geldt dat het voor verdachte/veroordeelde duidelijk dient te zijn voor welke (soort) locatie(s) en gedurende welke momenten het verbod van toepassing is en wat wordt bedoeld met de ‘directe omgeving’.
 
-Als de vordering/oplegging ziet op een **locatieverbod** met elektronisch toezicht5Elektronisch toezicht is de wettelijke term. In de praktijk wordt voornamelijk elektronische monitoring en soms elektronische controle gebruikt. Internationaal is “electronic monitoring” een gebruikelijke term. Dat geeft beter weer dat er niet alleen sprake is van controle of toezicht, maar bovenal begeleiding en inzet van de enkelbanddata ter ondersteuning van gedragsverandering. dan is het nodig een straal van minimaal 5 km te hanteren en dient bij de vordering/oplegging een kaart van het verboden gebied te worden overhandigd. Wanneer gekozen wordt voor een locatieverbod zonder elektronisch toezicht wordt het verboden gebied duidelijk omschreven en waar nodig en mogelijk aangegeven op een kaart.
+Als de vordering/oplegging ziet op een *locatieverbod* met elektronisch toezicht5Elektronisch toezicht is de wettelijke term. In de praktijk wordt voornamelijk elektronische monitoring en soms elektronische controle gebruikt. Internationaal is “electronic monitoring” een gebruikelijke term. Dat geeft beter weer dat er niet alleen sprake is van controle of toezicht, maar bovenal begeleiding en inzet van de enkelbanddata ter ondersteuning van gedragsverandering. dan is het nodig een straal van minimaal 5 km te hanteren en dient bij de vordering/oplegging een kaart van het verboden gebied te worden overhandigd. Wanneer gekozen wordt voor een locatieverbod zonder elektronisch toezicht wordt het verboden gebied duidelijk omschreven en waar nodig en mogelijk aangegeven op een kaart.
 
-Ten aanzien van **locatiegeboden** geldt dat het voor verdachte/veroordeelde duidelijk dient te zijn voor welke locatie het gebod van toepassing is, wat wordt bedoeld met de ‘directe omgeving’ daarvan, het maximaal aantal uren waarvoor het gebod geldt en hoe de momenten worden vastgesteld waarop het gebod geldt.
+Ten aanzien van *locatiegeboden* geldt dat het voor verdachte/veroordeelde duidelijk dient te zijn voor welke locatie het gebod van toepassing is, wat wordt bedoeld met de ‘directe omgeving’ daarvan, het maximaal aantal uren waarvoor het gebod geldt en hoe de momenten worden vastgesteld waarop het gebod geldt.
 
-Ten aanzien van **contactverboden** geldt dat duidelijk dient te zijn met welke specifieke perso(o)n(en) of instelling(en) verdachte/veroordeelde geen contact mag hebben. Indien aan de orde geldt dit ook voor contact via social media.
+Ten aanzien van *contactverboden* geldt dat duidelijk dient te zijn met welke specifieke perso(o)n(en) of instelling(en) verdachte/veroordeelde geen contact mag hebben. Indien aan de orde geldt dit ook voor contact via social media.
 
 ### 3.3. Verplichting deel te nemen aan een gedragsinterventie
 
@@ -102,23 +107,99 @@ Ten aanzien van de verplichting mee te werken aan reclasseringstoezicht dient du
 
 Het (meewerken aan) reclasseringstoezicht houdt in dat:
 
+- – de verdachte/veroordeelde de aanwijzingen en opdrachten opvolgt die door de reclassering worden gegeven in het kader van het toezicht,
+
+- – de verdachte/veroordeelde medewerking verleent aan huisbezoeken,
+
+- – de reclassering de naleving van de aan de verdachte/veroordeelde opgelegde voorwaarden controleert en de veroordeelde ten behoeve daarvan begeleidt,
+
+- – de verdachte/veroordeelde openheid geeft over zaken die van invloed kunnen zijn op de uitvoering van het toezicht. Daarbij kan het gaan om zaken zoals huisvesting, dagbesteding, relaties, werk en financiën.
+
 De officier van justitie dient bij het vorderen/opleggen duidelijk te maken wat het reclasseringstoezicht inhoudt.
 
 ### 4. Uitvoerbaarheid van het toezicht
 
-Op voorwaarden moet toezicht kunnen worden gehouden. Daarvoor is nodig dat de formuleringen van de voorwaarden voldoende bepaald zijn (zie hoofdstuk 3 hiervoor). Zo is duidelijk waaraan de verdachte/veroordeelde zich moet houden, zodat sprake is van rechtszekerheid en de kans op uitvoeringsproblemen worden gereduceerd. Bij opleggen en vorderen van voorwaarden dient te worden aangesloten bij de standaardformuleringen die binnen de strafrechtketen overeen zijn gekomen, en zoveel mogelijk bij de formulering die de reclassering adviseert.
+Op voorwaarden moet toezicht kunnen worden gehouden. Daarvoor is nodig dat de formuleringen van de voorwaarden voldoende bepaald zijn (zie [hoofdstuk 3](https://wetten.overheid.nl/BWBR0049057) hiervoor). Zo is duidelijk waaraan de verdachte/veroordeelde zich moet houden, zodat sprake is van rechtszekerheid en de kans op uitvoeringsproblemen worden gereduceerd. Bij opleggen en vorderen van voorwaarden dient te worden aangesloten bij de standaardformuleringen die binnen de strafrechtketen overeen zijn gekomen, en zoveel mogelijk bij de formulering die de reclassering adviseert.
 
 Met betrekking tot de uitvoerbaarheid van voorwaarden moet onderscheid worden gemaakt tussen een categorie voorwaarden waarbij actief gehandhaafd dient te worden door de reclassering, en voorwaarden waarbij reactieve controle als toezicht voldoende is of andere instanties het toezicht uitvoeren. Bij die eerste categorie voorwaarden ligt het feitelijk toezicht altijd bij de reclassering. Bij die tweede categorie is dat niet altijd het geval. Het gegeven dat niet actief wordt gecontroleerd op de naleving, betekent niet dat deze voorwaarden niet kunnen worden gesteld of gevorderd. Deze voorwaarden kunnen nuttig zijn, omdat indien wordt geconstateerd dat de voorwaarde niet is nageleefd, dit een titel kan vormen om in te grijpen. Niet-naleving van (een) voorwaarde(n) kan immers reden zijn om bijvoorbeeld een vordering tenuitvoerlegging in te dienen, het kan grond zijn om de schorsing van de voorlopige hechtenis op te heffen of er kan alsnog worden gedagvaard.
 
-Onder 4.1. hierna is aangegeven bij welke voorwaarden reclasseringstoezicht dient te worden opgelegd of gevorderd, en wanneer dit achterwege dient te blijven. Daarmee wordt eveneens inzichtelijk gemaakt bij welke voorwaarden in elk geval actief wordt gehandhaafd (namelijk die waarbij reclasseringstoezicht wordt opgelegd of gevorderd).
+Onder [4.1.](https://wetten.overheid.nl/BWBR0049057) hierna is aangegeven bij welke voorwaarden reclasseringstoezicht dient te worden opgelegd of gevorderd, en wanneer dit achterwege dient te blijven. Daarmee wordt eveneens inzichtelijk gemaakt bij welke voorwaarden in elk geval actief wordt gehandhaafd (namelijk die waarbij reclasseringstoezicht wordt opgelegd of gevorderd).
 
-Voor het stellen of vorderen van voorwaarden met reclasseringstoezicht, is het voor de uitvoerbaarheid nodig dat de reclassering heeft geadviseerd. Het stellen of vorderen van voorwaarden met reclasseringstoezicht zonder dat de reclassering een advies heeft uitgebracht, kan slechts na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie. Het OM is terughoudend met het stellen en vorderen van bijzondere voorwaarden die niet door de reclassering in het advies zijn geadviseerd. Sommige voorwaarden kunnen bovendien slechts gesteld of gevorderd op advies van de reclassering of na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie (hiervoor wordt verwezen naar de [Aanwijzing voorwaardelijke straffen en schorsing van voorlopige hechtenis onder voorwaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044666) en paragraaf 5.3 van deze aanwijzing).
+Voor het stellen of vorderen van voorwaarden met reclasseringstoezicht, is het voor de uitvoerbaarheid nodig dat de reclassering heeft geadviseerd. Het stellen of vorderen van voorwaarden met reclasseringstoezicht zonder dat de reclassering een advies heeft uitgebracht, kan slechts na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie. Het OM is terughoudend met het stellen en vorderen van bijzondere voorwaarden die niet door de reclassering in het advies zijn geadviseerd. Sommige voorwaarden kunnen bovendien slechts gesteld of gevorderd op advies van de reclassering of na instemming van de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie (hiervoor wordt verwezen naar de [Aanwijzing voorwaardelijke straffen en schorsing van voorlopige hechtenis onder voorwaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044666) en [paragraaf 5.3](https://wetten.overheid.nl/BWBR0049057) van deze aanwijzing).
 
 ### 4.1. Wel of geen reclasseringstoezicht
 
-Op de volgende voorwaarden houdt de reclassering toezicht. Bij deze voorwaarden dient expliciet ook de verplichting om mee te werken aan reclasseringstoezicht te worden gesteld of gevorderd. Dit geldt ook als de verplichting om mee te werken aan reclasseringstoezicht van rechtswege geldt. Voor alle betrokkenen is dan duidelijk dat invulling moet worden gegeven aan het reclasseringstoezicht. Zie ook paragraaf 4.2.:
+Op de volgende voorwaarden houdt de reclassering toezicht. Bij deze voorwaarden dient expliciet ook de verplichting om mee te werken aan reclasseringstoezicht te worden gesteld of gevorderd. Dit geldt ook als de verplichting om mee te werken aan reclasseringstoezicht van rechtswege geldt. Voor alle betrokkenen is dan duidelijk dat invulling moet worden gegeven aan het reclasseringstoezicht. Zie ook [paragraaf 4.2.](https://wetten.overheid.nl/BWBR0049057):
+
+- – Contactverbod met elektronisch toezicht
+
+- – Locatieverbod met elektronisch toezicht
+
+- – Locatiegebod met elektronisch toezicht
+
+- – Reisverbod met elektronisch toezicht
+
+- – Drugs-/alcoholverbod (onderdeel van het verbod is dat verdachte/veroordeelde meewerkt aan een middelencontrole)
+
+- – Opneming in een zorginstelling – klinische behandeling
+
+- – Behandelverplichting – ambulante behandeling
+
+- – Het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang
+
+- – Het deelnemen aan een gedragsinterventie
+
+- – Meldplicht bij de reclassering
+
+- – Volgen van een opleiding
+
+- – Meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlenging, maatschappelijk werk etc.)
+
+- – Geen andere huisvesting zonder toestemming
+
+- – Meewerken aan middelencontrole
+
+- – Verbod kansspelen
+
+- – Vermijden contact met minderjarigen
+
+- – Vermijden kinderporno
+
+- – Andere gedragsvoorwaarden die de reclassering heeft geadviseerd en waarop de reclassering zelf toezicht kan houden.
 
 Als uitsluitend een of meer van de volgende voorwaarden worden opgelegd of gevorderd, is de reclassering niet de instantie die daarop toezicht houdt. In dat geval moet de verplichting om mee te werken aan reclasseringstoezicht niet worden opgelegd/gevorderd:
+
+- – Herstel van de door het strafbare feit veroorzaakte schade
+
+- – Schadevergoeding
+
+- – Waarborgsom
+
+- – Storten in het schadefonds geweldsmisdrijven/ten gunste van een instelling
+
+- – Meewerken aan een (voorlichtings)rapportage Pro Justitia
+
+- – Meewerken aan reclasseringsadvies6De reclassering zal wel een melding doen als de verdachte/veroordeelde niet meewerkt aan het reclasseringsadvies. Voor deze voorwaarde is geen reclasseringstoezicht nodig.
+
+- – Meldplicht bij de politie
+
+- – Verhuisplicht
+
+- – Vestigingsverbod
+
+- – Contactverbod zonder elektronisch toezicht
+
+- – Locatieverbod zonder elektronisch toezicht
+
+- – Locatiegebod zonder elektronisch toezicht
+
+- – Reisverbod zonder elektronisch toezicht
+
+- – Verbod bepaalde werkzaamheden
+
+- – Houdverbod dieren
+
+- – Mediaverbod.
 
 ### 4.2. Meldplicht bij de reclassering
 
@@ -126,13 +207,13 @@ Bij voorwaarden met reclasseringstoezicht dient altijd een meldplicht bij de rec
 
 ### 5. Gedragsaanwijzing, vrijheidsbeperkende maatregel en gratie
 
-### 5.1. Gedragsaanwijzing ex [art. 509hh Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh)
+### 5.1. Gedragsaanwijzing ex art. 509hh Sv
 
 Deze gedragsaanwijzing op last van de officier van justitie dient te strekken tot het onmiddellijk voorkomen of beëindigen van strafbaar gedrag dat de openbare orde ernstig verstoort, belastend is voor personen, herhaald gevaar voor goederen oplevert door herhaalde vernielingen dan wel in verband met vrees voor gedrag dat herhaald gevaar voor de gezondheid of het welzijn van dieren oplevert. De gedragsaanwijzing is geen zelfstandige vorm van afdoening maar anticipeert op een rechterlijke beslissing. De gedragsaanwijzing wordt daarom alleen gegeven als op het moment van oplegging het voornemen bestaat de verdachte te dagvaarden. Na een gedragsaanwijzing blijft een sepot met algemene voorwaarde of een strafbeschikking mogelijk.
 
 [Art. 509hh lid 2 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=509hh) bevat een limitatieve opsomming van de mogelijk te geven gedragsaanwijzingen, die mogen cumuleren: het gebiedsverbod, het contactverbod, een meldplicht, de verplichting zich te doen begeleiden door de hulpverlening of het bevel geen of minder dieren te houden, dan wel bepaalde diersoorten niet te houden. Er kan geen elektronisch toezicht worden verbonden aan deze gedragsaanwijzingen. De gedragsaanwijzing zich te doen begeleiden door de hulpverlening mag gelet op de bedoeling van de wetgever niet het starten van een behandeling inhouden, maar enkel het bevestigen van lopende contacten met de hulpverlening (niet zijnde begeleiding door de reclassering).
 
-### 5.2. Vrijheidsbeperkende maatregel ex [art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v)
+### 5.2. Vrijheidsbeperkende maatregel ex art. 38v Sr
 
 [Art. 38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) voorziet in de mogelijkheid tot vordering van vrijheidsbeperkende maatregelen als zelfstandige sanctie via de rechter. Een vrijheidsbeperkende maatregel kan alleen worden gevorderd wanneer de veroordeling wegens een strafbaar feit wordt gevorderd. Dat kan ook als daarvoor geen straf of maatregel wordt geëist op grond van [art. 9a Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9a).
 
@@ -146,15 +227,15 @@ Bij oplegging van de vrijheidsbeperkende maatregel wordt tevens door de rechter 
 
 Binnen het voorwaardelijk kader van de voorwaardelijke veroordeling kan worden gewerkt aan gedragsverandering door het toezicht van de reclassering. Dat kan niet binnen het kader van een vrijheidsbeperkende maatregel. In bepaalde gevallen kan het echter de voorkeur verdienen om (ook) een vrijheidsbeperkende maatregel te vorderen voor oplegging van een contactverbod, locatieverbod en/of locatiegebod. Bij de vrijheidsbeperkende maatregel hangt de mogelijkheid om overtreding van het verbod of gebod te sanctioneren niet af van de hoogte van het (resterende) voorwaardelijk strafdeel. Voorts gaat het sanctioneren van overtreding van het verbod of gebod niet ten koste van een voorwaardelijk strafdeel indien naast de vrijheidsbeperkende maatregel een voorwaardelijke straf wordt opgelegd met andere voorwaarden. De eisen aan dadelijke uitvoerbaarheid zijn verder minder zwaar. Wel is het zo dat bij de vrijheidsbeperkende maatregel ex [38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) de vervangende hechtenis gemaximeerd is tot 6 maanden en de vervangende hechtenis in beginsel is beperkt tot één week.
 
-Binnen de jurisprudentie wordt verschillend gedacht over de mogelijkheid om elektronisch toezicht te koppelen aan de vrijheidsbeperkende maatregel.8In Rechtbank Gelderland 7 februari 2019, ECLI:NL:RBGEL:2019:462 werd elektronisch toezicht gekoppeld aan de vrijheidsbeperkende maatregel. Het OM gaat ervan uit dat dit wel kan.9De achtergrond van dit standpunt is als volgt: Weliswaar is anders dan bij [38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) bij de voorwaardelijke kaders waarbij elektronisch toezicht mogelijk is dit expliciet bepaald in de betreffende wetsbepalingen maar de wetgever heeft bij gelegenheid van de behandeling van het wetsvoorstel waarmee 38v Sr is ingevoerd nimmer uitdrukkelijk elektronisch toezicht (ET) uitgesloten. Wel heeft de wetgever aangegeven dat ET niet met de met de maatregel beoogde geringe beperking van de vrijheid van bewegen van de veroordeelde in verhouding lijkt te staan. Deze voorzichtige formulering sluit ET wat het OM betreft niet uit. Dit kan immers ook zo worden gelezen dat (bijv. als 38v Sr wordt toegepast bij lichtere feiten) de beperking van de vrijheid gering kan zijn en dat daarbij dan geen ET past. Wanneer de vrijheidsbeperking meer dan gering is (bijv. als 38v Sr wordt toegepast terzake zwaardere feiten) dan past ET daar wel bij. In die situaties wordt dan ook wat het OM betreft geen reden gezien om ET niet mogelijk te achten. ET is als gezegd mogelijk langs de weg van [14c Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c) en zelfs voor een veel langere duur (tien in plaats van vijf jaar). Er valt niet in te zien waarom ET niet bij de maatregel die ’maar’ vijf jaar mag duren mag worden toegepast, maar wel bij potentieel langer durende interventie van 14c Sr. Verder speelt mee dat net als bij 14c Sr uiteindelijk de rechter beslist over ET; er is dus altijd een rechterlijke toets. De rechter bepaalt de uiteindelijk vrijheidsbeperking (gering of niet) en het bijbehorende handhavingsregime. En als de rechter tot ET beslist, is er gegeven bovenstaande interpretatie weinig reden om dat als OM niet te vorderen. Bij het vorderen van de vrijheidsbeperkende maatregel met elektronisch toezicht dient zekerheidshalve subsidiair altijd een voorwaardelijke veroordeling met contactverbod, locatieverbod en/of locatiegebod te worden gevorderd met elektronisch toezicht. De vrijheidsbeperkende maatregel **met** elektronisch toezicht wordt slechts (primair) gevorderd indien dat om bovengenoemde redenen de voorkeur verdient. Als dadelijke uitvoerbaarheid van bijzondere voorwaarden haalbaar is en een voorwaardelijke strafdeel niet te kort zal zijn, wordt een voorwaardelijke veroordeling met elektronisch toezicht gevorderd.
+Binnen de jurisprudentie wordt verschillend gedacht over de mogelijkheid om elektronisch toezicht te koppelen aan de vrijheidsbeperkende maatregel.8In Rechtbank Gelderland 7 februari 2019, ECLI:NL:RBGEL:2019:462 werd elektronisch toezicht gekoppeld aan de vrijheidsbeperkende maatregel. Het OM gaat ervan uit dat dit wel kan.9De achtergrond van dit standpunt is als volgt: Weliswaar is anders dan bij [38v Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38v) bij de voorwaardelijke kaders waarbij elektronisch toezicht mogelijk is dit expliciet bepaald in de betreffende wetsbepalingen maar de wetgever heeft bij gelegenheid van de behandeling van het wetsvoorstel waarmee 38v Sr is ingevoerd nimmer uitdrukkelijk elektronisch toezicht (ET) uitgesloten. Wel heeft de wetgever aangegeven dat ET niet met de met de maatregel beoogde geringe beperking van de vrijheid van bewegen van de veroordeelde in verhouding lijkt te staan. Deze voorzichtige formulering sluit ET wat het OM betreft niet uit. Dit kan immers ook zo worden gelezen dat (bijv. als 38v Sr wordt toegepast bij lichtere feiten) de beperking van de vrijheid gering kan zijn en dat daarbij dan geen ET past. Wanneer de vrijheidsbeperking meer dan gering is (bijv. als 38v Sr wordt toegepast terzake zwaardere feiten) dan past ET daar wel bij. In die situaties wordt dan ook wat het OM betreft geen reden gezien om ET niet mogelijk te achten. ET is als gezegd mogelijk langs de weg van [14c Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14c) en zelfs voor een veel langere duur (tien in plaats van vijf jaar). Er valt niet in te zien waarom ET niet bij de maatregel die ’maar’ vijf jaar mag duren mag worden toegepast, maar wel bij potentieel langer durende interventie van 14c Sr. Verder speelt mee dat net als bij 14c Sr uiteindelijk de rechter beslist over ET; er is dus altijd een rechterlijke toets. De rechter bepaalt de uiteindelijk vrijheidsbeperking (gering of niet) en het bijbehorende handhavingsregime. En als de rechter tot ET beslist, is er gegeven bovenstaande interpretatie weinig reden om dat als OM niet te vorderen. Bij het vorderen van de vrijheidsbeperkende maatregel met elektronisch toezicht dient zekerheidshalve subsidiair altijd een voorwaardelijke veroordeling met contactverbod, locatieverbod en/of locatiegebod te worden gevorderd met elektronisch toezicht. De vrijheidsbeperkende maatregel *met* elektronisch toezicht wordt slechts (primair) gevorderd indien dat om bovengenoemde redenen de voorkeur verdient. Als dadelijke uitvoerbaarheid van bijzondere voorwaarden haalbaar is en een voorwaardelijke strafdeel niet te kort zal zijn, wordt een voorwaardelijke veroordeling met elektronisch toezicht gevorderd.
 
 Voorts kan een voorwaardelijke veroordeling de voorkeur verdienen boven een vrijheidsbeperkende maatregel, als de periode van de maatregel met elektronisch toezicht niet gelijktijdig zal lopen met een proeftijd van andere bijzondere voorwaarden. Elektronisch toezicht kan een bijdrage leveren aan gedragsverandering tijdens het reclasseringstoezicht op de bijzondere voorwaarden. Een mogelijkheid is ook om zowel de vrijheidsbeperkende maatregel als bijzondere voorwaarden met elektronisch toezicht (primair) te vorderen.
 
-Een vrijheidsbeperkende maatregel **met** elektronisch toezicht wordt slechts (primair) gevorderd nadat de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie daarmee heeft ingestemd.
+Een vrijheidsbeperkende maatregel *met* elektronisch toezicht wordt slechts (primair) gevorderd nadat de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie daarmee heeft ingestemd.
 
 Voor het vorderen van elektronisch toezicht gelden de voorschriften in de [Aanwijzing voorwaardelijke straffen en schorsing van voorlopige hechtenis onder voorwaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0044666). De officier van justitie dient bij een vrijheidsbeperkende maatregel met elektronisch toezicht nadrukkelijk te vorderen dat de reclassering opdracht wordt gegeven toezicht te houden op de vrijheidsbeperkende maatregel door middel van elektronisch toezicht.
 
-### 5.3. Voorwaarden ex [art. 13 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13)
+### 5.3. Voorwaarden ex art. 13 Gratiewet
 
 Gratie is vermindering, verandering of kwijtschelding van een opgelegde straf of maatregel door Zijne Majesteit de Koning. Verzoeken om gratie worden namens de Minister behandeld en gecoördineerd door Justis.
 
@@ -166,6 +247,12 @@ Deze voorwaarden kunnen het gedrag van de veroordeelde betreffen ([art. 13 lid 1
 
 In [art. 13 lid 2 en 3 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13) worden een viertal voorbeelden van voorwaarden genoemd die kunnen worden gesteld:
 
+- – Het verrichten van bepaalde onbetaalde arbeid of het volgen van een leerproject
+
+- – Betaling van een bepaalde geldsom aan de Staat
+
+- – Gehele of gedeeltelijke schadevergoeding
+
 Het vierde voorbeeld betreft een specifieke voorwaarde voor jeugdigen, te weten het verrichten van arbeid tot herstel van de door het strafbare feit aangerichte schade.
 
 Ook de voorwaarde geen strafbare feiten te plegen kan worden gesteld. Het begaan van een strafbaar feit kan bovendien grond zijn voor herroeping van de gratie op grond van [art. 17 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=17).
@@ -173,6 +260,52 @@ Ook de voorwaarde geen strafbare feiten te plegen kan worden gesteld. Het begaan
 De voorwaarden bij gratie kennen een afgeleid karakter. Daardoor wordt de inhoud van de voorwaarden begrensd door de corresponderende sancties. De te adviseren voorwaarden mogen niet ingrijpender zijn dan (het resterend strafdeel van) de opgelegde sanctie. Voor wat betreft de voorwaarden die het gedrag van de veroordeelde betreffen, moet daarom aansluiting worden gezocht bij de begrenzing van de gedragsvoorwaarden bij de voorwaardelijke veroordeling. De te adviseren voorwaarden dienen aldus te strekken tot bevordering van goed levensgedrag, dan wel gedragingen te betreffen waartoe de verdachte uit oogpunt van maatschappelijke betamelijkheid gehouden moet worden geacht.
 
 Het voorgaande betekent in concreto dat, naast de voorwaarden die in [art. 13 lid 2 en 3 Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257&artikel=13) worden genoemd, in de regel alleen de navolgende bijzondere voorwaarden kunnen worden geadviseerd:
+
+- – Schadevergoeding
+
+- – Schadeherstel
+
+- – Waarborgsom
+
+- – Storting in een schadefonds
+
+- – Contactverbod (met of zonder elektronisch toezicht)
+
+- – Locatieverbod (met of zonder elektronisch toezicht)
+
+- – Locatiegebod (met of zonder elektronisch toezicht)
+
+- – Meldplicht
+
+- – Drugs-/alcoholverbod (onderdeel van het verbod is dat verdachte/veroordeelde meewerkt aan een middelencontrole)
+
+- – Behandelverplichting – ambulante behandeling
+
+- – Het verblijven in een instelling voor begeleid wonen of maatschappelijke opvang
+
+- – Het deelnemen aan een gedragsinterventie
+
+- – Beperking van het recht Nederland te verlaten (reisverbod)
+
+- – Vestigingsverbod
+
+- – Verhuisplicht
+
+- – Volgen van een opleiding
+
+- – Meewerken aan hulpverlening door een aanbieder uit het lokale zorgveld (zoals schuldhulpverlenging, maatschappelijk werk etc.)
+
+- – Geen andere huisvesting zonder toestemming
+
+- – Meewerken aan middelencontrole
+
+- – Verbod kansspelen
+
+- – Vermijden contact met minderjarigen
+
+- – Verbod bepaalde werkzaamheden
+
+- – Houdverbod dieren.
 
 Andere voorwaarden kunnen alleen worden geadviseerd indien deze aansluiten bij de doelcriteria van de voorwaardelijke gratie, slechts op advies van de reclassering (wanneer sprake moet zijn van reclasseringstoezicht) of nadat de reclasseringsofficier of bij diens afwezigheid een senior officier van justitie daarmee heeft ingestemd (ongeacht of er sprake moet zijn van reclasseringstoezicht).
 

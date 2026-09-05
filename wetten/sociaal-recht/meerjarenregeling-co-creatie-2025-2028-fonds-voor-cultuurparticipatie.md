@@ -1,129 +1,95 @@
 ---
 title: "Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie"
 identifier: "BWBR0048937"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-23"
-last_updated: "2023-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048937"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16930223"
-version_id: "29754662"
-internal_id: "C42644431"
-label_id: "16842084"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048937/2023-11-23/0"
-intitule_bron: "Stcrt.2023-31925"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-14"
-intitule_published: "2023-11-22"
-intitule_in_force: "2023-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31925"
-original_signed_date: "2023-11-14"
-original_published_date: "2023-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31925"
-entry_into_force_date: "2023-11-23"
-jci_1_3: "jci1.3:c:BWBR0048937&z=2023-11-23&g=2023-11-23"
-jci_1_0: "1.0:c:BWBR0048937&g=2023-11-23"
-citeertitel_status: "officieel"
-signed_date: "2023-11-14"
-entry_into_force: "2023-11-23"
+publicatiedatum: 2023-11-23
+laatste_update: 2023-11-23
+status: geldig
+toestand: 2023-11-23
+bron: "https://wetten.overheid.nl/BWBR0048937"
+opgehaald: 2026-09-05
 ---
+
 # Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045516);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 1 november 2022;
-
-en voor de gewijzigde versie op 27 maart 2023;
-
-besluit:
-
-vast te stellen de: Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie
 
 ### Hoofdstuk 1. - Algemene bepalingen
 
 ##### Artikel 1.1. Gebruikte begrippen
 
-- a. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](onbekend);
+- a. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie;
 
-- b. **Actieve cultuurparticipatie:** (De sector die zich kenmerkt door) het actief beoefenen van of betrokken zijn bij kunst en cultuur in de vrije tijd door cultuureducatie, co-creatie of amateurkunst.
+- b. *Actieve cultuurparticipatie:* (De sector die zich kenmerkt door) het actief beoefenen van of betrokken zijn bij kunst en cultuur in de vrije tijd door cultuureducatie, co-creatie of amateurkunst.
 
-- c. **Activiteit:** Een specifieke handeling of bezigheid die door de aanvrager wordt geïnitieerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
+- c. *Activiteit:* Een specifieke handeling of bezigheid die door de aanvrager wordt geïnitieerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
 
-- d. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021;](onbekend)
+- d. *Algemeen Subsidiereglement:*
+ Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021;
 
-- e. **Amateurkunst:** (De sector die zich kenmerkt door) het maken van kunst door individuen of groepen op een niet-professioneel niveau. Het betreft hier per definitie geen co-creatie.
+- e. *Amateurkunst:* (De sector die zich kenmerkt door) het maken van kunst door individuen of groepen op een niet-professioneel niveau. Het betreft hier per definitie geen co-creatie.
 
-- f. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao, Sint-Maarten en de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- f. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao, Sint-Maarten en de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- g. **Co-creatie:** (De sector die zich kenmerkt door) de methoden en benaderingen waarbij individuen, groepen of gemeenschappen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming of projectuitvoering, met als resultaat de vorming en evolutie van de cultuur van een samenleving, inclusief de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen amateurkunst.
+- g. *Co-creatie:* (De sector die zich kenmerkt door) de methoden en benaderingen waarbij individuen, groepen of gemeenschappen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming of projectuitvoering, met als resultaat de vorming en evolutie van de cultuur van een samenleving, inclusief de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen amateurkunst.
 
-- h. **Concours:** een festival met een wedstrijdelement.
+- h. *Concours:* een festival met een wedstrijdelement.
 
-- i. **Culturele codes:** de Code Diversiteit & Inclusie, de Fair Practice Code en de Governance Code Cultuur;
+- i. *Culturele codes:* de Code Diversiteit & Inclusie, de Fair Practice Code en de Governance Code Cultuur;
 
-- j. **Culturele instelling:** een instelling die zich inzet binnen de kunst en/of cultuur sector en zich alszodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
+- j. *Culturele instelling:* een instelling die zich inzet binnen de kunst en/of cultuur sector en zich alszodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
 
-- k. **Cultuur:** (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten enz. van een volk, gemeenschap of groep die tot stand komen door sociale en artistieke processen.
+- k. *Cultuur:* (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten enz. van een volk, gemeenschap of groep die tot stand komen door sociale en artistieke processen.
 
-- l. **Effect:** zie ‘outcome’.
+- l. *Effect:* zie ‘outcome’.
 
-- m. **Erfgoed:** (De sector die zich kenmerkt door) dat wat onze (voor)ouders overgeleverd hebben, waarmee wij nu leven en wat we (willen) doorgeven voor toekomstige generaties, meestal onderverdeeld in de vijf domeinen van het cultureel erfgoed, namelijk: monumenten, collecties, cultuurlandschap, archeologie en immaterieel erfgoed;
+- m. *Erfgoed:* (De sector die zich kenmerkt door) dat wat onze (voor)ouders overgeleverd hebben, waarmee wij nu leven en wat we (willen) doorgeven voor toekomstige generaties, meestal onderverdeeld in de vijf domeinen van het cultureel erfgoed, namelijk: monumenten, collecties, cultuurlandschap, archeologie en immaterieel erfgoed;
 
-- n. **Erfgoedmanifestatie:** Een festival gericht op erfgoed.
+- n. *Erfgoedmanifestatie:* Een festival gericht op erfgoed.
 
-- o. **Europees Nederland:** Nederland, zonder de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- o. *Europees Nederland:* Nederland, zonder de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- p. **Fonds:** stichting Fonds voor Cultuurparticipatie;
+- p. *Fonds:* stichting Fonds voor Cultuurparticipatie;
 
-- q. **Festival:** Een samenhangend publiekelijk programma (incl. concoursen en manifestaties) dat, gedurende een in de tijd beperkte periode en niet vaker dan één keer per jaar, onder een gemeenschappelijke noemer plaatsvindt. Dit programma heeft als doel de presentatie en uitwisseling van (inter)nationale kunst, cultuur en erfgoed, om zo bij te dragen aan kennisontwikkeling voor de relevante Nederlandse sector.
+- q. *Festival:* Een samenhangend publiekelijk programma (incl. concoursen en manifestaties) dat, gedurende een in de tijd beperkte periode en niet vaker dan één keer per jaar, onder een gemeenschappelijke noemer plaatsvindt. Dit programma heeft als doel de presentatie en uitwisseling van (inter)nationale kunst, cultuur en erfgoed, om zo bij te dragen aan kennisontwikkeling voor de relevante Nederlandse sector.
 
-- r. **Gemeenschap:** Een groep mensen die zich met elkaar verbonden voelen door gedeelde culturele waarden, tradities, interesses of identiteit, bijvoorbeeld etnische groepen, subculturen of regionale groeperingen.
+- r. *Gemeenschap:* Een groep mensen die zich met elkaar verbonden voelen door gedeelde culturele waarden, tradities, interesses of identiteit, bijvoorbeeld etnische groepen, subculturen of regionale groeperingen.
 
-- s. **Gemeenschapsontwikkeling:** de manier waarop een instelling of festival de gemeenschap aan zich verbindt en zeggenschap over het programma deelt met deze gemeenschap;
+- s. *Gemeenschapsontwikkeling:* de manier waarop een instelling of festival de gemeenschap aan zich verbindt en zeggenschap over het programma deelt met deze gemeenschap;
 
-- t. **Instelling:** Rechtspersoonlijkheid zonder winstoogmerk, bijvoorbeeld een stichting of vereniging. Overheden en eenmanszaken zijn hier per definitie uitgesloten.
+- t. *Instelling:* Rechtspersoonlijkheid zonder winstoogmerk, bijvoorbeeld een stichting of vereniging. Overheden en eenmanszaken zijn hier per definitie uitgesloten.
 
-- u. **Instrument:** een materiëel of immateriëel middel, methodiek of systeem dat binnen een project wordt gebruikt om activiteiten en processen herhaaldelijk uit te voeren, zoals bijvoorbeeld een muziekinstrument, het planningsdocument, een digitale platform of hoorversterkers.
+- u. *Instrument:* een materiëel of immateriëel middel, methodiek of systeem dat binnen een project wordt gebruikt om activiteiten en processen herhaaldelijk uit te voeren, zoals bijvoorbeeld een muziekinstrument, het planningsdocument, een digitale platform of hoorversterkers.
 
-- v. **Koninkrijk der Nederlanden:** Nederland, Aruba, Curaçao, Sint-Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- v. *Koninkrijk der Nederlanden:* Nederland, Aruba, Curaçao, Sint-Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- w. **Kunst:** (De sector die zich kenmerkt door) de materiele of immateriele uitingen binnen of rondom geformaliseerde disciplines, elk met zijn eigen geformaliseerde technieken, tradities en kenmerken, zoals erfgoed, film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur, digitale cultuur etc.
+- w. *Kunst:* (De sector die zich kenmerkt door) de materiele of immateriele uitingen binnen of rondom geformaliseerde disciplines, elk met zijn eigen geformaliseerde technieken, tradities en kenmerken, zoals erfgoed, film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur, digitale cultuur etc.
 
-- x. **Meerjarige subsidie:** subsidie van het Fonds die wordt toegekend aan instellingen om te werken aan zijn eigen rol en functie in het stelsel, middels een of meerdere programma's zoals in de aanvraag omschreven en die doelgericht zijn en bijdragen aan het realiseren van de subsidiedoelstellingen van het fonds.
+- x. *Meerjarige subsidie:* subsidie van het Fonds die wordt toegekend aan instellingen om te werken aan zijn eigen rol en functie in het stelsel, middels een of meerdere programma's zoals in de aanvraag omschreven en die doelgericht zijn en bijdragen aan het realiseren van de subsidiedoelstellingen van het fonds.
 
-- y. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- y. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- z. **Nederland:** Europees Nederland en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- z. *Nederland:* Europees Nederland en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- aa. **Outcome:** Het (on)verwachte en (on)zichtbare effect van bepaalde activiteiten, processen of programma’s die zich laat kenmerken door de verandering die is opgetreden. Idealiter is de outcome kwalitatief of kwantatief meetbaar om te kunnen beoordelen of en hoe er wordt bijgedragen aan het behalen van bepaalde doelstellingen van de aanvrager of de subsidieregeling van het fonds.
+- aa. *Outcome:* Het (on)verwachte en (on)zichtbare effect van bepaalde activiteiten, processen of programma’s die zich laat kenmerken door de verandering die is opgetreden. Idealiter is de outcome kwalitatief of kwantatief meetbaar om te kunnen beoordelen of en hoe er wordt bijgedragen aan het behalen van bepaalde doelstellingen van de aanvrager of de subsidieregeling van het fonds.
 
-- bb. **Output:** de kwantitatieve uitkomsten van gerealiseerde activiteiten, processen en/of instrumenten.
+- bb. *Output:* de kwantitatieve uitkomsten van gerealiseerde activiteiten, processen en/of instrumenten.
 
-- cc. **Onderwijs:** (de sector die zich kenmerkt door) de georganiseerde communicatie van niet-incidentele aard met als doel overdracht van kennis, vermeerdering van inzicht en/of aanleren van vaardigheden. Specifiek spreken we over het primair onderwijs, voortgezet onderwijs, middelbaarberoepsonderwijs, hoger onderwijs, speciaal en wetenschappelijk onderwijs.
+- cc. *Onderwijs:* (de sector die zich kenmerkt door) de georganiseerde communicatie van niet-incidentele aard met als doel overdracht van kennis, vermeerdering van inzicht en/of aanleren van vaardigheden. Specifiek spreken we over het primair onderwijs, voortgezet onderwijs, middelbaarberoepsonderwijs, hoger onderwijs, speciaal en wetenschappelijk onderwijs.
 
-- dd. **Proces:** het bedenken, onderzoeken, experimenteren, herzien en verfijnen van activiteiten en instrumenten, waarbij een voortdurende dialoog tussen ideeën en realisatie ontstaat om een specifieke outcome te bereiken.
+- dd. *Proces:* het bedenken, onderzoeken, experimenteren, herzien en verfijnen van activiteiten en instrumenten, waarbij een voortdurende dialoog tussen ideeën en realisatie ontstaat om een specifieke outcome te bereiken.
 
-- ee. **Professional:** een individu die (1) ten minste een part-time aanstelling een organisatie heeft, (2) vakbekwaam is geacht door af te studeren aan een erkende opleiding, (3) als zelfstandige ten minste drie jaar als ondernemer inschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie of (4) financiering ontvangen van op professionals gerichte instanties zoals Rijkscultuurfondsen.
+- ee. *Professional:* een individu die (1) ten minste een part-time aanstelling een organisatie heeft, (2) vakbekwaam is geacht door af te studeren aan een erkende opleiding, (3) als zelfstandige ten minste drie jaar als ondernemer inschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie of (4) financiering ontvangen van op professionals gerichte instanties zoals Rijkscultuurfondsen.
 
-- ff. **Regeling:** Een subsidieregeling van het fonds, zoals gepubliceerd in de Staatscourant en op de eigen website, waarbinnen aanvragen gehonoreerd kunnen worden met een subsidie.
+- ff. *Regeling:* Een subsidieregeling van het fonds, zoals gepubliceerd in de Staatscourant en op de eigen website, waarbinnen aanvragen gehonoreerd kunnen worden met een subsidie.
 
-- gg. **Sector:** Een deel van de maatschappij waarin vergelijkbare of verwante processen worden ondernomen door een scala aan actoren, zoals instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuen. Deze processen kunnen variëren van productie en distributie tot dienstverlening en beleidsvorming.
+- gg. *Sector:* Een deel van de maatschappij waarin vergelijkbare of verwante processen worden ondernomen door een scala aan actoren, zoals instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuen. Deze processen kunnen variëren van productie en distributie tot dienstverlening en beleidsvorming.
 
-- hh. **Sociaal domein:** (De sector, ookwel 'gezondheidszorg en -welzijnssector', die zich kenmerkt door) de processen die gericht zijn op het bevorderen, handhaven en verbeteren van het welzijn van individuen, groepen en gemeenschappen. Dit omvat de ondersteuning van fysieke, geestelijke en socio-economische ontwikkelbehoeften en hun toegang tot deelname aan kunst en cultuur, bijvoorbeeld door jeugdwerk, preventie, behandeling, uitwisseling en helingsprocessen.
+- hh. *Sociaal domein:* (De sector, ookwel 'gezondheidszorg en -welzijnssector', die zich kenmerkt door) de processen die gericht zijn op het bevorderen, handhaven en verbeteren van het welzijn van individuen, groepen en gemeenschappen. Dit omvat de ondersteuning van fysieke, geestelijke en socio-economische ontwikkelbehoeften en hun toegang tot deelname aan kunst en cultuur, bijvoorbeeld door jeugdwerk, preventie, behandeling, uitwisseling en helingsprocessen.
 
-- ii. **Subsidie:** Een financiële bijdrage of toekenning van middelen door het fonds aan een aanvrager op basis van een gehonoreerde aanvraag.
+- ii. *Subsidie:* Een financiële bijdrage of toekenning van middelen door het fonds aan een aanvrager op basis van een gehonoreerde aanvraag.
 
-- jj. **Website van het Fonds:** [www.cultuurparticipatie.nl](onbekend)
+- jj. *Website van het Fonds:*
+ www.cultuurparticipatie.nl
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -135,7 +101,7 @@ Subsidie in het kader van deze regeling wordt verstrekt voor de kalenderjaren 20
 
 ##### Artikel 1.4. Subsidieplafond
 
-Het subsidieplafond staat in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=4&z=2023-11-23&g=2023-11-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=5&z=2023-11-23&g=2023-11-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=6&z=2023-11-23&g=2023-11-23) vermeld. Het Fonds kan besluiten het subsidieplafond te wijzigen, onder andere met betrekking tot de hoogte, tijdvakken, thema’s, doelgroepen en regio’s. Wijzigingen van het subsidieplafond worden gepubliceerd op [de website van het Fonds](onbekend).
+Het subsidieplafond staat in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=4&z=2023-11-23&g=2023-11-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=5&z=2023-11-23&g=2023-11-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=6&z=2023-11-23&g=2023-11-23) vermeld. Het Fonds kan besluiten het subsidieplafond te wijzigen, onder andere met betrekking tot de hoogte, tijdvakken, thema’s, doelgroepen en regio’s. Wijzigingen van het subsidieplafond worden gepubliceerd op de website van het Fonds.
 
 ##### Artikel 1.5. Aantal aanvragen
 
@@ -157,33 +123,33 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 - 1. Voor de Governance Code Cultuur geldt dat de aanvrager aantoont:
 
-- a. hoe de principes uit de code worden toegepast;
+   - a. hoe de principes uit de code worden toegepast;
 
-- b. hoe de bij de code behorende aanbevelingen worden opgevolgd;
+   - b. hoe de bij de code behorende aanbevelingen worden opgevolgd;
 
-- c. dat er sprake is van een scheiding tussen toezicht, bestuur en uitvoering, in die zin dat:
+   - c. dat er sprake is van een scheiding tussen toezicht, bestuur en uitvoering, in die zin dat:
 
-- i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
+      - i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
 
-- ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
+      - ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
 
-- d. dat de leden van de raad van toezicht, of de toezichthoudende bestuurders geen onderdeel uitmaken van de begroting, behalve daar waar het gaat om de reguliere bezoldiging van deze toezichthouders.
+   - d. dat de leden van de raad van toezicht, of de toezichthoudende bestuurders geen onderdeel uitmaken van de begroting, behalve daar waar het gaat om de reguliere bezoldiging van deze toezichthouders.
 
-- e. te reflecteren op de rol van toezichthouder ten aanzien van sociale veiligheid in de organisatie.
+   - e. te reflecteren op de rol van toezichthouder ten aanzien van sociale veiligheid in de organisatie.
 
 - 2. Voor de Fair Practice Code geldt dat de aanvrager aantoont:
 
-- a. hoe de principes uit de code worden toegepast en wat de ambities zijn. De aanvrager reflecteert hierop in de jaarlijkse verantwoording;
+   - a. hoe de principes uit de code worden toegepast en wat de ambities zijn. De aanvrager reflecteert hierop in de jaarlijkse verantwoording;
 
-- b. dat de honorering **fair pay** is. Dit kan door aan te tonen dat aangesloten wordt bij de bestaande collectieve afspraken over honorering, zoals de meest voor de hand liggende CAO en/of de sociale dialoog tussen werkgevers of opdrachtgevers en werknemers of opdrachtnemers;
+   - b. dat de honorering *fair pay* is. Dit kan door aan te tonen dat aangesloten wordt bij de bestaande collectieve afspraken over honorering, zoals de meest voor de hand liggende CAO en/of de sociale dialoog tussen werkgevers of opdrachtgevers en werknemers of opdrachtnemers;
 
-- c. te reflecteren op de rol die de organisatie inneemt in het werken aan **fair chain:** hoe kan de organisatie voorbeeldstellend zijn in je eigen omgeving?
+   - c. te reflecteren op de rol die de organisatie inneemt in het werken aan *fair chain:* hoe kan de organisatie voorbeeldstellend zijn in je eigen omgeving?
 
 - 3. Voor de Code Diversiteit & Inclusie geldt dat de aanvrager aantoont:
 
-- a. hoe de principes uit de code worden toegepast;
+   - a. hoe de principes uit de code worden toegepast;
 
-- b. dat in voortgangsgesprekken de voortgang en monitoring wordt toegelicht.
+   - b. dat in voortgangsgesprekken de voortgang en monitoring wordt toegelicht.
 
 ##### Artikel 2.2. Weigeringsgronden
 
@@ -219,17 +185,17 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 ##### Artikel 3.1. De aanvraagprocedure
 
-1. Aanvragen wordt ingediend via het digitale systeem Mijn Fonds, dat bereikbaar is via [de](onbekend)website van het Fonds.
+1. Aanvragen wordt ingediend via het digitale systeem Mijn Fonds, dat bereikbaar is via dewebsite van het Fonds.
 
 2. Een aanvraag bestaat in ieder geval uit de volgende documenten:
 
-- •. Het digitale aanvraagformulier;
+- • Het digitale aanvraagformulier;
 
-- •. Een inhoudelijk plan voor de jaren 2025 – 2028;
+- • Een inhoudelijk plan voor de jaren 2025 – 2028;
 
-- •. Begroting 2025 – 2028;
+- • Begroting 2025 – 2028;
 
-- •. Bijlagen specifiek per onderdeel.
+- • Bijlagen specifiek per onderdeel.
 
 3. Een onvolledige aanvraag wordt niet in behandeling genomen totdat de aanvraag volledig is. Het moment dat de aanvraag volledig is, wordt beschouwd als het moment waarop de aanvraag is ingediend.
 
@@ -237,7 +203,7 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 ##### Artikel 3.2. Indiening aanvraag
 
-1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 31 januari 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen.
+1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 31 januari 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen.
 
 2. Het Fonds beslist gelijktijdig over alle aanvragen. Dit doet het Fonds op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van deze regeling. De beoordeling van die geschiktheid wordt door de adviescommissie uitgevoerd, zoals bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=3&artikel=3.3&z=2023-11-23&g=2023-11-23).
 
@@ -275,15 +241,15 @@ De aanvrager is verplicht om de Governance Code Cultuur, de Fair Practice Code e
 
 ##### Artikel 3.5. Besluit
 
-Het Fonds informeert de aanvrager schriftelijk over het besluit op de aanvraag. Het Fonds doet dat binnen 22 weken na de uiterlijke indiendatum van woensdag 31 januari 2024. Voor de motivering van het besluit wordt in beginsel verwezen naar het advies, dat door de in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=3&artikel=3.3&z=2023-11-23&g=2023-11-23) bedoelde adviescommissie is uitgebracht. Het besluit wordt samen met het advies aan de aanvrager toegezonden.
+Het Fonds informeert de aanvrager schriftelijk over het besluit op de aanvraag. Het Fonds doet dat binnen 22 weken na de uiterlijke indiendatum van woensdag 31 januari 2024. Voor de motivering van het besluit wordt in beginsel verwezen naar het advies, dat door de in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048937&hoofdstuk=3&artikel=3.3&z=2023-11-23&g=2023-11-23) bedoelde adviescommissie is uitgebracht. Het besluit wordt samen met het advies aan de aanvrager toegezonden.
 
 ##### Artikel 3.6. Verantwoording
 
-1. De subsidieontvanger stuurt jaarlijks voor 1 mei een verantwoording in over het vorige kalenderjaar.
+1. De subsidieontvanger stuurt jaarlijks voor 1 mei een verantwoording in over het vorige kalenderjaar.
 
 2. De verantwoording omvat een inhoudelijk en een financieel deel. De inhoudelijke verantwoording bestaat uit een verslag over bereikte outcome, de processen om daar te komen en de activiteiten die daaraan bijgedragen hebben. Hiermee wordt aangetoond of, hoe en in hoeverre de gesubsidieerde plannen gerealiseerd worden.
 
-3. De financiële verantwoording sluit aan op de ingediende begroting. Indien de subsidie gelijk is aan of hoger is dan € 125.000 per jaar, wordt de financiële verantwoording voorzien van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
+3. De financiële verantwoording sluit aan op de ingediende begroting. Indien de subsidie gelijk is aan of hoger is dan € 125.000 per jaar, wordt de financiële verantwoording voorzien van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
 
 4. Het Fonds stelt nadere voorwaarden aan de inrichting van de verantwoording. Die nadere voorwaarden zijn terug te vinden in het Handboek Verantwoording Co-Creatie 25-28.
 
@@ -319,11 +285,11 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 ##### Artikel 4.3. Subsidieplafond
 
-Het subsidieplafond voor dit hoofdstuk bedraagt € 1.700.000.
+Het subsidieplafond voor dit hoofdstuk bedraagt € 1.700.000.
 
 ##### Artikel 4.4. Hoogte van de aanvraag
 
-Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
+Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
 ##### Artikel 4.5. Voorwaarden en drempelnorm
 
@@ -361,11 +327,11 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 ##### Artikel 5.3. Subsidieplafond
 
-Het subsidieplafond voor dit hoofdstuk is € 2.892.000. Daarvan is € 1.600.000 bestemd voor erfgoedmanifestaties.
+Het subsidieplafond voor dit hoofdstuk is € 2.892.000. Daarvan is € 1.600.000 bestemd voor erfgoedmanifestaties.
 
 ##### Artikel 5.4. Hoogte van de aanvraag
 
-Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
+Per aanvraag bedraagt de subsidie minimaal € 200.000 en maximaal € 500.000.
 
 ##### Artikel 5.5. Voorwaarden en drempelnorm
 
@@ -417,17 +383,17 @@ Subsidie op basis van dit hoofdstuk kan alleen worden aangevraagd door een in he
 
 ##### Artikel 6.3. Subsidieplafond
 
-Het subsidieplafond voor dit hoofdstuk bedraagt € 6.000.000.
+Het subsidieplafond voor dit hoofdstuk bedraagt € 6.000.000.
 
 ##### Artikel 6.4. Hoogte van de subsidie
 
-Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000.
+Per aanvraag bedraagt de subsidie minimaal € 250.000 en maximaal € 1.000.000.
 
 ##### Artikel 6.5. Voorwaarden en drempelnorm
 
 1. Een aanvrager moet in beginsel al eerder subsidie ontvangen hebben onder de [deelregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0046394)
 
-2. [Samen Cultuurmaken](onbekend).
+2. Samen Cultuurmaken.
 
 3. Een aanvrager levert een inhoudelijke reflectie aan op de samenwerking, zoals die plaatsgevonden heeft onder de [deelregeling Samen Cultuurmaken](https://wetten.overheid.nl/jci1.3:c:BWBR0046394).
 
@@ -481,7 +447,7 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 Het Fonds kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheden van overwegende aard.
 
-##### Artikel 8.3. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
+##### Artikel 8.3. Algemeen Subsidiereglement
 
 De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516) zijn van toepassing, tenzij in deze regeling anders is bepaald.
 
@@ -489,7 +455,7 @@ De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
+2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
 ##### Artikel 8.5. Citeertitel
 

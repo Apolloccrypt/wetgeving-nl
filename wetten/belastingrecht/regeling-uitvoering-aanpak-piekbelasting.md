@@ -1,38 +1,38 @@
 ---
-title: "Regeling uitvoering aanpak piekbelasting"
+title: "Regeling van de Minister voor Natuur en Stikstof van 23 november 2023, nr. WJZ/ 33440152, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de aanpak piekbelasting (Regeling uitvoering aanpak piekbelasting)"
+citeertitel: "Regeling uitvoering aanpak piekbelasting"
 identifier: "BWBR0048957"
 categorie: "Belastingrecht"
-publicatiedatum: 2026-07-11
-laatste_update: 2026-07-14
+soort: "ministeriele-regeling"
+publicatiedatum: 2023-11-28
+laatste_update: 2026-07-11
 status: geldig
+toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0048957"
+opgehaald: 2026-09-05
 ---
 
 # Regeling van de Minister voor Natuur en Stikstof van 23 november 2023, nr. WJZ/ 33440152, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de aanpak piekbelasting (Regeling uitvoering aanpak piekbelasting)
-
-Gelet op [artikelen 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **aanpak piekbelasting:** aanpak om veehouderijen met piekbelasting op nabijgelegen overbelaste Natura 2000-gebieden te ondersteunen bij het versneld reduceren van de huidige stikstofuitstoot, zoals beschreven in de brief van 12 juni 2023 (Kamerstukken II 2022/23, 30 252, nr. 96);
+- – *aanpak piekbelasting:* aanpak om veehouderijen met piekbelasting op nabijgelegen overbelaste Natura 2000-gebieden te ondersteunen bij het versneld reduceren van de huidige stikstofuitstoot, zoals beschreven in de brief van 12 juni 2023 (Kamerstukken II 2022/23, 30 252, nr. 96);
 
-- –. **capaciteit:** inzet van ambtelijk personeel of externe inhuur van personeel;
+- – *capaciteit:* inzet van ambtelijk personeel of externe inhuur van personeel;
 
-- –. **minister:** Minister voor Natuur en Stikstof;
+- – *minister:* Minister voor Natuur en Stikstof;
 
-- –. **Nationaal Programma Landelijk Gebied:** programma waarin gebiedsgerichte opgaven en maatregelen voor natuur, stikstof, water en klimaat zijn opgenomen, zoals beschreven in de startnotitie van 10 juni 2022 (bijlage bij Kamerstukken II 2021/22, 34 682, nr. 96);
+- – *Nationaal Programma Landelijk Gebied:* programma waarin gebiedsgerichte opgaven en maatregelen voor natuur, stikstof, water en klimaat zijn opgenomen, zoals beschreven in de startnotitie van 10 juni 2022 (bijlage bij Kamerstukken II 2021/22, 34 682, nr. 96);
 
-- –. **regionaal uitvoeringsteam:** team van ambtenaren van het Rijk, provincie of gemeenten dat uitvoering geeft aan de aanpak piekbelasting in een specifiek gebied of provincie en is gericht op ondersteuning en begeleiding van veehouders die een veehouderij met piekbelasting drijven;
+- – *regionaal uitvoeringsteam:* team van ambtenaren van het Rijk, provincie of gemeenten dat uitvoering geeft aan de aanpak piekbelasting in een specifiek gebied of provincie en is gericht op ondersteuning en begeleiding van veehouders die een veehouderij met piekbelasting drijven;
 
-- –. **samenwerkingsovereenkomst:** overeenkomst tussen de minister en provincie waarin afspraken zijn vastgelegd over de gezamenlijke uitvoering van de aanpak piekbelasting in de betreffende provincie;
+- – *samenwerkingsovereenkomst:* overeenkomst tussen de minister en provincie waarin afspraken zijn vastgelegd over de gezamenlijke uitvoering van de aanpak piekbelasting in de betreffende provincie;
 
-- –. **veehouderij met piekbelasting:** veehouderij met een veehouderijlocatie die een stikstofvracht veroorzaakt, die ten minste 2.500 mol stikstof per jaar bedraagt;
+- – *veehouderij met piekbelasting:* veehouderij met een veehouderijlocatie die een stikstofvracht veroorzaakt, die ten minste 2.500 mol stikstof per jaar bedraagt;
 
-- –. **werkafspraken:** afspraken van het Rijk met de provincie over de uitvoering van de aanpak piekbelasting door het Rijk in de betreffende provincie.
+- – *werkafspraken:* afspraken van het Rijk met de provincie over de uitvoering van de aanpak piekbelasting door het Rijk in de betreffende provincie.
 
 ##### Artikel 2. specifieke uitkering
 
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 3. Per provincie wordt één specifieke uitkering verstrekt.
 
-4. De specifieke uitkering wordt verstrekt voor kosten gemaakt in de periode 1 maart 2023 tot en met 31 december 2027.
+4. De specifieke uitkering wordt verstrekt voor kosten gemaakt in de periode 1 maart 2023 tot en met 31 december 2027.
 
 5. De specifieke uitkering wordt niet verstrekt voor kosten:
 
@@ -60,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. hoogte van de uitkering
 
-1. De specifieke uitkering bedraagt per provincie ten hoogste het bedrag, genoemd in de bijlage bij deze regeling.
+1. De specifieke uitkering bedraagt per provincie ten hoogste het bedrag, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0048957) bij deze regeling.
 
 2. De betaling wordt verminderd met de hoogte van de btw waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
@@ -92,7 +92,7 @@ De minister verleent de specifieke uitkering binnen acht weken na ontvangst van 
 
 ##### Artikel 8. verlenging periode
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. verantwoording en vaststelling
 
@@ -109,25 +109,3 @@ Vervallen
 ##### Artikel 11. citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitvoering aanpak piekbelasting.
-
-## Bijlage. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048957&artikel=3&z=2026-07-11&g=2026-07-11): maximale rijksbijdrage
-
-| **Provincie** | **maximale rijksbijdrage** |
-| --- | --- |
-| Drenthe | € 1.588.000 |
-| Fryslân | € 800.000 |
-| Gelderland | € 20.962.000 |
-| Noord-Brabant | € 7.792.000 |
-| Utrecht (voor Veenendaal, Renswoude, Rhenen en Woudenberg) | € 2.587.000 |
-
-| **Provincie** | **maximale rijksbijdrage** |
-| --- | --- |
-| Flevoland | € 809.000 |
-| Limburg | € 1.200.000 |
-| Noord-Holland | € 576.000 |
-| Overijssel | € 601.000 |
-| Utrecht (behoudens Veenendaal, Renswoude, Rhenen en Woudenberg) | € 251.000 |
-| Zeeland | € 495.000 |
-| Zuid-Holland | € 386.000 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

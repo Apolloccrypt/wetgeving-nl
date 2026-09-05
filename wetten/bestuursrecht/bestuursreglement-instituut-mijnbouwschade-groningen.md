@@ -1,78 +1,51 @@
 ---
 title: "Besluit van het Instituut Mijnbouwschade Groningen tot vaststelling van een bestuursreglement"
+citeertitel: "Bestuursreglement Instituut Mijnbouwschade Groningen"
 identifier: "BWBR0049273"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-19"
-last_updated: "2024-01-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049273"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17010243"
-version_id: "29920552"
-internal_id: "C42886831"
-label_id: "16920204"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049273/2024-01-19/0"
-intitule_bron: "Stcrt.2024-759"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-21"
-intitule_published: "2024-01-18"
-intitule_in_force: "2024-01-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-759"
-original_signed_date: "2023-12-21"
-original_published_date: "2024-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-759"
-entry_into_force_date: "2024-01-19"
-jci_1_3: "jci1.3:c:BWBR0049273&z=2024-01-19&g=2024-01-19"
-jci_1_0: "1.0:c:BWBR0049273&g=2024-01-19"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement Instituut Mijnbouwschade Groningen"
-signed_date: "2023-12-21"
-entry_into_force: "2024-01-19"
+publicatiedatum: 2024-01-19
+laatste_update: 2024-01-19
+status: geldig
+toestand: 2024-01-19
+bron: "https://wetten.overheid.nl/BWBR0049273"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van het Instituut Mijnbouwschade Groningen tot vaststelling van een bestuursreglement
-
-Gezien de goedkeuring van de Staatssecretaris van Economische Zaken en Klimaat van 21 december 2023;
-
-Gelet op [artikel 8, eerste lid, van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=8);
-
-Besluit tot vaststelling van het volgende bestuursreglement:
 
 ##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
-- a. **bestuur:** de leden van het Instituut tezamen als bedoeld in [artikel 4, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=4);
+- a. *bestuur:* de leden van het Instituut tezamen als bedoeld in [artikel 4, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=4);
 
-- b. **bestuursreglement:** bestuursreglement van het Instituut als bedoeld in [artikel 8, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=8);
+- b. *bestuursreglement:* bestuursreglement van het Instituut als bedoeld in [artikel 8, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=8);
 
-- c. **Bureau:** het Bureau van het Instituut als bedoeld in [artikel 5 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=5);
+- c. *Bureau:* het Bureau van het Instituut als bedoeld in [artikel 5 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=5);
 
-- d. **commissie:** een commissie die is ingesteld door het Instituut als bedoeld in [artikel 6, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=6);
+- d. *commissie:* een commissie die is ingesteld door het Instituut als bedoeld in [artikel 6, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=6);
 
-- e. **deskundige:** een deskundige als bedoeld in [artikel 12 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=12);
+- e. *deskundige:* een deskundige als bedoeld in [artikel 12 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=12);
 
-- f. **directie:** de directie van het Bureau van het Instituut;
+- f. *directie:* de directie van het Bureau van het Instituut;
 
-- g. **Instituut:** het Instituut Mijnbouwschade Groningen;
+- g. *Instituut:* het Instituut Mijnbouwschade Groningen;
 
-- h. **lid of leden:** lid of leden van het bestuur van het Instituut;
+- h. *lid of leden:* lid of leden van het bestuur van het Instituut;
 
-- i. **minister:** de Minister van Economische Zaken en Klimaat;
+- i. *minister:* de Minister van Economische Zaken en Klimaat;
 
-- j. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van het bestuur van het Instituut;
+- j. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van het bestuur van het Instituut;
 
-- k. **schade:** schade als bedoeld in [artikel 1 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=1);
+- k. *schade:* schade als bedoeld in [artikel 1 van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=1);
 
-- l. **schriftelijk:** op papier, via e-mail of via enig ander gangbaar communicatiemiddel waarmee het mogelijk is tekst over te brengen;
+- l. *schriftelijk:* op papier, via e-mail of via enig ander gangbaar communicatiemiddel waarmee het mogelijk is tekst over te brengen;
 
-- m. **voorzitter:** de voorzitter van het bestuur van het Instituut;
+- m. *voorzitter:* de voorzitter van het bestuur van het Instituut;
 
-- n. **Wet:** [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252).
+- n. *Wet:*
+ [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252).
 
 ##### Artikel 2. De wijze van inrichting van het Instituut
 
@@ -160,7 +133,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 1. Het Instituut draagt zorg voor het opstellen van een ontwerpbegroting met meerjarenraming.
 
-2. De ontwerpbegroting wordt jaarlijks, voor het daaropvolgende jaar, voor 1 april door het Instituut aan de minister gezonden.
+2. De ontwerpbegroting wordt jaarlijks, voor het daaropvolgende jaar, voor 1 april door het Instituut aan de minister gezonden.
 
 3. Het Instituut draagt er zorg voor dat hij zich bij zijn bedrijfsvoering zo veel mogelijk richt op datgene wat gebruikelijk is bij een prudente rijksoverheid, onverlet de eigen verantwoordelijkheid van het Instituut.
 

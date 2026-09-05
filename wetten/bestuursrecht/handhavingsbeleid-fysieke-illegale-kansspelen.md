@@ -1,43 +1,21 @@
 ---
 title: "Handhavingsbeleid fysieke illegale kansspelen"
 identifier: "BWBR0049000"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-12-01"
-last_updated: "2023-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049000"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16946443"
-version_id: "29787252"
-internal_id: "C42691891"
-label_id: "16856974"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049000/2023-12-01/0"
-intitule_bron: "Stcrt.2023-33482"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-01"
-intitule_published: "2023-12-07"
-intitule_in_force: "2023-12-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-33482"
-original_signed_date: "2023-12-01"
-original_published_date: "2023-12-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-33482"
-entry_into_force_date: "2023-12-01"
-jci_1_3: "jci1.3:c:BWBR0049000&z=2023-12-01&g=2023-12-01"
-jci_1_0: "1.0:c:BWBR0049000&g=2023-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "2023-12-01"
-entry_into_force: "2023-12-01"
+publicatiedatum: 2023-12-01
+laatste_update: 2023-12-01
+status: geldig
+toestand: 2023-12-01
+bron: "https://wetten.overheid.nl/BWBR0049000"
+opgehaald: 2026-09-05
 ---
+
 # Handhavingsbeleid fysieke illegale kansspelen
 
 ### 1. Inleiding
 
-De Kansspelautoriteit (hierna: Ksa) heeft op grond van [artikel 33b van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33b) (hierna: Wok) onder andere de taak om verboden kansspelaanbod (kansspelaanbod zonder vergunning) te bestrijden. In het fysieke domein varieert het daarbij van het exploiteren van speelautomaten, bingo’s of loterijen zonder vergunning, het zonder vergunning organiseren van poker tot de door de georganiseerde criminaliteit aangeboden sportweddenschappen via laptops en andere mobiele devices (ook wel bekend als gokzuilen).
+De Kansspelautoriteit (hierna: Ksa) heeft op grond van [artikel 33b van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33b) (hierna: Wok) onder andere de taak om verboden kansspelaanbod (kansspelaanbod zonder vergunning) te bestrijden. In het fysieke domein varieert het daarbij van het exploiteren van speelautomaten, bingo’s of loterijen zonder vergunning, het zonder vergunning organiseren van poker tot de door de georganiseerde criminaliteit aangeboden sportweddenschappen via laptops en andere mobiele devices (ook wel bekend als gokzuilen).
 
 Omdat de Ksa in de bestrijding van het fysieke illegale aanbod verantwoordelijk is naast andere partijen (gemeenten en politie), doet zij dit door integraal samen te werken met onder andere de Regionale Informatie- en Expertise Centra (hierna: RIEC’s), ondersteuning te leveren aan partners van de RIEC’s zoals politie en gemeenten en in bepaalde situaties zelfstandig onderzoek te doen en handhavend op te treden.
 
@@ -49,7 +27,7 @@ Omdat de Ksa meer zichtbaar wil zijn in het fysieke illegale domein en een actie
 
 De Ksa werkt sinds enige tijd in samenwerkingsverband met de RIEC’s. In het kader van het vergroten van de zichtbaarheid van de Ksa in het fysieke domein en om landelijk, regionaal en lokaal meer bekendheid te krijgen is de Ksa voortdurend bezig om deze samenwerking te optimaliseren. Zo gaat de Ksa regelmatig in gesprek met de diverse RIEC’s en wordt intensief contact onderhouden in elke regio waar een RIEC-netwerk zit. Op die manier blijft de Ksa op de hoogte over wat er landelijk speelt op het gebied van fysiek illegale kansspelen.
 
-De RIEC’s richten zich op de bestrijding van ondermijnende criminaliteit. Ze verbinden informatie, expertise en krachten van de verschillende overheidsinstanties. Het bieden van kennis en expertise en een data- en risicogestuurde aanpak van ondermijning zijn daarin belangrijke onderdelen.1Bron: [www.riec.nl](onbekend)
+De RIEC’s richten zich op de bestrijding van ondermijnende criminaliteit. Ze verbinden informatie, expertise en krachten van de verschillende overheidsinstanties. Het bieden van kennis en expertise en een data- en risicogestuurde aanpak van ondermijning zijn daarin belangrijke onderdelen.1Bron: www.riec.nl
 
 De structuur en werkwijze van RIEC’s en haar partners verschillen van elkaar en per regio verschilt de beschikbare soort informatie. Per regio wordt door de Ksa en het RIEC-netwerk gezamenlijk bepaald wat de beste manier van samenwerken is.
 
@@ -65,7 +43,7 @@ De Ksa krijgt regelmatig ondersteuningsverzoeken van haar partners, zoals politi
 
 De Ksa kan gezien de beperkte capaciteit niet ingaan op alle ondersteuningsverzoeken om fysiek aanwezig te zijn bij handhavingsacties. De meeste ondersteuning vindt daarom zoals hierboven omschreven op afstand plaats. Bij een ondersteuningsverzoek treedt de Ksa in gesprek met de partner en verwijst de verzoekende partner in eerste instantie naar een van de RIEC’s of ondermijningstafels ter beoordeling of een integrale aanpak niet meer voor de hand ligt. In gevallen van een integrale aanpak van ondermijning en in het kader van een goede samenwerking met de RIEC’s, sluit de Ksa fysiek aan bij integrale casussen die via de RIEC’s lopen.
 
-Afhankelijk van onder andere de omvang en ernst van de betreffende casus sluit de Ksa op verzoek ook aan bij handhavingsacties die via individuele partners lopen en zich niet lenen voor een integrale aanpak. De Ksa kiest ervoor om ook fysieke ondersteuning te bieden bij dergelijke verzoeken in verband met de noodzaak om bij te dragen aan de bestrijding van illegale fysieke kansspelen. Daarnaast is dit enerzijds goed voor haar zichtbaarheid en versterking van haar informatiepositie en anderzijds voor het behouden van de deskundigheid en ervaring. Per ondersteuningsverzoek beoordeelt de Ksa op grond van de criteria die in 4.2staan of zij fysieke ondersteuning levert bij een handhavingsactie van een partner.
+Afhankelijk van onder andere de omvang en ernst van de betreffende casus sluit de Ksa op verzoek ook aan bij handhavingsacties die via individuele partners lopen en zich niet lenen voor een integrale aanpak. De Ksa kiest ervoor om ook fysieke ondersteuning te bieden bij dergelijke verzoeken in verband met de noodzaak om bij te dragen aan de bestrijding van illegale fysieke kansspelen. Daarnaast is dit enerzijds goed voor haar zichtbaarheid en versterking van haar informatiepositie en anderzijds voor het behouden van de deskundigheid en ervaring. Per ondersteuningsverzoek beoordeelt de Ksa op grond van de criteria die in [4.2](https://wetten.overheid.nl/BWBR0049000)staan of zij fysieke ondersteuning levert bij een handhavingsactie van een partner.
 
 ### 4. Zelfstandig onderzoek en optreden
 
@@ -73,7 +51,7 @@ Het aanbod van fysiek illegale kansspelen is te lokaal en/of te groot voor de Ks
 
 ### 4.1. Exploiteren van speelautomaten zonder vergunning
 
-De Ksa houdt toezicht op en handhaaft op het vergunningenstelsel van exploitatie van speelautomaten ([artikel 30h van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h)).
+De Ksa houdt toezicht op en handhaaft op het vergunningenstelsel van exploitatie van speelautomaten ([artikel 30h van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h)).
 
 Een onderzoek naar illegaal exploiteren vindt plaats op basis van externe of interne signalen van illegaal exploiteren, bijvoorbeeld wanneer een exploitatievergunning is vervallen, verlopen, ingetrokken of geweigerd. De Ksa doet in beginsel onderzoek in het geval dat een hoog risico bestaat op illegaal exploiteren na een intrekking of weigering op basis van een integriteitsbeoordeling, naar aanleiding van intern onderzoek dan wel naar aanleiding van een intrekking op eigen verzoek/van rechtswege. In geval van overtredingen treedt de Ksa handhavend op tegen de illegale exploitatie ten einde deze te doen staken.
 
@@ -87,14 +65,24 @@ De criteria die de Ksa meeweegt bij de beoordeling of een casus zich kwalificeer
 
 Voor het instellen van zelfstandig onderzoek is in beginsel naast bovenstaande criteria in ieder geval sprake van één of meer van onderstaande omstandigheden.
 
+- • Er zijn minderjarigen en/of jongvolwassen betrokken;
+
+- • Er is sprake van een hoog verslavingsgevoelig kansspel (kansspelautomaten, casinospelen en krasloten)3Zie bijvoorbeeld het onderzoek ‘Assessment verslavingsgevoeligheid Nederlandse kansspelaanbod’ dat het Centrum voor Verslavingsonderzoek heeft gedaan voor de Ksa.;
+
+- • Er is sprake van recidive4Hieronder wordt verstaan een eerdere constatering van illegaal aanbod.;
+
+- • Er is sprake van één eigenaar en de overtredingen vinden op meerdere locaties plaats;
+
+- • Er zijn bij de Ksa meerdere signalen/meldingen binnengekomen over de casus.
+
 Nogmaals wordt benadrukt dat de Ksa te allen tijde kan besluiten een zelfstandig handhavingsonderzoek te starten, dus ook indien sprake is van andere omstandigheden dan hierboven vermeld.
 
 ### 5. Sanctionerende maatregelen
 
-De Ksa heeft in het fysieke domein meerdere mogelijkheden om sanctionerend op te treden bij overtredingen van de [Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469). De Ksa heeft onder andere de bevoegdheid om illegale speelautomaten in beslag te nemen ([artikel 34i van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34i)) en/of een last onder bestuursdwang ([artikel 35 van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35)) of een last onder dwangsom (artikel 35 van de Wok) op te leggen. Daarnaast kan de Ksa ervoor kiezen om naast of in plaats van deze maatregelen een bestraffende maatregel op te leggen in de vorm van een bestuurlijke boete ([artikel 35a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35a)). Afhankelijk van de omstandigheden van het geval, weegt de Ksa per casus af welk handhavingsinstrument wordt ingezet om het nagestreefde doel in dat onderzoek te bereiken. Van belang is dat de maatregel in ieder geval effectief is en de overtreding (blijvend) wordt gestaakt.
+De Ksa heeft in het fysieke domein meerdere mogelijkheden om sanctionerend op te treden bij overtredingen van de [Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469). De Ksa heeft onder andere de bevoegdheid om illegale speelautomaten in beslag te nemen ([artikel 34i van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=34i)) en/of een last onder bestuursdwang ([artikel 35 van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35)) of een last onder dwangsom (artikel 35 van de Wok) op te leggen. Daarnaast kan de Ksa ervoor kiezen om naast of in plaats van deze maatregelen een bestraffende maatregel op te leggen in de vorm van een bestuurlijke boete ([artikel 35a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35a)). Afhankelijk van de omstandigheden van het geval, weegt de Ksa per casus af welk handhavingsinstrument wordt ingezet om het nagestreefde doel in dat onderzoek te bereiken. Van belang is dat de maatregel in ieder geval effectief is en de overtreding (blijvend) wordt gestaakt.
 
 De Ksa kan in het fysieke domein een maatregel opleggen bij een fysieke ondersteuning5Indien een samenwerkingspartner eveneens een maatregel oplegt, treedt de Ksa eerst in overleg om de op te leggen maatregel af te stemmen., bij onderzoek naar illegaal exploiteren en bij het doen van een zelfstandig onderzoek.
 
 ### 6. Inwerkingtreding
 
-Dit Handhavingsbeleid treedt in werking per 1 december 2023.
+Dit Handhavingsbeleid treedt in werking per 1 december 2023.

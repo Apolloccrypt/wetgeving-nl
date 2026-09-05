@@ -1,44 +1,18 @@
 ---
 title: "Regeling van het College voor Toetsen en Examens van 5 februari 2024 nummer CvTE-24.00430, houdende vaststelling van toegestane hulpmiddelen bij centrale examinering in het mbo (Regeling toegestane hulpmiddelen bij centrale examinering mbo)"
+citeertitel: "Regeling toegestane hulpmiddelen bij centrale examinering mbo"
 identifier: "BWBR0049365"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-02-15"
-last_updated: "2024-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049365"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17030253"
-version_id: "29964232"
-internal_id: "C42957451"
-label_id: "16939854"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049365/2024-02-15/0"
-intitule_bron: "Stcrt.2024-4495"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-05"
-intitule_published: "2024-02-14"
-intitule_in_force: "2024-02-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-4495"
-original_signed_date: "2024-02-05"
-original_published_date: "2024-02-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-4495"
-entry_into_force_date: "2024-02-15"
-jci_1_3: "jci1.3:c:BWBR0049365&z=2024-02-15&g=2024-02-15"
-jci_1_0: "1.0:c:BWBR0049365&g=2024-02-15"
-citeertitel_status: "officieel"
-short_title: "Regeling toegestane hulpmiddelen bij centrale examinering mbo"
-signed_date: "2024-02-05"
-entry_into_force: "2024-02-15"
+publicatiedatum: 2024-02-15
+laatste_update: 2024-02-15
+status: geldig
+toestand: 2024-02-15
+bron: "https://wetten.overheid.nl/BWBR0049365"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van het College voor Toetsen en Examens van 5 februari 2024 nummer CvTE-24.00430, houdende vaststelling van toegestane hulpmiddelen bij centrale examinering in het mbo (Regeling toegestane hulpmiddelen bij centrale examinering mbo)
-
-Gelet op [artikel 3 van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3); het [Examen- en kwalificatiebesluit beroepsopleidingen WEB artikel 6, eerste lid onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0027963&artikel=6);
-
-Besluit:
 
 ##### Artikel 1. Gebruik algemene hulpmiddelen
 
@@ -57,5 +31,3 @@ Deze regeling treedt in werking met ingang van de dag nadat deze in de Staatscou
 ##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling toegestane hulpmiddelen bij centrale examinering mbo.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

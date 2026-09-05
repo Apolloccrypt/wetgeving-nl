@@ -1,46 +1,18 @@
 ---
 title: "Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden houdende de toelatingsprocedure van gewasbeschermingsmiddelen en biociden 2024"
+citeertitel: "Beleidsregel toelatingsprocedure Ctgb 2024"
 identifier: "BWBR0049176"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049176"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16986883"
-version_id: "29864812"
-internal_id: "C42813891"
-label_id: "16897384"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049176/2024-01-01/0"
-intitule_bron: "Stcrt.2023-35561"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-25"
-intitule_published: "2023-12-28"
-intitule_in_force: "2023-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35561"
-original_signed_date: "2023-10-25"
-original_published_date: "2023-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-35561"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049176&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049176&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel toelatingsprocedure Ctgb 2024"
-signed_date: "2023-10-25"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049176"
+opgehaald: 2026-09-05
 ---
+
 # Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden houdende de toelatingsprocedure van gewasbeschermingsmiddelen en biociden 2024
-
-Gelet op het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=4), en [artikel 130a van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=130a);
-
-Gezien [Verordening (EU) nr. 528/2012](32012R0528) en [Verordening (EG) nr. 1107/2009](32009R1107); Gezien het [Tarievenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049054) van het college;
-
-Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81); Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -48,53 +20,58 @@ Gelet op [artikel 4:81, eerste lid van de Algemene wet bestuursrecht](https://we
 
 In deze beleidsregel wordt verstaan onder:
 
-- **afgeleide toelating biocide:** een toelating waarbij op basis van artikel 52 van de wet (oud) een reeds toegelaten biocide (het moedermiddel) op aanvraag tevens wordt geregistreerd onder een andere handelsnaam, met een ander toelatingsnummer en met dezelfde of een andere toelatingshouder;
+- *afgeleide toelating biocide:* een toelating waarbij op basis van artikel 52 van de wet (oud) een reeds toegelaten biocide (het moedermiddel) op aanvraag tevens wordt geregistreerd onder een andere handelsnaam, met een ander toelatingsnummer en met dezelfde of een andere toelatingshouder;
 
-- **afgeleide toelating gewasbeschermingsmiddel:** een toelating waarbij een reeds toegelaten gewasbeschermingsmiddel (het moedermiddel) op aanvraag tevens wordt geregistreerd onder een andere handelsnaam, met een ander toelatingsnummer en met dezelfde of een andere toelatingshouder;
+- *afgeleide toelating gewasbeschermingsmiddel:* een toelating waarbij een reeds toegelaten gewasbeschermingsmiddel (het moedermiddel) op aanvraag tevens wordt geregistreerd onder een andere handelsnaam, met een ander toelatingsnummer en met dezelfde of een andere toelatingshouder;
 
-- **biociden:** biociden als bedoeld in artikel 3, eerste lid onder a, van [verordening (EU) Nr. 528/2012](32012R0528);
+- *biociden:* biociden als bedoeld in artikel 3, eerste lid onder a, van verordening (EU) Nr. 528/2012;
 
-- **college:** het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
+- *college:* het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
 
-- **regeling:** [Regeling gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022545);
+- *regeling:*
+ [Regeling gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022545);
 
-- **regeling (oud):** Regeling gewasbeschermingsmiddelen en biociden zoals die gold vóór 6 november 2013;
+- *regeling (oud):* Regeling gewasbeschermingsmiddelen en biociden zoals die gold vóór 6 november 2013;
 
-- **wet:** [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
+- *wet:*
+ [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
 
-- **wet (oud):** de Wet gewasbeschermingsmiddelen en biociden zoals deze gold vóór 6 november 2013;
+- *wet (oud):* de Wet gewasbeschermingsmiddelen en biociden zoals deze gold vóór 6 november 2013;
 
-- **gewasbeschermingsmiddel:** gewasbeschermingsmiddel als bedoeld in artikel 2, eerste lid, van [verordening (EG) 1107/2009](32009R1107);
+- *gewasbeschermingsmiddel:* gewasbeschermingsmiddel als bedoeld in artikel 2, eerste lid, van verordening (EG) 1107/2009;
 
-- **besluit:** [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530);
+- *besluit:*
+ [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530);
 
-- **besluit (oud):** het Besluit gewasbeschermingsmiddelen en biociden zoals dat gold vóór 6 november 2013;
+- *besluit (oud):* het Besluit gewasbeschermingsmiddelen en biociden zoals dat gold vóór 6 november 2013;
 
-- **moedermiddel:** het in Nederland toegelaten middel op basis waarvan een of meer afgeleide toelatingen worden of zijn verleend;
+- *moedermiddel:* het in Nederland toegelaten middel op basis waarvan een of meer afgeleide toelatingen worden of zijn verleend;
 
-- **intake:** eerste fase in de aanvraagprocedure waarbij het college onderzoekt of aan de administratieve vereisten is voldaan;
+- *intake:* eerste fase in de aanvraagprocedure waarbij het college onderzoekt of aan de administratieve vereisten is voldaan;
 
-- **tijdige betaling:** de betaling is tijdig als het college de betaling voor afloop van de gestelde termijn heeft ontvangen, dan wel als de aanvrager voor afloop van die termijn een bewijs heeft overgelegd dat de bedrag is overgeschreven, dan wel als het college voor afloop van die termijn een automatische incasso machtiging voor betaling heeft ontvangen;
+- *tijdige betaling:* de betaling is tijdig als het college de betaling voor afloop van de gestelde termijn heeft ontvangen, dan wel als de aanvrager voor afloop van die termijn een bewijs heeft overgelegd dat de bedrag is overgeschreven, dan wel als het college voor afloop van die termijn een automatische incasso machtiging voor betaling heeft ontvangen;
 
-- **parallelle handelsvergunning:** toestemming om een reeds in de lidstaat toegelaten middel onder een ander toelatingsnummer en onder een andere naam, voor alle of enkele van de reeds toegelaten toepassingen, op de markt aan te bieden voor distributie en gebruik onder dezelfde voorschriften en voorwaarden;
+- *parallelle handelsvergunning:* toestemming om een reeds in de lidstaat toegelaten middel onder een ander toelatingsnummer en onder een andere naam, voor alle of enkele van de reeds toegelaten toepassingen, op de markt aan te bieden voor distributie en gebruik onder dezelfde voorschriften en voorwaarden;
 
-- **parallelle toelating biocide:** een vergunning voor parallelhandel van een biocide, verleend op basis van artikel 53 van de Wet (oud);
+- *parallelle toelating biocide:* een vergunning voor parallelhandel van een biocide, verleend op basis van artikel 53 van de Wet (oud);
 
-- **referentiemiddel:** het in Nederland toegelaten middel op basis waarvan een vergunning voor parallelhandel wordt verleend.
+- *referentiemiddel:* het in Nederland toegelaten middel op basis waarvan een vergunning voor parallelhandel wordt verleend.
 
-- **valide aanvraag:** een aanvraag op grond van [Verordening (EU) nr. 528/2012](32012R0528) die ten minste alle elementen bevat die nodig zijn om een adequate beoordeling uit te kunnen voeren;
+- *valide aanvraag:* een aanvraag op grond van Verordening (EU) nr. 528/2012 die ten minste alle elementen bevat die nodig zijn om een adequate beoordeling uit te kunnen voeren;
 
-- **verordening (EG) nr. 1107/2009:** [Verordening (EG) Nr. 1107/2009](32009R1107) van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de [Richtlijnen 79/117/EEG](31979L0117) en [91/414/EEG](31991L0414) van de Raad (PbEU, L 309);
+- *verordening (EG) nr. 1107/2009:*
+ Verordening (EG) Nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEU, L 309);
 
-- **verordening (EU) Nr. 528/2012:** [Verordening (EU) Nr. 528/2012](32012R0528) van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167);
+- *verordening (EU) Nr. 528/2012:*
+ Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU, L 167);
 
 ### Hoofdstuk 2. De aanvraag tot toelating van een gewasbeschermingsmiddel
 
 ##### Artikel 2:1. Indienen aanvraag
 
-1. Een aanvraag, als bedoeld in hoofdstuk 3 van [Verordening (EG) Nr. 1107/2009](32009R1107) wordt door een aanvrager ingediend bij het college met het door het college vastgesteld formulier dat is weergegeven op de website van het college: [www.ctgb.nl](onbekend) en met een dossier dat voldoet aan de data vereisten van [Verordening (EG) Nr. 1107/2009](32009R1107).
+1. Een aanvraag, als bedoeld in hoofdstuk 3 van Verordening (EG) Nr. 1107/2009 wordt door een aanvrager ingediend bij het college met het door het college vastgesteld formulier dat is weergegeven op de website van het college: www.ctgb.nl en met een dossier dat voldoet aan de data vereisten van Verordening (EG) Nr. 1107/2009.
 
-2. De aanvraag wordt ingediend op de wijze waarop dat op de website van het college: [www.ctgb.nl](onbekend) is aangegeven.
+2. De aanvraag wordt ingediend op de wijze waarop dat op de website van het college: www.ctgb.nl is aangegeven.
 
 3. Bij niet-tijdige betaling van de aanvraagkosten of bij niet-tijdige betaling van de voorschotfactuur, zoals voorzien in het [Tarievenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049054), besluit het college de aanvraag niet-ontvankelijk te verklaren.
 
@@ -132,13 +109,13 @@ Een aanvraag voor de toelating van een gewasbeschermingsmiddel dat bijdraagt aan
 
 ##### Artikel 3:1. Vergunning voor parallelhandel
 
-1. De vergunning voor parallelhandel, als voorzien in artikel 52 van [Verordening (EG) Nr. 1107/2009](32009R1107), wordt verleend onder de voorwaarde dat de gewasbeschermingsmiddelen in hun oorspronkelijke verpakkingen worden ingevoerd en gedurende 48 uur in twee opeenvolgende werkdagen, voor controledoeleinden in deze oorspronkelijke verpakkingen ter beschikking worden gehouden van de handhavende instantie.
+1. De vergunning voor parallelhandel, als voorzien in artikel 52 van Verordening (EG) Nr. 1107/2009, wordt verleend onder de voorwaarde dat de gewasbeschermingsmiddelen in hun oorspronkelijke verpakkingen worden ingevoerd en gedurende 48 uur in twee opeenvolgende werkdagen, voor controledoeleinden in deze oorspronkelijke verpakkingen ter beschikking worden gehouden van de handhavende instantie.
 
-2. Van de invoer wordt door de vergunninghouder onmiddellijk mededeling gedaan aan de handhavende instantie en aan het college op de wijze en formulieren zoals weergegeven op de website van het college: [www.ctgb.nl.](onbekend)
+2. Van de invoer wordt door de vergunninghouder onmiddellijk mededeling gedaan aan de handhavende instantie en aan het college op de wijze en formulieren zoals weergegeven op de website van het college: www.ctgb.nl.
 
 ##### Artikel 3:2. Afgeleide toelating
 
-1. Een aanvraag voor afgeleide toelating wordt ingediend met het door het college vastgestelde formulier en op de wijze waarop dat is weergegeven op de website [www.ctgb.nl](onbekend)
+1. Een aanvraag voor afgeleide toelating wordt ingediend met het door het college vastgestelde formulier en op de wijze waarop dat is weergegeven op de website www.ctgb.nl
 
 2. Indien de aanvraagkosten niet tijdig zijn voldaan of vereiste gegevens ook na herstel ontbreken, wordt de aanvraag niet-ontvankelijk verklaard.
 
@@ -148,13 +125,13 @@ Een aanvraag voor de toelating van een gewasbeschermingsmiddel dat bijdraagt aan
 
 ##### Artikel 3:3. Vrijstelling voor proefdoeleinden
 
-Op de aanvraag tot vrijstelling voor proefdoeleinden als bedoeld in artikel 54 van [Verordening (EG) Nr. 1107/2009](32009R1107) zijn [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0049176&hoofdstuk=2&artikel=2:1&z=2024-01-01&g=2024-01-01) en [artikel 2:2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049176&hoofdstuk=2&artikel=2:2&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
+Op de aanvraag tot vrijstelling voor proefdoeleinden als bedoeld in artikel 54 van Verordening (EG) Nr. 1107/2009 zijn [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0049176&hoofdstuk=2&artikel=2:1&z=2024-01-01&g=2024-01-01) en [artikel 2:2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049176&hoofdstuk=2&artikel=2:2&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Bepalingen voor aanvragen inzake biociden
 
 ##### Artikel 4:1. Vergunning voor parallelhandel
 
-1. De vergunning voor parallelhandel, zoals voorzien in artikel 53 van [Verordening (EU) Nr. 528/2012](32012R0528) wordt verleend onder de voorwaarde dat het biocide in zijn oorspronkelijke verpakking wordt ingevoerd en gedurende 48 uur in twee opeenvolgende werkdagen, voor controledoeleinden in deze oorspronkelijke verpakking ter beschikking wordt gehouden van de terzake handhavende instantie.
+1. De vergunning voor parallelhandel, zoals voorzien in artikel 53 van Verordening (EU) Nr. 528/2012 wordt verleend onder de voorwaarde dat het biocide in zijn oorspronkelijke verpakking wordt ingevoerd en gedurende 48 uur in twee opeenvolgende werkdagen, voor controledoeleinden in deze oorspronkelijke verpakking ter beschikking wordt gehouden van de terzake handhavende instantie.
 
 2. Van de invoer wordt door de vergunninghouder onmiddellijk mededeling gedaan aan de handhavende instantie en aan het college.
 
@@ -168,9 +145,9 @@ Op de aanvraag tot vrijstelling voor proefdoeleinden als bedoeld in artikel 54 v
 
 ##### Artikel 5:1. Aanvraag
 
-1. Voor het indienen van een aanvraag wordt gebruik gemaakt van de aanvraagformulieren zoals het college deze op zijn website [www.ctgb.nl](onbekend) heeft gepubliceerd.
+1. Voor het indienen van een aanvraag wordt gebruik gemaakt van de aanvraagformulieren zoals het college deze op zijn website www.ctgb.nl heeft gepubliceerd.
 
-2. De aanvraag wordt ingediend op de wijze waarop dat op de website van het college: [www.ctgb.nl](onbekend) is aangegeven.
+2. De aanvraag wordt ingediend op de wijze waarop dat op de website van het college: www.ctgb.nl is aangegeven.
 
 3. Bij niet tijdige betaling van de aanvraagkosten of de voorschotfactuur, zoals voorzien in het [Tarievenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049054), wordt de aanvraag niet-ontvankelijk verklaard.
 
@@ -192,7 +169,7 @@ Op de aanvraag tot vrijstelling voor proefdoeleinden als bedoeld in artikel 54 v
 
 2. Degene die de dierproefstudie overlegt, legt tevens het bewijs over dat hij bij het college om inlichtingen heeft verzocht als bedoeld in artikel 46, eerste lid van de Wet (oud) en dat dit verzoek geen verwijzing naar een bruikbare studie heeft opgeleverd. Bij ontbreken van dit bewijs wordt de dierproefstudie niet als onderdeel van het aanvraagdossier geaccepteerd.
 
-3. Artikel 63, derde en vierde lid van [Verordening (EU) Nr. 528/2012](32012R0528) is van overeenkomstige toepassing.
+3. Artikel 63, derde en vierde lid van Verordening (EU) Nr. 528/2012 is van overeenkomstige toepassing.
 
 ##### Artikel 5:4. Intake: overige bepalingen
 
@@ -254,7 +231,7 @@ Indien op een aanvraag tot verlenging van de toelating door het college geen bes
 
 1. Deze beleidsregel wordt in de Staatscourant geplaatst.
 
-2. Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
+2. Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 7:2. Citeertitel
 

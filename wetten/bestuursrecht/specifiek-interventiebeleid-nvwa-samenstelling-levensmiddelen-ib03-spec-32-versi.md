@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB03-SPEC 32, versie 04)"
+citeertitel: "Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB03-SPEC 32, versie 04)"
 identifier: "BWBR0049238"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-13"
-last_updated: "2024-01-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049238"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "17001073"
-version_id: "29902172"
-internal_id: "C42865971"
-label_id: "16911504"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049238/2024-01-13/0"
-intitule_bron: "Stcrt.2024-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-19"
-intitule_published: "2024-01-12"
-intitule_in_force: "2024-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-202"
-original_signed_date: "2023-12-19"
-original_published_date: "2024-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-202"
-entry_into_force_date: "2024-01-13"
-jci_1_3: "jci1.3:c:BWBR0049238&z=2024-01-13&g=2024-01-13"
-jci_1_0: "1.0:c:BWBR0049238&g=2024-01-13"
-citeertitel_status: "officieel"
-short_title: "Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB03-SPEC 32, versie 04)"
-signed_date: "2023-12-19"
-entry_into_force: "2024-01-13"
+publicatiedatum: 2024-01-13
+laatste_update: 2024-01-13
+status: geldig
+toestand: 2024-01-13
+bron: "https://wetten.overheid.nl/BWBR0049238"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB03-SPEC 32, versie 04)
 
 De Minister van Volksgezondheid, Welzijn en Sport,
@@ -52,11 +30,65 @@ Overtredingen die door de inspecteur/ toezichthouder worden waargenomen en die n
 
 ### 2. Definities en wettelijke basis
 
-### 2.1. Voor de definities wordt verwezen naar het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215)
+### 2.1. Voor de definities wordt verwezen naar het Algemeen interventiebeleid NVWA 2024
 
 ### 2.2. Wettelijke basis
 
 De belangrijkste wettelijke bepalingen die van belang zijn voor het Specifiek interventiebeleid NVWA samenstelling levensmiddelen zijn:
+
+- − [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505);
+
+- − [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
+
+- − Richtlijn 2001/83/EG tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor menselijk gebruik;
+
+- − Verordening (EU) 2015/2283 betreffende nieuwe voedingsmiddelen;
+
+- − [Warenwetbesluit nieuwe voedingsmiddelen en genetisch gemodificeerde levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0040236);
+
+- − Verordening (EU) nr. 609/2013 voor zuigelingen en peuters bedoelde levensmiddelen, voeding voor medisch gebruik en de dagelijkse voeding volledig vervangende producten voor gewichtsbeheersing, en daaraan gerelateerde uitvoeringshandelingen 2In de overgangsperiode geldt hiervoor nog de oude wet- en regelgeving, namelijk Richtlijn 2006/141/EG, Richtlijn 1999/21/EG, Richtlijn 96/8/EG en Richtlijn 2006/125/EG, en bijbehorende implementaties in de nationale wetgeving. Zie verder https://ec.europa.eu/food/safety/labelling_nutrition/special_groups_food_en.;
+
+- − Gedelegeerde Verordening (EU) 2016/127 inzake de bijzondere samenstellings- en informatievoorschriften betreffende volledige zuigelingenvoeding en opvolgzuigelingenvoeding en inzake informatievoorschriften betreffende de voeding van zuigelingen en peuters;
+
+- − Gedelegeerde Verordening (EU) 2016/128 inzake de bijzondere samenstellings- en informatievoorschriften betreffende voeding voor medisch gebruik;
+
+- − Gedelegeerde Verordening (EU) 2017/1798 inzake de bijzondere samenstellings- en informatievoorschriften voor de dagelijkse voeding volledig vervangende producten voor gewichtsbeheersing;
+
+- − Richtlijn 2006/125/EG inzake bewerkte voedingsmiddelen op basis van granen en babyvoeding voor zuigelingen en peuters;
+
+- − [Warenwetbesluit bijzondere voeding 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037883);
+
+- − [Warenwetbesluit Kruidenpreparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0012174);
+
+- − [Warenwetbesluit voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014814);
+
+- − Richtlijn 2002/46/EG inzake voedingssupplementen;
+
+- − [Warenwetregeling voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0014903);
+
+- − [Warenwetregeling vrijstelling voedingssupplementen](https://wetten.overheid.nl/jci1.3:c:BWBR0041264);
+
+- − Verordening (EG) Nr. 1925/2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen;
+
+- − [Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0008065);
+
+- − [Warenwetbesluit Informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033323);
+
+- − Verordening (EU) nr. 1169/2011 betreffende de verstrekking van voedselinformatie aan consumenten;
+
+- − [Warenwetbesluit Bereiding en behandeling van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005758);
+
+- − Verordening (EG) Nr. 178/2002 tot vaststelling van de algemene beginselen en voorschriften van de levensmiddelenwetgeving, tot oprichting van een Europese Autoriteit voor voedselveiligheid en tot vaststelling van procedures voor voedselveiligheidsaangelegenheden;
+
+- − [Warenwetregeling Vrijstelling vitamine D](https://wetten.overheid.nl/jci1.3:c:BWBR0015032);
+
+- − [Warenwetregeling vrijstelling toevoeging foliumzuur en vitamine D aan levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0021039);
+
+- − [Warenwetbesluit additieven, aroma’s en enzymen in levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0026325);
+
+- − Verordening (EG) Nr. 1333/2008 inzake levensmiddelenadditieven;
+
+- − [Warenwetbesluit Meel en brood](https://wetten.overheid.nl/jci1.3:c:BWBR0009669).
 
 ### 3. Werkwijze
 
@@ -74,9 +106,13 @@ Bestraffende sanctie
 
 Overtredingen van de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) worden doorgaans bestuurlijk beboet. Aan het Openbaar Ministerie (OM) worden overtredingen voorgelegd indien voor daarvoor op basis van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) (Wed) een hogere geldboete kan worden opgelegd dan de voorziene bestuurlijke boete, en:
 
+- − indien de opzettelijke of roekeloze overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft óf
+
+- − de in de [bijlage](https://wetten.overheid.nl/BWBR0049238) ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel ([artikel 32a, derde lid, Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=32a)).
+
 Strafrechtelijke afdoening is niet voorbehouden aan een vooraf aan te geven overtreding van een bepaald voorschrift, maar kan in beginsel bij alle overtredingen van de bij of krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) gestelde voorschriften noodzakelijk zijn.
 
-De kolommen ‘interventies’ en ‘follow-up na overtreding; interventies bij herhaalde overtreding’ in de bijlage van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op bovengenoemde kolommen in de bijlage.
+De kolommen ‘interventies’ en ‘follow-up na overtreding; interventies bij herhaalde overtreding’ in de [bijlage](https://wetten.overheid.nl/BWBR0049238) van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op bovengenoemde kolommen in de bijlage.
 
 Voor overtredingen van de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) kan aan de hand van [artikel 5.1 van het Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215&artikel=5.1) (NVWA-IB03) worden bepaald of ze aan het OM worden voorgelegd.
 
@@ -86,16 +122,18 @@ Er is sprake van een herhaalde overtreding wanneer tijdens een (her)inspectie op
 
 ### 4. Divers
 
-Deze beleidsregel vervangt het op16 november 2020 vastgestelde [Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB02-SPEC 32, versie 03)](https://wetten.overheid.nl/jci1.3:c:BWBR0044365). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Tevens wordt de bijlage vanaf nu weergegeven op de website van de NVWA ([www.nvwa.nl/interventiebeleid](onbekend)).
+Vervanging
+
+Deze beleidsregel vervangt het op16 november 2020 vastgestelde [Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB02-SPEC 32, versie 03)](https://wetten.overheid.nl/jci1.3:c:BWBR0044365). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Tevens wordt de bijlage vanaf nu weergegeven op de website van de NVWA (www.nvwa.nl/interventiebeleid).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid NVWA samenstelling levensmiddelen (IB03-SPEC 32, versie 04)’.
 
+Inwerkingtreding
+
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-De bijlage van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit ([www.nvwa.nl/interventiebeleid](onbekend)).
+Bijlage
 
-## Bijlage
-
-Gepubliceerd op www.nvwa.nl/interventiebeleid.
-
-Deze beleidsregel wordt in de Staatscourant geplaatst.
+De [bijlage](https://wetten.overheid.nl/BWBR0049238) van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit (www.nvwa.nl/interventiebeleid).

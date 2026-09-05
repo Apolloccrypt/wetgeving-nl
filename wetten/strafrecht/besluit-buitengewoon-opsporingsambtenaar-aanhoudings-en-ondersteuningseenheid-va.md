@@ -1,60 +1,18 @@
 ---
 title: "Besluit van de Minister voor Rechtsbescherming van 13 november 2023 nr. BOACAT2023/074, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar. Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies 2023"
 identifier: "BWBR0048913"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-18"
-last_updated: "2024-07-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048913"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "16921723"
-version_id: "29741852"
-internal_id: "C42627551"
-label_id: "16833184"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048913/2024-07-18/0"
-intitule_bron: "Stcrt.2023-31649"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-13"
-intitule_published: "2023-11-20"
-intitule_in_force: "2023-11-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31649"
-original_signed_date: "2023-11-13"
-original_published_date: "2023-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31649"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0048913&z=2024-07-18&g=2024-07-18"
-jci_1_0: "1.0:c:BWBR0048913&g=2024-07-18"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar. Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies 2023"
-signed_date: "2023-11-13"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-07-18
+status: geldig
+toestand: 2024-07-18
+bron: "https://wetten.overheid.nl/BWBR0048913"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister voor Rechtsbescherming van 13 november 2023 nr. BOACAT2023/074, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies
-
-Gelezen het verzoek van de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) van 19 oktober 2023 en de adviezen van de hoofdofficier van justitie bij het Landelijk Parket en de korpschef als bedoeld in artikel 27 van de Politiewet 2012;
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -68,7 +26,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -90,7 +48,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierd
 
 ##### Artikel 7
 
-1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
+1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048913&artikel=2&z=2024-07-18&g=2024-07-18) genoemde functie;
 
@@ -108,12 +66,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar AOE/Politie Landelijke Eenheid 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041921) van 11 februari 2019, nr. BOACAT2019/007 wordt ingetrokken op 1 januari 2024.
+Het [Besluit buitengewoon opsporingsambtenaar AOE/Politie Landelijke Eenheid 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041921) van 11 februari 2019, nr. BOACAT2019/007 wordt ingetrokken op 1 januari 2024.
 
-Dit besluit treedt in werking met ingang van 1 januari 2024 en vervalt met ingang van 1 januari 2029.
+Dit besluit treedt in werking met ingang van 1 januari 2024 en vervalt met ingang van 1 januari 2029.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar. Aanhoudings- en ondersteuningseenheid van de Eenheid Landelijke Opsporing en Interventies 2023.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

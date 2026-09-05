@@ -1,32 +1,33 @@
 ---
-title: "Instellingsbesluit beoordelingscommissie MDT"
+title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/42350254, houdende instelling van de beoordelingscommissie Maatschappelijke diensttijd (MDT) (Instellingsbesluit beoordelingscommissie MDT)"
+citeertitel: "Instellingsbesluit beoordelingscommissie MDT"
 identifier: "BWBR0048996"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2023-12-07
-laatste_update: 2026-05-13
+laatste_update: 2023-12-07
 status: geldig
+toestand: 2023-12-07
 bron: "https://wetten.overheid.nl/BWBR0048996"
+opgehaald: 2026-09-05
 ---
 
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/42350254, houdende instelling van de beoordelingscommissie Maatschappelijke diensttijd (MDT) (Instellingsbesluit beoordelingscommissie MDT)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 10 van de Subsidieregeling Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0048113&artikel=10) (MDT);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
+- *commissie:* beoordelingscommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **regeling:** [Subsidieregeling Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0048113) (MDT);
+- *regeling:*
+ [Subsidieregeling Maatschappelijke Diensttijd](https://wetten.overheid.nl/jci1.3:c:BWBR0048113) (MDT);
 
-- **subcommissie:** onderdeel van de commissie dat met een aantal leden over subsidieaanvragen adviseert als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
+- *subcommissie:* onderdeel van de commissie dat met een aantal leden over subsidieaanvragen adviseert als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2&z=2023-12-07&g=2023-12-07);
 
-- **vaste voorzitter:** lid van de commissie die door de Minister als voorzitter is benoemd.
+- *vaste voorzitter:* lid van de commissie die door de Minister als voorzitter is benoemd.
 
 ##### Artikel 2. Instelling en taak commissie
 
@@ -104,7 +105,7 @@ De commissie verstrekt aan de Minister desgevraagd de door hem gewenste inlichti
 
 - a. openbaar vervoer, 2e klasse; of
 
-- b. € 0,21 per kilometer en parkeerkosten.
+- b. € 0,21 per kilometer en parkeerkosten.
 
 7. Overige kosten komen niet in aanmerking voor vergoeding.
 
@@ -122,16 +123,14 @@ De vergaderingen van de commissie zijn niet openbaar.
 
 ##### Artikel 12. Archiefbescheiden
 
-De commissie draagt zo spoedig mogelijk, maar vóór 1 juli 2027, de bescheiden betreffende haar werkzaamheden over aan het archief van de Programmadirectie Maatschappelijke Diensttijd van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+De commissie draagt zo spoedig mogelijk, maar vóór 1 juli 2027, de bescheiden betreffende haar werkzaamheden over aan het archief van de Programmadirectie Maatschappelijke Diensttijd van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 13. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2023.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2023.
 
-2. Dit besluit vervalt met ingang van 1 juli 2027.
+2. Dit besluit vervalt met ingang van 1 juli 2027.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit beoordelingscommissie MDT.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

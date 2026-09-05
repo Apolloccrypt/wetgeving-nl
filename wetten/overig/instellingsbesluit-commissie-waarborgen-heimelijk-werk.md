@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid 11 januari 2024, kenmerk 5124894, houdende instelling van de Commissie Monitoring Waarborgen Heimelijk Werk (Instellingsbesluit Commissie Monitoring Waarborgen Heimelijk Werk)"
+citeertitel: "Instellingsbesluit Commissie Waarborgen Heimelijk Werk"
 identifier: "BWBR0049437"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-06"
-last_updated: "2024-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049437"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17043673"
-version_id: "29988842"
-internal_id: "C42995411"
-label_id: "16953204"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049437/2024-03-06/0"
-intitule_bron: "Stcrt.2024-6208"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-01-11"
-intitule_published: "2024-03-05"
-intitule_in_force: "2024-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6208"
-original_signed_date: "2024-01-11"
-original_published_date: "2024-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6208"
-entry_into_force_date: "2024-03-06"
-jci_1_3: "jci1.3:c:BWBR0049437&z=2024-03-06&g=2024-03-06"
-jci_1_0: "1.0:c:BWBR0049437&g=2024-03-06"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Waarborgen Heimelijk Werk"
-signed_date: "2024-01-11"
-entry_into_force: "2024-03-06"
+publicatiedatum: 2024-03-06
+laatste_update: 2024-03-06
+status: geldig
+toestand: 2024-03-06
+bron: "https://wetten.overheid.nl/BWBR0049437"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid 11 januari 2024, kenmerk 5124894, houdende instelling van de Commissie Monitoring Waarborgen Heimelijk Werk (Instellingsbesluit Commissie Monitoring Waarborgen Heimelijk Werk)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Justitie en Veiligheid;
+- a. *minister:* Minister van Justitie en Veiligheid;
 
-- b. **commissie:** commissie, bedoeld als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=2&z=2024-03-06&g=2024-03-06).
+- b. *commissie:* commissie, bedoeld als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049437&artikel=2&z=2024-03-06&g=2024-03-06).
 
 ##### Artikel 2. Instelling en taak
 
@@ -54,11 +28,11 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak:
 
-- a). Monitoring van de professionalisering van het heimelijk werken door de politie en het gezag daarover bij het openbaar ministerie.
+- a) Monitoring van de professionalisering van het heimelijk werken door de politie en het gezag daarover bij het openbaar ministerie.
 
-- b). Monitoring van het borgen van organisatorische waarborgen en waarborgen voor het personeelswelzijn binnen het heimelijk domein bij de politie;
+- b) Monitoring van het borgen van organisatorische waarborgen en waarborgen voor het personeelswelzijn binnen het heimelijk domein bij de politie;
 
-- c). Monitoring van de afbouw, periode van herbezinning, opbouw en het functioneren van het tijdelijk team Heimelijk Werken bij de Landelijke eenheid van de politie.
+- c) Monitoring van de afbouw, periode van herbezinning, opbouw en het functioneren van het tijdelijk team Heimelijk Werken bij de Landelijke eenheid van de politie.
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
@@ -166,10 +140,8 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 ##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Waarborgen Heimelijk Werk
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

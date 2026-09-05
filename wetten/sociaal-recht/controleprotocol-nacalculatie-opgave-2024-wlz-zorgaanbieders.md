@@ -1,38 +1,16 @@
 ---
 title: "Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders"
 identifier: "BWBR0049477"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-03-19"
-last_updated: "2024-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049477"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17053673"
-version_id: "30006182"
-internal_id: "C43014871"
-label_id: "16963464"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049477/2024-03-19/0"
-intitule_bron: "Stcrt.2024-8201"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-01"
-intitule_published: "2024-03-19"
-intitule_in_force: "2024-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8201"
-original_signed_date: "2024-03-01"
-original_published_date: "2024-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8201"
-entry_into_force_date: "2024-03-19"
-jci_1_3: "jci1.3:c:BWBR0049477&z=2024-03-19&g=2024-03-19"
-jci_1_0: "1.0:c:BWBR0049477&g=2024-03-19"
-citeertitel_status: "redactioneel"
-signed_date: "2024-03-01"
-entry_into_force: "2024-03-19"
+publicatiedatum: 2024-03-19
+laatste_update: 2024-03-19
+status: geldig
+toestand: 2024-03-19
+bron: "https://wetten.overheid.nl/BWBR0049477"
+opgehaald: 2026-09-05
 ---
+
 # Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders
 
 Versie 1, maart 2024
@@ -49,17 +27,74 @@ Het doel van dit controleprotocol is niet om de aanpak van de controleopdracht v
 
 ### 1.2. Definities
 
+- – *accountant:* de persoon, zoals bedoeld in [artikel 393 lid 1 van Boek 2 afdeling 9 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+
+- – *consolidatieoverzicht:* het overzicht dat door de zorgaanbieder aan de nacalculatie-opgave 2024 moet worden toegevoegd als de op te geven financiële gegevens onderdeel uitmaken van een consolidatie en de zorgaanbieder bij de accountantscontrole in voornoemde opgave van die consolidatie wil uitgaan. Het betreft een overzicht waarin in ieder geval de volgende gegevens staan vermeld:
+
+   - • NZa-nummers van de desbetreffende zorgaanbieders;
+
+   - • de namen van de zorgaanbieders die bij deze NZa-nummers behoren;
+
+   - • de namen van de zorgkantoren die bij deze NZa-nummers behoren;
+
+   - • de namen van de Wlz-uitvoerders die bij deze NZa-nummers behoren;
+
+   - • het bedrag per NZa-nummer voor totaal gerealiseerde productie over 2024, alsmede een geconsolideerd totaalbedrag;
+
+   - • het bedrag per NZa-nummer voor de totaal financiële realisatie overige onderdelen over 2024, alsmede een geconsolideerd totaalbedrag;
+
+   - • indien van toepassing: toelichting;
+
+   - • ondertekening door de zorgaanbieder die de nacalculatie-opgave indient.
+
+- – *geconsolideerde jaarrekening:* geconsolideerde jaarrekening, zoals bedoeld in [artikel 7 Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=7).
+
+- – *nacalculatie-formulier:* het formulier waarin de zorgaanbieder per NZa-nummer en het zorgkantoor/de Wlz-uitvoerder de totaal financieel gerealiseerde productie en de totaal financiële realisatie van de overige onderdelen kunnen invullen Dit formulier bestaat uit de volgende onderdelen:
+
+   - • nacalculatie productieafspraken;
+
+   - • overige kosten en opbrengsten;
+
+   - • onder-/overproductie;
+
+   - • vragenlijst ‘Vragen en overige opmerkingen’ met indien nodig een toelichting;
+
+   - • vragenlijst Controleprotocol met indien nodig een toelichting;
+
+   - • overzicht.
+
+- – *nacalculatie-opgave:* de verstrekking door de zorgaanbieder (per NZa-nummer) en/of het zorgkantoor/de Wlz-uitvoerder van gegevens en inlichtingen over de aanvaardbare kosten 2024. Deze opgave bestaat uit de volgende onderdelen:
+
+   - • een door de zorgaanbieder en/of het zorgkantoor/de Wlz-uitvoerder ondertekend ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2024’;
+
+   - • nacalculatie-formulier 2024;
+
+   - • indien van toepassing: controleverklaring van de accountant;
+
+   - • indien de controleverklaring betrekking heeft op een consolidatie waarvan de op te geven gegevens en inlichtingen onderdeel uitmaken: het consolidatieoverzicht.
+
+- – *ondertekeningsdocument:* document dat door de zorgaanbieder en/of het zorgkantoor/de Wlz-uitvoerder aan de nacalculatie-opgave wordt toegevoegd waarin een al dan niet elektronische handtekening is opgenomen ter bevestiging van de volledigheid en juistheid van de nacalculatie-opgave.
+
+- – *Wlz:*
+ [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+
+- – *zorgaanbieder:* de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+
 ### 1.3. Procedures en termijnen
 
 Procedures en termijnen zijn beschreven in de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024 en de Beleidsregel Bekostigingscyclus Wlz 2024. Die komen op het volgende neer.
 
 De zorgaanbieder stelt de nacalculatie-opgave 2024 op, met gebruikmaking van het door de NZa voorgeschreven formulier (‘Formulier Langdurige zorg nacalculatie 2024’). Indien de beantwoording van de vragen in de ‘Vragenlijst Controleprotocol' en de ‘Vragen en overige opmerkingen’ in het formulier daartoe aanleiding geeft, moet de zorgaanbieder het antwoord op deze vragen nader toelichten.
 
-Behoudens de uitzonderingen zoals genoemd in artikel 9 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz, dient een zorgaanbieder een controleverklaring van een accountant aan de nacalculatie-opgave toe te voegen. Zorgaanbieders kunnen ervoor kiezen om de nacalculatie-opgave te voorzien van een consolidatie-overzicht en daarmee een geconsolideerde controleverklaring aan te leveren. Dit overzicht wordt bij de individuele nacalculatie-opgave per NZa-nummer gevoegd en dient vanaf dat moment als controle-object (zie ook paragraaf 2.1).
+Behoudens de uitzonderingen zoals genoemd in artikel 9 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz, dient een zorgaanbieder een controleverklaring van een accountant aan de nacalculatie-opgave toe te voegen. Zorgaanbieders kunnen ervoor kiezen om de nacalculatie-opgave te voorzien van een consolidatie-overzicht en daarmee een geconsolideerde controleverklaring aan te leveren. Dit overzicht wordt bij de individuele nacalculatie-opgave per NZa-nummer gevoegd en dient vanaf dat moment als controle-object (zie ook [paragraaf 2.1](https://wetten.overheid.nl/BWBR0049477)).
 
 Voor zover bij de nacalculatie-opgave een controleverklaring van een accountant moet worden gevoegd, kan een zorgaanbieder ervoor kiezen om de nacalculatie-opgave te voorzien van een consolidatie-overzicht. In dat geval geldt niet het ondertekeningsdocument van de zorgaanbieder als object van accountantsonderzoek, maar het consolidatie-overzicht.
 
 Ten behoeve van de controleverklaring van de accountant, kan een zorgaanbieder op twee manieren consolideren en dat tot uitdrukking brengen in het consolidatie-overzicht:
+
+- a. consolideren per Wlz-uitvoerder van de financiële gegevens van meerdere NZa-nummers tezamen;
+
+- b. consolideren van de financiële gegevens van alle NZa-nummers tezamen die in de jaarrekening van de zorgaanbieder zijn verwerkt, dan wel zijn verwerkt in een andere (geconsolideerde) jaarrekening waarvan de financiële gegevens van de zorgaanbieder deel uitmaken. Bij de bepaling welke NZa-nummers al dan niet geconsolideerd worden, hanteert de zorgaanbieder als basis de (geconsolideerde) jaarrekening, waarin de financiële gegevens uit de nacalculatie-opgaven in het resultaat zijn verwerkt. Voorwaarde hierbij is dat deze (geconsolideerde) jaarrekening is of wordt voorzien van een controleverklaring. Dit kan betekenen dat bij een zorgaanbieder verschillende scenario’s mogelijk zijn met betrekking tot consolidatie. Dit is afhankelijk van de aanwezigheid van controleverklaringen bij onderdelen van dezelfde zorgaanbieder en het feit of sprake is van meerdere Wlz-uitvoerders.
 
 Of en tot welk niveau ten behoeve van de controleverklaring wordt geconsolideerd, is aan de zorgaanbieder en zijn accountant.
 
@@ -69,15 +104,19 @@ Voorbeelden van consolidatie zijn uitgewerkt in de toelichting op artikel 9 van 
 
 Door het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2024’ van een handtekening te voorzien, verklaart de persoon die bevoegd is te tekenen namens de zorgaanbieder dat hij/zij de nacalculatie-opgave 2024 naar waarheid en in overeenstemming met de voor het jaar 2024 geldende beleidsregels en regelingen van de Nederlandse Zorgautoriteit (NZa) heeft ingevuld. In paragraaf 3.3 (tabel 1) van dit controleprotocol is een overzicht opgenomen van de NZa-regelgeving 2024.
 
-Vóór 1 juni 2025 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2024 via het aanvragenportaal van de NZa worden ingediend.
+Vóór 1 juni 2025 moet door de zorgaanbieder en het zorgkantoor/de Wlz-uitvoerder de ingevulde nacalculatie-opgave 2024 via het aanvragenportaal van de NZa worden ingediend.
 
 De zorgaanbieder geeft een accountant opdracht tot het uitvoeren van een accountantsonderzoek of de in de nacalculatie-opgave opgenomen (Geconsolideerde) Totaal financieel gerealiseerde productie en de (Geconsolideerde) Totaal financiële realisatie overige onderdelen 2024, in alle van materieel belang zijnde aspecten in overeenstemming zijn met de geldende beleidsregels en regelingen van de NZa. De accountant controleert de nacalculatie-opgave over 2024 met inachtneming van de bepalingen in dit controleprotocol.
 
 De accountant geeft de uitkomst van zijn controle van de nacalculatie-opgave over 2024 weer in een controleverklaring bij de nacalculatie-opgave 2024. De accountant verklaart in deze controleverklaring dat:
 
+- – het in de door de zorgaanbieder ondertekende ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2024’ of consolidatieoverzicht van de zorgaanbieder opgenomen bedragen (Geconsolideerde) Totaal financieel gerealiseerde productie 2024 en (Geconsolideerde) Totaal financiële realisatie overige onderdelen 2024, als onderdeel van de nacalculatie-opgave 2024, in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders (versie 1, maart 2024).
+
+- – de andere informatie verenigbaar is met het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2024’ van de zorgaanbieder en ook verenigbaar is met de kennis verkregen tijdens de controle van de nacalculatie-opgave 2024 en geen materiële afwijkingen bevat.
+
 Voor de tekst van de controleverklaring bij de nacalculatie-opgave maakt de accountant gebruik van de voorbeeldtekst die in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0049477&bijlage=1&z=2024-03-19&g=2024-03-19) van dit controleprotocol is opgenomen. Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst van de controleverklaring aangepast overeenkomstig de Nadere Voorschriften Controle- en Overige Standaarden (NV COS, bij verwijzingen aangeduid met ‘Standaard’).
 
-Als de zorgaanbieder op basis van artikel 9 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024 aan de NZa een controleverklaring moet verstrekken, moet de gehele nacalculatie-opgave 2024 worden gewaarmerkt door de accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Met waarmerking geeft de accountant aan dat de betreffende pagina onderdeel is van de nacalculatie-opgave van de zorgaanbieder waar de controleverklaring onderdeel van is. Waarmerking door de accountant vindt plaats door een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie, of een gekwalificeerde elektronische handtekening volgens EU [Verordening 910/2014](32014R0910).
+Als de zorgaanbieder op basis van artikel 9 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024 aan de NZa een controleverklaring moet verstrekken, moet de gehele nacalculatie-opgave 2024 worden gewaarmerkt door de accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Met waarmerking geeft de accountant aan dat de betreffende pagina onderdeel is van de nacalculatie-opgave van de zorgaanbieder waar de controleverklaring onderdeel van is. Waarmerking door de accountant vindt plaats door een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie, of een gekwalificeerde elektronische handtekening volgens EU Verordening 910/2014.
 
 ### Artikel 2. Onderzoeksaanpak
 
@@ -85,7 +124,11 @@ Als de zorgaanbieder op basis van artikel 9 van de Regeling declaratievoorschrif
 
 Het object van onderzoek voor de accountant bestaat uit het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2024’ van de zorgaanbieder. In dit document is mogelijk sprake van de volgende correcties:
 
-Deze correcties zijn geen onderdeel van de controle. De nacalculatie-opgave bestaat uit meerdere documenten, die te classificeren zijn als ‘Andere informatie’. Zie hiervoor paragraaf 2.8.
+- – Correctie zorgkantoor op realisatie productieafspraak algemeen;
+
+- – Correctie zorgkantoor op restant overproductie.
+
+Deze correcties zijn geen onderdeel van de controle. De nacalculatie-opgave bestaat uit meerdere documenten, die te classificeren zijn als ‘Andere informatie’. Zie hiervoor [paragraaf 2.8](https://wetten.overheid.nl/BWBR0049477).
 
 Het ondertekeningsdocument van het zorgkantoor/Wlz-uitvoerder is geen onderdeel van de controle door de accountant, zoals hieronder beschreven.
 
@@ -97,19 +140,39 @@ Indien sprake is van een nacalculatie-opgave waar een consolidatie-overzicht is 
 
 Voor het onderzoek naar de betrouwbaarheid en nauwkeurigheid van het ondertekeningsdocument 2024 kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat de in het ondertekeningsdocument (en indien van toepassing: consolidatie-overzicht) 2024 opgenomen bedragen (Geconsolideerde) Totaal financieel gerealiseerde productie 2024 en (Geconsolideerde) Totaal financiële realisatie overige onderdelen 2024 in overeenstemming zijn met de geldende beleidsregels en regelingen van de NZa.
 
-Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in paragraaf 1.1 van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
+Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. In dit verband wordt uitdrukkelijk verwezen naar hetgeen hierover vermeld is in [paragraaf 1.1](https://wetten.overheid.nl/BWBR0049477) van dit controleprotocol. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
 
 ### 2.3. Beleidskader
 
 Het beleidskader voor de controle van de productie en overige onderdelen 2024 wordt gevormd door de in tabel 1 genoemde NZa-beleidsregels en NZa-regelingen.
 
-De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de paragraaf 2.4 vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij het ondertekeningsdocument 2024 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen.
+De in tabel 1 genoemde beleidsregels en regelingen vormen het beleidskader voor de controle door de accountant, echter uitsluitend indien en voorzover deze regels de grondslag vormen voor de in de [paragraaf 2.4](https://wetten.overheid.nl/BWBR0049477) vermelde toetsingscriteria. Van de accountant wordt derhalve niet verwacht dat hij het ondertekeningsdocument 2024 toetst aan alle in tabel 1 genoemde beleidsregels en regelingen.
 
 De in de tabel genoemde nummers betreffen de op het moment van vaststellen van het controleprotocol geldende versie van de betreffende beleidsregel en regeling voor 2024. Het is mogelijk dat van de genoemde beleidsregels en regelingen aangepaste versies worden gepubliceerd. Deze zijn gemarkeerd met een letter (bijvoorbeeld a, b of c). Het is de verantwoordelijkheid van de accountant om vast te stellen dat hij bij zijn controle de laatste versie van de betreffende beleidsregel en regeling heeft gehanteerd.
 
+| Citeertitel en nummer beleidsregel/regeling |
+| --- |
+| Beleidsregel afronding tarieven (AL/BR-0031) |
+| Beleidsregel bekostigingscyclus Wlz 2024 (BR/REG-24115b) |
+| Beleidsregel BRMO-uitbraak (BR/REG-22116) |
+| Beleidsregel budgettair kader Wlz 2024 (BR/REG-24116b) |
+| Beleidsregel definities Wlz (BR/REG-24141a) |
+| Beleidsregel experiment Wlz-zorg in onderwijstijd (BR/REG-22161a) |
+| Beleidsregel innovatie voor kleinschalige experimenten (BR/REG-19158) |
+| Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) gespecialiseerde ggz, forensische zorg en langdurige zorg (BR/REG-24117) |
+| Beleidsregel overige kosten Wlz 2024 (BR/REG-24118) |
+| Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz (BR/REG-24120a) |
+| Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) 2024 (BR/REG-24121a) |
+| Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2024 (BR/REG-24126) |
+| Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2024 (BR/REG-24122a) |
+| Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2024 (BR/REG-24123b) |
+| Beleidsregel tijdelijke instandlating gevolgen experimenten (BR/REG-17164) |
+| Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024 (NR/REG-2410c)1 |
+| Regeling innovatie voor kleinschalige experimenten (NR/REG-1928) |
+
 1 Artikel 6 (Declaratievoorschrift verkeerde bed Wlz) van deze regeling valt, evenals voorgaande jaren, niet onder de accountantscontrole.
 
-**Bron: NZa**
+*Bron: NZa*
 
 ### 2.4. Toetsingscriteria
 
@@ -119,15 +182,31 @@ Om de betrouwbaarheid en nauwkeurigheid van het ondertekeningsdocument vast te s
 
 Voor de totaal financieel gerealiseerde productie over 2024 gelden de volgende toetsingscriteria:
 
+- – de gedeclareerde zorg1Het gaat hier om de gedeclareerde intramurale zorg en de gedeclareerde modulaire zorg. volgens de nacalculatie-opgave 2024 is feitelijk geleverd aan de cliënt (zie [paragraaf 2.5](https://wetten.overheid.nl/BWBR0049477));
+
+- – de cliënt beschikt over een geldig indicatiebesluit;
+
+- – de gedeclareerde zorg is binnen het indicatiebesluit geleverd (geldt voor modulaire zorg);
+
+- – het gedeclareerde tarief komt overeen met het tussen partijen contractueel overeengekomen tarief, en is niet hoger dan het door de NZa vastgestelde tarief.
+
 ### 2.4.2. Zorg in onderwijstijd
 
-Zorg in onderwijstijd is deels onderdeel van de totaal financieel gerealiseerde productie over 2024, waarbij bovenstaande toetsingscriteria in 2.4.1 eveneens van toepassing zijn. Voor de budgetgarantie geldt dat dit het verschil is tussen de daadwerkelijk gerealiseerde productie ‘Zorg in onderwijstijd’ en de afspraak tussen de zorgaanbieder en het zorgkantoor. De zorgaanbieder vult de gerealiseerde productie ‘Zorg in onderwijstijd’ in, waarna een rekenregel de budgetgarantie vaststelt. Deze budgetgarantie kan niet gewijzigd worden door de zorgaanbieder.
+Zorg in onderwijstijd is deels onderdeel van de totaal financieel gerealiseerde productie over 2024, waarbij bovenstaande toetsingscriteria in [2.4.1](https://wetten.overheid.nl/BWBR0049477) eveneens van toepassing zijn. Voor de budgetgarantie geldt dat dit het verschil is tussen de daadwerkelijk gerealiseerde productie ‘Zorg in onderwijstijd’ en de afspraak tussen de zorgaanbieder en het zorgkantoor. De zorgaanbieder vult de gerealiseerde productie ‘Zorg in onderwijstijd’ in, waarna een rekenregel de budgetgarantie vaststelt. Deze budgetgarantie kan niet gewijzigd worden door de zorgaanbieder.
 
 ### 2.4.3. Totaal financiële realisatie overige onderdelen 2024
 
 De overige onderdelen bestaan uit de Vergoeding van inrichtingskosten bij gedwongen verhuizing, Vergoeding extreme kosten van zorggebonden materiaal en geneesmiddelen, Vergoeding BRMO-uitbraak en de Vergoeding innovatie voor kleinschalige experimenten.
 
 Van de accountant wordt verwacht dat hij vaststelt dat de in de nacalculatie-opgave 2024 opgenomen bedragen voor deze onderdelen overeenkomstig de voor het jaar 2024 geldende NZa-beleidsregels en regelingen zijn bepaald. Hierbij gaat het om de volgende NZa-beleidsregels en NZa-regeling:
+
+- • Beleidsregel overige kosten Wlz;
+
+- • Beleidsregel BRMO-uitbraak;
+
+- • Beleidsregel innovatie voor kleinschalige experimenten;
+
+- • Regeling innovatie voor kleinschalige experimenten.
 
 ### 2.4.4. Onderaanneming
 
@@ -139,7 +218,7 @@ De accountant controleert specifiek of de in het ondertekeningsdocument opgenome
 
 De accountant maakt bij zijn onderzoek voor zover mogelijk gebruik van de werkzaamheden van de zorgaanbieder op basis van artikel 8 lid 4 onder e van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024.
 
-Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in paragraaf 2.5.2.
+Inzake de feitelijke levering van gedeclareerde zorg moet de accountant vaststellen dat sprake is van zodanige interne waarborging binnen de organisatie van de zorgaanbieder, dat deze een redelijke mate van zekerheid biedt dat de zorg is geleverd en past binnen de indicatiestelling en binnen de kaders die zijn uitgewerkt in [paragraaf 2.5.2](https://wetten.overheid.nl/BWBR0049477).
 
 De zorginhoudelijke toetsing van de uitgevoerde zorgactiviteiten valt buiten de scope van de controle. Dit zou problemen met de privacywetgeving kunnen opleveren, bovendien bezit de accountant geen zorginhoudelijke kennis. De accountant richt zich primair op de administratieve organisatie en interne beheersing rondom zorgregistratie en -declaratie. Het uitgangspunt van de controle door de accountant is derhalve niet een controle op dossier- of cliëntniveau.
 
@@ -150,6 +229,8 @@ Van de accountant wordt echter wel verwacht dat hij tijdens zijn controle verkre
 ### 2.5.2.1. Modulaire zorg (mpt)
 
 Voor wat betreft de feitelijke levering van gedeclareerde zorg in het kader van modulaire zorg richt de accountant zich op opzet, bestaan en, indien de accountant dit eventueel wenselijk acht, werking van de AO/IC rondom zorgplanning, -registratie en -declaratie bij de zorgaanbieder. Dit kan bijvoorbeeld door middel van een onderzoek van de planning en urenregistratie.
+
+Zorgplan/zorgplanning is realisatie
 
 Steeds meer zorgaanbieders passen bij modulaire zorg een vorm van registratie toe waarbij het uitgangspunt is dat de planning de basis is voor de werkelijk geleverde en gedeclareerde modulaire zorg. Daarbij wordt het zorgplan in het algemeen uitgewerkt in een ‘arrangement’, waarbij een vorm van kwantificering plaatsvindt naar aard en hoeveelheid te leveren zorg, de periode en de frequentie. Voorwaarde voor de declaratie van modulaire zorg volgens dit principe is dat in het zorgplan en/of de zorgplanning vermeld staat welke zorg door een zorgaanbieder wanneer geleverd wordt aan de cliënt.
 
@@ -189,17 +270,45 @@ Indien meerdere Wlz-uitvoerders in de consolidatie worden betrokken, gelden bij 
 
 De bedragen zijn gebaseerd op de verdeling van de contracteerruimte van het budgettair kader voor 2023 zoals gepubliceerd in Beleidsregel budgettair kader Wlz 2023 (BR/REG-23115c)3Dit betreft de laatst definitief vastgestelde kaders binnen de Wlz. Deze bieden voldoende basis voor de bepaling van de maximale productie per Wlz-uitvoerder omdat de kaders 2024 ten opzichte van 2023 zijn gestegen. De daadwerkelijke schade Wlz 2024 voor de Wlz-uitvoerder zal daarom hoger zijn dan de definitieve kaders voor 2023. en afgerond naar beneden. Dit leidt tot de volgende bedragen per Wlz-uitvoerder:
 
-Bovenstaande is uitgewerkt middels een (fictief) voorbeeld. Zorgaanbieder A heeft NZa-nummers bij CZ, Zorg & Zekerheid en Menzis. De totale productie van deze zorgaanbieder over alle NZa-nummers tezamen bedraagt € 950.000.000. Het maximale bedrag voor de productie bij Wlz-uitvoerder Zorg & Zekerheid (het laagste bedrag van de genoemde Wlz-uitvoerders) bedraagt € 1.300.000.000. Dit betekent dat de materialiteit in dit geval gebaseerd wordt op € 950.000.000. Het is hierbij niet relevant wat de productie per NZa-nummer of Wlz-uitvoerder zou zijn, de accountant bepaalt de materialiteit op het maximale bedrag van de financieel kleinste Wlz-uitvoerder. Als de geconsolideerde totale productie van deze zorgaanbieder over alle NZa-nummers tezamen € 1.350.000.000 zou bedragen, dan wordt de materialiteit gebaseerd op € 1.300.000.000. Bij de uitvoering van de werkzaamheden hanteert de accountant de volgende percentages voor het rapporteren van afwijkingen op het niveau per NZa-nummer:
+| Naam Wlz-uitvoerder | Maximaalbedrag productie 2024 |
+| --- | --- |
+| CZ | € 6.000.000.000 |
+| DSW | € 765.000.000 |
+| Menzis | € 4.000.000.000 |
+| Salland | € 385.000.000 |
+| VGZ | € 6.100.000.000 |
+| Zilveren Kruis | € 10.400.000.000 |
+| Zorg & Zekerheid | € 1.300.000.000 |
+
+Bovenstaande is uitgewerkt middels een (fictief) voorbeeld. Zorgaanbieder A heeft NZa-nummers bij CZ, Zorg & Zekerheid en Menzis. De totale productie van deze zorgaanbieder over alle NZa-nummers tezamen bedraagt € 950.000.000. Het maximale bedrag voor de productie bij Wlz-uitvoerder Zorg & Zekerheid (het laagste bedrag van de genoemde Wlz-uitvoerders) bedraagt € 1.300.000.000. Dit betekent dat de materialiteit in dit geval gebaseerd wordt op € 950.000.000. Het is hierbij niet relevant wat de productie per NZa-nummer of Wlz-uitvoerder zou zijn, de accountant bepaalt de materialiteit op het maximale bedrag van de financieel kleinste Wlz-uitvoerder. Als de geconsolideerde totale productie van deze zorgaanbieder over alle NZa-nummers tezamen € 1.350.000.000 zou bedragen, dan wordt de materialiteit gebaseerd op € 1.300.000.000. Bij de uitvoering van de werkzaamheden hanteert de accountant de volgende percentages voor het rapporteren van afwijkingen op het niveau per NZa-nummer:
+
+- – Fouten: groter dan 1%;
+
+- – Onzekerheden: groter dan 3%.
 
 Hierbij geldt dat deze tolerantie niet behoeft te worden gebruikt bij het plannen en uitvoeren van de controle. Deze tolerantie dient enkel te worden gehanteerd bij de constatering van fouten en/of onzekerheden tijdens de uitvoering van de controlewerkzaamheden.
 
 Bij het constateren van fouten en onzekerheden boven de hierboven genoemde grenzen, gelden de volgende uitgangspunten en varianten:
 
-De accountant weegt het totaal van ongecorrigeerde fouten en onzekerheden in overeenstemming met paragraaf 2.6.3.
+- A. Als de accountant in de consolidatie op totaalniveau afwijkingen heeft geconstateerd, die geen materieel effect (kunnen) hebben op de totaalbedragen Wlz op consolidatieniveau, maar wel groter zijn dan de rapporteringstolerantie voor de desbetreffende nacalculatie-opgave per NZa-nummer, vraagt hij de zorgaanbieder deze te corrigeren, dan wel toe te lichten in het consolidatie-overzicht. In deze toelichting geeft de zorgaanbieder gemotiveerd aan wat de verwachte totale omvang van fouten en onzekerheden is op de nacalculatie-opgave per NZa-nummer. Geconstateerde fouten en onzekerheden dienen door de zorgaanbieder derhalve, afhankelijk van de aard van de fout of onzekerheid, geëxtrapoleerd te worden voor de nacalculatie-opgave per NZa-nummer. De basis voor deze extrapolatie licht de zorgaanbieder toe.
+
+- B. Indien de zorgaanbieder deze fouten niet corrigeert, dan wel de onzekerheden niet toelicht, brengt de accountant een rapport van bevindingen uit bij de desbetreffende nacalculatie-opgave aan het desbetreffende zorgkantoor. In dit rapport staan de fouten en onzekerheden toegelicht, die niet zijn gecorrigeerd of niet zijn toegelicht door de zorgaanbieder. Hierbij geldt de volgende procedure: Voor een model rapport van bevindingen, verwijzen wij naar [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049477&bijlage=2&z=2024-03-19&g=2024-03-19).
+
+   - – De zorgaanbieder geeft dit aan in de desbetreffende nacalculatie-opgave per NZa-nummer;
+
+   - – De accountant maakt hiervan melding in een toelichtende paragraaf in zijn controle verklaring bij de consolidatie.
+
+De accountant weegt het totaal van ongecorrigeerde fouten en onzekerheden in overeenstemming met [paragraaf 2.6.3](https://wetten.overheid.nl/BWBR0049477).
 
 ### 2.6.3. Strekking van het oordeel in de controleverklaring
 
 Voor de strekking van het oordeel in de controleverklaring gelden de toleranties zoals vermeld in tabel 3. Indien de accountant zowel fouten in de nacalculatie-opgave 2024 als onzekerheden in de controle aantreft dan weegt hij deze fouten en onzekerheden bij zijn oordeelsvorming altijd in onderlinge samenhang.
+
+| Oordeel |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Goedkeurend | Beperking | Oordeelonthouding | Afkeurend |
+| Fouten in het ondertekeningsdocument 2024 (dan wel consolidatieoverzicht) | ≤ 1% | >1% en ≤ 3% | n.v.t. | > 3% |
+| Onzekerheden in de controle 2024 | ≤3% | >3% en ≤ 10% | > 10% | n.v.t. |
 
 Er is sprake van één oordeel.
 
@@ -213,15 +322,23 @@ De accountant rapporteert de uit zijn onderzoek geconstateerde onjuistheden aan 
 
 Alle fouten moeten door of namens het bestuur van de zorgaanbieder op prestatieniveau in de financiële- en zorgadministratie van de zorgaanbieder worden gecorrigeerd en onzekerheden in de nacalculatie-opgave 2024 moeten nader worden onderzocht. Correcties hebben gevolgen voor het bedrag ‘Totaal financieel gerealiseerde productie over 2024’ en/of het bedrag ‘Totaal financiële realisatie overige onderdelen over 2024’.
 
+Fouten
+
 Van een fout in de nacalculatie-opgave 2024 is sprake wanneer gebleken is dat – een gedeelte van – een post niet in overeenstemming is met de toetsingscriteria.
 
 Fouten worden in absolute zin opgevat. Saldering van fouten is niet toegestaan.
 
+Onzekerheden in de controle/in de nacalculatie-opgave 2024
+
 Een onzekerheid in de controle/in de nacalculatie-opgave 2024 doet zich voor als gebleken is dat onvoldoende (controle-)informatie beschikbaar is om een – gedeelte van een – post als goed of fout aan te merken.
+
+Zorgaanbieder
 
 De zorgaanbieder dient alle geconstateerde fouten te corrigeren in zijn financiële- en zorgadministratie. Dit geldt dus ook voor fouten die onder de nauwkeurigheidstolerantie blijven. Niet gecorrigeerde fouten op prestatieniveau dienen in de toelichting bij de nacalculatie-opgave 2024 door de zorgaanbieder gekwantificeerd te zijn opgenomen. De accountant stelt vervolgens vast of hierover in zijn controleverklaring een paragraaf ter benadrukking van deze aangelegenheid moet worden opgenomen.
 
-Fouten en onzekerheden in de nacalculatie-opgave 2024 die de zorgaanbieder om een bepaalde reden objectief niet **kan** oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2024 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van de aanvaardbare kosten.
+Fouten en onzekerheden in de nacalculatie-opgave 2024 die de zorgaanbieder om een bepaalde reden objectief niet *kan* oplossen, vermeldt de zorgaanbieder in de toelichting bij de nacalculatie-opgave 2024 met vermelding van de objectieve verhindering om te kunnen corrigeren. Deze toelichting wordt door de NZa betrokken bij de vaststelling van de aanvaardbare kosten.
+
+Accountant
 
 De accountant dient na te gaan of de zorgaanbieder de geconstateerde fouten heeft gecorrigeerd en met de onzekerheden in de nacalculatie-opgave 2024 is omgegaan zoals hierboven is vermeld. De accountant neemt de niet gecorrigeerde fouten en onzekerheden mee in zijn oordeelsvorming in de controleverklaring.
 
@@ -233,66 +350,12 @@ Indien sprake is van een consolidatie-overzicht bij een nacalculatie-opgave, gel
 
 De accountant dient op grond van Standaard 720.14 de andere informatie te lezen en daarbij te overwegen of er een inconsistentie van materieel belang is tussen de andere informatie en:
 
+- 1. het ondertekeningsdocument;
+
+- 2. de kennis van de accountant verkregen tijdens de controle.
+
 Daarnaast geldt voor de ‘Vragenlijst controleprotocol’ dat de accountant uitsluitend vaststelt of er een interne procedure aanwezig is (met indien nodig een specifieke toelichting hierop), gericht op de levering van passende zorg binnen het kader van artikel 9 (Administratieve organisatie en interne controle Wlz-zorgaanbieders) van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2024. Van de accountant wordt hierover geen inhoudelijk oordeel verwacht, noch een oordeel over de toereikendheid van de specifieke toelichting of interne procedure.
 
 Indien de accountant constateert dat er een materiële inconsistentie en/of een materiële afwijking in de andere informatie lijkt te bestaan, handelt de accountant overeenkomstig Standaard 720.16.
 
 Indien de accountant concludeert dat sprake is van een materiële afwijking in de andere informatie, handelt de accountant overeenkomstig Standaard 720.17 tot en met 720.20.
-
-## Bijlage 1. Voorbeeltekst van de controleverklaring bij de nacalculatie-opgave 2024
-
-Dit betreft een rapportage conform NV COS 805 Bijzondere overwegingen – controles van enkel financieel overzicht en controles van specifieke elementen, rekeningen of posten van een financieel overzicht. In dit protocol beschrijven wij enkel de specifieke aandachtspunten ten aanzien van de generieke NBA-template, zoals deze ook te vinden is op [https://www.nba.nl/tools-en-voorbeelden/voorbeeldteksten-en-verklaringen/](https://www.nba.nl/tools-en-voorbeelden/voorbeeldteksten-en-verklaringen/).
-
-De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn. Voor de teksten van deze verklaringen wordt verwezen naar de desbetreffende NBA voorbeeldteksten.
-
-In de paragraaf ‘Ons oordeel’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Naar ons oordeel is het in het ondertekeningsdocument [**indien geen sprake is van consolidatie]******OF**** consolidatieoverzicht [**indien sprake is van consolidatie]**opgenomen bedrag van ‘(Geconsolideerde) Totaal financieel gerealiseerde productie over 2024’ ten bedrage van € (bedrag) [indien van toepassing: en het in het ondertekeningsdocument/consolidatieoverzicht opgenomen bedrag ‘(Geconsolideerde) Totaal financiële realisatie overige onderdelen over 2024 van € (bedrag) van (**naam Wlz-zorgaanbieder)**(hierna: gerealiseerde bedragen) in alle van materieel belang zijnde aspecten in overeenstemming met de geldende beleidsregels en regelingen van de NZa zoals opgesomd en toegelicht in paragraaf 3.3 (tabel 1) van het Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders (versie 1, maart 2024).
-
-In de paragraaf ‘De basis voor ons oordeel’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders (versie 1, maart 2024) vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van de gerealiseerde bedragen’.
-
-In de paragraaf ‘Andere informatie’ moet ten minste de volgende specifieke alinea worden opgenomen.
-
-De nacalculatie-opgave 2024 omvat naast de gerealiseerde bedragen in het ondertekeningsdocument/ consolidatie-overzicht ook andere informatie, die bestaat uit:
-
-- –. (indien sprake is van consolidatie): door de zorgaanbieder ondertekende Ondertekeningsdocumenten Langdurige zorg nacalculatie 2024;
-
-- –. Ingevulde nacalculatieformulieren op NZa-nummer.
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie met de gerealiseerde bedragen in het ondertekeningsdocument verenigbaar is en geen materiële afwijkingen bevat.
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle of anderszins, overwogen of de andere informatie materiële afwijkingen bevat.
-
-Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse Standaard 720. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij de realisatiebedragen.
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie.
-
-In de paragraaf ‘Beperking in het gebruik en de verspreidingskring’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Het ondertekeningsdocument/consolidatie-overzicht 2024 is opgesteld voor het zorgkantoor/de Wlz-uitvoerder en de NZa met als doel het bestuur van (**naam Wlz-zorgaanbieder**) in staat te stellen te voldoen aan de beleidsregels en regelingen van de NZa. Hierdoor is het ondertekeningsdocument/consolidatie-overzicht 2024 mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor het bestuur van (**naam Wlz-zorgaanbieder**), het zorgkantoor/de Wlz-uitvoerder en de NZa en dient niet te worden verspreid aan of te worden gebruikt door anderen.
-
-## Bijlage 2. Model rapport van bevindingen
-
-In deze bijlage is de door de Nederlandse Beroepsorganisatie van Accountants (NBA) vastgestelde voorbeeldtekst van het rapport van feitelijke bevindingen geactualiseerd voor de bevindingen bij het consolidatie-overzicht bij de nacalculatie-opgave, zoals benoemd in paragraaf 2.6.2.
-
-Aan: opdrachtgever
-
-Wij hebben op **[datum]** een **[vermeld type controleverklaring]** controleverklaring afgegeven bij het consolidatie-overzicht Langdurige zorg nacalculatie 2024 van **(naam zorgaanbieder)** te **(statutaire vestigingsplaats)**. Overeenkomstig het Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders (versie 1, maart 2024), dienen wij naast de controleverklaring een afzonderlijke rapportage uit te brengen over de tijdens onze controle vastgestelde, niet-gecorrigeerde of niet-toegelichte afwijkingen die de rapportagetolerantie voor de financiële productieverantwoording(en) per NZa-nummer overschrijden. Met dit rapport wordt uitvoering gegeven aan deze verplichting. De overeengekomen werkzaamheden zijn door de Nza vastgelegd in het Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders (versie 1, maart 2024).
-
-Voor de aard en reikwijdte van onze werkzaamheden verwijzen wij u naar bovengenoemde controleverklaring. Deze rapportage betreft uitsluitend de niet-gecorrigeerde of niet-toegelichte afwijkingen in het consolidatie-overzicht Langdurige zorg nacalculatie 2024 voor NZa-nummer (**NZa-nummer)**. Wij hebben hiervoor geen aparte werkzaamheden verricht. Dit betekent dat deze rapportage geen volledig beeld hoeft te geven van alle afwijkingen. Ook geven wij geen zekerheid over de genoemde productieverantwoording voor NZa-nummer (**NZa-nummer).**
-
-Tijdens de controle zijn de volgende afwijkingen geconstateerd die niet zijn gecorrigeerd of niet zijn toegelicht:
-
-- 1. ...
-
-- 2. ...
-
-Bij het opstellen van deze rapportage is rekening gehouden met de verwachtingen van de beoogde gebruikers. Daarom is deze rapportage alleen bestemd voor (**naam zorgaanbieder**), Wlz-uitvoerder (**naam Wlz-uitvoerder, waarop het betreffende NZa-nummer betrekking heeft**), en de NZa. U kunt deze rapportage niet aan anderen afgeven zonder onze toestemming, tenzij wettelijke voorschriften anders bepalen.
-
-Plaats en datum,
-
-**... (naam accountantspraktijk)**
-
-**... (naam accountant)**

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 36, eerste lid, van de Algemene nabestaandenwet (Controlevoorschriften Anw)"
+citeertitel: "Controlevoorschriften Anw"
 identifier: "BWBR0048935"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-24"
-last_updated: "2023-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048935"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "16929493"
-version_id: "29753492"
-internal_id: "C42642671"
-label_id: "16841044"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048935/2023-11-24/0"
-intitule_bron: "Stcrt.2023-31938"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-13"
-intitule_published: "2023-11-22"
-intitule_in_force: "2023-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31938"
-original_signed_date: "2023-11-13"
-original_published_date: "2023-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31938"
-entry_into_force_date: "2023-11-24"
-jci_1_3: "jci1.3:c:BWBR0048935&z=2023-11-24&g=2023-11-24"
-jci_1_0: "1.0:c:BWBR0048935&g=2023-11-24"
-citeertitel_status: "officieel"
-short_title: "Controlevoorschriften Anw"
-signed_date: "2023-11-13"
-entry_into_force: "2023-11-24"
+publicatiedatum: 2023-11-24
+laatste_update: 2023-11-24
+status: geldig
+toestand: 2023-11-24
+bron: "https://wetten.overheid.nl/BWBR0048935"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 36, eerste lid, van de Algemene nabestaandenwet (Controlevoorschriften Anw)
-
-Gelet op [artikel 36, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=36);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Anw:** de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+- a. *de Anw:* de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
 
-- b. **SVB:** de Sociale verzekeringsbank;
+- b. *SVB:* de Sociale verzekeringsbank;
 
-- c. **uitkering:** een nabestaandenuitkering of wezenuitkering als bedoeld in [Hoofdstuk 3, Afdeling I, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&afdeling=I);
+- c. *uitkering:* een nabestaandenuitkering of wezenuitkering als bedoeld in [Hoofdstuk 3, Afdeling I, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&afdeling=I);
 
-- d. **de uitkeringsgerechtigde:** degene aan wie een uitkering is toegekend;
+- d. *de uitkeringsgerechtigde:* degene aan wie een uitkering is toegekend;
 
-- e. **nabestaande:** degene die een nabestaandenuitkering ontvangt dan wel voor een zodanige uitkering in aanmerking wenst te komen;
+- e. *nabestaande:* degene die een nabestaandenuitkering ontvangt dan wel voor een zodanige uitkering in aanmerking wenst te komen;
 
-- f. **kind:** het kind van de nabestaande in de zin van [artikel 5 Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=5), voorzover dit kind ongehuwd is, jonger is dan 18 jaar en niet tot het huishouden van een ander dan de nabestaande behoort;
+- f. *kind:* het kind van de nabestaande in de zin van [artikel 5 Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=5), voorzover dit kind ongehuwd is, jonger is dan 18 jaar en niet tot het huishouden van een ander dan de nabestaande behoort;
 
-- g. **wees:** degene aan wie een wezenuitkering is toegekend, die een zodanige uitkering heeft aangevraagd dan wel voor wie een zodanige uitkering is aangevraagd.
+- g. *wees:* degene aan wie een wezenuitkering is toegekend, die een zodanige uitkering heeft aangevraagd dan wel voor wie een zodanige uitkering is aangevraagd.
 
 ##### Artikel 2
 
@@ -128,7 +102,7 @@ Als de wees 16 jaar of ouder is en onderwijs volgt, zorgt de in [artikel 2](http
 
 ##### Artikel 10
 
-Het [Besluit van de Sociale verzekeringsbank van 26 april 1996 houdende controlevoorschriften als bedoeld in artikel 36, eerste lid van de Algemene nabestaandewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008019), Stcrt. 1996, 141, laatstelijk gewijzigd door Stcrt. 2008, 112 wordt ingetrokken.
+Het [Besluit van de Sociale verzekeringsbank van 26 april 1996 houdende controlevoorschriften als bedoeld in artikel 36, eerste lid van de Algemene nabestaandewet](https://wetten.overheid.nl/jci1.3:c:BWBR0008019), Stcrt. 1996, 141, laatstelijk gewijzigd door Stcrt. 2008, 112 wordt ingetrokken.
 
 ##### Artikel 11
 
@@ -137,5 +111,3 @@ Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van 
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Controlevoorschriften Anw.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

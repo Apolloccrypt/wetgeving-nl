@@ -1,44 +1,18 @@
 ---
 title: "Verstrekkings- en gebruikersvoorwaarden voor nationale aanvragers en ontvangers van informatie via het Europees voertuig- en rijbewijs-informatiesysteem (EUCARIS) 2023"
+citeertitel: "Verstrekkings- en gebruikersvoorwaarden EUCARIS 2023"
 identifier: "BWBR0049083"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049083"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "16964083"
-version_id: "29820532"
-internal_id: "C42737051"
-label_id: "16874674"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049083/2024-01-01/0"
-intitule_bron: "Stcrt.2023-34145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-21"
-intitule_published: "2023-12-13"
-intitule_in_force: "2023-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-34145"
-original_signed_date: "2023-11-21"
-original_published_date: "2023-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-34145"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049083&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049083&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Verstrekkings- en gebruikersvoorwaarden EUCARIS 2023"
-signed_date: "2023-11-21"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049083"
+opgehaald: 2026-09-05
 ---
+
 # Verstrekkings- en gebruikersvoorwaarden voor nationale aanvragers en ontvangers van informatie via het Europees voertuig- en rijbewijs-informatiesysteem (EUCARIS) 2023
-
-Gelet op de, door de General Assembly van EUCARIS als bedoeld in artikel 19 van het Verdrag in 2018 besproken en op de jaarlijkse vergadering in 2019 door EReg vastgestelde, principes voor internationale gegevensuitwisseling, treedt de Dienst Wegverkeer (RDW) voor de uitwisseling van voertuig- en rijbewijsgegevens via het systeem EUCARIS als nationaal contactpunt op van Nederland. Uit dien hoofde is de RDW belast met het aansluiten van nationaal bevoegde autoriteiten uit Nederland op EUCARIS en het uitwisselen van informatie met andere nationale contactpunten en nationaal bevoegde autoriteiten uit Nederland op basis van Europese verdragen, richtlijnen of nationale wetgeving.
-
-Aanvragen om informatie van Nederlandse nationaal bevoegde autoriteiten en verstrekkingen van informatie via EUCARIS aan Nederlandse nationaal bevoegde autoriteiten, vinden plaats conform de doeleinden en voorwaarden genoemd in de van toepassing zijnde internationale en nationale wet- en regelgeving en deze voorwaarden. Iedere Nederlandse nationaal bevoegde autoriteit die informatie aanvraagt via EUCARIS conformeert zich aan deze voorwaarden.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,37 +20,37 @@ Aanvragen om informatie van Nederlandse nationaal bevoegde autoriteiten en verst
 
 In dit besluit wordt verstaan onder:
 
-- **Aanvraag om informatie:** het verzoek van een aanvrager om informatie uit het register van een buitenlandse partij.
+- *Aanvraag om informatie:* het verzoek van een aanvrager om informatie uit het register van een buitenlandse partij.
 
-- **Aanvrager:** de nationaal bevoegde autoriteit die RDW verzoekt om informatie en/of gegevens via EUCARIS ter beschikking te stellen.
+- *Aanvrager:* de nationaal bevoegde autoriteit die RDW verzoekt om informatie en/of gegevens via EUCARIS ter beschikking te stellen.
 
-- **Algemene verordening gegevensbescherming of AVG:** de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046).
+- *Algemene verordening gegevensbescherming of AVG:* de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG.
 
-- **Betrokkene:** de natuurlijke persoon of rechtspersoon over wie de aanvrager informatie opvraagt.
+- *Betrokkene:* de natuurlijke persoon of rechtspersoon over wie de aanvrager informatie opvraagt.
 
-- **Derde:** niet-overheidsinstelling, die namens een nationaal bevoegde autoriteit de informatie, die via EUCARIS is uitgewisseld, mag gebruiken.
+- *Derde:* niet-overheidsinstelling, die namens een nationaal bevoegde autoriteit de informatie, die via EUCARIS is uitgewisseld, mag gebruiken.
 
-- **EUCARIS:** European CAR and driving licence Information System, een internationale verdragsorganisatie en tevens informatie-uitwisselingsplatform voor mobiliteit en transportgerelateerde informatie. Het platform wordt gebruikt als gesloten systeem voor verschillende toepassingen. Informatie-uitwisseling via de betreffende services is gebaseerd op verschillende rechtsgrondslagen. Sommige toepassingen zijn gebaseerd op het wettelijk kader van de EU, andere zijn gebaseerd op bilaterale of multilaterale overeenkomsten en verdragen.
+- *EUCARIS:* European CAR and driving licence Information System, een internationale verdragsorganisatie en tevens informatie-uitwisselingsplatform voor mobiliteit en transportgerelateerde informatie. Het platform wordt gebruikt als gesloten systeem voor verschillende toepassingen. Informatie-uitwisseling via de betreffende services is gebaseerd op verschillende rechtsgrondslagen. Sommige toepassingen zijn gebaseerd op het wettelijk kader van de EU, andere zijn gebaseerd op bilaterale of multilaterale overeenkomsten en verdragen.
 
-- **Informatie:** de gegevens die via EUCARIS uit de respectievelijke nationale registers van een partij kunnen worden opgevraagd.
+- *Informatie:* de gegevens die via EUCARIS uit de respectievelijke nationale registers van een partij kunnen worden opgevraagd.
 
-- **Nationaal bevoegde autoriteit:** overheidsinstelling die bevoegd is de informatie, die via EUCARIS is uitgewisseld, te gebruiken.
+- *Nationaal bevoegde autoriteit:* overheidsinstelling die bevoegd is de informatie, die via EUCARIS is uitgewisseld, te gebruiken.
 
-- **Nationaal contactpunt (NCP):** de instantie die voor een partij als nationaal contactpunt optreedt voor het verwerken van inkomende en uitgaande aanvragen om informatie. RDW treedt voor Nederland op als nationaal contactpunt.
+- *Nationaal contactpunt (NCP):* de instantie die voor een partij als nationaal contactpunt optreedt voor het verwerken van inkomende en uitgaande aanvragen om informatie. RDW treedt voor Nederland op als nationaal contactpunt.
 
-- **Nationale voorschriften:** alle wettelijke en administratieve voorschriften van een partij ten aanzien van de betreffende uit te wisselen informatie via EUCARIS.
+- *Nationale voorschriften:* alle wettelijke en administratieve voorschriften van een partij ten aanzien van de betreffende uit te wisselen informatie via EUCARIS.
 
-- **Ontvanger:** de nationaal bevoegde autoriteit waaraan, door RDW, gegevens uit het register van een partij beschikbaar worden gesteld.
+- *Ontvanger:* de nationaal bevoegde autoriteit waaraan, door RDW, gegevens uit het register van een partij beschikbaar worden gesteld.
 
-- **Partij:** een land dat is aangesloten op EUCARIS.
+- *Partij:* een land dat is aangesloten op EUCARIS.
 
-- **Persoonsgegevens:** alle informatie over een bepaalde of identificeerbare persoon als bedoeld in artikel 4, eerste lid van de Algemene Verordening Gegevensbescherming (AVG).
+- *Persoonsgegevens:* alle informatie over een bepaalde of identificeerbare persoon als bedoeld in artikel 4, eerste lid van de Algemene Verordening Gegevensbescherming (AVG).
 
-- **RDW:** De Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *RDW:* De Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **Register:** het register of de registers waarin een partij gegevens bijhoudt en dat/die door die partij wordt/worden ontsloten ten behoeve van de uitwisseling van informatie via EUCARIS.
+- *Register:* het register of de registers waarin een partij gegevens bijhoudt en dat/die door die partij wordt/worden ontsloten ten behoeve van de uitwisseling van informatie via EUCARIS.
 
-- **Verdrag:** het Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (EUCARIS), Luxemburg, 29-06-2000.
+- *Verdrag:* het Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (EUCARIS), Luxemburg, 29-06-2000.
 
 ##### Artikel 2. Werkingssfeer
 
@@ -116,7 +90,7 @@ Een aanvraag om informatie en een verstrekking van informatie moet een grondslag
 
 3. Gegeven de feitelijke technische inrichting, mag het gerealiseerde beveiligingsniveau in de gehele keten RDW, ontvanger en derden nooit lager worden dan indien de ontvanger zonder derden zou werken. Dit geldt voor de gehanteerde beveiligingsmiddelen en de beveiliging van de verbindingen en opgeslagen gegevens.
 
-4. De ontvanger dient met derden afspraken te maken dat ook die derden hun medewerking verlenen bij de signaleringsfunctie vanuit RDW, zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049083&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01).
+4. De ontvanger dient met derden afspraken te maken dat ook die derden hun medewerking verlenen bij de signaleringsfunctie vanuit RDW, zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049083&hoofdstuk=2&artikel=8&z=2024-01-01&g=2024-01-01).
 
 5. Van RDW via EUCARIS verkregen gevoelige gegevens mogen nooit – dus ook niet bij het inschakelen van derden (inclusief cloudleveranciers) – buiten EU-landen getransporteerd en/of opgeslagen worden.
 
@@ -158,7 +132,7 @@ RDW is rechthebbende op alle intellectuele eigendomsrechten met betrekking tot d
 
 ##### Artikel 11. Certificaat
 
-Naast de hiervoor genoemde algemene voorwaarden (Hoofdstuk 3) zijn voor sommige nationale bevoegde autoriteiten specifieke voorwaarden van toepassing, waarin de activiteiten en verantwoordelijkheden zijn beschreven die samenhangen met het afhandelen van het certificaat. Deze specifieke aansluitvoorwaarden maken deel uit van deze voorwaarden en zijn aan de betreffende aanvragers bekend gemaakt (zie bijlage Beveiligde Toegang tot EUCARIS).
+Naast de hiervoor genoemde algemene voorwaarden (Hoofdstuk 3) zijn voor sommige nationale bevoegde autoriteiten specifieke voorwaarden van toepassing, waarin de activiteiten en verantwoordelijkheden zijn beschreven die samenhangen met het afhandelen van het certificaat. Deze specifieke aansluitvoorwaarden maken deel uit van deze voorwaarden en zijn aan de betreffende aanvragers bekend gemaakt (zie [bijlage](https://wetten.overheid.nl/BWBR0049083) Beveiligde Toegang tot EUCARIS).
 
 ##### Artikel 12. Beveiligingsvoorwaarden
 
@@ -174,58 +148,20 @@ De aanvrager moet voldoen aan de volgende beveiligingsvoorwaarden:
 
 - e. De aanvrager dient bij (vermeend) misbruik of compromittering van beveiligingsmiddelen die toegang geven tot EUCARIS alle mogelijke maatregelen te nemen deze beveiligingsmiddelen buiten bedrijf te stellen (blokkeren/intrekken) en RDW hiervan onverwijld op de hoogte te stellen via telefoonnummer 088008 7477.
 
-- f. Ter beveiliging van de via EUCARIS uitgewisselde informatie moeten aanvragers zich eerst digitaal identificeren. Hiervoor gelden de aanvullende eisen vermeld in de Bijlage (Beveiligde Toegang tot EUCARIS) van deze voorwaarden.
+- f. Ter beveiliging van de via EUCARIS uitgewisselde informatie moeten aanvragers zich eerst digitaal identificeren. Hiervoor gelden de aanvullende eisen vermeld in de [Bijlage](https://wetten.overheid.nl/BWBR0049083) (Beveiligde Toegang tot EUCARIS) van deze voorwaarden.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 13. Toepasselijk recht
 
-Op basis van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049083&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01) van deze voorwaarden genoemde wet- en regelgeving en deze voorwaarden gedane aanvragen om informatie en tot stand gekomen verstrekkingen, is het Nederlandse recht
+Op basis van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049083&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01) van deze voorwaarden genoemde wet- en regelgeving en deze voorwaarden gedane aanvragen om informatie en tot stand gekomen verstrekkingen, is het Nederlandse recht
 
 onverminderd van toepassing.
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2024.
+Deze regeling treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Verstrekkings- en gebruikersvoorwaarden EUCARIS 2023
-
-## Bijlage. Beveiligde toegang tot EUCARIS
-
-(Behorend bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049083&hoofdstuk=3&artikel=12&z=2024-01-01&g=2024-01-01) Beveiligingsvoorwaarden)
-
-Er zijn, afhankelijk van de af te nemen dienst, verschillende manieren om toegang tot EUCARIS te krijgen:
-
-- 1. Gebruik EUCARIS WebClient
-
-- a. Door in te loggen op de EUCARIS WebClient (gehost door de RDW), van waaruit een aanvraag om informatie kan worden verstuurd.
-
-- 2. Systeem koppeling (API)
-
-- a. Door een systeem van een Nederlandse autoriteit, van waaruit een aanvraag om informatie kan worden verstuurd, aan EUCARIS te koppelen.
-
-- b. Door een systeem van een derde partij, zijnde een niet-overheidspartij, van waaruit een aanvraag om informatie kan worden verstuurd, aan EUCARIS te koppelen.
-
-Om de met EUCARIS uitgewisselde informatie te beschermen, moeten aanvragers zich eerst digitaal identificeren.
-
-Momenteel kan een RDW-Cliëntcertificaat worden aangevraagd als authenticatiemiddel om in te loggen op de EUCARIS WebClient.
-
-Vanaf 2024 zal het gebruik van RDW-Cliëntcertificaten afgebouwd worden en vervangen door het gebruik van eHerkenning.
-
-Toegang tot de EUCARIS WebClient wordt aangevraagd bij de RDW Unit IV.
-
-Tot op heden leverde de RDW Unit IV een RDW-Cliëntcertificaat ter authenticatie, met de komst van eHerkenning moet de aanvrager eHerkenning aanvragen bij een erkende leverancier.
-
-Tot voor kort werden door RDW Unit IV RDW-Servicecertificaten uitgegeven voor het opzetten van een beveiligde verbinding over internet tussen deze systemen.
-
-Momenteel wordt het gebruik van RDW-Servicecertificaten afgebouwd en vervangen door het gebruik van PKIoverheid certificaten en informatie uitwisseling over het diginetwerk.
-
-Toegang met een systeem tot EUCARIS wordt aangevraagd bij de RDW Unit IV. Tevens moet de aanvrager een PKIoverheid certificaat aanvragen bij een erkende leverancier en een diginetwerk aansluiting bij Logius.
-
-Voor niet-overheidspartijen die een publieke taak uitvoeren gelden in principe dezelfde regels als voor Nederlandse autoriteiten (diginetwerk koppeling met PKIoverheid certificaat).
-
-Maar ook kan een derde partij vooralsnog aansluiten een door RDW Unit IV uitgegeven RDW-Servicecertificaat. In dit geval moeten ze voldoen aan de door Unit IV bepaalde voorwaarden voor het gebruik van RDW-Servicecertificaten.
-
-Dit besluit zal met een bijlage in de Staatscourant worden geplaatst.

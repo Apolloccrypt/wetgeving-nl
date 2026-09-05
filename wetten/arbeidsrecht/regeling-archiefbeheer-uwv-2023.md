@@ -1,43 +1,17 @@
 ---
 title: "Regeling archiefbeheer UWV 2023"
 identifier: "BWBR0049440"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-03-08"
-last_updated: "2024-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049440"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17044363"
-version_id: "29989942"
-internal_id: "C42996541"
-label_id: "16953984"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049440/2024-03-08/0"
-intitule_bron: "Stcrt.2024-6738"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-12"
-intitule_published: "2024-03-07"
-intitule_in_force: "2024-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6738"
-original_signed_date: "2023-12-12"
-original_published_date: "2024-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6738"
-entry_into_force_date: "2024-03-08"
-jci_1_3: "jci1.3:c:BWBR0049440&z=2024-03-08&g=2024-03-08"
-jci_1_0: "1.0:c:BWBR0049440&g=2024-03-08"
-citeertitel_status: "officieel"
-signed_date: "2023-12-12"
-entry_into_force: "2024-03-08"
+publicatiedatum: 2024-03-08
+laatste_update: 2024-03-08
+status: geldig
+toestand: 2024-03-08
+bron: "https://wetten.overheid.nl/BWBR0049440"
+opgehaald: 2026-09-05
 ---
+
 # Regeling archiefbeheer UWV 2023
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -45,65 +19,66 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **archiefbescheiden:** bescheiden (informatie objecten) als bedoeld in [artikel 1 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) en nader gespecificeerd in het ordeningsstructuurplan, inclusief de bijbehorende context en metadata die direct hieraan verbonden zijn;
+- a. *archiefbescheiden:* bescheiden (informatie objecten) als bedoeld in [artikel 1 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) en nader gespecificeerd in het ordeningsstructuurplan, inclusief de bijbehorende context en metadata die direct hieraan verbonden zijn;
 
-- b. **archiefbestanddeel:** Geheel van archiefbescheiden binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen;
+- b. *archiefbestanddeel:* Geheel van archiefbescheiden binnen een archief, bijeengebracht met een bepaald doel en in onderlinge samenhang te raadplegen;
 
-- c. **archiefomgeving:** ruimte, zowel fysiek als digitaal en alle daarbij behorende fysieke, elektronische en digitale (hulp)middelen, bestemd voor de goede, geordende en toegankelijke opslag van archiefbescheiden die hetzij op termijn worden vernietigd, hetzij op termijn worden overgebracht naar een archiefbewaarplaats;
+- c. *archiefomgeving:* ruimte, zowel fysiek als digitaal en alle daarbij behorende fysieke, elektronische en digitale (hulp)middelen, bestemd voor de goede, geordende en toegankelijke opslag van archiefbescheiden die hetzij op termijn worden vernietigd, hetzij op termijn worden overgebracht naar een archiefbewaarplaats;
 
-- d. **archiefstructuurplan:** overzicht van de gebruikte archiefstructuren waarmee de organisatie permanent overzicht en inzicht heeft waar welke archiefbescheiden zijn opgeslagen, en op welke wijze deze gevonden kunnen worden binnen het logisch archief;
+- d. *archiefstructuurplan:* overzicht van de gebruikte archiefstructuren waarmee de organisatie permanent overzicht en inzicht heeft waar welke archiefbescheiden zijn opgeslagen, en op welke wijze deze gevonden kunnen worden binnen het logisch archief;
 
-- e. **archivaris:** een door de zorgdrager belegde rol met de in de artikelen gedefinieerde taken en verantwoordelijkheden;
+- e. *archivaris:* een door de zorgdrager belegde rol met de in de artikelen gedefinieerde taken en verantwoordelijkheden;
 
-- f. **archief:** het geordende geheel van archiefbescheiden, ontvangen of opgemaakt door een instelling, organisatie, persoon of groep personen en die naar hun aard bestemd zijn om onder een persoon, bestuur of orgaan te berusten;
+- f. *archief:* het geordende geheel van archiefbescheiden, ontvangen of opgemaakt door een instelling, organisatie, persoon of groep personen en die naar hun aard bestemd zijn om onder een persoon, bestuur of orgaan te berusten;
 
-- g. **beheer van archiefbescheiden:** het treffen van maatregelen en het aanbrengen van voorzieningen, die nodig zijn om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede de wettelijke verplichtingen die er op rusten uit te voeren;
+- g. *beheer van archiefbescheiden:* het treffen van maatregelen en het aanbrengen van voorzieningen, die nodig zijn om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en te bewaren, alsmede de wettelijke verplichtingen die er op rusten uit te voeren;
 
-- h. **beheereenheid:** (onderdeel van) een afdeling waar taken van beheer van archiefbescheiden zijn neergelegd al dan niet toegespitst op een bepaald deel van het archief van UWV;
+- h. *beheereenheid:* (onderdeel van) een afdeling waar taken van beheer van archiefbescheiden zijn neergelegd al dan niet toegespitst op een bepaald deel van het archief van UWV;
 
-- i. **besturingsprogrammatuur:** Programmatuur die bestemd is ter besturing van een informatiesysteem;
+- i. *besturingsprogrammatuur:* Programmatuur die bestemd is ter besturing van een informatiesysteem;
 
-- j. **context:** informatie direct verbonden aan het archiefobject waarin het ontstaan, de betekenis en het gebruik ervan is vastgelegd;
+- j. *context:* informatie direct verbonden aan het archiefobject waarin het ontstaan, de betekenis en het gebruik ervan is vastgelegd;
 
-- k. **documentaire informatievoorziening:** het geheel van activiteiten dat ervoor zorgt dat een organisatie over de archiefbescheiden beschikt die noodzakelijk zijn voor het uitvoeren van haar wettelijke taken;
+- k. *documentaire informatievoorziening:* het geheel van activiteiten dat ervoor zorgt dat een organisatie over de archiefbescheiden beschikt die noodzakelijk zijn voor het uitvoeren van haar wettelijke taken;
 
-- l. **informatiesysteem:** systeem van documentatie, procedures, apparatuur en programmatuur met behulp waarvan archiefbescheiden kunnen worden vervaardigd, bewerkt, gearchiveerd, verzonden, ontvangen en geraadpleegd;
+- l. *informatiesysteem:* systeem van documentatie, procedures, apparatuur en programmatuur met behulp waarvan archiefbescheiden kunnen worden vervaardigd, bewerkt, gearchiveerd, verzonden, ontvangen en geraadpleegd;
 
-- m. **Inspectie Overheidsinformatie en Erfgoed:** het op basis van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ingestelde toezichthoudende orgaan dat bewaakt of de vorming en het beheer en behoud van de archieven van de centrale overheid goed plaatsvindt en daartoe onder meer de registratie van archiefbescheiden toetst en de toegankelijkheid, veilige en duurzame opslag, selectie en vernietiging alsmede de juiste en tijdige overbrenging van voor blijvende bewaring in aanmerking komende archiefbescheiden controleert.
+- m. *Inspectie Overheidsinformatie en Erfgoed:* het op basis van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ingestelde toezichthoudende orgaan dat bewaakt of de vorming en het beheer en behoud van de archieven van de centrale overheid goed plaatsvindt en daartoe onder meer de registratie van archiefbescheiden toetst en de toegankelijkheid, veilige en duurzame opslag, selectie en vernietiging alsmede de juiste en tijdige overbrenging van voor blijvende bewaring in aanmerking komende archiefbescheiden controleert.
 
-- n. **IV-verantwoordelijke:** een door de zorgdrager belegde rol met de in de artikelen gedefinieerde taken en verantwoordelijkheden;
+- n. *IV-verantwoordelijke:* een door de zorgdrager belegde rol met de in de artikelen gedefinieerde taken en verantwoordelijkheden;
 
-- o. **Nationaal Archief (of diens rechtsopvolger):** de wettelijk aangewezen archiefbewaarplaats waar de blijvend te bewaren archieven van UWV komen te berusten en waar de zorgplicht voor bewaring en openbaarmaking van die archieven na de overbrenging wordt overgenomen;
+- o. *Nationaal Archief (of diens rechtsopvolger):* de wettelijk aangewezen archiefbewaarplaats waar de blijvend te bewaren archieven van UWV komen te berusten en waar de zorgplicht voor bewaring en openbaarmaking van die archieven na de overbrenging wordt overgenomen;
 
-- p. **ordeningsplan:** een plan waarin de relaties worden gedefinieerd tussen de taken die UWV uitvoert, het wettelijk kader waarbinnen dit gebeurt, de producten die het UWV levert, de wijze waarop de administratieve organisatie daartoe is ingericht en de neerslag van het handelen in de vorm van verzamelingen van archiefbescheiden die hier het resultaat van is.
+- p. *ordeningsplan:* een plan waarin de relaties worden gedefinieerd tussen de taken die UWV uitvoert, het wettelijk kader waarbinnen dit gebeurt, de producten die het UWV levert, de wijze waarop de administratieve organisatie daartoe is ingericht en de neerslag van het handelen in de vorm van verzamelingen van archiefbescheiden die hier het resultaat van is.
 
-- q. **overbrenging:** het fysiek of digitaal overbrengen van archiefbescheiden die voor blijvende bewaring in aanmerking komen en die ouder zijn dan 20 jaar naar het Nationaal Archief;
+- q. *overbrenging:* het fysiek of digitaal overbrengen van archiefbescheiden die voor blijvende bewaring in aanmerking komen en die ouder zijn dan 20 jaar naar het Nationaal Archief;
 
-- r. **postregistratie:** het registreren van informatiedocumenten, het bijhouden van de verblijfplaats, de voortgang en de afdoening en de controle hierop;
+- r. *postregistratie:* het registreren van informatiedocumenten, het bijhouden van de verblijfplaats, de voortgang en de afdoening en de controle hierop;
 
-- s. **proceseigenaar:** eindverantwoordelijke van een UWV bedrijfsproces dat zelfstandig archiefbescheiden registreert, ordent en beheert, en daarbij gebruik maakt van informatiesystemen;
+- s. *proceseigenaar:* eindverantwoordelijke van een UWV bedrijfsproces dat zelfstandig archiefbescheiden registreert, ordent en beheert, en daarbij gebruik maakt van informatiesystemen;
 
-- t. **proces-verbaal van selectie en vernietiging:** een schriftelijke verklaring van de archivaris voor de zorgdrager over het verloop en de resultaten van het selectie- en het vernietigingsproces, zoals bedoeld in [artikel 8 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
+- t. *proces-verbaal van selectie en vernietiging:* een schriftelijke verklaring van de archivaris voor de zorgdrager over het verloop en de resultaten van het selectie- en het vernietigingsproces, zoals bedoeld in [artikel 8 van het Archiefbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
 
-- u. **Raad van Bestuur:** de Raad van Bestuur UWV als bedoeld in [artikel 1, onder letter f](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1). jo. [art. 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
+- u. *Raad van Bestuur:* de Raad van Bestuur UWV als bedoeld in [artikel 1, onder letter f](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1). jo. [art. 2 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2);
 
-- v. **selectielijst:** het concretiserende besluit van algemene strekking van UWV waarin voor UWV is omschreven welke archiefbescheiden voor blijvende bewaring in aanmerking komen dan wel op welke termijn ze vernietigd worden;
+- v. *selectielijst:* het concretiserende besluit van algemene strekking van UWV waarin voor UWV is omschreven welke archiefbescheiden voor blijvende bewaring in aanmerking komen dan wel op welke termijn ze vernietigd worden;
 
-- w. **SZW:** Ministerie van Sociale Zaken en Werkgelegenheid;
+- w. *SZW:* Ministerie van Sociale Zaken en Werkgelegenheid;
 
-- x. **toepassingsprogrammatuur:** de programmatuur die bestemd is voor de ondersteuning van de uitvoering van een werkproces;
+- x. *toepassingsprogrammatuur:* de programmatuur die bestemd is voor de ondersteuning van de uitvoering van een werkproces;
 
-- y. **UWV:** Uitvoeringsinstituut werknemersverzekeringen;
+- y. *UWV:* Uitvoeringsinstituut werknemersverzekeringen;
 
-- z. **vernietiging:** het dusdanig materieel of digitaal bewerken van een informatiedrager dat de daarop vastgelegde informatie niet meer te reconstrueren is;
+- z. *vernietiging:* het dusdanig materieel of digitaal bewerken van een informatiedrager dat de daarop vastgelegde informatie niet meer te reconstrueren is;
 
-- aa. **vervanging:** het proces van in de plaats stellen van reproducties van archiefbescheiden voor de originele archiefbescheiden, waarna laatstgenoemde bescheiden vernietigd worden;
+- aa. *vervanging:* het proces van in de plaats stellen van reproducties van archiefbescheiden voor de originele archiefbescheiden, waarna laatstgenoemde bescheiden vernietigd worden;
 
-- bb. **vervreemding:** het overdragen van de zorgplicht op de archiefbescheiden op een andere zorgdrager;
+- bb. *vervreemding:* het overdragen van de zorgplicht op de archiefbescheiden op een andere zorgdrager;
 
-- cc. **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+- cc. *Wet SUWI:*
+ [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
 
-- dd. **zorgdrager:** Raad van Bestuur van UWV die verantwoordelijk is voor het archiveren van de archiefbescheiden die qua aard bestemd zijn onder UWV te berusten, volgens de regels bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
+- dd. *zorgdrager:* Raad van Bestuur van UWV die verantwoordelijk is voor het archiveren van de archiefbescheiden die qua aard bestemd zijn onder UWV te berusten, volgens de regels bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376).
 
 ### Hoofdstuk 2. Reikwijdte
 
@@ -145,11 +120,11 @@ In deze regeling wordt verstaan onder:
 
 - f. het ingevolge de eisen van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) opstellen en onderhouden van:
 
-- 1e. de selectielijst, voor dat deel waarvoor UWV verantwoordelijk is,
+   - 1e. de selectielijst, voor dat deel waarvoor UWV verantwoordelijk is,
 
-- 2e. het ordeningsplan,
+   - 2e. het ordeningsplan,
 
-- 3e. het archiefstructuurplan.
+   - 3e. het archiefstructuurplan.
 
 - g. het ontwerpen en onderhouden van uitvoeringsregels die betrekking hebben op de taken die voortvloeien uit deze regeling;
 
@@ -163,11 +138,11 @@ In deze regeling wordt verstaan onder:
 
 - l. het maken van afspraken met de proceseigenaren van de informatiesystemen over de te volgen richtlijnen aangaande:
 
-- 1e. back- ups van data;
+   - 1e. back- ups van data;
 
-- 2e. de besturingsprogrammatuur;
+   - 2e. de besturingsprogrammatuur;
 
-- 3e. de toepassingsprogrammatuur en bijbehorende data die ingezet wordt bij het beheer van het archief en de archiefbescheiden van UWV.
+   - 3e. de toepassingsprogrammatuur en bijbehorende data die ingezet wordt bij het beheer van het archief en de archiefbescheiden van UWV.
 
 2. De zorgdrager acht de proceseigenaar verantwoordelijk voor de tijdige en juiste overdracht van de door hem ontvangen of opgemaakte archiefbescheiden aan een beheereenheid ter archivering. De proceseigenaar houdt daarbij rekening met de relevante archiefbeleidskaders.
 
@@ -201,23 +176,23 @@ In deze regeling wordt verstaan onder:
 
 1. Gelet op [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049440&hoofdstuk=3&artikel=4&z=2024-03-08&g=2024-03-08) stelt de archivaris kaders en richtlijnen en houdt deze actueel op de hieronder genoemde punten van het archiefbeheer.
 
-- a). Bij het opmaken en bewaren van archiefbescheiden wordt gebruik gemaakt van middelen, materialen en formaten volgens de standaarden voorzien bij of krachtens de [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) opdat de duurzaamheid daarmee gewaarborgd kan worden.
+- a) Bij het opmaken en bewaren van archiefbescheiden wordt gebruik gemaakt van middelen, materialen en formaten volgens de standaarden voorzien bij of krachtens de [Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748) opdat de duurzaamheid daarmee gewaarborgd kan worden.
 
-- b). Het opstellen en uitvoeren van conversies of migraties wordt tijdig ter hand genomen indien een gerede kans bestaat dat, als gevolg van wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur, niet langer voldaan kan worden aan de toegankelijke staat en authenticiteit van digitale archiefbescheiden.
+- b) Het opstellen en uitvoeren van conversies of migraties wordt tijdig ter hand genomen indien een gerede kans bestaat dat, als gevolg van wijziging van apparatuur, besturingsprogrammatuur of toepassingsprogrammatuur, niet langer voldaan kan worden aan de toegankelijke staat en authenticiteit van digitale archiefbescheiden.
 
-- c). Bij het bewaren, overdragen of vernietigen van archiefbescheiden worden de bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) gegeven regels betreffende selectie en vernietiging toegepast.
+- c) Bij het bewaren, overdragen of vernietigen van archiefbescheiden worden de bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) gegeven regels betreffende selectie en vernietiging toegepast.
 
-- d). De bij het beheer van het archief van UWV ingeschakelde medewerkers wordt de benodigde kennis bijgebracht en er worden voldoende instructies gegeven aangaande de kaders en richtlijnen van het vakgebied.
+- d) De bij het beheer van het archief van UWV ingeschakelde medewerkers wordt de benodigde kennis bijgebracht en er worden voldoende instructies gegeven aangaande de kaders en richtlijnen van het vakgebied.
 
-- e). Er zijn afspraken over de duurzaamheid van de (digitale) archiefsystemen en archiefbescheiden met de IV-verantwoordelijke die zorgt voor het technische- en functionele beheer en het technisch onderhoud van de bij UWV in gebruik zijnde informatiesystemen.
+- e) Er zijn afspraken over de duurzaamheid van de (digitale) archiefsystemen en archiefbescheiden met de IV-verantwoordelijke die zorgt voor het technische- en functionele beheer en het technisch onderhoud van de bij UWV in gebruik zijnde informatiesystemen.
 
-- f). Ten aanzien van archiefbescheiden zijn kenmerken zodanig vastgelegd, dat de archiefbescheiden met behulp daarvan op een tijdige en eenvoudige wijze kunnen worden teruggevonden.
+- f) Ten aanzien van archiefbescheiden zijn kenmerken zodanig vastgelegd, dat de archiefbescheiden met behulp daarvan op een tijdige en eenvoudige wijze kunnen worden teruggevonden.
 
-- g). Er zijn uitvoeringsregels voor de bewaring en ordening van archiefbescheiden volgens een doelmatige en doeltreffende systematiek.
+- g) Er zijn uitvoeringsregels voor de bewaring en ordening van archiefbescheiden volgens een doelmatige en doeltreffende systematiek.
 
-- h). Er zijn overzichten van al dan niet blijvend te bewaren archiefbestanddelen die worden ingericht volgens een ordeningsplan.
+- h) Er zijn overzichten van al dan niet blijvend te bewaren archiefbestanddelen die worden ingericht volgens een ordeningsplan.
 
-- i). De toegankelijke staat van archiefbescheiden is zodanig gewaarborgd dat elk van de archiefbescheiden binnen een redelijke termijn leesbaar of waarneembaar te maken is.
+- i) De toegankelijke staat van archiefbescheiden is zodanig gewaarborgd dat elk van de archiefbescheiden binnen een redelijke termijn leesbaar of waarneembaar te maken is.
 
 2. De zorgdrager stelt het door de archivaris opgestelde ordeningsplan vast. De archivaris is belast met het periodieke onderhoud van het ordeningsplan.
 
@@ -285,15 +260,15 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 1. De archivaris is belast met:
 
-- ○. het ontwerpen van de selectielijst;
+- ○ het ontwerpen van de selectielijst;
 
-- ○. het onderhouden van de selectielijst;
+- ○ het onderhouden van de selectielijst;
 
-- ○. het voorleggen van de selectielijst ter instemming aan de zorgdrager;
+- ○ het voorleggen van de selectielijst ter instemming aan de zorgdrager;
 
-- ○. het ter vaststelling aanbieden van de selectielijst aan de Minister van Onderwijs, Cultuur en Wetenschap;
+- ○ het ter vaststelling aanbieden van de selectielijst aan de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- ○. het toepassen en in gebruik stellen van de selectielijst.
+- ○ het toepassen en in gebruik stellen van de selectielijst.
 
 2. Bij het ontwerpen en wijzigen van een onderdeel van de selectielijst dat betrekking heeft op het taakveld van een proceseigenaar, betrekt de archivaris de vertegenwoordiger van de proceseigenaar alsmede een jurist van de afdeling BZ Juridische Zaken die ter zake deskundig is.
 
@@ -361,7 +336,7 @@ Bij het verhuizen van het archief van UWV worden de daarvoor door de zorgdrager 
 
 ##### Artikel 17. Intrekking eerdere regeling
 
-De [Regeling archiefbeheer UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017177) (Staatscourant 17 september 2004, nr. 179) wordt ingetrokken.
+De [Regeling archiefbeheer UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017177) (Staatscourant 17 september 2004, nr. 179) wordt ingetrokken.
 
 ##### Artikel 18. Inwerkingtreding
 
@@ -370,5 +345,3 @@ Dit besluit treedt in werking met ingang van de dag na de publicatie van de Staa
 ##### Artikel 19. Citeertitel
 
 Dit besluit kan worden aangehaald als: Regeling archiefbeheer UWV 2023.
-
-Dit besluit wordt met de toelichting in de Staatscourant gepubliceerd.

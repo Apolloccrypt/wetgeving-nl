@@ -2,47 +2,48 @@
 title: "Regeling financiële ondersteuning fracties Eerste Kamer 2023"
 identifier: "BWBR0049016"
 categorie: "Overig"
-publicatiedatum: 2026-07-08
-laatste_update: 2026-07-17
+soort: "reglement"
+publicatiedatum: 2024-01-01
+laatste_update: 2026-07-08
 status: geldig
+toestand: 2026-07-08
 bron: "https://wetten.overheid.nl/BWBR0049016"
+opgehaald: 2026-09-05
 ---
 
 # Regeling financiële ondersteuning fracties Eerste Kamer 2023
 
-Met verwijzing naar de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=21), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=132) en [140 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=140) wordt de volgende Regeling financiële ondersteuning fracties Eerste Kamer 2023 vastgesteld:
-
 ##### Artikel 1. (Definitiebepalingen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2. (Bestemming bijdrage)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3. (Overeenkomsten fractiemedewerkers en stagiairs)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4. (Omvang bijdrage)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5. (Wijzigingen na verkiezingen)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6. (Financiële gevolgen fusie)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7. (Financiële gevolgen splitsing)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8. (Bevoorschotting)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9. (Bestedingsspecificatie over bijdrage aan fractie)
 
@@ -66,24 +67,16 @@ Vervallen
 
 ##### Artikel 10. (Controle)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11. (Openbaarmaking)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12. (Vervallen regeling)
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13. (Inwerkingtreding)
 
-Vervallen
-
-## Bijlage I
-
-Vervallen
-
-## Bijlage II
-
-Vervallen
+*Vervallen*

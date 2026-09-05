@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 20 februari 2024, houdende nadere eisen met betrekking tot de kwaliteit van incassodienstverlening, de hoogte van het tarief van de registratie, een aanpassing van het Besluit vergoeding voor buitengerechtelijke incassokosten, alsmede de vaststelling van het tijdstip van inwerkingtreding van de Wet kwaliteit incassodienstverlening (Besluit kwaliteit incassodienstverlening)"
+citeertitel: "Besluit kwaliteit incassodienstverlening"
 identifier: "BWBR0049422"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049422"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17040953"
-version_id: "29985172"
-internal_id: "C42991671"
-label_id: "16950724"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049422/2024-10-01/0"
-intitule_bron: "Stb.2024-44"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-20"
-intitule_published: "2024-03-04"
-intitule_in_force: "2024-03-04"
-intitule_status: "goed"
-original_publication: "Stb.2024-44"
-original_signed_date: "2024-02-20"
-original_published_date: "2024-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-44"
-entry_into_force_date: "2024-04-01"
-jci_1_3: "jci1.3:c:BWBR0049422&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0049422&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Besluit kwaliteit incassodienstverlening"
-signed_date: "2024-02-20"
-entry_into_force: "2024-04-01"
+publicatiedatum: 2024-04-01
+laatste_update: 2024-10-01
+status: geldig
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0049422"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van 20 februari 2024, houdende nadere eisen met betrekking tot de kwaliteit van incassodienstverlening, de hoogte van het tarief van de registratie, een aanpassing van het Besluit vergoeding voor buitengerechtelijke incassokosten, alsmede de vaststelling van het tijdstip van inwerkingtreding van de Wet kwaliteit incassodienstverlening (Besluit kwaliteit incassodienstverlening)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 26 april 2023, directie Wetgeving en Juridische Zaken, nr. 4620802;
-
-Gelet op de [artikelen 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=5), [13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=13), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), en [30 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=30) en [artikel 96, vijfde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 26 juli 2023, nr. W16.23.00106/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 14 februari 2024, directie Wetgeving en Juridische Zaken, nr. 5185572;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemeen
 
@@ -52,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **incassodienstverlener:** degene die buitengerechtelijke incassowerkzaamheden als bedoeld in [artikel 1 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=1) verricht of aanbiedt;
+- *incassodienstverlener:* degene die buitengerechtelijke incassowerkzaamheden als bedoeld in [artikel 1 van de Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=1) verricht of aanbiedt;
 
-- **incassomedewerker:** persoon die belast is met het verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden;
+- *incassomedewerker:* persoon die belast is met het verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden;
 
-- **operationeel leidinggevende:** persoon die leiding geeft aan het verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden;
+- *operationeel leidinggevende:* persoon die leiding geeft aan het verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden;
 
-- **schuldenaar:** de natuurlijk persoon die zijn woonplaats in Nederland heeft en die gehouden is of geacht wordt de vordering tot betaling van een geldsom te voldoen;
+- *schuldenaar:* de natuurlijk persoon die zijn woonplaats in Nederland heeft en die gehouden is of geacht wordt de vordering tot betaling van een geldsom te voldoen;
 
-- **de wet:** de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685);
+- *de wet:* de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685);
 
-- **zelfstandige zonder personeel:** persoon die zelfstandig en zonder personeel buitengerechtelijke incassowerkzaamheden verricht of aanbiedt.
+- *zelfstandige zonder personeel:* persoon die zelfstandig en zonder personeel buitengerechtelijke incassowerkzaamheden verricht of aanbiedt.
 
 #### Paragraaf 2. Vakbekwaamheid
 
@@ -72,9 +40,9 @@ De vakbekwaamheid bedoeld in [artikel 13, eerste lid, van de wet](https://wetten
 
 ##### Artikel 2.2. Opleiding en cursussen
 
-1. Een incassomedewerker heeft een opleiding van ten minste niveau 3 van het Europees kwalificatiekader van Aanbeveling van de Raad van de Europese Unie van 22 mei 2017 (2017/C 189/03) gevolgd.
+1. Een incassomedewerker heeft een opleiding van ten minste niveau 3 van het Europees kwalificatiekader van Aanbeveling van de Raad van de Europese Unie van 22 mei 2017 (2017/C 189/03) gevolgd.
 
-2. Een operationeel leidinggevende en een zelfstandige zonder personeel hebben een opleiding van ten minste niveau 4 van het Europees kwalificatiekader van aanbeveling van de Raad van de Europese Unie van 22 mei 2017 (2017/C 189/03) gevolgd.
+2. Een operationeel leidinggevende en een zelfstandige zonder personeel hebben een opleiding van ten minste niveau 4 van het Europees kwalificatiekader van aanbeveling van de Raad van de Europese Unie van 22 mei 2017 (2017/C 189/03) gevolgd.
 
 3. De personen, bedoeld in het eerste en tweede lid, nemen jaarlijks deel aan:
 
@@ -196,9 +164,9 @@ De incassodienstverlener heeft per schuldenaar inzicht in het aantal vorderingen
 
 ##### Artikel 7.1. Hoogte tarief
 
-1. Het tarief voor de behandeling van de aanvraag tot inschrijving in het register, bedoeld in [artikel 20, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), bedraagt € 2.200 per incassodienstverlener vermeerderd met € 600 per bestuurder van de onderneming.
+1. Het tarief voor de behandeling van de aanvraag tot inschrijving in het register, bedoeld in [artikel 20, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), bedraagt € 2.200 per incassodienstverlener vermeerderd met € 600 per bestuurder van de onderneming.
 
-2. Het tarief voor de behandeling van de aanvraag tot inschrijving in het register, bedoeld in [artikel 20, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), bedraagt € 600 voor het inschrijven van een bestuurder van de onderneming.
+2. Het tarief voor de behandeling van de aanvraag tot inschrijving in het register, bedoeld in [artikel 20, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), bedraagt € 600 voor het inschrijven van een bestuurder van de onderneming.
 
 ##### Artikel 7.2. Hernieuwde inschrijving
 
@@ -218,9 +186,9 @@ Ontvangen tarieven worden niet gerestitueerd.
 
 Het tarief voor de doorberekening van de kosten van het toezicht, bedoeld in [artikel 20, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=20), bedraagt:
 
-- a. € 1.800 voor incassodienstverleners die een eenmanszaak voeren;
+- a. € 1.800 voor incassodienstverleners die een eenmanszaak voeren;
 
-- b. € 7.400 voor alle overige incassodienstverleners.
+- b. € 7.400 voor alle overige incassodienstverleners.
 
 ##### Artikel 8.2. Verschuldigdheid tarief
 
@@ -228,11 +196,11 @@ Het tarief voor de doorberekening van de kosten van het toezicht, bedoeld in [ar
 
 2. Ontvangen tarieven worden niet gerestitueerd.
 
-#### Paragraaf 9. Wijziging [Besluit vergoeding voor buitengerechtelijke incassokosten](https://wetten.overheid.nl/jci1.3:c:BWBR0031432)
+#### Paragraaf 9. Wijziging Besluit vergoeding voor buitengerechtelijke incassokosten
 
-##### Artikel 9.1. Nieuw [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0031432&artikel=2a)
+##### Artikel 9.1. Nieuw artikel 2a
 
-Wijzigt het Besluit vergoeding voor buitengerechtelijke incassokosten.
+*Wijzigt het Besluit vergoeding voor buitengerechtelijke incassokosten.*
 
 #### Paragraaf 10. Overgangsrecht
 
@@ -244,10 +212,8 @@ Wijzigt het Besluit vergoeding voor buitengerechtelijke incassokosten.
 
 ##### Artikel 11.1. Inwerkingtreding
 
-De Wet van 11 mei 2022, houdende regels met betrekking tot de private buitengerechtelijke incassodienstverlening en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de aanpassing van de cumulatieregeling voor buitengerechtelijke incassokosten ([Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685)) (Staatsblad 2022, 186) treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=18), dat in werking treedt met ingang van 1 oktober 2026, en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=21), dat in werking treedt met ingang van 1 oktober 2024. Dit besluit treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=9&artikel=9.1&z=2024-10-01&g=2024-10-01), dat met ingang van 1 oktober 2024 in werking treedt.
+De Wet van 11 mei 2022, houdende regels met betrekking tot de private buitengerechtelijke incassodienstverlening en wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de aanpassing van de cumulatieregeling voor buitengerechtelijke incassokosten ([Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685)) (Staatsblad 2022, 186) treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=18), dat in werking treedt met ingang van 1 oktober 2026, en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=21), dat in werking treedt met ingang van 1 oktober 2024. Dit besluit treedt in werking met ingang van 1 april 2024, met uitzondering van [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&paragraaf=9&artikel=9.1&z=2024-10-01&g=2024-10-01), dat met ingang van 1 oktober 2024 in werking treedt.
 
 ##### Artikel 11.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit incassodienstverlening.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst

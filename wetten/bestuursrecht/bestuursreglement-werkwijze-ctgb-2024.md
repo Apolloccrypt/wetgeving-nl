@@ -1,41 +1,18 @@
 ---
 title: "Bestuursreglement werkwijze College voor de toelating van gewasbeschermingsmiddelen en biociden 2024"
+citeertitel: "Bestuursreglement werkwijze Ctgb 2024"
 identifier: "BWBR0049170"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049170"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "16985173"
-version_id: "29863012"
-internal_id: "C42811931"
-label_id: "16895854"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049170/2024-01-01/0"
-intitule_bron: "Stcrt.2023-35563"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-12-28"
-intitule_in_force: "2023-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35563"
-original_published_date: "2023-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-35563"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049170&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049170&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement werkwijze Ctgb 2024"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049170"
+opgehaald: 2026-09-05
 ---
+
 # Bestuursreglement werkwijze College voor de toelating van gewasbeschermingsmiddelen en biociden 2024
-
-Op grond van op [artikel 8 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=8); Gelet op de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
-
-besluit de volgende regeling te treffen voor de werkwijze van het College voor de toelating van gewasbeschermingsmiddelen en biociden:
 
 ### Hoofdstuk 1. Definities
 
@@ -43,19 +20,20 @@ besluit de volgende regeling te treffen voor de werkwijze van het College voor d
 
 In dit reglement wordt verstaan onder:
 
-- **college:** het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
+- *college:* het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
 
-- **Onze Minister:** de in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1) bedoelde Minister;
+- *Onze Minister:* de in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=1) bedoelde Minister;
 
-- **risk envelope:** de definitie van risk envelope conform het ‘Guidance document on the preparation and submission of dossiers for plant protection products according to the “risk envelope approach”, SANCO/11244/2011’ en diens opvolgers.
+- *risk envelope:* de definitie van risk envelope conform het ‘Guidance document on the preparation and submission of dossiers for plant protection products according to the “risk envelope approach”, SANCO/11244/2011’ en diens opvolgers.
 
-- **secretariaat:** het in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=7) bedoelde secretariaat van het college;
+- *secretariaat:* het in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=7) bedoelde secretariaat van het college;
 
-- **secretaris:** de in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=7) bedoelde secretaris van het college tevens directeur van het secretariaat;
+- *secretaris:* de in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=7) bedoelde secretaris van het college tevens directeur van het secretariaat;
 
-- **voorzitter:** voorzitter van het college
+- *voorzitter:* voorzitter van het college
 
-- **wet:** [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)
+- *wet:*
+ [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670)
 
 ### Hoofdstuk 2. Werkwijze van het college
 
@@ -197,11 +175,11 @@ Het college oefent met inachtneming van het bij of krachtens de wet bepaalde toe
 
 ##### Artikel 2:22
 
-De secretaris biedt jaarlijks aan het college een ontwerp van de begroting alsmede een ontwerp van het werkplan voor het volgende kalenderjaar aan op een zodanig tijdstip dat toezending aan Onze Minister daarvan, na vaststelling door het college, kan geschieden vóór 1 oktober. Na vaststelling door het college draagt de secretaris zorg voor de afhandeling van de verdere procedure ter zake.
+De secretaris biedt jaarlijks aan het college een ontwerp van de begroting alsmede een ontwerp van het werkplan voor het volgende kalenderjaar aan op een zodanig tijdstip dat toezending aan Onze Minister daarvan, na vaststelling door het college, kan geschieden vóór 1 oktober. Na vaststelling door het college draagt de secretaris zorg voor de afhandeling van de verdere procedure ter zake.
 
 ##### Artikel 2:23
 
-De secretaris biedt jaarlijks aan het college een ontwerp van het jaarverslag alsmede een ontwerp van de jaarrekening over het afgelopen kalenderjaar aan op een zodanig tijdstip dat aanbieding aan Onze Minister en beschikbaarstelling na vaststelling door het college kan geschieden vóór 15 maart. Na vaststelling door het college draagt de secretaris zorg voor de afhandeling van de verdere procedure ter zake.
+De secretaris biedt jaarlijks aan het college een ontwerp van het jaarverslag alsmede een ontwerp van de jaarrekening over het afgelopen kalenderjaar aan op een zodanig tijdstip dat aanbieding aan Onze Minister en beschikbaarstelling na vaststelling door het college kan geschieden vóór 15 maart. Na vaststelling door het college draagt de secretaris zorg voor de afhandeling van de verdere procedure ter zake.
 
 ##### Artikel 2:24
 
@@ -217,9 +195,9 @@ De secretaris draagt zorg voor het opstellen van voortgangrapportages conform he
 
 - 3. Onder de in het tweede lid bedoelde besluiten zijn niet begrepen beslissingen op bezwaarschriften, voor zover daarin afgeweken wordt van het advies van de Adviescommissie voor de bezwaarschriften van het Ctgb.
 
-- 4. De voorzitter is bevoegd om namens het college ambtshalve of op aanvraag de besluiten te nemen die noodzakelijk zijn in verband met een niet zonale uitbreiding van een bestaande toelating met een kleine toepassing(en) als bedoeld in artikel 51 van [Verordening (EG) 1107/2009](onbekend) voor zover de toepassing binnen de risk envelope van de bestaande toelating valt.
+- 4. De voorzitter is bevoegd om namens het college ambtshalve of op aanvraag de besluiten te nemen die noodzakelijk zijn in verband met een niet zonale uitbreiding van een bestaande toelating met een kleine toepassing(en) als bedoeld in artikel 51 van Verordening (EG) 1107/2009 voor zover de toepassing binnen de risk envelope van de bestaande toelating valt.
 
-- 5. De voorzitter is bevoegd te besluiten over openbaarmaking van de bij het college aanwezige gegevens als bedoeld in artikel 63 van [Verordening (EG) nr. 1107/2009,](onbekend) artikel 66 van [Verordening (EU) nr. 528/2012](32012R0528), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en [artikel 70 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=70) zoals deze luidde vóór de inwerkingtreding van de wet van 6 november 2013.
+- 5. De voorzitter is bevoegd te besluiten over openbaarmaking van de bij het college aanwezige gegevens als bedoeld in artikel 63 van Verordening (EG) nr. 1107/2009, artikel 66 van Verordening (EU) nr. 528/2012, de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en [artikel 70 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=70) zoals deze luidde vóór de inwerkingtreding van de wet van 6 november 2013.
 
 - 6. De voorzitter is bevoegd om namens het college het dagelijks toezicht op de taakuitvoering van de secretaris uit te oefenen als bedoeld in [artikel 2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0049170&hoofdstuk=2&paragraaf=2.5&artikel=2:18&z=2024-01-01&g=2024-01-01).
 
@@ -303,7 +281,7 @@ In geschillen over de uitleg van dit bestuursreglement beslist de voorzitter.
 
 1. Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 
-2. Dit besluit treedt in werking met ingang van 1 januari 2024.
+2. Dit besluit treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 3:2. Intrekking overige regelingen
 
@@ -312,29 +290,3 @@ Het [Bestuursreglement toelatingsprocedure gewasbeschermingsmiddelen en biociden
 ##### Artikel 3:3. Citeertitel
 
 Dit besluit wordt aangehaald als: Bestuursreglement werkwijze Ctgb 2024.
-
-## Bijlage I. als bedoeld in [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0049170&hoofdstuk=2&paragraaf=2.7&artikel=2:26&z=2024-01-01&g=2024-01-01) van het bestuursreglement werkwijze college voor de toelating van gewasbeschermingsmiddelen en biociden 2024.
-
-De secretaris is bevoegd om namens het college de volgende besluiten te nemen:
-
-- 1. Het niet in behandeling nemen, het verwerpen of het niet-ontvankelijk verklaren van een aanvraag.
-
-- 2. Het stellen van aanvullende vragen en het geven van hersteltermijnen aan aanvragers.
-
-- 3. Het verlenen van een toelating voor eenzelfde biocide als bedoeld in artikel 17, zevende lid, van [Verordening (EU) nr. 528/2012](32012R0528), juncto artikel 5 van [Uitvoeringsverordening (EU) nr. 414/2013](32013R0414).
-
-- 4. Het verlenen van een ontheffing voor proeven of experimenten als bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=37), juncto artikel 54 van [Verordening (EG) nr. 1107/2009](32009R1107).
-
-- 5. Het verbieden van of verbinden van voorwaarden aan een proef of experiment als bedoeld in artikel 56 van [Verordening (EU) nr. 528/2012](32012R0528).
-
-- 6. Het op verzoek van een toelatinghouder intrekken van een toelating als bedoeld in artikel 45 van [Verordening (EG) nr. 1107/2009](32009R1107), artikel 49 van [Verordening (EU) nr. 528/2012](32012R0528) en [artikel 68 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=68) zoals deze luidde vóór de inwerkingtreding van de wet van 6 november 2013.
-
-- 7. Het besluiten op een verzoek om een wijziging van de toelating als bedoeld in artikel 45 van [Verordening (EG) nr. 1107/2009](32009R1107) of als bedoeld in artikel 50, derde lid, onder a en b, van [Verordening (EU) nr. 528/2012](32012R0528) of op een vergelijkbaar verzoek tot wijziging betreffende een biocide waarvoor ingevolge artikel 89, tweede lid, van [Verordening (EU) nr. 528/2012](32012R0528) het nationale recht wordt toegepast.
-
-- 8. Het verlenen, uitbreiden of verlengen van een vergunning voor parallelhandel als bedoeld in artikel 52 van [Verordening (EG) nr. 1107/2009](32009R1107), artikel 53 van [Verordening (EU) nr. 528/2012](32012R0528) en [artikel 53 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=53) zoals deze luidde vóór de inwerkingtreding van de wet van 6 november 2013, en het afwijzen van een aanvraag tot voornoemde vergunning.
-
-- 9. Het verlenen, wijzigen of intrekken van een toelating voor een toevoegingsstof als bedoeld in artikel 58 van [Verordening (EG) nr. 1107/2009](32009R1107).
-
-- 10. Het toekennen van gegevensbescherming als bedoeld in artikel 59 van [Verordening nr. (EG) 1107/2009](32009R1107).
-
-- 11. Het verlenen, uitbreiden of verlengen van een afgeleide toelating als bedoeld in [artikel 52 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=52) zoals deze luidde vóór de inwerkingtreding van de wet van 6 november 2013.

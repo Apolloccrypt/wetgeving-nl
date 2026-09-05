@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 maart 2024, nr. 2024-0000058892 tot verlening van mandaat, volmacht en machtiging aan de inspecteur-generaal Leefomgeving en Transport ten behoeve van de Autoriteit woningcorporaties, de handhaving van de Woningwet wat betreft het toezicht op toegelaten instellingen en de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector, alsmede de aanwijzing van ambtenaren van de Inspectie Leefomgeving en Transport als toezichthouders op de naleving van de Woningwet en de naleving van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector en tot wijziging van enkele andere besluiten (Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT)"
+citeertitel: "Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT"
 identifier: "BWBR0049441"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-07"
-last_updated: "2024-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049441"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17044673"
-version_id: "29990632"
-internal_id: "C42997441"
-label_id: "16954304"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049441/2024-03-07/0"
-intitule_bron: "Stcrt.2024-6591"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-05"
-intitule_published: "2024-03-06"
-intitule_in_force: "2024-03-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6591"
-original_signed_date: "2024-03-05"
-original_published_date: "2024-03-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6591"
-entry_into_force_date: "2024-03-07"
-jci_1_3: "jci1.3:c:BWBR0049441&z=2024-03-07&g=2024-03-07"
-jci_1_0: "1.0:c:BWBR0049441&g=2024-03-07"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT"
-signed_date: "2024-03-05"
-entry_into_force: "2024-03-07"
+publicatiedatum: 2024-03-07
+laatste_update: 2024-03-07
+status: geldig
+toestand: 2024-03-07
+bron: "https://wetten.overheid.nl/BWBR0049441"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 maart 2024, nr. 2024-0000058892 tot verlening van mandaat, volmacht en machtiging aan de inspecteur-generaal Leefomgeving en Transport ten behoeve van de Autoriteit woningcorporaties, de handhaving van de Woningwet wat betreft het toezicht op toegelaten instellingen en de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector, alsmede de aanwijzing van ambtenaren van de Inspectie Leefomgeving en Transport als toezichthouders op de naleving van de Woningwet en de naleving van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector en tot wijziging van enkele andere besluiten (Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT)
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), [artikel 22, zevende lid van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22), de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.1), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5) en [5.6 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6) en [artikel 61, vijfde lid van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=61),
-
-Gezien de schriftelijke instemming van de inspecteur-generaal Leefomgeving en Transport 28 februari 2024.
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -48,17 +20,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **autoriteit:** Autoriteit woningcorporaties, bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=60);
+- a. *autoriteit:* Autoriteit woningcorporaties, bedoeld in [artikel 60, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=60);
 
-- b. **besluit:** [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702);
+- b. *besluit:*
+ [Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702);
 
-- c. **inspecteur-generaal:** inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 22, lid 1, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22);
+- c. *inspecteur-generaal:* inspecteur-generaal Leefomgeving en Transport, bedoeld in [artikel 22, lid 1, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048191&artikel=22);
 
-- d. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- d. *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- e. **ministerie:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- e. *ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- f. **wet:** [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181).
+- f. *wet:*
+ [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181).
 
 ##### Artikel 2
 
@@ -110,7 +84,7 @@ Het op grond van dit besluit verleende mandaat ten behoeve van de autoriteit omv
 
 2. Aan de inspecteur-generaal wordt ten behoeve van de werkzaamheden van de autoriteit tevens machtiging verleend voor het instellen en behandelen van juridische procedures, waaronder het voeren van verweer, het instellen van beroep, hoger beroep alsmede het indienen van verzoeken om voorlopige voorziening met betrekking tot een beslissing op bezwaar als bedoeld in het eerste lid.
 
-3. Het tweede lid is niet van toepassing op gerechtelijke procedures die vóór 1 juli 2015 aanhangig waren en die op grond van het [Besluit mandatering aan CFV van handhavingsbevoegdheden inzake financieel toezicht op toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035508) zoals dat luidde voor dat tijdstip, door het Centraal Fonds voor de Volkshuisvesting werden behandeld.
+3. Het tweede lid is niet van toepassing op gerechtelijke procedures die vóór 1 juli 2015 aanhangig waren en die op grond van het [Besluit mandatering aan CFV van handhavingsbevoegdheden inzake financieel toezicht op toegelaten instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035508) zoals dat luidde voor dat tijdstip, door het Centraal Fonds voor de Volkshuisvesting werden behandeld.
 
 ##### Artikel 9
 
@@ -175,9 +149,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT.
-
-## Bijlage
-
-Niet opgenomen.
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.

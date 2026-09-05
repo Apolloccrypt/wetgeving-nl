@@ -1,13 +1,13 @@
 {
- "gegenereerd": "2026-09-04",
+ "gegenereerd": "2026-09-05",
  "geverifieerd": true,
- "bwb_regelingen": 46892,
- "bwb_geldend": 22224,
- "site_totaal": 22422,
- "site_geldend": 22222,
+ "bwb_regelingen": 46894,
+ "bwb_geldend": 22225,
+ "site_totaal": 22424,
+ "site_geldend": 22223,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
- "aantal_ten_onrechte_geldig": 200,
+ "aantal_ten_onrechte_geldig": 201,
  "aantal_onbekend": 0,
  "ontbrekend": [
   {
@@ -524,23 +524,23 @@
   },
   {
    "id": "BWBR0049246",
-   "titel": "Specifiek interventiebeleid NVWA visketen zeevisserij (IB03-SPEC 48, versie 03)"
+   "titel": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA visketen zeevisserij (IB03-SPEC 48, versie 03)"
   },
   {
    "id": "BWBR0049274",
-   "titel": "Instellingsbesluit programmaraad Digitalisering"
+   "titel": "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43324058, houdende instelling van de programmaraad Digitalisering voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Digitalisering 2023–2025)"
   },
   {
    "id": "BWBR0049277",
-   "titel": "Instellingsbesluit programmaraad Ontwikkelkracht"
+   "titel": "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 december 2023 nr. 43333381, houdende instelling van de programmaraad Ontwikkelkracht voor de periode 2023 tot en met 2025 (Instellingsbesluit programmaraad Ontwikkelkracht 2023–2025)"
   },
   {
    "id": "BWBR0049327",
-   "titel": "Instellingsbesluit Commissie onderzoek niet-humane primaten"
+   "titel": "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 december 2023, nr. OWB/42696432 houdende instelling van de Commissie die onderzoek gaat doen naar de mogelijkheden voor verlaging van het aantal proeven op niet-humane primaten (Instellingsbesluit Commissie onderzoek niet-humane primaten)"
   },
   {
    "id": "BWBR0049334",
-   "titel": "Mandaatbesluit Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering NCTV 2023"
+   "titel": "Besluit van de directeur Contraterrorisme en Beveiliging Burgerluchtvaart van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 25 januari 2024, nr. 5164834, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan de onder de directeur Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering ressorterende ambtenaren (Mandaatbesluit Strategie, Analyse Nationale Veiligheid en Bedrijfsvoering NCTV 2023)"
   },
   {
    "id": "BWBR0049335",
@@ -709,6 +709,10 @@
   {
    "id": "BWBR0051807",
    "titel": "Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam THOR/VTH 2025, domein II"
+  },
+  {
+   "id": "BWBR0051837",
+   "titel": "Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen"
   },
   {
    "id": "BWBR0051839",

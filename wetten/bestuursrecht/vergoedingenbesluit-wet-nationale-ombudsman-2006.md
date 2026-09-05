@@ -9,7 +9,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0019082"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Besluit van 18 november 2005, houdende regels over de vergoedingen die verschuldigd zijn voor door de Nationale ombudsman ontvangen klachten (Vergoedingenbesluit Wet Nationale ombudsman 2006)

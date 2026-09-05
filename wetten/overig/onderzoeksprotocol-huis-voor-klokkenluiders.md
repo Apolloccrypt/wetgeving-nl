@@ -1,50 +1,65 @@
 ---
 title: "Onderzoeksprotocol Huis voor Klokkenluiders"
 identifier: "BWBR0049196"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-05"
-last_updated: "2024-01-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049196"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16991383"
-version_id: "29880952"
-internal_id: "C42835631"
-label_id: "16901764"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049196/2024-01-05/0"
-intitule_bron: "Stcrt.2024-246"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-01-05"
-intitule_in_force: "2024-01-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-246"
-original_published_date: "2024-01-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-246"
-entry_into_force_date: "2024-01-05"
-jci_1_3: "jci1.3:c:BWBR0049196&z=2024-01-05&g=2024-01-05"
-jci_1_0: "1.0:c:BWBR0049196&g=2024-01-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-01-05"
+publicatiedatum: 2024-01-05
+laatste_update: 2024-01-05
+status: geldig
+toestand: 2024-01-05
+bron: "https://wetten.overheid.nl/BWBR0049196"
+opgehaald: 2026-09-05
 ---
+
 # Onderzoeksprotocol Huis voor Klokkenluiders
 
-Het bestuur van het Huis voor klokkenluiders heeft op 15 maart 2021 dit onderzoeksprotocol vastgesteld, met de Wet Huis voor klokkenluiders van 14 april 2016 als basis en in navolging van wat in artikel 3h van die wet is bepaald.
+Het bestuur van het Huis voor klokkenluiders heeft op 15 maart 2021 dit onderzoeksprotocol vastgesteld, met de Wet Huis voor klokkenluiders van 14 april 2016 als basis en in navolging van wat in artikel 3h van die wet is bepaald.
 
-Naar aanleiding van de inwerkingtreding van de [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852) (hierna: wet) is dit protocol aangepast op 19 december 2023. De aanpassingen zien vooral op de definitie misstand.
+Naar aanleiding van de inwerkingtreding van de [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852) (hierna: wet) is dit protocol aangepast op 19 december 2023. De aanpassingen zien vooral op de definitie misstand.
+
+Inleiding
 
 Het Huis voor klokkenluiders (hierna: het Huis) is bedoeld voor personen in Nederland1De Wet bescherming klokkenluiders geldt niet in Caribisch Nederland (Bonaire Sint Eustatius, Saba); in de Wet bescherming klokkenluiders is geen expliciete bepaling opgenomen waardoor de wet van toepassing zou zijn in Caribisch Nederland. die melding willen doen van (een redelijk vermoeden van) een werkgerelateerde misstand. Het Huis draagt bij aan een betere bescherming van melders, degene die een melder bijstaat en de betrokken derde. Dit doet het Huis door het geven van advies, het doen van onderzoek en door organisaties te stimuleren hun integriteit te bewaken.
 
 De afdeling Onderzoek van het Huis kan, na een positieve beoordeling van de onderzoekstoets2Uit artikel 3a, derde lid, onderdeel a, van de Wet bescherming klokkenluiders volgt dat de afdeling Onderzoek tot taak heeft te beoordelen of een verzoek om een onderzoek in behandeling kan worden genomen met inachtneming van de criteria uit artikel 6 van de Wet bescherming klokkenluiders., onderzoek verrichten naar een vermoeden van een misstand. Ook kan de afdeling Onderzoek van het Huis onderzoek doen naar de bejegening van de melder van een vermoeden van een misstand.
 
+Begrippen
+
+- – Het begrip melder wordt in de wet als volgt opgevat: een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten een vermoeden van een misstand meldt of openbaar maakt. Het Huis geeft een ruime uitleg aan dit begrip binnen het wettelijk kader. Zo valt onder de wet een persoon die op basis van een arbeidsovereenkomst arbeid verricht of heeft verricht dan wel degene die anders dan uit dienstbetrekking arbeid verricht of heeft verricht, zoals een uitzendkracht, een zelfstandige zonder personeel, stagiair of vrijwilliger. Maar ook leveranciers, (onder)aannemers, aandeelhouders en personen in leidinggevende organen, zoals leden van een raad van commissarissen, kunnen onder het begrip vallen.
+
+- – Een melder kan door iemand worden bijgestaan in het meldproces. Degene die een melder bijstaat is een natuurlijke persoon of rechtspersoon die een melder adviseert in het meldingsproces in een werkgerelateerde context en wiens advisering vertrouwelijk is. Hierbij kan worden gedacht aan de vertrouwenspersoon.
+
+- – In de wet is ook de betrokken derde genoemd. Een betrokken derde wordt gedefinieerd als een derde die in een werkgerelateerde context verbonden is met een melder of een rechtspersoon die eigendom is van de melder, waarvoor de melder werkt of waarmee de melder anderszins werkgerelateerd verbonden is.
+
+- – Onder een vermoeden van een misstand wordt verstaan:
+
+   - a. een schending of een gevaar voor schending van het Unierecht, of
+
+   - b. een handeling of nalatigheid waarbij het maatschappelijk belang in het geding is bij: Het maatschappelijk belang is in ieder geval in het geding indien de handeling of nalatigheid niet enkel persoonlijke belangen raakt en er sprake is van oftewel een patroon of structureel karakter dan wel de handeling of nalatigheid ernstig of omvangrijk is; Een vermoeden moet gebaseerd zijn op redelijke gronden. Dit betekent dat de melder zelf bij zijn werkgever hier kennis van heeft genomen en bijvoorbeeld met stukken kan onderbouwen waarop het vermoeden gebaseerd is.
+
+      - 1°. een schending of een gevaar voor schending van een wettelijk voorschrift of van interne regels die een concrete verplichting inhouden en die op grond van een wettelijk voorschrift door een werkgever zijn vastgesteld, dan wel
+
+      - 2°. een gevaar voor de volksgezondheid, voor de veiligheid van personen, voor de aantasting van het milieu of voor het goed functioneren van de openbare dienst of een onderneming als gevolg van een onbehoorlijke wijze van handelen of nalaten.
+
+Onderzoekstaak
+
 De onderzoekstaak van de afdeling Onderzoek van het Huis wordt in [artikel 3a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3a) als volgt beschreven:
+
+- – Het beoordelen of het verzoek in behandeling kan worden genomen (onderzoekstoets)met inachtneming van de voorwaarden (zoals bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=6));
+
+- – Het op basis van een positieve onderzoekstoets uitvoeren van een onderzoek naar het vermoeden van een misstand en/of de wijze waarop de werkgever zich jegens de melder heeft gedragen naar aanleiding van een melding van een vermoeden van een misstand;
+
+- – Het instellen van een onderzoek naar het vermoeden van een misstand op eigen initiatief naar aanleiding van een of meerdere adviesvragen, en
+
+- – Het naar aanleiding van uitgevoerde onderzoeken eventueel formuleren van aanbevelingen.
+
+Onthouden van deelneming van medewerker Onderzoek en bestuurslid aan het onderzoekstraject
 
 Indien er een schijn van belangenverstrengeling kan ontstaan bij de behandeling van een onderzoek, zal de medewerker van het Huis dit onverwijld aan de voorzitter van het Huis moeten melden. De voorzitter beslist dan per geval of de betreffende medewerker zich om deze reden van deelneming aan het onderzoekstraject onthoudt. Dit is geregeld in [artikel 3g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3g). In dit artikel wordt ook een aantal voorbeelden gegeven van situaties van belangenverstrengeling.
 
 Van het bestuurslid onderzoek wordt in het geval van belangenverstrengeling verwacht dat deze zich onthoudt van deelneming aan het onderzoek. Dit is geregeld in [artikel 3f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3f).
+
+Doel van dit protocol
 
 In dit onderzoeksprotocol beschrijft het Huis de wijze waarop invulling wordt gegeven aan de onderzoekstaak. Hiermee verschaft het Huis inzicht in de werkwijze van de afdeling Onderzoek en draagt het bij aan de transparantie van de organisatie.
 
@@ -68,7 +83,7 @@ Het Huis volgt het vertaalbeleid van de overheid en communiceert in principe in 
 
 ### 2.1. Misstandonderzoek
 
-Bij een misstandonderzoek wordt een onderscheid gemaakt tussen de **verzoeker** en zijn **melding**. Met het doen van een verzoek dat tot een misstandonderzoek leidt, draagt de verzoeker de melding over aan het Huis. Wanneer een verzoeker na de start van een misstandonderzoek het verzoek wil intrekken, dan willigt het Huis dit verzoek niet zonder meer in. Zwaar weegt hierbij of het maatschappelijk belang voortzetting van het onderzoek vergt.
+Bij een misstandonderzoek wordt een onderscheid gemaakt tussen de *verzoeker* en zijn *melding*. Met het doen van een verzoek dat tot een misstandonderzoek leidt, draagt de verzoeker de melding over aan het Huis. Wanneer een verzoeker na de start van een misstandonderzoek het verzoek wil intrekken, dan willigt het Huis dit verzoek niet zonder meer in. Zwaar weegt hierbij of het maatschappelijk belang voortzetting van het onderzoek vergt.
 
 Het onderscheid tussen verzoeker en melding is van belang voor het onafhankelijk kunnen uitvoeren van onderzoek.
 
@@ -94,6 +109,14 @@ Daarbij is duidelijke en transparante communicatie over het onderzoeksproces ric
 
 Het Huis beoordeelt of een verzoek voldoet aan de wettelijke eisen en of het verzoek in behandeling kan worden genomen. Deze beoordeling wordt de onderzoekstoets genoemd. Het gaat hierbij onder meer om:
 
+- • de vraag of er sprake is (geweest) van een vermoeden van een misstand;
+
+- • (de wijze van) het melden bij de werkgever5Indien de melding is gedaan voor 18 februari 2023. Met de inwerkingtreding van de Wet bescherming klokkenluiders per die datum is de verplichting om eerst intern bij de werkgever te melden, komen te vervallen. Voor wat betreft schendingen van het Unierecht is deze verplichting al op 17 december 2021 komen te vervallen.;
+
+- • of er een rol is weggelegd voor een andere instantie, zoals een toezichthouder en/of een inspectie.
+
+- • de onderzoekbaarheid en inschatting van de toegevoegde waarde.
+
 In het kader van de beoordeling van het verzoek, kan het Huis (na overleg en met instemming van de verzoeker) contact leggen met andere partijen zoals toezichthouders en/of inspectiediensten.
 
 Als het Huis beslist dat het verzoek in behandeling wordt genomen en het onderzoek wordt gestart, dan informeert het Huis de verzoeker en de werkgever over het onderzoek. De werkgever wordt door het Huis pas ingelicht over de identiteit van de verzoeker, nadat de verzoeker daarmee heeft ingestemd.
@@ -102,9 +125,45 @@ Als het Huis beslist dat het verzoek in behandeling wordt genomen en het onderzo
 
 De twee typen onderzoeken die het Huis uitvoert -- misstandonderzoek en/of bejegeningsonderzoek – worden grotendeels op dezelfde manier uitgevoerd. Toch zijn er enkele belangrijke verschillen, die vooral te maken hebben met de relatie tussen de verzoeker en de onderzoeksvragen. Hieronder wordt eerst ingegaan op de belangrijkste stappen tijdens de uitvoering van een misstandonderzoek. Vervolgens komt het bejegeningsonderzoek aan bod.
 
+Misstandonderzoek
+
+- 1. *Procedureel gesprek*: de verzoeker en de werkgever worden bij de start van een onderzoek apart uitgenodigd voor een procedureel gesprek. Tijdens dit gesprek licht het Huis het proces van het onderzoek toe. Van dit gesprek wordt een verslag gemaakt, dat wordt toegevoegd aan het onderzoekdossier.
+
+- 2. *Het bepalen van de onderzoeksvragen*: na de procedurele gesprekken stellen de onderzoekers de concept-onderzoeksvragen op. Deze worden voorgelegd aan de werkgever en in beginsel ook aan de verzoeker, met het verzoek om een reactie hierop.6Van het voorleggen van de concept-onderzoeksvragen aan de verzoeker kan worden afgezien wanneer het belang van het onderzoek zich daartegen verzet. Dit is een uitzonderlijke omstandigheid, en bijvoorbeeld het geval als de kans bestaat dat de onafhankelijkheid of uitvoerbaarheid van het onderzoek door verzoeker wordt beïnvloed. Hierna stellen de onderzoekers de definitieve onderzoeksvragen vast.
+
+- 3. *Uitvoering*: om te komen tot de informatie die nodig is voor het beantwoorden van de onderzoeksvragen, hebben de onderzoekers van het Huis een aantal bevoegdheden zoals: het verzoeken om inlichtingen en stukken, het oproepen en onder ede horen van getuigen, het inschakelen van deskundigen voor specifieke werkzaamheden (of deze horen als getuige) en een onderzoek ter plaatse instellen (alleen in de publieke sector). Deze bevoegdheden gaan, behoudens wettelijke uitzonderingsgronden, gepaard met een verplichting tot medewerking.
+
+- 4. *Feitenrelaas*: het onderzoek leidt tot het opstellen van een feitenrelaas, waarin de relevante feiten die nodig zijn voor het beantwoorden van de onderzoeksvragen staan beschreven. Het feitenrelaas wordt voorgelegd aan de werkgever. De werkgever wordt daarbij in de gelegenheid gesteld om zijn zienswijze te geven op de volledigheid en juistheid van de beschreven feiten, en heeft vier weken de tijd om te reageren op het feitenrelaas. Wanneer het belang van het onderzoek daar om vraagt, kan het Huis het feitenrelaas ook voorleggen aan de verzoeker. Zowel de werkgever als de verzoeker wordt verzocht een verklaring te tekenen die ertoe strekt de geheimhouding van de inhoud van het feitenrelaas te bewaren.
+
+- 5. *Conceptrapport*: op basis van het feitenrelaas wordt het conceptrapport opgesteld en in concept voorgelegd aan werkgever en verzoeker. In deze fase krijgen zowel de werkgever als de verzoeker vier weken de tijd om schriftelijk te reageren op het conceptrapport. Voor deze schriftelijke reactie wordt een door het Huis vastgesteld sjabloon gebruikt. Evenals voor het feitenrelaas geldt voor het conceptrapport een geheimhoudingsplicht voor beide partijen.
+
+- 6. *Anoniem eindrapport:*na verwerking van de reactie(s) op het conceptrapport wordt het eindrapport (geanonimiseerd7In de praktijk blijkt dat eindrapporten, ondanks het feit dat zij worden geanonimiseerd, herleidbaar kunnen zijn tot de betreffende zaak en/of betrokkenen, doordat er reeds in de media over is gepubliceerd of anderszins.) vastgesteld door de bestuurder Onderzoek. De verzoeker en de werkgever krijgen beiden het eindrapport toegestuurd. Ook wordt het eindrapport gepubliceerd op de website van het Huis. Over het eindrapport wordt doorgaans een persbericht opgesteld.
+
+- 7. *Aanbevelingen:* Indien daartoe aanleiding bestaat worden in het eindrapport aanbevelingen aan de werkgever opgenomen. Binnen een redelijke termijn dient de werkgever het Huis te laten weten op welke manier hij gevolg geeft aan de aanbevelingen. Als de werkgever overweegt de aanbevelingen niet op te volgen, zal hij het Huis hierover moeten informeren. De werkgever zal in dat geval moeten onderbouwen waarom hij overweegt de aanbevelingen niet op te volgen. Door het Huis gedane aanbevelingen worden vermeld in de jaarlijkse rapportage aan de Tweede Kamer.
+
+Bejegeningsonderzoek
+
+- 1. *Procedureel gesprek*: de verzoeker en de werkgever worden bij de start van een onderzoek apart uitgenodigd voor een procedureel gesprek. Tijdens dit gesprek licht het Huis het proces van het onderzoek toe, inclusief de beoogde startdatum. Van dit gesprek wordt een verslag gemaakt, dat wordt toegevoegd aan het onderzoekdossier.
+
+- 2. *Het bepalen van de onderzoeksvragen*: na de procedurele gesprekken stellen de onderzoekers de concept-onderzoeksvragen op. Deze worden voorgelegd aan de werkgever en aan de verzoeker. Hierna stellen de onderzoekers de definitieve onderzoeksvragen vast.
+
+- 3. *Uitvoering*: om te komen tot de informatie die nodig is voor het beantwoorden van de onderzoeksvragen, hebben de onderzoekers van het Huis een aantal bevoegdheden zoals: het verzoeken om inlichtingen en stukken, het oproepen en onder ede horen van getuigen, het inschakelen van deskundigen voor specifieke werkzaamheden (of deze horen als getuige) en een onderzoek ter plaatse instellen (alleen in de publieke sector). Deze bevoegdheden gaan, behoudens wettelijke uitzonderingsgronden, gepaard met een verplichting tot medewerking.
+
+- 4. *Feitenrelaas*: het onderzoek leidt tot het opstellen van een feitenrelaas, waarin de relevante feiten die nodig zijn voor het beantwoorden van de onderzoeksvragen staan beschreven. Het feitenrelaas wordt voorgelegd aan de werkgever en de verzoeker. Zij worden daarbij in de gelegenheid gesteld om hun zienswijze te geven op de volledigheid en juistheid van de beschreven feiten, en hebben vier weken de tijd om te reageren op het feitenrelaas. Zowel de werkgever als de verzoeker wordt verzocht een verklaring te tekenen die ertoe strekt de geheimhouding van de inhoud van het feitenrelaas te bewaren.
+
+- 5. *Conceptrapport*: op basis van het feitenrelaas wordt het conceptrapport opgesteld en in concept voorgelegd aan werkgever en verzoeker. In deze fase krijgen zowel de werkgever als de verzoeker vier weken de tijd om schriftelijk te reageren op het conceptrapport. Voor deze schriftelijke reactie wordt een door het Huis vastgesteld sjabloon gebruikt. Evenals voor het feitenrelaas geldt voor het conceptrapport een geheimhoudingsplicht voor beide partijen.
+
+- 6. *Anoniem eindrapport:*na verwerking van de reactie(s) op het conceptrapport wordt het eindrapport (geanonimiseerd) vastgesteld door de bestuurder Onderzoek. De verzoeker en de werkgever krijgen beiden het eindrapport toegestuurd. Ook wordt het eindrapport gepubliceerd op de website van het Huis. Over het eindrapport wordt doorgaans een persbericht opgesteld.
+
+- 7. *Aanbevelingen:* Indien daartoe aanleiding bestaat worden in het eindrapport aanbevelingen aan de werkgever opgenomen. Binnen een redelijke termijn dient de werkgever aan het Huis te laten weten op welke manier hij gevolg geeft aan de aanbevelingen. Als de werkgever overweegt de aanbevelingen niet op te volgen, zal hij het Huis hierover moeten informeren. De werkgever zal in dat geval moeten onderbouwen waarom hij overweegt de aanbevelingen niet op te volgen.
+
+Verschillen
+
 Zoals uit het voorgaande blijkt zijn er enkele verschillen tussen het uitvoeren van een misstandonderzoek en een bejegeningsonderzoek. De reden hiervan is dat bij een bejegeningsonderzoek de (behandeling van de) verzoeker zelf het hoofdonderwerp van het onderzoek vormt. Bij een misstandonderzoek draait het om de misstand en niet om de verzoeker. Dit onderscheid is gemaakt om de last van de schouders van de verzoeker te halen. Bij een bejegeningsonderzoek wordt de verzoeker daarom, evenals de werkgever, betrokken bij het opstellen van de (concept-)onderzoeksvragen. Ook het feitenrelaas wordt bij een bejegeningsonderzoek altijd aan de werkgever én de verzoeker gestuurd, met het verzoek om een reactie te geven op de volledigheid en juistheid van de beschreven feiten.
 
 Tot slot kan een verzoeker na de start van een bejegeningsonderzoek zijn verzoek tot het onderzoek alsnog intrekken. Het Huis zal dan, mede gelet op de redenen voor het intrekkingsverzoek en de fase waarin het onderzoek zich bevindt, bepalen of het onderzoek (al dan niet) wordt voortgezet. Bij een misstandonderzoek ligt dat anders. Als een verzoeker zijn verzoek om een misstandonderzoek intrekt, dan zal het Huis het onderzoek in beginsel voortzetten (zie par 2.1).
+
+Combinatie bejegenings- en misstandonderzoek
 
 Het kan voorkomen dat het Huis zowel onderzoek doet naar een (vermoeden van een) misstand én de wijze waarop de verzoeker door de werkgever is behandeld. In die gevallen wordt door het Huis zoveel mogelijk de hierboven beschreven procedures aangehouden. Dit betekent bijvoorbeeld dat een verzoeker in beginsel wel de onderzoeksvragen en het feitenrelaas krijgt voorgelegd voor zover het gaat om zijn bejegening, maar (in beginsel) niet het feitenrelaas voor zover het gaat om de misstand.
 
@@ -116,12 +175,18 @@ Ook kan een reden voor beëindiging zijn dat het Huis op basis van nieuwe inzich
 
 ### 4. Interne samenwerking
 
+Afdeling Advies van het Huis
+
 De afdeling Advies van het Huis verleent advies en ondersteuning aan (potentiële) melders, degene die de melder bijstaat of een betrokken derde door te informeren, voor te lichten en waar mogelijk door te verwijzen, en heeft daarmee een andere taak dan de afdeling Onderzoek. De afdeling Onderzoek heeft geen toegang tot gegevens die bij de afdeling Advies berusten. Dit geldt ook andersom: de afdeling Advies heeft geen toegang tot gegevens die bij de afdeling Onderzoek berusten. Er wordt tussen de afdelingen Advies en Onderzoek geen informatie gedeeld, tenzij een verzoeker schriftelijk verklaart daartegen geen bezwaar te hebben. In dergelijke gevallen kunnen de afdeling Onderzoek en de afdeling Advies in overleg treden.
 
 Binnen het Huis is tevens regelmatig overleg tussen de afdelingen Onderzoek, Advies en Kennis en Preventie en binnen het bestuur over de interpretatie van (wettelijke) begrippen, de methoden van onderzoek en de van de verschillende soorten onderzoeken te verwachten resultaten, trends en ontwikkelingen in adviesverzoeken, de signalering daarvan ten behoeve van derden en voor algemene voorlichting en informatieverschaffing. In overlegsituaties wordt de identiteit van verzoekers om onderzoek niet bekend gemaakt.
 
 ### 5. Afstemming met andere instanties
 
+Openbaar Ministerie (OM)
+
 Een onderzoek door het Huis naar aanleiding van een melding van een misstand kan samenlopen met strafrechtelijke onderzoeken. Zowel het OM als het Huis hebben zelfstandige wettelijke verantwoordelijkheden en bevoegdheden waarbij, naast het algemeen belang, ook de belangen van melders, slachtoffers en anderen een rol spelen. In beide onderzoeken kunnen vergaande bevoegdheden worden toegepast. Het is voorzienbaar dat deze onderzoeken zich bij samenloop, in ieder geval deels, op dezelfde aspecten zullen richten. Het is daarom gewenst dat in voorkomende gevallen, met het oog op afstemming, overleg plaatsvindt tussen OM en het Huis, met inachtneming van die eigen verantwoordelijkheid en de toepasselijke wettelijke kaders. Het Huis en het OM hebben in een afstemmingsprotocol afspraken gemaakt over samenwerking en informatie-uitwisseling die zien op die gevallen waarin door beide instanties een onderzoek wordt ingesteld naar eenzelfde voorval.
+
+Andere instanties
 
 Het Huis kan zijn werkzaamheden in het kader van een onderzoek afstemmen met andere instanties. Samenwerkingsprotocollen met andere instanties worden gepubliceerd op de website van het Huis.

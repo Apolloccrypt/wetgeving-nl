@@ -1,39 +1,18 @@
 ---
 title: "Regeling Controle en administratie Wlz-uitvoerder TH/NR-032"
+citeertitel: "Regeling Controle en administratie Wlz-uitvoerder"
 identifier: "BWBR0049528"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-04-05"
-last_updated: "2024-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049528"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17064453"
-version_id: "30030152"
-internal_id: "C43043781"
-label_id: "16973224"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049528/2024-04-05/0"
-intitule_bron: "Stcrt.2024-10087"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-04-04"
-intitule_in_force: "2024-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-10087"
-original_published_date: "2024-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-10087"
-entry_into_force_date: "2024-04-05"
-jci_1_3: "jci1.3:c:BWBR0049528&z=2024-04-05&g=2024-04-05"
-jci_1_0: "1.0:c:BWBR0049528&g=2024-04-05"
-citeertitel_status: "officieel"
-short_title: "Regeling Controle en administratie Wlz-uitvoerder"
-entry_into_force: "2024-04-05"
+publicatiedatum: 2024-04-05
+laatste_update: 2024-04-05
+status: geldig
+toestand: 2024-04-05
+bron: "https://wetten.overheid.nl/BWBR0049528"
+opgehaald: 2026-09-05
 ---
-# Regeling Controle en administratie Wlz-uitvoerder TH/NR-032
 
-Gelet op [artikel 31, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31), en [artikel 36, derde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) (Wmg), heeft de Nederlandse Zorgautoriteit (NZa) in overeenstemming met Zorginstituut Nederland, voor zover het administratievoorschriften betreft, de volgende regeling vastgesteld.
+# Regeling Controle en administratie Wlz-uitvoerder TH/NR-032
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -89,29 +68,41 @@ Deze regeling is van toepassing op de Wlz-uitvoerder.
 
 ##### Artikel 7. Bepalingen over controle-aanpak
 
+Risico-analyse
+
 1. De Wlz-uitvoerder stelt een risicoanalyse met voldoende reikwijdte en diepgang op als basis voor het controleplan. In de risicoanalyse worden alle doelen van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), zoals opgenomen in de Beleidsregel normenkader Wlz-uitvoerder, betrokken. De Wlz-uitvoerder waarborgt daarbij dat informatie beschikbaar is voor een dergelijke op doelbereiking gerichte risicoanalyse.
 
 2. De Wlz-uitvoerder legt de totstandkoming van de risicoanalyse en de keuzes in betrokken onderwerpen op inzichtelijke wijze vast in zijn administratie.
 
 3. De Wlz-uitvoerder waarborgt dat de risicoanalyse actueel is en beoordeelt daartoe tenminste eenmaal per jaar of de risicoanalyse moet worden aangepast.
 
+Controleplan
+
 4. De Wlz-uitvoerder beschikt over een controleplan voor de uitvoering van de controleactiviteiten, gebaseerd op zijn actuele risicoanalyse, waarbij de Wlz-uitvoerder rekening houdt met de bepaling in [artikel 7.4 van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.4). De Wlz-uitvoerder beschrijft in het controleplan op welke wijze en met toepassing van welke instrumenten hij de controledoelen zal realiseren. De controledoelen vloeien voort uit de eisen van betrouwbaarheid en nauwkeurigheid zoals weergegeven in het [Protocol accountantsonderzoek Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0046224) ten aanzien van het door de accountant uit te voeren onderzoek.
+
+Specifieke bepalingen formele controle
 
 5. De Wlz-uitvoerder betrekt de geautomatiseerde declaratieverwerking bij de nadere uitwerking van de formele controle, zodanig dat er inzicht is of en op welke geprogrammeerde controles er gesteund wordt, dan wel hoe dit voldoende is ondervangen door de inzet van andere instrumenten.
 
+Specifieke bepaling voor materiële controle en fraudeonderzoek
+
 6. De Wlz-uitvoerder baseert haar algemene en specifieke controleplan voor de materiële controle en het fraudeonderzoek op de [Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014). Om de daadwerkelijke levering van gedeclareerde zorg te beoordelen, maakt de Wlz-uitvoerder gebruik van de instrumenten detailcontrole en/of enquête (gericht op risicogebieden) voor zover nodig om de gestelde controledoelen te behalen.
+
+Specifieke bepalingen voor onderzoek in verband met verstrekte pgb’s
 
 7. Het controleplan bedoeld in 7.4 bevat in verband met de verstrekte pgb’s:
 
-- •. de uit te voeren bestandsanalyse (waarbij is aangegeven op basis van welke aannames en criteria deze wordt uitgevoerd);
+- • de uit te voeren bestandsanalyse (waarbij is aangegeven op basis van welke aannames en criteria deze wordt uitgevoerd);
 
-- •. de risicoanalyse voor de uitvoering van huisbezoeken die tenminste gericht is op het selecteren van pgb-betalingen met een hoger dan gemiddeld risico op onjuiste en onrechtmatige uitgaven;
+- • de risicoanalyse voor de uitvoering van huisbezoeken die tenminste gericht is op het selecteren van pgb-betalingen met een hoger dan gemiddeld risico op onjuiste en onrechtmatige uitgaven;
 
-- •. de onderbouwing waaruit blijkt dat de controle qua aard, omvang en diepgang toereikend is;
+- • de onderbouwing waaruit blijkt dat de controle qua aard, omvang en diepgang toereikend is;
 
-- •. de reikwijdte en diepgang van de controles in het betreffende jaar.
+- • de reikwijdte en diepgang van de controles in het betreffende jaar.
 
-8. De Wlz-uitvoerder legt betreffende de verstrekte pgb’s huisbezoeken af bij die steekproeven van verzekerden die voortvloeien uit het controleplan. Uitgangspunt daarbij moet zijn dat tenminste 33% van de totale populatie (op 1 juli van jaar t) verzekerden aan wie een pgb is toegekend, wordt onderzocht op basis van de in 7.7 genoemde risicoanalyse.
+8. De Wlz-uitvoerder legt betreffende de verstrekte pgb’s huisbezoeken af bij die steekproeven van verzekerden die voortvloeien uit het controleplan. Uitgangspunt daarbij moet zijn dat tenminste 33% van de totale populatie (op 1 juli van jaar t) verzekerden aan wie een pgb is toegekend, wordt onderzocht op basis van de in 7.7 genoemde risicoanalyse.
+
+Specifieke bepalingen voor fraudeonderzoek
 
 9. De Wlz-uitvoerder legt op inzichtelijke wijze in zijn administratie vast of en in hoeverre het controleplan voldoet aan de (inrichtings)eisen van het Protocol Verzekeraars & Criminaliteit en andere geldende gedragscodes en protocollen.
 
@@ -121,23 +112,29 @@ Deze regeling is van toepassing op de Wlz-uitvoerder.
 
 De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt de Wlz-uitvoerder ten minste vast:
 
-- •. welke signalen van vermoeden naar fraude hij heeft ontvangen;
+- • welke signalen van vermoeden naar fraude hij heeft ontvangen;
 
-- •. welke signalen van vermoeden naar fraude betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- • welke signalen van vermoeden naar fraude betrekking hebben op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- •. welke signalen van vermoeden naar fraude betrekking hebben op verzekerden, welke op zorgaanbieders, welke op het verstrekken van pgb en welke op interne fraude;
+- • welke signalen van vermoeden naar fraude betrekking hebben op verzekerden, welke op zorgaanbieders, welke op het verstrekken van pgb en welke op interne fraude;
 
-- •. in welke mate (aard, aantallen en bedragen) sprake is van daadwerkelijk geconstateerde fraude;
+- • in welke mate (aard, aantallen en bedragen) sprake is van daadwerkelijk geconstateerde fraude;
 
-- •. vervolgacties, inclusief de hieraan ten grondslag liggende afwegingen.
+- • vervolgacties, inclusief de hieraan ten grondslag liggende afwegingen.
 
 ##### Artikel 8. Bepalingen over uitvoering van controles
+
+Algemeen
 
 1. De Wlz-uitvoerder voert de controleplannen tijdig uit, waarbij de Wlz-uitvoerder rekening houdt met de verschillende verantwoordingsjaren van de zorguitgaven.
 
 2. Indien de Wlz-uitvoerder afwijkt van het controleplan neemt hij op inzichtelijke wijze in zijn administratie de reden van de afwijking op. De Wlz-uitvoerder kwantificeert de afwijking.
 
+Specifieke bepaling voor materiële controles
+
 3. De Wlz-uitvoerder neemt een reactie van de zorgaanbieder, als bedoeld in [artikel 7.8, lid 4, van de Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=7.8), op inzichtelijke wijze op in zijn administratie en vermeldt daarbij de wijze waarop hij de reactie van de zorgaanbieder bij de vaststelling van de definitieve uitkomsten van de detailcontrole heeft betrokken.
+
+Specifieke bepaling voor fraudeonderzoek
 
 4. Bij de uitvoering van fraudeonderzoek voert de Wlz-uitvoerder verdiepend vervolgonderzoek uit op signalen of vermoedens van fraude om vast te stellen of fraude is gepleegd.
 
@@ -156,6 +153,8 @@ De Wlz-uitvoerder registreert signalen en onderzoek naar fraude en daarbij legt 
 6. De Wlz-uitvoerder corrigeert tijdig alle door hem of door de accountant geconstateerde fouten in zijn administratie en zijn verantwoording van de uitgaven [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor zover het om fouten gaat die hij kan corrigeren. De Wlz-uitvoerder onderzoekt en kwantificeert tijdig de gevolgen van alle onzekerheden over de rechtmatigheid van de uitgaven van de Wlz.
 
 7. De Wlz-uitvoerder treft, op basis van de evaluatie en afhankelijk van de ernst van de bevindingen, zo nodig maatregelen richting externe partijen.
+
+Specifieke bepaling voor fraudeonderzoek
 
 8. De Wlz-uitvoerder neemt op inzichtelijke wijze in zijn administratie per geval van vastgestelde fraude op welke maatregelen hij heeft getroffen. Indien de Wlz-uitvoerder een
 
@@ -189,10 +188,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [regeling contro
 
 ##### Artikel 13. Toepasselijkheid voorafgaande regeling, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorafgaande regeling
+
 De [Regeling controle en administratie Wlz-uitvoerders](https://wetten.overheid.nl/jci1.3:c:BWBR0041510), met kenmerk TH/NR-013, blijft van toepassing op gedragingen (handelen en nalaten) van Wlz-uitvoerders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
+
+Inwerkingtreding/Bekendmaking
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
+
+Citeertitel
 
 Deze regeling kan worden aangehaald als: ‘Regeling Controle en administratie Wlz-uitvoerder

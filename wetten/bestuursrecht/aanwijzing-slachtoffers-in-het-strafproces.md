@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing slachtoffers in het strafproces"
 identifier: "BWBR0049366"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-03-01"
-last_updated: "2024-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049366"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17030363"
-version_id: "29965302"
-internal_id: "C42958521"
-label_id: "16940924"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049366/2024-03-01/0"
-intitule_bron: "Stcrt.2024-4318"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-02-13"
-intitule_in_force: "2024-02-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-4318"
-original_published_date: "2024-02-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-4318"
-entry_into_force_date: "2024-03-01"
-jci_1_3: "jci1.3:c:BWBR0049366&z=2024-03-01&g=2024-03-01"
-jci_1_0: "1.0:c:BWBR0049366&g=2024-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-03-01"
+publicatiedatum: 2024-03-01
+laatste_update: 2024-03-01
+status: geldig
+toestand: 2024-03-01
+bron: "https://wetten.overheid.nl/BWBR0049366"
+opgehaald: 2026-09-05
 ---
+
 # Aanwijzing slachtoffers in het strafproces
 
 ### Samenvatting
@@ -48,7 +29,7 @@ Een slachtoffer van een strafbaar feit kan verschillende hoedanigheden hebben. H
 
 In deze Aanwijzing wordt met slachtoffer bedoeld het slachtoffer zoals gedefinieerd in [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a), tenzij anders aangegeven. Onder artikel 51a lid 1 onder a Sv vallen twee categorieën slachtoffers: rechtstreekse slachtoffers en niet-rechtstreekse slachtoffers. Een rechtstreeks slachtoffer (sub 1°) is degene die als rechtstreeks gevolg van een strafbaar feit vermogensschade of ander nadeel heeft ondervonden. Een rechtspersoon kan ook een rechtstreeks slachtoffer zijn. Een niet-rechtstreeks slachtoffer (sub 2°) is de nabestaande van een overleden rechtstreeks slachtoffer.
 
-Elk slachtoffer in de zin van [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a) kan zich ook voegen als benadeelde partij.2Het omgekeerde geldt overigens niet, want het begrip benadeelde partij is iets breder en dus is niet elke benadeelde partij is ook een slachtoffer is in de zin van artikel 51a Sv Zowel voor de hoedanigheid van slachtoffer in de zin van artikel 51a Sv als voor de hoedanigheid van benadeelde partij is van belang dat het slachtoffer 1) schade heeft geleden en 2) de schade het rechtstreekse gevolg is van een strafbaar feit.3HR 28 mei 2019, ECLI:NL:HR:2019:793. Onder schade valt naast materiele schade ook immateriële schade zoals geestelijke letsel, shockschade en schade na ernstige normschendingen. Van rechtstreekse schade is sprake indien tussen het bewezenverklaarde handelen van de verdachte en de schade voldoende verband bestaat. De schade hoeft geen betrekking te hebben op de voorwerpen die in de bewezenverklaring zijn vermeld, bij vermogensschade is de schade niet beperkt tot het bedrag dat door de verdachte is verworven en niet is vereist dat het slachtoffer is getroffen in een belang dat door de overtreden strafbepaling rechtstreeks wordt beschermd.
+Elk slachtoffer in de zin van [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a) kan zich ook voegen als benadeelde partij.2Het omgekeerde geldt overigens niet, want het begrip benadeelde partij is iets breder en dus is niet elke benadeelde partij is ook een slachtoffer is in de zin van artikel 51a Sv Zowel voor de hoedanigheid van slachtoffer in de zin van artikel 51a Sv als voor de hoedanigheid van benadeelde partij is van belang dat het slachtoffer 1) schade heeft geleden en 2) de schade het rechtstreekse gevolg is van een strafbaar feit.3HR 28 mei 2019, ECLI:NL:HR:2019:793. Onder schade valt naast materiele schade ook immateriële schade zoals geestelijke letsel, shockschade en schade na ernstige normschendingen. Van rechtstreekse schade is sprake indien tussen het bewezenverklaarde handelen van de verdachte en de schade voldoende verband bestaat. De schade hoeft geen betrekking te hebben op de voorwerpen die in de bewezenverklaring zijn vermeld, bij vermogensschade is de schade niet beperkt tot het bedrag dat door de verdachte is verworven en niet is vereist dat het slachtoffer is getroffen in een belang dat door de overtreden strafbepaling rechtstreeks wordt beschermd.
 
 De hoedanigheid van rechtstreeks belanghebbende omvat alle slachtoffers in de zin van [artikel 51a Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51a). Verder valt onder rechtstreeks belanghebbende ook de rechtspersoon die krachtens zijn doelstelling en blijkens zijn feitelijke werkzaamheden een belang behartigt dat door de beslissingen van het openbaar ministerie wordt getroffen. In bepaalde gevallen kunnen ook familieleden van het rechtstreekse slachtoffer, gesubrogeerde verzekeraars en de verdachte als rechtstreeks belanghebbende worden aangemerkt.
 
@@ -110,7 +91,7 @@ Het slachtoffer dat aangifte wil doen en de Nederlandse taal niet beheerst, word
 
 ### 3.3. Privacybescherming
 
-Bij het opnemen van de aangifte of de start van een verhoor informeert de opsporingsinstantie het slachtoffer dat alle informatie in de aangifte of het verhoor in beginsel wordt gedeeld met het openbaar ministerie, bij vervolging met de verdachte en bij dagvaarding met de rechter. Er zijn mogelijkheden om bepaalde persoonsgegevens, zoals de naam en het adres van het slachtoffer, buiten de aangifte of het proces-verbaal van verhoor te houden. Er kan – afhankelijk van de omstandigheden – in overleg met het slachtoffer gekozen worden voor de in 3.4 en 3.5 genoemde modaliteiten. Voorwaarde is in ieder geval dat de betreffende persoonsgegevens afzonderlijk worden geregistreerd en de identiteit van het slachtoffer genoegzaam kan worden vastgesteld.
+Bij het opnemen van de aangifte of de start van een verhoor informeert de opsporingsinstantie het slachtoffer dat alle informatie in de aangifte of het verhoor in beginsel wordt gedeeld met het openbaar ministerie, bij vervolging met de verdachte en bij dagvaarding met de rechter. Er zijn mogelijkheden om bepaalde persoonsgegevens, zoals de naam en het adres van het slachtoffer, buiten de aangifte of het proces-verbaal van verhoor te houden. Er kan – afhankelijk van de omstandigheden – in overleg met het slachtoffer gekozen worden voor de in [3.4](https://wetten.overheid.nl/BWBR0049366) en [3.5](https://wetten.overheid.nl/BWBR0049366) genoemde modaliteiten. Voorwaarde is in ieder geval dat de betreffende persoonsgegevens afzonderlijk worden geregistreerd en de identiteit van het slachtoffer genoegzaam kan worden vastgesteld.
 
 ### 3.4. Domiciliekeuze
 

@@ -9,7 +9,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0035971"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Regeling van de Minister van Economische Zaken van 9 december 2014, nr. WJZ/14198645, houdende regels omtrent garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit (Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit)

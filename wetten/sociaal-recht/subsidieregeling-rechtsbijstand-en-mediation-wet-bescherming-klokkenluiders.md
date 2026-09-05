@@ -1,44 +1,18 @@
 ---
 title: "Subsidieregeling van het bestuur van de Raad voor Rechtsbijstand tot het verstrekken van subsidie voor rechtsbijstand en mediation ten behoeve van bescherming bij een melding van een vermoeden van een misstand als bedoeld in de Wet bescherming klokkenluiders (Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders)"
+citeertitel: "Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders"
 identifier: "BWBR0049293"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-08-01"
-last_updated: "2024-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049293"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17015333"
-version_id: "29929932"
-internal_id: "C42897431"
-label_id: "16925404"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049293/2024-08-01/0"
-intitule_bron: "Stcrt.2024-960"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-01-04"
-intitule_published: "2024-01-15"
-intitule_in_force: "2024-01-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-960"
-original_signed_date: "2024-01-04"
-original_published_date: "2024-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-960"
-entry_into_force_date: "2024-02-01"
-jci_1_3: "jci1.3:c:BWBR0049293&z=2024-08-01&g=2024-08-01"
-jci_1_0: "1.0:c:BWBR0049293&g=2024-08-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders"
-signed_date: "2024-01-04"
-entry_into_force: "2024-02-01"
+publicatiedatum: 2024-02-01
+laatste_update: 2024-08-01
+status: geldig
+toestand: 2024-08-01
+bron: "https://wetten.overheid.nl/BWBR0049293"
+opgehaald: 2026-09-05
 ---
+
 # Subsidieregeling van het bestuur van de Raad voor Rechtsbijstand tot het verstrekken van subsidie voor rechtsbijstand en mediation ten behoeve van bescherming bij een melding van een vermoeden van een misstand als bedoeld in de Wet bescherming klokkenluiders (Subsidieregeling rechtsbijstand en mediation Wet bescherming klokkenluiders)
-
-gelet op de [artikelen 33e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33e), en [37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van en met het oog op de verlening van rechtsbijstand en mediation voor bijzondere doeleinden en projecten en [artikel 3a, tweede lid, onder c, van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3a) waarin is bepaald dat de afdeling advies van het Huis voor klokkenluiders tot taak heeft een melder van een vermoeden van een misstand, degene die een melder bijstaat en een betrokken derde te verwijzen naar instanties of organisaties die juridische of psychosociale ondersteuning kunnen verlenen,
-
-besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -46,43 +20,47 @@ besluit:
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=6&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. *advocaat:* de advocaat die op basis van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=6&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
 
-- b. **afdeling advies van het Huis voor klokkenluiders:** de afdeling advies, bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- b. *afdeling advies van het Huis voor klokkenluiders:* de afdeling advies, bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- c. **bestuur:** het bestuur van de Raad voor Rechtsbijstand, bedoeld in [artikel 3 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- c. *bestuur:* het bestuur van de Raad voor Rechtsbijstand, bedoeld in [artikel 3 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- d. **betrokken derde:** een betrokken derde als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- d. *betrokken derde:* een betrokken derde als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- e. **Bvr:** [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- e. *Bvr:*
+ [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- f. **degene die een melder bijstaat:** degene die een melder bijstaat als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- f. *degene die een melder bijstaat:* degene die een melder bijstaat als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- g. **mediation:** mediation als bedoeld in [artikel 1 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in een geschil tussen de rechtzoekende en zijn (voormalige) werkgever of opdrachtgever dat is ontstaan naar aanleiding van een melding van een vermoeden van een misstand;
+- g. *mediation:* mediation als bedoeld in [artikel 1 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) in een geschil tussen de rechtzoekende en zijn (voormalige) werkgever of opdrachtgever dat is ontstaan naar aanleiding van een melding van een vermoeden van een misstand;
 
-- h. **mediator:** de mediator die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=7&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
+- h. *mediator:* de mediator die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=7&z=2024-08-01&g=2024-08-01) van deze regeling is toegelaten tot deze subsidieregeling;
 
-- i. **misstand:** een misstand als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- i. *misstand:* een misstand als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- j. **melder:** een melder als bedoeld in [artikel 1 van de Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1), alsmede een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten voornemens is een melding van een vermoeden van een misstand te doen;
+- j. *melder:* een melder als bedoeld in [artikel 1 van de Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1), alsmede een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten voornemens is een melding van een vermoeden van een misstand te doen;
 
-- k. **procedure:** procedure als bedoeld in [artikel 1, onderdeel b, Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=1);
+- k. *procedure:* procedure als bedoeld in [artikel 1, onderdeel b, Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=1);
 
-- l. **regeling:** [Subsidieregeling rechtsbijstand en mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0048973) bij een vermoeden van een misstand;
+- l. *regeling:*
+ [Subsidieregeling rechtsbijstand en mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0048973) bij een vermoeden van een misstand;
 
-- m. **rechtsbijstand:** rechtsbijstand als bedoeld in [artikel 1 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) door een advocaat aan een rechtzoekende ter zake van een rechtsbelang van de rechtzoekende in verband met een (voorgenomen) melding van een vermoeden van een misstand;
+- m. *rechtsbijstand:* rechtsbijstand als bedoeld in [artikel 1 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) door een advocaat aan een rechtzoekende ter zake van een rechtsbelang van de rechtzoekende in verband met een (voorgenomen) melding van een vermoeden van een misstand;
 
-- n. **rechtzoekende:** een melder, degene die een melder bijstaat of een betrokken derde die aanspraak maakt op rechtsbijstand of mediation op grond van deze regeling;
+- n. *rechtzoekende:* een melder, degene die een melder bijstaat of een betrokken derde die aanspraak maakt op rechtsbijstand of mediation op grond van deze regeling;
 
-- o. **toevoeging:** de toevoeging als bedoeld in de [Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) ten behoeve van mediation of rechtsbijstand zoals bedoeld onder ‘g’ respectievelijk onder ‘m’ van dit artikel;
+- o. *toevoeging:* de toevoeging als bedoeld in de [Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) ten behoeve van mediation of rechtsbijstand zoals bedoeld onder ‘g’ respectievelijk onder ‘m’ van dit artikel;
 
-- p. **vergoeding:** de op grond van deze regeling vast te stellen subsidie;
+- p. *vergoeding:* de op grond van deze regeling vast te stellen subsidie;
 
-- q. **vermoeden van een misstand:** een vermoeden van een misstand als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
+- q. *vermoeden van een misstand:* een vermoeden van een misstand als bedoeld in [artikel 1 Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=1);
 
-- r. **Wbk:** [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852);
+- r. *Wbk:*
+ [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852);
 
-- s. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
+- s. *Wrb:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
 ##### Artikel 2. Doel
 
@@ -96,7 +74,7 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 ##### Artikel 4. De vergoedingen voor rechtsbijstandsverlening en mediation
 
-1. Voor de rechtsbijstand aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een advocaat, in afwijking van de bijlage bij het Bvr, een vergoeding van **22** punten toegekend ter zake van het verlenen van rechtsbijstand in:
+1. Voor de rechtsbijstand aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een advocaat, in afwijking van de [bijlage](https://wetten.overheid.nl/BWBR0049293) bij het Bvr, een vergoeding van *22* punten toegekend ter zake van het verlenen van rechtsbijstand in:
 
 - a. een procedure bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea);
 
@@ -106,7 +84,7 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 2. [Artikel 5, tweede lid, Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=5) is niet van toepassing indien een procedure tussentijds is beëindigd, mits een bewijs dat de procedure aanhangig is gemaakt als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=12&z=2024-08-01&g=2024-08-01) aan het bestuur kan worden overlegd.
 
-3. Voor de mediation aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een mediator een vergoeding van **10** punten toegekend voor mediation bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea) of aansprakelijkheidstelling als bedoeld in [artikel 17f Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17f).
+3. Voor de mediation aan de rechtzoekende zoals bedoeld in deze regeling waarbij sprake is van een doorverwijzing als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=IV&artikel=9&z=2024-08-01&g=2024-08-01), wordt aan een mediator een vergoeding van *10* punten toegekend voor mediation bij benadeling als bedoeld in de [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17e) en [17ea Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17ea) of aansprakelijkheidstelling als bedoeld in [artikel 17f Wbk](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=17f).
 
 ##### Artikel 5. Kosteloze rechtsbijstand en mediation voor de rechtzoekende
 
@@ -118,13 +96,13 @@ Voor zover in deze regeling geen afwijkende regeling wordt getroffen of bepaling
 
 ##### Artikel 6. Voorwaarden tot deelname voor advocaten
 
-1. De regeling is van toepassing op advocaten die voldoen aan de voorwaarde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de bijlage onder I genoemde deelnamecriteria.
+1. De regeling is van toepassing op advocaten die voldoen aan de voorwaarde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de [bijlage](https://wetten.overheid.nl/BWBR0049293) onder I genoemde deelnamecriteria.
 
 2. Advocaten kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
 ##### Artikel 7. Voorwaarden tot deelname voor mediators
 
-1. De regeling is van toepassing op mediators die voldoen aan de voorwaarde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de bijlage onder II genoemde deelnamecriteria.
+1. De regeling is van toepassing op mediators die voldoen aan de voorwaarde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01), en de in de [bijlage](https://wetten.overheid.nl/BWBR0049293) onder II genoemde deelnamecriteria.
 
 2. Mediators kunnen een gemotiveerd verzoek tot deelname indienen bij het bestuur.
 
@@ -186,16 +164,6 @@ Deze regeling wordt aangehaald als: Subsidieregeling rechtsbijstand en mediation
 
 ##### Artikel 16. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 1 februari 2024, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01) dat op 1 augustus 2024 in werking treedt.
+1. Deze regeling treedt in werking op 1 februari 2024, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049293&hoofdstuk=III&artikel=8&z=2024-08-01&g=2024-08-01) dat op 1 augustus 2024 in werking treedt.
 
-2. Deze regeling vervalt op 1 februari 2028, met dien verstande dat de regeling van toepassing blijft op toevoegingen die door de Raad voor deze datum op grond van deze regeling zijn verleend.
-
-## Bijlage. Deelnamecriteria voor advocaten en mediators
-
-### I. Deelnamecriteria advocaten
-
-Voor deelname aan deze regeling gelden voor advocaten de volgende cumulatieve voorwaarden:
-
-### II. Deelname criteria mediators
-
-Voor deelname aan deze regeling gelden voor mediators de volgende cumulatieve voorwaarden:
+2. Deze regeling vervalt op 1 februari 2028, met dien verstande dat de regeling van toepassing blijft op toevoegingen die door de Raad voor deze datum op grond van deze regeling zijn verleend.

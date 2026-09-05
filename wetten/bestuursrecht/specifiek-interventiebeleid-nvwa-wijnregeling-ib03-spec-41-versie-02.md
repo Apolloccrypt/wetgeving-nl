@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA wijnregeling (IB03-SPEC 41, versie 02)"
+citeertitel: "Specifiek interventiebeleid NVWA Wijnregeling (IB03-SPEC 41, versie 02)"
 identifier: "BWBR0049219"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-13"
-last_updated: "2024-01-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049219"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "16996393"
-version_id: "29892002"
-internal_id: "C42855721"
-label_id: "16906824"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049219/2024-01-13/0"
-intitule_bron: "Stcrt.2024-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-19"
-intitule_published: "2024-01-12"
-intitule_in_force: "2024-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-207"
-original_signed_date: "2023-12-19"
-original_published_date: "2024-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-207"
-entry_into_force_date: "2024-01-13"
-jci_1_3: "jci1.3:c:BWBR0049219&z=2024-01-13&g=2024-01-13"
-jci_1_0: "1.0:c:BWBR0049219&g=2024-01-13"
-citeertitel_status: "officieel"
-short_title: "Specifiek interventiebeleid NVWA Wijnregeling (IB03-SPEC 41, versie 02)"
-signed_date: "2023-12-19"
-entry_into_force: "2024-01-13"
+publicatiedatum: 2024-01-13
+laatste_update: 2024-01-13
+status: geldig
+toestand: 2024-01-13
+bron: "https://wetten.overheid.nl/BWBR0049219"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA wijnregeling (IB03-SPEC 41, versie 02)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,
@@ -54,17 +32,35 @@ Overtredingen met betrekking tot de productie van en handel in wijn die de inspe
 
 Hieronder is een aantal specifieke definities opgenomen in aanvulling op de definities en begrippen uit het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215) (NVWA-IB03).
 
-**Inspectie:**
+*Inspectie:*
 
 Elke vorm van controle door een inspecteur van de NVWA om na te gaan of de wet- en regelgeving inzake wijn produceren en wijn verhandelen wordt nageleefd. De inspecteur kan, indien de regelgeving dat toelaat, er voor kiezen om deze van tevoren aan te kondigen.
 
-**Herinspectie:**
+*Herinspectie:*
 
 Een inspectie ingesteld door een NVWA-inspecteur, die volgt op een eerdere inspectie waarbij een overtreding is geconstateerd, een termijn is aangegeven voor te nemen maatregelen en een volgende inspectie noodzakelijk wordt geacht. Deze volgende inspectie is om na te gaan of na de gestelde termijn afdoende corrigerende maatregelen zijn genomen om de overtreding op te heffen en om nieuwe overtredingen te voorkomen.
 
 ### 2.2. 2.2. Wettelijke basis
 
 Dit specifieke interventiebeleid is de eerste voor de handhaving met betrekking tot de Wijnregeling. De specifieke uitwerkingen zijn gebaseerd op de bepalingen en artikelen van de wetgeving:
+
+- • [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252)
+
+- • [Regeling wijn en olijfolie](https://wetten.overheid.nl/jci1.3:c:BWBR0035180)
+
+- • Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten
+
+- • Uitvoeringsverordening (EU) 2018/274 van de Commissie van 11 december 2017 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft het vergunningenstelsel voor het aanplanten van wijnstokken, certificering, het in- en uitslagregister, verplichte opgaven en meldingen
+
+- • Verordening (EU) nr. 251/2014 van het Europees Parlement en de Raad van 26 februari 2014 inzake de definitie, de aanduiding, de aanbiedingsvorm, de etikettering en de bescherming van geografische aanduidingen van gearomatiseerde wijnbouwproducten
+
+- • Gedelegeerde Verordening (EU) 2019/934 van de Commissie van 12 maart 2019 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft de wijnbouwoppervlakten waar het alcoholgehalte mag worden verhoogd, de toegestane oenologische procedés en de beperkingen met betrekking tot de productie en de bewaring van wijnbouwproducten, het minimale alcoholpercentage voor bijproducten en de verwijdering van die producten, en de bekendmaking van OIV-dossiers
+
+- • Gedelegeerde Verordening (EU) 2019/33 van de Commissie van 17 oktober 2018 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft aanvragen tot bescherming van oorsprongsbenamingen, geografische aanduidingen en traditionele aanduidingen in de wijnsector, de bezwaarprocedure, gebruiksbeperkingen, wijzigingen van productdossiers, de annulering van bescherming en de etikettering en presentatie
+
+- • Gedelegeerde Verordening (EU) 2018/273 van de Commissie van 11 december 2017 tot aanvulling van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad wat betreft het vergunningenstelsel voor het aanplanten van wijnstokken, het wijnbouwkadaster, begeleidende documenten en certificering, het in- en uitslagregister, de verplichte opgaven, meldingen en de bekendmaking van meegedeelde informatie
+
+- • [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
 
 ### 3. Werkwijze
 
@@ -74,9 +70,13 @@ Overtredingen worden ingedeeld naar de klassen zoals gedefinieerd in het [Algeme
 
 Overtredingen van de regelgeving kunnen leiden tot een verstorende marktwerking op het gebied van productie en handel in wijn.
 
-In de bijlage zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s).
+In de [bijlage](https://wetten.overheid.nl/BWBR0049219) zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s).
 
 ### 3.2. Het bepalen van interventies bij een overtreding
+
+Bestraffende sanctie
+
+Strafrecht
 
 Op basis van de [Wet Economische Delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063) (WED) wordt er in het domein wijn strafrechtelijk gehandhaafd. Als de ernst van de overtreding of de omstandigheden waaronder deze is begaan daartoe aanleiding geven, legt de NVWA deze aan het OM voor. Het OM beslist of het overgaat tot strafrechtelijke afdoening.
 
@@ -86,16 +86,18 @@ Na het constateren van een zware of middelzware overtreding kan een extra inspec
 
 ### 4. Divers
 
-Deze beleidsregel vervangt het op 2 juni 2021 vastgestelde [Specifiek interventiebeleid NVWA wijnregeling (IB02-SPEC 41, versie 01)](https://wetten.overheid.nl/jci1.3:c:BWBR0045268). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Tevens wordt de bijlage vanaf nu weergegeven op de website van de NVWA ([www.nvwa.nl/interventiebeleid](onbekend)).
+Vervanging
+
+Deze beleidsregel vervangt het op 2 juni 2021 vastgestelde [Specifiek interventiebeleid NVWA wijnregeling (IB02-SPEC 41, versie 01)](https://wetten.overheid.nl/jci1.3:c:BWBR0045268). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Tevens wordt de [bijlage](https://wetten.overheid.nl/BWBR0049219) vanaf nu weergegeven op de website van de NVWA (www.nvwa.nl/interventiebeleid).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid NVWA Wijnregeling (IB03-SPEC 41, versie 02)’.
 
+Inwerkingtreding
+
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-De bijlage van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit ([www.nvwa.nl/interventiebeleid](onbekend)).
+Bijlage
 
-## Bijlage
-
-Gepubliceerd op www.nvwa.nl/interventiebeleid.
-
-Deze beleidsregel wordt in de Staatscourant geplaatst.
+De [bijlage](https://wetten.overheid.nl/BWBR0049219) van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit (www.nvwa.nl/interventiebeleid).

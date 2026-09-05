@@ -1,70 +1,44 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 13 februari 2024, kenmerk 4644372, inzake het strategisch kader informatiebeveiliging voor de meldkamervoorzieningen die door de hoofdgebruikers worden gebruikt bij de uitvoering van hun meldkamerfunctie en worden beheerd door de beheerder (Strategisch kader informatiebeveiliging meldkamervoorzieningen)"
+citeertitel: "Strategisch kader informatiebeveiliging meldkamervoorzieningen"
 identifier: "BWBR0049397"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-02-24"
-last_updated: "2024-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049397"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17037203"
-version_id: "29977792"
-internal_id: "C42980761"
-label_id: "16946754"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049397/2024-02-24/0"
-intitule_bron: "Stcrt.2024-5405"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-13"
-intitule_published: "2024-02-23"
-intitule_in_force: "2024-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-5405"
-original_signed_date: "2024-02-13"
-original_published_date: "2024-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-5405"
-entry_into_force_date: "2024-02-24"
-jci_1_3: "jci1.3:c:BWBR0049397&z=2024-02-24&g=2024-02-24"
-jci_1_0: "1.0:c:BWBR0049397&g=2024-02-24"
-citeertitel_status: "officieel"
-short_title: "Strategisch kader informatiebeveiliging meldkamervoorzieningen"
-signed_date: "2024-02-13"
-entry_into_force: "2024-02-24"
+publicatiedatum: 2024-02-24
+laatste_update: 2024-02-24
+status: geldig
+toestand: 2024-02-24
+bron: "https://wetten.overheid.nl/BWBR0049397"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 13 februari 2024, kenmerk 4644372, inzake het strategisch kader informatiebeveiliging voor de meldkamervoorzieningen die door de hoofdgebruikers worden gebruikt bij de uitvoering van hun meldkamerfunctie en worden beheerd door de beheerder (Strategisch kader informatiebeveiliging meldkamervoorzieningen)
-
-Gelet op [artikel 23, eerste en tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In dit strategisch kader wordt verstaan onder:
 
-- a). **meldkamervoorzieningen:** alle gemeenschappelijke voorzieningen, waaronder ICT voorzieningen, die gebruikt worden door een of meer hoofdgebruikers bij de uitvoering van hun meldkamerfunctie én die door de beheerder worden beheerd;
+- a) *meldkamervoorzieningen:* alle gemeenschappelijke voorzieningen, waaronder ICT voorzieningen, die gebruikt worden door een of meer hoofdgebruikers bij de uitvoering van hun meldkamerfunctie én die door de beheerder worden beheerd;
 
-- b). **beheer:** facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van de meldkamers en het ICT-beheer ten behoeve van de meldkamerfuncties;
+- b) *beheer:* facilitaire dienstverlening, huisvesting, inrichting, onderhoud en ontwikkeling van gemeenschappelijke ICT-voorzieningen ten behoeve van de meldkamers en het ICT-beheer ten behoeve van de meldkamerfuncties;
 
-- c). **beheerder meldkamervoorzieningen:** korpschef van de politie, bedoeld in [artikel 1, aanhef en onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
+- c) *beheerder meldkamervoorzieningen:* korpschef van de politie, bedoeld in [artikel 1, aanhef en onder c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1);
 
-- d). **Landelijke Meldkamer Samenwerking:** het onderdeel van de politie waar het beheer van de meldkamers, bedoeld in [artikel 25a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a), is ondergebracht;
+- d) *Landelijke Meldkamer Samenwerking:* het onderdeel van de politie waar het beheer van de meldkamers, bedoeld in [artikel 25a van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25a), is ondergebracht;
 
-- e). **partijen:** de Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening hierbij betreft, de Minister van Defensie voor zover het de Koninklijke marechaussee betreft, de Minister van Justitie en Veiligheid en de politie;
+- e) *partijen:* de Minister voor Medische Zorg en de Regionale Ambulancevoorzieningen voor zover het de ambulancezorg betreft, de besturen van de veiligheidsregio’s voor zover het de brandweertaak, de rampenbestrijding, de crisisbeheersing en de geneeskundige hulpverlening hierbij betreft, de Minister van Defensie voor zover het de Koninklijke marechaussee betreft, de Minister van Justitie en Veiligheid en de politie;
 
-- f). **hoofdgebruikers:** de hulpdiensten politie, ambulance, brandweer en de Koninklijke Marechaussee. Defensie is in plaats van de Koninklijke Marechaussee een hoofdgebruiker voor zover het de C2000 communicatievoorziening betreft;
+- f) *hoofdgebruikers:* de hulpdiensten politie, ambulance, brandweer en de Koninklijke Marechaussee. Defensie is in plaats van de Koninklijke Marechaussee een hoofdgebruiker voor zover het de C2000 communicatievoorziening betreft;
 
-- g). **medegebruiker:** een andere gebruiker dan de hoofdgebruikers die uit oogpunt van openbare orde, veiligheid of hulpverlening in contact moeten kunnen treden met een of meer hoofdgebruikers ofwel anderszins voor een hoofdgebruiker aantoonbaar operationeel belang heeft om gebruik te maken van meldkamervoorzieningen;
+- g) *medegebruiker:* een andere gebruiker dan de hoofdgebruikers die uit oogpunt van openbare orde, veiligheid of hulpverlening in contact moeten kunnen treden met een of meer hoofdgebruikers ofwel anderszins voor een hoofdgebruiker aantoonbaar operationeel belang heeft om gebruik te maken van meldkamervoorzieningen;
 
-- h). **multidisciplinaire sturingslijn:** de sturingslijn die wordt gevormd door het Bestuurlijk Meldkamer Beraad, bedoeld in [artikel 3, eerste lid, van de Regeling hoofdlijnen beleid en beheer meldkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=3), en het Strategisch Meldkamer Beraad, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=4), van die regeling;
+- h) *multidisciplinaire sturingslijn:* de sturingslijn die wordt gevormd door het Bestuurlijk Meldkamer Beraad, bedoeld in [artikel 3, eerste lid, van de Regeling hoofdlijnen beleid en beheer meldkamers](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=3), en het Strategisch Meldkamer Beraad, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043762&artikel=4), van die regeling;
 
-- i). **informatiebeveiligingsbeleid meldkamervoorzieningen:** het geheel aan uitgangspunten, randvoorwaarden en regels ten aanzien van het proces van vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede ten aanzien van het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen, als het neerleggen van de taken en verantwoordelijkheden bij de verschillende organisaties horende bij het beheer en gebruik van de meldkamervoorzieningen;
+- i) *informatiebeveiligingsbeleid meldkamervoorzieningen:* het geheel aan uitgangspunten, randvoorwaarden en regels ten aanzien van het proces van vaststellen van de vereiste betrouwbaarheid van informatiesystemen in termen van vertrouwelijkheid, beschikbaarheid en integriteit alsmede ten aanzien van het treffen, onderhouden en controleren van een samenhangend pakket van bijbehorende maatregelen, als het neerleggen van de taken en verantwoordelijkheden bij de verschillende organisaties horende bij het beheer en gebruik van de meldkamervoorzieningen;
 
-- j). **BIO:** Baseline Informatiebeveiliging Overheid, bedoeld in de [Circulaire toepassen Baseline Informatiebeveiliging Overheid in het digitale verkeer met het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0043146);
+- j) *BIO:* Baseline Informatiebeveiliging Overheid, bedoeld in de [Circulaire toepassen Baseline Informatiebeveiliging Overheid in het digitale verkeer met het Rijk](https://wetten.overheid.nl/jci1.3:c:BWBR0043146);
 
-- k). **ICV:** in-controlverklaring, een beschrijving van de kwaliteit van de bedrijfsvoering van de betreffende organisatie met betrekking tot de verplichtingen die voortvloeien uit deze regeling en het informatiebeveiligingsbeleidsbeleid meldkamervoorzieningen.
+- k) *ICV:* in-controlverklaring, een beschrijving van de kwaliteit van de bedrijfsvoering van de betreffende organisatie met betrekking tot de verplichtingen die voortvloeien uit deze regeling en het informatiebeveiligingsbeleidsbeleid meldkamervoorzieningen.
 
 ##### Artikel 2. Algemeen kader
 
@@ -137,5 +111,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Strategisch kader informatiebeveiliging meldkamervoorzieningen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

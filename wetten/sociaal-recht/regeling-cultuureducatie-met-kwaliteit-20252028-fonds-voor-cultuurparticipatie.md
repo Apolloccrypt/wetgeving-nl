@@ -1,124 +1,91 @@
 ---
 title: "Regeling Cultuureducatie met Kwaliteit 2025–2028"
+citeertitel: "Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie"
 identifier: "BWBR0048932"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-11-23"
-last_updated: "2023-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048932"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16928703"
-version_id: "29752182"
-internal_id: "C42641361"
-label_id: "16840444"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048932/2023-11-23/0"
-intitule_bron: "Stcrt.2023-31923"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-14"
-intitule_published: "2023-11-22"
-intitule_in_force: "2023-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-31923"
-original_signed_date: "2023-11-14"
-original_published_date: "2023-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-31923"
-entry_into_force_date: "2023-11-23"
-jci_1_3: "jci1.3:c:BWBR0048932&z=2023-11-23&g=2023-11-23"
-jci_1_0: "1.0:c:BWBR0048932&g=2023-11-23"
-citeertitel_status: "officieel"
-short_title: "Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie"
-signed_date: "2023-11-14"
-entry_into_force: "2023-11-23"
+publicatiedatum: 2023-11-23
+laatste_update: 2023-11-23
+status: geldig
+toestand: 2023-11-23
+bron: "https://wetten.overheid.nl/BWBR0048932"
+opgehaald: 2026-09-05
 ---
+
 # Regeling Cultuureducatie met Kwaliteit 2025–2028
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045516);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 13 november 2023;
-
-besluit:
-
-vast te stellen de: Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
 ##### Artikel 1.1. Gebruikte begrippen
 
-- a. **Achterstandsscore:** de achterstandsscores geven de verwachte onderwijsachterstanden op scholen aan. Aan de hand van deze scores verdeelt het Ministerie van OCW het onderwijsachterstandenbudget over de scholen;
+- a. *Achterstandsscore:* de achterstandsscores geven de verwachte onderwijsachterstanden op scholen aan. Aan de hand van deze scores verdeelt het Ministerie van OCW het onderwijsachterstandenbudget over de scholen;
 
-- b. **Activiteitenkosten:** de kosten die gemaakt worden voor de uitvoering van het project. Deze kosten staan in directe relatie tot het werk van en in samenwerking met het onderwijs en culturele partners. De kosten voor coördinatie, kennisdeling, monitoring, evaluatie en accountantskosten vallen niet onder de activiteitenkosten;
+- b. *Activiteitenkosten:* de kosten die gemaakt worden voor de uitvoering van het project. Deze kosten staan in directe relatie tot het werk van en in samenwerking met het onderwijs en culturele partners. De kosten voor coördinatie, kennisdeling, monitoring, evaluatie en accountantskosten vallen niet onder de activiteitenkosten;
 
-- c. **Adhesieverklaring:** schriftelijke steunbetuiging van een gemeente of provincie aan de penvoerder, het inhoudelijke plan en begroting die passen binnen het programma Cultuureducatie met Kwaliteit 2025–2028;
+- c. *Adhesieverklaring:* schriftelijke steunbetuiging van een gemeente of provincie aan de penvoerder, het inhoudelijke plan en begroting die passen binnen het programma Cultuureducatie met Kwaliteit 2025–2028;
 
-- d. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](onbekend);
+- d. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie;
 
-- e. **Activiteit:** Een specifieke handeling of bezigheid die door de aanvrager wordt geiniteerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan het brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
+- e. *Activiteit:* Een specifieke handeling of bezigheid die door de aanvrager wordt geiniteerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan het brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
 
-- f. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021;](onbekend)
+- f. *Algemeen Subsidiereglement:*
+ Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021;
 
-- g. **Beleidsprogramma Cultuureducatie met Kwaliteit:** programma geïnitieerd door het Ministerie van OCW. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs;
+- g. *Beleidsprogramma Cultuureducatie met Kwaliteit:* programma geïnitieerd door het Ministerie van OCW. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs;
 
-- h. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao, Sint-Maarten en de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- h. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao, Sint-Maarten en de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- i. **Coördinerende werkzaamheden:** organisatorische werkzaamheden voor het voeren van penvoerderschap;
+- i. *Coördinerende werkzaamheden:* organisatorische werkzaamheden voor het voeren van penvoerderschap;
 
-- j. **Cultuureducatie:** (de sector die zich kenmerkt door) het doelbewust leren over en door middel van kunst en erfgoed binnen de school of in de directe omgeving van de school.
+- j. *Cultuureducatie:* (de sector die zich kenmerkt door) het doelbewust leren over en door middel van kunst en erfgoed binnen de school of in de directe omgeving van de school.
 
-- k. **Culturele codes:** de Code Diversiteit & Inclusie, de Fair Practice Code en de Governance Code Cultuur;
+- k. *Culturele codes:* de Code Diversiteit & Inclusie, de Fair Practice Code en de Governance Code Cultuur;
 
-- l. **Culturele instelling:** een instelling die zich inzet binnen de kunst en/of cultuursector en zich alszodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
+- l. *Culturele instelling:* een instelling die zich inzet binnen de kunst en/of cultuursector en zich alszodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
 
-- m. **Cultuur:** (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten enz. van een volk, gemeenschap of groep die tot stand komen door sociale en artistieke processen.
+- m. *Cultuur:* (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten enz. van een volk, gemeenschap of groep die tot stand komen door sociale en artistieke processen.
 
-- n. **Effect:** zie ‘outcome’.
+- n. *Effect:* zie ‘outcome’.
 
-- o. **Europees Nederland:** Nederland, zonder de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- o. *Europees Nederland:* Nederland, zonder de drie openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- p. **Fonds:** stichting Fonds voor Cultuurparticipatie;
+- p. *Fonds:* stichting Fonds voor Cultuurparticipatie;
 
-- q. **Festival:** Een samenhangend publiekelijk programma (incl. concoursen en manifestaties) dat, gedurende een in de tijd beperkte periode en niet vaker dan één keer per jaar, onder een gemeenschappelijke noemer plaatsvindt. Dit programma heeft als doel de presentatie en uitwisseling van (inter)nationale kunst, cultuur en erfgoed, om zo bij te dragen aan kennisontwikkeling voor de relevante Nederlandse sector.
+- q. *Festival:* Een samenhangend publiekelijk programma (incl. concoursen en manifestaties) dat, gedurende een in de tijd beperkte periode en niet vaker dan één keer per jaar, onder een gemeenschappelijke noemer plaatsvindt. Dit programma heeft als doel de presentatie en uitwisseling van (inter)nationale kunst, cultuur en erfgoed, om zo bij te dragen aan kennisontwikkeling voor de relevante Nederlandse sector.
 
-- r. **Gemeenten:** de deelnemende gemeenten aan CmK zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048932&bijlage=1&z=2023-11-23&g=2023-11-23) bij deze regeling;
+- r. *Gemeenten:* de deelnemende gemeenten aan CmK zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048932&bijlage=1&z=2023-11-23&g=2023-11-23) bij deze regeling;
 
-- s. **Intentieverklaring:** een brief waarin het Rijk en de matchende gemeente of provincie met elkaar de intentie uitspreken om de financiering voor Cultuureducatie met Kwaliteit 2025–2028 te verzorgen en de doelstellingen uit de regeling te onderschrijven;
+- s. *Intentieverklaring:* een brief waarin het Rijk en de matchende gemeente of provincie met elkaar de intentie uitspreken om de financiering voor Cultuureducatie met Kwaliteit 2025–2028 te verzorgen en de doelstellingen uit de regeling te onderschrijven;
 
-- t. **Instelling:** Rechtspersoonlijkheid zonder winstoogmerk, bijvoorbeeld een stichting of vereniging. Overheden en eenmanszaken zijn hier per definitie uitgesloten.
+- t. *Instelling:* Rechtspersoonlijkheid zonder winstoogmerk, bijvoorbeeld een stichting of vereniging. Overheden en eenmanszaken zijn hier per definitie uitgesloten.
 
-- u. **Instrument:** een materiëel of immateriëel middel, methodiek of systeem dat binnen een project wordt gebruikt om activiteiten en processen herhaaldelijk uit te voeren, zoals bijvoorbeeld een muziekinstrument, het planningsdocument, een digitale platform of hoorversterkers.
+- u. *Instrument:* een materiëel of immateriëel middel, methodiek of systeem dat binnen een project wordt gebruikt om activiteiten en processen herhaaldelijk uit te voeren, zoals bijvoorbeeld een muziekinstrument, het planningsdocument, een digitale platform of hoorversterkers.
 
-- v. **Kansengelijkheid:** kinderen en jongeren met dezelfde talenten hebben recht op gelijke kansen. Ieder kind moet zich volledig kunnen ontwikkelen. De achtergrond, het opleidingsniveau van ouders, de plek waar ze wonen of hun financiële situatie mogen geen invloed hebben op de schoolprestaties van een kind;
+- v. *Kansengelijkheid:* kinderen en jongeren met dezelfde talenten hebben recht op gelijke kansen. Ieder kind moet zich volledig kunnen ontwikkelen. De achtergrond, het opleidingsniveau van ouders, de plek waar ze wonen of hun financiële situatie mogen geen invloed hebben op de schoolprestaties van een kind;
 
-- w. **Koninkrijk der Nederlanden:** Nederland, Aruba, Curaçao, Sint-Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- w. *Koninkrijk der Nederlanden:* Nederland, Aruba, Curaçao, Sint-Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- x. **Kunst:** (De sector die zich kenmerkt door) de materiele of immateriele uitingen binnen of rondom geformaliseerde disciplines, elk met zijn eigen geformaliseerde technieken, tradities en kenmerken, zoals erfgoed, film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur, digitale cultuur etc.
+- x. *Kunst:* (De sector die zich kenmerkt door) de materiele of immateriele uitingen binnen of rondom geformaliseerde disciplines, elk met zijn eigen geformaliseerde technieken, tradities en kenmerken, zoals erfgoed, film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur, digitale cultuur etc.
 
-- y. **Meerjarige subsidie:** subsidie van het Fonds die wordt toegekend aan instellingen om te werken aan zijn eigen rol en functie in het stelsel, middels een of meerdere programma's zoals in de aanvraag omschreven en die doelgericht zijn en bijdragen aan het realiseren van de subsidiedoelstellingen van het fonds.
+- y. *Meerjarige subsidie:* subsidie van het Fonds die wordt toegekend aan instellingen om te werken aan zijn eigen rol en functie in het stelsel, middels een of meerdere programma's zoals in de aanvraag omschreven en die doelgericht zijn en bijdragen aan het realiseren van de subsidiedoelstellingen van het fonds.
 
-- z. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- z. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- aa. **Nederland:** Europees Nederland en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- aa. *Nederland:* Europees Nederland en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- bb. **Onderwijs:** (De sector die zich kenmerkt door) de georganiseerde communicatie van niet-incidentele aard met als doel overdracht van kennis, vermeerdering van inzicht en/of aanleren van vaardigheden. Specifiek spreken we over het primair onderwijs, voortgezet onderwijs, middelbaarberoepsonderwijs, hoger onderwijs, speciaal en wetenschappelijk onderwijs.
+- bb. *Onderwijs:* (De sector die zich kenmerkt door) de georganiseerde communicatie van niet-incidentele aard met als doel overdracht van kennis, vermeerdering van inzicht en/of aanleren van vaardigheden. Specifiek spreken we over het primair onderwijs, voortgezet onderwijs, middelbaarberoepsonderwijs, hoger onderwijs, speciaal en wetenschappelijk onderwijs.
 
-- cc. **Penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een plan indient. De penvoerder is de aanvrager en degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat. De penvoerder is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
+- cc. *Penvoerder:* een culturele instelling die voor zichzelf, en in samenwerking met andere culturele instellingen en het onderwijs, een plan indient. De penvoerder is de aanvrager en degene met wie het Fonds voor Cultuurparticipatie de subsidierelatie aangaat. De penvoerder is daardoor volledig verantwoordelijk voor de naleving van de subsidieverplichtingen en voor de financiële en inhoudelijke subsidieverantwoording.
 
-- dd. **Proces:** het bedenken, onderzoeken, experimenteren, herzien en verfijnen van activiteiten en instrumenten, waarbij een voortdurende dialoog tussen ideeën en realisatie ontstaat om een specifieke outcome te bereiken.
+- dd. *Proces:* het bedenken, onderzoeken, experimenteren, herzien en verfijnen van activiteiten en instrumenten, waarbij een voortdurende dialoog tussen ideeën en realisatie ontstaat om een specifieke outcome te bereiken.
 
-- ee. **Professional:** een individu die (1) ten minste een part-time aanstelling een organisatie heeft, (2) vakbekwaam is geacht door af te studeren aan een erkende opleiding, (3) als zelfstandige ten minste drie jaar als ondernemer inschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie of (4) financiering ontvangen van op professionals gerichte instanties zoals Rijkscultuurfondsen.
+- ee. *Professional:* een individu die (1) ten minste een part-time aanstelling een organisatie heeft, (2) vakbekwaam is geacht door af te studeren aan een erkende opleiding, (3) als zelfstandige ten minste drie jaar als ondernemer inschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie of (4) financiering ontvangen van op professionals gerichte instanties zoals Rijkscultuurfondsen.
 
-- ff. **Regeling:** Een subsidieregeling van het fonds, zoals gepubliceerd in de Staatscourant en op de eigen website, waarbinnen aanvragen gehonoreerd kunnen worden met een subsidie.
+- ff. *Regeling:* Een subsidieregeling van het fonds, zoals gepubliceerd in de Staatscourant en op de eigen website, waarbinnen aanvragen gehonoreerd kunnen worden met een subsidie.
 
-- gg. **Sector:** Een deel van de maatschappij waarin vergelijkbare of verwante processen worden ondernomen door een scala aan actoren, zoals instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuen. Deze processen kunnen variëren van productie en distributie tot dienstverlening en beleidsvorming.
+- gg. *Sector:* Een deel van de maatschappij waarin vergelijkbare of verwante processen worden ondernomen door een scala aan actoren, zoals instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuen. Deze processen kunnen variëren van productie en distributie tot dienstverlening en beleidsvorming.
 
-- hh. **Subsidie:** Een financiële bijdrage of toekenning van middelen door het fonds aan een aanvrager op basis van een gehonoreerde aanvraag.
+- hh. *Subsidie:* Een financiële bijdrage of toekenning van middelen door het fonds aan een aanvrager op basis van een gehonoreerde aanvraag.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -130,25 +97,25 @@ Subsidie wordt verstrekt voor een periode van vier kalenderjaren, namelijk van 2
 
 ##### Artikel 1.4. Subsidieplafond en beschikbare bedragen
 
-1. Het subsidieplafond voor het totaal van de aanvragen is € 15.231.238 per kalenderjaar.
+1. Het subsidieplafond voor het totaal van de aanvragen is € 15.231.238 per kalenderjaar.
 
 2. Voor aanvragen van penvoerders uit de provincies en gemeenten is per kalenderjaar beschikbaar:
 
-- a. per provincie € 0,85 per inwoner, met aftrek van de inwoners waarvoor gemeenten reeds een bijdrage ontvangen;
+- a. per provincie € 0,85 per inwoner, met aftrek van de inwoners waarvoor gemeenten reeds een bijdrage ontvangen;
 
-- b. per gemeente € 0,85 per inwoner.
+- b. per gemeente € 0,85 per inwoner.
 
-3. Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2023.
+3. Het aantal inwoners van een provincie of gemeente wordt voor de volledige looptijd van de regeling vastgesteld op basis van de CBS-gegevens van 1 januari 2023.
 
 4. Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-- a. Het Fonds kan het vastgestelde subsidieplafond verhogen of verlagen.
+5. - a. Het Fonds kan het vastgestelde subsidieplafond verhogen of verlagen.
 
-- b. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via [de website van het Fonds](onbekend).
+- b. Een besluit tot het vaststellen, verhogen of verlagen van een subsidieplafond wordt bekendgemaakt via de website van het Fonds.
 
 ##### Artikel 1.5. Matching met provincie en gemeente
 
-1. De aan het Fonds gevraagde subsidie bedraagt de som van het aantal inwoners per provincie of gemeente, vermenigvuldigd met € 0,85 per jaar. Indien er gerekend wordt met de som van het aantal inwoners per provincie worden de gemeenten of regio's die zelfstandig penvoerderschap voeren niet meegerekend. Het bedrag wordt gematcht door de provincie of gemeente.
+1. De aan het Fonds gevraagde subsidie bedraagt de som van het aantal inwoners per provincie of gemeente, vermenigvuldigd met € 0,85 per jaar. Indien er gerekend wordt met de som van het aantal inwoners per provincie worden de gemeenten of regio's die zelfstandig penvoerderschap voeren niet meegerekend. Het bedrag wordt gematcht door de provincie of gemeente.
 
 2. In afwijking van het eerste lid kan in bijzondere gevallen worden afgeweken van het bedrag. In de intentieverklaring maken het Rijk en de matchende overheden hier dan een afspraak over.
 
@@ -248,13 +215,13 @@ Een aanvraag voor een meerjarige subsidie kan uitsluitend worden ingediend door 
 
 ##### Artikel 3.4. Indieningstermijn en behandeling aanvraag
 
-1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 1 juli 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
+1. Aanvragen kunnen vanaf 1 december 2023, 13:00 Amsterdamse tijd worden ingediend en dienen voor 1 juli 2024, 16:00 Amsterdamse tijd door het Fonds te zijn ontvangen. Een te laat ingediende aanvraag wordt niet in behandeling genomen.
 
 2. Aanvragen in deze regeling worden op volgorde van binnenkomst behandeld. Aan de aanvraag zijn bestuurlijke afspraken tussen OCW en de gemeenten dan wel provincie voorafgegaan. Deze afspraken zijn middels een intentieverklaring en adhesieverklaring vastgelegd. Per gemeente of provincie is in deze regeling bepaald hoeveel middelen er per aanvraag beschikbaar zijn.
 
 ##### Artikel 3.5. Het aanvraagformulier
 
-1. Een aanvraag wordt digitaal ingediend via het online systeem ‘Mijn Fonds’, dat bereikbaar is via [de website van het Fonds](onbekend).
+1. Een aanvraag wordt digitaal ingediend via het online systeem ‘Mijn Fonds’, dat bereikbaar is via de website van het Fonds.
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde formulier tijdig is ontvangen en vergezeld gaat van de vereiste bijlagen.
 
@@ -274,7 +241,7 @@ Aanvragen die voldoen aan de formele vereisten om voor subsidie in aanmerking te
 
 ##### Artikel 3.9. Beslistermijn
 
-Het Fonds informeert de aanvrager uiterlijk 1 december 2024 schriftelijk over het besluit op de aanvraag.
+Het Fonds informeert de aanvrager uiterlijk 1 december 2024 schriftelijk over het besluit op de aanvraag.
 
 ##### Artikel 3.10. Vaststelling subsidie
 
@@ -310,9 +277,9 @@ De penvoerder is verplicht tot kennisdeling, monitoring en evaluatie van de acti
 
 ##### Artikel 4.3. Verantwoording
 
-1. De aanvrager stuurt jaarlijks voor 1 mei een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar. Deze financiële verantwoording zal worden aangevuld met een verantwoording op de resultaten. In het tweede jaar, te weten 2026, en in het vierde jaar, te weten 2028, zal de aanvrager de financiële verantwoording en de verantwoording op resultaatafspraken vergezellen van een inhoudelijk voortgangsverslag.
+1. De aanvrager stuurt jaarlijks voor 1 mei een financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar. Deze financiële verantwoording zal worden aangevuld met een verantwoording op de resultaten. In het tweede jaar, te weten 2026, en in het vierde jaar, te weten 2028, zal de aanvrager de financiële verantwoording en de verantwoording op resultaatafspraken vergezellen van een inhoudelijk voortgangsverslag.
 
-2. De financiële verantwoording sluit aan op de ingediende begroting en gaat indien de subsidie gelijk is aan of hoger is dan € 125.000 per project, vergezeld met een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de afdelingen 1, 7, 11, 12, 14 en 15, is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
+2. De financiële verantwoording sluit aan op de ingediende begroting en gaat indien de subsidie gelijk is aan of hoger is dan € 125.000 per project, vergezeld met een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). De verklaring dient te zijn opgesteld overeenkomstig een door het Fonds vast te stellen protocol. [Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de afdelingen 1, 7, 11, 12, 14 en 15, is van toepassing op de financiële verantwoording, met dien verstande dat de winst- en verliesrekening wordt vervangen door een exploitatierekening.
 
 3. Het Fonds stelt nadere voorwaarden aan de inrichting van de verantwoording. Die nadere voorwaarden zijn terug te vinden in het Handboek Verantwoording Cultuureducatie met Kwaliteit 2025–2028.
 
@@ -336,33 +303,33 @@ De penvoerder is verplicht om de Governance Code Cultuur, de Fair Practice Code 
 
 - 1. Voor de Governance Code geldt dat de aanvrager in het aanvraagformulier volledig aantoont:
 
-- a. hoe de principes uit de code worden toegepast;
+   - a. hoe de principes uit de code worden toegepast;
 
-- b. hoe de bij de code behorende aanbevelingen worden opgevolgd;
+   - b. hoe de bij de code behorende aanbevelingen worden opgevolgd;
 
-- c. dat er sprake is van een scheiding tussen toezicht, bestuur en uitvoering, in die zin dat:
+   - c. dat er sprake is van een scheiding tussen toezicht, bestuur en uitvoering, in die zin dat:
 
-- i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
+      - i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
 
-- ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
+      - ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
 
-- d. dat de leden van de raad van toezicht, of de toezichthoudende bestuurders geen onderdeel uitmaken van de begroting, behalve daar waar het gaat om de reguliere bezoldiging van deze toezichthouders;
+   - d. dat de leden van de raad van toezicht, of de toezichthoudende bestuurders geen onderdeel uitmaken van de begroting, behalve daar waar het gaat om de reguliere bezoldiging van deze toezichthouders;
 
-- e. te reflecteren op de rol van de toezichthouder ten aanzien van sociale veiligheid in de organisatie.
+   - e. te reflecteren op de rol van de toezichthouder ten aanzien van sociale veiligheid in de organisatie.
 
 - 2. Voor de Fair Practice Code geldt dat de aanvrager in het aanvraagformulier volledig aantoont:
 
-- a. hoe de principes uit de code worden toegepast en wat de ambities zijn. De aanvrager reflecteert hierop achteraf in de verantwoording;
+   - a. hoe de principes uit de code worden toegepast en wat de ambities zijn. De aanvrager reflecteert hierop achteraf in de verantwoording;
 
-- b. aan te sluiten bij de bestaande collectieve afspraken over honorering, zoals de meest voor de hand liggende CAO en de sociale dialoog tussen werkgevers of opdrachtgevers en werknemers of opdrachtnemers
+   - b. aan te sluiten bij de bestaande collectieve afspraken over honorering, zoals de meest voor de hand liggende CAO en de sociale dialoog tussen werkgevers of opdrachtgevers en werknemers of opdrachtnemers
 
-- c. te reflecteren op de rol die de organisatie inneemt in het werken aan fair chain: hoe kan de organisatie voorbeeldstellend zijn in de eigen omgeving?
+   - c. te reflecteren op de rol die de organisatie inneemt in het werken aan fair chain: hoe kan de organisatie voorbeeldstellend zijn in de eigen omgeving?
 
 - 3. Voor de Code Diversiteit en Inclusie geldt dat de aanvrager in het aanvraagformulier volledig aantoont:
 
-- a. hoe de principes uit de code worden toegepast;
+   - a. hoe de principes uit de code worden toegepast;
 
-- b. dat in de voortgangsgesprekken de voortgang en monitoring worden toegelicht.
+   - b. dat in de voortgangsgesprekken de voortgang en monitoring worden toegelicht.
 
 ### Hoofdstuk 5. – Overige bepalingen
 
@@ -384,74 +351,8 @@ De bepalingen in het [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
+2. Deze regeling vervalt met ingang van 31 december 2029. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
 ##### Artikel 5.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Cultuureducatie met Kwaliteit 2025–2028 Fonds voor Cultuurparticipatie.
-
-## Bijlage 1
-
-Maximaal beschikbare subsidie per kalenderjaar op basis van inwonersaantallen per 1-1-2023 en € 0,85 per inwoner.
-
-| Provincie | Totaal inwoners (omvang gemeente < 90.000) | Totaal |
-| --- | --- | --- |
-| Drenthe | 393.286 | € 334.293,10 |
-| Flevoland | 221.876 | € 188.594,60 |
-| Friesland | 441.595 | € 375.355,75 |
-| Gelderland | 1.496.255 | € 1.271.816,75 |
-| Groningen | 357.928 | € 304.238,80 |
-| Limburg | 722.949 | € 614.506,65 |
-| Noord-Brabant | 1.528.824 | € 1.299.500,40 |
-| Noord-Holland | 1.153.602 | € 980.561,70 |
-| Overijssel | 705.595 | € 599.755,75 |
-| Utrecht | 858.937 | € 730.096,45 |
-| Zeeland | 391.124 | € 332.455,40 |
-| Zuid-Holland | 1.867.491 | € 1.587.367,35 |
-| **Totaal** | **10.139.462** | **€ 8.618.542,70** |
-
-| gemeente | Inwoneraantal | Totaal |
-| --- | --- | --- |
-| Amsterdam | 918.117 | € 780.399,45 |
-| Rotterdam | 663.900 | € 564.315,00 |
-| ’s-Gravenhage | 562.839 | € 478.413,15 |
-| Utrecht | 367.947 | € 312.754,95 |
-| Eindhoven | 243.730 | € 207.170,50 |
-| Groningen | 238.147 | € 202.424,95 |
-| Tilburg | 227.707 | € 193.550,95 |
-| Almere | 222.825 | € 189.401,25 |
-| Breda | 186.438 | € 158.472,30 |
-| Nijmegen | 182.480 | € 155.108,00 |
-| Apeldoorn | 167.191 | € 142.112,35 |
-| Arnhem | 165.770 | € 140.904,50 |
-| Haarlem | 165.396 | € 140.586,60 |
-| Haarlemmermeer | 162.300 | € 137.955,00 |
-| Enschede | 161.235 | € 137.049,75 |
-| Amersfoort | 160.759 | € 136.645,15 |
-| Zaanstad | 159.618 | € 135.675,30 |
-| ’s-Hertogenbosch | 158.753 | € 134.940,05 |
-| Zwolle | 132.411 | € 112.549,35 |
-| Leiden | 127.089 | € 108.025,65 |
-| Leeuwarden | 127.073 | € 108.012,05 |
-| Zoetermeer | 126.998 | € 107.948,30 |
-| Maastricht | 122.734 | € 104.323,90 |
-| Ede | 122.012 | € 103.710,20 |
-| Dordrecht | 121.434 | € 103.218,90 |
-| Westland | 114.887 | € 97.653,95 |
-| Alphen aan den Rijn | 114.182 | € 97.054,70 |
-| Alkmaar | 111.834 | € 95.058,90 |
-| Emmen | 108.765 | € 92.450,25 |
-| Delft | 106.086 | € 90.173,10 |
-| Venlo | 103.328 | € 87.828,80 |
-| Deventer | 102.781 | € 87.363,85 |
-| Helmond | 94.898 | € 80.663,30 |
-| Oss | 94.437 | € 80.271,45 |
-| Amstelveen | 94.418 | € 80.255,30 |
-| Purmerend | 93.992 | € 79.893,20 |
-| Hilversum | 93.345 | € 79.343,25 |
-| Sittard-Geleen | 92.234 | € 78.398,90 |
-| Land van Cuijk | 91.423 | € 77.709,55 |
-| Súdwest Fryslân | 90.883 | € 77.250,55 |
-| Heerlen | 87.122 | € 74.053,70 |
-| Hengelo (O) | 82.311 | € 69.964,35 |
-| **Totaal** | **7.671.829** | **€ 6.521.054,65** |

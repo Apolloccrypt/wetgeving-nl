@@ -1,45 +1,17 @@
 ---
 title: "Reglement voor de gebruikersraad Kadaster 2023"
 identifier: "BWBR0049105"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-12-29"
-last_updated: "2023-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049105"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16972813"
-version_id: "29836842"
-internal_id: "C42766101"
-label_id: "16883394"
-dtd_version: "2.0"
-original_entry_into_force: "2023-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049105/2023-12-29/0"
-intitule_bron: "Stcrt.2023-35366"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-09-07"
-intitule_published: "2023-12-27"
-intitule_in_force: "2023-12-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35366"
-original_signed_date: "2023-09-07"
-original_published_date: "2023-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-35366"
-entry_into_force_date: "2023-12-29"
-jci_1_3: "jci1.3:c:BWBR0049105&z=2023-12-29&g=2023-12-29"
-jci_1_0: "1.0:c:BWBR0049105&g=2023-12-29"
-citeertitel_status: "officieel"
-signed_date: "2023-09-07"
-entry_into_force: "2023-12-29"
+publicatiedatum: 2023-12-29
+laatste_update: 2023-12-29
+status: geldig
+toestand: 2023-12-29
+bron: "https://wetten.overheid.nl/BWBR0049105"
+opgehaald: 2026-09-05
 ---
+
 # Reglement voor de gebruikersraad Kadaster 2023
-
-Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16) en [16a van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16a);
-
-Gehoord de gebruikersraad in de vergadering van 8 juni 2023;
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -47,21 +19,22 @@ Besluit:
 
 In dit reglement wordt verstaan onder:
 
-- a. **bestuur:** bestuur als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
+- a. *bestuur:* bestuur als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
 
-- b. **beheerder:** beheerder als bedoeld in [artikel 1, onder h, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=1);
+- b. *beheerder:* beheerder als bedoeld in [artikel 1, onder h, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=1);
 
-- c. **Dienst:** Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
+- c. *Dienst:* Dienst voor het kadaster en de openbare registers als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=2);
 
-- d. **gebruikersraad:** gebruikersraad als bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16);
+- d. *gebruikersraad:* gebruikersraad als bedoeld in [artikel 16 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16);
 
-- f. **grondroerder:** grondroerder als bedoeld in [artikel 1, onder g, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=1);
+- f. *grondroerder:* grondroerder als bedoeld in [artikel 1, onder g, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=1);
 
-- g. **raad van toezicht:** raad van toezicht als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
+- g. *raad van toezicht:* raad van toezicht als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=3);
 
-- h. **schriftelijk:** brief of e-mail;
+- h. *schriftelijk:* brief of e-mail;
 
-- i. **wet:** [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463);
+- i. *wet:*
+ [Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463);
 
 ### Hoofdstuk 2. Inrichting en samenstelling
 
@@ -71,31 +44,31 @@ In dit reglement wordt verstaan onder:
 
 2. De gebruikersraad bestaat in elk geval uit de volgende leden:
 
-- a). een persoon die het notariaat vertegenwoordigt, aangewezen door de Koninklijke Notariële Beroepsorganisatie;
+- a) een persoon die het notariaat vertegenwoordigt, aangewezen door de Koninklijke Notariële Beroepsorganisatie;
 
-- b). een persoon die de tussenpersonen in onroerende zaken vertegenwoordigt, gezamenlijk aangewezen door de Nederlandse Vereniging van Makelaars, de Vereniging Bemiddeling Onroerend Goed en Vastgoedpro;
+- b) een persoon die de tussenpersonen in onroerende zaken vertegenwoordigt, gezamenlijk aangewezen door de Nederlandse Vereniging van Makelaars, de Vereniging Bemiddeling Onroerend Goed en Vastgoedpro;
 
-- c). een persoon die de gemeenten vertegenwoordigt, aangewezen door de Vereniging van Nederlandse Gemeenten;
+- c) een persoon die de gemeenten vertegenwoordigt, aangewezen door de Vereniging van Nederlandse Gemeenten;
 
-- d). een persoon die de waterschappen vertegenwoordigt, aangewezen door de Unie van Waterschappen;
+- d) een persoon die de waterschappen vertegenwoordigt, aangewezen door de Unie van Waterschappen;
 
-- e). een persoon die de consument in de hoedanigheid van (toekomstig) eigenaar van een registergoed vertegenwoordigt, aangewezen door de Vereniging Eigen Huis;
+- e) een persoon die de consument in de hoedanigheid van (toekomstig) eigenaar van een registergoed vertegenwoordigt, aangewezen door de Vereniging Eigen Huis;
 
-- f). een persoon die de verstrekkers van hypotheken vertegenwoordigt, aangewezen door de Nederlandse Vereniging van Banken, in overleg met het Verbond van Verzekeraars;
+- f) een persoon die de verstrekkers van hypotheken vertegenwoordigt, aangewezen door de Nederlandse Vereniging van Banken, in overleg met het Verbond van Verzekeraars;
 
-- g). een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Defensie;
+- g) een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Defensie;
 
-- h). een persoon die de provincies vertegenwoordigt, aangewezen door het Interprovinciaal overleg;
+- h) een persoon die de provincies vertegenwoordigt, aangewezen door het Interprovinciaal overleg;
 
-- i). een persoon die de bedrijven uit de geosector vertegenwoordigt, aangewezen door GeoBusiness Nederland;
+- i) een persoon die de bedrijven uit de geosector vertegenwoordigt, aangewezen door GeoBusiness Nederland;
 
-- j). een persoon die de grondroerders vertegenwoordigt, aangewezen door Bouwend Nederland en Cumela;
+- j) een persoon die de grondroerders vertegenwoordigt, aangewezen door Bouwend Nederland en Cumela;
 
-- k). een persoon die de beheerders vertegenwoordigt, aangewezen door het Platform Netbeheerders.
+- k) een persoon die de beheerders vertegenwoordigt, aangewezen door het Platform Netbeheerders.
 
-- l). een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Infrastructuur en Waterstaat;
+- l) een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Infrastructuur en Waterstaat;
 
-- m). een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties die het Rijk vertegenwoordigt.
+- m) een ambtenaar, in de hoedanigheid van gebruiker, van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties die het Rijk vertegenwoordigt.
 
 3. Het bestuur heeft de mogelijkheid om voor bepaalde tijd andere leden toe te voegen.
 
@@ -161,7 +134,7 @@ gebruikersraad.
 
 1. Het bestuur draagt zorg voor de vergaderfaciliteiten van de gebruikersraad en voor de voor het goed functioneren van de raad benodigde ondersteuning in personele en materiele zin.
 
-2. De leden van de gebruikersraad ontvangen op declaratiebasis een vergoeding voor de kosten die te hunnen lasten komen in verband met het overleg met het bestuur. Aan een lid van de raad of desgewenst aan de organisatie, vereniging dan wel instelling die dat lid heeft aangewezen, wordt op verzoek een vacatiegeld van € 250,-- (excl BTW) toegekend per vergadering. De hoogte van het vacatiegeld kan na 31 december 2023 één maal per jaar per 1 januari worden bijgesteld met een percentage gelijk aan het CBS-prijsindexcijfer Consumentenprijzen (CPI), prijsindex 2023 = 100.
+2. De leden van de gebruikersraad ontvangen op declaratiebasis een vergoeding voor de kosten die te hunnen lasten komen in verband met het overleg met het bestuur. Aan een lid van de raad of desgewenst aan de organisatie, vereniging dan wel instelling die dat lid heeft aangewezen, wordt op verzoek een vacatiegeld van € 250,-- (excl BTW) toegekend per vergadering. De hoogte van het vacatiegeld kan na 31 december 2023 één maal per jaar per 1 januari worden bijgesteld met een percentage gelijk aan het CBS-prijsindexcijfer Consumentenprijzen (CPI), prijsindex 2023 = 100.
 
 3. De kosten die voortkomen uit de in het eerste lid bedoelde zorg en de op grond van het tweede lid toegekende vergoedingen en vacatiegelden maken deel uit van de apparaatskosten van de Dienst.
 
@@ -171,13 +144,13 @@ gebruikersraad.
 
 1. De gebruikersraad overlegt met het bestuur en adviseert deze strategisch over:
 
-- a). de kwaliteit en doelmatigheid van de dienstverlening door de Dienst;
+- a) de kwaliteit en doelmatigheid van de dienstverlening door de Dienst;
 
-- b). de tarieven voor de onder a) bedoelde dienstverlening;
+- b) de tarieven voor de onder a) bedoelde dienstverlening;
 
-- c). het meerjarenbeleidsplan;
+- c) het meerjarenbeleidsplan;
 
-- d). andere zaken van gemeenschappelijk strategisch belang.
+- d) andere zaken van gemeenschappelijk strategisch belang.
 
 2. Onder de dienstverlening, bedoeld in het eerste lid, wordt niet verstaan het beheer van een landelijke voorziening.
 
@@ -231,7 +204,7 @@ Een aan de agenda toegevoegd punt wordt bij voorkeur voor de vergadering aan de 
 
 ##### Artikel 12
 
-1. De gebruikersraad brengt jaarlijks voor 1 april aan het bestuur een verslag uit van zijn werkzaamheden in het voorafgaande kalenderjaar. Dit verslag wordt opgenomen in het jaarverslag.
+1. De gebruikersraad brengt jaarlijks voor 1 april aan het bestuur een verslag uit van zijn werkzaamheden in het voorafgaande kalenderjaar. Dit verslag wordt opgenomen in het jaarverslag.
 
 2. De secretaris stelt aan de hand van de richtlijnen van de voorzitter dit concept-verslag op onder verantwoordelijkheid van de voorzitter.
 
@@ -262,5 +235,3 @@ Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 17
 
 Dit reglement wordt aangehaald als: Reglement voor de gebruikersraad Kadaster 2023.
-
-Dit reglement zal in de Staatscourant worden geplaatst.

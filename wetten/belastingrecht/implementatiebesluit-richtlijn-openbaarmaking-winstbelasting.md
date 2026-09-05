@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 14 februari 2024, houdende regels ter implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en van de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (PbEU 2021, L 429) (Implementatiebesluit Richtlijn openbaarmaking winstbelasting)"
+citeertitel: "Implementatiebesluit Richtlijn openbaarmaking winstbelasting"
 identifier: "BWBR0049420"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-06-22"
-last_updated: "2024-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049420"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "17040583"
-version_id: "29984272"
-internal_id: "C43174601"
-label_id: "16950184"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049420/2024-06-22/0"
-intitule_bron: "Stb.2024-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-14"
-intitule_published: "2024-03-01"
-intitule_in_force: "2024-06-07"
-intitule_status: "goed"
-original_publication: "Stb.2024-43"
-original_signed_date: "2024-02-14"
-original_published_date: "2024-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-43"
-entry_into_force_date: "2024-06-22"
-jci_1_3: "jci1.3:c:BWBR0049420&z=2024-06-22&g=2024-06-22"
-jci_1_0: "1.0:c:BWBR0049420&g=2024-06-22"
-citeertitel_status: "officieel"
-short_title: "Implementatiebesluit Richtlijn openbaarmaking winstbelasting"
-signed_date: "2024-02-14"
-entry_into_force: "2024-06-22"
+publicatiedatum: 2024-06-22
+laatste_update: 2024-06-22
+status: geldig
+toestand: 2024-06-22
+bron: "https://wetten.overheid.nl/BWBR0049420"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van 14 februari 2024, houdende regels ter implementatie van Richtlijn (EU) 2021/2101 van het Europees Parlement en van de Raad van 24 november 2021 tot wijziging van Richtlijn 2013/34/EU wat betreft de openbaarmaking van informatie over de winstbelasting door bepaalde ondernemingen en bijkantoren (PbEU 2021, L 429) (Implementatiebesluit Richtlijn openbaarmaking winstbelasting)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 8 november 2023, Directie Wetgeving en Juridische Zaken, nr. 4942864, gedaan in overeenstemming met de Staatssecretaris van Financiën (Fiscaliteit en Belastingdienst);
-
-Gelet op [artikel 391a, tweede lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391a) en [artikel 19a van de Handelsregisterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=19a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 20 december 2023, nr. W16.23.00349/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 9 februari 2024, Directie Wetgeving en Juridische Zaken, nr. 5166148, uitgebracht in overeenstemming met de Staatssecretaris van Financiën (Fiscaliteit en Belastingdienst);
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
-- **bijkantoor:** duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een rechtspersoon of vennootschap die niet valt onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en die een rechtsvorm heeft die vergelijkbaar is met een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid;
+- *bijkantoor:* duurzaam in een andere staat dan de staat van de zetel aanwezig onderdeel zonder rechtspersoonlijkheid van een rechtspersoon of vennootschap die niet valt onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en die een rechtsvorm heeft die vergelijkbaar is met een naamloze vennootschap of een besloten vennootschap met beperkte aansprakelijkheid;
 
-- **fiscale jurisdictie:** jurisdictie van een staat of van een niet-staat, met fiscale autonomie wat de vennootschapsbelasting betreft;
+- *fiscale jurisdictie:* jurisdictie van een staat of van een niet-staat, met fiscale autonomie wat de vennootschapsbelasting betreft;
 
-- **op zichzelf staande vennootschap:** naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid die geen deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- *op zichzelf staande vennootschap:* naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid die geen deel uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- **uiteindelijke moedermaatschappij:** vennootschap die de geconsolideerde jaarrekening opstelt van de grootste groep;
+- *uiteindelijke moedermaatschappij:* vennootschap die de geconsolideerde jaarrekening opstelt van de grootste groep;
 
-- **vennootschap:** vennootschap, genoemd in de [onderdelen 1° en 2° van artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=2&z=2024-06-22&g=2024-06-22).
+- *vennootschap:* vennootschap, genoemd in de [onderdelen 1° en 2° van artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=2&z=2024-06-22&g=2024-06-22).
 
 2. Voor de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=2&z=2024-06-22&g=2024-06-22), [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22), wordt verstaan onder inkomsten:
 
@@ -70,13 +38,13 @@ Hebben goedgevonden en verstaan:
 
 1. Een verslag inzake de winstbelasting wordt jaarlijks opgesteld door het bestuur van:
 
-- a. de volgende vennootschappen die uiteindelijke moedermaatschappijen zijn en waarvan de totale geconsolideerde inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000:
+- a. de volgende vennootschappen die uiteindelijke moedermaatschappijen zijn en waarvan de totale geconsolideerde inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000:
 
-- 1°. een naamloze vennootschap en een besloten vennootschap met beperkte aansprakelijkheid;
+   - 1°. een naamloze vennootschap en een besloten vennootschap met beperkte aansprakelijkheid;
 
-- 2°. een vennootschap onder firma en een commanditaire vennootschap waarvan alle vennoten die volledig jegens schuldeisers aansprakelijk zijn voor de schulden, kapitaalvennootschappen naar buitenlands recht zijn;
+   - 2°. een vennootschap onder firma en een commanditaire vennootschap waarvan alle vennoten die volledig jegens schuldeisers aansprakelijk zijn voor de schulden, kapitaalvennootschappen naar buitenlands recht zijn;
 
-- b. een op zichzelf staande vennootschap waarvan de totale inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer bedragen dan € 750.000.000.
+- b. een op zichzelf staande vennootschap waarvan de totale inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer bedragen dan € 750.000.000.
 
 2. Het eerste lid is niet van toepassing op een uiteindelijke moedermaatschappij en haar groepsmaatschappijen en op een op zichzelf staande vennootschap indien die vennootschappen, inclusief hun bijkantoren, uitsluitend zijn gevestigd of uitsluitend een vaste inrichting of permanente bedrijfsactiviteit hebben op het Nederlandse grondgebied.
 
@@ -84,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), die onder zeggenschap staat van een uiteindelijke moedermaatschappij waarvan de totale geconsolideerde inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000 en die niet valt onder het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, maakt jaarlijks een verslag inzake de winstbelasting betreffende de uiteindelijke moedermaatschappij openbaar en toegankelijk, indien op die dochtermaatschappij [artikel 396, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) niet van toepassing is.
+Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), die onder zeggenschap staat van een uiteindelijke moedermaatschappij waarvan de totale geconsolideerde inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000 en die niet valt onder het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, maakt jaarlijks een verslag inzake de winstbelasting betreffende de uiteindelijke moedermaatschappij openbaar en toegankelijk, indien op die dochtermaatschappij [artikel 396, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396) niet van toepassing is.
 
 ##### Artikel 4
 
@@ -92,7 +60,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 - a. de netto-omzet van het bijkantoor bedraagt op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer dan het bedrag, genoemd in [artikel 396, eerste lid, onderdeel b, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396);
 
-- b. de vennootschap die het bijkantoor heeft gevestigd, is hetzij een niet onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte vallende groepsmaatschappij van een groep waarvan de uiteindelijke moedermaatschappij op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, totale geconsolideerde inkomsten heeft die blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000 en die niet valt onder het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, hetzij een op zichzelf staande vennootschap die niet valt onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en waarvan de inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer bedragen dan € 750.000.000; en
+- b. de vennootschap die het bijkantoor heeft gevestigd, is hetzij een niet onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte vallende groepsmaatschappij van een groep waarvan de uiteindelijke moedermaatschappij op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, totale geconsolideerde inkomsten heeft die blijkens haar geconsolideerde jaarrekening meer bedragen dan € 750.000.000 en die niet valt onder het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, hetzij een op zichzelf staande vennootschap die niet valt onder het recht van een lidstaat van de Europese Unie of onder het recht van een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en waarvan de inkomsten op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, meer bedragen dan € 750.000.000; en
 
 - c. de uiteindelijke moedermaatschappij, bedoeld in onderdeel b, heeft geen dochtermaatschappij als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22).
 
@@ -132,9 +100,9 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 - d. haar inkomsten die worden berekend als:
 
-- i. de som van haar netto-omzet, overige bedrijfsopbrengsten, resultaat uit deelnemingen, exclusief van groepsmaatschappijen ontvangen dividenden, opbrengsten uit andere effecten en vorderingen die tot de vaste activa behoren, overige rentebaten en soortgelijke opbrengsten als bedoeld in [artikel 377 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377); of
+   - i. de som van haar netto-omzet, overige bedrijfsopbrengsten, resultaat uit deelnemingen, exclusief van groepsmaatschappijen ontvangen dividenden, opbrengsten uit andere effecten en vorderingen die tot de vaste activa behoren, overige rentebaten en soortgelijke opbrengsten als bedoeld in [artikel 377 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377); of
 
-- ii. haar inkomsten als gedefinieerd door het stelsel voor financiële rapportage op basis waarvan de jaarrekening wordt opgesteld, exclusief waardecorrecties en van groepsmaatschappijen ontvangen dividenden;
+   - ii. haar inkomsten als gedefinieerd door het stelsel voor financiële rapportage op basis waarvan de jaarrekening wordt opgesteld, exclusief waardecorrecties en van groepsmaatschappijen ontvangen dividenden;
 
 - e. het bedrag van de winst of het verlies vóór winstbelasting;
 
@@ -188,7 +156,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 2. In het geval van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=6&z=2024-06-22&g=2024-06-22), is de in het verslag inzake de winstbelasting gebruikte munteenheid evenwel die waarin de dochtermaatschappij haar jaarrekening openbaar maakt.
 
-3. De bedragen, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22), worden omgezet in een bedrag van dezelfde waarde in de nationale munteenheid van de betrokken derde landen door toepassing van de wisselkoers op 21 december 2021, afgerond op het dichtstbijzijnde duizendtal.
+3. De bedragen, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=3&z=2024-06-22&g=2024-06-22) en [4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049420&artikel=4&z=2024-06-22&g=2024-06-22), worden omgezet in een bedrag van dezelfde waarde in de nationale munteenheid van de betrokken derde landen door toepassing van de wisselkoers op 21 december 2021, afgerond op het dichtstbijzijnde duizendtal.
 
 ##### Artikel 11
 
@@ -204,7 +172,7 @@ Het bestuur van een dochtermaatschappij als bedoeld in [artikel 24a van Boek 2 v
 
 3. Het verslag inzake de winstbelasting en de verklaring blijven ten minste vijf opeenvolgende jaren toegankelijk op de website. Op de openbaarmaking, bedoeld in het eerste lid is [artikel 394, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) van overeenkomstige toepassing.
 
-4. Dit lid is nog niet in werking getreden.
+4. *Dit lid is nog niet in werking getreden.*
 
 5. Op de nakoming van de verplichtingen tot openbaarmaking en het toegankelijk maken van het verslag inzake de winstbelasting, als bedoeld in het eerste respectievelijk tweede lid, is [artikel 394, zevende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) van overeenkomstige toepassing.
 
@@ -214,20 +182,18 @@ Indien de jaarrekening van een rechtspersoon moet worden onderzocht als bedoeld 
 
 ##### Artikel 13
 
-Wijzigt Besluit inhoud bestuursverslag.
+*Wijzigt Besluit inhoud bestuursverslag.*
 
 ##### Artikel 14
 
-Wijzigt het Besluit rapportage van betalingen aan overheden.
+*Wijzigt het Besluit rapportage van betalingen aan overheden.*
 
 ##### Artikel 15
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. Dit besluit is van toepassing op verslagen inzake de winstbelasting die worden opgesteld over de boekjaren die aanvangen op of na 22 juni 2024.
+2. Dit besluit is van toepassing op verslagen inzake de winstbelasting die worden opgesteld over de boekjaren die aanvangen op of na 22 juni 2024.
 
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Implementatiebesluit Richtlijn openbaarmaking winstbelasting.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

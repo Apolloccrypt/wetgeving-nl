@@ -8,7 +8,7 @@ laatste_update: 2026-09-01
 status: geldig
 toestand: 2026-09-01
 bron: "https://wetten.overheid.nl/BWBR0008023"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Regeling maximumprijzen geneesmiddelen

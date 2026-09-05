@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 15 februari 2024, houdende regels voor de toekenning van een specifieke uitkering aan gemeenten en provincies ten behoeve van innovatie in de digitale dienstverlening (Regeling specifieke uitkering verbetering digitale dienstverlening)"
+citeertitel: "Regeling specifieke uitkering verbetering digitale dienstverlening"
 identifier: "BWBR0049396"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-02-24"
-last_updated: "2024-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049396"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17036933"
-version_id: "29977352"
-internal_id: "C42980221"
-label_id: "16946594"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049396/2024-02-24/0"
-intitule_bron: "Stcrt.2024-4781"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-15"
-intitule_published: "2024-02-23"
-intitule_in_force: "2024-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-4781"
-original_signed_date: "2024-02-15"
-original_published_date: "2024-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-4781"
-entry_into_force_date: "2024-02-24"
-jci_1_3: "jci1.3:c:BWBR0049396&z=2024-02-24&g=2024-02-24"
-jci_1_0: "1.0:c:BWBR0049396&g=2024-02-24"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering verbetering digitale dienstverlening"
-signed_date: "2024-02-15"
-entry_into_force: "2024-02-24"
+publicatiedatum: 2024-02-24
+laatste_update: 2024-02-24
+status: geldig
+toestand: 2024-02-24
+bron: "https://wetten.overheid.nl/BWBR0049396"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 15 februari 2024, houdende regels voor de toekenning van een specifieke uitkering aan gemeenten en provincies ten behoeve van innovatie in de digitale dienstverlening (Regeling specifieke uitkering verbetering digitale dienstverlening)
-
-Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **hoofdaanvrager:** gemeente of provincie die mede namens een of meer andere publiekrechtelijke rechtspersonen een aanvraag indient;
+- *hoofdaanvrager:* gemeente of provincie die mede namens een of meer andere publiekrechtelijke rechtspersonen een aanvraag indient;
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **ministerie:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- *ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Specifieke uitkering
 
@@ -58,7 +32,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Uitkeringsplafond
 
-Het uitkeringsplafond bedraagt voor het jaar 2024 € 4.000.000. Voor de daaropvolgende jaren stelt de minister het bedrag vast tot ten hoogste het bedrag dat uit de begroting van het ministerie blijkt.
+Het uitkeringsplafond bedraagt voor het jaar 2024 € 4.000.000. Voor de daaropvolgende jaren stelt de minister het bedrag vast tot ten hoogste het bedrag dat uit de begroting van het ministerie blijkt.
 
 ##### Artikel 4. Aanvraag
 
@@ -86,7 +60,7 @@ Het uitkeringsplafond bedraagt voor het jaar 2024 € 4.000.000. Voor de daaropv
 
 4. De aanvraag wordt ingediend met gebruikmaking van een door de minister ter beschikking gesteld formulier.
 
-5. De aanvraag wordt jaarlijks ingediend vóór 1 april.
+5. De aanvraag wordt jaarlijks ingediend vóór 1 april.
 
 ##### Artikel 5. Beoordeling aanvragen
 
@@ -206,10 +180,8 @@ De minister kan onverschuldigd uitgekeerde bedragen terugvorderen.
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering verbetering digitale dienstverlening.
-
-De regeling zal met de toelichting in de Staatscourant worden geplaatst.

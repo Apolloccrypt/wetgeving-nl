@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 7 maart 2024, kenmerk 2979693, houdende beperking van de openbaarheid van de aanvulling op het archief van de Hoofdafdeling Privaatrecht, huwelijksdispensaties 1950–1999"
+citeertitel: "Besluit beperking openbaarheid aanvulling archief Hoofdafdeling Privaatrecht, huwelijksdispensaties 1950–1999"
 identifier: "BWBR0049464"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-16"
-last_updated: "2024-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049464"
+categorie: "Burgerlijk recht"
 soort: "ministeriele-regeling"
-stam_id: "17050473"
-version_id: "30000022"
-internal_id: "C43008141"
-label_id: "16959834"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049464/2024-03-16/0"
-intitule_bron: "Stcrt.2024-7744"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-07"
-intitule_published: "2024-03-15"
-intitule_in_force: "2024-03-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-7744"
-original_signed_date: "2024-03-07"
-original_published_date: "2024-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-7744"
-entry_into_force_date: "2024-03-16"
-jci_1_3: "jci1.3:c:BWBR0049464&z=2024-03-16&g=2024-03-16"
-jci_1_0: "1.0:c:BWBR0049464&g=2024-03-16"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid aanvulling archief Hoofdafdeling Privaatrecht, huwelijksdispensaties 1950–1999"
-signed_date: "2024-03-07"
-entry_into_force: "2024-03-16"
+publicatiedatum: 2024-03-16
+laatste_update: 2024-03-16
+status: geldig
+toestand: 2024-03-16
+bron: "https://wetten.overheid.nl/BWBR0049464"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 maart 2024, kenmerk 2979693, houdende beperking van de openbaarheid van de aanvulling op het archief van de Hoofdafdeling Privaatrecht, huwelijksdispensaties 1950–1999
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 29 februari 2024, met kenmerk 100626-1
-
-Besluit beperkingen aan de openbaarheid van het archief van de Hoofdafdeling Privaatrecht, het archiefblok Huwelijksdispensaties 1950–1999
 
 ##### Artikel 1
 

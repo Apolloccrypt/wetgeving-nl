@@ -1,47 +1,18 @@
 ---
 title: "Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)"
+citeertitel: "Wet Adviescollege ICT-toetsing"
 identifier: "BWBR0049412"
-country: "nl"
-rank: "wet"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049412"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17039953"
-version_id: "29983042"
-internal_id: "C43071971"
-label_id: "16949684"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049412/2025-02-12/0"
-intitule_bron: "Stb.2024-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-14"
-intitule_published: "2024-02-28"
-intitule_in_force: "2024-04-17"
-intitule_status: "goed"
-original_publication: "Stb.2024-42"
-original_signed_date: "2024-02-14"
-original_published_date: "2024-02-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "36191"
-original_url_id: "stb-2024-42"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049412&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0049412&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Wet Adviescollege ICT-toetsing"
-signed_date: "2024-02-14"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0049412"
+opgehaald: 2026-09-05
 ---
+
 # Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een adviescollege in te stellen dat de regering en de Staten-Generaal adviseert over de risico’s en slaagkansen van ICT-projecten en informatiesystemen bij de centrale overheid en door kennisoverdracht en kennisbevordering het lerend vermogen daaromtrent bevordert;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 #### § 1. Algemene bepalingen
 
@@ -49,23 +20,23 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- –. **Adviescollege:** het Adviescollege ICT-toetsing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12);
+- – *Adviescollege:* het Adviescollege ICT-toetsing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=2&artikel=2&z=2025-02-12&g=2025-02-12);
 
-- –. **centrale overheid:** de ministeries, de krachtens publiekrecht ingestelde zelfstandige bestuursorganen als bedoeld in [artikel 4 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=4), de politie en de Raad voor de rechtspraak;
+- – *centrale overheid:* de ministeries, de krachtens publiekrecht ingestelde zelfstandige bestuursorganen als bedoeld in [artikel 4 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=4), de politie en de Raad voor de rechtspraak;
 
-- –. **ICT-project:** een project of programma, dan wel projecten of programma’s die onderlinge samenhang hebben, van de centrale overheid waarvan de kosten voor de ICT-componenten over de gehele looptijd van het project of programma ten minste € 5.000.000 bedragen;
+- – *ICT-project:* een project of programma, dan wel projecten of programma’s die onderlinge samenhang hebben, van de centrale overheid waarvan de kosten voor de ICT-componenten over de gehele looptijd van het project of programma ten minste € 5.000.000 bedragen;
 
-- –. **informatiesysteem:** een samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur van de centrale overheid, alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
+- – *informatiesysteem:* een samenhangend geheel van gegevensverzamelingen, procedures, processen en programmatuur van de centrale overheid, alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
 
-- –. **korpschef van politie:** de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- – *korpschef van politie:* de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- –. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **Onze Minister die verantwoordelijk is voor de ICT-voorziening:** Onze Minister die verantwoordelijk is voor het ICT-project of het informatiesysteem waarop het advies betrekking heeft;
+- – *Onze Minister die verantwoordelijk is voor de ICT-voorziening:* Onze Minister die verantwoordelijk is voor het ICT-project of het informatiesysteem waarop het advies betrekking heeft;
 
-- –. **Onze Minister die het aangaat:** Onze Minister die de eerste ondertekenaar is van de wet of lagere regelgeving bij welke een zelfstandig bestuursorgaan is ingesteld;
+- – *Onze Minister die het aangaat:* Onze Minister die de eerste ondertekenaar is van de wet of lagere regelgeving bij welke een zelfstandig bestuursorgaan is ingesteld;
 
-- –. **zelfstandig bestuursorgaan:** een krachtens publiekrecht ingesteld zelfstandig bestuursorgaan als bedoeld in [artikel 4 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=4).
+- – *zelfstandig bestuursorgaan:* een krachtens publiekrecht ingesteld zelfstandig bestuursorgaan als bedoeld in [artikel 4 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=4).
 
 #### § 2. Samenstelling en inrichting adviescollege
 
@@ -113,11 +84,11 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 - a. op schriftelijk verzoek van een van beide kamers der Staten-Generaal advies uit te brengen over:
 
-- 1°. een doeltreffende en doelmatige inrichting en toepassing van een informatiesysteem ter uitvoering van beleid of regelgeving;
+   - 1°. een doeltreffende en doelmatige inrichting en toepassing van een informatiesysteem ter uitvoering van beleid of regelgeving;
 
-- 2°. de risico’s en slaagkans van een voorgenomen ICT-project en daarbij een oordeel te geven over de mate van beheersbaarheid; en
+   - 2°. de risico’s en slaagkans van een voorgenomen ICT-project en daarbij een oordeel te geven over de mate van beheersbaarheid; en
 
-- 3°. de doeltreffendheid en doelmatigheid van onderhoud- en beheeractiviteiten van een informatiesysteem, en
+   - 3°. de doeltreffendheid en doelmatigheid van onderhoud- en beheeractiviteiten van een informatiesysteem, en
 
 - b. het voorzien in kennisoverdracht en kennisbevordering vanuit de kennis en ervaringen die bij de advisering, bedoeld in onderdeel a, zijn opgedaan, waaronder mede het geven van algemene aanbevelingen wordt begrepen.
 
@@ -215,7 +186,7 @@ Deze wet is niet van toepassing op de wapensystemen van het Ministerie van Defen
 
 ##### Artikel 15
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 16
 
@@ -224,5 +195,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet Adviescollege ICT-toetsing.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

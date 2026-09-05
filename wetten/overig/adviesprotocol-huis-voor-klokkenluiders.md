@@ -1,52 +1,63 @@
 ---
 title: "Adviesprotocol Huis voor Klokkenluiders"
 identifier: "BWBR0049221"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-01-04"
-last_updated: "2024-01-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049221"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "16996783"
-version_id: "29892902"
-internal_id: "C42856651"
-label_id: "16907124"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049221/2024-01-04/0"
-intitule_bron: "Stcrt.2024-126"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-01-04"
-intitule_in_force: "2024-01-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-126"
-original_published_date: "2024-01-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-126"
-entry_into_force_date: "2024-01-04"
-jci_1_3: "jci1.3:c:BWBR0049221&z=2024-01-04&g=2024-01-04"
-jci_1_0: "1.0:c:BWBR0049221&g=2024-01-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-01-04"
+publicatiedatum: 2024-01-04
+laatste_update: 2024-01-04
+status: geldig
+toestand: 2024-01-04
+bron: "https://wetten.overheid.nl/BWBR0049221"
+opgehaald: 2026-09-05
 ---
+
 # Adviesprotocol Huis voor Klokkenluiders
 
-**Adviesprotocol Huis voor klokkenluiders**
+Naar aanleiding van de inwerkingtreding van de [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852) (hierna: wet) is dit protocol aangepast op 19 december 2023. De aanpassingen zien vooral op de personele en materiële reikwijdte van de wet.
 
-Het bestuur van het Huis voor Klokkenluiders heeft op 15 maart 2021 dit adviesprotocol vastgesteld, met de Wet Huis voor klokkenluiders van 14 april 2016 als basis en in navolging van wat in artikel 3h van die wet is bepaald.
-
-Naar aanleiding van de inwerkingtreding van de [Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852) (hierna: wet) is dit protocol aangepast op 19 december 2023. De aanpassingen zien vooral op de personele en materiële reikwijdte van de wet.
+Inleiding
 
 Het Huis voor Klokkenluiders (hierna: het Huis) is opgericht voor personen in Nederland1De Wet bescherming klokkenluiders geldt niet in Caribisch Nederland (Bonaire Sint Eustatius, Saba); in de Wet bescherming klokkenluiders is geen expliciete bepaling opgenomen waardoor de wet van toepassing zou zijn in Caribisch Nederland. die melding willen doen van (een redelijk vermoeden van) een werkgerelateerde misstand. Het Huis draagt bij aan een betere bescherming van melders, degene die een melder bijstaat en de betrokken derde. Dit doet het Huis door het geven van advies, het doen van onderzoek en door organisaties te stimuleren hun integriteit te bewaken.
 
 De afdeling advies van het Huis adviseert (potentiële) melders, degene die een melder bijstaat en de betrokken derde vertrouwelijk over de mogelijkheden, de risico’s en hun rechten en plichten bij het doen van een melding. Het doel is het melden mogelijk te maken zonder dat dit leidt tot benadeling van de meldende werknemer of verslechtering van de relatie tussen de melder en de werkgever.
 
+Begrippen
+
+- – Het begrip melder wordt in de wet als volgt opgevat: een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten een vermoeden van een misstand meldt of openbaar maakt. Het Huis geeft een ruime uitleg aan dit begrip binnen het wettelijk kader. Zo valt onder de wet een persoon die op basis van een arbeidsovereenkomst arbeid verricht of heeft verricht dan wel degene die anders dan uit dienstbetrekking arbeid verricht of heeft verricht, zoals een uitzendkracht, een zelfstandige zonder personeel, stagiair of vrijwilliger. Maar ook leveranciers, (onder)aannemers, aandeelhouders en personen in leidinggevende organen, zoals leden van een raad van commissarissen, kunnen onder het begrip vallen.
+
+- – Een melder kan door iemand worden bijgestaan in het meldproces. Degene die een melder bijstaat is een natuurlijke persoon of rechtspersoon die een melder adviseert in het meldingsproces in een werkgerelateerde context en wiens advisering vertrouwelijk is. Hierbij kan worden gedacht aan de vertrouwenspersoon.
+
+- – In de wet is ook de betrokken derde genoemd. Een betrokken derde wordt gedefinieerd als een derde die in een werkgerelateerde context verbonden is met een melder of een rechtspersoon die eigendom is van de melder, waarvoor de melder werkt of waarmee de melder anderszins werkgerelateerd verbonden is.
+
+- – Onder een vermoeden van een misstand wordt verstaan:
+
+   - a. een schending of een gevaar voor schending van het Unierecht, of
+
+   - b. een handeling of nalatigheid waarbij het maatschappelijk belang in het geding is bij:
+
+      - 1°. een schending of een gevaar voor schending van een wettelijk voorschrift of van interne regels die een concrete verplichting inhouden en die op grond van een wettelijk voorschrift door een werkgever zijn vastgesteld, dan wel
+
+      - 2°. een gevaar voor de volksgezondheid, voor de veiligheid van personen, voor de aantasting van het milieu of voor het goed functioneren van de openbare dienst of een onderneming als gevolg van een onbehoorlijke wijze van handelen of nalaten. Het maatschappelijk belang is in ieder geval in het geding indien de handeling of nalatigheid niet enkel persoonlijke belangen raakt en er sprake is van oftewel een patroon of structureel karakter dan wel de handeling of nalatigheid ernstig of omvangrijk is; Een vermoeden moet gebaseerd zijn op redelijke gronden. Dit betekent dat de melder zelf bij zijn werkgever hier kennis van heeft genomen en bijvoorbeeld met stukken kan onderbouwen waarop het vermoeden gebaseerd is.
+
+Adviestaak
+
 De adviestaak van de afdeling Advies van het Huis wordt in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3a) als volgt beschreven:
+
+- – Het informeren en adviseren van een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten een melding heeft gedaan of voornemens is een melding te doen, degene die deze persoon bijstaat en een betrokken derde over de te ondernemen stappen inzake het vermoeden van een misstand, alsmede over de rechten van deze personen;
+
+- – Het verwijzen naar bestuursorganen of diensten die zijn belast met de opsporing van strafbare feiten of met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift of een andere bevoegde instantie waar het vermoeden van een misstand kan worden gemeld;
+
+- – Het verwijzen naar instanties of organisaties die juridische of psychosociale ondersteuning kunnen verlenen, en
+
+- – Het geven van algemene voorlichting over het omgaan met een vermoeden van een misstand.
+
+Onthouden van deelneming van medewerker Advies en bestuurslid aan het adviestraject
 
 Indien er een schijn van belangenverstrengeling kan ontstaan bij de behandeling van een advies, zal de medewerker van het Huis dit onverwijld aan de voorzitter van het Huis moeten melden. De voorzitter beslist dan per geval of de betreffende medewerker zich om deze reden van deelneming aan het adviestraject onthoudt. Dit is geregeld in [artikel 3g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3g). In dit artikel wordt ook een aantal voorbeelden gegeven van situaties van belangenverstrengeling.
 
 Van het bestuurslid advies wordt in het geval van belangenverstrengeling verwacht dat deze zich onthoudt van deelneming aan het advies. Dit is geregeld in [artikel 3f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3f).
+
+Doel van dit protocol
 
 In dit adviesprotocol beschrijft het Huis de wijze waarop invulling wordt gegeven aan de adviestaak. Hiermee verschaft het Huis inzicht in de werkwijze van de afdeling Advies en draagt het bij aan de transparantie van de organisatie.
 
@@ -80,11 +91,33 @@ De adviseur en de adviesverzoeker bekijken, bij voorkeur samen, welke van de mog
 
 Adviesverzoekers die een vermoeden van een misstand (overwegen te) melden, belanden in een voor hen vaak onbekende situatie. De adviseur probeert daar zo goed mogelijk over te adviseren door voor zover (nog) nodig de adviesverzoeker:
 
+- • Uitleg te (blijven) geven over de rol van de afdeling Advies en van het Huis;
+
+- • Voor te lichten en informatie te bieden over onder meer de impact en risico’s van de melding voor hemzelf en zijn omgeving;
+
+- • Te attenderen op de mogelijke risico’s voor hemzelf en zijn omgeving bij inschakeling van de media;
+
+- • Behulpzaam te zijn bij het kiezen van het juiste instrument om de misstand zo snel mogelijk (te helpen) op te lossen en tegelijkertijd te voorkomen dat de situatie escaleert en de verhouding met de werkgever verslechtert. Hierbij valt bijvoorbeeld te denken aan bemiddeling door het Huis of bemiddeling of mediation door derden;
+
+- • Een luisterend oor en morele support te bieden tijdens het hele meldtraject;
+
+- • Te wijzen op de (verdere) meldmogelijkheden in zijn specifieke zaak – intern bij de werkgever, extern bij een specifieke inspectie/toezichthouder, dan wel bij de afdeling Onderzoek van het Huis (zie Onderzoeksprotocol van het Huis d.d. 19 december 2023);
+
+- • Behulpzaam te zijn bij het vinden van passende psychosociale ondersteuning;
+
+- • Te wijzen op arbeidsrechtelijke knelpunten en het tijdig door te verwijzen naar een rechtsbijstandsverlener;
+
+- • Nazorg te bieden;
+
+- • Te adviseren over de mogelijkheden van rehabilitatie.
+
 Indien de adviesverzoeker zijn zaak wil voorleggen aan de afdeling Onderzoek (of een Inspectie of Autoriteit) voor onderzoek kan de afdeling Advies desgewenst de informatie uit de advieszaak met instemming van de adviesverzoeker zorgvuldig doorsturen. Na het indienen van het verzoek blijft de adviseur voor de adviesverzoeker beschikbaar voor advies.
 
 Indien advisering niet meer aan de orde is, beëindigt de afdeling Advies het adviestraject. In beginsel zal de adviseur samen met de adviesverzoeker het adviestraject evalueren.
 
 ### 3. Interne samenwerking
+
+Afdeling Onderzoek van het Huis
 
 De afdeling Onderzoek van het Huis verricht onderzoek naar vermoedens van misstanden (misstandsonderzoek) en naar de wijze waarop een werkgever is omgegaan met een werknemer die een vermoeden van een misstand heeft gemeld (bejegeningsonderzoek). De afdeling Onderzoek heeft daarmee een andere taak dan de afdeling Advies. De afdeling Onderzoek heeft geen toegang tot gegevens die bij de afdeling Advies berusten. Dit geldt ook andersom: de afdeling Advies heeft geen toegang tot gegevens die bij de afdeling Onderzoek berusten.
 

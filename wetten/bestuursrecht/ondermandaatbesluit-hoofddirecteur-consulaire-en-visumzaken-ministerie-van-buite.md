@@ -1,50 +1,18 @@
 ---
 title: "Ondermandaatbesluit van de hoofddirecteur Consulaire en Visumzaken van het Ministerie van Buitenlandse Zaken van 30 november 2023, nr. Min-BuZa.2023.20222-33"
+citeertitel: "Ondermandaatbesluit hoofddirecteur Consulaire en Visumzaken Ministerie van Buitenlandse Zaken 2023"
 identifier: "BWBR0049402"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-02-28"
-last_updated: "2023-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049402"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17038223"
-version_id: "29979652"
-internal_id: "C42983031"
-label_id: "16947774"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049402/2024-02-28/0"
-intitule_bron: "Stcrt.2024-5687"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-30"
-intitule_published: "2024-02-27"
-intitule_in_force: "2024-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-5687"
-original_signed_date: "2023-11-30"
-original_published_date: "2024-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-5687"
-entry_into_force_date: "2024-02-28"
-jci_1_3: "jci1.3:c:BWBR0049402&z=2024-02-28&g=2024-02-28"
-jci_1_0: "1.0:c:BWBR0049402&g=2024-02-28"
-citeertitel_status: "redactioneel"
-short_title: "Ondermandaatbesluit hoofddirecteur Consulaire en Visumzaken Ministerie van Buitenlandse Zaken 2023"
-signed_date: "2023-11-30"
-entry_into_force: "2024-02-28"
+publicatiedatum: 2024-02-28
+laatste_update: 2024-02-28
+status: geldig
+toestand: 2024-02-28
+bron: "https://wetten.overheid.nl/BWBR0049402"
+opgehaald: 2026-09-05
 ---
+
 # Ondermandaatbesluit van de hoofddirecteur Consulaire en Visumzaken van het Ministerie van Buitenlandse Zaken van 30 november 2023, nr. Min-BuZa.2023.20222-33
-
-Gelet op [artikel 1 van het Besluit doorverlening mandaat, volmacht en machtiging BZ 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044543&artikel=1) j° [artikel 3, vierde en vijfde lid, van de Regeling mandaat, volmacht en machtiging BZ 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044511&artikel=3);
-
-Gelet op het [Organisatiebesluit Buitenlandse Zaken 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047008), alsmede op de taakverdeling binnen de hoofddirectie, neergelegd in de taken/bevoegdhedenmatrix met betrekking tot financiële en administratieve processen, bekend als de competentietabel, zoals voor de eerste maal door mij vastgesteld op (30 november 2023; Min-BuZa.2023.20222-33);
-
-In overeenstemming met de directeur Consulaire Service Organisatie en de directeur Nederland Wereldwijd;
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1
 
@@ -94,6 +62,6 @@ Aan de volgende functionarissen wordt de bevoegdheid verleend besluiten te nemen
 
 ##### Artikel 5
 
-Dit besluit treedt in werking met ingang van 1 november 2023.
+Dit besluit treedt in werking met ingang van 1 november 2023.
 
 Een afschrift van dit besluit wordt gezonden naar de directie Juridische Zaken, afdeling Nederlands Recht.

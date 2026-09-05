@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid Alcoholwet (IB03-SPEC 29, versie 03)"
+citeertitel: "Specifiek interventiebeleid NVWA Alcoholwet (IB03-SPEC 29, versie 03)"
 identifier: "BWBR0049230"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-13"
-last_updated: "2024-01-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049230"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "16998923"
-version_id: "29897892"
-internal_id: "C42861691"
-label_id: "16909354"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049230/2024-01-13/0"
-intitule_bron: "Stcrt.2024-199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-19"
-intitule_published: "2024-01-12"
-intitule_in_force: "2024-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-199"
-original_signed_date: "2023-12-19"
-original_published_date: "2024-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-199"
-entry_into_force_date: "2024-01-13"
-jci_1_3: "jci1.3:c:BWBR0049230&z=2024-01-13&g=2024-01-13"
-jci_1_0: "1.0:c:BWBR0049230&g=2024-01-13"
-citeertitel_status: "officieel"
-short_title: "Specifiek interventiebeleid NVWA Alcoholwet (IB03-SPEC 29, versie 03)"
-signed_date: "2023-12-19"
-entry_into_force: "2024-01-13"
+publicatiedatum: 2024-01-13
+laatste_update: 2024-01-13
+status: geldig
+toestand: 2024-01-13
+bron: "https://wetten.overheid.nl/BWBR0049230"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid Alcoholwet (IB03-SPEC 29, versie 03)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,
@@ -54,6 +32,10 @@ Overtredingen die door de inspecteur/toezichthouder worden waargenomen en die ni
 
 In aanvulling op de definities en begrippen uit het [AIB](https://wetten.overheid.nl/jci1.3:c:BWBR0049215) gelden de volgende definities:
 
+- *Inspectie:* Elke vorm van controle (op afstand) door een inspecteur van de NVWA om na te gaan of de wet- en regelgeving inzake alcohol wordt nageleefd. De inspecteur kan, als dit de efficiency van de uit te voeren inspectie ten goede komt, ervoor kiezen om deze van tevoren aan te kondigen. Dit laat onverlet dat de inspecteur ook zonder aankondiging een inspectie kan uitvoeren.
+
+- *Herinspectie:* Een inspectie (op afstand) ingesteld door een inspecteur van de NVWA die volgt op een eerder ingestelde inspectie, waarbij een overtreding is geconstateerd van de wet- en regelgeving inzake alcohol en naar aanleiding waarvan het noodzakelijk wordt geacht om na te gaan of afdoende corrigerende maatregelen zijn genomen om de overtreding op te heffen en nieuwe overtredingen te voorkomen.
+
 ### 2.2. Wettelijke basis
 
 De belangrijkste wettelijke bepalingen die van belang zijn voor dit specifiek interventiebeleid zijn de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) (voorheen: Drank- en Horecawet) en het daarop gebaseerde [Alcoholbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0045211).
@@ -62,17 +44,23 @@ De belangrijkste wettelijke bepalingen die van belang zijn voor dit specifiek in
 
 ### 3.1. Het bepalen van de ernst van de overtreding
 
-Overtredingen worden ingedeeld naar de klassen zoals gedefinieerd in het [AIB](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Bij het beoordelen van de op te leggen interventie wordt rekening gehouden met de omvang van (het risico op) gevolgen voor de volksgezondheid, de herstelbaarheid daarvan en of er sprake is van calculerend en/of bewust risiconemend gedrag. Hoe groter (het risico op) de gevolgen, des te hoger wordt de overtreding in de bijlage geclassificeerd.
+Overtredingen worden ingedeeld naar de klassen zoals gedefinieerd in het [AIB](https://wetten.overheid.nl/jci1.3:c:BWBR0049215). Bij het beoordelen van de op te leggen interventie wordt rekening gehouden met de omvang van (het risico op) gevolgen voor de volksgezondheid, de herstelbaarheid daarvan en of er sprake is van calculerend en/of bewust risiconemend gedrag. Hoe groter (het risico op) de gevolgen, des te hoger wordt de overtreding in de [bijlage](https://wetten.overheid.nl/BWBR0049230) geclassificeerd.
 
-In de bijlage van dit document zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s).
+In de [bijlage](https://wetten.overheid.nl/BWBR0049230) van dit document zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s).
 
 ### 3.2. Het bepalen van interventies bij een overtreding
+
+Bestraffende sanctie
 
 Overtredingen van de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458) worden doorgaans bestuurlijk beboet.
 
 Aan het Openbaar Ministerie (OM) worden overtredingen voorgelegd:
 
-De kolommen ‘interventies’ en ‘follow-up na overtreding; interventies bij herhaalde overtreding’ in de bijlagen van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces-verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op bovengenoemde kolommen in de bijlagen.
+- • indien de overtreding een direct gevaar voor de gezondheid of veiligheid van de mens tot gevolg heeft; óf
+
+- • de in de [bijlage](https://wetten.overheid.nl/BWBR0049230) ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel ([artikel 44aa, tweede lid, van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44aa)).
+
+De kolommen ‘interventies’ en ‘follow-up na overtreding; interventies bij herhaalde overtreding’ in de [bijlagen](https://wetten.overheid.nl/BWBR0049230) van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces-verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op bovengenoemde kolommen in de bijlagen.
 
 ### 3.3. Herinspectie
 
@@ -80,12 +68,14 @@ Na het constateren van een zware of middelzware overtreding kan een extra inspec
 
 ### 4. Divers
 
-Deze beleidsregel vervangt het op 26 augustus 2021 vastgestelde [Specifiek interventiebeleid NVWA Alcoholwet (IB02-SPEC 29, versie 2)](https://wetten.overheid.nl/jci1.3:c:BWBR0045534). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215).
+Vervanging
+
+Deze beleidsregel vervangt het op 26 augustus 2021 vastgestelde [Specifiek interventiebeleid NVWA Alcoholwet (IB02-SPEC 29, versie 2)](https://wetten.overheid.nl/jci1.3:c:BWBR0045534). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid NVWA Alcoholwet (IB03-SPEC 29, versie 03)’.
 
+Inwerkingtreding
+
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
-
-## Bijlage
-
-Gepubliceerd op www.nvwa.nl/interventiebeleid.

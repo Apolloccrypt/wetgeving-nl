@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2023, houdende de aanwijzing van de DAEB flexwoningen en regels over het verlenen van subsidie in de vorm van een garantie en het vaststellen van subsidie aan investeerders bij herplaatsing van flexwoningen (Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029)"
+citeertitel: "Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029"
 identifier: "BWBR0049080"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049080"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "16962863"
-version_id: "29818342"
-internal_id: "C42734831"
-label_id: "16873544"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049080/2024-01-01/0"
-intitule_bron: "Stcrt.2023-33446"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-07"
-intitule_published: "2023-12-13"
-intitule_in_force: "2023-12-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-33446"
-original_signed_date: "2023-12-07"
-original_published_date: "2023-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-33446"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049080&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049080&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029"
-signed_date: "2023-12-07"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049080"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 december 2023, houdende de aanwijzing van de DAEB flexwoningen en regels over het verlenen van subsidie in de vorm van een garantie en het vaststellen van subsidie aan investeerders bij herplaatsing van flexwoningen (Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029)
-
-Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8) en [14 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **college:** college van burgemeester en wethouders;
+- – *college:* college van burgemeester en wethouders;
 
-- –. **DAEB flexwoningen:** een dienst van algemeen economisch belang die conform het Vrijstellingsbesluit DAEB voor deze regeling is opgericht, waarmee wordt beoogd een flexibele schil in de woningvoorraad te vormen ten behoeve van de versnelde huisvesting van de doelgroep.
+- – *DAEB flexwoningen:* een dienst van algemeen economisch belang die conform het Vrijstellingsbesluit DAEB voor deze regeling is opgericht, waarmee wordt beoogd een flexibele schil in de woningvoorraad te vormen ten behoeve van de versnelde huisvesting van de doelgroep.
 
-- 1°. artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie, en
+   - 1° artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie, en
 
-- 2°. het Besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;
+   - 2° het Besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;
 
-- –. **doelgroep:** ontheemden en mensen die door hun inkomen of anderszins moeilijkheden ondervinden bij het vinden van passende huisvesting;
+- – *doelgroep:* ontheemden en mensen die door hun inkomen of anderszins moeilijkheden ondervinden bij het vinden van passende huisvesting;
 
-- –. **flexwoning:** bouwwerk ten behoeve van huisvesting van personen, geschikt voor verplaatsing en gebruik op een volgende locatie;
+- – *flexwoning:* bouwwerk ten behoeve van huisvesting van personen, geschikt voor verplaatsing en gebruik op een volgende locatie;
 
-- –. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **ontheemde:** persoon die vreemdeling is en tijdelijke bescherming geniet als bedoeld in artikel 2, eerste lid, Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022;
+- – *ontheemde:* persoon die vreemdeling is en tijdelijke bescherming geniet als bedoeld in artikel 2, eerste lid, Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022;
 
-- –. **vrijstellingsbesluit DAEB:** het Besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
+- – *vrijstellingsbesluit DAEB:* het Besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
 ##### Artikel 2. Doel en activiteiten
 
@@ -82,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 4. De opdracht, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=1&artikel=2&z=2024-01-01&g=2024-01-01), heeft een werkingsduur van maximaal 25 jaar.
 
-5. De compensatie bedraagt maximaal € 15 miljoen per investeerder per jaar.
+5. De compensatie bedraagt maximaal € 15 miljoen per investeerder per jaar.
 
 6. Het vijfde lid is niet van toepassing op een toegelaten instelling.
 
@@ -92,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Plafond
 
-1. Het plafond voor het totaalbedrag aan subsidieverleningen bedraagt € 783 miljoen.
+1. Het plafond voor het totaalbedrag aan subsidieverleningen bedraagt € 783 miljoen.
 
 2. Per 10.000 inwoners binnen een gemeente kan voor maximaal honderd flexwoningen een subsidie worden verleend.
 
@@ -130,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een flexwoning voldoet minimaal aan de standaardeisen zoals opgenomen in de Woonstandaard, versie 3.0 van juli 2023 voor Product Marktcombinatie 11, 12, 13 of 14.
 
-5. In afwijking van het eerste lid, onderdeel b, komt tevens een bestaande flexwoning in aanmerking, mits daarvoor niet eerder dan op 26 augustus 2022 een opdracht voor de productie ervan is verstrekt en de subsidieaanvraag voor deze flexwoning niet later dan op 31 januari 2024 is ingediend. Indien op het moment van plaatsing het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) niet in werking is getreden dient de flexwoning, in afwijking van het tweede lid, te voldoen aan de technische voorschriften zoals neergelegd in het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461).
+5. In afwijking van het eerste lid, onderdeel b, komt tevens een bestaande flexwoning in aanmerking, mits daarvoor niet eerder dan op 26 augustus 2022 een opdracht voor de productie ervan is verstrekt en de subsidieaanvraag voor deze flexwoning niet later dan op 31 januari 2024 is ingediend. Indien op het moment van plaatsing het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) niet in werking is getreden dient de flexwoning, in afwijking van het tweede lid, te voldoen aan de technische voorschriften zoals neergelegd in het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461).
 
 6. In afwijking van het tweede tot en met het vierde lid voldoet een flexwoning aan de technische voorschriften, indien door de investeerder een gelijkwaardig kwaliteitsniveau kan worden aangetoond.
 
@@ -150,11 +124,11 @@ In deze regeling wordt verstaan onder:
 
 - d. de volgende rapporten waaruit blijkt dat de flexwoning aan de technische eisen voldoet:
 
-- 1°. een NTA 8800 rapport;
+   - 1°. een NTA 8800 rapport;
 
-- 2°. een berekening conform Bepalingsmethode Milieuprestatie Bouwwerken; en
+   - 2°. een berekening conform Bepalingsmethode Milieuprestatie Bouwwerken; en
 
-- 3°. een onderbouwing en berekening van de losmaakbaarheid van de flexwoning.
+   - 3°. een onderbouwing en berekening van de losmaakbaarheid van de flexwoning.
 
 - e. de verwachte start- en einddatum van het project op de tijdelijke locatie; en
 
@@ -196,17 +170,17 @@ De Minister wijst een aanvraag voor een subsidieverlening geheel of gedeeltelijk
 
 1. Indien een subsidie wordt verleend, dient de investeerder:
 
-- a. binnen drie maanden, gerekend vanaf de dag na de verzenddatum van deze beschikking, een eigen bijdrage van € 1.000 per flexwoning aan de Minister te voldoen;
+- a. binnen drie maanden, gerekend vanaf de dag na de verzenddatum van deze beschikking, een eigen bijdrage van € 1.000 per flexwoning aan de Minister te voldoen;
 
 - b. binnen 18 maanden, gerekend vanaf de dag na de verzenddatum van deze beschikking, het project op de locatie, zoals hierin vermeld, te hebben geplaatst en in exploitatie te hebben genomen; en
 
 - c. de Minister direct schriftelijk te informeren zodra het project is gerealiseerd, waarbij de volgende documenten worden aangeleverd:
 
-- 1°. een rapport van feitelijke bevindingen van een accountant ter onderbouwing van de bouwkosten van het gerealiseerde project, bedoeld in [artikel 19 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01);
+   - 1°. een rapport van feitelijke bevindingen van een accountant ter onderbouwing van de bouwkosten van het gerealiseerde project, bedoeld in [artikel 19 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=3&artikel=19&z=2024-01-01&g=2024-01-01);
 
-- 2°. de omgevingsvergunning die betrekking heeft op het gerealiseerde project; en
+   - 2°. de omgevingsvergunning die betrekking heeft op het gerealiseerde project; en
 
-- 3°. een bestuurdersverklaring of eigen verklaring.
+   - 3°. een bestuurdersverklaring of eigen verklaring.
 
 2. De flexwoning dient gedurende de gehele periode waarvoor de subsidie is verleend:
 
@@ -312,19 +286,19 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 - b. de gebouwdelen, voor zover onderdeel van het project en mits redelijkerwijs mag worden aangenomen dat deze bij toekomstige verkoop met de flexwoning mee verkocht zullen worden, waaronder wordt verstaan:
 
-- 1°. ontsluitingsgalerijen;
+   - 1°. ontsluitingsgalerijen;
 
-- 2°. trappenhuizen;
+   - 2°. trappenhuizen;
 
-- 3°. installatieruimtes;
+   - 3°. installatieruimtes;
 
-- 4°. inpandige fietsenstallingen;
+   - 4°. inpandige fietsenstallingen;
 
-- 5°. inpandige bergingen;
+   - 5°. inpandige bergingen;
 
-- 6°. omheiningen voor tuinen; en
+   - 6°. omheiningen voor tuinen; en
 
-- 7°. ruimtes voor sociaal beheer en leefbaarheid.
+   - 7°. ruimtes voor sociaal beheer en leefbaarheid.
 
 3. Onder bouwkosten, bedoeld in het eerste lid, vallen niet:
 
@@ -356,24 +330,12 @@ De herplaatsingsladder bestaat uit de volgende stappen:
 
 ##### Artikel 21. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2024.
+Deze regeling treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 22. Vervaltermijn
 
-Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
+Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
 ##### Artikel 23. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming herplaatsing flexwoningen 2024–2029.
-
-## Bijlage I. bij [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01)
-
-| Norm | Omschrijving methode | Datum of versie | Uitgever | Artikel in regeling waarin verwijzing staat |
-| --- | --- | --- | --- | --- |
-| Bepalings- methode Milieuprestatie Gebouwen en GWW-werken | De milieuprestatie vergelijken, met als doel de uiteindelijke milieu-impact van een bouwwerk te verlagen | Geïntegreerde versie 1.1 (maart 2022) en de vigerende Bepalingsmethode ‘Milieuprestatie Bouwwerken’ versie 1.0 | [Bepalingsmethode \| Stichting Nationale Milieudatabase (milieudatabase.nl)](onbekend) en [Rekeninstrumenten (milieudatabase.nl)](onbekend) | [5, derde lid, onderdeel a, en vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01). [6, derde lid, onderdeel d, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) |
-| Product Marktcombinatie 11, 12, 13 of 14 | Onderscheiding in woningtypes en huurklassen met basiseisen voor concepten van grondgebonden, gestapelde, flexibel en onzelfstandige woningen | versie 3.0 van juli 2023 | [De Woonstandaard \| conceptueelbouwen.nl](onbekend) | [5, derde lid, onderdeel e, en vierde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01) |
-| NTA 8800 rapport | Bepaling van de energieprestatie van gebouwen, waarmee aangetoond wordt of men voldoet aan de BENG-eisen | NTA 8800:2023 | [https://www.nen.nl/bouw/energieprestatie-en-duurzaamheid/energieprestatie](onbekend) | [6, derde lid, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) |
-| Losmaakbaar-heidsindex | Beschrijving van de mogelijkheden hoe losmaakbaarheid in bestaande duurzaamheids- instrumenten geïntegreerd kan worden | v2.0 | [Circular Buildings - een meetmethodiek voor losmaakbaarheid v2.0 - Dutch Green Building Council (dgbc.nl)](onbekend) | [6, derde lid, onderdeel d, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=6&z=2024-01-01&g=2024-01-01) |
-| NEN 2767 norm, met minimaal conditiescore 3, of de uitgangs-punten Kwaliteit in Balans | Instrument voor het meten van de fysieke kwaliteit van bouw- en installatiedelen van gebouwen en/of infrastructuur door een waarde toe te kennen, een combinatie aan te geven van de soorten gebreken (ernst, omvang en intensiteit) en een rangorde aan te brengen in de noodzaak van herstel | 20 juni 2022 | [https://www.nen.nl/bouw/beheer-en-onderhoud/conditiemeting](onbekend) | [10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049080&hoofdstuk=2&artikel=10&z=2024-01-01&g=2024-01-01) |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

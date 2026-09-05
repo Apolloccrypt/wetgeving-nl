@@ -1,52 +1,27 @@
 ---
 title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 maart 2024, nr. WJZ/44517625, houdende nadere regels voor archeologische opgravingen (Regeling Erfgoedwet archeologie)"
+citeertitel: "Regeling Erfgoedwet archeologie"
 identifier: "BWBR0049487"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049487"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17056353"
-version_id: "30011432"
-internal_id: "C43021271"
-label_id: "16965814"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049487/2024-04-01/0"
-intitule_bron: "Stcrt.2024-8761"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-15"
-intitule_published: "2024-03-25"
-intitule_in_force: "2024-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8761"
-original_signed_date: "2024-03-15"
-original_published_date: "2024-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8761"
-entry_into_force_date: "2024-04-01"
-jci_1_3: "jci1.3:c:BWBR0049487&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0049487&g=2024-04-01"
-citeertitel_status: "officieel"
-short_title: "Regeling Erfgoedwet archeologie"
-signed_date: "2024-03-15"
-entry_into_force: "2024-04-01"
+publicatiedatum: 2024-04-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0049487"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 maart 2024, nr. WJZ/44517625, houdende nadere regels voor archeologische opgravingen (Regeling Erfgoedwet archeologie)
-
-Gelet op de [artikelen 2.5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&artikel=2.5) en [3.1, eerste lid, van het Besluit Erfgoedwet archeologie](https://wetten.overheid.nl/jci1.3:c:BWBR0037866&artikel=3.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **wet:** [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+- *wet:*
+ [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 ##### Artikel 2. Aanwijzing beoordelingsrichtlijn
 
@@ -56,33 +31,33 @@ Als de richtlijn, bedoeld in [artikel 5.5, onderdeel b, van de Erfgoedwet](https
 
 - b. van de Kwaliteitsnorm Nederlandse Archeologie, van het deel Landbodems versie 4.2, de volgende onderdelen:
 
-- 1°. het Protocol 4001 Programma van eisen,
+   - 1°. het Protocol 4001 Programma van eisen,
 
-- 2°. het Protocol 4002 Bureauonderzoek,
+   - 2°. het Protocol 4002 Bureauonderzoek,
 
-- 3°. het Protocol 4003 Inventariserend veldonderzoek,
+   - 3°. het Protocol 4003 Inventariserend veldonderzoek,
 
-- 4°. het Protocol 4004 Opgraven,
+   - 4°. het Protocol 4004 Opgraven,
 
-- 5°. het Protocol 4006 Specialistisch onderzoek, en
+   - 5°. het Protocol 4006 Specialistisch onderzoek, en
 
-- 6°. het Protocol 4010 Depotbeheer.
+   - 6°. het Protocol 4010 Depotbeheer.
 
 - c. van de Kwaliteitsnorm Nederlandse Archeologie, van het deel Waterbodems versie 4.2, de volgende onderdelen:
 
-- 1°. het Protocol 4001 Programma van eisen,
+   - 1°. het Protocol 4001 Programma van eisen,
 
-- 2°. het Protocol 4002 Bureauonderzoek,
+   - 2°. het Protocol 4002 Bureauonderzoek,
 
-- 3°. het Protocol 4103 Inventariserend veldonderzoek,
+   - 3°. het Protocol 4103 Inventariserend veldonderzoek,
 
-- 4°. het Protocol 4104 Opgraven,
+   - 4°. het Protocol 4104 Opgraven,
 
-- 5°. het Protocol 4006 Specialistisch onderzoek,
+   - 5°. het Protocol 4006 Specialistisch onderzoek,
 
-- 6°. het Protocol 4107 Archeologische begeleiding, en
+   - 6°. het Protocol 4107 Archeologische begeleiding, en
 
-- 7°. het Protocol 4010 Depotbeheer.
+   - 7°. het Protocol 4010 Depotbeheer.
 
 ##### Artikel 3. Aanvraagvereisten ontheffing onderwaterarcheologie
 
@@ -158,16 +133,14 @@ De ontheffing kan worden ingetrokken als:
 
 - e. de ontheffinghouder anderszins in strijd met het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) bepaalde handelt.
 
-##### Artikel 8. Intrekking [Besluit aanwijzing richtlijn op professionele wijze verrichten van opgravingen](https://wetten.overheid.nl/jci1.3:c:BWBR0038249)
+##### Artikel 8. Intrekking Besluit aanwijzing richtlijn op professionele wijze verrichten van opgravingen
 
-Het[Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 juli 2016, nr. 1014109 houdende aanwijzing van de richtlijn, bedoeld in artikel 5.5, onderdeel b, van de Erfgoedwet, voor het op professionele wijze verrichten van opgravingen](https://wetten.overheid.nl/jci1.3:c:BWBR0038249) (Stcrt. 2016, 36440) wordt ingetrokken.
+Het[Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 juli 2016, nr. 1014109 houdende aanwijzing van de richtlijn, bedoeld in artikel 5.5, onderdeel b, van de Erfgoedwet, voor het op professionele wijze verrichten van opgravingen](https://wetten.overheid.nl/jci1.3:c:BWBR0038249) (Stcrt. 2016, 36440) wordt ingetrokken.
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2024.
+Deze regeling treedt in werking met ingang van 1 april 2024.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Erfgoedwet archeologie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

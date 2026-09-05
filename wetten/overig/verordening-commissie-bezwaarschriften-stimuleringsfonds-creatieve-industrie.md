@@ -1,56 +1,31 @@
 ---
 title: "Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie"
 identifier: "BWBR0049444"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-03-08"
-last_updated: "2024-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049444"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17045563"
-version_id: "29991792"
-internal_id: "C42998671"
-label_id: "16955154"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049444/2024-03-08/0"
-intitule_bron: "Stcrt.2024-6558"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-03-07"
-intitule_in_force: "2024-03-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6558"
-original_published_date: "2024-03-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6558"
-entry_into_force_date: "2024-03-08"
-jci_1_3: "jci1.3:c:BWBR0049444&z=2024-03-08&g=2024-03-08"
-jci_1_0: "1.0:c:BWBR0049444&g=2024-03-08"
-citeertitel_status: "officieel"
-entry_into_force: "2024-03-08"
+publicatiedatum: 2024-03-08
+laatste_update: 2024-03-08
+status: geldig
+toestand: 2024-03-08
+bron: "https://wetten.overheid.nl/BWBR0049444"
+opgehaald: 2026-09-05
 ---
+
 # Verordening commissie bezwaarschriften Stimuleringsfonds Creatieve Industrie
-
-gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) (Awb);
-
-besluit vast te stellen de volgende verordening:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze verordening wordt verstaan onder:
 
-- a. **het Fonds:** het Stimuleringsfonds Creatieve Industrie;
+- a. *het Fonds:* het Stimuleringsfonds Creatieve Industrie;
 
-- b. **verwerend orgaan:** bestuursorgaan dat het bestreden besluit heeft genomen;
+- b. *verwerend orgaan:* bestuursorgaan dat het bestreden besluit heeft genomen;
 
-- c. **commissie:** vaste commissie van advies voor de bezwaarschriften;
+- c. *commissie:* vaste commissie van advies voor de bezwaarschriften;
 
-- d. **voorzitter:** de voorzitter van de commissie en
+- d. *voorzitter:* de voorzitter van de commissie en
 
-- e. **secretaris:** de secretaris van de commissie.
+- e. *secretaris:* de secretaris van de commissie.
 
 ##### Artikel 2. Inleidende bepaling commissie
 
@@ -188,11 +163,11 @@ De voorzitters en de leden van de commissie nemen niet deel aan de behandeling v
 
 ##### Artikel 19. Uitbrengen jaarverslag
 
-De commissie brengt jaarlijks voor 1 februari aan het bestuur van het Fonds schriftelijk verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
+De commissie brengt jaarlijks voor 1 februari aan het bestuur van het Fonds schriftelijk verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze verordening treedt na goedkeuring door het bestuur, met ingang van 1 januari 2013 in werking.
+Deze verordening treedt na goedkeuring door het bestuur, met ingang van 1 januari 2013 in werking.
 
 ##### Artikel 21. Overgangsbepaling
 

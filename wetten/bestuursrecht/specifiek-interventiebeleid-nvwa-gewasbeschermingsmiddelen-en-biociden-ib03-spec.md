@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 februari 2024 tot vaststelling van het Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 06)"
+citeertitel: "Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 06)"
 identifier: "BWBR0049491"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-04-04"
-last_updated: "2024-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049491"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "17056943"
-version_id: "30012272"
-internal_id: "C43022181"
-label_id: "16966444"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049491/2024-04-04/0"
-intitule_bron: "Stcrt.2024-8505"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-20"
-intitule_published: "2024-03-21"
-intitule_in_force: "2024-03-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8505"
-original_signed_date: "2024-02-20"
-original_published_date: "2024-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8505"
-entry_into_force_date: "2024-04-04"
-jci_1_3: "jci1.3:c:BWBR0049491&z=2024-04-04&g=2024-04-04"
-jci_1_0: "1.0:c:BWBR0049491&g=2024-04-04"
-citeertitel_status: "officieel"
-short_title: "Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 06)"
-signed_date: "2024-02-20"
-entry_into_force: "2024-04-04"
+publicatiedatum: 2024-04-04
+laatste_update: 2024-04-04
+status: geldig
+toestand: 2024-04-04
+bron: "https://wetten.overheid.nl/BWBR0049491"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 februari 2024 tot vaststelling van het Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 06)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 82 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=82), [artikel 6, zevende lid, van het Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794&artikel=6) en het [Algemeen Interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215);
@@ -52,9 +30,23 @@ Hieronder is een aantal specifieke definities opgenomen in aanvulling op de defi
 
 ### 2.1. Definities
 
+- *Inspectie:* Elke vorm van controle door een inspecteur van de NVWA om na te gaan of de wet- en regelgeving inzake gewasbeschermingsmiddelen en biociden wordt nageleefd. De inspecteur kan, als dit de efficiëntie van de uit te voeren inspectie ten goede komt, er voor kiezen om deze van te voren aan te kondigen. Dit laat onverlet dat de inspecteur ook zonder aankondiging een inspectie kan uitvoeren.
+
+- *Herinspectie:* Een inspectie (op afstand) ingesteld door een inspecteur van de NVWA die volgt op een eerder ingestelde inspectie, waarbij een overtreding is geconstateerd en naar aanleiding waarvan het noodzakelijk wordt geacht om na de tijdens de eerdere inspectie aangegeven termijn na te gaan of afdoende corrigerende maatregelen zijn genomen om de overtreding op te heffen en nieuwe overtredingen te voorkomen.
+
 ### 2.2. Wettelijke basis
 
 In het domein gewasbeschermingsmiddelen en biociden gelden zowel Europese als nationale regels. De wettelijke basis voor dit specifieke interventiebeleid is:
+
+- • [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670), het onderliggende [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530), de [Regeling gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022545), en het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330) (Bal).
+
+- • Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad.
+
+- • Richtlijn 2009/128/EG van het Europees Parlement en de Raad tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden.
+
+- • Verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad betreffende het op de markt aanbieden en het gebruik van biociden (van toepassing sinds 1 september 2013)
+
+- • [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063).
 
 ### 3. Werkwijze
 
@@ -68,32 +60,46 @@ Tenzij in dit specifieke interventiebeleid anders is bepaald, geldt het volgende
 
 Bij het beoordelen van de op te leggen interventie wordt rekening gehouden met de ernst van het gevaar (of risico op gevaar) voor mens, dier en milieu, de mate van herstelbaarheid van de overtreding en of er sprake is van ondermijnend gedrag.
 
-In de bijlage van deze beleidsregel zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s). Deze bijlage is in te zien op de internetpagina van de NVWA.
+Klassenindeling
+
+- – Er is sprake van een zware overtreding wanneer er sprake is van (risico op) ernstig gevaar voor mens, dier of milieu, ondermijning van het systeem of een onherstelbare overtreding.
+
+- – Er is sprake van een middelzware overtreding wanneer er weliswaar geen sprake is van een zware overtreding, maar er niettemin een (risico op) gevaar is voor mens, dier of milieu, ondermijning van het systeem of het een herstelbare overtreding betreft.
+
+- – Er is sprake van een lichte overtreding wanneer (het gevolg van) een overtreding eenvoudig en snel kan worden beëindigd en het (risico op) gevaar voor de gezondheid van mens, dier en milieu gering is.
+
+In de [bijlage](https://wetten.overheid.nl/BWBR0049491) van deze beleidsregel zijn de bepalingen van de geldende wetgeving ingedeeld in een overtredingsklasse met bijbehorende interventie(s). Deze bijlage is in te zien op de internetpagina van de NVWA.
 
 Voor de lichte overtredingen geldt dat na een derde constatering van een overtreding wordt overgegaan naar de interventie die volgt op de constatering van een middelzware overtreding.
 
 ### 3.2. Het bepalen van interventies bij een overtreding
 
+Bestraffende sanctie
+
 Overtredingen van de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670) worden doorgaans bestuurlijk beboet. Indien de ernst van de overtreding of de omstandigheden waaronder deze is begaan daartoe aanleiding geven, legt de NVWA deze voor aan het Openbaar Ministerie. Dit volgt uit [artikel 94 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=94). Het Openbaar Ministerie beslist of het overgaat tot strafrechtelijke afdoening. Strafrechtelijke afdoening is niet voorbehouden aan een vooraf aan te geven overtreding van een bepaald voorschrift, maar kan in beginsel bij alle overtredingen van de bij of krachtens de Wet gewasbeschermingsmiddelen en biociden gestelde voorschriften noodzakelijk zijn.
 
-De kolommen ‘interventie bij eerste constatering’ en ‘interventie bij herhaalde overtreding’ in de bijlage van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op genoemde kolommen in de bijlage.
+De kolommen ‘interventie bij eerste constatering’ en ‘interventie bij herhaalde overtreding’ in de [bijlage](https://wetten.overheid.nl/BWBR0049491) van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage van dit document aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op genoemde kolommen in de bijlage.
 
 ### 3.3. Herhaalde overtreding
+
+Herhaalde overtreding
 
 Er is sprake van een herhaalde overtreding wanneer tijdens een (her)inspectie opnieuw een overtreding van de wetgeving op het gebied van gewasbeschermingsmiddelen en biociden wordt vastgesteld, die bij de overtreder binnen de daaraan voorafgaande periode van twee jaar eerder is geconstateerd.
 
 ### 4. Divers
 
-Deze beleidsregel vervangt het op 19 december 2023 vastgestelde [Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 05)](https://wetten.overheid.nl/jci1.3:c:BWBR0049224). Hiermee komen de regels uit het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) te vervallen en wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
+Vervanging
+
+Deze beleidsregel vervangt het op 19 december 2023 vastgestelde [Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 05)](https://wetten.overheid.nl/jci1.3:c:BWBR0049224). Hiermee komen de regels uit het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) te vervallen en wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid NVWA gewasbeschermingsmiddelen en biociden (IB03-SPEC 05, versie 06)’.
 
-Deze beleidsregel treedt in werking op 4 april 2024.
+Inwerkingtreding
 
-De bijlage van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit ([www.nvwa.nl/interventiebeleid](http://www.nvwa.nl/interventiebeleid)).
+Deze beleidsregel treedt in werking op 4 april 2024.
 
-## Bijlage
+Bijlage
 
-Gepubliceerd op www.nvwa.nl/interventiebeleid.
-
-Deze beleidsregel wordt in de Staatscourant geplaatst.
+De [bijlage](https://wetten.overheid.nl/BWBR0049491) van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit ([www.nvwa.nl/interventiebeleid](http://www.nvwa.nl/interventiebeleid)).

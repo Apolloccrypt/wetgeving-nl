@@ -1,50 +1,22 @@
 ---
 title: "Besluit beperking openbaarheid van het archief van het Kabinet van de MinisterMinisterie van Landbouw, Natuur en Voedselkwaliteit 1901 – 1993 d.d. 20 februari 2024"
+citeertitel: "Besluit beperking openbaarheid archief Ministerie van Landbouw, Natuur en Voedselkwaliteit"
 identifier: "BWBR0049423"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-03-05"
-last_updated: "2024-03-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049423"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17041353"
-version_id: "29985952"
-internal_id: "C42992411"
-label_id: "16950874"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049423/2024-03-05/0"
-intitule_bron: "Stcrt.2024-6246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-20"
-intitule_published: "2024-03-04"
-intitule_in_force: "2024-03-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-6246"
-original_signed_date: "2024-02-20"
-original_published_date: "2024-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-6246"
-entry_into_force_date: "2024-03-05"
-jci_1_3: "jci1.3:c:BWBR0049423&z=2024-03-05&g=2024-03-05"
-jci_1_0: "1.0:c:BWBR0049423&g=2024-03-05"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Ministerie van Landbouw, Natuur en Voedselkwaliteit"
-signed_date: "2024-02-20"
-entry_into_force: "2024-03-05"
+publicatiedatum: 2024-03-05
+laatste_update: 2024-03-05
+status: geldig
+toestand: 2024-03-05
+bron: "https://wetten.overheid.nl/BWBR0049423"
+opgehaald: 2026-09-05
 ---
+
 # Besluit beperking openbaarheid van het archief van het Kabinet van de MinisterMinisterie van Landbouw, Natuur en Voedselkwaliteit 1901 – 1993 d.d. 20 februari 2024
-
-Gelet op [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gezien het advies van de algemene rijksarchivaris van 15 januari 2024 met het kenmerk 43488846
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer als bedoeld in [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), zijn de inventarisnummers genoemd in de eerste kolom beperkt openbaar per 1 januari van het jaar genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer als bedoeld in [artikel 15, eerste lid onder a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), zijn de inventarisnummers genoemd in de eerste kolom beperkt openbaar per 1 januari van het jaar genoemd in de tweede kolom.
 
 | Inventarisnummer | Openbaar per |
 | --- | --- |

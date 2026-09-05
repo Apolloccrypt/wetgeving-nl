@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2024, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan de provincies van Nederland ter ontzorging van kleine en micro mkb-ondernemingen bij de verduurzaming van het gebouw, bedrijfsproces of bedrijventerrein (Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen)"
+citeertitel: "Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen"
 identifier: "BWBR0049289"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-30"
-last_updated: "2024-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049289"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17014523"
-version_id: "29927752"
-internal_id: "C42895231"
-label_id: "16924634"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049289/2024-11-30/0"
-intitule_bron: "Stcrt.2024-1876"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-01-16"
-intitule_published: "2024-01-23"
-intitule_in_force: "2024-01-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-1876"
-original_signed_date: "2024-01-16"
-original_published_date: "2024-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-1876"
-entry_into_force_date: "2024-02-01"
-jci_1_3: "jci1.3:c:BWBR0049289&z=2024-11-30&g=2024-11-30"
-jci_1_0: "1.0:c:BWBR0049289&g=2024-11-30"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen"
-signed_date: "2024-01-16"
-entry_into_force: "2024-02-01"
+publicatiedatum: 2024-02-01
+laatste_update: 2024-11-30
+status: geldig
+toestand: 2024-11-30
+bron: "https://wetten.overheid.nl/BWBR0049289"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 januari 2024, houdende regels voor het verstrekken van een eenmalige specifieke uitkering aan de provincies van Nederland ter ontzorging van kleine en micro mkb-ondernemingen bij de verduurzaming van het gebouw, bedrijfsproces of bedrijventerrein (Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen)
-
-Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,17 +20,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **bedrijfsmatig vastgoed:** een bouwwerk als bedoeld in de bijlage bij de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarin door een mkb-onderneming bedrijfsmatige of beroepshalve activiteiten met een winstgevend karakter worden uitgevoerd;
+- – *bedrijfsmatig vastgoed:* een bouwwerk als bedoeld in de bijlage bij de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarin door een mkb-onderneming bedrijfsmatige of beroepshalve activiteiten met een winstgevend karakter worden uitgevoerd;
 
-- –. **bedrijventerrein:** cluster aaneengesloten percelen met overwegend bedrijfsbestemmingen, binnen een in een bestemmingsplan als bedrijventerrein aangewezen gebied;
+- – *bedrijventerrein:* cluster aaneengesloten percelen met overwegend bedrijfsbestemmingen, binnen een in een bestemmingsplan als bedrijventerrein aangewezen gebied;
 
-- –. **compensabele BTW:** de BTW die in aanmerking komt voor compensatie op grond van de [Wet op het BTW compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
+- – *compensabele BTW:* de BTW die in aanmerking komt voor compensatie op grond van de [Wet op het BTW compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
 
-- –. **kleine en micro mkb-onderneming:** kleine en micro ondernemingen als bedoeld in de bijlage bij de Aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003, L 124);
+- – *kleine en micro mkb-onderneming:* kleine en micro ondernemingen als bedoeld in de bijlage bij de Aanbeveling van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen (PbEU 2003, L 124);
 
-- –. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **organisatiegraad:** een samenwerking op een bedrijventerrein tussen eigenaren of huurders van bedrijfsmatig vastgoed, waarmee de continuïteit van onderhoud, beheer en verduurzaming van een bedrijventerrein wordt gewaarborgd.
+- – *organisatiegraad:* een samenwerking op een bedrijventerrein tussen eigenaren of huurders van bedrijfsmatig vastgoed, waarmee de continuïteit van onderhoud, beheer en verduurzaming van een bedrijventerrein wordt gewaarborgd.
 
 ### Hoofdstuk 2. Ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
 
@@ -86,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Hoogte en plafond
 
-1. De Minister kan in totaal ten hoogste € 32.644.420 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
+1. De Minister kan in totaal ten hoogste € 32.644.420 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
 2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=I&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
@@ -94,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanvraag
 
-1. Een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
+1. Een specifieke uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
 2. Een aanvraag bevat in ieder geval:
 
@@ -152,7 +126,7 @@ ieder geval:
 
 1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=2&artikel=2&z=2024-11-30&g=2024-11-30), is verplicht om:
 
-- a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
+- a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
 
 - b. de kosten voor levering van goederen of diensten door derden voor de uitvoering van de activiteiten waarvoor een specifieke uitkering is verstrekt marktconform te bepalen.
 
@@ -204,7 +178,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ##### Artikel 11. Hoogte en plafond
 
-1. De Minister kan in totaal ten hoogste € 22.220.000 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
+1. De Minister kan in totaal ten hoogste € 22.220.000 aan specifieke uitkeringen aan provincies verstrekken voor het doel, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
 2. Het totaal aan specifieke uitkeringen bedraagt ten hoogste het per provincie genoemde bedrag in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&bijlage=III&z=2024-11-30&g=2024-11-30), verminderd met het bedrag aan compensabele BTW.
 
@@ -212,7 +186,7 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ##### Artikel 12. Aanvraag
 
-1. Een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
+1. Een specifieke uitkering als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30) kan door de provincie worden aangevraagd van 15 februari 2024 vanaf 12.00 uur tot en met 15 maart 2024 tot 12.00 uur, dan wel zoveel eerder indien het plafond is bereikt.
 
 2. Een aanvraag bevat in ieder geval:
 
@@ -266,7 +240,7 @@ ieder geval:
 
 1. De ontvanger van de specifieke uitkering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049289&hoofdstuk=3&artikel=10&z=2024-11-30&g=2024-11-30), is verplicht om:
 
-- a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
+- a. de activiteiten waarvoor een specifieke uitkering is verstrekt geheel uit te voeren tussen 1 mei 2024 en 1 mei 2027; en
 
 - b. de kosten voor levering van goederen of diensten door derden voor de uitvoering van de activiteiten waarvoor een specifieke uitkering is verstrekt marktconform te bepalen.
 
@@ -294,69 +268,8 @@ De Minister verleent een voorschot van 100% van de specifieke uitkering, bedoeld
 
 ##### Artikel 18. Inwerkingtreding en vervaltermijn
 
-Deze regeling treedt in werking met ingang van 1 februari 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling voor laatstgenoemde datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van 1 februari 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling voor laatstgenoemde datum zijn verstrekt.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen en bedrijventerreinen.
-
-## Bijlage I. Hoogte totaal aan specifieke uitkeringen per provincie ten behoeve van het ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
-
-| Provincies | Aantal inwoners | Percentage | Oorspronkelijk bedrag | Oorspronkelijke doelstelling | Maximaal aanvullend bedrag per provincie (euro) | Beoogde aanvullende doelstelling met betrekking tot het aantal kleine en micro mkb-ondernemingen |
-| --- | --- | --- | --- | --- | --- | --- |
-| Zuid-Holland | 3.753.944 | 21,30% | € 4.035.553 | 1.041 | 1.761.400 | 383 |
-| Noord-Holland | 2.909.827 | 16,50% | € 3.274.273 | 832 | 1.387.000 | 297 |
-| Noord-Brabant | 2.592.874 | 14,70% | € 2.988.424 | 754 | 1.246.600 | 265 |
-| Gelderland | 2.110.472 | 12,00% | € 2.553.362 | 634 | 1.036.000 | 216 |
-| Utrecht | 1.369.873 | 7,80% | € 1.885.441 | 451 | 708.400 | 140 |
-| Overijssel | 1.171.910 | 6,70% | € 1.706.905 | 402 | 622.600 | 121 |
-| Limburg | 1.118.302 | 6,40% | € 1.658.558 | 389 | 599.200 | 115 |
-| Fryslân | 654.019 | 3,70% | € 1.239.837 | 274 | 388.600 | 67 |
-| Groningen | 590.170 | 3,40% | € 1.182.254 | 258 | 365.200 | 61 |
-| Drenthe | 497.743 | 2,80% | € 1.098.897 | 236 | 318.400 | 50 |
-| Zeeland | 386.767 | 2,20% | € 998.812 | 208 | 271.600 | 40 |
-| Flevoland | 434.771 | 2,50% | € 1.042.104 | 220 | 295.000 | 45 |
-| Totaal | 17.590.672 | 100,00% | € 23.664.420 | 5.700 | 9.000.000 | 1.800 |
-
-## Bijlage II. Beoordelingscriteria specifieke uitkering ten behoeve van het ontzorgingsprogramma verduurzaming kleine en micro mkb-ondernemingen
-
-| Criterium | Maximaal aantal punten |
-| --- | --- |
-| **Uitwerking van de aanpak om te komen tot een ondersteuningsaanbod voor kleine en micro mkb-ondernemingen** | 25 |
-| **Het beoogde bereik van de doelgroep(en)** | 10 |
-| **De uitvoerbaarheid van de activiteiten binnen de gestelde looptijd** | 25 |
-| **De mate waarin de activiteiten zijn ingebed in het beleid van de provincie en aansluiten bij regionale netwerken en structuren** | 15 |
-| **De omschrijving van de deling en de borging van opgedane kennis en ervaring binnen de provincie, buiten de provincie via het landelijke programma, met gemeenten en brancheorganisaties** | 15 |
-| **De mate waarin de provincie stimuleert dat de kleine en micro mkb-onderneming een eigen bijdrage betaalt ten behoeve van het ontzorgingsprogramma** | 10 |
-| **Totaal** | 100 |
-
-## Bijlage III. Hoogte totaal aan specifieke uitkeringen per provincie ten behoeve van het ontzorgingsprogramma verduurzaming bedrijventerreinen
-
-| Provincies | Aantal bedrijventerreinen | Percentage | Maximaal bedrag per provincie (euro) | Beoogde doelstelling met betrekking tot het aantal bedrijven-terreinen |
-| --- | --- | --- | --- | --- |
-| **Noord-Brabant** | 619 | 16% | 3.386.448 | 104 |
-| **Zuid-Holland** | 618 | 15,9% | 3.381.276 | 103 |
-| **Gelderland** | 481 | 12,4% | 2.672.716 | 81 |
-| **Overijssel** | 356 | 9,2% | 2.026.221 | 60 |
-| **Limburg** | 353 | 9,1% | 2.010.705 | 59 |
-| **Noord-Holland** | 346 | 8,9% | 1.974.501 | 58 |
-| **Fryslân** | 275 | 7,1% | 1.607.291 | 46 |
-| **Zeeland** | 217 | 5,6% | 1.307.317 | 37 |
-| **Groningen** | 200 | 5,2% | 1.219.394 | 34 |
-| **Utrecht** | 161 | 4,2% | 1.017.687 | 27 |
-| **Drenthe** | 131 | 3,4% | 862.528 | 22 |
-| **Flevoland** | 110 | 2,8% | 753.916 | 19 |
-| **Totaal** | 3.867 | 100% | 22.220.000 | 650 |
-
-## Bijlage IV. Beoordelingscriteria specifieke uitkering ten behoeve van het ontzorgingsprogramma verduurzaming bedrijventerreinen
-
-| Criterium | Maximaal aantal punten |
-| --- | --- |
-| **Uitwerking van de aanpak om te komen tot het opzetten of verbeteren van de organisatiegraad op een bedrijventerrein ten behoeve van de verduurzaming ervan** | 30 |
-| **Het beoogde bereik van de doelgroep(en)** | 10 |
-| **De uitvoerbaarheid van de activiteiten binnen de gestelde looptijd** | 25 |
-| **De mate waarin de activiteiten zijn ingebed in het beleid van de provincie en aansluiten bij regionale netwerken en structuren, inclusief de behoefte van ondernemers** | 20 |
-| **De omschrijving van deling en de borging van opgedane kennis en ervaring binnen en buiten de provincie, waaronder in elk geval via het landelijke programma Verduurzaming Bedrijventerreinen** | 15 |
-| **Totaal** | 100 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

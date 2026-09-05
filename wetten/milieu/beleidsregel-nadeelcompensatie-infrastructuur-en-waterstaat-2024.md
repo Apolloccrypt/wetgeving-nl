@@ -1,44 +1,18 @@
 ---
 title: "Besluit van 7 december 2023, IENW/BSK-2023/355923 tot vaststelling van de Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024 (Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024)"
+citeertitel: "Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024"
 identifier: "BWBR0049076"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049076"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "16962113"
-version_id: "29816572"
-internal_id: "C42732741"
-label_id: "16872674"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049076/2024-01-01/0"
-intitule_bron: "Stcrt.2023-33094"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-07"
-intitule_published: "2023-12-08"
-intitule_in_force: "2023-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-33094"
-original_signed_date: "2023-12-07"
-original_published_date: "2023-12-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-33094"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049076&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBR0049076&g=2024-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024"
-signed_date: "2023-12-07"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBR0049076"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van 7 december 2023, IENW/BSK-2023/355923 tot vaststelling van de Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024 (Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024)
-
-Gelet op de [artikelen 4:126](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,9 +20,10 @@ Besluit:
 
 1. In deze beleidsregel wordt verstaan onder:
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **wet:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- *wet:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 2. Deze beleidsregel heeft betrekking op een aanvraag als bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) om vergoeding van schade waarvan de aanvrager stelt dat die is veroorzaakt door de Minister.
 
@@ -76,13 +51,13 @@ Besluit:
 
 1. Onder het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) valt in ieder geval:
 
-- a. schade van maximaal € 500,– voor een particulier;
+- a. schade van maximaal € 500,– voor een particulier;
 
 - b. schade ten gevolge van een omzetdaling van maximaal 2% van de normomzet van een onderneming; dan wel
 
 - c. schade ten gevolge van een kostenstijging van maximaal 2% van de normkosten van een onderneming.
 
-2. De vaststelling van het normaal maatschappelijk risico geschiedt voor de daarbij aangewezen maatregelen aan de hand van hetgeen daarover in de bijlage bij deze beleidsregel is bepaald.
+2. De vaststelling van het normaal maatschappelijk risico geschiedt voor de daarbij aangewezen maatregelen aan de hand van hetgeen daarover in de [bijlage](https://wetten.overheid.nl/BWBR0049076) bij deze beleidsregel is bepaald.
 
 ##### Artikel 5. De adviescommissie
 
@@ -108,7 +83,7 @@ Besluit:
 
 - c. die naar het oordeel van de Minister steunt op de onrechtmatige uitoefening door of namens de Minister van een aan het publiekrecht ontleende bevoegdheid of taak;
 
-- d. de schadevergoeding voor een particulier kennelijk minder bedraagt dan € 500,–;
+- d. de schadevergoeding voor een particulier kennelijk minder bedraagt dan € 500,–;
 
 - e. de aanvraag naar het oordeel van het bestuursorgaan voldoende gelijkenis vertoont met andere aanvragen waarvoor al advies is uitgebracht; of
 
@@ -172,88 +147,8 @@ De [Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2019](https://we
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2024.
+Dit besluit treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel nadeelcompensatie Infrastructuur en Waterstaat 2024.
-
-## Bijlage. als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049076&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), van de beleidsregel
-
-### Normaal maatschappelijk risico voor ondernemingen bij tijdelijke infrastructurele maatregelen
-
-##### Artikel 1. Begripsomschrijvingen
-
-In deze bijlage wordt verstaan onder:
-
-- **infrastructurele maatregel:** maatregel die verband houdt met de aanleg, de wijziging, het beheer en het onderhoud van waterstaatswerken, autowegen, autosnelwegen en vaarwegen in beheer bij het Rijk of de aanleg en wijziging van hoofdspoorwegen. Met inbegrip van de daarin gelegen kunstwerken en wat verder naar zijn aard daartoe behoort;
-
-- **normale infrastructurele maatregel:** infrastructurele maatregel die als een normale maatschappelijke ontwikkeling kan worden gezien;
-
-- **normbrutowinstmarge:** omzet minus de inkoopwaarde van de afzet op jaarbasis, uitgedrukt in een percentage van de omzet, dat naar redelijke verwachting behaald zou zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden;
-
-- **normkosten:** kosten op jaarbasis die naar redelijke verwachting gemaakt zouden zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden;
-
-- **normomzet:** omzet op jaarbasis die naar redelijke verwachting behaald zou zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden.
-
-##### Artikel 2. Normaal maatschappelijk risico voor ondernemingen
-
-Bij schade door infrastructurele maatregelen valt in ieder geval onder het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126):
-
-- a. schade ten gevolge van een omzetdaling van maximaal 2% van de normomzet van een onderneming; dan wel
-
-- b. schade ten gevolge van een kostenstijging van maximaal 2% van de normkosten van een onderneming.
-
-##### Artikel 3. Normaal maatschappelijk risico en tijdelijke omzetdaling door normale infrastructurele maatregelen
-
-- 1. Schade ten gevolge van een normale infrastructurele maatregel valt in ieder geval binnen het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126), indien de schade het gevolg is van een tijdelijke omzetdaling die niet uitgaat boven de omzetdrempel, bedoeld in het tweede lid.
-
-- 2. De omzetdrempel is het bedrag van de normomzet vermenigvuldigd met het drempelpercentage omzetdaling. Het drempelpercentage omzetdaling bedraagt al naar gelang de hoogte van de normbrutowinstmarge van de onderneming van de aanvrager als volgt:
-
-| Normbrutowinstmarge | Drempelpercentage omzetdaling |
-| --- | --- |
-| 0-36% | 13% |
-| 36-65% | 11% |
-| 65-100% | 8% |
-
-- 3. Indien de omzetdaling de omzetdrempel, bedoeld in het tweede lid, overstijgt, wordt een forfait vastgesteld dat uitdrukking geeft aan het schadebedrag dat binnen het normaal maatschappelijk risico valt volgens de formule: forfait = (normomzet x normbrutowinstmarge) x n, waarin ‘n’ al naar gelang de hoogte van de normbrutowinstmarge van de onderneming van de aanvrager als volgt bedraagt:
-
-| Normbrutowinstmarge | ‘n’ |
-| --- | --- |
-| 0-36% | 13% |
-| 36-65% | 11% |
-| 65-100% | 8% |
-
-##### Artikel 4. Normaal maatschappelijk risico en tijdelijke kostenverhoging door normale infrastructurele maatregelen
-
-- 1. Schade ten gevolge van een normale infrastructurele maatregel valt in ieder geval binnen het normaal maatschappelijk risico, bedoeld in [artikel 4:126, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126), indien de schade het gevolg is van een tijdelijke kostenverhoging die niet uitgaat boven de kostendrempel, bedoeld in het tweede lid.
-
-- 2. De kostendrempel is het bedrag van de normkosten vermenigvuldigd met het drempelpercentage kostenverhoging. Het drempelpercentage kostenverhoging bedraagt al naar gelang de hoogte van de normbrutowinstmarge van de onderneming van de aanvrager als volgt:
-
-| Normbrutowinstmarge | Drempelpercentage kostenverhoging |
-| --- | --- |
-| 0-36% | 4% |
-| 36-65% | 6% |
-| 65-100% | 8% |
-
-- 3. Indien de kostenverhoging de kostendrempel, bedoeld in het tweede lid, overstijgt, wordt een forfait vastgesteld dat uitdrukking geeft aan het schadebedrag dat binnen het normaal maatschappelijk risico valt volgens de formule: forfait = (normomzet x normbrutowinstmarge) x n, waarin ‘n’ al naar gelang de hoogte van de normbrutowinstmarge van de onderneming van de aanvrager als volgt bedraagt:
-
-| Normbrutowinstmarge | ‘n’ |
-| --- | --- |
-| 0-36% | 13% |
-| 36-65% | 11% |
-| 65-100% | 8% |
-
-- 4. In afwijking van artikel 1 wordt voor de toepassing van dit artikel onder normbrutowinstmarge verstaan: de omzet minus de som van de inkoopwaarde van de afzet plus de overige variabele kosten op jaarbasis, uitgedrukt in een percentage van de omzet, dat naar redelijke verwachting behaald zou zijn, als de schadeveroorzakende gebeurtenis niet had plaatsgevonden.
-
-##### Artikel 5. Normaal maatschappelijk risico en tijdelijke omzetdaling of tijdelijke kostenverhoging door niet-normale infrastructurele maatregelen
-
-Als de schade bedoeld in [artikel 4:126 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:126) ten gevolge van een niet-normale infrastructurele maatregel het bedrag, bedoeld in artikel 2, onderdelen a en b, overstijgt, kan door de Minister ter bepaling van het normaal maatschappelijk risico een kortingspercentage worden gehanteerd ten aanzien van het deel van de schade dat dat bedrag overstijgt.
-
-##### Artikel 6. Langdurige tijdelijke schade
-
-- 1. Als sprake is van langdurige schade als gevolg van een tijdelijke infrastructurele maatregel worden met ingang van het derde jaar waarin de schade wordt geleden door de Minister een lager drempelpercentage en een lager percentage ‘n’ dan genoemd in de artikelen 3 en 4 gehanteerd.
-
-- 2. Voor niet-normale infrastructurele maatregelen wordt met ingang van het derde jaar waarin schade wordt geleden door de Minister een lager percentage dan genoemd in artikel 2, onderdelen a en b, gehanteerd.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

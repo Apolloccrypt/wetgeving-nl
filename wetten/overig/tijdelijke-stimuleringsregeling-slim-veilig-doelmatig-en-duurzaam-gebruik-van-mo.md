@@ -1,62 +1,36 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 16 november 2023, nr. IENW/BSK-2023/60021, houdende regels voor toekenning van specifieke uitkeringen in verband met specifieke afspraken voor slim, veilig, doelmatig en duurzaam gebruik van infrastructuur (Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027)"
+citeertitel: "Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027"
 identifier: "BWBR0048944"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-25"
-last_updated: "2023-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048944"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "16931913"
-version_id: "29758552"
-internal_id: "C42649781"
-label_id: "16843454"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048944/2023-11-25/0"
-intitule_bron: "Stcrt.2023-30954"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-16"
-intitule_published: "2023-11-24"
-intitule_in_force: "2023-11-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30954"
-original_signed_date: "2023-11-16"
-original_published_date: "2023-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30954"
-entry_into_force_date: "2023-11-25"
-jci_1_3: "jci1.3:c:BWBR0048944&z=2023-11-25&g=2023-11-25"
-jci_1_0: "1.0:c:BWBR0048944&g=2023-11-25"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027"
-signed_date: "2023-11-16"
-entry_into_force: "2023-11-25"
+publicatiedatum: 2023-11-25
+laatste_update: 2023-11-25
+status: geldig
+toestand: 2023-11-25
+bron: "https://wetten.overheid.nl/BWBR0048944"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 16 november 2023, nr. IENW/BSK-2023/60021, houdende regels voor toekenning van specifieke uitkeringen in verband met specifieke afspraken voor slim, veilig, doelmatig en duurzaam gebruik van infrastructuur (Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027)
-
-Gelet op [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), juncto [artikel 3, eerste lid, aanhef en onderdelen a, b, d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5, aanhef en onderdelen a tot en met f, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **afsprakenlijst:** lijst van afspraken, gemaakt in een Bestuurlijk Overleg, dat heeft plaatsgevonden in de jaren 2022 tot en met 2027 over de financiering van maatregelen of maatregelenpakketten met betrekking tot activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25), die door de Minister is aangeboden aan de Tweede Kamer;
+- *afsprakenlijst:* lijst van afspraken, gemaakt in een Bestuurlijk Overleg, dat heeft plaatsgevonden in de jaren 2022 tot en met 2027 over de financiering van maatregelen of maatregelenpakketten met betrekking tot activiteiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25), die door de Minister is aangeboden aan de Tweede Kamer;
 
-- **Bestuurlijk Overleg:** Bestuurlijk Overleg MIRT of Bestuurlijk Overleg Leefomgeving;
+- *Bestuurlijk Overleg:* Bestuurlijk Overleg MIRT of Bestuurlijk Overleg Leefomgeving;
 
-- **Bestuurlijk Overleg MIRT:** Bestuurlijk Overleg MIRT Noord-Nederland, Bestuurlijk Overleg MIRT Oost-Nederland, Bestuurlijk Overleg MIRT Zuid-Nederland, Bestuurlijk Overleg MIRT Zuidwest-Nederland, Bestuurlijk Overleg MIRT Noordwest-Nederland of Bestuurlijk Overleg goederenvervoercorridors;
+- *Bestuurlijk Overleg MIRT:* Bestuurlijk Overleg MIRT Noord-Nederland, Bestuurlijk Overleg MIRT Oost-Nederland, Bestuurlijk Overleg MIRT Zuid-Nederland, Bestuurlijk Overleg MIRT Zuidwest-Nederland, Bestuurlijk Overleg MIRT Noordwest-Nederland of Bestuurlijk Overleg goederenvervoercorridors;
 
-- **Bestuurlijk overleg Leefomgeving:** Bestuurlijk Overleg Leefomgeving Noord-Nederland, Bestuurlijk Overleg Leefomgeving Oost-Nederland, Bestuurlijk Overleg Leefomgeving Zuid-Nederland, Bestuurlijk Overleg Leefomgeving Zuidwest-Nederland of Bestuurlijk Overleg Leefomgeving Noordwest-Nederland;
+- *Bestuurlijk overleg Leefomgeving:* Bestuurlijk Overleg Leefomgeving Noord-Nederland, Bestuurlijk Overleg Leefomgeving Oost-Nederland, Bestuurlijk Overleg Leefomgeving Zuid-Nederland, Bestuurlijk Overleg Leefomgeving Zuidwest-Nederland of Bestuurlijk Overleg Leefomgeving Noordwest-Nederland;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **MIRT:** Meerjarenprogramma Infrastructuur, Ruimte en Transport;
+- *MIRT:* Meerjarenprogramma Infrastructuur, Ruimte en Transport;
 
-- **specifieke uitkering:** uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25).
+- *specifieke uitkering:* uitkering als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=3&z=2023-11-25&g=2023-11-25).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -126,7 +100,7 @@ Voor een specifieke uitkering komen niet in aanmerking:
 
 2. De verdeling van de beschikbare middelen in een kalenderjaar vindt plaats overeenkomstig de afspraken die hierover zijn gemaakt in het kader van een Bestuurlijk Overleg.
 
-3. In afwijking van het eerste lid stelt de minister een uitkeringsplafond vast voor de periode vanaf inwerkingtreding van deze regeling tot en met 31 december 2024.
+3. In afwijking van het eerste lid stelt de minister een uitkeringsplafond vast voor de periode vanaf inwerkingtreding van deze regeling tot en met 31 december 2024.
 
 ##### Artikel 7. Hoogte specifieke uitkering
 
@@ -144,9 +118,9 @@ Specifieke uitkeringen die worden verleend ten laste van een begroting die nog n
 
 2. Een aanvraag om een specifieke uitkering wordt uiterlijk ingediend:
 
-- a. voor 1 april van het jaar volgend op het jaar waarin de afsprakenlijst van het Bestuurlijk Overleg MIRT die betrekking heeft op de activiteiten waarop de aanvraag betrekking heeft, aan de Tweede Kamer is aangeboden; of
+- a. voor 1 april van het jaar volgend op het jaar waarin de afsprakenlijst van het Bestuurlijk Overleg MIRT die betrekking heeft op de activiteiten waarop de aanvraag betrekking heeft, aan de Tweede Kamer is aangeboden; of
 
-- b. voor 1 oktober van het jaar waarin de afsprakenlijst van het Bestuurlijk Overleg Leefomgeving die betrekking heeft op de activiteiten waarop de aanvraag betrekking heeft, aan de Tweede Kamer is aangeboden.
+- b. voor 1 oktober van het jaar waarin de afsprakenlijst van het Bestuurlijk Overleg Leefomgeving die betrekking heeft op de activiteiten waarop de aanvraag betrekking heeft, aan de Tweede Kamer is aangeboden.
 
 3. Een aanvraag gaat in ieder geval vergezeld van:
 
@@ -222,7 +196,7 @@ Verantwoording over de besteding van een specifieke uitkering vindt plaats op de
 
 ##### Artikel 15. Vaststelling specifieke uitkering
 
-De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd, de laatste verantwoording, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=14&z=2023-11-25&g=2023-11-25), heeft plaatsgevonden en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=13&z=2023-11-25&g=2023-11-25).
+De minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de activiteiten waarvoor de uitkering is verleend, volledig zijn uitgevoerd, de laatste verantwoording, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=14&z=2023-11-25&g=2023-11-25), heeft plaatsgevonden en volledig is voldaan aan de verplichtingen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048944&artikel=13&z=2023-11-25&g=2023-11-25).
 
 ##### Artikel 16. Terugvordering
 
@@ -230,13 +204,13 @@ De minister kan onverschuldigd betaalde uitkeringsbedragen of voorschotten terug
 
 ##### Artikel 17. Evaluatie
 
-De minister publiceert voor 31 december 2028 een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk.
+De minister publiceert voor 31 december 2028 een verslag over de doeltreffendheid en de effecten van de specifieke uitkering in de praktijk.
 
 ##### Artikel 18. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 oktober 2028, met dien verstande dat zij van toepassing blijft op:
+2. Deze regeling vervalt met ingang van 1 oktober 2028, met dien verstande dat zij van toepassing blijft op:
 
 - a. specifieke uitkeringen die voor die datum zijn verleend;
 
@@ -245,5 +219,3 @@ De minister publiceert voor 31 december 2028 een verslag over de doeltreffendhei
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke stimuleringsregeling slim, veilig, doelmatig en duurzaam gebruik van mobiliteitsinfrastructuur 2023–2027.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

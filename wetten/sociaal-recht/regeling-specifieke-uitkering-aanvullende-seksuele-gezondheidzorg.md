@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister voor Medische Zorg van 11 maart 2024, kenmerk 3778259-1062120-PG, houdende het verstrekken van een specifieke uitkering ten behoeve van aanvullende seksuele gezondheidszorg (Regeling specifieke uitkering aanvullende seksuele gezondheidszorg)"
+citeertitel: "Regeling specifieke uitkering aanvullende seksuele gezondheidzorg"
 identifier: "BWBR0049474"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-23"
-last_updated: "2025-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049474"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "17052053"
-version_id: "30003342"
-internal_id: "C43012021"
-label_id: "16961684"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049474/2025-12-23/0"
-intitule_bron: "Stcrt.2024-8166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-11"
-intitule_published: "2024-03-19"
-intitule_in_force: "2024-03-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8166"
-original_signed_date: "2024-03-11"
-original_published_date: "2024-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8166"
-entry_into_force_date: "2024-03-20"
-jci_1_3: "jci1.3:c:BWBR0049474&z=2025-12-23&g=2025-12-23"
-jci_1_0: "1.0:c:BWBR0049474&g=2025-12-23"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering aanvullende seksuele gezondheidzorg"
-signed_date: "2024-03-11"
-entry_into_force: "2024-03-20"
+publicatiedatum: 2024-03-20
+laatste_update: 2025-12-23
+status: geldig
+toestand: 2025-12-23
+bron: "https://wetten.overheid.nl/BWBR0049474"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister voor Medische Zorg van 11 maart 2024, kenmerk 3778259-1062120-PG, houdende het verstrekken van een specifieke uitkering ten behoeve van aanvullende seksuele gezondheidszorg (Regeling specifieke uitkering aanvullende seksuele gezondheidszorg)
-
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,59 +20,59 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvullende seksuele gezondheidszorg:** soa-zorg, seksualiteitshulpverlening en PrEP-zorg;
+- *aanvullende seksuele gezondheidszorg:* soa-zorg, seksualiteitshulpverlening en PrEP-zorg;
 
-- **collectieve preventie:** taken van het college van burgemeester en wethouders op het gebied van preventie als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
+- *collectieve preventie:* taken van het college van burgemeester en wethouders op het gebied van preventie als bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
-- **coördinatie:** het ten behoeve van de regio van de desbetreffende coördinerende GGD op planmatige wijze inrichten van het aanbod van aanvullende seksuele gezondheidszorg en waarborgen dat de aanvullende seksuele gezondheidszorg voldoet aan de voorwaarden en verplichtingen volgend uit deze regeling;
+- *coördinatie:* het ten behoeve van de regio van de desbetreffende coördinerende GGD op planmatige wijze inrichten van het aanbod van aanvullende seksuele gezondheidszorg en waarborgen dat de aanvullende seksuele gezondheidszorg voldoet aan de voorwaarden en verplichtingen volgend uit deze regeling;
 
-- **coördinerende GGD:** instelling die in stand houdt of de instellingen die in stand houden:
+- *coördinerende GGD:* instelling die in stand houdt of de instellingen die in stand houden:
 
-- a. de GGD van de gemeente Amsterdam, werkzaam binnen de regio die bestaat uit de provincies Noord-Holland en Flevoland;
+   - a. de GGD van de gemeente Amsterdam, werkzaam binnen de regio die bestaat uit de provincies Noord-Holland en Flevoland;
 
-- b. de GGD Gelderland-Zuid, werkzaam binnen de regio die bestaat uit de provincies Overijssel en Gelderland;
+   - b. de GGD Gelderland-Zuid, werkzaam binnen de regio die bestaat uit de provincies Overijssel en Gelderland;
 
-- c. de GGD Groningen, werkzaam binnen de regio die bestaat uit de provincies Friesland, Drenthe en Groningen;
+   - c. de GGD Groningen, werkzaam binnen de regio die bestaat uit de provincies Friesland, Drenthe en Groningen;
 
-- d. de afdeling GGD van de Dienst OCW van de gemeente Den Haag, werkzaam binnen de regio die bestaat uit het deel van de provincie Zuid-Holland, bestaande uit de gemeenten Delft, Den Haag, Leidschendam/Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland en Zoetermeer;
+   - d. de afdeling GGD van de Dienst OCW van de gemeente Den Haag, werkzaam binnen de regio die bestaat uit het deel van de provincie Zuid-Holland, bestaande uit de gemeenten Delft, Den Haag, Leidschendam/Voorburg, Midden-Delfland, Pijnacker-Nootdorp, Rijswijk, Wassenaar, Westland en Zoetermeer;
 
-- e. de GGD Rotterdam-Rijnmond, werkzaam binnen de regio die bestaat uit het overige deel van de provincie Zuid-Holland, bestaande uit de gemeenten die geen deel uitmaken van het deel van de provincie Zuid-Holland genoemd onder onderdeel d;
+   - e. de GGD Rotterdam-Rijnmond, werkzaam binnen de regio die bestaat uit het overige deel van de provincie Zuid-Holland, bestaande uit de gemeenten die geen deel uitmaken van het deel van de provincie Zuid-Holland genoemd onder onderdeel d;
 
-- f. de GGD van het openbaar lichaam Hart voor Brabant, werkzaam binnen de regio die bestaat uit de provincies Zeeland en Noord-Brabant;
+   - f. de GGD van het openbaar lichaam Hart voor Brabant, werkzaam binnen de regio die bestaat uit de provincies Zeeland en Noord-Brabant;
 
-- g. de GGD Zuid-Limburg, werkzaam binnen de regio die bestaat uit de provincie Limburg;
+   - g. de GGD Zuid-Limburg, werkzaam binnen de regio die bestaat uit de provincie Limburg;
 
-- h. de GGD Regio Utrecht, werkzaam binnen de regio die bestaat uit de provincie Utrecht;
+   - h. de GGD Regio Utrecht, werkzaam binnen de regio die bestaat uit de provincie Utrecht;
 
-- **curatieve gezondheidszorg:** zorg die wordt bekostigd op grond van een zorgverzekering als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- *curatieve gezondheidszorg:* zorg die wordt bekostigd op grond van een zorgverzekering als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **exploitatieresultaat:** de som van de gerealiseerde bijdragen van derden, de in het besluit tot verlening vermelde begrote eigen bijdrage of de gerealiseerde eigen bijdrage als deze hoger is dan de begrote eigen bijdrage en de verleende uitkering verminderd met de gerealiseerde kosten;
+- *exploitatieresultaat:* de som van de gerealiseerde bijdragen van derden, de in het besluit tot verlening vermelde begrote eigen bijdrage of de gerealiseerde eigen bijdrage als deze hoger is dan de begrote eigen bijdrage en de verleende uitkering verminderd met de gerealiseerde kosten;
 
-- **GGD:** gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
+- *GGD:* gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14);
 
-- **minister:** de Minister voor Medische Zorg;
+- *minister:* de Minister voor Medische Zorg;
 
-- **PrEP:** Pre Expositie Profylaxe, een medicijn ter preventieve behandeling van hiv;
+- *PrEP:* Pre Expositie Profylaxe, een medicijn ter preventieve behandeling van hiv;
 
-- **PrEP-zorg:** counseling bij PrEP-gebruik;
+- *PrEP-zorg:* counseling bij PrEP-gebruik;
 
-- **regiobrede meerjarenvisie:** een omschrijving die betrekking heeft op de regio waarvoor een coördinerende GGD verantwoordelijk is van de visie en doelen, alsmede het benoemen en motiveren van activiteiten, in relatie tot de aanvullende werking op de curatieve gezonheidszorg en collectieve preventie;
+- *regiobrede meerjarenvisie:* een omschrijving die betrekking heeft op de regio waarvoor een coördinerende GGD verantwoordelijk is van de visie en doelen, alsmede het benoemen en motiveren van activiteiten, in relatie tot de aanvullende werking op de curatieve gezonheidszorg en collectieve preventie;
 
-- **RIVM:** Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport genoemd in [artikel 2 van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=2);
+- *RIVM:* Rijksinstituut voor Volksgezondheid en Milieu van het Ministerie van Volksgezondheid, Welzijn en Sport genoemd in [artikel 2 van de Wet op het RIVM](https://wetten.overheid.nl/jci1.3:c:BWBR0008289&artikel=2);
 
-- **seksualiteitshulpverlening:** in aanvulling op de curatieve gezondheidszorg en collectieve preventie, verlenen of doen verlenen van hulpverlening met betrekking tot de seksuele gezondheid;
+- *seksualiteitshulpverlening:* in aanvulling op de curatieve gezondheidszorg en collectieve preventie, verlenen of doen verlenen van hulpverlening met betrekking tot de seksuele gezondheid;
 
-- **soa:** een of meer van de volgende seksueel overdraagbare infecties:
+- *soa:* een of meer van de volgende seksueel overdraagbare infecties:
 
-- a. chlamydia, gonorroe, syfilis, hiv;
+   - a. chlamydia, gonorroe, syfilis, hiv;
 
-- b. voor zover dit geïndiceerd is hepatitis B, hepatitis C, trichomonas of herpes genitalis;
+   - b. voor zover dit geïndiceerd is hepatitis B, hepatitis C, trichomonas of herpes genitalis;
 
-- **soa-zorg:** in aanvulling op de curatieve gezondheidszorg en collectieve preventie, verlenen of doen verlenen van zorg met betrekking tot soa;
+- *soa-zorg:* in aanvulling op de curatieve gezondheidszorg en collectieve preventie, verlenen of doen verlenen van zorg met betrekking tot soa;
 
-- **uitkering:** specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
+- *uitkering:* specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a).
 
-##### Artikel 1.2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepasselijkheid Awb en Kaderregeling subsidies OCW, SZW en VWS
 
 1. Op uitkeringen verstrekt op grond van deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37 tot en met 4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56), [4:57](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) en [4:72, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72) van overeenkomstige toepassing.
 
@@ -110,17 +84,17 @@ De minister kan per kalenderjaar op aanvraag een uitkering verstrekken aan een c
 
 ##### Artikel 1.4. Dienst van algemeen economisch belang
 
-Vervallen
+*Vervallen*
 
 ### Hoofdstuk 2. Verlening
 
 ##### Artikel 2.1. Aanvraag tot verlening
 
-1. De aanvraag tot verlening van een uitkering kan jaarlijks tot uiterlijk 13 weken voor de aanvang van het jaar waar de uitkering betrekking op heeft door de coördinerende GGD worden ingediend tot en met 30 september 2033.
+1. De aanvraag tot verlening van een uitkering kan jaarlijks tot uiterlijk 13 weken voor de aanvang van het jaar waar de uitkering betrekking op heeft door de coördinerende GGD worden ingediend tot en met 30 september 2033.
 
 2. De minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
-3. In afwijking van het eerste en tweede lid wordt een aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), voor de periode van 1 augustus 2024 tot en met 31 december 2024 op uiterlijk 1 mei 2024 ingediend.
+3. In afwijking van het eerste en tweede lid wordt een aanvraag tot verlening van een uitkering voor de activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), voor de periode van 1 augustus 2024 tot en met 31 december 2024 op uiterlijk 1 mei 2024 ingediend.
 
 4. De coördinerende GGD consulteert de GGD’en in diens regio over de aanvraag.
 
@@ -142,7 +116,7 @@ Vervallen
 
 ### Hoofdstuk 3. Soa-zorg en seksualiteitshulpverlening
 
-##### Artikel 3.1. Nadere invulling activiteiten [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&z=2025-12-23&g=2025-12-23)
+##### Artikel 3.1. Nadere invulling activiteiten hoofdstuk 3
 
 1. Activiteiten in het kader van seksualiteitshulpverlening, zijn:
 
@@ -174,75 +148,75 @@ Vervallen
 
 1. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), met uitzondering van activiteiten bedoeld in artikel 3.1, tweede lid, onder c, in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2024 ten hoogste:
 
-- a. € 15.325.628,– voor de GGD van de gemeente Amsterdam;
+- a. € 15.325.628,– voor de GGD van de gemeente Amsterdam;
 
-- b. € 5.970.037,– voor de GGD Regio Gelderland Zuid;
+- b. € 5.970.037,– voor de GGD Regio Gelderland Zuid;
 
-- c. € 2.431.367,– voor de GGD Groningen;
+- c. € 2.431.367,– voor de GGD Groningen;
 
-- d. € 3.873.168,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 3.873.168,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 5.317.241,– voor de GGD Rotterdam-Rijnmond;
+- e. € 5.317.241,– voor de GGD Rotterdam-Rijnmond;
 
-- f. € 4.966.233,– voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 4.966.233,– voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 2.683.808,– voor de GGD Zuid-Limburg;
+- g. € 2.683.808,– voor de GGD Zuid-Limburg;
 
-- h. € 1.903.453,– voor de GGD Regio Utrecht.
+- h. € 1.903.453,– voor de GGD Regio Utrecht.
 
-2. De uitkering voor activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
+2. De uitkering voor activiteiten, bedoeld in [artikel 3.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
 
-- a. € 727.199,– voor de GGD van de gemeente Amsterdam;
+- a. € 727.199,– voor de GGD van de gemeente Amsterdam;
 
-- b. € 244.466,– voor de GGD Regio Gelderland Zuid;
+- b. € 244.466,– voor de GGD Regio Gelderland Zuid;
 
-- c. € 104.064,– voor de GGD Groningen;
+- c. € 104.064,– voor de GGD Groningen;
 
-- d. € 164.496,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 164.496,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 281.332,– voor de GGD Rotterdam-Rijnmond;
+- e. € 281.332,– voor de GGD Rotterdam-Rijnmond;
 
-- f. € 230.972,– voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 230.972,– voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 118.849,– voor de GGD Zuid-Limburg;
+- g. € 118.849,– voor de GGD Zuid-Limburg;
 
-- h. € 143.022,– voor de GGD Regio Utrecht.
+- h. € 143.022,– voor de GGD Regio Utrecht.
 
 3. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
 
-- a. € 17.778.322,– voor de GGD van de gemeente Amsterdam;
+- a. € 17.778.322,– voor de GGD van de gemeente Amsterdam;
 
-- b. € 6.828.466,– voor de GGD Regio Gelderland Zuid;
+- b. € 6.828.466,– voor de GGD Regio Gelderland Zuid;
 
-- c. € 2.792.228,– voor de GGD Groningen;
+- c. € 2.792.228,– voor de GGD Groningen;
 
-- d. € 4.444.823,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 4.444.823,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 6.240.765,– voor de GGD Rotterdam-Rijnmond;
+- e. € 6.240.765,– voor de GGD Rotterdam-Rijnmond;
 
-- f. € 5.749.337,– voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 5.749.337,– voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 3.092.084,– voor de GGD Zuid-Limburg;
+- g. € 3.092.084,– voor de GGD Zuid-Limburg;
 
-- h. € 2.339.811,– voor de GGD Regio Utrecht.
+- h. € 2.339.811,– voor de GGD Regio Utrecht.
 
 4. De uitkering voor activiteiten, bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=3&artikel=3.1&z=2025-12-23&g=2025-12-23), in het kader van soa-zorg, seksualiteitshulpverlening en de coördinatie daarvan bedraagt voor het kalenderjaar 2026 ten hoogste:
 
-- a. € 17.067.189,12 voor de GGD van de gemeente Amsterdam;
+- a. € 17.067.189,12 voor de GGD van de gemeente Amsterdam;
 
-- b. € 6.555.327,36 voor de GGD Regio Gelderland Zuid;
+- b. € 6.555.327,36 voor de GGD Regio Gelderland Zuid;
 
-- c. € 2.680.538,88 voor de GGD Groningen;
+- c. € 2.680.538,88 voor de GGD Groningen;
 
-- d. € 4.267.030,08 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 4.267.030,08 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 5.991.134,40 voor de GGD Rotterdam-Rijnmond;
+- e. € 5.991.134,40 voor de GGD Rotterdam-Rijnmond;
 
-- f. € 5.519.363,52 voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 5.519.363,52 voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 2.968.400,64 voor de GGD Zuid-Limburg;
+- g. € 2.968.400,64 voor de GGD Zuid-Limburg;
 
-- h. € 2.246.218,56 voor de GGD Regio Utrecht.
+- h. € 2.246.218,56 voor de GGD Regio Utrecht.
 
 5. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
@@ -270,11 +244,11 @@ Vervallen
 
 - a. personen, bedoeld in het derde lid, onderdeel a tot en met c en e, met betrekking tot ten minste:
 
-- 1°. gonorroe;
+   - 1° gonorroe;
 
-- 2°. syfilis; en
+   - 2° syfilis; en
 
-- 3°. hiv op opt-out basis.
+   - 3° hiv op opt-out basis.
 
 - b. personen, bedoeld in het derde lid, onderdeel d, met betrekking tot gonorroe.
 
@@ -298,7 +272,7 @@ De coördinerende GGD draagt er ten behoeve van diens regio zorg voor dat in het
 
 ### Hoofdstuk 4. PrEP-zorg
 
-##### Artikel 4.1. Nadere invulling activiteiten [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&z=2025-12-23&g=2025-12-23)
+##### Artikel 4.1. Nadere invulling activiteiten hoofdstuk 4
 
 Activiteiten in het kader van PrEP-zorg, zijn:
 
@@ -316,71 +290,71 @@ De PrEP-zorg is gericht op personen met een verhoogd risico op hiv, zoals in ied
 
 1. Het gemiddelde tarief voor het kalenderjaar 2024 is:
 
-- a. per startconsult maximaal € 80,–.
+- a. per startconsult maximaal € 80,–.
 
-- b. per vervolgconsult maximaal € 50,–.
+- b. per vervolgconsult maximaal € 50,–.
 
 2. Het gemiddelde tarief voor het kalenderjaar 2025 is:
 
-- a. per startconsult maximaal € 84,–.
+- a. per startconsult maximaal € 84,–.
 
-- b. per vervolgconsult maximaal € 53,–.
+- b. per vervolgconsult maximaal € 53,–.
 
 ##### Artikel 4.4. Hoogte van de uitkering
 
-1. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), en de coördinatie daarvan bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
+1. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), en de coördinatie daarvan bedraagt voor de periode van 1 augustus 2024 tot en met 31 december 2024 ten hoogste:
 
-- a. € 373.794,– voor de GGD van de gemeente Amsterdam;
+- a. € 373.794,– voor de GGD van de gemeente Amsterdam;
 
-- b. € 148.083,– voor de GGD Regio Gelderland Zuid;
+- b. € 148.083,– voor de GGD Regio Gelderland Zuid;
 
-- c. € 68.952,– voor de GGD Groningen;
+- c. € 68.952,– voor de GGD Groningen;
 
-- d. € 83.675,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 83.675,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 151.826,– voor de GGD Rotterdam-Rijnmond;
+- e. € 151.826,– voor de GGD Rotterdam-Rijnmond;
 
 - f. € 135.046,– voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 69.092,– voor de GGD Zuid-Limburg;
+- g. € 69.092,– voor de GGD Zuid-Limburg;
 
-- h. € 73.628,– voor de GGD Regio Utrecht.
+- h. € 73.628,– voor de GGD Regio Utrecht.
 
 2. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), en de coördinatie daarvan bedraagt voor het kalenderjaar 2025 ten hoogste:
 
-- a. € 934.283,– voor de GGD van de gemeente Amsterdam;
+- a. € 934.283,– voor de GGD van de gemeente Amsterdam;
 
-- b. € 370.128,– voor de GGD Regio Gelderland Zuid;
+- b. € 370.128,– voor de GGD Regio Gelderland Zuid;
 
-- c. € 172.342,– voor de GGD Groningen;
+- c. € 172.342,– voor de GGD Groningen;
 
-- d. € 209.143,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 209.143,– voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 379.482,– voor de GGD Rotterdam-Rijnmond;
+- e. € 379.482,– voor de GGD Rotterdam-Rijnmond;
 
-- f. € 337.543,– voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 337.543,– voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 172.693,– voor de GGD Zuid-Limburg;
+- g. € 172.693,– voor de GGD Zuid-Limburg;
 
-- h. € 184.032,– voor de GGD Regio Utrecht.
+- h. € 184.032,– voor de GGD Regio Utrecht.
 
 3. De uitkering voor activiteiten in het kader van PrEP-zorg, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=4&artikel=4.1&z=2025-12-23&g=2025-12-23), en de coördinatie daarvan bedraagt voor het kalenderjaar 2026 ten hoogste:
 
-- a. € 896.911,68 voor de GGD van de gemeente Amsterdam;
+- a. € 896.911,68 voor de GGD van de gemeente Amsterdam;
 
-- b. € 355.322,88 voor de GGD Regio Gelderland Zuid;
+- b. € 355.322,88 voor de GGD Regio Gelderland Zuid;
 
-- c. € 165.448,32 voor de GGD Groningen;
+- c. € 165.448,32 voor de GGD Groningen;
 
-- d. € 200.777,28 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
+- d. € 200.777,28 voor de afdeling GGD van de Dienst OCW van de gemeente Den Haag;
 
-- e. € 364.302,72 voor de GGD Rotterdam-Rijnmond;
+- e. € 364.302,72 voor de GGD Rotterdam-Rijnmond;
 
-- f. € 324.041,28 voor de GGD van het openbaar lichaam Hart voor Brabant;
+- f. € 324.041,28 voor de GGD van het openbaar lichaam Hart voor Brabant;
 
-- g. € 165.785,28 voor de GGD Zuid-Limburg;
+- g. € 165.785,28 voor de GGD Zuid-Limburg;
 
-- h. € 176.670,72 voor de GGD Regio Utrecht.
+- h. € 176.670,72 voor de GGD Regio Utrecht.
 
 4. De minister kan de maximumbedragen van de uitkering jaarlijks indexeren.
 
@@ -420,7 +394,7 @@ De coördinerende GGD draagt ten behoeve van diens regio zorg voor dat in het ja
 
 1. De ontvanger van een uitkering, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.3&z=2025-12-23&g=2025-12-23), vormt een egalisatiereserve.
 
-2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de uitkering dan wel ten hoogste een lager percentage dat door de minister bij het besluit tot verlening is bepaald.
+2. De egalisatiereserve bedraagt ten minste € 0 en ten hoogste 10% van het bij het besluit tot verlening bepaalde bedrag van de uitkering dan wel ten hoogste een lager percentage dat door de minister bij het besluit tot verlening is bepaald.
 
 3. Indien de uitkering wordt verlaagd wegens het niet of niet geheel verrichten van de activiteiten waarvoor de uitkering is verleend, wordt de maximaal toegestane egalisatiereserve berekend op basis van de verlaagde uitkering.
 
@@ -456,20 +430,18 @@ De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, art
 
 2. Deze regeling is van toepassing op uitkeringen die zijn verleend op grond van de [Regeling tijdelijke specifieke uitkering aanvullende seksuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048331), voorafgaand aan de inwerkingtreding van onderhavige regeling.
 
-##### Artikel 6.3. Wijziging [Regeling Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0022160)
+##### Artikel 6.3. Wijziging Regeling Geneesmiddelenwet
 
-Wijzigt de Regeling Geneesmiddelenwet.
+*Wijzigt de Regeling Geneesmiddelenwet.*
 
 ##### Artikel 6.4. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 31 december 2035.
+2. Deze regeling vervalt met ingang van 31 december 2035.
 
-3. In afwijking van het tweede lid, vervalt [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.4&z=2025-12-23&g=2025-12-23) op het tijdstip waarop artikel I, onderdelen B en D, van het bij koninklijke boodschap van 30 maart 2023 ingediende voorstel van wet tot wijziging van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele anderen wijzigingen (Kamerstukken 36 334) in werking treedt.
+3. In afwijking van het tweede lid, vervalt [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049474&hoofdstuk=1&artikel=1.4&z=2025-12-23&g=2025-12-23) op het tijdstip waarop artikel I, onderdelen B en D, van het bij koninklijke boodschap van 30 maart 2023 ingediende voorstel van wet tot wijziging van de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) vanwege de invoering van een vergunningplicht en een meldplicht ter zake van het verrichten van handelingen met poliovirus en enkele anderen wijzigingen (Kamerstukken 36 334) in werking treedt.
 
 ##### Artikel 6.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering aanvullende seksuele gezondheidzorg.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,54 +1,27 @@
 ---
 title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2023, kenmerk 3712418-1055833-PZo, inzake het experiment zinnig en simpel verantwoorden in de langdurige zorg"
+citeertitel: "Aanwijzing experiment zinnig en simpel verantwoorden"
 identifier: "BWBR0048871"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2023-11-13"
-last_updated: "2023-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048871"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "16911133"
-version_id: "29721552"
-internal_id: "C42596191"
-label_id: "16822564"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048871/2023-11-13/0"
-intitule_bron: "Stcrt.2023-30843"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-11-03"
-intitule_published: "2023-11-13"
-intitule_in_force: "2023-11-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30843"
-original_signed_date: "2023-11-03"
-original_published_date: "2023-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30843"
-entry_into_force_date: "2023-11-13"
-jci_1_3: "jci1.3:c:BWBR0048871&z=2023-11-13&g=2023-11-13"
-jci_1_0: "1.0:c:BWBR0048871&g=2023-11-13"
-citeertitel_status: "officieel"
-short_title: "Aanwijzing experiment zinnig en simpel verantwoorden"
-signed_date: "2023-11-03"
-entry_into_force: "2023-11-13"
+publicatiedatum: 2023-11-13
+laatste_update: 2023-11-13
+status: geldig
+toestand: 2023-11-13
+bron: "https://wetten.overheid.nl/BWBR0048871"
+opgehaald: 2026-09-05
 ---
+
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 3 november 2023, kenmerk 3712418-1055833-PZo, inzake het experiment zinnig en simpel verantwoorden in de langdurige zorg
-
-Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
-
-Na op 25 september 2023 schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der Staten-Generaal (**Kamerstukken II**2022/23, 29 515, 489) als bedoeld in [artikel 8 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=8);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
-- –. **wet:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- – *wet:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
+- – *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
 ##### Artikel 2. Werkingssfeer
 
@@ -56,7 +29,7 @@ Deze aanwijzing is van toepassing op zorg als bedoeld in de [Wet langdurige zorg
 
 ##### Artikel 3. Opdracht experiment
 
-1. De zorgautoriteit voorziet met ingang van 1 januari 2024, met toepassing van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), in regelgeving voor een experiment inzake zinnig en simpel verantwoorden.
+1. De zorgautoriteit voorziet met ingang van 1 januari 2024, met toepassing van [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), in regelgeving voor een experiment inzake zinnig en simpel verantwoorden.
 
 2. Op grond van dit experiment krijgt een zorgaanbieder de mogelijkheid om af te wijken van de beleidsregels en nadere regels van de zorgautoriteit ten aanzien van de verantwoording.
 
@@ -88,7 +61,7 @@ De zorgautoriteit neemt bij de vaststelling van de regelgeving voor het experime
 
 ##### Artikel 5. Looptijd
 
-Het experiment heeft een looptijd van maximaal vijf jaar en eindigt uiterlijk op 1 januari 2029.
+Het experiment heeft een looptijd van maximaal vijf jaar en eindigt uiterlijk op 1 januari 2029.
 
 ##### Artikel 6. Evaluatie experiment
 
@@ -97,5 +70,3 @@ De zorgautoriteit evalueert de effecten van het experiment als bedoeld in het [z
 ##### Artikel 7. Citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing experiment zinnig en simpel verantwoorden.
-
-Van deze aanwijzing wordt mededeling gedaan door plaatsing met de toelichting in de Staatscourant.

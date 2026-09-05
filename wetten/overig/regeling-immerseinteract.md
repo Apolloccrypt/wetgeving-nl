@@ -1,40 +1,17 @@
 ---
-title: "Regeling Immerse\\Interact"
+title: "Regeling Immerse\Interact"
 identifier: "BWBR0049469"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-03-01"
-last_updated: "2024-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049469"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17051213"
-version_id: "30001862"
-internal_id: "C43010021"
-label_id: "16960854"
-dtd_version: "2.0"
-original_entry_into_force: "2024-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049469/2024-03-01/0"
-intitule_bron: "Stcrt.2024-8019"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-03-18"
-intitule_in_force: "2024-03-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-8019"
-original_published_date: "2024-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-8019"
-entry_into_force_date: "2024-03-01"
-jci_1_3: "jci1.3:c:BWBR0049469&z=2024-03-01&g=2024-03-01"
-jci_1_0: "1.0:c:BWBR0049469&g=2024-03-01"
-citeertitel_status: "officieel"
-entry_into_force: "2024-03-01"
+publicatiedatum: 2024-03-01
+laatste_update: 2024-03-01
+status: geldig
+toestand: 2024-03-01
+bron: "https://wetten.overheid.nl/BWBR0049469"
+opgehaald: 2026-09-05
 ---
+
 # Regeling Immerse\Interact
-
-Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -48,25 +25,25 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
-- 1. **Bestuur:** de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
+- 1. *Bestuur:* de directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie, als bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
 
-- 2. **Creatieve industrie:** het werkterrein van de disciplines vormgeving, architectuur, digitale cultuur en specifiek binnen deze regeling ook film en media, inclusief mogelijke crossovers tussen deze disciplines;
+- 2. *Creatieve industrie:* het werkterrein van de disciplines vormgeving, architectuur, digitale cultuur en specifiek binnen deze regeling ook film en media, inclusief mogelijke crossovers tussen deze disciplines;
 
-- 3. **Maker:** een natuurlijk persoon die de artistieke regie voert over een productie;
+- 3. *Maker:* een natuurlijk persoon die de artistieke regie voert over een productie;
 
-- 4. **Producent:** een productiemaatschappij, organisatie of studio binnen de film, audio-visuele sector of creatieve industrie die het productieproces overziet en eindverantwoordelijk is voor de financiën, administratie en uitvoering van het project;
+- 4. *Producent:* een productiemaatschappij, organisatie of studio binnen de film, audio-visuele sector of creatieve industrie die het productieproces overziet en eindverantwoordelijk is voor de financiën, administratie en uitvoering van het project;
 
-- 5. **Culturele instelling:** een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, platform of presentatieplek;
+- 5. *Culturele instelling:* een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, platform of presentatieplek;
 
-- 6. **Immersieve AV-productie:** een voor publiek toegankelijk project op het snijvlak van storytelling, kunst en technologie waarbij in zowel beeld als geluid sprake is van immersie. Hieronder vallen onder andere virtual reality (VR), augmented reality (AR), mixed reality (MR), virtuele werelden;
+- 6. *Immersieve AV-productie:* een voor publiek toegankelijk project op het snijvlak van storytelling, kunst en technologie waarbij in zowel beeld als geluid sprake is van immersie. Hieronder vallen onder andere virtual reality (VR), augmented reality (AR), mixed reality (MR), virtuele werelden;
 
-- 7. **Interactieve AV-productie:** een voor publiek toegankelijk project op het snijvlak van storytelling, kunst en (media)technologie met een dragende beeldende component, waarbij een interactie met het publiek centraal staat. Hieronder kunnen bijvoorbeeld interactieve media-installaties of transmediale werken vallen;
+- 7. *Interactieve AV-productie:* een voor publiek toegankelijk project op het snijvlak van storytelling, kunst en (media)technologie met een dragende beeldende component, waarbij een interactie met het publiek centraal staat. Hieronder kunnen bijvoorbeeld interactieve media-installaties of transmediale werken vallen;
 
-- 8. **Project:** alle werkzaamheden voor een opzichzelfstaande, concreet omschreven activiteit, afgebakend in tijd en doel;
+- 8. *Project:* alle werkzaamheden voor een opzichzelfstaande, concreet omschreven activiteit, afgebakend in tijd en doel;
 
-- 9. **Cofinanciering:** aanvullende financiering in de vorm van een andere subsidie, sponsoring, investering of bijdrage, naast de gevraagde subsidie op grond van deze regeling;
+- 9. *Cofinanciering:* aanvullende financiering in de vorm van een andere subsidie, sponsoring, investering of bijdrage, naast de gevraagde subsidie op grond van deze regeling;
 
-- 10. **Subsidieplafond:** het totaal binnen een ronde of tijdvak beschikbare subsidiebedrag.
+- 10. *Subsidieplafond:* het totaal binnen een ronde of tijdvak beschikbare subsidiebedrag.
 
 ### Hoofdstuk 2. Algemene bepalingen Regeling Immerse\Interact
 
@@ -94,13 +71,13 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 1. Binnen deze regeling kan worden aangevraagd voor:
 
-- a. **Ontwikkelingsbijdrage individuele maker:** de aanvraag wordt ingediend door een individuele maker of namens een klein collectief. De aanvraag bedraagt maximaal € 15.000. Daarnaast kan aanvullend maximaal € 5.000 voor coaching worden aangevraagd;
+- a. *Ontwikkelingsbijdrage individuele maker:* de aanvraag wordt ingediend door een individuele maker of namens een klein collectief. De aanvraag bedraagt maximaal € 15.000. Daarnaast kan aanvullend maximaal € 5.000 voor coaching worden aangevraagd;
 
-- b. **Realiseringsbijdrage individuele maker:** de aanvraag wordt ingediend door een individuele maker of namens een klein collectief. De aanvraag bedraagt maximaal € 35.000;
+- b. *Realiseringsbijdrage individuele maker:* de aanvraag wordt ingediend door een individuele maker of namens een klein collectief. De aanvraag bedraagt maximaal € 35.000;
 
-- c. **Ontwikkelingsbijdrage producent:** de aanvraag wordt ingediend door een producent. De aanvraag bedraagt maximaal € 25.000. Indien de noodzaak naar het oordeel van het bestuur gedegen is onderbouwd in de aanvraag, kan aanvullend maximaal € 5.000 voor coaching worden aangevraagd;
+- c. *Ontwikkelingsbijdrage producent:* de aanvraag wordt ingediend door een producent. De aanvraag bedraagt maximaal € 25.000. Indien de noodzaak naar het oordeel van het bestuur gedegen is onderbouwd in de aanvraag, kan aanvullend maximaal € 5.000 voor coaching worden aangevraagd;
 
-- d. **Realiseringsbijdrage producent:** de aanvraag wordt ingediend door een producent. De aanvraag bedraagt maximaal € 125.000.
+- d. *Realiseringsbijdrage producent:* de aanvraag wordt ingediend door een producent. De aanvraag bedraagt maximaal € 125.000.
 
 ##### Artikel 5. Voorwaarden voor ondersteuning
 
@@ -168,27 +145,27 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ##### Artikel 8. Inhoud van de aanvraag
 
-1. Een aanvraag voor een **ontwikkelsubsidie**bevat:
+1. Een aanvraag voor een *ontwikkelsubsidie*bevat:
 
 - a. een volledig ingevuld aanvraagformulier;
 
 - b. een projectplan met daarin aandacht voor:
 
-- –. het artistieke concept van het project;
+   - – het artistieke concept van het project;
 
-- –. de synopsis;
+   - – de synopsis;
 
-- –. visie op immersie en/of interactie;
+   - – visie op immersie en/of interactie;
 
-- –. beschrijving van de beoogde techniek;
+   - – beschrijving van de beoogde techniek;
 
-- –. een aanzet voor de look & feel van het project;
+   - – een aanzet voor de look & feel van het project;
 
-- –. de positionering van het project ten opzichte van bestaande projecten;
+   - – de positionering van het project ten opzichte van bestaande projecten;
 
-- –. een beschrijving van het team, inclusief taakverdeling;
+   - – een beschrijving van het team, inclusief taakverdeling;
 
-- –. een reflectie op de wijze waarop de producent zich verhoudt tot de code Diversiteit en Inclusie in de context van het project;
+   - – een reflectie op de wijze waarop de producent zich verhoudt tot de code Diversiteit en Inclusie in de context van het project;
 
 - c. planning;
 
@@ -206,7 +183,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - j. Een representatieve afbeelding van het project, bestemd voor communicatie-uitingen door het fonds en waarvan de benodigde rechten van de afbeelding bij de aanvrager liggen.
 
-2. Een aanvraag voor een **realiseringssubsidie**bevat naast de onder [Artikel 8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049469&hoofdstuk=3&artikel=8&z=2024-03-01&g=2024-03-01) genoemde onderdelen:
+2. Een aanvraag voor een *realiseringssubsidie*bevat naast de onder [Artikel 8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049469&hoofdstuk=3&artikel=8&z=2024-03-01&g=2024-03-01) genoemde onderdelen:
 
 - a. Een beschrijving van de ervaring van de gebruiker (users journey);
 
@@ -236,27 +213,27 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ##### Artikel 10. Beoordeling
 
-1. **Ontwikkelingsbijdrage**
+1. *Ontwikkelingsbijdrage*
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag voor een ontwikkelingsbijdrage de volgende criteria, die in gelijke mate worden gewogen:
 
-- a. **De artistiek-inhoudelijke kwaliteit:** hierbij wordt gekeken naar de aanzet voor de grafische en/of filmische kwaliteit, de visie op interactie en de synopsis;
+- a. *De artistiek-inhoudelijke kwaliteit:* hierbij wordt gekeken naar de aanzet voor de grafische en/of filmische kwaliteit, de visie op interactie en de synopsis;
 
-- b. **De technische kwaliteit:** Wat is de beoogde techniek en wat zijn de gevolgen van de gekozen technologie voor de uiteindelijke vorm? Wat is de visie op het gebruik van immersie en/of interactie?
+- b. *De technische kwaliteit:* Wat is de beoogde techniek en wat zijn de gevolgen van de gekozen technologie voor de uiteindelijke vorm? Wat is de visie op het gebruik van immersie en/of interactie?
 
-- c. **Opzet van de ontwikkelfase:**Welke stappen worden, met het oog op uitvoerbaarheid, in de ontwikkelfase genomen om tot een volwaardig productieplan te komen? Wat is de beoogde samenstelling van het team en welke expertise wordt betrokken?
+- c. *Opzet van de ontwikkelfase:*Welke stappen worden, met het oog op uitvoerbaarheid, in de ontwikkelfase genomen om tot een volwaardig productieplan te komen? Wat is de beoogde samenstelling van het team en welke expertise wordt betrokken?
 
-2. **Realiseringbijdrage**
+2. *Realiseringbijdrage*
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag voor een realiseringsbijdrage de volgende criteria, die in gelijke mate worden gewogen:
 
-- a. **De artistiek-inhoudelijke kwaliteit:** hierbij wordt gekeken naar de grafische en/of filmische kwaliteit, de visie op interactie, de **users journey** en de synopsis;
+- a. *De artistiek-inhoudelijke kwaliteit:* hierbij wordt gekeken naar de grafische en/of filmische kwaliteit, de visie op interactie, de *users journey* en de synopsis;
 
-- b. **De technische kwaliteit:** Voor welke technologie wordt gekozen en hoe wordt deze ingezet om de beoogde ervaring te bereiken? Is de toepassing realistisch en is er voldoende kennis aanwezig in het team? Wat zijn de gevolgen van de gekozen technologie voor de uiteindelijke vorm? Wat is de visie op het gebruik van immersie en/of interactie?
+- b. *De technische kwaliteit:* Voor welke technologie wordt gekozen en hoe wordt deze ingezet om de beoogde ervaring te bereiken? Is de toepassing realistisch en is er voldoende kennis aanwezig in het team? Wat zijn de gevolgen van de gekozen technologie voor de uiteindelijke vorm? Wat is de visie op het gebruik van immersie en/of interactie?
 
-- c. **Opzet van de productie:** hierbij wordt gekeken naar de productionele haalbaarheid en praktische uitvoerbaarheid van het voorstel. Ook de samenstelling van het team, de betrokken expertise, planning en begroting worden hierin meegenomen;
+- c. *Opzet van de productie:* hierbij wordt gekeken naar de productionele haalbaarheid en praktische uitvoerbaarheid van het voorstel. Ook de samenstelling van het team, de betrokken expertise, planning en begroting worden hierin meegenomen;
 
-- d. **Distributie en publieksstrategie:** hierbij wordt gekeken naar de visie en betrokken partners met betrekking tot de distributie, diversiteit en het publieksbereik in Nederland, dan wel internationaal.
+- d. *Distributie en publieksstrategie:* hierbij wordt gekeken naar de visie en betrokken partners met betrekking tot de distributie, diversiteit en het publieksbereik in Nederland, dan wel internationaal.
 
 ##### Artikel 11. Prioritering
 
@@ -328,13 +305,13 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ##### Artikel 19. Verantwoording bij subsidies minder dan € 25.000
 
-1. Bedraagt de subsidie minder dan € 25.000, dan toont de subsidieontvanger aan de hand van een kort inhoudelijk verslag en een financieel overzicht van alle gerealiseerde kosten en baten aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
+1. Bedraagt de subsidie minder dan € 25.000, dan toont de subsidieontvanger aan de hand van een kort inhoudelijk verslag en een financieel overzicht van alle gerealiseerde kosten en baten aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 2. Voor de verantwoording van een startsubsidie kan worden volstaan met een online ingevuld en ondertekend verantwoordingsformulier. Het resulterende uitgewerkte projectplan voor de uitvoeringsfase van het beoogde project kan als bijlage worden toegevoegd.
 
 ##### Artikel 20. Verantwoording bij subsidies van € 25.000 of meer
 
-1. Bedraagt de subsidie € 25.000 of meer, dan toont de subsidieontvanger aan de hand van een inhoudelijk verslag aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
+1. Bedraagt de subsidie € 25.000 of meer, dan toont de subsidieontvanger aan de hand van een inhoudelijk verslag aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 2. Het inhoudelijk verslag bevat een overzicht van de werkzaamheden waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten.
 
@@ -342,7 +319,7 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ##### Artikel 21. Werkelijkekostenverklaring bij subsidies van € 25.000 of meer
 
-1. Bedraagt de subsidie € 25.000 of meer, dan moet de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantonen dat de activiteiten zijn verricht.
+1. Bedraagt de subsidie € 25.000 of meer, dan moet de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantonen dat de activiteiten zijn verricht.
 
 2. In de verklaring geeft de subsidieontvanger aan:
 
@@ -366,12 +343,10 @@ Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derde
 
 ##### Artikel 24. Inwerkingtreding en expiratie
 
-Deze regeling treedt in werking met ingang van 1 maart 2024.
+Deze regeling treedt in werking met ingang van 1 maart 2024.
 
-Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
+Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Immerse\Interact
-
-Deze regeling zal in de Staatscourant worden geplaatst.

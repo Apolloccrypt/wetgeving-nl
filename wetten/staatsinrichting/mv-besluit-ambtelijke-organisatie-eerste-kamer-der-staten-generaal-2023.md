@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Voorzitter, het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 31 oktober 2023, kenmerk 17389U, houdende Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 (M&V-Besluit Eerste Kamer 2023)"
+citeertitel: "M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten- Generaal 2023"
 identifier: "BWBR0048882"
-country: "nl"
-rank: "reglement"
-publication_date: "2023-11-11"
-last_updated: "2023-11-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0048882"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "16912923"
-version_id: "29725422"
-internal_id: "C42603201"
-label_id: "16824484"
-dtd_version: "2.0"
-original_entry_into_force: "2023-11-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0048882/2023-11-11/0"
-intitule_bron: "Stcrt.2023-30751"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-10-31"
-intitule_published: "2023-11-10"
-intitule_in_force: "2023-11-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-30751"
-original_signed_date: "2023-10-31"
-original_published_date: "2023-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-30751"
-entry_into_force_date: "2023-11-11"
-jci_1_3: "jci1.3:c:BWBR0048882&z=2023-11-11&g=2023-11-11"
-jci_1_0: "1.0:c:BWBR0048882&g=2023-11-11"
-citeertitel_status: "officieel"
-short_title: "M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten- Generaal 2023"
-signed_date: "2023-10-31"
-entry_into_force: "2023-11-11"
+publicatiedatum: 2023-11-11
+laatste_update: 2023-11-11
+status: geldig
+toestand: 2023-11-11
+bron: "https://wetten.overheid.nl/BWBR0048882"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Voorzitter, het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 31 oktober 2023, kenmerk 17389U, houdende Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 (M&V-Besluit Eerste Kamer 2023)
-
-overwegende dat het gewenst is nadere regels te stellen ten aanzien van de beslis- en ondertekeningsbevoegdheden bij rechtshandelingen en rechtspositionele beslissingen,
-
-gelet op [hoofdstuk 10 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=10), de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=13), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=22) en [34 van het Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=34),
-
-BESLUITEN
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,31 +20,32 @@ BESLUITEN
 
 In dit besluit wordt verstaan onder:
 
-- a. **Het College van Voorzitter en Ondervoorzitters:** college als bedoeld in [artikel 12 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=12);
+- a. *Het College van Voorzitter en Ondervoorzitters:* college als bedoeld in [artikel 12 van het Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=12);
 
-- b. **Voorzitter:** de Voorzitter van de Eerste Kamer der Staten-Generaal;
+- b. *Voorzitter:* de Voorzitter van de Eerste Kamer der Staten-Generaal;
 
-- c. **Griffier:** de Griffier van de Eerste Kamer der Staten-Generaal;
+- c. *Griffier:* de Griffier van de Eerste Kamer der Staten-Generaal;
 
-- d. **Ambtelijke organisatie (griffie):** het geheel van ambtenaren dat werkzaam is onder verantwoordelijkheid van de Griffier;
+- d. *Ambtelijke organisatie (griffie):* het geheel van ambtenaren dat werkzaam is onder verantwoordelijkheid van de Griffier;
 
-- e. **Directie:** de directie Inhoud of de directie Organisatie;
+- e. *Directie:* de directie Inhoud of de directie Organisatie;
 
-- f. **Directeur:** degene die is belast met de leiding van een directie;
+- f. *Directeur:* degene die is belast met de leiding van een directie;
 
-- g. **Integraal management:** management van een directie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;
+- g. *Integraal management:* management van een directie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;
 
-- h. **Mandaat:** de bevoegdheid om namens de mandaatverlener besluiten te nemen;
+- h. *Mandaat:* de bevoegdheid om namens de mandaatverlener besluiten te nemen;
 
-- i. **Volmacht:** de bevoegdheid om namens de volmachtgever privaatrechtelijke rechtshandelingen te verrichten;
+- i. *Volmacht:* de bevoegdheid om namens de volmachtgever privaatrechtelijke rechtshandelingen te verrichten;
 
-- j. **Machtiging:** de bevoegdheid om namens een ander handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- j. *Machtiging:* de bevoegdheid om namens een ander handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- k. **Reglement van Orde:** [Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272).
+- k. *Reglement van Orde:*
+ [Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272).
 
 ##### Artikel 2. Organisatie
 
-De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld conform het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&bijlage=1&z=2023-11-11&g=2023-11-11) opgenomen (vereenvoudigd) organogram.
+De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld conform het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&bijlage=1&z=2023-11-11&g=2023-11-11) opgenomen (vereenvoudigd) organogram.
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging griffier
 
@@ -90,9 +63,9 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 - e. de bevoegdheid te besluiten namens de Eerste Kamer rechtsgedingen, bezwaarprocedures of administratieve beroepsprocedures te voeren of handelingen ter voorbereiding daarop te verrichten;
 
-- f. de bevoegdheden van artikel 10 van de Gedragscode integriteit Eerste Kamer.
+- f. de bevoegdheden van artikel 10 van de Gedragscode integriteit Eerste Kamer.
 
-2. Het College van Voorzitter en Ondervoorzitters verleent aan haar Voorzitter de bevoegdheid om te beslissen op een bezwaarschrift tegen een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) dat door de Griffier is genomen.
+2. Het College van Voorzitter en Ondervoorzitters verleent aan haar Voorzitter de bevoegdheid om te beslissen op een bezwaarschrift tegen een besluit in de zin van [artikel 1:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) dat door de Griffier is genomen.
 
 3. Onverminderd het bepaalde in dit besluit en het [Reglement van Orde](https://wetten.overheid.nl/jci1.3:c:BWBR0048272), hebben het mandaat en de machtiging van de Griffier in ieder geval betrekking op:
 
@@ -108,7 +81,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 4. De Voorzitter verleent volmacht aan de Griffier tot het verrichten van de in het derde lid, onder c bedoelde privaatrechtelijke rechtshandelingen voor al hetgeen de ambtelijke organisatie aangaat.
 
-5. Bij afwezigheid of verhindering van de Griffier worden de bevoegdheden van de Griffier uitgeoefend door de eerste plaatsvervangend Griffier, onverminderd mandaten, volmachten en machtigingen die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=3&artikel=4&z=2023-11-11&g=2023-11-11) aan de directeuren zijn verleend. Bij (voorzienbare) langdurige afwezigheid van de Griffier, adviseert het College van Voorzitter en Ondervoorzitters de Kamer over het benoemen van een waarnemend Griffier.
+5. Bij afwezigheid of verhindering van de Griffier worden de bevoegdheden van de Griffier uitgeoefend door de eerste plaatsvervangend Griffier, onverminderd mandaten, volmachten en machtigingen die op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=3&artikel=4&z=2023-11-11&g=2023-11-11) aan de directeuren zijn verleend. Bij (voorzienbare) langdurige afwezigheid van de Griffier, adviseert het College van Voorzitter en Ondervoorzitters de Kamer over het benoemen van een waarnemend Griffier.
 
 6. Bij gelijktijdige afwezigheid of verhindering van de Griffier en de eerste plaatsvervangend Griffier wordt de Griffier vervangen door de directeur Organisatie voor de taken die verband houden met het leidinggeven aan de ambtelijke organisatie. Voor de overige taken van de Griffier wordt hij vervangen door een van de plaatsvervangend griffiers die bij schriftelijk besluit van de Griffier, gehoord hebbende het College van Voorzitter en Ondervoorzitters, daartoe is aangewezen.
 
@@ -138,7 +111,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 - d. het beheer van het openbare reizen- en geschenkenregister;
 
-- e. het -met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=4&artikel=7&z=2023-11-11&g=2023-11-11)- besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 3, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&artikel=3&z=2023-11-11&g=2023-11-11) die verband houden met het werkterrein van de directeur.
+- e. het -met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=4&artikel=7&z=2023-11-11&g=2023-11-11)- besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 3, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&artikel=3&z=2023-11-11&g=2023-11-11) die verband houden met het werkterrein van de directeur.
 
 3. Onverminderd het bepaalde in dit besluit en andere besluiten van de Griffier, hebben het mandaat, de machtiging en de volmacht van de directeur Organisatie in ieder geval betrekking op:
 
@@ -160,7 +133,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 - i. protocollaire aangelegenheden, waaronder contacten van de Voorzitter, Ondervoorzitters, Leden en Griffier met binnen- en buitenlandse gasten en relaties;
 
-- j. het – met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=4&artikel=7&z=2023-11-11&g=2023-11-11) – besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 3, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&artikel=3&z=2023-11-11&g=2023-11-11) die verband houden met het werkterrein van de directeur.
+- j. het – met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=4&artikel=7&z=2023-11-11&g=2023-11-11) – besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen als bedoeld in [artikel 3, derde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&artikel=3&z=2023-11-11&g=2023-11-11) die verband houden met het werkterrein van de directeur.
 
 4. De directeuren kunnen aan onder hen ressorterende medewerkers schriftelijk mandaat, volmacht en machtiging verlenen tot het uitoefenen van de bevoegdheden als bedoeld in het eerste, tweede en derde lid. Het verlenen van een algemeen mandaat, volmacht en machtiging behoeft de goedkeuring van de Griffier.
 
@@ -198,11 +171,11 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 1. Met betrekking tot alle financiële taken en bevoegdheden als bedoeld in dit besluit geldt dat:
 
-- a. het aangaan van financiële verplichtingen boven een bedrag van € 150.000,– goedkeuring van de Griffier behoeven.
+- a. het aangaan van financiële verplichtingen boven een bedrag van € 150.000,– goedkeuring van de Griffier behoeven.
 
-- b. de Griffier een actieve informatieplicht aan het College van Voorzitter en Ondervoorzitters heeft voor het aangaan van financiële verplichtingen boven een bedrag van € 300.000,–.
+- b. de Griffier een actieve informatieplicht aan het College van Voorzitter en Ondervoorzitters heeft voor het aangaan van financiële verplichtingen boven een bedrag van € 300.000,–.
 
-2. In afwijking van het eerste lid behoeft het kwijtschelden of buiteninvordering stellen van vorderingen op derden boven een bedrag van € 5.000,– behoeft de goedkeuring van de Griffier.
+2. In afwijking van het eerste lid behoeft het kwijtschelden of buiteninvordering stellen van vorderingen op derden boven een bedrag van € 5.000,– behoeft de goedkeuring van de Griffier.
 
 3. Bij het verlenen van ondermaat en volmacht van de bevoegdheden als bedoeld in het eerste en tweede lid worden aan de uitoefening van deze bevoegdheden grensbedragen gekoppeld als bedoeld in dit artikel.
 
@@ -218,7 +191,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 ##### Artikel 9. Ondertekening mandaat
 
-1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens mandaat ondertekent, luidt de ondertekening als volgt:
+1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens mandaat ondertekent, luidt de ondertekening als volgt:
 
 DE EERSTE KAMER DER STATEN-GENERAAL,
 
@@ -230,7 +203,7 @@ de GRIFFIER
 
 <naam>
 
-2. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit door een ander dan de Griffier stukken krachtens mandaat worden ondertekend, luidt de ondertekening als volgt:
+2. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit door een ander dan de Griffier stukken krachtens mandaat worden ondertekend, luidt de ondertekening als volgt:
 
 DE EERSTE KAMER DER STATEN-GENERAAL,
 
@@ -244,7 +217,7 @@ namens deze,
 
 ##### Artikel 10. Ondertekening volmacht
 
-1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens volmacht ondertekent, luidt de ondertekening als volgt:
+1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens volmacht ondertekent, luidt de ondertekening als volgt:
 
 Namens de STAAT DER NEDERLANDEN,
 
@@ -258,7 +231,7 @@ de GRIFFIER,
 
 <naam>
 
-2. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit een ander dan de Griffier stukken krachtens volmacht ondertekent, luidt de ondertekening als volgt:
+2. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit een ander dan de Griffier stukken krachtens volmacht ondertekent, luidt de ondertekening als volgt:
 
 Namens de STAAT DER NEDERLANDEN,
 
@@ -276,7 +249,7 @@ namens deze,
 
 1. Bij ondertekening van stukken door een plaatsvervanger of waarnemer wordt de handtekening voorafgegaan door: b/a.
 
-2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=9&z=2023-11-11&g=2023-11-11) is van overeenkomstige toepassing op de ondertekening van een document krachtens machtiging, tenzij uit de aard en de inhoud van het document reeds voldoende blijkt namens wie het stuk is opgesteld.
+2. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=9&z=2023-11-11&g=2023-11-11) is van overeenkomstige toepassing op de ondertekening van een document krachtens machtiging, tenzij uit de aard en de inhoud van het document reeds voldoende blijkt namens wie het stuk is opgesteld.
 
 In dat geval luidt de ondertekening als volgt:
 
@@ -284,7 +257,7 @@ In dat geval luidt de ondertekening als volgt:
 
 <functie>
 
-3. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=9&z=2023-11-11&g=2023-11-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=10&z=2023-11-11&g=2023-11-11) zijn niet van toepassing op digitale besluiten die worden genomen via het P-Direktportaal.
+3. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=9&z=2023-11-11&g=2023-11-11) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=5&artikel=10&z=2023-11-11&g=2023-11-11) zijn niet van toepassing op digitale besluiten die worden genomen via het P-Direktportaal.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -307,7 +280,3 @@ In dat geval luidt de ondertekening als volgt:
 1. Dit besluit wordt bekendgemaakt door publicatie in de Staatscourant en treedt in werking op de dag na de dag van bekendmaking.
 
 2. Dit besluit wordt aangehaald als M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023.
-
-## Bijlage 1. Organogram
-
-Vereenvoudigd organogram van de Ambtelijke organisatie van de Eerste Kamer der Staten-Generaal (artikel 2)

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 december 2023, tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Omgevingswet (Besluit aanwijzing toezichthouders Omgevingswet)"
+citeertitel: "Besluit aanwijzing toezichthouders Omgevingswet"
 identifier: "BWBR0049186"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-03"
-last_updated: "2025-07-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049186"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "16989843"
-version_id: "29876702"
-internal_id: "C42828101"
-label_id: "16900244"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049186/2025-07-03/0"
-intitule_bron: "Stcrt.2023-35445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-21"
-intitule_published: "2023-12-28"
-intitule_in_force: "2023-12-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-35445"
-original_signed_date: "2023-12-21"
-original_published_date: "2023-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-35445"
-entry_into_force_date: "2024-01-01"
-jci_1_3: "jci1.3:c:BWBR0049186&z=2025-07-03&g=2025-07-03"
-jci_1_0: "1.0:c:BWBR0049186&g=2025-07-03"
-citeertitel_status: "officieel"
-short_title: "Besluit aanwijzing toezichthouders Omgevingswet"
-signed_date: "2023-12-21"
-entry_into_force: "2024-01-01"
+publicatiedatum: 2024-01-01
+laatste_update: 2025-07-03
+status: geldig
+toestand: 2025-07-03
+bron: "https://wetten.overheid.nl/BWBR0049186"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 21 december 2023, tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Omgevingswet (Besluit aanwijzing toezichthouders Omgevingswet)
-
-Handelende in overeenstemming met de Minister van Infrastructuur en Waterstaat, de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister voor Natuur en Stikstof, de Staatssecretaris van Economische Zaken en Klimaat en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
-
-Gelet op de [artikelen 18.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6), en [18.7 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.7);
-
-Besluit:
 
 ### Hoofdstuk 1. Aanwijzing van toezichthouders
 
@@ -94,9 +66,9 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 - g. gedoogplichten, bedoeld in [artikelen 10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.2), [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.3) en [10.17 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=10.17);
 
-- h. peilbesluiten, bedoeld in artikel 13.1, eerste lid aanhef en onderdeel d, subonderdeel 2°;
+- h. peilbesluiten, bedoeld in artikel 13.1, eerste lid aanhef en onderdeel d, subonderdeel 2°;
 
-met dien verstande dat de aanwijzing, bedoeld in de aanhef en onder b tot en met d en f, niet van toepassing is voor zover het betreft activiteiten die worden verricht door Rijkswaterstaat.
+met dien verstande dat de aanwijzing, bedoeld in de aanhef en onder b tot en met d en f, niet van toepassing is voor zover het betreft activiteiten die worden verricht door Rijkswaterstaat.
 
 5. Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) de bestuursrechtelijke handhavingstaak berust bij de Minister van Infrastructuur en Waterstaat, worden aangewezen diegenen die werkzaam zijn voor het Staatstoezicht op de Mijnen ten aanzien van het bepaalde bij of krachtens de [paragrafen 7.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=7.2.3) en [7.2.4 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=7.2.4).
 
@@ -124,6 +96,12 @@ met dien verstande dat de aanwijzing, bedoeld in de aanhef en onder b tot en met
 
 #### § 1.3a. Minister voor Klimaat en Energie
 
+##### Artikel 3a
+
+Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) de bestuursrechtelijke handhavingstaak berust bij de Minister voor Klimaat en Energie, worden aangewezen diegenen die werkzaam zijn voor de Rijksdienst voor Ondernemend Nederland.
+
+#### § 1.4. Minister van Landbouw, Natuur en Voedselkwaliteit
+
 ##### Artikel 4
 
 Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) de bestuursrechtelijke handhavingstaak berust bij de Minister van Landbouw, Natuur en Voedselkwaliteit, worden aangewezen:
@@ -134,7 +112,7 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 - c. diegenen die werkzaam zijn voor de Nederlandse Voedsel- en Warenautoriteit, met uitzondering van de personen, bedoeld onder a.
 
-#### § 1.4. Minister van Landbouw, Natuur en Voedselkwaliteit
+#### § 1.5. Minister voor Natuur en Stikstof
 
 ##### Artikel 5
 
@@ -148,7 +126,7 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 2. In afwijking van het eerste lid worden als personen belast met het toezicht op de naleving van het bepaalde in de [artikelen 11.87 tot en met 11.91 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.87) aangewezen de heer R. van de Mortel, burgemeester van de gemeente Vught, en de heer R. Jager, burgemeester van de gemeente Westerveld.
 
-#### § 1.5. Minister voor Natuur en Stikstof
+#### § 1.6. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 6
 
@@ -162,13 +140,13 @@ Als personen belast met het toezicht op de naleving van het bepaalde bij of krac
 
 De personen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.3&artikel=3&z=2025-07-03&g=2025-07-03), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in [artikel 5.1, eerste lid, aanhef en onder a, c en d, en tweede lid, aanhef en onder b tot en met f, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), voor zover deze activiteiten betrekking hebben op gevaarlijke stoffen.
 
-#### § 2.1. Minister van Infrastructuur en Waterstaat
+#### § 2.2. Minister voor Natuur en Stikstof
 
 ##### Artikel 8
 
 De personen, bedoeld in [artikel 5, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0049186&hoofdstuk=1&paragraaf=1.5&artikel=5&z=2025-07-03&g=2025-07-03), belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), zijn bevoegd, met medeneming van de benodigde apparatuur, een woning te betreden zonder toestemming van de bewoner, ten aanzien van de activiteiten, bedoeld in de [artikelen 11.32](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.32), [11.38](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.38), [11.39](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), [11.47](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), [11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96), [11.101](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101), [11.102](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.102), [11.105](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.105), [11.106](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.106), [11.108](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.108), [11.109a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.109a) en [11.110 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.110).
 
-#### § 2.2. Minister voor Natuur en Stikstof
+#### § 2.3. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 9
 
@@ -186,32 +164,16 @@ Het [Besluit aanwijzing toezichthouders water- en wegbeheer](https://wetten.over
 
 ##### Artikel 11
 
-Wijzigt de Aanwijzingsregeling ambtenaren toezicht Mijnbouwwet.
+*Wijzigt de Aanwijzingsregeling ambtenaren toezicht Mijnbouwwet.*
 
 ##### Artikel 12
 
-Wijzigt het Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.
+*Wijzigt het Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk.*
 
 ##### Artikel 13
 
-Dit besluit treedt in werking met ingang van 1 januari 2024.
+Dit besluit treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Omgevingswet.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-Als personen belast met het toezicht op de naleving van het bepaalde bij of krachtens de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885), waarvoor op grond van [paragraaf 18.1.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&paragraaf=18.1.1) de bestuursrechtelijke handhavingstaak berust bij de Minister voor Klimaat en Energie, worden aangewezen diegenen die werkzaam zijn voor de Rijksdienst voor Ondernemend Nederland.
-
-#### § 1.6. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 2. Bevoegdheid van toezichthouders tot het binnentreden van een woning
-
-#### § 2.3. Staatssecretaris van Onderwijs, Cultuur en Wetenschap
-
-### Hoofdstuk 3. Slotbepalingen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

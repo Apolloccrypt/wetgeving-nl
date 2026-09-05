@@ -8,7 +8,7 @@ laatste_update: 2026-06-12
 status: geldig
 toestand: 2026-06-12
 bron: "https://wetten.overheid.nl/BWBV0005507"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-05
 ---
 
 # Verdrag inzake de internationale burgerluchtvaart

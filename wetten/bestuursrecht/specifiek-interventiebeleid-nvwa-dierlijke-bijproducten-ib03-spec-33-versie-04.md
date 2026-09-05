@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA dierlijke bijproducten (IB03-SPEC 33, versie 04)"
+citeertitel: "Specifiek interventiebeleid NVWA dierlijke bijproducten (IB03-SPEC 33, versie 04)"
 identifier: "BWBR0049216"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-01-13"
-last_updated: "2024-01-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049216"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "16995903"
-version_id: "29890762"
-internal_id: "C42854441"
-label_id: "16906314"
-dtd_version: "2.0"
-original_entry_into_force: "2024-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049216/2024-01-13/0"
-intitule_bron: "Stcrt.2024-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-12-19"
-intitule_published: "2024-01-12"
-intitule_in_force: "2024-01-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-203"
-original_signed_date: "2023-12-19"
-original_published_date: "2024-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-203"
-entry_into_force_date: "2024-01-13"
-jci_1_3: "jci1.3:c:BWBR0049216&z=2024-01-13&g=2024-01-13"
-jci_1_0: "1.0:c:BWBR0049216&g=2024-01-13"
-citeertitel_status: "officieel"
-short_title: "Specifiek interventiebeleid NVWA dierlijke bijproducten (IB03-SPEC 33, versie 04)"
-signed_date: "2023-12-19"
-entry_into_force: "2024-01-13"
+publicatiedatum: 2024-01-13
+laatste_update: 2024-01-13
+status: geldig
+toestand: 2024-01-13
+bron: "https://wetten.overheid.nl/BWBR0049216"
+opgehaald: 2026-09-05
 ---
+
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 december 2023 tot vaststelling van het Specifiek interventiebeleid NVWA dierlijke bijproducten (IB03-SPEC 33, versie 04)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,
@@ -58,6 +36,22 @@ Voor de algemene definities wordt verwezen naar het [Algemeen interventiebeleid 
 
 De wettelijke basis voor het Specifiek interventiebeleid NVWA dierlijke bijproducten is:
 
+- − Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (verordening dierlijke bijproducten);
+
+- − Verordening (EU) nr. 142/2011 van de Commissie van 25 februari 2011 tot uitvoering van Verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot uitvoering van Richtlijn 97/78/EG van de Raad wat betreft bepaalde monsters en producten die vrijgesteld zijn van veterinaire controles aan de grens krachtens die richtlijn;
+
+- − Verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën, in het bijzonder de artikelen 7 en 8, in samenhang met bijlage IV en bijlage V, punt 3;
+
+- − De [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250), in het bijzonder de [artikelen 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.4), en [6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2);
+
+- − Het [Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335), in het bijzonder [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&hoofdstuk=3);
+
+- − Het [Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346), in het bijzonder [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.1);
+
+- − De [Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462), in het bijzonder [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3);
+
+- − De [Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123), in het bijzonder [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=7).
+
 ### 3. Werkwijze
 
 ### 3.1. Het bepalen van de ernst van de overtreding
@@ -65,6 +59,10 @@ De wettelijke basis voor het Specifiek interventiebeleid NVWA dierlijke bijprodu
 Overtredingen worden ingedeeld naar de klassen zoals gedefinieerd in het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215).
 
 Bij de indeling in de klassen is beoordeeld in hoeverre een overtreding een (risico op) een gevaar kan vormen voor de volks- of diergezondheid of het milieu. Daarbij zijn de volgende overwegingen meegenomen:
+
+- − Is er sprake van een incidentele of structurele overtreding? Tegen een structurele overtreding kunnen andere interventies nodig zijn dan tegen een incidentele overtreding.
+
+- − Een aantal wettelijke normen in de [bijlage](https://wetten.overheid.nl/BWBR0049216) zijn in meerdere klassen zwaar, middelzwaar en/of licht ingedeeld omdat de ernst van de overtreding afhankelijk is van de feiten en omstandigheden van het geval. De inspecteur zal op basis van de feiten en de risicoafweging die klasse hanteren die bij die risico inschaling hoort.
 
 Overtredingen uit de klasse zwaar zijn overtredingen met een (risico op) een ernstig gevaar voor de volks- of diergezondheid of het milieu.
 
@@ -78,28 +76,42 @@ In de bijlage van dit document zijn de klasseindeling, interventiegrenzen en spe
 
 De [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) kan zowel bestuurs- als strafrechtelijk worden gehandhaafd.
 
+Bestraffende sancties
+
 Overtredingen van de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) worden doorgaans bestuurlijk beboet. Indien de ernst van de overtreding of de omstandigheden waaronder deze is begaan daartoe aanleiding geven, legt de NVWA deze aan het Openbaar Ministerie voor. Dit volgt uit [artikel 8.10, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.10). Het Openbaar Ministerie beslist of het overgaat tot strafrechtelijke afdoening. Afgezien van de in [artikel 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.11) genoemde overtredingen is strafrechtelijke afdoening niet voorbehouden aan een vooraf aan te geven overtreding van een bepaald voorschrift, maar kan in beginsel bij alle overtredingen van de bij of krachtens de Wet dieren gestelde voorschriften noodzakelijk zijn.
 
-De kolommen ‘interventie bij eerste overtreding’ en ‘interventie bij herhaalde overtreding’ in de bijlage van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op de inhoud van de interventiematrix.
+De kolommen ‘interventie bij eerste overtreding’ en ‘interventie bij herhaalde overtreding’ in de [bijlage](https://wetten.overheid.nl/BWBR0049216) van dit document vermelden uitsluitend de bestuurlijke boete als bestraffende sanctie die doorgaans wordt toegepast. Dit laat onverlet dat, als een overtreding zowel bestuursrechtelijk als strafrechtelijk kan worden afgedaan, op grond van de specifieke feiten en omstandigheden kan worden besloten om in plaats van een bestuurlijke boete een proces verbaal op te maken ten behoeve van strafrechtelijke afdoening. Op voorhand is niet in de bijlage aan te geven wanneer wordt overgegaan tot een strafrechtelijke bestraffende sanctie. Daarom vormt deze paragraaf een aanvulling op de inhoud van de interventiematrix.
 
 ### 3.3. Herhaalde overtreding en herinspectie
 
+Herhaalde overtreding
+
+Bedrijven met hoogfrequent toezicht
+
 Er is sprake van een herhaalde overtreding wanneer tijdens een (her)inspectie opnieuw een overtreding van dezelfde wettelijke norm wordt vastgesteld, die bij de overtreder binnen de daaraan voorafgaande periode van 6 maanden eerder is geconstateerd.
 
+Overige bedrijven
+
 Er is sprake van een herhaalde overtreding wanneer tijdens een (her)inspectie opnieuw een overtreding van dezelfde wettelijke norm wordt vastgesteld, die bij de overtreder binnen de daaraan voorafgaande periode van 2 jaar eerder is geconstateerd.
+
+Herinspectie
 
 Na het constateren van een zware of middelzware overtreding kan een extra inspectie worden uitgevoerd om na te gaan of gemaakte afspraken over het opheffen van de overtreding zijn nagekomen.
 
 ### 4. Divers
 
-Deze beleidsregel vervangt het op 17 juli 2020 vastgestelde [Specifiek interventiebeleid NVWA dierlijke bijproducten (IB02-SPEC 33, versie 03)](https://wetten.overheid.nl/jci1.3:c:BWBR0043983). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215)).
+Vervanging
+
+Deze beleidsregel vervangt het op 17 juli 2020 vastgestelde [Specifiek interventiebeleid NVWA dierlijke bijproducten (IB02-SPEC 33, versie 03)](https://wetten.overheid.nl/jci1.3:c:BWBR0043983). Hiermee wordt de inhoud van de beleidsregel in overeenstemming gebracht met het [Algemeen interventiebeleid NVWA 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049215)).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘Specifiek interventiebeleid NVWA dierlijke bijproducten (IB03-SPEC 33, versie 04)’.
 
+Inwerkingtreding
+
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-De bijlage van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit ([www.nvwa.nl/interventiebeleid](onbekend)).
+Bijlage
 
-## Bijlage
-
-Gepubliceerd op www.nvwa.nl/interventiebeleid.
+De [bijlage](https://wetten.overheid.nl/BWBR0049216) van deze beleidsregel is te vinden op de website van de Nederlandse Voedsel- en Warenautoriteit (www.nvwa.nl/interventiebeleid).

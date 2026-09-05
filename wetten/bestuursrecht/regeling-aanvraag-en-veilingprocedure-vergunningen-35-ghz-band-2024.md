@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. WJZ/ 43374524, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 3,5 GHz-band ten behoeve van mobiele communicatietoepassingen en tot wijziging van de Capregeling frequenties mobiele communicatie 2020 en de Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2024 (Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024)"
+citeertitel: "Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024"
 identifier: "BWBR0049372"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049372"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17032193"
-version_id: "29968522"
-internal_id: "C42963341"
-label_id: "16942404"
-dtd_version: "2.0"
-original_entry_into_force: "2024-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049372/2024-07-01/0"
-intitule_bron: "Stcrt.2024-3831"
-intitule_effect: "nieuw"
-intitule_signed: "2024-02-02"
-intitule_published: "2024-02-14"
-intitule_in_force: "2024-02-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-3831"
-original_signed_date: "2024-02-02"
-original_published_date: "2024-02-14"
-original_effect: "nieuw"
-original_url_id: "stcrt-2024-3831"
-entry_into_force_date: "2024-02-15"
-jci_1_3: "jci1.3:c:BWBR0049372&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049372&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024"
-signed_date: "2024-02-02"
-entry_into_force: "2024-02-15"
+publicatiedatum: 2024-02-15
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049372"
+opgehaald: 2026-09-05
 ---
+
 # Regeling van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. WJZ/ 43374524, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 3,5 GHz-band ten behoeve van mobiele communicatietoepassingen en tot wijziging van de Capregeling frequenties mobiele communicatie 2020 en de Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2024 (Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024)
-
-Gelet op [artikel 3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8),[9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10), en [artikel 5 van het Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,45 +20,46 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **3,5 GHz-band:** frequentieruimte binnen het frequentiebereik 3450–3750 MHz;
+- *3,5 GHz-band:* frequentieruimte binnen het frequentiebereik 3450–3750 MHz;
 
-- **aanvrager:** degene die een aanvraag om een vergunning heeft ingediend;
+- *aanvrager:* degene die een aanvraag om een vergunning heeft ingediend;
 
-- **bekendmakingsbesluit:** Besluit bekendmaking veiling vergunningen 3,5 GHz-band;
+- *bekendmakingsbesluit:* Besluit bekendmaking veiling vergunningen 3,5 GHz-band;
 
-- **bod:** bod als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=25&z=2024-07-01&g=2024-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=32&z=2024-07-01&g=2024-07-01) of [41](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=41&z=2024-07-01&g=2024-07-01), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
+- *bod:* bod als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=25&z=2024-07-01&g=2024-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=32&z=2024-07-01&g=2024-07-01) of [41](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=41&z=2024-07-01&g=2024-07-01), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem;
 
-- **deelnemer:** aanvrager die is toegelaten tot de veiling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=3&artikel=13&z=2024-07-01&g=2024-07-01);
+- *deelnemer:* aanvrager die is toegelaten tot de veiling als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=3&artikel=13&z=2024-07-01&g=2024-07-01);
 
-- **eerste deel van de primaire fase:** eerste deel van de primaire fase als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
+- *eerste deel van de primaire fase:* eerste deel van de primaire fase als bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
 
-- **exitbod:** exitbod als bedoeld in de [artikelen 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=25&z=2024-07-01&g=2024-07-01), en [32, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=32&z=2024-07-01&g=2024-07-01);
+- *exitbod:* exitbod als bedoeld in de [artikelen 25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=25&z=2024-07-01&g=2024-07-01), en [32, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=32&z=2024-07-01&g=2024-07-01);
 
-- **finale combinatie:** finale combinatie als bedoeld in [artikel 41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=41&z=2024-07-01&g=2024-07-01);
+- *finale combinatie:* finale combinatie als bedoeld in [artikel 41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=41&z=2024-07-01&g=2024-07-01);
 
-- **gebruiken van frequentieruimte:** gebruiken van frequentieruimte als bedoeld in [artikel 1 van de Capregeling mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=1);
+- *gebruiken van frequentieruimte:* gebruiken van frequentieruimte als bedoeld in [artikel 1 van de Capregeling mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=1);
 
-- **gekwalificeerde elektronische handtekening:** handtekening als bedoeld in artikel 3, twaalfde lid, van [Verordening (EU) nr. 910/2014](32014R0910) (Pb L 257/73);
+- *gekwalificeerde elektronische handtekening:* handtekening als bedoeld in artikel 3, twaalfde lid, van Verordening (EU) nr. 910/2014 (Pb L 257/73);
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **primaire fase:** primaire fase van de veiling als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
+- *primaire fase:* primaire fase van de veiling als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
 
-- **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
+- *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
 
-- **toewijzingsfase:** toewijzingsfase van de veiling als bedoeld in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
+- *toewijzingsfase:* toewijzingsfase van de veiling als bedoeld in [artikel 15, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
 
-- **tweede deel van de primaire fase:** tweede deel van de primaire fase als bedoeld in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
+- *tweede deel van de primaire fase:* tweede deel van de primaire fase als bedoeld in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=15&z=2024-07-01&g=2024-07-01);
 
-- **verbonden rechtspersoon:** rechtspersoon als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3);
+- *verbonden rechtspersoon:* rechtspersoon als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3);
 
-- **vergunning:** vergunning voor het gebruik van frequentieruimte in de 3,5 GHz-band voor mobiele communicatie, als omschreven in de bijlagen 1 en 2 van het bekendmakingsbesluit;
+- *vergunning:* vergunning voor het gebruik van frequentieruimte in de 3,5 GHz-band voor mobiele communicatie, als omschreven in de bijlagen 1 en 2 van het bekendmakingsbesluit;
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- **winnend bod:** bod of exitbod dat als winnend bod is aangemerkt als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-07-01&g=2024-07-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=35&z=2024-07-01&g=2024-07-01);
+- *winnend bod:* bod of exitbod dat als winnend bod is aangemerkt als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=2&artikel=28&z=2024-07-01&g=2024-07-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=3&artikel=35&z=2024-07-01&g=2024-07-01);
 
-- **winnende deelnemer:** deelnemer wiens bod of exitbod door de minister is aangemerkt als winnend bod.
+- *winnende deelnemer:* deelnemer wiens bod of exitbod door de minister is aangemerkt als winnend bod.
 
 ##### Artikel 2. Beschikbare vergunningen
 
@@ -114,7 +89,7 @@ In deze regeling wordt verstaan onder:
 
 - a. per versleutelde e-mail of e-mail op het volgende emailadres: Veiling3.5GHz@rdi.nl, of
 
-- b. per aangetekende post of persoonlijke overhandiging op het volgende adres en met de volgende adressering: Rijksinspectie Digitale Infrastructuur Ter attentie van: veilingteam 3,5 GHz-band Emmasingel 1 9726 AH Groningen.
+- b. per aangetekende post of persoonlijke overhandiging op het volgende adres en met de volgende adressering: Rijksinspectie Digitale Infrastructuur Ter attentie van: veilingteam 3,5 GHz-band Emmasingel 1 9726 AH Groningen.
 
 3. De persoonlijke overhandiging, bedoeld in het tweede lid, onderdeel b, vindt in de genoemde periode plaats op werkdagen tussen 8:30 uur en 17:00 uur. Bij persoonlijke overhandiging van de aanvraag wordt een bewijs van ontvangst afgegeven dat is voorzien van datum en tijdstip van ontvangst en ondertekening.
 
@@ -168,9 +143,9 @@ De aanvrager informeert de minister onmiddellijk per versleutelde e-mail of e-ma
 
 1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van:
 
-- a. € 19.610.000,-, indien de aanvrager wil deelnemen aan het eerste deel van de primaire fase of aan beide delen van de primaire fase;
+- a. € 19.610.000,-, indien de aanvrager wil deelnemen aan het eerste deel van de primaire fase of aan beide delen van de primaire fase;
 
-- b. € 2.180.000,-, indien de aanvrager slechts wil deelnemen aan het tweede deel van de primaire fase.
+- b. € 2.180.000,-, indien de aanvrager slechts wil deelnemen aan het tweede deel van de primaire fase.
 
 2. De waarborgsom wordt verstrekt voor de periode tot en met:
 
@@ -182,7 +157,7 @@ De aanvrager informeert de minister onmiddellijk per versleutelde e-mail of e-ma
 
 3. Een aanvrager zorgt ervoor dat uiterlijk op het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01), bedoelde tijdstip:
 
-- a. de waarborgsom is ontvangen op bankrekeningnummer NL41 INGB 0705 0011 99, ten name van: Ministerie van Economische Zaken en Klimaat, Rijksinspectie Digitale Infrastructuur, onder vermelding van ‘Veiling vergunningen 3,5 GHz-band’, of
+- a. de waarborgsom is ontvangen op bankrekeningnummer NL41 INGB 0705 0011 99, ten name van: Ministerie van Economische Zaken en Klimaat, Rijksinspectie Digitale Infrastructuur, onder vermelding van ‘Veiling vergunningen 3,5 GHz-band’, of
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in bijlage 2, is ontvangen op het in [artikel 3, tweede lid, onderdelen a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01), genoemde adres.
 
@@ -302,9 +277,9 @@ De veiling wordt uitsluitend gehouden op werkdagen.
 
 - b. telefonisch of per beveiligde e-mail, waarbij:
 
-- 1⁰. de deelnemer bereikbaar is op het door hem in zijn aanvraag opgegeven telefoonnummer en e-mailadres met bijbehorende publieke beveiligingssleutel, en
+   - 1⁰. de deelnemer bereikbaar is op het door hem in zijn aanvraag opgegeven telefoonnummer en e-mailadres met bijbehorende publieke beveiligingssleutel, en
 
-- 2⁰. de minister bereikbaar is op het telefoonnummer en e-mailadres met publieke beveiligingssleutel, bedoeld in [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=3&artikel=14&z=2024-07-01&g=2024-07-01).
+   - 2⁰. de minister bereikbaar is op het telefoonnummer en e-mailadres met publieke beveiligingssleutel, bedoeld in [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=3&artikel=14&z=2024-07-01&g=2024-07-01).
 
 ##### Artikel 20. Bijzondere omstandigheden tijdens de veiling
 
@@ -364,7 +339,7 @@ Deze paragraaf is van toepassing op de vergunningen, bedoeld in [artikel 2, eers
 
 3. Het aantal, bedoeld in het tweede lid, is ten hoogste één vergunning.
 
-4. De prijs in de eerste biedronde is € 39.220.000,- per vergunning.
+4. De prijs in de eerste biedronde is € 39.220.000,- per vergunning.
 
 5. De minister bepaalt de prijs in de tweede en daaropvolgende biedronden.
 
@@ -454,7 +429,7 @@ Vóór aanvang van het tweede deel van de primaire fase deelt de minister aan el
 
 2. Een bod bestaat uit het aantal vergunningen dat een deelnemer voor de in de biedronde bepaalde prijs wenst te verwerven.
 
-3. De prijs in de eerste biedronde is € 4.360.000,- per vergunning.
+3. De prijs in de eerste biedronde is € 4.360.000,- per vergunning.
 
 4. De minister bepaalt de prijs in de tweede en daaropvolgende biedronden.
 
@@ -472,9 +447,9 @@ Vóór aanvang van het tweede deel van de primaire fase deelt de minister aan el
 
 - b. een bedrag in hele euro’s per vergunning dat:
 
-- 1⁰. gelijk is aan, of hoger is dan, de prijs per vergunning die de minister heeft bepaald voor de voorafgaande biedronde, en
+   - 1⁰. gelijk is aan, of hoger is dan, de prijs per vergunning die de minister heeft bepaald voor de voorafgaande biedronde, en
 
-- 2⁰. lager is dan de prijs per vergunning die de minister heeft bepaald voor de biedronde waarin de deelnemer zijn bod verlaagt.
+   - 2⁰. lager is dan de prijs per vergunning die de minister heeft bepaald voor de biedronde waarin de deelnemer zijn bod verlaagt.
 
 10. Indien een deelnemer in een biedronde meerdere exitbiedingen uitbrengt, is het bedrag per vergunning, bedoeld in het negende lid, onderdeel b, behorende bij een exitbod, niet hoger dan het bedrag per vergunning van een in dezelfde ronde uitgebracht exitbod op een kleiner aantal vergunningen.
 
@@ -540,7 +515,7 @@ De minister maakt zo spoedig mogelijk na het einde van het tweede deel van de pr
 
 - b. de frequentieruimte van iedere winnende deelnemer is aaneengesloten, en
 
-- c. de frequentieruimte van onverdeelde vergunningen is aaneengesloten en grenst aan de bovengrens van de 3,5 GHz-band.
+- c. de frequentieruimte van onverdeelde vergunningen is aaneengesloten en grenst aan de bovengrens van de 3,5 GHz-band.
 
 ##### Artikel 38. Geen veiling toewijzingsfase indien niet meer dan één combinatie mogelijk is
 
@@ -588,9 +563,9 @@ Alle winnende deelnemers zijn toegelaten tot de toewijzingsfase.
 
 - a. bestaat uit het verschil tussen:
 
-- 1⁰. de som van de biedingen van de andere deelnemers in de combinatie van winnende biedingen die de hoogste opbrengst zou hebben wanneer de biedingen van de betreffende deelnemer buiten beschouwing zouden worden gelaten, en
+   - 1⁰. de som van de biedingen van de andere deelnemers in de combinatie van winnende biedingen die de hoogste opbrengst zou hebben wanneer de biedingen van de betreffende deelnemer buiten beschouwing zouden worden gelaten, en
 
-- 2⁰. de som van de biedingen van de andere deelnemers in de finale combinatie van winnende biedingen;
+   - 2⁰. de som van de biedingen van de andere deelnemers in de finale combinatie van winnende biedingen;
 
 - b. voldoet aan de voorwaarden, bedoeld in bijlage 3.
 
@@ -666,318 +641,16 @@ De minister deelt de winnende deelnemers zo spoedig mogelijk na het bepalen van 
 
 ##### Artikel 49. Wijziging Capregeling frequenties mobiele communicatie 2020
 
-Wijzigt de Capregeling frequenties mobiele communicatie 2020.
+*Wijzigt de Capregeling frequenties mobiele communicatie 2020.*
 
 ##### Artikel 50. Wijziging Regeling vergoedingen Rijksinspectie Digitale Infrastructuur
 
-Wijzigt de Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2024.
+*Wijzigt de Regeling vergoedingen Rijksinspectie Digitale Infrastructuur 2024.*
 
 ##### Artikel 51. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=6&artikel=50&z=2024-07-01&g=2024-07-01), dat in werking treedt met ingang van 1 juli 2024.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=6&artikel=50&z=2024-07-01&g=2024-07-01), dat in werking treedt met ingang van 1 juli 2024.
 
 ##### Artikel 52. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024.
-
-## Bijlage 1. Als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-07-01&g=2024-07-01)
-
-### Model aanvraagformulier
-
-**Onderdeel A**
-
-**A.1. Algemeen**
-
-**A.1.1. Gegevens aanvrager**
-
-Statutaire naam aanvrager: ..........
-
-Correspondentieadres, postcode en plaatsnaam aanvrager:
-
-(Adres waarop aanvrager aangetekende poststukken ontvangt)
-
-Fysiek adres, postcode en plaatsnaam aanvrager:
-
-(Adres aanvrager voor persoonlijke overhandiging vertrouwelijke veilingstukken)
-
-Nummer van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..........
-
-Land van inschrijving in het handelsregister of daarmee vergelijkbaar register: ..........
-
-Beherende instantie van het handelsregister of daarmee vergelijkbaar register: ..........
-
-**A.1.2. Contactgegevens aanvrager tijdens de veiling (artikel 19)**
-
-Het telefoonnummer waarop de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is: ..........
-
-Het e-mailadres waarop de vertegenwoordigingsbevoegde tijdens de veiling bereikbaar is en de bijbehorende publieke beveiligingssleutel:
-
-..........
-
-Verstrek de publieke beveiligingssleutel via Veiling3.5GHz@rdi.nl
-
-**A.1.3. Verklaring ontvangst elektronische berichten tijdens de aanvraagprocedure en vergunningverlening**
-
-Kruis aan indien van toepassing:
-
-**A.1.4. Recent uittreksel uit het handelsregister**
-
-**A2. Vertegenwoordigingsbevoegdheid**
-
-Opgave van degene(n) die volledig zelfstandig bevoegd zijn (is) om de aanvrager rechtsgeldig te vertegenwoordigen in verband met deze aanvraag en alle handelingen gedurende de veilingprocedure:
-
-**A.2.1. Functionaris 1**
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid:
-
-Bevoegdheid blijkt uit: ..........
-
-Handtekening: ..........
-
-**A.2.2. Functionaris 2**
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Bevoegdheid blijkt uit: ..........
-
-Handtekening..........
-
-**A.2.3. Functionaris 3**
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Bevoegdheid blijkt uit: ..........
-
-Handtekening..........
-
-**A.2.4. Functionaris 4**
-
-Naam: ..........
-
-Volledige voornamen: ..........
-
-Functie bij aanvrager: ..........
-
-Soort identiteitsbewijs: ..........
-
-Nummer identiteitsbewijs: ..........
-
-Vertegenwoordigingsbevoegdheid: ..........
-
-Bevoegdheid blijkt uit: ..........
-
-Handtekening..........
-
-Indien de vertegenwoordigingsbevoegdheid niet blijkt uit het handelsregister of een daarmee vergelijkbaar register, maar uit een volmacht, moet een kopie van de volmacht worden bijgevoegd.
-
-**A.3. Verbonden rechtspersonen**
-
-A.3.1 overzicht en bijbehorende informatie verbonden rechtspersonen
-
-Gebruik een bijlage en verstrek alle relevante bewijsstukken, waaronder ten minste:
-
-**A.3.2 Verklaring inzake verbondenheid**
-
-**A.3.2.1 Huidige situatie**
-
-Hierbij verklaart [aanvrager/moedermaatschappij(en) aanvrager*] dat geen enkele van de met de aanvrager verbonden rechtspersonen, als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3), tevens een aanvraag heeft ingediend.
-
-**A.3.2.2 Toekomstige situatie**
-
-Ook verklaart [aanvrager/moedermaatschappij(en) aanvrager*] hierbij dat geen enkele van de met de aanvrager verbonden rechtspersonen, als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3), tevens een aanvraag zal indienen op grond van deze Regeling.
-
-**A.3.2.3 Houders/gebruikers vergunningen mobiele communicatie**
-
-Tevens verklaart (aanvrager/moedermaatschappij(en) aanvrager*) dat uitsluitend de onderstaande met de aanvrager verbonden rechtspersonen als bedoeld in [artikel 3 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3) houder/gebruiker zijn van een vergunning voor het gebruik van frequentieruimte voor mobiele communicatie als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=1) van die Capregeling:
-
-...
-
-....
-
-...
-
-(Invullen de namen van de rechtspersonen die verbonden zijn met de aanvrager en houder/gebruiker zijn van vergunningen voor het gebruik van frequentieruimte voor mobiele communicatie als bedoeld in [artikel 1 van de Capregeling frequenties mobiele communicatie 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0040243&artikel=1))
-
-*in geval aanvrager onderdeel is van een concern dient de rechtspersoon die de zeggenschap heeft over het gehele concern waarvan de aanvrager onderdeel uit maakt deze verklaring af te geven.
-
-**A.4. Schriftelijke verklaring omtrent de juistheid van gegevens**
-
-A.4.1 De aanvrager is een rechtspersoon, opgericht in overeenstemming met het recht van een van de lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
-
-A.4.2 De aanvrager is wel/niet* ontbonden.
-
-A.4.3 De aanvrager is wel/niet* failliet verklaard.
-
-A.4.4 De aanvrager heeft wel/niet* eigen aangifte tot faillissement gedaan.
-
-A.4.5 Een verzoek tot faillissement van de aanvrager is wel/niet* ingediend.
-
-A.4.6 Aan de aanvrager is wel/geen* surseance van betaling verleend.
-
-A.4.7 De aanvrager heeft wel/geen* aanvraag tot surseance van betaling gedaan.
-
-A.4.8 Op de aanvrager rust wel/geen* verplichting om informatie als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=21&z=2024-07-01&g=2024-07-01), te delen met aandeelhouders.
-
-Indien een dergelijke verplichting op de aanvrager rust: wat is de grondslag voor deze verplichting en tot het delen van welke informatie is de aanvrager verplicht en op welk moment: ..........
-
-Verstrek het document waarin de verplichting tot het delen van informatie als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=21&z=2024-07-01&g=2024-07-01), is opgenomen. Indien dit niet in een document is vastgelegd maar anders is overeengekomen dient hier een schriftelijke verklaring over te worden verstrekt.
-
-A.4.9 De aanvrager heeft wel/geen* informatie als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=21&z=2024-07-01&g=2024-07-01), met aandeelhouders gedeeld.
-
-Indien informatie genoemd in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=1&artikel=21&z=2024-07-01&g=2024-07-01), is gedeeld: welke informatie en met wie:
-
-..........
-
-* doorhalen wat niet van toepassing is.
-
-**Verklaring notaris**
-
-Ondergetekende, notaris te.......... (plaatsnaam)
-
-Verklaart, zonder voorbehoud, dat:
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-(Gekwalificeerde elektronische) handtekening*
-
-..........
-
-De verklaring van de notaris mag desgewenst door middel van een bijlage, **in ongewijzigde tekst**, worden verstrekt.
-
-* In geval de verklaring van de notaris niet is voorzien van een gekwalificeerde elektronische handtekening, dient de originele schriftelijke verklaring van de notaris per aangetekende post of door persoonlijke overhandiging te worden ingediend op de wijze bedoeld in [artikel 3, tweede lid, en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01).
-
-**Onderdeel B**
-
-Aanvraag
-
-Ik vraag één of meer vergunningen aan in 3,5 GHz band en verzoek om toegelaten te worden tot
-
-voor het aantal MHz dat ik op grond van [artikel 3 van de capregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043243&artikel=3) mag verwerven.
-
-Ik dien hierbij wel/niet * een verzoek in om uitstel van betaling als bedoeld in [artikel 4:94 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94) ter grootte van de helft van het verschuldigde bedrag bedoeld in [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=5&paragraaf=2&artikel=46&z=2024-07-01&g=2024-07-01), voor de duur van één jaar gerekend vanaf de dag na verlening van de vergunning. Op grond van [artikel 4:101 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:101) is over dit deel wettelijke rente verschuldigd, te rekenen vanaf de datum waarop het bedrag op grond van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=5&paragraaf=2&artikel=46&z=2024-07-01&g=2024-07-01), dient te zijn betaald tot en met de datum waarop het bedrag wordt betaald.
-
-* doorhalen wat niet van toepassing is.
-
-Bestuurdersverklaring
-
-Ondergetekende* verklaart dat
-
-* Indien u niet bevoegd en/of gemachtigd bent om zelfstandig deze aanvraag te ondertekenen, dienen ook de andere bestuurders of gevolmachtigden deze aanvraag te ondertekenen.
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-(Gekwalificeerde elektronische) handtekening: ..........
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-(Gekwalificeerde elektronische) handtekening: ..........
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-(Gekwalificeerde elektronische) handtekening: ..........
-
-Naam: ..........
-
-Plaats: ..........
-
-Datum: ..........
-
-(Gekwalificeerde elektronische) handtekening: ..........
-
-## Bijlage 2. als bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=2&artikel=8&z=2024-07-01&g=2024-07-01)
-
-### Onderdeel A
-
-**Model bankgarantie**
-
-In aanmerking nemende:
-
-Plaats: ..........
-
-Datum: ..........
-
-Naam Bank en (gekwalificeerde elektronische) ondertekening**
-
-..........
-
-* hetgeen in het bovenstaande cursief is gedrukt moet door de Bank worden ingevuld.
-
-** In geval de bankgarantie niet is voorzien van een gekwalificeerde elektronische handtekening, dient de originele schriftelijke bankgarantie per aangetekende post of door persoonlijke overhandiging te worden ingediend op de wijze bedoeld in [artikel 3, tweede lid, en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01).
-
-### Onderdeel B
-
-**Model bank guarantee**
-
-Whereas:
-
-Town/city: ..........
-
-Date: ..........
-
-Name of Bank and (qualified electronic) signature**
-
-..........
-
-* the details shown in italics above are to be completed by the Bank.
-
-** If the bank guarantee does not include a qualified electronic signature, the original written bank guarantee must be submitted by registered mail or by delivery by hand in the manner referred to in [Article 3, second paragraph, and part b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01).
-
-## Bijlage 3. als bedoeld in [artikel 42, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=42&z=2024-07-01&g=2024-07-01)
-
-### Berekening extra prijzen
-
-Door toepassing van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0049372&hoofdstuk=4&paragraaf=4&artikel=42&z=2024-07-01&g=2024-07-01) zijn n winnende biedingen wb1, wb2, wb3,..., wbn bepaald, uitgebracht door de deelnemers w1, w2, w3,..., wn. Voor een winnende bieding wbi is het bedrag pi geboden. De totale opbrengst van de winnende biedingen wb1, wb2, wb3,..., wbn is gelijk aan T, ofwel
-
-De extra prijs wordt vastgesteld overeenkomstig het bepaalde onder 1 en 2:
-
-is minimaal.
-
-, met dien verstande dat:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024.
