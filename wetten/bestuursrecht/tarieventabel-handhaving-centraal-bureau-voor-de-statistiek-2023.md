@@ -1,40 +1,21 @@
 ---
 title: "Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023"
 identifier: "BWBR0049556"
-country: "nl"
-rank: "zbo"
-publication_date: "2023-04-04"
-last_updated: "2023-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049556"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17070363"
-version_id: "30038872"
-internal_id: "C43054131"
-label_id: "16979084"
-dtd_version: "2.0"
-original_entry_into_force: "2023-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049556/2023-04-04/0"
-intitule_bron: "Stcrt.2023-10003"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2023-04-04"
-intitule_in_force: "2023-04-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2023-10003"
-original_published_date: "2023-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2023-10003"
-entry_into_force_date: "2023-04-04"
-jci_1_3: "jci1.3:c:BWBR0049556&z=2023-04-04&g=2023-04-04"
-jci_1_0: "1.0:c:BWBR0049556&g=2023-04-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2023-04-04"
+publicatiedatum: 2023-04-04
+laatste_update: 2023-04-04
+status: geldig
+toestand: 2023-04-04
+bron: "https://wetten.overheid.nl/BWBR0049556"
+opgehaald: 2026-09-06
 ---
+
 # Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023
 
 ### Algemeen
 
-De wetgever heeft het tot stand komen van betrouwbare en actuele statistieken zo belangrijk geacht, dat het verstrekken van gegevens door ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen – onder nader bepaalde voorwaarden – wettelijk verplicht is gesteld. Tevens heeft de wetgever daarbij een wettelijke bevoegdheid aan de Directeur-generaal van de Statistiek verleend om in geval van het niet naleven van de responsverplichting een last onder dwangsom en/of bestuurlijke boete op te leggen aan de overtreder ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=43) en [51 van de CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=51)). In deze Tarieventabel Handhaving Centraal Bureau voor de Statistiek (verder: tarieventabel) wordt uitgewerkt hoe deze bevoegdheid wordt uitgeoefend.
+De wetgever heeft het tot stand komen van betrouwbare en actuele statistieken zo belangrijk geacht, dat het verstrekken van gegevens door ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen – onder nader bepaalde voorwaarden – wettelijk verplicht is gesteld. Tevens heeft de wetgever daarbij een wettelijke bevoegdheid aan de Directeur-generaal van de Statistiek verleend om in geval van het niet naleven van de responsverplichting een last onder dwangsom en/of bestuurlijke boete op te leggen aan de overtreder ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=43) en [51 van de CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=51)). In deze Tarieventabel Handhaving Centraal Bureau voor de Statistiek (verder: tarieventabel) wordt uitgewerkt hoe deze bevoegdheid wordt uitgeoefend.
 
 Het doel van de bestuursrechtelijke handhaving van de responsverplichting (verder: handhaving) is om de volledigheid van de respons binnen de wettelijke inzendtermijn van verplichte statistieken te verhogen. Dit bevordert de tijdigheid en kwaliteit van de CBS statistieken.
 
@@ -48,72 +29,181 @@ De bestuurlijke boete en de last onder dwangsom kunnen ook gezamenlijk worden op
 
 Deze tarieventabel is door de Directeur-generaal van de Statistiek vastgesteld en geldt na bekendmaking in de Staatscourant voor alle overtredingen van het niet nakomen van de responsverplichting die vanaf die datum door de handhavingsorganisatie worden geconstateerd.
 
+Last onder dwangsom
+
 De afdeling past bij de eerste geconstateerde overtreding het handhavingsinstrument van de last onder dwangsom toe. Hiermee wordt nadrukkelijk beoogd om de gevraagde gegevens alsnog te verkrijgen.
 
 De hoogte van de te verbeuren dwangsom is afhankelijk van:
+
+- • de omvang1Zie bijlage 1. van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de last onder dwangsom is opgelegd;
+
+- • de periode2De periode waarop de gegevens betrekking hebben, zijn een maand, een kwartaal, een half jaar en een jaar. Een 4-wekelijkse periode wordt gelijkgesteld met de periode maand. Een ½ -jaarlijkse periode wordt gelijk gesteld met een jaar. waarop de gevraagde gegevens betrekking hebben;
+
+- • het responsgedrag3Zie bijlage 2.;
+
+- • de inschrijving in het handelsregister van de Kamer van Koophandel4Indien een onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon binnen twaalf maanden voorafgaand aan de datum van de overtreding voor de eerste maal is ingeschreven in het handelsregister wordt de te verbeuren dwangsom verlaagd met 50%..
 
 De duur van de begunstigingstermijn5De begunstigingstermijn is de termijn waarbinnen de onderneming gelast wordt alsnog de gevraagde gegevens te verstrekken. bedraagt in alle gevallen 14 kalenderdagen.
 
 In de onderstaande tabellen zijn voor de verschillende categorieën de te verbeuren dwangsommen per dag alsmede de maximaal te verbeuren totale dwangsom weergegeven.
 
-De afdeling past bij een tweede of volgende geconstateerde overtreding het handhavingsinstrument van de bestuurlijke boete toe. De bestuurlijke boete bedraagt maximaal € 5.000,–.
+Categorieën aantal werkzame personen en dienstenverkeer met het buitenland
+
+| periode | maand |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 10 | 200 | 15 | 300 | 25 | 500 |
+| 1 | 15 | 300 | 20 | 400 | 35 | 700 |
+| 2 | 20 | 400 | 25 | 500 | 40 | 800 |
+| 3 | 30 | 600 | 35 | 700 | 50 | 1000 |
+| 4 | 45 | 900 | 55 | 1.100 | 80 | 1.600 |
+| 5 | 60 | 1.200 | 80 | 1.600 | 160 | 3.200 |
+| 6 | 120 | 2.400 | 150 | 3.000 | 250 | 5.000 |
+| 7 | 225 | 4.500 | 250 | 5.000 | 375 | 7.500 |
+| 8 | 350 | 7.000 | 400 | 8.000 | 500 | 10.000 |
+| 9 | 500 | 10.000 | 550 | 11.000 | 700 | 14.000 |
+
+| periode | kwartaal |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 15 | 300 | 20 | 400 | 30 | 600 |
+| 1 | 20 | 400 | 25 | 500 | 40 | 800 |
+| 2 | 25 | 500 | 30 | 600 | 50 | 1.000 |
+| 3 | 30 | 600 | 40 | 800 | 60 | 1.200 |
+| 4 | 50 | 1.000 | 65 | 1.300 | 90 | 1.800 |
+| 5 | 75 | 1.500 | 100 | 2.000 | 170 | 3.400 |
+| 6 | 120 | 2.400 | 175 | 3.500 | 260 | 5.200 |
+| 7 | 200 | 4.000 | 260 | 5.200 | 380 | 7.600 |
+| 8 | 350 | 7.000 | 425 | 8.500 | 550 | 11.000 |
+| 9 | 500 | 10.000 | 600 | 12.000 | 750 | 15.000 |
+
+| periode | jaar |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 20 | 400 | 30 | 600 | 40 | 800 |
+| 1 | 25 | 500 | 35 | 700 | 50 | 1.000 |
+| 2 | 30 | 600 | 45 | 900 | 60 | 1.200 |
+| 3 | 35 | 700 | 50 | 1.000 | 70 | 1.400 |
+| 4 | 60 | 1.200 | 75 | 1.500 | 100 | 2.000 |
+| 5 | 80 | 1.600 | 120 | 2.400 | 175 | 3.500 |
+| 6 | 125 | 2.500 | 180 | 3.600 | 300 | 6.000 |
+| 7 | 250 | 5.000 | 300 | 6.000 | 400 | 8.000 |
+| 8 | 400 | 8.000 | 450 | 9.000 | 600 | 12.000 |
+| 9 | 550 | 11.000 | 650 | 13.000 | 800 | 16.000 |
+
+Categorie goederenverkeer tussen EU-lidstaten
+
+| periode | maand |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 1 | 20 | 400 | 25 | 500 | 40 | 800 |
+| 2 | 30 | 600 | 35 | 700 | 50 | 1.000 |
+| 3 | 45 | 900 | 55 | 1.100 | 80 | 1.600 |
+| 4 | 60 | 1.200 | 80 | 1.600 | 160 | 3.200 |
+| 5 | 120 | 2.400 | 150 | 3.000 | 250 | 5.000 |
+| 6 | 225 | 4.500 | 250 | 5.000 | 375 | 7.500 |
+| 7 | 350 | 7.000 | 400 | 8.000 | 500 | 10.000 |
+| 8 | 500 | 10.000 | 550 | 11.000 | 700 | 14.000 |
+
+| periode | jaar |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 1 | 30 | 600 | 45 | 900 | 60 | 1.200 |
+| 2 | 35 | 700 | 50 | 1.000 | 70 | 1.400 |
+| 3 | 60 | 1.200 | 75 | 1.500 | 100 | 2.000 |
+| 4 | 80 | 1.600 | 120 | 2.400 | 175 | 3.500 |
+| 5 | 125 | 2.500 | 180 | 3.600 | 300 | 6.000 |
+| 6 | 250 | 5.000 | 300 | 6.000 | 400 | 8.000 |
+| 7 | 400 | 8.000 | 450 | 9.000 | 600 | 12.000 |
+| 8 | 550 | 11.000 | 650 | 13.000 | 800 | 16.000 |
+
+Categorie financiën van ondernemingen
+
+| periode | kwartaal |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 50 | 1.000 | 65 | 1.300 | 90 | 1.800 |
+| 1 | 75 | 1.500 | 100 | 2.000 | 170 | 3.400 |
+| 2 | 120 | 2.400 | 175 | 3.500 | 260 | 5.200 |
+| 3 | 200 | 4.000 | 260 | 5.200 | 380 | 7.600 |
+| 4 | 200 | 4.000 | 260 | 5.200 | 380 | 7.600 |
+| 5 | 350 | 7.000 | 425 | 8.500 | 550 | 11.000 |
+| 6 | 350 | 7.000 | 425 | 8.500 | 550 | 11.000 |
+| 7 | 500 | 10.000 | 600 | 12.000 | 750 | 15.000 |
+| 8 | 500 | 10.000 | 600 | 12.000 | 750 | 15.000 |
+
+| periode | jaar |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |  |  |  |
+| grootteklasse | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren | € per dag | maximaal te verbeuren |
+| 0 | 60 | 1.200 | 75 | 1.500 | 100 | 2.000 |
+| 1 | 80 | 1.600 | 120 | 2.400 | 175 | 3.500 |
+| 2 | 125 | 2.500 | 180 | 3.600 | 300 | 6.000 |
+| 3 | 250 | 5.000 | 300 | 6.000 | 400 | 8.000 |
+| 4 | 250 | 5.000 | 300 | 6.000 | 400 | 8.000 |
+| 5 | 400 | 8.000 | 450 | 9.000 | 600 | 12.000 |
+| 6 | 400 | 8.000 | 450 | 9.000 | 600 | 12.000 |
+| 7 | 550 | 11.000 | 650 | 13.000 | 800 | 16.000 |
+| 8 | 550 | 11.000 | 650 | 13.000 | 800 | 16.000 |
+
+Bestuurlijke boete
+
+De afdeling past bij een tweede of volgende geconstateerde overtreding het handhavingsinstrument van de bestuurlijke boete toe. De bestuurlijke boete bedraagt maximaal € 5.000,–.
 
 Bij de vaststelling van de hoogte van de bestuurlijke boete moet de afdeling onder andere het wettelijk boetemaximum, de toepasselijke bepalingen van [(hoofdstuk 5 van) de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5) en de algemene beginselen van behoorlijk bestuur in acht nemen. Met de tarieventabel beoogt de Directeur-generaal van de Statistiek inzicht te geven in de factoren die de hoogte van de bestuurlijke boete bepalen.
 
 De hoogte van de bestuurlijke boete is afhankelijk van:
 
+- • de omvang6Zie bijlage 1. van de onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon aan wie de bestuurlijke boete is opgelegd;
+
+- • het aantal overtredingen na de eerste overtreding7Herhaalde overtreding is het aantal overtredingen na de eerste overtreding waarbij geldt dat de beschikking die ten aanzien van de eerdere overtreding formele rechtskracht dient te hebben op het moment dat de volgende overtreding door de handhavingsorganisatie wordt geconstateerd. (herhaalde overtreding);
+
 In de onderstaande tabellen zijn voor de verschillende categorieën de bestuurlijke boete weergegeven.
 
-## Bijlage 1
+Categorieën aantal werkzame personen en dienstenverkeer met het buitenland
 
-De omvang van de onderneming of de ondernemingengroep wordt op de volgende wijze vastgesteld:
-
-- a). Indien het gegevens betreft niet vallend onder b, c of d, op basis van het aantal werkzame personen in een onderneming, ongeacht of zij in loondienst zijn of anderszins betaalde arbeid verrichten. Naast de werknemers in loondienst zijn dit dus ook de meewerkende eigenaren, firmanten en gezinsleden. Uitzendkrachten worden meegerekend bij de onderneming waar ze geregistreerd staan op de loonlijst. Uitgangspunt hierbij zijn onder meer gegevens verkregen van de Belastingdienst [opgaven voor de Loonbelasting en BTW] en het Handelsregister. Het aantal werkzame personen wordt berekend door alle banen (voltijd en deeltijd) om te rekenen naar voltijdbanen. De grootteklasse voor een onderneming gemeten in het aantal werkzame personen wordt jaarlijks in december of januari vastgesteld en wordt de daaropvolgende periode gehanteerd.
-
-- b). Indien het gevraagde gegevens betreft over dienstenverkeer met het buitenland, op basis van de totale waarde aan diensten die is geëxporteerd of de totale waarde aan diensten die is geïmporteerd. Hierbij is bepalend het totaal van de laatste 4 kwartalen, gerekend vanaf het kwartaal vóór het kwartaal waarover de statistiek wordt gemaakt. Uitgangspunt zijn de gegevens van de Belastingdienst (ICP-aangifte) en informatie uit eerder aan het CBS geleverde gegevens.
-
-- c). Indien het gevraagde gegevens betreft over goederenverkeer tussen EU-lidstaten, op basis van de totale waarde aan goederen die is geëxporteerd naar de EU of de totale waarde aan goederen die is geïmporteerd vanuit de EU. Hierbij is bepalend het totaal van een aaneengesloten periode van 12 maanden. Deze periode wordt geselecteerd uit de afgelopen 18 maanden, inclusief en gerekend vanaf de maand waarover de statistiek wordt gemaakt. Uitgangspunt zijn gegevens van de Belastingdienst (Btw-aangifte en ICP-aangifte) en informatie uit eerder aan het CBS geleverde gegevens.
-
-- d). Indien het gegevens betreft over de financiën van ondernemingen, op basis van het balanstotaal. Uitgangspunt zijn de meest actuele beschikbare gegevens verkregen van de Belastingdienst (vennootschapsbelasting), het Handelsregister (jaarverslagen) en eerder aan het CBS geleverde gegevens. De grootteklasse voor een berichtgever gemeten in het balanstotaal wordt jaarlijks in januari vastgesteld en wordt het gehele jaar gehanteerd.
-
-| Grootteklasse | Aantal werkzame personen | Totale waarde im- of export diensten in € |
+| grootteklasse | 1e herhaalde overtreding | 2e en elke volgende herhaalde overtreding |
 | --- | --- | --- |
-| 0 | 0 | – |
-| 1 | 1 | 0 – 99.999 |
-| 2 | 2 – 4 | 100.000 – 499.999 |
-| 3 | 5 – 9 | 500.000 – 999.999 |
-| 4 | 10 – 19 | 1.000.000 – 1.999.999 |
-| 5 | 20 – 49 | 2.000.000 – 3.999.999 |
-| 6 | 50 – 99 | 4.000.000 – 6.999.999 |
-| 7 | 100 – 199 | 7.000.000 – 19.999.999 |
-| 8 | 200 – 499 | 20.000.000 – 49.999.999 |
-| 9 | 500 en meer | 50.000.000 en meer |
+| 0 | 100 | 500 |
+| 1 | 200 | 750 |
+| 2 | 300 | 1.000 |
+| 3 | 400 | 1.500 |
+| 4 | 500 | 1.750 |
+| 5 | 600 | 2.500 |
+| 6 | 800 | 3.000 |
+| 7 | 1.000 | 3.500 |
+| 8 | 1.200 | 4.000 |
+| 9 | 1.600 | 5.000 |
 
-| Grootteklasse | Totale waarde im- of export goederen in € | Balanstotaal in € |
+Categorie goederenverkeer tussen EU-lidstaten
+
+| grootteklasse | 1e herhaalde overtreding | 2e en elke volgende herhaalde overtreding |
 | --- | --- | --- |
-| 0 | – | 0 – 39.999.000 |
-| 1 | 0 – 24.999 | 40.000.000 – 49.999.000 |
-| 2 | 25.000 – 99.999 | 50.000.000 – 74.999.000 |
-| 3 | 100.000 – 399.999 | 75.000.000 – 99.999.000 |
-| 4 | 400.000 – 1.499.999 | 100.000.000 – 149.999.000 |
-| 5 | 1.500.000 – 4.999.999 | 150.000.000 – 249.999.000 |
-| 6 | 5.000.000 – 24.999.999 | 250.000.000 – 499.999.000 |
-| 7 | 25.000.000 – 99.999.999 | 500.000.000 – 999.999.000 |
-| 8 | 100.000.000 en meer | 1.000.000.000 en meer |
-| 9 | – | – |
+| 1 | 300 | 1.000 |
+| 2 | 400 | 1.500 |
+| 3 | 500 | 1.750 |
+| 4 | 600 | 2.500 |
+| 5 | 800 | 3.000 |
+| 6 | 1.000 | 3.500 |
+| 7 | 1.200 | 4.000 |
+| 8 | 1.600 | 5.000 |
 
-## Bijlage 2
+Categorie financiën van ondernemingen
 
-Het responsgedrag is het aantal niet nagekomen responsverplichtingen in de periode voorafgaand aan de datum dat de overtreding door de afdeling Handhaving is geconstateerd. Deze periode verschilt per statistiek.
-
-| responsgedrag | Incidenteel niet | Regelmatig niet | Structureel niet |
-| --- | --- | --- | --- |
-| maand | 1 | 2 t/m 5 | 6 en meer |
-| kwartaal | 1 | 2 t/m 3 | 4 en meer |
-| jaar | 1 | 2 | 3 |
-
-|   | periode voorafgaand aan de datum van de overtreding |
-| --- | --- |
-| maand | 1 jaar |
-| kwartaal | 2 jaar |
-| jaar | 3 jaar |
+| grootteklasse | 1e herhaalde overtreding | 2e en elke volgende herhaalde overtreding |
+| --- | --- | --- |
+| 0 | 500 | 1.750 |
+| 1 | 600 | 2.500 |
+| 2 | 800 | 3.000 |
+| 3 | 1.000 | 3.500 |
+| 4 | 1.000 | 3.500 |
+| 5 | 1.200 | 4.000 |
+| 6 | 1.200 | 4.000 |
+| 7 | 1.600 | 5.000 |
+| 8 | 1.600 | 5.000 |

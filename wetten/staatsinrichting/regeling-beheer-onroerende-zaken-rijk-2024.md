@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 mei 2024, nr. 2024-0000249690, houdende bepalingen omtrent het materieelbeheer en privaatrechtelijk beheer van onroerende zaken van het Rijk (Regeling beheer onroerende zaken Rijk 2024)"
+citeertitel: "Regeling beheer onroerende zaken Rijk 2024"
 identifier: "BWBR0049701"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-12"
-last_updated: "2025-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049701"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17101993"
-version_id: "30098672"
-internal_id: "C43125351"
-label_id: "17010814"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049701/2025-11-12/0"
-intitule_bron: "Stcrt.2024-13638"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-13"
-intitule_published: "2024-05-14"
-intitule_in_force: "2024-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-13638"
-original_signed_date: "2024-05-13"
-original_published_date: "2024-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-13638"
-entry_into_force_date: "2024-05-15"
-jci_1_3: "jci1.3:c:BWBR0049701&z=2025-11-12&g=2025-11-12"
-jci_1_0: "1.0:c:BWBR0049701&g=2025-11-12"
-citeertitel_status: "officieel"
-short_title: "Regeling beheer onroerende zaken Rijk 2024"
-signed_date: "2024-05-13"
-entry_into_force: "2024-05-15"
+publicatiedatum: 2024-05-15
+laatste_update: 2025-11-12
+status: geldig
+toestand: 2025-11-12
+bron: "https://wetten.overheid.nl/BWBR0049701"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 13 mei 2024, nr. 2024-0000249690, houdende bepalingen omtrent het materieelbeheer en privaatrechtelijk beheer van onroerende zaken van het Rijk (Regeling beheer onroerende zaken Rijk 2024)
-
-Gelet op [artikel 4.20, vijfde lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **gebruiksgerechtigde:** natuurlijke persoon of rechtspersoon aan wie een nog lopend gebruiksrecht met betrekking tot een onroerende zaak van de Staat is verleend;
+- a. *gebruiksgerechtigde:* natuurlijke persoon of rechtspersoon aan wie een nog lopend gebruiksrecht met betrekking tot een onroerende zaak van de Staat is verleend;
 
-- b. **gebruiksrecht:** huurrecht, pachtrecht, erfpachtrecht, opstalrecht, recht van vruchtgebruik, recht van bruikleen of ander gebruiksrecht, verleend of te verlenen met betrekking tot een onroerende zaak waarvan de Staat rechthebbende is;
+- b. *gebruiksrecht:* huurrecht, pachtrecht, erfpachtrecht, opstalrecht, recht van vruchtgebruik, recht van bruikleen of ander gebruiksrecht, verleend of te verlenen met betrekking tot een onroerende zaak waarvan de Staat rechthebbende is;
 
-- c. **materieelbeheer:** zorg voor het onderhoud en de instandhouding van zaken vanaf het moment van inbeheer- of ingebruikneming tot aan het moment van afstoting;
+- c. *materieelbeheer:* zorg voor het onderhoud en de instandhouding van zaken vanaf het moment van inbeheer- of ingebruikneming tot aan het moment van afstoting;
 
-- d. **medeoverheid:** een gemeente, een provincie, een waterschap of een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of als bedoeld in [artikel 132a, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=132a);
+- d. *medeoverheid:* een gemeente, een provincie, een waterschap of een openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) of als bedoeld in [artikel 132a, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=132a);
 
-- e. **minister:** minister wie het aangaat.
+- e. *minister:* minister wie het aangaat.
 
 ### Hoofdstuk 2. Materieelbeheer van onroerende zaken van het rijk en de administraties die ten behoeve van dat beheer worden bijgehouden
 
@@ -184,11 +158,11 @@ De minister zorgt voor:
 
 - b. een medeoverheid om te voorzien in haar eigen huisvesting of de uitvoering van bij of krachtens de wet van haar gevorderd bestuur, voor zover de medeoverheid daarbij:
 
-- 1°. aantoont dat de overdracht van het eigendomsrecht noodzakelijk is voor haar eigen huisvesting of voor de uitvoering van bij of krachtens de wet gevorderd bestuur;
+   - 1°. aantoont dat de overdracht van het eigendomsrecht noodzakelijk is voor haar eigen huisvesting of voor de uitvoering van bij of krachtens de wet gevorderd bestuur;
 
-- 2°. verklaart dat zij de onroerende zaak bestendig in eigendom houdt en dat de onroerende zaak direct na de overname van het eigendomsrecht gebruikt wordt voor haar eigen huisvesting of voor de uitvoering van het onder 1° bedoelde bij of krachtens de wet gevorderde bestuur; en
+   - 2°. verklaart dat zij de onroerende zaak bestendig in eigendom houdt en dat de onroerende zaak direct na de overname van het eigendomsrecht gebruikt wordt voor haar eigen huisvesting of voor de uitvoering van het onder 1° bedoelde bij of krachtens de wet gevorderde bestuur; en
 
-- 3°. verklaart dat zij de overname van het eigendomsrecht volledig uit publieke middelen zal bekostigen.
+   - 3°. verklaart dat zij de overname van het eigendomsrecht volledig uit publieke middelen zal bekostigen.
 
 4. Een medeoverheid kan een schriftelijk verzoek tot vervreemding van onroerende zaken, als bedoeld in [artikel 6, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), ook indienen om deze als compensatiegrond aan te kunnen bieden aan een derde die zijn agrarisch bedrijf elders in eigendom overdraagt aan de betrokken medeoverheid in verband met een door die medeoverheid te realiseren nationaal beleidsdoel voor de fysieke leefomgeving.
 
@@ -250,11 +224,11 @@ De minister zorgt voor:
 
 - b. een medeoverheid om te voorzien in haar eigen huisvesting of de uitvoering van bij of krachtens de wet van haar gevorderd bestuur, voor zover die medeoverheid:
 
-- 1°. aantoont dat het verkrijgen van het gebruiksrecht door haar noodzakelijk is voor haar eigen huisvesting of voor de uitvoering van bij of krachtens de wet van haar gevorderd bestuur;
+   - 1°. aantoont dat het verkrijgen van het gebruiksrecht door haar noodzakelijk is voor haar eigen huisvesting of voor de uitvoering van bij of krachtens de wet van haar gevorderd bestuur;
 
-- 2°. verklaart dat zij het gebruiksrecht zal gebruiken voor haar eigen huisvesting of voor de uitvoering van het onder 1° bedoelde bij of krachtens wet van haar gevorderde bestuur; en
+   - 2°. verklaart dat zij het gebruiksrecht zal gebruiken voor haar eigen huisvesting of voor de uitvoering van het onder 1° bedoelde bij of krachtens wet van haar gevorderde bestuur; en
 
-- 3°. verklaart dat zij de prijs van het gebruiksrecht volledig uit publieke middelen zal bekostigen.
+   - 3°. verklaart dat zij de prijs van het gebruiksrecht volledig uit publieke middelen zal bekostigen.
 
 4. Een medeoverheid kan een schriftelijk verzoek tot verlening van een gebruiksrecht met betrekking tot onroerende zaken, als bedoeld in [artikel 6, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=2&artikel=6&z=2025-11-12&g=2025-11-12), ook indienen om het gebruiksrecht met betrekking tot de onroerende zaak ter compensatie aan te kunnen bieden aan een derde die zijn agrarisch bedrijf elders uitoefent op een onroerende zaak, als het gebruiksrecht van die derde daarop zal worden beëindigd in verband met een door die medeoverheid te realiseren nationaal beleidsdoel voor de fysieke leefomgeving.
 
@@ -267,6 +241,10 @@ De minister zorgt voor:
 8. De Minister van Volkshuisvesting en Ruimtelijke Ordening kan beslissen zonder openbare aanbieding een gebruiksrecht te verlenen met betrekking tot een onroerende zaak buiten Nederland die de Minister van Buitenlandse Zaken gebruikt voor de uitvoering van het beleid en de bedrijfsvoering die aan de begroting van deze minister ten grondslag liggen, onder bekendmaking van de criteria op basis waarvan verlening van een gebruiksrecht zonder openbare aanbieding geschiedt. In afwijking van het tweede lid kan de bekendmaking op een andere manier worden vormgegeven dan met een publicatie op [www.biedboek.nl](http://www.biedboek.nl). Een gebruiksrecht aan een derde wordt slechts verleend indien deze de enige serieuze gegadigde is.
 
 9. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049701&hoofdstuk=3&artikel=13&z=2025-11-12&g=2025-11-12) is, met uitzondering van het zesde lid, van overeenkomstige toepassing.
+
+##### Artikel 14a. Toezenden afschriften
+
+De Minister van Infrastructuur en Waterstaat zendt een afschrift van een aanvraag om een omgevingsvergunning, een melding en een omgevingsvergunning voor beperkingengebiedactiviteiten met betrekking tot een waterstaatswerk in beheer bij het Rijk, de Noordzee, en een weg in beheer bij het Rijk, bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=6), onderscheidenlijk [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=7), onderscheidenlijk [hoofdstuk 8 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=8), onverwijld aan de Minister van Volkshuisvesting en Ruimtelijke Ordening, voor zover de betreffende vergunningsaanvragen en meldingen betrekking hebben op onroerende zaken die in eigendom zijn van de Staat.
 
 ### Hoofdstuk 4. Slotbepalingen
 
@@ -288,9 +266,9 @@ De volgende besluiten en regelingen worden ingetrokken:
 
 - c. De [Regeling taken en werkwijze Raad voor Vastgoed Rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018406).
 
-##### Artikel 17. Wijzigingen [Besluit taak RVB 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040475)
+##### Artikel 17. Wijzigingen Besluit taak RVB 2017
 
-Wijzigt het Besluit taak RVB 2017.
+*Wijzigt het Besluit taak RVB 2017.*
 
 ##### Artikel 18. Inwerkingtreding
 
@@ -299,13 +277,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beheer onroerende zaken Rijk 2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 14a. Toezenden afschriften
-
-De Minister van Infrastructuur en Waterstaat zendt een afschrift van een aanvraag om een omgevingsvergunning, een melding en een omgevingsvergunning voor beperkingengebiedactiviteiten met betrekking tot een waterstaatswerk in beheer bij het Rijk, de Noordzee, en een weg in beheer bij het Rijk, bedoeld in [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=6), onderscheidenlijk [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=7), onderscheidenlijk [hoofdstuk 8 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&hoofdstuk=8), onverwijld aan de Minister van Volkshuisvesting en Ruimtelijke Ordening, voor zover de betreffende vergunningsaanvragen en meldingen betrekking hebben op onroerende zaken die in eigendom zijn van de Staat.
-
-### Hoofdstuk 4. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

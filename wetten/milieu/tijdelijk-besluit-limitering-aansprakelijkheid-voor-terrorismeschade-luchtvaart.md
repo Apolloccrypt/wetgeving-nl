@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 21 mei 2024, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 110 van Boek 6 van het Burgerlijk Wetboek (Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart)"
+citeertitel: "Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart"
 identifier: "BWBR0049743"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-23"
-last_updated: "2024-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049743"
+categorie: "Burgerlijk recht"
 soort: "AMvB"
-stam_id: "17114023"
-version_id: "30120532"
-internal_id: "C43158551"
-label_id: "17022464"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049743/2024-07-23/0"
-intitule_bron: "Stb.2024-138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-21"
-intitule_published: "2024-05-29"
-intitule_in_force: "2024-05-29"
-intitule_status: "goed"
-original_publication: "Stb.2024-138"
-original_signed_date: "2024-05-21"
-original_published_date: "2024-05-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-138"
-entry_into_force_date: "2024-07-23"
-jci_1_3: "jci1.3:c:BWBR0049743&z=2024-07-23&g=2024-07-23"
-jci_1_0: "1.0:c:BWBR0049743&g=2024-07-23"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart"
-signed_date: "2024-05-21"
-entry_into_force: "2024-07-23"
+publicatiedatum: 2024-07-23
+laatste_update: 2024-07-23
+status: geldig
+toestand: 2024-07-23
+bron: "https://wetten.overheid.nl/BWBR0049743"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 21 mei 2024, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 110 van Boek 6 van het Burgerlijk Wetboek (Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart)
-
-Op de voordracht van Onze Minister voor Rechtsbescherming van 8 maart 2024, directie Wetgeving en Juridische Zaken, nr. 5193738;
-
-Gelet op [artikel 110 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=110);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 27 maart 2024, nr. W16.24.00048/II);
-
-Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 15 mei 2024, directie Wetgeving en Juridische Zaken, nr. 5434373;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
@@ -62,10 +30,8 @@ Dit besluit is niet van toepassing op de aansprakelijkheid van de luchtvervoerde
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van 23 juli 2024 en vervalt tien jaar na het tijdstip van inwerkingtreding.
+Dit besluit treedt in werking met ingang van 23 juli 2024 en vervalt tien jaar na het tijdstip van inwerkingtreding.
 
 ##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit limitering aansprakelijkheid voor terrorismeschade luchtvaart.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

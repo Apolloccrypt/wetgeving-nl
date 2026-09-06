@@ -1,43 +1,17 @@
 ---
 title: "Instellingsbesluit COVM luchthaven De Peel"
 identifier: "BWBR0049779"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-06"
-last_updated: "2019-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049779"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17121643"
-version_id: "30132642"
-internal_id: "C43172181"
-label_id: "17030094"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049779/2024-06-06/0"
-intitule_bron: "Stcrt.2024-17855"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-24"
-intitule_published: "2024-06-05"
-intitule_in_force: "2024-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17855"
-original_signed_date: "2024-05-24"
-original_published_date: "2024-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17855"
-entry_into_force_date: "2024-06-06"
-jci_1_3: "jci1.3:c:BWBR0049779&z=2024-06-06&g=2024-06-06"
-jci_1_0: "1.0:c:BWBR0049779&g=2024-06-06"
-citeertitel_status: "officieel"
-signed_date: "2024-05-24"
-entry_into_force: "2024-06-06"
+publicatiedatum: 2024-06-06
+laatste_update: 2024-06-06
+status: geldig
+toestand: 2024-06-06
+bron: "https://wetten.overheid.nl/BWBR0049779"
+opgehaald: 2026-09-06
 ---
+
 # Instellingsbesluit COVM luchthaven De Peel
-
-Gelet op [artikel 10.25 van de Wet Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.25) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Instelling en taak
 
@@ -87,7 +61,7 @@ Besluit:
 
 3. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-4. De commissie stelt jaarlijks voor 1 april een verslag op van haar werkzaamheden in het afgelopen kalenderjaar. Het verslag wordt aan de Minister van Defensie gezonden.
+4. De commissie stelt jaarlijks voor 1 april een verslag op van haar werkzaamheden in het afgelopen kalenderjaar. Het verslag wordt aan de Minister van Defensie gezonden.
 
 ##### Artikel 4. Informatieplicht
 
@@ -99,10 +73,8 @@ De Minister van Defensie voorziet in het secretariaat van de commissie.
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot 30 oktober 2019.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot 30 oktober 2019.
 
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit COVM luchthaven De Peel.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

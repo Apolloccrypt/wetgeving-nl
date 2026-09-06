@@ -1,52 +1,54 @@
 ---
 title: "Besluitvorming Sarnami/Hindoestani (Suriname)"
 identifier: "BWBR0049742"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-04"
-last_updated: "2024-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049742"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17113933"
-version_id: "30120362"
-internal_id: "C43158111"
-label_id: "17022354"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049742/2024-06-04/0"
-intitule_bron: "Stcrt.2024-17054"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-26"
-intitule_published: "2024-06-03"
-intitule_in_force: "2024-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17054"
-original_signed_date: "2024-02-26"
-original_published_date: "2024-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17054"
-entry_into_force_date: "2024-06-04"
-jci_1_3: "jci1.3:c:BWBR0049742&z=2024-06-04&g=2024-06-04"
-jci_1_0: "1.0:c:BWBR0049742&g=2024-06-04"
-citeertitel_status: "officieel"
-signed_date: "2024-02-26"
-entry_into_force: "2024-06-04"
+publicatiedatum: 2024-06-04
+laatste_update: 2024-06-04
+status: geldig
+toestand: 2024-06-04
+bron: "https://wetten.overheid.nl/BWBR0049742"
+opgehaald: 2026-09-06
 ---
+
 # Besluitvorming Sarnami/Hindoestani (Suriname)
 
-De Raad voor Rechtsbijstand,
+*Overwegende dat:*
 
-**Overwegende dat:**
+- – De Adviescommissie Talen Wbtv zijn grondslag vindt in de [Regeling van de Raad voor Rechtsbijstand van 6 augustus 2015, houdende de instelling van de Adviescommissie talen Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036939) (Stcrt 2015, nr. 25102);
 
-**Stelt vast dat:**
+- – De Adviescommissie Talen Wbtv advies uitbrengt over de wettelijke competentie taalvaardigheid;
 
-**Besluit dat:**
+- – De Raad voor Rechtsbijstand aanleiding heeft gezien om advies in te winnen bij de Adviescommissie Talen Wbtv omtrent de linguïstische casuïstiek rondom het Sarnami en het Hindoestani (Suriname);
+
+- – De Adviescommissie Talen Wbtv op 18 juli 2023 advies heeft uitgebracht.
+
+*Stelt vast dat:*
+
+- – Het Sarnami in de door de Raad voor Rechtsbijstand gehanteerde taallijst is opgenomen als spreek- en schrijftaal;
+
+- – Het Hindoestani (Suriname) in de door de Raad voor Rechtsbijstand gehanteerde taallijst is opgenomen als spreek- en schrijftaal;
+
+- – De taalbenaming ‘Sarnami’ en de taalbenaming ‘Hindoestani’ refereren aan dezelfde taal;
+
+- – Deze taal afstamt van een specifieke variëteit van het Hindi uit Noord-India die is meegenomen door Indiase contractarbeiders naar Suriname;
+
+- – Het meegenomen Hindi is geïsoleerd van zijn oorsprong en een eigen vorm heeft aangenomen dat tegenwoordig het Sarnami wordt genoemd, en niet meer gelijk is aan het oorspronkelijke Hindi.
+
+*Besluit dat:*
+
+- – Het Hindoestani (Suriname) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt verwijderd;
+
+- – Het Sarnami in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt verwijderd;
+
+- – Het Sarnami (Hindoestani) in de door de Raad voor Rechtsbijstand gehanteerde taallijst wordt opgenomen;
+
+- – Het Hindoestani (Suriname) als niet-voorkeursnaam van het Sarnami (Hindoestani) wordt opgenomen in de door de Raad voor Rechtsbijstand gehanteerde taallijst;
+
+- – Het Sarnami als niet-voorkeursnaam van het Sarnami (Hindoestani) wordt opgenomen in de door de Raad voor Rechtsbijstand gehanteerde taallijst.
 
 ### Slotbepalingen
 
-Dit besluit wordt aangehaald als **‘Besluitvorming Sarnami/Hindoestani (Suriname)’**.
+Dit besluit wordt aangehaald als *‘Besluitvorming Sarnami/Hindoestani (Suriname)’*.
 
 Bekendmaking vindt plaats door publicatie in de Staatscourant.
-
-Dit besluit treedt in werking één dag na publicatie in de Staatscourant.

@@ -1,50 +1,22 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 22 april 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Eritrea, Ambassade Asmara 1994–2011, Besluit Beperking Openbaarheid, Asmara 1994–2011"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden Ambassade Asmara 1994–2011"
 identifier: "BWBR0049643"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-05-02"
-last_updated: "2024-05-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049643"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17089763"
-version_id: "30077212"
-internal_id: "C43101201"
-label_id: "16998504"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049643/2024-05-02/0"
-intitule_bron: "Stcrt.2024-14156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-22"
-intitule_published: "2024-05-01"
-intitule_in_force: "2024-05-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-14156"
-original_signed_date: "2024-04-22"
-original_published_date: "2024-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-14156"
-entry_into_force_date: "2024-05-02"
-jci_1_3: "jci1.3:c:BWBR0049643&z=2024-05-02&g=2024-05-02"
-jci_1_0: "1.0:c:BWBR0049643&g=2024-05-02"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden Ambassade Asmara 1994–2011"
-signed_date: "2024-04-22"
-entry_into_force: "2024-05-02"
+publicatiedatum: 2024-05-02
+laatste_update: 2024-05-02
+status: geldig
+toestand: 2024-05-02
+bron: "https://wetten.overheid.nl/BWBR0049643"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 22 april 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Eritrea, Ambassade Asmara 1994–2011, Besluit Beperking Openbaarheid, Asmara 1994–2011
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris van 18 april 2024, referentie 100882;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -66,7 +38,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -99,5 +71,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging van het archief van de Nederlandse diplomatieke vertegenwoordiging in Eritrea, ambassade Asmara.

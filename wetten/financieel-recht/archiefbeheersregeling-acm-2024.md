@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Autoriteit Consument en Markt (hierna: ACM) van 7 mei 2024, ACM/24/189053, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2024)"
+citeertitel: "Archiefbeheersregeling ACM 2024"
 identifier: "BWBR0049724"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-05-24"
-last_updated: "2024-05-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049724"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17110043"
-version_id: "30112222"
-internal_id: "C43146111"
-label_id: "17018564"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049724/2024-05-24/0"
-intitule_bron: "Stcrt.2024-16556"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-07"
-intitule_published: "2024-05-23"
-intitule_in_force: "2024-05-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-16556"
-original_signed_date: "2024-05-07"
-original_published_date: "2024-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-16556"
-entry_into_force_date: "2024-05-24"
-jci_1_3: "jci1.3:c:BWBR0049724&z=2024-05-24&g=2024-05-24"
-jci_1_0: "1.0:c:BWBR0049724&g=2024-05-24"
-citeertitel_status: "officieel"
-short_title: "Archiefbeheersregeling ACM 2024"
-signed_date: "2024-05-07"
-entry_into_force: "2024-05-24"
+publicatiedatum: 2024-05-24
+laatste_update: 2024-05-24
+status: geldig
+toestand: 2024-05-24
+bron: "https://wetten.overheid.nl/BWBR0049724"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Autoriteit Consument en Markt (hierna: ACM) van 7 mei 2024, ACM/24/189053, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2024)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,29 +20,29 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **ACM-organisatie:** de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5).
+- a. *ACM-organisatie:* de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5).
 
-- b. **Zorgdrager:** degene die bij de krachtens de wet belast is met de zorg voor de archiefbescheiden, als bedoeld in [artikel 1, lid d, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1). De ACM is zorgdrager voor de archiefbescheiden van de ACM.
+- b. *Zorgdrager:* degene die bij de krachtens de wet belast is met de zorg voor de archiefbescheiden, als bedoeld in [artikel 1, lid d, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1). De ACM is zorgdrager voor de archiefbescheiden van de ACM.
 
-- c. **Archiefbescheiden:** de bescheiden en reproducties als bedoeld in [artikel 1, lid c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1). Waar ‘archiefbescheiden’ staat, kan ook ‘document’ gelezen worden.
+- c. *Archiefbescheiden:* de bescheiden en reproducties als bedoeld in [artikel 1, lid c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1). Waar ‘archiefbescheiden’ staat, kan ook ‘document’ gelezen worden.
 
-- d. **Documenten:** alle informatie die de ACM maakt of ontvangt in het kader van haar publieke taken, ongeacht op welke drager of in welke vorm de informatie is vastgelegd. Het kan dus gaan om schriftelijke stukken, digitale tekstbestanden, films, foto’s, e-mails, websites, databases en algoritmes, et cetera.
+- d. *Documenten:* alle informatie die de ACM maakt of ontvangt in het kader van haar publieke taken, ongeacht op welke drager of in welke vorm de informatie is vastgelegd. Het kan dus gaan om schriftelijke stukken, digitale tekstbestanden, films, foto’s, e-mails, websites, databases en algoritmes, et cetera.
 
-- e. **minister:** de Minister van Economische Zaken en Klimaat
+- e. *minister:* de Minister van Economische Zaken en Klimaat
 
-- f. **Chief Information Officer (CIO):** de CIO is de hoogst ambtelijk verantwoordelijke in een organisatie op het gebied van ICT. Deze rol wordt bij de ACM vervuld door de directeur van de Directie Bedrijfsvoering.
+- f. *Chief Information Officer (CIO):* de CIO is de hoogst ambtelijk verantwoordelijke in een organisatie op het gebied van ICT. Deze rol wordt bij de ACM vervuld door de directeur van de Directie Bedrijfsvoering.
 
-- g. **Archiefbeheer:** geheel van normen, plannen, procedures en activiteiten gericht op de archiefvorming, de archiefbewerking, het beheer van de archiefdepots, de daarin berustende archiefbescheiden en het beschikbaar stellen daarvan.
+- g. *Archiefbeheer:* geheel van normen, plannen, procedures en activiteiten gericht op de archiefvorming, de archiefbewerking, het beheer van de archiefdepots, de daarin berustende archiefbescheiden en het beschikbaar stellen daarvan.
 
-- h. **Archiefsysteem of archiveringssysteem:** het geheel van archiefbescheiden (ongeacht hun vorm), gegevens en metagegevens, processen, procedures, kennis, regels, middelen en mensen waarmee een persoon of organisatie zich voorziet van betrouwbare en duurzame informatie voor bedrijfsvoering, herinnering en verantwoording.
+- h. *Archiefsysteem of archiveringssysteem:* het geheel van archiefbescheiden (ongeacht hun vorm), gegevens en metagegevens, processen, procedures, kennis, regels, middelen en mensen waarmee een persoon of organisatie zich voorziet van betrouwbare en duurzame informatie voor bedrijfsvoering, herinnering en verantwoording.
 
-- i. **Archief:** geheel van archiefbescheiden, ontvangen of opgemaakt door een archiefvormer.
+- i. *Archief:* geheel van archiefbescheiden, ontvangen of opgemaakt door een archiefvormer.
 
-- j. **Archiefvorming:** het onder beheer brengen van archiefbescheiden.
+- j. *Archiefvorming:* het onder beheer brengen van archiefbescheiden.
 
-- k. **Dossier:** Geheel van fysieke of virtueel gekoppelde archiefbescheiden die op één onderwerp betrekking hebben.
+- k. *Dossier:* Geheel van fysieke of virtueel gekoppelde archiefbescheiden die op één onderwerp betrekking hebben.
 
-- l. **Vervanging:** het vervaardigen van (digitale) reproducties van archiefbescheiden. Zoals bedoeld in [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7).
+- l. *Vervanging:* het vervaardigen van (digitale) reproducties van archiefbescheiden. Zoals bedoeld in [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7).
 
 ### Hoofdstuk 2. Verantwoordelijkheden en bevoegdheden
 

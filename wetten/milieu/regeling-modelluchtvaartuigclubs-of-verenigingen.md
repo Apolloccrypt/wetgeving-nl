@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/124376, houdende vaststelling van regels met betrekking tot de vergunning van modelluchtvaartuigclubs of -verenigingen als bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) (Regeling modelluchtvaartuigclubs of -verenigingen)"
+citeertitel: "Regeling modelluchtvaartuigclubs of -verenigingen"
 identifier: "BWBR0049799"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049799"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17126603"
-version_id: "30142742"
-internal_id: "C43183751"
-label_id: "17035184"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049799/2026-01-01/0"
-intitule_bron: "Stcrt.2024-18140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-04"
-intitule_published: "2024-06-12"
-intitule_in_force: "2024-06-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-18140"
-original_signed_date: "2024-06-04"
-original_published_date: "2024-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-18140"
-entry_into_force_date: "2024-06-13"
-jci_1_3: "jci1.3:c:BWBR0049799&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0049799&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling modelluchtvaartuigclubs of -verenigingen"
-signed_date: "2024-06-04"
-entry_into_force: "2024-06-13"
+publicatiedatum: 2024-06-13
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0049799"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/124376, houdende vaststelling van regels met betrekking tot de vergunning van modelluchtvaartuigclubs of -verenigingen als bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) (Regeling modelluchtvaartuigclubs of -verenigingen)
-
-Gelet op de artikelen 16, eerste, tweede en derde lid, en artikel 18, onder a, van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152), de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [5.10, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10) en [artikel 4a van het Besluit luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4a);
-
-BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **modelluchtvaartuigclub of -vereniging:** club of vereniging als bedoeld in artikel 2 van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+- *modelluchtvaartuigclub of -vereniging:* club of vereniging als bedoeld in artikel 2 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
 
-- **uitvoeringsverordening (EU) nr. 2019/947:** [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
+- *uitvoeringsverordening (EU) nr. 2019/947:*
+ uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152);
 
-- **vergunning:** de vergunning bedoeld in artikel 16 van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
+- *vergunning:* de vergunning bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -70,13 +45,13 @@ Deze regeling is van toepassing op modelluchtvaartuigclubs of -verenigingen.
 
 In de vergunning worden tenminste bepalingen opgenomen met betrekking tot:
 
-- a. de voorwaarden, bedoeld in artikel 16, derde lid, van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947), waaronder vluchtuitvoeringen mogen worden uitgevoerd, waaronder ten minste inbegrepen:
+- a. de voorwaarden, bedoeld in artikel 16, derde lid, van uitvoeringsverordening (EU) nr. 2019/947, waaronder vluchtuitvoeringen mogen worden uitgevoerd, waaronder ten minste inbegrepen:
 
-- 1°. de afstand tot woon-, handels-, industrie- of recreatiezones;
+   - 1° de afstand tot woon-, handels-, industrie- of recreatiezones;
 
-- 2°. de afstand tot in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur of meer geldt;
+   - 2° de afstand tot in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur of meer geldt;
 
-- 3°. de afstand tot spoorlijnen.
+   - 3° de afstand tot spoorlijnen.
 
 - b. de minimumvaardigheid van piloten op afstand;
 
@@ -100,19 +75,19 @@ Dit hoofdstuk is enkel van toepassing op modelluchtvaartuigclubs of -vereniginge
 
 1. Vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G.
 
-2. Vluchten binnen een gebied waarin laag mag worden gevlogen door civiele luchtvaartuigen zijn toegestaan tot een hoogte van maximaal 120 meter boven de grond of het water mits:
+2. Vluchten binnen een gebied waarin laag mag worden gevlogen door civiele luchtvaartuigen zijn toegestaan tot een hoogte van maximaal 120 meter boven de grond of het water mits:
 
 - a. iemand met de bestuurder van het modelluchtvaartuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen, en;
 
 - b. het andere verkeer op de hoogte wordt gesteld van de voorgenomen vlucht;
 
-3. Vluchten binnen een gebied waarin laag mag worden gevlogen door militaire luchtvaartuigen zijn toegestaan tot een hoogte van maximaal 120 meter boven de grond of het water mits:
+3. Vluchten binnen een gebied waarin laag mag worden gevlogen door militaire luchtvaartuigen zijn toegestaan tot een hoogte van maximaal 120 meter boven de grond of het water mits:
 
 - a. iemand met de bestuurder van het modelluchtvaartuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen; en
 
 - b. de modelluchtvaartuigclub of -vereniging regels en procedures heeft opgesteld om de vlucht veilig te kunnen uitvoeren;
 
-4. Vluchten binnen een afstand van 3 km van een ongecontroleerde luchthaven zijn toegestaan mits er afstemming van activiteiten heeft plaatsgevonden met de exploitant van de luchthaven, zodanig dat vluchten met modelluchtvaartuigen geen vermijdbaar gevaar vormen voor de activiteiten van de ongecontroleerde luchthaven.
+4. Vluchten binnen een afstand van 3 km van een ongecontroleerde luchthaven zijn toegestaan mits er afstemming van activiteiten heeft plaatsgevonden met de exploitant van de luchthaven, zodanig dat vluchten met modelluchtvaartuigen geen vermijdbaar gevaar vormen voor de activiteiten van de ongecontroleerde luchthaven.
 
 5. In afwijking van het eerste lid zijn vluchten toegestaan in luchtruim met klasse C of D, mits op schriftelijk verzoek van de modelluchtvaartclub- of vereniging een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant.
 
@@ -148,9 +123,9 @@ Het is verboden met een modelluchtvaartuig een vlucht uit te voeren binnen een h
 
 ### Hoofdstuk 4. Wijziging andere regelgeving
 
-##### Artikel 12. Wijziging [Tijdelijke subsidieregeling Luchtvaart in Transitie](https://wetten.overheid.nl/jci1.3:c:BWBR0049662)
+##### Artikel 12. Wijziging Tijdelijke subsidieregeling Luchtvaart in Transitie
 
-Wijzigt de Tijdelijke subsidieregeling Luchtvaart in Transitie.
+*Wijzigt de Tijdelijke subsidieregeling Luchtvaart in Transitie.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -161,67 +136,3 @@ Deze regeling treedt in werking met ingang de dag na de datum van uitgifte van d
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modelluchtvaartuigclubs of -verenigingen.
-
-## Bijlage I
-
-De modelluchtvaartuigclub of -vereniging verklaart:
-
-- –. Met betrekking tot de competentie van de leden:
-
-- ○. te hebben vastgelegd wat de minimale competenties zijn om vluchten met een modelluchtvaartuig veilig en in overeenstemming met de in deze regeling vastgestelde voorwaarden en beperkingen uit te voeren;
-
-- ○. leden bij te staan die nog niet aan de minimale competenties voldoen bij het bereiken van de minimale competenties en vaardigheden die vereist zijn om het modelluchtvaartuig veilig en in overeenstemming met de in de autorisatie vastgestelde voorwaarden en beperkingen te bedienen.
-
-- –. Met betrekking tot de modelluchtvaartuigen:
-
-- ○. regels te hebben vastgesteld om zeker te stellen dat modelluchtvaartuigen en alles wat vereist is voor de uitvoering van de vlucht:
-
-- •. voor een eerste vlucht wordt gekeurd op luchtwaardigheid, en;
-
-- •. voor aanvang van de vlucht wordt gecontroleerd op een correcte werking.
-
-- –. Met betrekking tot de organisatie van de club of -vereniging:
-
-- ○. leden, gastvliegers en bezoekers actief te informeren over de voorwaarden en beperkingen die zijn gedefinieerd in de afgegeven vergunning;
-
-- ○. passende maatregelen te nemen wanneer de modelluchtvaartuigclub of -vereniging ervan op de hoogte wordt gesteld dat een piloot die een vlucht uitvoert in het verband van de club of -vereniging, niet voldoet aan de voorwaarden en beperkingen die in de vergunning zijn vastgelegd;
-
-- ○. voorvallen te melden bij de ILT;
-
-- ○. de leden te informeren over eventuele voorvallen op een zodanige wijze dat de leden daar lering uit kunnen trekken en herhaling zo veel mogelijk voorkomen wordt;
-
-- ○. zeker te stellen dat het terrein van waaraf zij haar activiteiten uitvoert op een zodanige wijze is ingericht en onderhouden dat een veilige start en landing mogelijk is en controle plaatsvindt voor aanvang van haar activiteiten.
-
-- ○. regels op te stellen voor leden en bezoekers, en;
-
-- ○. op verzoek van de bevoegde autoriteit de documentatie te verstrekken die nodig is voor toezichts- en controledoeleinden.
-
-- –. Met betrekking tot de omgeving van de club of -vereniging:
-
-- ○. ... indien van toepassing, voor het vliegen binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling, afspraken te hebben gemaakt, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), met de beheerder van het object of gebied om de veiligheid van de vitale processen te waarborgen;
-
-- ○. indien van toepassing, voor vluchten binnen 150 meter van woon-, handels-, industrie- of recreatiezones regels te hebben vastgesteld, zodanig dat de uitvoering van deze vluchten geen gevaar vormt voor de veiligheid van derde partijen in de betreffende zones;
-
-- ○. indien van toepassing, voor vluchten binnen 150 meter afstand van in gebruik zijnde wegen waar een maximale snelheid van 80 kilometer per uur of meer geldt regels te hebben vastgesteld, zodanig dat de uitvoering van deze vluchten geen gevaar vormt voor de veiligheid op de betreffende wegen;
-
-- ○. indien van toepassing, voor vluchten binnen 150 meter van spoorlijnen regels te hebben vastgesteld, zodanig dat de uitvoering van deze vluchten geen gevaar vormt voor de veiligheid op het spoor.
-
-- ○. indien van toepassing, voor gebieden waarin laag mag worden gevlogen door civiele luchtvaartuigen regels en procedures opgesteld als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de civiele luchtvaartuigen;
-
-- ○. indien van toepassing, regels en procedures te hebben opgesteld als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en deze te hebben afgestemd met het Ministerie van Defensie voor gebieden waarin laag mag worden gevlogen door militaire luchtvaartuigen, zodanig dat vluchten met modelluchtvaartuigen geen gevaar vormen voor de militaire luchtvaartuigen;
-
-- ○. indien van toepassing, afspraken te hebben vastgelegd met de exploitant van de nabij gelegen ongecontroleerde luchthaven, als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en haar leden te informeren over deze afspraken, en;
-
-- ○. indien van toepassing, voor het uitvoeren van vluchten in klasse C en D luchtruim een convenant te hebben gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt als bedoelt in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01), en haar leden te informeren over de inhoud van het convenant.
-
-## Bijlage II
-
-Als objecten of gebieden die onderdeel uitmaken van vitale processen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=3&artikel=11&z=2026-01-01&g=2026-01-01), worden aangewezen:
-
-- •. Het transmissiesysteem voor elektriciteit, bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
-
-- •. Productielocaties voor de drinkwatervoorziening;
-
-- •. Innamepunten in oppervlaktewater voor de bereiding van drinkwater.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

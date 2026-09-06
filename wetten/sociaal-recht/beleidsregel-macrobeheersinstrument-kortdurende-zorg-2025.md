@@ -1,85 +1,49 @@
 ---
 title: "Beleidsregel macrobeheersinstrument kortdurende zorg 2025"
 identifier: "BWBR0050018"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050018"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17178823"
-version_id: "30242352"
-internal_id: "C43318601"
-label_id: "17086754"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050018/2025-01-01/0"
-intitule_bron: "Stcrt.2024-22611"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-25"
-intitule_published: "2024-07-11"
-intitule_in_force: "2024-07-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-22611"
-original_signed_date: "2024-06-25"
-original_published_date: "2024-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-22611"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050018&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050018&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-06-25"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050018"
+opgehaald: 2026-09-06
 ---
+
 # Beleidsregel macrobeheersinstrument kortdurende zorg 2025
-
-Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
-
-Gelet op [artikel 52, aanhef en onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52) worden grenzen, als bedoeld in [artikel 50, tweede lid, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), die uit deze beleidsregel voortvloeien ambtshalve door de NZa vastgesteld.
-
-Gelet op [artikel 59, aanhef en onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met een brief van 7 juli 2016, met kenmerk 984908-152560-MC ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
-
-Gelet op [artikel 59, aanhef en onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Medische Zorg met brieven van 3 juli 2019, met kenmerk 1549124-192760-PZO en van 29 juni 2020, met kenmerk 1708250-207156-PZO, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
-
-Gelet op [artikel 59, aanhef en onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Medische Zorg met een brief van 4 juni 2021, met kenmerk 2369290-1009887-PZO ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven.
-
-Gelet op [artikel 59, aanhef en onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Langdurige Zorg en Sport met brief van 18 mei 2022, met kenmerk 3366568-1028982-PZO, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzing dateert van 18 mei 2022 en heeft als kenmerk 3366568-1028982-PZo.
-
-Gelet op [artikel 59, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Langdurige Zorg en Sport met brief van 23 juni 2023, met kenmerk 3599781-1048828-PZo, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven. Deze aanwijzing dateert van 23 juni 2023 en heeft als kenmerk 3599781-1048828-PZo.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- a. **Algemene begripsbepalingen** algemeen gegevensbeheer code (AGB-code): unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd. Budgettair kader zorg: door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg. macrobeheersinstrument (MBI): instrument waarmee op grond van de [artikelen 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) en [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd. macro-omzetgrens: de bovengrens grens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). minister: de Minister van Volksgezondheid, Welzijn en Sport en/of de Minister voor Langdurige zorg en Sport. zorgaanbieder: de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én de houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument. zorgverzekeraar: Een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1). Zorgverzekeringsfonds: het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
+- a. *Algemene begripsbepalingen* algemeen gegevensbeheer code (AGB-code): unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd. Budgettair kader zorg: door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg. macrobeheersinstrument (MBI): instrument waarmee op grond van de [artikelen 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35) en [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd. macro-omzetgrens: de bovengrens grens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). minister: de Minister van Volksgezondheid, Welzijn en Sport en/of de Minister voor Langdurige zorg en Sport. zorgaanbieder: de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én de houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument. zorgverzekeraar: Een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1). Zorgverzekeringsfonds: het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-- b. **Begripsbepalingen Zvw** eerstelijnsverblijf (elv): Zorg als bedoeld in [artikel 2.12 van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met geneeskundige zorg zoals huisartsen die plegen te bieden, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg. Geneeskundige zorg voor specifieke patiëntgroepen (gzsp): generalistische geneeskundige zorg voor specifieke patiëntgroepen in de eerstelijn bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). geriatrische revalidatiezorg (grz): zorg als bedoeld in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c). kortdurende zorg: psychologische zorg binnen elv: zorg verleend door gedragsdeskundigen aan patiënten tijdens het eerstelijnsverblijf, passende bij de elv-indicatie, op verzoek van de huisarts of specialist ouderengeneeskunde of arts verstandelijk gehandicapten. Deze zorg valt onder de Zvw-prestatie ‘zorg zoals klinisch psychologen die plegen te bieden’, en wordt geleverd aan patiënten met (een vermoeden van) gedragsmatige en/of cognitieve problematiek, en niet zijnde (specialistische) geneeskundige geestelijke gezondheidszorg. De zorgverlener moet bevoegd en bekwaam zijn om de zorg voor patiënten met gedragsmatige en/of cognitieve problematiek te leveren. Zorg onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) (Zorg onder de Wzd): de zorg zoals omschreven in de [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) die omvat: en als omschreven in de Beleidsregel Wet zorg en dwang.
+- b. *Begripsbepalingen Zvw* eerstelijnsverblijf (elv): Zorg als bedoeld in [artikel 2.12 van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met geneeskundige zorg zoals huisartsen die plegen te bieden, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg. Geneeskundige zorg voor specifieke patiëntgroepen (gzsp): generalistische geneeskundige zorg voor specifieke patiëntgroepen in de eerstelijn bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). geriatrische revalidatiezorg (grz): zorg als bedoeld in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c). kortdurende zorg: psychologische zorg binnen elv: zorg verleend door gedragsdeskundigen aan patiënten tijdens het eerstelijnsverblijf, passende bij de elv-indicatie, op verzoek van de huisarts of specialist ouderengeneeskunde of arts verstandelijk gehandicapten. Deze zorg valt onder de Zvw-prestatie ‘zorg zoals klinisch psychologen die plegen te bieden’, en wordt geleverd aan patiënten met (een vermoeden van) gedragsmatige en/of cognitieve problematiek, en niet zijnde (specialistische) geneeskundige geestelijke gezondheidszorg. De zorgverlener moet bevoegd en bekwaam zijn om de zorg voor patiënten met gedragsmatige en/of cognitieve problematiek te leveren. Zorg onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) (Zorg onder de Wzd): de zorg zoals omschreven in de [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) die omvat: en als omschreven in de Beleidsregel Wet zorg en dwang.
 
-- –. eerstelijnsverblijf en psychologische zorg binnen elv;
+   - – eerstelijnsverblijf en psychologische zorg binnen elv;
 
-- –. geriatrische revalidatiezorg
+   - – geriatrische revalidatiezorg
 
-- –. geneeskundige zorg voor specifieke patiëntgroepen;
+   - – geneeskundige zorg voor specifieke patiëntgroepen;
 
-- –. zorg onder de [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632).
+   - – zorg onder de [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632).
 
-- –. geneeskundige zorg als zoals bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4);
+   - – geneeskundige zorg als zoals bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4);
 
-- –. zorg als bedoeld in [artikel 2.12 van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met geneeskundige zorg zoals huisartsen die plegen te bieden, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg,
+   - – zorg als bedoeld in [artikel 2.12 van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met geneeskundige zorg zoals huisartsen die plegen te bieden, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg,
 
-- c. **Begripsbepalingen prestaties** DBC: Diagnose Behandeling Combinatie. Een DBC omvat het traject dat een patiënt doorloopt als hij zorg nodig heeft voor een specifieke diagnose, vanaf het eerste contact bij een grz-aanbieder tot en met de behandeling die hier eventueel uit volgt. De DBC vormt de basis voor de declaratie van deze geleverde zorg. prestaties eerstelijnsverblijf: de prestaties als omschreven in artikel 4 van de Beleidsregel eerstelijnsverblijf. prestaties geneeskundige zorg voor specifieke patiëntgroepen: de prestaties als omschreven in artikel 4 van de Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen. prestaties onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) (prestaties Wzd):de prestaties zoals opgenomen in artikel 4 van de Beleidsregel wet zorg en dwang.
+- c. *Begripsbepalingen prestaties* DBC: Diagnose Behandeling Combinatie. Een DBC omvat het traject dat een patiënt doorloopt als hij zorg nodig heeft voor een specifieke diagnose, vanaf het eerste contact bij een grz-aanbieder tot en met de behandeling die hier eventueel uit volgt. De DBC vormt de basis voor de declaratie van deze geleverde zorg. prestaties eerstelijnsverblijf: de prestaties als omschreven in artikel 4 van de Beleidsregel eerstelijnsverblijf. prestaties geneeskundige zorg voor specifieke patiëntgroepen: de prestaties als omschreven in artikel 4 van de Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen. prestaties onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) (prestaties Wzd):de prestaties zoals opgenomen in artikel 4 van de Beleidsregel wet zorg en dwang.
 
-- d. **Begripsbepaling gerealiseerde omzet** gerealiseerde omzet kortdurende zorg:
+- d. *Begripsbepaling gerealiseerde omzet* gerealiseerde omzet kortdurende zorg:
 
-- –. gerealiseerde omzet elv: De omzet in kalenderjaar t verkregen uit declaratie van de prestaties eerstelijnsverblijf die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
+   - – gerealiseerde omzet elv: De omzet in kalenderjaar t verkregen uit declaratie van de prestaties eerstelijnsverblijf die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
 
-- –. gerealiseerde omzet grz: DBC’s die in kalenderjaar t worden geopend en uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
+   - – gerealiseerde omzet grz: DBC’s die in kalenderjaar t worden geopend en uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
 
-- –. gerealiseerde omzet gzsp: De omzet in kalenderjaar t verkregen uit declaratie van de prestaties geneeskundige zorg voor specifieke patiëntgroepen die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
+   - – gerealiseerde omzet gzsp: De omzet in kalenderjaar t verkregen uit declaratie van de prestaties geneeskundige zorg voor specifieke patiëntgroepen die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1;
 
-- –. gerealiseerde omzet [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632): de omzet in kalenderjaar t verkregen uit declaratie van de prestaties Wzd die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1.
+   - – gerealiseerde omzet [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632): de omzet in kalenderjaar t verkregen uit declaratie van de prestaties Wzd die uiterlijk 1 december jaar t+1 zijn gehonoreerd, inclusief de correcties volgend uit de materiële controles tot 1 december jaar t+1.
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -89,11 +53,11 @@ Doel van deze beleidsregel is vastlegging van de wijze waarop de NZa ontstane ov
 
 Deze beleidsregel is van toepassing op zorgaanbieders die:
 
-- •. zorg leveren als bedoeld in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c) (geriatrische revalidatiezorg);
+- • zorg leveren als bedoeld in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c) (geriatrische revalidatiezorg);
 
-- •. eerstelijnsverblijf en psychologische zorg binnen elv, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050018&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel leveren; en/of
+- • eerstelijnsverblijf en psychologische zorg binnen elv, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050018&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel leveren; en/of
 
-- •. geneeskundige zorg voor specifieke patiëntgroepen, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050018&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel leveren.
+- • geneeskundige zorg voor specifieke patiëntgroepen, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050018&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel leveren.
 
 Deze beleidsregel is mede van toepassing op de zorg onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050018&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel.
 
@@ -121,13 +85,13 @@ Deze beleidsregel is mede van toepassing op de zorg onder de [Wet zorg en dwang 
 
 8. De NZa neemt bij de toerekening voor het bepalen van de hoogte van de omzet de volgende onderdelen mee:
 
-- –. de gerealiseerde omzet elv;
+- – de gerealiseerde omzet elv;
 
-- –. de gerealiseerde omzet grz;
+- – de gerealiseerde omzet grz;
 
-- –. de gerealiseerde omzet gzsp;
+- – de gerealiseerde omzet gzsp;
 
-- –. de gerealiseerde omzet [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632).
+- – de gerealiseerde omzet [Wzd](https://wetten.overheid.nl/jci1.3:c:BWBR0040632).
 
 9. De NZa legt in de Regeling macrobeheersinstrument kortdurende zorg 2025 vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
@@ -137,11 +101,15 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [beleidsrege
 
 ##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
+Inwerkingtreding / Bekendmaking
+
+Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst.
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als:
 

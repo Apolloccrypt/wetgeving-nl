@@ -1,75 +1,49 @@
 ---
 title: "Besluit Beheer Documentaire Informatie Sociaal-Economische Raad"
 identifier: "BWBR0049673"
-country: "nl"
-rank: "pbo"
-publication_date: "2024-05-08"
-last_updated: "2024-05-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049673"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17097773"
-version_id: "30090512"
-internal_id: "C43116371"
-label_id: "17006644"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049673/2024-05-08/0"
-intitule_bron: "Stcrt.2024-14663"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-29"
-intitule_published: "2024-05-06"
-intitule_in_force: "2024-05-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-14663"
-original_signed_date: "2024-04-29"
-original_published_date: "2024-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-14663"
-entry_into_force_date: "2024-05-08"
-jci_1_3: "jci1.3:c:BWBR0049673&z=2024-05-08&g=2024-05-08"
-jci_1_0: "1.0:c:BWBR0049673&g=2024-05-08"
-citeertitel_status: "officieel"
-signed_date: "2024-04-29"
-entry_into_force: "2024-05-08"
+publicatiedatum: 2024-05-08
+laatste_update: 2024-05-08
+status: geldig
+toestand: 2024-05-08
+bron: "https://wetten.overheid.nl/BWBR0049673"
+opgehaald: 2026-09-06
 ---
+
 # Besluit Beheer Documentaire Informatie Sociaal-Economische Raad
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en [artikel 51 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=51);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **Conversie:** de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
+- *Conversie:* de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
 
-- **Documentaire informatie (DI):**
+- *Documentaire informatie (DI):*
 
-- a. alle documenten, ongeacht hun vorm, door de Sociaal-Economische Raad ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - a. alle documenten, ongeacht hun vorm, door de Sociaal-Economische Raad ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- b. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Sociaal-Economische Raad zijn overgegaan;
+   - b. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Sociaal-Economische Raad zijn overgegaan;
 
-- c. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Sociaal-Economische Raad in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - c. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Sociaal-Economische Raad in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- d. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
+   - d. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
 
-- **Duurzaam informatiebeheer:** informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
+- *Duurzaam informatiebeheer:* informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
 
-- **Migratie:** de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
+- *Migratie:* de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
 
-- **Overbrenging:** het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
+- *Overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
 
-- **Selectie:** het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
+- *Selectie:* het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
 
-- **Selectielijst:** ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
+- *Selectielijst:* ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
 
-- **Vervanging:** gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
+- *Vervanging:* gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
 
-- **Vervreemding:** het overdragen van de zorg en het beheer van documenten aan een derde partij;
+- *Vervreemding:* het overdragen van de zorg en het beheer van documenten aan een derde partij;
 
-- **Zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
+- *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
 ##### Artikel 2
 
@@ -214,5 +188,3 @@ De algemeen secretaris is verantwoordelijk voor adequate informatiebeveiliging. 
 ##### Artikel 18
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

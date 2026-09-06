@@ -1,56 +1,30 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 16 juli 2024, nr. 5601053, tot aanwijzing van het Keurmerkinstituut B.V. als certificerende instelling, bedoeld in artikel 3.4, eerste lid, van de Jeugdwet (Aanwijzingsbesluit certificerende instelling Jeugdwet 2024)"
+citeertitel: "Aanwijzingsbesluit certificerende instelling Jeugdwet 2024"
 identifier: "BWBR0050093"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-01"
-last_updated: "2025-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050093"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17195213"
-version_id: "30272522"
-internal_id: "C43357141"
-label_id: "17101564"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050093/2025-10-01/0"
-intitule_bron: "Stcrt.2024-24981"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-16"
-intitule_published: "2024-07-31"
-intitule_in_force: "2024-07-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-24981"
-original_signed_date: "2024-07-16"
-original_published_date: "2024-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-24981"
-entry_into_force_date: "2024-08-01"
-jci_1_3: "jci1.3:c:BWBR0050093&z=2025-10-01&g=2025-10-01"
-jci_1_0: "1.0:c:BWBR0050093&g=2025-10-01"
-citeertitel_status: "officieel"
-short_title: "Aanwijzingsbesluit certificerende instelling Jeugdwet 2024"
-signed_date: "2024-07-16"
-entry_into_force: "2024-08-01"
+publicatiedatum: 2024-08-01
+laatste_update: 2025-10-01
+status: geldig
+toestand: 2025-10-01
+bron: "https://wetten.overheid.nl/BWBR0050093"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 16 juli 2024, nr. 5601053, tot aanwijzing van het Keurmerkinstituut B.V. als certificerende instelling, bedoeld in artikel 3.4, eerste lid, van de Jeugdwet (Aanwijzingsbesluit certificerende instelling Jeugdwet 2024)
-
-Gelet op de [artikelen 3.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4) en [3.1.1, derde lid, van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=3.1.1);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- –. **certificaat of voorlopig certificaat:** certificaat of voorlopig certificaat als bedoeld in [artikel 3.4, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
+- – *certificaat of voorlopig certificaat:* certificaat of voorlopig certificaat als bedoeld in [artikel 3.4, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **certificerende instelling:** de certificerende instelling, bedoeld in [artikel 3.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
+- – *certificerende instelling:* de certificerende instelling, bedoeld in [artikel 3.4, eerste lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
-- –. **KMI:** het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2025-10-01&g=2025-10-01);
+- – *KMI:* het Keurmerkinstituut, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050093&artikel=2&z=2025-10-01&g=2025-10-01);
 
-- –. **Staatssecretaris:** de Staatssecretaris van Justitie en Veiligheid.
+- – *Staatssecretaris:* de Staatssecretaris van Justitie en Veiligheid.
 
 ##### Artikel 2
 
@@ -72,15 +46,15 @@ Aan de aanwijzing zijn de volgende voorwaarden verbonden:
 
 - d. KMI houdt op diens website een lijst met namen bij van:
 
-- 1°. de instellingen die KMI op grond van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) heeft gecertificeerd;
+   - 1°. de instellingen die KMI op grond van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) heeft gecertificeerd;
 
-- 2°. de instellingen die bij KMI een aanvraag voor een certificaat of een voorlopig certificaat hebben ingediend;
+   - 2°. de instellingen die bij KMI een aanvraag voor een certificaat of een voorlopig certificaat hebben ingediend;
 
 - e. KMI verstrekt jaarlijks aan de Staatssecretaris inzicht in:
 
-- 1°. alle kosten en baten die voortvloeien uit de activiteiten van KMI als certificerende instelling;
+   - 1°. alle kosten en baten die voortvloeien uit de activiteiten van KMI als certificerende instelling;
 
-- 2°. de tarieven die KMI als certificerende instelling hanteert en de wijze waarop deze tarieven zich tot de door KMI gemaakte kosten verhouden;
+   - 2°. de tarieven die KMI als certificerende instelling hanteert en de wijze waarop deze tarieven zich tot de door KMI gemaakte kosten verhouden;
 
 - f. KMI treft zodanige voorzieningen en handelt zodanig dat KMI alle informatie- en medewerkingsverplichtingen ten aanzien van de bevoegde toezichthouders en de Staatssecretaris volledig en onbelemmerd kan nakomen.
 
@@ -94,14 +68,8 @@ Het [Aanwijzingsbesluit certificerende instelling Jeugdwet 2019](https://wetten.
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 25 juni 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 25 juni 2024.
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit certificerende instelling Jeugdwet 2024.
-
-## Bijlage
-
-Vervallen
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

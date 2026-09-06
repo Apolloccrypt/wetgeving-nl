@@ -1,47 +1,17 @@
 ---
 title: "Reglement Raad van Advies Raad voor Rechtsbijstand 2024"
 identifier: "BWBR0049751"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-04"
-last_updated: "2024-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049751"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "17115203"
-version_id: "30122852"
-internal_id: "C43161381"
-label_id: "17023734"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049751/2024-06-04/0"
-intitule_bron: "Stcrt.2024-17470"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-23"
-intitule_published: "2024-06-03"
-intitule_in_force: "2024-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17470"
-original_signed_date: "2024-05-23"
-original_published_date: "2024-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17470"
-entry_into_force_date: "2024-06-04"
-jci_1_3: "jci1.3:c:BWBR0049751&z=2024-06-04&g=2024-06-04"
-jci_1_0: "1.0:c:BWBR0049751&g=2024-06-04"
-citeertitel_status: "officieel"
-signed_date: "2024-05-23"
-entry_into_force: "2024-06-04"
+publicatiedatum: 2024-06-04
+laatste_update: 2024-06-04
+status: geldig
+toestand: 2024-06-04
+bron: "https://wetten.overheid.nl/BWBR0049751"
+opgehaald: 2026-09-06
 ---
+
 # Reglement Raad van Advies Raad voor Rechtsbijstand 2024
-
-Overwegende dat de Raad voor Rechtsbijstand op grond van [artikel 2, vierde lid, Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2) bestaat uit een bestuur en een Raad van Advies,
-
-Overwegende dat in [artikel 6, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=6) is geregeld dat de Raad van Advies een reglement vaststelt waarin in ieder geval regels zijn opgenomen voor zijn werkwijze, besluitvorming en procedures;
-
-Overwegende dat de Raad van Advies de algemeen directeur/bestuurder adviseert vanuit de maatschappelijke opgave van de Raad voor Rechtsbijstand;
-
-Heeft het volgende reglement vastgesteld:
 
 ### Algemeen:
 
@@ -49,13 +19,13 @@ Heeft het volgende reglement vastgesteld:
 
 In dit reglement wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- a. *de wet:* de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. **de Raad voor Rechtsbijstand:** het zelfstandig bestuursorgaan dat is ingesteld in [artikel 2, eerste lid van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- b. *de Raad voor Rechtsbijstand:* het zelfstandig bestuursorgaan dat is ingesteld in [artikel 2, eerste lid van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- c. **het bestuur c.q. de algemeen directeur/bestuurder:** het orgaan dat aan het hoofd staat van de Raad voor Rechtsbijstand en dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3) en [4 eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=4).
+- c. *het bestuur c.q. de algemeen directeur/bestuurder:* het orgaan dat aan het hoofd staat van de Raad voor Rechtsbijstand en dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3) en [4 eerste en tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=4).
 
-- d. **De Raad van Advies:** het adviesorgaan dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=6) en de algemeen directeur/bestuurder adviseert.
+- d. *De Raad van Advies:* het adviesorgaan dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=6) en de algemeen directeur/bestuurder adviseert.
 
 ##### Artikel 2. Benoeming en ontslag van de leden van de Raad van Advies
 
@@ -129,9 +99,9 @@ De voorzitter en de leden van de Raad van Advies ontvangen voor hun werkzaamhede
 
 1. De Raad van Advies bespreekt éénmaal per jaar, in afwezigheid van de algemeen directeur/bestuurder en de ambtelijk secretaris, zowel zijn eigen functioneren als dat van de individuele leden van de Raad van Advies, alsmede eventuele conclusies die hieraan moeten worden verbonden. De conclusies publiceert de Raad van Advies in het jaarverslag. Onderdeel van deze bespreking is onder meer:
 
-- a). het gewenste profiel, de samenstelling en competentie van de Raad van Advies;
+- a) het gewenste profiel, de samenstelling en competentie van de Raad van Advies;
 
-- b). de inzet, het functioneren en de aanwezigheidsfrequentie van de individuele leden.
+- b) de inzet, het functioneren en de aanwezigheidsfrequentie van de individuele leden.
 
 2. Indien een lid van de Raad van Advies tussentijds zou dienen af te treden als gevolg van onvoldoende functioneren, structurele onverenigbaarheid van belangen of wanneer dit anderszins naar het oordeel van de Raad van Advies geboden is, doet de Raad van Advies hierover mededeling aan de algemeen directeur/bestuurder. De algemeen directeur/bestuurder ontslaat vervolgens het betreffende lid.
 
@@ -139,21 +109,21 @@ De voorzitter en de leden van de Raad van Advies ontvangen voor hun werkzaamhede
 
 1. De Raad van Advies heeft als taak om de algemeen directeur/bestuurder te adviseren. De leden van de Raad van Advies richten zich bij de vervulling van deze adviserende taken naar de maatschappelijke opgave van de Raad voor Rechtsbijstand:
 
-- •. Primair adviseert de Raad van Advies over de toegang tot het recht vanuit maatschappelijk oogpunt;
+- • Primair adviseert de Raad van Advies over de toegang tot het recht vanuit maatschappelijk oogpunt;
 
-- •. Secundair is de rol van de Raad van Advies het signaleren van en adviseren over potentiële kwetsbaarheden en risico’s in de uitvoering van de Raad voor Rechtsbijstand, zoals deze jaarlijks in de Stand van de uitvoering naar voren komen.
+- • Secundair is de rol van de Raad van Advies het signaleren van en adviseren over potentiële kwetsbaarheden en risico’s in de uitvoering van de Raad voor Rechtsbijstand, zoals deze jaarlijks in de Stand van de uitvoering naar voren komen.
 
 2. Bij het adviseren vanuit de maatschappelijke taak van de Raad voor Rechtsbijstand betrekt de Raad van Advies verschillende invalshoeken:
 
-- •. Het perspectief van de burger op rechtshulp en rechtsbijstand;
+- • Het perspectief van de burger op rechtshulp en rechtsbijstand;
 
-- •. Maatschappelijke trends en knelpunten in de toegang tot het recht en gesubsidieerde rechtsbescherming;
+- • Maatschappelijke trends en knelpunten in de toegang tot het recht en gesubsidieerde rechtsbescherming;
 
-- •. Het perspectief van de (sociale) advocatuur en mediators;
+- • Het perspectief van de (sociale) advocatuur en mediators;
 
-- •. Risico’s en kansen in de uitvoering en kansen ten aanzien van de nieuwste ICT-mogelijkheden;
+- • Risico’s en kansen in de uitvoering en kansen ten aanzien van de nieuwste ICT-mogelijkheden;
 
-- •. Politiek, bestuurlijke verhoudingen en overzicht van de keten van gesubsidieerde rechtsbijstand.
+- • Politiek, bestuurlijke verhoudingen en overzicht van de keten van gesubsidieerde rechtsbijstand.
 
 3. De algemeen directeur/bestuurder betrekt de adviezen van de Raad van Advies bij de opstelling van het jaarplan.
 

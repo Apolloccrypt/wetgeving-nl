@@ -1,53 +1,25 @@
 ---
 title: "Beleidsregel jeugdtandverzorging instellingen"
 identifier: "BWBR0050015"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050015"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17178263"
-version_id: "30241372"
-internal_id: "C43317571"
-label_id: "17086254"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050015/2025-01-01/0"
-intitule_bron: "Stcrt.2024-21692"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-25"
-intitule_published: "2024-07-10"
-intitule_in_force: "2024-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21692"
-original_signed_date: "2024-06-25"
-original_published_date: "2024-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21692"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050015&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050015&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-06-25"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050015"
+opgehaald: 2026-09-06
 ---
+
 # Beleidsregel jeugdtandverzorging instellingen
-
-Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
-
-Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
-
-Gelet op [artikel 59, aanhef en onderdeel b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van VWS met brief van 12 juli 2012, met kenmerk MC-U-3122855, ten behoeve van voorliggende beleidsregel een [aanwijzing op grond van artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0031816) aan de NZa gegeven.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- **Instelling voor jeugdtandverzorging** Een instelling voor jeugdtandverzorging kenmerkt zich door mondzorgverleners met specifieke deskundigheden en vaardigheden alsmede faciliteiten ten behoeve van consultatie, diagnostiek en behandeling verleent aan patiënten tot 18 jaar. De gebitsverzorging aan de deelnemende patiënten vindt plaats in een dental-car (tandartsbus) of andere mobiele praktijkruimte bij de (basis)school van de deelnemende kinderen of in het behandelcentrum. Indien de deelnemende kinderen per taxibus worden gehaald van de scholen voor controle en (preventieve) behandeling op een behandelcentrum, is sprake van de zogenaamde haalservice. Indien de kinderen worden gezien voor controle en (preventieve) behandeling op een dental-car of andere mobiele praktijkruimte bij de (basis)school van de deelnemende kinderen betreft dit de zogenaamde brengservice.
+- *Instelling voor jeugdtandverzorging* Een instelling voor jeugdtandverzorging kenmerkt zich door mondzorgverleners met specifieke deskundigheden en vaardigheden alsmede faciliteiten ten behoeve van consultatie, diagnostiek en behandeling verleent aan patiënten tot 18 jaar. De gebitsverzorging aan de deelnemende patiënten vindt plaats in een dental-car (tandartsbus) of andere mobiele praktijkruimte bij de (basis)school van de deelnemende kinderen of in het behandelcentrum. Indien de deelnemende kinderen per taxibus worden gehaald van de scholen voor controle en (preventieve) behandeling op een behandelcentrum, is sprake van de zogenaamde haalservice. Indien de kinderen worden gezien voor controle en (preventieve) behandeling op een dental-car of andere mobiele praktijkruimte bij de (basis)school van de deelnemende kinderen betreft dit de zogenaamde brengservice.
 
-- **Tarieven instelling voor jeugdtandverzorging** Een instelling voor jeugdtandverzorging die tandheelkundige hulp levert aan patiënten tot 18 jaar kan op grond van deze beleidsregel bovenop de tandheelkundetarieven een toeslagtarief voor de haal- en/of brengservice en daarnaast een instellingstoeslag van maximaal 10% voor de behandeling van risicogroepen in rekening brengen.
+- *Tarieven instelling voor jeugdtandverzorging* Een instelling voor jeugdtandverzorging die tandheelkundige hulp levert aan patiënten tot 18 jaar kan op grond van deze beleidsregel bovenop de tandheelkundetarieven een toeslagtarief voor de haal- en/of brengservice en daarnaast een instellingstoeslag van maximaal 10% voor de behandeling van risicogroepen in rekening brengen.
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -69,13 +41,25 @@ Naast de hierboven genoemde prestatiebeschrijvingen kunnen de instellingen voor 
 
 ##### Artikel 5. Totstandkoming tarieven
 
+5.1 Tariefaanvraag
+
 Om rechtsgeldig een individueel vast toeslagtarief voor de haal- en/of brengservice (met prestatiecode JTV010) en/of de instellingstoeslag (met prestatiecode JTV001) in rekening te kunnen brengen moet de instelling voor jeugdtandverzorging hiervoor een rechtsgeldige tariefbeschikking van de Nederlandse Zorgautoriteit (NZa) hebben gekregen. Hiertoe dient de instelling voor jeugdtandverzorging jaarlijks, samen met twee representerende zorgverzekeraars, een aanvraag in. Voor het tariefverzoek moet de begroting van verwachte kosten en productie van de haal- en/of brengservice, de onderbouwing voor de hoogte van de overeengekomen instellingstoeslag en de overeenkomst met de zorgverzekeraars worden meegestuurd.
 
+5.2 Voorwaarden individueel vast toeslagtarief haal- en/of brengservice en instellingstoeslag
+
 Een (nieuw) individueel vast toeslagtarief voor de haal- en/of brengservice en de instellingstoeslag wordt alleen afgegeven indien de instelling minimaal een verzoek tot definitieve verrekening van het jaar (t-2) en voorafgaande jaren heeft ingediend (zie hierna onder paragraaf 5.6).
+
+5.3 Berekening van het individueel vast toeslagtarief voor de haal- en/of brengservice
+
+5.3.1 Tariefberekening
 
 De hoogte van het individueel vast toeslagtarief voor de haal- en/of brengservice wordt berekend door de totale begrote aanvaardbare kosten voor de haal- en/of brengservice te delen door het aantal periodieke controles bij patiënten die gebruik maken van de haal- en/of brengservice. Het toeslagtarief is een individueel vast tarief per instelling.
 
 Een instelling voor jeugdtandverzorging mag in combinatie met een periodieke controle van een patiënt tot 18 jaar (C001 of C002) een tarieftoeslag voor de haal- en/of brengservice in rekening brengen.
+
+5.3.2 Toetsingskader
+
+Haalservice
 
 De kosten voor de haalservice worden vooraf per instelling bepaald op basis van een begroting van de totale, verwachte kosten voor het vervoer van de patiënten van de (basis)school naar de behandelplaats en terug.
 
@@ -83,27 +67,33 @@ Aanvaardbaar zijn de totale kosten van het vervoer van de patiënten van de (bas
 
 | zitplaatscapaciteit rijdend materieel | per inzetdag rijdend materieel | per gereden km rijdend materieel | per chauffeursuur |
 | --- | --- | --- | --- |
-| **t/m 8 zitplaatsen** |   |   |   |
+| t/m 8 zitplaatsen |  |  |  |
 | minibus rolstoelbus | € 101,27 € 115,90 | € 0,34 € 0,34 | € 31,21 € 31,28 |
-| **9-26 zitplaatsen** | € 154,53 | € 0,45 | € 40,22 |
+| 9-26 zitplaatsen | € 154,53 | € 0,45 | € 40,22 |
 
 Deze bedragen zijn exclusief BTW.
 
 De bedragen per inzetdag of per gereden kilometer rijdend materieel worden jaarlijks aangepast met de prijsstijging particuliere consumptie (ppc) volgens het Centraal Economisch Plan (CEP). De bedragen per chauffeursuur worden jaarlijks aangepast op basis van de door de Minister van VWS voor het betreffende jaar aangegeven overheidsbijdrage in de arbeidskostenontwikkeling (ova).
 
-De totale, werkelijke salariskosten van een chauffeur bedraagt maximaal € 45.904,- en van een begeleider maximaal € 41.249,- per jaar op fulltime basis (definitief niveau 2024). Deze bedragen worden jaarlijks aangepast met de mutatie volgens het ova-percentage.
+De totale, werkelijke salariskosten van een chauffeur bedraagt maximaal € 45.904,- en van een begeleider maximaal € 41.249,- per jaar op fulltime basis (definitief niveau 2024). Deze bedragen worden jaarlijks aangepast met de mutatie volgens het ova-percentage.
 
 De kosten voor de haalservice kunnen maximaal worden verhoogd met een toeslagpercentage van 15% voor overheadkosten.
 
+Brengservice
+
 De kosten voor de brengservice worden vooraf per instelling bepaald op basis van een begroting van het verschil tussen de totale, werkelijke exploitatiekosten (inclusief kosten van instrumentarium) per (tandarts)stoel in een dental-car of andere mobiele praktijkruimte van de desbetreffende dienst en het jaarlijks vast te stellen franchisebedrag per stoel.
 
-Het franchisebedrag bedraagt € 29.618,- (definitief niveau 2024). Het franchisebedrag per stoel wordt jaarlijks aangepast met de mutatie volgens het ppc-percentage.
+Het franchisebedrag bedraagt € 29.618,- (definitief niveau 2024). Het franchisebedrag per stoel wordt jaarlijks aangepast met de mutatie volgens het ppc-percentage.
 
 Indien de exploitatiekosten per stoel hoger zijn dan het franchisebedrag per stoel kan het verschil maximaal worden verhoogd met een toeslagpercentage van 15% voor overheadkosten.
 
-De NZa zal de bedragen van het toetsingskader voor het individueel vast toeslagtarief voor de haal- en/of brengservice jaarlijks per 1 januari van het jaar (t+1) actualiseren voor de loon- en prijsstijgingen volgens de betreffende indexen. De wijze van indexeren is geregeld in de [Beleidsregel indexering](https://wetten.overheid.nl/jci1.3:c:BWBR0047297).
+De NZa zal de bedragen van het toetsingskader voor het individueel vast toeslagtarief voor de haal- en/of brengservice jaarlijks per 1 januari van het jaar (t+1) actualiseren voor de loon- en prijsstijgingen volgens de betreffende indexen. De wijze van indexeren is geregeld in de [Beleidsregel indexering](https://wetten.overheid.nl/jci1.3:c:BWBR0047297).
+
+5.4 Instellingstoeslag
 
 De tarieven voor tandheelkundige hulp aan jeugdige patiënten tot 18 jaar, met uitzondering van de techniekkosten, kosten implantanten, stiften, laboratoriumkosten en materiaalkosten voor regeneratietechnieken, kunnen worden verhoogd met een instellingstoeslag van maximaal 10% voor de behandeling van risicogroepen. Voorwaarde hiervoor is dat de NZa op grond van een onderbouwde aanvraag hiervoor een tariefbeschikking heeft afgegeven.
+
+5.5 Nacalculatie
 
 Op grond van de hierboven vastgelegde systematiek wordt een individueel vast toeslagtarief voor de haal- en/of brengservice op voorcalculatorisch niveau jaar t vastgesteld. Achteraf vindt een verrekening plaats van de daadwerkelijke kosten en productie jaar t, rekening houdend met het in artikel 5.3.2 beschreven toetsingskader. De wijze van verrekening is afhankelijk van de hieronder beschreven situaties:
 
@@ -115,17 +105,19 @@ Op grond van de hierboven vastgelegde systematiek wordt een individueel vast toe
 
 - d. De instelling gaat failliet of stopt met het leveren van tandheelkundige zorg aan patiënten tot 18 jaar Indien de rechtbank het faillissement van de instelling uitspreekt en een curator benoemt, legt de NZa op verzoek van de failliete instelling, de namens de failliete instelling handelende curator of de zorgverzekeraar op basis van [artikel 56b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b) de definitieve verrekenbedragen jaar t vast in een individuele tariefbeschikking voor de instelling. De NZa berekent zowel in het geval van faillissement of het stoppen met de zorglevering het definitief terug te vorderen bedrag (bij een opbrengstoverschot) of het in rekening te brengen bedrag (bij een opbrengsttekort) per zorgverzekeraar naar rato van hun definitieve marktaandeel bij de instelling. De instelling overlegt per zorgverzekeraar de opbrengsten uit de gedeclareerde tarieven. Op basis van deze gegevens berekent de NZa per instelling de marktaandelen per zorgverzekeraar. Ten behoeve van de nacalculatie dient de instelling voor jeugdtandverzorging de jaarrekening over het jaar t alsmede het bijbehorende verantwoordingsformulier te overleggen. De jaarrekening en het bijbehorende verantwoordingsformulier bevat de volgende, door een (externe) accountant gecontroleerde cijfers; De verantwoordelijkheid van de accountant is daarbij het geven van een oordeel over de jaarrekening op basis van zijn controle. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico’s van fraude of fouten. Uiteindelijk zal de accountant op basis van zijn controlewerkzaamheden een oordeel moeten geven of de jaarrekening een getrouw beeld geeft van de grootte en de samenstelling van het vermogen en van het resultaat. Instellingen voor jeugdtandverzorging die niet zelfstandig opereren en op grond van (andere) wet- en regelgeving niet verplicht zijn om een alleen op deze instelling voor jeugdtandverzorging betrekking hebbende jaarrekening op te stellen, dienen – in plaats van de jaarrekening – minimaal een door een (externe) accountant opgesteld rapport van feitelijke bevindingen ten aanzien van de hierboven genoemde gegevens te verstrekken. Het rapport van feitelijke bevindingen moet voldoende gedetailleerd een beschrijving van het doel en van de overeengekomen werkzaamheden geven, teneinde de gebruiker in staat te stellen de aard en de reikwijdte van de uitgevoerde werkzaamheden te begrijpen.
 
-- –. De totale opbrengsten, uitgesplitst naar tandheelkundige verrichtingen en tandtechnische werkzaamheden;
+   - – De totale opbrengsten, uitgesplitst naar tandheelkundige verrichtingen en tandtechnische werkzaamheden;
 
-- –. De totale exploitatiekosten;
+   - – De totale exploitatiekosten;
 
-- –. Het aantal gedeclareerde toeslagen;
+   - – Het aantal gedeclareerde toeslagen;
 
-- –. Het aantal behandelde kinderen.
+   - – Het aantal behandelde kinderen.
 
-De NZa geeft jaarlijks aan een instelling, op aanvraag en na goedkeuring, een individueel vast toeslagtarief af vóór 1 januari van het jaar (t+1). Hiervoor dient de tariefaanvraag door instelling en representerende zorgverzekeraars uiterlijk 1 oktober in het jaar (t) tweezijdig en volledig te zijn ingediend.
+5.6 Vaststelling individueel vast toeslagtarief haal- en/of brengservice én instellingstoeslag
 
-Instelling en representerende zorgverzekeraars kunnen vóór 1 december van het jaar (t) een onderbouwd verzoek tot verlenging van de lopende tariefbeschikking indienen. De NZa kan daarop de geldigheidsduur van de lopende tariefbeschikking met maximaal zes maanden verlengen tot uiterlijk 1 juli van het jaar (t+1).
+De NZa geeft jaarlijks aan een instelling, op aanvraag en na goedkeuring, een individueel vast toeslagtarief af vóór 1 januari van het jaar (t+1). Hiervoor dient de tariefaanvraag door instelling en representerende zorgverzekeraars uiterlijk 1 oktober in het jaar (t) tweezijdig en volledig te zijn ingediend.
+
+Instelling en representerende zorgverzekeraars kunnen vóór 1 december van het jaar (t) een onderbouwd verzoek tot verlenging van de lopende tariefbeschikking indienen. De NZa kan daarop de geldigheidsduur van de lopende tariefbeschikking met maximaal zes maanden verlengen tot uiterlijk 1 juli van het jaar (t+1).
 
 Indien instelling en representerende zorgverzekeraars verzuimen het verzoek tot vaststelling van het individueel vast toeslagtarief haal- en/of brengservice én instellingstoeslag tijdig in te dienen of de verlenging van de geldigheidsduur van de lopende tariefbeschikking is ontoereikend, geldt dat de instelling voor jeugdtandverzorging geen recht meer heeft op declaratie van het individueel vast toeslagtarief voor de haal- en/of brengservice en/of de instellingstoeslag.
 
@@ -149,9 +141,9 @@ Indien de rechtspersoon, die een instelling exploiteert, geen eigenaar is van de
 
 Indien de rechtspersoon, die een instelling exploiteert, geen eigenaar is van de gebouwen en/of installaties en/of inventaris en de verhuurder een rechtspersoon is met een op winst gerichte doelstelling, zal aan huur worden ingecalculeerd:
 
-- –. hetzij een door de huuradviescommissie recentelijk geadviseerd huurbedrag voor het desbetreffende pand;
+- – hetzij een door de huuradviescommissie recentelijk geadviseerd huurbedrag voor het desbetreffende pand;
 
-- –. hetzij – indien een dergelijk advies niet beschikbaar is of indien in het pand nieuwe investeringen gepleegd worden om het geschikt te maken voor zijn nieuwe bestemming – de huur die wordt vastgesteld door drie makelaars, één aan te wijzen door de huurder, één aan te wijzen door de verhuurder en één aan te wijzen door beide voornoemde makelaars.
+- – hetzij – indien een dergelijk advies niet beschikbaar is of indien in het pand nieuwe investeringen gepleegd worden om het geschikt te maken voor zijn nieuwe bestemming – de huur die wordt vastgesteld door drie makelaars, één aan te wijzen door de huurder, één aan te wijzen door de verhuurder en één aan te wijzen door beide voornoemde makelaars.
 
 Indien echter een als instelling van gezondheidszorg in gebruik zijnd pand overgedragen wordt aan een derde die dit pand vervolgens weer in huur aanbiedt ten behoeve van de exploitatie van een instelling van gezondheidszorg, wordt als huur slechts ingecalculeerd de vóór deze transactie bestaande eigenaarslasten (rente, afschrijving, vaste lasten).
 
@@ -174,7 +166,11 @@ Met inachtneming van het vorenstaande wordt bij de tariefbepaling uitgegaan van 
 
 De aldus berekende, bij de bepaling van de aanvaardbare kosten in aanmerking te nemen afschrijvingskosten worden verminderd met de doorberekende kosten van afschrijving.
 
+De afschrijvingsbasis bij overdracht en bij verandering van rechtsvorm
+
 Overname van een instelling door een andere rechtspersoon en verandering van rechtsvorm, kunnen de afschrijvingsbasis niet doen wijzigen.
+
+Afschrijvingen op bijzondere activa
 
 Aanloopkosten, waaronder worden verstaan lopende uitgaven, zoals salarissen, opleidingskosten, etc., welke worden gemaakt reeds voordat de instelling in gebruik wordt genomen, dienen te worden geactiveerd en moeten volgens de richtlijn in 40 jaar worden afgeschreven.
 
@@ -196,27 +192,27 @@ In afwijking van het aan de richtlijnen afschrijving en rente ten grondslag ligg
 
 - b. Het onroerend goed wordt voor gebruik ter beschikking gesteld door of namens een (rechts)persoon met een niet op winst gerichte doelstelling, alsmede door of namens gemeenten en andere publiekrechtelijke rechtspersonen, mits het onroerend goed:
 
-- –. afkomstig is van buiten de gezondheidszorg in ruime zin, dat wil zeggen, niet reeds heeft gediend voor activiteiten waarvan bekostiging thans plaatsvindt vanwege ziektekostenverzekering of [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+   - – afkomstig is van buiten de gezondheidszorg in ruime zin, dat wil zeggen, niet reeds heeft gediend voor activiteiten waarvan bekostiging thans plaatsvindt vanwege ziektekostenverzekering of [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- –. niet is verworven met het oog op gebruik in het kader van de gezondheidszorg.
+   - – niet is verworven met het oog op gebruik in het kader van de gezondheidszorg.
 
 - c. Zowel in geval a als b, maar met uitzondering van de situatie waarin de overheid als erfpachter optreedt, geldt dat het eigendom van het onroerend goed niet direct of indirect berust bij het orgaan voor gezondheidszorg of de rechtspersoon waarvan het orgaan voor gezondheidszorg uitgaat. De gehanteerde indexering mag ten hoogste bedragen: Voor de toepassing van deze richtlijn geldt dat: overname van een instelling door een andere rechtspersoon, wijzigingen van rechtsovername of andere juridische constructie alleen, niet kunnen leiden tot een wijziging van de aanvaardbare kosten of tarieven van een orgaan voor gezondheidszorg. In twijfelgevallen is de strekking van de richtlijn doorslaggevend.
 
-- –. voor erfpacht: de consumentenprijsindex (CPI-Werknemers Laag) van het CBS;
+   - – voor erfpacht: de consumentenprijsindex (CPI-Werknemers Laag) van het CBS;
 
-- –. voor huur: de consumentenprijsindex (CPI-Werknemers Laag) van het CBS, hetzij het wettelijk toegestane verhogingspercentage, hetzij het percentage dat resulteert uit een recentelijk geadviseerd huurbedrag door de huurcommissie of indien een dergelijk percentage niet beschikbaar is, het percentage dat resulteert uit de huur die wordt vastgesteld door drie makelaars, één aan te wijzen door de verhuurder en één aan te wijzen door de huurder en één aan te wijzen door beide voornoemde makelaars.
+   - – voor huur: de consumentenprijsindex (CPI-Werknemers Laag) van het CBS, hetzij het wettelijk toegestane verhogingspercentage, hetzij het percentage dat resulteert uit een recentelijk geadviseerd huurbedrag door de huurcommissie of indien een dergelijk percentage niet beschikbaar is, het percentage dat resulteert uit de huur die wordt vastgesteld door drie makelaars, één aan te wijzen door de verhuurder en één aan te wijzen door de huurder en één aan te wijzen door beide voornoemde makelaars.
 
-##### Artikel 10. Intrekken oude [beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0047299)
+##### Artikel 10. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel jeugdtandverzorging instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0047299), met kenmerk BR/REG-23131a, ingetrokken.
 
-##### Artikel 11. Toepasselijkheid voorafgaande [beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0047299)
+##### Artikel 11. Toepasselijkheid voorafgaande beleidsregel
 
 De [Beleidsregel jeugdtandverzorging instellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0047299) met kenmerk BR/REG-23131a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
 ##### Artikel 12. Inwerkingtreding / bekendmaking
 
-Deze beleidsregel treedt in werking op 1 januari 2025.
+Deze beleidsregel treedt in werking op 1 januari 2025.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst. Deze beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 

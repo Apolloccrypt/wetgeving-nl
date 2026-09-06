@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 11 maart 2024, nr. 5192965/24/DI&I, houdende de herbenoeming en naamswijziging van de Commissie advies Informatie en Openbaarheid van het Ministerie van Justitie en Veiligheid (voorheen: Commissie advies informatiehuishouding JenV)"
+citeertitel: "Commissie Advies Informatie en Openbaarheid JenV"
 identifier: "BWBR0049763"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-06"
-last_updated: "2024-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049763"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17117333"
-version_id: "30126392"
-internal_id: "C43165071"
-label_id: "17025834"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049763/2024-06-06/0"
-intitule_bron: "Stcrt.2024-17958"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-11"
-intitule_published: "2024-06-05"
-intitule_in_force: "2024-06-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17958"
-original_signed_date: "2024-03-11"
-original_published_date: "2024-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17958"
-entry_into_force_date: "2024-06-06"
-jci_1_3: "jci1.3:c:BWBR0049763&z=2024-06-06&g=2024-06-06"
-jci_1_0: "1.0:c:BWBR0049763&g=2024-06-06"
-citeertitel_status: "officieel"
-short_title: "Commissie Advies Informatie en Openbaarheid JenV"
-signed_date: "2024-03-11"
-entry_into_force: "2024-06-06"
+publicatiedatum: 2024-06-06
+laatste_update: 2024-06-06
+status: geldig
+toestand: 2024-06-06
+bron: "https://wetten.overheid.nl/BWBR0049763"
+opgehaald: 2026-09-06
 ---
-# Besluit van de Minister van Justitie en Veiligheid van 11 maart 2024, nr. 5192965/24/DI&I, houdende de herbenoeming en naamswijziging van de Commissie advies Informatie en Openbaarheid van het Ministerie van Justitie en Veiligheid (voorheen: Commissie advies informatiehuishouding JenV)
 
-Besluit:
+# Besluit van de Minister van Justitie en Veiligheid van 11 maart 2024, nr. 5192965/24/DI&I, houdende de herbenoeming en naamswijziging van de Commissie advies Informatie en Openbaarheid van het Ministerie van Justitie en Veiligheid (voorheen: Commissie advies informatiehuishouding JenV)
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
-- a). **minister:** de Minister van Justitie en Veiligheid;
+- a) *minister:* de Minister van Justitie en Veiligheid;
 
-- b). **commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049763&artikel=2&z=2024-06-06&g=2024-06-06).
+- b) *commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049763&artikel=2&z=2024-06-06&g=2024-06-06).
 
 ##### Artikel 2. Instelling en taak
 
@@ -68,27 +44,27 @@ Daarnaast worden door juridische, maatschappelijke en digitale ontwikkelingen ex
 
 ##### Artikel 4. Leden
 
-Vanaf 18 oktober 2023 tot 18 oktober 2027 zijn tot voorzitter, lid en secretaris van de commissie herbenoemd:
+Vanaf 18 oktober 2023 tot 18 oktober 2027 zijn tot voorzitter, lid en secretaris van de commissie herbenoemd:
 
-- a). prof. dr. mr. Catrien Bijleveld, voorzitter;
+- a) prof. dr. mr. Catrien Bijleveld, voorzitter;
 
-- b). prof. dr. Frances Brazier, lid;
+- b) prof. dr. Frances Brazier, lid;
 
-- c). prof. dr. Paul Louis Iske, lid;
+- c) prof. dr. Paul Louis Iske, lid;
 
-- d). prof. dr. Charles Jeurgens, lid;
+- d) prof. dr. Charles Jeurgens, lid;
 
-- e). dr. mr. Marcel Verburg, lid;
+- e) dr. mr. Marcel Verburg, lid;
 
-- f). drs. Hans Waalwijk, lid;
+- f) drs. Hans Waalwijk, lid;
 
-- g). drs. Fanny Wallebroek, lid, tevens inhoudelijk secretaris en
+- g) drs. Fanny Wallebroek, lid, tevens inhoudelijk secretaris en
 
-- h). prof. dr. mr. Gerrit-Jan Zwenne, lid.
+- h) prof. dr. mr. Gerrit-Jan Zwenne, lid.
 
 ##### Artikel 5. Instellingsduur
 
-De commissie is met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd.
+De commissie is met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd.
 
 ##### Artikel 6. Secretariaat
 
@@ -118,10 +94,8 @@ De commissie is met ingang van 17 oktober 2019 ingesteld voor onbepaalde tijd.
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 18 oktober 2023.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 18 oktober 2023.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Commissie Advies Informatie en Openbaarheid JenV.
-
-Dit besluit wordt in de Staatscourant geplaatst.

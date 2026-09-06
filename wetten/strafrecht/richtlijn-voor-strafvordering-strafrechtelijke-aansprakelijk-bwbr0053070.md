@@ -8,7 +8,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0053070"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen

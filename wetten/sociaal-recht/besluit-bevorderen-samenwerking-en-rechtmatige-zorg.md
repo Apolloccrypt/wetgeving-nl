@@ -1,49 +1,17 @@
 ---
 title: "Besluit bevorderen samenwerking en rechtmatige zorg"
 identifier: "BWBR0049565"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049565"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17071963"
-version_id: "30043292"
-internal_id: "C43516971"
-label_id: "16981174"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049565/2025-01-01/0"
-intitule_bron: "Stb.2024-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-08"
-intitule_published: "2024-04-12"
-intitule_in_force: "2024-09-25"
-intitule_status: "goed"
-original_publication: "Stb.2024-85"
-original_signed_date: "2024-04-08"
-original_published_date: "2024-04-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-85"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0049565&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0049565&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-04-08"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0049565"
+opgehaald: 2026-09-06
 ---
+
 # Besluit bevorderen samenwerking en rechtmatige zorg
-
-Op de voordracht van Onze Minister voor Langdurige Zorg en Sport, in overeenstemming met Onze Minister voor Rechtsbescherming en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 9 november 2023, kenmerk 3718267-1056219-WJZ;
-
-Gelet op de [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.3), [2.4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), en [2.8 van de Wet bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.8), [artikel 18, eerste lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18) en [artikel 3.3, eerste lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 14 februari 2024, no.W13.23.00333/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister voor Rechtsbescherming en de Staatssecretaris van Binnenlandse Zaken en Koninkrijkrelaties, van 2 april 2024, kenmerk 3785987-1056219-WJZ;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,37 +19,38 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanbieder:** aanbieder van zorg, hulp of ondersteuning;
+- – *aanbieder:* aanbieder van zorg, hulp of ondersteuning;
 
-- –. **administratieve kenmerken van een rechtspersoon:** de naam, het adres, de vestigingsplaats, het KVK-nummer, de door ziektekostenverzekeraars gehanteerde administratieve codes van een rechtspersoon en het SKJ-registratienummer;
+- – *administratieve kenmerken van een rechtspersoon:* de naam, het adres, de vestigingsplaats, het KVK-nummer, de door ziektekostenverzekeraars gehanteerde administratieve codes van een rechtspersoon en het SKJ-registratienummer;
 
-- –. **BIG-nummer:** BIG-nummer als bedoeld in[artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1);
+- – *BIG-nummer:* BIG-nummer als bedoeld in[artikel 1 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1);
 
-- –. **burgerservicenummer:** burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- – *burgerservicenummer:* burgerservicenummer als bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- –. **cliënt:** een natuurlijke persoon die zorg, hulp of ondersteuning ontvangt;
+- – *cliënt:* een natuurlijke persoon die zorg, hulp of ondersteuning ontvangt;
 
-- –. **conclusies uit benchmarkgegevens:** conclusies uit analyses die zijn uitgevoerd op een of meerdere verzamelingen van gegevens en geen gegevens bevatten die te herleiden zijn tot individuele natuurlijke personen of rechtspersonen die niet betrokken zijn bij een aanleiding tot een vermoeden van fraude in de zorg;
+- – *conclusies uit benchmarkgegevens:* conclusies uit analyses die zijn uitgevoerd op een of meerdere verzamelingen van gegevens en geen gegevens bevatten die te herleiden zijn tot individuele natuurlijke personen of rechtspersonen die niet betrokken zijn bij een aanleiding tot een vermoeden van fraude in de zorg;
 
-- –. **declaratiegegevens:** geaggregeerde gegevens over overeengekomen, in rekening gebrachte, betaalde of geleverde prestaties;
+- – *declaratiegegevens:* geaggregeerde gegevens over overeengekomen, in rekening gebrachte, betaalde of geleverde prestaties;
 
-- –. **gerechtvaardigde overtuiging:** gerechtvaardigde overtuiging als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01);
+- – *gerechtvaardigde overtuiging:* gerechtvaardigde overtuiging als bedoeld in [artikel 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=2&artikel=2.1&z=2025-01-01&g=2025-01-01);
 
-- –. **handelsgegevens:** de omvang van het personeelsbestand, het aantal cliënten, de locaties waar cliënten zorg, hulp of ondersteuning ontvangen, dochterondernemingen, concernrelaties en bestuurders, alsmede overige gegevens die zijn opgenomen in het handelsregister, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=1);
+- – *handelsgegevens:* de omvang van het personeelsbestand, het aantal cliënten, de locaties waar cliënten zorg, hulp of ondersteuning ontvangen, dochterondernemingen, concernrelaties en bestuurders, alsmede overige gegevens die zijn opgenomen in het handelsregister, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=1);
 
-- –. **identificerende gegevens van een natuurlijke persoon:** de naam, het adres, de woonplaats, de geboortedatum, het geslacht, het KVK-nummer, het BIG-nummer, de door ziektekostenverzekeraars gehanteerde administratieve codes van een natuurlijke persoon en het SKJ-registratienummer;
+- – *identificerende gegevens van een natuurlijke persoon:* de naam, het adres, de woonplaats, de geboortedatum, het geslacht, het KVK-nummer, het BIG-nummer, de door ziektekostenverzekeraars gehanteerde administratieve codes van een natuurlijke persoon en het SKJ-registratienummer;
 
-- –. **instantie:** een instantie als genoemd in [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), met uitzondering van het Informatieknooppunt zorgfraude;
+- – *instantie:* een instantie als genoemd in [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), met uitzondering van het Informatieknooppunt zorgfraude;
 
-- –. **KVK-nummer:** door de Kamer van Koophandel toegekend uniek nummer als bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9);
+- – *KVK-nummer:* door de Kamer van Koophandel toegekend uniek nummer als bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9);
 
-- –. **politiegegeven:** politiegegeven als bedoeld in [artikel 1, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18);
+- – *politiegegeven:* politiegegeven als bedoeld in [artikel 1, onderdeel a, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18);
 
-- –. **SKJ-registratienummer:** nummer waarmee de natuurlijke persoon of rechtspersoon wordt aangeduid in het kwaliteitsregister jeugd als bedoeld in [artikel 1.1 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=1.1) dat wordt beheerd door de in dat artikel bedoelde registerstichting;
+- – *SKJ-registratienummer:* nummer waarmee de natuurlijke persoon of rechtspersoon wordt aangeduid in het kwaliteitsregister jeugd als bedoeld in [artikel 1.1 van het Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779&artikel=1.1) dat wordt beheerd door de in dat artikel bedoelde registerstichting;
 
-- –. **wet:** [Wet bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048601);
+- – *wet:*
+ [Wet bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048601);
 
-- –. **zorg, hulp of ondersteuning:** zorg of overige diensten als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), maatschappelijke ondersteuning als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de door een ziektekostenverzekeraar te vergoeden zorg, die niet behoort tot het verzekerde pakket van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
+- – *zorg, hulp of ondersteuning:* zorg of overige diensten als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), maatschappelijke ondersteuning als bedoeld in de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of de door een ziektekostenverzekeraar te vergoeden zorg, die niet behoort tot het verzekerde pakket van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
 ### Hoofdstuk 2. Gegevensverwerking bij gerechtvaardigde overtuiging van fraude in de zorg
 
@@ -549,11 +518,11 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ##### Artikel 4.1
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ##### Artikel 4.2
 
-Wijzigt het Besluit basisregistratie personen.
+*Wijzigt het Besluit basisregistratie personen.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -564,5 +533,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit bevorderen samenwerking en rechtmatige zorg.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

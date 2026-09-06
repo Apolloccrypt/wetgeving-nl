@@ -8,7 +8,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0053071"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Regeling tegemoetkoming AOW-hiaat Defensie

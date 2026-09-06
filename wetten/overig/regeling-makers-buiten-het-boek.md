@@ -1,70 +1,43 @@
 ---
 title: "Regeling Makers buiten het boek"
 identifier: "BWBR0049964"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-11-26"
-last_updated: "2025-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049964"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17166483"
-version_id: "30217332"
-internal_id: "C43287191"
-label_id: "17074634"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049964/2025-11-26/0"
-intitule_bron: "Stcrt.2024-21297"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-07-15"
-intitule_in_force: "2024-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21297"
-original_published_date: "2024-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21297"
-entry_into_force_date: "2024-07-16"
-jci_1_3: "jci1.3:c:BWBR0049964&z=2025-11-26&g=2025-11-26"
-jci_1_0: "1.0:c:BWBR0049964&g=2025-11-26"
-citeertitel_status: "officieel"
-entry_into_force: "2024-07-16"
+publicatiedatum: 2024-07-16
+laatste_update: 2025-11-26
+status: geldig
+toestand: 2025-11-26
+bron: "https://wetten.overheid.nl/BWBR0049964"
+opgehaald: 2026-09-06
 ---
+
 # Regeling Makers buiten het boek
-
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** het bestuur van het Letterenfonds;
+- *bestuur:* het bestuur van het Letterenfonds;
 
-- **het Letterenfonds:** Stichting Nederlands Letterenfonds;
+- *het Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- **professionele literaire maker:** natuurlijk persoon die zich beroepsmatig bezighoudt met het creëren van literatuur;
+- *professionele literaire maker:* natuurlijk persoon die zich beroepsmatig bezighoudt met het creëren van literatuur;
 
-- **literatuur:** literaire creaties in het Nederlands, Fries, Papiaments of de Nederlandse Gebarentaal;
+- *literatuur:* literaire creaties in het Nederlands, Fries, Papiaments of de Nederlandse Gebarentaal;
 
-- **literaire creatie:** een oorspronkelijk, literair werk;
+- *literaire creatie:* een oorspronkelijk, literair werk;
 
-- **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- *Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- **project:** een in de tijd beperkte activiteit in het Koninkrijk van een maker op het gebied van de literatuur die gericht is op de artistieke ontwikkeling van de maker en leidt tot een literaire creatie, niet zijnde een boek of bewerking van een boek, en een presentatie daarvan voor een publiek bij een presentatiepartner;
+- *project:* een in de tijd beperkte activiteit in het Koninkrijk van een maker op het gebied van de literatuur die gericht is op de artistieke ontwikkeling van de maker en leidt tot een literaire creatie, niet zijnde een boek of bewerking van een boek, en een presentatie daarvan voor een publiek bij een presentatiepartner;
 
-- **presentatiepartner:** een professionele instelling gevestigd in het Koninkrijk die van het Letterenfonds subsidie heeft ontvangen voor het organiseren van literaire activiteiten en die investeert in het project, een professionele producent of een uitgeverij;
+- *presentatiepartner:* een professionele instelling gevestigd in het Koninkrijk die van het Letterenfonds subsidie heeft ontvangen voor het organiseren van literaire activiteiten en die investeert in het project, een professionele producent of een uitgeverij;
 
-- **uitgeverij:** een rechtspersoon gevestigd in het Koninkrijk met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literair werk en die over een onafhankelijke redactie beschikt, op regelmatige basis aanbiedingen van zijn publicaties aan de boekhandel verzorgt, de publicaties met ISBN via de boekhandel verspreidt, de gebruikelijke leveringsvoorwaarden hanteert en minstens één keer per jaar een fondslijst maakt;
+- *uitgeverij:* een rechtspersoon gevestigd in het Koninkrijk met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van de uitgave van literair werk en die over een onafhankelijke redactie beschikt, op regelmatige basis aanbiedingen van zijn publicaties aan de boekhandel verzorgt, de publicaties met ISBN via de boekhandel verspreidt, de gebruikelijke leveringsvoorwaarden hanteert en minstens één keer per jaar een fondslijst maakt;
 
-- **uitgave-overeenkomst:** een overeenkomst tussen auteur en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/Auteursbond voor de uitgave van oorspronkelijk Nederlandstalig literair werk.
+- *uitgave-overeenkomst:* een overeenkomst tussen auteur en uitgeverij betreffende de exploitatierechten op de publicatie waarin minimaal de bepalingen over het royalty-percentage en de licentie zijn overeengekomen, zoals geregeld in het Modelcontract GAU/Auteursbond voor de uitgave van oorspronkelijk Nederlandstalig literair werk.
 
-- **professionele producent:** een rechtspersoon gevestigd in het Koninkrijk met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van het publiek beschikbaar stellen van een werk.
+- *professionele producent:* een rechtspersoon gevestigd in het Koninkrijk met volledige rechtsbevoegdheid die op continue basis bedrijfsactiviteiten ontplooit ten behoeve van het publiek beschikbaar stellen van een werk.
 
 ##### Artikel 2. Activiteiten waarvoor subsidie kan worden verleend
 
@@ -128,7 +101,7 @@ en die in het jaar waarvoor het subsidiebedrag wordt verleend een belastbaar ver
 
 ##### Artikel 7. Hoogte van de subsidie
 
-1. Per aanvraag kan een bedrag van € 7.500 of € 15.000 worden aangevraagd.
+1. Per aanvraag kan een bedrag van € 7.500 of € 15.000 worden aangevraagd.
 
 2. Het bestuur besluit over de hoogte van de subsidie.
 
@@ -188,16 +161,14 @@ Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een
 
 2. Naast en in aanvulling op deze regeling is het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735) van toepassing.
 
-3. De **Pilotregeling Makers buiten het boek** wordt ingetrokken.
+3. De *Pilotregeling Makers buiten het boek* wordt ingetrokken.
 
-4. In afwijking van het derde lid blijft de **Pilotregeling Makers buiten het boek** van toepassing op voor het tijdstip van inwerkingtreding van deze regeling tijdig ingestelde bezwaar- en beroepschriften.
+4. In afwijking van het derde lid blijft de *Pilotregeling Makers buiten het boek* van toepassing op voor het tijdstip van inwerkingtreding van deze regeling tijdig ingestelde bezwaar- en beroepschriften.
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling Makers buiten het boek.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

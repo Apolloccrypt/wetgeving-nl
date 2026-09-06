@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0052835"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juli 2026, nr. WJZ/1853084 (29021), over de frictiekostenvergoeding aan de landelijke publieke mediadiensten 2025–2028 (Beleidsregel frictiekosten 2025–2028)

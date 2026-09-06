@@ -1,47 +1,17 @@
 ---
 title: "Reglement Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand"
 identifier: "BWBR0050143"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-08-20"
-last_updated: "2024-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050143"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "17204723"
-version_id: "30294992"
-internal_id: "C43463711"
-label_id: "17110624"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050143/2024-08-20/0"
-intitule_bron: "Stcrt.2024-27080"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-17"
-intitule_published: "2024-08-19"
-intitule_in_force: "2024-08-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-27080"
-original_signed_date: "2024-06-17"
-original_published_date: "2024-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-27080"
-entry_into_force_date: "2024-08-20"
-jci_1_3: "jci1.3:c:BWBR0050143&z=2024-08-20&g=2024-08-20"
-jci_1_0: "1.0:c:BWBR0050143&g=2024-08-20"
-citeertitel_status: "officieel"
-signed_date: "2024-06-17"
-entry_into_force: "2024-08-20"
+publicatiedatum: 2024-08-20
+laatste_update: 2024-08-20
+status: geldig
+toestand: 2024-08-20
+bron: "https://wetten.overheid.nl/BWBR0050143"
+opgehaald: 2026-09-06
 ---
+
 # Reglement Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand
-
-Gelet op
-
-[Artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8);
-
-besluit:
-
-een voorziening te treffen tot oprichting van een Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand
 
 ### Algemeen:
 
@@ -49,27 +19,27 @@ een voorziening te treffen tot oprichting van een Kenniscentrum Stelsel Gesubsid
 
 In dit reglement wordt verstaan onder:
 
-- a. **de Raad:** de Raad voor Rechtsbijstand, het zelfstandig bestuursorgaan dat is ingesteld in [artikel 2, eerste lid van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- a. *de Raad:* de Raad voor Rechtsbijstand, het zelfstandig bestuursorgaan dat is ingesteld in [artikel 2, eerste lid van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- b. **Eigenaar:** het bestuur dat aan het hoofd staat van de Raad voor Rechtsbijstand, dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3) en [4 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=4), en Eigenaar is van het Kenniscentrum.
+- b. *Eigenaar:* het bestuur dat aan het hoofd staat van de Raad voor Rechtsbijstand, dat wordt genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3) en [4 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=4), en Eigenaar is van het Kenniscentrum.
 
-- c. **Kenniscentrum:** het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand dat als maatschappelijke opgave heeft via onafhankelijk onderzoek bij te dragen aan het goed functioneren van het stelsel van gesubsidieerde rechtsbijstand door het beleid en uitvoering te voeden met data, feiten en kennis, en eventuele (dreigende) knelpunten te signaleren en agenderen;
+- c. *Kenniscentrum:* het Kenniscentrum Stelsel Gesubsidieerde Rechtsbijstand dat als maatschappelijke opgave heeft via onafhankelijk onderzoek bij te dragen aan het goed functioneren van het stelsel van gesubsidieerde rechtsbijstand door het beleid en uitvoering te voeden met data, feiten en kennis, en eventuele (dreigende) knelpunten te signaleren en agenderen;
 
-- d. **CSO:** de Chief Science Officer die aan het hoofd staat van het Kenniscentrum en het Kenniscentrum vertegenwoordigt;
+- d. *CSO:* de Chief Science Officer die aan het hoofd staat van het Kenniscentrum en het Kenniscentrum vertegenwoordigt;
 
-- e. **Wetenschappelijke Kwaliteitsraad:** de raad die periodiek op verzoek van de Chief Science Officer de wetenschappelijk kwaliteit van het programmatisch onderzoek van het Kenniscentrum evalueert en via een visitatie daarover rapporteert;
+- e. *Wetenschappelijke Kwaliteitsraad:* de raad die periodiek op verzoek van de Chief Science Officer de wetenschappelijk kwaliteit van het programmatisch onderzoek van het Kenniscentrum evalueert en via een visitatie daarover rapporteert;
 
-- f. **Programmaraad:** de raad die periodiek het meerjarige programma op themaniveau vaststelt, waarbinnen het programmatisch onderzoek plaatsvindt, het jaarlijkse werkplan vaststelt en een agenderende functie heeft;
+- f. *Programmaraad:* de raad die periodiek het meerjarige programma op themaniveau vaststelt, waarbinnen het programmatisch onderzoek plaatsvindt, het jaarlijkse werkplan vaststelt en een agenderende functie heeft;
 
-- g. **Programma:** onderzoeksprogramma op themaniveau dat wordt vastgesteld door de Programmaraad en op basis waarvan het Kenniscentrum programmatisch onderzoek uitvoert;
+- g. *Programma:* onderzoeksprogramma op themaniveau dat wordt vastgesteld door de Programmaraad en op basis waarvan het Kenniscentrum programmatisch onderzoek uitvoert;
 
-- h. **Opdrachtgever:** de Raad voor Rechtsbijstand voor het basisonderzoek, de Programmaraad voor het programmatisch onderzoek en partijen uit het stelsel met een ad hoc onderzoeksopdracht;
+- h. *Opdrachtgever:* de Raad voor Rechtsbijstand voor het basisonderzoek, de Programmaraad voor het programmatisch onderzoek en partijen uit het stelsel met een ad hoc onderzoeksopdracht;
 
-- i. **Basisonderzoek:** onderzoek voor de Raad voor Rechtsbijstand dat uitvoering geeft aan zijn kerntaken;
+- i. *Basisonderzoek:* onderzoek voor de Raad voor Rechtsbijstand dat uitvoering geeft aan zijn kerntaken;
 
-- j. **Programmatisch onderzoek:** onderzoek van het Kenniscentrum dat uitvoering geeft aan het meerjarig Programma op themaniveau;
+- j. *Programmatisch onderzoek:* onderzoek van het Kenniscentrum dat uitvoering geeft aan het meerjarig Programma op themaniveau;
 
-- k. **Ad hoc onderzoek:** onderzoek dat op incidentele basis wordt verricht naar aanleiding van een door de CSO geaccepteerd verzoek daartoe afkomstig van een derde partij werkzaam binnen het stelsel.
+- k. *Ad hoc onderzoek:* onderzoek dat op incidentele basis wordt verricht naar aanleiding van een door de CSO geaccepteerd verzoek daartoe afkomstig van een derde partij werkzaam binnen het stelsel.
 
 ##### Artikel 2. Organisatie Kenniscentrum
 

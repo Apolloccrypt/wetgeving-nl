@@ -1,38 +1,17 @@
 ---
 title: "COA klachtenregeling voor de htl"
 identifier: "BWBR0050042"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-19"
-last_updated: "2024-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050042"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17185683"
-version_id: "30253852"
-internal_id: "C43332071"
-label_id: "17093774"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050042/2024-07-19/0"
-intitule_bron: "Stcrt.2024-23575"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-07-19"
-intitule_in_force: "2024-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-23575"
-original_published_date: "2024-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-23575"
-entry_into_force_date: "2024-07-19"
-jci_1_3: "jci1.3:c:BWBR0050042&z=2024-07-19&g=2024-07-19"
-jci_1_0: "1.0:c:BWBR0050042&g=2024-07-19"
-citeertitel_status: "officieel"
-entry_into_force: "2024-07-19"
+publicatiedatum: 2024-07-19
+laatste_update: 2024-07-19
+status: geldig
+toestand: 2024-07-19
+bron: "https://wetten.overheid.nl/BWBR0050042"
+opgehaald: 2026-09-06
 ---
-# COA klachtenregeling voor de htl
 
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
+# COA klachtenregeling voor de htl
 
 #### I. Algemene bepalingen
 
@@ -68,11 +47,11 @@ Tegen een besluit inzake de behandeling van een klacht over een gedraging van he
 
 2. Het klaagschrift wordt ondertekend en bevat ten minste:
 
-- –. de naam en het adres van de indiener;
+- – de naam en het adres van de indiener;
 
-- –. de datum;
+- – de datum;
 
-- –. een omschrijving van de gedraging waartegen de klacht zich richt.
+- – een omschrijving van de gedraging waartegen de klacht zich richt.
 
 3. Indien het klaagschrift in een andere taal dan de Nederlandse of de Engelse is gesteld en een vertaling voor een goede behandeling van de klacht noodzakelijk is, dient de klager zorg te dragen voor een vertaling.
 
@@ -171,5 +150,3 @@ Het COA draagt zorg voor registratie van de bij hem ingediende klachten. De gere
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als ‘COA klachtenregeling voor de htl’ en wordt in de Staatscourant geplaatst.
-
-Deze regeling treedt met terugwerkende kracht naar 1 januari 2024 in werking.

@@ -1,69 +1,43 @@
 ---
 title: "Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026"
 identifier: "BWBR0049915"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-05"
-last_updated: "2024-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049915"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17156693"
-version_id: "30196662"
-internal_id: "C43260501"
-label_id: "17064924"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049915/2024-07-05/0"
-intitule_bron: "Stcrt.2024-21453"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-25"
-intitule_published: "2024-07-04"
-intitule_in_force: "2024-07-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21453"
-original_signed_date: "2024-06-25"
-original_published_date: "2024-07-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21453"
-entry_into_force_date: "2024-07-05"
-jci_1_3: "jci1.3:c:BWBR0049915&z=2024-07-05&g=2024-07-05"
-jci_1_0: "1.0:c:BWBR0049915&g=2024-07-05"
-citeertitel_status: "officieel"
-signed_date: "2024-06-25"
-entry_into_force: "2024-07-05"
+publicatiedatum: 2024-07-05
+laatste_update: 2024-07-05
+status: geldig
+toestand: 2024-07-05
+bron: "https://wetten.overheid.nl/BWBR0049915"
+opgehaald: 2026-09-06
 ---
+
 # Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026
-
-gelet op de [artikelen 1.2, eerste lid aanhef en onder c en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.2), en [1.4 van het Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.4);
-
-besluit: vast te stellen de navolgende Gewijzigde tijdelijke subsidieregels Aangepast Lezen 2023–2026
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regels wordt verstaan onder:
 
-- –. **aangepaste leesvormen:** leesvormen genoemd in artikel 2 onder c van de Regeling toegankelijke lectuur voor mensen met een leesbeperking 2022–2024;
+- – *aangepaste leesvormen:* leesvormen genoemd in artikel 2 onder c van de Regeling toegankelijke lectuur voor mensen met een leesbeperking 2022–2024;
 
-- –. **CBCT:** Certificeringsorganisatie Bibliotheek, Cultuur en Taal (CBCT);
+- – *CBCT:* Certificeringsorganisatie Bibliotheek, Cultuur en Taal (CBCT);
 
-- –. **doelgroep:** personen als bedoeld in [artikel 15m onder a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15m), te weten personen:
+- – *doelgroep:* personen als bedoeld in [artikel 15m onder a van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15m), te weten personen:
 
-- a. die blind zijn;
+   - a. die blind zijn;
 
-- b. met een visuele handicap die niet zodanig kan worden verbeterd dat de personen het gezichtsvermogen krijgen dat wezenlijk gelijk is aan dat van personen zonder een dergelijke handicap en waardoor de personen niet in staat zijn in wezenlijk dezelfde mate als personen zonder een dergelijke handicap gedrukte werken te lezen;
+   - b. met een visuele handicap die niet zodanig kan worden verbeterd dat de personen het gezichtsvermogen krijgen dat wezenlijk gelijk is aan dat van personen zonder een dergelijke handicap en waardoor de personen niet in staat zijn in wezenlijk dezelfde mate als personen zonder een dergelijke handicap gedrukte werken te lezen;
 
-- c. met een waarnemings- of andere leeshandicap waardoor de personen niet in staat zijn in wezenlijk dezelfde mate als personen zonder een dergelijke handicap gedrukte werken te lezen; of
+   - c. met een waarnemings- of andere leeshandicap waardoor de personen niet in staat zijn in wezenlijk dezelfde mate als personen zonder een dergelijke handicap gedrukte werken te lezen; of
 
-- d. die anderszins, ten gevolge van een fysieke handicap, niet in staat zijn een boek vast te houden of te hanteren, dan wel scherp te zien of hun ogen te bewegen in een mate die gewoonlijk voor het lezen noodzakelijk wordt geacht;
+   - d. die anderszins, ten gevolge van een fysieke handicap, niet in staat zijn een boek vast te houden of te hanteren, dan wel scherp te zien of hun ogen te bewegen in een mate die gewoonlijk voor het lezen noodzakelijk wordt geacht;
 
-- –. **KB:** Koninklijke Bibliotheek;
+- – *KB:* Koninklijke Bibliotheek;
 
-- –. **openbare (lokale) bibliotheek:** een bibliotheekvoorziening als bedoeld in [artikel 1, eerste lid onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1), te weten een organisatie met rechtspersoonlijkheid die een of meerdere voor een ieder toegankelijke openbare bibliotheekvoorzieningen verzorgt en die in overwegende mate door een of meer gemeenten wordt gesubsidieerd of in stand gehouden;
+- – *openbare (lokale) bibliotheek:* een bibliotheekvoorziening als bedoeld in [artikel 1, eerste lid onder c, van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=1), te weten een organisatie met rechtspersoonlijkheid die een of meerdere voor een ieder toegankelijke openbare bibliotheekvoorzieningen verzorgt en die in overwegende mate door een of meer gemeenten wordt gesubsidieerd of in stand gehouden;
 
-- –. **toegelaten entiteit:** een entiteit als bedoeld in [artikel 15m onder d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15m), die door Nederland is gemachtigd of erkend om zonder winstoogmerk onderwijs, opleiding, aangepast lezen of toegang tot informatie aan leesgehandicapten te bieden. Hieronder wordt mede verstaan openbare instellingen of organisaties zonder winstoogmerk die leesgehandicapten dezelfde diensten aanbieden als een van hun hoofdactiviteiten, institutionele verplichtingen of in het kader van hun taken van openbaar belang.
+- – *toegelaten entiteit:* een entiteit als bedoeld in [artikel 15m onder d van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15m), die door Nederland is gemachtigd of erkend om zonder winstoogmerk onderwijs, opleiding, aangepast lezen of toegang tot informatie aan leesgehandicapten te bieden. Hieronder wordt mede verstaan openbare instellingen of organisaties zonder winstoogmerk die leesgehandicapten dezelfde diensten aanbieden als een van hun hoofdactiviteiten, institutionele verplichtingen of in het kader van hun taken van openbaar belang.
 
-##### Artikel 2. Verhouding [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999)
+##### Artikel 2. Verhouding Subsidiereglement Koninklijke Bibliotheek 2024
 
 Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het [Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999) van toepassing.
 
@@ -77,11 +51,11 @@ Voor zover in deze regeling niet iets anders is bepaald, is het bepaalde in het 
 
 - c. de uitvoering van projecten voor de doorontwikkeling van Aangepast Lezen gericht op de integratie van Aangepast Lezen in de openbare (lokale) bibliotheek, voor zover de resultaten:
 
-- i. toepasbaar zijn op landelijk niveau binnen het netwerk van openbare bibliotheekvoorzieningen; en
+   - i. toepasbaar zijn op landelijk niveau binnen het netwerk van openbare bibliotheekvoorzieningen; en
 
-- ii. op digitaal vlak aansluiten op de landelijke digitale openbare bibliotheek zoals die wordt ontwikkeld door de KB; óf
+   - ii. op digitaal vlak aansluiten op de landelijke digitale openbare bibliotheek zoals die wordt ontwikkeld door de KB; óf
 
-- iii. passen binnen de nationale programma’s voor basisvaardigheden en leesbevordering.
+   - iii. passen binnen de nationale programma’s voor basisvaardigheden en leesbevordering.
 
 2. De uitvoering van de activiteiten sluit aan bij het op het moment van indiening van de aanvraag geldende beleidsplan en het beleidskader Aangepast Lezen van de KB en de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049915&artikel=4&z=2024-07-05&g=2024-07-05) genoemde doelstellingen.
 
@@ -203,7 +177,7 @@ De [Tijdelijke subsidieregels aangepast lezen 2023 – 2026](https://wetten.over
 
 1. Deze regels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
 
-2. Deze regels vervallen met ingang van 1 januari 2027.
+2. Deze regels vervallen met ingang van 1 januari 2027.
 
 3. Op subsidies die op grond van deze regels zijn verstrekt, blijven deze regels van toepassing.
 

@@ -1,60 +1,32 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2024, nr. 2024-0000233924, tot verlening van mandaat en machtiging aan de Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’"
+citeertitel: "Besluit mandaat en machtiging Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’"
 identifier: "BWBR0049702"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-05-17"
-last_updated: "2024-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049702"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17102333"
-version_id: "30099182"
-internal_id: "C43126641"
-label_id: "17011024"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049702/2024-05-17/0"
-intitule_bron: "Stcrt.2024-15871"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-07"
-intitule_published: "2024-05-16"
-intitule_in_force: "2024-05-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-15871"
-original_signed_date: "2024-05-07"
-original_published_date: "2024-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-15871"
-entry_into_force_date: "2024-05-17"
-jci_1_3: "jci1.3:c:BWBR0049702&z=2024-05-17&g=2024-05-17"
-jci_1_0: "1.0:c:BWBR0049702&g=2024-05-17"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat en machtiging Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’"
-signed_date: "2024-05-07"
-entry_into_force: "2024-05-17"
+publicatiedatum: 2024-05-17
+laatste_update: 2024-05-17
+status: geldig
+toestand: 2024-05-17
+bron: "https://wetten.overheid.nl/BWBR0049702"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2024, nr. 2024-0000233924, tot verlening van mandaat en machtiging aan de Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1), de [kaderwet voor zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) (ZBO’s) en de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) en [93 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=93)
-
-Gezien de schriftelijke instemming van het bestuur van de Toelatingsorganisatie Kwaliteitsborging Bouw overeenkomstig [artikel 10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) d.d.15 maart 2024.
-
-BESLUIT:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **Besluit bouwwerken leefomgeving (Bbl):** houdende regels over bouwwerken in de fysieke leefomgeving, waaronder regels over werkzaamheden aan gasverbrandingsinstallaties, verbrandingsluchttoevoervoorzieningen en rookgasafvoervoorzieningen;
+- a. *Besluit bouwwerken leefomgeving (Bbl):* houdende regels over bouwwerken in de fysieke leefomgeving, waaronder regels over werkzaamheden aan gasverbrandingsinstallaties, verbrandingsluchttoevoervoorzieningen en rookgasafvoervoorzieningen;
 
-- b. **Besluit kwaliteit leefomgeving (Bkl):** houdende regels over de kwaliteit van de fysieke leefomgeving en de uitoefening van taken en bevoegdheden, waaronder regels over de aanwijzing van certificatie-instellingen en de aanwijzing van certificatie-schema’s;
+- b. *Besluit kwaliteit leefomgeving (Bkl):* houdende regels over de kwaliteit van de fysieke leefomgeving en de uitoefening van taken en bevoegdheden, waaronder regels over de aanwijzing van certificatie-instellingen en de aanwijzing van certificatie-schema’s;
 
-- c. **Omgevingsbesluit:** houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving;
+- c. *Omgevingsbesluit:* houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving;
 
-- d. **Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- d. *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- e. **Toelatingsorganisatie:** Toelatingsorganisatie Kwaliteitsborging Bouw.
+- e. *Toelatingsorganisatie:* Toelatingsorganisatie Kwaliteitsborging Bouw.
 
 ##### Artikel 2
 
@@ -116,7 +88,7 @@ Het op grond van dit besluit verleende mandaat en machtiging ten behoeve van de 
 
 2. Het eerste lid is van overeenkomstige toepassing op bevoegdheden die zijn verleend op basis van machtiging.
 
-3. De toelatingsorganisatie doet jaarlijks vóór 1 juli verslag aan de Minister over de beoordeling en analyse van het jaarlijks door aangewezen certificerende instellingen in te dienen verslag van uitgevoerde werkzaamheden, de rechtmatigheid en doeltreffendheid van die werkzaamheden in het afgelopen kalenderjaar en de meldingen van (bijna-)ongevallen.
+3. De toelatingsorganisatie doet jaarlijks vóór 1 juli verslag aan de Minister over de beoordeling en analyse van het jaarlijks door aangewezen certificerende instellingen in te dienen verslag van uitgevoerde werkzaamheden, de rechtmatigheid en doeltreffendheid van die werkzaamheden in het afgelopen kalenderjaar en de meldingen van (bijna-)ongevallen.
 
 ##### Artikel 7. Ondertekening
 
@@ -158,7 +130,7 @@ De ambtenaren van de toelatingsorganisatie worden aangewezen als ambtenaren bela
 
 ##### Artikel 9. Citeertitel, inwerkingtreding en publicatie
 
-1. Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 januari 2024.
+1. Dit besluit treedt in werking met ingang van de dag na plaatsing in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
 2. Met de inwerkingtreding van het onderhavige besluit wordt het [Besluit mandaat en machtiging Toelatingsorganisatie Kwaliteitsborging Bouw inzake uitvoering wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0046694) ingetrokken.
 

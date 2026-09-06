@@ -1,72 +1,46 @@
 ---
 title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 mei 2024, nr. E&K/45886423, houdende instelling van een Commissie ter beoordeling van de beschermwaardigheid van cultuurgoederen (Instellingsbesluit Commissie Beschermde Cultuurgoederen)"
+citeertitel: "Instellingsbesluit Commissie Beschermde Cultuurgoederen"
 identifier: "BWBR0049759"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-05"
-last_updated: "2024-06-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049759"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17116433"
-version_id: "30124892"
-internal_id: "C43163561"
-label_id: "17024964"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049759/2024-06-05/0"
-intitule_bron: "Stcrt.2024-17647"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-21"
-intitule_published: "2024-06-04"
-intitule_in_force: "2024-06-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17647"
-original_signed_date: "2024-05-21"
-original_published_date: "2024-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17647"
-entry_into_force_date: "2024-06-05"
-jci_1_3: "jci1.3:c:BWBR0049759&z=2024-06-05&g=2024-06-05"
-jci_1_0: "1.0:c:BWBR0049759&g=2024-06-05"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Beschermde Cultuurgoederen"
-signed_date: "2024-05-21"
-entry_into_force: "2024-06-05"
+publicatiedatum: 2024-06-05
+laatste_update: 2024-06-05
+status: geldig
+toestand: 2024-06-05
+bron: "https://wetten.overheid.nl/BWBR0049759"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 mei 2024, nr. E&K/45886423, houdende instelling van een Commissie ter beoordeling van de beschermwaardigheid van cultuurgoederen (Instellingsbesluit Commissie Beschermde Cultuurgoederen)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, onderdeel c, onder 1°, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- a. *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, onderdeel c, onder 1°, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- b. **commissie:** Commissie Beschermde Cultuurgoederen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049759&artikel=2&z=2024-06-05&g=2024-06-05);
+- b. *commissie:* Commissie Beschermde Cultuurgoederen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049759&artikel=2&z=2024-06-05&g=2024-06-05);
 
-- c. **cultuurgoed:** roerende zaak die deel uitmaakt van cultureel erfgoed ([artikel 1.1 Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1));
+- c. *cultuurgoed:* roerende zaak die deel uitmaakt van cultureel erfgoed ([artikel 1.1 Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1));
 
-- d. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- d. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- e. **ministerie:** Ministerie van Onderwijs, Cultuur en Wetenschap;
+- e. *ministerie:* Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- f. **uitvoervergunning:** een vergunning voor uitvoer van een cultuurgoed buiten de EU;
+- f. *uitvoervergunning:* een vergunning voor uitvoer van een cultuurgoed buiten de EU;
 
-- g. **verzameling:** cultuurgoederen die uit cultuurhistorisch of wetenschappelijk oogpunt bij elkaar horen ([artikel 1.1. Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1));
+- g. *verzameling:* cultuurgoederen die uit cultuurhistorisch of wetenschappelijk oogpunt bij elkaar horen ([artikel 1.1. Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=1.1));
 
-- h. **beschermd cultuurgoed:** cultuurgoed dat
+- h. *beschermd cultuurgoed:* cultuurgoed dat
 
-- •. als zodanig is aangewezen op grond van [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7); of
+   - • als zodanig is aangewezen op grond van [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7); of
 
-- •. voorkomt in een opsomming als bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7); of
+   - • voorkomt in een opsomming als bedoeld in [artikel 3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7); of
 
-- •. in geval van de aanwijzing van een beschermde verzameling op grond van [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.8), zolang nog geen opsomming voor die verzameling is vastgesteld, redelijkerwijs onder de algemene omschrijving van die beschermde verzameling valt;
+   - • in geval van de aanwijzing van een beschermde verzameling op grond van [artikel 3.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.8), zolang nog geen opsomming voor die verzameling is vastgesteld, redelijkerwijs onder de algemene omschrijving van die beschermde verzameling valt;
 
-- i. **beschermde verzameling:** verzameling die is aangewezen op grond van [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7).
+- i. *beschermde verzameling:* verzameling die is aangewezen op grond van [artikel 3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7).
 
 ##### Artikel 2. Instelling en taak
 
@@ -78,7 +52,7 @@ Er is een commissie die tot taak heeft de minister op diens verzoek of op eigen 
 
 - c. cultuurgoederen en/of verzamelingen die mogelijk in bezit van de Staat zullen komen, en
 
-waarbij redelijkerwijs kan worden vermoed dat die cultuurgoederen of verzamelingen voldoet aan de criteria van [artikel 3.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7).
+waarbij redelijkerwijs kan worden vermoed dat die cultuurgoederen of verzamelingen voldoet aan de criteria van [artikel 3.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.7).
 
 ##### Artikel 3. Samenstelling, benoeming, ontslag
 
@@ -100,7 +74,7 @@ waarbij redelijkerwijs kan worden vermoed dat die cultuurgoederen of verzameling
 
 ##### Artikel 4. Leden
 
-Met ingang van 1 januari 2024 zijn tot lid van de commissie benoemd:
+Met ingang van 1 januari 2024 zijn tot lid van de commissie benoemd:
 
 - a. De heer Prof. Dr. R.E.O. Ekkart te Rijswijk, tevens voorzitter;
 
@@ -162,10 +136,8 @@ Twee jaar na installatie van de commissie volgt een tussentijdse evaluatie, elke
 
 ##### Artikel 12. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot en met 1 januari 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot en met 1 januari 2024.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Beschermde Cultuurgoederen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

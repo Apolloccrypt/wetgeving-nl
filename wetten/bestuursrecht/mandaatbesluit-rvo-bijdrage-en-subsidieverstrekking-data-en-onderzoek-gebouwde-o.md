@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 5 april 2024, nr. 2024-0000155850, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van bijdrageverstrekking aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, en de subsidiëring van publiekrechtelijke instellingen voor activiteiten van data en onderzoek met betrekking tot de publieke behartiging van de aangelegenheden op het terrein van de gebouwde omgeving voortvloeiend uit het Beleidsprogramma Versnelling Verduurzaming Gebouwde Omgeving en hoofdstuk C1 van het Klimaatakkoord (Mandaatbesluit RVO bijdrage- en subsidieverstrekking data en onderzoek gebouwde omgeving)"
+citeertitel: "Mandaatbesluit RVO bijdrage- en subsidieverstrekking data en onderzoek gebouwde omgeving"
 identifier: "BWBR0049606"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-26"
-last_updated: "2024-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049606"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17081203"
-version_id: "30061992"
-internal_id: "C43081861"
-label_id: "16989954"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049606/2024-04-26/0"
-intitule_bron: "Stcrt.2024-13443"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-05"
-intitule_published: "2024-04-25"
-intitule_in_force: "2024-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-13443"
-original_signed_date: "2024-04-05"
-original_published_date: "2024-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-13443"
-entry_into_force_date: "2024-04-26"
-jci_1_3: "jci1.3:c:BWBR0049606&z=2024-04-26&g=2024-04-26"
-jci_1_0: "1.0:c:BWBR0049606&g=2024-04-26"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit RVO bijdrage- en subsidieverstrekking data en onderzoek gebouwde omgeving"
-signed_date: "2024-04-05"
-entry_into_force: "2024-04-26"
+publicatiedatum: 2024-04-26
+laatste_update: 2024-04-26
+status: geldig
+toestand: 2024-04-26
+bron: "https://wetten.overheid.nl/BWBR0049606"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 5 april 2024, nr. 2024-0000155850, houdende verlening van mandaat, volmacht en machtiging aan de algemeen directeur Rijksdienst voor Ondernemend Nederland in het kader van bijdrageverstrekking aan zelfstandige bestuursorganen en rechtspersonen met een wettelijke taak, en de subsidiëring van publiekrechtelijke instellingen voor activiteiten van data en onderzoek met betrekking tot de publieke behartiging van de aangelegenheden op het terrein van de gebouwde omgeving voortvloeiend uit het Beleidsprogramma Versnelling Verduurzaming Gebouwde Omgeving en hoofdstuk C1 van het Klimaatakkoord (Mandaatbesluit RVO bijdrage- en subsidieverstrekking data en onderzoek gebouwde omgeving)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Gezien de schriftelijke instemming van de algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken en Klimaat van 4 maart 2024, kenmerk MD202418INSTAC;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -71,5 +43,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Mandaatbesluit RVO bijdrage- en subsidieverstrekking data en onderzoek gebouwde omgeving.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

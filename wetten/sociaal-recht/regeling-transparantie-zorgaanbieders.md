@@ -1,55 +1,31 @@
 ---
 title: "Regeling transparantie zorgaanbieders"
 identifier: "BWBR0049988"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-09-01"
-last_updated: "2024-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049988"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17172023"
-version_id: "30228822"
-internal_id: "C43301051"
-label_id: "17079984"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049988/2024-09-01/0"
-intitule_bron: "Stcrt.2024-21591"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-11"
-intitule_published: "2024-07-15"
-intitule_in_force: "2024-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21591"
-original_signed_date: "2024-06-11"
-original_published_date: "2024-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21591"
-entry_into_force_date: "2024-09-01"
-jci_1_3: "jci1.3:c:BWBR0049988&z=2024-09-01&g=2024-09-01"
-jci_1_0: "1.0:c:BWBR0049988&g=2024-09-01"
-citeertitel_status: "officieel"
-signed_date: "2024-06-11"
-entry_into_force: "2024-09-01"
+publicatiedatum: 2024-09-01
+laatste_update: 2024-09-01
+status: geldig
+toestand: 2024-09-01
+bron: "https://wetten.overheid.nl/BWBR0049988"
+opgehaald: 2026-09-06
 ---
-# Regeling transparantie zorgaanbieders
 
-Ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) en [39 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=39) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) regels vast met betrekking tot de informatieverplichting van zorgaanbieders.
+# Regeling transparantie zorgaanbieders
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- a. **zorg:** zorg als bedoeld in [artikel 1 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en [artikel 2 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=2);
+- a. *zorg:* zorg als bedoeld in [artikel 1 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) en [artikel 2 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=2);
 
-- b. **zorgaanbieder:** de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- b. *zorgaanbieder:* de natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent, als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- c. **consument:** verzekeringsplichtige, verzekerde of patiënt als bedoeld in [artikel 1 sub i Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- c. *consument:* verzekeringsplichtige, verzekerde of patiënt als bedoeld in [artikel 1 sub i Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- d. **prestaties en diensten:** voor zover in deze regeling gesproken wordt van prestaties en diensten worden hiermee de prestaties en diensten bedoeld die onder de reikwijdte van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vallen;
+- d. *prestaties en diensten:* voor zover in deze regeling gesproken wordt van prestaties en diensten worden hiermee de prestaties en diensten bedoeld die onder de reikwijdte van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) vallen;
 
-- e. **informeren:** het mondeling, digitaal, schriftelijk of op enige andere wijze verstrekken van informatie.
+- e. *informeren:* het mondeling, digitaal, schriftelijk of op enige andere wijze verstrekken van informatie.
 
 ##### Artikel 2. Doel
 
@@ -103,6 +79,8 @@ De [Regeling transparantie zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 9. Inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking met ingang van 1 september 2024. Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt de regeling in de Staatscourant geplaatst. De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
+Deze regeling treedt in werking met ingang van 1 september 2024. Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt de regeling in de Staatscourant geplaatst. De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 
 Deze regeling wordt aangehaald als: ’Regeling transparantie zorgaanbieders’.
+
+Ondertekening

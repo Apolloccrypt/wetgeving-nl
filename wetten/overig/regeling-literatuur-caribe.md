@@ -1,68 +1,41 @@
 ---
 title: "Regeling Literatuur Caribe"
 identifier: "BWBR0050194"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-09-11"
-last_updated: "2024-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050194"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17215273"
-version_id: "30319662"
-internal_id: "C43493371"
-label_id: "17121244"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050194/2024-09-11/0"
-intitule_bron: "Stcrt.2024-29268"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-09-10"
-intitule_in_force: "2024-09-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-29268"
-original_published_date: "2024-09-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-29268"
-entry_into_force_date: "2024-09-11"
-jci_1_3: "jci1.3:c:BWBR0050194&z=2024-09-11&g=2024-09-11"
-jci_1_0: "1.0:c:BWBR0050194&g=2024-09-11"
-citeertitel_status: "officieel"
-entry_into_force: "2024-09-11"
+publicatiedatum: 2024-09-11
+laatste_update: 2024-09-11
+status: geldig
+toestand: 2024-09-11
+bron: "https://wetten.overheid.nl/BWBR0050194"
+opgehaald: 2026-09-06
 ---
+
 # Regeling Literatuur Caribe
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735).
-
-besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** het bestuur van het Letterenfonds;
+- *bestuur:* het bestuur van het Letterenfonds;
 
-- **het Letterenfonds:** Stichting Nederlands Letterenfonds;
+- *het Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Saba en Sint Eustatius;
+- *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Saba en Sint Eustatius;
 
-- **literaire maker:** natuurlijk persoon gevestigd in het Caribisch deel van het Koninkrijk die zich beroepsmatig bezighoudt of de ambitie heeft zich beroepsmatig bezig te houden met het creëren of vertalen van literatuur;
+- *literaire maker:* natuurlijk persoon gevestigd in het Caribisch deel van het Koninkrijk die zich beroepsmatig bezighoudt of de ambitie heeft zich beroepsmatig bezig te houden met het creëren of vertalen van literatuur;
 
-- **literatuur:** literaire creaties in het Nederlands, Engels, Fries, Papiaments of de Nederlandse Gebarentaal, of de vertaling daarvan;
+- *literatuur:* literaire creaties in het Nederlands, Engels, Fries, Papiaments of de Nederlandse Gebarentaal, of de vertaling daarvan;
 
-- **literaire creatie:** een oorspronkelijk, literair werk;
+- *literaire creatie:* een oorspronkelijk, literair werk;
 
-- **organisatie:** in het Caribisch deel van het Koninkrijk gevestigde rechtspersoon zonder winstoogmerk met een inschrijving bij één van de Kamers van Koophandel van het Caribisch deel van het Koninkrijk, zijnde een gesubsidieerde of niet-gesubsidieerde culturele organisatie of andere rechtspersoon die actief is in de culturele sectoren;
+- *organisatie:* in het Caribisch deel van het Koninkrijk gevestigde rechtspersoon zonder winstoogmerk met een inschrijving bij één van de Kamers van Koophandel van het Caribisch deel van het Koninkrijk, zijnde een gesubsidieerde of niet-gesubsidieerde culturele organisatie of andere rechtspersoon die actief is in de culturele sectoren;
 
-- **project:** alle werkzaamheden voor een op zichzelf staande, concreet omschreven literaire activiteit of talentontwikkelingstraject, afgebakend in tijd en doel;
+- *project:* alle werkzaamheden voor een op zichzelf staande, concreet omschreven literaire activiteit of talentontwikkelingstraject, afgebakend in tijd en doel;
 
-- **Engels:** de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk;
+- *Engels:* de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk;
 
-- **Papiaments:** Papiamento en Papiamentu.
+- *Papiaments:* Papiamento en Papiamentu.
 
 ##### Artikel 2. Doel
 
@@ -100,13 +73,13 @@ De subsidie wordt in ieder geval geweigerd als:
 
 ##### Artikel 6. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
-1. De aanvraagperiode loopt vanaf de dag na publicatie van deze regeling in de Staatscourant tot en met 1 november 2024 of zoveel eerder als het subsidieplafond is bereikt. Het Letterenfonds maakt op haar website bekend wanneer het subsidieplafond is overschreden.
+1. De aanvraagperiode loopt vanaf de dag na publicatie van deze regeling in de Staatscourant tot en met 1 november 2024 of zoveel eerder als het subsidieplafond is bereikt. Het Letterenfonds maakt op haar website bekend wanneer het subsidieplafond is overschreden.
 
 2. Aanvragen worden op volgorde van binnenkomst behandeld.
 
 3. Met inachtneming van [artikel 11, vijfde lid, van het Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=11), geldt als datum van ontvangst de datum waarop het Letterenfonds de volledige aanvraag heeft ontvangen.
 
-4. Het subsidieplafond bedraagt voor 2024 € 300.000. Eventuele wijzigingen van dit plafond worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
+4. Het subsidieplafond bedraagt voor 2024 € 300.000. Eventuele wijzigingen van dit plafond worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
 5. De subsidieplafonds voor de jaren 2025 en later, alsook de start- en einddata van de aanvraagperiodes in die jaren, worden jaarlijks in januari bekendgemaakt op de website van het Letterenfonds en in de Staatscourant.
 
@@ -126,7 +99,7 @@ De subsidie wordt in ieder geval geweigerd als:
 
 ##### Artikel 8. Hoogte van de subsidie en looptijd project
 
-1. De subsidie bedraagt per aanvraag voor een literaire maker maximaal € 25.000 en voor een organisatie maximaal € 50.000.
+1. De subsidie bedraagt per aanvraag voor een literaire maker maximaal € 25.000 en voor een organisatie maximaal € 50.000.
 
 2. Een project dient binnen een looptijd van maximaal 1 jaar na het verlenen van de subsidie te zijn afgerond.
 
@@ -194,17 +167,17 @@ Het bestuur informeert de aanvrager binnen 22 weken na ontvangst van de volledig
 
 ##### Artikel 13. Verlening, vaststelling en betaling subsidie tot en met € 25.000
 
-1. Subsidieverleningen tot en met € 25.000 worden bij de verlening direct vastgesteld.
+1. Subsidieverleningen tot en met € 25.000 worden bij de verlening direct vastgesteld.
 
 2. Het vastgestelde bedrag wordt binnen acht weken aan de aanvrager betaald.
 
 ##### Artikel 14. Verlening, bevoorschotting en vaststelling subsidie hoger dan € 25.000
 
-1. Subsidieverleningen hoger dan € 25.000 worden binnen acht weken aan de aanvrager in de vorm van een voorschot betaald.
+1. Subsidieverleningen hoger dan € 25.000 worden binnen acht weken aan de aanvrager in de vorm van een voorschot betaald.
 
-2. Subsidieontvangers van een subsidie hoger dan € 25.000 zijn verplicht binnen drie maanden na afloop van het project een inhoudelijke verantwoording, zo nodig voorzien van een verklaring inzake werkelijke kosten en opbrengsten, in te dienen.
+2. Subsidieontvangers van een subsidie hoger dan € 25.000 zijn verplicht binnen drie maanden na afloop van het project een inhoudelijke verantwoording, zo nodig voorzien van een verklaring inzake werkelijke kosten en opbrengsten, in te dienen.
 
-3. Bij subsidieverleningen hoger dan € 25.000 geldt dat als de activiteiten volgens de aanvraag zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen, de subsidieontvanger binnen 13 weken na het verrichten van de activiteiten waarvoor subsidie is verleend een aanvraag indient van een beschikking tot subsidievaststelling. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
+3. Bij subsidieverleningen hoger dan € 25.000 geldt dat als de activiteiten volgens de aanvraag zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen, de subsidieontvanger binnen 13 weken na het verrichten van de activiteiten waarvoor subsidie is verleend een aanvraag indient van een beschikking tot subsidievaststelling. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
 
 ##### Artikel 15. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
 
@@ -228,10 +201,8 @@ In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
 ##### Artikel 18. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 31 december 2028. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 31 december 2028. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Literatuur Caribe.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

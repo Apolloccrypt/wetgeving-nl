@@ -1,46 +1,18 @@
 ---
 title: "Besluit van 1 juli 2024, houdende instelling van de medaille voor hulpverlening en bijstand bij crises, rampen of grootschalige incidenten"
+citeertitel: "Besluit medaille voor hulpverlening en bijstand bij crisis rampen en grootschalige incidenten"
 identifier: "BWBR0050053"
-country: "nl"
-rank: "kb"
-publication_date: "2024-07-24"
-last_updated: "2024-07-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050053"
+categorie: "Sociaal recht"
 soort: "KB"
-stam_id: "17187233"
-version_id: "30257102"
-internal_id: "C43335761"
-label_id: "17095224"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050053/2024-07-24/0"
-intitule_bron: "Stb.2024-220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-01"
-intitule_published: "2024-07-23"
-intitule_in_force: "2024-07-23"
-intitule_status: "goed"
-original_publication: "Stb.2024-220"
-original_signed_date: "2024-07-01"
-original_published_date: "2024-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-220"
-entry_into_force_date: "2024-07-24"
-jci_1_3: "jci1.3:c:BWBR0050053&z=2024-07-24&g=2024-07-24"
-jci_1_0: "1.0:c:BWBR0050053&g=2024-07-24"
-citeertitel_status: "officieel"
-short_title: "Besluit medaille voor hulpverlening en bijstand bij crisis rampen en grootschalige incidenten"
-signed_date: "2024-07-01"
-entry_into_force: "2024-07-24"
+publicatiedatum: 2024-07-24
+laatste_update: 2024-07-24
+status: geldig
+toestand: 2024-07-24
+bron: "https://wetten.overheid.nl/BWBR0050053"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 1 juli 2024, houdende instelling van de medaille voor hulpverlening en bijstand bij crises, rampen of grootschalige incidenten
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 12 juni 2024, nr. 5448826;
-
-Overwegende dat het uitreiken van medaille bijdraagt aan de waardering voor de persoon die zich op bijzondere wijze verdienstelijk heeft gemaakt gedurende een crisis, ramp of grootschalig incident in het Koninkrijk;
-
-Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
@@ -48,17 +20,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **Crisis:** een crisis als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
+- *Crisis:* een crisis als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- **Gedecoreerde:** de persoon aan wie de medaille en of gesp(en) is toegekend en uitgereikt.
+- *Gedecoreerde:* de persoon aan wie de medaille en of gesp(en) is toegekend en uitgereikt.
 
-- **Grootschalig incident:** incidenten met een gelijkwaardige uitstraling en/of gelijkwaardige impact als een crisis of ramp.
+- *Grootschalig incident:* incidenten met een gelijkwaardige uitstraling en/of gelijkwaardige impact als een crisis of ramp.
 
-- **Kandidaat:** de persoon die wordt voorgedragen voor de medaille.
+- *Kandidaat:* de persoon die wordt voorgedragen voor de medaille.
 
-- **Onze minister:** Onze Minister van Justitie en Veiligheid;
+- *Onze minister:* Onze Minister van Justitie en Veiligheid;
 
-- **Ramp:** een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1).
+- *Ramp:* een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1).
 
 ##### Artikel 2
 
@@ -120,13 +92,13 @@ De medaille wordt toegekend door de minister van Justitie en Veiligheid.
 
 8. De commissie adviseert onze Minister over het besluit en de toepassing ervan. Het advies bestaat minimaal uit de volgende elementen:
 
-- –. De mogelijke van toepassingsverklaring van het besluit op de desbetreffende crisis, ramp of grootschalig incident
+- – De mogelijke van toepassingsverklaring van het besluit op de desbetreffende crisis, ramp of grootschalig incident
 
-- –. De inhoud van de verleningscriteria voor een medaille voor iedere afzonderlijke crisis, ramp of grootschalig incident.
+- – De inhoud van de verleningscriteria voor een medaille voor iedere afzonderlijke crisis, ramp of grootschalig incident.
 
-- –. De tekst op de gesp en oorkonde
+- – De tekst op de gesp en oorkonde
 
-- –. De toekenning van de medaille aan personen (met baton, gesp en oorkonde).
+- – De toekenning van de medaille aan personen (met baton, gesp en oorkonde).
 
 9. De commissie, aangevuld met tijdelijke leden zoals bedoeld in lid 6, adviseert Onze Minister over de toekenning van de medaille aan personen. De commissie wordt bijgestaan door een ambtelijke staf, die is samengesteld uit een afvaardiging van de betrokken departementen en een juridisch adviseur waarbij het secretariaat is belegd bij het ministerie van Justitie en Veiligheid.
 
@@ -157,5 +129,3 @@ Dit besluit wordt aangehaald als: Besluit medaille voor hulpverlening en bijstan
 ##### Artikel 14
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 29 augustus 2024, nr. 2024-0000183525, tot vaststelling van de beleidsregel in het kader van bestuursrechtelijke handhaving van de Wet minimumloon en minimumvakantiebijslag (Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024)"
+citeertitel: "Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024"
 identifier: "BWBR0050187"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-09-07"
-last_updated: "2024-09-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050187"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "17214033"
-version_id: "30317302"
-internal_id: "C43490211"
-label_id: "17119994"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050187/2024-09-07/0"
-intitule_bron: "Stcrt.2024-28985"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-08-29"
-intitule_published: "2024-09-06"
-intitule_in_force: "2024-09-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-28985"
-original_signed_date: "2024-08-29"
-original_published_date: "2024-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-28985"
-entry_into_force_date: "2024-09-07"
-jci_1_3: "jci1.3:c:BWBR0050187&z=2024-09-07&g=2024-09-07"
-jci_1_0: "1.0:c:BWBR0050187&g=2024-09-07"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024"
-signed_date: "2024-08-29"
-entry_into_force: "2024-09-07"
+publicatiedatum: 2024-09-07
+laatste_update: 2024-09-07
+status: geldig
+toestand: 2024-09-07
+bron: "https://wetten.overheid.nl/BWBR0050187"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 29 augustus 2024, nr. 2024-0000183525, tot vaststelling van de beleidsregel in het kader van bestuursrechtelijke handhaving van de Wet minimumloon en minimumvakantiebijslag (Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024)
-
-Gelet op de [artikelen 18f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f), en [18n, derde lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18n);
-
-Besluit:
 
 ##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
-- **arbeidsduur:** de arbeidsduur, bedoeld in [artikel 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=5a);
+- *arbeidsduur:* de arbeidsduur, bedoeld in [artikel 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=5a);
 
-- **minimumloon:** het minimumloon, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7);
+- *minimumloon:* het minimumloon, bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7);
 
-- **wet:** de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
+- *wet:* de [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638).
 
 ##### Artikel 2
 
 Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), niet of onvoldoende nakomt, wordt hem per werknemer ten aanzien van wie de overtreding is begaan een bestuurlijke boete opgelegd waarvan de hoogte wordt bepaald aan de hand van onderstaande tabel.
 
-| Boetebedragen overtreding [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7) | Boetebedragen overtreding [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7) | Boetebedragen overtreding [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7) | Boetebedragen overtreding [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7) | Boetebedragen overtreding [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7) |
+| Boetebedragen overtreding artikel 7 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Duur onderbetaling | ≤ 1 maand | >1 – < 3 maanden | 3 – < 6 maanden | ≥ 6 maanden |
 | < 5% | € 500 | € 750 | € 1.000 | € 1.250 |
@@ -62,15 +36,15 @@ Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van
 | 10% – < 25% | € 1.250 | € 2.000 | € 3.000 | € 4.500 |
 | 25% – < 50% | € 2.000 | € 3.000 | € 4.500 | € 7.000 |
 | ≥ 50% | € 3.000 | € 4.500 | € 7.000 | € 10.000 |
-| Minder dan € 50 onderbetaling: € 500. | Minder dan € 50 onderbetaling: € 500. | Minder dan € 50 onderbetaling: € 500. | Minder dan € 50 onderbetaling: € 500. | Minder dan € 50 onderbetaling: € 500. |
+| Minder dan € 50 onderbetaling: € 500. |  |  |  |  |
 
 ##### Artikel 3
 
 1. Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7a), niet of onvoldoende nakomt, wordt hem per werknemer ten aanzien van wie de overtreding is begaan een bestuurlijke boete opgelegd waarvan de hoogte wordt bepaald aan de hand van onderstaande tabel.
 
-| Boetebedragen overtreding [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7a) | Boetebedragen overtreding [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7a) |
+| Boetebedragen overtreding artikel 7a |  |
 | --- | --- |
-| Periode waarin ten minste eenmaal het loon niet giraal is uitbetaald |   |
+| Periode waarin ten minste eenmaal het loon niet giraal is uitbetaald |  |
 | ≤ 1 maand | € 500 |
 | >1 – < 3 maanden | € 750 |
 | 3 – < 6 maanden | € 1.000 |
@@ -80,11 +54,11 @@ Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van
 
 ##### Artikel 4
 
-1. Indien een werkgever de op hem rustende verplichting de werkzaamheden schriftelijk overeen te komen op grond van [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12b) niet of onvoldoende nakomt, wordt hem, in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=8&z=2024-09-07&g=2024-09-07), per werknemer een bestuurlijke boete opgelegd van € 250, mits overigens wordt voldaan aan de verplichting, bedoeld in [artikel 18b, tweede lid, onderdeel e, onder 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b), tenzij het tweede lid van toepassing is.
+1. Indien een werkgever de op hem rustende verplichting de werkzaamheden schriftelijk overeen te komen op grond van [artikel 12b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=12b) niet of onvoldoende nakomt, wordt hem, in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=8&z=2024-09-07&g=2024-09-07), per werknemer een bestuurlijke boete opgelegd van € 250, mits overigens wordt voldaan aan de verplichting, bedoeld in [artikel 18b, tweede lid, onderdeel e, onder 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b), tenzij het tweede lid van toepassing is.
 
 2. Indien eerder een overtreding als bedoeld in het eerste lid door de werkgever is begaan, wordt hem, in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=8&z=2024-09-07&g=2024-09-07), per werknemer een bestuurlijke boete opgelegd waarvan de hoogte wordt bepaald aan de hand van onderstaande tabel, mits overigens wordt voldaan aan de verplichting, bedoeld in [artikel 18b, tweede lid, onderdeel e, onder 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b).
 
-| Duur tewerkstelling |   |
+| Duur tewerkstelling |  |
 | --- | --- |
 | ≤ 1 maand | € 1.250 |
 | >1 – < 3 maanden | € 2.000 |
@@ -121,9 +95,9 @@ Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van
 
 1. Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15), niet of onvoldoende nakomt, wordt hem per werknemer ten aanzien van wie de overtreding is begaan een bestuurlijke boete opgelegd waarvan de hoogte wordt bepaald aan de hand van onderstaande tabel, met dien verstande dat een bestuurlijke boete uitsluitend wordt opgelegd als de betaalde vakantiebijslag minder bedraagt dan 8% van het minimumloon, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7).
 
-| Boetebedragen overtreding [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) | Boetebedragen overtreding [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15) |
+| Boetebedragen overtreding artikel 15 |  |
 | --- | --- |
-| Onderbetaling |   |
+| Onderbetaling |  |
 | < 5% of minder dan € 50 | € 250 |
 | 5% – < 10% | € 500 |
 | 10% – < 25% | € 1.000 |
@@ -134,13 +108,13 @@ Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van
 
 ##### Artikel 8
 
-1. Indien een werkgever niet of niet tijdig de bescheiden verstrekt als bedoeld in [artikel 18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) wordt hem voor iedere werknemer die het betreft een bestuurlijke boete opgelegd van € 12.000.
+1. Indien een werkgever niet of niet tijdig de bescheiden verstrekt als bedoeld in [artikel 18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) wordt hem voor iedere werknemer die het betreft een bestuurlijke boete opgelegd van € 12.000.
 
 2. De boete voor een overtreding van [artikel 18b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b) wordt gematigd, indien de werkgever kan aantonen dat sprake is geweest van een arbeidsduur die korter was dan zes maanden. In dat geval wordt de boetehoogte bepaald aan de hand van onderstaande tabel.
 
-| Boetebedragen overtreding [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b), bij arbeidsduur korter dan zes maanden | Boetebedragen overtreding [artikel 18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b), bij arbeidsduur korter dan zes maanden |
+| Boetebedragen overtreding artikel 18b, tweede lid, bij arbeidsduur korter dan zes maanden |  |
 | --- | --- |
-| **Duur tewerkstelling** |   |
+| Duur tewerkstelling |  |
 | ≤ 1 maand | € 5.000 |
 | >1 – < 3 maanden | € 7.000 |
 | 3 – < 6 maanden | € 9.000 |
@@ -155,9 +129,9 @@ Indien een werkgever de op hem rustende verplichting, bedoeld in [artikel 7, van
 
 ##### Artikel 10
 
-1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=2&z=2024-09-07&g=2024-09-07), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=5&z=2024-09-07&g=2024-09-07), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=6&z=2024-09-07&g=2024-09-07) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=7&z=2024-09-07&g=2024-09-07) wordt geen boete opgelegd, indien de mate waarin de verplichtingen, bedoeld in de artikelen 2, 5, en 6 gezamenlijk of artikel 7 afzonderlijk, niet worden nagekomen minder bedraagt dan € 50. Er wordt volstaan met het geven van een schriftelijke waarschuwing waarbij de werkgever in de gelegenheid wordt gesteld alsnog aan zijn verplichtingen tot girale betaling van het volledige minimumloon en/of de betaling van de minimumvakantiebijslag te voldoen en binnen vier weken na het constateren van de overtreding schriftelijke bewijsstukken te overleggen waaruit dat blijkt. Indien de werkgever in gebreke blijft, wordt alsnog een bestuurlijke boete opgelegd.
+1. In afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=2&z=2024-09-07&g=2024-09-07), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=5&z=2024-09-07&g=2024-09-07), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=6&z=2024-09-07&g=2024-09-07) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=7&z=2024-09-07&g=2024-09-07) wordt geen boete opgelegd, indien de mate waarin de verplichtingen, bedoeld in de artikelen 2, 5, en 6 gezamenlijk of artikel 7 afzonderlijk, niet worden nagekomen minder bedraagt dan € 50. Er wordt volstaan met het geven van een schriftelijke waarschuwing waarbij de werkgever in de gelegenheid wordt gesteld alsnog aan zijn verplichtingen tot girale betaling van het volledige minimumloon en/of de betaling van de minimumvakantiebijslag te voldoen en binnen vier weken na het constateren van de overtreding schriftelijke bewijsstukken te overleggen waaruit dat blijkt. Indien de werkgever in gebreke blijft, wordt alsnog een bestuurlijke boete opgelegd.
 
-2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=3&z=2024-09-07&g=2024-09-07) wordt geen boete opgelegd, indien het bedrag aan loon waarvoor de verplichting, bedoeld in artikel 3, niet wordt nagekomen minder bedraagt dan € 50, maar dit bedrag anders dan giraal is betaald. Er wordt volstaan met het geven van een schriftelijke waarschuwing.
+2. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=3&z=2024-09-07&g=2024-09-07) wordt geen boete opgelegd, indien het bedrag aan loon waarvoor de verplichting, bedoeld in artikel 3, niet wordt nagekomen minder bedraagt dan € 50, maar dit bedrag anders dan giraal is betaald. Er wordt volstaan met het geven van een schriftelijke waarschuwing.
 
 3. In afwijking van het eerste lid wordt een boete opgelegd volgens de boetebedragen in de tabel in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=3&z=2024-09-07&g=2024-09-07) die gelden bij een overtreding van [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7a), indien volledige nabetaling van het minimumloon anders dan giraal heeft plaatsgevonden.
 
@@ -185,7 +159,7 @@ De boete wordt met 25% gematigd in de gevallen dat tussen de laatste ambtshandel
 
 1. Indien de werkgever een bestuurlijke boete is opgelegd wegens het niet nakomen van de verplichting, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=2&z=2024-09-07&g=2024-09-07), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=5&z=2024-09-07&g=2024-09-07), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=6&z=2024-09-07&g=2024-09-07) wordt hem tevens een last onder dwangsom opgelegd. De hoogte van de dwangsom wordt bepaald aan de hand van de onderstaande tabel.
 
-| Dwangsom per dag | Dwangsom per dag | Dwangsom per dag | Dwangsom per dag | Dwangsom per dag |
+| Dwangsom per dag |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Duur onderbetaling | ≤ – 1 maand | >1 – < 3 maanden | 3 – < 6 maanden | ≥ 6 maanden |
 | < 5% of minder dan € 50 | € 20 | € 25 | € 50 | € 75 |
@@ -196,7 +170,7 @@ De boete wordt met 25% gematigd in de gevallen dat tussen de laatste ambtshandel
 
 2. Indien de werkgever een bestuurlijke boete is opgelegd wegens het niet nakomen van de verplichting, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050187&artikel=7&z=2024-09-07&g=2024-09-07), wordt hem tevens een last onder dwangsom opgelegd. De hoogte van de dwangsom wordt bepaald aan de hand van de onderstaande tabel.
 
-| Dwangsom per dag | Dwangsom per dag |
+| Dwangsom per dag |  |
 | --- | --- |
 | Onderbetaling | Dwangsom per dag |
 | < 5% of minder dan € 50 | € 20 |
@@ -207,7 +181,7 @@ De boete wordt met 25% gematigd in de gevallen dat tussen de laatste ambtshandel
 
 3. De last onder dwangsom, bedoeld in het eerste en tweede lid, wordt niet opgelegd, indien de werkgever uit eigen beweging aan zijn verplichtingen heeft voldaan en daarvan binnen vier weken na het constateren van de overtreding schriftelijk bewijs heeft geleverd.
 
-4. Het maximale bedrag dat een werkgever per werknemer aan dwangsom kan verbeuren bedraagt € 40.000.
+4. Het maximale bedrag dat een werkgever per werknemer aan dwangsom kan verbeuren bedraagt € 40.000.
 
 5. Aan de werkgever wordt geen last onder dwangsom opgelegd indien:
 
@@ -217,7 +191,7 @@ De boete wordt met 25% gematigd in de gevallen dat tussen de laatste ambtshandel
 
 ##### Artikel 15
 
-Het totaal aan op te leggen boetes kan per werknemer niet hoger zijn dan € 12.000, onverminderd de bevoegdheid om de boete te verhogen op grond van [artikel 18f, tweede tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f).
+Het totaal aan op te leggen boetes kan per werknemer niet hoger zijn dan € 12.000, onverminderd de bevoegdheid om de boete te verhogen op grond van [artikel 18f, tweede tot en met vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18f).
 
 ##### Artikel 16
 
@@ -232,5 +206,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 18
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2024.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

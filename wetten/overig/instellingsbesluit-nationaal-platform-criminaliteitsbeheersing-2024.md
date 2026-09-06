@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid van 17 mei 2024, nr. 5265450 houdende instelling van het Nationaal Platform Criminaliteitsbeheersing (Instellingbesluit Nationaal Platform Criminaliteitsbeheersing 2024)"
+citeertitel: "Instellingsbesluit Nationaal Platform Criminaliteitsbeheersing 2024"
 identifier: "BWBR0049744"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049744"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17114133"
-version_id: "30120702"
-internal_id: "C43158721"
-label_id: "17022624"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049744/2024-07-01/0"
-intitule_bron: "Stcrt.2024-17179"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-17"
-intitule_published: "2024-05-30"
-intitule_in_force: "2024-05-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17179"
-original_signed_date: "2024-05-17"
-original_published_date: "2024-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17179"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049744&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049744&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Nationaal Platform Criminaliteitsbeheersing 2024"
-signed_date: "2024-05-17"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049744"
+opgehaald: 2026-09-06
 ---
-# Besluit van de Minister van Justitie en Veiligheid van 17 mei 2024, nr. 5265450 houdende instelling van het Nationaal Platform Criminaliteitsbeheersing (Instellingbesluit Nationaal Platform Criminaliteitsbeheersing 2024)
 
-Besluit:
+# Besluit van de Minister van Justitie en Veiligheid van 17 mei 2024, nr. 5265450 houdende instelling van het Nationaal Platform Criminaliteitsbeheersing (Instellingbesluit Nationaal Platform Criminaliteitsbeheersing 2024)
 
 ##### Artikel 1
 
@@ -106,14 +82,12 @@ De voortgang van de realisatie van de acties zoals beschreven in het Actieprogra
 
 ##### Artikel 8
 
-Het besluit van de Minister van Justitie en de Minister van Binnenlandse Zaken van 22 juni 1992 tot[Instelling Nationaal Platform voor de Criminaliteitsbeheersing](https://wetten.overheid.nl/jci1.3:c:BWBR0005557) (Stcrt. 1992, 122) wordt ingetrokken.
+Het besluit van de Minister van Justitie en de Minister van Binnenlandse Zaken van 22 juni 1992 tot[Instelling Nationaal Platform voor de Criminaliteitsbeheersing](https://wetten.overheid.nl/jci1.3:c:BWBR0005557) (Stcrt. 1992, 122) wordt ingetrokken.
 
 ##### Artikel 9
 
-Dit besluit treedt in werking op 1 juli 2024.
+Dit besluit treedt in werking op 1 juli 2024.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Platform Criminaliteitsbeheersing 2024.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

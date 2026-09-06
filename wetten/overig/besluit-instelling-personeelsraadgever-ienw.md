@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de Minister van Infrastructuur en Waterstaat van 29 maart 2024, kenmerk, tot instelling van een onafhankelijke Personeelsraadgever IenW (Besluit instelling personeelsraadgever IenW)"
+citeertitel: "Besluit instelling personeelsraadgever IenW"
 identifier: "BWBR0049552"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-04-10"
-last_updated: "2024-04-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049552"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17069713"
-version_id: "30038102"
-internal_id: "C43053361"
-label_id: "16978494"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049552/2024-04-10/0"
-intitule_bron: "Stcrt.2024-11351"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-29"
-intitule_published: "2024-04-09"
-intitule_in_force: "2024-04-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-11351"
-original_signed_date: "2024-03-29"
-original_published_date: "2024-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-11351"
-entry_into_force_date: "2024-04-10"
-jci_1_3: "jci1.3:c:BWBR0049552&z=2024-04-10&g=2024-04-10"
-jci_1_0: "1.0:c:BWBR0049552&g=2024-04-10"
-citeertitel_status: "officieel"
-short_title: "Besluit instelling personeelsraadgever IenW"
-signed_date: "2024-03-29"
-entry_into_force: "2024-04-10"
+publicatiedatum: 2024-04-10
+laatste_update: 2024-04-10
+status: geldig
+toestand: 2024-04-10
+bron: "https://wetten.overheid.nl/BWBR0049552"
+opgehaald: 2026-09-06
 ---
-# Besluit van de Minister van Infrastructuur en Waterstaat van 29 maart 2024, kenmerk, tot instelling van een onafhankelijke Personeelsraadgever IenW (Besluit instelling personeelsraadgever IenW)
 
-**Gehoord het Decentraal Georganiseerd Overleg**
+# Besluit van de Minister van Infrastructuur en Waterstaat van 29 maart 2024, kenmerk, tot instelling van een onafhankelijke Personeelsraadgever IenW (Besluit instelling personeelsraadgever IenW)
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Medewerker:** degene die als ambtenaar werkzaam is of is geweest bij een van de dienstonderdelen van het Ministerie van Infrastructuur en Waterstaat.
+- 1. *Medewerker:* degene die als ambtenaar werkzaam is of is geweest bij een van de dienstonderdelen van het Ministerie van Infrastructuur en Waterstaat.
 
-- 2. **Personeelsraadgever IenW:** de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049552&artikel=2&z=2024-04-10&g=2024-04-10).
+- 2. *Personeelsraadgever IenW:* de persoon bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049552&artikel=2&z=2024-04-10&g=2024-04-10).
 
 ##### Artikel 2
 
@@ -94,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 16 oktober 2023.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 16 oktober 2023.
 
 ##### Artikel 9
 

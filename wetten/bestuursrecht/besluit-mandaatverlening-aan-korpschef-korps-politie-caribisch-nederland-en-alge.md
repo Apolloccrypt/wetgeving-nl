@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 24 juni 2024 met kenmerk 4958432 houdende verlening van ondermandaat, volmacht en machtiging aan de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba en aan de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024)"
+citeertitel: "Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024"
 identifier: "BWBR0049910"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-02"
-last_updated: "2024-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049910"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17154983"
-version_id: "30194122"
-internal_id: "C43257281"
-label_id: "17063264"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049910/2024-07-02/0"
-intitule_bron: "Stcrt.2024-21031"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-24"
-intitule_published: "2024-07-01"
-intitule_in_force: "2024-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21031"
-original_signed_date: "2024-06-24"
-original_published_date: "2024-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21031"
-entry_into_force_date: "2024-07-02"
-jci_1_3: "jci1.3:c:BWBR0049910&z=2024-07-02&g=2024-07-02"
-jci_1_0: "1.0:c:BWBR0049910&g=2024-07-02"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024"
-signed_date: "2024-06-24"
-entry_into_force: "2024-07-02"
+publicatiedatum: 2024-07-02
+laatste_update: 2024-07-02
+status: geldig
+toestand: 2024-07-02
+bron: "https://wetten.overheid.nl/BWBR0049910"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de directeur-generaal Politie en Veiligheidsregio’s van het Ministerie van Justitie en Veiligheid van 24 juni 2024 met kenmerk 4958432 houdende verlening van ondermandaat, volmacht en machtiging aan de korpschef van het politiekorps van Bonaire, Sint Eustatius en Saba en aan de algemeen commandant van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024)
-
-Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=3), en [7, tweede lid, van de Regeling doormandatering korpsbeheer politie en brandweer BES 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031763&artikel=7);
-
-Besluit:
 
 #### Paragraaf 1. Bevoegdheden korpschef politie
 
@@ -108,7 +82,7 @@ namens deze,
 
 (naam)
 
-**Korpschef van het korps politie Bonaire, Sint Eustatius en Saba**
+*Korpschef van het korps politie Bonaire, Sint Eustatius en Saba*
 
 2. Ondertekening van besluiten en stukken op grond van het ondermandaat aan de korpschef, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=1&artikel=1&z=2024-07-02&g=2024-07-02), met betrekking tot de bevoegdheden van het bevoegd gezag van de ambtenaren die zijn of worden geplaatste bij het korps politie vindt plaats op de volgende wijze:
 
@@ -120,7 +94,7 @@ namens deze,
 
 (naam)
 
-**Korpschef van het korps politie Bonaire, Sint Eustatius en Saba**
+*Korpschef van het korps politie Bonaire, Sint Eustatius en Saba*
 
 ##### Artikel 4
 
@@ -186,7 +160,7 @@ namens deze,
 
 (naam)
 
-**Algemeen commandant van het brandweerkorps Bonaire, Sint Eustatius en Saba**
+*Algemeen commandant van het brandweerkorps Bonaire, Sint Eustatius en Saba*
 
 2. Ondertekening van besluiten en stukken op grond van het ondermandaat aan de algemeen commandant, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049910&paragraaf=2&artikel=5&z=2024-07-02&g=2024-07-02), met betrekking tot de bevoegdheden van het bevoegd gezag van de ambtenaren die zijn of worden geplaatst bij het brandweerkorps vindt plaats op de volgende wijze:
 
@@ -198,7 +172,7 @@ namens deze,
 
 (naam)
 
-**Algemeen commandant van het brandweerkorps Bonaire, Sint Eustatius en Saba**
+*Algemeen commandant van het brandweerkorps Bonaire, Sint Eustatius en Saba*
 
 ##### Artikel 8
 
@@ -245,5 +219,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit mandaatverlening aan korpschef Korps Politie Caribisch Nederland en algemeen commandant Brandweerkorps Caribisch Nederland 2024.
-
-Dit besluit zal met de toelichting in de Staatcourant worden geplaatst.

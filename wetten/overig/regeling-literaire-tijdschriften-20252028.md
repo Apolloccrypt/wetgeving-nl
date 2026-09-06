@@ -1,74 +1,47 @@
 ---
 title: "Regeling literaire tijdschriften 2025–2028"
 identifier: "BWBR0049981"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-16"
-last_updated: "2024-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049981"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17170723"
-version_id: "30226322"
-internal_id: "C43298041"
-label_id: "17078824"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049981/2024-07-16/0"
-intitule_bron: "Stcrt.2024-22688"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-07-15"
-intitule_in_force: "2024-07-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-22688"
-original_published_date: "2024-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-22688"
-entry_into_force_date: "2024-07-16"
-jci_1_3: "jci1.3:c:BWBR0049981&z=2024-07-16&g=2024-07-16"
-jci_1_0: "1.0:c:BWBR0049981&g=2024-07-16"
-citeertitel_status: "officieel"
-entry_into_force: "2024-07-16"
+publicatiedatum: 2024-07-16
+laatste_update: 2024-07-16
+status: geldig
+toestand: 2024-07-16
+bron: "https://wetten.overheid.nl/BWBR0049981"
+opgehaald: 2026-09-06
 ---
+
 # Regeling literaire tijdschriften 2025–2028
-
-gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement van het Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735),
-
-besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** het bestuur van het Nederlands Letterenfonds;
+- *bestuur:* het bestuur van het Nederlands Letterenfonds;
 
-- **Letterenfonds:** de Stichting Nederlands Letterenfonds;
+- *Letterenfonds:* de Stichting Nederlands Letterenfonds;
 
-- **auteurs:** professionele literaire schrijvers, dichters en vertalers;
+- *auteurs:* professionele literaire schrijvers, dichters en vertalers;
 
-- **illustratoren:** kunstenaars of grafische ontwerpers die visuele afbeeldingen creëren om een verhaal, concept of boodschap over te brengen;
+- *illustratoren:* kunstenaars of grafische ontwerpers die visuele afbeeldingen creëren om een verhaal, concept of boodschap over te brengen;
 
-- **literair:** de Nederlandstalige, Friestalige, Nederlandse gebarentaal of Papiamentstalige oorspronkelijke literatuur betreffende of de in de vier voornoemde talen vertaalde literatuur betreffende;
+- *literair:* de Nederlandstalige, Friestalige, Nederlandse gebarentaal of Papiamentstalige oorspronkelijke literatuur betreffende of de in de vier voornoemde talen vertaalde literatuur betreffende;
 
-- **Koninkrijk der Nederlanden:** de landen Aruba, Curaçao, Nederland, Sint Maarten en de openbare lichamen Bonaire, Saba en Sint Eustatius;
+- *Koninkrijk der Nederlanden:* de landen Aruba, Curaçao, Nederland, Sint Maarten en de openbare lichamen Bonaire, Saba en Sint Eustatius;
 
-- **tijdschrift:** een papieren of digitaal literair platform met een onafhankelijke vakkundige redactie waarop verschillende vormen van en teksten over literatuur aan bod komen vanuit een autonome en (esthetisch en ethisch) samenhangende poëtica,
+- *tijdschrift:* een papieren of digitaal literair platform met een onafhankelijke vakkundige redactie waarop verschillende vormen van en teksten over literatuur aan bod komen vanuit een autonome en (esthetisch en ethisch) samenhangende poëtica,
 
-- a. waarvan de bijdragen ten minste voor de helft literair van aard zijn en niet in hoofdzaak zijn geschreven door de redactieleden zelf;
+   - a. waarvan de bijdragen ten minste voor de helft literair van aard zijn en niet in hoofdzaak zijn geschreven door de redactieleden zelf;
 
-- b. dat redactioneel begeleide publicatiekansen biedt voor zowel beginnende als gevestigde auteurs, illustratoren en recensenten;
+   - b. dat redactioneel begeleide publicatiekansen biedt voor zowel beginnende als gevestigde auteurs, illustratoren en recensenten;
 
-- c. dat de mogelijkheid biedt om de diversiteit aan stemmen uit Nederland te vergroten en mogelijkheden om teksten van en over minder gekende auteurs uit het buitenland te ontsluiten naar nieuw publiek; en
+   - c. dat de mogelijkheid biedt om de diversiteit aan stemmen uit Nederland te vergroten en mogelijkheden om teksten van en over minder gekende auteurs uit het buitenland te ontsluiten naar nieuw publiek; en
 
-- d. dat een ontmoetingsplaats is voor auteurs, illustratoren, redacteurs en lezers, een vrijplaats biedt voor reflectie en experiment of door (mede-)organisatie van lezingen of literaire evenementen het directe contact opzoekt met (potentiële) lezers.
+   - d. dat een ontmoetingsplaats is voor auteurs, illustratoren, redacteurs en lezers, een vrijplaats biedt voor reflectie en experiment of door (mede-)organisatie van lezingen of literaire evenementen het directe contact opzoekt met (potentiële) lezers.
 
-- **redactie:** een uit meerdere leden bestaande groep professionele personen met een artistiek onafhankelijke, samenhangende visie, die zorgt voor de acquisitie en selectie van kopij en verantwoordelijk is voor het redigeren en corrigeren van alle kopij voorafgaand aan publicatie in het tijdschrift;
+- *redactie:* een uit meerdere leden bestaande groep professionele personen met een artistiek onafhankelijke, samenhangende visie, die zorgt voor de acquisitie en selectie van kopij en verantwoordelijk is voor het redigeren en corrigeren van alle kopij voorafgaand aan publicatie in het tijdschrift;
 
-- **redactiekosten:** alle kosten die de redactie ten behoeve van het tijdschrift maakt, met uitzondering van kosten bestaande uit honoraria voor de redactie en auteurs en illustratoren van literaire kopij.
+- *redactiekosten:* alle kosten die de redactie ten behoeve van het tijdschrift maakt, met uitzondering van kosten bestaande uit honoraria voor de redactie en auteurs en illustratoren van literaire kopij.
 
 ##### Artikel 2. Subsidiabele kosten
 
@@ -98,11 +71,11 @@ Het Letterenfonds maakt de informatie over de regeling via zijn website bekend. 
 
 - a. geproduceerd en geëxploiteerd wordt op basis van ten minste één andere structurele bron van inkomsten buiten de subsidie van het Letterenfonds; en
 
-- b. ten minste vanaf 1 maart 2023 onafgebroken is verschenen en per kalenderjaar met een omvang van:
+- b. ten minste vanaf 1 maart 2023 onafgebroken is verschenen en per kalenderjaar met een omvang van:
 
-- –. voor papieren tijdschriften minimaal 48 pagina’s en een verschijningsfrequentie van twee keer per jaar;
+   - – voor papieren tijdschriften minimaal 48 pagina’s en een verschijningsfrequentie van twee keer per jaar;
 
-- –. voor digitale tijdschriften minimaal veertig nieuwe literaire werken per jaar en een regelmatig publicatieschema.
+   - – voor digitale tijdschriften minimaal veertig nieuwe literaire werken per jaar en een regelmatig publicatieschema.
 
 2. De tijdschriften passen de Fair Practice code en de Code Governance Cultuur toe. Daarnaast beschrijven ze in de aanvraag hoe ze zich verhouden tot de Code Diversiteit en Inclusie.
 
@@ -116,9 +89,9 @@ Het Letterenfonds maakt de informatie over de regeling via zijn website bekend. 
 
 ##### Artikel 8. Hoogte subsidiebedrag en subsidieplafond
 
-1. Het subsidiebedrag per aanvraag is € 20.500 euro per jaar en € 82.000 voor vier jaar.
+1. Het subsidiebedrag per aanvraag is € 20.500 euro per jaar en € 82.000 voor vier jaar.
 
-2. Het subsidieplafond is € 984.000. Eventuele wijzingen van dit plafond worden bekendgemaakt op de website van het Letterenfonds.
+2. Het subsidieplafond is € 984.000. Eventuele wijzingen van dit plafond worden bekendgemaakt op de website van het Letterenfonds.
 
 ##### Artikel 9. Beoordelingscriteria
 
@@ -188,7 +161,7 @@ Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honore
 
 ##### Artikel 15. Verantwoording
 
-1. De subsidieontvanger dient jaarlijks voor 1 mei een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
+1. De subsidieontvanger dient jaarlijks voor 1 mei een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
 2. De verantwoording bestaat uit een verslag over de uitgevoerde activiteiten en de nagestreefde doelstellingen waarmee wordt aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden, alsmede een goedgekeurde jaarrekening.
 
@@ -228,10 +201,8 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van voldoende middelen
 
 ##### Artikel 21. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant en vervalt op 31 december 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant en vervalt op 31 december 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling literaire tijdschriften 2025–2028.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 april 2024, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met beperking van de verstrekking van gegevens uit de basisregistratie personen (Besluit experiment dataminimalisatie basisregistratie personen)"
+citeertitel: "Besluit experiment dataminimalisatie basisregistratie personen"
 identifier: "BWBR0049596"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-04-22"
-last_updated: "2024-04-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049596"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17079483"
-version_id: "30058242"
-internal_id: "C43077751"
-label_id: "16988394"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049596/2024-04-22/0"
-intitule_bron: "Stb.2024-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-11"
-intitule_published: "2024-04-19"
-intitule_in_force: "2024-04-19"
-intitule_status: "goed"
-original_publication: "Stb.2024-96"
-original_signed_date: "2024-04-11"
-original_published_date: "2024-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-96"
-entry_into_force_date: "2024-04-22"
-jci_1_3: "jci1.3:c:BWBR0049596&z=2024-04-22&g=2024-04-22"
-jci_1_0: "1.0:c:BWBR0049596&g=2024-04-22"
-citeertitel_status: "officieel"
-short_title: "Besluit experiment dataminimalisatie basisregistratie personen"
-signed_date: "2024-04-11"
-entry_into_force: "2024-04-22"
+publicatiedatum: 2024-04-22
+laatste_update: 2024-04-22
+status: geldig
+toestand: 2024-04-22
+bron: "https://wetten.overheid.nl/BWBR0049596"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 11 april 2024, houdende regels waarmee tijdelijk wordt afgeweken van de Wet basisregistratie personen in het kader van een experiment met beperking van de verstrekking van gegevens uit de basisregistratie personen (Besluit experiment dataminimalisatie basisregistratie personen)
-
-Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 13 oktober 2023, nr. 2023-0000614128;
-
-Gelet op de [artikelen 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.10), [1.14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.14), en [4.16a, eerste lid, aanhef en onderdeel b, en zesde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=4.16a);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 28 februari 2024, nr. W04.23.00314/I);
-
-Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 april 2024, nr. 2024-0000130306;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,19 +20,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **autorisatiebesluit:** besluit als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.2) of [3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3);
+- *autorisatiebesluit:* besluit als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.2) of [3.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.3);
 
-- **centrale voorziening:** voorziening als bedoeld in [artikel 1.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9);
+- *centrale voorziening:* voorziening als bedoeld in [artikel 1.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=1.9);
 
-- **de wet:** de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
+- *de wet:* de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715);
 
-- **het experiment:** het experiment, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.1&z=2024-04-22&g=2024-04-22);
+- *het experiment:* het experiment, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.1&z=2024-04-22&g=2024-04-22);
 
-- **informatie:** de uitkomst van de bewerking, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.3&z=2024-04-22&g=2024-04-22);
+- *informatie:* de uitkomst van de bewerking, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.3&z=2024-04-22&g=2024-04-22);
 
-- **systeembeschrijving:** beschrijving van de aspecten die zijn aangeduid in de tabel die als [bijlage 2 bij het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=2) is gevoegd;
+- *systeembeschrijving:* beschrijving van de aspecten die zijn aangeduid in de tabel die als [bijlage 2 bij het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&bijlage=2) is gevoegd;
 
-- **verstrekking op basis van een zoekvraag:** systematische verstrekking van gegevens als bedoeld in [artikel 37, eerste lid, onderdeel c, van het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=37).
+- *verstrekking op basis van een zoekvraag:* systematische verstrekking van gegevens als bedoeld in [artikel 37, eerste lid, onderdeel c, van het Besluit basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=37).
 
 ### Hoofdstuk 2. Experiment
 
@@ -236,37 +204,37 @@ Criteria aan de hand waarvan in het kader van monitoring en evaluatie als bedoel
 
 - a. het aantal gevallen waarin:
 
-- 1°. Onze Minister informatie verstrekt;
+   - 1°. Onze Minister informatie verstrekt;
 
-- 2°. de colleges van burgemeester en wethouders informatie verstrekken;
+   - 2°. de colleges van burgemeester en wethouders informatie verstrekken;
 
-- 3°. melding wordt gedaan van een fout over de bewerking van gegevens en de verstrekking van informatie;
+   - 3°. melding wordt gedaan van een fout over de bewerking van gegevens en de verstrekking van informatie;
 
-- 4°. een ingeschrevene melding doet van een fout in de verdere verwerking van de informatie door een overheidsorgaan of derde;
+   - 4°. een ingeschrevene melding doet van een fout in de verdere verwerking van de informatie door een overheidsorgaan of derde;
 
-- 5°. een mededeling bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.7&z=2024-04-22&g=2024-04-22) wordt gedaan met betrekking tot verstrekte informatie; en
+   - 5°. een mededeling bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049596&hoofdstuk=2&artikel=2.7&z=2024-04-22&g=2024-04-22) wordt gedaan met betrekking tot verstrekte informatie; en
 
-- 6°. een fout over de verwerking van gegevens en de verstrekking van informatie adequaat en binnen een redelijke termijn wordt opgelost.
+   - 6°. een fout over de verwerking van gegevens en de verstrekking van informatie adequaat en binnen een redelijke termijn wordt opgelost.
 
 - b. de mate waarin:
 
-- 1°. overheidsorganen en derden aangeven hun taken uit te kunnen voeren met informatie in plaats van gegevens;
+   - 1°. overheidsorganen en derden aangeven hun taken uit te kunnen voeren met informatie in plaats van gegevens;
 
-- 2°. het gebruik van informatie verschilt van het gebruik van gegevens door overheidsorganen en derden;
+   - 2°. het gebruik van informatie verschilt van het gebruik van gegevens door overheidsorganen en derden;
 
-- 3°. beter kan worden bepaald voor welke concrete doeleinden informatie kan worden verstrekt onder de taak waarvoor reeds is geautoriseerd;
+   - 3°. beter kan worden bepaald voor welke concrete doeleinden informatie kan worden verstrekt onder de taak waarvoor reeds is geautoriseerd;
 
-- 4°. beter uitvoering gegeven kan worden aan [artikel 3.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.11);
+   - 4°. beter uitvoering gegeven kan worden aan [artikel 3.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=3.11);
 
 - c. beantwoording van de vraag of:
 
-- 1°. de verstrekking van specifieke gegevens achterwege kan blijven door de verstrekking van informatie;
+   - 1°. de verstrekking van specifieke gegevens achterwege kan blijven door de verstrekking van informatie;
 
-- 2°. er informatie wordt gegenereerd binnen het experiment die zou moeten worden bijgehouden op de persoonslijsten van ingeschrevenen;
+   - 2°. er informatie wordt gegenereerd binnen het experiment die zou moeten worden bijgehouden op de persoonslijsten van ingeschrevenen;
 
-- 3°. er gegevens ontbreken op de persoonslijst, die zouden moeten worden bijgehouden op de persoonslijst teneinde informatievragen te kunnen beantwoorden;
+   - 3°. er gegevens ontbreken op de persoonslijst, die zouden moeten worden bijgehouden op de persoonslijst teneinde informatievragen te kunnen beantwoorden;
 
-- 4°. verplicht gebruik ook zou moeten gelden voor (bepaalde categorieën van) informatie.
+   - 4°. verplicht gebruik ook zou moeten gelden voor (bepaalde categorieën van) informatie.
 
 - d. de maatschappelijke baten van het experiment opwegen tegen de kosten daarvan.
 
@@ -279,5 +247,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 ##### Artikel 4.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit experiment dataminimalisatie basisregistratie personen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

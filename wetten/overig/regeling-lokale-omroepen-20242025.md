@@ -1,46 +1,18 @@
 ---
 title: "Regeling van het Stimuleringsfonds voor de Journalistiek van 15 mei 2024, nr. LO2425, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2024–2025"
+citeertitel: "Regeling lokale omroepen 2024–2025"
 identifier: "BWBR0049729"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-09-04"
-last_updated: "2024-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049729"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17110993"
-version_id: "30115492"
-internal_id: "C43152431"
-label_id: "17019654"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049729/2024-09-04/0"
-intitule_bron: "Stcrt.2024-16791"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-15"
-intitule_published: "2024-05-27"
-intitule_in_force: "2024-05-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-16791"
-original_signed_date: "2024-05-15"
-original_published_date: "2024-05-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-16791"
-entry_into_force_date: "2024-05-28"
-jci_1_3: "jci1.3:c:BWBR0049729&z=2024-09-04&g=2024-09-04"
-jci_1_0: "1.0:c:BWBR0049729&g=2024-09-04"
-citeertitel_status: "officieel"
-short_title: "Regeling lokale omroepen 2024–2025"
-signed_date: "2024-05-15"
-entry_into_force: "2024-05-28"
+publicatiedatum: 2024-05-28
+laatste_update: 2024-09-04
+status: geldig
+toestand: 2024-09-04
+bron: "https://wetten.overheid.nl/BWBR0049729"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van het Stimuleringsfonds voor de Journalistiek van 15 mei 2024, nr. LO2425, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2024–2025
-
-Handelend in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3) en [8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,53 +20,53 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **lokale publieke media-instelling:** instelling die op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van een lokale publieke mediadienst voor een of meer gemeenten;
+- a) *lokale publieke media-instelling:* instelling die op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van een lokale publieke mediadienst voor een of meer gemeenten;
 
-- b). **agendabericht:** informatie in de vorm van geschreven tekst, audio of video met als doel burgers op de hoogte te stellen van aankomende uiteenlopende activiteiten en evenementen.
+- b) *agendabericht:* informatie in de vorm van geschreven tekst, audio of video met als doel burgers op de hoogte te stellen van aankomende uiteenlopende activiteiten en evenementen.
 
-- c). **eigen nieuwsgaring:** het zelfstandig en op eigen initiatief verzamelen en publiceren van nieuwsberichten, tot stand gekomen door journalistiek handelen;
+- c) *eigen nieuwsgaring:* het zelfstandig en op eigen initiatief verzamelen en publiceren van nieuwsberichten, tot stand gekomen door journalistiek handelen;
 
-- d). **journalistiek handelen:** het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
+- d) *journalistiek handelen:* het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
 
-- 1. het gaat om onafhankelijk tot stand gekomen openbare berichtgeving die bestemd is voor een breed publiek en die bestaat uit originele eigen content die niet machine-gegenereerd is;
+   - 1. het gaat om onafhankelijk tot stand gekomen openbare berichtgeving die bestemd is voor een breed publiek en die bestaat uit originele eigen content die niet machine-gegenereerd is;
 
-- 2. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
+   - 2. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
 
-- 3. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt;
+   - 3. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt;
 
-- e). **Keurmerk Nederlandse Streekomroepen:** keurmerk van de NLPO met als doelstelling het bevorderen van kwaliteit/professionaliteit, de efficiency en het productaanbod bij lokale publieke media-instellingen. Het Keurmerk omvat 20 objectief toetsbare criteria, die onafhankelijk worden getoetst door het Keurmerkinstituut
+- e) *Keurmerk Nederlandse Streekomroepen:* keurmerk van de NLPO met als doelstelling het bevorderen van kwaliteit/professionaliteit, de efficiency en het productaanbod bij lokale publieke media-instellingen. Het Keurmerk omvat 20 objectief toetsbare criteria, die onafhankelijk worden getoetst door het Keurmerkinstituut
 
-- f). **nieuwsapp:** Een app, oftewel applicatie van de lokale publieke media-instelling voor de smartphone, tablet of via een webbrowser waarmee gebruikers toegang krijgen tot nieuwsberichten en het ontvangen van push-notificaties
+- f) *nieuwsapp:* Een app, oftewel applicatie van de lokale publieke media-instelling voor de smartphone, tablet of via een webbrowser waarmee gebruikers toegang krijgen tot nieuwsberichten en het ontvangen van push-notificaties
 
-- g). **nieuwsbericht:** mededeling op een website in de vorm van geschreven tekst, video of audio bestaande uit actuele informatie van een zeker algemeen belang, voortgekomen uit journalistiek handelen, niet zijnde een agendabericht;
+- g) *nieuwsbericht:* mededeling op een website in de vorm van geschreven tekst, video of audio bestaande uit actuele informatie van een zeker algemeen belang, voortgekomen uit journalistiek handelen, niet zijnde een agendabericht;
 
-- h). **NLPO:** Stichting Nederlandse Lokale Publieke Omroepen;
+- h) *NLPO:* Stichting Nederlandse Lokale Publieke Omroepen;
 
-- i). **PBO:** Programmabeleidbepalend orgaan als bedoeld in [artikel 2.61, tweede lid, onderdeel c, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
+- i) *PBO:* Programmabeleidbepalend orgaan als bedoeld in [artikel 2.61, tweede lid, onderdeel c, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
 
-- j). **professionalisering:** het toevoegen van professionals, het ontwikkelen van journalistieke werkprocessen en organisatorische (door)ontwikkeling met als doel het journalistiek handelen te verbeteren of uit te bouwen;
+- j) *professionalisering:* het toevoegen van professionals, het ontwikkelen van journalistieke werkprocessen en organisatorische (door)ontwikkeling met als doel het journalistiek handelen te verbeteren of uit te bouwen;
 
-- k). **samenwerkingsverband:** een verband tussen meerdere lokale publieke media-instellingen op basis van een samenwerkingsovereenkomst met het oog op de gezamenlijke uitvoering van subsidiabele activiteiten;
+- k) *samenwerkingsverband:* een verband tussen meerdere lokale publieke media-instellingen op basis van een samenwerkingsovereenkomst met het oog op de gezamenlijke uitvoering van subsidiabele activiteiten;
 
-- l). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2);
+- l) *Stimuleringsfonds:* het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2);
 
-- m). **streek:** een streek zoals opgenomen in de streekomroepenkaart, zoals opgesteld door de NLPO en de VNG, die is bijgevoegd als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&bijlage=1&z=2024-09-04&g=2024-09-04) bij deze regeling;
+- m) *streek:* een streek zoals opgenomen in de streekomroepenkaart, zoals opgesteld door de NLPO en de VNG, die is bijgevoegd als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&bijlage=1&z=2024-09-04&g=2024-09-04) bij deze regeling;
 
-- n). **website:** een openbare weblocatie met informatie in de vorm van tekst, foto’s, audio of video’s die als zelfstandig geheel onder eigen verantwoordelijkheid en beheer van een lokale publieke media-instelling of meerdere lokale publieke media-instellingen valt.
+- n) *website:* een openbare weblocatie met informatie in de vorm van tekst, foto’s, audio of video’s die als zelfstandig geheel onder eigen verantwoordelijkheid en beheer van een lokale publieke media-instelling of meerdere lokale publieke media-instellingen valt.
 
 ##### Artikel 1.2. Doel van de subsidie, subsidieperiode en subsidiabele activiteiten
 
 1. Subsidieverstrekking op grond van deze regeling heeft tot doel het stimuleren van professionalisering van lokale publieke media-instellingen, teneinde de kwaliteit van het journalistiek handelen te waarborgen.
 
-2. Het Stimuleringsfonds kan aan een lokale publieke media-instelling en aan een samenwerkingsverband subsidie verstrekken voor de kosten van activiteiten ten behoeve van professionalisering die worden uitgevoerd in de periode 1 januari 2025 tot en met 31 december 2025.
+2. Het Stimuleringsfonds kan aan een lokale publieke media-instelling en aan een samenwerkingsverband subsidie verstrekken voor de kosten van activiteiten ten behoeve van professionalisering die worden uitgevoerd in de periode 1 januari 2025 tot en met 31 december 2025.
 
 ##### Artikel 1.3. Subsidieplafond en deelplafonds
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal € 12.500.000 beschikbaar, waarvan:
+1. Voor subsidieverstrekking op grond van deze regeling is in totaal € 12.500.000 beschikbaar, waarvan:
 
-- a). € 5.250.000 beschikbaar is voor individuele aanvragen als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04); en
+- a) € 5.250.000 beschikbaar is voor individuele aanvragen als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04); en
 
-- b). € 7.250.000 beschikbaar is voor aanvragen van een samenwerkingsverband als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04).
+- b) € 7.250.000 beschikbaar is voor aanvragen van een samenwerkingsverband als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04).
 
 2. Het Stimuleringsfonds kan besluiten de subsidieplafonds te verhogen. Een besluit tot het verhogen van een subsidieplafond wordt bekendgemaakt door middel van publicatie in de Staatscourant.
 
@@ -112,23 +84,23 @@ In deze regeling wordt verstaan onder:
 
 4. Op grond van deze regeling kan uitsluitend subsidie worden verstrekt voor de volgende kosten, inclusief btw:
 
-- a). de kosten van een passende beloning van medewerkers die activiteiten verrichten in het kader van professionalisering, tot maximaal 85.000 euro naar rato per medewerker per kalenderjaar, inclusief werkgeverslasten;
+- a) de kosten van een passende beloning van medewerkers die activiteiten verrichten in het kader van professionalisering, tot maximaal 85.000 euro naar rato per medewerker per kalenderjaar, inclusief werkgeverslasten;
 
-- b). bijkomende kosten tot ten hoogste 30.000 euro die vallen onder een of meer van de volgende posten:
+- b) bijkomende kosten tot ten hoogste 30.000 euro die vallen onder een of meer van de volgende posten:
 
-- i). aanschaf/afschrijving van hardware en software voor nieuwe medewerkers;
+   - i) aanschaf/afschrijving van hardware en software voor nieuwe medewerkers;
 
-- ii). kosten voor de professionalisering van de infrastructuur van kanalen die relevant zijn voor het verzorgingsgebied;
+   - ii) kosten voor de professionalisering van de infrastructuur van kanalen die relevant zijn voor het verzorgingsgebied;
 
-- iii). inhuur administratiekantoor/salarisadministratie;
+   - iii) inhuur administratiekantoor/salarisadministratie;
 
-- iv). opleidingskosten voor vrijwilligers en/of medewerkers;
+   - iv) opleidingskosten voor vrijwilligers en/of medewerkers;
 
-- v). kosten voor werving van nieuwe medewerkers;
+   - v) kosten voor werving van nieuwe medewerkers;
 
-- vi). reiskosten medewerkers/leaseauto voor verslaggeving binnen het verzorgingsgebied;
+   - vi) reiskosten medewerkers/leaseauto voor verslaggeving binnen het verzorgingsgebied;
 
-- vii). diverse onkosten, waaronder kosten in verband met penvoerderschap, tot een maximum van 2.500 euro.
+   - vii) diverse onkosten, waaronder kosten in verband met penvoerderschap, tot een maximum van 2.500 euro.
 
 5. Verschuldigde omzetbelasting komt uitsluitend voor subsidie in aanmerking ingeval de aanvrager deze niet kan verrekenen.
 
@@ -140,65 +112,65 @@ In deze regeling wordt verstaan onder:
 
 2. Subsidie kan uitsluitend worden aangevraagd door:
 
-- a). een individuele lokale publieke media-instelling; en
+- a) een individuele lokale publieke media-instelling; en
 
-- b). een lokale publieke media-instelling die optreedt als penvoerder namens de deelnemers aan een samenwerkingsverband.
+- b) een lokale publieke media-instelling die optreedt als penvoerder namens de deelnemers aan een samenwerkingsverband.
 
 3. Een lokale publieke media-instelling kan niet zowel een aanvraag indienen als bedoeld in het eerste lid, onderdeel a, alsook deelnemer zijn aan het samenwerkingsverband bij een subsidieaanvraag als bedoeld in het eerste lid, onderdeel b.
 
-4. Voor de toepassing van dit artikel wordt mede als lokale publieke media-instelling beschouwd een instelling ten aanzien van welke een procedure tot vernieuwing van de aanwijzing van het Commissariaat voor de Media loopt en deze instelling aantoont dat hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor of op 1 januari 2025.
+4. Voor de toepassing van dit artikel wordt mede als lokale publieke media-instelling beschouwd een instelling ten aanzien van welke een procedure tot vernieuwing van de aanwijzing van het Commissariaat voor de Media loopt en deze instelling aantoont dat hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor of op 1 januari 2025.
 
 ##### Artikel 2.2. Subsidieaanvraag
 
 1. Een aanvraag wordt ingediend door middel van het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier dat beschikbaar is op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
-- a). een beschrijving van de voorgenomen activiteiten, voorzien van een realistische begroting, conform een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten;
+- a) een beschrijving van de voorgenomen activiteiten, voorzien van een realistische begroting, conform een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten;
 
-- b). een beschrijving van in hoeverre de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband, voldoet/voldoen aan de vijf organisatorische doelen;
+- b) een beschrijving van in hoeverre de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband, voldoet/voldoen aan de vijf organisatorische doelen;
 
-- c). een onderbouwde keuze aan welke twee van de vijf organisatorische doelen de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband willen gaan werken in 2025;
+- c) een onderbouwde keuze aan welke twee van de vijf organisatorische doelen de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband willen gaan werken in 2025;
 
-- d). een motivatie waarom de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband wil, respectievelijk willen professionaliseren;
+- d) een motivatie waarom de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband wil, respectievelijk willen professionaliseren;
 
-- e). documentatie waaruit blijkt dat de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband door het Commissariaat voor de Media op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen of zijn aangewezen als lokale publieke media-instelling. Indien [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04) van toepassing is, dient documentatie aangeleverd te worden waarmee aannemelijk wordt gemaakt dat de hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor 1 januari 2025.
+- e) documentatie waaruit blijkt dat de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband door het Commissariaat voor de Media op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen of zijn aangewezen als lokale publieke media-instelling. Indien [artikel 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04) van toepassing is, dient documentatie aangeleverd te worden waarmee aannemelijk wordt gemaakt dat de hernieuwde aanwijzing naar alle waarschijnlijkheid zal worden toegekend voor 1 januari 2025.
 
-- f). documentatie waaruit blijkt welke publicatiekanalen (televisie, radio, website, app, tenminste één social media kanaal) de aanvrager bedient;
+- f) documentatie waaruit blijkt welke publicatiekanalen (televisie, radio, website, app, tenminste één social media kanaal) de aanvrager bedient;
 
-- g). indien beschikbaar: documentatie waaruit blijkt hoeveel journalistieke fte’s er in vaste dienst of op freelancebasis bij de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband werkzaam zijn;
+- g) indien beschikbaar: documentatie waaruit blijkt hoeveel journalistieke fte’s er in vaste dienst of op freelancebasis bij de lokale publieke media-instelling dan wel de deelnemers aan een samenwerkingsverband werkzaam zijn;
 
-- h). de meest recente jaarrekening van de lokale publieke media-instelling dan wel meest recente jaarrekeningen van alle deelnemers aan een samenwerkingsverband;
+- h) de meest recente jaarrekening van de lokale publieke media-instelling dan wel meest recente jaarrekeningen van alle deelnemers aan een samenwerkingsverband;
 
-- i). indien beschikbaar: drie meest actuele vastgestelde vergaderverslagen uit 2023 of 2024 van het PBO van de lokale publieke media-instelling dan wel van de deelnemers aan een samenwerkingsverband;
+- i) indien beschikbaar: drie meest actuele vastgestelde vergaderverslagen uit 2023 of 2024 van het PBO van de lokale publieke media-instelling dan wel van de deelnemers aan een samenwerkingsverband;
 
 2. Bij een aanvraag van een penvoerder, namens de deelnemers aan een samenwerkingsverband, wordt aanvullend verstrekt:
 
-- a). een door alle deelnemers aan het samenwerkingsverband ondertekende samenwerkingsovereenkomst waaruit ten minste blijkt:
+- a) een door alle deelnemers aan het samenwerkingsverband ondertekende samenwerkingsovereenkomst waaruit ten minste blijkt:
 
-- i). dat de penvoerder door elk van de deelnemers gemachtigd is tot het indienen van aanvragen tot subsidieverlening en subsidievaststelling;
+   - i) dat de penvoerder door elk van de deelnemers gemachtigd is tot het indienen van aanvragen tot subsidieverlening en subsidievaststelling;
 
-- ii). dat de penvoerder door elk van de deelnemers is gemachtigd tot ontvangst van voorschotten en het doen van terugbetalingen;
+   - ii) dat de penvoerder door elk van de deelnemers is gemachtigd tot ontvangst van voorschotten en het doen van terugbetalingen;
 
-- iii). dat de penvoerder verantwoordelijk is voor doorbetaling van ontvangen voorschotten en betalingen aan de overige deelnemers en voor eventuele terugbetaling van hetgeen van de subsidieontvangers wordt teruggevorderd;
+   - iii) dat de penvoerder verantwoordelijk is voor doorbetaling van ontvangen voorschotten en betalingen aan de overige deelnemers en voor eventuele terugbetaling van hetgeen van de subsidieontvangers wordt teruggevorderd;
 
-- iv). dat de penvoerder namens alle deelnemers in het samenwerkingsverband alle correspondentie en communicatie verzorgt met het Stimuleringsfonds;
+   - iv) dat de penvoerder namens alle deelnemers in het samenwerkingsverband alle correspondentie en communicatie verzorgt met het Stimuleringsfonds;
 
-- v). op welke wijze de penvoerder door de overige deelnemers aan het samenwerkingsverband van informatie wordt voorzien van alle informatie die nodig is in verband met correspondentie in het kader van de subsidieverlening en subsidievaststelling;
+   - v) op welke wijze de penvoerder door de overige deelnemers aan het samenwerkingsverband van informatie wordt voorzien van alle informatie die nodig is in verband met correspondentie in het kader van de subsidieverlening en subsidievaststelling;
 
-- vi). op welke wijze kosten en risico’s worden gedeeld tussen de deelnemers aan het samenwerkingsverband en op welke wijze de naleving van de aan de subsidie verbonden verplichtingen is geborgd.
+   - vi) op welke wijze kosten en risico’s worden gedeeld tussen de deelnemers aan het samenwerkingsverband en op welke wijze de naleving van de aan de subsidie verbonden verplichtingen is geborgd.
 
-- vii). indien van toepassing: op welke wijze de betaalde journalistieke fte worden verdeeld onder de deelnemers voor de periode 1 januari 2025 tot en met 31 december 2025.
+   - vii) indien van toepassing: op welke wijze de betaalde journalistieke fte worden verdeeld onder de deelnemers voor de periode 1 januari 2025 tot en met 31 december 2025.
 
-- b). een toelichting waarin beschreven wordt wat de samenhang is tussen de verschillende deelnemers aan het samenwerkingsverband, het doel van de samenwerking en welke rol de penvoerder heeft in het begeleiden van het samenwerkingsverband en zijn deelnemers en het begeleiden en uitvoeren van administratieve activiteiten; en
+- b) een toelichting waarin beschreven wordt wat de samenhang is tussen de verschillende deelnemers aan het samenwerkingsverband, het doel van de samenwerking en welke rol de penvoerder heeft in het begeleiden van het samenwerkingsverband en zijn deelnemers en het begeleiden en uitvoeren van administratieve activiteiten; en
 
-- c). gegevens over de contactpersoon bij de penvoerder, waaronder de naam, het telefoonnummer, het e-mailadres en het postadres;
+- c) gegevens over de contactpersoon bij de penvoerder, waaronder de naam, het telefoonnummer, het e-mailadres en het postadres;
 
-- d). de keuze voor wat betreft de te beoordelen websites en kanalen.
+- d) de keuze voor wat betreft de te beoordelen websites en kanalen.
 
 3. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag buiten behandeling gesteld.
 
 ##### Artikel 2.3. Aanvraagtermijn
 
-Een aanvraag wordt ingediend in de periode van 22 mei 2024 tot en met 1 juli 2024, 23:59 uur.
+Een aanvraag wordt ingediend in de periode van 22 mei 2024 tot en met 1 juli 2024, 23:59 uur.
 
 ### Hoofdstuk 3. Subsidieverlening
 
@@ -210,9 +182,9 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van de volgende drempelcriteria:
 
-- a). de aanvrager voldoet aan [artikel 2.1, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04); en
+- a) de aanvrager voldoet aan [artikel 2.1, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04); en
 
-- b). de aanvrager en de deelnemers aan een samenwerkingsverband bezitten op 1 januari 2025 een aanwijzing van het Commissariaat voor de Media;
+- b) de aanvrager en de deelnemers aan een samenwerkingsverband bezitten op 1 januari 2025 een aanwijzing van het Commissariaat voor de Media;
 
 2. Als een aanvraag niet aan de drempelcriteria voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -220,67 +192,67 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Bij beoordeling van aanvragen kent het Stimuleringsfonds punten toe aan de hand van de volgende criteria en tot het daarbij vermelde maximumaantal:
 
-- a). journalistieke productie als resultaat van journalistiek handelen (maximaal 12 punten):
+- a) journalistieke productie als resultaat van journalistiek handelen (maximaal 12 punten):
 
-- i). gemiddeld aantal nieuwsberichten per dag:
+   - i) gemiddeld aantal nieuwsberichten per dag:
 
-- (1). 5 of meer nieuwsberichten op de website (5 punten);
+      - (1) 5 of meer nieuwsberichten op de website (5 punten);
 
-- (2). 2 tot 5 nieuwsberichten op de website (3 punten);
+      - (2) 2 tot 5 nieuwsberichten op de website (3 punten);
 
-- (3). 1 nieuwsbericht op de website (1 punt);
+      - (3) 1 nieuwsbericht op de website (1 punt);
 
-- ii). gemiddeld percentage nieuwberichten op basis van eigen nieuwsgaring:
+   - ii) gemiddeld percentage nieuwberichten op basis van eigen nieuwsgaring:
 
-- (1). meer dan 75 procent (5 punten);
+      - (1) meer dan 75 procent (5 punten);
 
-- (2). 50 tot 75 procent (4 punten);
+      - (2) 50 tot 75 procent (4 punten);
 
-- (3). 25 tot 50 procent (3 punten);
+      - (3) 25 tot 50 procent (3 punten);
 
-- (4). 5 tot 25 procent (1 punt);
+      - (4) 5 tot 25 procent (1 punt);
 
-- iii). bij meer dan 50 procent van de nieuwsberichten wordt de auteur of maker van een nieuwsbericht vermeld op de website (1 punt);
+   - iii) bij meer dan 50 procent van de nieuwsberichten wordt de auteur of maker van een nieuwsbericht vermeld op de website (1 punt);
 
-- iv). bij doorgeplaatste nieuwsberichten van derden op de website is sprake van duidelijke bronvermelding of er is 100 procent eigen nieuwsgaring en in dat geval zijn er dus geen doorgeplaatste berichten (1 punt).
+   - iv) bij doorgeplaatste nieuwsberichten van derden op de website is sprake van duidelijke bronvermelding of er is 100 procent eigen nieuwsgaring en in dat geval zijn er dus geen doorgeplaatste berichten (1 punt).
 
-- b). mate van professionalisering (maximaal 11 punten)
+- b) mate van professionalisering (maximaal 11 punten)
 
-- i). op de website staat welke persoon of personen verantwoordelijk is of zijn voor de redactie (1 punt);
+   - i) op de website staat welke persoon of personen verantwoordelijk is of zijn voor de redactie (1 punt);
 
-- ii). op de website staat informatie over een klachtenprocedure (2 punten);
+   - ii) op de website staat informatie over een klachtenprocedure (2 punten);
 
-- iii). op de website staat een actuele en toereikende omschrijving waarin de lokale publieke media-instelling zijn eigen rol en ambities binnen de lokale nieuwsvoorziening toelicht (1 punt);
+   - iii) op de website staat een actuele en toereikende omschrijving waarin de lokale publieke media-instelling zijn eigen rol en ambities binnen de lokale nieuwsvoorziening toelicht (1 punt);
 
-- iv). de lokale publieke media-instelling bedient de volgende kanalen (maximaal 1 punt):
+   - iv) de lokale publieke media-instelling bedient de volgende kanalen (maximaal 1 punt):
 
-- (1). televisie (0,2 punt);
+      - (1) televisie (0,2 punt);
 
-- (2). radio (0,2 punt);
+      - (2) radio (0,2 punt);
 
-- (3). website (0,2 punt);
+      - (3) website (0,2 punt);
 
-- (4). nieuwsapp (0,2 punt)
+      - (4) nieuwsapp (0,2 punt)
 
-- (5). tenminste één van de volgende sociale media kanalen: Facebook, X (Twitter), LinkedIn, Instagram, Youtube of TikTok (0,2 punt).
+      - (5) tenminste één van de volgende sociale media kanalen: Facebook, X (Twitter), LinkedIn, Instagram, Youtube of TikTok (0,2 punt).
 
-- v). de lokale publieke media-instelling heeft drie meest actuele vastgestelde vergaderverslagen van het PBO uit 2023 of 2024 met de aanvraag meegestuurd (2 punten);
+   - v) de lokale publieke media-instelling heeft drie meest actuele vastgestelde vergaderverslagen van het PBO uit 2023 of 2024 met de aanvraag meegestuurd (2 punten);
 
-- vi). hoeveelheid betaalde journalistieke fte al aanwezig:
+   - vi) hoeveelheid betaalde journalistieke fte al aanwezig:
 
-- (1). 2 of meer fte (4 punten);
+      - (1) 2 of meer fte (4 punten);
 
-- (2). 1 tot 2 fte (2 punten);
+      - (2) 1 tot 2 fte (2 punten);
 
-- (3). 0,5 tot 1 fte (1 punt).
+      - (3) 0,5 tot 1 fte (1 punt).
 
-- c). mate van samenwerking binnen de streek (maximaal 8 punten): de aanvrager krijgt 8 punten, gedeeld door het totale aantal gemeente(n) in de streek, maal het aantal gemeente(n) in het verzorgingsgebied van de aanvrager, waarbij uitgegaan wordt van de indeling van streken volgens de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&bijlage=1&z=2024-09-04&g=2024-09-04) bijgevoegde streekomroepenkaart.
+- c) mate van samenwerking binnen de streek (maximaal 8 punten): de aanvrager krijgt 8 punten, gedeeld door het totale aantal gemeente(n) in de streek, maal het aantal gemeente(n) in het verzorgingsgebied van de aanvrager, waarbij uitgegaan wordt van de indeling van streken volgens de als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&bijlage=1&z=2024-09-04&g=2024-09-04) bijgevoegde streekomroepenkaart.
 
-2. Indien de lokale publieke media-instelling na 1 december 2023 voor de eerste keer op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van een lokale publieke mediadienst voor een of meer gemeenten, is in afwijking van het eerste lid, onderdeel b, onder v, het inleveren van één actueel vastgesteld vergaderverslag of oprichtingsverslag uit 2023 of 2024 voldoende voor 2 punten.
+2. Indien de lokale publieke media-instelling na 1 december 2023 voor de eerste keer op grond van [titel 2.3 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&titeldeel=2.3) is aangewezen voor de verzorging van een lokale publieke mediadienst voor een of meer gemeenten, is in afwijking van het eerste lid, onderdeel b, onder v, het inleveren van één actueel vastgesteld vergaderverslag of oprichtingsverslag uit 2023 of 2024 voldoende voor 2 punten.
 
 ##### Artikel 3.4. Beoordeling inhoudelijke criteria en rangschikking
 
-1. Ten aanzien van de inhoudelijke criteria ‘journalistieke productie’ en ‘mate van professionalisering’, bedoeld in [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04), beoordeelt het Stimuleringsfonds de stand van zaken op de website van de aanvrager in de periode van 17 juni t/m 23 juni 2024.
+1. Ten aanzien van de inhoudelijke criteria ‘journalistieke productie’ en ‘mate van professionalisering’, bedoeld in [artikel 3.3, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04), beoordeelt het Stimuleringsfonds de stand van zaken op de website van de aanvrager in de periode van 17 juni t/m 23 juni 2024.
 
 2. Per deelplafond als bedoeld in [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=1&artikel=1.3&z=2024-09-04&g=2024-09-04), wordt een afzonderlijke rangschikking gemaakt.
 
@@ -292,29 +264,29 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 6. Indien het totaalbedrag van de in aanmerking komende aanvragen het toepasselijke subsidieplafond overschrijdt, wordt het subsidieplafond als volgt verdeeld:
 
-- a). de aanvraag die de meeste punten scoort volgens de rangschikking wordt als eerste gehonoreerd;
+- a) de aanvraag die de meeste punten scoort volgens de rangschikking wordt als eerste gehonoreerd;
 
-- b). telkens wordt de daaropvolgende aanvraag die de meeste punten scoort, als eerste gehonoreerd;
+- b) telkens wordt de daaropvolgende aanvraag die de meeste punten scoort, als eerste gehonoreerd;
 
-- c). indien meerdere aanvragen van individuele aanvragers dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het toepasselijke subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
+- c) indien meerdere aanvragen van individuele aanvragers dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het toepasselijke subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
-- i). op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek', bedoeld in [artikel 3.3., eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
+   - i) op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek', bedoeld in [artikel 3.3., eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
 
-- ii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3., eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
+   - ii) de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3., eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
 
-- iii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte al aanwezig’, bedoeld in [artikel 3.3., eerste lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04).
+   - iii) de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte al aanwezig’, bedoeld in [artikel 3.3., eerste lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04).
 
-- iv). de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
+   - iv) de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
 
-- d). indien meerdere aanvragen van samenwerkingsverbanden dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het toepasselijke subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
+- d) indien meerdere aanvragen van samenwerkingsverbanden dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het toepasselijke subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
-- i). op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek, bedoeld in [artikel 3.3., eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
+   - i) op basis van de toegekende score op het criterium ‘mate van samenwerking binnen de streek, bedoeld in [artikel 3.3., eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
 
-- ii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3., eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
+   - ii) de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘eigen nieuwsgaring’, bedoeld in [artikel 3.3., eerste lid, onderdeel a, onder ii](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
 
-- iii). de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte’ al aanwezig, bedoeld in [artikel 3.3., tweede lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
+   - iii) de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium ‘hoeveelheid betaalde journalistieke fte’ al aanwezig, bedoeld in [artikel 3.3., tweede lid, onderdeel b, onder vi](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=3&artikel=3.3&z=2024-09-04&g=2024-09-04);
 
-- iv). de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
+   - iv) de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
 
 7. Wanneer door de verstrekking van een subsidie een deelplafond zou worden overschreden, worden zowel de aanvraag voor die subsidie als de daarop in de rangorde volgende aanvragen die betrekking hebben op dat deelplafond, afgewezen.
 
@@ -340,9 +312,9 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. Bij subsidieverlening wordt het verleende subsidiebedrag in twee termijnen betaald, waarbij:
 
-- a). tachtig procent van het verleende subsidiebedrag bij wijze van voorschot wordt betaald binnen vier weken na bekendmaking van het besluit tot subsidieverlening;
+- a) tachtig procent van het verleende subsidiebedrag bij wijze van voorschot wordt betaald binnen vier weken na bekendmaking van het besluit tot subsidieverlening;
 
-- b). als de subsidie overeenkomstig de verlening wordt vastgesteld, het restant van twintig procent na het besluit tot subsidievaststelling wordt betaald.
+- b) als de subsidie overeenkomstig de verlening wordt vastgesteld, het restant van twintig procent na het besluit tot subsidievaststelling wordt betaald.
 
 2. Bij aanvragen van een samenwerkingsverband, als bedoeld in [artikel 2.1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04), vinden de betalingen plaats aan de penvoerder.
 
@@ -364,7 +336,7 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 ##### Artikel 5.1. Aanvraag tot vaststelling
 
-1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2026 ingediend.
+1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2026 ingediend.
 
 2. De aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag als bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=5&artikel=5.2&z=2024-09-04&g=2024-09-04).
 
@@ -390,23 +362,23 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 1. Zolang de subsidie niet is vastgesteld kan het Stimuleringsfonds de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen, als:
 
-- a). de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden, waaronder de situatie waarbij een individuele subsidieontvanger als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04), of deelnemer(s) aan een samenwerkingsverband, als bedoeld in artikel 2.1, tweede lid, onderdeel b, de aanwijzing als lokale publieke media-instelling verliest;
+- a) de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden, waaronder de situatie waarbij een individuele subsidieontvanger als bedoeld in [artikel 2.1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049729&hoofdstuk=2&artikel=2.1&z=2024-09-04&g=2024-09-04), of deelnemer(s) aan een samenwerkingsverband, als bedoeld in artikel 2.1, tweede lid, onderdeel b, de aanwijzing als lokale publieke media-instelling verliest;
 
-- b). de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;
+- b) de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;
 
-- c). de subsidieontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
+- c) de subsidieontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
 
-- d). de subsidieverlening anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
+- d) de subsidieverlening anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij het Stimuleringsfonds bij de intrekking of wijziging anders bepaalt.
 
 3. Het Stimuleringsfonds kan de subsidievaststelling intrekken of ten nadele van de subsidieontvanger wijzigen:
 
-- a). op grond van feiten of omstandigheden waarvan het Stimuleringsfonds bij de subsidievaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de subsidie lager dan overeenkomstig de subsidieverlening zou zijn vastgesteld;
+- a) op grond van feiten of omstandigheden waarvan het Stimuleringsfonds bij de subsidievaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de subsidie lager dan overeenkomstig de subsidieverlening zou zijn vastgesteld;
 
-- b). als de subsidievaststelling onjuist was en de subsidieontvanger dit wist of behoorde te weten, of
+- b) als de subsidievaststelling onjuist was en de subsidieontvanger dit wist of behoorde te weten, of
 
-- c). als de subsidieontvanger na de subsidievaststelling niet heeft voldaan aan verplichtingen die aan de subsidie zijn verbonden.
+- c) als de subsidieontvanger na de subsidievaststelling niet heeft voldaan aan verplichtingen die aan de subsidie zijn verbonden.
 
 4. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij het Stimuleringsfonds bij de intrekking of wijziging anders bepaalt.
 
@@ -414,26 +386,12 @@ Aan de verlening van subsidie worden de volgende medewerkings- en informatieverp
 
 ##### Artikel 6.1. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 15 mei 2024.
+1. Deze regeling treedt in werking op 15 mei 2024.
 
-2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 15 mei 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met15 mei 2024.
+2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 15 mei 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met15 mei 2024.
 
-3. Deze regeling vervalt met ingang van 1 januari 2027. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+3. Deze regeling vervalt met ingang van 1 januari 2027. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 6.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling lokale omroepen 2024–2025.
-
-## Bijlage 1. – Streekindeling lokale omroepen – 3 mei 2023
-
-### Toelichting totstandkoming streekindeling Lokale omroepen, opgesteld door de Stichting Nederlandse Lokale Publieke Omroepen en de Vereniging van Nederlandse Gemeenten
-
-De Stichting Nederlandse Lokale Publieke Omroepen (NLPO) en de Verenging van Nederlandse Gemeenten (VNG) trekken sinds 2012 gezamenlijk op in het vernieuwen van de lokale omroepsector. De samenwerking heeft tot doel om te komen tot een verhoging van de maatschappelijke waarde van de lokale publieke omroep. Om dat kracht bij te zetten hebben de NLPO (en voorganger OLON) een convenant (2012–2014) en een vernieuwingsconvenant (2015–2018) getekend waarin afspraken zijn gemaakt voor een duurzame, effectieve en efficiënte lokale omroepsector. Uitgangspunten van die vernieuwing zijn:
-
-Bovenstaande punten vormen de basis van criteria waaraan een eigentijdse lokale publieke omroep (mits afdoende bekostiging) zou moeten voldoen. De NLPO en VNG geven daarmee invulling aan de wettelijke term ‘Lokaal Toereikend Media-Aanbod’ (LTMA). Om het LTMA haalbaar, schaalbaar en betaalbaar te maken is daarnaast in nauw overleg met gemeenten en omroepen gewerkt aan een streekindeling. Door binnen die streken samen te werken, dan wel te fuseren, wordt de effectiviteit, duurzaamheid en efficiëntie van de lokale omroepen verhoogd. Dit heeft geleid tot de Streekkaart van de NLPO en de VNG.
-
-De vorming van streekomroepen is gestart toen het convenant is gesloten. In 2016 is de landkaart met de indeling van Nederland in 77 streken vastgesteld door de NLPO in samenspraak met de VNG, het Ministerie van OCW en lokale omroepen. Hieraan voorafgaand zijn de lokale omroepen en de gemeenten in de gelegenheid gesteld hun zienswijzen aan de NLPO kenbaar te maken. Er is een Change Board ingesteld, waarin de VNG, het Ministerie van OCW en de lokale omroepen waren vertegenwoordigd. Het Change Board heeft de NLPO geadviseerd over de indeling van de streken. Het Change Board heeft bij de advisering rekening gehouden met de reacties van de lokale omroepen, met name met hun wijzigingsvoorstellen, en met de zienswijzen van de gemeentebesturen op het oorspronkelijke voorstel streekindeling van de NLPO. In eerste instantie kwam men tot 62 streken, maar na advies van het Change Board is men uitgekomen op 77 streken.
-
-Sinds de vaststelling van de kaart heeft er nog een aantal kleine wijzigingen plaatsgevonden, bijvoorbeeld vanwege gemeentelijke herindelingen. In 2023 is Zuidoost-Brabant op verzoek van betrokken omroepen en gemeenten opgesplitst in Streek De Kempen en Streek Eindhoven en omgeving, daarmee staat de teller in mei 2023 op 80 streken. De kaart is leidend bij de omvorming van individuele lokale omroepen naar streekomroepen. Uitgangspunt is een landelijk dekkend netwerk.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

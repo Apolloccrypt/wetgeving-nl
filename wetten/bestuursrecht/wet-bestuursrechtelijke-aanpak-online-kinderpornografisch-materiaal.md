@@ -1,20 +1,18 @@
 ---
-title: "Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal"
+title: "Wet van 5 juni 2024, houdende regels over een bestuursrechtelijke aanpak van online kinderpornografisch materiaal (Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal)"
+citeertitel: "Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal"
 identifier: "BWBR0049813"
 categorie: "Bestuursrecht"
-publicatiedatum: 2026-04-25
-laatste_update: 2026-04-30
+soort: "wet"
+publicatiedatum: 2024-07-01
+laatste_update: 2026-04-25
 status: geldig
+toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0049813"
+opgehaald: 2026-09-06
 ---
 
-# Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is bestuursrechtelijk op te treden tegen de opslag en doorgifte van online kinderpornografisch materiaal;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+# Wet van 5 juni 2024, houdende regels over een bestuursrechtelijke aanpak van online kinderpornografisch materiaal (Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal)
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -22,19 +20,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **aanbieder van een communicatiedienst:** de aanbieder van een communicatiedienst als bedoeld in [artikel 138g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138g);
+- – *aanbieder van een communicatiedienst:* de aanbieder van een communicatiedienst als bedoeld in [artikel 138g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=138g);
 
-- –. **aanbieder van hostingdiensten:** de aanbieder van een communicatiedienst bestaande in de opslag van gegevens die van een ander afkomstig zijn;
+- – *aanbieder van hostingdiensten:* de aanbieder van een communicatiedienst bestaande in de opslag van gegevens die van een ander afkomstig zijn;
 
-- –. **Autoriteit:** de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2026-04-25&g=2026-04-25);
+- – *Autoriteit:* de Autoriteit, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&paragraaf=2&artikel=2&z=2026-04-25&g=2026-04-25);
 
-- –. **geautomatiseerd werk:** een geautomatiseerd werk als bedoeld in [artikel 80sexies van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=80sexies);
+- – *geautomatiseerd werk:* een geautomatiseerd werk als bedoeld in [artikel 80sexies van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=80sexies);
 
-- –. **kinderpornografisch materiaal:** visuele weergaven als bedoeld in [artikel 252 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252);
+- – *kinderpornografisch materiaal:* visuele weergaven als bedoeld in [artikel 252 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252);
 
-- –. **ontoegankelijk maken:** het treffen van maatregelen ter voorkoming dat van online kinderpornografisch materiaal wordt kennisgenomen, alsmede ter voorkoming van de verdere verspreiding van dit materiaal, dan wel het verwijderen van het materiaal uit het geautomatiseerde werk, met behoud van de gegevens ten behoeve van de strafvordering en de bestuursrechtelijke procedure;
+- – *ontoegankelijk maken:* het treffen van maatregelen ter voorkoming dat van online kinderpornografisch materiaal wordt kennisgenomen, alsmede ter voorkoming van de verdere verspreiding van dit materiaal, dan wel het verwijderen van het materiaal uit het geautomatiseerde werk, met behoud van de gegevens ten behoeve van de strafvordering en de bestuursrechtelijke procedure;
 
-- –. **Onze Minister:** Onze Minister van Justitie en Veiligheid.
+- – *Onze Minister:* Onze Minister van Justitie en Veiligheid.
 
 #### Paragraaf 2. De Autoriteit Online Terroristisch en Kinderpornografisch Materiaal
 
@@ -130,19 +128,19 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking t
 
 ##### Artikel 13. Wijziging van het Wetboek van Strafrecht
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
-##### Artikel 14. Samenloop met de [Wet seksuele misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0049509)
+##### Artikel 14. Samenloop met de Wet seksuele misdrijven
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
-##### Artikel 15. Wijziging [Uitvoeringswet TOI-verordening](https://wetten.overheid.nl/jci1.3:c:BWBR0048064)
+##### Artikel 15. Wijziging Uitvoeringswet TOI-verordening
 
-Wijzigt de Uitvoeringswet verordening terroristische online-inhoud.
+*Wijzigt de Uitvoeringswet verordening terroristische online-inhoud.*
 
-##### Artikel 16. Samenloopbepaling [Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252)
+##### Artikel 16. Samenloopbepaling Wet modernisering elektronisch bestuurlijk verkeer
 
-Wijzigt deze wet.
+*Wijzigt deze wet.*
 
 ##### Artikel 17. Inwerkingtreding
 
@@ -151,5 +149,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 18. Citeertitel
 
 Deze wet wordt aangehaald als: Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

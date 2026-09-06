@@ -1,47 +1,18 @@
 ---
 title: "Wet van 19 juni 2024 tot regels omtrent gegevensverwerking door samenwerkingsverbanden (Wet gegevensverwerking door samenwerkingsverbanden)"
+citeertitel: "Wet gegevensverwerking door samenwerkingsverbanden"
 identifier: "BWBR0049962"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-05"
-last_updated: "2025-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049962"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17165113"
-version_id: "30215552"
-internal_id: "C43803811"
-label_id: "17073804"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049962/2025-07-05/0"
-intitule_bron: "Stb.2024-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-19"
-intitule_published: "2024-06-28"
-intitule_in_force: "2024-12-04"
-intitule_status: "goed"
-original_publication: "Stb.2024-198"
-original_signed_date: "2024-06-19"
-original_published_date: "2024-06-28"
-original_effect: "nieuwe-regeling"
-original_dossier: "35447"
-original_url_id: "stb-2024-198"
-entry_into_force_date: "2025-03-01"
-jci_1_3: "jci1.3:c:BWBR0049962&z=2025-07-05&g=2025-07-05"
-jci_1_0: "1.0:c:BWBR0049962&g=2025-07-05"
-citeertitel_status: "officieel"
-short_title: "Wet gegevensverwerking door samenwerkingsverbanden"
-signed_date: "2024-06-19"
-entry_into_force: "2025-03-01"
+publicatiedatum: 2025-03-01
+laatste_update: 2025-07-05
+status: geldig
+toestand: 2025-07-05
+bron: "https://wetten.overheid.nl/BWBR0049962"
+opgehaald: 2026-09-06
 ---
+
 # Wet van 19 juni 2024 tot regels omtrent gegevensverwerking door samenwerkingsverbanden (Wet gegevensverwerking door samenwerkingsverbanden)
-
-Allen, die deze zullen zien of horen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijk kader te scheppen voor de gezamenlijke verwerking van gegevens door bepaalde samenwerkingsverbanden ten behoeve van een doelstelling van zwaarwegend algemeen belang en daarbij de nodige waarborgen op te nemen voor de bescherming van de persoonlijke levenssfeer;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,23 +20,23 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **bijzondere categorieën van persoonsgegevens:** de categorieën van persoonsgegevens, bedoeld in artikel 9, eerste lid, van de Algemene verordening gegevensbescherming;
+- – *bijzondere categorieën van persoonsgegevens:* de categorieën van persoonsgegevens, bedoeld in artikel 9, eerste lid, van de Algemene verordening gegevensbescherming;
 
-- –. **deelnemers:** als deelnemers van een samenwerkingsverband aangewezen overheidsinstanties, overheidsorganen en private partijen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.3&z=2025-07-05&g=2025-07-05);
+- – *deelnemers:* als deelnemers van een samenwerkingsverband aangewezen overheidsinstanties, overheidsorganen en private partijen als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.3&z=2025-07-05&g=2025-07-05);
 
-- –. **geautomatiseerde gegevensanalyse:** bij algemene maatregel van bestuur aangewezen vormen van analyse van persoonsgegevens die worden verricht zonder menselijke tussenkomst;
+- – *geautomatiseerde gegevensanalyse:* bij algemene maatregel van bestuur aangewezen vormen van analyse van persoonsgegevens die worden verricht zonder menselijke tussenkomst;
 
-- –. **gegevens:** persoonsgegevens en andere gegevens;
+- – *gegevens:* persoonsgegevens en andere gegevens;
 
-- –. **handhavingsknelpunt:** door de deelnemers van een Regionaal Informatie- en Expertisecentrum aangewezen personen, groepen van personen, gebieden of branches, waarover bij de deelnemers van een Regionaal Informatie- en Expertisecentrum dusdanige aanwijzingen zijn dat de vigerende wet- en regelgeving structureel niet wordt nageleefd, dat dit duidt op verschijningsvormen van georganiseerde criminaliteit;
+- – *handhavingsknelpunt:* door de deelnemers van een Regionaal Informatie- en Expertisecentrum aangewezen personen, groepen van personen, gebieden of branches, waarover bij de deelnemers van een Regionaal Informatie- en Expertisecentrum dusdanige aanwijzingen zijn dat de vigerende wet- en regelgeving structureel niet wordt nageleefd, dat dit duidt op verschijningsvormen van georganiseerde criminaliteit;
 
-- –. **persoonsgegevens van strafrechtelijke aard:** persoonsgegevens van strafrechtelijke aard als bedoeld in [artikel 1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=1);
+- – *persoonsgegevens van strafrechtelijke aard:* persoonsgegevens van strafrechtelijke aard als bedoeld in [artikel 1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=1);
 
-- –. **samenwerkingsverband:** verband van deelnemers die gezamenlijk gegevens verwerken voor een bij of krachtens deze wet vastgestelde doelstelling van zwaarwegend algemeen belang;
+- – *samenwerkingsverband:* verband van deelnemers die gezamenlijk gegevens verwerken voor een bij of krachtens deze wet vastgestelde doelstelling van zwaarwegend algemeen belang;
 
-- –. **signaal:** melding van een of meer deelnemers in een samenwerkingsverband dat bepaalde gedragingen of situaties betreffende natuurlijke personen, rechtspersonen of fenomenen aanleiding kunnen zijn om ten behoeve van het doel van het samenwerkingsverband gezamenlijk gegevens te verwerken;
+- – *signaal:* melding van een of meer deelnemers in een samenwerkingsverband dat bepaalde gedragingen of situaties betreffende natuurlijke personen, rechtspersonen of fenomenen aanleiding kunnen zijn om ten behoeve van het doel van het samenwerkingsverband gezamenlijk gegevens te verwerken;
 
-- –. **sturingsinformatie:** gegevens betreffende natuurlijke personen, rechtspersonen of fenomenen, inhoudende een eerste vermoeden dat sprake is van onrechtmatige activiteiten, of voornemens daartoe, op de bestrijding waarvan het samenwerkingsverband is gericht, met inbegrip van de onderliggende gegevens uit een risicoanalyse, ten behoeve van de uitvoering van publiekrechtelijke taken of uitoefening van publiekrechtelijke bevoegdheden.
+- – *sturingsinformatie:* gegevens betreffende natuurlijke personen, rechtspersonen of fenomenen, inhoudende een eerste vermoeden dat sprake is van onrechtmatige activiteiten, of voornemens daartoe, op de bestrijding waarvan het samenwerkingsverband is gericht, met inbegrip van de onderliggende gegevens uit een risicoanalyse, ten behoeve van de uitvoering van publiekrechtelijke taken of uitoefening van publiekrechtelijke bevoegdheden.
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -509,61 +480,61 @@ De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor 
 
 - a. ten aanzien van de betrokkene of betrokkenen over wie of de rechtspersoon of rechtspersonen waarover een signaal is ontvangen:
 
-- 1°.
+   - 1°
 
-- –. identificerende en contactgegevens;
+      - – identificerende en contactgegevens;
 
-- –. het burgerservicenummer;
+      - – het burgerservicenummer;
 
-- –. gegevens betreffende de verblijfsstatus;
+      - – gegevens betreffende de verblijfsstatus;
 
-- –. gegevens omtrent de woonsituatie;
+      - – gegevens omtrent de woonsituatie;
 
-- –. voertuiggegevens;
+      - – voertuiggegevens;
 
-- –. financiële gegevens;
+      - – financiële gegevens;
 
-- –. kadastrale gegevens;
+      - – kadastrale gegevens;
 
-- –. bedrijfsgegevens;
+      - – bedrijfsgegevens;
 
-- –. inkomensgegevens;
+      - – inkomensgegevens;
 
-- –. gegevens betreffende zakelijke relaties;
+      - – gegevens betreffende zakelijke relaties;
 
-- –. gegevens betreffende vergunning- of subsidieaanvragen, hierop genomen besluiten en juridische procedures;
+      - – gegevens betreffende vergunning- of subsidieaanvragen, hierop genomen besluiten en juridische procedures;
 
-- –. gegevens inzake toezicht en handhaving alsmede getroffen bestuurlijke maatregelen;
+      - – gegevens inzake toezicht en handhaving alsmede getroffen bestuurlijke maatregelen;
 
-- 2°.
+   - 2°
 
-- –. fiscale gegevens;
+      - – fiscale gegevens;
 
-- –. politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) die krachtens [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt;
+      - – politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) die krachtens [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt;
 
-- –. justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens die door het openbaar ministerie op grond van de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8b), [39fa](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39fa) en [51ca van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51ca) aan de deelnemers worden verstrekt;
+      - – justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens die door het openbaar ministerie op grond van de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8b), [39fa](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39fa) en [51ca van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51ca) aan de deelnemers worden verstrekt;
 
-- –. gegevens over het seksueel gedrag of seksuele gerichtheid;
+      - – gegevens over het seksueel gedrag of seksuele gerichtheid;
 
-- 3°.
+   - 3°
 
-- –. politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) die op grond van [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt.
+      - – politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) die op grond van [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt.
 
-- b. ten aanzien van personen uit de directe kring van betrokkene of betrokkenen of personen die in direct verband staan met de rechtspersoon of rechtspersonen:
+         - b. ten aanzien van personen uit de directe kring van betrokkene of betrokkenen of personen die in direct verband staan met de rechtspersoon of rechtspersonen:
 
-- 1°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 1°;
+            - 1°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 1°;
 
-- 2°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 2°;
+            - 2°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 2°;
 
-- 3°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 3°;
+            - 3°. dezelfde categorieën gegevens als genoemd in onderdeel a, onder 3°;
 
-- c. ten aanzien van medewerkers van deelnemers:
+         - c. ten aanzien van medewerkers van deelnemers:
 
-- –. identificerende en contactgegevens;
+      - – identificerende en contactgegevens;
 
-- –. autorisatieniveau;
+      - – autorisatieniveau;
 
-- –. de wijze waarop deze medewerker is gescreend.
+      - – de wijze waarop deze medewerker is gescreend.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de categorieën van gegevens en de concretisering daarvan, bedoeld in het eerste lid, de bronnen van waaruit die gegevens afkomstig zijn en kunnen aanvullende categorieën gegevens worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05). De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -683,29 +654,29 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 - a. ten aanzien van de betrokkene of betrokkenen waarop een melding als bedoeld in [artikel 2.31](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.31&z=2025-07-05&g=2025-07-05) betrekking heeft dan wel die voldoet of voldoen aan de criteria voor plaatsing op de lijst met geprioriteerde casussen, bedoeld in [artikel 2.32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.32&z=2025-07-05&g=2025-07-05):
 
-- –. identificerende en contactgegevens;
+   - – identificerende en contactgegevens;
 
-- –. het burgerservicenummer;
+   - – het burgerservicenummer;
 
-- –. gegevens omtrent de woonsituatie;
+   - – gegevens omtrent de woonsituatie;
 
-- –. financiële gegevens;
+   - – financiële gegevens;
 
-- –. inkomensgegevens;
+   - – inkomensgegevens;
 
-- –. persoonsgegevens over gezondheid;
+   - – persoonsgegevens over gezondheid;
 
-- –. politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) die krachtens [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt;
+   - – politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) die krachtens [artikel 20, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20) aan de deelnemers worden verstrekt;
 
-- –. justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens die door het openbaar ministerie op grond van de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8b), [39fa](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39fa) en [51ca van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51ca) aan de deelnemers worden verstrekt;
+   - – justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens die door het openbaar ministerie op grond van de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=8b), [39fa](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=39fa) en [51ca van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=51ca) aan de deelnemers worden verstrekt;
 
-- –. gegevens betreffende relaties met gezinsleden en andere directe sociale contacten;
+   - – gegevens betreffende relaties met gezinsleden en andere directe sociale contacten;
 
-- –. gegevens inzake toezicht en handhaving alsmede getroffen bestuurlijke maatregelen of opgelegde beperkingen;
+   - – gegevens inzake toezicht en handhaving alsmede getroffen bestuurlijke maatregelen of opgelegde beperkingen;
 
-- –. gegevens over geïndiceerde en toegekende zorg of voorzieningen in het sociaal domein;
+   - – gegevens over geïndiceerde en toegekende zorg of voorzieningen in het sociaal domein;
 
-- –. gegevens over begeleiding, zorg en hulpverlening;
+   - – gegevens over begeleiding, zorg en hulpverlening;
 
 - b. ten aanzien van natuurlijke personen uit de directe kring van betrokkene: dezelfde categorieën gegevens als genoemd in onderdeel a;
 
@@ -783,53 +754,53 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over:
 
 ### Hoofdstuk 4. Wijziging van andere wetten
 
-##### Artikel 4.1. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+##### Artikel 4.1. Wijziging Wet politiegegevens
 
-Wijzigt de Wet politiegegevens.
+*Wijzigt de Wet politiegegevens.*
 
-##### Artikel 4.2. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
+##### Artikel 4.2. Wijziging Wet justitiële en strafvorderlijke gegevens
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
-##### Artikel 4.3. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 4.3. Wijziging Wet op het financieel toezicht
 
-Wijzigt de Wet op het financieel toezicht.
+*Wijzigt de Wet op het financieel toezicht.*
 
-##### Artikel 4.4. Wijziging [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
+##### Artikel 4.4. Wijziging Wet toezicht accountantsorganisaties
 
-Wijzigt de Wet toezicht accountantsorganisaties.
+*Wijzigt de Wet toezicht accountantsorganisaties.*
 
-##### Artikel 4.5. Wijziging [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583)
+##### Artikel 4.5. Wijziging Wet toezicht trustkantoren 2018
 
-Wijzigt de Wet toezicht trustkantoren 2018.
+*Wijzigt de Wet toezicht trustkantoren 2018.*
 
-##### Artikel 4.6. Wijziging [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
+##### Artikel 4.6. Wijziging Wet ter voorkoming van witwassen en financieren van terrorisme
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
-##### Artikel 4.7. Wijziging [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 4.7. Wijziging Sanctiewet 1977
 
-Wijzigt de Sanctiewet 1977.
+*Wijzigt de Sanctiewet 1977.*
 
-##### Artikel 4.8. Wijziging [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369)
+##### Artikel 4.8. Wijziging Wet toezicht financiële verslaggeving
 
-Wijzigt de Wet toezicht financiële verslaggeving.
+*Wijzigt de Wet toezicht financiële verslaggeving.*
 
-##### Artikel 4.9. Wijziging [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586)
+##### Artikel 4.9. Wijziging Wet handhaving consumentenbescherming
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
-##### Artikel 4.10. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
+##### Artikel 4.10. Wijziging Pensioenwet
 
-Wijzigt de Pensioenwet.
+*Wijzigt de Pensioenwet.*
 
-##### Artikel 4.11. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 4.11. Wijziging Wet verplichte beroepspensioenregeling
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
-##### Artikel 4.12. Wijziging [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 4.12. Wijziging Wet bevordering integriteitsbeoordelingen door het openbaar bestuur
 
-Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
+*Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -846,5 +817,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 5.3. Citeertitel
 
 Deze wet wordt aangehaald als: Wet gegevensverwerking door samenwerkingsverbanden.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

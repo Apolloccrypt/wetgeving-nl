@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0049781"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Primair en Voortgezet Onderwijs van 4 juni 2024, nr. PO/44416590, houdende regels voor het verstrekken van subsidie aan onderwijsregio’s (Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s)

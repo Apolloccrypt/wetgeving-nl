@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 41089308, tot uitleg van de begripsomschrijving van beheerder van een bedrijfscampus als bedoeld in artikel 1 van de Wet veiligheidstoets investeringen, fusies en overnames (Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames)"
+citeertitel: "Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames"
 identifier: "BWBR0049823"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-06-19"
-last_updated: "2024-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049823"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "17132533"
-version_id: "30154162"
-internal_id: "C43208391"
-label_id: "17040924"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049823/2024-06-19/0"
-intitule_bron: "Stcrt.2024-19521"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-07"
-intitule_published: "2024-06-18"
-intitule_in_force: "2024-06-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-19521"
-original_signed_date: "2024-06-07"
-original_published_date: "2024-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-19521"
-entry_into_force_date: "2024-06-19"
-jci_1_3: "jci1.3:c:BWBR0049823&z=2024-06-19&g=2024-06-19"
-jci_1_0: "1.0:c:BWBR0049823&g=2024-06-19"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames"
-signed_date: "2024-06-07"
-entry_into_force: "2024-06-19"
+publicatiedatum: 2024-06-19
+laatste_update: 2024-06-19
+status: geldig
+toestand: 2024-06-19
+bron: "https://wetten.overheid.nl/BWBR0049823"
+opgehaald: 2026-09-06
 ---
+
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 41089308, tot uitleg van de begripsomschrijving van beheerder van een bedrijfscampus als bedoeld in artikel 1 van de Wet veiligheidstoets investeringen, fusies en overnames (Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames)
-
-Gelet op de [artikelen 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=2), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=6) en [46 tot en met 51 van de Wet veiligheidstoets investeringen fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=46);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -89,9 +63,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel beheerder bedrijfscampus in de zin van de Wet veiligheidstoets investeringen, fusies en overnames
-
-## Bijlage 1. Het score-overzicht, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049823&artikel=2&z=2024-06-19&g=2024-06-19)
-
-## Bijlage 2. De risicomatrix, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049823&artikel=2&z=2024-06-19&g=2024-06-19), om na te gaan of beheer aannemelijk is
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,39 +1,18 @@
 ---
 title: "Regeling activiteitenprogramma’s creatieve industrie"
+citeertitel: "Regeling Activiteitenprogramma’s creatieve industrie"
 identifier: "BWBR0049941"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-10"
-last_updated: "2024-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049941"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17161863"
-version_id: "30206492"
-internal_id: "C43273841"
-label_id: "17070274"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049941/2024-07-10/0"
-intitule_bron: "Stcrt.2024-21829"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-07-08"
-intitule_in_force: "2024-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21829"
-original_published_date: "2024-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21829"
-entry_into_force_date: "2024-07-10"
-jci_1_3: "jci1.3:c:BWBR0049941&z=2024-07-10&g=2024-07-10"
-jci_1_0: "1.0:c:BWBR0049941&g=2024-07-10"
-citeertitel_status: "officieel"
-short_title: "Regeling Activiteitenprogramma’s creatieve industrie"
-entry_into_force: "2024-07-10"
+publicatiedatum: 2024-07-10
+laatste_update: 2024-07-10
+status: geldig
+toestand: 2024-07-10
+bron: "https://wetten.overheid.nl/BWBR0049941"
+opgehaald: 2026-09-06
 ---
-# Regeling activiteitenprogramma’s creatieve industrie
 
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), besluit vast te stellen de navolgende regeling, houdende regels voor het verstrekken van tweejarige subsidies aan instellingen voor de uitvoering van een activiteitenprogramma ter bevordering van de kwaliteit van de creatieve industrie.
+# Regeling activiteitenprogramma’s creatieve industrie
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -41,53 +20,53 @@ gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](http
 
 De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597), met dien verstande dat wordt verstaan onder:
 
-- 1. **Het fonds:** het Stimuleringsfonds Creatieve Industrie;
+- 1. *Het fonds:* het Stimuleringsfonds Creatieve Industrie;
 
-- 2. **Bestuur:** de directeur-bestuurder van het fonds, als bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
+- 2. *Bestuur:* de directeur-bestuurder van het fonds, als bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
 
-- 3. **Creatieve industrie:** het werkterrein van de ontwerpende disciplines vormgeving, architectuur en digitale cultuur, inclusief mogelijke cross-overs tussen deze disciplines;
+- 3. *Creatieve industrie:* het werkterrein van de ontwerpende disciplines vormgeving, architectuur en digitale cultuur, inclusief mogelijke cross-overs tussen deze disciplines;
 
-- 4. **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- 4. *Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- 5. **Culturele instelling:** een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, een platform of een presentatieplek;
+- 5. *Culturele instelling:* een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, een platform of een presentatieplek;
 
-- 6. **Aanvrager:** een culturele instelling die op grond van deze regeling een subsidieaanvraag doet bij het fonds;
+- 6. *Aanvrager:* een culturele instelling die op grond van deze regeling een subsidieaanvraag doet bij het fonds;
 
-- 7. **Activiteit:** een in het activiteitenprogramma opgenomen activiteit die bijdraagt aan de hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse creatieve industrie binnen het Koninkrijk;
+- 7. *Activiteit:* een in het activiteitenprogramma opgenomen activiteit die bijdraagt aan de hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse creatieve industrie binnen het Koninkrijk;
 
-- 8. **Activiteitenprogramma:** een reeks van met elkaar samenhangende activiteiten, die gespreid over de looptijd van twee kalenderjaren worden uitgevoerd. De onderdelen kunnen verschillen in opzet en uitvoering, maar dragen gezamenlijk bij aan de missie, visie en verdere ontwikkeling van de instelling of organisatie.
+- 8. *Activiteitenprogramma:* een reeks van met elkaar samenhangende activiteiten, die gespreid over de looptijd van twee kalenderjaren worden uitgevoerd. De onderdelen kunnen verschillen in opzet en uitvoering, maar dragen gezamenlijk bij aan de missie, visie en verdere ontwikkeling van de instelling of organisatie.
 
-- 9. **Kerntaak:** de primaire activiteiten die bijdragen aan het realiseren van de doelstellingen van de instelling;
+- 9. *Kerntaak:* de primaire activiteiten die bijdragen aan het realiseren van de doelstellingen van de instelling;
 
-- 10. **Rijkscultuurfondsen:** Fonds Podiumkunsten, Nederlands Filmfonds, Nederlands Letterenfonds, Mondriaan Fonds, Fonds voor Cultuurparticipatie, het fonds;
+- 10. *Rijkscultuurfondsen:* Fonds Podiumkunsten, Nederlands Filmfonds, Nederlands Letterenfonds, Mondriaan Fonds, Fonds voor Cultuurparticipatie, het fonds;
 
-- 11. **Financieringsmix:** de combinatie van alle vormen van financiering, inclusief de aan het Stimuleringsfonds gevraagde bijdrage en eigen inkomsten;
+- 11. *Financieringsmix:* de combinatie van alle vormen van financiering, inclusief de aan het Stimuleringsfonds gevraagde bijdrage en eigen inkomsten;
 
-- 12. **Eigen inkomsten:** onder eigen inkomsten worden in deze regeling de volgende baten verstaan, die zijn terug te vinden in de jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
+- 12. *Eigen inkomsten:* onder eigen inkomsten worden in deze regeling de volgende baten verstaan, die zijn terug te vinden in de jaarrekening aan de batenkant van de exploitatierekening: Onder eigen inkomsten worden in elk geval niet begrepen de volgende baten:
 
-- a. Publieksinkomsten; en
+   - a. Publieksinkomsten; en
 
-- b. Overige inkomsten, zijnde:
+   - b. Overige inkomsten, zijnde:
 
-- –. directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
+      - – directe opbrengsten in de vorm van sponsorinkomsten en overige inkomsten;
 
-- –. indirecte opbrengsten; en
+      - – indirecte opbrengsten; en
 
-- –. overige bijdragen.
+      - – overige bijdragen.
 
-- –. subsidies die zijn verstrekt door een bestuursorgaan;
+   - – subsidies die zijn verstrekt door een bestuursorgaan;
 
-- –. overige bijdragen uit publieke middelen;
+   - – overige bijdragen uit publieke middelen;
 
-- –. rentebaten;
+   - – rentebaten;
 
-- –. bijdragen in natura; waaronder kapitalisatie van eigen uren;
+   - – bijdragen in natura; waaronder kapitalisatie van eigen uren;
 
-- –. kapitalisatie van vrijwilligers;
+   - – kapitalisatie van vrijwilligers;
 
-- –. waardering vrijkaarten; en
+   - – waardering vrijkaarten; en
 
-- –. overige baten die geen relatie hebben met cultureel ondernemerschap.
+   - – overige baten die geen relatie hebben met cultureel ondernemerschap.
 
 ##### Artikel 2. Taakopvatting van het Stimuleringsfonds Creatieve Industrie
 
@@ -151,7 +130,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 1. Op basis van deze regeling kan alleen subsidie worden verstrekt:
 
-- a. als de gevraagde subsidie voor het activiteitenprogramma minimaal € 50.000 en maximaal € 125.000 per kalenderjaar bedraagt; en
+- a. als de gevraagde subsidie voor het activiteitenprogramma minimaal € 50.000 en maximaal € 125.000 per kalenderjaar bedraagt; en
 
 - b. als de totale door het Stimuleringsfonds te verstrekken subsidie jaarlijks niet meer bedraagt dan 80% van de lasten die direct samenhangen met de uitvoering van het activiteitenprogramma.
 
@@ -159,11 +138,11 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 3. Instellingen die op basis van deze regeling subsidie ontvangen, kunnen gedurende de kalenderjaren waarop deze subsidie betrekking heeft, geen aanspraak maken op subsidiëring op grond van de volgende regelingen van het fonds:
 
-- –. Regeling Vormgeving;
+- – Regeling Vormgeving;
 
-- –. Regeling Architectuur; en
+- – Regeling Architectuur; en
 
-- –. Regeling Digitale cultuur.
+- – Regeling Digitale cultuur.
 
 ##### Artikel 8. Weigeringsgronden
 
@@ -219,15 +198,15 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 - 2. Een uitgewerkt activiteitenprogramma gericht op het eerste kalenderjaar van de periode (maximaal 15 pagina’s inclusief beeldmateriaal; A4-formaat staand; minimale tekstgrootte 10; regelafstand 1,0) met daarin:
 
-- a. een (korte) beschrijving van de missie van de instelling;
+   - a. een (korte) beschrijving van de missie van de instelling;
 
-- b. een reflectie van maximaal één pagina op de uitvoering van de activiteiten en het functioneren van de instelling in het voorgaande jaar;
+   - b. een reflectie van maximaal één pagina op de uitvoering van de activiteiten en het functioneren van de instelling in het voorgaande jaar;
 
-- c. een beschrijving en planning van de activiteiten die de instelling in het eerste jaar van de subsidieperiode wil uitvoeren;
+   - c. een beschrijving en planning van de activiteiten die de instelling in het eerste jaar van de subsidieperiode wil uitvoeren;
 
-- d. een beschrijving van de communicatie- en digitale strategie;
+   - d. een beschrijving van de communicatie- en digitale strategie;
 
-- e. een toelichting op de wijze waarop de instelling zich verhoudt tot de principes van de [Code Governance Cultuur](https://www.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie).
+   - e. een toelichting op de wijze waarop de instelling zich verhoudt tot de principes van de [Code Governance Cultuur](https://www.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie).
 
 - 3. Een sluitende begroting voor het eerste kalenderjaar van de subsidieperiode volgens het format modelbegroting van deze regeling;
 
@@ -275,15 +254,15 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende criteria, die in gelijke mate worden gewogen:
 
-- a. **de artistiek-inhoudelijke kwaliteit:**is het activiteitenprogramma artistiek-inhoudelijk van hoge kwaliteit. Er wordt door de adviescommissie gekeken naar wat de rol van ontwerp is in het programma, wat de inhoudelijke thema’s zijn en wie betrokken zijn bij het programma.
+- a. *de artistiek-inhoudelijke kwaliteit:*is het activiteitenprogramma artistiek-inhoudelijk van hoge kwaliteit. Er wordt door de adviescommissie gekeken naar wat de rol van ontwerp is in het programma, wat de inhoudelijke thema’s zijn en wie betrokken zijn bij het programma.
 
-- b. **bijdrage aan het vakgebied en maatschappelijke betekenis:** wat is de maatschappelijke betekenis van het activiteitenprogramma en in hoeverre vormt deze een bijdrage aan de verdieping of vernieuwing van de vakgebieden vormgeving, architectuur of digitale cultuur. In de beoordeling op dit criterium wordt tevens op een intersectionele wijze gekeken naar de bijdrage aan de meerstemmigheid binnen het vakgebied in relatie tot het programma en de partners.
+- b. *bijdrage aan het vakgebied en maatschappelijke betekenis:* wat is de maatschappelijke betekenis van het activiteitenprogramma en in hoeverre vormt deze een bijdrage aan de verdieping of vernieuwing van de vakgebieden vormgeving, architectuur of digitale cultuur. In de beoordeling op dit criterium wordt tevens op een intersectionele wijze gekeken naar de bijdrage aan de meerstemmigheid binnen het vakgebied in relatie tot het programma en de partners.
 
-- c. **toegankelijkheid en publieksbereik:** hoe wordt met het activiteitenprogramma een divers (vak)publiek bereikt en betrokken. Hierbij wordt onder meer gekeken naar de communicatie- en digitale strategie. Maar ook: hoe zorgt de instelling ervoor dat de activiteiten voor de beoogde doelgroepen toegankelijk zijn. Hierbij wordt, indien van toepassing, ook gekeken naar de verbondenheid van de instelling met een plaats, provincie en/of cultuurregio.
+- c. *toegankelijkheid en publieksbereik:* hoe wordt met het activiteitenprogramma een divers (vak)publiek bereikt en betrokken. Hierbij wordt onder meer gekeken naar de communicatie- en digitale strategie. Maar ook: hoe zorgt de instelling ervoor dat de activiteiten voor de beoogde doelgroepen toegankelijk zijn. Hierbij wordt, indien van toepassing, ook gekeken naar de verbondenheid van de instelling met een plaats, provincie en/of cultuurregio.
 
-- d. **de bedrijfsvoering en organisatie:** de bedrijfsvoering en de opzet van de organisatie moeten de instelling in staat stellen om de geplande activiteiten op een verantwoorde en financieel gezonde wijze uit te voeren. Hoe wordt de Fair Practice Code toegepast. Het fonds verwacht een reflectie op de huidige positie ten opzichte van de Fair Practice Code en de ontwikkeling die de instelling hierin voor ogen heeft.
+- d. *de bedrijfsvoering en organisatie:* de bedrijfsvoering en de opzet van de organisatie moeten de instelling in staat stellen om de geplande activiteiten op een verantwoorde en financieel gezonde wijze uit te voeren. Hoe wordt de Fair Practice Code toegepast. Het fonds verwacht een reflectie op de huidige positie ten opzichte van de Fair Practice Code en de ontwikkeling die de instelling hierin voor ogen heeft.
 
-- e. **de consistentie in doel en opzet van de aanvraag:** hierbij worden alle in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=3&artikel=10&z=2024-07-10&g=2024-07-10) genoemde onderdelen in onderling verband en samenhang beoordeeld.
+- e. *de consistentie in doel en opzet van de aanvraag:* hierbij worden alle in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=3&artikel=10&z=2024-07-10&g=2024-07-10) genoemde onderdelen in onderling verband en samenhang beoordeeld.
 
 ##### Artikel 14. Prioritering & regionale spreiding
 
@@ -367,7 +346,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 ##### Artikel 21. Jaarlijkse verantwoording
 
-1. Een instelling dient vóór 1 mei van het eerste respectievelijk tweede kalenderjaar van de subsidieperiode een inhoudelijke en financiële verantwoording en een kwantitatief activiteitenoverzicht in over het activiteitenprogramma, uitgevoerd in het eerste respectievelijk tweede kalenderjaar van de subsidieperiode.
+1. Een instelling dient vóór 1 mei van het eerste respectievelijk tweede kalenderjaar van de subsidieperiode een inhoudelijke en financiële verantwoording en een kwantitatief activiteitenoverzicht in over het activiteitenprogramma, uitgevoerd in het eerste respectievelijk tweede kalenderjaar van de subsidieperiode.
 
 2. De jaarlijkse verantwoording gaat vergezeld van de jaarrekening van de instelling over het betreffende kalenderjaar.
 
@@ -401,11 +380,11 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 ##### Artikel 24. Accountantsverklaring
 
-1. Als de subsidie per kalenderjaar meer dan € 125.000 bedraagt, is de subsidieontvanger verplicht om de financiële verantwoording te voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) of een overeenkomstige bepaling in het recht van het land waar de instelling is gevestigd.
+1. Als de subsidie per kalenderjaar meer dan € 125.000 bedraagt, is de subsidieontvanger verplicht om de financiële verantwoording te voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) of een overeenkomstige bepaling in het recht van het land waar de instelling is gevestigd.
 
 2. In de verklaring, bedoeld in het eerste lid, doet de accountant een uitspraak over de naleving van de subsidiebepalingen door de subsidieontvanger overeenkomstig de controleprotocollen gepubliceerd op de website [https://www.stimuleringsfonds.nl/protocollen](https://www.stimuleringsfonds.nl/protocollen) met gebruikmaking van de daarbij opgenomen modellen voor accountantsverklaringen.
 
-3. Voor het bepalen van de hoogte van het bedrag, genoemd in het eerste lid, wordt gekeken naar de hoogte van het oorspronkelijk toegekende bedrag per kalenderjaar. Als de grens van € 125.000 wordt overschreden door een tussentijdse wijziging van het subsidiebedrag, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-10), is geen accountantsverklaring nodig.
+3. Voor het bepalen van de hoogte van het bedrag, genoemd in het eerste lid, wordt gekeken naar de hoogte van het oorspronkelijk toegekende bedrag per kalenderjaar. Als de grens van € 125.000 wordt overschreden door een tussentijdse wijziging van het subsidiebedrag, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=16&z=2024-07-10&g=2024-07-10), is geen accountantsverklaring nodig.
 
 4. Als een wijziging van het subsidiebedrag zodanig is dat het bestuur een accountantsverklaring noodzakelijk acht, zal de subsidieontvanger hierop terstond van op de hoogte worden gebracht.
 
@@ -427,14 +406,12 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 ##### Artikel 28. Inwerkingtreding en expiratie
 
-1. Deze regeling treedt in werking met ingang van 1 juli 2024. Als de Staatscourant, waarin zij wordt geplaatst, op een latere datum verschijnt, treedt zij in werking op de tweede dag na verschijning van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2024.
+1. Deze regeling treedt in werking met ingang van 1 juli 2024. Als de Staatscourant, waarin zij wordt geplaatst, op een latere datum verschijnt, treedt zij in werking op de tweede dag na verschijning van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2024.
 
 2. Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
-3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
+3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
 ##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Activiteitenprogramma’s creatieve industrie
-
-Deze regeling zal in de Staatscourant worden geplaatst.

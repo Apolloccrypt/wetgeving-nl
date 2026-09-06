@@ -1,19 +1,19 @@
 ---
-title: "Onderzoeksregeling 2024–2026"
+title: "Besluit van het Stimuleringsfonds voor de Journalistiek van 1 mei 2024, nr. OA2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: open aanvraag 2024–2026"
+citeertitel: "Onderzoeksregeling 2024–2026"
 identifier: "BWBR0049659"
 categorie: "Overig"
+soort: "zbo"
 publicatiedatum: 2024-05-04
-laatste_update: 2026-05-01
+laatste_update: 2024-05-04
 status: vervallen
+vervallen_op: 2026-04-30
+toestand: 2024-05-04
 bron: "https://wetten.overheid.nl/BWBR0049659"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-06
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 mei 2024, nr. OA2426, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: open aanvraag 2024–2026
-
-Gelet op [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3) en [8.15 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15);
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -21,33 +21,33 @@ besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **Expert journalistieke informatiebron:** Inhoudelijk of ervaringsdeskundige in dienst bij een van de journalistieke informatiebronnen uit het samenwerkingsverband. Deze beschikt over expertise die aansluit bij de probleemstelling uit het onderzoeksvoorstel waarvoor subsidie is aangevraagd.
+- a) *Expert journalistieke informatiebron:* Inhoudelijk of ervaringsdeskundige in dienst bij een van de journalistieke informatiebronnen uit het samenwerkingsverband. Deze beschikt over expertise die aansluit bij de probleemstelling uit het onderzoeksvoorstel waarvoor subsidie is aangevraagd.
 
-- b). **Journalistiek onderzoek:** een onderzoek, waarvan de onderliggende probleemstelling betrekking moet hebben op journalistieke informatiebronnen, actief binnen de journalistieke bedrijfstak.
+- b) *Journalistiek onderzoek:* een onderzoek, waarvan de onderliggende probleemstelling betrekking moet hebben op journalistieke informatiebronnen, actief binnen de journalistieke bedrijfstak.
 
-- c). **Journalistieke informatiebron:** een organisatie binnen de journalistieke bedrijfstak met als (hoofd)activiteit het maken en leveren van een dienst of product waarbij:
+- c) *Journalistieke informatiebron:* een organisatie binnen de journalistieke bedrijfstak met als (hoofd)activiteit het maken en leveren van een dienst of product waarbij:
 
-  - i. het product of de dienst gericht is op het Nederlandse publiek; en
+   - i. het product of de dienst gericht is op het Nederlandse publiek; en
 
-  - ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
+   - ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
 
-  - iii. de publicatiefrequentie minimaal een keer per twee weken is en daarmee sprake is van een informatiebron waartoe burgers zich met een vaste regelmaat kunnen wenden; en
+   - iii. de publicatiefrequentie minimaal een keer per twee weken is en daarmee sprake is van een informatiebron waartoe burgers zich met een vaste regelmaat kunnen wenden; en
 
-  - iv. die staat ingeschreven in het Handelsregister bij de Kamer van Koophandel.
+   - iv. die staat ingeschreven in het Handelsregister bij de Kamer van Koophandel.
 
-- d). **Journalistieke bedrijfstak:** het geheel van private en publieke journalistieke informatiebronnen gevestigd in Nederland, waarvan de activiteiten zijn gericht op de Nederlandse markt.
+- d) *Journalistieke bedrijfstak:* het geheel van private en publieke journalistieke informatiebronnen gevestigd in Nederland, waarvan de activiteiten zijn gericht op de Nederlandse markt.
 
-- e). **Journalistiek handelen:** het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
+- e) *Journalistiek handelen:* het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
 
-  - i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor alle geledingen binnen de samenleving en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
+   - i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor alle geledingen binnen de samenleving en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
 
-  - ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
+   - ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
 
-  - iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
+   - iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
 
-- f). **Onderzoeksinstellingen:** onderwijsinstellingen (zowel publiek als privaat), (commerciële) onderzoeksbureaus, organisatieadviesbureaus, collectieven van zelfstandige onderzoekers of NGO’s met een ANBI-status.
+- f) *Onderzoeksinstellingen:* onderwijsinstellingen (zowel publiek als privaat), (commerciële) onderzoeksbureaus, organisatieadviesbureaus, collectieven van zelfstandige onderzoekers of NGO’s met een ANBI-status.
 
-- g). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
+- g) *Stimuleringsfonds:* het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
 
 ##### Artikel 1.2. Doel van de subsidie
 
@@ -57,23 +57,23 @@ Het Stimuleringsfonds kan subsidie verstrekken voor het uitvoeren van (wetenscha
 
 1. Subsidie kan worden verstrekt voor de uitvoering van een journalistiek onderzoek dat:
 
-- a). wordt uitgevoerd door een onderzoeksteam, bestaande uit tenminste twee personen met een aantoonbare onderzoeksachtergrond; en
+- a) wordt uitgevoerd door een onderzoeksteam, bestaande uit tenminste twee personen met een aantoonbare onderzoeksachtergrond; en
 
-- b). minimaal zes maanden en maximaal twaalf maanden duurt.
+- b) minimaal zes maanden en maximaal twaalf maanden duurt.
 
-2. Een onderzoek waarvoor subsidie wordt verstrekt, mag niet zijn aangevangen voordat op de subsidieaanvraag is beslist en moet binnen 3 maanden worden aangevangen na bekendmaking van het besluit tot subsidieverlening.
+2. Een onderzoek waarvoor subsidie wordt verstrekt, mag niet zijn aangevangen voordat op de subsidieaanvraag is beslist en moet binnen 3 maanden worden aangevangen na bekendmaking van het besluit tot subsidieverlening.
 
 ##### Artikel 1.4. Subsidieplafond en deelplafonds
 
 1. Voor subsidieverstrekking op grond van deze regeling is in totaal 600.000 euro beschikbaar, waarvan:
 
-- a). 300.000 euro beschikbaar is voor aanvragen die worden ingediend in de periode 1 mei 2024 tot en met 30 april 2025; en
+- a) 300.000 euro beschikbaar is voor aanvragen die worden ingediend in de periode 1 mei 2024 tot en met 30 april 2025; en
 
-- b). 300.000 euro beschikbaar is voor aanvragen die worden ingediend in de periode 1 mei 2025 tot en met 30 april 2026.
+- b) 300.000 euro beschikbaar is voor aanvragen die worden ingediend in de periode 1 mei 2025 tot en met 30 april 2026.
 
 2. Het Stimuleringsfonds kan besluiten het subsidieplafond te verhogen. Het besluit tot het verhogen van het subsidieplafond wordt bekendgemaakt door publicatie in de Staatscourant.
 
-3. Als het deelplafond, bedoeld in het eerste lid, onderdeel a, niet wordt overschreden, kan het Stimuleringsfonds met de resterende middelen het andere deelplafond verhogen.
+3. Als het deelplafond, bedoeld in het eerste lid, onderdeel a, niet wordt overschreden, kan het Stimuleringsfonds met de resterende middelen het andere deelplafond verhogen.
 
 ##### Artikel 1.5. Kosten die voor subsidie in aanmerking komen
 
@@ -85,29 +85,29 @@ Het Stimuleringsfonds kan subsidie verstrekken voor het uitvoeren van (wetenscha
 
 4. Op grond van deze regeling kan uitsluitend subsidie worden verstrekt voor de volgende kosten, inclusief btw:
 
-- a). Gewerkte uren van de bij het onderzoek betrokken personen, voor de onderstaande werkzaamheden:
+- a) Gewerkte uren van de bij het onderzoek betrokken personen, voor de onderstaande werkzaamheden:
 
-  - i). het verrichten van activiteiten ten behoeve van de uitvoering van het onderzoek;
+   - i) het verrichten van activiteiten ten behoeve van de uitvoering van het onderzoek;
 
-  - ii). projectcoördinatie en -administratie van het onderzoek.
+   - ii) projectcoördinatie en -administratie van het onderzoek.
 
-- b). Overige onderzoekskosten, voor zover noodzakelijk voor het onderzoek, tot maximaal 10% van het aangevraagde subsidiebedrag:
+- b) Overige onderzoekskosten, voor zover noodzakelijk voor het onderzoek, tot maximaal 10% van het aangevraagde subsidiebedrag:
 
-  - i). reiskosten;
+   - i) reiskosten;
 
-  - ii). inhuur- of inkoopkosten voor hulpmiddelen of ondersteunende dienstverlening, voor zover noodzakelijk voor het verrichten van kwantitatief of kwalitatief onderzoek.
+   - ii) inhuur- of inkoopkosten voor hulpmiddelen of ondersteunende dienstverlening, voor zover noodzakelijk voor het verrichten van kwantitatief of kwalitatief onderzoek.
 
-5. Voor kosten als bedoeld in het vierde lid, onder a, worden de volgende bandbreedtes gehanteerd:
+5. Voor kosten als bedoeld in het vierde lid, onder a, worden de volgende bandbreedtes gehanteerd:
 
-- a). Junior onderzoeker (1 tot 3 jaar ervaring): maximaal 87 euro per uur (incl. btw);
+- a) Junior onderzoeker (1 tot 3 jaar ervaring): maximaal 87 euro per uur (incl. btw);
 
-- b). Medior onderzoeker (3 tot 5 jaar ervaring): maximaal 105 euro per uur (incl. btw);
+- b) Medior onderzoeker (3 tot 5 jaar ervaring): maximaal 105 euro per uur (incl. btw);
 
-- c). Senior onderzoeker (vanaf 5 jaar ervaring): maximaal 131 euro per uur (incl. btw);
+- c) Senior onderzoeker (vanaf 5 jaar ervaring): maximaal 131 euro per uur (incl. btw);
 
-- d). Overig personeel (projectcoördinatie en -administratie): maximaal 105 euro per uur (incl. btw).
+- d) Overig personeel (projectcoördinatie en -administratie): maximaal 105 euro per uur (incl. btw).
 
-- e). Expert journalistieke informatiebron: maximaal 105 euro per uur (incl. btw). Het aangevraagde subsidiebedrag voor deze kostenpost mag maximaal 10% van het totale aangevraagde subsidiebedrag bedragen.
+- e) Expert journalistieke informatiebron: maximaal 105 euro per uur (incl. btw). Het aangevraagde subsidiebedrag voor deze kostenpost mag maximaal 10% van het totale aangevraagde subsidiebedrag bedragen.
 
 6. Verschuldigde btw komt uitsluitend voor subsidie in aanmerking ingeval de aanvrager de btw niet kan verrekenen met de door de aanvrager af te dragen omzetbelasting.
 
@@ -119,9 +119,9 @@ Het Stimuleringsfonds kan subsidie verstrekken voor het uitvoeren van (wetenscha
 
 1. Subsidie kan uitsluitend worden aangevraagd door een samenwerkingsverband, bestaande uit:
 
-- a). een onderzoeksinstelling; en
+- a) een onderzoeksinstelling; en
 
-- b). tenminste 2 journalistieke informatiebronnen.
+- b) tenminste 2 journalistieke informatiebronnen.
 
 2. Het samenwerkingsverband kan desgewenst worden aangevuld met een of meerdere branche- of belangenorganisaties en samenwerkingsorganen voor journalistieke informatiebronnen. Alle bij het onderzoek betrokken partijen dienen ingeschreven te staan in het Handelsregister bij de Kamer van Koophandel.
 
@@ -131,47 +131,47 @@ Het Stimuleringsfonds kan subsidie verstrekken voor het uitvoeren van (wetenscha
 
 1. Een aanvraag wordt uitsluitend ingediend door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
-- a). Een onderzoeksopzet, bestaande uit de volgende onderdelen:
+- a) Een onderzoeksopzet, bestaande uit de volgende onderdelen:
 
-  - i. de aanleiding van het onderzoek; en
+   - i. de aanleiding van het onderzoek; en
 
-  - ii. de probleemstelling van het onderzoek; en
+   - ii. de probleemstelling van het onderzoek; en
 
-  - iii. de onderzoeksvraag of onderzoeksvragen; en
+   - iii. de onderzoeksvraag of onderzoeksvragen; en
 
-  - iv. een beschrijving van de onderzoeksmethode; en
+   - iv. een beschrijving van de onderzoeksmethode; en
 
-  - v. een omschrijving van de op te leveren resultaten.
+   - v. een omschrijving van de op te leveren resultaten.
 
-- b). een plan van aanpak voor de uitvoering van het onderzoek;
+- b) een plan van aanpak voor de uitvoering van het onderzoek;
 
-- c). KvK-nummer van de aanvrager(s);
+- c) KvK-nummer van de aanvrager(s);
 
-- d). cv’s van de bij het onderzoek betrokken personen;
+- d) cv’s van de bij het onderzoek betrokken personen;
 
-- e). een gespecificeerde en realistische begroting van de met de voorgenomen activiteiten verband houdende kosten;
+- e) een gespecificeerde en realistische begroting van de met de voorgenomen activiteiten verband houdende kosten;
 
-- f). een overeenkomst waarin de samenwerking tussen de onderzoeksinstelling en de journalistieke informatiebronnen is vastgelegd;
+- f) een overeenkomst waarin de samenwerking tussen de onderzoeksinstelling en de journalistieke informatiebronnen is vastgelegd;
 
-- g). het rapport of verslag van een door de onderzoeksinstelling eerder uitgevoerd onderzoek, dat ten hoogste 3 jaar oud is en aantoont dat deze bekend is met de in de onderzoeksopzet omschreven problematiek binnen de journalistieke bedrijfstak en/of dat deze over ervaring beschikt met het toepassen van de voorgestelde onderzoeksmethoden.
+- g) het rapport of verslag van een door de onderzoeksinstelling eerder uitgevoerd onderzoek, dat ten hoogste 3 jaar oud is en aantoont dat deze bekend is met de in de onderzoeksopzet omschreven problematiek binnen de journalistieke bedrijfstak en/of dat deze over ervaring beschikt met het toepassen van de voorgestelde onderzoeksmethoden.
 
-- h). een individuele onderbouwing van elk van de bij het onderzoek betrokken journalistieke informatiebronnen afzonderlijk. De onderbouwing moet uit onderstaande onderdelen bestaan:
+- h) een individuele onderbouwing van elk van de bij het onderzoek betrokken journalistieke informatiebronnen afzonderlijk. De onderbouwing moet uit onderstaande onderdelen bestaan:
 
-  - I. een beschrijving van de relevantie en urgentie van het te onderzoeken thema voor de individuele journalistieke praktijk, waaruit onverbloemd een directe relatie spreekt met de probleemstelling uit de onderzoeksopzet;
+   - I. een beschrijving van de relevantie en urgentie van het te onderzoeken thema voor de individuele journalistieke praktijk, waaruit onverbloemd een directe relatie spreekt met de probleemstelling uit de onderzoeksopzet;
 
-  - II. concrete voorstellen voor het reflecteren op de onderzoeksresultaten binnen individuele journalistieke praktijk die tot uitdrukking komen binnen de ingediende planning en begroting; en
+   - II. concrete voorstellen voor het reflecteren op de onderzoeksresultaten binnen individuele journalistieke praktijk die tot uitdrukking komen binnen de ingediende planning en begroting; en
 
-  - III. concrete voorstellen voor het aanwenden van onderzoeksresultaten binnen de individuele journalistieke praktijk die tot uitdrukking komen binnen de ingediende planning en begroting.
+   - III. concrete voorstellen voor het aanwenden van onderzoeksresultaten binnen de individuele journalistieke praktijk die tot uitdrukking komen binnen de ingediende planning en begroting.
 
-2. De begroting, bedoeld in het eerste lid, onderdeel e, wordt opgesteld conform de modelbegroting zoals die is vastgesteld door het Stimuleringsfonds.
+2. De begroting, bedoeld in het eerste lid, onderdeel e, wordt opgesteld conform de modelbegroting zoals die is vastgesteld door het Stimuleringsfonds.
 
-3. De onderbouwing, bedoeld in het eerste lid, onderdeel h, wordt opgesteld conform het format zoals die is vastgesteld door het Stimuleringsfonds.
+3. De onderbouwing, bedoeld in het eerste lid, onderdeel h, wordt opgesteld conform het format zoals die is vastgesteld door het Stimuleringsfonds.
 
 4. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. Over eventuele ontbrekende gegevens krijgt de aanvrager bericht, met de uitnodiging om deze alsnog binnen één week aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de betreffende aanvraag buiten behandeling gesteld.
 
 ##### Artikel 2.3. Aanvraagtermijn
 
-Een aanvraag kan op ieder moment worden ingediend in de periode1 mei 2024 tot 30 april 2026, 23:59 uur. Aanvragen die buiten deze periode zijn ingediend, worden afgewezen.
+Een aanvraag kan op ieder moment worden ingediend in de periode1 mei 2024 tot 30 april 2026, 23:59 uur. Aanvragen die buiten deze periode zijn ingediend, worden afgewezen.
 
 ### Hoofdstuk 3. Subsidieverlening
 
@@ -183,9 +183,9 @@ Het Stimuleringsfonds beoordeelt aanvragen op volgorde van binnenkomst.
 
 1. Een aanvraag tot subsidieverlening wordt door het Stimuleringsfonds eerst beoordeeld aan de hand van de volgende drempelcriteria:
 
-- a). het onderzoek wordt tenminste ondersteund door twee journalistieke informatiebronnen, welke deel uitmaken van het samenwerkingsverband, als bedoeld onder [artikel 2.1, lid 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=2&artikel=2.1&z=2024-05-04&g=2024-05-04); en
+- a) het onderzoek wordt tenminste ondersteund door twee journalistieke informatiebronnen, welke deel uitmaken van het samenwerkingsverband, als bedoeld onder [artikel 2.1, lid 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=2&artikel=2.1&z=2024-05-04&g=2024-05-04); en
 
-- b). alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04).
+- b) alle voorgestelde onderdelen van het onderzoek zijn uitvoerbaar binnen de maximale termijn, bedoeld in [artikel 1.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04).
 
 2. Als een aanvraag niet aan de drempelcriteria voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -205,17 +205,17 @@ Alleen indien alle drempelcriteria positief worden beoordeeld, wordt een aanvraa
 
 1. Bij beoordeling op de inhoudelijke criteria wordt het oordeel door het Stimuleringsfonds vertaald in een waardering per criterium. Hierbij wordt gewerkt met een systeem waarin deze waardering wordt omgezet in een cijfer. Zowel de waardering als het cijfer staan op zichzelf, aanvragen worden niet direct met elkaar vergeleken.
 
-2. Het Stimuleringsfonds komt voor iedere aanvraag per criterium tot een gemotiveerde score volgens een vijfpuntenschaal: 1. onvoldoende 2. matig 3. voldoende 4. goed 5. zeer goed.
+2. Het Stimuleringsfonds komt voor iedere aanvraag per criterium tot een gemotiveerde score volgens een vijfpuntenschaal: 1. onvoldoende 2. matig 3. voldoende 4. goed 5. zeer goed.
 
 3. De scores per criterium worden bij elkaar opgeteld en vormen zo de totaalscore van de aanvraag.
 
-4. Aanvragen die na de beoordeling op ieder afzonderlijk criterium minimaal 3 punten (voldoende) hebben behaald, komen voor subsidie in aanmerking. Aanvragen die op één of meer criteria 1 of 2 punten behalen, komen niet voor subsidie in aanmerking en worden afgewezen.
+4. Aanvragen die na de beoordeling op ieder afzonderlijk criterium minimaal 3 punten (voldoende) hebben behaald, komen voor subsidie in aanmerking. Aanvragen die op één of meer criteria 1 of 2 punten behalen, komen niet voor subsidie in aanmerking en worden afgewezen.
 
 5. Wanneer door de verstrekking van een subsidie het subsidieplafond zou worden overschreden, worden aanvragen die betrekking hebben op het subsidieplafond, afgewezen.
 
 ##### Artikel 3.5. Besluit
 
-Het Stimuleringsfonds beslist binnen uiterlijk 12 weken na ontvangst op de aanvraag.
+Het Stimuleringsfonds beslist binnen uiterlijk 12 weken na ontvangst op de aanvraag.
 
 ##### Artikel 3.6. Subsidiebedrag
 
@@ -225,9 +225,9 @@ Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maxi
 
 1. Bij een subsidieverlening wordt het verleende subsidiebedrag in twee termijnen betaald, waarbij:
 
-- a). een eerste termijn van 50% van het verleende subsidiebedrag bij wijze van voorschot direct na de subsidieverlening wordt betaald;
+- a) een eerste termijn van 50% van het verleende subsidiebedrag bij wijze van voorschot direct na de subsidieverlening wordt betaald;
 
-- b). het restant na vaststelling van de subsidie wordt betaald.
+- b) het restant na vaststelling van de subsidie wordt betaald.
 
 2. Betalingen vinden plaats aan de penvoerder.
 
@@ -249,17 +249,17 @@ Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maxi
 
 ##### Artikel 5.1. Aanvraag tot vaststelling
 
-1. Een aanvraag tot subsidievaststelling wordt ingediend uiterlijk twee maanden na afloop van de periode, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04), dan wel zo veel eerder als dat het onderzoek is afgerond. Dit geschiedt door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds.
+1. Een aanvraag tot subsidievaststelling wordt ingediend uiterlijk twee maanden na afloop van de periode, bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=1&artikel=1.3&z=2024-05-04&g=2024-05-04), dan wel zo veel eerder als dat het onderzoek is afgerond. Dit geschiedt door het invullen en ondertekenen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds.
 
-2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport en een financieel verslag van de aanvrager en daarnaast een reflectieverslag van de bij het onderzoek betrokken journalistieke informatiebronnen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=5&artikel=5.2&z=2024-05-04&g=2024-05-04).
+2. Een aanvraag tot subsidievaststelling gaat vergezeld van een onderzoeksrapport en een financieel verslag van de aanvrager en daarnaast een reflectieverslag van de bij het onderzoek betrokken journalistieke informatiebronnen, bedoeld in [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049659&hoofdstuk=5&artikel=5.2&z=2024-05-04&g=2024-05-04).
 
 ##### Artikel 5.2. Onderzoeksrapport, financieel verslag en reflectieverslag
 
 1. Het onderzoeksrapport voor de aanvraag tot vaststelling van de subsidie bevat naast de onderzoeksresultaten in ieder geval:
 
-- a). een overzicht van de verrichtte activiteiten waarvoor subsidie is verstrekt;
+- a) een overzicht van de verrichtte activiteiten waarvoor subsidie is verstrekt;
 
-- b). een toelichting waar de gerealiseerde uren aan besteed zijn.
+- b) een toelichting waar de gerealiseerde uren aan besteed zijn.
 
 2. Het financieel verslag bevat een Excel-overzicht van de gerealiseerde uren en kosten ten opzichte van de begrote uren en kosten in de subsidieaanvraag.
 
@@ -271,7 +271,7 @@ Het minimaal te verstrekken subsidiebedrag per aanvraag is 25.000 euro, het maxi
 
 ##### Artikel 5.3. Wijziging, intrekking en terugvordering
 
-De [artikelen 4:48 tot en met 4.50 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) zijn van overeenkomstige toepassing op het verstrekken van subsidies op grond van deze regeling.
+De [artikelen 4:48 tot en met 4.50 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) zijn van overeenkomstige toepassing op het verstrekken van subsidies op grond van deze regeling.
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -281,14 +281,12 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 ##### Artikel 6.2. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 1 mei 2024.
+1. Deze regeling treedt in werking op 1 mei 2024.
 
-2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 mei 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 mei 2024.
+2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 mei 2024, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 mei 2024.
 
-3. Deze regeling vervalt met ingang van 1 mei 2026. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+3. Deze regeling vervalt met ingang van 1 mei 2026. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 6.3. Citeertitel
 
 Onderzoeksregeling 2024–2026
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

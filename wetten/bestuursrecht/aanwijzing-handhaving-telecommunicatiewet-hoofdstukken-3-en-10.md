@@ -1,52 +1,33 @@
 ---
 title: "Aanwijzing handhaving Telecommunicatiewet (hoofdstukken 3 en 10)"
 identifier: "BWBR0049881"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049881"
+categorie: "Digitaal en privacy"
 soort: "beleidsregel"
-stam_id: "17146663"
-version_id: "30179002"
-internal_id: "C43240071"
-label_id: "17055444"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049881/2024-07-01/0"
-intitule_bron: "Stcrt.2024-20573"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-06-27"
-intitule_in_force: "2024-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-20573"
-original_published_date: "2024-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-20573"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049881&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049881&g=2024-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049881"
+opgehaald: 2026-09-06
 ---
+
 # Aanwijzing handhaving Telecommunicatiewet (hoofdstukken 3 en 10)
 
 ### Samenvatting
 
 De [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) (Tw) kan zowel strafrechtelijk als bestuursrechtelijk worden gehandhaafd. Deze aanwijzing beschrijft in welke gevallen en op welke wijze een overtreding van de Tw strafrechtelijk wordt gehandhaafd. De aanwijzing onderstreept het belang van een integrale aanpak voor een effectieve handhaving van de Tw en geeft aan wat dit concreet betekent.
 
-Deze aanwijzing geeft regels voor de opsporing en vervolging bij de overtreding van de strafrechtelijk te handhaven bepalingen in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) en [10 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10). De aanwijzing schetst hoe wordt opgetreden bij geconstateerd gebruik van **jammers** (blokkeerzenders van onder meer mobiele-telefonie- en GPS-signalen). Daarnaast geeft de aanwijzing regels voor de strafrechtelijke aanpak bij een verstoring van frequentieruimte. De aanwijzing maakt hierbij onderscheid tussen illegaal gebruik van omroepfrequenties en illegaal gebruik van overige frequenties (bijvoorbeeld door gebruikers van een marifoon, mobilofoon, portofoon zonder registratie of vergunning). Ten slotte bespreekt de aanwijzing wanneer strafrechtelijk wordt opgetreden bij het aantreffen van uitrusting1Uitrusting is in artikel 1.1 Tw gedefinieerd als: elk apparaat of vaste installatie. Een vaste installatie is een specifieke combinatie van verschillende soorten apparaten en eventuele andere inrichtingen, die samengebouwd, geïnstalleerd en bestemd zijn voor permanent gebruik op een van te voren vastgestelde locatie. of (radio)apparaten2Een radioapparaat wordt in artikel 1.1 Tw gedefinieerd als: een elektrisch of elektronisch product data.doelbewust radiogolven uitzendt of ontvangt ten behoeve van radiocommunicatie of radiodeterminatie, ofb.moet worden aangevuld met een accessoire om doelbewust radiogolven te kunnen uitzenden en ontvangen ten behoeve van radiocommunicatie of radiodeterminatie. of bij een handelsvoorraad uitrusting of (radio)apparaten die niet voldoen aan de eisen als bedoeld in een aantal artikelen van hoofdstuk 10 van de Tw.
+Deze aanwijzing geeft regels voor de opsporing en vervolging bij de overtreding van de strafrechtelijk te handhaven bepalingen in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) en [10 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10). De aanwijzing schetst hoe wordt opgetreden bij geconstateerd gebruik van *jammers* (blokkeerzenders van onder meer mobiele-telefonie- en GPS-signalen). Daarnaast geeft de aanwijzing regels voor de strafrechtelijke aanpak bij een verstoring van frequentieruimte. De aanwijzing maakt hierbij onderscheid tussen illegaal gebruik van omroepfrequenties en illegaal gebruik van overige frequenties (bijvoorbeeld door gebruikers van een marifoon, mobilofoon, portofoon zonder registratie of vergunning). Ten slotte bespreekt de aanwijzing wanneer strafrechtelijk wordt opgetreden bij het aantreffen van uitrusting1Uitrusting is in artikel 1.1 Tw gedefinieerd als: elk apparaat of vaste installatie. Een vaste installatie is een specifieke combinatie van verschillende soorten apparaten en eventuele andere inrichtingen, die samengebouwd, geïnstalleerd en bestemd zijn voor permanent gebruik op een van te voren vastgestelde locatie. of (radio)apparaten2Een radioapparaat wordt in artikel 1.1 Tw gedefinieerd als: een elektrisch of elektronisch product data.doelbewust radiogolven uitzendt of ontvangt ten behoeve van radiocommunicatie of radiodeterminatie, ofb.moet worden aangevuld met een accessoire om doelbewust radiogolven te kunnen uitzenden en ontvangen ten behoeve van radiocommunicatie of radiodeterminatie. of bij een handelsvoorraad uitrusting of (radio)apparaten die niet voldoen aan de eisen als bedoeld in een aantal artikelen van hoofdstuk 10 van de Tw.
 
 ### 1. Beleidskader
 
 ### 1.1. Regelgeving
 
-### 1.1.1. [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
+### 1.1.1. Telecommunicatiewet
 
 De [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) stelt regels voor het gebruik van de frequentieruimte (de ether) en vormt de basis voor het Nationaal Frequentieplan waarin de verdeling van frequenties is vastgelegd. Het gaat hierbij met name om frequenties voor (mobiele) communicatie, radio en televisie-uitzendingen, communicatie in lucht- en scheepvaart, hulpdiensten, defensie, radar, satelliet, radiozendamateurs, radioastronomie en straalverbindingen. Voor het gebruik van frequentieruimte is in beginsel een vergunning, en in sommige gevallen een registratie, vereist. Voor een aantal toepassingen is een vrijstelling van het vereiste van een vergunning geregeld.3Voorbeelden van het gebruik van frequentieruimte, dat niet aan een vergunning gebonden is, zijn mobiele telefoontoestellen, draadloze (huis)netwerken en huistelefoons, babyfoons, medische implantaten, afstandsbedieningen en alarminstallaties.
 
-Daarnaast stelt de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) regels voor het in de handel brengen, op de markt aanbieden en het gebruik van uitrusting en radioapparaten. Op dit onderdeel is de Tw, met name [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10) (Uitrusting en radioapparaten) met ingang van 20 december 2016 gewijzigd in verband met de implementatie van [richtlijn nr. 2014/30/EU](32014L0030) (de EMC-richtlijn) en [richtlijn nr. 2014/53/EU](32014L0053) (de radioapparatuur (RED) richtlijn). De Tw is tevens de basis voor het [Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913) (hierna: Besluit EMC) en het [Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910) (hierna: BRA)4Stb. 2016, 523 en 525. en een aantal hierop gebaseerde ministeriële regelingen. Deze regelgeving ziet op het in de handel brengen of verhandelen van uitrusting en radioapparaten. Deze regelgeving stelt eisen op technisch vlak (zoals effectief en efficiënt gebruik van het spectrum en elektromagnetische compatibiliteit) en administratieve eisen op onder meer het vlak van documentatie en markeringen van apparaten (CE) met als doel om een ongestoorde werking van uitrusting en radioapparaten te garanderen.
+Daarnaast stelt de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) regels voor het in de handel brengen, op de markt aanbieden en het gebruik van uitrusting en radioapparaten. Op dit onderdeel is de Tw, met name [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10) (Uitrusting en radioapparaten) met ingang van 20 december 2016 gewijzigd in verband met de implementatie van richtlijn nr. 2014/30/EU (de EMC-richtlijn) en richtlijn nr. 2014/53/EU (de radioapparatuur (RED) richtlijn). De Tw is tevens de basis voor het [Besluit elektromagnetische compatibiliteit 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038913) (hierna: Besluit EMC) en het [Besluit radioapparaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038910) (hierna: BRA)4Stb. 2016, 523 en 525. en een aantal hierop gebaseerde ministeriële regelingen. Deze regelgeving ziet op het in de handel brengen of verhandelen van uitrusting en radioapparaten. Deze regelgeving stelt eisen op technisch vlak (zoals effectief en efficiënt gebruik van het spectrum en elektromagnetische compatibiliteit) en administratieve eisen op onder meer het vlak van documentatie en markeringen van apparaten (CE) met als doel om een ongestoorde werking van uitrusting en radioapparaten te garanderen.
 
 ### 1.1.2. Doel regelgeving
 
@@ -60,7 +41,7 @@ Op grond van [artikel 15.1, eerste lid, Tw](https://wetten.overheid.nl/jci1.3:c:
 
 In het algemeen maken de BOA’s van de RDI proces-verbaal op ter zake van overtredingen van de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950). In voorkomende gevallen maakt de politie proces-verbaal op, bijvoorbeeld bij toepassing van strafrechtelijke handhavingsmiddelen zoals inbeslagneming, of assisteert de politie deze BOA’s.
 
-Voor het maritieme werkveld zijn de dienst Infrastructuur van de Landelijke eenheid, en de dienst Zeehavenpolitie van de regionale eenheid Rotterdam ook aangewezen als toezichthouders. Zij kunnen in voorkomende gevallen proces-verbaal opmaken.5Besluit aanwijzing toezichthouders Telecommunicatiewet (laatst gewijzigd **Stcrt**. 2022, 33967).
+Voor het maritieme werkveld zijn de dienst Infrastructuur van de Landelijke eenheid, en de dienst Zeehavenpolitie van de regionale eenheid Rotterdam ook aangewezen als toezichthouders. Zij kunnen in voorkomende gevallen proces-verbaal opmaken.5Besluit aanwijzing toezichthouders Telecommunicatiewet (laatst gewijzigd *Stcrt*. 2022, 33967).
 
 ### 1.1.4. Economische delicten
 
@@ -80,6 +61,14 @@ Op grond van het rechtsbeginsel ne bis in idem vervalt de bevoegdheid tot strafv
 
 In de praktijk ligt het accent bij de handhaving van de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) op de bestuursrechtelijke aanpak. De inzet van strafrechtelijke middelen is aan de orde wanneer het bestuursrechtelijk instrumentarium ontoereikend is, bijvoorbeeld in het geval dat inbeslagneming en/of binnentreding in een woning noodzakelijk is. Bij recidive en bij ernstige overtredingen waarbij gevaar is veroorzaakt of een potentieel gevaarlijke situatie is ontstaan, kan strafrechtelijke vervolging ingezet worden.
 
+- a. Inbeslagneming Radioapparaten waarvoor gelet op de aard ervan geen vergunning kan worden verleend, zijn vatbaar voor onttrekking aan het verkeer. Denk hierbij bijvoorbeeld aan blokkeerzenders bestemd om het mobiele telefonieverkeer in een bepaalde straal onmogelijk te maken. Dit soort radioapparaten dienen te allen tijde strafrechtelijk in beslag genomen te worden ter onttrekking aan het verkeer. Dit brengt mee dat de handhaving via de strafrechtelijke weg plaatsvindt. Ditzelfde geldt bijvoorbeeld voor (een handelsvoorraad) radioapparaten of uitrusting in de zin van [artikel 1.1 Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1), die niet voldoet aan de daaraan gestelde regels. Gedacht kan daarbij worden aan radioapparaten of uitrusting die niet voldoet aan de essentiële eisen uit de EMC- en RED- richtlijn, zoals geïmplementeerd in de bepalingen bij of krachtens [hoofdstuk 10 van de Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=10), waardoor deze radioapparaten of uitrusting onveilig is, storing veroorzaakt op andere uitrusting of te weinig immuun is tegen verstoring van andere uitrusting.
+
+- b. Binnentreding in een woning Wanneer een illegale uitzending vanuit een woning wordt gepleegd, kan binnentreding in de woning nodig zijn. Dit is aan de orde als sprake is van gevaarzetting, bijvoorbeeld als de uitzending stoort op frequentieverkeer ten behoeve van vitale processen, zoals op een frequentie bestemd voor de communicatie van lucht- en scheepvaart, voor hulpdiensten en dergelijke. In zo'n geval zijn de bestuursrechtelijke middelen ontoereikend en wordt strafrechtelijk opgetreden.
+
+- c. Recidive Inzet van bestuursrechtelijke middelen tegen een overtreder die eerder voor eenzelfde of vergelijkbare overtreding bestuursrechtelijk is aangepakt, is niet altijd zinvol. Als de overtreder keer op keer in de fout gaat, ondanks bestuursrechtelijke sancties, is bestuurlijk optreden kennelijk niet effectief en strafrechtelijk optreden meer zinvol. Denk bijvoorbeeld aan een overtreder die in korte tijd meermaals bestuurlijk is gesanctioneerd of in de schuldsanering zit, waardoor financiële sancties niet effectief zijn.
+
+- d. Ernst overtreding De ernst van de overtreding is afhankelijk van het soort radioapparaat en de daarop geprogrammeerde frequentie. De opsporingsambtenaar geeft in het proces-verbaal aan op welke frequentie(s) de verboden apparatuur stoort, of deze frequentie(s) van vitaal belang is (zijn) en of sprake is van concrete gevaarzetting. Bij frequentiegebruik ten behoeve van vitale processen moet niet alleen gedacht worden aan de frequenties bestemd voor de communicatie van lucht- en scheepvaart, hulpdiensten en defensie maar ook aan (mobiele) telefonie en radiouitzendingen die ernstig gestoord kunnen worden.
+
 ### 1.2.3. Informatie-uitwisseling en samenwerking
 
 Wanneer de politie een overtreding van de [Tw](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) constateert, zendt de opsporingsambtenaar een afschrift van het proces-verbaal naar de RDI. Op grond hiervan kan de RDI een last onder dwangsom opleggen om eenzelfde overtreding in de toekomst te voorkomen. In zaken die niet (verder) door het OM worden vervolgd wordt binnen dertien weken na inschrijving van de zaak op het parket, door of namens de officier van justitie een gemotiveerde kennisgeving van deze beslissing aan de RDI verzonden. De RDI beoordeelt vervolgens of bestuursrechtelijke sanctionering nog opportuun is.
@@ -94,6 +83,18 @@ De RDI hanteert een prioritering ten aanzien van storingsmeldingen en de ernst d
 
 De meest ernstige categorie (Prio 1) betreft storingen van netwerken of infrastructuur waarbij geen gebruik kan worden gemaakt van alternatieve frequenties of alternatieve communicatiemogelijkheden. Bijvoorbeeld:
 
+- – vitale overheidsinfrastructuur (zoals: C2000, P2000);
+
+- – continuïteit van vitale netwerken (internet knooppunten, mobiele telefonie);
+
+- – frequentieverkeer ten behoeve van vitale processen (luchtverkeersbegeleiding, essentiële scheepvaartcommunicatie),
+
+- – storingen van calamiteitenzenders;
+
+- – storingen die een levensbedreigende situatie kunnen veroorzaken;
+
+- – storingen die grote economische schade kunnen veroorzaken (meer dan 250 personen worden gedupeerd of het gaat om grote schade (> € 100.000)) of die de continuïteit van een bedrijf bij het voortduren van de storing in gevaar brengen.
+
 Bij Prio 1- storingen volgt in beginsel de inbeslagneming van de radioapparaten en strafrechtelijke vervolging. Dit geldt ook wanneer een Prio 1-storing wordt veroorzaakt door legale apparatuur en/of er met een vergunning of registratie van de RDI wordt uitgezonden. Bij elke Prio 1-storing moet onverwijld kunnen worden opgetreden en het bestuurlijk instrumentarium is dan ontoereikend.
 
 Prio 2- storingen zijn storingen die economische schade veroorzaken, maar niet levensbedreigend zijn of anderszins tot Prio 1-storingen behoren. Onder Prio 4- storingen vallen de overige storingen. De Prio 2- en Prio 4- storingen worden doorgaans bestuursrechtelijk afgedaan. In alle gevallen kunnen wel strafrechtelijke handhavingsmiddelen als inbeslagneming of binnentreden van een woning worden ingezet.
@@ -102,7 +103,7 @@ Prio 2- storingen zijn storingen die economische schade veroorzaken, maar niet l
 
 In het Nationaal Frequentieplan (NFP) zijn bepaalde frequenties bestemd voor radioomroep. Voor het uitzenden van omroepprogramma’s is een vergunning voor het gebruik van een bepaalde frequentie vereist. Overtreders plegen “illegale omroep”: zij zenden doelbewust uit op frequenties in de omroepband zonder dat daarvoor een vergunning is afgegeven. Deze omschrijving omvat elk illegaal gebruik van omroepfrequenties.
 
-Bij vergunninghouders voor publieke of commerciële omroep, die bepalingen van hun vergunning overtreden, is ander beleid van toepassing.7In een dergelijk geval gaat het om **onjuist** gebruik van omroepfrequenties. Overtreders die geen vergunning voor publieke of commerciële omroep hebben maken **illegaal** gebruik van omroepfrequenties. Dergelijke overtredingen worden in alle gevallen bestuursrechtelijk afgedaan.
+Bij vergunninghouders voor publieke of commerciële omroep, die bepalingen van hun vergunning overtreden, is ander beleid van toepassing.7In een dergelijk geval gaat het om *onjuist* gebruik van omroepfrequenties. Overtreders die geen vergunning voor publieke of commerciële omroep hebben maken *illegaal* gebruik van omroepfrequenties. Dergelijke overtredingen worden in alle gevallen bestuursrechtelijk afgedaan.
 
 Illegale omroep vindt zowel plaats vanaf percelen die in eigendom zijn van of gehuurd worden door degenen die illegaal uitzenden, als – veelal in groepsverband – vanaf andermans of openbare grond. Een bekende werkwijze van overtreders is het uitzenden met antennes geplaatst op bestaande opstelpunten van bijvoorbeeld mobiele operators of omroepen, hoogspanningsmasten en bomen. Daarbij worden ook mobiele en/of tijdelijke antenne-installaties gebruikt, waarbij de uitzendlocatie regelmatig wordt gewijzigd om de pakkans te verkleinen. Het komt ook voor dat er kranen worden gehuurd, waarin de antennes worden opgehangen. Deze laatste uitzendingen zijn doorgaans onbemand en worden op afstand aangestuurd.
 
@@ -112,9 +113,15 @@ Wanneer in groepsverband een illegale uitzending wordt gepleegd, is het van bela
 
 ### 2.2.1. Handhaving
 
-Bij illegale omroep wordt in beginsel bestuursrechtelijk gehandhaafd. Het bestuursrechtelijke sanctiebeleid bestaat uit direct beboeten en opleggen van een last onder dwangsom. Afhankelijk van de aard en de ernst van de overtreding bedraagt de maximale boete € 15.000.
+Bij illegale omroep wordt in beginsel bestuursrechtelijk gehandhaafd. Het bestuursrechtelijke sanctiebeleid bestaat uit direct beboeten en opleggen van een last onder dwangsom. Afhankelijk van de aard en de ernst van de overtreding bedraagt de maximale boete € 15.000.
 
 illegale omroep kan strafrechtelijk worden vervolgd wanneer:
+
+- – sprake is van een Prio 1-storing; of
+
+- – de bestuursrechtelijke aanpak niet effectief is gebleken; of
+
+- – er sprake is van ernstige verstoring van de openbare orde, maar het geen Prio 1-storing betreft.
 
 Frequenties in de FM-omroepband zijn dermate schaars, zorgvuldig gepland en met de omringende landen gecoördineerd, en deze band is zo “vol”, dat elke illegale uitzending in deze band storing op de geplande frequenties veroorzaakt. Wanneer strafrechtelijk wordt opgetreden tegen het illegaal uitzenden op omroepfrequenties wordt in ieder geval het radioapparaat en de toebehoren in beslag genomen.
 
@@ -158,7 +165,7 @@ Het geheel of gedeeltelijk aangelegd aanwezig hebben of het gebruik van een jamm
 
 Het geheel of gedeeltelijk aangelegd aanwezig hebben en het gebruik van een jammer wordt in alle gevallen strafrechtelijk gehandhaafd. Een jammer wordt in alle gevallen in beslag genomen ter onttrekking aan het verkeer.
 
-Bij het gebruik van een jammer om een misdrijf mogelijk te maken, is sprake van opzettelijk handelen. Dit betekent dat hiervoor een strafmaximum van 6 jaar gevangenisstraf geldt (zie hiervoor onder § 1.1.4). Indien een jammer opzettelijk wordt gebruikt, betreft dit gebruik een feit als bedoeld in [artikel 67 lid 1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67), waardoor diverse dwangmiddelen kunnen worden toegepast, zoals aanhouding buiten heterdaad, inverzekeringstelling en voorlopige hechtenis. Ook de inzet van diverse buitengewone opsporingsbevoegdheden behoort hierdoor in beginsel tot de mogelijkheden.
+Bij het gebruik van een jammer om een misdrijf mogelijk te maken, is sprake van opzettelijk handelen. Dit betekent dat hiervoor een strafmaximum van 6 jaar gevangenisstraf geldt (zie hiervoor onder [§ 1.1.4](https://wetten.overheid.nl/BWBR0049881)). Indien een jammer opzettelijk wordt gebruikt, betreft dit gebruik een feit als bedoeld in [artikel 67 lid 1 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67), waardoor diverse dwangmiddelen kunnen worden toegepast, zoals aanhouding buiten heterdaad, inverzekeringstelling en voorlopige hechtenis. Ook de inzet van diverse buitengewone opsporingsbevoegdheden behoort hierdoor in beginsel tot de mogelijkheden.
 
 Bij het aantreffen van een jammer, kennelijk bestemd om de opsporing te beletten, te belemmeren of te verijdelen, bijvoorbeeld wanneer een onderzoekssubject tracht hiermee een mogelijk GPS-baken aan zijn voertuig te verstoren, kan de verdachte daarbij subsidiair [artikel 184 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184) ten laste worden gelegd.
 

@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering seksueel misbruik van minderjarigen"
 identifier: "BWBR0049871"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049871"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "17144373"
-version_id: "30174372"
-internal_id: "C43234771"
-label_id: "17052714"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049871/2024-07-01/0"
-intitule_bron: "Stcrt.2024-19867"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-06-24"
-intitule_in_force: "2024-06-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-19867"
-original_published_date: "2024-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-19867"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049871&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049871&g=2024-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049871"
+opgehaald: 2026-09-06
 ---
+
 # Richtlijn voor strafvordering seksueel misbruik van minderjarigen
 
 ### Beschrijving
@@ -48,21 +29,104 @@ In de wet wordt het zogenoemde ‘interactiecriterium’ dat is ontstaan in de j
 
 Onder de tabel is een aantal factoren vermeld die van invloed kunnen zijn en specifiek voor kunnen komen ten aanzien van de strafbaarstellingen waarop deze richtlijn van toepassing is. Deze lijst is niet uitputtend. Algemene factoren die niet delictspecifiek zijn worden uiteraard wel meegenomen in de beoordeling van de strafmaat en kunnen eveneens leiden tot een strafeis die hoger of lager is dan de uitgangspunten in de tabel.
 
+| Categorieën | Basisdelict seksueel misbruik van minderjarige, eenmalig, alleen gepleegd, first offender |
+| --- | --- |
+| I: Seksuele gedragingen, geen aanrakingen |  |
+|  |  |
+| Artikel 251 lid 1 onder b Sr (seksueel corrumperen) | TS 120 uur tot GS 6 maanden |
+|  |  |
+| II: Seksuele gedragingen inclusief aanraking |  |
+|  |  |
+| Artikel 245 Sr (slachtoffer 16–18 jaar waarbij sprake is van één van de situaties zoals omschreven onder lid 1 sub a tot en met d)1 |  |
+| In borsten/tepels knijpen/betasten/aanraken (boven kleding) | GS 2 maanden |
+| In borsten knijpen/betasten/aanraken (onder kleding) | GS 5 maanden |
+| Betasten blote vagina/penis | GS 10 maanden |
+|  |  |
+| Artikel 247 Sr (slachtoffer 12–16 jaar) |  |
+| In borsten/tepels knijpen/betasten/aanraken (boven kleding) | GS 3 maanden |
+| In borsten knijpen/betasten/aanraken (onder kleding) | GS 6 maanden |
+| Betasten blote vagina/penis | GS 12 maanden |
+|  |  |
+| Artikel 249 Sr (slachtoffer <12 jaar) |  |
+| In borsten/tepels knijpen/betasten/aanraken (boven kleding) | GS 6 maanden |
+| In borsten knijpen/betasten/aanraken (onder kleding) | GS 12 maanden |
+| Betasten blote vagina/penis | GS 24 maanden |
+|  |  |
+| III. Seksueel binnendringen |  |
+|  |  |
+| 246 Sr (slachtoffer 16–18 jaar waarbij sprake is van één van de situaties zoals omschreven onder lid 1 sub a tot en met d)2 |  |
+| Met vingers | GS 24 maanden |
+| Met een voorwerp | GS 24 maanden |
+| Met tong (anders dan tongzoen) | GS 30 maanden |
+| Met geslachtsdeel | GS 36 maanden |
+|  |  |
+| 248 Sr (slachtoffer 12 – 16 jaar) |  |
+| Met vingers | GS 30 maanden |
+| Met een voorwerp | GS 30 maanden |
+| Met tong (anders dan tongzoen) | GS 36 maanden |
+| Met geslachtsdeel | GS 48 maanden |
+|  |  |
+| 250 Sr (slachtoffer <12 jaar) |  |
+| Met vingers | GS 36 maanden |
+| Met een voorwerp | GS 36 maanden |
+| Met tong (anders dan tongzoen) | GS 48 maanden |
+| Met geslachtsdeel | GS 60 maanden |
+
 1 Indien hiervan geen sprake is, is de reguliere richtlijn aanranding van toepassing
 
 2 Indien hiervan geen sprake is, is de reguliere richtlijn verkrachting van toepassing
 
-**Mogelijk strafverzwarend onder andere:**
+Strafverzwarende en strafverminderende factoren (niet-limitatief)
 
-**(Met betrekking tot ernst van het feit)**
+*Mogelijk strafverzwarend onder andere:*
 
-**(Met betrekking tot kwetsbaarheid slachtoffer)**
+*(Met betrekking tot ernst van het feit)*
 
-**(Met betrekking tot bewuste en planmatige werkwijze van verdachte rondom het feit)**
+- – Frequentie en/of periode van het misbruik (bij herhaaldelijk misbruik)
 
-**Mogelijk strafverminderend onder andere:**
+- – In vereniging (zie ook [art. 254, eerste lid, onder a, Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=254))
 
-**Legenda**
+- – Verregaande handelingen (waaronder begrepen: gebruik van hulpmiddelen/ SM-of bondageachtige handelingen/ seksuele handelingen met dieren)
+
+- – Verdachte negeert signalen van het slachtoffer
+
+- – Excessieve gevolgen (waaronder begrepen: zwaar lichamelijk of geestelijk letsel, levensgevaar voor een Ander, zwangerschap, besmetting of risico daarop, ontmaagding,) (zie ook [artikel 254, tweede en derde lid Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=254))
+
+- – Bijzondere vernederende setting
+
+- – (Beeld)opname van het strafbare feit
+
+- – Gebruik van en vuur- en/of steekwapen
+
+- – Nabije aanwezigheid derden, in het bijzonder kinderen
+
+- – Lange duur van het misbruik
+
+- – (Ernstige) recidive (zie [Aanwijzing kader voor strafvordering meerderjarigen](https://wetten.overheid.nl/jci1.3:c:BWBR0042068))
+
+- – Voorafgegaan door, vergezeld van of gevolgd door dwang, geweld of bedreiging (gekwalificeerde aanranding/verkrachting)
+
+*(Met betrekking tot kwetsbaarheid slachtoffer)*
+
+- – Afhankelijkheids- of vertrouwensrelatie (waaronder begrepen: hoedanigheid verdachte/ vertrouwens-, gezags- of afhankelijkheidsrelatie tussen slachtoffer en verdachte / slachtoffer is aan zorg van verdachte of instelling toevertrouwd
+
+- – Situatie of locatie (waaronder begrepen situatie of locatie waar slachtoffer bij uitstek veilig behoort te zijn/ Situatie of locatie waar slachtoffer aan verdachte is overgeleverd)
+
+- – Bijzondere kwetsbaarheid slachtoffer
+
+*(Met betrekking tot bewuste en planmatige werkwijze van verdachte rondom het feit)*
+
+- – Totstandkoming & instandhouding van de misbruiksituatie (ten opzichte van de buitenwereld, niet zijnde slachtoffer zelf)
+
+- – Totstandkoming & instandhouding van het seksueel misbruik (m.b.t. het slachtoffer)
+
+- – Psychische druk op slachtoffer (zoals slachtoffer tot geheimhouding oproepen)
+
+*Mogelijk strafverminderend onder andere:*
+
+- – Jongvolwassenheid verdachte
+
+*Legenda*
 
 TS = Taakstraf
 

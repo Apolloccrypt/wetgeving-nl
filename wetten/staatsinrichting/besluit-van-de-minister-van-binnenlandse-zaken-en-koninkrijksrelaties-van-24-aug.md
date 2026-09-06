@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0053073"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 augustus 2026, tot aanwijzing toezichthouders ten aanzien van bevoegdheden op grond van de Wet financiering politieke partijen en verlening mandaat en machtiging (Besluit aanwijzing toezichthouders Wet financiering politieke partijen)

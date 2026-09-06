@@ -1,62 +1,109 @@
 ---
 title: "Inkomstenbelasting. Kapitaalverzekering eigen woning, spaarrekening eigen woning, beleggingsrecht eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3 (Verzamelbesluit kapitaalverzekeringen, SEW en BEW)"
+citeertitel: "Verzamelbesluit kapitaalverzekeringen, SEW en BEW"
 identifier: "BWBR0050034"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-07-19"
-last_updated: "2024-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050034"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "17182773"
-version_id: "30248742"
-internal_id: "C43326241"
-label_id: "17091454"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050034/2024-07-19/0"
-intitule_bron: "Stcrt.2024-22825"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-05"
-intitule_published: "2024-07-18"
-intitule_in_force: "2024-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-22825"
-original_signed_date: "2024-07-05"
-original_published_date: "2024-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-22825"
-entry_into_force_date: "2024-07-19"
-jci_1_3: "jci1.3:c:BWBR0050034&z=2024-07-19&g=2024-07-19"
-jci_1_0: "1.0:c:BWBR0050034&g=2024-07-19"
-citeertitel_status: "officieel"
-short_title: "Verzamelbesluit kapitaalverzekeringen, SEW en BEW"
-signed_date: "2024-07-05"
-entry_into_force: "2024-07-19"
+publicatiedatum: 2024-07-19
+laatste_update: 2024-07-19
+status: geldig
+toestand: 2024-07-19
+bron: "https://wetten.overheid.nl/BWBR0050034"
+opgehaald: 2026-09-06
 ---
+
 # Inkomstenbelasting. Kapitaalverzekering eigen woning, spaarrekening eigen woning, beleggingsrecht eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3 (Verzamelbesluit kapitaalverzekeringen, SEW en BEW)
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**Dit besluit vervangt het besluit van 15 mei 2017, nr. 2017-81019 (** **Stcrt. 2017, 28246** **), laatstelijk gewijzigd bij besluit van 16 maart 2023, nr. 2023-27660 (** **Stcrt. 2023, 8905** **). In dit besluit zijn alleen beleidsmatige onderwerpen opgenomen. Voor zover nog relevant zijn de onderwerpen met een toelichtend karakter opgenomen in een vraag- en antwoorddocument.**
+*Dit besluit vervangt het besluit van 15 mei 2017, nr. 2017-81019 (*
+ *Stcrt. 2017, 28246*
+ *), laatstelijk gewijzigd bij besluit van 16 maart 2023, nr. 2023-27660 (*
+ *Stcrt. 2023, 8905*
+ *). In dit besluit zijn alleen beleidsmatige onderwerpen opgenomen. Voor zover nog relevant zijn de onderwerpen met een toelichtend karakter opgenomen in een vraag- en antwoorddocument.*
 
 ### 1. Inleiding
 
 In dit besluit zijn de beleidsstandpunten opgenomen op het terrein van kapitaalverzekeringen en de kapitaalverzekering eigen woning (KEW), spaarrekening eigen woning (SEW) en het beleggingsrecht eigen woning (BEW). Eenvoudshalve worden de KEW, SEW en het BEW hierna tezamen KEW genoemd, tenzij anders aangegeven.
 
-De beleidsstandpunten over de KEW zijn van overeenkomstige toepassing op Brede Herwaarderingskapitaalverzekeringen die op basis van het premieverleden op grond van [hoofdstuk 2, artikel I, onderdeel AL, eerste lid, tweede volzin van de Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2) op 31 december 2000 ‘op weg waren’ naar een uitkeringsvrijstelling. Dit wordt bij de beleidsstandpunten niet vermeld, alleen afwijkingen van dit uitgangspunt worden genoemd.
+De beleidsstandpunten over de KEW zijn van overeenkomstige toepassing op Brede Herwaarderingskapitaalverzekeringen die op basis van het premieverleden op grond van [hoofdstuk 2, artikel I, onderdeel AL, eerste lid, tweede volzin van de Invoeringswet Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2) op 31 december 2000 ‘op weg waren’ naar een uitkeringsvrijstelling. Dit wordt bij de beleidsstandpunten niet vermeld, alleen afwijkingen van dit uitgangspunt worden genoemd.
 
 ### 1.1. Wijzigingen ten opzichte van vorige besluit
 
-De goedkeuring over de bandbreedte-eis ná een wijziging van de premie als gevolg van een wijziging van de eigenwoningrente is uitgebreid, waardoor de goedkeuring ook geldt als de overschrijding van de bandbreedte het gevolg is van een te hoge rentestand (onderdeel 3.1.1).
+De goedkeuring over de bandbreedte-eis ná een wijziging van de premie als gevolg van een wijziging van de eigenwoningrente is uitgebreid, waardoor de goedkeuring ook geldt als de overschrijding van de bandbreedte het gevolg is van een te hoge rentestand ([onderdeel 3.1.1](https://wetten.overheid.nl/BWBR0050034)).
 
-Veel andere wijzigingen van het besluit zijn redactioneel waarmee geen inhoudelijke wijzigingen zijn beoogd. Zo zijn bijvoorbeeld [onderdeel 5.1](onbekend) (omzetting in twee soortgelijke producten; toerekening premies) en [onderdeel 5.2](onbekend) (gevolgen afkoop; omzetting bij beëindiging (fiscaal) partnerschap) samengevoegd (onderdeel 5.1 nieuw).
+Veel andere wijzigingen van het besluit zijn redactioneel waarmee geen inhoudelijke wijzigingen zijn beoogd. Zo zijn bijvoorbeeld [onderdeel 5.1](https://wetten.overheid.nl/BWBR0039569) (omzetting in twee soortgelijke producten; toerekening premies) en [onderdeel 5.2](https://wetten.overheid.nl/BWBR0039569) (gevolgen afkoop; omzetting bij beëindiging (fiscaal) partnerschap) samengevoegd ([onderdeel 5.1 nieuw](https://wetten.overheid.nl/BWBR0050034)).
 
 Ten opzichte van het vorige besluit komen onderdelen met een toelichtend karakter niet terug in dit besluit. Voor zover deze onderdelen relevant zijn, publiceert de Kennisgroep Verzekeringsproducten en Assurantiebelasting deze als kennisgroepstandpunt ([https://kennisgroepen.belastingdienst.nl/](https://kennisgroepen.belastingdienst.nl/)). Verder zijn een aantal standpunten vervallen omdat deze door tijdsverloop geen belang meer hebben. De onderdelen van het vorige besluit die niet terugkomen zijn:
 
-Voor bijvoorbeeld de goedkeuringen in [onderdeel 3.1.6](onbekend) en [3.1.7](onbekend) geldt dat het niet waarschijnlijk is dat ze nog relevantie hebben, mocht dat onverhoopt toch zo zijn dan kan het ingetrokken besluit (zie onderdeel 7) nog worden toegepast.
+- – Aanpassing partnerbegrip met ingang van 1 januari 2011; Overgangsrecht ([onderdeel 2.1.2](https://wetten.overheid.nl/BWBR0039569));
+
+- – KEW-clausule ([onderdeel 2.1.3](https://wetten.overheid.nl/BWBR0039569));
+
+- – Begrip levensverzekering voor een KEW ([onderdeel 2.2](https://wetten.overheid.nl/BWBR0039569));
+
+- – Premiesplitsing ([onderdeel 2.4.1](https://wetten.overheid.nl/BWBR0039569))
+
+- – Vrijstelling in box 3 voor het overlijdensdeel ([onderdeel 2.4.2](https://wetten.overheid.nl/BWBR0039569));
+
+- – Betaling in vreemde valuta ([onderdeel 3.1.3](https://wetten.overheid.nl/BWBR0039569));
+
+- – Gesplitste betaling door partner bij gemengde KEW ([onderdeel 3.1.4](https://wetten.overheid.nl/BWBR0039569));
+
+- – Hoog-laag-kapitaalverzekering op twee polissen bij KEW ([onderdeel 3.1.5](https://wetten.overheid.nl/BWBR0039569));
+
+- – Verlaging premie voor vrijstelling bij arbeidsongeschiktheid; wetswijziging 2004 ([onderdeel 3.1.6](https://wetten.overheid.nl/BWBR0039569));
+
+- – Verlaging premie voor premievrijstelling bij arbeidsongeschiktheid; Invoering wetgeving ([WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)) ([onderdeel 3.1.7](https://wetten.overheid.nl/BWBR0039569));
+
+- – Premiedepot bij een KEW; Koopsomstorting of jaarlijkse premiebetaling? (enkel [onderdeel 3.2.1](https://wetten.overheid.nl/BWBR0039569) Inleiding en [onderdeel 3.2.2](https://wetten.overheid.nl/BWBR0039569) Fiscale toets van premiedepot);
+
+- – Inhoud van het begrip premie; meetelregel KEW ([onderdeel 3.3](https://wetten.overheid.nl/BWBR0039569));
+
+- – De begrippen jaar en jaarlijks ([onderdeel 3.4](https://wetten.overheid.nl/BWBR0039569));
+
+- – Vrijstellingen bij minderjarige kinderen en partners ([onderdeel 4.1](https://wetten.overheid.nl/BWBR0039569));
+
+- – Vervallen tijdklemmen voor Brede Herwaarderingskapitaalverzekeringen ([onderdeel 4.2](https://wetten.overheid.nl/BWBR0039569));
+
+- – Geldgever is eerste begunstigde; fiscale genieter van de uitkering ([onderdeel 4.5](https://wetten.overheid.nl/BWBR0039569));
+
+- – Ontbreken van een dubbele begunstiging voor kapitaalverzekering bij leven ([onderdeel 4.7](https://wetten.overheid.nl/BWBR0039569));
+
+- – Omzetting van vóór 1 januari 2001 bestaande kapitaalverzekering in KEW ([onderdelen AL tot en met AP van de Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354)) ([onderdeel 6](https://wetten.overheid.nl/BWBR0039569));
+
+- – Fiscale gevolgen van schikking Spaarbeleg Kas NV met Stichting Spaardersbelangen ([onderdeel 7.1](https://wetten.overheid.nl/BWBR0039569));
+
+- – Verhoging verzekerd kapitaal na 13 september 1999 als gevolg van verhoging maximum werknemersspaarregeling ([onderdeel 7.3](https://wetten.overheid.nl/BWBR0039569));
+
+- – Terugdraaien verhoging verzekerd kapitaal en verlenging looptijd na 13 september 1999 ([onderdeel 7.4](https://wetten.overheid.nl/BWBR0039569));
+
+- – Berekeningsmethode voor omzetting euroverzekeringen in unit-linkedverzekeringen ([onderdeel 7.5.3](https://wetten.overheid.nl/BWBR0039569));
+
+- – Afrondingen verzekerd kapitaal naar boven door invoering euro; geen verlies bijzondere waardevrijstelling in box 3 ([onderdeel 7.6](https://wetten.overheid.nl/BWBR0039569)).
+
+Voor bijvoorbeeld de goedkeuringen in [onderdeel 3.1.6](https://wetten.overheid.nl/BWBR0039569) en [3.1.7](https://wetten.overheid.nl/BWBR0039569) geldt dat het niet waarschijnlijk is dat ze nog relevantie hebben, mocht dat onverhoopt toch zo zijn dan kan het ingetrokken besluit (zie [onderdeel 7](https://wetten.overheid.nl/BWBR0050034)) nog worden toegepast.
 
 ### 1.2. Gebruikte begrippen en afkortingen
+
+| Afkortingen |  |
+| --- | --- |
+| BEW | Beleggingsrecht eigen woning |
+| KEW | Kapitaalverzekering eigen woning |
+| Invoeringswet | Invoeringswet Wet inkomstenbelasting 2001 |
+| SEW | Spaarrekening eigen woning |
+| Wet IB 1964 | Wet op de inkomstenbelasting 1964 |
+| Wet IB 2001 | Wet inkomstenbelasting 2001 |
+| Wft | Wet op het financieel toezicht |
+|  |  |
+| Begrippen |  |
+| Aanbieder | Verzekeraar, bank of beheerder van een beleggingsinstelling |
+| Brede Herwaarderings-kapitaalverzekering | Kapitaalverzekering vallend onder het regime van de Wet IB 1964 (1992 t/m 2000) |
+| Kapitaalsuitkering | Reguliere uitkering, afkoopsom of deblokkering van het tegoed |
+| KEW | KEW, SEW of BEW, tenzij anders vermeld |
+| Polis | Polis of overeenkomst |
+| Premie | Premie of overgemaakt bedrag |
+| Tot uitkering komen | Tot uitkering komen of deblokkeren |
+| Verzekeringnemer | Verzekeringnemer KEW, rekeninghouder SEW of eigenaar BEW |
+| Verzekeringsjaar | Verzekerings- of contractjaar |
 
 ### 1.3. Basis goedkeuringen
 
@@ -66,23 +113,29 @@ De goedkeuringen in dit besluit zijn gebaseerd op de hardheidsclausule van [arti
 
 ### 2.1. KEW-clausule voor kapitaalverzekeringen van vóór 1 oktober 2005
 
-Per 1 maart 2005 is in het toenmalige artikel 3.116 Wet IB 2001 het begrip ‘schulden die zijn aangegaan ter verwerving van de eigen woning’ vervangen door het begrip ‘eigenwoningschuld’. Ook is het begrip ’gemeenschappelijke huishouding’ vervangen door ’gezamenlijke huishouding’. Om de praktijk enkele maanden tijd te gunnen om deze aanpassing te verwerken, heb ik in het verleden een goedkeuring verleend. Omdat deze goedkeuring nog doorwerkt naar het huidige overgangsrecht neem ik die hieronder voor de volledigheid op. Voor kapitaalverzekeringen die zijn afgesloten vóór 1 oktober 2005 en waarvan de polissen niet zijn aangepast aan deze wettelijke begripswijzigingen, keur ik het volgende goed.
+Per 1 maart 2005 is in het toenmalige artikel 3.116 Wet IB 2001 het begrip ‘schulden die zijn aangegaan ter verwerving van de eigen woning’ vervangen door het begrip ‘eigenwoningschuld’. Ook is het begrip ’gemeenschappelijke huishouding’ vervangen door ’gezamenlijke huishouding’. Om de praktijk enkele maanden tijd te gunnen om deze aanpassing te verwerken, heb ik in het verleden een goedkeuring verleend. Omdat deze goedkeuring nog doorwerkt naar het huidige overgangsrecht neem ik die hieronder voor de volledigheid op. Voor kapitaalverzekeringen die zijn afgesloten vóór 1 oktober 2005 en waarvan de polissen niet zijn aangepast aan deze wettelijke begripswijzigingen, keur ik het volgende goed.
 
-Ik keur goed dat een kapitaalverzekering die is afgesloten vóór 1 oktober 2005 en die sinds het afsluiten voldeed aan de formele vereisten van het toenmalige artikel 3.116 Wet IB 2001 (tekst tot en met 28 februari 2005) geacht wordt te voldoen aan de voorwaarden van [artikel 10bis.4 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4).
+Goedkeuring
 
-Voor de volledigheid merk ik op dat deze goedkeuring enkel ziet op het niet hoeven aanpassen van de begrippen in de polis. Inhoudelijk is [artikel 10bis.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) ook volledig van toepassing op de kapitaalsuitkeringen die worden ontvangen ná 28 februari 2005.
+Ik keur goed dat een kapitaalverzekering die is afgesloten vóór 1 oktober 2005 en die sinds het afsluiten voldeed aan de formele vereisten van het toenmalige artikel 3.116 Wet IB 2001 (tekst tot en met 28 februari 2005) geacht wordt te voldoen aan de voorwaarden van [artikel 10bis.4 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4).
+
+Voor de volledigheid merk ik op dat deze goedkeuring enkel ziet op het niet hoeven aanpassen van de begrippen in de polis. Inhoudelijk is [artikel 10bis.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) ook volledig van toepassing op de kapitaalsuitkeringen die worden ontvangen ná 28 februari 2005.
 
 ### 2.2. Gedeeltelijke afkoop
 
 Eén van de voorwaarden die wordt gesteld aan een KEW is dat de verzekering recht geeft op een eenmalige uitkering bij leven of overlijden ([artikel 10bis.4, tweede lid, onderdeel c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.4)). Dit houdt in dat de verzekering in zijn geheel tot uitkering moet komen. Bij een gedeeltelijke uitkering wordt de verzekering geacht in zijn geheel tot uitkering te zijn gekomen.
 
-Het regime van de KEW tot 1 april 2017 kende een lage vrijstelling na 15 jaar jaarlijkse premiebetaling en een hoge vrijstelling na 20 jaar jaarlijkse premiebetaling. Onder dat regime was het mogelijk om een KEW na 15 jaren gedeeltelijk af te kopen met gebruikmaking van de lage vrijstelling en voor het overige verzekeringskapitaal het restant aan hoge vrijstelling na 20 jaren jaarlijkse premiebetaling te benutten.
+Het regime van de KEW tot 1 april 2017 kende een lage vrijstelling na 15 jaar jaarlijkse premiebetaling en een hoge vrijstelling na 20 jaar jaarlijkse premiebetaling. Onder dat regime was het mogelijk om een KEW na 15 jaren gedeeltelijk af te kopen met gebruikmaking van de lage vrijstelling en voor het overige verzekeringskapitaal het restant aan hoge vrijstelling na 20 jaren jaarlijkse premiebetaling te benutten.
 
-Er zijn verzekeringen waarbij het moment waarop de volgtijdelijke uitkeringen zullen plaatsvinden al vóór 1 april 2017 in de polis vastligt, maar waarvan beide uitkeringen na 1 april 2017 zullen plaatsvinden. Ik vind het ongewenst als het contract tussen verzekeringnemer en verzekeraar door de wetswijziging moet worden opengebroken en daarom keur ik het volgende goed.
+Er zijn verzekeringen waarbij het moment waarop de volgtijdelijke uitkeringen zullen plaatsvinden al vóór 1 april 2017 in de polis vastligt, maar waarvan beide uitkeringen na 1 april 2017 zullen plaatsvinden. Ik vind het ongewenst als het contract tussen verzekeringnemer en verzekeraar door de wetswijziging moet worden opengebroken en daarom keur ik het volgende goed.
 
-Ik keur onder de volgende voorwaarden goed dat beide uitkeringen na 1 april 2017 met gebruikmaking van de vrijstelling kunnen plaatsvinden.
+Goedkeuring
 
-Op 1 april 2017 was in de polis vastgelegd dat én op welk moment de volgtijdelijke uitkeringen plaatsvinden. Daarnaast moet aan de overige eisen voor het verkrijgen van de uitkeringsvrijstelling worden voldaan.
+Ik keur onder de volgende voorwaarden goed dat beide uitkeringen na 1 april 2017 met gebruikmaking van de vrijstelling kunnen plaatsvinden.
+
+Voorwaarden
+
+Op 1 april 2017 was in de polis vastgelegd dat én op welk moment de volgtijdelijke uitkeringen plaatsvinden. Daarnaast moet aan de overige eisen voor het verkrijgen van de uitkeringsvrijstelling worden voldaan.
 
 ### 2.3. SEW of BEW; Doorschuiven bij overlijden; redelijke termijn
 
@@ -120,9 +173,21 @@ Bij een KEW kan het percentage aan rendement gekoppeld zijn aan de rente van de 
 
 De KEW zou dan fictief tot uitkering komen en de uitkering uit een Brede Herwaarderingskapitaalverzekering zou niet meer vrijgesteld kunnen zijn in box 1. Dit vind ik ongewenst en daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat de KEW nog wordt geacht te voldoen aan de wettelijke bandbreedte-eis ondanks dat na een wijziging van de premie de hoogste premie meer dan het tienvoud van de laagste premie bedraagt. Het staat de verzekeringnemer hierbij vrij om te kiezen voor de voor hem optimale nieuwe rentevastperiode.
 
+Voorwaarden
+
 Ik stel hierbij de volgende vier voorwaarden:
+
+- – De wijziging van de premie heeft geen andere oorzaak dan dat de rente op de eigenwoningschuld is veranderd door (i) het aflopen van een rentevastperiode, (ii) het tussentijds openbreken van het contract om de rente aan te passen of (iii) het wijzigen van de rente als gevolg van een verhuizing;
+
+- – De bandbreedte vóór toepassing van de goedkeuring blijft bepalend, de gewijzigde premie wordt dus niet de maatstaf voor een nieuwe bandbreedte;
+
+- – Het gegarandeerde kapitaal wordt niet verhoogd en de looptijd van de KEW wordt niet verlengd; en
+
+- – De KEW voldoet aan de overige voorwaarden die de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aan de vrijstelling stelt. Voor een Brede Herwaarderingskapitaalverzekering geldt dat deze voldoet aan de overige voorwaarden die de [Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354) en de Wet IB 1964 aan de vrijstelling stellen.
 
 Voor KEW’s (dus ook voor Brede Herwaarderingskapitaalverzekeringen) waarbij de premie niet volledig is aangepast aan de wijziging van het rentepercentage op de eigenwoningschuld ter voorkoming van een overschrijding van de bandbreedte-eis, vindt mogelijk herstel plaats. Dit herstel bestaat erin dat de premie alsnog wordt aangepast aan het gewijzigde rentepercentage om daarmee het oorspronkelijk gegarandeerde kapitaal of het beoogde doelkapitaal te halen. Ook in die gevallen geldt dat het herstel fiscaal gezien niet leidt tot een overschrijding van de bandbreedte-eis.
 
@@ -132,11 +197,15 @@ Bij beëindiging van een (fiscaal) partnerschap kan een KEW, wat betreft overlij
 
 Ik vind het ongewenst dat in deze situaties het recht op de vrijstelling van de kapitaalsuitkering mogelijk verloren gaat. Ik keur daarom het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat in dergelijke situaties bijstelling van de totaalpremie van de KEW als gevolg van verlaging van de premies voor het overlijdensdeel op grond van de wijziging van de verzekerde persoon niet geldt als overschrijding van de bandbreedte.
 
 ### 3.1.3. Wijziging premies door sekseneutrale tarieven (geldt niet voor SEW’s en BEW’s)
 
-Met ingang van 21 december 2012 zijn aanbieders verplicht bij de vaststelling van premies uit te gaan van sekseneutrale tarieven. Ook voor bestaande KEW’s kan als gevolg daarvan de noodzaak ontstaan, bijvoorbeeld bij omzettingen, tot bijstelling van de premies. Als gevolg daarvan kan overschrijding van de bandbreedte plaatsvinden met ongewenste gevolgen. Ik vind het in deze situaties ongewenst dat het recht op de vrijstelling van de kapitaalsuitkering mogelijk verloren gaat. Daarom keur ik het volgende goed.
+Met ingang van 21 december 2012 zijn aanbieders verplicht bij de vaststelling van premies uit te gaan van sekseneutrale tarieven. Ook voor bestaande KEW’s kan als gevolg daarvan de noodzaak ontstaan, bijvoorbeeld bij omzettingen, tot bijstelling van de premies. Als gevolg daarvan kan overschrijding van de bandbreedte plaatsvinden met ongewenste gevolgen. Ik vind het in deze situaties ongewenst dat het recht op de vrijstelling van de kapitaalsuitkering mogelijk verloren gaat. Daarom keur ik het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat in dergelijke situaties bijstelling van de premies door het gaan hanteren van sekseneutrale tarieven niet tot overschrijding van de bandbreedte leidt.
 
@@ -147,6 +216,12 @@ Sommige verzekeringsmaatschappijen bieden verzekeringnemers de mogelijkheid om v
 Er is sprake van een reëel premiedepot als de verzekeringnemer ten opzichte van de aanbieder de beschikkingsmacht over de in depot gestorte gelden in voldoende mate blijft behouden.
 
 Ik acht het ongewenst als in de praktijk discussie ontstaat over de vraag of de verzekeringnemer voldoende beschikkingsmacht over het premiedepot heeft. Daarom neem ik het standpunt in dat premiedepots reële premiedepots zijn als geen voorwaarden worden gesteld of slechts één of meer van de volgende voorwaarden worden gesteld:
+
+- a. Voor opzegging van het premiedepot geldt een opzegtermijn van ten hoogste drie maanden;
+
+- b. De vergoeding die de verzekeraar bij opzegging vraagt voor administratiekosten mag geen te hoge drempel opwerpen voor opname van het depot. Een vergoeding van bijvoorbeeld 1% van de depotwaarde met een minimum van € 100 vormt geen te hoge drempel;
+
+- c. Bij opzegging in verband met wijziging van de rentestand kan een vergoeding in rekening worden gebracht. Deze mag niet hoger zijn dan het rentenadeel dat de financiële instelling lijdt.
 
 Als aan een premiedepot meer voorwaarden worden gesteld of voorwaarden die verder gaan dan de genoemde voorwaarden, staat niet op voorhand vast dat sprake is van een reëel premiedepot. Als het premiedepot geen reëel premiedepot is, is sprake van vooruitbetaalde premies of van een koopsomstorting. Dit betekent dat dan mogelijk niet aan de voorwaarden voor de KEW wordt voldaan zoals het jaarlijks betalen van premie of de bandbreedte-eis.
 
@@ -164,39 +239,67 @@ Het is ook mogelijk dat naast de contractueel verschuldigde premies, extra premi
 
 ### 3.4. Foutieve premiebetalingen
 
-In de praktijk komt het regelmatig voor dat verzekeringnemers, aanbieders of tussenpersonen fouten maken met de KEW waardoor een vrijstelling verloren gaat. In dergelijke gevallen is in het algemeen geen sprake van oneigenlijk gebruik. De gevolgen van een gemaakte fout op het punt van de premiebetaling zijn meestal ingrijpend voor de belanghebbende. Daarom geef ik in onderdeel 3.4.1 een goedkeuring waarmee foutieve premiebetalingen binnen zes maanden na afloop van een kalenderjaar kunnen worden hersteld. Veelal komen fouten echter pas later naar voren. Voor een veelvoorkomende fout geef ik in onderdeel 3.4.2. een aanvullende goedkeuring ten aanzien van de bandbreedte-eis.
+In de praktijk komt het regelmatig voor dat verzekeringnemers, aanbieders of tussenpersonen fouten maken met de KEW waardoor een vrijstelling verloren gaat. In dergelijke gevallen is in het algemeen geen sprake van oneigenlijk gebruik. De gevolgen van een gemaakte fout op het punt van de premiebetaling zijn meestal ingrijpend voor de belanghebbende. Daarom geef ik in [onderdeel 3.4.1](https://wetten.overheid.nl/BWBR0050034) een goedkeuring waarmee foutieve premiebetalingen binnen zes maanden na afloop van een kalenderjaar kunnen worden hersteld. Veelal komen fouten echter pas later naar voren. Voor een veelvoorkomende fout geef ik in [onderdeel 3.4.2.](https://wetten.overheid.nl/BWBR0050034) een aanvullende goedkeuring ten aanzien van de bandbreedte-eis.
 
 ### 3.4.1. Herstelmogelijkheid voor foutieve premiebetalingen
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarde goed dat de verzekeringnemer fouten, die zijn gemaakt bij de betaling van premies in een verzekeringsjaar, kan (laten) herstellen.
+
+Voorwaarde
 
 Het herstel vindt plaats binnen zes maanden na afloop van het verzekeringsjaar dat volgt op het einde van het verzekeringsjaar waarin de fout met de premiebetaling is gemaakt.
 
+Praktische invulling
+
 Als de verzekeringnemer geen of te weinig premies heeft betaald, bestaat het herstel erin dat hij alsnog (een deel van) de premies voldoet. Als de verzekeringnemer in het verzekeringsjaar een te hoge premie heeft betaald, kan de aanbieder in die situatie een (deel van een) premie terugstorten.
 
-Belanghebbende heeft een kapitaalverzekering met een verzekeringsjaar dat loopt van 1 mei tot en met 30 april. In het verzekeringsjaar 1 mei 2022 tot en met 30 april 2023 heeft hij € 1.000 te veel aan premie betaald gelet op de voor vrijstelling vereiste bandbreedte van de premies. Belanghebbende kan deze fout herstellen door de te veel betaalde premie uiterlijk 31 oktober 2024 (binnen zes maanden na afloop van het verzekeringsjaar 1 mei 2023 tot en met 30 april 2024) door de aanbieder terug te laten betalen. Deze terugbetaling kan ook plaatsvinden door met de aanbieder een verrekening met een nog verschuldigde premie overeen te komen.
+Voorbeeld
+
+Belanghebbende heeft een kapitaalverzekering met een verzekeringsjaar dat loopt van 1 mei tot en met 30 april. In het verzekeringsjaar 1 mei 2022 tot en met 30 april 2023 heeft hij € 1.000 te veel aan premie betaald gelet op de voor vrijstelling vereiste bandbreedte van de premies. Belanghebbende kan deze fout herstellen door de te veel betaalde premie uiterlijk 31 oktober 2024 (binnen zes maanden na afloop van het verzekeringsjaar 1 mei 2023 tot en met 30 april 2024) door de aanbieder terug te laten betalen. Deze terugbetaling kan ook plaatsvinden door met de aanbieder een verrekening met een nog verschuldigde premie overeen te komen.
 
 ### 3.4.2. Overschrijding bandbreedte door fouten met de premiebetaling bij een KEW
 
-Een veelvoorkomende fout houdt in dat abusievelijk in een verzekeringsjaar zowel een hoge premie (factor 10) als de reguliere jaarpremie (factor 1) is voldaan. In de voorgaande verzekeringsjaren is alleen de reguliere premie voldaan. Die reguliere premie bedraagt dan minder dan 1/10e van de totale premie die in het jaar met de hoge storting is voldaan. Deze fout komt over het algemeen pas vele jaren later naar voren. Daardoor bestaat geen mogelijkheid meer van fiscaal herstel op grond van de goedkeuring in onderdeel 3.4.1.
+Een veelvoorkomende fout houdt in dat abusievelijk in een verzekeringsjaar zowel een hoge premie (factor 10) als de reguliere jaarpremie (factor 1) is voldaan. In de voorgaande verzekeringsjaren is alleen de reguliere premie voldaan. Die reguliere premie bedraagt dan minder dan 1/10e van de totale premie die in het jaar met de hoge storting is voldaan. Deze fout komt over het algemeen pas vele jaren later naar voren. Daardoor bestaat geen mogelijkheid meer van fiscaal herstel op grond van de goedkeuring in [onderdeel 3.4.1](https://wetten.overheid.nl/BWBR0050034).
 
 Het gevolg is dat de KEW vanaf het jaar waarin de hoge storting is gedaan, niet meer voldoet aan de voorwaarden voor vrijstelling en in dat jaar fictief tot uitkering komt. De KEW ‘verhuist’ vervolgens naar box 3 en is daar belast. Als het een Brede Herwaarderingskapitaalverzekering betreft, is het gevolg dat de kapitaalsuitkering niet is vrijgesteld in box 1. Bij beide verzekeringen kan de aflossing van een in samenhang met de verzekering aangegane eigenwoningschuld problematisch worden. Dit vind ik ongewenst en daarom keur ik het volgende goed.
+
+Goedkeuring
 
 Ik keur onder de volgende voorwaarden goed dat een fout die is gemaakt bij de hoogte van de premiebetalingen niet tot gevolg heeft dat de KEW niet aan de wettelijke bandbreedte-eis voldoet. Verzekeraars en financiële instellingen mogen hiervan uitgaan zonder een verklaring van de inspecteur.
 
 Ik keur in dit verband ook goed dat [artikel 45aa, onderdeel c, van de Uitvoeringsregeling inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=45aa) niet van toepassing is, als de belastingplichtige verzoekt om ambtshalve vermindering van de aanslag waarin de fiscale gevolgen van de fout zijn opgenomen.
 
+Voorwaarden
+
 Ik stel hierbij de volgende drie voorwaarden:
+
+- – Uit de overeenkomst blijkt dat bedoeld is te voldoen aan de bandbreedte-eis;
+
+- – De overschrijding betreft een incident en de totale premie die in het jaar met de hoge storting is voldaan, bedraagt niet meer dan het elfvoud van de laagste premie die voldaan is in één van de voorgaande verzekeringsjaren; en
+
+- – De KEW voldoet aan de overige voorwaarden die de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) aan de vrijstelling stelt. Voor een Brede Herwaarderingskapitaalverzekering geldt dat deze voldoet aan de overige voorwaarden die de [Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354) en de Wet IB 1964 aan de vrijstelling stellen.
 
 ### 4. Vrijstellingen
 
 ### 4.1. Verkorte premieduur en KEW-vrijstelling
 
-Om van de uitkeringsvrijstelling gebruik te kunnen maken, moet de belastingplichtige jaarlijks premies betalen en aan de bandbreedte-eis voldoen ([artikel 10bis.6, eerste lid, onderdelen b en c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)). Tot 1 april 2017 was voldoende dat ten minste 15 jaren jaarlijks premie was voldaan. Vóór die datum zijn verzekeringen aangegaan waarbij het in lijn met die eis mogelijk was om bijvoorbeeld 15 jaar premies te betalen en daarna de polis premievrij te maken. Per 1 april 2017 is een wetswijziging ingegaan waardoor het na 15 jaar stoppen met premiebetaling zou betekenen dat de betreffende KEW fictief tot uitkering komt of de betreffende Brede Herwaarderingskapitaalverzekering niet vrijgesteld meer kan zijn in box 1. Deze gevolgen vind ik ongewenst en daarom keur ik voor die verzekeringen het volgende goed.
+Om van de uitkeringsvrijstelling gebruik te kunnen maken, moet de belastingplichtige jaarlijks premies betalen en aan de bandbreedte-eis voldoen ([artikel 10bis.6, eerste lid, onderdelen b en c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)). Tot 1 april 2017 was voldoende dat ten minste 15 jaren jaarlijks premie was voldaan. Vóór die datum zijn verzekeringen aangegaan waarbij het in lijn met die eis mogelijk was om bijvoorbeeld 15 jaar premies te betalen en daarna de polis premievrij te maken. Per 1 april 2017 is een wetswijziging ingegaan waardoor het na 15 jaar stoppen met premiebetaling zou betekenen dat de betreffende KEW fictief tot uitkering komt of de betreffende Brede Herwaarderingskapitaalverzekering niet vrijgesteld meer kan zijn in box 1. Deze gevolgen vind ik ongewenst en daarom keur ik voor die verzekeringen het volgende goed.
+
+Goedkeuring
 
 Ik keur onder de volgende voorwaarden goed dat de verzekeringnemer geacht wordt te hebben voldaan aan de voorwaarde dat hij gedurende de hele looptijd van de verzekering jaarlijks premie heeft betaald.
 
+Voorwaarden
+
 Ik stel hierbij de volgende drie voorwaarden:
+
+- – Bij het aangaan van de polis is al voorzien in de mogelijkheid van een verkorte premieduur voor de verzekering van ten minste 15 jaar;
+
+- – De verzekeringnemer betaalt of betaalde ook daadwerkelijk ten minste 15 jaar premies; en
+
+- – Aan de overige wettelijke eisen voor de vrijstelling wordt voldaan. Voor een KEW gaat het om de eisen van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en voor de Brede Herwaarderingskapitaalverzekering om de eisen van de [Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354) en de Wet IB 1964.
 
 Deze goedkeuring brengt met zich dat het niet daadwerkelijk betalen van premies ná de periode van 15 jaar (een zogenoemde premievakantie), geen strijd oplevert met de bandbreedte-eis van [artikel 10bis.6, eerste lid, onderdeel c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6).
 
@@ -212,11 +315,15 @@ Bij deblokkering van een SEW of BEW kan de uitkeringsvrijstelling worden toegepa
 
 Een beleggingsrekening is standaard bij een BEW en kan onderdeel uitmaken van een SEW. De vraag is wat het effect op de eis van [artikel 10bis.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7), juncto [artikel 10bis.6, eerste lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) is van waardedalingen van de beleggingen ná het tijdstip van overlijden. Een redelijke wetstoepassing brengt met zich dat de vrijstelling in dat geval van toepassing blijft op het tegoed dat wordt gebruikt voor aflossing van de eigenwoningschuld. Als daarnaast uit andere middelen het verschil -tussen de waarde op het tijdstip onmiddellijk voorafgaand aan het overlijden en het uitgekeerde tegoed- wordt afgelost, geldt ook voor dat bedrag de vrijstelling. Dit zou in beginsel betekenen dat de vrijstelling niet van toepassing is.
 
+Standpunt
+
 Een redelijke wetstoepassing brengt mee dat de vrijstelling in deze situatie niet voor een deel verloren behoeft te gaan. De vrijstelling blijft in ieder geval van toepassing op het tegoed dat wordt gebruikt voor aflossing van de eigenwoningschuld. Als voorts het voor aflossing ontbrekende bedrag – als gevolg van de waardedaling – uit andere middelen wordt aangevuld is in zoverre ook de vrijstelling van toepassing. Op deze wijze wordt in totaal alsnog een bedrag ter grootte van het op overlijdensdatum aanwezige tegoed voor de aflossing van de eigenwoningschuld gebruikt en is vrijgesteld.
 
-Op het tijdstip van overlijden bedraagt de waarde van het SEW tegoed € 100.000. Als twee maanden later de eigenwoningschuld wordt afgelost, is het tegoed als gevolg van koersdalingen nog maar € 95.000 waard. De belastingplichtige heeft nog niet eerder van de vrijstelling gebruik gemaakt.
+Voorbeeld
 
-De vrijstelling is in ieder geval van toepassing op € 95.000 als daarmee de eigenwoningschuld wordt afgelost. Het rentebestanddeel in de ontbrekende € 5.000 is in beginsel belast. De belastingplichtige kan desgewenst € 5.000 aflossen uit andere middelen als gevolg waarvan € 100.000 is vrijgesteld. Als het tegoed van de SEW door koersstijgingen hoger wordt dan het tegoed op het tijdstip van overlijden, dan blijft de vrijstelling op het tegoed van € 100.000 van toepassing. Het hogere bedrag hoeft niet te worden aangewend voor de aflossing van de eigenwoningschuld, maar het rentbestanddeel in het hogere bedrag is wel belast en behoort tot box 3.
+Op het tijdstip van overlijden bedraagt de waarde van het SEW tegoed € 100.000. Als twee maanden later de eigenwoningschuld wordt afgelost, is het tegoed als gevolg van koersdalingen nog maar € 95.000 waard. De belastingplichtige heeft nog niet eerder van de vrijstelling gebruik gemaakt.
+
+De vrijstelling is in ieder geval van toepassing op € 95.000 als daarmee de eigenwoningschuld wordt afgelost. Het rentebestanddeel in de ontbrekende € 5.000 is in beginsel belast. De belastingplichtige kan desgewenst € 5.000 aflossen uit andere middelen als gevolg waarvan € 100.000 is vrijgesteld. Als het tegoed van de SEW door koersstijgingen hoger wordt dan het tegoed op het tijdstip van overlijden, dan blijft de vrijstelling op het tegoed van € 100.000 van toepassing. Het hogere bedrag hoeft niet te worden aangewend voor de aflossing van de eigenwoningschuld, maar het rentbestanddeel in het hogere bedrag is wel belast en behoort tot box 3.
 
 ### 4.4. Aflossing voormalige eigenwoningschuld na het verstrijken van de maximale periode van renteaftrek
 
@@ -224,7 +331,11 @@ Als een eigenwoningschuld na de maximale periode van renteaftrek nog niet volled
 
 De wetgever heeft niet beoogd de uitkeringsvrijstelling van de KEW buiten toepassing te laten als met die KEW een schuld wordt afgelost, die uitsluitend door het verstrijken van de maximale periode van renteaftrek naar box 3 is verhuisd. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat aan de eis van [artikel 10bis.6, eerste lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) wordt voldaan als met de KEW-uitkering een voormalige eigenwoningschuld wordt afgelost die alleen door het verstrijken van de maximale periode van renteaftrek naar box 3 is verhuisd.
+
+Voorbeeld
 
 A koopt in 2003 een woning. A financiert de aankoop van die woning met een aflossingsvrije lening. In 2012 sluit A een KEW af met een looptijd van 30 jaar. De rente voor de eigenwoningschuld is maximaal 30 jaar aftrekbaar en eindigt dus in 2033. Als A de aflossingsvrije lening in 2033 niet aflost, verhuist deze naar box 3. In 2042 komt de KEW tot uitkering, waarmee A de aflossingsvrije lening aflost die is aangegaan voor de voormalige eigen woning die alleen door het verstrijken van de maximale periode van renteaftrek naar box 3 is verhuisd. In deze situatie wordt aan de eis van [artikel 10bis.6, eerste lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6) voldaan. Als ook aan de overige voorwaarden wordt voldaan (zoals de jaarlijkse premiebetaling en de bandbreedte), is de uitkeringsvrijstelling van toepassing.
 
@@ -236,29 +347,53 @@ De uitkeringsvrijstelling is van toepassing als de uitkering uit een KEW heeft g
 
 Het gebeurt in de praktijk regelmatig dat de eigenwoningschuld direct wordt afgelost met de opbrengst van de verkoop van de eigen woning en dat enige tijd daarna pas de KEW tot uitkering komt, als de verzekeringnemer of zijn partner een nieuwe eigen woning heeft. De verkoopopbrengst leidt tot aflossing van de eigenwoningschuld, waardoor geen recht meer bestaat op de uitkeringsvrijstelling ([artikel 10bis.6, eerste lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)). Dit vind ik ongewenst als er een direct verband bestaat tussen de verkoop van de eigen woning, het vrijkomen van het kapitaal en de aflossing van de eigenwoningschuld. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur in deze situatie onder de volgende voorwaarden goed dat de uitkering wordt geacht voorafgaand aan de verkoop van de eigen woning plaats te vinden en zoveel als mogelijk te zijn gebruikt voor de aflossing van de eigenwoningschuld.
+
+Voorwaarden
 
 Voor deze goedkeuring gelden de volgende twee voorwaarden:
 
+- – De uitkering uit de KEW vindt plaats binnen een redelijke termijn na het tijdstip waarop de eigenwoningschuld is afgelost. In dit verband vind ik een termijn van zes maanden na het tijdstip waarop de eigenwoningschuld is afgelost een redelijke termijn. Als de belastingplichtige bij overschrijding van die termijn bij de inspecteur aannemelijk maakt dat de overschrijding niet aan hem is te wijten, is een langere termijn aanvaardbaar; en
+
+- – Er wordt aan de overige voorwaarden van de uitkeringsvrijstelling ([artikel 10bis.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)) voldaan. Dit betekent onder andere dat in de situaties waarin de uitkering uit de KEW groter is dan de eigenwoningschuld, de uitkeringsvrijstelling niet geldt voor het meerdere.
+
+Gevolg goedkeuring
+
 Als de goedkeuring wordt toegepast heeft dit tot gevolg dat het vervreemdingssaldo eigen woning en de eigenwoningreserve achteraf herrekend moeten worden. Ik licht dit toe met een voorbeeld.
 
-A heeft een eigenwoningschuld van € 200.000 en een KEW van € 60.000. Hij koopt op 1 juni 2023 een nieuwe eigen woning voor € 250.000. Zijn oude eigen woning verkoopt hij op 1 augustus 2023 voor € 200.000 en hij koopt in verband daarmee zijn KEW af. Met de verkoopopbrengst lost hij volledig zijn eigenwoningschuld op zijn oude woning af. Een maand later komt zijn KEW van € 60.000 feitelijk tot uitkering. In deze situatie kan de goedkeuring worden toegepast, waardoor de uitkering geacht wordt te zijn gebruikt om de eigenwoningschuld van de oude woning af te lossen. Dit heeft tot gevolg dat het vervreemdingssaldo eigen woning van A achteraf moet worden herrekend tot € 60.000. Het vervreemdingssaldo eigen woning wordt toegevoegd aan de eigenwoningreserve. Dit betekent dat de maximale eigenwoningschuld wordt herrekend tot € 190.000 (€ 250.000 minus € 60.000).1Artikel 3.119f, derde lid, Wet IB 2001
+Voorbeeld
 
-Het is mogelijk dat in deze situatie de verkoopopbrengst niet voldoende is om de gehele eigenwoningschuld af te lossen, stel dat A de oude eigen woning heeft verkocht voor € 180.000. A zal de restschuld van € 20.000 zoveel mogelijk moeten aflossen met de latere, feitelijke uitkering uit de KEW. Doet hij dat niet, dan heeft A in het geheel geen recht op de uitkeringsvrijstelling
+A heeft een eigenwoningschuld van € 200.000 en een KEW van € 60.000. Hij koopt op 1 juni 2023 een nieuwe eigen woning voor € 250.000. Zijn oude eigen woning verkoopt hij op 1 augustus 2023 voor € 200.000 en hij koopt in verband daarmee zijn KEW af. Met de verkoopopbrengst lost hij volledig zijn eigenwoningschuld op zijn oude woning af. Een maand later komt zijn KEW van € 60.000 feitelijk tot uitkering. In deze situatie kan de goedkeuring worden toegepast, waardoor de uitkering geacht wordt te zijn gebruikt om de eigenwoningschuld van de oude woning af te lossen. Dit heeft tot gevolg dat het vervreemdingssaldo eigen woning van A achteraf moet worden herrekend tot € 60.000. Het vervreemdingssaldo eigen woning wordt toegevoegd aan de eigenwoningreserve. Dit betekent dat de maximale eigenwoningschuld wordt herrekend tot € 190.000 (€ 250.000 minus € 60.000).1Artikel 3.119f, derde lid, Wet IB 2001
+
+Het is mogelijk dat in deze situatie de verkoopopbrengst niet voldoende is om de gehele eigenwoningschuld af te lossen, stel dat A de oude eigen woning heeft verkocht voor € 180.000. A zal de restschuld van € 20.000 zoveel mogelijk moeten aflossen met de latere, feitelijke uitkering uit de KEW. Doet hij dat niet, dan heeft A in het geheel geen recht op de uitkeringsvrijstelling
 
 ### 4.5.2. Aanbieder KEW stelt als voorwaarde dat eigenwoningschuld moet zijn afgelost voordat KEW tot uitkering komt
 
 Een belastingplichtige wil zijn eigenwoningschuld aflossen met de KEW. De aanbieder geeft enkel de mogelijkheid tot uitkering van de KEW nadat de eigenwoningschuld is afgelost. De belastingplichtige lost zijn eigenwoningschuld daarom eerst af uit eigen middelen, waardoor geen recht bestaat op de uitkeringsvrijstelling ([artikel 10bis.6, eerste lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)). Dit vind ik ongewenst omdat het in deze situatie buiten de invloedsfeer van de belastingplichtige ligt dat hij geen gebruik kan maken van de uitkeringsvrijstelling. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 In deze situatie keur ik onder de volgende voorwaarden goed dat de uitkering wordt geacht plaats te vinden voorafgaand aan de aflossing van de eigenwoningschuld met de eigen middelen en zoveel als mogelijk te zijn gebruikt voor de aflossing van de eigenwoningschuld.
+
+Voorwaarden
 
 Voor deze goedkeuring gelden de volgende drie voorwaarden:
 
+- – De belastingplichtige kan aannemelijk maken dat de aanbieder enkel de mogelijkheid geeft tot uitkering van de KEW als de eigenwoningschuld is afgelost;
+
+- – De uitkering uit de KEW vindt plaats binnen een redelijke termijn na het tijdstip waarop de eigenwoningschuld is afgelost. In dit verband vind ik een termijn van zes maanden na het tijdstip waarop de eigenwoningschuld is afgelost een redelijke termijn. Als de belastingplichtige bij overschrijding van die termijn bij de inspecteur aannemelijk maakt dat de overschrijding niet aan hem is te wijten, is een langere termijn aanvaardbaar; en
+
+- – Er wordt aan de overige voorwaarden van de uitkeringsvrijstelling ([artikel 10bis.6 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)) voldaan. Dit betekent onder andere dat in de situaties waarin de uitkering uit de KEW groter is dan de eigenwoningschuld, de uitkeringsvrijstelling niet geldt voor het meerdere.
+
 ### 4.6. SEW/BEW en de voorwaarde van het bestaan van een eigenwoningschuld
 
-In [artikel 10bis.5, tweede lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) is als voorwaarde voor een SEW opgenomen dat de rekeninghouder of zijn partner een eigenwoningschuld heeft. In artikel 10bis.5, derde lid, onderdeel a, Wet IB 2001 is dezelfde voorwaarde voor de eigenaar van een BEW of zijn partner opgenomen. Voor een KEW geldt de voorwaarde van het hebben van een eigenwoningschuld niet voor de verzekeringnemer of zijn partner. In de parlementaire geschiedenis is aandacht besteed aan dit verschil op het moment van afsluiten van deze producten. Dit verschil was niet bewust gecreëerd. Mede gelet op het feit dat de KEW – net als de SEW – uitsluitend mag worden benut voor de aflossing van een eigenwoningschuld, leek dit met name een theoretisch verschil (Kamerstukken I 2007/08, 30 432, C, p. 4). Het is niet meer mogelijk om een nieuwe SEW/BEW af te sluiten. In de parlementaire behandeling is niet voorzien dat in voorkomende gevallen na het afsluiten van een SEW/BEW tijdelijk geen eigenwoningschuld aanwezig is.
+In [artikel 10bis.5, tweede lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) is als voorwaarde voor een SEW opgenomen dat de rekeninghouder of zijn partner een eigenwoningschuld heeft. In artikel 10bis.5, derde lid, onderdeel a, Wet IB 2001 is dezelfde voorwaarde voor de eigenaar van een BEW of zijn partner opgenomen. Voor een KEW geldt de voorwaarde van het hebben van een eigenwoningschuld niet voor de verzekeringnemer of zijn partner. In de parlementaire geschiedenis is aandacht besteed aan dit verschil op het moment van afsluiten van deze producten. Dit verschil was niet bewust gecreëerd. Mede gelet op het feit dat de KEW – net als de SEW – uitsluitend mag worden benut voor de aflossing van een eigenwoningschuld, leek dit met name een theoretisch verschil (Kamerstukken I 2007/08, 30 432, C, p. 4). Het is niet meer mogelijk om een nieuwe SEW/BEW af te sluiten. In de parlementaire behandeling is niet voorzien dat in voorkomende gevallen na het afsluiten van een SEW/BEW tijdelijk geen eigenwoningschuld aanwezig is.
 
 Een strikte toepassing van de voorwaarde blijkt in de praktijk niet goed houdbaar in de uitzonderlijke situatie dat tijdelijk geen eigenwoningschuld aanwezig is. Deze voorwaarde leidt dan tot het niet meer voldoen aan de voorwaarden van de SEW/BEW wat tot gevolg kan hebben dat de SEW/BEW fictief tot uitkering komt, waarbij moet worden afgerekend over het rentebestanddeel daar waar dit niet het geval zou zijn geweest bij een KEW. De strikte toepassing kan er ook toe leiden dat geen gebruik kan worden gemaakt van de verhuisregeling, terwijl deze wel van toepassing zou zijn bij een KEW. Dit acht ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat de SEW/BEW tijdens de looptijd niet hoeft te voldoen aan de voorwaarde dat de rekeninghouder/eigenaar van het beleggingsrecht of zijn partner een eigenwoningschuld heeft. Voor de volledigheid merk ik op dat de andere voorwaarden van [artikel 10bis.5 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) onverkort blijven gelden.
 
@@ -266,7 +401,11 @@ Als de definitieve aanslag over een belastingjaar onherroepelijk vaststaat, geld
 
 Hierna volgen twee voorbeelden ter toelichting op de goedkeuring.
 
+Voorbeeld 1
+
 Een belastingplichtige heeft een BEW. Hij lost zijn eigenwoningschuld met eigen middelen af. Door de goedkeuring leidt dit niet tot een fictieve deblokkering van de BEW. Op een later moment gaat de belastingplichtige een nieuwe eigenwoningschuld aan, voor bijvoorbeeld aankoop, verbetering of onderhoud van de eigen woning. Aan het einde van de looptijd van de BEW gebruikt de belastingplichtige het tegoed van de BEW volledig om zijn (nieuwe) eigenwoningschuld af te lossen. Hierdoor kan hij gebruikmaken van de uitkeringsvrijstelling.
+
+Voorbeeld 2
 
 Een belastingplichtige heeft een SEW. Hij verkoopt zijn eigen woning en lost de eigenwoningschuld met eigen middelen af. Dit leidt tot een fictieve deblokkering, waarop mogelijk de uitkeringsvrijstelling van toepassing is ([artikel 10bis.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.7), juncto [artikel 10bis.6, eerste en tweede lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.6)). De SEW verhuist als spaarrekening naar box 3. Binnen de termijn voor de verhuisregeling ([artikel 10bis.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.2b), juncto [artikel 10bis.2, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.2)) heeft de belastingplichtige een nieuwe eigen woning, bijvoorbeeld als sprake is van een woning in aanbouw ([artikel 3.111, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). De belastingplichtige heeft echter binnen de termijn van de verhuisregeling nog geen eigenwoningschuld. Door de goedkeuring herleeft de spaarrekening als SEW, ook als er op dat moment nog geen nieuwe eigenwoningschuld is.
 
@@ -282,11 +421,15 @@ In de praktijk komt het voor dat één KEW fiscaal geruisloos in twee soortgelij
 
 Als de omzetting heeft plaatsgevonden in het kader van de beëindiging van een fiscaal partnerschap vind ik deze verbondenheid en onderlinge afhankelijkheid van de nieuwe producten ongewenst. Want als één van de ex-partners zich ten aanzien van zijn deel niet houdt of kan houden aan de voorwaarden voor een KEW heeft dit tot gevolg dat ook het deel van de andere ex-partner niet meer kan delen in de vrijstelling. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Na de vaststelling van de premies van beide nieuwe KEW’s zoals hiervoor beschreven, hebben handelingen met het gedeelte van de KEW van de ex-partner geen fiscale gevolgen voor het gedeelte van de KEW van de andere ex-partner.
 
 ### 5.2. Omzettingskapitaal niet rechtstreeks gestort naar nieuwe aanbieder
 
 Een KEW kan worden omgezet in een KEW bij een andere aanbieder. Met het oog op de omzetting wordt soms de waarde van de eerste verzekering geboekt op een derdenrekening van een notaris die de belastingplichtige heeft aangewezen. De notaris maakt vervolgens de waarde over aan de nieuwe aanbieder. In de nieuwe polis is opgenomen dat deze een voortzetting is van de polis bij de eerste aanbieder. Hierbij is de gehele waarde van de beëindigde KEW ingebracht in het nieuwe product.
+
+Standpunt
 
 In deze situatie is de gehele overdrachtswaarde door de notaris ontvangen met het oog op doorstorting aan de aanbieder waarbij de belastingplichtige het product wenst voort te zetten. De waarde van de verzekering is niet aan de belastingplichtige zelf ter beschikking gesteld. Het tweede product wordt dan aangemerkt als een voortzetting van de KEW. Deze omzetting kan fiscaal geruisloos verlopen.
 
@@ -298,13 +441,13 @@ Bij omzetting van een KEW in een SEW gaan de relevante bedragen voor de bandbree
 
 Voor de vaststelling of bij de omzetting van een KEW in een SEW het overgangsrecht van [hoofdstuk 10bis Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=10bis) behouden blijft, geldt dat de overeengekomen totaalpremies van de KEW mogen worden vergeleken met de in totaal overeen te komen inleg op de SEW.
 
-### 6. Vóór 2001 bestaande kapitaalverzekeringen die niet zijn omgezet in een KEW ([onderdelen AL tot en met AP Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354))
+### 6. Vóór 2001 bestaande kapitaalverzekeringen die niet zijn omgezet in een KEW (onderdelen AL tot en met AP Invoeringswet)
 
 ### 6.1. Verhoging verzekerd kapitaal na 13 september 1999 op grond van optieclausule
 
-Voor op 14 september 1999 bestaande kapitaalverzekeringen geldt een bijzondere waardevrijstelling in box 3 van in totaal € 123.428 ([onderdeel AN, eerste lid, Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354)). De vrijstelling geldt uitsluitend als aan de voorwaarden van het vierde lid is voldaan waaronder de eis dat het verzekerd kapitaal daarvan na 13 september 1999 niet is verhoogd ([onderdeel AN, vierde lid, onderdeel a, Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354)). Er zijn verzekeringsovereenkomsten waarvan het verzekerd kapitaal is verhoogd of nog kan worden verhoogd op grond van een indexclausule of optieclausule.
+Voor op 14 september 1999 bestaande kapitaalverzekeringen geldt een bijzondere waardevrijstelling in box 3 van in totaal € 123.428 ([onderdeel AN, eerste lid, Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354)). De vrijstelling geldt uitsluitend als aan de voorwaarden van het vierde lid is voldaan waaronder de eis dat het verzekerd kapitaal daarvan na 13 september 1999 niet is verhoogd ([onderdeel AN, vierde lid, onderdeel a, Invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011354)). Er zijn verzekeringsovereenkomsten waarvan het verzekerd kapitaal is verhoogd of nog kan worden verhoogd op grond van een indexclausule of optieclausule.
 
-De bepaling over de verhoging van het verzekerde kapitaal moet zoveel mogelijk worden toegepast in overeenstemming met artikel 76 Wet IB 1964, zoals die bepaling luidde op 31 december 2000. Dit betekent onder meer dat verhogingen op grond van indexclausules of ‘normale en gebruikelijke’ optieclausules niet leiden tot het verlies van de vrijstelling in box 3. Voorwaarde hierbij is dat die clausules al vóór 14 september 1999 deel uitmaakten van de overeenkomst.
+De bepaling over de verhoging van het verzekerde kapitaal moet zoveel mogelijk worden toegepast in overeenstemming met artikel 76 Wet IB 1964, zoals die bepaling luidde op 31 december 2000. Dit betekent onder meer dat verhogingen op grond van indexclausules of ‘normale en gebruikelijke’ optieclausules niet leiden tot het verlies van de vrijstelling in box 3. Voorwaarde hierbij is dat die clausules al vóór 14 september 1999 deel uitmaakten van de overeenkomst.
 
 ### 6.2. Omzetting gemengde kapitaalverzekeringen; behoud eerbiedigende werking
 
@@ -314,9 +457,21 @@ Bij wijzigingen en omzettingen van gemengde kapitaalverzekeringen vinden om uite
 
 Het komt echter ook voor dat het verzekerd kapitaal óf de premie voor de uitkering bij overlijden wordt verlaagd. Als daarbij de totaal overeengekomen en betaalde premies (de totaalpremies) gelijk blijven, wordt een groter deel van die premies aangewend voor de uitkering bij leven. Het gevolg hiervan kan zijn dat voor het verzekerde deel bij leven de eerbiedigende werking verloren gaat. In dat geval vind ik het verlagen van de totaalpremies onnodig omdat dit ertoe kan leiden dat niet langer wordt voldaan aan de bandbreedte-eis. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat bij wijziging of omzetting van een gemengde kapitaalverzekering het overgangsrecht van toepassing blijft als de fiscaal relevante totaalpremies op jaarbasis niet zijn verhoogd.
 
+Voorwaarden
+
 Ik stel hierbij de volgende vier voorwaarden:
+
+- – Er vindt bij de wijziging of omzetting geen verlenging van de premiebetalende periode plaats;
+
+- – Er vindt bij de wijziging of omzetting geen verlenging van de looptijd van de verzekering plaats;
+
+- – Er vindt geen wijziging plaats van het verzekerd lijf, tenzij dit gebeurt in het kader van beëindiging van (fiscaal) partnerschap; en
+
+- – Een nieuw verzekerd risico bij overlijden is qua hoogte een normale en gebruikelijke verzekerde uitkering bij overlijden. Het is niet mogelijk de overlijdensdekking te laten vervallen. Als er twee verzekerde lijven zijn, is het wel mogelijk om één verzekerd lijf te laten vervallen.
 
 Van een normale en gebruikelijke verzekerde uitkering bij overlijden is bijvoorbeeld sprake bij een omzetting in een gemengde universal life verzekering (een verzekering die uitkeert bij in leven zijn op een bepaalde datum of bij eerder overlijden) waarbij in geval van overlijden 90% of 110% van de waarde van de units (beleggingen) wordt uitgekeerd.
 
@@ -330,13 +485,21 @@ Als echter geen gemeenschap van goederen bestaat, kan het ook gewenst zijn dat e
 
 De situaties waarbij een verplichting bestaat om bij echtscheiding of scheiding van tafel en bed de waarde van een kapitaalverzekering te verrekenen, komen in grote mate overeen met de situaties waarin een gemeenschap van goederen bestaat. Daarom keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat in dergelijke situaties de verdeling geacht kan worden te hebben plaatsgevonden alsof er sprake is van het bestaan van een gemeenschap.
+
+Voorwaarden
 
 Ik verbind aan deze goedkeuring de volgende twee voorwaarden.
 
+- – Beide (ex-) echtgenoten moeten een gezamenlijk verzoek doen aan de aanbieder om de kapitaalverzekering te wijzigen; en
+
+- – In het verzoek aan de aanbieder moeten zij opnemen dat zij met overeenkomstige toepassing van artikel 26b Wet IB 1964 de kapitaalverzekering willen toerekenen dan wel splitsen. Ze moeten ook omschrijven wat de aard van de gezamenlijke gerechtigheid of de aard van de verrekeningsverplichting is.
+
 ### 7. Ingetrokken regelingen
 
-Het [besluit van 15 mei 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039569), nr. 2017-81019 (Stcrt. 2017, 28246), laatstelijk gewijzigd bij besluit van 16 maart 2023, nr. 2023-27660 (Stcrt. 2023, 8905) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het [besluit van 15 mei 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039569), nr. 2017-81019 (Stcrt. 2017, 28246), laatstelijk gewijzigd bij besluit van 16 maart 2023, nr. 2023-27660 (Stcrt. 2023, 8905) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 8. Tijdstip van inwerkingtreding van het besluit
 
@@ -345,5 +508,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ### 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Verzamelbesluit kapitaalverzekeringen, SEW en BEW.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

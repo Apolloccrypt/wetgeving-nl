@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 juni 2024, kenmerk 3861814-1067971-MEVA, houdende de instelling van een adviescommissie voor de uitvoering van de Stimuleringsregeling Technologie in Ondersteuning en Zorg (Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg)"
+citeertitel: "Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg"
 identifier: "BWBR0049888"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-30"
-last_updated: "2024-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049888"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "17148463"
-version_id: "30182322"
-internal_id: "C43244251"
-label_id: "17056794"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049888/2024-11-30/0"
-intitule_bron: "Stcrt.2024-21059"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-24"
-intitule_published: "2024-06-28"
-intitule_in_force: "2024-06-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21059"
-original_signed_date: "2024-06-24"
-original_published_date: "2024-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21059"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049888&z=2024-11-30&g=2024-11-30"
-jci_1_0: "1.0:c:BWBR0049888&g=2024-11-30"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg"
-signed_date: "2024-06-24"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-11-30
+status: geldig
+toestand: 2024-11-30
+bron: "https://wetten.overheid.nl/BWBR0049888"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 24 juni 2024, kenmerk 3861814-1067971-MEVA, houdende de instelling van een adviescommissie voor de uitvoering van de Stimuleringsregeling Technologie in Ondersteuning en Zorg (Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=3) en [4 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **commissie:** adviescommissie STOZ, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049888&artikel=2&z=2024-11-30&g=2024-11-30);
+- *commissie:* adviescommissie STOZ, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049888&artikel=2&z=2024-11-30&g=2024-11-30);
 
-- **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- **ministerie:** Ministerie van Volksgezondheid, Welzijn en Sport.
+- *ministerie:* Ministerie van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een adviescommissie STOZ.
 
-2. De commissie heeft tot taak de minister te adviseren over aanvragen op grond van de [Stimuleringsregeling Technologie in Ondersteuning en Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049581) tot verlening van subsidie boven € 125.000 op basis van de beoordelingscriteria, bedoeld in de [bijlage van de Stimuleringsregeling Technologie in Ondersteuning en Zorg](onbekend).
+2. De commissie heeft tot taak de minister te adviseren over aanvragen op grond van de [Stimuleringsregeling Technologie in Ondersteuning en Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049581) tot verlening van subsidie boven € 125.000 op basis van de beoordelingscriteria, bedoeld in de [bijlage van de Stimuleringsregeling Technologie in Ondersteuning en Zorg](https://wetten.overheid.nl/BWBR0049581).
 
 ##### Artikel 3. Leden
 
@@ -74,7 +48,7 @@ De commissie bestaat uit een voorzitter en ten hoogste 15 andere leden. In het B
 
 ##### Artikel 5. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 juli 2024 en wordt opgeheven per 1 januari 2027.
+De commissie wordt ingesteld met ingang van 1 juli 2024 en wordt opgeheven per 1 januari 2027.
 
 ##### Artikel 6. Secretariaat
 
@@ -98,9 +72,9 @@ De commissie wordt ingesteld met ingang van 1 juli 2024 en wordt opgeheven per 1
 
 1. De voorzitter en de andere leden van de commissie ontvangen een vergoeding per vergadering overeenkomstig [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2).
 
-2. De voorzitter ontvangt een vergoeding per vergadering van € 468,82.
+2. De voorzitter ontvangt een vergoeding per vergadering van € 468,82.
 
-3. De andere leden ontvangen een vergoeding per vergadering van € 360,63.
+3. De andere leden ontvangen een vergoeding per vergadering van € 360,63.
 
 ##### Artikel 9. Kosten van de commissie
 
@@ -126,10 +100,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 juli 2024 en vervalt met ingang van 1 januari 2027.
+Dit besluit treedt in werking met ingang van 1 juli 2024 en vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie Stimuleringsregeling Technologie in Ondersteuning en Zorg.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

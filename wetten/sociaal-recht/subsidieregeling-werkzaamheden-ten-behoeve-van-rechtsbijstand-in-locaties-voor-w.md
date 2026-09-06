@@ -1,41 +1,17 @@
 ---
 title: "Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026"
 identifier: "BWBR0049573"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049573"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "17074133"
-version_id: "30046722"
-internal_id: "C43063991"
-label_id: "16983024"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049573/2026-01-01/0"
-intitule_bron: "Stcrt.2024-12401"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-04"
-intitule_published: "2024-04-17"
-intitule_in_force: "2024-04-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-12401"
-original_signed_date: "2024-03-04"
-original_published_date: "2024-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-12401"
-entry_into_force_date: "2024-04-18"
-jci_1_3: "jci1.3:c:BWBR0049573&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0049573&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-03-04"
-entry_into_force: "2024-04-18"
+publicatiedatum: 2024-04-18
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0049573"
+opgehaald: 2026-09-06
 ---
-# Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026
 
-gelet op [artikel 37b, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de raad ten behoeve van de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten, besluit de volgende regeling vast te stellen.
+# Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026
 
 ### Hoofdstuk I. Algemeen
 
@@ -43,29 +19,29 @@ gelet op [artikel 37b, van de Wet op de rechtsbijstand](https://wetten.overheid.
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **wet:** de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- a. *wet:* de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- b. **bvr:** het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- b. *bvr:* het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- c. **raad:** de raad voor rechtsbijstand, als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2).
+- c. *raad:* de raad voor rechtsbijstand, als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2).
 
-- d. **bestuur:** het bestuur van de raad, zoals bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- d. *bestuur:* het bestuur van de raad, zoals bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- e. **advocaat:** de advocaat, bedoeld in [artikel 13, eerste lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13);
+- e. *advocaat:* de advocaat, bedoeld in [artikel 13, eerste lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13);
 
-- f. **rechtsbijstand:** rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) en de daarop berustende bepalingen geregeld;
+- f. *rechtsbijstand:* rechtskundige bijstand aan een rechtzoekende ter zake van een rechtsbelang dat hem rechtstreeks en individueel aangaat, voor zover in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) en de daarop berustende bepalingen geregeld;
 
-- g. **rechtzoekende:** degene die overeenkomstig [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) gebruik maakt van rechtsbijstand;
+- g. *rechtzoekende:* degene die overeenkomstig [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1) gebruik maakt van rechtsbijstand;
 
-- h. **toevoeging:** de toevoeging ten behoeve van rechtsbijstand als bedoeld in [artikel 24, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24);
+- h. *toevoeging:* de toevoeging ten behoeve van rechtsbijstand als bedoeld in [artikel 24, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=24);
 
-- i. **toeslag:** een verhoging van forfaitaire vergoeding voor een toevoeging met een aantal punten, indien extra werkzaamheden in de zaak zijn uitgevoerd.
+- i. *toeslag:* een verhoging van forfaitaire vergoeding voor een toevoeging met een aantal punten, indien extra werkzaamheden in de zaak zijn uitgevoerd.
 
-- j. **wijkrechtspraak:** een bijzondere vorm van rechtspraak waarbij het doel is om effectief bij te dragen aan het oplossen van uiteenlopende, meervoudige problemen van mensen in bepaalde wijken en door de Rechtspraak als wijkrechtspraak wordt aangeduid;
+- j. *wijkrechtspraak:* een bijzondere vorm van rechtspraak waarbij het doel is om effectief bij te dragen aan het oplossen van uiteenlopende, meervoudige problemen van mensen in bepaalde wijken en door de Rechtspraak als wijkrechtspraak wordt aangeduid;
 
-- k. **zaak:** een zaak die is behandeld in de wijkrechtspraak en waarbij de rechtzoekende wordt bijgestaan door een advocaat op basis van een toevoeging;
+- k. *zaak:* een zaak die is behandeld in de wijkrechtspraak en waarbij de rechtzoekende wordt bijgestaan door een advocaat op basis van een toevoeging;
 
-- l. **regeling:** Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024;
+- l. *regeling:* Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024;
 
 ##### Artikel 2. Doel
 
@@ -99,16 +75,14 @@ De advocaat draagt desgevraagd actief bij aan de door het Kenniscentrum bij de R
 
 ##### Artikel 6. Subsidieplafond
 
-Het subsidieplafond is vastgesteld op maximaal € 300.000 exclusief btw per kalenderjaar. Het beschikbare bedrag zal worden verdeeld op basis van volgorde van aanvraag.
+Het subsidieplafond is vastgesteld op maximaal € 300.000 exclusief btw per kalenderjaar. Het beschikbare bedrag zal worden verdeeld op basis van volgorde van aanvraag.
 
 ##### Artikel 7. Inwerkingtreding
 
-1. Deze subsidieregeling treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
+1. Deze subsidieregeling treedt in werking op de dag na publicatie daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
-2. Deze subsidieregeling vervalt op 1 januari 2027.
+2. Deze subsidieregeling vervalt op 1 januari 2027.
 
 ##### Artikel 8. Citeertitel
 
 Deze subsidieregeling wordt aangehaald als ‘Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026’.
-
-Deze subsidieregeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 4 juli 2024, kenmerk 5421000, houdende beperking van de openbaarheid van het archief Gerechtsdeurwaarders 1923–1967 van het Ministerie van Justitie"
+citeertitel: "Besluit beperking openbaarheid archief Gerechtsdeurwaarders 1923–1967 Ministerie van Justitie"
 identifier: "BWBR0050037"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-07-20"
-last_updated: "2024-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050037"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17184093"
-version_id: "30251042"
-internal_id: "C43328811"
-label_id: "17092004"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050037/2024-07-20/0"
-intitule_bron: "Stcrt.2024-22968"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-04"
-intitule_published: "2024-07-19"
-intitule_in_force: "2024-07-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-22968"
-original_signed_date: "2024-07-04"
-original_published_date: "2024-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-22968"
-entry_into_force_date: "2024-07-20"
-jci_1_3: "jci1.3:c:BWBR0050037&z=2024-07-20&g=2024-07-20"
-jci_1_0: "1.0:c:BWBR0050037&g=2024-07-20"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Gerechtsdeurwaarders 1923–1967 Ministerie van Justitie"
-signed_date: "2024-07-04"
-entry_into_force: "2024-07-20"
+publicatiedatum: 2024-07-20
+laatste_update: 2024-07-20
+status: geldig
+toestand: 2024-07-20
+bron: "https://wetten.overheid.nl/BWBR0050037"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 4 juli 2024, kenmerk 5421000, houdende beperking van de openbaarheid van het archief Gerechtsdeurwaarders 1923–1967 van het Ministerie van Justitie
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 13 juni 2024, met proza-zaaknummer 1361726.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief Gerechtsdeurwaarders.
 
 ##### Artikel 1
 

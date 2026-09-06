@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0053074"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Besluit van de Minister van Buitenlandse Zaken van 25 augustus 2026, nr. BZ2631273, tot geheimverklaring van opdrachten in het kader van de organisatie van het Nederlands voorzitterschap van de Raad van de Europese Unie

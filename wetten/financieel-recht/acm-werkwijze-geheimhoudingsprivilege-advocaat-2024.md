@@ -1,41 +1,17 @@
 ---
 title: "ACM Werkwijze geheimhoudingsprivilege advocaat 2024"
 identifier: "BWBR0050118"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-08-09"
-last_updated: "2024-08-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050118"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17199513"
-version_id: "30282742"
-internal_id: "C43448441"
-label_id: "17105904"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050118/2024-08-09/0"
-intitule_bron: "Stcrt.2024-26001"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-18"
-intitule_published: "2024-08-08"
-intitule_in_force: "2024-08-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-26001"
-original_signed_date: "2024-07-18"
-original_published_date: "2024-08-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-26001"
-entry_into_force_date: "2024-08-09"
-jci_1_3: "jci1.3:c:BWBR0050118&z=2024-08-09&g=2024-08-09"
-jci_1_0: "1.0:c:BWBR0050118&g=2024-08-09"
-citeertitel_status: "officieel"
-signed_date: "2024-07-18"
-entry_into_force: "2024-08-09"
+publicatiedatum: 2024-08-09
+laatste_update: 2024-08-09
+status: geldig
+toestand: 2024-08-09
+bron: "https://wetten.overheid.nl/BWBR0050118"
+opgehaald: 2026-09-06
 ---
-# ACM Werkwijze geheimhoudingsprivilege advocaat 2024
 
-Gelet op de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), [artikel 12g van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12g) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=4) en [5 van Besluit aanwijzing toezichthouders ACM 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047095&artikel=5).
+# ACM Werkwijze geheimhoudingsprivilege advocaat 2024
 
 ### Hoofdstuk I. Algemene bepalingen
 
@@ -43,29 +19,31 @@ Gelet op de [artikelen 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&art
 
 In dit besluit wordt verstaan onder:
 
-- 1. **Instellingswet:** [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043);
+- 1. *Instellingswet:*
+ [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043);
 
-- 2. **ACM:** de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- 2. *ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- 3. **ACM-organisatie:** de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5);
+- 3. *ACM-organisatie:* de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=5);
 
-- 4. **Afronding van een onderzoek:** de definitieve afronding van de besluitvorming volgend op een onderzoek of, indien van toepassing, de definitieve afronding van het onderzoek benodigd voor nacontroles aangekondigd op het moment van definitieve afronding van de besluitvorming volgend op een onderzoek;
+- 4. *Afronding van een onderzoek:* de definitieve afronding van de besluitvorming volgend op een onderzoek of, indien van toepassing, de definitieve afronding van het onderzoek benodigd voor nacontroles aangekondigd op het moment van definitieve afronding van de besluitvorming volgend op een onderzoek;
 
-- 5. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- 5. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- 6. **Betrokkene:**
+- 6. *Betrokkene:*
 
-- 1:. degene die de geadresseerde is bij de inzet van de bevoegdheid van [artikel 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en/of [artikel 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) juncto [artikel 5:20 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20),
+   - 1: degene die de geadresseerde is bij de inzet van de bevoegdheid van [artikel 5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16) en/of [artikel 5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) juncto [artikel 5:20 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20),
 
-- 2:. degene die op grond van [artikel 6b, eerste lid, van de Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b) wordt verzocht gegevens te verstrekken;
+   - 2: degene die op grond van [artikel 6b, eerste lid, van de Instellingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b) wordt verzocht gegevens te verstrekken;
 
-- 7. **Gegevens:** analoge of digitale gegevens;
+- 7. *Gegevens:* analoge of digitale gegevens;
 
-- 8. **Claimprocedure:** procedure als bedoeld in [ACM werkwijze voor onderzoek in digitale gegevens 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034802) waarbij de betrokkene in de gelegenheid wordt gesteld aan te geven welke gegevens geprivilegieerd zijn.
+- 8. *Claimprocedure:* procedure als bedoeld in [ACM werkwijze voor onderzoek in digitale gegevens 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034802) waarbij de betrokkene in de gelegenheid wordt gesteld aan te geven welke gegevens geprivilegieerd zijn.
 
-- 9. **Toezichthoudend ambtenaar:** degene die als zodanig op grond van het [Besluit aanwijzing toezichthouders ACM 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047095) is aangewezen;
+- 9. *Toezichthoudend ambtenaar:* degene die als zodanig op grond van het [Besluit aanwijzing toezichthouders ACM 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0047095) is aangewezen;
 
-- 10. **Veiligstellen:** overzetten van gegevens door een toezichthoudend ambtenaar op een gegevensdrager van een toezichthoudend ambtenaar.
+- 10. *Veiligstellen:* overzetten van gegevens door een toezichthoudend ambtenaar op een gegevensdrager van een toezichthoudend ambtenaar.
 
 ##### Artikel 2. Functionaris verschoningsrecht
 
@@ -125,11 +103,11 @@ In het geval van een schriftelijk verzoek om gegevens op grond van de [artikelen
 
 Vanaf het moment dat een betrokkene heeft aangegeven welke gegevens geprivilegieerde correspondentie betreffen, worden de ondersteunende forensische IT-werkzaamheden betreffende deze gegevens uitsluitend uitgevoerd door een toezichthoudend ambtenaar die niet is betrokken en niet zal worden betrokken als toezichthoudend ambtenaar bij het betreffende onderzoek, noch bij een ander onderzoek waarvoor (een deel van) de gegevens uit het eerstbedoelde onderzoek worden gebruikt.
 
-### Hoofdstuk V. Wijziging [ACM Werkwijze onderzoek in digitale gegevens 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034802)
+### Hoofdstuk V. Wijziging ACM Werkwijze onderzoek in digitale gegevens 2014
 
 ##### Artikel 8
 
-Wijzigt de ACM Werkwijze voor onderzoek in digitale gegevens 2014.
+*Wijzigt de ACM Werkwijze voor onderzoek in digitale gegevens 2014.*
 
 ### Hoofdstuk VI. Slotbepalingen
 

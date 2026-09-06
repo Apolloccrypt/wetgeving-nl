@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing opsporing en vervolging buitenlandse corruptie"
 identifier: "BWBR0049699"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-06-01"
-last_updated: "2024-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049699"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17101613"
-version_id: "30097442"
-internal_id: "C43124121"
-label_id: "17010344"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049699/2024-06-01/0"
-intitule_bron: "Stcrt.2024-15466"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-05-14"
-intitule_in_force: "2024-05-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-15466"
-original_published_date: "2024-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-15466"
-entry_into_force_date: "2024-06-01"
-jci_1_3: "jci1.3:c:BWBR0049699&z=2024-06-01&g=2024-06-01"
-jci_1_0: "1.0:c:BWBR0049699&g=2024-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-06-01"
+publicatiedatum: 2024-06-01
+laatste_update: 2024-06-01
+status: geldig
+toestand: 2024-06-01
+bron: "https://wetten.overheid.nl/BWBR0049699"
+opgehaald: 2026-09-06
 ---
+
 # Aanwijzing opsporing en vervolging buitenlandse corruptie
 
 ### Samenvatting
@@ -50,7 +31,7 @@ Deze aanwijzing benoemt de factoren die relevant zijn bij de opsporing en vervol
 
 ### 1.2. Wettelijk kader
 
-In internationaal verband zijn diverse verdragen gesloten met het oog op een betere bestrijding van fraude en corruptie, te weten: [Richtlijn (EU) 2017/1371](32017L1371) van het Europees Parlement en de Raad van 5 juli 2017 betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt (Pb EG 2017, L198/29), het anti-corruptieverdrag van de OESO (Trb. 1998, 54) alsmede de OECD Recommendation for Further Combating Bribery of Foreign Public Officials in International Business Transactions en de United Nations Convention Against Corruption (UNCAC) (Trb. 2006, 266). Deze verdragen strekken tot onderlinge afstemming van de strafrechtelijke bepalingen inzake fraude en corruptie van de verschillende landen met het oog op een doeltreffende internationale samenwerking en een effectieve aanpak van fraude en corruptie. Deze verdragen zijn in de Nederlandse wetgeving op het terrein van de omkoping van ambtenaren geïmplementeerd. Sinds 2001 is in het buitenland gepleegde omkoping, kortheidshalve aangeduid als ‘buitenlandse corruptie’, expliciet strafbaar gesteld en is vervolging van (rechts)personen ter zake van buitenlandse corruptie mogelijk op grond van onder andere [artikel 178a Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178a) (Sr). Sinds 2001 kan eenieder die in het buitenland een Nederlandse ambtenaar omkoopt in Nederland worden vervolgd, en geldt hetzelfde voor de Nederlander die in het buitenland een buitenlandse ambtenaar omkoopt.
+In internationaal verband zijn diverse verdragen gesloten met het oog op een betere bestrijding van fraude en corruptie, te weten: Richtlijn (EU) 2017/1371 van het Europees Parlement en de Raad van 5 juli 2017 betreffende de strafrechtelijke bestrijding van fraude die de financiële belangen van de Unie schaadt (Pb EG 2017, L198/29), het anti-corruptieverdrag van de OESO (Trb. 1998, 54) alsmede de OECD Recommendation for Further Combating Bribery of Foreign Public Officials in International Business Transactions en de United Nations Convention Against Corruption (UNCAC) (Trb. 2006, 266). Deze verdragen strekken tot onderlinge afstemming van de strafrechtelijke bepalingen inzake fraude en corruptie van de verschillende landen met het oog op een doeltreffende internationale samenwerking en een effectieve aanpak van fraude en corruptie. Deze verdragen zijn in de Nederlandse wetgeving op het terrein van de omkoping van ambtenaren geïmplementeerd. Sinds 2001 is in het buitenland gepleegde omkoping, kortheidshalve aangeduid als ‘buitenlandse corruptie’, expliciet strafbaar gesteld en is vervolging van (rechts)personen ter zake van buitenlandse corruptie mogelijk op grond van onder andere [artikel 178a Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=178a) (Sr). Sinds 2001 kan eenieder die in het buitenland een Nederlandse ambtenaar omkoopt in Nederland worden vervolgd, en geldt hetzelfde voor de Nederlander die in het buitenland een buitenlandse ambtenaar omkoopt.
 
 Het strafrechtelijk instrumentarium heeft een ruim werkingsgebied. Een ieder die een ambtenaar een gift, belofte of dienst aanbiedt met het doel hem te bewegen tot enig ambtelijk handelen of nalaten en elke ambtenaar die een gift, belofte of dienst aanvaardt of vraagt, terwijl hij weet of moet vermoeden dat van hem een tegenprestatie wordt verwacht, kan onder de werking van het strafrecht vallen. De wet geeft namelijk geen onderscheidend criterium voor strafwaardige en niet-strafwaardige giften. De wetgever heeft het stellen van grenzen overgelaten aan het openbaar ministerie, dat zelf door toepassing van het opportuniteitsbeginsel en/of “door het afkondigen van richtlijnen, welke eenvoudiger dan de wet zijn aan te passen aan de maatschappelijke, steeds veranderende, werkelijkheid” sturend kan optreden. In dit verband heeft de (toenmalige) Minister van justitie overwogen dat een wettelijk onderscheid inzake strafwaardige en niet-strafwaardige giften het onwenselijke effect zou kunnen hebben dat situaties waarbij sprake is van relatief geringe voordelen, voor ambtshandelingen die zeker als onwenselijk moeten worden beschouwd, per definitie buiten het bereik van de strafbepalingen zouden komen te vallen.
 
@@ -61,6 +42,22 @@ Het strafrechtelijk instrumentarium heeft een ruim werkingsgebied. Een ieder die
 De officier van justitie houdt zich bij de opportuniteitsafweging aan artikel 5 van het OESO-verdrag en mag zich niet laten beïnvloeden door overwegingen van nationaal economisch belang, het mogelijke effect op relaties met een andere Staat of de identiteit van betrokken natuurlijke of rechtspersonen.
 
 Bij de prioritering van buitenlandse corruptiezaken en de opportuniteitsafweging kunnen de volgende factoren worden meegewogen (niet-limitatief):
+
+- • aanzienlijke omvang van de gift, belofte of dienst en/of tegenprestatie, in absolute zin of in relatieve zin (bijvoorbeeld een aanzienlijk percentage van de contractsom);
+
+- • omkoping is een structureel onderdeel van de wijze van bedrijfsvoering;
+
+- • de betrokkenheid van invloedrijke buitenlandse ambtenaren of politici dan wel hun naaste omgeving (in die zin dat bij betrokkenheid van dergelijke figuren gezien hun voorbeeldrol en/of machtspositie de omkoping ernstiger lijkt dan bij betrokkenheid van minder invloedrijke personen);
+
+- • de steekpenningen komen direct of indirect (bijvoorbeeld als overheidssteun, krediet verzekering, subsidiering, etc.) ten laste van de Nederlandse algemene middelen of ten laste van gelden bestemd voor internationale ontwikkelingshulp;
+
+- • de schade voor het land waar de ambtenaar is omgekocht;
+
+- • de mate waarin er sprake is van concurrentievervalsing;
+
+- • recidive;
+
+- • de mogelijkheden van verder onderzoek en kans op succesvolle vervolging.
 
 In het geval verdachten zichzelf melden met betrekking tot door hen of binnen en/of door de eigen onderneming of organisatie gepleegde buitenlandse corruptie en openheid daarover betrachten richting het OM, weegt het OM dat transparant mee in de (wijze van) afdoening en eventuele bestraffing. Als buitenlandse ambtelijke omkoping met een strafbeschikking of transactie wordt afgedaan, wordt dit via een (pers)bericht bekend gemaakt.
 

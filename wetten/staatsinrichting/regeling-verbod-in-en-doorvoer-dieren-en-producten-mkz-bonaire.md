@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 18 juli 2024, nr. WJZ/ 63453190, houdende een verbod op het binnenbrengen van bepaalde dieren en producten op Bonaire ter wering van mond- en klauwzeer (Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire)"
+citeertitel: "Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire"
 identifier: "BWBR0050049"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2024-07-23"
-last_updated: "2024-07-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050049"
+categorie: "Milieu"
 soort: "ministeriele-regeling-BES"
-stam_id: "17186823"
-version_id: "30255882"
-internal_id: "C43334421"
-label_id: "17094714"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050049/2024-07-23/0"
-intitule_bron: "Stcrt.2024-23891"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-18"
-intitule_published: "2024-07-22"
-intitule_in_force: "2024-07-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-23891"
-original_signed_date: "2024-07-18"
-original_published_date: "2024-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-23891"
-entry_into_force_date: "2024-07-23"
-jci_1_3: "jci1.3:c:BWBR0050049&z=2024-07-23&g=2024-07-23"
-jci_1_0: "1.0:c:BWBR0050049&g=2024-07-23"
-citeertitel_status: "officieel"
-short_title: "Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire"
-signed_date: "2024-07-18"
-entry_into_force: "2024-07-23"
+publicatiedatum: 2024-07-23
+laatste_update: 2024-07-23
+status: geldig
+toestand: 2024-07-23
+bron: "https://wetten.overheid.nl/BWBR0050049"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur 18 juli 2024, nr. WJZ/ 63453190, houdende een verbod op het binnenbrengen van bepaalde dieren en producten op Bonaire ter wering van mond- en klauwzeer (Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire)
-
-Gelet op [artikel 31 van het Besluit slacht- en vleeskeuring BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&artikel=31);
-
-Besluit:
 
 ##### Artikel 1. Verbod in- en doorvoer
 
@@ -67,5 +41,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verbod in- en doorvoer dieren en producten MKZ Bonaire.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

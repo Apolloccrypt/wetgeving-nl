@@ -9,7 +9,7 @@ laatste_update: 2021-04-01
 status: geldig
 toestand: 2021-04-01
 bron: "https://wetten.overheid.nl/BWBR0045002"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 25 maart 2021, Min-BuZa.2021.7692-21, tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen, en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 20 november 2020, Min-BuZa.2020.6142-19, tot vaststelling van een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen en tot wijziging van het Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 8 september 2016, tot vaststelling van beleidsregels en een subsidieplafond voor subsidieverstrekking voor activiteiten van MKB-ondernemingen gericht op de bevordering van duurzaam internationaal ondernemen (Wijziging Vouchers internationaal ondernemen)

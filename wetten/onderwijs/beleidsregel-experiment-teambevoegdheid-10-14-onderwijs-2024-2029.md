@@ -1,68 +1,45 @@
 ---
 title: "Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 april 2024, nr. KO/21697498 tot vaststelling van regels omtrent experimenteren met sectoroverstijgende teambevoegdheden voor 10-14-onderwijs (Beleidsregel vervolg experiment teambevoegdheid 10-14-onderwijs 2024)"
+citeertitel: "Beleidsregel experiment teambevoegdheid 10-14-onderwijs 2024-2029"
 identifier: "BWBR0049603"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-08-01"
-last_updated: "2024-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049603"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "17080653"
-version_id: "30060682"
-internal_id: "C43080541"
-label_id: "16989454"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049603/2024-08-01/0"
-intitule_bron: "Stcrt.2024-13429"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-12"
-intitule_published: "2024-04-24"
-intitule_in_force: "2024-04-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-13429"
-original_signed_date: "2024-04-12"
-original_published_date: "2024-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-13429"
-entry_into_force_date: "2024-08-01"
-jci_1_3: "jci1.3:c:BWBR0049603&z=2024-08-01&g=2024-08-01"
-jci_1_0: "1.0:c:BWBR0049603&g=2024-08-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel experiment teambevoegdheid 10-14-onderwijs 2024-2029"
-signed_date: "2024-04-12"
-entry_into_force: "2024-08-01"
+publicatiedatum: 2024-08-01
+laatste_update: 2024-08-01
+status: geldig
+toestand: 2024-08-01
+bron: "https://wetten.overheid.nl/BWBR0049603"
+opgehaald: 2026-09-06
 ---
+
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 12 april 2024, nr. KO/21697498 tot vaststelling van regels omtrent experimenteren met sectoroverstijgende teambevoegdheden voor 10-14-onderwijs (Beleidsregel vervolg experiment teambevoegdheid 10-14-onderwijs 2024)
-
-Gelet op [artikel 2 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2), [artikel 4:81 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-- **experiment:** experiment teambevoegdheid voor 10-14-onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=2&z=2024-08-01&g=2024-08-01);
+- *experiment:* experiment teambevoegdheid voor 10-14-onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=2&z=2024-08-01&g=2024-08-01);
 
-- **10-14-onderwijs:** onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=2&z=2024-08-01&g=2024-08-01);
+- *10-14-onderwijs:* onderwijs als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=2&z=2024-08-01&g=2024-08-01);
 
-- **medezeggenschapsraad:** medezeggenschapsraad of gemeenschappelijke medezeggenschapsraad als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3) en [4 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=4);
+- *medezeggenschapsraad:* medezeggenschapsraad of gemeenschappelijke medezeggenschapsraad als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3) en [4 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=4);
 
-- **minister:** Minister voor Primair en Voortgezet Onderwijs;
+- *minister:* Minister voor Primair en Voortgezet Onderwijs;
 
-- **samenwerkende bevoegde gezagsorganen:** samenwerking ten behoeve van 10-14-onderwijs tussen bevoegde gezagsorganen van een of meerdere scholen voor primair en voortgezet onderwijs, met dien verstande dat het bevoegd gezag dat zowel scholen voor primair onderwijs als voor voortgezet onderwijs onder zich heeft, hier ook onder valt;
+- *samenwerkende bevoegde gezagsorganen:* samenwerking ten behoeve van 10-14-onderwijs tussen bevoegde gezagsorganen van een of meerdere scholen voor primair en voortgezet onderwijs, met dien verstande dat het bevoegd gezag dat zowel scholen voor primair onderwijs als voor voortgezet onderwijs onder zich heeft, hier ook onder valt;
 
-- **samenwerking van scholen:** een of meer scholen voor primair onderwijs en een of meer scholen voor voortgezet onderwijs waarvoor de bevoegde gezagsorganen een samenwerking ten behoeve van 10-14-onderwijs zijn aangegaan;
+- *samenwerking van scholen:* een of meer scholen voor primair onderwijs en een of meer scholen voor voortgezet onderwijs waarvoor de bevoegde gezagsorganen een samenwerking ten behoeve van 10-14-onderwijs zijn aangegaan;
 
-- **school:** school als bedoeld in [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school als bedoeld in [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **sectoroverstijgend team:** team met leraren van een of meer scholen voor primair onderwijs en van een of meer scholen voor voortgezet onderwijs die gezamenlijk voldoen aan de voorwaarden voor een sectoroverstijgend team als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01);
+- *sectoroverstijgend team:* team met leraren van een of meer scholen voor primair onderwijs en van een of meer scholen voor voortgezet onderwijs die gezamenlijk voldoen aan de voorwaarden voor een sectoroverstijgend team als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01);
 
-- **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- *WEC:*
+ [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *WPO:*
+ [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *WVO 2020:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. 10-14-onderwijs
 
@@ -114,13 +91,13 @@ Onderwijs dat wordt aangeboden door samenwerkende bevoegde gezagsorganen in de l
 
 - f. een samenwerkingsovereenkomst tussen de betrokken bevoegde gezagsorganen, waaruit de taken en verantwoordelijkheden van de betrokkenen bij het experiment blijkt.
 
-3. De aanvraag voor toelating tot het experiment dient in 2024 uiterlijk op 31 mei te zijn ontvangen om in behandeling genomen te worden. In de daaropvolgende jaren kunnen aanvragen worden ingediend vanaf 1 februari tot 1 maart van dat jaar.
+3. De aanvraag voor toelating tot het experiment dient in 2024 uiterlijk op 31 mei te zijn ontvangen om in behandeling genomen te worden. In de daaropvolgende jaren kunnen aanvragen worden ingediend vanaf 1 februari tot 1 maart van dat jaar.
 
 4. Voor toelating tot het experiment beoordeelt de Minister of de aanvraag voldoet aan de vereisten genoemd in het tweede lid.
 
-5. De Minister besluit in 2024 uiterlijk voor 1 juli op de aanvraag. In de daaropvolgende jaren besluit de Minister voor 1 mei op de aanvraag. De toelating tot het experiment gaat in per 1 augustus van dat jaar.
+5. De Minister besluit in 2024 uiterlijk voor 1 juli op de aanvraag. In de daaropvolgende jaren besluit de Minister voor 1 mei op de aanvraag. De toelating tot het experiment gaat in per 1 augustus van dat jaar.
 
-6. Indien een aanvraag is toegekend voor deelname aan het experiment op grond van Beleidsregel experiment teambevoegdheid 10-14-onderwijs, zoals deze gold voor 31 juli 2024, volstaat in afwijking van het tweede lid, onderdeel d, de verklaring van instemming met deelname aan het experiment van de medezeggenschapsraden van de scholen die deelnemen aan de samenwerking die bij deze aanvraag is ingediend.
+6. Indien een aanvraag is toegekend voor deelname aan het experiment op grond van Beleidsregel experiment teambevoegdheid 10-14-onderwijs, zoals deze gold voor 31 juli 2024, volstaat in afwijking van het tweede lid, onderdeel d, de verklaring van instemming met deelname aan het experiment van de medezeggenschapsraden van de scholen die deelnemen aan de samenwerking die bij deze aanvraag is ingediend.
 
 ##### Artikel 6. Het projectplan
 
@@ -128,13 +105,13 @@ Het projectplan omvat:
 
 - a. een zo concreet mogelijke uitwerking van de wijze waarop het sectoroverstijgende team wordt vormgegeven, waarbij in ieder geval wordt ingegaan op:
 
-- 1°. de organisatorische en onderwijskundige inrichting van het 10-14-onderwijs;
+   - 1°. de organisatorische en onderwijskundige inrichting van het 10-14-onderwijs;
 
-- 2°. de waarborgen voor de onderwijskwaliteit;
+   - 2°. de waarborgen voor de onderwijskwaliteit;
 
-- 3°. de wijze waarop de vormgeving van het sectoroverstijgende team bijdraagt aan een soepele doorstroom van leerlingen van het primair onderwijs naar het voortgezet onderwijs; en
+   - 3°. de wijze waarop de vormgeving van het sectoroverstijgende team bijdraagt aan een soepele doorstroom van leerlingen van het primair onderwijs naar het voortgezet onderwijs; en
 
-- 4°. de wijze waarop de teambevoegdheid in nakoming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01) wordt ingevuld;
+   - 4°. de wijze waarop de teambevoegdheid in nakoming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01) wordt ingevuld;
 
 - b. een zo concreet mogelijke uitwerking van de wijze waarop bij beëindiging van het experiment kan worden teruggekeerd naar de wettelijk vereiste situatie; en
 
@@ -142,7 +119,7 @@ Het projectplan omvat:
 
 ##### Artikel 7. Looptijd en beëindiging van het experiment
 
-1. Het experiment loopt van 1 augustus 2024 tot en met 31 juli 2029.
+1. Het experiment loopt van 1 augustus 2024 tot en met 31 juli 2029.
 
 2. Scholen die deelnemen aan het experiment dienen vanaf de start van het eerstvolgende schooljaar na beëindiging van het experiment weer aan de wettelijke voorschriften genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01), te voldoen.
 
@@ -168,12 +145,10 @@ De samenwerkende bevoegde gezagsorganen die deelnemen aan dit experiment werken 
 
 ##### Artikel 9. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 1 augustus 2024.
+1. Deze regeling treedt in werking met ingang van 1 augustus 2024.
 
-2. Deze regeling vervalt met ingang van 31 juli 2029, tenzij naar aanleiding van het experiment wordt besloten tot aanpassing van de wettelijke voorschriften genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01). In dat geval kan de Minister besluiten de duur van het experiment te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
+2. Deze regeling vervalt met ingang van 31 juli 2029, tenzij naar aanleiding van het experiment wordt besloten tot aanpassing van de wettelijke voorschriften genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049603&artikel=3&z=2024-08-01&g=2024-08-01). In dat geval kan de Minister besluiten de duur van het experiment te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregel experiment teambevoegdheid 10-14-onderwijs 2024-2029.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

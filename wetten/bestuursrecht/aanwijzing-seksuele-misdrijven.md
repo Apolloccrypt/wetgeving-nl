@@ -1,48 +1,37 @@
 ---
 title: "Aanwijzing seksuele misdrijven"
 identifier: "BWBR0049896"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049896"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17150563"
-version_id: "30187652"
-internal_id: "C43253931"
-label_id: "17059134"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049896/2024-07-01/0"
-intitule_bron: "Stcrt.2024-20756"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-06-27"
-intitule_in_force: "2024-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-20756"
-original_published_date: "2024-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-20756"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049896&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049896&g=2024-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049896"
+opgehaald: 2026-09-06
 ---
+
 # Aanwijzing seksuele misdrijven
 
 ### Samenvatting
 
-Deze aanwijzing geeft een kader en regels voor de strafrechtelijke aanpak van seksuele misdrijven zoals genoemd in [Boek 2 Titel XIV Seksuele misdrijven van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XIV) alsmede van zedenmisdrijven zoals genoemd in Boek 2 Titel XIV Misdrijven tegen de zeden, de regelgeving die tot 1 juli 2024 gold.
+Deze aanwijzing geeft een kader en regels voor de strafrechtelijke aanpak van seksuele misdrijven zoals genoemd in [Boek 2 Titel XIV Seksuele misdrijven van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&titeldeel=XIV) alsmede van zedenmisdrijven zoals genoemd in Boek 2 Titel XIV Misdrijven tegen de zeden, de regelgeving die tot 1 juli 2024 gold.
 
 ### 1. Achtergrond
 
 Uitgangspunten bij de aanpak van seksuele misdrijven respectievelijk zedenmisdrijven zijn:
 
+- • Het schenden van in het strafrecht neergelegde normen vraagt in beginsel om correctie, afkeuring en herstel van de geleden schade. Het strafrecht is in beginsel repressief van aard, maar kan – gecombineerd met andere interventies en op voldoende selectieve wijze ingezet – bijdragen aan veiligheid en het voorkómen van herhaling.
+
+- • De belangen van slachtoffers wegen zwaar mee bij de afweging of (en zo ja hoe) de vervolging door het openbaar ministerie passend is. De veiligheid van slachtoffers en de risico’s op herhaald slachtofferschap en herhaald daderschap worden hierbij steeds goed voor ogen gehouden. Veiligheids- en risicotaxatie vormen derhalve in alle stadia van opsporing en vervolging een belangrijke leidraad voor (prioritering van) handelen.
+
+- • Waar het belang van waarheidsvinding botst met het belang van behoud en versterking van veerkracht van slachtoffers worden deze belangen steeds zorgvuldig tegen elkaar afgewogen om te voorkomen dat het strafrechtelijk onderzoek leidt tot schade bij slachtoffers en anderen.
+
+- • Het openbaar ministerie handelt in samenwerking en samenhang met de relevante netwerkpartners. Ook in het netwerkverband houdt het openbaar ministerie de belangen van slachtoffers en anderen (waarborg veiligheid en behoud en versterken veerkracht) nadrukkelijk voor ogen. Daartoe wordt het (sociale) systeem rondom zowel het slachtoffer als de (kwetsbare) verdachte of dader betrokken.
+
 ### 1.1. Seksuele misdrijven
 
-In 2024 is de titel ‘Misdrijven tegen de zeden’ in het [wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) vervangen door de titel ‘Seksuele misdrijven’. Waar tot 1 juli 2024 gesproken werd van zedenmisdrijven wordt in deze aanwijzing in lijn met de vernieuwde titel gesproken van ‘seksuele misdrijven’. Afhankelijk van de pleegdatum zijn de strafbaarstellingen van de oude titel dan wel de strafbaarstellingen van de nieuwe titel van toepassing. Waar de oude titel van toepassing is wordt met zedenmisdrijven hetzelfde bedoeld als met seksuele misdrijven.
+In 2024 is de titel ‘Misdrijven tegen de zeden’ in het [wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) vervangen door de titel ‘Seksuele misdrijven’. Waar tot 1 juli 2024 gesproken werd van zedenmisdrijven wordt in deze aanwijzing in lijn met de vernieuwde titel gesproken van ‘seksuele misdrijven’. Afhankelijk van de pleegdatum zijn de strafbaarstellingen van de oude titel dan wel de strafbaarstellingen van de nieuwe titel van toepassing. Waar de oude titel van toepassing is wordt met zedenmisdrijven hetzelfde bedoeld als met seksuele misdrijven.
 
 Seksuele misdrijven zijn ernstige schendingen van de lichamelijke en geestelijke integriteit van het slachtoffer. Een seksueel misdrijf is daarmee een ingrijpende gebeurtenis die vaak veel emoties oproept. Seksuele misdrijven zijn niet alleen ingrijpend voor slachtoffers, maar hebben ook grote impact op de omgeving van slachtoffers en de samenleving als geheel. Ook ten onrechte beschuldigd worden van een seksueel misdrijf is ingrijpend. Gedurende het opsporingsonderzoek – dat gericht is op waarheidsvinding – en de vervolging, dient rekening te worden gehouden met al deze belangen. Dit vraagt om uiterste zorgvuldigheid tijdens onderzoek en vervolging.
 
@@ -62,7 +51,7 @@ Bij de start van een zaak en tijdens het vervolg ervan wordt steeds afgewogen of
 
 ### 1.3.1. Informeren slachtoffers over de impact
 
-Het strafrechtelijk onderzoek naar een seksueel misdrijf kan voor een slachtoffer een zware belasting zijn. Zoals hiervoor toegelicht kan een onderzoek gezien het belang van zorgvuldigheid en de complexiteit lang duren. Het openbaar ministerie en de politie spannen zich in om secundaire victimisatie zoveel mogelijk te voorkomen (zie ook § 4.3 hierna). Omdat de impact groot kan zijn, is het van belang dat politie en openbaar ministerie er zorg voor dragen dat slachtoffers goed worden voorgelicht, zodat zij weloverwogen kunnen beslissen of zij in staat zijn om tot en met de definitieve vervolgingsbeslissing hun medewerking te verlenen aan onderzoek en vervolging.
+Het strafrechtelijk onderzoek naar een seksueel misdrijf kan voor een slachtoffer een zware belasting zijn. Zoals hiervoor toegelicht kan een onderzoek gezien het belang van zorgvuldigheid en de complexiteit lang duren. Het openbaar ministerie en de politie spannen zich in om secundaire victimisatie zoveel mogelijk te voorkomen (zie ook [§ 4.3](https://wetten.overheid.nl/BWBR0049896) hierna). Omdat de impact groot kan zijn, is het van belang dat politie en openbaar ministerie er zorg voor dragen dat slachtoffers goed worden voorgelicht, zodat zij weloverwogen kunnen beslissen of zij in staat zijn om tot en met de definitieve vervolgingsbeslissing hun medewerking te verlenen aan onderzoek en vervolging.
 
 ### 1.3.2. Slachtoffers met verhoogde kwetsbaarheid
 
@@ -150,7 +139,7 @@ De veiligheid van het slachtoffer en het stoppen van (dreiging van) seksueel gew
 
 Met persoonsgegevens van slachtoffers wordt zorgvuldig omgegaan en waar mogelijk worden maatregelen getroffen om de identiteit van slachtoffers niet buiten de kring van de bij het strafproces betrokken partijen bekend te laten worden. Dat geldt tijdens het opsporingsonderzoek maar nadrukkelijk ook tijdens de behandeling van een strafzaak op een openbare zitting of in voorbereiding op de zitting. Soms is echter niet te voorkomen dat gegevens over de identiteit en vaak ook over de precieze leeftijd van het slachtoffer bij de verdachte bekend worden of zijn. Denk aan het geval waarin de verdachte een bekende van het slachtoffer is.
 
-### 4.3. Secundaire victimisatie4Deze normen volgen uit [richtlijn 2012/29/EU](32012L0029) van het Europese Parlement en de Raad van 25 oktober 2012 tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten, en ter vervanging van Kaderbesluit 2001/220/JBZ [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:315:0057:0073:NL:PDF](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:315:0057:0073:NL:PDF).
+### 4.3. Secundaire victimisatie4Deze normen volgen uit richtlijn 2012/29/EU van het Europese Parlement en de Raad van 25 oktober 2012 tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten, en ter vervanging van Kaderbesluit 2001/220/JBZ http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:315:0057:0073:NL:PDF.
 
 De kans op het ontstaan of sterker worden van secundaire victimisatie bij een slachtoffer wordt onder meer verminderd als door betrokken instanties voorspelbaar wordt gehandeld en het slachtoffer controle heeft over wat er gebeurt. De officier van justitie handelt waar mogelijk met inachtneming van dit gegeven. Het slachtoffergesprek is hiervoor een bruikbaar instrument, waarbij geldt dat dit gesprek op elk moment waarop dat kan bijdragen aan voorspelbaarheid en het gevoel van controle bij het slachtoffer, kan worden gevoerd.
 
@@ -158,7 +147,7 @@ Wanneer in een strafzaak het horen van het slachtoffer als getuige aan de orde k
 
 Met betrekking tot het horen van het slachtoffer kan de officier van justitie voorstellen dat dit plaatsvindt bij de rechter-commissaris in plaats van ter zitting. Een andere mogelijkheid is het buiten terechtzitting afspelen van de geluidsopname die is gemaakt van de belastende verklaring die het slachtoffer tegenover de politie heeft afgelegd.
 
-### 4.4. Minderjarige slachtoffers en slachtoffers met specifieke behoeften5Deze normen volgen uit [richtlijn 2012/29/EU](32012L0029) van het Europese Parlement en de Raad van 25 oktober 2012, zie noot 3 hiervoor.
+### 4.4. Minderjarige slachtoffers en slachtoffers met specifieke behoeften5Deze normen volgen uit richtlijn 2012/29/EU van het Europese Parlement en de Raad van 25 oktober 2012, zie noot 3 hiervoor.
 
 Minderjarige slachtoffers worden bij voorkeur slechts één keer gehoord in een strafzaak. Van dit verhoor wordt in de regel een audiovisuele opname gemaakt. Ook kan worden besloten tot verhoor in de kindvriendelijke verhoorstudio. Dit verhoor wordt in verband met de bescherming van de privacy van de minderjarige niet verstrekt aan de verdediging. Waar nodig kan de opname door de verdediging worden bekeken op een politiebureau of op het kabinet van de rechter-commissaris. Ook kan de opname bekeken worden door de rechtbank in gevallen waarin deze daaraan behoefte heeft. De officier van justitie verzet zich te allen tijde tegen het vertonen van de opname in een openbaar gedeelte van de terechtzitting.
 

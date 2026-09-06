@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën – Toeslagen en Douane, van 27 juni 2024, nr. 2024-362315, houdende beleidsregels over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen (Beleid procesrecht herstel toeslagen)"
+citeertitel: "Beleid procesrecht herstel toeslagen"
 identifier: "BWBR0049945"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-07-10"
-last_updated: "2024-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049945"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "17162783"
-version_id: "30209412"
-internal_id: "C43277141"
-label_id: "17071054"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049945/2024-07-10/0"
-intitule_bron: "Stcrt.2024-21683"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-27"
-intitule_published: "2024-07-09"
-intitule_in_force: "2024-07-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21683"
-original_signed_date: "2024-06-27"
-original_published_date: "2024-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21683"
-entry_into_force_date: "2024-07-10"
-jci_1_3: "jci1.3:c:BWBR0049945&z=2024-07-10&g=2024-07-10"
-jci_1_0: "1.0:c:BWBR0049945&g=2024-07-10"
-citeertitel_status: "officieel"
-short_title: "Beleid procesrecht herstel toeslagen"
-signed_date: "2024-06-27"
-entry_into_force: "2024-07-10"
+publicatiedatum: 2024-07-10
+laatste_update: 2024-07-10
+status: geldig
+toestand: 2024-07-10
+bron: "https://wetten.overheid.nl/BWBR0049945"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Staatssecretaris van Financiën – Toeslagen en Douane, van 27 juni 2024, nr. 2024-362315, houdende beleidsregels over procesrechtelijke aspecten van de uitvoering van de hersteloperatie toeslagen (Beleid procesrecht herstel toeslagen)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -50,27 +24,29 @@ Deze beleidsregels zien op de procesrechtelijke aspecten van de uitvoering van d
 
 In deze beleidsregels wordt verstaan onder:
 
-- **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- **BAC:** Bezwaarschriftenadviescommissie, bedoeld in [artikel 3 van de Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3);
+- *BAC:* Bezwaarschriftenadviescommissie, bedoeld in [artikel 3 van de Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3);
 
-- **bezwaardossier:** de op de zaak betrekking hebbende stukken, als bedoeld in [artikel 7:4, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4);
+- *bezwaardossier:* de op de zaak betrekking hebbende stukken, als bedoeld in [artikel 7:4, tweede lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4);
 
-- **clusterdirecteur:** clusterdirecteur van de directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, derde lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b);
+- *clusterdirecteur:* clusterdirecteur van de directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, derde lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b);
 
-- **CWS:** Commissie aanvullende schadevergoeding werkelijke schade, bedoeld in [artikel 3 van de Instellingsregeling commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3);
+- *CWS:* Commissie aanvullende schadevergoeding werkelijke schade, bedoeld in [artikel 3 van de Instellingsregeling commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3);
 
-- **directeur:** directeur van de directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, eerste lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b)1Stcr 2024, 131;
+- *directeur:* directeur van de directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, eerste lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b)1Stcr 2024, 131;
 
-- **Instellingsregeling BAC:** de [Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045876);
+- *Instellingsregeling BAC:* de [Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0045876);
 
-- **ouderverhaal:** gelegenheid die ouders wordt geboden om hun aanvraag om compensatie toe te lichten en daarbij hun persoonlijke verhaal naar voren te brengen;
+- *ouderverhaal:* gelegenheid die ouders wordt geboden om hun aanvraag om compensatie toe te lichten en daarbij hun persoonlijke verhaal naar voren te brengen;
 
-- **UHT:** directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, derde lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b), als onderdeel van de Dienst Toeslagen;
+- *UHT:* directie Uitvoeringsorganisatie Herstel Toeslagen, bedoeld in [artikel 7b, derde lid, van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&artikel=7b), als onderdeel van de Dienst Toeslagen;
 
-- **vaktechnisch coördinator:** medewerker van de directie Uitvoeringsorganisatie Herstel Toeslagen die namens de directeur binnen de directie Uitvoeringsorganisatie Herstel Toeslagen verantwoordelijk is voor de vaktechnische kwaliteit op het gebied van de vakinhoud en het procesrecht;
+- *vaktechnisch coördinator:* medewerker van de directie Uitvoeringsorganisatie Herstel Toeslagen die namens de directeur binnen de directie Uitvoeringsorganisatie Herstel Toeslagen verantwoordelijk is voor de vaktechnische kwaliteit op het gebied van de vakinhoud en het procesrecht;
 
-- **Wht:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
+- *Wht:*
+ [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 1.3. Vertegenwoordiging
 
@@ -86,13 +62,15 @@ In deze beleidsregels wordt verstaan onder:
 
 UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk actief openbaar, waaronder in ieder geval instructies waar in beschikkingen of de voorbereiding op die beschikkingen naar wordt verwezen.
 
-##### Artikel 1.5. Toepassing [besluit bestuursrecht toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0041450)
+##### Artikel 1.5. Toepassing besluit bestuursrecht toeslagen
 
-[Paragraaf 3](onbekend) en [4 van het Besluit Bestuursrecht Toeslagen](onbekend) zijn onverkort van toepassing op UHT, met dien verstande dat onder ambtenaren ook andere medewerkers worden verstaan.
+[Paragraaf 3](https://wetten.overheid.nl/BWBR0041450) en [4 van het Besluit Bestuursrecht Toeslagen](https://wetten.overheid.nl/BWBR0041450) zijn onverkort van toepassing op UHT, met dien verstande dat onder ambtenaren ook andere medewerkers worden verstaan.
 
 ### Hoofdstuk 2
 
-### Hoofdstuk 3. Bezwaarbehandeling bij bezwaren op grond van de [wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436)
+*PM (gereserveerd voor de integrale beoordeling)*
+
+### Hoofdstuk 3. Bezwaarbehandeling bij bezwaren op grond van de wht
 
 ##### Artikel 3.1. Bevestiging van ontvangst, telefonisch contact en schriftelijke reactie
 
@@ -108,13 +86,13 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 6. UHT bespreekt in ieder geval:
 
-- –. Als er geen gemachtigde is en indien van toepassing: de mogelijkheid van gesubsidieerde rechtsbijstand;
+- – Als er geen gemachtigde is en indien van toepassing: de mogelijkheid van gesubsidieerde rechtsbijstand;
 
-- –. de mogelijkheid om het bezwaar informeel op te lossen;
+- – de mogelijkheid om het bezwaar informeel op te lossen;
 
-- –. indien van toepassing: de eventuele mogelijkheden voor mediation;
+- – indien van toepassing: de eventuele mogelijkheden voor mediation;
 
-- –. de verdere route van het bezwaar, waaronder bij de bezwaren die onder [artikel 3, tweede lid, onder a van de instellingsregeling BAC](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3) vallen: de mogelijkheden om het bezwaar ambtelijk en dus zonder advies van de BAC af te doen;
+- – de verdere route van het bezwaar, waaronder bij de bezwaren die onder [artikel 3, tweede lid, onder a van de instellingsregeling BAC](https://wetten.overheid.nl/jci1.3:c:BWBR0045876&artikel=3) vallen: de mogelijkheden om het bezwaar ambtelijk en dus zonder advies van de BAC af te doen;
 
 7. Als UHT een schriftelijke reactie opstelt, geeft UHT de indiener van het bezwaar de gelegenheid daarop te reageren. UHT beziet met de indiener van het bezwaar de mogelijkheden om het bezwaar informeel op te lossen.
 
@@ -146,13 +124,13 @@ UHT maakt behandelkaders en werkinstructies die beleid bevatten zo veel mogelijk
 
 1. UHT hanteert in bezwaarclausules de volgende uitgangspunten:
 
-- a). De overschrijding van de in [artikel 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedoelde bezwaartermijn van zes weken wordt in ieder geval niet tegengeworpen als het bezwaarschrift binnen tien weken na het verstrijken van de bezwaartermijn is ingediend, belanghebbende wordt uitdrukkelijk op die termijn gewezen;
+- a) De overschrijding van de in [artikel 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedoelde bezwaartermijn van zes weken wordt in ieder geval niet tegengeworpen als het bezwaarschrift binnen tien weken na het verstrijken van de bezwaartermijn is ingediend, belanghebbende wordt uitdrukkelijk op die termijn gewezen;
 
-- b). UHT wijst belanghebbende tevens op de mogelijkheid om pro forma bezwaar te maken en pas later de gronden aan te vullen, alsmede dat te late indiening van het bezwaar kan leiden tot niet-ontvankelijk verklaring.
+- b) UHT wijst belanghebbende tevens op de mogelijkheid om pro forma bezwaar te maken en pas later de gronden aan te vullen, alsmede dat te late indiening van het bezwaar kan leiden tot niet-ontvankelijk verklaring.
 
 2. Als belanghebbende niet is gewezen op de in het eerste lid bedoelde termijn, dan werpt UHT een termijnoverschrijding niet tegen, tenzij het bezwaarschrift onredelijk laat is ingediend.
 
-3. De UHT beschouwt een bezwaar niet als onredelijk laat ingediend als het bezwaarschrift uiterlijk 31 december 2024 is ingediend, dan wel, indien de beschikking is afgeven na 31 december 2023, binnen een jaar volgend op de dagtekening van de beschikking;
+3. De UHT beschouwt een bezwaar niet als onredelijk laat ingediend als het bezwaarschrift uiterlijk 31 december 2024 is ingediend, dan wel, indien de beschikking is afgeven na 31 december 2023, binnen een jaar volgend op de dagtekening van de beschikking;
 
 4. UHT beschouwt een bezwaar als onredelijk laat ingediend als de indiening pas plaatsvindt nadat de besluitvorming op een aanvraag om het vergoeden van aanvullende werkelijke schade en een eventueel daarop volgend bezwaar is afgerond of als anderszins vergoeding van de werkelijke schade heeft plaatsgevonden. De in het derde lid bedoelde termijn is in dat geval niet van toepassing.
 
@@ -190,7 +168,7 @@ In bezwaar verricht UHT een volledige heroverweging, die naast een beoordeling v
 
 8. UHT maakt geen gebruik van de mogelijkheid om op grond van [artikel 7:3, aanhef en onder d, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) van horen af te zien.
 
-##### Artikel 3.8. Afzien van voorleggen aan de BAC op grond van de [Instellingsregeling BAC](https://wetten.overheid.nl/jci1.3:c:BWBR0045876)
+##### Artikel 3.8. Afzien van voorleggen aan de BAC op grond van de Instellingsregeling BAC
 
 1. Als UHT voornemens is een bezwaar af te doen zonder advies van de BAC, dan stelt UHT de indiener van het bezwaar in de gelegenheid om te reageren op die voorgenomen afdoening. De wijze waarop dat gebeurt kan telefonisch, schriftelijk of tijdens de hoorzitting en wordt vastgelegd ten behoeve van het dossier.
 
@@ -201,6 +179,8 @@ In bezwaar verricht UHT een volledige heroverweging, die naast een beoordeling v
 4. UHT legt de opvolging van evidente advieslijnen van de BAC vast op haar website. Als reden om van voorlegging aan de BAC af te zien, beroept UHT zich alleen op de opvolging van gepubliceerde advieslijnen, ook als de wijze van opvolging door UHT afwijkt van de advisering door de BAC.
 
 ### Hoofdstuk 4
+
+*PM Gereserveerd voor werkelijke schade*
 
 ### Hoofdstuk 5. Slotbepalingen
 

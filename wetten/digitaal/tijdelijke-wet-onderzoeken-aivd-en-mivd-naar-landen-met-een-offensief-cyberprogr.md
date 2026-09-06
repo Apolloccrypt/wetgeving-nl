@@ -1,47 +1,18 @@
 ---
 title: "Wet van 13 maart 2024, houdende tijdelijke regels inzake specifieke wettelijke voorzieningen voor het uitvoeren van onderzoeken door de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst naar landen met een offensief cyberprogramma tegen Nederland of Nederlandse belangen alsmede voorzieningen inzake de mogelijkheid tot vaststelling van een nieuwe eindtermijn voor gebruik door de diensten van in het kader van hun taakuitvoering met bijzondere bevoegdheden verworven bulkdatasets en de invoering van een bindende toets ex ante van verleende toestemmingen voor de real time interceptie van verkeers-en locatiegegevens (Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen)"
+citeertitel: "Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen"
 identifier: "BWBR0049562"
-country: "nl"
-rank: "wet"
-publication_date: "2024-07-01"
-last_updated: "2024-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049562"
+categorie: "Verkeer"
 soort: "wet"
-stam_id: "17071423"
-version_id: "30041272"
-internal_id: "C43199271"
-label_id: "16980524"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049562/2024-07-01/0"
-intitule_bron: "Stb.2024-88"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-13"
-intitule_published: "2024-04-11"
-intitule_in_force: "2024-06-13"
-intitule_status: "goed"
-original_publication: "Stb.2024-88"
-original_signed_date: "2024-03-13"
-original_published_date: "2024-04-11"
-original_effect: "nieuwe-regeling"
-original_dossier: "36263"
-original_url_id: "stb-2024-88"
-entry_into_force_date: "2024-07-01"
-jci_1_3: "jci1.3:c:BWBR0049562&z=2024-07-01&g=2024-07-01"
-jci_1_0: "1.0:c:BWBR0049562&g=2024-07-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen"
-signed_date: "2024-03-13"
-entry_into_force: "2024-07-01"
+publicatiedatum: 2024-07-01
+laatste_update: 2024-07-01
+status: geldig
+toestand: 2024-07-01
+bron: "https://wetten.overheid.nl/BWBR0049562"
+opgehaald: 2026-09-06
 ---
+
 # Wet van 13 maart 2024, houdende tijdelijke regels inzake specifieke wettelijke voorzieningen voor het uitvoeren van onderzoeken door de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst naar landen met een offensief cyberprogramma tegen Nederland of Nederlandse belangen alsmede voorzieningen inzake de mogelijkheid tot vaststelling van een nieuwe eindtermijn voor gebruik door de diensten van in het kader van hun taakuitvoering met bijzondere bevoegdheden verworven bulkdatasets en de invoering van een bindende toets ex ante van verleende toestemmingen voor de real time interceptie van verkeers-en locatiegegevens (Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is in aanvulling op en deels in afwijking van hetgeen in de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) is bepaald, randvoorwaarden te scheppen waarbinnen de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst op een effectieve wijze onderzoek kunnen doen naar landen met een offensief cyberprogramma tegen Nederland of Nederlandse belangen, met onder meer als doel beter zicht te krijgen op de daarmee samenhangende bekende en verborgen dreigingen, de door deze landen gehanteerde werkwijzen en de specifieke aandachtsgebieden waarop die dreigingen zich richten, te voorzien in tijdelijke regels inhoudende de mogelijkheid tot vaststelling van een nieuwe eindtermijn voor gebruik door de diensten van in het kader van hun taakuitvoering met bijzondere bevoegdheden verworven bulkdatasets en de invoering van een bindende toets ex ante van verleende toestemmingen voor de real time interceptie van verkeers-en locatiegegevens alsmede te voorzien in de mogelijkheid van bindend toezicht door de afdeling toezicht van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten en de mogelijkheid van beroep bij de Afdeling Bestuursrechtspraak van de Raad van State;
-
-Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Definitiebepaling
 
@@ -49,25 +20,25 @@ Zo is het, dat Wij, de Afdeling Advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- a. **dienst:** de Algemene- en Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst;
+- a. *dienst:* de Algemene- en Inlichtingen- en Veiligheidsdienst of de Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. **Wiv 2017:** de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
+- b. *Wiv 2017:* de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896);
 
-- c. **Onze betrokken Minister:**
+- c. *Onze betrokken Minister:*
 
-- 1°. ten aanzien van de Algemene Inlichtingen- en Veiligheidsdienst: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+   - 1°. ten aanzien van de Algemene Inlichtingen- en Veiligheidsdienst: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- 2°. ten aanzien van de Militaire Inlichtingen- en Veiligheidsdienst: Onze Minister van Defensie;
+   - 2°. ten aanzien van de Militaire Inlichtingen- en Veiligheidsdienst: Onze Minister van Defensie;
 
-- d. **afdeling toezicht:** de afdeling toezicht van de commissie, bedoeld in [artikel 97 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=97);
+- d. *afdeling toezicht:* de afdeling toezicht van de commissie, bedoeld in [artikel 97 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=97);
 
-- e. **toetsingscommissie:** de commissie, bedoeld in [artikel 32 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=32);
+- e. *toetsingscommissie:* de commissie, bedoeld in [artikel 32 van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=32);
 
-- f. **bulkdataset:** een omvangrijke gegevensverzameling waarvan het merendeel van de gegevens betrekking heeft op organisaties of personen die geen onderwerp van onderzoek van de diensten zijn en dat ook nooit zullen worden.
+- f. *bulkdataset:* een omvangrijke gegevensverzameling waarvan het merendeel van de gegevens betrekking heeft op organisaties of personen die geen onderwerp van onderzoek van de diensten zijn en dat ook nooit zullen worden.
 
 ### Hoofdstuk 2. Tijdelijke voorzieningen in verband met het onderzoek van de AIVD en MIVD naar landen met een offensief cyberprogramma
 
-#### Paragraaf 1. Reikwijdte en van toepassingsverklaring [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049562&hoofdstuk=2&z=2024-07-01&g=2024-07-01)
+#### Paragraaf 1. Reikwijdte en van toepassingsverklaring hoofdstuk 2
 
 ##### Artikel 2
 
@@ -135,7 +106,7 @@ Bij de toepassing van de in [artikel 26, tweede en vijfde lid, van de Wiv 2017](
 
 In afwijking van het bepaalde in [artikel 36, eerste lid, van de Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=36) wordt een door Onze betrokken Minister verleende toestemming als bedoeld in [artikel 50, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50) niet voor toetsing voorgelegd aan de toetsingscommissie. [Artikel 32, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=32) blijft buiten toepassing.
 
-#### Paragraaf 5. Bijschrijfmogelijkheid bij toepassing [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=47) en [54 Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=54)
+#### Paragraaf 5. Bijschrijfmogelijkheid bij toepassing artikel 47 en 54 Wiv 2017
 
 ##### Artikel 9
 
@@ -358,5 +329,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 18
 
 Deze wet wordt aangehaald als: Tijdelijke wet onderzoeken AIVD en MIVD naar landen met een offensief cyberprogramma, bulkdatasets en overige specifieke voorzieningen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

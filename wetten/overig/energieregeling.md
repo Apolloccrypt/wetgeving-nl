@@ -9,7 +9,7 @@ laatste_update: 2026-09-02
 status: geldig
 toestand: 2026-09-02
 bron: "https://wetten.overheid.nl/BWBR0051774"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Regeling van de Minister van Klimaat en Groene Groei van 9 november 2025, nr. WJZ/102130805, houdende regels ter uitvoering van de Energiewet en het Energiebesluit (Energieregeling)

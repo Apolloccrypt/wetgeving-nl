@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 3 mei 2024, houdende regels inzake de toegankelijkheid van producten in verband met de implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Warenwetbesluit toegankelijkheidsvoorschriften 2024)"
+citeertitel: "Warenwetbesluit toegankelijkheidsvoorschriften 2024"
 identifier: "BWBR0049688"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-11-26"
-last_updated: "2025-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049688"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17100123"
-version_id: "30094892"
-internal_id: "C43612881"
-label_id: "17008894"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049688/2025-11-26/0"
-intitule_bron: "Stb.2024-123"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-03"
-intitule_published: "2024-05-10"
-intitule_in_force: "2024-11-13"
-intitule_status: "goed"
-original_publication: "Stb.2024-123"
-original_signed_date: "2024-05-03"
-original_published_date: "2024-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-123"
-entry_into_force_date: "2025-06-28"
-jci_1_3: "jci1.3:c:BWBR0049688&z=2025-11-26&g=2025-11-26"
-jci_1_0: "1.0:c:BWBR0049688&g=2025-11-26"
-citeertitel_status: "officieel"
-short_title: "Warenwetbesluit toegankelijkheidsvoorschriften 2024"
-signed_date: "2024-05-03"
-entry_into_force: "2025-06-28"
+publicatiedatum: 2025-06-28
+laatste_update: 2025-11-26
+status: geldig
+toestand: 2025-11-26
+bron: "https://wetten.overheid.nl/BWBR0049688"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 3 mei 2024, houdende regels inzake de toegankelijkheid van producten in verband met de implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Warenwetbesluit toegankelijkheidsvoorschriften 2024)
-
-Op de voordracht van Onze Minister voor Langdurige Zorg van 3 juli 2023, kenmerk 3613514-1049681-WJZ;
-
-Gelet op [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (Pb EU L151/70) en [artikel 35 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=35);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 27 maart 2024, no. W13.23.00157/III);
-
-Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 april 2024, kenmerk 3799092-1049681-WJZ;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop artikel I van de Implementatiewet toegankelijkheidsvoorschriften producten en diensten in werking treedt.
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
@@ -54,39 +20,40 @@ Treedt in werking op het tijdstip waarop artikel I van de Implementatiewet toega
 
 In dit besluit wordt verstaan onder:
 
-- **betaalterminal:** apparaat met als voornaamste functie het verrichten van betalingen met gebruik van betaalinstrumenten als omschreven in artikel 4, punt 14, van [Richtlijn (EU) 2015/2366](32015L2366) op een fysiek verkooppunt, doch niet in een virtuele omgeving;
+- *betaalterminal:* apparaat met als voornaamste functie het verrichten van betalingen met gebruik van betaalinstrumenten als omschreven in artikel 4, punt 14, van Richtlijn (EU) 2015/2366 op een fysiek verkooppunt, doch niet in een virtuele omgeving;
 
-- **consument:** natuurlijke persoon die de desbetreffende producten koopt voor andere doeleinden dan zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
+- *consument:* natuurlijke persoon die de desbetreffende producten koopt voor andere doeleinden dan zijn handels-, bedrijfs-, ambachts- of beroepsactiviteit;
 
-- **computerapparatuur voor consumenten:** de combinatie van apparatuur waaruit een volledige computer bestaat, gekenmerkt door multifunctionaliteit en het vermogen om met de juiste software de meest voorkomende, door consumenten gevraagde computertaken uit te voeren, en bedoeld voor gebruik door consumenten, met inbegrip van personal computers, in het bijzonder desktops, notebooks, smartphones en tablets;
+- *computerapparatuur voor consumenten:* de combinatie van apparatuur waaruit een volledige computer bestaat, gekenmerkt door multifunctionaliteit en het vermogen om met de juiste software de meest voorkomende, door consumenten gevraagde computertaken uit te voeren, en bedoeld voor gebruik door consumenten, met inbegrip van personal computers, in het bijzonder desktops, notebooks, smartphones en tablets;
 
-- **dienst:** dienst als omschreven in artikel 4, punt 1, van [Richtlijn 2006/123/EG](32006L0123) van het Europees Parlement en de Raad;
+- *dienst:* dienst als omschreven in artikel 4, punt 1, van Richtlijn 2006/123/EG van het Europees Parlement en de Raad;
 
-- **distributeur:** natuurlijke of rechtspersoon in de toeleveringsketen, uitgezonderd de fabrikant of de importeur, die producten op de markt aanbiedt;
+- *distributeur:* natuurlijke of rechtspersoon in de toeleveringsketen, uitgezonderd de fabrikant of de importeur, die producten op de markt aanbiedt;
 
-- **eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties die gebruikt wordt voor elektronische communicatiediensten:** eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties als bedoeld in artikel 3, onder 40, van de richtlijn , die gebruikt wordt voor elektronische communicatiediensten als bedoeld in artikel 3, onder 8, van de richtlijn;
+- *eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties die gebruikt wordt voor elektronische communicatiediensten:* eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties als bedoeld in artikel 3, onder 40, van de richtlijn , die gebruikt wordt voor elektronische communicatiediensten als bedoeld in artikel 3, onder 8, van de richtlijn;
 
-- **eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties, voor toegang tot audiovisuele mediadiensten:** elke soort apparatuur met als voornaamste functie het verlenen van toegang tot audiovisuele mediadiensten als bedoeld in artikel 3, onder 6, van de richtlijn;
+- *eindapparatuur voor gebruik door consumenten, met interactieve computerfuncties, voor toegang tot audiovisuele mediadiensten:* elke soort apparatuur met als voornaamste functie het verlenen van toegang tot audiovisuele mediadiensten als bedoeld in artikel 3, onder 6, van de richtlijn;
 
-- **fabrikant:** natuurlijke of rechtspersoon die producten fabriceert of laat ontwerpen of fabriceren en dat product onder zijn benaming of merk in de handel brengt;
+- *fabrikant:* natuurlijke of rechtspersoon die producten fabriceert of laat ontwerpen of fabriceren en dat product onder zijn benaming of merk in de handel brengt;
 
-- **gemachtigde:** in de Unie gevestigde natuurlijke of rechtspersoon die schriftelijk door een fabrikant is gemachtigd om namens hem specifieke taken te verrichten;
+- *gemachtigde:* in de Unie gevestigde natuurlijke of rechtspersoon die schriftelijk door een fabrikant is gemachtigd om namens hem specifieke taken te verrichten;
 
-- **in de handel brengen:** het voor het eerst in de Unie op de markt aanbieden van producten;
+- *in de handel brengen:* het voor het eerst in de Unie op de markt aanbieden van producten;
 
-- **importeur:** in de Unie gevestigde natuurlijke of rechtspersoon die producten uit een derde land in de Unie in de handel brengt;
+- *importeur:* in de Unie gevestigde natuurlijke of rechtspersoon die producten uit een derde land in de Unie in de handel brengt;
 
-- **marktdeelnemer:** fabrikant, gemachtigde, importeur of distributeur;
+- *marktdeelnemer:* fabrikant, gemachtigde, importeur of distributeur;
 
-- **op de markt aanbieden:** het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van producten met het oog op distributie, consumptie of gebruik op de markt van de Unie;
+- *op de markt aanbieden:* het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van producten met het oog op distributie, consumptie of gebruik op de markt van de Unie;
 
-- **micro-onderneming:** onderneming met minder dan tien werknemers en een jaaromzet of een jaarlijks balanstotaal van ten hoogste twee miljoen Euro;
+- *micro-onderneming:* onderneming met minder dan tien werknemers en een jaaromzet of een jaarlijks balanstotaal van ten hoogste twee miljoen Euro;
 
-- **richtlijn:** [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151);
+- *richtlijn:*
+ Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151);
 
-- **producten:** door middel van een productieproces vervaardigde stof, preparaat of goed, uitgezonderd levensmiddelen, diervoeder, levende planten en dieren, producten van menselijke oorsprong en rechtstreeks met hun toekomstige reproductie verband houdende producten van planten en dieren, voor zover behorend tot een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26) genoemde categorie;
+- *producten:* door middel van een productieproces vervaardigde stof, preparaat of goed, uitgezonderd levensmiddelen, diervoeder, levende planten en dieren, producten van menselijke oorsprong en rechtstreeks met hun toekomstige reproductie verband houdende producten van planten en dieren, voor zover behorend tot een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049688&hoofdstuk=1&artikel=2&z=2025-11-26&g=2025-11-26) genoemde categorie;
 
-- **uit de handel nemen:** maatregel om te voorkomen dat producten in de toeleveringsketen op de markt wordt aangeboden.
+- *uit de handel nemen:* maatregel om te voorkomen dat producten in de toeleveringsketen op de markt wordt aangeboden.
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -100,15 +67,15 @@ In dit besluit wordt verstaan onder:
 
 - d. de volgende zelfbedieningsterminals:
 
-- 1°. betaalterminals,
+   - 1°. betaalterminals,
 
-- 2°. geldautomaten, ticketautomaten en incheckautomaten die worden gebruikt voor het verlenen van diensten waarop de richtlijn van toepassing is,,
+   - 2°. geldautomaten, ticketautomaten en incheckautomaten die worden gebruikt voor het verlenen van diensten waarop de richtlijn van toepassing is,,
 
-- 3°. interactieve informatieverstrekkende zelfbedieningsterminals, met uitzondering van terminals die als geïntegreerde delen van voertuigen, luchtvaartuigen, schepen, of rollend materieel zijn geïnstalleerd, die worden gebruikt voor het verlenen van diensten waarop de richtlijn van toepassing is;
+   - 3°. interactieve informatieverstrekkende zelfbedieningsterminals, met uitzondering van terminals die als geïntegreerde delen van voertuigen, luchtvaartuigen, schepen, of rollend materieel zijn geïnstalleerd, die worden gebruikt voor het verlenen van diensten waarop de richtlijn van toepassing is;
 
 - e. e-lezers.
 
-2. Dit besluit is niet van toepassing op producten die voor of op 28 juni 2025 in de handel zijn gebracht.
+2. Dit besluit is niet van toepassing op producten die voor of op 28 juni 2025 in de handel zijn gebracht.
 
 ### Hoofdstuk 2. Verplichtingen voor marktdeelnemers
 
@@ -196,10 +163,8 @@ De bevoegde nationale autoriteit, bedoeld in de artikelen 7, achtste en negende 
 
 ##### Artikel 12
 
-Indien het bij koninklijke boodschap van 14 juni 2023 ingediende voorstel van wet tot wijziging van diverse wetten ter implementatie van [Richtlijn (EU) 2019/882](32019L0882) van het Europees Parlement en de Raad van 17 april 2019 betreffende toegankelijkheidsvoorschriften voor producten en diensten (Implementatiewet toegankelijkheidsvoorschriften producten en diensten) (Kamerstukken 36 380) tot wet is of wordt verheven en [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049571&artikel=I) van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
+Indien het bij koninklijke boodschap van 14 juni 2023 ingediende voorstel van wet tot wijziging van diverse wetten ter implementatie van Richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende toegankelijkheidsvoorschriften voor producten en diensten (Implementatiewet toegankelijkheidsvoorschriften producten en diensten) (Kamerstukken ) tot wet is of wordt verheven en [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0049571&artikel=I) van die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als Warenwetbesluit toegankelijkheidsvoorschriften 2024.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

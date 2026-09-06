@@ -1,60 +1,34 @@
 ---
 title: "Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 4 september 2024, nr. WJZ/86218195, houdende regels over het verstrekken van een specifieke uitkering aan provincies ten behoeve van PAS-melders (Regeling provinciale maatregelen PAS-melders 2024)"
+citeertitel: "Regeling provinciale maatregelen PAS-melders 2024"
 identifier: "BWBR0050190"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-18"
-last_updated: "2025-01-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050190"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17214593"
-version_id: "30318402"
-internal_id: "C43492071"
-label_id: "17120514"
-dtd_version: "2.0"
-original_entry_into_force: "2024-09-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050190/2025-01-18/0"
-intitule_bron: "Stcrt.2024-29031"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-04"
-intitule_published: "2024-09-05"
-intitule_in_force: "2024-09-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-29031"
-original_signed_date: "2024-09-04"
-original_published_date: "2024-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-29031"
-entry_into_force_date: "2024-09-06"
-jci_1_3: "jci1.3:c:BWBR0050190&z=2025-01-18&g=2025-01-18"
-jci_1_0: "1.0:c:BWBR0050190&g=2025-01-18"
-citeertitel_status: "officieel"
-short_title: "Regeling provinciale maatregelen PAS-melders 2024"
-signed_date: "2024-09-04"
-entry_into_force: "2024-09-06"
+publicatiedatum: 2024-09-06
+laatste_update: 2025-01-18
+status: geldig
+toestand: 2025-01-18
+bron: "https://wetten.overheid.nl/BWBR0050190"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 4 september 2024, nr. WJZ/86218195, houdende regels over het verstrekken van een specifieke uitkering aan provincies ten behoeve van PAS-melders (Regeling provinciale maatregelen PAS-melders 2024)
-
-Gelet op de [artikelen 2a, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **gemeld PAS-project:** Natura 2000-activiteit die voldoet aan de voorwaarden van [artikel 17a.14 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.14);
+- *gemeld PAS-project:* Natura 2000-activiteit die voldoet aan de voorwaarden van [artikel 17a.14 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=17a.14);
 
-- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- *minister:* Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- **onafhankelijke taxateur:** taxateur die is ingeschreven in de van toepassing zijnde Kamer van het Nederlands Register Vastgoed Taxateurs.
+- *onafhankelijke taxateur:* taxateur die is ingeschreven in de van toepassing zijnde Kamer van het Nederlands Register Vastgoed Taxateurs.
 
 ##### Artikel 2. Specifieke uitkering
 
-1. De minister kan aan een provincie op aanvraag een specifieke uitkering verstrekken voor maatregelen die met voldoende zekerheid een oplossing bieden voor gemelde PAS-projecten en getroffen worden in de periode vanaf de inwerkingtreding van deze regeling tot en met 31 december 2026.
+1. De minister kan aan een provincie op aanvraag een specifieke uitkering verstrekken voor maatregelen die met voldoende zekerheid een oplossing bieden voor gemelde PAS-projecten en getroffen worden in de periode vanaf de inwerkingtreding van deze regeling tot en met 31 december 2026.
 
-2. Een maatregel als bedoeld in het eerste lid komt slechts in aanmerking voor een uitkering als voor het bieden van een oplossing voor een gemeld PAS-project niet meer middelen worden besteed dan de waarde van de onderneming waarvoor de melding is gedaan, met een maximum van € 2.000.000, zoals bepaald door een onafhankelijke taxateur.
+2. Een maatregel als bedoeld in het eerste lid komt slechts in aanmerking voor een uitkering als voor het bieden van een oplossing voor een gemeld PAS-project niet meer middelen worden besteed dan de waarde van de onderneming waarvoor de melding is gedaan, met een maximum van € 2.000.000, zoals bepaald door een onafhankelijke taxateur.
 
 3. Als de oplossing het kopen van onroerende goederen omvat, kan de uitkering alleen worden verstrekt voor de waardedaling van de onroerende goederen door functieverandering of gebruiksbeperkingen. De uitkering bedraagt maximaal 85% van het aankoopbedrag.
 
@@ -64,11 +38,11 @@ In deze regeling wordt verstaan onder:
 
 - a. verwerving van stikstofdepositieruimte:
 
-- 1°. als de onderneming waarvoor de melding is gedaan, actief is in de primaire productie van landbouwproducten: maximaal het totale bedrag aan de-minimissteun dat mag worden verleend op grond van artikel 3, tweede lid, van [Verordening (EU) 1408/2013](32013R1408) van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector;
+   - 1°. als de onderneming waarvoor de melding is gedaan, actief is in de primaire productie van landbouwproducten: maximaal het totale bedrag aan de-minimissteun dat mag worden verleend op grond van artikel 3, tweede lid, van Verordening (EU) 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector;
 
-- 2°. in andere gevallen: maximaal € 300.000;
+   - 2°. in andere gevallen: maximaal € 300.000;
 
-- b. omschakeling, reductie van stikstofemissie of verplaatsing: maximaal € 600.000.
+- b. omschakeling, reductie van stikstofemissie of verplaatsing: maximaal € 600.000.
 
 6. Een subsidie voor een sluiting als bedoeld in het vierde lid voldoet aan de Regeling provinciale gebiedsgerichte beëindiging veehouderijlocaties.
 
@@ -86,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Uitkeringsplafond
 
-Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
+Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
 ##### Artikel 4. Beschikbaar budget per aanvraagperiode, maximumbedrag per aanvraag en wijze van verdeling
 
@@ -135,7 +109,7 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 ##### Artikel 8. Verplichtingen als de uitkering is verstrekt voor waardedaling onroerende goederen
 
-1. Voor zover de uitkering is verstrekt voor de waardedaling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2025-01-18&g=2025-01-18), stelt de provincie de minister in één keer voor de hele uitkering, uiterlijk 15 juli 2029 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=12&z=2025-01-18&g=2025-01-18), in kennis van de aankoopwaarde en van de opbrengst- of restwaarde van die goederen.
+1. Voor zover de uitkering is verstrekt voor de waardedaling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=2&z=2025-01-18&g=2025-01-18), stelt de provincie de minister in één keer voor de hele uitkering, uiterlijk 15 juli 2029 gelijktijdig met de jaarlijkse verantwoording, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050190&artikel=12&z=2025-01-18&g=2025-01-18), in kennis van de aankoopwaarde en van de opbrengst- of restwaarde van die goederen.
 
 2. De aankoopwaarde en de restwaarde van de betrokken goederen worden bepaald door een onafhankelijke taxateur. Het rapport van de taxateur over de restwaarde wordt door de provincie verstrekt bij de inkennisstelling, bedoeld in het eerste lid.
 
@@ -167,17 +141,17 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 - c. [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
 
-- d. [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’);
+- d. Verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekten en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidswetgeving’);
 
-- e. Gedelegeerde [verordening (EU) 2019/2035](32019R2035) van de Commissie van 28 juni 2019 tot aanvulling van [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren.
+- e. Gedelegeerde verordening (EU) 2019/2035 van de Commissie van 28 juni 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat betreft regels voor inrichtingen waar landdieren worden gehouden en broederijen, alsmede voor de traceerbaarheid van bepaalde gehouden landdieren en broedeieren.
 
 2. De minister kan gegevens die in het kader van deze regeling zijn verstrekt:
 
 - a. ook verwerken voor:
 
-- 1°. het opnemen van stikstofdepositieruimte in AERIUS register;
+   - 1°. het opnemen van stikstofdepositieruimte in AERIUS register;
 
-- 2°. de toepassing van [artikel 20.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.1), de [artikelen 11.68](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.68), [11.69](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69), [11.69a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69a), [11.69c](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69c), [12.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26b) en [12.26c van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26c) en de [artikelen 10.36dc](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.36dc) en [15.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.5);
+   - 2°. de toepassing van [artikel 20.1, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=20.1), de [artikelen 11.68](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.68), [11.69](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69), [11.69a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69a), [11.69c](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.69c), [12.26b](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26b) en [12.26c van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=12.26c) en de [artikelen 10.36dc](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.36dc) en [15.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=15.5);
 
 - b. verstrekken aan kennisinstellingen met het oog op monitoring, voortgang en evaluatie.
 
@@ -185,16 +159,14 @@ Het uitkeringsplafond bedraagt in totaal € 226.900.000, inclusief de omzetbela
 
 1. De provincie legt jaarlijks verantwoording af over de besteding van de uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-2. Nadat de minister de relevante verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister de uitkering binnen 22 weken na die ontvangst ambtshalve vast.
+2. Nadat de minister de relevante verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister de uitkering binnen 22 weken na die ontvangst ambtshalve vast.
 
 ##### Artikel 13. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
+2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling provinciale maatregelen PAS-melders 2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,35 +1,16 @@
 ---
 title: "Handhavingskader CO-stelsel, Toelatingsorganisatie Kwaliteitsborging Bouw"
 identifier: "BWBR0050127"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-08-13"
-last_updated: "2024-08-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050127"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17201613"
-version_id: "30291282"
-internal_id: "C43459891"
-label_id: "17108074"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050127/2024-08-13/0"
-intitule_bron: "Stcrt.2024-26362"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-08-13"
-intitule_in_force: "2024-08-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-26362"
-original_published_date: "2024-08-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-26362"
-entry_into_force_date: "2024-08-13"
-jci_1_3: "jci1.3:c:BWBR0050127&z=2024-08-13&g=2024-08-13"
-jci_1_0: "1.0:c:BWBR0050127&g=2024-08-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-08-13"
+publicatiedatum: 2024-08-13
+laatste_update: 2024-08-13
+status: geldig
+toestand: 2024-08-13
+bron: "https://wetten.overheid.nl/BWBR0050127"
+opgehaald: 2026-09-06
 ---
+
 # Handhavingskader CO-stelsel, Toelatingsorganisatie Kwaliteitsborging Bouw
 
 ### 1. Inleiding
@@ -42,6 +23,20 @@ De TloKB is een zelfstandig bestuursorgaan en heeft hoofdtaken ten aanzien van d
 
 Binnen het CO-stelsel, zie figuur 1, voert de TloKB de volgende deeltaken uit, die tot doel hebben de kwaliteit te verbeteren van de werkzaamheden aan gasverbrandingsinstallaties met het oog op reductie van koolmonoxide-ongevallen:
 
+- • Het toetsen en aanwijzen van certificatieschema’s en certificerende instellingen.1[Protocol werkwijze Toelating & Aanwijzing, TloKB.nl, publicatiedatum 22 april 2022](https://www.tlokb.nl/publicaties/publicaties/2022/4/22/index)
+
+- • Het bijhouden van een register van certificatieschema’s, certificerende instellingen en certificaathouders.
+
+- • Het toezicht op het functioneren en de effectiviteit van CO-stelsel in de praktijk:
+
+   - – Nalevingstoezicht bij de schemabeheerder en certificerende instelling met als doel vast te stellen dat zowel de schemabeheerder, de certificerende instelling en de certificaathouder het aangewezen certificatieschema naleven.
+
+   - – Kwaliteitstoezicht op de werking van het CO-stelsel als geheel.
+
+- • Het monitoren van (bijna-)ongevalmeldingen en gevaarlijke situaties.
+
+- • Het monitoren door de TloKB van het CO-stelsel voor een (goede) beoordeling van de effectiviteit van dit stelsel.
+
 ### 1.2. Doel handhavingskader
 
 Dit handhavingskader bevat een algemene toelichting op de handhavingstaak van de TloKB in het CO-stelsel en de wijze waarop de TloKB invulling geeft aan deze taak.
@@ -50,23 +45,53 @@ Dit handhavingskader bevat een algemene toelichting op de handhavingstaak van de
 
 Dit handhavingskader is op te vatten als een beleidsregel. [Artikel 4:83 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83) bepaalt dat de bekendmaking van een beleidsregel zijn wettelijke basis vermeldt.
 
-De juridische grondslag voor het toezicht en de handhaving door de TloKB in het CO-stelsel is het [Besluit van de minister van 7 mei 2024, nr.2024-0000233924, tot verlening van mandaat en machtiging aan de TloKB](https://wetten.overheid.nl/jci1.3:c:BWBR0049702), ten behoeve van de uitvoering van de wettelijk taken certificering werkzaamheden aan gasverbrandingsinstallaties die voortvloeien uit [artikel 92 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) juncto [artikel 3 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=3).2Staatscourant 2022, 10597 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl)
+De juridische grondslag voor het toezicht en de handhaving door de TloKB in het CO-stelsel is het [Besluit van de minister van 7 mei 2024, nr.2024-0000233924, tot verlening van mandaat en machtiging aan de TloKB](https://wetten.overheid.nl/jci1.3:c:BWBR0049702), ten behoeve van de uitvoering van de wettelijk taken certificering werkzaamheden aan gasverbrandingsinstallaties die voortvloeien uit [artikel 92 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) juncto [artikel 3 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=3).2Staatscourant 2022, 10597 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl)
 
 ### 1.4. Missie en visie, kernwaarden en kwaliteiten
 
 Het handhavingskader bouwt voort op de missie, visie en kernwaarden en met inzet van de kwaliteiten van de TloKB. Het handhavingskader geeft invulling aan het wettelijke kader en draagt bij aan een beter vertrouwen in kwaliteit van bouwen.
 
+Missie
+
 De TloKB ziet toe op het stelsel van kwaliteitsborging van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties. Eigenaren en gebruikers krijgen zo bouwwerken die veiliger, gezonder, duurzamer, bruikbaarder en toegankelijker zijn.
+
+Visie
 
 De TloKB speelt een publieke sleutelrol in de verbetering van de bouwkwaliteit. De TloKB laat toetsmethoden toe en ziet toe op het juiste gebruik van deze methoden in de bouwpraktijk. Zo kan iedereen vertrouwen op de kwaliteit van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties.
 
+Kernwaarden
+
 De TloKB voert haar taken uit vanuit drie kernwaarden:
 
+- • *Onafhankelijk:* de TloKB neemt besluiten en adviseert met het oog op het maatschappelijk belang van een goede bouwkwaliteit.
+
+- • *Transparant:* de TloKB geeft inzicht in de overwegingen die ten grondslag liggen aan het te nemen besluiten en adviezen, en draagt deze uit.
+
+- • *Zorgvuldig:* de TloKB neemt alle relevante aspecten in ogenschouw en staat open voor uiteenlopende maatschappelijke signalen.
+
+Kwaliteiten
+
 Bij de uitvoering van de taken zet de TloKB de volgende vier kwaliteiten in:
+
+- • *Professioneel:* de TloKB verstaat haar vak en is op de hoogte van de ontwikkelingen relevant voor de bouwsector.
+
+- • *Inlevend:* de TloKB voert vanuit een open houding overleg met betrokken partijen, weegt alle belangen en onderhoudt een relevant maatschappelijk netwerk.
+
+- • *Kosteneffectief:* de TloKB gaat in haar taakuitvoering doelmatig om met de aan hen verstrekte middelen.
+
+- • *Doortastend:* de TloKB verzamelt alle informatie die nodig is voor heldere en consistente besluitvorming in toelating en handhaving.
 
 ### 1.5. Beleidsregels CO-toezicht
 
 De TloKB stelt voor ieder stelsel waar zij toezichthoudende taken heeft beleidsregels op in de vorm van kaders en een protocol werkwijze. Daarin legt zij de invulling vast van het toezicht, de inspecties en de handhaving en de daarbij te hanteren werkwijze:
+
+- • een toezichtkader;
+
+- • een inspectiekader;
+
+- • een handhavingskader; en
+
+- • een protocol werkwijze toezicht (inspectie en handhaving).
 
 ### 1.6. Doel van handhaving
 
@@ -80,7 +105,7 @@ Wanneer de beschikkinghouders zich niet houden aan de voorschriften, dan is de T
 
 ### 1.7. Opbouw van het handhavingskader CO-stelsel
 
-In dit handhavingskader komt in hoofdstuk 2 een beschrijving aan de orde van wat handhaving is en wat de bevoegdheden zijn van de TloKB. Hoofdstuk 3 beschrijft de relatie tussen de handhaving door de TloKB en door de Raad van Accreditatie. Vervolgens beschrijft hoofdstuk 4 de handhavingsmiddelen van de TloKB. Verder beschrijft hoofdstuk 5 de afwegingen bij de inzet van de handhavingsmiddelen. Hoofdstuk 6 beschrijft de rechtsmiddelen van een beschikkinghouder tegen een handhavingsbesluit van de TloKB. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=1&z=2024-08-13&g=2024-08-13) beschrijft onderwerpen die aan de orde kunnen komen in het handhavingsbesluit. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=2&z=2024-08-13&g=2024-08-13) beschrijft het civielrechtelijk optreden op het onrechtmatig/oneigenlijk gebruik van het beeldmerk CO-logo.
+In dit handhavingskader komt in [hoofdstuk 2](https://wetten.overheid.nl/BWBR0050127) een beschrijving aan de orde van wat handhaving is en wat de bevoegdheden zijn van de TloKB. [Hoofdstuk 3](https://wetten.overheid.nl/BWBR0050127) beschrijft de relatie tussen de handhaving door de TloKB en door de Raad van Accreditatie. Vervolgens beschrijft [hoofdstuk 4](https://wetten.overheid.nl/BWBR0050127) de handhavingsmiddelen van de TloKB. Verder beschrijft [hoofdstuk 5](https://wetten.overheid.nl/BWBR0050127) de afwegingen bij de inzet van de handhavingsmiddelen. [Hoofdstuk 6](https://wetten.overheid.nl/BWBR0050127) beschrijft de rechtsmiddelen van een beschikkinghouder tegen een handhavingsbesluit van de TloKB. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=1&z=2024-08-13&g=2024-08-13) beschrijft onderwerpen die aan de orde kunnen komen in het handhavingsbesluit. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=2&z=2024-08-13&g=2024-08-13) beschrijft het civielrechtelijk optreden op het onrechtmatig/oneigenlijk gebruik van het beeldmerk CO-logo.
 
 ### 2. Handhavingsbevoegdheden
 
@@ -92,13 +117,17 @@ De TloKB heeft de bevoegdheid om op aanvraag van een schemabeheerder en een cert
 
 ### 2.2. Juridische grondslag handhavingsbevoegdheden
 
-De TloKB houdt toezicht op grond van het [Besluit van de minister van 7 mei 2024, nr. 2024-0000233924, tot verlening van mandaat en machtiging aan de Toelatingsorganisatie Kwaliteitsborging Bouw](https://wetten.overheid.nl/jci1.3:c:BWBR0049702), ten behoeve van de uitvoering van de wettelijk taken certificering werkzaamheden aan gasverbrandingsinstallaties die voortvloeien uit [artikel 92, eerste lid, Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) juncto [artikel 3 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=3).3Staatscourant 2024, 15871 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl)
+De TloKB houdt toezicht op grond van het [Besluit van de minister van 7 mei 2024, nr. 2024-0000233924, tot verlening van mandaat en machtiging aan de Toelatingsorganisatie Kwaliteitsborging Bouw](https://wetten.overheid.nl/jci1.3:c:BWBR0049702), ten behoeve van de uitvoering van de wettelijk taken certificering werkzaamheden aan gasverbrandingsinstallaties die voortvloeien uit [artikel 92, eerste lid, Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) juncto [artikel 3 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=3).3Staatscourant 2024, 15871 | Overheid.nl > Officiële bekendmakingen (officielebekendmakingen.nl)
 
-In ieder geval in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) (Bbl), in het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) (Bkl), in het **Aanwijzingskader CO-certificatieschema**, in het **Aanwijzingskader certificerende instelling CO-stelsel** en in de aanwijzingsbeschikking staan de voorschriften waaraan de beschikkinghouders zich dienen te houden.4[Aanwijzingskader certificerende instelling CO-stelsel, TloKB.nl, Publicaties 23-06-2022,](https://www.tlokb.nl/gasverbrandingsinstallaties/Publicaties/publicaties/2022/5/15/index)
+In ieder geval in de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) (Bbl), in het [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313) (Bkl), in het *Aanwijzingskader CO-certificatieschema*, in het *Aanwijzingskader certificerende instelling CO-stelsel* en in de aanwijzingsbeschikking staan de voorschriften waaraan de beschikkinghouders zich dienen te houden.4[Aanwijzingskader certificerende instelling CO-stelsel, TloKB.nl, Publicaties 23-06-2022,](https://www.tlokb.nl/gasverbrandingsinstallaties/Publicaties/publicaties/2022/5/15/index)
+
+Toezichtbevoegdheden van de TloKB
 
 De ambtenaren van de TloKB (verder te noemen toezichthouders) zijn aangewezen als ambtenaren belast met het toezicht op de naleving van het voorgenoemde in het [Besluit mandaat en machtiging Toelatingsorganisatie Kwaliteitsborging Bouw inzake certificering werkzaamheden aan gasverbrandingsinstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0049702).5https://zoek.officielebekendmakingen.nl/stcrt-2024-15871.html
 
 De toezichthouders van de TloKB hebben hiervoor de bevoegdheden uit [titel 5.2 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) en de bevoegdheden uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181), het [Bbl](https://wetten.overheid.nl/jci1.3:c:BWBR0041297) en [Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313), voor zover gemandateerd gekregen. Zo kunnen de toezichthouders alle zakelijke gegevens en bescheiden opvragen, die nodig zijn voor de uitoefening van hun taken, om toezicht te kunnen houden op de goede werking van het stelsel op grond van [artikel 11.26 Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.26). Het inspectiekader CO gaat hier nader op in.
+
+Handhavingsbevoegdheden van de TloKB
 
 De TloKB kan tekortkomingen in de naleving constateren bij de beschikkinghouders tijdens controles en inspectie. Dit kan ook naar aanleiding van meldingen van de beschikkinghouder zelf. Verder kunnen tekortkomingen geconstateerd worden na informatie uit meldingen van derden, uit informatie van andere toezichthouders en uit handhavingsverzoeken.
 
@@ -107,6 +136,16 @@ De tekortkomingen werkt de TloKB uit in een rapport. Het rapport beschrijft de t
 Gedragingen van beschikkinghouders die in strijd zijn met de voorschriften en de wet- en regelgeving als genoemd in de aanwijzingskaders en de beschikking, zijn overtredingen ([artikel 5:1 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1)). De TloKB kan op grond van het voorgenoemde mandaat handhavend optreden tegen deze overtredingen.
 
 Voorafgaand aan en tijdens het handhavend optreden kan de TloKB de beschikkinghouder opdragen een correctief actieplan te maken. Dit correctief actieplan kan inhouden:
+
+- • een analyse van de grondoorzaak;
+
+- • een analyse van de omvang van de overtreding(en) en eventueel van hoe lang de over treding(en) zich heeft (hebben) voorgedaan;
+
+- • de te nemen herstelstappen;
+
+- • de acties om de grondoorzaak weg te nemen en
+
+- • het aantonen door de beschikkinghouder van de effectiviteit van de getroffen maatregelen.
 
 Beëindigt de beschikkinghouder niet tijdig de overtreding, dan wel leiden genomen verbeteracties onvoldoende tot de beoogde verbetering, dan kan de TloKB besluiten om (verder) handhavend op te treden. De ernst en omstandigheden kunnen ook zodanig zijn dat de TloKB terstond handhaaft.
 
@@ -142,7 +181,7 @@ Een last onder bestuursdwang en een last onder dwangsom worden niet geregistreer
 
 ### 4.2. Schorsing aanwijzing
 
-De TloKB kan de aanwijzing van een beschikkinghouder voor een door haar vast te stellen termijn schorsen op grond van [artikel 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.74) en [3.75 Bbl](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.75), indien de beschikkinghouder niet (langer) voldoet aan de beschikkingsvoorwaarden, dan wel aan de van toepassing zijnde de wet- en regelgeving als genoemd in het **Aanwijzingskader certifieren instelling CO-stelsel**.
+De TloKB kan de aanwijzing van een beschikkinghouder voor een door haar vast te stellen termijn schorsen op grond van [artikel 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.74) en [3.75 Bbl](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&artikel=3.75), indien de beschikkinghouder niet (langer) voldoet aan de beschikkingsvoorwaarden, dan wel aan de van toepassing zijnde de wet- en regelgeving als genoemd in het *Aanwijzingskader certifieren instelling CO-stelsel*.
 
 De TloKB schorst de aanwijzing van een certificatieschema respectievelijk een certificerende instelling in ieder geval, als de beschikkinghouder in surseance van betaling verkeert en indien de Raad voor Accreditatie de accreditatie heeft geschorst.
 
@@ -151,6 +190,16 @@ De TloKB registreert de schorsing in het register gasverbrandingsinstallaties.7[
 ### 4.3. Intrekking aanwijzing
 
 De TloKB kan de aanwijzing van een beschikkinghouder intrekken op grond van [artikel 3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.74) en [3.75 Bkl](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.75), als de beschikkinghouder:
+
+- a. het aangewezen certificatieschema dan wel de aangewezen certificerende instelling niet (langer) voldoet aan de beschikkingsvoorwaarden, dan wel aan de van toepassing zijnde wet- en regelgeving, uit het *Aanwijzingskader certificerende instelling CO-stelsel*. Dit is bijvoorbeeld het geval als de aangewezen certificerende instelling haar accreditatie van de Raad voor Accreditatie verliest; dan wel
+
+- b. de gegevens die met het oog op de aanwijzing zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag om aanwijzing een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest; dan wel
+
+- c. de aangewezen beschikkinghouder in strijd handelt met de voorschriften die zijn verbonden aan de aanwijzing; dan wel
+
+- d. de beschikkinghouder failliet is verklaard; dan wel
+
+- e. indien de beschikkinghouder daarom verzoekt.
 
 Als de TloKB de aanwijzing van een beschikkinghouder intrekt, blijven de afgegeven certificaten respectievelijk blijft het certificatieschema geldig gedurende zes maanden.
 
@@ -166,21 +215,41 @@ De TloKB legt haar bevindingen vast in een controle- of inspectierapport. Daarna
 
 Afhankelijk van de ernst en aard van de overtreding kan er vervolgens voor worden gekozen, alvorens te besluiten tot inzet van handhavingsmiddelen, eerst aan te spreken, aan te schrijven, een bestuurlijk gesprek te initiëren, over te gaan tot verscherpt toezicht en/of te waarschuwen. Dit kan gecombineerd worden met een correctief actieplan. Voor de inzet van een maatregel hoeft de ene (zwaardere) maatregel niet altijd voorafgegaan te worden door de andere (lichtere) maatregel. Het doel van de hierboven genoemde maatregelen is om de beschikkinghouder te bewegen zo spoedig mogelijk uit eigen beweging te voldoen aan de wet- en regelgeving en aan de voorschriften uit de aanwijzingsbeschikking. Dit laat onverlet dat de TloKB kan besluiten om direct over te gaan tot de inzet van handhavingsmiddelen, wanneer de omvang en aard van tekortkomingen hierom vragen.
 
+Aanspreken/informeren
+
 De TloKB spreekt een beschikkinghouder aan die een overtreding heeft begaan en initiatief toont om dit zelf op te lossen.
+
+Waarschuwing – brief als aan de orde met hersteltermijn
 
 Een beschikkinghouder die in overtreding is, kan een waarschuwing krijgen door middel van een waarschuwingsbrief. Daarin staat dat hij moet voldoen aan de betreffende wet- en regelgeving/ voorschriften en de termijn waarbinnen dit dient te gebeuren. In de brief staat ook dat de TloKB andere middelen kan inzetten als de maatregelen niet op tijd zijn getroffen. De TloKB registreert de waarschuwing niet in het register gasverbrandingsinstallaties.
 
+Bestuurlijk gesprek
+
 Een bestuurlijk gesprek is een gesprek tussen het bestuur van de TloKB en (de directie van) de overtreder. Zo’n gesprek vindt soms plaats als vervolg op een waarschuwing en kan voorafgaan aan verscherpt toezicht. Het doel van het gesprek is om het belang te benadrukken van het opheffen van de overtreding door de beschikkinghouder.
+
+Verscherpt toezicht
 
 Bij verscherpt toezicht krijgt een beschikkinghouder de gelegenheid om binnen een door de TloKB vastgestelde termijn de overtreding te beëindigen. De TloKB houdt in een periode van verscherpt toezicht de voortgang van het opheffen van de overtreding in de gaten. Dit doet zij bijvoorbeeld door resultaatsverslagen van een correctief actieplan op te vragen en door eventueel (onaangekondigde) inspecties uit te voeren.
 
+Correctief actieplan
+
 Voor en tijdens het handhavend optreden kan de TloKB de beschikkinghouder opdragen een correctief actieplan te maken. Dit correctief actieplan kan inhouden:
+
+- • een analyse van de oorzaak;
+
+- • een analyse van de omvang en eventueel van hoe lang de overtreding(en) zich heeft (hebben) voorgedaan;
+
+- • de te nemen herstelstappen;
+
+- • de acties om de oorzaak weg te nemen en;
+
+- • het aantonen door de schemabeheerder, dan wel door de certificerende instelling van de effectiviteit van de getroffen maatregelen.
 
 Beëindigt de beschikkinghouder niet tijdig de overtreding, dan wel leiden genomen verbeter acties onvoldoende tot verbetering, dan kan de TloKB besluiten om direct (verder) handhavend op te treden.
 
 ### 5.2. Werkwijze handhavingsbesluit
 
-Naast het handhavingsrepertoire beschereven in paragraaf 5.1 is de TloKB bevoegd om de handhavingsmiddelen in te zetten als beschreven in hoofdstuk 4.
+Naast het handhavingsrepertoire beschereven in [paragraaf 5.1](https://wetten.overheid.nl/BWBR0050127) is de TloKB bevoegd om de handhavingsmiddelen in te zetten als beschreven in [hoofdstuk 4](https://wetten.overheid.nl/BWBR0050127).
 
 Of en zo ja welk handhavingsmiddel de TloKB inzet, hangt af van de concrete situatie. Verder zijn ook de ernst, de omstandigheden, het optreden van de beschikkinghouder, of andere overheidsinstanties al handhaven of gehandhaafd hebben en de andere elementen uit [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=1&z=2024-08-13&g=2024-08-13) daarbij van belang. Ook andere feiten en omstandigheden kunnen hierbij een rol spelen. De opsomming is daarom niet limitatief.
 
@@ -189,6 +258,16 @@ Indien de TloKB besluit tot de inzet van een last onder bestuursdwang, een last 
 In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050127&bijlage=1&z=2024-08-13&g=2024-08-13) staan de elementen die dit handhavingsbesluit verder kan bevatten.
 
 Bij het nemen van het handhavingsbesluit en bij de uitoefening van de handhavingsbevoegdheden past de TloKB de beginselen van behoorlijk bestuur uit de algemene wet bestuursrecht toe. Deze beginselen zijn onder meer:
+
+- • *Beginselplicht tot handhaving* Gelet op het algemeen belang dat is gediend met handhaving, zal in geval van overtreding van een voorschrift de TloKB, in het geval zij bevoegd is om op te treden, in de regel van deze bevoegdheid gebruik moeten maken (of een handhavingstraject in gang moeten zetten dat tot het gebruiken van die bevoegdheid zal of kan leiden). Slechts onder bijzondere omstandigheden mag de TloKB hiervan afzien. Dit kan zich voordoen als concreet zicht op legalisering bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie dient te worden afgezien.
+
+- • *Motiveringsbeginsel* In een besluit motiveert de TloKB voldoende duidelijk op basis waarvan en waarom zij een bepaalde beslissing neemt of niet neemt.
+
+- • *Gelijkheidsbeginsel* Uit een oogpunt van rechtsgelijkheid past de TloKB handhavingsmiddelen in vergelijkbare situaties op eenzelfde wijze toe.
+
+- • *Proportionaliteitsbeginsel* De inzet van het toezicht en de handhaving dient in verhouding te staan tot het doel.
+
+- • *Verdedigingsbeginsel* De persoon of onderneming die als overtreder te maken krijgt met handhavend optreden door de TloKB, moet in de gelegenheid worden gesteld zijn of haar zienswijze kenbaar te maken en daarvoor een redelijke termijn te krijgen. De termijn waarbinnen de overtreder haar zienswijze kan geven staat in de brief van de TloKB. In die brief wordt de overtreder uitgenodigd om binnen die termijn zijn zienswijze te geven op het voorgenomen handhavend optreden. Die redelijke termijn is meestal twee weken na dagtekening. Bij bestuursrechtelijke handhaving heeft dit beginsel mede uitwerking gekregen in de hoorplicht van [art. 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) (spoed eisende gevallen uitgezonderd).
 
 De TloKB zal zorgvuldig te werk moeten gaan. Dit omdat in het bijzonder het schorsen of intrekken van een aanwijzing voor de betrokken partijen een grote impact kan hebben. Het kunnen opleggen van deze handhavingsmiddelen kan echter noodzakelijk zijn om de geloofwaardigheid van het schema en het stelsel niet in het geding te brengen. De TloKB zal daarom een afweging maken tussen de maatschappelijke belangen en de individuele belangen van de beschikkinghouder en de andere betrokkenen.
 
@@ -200,7 +279,11 @@ In 2026 zal de TloKB evalueren of een nadere invulling van het handhavingskader 
 
 ### 6.1. Zienswijze en rechtsmiddelen
 
+Zienswijze
+
 Voorafgaand aan handhaving met een formeel besluit stelt de TloKB de betrokken beschikkinghouder en eventuele andere door het besluit geraakten (belanghebbenden) in de gelegenheid zijn/hun zienswijze naar voren te brengen. De grondslag hiervoor staat in [artikel 4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8). De zienswijze kan door genoemde partijen per e-mail aan de TloKB worden gegeven en is vormvrij. De TloKB stuurt hen een brief waarin zij het een en ander toelicht.
+
+Rechtsmiddelen
 
 Tegen een besluit tot oplegging van een last onder bestuursdwang, een last onder dwangsom, een besluit tot schorsing dan wel tot intrekking van een aanwijzingsbeschikking kunnen beschikking houders en eventuele andere belanghebbenden binnen zes weken na het besluit schriftelijk bezwaar maken. Het besluit verstrekt hierover nadere informatie.
 
@@ -215,45 +298,3 @@ Een beschikkinghouder kan om de opheffing van de schorsing verzoeken. De TloKB k
 Daarvoor dient de beschikkinghouder aantoonbaar te maken dat hij de overtreding(en) ongedaan heeft gemaakt dan wel heeft hersteld en dat hij maatregelen heeft genomen ter voorkoming dat de overtreding(en) zich wederom voordoen. Het gaat erom dat de beschikkinghouder aantoonbaar maakt dat het correctief actieplan is uitgevoerd.
 
 Ook van een last onder dwangsom kan de opheffing worden verzocht. De TloKB kan op grond van [artikel 5:34 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34) op verzoek van de beschikkinghouder de last opheffen indien de beschikking een jaar van kracht is geweest zonder dat de dwangsom is verbeurd. Ook kan op verzoek van de beschikkinghouder de looptijd van de last worden opgeschort voor een bepaalde termijn of de dwangsom worden verminderd ingeval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de beschikkinghouder om aan zijn verplichtingen te voldoen.
-
-## Bijlage 1. Onderbouwing van het handhavingsbesluit
-
-In een handhavingsbesluit geeft de TloKB een onderbouwing van het besluit.
-
-Een handhavingsbesluit kan bevatten:
-
-- •. de bevindingen van de toezichthouder/inspecteur van de TloKB;
-
-- •. op grond waarvan de toezichthouder bevoegd was toezicht te houden en waarop;
-
-- •. de concrete situatie en de omstandigheden;
-
-- •. regelgeving (waar, wanneer en van wie en door wie) en waar dit uit is gebleken;
-
-- •. de ernst/de mogelijke gevolgen, bijvoorbeeld of er sprake is van (dreigende) schade9Ernstige situatie is een situatie die een dusdanig risico oplevert, dat directe actie noodzakelijk is. Te denken valt aan een bedreiging voor het stelsel, bijvoorbeeld door:i. Aanwijzingen van (moedwillige) fraude zoals vervalsing van bewijsstukken, (pogingen tot) intimidatie, omkoping of andere pogingen om het oordeel van de toezichthouder, auditor of beoordelaar te beïnvloeden.ii. Aanwijzingen van malversaties bij de afgifte van verklaringen.iii. Een situatie met direct gevaar voor de veiligheid en/of gezondheid van werknemers of van bewoners van de woningen waar de gasverbrandingsinstallaties zich bevinden;iv. Aanwijzingen van zaken die het vertrouwen in de CI ernstig beschadigen. Deze opsomming is niet limitatief.;
-
-- •. het gedrag van de beschikkinghouder;
-
-- •. de eventuele handhavingsacties van andere overheidsinstanties;
-
-- •. de termijn waarbinnen het herstel uitgevoerd dient te zijn, als aan de orde;
-
-- •. de gevolgen van het achterwege blijven van herstel van de overtreding;
-
-- •. de eventuele verzwarende en verzachtende omstandigheden die een rol hebben gespeeld bij de bepaling of en op welke wijze de TloKB handelt en handhaaft;
-
-- •. de gevolgen van het overschrijden van de opgelegde termijn zonder herstel, als aan de orde;
-
-- •. een beschrijving van wat de TloKB van de beschikkinghouder verwacht en op welke termijn;
-
-- •. de afweging van de verschillende belangen waar de TloKB mee rekening dient te houden;
-
-- •. een mogelijkheid om een zienswijze op het besluit te kunnen geven; en
-
-- •. de rechtsmiddelen.
-
-## Bijlage 2. Civielrechtelijk optreden op het onrechtmatig/oneigenlijk gebruik van het co-vrij beeldmerk
-
-De Staat der Nederlanden (het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) is houder van het CO-VRIJ beeldmerk en het reglement voor het beeldmerk.
-
-De TloKB is op grond van [artikel 2A van het mandaat, volmacht en machtiging](https://wetten.overheid.nl/jci1.3:c:BWBR0049702&artikel=2a) bevoegd om namens de Staat der Nederlanden (het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) op treden tegen bedrijven die het CO-VRIJ beeldmerk voor CO-gecertificeerde installatiebedrijven hanteren10Het CO-VRIJ beeldmerk, bedoeld in artikel 9, lid 3: Besluit mandaat en machtiging Toelatingsorganisatie Kwaliteitsborging Bouw ten behoeve van de uitvoering van de wettelijke taken certificering werkzaamheden aan gasverbrandingsinstallaties (CO-stelsel) en tot verlening van volmacht om toe te zien op het gebruik van het beeldmerk ‘CO-VRIJ’., zonder dat zij gecertificeerd zijn om werkzaamheden aan gasverbrandingsinstallaties uit te voeren. Bij het onrechtmatig/oneigenlijk gebruik van het CO-VRIJ beeldmerk kan de TloKB met dit volmacht civielrechtelijk optreden tegen dit misbruik.

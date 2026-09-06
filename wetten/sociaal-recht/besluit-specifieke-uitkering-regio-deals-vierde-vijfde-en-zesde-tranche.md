@@ -1,60 +1,38 @@
 ---
 title: "Besluit van 5 juli 2024, houdende regels voor het verstrekken van een specifieke uitkering of bijzondere uitkering ten behoeve van de uitvoeringsactiviteiten van Regio Deals, vijfde en zesde tranche (Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche)"
+citeertitel: "Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche"
 identifier: "BWBR0050035"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-07-20"
-last_updated: "2024-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050035"
+categorie: "Sociaal recht"
 soort: "AMvB"
-stam_id: "17183653"
-version_id: "30250512"
-internal_id: "C43328071"
-label_id: "17091734"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050035/2024-07-20/0"
-intitule_bron: "Stb.2024-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-05"
-intitule_published: "2024-07-19"
-intitule_in_force: "2024-07-19"
-intitule_status: "goed"
-original_publication: "Stb.2024-219"
-original_signed_date: "2024-07-05"
-original_published_date: "2024-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-219"
-entry_into_force_date: "2024-07-20"
-jci_1_3: "jci1.3:c:BWBR0050035&z=2024-07-20&g=2024-07-20"
-jci_1_0: "1.0:c:BWBR0050035&g=2024-07-20"
-citeertitel_status: "officieel"
-short_title: "Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche"
-signed_date: "2024-07-05"
-entry_into_force: "2024-07-20"
+publicatiedatum: 2024-07-20
+laatste_update: 2024-07-20
+status: geldig
+toestand: 2024-07-20
+bron: "https://wetten.overheid.nl/BWBR0050035"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 5 juli 2024, houdende regels voor het verstrekken van een specifieke uitkering of bijzondere uitkering ten behoeve van de uitvoeringsactiviteiten van Regio Deals, vijfde en zesde tranche (Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **Onze Minister:** minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *Onze Minister:* minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **private regiopartner:** privaatrechtelijke rechtspersoon als bedoeld in [artikel 3 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3) die partij is bij een Regio Deal;
+- *private regiopartner:* privaatrechtelijke rechtspersoon als bedoeld in [artikel 3 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3) die partij is bij een Regio Deal;
 
-- **publieke regiopartner:** provincie, gemeente, openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), waterschap of een van de openbare lichamen Bonaire Sint-Eustatius of Saba, die partij is bij een Regio Deal;
+- *publieke regiopartner:* provincie, gemeente, openbaar lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), waterschap of een van de openbare lichamen Bonaire Sint-Eustatius of Saba, die partij is bij een Regio Deal;
 
-- **Regio Deal:** convenant dat door Onze Minister en één of meer regiopartners is gesloten om de kwaliteit van leven, wonen en werken van inwoners en ondernemers in een regio te verbeteren
+- *Regio Deal:* convenant dat door Onze Minister en één of meer regiopartners is gesloten om de kwaliteit van leven, wonen en werken van inwoners en ondernemers in een regio te verbeteren
 
-- **regiopartner:** private of publieke regiopartner;
+- *regiopartner:* private of publieke regiopartner;
 
-- **regiokassier:** publieke regiopartner, niet zijnde een waterschap, die op grond van de Regio Deal ten behoeve daarvan de taak van kassier vervult of zal vervullen;
+- *regiokassier:* publieke regiopartner, niet zijnde een waterschap, die op grond van de Regio Deal ten behoeve daarvan de taak van kassier vervult of zal vervullen;
 
-- **regionale private financiering:** voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een private regiopartner;
+- *regionale private financiering:* voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een private regiopartner;
 
-- **regionale publieke financiering:** voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een publieke regiopartner, niet zijnde een specifieke uitkering, opdracht of subsidie van het Rijk.
+- *regionale publieke financiering:* voor de uitvoeringsactiviteiten van de Regio Deal beschikbaar gestelde financiële bijdragen of bijdragen in natura van een publieke regiopartner, niet zijnde een specifieke uitkering, opdracht of subsidie van het Rijk.
 
 ### Hoofdstuk 1. Vierde tranche regio deal
 
@@ -64,7 +42,7 @@ De minister kan een specifieke uitkering verstrekken aan een regiokassier voor a
 
 ##### Artikel 3. Hoogte van de uitkering en uitkeringsplafond
 
-1. Een specifieke uitkering bedraagt ten minste € 5.000.000 en ten hoogste € 40.000.000 inclusief de BTW en is in beginsel gelijk aan het bedrag dat door regionale publieke en private financiering tezamen beschikbaar wordt gesteld.
+1. Een specifieke uitkering bedraagt ten minste € 5.000.000 en ten hoogste € 40.000.000 inclusief de BTW en is in beginsel gelijk aan het bedrag dat door regionale publieke en private financiering tezamen beschikbaar wordt gesteld.
 
 2. De minister kan in totaal ten hoogste € 284.200.000 aan specifieke uitkeringen verstrekken.
 
@@ -76,7 +54,7 @@ De minister kan een specifieke uitkering verstrekken aan een regiokassier voor a
 
 ##### Artikel 5. Voorwaarden voor de uitkering
 
-1. De specifieke uitkering wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode van 1 mei 2023 tot en met 15 november 2023.
+1. De specifieke uitkering wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode van 1 mei 2023 tot en met 15 november 2023.
 
 2. De specifieke uitkering wordt uitsluitend verstrekt indien één of meer regiopartners ten behoeve van de uitvoering van de Regio Deal financiële verplichtingen aangaan, middelen beschikbaar stellen of kosten maken.
 
@@ -124,20 +102,6 @@ De minister kan een specifieke uitkering verstrekken aan een regiokassier voor a
 
 ### Hoofdstuk 2. Regio deal vijfde en zesde tranche
 
-Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 24 april 2024, nr. 2024001037;
-
-Gelet op [artikel 17, derde lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en [artikel 92, derde lid van de Wet financiën openbare lichamen Bonaire, Sint-Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
-
-De Afdeling advisering van de Raad van State gehoord, 12 juni 2024, no. W04.24.00089/I;
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 juli 2024, 2024-0000427728;
-
-Hebben goedgevonden en verstaan:
-
-### Hoofdstuk 1. Vierde tranche regio deal
-
-### Hoofdstuk 2. Regio deal vijfde en zesde tranche
-
 ##### Artikel 9. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. Onze Minister kan een specifieke uitkering verstrekken aan een regiokassier voor activiteiten ter uitvoering van het doel, de aanpak of de beoogde resultaten zoals vastgelegd in een Regio Deal.
@@ -146,11 +110,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 10. Hoogte van de uitkering en uitkeringsplafond
 
-1. Een specifieke uitkering, dan wel een bijzondere uitkering, bedraagt ten minste € 5.000.000 en ten hoogste € 40.000.000 inclusief de BTW.
+1. Een specifieke uitkering, dan wel een bijzondere uitkering, bedraagt ten minste € 5.000.000 en ten hoogste € 40.000.000 inclusief de BTW.
 
 2. Een specifieke uitkering, dan wel bijzondere uitkering, is gelijk aan het bedrag dat door regionale publieke en private financiering tezamen beschikbaar wordt gesteld. In het geval van een kwetsbare regio kan hiervan worden afgeweken.
 
-3. Onze Minister kan in totaal ten hoogste € 384,6 miljoen tijdens de vijfde tranche en € 257,1 miljoen tijdens de zesde tranche aan specifieke uitkeringen, dan wel bijzondere uitkeringen, verstrekken. Specifieke uitkeringen zijn verminderd met het bedrag aan compensabele BTW.
+3. Onze Minister kan in totaal ten hoogste € 384,6 miljoen tijdens de vijfde tranche en € 257,1 miljoen tijdens de zesde tranche aan specifieke uitkeringen, dan wel bijzondere uitkeringen, verstrekken. Specifieke uitkeringen zijn verminderd met het bedrag aan compensabele BTW.
 
 ##### Artikel 11. Niet in aanmerking komende kosten
 
@@ -162,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 12. Voorwaarden voor de uitkering
 
-1. De specifieke uitkering, dan wel bijzondere uitkering, wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode 1 juli tot en met 15 november 2024 of 1 juli tot en met 15 november 2025.
+1. De specifieke uitkering, dan wel bijzondere uitkering, wordt uitsluitend verstrekt indien een Regio Deal is gesloten in de periode 1 juli tot en met 15 november 2024 of 1 juli tot en met 15 november 2025.
 
 2. De specifieke uitkering, dan wel bijzondere uitkering, wordt uitsluitend verstrekt indien één of meer regiopartners ten behoeve van de uitvoering van de Regio Deal financiële verplichtingen aangaan, middelen beschikbaar stellen of kosten maken.
 
@@ -252,12 +216,10 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 18. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, waarbij de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=2&z=2024-07-20&g=2024-07-20) terugwerken tot en met 1 mei 2023.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, waarbij de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050035&hoofdstuk=1&artikel=2&z=2024-07-20&g=2024-07-20) terugwerken tot en met 1 mei 2023.
 
-2. Dit besluit vervalt met ingang van 31 december 2026, met dien verstande dat dit besluit van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
+2. Dit besluit vervalt met ingang van 31 december 2026, met dien verstande dat dit besluit van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
 ##### Artikel 19. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit specifieke uitkering Regio Deals vierde, vijfde en zesde tranche.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

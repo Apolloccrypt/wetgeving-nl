@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de raad van bestuur van de Kansspelautoriteit van 23 mei 2024 over verantwoord spelen (Beleidsregel verantwoord spelen 2024)"
+citeertitel: "Beleidsregel verantwoord spelen 2024"
 identifier: "BWBR0049768"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049768"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17118243"
-version_id: "30127792"
-internal_id: "C43166481"
-label_id: "17027024"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049768/2024-10-01/0"
-intitule_bron: "Stcrt.2024-18177"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-23"
-intitule_published: "2024-06-03"
-intitule_in_force: "2024-06-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-18177"
-original_signed_date: "2024-05-23"
-original_published_date: "2024-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-18177"
-entry_into_force_date: "2024-06-03"
-jci_1_3: "jci1.3:c:BWBR0049768&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0049768&g=2024-10-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel verantwoord spelen 2024"
-signed_date: "2024-05-23"
-entry_into_force: "2024-06-03"
+publicatiedatum: 2024-06-03
+laatste_update: 2024-10-01
+status: geldig
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0049768"
+opgehaald: 2026-09-06
 ---
+
 # Beleidsregel van de raad van bestuur van de Kansspelautoriteit van 23 mei 2024 over verantwoord spelen (Beleidsregel verantwoord spelen 2024)
-
-Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=3), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=4a), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=8), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=14a), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=15), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=23), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27a), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7b), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7c), [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=7d), [27ja](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v) en [31m van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=1.1) en [4.1 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.1), [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=1), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), [2ab](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2ab), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=3a), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=13) en [18 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18), [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=4), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=14), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=19) en [20 van de Regeling werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&artikel=20) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit de volgende beleidsregel vast te stellen:
 
 #### Paragraaf 1. Definities en toepassing
 
@@ -46,47 +20,48 @@ Besluit de volgende beleidsregel vast te stellen:
 
 In deze beleidsregel worden de begripsbepalingen uit het [Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412) gebruikt. Voor het overige wordt verstaan onder:
 
-- 1. **CRUKS:** het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- 1. *CRUKS:* het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- 2. **interventiemaatregel:** maatregel als bedoeld in [artikel 18 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18);
+- 2. *interventiemaatregel:* maatregel als bedoeld in [artikel 18 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=18);
 
-- 3. **jongvolwassenen:** personen in de leeftijd van 18 tot en met 23 jaar;
+- 3. *jongvolwassenen:* personen in de leeftijd van 18 tot en met 23 jaar;
 
-- 4. **speelcasino:** houder van een vergunning tot het organiseren van kansspelen in een speelcasino als bedoeld in [artikel 27g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
+- 4. *speelcasino:* houder van een vergunning tot het organiseren van kansspelen in een speelcasino als bedoeld in [artikel 27g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
 
-- 5. **speelautomatenhal:** houder van een vergunning tot het aanwezig hebben van een of meer kansspelautomaten in een inrichting als bedoeld in [artikel 30c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
+- 5. *speelautomatenhal:* houder van een vergunning tot het aanwezig hebben van een of meer kansspelautomaten in een inrichting als bedoeld in [artikel 30c, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
 
-- 6. **online aanbieder:** houder van een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31);
+- 6. *online aanbieder:* houder van een vergunning tot het organiseren van kansspelen op afstand als bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31);
 
-- 7. **netto-stortingen:** stortingen op minus opnames van een speelrekening als bedoeld in [artikel 1.1 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=1.1);
+- 7. *netto-stortingen:* stortingen op minus opnames van een speelrekening als bedoeld in [artikel 1.1 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=1.1);
 
-- 8. **onmatige deelneming aan kansspelen:** onmatige deelneming als bedoeld in [artikel 2, eerste lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), waaronder wordt begrepen risicovol spelgedrag dat kan leiden tot kansspelverslaving;
+- 8. *onmatige deelneming aan kansspelen:* onmatige deelneming als bedoeld in [artikel 2, eerste lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), waaronder wordt begrepen risicovol spelgedrag dat kan leiden tot kansspelverslaving;
 
-- 9. **parameter:** grootheid in het risicodetectiesysteem op grond waarvan een signaal wordt vastgesteld;
+- 9. *parameter:* grootheid in het risicodetectiesysteem op grond waarvan een signaal wordt vastgesteld;
 
-- 10. **probleemspelers:** spelers bij wie het speelgedrag een hoog risico op kansspelverslaving vertoont, door een aanhoudend en toenemend onvermogen om weerstand te bieden aan de drang tot spelen;
+- 10. *probleemspelers:* spelers bij wie het speelgedrag een hoog risico op kansspelverslaving vertoont, door een aanhoudend en toenemend onvermogen om weerstand te bieden aan de drang tot spelen;
 
-- 11. **recreatieve spelers:** spelers bij wie het speelgedrag nauwelijks tot geen verslavingspotentie vertoont;
+- 11. *recreatieve spelers:* spelers bij wie het speelgedrag nauwelijks tot geen verslavingspotentie vertoont;
 
-- 12. **redelijk vermoeden:** redelijk vermoeden van onmatige deelneming aan kansspelen of kansspelverslaving als bedoeld in [artikelen 27ja, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), en [31m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), waaronder wordt begrepen op een of meer signalen gebaseerde redelijke twijfel aan het vermogen van de speler om voldoende weerstand te bieden tegen de drang tot onmatige deelneming aan kansspelen of kansspelverslaving;
+- 12. *redelijk vermoeden:* redelijk vermoeden van onmatige deelneming aan kansspelen of kansspelverslaving als bedoeld in [artikelen 27ja, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27ja), [30v, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30v), en [31m, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31m), waaronder wordt begrepen op een of meer signalen gebaseerde redelijke twijfel aan het vermogen van de speler om voldoende weerstand te bieden tegen de drang tot onmatige deelneming aan kansspelen of kansspelverslaving;
 
-- 13. **risicoanalist:** functionaris als bedoeld in [artikel 7, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7);
+- 13. *risicoanalist:* functionaris als bedoeld in [artikel 7, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7);
 
-- 14. **risicoanalyse:** analyse van de verslavingsrisico’s van kansspelen als bedoeld in [artikel 7, tweede lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7);
+- 14. *risicoanalyse:* analyse van de verslavingsrisico’s van kansspelen als bedoeld in [artikel 7, tweede lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7);
 
-- 15. **risicodetectiesysteem:** geheel van methodes en instrumenten voor het registreren en analyseren van het speelgedrag van spelers;
+- 15. *risicodetectiesysteem:* geheel van methodes en instrumenten voor het registreren en analyseren van het speelgedrag van spelers;
 
-- 16. **risicopotentieel:** categorie van verslavingsrisico van een kansspel;
+- 16. *risicopotentieel:* categorie van verslavingsrisico van een kansspel;
 
-- 17. **risicospelers:** spelers bij wie het speelgedrag enige kenmerken van kansspelverslaving vertoont;
+- 17. *risicospelers:* spelers bij wie het speelgedrag enige kenmerken van kansspelverslaving vertoont;
 
-- 18. **signaal:** intern of extern signaal wijzend op onmatige deelneming aan de vergunde kansspelen of risico’s op kansspelverslaving als bedoeld in [artikel 13, eerste lid, onder a, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=13);
+- 18. *signaal:* intern of extern signaal wijzend op onmatige deelneming aan de vergunde kansspelen of risico’s op kansspelverslaving als bedoeld in [artikel 13, eerste lid, onder a, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=13);
 
-- 19. **spelers:** personen die deelnemen aan door de vergunninghouder aangeboden kansspelen of bij de vergunninghouder zijn ingeschreven;
+- 19. *spelers:* personen die deelnemen aan door de vergunninghouder aangeboden kansspelen of bij de vergunninghouder zijn ingeschreven;
 
-- 20. **vertegenwoordigers:** vertegenwoordigers als bedoeld in [artikel 4.1, eerste lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.1);
+- 20. *vertegenwoordigers:* vertegenwoordigers als bedoeld in [artikel 4.1, eerste lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.1);
 
-- 21. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
+- 21. *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
 #### Paragraaf 2. Wervings- en reclameactiviteiten
 
@@ -340,13 +315,13 @@ Onverminderd het bepaalde in [artikel 14 van de Regeling werving, reclame en ver
 
 - a. een overzicht van de risicoanalyses, waaronder in ieder geval wordt verstaan:
 
-- i. een overzicht van de kansspelen van de vergunninghouder waarvoor risicoanalyses zijn uitgevoerd;
+   - i. een overzicht van de kansspelen van de vergunninghouder waarvoor risicoanalyses zijn uitgevoerd;
 
-- ii. welk risicopotentiëlen aan de kansspelen van de vergunninghouder zijn toegekend;
+   - ii. welk risicopotentiëlen aan de kansspelen van de vergunninghouder zijn toegekend;
 
-- iii. de methoden waarmee de risicofactoren en de risicopotentiëlen zijn vastgesteld; en
+   - iii. de methoden waarmee de risicofactoren en de risicopotentiëlen zijn vastgesteld; en
 
-- iv. wanneer en door wie de risicoanalyses zijn uitgevoerd;
+   - iv. wanneer en door wie de risicoanalyses zijn uitgevoerd;
 
 - b. adviezen van deskundigen op het gebied van verslavingszorg en ervaringsdeskundigen als bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.7&z=2024-10-01&g=2024-10-01), die zijn opgesteld in de periode waarover wordt gerapporteerd;
 
@@ -408,13 +383,13 @@ Onverminderd het bepaalde in [artikel 14 van de Regeling werving, reclame en ver
 
 - e. in een kalendermaand:
 
-- i. netto-stortingen verricht van in totaal meer dan het recreatief te besteden deel van zijn maandelijkse netto-inkomen; of anders
+   - i. netto-stortingen verricht van in totaal meer dan het recreatief te besteden deel van zijn maandelijkse netto-inkomen; of anders
 
-- ii. netto-stortingen verricht van in totaal 30% of meer van zijn maandelijkse netto-inkomen; of anders
+   - ii. netto-stortingen verricht van in totaal 30% of meer van zijn maandelijkse netto-inkomen; of anders
 
-- iii. netto-stortingen verricht van in totaal meer dan € 300,– als de speler jongvolwassen is; of anders
+   - iii. netto-stortingen verricht van in totaal meer dan € 300,– als de speler jongvolwassen is; of anders
 
-- iv. netto-stortingen verricht van in totaal meer dan € 700,–;
+   - iv. netto-stortingen verricht van in totaal meer dan € 700,–;
 
 - f. meer dan 30% van zijn liquide gelden aanwendt voor deelneming aan kansspelen;
 
@@ -468,13 +443,13 @@ Onverminderd het bepaalde in [artikel 14 van de Regeling werving, reclame en ver
 
 - a. actief en expliciet heeft gevraagd naar:
 
-- i. het speelgedrag van de speler en zijn motieven;
+   - i. het speelgedrag van de speler en zijn motieven;
 
-- ii. de gevolgen van het speelgedrag voor de speler met betrekking tot zijn inkomens- en vermogenspositie, familiesituatie, werksituatie en psychische en lichamelijke gezondheid;
+   - ii. de gevolgen van het speelgedrag voor de speler met betrekking tot zijn inkomens- en vermogenspositie, familiesituatie, werksituatie en psychische en lichamelijke gezondheid;
 
-- iii. de afhankelijkheid van de speler van kansspelen; en
+   - iii. de afhankelijkheid van de speler van kansspelen; en
 
-- iv. overige mogelijk relevante feiten en omstandigheden.
+   - iv. overige mogelijk relevante feiten en omstandigheden.
 
 - b. zich voldoende heeft vergewist van de juistheid van de constateringen op grond van de analyse van het speelgedrag van de speler;
 
@@ -548,14 +523,12 @@ Onder een rapportage van de vergunninghouder als bedoeld in [artikel 11, tweede 
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 3 juni 2024, met uitzondering van de [artikelen 3.1.12, vierde, vijfde, zesde, zevende, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.12&z=2024-10-01&g=2024-10-01), en [3.1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.13&z=2024-10-01&g=2024-10-01), die in werking treden op 1 oktober 2024.
+Deze beleidsregel treedt in werking met ingang van 3 juni 2024, met uitzondering van de [artikelen 3.1.12, vierde, vijfde, zesde, zevende, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.12&z=2024-10-01&g=2024-10-01), en [3.1.13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049768&paragraaf=3.1&artikel=3.1.13&z=2024-10-01&g=2024-10-01), die in werking treden op 1 oktober 2024.
 
 ##### Artikel 4.2
 
-De [Beleidsregels verantwoord spelen](https://wetten.overheid.nl/jci1.3:c:BWBR0049767) (Staatscourant 2021, 13410) worden ingetrokken, met uitzondering van [artikel 3.1.13, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049767&artikel=3.1.13), die worden ingetrokken op 1 oktober 2024.
+De [Beleidsregels verantwoord spelen](https://wetten.overheid.nl/jci1.3:c:BWBR0049767) (Staatscourant 2021, 13410) worden ingetrokken, met uitzondering van [artikel 3.1.13, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049767&artikel=3.1.13), die worden ingetrokken op 1 oktober 2024.
 
 ##### Artikel 4.3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verantwoord spelen 2024.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,58 +1,32 @@
 ---
 title: "Regeling van de raad van bestuur van de Kansspelautoriteit van 25 juni 2024, kenmerk 01.320.502, voor de behandeling van klaagschriften (Regeling klachtbehandeling door de Kansspelautoriteit)"
+citeertitel: "Regeling klachtbehandeling door de Kansspelautoriteit"
 identifier: "BWBR0049939"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-07-09"
-last_updated: "2024-07-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049939"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17161483"
-version_id: "30205332"
-internal_id: "C43272411"
-label_id: "17069634"
-dtd_version: "2.0"
-original_entry_into_force: "2024-07-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049939/2024-07-09/0"
-intitule_bron: "Stcrt.2024-21838"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-25"
-intitule_published: "2024-07-08"
-intitule_in_force: "2024-07-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-21838"
-original_signed_date: "2024-06-25"
-original_published_date: "2024-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-21838"
-entry_into_force_date: "2024-07-09"
-jci_1_3: "jci1.3:c:BWBR0049939&z=2024-07-09&g=2024-07-09"
-jci_1_0: "1.0:c:BWBR0049939&g=2024-07-09"
-citeertitel_status: "officieel"
-short_title: "Regeling klachtbehandeling door de Kansspelautoriteit"
-signed_date: "2024-06-25"
-entry_into_force: "2024-07-09"
+publicatiedatum: 2024-07-09
+laatste_update: 2024-07-09
+status: geldig
+toestand: 2024-07-09
+bron: "https://wetten.overheid.nl/BWBR0049939"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de raad van bestuur van de Kansspelautoriteit van 25 juni 2024, kenmerk 01.320.502, voor de behandeling van klaagschriften (Regeling klachtbehandeling door de Kansspelautoriteit)
-
-Gelet op [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1),
-
-Besluit:
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **beklaagde:** degene over wie de klacht gaat;
+- a. *beklaagde:* degene over wie de klacht gaat;
 
-- b. **bestuurslid:** lid van de raad van bestuur van de Kansspelautoriteit;
+- b. *bestuurslid:* lid van de raad van bestuur van de Kansspelautoriteit;
 
-- c. **klacht:** een uiting van ongenoegen over een gedraging, handeling of nalaten door (een medewerker van) de Kansspelautoriteit, die voldoet aan de eisen van [artikel 9:4, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
+- c. *klacht:* een uiting van ongenoegen over een gedraging, handeling of nalaten door (een medewerker van) de Kansspelautoriteit, die voldoet aan de eisen van [artikel 9:4, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4);
 
-- d. **klachtenfunctionaris:** een als zodanig aangewezen medewerker van de afdeling Juridische Zaken en Vergunningen;
+- d. *klachtenfunctionaris:* een als zodanig aangewezen medewerker van de afdeling Juridische Zaken en Vergunningen;
 
-- e. **medewerker:** een persoon die in dienst is bij de Kansspelautoriteit of werkzaamheden verricht onder verantwoordelijkheid of ten behoeve van de raad van bestuur van de Kansspelautoriteit.
+- e. *medewerker:* een persoon die in dienst is bij de Kansspelautoriteit of werkzaamheden verricht onder verantwoordelijkheid of ten behoeve van de raad van bestuur van de Kansspelautoriteit.
 
 ##### Artikel 2
 
@@ -104,7 +78,7 @@ Jaarlijks stelt het hoofd van de afdeling Juridische Zaken en Vergunningen een g
 
 ##### Artikel 8
 
-De [Regeling klachtbehandeling door de Kansspelautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0038398) (Staatscourant 2016, nr. 41898, laatstelijk gewijzigd in Staatscourant 2021, nr. 8679) wordt ingetrokken.
+De [Regeling klachtbehandeling door de Kansspelautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0038398) (Staatscourant 2016, nr. 41898, laatstelijk gewijzigd in Staatscourant 2021, nr. 8679) wordt ingetrokken.
 
 ##### Artikel 9
 

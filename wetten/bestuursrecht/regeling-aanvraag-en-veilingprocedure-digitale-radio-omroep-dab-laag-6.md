@@ -1,42 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 46102628, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB in laag 6 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6)"
+citeertitel: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6"
 identifier: "BWBR0049835"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-06-20"
-last_updated: "2024-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049835"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17136663"
-version_id: "30160612"
-internal_id: "C43216901"
-label_id: "17045464"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049835/2024-06-20/0"
-intitule_bron: "Stcrt.2024-18624"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-07"
-intitule_published: "2024-06-19"
-intitule_in_force: "2024-06-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-18624"
-original_signed_date: "2024-06-07"
-original_published_date: "2024-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-18624"
-entry_into_force_date: "2024-06-20"
-jci_1_3: "jci1.3:c:BWBR0049835&z=2024-06-20&g=2024-06-20"
-jci_1_0: "1.0:c:BWBR0049835&g=2024-06-20"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6"
-signed_date: "2024-06-07"
-entry_into_force: "2024-06-20"
+publicatiedatum: 2024-06-20
+laatste_update: 2024-06-20
+status: geldig
+toestand: 2024-06-20
+bron: "https://wetten.overheid.nl/BWBR0049835"
+opgehaald: 2026-09-06
 ---
-# Regeling van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 46102628, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB in laag 6 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6)
 
-Gelet op [3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
+# Regeling van de Minister van Economische Zaken en Klimaat van 7 juni 2024, nr. WJZ/ 46102628, tot vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB in laag 6 (Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6)
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -44,37 +20,38 @@ Gelet op [3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:B
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene die een aanvraag voor een vergunning heeft ingediend;
+- *aanvrager:* degene die een aanvraag voor een vergunning heeft ingediend;
 
-- **aanvraagformulier:** formulier als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=1&artikel=6&z=2024-06-20&g=2024-06-20);
+- *aanvraagformulier:* formulier als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=1&artikel=6&z=2024-06-20&g=2024-06-20);
 
-- **allotment:** het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage van de vergunning, inclusief het daar genoemde frequentieblok;
+- *allotment:* het gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage van de vergunning, inclusief het daar genoemde frequentieblok;
 
-- **bankgarantie:** bankgarantie als bedoeld [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-06-20&g=2024-06-20);
+- *bankgarantie:* bankgarantie als bedoeld [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-06-20&g=2024-06-20);
 
-- **bekendmakingsbesluit:** Besluit bekendmaking veiling vergunningen DAB laag 6;
+- *bekendmakingsbesluit:* Besluit bekendmaking veiling vergunningen DAB laag 6;
 
-- **bod:** bod als bedoeld in [artikel 26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=26&z=2024-06-20&g=2024-06-20), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem, bestaande uit het aantal vergunningen dat een deelnemer voor de in een biedronde bepaalde prijs wenst te verwerven in het betreffende allotment;
+- *bod:* bod als bedoeld in [artikel 26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=26&z=2024-06-20&g=2024-06-20), uitgebracht door een deelnemer via het elektronisch veilingsysteem van de minister en bevestigd door middel van dit elektronisch veilingsysteem, bestaande uit het aantal vergunningen dat een deelnemer voor de in een biedronde bepaalde prijs wenst te verwerven in het betreffende allotment;
 
-- **deelnemer:** aanvrager die is toegelaten tot de veiling, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&z=2024-06-20&g=2024-06-20);
+- *deelnemer:* aanvrager die is toegelaten tot de veiling, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&z=2024-06-20&g=2024-06-20);
 
-- **exitbod:** exitbod als bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=26&z=2024-06-20&g=2024-06-20);
+- *exitbod:* exitbod als bedoeld in [artikel 26, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=26&z=2024-06-20&g=2024-06-20);
 
-- **minister:** Minister van Economische Zaken en Klimaat;
+- *minister:* Minister van Economische Zaken en Klimaat;
 
-- **niet-winnende deelnemer:** deelnemer wiens bod, exitbod of exitbiedingen door de minister niet zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20);
+- *niet-winnende deelnemer:* deelnemer wiens bod, exitbod of exitbiedingen door de minister niet zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20);
 
-- **rente:** volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
+- *rente:* volgens actual/360 berekende rente op basis van de door de Europese Centrale Bank vastgestelde Euro Short-Term Rate, minus 100 basispunten, met een minimum van 0%;
 
-- **verbonden rechtspersoon:** als één aangemerkte rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3);
+- *verbonden rechtspersoon:* als één aangemerkte rechtspersoon als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3);
 
-- **vergunning:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de frequentieruimte in het allotment waar de vergunning op ziet;
+- *vergunning:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de frequentieruimte in het allotment waar de vergunning op ziet;
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- **winnend bod:** bod of exitbod dat als winnend bod is aangemerkt als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20);
+- *winnend bod:* bod of exitbod dat als winnend bod is aangemerkt als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20);
 
-- **winnende deelnemer:** deelnemer wiens bod, exitbod of exitbiedingen door de minister zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20).
+- *winnende deelnemer:* deelnemer wiens bod, exitbod of exitbiedingen door de minister zijn aangemerkt als winnende biedingen als bedoeld in [artikel 28, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20).
 
 ### Hoofdstuk 2. Beschikbare vergunningen
 
@@ -90,7 +67,7 @@ Ingevolge het bekendmakingsbesluit zijn de in [bijlage 1](https://wetten.overhei
 
 1. Degene die voor een vergunning in aanmerking wil komen, dient daartoe een aanvraag in bij de minister.
 
-2. De aanvraag kan van 20 juni 2024 tot en met 31 juli 2024 worden ingediend per aangetekende post of door middel van persoonlijke overhandiging op het volgende adres en met de volgende adressering:
+2. De aanvraag kan van 20 juni 2024 tot en met 31 juli 2024 worden ingediend per aangetekende post of door middel van persoonlijke overhandiging op het volgende adres en met de volgende adressering:
 
 Rijksinspectie Digitale Infrastructuur
 
@@ -148,7 +125,7 @@ De aanvrager informeert de minister op de wijze, bedoeld in [artikel 3, tweede e
 
 ##### Artikel 8. Zekerheidstelling door de aanvrager
 
-1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 2.000,– per vergunning die hij aanvraagt.
+1. De aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 2.000,– per vergunning die hij aanvraagt.
 
 2. De waarborgsom wordt verstrekt voor de periode tot en met:
 
@@ -326,13 +303,13 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 3. In afwijking van het tweede lid, kan de minister bij het vaststellen van de duur van een biedronde bepalen dat de biedronde niet eerder eindigt dan nadat de door de minister bepaalde duur is verstreken.
 
-4. De prijs per vergunning in de eerste biedronde is € 0.
+4. De prijs per vergunning in de eerste biedronde is € 0.
 
 5. De minister bepaalt de prijs in de tweede en daaropvolgende biedronden.
 
 ##### Artikel 25. Verlenging biedronden
 
-1. Voor een deelnemer die een biedronde laat verstrijken zonder dat hij een bod of, indien van toepassing, exitbod heeft uitgebracht, wordt de betreffende biedronde van rechtswege verlengd met 30 minuten.
+1. Voor een deelnemer die een biedronde laat verstrijken zonder dat hij een bod of, indien van toepassing, exitbod heeft uitgebracht, wordt de betreffende biedronde van rechtswege verlengd met 30 minuten.
 
 2. Per deelnemer worden ten hoogste twee biedronden van rechtswege verlengd, waarbij niet worden meegerekend de biedronden waarvoor de minister op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=1&artikel=18&z=2024-06-20&g=2024-06-20) of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=1&artikel=20&z=2024-06-20&g=2024-06-20), heeft besloten dat deze opnieuw worden gehouden.
 
@@ -368,21 +345,21 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 - a. alle deelnemers mee:
 
-- 1. het nummer van die biedronde;
+   - 1. het nummer van die biedronde;
 
-- 2. het aantal deelnemers dat een bod heeft uitgebracht;
+   - 2. het aantal deelnemers dat een bod heeft uitgebracht;
 
-- 3. het aantal vergunningen dat in totaal is geboden;
+   - 3. het aantal vergunningen dat in totaal is geboden;
 
-- 4. het aantal exitbiedingen; en
+   - 4. het aantal exitbiedingen; en
 
-- 5. de aanvangstijd, de duur en het nummer van, alsmede de prijs in, de volgende biedronde,
+   - 5. de aanvangstijd, de duur en het nummer van, alsmede de prijs in, de volgende biedronde,
 
 - b. iedere deelnemer afzonderlijk mee:
 
-- 1. zijn bod of exitbiedingen in de afgelopen biedronde of het gebrek daaraan;
+   - 1. zijn bod of exitbiedingen in de afgelopen biedronde of het gebrek daaraan;
 
-- 2. het aantal keer dat hij nog in aanmerking komt voor een verlenging als bedoeld in [artikel 25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=25&z=2024-06-20&g=2024-06-20).
+   - 2. het aantal keer dat hij nog in aanmerking komt voor een verlenging als bedoeld in [artikel 25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=25&z=2024-06-20&g=2024-06-20).
 
 2. Het eerste lid, onderdeel a, onder 5, is niet van toepassing na het einde van de laatste biedronde, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=5&paragraaf=2&artikel=28&z=2024-06-20&g=2024-06-20).
 
@@ -456,9 +433,9 @@ De minister deelt de deelnemers uiterlijk twee weken voor de aanvang van de veil
 
 ### Hoofdstuk 7. Slotbepalingen
 
-##### Artikel 34. Wijziging [Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213)
+##### Artikel 34. Wijziging Tijdelijke regeling gebruiksbeperking commerciële radio-omroep
 
-Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.
+*Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.*
 
 ##### Artikel 35. Inwerkingtreding
 
@@ -467,133 +444,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 36. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6.
-
-## Bijlage 1. Te verdelen vergunningen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=2&artikel=2&z=2024-06-20&g=2024-06-20)
-
-| Allotment | Capaciteit commercieel | Allotment | Capaciteit commercieel |
-| --- | --- | --- | --- |
-| 1 | 18 | 30 | 14 |
-| 2 | 17 | 31 | 14 |
-| 3 | 16 | 32 | 10 |
-| 4 | 16 | 33 | 13 |
-| 5 | 17 | 34 | 15 |
-| 6 | 17 | 35 | 16 |
-| 7 | 16 | 36 | 12 |
-| 8 | 15 | 37 | 12 |
-| 9 | 15 | 38 | 13 |
-| 10 | 17 | 39 | 13 |
-| 11 | 15 | 40 | 11 |
-| 12 | 15 | 41 | 13 |
-| 13 | 14 | 42 | 15 |
-| 14 | 17 | 43 | 14 |
-| 15 | 17 | 44 | 11 |
-| 16 | 17 | 45 | 8 |
-| 17 | 14 | 46 | 15 |
-| 18 | 17 | 47 | 16 |
-| 19 | 13 | 48 | 15 |
-| 20 | 17 | 49 | 15 |
-| 21 | 14 | 50 | 12 |
-| 22 | 17 | 51 | 12 |
-| 23 | 11 | 52 | 9 |
-| 24 | 16 | 53 | 14 |
-| 25 | 15 | 54 | 15 |
-| 26 | 17 | 55 | 10 |
-| 27 | 14 | 56 | 17 |
-| 28 | 12 | 57 | 11 |
-| 29 | 14 |   |   |
-
-## Bijlage 2. Modelaanvraagformulier als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=1&artikel=6&z=2024-06-20&g=2024-06-20)
-
-### 1. Aanvrager
-
-### 2. Contactgegevens (gedurende de aanvraag- en veilingprocedure)
-
-### 3. Vergunning(en) aanvragen
-
-Ik vraag (een) vergunning(en) voor de volgende allotment(s) aan:
-
-* Vul in cijfers het gewenste aantal vergunningen in.
-
-### 4. Gemachtigde(n) gedurende veilingprocedure
-
-### 4.1. Gemachtigde 1
-
-### 4.2. Gemachtigde 2
-
-### 4.3. Gemachtigde 3
-
-### 4.4. Gemachtigde 4
-
-### 5. Verklaringen
-
-Met ondertekening van dit aanvraagformulier verklaart de aanvrager dat:
-
-### 6. De volgende documenten zijn bijgevoegd
-
-### 7. Eigendoms- en zeggenschapsverhoudingen
-
-Dit onderdeel is erop gericht om van u alle relevante informatie te verkrijgen en te kunnen beoordelen of sprake is van verbondenheid met een landelijke of niet-landelijke commerciële vergunninghouder. Vergunninghouders met vergunningen die verkregen zijn door middel van de uitgifte van de Tijdelijke verdeling laag 6 voor lokale digitale radio-omroep, kunnen buiten beschouwing worden gelaten.
-
-Hiertoe dient u een schematisch overzicht, inclusief bestuurders en aandeelhouders, aan te leveren en hoe de aanvrager zich verhoudt tot dochter-, zuster- en moedermaatschappijen zodat een beeld kan worden gevormd van de groep waartoe de aanvrager behoort. Daarnaast dient uit het schematisch overzicht duidelijk te worden wie de **ultimate beneficial owner** (UBO) is.
-
-Is de aanvrager niet met andere rechtspersonen verbonden, dan kunt u hier volstaan met een verklaring dat er geen sprake is van, dochtermaatschappijen als bedoeld in [artikel 24a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24a), een groep zoals bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) of andere verbonden rechtspersonen.
-
-Voor dit onderdeel moet u de volgende vragen beantwoorden door een keuze te maken tussen JA of NEE.
-
-### 8. Verkeer langs elektronische weg
-
-Kruis aan indien van toepassing:
-
-### 9. Ondertekening
-
-### 9.1. Bestuurder (of gevolmachtigde daarvan)
-
-### 9.2. Bestuurder (of gevolmachtigde daarvan)
-
-### 9.3. Bestuurder (of gevolmachtigde daarvan)
-
-### 9.4. Bestuurder (of gevolmachtigde daarvan)
-
-## Bijlage 3. Model bankgarantie als bedoeld in [artikel 8, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-06-20&g=2024-06-20)
-
-– Model bankgarantie –
-
-- I. De ondergetekende........................... (**naam van een bank die is gevestigd in een van de lidstaten van de Europese Unie of in een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**)1Hetgeen in dit formulier cursief is gedrukt, moet door de bank worden ingevuld., gevestigd te..........................., mede kantoorhoudende te..........................., hierna te noemen: ‘de bank’;
-
-In aanmerking nemende:
-
-- A. dat [artikel 3.13, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13) bepaalt dat voor het gebruik van frequentieruimte een vergunning is vereist van de Minister van Economische Zaken en Klimaat (hierna: ‘de minister’);
-
-- B. dat de minister bij besluit 7 juni 2024 heeft bekendgemaakt dat de vergunningen (als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=2&artikel=2&z=2024-06-20&g=2024-06-20) van de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6) overeenkomstig de Regeling aanvraag- en veilingprocedure digitale radio-omroep DAB laag 6 (hierna: ‘de Regeling’) worden verdeeld;
-
-- C. dat........................... (**naam aanvrager**), rechtspersoon naar........................... recht (**het recht van een van de lidstaten van de Europese Unie of van een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte**) waarvan de zetel is gevestigd te..........................., kantoorhoudende te..........................., hierna te noemen: ‘de aanvrager’, voornemens is een bieding in de veiling uit te brengen teneinde een een/meerdere vergunningen als opgenomen in het onder B bedoelde bekendmakingsbesluit te verwerven;
-
-- D. dat de minister met betrekking tot de verdeling van vergunningen voor lokale commerciële radio regels heeft gesteld. Deze regels zijn vastgelegd in de Regeling;
-
-- E. dat degene die een aanvraag om de voornoemde vergunning(en) indient op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=2&artikel=8&z=2024-06-20&g=2024-06-20) van de Regeling verplicht is voor de vergunning een zekerheid te verschaffen door een waarborgsom ter grootte van € 2.000,– per vergunning, waar de aanvraag, voor zover van toepassing, na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0049835&hoofdstuk=3&paragraaf=3&artikel=11&z=2024-06-20&g=2024-06-20) van de Regeling betrekking op heeft, te storten dan wel voor dat bedrag een bankgarantie te verstrekken. Deze zekerheid heeft een looptijd tot, in geval van afwijzing van de aanvraag, het tijdstip van die afwijzing, tot, in geval van niet in behandeling nemen van de aanvraag, het tijdstip van het besluit om de aanvraag niet te behandelen, of tot, in geval van toewijzing van de aanvraag, het tijdstip waarop het bod volledig is betaald;
-
-- F. dat de aanvrager op grond hiervan is gehouden een waarborgsom te storten of een bankgarantie te doen stellen ter zekerheid van al hetgeen de aanvrager ter zekerheid verschuldigd is, hierna te noemen: ‘de vordering’, aan de Staat der Nederlanden, rechtspersoon naar Nederlands recht, waarvan de statutaire zetel is gevestigd te ’s-Gravenhage, hierna te noemen: ‘de Staat’;
-
-- G. dat de aanvrager de bank heeft verzocht een onherroepelijke en onafhankelijke bankgarantie te stellen ten behoeve van de Staat, welke op eerste verzoek van de Staat betaalbaar is.
-
-Verbindt zich tot het navolgende:
-
-- 1. De bank stelt zich bij wijze van zelfstandige verbintenis tot een bedrag van €... (zegge: .........................................................................euro)2Het bedrag in te vullen overeenkomstig de formule: € 2.000,– x het aantal vergunningen waar de aanvraag betrekking op heeft. Dit betekent dat als de aanvraag betrekking heeft op één vergunning de bankgarantie € 2.000,– betreft en als de aanvraag op twee vergunningen betrekking heeft de bankgarantie € 4.000,– betreft, enzovoort., onherroepelijk garant jegens de Staat voor de betaling van al hetgeen de Staat blijkens een schriftelijke verklaring van de Staat ter zake van de vordering van de aanvrager te vorderen heeft, aldus dat de bank zich verbindt het gevorderde bedrag als eigen verplichting aan de Staat te voldoen.
-
-- 2. De bank verbindt zich om als eigen schuld op eerste verzoek en op de enkele schriftelijke mededeling van de Staat zonder overlegging van enig ander document of opgaaf van redenen te verlangen, aan de Staat te voldoen het bedrag dat de Staat verklaart ter zake van de vordering van de aanvrager te vorderen te hebben, met dien verstande dat de bank nimmer gehouden is aan de Staat meer te voldoen dan het hiervoor vermelde maximumbedrag.
-
-- 3. Deelberoepen onder deze bankgarantie zijn mogelijk. Het maximumbedrag van deze bankgarantie wordt met een bedrag gelijk met dat van elk deelberoep verlaagd.
-
-- 4. Deze bankgarantie vervalt na ontvangst door de bank van een per aangetekende brief gezonden schriftelijke verklaring van de Staat dat de bankgarantie vervalt en in ieder geval één jaar na datum van ondertekening van deze garantie, tenzij de bank ten minste één maand voor de einddatum van de garantie per aangetekende brief een schriftelijke verklaring van of namens de minister heeft ontvangen dat deze bankgarantie niet vervalt, in welk geval de garantie telkens voor een nieuwe termijn van een jaar geldig is.
-
-- 5. Deze bankgarantie wordt beheerst door Nederlands recht. Geschillen ter zake van deze bankgarantie kunnen uitsluitend worden voorgelegd aan de bevoegde Nederlandse rechter te ’s-Gravenhage.
-
-- 6. Na verval van deze bankgarantie kan de Staat geen enkele aanspraak meer maken jegens de bank uit hoofde van deze bankgarantie tenzij de bank voorafgaande aan het moment waarop deze bankgarantie zou vervallen een mededeling ontving als bedoeld onder II, onderdeel B waaraan de bank nog niet voldeed. Op verzoek van de bank zal de Staat deze bankgarantie nadat deze is vervallen retourneren aan de bank.
-
-**Plaats:**.........................................................................................................
-
-**Datum:**........................................................................................................
-
-**Naam bank:**...............................................................................................
-
-**Naam medewerker:**....................................................................................

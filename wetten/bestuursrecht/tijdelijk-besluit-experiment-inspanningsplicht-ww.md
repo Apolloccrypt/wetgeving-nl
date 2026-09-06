@@ -1,62 +1,31 @@
 ---
 title: "Besluit van 16 mei 2024 tot vaststelling van regels voor een experiment met de inspanningsplicht in de WW (Tijdelijk besluit experiment inspanningsplicht WW)"
+citeertitel: "Tijdelijk besluit experiment inspanningsplicht WW"
 identifier: "BWBR0049720"
-country: "nl"
-rank: "amvb"
-publication_date: "2024-06-01"
-last_updated: "2024-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049720"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17109213"
-version_id: "30109812"
-internal_id: "C43140561"
-label_id: "17017724"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049720/2024-06-01/0"
-intitule_bron: "Stb.2024-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-16"
-intitule_published: "2024-05-22"
-intitule_in_force: "2024-05-22"
-intitule_status: "goed"
-original_publication: "Stb.2024-130"
-original_signed_date: "2024-05-16"
-original_published_date: "2024-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-130"
-entry_into_force_date: "2024-06-01"
-jci_1_3: "jci1.3:c:BWBR0049720&z=2024-06-01&g=2024-06-01"
-jci_1_0: "1.0:c:BWBR0049720&g=2024-06-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit experiment inspanningsplicht WW"
-signed_date: "2024-05-16"
-entry_into_force: "2024-06-01"
+publicatiedatum: 2024-06-01
+laatste_update: 2024-06-01
+status: geldig
+toestand: 2024-06-01
+bron: "https://wetten.overheid.nl/BWBR0049720"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van 16 mei 2024 tot vaststelling van regels voor een experiment met de inspanningsplicht in de WW (Tijdelijk besluit experiment inspanningsplicht WW)
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 27 februari 2024, nr. 2024-0000044967;
-
-Gelet op [artikel 130, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 april 2024, nr. W12.24.00041/III);
-
-Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 mei 2024, nr. 2024-0000117973,
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **deelnemer:** een werknemer die recht heeft op een uitkering en ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=4&z=2024-06-01&g=2024-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=5&z=2024-06-01&g=2024-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=6&z=2024-06-01&g=2024-06-01) van dit besluit is ingedeeld in een onderzoeksgroep ten behoeve van deelname aan het experiment met de inspanningsplicht in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- *deelnemer:* een werknemer die recht heeft op een uitkering en ingevolge de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=4&z=2024-06-01&g=2024-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=5&z=2024-06-01&g=2024-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049720&artikel=6&z=2024-06-01&g=2024-06-01) van dit besluit is ingedeeld in een onderzoeksgroep ten behoeve van deelname aan het experiment met de inspanningsplicht in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- **inspanningsplicht:** de plichten die gericht zijn op bevordering van inschakeling in de arbeid, als bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [26, onderdelen e en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26);
+- *inspanningsplicht:* de plichten die gericht zijn op bevordering van inschakeling in de arbeid, als bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [26, onderdelen e en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26);
 
-- **uitkering:** een uitkering op grond van [hoofdstuk II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
+- *uitkering:* een uitkering op grond van [hoofdstuk II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II);
 
-- **wet:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+- *wet:*
+ [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
 ##### Artikel 2. Doel experiment
 
@@ -134,14 +103,12 @@ Bij wijze van experiment als bedoeld in [artikel 130, eerste lid, van de wet](ht
 
 ##### Artikel 8. Evaluatie
 
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt uiterlijk 1 maart 2029 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk.
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt uiterlijk 1 maart 2029 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment in de praktijk.
 
 ##### Artikel 9. Inwerkingtreding en vervaldatum
 
-Dit besluit treedt in werking met ingang van 1 juni 2024 en vervalt met ingang van 1 juni 2028.
+Dit besluit treedt in werking met ingang van 1 juni 2024 en vervalt met ingang van 1 juni 2028.
 
 ##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit experiment inspanningsplicht WW.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

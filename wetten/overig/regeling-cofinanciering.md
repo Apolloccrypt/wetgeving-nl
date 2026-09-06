@@ -1,35 +1,16 @@
 ---
 title: "Regeling Cofinanciering"
 identifier: "BWBR0050177"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-08-31"
-last_updated: "2024-08-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050177"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17211083"
-version_id: "30310862"
-internal_id: "C43483261"
-label_id: "17117034"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050177/2024-08-31/0"
-intitule_bron: "Stcrt.2024-28068"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-08-30"
-intitule_in_force: "2024-08-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-28068"
-original_published_date: "2024-08-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-28068"
-entry_into_force_date: "2024-08-31"
-jci_1_3: "jci1.3:c:BWBR0050177&z=2024-08-31&g=2024-08-31"
-jci_1_0: "1.0:c:BWBR0050177&g=2024-08-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-08-31"
+publicatiedatum: 2024-08-31
+laatste_update: 2024-08-31
+status: geldig
+toestand: 2024-08-31
+bron: "https://wetten.overheid.nl/BWBR0050177"
+opgehaald: 2026-09-06
 ---
+
 # Regeling Cofinanciering
 
 ### Inleiding
@@ -38,27 +19,27 @@ NWO betrekt maatschappelijke stakeholders, in het bijzonder de (lokale en region
 
 ##### Artikel 1. Definities
 
-- **Aanvrager:** Een rechtspersoon, als bedoeld in [artikel 1.1 van de NWO Subsidieregeling](onbekend), die krachtens privaat- of publiekrecht is opgericht dan wel ingesteld en wetenschappelijk dan wel praktijkgericht onderzoek initieert, ontwikkelt en uitvoert, en de overdracht van de Resultaten daarvan aan de maatschappij bevordert. Een aanvrager kan ook een natuurlijk persoon zijn, mits wordt voldaan aan de in artikel 1.1 van de NWO Subsidieregeling bedoelde voorwaarden.
+- *Aanvrager:* Een rechtspersoon, als bedoeld in [artikel 1.1 van de NWO Subsidieregeling](https://wetten.overheid.nl/BWBR0050166), die krachtens privaat- of publiekrecht is opgericht dan wel ingesteld en wetenschappelijk dan wel praktijkgericht onderzoek initieert, ontwikkelt en uitvoert, en de overdracht van de Resultaten daarvan aan de maatschappij bevordert. Een aanvrager kan ook een natuurlijk persoon zijn, mits wordt voldaan aan de in artikel 1.1 van de NWO Subsidieregeling bedoelde voorwaarden.
 
-- **Aanvrager-startup:** Een innovatieve onderneming als bedoeld in artikel 2, onderdeel 80, van de Algemene groepsvrijstellingsverordening (nr. 651/2014), die tevens starter is, als bedoeld in artikel 22, tweede lid, van die verordening en van wie de economische activiteiten rechtstreeks en onmiddellijk voortkomen uit onderzoek van een Aanvrager of andere samenwerkende rechtspersonen in de zin van de [NWO Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050166).
+- *Aanvrager-startup:* Een innovatieve onderneming als bedoeld in artikel 2, onderdeel 80, van de Algemene groepsvrijstellingsverordening (nr. 651/2014), die tevens starter is, als bedoeld in artikel 22, tweede lid, van die verordening en van wie de economische activiteiten rechtstreeks en onmiddellijk voortkomen uit onderzoek van een Aanvrager of andere samenwerkende rechtspersonen in de zin van de [NWO Subsidieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050166).
 
-- **Call for Proposals:** Een door NWO gepubliceerde oproep tot het indienen van aanvragen voor subsidie voor het verrichten van nader aangeduide onderzoeken, waarin de elementen, genoemd in [artikel 2.1.2 NWO Subsidieregeling](onbekend) zijn opgenomen.
+- *Call for Proposals:* Een door NWO gepubliceerde oproep tot het indienen van aanvragen voor subsidie voor het verrichten van nader aangeduide onderzoeken, waarin de elementen, genoemd in [artikel 2.1.2 NWO Subsidieregeling](https://wetten.overheid.nl/BWBR0050166) zijn opgenomen.
 
-- **Cofinancier:** Een rechtspersoon, dan wel andere juridische entiteit, niet zijnde aanvrager, die door middel van cofinanciering bijdraagt aan het project.
+- *Cofinancier:* Een rechtspersoon, dan wel andere juridische entiteit, niet zijnde aanvrager, die door middel van cofinanciering bijdraagt aan het project.
 
-- **Cofinanciering:** De bijdrage, in cash, in kind, of een combinatie daarvan, door de Cofinancier aan het Project.
+- *Cofinanciering:* De bijdrage, in cash, in kind, of een combinatie daarvan, door de Cofinancier aan het Project.
 
-- **IE-rechten:** Alle rechten met betrekking tot intellectuele eigendom.
+- *IE-rechten:* Alle rechten met betrekking tot intellectuele eigendom.
 
-- **NWO:** De Nederlandse organisatie voor wetenschappelijk onderzoek, daaronder begrepen alle onder haar ressorterende organisatieonderdelen en programma’s. In deze Regeling Cofinanciering wordt met NWO het orgaan of de functionaris aangeduid die op grond van de geldende [Bevoegdhedenregeling NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0045229) bevoegd is NWO te vertegenwoordigen dan wel het desbetreffende besluit te nemen.
+- *NWO:* De Nederlandse organisatie voor wetenschappelijk onderzoek, daaronder begrepen alle onder haar ressorterende organisatieonderdelen en programma’s. In deze Regeling Cofinanciering wordt met NWO het orgaan of de functionaris aangeduid die op grond van de geldende [Bevoegdhedenregeling NWO](https://wetten.overheid.nl/jci1.3:c:BWBR0045229) bevoegd is NWO te vertegenwoordigen dan wel het desbetreffende besluit te nemen.
 
-- **Overeenkomst:** De overeenkomst tussen de Aanvrager en de Cofinanciers, waarin ten minste afspraken worden gemaakt over de inning van de Cofinanciering en eventuele verdeling van de IE-rechten.
+- *Overeenkomst:* De overeenkomst tussen de Aanvrager en de Cofinanciers, waarin ten minste afspraken worden gemaakt over de inning van de Cofinanciering en eventuele verdeling van de IE-rechten.
 
-- **Project:** Het geheel van activiteiten waarvoor subsidie is verstrekt aan de Aanvrager.
+- *Project:* Het geheel van activiteiten waarvoor subsidie is verstrekt aan de Aanvrager.
 
-- **Resultaten:** Alle uit het Project voortvloeiende uitkomsten, al dan niet vatbaar voor IE-rechten, waaronder uitvindingen, materialen, methodes, processen, producten en software.
+- *Resultaten:* Alle uit het Project voortvloeiende uitkomsten, al dan niet vatbaar voor IE-rechten, waaronder uitvindingen, materialen, methodes, processen, producten en software.
 
-- **Subsidieregeling:** De geldende subsidieregeling van NWO.
+- *Subsidieregeling:* De geldende subsidieregeling van NWO.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -102,19 +83,19 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 2. Cofinanciering in kind kan, tenzij in de Call for Proposals anders is bepaald, in ieder geval niet bestaan uit:
 
-- a). financiële bijdragen van derden, daaronder begrepen PPS–toeslag van het Ministerie van Economische zaken en Klimaat;
+- a) financiële bijdragen van derden, daaronder begrepen PPS–toeslag van het Ministerie van Economische zaken en Klimaat;
 
-- b). kortingen op commerciële tarieven, waaronder op materialen, apparaten en diensten;
+- b) kortingen op commerciële tarieven, waaronder op materialen, apparaten en diensten;
 
-- c). kosten met betrekking tot overhead en consultancy;
+- c) kosten met betrekking tot overhead en consultancy;
 
-- d). kosten voor producten en/of diensten die voorwaardelijk zijn.
+- d) kosten voor producten en/of diensten die voorwaardelijk zijn.
 
-- e). kosten die volgens de Call for Proposals niet subsidiabel zijn;
+- e) kosten die volgens de Call for Proposals niet subsidiabel zijn;
 
-- f). kosten van apparatuur indien een van de (hoofd)doelen van de aanvraag is verbetering/meerwaarde te creëren van deze apparatuur;
+- f) kosten van apparatuur indien een van de (hoofd)doelen van de aanvraag is verbetering/meerwaarde te creëren van deze apparatuur;
 
-- g). know how of andere vormen van immateriële inzet.
+- g) know how of andere vormen van immateriële inzet.
 
 ##### Artikel 7. Waardebepaling cofinanciering in kind
 
@@ -124,21 +105,21 @@ Indien de Subsidieregeling niet of slechts gedeeltelijk van toepassing is op een
 
 3. De volgende berekeningsgrondslagen kunnen worden gebruikt bij het begroten van de Cofinanciering in kind:
 
-- i. **Voor personeel:**
+- i *Voor personeel:*
 
-- (1). Het uurtarief exclusief BTW, vermenigvuldigd met het aantal uren, waarbij het uurtarief moet worden gebruikt uit de tabel met de integrale kosten van de Handleiding Overheidstarieven (HOT). Het integrale uurtarief (dus loonkosten plus overhead) wordt gebaseerd op de inschaling van een persoon volgens de CAO of het functiehuis van de Cofinancier. In het geval dat een CAO of functiehuis ontbreekt, dient het uurtarief te worden gekozen, waarbij de loonkosten per mensjaar het dichtst liggen bij de werkelijke loonkosten.
+   - (1) Het uurtarief exclusief BTW, vermenigvuldigd met het aantal uren, waarbij het uurtarief moet worden gebruikt uit de tabel met de integrale kosten van de Handleiding Overheidstarieven (HOT). Het integrale uurtarief (dus loonkosten plus overhead) wordt gebaseerd op de inschaling van een persoon volgens de CAO of het functiehuis van de Cofinancier. In het geval dat een CAO of functiehuis ontbreekt, dient het uurtarief te worden gekozen, waarbij de loonkosten per mensjaar het dichtst liggen bij de werkelijke loonkosten.
 
-- ii. **Voor materieel:**
+- ii. *Voor materieel:*
 
-- (1). voor verbruiksgoederen op basis van de kostprijs;
+   - (1) voor verbruiksgoederen op basis van de kostprijs;
 
-- (2). voor investeringen (zoals apparatuur, ICT-systemen, laboratoria) op basis van:
+   - (2) voor investeringen (zoals apparatuur, ICT-systemen, laboratoria) op basis van:
 
-- (a). een bij de Cofinancier gebruikelijk tarief voor de doorberekeningen van gebruik van apparatuur en faciliteiten aan derden. Het moet in dat geval aantoonbaar zijn dat het tarief bij derden is toegepast; of
+      - (a) een bij de Cofinancier gebruikelijk tarief voor de doorberekeningen van gebruik van apparatuur en faciliteiten aan derden. Het moet in dat geval aantoonbaar zijn dat het tarief bij derden is toegepast; of
 
-- (b). de afschrijvingslasten die evenredig zijn aan het overeengekomen gebruik; of
+      - (b) de afschrijvingslasten die evenredig zijn aan het overeengekomen gebruik; of
 
-- (c). een machine uurtarief (afschrijvingskosten per jaar gedeeld door het aantal operationele uren per jaar) vermenigvuldigd met de verwachte gebruiksuren gedurende het Project.
+      - (c) een machine uurtarief (afschrijvingskosten per jaar gedeeld door het aantal operationele uren per jaar) vermenigvuldigd met de verwachte gebruiksuren gedurende het Project.
 
 ##### Artikel 8. Verantwoording
 

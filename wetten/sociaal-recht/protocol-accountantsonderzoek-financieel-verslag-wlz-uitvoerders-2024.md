@@ -1,35 +1,16 @@
 ---
 title: "Protocol accountantsonderzoek financieel verslag Wlz-uitvoerders 2024"
 identifier: "BWBR0049796"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-06-08"
-last_updated: "2024-06-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049796"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17125553"
-version_id: "30140022"
-internal_id: "C43180651"
-label_id: "17034604"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049796/2024-06-08/0"
-intitule_bron: "Stcrt.2024-18218"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-06-07"
-intitule_in_force: "2024-06-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-18218"
-original_published_date: "2024-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-18218"
-entry_into_force_date: "2024-06-08"
-jci_1_3: "jci1.3:c:BWBR0049796&z=2024-06-08&g=2024-06-08"
-jci_1_0: "1.0:c:BWBR0049796&g=2024-06-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-06-08"
+publicatiedatum: 2024-06-08
+laatste_update: 2024-06-08
+status: geldig
+toestand: 2024-06-08
+bron: "https://wetten.overheid.nl/BWBR0049796"
+opgehaald: 2026-09-06
 ---
+
 # Protocol accountantsonderzoek financieel verslag Wlz-uitvoerders 2024
 
 ### 1. Inleiding
@@ -38,7 +19,7 @@ entry_into_force: "2024-06-08"
 
 ### 1.1.1. Verantwoordingsdocumenten
 
-Een Wlz-uitvoerder zendt vóór 1 juli aan de Nederlandse Zorgautoriteit (hierna: NZa) een financieel verslag over het voorafgaande kalenderjaar. In het financieel verslag wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen1Artikel 4.3.1 Wlz.
+Een Wlz-uitvoerder zendt vóór 1 juli aan de Nederlandse Zorgautoriteit (hierna: NZa) een financieel verslag over het voorafgaande kalenderjaar. In het financieel verslag wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen1Artikel 4.3.1 Wlz.
 
 Het financieel verslag bestaat uit een algemene toelichting, een balans, een exploitatierekening en een toelichting op de balans en exploitatierekening. In het financieel verslag verantwoordt de Wlz-uitvoerder zowel de geldstromen die rechtstreeks via de Wlz-uitvoerder lopen als de geldstromen die via andere rechtspersonen lopen, zoals de betaling van zorgaanspraken via het CAK en de Sociale Verzekeringsbank (SVB).
 
@@ -60,11 +41,15 @@ De NZa maakt bij haar toezicht op de rechtmatige en doelmatige uitvoering van de
 
 De NZa beoordeelt de door de accountant, in opdracht van de Wlz-uitvoerder, uitgevoerde werkzaamheden en stelt op basis van haar bevindingen haar eigen onderzoekswerkzaamheden vast. Op grond van de verzamelde informatie vormt de NZa zich een oordeel over:
 
-Jaarlijks brengt de NZa vóór 1 december volgend op het verslaggevingsjaar van de Wlz-uitvoerder (t+1) een samenvattend rapport uit over de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door de Wlz-uitvoerders.
+- • de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door de Wlz-uitvoerders en;
+
+- • de rechtmatigheid van de daarmee samenhangende baten en lasten.
+
+Jaarlijks brengt de NZa vóór 1 december volgend op het verslaggevingsjaar van de Wlz-uitvoerder (t+1) een samenvattend rapport uit over de rechtmatige en doelmatige uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) door de Wlz-uitvoerders.
 
 ### 1.2. Inwerkingtreding
 
-Dit protocol treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit protocol wordt geplaatst en werkt terug tot en met 1 januari 2024.
+Dit protocol treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin dit protocol wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 ### 2. Werkzaamheden en producten accountantscontrole
 
@@ -76,13 +61,13 @@ Dit hoofdstuk bevat een beschrijving van de werkzaamheden die de accountant moet
 
 De Wlz-uitvoerder geeft een accountant opdracht om een onderzoek uit te voeren naar het financieel verslag van de Wlz-uitvoerder. Bij deze opdracht vormen de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) en dit protocol het uitgangspunt.
 
-Dit onderzoek wordt uitgevoerd in overeenstemming met [Standaard COS 800](onbekend)2Bijzondere overwegingen – controles van financiële overzichten die zijn opgesteld in overeenstemming met stelsels voor bijzondere doeleinden. en betreft een onderzoek naar de getrouwheid van het financieel verslag en naar de financiële rechtmatigheid van de daarin opgenomen schaden, bedrijfsopbrengsten en beheerskosten3Het onderzoek naar de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer zoals bedoeld in artikel 4.3.1 van de Wlz is geïntegreerd in de toetsingscriteria voor financiële rechtmatigheid (hoofdstuk 4). 4De werkzaamheden van dit onderzoek zijn inclusief de beoordeling of de andere informatie met het financieel verslag verenigbaar is en geen materiële afwijkingen bevat en of de andere informatie alle informatie bevat die op grond van de Regeling uitvoeringsverslag en financieel verslag is vereist..
+Dit onderzoek wordt uitgevoerd in overeenstemming met [Standaard COS 800](https://wetten.overheid.nl/BWBR0049711)2Bijzondere overwegingen – controles van financiële overzichten die zijn opgesteld in overeenstemming met stelsels voor bijzondere doeleinden. en betreft een onderzoek naar de getrouwheid van het financieel verslag en naar de financiële rechtmatigheid van de daarin opgenomen schaden, bedrijfsopbrengsten en beheerskosten3Het onderzoek naar de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer zoals bedoeld in artikel 4.3.1 van de Wlz is geïntegreerd in de toetsingscriteria voor financiële rechtmatigheid (hoofdstuk 4).  4De werkzaamheden van dit onderzoek zijn inclusief de beoordeling of de andere informatie met het financieel verslag verenigbaar is en geen materiële afwijkingen bevat en of de andere informatie alle informatie bevat die op grond van de Regeling uitvoeringsverslag en financieel verslag is vereist..
 
 ### 2.1.2. Werkzaamheden accountant
 
 De accountant hanteert de geldende beroepsvoorschriften, in het bijzonder de [Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635) (VGBA), de [verordening inzake onafhankelijkheid van de accountant bij Assurance opdrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0034652) (ViO) en de relevante [Nadere Voorschriften Controle- en Overige Standaarden](https://wetten.overheid.nl/jci1.3:c:BWBR0049711) (NV COS). Daarnaast hanteert de accountant dit protocol als kader voor zijn werkzaamheden.
 
-Voor het onderzoek naar de getrouwheid en rechtmatigheid van het financieel verslag kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag een getrouw beeld geeft van de grootte en de samenstelling van het vermogen per 31 december 2024 en van het resultaat over 2024 in overeenstemming met de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) en de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) en de in het financieel verslag verantwoorde schaden, bedrijfsopbrengsten en beheerskosten over 2024, in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen zoals limitatief opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08) van het Protocol accountantsonderzoek Wlz-uitvoerders.
+Voor het onderzoek naar de getrouwheid en rechtmatigheid van het financieel verslag kiest de accountant een zodanige controleaanpak dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag een getrouw beeld geeft van de grootte en de samenstelling van het vermogen per 31 december 2024 en van het resultaat over 2024 in overeenstemming met de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) en de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) en de in het financieel verslag verantwoorde schaden, bedrijfsopbrengsten en beheerskosten over 2024, in alle van materieel belang zijnde aspecten voldoen aan de eisen van financiële rechtmatigheid in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen zoals limitatief opgesomd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08) van het Protocol accountantsonderzoek Wlz-uitvoerders.
 
 Het wordt aan de accountant overgelaten op welke wijze hij zijn controleaanpak op dit punt inricht, hoe hij zijn controlewerkzaamheden uitvoert en hoe hij op grond daarvan voldoende controle-informatie verkrijgt. Het doel is niet om aan te geven welke werkzaamheden de accountant minimaal dient uit te voeren, dit wordt overgelaten aan zijn professionele oordeelsvorming.
 
@@ -93,6 +78,14 @@ De accountant rapporteert zijn bevindingen in het accountantsverslag en – voor
 ### 2.2.1. Controleverklaring
 
 Het onderzoek van het financieel verslag leidt tot een gecombineerde controleverklaring van de accountant over de getrouwheid en de financiële rechtmatigheid van het financieel verslag van de Wlz-uitvoerder. In deze controleverklaring geeft de accountant aan:
+
+- • Of het financieel verslag een getrouw beeld5Een getrouw beeld houdt in dat de financiële overzichten een getrouwe weergave, in alle van materieel belang zijnde opzichten, dan wel een getrouw beeld geven van de informatie waarvoor is voorzien dat deze door de financiële overzichten wordt gepresenteerd. geeft van de grootte en de samenstelling van het vermogen per 31 december jaar t en van het resultaat over jaar t.
+
+- • Of de in het financieel verslag verantwoorde schaden, bedrijfsopbrengsten en beheerskosten voldoen aan de eisen van financiële rechtmatigheid6Het onderzoek naar de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer zoals bedoeld in artikel 4.3.1 van de Wlz is geïntegreerd in de toetsingscriteria voor financiële rechtmatigheid (hoofdstuk 4).. Dit houdt in dat deze bedragen tot stand zijn gekomen in overeenstemming met de bepalingen van de relevante wet- en regelgeving zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=1&z=2024-06-08&g=2024-06-08).
+
+- • Of de andere informatie met het financieel verslag verenigbaar is en geen materiële afwijkingen bevat7In overeenstemming met Standaard 720..
+
+- • Of de andere informatie alle informatie bevat die op grond van de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) is vereist.
 
 In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049796&bijlage=2&z=2024-06-08&g=2024-06-08) is een opsomming gegeven van de minimale en specifieke punten die in de controleverklaring moet worden opgenomen.
 
@@ -108,13 +101,21 @@ De NZa kan de accountant hierbij verzoeken8Op basis van artikel 61 Wmg. om stukk
 
 Daarnaast kan de NZa:
 
+- • rapporteren over stukken uit het accountantsverslag9De NZa kan besluiten passages uit de accountantsverslagen te gebruiken voor haar rapportages, indien dit noodzakelijk is voor een juiste en volledige weergave. Indien de NZa hiertoe besluit past zij hierbij hoor- en wederhoor toe.;
+
+- • over uitkomsten van haar review rapporteren in een reviewmemorandum10De NZa kan over de uitkomsten van de review aan de accountant (als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek) rapporteren via een reviewmemorandum. De NZa stelt de accountant in de gelegenheid om op het concept van het reviewmemorandum te reageren en de NZa verwerkt deze reactie in het definitieve memorandum. Op basis van het Samenwerkingsconvenant tussen de Autoriteit Financiële Markten (AFM) en de NZa van januari 2014 deelt de NZa de bevindingen over de accountantscontroles met de AFM. De AFM betrekt deze informatie vervolgens bij het bepalen van de prioriteiten van haar toezicht op accountantsorganisaties en de financiële verslaggeving..
+
 ### 3. Uitgangspunten voor het accountantsonderzoek
 
 ### 3.1. Andere informatie
 
 De jaarstukken omvatten, naast het financieel verslag, ook andere informatie. De andere informatie bestaat uit:
 
-In overeenstemming met [Standaard 720](onbekend) dient de accountant de andere informatie te lezen en te overwegen of sprake is van een inconsistentie van materieel belang tussen de andere informatie en het financieel verslag en/of de kennis van de accountant verkregen tijdens de controle. Ook stelt de accountant vast of alle informatie zoals vereist volgens de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) is opgenomen in het uitvoeringsverslag en de bestuursverklaringen. Hierbij houdt de accountant rekening met hetgeen is beschreven over het doorontwikkelingstraject ten aanzien van het uitvoeringsverslag in de Regeling uitvoeringsverslag en financieel verslag.
+- • het uitvoeringsverslag;
+
+- • de bestuursverklaringen.
+
+In overeenstemming met [Standaard 720](https://wetten.overheid.nl/BWBR0049711) dient de accountant de andere informatie te lezen en te overwegen of sprake is van een inconsistentie van materieel belang tussen de andere informatie en het financieel verslag en/of de kennis van de accountant verkregen tijdens de controle. Ook stelt de accountant vast of alle informatie zoals vereist volgens de [Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) is opgenomen in het uitvoeringsverslag en de bestuursverklaringen. Hierbij houdt de accountant rekening met hetgeen is beschreven over het doorontwikkelingstraject ten aanzien van het uitvoeringsverslag in de Regeling uitvoeringsverslag en financieel verslag.
 
 ### 3.2. Rechtmatigheid
 
@@ -158,6 +159,12 @@ De NZa verwacht van de accountant dat hij bij zijn accountantsonderzoek nagaat o
 
 Bij zijn oordeelsvorming over de financiële rechtmatigheid van de in het financieel verslag opgenomen schaden, bedrijfsopbrengsten en beheerskosten streeft de accountant naar een hoge mate van zekerheid. De financiële rechtmatigheid is gewaarborgd als met een betrouwbaarheid van 95% de bewering juist is dat het financieel verslag geen grotere rechtmatigheidsfout of onzekerheid in de controle bevat dan de hieronder genoemde goedkeuringstoleranties.
 
+|  | Rechtmatigheid is gewaarborgd | Rechtmatigheid met beperking | Geen oordeel over rechtmatigheid | Rechtmatigheid niet gewaarborgd |  |
+| --- | --- | --- | --- | --- | --- |
+| Rechtmatigheidsfouten | ≤ 1% | > 1% | ≤ 3% | - | > 3% |
+| Onzekerheden in de controle | ≤ 3% | > 3% | ≤ 10% | > 10% | – |
+| Soort controleverklaring | Goedkeurend | Met beperking | Oordeelonthouding | Afkeurend |  |
+
 Bron: NZa
 
 Bovenstaande tabel 1 moet in relatie worden gezien met de specifieke goedkeuringstoleranties zoals opgenomen in de tabellen 2 en 3.
@@ -170,11 +177,27 @@ De accountant voert zelfstandig onderzoek uit naar de rechtmatigheid. Dit houdt 
 
 In aanvulling op deze algemene toleranties bestaan specifieke toleranties, gericht op de schaden en beheerskosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
+| Controledeelgebied | Materialiteit |
+| --- | --- |
+| Schaden – uitgaven | 1% van de totale schaden |
+| Schaden – balanspost | Goedkeuringstolerantie getrouwheid |
+| Bedrijfsopbrengsten – ontvangsten | 1% van de totale bedrijfsopbrengsten |
+| Bedrijfsopbrengsten – balanspost | Goedkeuringstolerantie getrouwheid |
+| Beheerskosten | 1% van de totale beheerskosten |
+
 Bron: NZa
 
 ### 3.7.2. Steekproeven
 
 Bij het evalueren van de uitkomst van steekproeven dient de accountant ten aanzien van zijn oordeel over de rechtmatigheid als volgt te handelen:
+
+- • De accountant neemt bij de evaluatie van de fouten de verwachte of geprojecteerde foutfractie mee die voortkomt uit de uitgevoerde steekproef.
+
+- • De accountant neemt bij de evaluatie van de onzekerheden, de onnauwkeurigheid in de steekproefuitkomst (verschil tussen de verwachte of geprojecteerde foutfractie en de maximale fout) mee die voortkomt uit de uitgevoerde steekproef.
+
+- • De accountant en de Wlz-uitvoerder verantwoorden de fouten die voortkomen uit de steekproeven in het rechtmatigheidsoverzicht.
+
+- • De onzekerheden die voortkomen uit de steekproef verantwoordt de accountant in het rechtmatigheidsoverzicht op de regel ‘onzekerheden in de controle als gevolg van extrapolatie’.
 
 ### 3.7.3. Het rechtmatigheidsoverzicht in het accountantsverslag
 
@@ -182,7 +205,23 @@ De accountant neemt in het accountantsverslag een rechtmatigheidsoverzicht op wa
 
 Dit geldt ook voor rechtmatigheidsfouten en onzekerheden uit voorgaande jaren die nog niet zijn afgewikkeld.
 
+Model rechtmatigheidsoverzicht
+
 Geconstateerde rechtmatigheidsfouten die niet gecorrigeerd zijn moeten – ongeacht hun omvang – in het rechtmatigheidsoverzicht worden vermeld. Hiervoor maakt de accountant gebruik van Tabel 3. In het rechtmatigheidsoverzicht wordt per regel een duiding gegeven van de aard van de rechtmatigheidsfout of onzekerheid. Daarnaast wordt onderscheid gemaakt in de jaartallen van ontstaan en de jaartallen van rapportering.
+
+|  | Jaar van ontstaan 1 | Jaar gerapporteerd 2 | Bedrag (€) |  |
+| --- | --- | --- | --- | --- |
+| Onrechtmatigheden in het financieel verslag |  |  |  |  |
+| [omschrijving] | 20xx | 20xx | 000 | 20xx |
+| Totaal onrechtmatigheden |  |  | 000 |  |
+|  |  |  |  |  |
+| Onzekerheden in het financieel verslag |  |  |  |  |
+| [omschrijving] | 20xx | 20xx | 000 |  |
+| Onzekerheden in de controle als gevolg van extrapolatie |  |  |  |  |
+| [omschrijving] | 20xx | 20xx | 000 |  |
+| Totaal onzekerheden |  |  | 000 |  |
+|  |  |  |  |  |
+| Totaal onrechtmatigheden en onzekerheden |  |  | 000 |  |
 
 1 Jaar van ontstaan zoals gedefinieerd in [artikel 5.8.2 van de Regeling uitvoeringsverslag en financieel verslag](https://wetten.overheid.nl/jci1.3:c:BWBR0047939&artikel=5)
 
@@ -196,7 +235,7 @@ De accountant kan voor de controle van de rechtmatigheid steunen op de werkzaamh
 
 In dit protocol wordt niet verder ingegaan op de te verrichten werkzaamheden in het kader van het getrouwe beeld van het financieel verslag. Hiervoor verwijzen wij naar de geldende beroepsregels.
 
-De hieronder genoemde verdere toelichting heeft betrekking op het onderzoek naar de rechtmatigheid van de in het financieel verslag opgenomen schaden, bedrijfsopbrengsten en beheerskosten. Voor een nadere toelichting van het begrip rechtmatigheid, zie hoofdstuk 3.2.
+De hieronder genoemde verdere toelichting heeft betrekking op het onderzoek naar de rechtmatigheid van de in het financieel verslag opgenomen schaden, bedrijfsopbrengsten en beheerskosten. Voor een nadere toelichting van het begrip rechtmatigheid, zie [hoofdstuk 3.2](https://wetten.overheid.nl/BWBR0049796).
 
 ### 4.1. Juiste en volledige afhandeling declaraties Zorg in Natura en pgb
 
@@ -246,78 +285,8 @@ In het geval de Wlz-uitvoerder ultimo boekjaar over een negatieve wettelijke res
 
 Relevant bij buitenlandzorg zijn:
 
+- • De zorgkosten van wonen en tijdelijk verblijf in het buitenland op basis van de [Regeling Hulp in bijzondere omstandigheden](https://wetten.overheid.nl/jci1.3:c:BWBR0016213).
+
+- • De kosten van Wlz-zorg in het buitenland zonder toepassing van een verordening of verdrag.
+
 De accountant stelt vast dat de Wlz-uitvoerder bij de vergoeding van kosten bij wonen en tijdelijk verblijf in het buitenland de geldende wet- en regelgeving in acht heeft genomen19Zoals opgenomen in bijlage 1..
-
-## Bijlage 1. Lijst met circulaires en wet- en regelgeving
-
-### 1. Verslaggeving
-
-### 2. Beheerskosten
-
-### 3. Schaden
-
-### 4. Rentevergoeding Algemeen Fonds
-
-### 5. Buitenland
-
-### 6. [Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940)
-
-## Bijlage 2. Specifieke punten controleverklaring
-
-Dit betreft een rapportage conform [Standaard 800 Bijzondere overwegingen – controles van financiële overzichten die zijn opgesteld in overeenstemming met stelsels voor bijzondere doeleinden](onbekend). In dit protocol beschrijven wij enkel de specifieke aandachtspunten ten aanzien van de generieke NBA template, zoals deze ook te vinden is op [www.nba.nl](http://www.nba.nl).
-
-### Ons oordeel
-
-In de paragraaf ‘Ons oordeel’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Naar ons oordeel:
-
-### De basis van ons oordeel
-
-In de paragraaf ‘De basis voor ons oordeel’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Wij hebben onze controle uitgevoerd volgens het Nederlands recht, waaronder ook de Nederlandse controlestandaarden en het Protocol accountantsonderzoek financieel verslag Wlz-uitvoerders met kenmerk [...] vallen. Onze verantwoordelijkheden op grond hiervan zijn beschreven in de sectie ‘Onze verantwoordelijkheden voor de controle van het financieel verslag’.
-
-### Controleaanpak continuïteit en frauderisico’s
-
-In de controleverklaring bij wettelijke controles20Als bedoeld in artikel 1, eerste lid, onderdeel p van de Wet toezicht accountantsorganisaties. dient de accountant een aparte sectie ‘Controleaanpak continuïteit’ ([Standaard 700](onbekend).29A) en ‘Controleaanpak frauderisico’s’ ([Standaard 700](onbekend).29B) op te nemen. Gezien de beperkte verspreidingskring en de aard van de verantwoording, acht de NZa dat voor de controleverklaring bij het financieel verslag niet noodzakelijk.
-
-### Beperking in gebruik en verspreidingskring
-
-In de paragraaf ‘Beperking in gebruik en verspreidingskring’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-Wij vestigen de aandacht op punt ... in de toelichting van het financieel verslag waarin de basis voor financiële verslaggeving uiteen is gezet. Het financieel verslag is opgesteld voor de Nederlandse Zorgautoriteit en Zorginstituut Nederland met als doel [naam Wlz-uitvoerder] in staat te stellen te voldoen aan de bepalingen van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0047939). Hierdoor is de verantwoording mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor [naam Wlz-uitvoerder], de Nederlandse Zorgautoriteit en Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
-
-Ons oordeel is niet aangepast als gevolg van deze aangelegenheid.
-
-### Andere informatie
-
-In de paragraaf ‘Andere informatie’ moet ten minste de volgende specifieke alinea worden opgenomen:
-
-De jaarstukken omvatten andere informatie, naast het financieel verslag en onze controleverklaring daarbij. De andere informatie bestaat uit:
-
-Op grond van onderstaande werkzaamheden zijn wij van mening dat de andere informatie:
-
-Wij hebben de andere informatie gelezen en hebben op basis van onze kennis en ons begrip, verkregen vanuit de controle van het financieel verslag of anderszins, overwogen of de andere informatie materiële afwijkingen bevat. Met onze werkzaamheden hebben wij voldaan aan de vereisten in de Nederlandse [Standaard 720](onbekend) en het Protocol accountantsonderzoek financieel verslag Wlz-uitvoerder 2024. Deze werkzaamheden hebben niet dezelfde diepgang als onze controlewerkzaamheden bij het financieel verslag.
-
-Het bestuur is verantwoordelijk voor het opstellen van de andere informatie, waaronder het uitvoeringsverslag en de bestuursverklaringen in overeenstemming met [Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0047939).
-
-## Bijlage 3. Specifieke punten accountantsverslag
-
-### 1. Onderbouwing oordeel van de controleverklaring
-
-De accountant rapporteert over:
-
-### 2. Rechtmatigheidsoverzicht
-
-De accountant neemt in het accountantsverslag een rechtmatigheidsoverzicht over het verslagjaar op. Bij het rechtmatigheidsoverzicht neemt de accountant een toelichting op van de oorzaak van de rechtmatigheidsfouten en onzekerheden.
-
-De accountant rapporteert over de juiste en volledige opvolging door de Wlz-uitvoerder van rechtmatigheidsfouten en onzekerheden in voorgaande verslagjaren.
-
-### 3. Andere informatie
-
-De accountant vermeldt bij de bevindingen van zijn onderzoek of de opgenomen informatie in de andere informatie met het financieel verslag verenigbaar is en geen materiële afwijkingen bevat en of de andere informatie alle informatie bevat die op grond van [Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder](https://wetten.overheid.nl/jci1.3:c:BWBR0047939) is vereist.
-
-### 4. Afwikkeling bevindingen voorgaand jaar NZa
-
-De accountant vermeldt zijn bevindingen van zijn onderzoek naar de op- en aanmerkingen van de NZa in haar rapportage over de financiële rechtmatigheid van voorgaand jaar.

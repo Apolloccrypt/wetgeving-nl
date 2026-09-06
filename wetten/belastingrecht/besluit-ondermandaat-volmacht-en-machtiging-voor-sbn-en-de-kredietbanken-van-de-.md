@@ -1,62 +1,32 @@
 ---
 title: "Besluit van de directeur-generaal Herstelbeleid van het Ministerie van Financiën van 30 juli 2024 (2024-395919) houdende verlening van ondermandaat, volmacht en machtiging aan de Stichting Sociale Banken Nederland en de kredietbanken in het kader van schulden en herstel (Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van schulden en herstel toeslagen 2024)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024"
 identifier: "BWBR0050139"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-08-16"
-last_updated: "2024-08-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050139"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "17204183"
-version_id: "30294172"
-internal_id: "C43462881"
-label_id: "17110124"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050139/2024-08-16/0"
-intitule_bron: "Stcrt.2024-26749"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-07-30"
-intitule_published: "2024-08-15"
-intitule_in_force: "2024-08-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-26749"
-original_signed_date: "2024-07-30"
-original_published_date: "2024-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-26749"
-entry_into_force_date: "2024-08-16"
-jci_1_3: "jci1.3:c:BWBR0050139&z=2024-08-16&g=2024-08-16"
-jci_1_0: "1.0:c:BWBR0050139&g=2024-08-16"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024"
-signed_date: "2024-07-30"
-entry_into_force: "2024-08-16"
+publicatiedatum: 2024-08-16
+laatste_update: 2024-08-16
+status: geldig
+toestand: 2024-08-16
+bron: "https://wetten.overheid.nl/BWBR0050139"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de directeur-generaal Herstelbeleid van het Ministerie van Financiën van 30 juli 2024 (2024-395919) houdende verlening van ondermandaat, volmacht en machtiging aan de Stichting Sociale Banken Nederland en de kredietbanken in het kader van schulden en herstel (Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van schulden en herstel toeslagen 2024)
-
-Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=3.13) en[4.1 tot en met 4.4 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1);
-
-Gelet op de eerder gegeven goedkeuring van de verantwoordelijken van de Stichting Sociale Banken Nederland en de kredietbanken die werken aan de schuldenaanpak in het kader van de hersteloperatie toeslagen;
-
-Gelet op het [Besluit verlening mandaat, volmacht en machtiging](https://wetten.overheid.nl/jci1.3:c:BWBR0050061) van de Minister van Financiën aan de directeur-generaal Herstelbeleid in het kader van de hersteloperatie toeslagen (Stcrt. 2024, 24113);
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- a. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. **Wht:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436);
+- b. *Wht:*
+ [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436);
 
-- c. **SBN:** Stichting Sociale Banken Nederland;
+- c. *SBN:* Stichting Sociale Banken Nederland;
 
-- d. **Kredietbank:** een kredietbank die is aangesloten bij SBN en die is betrokken bij de afwikkeling van de hersteloperatie van de [Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
+- d. *Kredietbank:* een kredietbank die is aangesloten bij SBN en die is betrokken bij de afwikkeling van de hersteloperatie van de [Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
 ##### Artikel 2. Ondermandaat, volmacht en machtiging
 
@@ -162,10 +132,8 @@ Het [Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken v
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 mei 2024.
 
 ##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor SBN en de kredietbanken van de directeur-generaal Herstelbeleid in het kader van private schulden en herstel toeslagen 2024.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

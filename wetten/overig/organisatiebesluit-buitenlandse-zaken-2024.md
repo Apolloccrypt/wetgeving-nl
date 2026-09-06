@@ -1,62 +1,34 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 13 augustus 2024, met kenmerk nr.BZ2402895, tot vaststelling van de organisatie van het Ministerie van Buitenlandse Zaken (Organisatiebesluit Buitenlandse Zaken 2024)"
+citeertitel: "Organisatiebesluit Buitenlandse Zaken 2024"
 identifier: "BWBR0050160"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-08-22"
-last_updated: "2024-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050160"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17207613"
-version_id: "30299232"
-internal_id: "C43468351"
-label_id: "17113624"
-dtd_version: "2.0"
-original_entry_into_force: "2024-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050160/2024-08-22/0"
-intitule_bron: "Stcrt.2024-27281"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-08-13"
-intitule_published: "2024-08-21"
-intitule_in_force: "2024-08-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-27281"
-original_signed_date: "2024-08-13"
-original_published_date: "2024-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-27281"
-entry_into_force_date: "2024-08-22"
-jci_1_3: "jci1.3:c:BWBR0050160&z=2024-08-22&g=2024-08-22"
-jci_1_0: "1.0:c:BWBR0050160&g=2024-08-22"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit Buitenlandse Zaken 2024"
-signed_date: "2024-08-13"
-entry_into_force: "2024-08-22"
+publicatiedatum: 2024-08-22
+laatste_update: 2024-08-22
+status: geldig
+toestand: 2024-08-22
+bron: "https://wetten.overheid.nl/BWBR0050160"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 13 augustus 2024, met kenmerk nr.BZ2402895, tot vaststelling van de organisatie van het Ministerie van Buitenlandse Zaken (Organisatiebesluit Buitenlandse Zaken 2024)
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Overwegende de missie van het Ministerie van Buitenlandse Zaken om het Koninkrijk der Nederlanden veiliger en welvarender te maken en Nederlanders in het buitenland te steunen, alsmede ons samen met onze partners in te zetten voor een rechtvaardige wereld, waarbij de kernwaarden van het ministerie zijn samenwerken, verantwoordelijkheid nemen en het behalen van resultaten;
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** het Ministerie van Buitenlandse Zaken, daaronder begrepen zowel het departement in Den Haag als de posten;
+- a. *ministerie:* het Ministerie van Buitenlandse Zaken, daaronder begrepen zowel het departement in Den Haag als de posten;
 
-- b. **posten:** de vertegenwoordigingen van het Koninkrijk der Nederlanden in het buitenland, te weten ambassades, gezantschappen, consulaten-generaal, consulaten, permanente vertegenwoordigingen bij internationale organisaties en andere (tijdelijke) vertegenwoordigingen, alsmede de permanente vertegenwoordigingen van het Koninkrijk der Nederlanden in Nederland bij internationale organisaties die in Nederland zijn gevestigd;
+- b. *posten:* de vertegenwoordigingen van het Koninkrijk der Nederlanden in het buitenland, te weten ambassades, gezantschappen, consulaten-generaal, consulaten, permanente vertegenwoordigingen bij internationale organisaties en andere (tijdelijke) vertegenwoordigingen, alsmede de permanente vertegenwoordigingen van het Koninkrijk der Nederlanden in Nederland bij internationale organisaties die in Nederland zijn gevestigd;
 
-- c. **bewindspersonen:** de Minister van Buitenlandse Zaken en de aan het ministerie verbonden minister(s) zonder portefeuille en/of staatssecretaris(sen);
+- c. *bewindspersonen:* de Minister van Buitenlandse Zaken en de aan het ministerie verbonden minister(s) zonder portefeuille en/of staatssecretaris(sen);
 
-- d. **secretaris-generaal:** degene belast met de ambtelijke leiding van al hetgeen het ministerie betreft, bedoeld in het [Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499);
+- d. *secretaris-generaal:* degene belast met de ambtelijke leiding van al hetgeen het ministerie betreft, bedoeld in het [Besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499);
 
-- e. **bestuursraad:** de Bestuursraad bestaande uit de secretaris-generaal (SG), de plaatsvervangend secretaris-generaal (PSG) en de directeuren-generaal (DG’s) van het ministerie. De hoofddirecteuren Personeel en Organisatie (HDPO) en Postennet (HDPN) alsmede de directeuren Communicatie (COM), Ondersteuning Bestuur (DOB) en Financieel-Economische Zaken (FEZ) van het ministerie hebben een vaste adviesfunctie in de Bestuursraad;
+- e. *bestuursraad:* de Bestuursraad bestaande uit de secretaris-generaal (SG), de plaatsvervangend secretaris-generaal (PSG) en de directeuren-generaal (DG’s) van het ministerie. De hoofddirecteuren Personeel en Organisatie (HDPO) en Postennet (HDPN) alsmede de directeuren Communicatie (COM), Ondersteuning Bestuur (DOB) en Financieel-Economische Zaken (FEZ) van het ministerie hebben een vaste adviesfunctie in de Bestuursraad;
 
-- f. **managementraad:** de Managementraad bestaande uit de plaatsvervangend secretaris-generaal (PSG) en de plaatsvervangend directeuren-generaal (plv. DG’s). De hoofddirecteuren Personeel en Organisatie (HDPO), Bedrijfsvoering (HDBV) en Postennet (HDPN), de directeur Financieel-Economische Zaken (FEZ), de directeur Open Overheid, alsmede de plaatsvervangend directeuren Communicatie (COM) en Ondersteuning Bestuur (DOB) van het ministerie hebben een vaste adviesfunctie in de Managementraad.
+- f. *managementraad:* de Managementraad bestaande uit de plaatsvervangend secretaris-generaal (PSG) en de plaatsvervangend directeuren-generaal (plv. DG’s). De hoofddirecteuren Personeel en Organisatie (HDPO), Bedrijfsvoering (HDBV) en Postennet (HDPN), de directeur Financieel-Economische Zaken (FEZ), de directeur Open Overheid, alsmede de plaatsvervangend directeuren Communicatie (COM) en Ondersteuning Bestuur (DOB) van het ministerie hebben een vaste adviesfunctie in de Managementraad.
 
 ##### Artikel 2. Hoofdstructuur
 
@@ -245,5 +217,3 @@ Dit besluit wordt aangehaald als: Organisatiebesluit Buitenlandse Zaken 2024.
 ##### Artikel 14
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,58 +1,30 @@
 ---
 title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 april 2024, nr IENW/BSK-2024/93989, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan ProRail B.V. voor de uitvoering van bevoegdheden op grond van de Spoorwegwet en de Omgevingswet (Besluit mandaat, volmacht en machtiging ProRail 2024)"
+citeertitel: "Besluit mandaat, volmacht en machtiging ProRail 2024"
 identifier: "BWBR0049649"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-05-03"
-last_updated: "2024-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049649"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17090853"
-version_id: "30078522"
-internal_id: "C43102711"
-label_id: "16999644"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049649/2024-05-03/0"
-intitule_bron: "Stcrt.2024-12577"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-04-24"
-intitule_published: "2024-05-02"
-intitule_in_force: "2024-05-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-12577"
-original_signed_date: "2024-04-24"
-original_published_date: "2024-05-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-12577"
-entry_into_force_date: "2024-05-03"
-jci_1_3: "jci1.3:c:BWBR0049649&z=2024-05-03&g=2024-05-03"
-jci_1_0: "1.0:c:BWBR0049649&g=2024-05-03"
-citeertitel_status: "officieel"
-short_title: "Besluit mandaat, volmacht en machtiging ProRail 2024"
-signed_date: "2024-04-24"
-entry_into_force: "2024-05-03"
+publicatiedatum: 2024-05-03
+laatste_update: 2024-05-03
+status: geldig
+toestand: 2024-05-03
+bron: "https://wetten.overheid.nl/BWBR0049649"
+opgehaald: 2026-09-06
 ---
+
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat van 24 april 2024, nr IENW/BSK-2024/93989, houdende regels inzake de verlening van mandaat, volmacht en machtiging aan ProRail B.V. voor de uitvoering van bevoegdheden op grond van de Spoorwegwet en de Omgevingswet (Besluit mandaat, volmacht en machtiging ProRail 2024)
-
-Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:5), [10:6 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6), en [10:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
-
-Gezien de instemming van de chief executive officer van ProRail B.V. d.d. 3 april 2024;
-
-BESLUIT:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **chief executive officer:** chief executive officer van ProRail;
+- *chief executive officer:* chief executive officer van ProRail;
 
-- **ProRail:** ProRail B.V., gevestigd te Utrecht;
+- *ProRail:* ProRail B.V., gevestigd te Utrecht;
 
-- **projectbesluit:** besluit tot aanleg of wijziging van een spoorweg als bedoeld in [artikel 5.46, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.46).
+- *projectbesluit:* besluit tot aanleg of wijziging van een spoorweg als bedoeld in [artikel 5.46, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.46).
 
 ##### Artikel 2
 
@@ -70,11 +42,11 @@ In dit besluit wordt verstaan onder:
 
 - b. de [Beleidsregel nadeelcompensatie verleggen kabels en leidingen vanwege rijkswaterstaatswerken, rijkswegen en hoofdspoorwegen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049123), voor zover de aanvragen tot schadevergoeding samenhangen met:
 
-- 1°. het nemen van besluiten als bedoeld in het eerste en tweede lid;
+   - 1°. het nemen van besluiten als bedoeld in het eerste en tweede lid;
 
-- 2°. een projectbesluit voor zover ProRail belast is met de werkzaamheden op grond van het desbetreffende projectbesluit;
+   - 2°. een projectbesluit voor zover ProRail belast is met de werkzaamheden op grond van het desbetreffende projectbesluit;
 
-- 3°. werkzaamheden die ProRail uitvoert die door het Rijk overeenkomstig [artikel 6 van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6) worden gefinancierd.
+   - 3°. werkzaamheden die ProRail uitvoert die door het Rijk overeenkomstig [artikel 6 van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6) worden gefinancierd.
 
 4. Aan de chief executive officer wordt mandaat verleend om besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig nemen van besluiten als bedoeld in [artikel 4:18 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:18), voor zover dit verband houdt met besluiten die op grond van dit besluit zijn genomen.
 
@@ -84,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Aan de chief executive officer wordt volmacht verleend om toepassing te geven aan de Overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied (Stcrt. 1999, nr. 97), voor zover de toepassing van deze overeenkomst samenhangt met:
+1. Aan de chief executive officer wordt volmacht verleend om toepassing te geven aan de Overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied (Stcrt. 1999, nr. 97), voor zover de toepassing van deze overeenkomst samenhangt met:
 
 - 1°. besluiten als bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=2&z=2024-05-03&g=2024-05-03);
 
@@ -124,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 7
 
-Bij de uitoefening van het mandaat, volmacht en machtiging worden de in de bijlage bij dit besluit opgenomen algemene instructie en door de minister per geval gegeven instructies in acht genomen.
+Bij de uitoefening van het mandaat, volmacht en machtiging worden de in de [bijlage](https://wetten.overheid.nl/BWBR0049649) bij dit besluit opgenomen algemene instructie en door de minister per geval gegeven instructies in acht genomen.
 
 ##### Artikel 8
 
@@ -141,29 +113,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging ProRail 2024.
-
-## Bijlage. Algemene instructie uitoefening mandaat, volmacht en machtiging ProRail inzake bevoegdheden
-
-- 1. In voorkomende gevallen informeert de chief executive officer de minister tijdig over het nemen van beslissingen van: Tevens stelt hij de minister in de gelegenheid hem aanwijzingen te geven. Zo nodig treedt de chief executive officer met de minister in overleg. De minister kan in deze gevallen de aanvraag zelf afhandelen of hierover instructies geven.
-
-- 1°. principieel juridische aard;
-
-- 2°. beleidsmatig principiële aard, of
-
-- 3°. politiek- of bestuurlijk-gevoelige aard.
-
-- 2. De chief executive officer beslist niet op bezwaar gericht tegen besluiten bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=2&z=2024-05-03&g=2024-05-03), van dit besluit dan nadat ter zake advies is uitgebracht door een commissie bestaande uit:
-
-- a. twee vertegenwoordigers van ProRail, waarvan één tevens handelend als voorzitter;
-
-- b. een vertegenwoordiger van het ministerie.
-
-- 3. Gemandateerden, gevolmachtigden en gemachtigden voeren bij de uitoefening van hun mandaat, volmacht en machtiging een ordentelijke en voor de minister transparante administratie. Het archief van ProRail bevat ten minste afschriften van ieder genomen besluit, van de verslagen van hoorzittingen van bezwaarcommissies en van de processtukken van beroepsprocedures.
-
-- 4. Gemandateerden, gevolmachtigden en gemachtigden verstrekken desgevraagd alle inlichtingen die betrekking hebben op de uitoefening van het bij dit besluit verleende mandaat, volmacht en machtiging.
-
-- 5. Het in een document vastleggen van een besluit of handeling, genomen respectievelijk verricht op grond van dit besluit geschiedt op briefpapier van ProRail.
-
-- 6. Een besluit als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=2&z=2024-05-03&g=2024-05-03) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049649&artikel=5&z=2024-05-03&g=2024-05-03) van dit besluit vermeldt aan het slot: ‘De Minister van Infrastructuur en Waterstaat, namens deze:’ gevolgd door de functieaanduiding, de handtekening en de naam.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

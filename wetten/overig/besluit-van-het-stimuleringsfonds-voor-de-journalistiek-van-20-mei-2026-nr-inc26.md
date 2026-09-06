@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0053068"
-opgehaald: 2026-09-05
+opgehaald: 2026-09-06
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 20 mei 2026, nr. INC2629, tot vaststelling van een subsidieregeling Incubator 2026–2029

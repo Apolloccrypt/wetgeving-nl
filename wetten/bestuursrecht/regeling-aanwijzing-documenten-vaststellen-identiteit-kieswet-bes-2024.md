@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 29 mei 2024, nr. 5458273, tot aanwijzing van aanvullende documenten waarmee ten behoeve van de uitoefening van het kiesrecht in Bonaire, Sint Eustatius en Saba de identiteit kan worden vastgesteld (Regeling aanwijzing documenten vaststellen identiteit Kieswet BES 2024)"
+citeertitel: "Regeling aanwijzing documenten vaststellen identiteit Kieswet BES 2024"
 identifier: "BWBR0049747"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-09-24"
-last_updated: "2025-09-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049747"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling-BES"
-stam_id: "17114713"
-version_id: "30121632"
-internal_id: "C43159991"
-label_id: "17023144"
-dtd_version: "2.0"
-original_entry_into_force: "2024-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049747/2025-09-24/0"
-intitule_bron: "Stcrt.2024-17941"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-05-29"
-intitule_published: "2024-05-31"
-intitule_in_force: "2024-05-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-17941"
-original_signed_date: "2024-05-29"
-original_published_date: "2024-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-17941"
-entry_into_force_date: "2024-06-01"
-jci_1_3: "jci1.3:c:BWBR0049747&z=2025-09-24&g=2025-09-24"
-jci_1_0: "1.0:c:BWBR0049747&g=2025-09-24"
-citeertitel_status: "officieel"
-short_title: "Regeling aanwijzing documenten vaststellen identiteit Kieswet BES 2024"
-signed_date: "2024-05-29"
-entry_into_force: "2024-06-01"
+publicatiedatum: 2024-06-01
+laatste_update: 2025-09-24
+status: geldig
+toestand: 2025-09-24
+bron: "https://wetten.overheid.nl/BWBR0049747"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 29 mei 2024, nr. 5458273, tot aanwijzing van aanvullende documenten waarmee ten behoeve van de uitoefening van het kiesrecht in Bonaire, Sint Eustatius en Saba de identiteit kan worden vastgesteld (Regeling aanwijzing documenten vaststellen identiteit Kieswet BES 2024)
-
-Gelet op [artikel 2, tweede lid, van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -60,6 +34,4 @@ Deze regeling wordt aangehaald als: Regeling aanwijzing documenten vaststellen i
 
 1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049747&artikel=1&z=2025-09-24&g=2025-09-24), van deze regeling vervalt met ingang van 1 januari 2028.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049747&artikel=1&z=2025-09-24&g=2025-09-24), van deze regeling vervalt met ingang van 1 januari 2028.

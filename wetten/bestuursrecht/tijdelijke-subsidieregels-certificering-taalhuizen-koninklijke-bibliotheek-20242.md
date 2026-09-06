@@ -1,57 +1,27 @@
 ---
 title: "Tijdelijke subsidieregels Certificering Taalhuizen Koninklijke Bibliotheek 2024–2027"
 identifier: "BWBR0049574"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-04-01"
-last_updated: "2024-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049574"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17074353"
-version_id: "30047172"
-internal_id: "C43064561"
-label_id: "16983184"
-dtd_version: "2.0"
-original_entry_into_force: "2024-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049574/2024-04-01/0"
-intitule_bron: "Stcrt.2024-12662"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-03-31"
-intitule_published: "2024-04-18"
-intitule_in_force: "2024-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-12662"
-original_signed_date: "2024-03-31"
-original_published_date: "2024-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-12662"
-entry_into_force_date: "2024-04-01"
-jci_1_3: "jci1.3:c:BWBR0049574&z=2024-04-01&g=2024-04-01"
-jci_1_0: "1.0:c:BWBR0049574&g=2024-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2024-03-31"
-entry_into_force: "2024-04-01"
+publicatiedatum: 2024-04-01
+laatste_update: 2024-04-01
+status: geldig
+toestand: 2024-04-01
+bron: "https://wetten.overheid.nl/BWBR0049574"
+opgehaald: 2026-09-06
 ---
+
 # Tijdelijke subsidieregels Certificering Taalhuizen Koninklijke Bibliotheek 2024–2027
-
-gelet op[artikel 1.2, tweede lid onder a, sub i](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.2) en [artikel 1.4 van het Subsidiereglement Koninklijke Bibliotheek 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048999&artikel=1.4);
-
-besluit:
-
-vast te stellen de navolgende Tijdelijke subsidieregels Certificering Taalhuizen Koninklijke Bibliotheek 2024–2027.
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begripsbepalingen
 
-- –. **CBCT:** Certificeringsorganisatie Bibliotheekwerk, Cultuur & Taal;
+- – *CBCT:* Certificeringsorganisatie Bibliotheekwerk, Cultuur & Taal;
 
-- –. **KB:** Koninklijke Bibliotheek als bedoeld in [artikel 1.5, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) en [20 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20);
+- – *KB:* Koninklijke Bibliotheek als bedoeld in [artikel 1.5, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.5) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) en [20 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20);
 
-- –. **Penvoerder:** Rechtspersoon die deel uitmaakt van het Taalhuis en die in deze regeling namens het Taalhuis als administratief contactpersoon optreedt;
+- – *Penvoerder:* Rechtspersoon die deel uitmaakt van het Taalhuis en die in deze regeling namens het Taalhuis als administratief contactpersoon optreedt;
 
-- –. **Taalhuis:** onderdeel van een samenwerkingsverband dat een ontmoetingsplek behelst waar laaggeletterden worden doorgeleid naar passend lokaal basisvaardigheden-aanbod of waar een non-formeel lesaanbod wordt geboden.
+- – *Taalhuis:* onderdeel van een samenwerkingsverband dat een ontmoetingsplek behelst waar laaggeletterden worden doorgeleid naar passend lokaal basisvaardigheden-aanbod of waar een non-formeel lesaanbod wordt geboden.
 
 ##### Artikel 2. Subsidiabele activiteiten
 
@@ -59,13 +29,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 2. Het certificeringstraject moet worden uitgevoerd tot en met de eerste audit en wordt afgerond met het besluit tot onvoorwaardelijke of voorwaardelijke certificering.
 
-3. Een Taalhuis mag in de in de periode **Zicht op Ontwikkeling II** 2024–2027 éénmaal subsidie aanvragen. Dit geldt ook voor Taalhuizen die in de periode 2020–2023 al subsidie hebben aangevraagd.
+3. Een Taalhuis mag in de in de periode *Zicht op Ontwikkeling II* 2024–2027 éénmaal subsidie aanvragen. Dit geldt ook voor Taalhuizen die in de periode 2020–2023 al subsidie hebben aangevraagd.
 
 4. Subsidie wordt niet verleend voor een heraudit, door CBCT in rekening gebrachte uitstelkosten of een volgend certificeringstraject.
 
 ##### Artikel 3. Subsidieplafond
 
-Het subsidieplafond voor het tijdvak vanaf 01 april 2024 tot en met 31 december 2027 is vastgesteld op € 320.000,–.
+Het subsidieplafond voor het tijdvak vanaf 01 april 2024 tot en met 31 december 2027 is vastgesteld op € 320.000,–.
 
 ##### Artikel 4. Subsidieontvanger penvoerder
 
@@ -95,4 +65,4 @@ De subsidie bedraagt de kosten van het certificeringstraject exclusief btw, zoal
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze tijdelijke regels treden in werking op 1 april 2024 en vervallen per 1 januari 2028.
+Deze tijdelijke regels treden in werking op 1 april 2024 en vervallen per 1 januari 2028.

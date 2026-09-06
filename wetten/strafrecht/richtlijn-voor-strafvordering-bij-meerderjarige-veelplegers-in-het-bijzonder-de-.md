@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering bij meerderjarige veelplegers (in het bijzonder de vordering van de ISD-maatregel bij stelselmatige daders)"
 identifier: "BWBR0049594"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2024-05-01"
-last_updated: "2024-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049594"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "17078993"
-version_id: "30057392"
-internal_id: "C43122061"
-label_id: "16987884"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049594/2024-05-01/0"
-intitule_bron: "Stcrt.2024-12573"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-04-18"
-intitule_in_force: "2024-04-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-12573"
-original_published_date: "2024-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-12573"
-entry_into_force_date: "2024-05-01"
-jci_1_3: "jci1.3:c:BWBR0049594&z=2024-05-01&g=2024-05-01"
-jci_1_0: "1.0:c:BWBR0049594&g=2024-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-05-01"
+publicatiedatum: 2024-05-01
+laatste_update: 2024-05-01
+status: geldig
+toestand: 2024-05-01
+bron: "https://wetten.overheid.nl/BWBR0049594"
+opgehaald: 2026-09-06
 ---
+
 # Richtlijn voor strafvordering bij meerderjarige veelplegers (in het bijzonder de vordering van de ISD-maatregel bij stelselmatige daders)
 
 ### Samenvatting
@@ -46,7 +27,7 @@ Het beeld van de ISD-maatregel als ultimum remedium wordt in de uitvoeringsprakt
 
 ### 1.2. Wijzigingen
 
-De richtlijn is aangepast naar aanleiding van de inwerkingtreding van de [Wet herziening tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039301) (Wet USB) en de wijziging van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) (Sv) naar aanleiding daarvan. Het betreft met name een wijziging van forum bij een vordering tot tenuitvoerlegging van een ISD-maatregel die voorwaardelijk niet wordt tenuitvoergelegd (hierna ook: voorwaardelijke ISD-maatregel). De passages over samenloop met eerder opgelegde straffen en maatregelen zijn geschrapt, nu de Minister voor Rechtsbescherming verantwoordelijk is voor de tenuitvoerlegging van straffen en maatregelen. Verder zijn enkele verduidelijkingen toegevoegd en is de terminologie in lijn gebracht met het huidige wettelijk kader. In § 3.4. is verduidelijkt in welke gevallen hoger beroep mogelijk is bij een vordering tot gehele of gedeeltelijke tenuitvoerlegging van een van een eerder opgelegde voorwaardelijke ISD-maatregel.
+De richtlijn is aangepast naar aanleiding van de inwerkingtreding van de [Wet herziening tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039301) (Wet USB) en de wijziging van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) (Sv) naar aanleiding daarvan. Het betreft met name een wijziging van forum bij een vordering tot tenuitvoerlegging van een ISD-maatregel die voorwaardelijk niet wordt tenuitvoergelegd (hierna ook: voorwaardelijke ISD-maatregel). De passages over samenloop met eerder opgelegde straffen en maatregelen zijn geschrapt, nu de Minister voor Rechtsbescherming verantwoordelijk is voor de tenuitvoerlegging van straffen en maatregelen. Verder zijn enkele verduidelijkingen toegevoegd en is de terminologie in lijn gebracht met het huidige wettelijk kader. In [§ 3.4.](https://wetten.overheid.nl/BWBR0049594) is verduidelijkt in welke gevallen hoger beroep mogelijk is bij een vordering tot gehele of gedeeltelijke tenuitvoerlegging van een van een eerder opgelegde voorwaardelijke ISD-maatregel.
 
 ### 2. Definities
 
@@ -54,7 +35,7 @@ In deze richtlijn worden de volgende definities gehanteerd:
 
 Een veelpleger is een persoon van 18 jaar of ouder die in zijn gehele criminele verleden processen-verbaal tegen zich opgemaakt zag worden voor in totaal meer dan tien misdrijffeiten, waarvan ten minste één misdrijf in de laatste twaalf maanden, terug te rekenen vanaf de pleegdatum van het laatst gepleegde misdrijffeit.
 
-Een zeer actieve veelpleger is een persoon van 18 jaar of ouder die over een periode van vijf jaren processen-verbaal tegen zich opgemaakt zag worden voor meer dan tien misdrijffeiten, waarvan ten minste één misdrijf in de laatste twaalf maanden, terug te rekenen vanaf de pleegdatum van het laatst gepleegde misdrijffeit.
+Een zeer actieve veelpleger is een persoon van 18 jaar of ouder die over een periode van vijf jaren processen-verbaal tegen zich opgemaakt zag worden voor meer dan tien misdrijffeiten, waarvan ten minste één misdrijf in de laatste twaalf maanden, terug te rekenen vanaf de pleegdatum van het laatst gepleegde misdrijffeit.
 
 Een stelselmatige dader is een zeer actieve veelpleger die op grond van [art. 38m Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) in aanmerking komt voor een maatregel tot plaatsing in een inrichting voor stelselmatige daders. Dit brengt met zich dat een ISD-maatregel pas kan worden gevorderd als de verdachte kan worden aangemerkt als een zeer actieve veelpleger en tevens is voldaan aan de voorwaarden van art. 38m Sr.
 
@@ -74,7 +55,7 @@ Indien de veroordeelde na de tenuitvoerlegging van de ISD-maatregel nogmaals een
 
 ### 3.1. Uitgangspunten
 
-De ISD-maatregel is blijkens de parlementaire geschiedenis in het leven geroepen als alternatief voor een gevangenisstraf2Zie **Kamerstukken II**, 2003–2004, 28 980, nr. 7 en ook Hoge Raad van 21 maart 2006, LJN AV1161.. De ISD-maatregel kan daarom niet samen met een gevangenisstraf worden opgelegd. Dit brengt mee dat ook een voorwaardelijke ISD-maatregel niet kan worden gecombineerd met een gevangenisstraf. Evenmin is een combinatie van een voorwaardelijke gevangenisstraf en een (onvoorwaardelijke) ISD-maatregel mogelijk3[ECLI:NL:HR:2006:AV1161](https://uitspraken.rechtspraak.nl/#%21%2Fdetails%3Fid%3DECLI%3ANL%3AHR%3A2006%3AAV1161)..
+De ISD-maatregel is blijkens de parlementaire geschiedenis in het leven geroepen als alternatief voor een gevangenisstraf2Zie *Kamerstukken II*, 2003–2004, 28 980, nr. 7 en ook Hoge Raad van 21 maart 2006, LJN AV1161.. De ISD-maatregel kan daarom niet samen met een gevangenisstraf worden opgelegd. Dit brengt mee dat ook een voorwaardelijke ISD-maatregel niet kan worden gecombineerd met een gevangenisstraf. Evenmin is een combinatie van een voorwaardelijke gevangenisstraf en een (onvoorwaardelijke) ISD-maatregel mogelijk3[ECLI:NL:HR:2006:AV1161](https://uitspraken.rechtspraak.nl/#%21%2Fdetails%3Fid%3DECLI%3ANL%3AHR%3A2006%3AAV1161)..
 
 Aangezien de ISD-maatregel een alternatief is voor de gevangenisstraf, wordt de maatregel niet gevorderd bij ontoerekeningsvatbaarheid in de zin van [art. 39 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=39).
 
@@ -100,11 +81,11 @@ De maatregel kan ten hoogste twee jaar duren. In beginsel vordert het OM de maat
 
 ### 3.3. Vreemdelingen
 
-Op EU-onderdanen is de algemene hoofdregel van toepassing (zie § 3.1).
+Op EU-onderdanen is de algemene hoofdregel van toepassing (zie [§ 3.1](https://wetten.overheid.nl/BWBR0049594)).
 
 Indien een vreemdeling, die geen rechtmatig verblijf in Nederland heeft in de zin van [art. 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) (verder te noemen: vreemdeling), feitelijk niet uitzetbaar of moeilijk uitzetbaar is, kan de vreemdeling in aanmerking komen voor de ISD-maatregel. Doel van de ISD-maatregel is daarbij de beveiliging van de maatschappij. In de praktijk zal dit betekenen dat alleen intramurale voorzieningen kunnen worden aangeboden. Op gedragsverandering gerichte programma’s zijn echter wel mogelijk. Ook aan vreemdelingen bij wie daar aanknopingspunten voor zijn op basis van de RISc, kunnen in beginsel erkende gedragsinterventies en vaardigheidstrainingen worden geboden).4Bij deze vreemdelingen is de ISD-maatregel niet gericht op re-integratie in de Nederlandse samenleving, maar dient de ISD-maatregel ertoe de vreemdeling voor te bereiden op terugkeer en waar mogelijk ook vaardigheden aan te leren om zich in het land van herkomst beter staande te houden (zie Stcrt. 2011, 6418). Ook kan een gedragsdeskundige gedurende de tenuitvoerlegging op grond van een indicatiestelling overplaatsing adviseren naar een bijzondere zorgvoorziening binnen het gevangeniswezen of (tijdelijke) overplaatsing naar een accommodatie ex [art. 15, vierde lid, Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15) (Pbw). Extramurale tenuitvoerlegging is echter niet mogelijk, aangezien de vreemdeling geen beroep kan doen op reguliere voorzieningen in de Nederlandse samenleving.
 
-Wordt tijdens de tenuitvoerlegging van de ISD-maatregel alsnog uitzetting mogelijk van een vreemdeling die tot dan toe **feitelijk** niet uitzetbaar was (bijvoorbeeld omdat de identiteit van betrokkene komt vast te staan of wordt bevestigd en het land van herkomst een laissez-passer afgeeft), dan volgt in beginsel uitzetting voordat de maatregel geheel ten uitvoer is gelegd. De Minister van Justitie en Veiligheid kan de maatregel daartoe ambtshalve beëindigen ([art. 6:2:20 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:20)).
+Wordt tijdens de tenuitvoerlegging van de ISD-maatregel alsnog uitzetting mogelijk van een vreemdeling die tot dan toe *feitelijk* niet uitzetbaar was (bijvoorbeeld omdat de identiteit van betrokkene komt vast te staan of wordt bevestigd en het land van herkomst een laissez-passer afgeeft), dan volgt in beginsel uitzetting voordat de maatregel geheel ten uitvoer is gelegd. De Minister van Justitie en Veiligheid kan de maatregel daartoe ambtshalve beëindigen ([art. 6:2:20 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:2:20)).
 
 ### 3.4. De voorwaardelijke ISD-maatregel
 
@@ -112,23 +93,23 @@ In specifieke omstandigheden kan een voorwaardelijke ISD-maatregel ([art. 38p Sr
 
 Er is geen wettelijke grondslag voor het vorderen van dadelijke uitvoerbaarheid. De in [art. 14e Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=14e) neergelegde dadelijke uitvoerbaarheid van voorwaarden geldt voor hoofdstraffen en derhalve niet voor de ISD-maatregel.
 
-Indien het vorderen van een voorwaardelijke ISD-maatregel wordt overwogen is het volgende van belang.In het geval betrokkene een nieuw strafbaar feit pleegt en daarmee de **algemene voorwaarde** niet naleeft, kan een vordering tot tenuitvoerlegging ex [art. 6:6:21 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) aan de orde zijn. Het verdient echter de voorkeur om in het geval van niet naleving van de algemene voorwaarde in de nieuwe strafzaak een onvoorwaardelijke ISD-maatregel te vorderen, mits aan de daarvoor geldende criteria is voldaan. In dat geval wordt dus niet gekozen voor het vorderen van de tenuitvoerlegging van de ISD-maatregel.
+Indien het vorderen van een voorwaardelijke ISD-maatregel wordt overwogen is het volgende van belang.In het geval betrokkene een nieuw strafbaar feit pleegt en daarmee de *algemene voorwaarde* niet naleeft, kan een vordering tot tenuitvoerlegging ex [art. 6:6:21 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) aan de orde zijn. Het verdient echter de voorkeur om in het geval van niet naleving van de algemene voorwaarde in de nieuwe strafzaak een onvoorwaardelijke ISD-maatregel te vorderen, mits aan de daarvoor geldende criteria is voldaan. In dat geval wordt dus niet gekozen voor het vorderen van de tenuitvoerlegging van de ISD-maatregel.
 
 Indien de tenuitvoerlegging van de ISD-maatregel wél wordt gevorderd dient het volgende in ogenschouw te worden genomen. Als er sprake is van een vordering tenuitvoerlegging wegens een nieuw strafbaar feit en de vordering wordt gelijktijdig met dat nieuwe feit behandeld, dan is het gerecht (meervoudige kamer) bevoegd dat van het nieuwe feit kennis neemt ([art. 6:6:1, tweede lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:1).).
 
 Hoger beroep tegen het bevel tot tenuitvoerlegging vanwege de niet naleving van de algemene voorwaarde is mogelijk, mits en voor zover die beslissing deel uitmaakt van een uitspraak ter zake van een ander strafbaar feit ([art. 6:6:22 lid 1 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:22) jo [art. 6:6:21 lid 1 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21).). Dit hoger beroep wordt samen met de hoofdzaak behandeld door het 'eigen hof' en niet meer door de Penitentiaire Kamer van het gerechtshof te Arnhem-Leeuwarden.
 
-Ook bij niet naleving van een **bijzondere voorwaarde** kan het OM de gehele of gedeeltelijke tenuitvoerlegging van de ISD-maatregel vorderen. Deze vordering moet in redelijke verhouding staan tot de aard van het niet naleven van de voorwaarden. De rechtbank die in eerste aanleg heeft kennisgenomen van het misdrijf ter zake waarvan de maatregel is opgelegd beslist op een openbare zitting over deze vordering ([art. 6:6:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:4)). Hoger beroep tegen het bevel tot tenuitvoerlegging wegens schending van bijzondere voorwaarden is niet mogelijk ([art. 6:6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:7) jo. [artt. 6:6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) en [6:6:22 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:22)).
+Ook bij niet naleving van een *bijzondere voorwaarde* kan het OM de gehele of gedeeltelijke tenuitvoerlegging van de ISD-maatregel vorderen. Deze vordering moet in redelijke verhouding staan tot de aard van het niet naleven van de voorwaarden. De rechtbank die in eerste aanleg heeft kennisgenomen van het misdrijf ter zake waarvan de maatregel is opgelegd beslist op een openbare zitting over deze vordering ([art. 6:6:4 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:4)). Hoger beroep tegen het bevel tot tenuitvoerlegging wegens schending van bijzondere voorwaarden is niet mogelijk ([art. 6:6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:7) jo. [artt. 6:6:21](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:21) en [6:6:22 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:22)).
 
 ### 3.5. Tussentijdse toetsing van de maatregel
 
-Ingevolge het bepaalde in [art. 38n Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38n) en art. [6:6:14 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:14) kan de rechter de maatregel tussentijds toetsen op vordering van het OM, op verzoek van de verdachte of diens raadsman dan wel ambtshalve. Tussentijdse toetsingen worden in alle gevallen aangebracht bij de rechtbank die in eerste aanleg bevoegd was, ook wanneer het hof de maatregel heeft opgelegd5Hoge Raad 18 november 2008, ECLI: HR:2008:BG1596.. Het OM en de veroordeelde kunnen beroep instellen bij de Penitentiaire Kamer van het gerechtshof Arnhem-Leeuwarden tegen de beslissing ter zake van voortzetting of beëindiging van de maatregel ([art. 6:6:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15)).
+Ingevolge het bepaalde in [art. 38n Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38n) en art. [6:6:14 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:14) kan de rechter de maatregel tussentijds toetsen op vordering van het OM, op verzoek van de verdachte of diens raadsman dan wel ambtshalve. Tussentijdse toetsingen worden in alle gevallen aangebracht bij de rechtbank die in eerste aanleg bevoegd was, ook wanneer het hof de maatregel heeft opgelegd5Hoge Raad 18 november 2008, ECLI: HR:2008:BG1596.. Het OM en de veroordeelde kunnen beroep instellen bij de Penitentiaire Kamer van het gerechtshof Arnhem-Leeuwarden tegen de beslissing ter zake van voortzetting of beëindiging van de maatregel ([art. 6:6:15 Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:6:15)).
 
 ### 4. Strafvordering wanneer de ISD-maatregel niet wordt gevorderd
 
 Voor veelplegers, zeer actieve veelplegers en stelselmatige daders kan worden afgeweken van de in de algemene richtlijnen voor strafvordering opgenomen recidivebepalingen.
 
-Bij zaken van deze categorieën veelplegers en in zaken van stelselmatige daders waarin de ISD-maatregel niet wordt gevorderd, geldt als uitgangspunt dat een onvoorwaardelijke gevangenisstraf wordt gevorderd die minimaal 100% hoger is dan de sanctie die de toepasselijke richtlijn aangeeft voor een first offender. Hierbij geldt als ondergrens 1 maand gevangenisstraf.
+Bij zaken van deze categorieën veelplegers en in zaken van stelselmatige daders waarin de ISD-maatregel niet wordt gevorderd, geldt als uitgangspunt dat een onvoorwaardelijke gevangenisstraf wordt gevorderd die minimaal 100% hoger is dan de sanctie die de toepasselijke richtlijn aangeeft voor een first offender. Hierbij geldt als ondergrens 1 maand gevangenisstraf.
 
 ### Overgangsrecht
 

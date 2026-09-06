@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2024, kenmerk 3847849-1067214-PZO, houdende nadere regels ter uitvoering van de Wet bevorderen samenwerking en rechtmatige zorg en het Besluit bevorderen samenwerking en rechtmatige zorg in verband met het Informatieknooppunt zorgfraude (Uitvoeringsregeling Informatieknooppunt zorgfraude)"
+citeertitel: "Uitvoeringsregeling Informatieknooppunt zorgfraude"
 identifier: "BWBR0049849"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049849"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "17140473"
-version_id: "30166422"
-internal_id: "C43517211"
-label_id: "17048944"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049849/2025-01-01/0"
-intitule_bron: "Stcrt.2024-19923"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-06-13"
-intitule_published: "2024-06-21"
-intitule_in_force: "2024-09-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-19923"
-original_signed_date: "2024-06-13"
-original_published_date: "2024-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-19923"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0049849&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0049849&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsregeling Informatieknooppunt zorgfraude"
-signed_date: "2024-06-13"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0049849"
+opgehaald: 2026-09-06
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 juni 2024, kenmerk 3847849-1067214-PZO, houdende nadere regels ter uitvoering van de Wet bevorderen samenwerking en rechtmatige zorg en het Besluit bevorderen samenwerking en rechtmatige zorg in verband met het Informatieknooppunt zorgfraude (Uitvoeringsregeling Informatieknooppunt zorgfraude)
-
-Gelet op [artikel 2.5, tweede lid, van de Wet bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.5), en de [artikelen 3.19, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.19), [3,20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.20), [3.25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.25), en [3.26 van het Besluit bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.26);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit bevorderen samenwerking en rechtmatige zorg in werking treedt.
 
 ### Hoofdstuk 1. Begripsbepaling en algemene bepalingen
 
@@ -48,27 +20,28 @@ Treedt in werking op het tijdstip waarop het Besluit bevorderen samenwerking en 
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049565);
+- *besluit:*
+ [Besluit bevorderen samenwerking en rechtmatige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049565);
 
-- **De minister:** de Minister van Volksgezondheid, Welzijn en Sport;
+- *De minister:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- **ICT-leverancier:** private partij, waarmee het Informatieknooppunt zorgfraude een overeenkomst heeft gesloten met als strekking dat ten aanzien van signalen, verrijkte signalen, analyse en onderzoek, een of meerdere applicaties of diensten voor de informatievoorziening worden geleverd of dat het beheer en het onderhoud daarvan, of voor een onderdeel daarvan door die partij, al dan niet samen met andere partijen, wordt uitgevoerd;
+- *ICT-leverancier:* private partij, waarmee het Informatieknooppunt zorgfraude een overeenkomst heeft gesloten met als strekking dat ten aanzien van signalen, verrijkte signalen, analyse en onderzoek, een of meerdere applicaties of diensten voor de informatievoorziening worden geleverd of dat het beheer en het onderhoud daarvan, of voor een onderdeel daarvan door die partij, al dan niet samen met andere partijen, wordt uitgevoerd;
 
-- **Gebruikersportaal:** beveiligde verbinding waarmee het Informatieknooppunt zorgfraude informatie uitwisselt met een instantie;
+- *Gebruikersportaal:* beveiligde verbinding waarmee het Informatieknooppunt zorgfraude informatie uitwisselt met een instantie;
 
-- **Signaal:** de gegevens, bedoeld in de [artikelen 3.1 tot en met 3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.1) die de instantie op grond van [artikel 3.14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.14) verstrekt aan het Informatieknooppunt zorgfraude;
+- *Signaal:* de gegevens, bedoeld in de [artikelen 3.1 tot en met 3.9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.1) die de instantie op grond van [artikel 3.14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.14) verstrekt aan het Informatieknooppunt zorgfraude;
 
-- **Verrijkt signaal:** de gegevens, bedoeld in [artikel 2.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), die het Informatieknooppunt zorgfraude verstrekt aan een instantie.
+- *Verrijkt signaal:* de gegevens, bedoeld in [artikel 2.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), die het Informatieknooppunt zorgfraude verstrekt aan een instantie.
 
 ### Hoofdstuk 2. Gegevensuitwisseling
 
 ##### Artikel 2.1
 
-De Stichting Informatieknooppunt zorgfraude wordt aangewezen als Informatieknooppunt zorgfraude als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=1.1).
+De Stichting Informatieknooppunt zorgfraude wordt aangewezen als Informatieknooppunt zorgfraude als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=1.1).
 
 ##### Artikel 2.2
 
-1. Een instantie verstrekt signalen of de op grond van [artikel 2.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) door het Informatieknooppunt opgevraagde gegevens aan het Informatieknooppunt zorgfraude, door gebruik te maken van het gebruikersportaal of via een koppelvlak.
+1. Een instantie verstrekt signalen of de op grond van [artikel 2.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) door het Informatieknooppunt opgevraagde gegevens aan het Informatieknooppunt zorgfraude, door gebruik te maken van het gebruikersportaal of via een koppelvlak.
 
 2. Een instantie krijgt toegang tot het gebruikersportaal via EHerkenning.
 
@@ -76,11 +49,11 @@ De Stichting Informatieknooppunt zorgfraude wordt aangewezen als Informatieknoop
 
 ##### Artikel 2.3
 
-Het Informatieknooppunt zorgfraude draagt er zorg voor dat de elektronische voorzieningen ten behoeve van de gegevensuitwisseling, bedoeld in de [artikelen 2.4, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) interoperabel zijn met de systemen van de instanties.
+Het Informatieknooppunt zorgfraude draagt er zorg voor dat de elektronische voorzieningen ten behoeve van de gegevensuitwisseling, bedoeld in de [artikelen 2.4, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) interoperabel zijn met de systemen van de instanties.
 
 ##### Artikel 2.4
 
-1. Het Informatieknooppunt zorgfraude deelt informatie over signalen, over verrijkte signalen, een verzoek om informatie als bedoeld in [artikel 2.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) of een reactie op dat verzoek, alleen via het gebruikersportaal of via een koppelvlak.
+1. Het Informatieknooppunt zorgfraude deelt informatie over signalen, over verrijkte signalen, een verzoek om informatie als bedoeld in [artikel 2.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) of een reactie op dat verzoek, alleen via het gebruikersportaal of via een koppelvlak.
 
 2. Een notificatie ten aanzien van een procedure kan via een elektronisch bericht worden verzonden.
 
@@ -106,7 +79,7 @@ Het Informatieknooppunt zorgfraude publiceert de belangrijkste elementen van de 
 
 ##### Artikel 2.8
 
-Het Informatieknooppunt zorgfraude verstrekt jaarlijks voor 1 juli aan de minister een signalering van trends en ontwikkelingen, ontwikkelde beleidsinformatie en statistische informatie met betrekking tot fraude in de zorg.
+Het Informatieknooppunt zorgfraude verstrekt jaarlijks voor 1 juli aan de minister een signalering van trends en ontwikkelingen, ontwikkelde beleidsinformatie en statistische informatie met betrekking tot fraude in de zorg.
 
 ### Hoofdstuk 3. Informatieknooppunt zorgfraude
 
@@ -120,7 +93,7 @@ Het Informatieknooppunt zorgfraude verstrekt jaarlijks voor 1 juli aan de minist
 
 ##### Artikel 3.2
 
-Het Informatieknooppunt zorgfraude heeft geen andere inkomsten dan de financiering, bedoeld in [artikel 3:20, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.20).
+Het Informatieknooppunt zorgfraude heeft geen andere inkomsten dan de financiering, bedoeld in [artikel 3:20, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&artikel=3.20).
 
 ##### Artikel 3.3
 
@@ -142,15 +115,15 @@ Het bestuur en de minister overleggen periodiek over het functioneren van het In
 
 3. De vastgestelde stukken worden onverwijld aan de minister gezonden.
 
-4. De controle van de jaarrekening geschiedt door een registeraccountant of een accountant administratieconsulent in de zin van [artikel 2:393 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+4. De controle van de jaarrekening geschiedt door een registeraccountant of een accountant administratieconsulent in de zin van [artikel 2:393 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
 ##### Artikel 4.1
 
-1. De verplichting tot overlegging van een jaarplan aan de minister vier maanden voorafgaand aan het komend boekjaar als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049849&hoofdstuk=3&artikel=3.4&z=2025-01-01&g=2025-01-01), is niet van toepassing voor het jaar van inwerkingtreding van deze regeling.
+1. De verplichting tot overlegging van een jaarplan aan de minister vier maanden voorafgaand aan het komend boekjaar als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049849&hoofdstuk=3&artikel=3.4&z=2025-01-01&g=2025-01-01), is niet van toepassing voor het jaar van inwerkingtreding van deze regeling.
 
-2. In het jaar na inwerkingtreding van deze regeling kan worden afgeweken van de termijnen genoemd in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049849&hoofdstuk=3&artikel=3.5&z=2025-01-01&g=2025-01-01).
+2. In het jaar na inwerkingtreding van deze regeling kan worden afgeweken van de termijnen genoemd in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049849&hoofdstuk=3&artikel=3.5&z=2025-01-01&g=2025-01-01).
 
 ##### Artikel 4.2
 
@@ -159,5 +132,3 @@ Deze regeling treedt in werking op het tijdstip waarop het [besluit](https://wet
 ##### Artikel 4.3
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Informatieknooppunt zorgfraude.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

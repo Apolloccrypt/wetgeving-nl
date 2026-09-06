@@ -1,43 +1,17 @@
 ---
 title: "Regeling volmacht personele aangelegenheden CBR 2024"
 identifier: "BWBR0049656"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-05-04"
-last_updated: "2024-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0049656"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17092143"
-version_id: "30081442"
-internal_id: "C43105641"
-label_id: "17001004"
-dtd_version: "2.0"
-original_entry_into_force: "2024-05-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0049656/2024-05-04/0"
-intitule_bron: "Stcrt.2024-13689"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-02-06"
-intitule_published: "2024-05-03"
-intitule_in_force: "2024-05-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-13689"
-original_signed_date: "2024-02-06"
-original_published_date: "2024-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-13689"
-entry_into_force_date: "2024-05-04"
-jci_1_3: "jci1.3:c:BWBR0049656&z=2024-05-04&g=2024-05-04"
-jci_1_0: "1.0:c:BWBR0049656&g=2024-05-04"
-citeertitel_status: "officieel"
-signed_date: "2024-02-06"
-entry_into_force: "2024-05-04"
+publicatiedatum: 2024-05-04
+laatste_update: 2024-05-04
+status: geldig
+toestand: 2024-05-04
+bron: "https://wetten.overheid.nl/BWBR0049656"
+opgehaald: 2026-09-06
 ---
+
 # Regeling volmacht personele aangelegenheden CBR 2024
-
-Gelet op [boek 7, titel 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), [artikelen 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), en [2, lid 1, sub h van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2), de lopende collectieve arbeidsovereenkomst van het CBR,
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -45,45 +19,45 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **het CBR:** de publiekrechtelijke rechtspersoon het Centraal Bureau Rijvaardigheidsbewijzen;
+- a. *het CBR:* de publiekrechtelijke rechtspersoon het Centraal Bureau Rijvaardigheidsbewijzen;
 
-- b. **directie:** de directie van het CBR;
+- b. *directie:* de directie van het CBR;
 
-- c. **directielid:** de algemeen directeur of de directeur bedrijfsvoering van het CBR;
+- c. *directielid:* de algemeen directeur of de directeur bedrijfsvoering van het CBR;
 
-- d. **portefeuille:** het laatstelijk door de directie vastgestelde portefeuille met daarin de verdeling van de organisatie tussen directieleden;
+- d. *portefeuille:* het laatstelijk door de directie vastgestelde portefeuille met daarin de verdeling van de organisatie tussen directieleden;
 
-- e. **divisie:** de divisies Rijvaardigheid, Rijgeschiktheid, Theorie, CCV en Klantenservice;
+- e. *divisie:* de divisies Rijvaardigheid, Rijgeschiktheid, Theorie, CCV en Klantenservice;
 
-- f. **stafafdeling:** de afdelingen Communicatie, Human Resources (HR), Interne Auditdienst (IAD), Finance en control (F&C), Inkoop en Facilitaire zaken (IFZ), ICT en Bestuur, Beleid en Juridische Zaken (BBJZ);
+- f. *stafafdeling:* de afdelingen Communicatie, Human Resources (HR), Interne Auditdienst (IAD), Finance en control (F&C), Inkoop en Facilitaire zaken (IFZ), ICT en Bestuur, Beleid en Juridische Zaken (BBJZ);
 
-- g. **divisiemanager:** de functionaris die is belast met de leiding van een divisie;
+- g. *divisiemanager:* de functionaris die is belast met de leiding van een divisie;
 
-- h. **manager stafafdeling:** de functionaris die is belast met de leiding van een stafafdeling;
+- h. *manager stafafdeling:* de functionaris die is belast met de leiding van een stafafdeling;
 
-- i. **manager JZ:** de functionaris die is belast met de leiding van het organisatieonderdeel Juridische Zaken binnen de stafafdeling BBJZ;
+- i. *manager JZ:* de functionaris die is belast met de leiding van het organisatieonderdeel Juridische Zaken binnen de stafafdeling BBJZ;
 
-- j. **manager HR:** de functionaris die is belast met de leiding van de stafafdeling HR;
+- j. *manager HR:* de functionaris die is belast met de leiding van de stafafdeling HR;
 
-- k. **direct leidinggevende:** de eerste functionaris die volgens het vastgestelde functieprofiel leiding geeft aan een medewerker die aan deze leidinggevende ondergeschikt is;
+- k. *direct leidinggevende:* de eerste functionaris die volgens het vastgestelde functieprofiel leiding geeft aan een medewerker die aan deze leidinggevende ondergeschikt is;
 
-- l. **medewerker:** de persoon die bij het CBR werkzaam is op basis van een arbeidsovereenkomst dan wel een overeenkomst in opdracht zoals uitzend-, detacherings- of stageovereenkomst;
+- l. *medewerker:* de persoon die bij het CBR werkzaam is op basis van een arbeidsovereenkomst dan wel een overeenkomst in opdracht zoals uitzend-, detacherings- of stageovereenkomst;
 
-- m. **medewerker HR-services:** de medewerker werkzaam voor de stafafdeling HR belast met het afhandeling van bepaalde verzoeken;
+- m. *medewerker HR-services:* de medewerker werkzaam voor de stafafdeling HR belast met het afhandeling van bepaalde verzoeken;
 
-- n. **volmacht:** volmacht als bedoeld in [artikel 3:60, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) om namens het CBR rechtshandelingen te verrichten;
+- n. *volmacht:* volmacht als bedoeld in [artikel 3:60, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60) om namens het CBR rechtshandelingen te verrichten;
 
-- o. **volmachtverlener:** degene die volmacht verleent;
+- o. *volmachtverlener:* degene die volmacht verleent;
 
-- p. **gevolmachtigde:** degene aan wie volmacht is verleend;
+- p. *gevolmachtigde:* degene aan wie volmacht is verleend;
 
-- q. **ondervolmacht:** de volmacht die een gevolmachtigde aan een ondergeschikte verleent;
+- q. *ondervolmacht:* de volmacht die een gevolmachtigde aan een ondergeschikte verleent;
 
-- r. **CAO CBR:** de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam bij het CBR;
+- r. *CAO CBR:* de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren werkzaam bij het CBR;
 
-- s. **Sociaal Plan:** het laatstelijk vastgestelde sociaal plan zoals bedoeld in de CAO CBR;
+- s. *Sociaal Plan:* het laatstelijk vastgestelde sociaal plan zoals bedoeld in de CAO CBR;
 
-- t. **vervangingsregeling:** de laatstelijk door de directie vastgestelde regeling waarin de directie bepaalt welke functionarissen elkaar vervangen bij afwezigheid en of verhindering.
+- t. *vervangingsregeling:* de laatstelijk door de directie vastgestelde regeling waarin de directie bepaalt welke functionarissen elkaar vervangen bij afwezigheid en of verhindering.
 
 ##### Artikel 2. Grenzen volmacht
 
@@ -245,9 +219,9 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 - c. het nemen van een beslissing over vaststellingsovereenkomsten:
 
-- –. vanwege reorganisatie passend binnen het Sociaal Plan;
+   - – vanwege reorganisatie passend binnen het Sociaal Plan;
 
-- –. na 2 jaar arbeidsongeschiktheid.
+   - – na 2 jaar arbeidsongeschiktheid.
 
 - d. het ondertekenen van uitgaande brieven, overeenkomsten en/of andere documenten na besluitvorming door de functionarissen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-05-04), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=9&z=2024-05-04&g=2024-05-04) als dat nodig is voor de praktische uitvoering van de desbetreffende besluitvorming;
 
@@ -267,7 +241,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 ##### Artikel 12. Evaluatie
 
-De directie evalueert deze regeling iedere twee jaar, voor het eerst uiterlijk 31 december 2025.
+De directie evalueert deze regeling iedere twee jaar, voor het eerst uiterlijk 31 december 2025.
 
 ##### Artikel 13. Intrekking
 
@@ -275,10 +249,8 @@ Volmachten verleend vóór het tijdstip van inwerkingtreding van deze regeling, 
 
 ##### Artikel 14. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na bekendmaking daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
+Deze regeling treedt in werking met ingang van de dag na bekendmaking daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
 ##### Artikel 15. Citeertitel en bekendmaking
 
 Deze regeling wordt aangehaald als: Regeling volmacht personele aangelegenheden CBR 2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
