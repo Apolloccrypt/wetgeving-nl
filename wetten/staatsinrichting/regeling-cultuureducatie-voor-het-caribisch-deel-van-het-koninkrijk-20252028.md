@@ -1,48 +1,17 @@
 ---
 title: "Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028"
 identifier: "BWBR0050434"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-05-01"
-last_updated: "2025-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050434"
+categorie: "Staatsinrichting en bestuur"
 soort: "zbo"
-stam_id: "17274953"
-version_id: "30425462"
-internal_id: "C43630801"
-label_id: "17180534"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050434/2025-05-01/0"
-intitule_bron: "Stcrt.2024-37642"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-11-19"
-intitule_in_force: "2024-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-37642"
-original_published_date: "2024-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-37642"
-entry_into_force_date: "2024-11-20"
-jci_1_3: "jci1.3:c:BWBR0050434&z=2025-05-01&g=2025-05-01"
-jci_1_0: "1.0:c:BWBR0050434&g=2025-05-01"
-citeertitel_status: "officieel"
-entry_into_force: "2024-11-20"
+publicatiedatum: 2024-11-20
+laatste_update: 2025-05-01
+status: geldig
+toestand: 2025-05-01
+bron: "https://wetten.overheid.nl/BWBR0050434"
+opgehaald: 2026-09-07
 ---
+
 # Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de **Algemene wet bestuursrecht**;
-
-gelet op het ****Algemeen Subsidiereglement**** van het Fonds voor Cultuurparticipatie;
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2022;
-
-en voor de gewijzigde versie op 27 maart 2023;
-
-**besluit:**
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
@@ -50,45 +19,47 @@ en voor de gewijzigde versie op 27 maart 2023;
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Activiteit:** Een specifieke handeling of bezigheid die door de aanvrager wordt geïnitieerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan het brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
+- a. *Activiteit:* Een specifieke handeling of bezigheid die door de aanvrager wordt geïnitieerd en door, of met, de doelgroep (een individu, groep of organisatie) wordt uitgevoerd om een specifieke outcome te bereiken. Denk hierbij aan het brainstorms, repetities, coachingsessies, bijeenkomsten, presentaties etc.
 
-- b. **Adviescommissie:** Een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+- b. *Adviescommissie:* Een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- c. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
+- c. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
 
-- d. **Beleidsprogramma Cultuureducatie met Kwaliteit:** Programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs.
+- d. *Beleidsprogramma Cultuureducatie met Kwaliteit:* Programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs.
 
-- e. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- e. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- f. **Caribisch Nederland:** de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba.
+- f. *Caribisch Nederland:* de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba.
 
-- g. **Cultuur:** (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten etc. van een volk, gemeenschap of groep die tot stand komt door sociale en artistieke processen. Hierbij zijn religie, sport en activiteiten met een winstoogmerk per definitie uitgesloten.
+- g. *Cultuur:* (De sector die zich kenmerkt door) het dynamische geheel van normen, waarden, tradities, regels, kunstuitingen, erfgoed, identiteiten etc. van een volk, gemeenschap of groep die tot stand komt door sociale en artistieke processen. Hierbij zijn religie, sport en activiteiten met een winstoogmerk per definitie uitgesloten.
 
-- h. **Culturele codes:** De Code Diversiteit en Inclusie, de Fair Practice Code en de Governance Code Cultuur.
+- h. *Culturele codes:* De Code Diversiteit en Inclusie, de Fair Practice Code en de Governance Code Cultuur.
 
-- i. **Cultuureducatie:** Het doelbewust leren over en door middel van cultuur binnen de school.
+- i. *Cultuureducatie:* Het doelbewust leren over en door middel van cultuur binnen de school.
 
-- j. **Cultuurparticipatie:** Het actief in de vrije tijd beoefenen van kunstzinnige of erfgoedactiviteiten.
+- j. *Cultuurparticipatie:* Het actief in de vrije tijd beoefenen van kunstzinnige of erfgoedactiviteiten.
 
-- k. **Culturele instelling:** Een instelling die zich inzet binnen de cultuursector en zich als zodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
+- k. *Culturele instelling:* Een instelling die zich inzet binnen de cultuursector en zich als zodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
 
-- l. **Deskundigheidsbevordering:** De activiteiten die de deskundigheid van personen met betrekking tot de uitoefening van een functie of beroep verbeteren.
+- l. *Deskundigheidsbevordering:* De activiteiten die de deskundigheid van personen met betrekking tot de uitoefening van een functie of beroep verbeteren.
 
-- m. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- m. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- n. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- n. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- o. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- o. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- p. **Materiële investeringen:** Aanschaf van materialen voor een project die de aanvrager na dat project nog langere tijd kan gebruiken.
+- p. *Materiële investeringen:* Aanschaf van materialen voor een project die de aanvrager na dat project nog langere tijd kan gebruiken.
 
-- q. **Materiaalkosten:** Kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
+- q. *Materiaalkosten:* Kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
 
-- r. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- r. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- s. **Project:** Een tijdelijke en doelgerichte inspanning van activiteiten en processen die door de aanvrager worden ondernomen om een specifiek doel te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en een of meerdere activiteiten en taken die moeten worden uitgevoerd om het specifieke doel te bereiken.
+- s. *Project:* Een tijdelijke en doelgerichte inspanning van activiteiten en processen die door de aanvrager worden ondernomen om een specifiek doel te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en een of meerdere activiteiten en taken die moeten worden uitgevoerd om het specifieke doel te bereiken.
 
-- t. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
+- t. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
 2. In [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=2&z=2025-05-01&g=2025-05-01) en de daaropvolgende hoofdstukken staat wat wordt verstaan onder de begrippen die in het bijzonder bij het desbetreffende hoofdstuk behoren.
 
@@ -110,13 +81,13 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - a. voor dezelfde activiteiten al subsidie is of zal worden verleend:
 
-- i. door het Fonds;
+   - i. door het Fonds;
 
-- ii. door een van de andere rijkscultuurfondsen;
+   - ii. door een van de andere rijkscultuurfondsen;
 
-- iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. de activiteiten of projecten waarvoor subsidie wordt gevraagd op het moment van de aanvraag al worden uitgevoerd;
 
@@ -166,17 +137,17 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - b. dat er sprake is van een scheiding tussen toezicht, bestuur en uitvoering, in die zin dat:
 
-- i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
+   - i. als er sprake is van een raad van toezichtmodel: een raad van toezicht van ten minste drie leden;
 
-- ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
+   - ii. als er sprake is van een bestuursmodel: een bestuur van ten minste drie bestuurders;
 
 - c. dat de leden van de raad van toezicht, of de toezichthoudende bestuurders geen onderdeel uitmaken van de begroting.
 
 5. Voor de Code Diversiteit & Inclusie en de Fair Practice Code geldt dat de aanvrager in het aanvraagformulier toelicht hoe die codes worden toepast, waarbij de volgende indeling en daarmee samenhangende verplichtingen gelden:
 
-- a. aangevraagd bedrag tot € 25.000: pas de codes toe en leg uit waar dit nog niet volledig lukt, als dat het geval is;
+- a. aangevraagd bedrag tot € 25.000: pas de codes toe en leg uit waar dit nog niet volledig lukt, als dat het geval is;
 
-- b. aangevraagd bedrag meer dan € 25.000: pas de codes toe, leg uit waar dit nog niet volledig lukt, benoem hierbij de ambities en reflecteer hier achteraf op in de verantwoording.
+- b. aangevraagd bedrag meer dan € 25.000: pas de codes toe, leg uit waar dit nog niet volledig lukt, benoem hierbij de ambities en reflecteer hier achteraf op in de verantwoording.
 
 ##### Artikel 1.7. Indieningsvereisten
 
@@ -216,15 +187,17 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 ### Hoofdstuk 2. Bonaire, Sint Eustatius en Saba
 
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&z=2025-05-01&g=2025-05-01). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven. Op grond van dit hoofdstuk wordt uitsluitend subsidie verstrekt voor de eilanden Bonaire, Sint Eustatius en Saba.
+
 ##### Artikel 2.1. Gebruikte begrippen
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Adhesiebetuiging:** schriftelijke ondersteuningsverklaring van het openbaar lichaam aan de aanvrager, voor de invulling van de rol van penvoerder bij deze regeling;
+- a. *Adhesiebetuiging:* schriftelijke ondersteuningsverklaring van het openbaar lichaam aan de aanvrager, voor de invulling van de rol van penvoerder bij deze regeling;
 
-- b. **Openbaar lichaam:** een overheidsorgaan met rechtspersoonlijkheid dat bijzondere bevoegdheden heeft en vastomlijnde taken uitvoert op Bonaire, Sint Eustatius of Saba;
+- b. *Openbaar lichaam:* een overheidsorgaan met rechtspersoonlijkheid dat bijzondere bevoegdheden heeft en vastomlijnde taken uitvoert op Bonaire, Sint Eustatius of Saba;
 
-- c. **Penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met andere culturele partners en het onderwijs, een subsidieaanvraag indient. De penvoerder is de projectleider en intermediair van het project.
+- c. *Penvoerder:* een culturele instelling die voor zichzelf, en in samenwerking met andere culturele partners en het onderwijs, een subsidieaanvraag indient. De penvoerder is de projectleider en intermediair van het project.
 
 ##### Artikel 2.2. Doel en effecten
 
@@ -232,15 +205,15 @@ Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor een meerjarig pr
 
 - 1. Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zijn op het bereiken van de volgende effecten:
 
-- a. effect a: Creatieve ontplooiing;
+   - a. effect a: Creatieve ontplooiing;
 
-- b. effect b: Verbinding;
+   - b. effect b: Verbinding;
 
-- c. effect c: Samenwerking;
+   - c. effect c: Samenwerking;
 
-- d. effect d: Visieontwikkeling;
+   - d. effect d: Visieontwikkeling;
 
-- e. effect e: Kansengelijkheid.
+   - e. effect e: Kansengelijkheid.
 
 ##### Artikel 2.3. Wie kan aanvragen?
 
@@ -272,11 +245,11 @@ Voor een project:
 
 - a. kan per eiland een vastgesteld bedrag worden aangevraagd. Dat is voor:
 
-- i. Bonaire: € 580.183
+   - i. Bonaire: € 580.183
 
-- ii. Sint Eustatius: € 231.016
+   - ii. Sint Eustatius: € 231.016
 
-- iii. Saba: € 212.801
+   - iii. Saba: € 212.801
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
@@ -308,7 +281,7 @@ Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanv
 
 ##### Artikel 2.8. Indieningstermijnen
 
-1. Aanvragen op grond van dit hoofdstuk kunnen worden ingediend vanaf de dag dat de regeling is gepubliceerd in de Staatscourant 13.00 uur tot en met 6 december 2024, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van dit hoofdstuk kunnen worden ingediend vanaf de dag dat de regeling is gepubliceerd in de Staatscourant 13.00 uur tot en met 6 december 2024, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
@@ -356,29 +329,15 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 - a. start niet eerder dan dertien weken na het indienen van de aanvraag;
 
-- b. heeft een looptijd van 15 maart 2025 tot en met uiterlijk 31 december 2028. Het Fonds kan besluiten van deze termijnen afwijken.
+- b. heeft een looptijd van 15 maart 2025 tot en met uiterlijk 31 december 2028. Het Fonds kan besluiten van deze termijnen afwijken.
 
 ##### Artikel 2.13. Subsidieplafond
 
-Het subsidieplafond voor de projecten in dit hoofdstuk tezamen is € 1.024.000.
+Het subsidieplafond voor de projecten in dit hoofdstuk tezamen is € 1.024.000.
 
 ### Hoofdstuk 3. – Curaçao, Aruba en Sint-Maarten
 
-### Hoofdstuk 4. – Slotbepalingen
-
-##### Artikel 4.1. Hardheidsclausule
-
-Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en alleen in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
-
-##### Artikel 4.2. Inwerkingtreding en vervaldatum
-
-1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
-
-2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
-
-##### Artikel 4.3. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028.
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&z=2025-05-01&g=2025-05-01). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven. Op grond van dit hoofdstuk wordt uitsluitend subsidie verstrekt voor Verkenningen en Projecten.
 
 #### Paragraaf 1. Algemeen
 
@@ -386,17 +345,17 @@ Deze regeling wordt aangehaald als: Regeling Cultuureducatie voor het Caribisch 
 
 Aanvullend op [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050434&hoofdstuk=1&z=2025-05-01&g=2025-05-01) gebruiken we in dit hoofdstuk ook onderstaande begrippen:
 
-- a. **Primair onderwijs:** het basisonderwijs, het speciaal onderwijs en voortgezet speciaal onderwijs dat door het Rijk of de overheid wordt gefinancierd;
+- a. *Primair onderwijs:* het basisonderwijs, het speciaal onderwijs en voortgezet speciaal onderwijs dat door het Rijk of de overheid wordt gefinancierd;
 
-- b. **Professional:** Een natuurlijk persoon die
+- b. *Professional:* Een natuurlijk persoon die
 
-- (1). ten minste een parttime aanstelling bij een organisatie heeft;
+   - (1) ten minste een parttime aanstelling bij een organisatie heeft;
 
-- (2). vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding;
+   - (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding;
 
-- (3). als zelfstandige minimaal twee jaar als ondernemer wordt beschouwd door de Belastingdienst en inschreven staat bij de Kamer van Koophandel of een vergelijkbare organisatie en/of financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen;
+   - (3) als zelfstandige minimaal twee jaar als ondernemer wordt beschouwd door de Belastingdienst en inschreven staat bij de Kamer van Koophandel of een vergelijkbare organisatie en/of financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen;
 
-- c. **Rechtspersoon:** De rechtspersonen genoemd in [artikel 2:3, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3).
+- c. *Rechtspersoon:* De rechtspersonen genoemd in [artikel 2:3, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=3).
 
 ##### Artikel 3.2. Wie kan aanvragen?
 
@@ -410,13 +369,13 @@ Zowel de aanvrager als de school of scholen zijn gevestigd op het eiland waarvoo
 
 ##### Artikel 3.3. Indieningstermijnen
 
-1. Aanvragen op grond van deze paragraaf kunnen worden ingediend van 2 juni 2025, 13.00 uur tot en met 9 december 2026, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van deze paragraaf kunnen worden ingediend van 2 juni 2025, 13.00 uur tot en met 9 december 2026, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
 ##### Artikel 3.4. Beoordelen aanvragen
 
-Aanvragen tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden aan een interne adviescommissie voorgelegd voor advies. Aanvragen voor meer dan € 25.000 en die voldoen aan de eisen van de regeling worden aan een externe commissie voorgelegd. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder een adviescommissie om advies te vragen.
+Aanvragen tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden aan een interne adviescommissie voorgelegd voor advies. Aanvragen voor meer dan € 25.000 en die voldoen aan de eisen van de regeling worden aan een externe commissie voorgelegd. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder een adviescommissie om advies te vragen.
 
 #### Paragraaf 2. Verkenningen
 
@@ -438,19 +397,19 @@ Subsidie kan worden aangevraagd voor het verkennen van een samenwerking tussen e
 
 Voor een Verkenning in deze paragraaf:
 
-- a. kan minimaal € 5.000 en maximaal € 15.000 worden verstrekt; en
+- a. kan minimaal € 5.000 en maximaal € 15.000 worden verstrekt; en
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
 ##### Artikel 3.8. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 200.000. Per land is het volgende budget beschikbaar:
+Het subsidieplafond voor deze paragraaf is € 200.000. Per land is het volgende budget beschikbaar:
 
-- a. Curaçao: € 83.962
+- a. Curaçao: € 83.962
 
-- b. Aruba: € 68.285
+- b. Aruba: € 68.285
 
-- c. Sint-Maarten: € 47.753
+- c. Sint-Maarten: € 47.753
 
 ##### Artikel 3.9. Beoordelingscriteria
 
@@ -510,19 +469,19 @@ Subsidie kan worden aangevraagd voor het ontwikkelen en uitvoeren van een Projec
 
 Voor een Project in deze paragraaf:
 
-- a. wordt minimaal € 15.000 en maximaal € 50.000 aangevraagd; en
+- a. wordt minimaal € 15.000 en maximaal € 50.000 aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
 ##### Artikel 3.16. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 800.000. Per land is het volgende budget beschikbaar:
+Het subsidieplafond voor deze paragraaf is € 800.000. Per land is het volgende budget beschikbaar:
 
-- a. Curaçao: € 335.847
+- a. Curaçao: € 335.847
 
-- b. Aruba: € 273.139
+- b. Aruba: € 273.139
 
-- c. Sint-Maarten: € 191.013
+- c. Sint-Maarten: € 191.013
 
 ##### Artikel 3.17. Beoordelingscriteria
 
@@ -552,7 +511,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 ##### Artikel 3.20. Bijzondere verplichtingen
 
-1. Voor aanvragen tot en met € 25.000 geldt:
+1. Voor aanvragen tot en met € 25.000 geldt:
 
 - a. start niet eerder dan acht weken na het indienen van de aanvraag;
 
@@ -560,7 +519,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 - c. heeft een looptijd van minimaal zes maanden en maximaal anderhalf jaar.
 
-2. Voor aanvragen van meer dan € 25.000 geldt:
+2. Voor aanvragen van meer dan € 25.000 geldt:
 
 - a. start niet eerder dan dertien weken na het indienen van de aanvraag;
 
@@ -573,3 +532,17 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 Gehonoreerde aanvragers zijn verplicht deel te nemen aan kennisdelingsactiviteiten die door het Fonds worden geïnitieerd.
 
 ### Hoofdstuk 4. – Slotbepalingen
+
+##### Artikel 4.1. Hardheidsclausule
+
+Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en alleen in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
+
+##### Artikel 4.2. Inwerkingtreding en vervaldatum
+
+1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
+
+2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
+
+##### Artikel 4.3. Citeertitel
+
+Deze regeling wordt aangehaald als: Regeling Cultuureducatie voor het Caribisch deel van het Koninkrijk 2025–2028.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 20 september 2024, houdende regels over de instelling, de inrichting en het beheer van agentschappen (Regeling agentschappen 2024)"
+citeertitel: "Regeling agentschappen 2024"
 identifier: "BWBR0050264"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050264"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17234083"
-version_id: "30353292"
-internal_id: "C43532831"
-label_id: "17140034"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050264/2025-01-01/0"
-intitule_bron: "Stcrt.2024-32572"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-20"
-intitule_published: "2024-10-03"
-intitule_in_force: "2024-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-32572"
-original_signed_date: "2024-09-20"
-original_published_date: "2024-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-32572"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050264&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050264&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling agentschappen 2024"
-signed_date: "2024-09-20"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050264"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Minister van Financiën van 20 september 2024, houdende regels over de instelling, de inrichting en het beheer van agentschappen (Regeling agentschappen 2024)
-
-Gelet op [artikel 4.20, tweede lid, aanhef en onder g, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.20);
-
-Besluit:
 
 ### Definities en toepassingsbereik
 
@@ -48,37 +22,38 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- •. **agentschap:** een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.20), als baten-lastenagentschap is aangewezen;
+- • *agentschap:* een dienstonderdeel van een ministerie, dat op grond van [artikel 2.20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=2.20), als baten-lastenagentschap is aangewezen;
 
-- •. **continuïteitsverantwoordelijke:** de secretaris-generaal of zijn plaatsvervanger die verantwoordelijk is voor het toezicht op het beleid, op de algemene gang van zaken met betrekking tot het agentschap en op het stelsel van werkafspraken en governance zoals bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01);
+- • *continuïteitsverantwoordelijke:* de secretaris-generaal of zijn plaatsvervanger die verantwoordelijk is voor het toezicht op het beleid, op de algemene gang van zaken met betrekking tot het agentschap en op het stelsel van werkafspraken en governance zoals bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01);
 
-- •. **beleidsverantwoordelijke:** de directeur-generaal of zijn plaatsvervanger of de directeur of zijn plaatsvervanger van een ministerie die het agentschap verzoekt om producten of diensten te leveren;
+- • *beleidsverantwoordelijke:* de directeur-generaal of zijn plaatsvervanger of de directeur of zijn plaatsvervanger van een ministerie die het agentschap verzoekt om producten of diensten te leveren;
 
-- •. **centrale kas:** liquide middelen die door het Agentschap van de Generale Thesaurie van het Ministerie van Financiën worden beheerd;
+- • *centrale kas:* liquide middelen die door het Agentschap van de Generale Thesaurie van het Ministerie van Financiën worden beheerd;
 
-- •. **doelmatigheid:** de mate waarin de prestaties en effecten tegen de laagst mogelijke inzet van (financiële) middelen en ongewenste neveneffecten worden bewerkstelligd, dan wel de mate waarin met de inzet van een bepaalde hoeveelheid (financiële) middelen de maximale prestaties en effecten van beleid worden gerealiseerd tegen zo min mogelijk ongewenste neveneffecten;
+- • *doelmatigheid:* de mate waarin de prestaties en effecten tegen de laagst mogelijke inzet van (financiële) middelen en ongewenste neveneffecten worden bewerkstelligd, dan wel de mate waarin met de inzet van een bepaalde hoeveelheid (financiële) middelen de maximale prestaties en effecten van beleid worden gerealiseerd tegen zo min mogelijk ongewenste neveneffecten;
 
-- •. **eindverantwoordelijke binnen het agentschap:** de hoogstgeplaatste ambtenaar die binnen het agentschap de eindverantwoordelijkheid draagt voor het beleid en de algemene gang van zaken;
+- • *eindverantwoordelijke binnen het agentschap:* de hoogstgeplaatste ambtenaar die binnen het agentschap de eindverantwoordelijkheid draagt voor het beleid en de algemene gang van zaken;
 
-- •. **initiële lening:** de lening die wordt afgesloten bij de start van een agentschap in het kader van de openingsbalans ten behoeve van de financiering van over te nemen vaste activa van een ministerie;
+- • *initiële lening:* de lening die wordt afgesloten bij de start van een agentschap in het kader van de openingsbalans ten behoeve van de financiering van over te nemen vaste activa van een ministerie;
 
-- •. **input-bekostiging:** de bekostiging van ingezette middelen of arbeidskrachten die een direct verband houden met de activiteiten van het agentschap dan wel een indirect verband houden, of een combinatie van beide;
+- • *input-bekostiging:* de bekostiging van ingezette middelen of arbeidskrachten die een direct verband houden met de activiteiten van het agentschap dan wel een indirect verband houden, of een combinatie van beide;
 
-- •. **jaarrekening van een agentschap:** de balans, staat van baten en lasten en kasstroomoverzicht per 31 december met inbegrip van de toelichtingen, bedoeld in [artikel 361, eerste lid, van Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), waarop de agentschapsparagraaf in het departementale jaarverslag is gebaseerd;
+- • *jaarrekening van een agentschap:* de balans, staat van baten en lasten en kasstroomoverzicht per 31 december met inbegrip van de toelichtingen, bedoeld in [artikel 361, eerste lid, van Titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), waarop de agentschapsparagraaf in het departementale jaarverslag is gebaseerd;
 
-- •. **leenplafond:** het maximale geldbedrag dat in de vorm van een of meer leningen in een jaar aan een agentschap kan worden toegekend;
+- • *leenplafond:* het maximale geldbedrag dat in de vorm van een of meer leningen in een jaar aan een agentschap kan worden toegekend;
 
-- •. **lening:** de financiële middelen die tegen een rentevergoeding gedurende een bepaalde looptijd beschikbaar worden gesteld aan een agentschap vanuit de kas van de schatkist van het Rijk;
+- • *lening:* de financiële middelen die tegen een rentevergoeding gedurende een bepaalde looptijd beschikbaar worden gesteld aan een agentschap vanuit de kas van de schatkist van het Rijk;
 
-- •. **Minister:** de Minister die het aangaat;
+- • *Minister:* de Minister die het aangaat;
 
-- •. **openingsbalans:** de balans die wordt opgesteld bij de instelling van een nieuw agentschap en inzicht geeft in de bezittingen en schulden die in economisch beheer aan het agentschap zijn overgedragen;
+- • *openingsbalans:* de balans die wordt opgesteld bij de instelling van een nieuw agentschap en inzicht geeft in de bezittingen en schulden die in economisch beheer aan het agentschap zijn overgedragen;
 
-- •. **output-bekostiging:** de bekostiging van een door een agentschap aangeboden dienst of product op basis van een vastgesteld tarief per geleverde prestatie;
+- • *output-bekostiging:* de bekostiging van een door een agentschap aangeboden dienst of product op basis van een vastgesteld tarief per geleverde prestatie;
 
-- •. **termijndeposito:** het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover het agentschap gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
+- • *termijndeposito:* het creditbedrag op een aan een rekening-courant gekoppelde depositorekening van de schatkist van het Rijk, waarover een vooraf vastgestelde rente wordt vergoed en waarover het agentschap gedurende een vooraf vastgestelde periode niet vrij kan beschikken;
 
-- •. **wet:** [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429).
+- • *wet:*
+ [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429).
 
 2. Onverminderd het eerste lid zijn de begrippen van [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=1.1) van overeenkomstige toepassing op deze regeling.
 
@@ -92,13 +67,13 @@ Besluit:
 
 2. De aanvraag wordt toegelicht. Uit de toelichting en de daarop gebaseerde stukken blijkt dat het in te stellen agentschap, bedoeld in het eerste lid, voldoet aan de volgende instellingsvoorwaarden:
 
-- a. het hebben van verwachte baten van meer dan € 50.000.000 per jaar;
+- a. het hebben van verwachte baten van meer dan € 50.000.000 per jaar;
 
 - b. het aanwijzen van een agentschap bevordert een doelmatige taakuitvoering door in ieder geval aan een van de volgende twee voorwaarden te voldoen:
 
-- 1°. doordat het in te stellen agentschap afzonderlijk identificeerbare producten of diensten gaat leveren waaraan direct kosten kunnen worden toegerekend; of
+   - 1°. doordat het in te stellen agentschap afzonderlijk identificeerbare producten of diensten gaat leveren waaraan direct kosten kunnen worden toegerekend; of
 
-- 2°. doordat het in te stellen agentschap een product of diensten gaat leveren waarbij sprake is van een hoge kapitaalintensiteit, waarbij hoge kapitaalintensiteit wordt gemeten als de voorziene gemiddelde jaarlijkse afschrijvingskosten over de vaste activa van ten minste 5% van de totale lasten over een periode van drie jaar;
+   - 2°. doordat het in te stellen agentschap een product of diensten gaat leveren waarbij sprake is van een hoge kapitaalintensiteit, waarbij hoge kapitaalintensiteit wordt gemeten als de voorziene gemiddelde jaarlijkse afschrijvingskosten over de vaste activa van ten minste 5% van de totale lasten over een periode van drie jaar;
 
 - c. er is een akkoord tussen de partijen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), van deze regeling, over de conceptinrichting van de governance die voldoet aan artikel 6 van deze regeling, conceptwerkafspraken die voldoen aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01) van deze regeling, voorgenomen bekostiging van het agentschap die voldoet aan [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050264&paragraaf=4&artikel=8&z=2025-01-01&g=2025-01-01) van deze regeling en de inrichting van het financieel beheer van het nieuw in te stellen agentschap.
 
@@ -128,13 +103,13 @@ Besluit:
 
 - b. binnen zes maanden na de beoogde datum van opheffing van het agentschap:
 
-- 1°. er een slotbalans van het agentschap is opgesteld;
+   - 1°. er een slotbalans van het agentschap is opgesteld;
 
-- 2°. de in de slotbalans opgenomen activa en passiva alsmede de niet in de balans opgenomen rechten en verplichtingen van het agentschap zijn overgenomen door een ander agentschap indien de taken van het agentschap aan dat andere agentschap worden overgedragen;
+   - 2°. de in de slotbalans opgenomen activa en passiva alsmede de niet in de balans opgenomen rechten en verplichtingen van het agentschap zijn overgenomen door een ander agentschap indien de taken van het agentschap aan dat andere agentschap worden overgedragen;
 
-- 3°. de activa en passiva alsmede de niet in de balans opgenomen rechten en verplichtingen van het agentschap met de rechthebbenden zijn verrekend indien de taken van het agentschap niet worden overgedragen aan een ander agentschap; en
+   - 3°. de activa en passiva alsmede de niet in de balans opgenomen rechten en verplichtingen van het agentschap met de rechthebbenden zijn verrekend indien de taken van het agentschap niet worden overgedragen aan een ander agentschap; en
 
-- 4°. de slotbalans is voorzien van een controleverklaring afgegeven door de Auditdienst Rijk.
+   - 4°. de slotbalans is voorzien van een controleverklaring afgegeven door de Auditdienst Rijk.
 
 2. De Minister informeert de Tweede Kamer der Staten-Generaal over het besluit tot opheffing.
 
@@ -216,11 +191,11 @@ Besluit:
 
 2. De Minister van Financiën bepaalt de rente voor de debet- en creditsaldi op de rekening-courant en termijndeposito’s. [Artikel 4, eerste, tweede, vierde en vijfde lid, van de Regeling schatkistbankieren RWT’s en andere rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0040289&artikel=4) is van overeenkomstige toepassing.
 
-3. De renteverrekening tussen het Ministerie van Financiën en het agentschap over de saldi op de rekening-courant vindt eenmaal per jaar plaats met als rentevervaldatum 31 december.
+3. De renteverrekening tussen het Ministerie van Financiën en het agentschap over de saldi op de rekening-courant vindt eenmaal per jaar plaats met als rentevervaldatum 31 december.
 
 4. Het agentschap kan beschikken over een krediet in de vorm van een debetstand op de rekening-courant ten behoeve van de eigen liquiditeitsbehoefte voor het doen van lopende uitgaven.
 
-5. Het rekening-courantkrediet bij de schatkist van het Rijk bedraagt voor een agentschap per 31 december maximaal € 500.000.
+5. Het rekening-courantkrediet bij de schatkist van het Rijk bedraagt voor een agentschap per 31 december maximaal € 500.000.
 
 ##### Artikel 10. Depositoprocedure en -voorwaarden
 
@@ -252,11 +227,11 @@ Besluit:
 
 3. Het eigen vermogen van een agentschap is maximaal 5% van de gemiddelde jaarlijkse baten dat wordt berekend over de laatste drie kalenderjaren. Indien een agentschap korter dan drie jaar bestaat, worden de gemiddelde jaarlijkse baten berekend over deze kortere periode.
 
-4. Het eigen vermogen van een agentschap is minimaal € 0,–.
+4. Het eigen vermogen van een agentschap is minimaal € 0,–.
 
 5. Indien van toepassing worden de bedragen in bestemmingsfondsen niet meegeteld voor de berekening van de grenzen van het eigen vermogen, bedoeld in het derde en vierde lid.
 
-6. Indien er volgens de jaarrekening sprake is van een overschrijding van de grenzen, bedoeld in het derde en vierde lid, draagt de continuïteitsverantwoordelijke er zorg voor dat deze grenzen uiterlijk bij de eerste suppletoire begrotingswet zijn hersteld. Een eventueel negatief eigen vermogen wordt aangevuld tot minimaal € 0,–. Als de maximale omvang van het eigen vermogen, bedoeld in het derde lid, wordt overschreden, wordt het surplus uitgekeerd aan de continuïteitsverantwoordelijke.
+6. Indien er volgens de jaarrekening sprake is van een overschrijding van de grenzen, bedoeld in het derde en vierde lid, draagt de continuïteitsverantwoordelijke er zorg voor dat deze grenzen uiterlijk bij de eerste suppletoire begrotingswet zijn hersteld. Een eventueel negatief eigen vermogen wordt aangevuld tot minimaal € 0,–. Als de maximale omvang van het eigen vermogen, bedoeld in het derde lid, wordt overschreden, wordt het surplus uitgekeerd aan de continuïteitsverantwoordelijke.
 
 7. Financiële transacties die enkel gericht zijn op het voorkomen van overschrijdingen van de grenzen, bedoeld in het derde en vierde lid, zijn niet toegestaan.
 
@@ -340,16 +315,14 @@ Na inwerkingtreding van deze regeling berusten de afwijkingen die door de Minist
 
 ##### Artikel 19. Intrekking
 
-1. De [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) (Stcrt. 2017, 69103) wordt ingetrokken per 1 januari 2025.
+1. De [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) (Stcrt. 2017, 69103) wordt ingetrokken per 1 januari 2025.
 
 2. De [Regeling agentschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0040286) wordt ingetrokken, met dien verstande dat de bepalingen van deze regeling en de daarop berustende bepalingen, zoals deze golden voor de inwerkingtreding van de Regeling agentschappen 2024 van toepassing blijven op de begrotingsstaten, de (suppletoire) begrotingsstaten, de slotverschillen, de jaarverslagen en rapporten die met de uitvoering van deze begrotingen samenvallen in het begrotingsjaar 2024.
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2025.
+Deze regeling treedt in werking met ingang van 1 januari 2025.
 
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling agentschappen 2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

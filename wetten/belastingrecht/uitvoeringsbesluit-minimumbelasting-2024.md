@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 11 december 2024, houdende regels ter uitvoering van de Wet minimumbelasting 2024 (Uitvoeringsbesluit minimumbelasting 2024)"
+citeertitel: "Uitvoeringsbesluit minimumbelasting 2024"
 identifier: "BWBR0050584"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050584"
+categorie: "Belastingrecht"
 soort: "AMvB"
-stam_id: "17316123"
-version_id: "30502482"
-internal_id: "C43728981"
-label_id: "17220464"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050584/2026-01-01/0"
-intitule_bron: "Stb.2024-442"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-11"
-intitule_published: "2024-12-23"
-intitule_in_force: "2024-12-23"
-intitule_status: "goed"
-original_publication: "Stb.2024-442"
-original_signed_date: "2024-12-11"
-original_published_date: "2024-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-442"
-entry_into_force_date: "2024-12-31"
-jci_1_3: "jci1.3:c:BWBR0050584&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0050584&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit minimumbelasting 2024"
-signed_date: "2024-12-11"
-entry_into_force: "2024-12-31"
+publicatiedatum: 2024-12-31
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0050584"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van 11 december 2024, houdende regels ter uitvoering van de Wet minimumbelasting 2024 (Uitvoeringsbesluit minimumbelasting 2024)
-
-Op de voordracht van Onze Minister van Financiën van 20 november 2024, nr. 2024-0000457397;
-
-Gelet op de [artikelen 6.2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=6.2), [7.2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=7.2), [7.3, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=7.3), [7.5, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=7.5), [8.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.3), [8.13, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.13) en [14.1, zesde lid van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 november 2024 no. W06.24.00325/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 6 december 2024, nr. 2024-0000549629;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -54,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit wordt onder de wet verstaan: de [Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111).
 
-### Hoofdstuk 2. Bepaling van het kwalificerende inkomen of verlies ([hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=6))
+### Hoofdstuk 2. Bepaling van het kwalificerende inkomen of verlies (hoofdstuk 6 van de wet)
 
 ##### Artikel 2. Keuze voor inbegrepen vermogenswinst of -verlies
 
@@ -84,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 2. De keuze, bedoeld in het eerste lid geldt voor een periode van vijf verslagjaren die aanvangt op de eerste dag van het verslagjaar waarvoor die keuze is gemaakt. De keuze wordt automatisch verlengd, tenzij de informatieaangifte-indienende groepsentiteit de keuze herroept na de vijfjaarsperiode. Een herroeping van de keuze geldt voor een periode van vijf verslagjaren, die aanvangt op de eerste dag van het verslagjaar waarvoor de keuze wordt herroepen.
 
-### Hoofdstuk 3. Berekening van de gecorrigeerde betrokken belastingen ([hoofdstuk 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=7))
+### Hoofdstuk 3. Berekening van de gecorrigeerde betrokken belastingen (hoofdstuk 7 van de wet)
 
 ##### Artikel 4. Voortwenteling verschil tussen gecorrigeerde betrokken belastingen en verwachte betrokken belastingen
 
@@ -120,7 +88,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 6. Toerekening van betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen
 
-1. De betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen wordt in een verslagjaar dat aanvangt op of voor 31 december 2025 en uiterlijk eindigt op 30 juni 2027 toegerekend volgens de formule:
+1. De betrokken belasting die is geheven overeenkomstig een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen wordt in een verslagjaar dat aanvangt op of voor 31 december 2025 en uiterlijk eindigt op 30 juni 2027 toegerekend volgens de formule:
 
 A = (B / C) x D
 
@@ -162,98 +130,6 @@ G: het effectieve belastingtarief van de staat waarin de entiteit is gevestigd d
 
 10. Onder een geaggregeerde belastingregeling voor buitenlandse gecontroleerde lichamen wordt verstaan: een belastingregeling voor buitenlandse gecontroleerde lichamen op grond waarvan de belasting wordt berekend op basis van het gezamenlijke inkomen of de gezamenlijke verliezen of verrekenbare belastingen van de buitenlandse gecontroleerde lichamen die onmiddellijk of middellijk worden gehouden door een groepsentiteit, waarbij het tarief dat geldt voor de toepassing van deze belastingregeling lager is dan het minimumbelastingtarief.
 
-### Hoofdstuk 4. Berekening van het effectieve belastingtarief en de bijheffing ([hoofdstuk 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=8))
-
-##### Artikel 7. Het bedrag van de gebruiksrechten van de lessee
-
-1. Voor de toepassing van [artikel 8.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.3), wordt de waarde van de gebruiksrechten van de lessee bepaald op,
-
-- a. indien de lessee een groepsentiteit is van de multinationale groep of binnenlandse groep waartoe de lessor behoort: het bedrag van de gebruiksrechten, nadat rekening is gehouden met consolidatiecorrecties ter eliminatie van de intra-groepsleasetransactie;
-
-- b. indien de lessee geen groepsentiteit is van de multinationale groep of binnenlandse groep waartoe de lessor behoort: het niet-gedisconteerde bedrag van de nog verschuldigde betalingen op grond van de leaseovereenkomst, rekening houdend met eventuele toevoegingen die in aanmerking zouden zijn genomen voor het bepalen van het bedrag van de gebruiksrechten bij toepassing van de financiële verslaggevingsstandaard van de lessor.
-
-2. Niettegenstaande het eerste lid, bedraagt de waarde van de gebruiksrechten van de lessee nihil, indien een activum regelmatig en meerdere keren gedurende het verslagjaar ter beschikking is gesteld aan verschillende lessees, waarbij de gemiddelde leaseperiode, met inbegrip van eventuele verlengingen en vernieuwingen van de lease, voor elke lessee 30 dagen of minder bedraagt.
-
-##### Artikel 8. De consistentiestandaard en toepassing van de kwalificerende binnenlandse bijheffing veilige haven
-
-1. Een kwalificerende binnenlandse bijheffing van een staat voldoet aan de consistentiestandaard, bedoeld in [artikel 8.13, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.13), indien, met inachtneming van de vereiste afwijkingen die betrekking hebben op de berekening van een kwalificerende binnenlandse bijheffing:
-
-- a. de berekening van deze bijheffing leidt tot dezelfde uitkomst als de uitkomst bij toepassing van een kwalificerende inkomen-inclusiemaatregel of een kwalificerende onderbelastewinstmaatregel;
-
-- b. een staat voor de toepassing van een kwalificerende binnenlandse bijheffing:
-
-- 1°. geen of een beperktere variant van een met [artikel 8.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.3) vergelijkbare bepaling hanteert;
-
-- 2°. geen of een beperktere variant van een met [artikel 8.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.7) vergelijkbare bepaling hanteert; of
-
-- 3°. een belastingtarief hanteert dat hoger is dan het minimumbelastingtarief.
-
-2. [Artikel 8.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.13) is niet van toepassing op:
-
-- a. de groepsentiteiten van een multinationale groep in een staat, indien een of meer van deze groepsentiteiten:
-
-- 1°. een doorkijkentiteit is die een uiteindelijkemoederentiteit is en niet is onderworpen aan een kwalificerende binnenlandse bijheffing;
-
-- 2°. een doorkijkentiteit is die onderworpen is aan een inkomen-inclusiebijheffing en niet aan een kwalificerende binnenlandse bijheffing; of
-
-- 3°. een entiteit is ten aanzien waarvan zonder enige beperking een kwalificerende binnenlandse bijheffing wordt verminderd op grond van een met [artikel 14.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.2) vergelijkbare regeling voor multinationale groepen in de aanvangsfase;
-
-- b. beleggingsentiteiten in een staat die in vergelijkbare omstandigheden voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) onder de reikwijdte van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.4), [10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.5) of [10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.6) zouden vallen en die niet zijn onderworpen aan een kwalificerende binnenlandse bijheffing in die staat;
-
-- c. een joint venture of een joint venture-groep in een staat ten aanzien waarvan de kwalificerende binnenlandse bijheffing niet wordt geheven bij de joint venture of de leden van de joint venture-groep in die staat;
-
-- d. een staatloze doorkijkentiteit die niet is onderworpen aan een kwalificerende binnenlandse bijheffing in de staat waarin zij is opgericht;
-
-- e. een securitisatie-entiteit; of
-
-- f. de groepsentiteiten van een multinationale groep die gevestigd zijn in een staat indien een of meer van die groepsentiteiten een of meer actieve belastinglatenties als bedoeld in [artikel 14.1, tweede lid, onderdeel b, c, of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) hebben gevormd en de aanwending van die belastinglatentie of belastinglatenties voor de berekening van de binnenlandse bijheffing niet is uitgesloten van het totale bedrag aan gecorrigeerde mutaties in belastinglatenties of de berekening van de vereenvoudigde betrokken belastingen, bedoeld in [artikel 8.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8).
-
-3. Voor de groepsentiteiten in een staat waarbij zich niet een van de omstandigheden, bedoeld in het tweede lid, voordoet, wordt voldaan aan de consistentiestandaard indien de kwalificerende binnenlandse bijheffing in die staat voldoet aan de voorwaarden bedoeld in het eerste lid.
-
-4. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- **securitisatie-entiteit:** een entiteit die deelneemt aan een securitisatie-regeling en die aan alle volgende voorwaarden voldoet:
-
-- a. de entiteit voert alleen activiteiten uit die een of meer securitisatie-regelingen faciliteren;
-
-- b. de entiteit verstrekt zekerheid over haar activa ten gunste van haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit;
-
-- c. de entiteit betaalt alle liquide middelen die zij uit haar activa ontvangt jaarlijks of vaker uit aan haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit, anders dan:
-
-- 1°. liquide middelen die worden aangehouden ter dekking van een winstbedrag voor een uiteindelijke distributie aan aandeelhouders dat volgens de voorwaarden van de regeling vereist is; of
-
-- 2°. liquide middelen die redelijkerwijs vereist zijn onder de voorwaarden van de regeling om voorzieningen te treffen voor toekomstige betalingen die door de entiteit moeten worden gedaan of waarschijnlijk zullen worden gedaan krachtens de voorwaarden van de regeling, of om de kredietwaardigheid van de entiteit te behouden of te verbeteren.
-
-- **securitisatie-regeling:** een regeling die aan de volgende voorwaarden voldoet:
-
-- a. de regeling heeft tot doel een portefeuille van activa of blootstellingen aan activa te bundelen en opnieuw te verpakken voor investeerders die geen groepsentiteit van de groep zijn, op een manier die een of meer geïdentificeerde groepen van activa wettelijk scheidt; en
-
-- b. de regeling beperkt de blootstelling van die investeerders aan het risico van insolventie van een entiteit die de wettelijk gescheiden activa bezit, door de mogelijkheid van geïdentificeerde schuldeisers van die entiteit of van een andere entiteit in de regeling om claims tegen haar in te dienen te beheersen door middel van contractuele overeenkomsten met die schuldeisers.
-
-### Hoofdstuk 5. Transitieregels ([hoofdstuk 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14))
-
-##### Artikel 9. In aanmerking te nemen actieve belastinglatentie bij overdracht van activa
-
-1. Voor de toepassing van [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) kan de groepsentiteit die activa verkrijgt van een andere groepsentiteit een actieve belastinglatentie in aanmerking nemen ter zake van de verworven activa, voor zover de multinationale groep of binnenlandse groep aannemelijk maakt dat de overdragende groepsentiteit belasting heeft betaald ter zake van de overdracht en dat de overdragende groepsentiteit een actieve belastinglatentie, die op grond van artikel 14.1, eerste lid, van de wet in aanmerking had kunnen worden genomen ware die latentie gevormd, heeft herzien of niet heeft opgenomen, omdat het resultaat van de overdracht is opgenomen in de belastbare winst van de overdragende groepsentiteit.
-
-2. Voor de toepassing van het eerste lid wordt een bedrag aan betrokken belastingen aangemerkt als door de overdragende groepsentiteit betaalde belastingen ter zake van de overdracht, indien de multinationale groep of binnenlandse groep aannemelijk maakt dat dit bedrag aan betrokken belastingen toerekenbaar is aan de overdracht en op grond van [artikel 7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=7.5) aan de overdragende groepsentiteit zou zijn toegerekend.
-
-3. Een actieve belastinglatentie als bedoeld in het eerste lid, wordt in aanmerking genomen voor het verschil tussen de fiscale boekwaarde en de boekwaarde van het activum, bepaald overeenkomstig [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1), vermenigvuldigd met het minimumbelastingtarief of, indien dit lager is, het van toepassing zijnde binnenlandse belastingtarief.
-
-4. Ingeval een groepsentiteit een activum verkrijgt waarop [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) van toepassing is en dat activum in haar financiële verslaggeving waardeert op reële waarde en op grond van de voorgaande leden een actieve belastinglatentie in aanmerking had kunnen nemen, kan de groepsentiteit er, in afwijking van het eerste lid, voor kiezen om de boekwaarde van dat activum uit de financiële verslaggeving over te nemen in alle daaropvolgende jaren.
-
-### Hoofdstuk 6. Slotbepalingen
-
-##### Artikel 10. Inwerkingtreding
-
-Dit besluit treedt in werking met ingang van 31 december 2024 en werkt terug tot en met 31 december 2023.
-
-##### Artikel 11. Citeertitel
-
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit minimumbelasting 2024.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
 ##### Artikel 6a. Beoordeling herzieningstermijn van geaggregeerde passieve belastinglatenties
 
 1. Voor de toepassing van [artikel 7.3, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.3) kan een groepsentiteit ten aanzien van een geaggregeerde passieve belastinglatentie die betrekking heeft op een grootboekrekening of een geaggregeerde passieve belastinglatentiecategorie gezamenlijk beoordelen of een bedrag aan passieve belastinglatentie niet is herzien en niet is betaald binnen de periode, bedoeld in dat artikel.
@@ -294,25 +170,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 13. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- a. **geaggregeerde passieve belastinglatentiecategorie:** verschillende passieve belastinglatenties die betrekking hebben op twee of meer grootboekrekeningen die in overeenstemming zijn met de rekeningschema’s die zijn gebruikt voor de toepassing van [artikel 6.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1) en onderdeel zijn van dezelfde balansrekening of subbalansrekening, en die kunnen bestaan uit passieve kortetermijnbelastinglatenties en passieve langetermijnbelastinglatenties;
+- a. *geaggregeerde passieve belastinglatentiecategorie:* verschillende passieve belastinglatenties die betrekking hebben op twee of meer grootboekrekeningen die in overeenstemming zijn met de rekeningschema’s die zijn gebruikt voor de toepassing van [artikel 6.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1) en onderdeel zijn van dezelfde balansrekening of subbalansrekening, en die kunnen bestaan uit passieve kortetermijnbelastinglatenties en passieve langetermijnbelastinglatenties;
 
-- b. **passieve kortetermijnbelastinglatentie:** een afzonderlijke passieve belastinglatentie of een geaggregeerde passieve belastinglatentie die is gevormd ter zake van een grootboekrekening die wordt herzien binnen vijf verslagjaren volgend op het verslagjaar waarin deze is opgekomen;
+- b. *passieve kortetermijnbelastinglatentie:* een afzonderlijke passieve belastinglatentie of een geaggregeerde passieve belastinglatentie die is gevormd ter zake van een grootboekrekening die wordt herzien binnen vijf verslagjaren volgend op het verslagjaar waarin deze is opgekomen;
 
-- c. **passieve langetermijnbelastinglatentie:** een afzonderlijke passieve belastinglatentie of een geaggregeerde passieve belastinglatentie die is gevormd ter zake van een grootboekrekening die niet wordt herzien binnen vijf verslagjaren volgend op het verslagjaar waarin deze is opgekomen;
+- c. *passieve langetermijnbelastinglatentie:* een afzonderlijke passieve belastinglatentie of een geaggregeerde passieve belastinglatentie die is gevormd ter zake van een grootboekrekening die niet wordt herzien binnen vijf verslagjaren volgend op het verslagjaar waarin deze is opgekomen;
 
-- d. **getoetste verslagjaar:** het verslagjaar waarin een passieve belastinglatentie is opgekomen en in aanmerking is genomen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties;
+- d. *getoetste verslagjaar:* het verslagjaar waarin een passieve belastinglatentie is opgekomen en in aanmerking is genomen in het totale bedrag van de gecorrigeerde mutaties in belastinglatenties;
 
-- e. **toetsingsperiode:** een periode van vijf verslagjaren volgend op het getoetste verslagjaar;
+- e. *toetsingsperiode:* een periode van vijf verslagjaren volgend op het getoetste verslagjaar;
 
-- f. **niet-toegestaan saldo:** het totale bedrag aan passieve belastinglatenties dat niet is herzien voor het einde van de toetsingsperiode en het overschot betreft van het openstaande saldo van de passieve belastinglatentie ten opzichte van het maximaal toegestane bedrag;
+- f. *niet-toegestaan saldo:* het totale bedrag aan passieve belastinglatenties dat niet is herzien voor het einde van de toetsingsperiode en het overschot betreft van het openstaande saldo van de passieve belastinglatentie ten opzichte van het maximaal toegestane bedrag;
 
-- g. **openstaand saldo:** het saldo aan passieve belastinglatenties aan het eind van de toetsingsperiode dat is berekend vanaf het overgangsjaar;
+- g. *openstaand saldo:* het saldo aan passieve belastinglatenties aan het eind van de toetsingsperiode dat is berekend vanaf het overgangsjaar;
 
-- h:. **maximaal toegestane bedrag:**
+- h: *maximaal toegestane bedrag:*
 
-- a. indien de eerst opgekomen passieve belastinglatentie wordt aangemerkt als de herziene passieve belastinglatentie: de som van de netto toename van het openstaande saldo voor elk verslagjaar in de toetsingsperiode; of
+   - a. indien de eerst opgekomen passieve belastinglatentie wordt aangemerkt als de herziene passieve belastinglatentie: de som van de netto toename van het openstaande saldo voor elk verslagjaar in de toetsingsperiode; of
 
-- b. indien de laatst opgekomen passieve belastinglatentie wordt aangemerkt als de herziene passieve belastinglatentie: het netto bedrag van de in de toetsingsperiode opgekomen en herziene passieve belastinglatenties indien dat bedrag ten minste nihil bedraagt.
+   - b. indien de laatst opgekomen passieve belastinglatentie wordt aangemerkt als de herziene passieve belastinglatentie: het netto bedrag van de in de toetsingsperiode opgekomen en herziene passieve belastinglatenties indien dat bedrag ten minste nihil bedraagt.
 
 14. Voor de toepassing van het dertiende lid, onderdeel a, wordt niet in aanmerking genomen:
 
@@ -386,16 +262,100 @@ C: de verrekenbare buitenlandse belasting met betrekking tot het buitenlandse br
 
 3. Indien de informatieaangifte-indienende groepsentiteit daarvoor kiest, wordt de toerekening van betrokken belastingen ten aanzien van gecorrigeerde mutaties in belastinglatenties, bedoeld in het eerste lid, voor een periode van vijf verslagjaren buiten beschouwing gelaten.
 
+### Hoofdstuk 4. Berekening van het effectieve belastingtarief en de bijheffing (hoofdstuk 8 van de wet)
+
+##### Artikel 7. Het bedrag van de gebruiksrechten van de lessee
+
+1. Voor de toepassing van [artikel 8.3, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.3), wordt de waarde van de gebruiksrechten van de lessee bepaald op,
+
+- a. indien de lessee een groepsentiteit is van de multinationale groep of binnenlandse groep waartoe de lessor behoort: het bedrag van de gebruiksrechten, nadat rekening is gehouden met consolidatiecorrecties ter eliminatie van de intra-groepsleasetransactie;
+
+- b. indien de lessee geen groepsentiteit is van de multinationale groep of binnenlandse groep waartoe de lessor behoort: het niet-gedisconteerde bedrag van de nog verschuldigde betalingen op grond van de leaseovereenkomst, rekening houdend met eventuele toevoegingen die in aanmerking zouden zijn genomen voor het bepalen van het bedrag van de gebruiksrechten bij toepassing van de financiële verslaggevingsstandaard van de lessor.
+
+2. Niettegenstaande het eerste lid, bedraagt de waarde van de gebruiksrechten van de lessee nihil, indien een activum regelmatig en meerdere keren gedurende het verslagjaar ter beschikking is gesteld aan verschillende lessees, waarbij de gemiddelde leaseperiode, met inbegrip van eventuele verlengingen en vernieuwingen van de lease, voor elke lessee 30 dagen of minder bedraagt.
+
 ##### Artikel 7a. Aankoopprijsaanpassingen in de kwalificerende financiële verslaggeving
 
 Indien aanpassingen aan de boekwaarde van activa en passiva die toerekenbaar zijn aan de aankoop van een groepsentiteit zijn verwerkt in de financiële verslaggeving, wordt die financiële verslaggeving niet aangemerkt als kwalificerende financiële verslaggeving als bedoeld in [artikel 8.8, twaalfde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8), tenzij wordt voldaan aan de volgende voorwaarden:
 
-- a. de groep heeft geen kwalificerend landenrapport ingediend voor een verslagjaar dat aanvangt na 31 december 2022 dat is gebaseerd op financiële verslaggeving waarin aanpassingen aan de boekwaarde van activa en passiva die toerekenbaar zijn aan de aankoop van de verworven groepsentiteit niet zijn verwerkt, behalve wanneer de groepsentiteit wettelijk verplicht was om deze aanpassingen op te nemen in haar financiële verslaggeving;
+- a. de groep heeft geen kwalificerend landenrapport ingediend voor een verslagjaar dat aanvangt na 31 december 2022 dat is gebaseerd op financiële verslaggeving waarin aanpassingen aan de boekwaarde van activa en passiva die toerekenbaar zijn aan de aankoop van de verworven groepsentiteit niet zijn verwerkt, behalve wanneer de groepsentiteit wettelijk verplicht was om deze aanpassingen op te nemen in haar financiële verslaggeving;
 
-- b. elke vermindering van het inkomen van de groepsentiteit die toerekenbaar is aan een waardevermindering van goodwill met betrekking tot transacties die zijn aangegaan na 30 november 2021, wordt voor de toepassing van de vereenvoudigde berekening van het effectieve belastingtarief, bedoeld in [artikel 8.8, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8), en voor de berekening van artikel 8.8, eerste lid, onderdeel c, van de wet toegevoegd aan de winst voor belastingen, mits de financiële verslaggeving geen omkering van uitgestelde belastingverplichting of erkenning of toename van een uitgestelde belastingvordering heeft met betrekking tot de waardevermindering van goodwill.
+- b. elke vermindering van het inkomen van de groepsentiteit die toerekenbaar is aan een waardevermindering van goodwill met betrekking tot transacties die zijn aangegaan na 30 november 2021, wordt voor de toepassing van de vereenvoudigde berekening van het effectieve belastingtarief, bedoeld in [artikel 8.8, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8), en voor de berekening van artikel 8.8, eerste lid, onderdeel c, van de wet toegevoegd aan de winst voor belastingen, mits de financiële verslaggeving geen omkering van uitgestelde belastingverplichting of erkenning of toename van een uitgestelde belastingvordering heeft met betrekking tot de waardevermindering van goodwill.
 
-### Hoofdstuk 5. Transitieregels ([hoofdstuk 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&hoofdstuk=14))
+##### Artikel 8. De consistentiestandaard en toepassing van de kwalificerende binnenlandse bijheffing veilige haven
+
+1. Een kwalificerende binnenlandse bijheffing van een staat voldoet aan de consistentiestandaard, bedoeld in [artikel 8.13, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.13), indien, met inachtneming van de vereiste afwijkingen die betrekking hebben op de berekening van een kwalificerende binnenlandse bijheffing:
+
+- a. de berekening van deze bijheffing leidt tot dezelfde uitkomst als de uitkomst bij toepassing van een kwalificerende inkomen-inclusiemaatregel of een kwalificerende onderbelastewinstmaatregel;
+
+- b. een staat voor de toepassing van een kwalificerende binnenlandse bijheffing:
+
+   - 1°. geen of een beperktere variant van een met [artikel 8.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.3) vergelijkbare bepaling hanteert;
+
+   - 2°. geen of een beperktere variant van een met [artikel 8.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.7) vergelijkbare bepaling hanteert; of
+
+   - 3°. een belastingtarief hanteert dat hoger is dan het minimumbelastingtarief.
+
+2. [Artikel 8.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=8.13) is niet van toepassing op:
+
+- a. de groepsentiteiten van een multinationale groep in een staat, indien een of meer van deze groepsentiteiten:
+
+   - 1°. een doorkijkentiteit is die een uiteindelijkemoederentiteit is en niet is onderworpen aan een kwalificerende binnenlandse bijheffing;
+
+   - 2°. een doorkijkentiteit is die onderworpen is aan een inkomen-inclusiebijheffing en niet aan een kwalificerende binnenlandse bijheffing; of
+
+   - 3°. een entiteit is ten aanzien waarvan zonder enige beperking een kwalificerende binnenlandse bijheffing wordt verminderd op grond van een met [artikel 14.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.2) vergelijkbare regeling voor multinationale groepen in de aanvangsfase;
+
+- b. beleggingsentiteiten in een staat die in vergelijkbare omstandigheden voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) onder de reikwijdte van [artikel 10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.4), [10.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.5) of [10.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=10.6) zouden vallen en die niet zijn onderworpen aan een kwalificerende binnenlandse bijheffing in die staat;
+
+- c. een joint venture of een joint venture-groep in een staat ten aanzien waarvan de kwalificerende binnenlandse bijheffing niet wordt geheven bij de joint venture of de leden van de joint venture-groep in die staat;
+
+- d. een staatloze doorkijkentiteit die niet is onderworpen aan een kwalificerende binnenlandse bijheffing in de staat waarin zij is opgericht;
+
+- e. een securitisatie-entiteit; of
+
+- f. de groepsentiteiten van een multinationale groep die gevestigd zijn in een staat indien een of meer van die groepsentiteiten een of meer actieve belastinglatenties als bedoeld in [artikel 14.1, tweede lid, onderdeel b, c, of d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) hebben gevormd en de aanwending van die belastinglatentie of belastinglatenties voor de berekening van de binnenlandse bijheffing niet is uitgesloten van het totale bedrag aan gecorrigeerde mutaties in belastinglatenties of de berekening van de vereenvoudigde betrokken belastingen, bedoeld in [artikel 8.8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.8).
+
+3. Voor de groepsentiteiten in een staat waarbij zich niet een van de omstandigheden, bedoeld in het tweede lid, voordoet, wordt voldaan aan de consistentiestandaard indien de kwalificerende binnenlandse bijheffing in die staat voldoet aan de voorwaarden bedoeld in het eerste lid.
+
+4. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- *securitisatie-entiteit:* een entiteit die deelneemt aan een securitisatie-regeling en die aan alle volgende voorwaarden voldoet:
+
+   - a. de entiteit voert alleen activiteiten uit die een of meer securitisatie-regelingen faciliteren;
+
+   - b. de entiteit verstrekt zekerheid over haar activa ten gunste van haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit;
+
+   - c. de entiteit betaalt alle liquide middelen die zij uit haar activa ontvangt jaarlijks of vaker uit aan haar schuldeisers of de schuldeisers van een andere securitisatie-entiteit, anders dan:
+
+      - 1°. liquide middelen die worden aangehouden ter dekking van een winstbedrag voor een uiteindelijke distributie aan aandeelhouders dat volgens de voorwaarden van de regeling vereist is; of
+
+      - 2°. liquide middelen die redelijkerwijs vereist zijn onder de voorwaarden van de regeling om voorzieningen te treffen voor toekomstige betalingen die door de entiteit moeten worden gedaan of waarschijnlijk zullen worden gedaan krachtens de voorwaarden van de regeling, of om de kredietwaardigheid van de entiteit te behouden of te verbeteren.
+
+- *securitisatie-regeling:* een regeling die aan de volgende voorwaarden voldoet:
+
+   - a. de regeling heeft tot doel een portefeuille van activa of blootstellingen aan activa te bundelen en opnieuw te verpakken voor investeerders die geen groepsentiteit van de groep zijn, op een manier die een of meer geïdentificeerde groepen van activa wettelijk scheidt; en
+
+   - b. de regeling beperkt de blootstelling van die investeerders aan het risico van insolventie van een entiteit die de wettelijk gescheiden activa bezit, door de mogelijkheid van geïdentificeerde schuldeisers van die entiteit of van een andere entiteit in de regeling om claims tegen haar in te dienen te beheersen door middel van contractuele overeenkomsten met die schuldeisers.
+
+### Hoofdstuk 5. Transitieregels (hoofdstuk 14 van de wet)
+
+##### Artikel 9. In aanmerking te nemen actieve belastinglatentie bij overdracht van activa
+
+1. Voor de toepassing van [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) kan de groepsentiteit die activa verkrijgt van een andere groepsentiteit een actieve belastinglatentie in aanmerking nemen ter zake van de verworven activa, voor zover de multinationale groep of binnenlandse groep aannemelijk maakt dat de overdragende groepsentiteit belasting heeft betaald ter zake van de overdracht en dat de overdragende groepsentiteit een actieve belastinglatentie, die op grond van artikel 14.1, eerste lid, van de wet in aanmerking had kunnen worden genomen ware die latentie gevormd, heeft herzien of niet heeft opgenomen, omdat het resultaat van de overdracht is opgenomen in de belastbare winst van de overdragende groepsentiteit.
+
+2. Voor de toepassing van het eerste lid wordt een bedrag aan betrokken belastingen aangemerkt als door de overdragende groepsentiteit betaalde belastingen ter zake van de overdracht, indien de multinationale groep of binnenlandse groep aannemelijk maakt dat dit bedrag aan betrokken belastingen toerekenbaar is aan de overdracht en op grond van [artikel 7.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=7.5) aan de overdragende groepsentiteit zou zijn toegerekend.
+
+3. Een actieve belastinglatentie als bedoeld in het eerste lid, wordt in aanmerking genomen voor het verschil tussen de fiscale boekwaarde en de boekwaarde van het activum, bepaald overeenkomstig [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1), vermenigvuldigd met het minimumbelastingtarief of, indien dit lager is, het van toepassing zijnde binnenlandse belastingtarief.
+
+4. Ingeval een groepsentiteit een activum verkrijgt waarop [artikel 14.1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=14.1) van toepassing is en dat activum in haar financiële verslaggeving waardeert op reële waarde en op grond van de voorgaande leden een actieve belastinglatentie in aanmerking had kunnen nemen, kan de groepsentiteit er, in afwijking van het eerste lid, voor kiezen om de boekwaarde van dat activum uit de financiële verslaggeving over te nemen in alle daaropvolgende jaren.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 10. Inwerkingtreding
+
+Dit besluit treedt in werking met ingang van 31 december 2024 en werkt terug tot en met 31 december 2023.
+
+##### Artikel 11. Citeertitel
+
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit minimumbelasting 2024.

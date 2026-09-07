@@ -1,186 +1,106 @@
 ---
 title: "Besluit van 9 november 2024, houdende regels over maatschappelijke ondersteuning en de bestrijding van huiselijk geweld en kindermishandeling op Bonaire, Sint Eustatius en Saba (Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES)"
+citeertitel: "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES"
 identifier: "BWBR0050401"
-country: "nl"
-rank: "amvb_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050401"
+categorie: "Overig"
 soort: "AMvB-BES"
-stam_id: "17266763"
-version_id: "30412002"
-internal_id: "C43614951"
-label_id: "17172774"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050401/2025-01-01/0"
-intitule_bron: "Stb.2024-342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-09"
-intitule_published: "2024-11-13"
-intitule_in_force: "2024-11-13"
-intitule_status: "goed"
-original_publication: "Stb.2024-342"
-original_signed_date: "2024-11-09"
-original_published_date: "2024-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-342"
-entry_into_force_date: "2024-11-14"
-jci_1_3: "jci1.3:c:BWBR0050401&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050401&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES"
-signed_date: "2024-11-09"
-entry_into_force: "2024-11-14"
+publicatiedatum: 2024-11-14
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050401"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van 9 november 2024, houdende regels over maatschappelijke ondersteuning en de bestrijding van huiselijk geweld en kindermishandeling op Bonaire, Sint Eustatius en Saba (Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES)
 
 ### Hoofdstuk 1. Begripsbepalingen en algemene bepalingen
-
-### Hoofdstuk 1. Begripsbepalingen en algemene bepalingen
-
-### Hoofdstuk 2. Maatschappelijke ondersteuning
-
-### Hoofdstuk 3. Bestrijden huiselijk geweld en kindermishandeling
-
-### Hoofdstuk 4. Verwerking van persoonsgegevens
-
-### Hoofdstuk 2. Maatschappelijke ondersteuning
-
-##### Artikel 6.1
-
-1. Indien een cliënt onmiddellijk voorafgaand aan het tijdstip waarop [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&z=2025-01-01&g=2025-01-01) in werking treedt een maatwerkvoorziening ontvangt, behoudt deze cliënt een maatwerkvoorziening tot de eerste dag van het tweede kalenderjaar na dat tijdstip, tenzij deze cliënt niet meer op een maatwerkvoorziening is aangewezen of eerder een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01) of [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) wordt genomen.
-
-2. Met betrekking tot een cliënt als bedoeld in het eerste lid, verstrekt de aanbieder van maatschappelijke ondersteuning aan Onze Minister en het bestuurscollege zo spoedig mogelijk:
-
-- a. het identificatienummer van de cliënt;
-
-- b. de reden waarom de maatwerkvoorziening is toegekend;
-
-- b. de aard, inhoud en omvang van de maatwerkvoorziening en de aanbieder van maatschappelijke ondersteuning van wie de cliënt de voorziening ontvangt.
-
-3. Het bestuurscollege voert, met overeenkomstige toepassing van [artikel 2.6, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), zonder melding als bedoeld in artikel 2.6, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat de cliënt bij Onze Minister een aanvraag als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2025-01-01&g=2025-01-01) kan doen of het bestuurscollege een besluit als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) kan nemen.
-
-##### Artikel 6.2
-
-In afwijking van [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.6&artikel=2.23&z=2025-01-01&g=2025-01-01), zijn de op grond van dat lid bij regeling aangewezen aanbieders van maatschappelijke ondersteuning voor beroepskrachten en andere personen die beroepsmatig met diens cliënten in contact kunnen komen en op het tijdstip van inwerkingtreding van dat lid voor hem werkzaam zijn uiterlijk binnen een bij regeling van Onze Minister vast te stellen termijn na dat tijdstip in het bezit van een verklaring omtrent het gedrag die niet eerder dan drie maanden voor het verstrijken van de vastgestelde termijn is afgegeven. De termijn kan voor verschillende groepen beroepskrachten verschillend worden vastgesteld.
-
-##### Artikel 6.3
-
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
-
-##### Artikel 6.4
-
-Wijzigt het Besluit zorgverzekering BES.
-
-##### Artikel 6.5
-
-Dit besluit treedt in werking met ingang van 1 januari 2025, met uitzondering van de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2025-01-01&g=2025-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01). Artikel 4.9 treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Artikel 6.4 treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2022.
-
-##### Artikel 6.6
-
-Dit besluit wordt aangehaald als: Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES.
-
-Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 7 juli 2023, kenmerk 3627843-1049128-WJZ;
-
-Gelet op [artikel 18.4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.5) en [18.4.7i Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7i) en [artikel 3.5 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=3.5);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 6 december 2023, no. W13.23.00170/III);
-
-Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 november 2024, kenmerk 3988477-1073792-WJZ;
-
-Hebben goedgevonden en verstaan:
-
-### Hoofdstuk 6. Overgangs- en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aanbieder van maatschappelijke ondersteuning:** natuurlijke persoon of rechtspersoon die een algemene voorziening of een maatwerkvoorziening levert;
+- *aanbieder van maatschappelijke ondersteuning:* natuurlijke persoon of rechtspersoon die een algemene voorziening of een maatwerkvoorziening levert;
 
-- **aanbieder van jeugdzorg:** aanbieder van jeugdzorg als bedoeld in [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a);
+- *aanbieder van jeugdzorg:* aanbieder van jeugdzorg als bedoeld in [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a);
 
-- **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling;
+- *AMHK:* advies- en meldpunt huiselijk geweld en kindermishandeling;
 
-- **algemene voorziening:** aanbod van diensten of activiteiten dat, zonder voorafgaand onderzoek naar de behoeften, persoonskenmerken en mogelijkheden van de gebruikers, toegankelijk is en dat is gericht op maatschappelijke ondersteuning;
+- *algemene voorziening:* aanbod van diensten of activiteiten dat, zonder voorafgaand onderzoek naar de behoeften, persoonskenmerken en mogelijkheden van de gebruikers, toegankelijk is en dat is gericht op maatschappelijke ondersteuning;
 
-- **begeleiding:** activiteiten gericht op het bevorderen van zelfredzaamheid en participatie van een cliënt opdat de cliënt zo lang mogelijk in zijn eigen leefomgeving kan blijven of zich zo snel mogelijk weer op eigen kracht kan handhaven in de samenleving;
+- *begeleiding:* activiteiten gericht op het bevorderen van zelfredzaamheid en participatie van een cliënt opdat de cliënt zo lang mogelijk in zijn eigen leefomgeving kan blijven of zich zo snel mogelijk weer op eigen kracht kan handhaven in de samenleving;
 
-- **beroepskracht:** natuurlijke persoon die beroepsmatig werkzaam is voor een aanbieder;
+- *beroepskracht:* natuurlijke persoon die beroepsmatig werkzaam is voor een aanbieder;
 
-- **beschermd wonen:** wonen in een accommodatie van een instelling met daarbij behorend toezicht en begeleiding, gericht op het bevorderen van zelfredzaamheid en participatie, het psychisch en psychosociaal functioneren, stabilisatie van een psychiatrisch ziektebeeld, het voorkomen van verwaarlozing of maatschappelijke overlast of het afwenden van gevaar voor de cliënt of anderen, bestemd voor personen met psychische of psychosociale problemen, die niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
+- *beschermd wonen:* wonen in een accommodatie van een instelling met daarbij behorend toezicht en begeleiding, gericht op het bevorderen van zelfredzaamheid en participatie, het psychisch en psychosociaal functioneren, stabilisatie van een psychiatrisch ziektebeeld, het voorkomen van verwaarlozing of maatschappelijke overlast of het afwenden van gevaar voor de cliënt of anderen, bestemd voor personen met psychische of psychosociale problemen, die niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
 
-- **beschermingscode:** beschermingscode huiselijk geweld en kindermishandeling als bedoeld in[artikel 3.7, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-01&g=2025-01-01);
+- *beschermingscode:* beschermingscode huiselijk geweld en kindermishandeling als bedoeld in[artikel 3.7, eerste lid, aanhef](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-01&g=2025-01-01);
 
-- **bijzondere persoonsgegevens:** persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16);
+- *bijzondere persoonsgegevens:* persoonsgegevens als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16);
 
-- **cliënt:** persoon die gebruik maakt van een voorziening of door of voor wie een melding als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), is gedaan;
+- *cliënt:* persoon die gebruik maakt van een voorziening of door of voor wie een melding als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), is gedaan;
 
-- **gebruikelijke hulp:** hulp die naar algemeen aanvaarde opvattingen in redelijkheid mag worden verwacht van de partner, ouders, inwonende kinderen of andere huisgenoten;
+- *gebruikelijke hulp:* hulp die naar algemeen aanvaarde opvattingen in redelijkheid mag worden verwacht van de partner, ouders, inwonende kinderen of andere huisgenoten;
 
-- **(gezins)voogdij-instelling:** (gezins)voogdij-instelling als bedoeld in [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a);
+- *(gezins)voogdij-instelling:* (gezins)voogdij-instelling als bedoeld in [artikel 18.4.7a van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7a);
 
-- **houder van een kindercentrum:** een natuurlijk persoon van achttien jaar of ouder of een rechtspersoon die een voorziening waar kinderopvang plaatsvindt, niet zijnde gastouderopvang, exploiteert;
+- *houder van een kindercentrum:* een natuurlijk persoon van achttien jaar of ouder of een rechtspersoon die een voorziening waar kinderopvang plaatsvindt, niet zijnde gastouderopvang, exploiteert;
 
-- **huiselijk geweld:** lichamelijk, geestelijk of seksueel geweld of bedreiging daarmee door iemand uit de huiselijke kring;
+- *huiselijk geweld:* lichamelijk, geestelijk of seksueel geweld of bedreiging daarmee door iemand uit de huiselijke kring;
 
-- **huiselijke kring:** de partner of voormalige partner, een familielid, een huisgenoot of een persoon die regelmatig de woning bezoekt;
+- *huiselijke kring:* de partner of voormalige partner, een familielid, een huisgenoot of een persoon die regelmatig de woning bezoekt;
 
-- **hulpmiddel:** roerende zaak die bedoeld is om beperkingen in de zelfredzaamheid of de participatie te verminderen of weg te nemen;
+- *hulpmiddel:* roerende zaak die bedoeld is om beperkingen in de zelfredzaamheid of de participatie te verminderen of weg te nemen;
 
-- **inkomen:** de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24);
+- *inkomen:* de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24);
 
-- **kindcheck:** gestandaardiseerde controle of een vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld of kindermishandeling met wie de medewerker beroepsmatig in contact staat, verantwoordelijk is voor de verzorging en opvoeding van een minderjarige, met het oog op de veiligheid van die minderjarige;
+- *kindcheck:* gestandaardiseerde controle of een vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld of kindermishandeling met wie de medewerker beroepsmatig in contact staat, verantwoordelijk is voor de verzorging en opvoeding van een minderjarige, met het oog op de veiligheid van die minderjarige;
 
-- **kindermishandeling:** elke vorm van voor een minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel;
+- *kindermishandeling:* elke vorm van voor een minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel;
 
-- **maatschappelijke ondersteuning:** activiteiten gericht op het:
+- *maatschappelijke ondersteuning:* activiteiten gericht op het:
 
-- a. bevorderen van sociale samenhang, mantelzorg en vrijwilligerswerk, de toegankelijkheid van voorzieningen, diensten en ruimten voor mensen met een beperking en het bevorderen van de veiligheid en leefbaarheid, alsmede het voorkomen en bestrijden van huiselijk geweld;
+   - a. bevorderen van sociale samenhang, mantelzorg en vrijwilligerswerk, de toegankelijkheid van voorzieningen, diensten en ruimten voor mensen met een beperking en het bevorderen van de veiligheid en leefbaarheid, alsmede het voorkomen en bestrijden van huiselijk geweld;
 
-- b. ondersteunen van de zelfredzaamheid en de participatie van personen met een beperking of met chronische psychische of psychosociale problemen, zoveel mogelijk in de eigen leefomgeving;
+   - b. ondersteunen van de zelfredzaamheid en de participatie van personen met een beperking of met chronische psychische of psychosociale problemen, zoveel mogelijk in de eigen leefomgeving;
 
-- c. bieden van beschermd wonen en opvang;
+   - c. bieden van beschermd wonen en opvang;
 
-- **maatwerkvoorziening:** op de behoeften, persoonskenmerken en mogelijkheden van een persoon afgestemd geheel van diensten, hulpmiddelen, woningaanpassingen en andere maatregelen:
+- *maatwerkvoorziening:* op de behoeften, persoonskenmerken en mogelijkheden van een persoon afgestemd geheel van diensten, hulpmiddelen, woningaanpassingen en andere maatregelen:
 
-- a. ten behoeve van zelfredzaamheid, daaronder begrepen kortdurend verblijf in een instelling ter ontlasting van een mantelzorger, het daarvoor noodzakelijke vervoer, alsmede hulpmiddelen, woningaanpassingen en andere maatregelen;
+   - a. ten behoeve van zelfredzaamheid, daaronder begrepen kortdurend verblijf in een instelling ter ontlasting van een mantelzorger, het daarvoor noodzakelijke vervoer, alsmede hulpmiddelen, woningaanpassingen en andere maatregelen;
 
-- b. ten behoeve van participatie, daaronder begrepen het daarvoor noodzakelijke vervoer alsmede hulpmiddelen en andere maatregelen;
+   - b. ten behoeve van participatie, daaronder begrepen het daarvoor noodzakelijke vervoer alsmede hulpmiddelen en andere maatregelen;
 
-- c. ten behoeve van beschermd wonen en opvang;
+   - c. ten behoeve van beschermd wonen en opvang;
 
-- **mantelzorg:** hulp ten behoeve van zelfredzaamheid, participatie, beschermd wonen, opvang, jeugdzorg, het opvoeden en opgroeien van jeugdigen of zorg en overige diensten als bedoeld in het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404) die rechtstreeks voortvloeit uit een tussen personen bestaande sociale relatie en die niet wordt verleend in het kader van een hulpverlenend beroep;
+- *mantelzorg:* hulp ten behoeve van zelfredzaamheid, participatie, beschermd wonen, opvang, jeugdzorg, het opvoeden en opgroeien van jeugdigen of zorg en overige diensten als bedoeld in het [Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404) die rechtstreeks voortvloeit uit een tussen personen bestaande sociale relatie en die niet wordt verleend in het kader van een hulpverlenend beroep;
 
-- **medewerker:** een medewerker als bedoeld in [artikel 3.7, eerste lid, aanhef, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-01&g=2025-01-01), en een ambtenaar als bedoeld in artikel 3.7, tweede lid, onder b;
+- *medewerker:* een medewerker als bedoeld in [artikel 3.7, eerste lid, aanhef, en tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2025-01-01&g=2025-01-01), en een ambtenaar als bedoeld in artikel 3.7, tweede lid, onder b;
 
-- **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
+- *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- **opvang:** onderdak en begeleiding voor personen die de thuissituatie hebben verlaten, al dan niet in verband met risico’s voor hun veiligheid als gevolg van huiselijk geweld of mensenhandel, en niet in staat zijn zich op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit hun sociale netwerk te handhaven in de samenleving;
+- *opvang:* onderdak en begeleiding voor personen die de thuissituatie hebben verlaten, al dan niet in verband met risico’s voor hun veiligheid als gevolg van huiselijk geweld of mensenhandel, en niet in staat zijn zich op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit hun sociale netwerk te handhaven in de samenleving;
 
-- **participatie:** deelnemen aan het maatschappelijke verkeer;
+- *participatie:* deelnemen aan het maatschappelijke verkeer;
 
-- **partner:** de echtgenoot, de in de zin van het Nederlandse Burgerlijk Wetboek geregistreerde partner of de ongehuwde partner;
+- *partner:* de echtgenoot, de in de zin van het Nederlandse Burgerlijk Wetboek geregistreerde partner of de ongehuwde partner;
 
-- **persoonsgegevens betreffende iemands gezondheid:** persoonsgegevens betreffende iemands gezondheid als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16);
+- *persoonsgegevens betreffende iemands gezondheid:* persoonsgegevens betreffende iemands gezondheid als bedoeld in [artikel 16 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=16);
 
-- **verantwoordelijke:** de verantwoordelijke, bedoeld in [artikel 1, tweede lid, onderdeel d, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=1);
+- *verantwoordelijke:* de verantwoordelijke, bedoeld in [artikel 1, tweede lid, onderdeel d, van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=1);
 
-- **vertegenwoordiger:** een curator, mentor of gevolmachtigde van een cliënt, of indien deze ontbreekt, de partner van een cliënt, tenzij deze persoon dat niet wenst, dan wel, indien ook deze ontbreekt, een familielid van een cliënt, tenzij deze persoon dat niet wenst, die een cliënt vertegenwoordigt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake;
+- *vertegenwoordiger:* een curator, mentor of gevolmachtigde van een cliënt, of indien deze ontbreekt, de partner van een cliënt, tenzij deze persoon dat niet wenst, dan wel, indien ook deze ontbreekt, een familielid van een cliënt, tenzij deze persoon dat niet wenst, die een cliënt vertegenwoordigt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake;
 
-- **voogdijraad:** de voogdijraad, bedoeld in [artikel 1:238 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
+- *voogdijraad:* de voogdijraad, bedoeld in [artikel 1:238 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=238);
 
-- **voorziening:** algemene voorziening of maatwerkvoorziening;
+- *voorziening:* algemene voorziening of maatwerkvoorziening;
 
-- **woningaanpassing:** bouwkundige of woontechnische ingreep in of aan een woonruimte of aan een buitenruimte die aan een woonruimte is verbonden;
+- *woningaanpassing:* bouwkundige of woontechnische ingreep in of aan een woonruimte of aan een buitenruimte die aan een woonruimte is verbonden;
 
-- **zelfredzaamheid:** in staat zijn tot het uitvoeren van de noodzakelijke algemene dagelijkse levensverrichtingen en het voeren van een gestructureerd huishouden;
+- *zelfredzaamheid:* in staat zijn tot het uitvoeren van de noodzakelijke algemene dagelijkse levensverrichtingen en het voeren van een gestructureerd huishouden;
 
-- **zorgaanbieder:** de zorgaanbieder, bedoeld in [artikel 1, onderdeel f, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1).
+- *zorgaanbieder:* de zorgaanbieder, bedoeld in [artikel 1, onderdeel f, van het Besluit zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&artikel=1).
 
 ##### Artikel 1.2
 
@@ -223,6 +143,8 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 - b. na afloop van een verleende verblijfsvergunning voor bepaalde tijd tijdig een aanvraag heeft ingediend voor voortzetting daarvan of voor omzetting in een verblijfsvergunning voor onbepaalde tijd, tot op die aanvraag onherroepelijk is beslist.
 
 5. In aanvulling op het vierde lid kan bij regeling van Onze Minister worden bepaald in welke gevallen bepaalde categorieën van vreemdelingen, geheel of gedeeltelijk in aanmerking komen voor bij die regeling aan te geven maatwerkvoorzieningen.
+
+### Hoofdstuk 2. Maatschappelijke ondersteuning
 
 #### Paragraaf 2.1. Algemene maatregelen en algemene voorzieningen
 
@@ -614,9 +536,9 @@ Het bestuurscollege draagt zorg voor de inrichting van een AMHK.
 
 - e. het beslissen over:
 
-- 1°. zelf hulp bieden of hulp organiseren; of
+   - 1°. zelf hulp bieden of hulp organiseren; of
 
-- 2°. het doen van een melding.
+   - 2°. het doen van een melding.
 
 ### Hoofdstuk 4. Verwerking van persoonsgegevens
 
@@ -692,7 +614,7 @@ Een aanbieder van maatschappelijke ondersteuning die aan een cliënt een maatwer
 
 ##### Artikel 4.9
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 #### Paragraaf 4.3. Verwerking van persoonsgegevens overig
 
@@ -736,4 +658,36 @@ De bestuurscolleges werken met elkaar samen, indien dat voor een doeltreffende e
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+##### Artikel 6.1
+
+1. Indien een cliënt onmiddellijk voorafgaand aan het tijdstip waarop [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&z=2025-01-01&g=2025-01-01) in werking treedt een maatwerkvoorziening ontvangt, behoudt deze cliënt een maatwerkvoorziening tot de eerste dag van het tweede kalenderjaar na dat tijdstip, tenzij deze cliënt niet meer op een maatwerkvoorziening is aangewezen of eerder een besluit als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2025-01-01&g=2025-01-01) of [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) wordt genomen.
+
+2. Met betrekking tot een cliënt als bedoeld in het eerste lid, verstrekt de aanbieder van maatschappelijke ondersteuning aan Onze Minister en het bestuurscollege zo spoedig mogelijk:
+
+- a. het identificatienummer van de cliënt;
+
+- b. de reden waarom de maatwerkvoorziening is toegekend;
+
+- b. de aard, inhoud en omvang van de maatwerkvoorziening en de aanbieder van maatschappelijke ondersteuning van wie de cliënt de voorziening ontvangt.
+
+3. Het bestuurscollege voert, met overeenkomstige toepassing van [artikel 2.6, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-01-01&g=2025-01-01), zonder melding als bedoeld in artikel 2.6, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat de cliënt bij Onze Minister een aanvraag als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2025-01-01&g=2025-01-01) kan doen of het bestuurscollege een besluit als bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2025-01-01&g=2025-01-01) kan nemen.
+
+##### Artikel 6.2
+
+In afwijking van [artikel 2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=2&paragraaf=2.6&artikel=2.23&z=2025-01-01&g=2025-01-01), zijn de op grond van dat lid bij regeling aangewezen aanbieders van maatschappelijke ondersteuning voor beroepskrachten en andere personen die beroepsmatig met diens cliënten in contact kunnen komen en op het tijdstip van inwerkingtreding van dat lid voor hem werkzaam zijn uiterlijk binnen een bij regeling van Onze Minister vast te stellen termijn na dat tijdstip in het bezit van een verklaring omtrent het gedrag die niet eerder dan drie maanden voor het verstrijken van de vastgestelde termijn is afgegeven. De termijn kan voor verschillende groepen beroepskrachten verschillend worden vastgesteld.
+
+##### Artikel 6.3
+
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
+
+##### Artikel 6.4
+
+*Wijzigt het Besluit zorgverzekering BES.*
+
+##### Artikel 6.5
+
+Dit besluit treedt in werking met ingang van 1 januari 2025, met uitzondering van de [artikelen 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=4&paragraaf=4.2&artikel=4.9&z=2025-01-01&g=2025-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&hoofdstuk=6&artikel=6.4&z=2025-01-01&g=2025-01-01). Artikel 4.9 treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Artikel 6.4 treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2022.
+
+##### Artikel 6.6
+
+Dit besluit wordt aangehaald als: Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES.

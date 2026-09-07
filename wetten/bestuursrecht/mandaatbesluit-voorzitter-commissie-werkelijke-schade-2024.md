@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de secretaris-generaal van het Ministerie van Financiën van 6 januari 2025, kenmerk 2024-0000582936, houdende verlening van ondermandaat aan de voorzitter van de Commissie Werkelijke Schade inzake budget en personeel (Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024)"
+citeertitel: "Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024"
 identifier: "BWBR0050690"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-22"
-last_updated: "2025-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050690"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17344783"
-version_id: "30569072"
-internal_id: "C43821311"
-label_id: "17248814"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050690/2025-01-22/0"
-intitule_bron: "Stcrt.2025-2288"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-06"
-intitule_published: "2025-01-21"
-intitule_in_force: "2025-01-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-2288"
-original_signed_date: "2025-01-06"
-original_published_date: "2025-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-2288"
-entry_into_force_date: "2025-01-22"
-jci_1_3: "jci1.3:c:BWBR0050690&z=2025-01-22&g=2025-01-22"
-jci_1_0: "1.0:c:BWBR0050690&g=2025-01-22"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024"
-signed_date: "2025-01-06"
-entry_into_force: "2025-01-22"
+publicatiedatum: 2025-01-22
+laatste_update: 2025-01-22
+status: geldig
+toestand: 2025-01-22
+bron: "https://wetten.overheid.nl/BWBR0050690"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de secretaris-generaal van het Ministerie van Financiën van 6 januari 2025, kenmerk 2024-0000582936, houdende verlening van ondermandaat aan de voorzitter van de Commissie Werkelijke Schade inzake budget en personeel (Mandaatbesluit voorzitter Commissie Werkelijke Schade 2024)
-
-Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=12) en [13 van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&artikel=13), [artikel 15 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=15), [artikel 5.1 van de Wet hersteloperatie Toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.1), [artikel 5a van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a) en [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [10:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:6),
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a). **CWS:** de Commissie Werkelijke Schade als bedoeld in [artikel 3, eerste lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3);
+- a) *CWS:* de Commissie Werkelijke Schade als bedoeld in [artikel 3, eerste lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3);
 
-- b). **Voorzitter van de CWS:** de voorzitter als bedoeld in [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5) en [5a, eerst lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a);
+- b) *Voorzitter van de CWS:* de voorzitter als bedoeld in [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5) en [5a, eerst lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a);
 
-- c). **De operationeel directeur van de CWS:** de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a);
+- c) *De operationeel directeur van de CWS:* de operationeel directeur als bedoeld in [artikel 5a, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a);
 
 ##### Artikel 2. Ondervolmacht en ondermachtiging
 
@@ -142,7 +116,7 @@ Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur b
 
 - d. een (tijdelijke) uitzending in het buitenland;
 
-- e. schadeloosstelling, tot een maximumbedrag van € 5.000,-;
+- e. schadeloosstelling, tot een maximumbedrag van € 5.000,-;
 
 - f. de vaststelling feitelijk opgedragen functie;
 
@@ -154,7 +128,7 @@ Bij afwezigheid of verhindering van de voorzitter is de operationeel directeur b
 
 - j. de korting beloning bij arbeidsongeschiktheid.
 
-2. De voorzitter kan de bevoegdheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=4&z=2025-01-22&g=2025-01-22) van dit besluit, tot een maximumbedrag van € 144.000,– ondermandateren aan de operationeel directeur als bedoeld in [artikel Sa, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a).
+2. De voorzitter kan de bevoegdheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050690&hoofdstuk=2&artikel=4&z=2025-01-22&g=2025-01-22) van dit besluit, tot een maximumbedrag van € 144.000,– ondermandateren aan de operationeel directeur als bedoeld in [artikel Sa, tweede lid van de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=5a).
 
 3. In een ondermandaat wordt de omvang ervan aangegeven.
 
@@ -174,7 +148,7 @@ De ondertekening van uitgaande stukken zal luiden overeenkomstig [artikel 6 van 
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 18 oktober 2024.
+Dit besluit treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 18 oktober 2024.
 
 ##### Artikel 11. Citeertitel
 

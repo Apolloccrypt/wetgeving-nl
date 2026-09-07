@@ -1,137 +1,107 @@
 ---
 title: "Algemeen Reglement van de Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0050596"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050596"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17318193"
-version_id: "30510232"
-internal_id: "C43741191"
-label_id: "17222484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050596/2025-01-01/0"
-intitule_bron: "Stcrt.2024-42677"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-04"
-intitule_published: "2024-12-30"
-intitule_in_force: "2024-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-42677"
-original_signed_date: "2024-11-04"
-original_published_date: "2024-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-42677"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050596&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050596&g=2025-01-01"
-citeertitel_status: "officieel"
-signed_date: "2024-11-04"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050596"
+opgehaald: 2026-09-07
 ---
+
 # Algemeen Reglement van de Stichting Nederlands Fonds voor de Film
-
-gelet op het bepaalde in de [Algemene wet bestuursrech](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)t (Awb),
-
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van **4 november 2024**,
-
-besluit:
 
 ##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
-- **activiteitenplan:** het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van filmactiviteiten niet zijnde een filmproductie;
+- *activiteitenplan:* het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van filmactiviteiten niet zijnde een filmproductie;
 
-- **afwerking:** het voor (bioscoop)vertoning en verdere exploitatie gereed maken van een filmproductie na voltooiing van de werkkopie;
+- *afwerking:* het voor (bioscoop)vertoning en verdere exploitatie gereed maken van een filmproductie na voltooiing van de werkkopie;
 
-- **animatie:** een filmproductie die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
+- *animatie:* een filmproductie die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
 
-- **arthouse film:** een speelfilm waarbij de nadruk op de artistieke kwaliteit ligt en het eindresultaat dusdanig bijzonder is dat dit in potentie nationaal of internationaal herkend en gewaardeerd wordt;
+- *arthouse film:* een speelfilm waarbij de nadruk op de artistieke kwaliteit ligt en het eindresultaat dusdanig bijzonder is dat dit in potentie nationaal of internationaal herkend en gewaardeerd wordt;
 
-- **begroting:** de gedetailleerde financiële onderbouwing van de kosten van een filmproductie of filmactiviteit;
+- *begroting:* de gedetailleerde financiële onderbouwing van de kosten van een filmproductie of filmactiviteit;
 
-- **bestuur:** het bestuur van het Fonds;
+- *bestuur:* het bestuur van het Fonds;
 
-- **bioscoopuitbreng:** de landelijke distributie van een filmproductie, die na de première -voorafgaand aan de non-theatrical release – in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
+- *bioscoopuitbreng:* de landelijke distributie van een filmproductie, die na de première -voorafgaand aan de non-theatrical release – in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
 
-- **categorie:** een soort filmproductie;
+- *categorie:* een soort filmproductie;
 
-- **code diversiteit & inclusie:** de gedragscode gericht op een gelijkwaardige en toegankelijke cultuursector voor makers, producenten, werkenden en publiek, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *code diversiteit & inclusie:* de gedragscode gericht op een gelijkwaardige en toegankelijke cultuursector voor makers, producenten, werkenden en publiek, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **coproductie:** een filmproductie, waaraan twee of meer coproducenten risicodragend, op basis van een door alle partijen goedgekeurd filmplan of scenario een inhoudelijke en financiële bijdrage leveren;
+- *coproductie:* een filmproductie, waaraan twee of meer coproducenten risicodragend, op basis van een door alle partijen goedgekeurd filmplan of scenario een inhoudelijke en financiële bijdrage leveren;
 
-- **documentaire:** een non-fictie filmproductie geschikt voor bioscoopvertoning die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
+- *documentaire:* een non-fictie filmproductie geschikt voor bioscoopvertoning die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
 
-- **documentaire script:** de inhoudelijke opzet voor een documentaire met daarin opgenomen de visie van de regisseur op het onderwerp, de stijl, de vorm en de ontwikkeling binnen de vertelling;
+- *documentaire script:* de inhoudelijke opzet voor een documentaire met daarin opgenomen de visie van de regisseur op het onderwerp, de stijl, de vorm en de ontwikkeling binnen de vertelling;
 
-- **eindexploitant:** een marktpartij die via vertoningen in bioscopen- of filmtheaters, publieke of commerciële omroepkanalen dan wel op basis van een verdienmodel van abonnementen, advertenties of transacties filmproducties en afgeleide en andere audiovisuele werken openbaar maakt
+- *eindexploitant:* een marktpartij die via vertoningen in bioscopen- of filmtheaters, publieke of commerciële omroepkanalen dan wel op basis van een verdienmodel van abonnementen, advertenties of transacties filmproducties en afgeleide en andere audiovisuele werken openbaar maakt
 
-- **Fair practice code:** de gedragscode voor ondernemen en werken in kunst, cultuur en creatieve industrie, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *Fair practice code:* de gedragscode voor ondernemen en werken in kunst, cultuur en creatieve industrie, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **filmconsulent:** een gespecialiseerd filmprofessional die voor een beperkte periode door het Fonds is aangesteld om te adviseren over aanvragen bij het Fonds;
+- *filmconsulent:* een gespecialiseerd filmprofessional die voor een beperkte periode door het Fonds is aangesteld om te adviseren over aanvragen bij het Fonds;
 
-- **financieel & productioneel protocol:** het protocol waarin specifieke financiële en productionele vereisten die het Fonds aan filmproducties en filmactiviteiten stelt, zijn opgenomen;
+- *financieel & productioneel protocol:* het protocol waarin specifieke financiële en productionele vereisten die het Fonds aan filmproducties en filmactiviteiten stelt, zijn opgenomen;
 
-- **filmactiviteit:** activiteiten op het gebied van film, concreet in de tijd afgebakend, die niet als filmproductie kunnen worden aangemerkt;
+- *filmactiviteit:* activiteiten op het gebied van film, concreet in de tijd afgebakend, die niet als filmproductie kunnen worden aangemerkt;
 
-- **filmplan:** het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, voortbrengen en (doen) exploiteren van een filmproductie;
+- *filmplan:* het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, voortbrengen en (doen) exploiteren van een filmproductie;
 
-- **filmproductie:** een cinematografisch werk;
+- *filmproductie:* een cinematografisch werk;
 
-- **filmprofessional:** een natuurlijk persoon met aantoonbare gedegen en actuele kennis en ervaring op het gebied van filmproductie;
+- *filmprofessional:* een natuurlijk persoon met aantoonbare gedegen en actuele kennis en ervaring op het gebied van filmproductie;
 
-- **het Fonds:** Stichting Nederlands Fonds voor de Film;
+- *het Fonds:* Stichting Nederlands Fonds voor de Film;
 
-- **governance code cultuur:** normatief kader voor goed bestuur en toezicht in culturele organisaties, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *governance code cultuur:* normatief kader voor goed bestuur en toezicht in culturele organisaties, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **internationale coproductie:** een in de Nederlandse bioscoop of filmtheaters uit te brengen internationaal gecoproduceerde filmproductie. Bij een minoritaire coproductie is de Nederlandse producent in beperkte mate beslissingsbevoegd en verantwoordelijk en brengt tevens minder dan vijftig procent van de financiering van de filmproductie bijeen. Bij een majoritaire coproductie is de Nederlandse producent hoofdverantwoordelijk en beslissingsbevoegd en brengt tevens meer dan vijftig procent van de financiering van de filmproductie bijeen;
+- *internationale coproductie:* een in de Nederlandse bioscoop of filmtheaters uit te brengen internationaal gecoproduceerde filmproductie. Bij een minoritaire coproductie is de Nederlandse producent in beperkte mate beslissingsbevoegd en verantwoordelijk en brengt tevens minder dan vijftig procent van de financiering van de filmproductie bijeen. Bij een majoritaire coproductie is de Nederlandse producent hoofdverantwoordelijk en beslissingsbevoegd en brengt tevens meer dan vijftig procent van de financiering van de filmproductie bijeen;
 
-- **korte film:** een filmproductie met een vertoningsduur tot 60 minuten
+- *korte film:* een filmproductie met een vertoningsduur tot 60 minuten
 
-- **mainstream film:** een speelfilm waarbij de nadruk ligt op de publiekspotentie, dat wil zeggen de grootte van het publieksbereik in samenhang met de beoogde commerciële resultaten;
+- *mainstream film:* een speelfilm waarbij de nadruk ligt op de publiekspotentie, dat wil zeggen de grootte van het publieksbereik in samenhang met de beoogde commerciële resultaten;
 
-- **marktpartijen:** partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van filmproducties, in de ruimste zin des woords, ofwel partijen die risicodragende investeringen doen;
+- *marktpartijen:* partijen wier reguliere professionele activiteiten zijn gericht op het distribueren en exploiteren van filmproducties, in de ruimste zin des woords, ofwel partijen die risicodragende investeringen doen;
 
-- **mediabedrijf:** een rechtspersoon die zich bezighoudt met het verspreiden, dan wel doen verspreiden, van audiovisuele media-inhoud aan het algemene publiek of delen daarvan;
+- *mediabedrijf:* een rechtspersoon die zich bezighoudt met het verspreiden, dan wel doen verspreiden, van audiovisuele media-inhoud aan het algemene publiek of delen daarvan;
 
-- **non theatrical release:** alle mogelijke vormen van distributie van een filmproductie, uitgezonderd die via bioscopen en filmtheaters, waaronder in ieder geval wordt begrepen de distributie op DVD en Blu ray, via televisie, Video On Demand, pay per view- en online distributiekanalen;
+- *non theatrical release:* alle mogelijke vormen van distributie van een filmproductie, uitgezonderd die via bioscopen en filmtheaters, waaronder in ieder geval wordt begrepen de distributie op DVD en Blu ray, via televisie, Video On Demand, pay per view- en online distributiekanalen;
 
-- **onderzoek & experiment:** een filmproductie, in welke categorie dan ook, die naar het oordeel van het bestuur onderzoekend of grensverleggend is;
+- *onderzoek & experiment:* een filmproductie, in welke categorie dan ook, die naar het oordeel van het bestuur onderzoekend of grensverleggend is;
 
-- **ontwikkeling:** alle werkzaamheden verbonden aan de ontwikkeling van een filmproductie tot aan de productie ervan;
+- *ontwikkeling:* alle werkzaamheden verbonden aan de ontwikkeling van een filmproductie tot aan de productie ervan;
 
-- **producent:** de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
+- *producent:* de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
 
-- **productiekosten:** de kosten gemoeid met de realisering van een filmproductie;
+- *productiekosten:* de kosten gemoeid met de realisering van een filmproductie;
 
-- **productiemaatschappij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties of mediaproducties. De rechtspersoon is ten tijde van de aanvraag gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- *productiemaatschappij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties of mediaproducties. De rechtspersoon is ten tijde van de aanvraag gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- **realisering:** alle werkzaamheden na de fase van ontwikkeling die verbonden zijn aan het tot stand brengen en voor vertoning gereed maken van een filmproductie die bestemd is voor bioscoopuitbreng in Nederland;
+- *realisering:* alle werkzaamheden na de fase van ontwikkeling die verbonden zijn aan het tot stand brengen en voor vertoning gereed maken van een filmproductie die bestemd is voor bioscoopuitbreng in Nederland;
 
-- **regisseur:** een natuurlijk persoon die de artistieke regie voert over de uitvoering van een filmproductie;
+- *regisseur:* een natuurlijk persoon die de artistieke regie voert over de uitvoering van een filmproductie;
 
-- **scenario:** een beschrijving van opeenvolging van scènes en geschreven tekst met dialoog geschikt om te verfilmen tot een filmproductie;
+- *scenario:* een beschrijving van opeenvolging van scènes en geschreven tekst met dialoog geschikt om te verfilmen tot een filmproductie;
 
-- **scenarist:** de schrijver van een synopsis, treatment, scenario of documentaire script;
+- *scenarist:* de schrijver van een synopsis, treatment, scenario of documentaire script;
 
-- **speelfilm:** een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
+- *speelfilm:* een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
 
-- **storyboard:** een opeenvolging van op papier uitgewerkte shots van scènes uit een scenario bestaande uit tekeningen aangevuld met uitgeschreven informatie zoals de dialoog, het geluid en een korte beschrijving en de duur van elk shot;
+- *storyboard:* een opeenvolging van op papier uitgewerkte shots van scènes uit een scenario bestaande uit tekeningen aangevuld met uitgeschreven informatie zoals de dialoog, het geluid en een korte beschrijving en de duur van elk shot;
 
-- **subsidie:** de aanspraak op financiële middelen, door het Fonds verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het Fonds geleverde goederen of diensten;
+- *subsidie:* de aanspraak op financiële middelen, door het Fonds verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het Fonds geleverde goederen of diensten;
 
-- **synopsis:** een korte omschrijving van het verhaal en de belangrijkste personages van het te schrijven scenario;
+- *synopsis:* een korte omschrijving van het verhaal en de belangrijkste personages van het te schrijven scenario;
 
-- **treatment:** een per scène of cluster van scènes, geconcentreerd geschreven weergave van het te schrijven scenario, zonder dialogen;
+- *treatment:* een per scène of cluster van scènes, geconcentreerd geschreven weergave van het te schrijven scenario, zonder dialogen;
 
-- **uitvoeringsovereenkomst:** de overeenkomst tussen het Fonds en de ontvanger van een subsidie als bedoeld in [artikel 4:36 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) ter uitvoering van het besluit tot verlening van die subsidie.
+- *uitvoeringsovereenkomst:* de overeenkomst tussen het Fonds en de ontvanger van een subsidie als bedoeld in [artikel 4:36 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) ter uitvoering van het besluit tot verlening van die subsidie.
 
 ##### Artikel 2. Toepasselijkheid
 
@@ -145,21 +115,21 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 3. Onverminderd het bepaalde in dit reglement neemt het bestuur bij zijn besluit op de aanvraag tot subsidieverlening het volgende in overweging:
 
-- –. de vereisten en beoordelingscriteria genoemd in dit reglement;
+- – de vereisten en beoordelingscriteria genoemd in dit reglement;
 
-- –. de vereisten en beoordelingscriteria in de deelreglementen;
+- – de vereisten en beoordelingscriteria in de deelreglementen;
 
-- –. de door het bestuur vastgestelde en gepubliceerde beleidsprioriteiten;
+- – de door het bestuur vastgestelde en gepubliceerde beleidsprioriteiten;
 
-- –. de noodzaak en omvang van de gevraagde subsidie;
+- – de noodzaak en omvang van de gevraagde subsidie;
 
-- –. de beschikbare middelen;
+- – de beschikbare middelen;
 
-- –. de vereisten en richtlijnen vermeld in het Financieel & Productioneel Protocol van het Fonds;
+- – de vereisten en richtlijnen vermeld in het Financieel & Productioneel Protocol van het Fonds;
 
-- –. de projectanalyse van het subsidiebureau; en,
+- – de projectanalyse van het subsidiebureau; en,
 
-- –. het advies van de filmconsulent(en) of ad hoc adviseur(s) of hoofd(en), desgevraagd.
+- – het advies van de filmconsulent(en) of ad hoc adviseur(s) of hoofd(en), desgevraagd.
 
 4. De rechten en verplichtingen die uit de subsidieverlening voortvloeien zijn niet overdraagbaar, te bezwaren, tot zekerheid te stellen of te cederen aan derde partijen.
 
@@ -187,21 +157,21 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 4. Voor een ‘moeilijke’ film (zie toelichting) of een grensoverschrijdende filmproductie waarbij landen uit de DAC-landenlijst van de OESO betrokken zijn en die derhalve beperkte commerciële waarde hebben, kan een hoger percentage worden verleend dan het in het tweede en derde lid genoemde percentage, mits producent en eventueel de regisseur bij de subsidieaanvraag een schriftelijke visie hebben gevoegd waaruit naar het oordeel van het bestuur blijkt dat de filmproductie:
 
-- (i). bijdraagt aan de diversiteit van film in Nederland; en daarnaast:
+- (i) bijdraagt aan de diversiteit van film in Nederland; en daarnaast:
 
-- (ii). een opvallende artistieke verrijking of een innovatieve aanvulling betekent op het reguliere filmaanbod in Nederland.
+- (ii) een opvallende artistieke verrijking of een innovatieve aanvulling betekent op het reguliere filmaanbod in Nederland.
 
 ##### Artikel 5. Beoordelingscriteria
 
-1. Bij de beoordeling van een subsidieaanvraag hanteert het bestuur de volgende criteria ter beoordeling van de **kwaliteit** van de filmproductie of filmactiviteit. De filmproductie of filmactiviteit dient:
+1. Bij de beoordeling van een subsidieaanvraag hanteert het bestuur de volgende criteria ter beoordeling van de *kwaliteit* van de filmproductie of filmactiviteit. De filmproductie of filmactiviteit dient:
 
 - a. inhoudelijke kwaliteit te hebben, en,
 
 - b. gebaseerd te zijn op een solide filmplan of activiteitenplan en een haalbaar bereik te hebben.
 
-2. Bij de beoordeling van de **staat van dienst** beoordeelt het bestuur de resultaten die de betrokken scenarist, regisseur, producent of betrokken organisaties met eerdere filmproducties of filmactiviteiten hebben behaald.
+2. Bij de beoordeling van de *staat van dienst* beoordeelt het bestuur de resultaten die de betrokken scenarist, regisseur, producent of betrokken organisaties met eerdere filmproducties of filmactiviteiten hebben behaald.
 
-3. Bij de beoordeling van de bijdrage aan de **diversiteit** en het **filmklimaat**beoordeelt het bestuur in welke mate de filmproductie of filmactiviteit bijdraagt aan:
+3. Bij de beoordeling van de bijdrage aan de *diversiteit* en het *filmklimaat*beoordeelt het bestuur in welke mate de filmproductie of filmactiviteit bijdraagt aan:
 
 - a. de diversiteit van het (film)aanbod en van de daarbij betrokken filmprofessionals in Nederland, en,
 
@@ -213,7 +183,7 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 ##### Artikel 6. Subsidievormen
 
-1. Het bestuur verstrekt projectsubsidies, meerjarige activiteitensubsidies dan wel subsidies in de vorm van **slate funding**.
+1. Het bestuur verstrekt projectsubsidies, meerjarige activiteitensubsidies dan wel subsidies in de vorm van *slate funding*.
 
 2. Het bestuur kan aan het verstrekken van deze subsidies de voorwaarde verbinden dat de inkomsten die worden verkregen uit exploitatie van de op de aanvraag betrekking hebbende filmproductie of filmactiviteit worden terugbetaald aan het Fonds.
 
@@ -245,11 +215,11 @@ Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglem
 
 3. Niet in aanmerking voor een subsidie komen:
 
-- –. een mediabedrijf;
+- – een mediabedrijf;
 
-- –. een aanvrager waarin een mediabedrijf direct of indirect zodanige zeggenschap of feitelijke invloed heeft dat dit mediabedrijf in belangrijke mate het beleid van de aanvrager kan bepalen of aanmerkelijke invloed heeft op de inhoud van het beleid van de aanvrager of van de filmproductie;
+- – een aanvrager waarin een mediabedrijf direct of indirect zodanige zeggenschap of feitelijke invloed heeft dat dit mediabedrijf in belangrijke mate het beleid van de aanvrager kan bepalen of aanmerkelijke invloed heeft op de inhoud van het beleid van de aanvrager of van de filmproductie;
 
-- –. zij die nog een (beroeps)opleiding volgen.
+- – zij die nog een (beroeps)opleiding volgen.
 
 ##### Artikel 10. Vereisten
 
@@ -301,7 +271,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 1. Een aanvraag is gericht aan het bestuur. Het bestuur kan een aanvraag ter advisering voorleggen aan een filmconsulent(en) of (ad hoc)adviseur(s) of hoofd(en), zoals bedoeld in het Huishoudelijk reglement.
 
-2. Het bestuur besluit op de aanvraag uiterlijk binnen 13 weken na ontvangst van de aanvraag. Indien de aanvraag ter advisering aan een filmconsulent of (ad hoc) adviseur(s) is voorgelegd bedraagt deze termijn uiterlijk 22 weken.
+2. Het bestuur besluit op de aanvraag uiterlijk binnen 13 weken na ontvangst van de aanvraag. Indien de aanvraag ter advisering aan een filmconsulent of (ad hoc) adviseur(s) is voorgelegd bedraagt deze termijn uiterlijk 22 weken.
 
 ##### Artikel 14. Weigeringsgronden
 
@@ -367,7 +337,7 @@ Een subsidie kan slechts worden verstrekt, indien naar het oordeel van het bestu
 
 De subsidieontvanger:
 
-- a. is verplicht er zorg voor te dragen dat de filmactiviteit of de filmproductie waarvoor subsidie is verleend is afgerond binnen 12 maanden na de subsidieverlening. Voor een filmproductie waarvoor realiseringssubsidie is verleend geldt dat deze in beginsel start binnen 12 maanden na de subsidieverlening en binnen 24 maanden na de start gereed is en openbaar wordt gemaakt;
+- a. is verplicht er zorg voor te dragen dat de filmactiviteit of de filmproductie waarvoor subsidie is verleend is afgerond binnen 12 maanden na de subsidieverlening. Voor een filmproductie waarvoor realiseringssubsidie is verleend geldt dat deze in beginsel start binnen 12 maanden na de subsidieverlening en binnen 24 maanden na de start gereed is en openbaar wordt gemaakt;
 
 - b. stelt het Fonds in kennis van het moment waarop de openbare toegankelijkheid van de te subsidiëren filmproductie of filmactiviteit een aanvang neemt;
 
@@ -449,13 +419,13 @@ Ter behoud van het cultureel erfgoed is het Fonds of diens rechtsopvolger gerech
 
 2. Het bestuur kan om zwaarwegende redenen afwijken van dit reglement en de hierop gebaseerde deelreglementen, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.
 
-3. Per 1 januari 2025 zijn wijzigingen in het reglement geïmplementeerd welke zijn vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 20 september 2024.
+3. Per 1 januari 2025 zijn wijzigingen in het reglement geïmplementeerd welke zijn vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 20 september 2024.
 
-4. Dit reglement treedt in werking met ingang van 1 januari 2025.
+4. Dit reglement treedt in werking met ingang van 1 januari 2025.
 
-5. Het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0049264), geldend vanaf 1 januari 2024 is per 1 januari 2025 ingetrokken.
+5. Het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0049264), geldend vanaf 1 januari 2024 is per 1 januari 2025 ingetrokken.
 
-6. Op alle aanvragen die door het Fonds voor 1 januari 2025 zijn ontvangen blijft het Algemeen Reglement zoals dit gold tot 1 januari 2025 van toepassing.
+6. Op alle aanvragen die door het Fonds voor 1 januari 2025 zijn ontvangen blijft het Algemeen Reglement zoals dit gold tot 1 januari 2025 van toepassing.
 
 7. Dit reglement wordt aangehaald als Algemeen Reglement van de Stichting Nederlands Fonds voor de Film.
 

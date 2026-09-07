@@ -1,51 +1,17 @@
 ---
 title: "Regeling Cultuureducatie in het mbo 2025–2028"
 identifier: "BWBR0050780"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-18"
-last_updated: "2025-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050780"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17368843"
-version_id: "30617462"
-internal_id: "C43883341"
-label_id: "17272124"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050780/2025-02-18/0"
-intitule_bron: "Stcrt.2025-4896"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-27"
-intitule_published: "2025-02-17"
-intitule_in_force: "2025-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-4896"
-original_signed_date: "2023-03-27"
-original_published_date: "2025-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-4896"
-entry_into_force_date: "2025-02-18"
-jci_1_3: "jci1.3:c:BWBR0050780&z=2025-02-18&g=2025-02-18"
-jci_1_0: "1.0:c:BWBR0050780&g=2025-02-18"
-citeertitel_status: "officieel"
-signed_date: "2023-03-27"
-entry_into_force: "2025-02-18"
+publicatiedatum: 2025-02-18
+laatste_update: 2025-02-18
+status: geldig
+toestand: 2025-02-18
+bron: "https://wetten.overheid.nl/BWBR0050780"
+opgehaald: 2026-09-07
 ---
+
 # Regeling Cultuureducatie in het mbo 2025–2028
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de **Algemene wet bestuursrecht**;
-
-gelet op het [**Algemeen Subsidiereglement**](https://cultuurparticipatie.nl/over-ons/codes-reglementen/algemeen-subsidie-reglement) van het Fonds voor Cultuurparticipatie;
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2022;
-
-en voor de gewijzigde versie op 27 maart 2023;
-
-besluit:
 
 ### Hoofdstuk 1. – Algemene bepalingen
 
@@ -53,51 +19,53 @@ besluit:
 
 1. In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Activiteit:** Een specifieke handeling of bezigheid die door de aanvrager wordt gestart. Bijvoorbeeld brainstorms, repetities, coachingsessies, bijeenkomsten en presentaties. Deze activiteit wordt door, of met, de doelgroep (een persoon, groep of organisatie) uitgevoerd om een specifiek effect te bereiken.
+- a. *Activiteit:* Een specifieke handeling of bezigheid die door de aanvrager wordt gestart. Bijvoorbeeld brainstorms, repetities, coachingsessies, bijeenkomsten en presentaties. Deze activiteit wordt door, of met, de doelgroep (een persoon, groep of organisatie) uitgevoerd om een specifiek effect te bereiken.
 
-- b. **Adviescommissie:** Een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van het Fonds 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+- b. *Adviescommissie:* Een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van het Fonds 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- c. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://fvcp.fra1.cdn.digitaloceanspaces.com/uploads/asr27mrt23-64380.pdf).
+- c. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://fvcp.fra1.cdn.digitaloceanspaces.com/uploads/asr27mrt23-64380.pdf).
 
-- d. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- e. **Caribisch Nederland:** de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba.
+- e. *Caribisch Nederland:* de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba.
 
-- f. **Culturele codes:** De Code Diversiteit en Inclusie, de Fair Practice Code en de Governance Code Cultuur.
+- f. *Culturele codes:* De Code Diversiteit en Inclusie, de Fair Practice Code en de Governance Code Cultuur.
 
-- g. **Culturele instelling:** Een instelling die zich inzet binnen de cultuursector en zich als zodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
+- g. *Culturele instelling:* Een instelling die zich inzet binnen de cultuursector en zich als zodanig heeft kenbaar gemaakt bij de inschrijving bij de Kamer van Koophandel of soortgelijke organisatie.
 
-- h. **Cultuur:** Het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
+- h. *Cultuur:* Het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
 
-- i. **Cultuureducatie:** Het doelbewust leren over en door middel van cultuur binnen schooltijd.
+- i. *Cultuureducatie:* Het doelbewust leren over en door middel van cultuur binnen schooltijd.
 
-- j. **Cultuureducatie met Kwaliteit:** Programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs.
+- j. *Cultuureducatie met Kwaliteit:* Programma geïnitieerd door de Minister van Onderwijs, Cultuur en Wetenschap. Dit programma waarborgt de landelijke kwaliteit van cultuureducatie in het onderwijs.
 
-- k. **Deskundigheidsbevordering:** De activiteiten die de deskundigheid van personen met betrekking tot de uitoefening van een functie of beroep verbeteren.
+- k. *Deskundigheidsbevordering:* De activiteiten die de deskundigheid van personen met betrekking tot de uitoefening van een functie of beroep verbeteren.
 
-- l. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- l. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- m. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- m. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- n. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- n. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- o. **Materiële investeringen:** Kosten voor de aanschaf van materialen voor een project die de aanvrager na het project nog langere tijd kan gebruiken.
+- o. *Materiële investeringen:* Kosten voor de aanschaf van materialen voor een project die de aanvrager na het project nog langere tijd kan gebruiken.
 
-- p. **Materiaalkosten:** Kosten voor aanschaf van materialen die noodzakelijk zijn voor de uitvoering van het project.
+- p. *Materiaalkosten:* Kosten voor aanschaf van materialen die noodzakelijk zijn voor de uitvoering van het project.
 
-- q. **Mbo:** Door het Rijk bekostigd Middelbaar beroepsonderwijs.
+- q. *Mbo:* Door het Rijk bekostigd Middelbaar beroepsonderwijs.
 
-- r. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- r. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- s. **Penvoerder:** Een culturele instelling die voor zichzelf, en in samenwerking met andere culturele partners en het onderwijs, een subsidieaanvraag indient. De penvoerder is de projectleider en intermediair van het project.
+- s. *Penvoerder:* Een culturele instelling die voor zichzelf, en in samenwerking met andere culturele partners en het onderwijs, een subsidieaanvraag indient. De penvoerder is de projectleider en intermediair van het project.
 
-- t. **Project:** Tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
+- t. *Project:* Tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
 
-- u. **Rechtspersoon:** Een rechtspersoon is een juridische entiteit die, net als een natuurlijk persoon, zelfstandig rechten en plichten heeft. Dit betekent dat een rechtspersoon contracten kan aangaan, eigendommen kan bezitten en aansprakelijk kan zijn voor schulden. Voorbeelden van rechtspersonen zijn bedrijven (zoals BV's of NV's), stichtingen en verenigingen. Een rechtspersoon wordt vertegenwoordigd door bestuurders, maar is zelf verantwoordelijk voor zijn verplichtingen.
+- u. *Rechtspersoon:* Een rechtspersoon is een juridische entiteit die, net als een natuurlijk persoon, zelfstandig rechten en plichten heeft. Dit betekent dat een rechtspersoon contracten kan aangaan, eigendommen kan bezitten en aansprakelijk kan zijn voor schulden. Voorbeelden van rechtspersonen zijn bedrijven (zoals BV's of NV's), stichtingen en verenigingen. Een rechtspersoon wordt vertegenwoordigd door bestuurders, maar is zelf verantwoordelijk voor zijn verplichtingen.
 
-- v. **Verkenning:** het onderzoeken van een mogelijke samenwerking door verschillende partijen
+- v. *Verkenning:* het onderzoeken van een mogelijke samenwerking door verschillende partijen
 
-- w. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
+- w. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -127,13 +95,13 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 - a. voor dezelfde activiteiten al subsidie is of zal worden verleend:
 
-- i. door het Fonds;
+   - i. door het Fonds;
 
-- ii. door een van de andere rijkscultuurfondsen;
+   - ii. door een van de andere rijkscultuurfondsen;
 
-- iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. de activiteiten of projecten waarvoor subsidie wordt gevraagd op het moment van de aanvraag al worden uitgevoerd;
 
@@ -143,7 +111,7 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 - e. de aanvraag onvoldoende aansluit bij het doel van de regeling; of
 
-- f. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen ten aanzien van de Fair Practice Code of Governance Code Cultuur, zoals bedoeld in [artikel 1.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050780&hoofdstuk=1&artikel=1.7&z=2025-02-18&g=2025-02-18).
+- f. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen ten aanzien van de Fair Practice Code of Governance Code Cultuur, zoals bedoeld in [artikel 1.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050780&hoofdstuk=1&artikel=1.7&z=2025-02-18&g=2025-02-18).
 
 2. Het Fonds weigert subsidie aan derden als die in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor een subsidie.
 
@@ -191,7 +159,7 @@ De aanvraag is altijd voor de samenwerking tussen de culturele instelling en de 
 
 ##### Artikel 1.8. Indieningstermijnen
 
-1. Aanvragen op grond van deze regeling kunnen worden ingediend vanaf 17 februari 2025, 13.00 uur tot en met 30 augustus 2028, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van deze regeling kunnen worden ingediend vanaf 17 februari 2025, 13.00 uur tot en met 30 augustus 2028, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
@@ -207,9 +175,9 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 3. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt als moment van het indienen van de aanvraag.
 
-4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
+4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
 
-5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
+5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder de adviescommissie om advies te vragen.
 
@@ -217,13 +185,13 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 8. De aanvraag moet op alle beoordelingscriteria een voldoende scoren om voor subsidieverstrekking in aanmerking te komen, tenzij anders in deze regeling is bepaald.
 
-9. Op aanvragen tot € 25.000 wordt binnen uiterlijk acht weken beslist. Op aanvragen vanaf € 25.000 wordt binnen uiterlijk dertien weken beslist.
+9. Op aanvragen tot € 25.000 wordt binnen uiterlijk acht weken beslist. Op aanvragen vanaf € 25.000 wordt binnen uiterlijk dertien weken beslist.
 
 ##### Artikel 1.11. Voorschotten
 
-1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
 3. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaalt. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit
 
@@ -233,9 +201,11 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
-2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
+2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. – Verkenningen en projecten
+
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050780&hoofdstuk=1&z=2025-02-18&g=2025-02-18). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven. Op grond van dit hoofdstuk wordt uitsluitend subsidie verstrekt voor Verkenningen en Projecten.
 
 #### Paragraaf 1. Verkenningen
 
@@ -259,13 +229,13 @@ Subsidie kan worden aangevraagd voor het verkennen van een lokale samenwerking t
 
 Voor een project in deze paragraaf:
 
-- 1. wordt minimaal € 5.000 en maximaal € 10.000 aangevraagd; en
+- 1. wordt minimaal € 5.000 en maximaal € 10.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
 ##### Artikel 2.4. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 851.305.
+Het subsidieplafond voor deze paragraaf is € 851.305.
 
 ##### Artikel 2.5. Beoordelingscriteria
 
@@ -327,13 +297,13 @@ In deze paragraaf kan een aanvraag worden ingediend voor het ontwikkelen en uitv
 
 Voor een project in deze paragraaf:
 
-- 1. wordt minimaal € 10.000 en maximaal € 55.000 aangevraagd; en
+- 1. wordt minimaal € 10.000 en maximaal € 55.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 100%.
 
 ##### Artikel 2.12. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 1.276.957.
+Het subsidieplafond voor deze paragraaf is € 1.276.957.
 
 ##### Artikel 2.13. Beoordelingscriteria
 
@@ -363,9 +333,9 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 Het project:
 
-- a. start niet eerder dan dertien weken na het indienen van de aanvraag in het geval van aanvragen vanaf € 25.000;
+- a. start niet eerder dan dertien weken na het indienen van de aanvraag in het geval van aanvragen vanaf € 25.000;
 
-- b. start niet eerder dan acht weken na het indienen van de aanvraag in het geval van aanvragen onder de € 25.000;
+- b. start niet eerder dan acht weken na het indienen van de aanvraag in het geval van aanvragen onder de € 25.000;
 
 - c. start binnen zes maanden na het honoreren van de aanvraag;
 
@@ -383,7 +353,7 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alle
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
+2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
 
 ##### Artikel 3.3. Citeertitel
 

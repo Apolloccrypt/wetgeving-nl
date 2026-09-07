@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 november 2024, nr. WJZ/ 89741558, houdende instelling van de Adviescommissie Stelseltoezicht Vleesketen"
+citeertitel: "Instellingsbesluit Adviescommissie Stelseltoezicht Vleesketen"
 identifier: "BWBR0050502"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-11"
-last_updated: "2025-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050502"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17293433"
-version_id: "30456672"
-internal_id: "C43669811"
-label_id: "17197524"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050502/2025-07-11/0"
-intitule_bron: "Stcrt.2024-40134"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-29"
-intitule_published: "2024-12-03"
-intitule_in_force: "2024-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-40134"
-original_signed_date: "2024-11-29"
-original_published_date: "2024-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-40134"
-entry_into_force_date: "2024-12-04"
-jci_1_3: "jci1.3:c:BWBR0050502&z=2025-07-11&g=2025-07-11"
-jci_1_0: "1.0:c:BWBR0050502&g=2025-07-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Adviescommissie Stelseltoezicht Vleesketen"
-signed_date: "2024-11-29"
-entry_into_force: "2024-12-04"
+publicatiedatum: 2024-12-04
+laatste_update: 2026-06-10
+status: geldig
+toestand: 2026-06-10
+bron: "https://wetten.overheid.nl/BWBR0050502"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 november 2024, nr. WJZ/ 89741558, houdende instelling van de Adviescommissie Stelseltoezicht Vleesketen
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- a. *minister:* Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- b. **adviescommissie:** adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050502&artikel=2&z=2025-07-11&g=2025-07-11).
+- b. *adviescommissie:* adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050502&artikel=2&z=2026-06-10&g=2026-06-10).
 
 ##### Artikel 2. Instelling
 
@@ -78,9 +52,9 @@ Er is een Adviescommissie Stelseltoezicht Vleesketen.
 
 ##### Artikel 5. Opheffing adviescommissie
 
-1. De adviescommissie wordt ingesteld vanaf 1 november 2024 tot 1 juli 2026.
+1. De adviescommissie wordt ingesteld vanaf 1 november 2024 tot 1 oktober 2026.
 
-2. De adviescommissie wordt opgeheven vier weken nadat het eindrapport is uitgebracht en uiterlijk op 1 juli 2026.
+2. *Vervallen.*
 
 3. Na de opheffing van de adviescommissie kan de voorzitter nog worden verzocht om namens de adviescommissie een toelichting te geven op het eindrapport.
 
@@ -118,7 +92,7 @@ Ter gelegenheid van de instelling van de adviescommissie wordt tot lid, tevens v
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,2.
 
 3. De voorzitter en de andere leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
@@ -148,10 +122,8 @@ De adviescommissie draagt uiterlijk zes weken na oplevering van het rapport, het
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 november 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 november 2024.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Stelseltoezicht Vleesketen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

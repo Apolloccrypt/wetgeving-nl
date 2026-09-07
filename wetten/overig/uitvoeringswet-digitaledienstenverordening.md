@@ -1,48 +1,18 @@
 ---
 title: "Wet van 29 januari 2025 tot uitvoering van verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)"
+citeertitel: "Uitvoeringswet digitaledienstenverordening"
 identifier: "BWBR0050739"
-country: "nl"
-rank: "wet"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050739"
+categorie: "Digitaal en privacy"
 soort: "wet"
-stam_id: "17360583"
-version_id: "30601042"
-internal_id: "C43859161"
-label_id: "17263894"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050739/2025-09-01/0"
-intitule_bron: "Stb.2025-21"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-29"
-intitule_published: "2025-02-03"
-intitule_in_force: "2025-02-03"
-intitule_status: "goed"
-original_publication: "Stb.2025-21"
-original_signed_date: "2025-01-29"
-original_published_date: "2025-02-03"
-original_effect: "nieuwe-regeling"
-original_dossier: "36531"
-original_url_id: "stb-2025-21"
-entry_into_force_date: "2025-02-04"
-entry_into_force_dossier: "36531"
-jci_1_3: "jci1.3:c:BWBR0050739&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0050739&g=2025-09-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet digitaledienstenverordening"
-signed_date: "2025-01-29"
-entry_into_force: "2025-02-04"
+publicatiedatum: 2025-02-04
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0050739"
+opgehaald: 2026-09-07
 ---
+
 # Wet van 29 januari 2025 tot uitvoering van verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om regels te stellen ter uitvoering van [verordening (EU) 2022/2065](32022R2065) van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van [Richtlijn 2000/31/EG](32000L0031) (digitaledienstenverordening) (PbEU 2022, L 277);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -50,19 +20,20 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet wordt verstaan onder:
 
-- –. **aanbieder van een tussenhandeldienst:** aanbieder van een tussenhandeldienst als bedoeld in artikel 2, eerste lid, van de digitaledienstenverordening;
+- – *aanbieder van een tussenhandeldienst:* aanbieder van een tussenhandeldienst als bedoeld in artikel 2, eerste lid, van de digitaledienstenverordening;
 
-- –. **afnemer van de dienst:** afnemer van de dienst als bedoeld in artikel 3, onderdeel b, van de digitaledienstenverordening;
+- – *afnemer van de dienst:* afnemer van de dienst als bedoeld in artikel 3, onderdeel b, van de digitaledienstenverordening;
 
-- –. **Autoriteit Consument en Markt:** Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- – *Autoriteit Consument en Markt:* Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- –. **Autoriteit persoonsgegevens:** Autoriteit persoonsgegevens als bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
+- – *Autoriteit persoonsgegevens:* Autoriteit persoonsgegevens als bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
 
-- –. **digitaledienstenraad:** digitaledienstenraad als bedoeld in artikel 61, eerste lid, van de digitaledienstenverordening;
+- – *digitaledienstenraad:* digitaledienstenraad als bedoeld in artikel 61, eerste lid, van de digitaledienstenverordening;
 
-- –. **digitaledienstenverordening:** [verordening (EU) 2022/2065](32022R2065) van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van [Richtlijn 2000/31/EG](32000L0031) (digitaledienstenverordening) (PbEU 2022, L 277);
+- – *digitaledienstenverordening:*
+ verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (digitaledienstenverordening) (PbEU 2022, L 277);
 
-- –. **zelfstandige last:** de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
+- – *zelfstandige last:* de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
 
 ### Hoofdstuk 2. Autoriteit Consument en Markt
 
@@ -84,7 +55,7 @@ In deze wet wordt verstaan onder:
 
 1. Met het toezicht op de naleving van de artikelen 9, eerste lid, en vijfde lid, 10, eerste lid, en vijfde lid, 11, 12, 13, eerste lid, tweede lid, en vierde lid, 14, 15, eerste lid, 16, eerste lid, tweede lid, vierde lid, vijfde lid, en zesde lid, 17, eerste lid, derde lid, en vierde lid, 18, 20, eerste lid, derde lid, vierde lid, vijfde lid, en zesde lid, 21, eerste lid, tweede alinea, tweede lid, eerste alinea, vierde lid, en vijfde lid, 22, eerste lid, derde lid, en zesde lid, eerste volzin, 23, 24, eerste lid, tweede lid, derde lid, en vijfde lid, 25, eerste lid, 26, eerste lid, en tweede lid, 28, eerste lid, 30, 31 en 32 van de digitaledienstenverordening is belast de Autoriteit Consument en Markt.
 
-2. Met het toezicht op de naleving van artikel 22, zevende tot en met negende en elfde lid, van [verordening (EU) 2023/988](32023R0988) van het Europees Parlement en de Raad van 10 mei 2023 inzake algemene productveiligheid, tot wijziging van [Verordening (EU) nr. 1025/2012](32012R1025) van het Europees Parlement en de Raad en [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad, en tot intrekking van [Richtlijn 2001/95/EG](32001L0095) van het Europees Parlement en de Raad en [Richtlijn 87/357/EEG](31987L0357) van de Raad (PbEU 2023, L 135) is belast de Autoriteit Consument en Markt.
+2. Met het toezicht op de naleving van artikel 22, zevende tot en met negende en elfde lid, van verordening (EU) 2023/988 van het Europees Parlement en de Raad van 10 mei 2023 inzake algemene productveiligheid, tot wijziging van Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad en Richtlijn (EU) 2020/1828 van het Europees Parlement en de Raad, en tot intrekking van Richtlijn 2001/95/EG van het Europees Parlement en de Raad en Richtlijn 87/357/EEG van de Raad (PbEU 2023, L 135) is belast de Autoriteit Consument en Markt.
 
 3. De toezichthouder beschikt niet over de bevoegdheid, genoemd in [artikel 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19), bij de uitoefening van het toezicht, bedoeld in het eerste lid.
 
@@ -274,37 +245,37 @@ Indien een bevel als bedoeld in artikel 9 of 10 van de digitaledienstenverordeni
 
 ### Hoofdstuk 5. Wijziging andere wetgeving
 
-##### Artikel 5.1. (wijziging [Aanpassingswet richtlijn inzake elektronische handel](https://wetten.overheid.nl/jci1.3:c:BWBR0016726))
+##### Artikel 5.1. (wijziging Aanpassingswet richtlijn inzake elektronische handel)
 
-Wijzigt de Aanpassingswet richtlijn inzake elektronische handel.
+*Wijzigt de Aanpassingswet richtlijn inzake elektronische handel.*
 
-##### Artikel 5.2. (wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 5.2. (wijziging Algemene wet bestuursrecht)
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 5.3. (wijziging [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886))
+##### Artikel 5.3. (wijziging Auteurswet)
 
-Wijzigt de Auteurswet.
+*Wijzigt de Auteurswet.*
 
-##### Artikel 5.4. (wijziging [boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289))
+##### Artikel 5.4. (wijziging boek 6 van het Burgerlijk Wetboek)
 
-Wijzigt het Burgerlijk Wetboek Boek 6.
+*Wijzigt het Burgerlijk Wetboek Boek 6.*
 
-##### Artikel 5.5. (wijziging [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586))
+##### Artikel 5.5. (wijziging Wet handhaving consumentenbescherming)
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
-##### Artikel 5.5a. (wijziging [Uitvoeringswet digitalemarktenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0050710))
+##### Artikel 5.5a. (wijziging Uitvoeringswet digitalemarktenverordening)
 
-Wijzigt de Uitvoeringswet digitalemarktenverordening.
+*Wijzigt de Uitvoeringswet digitalemarktenverordening.*
 
-##### Artikel 5.6. (wijziging [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827))
+##### Artikel 5.6. (wijziging Wetboek van Burgerlijke Rechtsvordering)
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
-##### Artikel 5.7. (wijziging van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903))
+##### Artikel 5.7. (wijziging van het Wetboek van Strafvordering)
 
-Wijzigt het Wetboek van Strafvordering.
+*Wijzigt het Wetboek van Strafvordering.*
 
 ### Hoofdstuk 6. Slotbepalingen
 
@@ -314,7 +285,7 @@ Onze Minister van Economische Zaken zendt, in overeenstemming met Onze Minister 
 
 ##### Artikel 6.1. (samenloop)
 
-Wijzigt de Uitvoeringswet digitalemarktenverordening.
+*Wijzigt de Uitvoeringswet digitalemarktenverordening.*
 
 ##### Artikel 6.2. (inwerkingtreding)
 
@@ -323,5 +294,3 @@ Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van he
 ##### Artikel 6.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Uitvoeringswet digitaledienstenverordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

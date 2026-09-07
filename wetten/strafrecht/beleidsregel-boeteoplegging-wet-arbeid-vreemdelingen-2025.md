@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 januari 2025, nr. 2024-0000941636, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025 (Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025)"
+citeertitel: "Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025"
 identifier: "BWBR0050708"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-02-01"
-last_updated: "2025-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050708"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "17347993"
-version_id: "30573942"
-internal_id: "C43828381"
-label_id: "17251994"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050708/2025-02-01/0"
-intitule_bron: "Stcrt.2025-3117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-20"
-intitule_published: "2025-01-27"
-intitule_in_force: "2025-01-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3117"
-original_signed_date: "2025-01-20"
-original_published_date: "2025-01-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3117"
-entry_into_force_date: "2025-02-01"
-jci_1_3: "jci1.3:c:BWBR0050708&z=2025-02-01&g=2025-02-01"
-jci_1_0: "1.0:c:BWBR0050708&g=2025-02-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025"
-signed_date: "2025-01-20"
-entry_into_force: "2025-02-01"
+publicatiedatum: 2025-02-01
+laatste_update: 2025-02-01
+status: geldig
+toestand: 2025-02-01
+bron: "https://wetten.overheid.nl/BWBR0050708"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 januari 2025, nr. 2024-0000941636, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025 (Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025)
-
-Gelet op [artikel 19d, zesde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d);
-
-Besluit:
 
 ##### Artikel 1. Waarschuwing
 
@@ -72,15 +46,15 @@ Besluit:
 
 Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 19a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a) wordt bij de vaststelling van de hoogte van de bestuurlijke boete voor alle overtredingen als uitgangspunt gehanteerd de normbedragen bestuurlijke boete die als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&bijlage=I&z=2025-02-01&g=2025-02-01) bij deze beleidsregel is gevoegd.
 
-##### Artikel 3. Samenloop overtredingen [artikel 15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
+##### Artikel 3. Samenloop overtredingen artikel 15, tweede en vierde lid
 
 Een overtreding van [artikel 15, tweede en vierde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) wordt beboet alsof sprake was van slechts één overtreding per persoon ten aanzien van wie deze overtredingen zijn begaan.
 
-##### Artikel 4. Meerdere overtredingen [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
+##### Artikel 4. Meerdere overtredingen artikel 15
 
 Bij meerdere overtredingen van [artikel 15, eerste lid, dan wel artikel 15, tweede of vierde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) waarbij niet tevens ten aanzien van dezelfde of een andere vreemdeling, of persoon van wie de identiteit niet is vastgesteld als bedoeld in [artikel 15a van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a), een overtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), of artikel 15a van de Wet arbeid vreemdelingen wordt geconstateerd, wordt de bestuurlijke boete ongeacht de aard van de werkzaamheden gematigd tot het boetebedrag dat geldt voor één overtreding.
 
-##### Artikel 5. Meerdere overtredingen [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a)
+##### Artikel 5. Meerdere overtredingen artikel 2a
 
 Bij meerdere overtredingen van [artikel 2a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) waarbij niet tevens ten aanzien van dezelfde of een andere vreemdeling, of persoon van wie de identiteit niet is vastgesteld als bedoeld in [artikel 15a van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a), een overtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), of artikel 15a van de Wet arbeid vreemdelingen wordt geconstateerd, wordt de bestuurlijke boete ongeacht de aard van de werkzaamheden gematigd tot het boetebedrag dat geldt voor één overtreding.
 
@@ -132,46 +106,14 @@ De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050
 
 De totale bestuurlijke boete bestaat, ingeval er sprake is van meer overtredingen, uit de som van de per overtreding aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=6&z=2025-02-01&g=2025-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=7&z=2025-02-01&g=2025-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=9&z=2025-02-01&g=2025-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=10&z=2025-02-01&g=2025-02-01) van deze beleidsregel berekende boetebedragen.
 
-##### Artikel 12. Intrekking [Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043328)
+##### Artikel 12. Intrekking Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020
 
 De [Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043328) wordt ingetrokken.
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
+Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
 
 ##### Artikel 14
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025.
-
-## Bijlage I. behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01) van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025
-
-Tarieflijst Boetenormbedragen Bestuurlijke Boete [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
-
-| Artikel | Lid | Overtreding | Werkgever | Boetenorm-bedrag |
-| --- | --- | --- | --- | --- |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) | 1 | Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of gecombineerde vergunning; | Natuurlijk persoon, die een huishoudelijke of persoonlijke dienst laat verrichten | € 1.500 |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) | 1 | Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of gecombineerde vergunning; | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 3.000 |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) | 1 | Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of gecombineerde vergunning; | Stichting of vereniging met algemeen nut beogende doelstelling, waarbij sprake is van arbeid in de niet-zakelijke sfeer. Onder arbeid in de niet-zakelijke sfeer wordt verstaan arbeid die niet bedrijfsmatig van aard is en niet gericht is op het verwerven van inkomsten. | € 3.000 |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) | 1 | Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of gecombineerde vergunning; | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 3.000 |
-| [2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) | 1 | Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of gecombineerde vergunning; | Overige rechtspersonen of daarmee gelijkgestelden | € 6.000 |
-| [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) |   | De werkgever laat na om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en de toezichthouder te informeren door een afschrift van dit document te verstrekken. | Natuurlijk persoon, die een huishoudelijke of persoonlijke dienst laat verrichten | € 1.500 |
-| [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) |   | De werkgever laat na om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en de toezichthouder te informeren door een afschrift van dit document te verstrekken. | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 3.000 |
-| [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) |   | De werkgever laat na om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en de toezichthouder te informeren door een afschrift van dit document te verstrekken. | Stichting of vereniging met algemeen nut beogende doelstelling, waarbij sprake is van arbeid in de niet-zakelijke sfeer. Onder arbeid in de niet-zakelijke sfeer wordt verstaan arbeid die niet bedrijfsmatig van aard is en niet gericht is op het verwerven van inkomsten. | € 3.000 |
-| [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) |   | De werkgever laat na om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en de toezichthouder te informeren door een afschrift van dit document te verstrekken. | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 3.000 |
-| [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a) |   | De werkgever laat na om binnen 48 uren na een daartoe strekkende vordering van de toezichthouder de identiteit vast te stellen van een persoon van wie op grond van feiten en omstandigheden het vermoeden bestaat dat hij arbeid voor hem verricht of heeft verricht, aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en de toezichthouder te informeren door een afschrift van dit document te verstrekken. | Overige rechtspersonen of daarmee gelijkgestelden | € 6.000 |
-| [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) | 1 | Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in [artikel 2 van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken; | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 750 |
-| [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) | 1 | Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in [artikel 2 van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken; | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 750 |
-| [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) | 1 | Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in [artikel 2 van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken; | Overige rechtspersonen of daarmee gelijkgestelden | € 1.500 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 1 | Indien de werkgever door een vreemdeling arbeid laat verrichten waarbij die arbeid feitelijk wordt verricht bij een andere werkgever, draagt de eerstgenoemde werkgever er bij aanvang van de arbeid onverwijld zorg voor dat de andere werkgever een afschrift van het document, bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), van de vreemdeling ontvangt; | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 1 | Indien de werkgever door een vreemdeling arbeid laat verrichten waarbij die arbeid feitelijk wordt verricht bij een andere werkgever, draagt de eerstgenoemde werkgever er bij aanvang van de arbeid onverwijld zorg voor dat de andere werkgever een afschrift van het document, bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), van de vreemdeling ontvangt; | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 1 | Indien de werkgever door een vreemdeling arbeid laat verrichten waarbij die arbeid feitelijk wordt verricht bij een andere werkgever, draagt de eerstgenoemde werkgever er bij aanvang van de arbeid onverwijld zorg voor dat de andere werkgever een afschrift van het document, bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), van de vreemdeling ontvangt; | Overige rechtspersonen of daarmee gelijkgestelden | € 1.500 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 2 | De werkgever die het afschrift van het document, bedoeld in het eerste lid ontvangt, stelt de identiteit van de vreemdeling vast aan de hand van het genoemde document en neemt het afschrift op in de administratie; | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 2 | De werkgever die het afschrift van het document, bedoeld in het eerste lid ontvangt, stelt de identiteit van de vreemdeling vast aan de hand van het genoemde document en neemt het afschrift op in de administratie; | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 2 | De werkgever die het afschrift van het document, bedoeld in het eerste lid ontvangt, stelt de identiteit van de vreemdeling vast aan de hand van het genoemde document en neemt het afschrift op in de administratie; | Overige rechtspersonen of daarmee gelijkgestelden | € 1.500 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 4 | De werkgever bedoeld in het tweede lid, bewaart het afschrift tot tenminste vijf jaren na het einde van het kalenderjaar waarin de arbeid door de vreemdeling is beëindigd; | Natuurlijk persoon, die handelt uit ambt, beroep of bedrijf | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 4 | De werkgever bedoeld in het tweede lid, bewaart het afschrift tot tenminste vijf jaren na het einde van het kalenderjaar waarin de arbeid door de vreemdeling is beëindigd; | Feitelijk leidinggevende die leiding heeft gegeven aan de verboden gedraging | € 750 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 4 | De werkgever bedoeld in het tweede lid, bewaart het afschrift tot tenminste vijf jaren na het einde van het kalenderjaar waarin de arbeid door de vreemdeling is beëindigd; | Overige rechtspersonen of daarmee gelijkgestelden | € 1.500 |
-| [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) | 5 | De vreemdeling verstrekt een op hem betrekking hebbend document als bedoeld in [artikel 1 van de Wet op de Identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) aan de werkgever, die het afschrift van het document, bedoeld in het eerste lid, ontvangt, en stelt die werkgever in de gelegenheid een afschrift van dit document te maken; | Natuurlijk persoon | € 225 |
-
-Deze regeling zal met de toelichting en de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&bijlage=I&z=2025-02-01&g=2025-02-01) in de Staatscourant worden geplaatst.

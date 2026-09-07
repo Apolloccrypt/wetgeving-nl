@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Financiën van 7 februari 2025 (2025-0000001587), houdende regels inzake de taakuitoefening en bevoegdheden van de belangenbehartiger voor belastingplichtigen, belastingschuldigen als bedoeld in de Invorderingswet 1990 en belanghebbenden als bedoeld in de Algemene wet inkomensafhankelijke regelingen (Regeling taakuitoefening en bevoegdheden BBT)"
+citeertitel: "Regeling taakuitoefening en bevoegdheden BBT"
 identifier: "BWBR0050766"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-12"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050766"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "17364993"
-version_id: "30610572"
-internal_id: "C43873681"
-label_id: "17267974"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050766/2025-02-12/0"
-intitule_bron: "Stcrt.2025-3504"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-02-07"
-intitule_published: "2025-02-11"
-intitule_in_force: "2025-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3504"
-original_signed_date: "2025-02-07"
-original_published_date: "2025-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3504"
-entry_into_force_date: "2025-02-12"
-jci_1_3: "jci1.3:c:BWBR0050766&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0050766&g=2025-02-12"
-citeertitel_status: "officieel"
-short_title: "Regeling taakuitoefening en bevoegdheden BBT"
-signed_date: "2025-02-07"
-entry_into_force: "2025-02-12"
+publicatiedatum: 2025-02-12
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0050766"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Minister van Financiën van 7 februari 2025 (2025-0000001587), houdende regels inzake de taakuitoefening en bevoegdheden van de belangenbehartiger voor belastingplichtigen, belastingschuldigen als bedoeld in de Invorderingswet 1990 en belanghebbenden als bedoeld in de Algemene wet inkomensafhankelijke regelingen (Regeling taakuitoefening en bevoegdheden BBT)
-
-Gelet op [artikel 41f van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41f);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,19 +20,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **belangenbehartiger:** de belangenbehartiger, bedoeld in [artikel 41d, eerste lid, van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41d);
+- a. *belangenbehartiger:* de belangenbehartiger, bedoeld in [artikel 41d, eerste lid, van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41d);
 
-- b. **belanghebbende:** de belastingplichtige, de belastingschuldige, bedoeld in de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), of de belanghebbende op grond van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472);
+- b. *belanghebbende:* de belastingplichtige, de belastingschuldige, bedoeld in de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770), of de belanghebbende op grond van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472);
 
-- c. **Dienst Toeslagen:** de Dienst Toeslagen zoals bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11);
+- c. *Dienst Toeslagen:* de Dienst Toeslagen zoals bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11);
 
-- d. **inspecteur:** de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
+- d. *inspecteur:* de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2);
 
-- e. **minister:** de Minister van Financiën;
+- e. *minister:* de Minister van Financiën;
 
-- f. **ministerie:** het Ministerie van Financiën;
+- f. *ministerie:* het Ministerie van Financiën;
 
-- g. **ontvanger:** de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
+- g. *ontvanger:* de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2).
 
 #### Paragraaf 2. Taakuitoefening en bevoegdheden
 
@@ -92,7 +66,7 @@ Een onderzoek van de belangenbehartiger naar een individuele casus kan resultere
 
 ##### Artikel 5. Gegevensverstrekking
 
-1. De inspecteur, de ontvanger en de Dienst Toeslagen zijn verplicht aan de belangenbehartiger de gegevens te verstrekken die naar zijn oordeel noodzakelijk zijn in het kader van de uitoefening van zijn taken, bedoeld in [artikel 41e van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41e).
+1. De inspecteur, de ontvanger en de Dienst Toeslagen zijn verplicht aan de belangenbehartiger de gegevens te verstrekken die naar zijn oordeel noodzakelijk zijn in het kader van de uitoefening van zijn taken, bedoeld in [artikel 41e van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&artikel=41e).
 
 2. De gegevens kunnen worden opgevraagd door middel van het burgerservicenummer of het Rechtspersonen en Samenwerkingsverbanden Informatie Nummer.
 
@@ -120,10 +94,8 @@ De belangenbehartiger is verantwoordelijk voor het met zijn taken samenhangende 
 
 ##### Artikel 9. Inwerkingtreding en bekendmaking
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en werkt terug tot en met 1 januari 2025.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling taakuitoefening en bevoegdheden BBT.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

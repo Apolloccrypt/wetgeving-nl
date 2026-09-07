@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Staatssecretaris Jeugd, Preventie en Sport van 14 november 2024, kenmerk 3993036-1074684-WJZ, houdende regels over maatschappelijke ondersteuning BES (Regeling maatschappelijke ondersteuning BES)"
+citeertitel: "Regeling maatschappelijke ondersteuning BES"
 identifier: "BWBR0050445"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050445"
+categorie: "Overig"
 soort: "ministeriele-regeling-BES"
-stam_id: "17278743"
-version_id: "30430982"
-internal_id: "C43638871"
-label_id: "17184244"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050445/2025-01-01/0"
-intitule_bron: "Stcrt.2024-37917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-14"
-intitule_published: "2024-11-21"
-intitule_in_force: "2024-11-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-37917"
-original_signed_date: "2024-11-14"
-original_published_date: "2024-11-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-37917"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050445&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050445&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling maatschappelijke ondersteuning BES"
-signed_date: "2024-11-14"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050445"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Staatssecretaris Jeugd, Preventie en Sport van 14 november 2024, kenmerk 3993036-1074684-WJZ, houdende regels over maatschappelijke ondersteuning BES (Regeling maatschappelijke ondersteuning BES)
-
-Gelet op de [artikelen 1.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=1.3), [2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=2.5), [2.20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=2.20), [2.22, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=2.22), [2.23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=2.23), en [artikel 6.2 van het Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0050401&artikel=6.2);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,15 +20,16 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanbieder van maatwerkvoorzieningen:** natuurlijke persoon of rechtspersoon die een maatwerkvoorziening levert;
+- *aanbieder van maatwerkvoorzieningen:* natuurlijke persoon of rechtspersoon die een maatwerkvoorziening levert;
 
-- **besluit:** [Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0050401);
+- *besluit:*
+ [Besluit maatschappelijke ondersteuning en bestrijding huiselijk geweld en kindermishandeling BES](https://wetten.overheid.nl/jci1.3:c:BWBR0050401);
 
-- **calamiteit:** niet-beoogde of onverwachte gebeurtenis die betrekking heeft op de kwaliteit van een maatwerkvoorziening en die tot de dood van een cliënt of een ernstig schadelijk gevolg voor een cliënt heeft geleid;
+- *calamiteit:* niet-beoogde of onverwachte gebeurtenis die betrekking heeft op de kwaliteit van een maatwerkvoorziening en die tot de dood van een cliënt of een ernstig schadelijk gevolg voor een cliënt heeft geleid;
 
-- **elementaire woonfuncties:** activiteiten die vallen onder het normale gebruik van een woonruimte of buitenruimte die aan een woonruimte is verbonden;
+- *elementaire woonfuncties:* activiteiten die vallen onder het normale gebruik van een woonruimte of buitenruimte die aan een woonruimte is verbonden;
 
-- **minister:** Minister van Volksgezondheid, Welzijn en Sport.
+- *minister:* Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 1.2
 
@@ -182,6 +157,4 @@ Deze regeling wordt aangehaald als: Regeling maatschappelijke ondersteuning BES.
 
 ##### Artikel 5.3
 
-Deze regeling treedt in werking op 1 januari 2025.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking op 1 januari 2025.

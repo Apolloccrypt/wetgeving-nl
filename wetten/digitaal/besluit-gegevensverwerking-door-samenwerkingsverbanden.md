@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 29 november 2024 tot uitvoering van de Wet gegevensverwerking door samenwerkingsverbanden (Besluit gegevensverwerking door samenwerkingsverbanden) en tot vaststelling van het tijdstip van inwerkingtreding van die wet en van de Wet van 26 juni 2024 tot wijziging van de Wet gegevensverwerking door samenwerkingsverbanden in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254)"
+citeertitel: "Besluit gegevensverwerking door samenwerkingsverbanden"
 identifier: "BWBR0050665"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-03-01"
-last_updated: "2025-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050665"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17338263"
-version_id: "30554942"
-internal_id: "C43805771"
-label_id: "17242734"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050665/2025-03-01/0"
-intitule_bron: "Stb.2024-380"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-29"
-intitule_published: "2024-12-04"
-intitule_in_force: "2024-12-04"
-intitule_status: "goed"
-original_publication: "Stb.2024-380"
-original_signed_date: "2024-11-29"
-original_published_date: "2024-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2024-380"
-entry_into_force_date: "2025-03-01"
-jci_1_3: "jci1.3:c:BWBR0050665&z=2025-03-01&g=2025-03-01"
-jci_1_0: "1.0:c:BWBR0050665&g=2025-03-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gegevensverwerking door samenwerkingsverbanden"
-signed_date: "2024-11-29"
-entry_into_force: "2025-03-01"
+publicatiedatum: 2025-03-01
+laatste_update: 2025-03-01
+status: geldig
+toestand: 2025-03-01
+bron: "https://wetten.overheid.nl/BWBR0050665"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van 29 november 2024 tot uitvoering van de Wet gegevensverwerking door samenwerkingsverbanden (Besluit gegevensverwerking door samenwerkingsverbanden) en tot vaststelling van het tijdstip van inwerkingtreding van die wet en van de Wet van 26 juni 2024 tot wijziging van de Wet gegevensverwerking door samenwerkingsverbanden in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 13 juni 2024, directie Wetgeving en Juridische Zaken, nr. 5546793;
-
-Gelet op de [artikelen 1.1, derde streepje](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.1), [1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.4), [1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.8), [1.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.9), [1.10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.10), [2.3, eerste lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.3), [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.4), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.6), [2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.7), [2.11, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.11), [2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.12), [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.14), [2.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.16), [2.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.19), [2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.22), [2.23, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.23), [2.24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.24), [2.30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.30), [2.31, twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.31), [2.32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.32), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=4.1) en [5.2 van de Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=5.2);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 2 oktober 2024, no. W16.24.00142/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid, van 26 november 2024, directie Wetgeving en Juridische Zaken, nr. 5844557;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -274,9 +242,9 @@ Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwer
 
 - a. sprake is van duidelijke en objectieve aanwijzingen van een of meerdere deelnemers dat bepaalde gedragingen of situaties verband kunnen houden met:
 
-- 1°. een inbreuk op de integriteit van natuurlijke of rechtspersonen die binnen het financiële stelsel werkzaam zijn, of
+   - 1° een inbreuk op de integriteit van natuurlijke of rechtspersonen die binnen het financiële stelsel werkzaam zijn, of
 
-- 2°. het gebruik van het financiële stelsel, of onderdelen daarvan, voor financieel-economische criminaliteit, terrorismefinanciering en andere ernstige vormen van criminaliteit;
+   - 2° het gebruik van het financiële stelsel, of onderdelen daarvan, voor financieel-economische criminaliteit, terrorismefinanciering en andere ernstige vormen van criminaliteit;
 
 - b. gezamenlijke gegevensverwerking noodzakelijk is in relatie tot het doel van het Financieel Expertisecentrum, bedoeld in [artikel 2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.2);
 
@@ -284,11 +252,11 @@ Voor zover in het Financieel Expertisecentrum gezamenlijk gegevens worden verwer
 
 - d. het signaal of verzoek een vermelding omvat van:
 
-- 1°. de feiten, omstandigheden en gedragingen die relevant zijn voor het signaal of verzoek;
+   - 1°. de feiten, omstandigheden en gedragingen die relevant zijn voor het signaal of verzoek;
 
-- 2°. de rechtspersoon, de natuurlijke persoon of het object waarop het signaal of verzoek ziet en zijn relatie met de gevraagde gegevens;
+   - 2°. de rechtspersoon, de natuurlijke persoon of het object waarop het signaal of verzoek ziet en zijn relatie met de gevraagde gegevens;
 
-- 3°. indien een verzoek wordt gedaan tot een gegevensanalyse: een afbakening welke informatie hiervoor nodig is, met een toelichting daarop.
+   - 3°. indien een verzoek wordt gedaan tot een gegevensanalyse: een afbakening welke informatie hiervoor nodig is, met een toelichting daarop.
 
 2. Bij een signaal of verzoek dat betrekking heeft op het gezamenlijk verwerken van gegevens in een publiek-private taskforce, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2025-03-01&g=2025-03-01), geldt in aanvulling op het eerste lid als vereiste dat het signaal of verzoek is ingediend door de politie of de Fiscale Inlichtingen- en Opsporingsdienst, onder vermelding van de identificerende gegevens van een persoon die in verband kan worden gebracht met een voornoemde vorm van criminaliteit of de financiering daarvan.
 
@@ -328,13 +296,13 @@ In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.
 
 - a. sprake is van duidelijke en objectieve aanwijzingen dat op onrechtmatige wijze financieel gewin is of wordt behaald door middel van:
 
-- 1°. een misdrijf als omschreven in [artikel 67, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67);
+   - 1°. een misdrijf als omschreven in [artikel 67, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67);
 
-- 2°. een overtreding van een wettelijk voorschrift waarvoor naar verwachting een bestuurlijke sanctie van ten minste € 5000 kan worden opgelegd of die kan leiden tot weigering, inperking, of intrekking van een vergunning of integriteitsverklaring;
+   - 2°. een overtreding van een wettelijk voorschrift waarvoor naar verwachting een bestuurlijke sanctie van ten minste € 5000 kan worden opgelegd of die kan leiden tot weigering, inperking, of intrekking van een vergunning of integriteitsverklaring;
 
-- 3°. een fiscale overtreding bij een vermoeden van benadeling van ten minste € 5000, of
+   - 3°. een fiscale overtreding bij een vermoeden van benadeling van ten minste € 5000, of
 
-- 4°. een overheidsvordering die oninbaar dreigt te worden van ten minste € 5000 vanwege een onherroepelijke boete, ontnemingsmaatregel of schadevergoedingsmaatregel;
+   - 4°. een overheidsvordering die oninbaar dreigt te worden van ten minste € 5000 vanwege een onherroepelijke boete, ontnemingsmaatregel of schadevergoedingsmaatregel;
 
 - b. de gevraagde rapportage met het oog op het doel van de Infobox Crimineel en Onverklaarbaar Vermogen, bedoeld in [artikel 2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.10), noodzakelijk en evenredig is voor de uitoefening van publiekrechtelijke taken en bevoegdheden van de verzoekende deelnemer, bedoeld in [artikel 2.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.11) of [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-03-01&g=2025-03-01) van dit besluit;
 
@@ -342,11 +310,11 @@ In aanvulling op [artikel 2.11, eerste lid, van de wet](https://wetten.overheid.
 
 - d. het verzoek een vermelding omvat van:
 
-- 1°. de taak of bevoegdheid van de deelnemer en het betrokken element van het doel, bedoeld in [artikel 2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.10), met het oog waarop het verzoek wordt gedaan;
+   - 1°. de taak of bevoegdheid van de deelnemer en het betrokken element van het doel, bedoeld in [artikel 2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.10), met het oog waarop het verzoek wordt gedaan;
 
-- 2°. de natuurlijke of rechtspersonen waarop het verzoek ziet, of, in geval van een rapportage over vermogen en inkomsten, eventueel het object waarop het verzoek ziet, en
+   - 2°. de natuurlijke of rechtspersonen waarop het verzoek ziet, of, in geval van een rapportage over vermogen en inkomsten, eventueel het object waarop het verzoek ziet, en
 
-- 3°. indien het een verzoek om een rapportage over financieel-zakelijke relaties betreft, de feiten en omstandigheden die relevant zijn om te kunnen bepalen welke relaties moeten worden opgenomen in de rapportage.
+   - 3°. indien het een verzoek om een rapportage over financieel-zakelijke relaties betreft, de feiten en omstandigheden die relevant zijn om te kunnen bepalen welke relaties moeten worden opgenomen in de rapportage.
 
 2. De deelnemer die het verzoek aanmeldt, draagt er zorg voor dat daarin is toegelicht in hoeverre is voldaan aan de criteria, bedoeld in het eerste lid. De deelnemers registreren een verzoek om een rapportage in het systeem waarin zij gezamenlijk gegevens verwerken, met daarbij de vermelding of is voldaan aan de criteria voor het in behandeling nemen van dat verzoek.
 
@@ -430,27 +398,27 @@ De Nederlandse Voedsel- en Warenautoriteit neemt in aanvulling op de wettelijke 
 
 De op grond van [artikel 2.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.22) te verstrekken categorieën gegevens, genoemd in de eerste kolom, hebben uitsluitend betrekking op de gegevens, genoemd in de tweede kolom, mits de gegevens met het oog op het doel van het Regionale Informatie- en Expertisecentrum toereikend, ter zake dienend en niet bovenmatig zijn.
 
-| **Categorie gegevens** | **Nadere regels, concretisering en bronnen van de gegevens** |
+| Categorie gegevens | Nadere regels, concretisering en bronnen van de gegevens |
 | --- | --- |
-| **Tijdens de eerste fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder a, van de wet** | **Tijdens de eerste fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder a, van de wet** |
-| identificerende gegevens, contactgegevens en het burgerservicenummer | gegevens van een deelnemer met de volledige personalia, titulatuur, aliassen, adres, eerdere adressen, contactgegevens, het burgerservicenummer en het gegeven welke personen behoren tot de directe kring van betrokkene, bedoeld in [artikel 2.22, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=2.22) |
+| Tijdens de eerste fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder a, van de wet |  |
+| identificerende gegevens, contactgegevens en het burgerservicenummer | gegevens van een deelnemer met de volledige personalia, titulatuur, aliassen, adres, eerdere adressen, contactgegevens, het burgerservicenummer en het gegeven welke personen behoren tot de directe kring van betrokkene, bedoeld in artikel 2.22, eerste lid, onder b, van de wet |
 | gegevens betreffende de verblijfsstatus | gegevens van de Immigratie- en Naturalisatiedienst over de verblijfsrechtelijke positie van een vreemdeling |
 | gegevens omtrent de woonsituatie | gegevens van een deelnemer over of de betreffende persoon de woonruimte huurt, heeft gekocht of inwoont, de samenstelling van het huishouden, de ligging, staat en inrichting van de woonruimte, en de aard en aantallen van inschrijvingen op het adres |
 | voertuiggegevens | gegevens van een deelnemer over kenteken, jaartal van uitgave, eigenaar, voormalige eigenaren, historie, soort voertuig, catalogus- en dagwaarde, uiterlijke kenmerken, overschrijvende instantie en gegevens over eventuele in- en uitvoer of sloop van het voertuig |
 | financiële gegevens | gegevens van een deelnemer, niet zijnde de rijksbelastingdienst, over de financiële en eigendomspositie, waaronder gegevens over ruimtelijke ontwikkeling en vastgoed, te weten: pacht, huur, verhuur, ingebruikgeving van objecten en gronden, erfpacht, opstalrecht en erfdienstbaarheden, grondexploitatie en gegevens over aan- en verkoop en eigendom van onroerend goed |
-| kadastrale gegevens | gegevens van een deelnemer over de datum van aankoop en de voorwaarden waaronder de koop is gesloten en gefinancierd, de notaris, personalia van verkoper of koper, verkoopbedrag, hypotheekgegevens, gegevens over de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119) en gegevens over het gebruik of de bestemming van een pand |
+| kadastrale gegevens | gegevens van een deelnemer over de datum van aankoop en de voorwaarden waaronder de koop is gesloten en gefinancierd, de notaris, personalia van verkoper of koper, verkoopbedrag, hypotheekgegevens, gegevens over de Wet waardering onroerende zaken en gegevens over het gebruik of de bestemming van een pand |
 | bedrijfsgegevens | gegevens van de Kamer van Koophandel die bij een deelnemer bekend zijn |
 | inkomensgegevens | gegevens van een deelnemer, niet zijnde de rijksbelastingdienst, over loon, uitkering, beleggingen, andere inkomsten, spaarsaldo, onrechtmatig verkregen inkomsten of indicaties daarvoor |
 | gegevens betreffende zakelijke relaties | gegevens van een deelnemer over de aard van de zakelijke relaties |
 | gegevens betreffende vergunning- of subsidieaanvragen, hierop genomen besluiten en juridische procedures | gegevens van de gemeente, provincie, het Uitvoeringsinstituut werknemersverzekeringen of de Nederlandse Voedsel- en Warenautoriteit betreffende vergunning- of subsidieaanvragen, hierop genomen besluiten en juridische procedures |
 | gegevens inzake toezicht en handhaving alsmede getroffen bestuurlijke maatregelen | gegevens van een deelnemer over voornemens, genomen besluiten en juridische procedures in het kader van toezicht, handhaving of bestuurlijke maatregelen, mede omvattende gegevens omtrent conservatoir beslag en meldingen ten behoeve van toezicht of handhaving inzake openbare orde en veiligheid |
-| **Tijdens de tweede fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder b, van de wet** | **Tijdens de tweede fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder b, van de wet** |
-| fiscale gegevens | gegevens van de rijksbelastingdienst of de gemeente over genomen besluiten, met inbegrip van boeten en aanslagen, juridische procedures, boekenonderzoeken, aangiften, openstaande schulden, aanslagen en betalingen en gegevens van de gemeente in het kader van de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119) over de gebruiker en eigenaar van een object en de waardebepaling en -vaststelling |
-| politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) | politiegegevens in de zin van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8) en [13 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) |
-| justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens | justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens als bedoeld in [artikel 1 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) |
+| Tijdens de tweede fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder b, van de wet |  |
+| fiscale gegevens | gegevens van de rijksbelastingdienst of de gemeente over genomen besluiten, met inbegrip van boeten en aanslagen, juridische procedures, boekenonderzoeken, aangiften, openstaande schulden, aanslagen en betalingen en gegevens van de gemeente in het kader van de Wet waardering onroerende zaken over de gebruiker en eigenaar van een object en de waardebepaling en -vaststelling |
+| politiegegevens in de zin van de artikelen 8 en 13 van de Wet politiegegevens | politiegegevens in de zin van de artikelen 8 en 13 van de Wet politiegegevens |
+| justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens | justitiële en strafvorderlijke gegevens en tenuitvoerleggingsgegevens als bedoeld in artikel 1 van de Wet justitiële en strafvorderlijke gegevens |
 | gegevens over seksueel gedrag of seksuele gerichtheid | persoonsgegevens van een deelnemer met betrekking tot iemands seksueel gedrag wanneer de verwerking noodzakelijk is in aanvulling op de verwerking van persoonsgegevens van strafrechtelijke aard, voor onderzoeken in het kader van bestrijding van mensenhandel, illegale prostitutie en uitbuiting, met uitsluiting van persoonsgegevens met betrekking tot seksuele gerichtheid |
-| **Tijdens de derde fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder c, van de wet** | **Tijdens de derde fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder c, van de wet** |
-| politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) | politiegegevens in de zin van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9) en [10, eerste lid, onderdelen a en c, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10) |
+| Tijdens de derde fase van gegevensverwerking, bedoeld in artikel 2.23, zesde lid, onder c, van de wet |  |
+| politiegegevens in de zin van de artikelen 9 en 10, eerste lid, onderdelen a en c, van de Wet politiegegevens | politiegegevens in de zin van de artikelen 9 en 10, eerste lid, onderdelen a en c, van de Wet politiegegevens |
 
 ##### Artikel 2.16. Criteria voor behandeling van een signaal
 
@@ -460,17 +428,17 @@ De op grond van [artikel 2.22, eerste lid, van de wet](https://wetten.overheid.n
 
 - b. het signaal gerelateerd is aan een van de volgende verschijningsvormen van georganiseerde criminaliteit:
 
-- 1°. mensenhandel en -smokkel;
+   - 1°. mensenhandel en -smokkel;
 
-- 2°. georganiseerde drugscriminaliteit;
+   - 2°. georganiseerde drugscriminaliteit;
 
-- 3°. fraude of misbruik in de vastgoedsector;
+   - 3°. fraude of misbruik in de vastgoedsector;
 
-- 4°. witwassen en daaraan gerelateerde vormen van financieel-economische criminaliteit;
+   - 4°. witwassen en daaraan gerelateerde vormen van financieel-economische criminaliteit;
 
-- 5°. misdrijven die een ernstige inbreuk op de rechtsorde opleveren als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), voor zover die georganiseerde criminaliteit betreffen, of
+   - 5°. misdrijven die een ernstige inbreuk op de rechtsorde opleveren als bedoeld in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), voor zover die georganiseerde criminaliteit betreffen, of
 
-- 6°. verschijningsvormen van georganiseerde criminaliteit die na toetsing van de evenredigheid zijn aangewezen door de bestuurders van de deelnemers die het samenwerkingsverband aansturen of door de Minister van Justitie en Veiligheid, en zijn bekendgemaakt door plaatsing op internet;
+   - 6°. verschijningsvormen van georganiseerde criminaliteit die na toetsing van de evenredigheid zijn aangewezen door de bestuurders van de deelnemers die het samenwerkingsverband aansturen of door de Minister van Justitie en Veiligheid, en zijn bekendgemaakt door plaatsing op internet;
 
 - c. gezamenlijke gegevensverwerking noodzakelijk is in relatie tot de doelstelling van het Regionaal Informatie- en Expertisecentrum;
 
@@ -540,22 +508,20 @@ Plaatsing van een betrokkene op de lijst met geprioriteerde casussen, bedoeld in
 
 ##### Artikel 3.1. Wijziging Besluit politiegegevens
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ##### Artikel 4.1. Inwerkingtreding
 
-Met ingang van 1 maart 2025 treden in werking:
+Met ingang van 1 maart 2025 treden in werking:
 
-- a. De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), met uitzondering van de [artikelen 1.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.3), en [1.4, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.4), die in werking treden met ingang van 1 juli 2025;
+- a. De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049962), met uitzondering van de [artikelen 1.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.3), en [1.4, derde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&artikel=1.4), die in werking treden met ingang van 1 juli 2025;
 
 - b. Dit besluit, met uitzondering van de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2025-03-01&g=2025-03-01), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2025-03-01&g=2025-03-01) en [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050665&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2025-03-01&g=2025-03-01), die in werking treden op een bij koninklijk besluit te bepalen tijdstip;
 
-- c. De Wet van 26 juni 2024 tot wijziging van de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254).
+- c. De Wet van 26 juni 2024 tot wijziging van de [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met het waarborgen van de parlementaire betrokkenheid bij de aanwijzing van andere samenwerkingsverbanden (Stb. 2024, 254).
 
 ##### Artikel 4.2. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gegevensverwerking door samenwerkingsverbanden.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

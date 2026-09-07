@@ -1,72 +1,32 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2024, kenmerk 4026155-1076406-PZO, houdende de instelling van het gezantschap voor aanpak regeldruk in de zorg"
+citeertitel: "Instellingsbesluit van het gezantschap voor aanpak regeldruk in de zorg"
 identifier: "BWBR0050642"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050642"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "17331763"
-version_id: "30541312"
-internal_id: "C43778801"
-label_id: "17235864"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050642/2025-01-01/0"
-intitule_bron: "Stcrt.2024-42887"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-19"
-intitule_published: "2024-12-31"
-intitule_in_force: "2024-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-42887"
-original_signed_date: "2024-12-19"
-original_published_date: "2024-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-42887"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050642&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050642&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit van het gezantschap voor aanpak regeldruk in de zorg"
-signed_date: "2024-12-19"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050642"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 19 december 2024, kenmerk 4026155-1076406-PZO, houdende de instelling van het gezantschap voor aanpak regeldruk in de zorg
-
-Overwegende dat het Ministerie van VWS een programma heeft lopen gericht op vermindering van administratieve lasten en regeldruk in de zorg, genaamd [Ont]regel de Zorg;
-
-Overwegende dat in het Integraal Zorgakkoord 2022 nadere afspraken zijn gemaakt met veldpartijen ten behoeve van het verminderen van administratieve lasten en regeldruk in de zorg;
-
-Overwegende dat de doelstelling voor halvering van deze lasten per 2030 tot 20% van de werktijd is opgenomen in het regeerprogramma van 13 september 2024;
-
-Overwegende dat partijen uit het IZA een Regiegroep Aanpak Regeldruk hebben opgericht met een brede werkagenda, waarbij naast IZA-deelnemers ook andere partijen zich hebben aangesloten;
-
-Overwegende dat een verdere intensivering van de aanpak van administratieve lasten en regeldruk in de zorg noodzakelijk is;
-
-Gelet op het Integraal Zorgakkoord 2022 onderdeel H Arbeidsmarkt en ontzorgen zorgprofessionals, afspraak 3 Vermindering regeldruk;
-
-Gelet op het regeerprogramma hoofdstuk 6a. Zorg, thema 2, Afwenden van een onbeheersbaar arbeidsmarkttekort;
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **IZA:** het Integraal Zorgakkoord 2022 gericht op de koersverandering om toekomstbestendige zorg mogelijk te maken;
+- a. *IZA:* het Integraal Zorgakkoord 2022 gericht op de koersverandering om toekomstbestendige zorg mogelijk te maken;
 
-- b. **BO IZA:** het bestuurlijk overleg waarin de voortgang van het IZA wordt besproken;
+- b. *BO IZA:* het bestuurlijk overleg waarin de voortgang van het IZA wordt besproken;
 
-- c. **Regiegroep:** de Regiegroep Aanpak Regeldruk die door het BO IZA is ingesteld;
+- c. *Regiegroep:* de Regiegroep Aanpak Regeldruk die door het BO IZA is ingesteld;
 
-- d. **Speciaal gezant:** een tijdelijke onafhankelijke functionaris, zoals genoemd in dit besluit;
+- d. *Speciaal gezant:* een tijdelijke onafhankelijke functionaris, zoals genoemd in dit besluit;
 
-- e. **Minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- e. *Minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2. Instelling speciaal gezanten aanpak regeldruk
 
@@ -100,7 +60,7 @@ De speciaal gezanten hebben een neutrale en onafhankelijke positie ten opzichte 
 
 ##### Artikel 6. Instellingsduur gezantschap en benoeming gezanten
 
-- a. Het gezantschap wordt ingesteld voor de periode van 1 januari 2025 tot en met 31 december 2029.
+- a. Het gezantschap wordt ingesteld voor de periode van 1 januari 2025 tot en met 31 december 2029.
 
 - b. Het gezantschap kan worden verkort of verlengd afhankelijk van de looptijd van het IZA.
 
@@ -132,11 +92,11 @@ De speciaal gezanten stellen hun eigen werkwijze vast.
 
 ##### Artikel 11. Inwerkingtreding, duur en intrekking
 
-- a. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst en werkt terug vanaf 1 januari 2025.
+- a. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij is geplaatst en werkt terug vanaf 1 januari 2025.
 
-- b. Dit besluit vervalt met ingang van 1 januari 2030.
+- b. Dit besluit vervalt met ingang van 1 januari 2030.
 
-- c. Met de inwerkingtreding van dit besluit vervalt het [Instellings- en benoemingsbesluit speciaal gezanten regeldruk zorg inzake Integraal Zorgakkoord 2022 van 8 maart 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049448).
+- c. Met de inwerkingtreding van dit besluit vervalt het [Instellings- en benoemingsbesluit speciaal gezanten regeldruk zorg inzake Integraal Zorgakkoord 2022 van 8 maart 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049448).
 
 ##### Artikel 12. Citeertitel
 

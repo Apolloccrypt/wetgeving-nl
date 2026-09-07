@@ -1,35 +1,16 @@
 ---
 title: "Handhavingskader KB-stelsel"
 identifier: "BWBR0050396"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-11-12"
-last_updated: "2024-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050396"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17264733"
-version_id: "30412322"
-internal_id: "C43615311"
-label_id: "17170434"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050396/2024-11-12/0"
-intitule_bron: "Stcrt.2024-36637"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-11-12"
-intitule_in_force: "2024-11-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-36637"
-original_published_date: "2024-11-12"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2024-36637"
-entry_into_force_date: "2024-11-12"
-jci_1_3: "jci1.3:c:BWBR0050396&z=2024-11-12&g=2024-11-12"
-jci_1_0: "1.0:c:BWBR0050396&g=2024-11-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-11-12"
+publicatiedatum: 2024-11-12
+laatste_update: 2024-11-12
+status: geldig
+toestand: 2024-11-12
+bron: "https://wetten.overheid.nl/BWBR0050396"
+opgehaald: 2026-09-07
 ---
+
 # Handhavingskader KB-stelsel
 
 ### 1. Inleiding
@@ -41,6 +22,20 @@ Dit handhavingskader bevat een specifieke toelichting op de handhavingstaak van 
 De TloKB is een zelfstandig bestuursorgaan en heeft hoofdtaken ten aanzien van drie stelsels: kwaliteitsborging bouw, erkende kwaliteitsverklaringen en werkzaamheden aan gasverbrandingsinstallaties.
 
 Binnen het KB-stelsel, zie figuur 1, voert de TloKB de volgende deeltaken uit, die tot doel hebben de verbetering van de bouwkwaliteit aan de hand van aantoonbare kwaliteit van bouwwerken en het vermogen om stelselmatig te leren van tekortkomingen:
+
+- • Het toelaten van kwaliteitsborgingsinstrumenten.1[Protocol werkwijze Toelating & Aanwijzing, TloKB.nl, publicatiedatum 22 april 2022](https://www.tlokb.nl/publicaties/publicaties/2022/4/22/index)
+
+- • Het bijhouden van een register van instrumenten en kwaliteitsborgers.2[Register | Toelatingsorganisatie Kwaliteitsborging Bouw (tlokb.nl)](https://register.tlokb.nl/kb/)
+
+- • Het toezicht op het functioneren en de effectiviteit van KB-stelsel in de praktijk:
+
+   - – Nalevingstoezicht bij de instrumentaanbieder en kwaliteitsborger met als doel te bevorderen dat de instrumentaanbieder zijn instrument naleeft.
+
+   - – Kwaliteitstoezicht op de werking van het KB-stelsel als geheel op de bouwplaats.
+
+- • Het monitoren van het KB-stelsel met het oog de op de effectiviteit van dit stelsel.
+
+Figuur 1: Het KB-stelsel
 
 ### 1.2. Doel handhavingskader
 
@@ -54,17 +49,47 @@ Dit handhavingskader is op te vatten als een beleidsregel. [Artikel 4:83 Algemen
 
 Het handhavingskader bouwt voort op de missie, visie en kernwaarden en met inzet van de kwaliteiten van de TloKB. Het handhavingskader geeft invulling aan het wettelijke kader en draagt bij aan een beter vertrouwen in kwaliteit van bouwen.
 
+Missie
+
 De TloKB ziet toe op het stelsel van kwaliteitsborging van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties. Eigenaren en gebruikers krijgen zo bouw- werken die veiliger, gezonder, duurzamer, bruikbaarder en toegankelijker zijn.
+
+Visie
 
 De TloKB speelt een publieke sleutelrol in de verbetering van de bouwkwaliteit. De TloKB laat toetsmethoden toe en ziet toe op het juiste gebruik van deze methoden in de bouwpraktijk. Zo kan iedereen vertrouwen op de kwaliteit van bouwwerken, bouwproducten en werkzaamheden aan gasverbrandingsinstallaties.
 
+Kernwaarden
+
 De TloKB voert haar taken uit vanuit drie kernwaarden:
 
+- • *Onafhankelijk:* de TloKB neemt besluiten en adviseert met het oog op het maatschappelijk belang van een goede bouwkwaliteit.
+
+- • *Transparant:* de TloKB geeft inzicht in de overwegingen die ten grondslag liggen aan het te nemen besluiten en adviezen, en draagt deze uit.
+
+- • *Zorgvuldig:* de TloKB neemt alle relevante aspecten in ogenschouw en staat open voor uiteenlopende maatschappelijke signalen.
+
+Kwaliteiten
+
 Bij de uitvoering van de taken zet de TloKB de volgende vier kwaliteiten in:
+
+- • *Professioneel:* de TloKB verstaat haar vak en is op de hoogte van de ontwikkelingen relevant voor de bouwsector.
+
+- • *Inlevend:* de TloKB voert vanuit een open houding overleg met betrokken partijen, weegt alle belangen en onderhoudt een relevant maatschappelijk netwerk.
+
+- • *Kosteneffectief:* de TloKB gaat in haar taakuitvoering doelmatig om met de aan hen verstrekte middelen.
+
+- • *Doortastend:* de TloKB verzamelt alle informatie die nodig is voor heldere en consistente besluitvorming in toelating en handhaving.
 
 ### 1.5. Beleidsregels KB-toezicht
 
 De TloKB stelt voor ieder stelsel waar zij toezichthoudende taken heeft kaders en een protocol werkwijze op, waarin zij de invulling vastlegt van het toezicht, de inspecties, de handhaving en de daarbij te hanteren werkwijze:
+
+- • een toezichtkader;
+
+- • een inspectiekader;
+
+- • een handhavingskader; en
+
+- • een protocol werkwijze toezicht (inspectie en handhaving).
 
 ### 1.6. Doel van handhaving door de TloKB
 
@@ -72,7 +97,7 @@ Het doel van de handhaving door de TloKB is de bevordering van het nalevingsgedr
 
 ### 1.7. Opbouw van het KB-handhavingskader
 
-In dit handhavingskader komt in hoofdstuk 2 een beschrijving aan de orde van wat handhaving is en wat de bevoegdheden zijn van de TloKB. Vervolgens beschrijft hoofdstuk 3 de handhavings- middelen van de TloKB. Verder beschrijft hoofdstuk 4 de afwegingen bij de inzet van de handhavingsmiddelen. Hoofdstuk 5 beschrijft de rechtsmiddelen van een instrumentaanbieder en van belanghebbende derden tegen een handhavingsbesluit van de TloKB. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050396&bijlage=1&z=2024-11-12&g=2024-11-12) beschrijft uit welke elementen een onderbouwing van het handhavingsbesluit kan bestaan.
+In dit handhavingskader komt in [hoofdstuk 2](https://wetten.overheid.nl/BWBR0050396) een beschrijving aan de orde van wat handhaving is en wat de bevoegdheden zijn van de TloKB. Vervolgens beschrijft [hoofdstuk 3](https://wetten.overheid.nl/BWBR0050396) de handhavings- middelen van de TloKB. Verder beschrijft [hoofdstuk 4](https://wetten.overheid.nl/BWBR0050396) de afwegingen bij de inzet van de handhavingsmiddelen. [Hoofdstuk 5](https://wetten.overheid.nl/BWBR0050396) beschrijft de rechtsmiddelen van een instrumentaanbieder en van belanghebbende derden tegen een handhavingsbesluit van de TloKB. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050396&bijlage=1&z=2024-11-12&g=2024-11-12) beschrijft uit welke elementen een onderbouwing van het handhavingsbesluit kan bestaan.
 
 ### 2. Handhavingsbevoegdheden
 
@@ -90,17 +115,23 @@ De juridische grondslag voor het toezicht en de handhaving door de TloKB in het 
 
 Lid 2 van dit artikel bepaalt onder meer:
 
+Toezichtbevoegdheden van de TloKB
+
 Het houden van toezicht op de naleving van het bepaalde bij of krachtens [artikel 7ac](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac) en [artikel 7ah Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ah). Dit houdt in het houden van toezicht op de naleving van de regels ten aanzien van de instrumenten van kwaliteitsborging in de bouw en de toepassing daarvan.
+
+Handhavingsbevoegdheden van de TloKB
 
 De TloKB is bevoegd om een instrumentaanbieder een last onder dwangsom op te leggen op grond van [artikel 92 lid 4 Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) juncto [5:32 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32) ter handhaving van de [artikelen 7ac tot en met 7ah Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac). Uit artikel 5:32 Awb volgt dat een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen, in plaats daarvan ook een last onder dwangsom kan opleggen.
 
-De TloKB is bevoegd om een instrumentaanbieder een waarschuwing te geven op grond van [artikel 7ag van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ag). De TloKB is bevoegd om de toelating van een instrument van kwaliteitsborging te schorsen op grond van [artikel 7af van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7af). De TloKB is bevoegd om de toelating van een instrument voor kwaliteitsborging in te trekken op grond van [artikel 7ae van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ae). Hoofdstuk 3 gaat nader in op de uitoefening van deze handhavingsbevoegdheden.
+De TloKB is bevoegd om een instrumentaanbieder een waarschuwing te geven op grond van [artikel 7ag van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ag). De TloKB is bevoegd om de toelating van een instrument van kwaliteitsborging te schorsen op grond van [artikel 7af van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7af). De TloKB is bevoegd om de toelating van een instrument voor kwaliteitsborging in te trekken op grond van [artikel 7ae van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ae). [Hoofdstuk 3](https://wetten.overheid.nl/BWBR0050396) gaat nader in op de uitoefening van deze handhavingsbevoegdheden.
 
 Inzet van de handhavingsbevoegdheden ‘waarschuwing’, ‘schorsing’ en ‘intrekken’ maakt de TloKB kenbaar in het register instrumenten kwaliteitsborging op [www.tlokb.nl](http://www.tlokb.nl/) ([artikelen 7ah](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ah) en [7ai Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ai)).
 
 Verder is de TloKB op grond van [artikel 92 lid 4 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=92) bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de [artikelen 7ac tot en met 7ah Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac).
 
-De voorschriften waaraan de instrumentaanbieders zich dienen te houden staan geregeld in [afdeling 1a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&afdeling=1a), het **Toelatingskader Wkb-instrument** en in de beschikking als afgegeven aan de instrumentaanbieder.
+De voorschriften waaraan de instrumentaanbieders zich dienen te houden staan geregeld in [afdeling 1a van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&afdeling=1a), het *Toelatingskader Wkb-instrument* en in de beschikking als afgegeven aan de instrumentaanbieder.
+
+Toezichthouders namens de TloKB
 
 Op grond van [artikel 93 lid 4 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=93) zijn met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 7ac](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac) en [artikel 7ah Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ah) belast de bij besluit van de TloKB aangewezen ambtenaren die deel uitmaken van het personeel, bedoeld in [artikel 7am Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7am). Dit besluit is gepubliceerd in de Staatscourant.5wetten.nl - Regeling - Besluit aanwijzing toezichthouders TloKB - BWBR0048007 (overheid.nl) De toezichthouders van de TloKB dragen een legitimatiebewijs.
 
@@ -108,11 +139,13 @@ De toezichthouders van de TloKB hebben de bevoegdheden als genoemd in [hoofdstuk
 
 De toezichthouder van de TloKB kan tekortkomingen in een instrument voor kwaliteitsborging en in de naleving constateren bij de instrumentaanbieder tijdens inspecties. Dit kan ook naar aanleiding van meldingen van de instrumentaanbieder zelf. Verder kunnen tekortkomingen geconstateerd worden na informatie uit meldingen van derden, uit informatie van andere toezichthouders en uit handhavingsverzoeken.
 
+Inspectierapport
+
 De bevindingen werkt de toezichthouder van de TloKB uit in een inspectierapport. Het inspectie- rapport beschrijft de bevindingen van de toezichthouder van de TloKB tijdens de inspectie.
 
 Verder beschrijft de toezichthouder van de TloKB in het rapport welke tekortkoming in de naleving van de betreffende wet- en regelgeving en de beschikkingsvoorschriften dit oplevert. Wanneer aan de orde worden ook de aanleiding van de inspectie, de ernst, de omstandigheden en de gevolgen van de overtreding nader toegelicht.
 
-Gedragingen van instrumentaanbieders die in strijd zijn met de voorschriften en de wet- en regelgeving als genoemd in het **Toelatingskader Wkb-instrument** en de beschikking, zijn overtredingen ([artikel 5:1 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1)). De TloKB kan op grond van de voorgenoemde bepalingen uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) handhavend optreden tegen deze overtredingen.
+Gedragingen van instrumentaanbieders die in strijd zijn met de voorschriften en de wet- en regelgeving als genoemd in het *Toelatingskader Wkb-instrument* en de beschikking, zijn overtredingen ([artikel 5:1 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1)). De TloKB kan op grond van de voorgenoemde bepalingen uit de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) handhavend optreden tegen deze overtredingen.
 
 ### 3. Handhavingsmiddelen
 
@@ -136,7 +169,7 @@ De TloKB kan een waarschuwing geven. De TloKB maakt de waarschuwing aan de instr
 
 ### 3.3. Schorsing toelating
 
-De TloKB kan de toelating van een instrument voor een door haar vast te stellen termijn schorsen, indien de instrumentaanbieder niet (langer) voldoet aan de beschikkingsvoorwaarden, dan wel aan de van toepassing zijnde de wet- en regelgeving als genoemd in het **Toelatingskader Wkb-instrument**.
+De TloKB kan de toelating van een instrument voor een door haar vast te stellen termijn schorsen, indien de instrumentaanbieder niet (langer) voldoet aan de beschikkingsvoorwaarden, dan wel aan de van toepassing zijnde de wet- en regelgeving als genoemd in het *Toelatingskader Wkb-instrument*.
 
 De TloKB schorst de aanwijzing van een instrument in ieder geval, als de instrumentaanbieder in surseance van betaling verkeert.
 
@@ -145,6 +178,16 @@ De TloKB maakt de schorsing van de toelating van instrumenten voor kwaliteitsbor
 ### 3.4. Intrekking toelating
 
 De TloKB kan de toelating van een instrument intrekken, als:
+
+- a. de gegevens die met het oog op de toelating zijn verstrekt, zodanig onjuist of onvolledig blijken, dat op de aanvraag om toelating een andere beslissing zou zijn genomen, indien bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
+
+- b. het toegelaten instrument voor kwaliteitsborging niet meer voldoet aan de bij of krachtens [artikel 7ac, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac), gestelde regels;
+
+- c. de instrumentaanbieder in strijd handelt met het bepaalde in [artikel 7ac, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=7ac), of met een of meer andere uit de toelating van een instrument voor kwaliteitsborging voortvloeiende verplichtingen;
+
+- d. de instrumentaanbieder failliet is verklaard; dan wel
+
+- e. indien de instrumentaanbieder daarom verzoekt.
 
 Als de TloKB de toelating van een instrument intrekt, mag het instrument nog zes maanden gebruikt worden.
 
@@ -158,23 +201,43 @@ De TloKB maakt de intrekking in het register kenbaar instrumenten kwaliteitsborg
 
 De TloKB legt haar bevindingen vast in een inspectierapport. Daarnaast legt zij in het rapport vast of er sprake is van een of meer tekortkomingen in de naleving van de wet- en regelgeving en voorschriften uit de toelatingsbeschikking. Zo ja, dan is de tekortkoming een overtreding. De TloKB legt dan de overtreding vast en beschrijft waarom dit een overtreding is.
 
-Afhankelijk van de ernst en aard van de tekortkoming/overtreding kan de TloKB er vervolgens voor kiezen, alvorens te besluiten tot inzet van handhavingsmiddelen, eerst aan te spreken, aan te schrijven, een bestuurlijk gesprek te initiëren of over te gaan tot verscherpt toezicht. Dit kan de TloKB combineren met een correctief actieplan, als beschreven in paragraaf 4.3. Het doel hiervan is om de instrumentaanbieder te bewegen zo spoedig mogelijk uit eigen beweging te voldoen aan de wet- en regelgeving en aan de voorschriften uit de toelatingsbeschikking. Dit laat onverlet dat de TloKB kan besluiten om direct over te gaan tot de inzet van handhavingsmiddelen, wanneer de omvang en aard van de overtredingen hierom vragen. Voor de inzet van handhavingsmiddelen is het voorgaand aanspreken, aanschrijven, een bestuurlijk gesprek initiëren of overgaan tot verscherpt toezicht echter niet altijd aangewezen. Het is aan de TloKB om zelf af te wegen welke maatregel of welke combinatie van maatregelen in welke volgorde zij inzet.
+Afhankelijk van de ernst en aard van de tekortkoming/overtreding kan de TloKB er vervolgens voor kiezen, alvorens te besluiten tot inzet van handhavingsmiddelen, eerst aan te spreken, aan te schrijven, een bestuurlijk gesprek te initiëren of over te gaan tot verscherpt toezicht. Dit kan de TloKB combineren met een correctief actieplan, als beschreven in [paragraaf 4.3](https://wetten.overheid.nl/BWBR0050396). Het doel hiervan is om de instrumentaanbieder te bewegen zo spoedig mogelijk uit eigen beweging te voldoen aan de wet- en regelgeving en aan de voorschriften uit de toelatingsbeschikking. Dit laat onverlet dat de TloKB kan besluiten om direct over te gaan tot de inzet van handhavingsmiddelen, wanneer de omvang en aard van de overtredingen hierom vragen. Voor de inzet van handhavingsmiddelen is het voorgaand aanspreken, aanschrijven, een bestuurlijk gesprek initiëren of overgaan tot verscherpt toezicht echter niet altijd aangewezen. Het is aan de TloKB om zelf af te wegen welke maatregel of welke combinatie van maatregelen in welke volgorde zij inzet.
+
+Aanspreken/informeren
 
 De TloKB spreekt een instrumentaanbieder aan die een overtreding heeft begaan en initiatief toont om dit zelf op te lossen.
 
+Aanschrijving – brief met hersteltermijn
+
 Een instrumentaanbieder die een overtreding begaat of in overtreding is, kan een aanschrijving krijgen. Daarin staat dat hij moet voldoen aan de betreffende wet- en regelgeving/voorschriften en de termijn waarbinnen. In de brief staat ook dat de TloKB andere middelen kan inzetten als de maatregelen niet op tijd zijn getroffen. De TloKB maakt de aanschrijving niet kenbaar in het register.
+
+Bestuurlijk gesprek
 
 Een bestuurlijk gesprek is een gesprek tussen het bestuur van de TloKB en (de directie van) de overtreder. Zo’n gesprek vindt soms plaats als vervolg op een aanschrijving, en gaat vaak vooraf aan verscherpt toezicht. Het doel van het gesprek is om te benadrukken hoe belangrijk het is dat de instrumentaanbieder de overtreding opheft.
 
+Verscherpt toezicht
+
 Bij verscherpt toezicht krijgt een instrumentaanbieder de gelegenheid om binnen een door de TloKB vastgestelde termijn de overtreding te beëindigen. De TloKB houdt in een periode van verscherpt toezicht de voortgang van het opheffen van de overtreding in de gaten. Dit doet zij bijvoorbeeld door extra (onaangekondigde) inspecties uit te voeren en door resultaatsverslagen van een correctief actieplan op te vragen.
 
+Correctief actieplan
+
 Voorafgaand aan en tijdens het handhavend optreden kan de TloKB de instrumentaanbieder opdragen een correctief actieplan te maken. Dit correctief actieplan kan inhouden:
+
+- • een analyse van de oorzaak;
+
+- • een analyse van de omvang en eventueel van hoe lang de overtreding(en) zich heeft (hebben) voorgedaan;
+
+- • de te nemen herstelstappen;
+
+- • de acties om de oorzaak weg te nemen en
+
+- • het aantonen door de instrumentaanbieder van de effectiviteit van de getroffen maatregelen.
 
 Beëindigt de instrumentaanbieder niet tijdig de overtreding, dan wel leiden genomen verbeter- acties onvoldoende tot verbetering, dan kan de TloKB besluiten om direct (verder) handhavend op te treden.
 
 ### 4.2. Werkwijze handhavingsbesluit
 
-Naast het handhavingsrepertoire beschreven in paragraaf 4.1 is de TloKB bevoegd om handhavingsmiddelen in te zetten als beschreven in hoofdstuk 3.
+Naast het handhavingsrepertoire beschreven in [paragraaf 4.1](https://wetten.overheid.nl/BWBR0050396) is de TloKB bevoegd om handhavingsmiddelen in te zetten als beschreven in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0050396).
 
 Of en zo ja welk handhavingsmiddel de TloKB inzet, hangt af van de concrete situatie. Verder zijn ook de ernst, de omstandigheden, het optreden van de instrumentaanbieder, of andere overheidsinstanties al handhaven of gehandhaafd hebben en de andere elementen uit [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050396&bijlage=1&z=2024-11-12&g=2024-11-12) daarbij van belang. Ook andere feiten en omstandigheden kunnen hierbij een rol spelen. De opsomming is daarom niet limitatief.
 
@@ -183,6 +246,16 @@ Indien de TloKB besluit tot de inzet van bestuursdwang/een last onder dwangsom, 
 In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050396&bijlage=1&z=2024-11-12&g=2024-11-12) staan de elementen die dit handhavingsbesluit verder kan bevatten.
 
 Bij het nemen van het handhavingsbesluit en bij de uitoefening van de handhavingsbevoegdheid past de TloKB de beginselen van behoorlijk bestuur uit de algemene wet bestuursrecht toe. Deze beginselen zijn onder meer:
+
+- • *Beginselplicht tot handhaving* Gelet op het algemeen belang dat is gediend met handhaving, zal de TloKB in geval van overtreding van een voorschrift in het geval zij bevoegd is om op te treden, in de regel van deze bevoegdheid gebruik moeten maken (of een handhavingstraject in gang moeten zetten dat tot het gebruiken van die bevoegdheid zal of kan leiden). Slechts onder bijzondere omstandigheden mag de TloKB weigeren dit te doen. Dit kan zich voordoen als concreet zicht op legalisering bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.
+
+- • *Motiveringsbeginsel* In een besluit motiveert de TloKB voldoende duidelijk op basis waarvan en waarom zij een bepaalde beslissing neemt of niet neemt.
+
+- • *Gelijkheidsbeginsel* Uit een oogpunt van rechtsgelijkheid past de TloKB handhavingsmiddelen in vergelijkbare situaties op eenzelfde wijze toe.
+
+- • *Proportionaliteitsbeginsel* De inzet van het toezicht en de handhaving dient in verhouding te staan tot het doel.
+
+- • *Verdedigingsbeginsel* De persoon of onderneming die als overtreder te maken krijgt met handhavend optreden door de TloKB moet in de gelegenheid worden gesteld zijn of haar zienswijze kenbaar te maken, en daarvoor een redelijke termijn te krijgen. De termijn waarbinnen de overtreder haar zienswijze kan geven staat in de brief van de TloKB. In die brief wordt de overtreder uitgenodigd om binnen die termijn zijn zienswijze te geven op het voorgenomen handhavend optreden. Die redelijke termijn is meestal twee weken na dagtekening. Bij bestuursrechtelijke handhaving heeft dit beginsel mede uitwerking gekregen in de hoorplicht van [art. 4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:7) en [4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) (spoedei- sende gevallen uitgezonderd).
 
 Bij schorsing en intrekking van de toelating blijven de op basis van het instrument afgegeven toestemmingen om het instrument te gebruiken in principe gedurende zes maanden dan wel gedurende de termijn van schorsing geldig voor bouwprojecten die al zijn aangevangen, tenzij de TloKB aanleiding ziet een kortere termijn te stellen of het instrument meteen in te trekken. Dit laatste zal de TloKB alleen doen als de kwaliteitsborging met toepassing van het betreffende instrument leidt tot strijdigheden met de bouwtechnische voorschriften. Door een termijn van zes maanden te stellen wordt voorkomen dat alle bouwprojecten waar het instrument wordt toegepast direct worden stilgelegd. Deze termijn biedt partijen de mogelijkheid een bouwwerk af te ronden dan wel een ander instrument of andere kwaliteitsborger in te schakelen.
 
@@ -200,7 +273,11 @@ In 2026 zal de TloKB evalueren of een nadere invulling van het handhavingskader 
 
 ### 5.1. Zienswijze en rechtsmiddelen
 
+Zienswijze
+
 Voorafgaand aan handhaving met een formeel besluit stelt de TloKB de betrokken instrument- aanbieder en eventuele andere door het besluit geraakten (belanghebbenden) in de gelegenheid zijn/hun zienswijze naar voren te brengen. De grondslag hiervoor staat in [artikel 4:8 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8). De zienswijze kan per e-mail aan de TloKB worden gegeven en is vormvrij. De TloKB stuurt hen een brief waarin zij het een en ander toelicht.
+
+Rechtsmiddelen
 
 Tegen een besluit tot oplegging van een last onder bestuursdwang, een last onder dwangsom, een besluit tot waarschuwing, tot schorsing dan wel tot intrekking van een toelatingsbeschikking kunnen beschikkinghouders en eventuele andere belanghebbenden binnen zes weken na het besluit schriftelijk bezwaar maken. Het besluit bevat hierover nadere informatie.
 
@@ -219,57 +296,3 @@ Een beschikkinghouder kan om een opheffing van een waarschuwing, schorsing of in
 Daarvoor dient de beschikkinghouder aantoonbaar te maken dat hij de overtreding(en) ongedaan heeft gemaakt dan wel heeft hersteld en dat hij maatregelen heeft genomen, ter voorkoming dat de overtreding(en) zich wederom voordoen. Het gaat erom dat de beschikkinghouder aantoonbaar maakt dat het correctief actieplan is uitgevoerd.
 
 Ook van een last onder dwangsom kan de opheffing worden verzocht. De TloKB kan op grond van [artikel 5:34 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:34) op verzoek van de instrumentaanbieder de last opheffen indien de beschikking een jaar van kracht is geweest zonder dat de dwangsom is verbeurd. Ook kan op verzoek van de instrumentaanbieder de looptijd van de last worden opgeschort voor een bepaalde termijn of de dwangsom worden verminderd ingeval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de instrumentaanbieder om aan zijn verplichtingen te voldoen.
-
-## Bijlage 1. Onderbouwing van het handhavingsbesluit
-
-In een handhavingsbesluit geeft de TloKB een onderbouwing van het besluit.
-
-Een handhavingsbesluit kan, als aan de orde, bevatten:
-
-- •. de bevindingen van de toezichthouder/inspecteur van de TloKB;
-
-- •. op grond waarvan de toezichthouder bevoegd was toezicht te houden en waarop;
-
-- •. de concrete situatie en de omstandigheden op welke datum/data;
-
-- •. de constatering van de tekortkoming in de naleving van de van toepassing zijnde wet- en regelgeving (waar, wanneer en van wie en door wie) en waar dit uit is gebleken;
-
-- •. welke overtreding(en) van welke wet- en regelgeving dit oplevert;
-
-- •. op grond waarvan de TloKB bevoegd is handhavend op te treden tegen deze overtreding(en);
-
-- •. de ernst/de mogelijke gevolgen, bijvoorbeeld of er sprake is van (dreigende) schade7Ernstige situatie is een situatie die een dusdanig risico oplevert, dat directe actie noodzakelijk is. Te denken valt aan een bedreiging voor het stelsel, bijvoorbeeld door:i. Aanwijzingen van (moedwillige) fraude zoals vervalsing van bewijsstukken, (pogingen tot) intimidatie, omkoping of andere pogingen om het oordeel van de toezichthouder te beïnvloeden.ii. Aanwijzingen van malversaties bij de afgifte van verklaringen.iii. Een situatie met direct gevaar voor de veiligheid en/of gezondheid;Aanwijzingen van zaken die het vertrouwen in de instrumentaanbieder ernstig beschadigen. Deze opsomming is niet limitatief;
-
-- •. het gedrag van de instrumentaanbieder, waaronder of er door de instrumentaanbieder onderzoek is gedaan naar de oorzaak van de overtreding(en) en of en zo ja welke herstel- maatregelen de instrumentaanbieder heeft genomen;
-
-- •. de eventuele handhavingsacties van andere overheidsinstanties;
-
-- •. de termijn waarbinnen het herstel uitgevoerd dient te zijn;
-
-- •. de gevolgen van de overtreding(en) en van het achterwege blijven van herstel van de overtreding;
-
-- •. de eventuele verzwarende en verzachtende omstandigheden die een rol hebben gespeeld bij de bepaling of en op welke wijze de TloKB handelt en handhaaft.
-
-- •. de gevolgen van het overschrijden van de opgelegde termijn zonder herstel, als aan de orde;
-
-- •. een beschrijving van wat de TloKB van de instrumentaanbieder verwacht en op welke termijn;
-
-- •. de afweging van de verschillende belangen waar de TloKB mee rekening dient te houden;
-
-- •. een mogelijkheid om een zienswijze op het besluit te kunnen geven; en
-
-- •. de rechtsmiddelen.
-
-**Toelatingsorganisatie Kwaliteitsborging Bouw**
-
-Februari 2024
-
-Veraartlaan 10 | 2288 GM | Rijswijk
-
-Postbus 20011 | 2500 EA | Den Haag
-
-Telefoon: (070) 307 03 57
-
-E-mail: info@tlokb.nl
-
-[www.tlokb.nl](http://www.tlokb.nl/)

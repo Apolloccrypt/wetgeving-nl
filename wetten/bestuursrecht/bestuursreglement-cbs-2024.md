@@ -1,67 +1,40 @@
 ---
 title: "Bestuursreglement CBS 2024"
 identifier: "BWBR0050315"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-22"
-last_updated: "2024-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050315"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17245193"
-version_id: "30372622"
-internal_id: "C43558211"
-label_id: "17151204"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050315/2024-10-22/0"
-intitule_bron: "Stcrt.2024-33974"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-10-11"
-intitule_published: "2024-10-21"
-intitule_in_force: "2024-10-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-33974"
-original_signed_date: "2024-10-11"
-original_published_date: "2024-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-33974"
-entry_into_force_date: "2024-10-22"
-jci_1_3: "jci1.3:c:BWBR0050315&z=2024-10-22&g=2024-10-22"
-jci_1_0: "1.0:c:BWBR0050315&g=2024-10-22"
-citeertitel_status: "officieel"
-signed_date: "2024-10-11"
-entry_into_force: "2024-10-22"
+publicatiedatum: 2024-10-22
+laatste_update: 2024-10-22
+status: geldig
+toestand: 2024-10-22
+bron: "https://wetten.overheid.nl/BWBR0050315"
+opgehaald: 2026-09-07
 ---
+
 # Bestuursreglement CBS 2024
-
-Gelet op [artikel 2b van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=2b) en [artikel 11, eerste lid van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11)
-
-Gezien de goedkeuring van de Minister van Economische Zaken op 7 oktober 2024
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
-- 1. **wet:** [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=2b);
+- 1. *wet:*
+ [Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=2b);
 
-- 2. **CBS:** het Centraal bureau voor de statistiek;
+- 2. *CBS:* het Centraal bureau voor de statistiek;
 
-- 3. **directeur-generaal:** de directeur-generaal van de statistiek;
+- 3. *directeur-generaal:* de directeur-generaal van de statistiek;
 
-- 4. **de plaatsvervangend directeur-generaal:** een door de directeur-generaal aan te wijzen plaatsvervanger, zijnde één van de hoofddirecteuren;
+- 4. *de plaatsvervangend directeur-generaal:* een door de directeur-generaal aan te wijzen plaatsvervanger, zijnde één van de hoofddirecteuren;
 
-- 5. **minister:** de Minister van Economische Zaken;
+- 5. *minister:* de Minister van Economische Zaken;
 
-- 6. **directieberaad:** de directeur-generaal, de hoofddirecteuren en de directeur Blaise®;
+- 6. *directieberaad:* de directeur-generaal, de hoofddirecteuren en de directeur Blaise®;
 
-- 7. **hoofddirecteur:** de manager van een van de hoofddirecties van het CBS;
+- 7. *hoofddirecteur:* de manager van een van de hoofddirecties van het CBS;
 
-- 8. **raad van advies:** de raad van advies, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=20);
+- 8. *raad van advies:* de raad van advies, bedoeld in [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=20);
 
-- 9. **gebruikersraden:** vaste groep van externe adviseurs afkomstig vanuit praktijk, beleid en wetenschap (zoals directeuren van departementen en planbureaus, hoogleraren, en directeuren of hoofden van brancheorganisaties of onderzoeksinstellingen), die overleggen met een hoofddirecteur van het CBS over onderwerpen op het werkterrein van de betreffende hoofddirectie.
+- 9. *gebruikersraden:* vaste groep van externe adviseurs afkomstig vanuit praktijk, beleid en wetenschap (zoals directeuren van departementen en planbureaus, hoogleraren, en directeuren of hoofden van brancheorganisaties of onderzoeksinstellingen), die overleggen met een hoofddirecteur van het CBS over onderwerpen op het werkterrein van de betreffende hoofddirectie.
 
 #### Organisatie
 
@@ -115,13 +88,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 1. De secretaris van het directieberaad stelt een verslag op van het verhandelde in de vergadering. Het verslag bevat ten minste:
 
-- −. een opgave van de aanwezige personen;
+- − een opgave van de aanwezige personen;
 
-- −. een vermelding van de behandelde aangelegenheden;
+- − een vermelding van de behandelde aangelegenheden;
 
-- −. zo nodig een voor goed begrip van hetgeen is besloten noodzakelijke, korte weergave van de gevoerde discussie;
+- − zo nodig een voor goed begrip van hetgeen is besloten noodzakelijke, korte weergave van de gevoerde discussie;
 
-- −. een lijst van de genomen beslissingen en actiepunten.
+- − een lijst van de genomen beslissingen en actiepunten.
 
 2. Een lid van het directieberaad dat zich niet kan verenigen met een genomen beslissing, kan daarvan een met redenen omklede aantekening in het verslag doen opnemen.
 
@@ -155,15 +128,15 @@ In dit bestuursreglement wordt verstaan onder:
 
 1. De leden van de raad van advies voldoen aan het volgende profiel:
 
-- •. affiniteit met de taken van het CBS;
+- • affiniteit met de taken van het CBS;
 
-- •. een omvangrijk en voor het werkterrein van het CBS relevant netwerk;
+- • een omvangrijk en voor het werkterrein van het CBS relevant netwerk;
 
-- •. kennis van het functioneren van grote organisaties;
+- • kennis van het functioneren van grote organisaties;
 
-- •. kennis van bedrijfsvoering;
+- • kennis van bedrijfsvoering;
 
-- •. een specifieke deskundigheid als bedoeld in het tweede lid van dit artikel.
+- • een specifieke deskundigheid als bedoeld in het tweede lid van dit artikel.
 
 2. In de raad van advies zijn in ieder geval de volgende deskundigheden vertegenwoordigd: politiek- bestuurlijk, juridisch, financieel, ICT, data/methodologie/statistiek, en Europese/internationale en mededingingsrechtelijke deskundigheid. De leden van de raad hebben inzicht in ontwikkelingen in de maatschappij en economie.
 
@@ -173,11 +146,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 2. Alle leden van de raad van advies zijn onafhankelijk in de zin dat ze voldoen aan de volgende onafhankelijkheidscriteria:
 
-- •. in de vijf jaar voorgaande aan de benoeming was het lid geen werknemer van het CBS;
+- • in de vijf jaar voorgaande aan de benoeming was het lid geen werknemer van het CBS;
 
-- •. het lid was in het jaar voorafgaande aan de benoeming geen ambtenaar of politiek ambtsdrager van het ministerie waaronder het CBS ressorteert;
+- • het lid was in het jaar voorafgaande aan de benoeming geen ambtenaar of politiek ambtsdrager van het ministerie waaronder het CBS ressorteert;
 
-- •. het lid was in de vijf jaar voorafgaande aan de benoeming geen belangrijke zakelijke relatie van CBS, waaronder ook verstaan wordt een adviseurschap van het CBS.
+- • het lid was in de vijf jaar voorafgaande aan de benoeming geen belangrijke zakelijke relatie van CBS, waaronder ook verstaan wordt een adviseurschap van het CBS.
 
 3. Een lid van de raad van advies vervult geen (neven)functies die ongewenst zijn met het oog op een goede vervulling van zijn adviesfunctie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.
 
@@ -321,11 +294,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 1. De gebruikersraden hebben tot taak de hoofddirecteur gevraagd en ongevraagd te adviseren over:
 
-- •. de wijze waarop statistieken worden samengesteld: de gegevensverzameling en de aansluiting daarvan bij de werkwijze en behoefte van het bedrijfsleven, de statistische methodologie, kwaliteit en procesmethodologie;
+- • de wijze waarop statistieken worden samengesteld: de gegevensverzameling en de aansluiting daarvan bij de werkwijze en behoefte van het bedrijfsleven, de statistische methodologie, kwaliteit en procesmethodologie;
 
-- •. de statistieken: bedrijfseconomische statistieken, macro-economische statistieken (in samenwerking met DNB) en sociale statistieken en statistieken van de leefomgeving;
+- • de statistieken: bedrijfseconomische statistieken, macro-economische statistieken (in samenwerking met DNB) en sociale statistieken en statistieken van de leefomgeving;
 
-- •. de aspecten van de output: de wijze waarop het CBS over statistieken communiceert en de toegang tot microdata voor statistisch en wetenschappelijk onderzoek.
+- • de aspecten van de output: de wijze waarop het CBS over statistieken communiceert en de toegang tot microdata voor statistisch en wetenschappelijk onderzoek.
 
 ##### Artikel 21. Vergaderingen van de gebruikersraden
 
@@ -387,11 +360,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 ##### Artikel 26. Inwerkingtreding
 
-1. Het bestuursreglement treedt in werking na goedkeuring van de minister en met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juli 2024.
+1. Het bestuursreglement treedt in werking na goedkeuring van de minister en met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 1 juli 2024.
 
-2. Het [Bestuursreglement CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0039055) van 9 december 2016 (stcrt 2017, 121) wordt ingetrokken.
+2. Het [Bestuursreglement CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0039055) van 9 december 2016 (stcrt 2017, 121) wordt ingetrokken.
 
-3. Het Reglement van Orde voor Adviesraden directeuren CBS van 22 maart 2006, het Huishoudelijk Reglement van de Raad van Advies van 26 maart 2018 en het Reglement Adviescommissie van 26 maart 2018 worden ingetrokken.
+3. Het Reglement van Orde voor Adviesraden directeuren CBS van 22 maart 2006, het Huishoudelijk Reglement van de Raad van Advies van 26 maart 2018 en het Reglement Adviescommissie van 26 maart 2018 worden ingetrokken.
 
 ##### Artikel 27. Citeertitel
 

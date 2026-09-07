@@ -1,52 +1,54 @@
 ---
-title: "Instellingsbesluit adviescommissie techniek- en technologieonderwijs in het funderend onderwijs"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2024, nr. OVO/42902029, houdende instelling van de adviescommissie techniek- en technologieonderwijs in het funderend onderwijs voor de periode 2024 tot en met 2030 (Instellingsbesluit adviescommissie techniek- en technologieonderwijs 2024–2030)"
+citeertitel: "Instellingsbesluit adviescommissie techniek- en technologieonderwijs in het funderend onderwijs"
 identifier: "BWBR0050217"
 categorie: "Onderwijs"
-publicatiedatum: 2026-07-11
-laatste_update: 2026-07-16
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-03-05
+laatste_update: 2026-07-11
 status: geldig
+toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0050217"
+opgehaald: 2026-09-07
 ---
 
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 11 september 2024, nr. OVO/42902029, houdende instelling van de adviescommissie techniek- en technologieonderwijs in het funderend onderwijs voor de periode 2024 tot en met 2030 (Instellingsbesluit adviescommissie techniek- en technologieonderwijs 2024–2030)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **adviescommissie:** adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2026-07-11&g=2026-07-11);
+- *adviescommissie:* adviescommissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050217&artikel=2&z=2026-07-11&g=2026-07-11);
 
-- **beoordelingsmoment:**
+- *beoordelingsmoment:*
 
-  - a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): de uiterlijke datum waarop de uitwerkingen van activiteitenplannen of het indienen van verantwoordingsverslagen zoals bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onderdeel b, van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
+   - a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): de uiterlijke datum waarop de uitwerkingen van activiteitenplannen of het indienen van verantwoordingsverslagen zoals bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid, onderdeel b, van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
 
-  - b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): de uiterlijke datum waarop de uitwerking van het activiteitenplan, de regiovisie en de sluitende meerjarenbegroting zoals bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
+   - b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): de uiterlijke datum waarop de uitwerking van het activiteitenplan, de regiovisie en de sluitende meerjarenbegroting zoals bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) moeten worden ingediend dat wordt beoordeeld door de adviescommissie;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **penvoerder:**
+- *penvoerder:*
 
-  - a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): penvoerder van een techniekregio of een techniekluwe regio, bedoeld in [artikel 1.5 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.5);
+   - a. voor de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520): penvoerder van een techniekregio of een techniekluwe regio, bedoeld in [artikel 1.5 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.5);
 
-  - b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): penvoerder van een Techkwadraatregio, bedoeld in [artikel 1.5 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.5);
+   - b. voor de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458): penvoerder van een Techkwadraatregio, bedoeld in [artikel 1.5 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.5);
 
-- **regeling STO:** [Subsidieregeling sterk techniekonderwijs 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0049520);
+- *regeling STO:*
+ [Subsidieregeling sterk techniekonderwijs 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0049520);
 
-- **regeling Techkwadraat:** de [Subsidieregeling Techkwadraat 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050458);
+- *regeling Techkwadraat:* de [Subsidieregeling Techkwadraat 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0050458);
 
-- **vorige regeling STO:** [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
+- *vorige regeling STO:*
+ [Subsidieregeling sterk techniekonderwijs 2020–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0041334).
 
 ##### Artikel 2. Instelling van de adviescommissie
 
 1. Er is een Adviescommissie techniekonderwijs in het funderend onderwijs.
 
-2. De commissie wordt ingesteld met ingang van 1 september 2024 en wordt opgeheven per 1 januari 2031, met de mogelijkheid tot verlenging.
+2. De commissie wordt ingesteld met ingang van 1 september 2024 en wordt opgeheven per 1 januari 2031, met de mogelijkheid tot verlenging.
 
-##### Artikel 3. Taak van de adviescommissie [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520)
+##### Artikel 3. Taak van de adviescommissie regeling STO
 
 1. De adviescommissie heeft met betrekking tot de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520) tot taak:
 
@@ -54,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - b. het adviseren van de minister over de ingediende activiteitenplannen, en dat advies te voorzien van een draagkrachtige motivering; en
 
-- c. het adviseren van de minister over de structurele inzet van de investeringsmiddelen voor techniekonderwijs in het vmbo van € 100 min. per jaar vanaf 2029;
+- c. het adviseren van de minister over de structurele inzet van de investeringsmiddelen voor techniekonderwijs in het vmbo van € 100 min. per jaar vanaf 2029;
 
 - d. het op verzoek van de minister adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.11 van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11), met uitzondering van de uitwerking van de activiteiten bedoeld in artikel 1.11 eerste lid, onderdeel b;
 
@@ -65,6 +67,24 @@ In dit besluit wordt verstaan onder:
 - g. het desgevraagd adviseren van de penvoerder over de uitvoering van de [regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520), zolang dit niet binnen 10 weken voor of na een beoordelingsmoment valt.
 
 2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 10 weken na afloop van de indienperiode als bedoeld in [artikel 1.10, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.10) en [artikel 1.11, eerste lid van de regeling STO](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&artikel=1.11).
+
+##### Artikel 3a. Taak van de adviescommissie regeling Techkwadraat
+
+1. De adviescommissie heeft met betrekking tot de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458) tot taak:
+
+- a. het beoordelen van het ingediende activiteitenplan, de regiovisie en de sluitende meerjarenbegroting als bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 1 bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1), en het adviseren van de minister hierover;
+
+- b. het adviseren van de minister over de ingediende activiteitenplan, regiovisie, en sluitende meerjarenbegroting, en dat advies te voorzien van een draagkrachtige motivering;
+
+- c. het adviseren van de minister op significante koerswijzigingen binnen het ingediende activiteitenplan;
+
+- d. het op verzoek van de minister adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.13 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.13);
+
+- e. het op verzoek van de minister adviseren van de penvoerder over het eindverslag, zoals bedoeld in [artikel 1.12, eerste lid, onderdeel c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.12);
+
+- f. het op verzoek van de minister reflecteren op de tussenrapportages en de eindevaluatie van het onderzoeksconsortium dat de regionale planvorming en de uitvoering van die plannen monitort en evalueert.
+
+2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 13 weken na afloop van elke indienperiode als bedoeld in [artikel 1.8, derde lid, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8).
 
 ##### Artikel 4. Samenstelling, benoeming en ontslag
 
@@ -114,23 +134,23 @@ Tot leden van de commissie worden benoemd:
 
 - m. de heer A. Wals;
 
-- n. te rekenen vanaf 1 december 2024: mevrouw R. van Veelen;
+- n. te rekenen vanaf 1 december 2024: mevrouw R. van Veelen;
 
-- o. te rekenen vanaf 1 december 2024: de heer T. de Groot;
+- o. te rekenen vanaf 1 december 2024: de heer T. de Groot;
 
-- p. te rekenen vanaf 1 december 2024: mevrouw S. van Tongeren;
+- p. te rekenen vanaf 1 december 2024: mevrouw S. van Tongeren;
 
-- q. te rekenen vanaf 1 januari 2025: de heer O. Vlieri;
+- q. te rekenen vanaf 1 januari 2025: de heer O. Vlieri;
 
-- r. te rekenen vanaf 1 januari 2025: de heer E. Stremmelaar;
+- r. te rekenen vanaf 1 januari 2025: de heer E. Stremmelaar;
 
-- s. te rekenen vanaf 1 januari 2025: de heer B. Westland;
+- s. te rekenen vanaf 1 januari 2025: de heer B. Westland;
 
-- t. te rekenen vanaf 1 maart 2026: de heer C. Muskens;
+- t. te rekenen vanaf 1 maart 2026: de heer C. Muskens;
 
-- u. te rekenen vanaf 1 maart 2026: mevrouw H. Veldhuis;
+- u. te rekenen vanaf 1 maart 2026: mevrouw H. Veldhuis;
 
-- v. te rekenen vanaf 1 juni 2026: mevrouw V. Jacobs.
+- v. te rekenen vanaf 1 juni 2026: mevrouw V. Jacobs.
 
 ##### Artikel 6. Secretariaat
 
@@ -152,11 +172,11 @@ De adviescommissie verstrekt aan de minister desgevraagd de door hem gewenste in
 
 ##### Artikel 9. Vergoeding
 
-1. De voorzitter en de overige leden ontvangen voor de periode waarin dit besluit van toepassing is per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en deze vergoeding het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag niet overschrijdt.
+1. De voorzitter en de overige leden ontvangen voor de periode waarin dit besluit van toepassing is per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en deze vergoeding het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag niet overschrijdt.
 
 2. Twee of meer vergaderingen per dag worden als één vergadering beschouwd.
 
-3. De vergoeding van de leden van de adviescommissie bedraagt 3% van het maximum van salarisschaal 18 van de CAO Rijk per dagdeel zoals geldend op 1 januari 2025. De vergoeding van de voorzitter bedraagt 130% en de vergoeding van de vicevoorzitter bedraagt 110% van deze vergoeding per dagdeel.
+3. De vergoeding van de leden van de adviescommissie bedraagt 3% van het maximum van salarisschaal 18 van de CAO Rijk per dagdeel zoals geldend op 1 januari 2025. De vergoeding van de voorzitter bedraagt 130% en de vergoeding van de vicevoorzitter bedraagt 110% van deze vergoeding per dagdeel.
 
 4. Per aanvraag die moet worden beoordeeld wordt voor een commissielid ten hoogste twee dagdelen vergoed, blijkend uit de taakverdeling tussen de commissieleden.
 
@@ -176,30 +196,8 @@ De adviescommissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamh
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2040.
+2. Dit besluit vervalt met ingang van 1 januari 2040.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie techniek- en technologieonderwijs in het funderend onderwijs.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 3a. Taak van de adviescommissie [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458)
-
-1. De adviescommissie heeft met betrekking tot de [regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458) tot taak:
-
-- a. het beoordelen van het ingediende activiteitenplan, de regiovisie en de sluitende meerjarenbegroting als bedoeld in [artikel 1.8, tweede lid, onderdelen a en c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8) aan de hand van het beoordelingskader dat is opgenomen als [Bijlage 1 bij de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049520&bijlage=1), en het adviseren van de minister hierover;
-
-- b. het adviseren van de minister over de ingediende activiteitenplan, regiovisie, en sluitende meerjarenbegroting, en dat advies te voorzien van een draagkrachtige motivering;
-
-- c. het adviseren van de minister op significante koerswijzigingen binnen het ingediende activiteitenplan;
-
-- d. het op verzoek van de minister adviseren van de penvoerder over de voortgangsrapportage, bedoeld in [artikel 1.13 van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.13);
-
-- e. het op verzoek van de minister adviseren van de penvoerder over het eindverslag, zoals bedoeld in [artikel 1.12, eerste lid, onderdeel c, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.12);
-
-- f. het op verzoek van de minister reflecteren op de tussenrapportages en de eindevaluatie van het onderzoeksconsortium dat de regionale planvorming en de uitvoering van die plannen monitort en evalueert.
-
-2. Voor de taken, bedoeld in het eerste lid onderdeel a, adviseert de adviescommissie de minister binnen 13 weken na afloop van elke indienperiode als bedoeld in [artikel 1.8, derde lid, van de regeling Techkwadraat](https://wetten.overheid.nl/jci1.3:c:BWBR0050458&artikel=1.8).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

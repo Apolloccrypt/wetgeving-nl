@@ -1,35 +1,16 @@
 ---
 title: "Aanwijzing zelfmelden, medewerking en zelfonderzoek"
 identifier: "BWBR0050452"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050452"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17280753"
-version_id: "30435462"
-internal_id: "C43644501"
-label_id: "17186144"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050452/2025-01-01/0"
-intitule_bron: "Stcrt.2024-38504"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-11-22"
-intitule_in_force: "2024-11-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38504"
-original_published_date: "2024-11-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-38504"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050452&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050452&g=2025-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050452"
+opgehaald: 2026-09-07
 ---
+
 # Aanwijzing zelfmelden, medewerking en zelfonderzoek
 
 ### Samenvatting
@@ -54,17 +35,27 @@ De officier van justitie kan zelfmeldingen van mogelijke strafbare feiten en/of 
 
 Medewerking aan een strafrechtelijk onderzoek kan onder meer worden verleend door zelfonderzoek uit te (laten) voeren en de (bron)documenten daarvan ter beschikking te stellen aan de opsporingsdienst en het OM.
 
-De kern van deze aanwijzing is dat een rechtspersoon die mogelijke strafbare feiten vrijwillig, volledig en tijdig meldt (overeenkomstig hoofdstuk 3 van deze aanwijzing) en volledig meewerkt aan een strafrechtelijk onderzoek naar die feiten (overeenkomstig hoofdstuk 4 van deze aanwijzing) in aanmerking kan komen voor een korting van in totaal maximaal 50% op de geldboete die het OM zonder die zelfmelding en/of medewerking zou eisen of opleggen voor die feiten.
+De kern van deze aanwijzing is dat een rechtspersoon die mogelijke strafbare feiten vrijwillig, volledig en tijdig meldt (overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/BWBR0050452) van deze aanwijzing) en volledig meewerkt aan een strafrechtelijk onderzoek naar die feiten (overeenkomstig [hoofdstuk 4](https://wetten.overheid.nl/BWBR0050452) van deze aanwijzing) in aanmerking kan komen voor een korting van in totaal maximaal 50% op de geldboete die het OM zonder die zelfmelding en/of medewerking zou eisen of opleggen voor die feiten.
 
 Als een rechtspersoon naar het oordeel van het OM vervolgbaar en strafbaar is en voldoet aan de voorwaarden voor zelfmelden en medewerking aan strafrechtelijk onderzoek in de zin van deze aanwijzing, dan opteert het OM in beginsel voor een buitengerechtelijke afdoening of, indien het OM meent dat de betreffende zaak toch aan de rechter moet worden voorgelegd, voor procesafspraken.
 
-Zowel ten aanzien van de rechtspersoon als ten aanzien van de betrokken natuurlijke personen wordt per zaak beoordeeld welke strafmaat en afdoening het meest passend en effectief is gelet op alle omstandigheden van het specifieke geval, zoals de aard en de ernst van de strafbare gedraging, de omstandigheden waaronder het strafbare feit is gepleegd, recidive, erkenning van feiten, compensatie van schade, ontneming van wederrechtelijk verkregen voordeel en de getroffen maatregelen ter voorkoming van soortgelijk gedrag in de toekomst. In deze beoordeling wordt ook meegewogen of strafbare feiten zelf zijn gemeld (**zelfmelden**) en/of medewerking is verleend aan een strafrechtelijk onderzoek (**medewerking**), welke medewerking kan omvatten dat zelfonderzoek is uitgevoerd (**zelfonderzoek**).
+Zowel ten aanzien van de rechtspersoon als ten aanzien van de betrokken natuurlijke personen wordt per zaak beoordeeld welke strafmaat en afdoening het meest passend en effectief is gelet op alle omstandigheden van het specifieke geval, zoals de aard en de ernst van de strafbare gedraging, de omstandigheden waaronder het strafbare feit is gepleegd, recidive, erkenning van feiten, compensatie van schade, ontneming van wederrechtelijk verkregen voordeel en de getroffen maatregelen ter voorkoming van soortgelijk gedrag in de toekomst. In deze beoordeling wordt ook meegewogen of strafbare feiten zelf zijn gemeld (*zelfmelden*) en/of medewerking is verleend aan een strafrechtelijk onderzoek (*medewerking*), welke medewerking kan omvatten dat zelfonderzoek is uitgevoerd (*zelfonderzoek*).
 
 ### 3. Zelfmelden
 
 Als naar het oordeel van het OM een zelfmelding significant bijdraagt aan de opsporing en vervolging van strafbare feiten en aan de onderstaande voorwaarden is voldaan, dan kan de officier van justitie een korting van maximaal 25% toepassen op de geldboete die het OM zonder die zelfmelding passend zou achten.
 
 Om in aanmerking te kunnen komen voor (een deel van) deze geldboetekorting, moet de betrokken rechtspersoon:
+
+- – mogelijke strafbare feiten vrijwillig, volledig en tijdig op een duidelijke en gestructureerde wijze schriftelijk melden bij de rechercheofficier van justitie van het verantwoordelijke Parket;
+
+- – de op het moment van de melding beschikbare gegevens en (bron)documenten overhandigen aan het OM die relevant zijn in het kader van het strafrechtelijke onderzoek naar de gemelde strafbare feiten, waaronder gegevens en (bron)documenten over:
+
+   - ○ de betrokken en/of verantwoordelijke (rechts)personen;
+
+   - ○ alle (overige signalen van) mogelijke strafbare feiten die vermoedelijk door en binnen (de sfeer van) die rechtspersoon zijn gepleegd;
+
+   - ○ (vermogensbestanddelen die (middellijk) afkomstig zijn uit die mogelijke strafbare feiten en/of die kunnen dienen voor verhaal van) schade en wederrechtelijk verkregen voordeel uit die feiten.
 
 Als naar het oordeel van het OM niet (in voldoende mate) aan voornoemde voorwaarden is voldaan, kan de officier van justitie een lager kortingspercentage toepassen of afzien van het geven van een korting. Bijvoorbeeld als tijdens het strafrechtelijk onderzoek blijkt dat niet alle (signalen van) mogelijke strafbare feiten die redelijkerwijs op het moment van de melding bij de rechtspersoon bekend te achten waren, vrijwillig en tijdig zijn gemeld. De toegekende korting blijft in ieder geval beperkt tot de geldboete voor strafbare feiten die vrijwillig en tijdig zijn gemeld.
 
@@ -74,15 +65,49 @@ De officier van justitie kan een (additionele) geldboetekorting van maximaal 25%
 
 Om in aanmerking te kunnen komen voor (een deel van) deze korting moet de betrokken rechtspersoon vrijwillig, volledig en tijdig medewerking verlenen aan het strafrechtelijk onderzoek. De rechtspersoon dient daartoe een (pro)actieve houding in te nemen en ook medewerking te verlenen aan verzoeken van de opsporingsdienst en/of het OM. Deze medewerking omvat onder meer dat de rechtspersoon:
 
+- – alle relevante gegevens uit het binnen- en buitenland, inclusief onderliggende documentatie, beschikbaar houdt en tijdig en ongevraagd verstrekt aan de opsporingsdienst en/of het OM;
+
+- – deze gegevens en (bron)documenten op een heldere, duidelijke en gestructureerde wijze aanlevert, in een voor de opsporingsdienst leesbaar en doorzoekbaar formaat, zo nodig voorzien van duiding en vertaling;
+
+- – medewerkers en (voor zover mogelijk) oud-medewerkers uit binnen- en buitenland beschikbaar houdt voor verhoor zonder deze (onnodig) op de hoogte te stellen van het onderzoek;
+
+- – voorkomt dat getuigenverklaringen en/of ander bewijsmateriaal worden beïnvloed en onverwijld aan de opsporingsdienst en/of het OM meldt als er aanwijzingen zijn dat dit is gebeurd of dreigt te gebeuren;
+
+- – zich onthoudt van elke gedraging die het onderzoek of de procedure zou kunnen belemmeren, zoals tactische vertragingen of informatie-overbelasting;
+
+- – relevante gegevens en (bron)documenten aanwijst waar de rechtspersoon geen toegang toe heeft of die in het bezit zijn van derden en waar mogelijk faciliteert dat deze aan de opsporingsdienst beschikbaar worden gesteld;
+
+- – vermogensbestanddelen aanwijst en beschikbaar houdt die afkomstig zijn uit die mogelijke strafbare feiten en/of kunnen worden aangewend voor een geldboete, schadevergoeding, verbeurdverklaring en/of ontneming van het wederrechtelijk verkregen voordeel.
+
 De opsporingsdienst legt gedurende het strafrechtelijk onderzoek vast in welke mate medewerking is verleend, zodat het OM een goede afweging kan maken bij het nemen van de afdoeningsbeslissing en het bepalen van de hoogte van de geldboete(korting).
 
 De officier van justitie kan een lager kortingspercentage toepassen of afzien van het geven van korting als naar diens oordeel niet in voldoende mate aan de voorwaarden is voldaan. De toegekende korting blijft in ieder geval beperkt tot geldboete voor de strafbare feiten ten aanzien waarvan volledig, vrijwillig en tijdig medewerking is verleend aan het strafrechtelijk onderzoek.
 
 ### 5. Zelfonderzoek
 
-Naast het strafrechtelijk onderzoek door de opsporingsdienst en het OM, kan een rechtspersoon voorafgaand, tijdens dan wel direct volgend op een zelfmelding als bedoeld in hoofdstuk 3, zelfonderzoek (laten) uitvoeren naar (signalen van) mogelijke betrokkenheid van die rechtspersoon bij strafbare feiten.
+Naast het strafrechtelijk onderzoek door de opsporingsdienst en het OM, kan een rechtspersoon voorafgaand, tijdens dan wel direct volgend op een zelfmelding als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/BWBR0050452), zelfonderzoek (laten) uitvoeren naar (signalen van) mogelijke betrokkenheid van die rechtspersoon bij strafbare feiten.
 
-Het OM kan een zelfonderzoek betrekken bij de bepaling van een kortingspercentage op grond van hoofdstuk 3 en/of 4 van deze aanwijzing. In de afweging of, en zo ja in welke mate, de uitkomsten van een zelfonderzoek gebruikt worden in een strafrechtelijk onderzoek, betrekt het OM onder meer of:
+Het OM kan een zelfonderzoek betrekken bij de bepaling van een kortingspercentage op grond van [hoofdstuk 3](https://wetten.overheid.nl/BWBR0050452) en/of [4](https://wetten.overheid.nl/BWBR0050452) van deze aanwijzing. In de afweging of, en zo ja in welke mate, de uitkomsten van een zelfonderzoek gebruikt worden in een strafrechtelijk onderzoek, betrekt het OM onder meer of:
+
+- – het zelfonderzoek bijdraagt aan de waarheidsvinding;
+
+- – de rechten van slachtoffers en benadeelde partijen voldoende gewaarborgd worden;
+
+- – het zelfonderzoek zodanig is of wordt uitgevoerd dat de grondigheid en betrouwbaarheid van het zelfonderzoek afdoende is gewaarborgd en dat de deugdelijkheid van de gebruikte bronnen kan worden vastgesteld, waarbij het OM onder meer meeweegt in hoeverre:
+
+   - • het zelfonderzoek voldoende objectief en deskundig is uitgevoerd;
+
+   - • de onderzoeker zich gedurende het zelfonderzoek heeft gehouden aan geldende wet- en regelgeving en, indien van toepassing, gedrags- of beroepsregels;
+
+   - • de herkomst en authenticiteit van bronnen herleidbaar zijn;
+
+   - • betrokkenen in een zelfonderzoek vrij zijn geweest om hun positie te bepalen en desgewenst juridische bijstand hebben kunnen inroepen;
+
+   - • (bron)documenten uit het zelfonderzoek eigenstandig zijn verstrekt aan het OM en de opsporingsdienst;
+
+   - • aan het OM en de opsporingsdienst voldoende inzicht is gegeven in de aard en reikwijdte van het zelfonderzoek;
+
+   - • de opsporingsdienst en het OM periodiek op de hoogte zijn gebracht van de voortgang van het zelfonderzoek.
 
 Indien bekend is dat er tijdens het zelfonderzoek ook een strafrechtelijk onderzoek loopt naar de strafbare feiten, dan vindt afstemming plaats met het OM en de opsporingsdienst om doorkruising van het lopende strafrechtelijk onderzoek te voorkomen.
 

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunst Media"
 identifier: "BWBR0050625"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050625"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17327453"
-version_id: "30532752"
-internal_id: "C43769361"
-label_id: "17231564"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050625/2025-01-01/0"
-intitule_bron: "Stcrt.2024-38593"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-12-31"
-intitule_in_force: "2024-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38593"
-original_published_date: "2024-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-38593"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050625&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050625&g=2025-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050625"
+opgehaald: 2026-09-07
 ---
+
 # Deelregeling Kunst Media
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -74,13 +51,13 @@ Er kan worden aangevraagd voor te publiceren uitingen in geschreven en/of gespro
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van een:
 
-- •. een overzicht van relevante eerder uitgevoerde projecten en een toelichting hierop;
+- • een overzicht van relevante eerder uitgevoerde projecten en een toelichting hierop;
 
-- •. projectplan met een inhoudelijke motivering en een toelichting op het beoogde effect;
+- • projectplan met een inhoudelijke motivering en een toelichting op het beoogde effect;
 
-- •. presentatieplan met een toelichting op de doelgroep(en);
+- • presentatieplan met een toelichting op de doelgroep(en);
 
-- •. dekkende begroting, zo mogelijk met offertes.
+- • dekkende begroting, zo mogelijk met offertes.
 
 ##### Artikel 7. Beoordeling
 
@@ -116,10 +93,8 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2024, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2025.
+2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2024, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2025.
 
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunst Media.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

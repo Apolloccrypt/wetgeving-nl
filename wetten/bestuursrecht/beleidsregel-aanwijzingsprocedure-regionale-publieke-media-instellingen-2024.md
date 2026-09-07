@@ -1,41 +1,18 @@
 ---
 title: "Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van regionale publieke media-instellingen (Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024)"
+citeertitel: "Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024"
 identifier: "BWBR0050271"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-10"
-last_updated: "2024-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050271"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17235513"
-version_id: "30355142"
-internal_id: "C43534691"
-label_id: "17141394"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050271/2024-10-10/0"
-intitule_bron: "Stcrt.2024-32660"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-10-09"
-intitule_in_force: "2024-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-32660"
-original_published_date: "2024-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-32660"
-entry_into_force_date: "2024-10-10"
-jci_1_3: "jci1.3:c:BWBR0050271&z=2024-10-10&g=2024-10-10"
-jci_1_0: "1.0:c:BWBR0050271&g=2024-10-10"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024"
-entry_into_force: "2024-10-10"
+publicatiedatum: 2024-10-10
+laatste_update: 2024-10-10
+status: geldig
+toestand: 2024-10-10
+bron: "https://wetten.overheid.nl/BWBR0050271"
+opgehaald: 2026-09-07
 ---
+
 # Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van regionale publieke media-instellingen (Beleidsregel aanwijzingsprocedure regionale publieke media-instellingen 2024)
-
-Gelet op de [artikelen 2.61 tot en met 2.69 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61), de [artikelen 5 tot en met 9 van de Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&artikel=5) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
 
 ### I. Begripsbepalingen
 
@@ -43,23 +20,23 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- a. *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- b. **regeling:** de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
+- b. *regeling:* de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
 
-- c. **het Commissariaat:** het Commissariaat voor de Media;
+- c. *het Commissariaat:* het Commissariaat voor de Media;
 
-- d. **aanvraag:** de aanvraag voor een aanwijzing als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
+- d. *aanvraag:* de aanvraag voor een aanwijzing als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
 
-- e. **aanwijzingsperiode:** een periode van vijf jaar als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
+- e. *aanwijzingsperiode:* een periode van vijf jaar als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
 
-- f. **aanwijzingsprocedure:** de gehele procedure van aanwijzing van een regionale publieke media-instelling voor de verzorging van de publieke mediadiensten op regionaal niveau als bedoeld in [artikel 2.61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
+- f. *aanwijzingsprocedure:* de gehele procedure van aanwijzing van een regionale publieke media-instelling voor de verzorging van de publieke mediadiensten op regionaal niveau als bedoeld in [artikel 2.61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
 
-- g. **verzorgingsgebied:** het gebied waarin de (potentiële) regionale publieke media-instelling de publieke mediadienst wenst uit te voeren respectievelijk uitvoert, zoals bedoeld in [artikel 2.1, eerste lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.1);
+- g. *verzorgingsgebied:* het gebied waarin de (potentiële) regionale publieke media-instelling de publieke mediadienst wenst uit te voeren respectievelijk uitvoert, zoals bedoeld in [artikel 2.1, eerste lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.1);
 
-- h. **mediaraad:** het programmabeleid bepalend orgaan (pbo) als bedoeld in [artikel 2.61, tweede lid, onder c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
+- h. *mediaraad:* het programmabeleid bepalend orgaan (pbo) als bedoeld in [artikel 2.61, tweede lid, onder c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
 
-- i. **hernieuwde aanwijzing:** aanwijzing van een regionale publieke media-instelling voor een aanwijzingsperiode aansluitend op de voorgaande aanwijzingsperiode in de provincie waarvoor de regionale publieke media-instelling reeds is aangewezen.
+- i. *hernieuwde aanwijzing:* aanwijzing van een regionale publieke media-instelling voor een aanwijzingsperiode aansluitend op de voorgaande aanwijzingsperiode in de provincie waarvoor de regionale publieke media-instelling reeds is aangewezen.
 
 ### II. Aanvragen algemeen
 
@@ -227,7 +204,7 @@ Indien sprake is van meerdere aanvragen die voldoen aan de eisen die worden gest
 
 ##### Artikel 15. Ingangsdatum besluit, duur aanwijzing en onoverdraagbaarheid aanwijzing
 
-1. De eerstvolgende aanwijzingen die na de ingangsdatum van deze beleidsregel door het Commissariaat worden afgegeven, treden in werking per 1 januari 2026. Voor de daaropvolgende aanwijzingsperiodes geldt dat aanwijzingen in werking treden met ingang van de concessie zoals bedoeld in [artikel 2.60K van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.60k), dan wel met ingang van het zesde jaar van die concessie.
+1. De eerstvolgende aanwijzingen die na de ingangsdatum van deze beleidsregel door het Commissariaat worden afgegeven, treden in werking per 1 januari 2026. Voor de daaropvolgende aanwijzingsperiodes geldt dat aanwijzingen in werking treden met ingang van de concessie zoals bedoeld in [artikel 2.60K van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.60k), dan wel met ingang van het zesde jaar van die concessie.
 
 2. Een aanwijzing geldt voor de duur van vijf jaar.
 

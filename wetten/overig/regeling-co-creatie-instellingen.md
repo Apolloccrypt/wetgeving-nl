@@ -1,46 +1,17 @@
 ---
 title: "Regeling Co-creatie Instellingen"
 identifier: "BWBR0050824"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-03-06"
-last_updated: "2025-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050824"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17379573"
-version_id: "30638622"
-internal_id: "C43920121"
-label_id: "17282844"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050824/2025-03-06/0"
-intitule_bron: "Stcrt.2025-7695"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-03-05"
-intitule_in_force: "2025-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-7695"
-original_published_date: "2025-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-7695"
-entry_into_force_date: "2025-03-06"
-jci_1_3: "jci1.3:c:BWBR0050824&z=2025-03-06&g=2025-03-06"
-jci_1_0: "1.0:c:BWBR0050824&g=2025-03-06"
-citeertitel_status: "officieel"
-entry_into_force: "2025-03-06"
+publicatiedatum: 2025-03-06
+laatste_update: 2025-03-06
+status: geldig
+toestand: 2025-03-06
+bron: "https://wetten.overheid.nl/BWBR0050824"
+opgehaald: 2026-09-07
 ---
+
 # Regeling Co-creatie Instellingen
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de **Algemene wet bestuursrecht**;
-
-gelet op het **Algemeen Subsidiereglement** van het Fonds voor Cultuurparticipatie;
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2021; en voor de gewijzigde versie op 27 maart 2023
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,37 +19,39 @@ besluit:
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- a. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- b. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl).
+- b. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl).
 
-- c. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- c. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- d. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
+- d. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
 
-- e. **Culturele Codes:** Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
+- e. *Culturele Codes:* Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
 
-- f. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen: Bonaire, Sint Eustatius en Saba.
+- f. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen: Bonaire, Sint Eustatius en Saba.
 
-- g. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- g. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- h. **Caribisch deel van het Koninkrijk:** Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- h. *Caribisch deel van het Koninkrijk:* Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- i. **Co-creatie:** (de sector die zich kenmerkt door) de methoden en benaderingen waarbij individuen, groepen of gemeenschappen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming of projectuitvoering, met als resultaat de vorming en evolutie van de cultuur van een samenleving, inclusief de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen amateurkunst.
+- i. *Co-creatie:* (de sector die zich kenmerkt door) de methoden en benaderingen waarbij individuen, groepen of gemeenschappen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming of projectuitvoering, met als resultaat de vorming en evolutie van de cultuur van een samenleving, inclusief de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen amateurkunst.
 
-- j. **Cultuurbeoefening:** het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
+- j. *Cultuurbeoefening:* het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
 
-- k. **Cultureel professional:** een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een part-time aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
+- k. *Cultureel professional:* een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een part-time aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
 
-- l. **Culturele instelling:** een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
+- l. *Culturele instelling:* een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
 
-- m. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366).
+- m. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366).
 
-- n. **Materiële investeringen:** aanschaf van materialen voor een project die aanvrager na dat project nog langere tijd kan gebruiken.
+- n. *Materiële investeringen:* aanschaf van materialen voor een project die aanvrager na dat project nog langere tijd kan gebruiken.
 
-- o. **Materiaalkosten:** kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
+- o. *Materiaalkosten:* kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
 
-- p. **Subsidieplafond:** het totaalbedrag binnen een regeling of hoofdstuk dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
+- p. *Subsidieplafond:* het totaalbedrag binnen een regeling of hoofdstuk dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -102,13 +75,13 @@ Indien van toepassing is in elk van de volgende hoofdstukken het doel voor dat h
 
 voor dezelfde projecten al subsidie is of zal worden verleend:
 
-- 1°. door het Fonds;
+- 1° door het Fonds;
 
-- 2°. door een van de andere rijkscultuurfondsen;
+- 2° door een van de andere rijkscultuurfondsen;
 
-- 3°. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+- 3° op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- 4°. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+- 4° op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 het project waarvoor subsidie wordt gevraagd, op het moment van de aanvraag al wordt uitgevoerd;
 
@@ -136,11 +109,11 @@ de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen met bet
 
 2. Het Fonds verstrekt alleen subsidie als de aanvrager:
 
-- a. aantoont dat er een begrotingstekort is, en dat ondersteuning van het Fonds nodig is voor een sluitende begroting;
+- a aantoont dat er een begrotingstekort is, en dat ondersteuning van het Fonds nodig is voor een sluitende begroting;
 
-- b. de mogelijkheid van andere inkomsten dan de gevraagde subsidie onderzoekt, rekening houdend met de aard van het project; en
+- b de mogelijkheid van andere inkomsten dan de gevraagde subsidie onderzoekt, rekening houdend met de aard van het project; en
 
-- c. aannemelijk maakt dat de financiële middelen, samen met de subsidie van het Fonds, voldoende zijn om het project uit te voeren.
+- c aannemelijk maakt dat de financiële middelen, samen met de subsidie van het Fonds, voldoende zijn om het project uit te voeren.
 
 3. Aanvragers gevestigd in het Caribisch deel van het Koninkrijk kunnen de benodigde kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
@@ -194,9 +167,9 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt als moment van het indienen van de aanvraag.
 
-4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
+4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
 
-5. Aanvragen voor een subsidie vanaf € 25.001 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
+5. Aanvragen voor een subsidie vanaf € 25.001 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder een adviescommissie om advies te vragen.
 
@@ -208,11 +181,11 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 ##### Artikel 1.9. Voorschotten
 
-1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Voor subsidie vanaf € 25.001 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+2. Voor subsidie vanaf € 25.001 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
-3. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
+3. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
 
 4. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaalt. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit.
 
@@ -225,6 +198,12 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. Instellingen
+
+Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor een project op het gebied van co-creatie door een instelling met een podiumprogrammering of doorlopende presentatiefunctie. Het doel is om in gelijkwaardige samenwerking met de lokale omgeving de plek te ontwikkelen zodat lokale beoefenaars en deelnemers gaan programmeren, (zichzelf) presenteren, kunst maken, hun talenten ontwikkelen of produceren. De instelling transformeert van aanbodgerichte bepaler tot facilitator. Dat kost tijd. Daarom is er een paragraaf voor ‘groeien’ en voor ‘verdiepen’ opgenomen in dit hoofdstuk.
+
+Wezenlijk onderdeel van het project is dat in de instelling een proces doorgemaakt wordt of gaande is waarin de medewerkers van de instelling leren op een andere manier naar hun werk te kijken en zich te verbinden aan de actieve inbreng van de beoefenaars en deelnemers op lange(re) termijn.
+
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050824&hoofdstuk=1&z=2025-03-06&g=2025-03-06). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven.
 
 #### Paragraaf 1. Algemeen
 
@@ -250,7 +229,7 @@ Subsidie op grond van dit hoofdstuk kan uitsluitend worden aangevraagd door een 
 
 ##### Artikel 2.3. Indieningstermijnen
 
-1. Aanvragen op grond van dit hoofdstuk kunnen worden ingediend vanaf de datum zoals gepubliceerd op de website van het Fonds om 13:00 uur tot en met 30 augustus 2028 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van dit hoofdstuk kunnen worden ingediend vanaf de datum zoals gepubliceerd op de website van het Fonds om 13:00 uur tot en met 30 augustus 2028 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
 2. Wanneer het budgetplafond per jaar of in totaal bereikt is, geldt dat als moment tot wanneer aanvragen kunnen worden ingediend, afwijkend van art 2.3.1.
 
@@ -278,13 +257,13 @@ Subsidie in paragraaf 2 kan worden aangevraagd:
 
 Voor een project paragraaf 2:
 
-- 1. kan minimaal € 25.001 en maximaal € 35.000 worden aangevraagd; en
+- 1. kan minimaal € 25.001 en maximaal € 35.000 worden aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 2.7. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 2 is € 191.013 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 2 is € 191.013 per kalenderjaar.
 
 #### Paragraaf 3. Verdiepen
 
@@ -302,13 +281,13 @@ Subsidie in paragraaf 3 kan worden aangevraagd
 
 Voor een project in paragraaf 3:
 
-- 1. wordt minimaal € 50.000 en maximaal € 100.000 aangevraagd; en
+- 1. wordt minimaal € 50.000 en maximaal € 100.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 50% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 80%.
 
 ##### Artikel 2.10. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 3 is € 733.541 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 3 is € 733.541 per kalenderjaar.
 
 ### Hoofdstuk 3. Slotbepalingen
 
@@ -320,7 +299,7 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alle
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
+2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
 ##### Artikel 3.3. Citeertitel
 

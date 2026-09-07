@@ -1,38 +1,16 @@
 ---
 title: "Reglement CAK Cliëntenraad"
 identifier: "BWBR0050654"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-11"
-last_updated: "2025-01-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050654"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17336073"
-version_id: "30549952"
-internal_id: "C43790741"
-label_id: "17240224"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050654/2025-01-11/0"
-intitule_bron: "Stcrt.2025-1459"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-17"
-intitule_published: "2025-01-09"
-intitule_in_force: "2025-01-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-1459"
-original_signed_date: "2024-12-17"
-original_published_date: "2025-01-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-1459"
-entry_into_force_date: "2025-01-11"
-jci_1_3: "jci1.3:c:BWBR0050654&z=2025-01-11&g=2025-01-11"
-jci_1_0: "1.0:c:BWBR0050654&g=2025-01-11"
-citeertitel_status: "redactioneel"
-signed_date: "2024-12-17"
-entry_into_force: "2025-01-11"
+publicatiedatum: 2025-01-11
+laatste_update: 2025-01-11
+status: geldig
+toestand: 2025-01-11
+bron: "https://wetten.overheid.nl/BWBR0050654"
+opgehaald: 2026-09-07
 ---
+
 # Reglement CAK Cliëntenraad
 
 ### Hoofdstuk 1. Algemeen
@@ -41,17 +19,17 @@ entry_into_force: "2025-01-11"
 
 In deze regeling wordt verstaan onder:
 
-- a. **Het CAK:** het CAK, bedoeld in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- a. *Het CAK:* het CAK, bedoeld in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- b. **Raad van Bestuur:** het met de dagelijkse leiding van het CAK belaste orgaan, bedoeld in [artikel 6.1.1, derde lid, van de Wet langdurige Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- b. *Raad van Bestuur:* het met de dagelijkse leiding van het CAK belaste orgaan, bedoeld in [artikel 6.1.1, derde lid, van de Wet langdurige Zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- c. **Cliënt;** iedereen op wie de besluiten van het CAK van toepassing is of van toepassing zal kunnen zijn.
+- c. *Cliënt;* iedereen op wie de besluiten van het CAK van toepassing is of van toepassing zal kunnen zijn.
 
-- d. **Cliëntaangelegenheden:** alle onderwerpen, bezien vanuit het cliëntperspectief, die de vorming, de uitvoering, de controle en de evaluatie van de taken van het CAK betreffen daaronder begrepen een beleidsregel in de zin van [artikel 1:3, vierde lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele cliënten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
+- d. *Cliëntaangelegenheden:* alle onderwerpen, bezien vanuit het cliëntperspectief, die de vorming, de uitvoering, de controle en de evaluatie van de taken van het CAK betreffen daaronder begrepen een beleidsregel in de zin van [artikel 1:3, vierde lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3), met uitzondering van klachten en bezwaarschriften die betrekking hebben op zaken van individuele cliënten, tenzij het gaat om het algemene karakter van de daarbij gehanteerde procedures en regelingen;
 
-- e. **Cliëntenraad:** de cliëntenraad van het CAK, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=1&artikel=2&z=2025-01-11&g=2025-01-11).
+- e. *Cliëntenraad:* de cliëntenraad van het CAK, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=1&artikel=2&z=2025-01-11&g=2025-01-11).
 
-- f. **De voorzitter:** de voorzitter van de cliëntenraad
+- f. *De voorzitter:* de voorzitter van de cliëntenraad
 
 ##### Artikel 2. Instelling cliëntenparticipatie
 
@@ -173,7 +151,7 @@ In gevallen waarin deze regeling niet voorziet of over geschillen voortkomend ui
 
 ##### Artikel 14
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2025.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2025.
 
 ##### Artikel 15
 

@@ -1,62 +1,34 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken van 20 december 2024 nr. 2024-0000945721, houdende instelling van de Ministeriële Commissie Taakstelling Rijksdienst"
+citeertitel: "Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst"
 identifier: "BWBR0050764"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-11"
-last_updated: "2025-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050764"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17364733"
-version_id: "30610142"
-internal_id: "C43873131"
-label_id: "17267664"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050764/2025-02-11/0"
-intitule_bron: "Stcrt.2025-5639"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-20"
-intitule_published: "2025-02-10"
-intitule_in_force: "2025-02-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-5639"
-original_signed_date: "2024-12-20"
-original_published_date: "2025-02-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-5639"
-entry_into_force_date: "2025-02-11"
-jci_1_3: "jci1.3:c:BWBR0050764&z=2025-02-11&g=2025-02-11"
-jci_1_0: "1.0:c:BWBR0050764&g=2025-02-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst"
-signed_date: "2024-12-20"
-entry_into_force: "2025-02-11"
+publicatiedatum: 2025-02-11
+laatste_update: 2025-02-11
+status: geldig
+toestand: 2025-02-11
+bron: "https://wetten.overheid.nl/BWBR0050764"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken van 20 december 2024 nr. 2024-0000945721, houdende instelling van de Ministeriële Commissie Taakstelling Rijksdienst
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Gelet op [artikel 25, eerste lid, van het reglement van orde voor de ministerraad](https://wetten.overheid.nl/jci1.3:c:BWBR0006501&artikel=25),
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a). **De Commissie:** de Ministeriële Commissie Taakstelling Rijksdienst, kortweg: MCTR, zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050764&artikel=2&z=2025-02-11&g=2025-02-11);
+- a) *De Commissie:* de Ministeriële Commissie Taakstelling Rijksdienst, kortweg: MCTR, zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050764&artikel=2&z=2025-02-11&g=2025-02-11);
 
-- b). **ICBR:** de Interdepartementale Commissie Bedrijfsvoering Rijksdienst zoals bedoeld in [artikel 2, eerste lid, van het Instellingsbesluit Interdepartementale commissie Bedrijfsvoering Rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0047819&artikel=2).
+- b) *ICBR:* de Interdepartementale Commissie Bedrijfsvoering Rijksdienst zoals bedoeld in [artikel 2, eerste lid, van het Instellingsbesluit Interdepartementale commissie Bedrijfsvoering Rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0047819&artikel=2).
 
-- c). **Toepassingsgebied:** de gezamenlijke verantwoordelijkheid op het gebied van de organisatie van het Rijk en de rijksbrede bedrijfsvoering.
+- c) *Toepassingsgebied:* de gezamenlijke verantwoordelijkheid op het gebied van de organisatie van het Rijk en de rijksbrede bedrijfsvoering.
 
-- d). **Rapportage taakstellingsoperatie:** valt, conform het regeerprogramma, uiteen in twee delen:
+- d) *Rapportage taakstellingsoperatie:* valt, conform het regeerprogramma, uiteen in twee delen:
 
-- a. Rapportage en verantwoording door de ministers zelf via het eigen Jaarverslag en begroting.
+   - a. Rapportage en verantwoording door de ministers zelf via het eigen Jaarverslag en begroting.
 
-- b. Rapportage en verantwoording vanuit de coördinerende rol van BZK in de Jaarrapportage Bedrijfsvoering Rijk.
+   - b. Rapportage en verantwoording vanuit de coördinerende rol van BZK in de Jaarrapportage Bedrijfsvoering Rijk.
 
 ##### Artikel 2
 
@@ -72,13 +44,13 @@ De Commissie heeft de taak om, gelet op het toepassingsgebied:
 
 - b. Monitoring heeft betrekking op:
 
-- –. de voortgang van de taakstelling op basis van de aanpak bij ieder departement;
+   - – de voortgang van de taakstelling op basis van de aanpak bij ieder departement;
 
-- –. het afschaffen van onnodige procedures;
+   - – het afschaffen van onnodige procedures;
 
-- –. het doorontwikkelen van de rijksbrede bedrijfsvoering;
+   - – het doorontwikkelen van de rijksbrede bedrijfsvoering;
 
-- –. het vereenvoudigen en verminderen van regels en het terugbrengen van administratieve verplichtingen in relatie tot de taakstelling en de toekomstbestendige rijksdienst.
+   - – het vereenvoudigen en verminderen van regels en het terugbrengen van administratieve verplichtingen in relatie tot de taakstelling en de toekomstbestendige rijksdienst.
 
 - c. Te bepalen over welke onderwerpen met betrekking tot de realisatie van de taakstellingsoperatie aan de Tweede Kamer wordt gerapporteerd in de Jaarrapportage Bedrijfsvoering Rijk en daarbij te bepalen op welke wijze dit wordt gedaan.
 
@@ -147,5 +119,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ministeriële Commissie Taakstelling Rijksdienst.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

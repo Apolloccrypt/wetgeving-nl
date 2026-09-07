@@ -1,43 +1,17 @@
 ---
 title: "Regeling Internationale Concoursen"
 identifier: "BWBR0050565"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-12-19"
-last_updated: "2024-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050565"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17310473"
-version_id: "30489902"
-internal_id: "C43714031"
-label_id: "17214574"
-dtd_version: "2.0"
-original_entry_into_force: "2024-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050565/2024-12-19/0"
-intitule_bron: "Stcrt.2024-41861"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-09"
-intitule_published: "2024-12-18"
-intitule_in_force: "2024-12-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-41861"
-original_signed_date: "2024-12-09"
-original_published_date: "2024-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-41861"
-entry_into_force_date: "2024-12-19"
-jci_1_3: "jci1.3:c:BWBR0050565&z=2024-12-19&g=2024-12-19"
-jci_1_0: "1.0:c:BWBR0050565&g=2024-12-19"
-citeertitel_status: "officieel"
-signed_date: "2024-12-09"
-entry_into_force: "2024-12-19"
+publicatiedatum: 2024-12-19
+laatste_update: 2024-12-19
+status: geldig
+toestand: 2024-12-19
+bron: "https://wetten.overheid.nl/BWBR0050565"
+opgehaald: 2026-09-07
 ---
+
 # Regeling Internationale Concoursen
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -45,15 +19,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **concours:** internationaal concours dat zich richt op professionele podiumkunsten en deelnemers in staat stelt zich te presenteren in een programma van substantiële omvang en hen ondersteunt om zich voor en na het concours op internationaal niveau professioneel verder te kunnen ontwikkelen;
+- *concours:* internationaal concours dat zich richt op professionele podiumkunsten en deelnemers in staat stelt zich te presenteren in een programma van substantiële omvang en hen ondersteunt om zich voor en na het concours op internationaal niveau professioneel verder te kunnen ontwikkelen;
 
-- **podiumkunstenaar:** iemand die artistiek-inhoudelijk actief is in de podiumkunsten.
+- *podiumkunstenaar:* iemand die artistiek-inhoudelijk actief is in de podiumkunsten.
 
 ##### Artikel 1.2. Doel
 
@@ -61,7 +35,7 @@ Om bij te dragen aan talentontwikkeling en carrièrevorming van podiumkunstenaar
 
 ##### Artikel 1.3. Subsidieperiode
 
-Subsidie op grond van deze regeling wordt verstrekt voor de periode van 1 januari 2025 tot en met 31 december 2028.
+Subsidie op grond van deze regeling wordt verstrekt voor de periode van 1 januari 2025 tot en met 31 december 2028.
 
 ##### Artikel 1.4. Subsidieplafonds
 
@@ -103,7 +77,7 @@ De subsidie kan uitsluitend worden aangevraagd door een rechtspersoon wiens kern
 
 ##### Artikel 2.2. Indienen aanvraag
 
-1. Aanvragen dienen uiterlijk 15 januari 2025 om 23.59 uur te zijn ontvangen
+1. Aanvragen dienen uiterlijk 15 januari 2025 om 23.59 uur te zijn ontvangen
 
 2. Een aanvraag wordt digitaal ingediend met behulp van een door het bestuur opgesteld formulier.
 
@@ -206,5 +180,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Internationale Concoursen.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

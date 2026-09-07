@@ -1,36 +1,36 @@
 ---
-title: "Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2024, kenmerk 3989124-1074008-DMO, houdende het verstrekken van een specifieke uitkering voor specialistische functies in het kader van de aanpak van het huiselijk geweld en kindermishandeling. (Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling)"
+citeertitel: "Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling"
 identifier: "BWBR0050349"
 categorie: "Sociaal recht"
-publicatiedatum: 2026-05-06
+soort: "ministeriele-regeling"
+publicatiedatum: 2024-11-01
 laatste_update: 2026-05-06
 status: geldig
+toestand: 2026-05-06
 bron: "https://wetten.overheid.nl/BWBR0050349"
+opgehaald: 2026-09-07
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2024, kenmerk 3989124-1074008-DMO, houdende het verstrekken van een specifieke uitkering voor specialistische functies in het kader van de aanpak van het huiselijk geweld en kindermishandeling. (Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **specialistische functie:** functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2026-05-06&g=2026-05-06), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
+- *specialistische functie:* functie, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=4&z=2026-05-06&g=2026-05-06), die wordt uitgevoerd door een coördinerende gemeente in het kader van de gemeentelijke verantwoordelijkheid voor de aanpak van huiselijk geweld en kindermishandeling;
 
-- **coördinerende gemeente:** gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2026-05-06&g=2026-05-06), die aangewezen is voor de uitvoering van de specialistische functie;
+- *coördinerende gemeente:* gemeente, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050349&artikel=3&z=2026-05-06&g=2026-05-06), die aangewezen is voor de uitvoering van de specialistische functie;
 
-- **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+- *huiselijk geweld:* huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
-- **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
+- *kindermishandeling:* kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1);
 
-- **opvang:** onderdak en begeleiding voor personen die de thuissituatie hebben verlaten, in verband met risico’s voor hun veiligheid als gevolg van huiselijk geweld, en niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
+- *opvang:* onderdak en begeleiding voor personen die de thuissituatie hebben verlaten, in verband met risico’s voor hun veiligheid als gevolg van huiselijk geweld, en niet in staat zijn zich op eigen kracht te handhaven in de samenleving;
 
-- **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- *Minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- **VNG:** Vereniging van Nederlandse Gemeenten.
+- *VNG:* Vereniging van Nederlandse Gemeenten.
 
 ##### Artikel 2. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
@@ -40,37 +40,37 @@ In deze regeling wordt verstaan onder:
 
 - a. Landelijk knooppunt huwelijksdwang en achterlating:
 
-  - 1°. het in stand houden van een centraal kennis- en expertisecentrum voor professionals op het gebied van huwelijksdwang en achterlating;
+   - 1° het in stand houden van een centraal kennis- en expertisecentrum voor professionals op het gebied van huwelijksdwang en achterlating;
 
-  - 2°. kennisontwikkeling en deskundigheidsbevordering op het gebied van huwelijksdwang en achterlating;
+   - 2° kennisontwikkeling en deskundigheidsbevordering op het gebied van huwelijksdwang en achterlating;
 
-  - 3°. het informeren en adviseren van professionals op het gebied van huwelijksdwang en achterlating;
+   - 3° het informeren en adviseren van professionals op het gebied van huwelijksdwang en achterlating;
 
-  - 4°. het bieden van hulp en regie bij casuïstiek op het gebied van huwelijksdwang of achterlating;
+   - 4° het bieden van hulp en regie bij casuïstiek op het gebied van huwelijksdwang of achterlating;
 
-  - 5°. het in stand houden van een onkostenbudget buitenland en repatriëring.
+   - 5° het in stand houden van een onkostenbudget buitenland en repatriëring.
 
 - b. Landelijke coördinatie centra seksueel geweld:
 
-  - 1°. versterking van de positie van de centra seksueel geweld en het landelijk netwerk centrum seksueel geweld;
+   - 1° versterking van de positie van de centra seksueel geweld en het landelijk netwerk centrum seksueel geweld;
 
-  - 2°. activiteiten gericht op de actualisatie, uitvoering en borging van het kwaliteitskader centra seksueel geweld;
+   - 2° activiteiten gericht op de actualisatie, uitvoering en borging van het kwaliteitskader centra seksueel geweld;
 
-  - 3°. beheer en communicatieactiviteiten binnen de centra seksueel geweld;
+   - 3° beheer en communicatieactiviteiten binnen de centra seksueel geweld;
 
-  - 4°. deskundigheidsbevordering van professionals van de centra seksueel geweld op het gebied van seksueel geweld.
+   - 4° deskundigheidsbevordering van professionals van de centra seksueel geweld op het gebied van seksueel geweld.
 
 - c. Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting:
 
-  - 1°. het bieden van veilige opvang, begeleiding of behandeling aan slachtoffers van eergerelateerd geweld of seksuele uitbuiting;
+   - 1° het bieden van veilige opvang, begeleiding of behandeling aan slachtoffers van eergerelateerd geweld of seksuele uitbuiting;
 
-  - 2°. deskundigheidsbevordering op het gebied van eergerelateerd geweld of seksuele uitbuiting;
+   - 2° deskundigheidsbevordering op het gebied van eergerelateerd geweld of seksuele uitbuiting;
 
-  - 3°. invullen van de opdrachtgeversrelatie richting een uitvoerder van deze specialistische functie.
+   - 3° invullen van de opdrachtgeversrelatie richting een uitvoerder van deze specialistische functie.
 
 - d. Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek, waaronder voor het jaar 2026 tevens voorbereidende werkzaamheden ter realisatie van deze opvangplekken worden verstaan.
 
-##### Artikel 3. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 3. Toepasselijkheid Kaderregeling en Awb
 
 1. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -85,15 +85,15 @@ De specifieke uitkering voor het jaar 2026 bedraagt per coördinerende gemeente 
 | Landelijk knooppunt huwelijksdwang en achterlating | € 824.135,88 | Den Haag |
 | Landelijke coördinatie Centra Seksueel Geweld | € 1.791.147,04 | Utrecht |
 | Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting | € 3.950.036,00 | Groningen |
-| Hulp slachtoffers eergerelateerd geweld en seksuele uitbuiting | € 2.195.522,36 | Tilburg |
+| € 2.195.522,36 | Tilburg |  |
 | Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek, met inbegrip van voorbereidende werkzaamheden hiervoor | € 138.322,80 | Alkmaar |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek, met inbegrip van voorbereidende werkzaamheden hiervoor | € 138.322,80 | Almere |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek, met inbegrip van voorbereidende werkzaamheden hiervoor | € 1.437.125,69 | Amsterdam |
-| Het bieden van opvang, begeleiding of behandeling aan slachtoffers van mensenhandel met multiproblematiek, met inbegrip van voorbereidende werkzaamheden hiervoor | € 712.117,21 | Rotterdam |
+| € 138.322,80 | Almere |  |
+| € 1.437.125,69 | Amsterdam |  |
+| € 712.117,21 | Rotterdam |  |
 
 ##### Artikel 5. Aanvraag tot verlening
 
-1. De aanvraag tot verlening van een specifieke uitkering wordt door de coördinerende gemeente voor het jaar 2026 ingediend voor 1 juli 2026.
+1. De aanvraag tot verlening van een specifieke uitkering wordt door de coördinerende gemeente voor het jaar 2026 ingediend voor 1 juli 2026.
 
 2. De Minister kan vrijstelling of ontheffing verlenen van de termijn, bedoeld in het eerste lid.
 
@@ -135,7 +135,7 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 ##### Artikel 11. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 30 maart 2028.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 30 maart 2028.
 
 ##### Artikel 12. Citeertitel
 

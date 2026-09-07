@@ -1,64 +1,32 @@
 ---
 title: "Besluit van 20 januari 2025, houdende tijdelijke regels ten behoeve van een experiment met een procedure bij de regelrechter (Tijdelijk besluit experiment regelrechter)"
+citeertitel: "Tijdelijk besluit experiment regelrechter"
 identifier: "BWBR0050709"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-03-01"
-last_updated: "2025-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050709"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17349013"
-version_id: "30575312"
-internal_id: "C43830571"
-label_id: "17252284"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050709/2025-03-01/0"
-intitule_bron: "Stb.2025-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-20"
-intitule_published: "2025-01-24"
-intitule_in_force: "2025-01-24"
-intitule_status: "goed"
-original_publication: "Stb.2025-13"
-original_signed_date: "2025-01-20"
-original_published_date: "2025-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-13"
-entry_into_force_date: "2025-03-01"
-jci_1_3: "jci1.3:c:BWBR0050709&z=2025-03-01&g=2025-03-01"
-jci_1_0: "1.0:c:BWBR0050709&g=2025-03-01"
-citeertitel_status: "officieel"
-short_title: "Tijdelijk besluit experiment regelrechter"
-signed_date: "2025-01-20"
-entry_into_force: "2025-03-01"
+publicatiedatum: 2025-03-01
+laatste_update: 2025-03-01
+status: geldig
+toestand: 2025-03-01
+bron: "https://wetten.overheid.nl/BWBR0050709"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van 20 januari 2025, houdende tijdelijke regels ten behoeve van een experiment met een procedure bij de regelrechter (Tijdelijk besluit experiment regelrechter)
-
-Op de voordracht van de Staatssecretaris van Justitie en Veiligheid, T.H.D. Struycken, van 18 oktober 2024, directie Wetgeving en Juridische Zaken, nr. 5847391, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid;
-
-Gelet op [artikel 1, eerste lid, van de Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 december 2024, nr. No. W16.24.00299/II);
-
-Gezien het nader rapport van de Staatssecretaris van Justitie en Veiligheid, T.H.D. Struycken, van 13 januari 2025, directie Wetgeving en Juridische Zaken, nr. 5985426 uitgebracht mede namens Onze Minister van Sociale Zaken en Werkgelegenheid;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. – Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **wet:** de [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790);
+- *wet:* de [Tijdelijke Experimentenwet rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0043790);
 
-- **experiment:** het experiment in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1), zoals vastgelegd in dit besluit;
+- *experiment:* het experiment in de zin van [artikel 1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1), zoals vastgelegd in dit besluit;
 
-- **experimentele procedure:** de procedure zoals vastgelegd in dit besluit, die wordt toegepast in het experiment;
+- *experimentele procedure:* de procedure zoals vastgelegd in dit besluit, die wordt toegepast in het experiment;
 
-- **reguliere procedure:** de dagvaardingsprocedure zoals geregeld in de [tweede titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Tweede);
+- *reguliere procedure:* de dagvaardingsprocedure zoals geregeld in de [tweede titel van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&titeldeel=Tweede);
 
-- **regelrechter:** de kantonrechter behorend tot een van de rechtbanken, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), die overeenkomstig dit besluit zaken in behandeling neemt.
+- *regelrechter:* de kantonrechter behorend tot een van de rechtbanken, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), die overeenkomstig dit besluit zaken in behandeling neemt.
 
 ##### Artikel 2. – Doelstelling experiment
 
@@ -82,7 +50,7 @@ Door de regelrechter worden behandeld zaken betreffende:
 
 - a. vorderingen van een werknemer uit hoofde van een arbeidsovereenkomst, ongeacht de eventuele hoogte van de vordering; en
 
-- b. geldvorderingen met een beloop van ten hoogste € 5.000 in hoofdsom, de eventueel daarover verschuldigde rente niet inbegrepen, van een natuurlijk persoon, ook indien handelende in de uitoefening van een beroep of bedrijf, waaronder mede is begrepen indien handelende in de vorm van een maatschap, een vennootschap onder firma of een commanditaire vennootschap.
+- b. geldvorderingen met een beloop van ten hoogste € 5.000 in hoofdsom, de eventueel daarover verschuldigde rente niet inbegrepen, van een natuurlijk persoon, ook indien handelende in de uitoefening van een beroep of bedrijf, waaronder mede is begrepen indien handelende in de vorm van een maatschap, een vennootschap onder firma of een commanditaire vennootschap.
 
 ##### Artikel 5. – Aard van het experiment
 
@@ -90,7 +58,7 @@ Door de regelrechter worden behandeld zaken betreffende:
 
 2. De eiser bepaalt of gebruik wordt gemaakt van de experimentele procedure en maakt dit kenbaar door indiening van het aanvraagformulier, genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=7&z=2025-03-01&g=2025-03-01). Deze keuze is voor gedaagde dwingend.
 
-##### Artikel 6. – Afwijking van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899)
+##### Artikel 6. – Afwijking van het Wetboek van Burgerlijke Rechtsvordering en de Wet griffierechten burgerlijke zaken
 
 1. In de experimentele procedure wordt overeenkomstig de [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=7&z=2025-03-01&g=2025-03-01) afgeweken van de [artikelen 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=87), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=125), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=128), [130, eerste lid, eerste volzin en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=130), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=131), [132](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=132), [136](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=136), [137](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=137), [139](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=139), [143 tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=143), [146](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=146), [147](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=147) en [237, eerste lid van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [artikel 3, derde lid, eerste volzin, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3).
 
@@ -164,7 +132,7 @@ Indien een van de partijen door het indienen van de verhinderdata als bedoeld in
 
 3. De gedaagde kan in het reactieformulier een eis in reconventie instellen.
 
-4. De eis in reconventie ziet op het onderwerp van de oorspronkelijke eis, waarbij een geldvordering als eis in reconventie een beloop heeft van ten hoogste € 5.000 in hoofdsom. Indien de eis in reconventie een beloop heeft van meer dan € 5.000 in hoofdsom wordt de zaak verwezen naar de reguliere procedure, tenzij de regelrechter anders bepaalt.
+4. De eis in reconventie ziet op het onderwerp van de oorspronkelijke eis, waarbij een geldvordering als eis in reconventie een beloop heeft van ten hoogste € 5.000 in hoofdsom. Indien de eis in reconventie een beloop heeft van meer dan € 5.000 in hoofdsom wordt de zaak verwezen naar de reguliere procedure, tenzij de regelrechter anders bepaalt.
 
 5. Na ontvangst van het reactieformulier zendt de griffie een afschrift daarvan en, voor zover van toepassing, van de daaraan gehechte bewijsstukken zo spoedig mogelijk langs elektronische weg en anders per gewone post aan de eiser.
 
@@ -210,29 +178,29 @@ De eiser is het griffierecht verschuldigd vanaf de dag dat de zaak aanhangig is 
 
 - a. een getalsmatige weergave van:
 
-- 1°. het aantal zaken waarop de experimentele procedure is toegepast en het aantal soortgelijke zaken waarop bij de rechtbank Noord-Holland de reguliere procedure is toegepast;
+   - 1°. het aantal zaken waarop de experimentele procedure is toegepast en het aantal soortgelijke zaken waarop bij de rechtbank Noord-Holland de reguliere procedure is toegepast;
 
-- 2°. het aantal zaken dat behoort tot de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), en dat bij de rechtbanken, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), niet in het experiment maar in de reguliere procedure is behandeld;
+   - 2°. het aantal zaken dat behoort tot de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), en dat bij de rechtbanken, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), niet in het experiment maar in de reguliere procedure is behandeld;
 
-- 3°. het aantal zaken behorende tot de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), dat in de drie jaren voorafgaand aan de start van het experiment door de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), is behandeld;
+   - 3°. het aantal zaken behorende tot de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), dat in de drie jaren voorafgaand aan de start van het experiment door de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01), is behandeld;
 
-- 4°. het belang van de vordering dat aan de orde was bij de zaken in de experimentele procedure en de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland;
+   - 4°. het belang van de vordering dat aan de orde was bij de zaken in de experimentele procedure en de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland;
 
-- 5°. de uitkomst, inhoudende een schikking of beslissing, van de zaken in de experimentele procedure en de uitkomst van de zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord- Holland;
+   - 5°. de uitkomst, inhoudende een schikking of beslissing, van de zaken in de experimentele procedure en de uitkomst van de zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord- Holland;
 
-- 6°. het aantal zaken in de experimentele procedure waarin de gedaagde niet is verschenen en het aantal zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland waarin de gedaagde niet is verschenen;
+   - 6°. het aantal zaken in de experimentele procedure waarin de gedaagde niet is verschenen en het aantal zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland waarin de gedaagde niet is verschenen;
 
-- 7°. het tijdsverloop tussen het moment dat een zaak aanhangig is en de rechtbank vonnis wijst of een schikking wordt getroffen in de zaken in de experimentele procedure en in de zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland;
+   - 7°. het tijdsverloop tussen het moment dat een zaak aanhangig is en de rechtbank vonnis wijst of een schikking wordt getroffen in de zaken in de experimentele procedure en in de zaken in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland;
 
-- 8°. het aantal zaken in de experimentele procedure waarin verstek wordt verleend en waarin verzet of hoger beroep wordt ingesteld en het aantal zaken waarin dit het geval is in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland.
+   - 8°. het aantal zaken in de experimentele procedure waarin verstek wordt verleend en waarin verzet of hoger beroep wordt ingesteld en het aantal zaken waarin dit het geval is in de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland.
 
 - b. een analyse van relevant literatuuronderzoek inzake de sociale, juridische en economische gevolgen van de processuele aanpak van civielrechtelijke geschillen;
 
 - c. een analyse van vragenlijsten die zijn ingevuld door en interviews die zijn afgenomen met:
 
-- 1°. de eisers, gedaagden, gemachtigden, medewerkers van de griffie, juridische ondersteuning en rechters over hun ervaringen met de experimentele procedure;
+   - 1°. de eisers, gedaagden, gemachtigden, medewerkers van de griffie, juridische ondersteuning en rechters over hun ervaringen met de experimentele procedure;
 
-- 2°. de eisers, gedaagden, gemachtigden, medewerkers van de griffie, juridische ondersteuning en rechters over hun ervaringen met de reguliere procedure, zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank in Noord- Holland in zaken die behoren tot een van de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), en
+   - 2°. de eisers, gedaagden, gemachtigden, medewerkers van de griffie, juridische ondersteuning en rechters over hun ervaringen met de reguliere procedure, zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank in Noord- Holland in zaken die behoren tot een van de twee categorieën zaken, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=4&z=2025-03-01&g=2025-03-01), en
 
 - d. een analyse van observaties tijdens de mondelinge behandeling in de experimentele procedure en de reguliere procedure zoals toegepast bij de rechtbanken genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050709&artikel=3&z=2025-03-01&g=2025-03-01) en de rechtbank Noord-Holland.
 
@@ -270,9 +238,9 @@ De eiser is het griffierecht verschuldigd vanaf de dag dat de zaak aanhangig is 
 
 - p. de aanwezigheid bij en bijdrage van rechtsbijstandsverleners aan de experimentele procedure.
 
-##### Artikel 18. – Wijziging [Tijdelijk besluit experimenten rechtspleging](https://wetten.overheid.nl/jci1.3:c:BWBR0047951)
+##### Artikel 18. – Wijziging Tijdelijk besluit experimenten rechtspleging
 
-Wijzigt het Tijdelijk besluit experimenten rechtspleging.
+*Wijzigt het Tijdelijk besluit experimenten rechtspleging.*
 
 ##### Artikel 19. – Overgangsrecht
 
@@ -287,5 +255,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip 
 ##### Artikel 21. – Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk besluit experiment regelrechter.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

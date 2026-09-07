@@ -1,59 +1,33 @@
 ---
 title: "Regeling voorzieningen hondengeleiders Defensie"
 identifier: "BWBR0050727"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-02-01"
-last_updated: "2025-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050727"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17357633"
-version_id: "30594432"
-internal_id: "C43851811"
-label_id: "17260564"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050727/2025-02-01/0"
-intitule_bron: "Stcrt.2025-3738"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-31"
-intitule_published: "2025-01-31"
-intitule_in_force: "2025-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3738"
-original_signed_date: "2024-12-31"
-original_published_date: "2025-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3738"
-entry_into_force_date: "2025-02-01"
-jci_1_3: "jci1.3:c:BWBR0050727&z=2025-02-01&g=2025-02-01"
-jci_1_0: "1.0:c:BWBR0050727&g=2025-02-01"
-citeertitel_status: "officieel"
-signed_date: "2024-12-31"
-entry_into_force: "2025-02-01"
+publicatiedatum: 2025-02-01
+laatste_update: 2025-02-01
+status: geldig
+toestand: 2025-02-01
+bron: "https://wetten.overheid.nl/BWBR0050727"
+opgehaald: 2026-09-07
 ---
+
 # Regeling voorzieningen hondengeleiders Defensie
-
-Gelet op [artikel 62 van het Inkomstenbesluit burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0018191&artikel=62) en [artikel 26 van het van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=26);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **commandant:** de commandant, bedoeld in het [Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0039990);
+- *commandant:* de commandant, bedoeld in het [Besluit toedeling uitvoerende personele bevoegdheden Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0039990);
 
-- **defensieambtenaar:** de ambtenaar bedoeld in [artikel 1, eerste lid, onder a, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
+- *defensieambtenaar:* de ambtenaar bedoeld in [artikel 1, eerste lid, onder a, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1);
 
-- **diensthond:** de hond die wordt ingezet ten behoeve van de uitvoering van politie- en defensietaken en die door de hondengeleider op het woonadres wordt verzorgd;
+- *diensthond:* de hond die wordt ingezet ten behoeve van de uitvoering van politie- en defensietaken en die door de hondengeleider op het woonadres wordt verzorgd;
 
-- **hondengeleider:** de defensieambtenaar die een toegewezen diensthond buiten werktijd op diens woonadres verzorgt.
+- *hondengeleider:* de defensieambtenaar die een toegewezen diensthond buiten werktijd op diens woonadres verzorgt.
 
 ##### Artikel 2. Tegemoetkoming
 
-Voor de kosten ten behoeve van de verzorging van de diensthond buiten werktijd heeft de hondengeleider aanspraak op een maandelijkse tegemoetkoming van netto € 165,00 per diensthond.
+Voor de kosten ten behoeve van de verzorging van de diensthond buiten werktijd heeft de hondengeleider aanspraak op een maandelijkse tegemoetkoming van netto € 165,00 per diensthond.
 
 ##### Artikel 3. Compensatie
 
@@ -61,7 +35,7 @@ Voor de kosten ten behoeve van de verzorging van de diensthond buiten werktijd h
 
 - a. een compensatie in tijd van 6 uren per week, die in het rooster van de hondengeleider wordt verwerkt, of;
 
-- b. een compensatie in tijd van 3 uren per week die in het rooster van de hondengeleider wordt verwerkt, en een compensatie in geld tegen het bruto uurloon voor 3 uren per week.
+- b. een compensatie in tijd van 3 uren per week die in het rooster van de hondengeleider wordt verwerkt, en een compensatie in geld tegen het bruto uurloon voor 3 uren per week.
 
 2. De hondengeleider kan bij de commandant een aanvraag indienen om in aanmerking te komen voor één van de twee compensatievarianten als bedoeld in het eerste lid onder a of b.
 
@@ -101,7 +75,7 @@ De aanspraak op de tegemoetkoming, bedoeld in [artikel 2](https://wetten.overhei
 
 ##### Artikel 6. Indexering
 
-De tegemoetkoming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=2&z=2025-02-01&g=2025-02-01), wordt jaarlijks per 1 juli van elk kalenderjaar gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
+De tegemoetkoming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050727&artikel=2&z=2025-02-01&g=2025-02-01), wordt jaarlijks per 1 juli van elk kalenderjaar gewijzigd overeenkomstig de door het Centraal Planbureau in het Centraal Economisch Plan gepubliceerde afgeleide consumentenprijsindex.
 
 ##### Artikel 7. Verstrekking middelen door Defensie
 
@@ -138,5 +112,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte i
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen hondengeleiders Defensie.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

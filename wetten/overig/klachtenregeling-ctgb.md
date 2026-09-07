@@ -1,55 +1,29 @@
 ---
 title: "Klachtenregeling Ctgb"
 identifier: "BWBR0050628"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050628"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17328203"
-version_id: "30533912"
-internal_id: "C43770521"
-label_id: "17232294"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050628/2025-01-01/0"
-intitule_bron: "Stcrt.2024-42957"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-18"
-intitule_published: "2024-12-31"
-intitule_in_force: "2024-12-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-42957"
-original_signed_date: "2024-12-18"
-original_published_date: "2024-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-42957"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050628&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050628&g=2025-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2024-12-18"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050628"
+opgehaald: 2026-09-07
 ---
+
 # Klachtenregeling Ctgb
-
-Gelet op [artikel 9:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:13),
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- a. **Controller:** de persoon die de financiële positie van het Ctgb bewaakt;
+- a. *Controller:* de persoon die de financiële positie van het Ctgb bewaakt;
 
-- b. **Ctgb:** het in [artikel 3 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
+- b. *Ctgb:* het in [artikel 3 van de Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=3) bedoelde College voor de toelating van gewasbeschermingsmiddelen en biociden;
 
-- c. **Extern lid:** de persoon die niet in dienst is bij Ctgb en de onafhankelijk en onpartijdigheid borgt.
+- c. *Extern lid:* de persoon die niet in dienst is bij Ctgb en de onafhankelijk en onpartijdigheid borgt.
 
-- d. **Kwaliteitscoördinator:** de persoon die zorgdraagt voor de ontwikkeling, uitvoering en bewaking van een kwalitatief hoogstaand kwaliteitsmanagementsysteem bij het Ctgb.
+- d. *Kwaliteitscoördinator:* de persoon die zorgdraagt voor de ontwikkeling, uitvoering en bewaking van een kwalitatief hoogstaand kwaliteitsmanagementsysteem bij het Ctgb.
 
 ##### Artikel 2. Klacht
 

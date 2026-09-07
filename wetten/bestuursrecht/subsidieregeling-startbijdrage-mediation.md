@@ -1,44 +1,18 @@
 ---
 title: "Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)"
+citeertitel: "Subsidieregeling startbijdrage mediation"
 identifier: "BWBR0050521"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-18"
-last_updated: "2026-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050521"
+categorie: "Sociaal recht"
 soort: "zbo"
-stam_id: "17297023"
-version_id: "30463042"
-internal_id: "C43677601"
-label_id: "17201104"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050521/2026-02-18/0"
-intitule_bron: "Stcrt.2024-38632"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-11"
-intitule_published: "2024-11-27"
-intitule_in_force: "2024-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38632"
-original_signed_date: "2024-11-11"
-original_published_date: "2024-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-38632"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050521&z=2026-02-18&g=2026-02-18"
-jci_1_0: "1.0:c:BWBR0050521&g=2026-02-18"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling startbijdrage mediation"
-signed_date: "2024-11-11"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2026-02-18
+status: geldig
+toestand: 2026-02-18
+bron: "https://wetten.overheid.nl/BWBR0050521"
+opgehaald: 2026-09-07
 ---
+
 # Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)
-
-Gelet op [artikel 42c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=42c);
-
-Besluit:
 
 ### Hoofdstuk I. Algemeen
 
@@ -46,21 +20,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **mediation:** het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
+- a. *mediation:* het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en zijn wederpartij begeleidt teneinde vanuit hun werkelijke belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen;
 
-- b. **mediator:** de mediator als bedoeld in [artikel 33a Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2026-02-18&g=2026-02-18) van deze regeling, zijnde subsidieontvanger;
+- b. *mediator:* de mediator als bedoeld in [artikel 33a Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=33a) en die voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=II&artikel=5&z=2026-02-18&g=2026-02-18) van deze regeling, zijnde subsidieontvanger;
 
-- c. **startbijdrage:** de door de Raad voor Rechtsbijstand te verstrekken subsidie in de kosten van de werkzaamheden met betrekking tot de uitvoering van mediation na verwijzing door de rechtspraak van een bij het gerecht aanhangige zaak en waarbij de rechtzoekende niet in aanmerking komt voor gesubsidieerde mediation als bedoeld in [Afdeling 1 van Hoofdstuk V van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&afdeling=1);
+- c. *startbijdrage:* de door de Raad voor Rechtsbijstand te verstrekken subsidie in de kosten van de werkzaamheden met betrekking tot de uitvoering van mediation na verwijzing door de rechtspraak van een bij het gerecht aanhangige zaak en waarbij de rechtzoekende niet in aanmerking komt voor gesubsidieerde mediation als bedoeld in [Afdeling 1 van Hoofdstuk V van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&afdeling=1);
 
-- d. **mediationbureau:** het bureau van het desbetreffende gerecht dat belast is met de uitvoering van de verwijzing;
+- d. *mediationbureau:* het bureau van het desbetreffende gerecht dat belast is met de uitvoering van de verwijzing;
 
-- e. **mediationovereenkomst:** de overeenkomst waarin partijen zich jegens elkaar verplichten ernaar te streven het in die overeenkomst omschreven geschil door mediation op te lossen en zich te houden aan de gemaakte procedureafspraken;
+- e. *mediationovereenkomst:* de overeenkomst waarin partijen zich jegens elkaar verplichten ernaar te streven het in die overeenkomst omschreven geschil door mediation op te lossen en zich te houden aan de gemaakte procedureafspraken;
 
-- f. **Raad:** (het bestuur van de) Raad voor Rechtsbijstand
+- f. *Raad:* (het bestuur van de) Raad voor Rechtsbijstand
 
-- g. **Regeling:** Subsidieregeling startbijdrage mediation;
+- g. *Regeling:* Subsidieregeling startbijdrage mediation;
 
-- h. **verwijzing:** de verwijzing naar een mediator door de rechtspraak die door alle procespartijen is geaccepteerd.
+- h. *verwijzing:* de verwijzing naar een mediator door de rechtspraak die door alle procespartijen is geaccepteerd.
 
 ##### Artikel 2. Doel
 
@@ -74,7 +48,7 @@ De Regeling heeft tot doel om het gebruik van mediation, na verwijzing naar een 
 
 ##### Artikel 4. Hoogte van de startbijdrage
 
-De hoogte van de startbijdrage bedraagt 179 euro (excl. btw) per procespartij in de verwezen zaak met een maximum van 358 euro (excl. btw) voor alle in het conflict betrokken procespartijen gezamenlijk. Deze bijdrage wordt jaarlijks geïndexeerd.
+De hoogte van de startbijdrage bedraagt 179 euro (excl. btw) per procespartij in de verwezen zaak met een maximum van 358 euro (excl. btw) voor alle in het conflict betrokken procespartijen gezamenlijk. Deze bijdrage wordt jaarlijks geïndexeerd.
 
 ### Hoofdstuk II. Voorwaarden
 
@@ -92,9 +66,9 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 - e. de mediator heeft bij de aanvraag gevoegd:
 
-- 1. een schriftelijke verwijzing van het gerecht naar procespartijen;
+   - 1. een schriftelijke verwijzing van het gerecht naar procespartijen;
 
-- 2. een afschrift van de door beide procespartijen getekende mediationovereenkomst.
+   - 2. een afschrift van de door beide procespartijen getekende mediationovereenkomst.
 
 - f. De mediator verplicht zich ertoe geen kosten in rekening te brengen voor de in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050521&hoofdstuk=I&artikel=3&z=2026-02-18&g=2026-02-18) van de regeling genoemde werkzaamheden.
 
@@ -118,13 +92,13 @@ De mediator komt na aanvraag in aanmerking voor een startbijdrage, indien voldaa
 
 ##### Artikel 7. Toepassingsbepaling
 
-De Regeling is van toepassing op mediation waarvan de verwijzing door het gerecht naar een mediator heeft plaatsgevonden op of na 1 januari 2025.
+De Regeling is van toepassing op mediation waarvan de verwijzing door het gerecht naar een mediator heeft plaatsgevonden op of na 1 januari 2025.
 
 ##### Artikel 8. Inwerkingtreding en vervaldatum
 
-1. De Regeling treedt in werking met ingang van 1 januari 2025 en vervangt de subsidieregeling met de titel [Subsidieregeling startbijdrage mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0047933) (Staatscourant 2023, 6709). Indien de Staatscourant waarin de Regeling wordt geplaatst, is gedagtekend na 31 december 2024, treedt zij in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2025.
+1. De Regeling treedt in werking met ingang van 1 januari 2025 en vervangt de subsidieregeling met de titel [Subsidieregeling startbijdrage mediation](https://wetten.overheid.nl/jci1.3:c:BWBR0047933) (Staatscourant 2023, 6709). Indien de Staatscourant waarin de Regeling wordt geplaatst, is gedagtekend na 31 december 2024, treedt zij in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2025.
 
-2. De Regeling vervalt met ingang van 1 januari 2030.
+2. De Regeling vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 9. Aanhalen Subsidieregeling
 

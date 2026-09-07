@@ -1,62 +1,36 @@
 ---
 title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2024, kenmerk 4013782-1075740-GMT, houdende het niet handhavend optreden tegen het collegiaal doorleveren en ter hand stellen van apotheekbereidingen (Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen)"
+citeertitel: "Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen"
 identifier: "BWBR0050656"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-02-01"
-last_updated: "2025-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050656"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "17336513"
-version_id: "30550312"
-internal_id: "C43791761"
-label_id: "17240584"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050656/2025-02-01/0"
-intitule_bron: "Stcrt.2024-39917"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-28"
-intitule_published: "2024-12-06"
-intitule_in_force: "2024-12-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-39917"
-original_signed_date: "2024-11-28"
-original_published_date: "2024-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-39917"
-entry_into_force_date: "2025-02-01"
-jci_1_3: "jci1.3:c:BWBR0050656&z=2025-02-01&g=2025-02-01"
-jci_1_0: "1.0:c:BWBR0050656&g=2025-02-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen"
-signed_date: "2024-11-28"
-entry_into_force: "2025-02-01"
+publicatiedatum: 2025-02-01
+laatste_update: 2025-02-01
+status: geldig
+toestand: 2025-02-01
+bron: "https://wetten.overheid.nl/BWBR0050656"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2024, kenmerk 4013782-1075740-GMT, houdende het niet handhavend optreden tegen het collegiaal doorleveren en ter hand stellen van apotheekbereidingen (Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen)
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt in deze beleidsregel verstaan onder:
 
-- **ter hand stellende apotheek:** apotheek die de apotheekbereiding van de bereidende apotheek collegiaal doorgeleverd krijgt met als doel de terhandstelling aan een patiënt dan wel aan een beroepsbeoefenaar die geneesmiddelen onder zich heeft ten behoeve van toediening aan zijn patiënten;
+- *ter hand stellende apotheek:* apotheek die de apotheekbereiding van de bereidende apotheek collegiaal doorgeleverd krijgt met als doel de terhandstelling aan een patiënt dan wel aan een beroepsbeoefenaar die geneesmiddelen onder zich heeft ten behoeve van toediening aan zijn patiënten;
 
-- **apotheekbereiding:** geneesmiddel bereid in de apotheek;
+- *apotheekbereiding:* geneesmiddel bereid in de apotheek;
 
-- **bereidende apotheek:** apotheek die de apotheekbereiding bereidt;
+- *bereidende apotheek:* apotheek die de apotheekbereiding bereidt;
 
-- **collegiaal doorleveren:** doorleveren van een ongeregistreerd geneesmiddel in de vorm van een apotheekbereiding door de bereidende apotheek aan de ter hand stellende apotheek;
+- *collegiaal doorleveren:* doorleveren van een ongeregistreerd geneesmiddel in de vorm van een apotheekbereiding door de bereidende apotheek aan de ter hand stellende apotheek;
 
-- **gedoogverklaring:** schriftelijke verklaring van de Inspectie gezondheidszorg en jeugd om in beginsel niet handhavend op te treden tegen het collegiaal doorleveren van apotheekbereidingen;
+- *gedoogverklaring:* schriftelijke verklaring van de Inspectie gezondheidszorg en jeugd om in beginsel niet handhavend op te treden tegen het collegiaal doorleveren van apotheekbereidingen;
 
-- **geregistreerd adequaat alternatief:** in Nederland geregistreerd geneesmiddel, waarin dezelfde werkzame stof is verwerkt, in dezelfde toedieningsvorm en dezelfde sterkte of een in Nederland geregistreerd geneesmiddel dat nagenoeg dezelfde werkzame stof bevat, nagenoeg dezelfde toedieningsvorm heeft of een sterkte, waarmee de vereiste dosering ook kan worden bereikt;
+- *geregistreerd adequaat alternatief:* in Nederland geregistreerd geneesmiddel, waarin dezelfde werkzame stof is verwerkt, in dezelfde toedieningsvorm en dezelfde sterkte of een in Nederland geregistreerd geneesmiddel dat nagenoeg dezelfde werkzame stof bevat, nagenoeg dezelfde toedieningsvorm heeft of een sterkte, waarmee de vereiste dosering ook kan worden bereikt;
 
-- **inspectie:** Inspectie gezondheidszorg en jeugd.
+- *inspectie:* Inspectie gezondheidszorg en jeugd.
 
 ##### Artikel 2. Niet handhavend optreden bij het collegiaal doorleveren en ter hand stellen van apotheekbereidingen
 
@@ -138,108 +112,10 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel collegiaal doorleveren en t
 
 ##### Artikel 9. Inwerkingtreding en overgangsrecht
 
-1. Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
+1. Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
 
-2. Bereidende apotheken die vóór 1 februari 2025 reeds collegiaal doorleveren en vóór 1 maart 2025 een schriftelijk verzoek hebben ingediend bij de inspectie op de door de inspectie aangewezen wijze, mogen collegiaal blijven doorleveren onder de voorwaarden van de circulaire ‘Handhavend optreden bij collegiaal doorleveren van eigen apotheekbereidingen door apothekers, 2023-01-IGJ’ tot de inspectie heeft bepaald of aan de betreffende apotheek een gedoogverklaring wordt afgegeven.
+2. Bereidende apotheken die vóór 1 februari 2025 reeds collegiaal doorleveren en vóór 1 maart 2025 een schriftelijk verzoek hebben ingediend bij de inspectie op de door de inspectie aangewezen wijze, mogen collegiaal blijven doorleveren onder de voorwaarden van de circulaire ‘Handhavend optreden bij collegiaal doorleveren van eigen apotheekbereidingen door apothekers, 2023-01-IGJ’ tot de inspectie heeft bepaald of aan de betreffende apotheek een gedoogverklaring wordt afgegeven.
 
-3. Het overgangsrecht zoals bedoeld in het tweede lid geldt tot uiterlijk 1 februari 2029.
+3. Het overgangsrecht zoals bedoeld in het tweede lid geldt tot uiterlijk 1 februari 2029.
 
 4. Bij de beoordeling van het verzoek om een gedoogverklaring door de reeds bereidende apotheek bedoeld in het tweede lid, toetst de inspectie aan de voorwaarden uit de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=3&z=2025-02-01&g=2025-02-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=4&z=2025-02-01&g=2025-02-01).
-
-## Bijlage I. als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=5&z=2025-02-01&g=2025-02-01)
-
-In het productdossier bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=5&z=2025-02-01&g=2025-02-01) zijn in ieder geval de volgende elementen opgenomen en uitgewerkt:
-
-- a. beschrijving en samenstelling van de collegiaal doorgeleverde apotheekbereiding:
-
-- –. Een beschrijving van de collegiaal doorgeleverde apotheekbereiding inclusief label, verpakking en eventuele toebehoren.
-
-- –. De kwalitatieve en kwantitatieve samenstelling van de collegiaal doorgeleverde apotheekbereiding.
-
-- b. meerwaarde van de collegiaal doorgeleverde apotheekbereiding:
-
-- –. Onderbouwing dat beschikbare geregistreerde alternatieven niet adequaat kunnen worden ingezet of geen geregistreerde adequate alternatieven beschikbaar zijn.
-
-- –. Onderbouwing van de farmacotherapeutische rationale. Onder ‘farmacotherapeutische rationale’ wordt verstaan de reden(en) waarom de betreffende collegiaal doorgeleverde apotheekbereiding therapeutisch zinvol is voor patiënten.
-
-- c. farmaceutisch ontwerp en ontwikkeling. Hierover wordt minimaal het volgende vastgesteld:
-
-- –. Een risicoanalyse op chemisch-farmaceutisch vlak. Hieruit volgen kritische productkenmerken en de kritische processtappen.
-
-- –. Een beschrijving van de controlestrategie om de geïdentificeerde risico’s te beheersen. De risicoanalyse en controlestrategie onderbouwen dat de collegiaal doorgeleverde apotheekbereiding deugdelijk gemaakt kan worden; zie hiervoor: Ph.Eur. monografie 2619 Pharmaceutical preparations, GMP Chapter 1 Pharmaceutical Quality System en de ICH richtlijn Q9 Quality risk management. Bovendien ondersteunt de uitkomst de gemaakte keuzes betreffende de samenstelling, het productieproces, de specificaties, de verpakking en de houdbaarheid.
-
-- d. productie:
-
-- –. Benodigde materialen per chargegrootte van de collegiaal doorgeleverde apotheekbereiding.
-
-- –. Een beschrijving van het productieproces inclusief de wijze van controle van kritische stappen (in-proces controles) en gestelde eisen.
-
-- –. Procesvalidatiegegevens van drie opeenvolgende charges van de collegiaal doorgeleverde apotheekbereiding op volledige schaal.
-
-- –. Afhankelijk van de uitkomst van de risicoanalyse op chemisch-farmaceutisch vlak en de ervaring van de apotheek, kan onderbouwd worden dat de charges van de apotheekbereiding collegiaal worden doorgeleverd voordat procesvalidatiegegevens van drie charges op volledige schaal beschikbaar zijn (concurrent validatie).
-
-- e. controle startmaterialen:
-
-- –. De fabrikanten en leveranciers (inclusief tussenhandelaren en verpakkers) van de start- materialen (supply chain traceability). Indien het startmateriaal een in Nederland geregistreerd geneesmiddel betreft, wordt ook de handelsvergunninghouder vastgelegd.
-
-- –. Onderbouwde specificaties voor elk van de gebruikte startmaterialen. Indien bereid wordt uit in Nederland geregistreerde geneesmiddelen worden ook hiervoor specificaties vastgelegd onder andere met betrekking tot resterende houdbaarheid.
-
-- –. Een beschrijving van de gebruikte analysemethodes en de validatie van deze methodes.
-
-- f. controle collegiaal doorgeleverde apotheekbereiding:
-
-- –. Onderbouwde specificaties voor de collegiaal doorgeleverde apotheekbereiding. In lijn met de Ph.Eur monografie 2619 Pharmaceutical preparations worden de volgende parameters opgenomen in de productspecificatie: uiterlijk, identiteit van werkzaam bestanddeel, onzuiverheden, gehalte en in het geval van ‘single-dose units’ uniformiteit.
-
-- –. Een beschrijving van de monstername en de gebruikte analysemethodes en de validatie van deze methodes.
-
-- –. Analysecertificaten van representatieve charges.
-
-- g. verpakking:
-
-- –. De fabrikant en leverancier (inclusief sterilisatielocatie) van de gebruikte verpakkings- materialen.
-
-- –. Onderbouwde specificaties voor de gebruikte verpakkingsmaterialen.
-
-- h. stabiliteit:
-
-- –. De bewaartermijn en -condities van het ongeopende product en indien van toepassing de bewaartermijn en -condities na openen.
-
-- –. Stabiliteitsgegevens ter onderbouwing van de toegekende bewaartermijn(en) en -condities (na openen) van drie charges van de collegiaal doorgeleverde apotheekbereiding. Afhankelijk van de in de literatuur beschikbare stabiliteitsgegevens, die representatief zouden kunnen zijn voor de collegiaal doorgeleverde apotheekbereiding, kan de voorlopige houdbaarheid worden gebaseerd op literatuurgegevens en/of resultaten uit eigen stabiliteitsonderzoek. Indien gebruik gemaakt wordt van literatuurgegevens dient gedegen vastgelegd te worden hoe dit de voorlopige houdbaarheid ondersteunt. Literatuurstudie alleen kan niet dienen als vervanging van het initiële en periodieke stabiliteitsonderzoek.
-
-- i. informatie:
-
-- –. Informatie noodzakelijk voor het correct toepassen van de collegiaal doorgeleverde apotheekbereiding door de zorgverlener en/of de patiënt.
-
-- –. De ongeregistreerde status dient te blijken uit de presentatie van het product (bijv. verpakking, bijsluiter en/of etiket). Daarnaast dient de naam van de bereidende apotheek te zijn vermeld op de verpakking.
-
-## Bijlage II. als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=6&z=2025-02-01&g=2025-02-01)
-
-Het farmacovigilantiesysteem dient ondersteund te worden door een kwaliteitssysteem dat bestaat uit procedures, nalevingsbeheer en documentbeheer (GVP Module 1, I.B.101Het Europees Geneesmiddelen Agentschap (EMA) heeft de modules van ‘Good Pharmacovigilance Practices (GVP)’ opgesteld. De GVP guideline kan worden geraadpleegd via [https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/good-pharmacovigilance-practices-gvp](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/good-pharmacovigilance-practices-gvp)). Het personeel is voldoende op de hoogte van de procedures (GVP Module 1, I.B.7). Als minimum dienen de volgende procedures in dat kwaliteitssysteem aanwezig te zijn:
-
-### Herkennen van bijwerkingen
-
-Personeel van de bereidende apotheek is aantoonbaar getraind en in staat om bijwerkingen te herkennen. Er wordt rekening mee gehouden dat een bijwerking ook onderdeel kan zijn van een medische klacht of productklacht. Nieuw personeel ontvangt training in het herkennen van bijwerkingen en deze scholingen worden ook regelmatig herhaald. Training records zijn in de apotheek aanwezig en direct inzichtelijk tijdens een eventuele inspectie (GVP Module 1, I.B.7).
-
-### Registratie van bijwerkingen
-
-De bereidende apotheek dient alle gemelde bijwerkingen te registreren in het farmacovigilantiesysteem. Hierin legt de apotheek tevens de door Lareb doorgestuurde bijwerkingen vast. Voordat een bijwerking daadwerkelijk wordt geregistreerd, voert de bereidende apotheek eerst een controle uit of de betreffende melding niet al eerder is vastgelegd in het systeem (duplicate check). Daarnaast gaat de apotheek na of de melding aan de minimale eisen voldoet (GVP Module 6, VI.B.2). Deze minimale informatie bestaat uit:
-
-Als de melding niet aan de minimale eisen voldoet, neemt de bereidende apotheek contact op met de melder voor het verkrijgen van follow-up informatie. Waar mogelijk dienen bijwerkingen van een patiënt bevestigd te worden door een voorschrijver.
-
-### Beoordeling van bijwerkingen
-
-Alle bijwerkingen worden beoordeeld op ernst (GVP Module 6, VI.A.1.6) en causaliteit (GVP Module 6, VI.A.1.1) door de bereidende apotheker. EMA heeft een lijst met medisch belangrijke gebeurtenissen (important medical events) opgesteld. Deze lijst kan worden gebruikt voor het bepalen van ernst van bijwerkingen (GVP Module 6, VI.A.1.6). Voor het bepalen van causaliteit kan het WHO-UMC causality assessment system document worden gebruikt2WHO-UMC causality assessment system ([http://who-umc.org/Graphics/24734.pdf](http://who-umc.org/Graphics/24734.pdf)).. Spontaan gemelde bijwerkingen zijn altijd gerelateerd, tenzij de melder anders aangeeft (GVP Module 6, VI.A.1.1). Verder is het niet toegestaan om een bijwerking die de melder als ernstig beschouwt, als niet ernstig te classificeren (GVP Module 6, VI.B.2.). Meldingen dienen zo volledig mogelijk te zijn, zodat een zinvolle medische beoordeling mogelijk is. Als de ernst en/of causaliteit niet goed kunnen worden beoordeeld, is follow-up nodig.
-
-### Bijzondere doelgroepen
-
-Indien de bereidende apotheker kennis neemt van het gebruik van een geneesmiddel tijdens zwangerschap of tijdens het geven van borstvoeding dient dit in alle gevallen te worden geregistreerd in het farmacovigilantiesysteem. De uitkomst van de zwangerschap (gezonde neonaat, congenitale afwijkingen, (spontane) abortus) is van belang bij gebruik van een geneesmiddel tijdens de zwangerschap. Daarom dient follow-up plaats te vinden, totdat de uitkomst van de zwangerschap bekend is (GVP Module 6, VI.B.6.1). Het is tevens belangrijk om bijwerkingeninformatie te verzamelen bij kwetsbare groepen zoals kinderen en ouderen. Vastleggen van de leeftijd of leeftijdscategorie van de patiënt bij een melding is derhalve van belang.
-
-### Signaaldetectie
-
-Bereidende apotheken volgen de bijwerkingengegevens in hun farmacovigilantiesysteem voortdurend en daarnaast periodiek (signaaldetectie) om te bepalen of zich nieuwe of gewijzigde risico’s voordoen. De gebruikte methode voor signaaldetectie voldoet daarbij aan de volgende eisen:
-
-Gedetecteerde signalen worden gevalideerd op basis van een onderzoek naar:
-
-Een signaal is valide als er voldoende bewijsmateriaal is voor een nieuw mogelijk oorzakelijk verband, of als het een nieuw aspect van een bekend verband aantoont waardoor verdere analyse van het signaal nodig is. Alle gevalideerde signalen worden zo spoedig mogelijk gemeld aan IGJ via het mailadres meldpunt@igj.nl.
-
-Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-01
 toestand: 2015-10-01
 bron: "https://wetten.overheid.nl/BWBR0037034"
-opgehaald: 2026-09-06
+opgehaald: 2026-09-07
 ---
 
 # Voorlopige voorziening tegemoetkoming inkomensderving als gevolg van ophoging AOW-leeftijd

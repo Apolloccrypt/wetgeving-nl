@@ -1,62 +1,35 @@
 ---
 title: "Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)"
+citeertitel: "Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025"
 identifier: "BWBR0050736"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-05"
-last_updated: "2025-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050736"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17359763"
-version_id: "30599372"
-internal_id: "C43857381"
-label_id: "17262684"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050736/2025-02-05/0"
-intitule_bron: "Stcrt.2025-3744"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-02-04"
-intitule_published: "2025-02-04"
-intitule_in_force: "2025-02-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3744"
-original_signed_date: "2025-02-04"
-original_published_date: "2025-02-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3744"
-entry_into_force_date: "2025-02-05"
-jci_1_3: "jci1.3:c:BWBR0050736&z=2025-02-05&g=2025-02-05"
-jci_1_0: "1.0:c:BWBR0050736&g=2025-02-05"
-citeertitel_status: "officieel"
-short_title: "Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025"
-signed_date: "2025-02-04"
-entry_into_force: "2025-02-05"
+publicatiedatum: 2025-02-05
+laatste_update: 2025-02-05
+status: geldig
+toestand: 2025-02-05
+bron: "https://wetten.overheid.nl/BWBR0050736"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)
-
-Na de verkregen goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op de [artikelen 3.29e, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29e), en [3.29i, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29i),
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **aanbieder:** een media-instelling die een commerciële mediadienst op aanvraag verzorgt;
+- a. *aanbieder:* een media-instelling die een commerciële mediadienst op aanvraag verzorgt;
 
-- b. **Commissariaat:** Commissariaat voor de Media;
+- b. *Commissariaat:* Commissariaat voor de Media;
 
-- c. **investeringsverplichting:** de verplichting als bedoeld in [artikel 3.29e, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29e) voor een media-instelling die een commerciële mediadienst op aanvraag verzorgt, om te investeren in Nederlands cultureel audiovisueel product;
+- c. *investeringsverplichting:* de verplichting als bedoeld in [artikel 3.29e, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29e) voor een media-instelling die een commerciële mediadienst op aanvraag verzorgt, om te investeren in Nederlands cultureel audiovisueel product;
 
-- d. **relevante omzet:** de relevante omzet per boekjaar bestaat uit alle in Nederland gegenereerde omzet die verband houdt met het aanbieden van de betreffende commerciële mediadienst op aanvraag. Hiertoe wordt gerekend omzet uit: reclameboodschappen, abonnementen, gebruikerstransacties, sponsoring en productplaatsing;
+- d. *relevante omzet:* de relevante omzet per boekjaar bestaat uit alle in Nederland gegenereerde omzet die verband houdt met het aanbieden van de betreffende commerciële mediadienst op aanvraag. Hiertoe wordt gerekend omzet uit: reclameboodschappen, abonnementen, gebruikerstransacties, sponsoring en productplaatsing;
 
-- e. **Richtlijn:** [Richtlijn (EU) 2018/1808](32018L1808) van 14 november 2018 tot wijziging van [Richtlijn 2010/13/EU](32010L0013) betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten in het licht van een veranderende marktsituatie;
+- e. *Richtlijn:*
+ Richtlijn (EU) 2018/1808 van 14 november 2018 tot wijziging van Richtlijn 2010/13/EU betreffende de coördinatie van bepaalde wettelijke en bestuursrechtelijke bepalingen in de lidstaten inzake het aanbieden van audiovisuele mediadiensten in het licht van een veranderende marktsituatie;
 
-- f. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
+- f. *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028).
 
 ##### Artikel 2. Gronden voor ontheffing
 
@@ -68,7 +41,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Aanvraag om een ontheffing
 
-1. De aanbieder dient een aanvraag om een ontheffing in bij het Commissariaat uiterlijk vóór 1 juli van het jaar volgend op het boekjaar waarvoor de ontheffing wordt aangevraagd.
+1. De aanbieder dient een aanvraag om een ontheffing in bij het Commissariaat uiterlijk vóór 1 juli van het jaar volgend op het boekjaar waarvoor de ontheffing wordt aangevraagd.
 
 2. De aanvraag om een ontheffing wordt schriftelijk ingediend.
 

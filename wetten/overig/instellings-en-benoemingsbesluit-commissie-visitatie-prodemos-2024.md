@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2024, nr. 2024-0000033133, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2024"
+citeertitel: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2024"
 identifier: "BWBR0050430"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-20"
-last_updated: "2024-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050430"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17273183"
-version_id: "30422862"
-internal_id: "C43628161"
-label_id: "17178564"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050430/2024-11-20/0"
-intitule_bron: "Stcrt.2024-37632"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-10-30"
-intitule_published: "2024-11-19"
-intitule_in_force: "2024-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-37632"
-original_signed_date: "2024-10-30"
-original_published_date: "2024-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-37632"
-entry_into_force_date: "2024-11-20"
-jci_1_3: "jci1.3:c:BWBR0050430&z=2024-11-20&g=2024-11-20"
-jci_1_0: "1.0:c:BWBR0050430&g=2024-11-20"
-citeertitel_status: "officieel"
-short_title: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2024"
-signed_date: "2024-10-30"
-entry_into_force: "2024-11-20"
+publicatiedatum: 2024-11-20
+laatste_update: 2024-11-20
+status: geldig
+toestand: 2024-11-20
+bron: "https://wetten.overheid.nl/BWBR0050430"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 oktober 2024, nr. 2024-0000033133, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2024
-
-gelet op het protocol visitatie t.b.v. de visitatiecommissie ProDemos van augustus 2015, nr. 2015-0000488822,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050430&artikel=2&z=2024-11-20&g=2024-11-20);
+- a. *commissie:* commissie voor de visitatie van ProDemos, genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050430&artikel=2&z=2024-11-20&g=2024-11-20);
 
-- b. **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **ministerie:** Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
+- c. *ministerie:* Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 2. Instelling en taak
 
@@ -74,15 +48,15 @@ In dit besluit wordt verstaan onder:
 
 1. Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
-- –. dr. M.E. (Marlies) Honingh
+- – dr. M.E. (Marlies) Honingh
 
-- –. Ir. R.E (Robert) van der Noordaa
+- – Ir. R.E (Robert) van der Noordaa
 
-- –. drs. D.M.G. (Daniella) Roovers
+- – drs. D.M.G. (Daniella) Roovers
 
-- –. jhr. E.F.M. (Eppo) van Nispen tot Sevenaer
+- – jhr. E.F.M. (Eppo) van Nispen tot Sevenaer
 
-- –. drs. J.Z.C.M. (Judith) Tielen
+- – drs. J.Z.C.M. (Judith) Tielen
 
 2. Bij tussentijds vertrek van een lid kan de minister een ander lid benoemen.
 
@@ -118,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Vergoeding
 
-1. De commissieleden ontvangen een vergoeding per vergadering, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
+1. De commissieleden ontvangen een vergoeding per vergadering, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
 2. Onder vergadering kan worden beschouwd:
 
@@ -126,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 - b. twee of meer vergaderingen die op één dag plaatsvinden
 
-3. De vergoeding per vergadering van de leden bedraagt 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
+3. De vergoeding per vergadering van de leden bedraagt 3% van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
 4. De vergoeding per vergadering van de voorzitter van de commissie bedraagt 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de commissie is toegekend.
 
@@ -140,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 1. Het archief van de onderzoekscommissie wordt na afloop van het onderzoek overgebracht naar het archief van het ministerie.
 
-2. Het beheer van het archief vindt plaats met inachtneming van het protocol, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050430&artikel=7&z=2024-11-20&g=2024-11-20).
+2. Het beheer van het archief vindt plaats met inachtneming van het protocol, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050430&artikel=7&z=2024-11-20&g=2024-11-20).
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -149,5 +123,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2024.
-
-Dit besluit wordt in de Staatscourant geplaatst.

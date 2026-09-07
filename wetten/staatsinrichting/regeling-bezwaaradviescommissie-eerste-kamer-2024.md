@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het College van Voorzitter en Ondervoorzitters van 22 oktober 2024 nr. 175988U houdende regels inzake een bezwaaradviescommissie (Regeling bezwaaradviescommissie Eerste Kamer 2024)"
+citeertitel: "Regeling bezwaaradviescommissie Eerste Kamer 2024"
 identifier: "BWBR0050663"
-country: "nl"
-rank: "reglement"
-publication_date: "2025-01-11"
-last_updated: "2025-01-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050663"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "17337743"
-version_id: "30553772"
-internal_id: "C43804471"
-label_id: "17241914"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050663/2025-01-11/0"
-intitule_bron: "Stcrt.2025-1803"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-10-22"
-intitule_published: "2025-01-10"
-intitule_in_force: "2025-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-1803"
-original_signed_date: "2024-10-22"
-original_published_date: "2025-01-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-1803"
-entry_into_force_date: "2025-01-11"
-jci_1_3: "jci1.3:c:BWBR0050663&z=2025-01-11&g=2025-01-11"
-jci_1_0: "1.0:c:BWBR0050663&g=2025-01-11"
-citeertitel_status: "officieel"
-short_title: "Regeling bezwaaradviescommissie Eerste Kamer 2024"
-signed_date: "2024-10-22"
-entry_into_force: "2025-01-11"
+publicatiedatum: 2025-01-11
+laatste_update: 2025-01-11
+status: geldig
+toestand: 2025-01-11
+bron: "https://wetten.overheid.nl/BWBR0050663"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van het College van Voorzitter en Ondervoorzitters van 22 oktober 2024 nr. 175988U houdende regels inzake een bezwaaradviescommissie (Regeling bezwaaradviescommissie Eerste Kamer 2024)
-
-Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [artikel 13 van het Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&artikel=13),
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,23 +20,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **de Kamer:** de Eerste Kamer der Staten-Generaal;
+- a) *de Kamer:* de Eerste Kamer der Staten-Generaal;
 
-- b). **de bezwaarmaker:** degene die tegen een door of namens de Kamer genomen besluit in de zin van [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) een bezwaarschrift heeft ingediend;
+- b) *de bezwaarmaker:* degene die tegen een door of namens de Kamer genomen besluit in de zin van [artikel 1:3 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3) een bezwaarschrift heeft ingediend;
 
-- c). **de commissie:** de commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=2&artikel=2&z=2025-01-11&g=2025-01-11);
+- c) *de commissie:* de commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=2&artikel=2&z=2025-01-11&g=2025-01-11);
 
-- d). **de Griffier:** de Griffier van de Eerste Kamer der Staten-Generaal;
+- d) *de Griffier:* de Griffier van de Eerste Kamer der Staten-Generaal;
 
-- e). **de vertegenwoordiger van de Kamer:** de persoon die is aangewezen de Kamer te vertegenwoordigen bij de behandeling van het bezwaarschrift;
+- e) *de vertegenwoordiger van de Kamer:* de persoon die is aangewezen de Kamer te vertegenwoordigen bij de behandeling van het bezwaarschrift;
 
-- f). **de Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- f) *de Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
 ### Hoofdstuk 2. Taak, bevoegdheden en samenstelling commissie
 
 ##### Artikel 2. Commissie en adviestaak
 
-1. Er is een bezwaaradviescommissie die, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=3&artikel=15&z=2025-01-11&g=2025-01-11) van deze regeling, adviseert over de te nemen beslissing op bezwaarschriften die bij de Eerste Kamer zijn ingediend tegen besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) of enige andere wettelijke regeling, met uitzondering van besluiten inzake personele aangelegenheden.
+1. Er is een bezwaaradviescommissie die, met inachtneming van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=3&artikel=15&z=2025-01-11&g=2025-01-11) van deze regeling, adviseert over de te nemen beslissing op bezwaarschriften die bij de Eerste Kamer zijn ingediend tegen besluiten op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) of enige andere wettelijke regeling, met uitzondering van besluiten inzake personele aangelegenheden.
 
 2. De commissie hoort de bezwaarmaker en andere belanghebbenden en brengt advies uit over de te nemen beslissing op bezwaar.
 
@@ -74,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 3. Geen lid van de commissie kunnen zijn:
 
-- a. politieke en benoemde ambtsdragers als bedoeld in [artikel 2 van de Wet adviescollege rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2);
+- a. politieke en benoemde ambtsdragers als bedoeld in [artikel 2 van de Wet adviescollege rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=2);
 
 - b. personen werkzaam bij of werkzaam onder verantwoordelijkheid van een fractie, groep of een lid van de Staten-Generaal;
 
@@ -88,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 1. De leden van de commissie worden benoemd voor de duur van vier jaar en kunnen eenmaal worden herbenoemd.
 
-2. Het lidmaatschap van de commissie eindigt zodra [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=2&artikel=3&z=2025-01-11&g=2025-01-11), op het betrokken lid van toepassing wordt. Het lid meldt dit onverwijld aan de voorzitter van het College van Voorzitter en Ondervoorzitters.
+2. Het lidmaatschap van de commissie eindigt zodra [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050663&hoofdstuk=2&artikel=3&z=2025-01-11&g=2025-01-11), op het betrokken lid van toepassing wordt. Het lid meldt dit onverwijld aan de voorzitter van het College van Voorzitter en Ondervoorzitters.
 
 3. De leden en de voorzitter van de commissie kunnen op ieder moment schriftelijk ontslag nemen.
 
@@ -100,11 +74,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Jaarverslag
 
-De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ondervoorzitters een openbaar verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
+De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ondervoorzitters een openbaar verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
 ##### Artikel 7. Vergoedingen leden en voorzitter
 
-1. De leden van de commissie ontvangen voor een vergadering en hiermee samenhangende werkzaamheden een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding per vergadering als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2), met dien verstande dat aan de voorzitter een vergoeding per vergadering kan worden toegekend van maximaal 130% van de hoogte van de vergoeding per vergadering die aan de andere leden wordt toegekend.
+1. De leden van de commissie ontvangen voor een vergadering en hiermee samenhangende werkzaamheden een vergoeding per vergadering ter hoogte van de maximaal toegestane vergoeding per vergadering als bedoeld in [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2), met dien verstande dat aan de voorzitter een vergoeding per vergadering kan worden toegekend van maximaal 130% van de hoogte van de vergoeding per vergadering die aan de andere leden wordt toegekend.
 
 2. Voor de toepassing van het eerste lid wordt als een vergadering beschouwd een bijeenkomst waarbij een of meerdere hoorzittingen plaatsvinden over een of meer bezwaarschriften.
 
@@ -136,7 +110,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 1. De commissie draagt er zorg voor dat al het noodzakelijke wordt gedaan om de behandeling van het bezwaarschrift genoegzaam voor te bereiden. De commissie kan in verband met de voorbereiding van de behandeling rechtstreeks alle gewenste inlichtingen inwinnen of door de secretaris doen inwinnen. De gevraagde inlichtingen worden onverwijld verstrekt door de bezwaarmaker, een belanghebbende of de vertegenwoordiger van de Kamer.
 
-2. De secretaris is bevoegd ten behoeve van de behandeling van het bezwaar door de commissie stukken te verzenden als bedoeld in [artikel 6:17 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:17) en het bezwaarschrift en alle op de zaak betrekking hebbende stukken ter inzage te leggen als bedoeld in [artikel 7:4, tweede lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4).
+2. De secretaris is bevoegd ten behoeve van de behandeling van het bezwaar door de commissie stukken te verzenden als bedoeld in [artikel 6:17 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:17) en het bezwaarschrift en alle op de zaak betrekking hebbende stukken ter inzage te leggen als bedoeld in [artikel 7:4, tweede lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4).
 
 3. Stukken waarover op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) een besluit is genomen, worden niet ter inzage gelegd indien een bezwaar tegen dat besluit is gericht.
 
@@ -168,7 +142,7 @@ De commissie brengt jaarlijks vóór 1 mei aan het College van Voorzitter en Ond
 
 ##### Artikel 14. Verdaging
 
-Indien naar het oordeel van de secretaris de termijn als bedoeld in [artikel 7:10, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) ontoereikend is voor achtereenvolgens het horen, het uitbrengen van een advies en het nemen van een beslissing op het bezwaar, verdaagt de secretaris tijdig de beslissing.
+Indien naar het oordeel van de secretaris de termijn als bedoeld in [artikel 7:10, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) ontoereikend is voor achtereenvolgens het horen, het uitbrengen van een advies en het nemen van een beslissing op het bezwaar, verdaagt de secretaris tijdig de beslissing.
 
 ##### Artikel 15. Uitbrengen advies en beslissing op bezwaar
 
@@ -184,12 +158,10 @@ Indien naar het oordeel van de secretaris de termijn als bedoeld in [artikel 7:1
 
 ##### Artikel 16. Inwerkingtreding
 
-1. De [Regeling bezwaaradviescommissie Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0046748) d.d. 7 juni 2022 wordt ingetrokken op de dag voorafgaande dat deze Regeling in werking treedt.
+1. De [Regeling bezwaaradviescommissie Eerste Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0046748) d.d. 7 juni 2022 wordt ingetrokken op de dag voorafgaande dat deze Regeling in werking treedt.
 
 2. Deze regeling treedt in werking met ingang van de dag na bekendmaking.
 
 ##### Artikel 17. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bezwaaradviescommissie Eerste Kamer 2024.
-
-Aldus vastgesteld in het College van Voorzitter en Ondervoorzitters van 22 oktober 2024;

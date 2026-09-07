@@ -1,50 +1,18 @@
 ---
 title: "Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de Film"
+citeertitel: "Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film"
 identifier: "BWBR0050627"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050627"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17327813"
-version_id: "30533682"
-internal_id: "C43770291"
-label_id: "17232134"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050627/2025-01-01/0"
-intitule_bron: "Stcrt.2024-42679"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-04"
-intitule_published: "2024-12-30"
-intitule_in_force: "2024-12-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-42679"
-original_signed_date: "2024-11-04"
-original_published_date: "2024-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-42679"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050627&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050627&g=2025-01-01"
-citeertitel_status: "officieel"
-short_title: "Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film"
-signed_date: "2024-11-04"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050627"
+opgehaald: 2026-09-07
 ---
+
 # Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de Film
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op [artikel 2 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=2),
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van **4 november 2024**,
-
-besluit:
 
 ### Algemeen
 
@@ -52,87 +20,87 @@ besluit:
 
 In dit deelreglement wordt verstaan onder:
 
-- **animatic:** opeenvolging van meestal getekende storyboard-beelden die het scenario weergeven, dezelfde lengte als de te produceren animatiefilm heeft en minimaal van dialogen, camerabewegingen en rudimentaire bewegingen van de karakters is voorzien;
+- *animatic:* opeenvolging van meestal getekende storyboard-beelden die het scenario weergeven, dezelfde lengte als de te produceren animatiefilm heeft en minimaal van dialogen, camerabewegingen en rudimentaire bewegingen van de karakters is voorzien;
 
-- **animatie:** een filmproductie die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
+- *animatie:* een filmproductie die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
 
-- **artistieke ontwikkeling:** definitieve uitwerking van het scenario, het bepalen van de visuele stijl en de creatieve en technische aspecten;
+- *artistieke ontwikkeling:* definitieve uitwerking van het scenario, het bepalen van de visuele stijl en de creatieve en technische aspecten;
 
-- **bestuur** het bestuur van het Fonds;
+- *bestuur* het bestuur van het Fonds;
 
-- **bioscoopuitbreng:** de landelijke distributie van een filmproductie, die na de première – maar voorafgaand aan de non-theatrical release – in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
+- *bioscoopuitbreng:* de landelijke distributie van een filmproductie, die na de première – maar voorafgaand aan de non-theatrical release – in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
 
-- **breakdown:** een uitwerking van het scenario op productionele aspecten;
+- *breakdown:* een uitwerking van het scenario op productionele aspecten;
 
-- **categorie:** een soort filmproductie;
+- *categorie:* een soort filmproductie;
 
-- **debuutfilm:** een film waarmee een scenarist, regisseur of producent debuteert in een specifieke categorie waarin de betreffende scenarist, regisseur of producent nog niet eerder zelfstandig verantwoordelijk was voor een film die is gerealiseerd en openbaar gemaakt;
+- *debuutfilm:* een film waarmee een scenarist, regisseur of producent debuteert in een specifieke categorie waarin de betreffende scenarist, regisseur of producent nog niet eerder zelfstandig verantwoordelijk was voor een film die is gerealiseerd en openbaar gemaakt;
 
-- **deskundig adviseur:** een voor het creatieve proces essentiële deskundige op een gespecialiseerd vakgebied, zoals een script-coach of wetenschapper;
+- *deskundig adviseur:* een voor het creatieve proces essentiële deskundige op een gespecialiseerd vakgebied, zoals een script-coach of wetenschapper;
 
-- **documentaire:** een non-fictie filmproductie geschikt voor bioscoopvertoning die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
+- *documentaire:* een non-fictie filmproductie geschikt voor bioscoopvertoning die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
 
-- **documentairescript:** de inhoudelijke opzet voor een documentaire met daarin opgenomen de visie van de regisseur op het onderwerp, de stijl, de vorm en de ontwikkeling binnen de vertelling;
+- *documentairescript:* de inhoudelijke opzet voor een documentaire met daarin opgenomen de visie van de regisseur op het onderwerp, de stijl, de vorm en de ontwikkeling binnen de vertelling;
 
-- **filmconsulent:** een gespecialiseerde filmprofessional die voor een beperkte periode door het Fonds is aangesteld om te adviseren over aanvragen bij het fonds;
+- *filmconsulent:* een gespecialiseerde filmprofessional die voor een beperkte periode door het Fonds is aangesteld om te adviseren over aanvragen bij het fonds;
 
-- **filmproductie:** een cinematografisch werk;
+- *filmproductie:* een cinematografisch werk;
 
-- **filmsector:** het deel van de audiovisuele industrie dat professioneel actief is binnen de ontwikkeling, productie, distributie en vertoning van filmproducties;
+- *filmsector:* het deel van de audiovisuele industrie dat professioneel actief is binnen de ontwikkeling, productie, distributie en vertoning van filmproducties;
 
-- **financieel & productioneel protocol:** het protocol waarin specifieke financiële en productionele vereisten, die het Fonds aan filmproducties en filmactiviteiten stelt, zijn opgenomen;
+- *financieel & productioneel protocol:* het protocol waarin specifieke financiële en productionele vereisten, die het Fonds aan filmproducties en filmactiviteiten stelt, zijn opgenomen;
 
-- **het Fonds:** Stichting Nederlands Fonds voor de Film;
+- *het Fonds:* Stichting Nederlands Fonds voor de Film;
 
-- **impulsbijdrage:** een subsidie die wordt toegekend op basis van eerder behaald artistiek of publieks succes;
+- *impulsbijdrage:* een subsidie die wordt toegekend op basis van eerder behaald artistiek of publieks succes;
 
-- **internationale coproductie:** een in de Nederlandse bioscoop of filmtheaters uit te brengen internationaal gecoproduceerde filmproductie. Bij een minoritaire coproductie is de Nederlandse producent in beperkte mate beslissingsbevoegd en verantwoordelijk en brengt deze tevens minder dan vijftig procent van de financiering van de filmproductie bijeen. Bij een majoritaire coproductie is de Nederlandse producent hoofdverantwoordelijk en beslissingsbevoegd en brengt deze tevens meer dan vijftig procent van de financiering van de filmproductie bijeen;
+- *internationale coproductie:* een in de Nederlandse bioscoop of filmtheaters uit te brengen internationaal gecoproduceerde filmproductie. Bij een minoritaire coproductie is de Nederlandse producent in beperkte mate beslissingsbevoegd en verantwoordelijk en brengt deze tevens minder dan vijftig procent van de financiering van de filmproductie bijeen. Bij een majoritaire coproductie is de Nederlandse producent hoofdverantwoordelijk en beslissingsbevoegd en brengt deze tevens meer dan vijftig procent van de financiering van de filmproductie bijeen;
 
-- **korte film:** een filmproductie met een vertoningsduur tot 60 minuten;
+- *korte film:* een filmproductie met een vertoningsduur tot 60 minuten;
 
-- **lange animatiefilm:** een speelfilm die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
+- *lange animatiefilm:* een speelfilm die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
 
-- **onderzoek & experiment:** een filmproductie, in welke categorie dan ook, die naar het oordeel van het bestuur onderzoekend of grensverleggend is;
+- *onderzoek & experiment:* een filmproductie, in welke categorie dan ook, die naar het oordeel van het bestuur onderzoekend of grensverleggend is;
 
-- **ontwikkeling:** alle werkzaamheden verbonden aan de ontwikkeling van een filmproductie tot aan de productie ervan;
+- *ontwikkeling:* alle werkzaamheden verbonden aan de ontwikkeling van een filmproductie tot aan de productie ervan;
 
-- **pitchpanel:** een panel bestaande uit onafhankelijke vakmensen uit de filmsector en bredere cultuursector, waaraan een filmidee in een vroeg stadium, zowel schriftelijk als mondeling ter eerste beoordeling wordt voorgelegd;
+- *pitchpanel:* een panel bestaande uit onafhankelijke vakmensen uit de filmsector en bredere cultuursector, waaraan een filmidee in een vroeg stadium, zowel schriftelijk als mondeling ter eerste beoordeling wordt voorgelegd;
 
-- **producent:** de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
+- *producent:* de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
 
-- **productiemaatschappij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties en andere audiovisuele mediaproducties. De rechtspersoon is ten tijde van de subsidieaanvraag en gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- *productiemaatschappij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties en andere audiovisuele mediaproducties. De rechtspersoon is ten tijde van de subsidieaanvraag en gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- **productieontwikkeling:** de uitwerking van de zakelijke en productionele opzet van een filmproductie;
+- *productieontwikkeling:* de uitwerking van de zakelijke en productionele opzet van een filmproductie;
 
-- **projectontwikkeling:** de artistieke en productie ontwikkeling van het scenario tot een definitieve versie en de uitwerking van de zakelijke en productionele opzet van een filmproductie ter voorbereiding op eventuele realisering;
+- *projectontwikkeling:* de artistieke en productie ontwikkeling van het scenario tot een definitieve versie en de uitwerking van de zakelijke en productionele opzet van een filmproductie ter voorbereiding op eventuele realisering;
 
-- **regisseur:** een natuurlijk persoon die de artistieke regie voert over de uitvoering van een filmproductie;
+- *regisseur:* een natuurlijk persoon die de artistieke regie voert over de uitvoering van een filmproductie;
 
-- **referentiefilm** een eerdere filmproductie van een aanvrager op grond waarvan de verlening van een nieuwe subsidie aan dezelfde aanvrager (mede) wordt bepaald;
+- *referentiefilm* een eerdere filmproductie van een aanvrager op grond waarvan de verlening van een nieuwe subsidie aan dezelfde aanvrager (mede) wordt bepaald;
 
-- **serie:** een high end animatie-, documentaire- of dramaserie, met inbegrip van een single episode, primair bestemd voor televisie-/VOD-uitzending, al dan niet in de vorm van een internationale coproductie tot stand gebracht;
+- *serie:* een high end animatie-, documentaire- of dramaserie, met inbegrip van een single episode, primair bestemd voor televisie-/VOD-uitzending, al dan niet in de vorm van een internationale coproductie tot stand gebracht;
 
-- **scenario:** een beschrijving van opeenvolging van scènes en geschreven tekst met dialoog geschikt om te verfilmen tot een filmproductie;
+- *scenario:* een beschrijving van opeenvolging van scènes en geschreven tekst met dialoog geschikt om te verfilmen tot een filmproductie;
 
-- **scenarist:** de schrijver van een synopsis, treatment, scenario of documentairescript;
+- *scenarist:* de schrijver van een synopsis, treatment, scenario of documentairescript;
 
-- **scriptcoach:** een in zijn vakgebied gespecialiseerde en bij het project passende dramaturg, scripteditor of ervaren scenarioschrijver gespecialiseerd in het begeleiden van scenaristen in het schrijven van een scenario;
+- *scriptcoach:* een in zijn vakgebied gespecialiseerde en bij het project passende dramaturg, scripteditor of ervaren scenarioschrijver gespecialiseerd in het begeleiden van scenaristen in het schrijven van een scenario;
 
-- **slate funding:** de financiering van een pakket van filmproducties;
+- *slate funding:* de financiering van een pakket van filmproducties;
 
-- **speelfilm:** een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
+- *speelfilm:* een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
 
-- **storyboard** een opeenvolging van op papier uitgewerkte shots van scènes uit een scenario bestaande uit tekeningen aangevuld met uitgeschreven informatie zoals de dialoog, het geluid en een korte beschrijving en duur van elk shot;
+- *storyboard* een opeenvolging van op papier uitgewerkte shots van scènes uit een scenario bestaande uit tekeningen aangevuld met uitgeschreven informatie zoals de dialoog, het geluid en een korte beschrijving en duur van elk shot;
 
-- **subsidie:** de aanspraak op financiële middelen, door het Fonds verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het Fonds geleverde goederen of diensten;
+- *subsidie:* de aanspraak op financiële middelen, door het Fonds verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het Fonds geleverde goederen of diensten;
 
-- **synopsis:** een omschrijving van het verhaal en de belangrijkste personages van het te schrijven scenario;
+- *synopsis:* een omschrijving van het verhaal en de belangrijkste personages van het te schrijven scenario;
 
-- **teaser / trailer:** een wervende audiovisuele aankondiging van de (beoogde) filmproductie;
+- *teaser / trailer:* een wervende audiovisuele aankondiging van de (beoogde) filmproductie;
 
-- **treatment:** een per scène of cluster van scènes, geconcentreerd geschreven weergave van het te schrijven scenario, zonder dialogen.
+- *treatment:* een per scène of cluster van scènes, geconcentreerd geschreven weergave van het te schrijven scenario, zonder dialogen.
 
-- **werkplan:** een onderbouwd plan van aanpak waarin de planning en stappen beschreven staan voor het ontwikkelingstraject dat het team voor ogen heeft waaronder een motivatie en van de producent, de scenarist of regisseur op welke manier dit traject bijdraagt aan de optimale ontwikkeling van het filmplan.
+- *werkplan:* een onderbouwd plan van aanpak waarin de planning en stappen beschreven staan voor het ontwikkelingstraject dat het team voor ogen heeft waaronder een motivatie en van de producent, de scenarist of regisseur op welke manier dit traject bijdraagt aan de optimale ontwikkeling van het filmplan.
 
 ##### Artikel 2. - toepasselijkheid reglementen -
 
@@ -146,43 +114,43 @@ In dit deelreglement wordt verstaan onder:
 
 - a. projectsubsidies
 
-- b. **slate funding**
+- b. *slate funding*
 
 - c. Impulsbijdrage
 
 2. Ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050627&artikel=2&z=2025-01-01&g=2025-01-01) genoemde categorieën verstrekt het bestuur projectsubsidies.
 
-3. Onverminderd het bepaalde in het vorige lid kan het bestuur **slate funding** verstrekken ten behoeve van scenario-ontwikkeling.
+3. Onverminderd het bepaalde in het vorige lid kan het bestuur *slate funding* verstrekken ten behoeve van scenario-ontwikkeling.
 
 ##### Artikel 4. - slate funding -
 
-1. Het bestuur kan een subsidieronde uitschrijven voor **slate funding** ten behoeve van scenario-ontwikkeling voor speelfilm of documentaire. De **slate** wordt voor een periode van twee jaar beschikbaar gesteld. Het bestuur maakt deze subsidieronde en de daaraan verbonden voorwaarden alsmede de termijnen waarbinnen hierop kan worden ingeschreven, bekend op de website van het Fonds: [www.filmfonds.nl](http://www.filmfonds.nl/).
+1. Het bestuur kan een subsidieronde uitschrijven voor *slate funding* ten behoeve van scenario-ontwikkeling voor speelfilm of documentaire. De *slate* wordt voor een periode van twee jaar beschikbaar gesteld. Het bestuur maakt deze subsidieronde en de daaraan verbonden voorwaarden alsmede de termijnen waarbinnen hierop kan worden ingeschreven, bekend op de website van het Fonds: [www.filmfonds.nl](http://www.filmfonds.nl/).
 
-2. Het bestuur verbindt aan een **slate** in ieder geval de volgende voorwaarden:
+2. Het bestuur verbindt aan een *slate* in ieder geval de volgende voorwaarden:
 
-- a). een **slate** bestaat op het moment van indiening van de aanvraag uit meerdere filmplannen die tot een speelfilmscenario of in het geval van een **slate** voor documentaire tot een documentairescript ontwikkeld worden;
+- a) een *slate* bestaat op het moment van indiening van de aanvraag uit meerdere filmplannen die tot een speelfilmscenario of in het geval van een *slate* voor documentaire tot een documentairescript ontwikkeld worden;
 
-- b). de filmplannen worden door verschillende regisseurs en scenaristen uitgevoerd;
+- b) de filmplannen worden door verschillende regisseurs en scenaristen uitgevoerd;
 
-- c). de regisseurs en scenaristen hebben zich met eerdere speelfilms dan wel documentaires qua publieksbereik of artistiek succes bewezen, of, indien zij debuteren, overtuigen op basis van eerste eigen werk;
+- c) de regisseurs en scenaristen hebben zich met eerdere speelfilms dan wel documentaires qua publieksbereik of artistiek succes bewezen, of, indien zij debuteren, overtuigen op basis van eerste eigen werk;
 
-- d). de productiemaatschappij beschikt over een team dat continuïteit kan bieden aan meerdere projecten die parallel worden ontwikkeld en een bedrijfsplan dat daarop aansluit; en
+- d) de productiemaatschappij beschikt over een team dat continuïteit kan bieden aan meerdere projecten die parallel worden ontwikkeld en een bedrijfsplan dat daarop aansluit; en
 
-- e). de filmplannen zijn qua filmgenre en doelgroep gevarieerd.
+- e) de filmplannen zijn qua filmgenre en doelgroep gevarieerd.
 
-3. Het bestuur stelt per subsidieronde het subsidieplafond voor **slate funding** ten behoeve van scenario-ontwikkeling vast.
+3. Het bestuur stelt per subsidieronde het subsidieplafond voor *slate funding* ten behoeve van scenario-ontwikkeling vast.
 
-4. Een productiemaatschappij die **slate****funding** toegewezen heeft gekregen, komt gedurende een in de desbetreffende aanvraagronde aangegeven periode niet meer in aanmerking voor een subsidie voor scenario-ontwikkeling zoals bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050627&artikel=3&z=2025-01-01&g=2025-01-01). Aanvragen voor ontwikkeling in het kader van samenwerkings- of speciale projecten kunnen nog wel worden ingediend.
+4. Een productiemaatschappij die *slate**funding* toegewezen heeft gekregen, komt gedurende een in de desbetreffende aanvraagronde aangegeven periode niet meer in aanmerking voor een subsidie voor scenario-ontwikkeling zoals bedoeld in [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050627&artikel=3&z=2025-01-01&g=2025-01-01). Aanvragen voor ontwikkeling in het kader van samenwerkings- of speciale projecten kunnen nog wel worden ingediend.
 
 ##### Artikel 5. - aanvrager -
 
-1. Een aanvraag in de zin van dit reglement wordt gedaan door een productiemaatschappij, vertegenwoordigd door een producent, die als majoritair producent, hoofdverantwoordelijk is geweest voor het realiseren en uitbrengen van tenminste één vrije, niet in opdracht vervaardigde, filmproductie in de professionele Nederlandse film- en/of televisiesector. De eerdere filmproductie dient een vertoningsduur van tenminste zestig minuten te hebben voor een aanvraag in de categorie **speelfilm, lange animatiefilm** en **documentaire**.
+1. Een aanvraag in de zin van dit reglement wordt gedaan door een productiemaatschappij, vertegenwoordigd door een producent, die als majoritair producent, hoofdverantwoordelijk is geweest voor het realiseren en uitbrengen van tenminste één vrije, niet in opdracht vervaardigde, filmproductie in de professionele Nederlandse film- en/of televisiesector. De eerdere filmproductie dient een vertoningsduur van tenminste zestig minuten te hebben voor een aanvraag in de categorie *speelfilm, lange animatiefilm* en *documentaire*.
 
-2. Een aanvraag voor projectontwikkeling in de categorie **speelfilm**, **lange animatiefilm** of **documentaire**wordt gedaan door een productiemaatschappij, vertegenwoordigd door een producent die, als majoritair producent, hoofdverantwoordelijk is geweest voor het realiseren van tenminste één filmproductie in dezelfde categorie met een bioscoopuitbreng in Nederland.
+2. Een aanvraag voor projectontwikkeling in de categorie *speelfilm*, *lange animatiefilm* of *documentaire*wordt gedaan door een productiemaatschappij, vertegenwoordigd door een producent die, als majoritair producent, hoofdverantwoordelijk is geweest voor het realiseren van tenminste één filmproductie in dezelfde categorie met een bioscoopuitbreng in Nederland.
 
 3. In afwijking van het eerste lid kan in de categorie speelfilm en lange animatiefilm een aanvraag voor scenario-ontwikkeling gedaan worden door een scenarist die hoofdverantwoordelijk is geweest voor het scenario van een speelfilm, dan wel lange animatiefilm, die reeds gerealiseerd is en in de Nederlandse bioscopen is uitgebracht.
 
-4. Een aanvraag voor **slate funding**wordt gedaan door een productiemaatschappij, die gedurende de voorliggende vijf kalenderjaren of langer op continue basis speelfilms dan wel documentaires heeft geproduceerd waarmee qua bezoekersaantallen (bioscoop en verdere exploitatie) of internationaal (festival)succes goede resultaten bereikt zijn.
+4. Een aanvraag voor *slate funding*wordt gedaan door een productiemaatschappij, die gedurende de voorliggende vijf kalenderjaren of langer op continue basis speelfilms dan wel documentaires heeft geproduceerd waarmee qua bezoekersaantallen (bioscoop en verdere exploitatie) of internationaal (festival)succes goede resultaten bereikt zijn.
 
 5. Een aanvraag voor een impulsbijdrage kan op basis van een referentiefilm gedaan worden door de scenarist, regisseur en producent van de referentiefilm.
 
@@ -248,9 +216,9 @@ Aan de verlening van een subsidie voor ontwikkeling worden de volgende verplicht
 
 2. Een aanvraag kan voor deze categorie gedaan worden voor:
 
-- –. scenario-ontwikkeling; of
+- – scenario-ontwikkeling; of
 
-- –. projectontwikkeling.
+- – projectontwikkeling.
 
 3. Het bestuur kan besluiten een speciale ronde uit te schrijven voor een internationaal ontwikkeltraject voor filmprofessionals die zich hebben onderscheiden.
 
@@ -312,7 +280,7 @@ De scenarist, zoals bedoeld in [artikel 5, lid 3](https://wetten.overheid.nl/jci
 
 ##### Artikel 21. - subsidiabele activiteit -
 
-1. Aanvragen kunnen gedaan worden voor de ontwikkeling van een scenario (of deel daarvan) c.q. **(moving) storyboard,****artwork en preproductie** voor een korte film in de categorie animatie alsmede de inzet van een deskundig adviseur, het betrekken van een team van creatieve en technische experts dan wel voor het maken van eerste animatietests of een animatic.
+1. Aanvragen kunnen gedaan worden voor de ontwikkeling van een scenario (of deel daarvan) c.q. *(moving) storyboard,**artwork en preproductie* voor een korte film in de categorie animatie alsmede de inzet van een deskundig adviseur, het betrekken van een team van creatieve en technische experts dan wel voor het maken van eerste animatietests of een animatic.
 
 2. Op animatiefilms met een beoogde vertoningsduur van tenminste 60 minuten zijn de bepalingen 13 t/m 18 van de categorie speelfilm van toepassing.
 
@@ -322,7 +290,7 @@ De scenarist, zoals bedoeld in [artikel 5, lid 3](https://wetten.overheid.nl/jci
 
 Aanvragen ten behoeve van onderzoek & experiment kunnen worden gedaan voor de ontwikkeling van
 
-een scenario c.q. **storyboard** van een filmproductie alsmede de inzet van een deskundig adviseur, het betrekken van een team van creatieve en technische experts dan wel voor het maken van eerste (proef)opnamen.
+een scenario c.q. *storyboard* van een filmproductie alsmede de inzet van een deskundig adviseur, het betrekken van een team van creatieve en technische experts dan wel voor het maken van eerste (proef)opnamen.
 
 ##### Artikel 23. - beoordelingscriterium -
 
@@ -342,9 +310,9 @@ Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvullin
 
 - c. uitzonderlijk succesvol is geweest:
 
-- (i). met het bereiken van een groot betalend bioscooppubliek of
+- (i) met het bereiken van een groot betalend bioscooppubliek of
 
-- (ii). omdat de film geselecteerd is voor de hoofdcompetitie van een toonaangevend Filmfestival.
+- (ii) omdat de film geselecteerd is voor de hoofdcompetitie van een toonaangevend Filmfestival.
 
 3. De aanvraag voor een impulsbijdrage wordt ingediend in het jaar volgend op het jaar waarin de referentiefilm is uitgebracht.
 
@@ -358,11 +326,11 @@ Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvullin
 
 2. Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.
 
-3. Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 20 september 2024 en treedt in werking met ingang van 1 januari 2025.
+3. Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 20 september 2024 en treedt in werking met ingang van 1 januari 2025.
 
-4. Het [Deelreglement Ontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049265), geldend vanaf 1 januari 2024, is per 1 januari 2025 ingetrokken.
+4. Het [Deelreglement Ontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBR0049265), geldend vanaf 1 januari 2024, is per 1 januari 2025 ingetrokken.
 
-5. Op alle aanvragen die door het Fonds voor 1 januari 2025 zijn ontvangen blijft het Deelreglement Ontwikkeling zoals dit gold tot 1 januari 2025 van toepassing.
+5. Op alle aanvragen die door het Fonds voor 1 januari 2025 zijn ontvangen blijft het Deelreglement Ontwikkeling zoals dit gold tot 1 januari 2025 van toepassing.
 
 6. Dit reglement wordt aangehaald als Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film.
 

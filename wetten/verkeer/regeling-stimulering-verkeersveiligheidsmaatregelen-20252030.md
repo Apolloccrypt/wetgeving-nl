@@ -1,60 +1,38 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat van 8 januari 2025, nr. IENW/BSK-246458, houdende tijdelijke regels voor toekenning van rijksbijdragen voor verkeersveiligheidsmaatregelen voor de periode van 1 januari 2025 tot 1 januari 2030 (Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030)"
+citeertitel: "Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030"
 identifier: "BWBR0050667"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-22"
-last_updated: "2025-10-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050667"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17339103"
-version_id: "30985252"
-internal_id: "C44374231"
-label_id: "17243244"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050667/2025-10-22/0"
-intitule_bron: "Stcrt.2025-2011"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-08"
-intitule_published: "2025-01-10"
-intitule_in_force: "2025-01-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34486"
-original_signed_date: "2025-10-13"
-original_published_date: "2025-10-21"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-34486"
-entry_into_force_date: "2025-10-13"
-jci_1_3: "jci1.3:c:BWBR0050667&z=2025-10-22&g=2025-10-22"
-jci_1_0: "1.0:c:BWBR0050667&g=2025-10-22"
-citeertitel_status: "officieel"
-short_title: "Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030"
-signed_date: "2025-10-13"
-entry_into_force: "2025-10-13"
+publicatiedatum: 2026-07-03
+laatste_update: 2026-08-15
+status: geldig
+toestand: 2026-08-15
+bron: "https://wetten.overheid.nl/BWBR0050667"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat van 8 januari 2025, nr. IENW/BSK-246458, houdende tijdelijke regels voor toekenning van rijksbijdragen voor verkeersveiligheidsmaatregelen voor de periode van 1 januari 2025 tot 1 januari 2030 (Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030)
 
-Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), en [23 vijfde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23) juncto [17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
+##### Artikel a1. Grondslagen BES
 
-BESLUIT:
+Deze regeling berust mede op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) in samenhang met [artikel 92, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92).
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** een gemeente, niet behorend tot de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, een provincie, de Vervoerregio Amsterdam, de Metropoolregio Rotterdam Den Haag namens een tot die regio’s behorende gemeente, het openbaar lichaam Bonaire, Sint Eustatius of Saba of een waterschap;
+- *aanvrager:* een gemeente, niet behorend tot de Vervoerregio Amsterdam of de Metropoolregio Rotterdam Den Haag, een provincie, de Vervoerregio Amsterdam, de Metropoolregio Rotterdam Den Haag namens een tot die regio’s behorende gemeente, het openbaar lichaam Bonaire, Sint Eustatius of Saba of een waterschap;
 
-- **aanvraagtijdvak:** termijn waarbinnen een aanvraag voor een rijksbijdrage kan worden ingediend;
+- *aanvraagtijdvak:* termijn waarbinnen een aanvraag voor een rijksbijdrage kan worden ingediend;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **rijksbijdrage:** specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91) of een subsidie op grond van deze regeling.
+- *rijksbijdrage:* specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), bijzondere uitkering als bedoeld in [artikel 91 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=91) of een subsidie op grond van deze regeling.
 
-##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
-De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, vierde lid, onder a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onder b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onder a tot en met c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) en [21 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van overeenkomstige toepassing op deze regeling.
+De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, tweede lid, onder a, en derde lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, vierde lid, onder a tot en met d en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onder b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onder a tot en met c, e en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18) en [21 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21) zijn van overeenkomstige toepassing op deze regeling.
 
 ##### Artikel 3. Doel
 
@@ -62,7 +40,7 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 4. Kosten die in aanmerking komen voor rijksbijdrage
 
-1. De minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2025-10-22&g=2025-10-22) bij deze regeling.
+1. De Minister kan op aanvraag een rijksbijdrage verstrekken voor de kosten van het uitvoeren van maatregelen die zijn opgenomen in [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=1&z=2026-08-15&g=2026-08-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=3&z=2026-08-15&g=2026-08-15) bij deze regeling. Bijlage 1 geldt bij de indiening van aanvragen in 2025 en bijlage 3 geldt bij de indiening van aanvragen in 2026.
 
 2. De volgende kosten komen voor de verstrekking van een rijksbijdrage in aanmerking:
 
@@ -88,15 +66,15 @@ Het doel van deze regeling is het stimuleren van het nemen of versnellen van kos
 
 ##### Artikel 5. Plafond, wijze van verdeling en bekendmaking aanvraagtijdvak
 
-1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-10-22&g=2025-10-22) bij deze regeling is voor elke aanvrager bepaald welk bedrag van de rijksbijdrage voor de aanvrager ten hoogste beschikbaar is.
+1. Het rijksbijdrageplafond voor de jaren 2025–2030 bedraagt in totaal € 236.000.000,–. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2026-08-15&g=2026-08-15) bij deze regeling is bepaald welk bedrag in totaal per aanvrager beschikbaar voor ingediende aanvragen in 2025. Voor ingediende aanvragen in 2026 geldt een maximum van € 500.000,– per aanvrager.
 
-2. De minister stelt per aanvraagtijdvak een plafond vast voor rijksbijdragen die op grond van deze regeling worden verstrekt. Een aanvraagtijdvak en het plafond worden uiterlijk zes weken voor aanvang ervan bekendgemaakt in de Staatscourant. Aanvraagtijdvakken vinden alleen plaats in het jaar 2025.
+2. De minister stelt per aanvraagtijdvak een plafond vast voor rijksbijdragen die op grond van deze regeling worden verstrekt. Een aanvraagtijdvak en het plafond worden uiterlijk zes weken voor aanvang ervan bekendgemaakt in de Staatscourant. Aanvraagtijdvakken vinden alleen plaats in het jaar 2025 en 2026.
 
-3. De minister verdeelt de bedragen, bedoeld in het tweede lid, op volgorde van binnenkomst van de aanvragen.
+3. De minister verdeelt de bedragen, bedoeld in het tweede lid, op volgorde van binnenkomst van de volledige aanvragen. Indien de Minister op de dag dat het plafond van het aanvraagtijdvak in 2026 wordt bereikt meer dan één volledige aanvraag ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.
 
 ##### Artikel 6. Hoogte van de rijksbijdrage
 
-De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-10-22&g=2025-10-22), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2025-10-22&g=2025-10-22) bij deze regeling.
+De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de kosten, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2026-08-15&g=2026-08-15), met een maximum per ontvanger zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&bijlage=2&z=2026-08-15&g=2026-08-15) bij deze regeling voor de ingediende aanvragen in 2025 en een maximum van 500.000,– per aanvrager voor de ingediende aanvragen in 2026.
 
 ##### Artikel 7. Aanvraag tot verlening
 
@@ -124,6 +102,8 @@ De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de
 
 7. De aanvraag van de Vervoerregio Amsterdam en de Metropoolregio Rotterdam Den Haag gaat tevens vergezeld van een maatregelenprogramma. De door de minister gehonoreerde aanvragen van Vervoerregio Amsterdam en Metropoolregio Rotterdam Den Haag worden uitgevoerd conform de subsidieverordening van de desbetreffende vervoerregio.
 
+8. In afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=1&z=2026-08-15&g=2026-08-15) vallen voor de indiening van aanvragen in 2026 de Vervoerregio Amsterdam en de Metropoolregio Rotterdam Den Haag niet onder de definitie van aanvrager en de tot die regio’s behorende gemeenten wel onder de definitie van aanvrager in de zin van de regeling.
+
 ##### Artikel 8. Verlening en afwijzingsgronden
 
 1. Een besluit tot verlening vermeldt in elk geval:
@@ -136,13 +116,13 @@ De totale rijksbijdrage per subsidieverstrekking bedraagt ten hoogste 50% van de
 
 - d. en de periode waarvoor de rijksbijdrage wordt verleend.
 
-2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-10-22&g=2025-10-22), in geval van honorering van de aanvraag zou worden overschreden.
+2. De minister wijst een aanvraag voor een rijksbijdrage af indien het plafond, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2026-08-15&g=2026-08-15), in geval van honorering van de aanvraag zou worden overschreden.
 
 3. De minister kan een aanvraag voor een rijksbijdrage tevens afwijzen, indien de aanvrager naar zijn oordeel in het verleden aanwijsbaar onvoldoende inspanning heeft gepleegd om eerder toegekende maatregelen te realiseren.
 
 ##### Artikel 9. Bevoorschotting en betaling
 
-1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2025-10-22&g=2025-10-22), een voorschot van 100% uit.
+1. De minister keert bij het besluit tot verlening, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=8&z=2026-08-15&g=2026-08-15), een voorschot van 100% uit.
 
 2. Het voorschot wordt uiterlijk zes weken na de dagtekening van het besluit tot verlening uitgekeerd.
 
@@ -154,7 +134,7 @@ Voor zover de rijksbijdrage wordt verleend ten laste van een nog niet door de St
 
 1. De ontvanger besteedt de rijksbijdrage uitsluitend aan de maatregelen waarvoor de rijksbijdrage wordt verleend.
 
-2. Alle maatregelen waarvoor een rijksbijdrage is verstrekt, zijn uiterlijk op 31 december 2028 gerealiseerd.
+2. Alle maatregelen waarvoor een rijksbijdrage is verstrekt, zijn uiterlijk op 31 december 2028 gerealiseerd.
 
 ##### Artikel 12. Verantwoording
 
@@ -162,63 +142,11 @@ Voor zover de rijksbijdrage wordt verleend ten laste van een nog niet door de St
 
 2. Waterschappen leggen verantwoording af over de besteding van de rijksbijdrage overeenkomstig de [Regeling informatieverstrekking sisa](https://wetten.overheid.nl/jci1.3:c:BWBR0029251).
 
-3. De openbare lichamen Bonaire, Sint Eustatius en Saba zenden informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de Minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
+3. De openbare lichamen Bonaire, Sint Eustatius en Saba zenden informatie ten behoeve van de verantwoording over de uitvoering van de activiteiten uiterlijk 15 juli van het jaar volgend op het begrotingsjaar aan de Minister in de vorm van de jaarrekening en het jaarverslag, bedoeld in [artikel 28 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=28).
 
 ##### Artikel 13. Vaststelling van de rijksbijdrage
 
-De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2025-10-22&g=2025-10-22), heeft plaatsgevonden.
-
-##### Artikel 14. Evaluatieverslag
-
-De minister publiceert voor 1 januari 2029 een verslag over de doeltreffendheid en de effecten van de rijksbijdrage in de praktijk.
-
-##### Artikel 15. Inwerkingtreding en vervaldatum
-
-Deze regeling treedt in werking met ingang van 15 januari 2025 en werkt terug tot en met 1 januari 2025. De regeling vervalt met ingang van 1 januari 2030, met dien verstande dat zij van toepassing blijft op een rijksbijdrage die voor die datum is verstrekt.
-
-##### Artikel 16. Citeertitel
-
-Deze regeling wordt aangehaald als: Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030.
-
-## Bijlage 1. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-01-15&g=2025-01-15)
-
-De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanmerking.
-
-### Algemeen
-
-### Fietsinfrastructuur
-
-### 30 km/uur wegen
-
-### 50 km/uur wegen
-
-### 60 km/uur wegen
-
-### Algemeen
-
-### Fietsinfrastructuur
-
-## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-01-15&g=2025-01-15), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-01-15&g=2025-01-15)
-
-Op de volgende rijksbijdrage kan de aanvrager ten hoogste aanspraak maken gedurende de looptijd van deze regeling.
-
-### 60 km/uur wegen
-
-### 80 km/uur wegen
-
-### 100 km/uur wegen
-
-### Gemeenten binnen Metropoolregio Rotterdam Den Haag
-
-### Gemeenten
-
-### Provincies
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel a1. Grondslagen BES
-
-Deze regeling berust mede op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) in samenhang met [artikel 92, eerste lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92).
+De minister stelt de rijksbijdrage vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=12&z=2026-08-15&g=2026-08-15), heeft plaatsgevonden.
 
 ##### Artikel 13a. Beschikking tot vaststelling bijzondere uitkering BES
 
@@ -270,32 +198,20 @@ Deze regeling berust mede op de [artikelen 4](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 13d. Betaling en terugvordering bijzondere uitkering BES
 
-1. De verplichting tot betaling van een bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de Minister aan de ontvanger van de bijzondere uitkering schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13b&z=2025-10-22&g=2025-10-22) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2025-10-22&g=2025-10-22), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
+1. De verplichting tot betaling van een bijzondere uitkering of een voorschot wordt opgeschort met ingang van de dag waarop de Minister aan de ontvanger van de bijzondere uitkering schriftelijk kennisgeeft van het ernstige vermoeden dat er grond bestaat om toepassing te geven aan [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13b&z=2026-08-15&g=2026-08-15) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2026-08-15&g=2026-08-15), tot en met de dag waarop de beschikking omtrent de intrekking of wijziging is bekendgemaakt of de dag waarop sedert de kennisgeving van het ernstige vermoeden dertien weken zijn verstreken.
 
 2. De Minister kan onverschuldigd betaalde bedragen van de bijzondere uitkering terugvorderen.
 
-3. Terugvordering van een bijzondere uitkering of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in [artikel 13c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2025-10-22&g=2025-10-22), heeft plaatsgevonden, vijf jaren zijn verstreken.
+3. Terugvordering van een bijzondere uitkering of een voorschot vindt niet plaats voor zover na de dag waarop de bijzondere uitkering is vastgesteld, dan wel de handeling, bedoeld in [artikel 13c, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=13c&z=2026-08-15&g=2026-08-15), heeft plaatsgevonden, vijf jaren zijn verstreken.
 
-## Bijlage 1. bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=4&z=2025-10-22&g=2025-10-22)
+##### Artikel 14. Evaluatieverslag
 
-De volgende maatregelen komen voor de verstrekking van een rijksbijdrage in aanmerking.
+De minister publiceert voor 1 januari 2029 een verslag over de doeltreffendheid en de effecten van de rijksbijdrage in de praktijk.
 
-### 30 km/uur wegen
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
-### 50 km/uur wegen
+Deze regeling treedt in werking met ingang van 15 januari 2025 en werkt terug tot en met 1 januari 2025. De regeling vervalt met ingang van 1 januari 2030, met dien verstande dat zij van toepassing blijft op een rijksbijdrage die voor die datum is verstrekt.
 
-## Bijlage 2. bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=5&z=2025-10-22&g=2025-10-22), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050667&artikel=6&z=2025-10-22&g=2025-10-22)
+##### Artikel 16. Citeertitel
 
-Op de volgende rijksbijdrage kan de aanvrager ten hoogste aanspraak maken gedurende de looptijd van deze regeling.
-
-### Waterschappen
-
-### Gemeenten binnen Vervoerregio Amsterdam
-
-### Gemeenten binnen Metropoolregio Rotterdam Den Haag
-
-### Gemeenten
-
-### Bijzondere gemeenten (de Caribische openbare lichamen)
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling wordt aangehaald als: Regeling stimulering verkeersveiligheidsmaatregelen 2025–2030.

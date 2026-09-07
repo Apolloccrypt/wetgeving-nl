@@ -1,55 +1,26 @@
 ---
 title: "Wet van 29 januari 2025, houdende regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten"
+citeertitel: "Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
 identifier: "BWBR0050740"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050740"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17361103"
-version_id: "30602152"
-internal_id: "C43963401"
-label_id: "17264224"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050740/2025-07-01/0"
-intitule_bron: "Stb.2025-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-29"
-intitule_published: "2025-02-04"
-intitule_in_force: "2025-03-27"
-intitule_status: "goed"
-original_publication: "Stb.2025-25"
-original_signed_date: "2025-01-29"
-original_published_date: "2025-02-04"
-original_effect: "nieuwe-regeling"
-original_dossier: "36225"
-original_url_id: "stb-2025-25"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0050740&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0050740&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
-signed_date: "2025-01-29"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0050740"
+opgehaald: 2026-09-07
 ---
+
 # Wet van 29 januari 2025, houdende regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten
-
-Allen, die deze zullen zien of horen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is een beter juridisch kader te scheppen voor de gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **radicalisering:** het proces dat uiteindelijk kan leiden tot terroristische activiteiten of tot extremistische activiteiten, zijnde activiteiten waarbij personen of groepen vanuit ideologisch motief bereid zijn in ernstige mate de wet te overtreden of activiteiten te verrichten die de democratische rechtsstaat ondermijnen;
+- a. *radicalisering:* het proces dat uiteindelijk kan leiden tot terroristische activiteiten of tot extremistische activiteiten, zijnde activiteiten waarbij personen of groepen vanuit ideologisch motief bereid zijn in ernstige mate de wet te overtreden of activiteiten te verrichten die de democratische rechtsstaat ondermijnen;
 
-- b. **gemeente van verblijf:** gemeente waarin de betrokkene verblijft of voor het laatst heeft verbleven onderscheidenlijk gevestigd is.
+- b. *gemeente van verblijf:* gemeente waarin de betrokkene verblijft of voor het laatst heeft verbleven onderscheidenlijk gevestigd is.
 
 ##### Artikel 2. Instandhouding en doel van casusoverleggen
 
@@ -211,17 +182,17 @@ Eenieder die betrokken is bij de werkzaamheden van het casusoverleg en daarbij d
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de waarborgen.
 
-##### Artikel 20. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+##### Artikel 20. Wijziging Wet politiegegevens
 
-Wijzigt de Wet politiegegevens.
+*Wijzigt de Wet politiegegevens.*
 
-##### Artikel 21. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
+##### Artikel 21. Wijziging Wet justitiële en strafvorderlijke gegevens
 
-Wijzigt de Wet justitiële en strafvorderlijke gegevens.
+*Wijzigt de Wet justitiële en strafvorderlijke gegevens.*
 
-##### Artikel 22. Aanpassing [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met verhouding tot Zorg- en Veiligheidshuizen
+##### Artikel 22. Aanpassing Wet gegevensverwerking door samenwerkingsverbanden in verband met verhouding tot Zorg- en Veiligheidshuizen
 
-Wijzigt de Wet gegevensverwerking door samenwerkingsverbanden.
+*Wijzigt de Wet gegevensverwerking door samenwerkingsverbanden.*
 
 ##### Artikel 24. Evaluatiebepaling
 
@@ -234,5 +205,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 26. Citeertitel
 
 Deze wet wordt aangehaald als: Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -1,138 +1,113 @@
 ---
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)"
+citeertitel: "Subsidieregeling Strategisch opleiden MSZ"
 identifier: "BWBR0050482"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-22"
-last_updated: "2025-11-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050482"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "17290073"
-version_id: "30451732"
-internal_id: "C43664241"
-label_id: "17194264"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050482/2025-11-22/0"
-intitule_bron: "Stcrt.2024-38940"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-25"
-intitule_published: "2024-11-29"
-intitule_in_force: "2024-11-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-38940"
-original_signed_date: "2024-11-25"
-original_published_date: "2024-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-38940"
-entry_into_force_date: "2024-11-30"
-jci_1_3: "jci1.3:c:BWBR0050482&z=2025-11-22&g=2025-11-22"
-jci_1_0: "1.0:c:BWBR0050482&g=2025-11-22"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Strategisch opleiden MSZ"
-signed_date: "2024-11-25"
-entry_into_force: "2024-11-30"
+publicatiedatum: 2024-11-30
+laatste_update: 2025-11-22
+status: geldig
+toestand: 2025-11-22
+bron: "https://wetten.overheid.nl/BWBR0050482"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 november 2024, kenmerk 4009410-1075454-MEVA, houdende regels voor de verstrekking van subsidie voor het opleiden en ontwikkelen van zorgpersoneel (Subsidieregeling Strategisch Opleiden MSZ)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **activiteitenplan:** plan voor een opleidingsproject of meerdere opleidingsprojecten dat
+- *activiteitenplan:* plan voor een opleidingsproject of meerdere opleidingsprojecten dat
 
-- a. als addendum bij het jaarplan is gevoegd;
+   - a. als addendum bij het jaarplan is gevoegd;
 
-- b. een overzicht bevat van de activiteiten en het aantal werknemers per activiteit waarvoor subsidie wordt aangevraagd;
+   - b. een overzicht bevat van de activiteiten en het aantal werknemers per activiteit waarvoor subsidie wordt aangevraagd;
 
-- c. de aard, omvang, duur en wijze van uitvoering van de activiteiten beschrijft; en
+   - c. de aard, omvang, duur en wijze van uitvoering van de activiteiten beschrijft; en
 
-- d. de met de activiteiten na te streven doelen in het kader van het opleiden en scholen van personeel, resultaten of producten beschrijft;
+   - d. de met de activiteiten na te streven doelen in het kader van het opleiden en scholen van personeel, resultaten of producten beschrijft;
 
-- **activiteitenverslag:** verslag waarmee een werknemersvertegenwoordiging heeft ingestemd en waarvan de opbouw overeenkomt met de opbouw van het activiteitenplan en logisch voortvloeit uit het jaarplan en het strategisch opleidingsplan en dat:
+- *activiteitenverslag:* verslag waarmee een werknemersvertegenwoordiging heeft ingestemd en waarvan de opbouw overeenkomt met de opbouw van het activiteitenplan en logisch voortvloeit uit het jaarplan en het strategisch opleidingsplan en dat:
 
-- a. een overzicht bevat van de gerealiseerde activiteiten voor een opleidingsproject of meerdere opleidingsprojecten waarvoor subsidie is verstrekt;
+   - a. een overzicht bevat van de gerealiseerde activiteiten voor een opleidingsproject of meerdere opleidingsprojecten waarvoor subsidie is verstrekt;
 
-- b. de aard, omvang, duur en wijze van uitvoering beschrijft van de gerealiseerde activiteiten per activiteitenplan en het aantal werknemers per activiteit voor een opleidingsproject of meerdere opleidingsprojecten waarvoor subsidie is verstrekt;
+   - b. de aard, omvang, duur en wijze van uitvoering beschrijft van de gerealiseerde activiteiten per activiteitenplan en het aantal werknemers per activiteit voor een opleidingsproject of meerdere opleidingsprojecten waarvoor subsidie is verstrekt;
 
-- c. per activiteitenplan de met het activiteitenplan gerealiseerde doelen, resultaten of producten beschrijft;
+   - c. per activiteitenplan de met het activiteitenplan gerealiseerde doelen, resultaten of producten beschrijft;
 
-- d. voor zover van toepassing, beschrijft in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen; en
+   - d. voor zover van toepassing, beschrijft in hoeverre is voldaan aan de aan de subsidie verbonden verplichtingen; en
 
-- e. voor zover van toepassing, een vergelijking bevat van de gerealiseerde activiteiten met de voorgenomen activiteiten per activiteitenplan voor een opleidingsproject en een toelichting op de verschillen geeft;
+   - e. voor zover van toepassing, een vergelijking bevat van de gerealiseerde activiteiten met de voorgenomen activiteiten per activiteitenplan voor een opleidingsproject en een toelichting op de verschillen geeft;
 
-- **AGB-code:** unieke Algemene GegevensBeheer-code van een zorgaanbieder zoals geregistreerd in het Algemene GegevensBeheer-register dat wordt beheerd door Vektis;
+- *AGB-code:* unieke Algemene GegevensBeheer-code van een zorgaanbieder zoals geregistreerd in het Algemene GegevensBeheer-register dat wordt beheerd door Vektis;
 
-- **algemene groepsvrijstellingsverordening:** [Verordening (EU) 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
+- *algemene groepsvrijstellingsverordening:*
+ Verordening (EU) 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
 
-- **begroting:** begroting die per opleidingsproject
+- *begroting:* begroting die per opleidingsproject
 
-- a. een overzicht van de activiteiten behelst van de geraamde kosten en opbrengsten van de aanvrager, voor zover deze betrekking hebben op de periode waarvoor subsidie wordt aangevraagd;
+   - a. een overzicht van de activiteiten behelst van de geraamde kosten en opbrengsten van de aanvrager, voor zover deze betrekking hebben op de periode waarvoor subsidie wordt aangevraagd;
 
-- b. de begrotingsposten ieder afzonderlijk van een toelichting heeft voorzien; en
+   - b. de begrotingsposten ieder afzonderlijk van een toelichting heeft voorzien; en
 
-- c. sluitend is;
+   - c. sluitend is;
 
-- **DigiMV:** platform waarop zorgaanbieders de jaarverantwoording langs elektronische weg openbaar maken bij het CIBG ingevolge [artikel 40b Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b);
+- *DigiMV:* platform waarop zorgaanbieders de jaarverantwoording langs elektronische weg openbaar maken bij het CIBG ingevolge [artikel 40b Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b);
 
-- **financieel verslag:** verslag dat
+- *financieel verslag:* verslag dat
 
-- a. volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de kosten en opbrengsten van de gerealiseerde activiteiten per activiteitenplan waarvoor de subsidie is verleend en die werkelijk zijn verricht;
+   - a. volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, een zodanig inzicht geeft dat een verantwoord oordeel kan worden gevormd omtrent de kosten en opbrengsten van de gerealiseerde activiteiten per activiteitenplan waarvoor de subsidie is verleend en die werkelijk zijn verricht;
 
-- b. aansluit bij de begroting en de nodige informatie geeft om de subsidie vast te stellen; en
+   - b. aansluit bij de begroting en de nodige informatie geeft om de subsidie vast te stellen; en
 
-- c. per post is voorzien van een toelichting;
+   - c. per post is voorzien van een toelichting;
 
-- **geneeskundige geestelijke gezondheidszorg:** zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- *geneeskundige geestelijke gezondheidszorg:* zorg zoals psychiaters en klinisch-psychologen die plegen te bieden, en de eerstelijnspsychologische zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **instelling:** privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;
+- *instelling:* privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid of een rechtspersoon krachtens publiekrecht ingesteld, die een organisatorisch verband in stand houdt;
 
-- **jaarplan:** overzicht van het geheel van activiteiten voor het subsidiejaar, uit te voeren door een instelling, ten behoeve van personen werkzaam voor de instelling dat dient als concrete uitwerking van het strategisch opleidingsplan en waarmee de werknemersvertegenwoordiging heeft ingestemd;
+- *jaarplan:* overzicht van het geheel van activiteiten voor het subsidiejaar, uit te voeren door een instelling, ten behoeve van personen werkzaam voor de instelling dat dient als concrete uitwerking van het strategisch opleidingsplan en waarmee de werknemersvertegenwoordiging heeft ingestemd;
 
-- **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
+- *jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
-- **Minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- *Minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- **opleidingsproject:** opleidingsactiviteiten die te onderscheiden zijn naar de aard, omvang, duur of wijze van uitvoering;
+- *opleidingsproject:* opleidingsactiviteiten die te onderscheiden zijn naar de aard, omvang, duur of wijze van uitvoering;
 
-- **organisatorisch verband:** organisatorisch verband dat medisch specialistische zorg, als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), verleent waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en op 1 januari 2025 beschikt over een AGB-code die begint met 06, 18, 19, 20 of 22;
+- *organisatorisch verband:* organisatorisch verband dat medisch specialistische zorg, als bedoeld in [artikel 1, eerste lid, van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=1), verleent waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) en op 1 januari 2025 beschikt over een AGB-code die begint met 06, 18, 19, 20 of 22;
 
-- **strategisch opleidingsplan:** met een werknemersvertegenwoordiging afgestemd meerjarig strategisch opleidingsplan waarin de inhoudelijke prioriteiten wat betreft het opleiden van personeel zijn opgenomen en wordt ingegaan op tenminste één of meer van de volgende thema’s:
+- *strategisch opleidingsplan:* met een werknemersvertegenwoordiging afgestemd meerjarig strategisch opleidingsplan waarin de inhoudelijke prioriteiten wat betreft het opleiden van personeel zijn opgenomen en wordt ingegaan op tenminste één of meer van de volgende thema’s:
 
-- a. sociale en technologische innovatie;
+   - a. sociale en technologische innovatie;
 
-- b. werk anders inrichten en meer werkplezier;
+   - b. werk anders inrichten en meer werkplezier;
 
-- c. duurzame inzetbaarheid; of
+   - c. duurzame inzetbaarheid; of
 
-- d. samenwerken binnen de organisatie of met externe partners;
+   - d. samenwerken binnen de organisatie of met externe partners;
 
-- **subsidiejaar:** kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;
+- *subsidiejaar:* kalenderjaar ten behoeve waarvan de subsidie wordt verstrekt;
 
-- **universitair medisch centrum:** academisch ziekenhuis als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13);
+- *universitair medisch centrum:* academisch ziekenhuis als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13);
 
-- **verklaring inzake werkelijke kosten en opbrengsten:** de verklaring waarin de subsidieontvanger aantoont:
+- *verklaring inzake werkelijke kosten en opbrengsten:* de verklaring waarin de subsidieontvanger aantoont:
 
-- a. dat de activiteiten waarvoor de subsidie is verstrekt zijn verricht, voorzien van een toelichting;
+   - a. dat de activiteiten waarvoor de subsidie is verstrekt zijn verricht, voorzien van een toelichting;
 
-- b. dat aan de verleende subsidie verbonden verplichtingen is voldaan; en
+   - b. dat aan de verleende subsidie verbonden verplichtingen is voldaan; en
 
-- c. wat het totale bedrag is van de gerealiseerde kosten en opbrengsten van de opleidingsactiviteiten waarvoor de subsidie is verleend en die werkelijk verricht zijn;
+   - c. wat het totale bedrag is van de gerealiseerde kosten en opbrengsten van de opleidingsactiviteiten waarvoor de subsidie is verleend en die werkelijk verricht zijn;
 
-- **Zvw-omzet:** som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in het tweede jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar:
+- *Zvw-omzet:* som van de volgende onderdelen van de bedrijfsopbrengsten van het organisatorisch verband die met het verlenen van zorg in het kader van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in het tweede jaar voorafgaand aan het subsidiejaar zijn behaald zoals deze zijn verantwoord in de jaarrekening over dat jaar:
 
-- a. Beschikbaarheidbijdragen Zorg;
+   - a. Beschikbaarheidbijdragen Zorg;
 
-- b. Beschikbaarheidbijdragen Opleidingen; en
+   - b. Beschikbaarheidbijdragen Opleidingen; en
 
-- c. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+   - c. Opbrengsten [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid Kaderregeling subsidies OCW, SZW en VWS
 
 Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, financieel verslag, verklaring inzake werkelijke kosten en opbrengsten en instelling bedoeld in [artikel 1.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.1), niet van toepassing. [Artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.3) en [artikel 10.1 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) zijn evenmin van toepassing.
 
@@ -162,9 +137,9 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 ##### Artikel 5. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 99.337.000.
+1. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor instellingen niet zijnde een universitair medisch centrum € 99.337.000.
 
-2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 24.307.000.
+2. Het subsidieplafond bedraagt voor zowel het subsidiejaar 2025 als het subsidiejaar 2026 voor universitair medische centra € 24.307.000.
 
 ##### Artikel 6. Verdeling in geval van overschrijding subsidieplafond instellingen niet zijnde een universitair medisch centrum
 
@@ -174,13 +149,13 @@ Op deze regeling zijn de definities van activiteitenplan, activiteitenverslag, f
 
 waarbij wordt verstaan onder:
 
-- A:. de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+- A: de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-- B:. de som van de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van alle organisatorische verbanden tezamen ten behoeve waarvan subsidie wordt verstrekt;
+- B: de som van de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van alle organisatorische verbanden tezamen ten behoeve waarvan subsidie wordt verstrekt;
 
-- C:. het uit hoofde van het subsidieplafond beschikbare bedrag;
+- C: het uit hoofde van het subsidieplafond beschikbare bedrag;
 
-- D:. het maximum te verlenen bedrag van de subsidie ten behoeve van het organisatorische verband.
+- D: het maximum te verlenen bedrag van de subsidie ten behoeve van het organisatorische verband.
 
 2. Indien na toepassing van bovenstaande formule het subsidieplafond niet volledig wordt benut, wordt het resterende bedrag verdeeld over de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule, bedoeld in het eerste lid.
 
@@ -190,21 +165,19 @@ waarbij wordt verstaan onder:
 
 waarbij wordt verstaan onder:
 
-- A:. de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
+- A: de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;
 
-- E:. de som van de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van alle organisatorische verbanden tezamen die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule onder het eerste lid;
+- E: de som van de Zvw-omzet van het tweede jaar voorafgaand aan het subsidiejaar van alle organisatorische verbanden tezamen die vallen onder de instellingen waarvan het aangevraagde bedrag hoger is dan de uitkomst van de formule onder het eerste lid;
 
-- F:. het uit hoofde van het subsidieplafond resterende beschikbare bedrag;
+- F: het uit hoofde van het subsidieplafond resterende beschikbare bedrag;
 
-- G:. het aanvullende beschikbare subsidiebedrag ten behoeve van het organisatorische verband.
+- G: het aanvullende beschikbare subsidiebedrag ten behoeve van het organisatorische verband.
 
 4. De systematiek beschreven in het tweede en derde lid wordt repeterend toegepast tot ten hoogste het per instelling aangevraagde bedrag en totdat het volledige subsidieplafond is bereikt.
 
 5. De Minister kan afwijken van de begripsbepaling Zvw-omzet, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=1&z=2025-11-22&g=2025-11-22), voor zover toepassing hiervan zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 7. Verdeling in geval van overschrijding subsidieplafond universitair medische centra
-
-1.
 
 In geval van overschrijding van het subsidieplafond wordt het uit hoofde van het subsidieplafond beschikbare bedrag voor universitair medische centra verdeeld op basis van de volgende percentages tot ten hoogste het aangevraagde subsidiebedrag:
 
@@ -238,7 +211,7 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 1. Subsidie die wordt verstrekt op grond van deze regeling bedraagt per opleidingsproject ten hoogste 50% van de subsidiabele kosten.
 
-2. Subsidie die wordt verstrekt op grond van deze regeling bedraagt per opleidingsproject ten hoogste € 3.000.000.
+2. Subsidie die wordt verstrekt op grond van deze regeling bedraagt per opleidingsproject ten hoogste € 3.000.000.
 
 3. Als subsidiabele kosten komen uitsluitend in aanmerking de kosten, bedoeld in artikel 31, derde lid, van de algemene groepsvrijstellingsverordening.
 
@@ -266,11 +239,11 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 - a. in het tweede en derde jaar voorafgaand aan het subsidiejaar aan ten minste twee van de volgende voorwaarden heeft voldaan: of
 
-- 1°. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 7.500.000;
+   - 1°. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 7.500.000;
 
-- 2°. de netto-omzet over het boekjaar bedraagt niet meer dan € 15.000.000; of
+   - 2°. de netto-omzet over het boekjaar bedraagt niet meer dan € 15.000.000; of
 
-- 3°. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 50;
+   - 3°. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 50;
 
 - b. een door een accountant gewaarmerkte jaarrekening van het betreffende tweede jaar voorafgaand aan het subsidiejaar beschikbaar heeft gesteld op DigiMV.
 
@@ -278,7 +251,7 @@ R: het resterende subsidiebedrag binnen het subsidieplafond na verlening van sub
 
 4. De aanvraag wordt ondertekend door een persoon die bevoegd is de instelling te vertegenwoordigen.
 
-5. De aanvraag voor het subsidiejaar 2026 kan worden ingediend van 8 december 2025 09:00 uur tot en met 30 december 2025 13:00 uur.
+5. De aanvraag voor het subsidiejaar 2026 kan worden ingediend van 8 december 2025 09:00 uur tot en met 30 december 2025 13:00 uur.
 
 6. Een aanvraag die na de termijn, bedoeld in het vijfde lid, wordt ontvangen, wordt afgewezen.
 
@@ -308,7 +281,7 @@ De Minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 ##### Artikel 13. Steekproef
 
-De Minister kan een steekproef bij aanvragen tot € 125.000 uitvoeren voorafgaand aan de vaststelling van de subsidie. Hiervoor wordt een door de Minister vastgesteld formulier gebruikt.
+De Minister kan een steekproef bij aanvragen tot € 125.000 uitvoeren voorafgaand aan de vaststelling van de subsidie. Hiervoor wordt een door de Minister vastgesteld formulier gebruikt.
 
 ##### Artikel 14. Hardheidsclausule
 
@@ -318,126 +291,8 @@ De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 31 december 2027 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
+2. Deze regeling vervalt met ingang van 31 december 2027 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Strategisch opleiden MSZ.
-
-## Bijlage I. Standaarduurtarieven per schaal voor personele kosten behorend bij [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050482&artikel=8&z=2025-11-22&g=2025-11-22)
-
-In het kader van een subsidieaanvraag en de verantwoording daarvan kan voor het berekenen van de personele kosten worden gekozen voor het laagste uurtarief per salarisschaal van de desbetreffende functiegroep waartoe aan opleidingsactiviteiten deelnemende medewerkers behoren. Het standaarduurtarief is per salarisschaal vastgesteld in deze bijlage.
-
-De formule voor het berekenen van het standaarduurtarief per salarisschaal houdt in ((12 maanden * bruto maandloon * vakantiegeldtoeslag conform CAO * eindejaarsuitkering conform CAO)* werkgeverslasten 30%) / werkbare uren = standaarduurtarief.
-
-| Salarisschaal / Functiegroep | Standaarduurtarief |
-| --- | --- |
-| 5 | € 29,36 |
-| 10 | € 29,36 |
-| 15 | € 29,36 |
-| 20 | € 29,36 |
-| 25 | € 30,15 |
-| 30 | € 30,15 |
-| 35 | € 30,15 |
-| 40 | € 30,15 |
-| 45 | € 34,20 |
-| 50 | € 37,29 |
-| 55 | € 42,52 |
-| 60 | € 49,02 |
-| 65 | € 55,68 |
-| 70 | € 66,50 |
-| 75 | € 78,94 |
-| 80 | € 91,59 |
-
-| Salarisschaal / Functiegroep | Standaarduurtarief |
-| --- | --- |
-| 5 | € 30,27 |
-| 10 | € 30,27 |
-| 15 | € 30,27 |
-| 20 | € 30,27 |
-| 25 | € 30,27 |
-| 30 | € 30,27 |
-| 35 | € 30,27 |
-| 40 | € 31,64 |
-| 45 | € 37,14 |
-| 50 | € 39,86 |
-| 55 | € 44,91 |
-| 60 | € 48,86 |
-| 65 | € 55,52 |
-| 70 | € 66,62 |
-| 75 | € 78,65 |
-| 80 | € 90,92 |
-
-| Salarisschaal | Standaarduurtarief |
-| --- | --- |
-| 1 | € 31,64 |
-| 2 | € 31,64 |
-| 3 | € 31,64 |
-| 4 | € 31,64 |
-| 5 | € 31,64 |
-| 6 | € 31,95 |
-| 7 | € 36,05 |
-| 8 | € 40,94 |
-| 9 | € 44,94 |
-| 10 | € 42,95 |
-| 11 | € 57,51 |
-| 12 | € 69,79 |
-| 13 | € 79,70 |
-| 14 | € 83,29 |
-| 15 | € 89,81 |
-| 16 | € 96,80 |
-| 17 | € 104,40 |
-| 18 | € 114,03 |
-|   |   |
-| Salarisschalen middengroepen patiëntenzorg |   |
-| 5M | € 30,78 |
-| 6M | € 33,16 |
-| 7M | € 36,57 |
-| 8M | € 41,81 |
-| 9M | € 46,05 |
-| 10M | € 48,26 |
-|   |   |
-| Verpleegkundigen |   |
-| 8aM | € 43,94 |
-| 8M | € 41,81 |
-| 9aM | € 48,26 |
-| 9M | € 46,05 |
-|   |   |
-| Arts-assistenten |   |
-| 11a | € 53,53 |
-|   |   |
-| Medisch specialist (MS) |   |
-| Schaal 0 | € 74,06 |
-|   |   |
-| Universitair MS |   |
-| Schaal 0 | € 96,48 |
-|   |   |
-| Hoogleraar / MS |   |
-| Schaal 0 | € 121,27 |
-|   |   |
-| Hoogleraar/Afdelingshoofd |   |
-| Schaal 0 | € 140,83 |
-|   |   |
-| Onderzoekers in opleiding |   |
-| Schaal 0 | € 37,10 |
-
-| Salarisschaal / Functiegroep | Standaarduurtarief |
-| --- | --- |
-| 5 | € 24,95 |
-| 10 | € 25,33 |
-| 15 | € 25,72 |
-| 20 | € 26,53 |
-| 25 | € 27,35 |
-| 30 | € 27,77 |
-| 35 | € 30,40 |
-| 40 | € 33,90 |
-| 45 | € 35,72 |
-| 50 | € 38,58 |
-| 55 | € 41,56 |
-| 60 | € 47,72 |
-| 65 | € 54,06 |
-| 70 | € 65,40 |
-| 75 | € 77,62 |
-| 80 | € 90,89 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

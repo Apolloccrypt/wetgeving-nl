@@ -1,52 +1,22 @@
 ---
 title: "Vaststellings- en terugvorderingsbeleid bij Subsidieregelingen beroepsopleiding sociaal advocaten"
 identifier: "BWBR0050368"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-11-06"
-last_updated: "2024-11-06"
-status: vervallen
-source: "https://wetten.overheid.nl/BWBR0050368"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17258243"
-version_id: "30396722"
-internal_id: "C43586951"
-label_id: "17163784"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050368/2024-11-06/0"
-intitule_bron: "Stcrt.2024-35727"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-10-18"
-intitule_published: "2024-11-05"
-intitule_in_force: "2024-11-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-35727"
-original_signed_date: "2024-10-18"
-original_published_date: "2024-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-35727"
-entry_into_force_date: "2024-11-06"
-jci_1_3: "jci1.3:c:BWBR0050368&z=2024-11-06&g=2024-11-06"
-jci_1_0: "1.0:c:BWBR0050368&g=2024-11-06"
-citeertitel_status: "officieel"
-signed_date: "2024-10-18"
-entry_into_force: "2024-11-06"
-gecontroleerd: 2026-07-29
+publicatiedatum: 2024-11-06
+laatste_update: 2024-11-06
+status: vervallen
+vervallen_op: 2026-07-03
+toestand: 2024-11-06
+bron: "https://wetten.overheid.nl/BWBR0050368"
+opgehaald: 2026-09-07
 ---
+
 # Vaststellings- en terugvorderingsbeleid bij Subsidieregelingen beroepsopleiding sociaal advocaten
-
-gelet op [artikel 37b, van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad ten behoeve van de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten, en gelet op de [Subsidieregeling beroepsopleiding sociaal advocaten](https://wetten.overheid.nl/jci1.3:c:BWBR0044393),
-
-besluit:
-
-het volgende terugvorderingsbeleid vast te stellen de [Subsidieregeling beroepsopleiding sociaal advocaten](https://wetten.overheid.nl/jci1.3:c:BWBR0044393):
-
-Het terugvorderingsbeleid heeft tot doel zoveel mogelijk duidelijkheid te bieden wanneer verstrekte subsidies wel en wanneer deze niet worden teruggevorderd. Het betreft hier verstrekte subsidies in het kader van de opeenvolgende Subsidieregelingen beroepsopleiding sociaal advocaten. Uitgangspunten daarbij zijn uiteraard de subsidieregelingen zelf. In dit terugvorderingsbeleid wordt ook ingegaan op uitzonderingsgronden.
 
 ##### Artikel 1. – Vaststelling
 
-1. In overeenstemming met [artikel 4:44 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:44) dient de subsidieontvanger nadat de stage met gunstig gevolg is voltooid schriftelijk een aanvraag tot subsidievaststelling in. De aanvraag volgt uiterlijk twee maanden na afronding van de stage, met overlegging van de stageverklaring.
+1. In overeenstemming met [artikel 4:44 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:44) dient de subsidieontvanger nadat de stage met gunstig gevolg is voltooid schriftelijk een aanvraag tot subsidievaststelling in. De aanvraag volgt uiterlijk twee maanden na afronding van de stage, met overlegging van de stageverklaring.
 
 2. Drie jaar en twee maanden na het besluit tot subsidieverlening controleert de Raad of de subsidieontvanger op basis van de ontvangen informatie aan de verplichtingen heeft voldaan. Als eerder uit ontvangen informatie reeds blijkt dat de subsidieontvanger niet kan voldoen aan de verplichtingen, kan de Raad eerder overgaan tot vaststelling.
 
@@ -72,7 +42,7 @@ Het terugvorderingsbeleid heeft tot doel zoveel mogelijk duidelijkheid te bieden
 
 - d. de advocaat-stagiaire stopt met de beroepsopleiding voordat deze succesvol is afgerond om ander werk buiten de advocatuur te gaan uitoefenen;
 
-- e. aan de advocaat-stagiaire zijn gedurende de stage minder dan 60 toevoegingseenheden afgegeven en er is geen of geen succesvol beroep gedaan op door de Raad toe te kennen extra uren waarmee alsnog aan de eis had kunnen worden voldaan. Hierbij tellen 6 toegekende extra uren mee voor één toevoegingseenheid.
+- e. aan de advocaat-stagiaire zijn gedurende de stage minder dan 60 toevoegingseenheden afgegeven en er is geen of geen succesvol beroep gedaan op door de Raad toe te kennen extra uren waarmee alsnog aan de eis had kunnen worden voldaan. Hierbij tellen 6 toegekende extra uren mee voor één toevoegingseenheid.
 
 Ook kan de Raad de subsidie lager vaststellen als de opleidingskosten lager blijken te zijn dan de verstrekte subsidie.
 
@@ -86,7 +56,7 @@ De Raad kan de subsidie terugvorderen als de subsidie lager is vastgesteld dan h
 
 ##### Artikel 3. – Terugvordering nadat de subsidie eerder is vastgesteld conform het voorschot
 
-1. De subsidievaststelling kan op basis van [art. 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) worden ingetrokken of ten nadele van de ontvanger worden gewijzigd, als:
+1. De subsidievaststelling kan op basis van [art. 4:49 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) worden ingetrokken of ten nadele van de ontvanger worden gewijzigd, als:
 
 - a. er feiten of omstandigheden zijn waarvan de Raad bij de subsidievaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de subsidie lager dan overeenkomstig de subsidieverlening zou zijn vastgesteld;
 
@@ -102,7 +72,7 @@ Het bestuur kan een artikel of artikelen van deze regeling buiten toepassing lat
 
 1. Als het bedrag aan vastgestelde subsidie lager is dan het ontvangen voorschot, moet de teveel ontvangen subsidie door de aanvrager binnen twee maanden na het vaststellingsbesluit worden terugbetaald aan de Raad. Als er bezwaar of beroep is aangetekend, wordt de termijn opgeschort tot vier weken na de uitspraak in bezwaar of beroep.
 
-2. Overeenkomstig de voorwaarden in [artikel 4:57 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) kan het bestuur de onverschuldigde betaalde subsidie ook terugvorderen bij dwangbevel. Bij een overstap naar een ander kantoor moeten het nieuwe kantoor, de nieuwe patroon en een nieuwe tweede begeleider ook aan de subsidievoorwaarden voldoen. De verdeling van de subsidie en de eventuele terugvordering daarvan moeten partijen onderling regelen. Hierbij speelt de Raad geen rol.
+2. Overeenkomstig de voorwaarden in [artikel 4:57 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) kan het bestuur de onverschuldigde betaalde subsidie ook terugvorderen bij dwangbevel. Bij een overstap naar een ander kantoor moeten het nieuwe kantoor, de nieuwe patroon en een nieuwe tweede begeleider ook aan de subsidievoorwaarden voldoen. De verdeling van de subsidie en de eventuele terugvordering daarvan moeten partijen onderling regelen. Hierbij speelt de Raad geen rol.
 
 ##### Artikel 6. – Aanhalen terugvorderingsbeleid
 

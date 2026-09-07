@@ -1,46 +1,17 @@
 ---
 title: "Verordening accountantsorganisaties 2025"
 identifier: "BWBR0050613"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-01-01"
-last_updated: "2025-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050613"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17321723"
-version_id: "30520822"
-internal_id: "C43754171"
-label_id: "17226034"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050613/2025-01-01/0"
-intitule_bron: "Stcrt.2024-41349"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-12-17"
-intitule_in_force: "2024-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-41349"
-original_published_date: "2024-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-41349"
-entry_into_force_date: "2025-01-01"
-jci_1_3: "jci1.3:c:BWBR0050613&z=2025-01-01&g=2025-01-01"
-jci_1_0: "1.0:c:BWBR0050613&g=2025-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2025-01-01"
+publicatiedatum: 2025-01-01
+laatste_update: 2025-01-01
+status: geldig
+toestand: 2025-01-01
+bron: "https://wetten.overheid.nl/BWBR0050613"
+opgehaald: 2026-09-07
 ---
+
 # Verordening accountantsorganisaties 2025
-
-Gelet op [artikel 19, eerste lid en tweede lid, onderdeel b, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Overwegende dat het wenselijk is de bestaande regels inzake de onafhankelijkheid, het stelsel van kwaliteitsbeheersing en de integere bedrijfsvoering van accountantsorganisaties te herzien,
-
-Overwegende dat de **International Auditing and Assurance Standards Board** nieuwe standaarden rondom de kwaliteit van de beroepsuitoefening in 2022 heeft uitgebracht, waarmee kwaliteitsmanagement is ingevoerd ter vervanging van vereisten rondom kwaliteitsbeheersing;
-
-Overwegende dat de invoering van die internationale standaarden in Nederland meer handvatten aan accountantsorganisaties geeft over kwaliteitsmanagement, wat daarbij kan bijdragen aan het borgen en verhogen van de kwaliteit van wettelijke controles, en in de nabije toekomst de kwaliteit van assurance-onderzoeken van duurzaamheidsrapportering.
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Definities
 
@@ -48,15 +19,16 @@ Stelt de volgende verordening vast:
 
 In deze verordening en daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
-- •. **accountantsorganisatie:** accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- • *accountantsorganisatie:* accountantsorganisatie als bedoeld in [artikel 1, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- •. **externe accountant:** externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
+- • *externe accountant:* externe accountant als bedoeld in [artikel 1, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1);
 
-- •. **medewerker:** medewerker als bedoeld in [artikel 1 van het Besluit toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&artikel=1);
+- • *medewerker:* medewerker als bedoeld in [artikel 1 van het Besluit toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&artikel=1);
 
-- •. **wet:** [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468);
+- • *wet:*
+ [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468);
 
-- •. **wettelijke controle:** wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
+- • *wettelijke controle:* wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
 
 ### Hoofdstuk 2. Kwaliteitsmanagementsysteem
 
@@ -94,17 +66,17 @@ In deze verordening en daarop berustende bepalingen wordt, voor zover niet ander
 
 - c. het verzekerd bedrag per aanspraak bedraagt:
 
-- 1. bij een jaaromzet tot € 500.000, ten minste € 300.000;
+   - 1. bij een jaaromzet tot € 500.000, ten minste € 300.000;
 
-- 2. bij een jaaromzet van € 500.000 tot € 1.000.000, ten minste € 500.000;
+   - 2. bij een jaaromzet van € 500.000 tot € 1.000.000, ten minste € 500.000;
 
-- 3. bij een jaaromzet van € 1.000.000 tot € 2.500.000, ten minste € 1.250.000;
+   - 3. bij een jaaromzet van € 1.000.000 tot € 2.500.000, ten minste € 1.250.000;
 
-- 4. bij een jaaromzet van € 2.500.000 of meer, ten minste € 3.000.000.
+   - 4. bij een jaaromzet van € 2.500.000 of meer, ten minste € 3.000.000.
 
 - d. boven de in onderdeel c genoemde minimumbedragen bepaalt de accountantsorganisatie de wijze waarop financiële risico's kunnen worden opgevangen en de hoogte van de dekking van de verzekering, met dien verstande dat sprake is van een redelijke dekking van de risico's;
 
-- e. het eigen risico per aanspraak is zodanig vastgesteld dat de solvabiliteit van de accountantsorganisatie niet in gevaar komt. Daartoe bedraagt het eigen risico bij een jaaromzet tot € 2.500.000, maximaal € 25.000. Bij een jaaromzet van meer dan € 2.500.000 bepaalt de accountantsorganisatie zelf de hoogte van het eigen risico;
+- e. het eigen risico per aanspraak is zodanig vastgesteld dat de solvabiliteit van de accountantsorganisatie niet in gevaar komt. Daartoe bedraagt het eigen risico bij een jaaromzet tot € 2.500.000, maximaal € 25.000. Bij een jaaromzet van meer dan € 2.500.000 bepaalt de accountantsorganisatie zelf de hoogte van het eigen risico;
 
 - f. onder de dekking van de verzekering vallen alle werkzaamheden die door de accountantsorganisatie worden verricht, ongeacht door wie de claim wordt ingediend;
 
@@ -168,7 +140,7 @@ De accountantsorganisatie die heeft besloten een lopende wettelijke controle tus
 
 ##### Artikel 9
 
-De accountantsorganisatie waarborgt dat een externe accountant die bij een wettelijke controle gebruik maakt van de werkzaamheden van interne auditors van de controlecliënt als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1) dit doet op de manier zoals genoemd in [Standaard 610, paragraaf 1, sub a, NV COS](onbekend).
+De accountantsorganisatie waarborgt dat een externe accountant die bij een wettelijke controle gebruik maakt van de werkzaamheden van interne auditors van de controlecliënt als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1) dit doet op de manier zoals genoemd in [Standaard 610, paragraaf 1, sub a, NV COS](https://wetten.overheid.nl/BWBR0049711).
 
 ### Hoofdstuk 4. Wijzigingen en intrekking van regelingen
 
@@ -188,11 +160,11 @@ Het bestuur kan nadere voorschriften vaststellen aangaande de onafhankelijkheid,
 
 ##### Artikel 13
 
-Deze verordening treedt in werking op 1 januari 2025. In het geval de Staatscourant waarin deze verordening wordt gepubliceerd verschijnt na 31 december 2024, dan treedt de verordening in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2025.
+Deze verordening treedt in werking op 1 januari 2025. In het geval de Staatscourant waarin deze verordening wordt gepubliceerd verschijnt na 31 december 2024, dan treedt de verordening in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2025.
 
 ##### Artikel 14
 
-De [VAO](https://wetten.overheid.nl/jci1.3:c:BWBR0035459) zoals deze luidde tot de inwerkingtreding van deze verordening blijft tot 1 januari 2026 van toepassing op accountantsorganisaties met een vergunning die niet mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang.
+De [VAO](https://wetten.overheid.nl/jci1.3:c:BWBR0035459) zoals deze luidde tot de inwerkingtreding van deze verordening blijft tot 1 januari 2026 van toepassing op accountantsorganisaties met een vergunning die niet mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang.
 
 ##### Artikel 15
 

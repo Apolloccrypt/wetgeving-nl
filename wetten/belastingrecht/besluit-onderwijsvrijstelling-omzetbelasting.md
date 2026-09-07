@@ -1,43 +1,33 @@
 ---
 title: "Besluit onderwijsvrijstelling omzetbelasting"
 identifier: "BWBR0050769"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-02-12"
-last_updated: "2025-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050769"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "17365543"
-version_id: "30612672"
-internal_id: "C43875971"
-label_id: "17269014"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050769/2025-02-12/0"
-intitule_bron: "Stcrt.2025-3488"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-21"
-intitule_published: "2025-02-11"
-intitule_in_force: "2025-02-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3488"
-original_signed_date: "2025-01-21"
-original_published_date: "2025-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3488"
-entry_into_force_date: "2025-02-12"
-jci_1_3: "jci1.3:c:BWBR0050769&z=2025-02-12&g=2025-02-12"
-jci_1_0: "1.0:c:BWBR0050769&g=2025-02-12"
-citeertitel_status: "officieel"
-signed_date: "2025-01-21"
-entry_into_force: "2025-02-12"
+publicatiedatum: 2025-02-12
+laatste_update: 2025-02-12
+status: geldig
+toestand: 2025-02-12
+bron: "https://wetten.overheid.nl/BWBR0050769"
+opgehaald: 2026-09-07
 ---
+
 # Besluit onderwijsvrijstelling omzetbelasting
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
+*Dit besluit is een actualisering van het besluit van 30 juli 2014, nr. BLKB2014/125M. De belangrijkste inhoudelijke wijzigingen zijn als volgt.*
 
-**Dit besluit is een actualisering van het besluit van 30 juli 2014, nr. BLKB2014/125M. De belangrijkste inhoudelijke wijzigingen zijn als volgt.**
+- – *Het verzorgen van openbaar onderwijs wordt per 19 juni 2020 niet meer aangemerkt als het handelen als overheid (onderdeel 3.1);*
+
+- – *Voor de toepassing van de btw-vrijstelling voor het onderwijs door internationale, buitenlandse en ambassadescholen geldt dat toezicht door een buitenlandse autoriteit of door een erkende accreditatieorganisatie volstaat (onderdeel 3.2);*
+
+- – *De diensten die vallen onder ‘het afnemen van examens ter toelating of ter afsluiting van onderwijs’ zijn nader toegelicht (onderdeel 3.3);*
+
+- – *Elektronisch, op afstand of online verzorgd onderwijs kan worden beschouwd als ‘het overbrengen van kennis en/of vaardigheden door een leerkracht’ als een mogelijkheid bestaat tot interactie tussen docent en leerling(en) (onderdeel 4.1);*
+
+- – *Onder voorwaarden is de vrijstelling van toepassing op door externe ondernemers verrichte onderwijsactiviteiten die behoren tot het curriculum van het reguliere onderwijs (onderdeel 4.1);*
+
+- – *Gebarentaalonderwijs is een vorm van taalonderwijs (onderdeel 9);*
+
+- – *Scriptiebegeleiding valt onder voorwaarden onder de vrijstelling. Tekstservice valt niet onder de vrijstelling (onderdeel 12.2).*
 
 ### 1. Inleiding
 
@@ -51,43 +41,104 @@ In dit besluit is het kennisgroepantwoord KG:210:2022:2 inzake elektronisch, op 
 
 ### 2. Gebruikte begrippen en afkortingen
 
+| Awr: | Algemene wet inzake rijksbelastingen |
+| --- | --- |
+| Btw: | Omzetbelasting |
+| btw-richtlijn: | Richtlijn 2006/112/EG van de Raad van 28 november 2006 betreffende het gemeenschappelijk stelsel van belasting over de toegevoegde waarde (PbEU L 347 van 11 december 2006) |
+| CPION: | Centrum Post Initieel Onderwijs Nederland |
+| CRKBO: | Centraal Register Kort Beroepsonderwijs |
+| HBO: | Hoger beroepsonderwijs |
+| MBO: | Middelbaar beroepsonderwijs |
+| RIO: | Registratie Instellingen en Opleidingen |
+| ROC: | Regionaal Opleidingscentrum |
+| Uitvoeringsbeschikking: | Uitvoeringsbeschikking omzetbelasting 1968 |
+| Uitvoeringsbesluit: | Uitvoeringsbesluit omzetbelasting 1968 |
+| WEB: | Wet educatie en beroepsonderwijs |
+| WEO: | Wet op de erkende onderwijsinstellingen |
+| Wet: | Wet op de omzetbelasting 1968 |
+| WHW: | Wet op het hoger onderwijs en wetenschappelijk onderzoek |
+| WO: | Wetenschappelijk onderwijs |
+| WVO 2020: | Wet voortgezet onderwijs 2020 |
+
 ### 3. Juridisch kader
 
 De onderwijsvrijstelling maakt een onderscheid tussen het wettelijk geregeld onderwijs en het bij algemene maatregel van bestuur aan te wijzen onderwijs. De vrijstelling voor het wettelijk geregeld onderwijs staat in [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11). De vrijstelling voor het bij algemene maatregel van bestuur aan te wijzen onderwijs staat in artikel 11, eerste lid, onderdeel o, 2° van de wet juncto [artikel 8 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8). Deze artikelen zijn gebaseerd op artikel 132, eerste lid, onderdelen i en j, van de btw-richtlijn. De voorwaarden voor de toepassing van de vrijstelling voor met onderwijs nauw samenhangende prestaties zijn opgenomen in artikel 11, tweede lid, van de wet en zijn ontleend aan artikel 134 van de btw-richtlijn.
 
 ### 3.1. Reikwijdte van de vrijstelling
 
-Toepassing van de onderwijsvrijstelling komt enkel aan de orde als onderwijs wordt verzorgd tegen vergoeding en als ondernemer. Ingevolge het arrest van de Hoge Raad van 19 juni 2020 is ook het tegen vergoeding verzorgen van onderwijs door openbare onderwijsinstellingen niet aan te merken als het handelen als overheid maar als het handelen als ondernemer.2HR 19 juni 2020, r.o. 3.2.3. en 3.2.4., ECLI:NL:HR:2020:1070.
+Toepassing van de onderwijsvrijstelling komt enkel aan de orde als onderwijs wordt verzorgd tegen vergoeding en als ondernemer. Ingevolge het arrest van de Hoge Raad van 19 juni 2020 is ook het tegen vergoeding verzorgen van onderwijs door openbare onderwijsinstellingen niet aan te merken als het handelen als overheid maar als het handelen als ondernemer.2HR 19 juni 2020, r.o. 3.2.3. en 3.2.4., ECLI:NL:HR:2020:1070.
 
 Onderwijs dat door een onderwijsinstelling wordt verzorgd zonder dat daartegenover een rechtstreekse, wederzijds afhankelijke vergoeding staat, vormt in beginsel een niet-economische activiteit die buiten de heffing van btw valt. Als die niet-economische activiteit bestaat uit het verzorgen van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), wordt zij voor de toepassing van dit besluit op gelijke voet behandeld met onderwijsinstellingen die wel tegen vergoeding en als ondernemer dat onderwijs verzorgen, voor zover het betreft de onderdelen over:
+
+- – de nauw met het vrijgestelde onderwijs samenhangende leveringen en diensten ([onderdeel 5](https://wetten.overheid.nl/BWBR0050769));
+
+- – algemeen vormend onderwijs ([onderdeel 7](https://wetten.overheid.nl/BWBR0050769));
+
+- – de zelfstandig werkende docent ([onderdeel 8](https://wetten.overheid.nl/BWBR0050769));
+
+- – taalonderwijs ([onderdeel 9](https://wetten.overheid.nl/BWBR0050769));
+
+- – onderwijs in muziek, dans, drama en beeldende vorming aan personen jonger dan 21 jaar ([onderdeel 10](https://wetten.overheid.nl/BWBR0050769));
+
+- – de naschoolse lesprogramma’s ([onderdeel 11](https://wetten.overheid.nl/BWBR0050769));
+
+- – de goedkeuring inzake huiswerk- en studiebegeleiding ([onderdeel 12.1](https://wetten.overheid.nl/BWBR0050769));
+
+- – de goedkeuring inzake remedial teaching ([onderdeel 12.2](https://wetten.overheid.nl/BWBR0050769)).
 
 ### 3.2. Wettelijk geregeld onderwijs
 
 Bij wettelijk geregeld onderwijs in de zin van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) gaat het om onderwijs, met inbegrip van de diensten en leveringen die daarmee nauw samenhangen, door daartoe bestemde scholen en instellingen, als is omschreven bij of krachtens de wetten tot regeling van het onderwijs dat volgens wettelijk voorschrift is onderworpen aan het toezicht door de Inspectie van het onderwijs of aan een ander toezicht door de Minister die met de zorg voor het desbetreffende onderwijs is belast. Dit onderwijs omvat de hierna aangegeven soorten onderwijs.
 
+- – *Het bekostigde onderwijs.* Dit is het reguliere onderwijs dat volledig of grotendeels en rechtstreeks uit de openbare middelen wordt gefinancierd. Onder het bekostigde onderwijs valt het basisonderwijs, de speciale scholen voor basisonderwijs, het voortgezet onderwijs, het speciaal onderwijs en het voortgezet speciaal onderwijs, het MBO, het onderwijs verzorgd door instellingen genoemd in de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), het HBO en het WO.
+
+- – *Het niet-bekostigde onderwijs.* Dit is het onderwijs dat niet uit openbare middelen wordt gefinancierd, maar overigens wel voldoet aan de onderwijswetgeving voor de leerplicht. Dit zijn de onderwijsinstellingen bedoeld in [artikel 1, onderdeel b, onder 3 en 4, van de Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628&artikel=1).
+
+- – *Het aangewezen onderwijs.* Dit is het onderwijs dat is aangewezen ingevolge [artikel 2.66, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.66), het onderwijs verzorgd door instellingen als bedoeld in de [artikelen 1.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4.1) en [1.4a.1, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.4a.1) en door instellingen als bedoeld in [artikel 1.2, onderdeel b, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.2). Deze niet-bekostigde onderwijsinstellingen zijn op grond van de vermelde bepalingen gelijkgerechtigd met de bekostigde onderwijsinstellingen voor het verlenen van diploma’s, doctoraten en getuigschriften van met goed gevolg afgelegde examens. Voorbeelden van dergelijke onderwijsinstellingen zijn het LOI, NTI en particuliere scholen voor voortgezet onderwijs.
+
+- – *Het erkende onderwijs.* Dit is het onderwijs waarvoor particuliere onderwijsinstellingen bij of krachtens de [WEO](https://wetten.overheid.nl/jci1.3:c:BWBR0003821) een erkenning hebben gekregen. Ook bij het erkende onderwijs gaat het om onderwijs dat niet uit de openbare kassen wordt bekostigd. Het gaat bijvoorbeeld om onderwijs dat is gericht op het afleggen van een staatsexamen als bedoeld in [artikel 2.72, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.72) of een examen ter verkrijging van een diploma als bedoeld in [artikel 2.51, onderdeel 2 en 5, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.51). Een voorbeeld van een onderwijsinstelling die (ook) erkend onderwijs aanbiedt is het Luzac College.
+
+- – Onderwijs onderworpen aan ander overheidstoezicht dan de Inspectie van het onderwijs. Het gaat hier bijvoorbeeld om defensieonderwijs (Ministerie van Defensie) of om onderwijs in de vorm van stages bij artsen voor artsen in opleiding (Ministerie van VWS).
+
 Bij onderwijs dat door in Nederland gevestigde internationale, buitenlandse en ambassadescholen wordt verzorgd, ontbreekt veelal de bevoegdheid tot toezicht door de Inspectie van het onderwijs. Daardoor zou niet worden voldaan aan de voorwaarden voor de toepassing van de onderwijsvrijstelling. Ik acht dit ongewenst en keur met toepassing van [artikel 63 van de Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat dergelijke scholen de vrijstelling kunnen toepassen.
+
+Goedkeuring
 
 Ik keur onder de volgende voorwaarde goed dat onderwijs verzorgd door internationale, buitenlandse en ambassadescholen is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11).
 
-Voor deze goedkeuring geldt de voorwaarde dat het betreffende onderwijs onder toezicht staat van een buitenlandse autoriteit, of van een erkende internationale accreditatieorganisatie.3De erkende internationale accreditatieorganisaties staan genoemd in bijlage 1 van de ‘Regeling aanwijzing internationale en buitenlandse scholen’ van 14 januari 2011 (VO/BVB/143738).
+Voorwaarde
+
+Voor deze goedkeuring geldt de voorwaarde dat het betreffende onderwijs onder toezicht staat van een buitenlandse autoriteit, of van een erkende internationale accreditatieorganisatie.3De erkende internationale accreditatieorganisaties staan genoemd in bijlage 1 van de ‘Regeling aanwijzing internationale en buitenlandse scholen’ van 14 januari 2011 (VO/BVB/143738).
 
 ### 3.3. Bij algemene maatregel van bestuur aan te wijzen onderwijs
 
 Als onderwijs in de zin van [artikel 11, eerste lid, onderdeel o, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) in samenhang met [artikel 8, eerste lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8) zijn aangewezen:
 
-Op grond van [artikel 8, tweede lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8) wordt onder onderwijs mede begrepen het afnemen van examens ter toelating4Besluit van 19 december 2018 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen, Stb. 2018, 514. of ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), ook als een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid het examen afneemt. Onder deze ‘examendiensten’ vallen handelingen die noodzakelijk eigen zijn aan het doen afleggen van examens of het organiseren daarvan (bijvoorbeeld ontwikkelen, opstellen of beoordelen).5HR 17 september 2021, r.o. 3.3.2, ECLI:NL:HR:2021:1305.
+- – beroepsopleidingen die worden verzorgd door docenten of instellingen die zijn opgenomen in respectievelijk het docentenregister of het instellingenregister van het CRKBO (zie [onderdeel 6](https://wetten.overheid.nl/BWBR0050769));
 
-De vrijstelling is alleen van toepassing als de betreffende ondernemer kwalificeert als onderwijsinstelling in de zin van [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11). Daarnaast geldt als voorwaarde voor de toepassing van de vrijstelling dat het examen ter toelating of ter afsluiting is van onderwijs in de zin van artikel 11, eerste lid, onderdeel o van de wet. Uit de erkenning door het CPION of opname in het CRKBO van een ondernemer die het examen afneemt, kan niet het vertrouwen worden ontleend dat dan ook het afnemen van examens door die ondernemer is vrijgesteld.6Rechtbank Gelderland 23 april 2013, ECLI:NL:RBGEL:2013:BZ7951.
+- – beroepsopleidingen die worden verzorgd door de uit de openbare kassen bekostigde instellingen die zijn genoemd in de [bijlage van de WHW](https://wetten.overheid.nl/BWBR0005682) (zoals bijvoorbeeld universiteiten en hogescholen) of die zijn bedoeld bij de [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) (zoals bijvoorbeeld ROC’s en beroepscolleges). Hierdoor wordt voorkomen dat regulier bekostigde instellingen zich voor seminars enz. die ze naast hun algemene onderwijsactiviteiten als beroepsonderwijs verrichten, moeten laten erkennen. Het gaat hierbij om beroepsopleidingen die niet zijn geaccrediteerd c.q. opgenomen in de RIO;
+
+- – algemeen vormend onderwijs, ontleend aan het uit de openbare kassen bekostigde onderwijs dat is vrijgesteld op grond van [artikel 11, eerste lid, onderdeel o, 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), met uitzondering van onderwijs dat een vrijetijdskarakter heeft en onderwijs dat dient om vaardigheden in de persoonlijke levenssfeer te verwerven (zie [onderdelen 7](https://wetten.overheid.nl/BWBR0050769) en [9](https://wetten.overheid.nl/BWBR0050769));
+
+- – onderwijs in muziek, dans, drama en beeldende vorming aan personen jonger dan 21 jaar (zie [onderdeel 10](https://wetten.overheid.nl/BWBR0050769));
+
+- – bijlessen en tentamen- of examentrainingen die worden verzorgd in het kader van het onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) (zie [onderdeel 12.2](https://wetten.overheid.nl/BWBR0050769)).
+
+Afnemen van examens
+
+Op grond van [artikel 8, tweede lid, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8) wordt onder onderwijs mede begrepen het afnemen van examens ter toelating4Besluit van 19 december 2018 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen, Stb. 2018, 514. of ter afsluiting van onderwijs als bedoeld in [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), ook als een ander dan de ondernemer die voor het desbetreffende examen heeft opgeleid het examen afneemt. Onder deze ‘examendiensten’ vallen handelingen die noodzakelijk eigen zijn aan het doen afleggen van examens of het organiseren daarvan (bijvoorbeeld ontwikkelen, opstellen of beoordelen).5HR 17 september 2021, r.o. 3.3.2, ECLI:NL:HR:2021:1305.
+
+De vrijstelling is alleen van toepassing als de betreffende ondernemer kwalificeert als onderwijsinstelling in de zin van [artikel 11, eerste lid, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11). Daarnaast geldt als voorwaarde voor de toepassing van de vrijstelling dat het examen ter toelating of ter afsluiting is van onderwijs in de zin van artikel 11, eerste lid, onderdeel o van de wet. Uit de erkenning door het CPION of opname in het CRKBO van een ondernemer die het examen afneemt, kan niet het vertrouwen worden ontleend dat dan ook het afnemen van examens door die ondernemer is vrijgesteld.6Rechtbank Gelderland 23 april 2013, ECLI:NL:RBGEL:2013:BZ7951.
 
 ### 4. Reikwijdte van het begrip ‘onderwijs’ en van het begrip ‘beroepsopleidingen’
 
 ### 4.1. Reikwijdte van het begrip ‘onderwijs’
 
-De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) en de btw-richtlijn geven geen omschrijving van het begrip ‘onderwijs’. Daarom dient voor de betekenis van het begrip te worden aangesloten bij het spraakgebruik. Naar spraakgebruik wordt onderwijs gegeven als een leerkracht aan leerlingen (individueel of in groepsverband) volgens een bepaalde methodiek kennis overdraagt en/of vaardigheden bijbrengt, mits die activiteiten niet een louter recreatief karakter hebben.7HvJ 14 juni 2007, C-445/05 (Haderer), ECLI:EU:C:2007:344. Het overdragen van kennis en/of het bijbrengen van vaardigheden staat bij de onderwijsprestatie centraal.
+De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) en de btw-richtlijn geven geen omschrijving van het begrip ‘onderwijs’. Daarom dient voor de betekenis van het begrip te worden aangesloten bij het spraakgebruik. Naar spraakgebruik wordt onderwijs gegeven als een leerkracht aan leerlingen (individueel of in groepsverband) volgens een bepaalde methodiek kennis overdraagt en/of vaardigheden bijbrengt, mits die activiteiten niet een louter recreatief karakter hebben.7HvJ 14 juni 2007, C-445/05 (Haderer), ECLI:EU:C:2007:344. Het overdragen van kennis en/of het bijbrengen van vaardigheden staat bij de onderwijsprestatie centraal.
 
 Van het overbrengen van kennis of vaardigheden door een leerkracht kan ook sprake zijn als het onderwijs elektronisch, op afstand of online wordt aangeboden.8[KG:210:2022:2 Elektronisch onderwijs; onderwijsvrijstelling | Kennisgroepen (belastingdienst.nl)](https://kennisgroepen.belastingdienst.nl/publicaties/kg21020222-elektronisch-onderwijs-onderwijsvrijstelling/) Om de vrijstelling toe te kunnen passen moet echter wel een mogelijkheid tot interactie tussen leerkracht en leerling(en) bestaan. Hiervan is sprake als een leerling vóór, tijdens of na een onderwijssessie de leerkracht kan raadplegen (rechtstreeks of via een onderwijsinstelling).
 
-De prestaties van extern ingeschakelde, op zelfstandige basis werkende, personen of organisaties die activiteiten verzorgen die deel uitmaken van het curriculum van regulier onderwijs kunnen ook als vrijgesteld (wettelijk of aan te wijzen) onderwijs worden aangemerkt. Die prestaties dienen daarvoor behalve organisatorische aspecten ook werkzaamheden in te houden die als het verzorgen van onderwijs kwalificeren.9Gerechtshof Den Haag 9 januari 2015, ECLI:NL:GHDHA:2015:970.
+De prestaties van extern ingeschakelde, op zelfstandige basis werkende, personen of organisaties die activiteiten verzorgen die deel uitmaken van het curriculum van regulier onderwijs kunnen ook als vrijgesteld (wettelijk of aan te wijzen) onderwijs worden aangemerkt. Die prestaties dienen daarvoor behalve organisatorische aspecten ook werkzaamheden in te houden die als het verzorgen van onderwijs kwalificeren.9Gerechtshof Den Haag 9 januari 2015, ECLI:NL:GHDHA:2015:970.
 
 ### 4.2. Reikwijdte van het begrip ‘beroepsopleidingen’
 
@@ -99,19 +150,27 @@ Onderwijs dat zich primair richt op het bijbrengen en ontwikkelen van vaardighed
 
 ### 5. Nauw met het vrijgestelde onderwijs samenhangende leveringen en diensten
 
-De vrijstelling voor nauw met het vrijgestelde onderwijs samenhangende leveringen en diensten geldt alleen voor ondernemers die zelf vrijgesteld onderwijs verzorgen. Leveringen en diensten kunnen nauw samenhangen met het vrijgestelde onderwijs als zij onontbeerlijk zijn voor het verzorgen daarvan.10HvJ EG 20 juni 2002, nr. C-287/00 (Commissie – Duitsland). Te denken valt onder andere aan het ter beschikking stellen van lesmateriaal aan leerlingen door onderwijsinstellingen die vrijgesteld onderwijs verzorgen. Daarnaast geldt dat nauw samenhangende prestaties van de vrijstelling zijn uitgesloten als ze in hoofdzaak ertoe strekken om aan de instelling extra opbrengsten te verschaffen, in rechtstreekse mededinging met btw-belaste ondernemers ([artikel 11, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)).
+De vrijstelling voor nauw met het vrijgestelde onderwijs samenhangende leveringen en diensten geldt alleen voor ondernemers die zelf vrijgesteld onderwijs verzorgen. Leveringen en diensten kunnen nauw samenhangen met het vrijgestelde onderwijs als zij onontbeerlijk zijn voor het verzorgen daarvan.10HvJ EG 20 juni 2002, nr. C-287/00 (Commissie – Duitsland). Te denken valt onder andere aan het ter beschikking stellen van lesmateriaal aan leerlingen door onderwijsinstellingen die vrijgesteld onderwijs verzorgen. Daarnaast geldt dat nauw samenhangende prestaties van de vrijstelling zijn uitgesloten als ze in hoofdzaak ertoe strekken om aan de instelling extra opbrengsten te verschaffen, in rechtstreekse mededinging met btw-belaste ondernemers ([artikel 11, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)).
 
-Ter zake van het ter beschikkingstellen van personeel als mogelijk met vrijgesteld onderwijs samenhangende dienst wordt verwezen naar het [Besluit ‘Omzetbelasting, ter beschikking stellen van personeel’](https://wetten.overheid.nl/jci1.3:c:BWBR0049806).11Zie voor het uitlenen van personeel als nauw samenhangende prestatie het Besluit ‘Omzetbelasting. Ter beschikking stellen van personeel’ van 7 juni 2024, nr. 2024-13855, Stcrt. 2024, 17448.
+Ter zake van het ter beschikkingstellen van personeel als mogelijk met vrijgesteld onderwijs samenhangende dienst wordt verwezen naar het [Besluit ‘Omzetbelasting, ter beschikking stellen van personeel’](https://wetten.overheid.nl/jci1.3:c:BWBR0049806).11Zie voor het uitlenen van personeel als nauw samenhangende prestatie het Besluit ‘Omzetbelasting. Ter beschikking stellen van personeel’ van 7 juni 2024, nr. 2024-13855, Stcrt. 2024, 17448.
 
 Niet als nauw met het vrijgestelde onderwijs samenhangende leveringen en diensten kunnen bijvoorbeeld worden aangemerkt:
+
+- – door onderwijsinstellingen tegen vergoeding uitgevoerde onderzoeksprojecten;
+
+- – het tegen vergoeding verstrekken van een door een onderwijsinstelling ontwikkeld lesprogramma aan derden (andere onderwijsinstellingen en onderwijsgerelateerde instellingen).
 
 ### 6. CRKBO
 
 Het CRKBO is een register dat door de betrokken brancheorganisaties is ingesteld. Het CRKBO bestaat uit twee delen: een Instellingenregister Beroepsonderwijs en een Docentenregister Beroepsonderwijs.
 
+Instellingenregister Beroepsonderwijs
+
 In dit register kunnen onderwijsinstellingen en natuurlijke personen zich laten inschrijven die ‘direct op de markt’ beroepsonderwijs verzorgen. ‘Direct op de markt’ wil zeggen dat zij rechtstreeks voor eigen rekening en risico en voor eigen verantwoordelijkheid overeenkomsten afsluiten voor het verzorgen van beroepsonderwijs. De duur van de opleidingen doet daarbij niet ter zake.
 
 Als een instelling of natuurlijk persoon in het Instellingenregister Beroepsonderwijs is ingeschreven, is al het door die instelling of natuurlijk persoon verzorgde beroepsonderwijs vrijgesteld van btw, dus ook het beroepsonderwijs dat door de natuurlijke persoon als docent wordt verzorgd. De status van de afnemer is voor de toepassing van de vrijstelling niet van belang. Ook buitenlandse instellingen kunnen zich aanmelden bij het CRKBO.
+
+Docentenregister Beroepsonderwijs
 
 In dit register kunnen natuurlijke personen zich laten inschrijven die beroepsonderwijs verzorgen aan onderwijsinstellingen. De duur van de opleidingen doet daarbij niet ter zake.
 
@@ -131,6 +190,12 @@ De vraag of sprake is van beroepsonderwijs wordt beantwoord door de voor de onde
 
 Algemeen vormend onderwijs dat is ontleend aan het uit de openbare kassen bekostigde onderwijsaanbod, is vrijgesteld. Met het begrip ‘ontleend aan’ is bedoeld dat het onderwijs inhoudelijk moet overeenstemmen met of soortgelijk moet zijn aan het uit de openbare kassen bekostigde aanbod van onderwijs zoals dat wordt verzorgd door reguliere onderwijsinstellingen. Deze onderwijsvrijstelling ziet op:
 
+- – het contractonderwijs, dat is het algemeen vormend onderwijs dat tegen kostendekkend tarief door reguliere onderwijsinstellingen zoals scholen voor voortgezet onderwijs, al dan niet via een neveninstelling, wordt verzorgd voor particulieren, bedrijven, overheidsinstellingen enzovoort. Dit onderwijs is niet onderworpen aan toezicht door de Inspectie van het onderwijs of aan ander toezicht door de minister die met de zorg voor het desbetreffende onderwijs is belast;
+
+- – het algemeen vormend onderwijs dat door particuliere instellingen (niet zijnde instellingen die aangewezen of erkend onderwijs verzorgen) en docenten wordt verzorgd en dat inhoudelijk is ontleend aan het uit de openbare kassen bekostigde onderwijsaanbod. Het karakter van de instelling is daarbij niet van belang. Ook is niet van belang of degene die het onderwijs verzorgt winst beoogt. Verder doet het er niet toe of het onderwijs één of enkele vakken betreft dan wel één of meerdere jaren van het school- of universitair onderwijs. Evenmin is van belang of het onderwijs mondeling, schriftelijk of langs elektronische weg12[KG:210:2022:2 Elektronisch onderwijs; onderwijsvrijstelling | Kennisgroepen (belastingdienst.nl)](https://kennisgroepen.belastingdienst.nl/publicaties/kg21020222-elektronisch-onderwijs-onderwijsvrijstelling/) wordt verzorgd (zolang wel wordt voldaan aan de voorwaarde van mogelijkheid tot interactie met een docent als omschreven in [onderdeel 4.1](https://wetten.overheid.nl/BWBR0050769)). Tenslotte is ook het opleidingsniveau van degenen voor wie het onderwijs wordt verzorgd, niet van belang;
+
+- – de prestaties van extern ten behoeve van het desbetreffende onderwijs ingeschakelde, op zelfstandige basis werkende, leerkrachten.
+
 Voor zover het aan het wettelijk geregelde onderwijs ontleende algemeen vormend onderwijs een vrijetijdskarakter heeft of dient om vaardigheden in de persoonlijke levenssfeer te verwerven, is de onderwijsvrijstelling niet van toepassing. Het gaat dan bijvoorbeeld om tekencursussen, handvaardigheidscursussen, balletcursussen en lessen die de beoefening van een sport als doel hebben.
 
 ### 8. Zelfstandig werkende docenten
@@ -146,6 +211,10 @@ De zelfstandig werkende docent die aan een onderwijsinstelling onderwijs verzorg
 Taalonderwijs, waaronder ook gebarentaalonderwijs, is als algemeen vormend – van btw vrijgesteld – onderwijs aan te merken als het niet specifiek is gericht op een bepaalde beroepsuitoefening.
 
 Voorbeelden van taalonderwijs als algemeen vormend onderwijs zijn:
+
+- – taalonderwijs dat is gericht op het bijbrengen van basistaalvaardigheid in het Nederlands (niveau eind basisonderwijs) aan on- of laaggeletterden om zo de participatie van personen in het maatschappelijk leven en op de arbeidsmarkt te bevorderen;
+
+- – taalonderwijs dat wordt verzorgd in het kader van zogenoemde inburgeringscursussen en cursussen voor naturalisatie. Dit onderwijs is gericht op nieuwkomers in Nederland en heeft tot doel de cursisten een basistaalvaardigheid mee te geven zodat zij in de Nederlandse maatschappij – onder meer op de arbeidsmarkt – kunnen functioneren.
 
 ### 9.2. Taalonderwijs dat rechtstreeks verband houdt met een vak of beroep
 
@@ -169,7 +238,7 @@ De vrijstelling voor onderwijs in beeldende vorming ziet op het onderwijs in tek
 
 ### 10.2. Peildatum voor leeftijdsgrens van 21 jaar
 
-Het moment waarop de cursus begint, geldt als peildatum voor het beoordelen van de leeftijd van de cursist. Als de cursist tijdens de cursus 21 jaar wordt, blijft de onderwijsvrijstelling gelden onder voorwaarde dat de cursus maximaal een jaar duurt. Als de cursus langer duurt dan een jaar kan deze regeling ook worden toegepast onder voorwaarde dat de cursus is onderverdeeld in lesperiodes die niet langer zijn dan een jaar. De onderwijsvrijstelling is niet meer van toepassing na de lesperiode waarin de cursist 21 jaar is geworden.
+Het moment waarop de cursus begint, geldt als peildatum voor het beoordelen van de leeftijd van de cursist. Als de cursist tijdens de cursus 21 jaar wordt, blijft de onderwijsvrijstelling gelden onder voorwaarde dat de cursus maximaal een jaar duurt. Als de cursus langer duurt dan een jaar kan deze regeling ook worden toegepast onder voorwaarde dat de cursus is onderverdeeld in lesperiodes die niet langer zijn dan een jaar. De onderwijsvrijstelling is niet meer van toepassing na de lesperiode waarin de cursist 21 jaar is geworden.
 
 ### 11. Naschoolse lesprogramma’s
 
@@ -179,15 +248,25 @@ De onderwijsvrijstelling heeft geen betrekking op facultatief aangeboden naschoo
 
 In de onderdelen hierna keur ik met toepassing van [artikel 63 van de Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63)(de hardheidsclausule) voor bepaalde diensten onder voorwaarden goed dat de onderwijsvrijstelling van toepassing is.
 
+Voorwaarden
+
+- 1. De ondernemer ziet bij toepassing van de goedkeuring af van het recht op aftrek van voorbelasting.
+
+- 2. Bij toepassing van de goedkeuring zijn de in de [artikelen 11 tot en met 14 van de uitvoeringsbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=11) opgenomen herzieningsbepalingen van overeenkomstige toepassing.
+
 ### 12.1. Onderwijs in circustechnieken
 
-Het onderwijs in circustechnieken bevat elementen die nauw samenhangen met dans, drama en beeldende vorming of die daarvan zijn afgeleid. Voor onderwijs in dans, drama en beeldende vorming aan personen jonger dan 21 jaar geldt een vrijstelling (zie onderdeel 10 van dit besluit).
+Het onderwijs in circustechnieken bevat elementen die nauw samenhangen met dans, drama en beeldende vorming of die daarvan zijn afgeleid. Voor onderwijs in dans, drama en beeldende vorming aan personen jonger dan 21 jaar geldt een vrijstelling (zie [onderdeel 10](https://wetten.overheid.nl/BWBR0050769) van dit besluit).
+
+Goedkeuring
 
 Ik keur goed dat onderwijs in circustechnieken dat wordt gegeven aan personen jonger dan 21 jaar onder de onderwijsvrijstelling kan worden gebracht voor zover het lessen betreft in acrobatiek, jongleren, springen, trapeze, draadlopen, eenwielfietsen, clowntechnieken enz. Dit onderwijs bestaat uit een technisch gedeelte (circustechnieken) en een artistiek gedeelte (circusact).
 
 ### 12.2. Huiswerk- en/of studiebegeleiding
 
-Voor de btw-heffing moet onderscheid worden gemaakt tussen vakinhoudelijke begeleiding en niet-vakinhoudelijke begeleiding. De vakinhoudelijke begeleiding is (verplicht) vrijgesteld als de begeleiding plaatsvindt in het kader van het vrijgestelde onderwijs (zie [artikel 11, eerste lid, onderdeel o, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) in samenhang met [artikel 8, eerste lid, onderdeel d, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8)). De niet-vakinhoudelijke begeleiding (toezicht houden, bijbrengen van het gewenste studieritme, aanleren studiediscipline en dergelijke) is niet aan te merken als onderwijs als is bedoeld in artikel 11, eerste lid, onderdeel o, 2°, van de wet in samenhang met artikel 8, eerste lid, onderdeel d, van het besluit13Gerechtshof ’s-Hertogenbosch 24 februari 1989, ECLI:NL:GHSHE:1989:AW2396.. In de praktijk is het niet eenvoudig een scheiding aan te brengen tussen de niet-vakinhoudelijke begeleiding en de vakinhoudelijke begeleiding. Daarom keur ik uit praktische overwegingen het volgende goed.
+Voor de btw-heffing moet onderscheid worden gemaakt tussen vakinhoudelijke begeleiding en niet-vakinhoudelijke begeleiding. De vakinhoudelijke begeleiding is (verplicht) vrijgesteld als de begeleiding plaatsvindt in het kader van het vrijgestelde onderwijs (zie [artikel 11, eerste lid, onderdeel o, 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11) in samenhang met [artikel 8, eerste lid, onderdeel d, van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=8)). De niet-vakinhoudelijke begeleiding (toezicht houden, bijbrengen van het gewenste studieritme, aanleren studiediscipline en dergelijke) is niet aan te merken als onderwijs als is bedoeld in artikel 11, eerste lid, onderdeel o, 2°, van de wet in samenhang met artikel 8, eerste lid, onderdeel d, van het besluit13Gerechtshof ’s-Hertogenbosch 24 februari 1989, ECLI:NL:GHSHE:1989:AW2396.. In de praktijk is het niet eenvoudig een scheiding aan te brengen tussen de niet-vakinhoudelijke begeleiding en de vakinhoudelijke begeleiding. Daarom keur ik uit praktische overwegingen het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat niet-vakinhoudelijke huiswerk- of studiebegeleiding is vrijgesteld van btw-heffing.
 
@@ -197,13 +276,19 @@ Scriptiebegeleiding ter zake van een scriptie die wordt geschreven in het kader 
 
 Remedial teaching heeft vooral ten doel leerachterstanden en leerproblemen bij leerlingen in het basis- en voortgezet onderwijs te behandelen. Het gaat hier bijvoorbeeld om leerachterstanden en leerproblemen die optreden als gevolg van bijvoorbeeld dyslexie, ADHD of motorische stoornissen. Via remedial teaching leren de leerlingen een manier om met de in het onderwijs aangeboden lesstof om te gaan. Remedial teachers zijn zowel op zelfstandige basis als in loondienst werkzaam bij scholen, schoolbegeleidingsdiensten en samenwerkingsverbanden van scholen. Als scholen, schoolbegeleidingsdiensten of samenwerkingsverbanden van scholen remedial teaching verstrekken, loopt deze prestatie mee met de vrijstelling die geldt voor die instellingen ([artikel 11, eerste lid, onderdelen f, o of u, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11)).
 
+Goedkeuring
+
 Om verstoring van concurrentieverhoudingen te voorkomen, keur ik onder de volgende voorwaarde goed dat remedial teaching die wordt verzorgd door op zelfstandige basis werkzame ondernemers is vrijgesteld van btw-heffing.
+
+Voorwaarde
 
 De remedial teaching wordt verstrekt in directe samenhang met het primair- en voortgezet onderwijs. Dat betekent dat bij de remedial teaching die stof wordt gerepeteerd die op de school/in de klas wordt gedoceerd. In alle andere gevallen is remedial teaching belast.
 
 ### 12.4. Sportcursussen
 
 De georganiseerde sportwereld, dat wil zeggen de in verenigingsverband georganiseerde takken van sport, verzorgt sportcursussen voor de binnen de sportwereld werkzame vrijwilligers en (semi-)professionals. Deze cursussen bestaan uit sporttechnische en niet-sporttechnische cursussen. Sporttechnische cursussen hebben ten doel trainers, coaches, leraren of instructeurs kennis en vaardigheden bij te brengen met betrekking tot het les geven en leiding geven aan sportbeoefenaren. Niet-sporttechnische cursussen zijn gericht op het bijbrengen van kennis en vaardigheden voor de overige functies die verband houden met sportbeoefening. Te denken valt aan de functie van scheidsrechter, jurylid, materiaalbeheerder en bestuurslid van een sportvereniging. Daarnaast komen ook cursussen met een meer algemeen karakter voor. Het gaat dan bijvoorbeeld om management-, marketing- en sponsoringcursussen. Als de sportcursussen (zowel de technische als de niet-technische) worden verzorgd voor binnen de sportwereld werkzame professionals zijn het beroepsopleidingen en is de vrijstelling van toepassing als de instelling die het onderwijs verzorgt, is ingeschreven in het CRKBO.
+
+Goedkeuring
 
 Op grond van praktische overwegingen keur ik goed dat cursussen met een algemeen karakter zoals management-, marketing- en sponsoringcursussen, die worden verzorgd voor binnen de georganiseerde sportwereld werkzame vrijwilligers en semi-professionals, zijn vrijgesteld van btw-heffing.
 
@@ -213,7 +298,11 @@ Op grond van praktische overwegingen keur ik goed dat cursussen met een algemeen
 
 Ondernemers of samenwerkingsvormen van ondernemers verzorgen praktijkopleidingen voor de bij hen in dienst zijnde werknemers.
 
+Goedkeuring
+
 Ik keur onder voorwaarde goed dat de hiervoor genoemde praktijkopleidingen verzorgd door ondernemers of samenwerkingsvormen daarvan niet leiden tot btw-heffing over de eventueel daarvoor ontvangen bedragen.
+
+Voorwaarde
 
 Op de praktijkopleidingen betrekking hebbende voorbelasting komt uitsluitend voor aftrek in aanmerking voor zover de overige door de ondernemer verrichte prestaties leiden tot aftrek van voorbelasting. Deze faciliteit is gegeven vanwege het typisch interne karakter van de praktijkopleiding en vanwege het bedrijfs(tak)belang van de werkgever dat door het verstrekken van het onderwijs is gediend. Als sprake is van een samenwerkingsvorm waarin naast ondernemers ook werknemersorganisaties zijn vertegenwoordigd, staat dat op zichzelf niet in de weg aan de toepassing van de faciliteit.
 
@@ -221,11 +310,19 @@ De faciliteit geldt niet als de praktijkopleidingen worden verzorgd door instell
 
 ### 12.5.2. Praktijkopleiding langdurig werklozen
 
-Ondernemers stellen langdurig werklozen in de gelegenheid om een praktijkopleiding te volgen en nemen hen, als de opleiding met goed gevolg is voltooid, in dienst. Tijdens de opleiding bestaat er nog geen loondienstverhouding met de ondernemer maar bij de aanvang van de opleiding wordt wel een arbeidscontract gesloten dat in werking treedt na voltooiing van de opleiding. De hiervoor in onderdeel 12.5.1. bedoelde faciliteit mag op overeenkomstige wijze worden toegepast op de opleiding van langdurig werklozen, mits is voldaan aan de volgende voorwaarden:
+Ondernemers stellen langdurig werklozen in de gelegenheid om een praktijkopleiding te volgen en nemen hen, als de opleiding met goed gevolg is voltooid, in dienst. Tijdens de opleiding bestaat er nog geen loondienstverhouding met de ondernemer maar bij de aanvang van de opleiding wordt wel een arbeidscontract gesloten dat in werking treedt na voltooiing van de opleiding. De hiervoor in [onderdeel 12.5.1.](https://wetten.overheid.nl/BWBR0050769) bedoelde faciliteit mag op overeenkomstige wijze worden toegepast op de opleiding van langdurig werklozen, mits is voldaan aan de volgende voorwaarden:
+
+- 1. de sollicitatieprocedure bij de ondernemer die de werkloze opleidt, is voor de aanvang van de opleiding voltooid en moet hebben geresulteerd in een arbeidscontract;
+
+- 2. het gesloten arbeidscontract, dat pas na voltooiing van de opleiding in werking treedt, bevat geen voor de bedrijfstak ongebruikelijke beperkingen;
+
+- 3. de werkloze handelt tijdens de opleiding naar cliënten toe alleen in opdracht, dat wil zeggen voor rekening en risico, van de ondernemer; en
+
+- 4. overigens is voldaan aan de in [onderdeel 12.5.1.](https://wetten.overheid.nl/BWBR0050769) opgenomen voorwaarden.
 
 ### 12.5.3. Samenwerkingsvormen van ondernemers
 
-De hiervoor in onderdeel 12.5.1 gebruikte terminologie ‘samenwerkingsvormen van ondernemers’ heeft in het bijzonder betrekking op samenwerkingsverbanden van ondernemers die mede invulling geven aan de beroepspraktijkvorming binnen het beroepsonderwijs.
+De hiervoor in [onderdeel 12.5.1](https://wetten.overheid.nl/BWBR0050769) gebruikte terminologie ‘samenwerkingsvormen van ondernemers’ heeft in het bijzonder betrekking op samenwerkingsverbanden van ondernemers die mede invulling geven aan de beroepspraktijkvorming binnen het beroepsonderwijs.
 
 Beroepsopleidingen combineren leren op school met leren en werken in de praktijk (de beroepspraktijkvorming). Het theoretische deel van een beroepsopleiding wordt verzorgd door reguliere onderwijsinstellingen (zoals een VMBO, een ROC of een HBO). Binnen de beroepsopleidingen zijn er verschillende varianten waarin in meer of mindere mate in de praktijk wordt gewerkt. De beroepspraktijkvorming wordt verzorgd door individuele ondernemers en/of samenwerkingsverbanden van ondernemers. Er zijn varianten waar de beroepspraktijkvorming veruit het belangrijkste deel van de opleiding vormt (zo’n vier dagen per week), bijvoorbeeld bij de beroepsbegeleidende leerweg (BBL). De leerling heeft een arbeidsovereenkomst met de ondernemer of het samenwerkingsverband van ondernemers waar de beroepspraktijkvorming wordt genoten. Die arbeidsovereenkomst vormt een onlosmakelijk deel van de in het kader van [artikel 7.2.9 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.9) af te sluiten praktijkovereenkomst tussen een onderwijsinstelling, de individuele werkgever of het samenwerkingsverband van ondernemers, en de leerling/werknemer. Tijdens het volgen van het beroepsonderwijs is een dergelijke leerling/werknemer dus in loondienst van een ondernemer of een samenwerkingsverband van ondernemers.
 
@@ -233,12 +330,14 @@ In de praktijk komt het voor dat de leerlingen/werknemers in dienst zijn bij de 
 
 De samenwerkingsverbanden verrichten verder activiteiten ten aanzien van de beroepspraktijkvorming die, wanneer de samenwerkingsverbanden niet bestonden, verricht zouden worden door de individuele ondernemer. Deze activiteiten bestaan onder meer uit het geven van praktijkonderwijs, het werven van de leerlingen/werknemers, het in dienst nemen van de werknemers bij het samenwerkingsverband, het matchen van bedrijven/leermeesters en werknemers/leerlingen, het afnemen van praktijktoetsen en het zelf optreden als leerbedrijf als er geen geschikt leerbedrijf is.
 
-De samenwerkingsverbanden geven samen met verschillende individuele ondernemers feitelijk vorm aan de praktische invulling van het beroepsonderwijs c.q. de beroepspraktijkvorming. Voor zover de samenwerkingsverbanden van ondernemers zijn gericht op de praktische invulling van de beroepspraktijkvorming en ze overigens aan de in de onderdelen 12.5.1. en 12.5.2. genoemde voorwaarden voldoen, kunnen de in die paragrafen bedoelde faciliteiten worden toegepast.
+De samenwerkingsverbanden geven samen met verschillende individuele ondernemers feitelijk vorm aan de praktische invulling van het beroepsonderwijs c.q. de beroepspraktijkvorming. Voor zover de samenwerkingsverbanden van ondernemers zijn gericht op de praktische invulling van de beroepspraktijkvorming en ze overigens aan de in de [onderdelen 12.5.1.](https://wetten.overheid.nl/BWBR0050769) en [12.5.2.](https://wetten.overheid.nl/BWBR0050769) genoemde voorwaarden voldoen, kunnen de in die paragrafen bedoelde faciliteiten worden toegepast.
 
 ### 13. Ingetrokken regeling
 
-Het besluit ‘[Omzetbelasting, vrijstellingen, onderwijsvrijstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0035434)’ van 30 juli 2014 (nr. BLKB/2014/125M) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
+Het besluit ‘[Omzetbelasting, vrijstellingen, onderwijsvrijstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0035434)’ van 30 juli 2014 (nr. BLKB/2014/125M) is ingetrokken met ingang van de inwerkingtreding van dit besluit.
 
 ### 14. Inwerkingtreding
 
-Dit besluit wordt in de Staatscourant gepubliceerd.
+- 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+
+- 2. Dit besluit kan worden aangehaald als: Besluit onderwijsvrijstelling omzetbelasting.

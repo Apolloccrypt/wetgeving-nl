@@ -1,41 +1,17 @@
 ---
 title: "Regeling Open Oproep"
 identifier: "BWBR0050825"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-19"
-last_updated: "2025-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050825"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17379943"
-version_id: "30639032"
-internal_id: "C43920691"
-label_id: "17283254"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050825/2025-02-19/0"
-intitule_bron: "Stcrt.2025-7748"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-02-05"
-intitule_published: "2025-03-05"
-intitule_in_force: "2025-03-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-7748"
-original_signed_date: "2025-02-05"
-original_published_date: "2025-03-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-7748"
-entry_into_force_date: "2025-02-19"
-jci_1_3: "jci1.3:c:BWBR0050825&z=2025-02-19&g=2025-02-19"
-jci_1_0: "1.0:c:BWBR0050825&g=2025-02-19"
-citeertitel_status: "officieel"
-signed_date: "2025-02-05"
-entry_into_force: "2025-02-19"
+publicatiedatum: 2025-02-19
+laatste_update: 2025-02-19
+status: geldig
+toestand: 2025-02-19
+bron: "https://wetten.overheid.nl/BWBR0050825"
+opgehaald: 2026-09-07
 ---
-# Regeling Open Oproep
 
-Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), besluit vast te stellen de navolgende regeling, houdende regels voor het verstrekken van subsidies aan makers en partijen voor de uitvoering van projecten ter bevordering van de kwaliteit van de creatieve industrie.
+# Regeling Open Oproep
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -43,49 +19,49 @@ Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [ar
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Binnen deze regeling wordt verstaan onder:
 
-- 1. **aanvrager:** een natuurlijke persoon of rechtspersoon die op grond van deze regeling een subsidieaanvraag doet bij het Stimuleringsfonds.
+- 1. *aanvrager:* een natuurlijke persoon of rechtspersoon die op grond van deze regeling een subsidieaanvraag doet bij het Stimuleringsfonds.
 
-- 2. **adviescommissie:** een onafhankelijke, door het bestuur aangestelde commissie van externe deskundigen.
+- 2. *adviescommissie:* een onafhankelijke, door het bestuur aangestelde commissie van externe deskundigen.
 
-- 3. **beschikking:** de brief waarmee het bestuur formeel besluit over het al dan niet toekennen van de subsidie.
+- 3. *beschikking:* de brief waarmee het bestuur formeel besluit over het al dan niet toekennen van de subsidie.
 
-- 4. **beschikkingsdatum:** de datum zoals vermeld op de beschikking;
+- 4. *beschikkingsdatum:* de datum zoals vermeld op de beschikking;
 
-- 5. **beschouwer:** een schrijver, programmamaker of curator wiens werkzaamheden zich verhouden tot de creatieve industrie.
+- 5. *beschouwer:* een schrijver, programmamaker of curator wiens werkzaamheden zich verhouden tot de creatieve industrie.
 
-- 6. **bestuur:** de bestuurder van het Stimuleringsfonds, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050825&hoofdstuk=2&artikel=5&z=2025-02-19&g=2025-02-19) van de statuten.
+- 6. *bestuur:* de bestuurder van het Stimuleringsfonds, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050825&hoofdstuk=2&artikel=5&z=2025-02-19&g=2025-02-19) van de statuten.
 
-- 7. **cofinanciering:** aanvullende financiering voor het project in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of bijdrage van een externe partij, naast de gevraagde subsidie van het Stimuleringsfonds. Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering.
+- 7. *cofinanciering:* aanvullende financiering voor het project in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of bijdrage van een externe partij, naast de gevraagde subsidie van het Stimuleringsfonds. Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering.
 
-- 8. **creatieve industrie:** het werkterrein van de disciplines vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze disciplines.
+- 8. *creatieve industrie:* het werkterrein van de disciplines vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze disciplines.
 
-- 9. **culturele instelling of -organisatie:** een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, een platform of een presentatieplek.
+- 9. *culturele instelling of -organisatie:* een non-profit-, privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie zoals een lab of werkplaats, een platform of een presentatieplek.
 
-- 10. **het Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- 10. *het Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- 11. **ontwerpbureau:** een collectief of groep van professionele ontwerpers of makers die zich binnen een bureau of studio beroepsmatig hebben georganiseerd en zich positioneren binnen de creatieve industrie.
+- 11. *ontwerpbureau:* een collectief of groep van professionele ontwerpers of makers die zich binnen een bureau of studio beroepsmatig hebben georganiseerd en zich positioneren binnen de creatieve industrie.
 
-- 12. **ontwerper:** een architect, stedenbouwer, planoloog, vormgever of maker die zich beroepsmatig positioneert binnen de creatieve industrie.
+- 12. *ontwerper:* een architect, stedenbouwer, planoloog, vormgever of maker die zich beroepsmatig positioneert binnen de creatieve industrie.
 
-- 13. **open oproep:** een procedure waarmee het Stimuleringsfonds incidentele subsidies kan verstrekken binnen zijn taakstelling, gericht op een specifieke doelstelling of binnen een bepaalde thematiek, in een afgebakende periode en met een vooraf vastgesteld subsidieplafond.
+- 13. *open oproep:* een procedure waarmee het Stimuleringsfonds incidentele subsidies kan verstrekken binnen zijn taakstelling, gericht op een specifieke doelstelling of binnen een bepaalde thematiek, in een afgebakende periode en met een vooraf vastgesteld subsidieplafond.
 
-- 14. **producent:** een rechtspersoon die bedrijfsmatig zorgdraagt voor de ontwikkeling, coördinatie en productie van (media)producties zoals (animatie)films of andersoortige AV-producten en vanuit die rol namens een maker als aanvrager optreedt.
+- 14. *producent:* een rechtspersoon die bedrijfsmatig zorgdraagt voor de ontwikkeling, coördinatie en productie van (media)producties zoals (animatie)films of andersoortige AV-producten en vanuit die rol namens een maker als aanvrager optreedt.
 
-- 15. **project:** alle werkzaamheden voor een op zichzelf staande, concreet omschreven activiteit, afgebakend in tijd en doel.
+- 15. *project:* alle werkzaamheden voor een op zichzelf staande, concreet omschreven activiteit, afgebakend in tijd en doel.
 
-- 16. **Stimuleringsfonds:** de stichting Stimuleringsfonds Creatieve Industrie.
+- 16. *Stimuleringsfonds:* de stichting Stimuleringsfonds Creatieve Industrie.
 
-- 17. **subsidiebehoefte:** het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten min de cofinanciering en eventuele eigen bijdragen.
+- 17. *subsidiebehoefte:* het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten min de cofinanciering en eventuele eigen bijdragen.
 
-- 18. **subsidieplafond:** het maximaal voor subsidies beschikbare bedrag binnen een subsidietijdvak.
+- 18. *subsidieplafond:* het maximaal voor subsidies beschikbare bedrag binnen een subsidietijdvak.
 
-- 19. **uitgeverij:** een rechtspersoon die bedrijfsmatig zorgdraagt voor het ontwikkelen, (laten)produceren en distribueren van boeken of andersoortige publicaties en vanuit die rol namens een auteur of maker als aanvrager optreedt.
+- 19. *uitgeverij:* een rechtspersoon die bedrijfsmatig zorgdraagt voor het ontwikkelen, (laten)produceren en distribueren van boeken of andersoortige publicaties en vanuit die rol namens een auteur of maker als aanvrager optreedt.
 
-- 20. **vakgebied architectuur:** tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw en ruimtelijke ordening, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
+- 20. *vakgebied architectuur:* tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw en ruimtelijke ordening, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
-- 21. **vakgebied digitale cultuur:** tot het vakgebied digitale cultuur wordt gerekend: ontwerp in relatie tot nieuwe media en -technologieën, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanisme, internetcultuur, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
+- 21. *vakgebied digitale cultuur:* tot het vakgebied digitale cultuur wordt gerekend: ontwerp in relatie tot nieuwe media en -technologieën, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanisme, internetcultuur, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
-- 22. **vakgebied vormgeving:** het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
+- 22. *vakgebied vormgeving:* het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
 ##### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
@@ -143,11 +119,11 @@ De open oproep wordt minimaal vier weken voor sluitingsdatum gepubliceerd op [ww
 
 3. Er wordt geen subsidie verleend aan of voor:
 
-- –. medewerkers van het fonds;
+- – medewerkers van het fonds;
 
-- –. leden van de Raad van Toezicht en het bestuur van het fonds;
+- – leden van de Raad van Toezicht en het bestuur van het fonds;
 
-- –. een aanvrager die lid is van de adviescommissie die aanvragen voor de betreffende subsidie beoordeelt.
+- – een aanvrager die lid is van de adviescommissie die aanvragen voor de betreffende subsidie beoordeelt.
 
 ##### Artikel 6. Ingangseisen met betrekking tot de aanvraag
 
@@ -183,9 +159,9 @@ De open oproep wordt minimaal vier weken voor sluitingsdatum gepubliceerd op [ww
 
 3. In het kader van Europese wet- en regelgeving ten aanzien van staatssteun geldt tevens dat voor aanvragers die kunnen worden beschouwd als onderneming subsidie op grond van deze regeling wordt geweigerd als:
 
-- a. ten aanzien van de aanvrager een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene [groepsvrijstellingsverordening 651/2014](32014R0651);
+- a. ten aanzien van de aanvrager een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene groepsvrijstellingsverordening 651/2014;
 
-- b. de aanvrager kan worden gekwalificeerd als een onderneming in moeilijkheden als bedoeld in artikel 2, onder 18 en artikel 1, vierde lid, onder c, van de algemene [groepsvrijstellingsverordening 651/2014](32014R0651).
+- b. de aanvrager kan worden gekwalificeerd als een onderneming in moeilijkheden als bedoeld in artikel 2, onder 18 en artikel 1, vierde lid, onder c, van de algemene groepsvrijstellingsverordening 651/2014.
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
@@ -257,11 +233,11 @@ De open oproep wordt minimaal vier weken voor sluitingsdatum gepubliceerd op [ww
 
 - d. als aanvragen in de ranglijst gelijk eindigen op basis van de scores en het subsidieplafond wordt met deze aanvragen bereikt, wordt binnen deze aanvragen prioriteit gegeven aan de aanvragen die het meeste bijdragen aan de diversiteit binnen de geselecteerde aanvragen. De adviescommissie kent hiervoor, in dat geval, een aparte score toe en betrekt daarin:
 
-- –. de discipline waarbinnen de aanvrager zich positioneert;
+   - – de discipline waarbinnen de aanvrager zich positioneert;
 
-- –. culturele diversiteit; en
+   - – culturele diversiteit; en
 
-- –. regionale spreiding.
+   - – regionale spreiding.
 
 - e. aan de aanvrager bij wie toekenning zou leiden tot overschrijding van het subsidieplafond wordt het bedrag toegekend dat resteert tot aan het subsidieplafond, mits dit ten minste 50% van het aangevraagde bedrag is. In het geval het resterende beschikbare bedrag tot aan het subsidieplafond lager is dan 50% van het aangevraagde bedrag, dan wordt de aanvraag afgewezen.
 
@@ -289,9 +265,9 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door de Minister van 
 
 ##### Artikel 15. Voorschotten
 
-1. Het Stimuleringsfonds betaalt in het geval van een besluit tot verlening van een subsidie tot en met € 10.000 van het subsidiebedrag 100% in één keer uit. De subsidie wordt in dat geval direct vastgesteld.
+1. Het Stimuleringsfonds betaalt in het geval van een besluit tot verlening van een subsidie tot en met € 10.000 van het subsidiebedrag 100% in één keer uit. De subsidie wordt in dat geval direct vastgesteld.
 
-2. Het Stimuleringsfonds betaalt in het geval van een besluit tot verlening van een subsidie van meer dan € 10.000, bij wijze van voorschot 80% uit van het toegekende bedrag. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie aan het einde van de subsidieperiode, tenzij de subsidie bij het besluit tot vaststelling lager wordt vastgesteld.
+2. Het Stimuleringsfonds betaalt in het geval van een besluit tot verlening van een subsidie van meer dan € 10.000, bij wijze van voorschot 80% uit van het toegekende bedrag. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie aan het einde van de subsidieperiode, tenzij de subsidie bij het besluit tot vaststelling lager wordt vastgesteld.
 
 3. In voorkomende gevallen kan een ander ritme in de bevoorschotting of fasering van de betaling worden aangehouden. In dat geval wordt dit expliciet vermeld in de tekst van de open oproep.
 
@@ -397,12 +373,10 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 ##### Artikel 26. Inwerkingtreding en expiratie
 
-1. Deze regeling treedt in werking met ingang van 19 februari 2025.
+1. Deze regeling treedt in werking met ingang van 19 februari 2025.
 
 2. Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
 ##### Artikel 27. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Open Oproep.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

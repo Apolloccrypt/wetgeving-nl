@@ -1,100 +1,76 @@
 ---
 title: "Regeling van het bestuur van de Kansspelautoriteit van 3 september 2024, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Ksa 2024)"
+citeertitel: "Beheerregeling DI Ksa 2024"
 identifier: "BWBR0050268"
-country: "nl"
-rank: "zbo"
-publication_date: "2024-10-09"
-last_updated: "2024-10-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050268"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17235023"
-version_id: "30354472"
-internal_id: "C43711001"
-label_id: "17140954"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050268/2024-10-09/0"
-intitule_bron: "Stcrt.2024-32411"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-03"
-intitule_published: "2024-10-08"
-intitule_in_force: "2024-10-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-32411"
-original_signed_date: "2024-09-03"
-original_published_date: "2024-10-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-32411"
-entry_into_force_date: "2024-10-09"
-jci_1_3: "jci1.3:c:BWBR0050268&z=2024-10-09&g=2024-10-09"
-jci_1_0: "1.0:c:BWBR0050268&g=2024-10-09"
-citeertitel_status: "officieel"
-short_title: "Beheerregeling DI Ksa 2024"
-signed_date: "2024-09-03"
-entry_into_force: "2024-10-09"
+publicatiedatum: 2024-10-09
+laatste_update: 2024-10-09
+status: geldig
+toestand: 2024-10-09
+bron: "https://wetten.overheid.nl/BWBR0050268"
+opgehaald: 2026-09-07
 ---
+
 # Regeling van het bestuur van de Kansspelautoriteit van 3 september 2024, houdende de beheersregels voor documentaire informatie (Beheerregeling DI Ksa 2024)
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
-
-Besluit vast te stellen de navolgende beheerregeling:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepalingen
 
-- a. **Afdelingshoofd:** het hoofd van een afdeling binnen Kansspelautoriteit;
+- a. *Afdelingshoofd:* het hoofd van een afdeling binnen Kansspelautoriteit;
 
-- b. **Afgesloten archieven:** afgehandelde archieven die in het kader van de selectielijst wachten op vernietiging of overbrenging naar het Nationaal Archief;
+- b. *Afgesloten archieven:* afgehandelde archieven die in het kader van de selectielijst wachten op vernietiging of overbrenging naar het Nationaal Archief;
 
-- c. **CISO:** Chief Information Security Officer;
+- c. *CISO:* Chief Information Security Officer;
 
-- d. **Conversie:** de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
+- d. *Conversie:* de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
 
-- e. **Coördinator DIV:** een adviseur Bedrijfsvoering die deze specifieke rol in het takenpakket heeft
+- e. *Coördinator DIV:* een adviseur Bedrijfsvoering die deze specifieke rol in het takenpakket heeft
 
-- f. **Documentaire Informatie:**
+- f. *Documentaire Informatie:*
 
-- 1. alle documenten, ongeacht hun vorm, door de Kansspelautoriteit ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - 1. alle documenten, ongeacht hun vorm, door de Kansspelautoriteit ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- 2. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Kansspelautoriteit zijn overgegaan;
+   - 2. alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Kansspelautoriteit zijn overgegaan;
 
-- 3. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Kansspelautoriteit in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - 3. alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van de Kansspelautoriteit in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- 4. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
+   - 4. reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
 
-- g. **Dossier:** verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
+- g. *Dossier:* verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
 
-- h. **Duurzaam informatiebeheer:** informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de documenten deze nog zijn te raadplegen.
+- h. *Duurzaam informatiebeheer:* informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de documenten deze nog zijn te raadplegen.
 
-- i. **Functionaris gegevensbescherming:** de door de raad van bestuur benoemde persoon die op grond van artikel 37 van de AVG binnen de Kansspelautoriteit toezicht houdt op de toepassing en naleving van de privacywetgeving (AVG);
+- i. *Functionaris gegevensbescherming:* de door de raad van bestuur benoemde persoon die op grond van artikel 37 van de AVG binnen de Kansspelautoriteit toezicht houdt op de toepassing en naleving van de privacywetgeving (AVG);
 
-- j. **Kansspelautoriteit:** de Kansspelautoriteit als bedoeld in [artikel 33, eerste lid, van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
+- j. *Kansspelautoriteit:* de Kansspelautoriteit als bedoeld in [artikel 33, eerste lid, van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33).
 
-- k. **Migratie:** de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
+- k. *Migratie:* de overzetting van vastgelegde digitale documenten en toepassingsprogrammatuur naar een ander platform;
 
-- l. **Overbrenging:** het overbrengen van blijvend te bewaren documenten naar een archief bewaarplaats (Nationaal Archief);
+- l. *Overbrenging:* het overbrengen van blijvend te bewaren documenten naar een archief bewaarplaats (Nationaal Archief);
 
-- m. **Raad van bestuur:** raad van bestuur van de Kansspelautoriteit als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- m. *Raad van bestuur:* raad van bestuur van de Kansspelautoriteit als bedoeld in [artikel 33a van de Wok](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- n. **Selectie:** het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
+- n. *Selectie:* het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
 
-- o. **Selectielijst:** ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
+- o. *Selectielijst:* ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
 
-- p. **Vernietigingslijst:** een lijst van documenten/dossiers die vanwege het verstrijken van de bewaartermijn voor vernietiging in aanmerking komen. Van iedere vernietigingsslag wordt een vernietigingslijst gemaakt;
+- p. *Vernietigingslijst:* een lijst van documenten/dossiers die vanwege het verstrijken van de bewaartermijn voor vernietiging in aanmerking komen. Van iedere vernietigingsslag wordt een vernietigingslijst gemaakt;
 
-- q. **Vervanging:** gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
+- q. *Vervanging:* gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
 
-- r. **Vervreemding:** het overdragen van de zorg en het beheer van documenten aan een derde partij;
+- r. *Vervreemding:* het overdragen van de zorg en het beheer van documenten aan een derde partij;
 
-- s. **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+- s. *Woo:*
+ [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- t. **Wok:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469)
+- t. *Wok:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469)
 
-- u. **Zorg:** de bestuurlijke verantwoordelijkheid voor het in goede, geordende en duurzaam toegankelijke staat houden van de documentaire informatie;
+- u. *Zorg:* de bestuurlijke verantwoordelijkheid voor het in goede, geordende en duurzaam toegankelijke staat houden van de documentaire informatie;
 
-- v. **Zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
+- v. *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
 ##### Artikel 2. Reikwijdte
 

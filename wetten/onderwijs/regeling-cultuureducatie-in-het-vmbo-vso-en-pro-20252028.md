@@ -1,51 +1,17 @@
 ---
 title: "Regeling Cultuureducatie in het vmbo, vso en pro 2025–2028"
 identifier: "BWBR0050779"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-18"
-last_updated: "2025-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050779"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17368393"
-version_id: "30616592"
-internal_id: "C43882471"
-label_id: "17271684"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050779/2025-02-18/0"
-intitule_bron: "Stcrt.2025-4897"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-27"
-intitule_published: "2025-02-17"
-intitule_in_force: "2025-02-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-4897"
-original_signed_date: "2023-03-27"
-original_published_date: "2025-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-4897"
-entry_into_force_date: "2025-02-18"
-jci_1_3: "jci1.3:c:BWBR0050779&z=2025-02-18&g=2025-02-18"
-jci_1_0: "1.0:c:BWBR0050779&g=2025-02-18"
-citeertitel_status: "officieel"
-signed_date: "2023-03-27"
-entry_into_force: "2025-02-18"
+publicatiedatum: 2025-02-18
+laatste_update: 2025-02-18
+status: geldig
+toestand: 2025-02-18
+bron: "https://wetten.overheid.nl/BWBR0050779"
+opgehaald: 2026-09-07
 ---
+
 # Regeling Cultuureducatie in het vmbo, vso en pro 2025–2028
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de **Algemene wet bestuursrecht**;
-
-gelet op het **Algemeen Subsidiereglement** van het Fonds voor Cultuurparticipatie;
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2022;
-
-en voor de gewijzigde versie op 27 maart 2023;
-
-besluit:
 
 ### Hoofdstuk 1. - Algemene bepalingen
 
@@ -127,13 +93,13 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 - a. voor dezelfde activiteiten al subsidie is of zal worden verleend:
 
-- i. door het Fonds;
+   - i. door het Fonds;
 
-- ii. door een van de andere rijkscultuurfondsen;
+   - ii. door een van de andere rijkscultuurfondsen;
 
-- iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - iii. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - iv. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. de activiteiten of projecten waarvoor subsidie wordt gevraagd op het moment van de aanvraag al worden uitgevoerd;
 
@@ -193,7 +159,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 ##### Artikel 1.8. Indieningstermijnen
 
-1. Aanvragen op grond van deze regeling kunnen worden ingediend vanaf 17 februari 2025, 13.00 uur tot en met 29 maart 2028, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van deze regeling kunnen worden ingediend vanaf 17 februari 2025, 13.00 uur tot en met 29 maart 2028, 13.00 uur. De tijdsaanduiding betreft de tijd die geldt in het Europees deel van Nederland.
 
 2. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
@@ -209,9 +175,9 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 3. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt als moment van het indienen van de aanvraag.
 
-4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
+4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
 
-5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
+5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder de adviescommissie om advies te vragen.
 
@@ -219,13 +185,13 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 
 8. De aanvraag moet op alle beoordelingscriteria een voldoende scoren om voor subsidieverstrekking in aanmerking te komen, tenzij anders in deze regeling is bepaald.
 
-9. Op aanvragen tot € 25.000 wordt binnen uiterlijk acht weken beslist. Op aanvragen vanaf € 25.000 wordt binnen uiterlijk dertien weken beslist.
+9. Op aanvragen tot € 25.000 wordt binnen uiterlijk acht weken beslist. Op aanvragen vanaf € 25.000 wordt binnen uiterlijk dertien weken beslist.
 
 ##### Artikel 1.11. Voorschotten
 
-1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
 3. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaalt. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit.
 
@@ -238,6 +204,8 @@ Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier 
 2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. Verkenningen en projecten
+
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050779&hoofdstuk=1&z=2025-02-18&g=2025-02-18). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven. Op grond van dit hoofdstuk wordt uitsluitend subsidie verstrekt voor Verkenningen en Projecten.
 
 #### Paragraaf 1. Verkenningen
 
@@ -261,13 +229,13 @@ Subsidie kan worden aangevraagd voor het verkennen van een samenwerking tussen e
 
 Voor een project in deze paragraaf:
 
-- 1. wordt minimaal € 10.000 en maximaal € 25.000 aangevraagd; en
+- 1. wordt minimaal € 10.000 en maximaal € 25.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 100% van de totale projectkosten.
 
 ##### Artikel 2.4. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 2.553.915.
+Het subsidieplafond voor deze paragraaf is € 2.553.915.
 
 ##### Artikel 2.5. Beoordelingscriteria
 
@@ -329,13 +297,13 @@ In deze paragraaf kan een aanvraag worden ingediend voor het ontwikkelen en uitv
 
 Voor een project in deze paragraaf:
 
-- 1. wordt minimaal € 25.000 en maximaal € 65.000 aangevraagd; en
+- 1. wordt minimaal € 25.000 en maximaal € 65.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 100%.
 
 ##### Artikel 2.12. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf is € 3.830.872.
+Het subsidieplafond voor deze paragraaf is € 3.830.872.
 
 ##### Artikel 2.13. Beoordelingscriteria
 
@@ -349,7 +317,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria. In de toelicht
 
 ##### Artikel 2.14. Indieningstermijnen
 
-In afwijking van de bepalingen in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050779&hoofdstuk=1&artikel=1.8&z=2025-02-18&g=2025-02-18) is er in de periode van 1 december 2025 tot en met 1 maart 2026 en van 1 december 2026 tot en met 1 maart 2027 geen mogelijkheid om een aanvraag in te dienen.
+In afwijking van de bepalingen in [artikel 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050779&hoofdstuk=1&artikel=1.8&z=2025-02-18&g=2025-02-18) is er in de periode van 1 december 2025 tot en met 1 maart 2026 en van 1 december 2026 tot en met 1 maart 2027 geen mogelijkheid om een aanvraag in te dienen.
 
 ##### Artikel 2.15. Verplichtingen voor het indienen
 
@@ -387,7 +355,7 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alle
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
+2. Deze regeling vervalt met ingang van 31 december 2028. Deze regeling blijft van toepassing op gehonoreerde aanvragen en eventuele bezwaar- en beroepsprocedures die daaruit voortvloeien.
 
 ##### Artikel 3.3. Citeertitel
 

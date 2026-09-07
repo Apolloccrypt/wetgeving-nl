@@ -1,60 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 6 november 2024 nr. BOACAT2024/114, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente ’s-Hertogenbosch"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente 's-Hertogenbosch 2024"
 identifier: "BWBR0050411"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-15"
-last_updated: "2024-11-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050411"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17269213"
-version_id: "30415622"
-internal_id: "C43619001"
-label_id: "17174604"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050411/2024-11-15/0"
-intitule_bron: "Stcrt.2024-36962"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-06"
-intitule_published: "2024-11-14"
-intitule_in_force: "2024-11-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-36962"
-original_signed_date: "2024-11-06"
-original_published_date: "2024-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-36962"
-entry_into_force_date: "2024-11-15"
-jci_1_3: "jci1.3:c:BWBR0050411&z=2024-11-15&g=2024-11-15"
-jci_1_0: "1.0:c:BWBR0050411&g=2024-11-15"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar gemeente 's-Hertogenbosch 2024"
-signed_date: "2024-11-06"
-entry_into_force: "2024-11-15"
+publicatiedatum: 2024-11-15
+laatste_update: 2024-11-15
+status: geldig
+toestand: 2024-11-15
+bron: "https://wetten.overheid.nl/BWBR0050411"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 6 november 2024 nr. BOACAT2024/114, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente ’s-Hertogenbosch
-
-Gelezen het verzoek van gemeente ’s-Hertogenbosch van 21 oktober 2024 en de adviezen van de hoofdofficier van Justitie van het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [regeling domeinlijsten buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +24,7 @@ De personen, werkzaam in de functie van handhaver domein II in dienst van gemeen
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -88,7 +46,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1, 3 en 4 (vervoer
 
 ##### Artikel 7
 
-1. De gemeente 's-Hertogenbosch brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente 's-Hertogenbosch brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050411&artikel=2&z=2024-11-15&g=2024-11-15) genoemde functie;
 
@@ -111,5 +69,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente 's-Hertogenbosch 2024.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

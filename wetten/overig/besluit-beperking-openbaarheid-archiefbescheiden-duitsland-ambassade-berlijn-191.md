@@ -1,54 +1,26 @@
 ---
 title: "Besluit van de Minister van Buitenlandse Zaken van 28 oktober 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Duitsland, ambassade Berlijn, Besluit Beperking Openbaarheid Duitsland (1918) 1975–2013 (2014)"
+citeertitel: "Besluit beperking openbaarheid archiefbescheiden Duitsland, ambassade Berlijn (1918) 1975–2013 (2014)"
 identifier: "BWBR0050371"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-06"
-last_updated: "2024-11-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050371"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17260003"
-version_id: "30399242"
-internal_id: "C43589561"
-label_id: "17165534"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050371/2024-11-06/0"
-intitule_bron: "Stcrt.2024-35906"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-10-28"
-intitule_published: "2024-11-05"
-intitule_in_force: "2024-11-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-35906"
-original_signed_date: "2024-10-28"
-original_published_date: "2024-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-35906"
-entry_into_force_date: "2024-11-06"
-jci_1_3: "jci1.3:c:BWBR0050371&z=2024-11-06&g=2024-11-06"
-jci_1_0: "1.0:c:BWBR0050371&g=2024-11-06"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archiefbescheiden Duitsland, ambassade Berlijn (1918) 1975–2013 (2014)"
-signed_date: "2024-10-28"
-entry_into_force: "2024-11-06"
+publicatiedatum: 2024-11-06
+laatste_update: 2024-11-06
+status: geldig
+toestand: 2024-11-06
+bron: "https://wetten.overheid.nl/BWBR0050371"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de Minister van Buitenlandse Zaken van 28 oktober 2024, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in Duitsland, ambassade Berlijn, Besluit Beperking Openbaarheid Duitsland (1918) 1975–2013 (2014)
-
-Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
-
-Gelet op [artikel 15, eerste lid, onder a, b en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de rijksarchivaris d.d. 21 oktober 2024, referentie: Proza ID 47657001;
-
-Besluit
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
-|   |   |
+|  |  |
 | 4 | 2082 |
 | 6 | 2081 |
 | 7 | 2084 |
@@ -572,7 +544,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |
@@ -623,7 +595,7 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 
 ##### Artikel 3
 
-Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummer: | Opheffing beperking openbaarheid per 1 januari van het jaar: |
 | --- | --- |

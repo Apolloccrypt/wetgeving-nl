@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de directeur van de Dienst Identificatie en Screening Asielzoekers van het Ministerie van Justitie en Veiligheid van 1 januari 2025, nummer 5968335, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur ressorterende functionarissen (Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025)"
+citeertitel: "Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025"
 identifier: "BWBR0050655"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-01-08"
-last_updated: "2025-01-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050655"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17336333"
-version_id: "30550132"
-internal_id: "C43791361"
-label_id: "17240404"
-dtd_version: "2.0"
-original_entry_into_force: "2025-01-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050655/2025-01-08/0"
-intitule_bron: "Stcrt.2025-1264"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-01-01"
-intitule_published: "2025-01-07"
-intitule_in_force: "2025-01-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-1264"
-original_signed_date: "2025-01-01"
-original_published_date: "2025-01-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-1264"
-entry_into_force_date: "2025-01-08"
-jci_1_3: "jci1.3:c:BWBR0050655&z=2025-01-08&g=2025-01-08"
-jci_1_0: "1.0:c:BWBR0050655&g=2025-01-08"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025"
-signed_date: "2025-01-01"
-entry_into_force: "2025-01-08"
+publicatiedatum: 2025-01-08
+laatste_update: 2025-01-08
+status: geldig
+toestand: 2025-01-08
+bron: "https://wetten.overheid.nl/BWBR0050655"
+opgehaald: 2026-09-07
 ---
+
 # Besluit van de directeur van de Dienst Identificatie en Screening Asielzoekers van het Ministerie van Justitie en Veiligheid van 1 januari 2025, nummer 5968335, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan onder de directeur ressorterende functionarissen (Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025)
-
-gelet op [artikel 3 van het Mandaatbesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041519&artikel=3) en gelet op [artikel 1 van het Mandaatbesluit hoofden taakorganisaties Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0041699&artikel=1);
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -88,59 +62,8 @@ Aan de directeur blijft voorbehouden:
 
 ##### Artikel 7
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
 ##### Artikel 8
 
 Dit besluit wordt aangehaald als: Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025.
-
-## Bijlage 1. behorend bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=2&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
-
-De functionarissen bij wie in kolom 2 de letter A is geplaatst, zijn, onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-08) van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=5&z=2025-01-08&g=2025-01-08) van dit mandaatbesluit. De functionarissen bij wie in kolom 2 de letter B is geplaatst, zijn, onverminderd artikel 4 van dit besluit bevoegd tot uitoefening van alle bevoegdheden die in of krachtens de CAO Rijk aan de leidinggevende zijn toegekend, met uitzondering van de bevoegdheden tot het aangaan van een arbeidsovereenkomst, bevorderen naar een hogere salarisschaal, het opleggen van disciplinaire straffen en ordemaatregelen en beëindigen van een arbeidsovereenkomst alsmede het nemen van besluiten over de toekenning van een persoonsgebonden dienstauto.
-
-|   | kolom 1 | kolom 2 |
-| --- | --- | --- |
-|   | Aangewezen functionarissen | A/B |
-| 1 | directeur DISA | A |
-| 1.0 | plv. directeur DISA | A |
-| 1.1 | afdelingshoofd Bedrijfsuitvoering | A |
-| 1.2 | afdelingshoofd Uitvoering | A |
-| 1.2.1 | teamleider | B |
-
-## Bijlage 2. behorend bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=3&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
-
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met [artikel 3.3, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=3.3), tot het aangaan van verplichtingen en het doen van uitgaven.
-
-Indien in kolom 2 een bedrag is opgenomen betreft dit het maximumbedrag waarvoor de functionaris telkens een verplichting of uitgave mag doen.
-
-Indien in kolom 2 geen bedrag is opgenomen, geldt geen maximumbedrag.
-
-|   | kolom 1 | kolom 2 |
-| --- | --- | --- |
-|   | Aangewezen functionarissen ([artikel 22 CW. 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=22)) | Bedrag |
-| 1 | directeur DISA |   |
-| 1.0 | plv. directeur DISA |   |
-| 1.1 | afdelingshoofd Bedrijfsuitvoering | € 100.000 |
-| 1.2 | afdelingshoofd Uitvoering | € 100.000 |
-| 1.2.1 | teamleider | € 50.000 |
-
-## Bijlage 3. behorend bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&artikel=4&z=2025-01-08&g=2025-01-08) van het Mandaatbesluit DISA Ministerie van Justitie en Veiligheid 2025
-
-**Kolom 2 werkveld:**
-
-De functionarissen genoemd in kolom 1 zijn bevoegd in overeenstemming met de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) en de overige regelingen en overeenkomsten in relatie tot de vreemdelingenwetgeving, alsmede daaraan gerelateerde besluiten op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene verordening gegevensbescherming en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940) verzoeken om schadevergoeding en de behandeling van klachten, besluiten te nemen, stukken af te doen, uitgaande brieven te tekenen voortvloeiend uit hun taak alsmede de Minister van Asiel en Migratie1De taak waar DISA mee is belast, behoort tot de politieke verantwoordelijkheid van de Minister van Asiel en Migratie. Op basis van het uitgangspunt ‘twee ministeries, één apparaat’ is bij de oprichting van het ministerie er voor gekozen om het Ministerie van Asiel en Migratie zo veel mogelijk vanuit de organisatie van het Ministerie van Justitie en Veiligheid te bedienen. DISA wordt dan ook functioneel ingericht en georganiseerd bij het Ministerie van Justitie en Veiligheid, maar de Minister van Asiel en Migratie is en blijft politiek verantwoordelijk voor de organisatie en de taakuitoefening van DISA. in rechte te vertegenwoordigen en rechtsmiddelen in te stellen ten aanzien van alle aangelegenheden voortvloeiend uit hun taak. Daarbij inbegrepen het nemen van besluiten op grond van de Wet openbaarheid van bestuur.
-
-Daar waar in de kolom 2 geen X staat, is de functionaris voor die taken niet aangewezen.
-
-|   | kolom 1 | kolom 2 |
-| --- | --- | --- |
-|   | Aangewezen functionarissen | werkveld [VW 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) |
-| 1 | directeur DISA | x |
-| 1.0 | plv. directeur DISA | x |
-| 1.1 | afdelingshoofd Bedrijfsuitvoering | x |
-| 1.2 | afdelingshoofd Uitvoering | x |
-| 1.2.1 | teamleider | x |
-| 1.2.1.1 | medewerker behandelen en ontwikkelen | x |
-| 1.2.1.2 | medewerker verwerken en behandelen | x |
-
-Dit besluit zal met de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050655&bijlage=1&z=2025-01-08&g=2025-01-08) in de Staatscourant worden geplaatst.

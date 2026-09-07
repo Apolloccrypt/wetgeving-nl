@@ -1,52 +1,50 @@
 ---
-title: "Beleidsregels grote rivieren 2025"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat van 30 januari 2025, nr. IENW/BSK-2025/15528, tot vaststelling van de Beleidsregels grote rivieren 2025"
+citeertitel: "Beleidsregels grote rivieren 2025"
 identifier: "BWBR0050726"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "beleidsregel"
 publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0050726"
+opgehaald: 2026-09-07
 ---
 
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat van 30 januari 2025, nr. IENW/BSK-2025/15528, tot vaststelling van de Beleidsregels grote rivieren 2025
 
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 6.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29), [6.35](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35), [6.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.40), [6.54](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54) en [6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58);
-
-BESLUIT:
-
-#### Artikel 1. Definitiebepalingen
+##### Artikel 1. Definitiebepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **logiesfunctie:** logiesfunctie als bedoeld in [Bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- a. *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- b. **Minister:** Minister van Infrastructuur en Waterstaat;
+- b. *periodieke activiteiten:* activiteiten die meerdere jaren achter elkaar uitsluitend in een bepaald deel of bepaalde delen van het jaar plaatsvinden met een maximum van in totaal zeven maanden per jaar;
 
-- c. **periodieke activiteiten:** activiteiten die meerdere jaren achter elkaar uitsluitend in een bepaald deel of bepaalde delen van het jaar plaatsvinden met een maximum van in totaal zeven maanden per jaar;
+- c. *rivierbed:* de oppervlakte begrensd op grond van [artikel 2.8, eerste lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.8);
 
-- d. **rivierbed:** de oppervlakte begrensd op grond van [artikel 2.8, eerste lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.8);
+- d. *beperkingengebied in het rivierbed:* de oppervlakte begrensd op grond van [artikel 2.8, tweede lid, van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=2.8);
 
-- e. **riviergebonden activiteiten:** activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=4&z=2025-02-01&g=2025-02-01);
+- e. *riviergebonden activiteiten:* activiteiten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=4&z=2026-07-01&g=2026-07-01);
 
-- f. **tijdelijke activiteiten:** activiteiten die gedurende maximaal vijf jaar ononderbroken plaatsvinden;
+- f. *tijdelijke activiteiten:* activiteiten die gedurende maximaal vijf jaar ononderbroken plaatsvinden;
 
-- g. **toestemming:** toestemming vanuit rivierkundig oogpunt nodig voor het verkrijgen van een omgevingsvergunning;
+- g. *toestemming:* toestemming vanuit rivierkundig oogpunt nodig voor het verkrijgen van een omgevingsvergunning.
 
-- h. **woonfunctie:** woonfunctie als bedoeld in [Bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I).
+##### Artikel 2. Toepassingsbereik
 
-#### Artikel 2. Toepassingsbereik
+Deze beleidsregel is van toepassing op de aanvragen voor een omgevingsvergunning voor een beperkingengebiedactiviteit, bedoeld in de [artikelen 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29), [6.35](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35), [6.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.40), [6.54](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54) en [6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58), in samenhang met [artikel 8.84, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.84), voor beperkingengebiedactiviteiten met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk, die worden verricht in een beperkingengebied in het rivierbed.
 
-Deze beleidsregel is van toepassing op de aanvragen voor omgevingsvergunningen, bedoeld in de [artikelen 6.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.17), [6.29](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.29), [6.35](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.35), [6.40](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.40), [6.54](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.54) en [6.58 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.58), voor beperkingengebiedactiviteiten met betrekking tot een oppervlaktewaterlichaam in beheer bij het Rijk dat geen kanaal is, die worden verricht in een beperkingengebied in het rivierbed.
+##### Artikel 3. Activiteiten
 
-#### Artikel 3. Activiteiten
-
-1. Onverminderd het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2025-02-01&g=2025-02-01), wordt in elk geval toestemming gegeven voor de volgende activiteiten:
+1. Onverminderd het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2026-07-01&g=2026-07-01), wordt in elk geval toestemming gegeven voor de volgende activiteiten:
 
 - a. het slopen en vervangen van een bouwwerk door een bouwwerk van gelijke omvang, tenzij:
 
-- 1°. de gebruiksfunctie van het bouwwerk wijzigt naar woonfunctie of logiesfunctie; of
+   - 1°. de gebruiksfunctie van het bouwwerk wijzigt naar woonfunctie of naar logiesfunctie; of
 
-- 2°. de gebruiksfunctie van het bouwwerk wijzigt van een functie ten behoeve van een riviergebonden activiteit naar een functie ten behoeve van een niet-riviergebonden activiteit;
+   - 2°. de gebruiksfunctie van het bouwwerk wijzigt van een functie ten behoeve van een riviergebonden activiteit naar een functie ten behoeve van een niet-riviergebonden activiteit;
 
 - b. activiteiten die vanwege de aard en omvang naar het oordeel van de Minister van ondergeschikt belang zijn.
 
@@ -54,9 +52,9 @@ Deze beleidsregel is van toepassing op de aanvragen voor omgevingsvergunningen, 
 
 - a. een eenmalige uitbreiding van ten hoogste tien procent van het oppervlak en volume van een bouwwerk, tenzij:
 
-- 1°. de gebruiksfunctie van het bouwwerk wijzigt naar woonfunctie of logiesfunctie; of
+   - 1°. de gebruiksfunctie van het bouwwerk wijzigt naar woonfunctie of naar logiesfunctie; of
 
-- 2°. de gebruiksfunctie van het bouwwerk wijzigt van een functie ten behoeve van een riviergebonden activiteit naar een functie ten behoeve van een niet-riviergebonden activiteit.
+   - 2°. de gebruiksfunctie van het bouwwerk wijzigt van een functie ten behoeve van een riviergebonden activiteit naar een functie ten behoeve van een niet-riviergebonden activiteit.
 
 - b. het plaatsen van een in- of uitstroomvoorziening, mits de in- of uitstroomsnelheid maximaal 0,3 m/s bedraagt;
 
@@ -64,7 +62,7 @@ Deze beleidsregel is van toepassing op de aanvragen voor omgevingsvergunningen, 
 
 3. Het bouwen van een bouwwerk met een woonfunctie of logiesfunctie is geen activiteit als bedoeld in het eerste lid, onderdeel b, tenzij het een eenmalige uitbreiding van ten hoogste tien procent van het oppervlak en volume van een bouwwerk met een woonfunctie of logiesfunctie betreft.
 
-4. Onverminderd het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2025-02-01&g=2025-02-01), kan toestemming worden gegeven voor tijdelijke en periodieke activiteiten. Of toestemming wordt gegeven voor deze activiteiten, hangt af van:
+4. Onverminderd het bepaalde in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2026-07-01&g=2026-07-01), kan toestemming worden gegeven voor tijdelijke en periodieke activiteiten. Of toestemming wordt gegeven voor deze activiteiten, hangt af van:
 
 - a. de aard van de activiteit;
 
@@ -74,9 +72,9 @@ Deze beleidsregel is van toepassing op de aanvragen voor omgevingsvergunningen, 
 
 - d. het rivierkundig effect van de activiteit.
 
-#### Artikel 4. Riviergebonden activiteiten
+##### Artikel 4. Riviergebonden activiteiten
 
-Onverminderd het bepaalde in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2025-02-01&g=2025-02-01), wordt toestemming gegeven voor de volgende activiteiten:
+Onverminderd het bepaalde in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2026-07-01&g=2026-07-01), wordt toestemming gegeven voor de volgende activiteiten:
 
 - a. de aanleg of wijziging van een waterstaatkundig kunstwerk;
 
@@ -104,9 +102,9 @@ Onverminderd het bepaalde in [artikel 6, eerste en tweede lid](https://wetten.ov
 
 - m. de aanleg van een voorziening voor drinkwaterwinning en aquathermie.
 
-#### Artikel 5. Niet-riviergebonden activiteiten
+##### Artikel 5. Niet-riviergebonden activiteiten
 
-Voor niet-riviergebonden activiteiten wordt geen toestemming gegeven, tenzij, onverminderd het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2025-02-01&g=2025-02-01), sprake is van:
+Voor niet-riviergebonden activiteiten wordt geen toestemming gegeven, tenzij, onverminderd het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=6&z=2026-07-01&g=2026-07-01), sprake is van:
 
 - a. de aanleg van een voorziening van groot openbaar belang die redelijkerwijs niet buiten het rivierbed kan worden gerealiseerd;
 
@@ -116,9 +114,9 @@ Voor niet-riviergebonden activiteiten wordt geen toestemming gegeven, tenzij, on
 
 - d. de aanleg van een voorziening voor elektriciteitsopwekking door zonne- of windenergie die redelijkerwijs niet buiten het rivierbed kan worden gerealiseerd.
 
-#### Artikel 6. Voorwaarden toestemming
+##### Artikel 6. Voorwaarden toestemming
 
-1. Toestemming, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=3&z=2025-02-01&g=2025-02-01), wordt alleen gegeven indien:
+1. Toestemming, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=3&z=2026-07-01&g=2026-07-01), wordt alleen gegeven indien:
 
 - a. sprake is van een zodanige situering en uitvoering van de activiteit dat een veilig en doelmatig gebruik van de rivier gewaarborgd blijft;
 
@@ -128,15 +126,15 @@ Voor niet-riviergebonden activiteiten wordt geen toestemming gegeven, tenzij, on
 
 - d. resterende onvermijdbare waterstandsverhoging wordt gecompenseerd.
 
-2. Het eerste lid is van overeenkomstige toepassing voor het geven van toestemming als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=4&z=2025-02-01&g=2025-02-01) en [5, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=5&z=2025-02-01&g=2025-02-01), met dien verstande dat resterende onvermijdbare waterstandsverhoging of afname van het bergend vermogen wordt gecompenseerd en de financiering en tijdige realisering van de compenserende maatregelen gezekerd zijn.
+2. Het eerste lid is van overeenkomstige toepassing voor het geven van toestemming als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=4&z=2026-07-01&g=2026-07-01) en [5, aanhef en onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=5&z=2026-07-01&g=2026-07-01), met dien verstande dat resterende onvermijdbare waterstandsverhoging of afname van het bergend vermogen wordt gecompenseerd en de financiering en tijdige realisering van de compenserende maatregelen gezekerd zijn.
 
-3. Het eerste lid is van overeenkomstige toepassing voor het geven van toestemming als bedoeld in [artikel 5, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=5&z=2025-02-01&g=2025-02-01), met dien verstande dat de vergunning zal worden verleend voor een bepaalde termijn en resterende onvermijdbare waterstandsverhoging of afname van het bergend vermogen wordt gecompenseerd en de financiering en tijdige realisering van de compenserende maatregelen gezekerd zijn.
+3. Het eerste lid is van overeenkomstige toepassing voor het geven van toestemming als bedoeld in [artikel 5, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=5&z=2026-07-01&g=2026-07-01), met dien verstande dat de vergunning zal worden verleend voor een bepaalde termijn en resterende onvermijdbare waterstandsverhoging of afname van het bergend vermogen wordt gecompenseerd en de financiering en tijdige realisering van de compenserende maatregelen gezekerd zijn.
 
-#### Artikel 7. Overgangsrecht vergunning [artikel 6.12 Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12)
+##### Artikel 7. Overgangsrecht vergunning artikel 6.12 Waterbesluit
 
-Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) die vóór 1 juli 2018 onherroepelijk was en waaraan een toestemming ten grondslag ligt als bedoeld in [artikel 3, aanhef en onderdeel b, van de Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040&artikel=3), zoals die luidden vóór 1 juli 2018, blijft dat artikelonderdeel van die beleidsregels van toepassing voor wijzigingen van die vergunning.
+Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.12) die vóór 1 juli 2018 onherroepelijk was en waaraan een toestemming ten grondslag ligt als bedoeld in [artikel 3, aanhef en onderdeel b, van de Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040&artikel=3), zoals die luidden vóór 1 juli 2018, blijft dat artikelonderdeel van die beleidsregels van toepassing voor wijzigingen van die vergunning.
 
-#### Artikel 8. Overgangsrecht vergevorderde projecten
+##### Artikel 8. Overgangsrecht vergevorderde projecten
 
 1. Dit artikel is van toepassing op de volgende projecten:
 
@@ -164,11 +162,21 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 - l. Waterfront Moerdijk (gemeente Moerdijk);
 
-- m. projecten bestemmingsplannen De Vesting, Recreatie, Kanaalzicht en Heliushaven (gemeente Voorne aan Zee).
+- m. projecten bestemmingsplannen De Vesting, Recreatie, Kanaalzicht en Heliushaven (gemeente Voorne aan Zee);
 
-2. De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 april 2024, blijven van toepassing op aanvragen voor omgevingsvergunningen voor de realisatie van een project genoemd in het eerste lid, die zijn ingediend vóór 1 januari 2030.
+- n. Willemstad Hotel Havenfront (gemeente Moerdijk);
 
-#### Artikel 9. Overgangsrecht maatwerkprojecten
+- o. Gennepermolen (gemeente Gennep);
+
+- p. Woningbouwproject Maasplassen Stevensweert (gemeente Maasgouw);
+
+- q. Stadswerven Dordrecht (gemeente Dordrecht);
+
+- r. Realisatie woning Oude Kerkstraat 32 (gemeente Bergen).
+
+2. De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 april 2024, blijven van toepassing op aanvragen voor omgevingsvergunningen voor de realisatie van een project genoemd in het eerste lid, die zijn ingediend vóór 1 januari 2030.
+
+##### Artikel 9. Overgangsrecht maatwerkprojecten
 
 1. Dit artikel is van toepassing op de volgende projecten:
 
@@ -188,9 +196,11 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 - h. Veense Put (gemeente Altena);
 
-- i. Gebiedsontwikkeling Groene Rivier Well (gemeente Bergen).
+- i. Gebiedsontwikkeling Groene Rivier Well (gemeente Bergen);
 
-2. Deze beleidsregel is niet van toepassing op onderdelen van een project genoemd in het eerste lid, indien vóór 1 januari 2035:
+- j. Maatwerkafspraken Rotterdam Waterkant en Mallegat (gemeente Rotterdam).
+
+2. Deze beleidsregel is niet van toepassing op onderdelen van een project genoemd in het eerste lid, indien vóór 1 januari 2035:
 
 - a. maatwerkafspraken over die onderdelen van het project zijn gemaakt, en
 
@@ -198,7 +208,7 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 3. Voor de toepassing van het tweede lid, onderdeel a, wordt verstaan onder maatwerkafspraken: schriftelijke afspraken van de Minister met een of meer provincies, gemeenten of initiatiefnemers van een project of een onderdeel daarvan.
 
-#### Artikel 10. Overgangsrecht anticipatie wijziging rivierbed
+##### Artikel 10. Overgangsrecht anticipatie wijziging rivierbed
 
 1. Dit artikel is van toepassing op de volgende gebieden:
 
@@ -224,11 +234,11 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 - k. Gebied achter dijktraject 79-1 Thorn Wessem (gemeente Maasgouw).
 
-2. De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 april 2024, zijn van toepassing op aanvragen voor omgevingsvergunningen voor gebieden genoemd in het eerste lid.
+2. De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 april 2024, zijn van toepassing op aanvragen voor omgevingsvergunningen voor gebieden genoemd in het eerste lid.
 
 3. Het eerste en tweede lid zijn niet van toepassing vanaf het moment dat de in het eerste lid genoemde gebieden geen onderdeel meer uitmaken van het rivierbed.
 
-#### Artikel 11. Overgangsrecht maatwerk voormalige bijlage 2 projecten
+##### Artikel 11. Overgangsrecht maatwerk voormalige bijlage 2 projecten
 
 1. Dit artikel is van toepassing op de volgende projecten:
 
@@ -242,7 +252,7 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 - e. Resterende project(delen) van Uitwerkingsplan Antoniapolder (gemeente Hendrik-Ido-Ambacht).
 
-2. Deze beleidsregels zijn niet van toepassing op onderdelen van een project genoemd in het eerste lid, indien vóór 1 januari 2030:
+2. Deze beleidsregels zijn niet van toepassing op onderdelen van een project genoemd in het eerste lid, indien vóór 1 januari 2030:
 
 - a. maatwerkafspraken over die onderdelen van het project zijn gemaakt, en
 
@@ -250,20 +260,18 @@ Ten aanzien van een vergunning als bedoeld in [artikel 6.12 van het Waterbesluit
 
 3. Voor de toepassing van het tweede lid, onderdeel a, wordt verstaan onder maatwerkafspraken: schriftelijke afspraken van de Minister met een of meer provincies, gemeenten of initiatiefnemers van een project of een onderdeel daarvan.
 
-#### Artikel 12. Overgangsrecht aanvragen ingediend vóór 1 februari 2025
+##### Artikel 12. Overgangsrecht aanvragen ingediend vóór 1 februari 2025
 
-De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 februari 2025, blijven van toepassing op aanvragen die zijn ingediend vóór 1 februari 2025 waarop de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=7&z=2025-02-01&g=2025-02-01) niet van toepassing zijn.
+De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040), zoals die luidden vóór 1 februari 2025, blijven van toepassing op aanvragen die zijn ingediend vóór 1 februari 2025 waarop de [artikelen 7 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0050726&artikel=7&z=2026-07-01&g=2026-07-01) niet van toepassing zijn.
 
-#### Artikel 13. Intrekking
+##### Artikel 13. Intrekking
 
 De [Beleidsregels grote rivieren](https://wetten.overheid.nl/jci1.3:c:BWBR0020040) worden ingetrokken.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 februari 2025.
+Dit besluit treedt in werking op 1 februari 2025.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregels grote rivieren 2025.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

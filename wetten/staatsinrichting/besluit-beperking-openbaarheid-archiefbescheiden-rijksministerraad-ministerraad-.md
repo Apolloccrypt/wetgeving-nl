@@ -1,49 +1,21 @@
 ---
 title: "Besluit beperking openbaarheid archiefbescheiden rijksministerraad, ministerraad, onderraden en ministeriële commissies (1 januari 1999 – 1 januari 2000)"
 identifier: "BWBR0050421"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2024-11-16"
-last_updated: "2024-11-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050421"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17271653"
-version_id: "30419972"
-internal_id: "C43625011"
-label_id: "17176974"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050421/2024-11-16/0"
-intitule_bron: "Stcrt.2024-37690"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-08"
-intitule_published: "2024-11-15"
-intitule_in_force: "2024-11-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-37690"
-original_signed_date: "2024-11-08"
-original_published_date: "2024-11-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-37690"
-entry_into_force_date: "2024-11-16"
-jci_1_3: "jci1.3:c:BWBR0050421&z=2024-11-16&g=2024-11-16"
-jci_1_0: "1.0:c:BWBR0050421&g=2024-11-16"
-citeertitel_status: "redactioneel"
-signed_date: "2024-11-08"
-entry_into_force: "2024-11-16"
+publicatiedatum: 2024-11-16
+laatste_update: 2024-11-16
+status: geldig
+toestand: 2024-11-16
+bron: "https://wetten.overheid.nl/BWBR0050421"
+opgehaald: 2026-09-07
 ---
+
 # Besluit beperking openbaarheid archiefbescheiden rijksministerraad, ministerraad, onderraden en ministeriële commissies (1 januari 1999 – 1 januari 2000)
-
-Gelet op [artikel 15, lid 1, sub a en b Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 17 oktober 2024, met kenmerk 1339114.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van notulen en bescheiden van de rijksministerraad, de ministerraad, de onderraden en de ministeriële commissies, als bedoeld in de verklaring van overbrenging van de notulen en bescheiden van de ministerraad en onderraden (1 januari 1999 – 1 januari 2000).
 
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van nog levende personen. Op de stukken van de ministerraad en rijksministerraad is een beperking van de openbaarheid opgelegd van 75 jaar.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.Het gaat om inventarisnummers met o.a. bijzondere persoonsgegevens van nog levende personen. Op de stukken van de ministerraad en rijksministerraad is een beperking van de openbaarheid opgelegd van 75 jaar.
 
 | Inventarisnummers: | Beperkt openbaar tot 1 januari: |
 | --- | --- |
@@ -59,7 +31,7 @@ Een aantal van de bovengenoemde dossiers is ten behoeve van de toegankelijkheid 
 
 ##### Artikel 2
 
-Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Op het stuk van de ministerraad is een beperking van de openbaarheid opgelegd van 75 jaar.
+Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Op het stuk van de ministerraad is een beperking van de openbaarheid opgelegd van 75 jaar.
 
 | Inventarisnummers: | Beperkt openbaar tot 1 januari: |
 | --- | --- |

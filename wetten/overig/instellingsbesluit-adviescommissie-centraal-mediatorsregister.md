@@ -1,29 +1,29 @@
 ---
-title: "Instellingsbesluit Adviescommissie Centraal Mediatorsregister"
+title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 4 februari 2025, nr. 6074718, houdende instelling van de Adviescommissie Centraal Mediatorsregister (Instellingsbesluit Adviescommissie Centraal Mediatorsregister)"
+citeertitel: "Instellingsbesluit Adviescommissie Centraal Mediatorsregister"
 identifier: "BWBR0050754"
 categorie: "Overig"
-publicatiedatum: 2025-07-22
-laatste_update: 2026-05-01
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-02-11
+laatste_update: 2025-07-22
 status: vervallen
+vervallen_op: 2026-04-30
+toestand: 2025-07-22
 bron: "https://wetten.overheid.nl/BWBR0050754"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-07
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 4 februari 2025, nr. 6074718, houdende instelling van de Adviescommissie Centraal Mediatorsregister (Instellingsbesluit Adviescommissie Centraal Mediatorsregister)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. - Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** de Adviescommissie Centraal Mediatorsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22);
+- *commissie:* de Adviescommissie Centraal Mediatorsregister, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22);
 
-- **kwartiermaker:** de Kwartiermaker Centraal Mediatorsregister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=3&z=2025-07-22&g=2025-07-22);
+- *kwartiermaker:* de Kwartiermaker Centraal Mediatorsregister, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=3&z=2025-07-22&g=2025-07-22);
 
-- **minister:** Minister van Justitie en Veiligheid.
+- *minister:* Minister van Justitie en Veiligheid.
 
 ##### Artikel 2. - Instelling en taak
 
@@ -61,15 +61,15 @@ In deze regeling wordt verstaan onder:
 
 5. Tot kwartiermaker en voorzitter van de commissie wordt benoemd:
 
-- –. prof. dr. Stefaan Voet, hoofddocent gerechtelijk recht aan de Katholieke Universiteit Leuven.
+- – prof. dr. Stefaan Voet, hoofddocent gerechtelijk recht aan de Katholieke Universiteit Leuven.
 
 6. Tot lid van de commissie worden benoemd:
 
-- –. mr. Christel Schroten, voorzitter van de landelijke expertgroep maatwerk en mediation van de Rechtspraak en rechterlijk bestuurslid van de rechtbank Noord-Holland;
+- – mr. Christel Schroten, voorzitter van de landelijke expertgroep maatwerk en mediation van de Rechtspraak en rechterlijk bestuurslid van de rechtbank Noord-Holland;
 
-- –. mr. drs. Dominique Strörmann, lid van de Raad van Toezicht van Mediatorsfederatie Nederland en als mediator aangesloten bij het register van Mediatorsfederatie Nederland;
+- – mr. drs. Dominique Strörmann, lid van de Raad van Toezicht van Mediatorsfederatie Nederland en als mediator aangesloten bij het register van Mediatorsfederatie Nederland;
 
-- –. dr. mr. Marc Simon Thomas, universitair hoofddocent rechtssociologie aan de Universiteit Utrecht.
+- – dr. mr. Marc Simon Thomas, universitair hoofddocent rechtssociologie aan de Universiteit Utrecht.
 
 7. De kwartiermaker en de andere leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
@@ -111,7 +111,7 @@ De kwartiermaker voorziet in het secretariaat en wordt daarbij bijgestaan door d
 
 ##### Artikel 9. - Eindverslag
 
-1. De commissie brengt uiterlijk op 1 april 2026 het eindverslag uit, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22).
+1. De commissie brengt uiterlijk op 1 april 2026 het eindverslag uit, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22).
 
 2. De commissie kan tussentijds verslag uitbrengen.
 
@@ -129,10 +129,8 @@ Rapporten, notities, verslagen, adviezen en andere producten die door of namens 
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. Dit besluit vervalt vier weken na het uitbrengen van het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22), en uiterlijk met ingang van 1 mei 2026.
+2. Dit besluit vervalt vier weken na het uitbrengen van het eindverslag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050754&artikel=2&z=2025-07-22&g=2025-07-22), en uiterlijk met ingang van 1 mei 2026.
 
 ##### Artikel 13. - Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Centraal Mediatorsregister.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

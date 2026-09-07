@@ -1,42 +1,17 @@
 ---
 title: "Klachtenreglement NWO 2025"
 identifier: "BWBR0050728"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-02-01"
-last_updated: "2025-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050728"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17357953"
-version_id: "30594952"
-internal_id: "C43852351"
-label_id: "17260924"
-dtd_version: "2.0"
-original_entry_into_force: "2025-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050728/2025-02-01/0"
-intitule_bron: "Stcrt.2025-3079"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-01-31"
-intitule_in_force: "2025-01-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-3079"
-original_published_date: "2025-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-3079"
-entry_into_force_date: "2025-02-01"
-jci_1_3: "jci1.3:c:BWBR0050728&z=2025-02-01&g=2025-02-01"
-jci_1_0: "1.0:c:BWBR0050728&g=2025-02-01"
-citeertitel_status: "officieel"
-entry_into_force: "2025-02-01"
+publicatiedatum: 2025-02-01
+laatste_update: 2025-02-01
+status: geldig
+toestand: 2025-02-01
+bron: "https://wetten.overheid.nl/BWBR0050728"
+opgehaald: 2026-09-07
 ---
+
 # Klachtenreglement NWO 2025
-
-gehoord de Centrale Ondernemingsraad van NWO,
-
-gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) (Awb);
-
-besluit het volgende:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -44,17 +19,18 @@ besluit het volgende:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- a. *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. **klacht:** iedere uiting van ongenoegen over een gedraging, handeling of nalaten door een persoon, werkzaam onder de verantwoordelijkheid van NWO, als gedefinieerd onder artikel 1, sub e;
+- b. *klacht:* iedere uiting van ongenoegen over een gedraging, handeling of nalaten door een persoon, werkzaam onder de verantwoordelijkheid van NWO, als gedefinieerd onder artikel 1, sub e;
 
-- c. **Klachtenmeldpunt:** **(de medewerkers van)** het meldpunt dat is ingericht ter administratie, doorzending en registratie van klachten als bedoeld sub b;
+- c. *Klachtenmeldpunt:*
+ *(de medewerkers van)* het meldpunt dat is ingericht ter administratie, doorzending en registratie van klachten als bedoeld sub b;
 
-- d. **Nationale ombudsman:** de Nationale ombudsman, zoals bedoeld in [art 9:17 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17), die belast is met de behandeling en -beoordeling van klachten over gedragingen van bestuursorganen in tweede aanleg.
+- d. *Nationale ombudsman:* de Nationale ombudsman, zoals bedoeld in [art 9:17 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17), die belast is met de behandeling en -beoordeling van klachten over gedragingen van bestuursorganen in tweede aanleg.
 
-- e. **NWO:** de domeinen en regieorganen, alsmede de afdelingen bedrijfsvoering en het Bureau raad van bestuur van de Nederlandse organisatie voor wetenschappelijk onderzoek, de stichting NWO-I en haar onderzoekinstituten.
+- e. *NWO:* de domeinen en regieorganen, alsmede de afdelingen bedrijfsvoering en het Bureau raad van bestuur van de Nederlandse organisatie voor wetenschappelijk onderzoek, de stichting NWO-I en haar onderzoekinstituten.
 
-- f. **raad van bestuur:** de raad van bestuur NWO, zoals bedoeld in [artikel 6 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6).
+- f. *raad van bestuur:* de raad van bestuur NWO, zoals bedoeld in [artikel 6 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6).
 
 ##### Artikel 2. Klachtrecht
 
@@ -100,13 +76,13 @@ Het Klachtenmeldpunt bevestigt namens NWO de ontvangst van de klacht schriftelij
 
 2. Klachten die betrekking hebben op één of meer specifieke personen worden behandeld door:
 
-- –. het hoofd of de directeur, indien het klachten betreft over personen werkzaam onder dat betreffende hoofd of die betreffende directeur;
+- – het hoofd of de directeur, indien het klachten betreft over personen werkzaam onder dat betreffende hoofd of die betreffende directeur;
 
-- –. de voorzitter of de vicevoorzitter van de raad van bestuur, indien het klachten betreft over een (instituuts)directeur, een lid van één der domeinbesturen, dan wel een bestuurslid van een regieorgaan;
+- – de voorzitter of de vicevoorzitter van de raad van bestuur, indien het klachten betreft over een (instituuts)directeur, een lid van één der domeinbesturen, dan wel een bestuurslid van een regieorgaan;
 
-- –. de voorzitter van de raad van bestuur, indien het klachten betreft over de leden van de raad van bestuur;
+- – de voorzitter van de raad van bestuur, indien het klachten betreft over de leden van de raad van bestuur;
 
-- –. de vicevoorzitter van de raad van bestuur, indien het klachten betreft over de voorzitter van de raad van bestuur.
+- – de vicevoorzitter van de raad van bestuur, indien het klachten betreft over de voorzitter van de raad van bestuur.
 
 3. Klachten die geen specifieke persoon betreffen worden behandeld door het hoofd of de directeur onder wiens verantwoordelijkheid de gedraging jegens de klager valt.
 
@@ -170,7 +146,7 @@ Het geldende Klachtenreglement 2013 wordt ingetrokken.
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling wordt vastgesteld door de raad van bestuur en treedt in werking op 1 februari 2025
+Deze regeling wordt vastgesteld door de raad van bestuur en treedt in werking op 1 februari 2025
 
 ##### Artikel 16. Citeertitel
 

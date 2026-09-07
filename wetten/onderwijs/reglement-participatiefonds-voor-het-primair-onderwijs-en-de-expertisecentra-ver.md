@@ -1,35 +1,16 @@
 ---
 title: "Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025"
 identifier: "BWBR0050289"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-03-10"
-last_updated: "2026-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050289"
+categorie: "Onderwijs"
 soort: "zbo"
-stam_id: "17239413"
-version_id: "30756482"
-internal_id: "C44085151"
-label_id: "17145634"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050289/2026-03-10/0"
-intitule_bron: "Stcrt.2024-33307"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2024-10-15"
-intitule_in_force: "2024-10-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-18874"
-original_published_date: "2025-06-04"
-original_effect: "structuurwijziging"
-original_url_id: "stcrt-2025-18874"
-entry_into_force_date: "2025-06-04"
-jci_1_3: "jci1.3:c:BWBR0050289&z=2026-03-10&g=2026-03-10"
-jci_1_0: "1.0:c:BWBR0050289&g=2026-03-10"
-citeertitel_status: "officieel"
-entry_into_force: "2025-06-04"
+publicatiedatum: 2025-06-04
+laatste_update: 2026-03-10
+status: geldig
+toestand: 2026-03-10
+bron: "https://wetten.overheid.nl/BWBR0050289"
+opgehaald: 2026-09-07
 ---
+
 # Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -38,17 +19,161 @@ entry_into_force: "2025-06-04"
 
 In dit reglement wordt verstaan onder:
 
+- 1. *Beëindiging van een arbeidsovereenkomst:*
+
+   - a. ontslag: ontslag als bedoeld in [artikel 7:669 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669).
+
+   - b. niet voortzetten arbeidsovereenkomst voor bepaalde tijd.
+
+   - c. beëindiging van een arbeidsovereenkomst met wederzijds goedvinden / middels een vaststellingsovereenkomst;
+
+   - d. urenvermindering, voor zover als gevolg hiervan werkloosheidsuitkeringskosten zijn ontstaan.
+
+- 2. *Bestuur:* het bestuur van de Stichting Participatiefonds voor het Onderwijs.
+
+- 3. *cao PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs is overeengekomen, die van toepassing is op het moment van beëindiging van een arbeidsovereenkomst.
+
+- 4. *Centrale dienst:* de dienst als bedoeld in [artikel 68 Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [artikel 69 Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69).
+
+- 5. *Dienstverband:* een keten van opvolgende arbeidsovereenkomsten bij dezelfde werkgever. Onder opvolgende arbeidsovereenkomsten worden ook opvolgende ambtelijke aanstellingen begrepen die hebben plaatsgevonden in de periode voor 1 januari 2020.
+
+- 6. *Eigen bijdrage:* het deel van de werkloosheidsuitkeringskosten dat voor rekening van de werkgever komt.
+
+- 7. *Financiële voorwaarden:* de voorschriften waarin de regels met betrekking tot de financiële verplichtingen tussen het Participatiefonds en de werkgevers zijn vastgelegd.
+
+- 8. *Laatste contractdag:* de laatste dag waarop de arbeidsovereenkomst geldig is. Het is daarbij niet relevant of dit ook de laatste werkdag was.
+
+- 9. *Mijn Pf:* het werkgeversportaal voor bij het Participatiefonds aangesloten werkgevers. Via dit portaal kan de werkgever een verlagingsverzoek eigen bijdrage indienen.
+
+- 10. *Onderwijspersoneel:* personeel als bedoeld in [artikel 1 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1).
+
+- 11. *Opzeggingsbrief:* een brief of e-mail met het doel om de arbeidsovereenkomst te beëindigen. In deze brief staat een dagtekening. De dagtekening is de datum waarop de brief geschreven is. De werkgever heeft deze brief ondertekend. In deze e-mail is de datum van verzending en het e-mailadres van de werknemer zichtbaar. Ook is het aantoonbaar dat deze e-mail door of namens de werkgever is verstuurd.
+
+- 12. *Participatiefonds:* de rechtspersoon, genoemd in [artikel 190, eerste en tweede lid van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste en tweede lid van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
+
+- 13. *PAUZE:* Periode Algemeen Uitstel Zending E-beschikkingen. Dit is een periode van 6 weken. Deze periode gaat 2 weken voordat de eerste zomervakantie voor de eerste schoolregio begint in. De Rijksoverheid stelt deze zomervakantie vast. Het Participatiefonds verstuurt tijdens deze periode geen beslissing op een verlagingsverzoek eigen bijdrage en ook geen beslissing op een bezwaarschrift naar een werkgever.
+
+- 14. *Schooljaar:* het tijdvak van 1 augustus van een kalenderjaar tot en met 31 juli van het volgende kalenderjaar.
+
+- 15. *Tijdelijke arbeidsovereenkomst voor vervanging:* een tijdelijke arbeidsovereenkomst van een werknemer, die specifiek betrekking heeft op vervangingswerkzaamheden.
+
+- 16. *Vaststellingsovereenkomst:* een overeenkomst ex [artikel 7:900 BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=900), aantoonbaar door werkgever en werknemer ondertekend op of voorafgaand aan de datum van de beëindiging van de arbeidsovereenkomst.
+
+- 17. *Verzoek tot de verlaging van de eigen bijdrage / verlagingsverzoek eigen bijdrage:* het verzoek van een werkgever om de eigen bijdrage in de werkloosheidsuitkeringskosten van een werknemer te verlagen.
+
+- 18. *Verplicht aangesloten werkgever:* de werkgever die op grond van [artikel 190, tweede lid van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, tweede lid van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169) verplicht is aangesloten bij het Participatiefonds.
+
+- 19. *Werkgever:*
+
+   - a. een bevoegd gezag als bedoeld in [artikel 1 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
+
+   - b. een samenwerkingsverband als bedoeld in [artikel 18a van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a) en [artikel 28a van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28a).
+
+- 20. *Werknemer:* de natuurlijke persoon voor wie het Participatiefonds de uitkeringskosten voorfinanciert.
+
+- 21. *Werkloosheidsuitkeringskosten:* Deze werkloosheidskosten zijn door de bevoegde instanties toegekend. Voor de uitkeringen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is dit het UWV. Voor de bovenwettelijke uitkeringen is dit WWplus.
+
+   - ○ de uitkeringskosten, genoemd in de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [WOPO](https://wetten.overheid.nl/jci1.3:c:BWBR0012177);
+
+   - ○ de pensioenpremies en arbeidsongeschiktheidspremies;
+
+   - ○ de bovenwettelijke werkloosheidsuitkeringen in het primair onderwijs die van toepassing waren voor de [WOPO](https://wetten.overheid.nl/jci1.3:c:BWBR0012177), als werknemers nog recht hebben op deze uitkering; en
+
+   - ○ de [ZAPO](https://wetten.overheid.nl/jci1.3:c:BWBR0007800).
+
+- 22. *Wpo:* de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
+
+- 23. *Wec:* de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
+
+- 24. *WW:* de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
+
+- 25. *WOPO:* de [regeling Werkloosheidsuitkering onderwijspersoneel primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0012177).
+
+- 26. *ZAPO:* de [Regeling ziekte en arbeidsongeschiktheid primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007800).
+
+- 27. *Zelfstandig wachtgeldbeleid:* de op basis van het reglement 1997 bepaalde constructie, waarin een werkgever de keuze heeft gemaakt om de werkloosheidsuitkeringskosten volledig zelf te dragen.
+
+- 28. *Zij-instromer:* een werknemer die met een geschiktheidsverklaring als bedoeld in [artikel 171 van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) of [artikel 151 van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=151) als leraar werkzaam is bij een werkgever.
+
+- 29. *Zomerstop-periode:* de periode waarin de termijnen die gelden voor de werkgever om informatie aan te leveren, worden opgeschort.
+
 ### Artikel 2. Premie
+
+- 1. Op grond van [artikel 190, vierde lid van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, vierde lid van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169), voldoet een bij het Participatiefonds aangesloten werkgever maandelijks een premie aan het Participatiefonds in verband met de uitvoering van de wettelijke taak van het Participatiefonds.
+
+- 2. Onder de premie Participatiefonds wordt verstaan:
+
+   - a. basispremie; of
+
+   - b. premie zelfstandig wachtgeldbeleid;
+
+- 3. De verschuldigde premie is gelijk aan de premiegrondslag vermenigvuldigd met het premiepercentage.
+
+- 4. De premiegrondslag is het brutosalaris van het personeel waarvoor premie is verschuldigd, rekening houdend met de deeltijdfactor, exclusief toelages, toeslagen en werkgeverslasten, en vermeerderd met 8 procent vakantie-uitkering.
+
+- 5. Gemoedsbezwaarden betalen geen premie.
+
+- 6. Voor werknemers die de AOW-gerechtigde leeftijd hebben bereikt is geen premie verschuldigd.
 
 ### Artikel 3. Premiepercentages
 
+- 1. Het bestuur stelt jaarlijks de hoogte van de premiepercentages voor het volgende kalenderjaar vast.
+
+- 2. Als er aanleiding toe is, kan het bestuur besluiten tot een tussentijdse wijziging van de premiepercentages.
+
+- 3. Een positief of negatief exploitatieresultaat van het Participatiefonds kan worden verrekend in de premie voor het volgende kalenderjaar.
+
 ### Artikel 4. Zelfstandig wachtgeldbeleid
+
+- 1. De werkgever die reeds deelneemt aan het zelfstandig wachtgeldbeleid, is uitsluitend de premie zelfstandig wachtgeldbeleid, genoemd in [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=1&artikel=2&z=2026-03-10&g=2026-03-10), aan het Participatiefonds verschuldigd.
+
+- 2. Het Participatiefonds vergoedt geen werkloosheidsuitkeringskosten aan een werkgever die deelneemt aan het zelfstandig wachtgeldbeleid. Het Participatiefonds zal 100 procent van deze kosten in rekening brengen bij deze werkgever.
+
+- 3. Voor de huidige deelnemers aan het zelfstandig wachtgeldbeleid, is artikel 2 van het Reglement Participatiefonds Primair Onderwijs 1998–1999 voor onbepaalde tijd van toepassing.
+
+- 4. Een deelnemer aan het zelfstandig wachtgeldbeleid kan de deelname schriftelijk opzeggen. Deze opzegging moet uiterlijk op 1 november door het Participatiefonds zijn ontvangen.
+
+- 5. Als de opzegging tijdig door het Participatiefonds is ontvangen, eindigt de deelname aan het zelfstandig wachtgeldbeleid met ingang van het eerstvolgende kalenderjaar.
+
+- 6. Voor werkgevers die niet reeds deelnemen aan het zelfstandig wachtgeldbeleid, is het niet meer mogelijk om hieraan deel te nemen.
 
 ### Artikel 5. Verlagingsverzoek eigen bijdrage
 
+- 1. Als er als gevolg van de beëindiging van een arbeidsovereenkomst werkloosheidsuitkeringskosten zijn ontstaan, dan stelt het Participatiefonds de werkgever hiervan op de hoogte via het portaal Mijn Pf.
+
+- 2. Als er sprake is van een beëindigingsgrond als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10) van het reglement, dan kan de werkgever een verzoek tot verlaging van de eigen bijdrage indienen via Mijn Pf.
+
+- 3. De termijn voor het indienen van een verlagingsverzoek eigen bijdrage is vier weken. Het verlagingsverzoek is tijdig ingediend als dit voor het einde van de termijn is ontvangen. De termijn gaat in op de dag na de melding, genoemd in het eerste lid. Als de laatste dag van de termijn een zaterdag, zondag of algemeen erkende feestdag is, wordt de termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
+
+- 4. Tijdens de zomerstop-periode, wanneer alle schoolregio’s in Nederland tegelijk zomervakantie hebben, wordt de termijn, genoemd in het derde lid, tijdelijk stilgezet. De Rijksoverheid stelt deze zomervakanties vast.
+
+- 5. De eigen bijdrage van de werkgever wordt vastgesteld op 50 procent van de werkloosheidsuitkeringskosten, tenzij het Participatiefonds het verlagingsverzoek eigen bijdrage dat deze werkgever heeft ingediend goedkeurt. Wanneer geen verlagingsverzoek is ingediend, moet de werkgever desgevraagd bewijs leveren van de laatste contractdag door middel van een ter zake overtuigend document. Het Participatiefonds kan daar om verzoeken om vast te kunnen stellen welk reglement van toepassing is.
+
+- 6. Bij toewijzing van een verlagingsverzoek eigen bijdrage op grond van [artikel 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=13&z=2026-03-10&g=2026-03-10), heeft de werkgever een eigen bijdrage van 10 procent van de werkloosheidsuitkeringskosten.
+
+- 7. Bij toewijzing van een verlagingsverzoek eigen bijdrage op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=20&z=2026-03-10&g=2026-03-10), heeft de werkgever geen eigen bijdrage in de werkloosheidsuitkeringskosten.
+
 ### Artikel 6. Onvolledig verlagingsverzoek eigen bijdrage
 
+- 1. Als bij een verlagingsverzoek eigen bijdrage niet alle benodigde gegevens en documenten zijn aangeleverd die nodig zijn voor een beoordeling van dat verzoek, dan geeft het Participatiefonds de werkgever 1 keer de gelegenheid om het verzoek aan te vullen.
+
+- 2. De termijn voor het aanvullen van het verlagingsverzoek eigen bijdrage is vier weken. De aanvulling is tijdig aangeleverd als deze voor het einde van de termijn is ontvangen. De termijn begint op de dag na die waarop het Participatiefonds de werkgever in de gelegenheid heeft gesteld het verzoek aan te vullen. Als de laatste dag van de termijn een zaterdag, zondag of algemeen erkende feestdag is, wordt de termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
+
+- 3. Tijdens de zomerstop-periode, waarin alle schoolregio’s in Nederland gelijktijdig zomervakantie hebben, wordt de termijn, genoemd in het tweede lid, stilgezet. De Rijksoverheid stelt deze zomervakanties vast.
+
 ### Artikel 7. Gronden voor afwijzing verlagingsverzoek eigen bijdrage
+
+- 1. Het Participatiefonds neemt een besluit tot afwijzing van het verlagingsverzoek eigen bijdrage, wanneer:
+
+   - a. de arbeidsovereenkomst is beëindigd op een andere grond dan opgenomen in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10) van het reglement.
+
+   - b. niet is voldaan aan de voorwaarden van het artikel op grond waarvan het verlagingsverzoek eigen bijdrage is ingediend.
+
+   - c. het verzoek van de werkgever kennelijk onredelijk is.
+
+   - d. de werkgever na het verzoek om aan te vullen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=1&artikel=6&z=2026-03-10&g=2026-03-10), het verlagingsverzoek eigen bijdrage niet binnen de gestelde termijn heeft aangevuld, waardoor niet of niet tijdig is voldaan aan de voorwaarden van het artikel op grond waarvan het verlagingsverzoek eigen bijdrage is ingediend.
+
+- 2. Bij afwijzing van het verlagingsverzoek eigen bijdrage, heeft de werkgever een eigen bijdrage van 50 procent van de werkloosheidsuitkeringskosten.
 
 ### Artikel 8. Niet kunnen voldoen aan voorwaarden verlagingsverzoek eigen bijdrage
 
@@ -60,41 +185,171 @@ De werkgever maakt bij het indienen en aanvullen van een verlagingsverzoek eigen
 
 ### Artikel 10. Beslistermijn
 
+- 1. Het Participatiefonds besluit binnen 4 weken op het verlagingsverzoek eigen bijdrage. Deze 4 weken gaan in op de dag nadat het Participatiefonds het verzoek in Mijn Pf heeft ontvangen. Als de laatste dag van de termijn een zaterdag, zondag of algemeen erkende feestdag is, wordt de termijn verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is.
+
+- 2. Het Participatiefonds kan deze termijn eenmalig verlengen met 2 weken.
+
+- 3. De beslistermijn wordt van rechtswege opgeschort gedurende de periode waarin de werkgever het verzoek op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=1&artikel=6&z=2026-03-10&g=2026-03-10) moet aanvullen.
+
+- 4. Gedurende de pauzeperiode wordt de beslistermijn, genoemd in het eerste lid, opgeschort.
+
 ### Artikel 11. Gronden voor intrekking en wijziging
 
 Het Participatiefonds is bevoegd een besluit tot verlaging van de eigen bijdrage te wijzigen of in te trekken ten nadele van de werkgever, wanneer:
 
+- a. de gegevens die de werkgever heeft aangeleverd zodanig onjuist, onvolledig of gewijzigd zijn dat op het verlagingsverzoek eigen bijdrage een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste en volledige gegevens bekend waren geweest.
+
+- b. de beschikking in strijd met wettelijke voorschriften is gegeven.
+
+- c. de wetgeving, omstandigheden of inzichten zodanig veranderen dat de bescherming van de belangen van deze gewijzigde wetgeving, omstandigheden of inzichten zwaarder wegen dan het belang van de werkgever bij een ongewijzigde beschikking.
+
 ### Artikel 12. Rechtmatigheidscontroles
+
+- 1. De werkgever verleent medewerking aan een controle door of namens het Participatiefonds, die gericht is op de beoordeling van de rechtmatigheid van een beschikking als bedoeld in dit reglement.
+
+- 2. De werkgever draagt gedurende een periode van 7 jaar zorg voor een deugdelijke administratie die op een centraal punt is in te zien en geeft hier desgevraagd inzage in.
 
 ### Hoofdstuk 2. Voorwaarden voor verlaging van de eigen bijdrage
 
 ### Artikel 13. Beëindiging arbeidsovereenkomst via UWV wegens bedrijfseconomische omstandigheden
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst is beëindigd in verband met een reden als bedoeld in [artikel 7:669, derde lid, onder a van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669).
+
+- 2. Hiertoe levert de werkgever aan:
+
+   - a. de ontslagvergunning van UWV, genoemd in [artikel 7:671a, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a) of als beroep is aangetekend tegen de beslissing van UWV de beslissing van de rechtbank, het Hof of de Hoge Raad op grond waarvan de arbeidsovereenkomst wordt beëindigd;
+
+   - b. de opzeggingsbrief van de werkgever aan de werknemer van wie de arbeidsovereenkomst is beëindigd.
+
+- 3. De werkgever toont aan dat is voldaan aan de inspanningsverplichting, genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=21&z=2026-03-10&g=2026-03-10).
+
+- 4. Als de werkgever afspraken heeft gemaakt met de vakbonden over begeleiding van-werk-naar-werk als bedoeld in hoofdstuk 10 van de cao PO 2025–2027 en dit kan aantonen met overtuigende documenten, dan is het derde lid van dit artikel niet van toepassing.
+
+- 5. Als de arbeidsovereenkomst is beëindigd door middel van arbitrage of bindend advies dan is het gestelde in het tweede lid niet van toepassing. In dat geval levert de werkgever aan:
+
+   - a. De arbeidsovereenkomst of een ander contractueel overeengekomen document waarin de mogelijkheid tot ontbinding middels arbitrage of bindend advies is opgenomen; en
+
+   - b. Het arbitraal vonnis of het bindend advies. Is sprake van bindend advies dan levert de werkgever ook de vaststellingsovereenkomst aan waaruit blijkt dat de arbeidsovereenkomst wordt beëindigd op grond van het bindend advies.
 
 ### Artikel 14. Beëindiging arbeidsovereenkomst met wederzijds goedvinden wegens bedrijfseconomische omstandigheden
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, als is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, als is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst middels een vaststellingsovereenkomst is beëindigd, waarbij de oorzaak ligt in bedrijfseconomische omstandigheden als bedoeld in [artikel 7:669, derde lid, onder a, van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669). Er is sprake van bedrijfseconomische omstandigheden als bedoeld in dit lid, wanneer de wijziging in bekostiging, per de datum van beëindiging van de arbeidsovereenkomst, de beëindiging van deze arbeidsovereenkomst rechtvaardigt.
+
+- 2. Hiertoe levert de werkgever aan:
+
+   - a. de vaststellingsovereenkomst, die door de werkgever en de werknemer van wie de arbeidsovereenkomst is beëindigd, is ondertekend;
+
+   - b. de jaarverslagen van de 2 kalenderjaren voorafgaand aan het jaar waarin de beëindiging van de arbeidsovereenkomst heeft plaatsgevonden;
+
+   - c. het meest recente bestuursformatieplan of meerjarenformatieplan;
+
+   - d. de begroting of meerjarenbegroting;
+
+   - e. een overzicht van het natuurlijk verloop en de overige beëindigingen in de periode van 6 maanden voorafgaand aan de laatste contractdag van de arbeidsovereenkomst;
+
+   - f. een schriftelijke onderbouwing, waarin is opgenomen waarom de arbeidsovereenkomst van de werknemer wegens bedrijfseconomische omstandigheden moest worden beëindigd.
+
+- 3. Bij de beoordeling of sprake is van bedrijfseconomische omstandigheden als bedoeld in het eerste lid, betrekt het Participatiefonds naast de documenten genoemd in het tweede lid ook de openbaar toegankelijke financiële informatie die door DUO digitaal beschikbaar wordt gesteld.
+
+- 4. *Vervallen.*
+
+- 5. De werkgever toont aan dat is voldaan aan de inspanningsverplichting, genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=21&z=2026-03-10&g=2026-03-10).
+
+- 6. Als de werkgever middels het aanleveren van ter zake overtuigende documenten kan aantonen, dat hij afspraken heeft gemaakt met de vakbonden in het kader van begeleiding van werk naar werk als bedoeld in hoofdstuk 10 van de cao PO 2025–2027, dan heeft de werkgever voldaan aan het tweede lid, onder b tot en met e, het vierde en het vijfde lid van dit artikel. Het gestelde in het derde lid van dit artikel is in die situatie niet van toepassing.
 
 ### Artikel 15. Beëindiging arbeidsovereenkomst via UWV wegens langdurige ziekte of arbeidsongeschiktheid
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst is beëindigd op grond van langdurige ziekte of arbeidsongeschiktheid als bedoeld in [artikel 7:669, derde lid, onder b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669).
+
+- 2. Hiertoe levert de werkgever aan:
+
+   - a. de ontslagvergunning van UWV, genoemd in [artikel 7:671a, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=671a) of als beroep is aangetekend tegen de beslissing van UWV de beschikking van de rechtbank, het Hof of de Hoge Raad op grond waarvan de arbeidsovereenkomst wordt beëindigd;
+
+   - b. de opzeggingsbrief van de werkgever aan de werknemer van wie de arbeidsovereenkomst is beëindigd.
+
+- 3. Als de arbeidsovereenkomst is beëindigd door middel van arbitrage of bindend advies dan is het gestelde in het tweede lid niet van toepassing. In dat geval levert de werkgever aan:
+
+   - a. De arbeidsovereenkomst of een ander contractueel overeengekomen document waarin de mogelijkheid tot ontbinding middels arbitrage of bindend advies is opgenomen; en
+
+   - b. Het arbitraal vonnis of het bindend advies. Is sprake van bindend advies dan levert de werkgever ook de vaststellingsovereenkomst aan waaruit blijkt dat de arbeidsovereenkomst wordt beëindigd op grond van het bindend advies.
 
 ### Artikel 16. Ontbinding arbeidsovereenkomst door de kantonrechter
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst door de kantonrechter is ontbonden op grond van één van de redenen, genoemd in [artikel 7:669, derde lid, onder c tot en met i van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669).
+
+- 2. Hiertoe levert de werkgever aan:
+
+   - a. de beschikking van de rechtbank, het Hof of de Hoge Raad op grond waarvan de arbeidsovereenkomst wordt beëindigd, waaruit blijkt dat:
+
+      - i. de arbeidsovereenkomst is ontbonden op grond van één van de gronden, genoemd in [artikel 7:669, derde lid, onder c tot en met i van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669); en
+
+      - ii. er een inhoudelijke behandeling op tegenspraak heeft plaatsgevonden.
+
+   - b. het verzoekschrift;
+
+   - c. het verweerschrift.
+
+- 3. De werkgever toont aan dat is voldaan aan de inspanningsverplichting, genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=21&z=2026-03-10&g=2026-03-10).
 
 ### Artikel 17. Einde arbeidsovereenkomst voor bepaalde tijd voor vervanging
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst, die van rechtswege is geëindigd, een arbeidsovereenkomst voor bepaalde tijd betreft voor vervanging als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=1&artikel=1&z=2026-03-10&g=2026-03-10) van dit reglement.
+
+- 2. De werkgever levert daarvoor de arbeidsovereenkomst van de werknemer aan, waaruit blijkt dat het een arbeidsovereenkomst voor bepaalde tijd in verband met vervanging betreft.
+
+- 3. De werkgever toont aan dat de arbeidsovereenkomst voor bepaalde tijd van rechtswege is geëindigd door:
+
+   - a. het verstrijken van de duur waarvoor de arbeidsovereenkomst voor bepaalde tijd is aangegaan; of
+
+   - b. het komen te vervallen van de reden van vervanging, als in de arbeidsovereenkomst tevens is opgenomen dat dit een einde van rechtswege tot gevolg heeft.
+
+- 4. Bij een tijdelijke uitbreiding wegens vervanging, krijgt een werknemer een addendum op de arbeidsovereenkomst. Als hieruit werkloosheidsuitkeringskosten ontstaan, dan levert de werkgever de arbeidsovereenkomst aan waarin het betreffende addendum is opgenomen. Dit addendum voldoet aan de eisen voor de arbeidsovereenkomst in het tweede en derde lid van dit artikel.
+
+- 5. De werkgever toont aan dat is voldaan aan de inspanningsverplichting, genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&artikel=21&z=2026-03-10&g=2026-03-10). De activiteiten, genoemd in artikel 21 tweede lid, moeten uiterlijk 2 maanden voor de laatste contractdag zijn gestart. Dit in afwijking van artikel 21, derde lid.
 
 ### Artikel 18. Einde arbeidsovereenkomst voor bepaalde tijd van een zij-instromer
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst, genoemd in artikel 3.2 van de cao PO 2025–2027, van rechtswege is geëindigd dan wel niet is verlengd, omdat de werknemer niet binnen de daarvoor overeengekomen periode de bij wet voorgeschreven onderwijsbevoegdheid heeft behaald of zal behalen.
+
+- 2. Om aan te tonen dat er sprake is geweest van een dienstverband in het kader van zij-instroom, levert de werkgever aan:
+
+   - a. de tripartiete studieovereenkomst, die is ondertekend door de werkgever, werknemer en de opleidingsinstantie; of
+
+   - b. de arbeidsovereenkomst van werknemer.
+
+- 3. De werkgever toont aan dat de werknemer de onderwijsbevoegdheid niet heeft behaald of zal behalen. Daarvoor levert de werkgever het volgende aan:
+
+   - a. de verklaring van de opleidingsinstantie, waaruit blijkt dat de werknemer niet binnen de overeengekomen periode de bij wet voorgeschreven onderwijsbevoegdheid heeft behaald of zal behalen;
+
+   - b. de opzeggingsbrief van de werkgever aan de werknemer waaruit blijkt dat de werknemer niet binnen de overeengekomen periode de bij wet voorgeschreven onderwijsbevoegdheid heeft behaald of zal behalen; of
+
+   - c. andere ter zake overtuigende documenten waaruit het niet behalen of het zullen behalen van de onderwijsbevoegdheid binnen de overeengekomen periode blijkt.
 
 ### Artikel 19. Einde arbeidsovereenkomst: participatiebaan
 
-Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+Een werkgever komt in aanmerking voor een verlaging van de eigen bijdrage in de werkloosheidsuitkeringskosten van 50 procent naar 10 procent, wanneer is voldaan aan de voorwaarden van dit artikel.
+
+- 1. De werkgever toont aan dat de arbeidsovereenkomst die is beëindigd, een participatiebaan betreft.
+
+- 2. Hiertoe levert de werkgever aan:
+
+   - a. een document waaruit blijkt dat het om een participatiebaan gaat,
+
+   - b. de opzeggingsbrief of andere ter zake overtuigende documenten, waaruit blijkt dat werkgever aan werknemer kenbaar heeft gemaakt, dat de arbeidsovereenkomst zal worden beëindigd.
+
+- 3. De werkgever biedt de werknemer ondersteuning bij arbeidsinschakeling als bedoeld in [artikel 10 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10). De werkgever levert ter zake overtuigende documenten aan waaruit dit blijkt.
 
 ### Artikel 20. Einde arbeidsovereenkomst onbepaalde tijd op verzoek van de werknemer
 
@@ -104,25 +359,95 @@ Als een arbeidsovereenkomst voor onbepaalde tijd is beëindigd op verzoek van de
 
 De werkgever heeft activiteiten verricht of ingekocht voor de begeleiding van de werknemer naar een werkkring buiten de organisatie.
 
+- 1. De financiële inspanningsverplichting wordt bepaald conform onderdeel a tot en met e van dit lid.
+
+   - a. Bij een dienstverband van minder dan 6 maanden, geldt geen financiële inspanningsverplichting.
+
+   - b. De waarde van de activiteiten genoemd in het tweede lid, bedraagt voor dienstverbanden vanaf 6 maanden € 600. Voor elke maand dat het dienstverband langer heeft voortgeduurd, komt er € 25 bij. Tot maximaal € 5.000. Deze bedragen zijn inclusief btw.
+
+   - c. De duur van het dienstverband wordt als volgt berekend: bij opvolgende arbeidsovereenkomsten bij dezelfde werkgever, met een onderbreking van 6 maanden of minder, wordt de duur van deze arbeidsovereenkomsten bij elkaar opgeteld. De onderbrekingen tellen niet mee bij de vaststelling van de duur van het dienstverband.
+
+   - d. Voor het berekenen van het aantal maanden dat het dienstverband heeft geduurd worden de kalenderdagen van de arbeidsovereenkomst(en) bij elkaar opgeteld. Van de opgetelde kalenderdagen boven 183 dagen worden 3 marge-dagen afgetrokken. Vervolgens vormen iedere 30,4167 kalenderdagen tezamen 1 maand.
+
+   - e. Voor de duur van het dienstverband van meer dan 183 dagen wordt de uitkomst van wat onder d is berekend naar boven toe afgerond op hele maanden.
+
+   - f. De werkgever vult de ‘Rekentool Dienstverbanden en Bedrag Inspanningsverplichting’ in. Deze is beschikbaar via Mijn Pf en via de website van het Participatiefonds. Zo kan de werkgever de duur van het dienstverband en de daarbij behorende minimale financiële inspanningsverplichting aantonen. De werkgever en de werknemer ondertekenen de uitdraai daarvan. De werkgever levert deze ondertekende uitdraai aan bij het indienen van het verlagingsverzoek via Mijn Pf. Ook in de gevallen waarbij de berekening van de financiële inspanning op nul uitkomt.
+
+   - g. Kosten die de werkgever maakt voor activiteiten als bedoeld in het tweede lid, worden meegeteld bij de berekening of is voldaan aan de inspanningsverplichting, voor zover deze kosten niet langer dan 12 maanden voor de laatste contractdag zijn gemaakt.
+
+- 2. De inhoudelijke inspanningsverplichting geldt bij een dienstverband vanaf 6 maanden, waarbij de duur van het dienstverband wordt berekend op de wijze als bepaald in het eerste lid, en bestaat uit één of meer van de volgende activiteiten:
+
+   - a. coachgesprek;
+
+   - b. arbeidskansengesprek;
+
+   - c. het opstellen van een mobiliteitsplan;
+
+   - d. uitvoering geven aan het mobiliteitsplan;
+
+   - e. het onderzoeken van mogelijkheden tot herplaatsing buiten het eigen bestuur.
+
+- 3. De activiteiten, genoemd in het tweede lid, moeten uiterlijk 4 maanden voor de laatste contractdag zijn gestart.
+
+- 4. Als de activiteiten, genoemd in het tweede lid, zijn belegd bij een externe organisatie of loopbaanprofessional, dan moet deze een keurmerk of certificering hebben vanuit Noloc, Cedeo of Blik op Werk of lid zijn van Cedris, Noloc, Oval of NOBCO. In het geval van een lidmaatschap moet sprake zijn van een volwaardig lidmaatschap. Met een aspirant-lidmaatschap wordt niet voldaan aan deze voorwaarde. Daarnaast kan de werkgever gebruik maken van een organisatie waarmee het Participatiefonds een mantelovereenkomst heeft gesloten.
+
+- 5. Als de activiteiten, genoemd in het tweede lid, door de werkgever in eigen beheer worden uitgevoerd, dan moet dit door een erkende mobiliteitsfunctionaris worden uitgevoerd. Deze functionaris is aangesloten middels een aspirant-lidmaatschap of volwaardig lidmaatschap bij de erkende beroepsvereniging Noloc of NOBCO.
+
+- 6. Het bedrag aan financiële inspanning dat op basis van het eerste lid is bepaald, moet volledig worden besteed aan één of meer van de activiteiten, genoemd in het tweede lid.
+
+- 7. De werkgever toont aan dat aan dit artikel is voldaan door het volgende aan te leveren:
+
+   - a. een opdrachtbevestiging waarin ten minste één van de activiteiten, genoemd in het tweede lid, is opgenomen. De opdrachtbevestiging moet ondertekend zijn door de werkgever, werknemer en de organisatie of persoon die de vermelde activiteiten uitvoert.
+
+   - b. de factuur of facturen ter waarde van het afgesproken budget voor de activiteit. Als de werkgever de activiteiten in eigen beheer uitvoert, dan levert de werkgever een urenspecificatie aan. Hierbij wordt de waarde van 1 uur gezien als € 85,– inclusief btw.
+
 ### Hoofdstuk 3. Vrijstellingsregelingen
 
 ### Artikel 22. Vrijstellingsregeling voor eigen uitkeringsgerechtigden
 
 Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. De werkgever komt in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
 
+- 1. Er wordt vrijstelling verleend, als:
+
+   - a. de werknemer ten minste 3 maanden direct voorafgaand aan het in dienst treden bij de werkgever recht heeft gehad op een werkloosheidsuitkering vanuit het primair onderwijs als bedoeld in [artikel 190, derde lid, onder f van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, derde lid, onder f van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
+
+   - b. de werknemer direct voorafgaand aan het ontstaan van het recht op de onder a genoemde werkloosheidsuitkering, in dienst was bij dezelfde werkgever of diens rechtsvoorganger. En de onder a genoemde uitkering is door de betrokken uitkeringsinstantie aan deze werkgever gekoppeld.
+
+   - c. de werkgever uiterlijk 10 werkdagen na de ingangsdatum van de arbeidsovereenkomst het in dienst nemen van de werknemer meldt bij het Participatiefonds. De manier waarop de werkgever dat moet doen, staat beschreven in Mijn Pf; en
+
+   - d. de arbeidsovereenkomst ten minste 6 maanden en maximaal 12 maanden ononderbroken heeft geduurd. Hieronder wordt ook de situatie bedoeld dat meerdere arbeidsovereenkomsten elkaar zonder onderbreking hebben opgevolgd gedurende ten minste 6 maanden en maximaal 12 maanden.
+
+- 2. Om het gestelde in het eerste lid, onder d, aan te tonen, levert de werkgever de arbeidsovereenkomst aan waaruit de datum indiensttreding blijkt en een document waaruit de datum van het einde van de arbeidsovereenkomst blijkt.
+
+- 3. Als het Participatiefonds vrijstelling heeft verleend, geldt een eigen bijdrage die gelijk is aan de eigen bijdrage voor de werkloosheidsuitkering, genoemd in het eerste lid, onder a, waarbij deze eigen bijdrage maximaal 50 procent bedraagt.
+
 ### Artikel 23. Vrijstellingsregeling voor niet eigen uitkeringsgerechtigden nieuw
 
-Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. Voor werknemers die op of na 1 augustus 2022 een dienstverband zijn aangegaan, komt de werkgever in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
+Om financiële drempels bij het aannemen van uitkeringsgerechtigden weg te nemen, is het mogelijk om onder voorwaarden gebruik te maken van een vrijstelling voor de reguliere verlagingsvereisten. Voor werknemers die op of na 1 augustus 2022 een dienstverband zijn aangegaan, komt de werkgever in aanmerking voor vrijstelling van de voorwaarden van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050289&hoofdstuk=2&z=2026-03-10&g=2026-03-10), wanneer is voldaan aan het bepaalde in het eerste tot en met het derde lid.
+
+- 1. Er wordt vrijstelling verleend, als:
+
+   - a. de werknemer ten minste 3 maanden direct voorafgaand aan het in dienst treden bij de werkgever recht heeft gehad op een werkloosheidsuitkering vanuit het primair onderwijs als bedoeld in [artikel 190, derde lid, onder f van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) of [artikel 169, derde lid, onder f van de Wec](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169);
+
+   - b. de werknemer direct voorafgaand aan het ontstaan van het recht op de onder a genoemde werkloosheidsuitkering, niet in dienst was bij dezelfde werkgever, of bij de rechtsvoorganger daarvan. En de onder a genoemde uitkering is door de betrokken uitkeringsinstantie aan deze werkgever gekoppeld;
+
+   - c. de werkgever uiterlijk 10 werkdagen na de ingangsdatum van de arbeidsovereenkomst het in dienst nemen van de werknemer meldt bij het Participatiefonds. De manier waarop de werkgever dat moet doen, staat beschreven in Mijn Pf; en
+
+   - d. de arbeidsovereenkomst ten minste 6 maanden en maximaal 12 maanden ononderbroken heeft geduurd. Hieronder wordt ook de situatie bedoeld dat meerdere arbeidsovereenkomsten elkaar zonder onderbreking hebben opgevolgd gedurende ten minste 6 maanden en maximaal 12 maanden.
+
+- 2. Om het gestelde in het eerste lid, onder d, aan te tonen, levert de werkgever de arbeidsovereenkomst aan waaruit de datum indiensttreding blijkt en een document waaruit de datum van het einde van de arbeidsovereenkomst blijkt.
+
+- 3. Als het Participatiefonds vrijstelling heeft verleend, geldt een eigen bijdrage van 0 procent van de werkloosheidsuitkeringskosten.
 
 ### Hoofdstuk 4. Slotbepalingen
 
 ### Artikel 24. Citeertitel
 
-Dit reglement wordt aangehaald als het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025’.
+Dit reglement wordt aangehaald als het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2025’.
 
 ### Artikel 25. Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden tussen werkgevers en werknemers uit het PO zoals omschreven in dit reglement en die een laatste contractdag hebben op of na 1 januari 2025
+Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden tussen werkgevers en werknemers uit het PO zoals omschreven in dit reglement en die een laatste contractdag hebben op of na 1 januari 2025
 
 ### Artikel 26. Bekendmaking
 
@@ -131,71 +456,3 @@ Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.
 ### Artikel 27. Wijziging of afwijking van het reglement
 
 Het bestuur van het Participatiefonds is gerechtigd dit reglement op ieder moment aan te passen als daar aanleiding toe is. Om zwaarwegende redenen kan het bestuur van het Participatiefonds afwijken van wat in dit reglement gesteld is.
-
-## Bijlage 1. Informatieprotocol Reglement Participatiefonds
-
-Het Participatiefonds heeft een aantal wettelijke taken. Hieronder valt het ondersteunen van het bevoegd gezag bij het beleid gericht op het terugdringen van ziekteverzuim en arbeidsongeschiktheid en het voorkomen van werkloosheid.1Artikel 190, derde lid, onder e, van de WPO en artikel 169, derde lid, onder e, van de WEC. Om deze taak te kunnen uitvoeren heeft het Participatiefonds bepaalde gegevens nodig over de bevoegde gezagsorganen. Dit informatieprotocol beschrijft de vorm en inhoud van de set gegevens, die door de bij het Participatiefonds aangesloten bevoegde gezagsorganen moeten worden geleverd. Het bevat tevens een korte toelichting op het aanleverproces. Het informatieprotocol dient als hulpmiddel voor schoolbesturen en administratiekantoren om de juiste gegevens tijdig aan te leveren bij het Participatiefonds.
-
-In het kader van de Algemene verordening gegevensbescherming (AVG), dienen verwerkingen van persoonsgegevens bij het College bescherming persoonsgegevens te worden gemeld. Het Participatiefonds maakt bij de uitoefening van de werkzaamheden gebruik van persoonsgegevens. Het Participatiefonds treft passende organisatorische en technische maatregelen om te waarborgen en te kunnen aantonen dat de verwerking van die persoonsgegevens in overeenstemming met de AVG kan worden uitgevoerd.
-
-Het informatieprotocol bestaat uit vier onderdelen:
-
-### Onderdeel 1 Basisadministratie
-
-### § 1.1. Inleiding
-
-De basisadministratie van het Pf betreft de gegevens die het Pf vanuit de aangesloten bevoegde gezagsorganen ontvangt. Dit omvat de volgende gegevens:
-
-### § 1.2. Doel gegevenscollectie door het Pf
-
-Elk schoolbestuur in het primair onderwijs levert gegevens aan bij het Pf. Deze gegevens worden gebruikt om de hoogte van de premie Pf en de rechtmatigheid van afgehandelde verlagingsverzoeken vast te stellen. Daarnaast worden gegevens gebruikt ten behoeve van de wettelijke taak onder [artikel 190, derde lid, onder e, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) (en [artikel 169, derde lid, onder e, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169)): het ondersteunen van het bevoegd gezag bij het beleid gericht op het terugdringen van ziekteverzuim en arbeidsongeschiktheid en het voorkomen van werkloosheid.
-
-In tabel 1 staat een overzicht van de primaire processen, die gebruik maken van de gegevens, die door het onderwijsveld beschikbaar worden gesteld.
-
-**Tabel 1 Doel gegevensverzameling**
-
-### § 2. Overzicht gegevens in de Pf-basisadministratie
-
-### § 2.1. Inleiding
-
-Tabel 2 toont een overzicht van de aan te leveren gegevensverzamelingen / set gegevens, voorzien van een korte omschrijving. Hieronder worden de verschillende gegevensgroepen kort toegelicht. Paragraaf 5f bevat een gedetailleerde beschrijving van alle gegevens afzonderlijk.
-
-### § 2.2. Premiebrongegevens
-
-De basisadministratie bevat brongegevens van alle personeelsleden en aanstellingen in het primair onderwijs. Deze gegevens worden gebruikt om de ontvangen (declaratie)gegevens te toetsen aan het reglement en de premie- en declaratiebedragen te berekenen.
-
-Het Personeelsbestand omvat gegevens over het personeel, dat valt onder de cao po. Dit betreft het burgerservicenummer, de naam, geboortedatum en het geslacht van de personeelsleden.
-
-De Pf-basisadministratie bevat gegevens over de dienstbetrekkingen in het primair onderwijs. Het bestand bevat gegevens als de begin- en einddatum van de aanstelling en de omvang van de aanstelling en het brutosalaris. De aanstellingsgegevens worden ook gebruikt om het premiebedrag vast te stellen.
-
-### § 2.3. Vervangingsgegevens
-
-De vervangingsgegevens omvatten uitgebreide gegevens over de afwezigheid en vervanging. Deze gegevens zijn van belang om het bevoegd gezag te ondersteunen bij het beleid gericht op het terugdringen van ziekteverzuim en arbeidsongeschiktheid en het voorkomen van werkloosheid.
-
-### § 2.4. Verzuimgegevens
-
-De gegevens omschreven in § 2.2 en § 2.3 leveren geen compleet overzicht op van het totale verzuim in het primair onderwijs. Niet alle afwezigheid wordt vervangen en niet alle vervanging wordt gedeclareerd dan wel bekostigd. De integrale verzuimgegevens worden gebruikt voor het berekenen van kengetallen, en het ondersteunen van het bestuur en bestuursbureau van het Pf op het gebied van informatievoorziening.
-
-### § 2.5. Organisatiegegevens
-
-De van Duo afkomstige organisatiegegevens op basis van RIO zijn opgeslagen in de Pf-basisadministratie en dienen onder meer voor de beoordeling van de rechtmatigheid van premiegegevens.
-
-### § 3. Aanlevermoment en frequentie van aanlevering
-
-De door de bevoegde gezagsorganen te leveren gegevensgroepen zijn maandelijks samengevoegd tot één gegevenslevering. DUO verzorgt maandelijks de gegevenslevering van de RIO-gegevens op de 2e dinsdag van de maand.
-
-Het Pf verwerkt de ontvangen gegevens één keer per maand. De levering, die in maand n verwerkt wordt, bevat gegevens over de verslagmaand n–1 alsmede eventuele correcties over voorliggende maanden (als voorbeeld: de maandverwerking in januari 2025 bevat de gegevens over de maand december 2024). In tabel 3 is opgenomen op welke data in 2025 de maandverwerking plaatsvindt.
-
-### § 4. Wijze van aanlevering
-
-### § 4.1. Aanlevering via Managed File Transfer en/of webportaal
-
-Bevoegde gezagsorganen en administratiekantoren maken gebruik van PSA (Personeels- en Salarisadministratie)-softwarepakketten voor het leveren van gegevens aan het Pf.
-
-De levering via de PSA-softwarepakketten geschiedt met behulp van Managed File Transfer (MFT). De MFT voorziet in een beveiligde verbinding tussen de gegevensleverancier en het Pf.
-
-### § 4.2. Bestandsformaat
-
-Het bestandsformaat van de gegevenslevering is het Extensive Markup Language formaat (XML-formaat). Dit is standaard van het World Wide Web Consortium voor de syntaxis van formele opmaaktalen waarmee men gestructureerde gegevens kan weergeven in de vorm van platte tekst. Deze presentatie is zowel machineleesbaar als leesbaar voor de mens. Het XML-formaat wordt gebruikt om gegevens op te slaan en om gegevens over het internet te versturen.
-
-### § 5. Gegevenstabellen

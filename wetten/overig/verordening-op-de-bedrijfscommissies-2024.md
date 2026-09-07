@@ -1,48 +1,18 @@
 ---
 title: "Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)"
+citeertitel: "Verordening op de bedrijfscommissies 2024"
 identifier: "BWBR0050288"
-country: "nl"
-rank: "pbo"
-publication_date: "2026-01-31"
-last_updated: "2026-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050288"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17239003"
-version_id: "30360792"
-internal_id: "C43545961"
-label_id: "17144934"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050288/2026-01-31/0"
-intitule_bron: "Stcrt.2024-33137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-26"
-intitule_published: "2024-10-14"
-intitule_in_force: "2024-10-14"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-33137"
-original_signed_date: "2024-09-26"
-original_published_date: "2024-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-33137"
-entry_into_force_date: "2024-10-15"
-jci_1_3: "jci1.3:c:BWBR0050288&z=2026-01-31&g=2026-01-31"
-jci_1_0: "1.0:c:BWBR0050288&g=2026-01-31"
-citeertitel_status: "officieel"
-short_title: "Verordening op de bedrijfscommissies 2024"
-signed_date: "2024-09-26"
-entry_into_force: "2024-10-15"
+publicatiedatum: 2024-10-15
+laatste_update: 2026-01-31
+status: geldig
+toestand: 2026-01-31
+bron: "https://wetten.overheid.nl/BWBR0050288"
+opgehaald: 2026-09-07
 ---
+
 # Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)
-
-Gelet op [artikel 36 van de Wet op de Sociaal-Economische Raad](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
-
-Gelet op [artikel 39 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=39);
-
-Gehoord de Commissie Bevordering Medezeggenschap;
-
-Besluit:
 
 #### § 1. Definities
 
@@ -50,11 +20,11 @@ Besluit:
 
 In deze verordening wordt verstaan onder:
 
-- a. **de wet:** de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747);
+- a. *de wet:* de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747);
 
-- b. **de Minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+- b. *de Minister:* de Minister van Sociale Zaken en Werkgelegenheid;
 
-- c. **de Raad:** de Sociaal-Economische Raad.
+- c. *de Raad:* de Sociaal-Economische Raad.
 
 ##### Artikel 2
 
@@ -182,17 +152,17 @@ Leden van een bedrijfscommissie onthouden zich van medestemmen over zaken die he
 
 2. Het schriftelijk verslag dat de bedrijfscommissie overeenkomstig [artikel 14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050288&paragraaf=3&artikel=14&z=2026-01-31&g=2026-01-31) opmaakt van de bevindingen waartoe zij bij haar bemiddeling is gekomen, bevat ten minste de volgende onderdelen:
 
-- –. de datum waarop de bemiddeling is gevraagd;
+- – de datum waarop de bemiddeling is gevraagd;
 
-- –. een duidelijke vermelding van de partijen bij het geschil;
+- – een duidelijke vermelding van de partijen bij het geschil;
 
-- –. een omschrijving van het geschil en van de standpunten en argumenten van partijen, onder vermelding van het artikel of de artikelen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) waarop het geschil betrekking heeft;
+- – een omschrijving van het geschil en van de standpunten en argumenten van partijen, onder vermelding van het artikel of de artikelen van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) waarop het geschil betrekking heeft;
 
-- –. een mededeling over de wijze waarop de bedrijfscommissie tussen partijen heeft bemiddeld;
+- – een mededeling over de wijze waarop de bedrijfscommissie tussen partijen heeft bemiddeld;
 
-- –. een advies aan partijen over de oplossing van het geschil;
+- – een advies aan partijen over de oplossing van het geschil;
 
-- –. de datum van het verslag.
+- – de datum van het verslag.
 
 3. De bedrijfscommissie zendt een afschrift van het verslag zo spoedig mogelijk aan de verzoeker en diens wederpartij.
 
@@ -202,7 +172,7 @@ Een bedrijfscommissie informeert en adviseert de Minister, de Raad en zijn commi
 
 ##### Artikel 18
 
-Een bedrijfscommissie brengt jaarlijks voor 1 april aan de Minister en de Raad verslag uit van haar werkzaamheden in het afgelopen kalenderjaar.
+Een bedrijfscommissie brengt jaarlijks voor 1 april aan de Minister en de Raad verslag uit van haar werkzaamheden in het afgelopen kalenderjaar.
 
 Het verslag wordt door de bedrijfscommissie, zonodig tegen betaling van de kosten, algemeen verkrijgbaar gesteld.
 
@@ -218,7 +188,7 @@ Bij het voor de eerste maal samenstellen van een bedrijfscommissie treedt voor d
 
 ##### Artikel 21
 
-De verordening van de Raad van 22 maart 2002 ([Verordening op de bedrijfscommissies 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013537)), inclusief de wijzigingsverordeningen van 2011 en 2013, wordt ingetrokken.
+De verordening van de Raad van 22 maart 2002 ([Verordening op de bedrijfscommissies 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013537)), inclusief de wijzigingsverordeningen van 2011 en 2013, wordt ingetrokken.
 
 ##### Artikel 22
 

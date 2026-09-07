@@ -1,47 +1,17 @@
 ---
 title: "Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024"
 identifier: "BWBR0050261"
-country: "nl"
-rank: "reglement"
-publication_date: "2024-10-01"
-last_updated: "2024-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050261"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "17233243"
-version_id: "30351512"
-internal_id: "C43530781"
-label_id: "17139114"
-dtd_version: "2.0"
-original_entry_into_force: "2024-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050261/2024-10-01/0"
-intitule_bron: "Stcrt.2024-32474"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-09-26"
-intitule_published: "2024-10-04"
-intitule_in_force: "2024-10-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2024-32474"
-original_signed_date: "2024-09-26"
-original_published_date: "2024-10-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2024-32474"
-entry_into_force_date: "2024-10-01"
-jci_1_3: "jci1.3:c:BWBR0050261&z=2024-10-01&g=2024-10-01"
-jci_1_0: "1.0:c:BWBR0050261&g=2024-10-01"
-citeertitel_status: "officieel"
-signed_date: "2024-09-26"
-entry_into_force: "2024-10-01"
+publicatiedatum: 2024-10-01
+laatste_update: 2024-10-01
+status: geldig
+toestand: 2024-10-01
+bron: "https://wetten.overheid.nl/BWBR0050261"
+opgehaald: 2026-09-07
 ---
+
 # Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024
-
-Overwegende dat het gewenst is nadere regels te stellen ten aanzien van de beslissings- en ondertekeningbevoegdheden bij publiekrechtelijke en privaatrechtelijke rechtshandelingen en feitelijke handelingen;
-
-Gelet op [titel 10.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=10.1), [titel 3 van het Burgerlijk Wetboek 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=3), de [Comptabiliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0039429) en de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=6.2), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=6.3), en [6.4 van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=6.4);
-
-BESLUIT:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,49 +19,51 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In dit besluit wordt verstaan onder:
 
-- a. **Griffier:** het ambtelijk hoofd van de ambtelijke organisatie Tweede Kamer der Staten-Generaal;
+- a. *Griffier:* het ambtelijk hoofd van de ambtelijke organisatie Tweede Kamer der Staten-Generaal;
 
-- b. **Directeur:** functionaris zoals bedoeld in [artikel 6.3 van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=6.3);
+- b. *Directeur:* functionaris zoals bedoeld in [artikel 6.3 van het Reglement van Orde van de Tweede Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=6.3);
 
-- c. **plaatsvervangend Griffier:** de op voordracht van het presidium door de Kamer aangewezen functionaris;
+- c. *plaatsvervangend Griffier:* de op voordracht van het presidium door de Kamer aangewezen functionaris;
 
-- d. **portefeuillehouder:** de Griffier of directeur met onder zich een aantal organisatieonderdelen;
+- d. *portefeuillehouder:* de Griffier of directeur met onder zich een aantal organisatieonderdelen;
 
-- e. **portefeuille:** organisatieonderdelen vallend onder de Griffier dan wel een directeur;
+- e. *portefeuille:* organisatieonderdelen vallend onder de Griffier dan wel een directeur;
 
-- f. **staf:** het team dat rechtstreeks onder de verantwoordelijkheid van een directeur valt en de directeur ondersteunt bij zijn werkzaamheden;
+- f. *staf:* het team dat rechtstreeks onder de verantwoordelijkheid van een directeur valt en de directeur ondersteunt bij zijn werkzaamheden;
 
-- g. **diensthoofd:** leidinggevende rechtstreeks vallend onder een portefeuillehouder;
+- g. *diensthoofd:* leidinggevende rechtstreeks vallend onder een portefeuillehouder;
 
-- h. **diensthoofd HR:** diensthoofd van de stafdienst Human Resources;
+- h. *diensthoofd HR:* diensthoofd van de stafdienst Human Resources;
 
-- i. **diensthoofd FEZ:** diensthoofd van de stafdienst Financieel Economische Zaken;
+- i. *diensthoofd FEZ:* diensthoofd van de stafdienst Financieel Economische Zaken;
 
-- j. **dienst:** organisatieonderdeel dat rechtstreeks onder de verantwoordelijkheid van een diensthoofd valt;
+- j. *dienst:* organisatieonderdeel dat rechtstreeks onder de verantwoordelijkheid van een diensthoofd valt;
 
-- k. **integraal management:** management van directie of dienst met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;
+- k. *integraal management:* management van directie of dienst met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;
 
-- l. **leidinggevende:** een leidinggevende functie van een organisatieonderdeel anders dan een directeur of een diensthoofd;
+- l. *leidinggevende:* een leidinggevende functie van een organisatieonderdeel anders dan een directeur of een diensthoofd;
 
-- m. **team:** onderdeel binnen een dienst dat rechtstreeks onder de verantwoordelijkheid van een leidinggevende valt;
+- m. *team:* onderdeel binnen een dienst dat rechtstreeks onder de verantwoordelijkheid van een leidinggevende valt;
 
-- n. **medewerker:** de ambtenaar in de zin van de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) die werkzaam is bij de Tweede Kamer;
+- n. *medewerker:* de ambtenaar in de zin van de [Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) die werkzaam is bij de Tweede Kamer;
 
-- o. **mandaat:** de bevoegdheid om namens de Griffier besluiten te nemen;
+- o. *mandaat:* de bevoegdheid om namens de Griffier besluiten te nemen;
 
-- p. **volmacht:** de bevoegdheid om namens de Griffier privaatrechtelijke rechtshandelingen te verrichten;
+- p. *volmacht:* de bevoegdheid om namens de Griffier privaatrechtelijke rechtshandelingen te verrichten;
 
-- q. **machtiging:** de bevoegdheid om in naam van de Griffier handelingen te verrichten die noch besluiten noch privaatrechtelijke rechtshandelingen zijn. Dit zijn feitelijke handelingen;
+- q. *machtiging:* de bevoegdheid om in naam van de Griffier handelingen te verrichten die noch besluiten noch privaatrechtelijke rechtshandelingen zijn. Dit zijn feitelijke handelingen;
 
-- r. **presidium:** het orgaan van de Tweede Kamer als bedoeld in [artikel 3.6 van het Reglement van Orde Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=3.6);
+- r. *presidium:* het orgaan van de Tweede Kamer als bedoeld in [artikel 3.6 van het Reglement van Orde Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0044975&artikel=3.6);
 
-- s. **AVG:** Algemene verordening gegevensbescherming;
+- s. *AVG:* Algemene verordening gegevensbescherming;
 
-- t. **Who:** [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795);
+- t. *Who:*
+ [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795);
 
-- u. **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+- u. *Woo:*
+ [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- v. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen.
+- v. *UWV:* Uitvoeringsinstituut Werknemersverzekeringen.
 
 ##### Artikel 2. Organisatie
 
@@ -119,9 +91,9 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 - h. het uitoefenen van de navolgende rechtshandelingen, voor zover dit ziet op onder diens verantwoordelijkheid vallende staf en met inachtneming van de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=3&z=2024-10-01&g=2024-10-01) genoemde grensbedragen:
 
-- i. het afsluiten van koop-, huur- of leaseovereenkomsten;
+   - i. het afsluiten van koop-, huur- of leaseovereenkomsten;
 
-- ii. het verlenen van opdrachten voor het aannemen van werk;
+   - ii. het verlenen van opdrachten voor het aannemen van werk;
 
 ##### Artikel 4. Volmacht en machtiging diensthoofden HR, FEZ en Automatisering en diensthoofd Juridische Zaken
 
@@ -163,7 +135,7 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 - g. het afhandelen van alle door de portefeuillehouders ter betaling aangeboden betaalstukken;
 
-- h. het kwijtschelden of buiten invordering stellen van vorderingen op leden van de Tweede Kamer en op derden tot een bedrag van € 5.000,–;
+- h. het kwijtschelden of buiten invordering stellen van vorderingen op leden van de Tweede Kamer en op derden tot een bedrag van € 5.000,–;
 
 - i. het buitenrechtelijk invorderen van geldvorderingen van de Staat der Nederlanden c.q. de Tweede Kamer der Staten-Generaal;
 
@@ -187,9 +159,9 @@ Aan de directeuren wordt mandaat, volmacht of machtiging verleend tot:
 
 - e. het uitoefenen van de navolgende rechtshandelingen, voor zover dit ziet op de onder hun verantwoordelijkheid vallende dienst en met inachtneming van de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=3&z=2024-10-01&g=2024-10-01) genoemde grensbedragen:
 
-- i. het afsluiten van koop-, huur- of leaseovereenkomsten;
+   - i. het afsluiten van koop-, huur- of leaseovereenkomsten;
 
-- ii. het verlenen van opdrachten voor het aannemen van werk;
+   - ii. het verlenen van opdrachten voor het aannemen van werk;
 
 - f. het toekennen van een parkeerplaats in de parkeergarage voor zover de medewerker ressorteert onder de portefeuille van de desbetreffende directeur.
 
@@ -227,9 +199,9 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 1. Met betrekking tot alle financiële taken en bevoegdheden als bedoeld in dit besluit geldt dat:
 
-- a. portefeuillehouders verplichtingen en betalingen boven € 175.000,– goedkeuren en ondertekenen;
+- a. portefeuillehouders verplichtingen en betalingen boven € 175.000,– goedkeuren en ondertekenen;
 
-- b. portefeuillehouders een actieve informatieplicht aan het presidium hebben voor verplichtingen en betalingen boven € 250.000,–;
+- b. portefeuillehouders een actieve informatieplicht aan het presidium hebben voor verplichtingen en betalingen boven € 250.000,–;
 
 - c. portefeuillehouders een actieve informatieplicht hebben aan de Griffier en aan het presidium daar waar het politiek gevoelige verplichtingen of betalingen betreft.
 
@@ -239,15 +211,15 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ##### Artikel 10. Grensbedragen en ondertekening diensthoofden en andere medewerkers
 
-1. De diensthoofden zijn bevoegd voor hun dienst de in [artikel 5, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), van dit besluit genoemde overeenkomsten af te sluiten en opdrachten aan te nemen voor verplichtingen tot een bedrag van € 175.000,– en betalingen te verrichten tot eenzelfde bedrag.
+1. De diensthoofden zijn bevoegd voor hun dienst de in [artikel 5, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=2&artikel=5&z=2024-10-01&g=2024-10-01), van dit besluit genoemde overeenkomsten af te sluiten en opdrachten aan te nemen voor verplichtingen tot een bedrag van € 175.000,– en betalingen te verrichten tot eenzelfde bedrag.
 
 2. Voor ondertekening namens de portefeuillehouders of diensthoofden geldt dat:
 
-- a. de manager Inkoop bevoegd is verplichtingen tot een bedrag van € 175.000,– te ondertekenen;
+- a. de manager Inkoop bevoegd is verplichtingen tot een bedrag van € 175.000,– te ondertekenen;
 
-- b. de inkoopadviseur bevoegd is verplichtingen tot een bedrag van € 75.000,– te ondertekenen;
+- b. de inkoopadviseur bevoegd is verplichtingen tot een bedrag van € 75.000,– te ondertekenen;
 
-- c. de adviseur bedrijfsvoering en inkoop bevoegd is verplichtingen tot een bedrag van € 5.000,– te ondertekenen.
+- c. de adviseur bedrijfsvoering en inkoop bevoegd is verplichtingen tot een bedrag van € 5.000,– te ondertekenen.
 
 3. Bij het verlenen van bevoegdheden als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050261&hoofdstuk=2&artikel=6&z=2024-10-01&g=2024-10-01) van dit besluit worden aan de verlening de grensbedragen gekoppeld, zoals bedoeld in artikel 10, eerste lid, van dit besluit.
 
@@ -283,7 +255,7 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ##### Artikel 14. Intrekking en overgangsrecht
 
-1. Met de inwerkingtreding van onderhavig besluit wordt het [Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047726) van 30 december 2022 ingetrokken.
+1. Met de inwerkingtreding van onderhavig besluit wordt het [Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047726) van 30 december 2022 ingetrokken.
 
 2. Besluiten of handelingen die op grond van het [Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047726) zijn genomen of verricht in de periode tot de datum van inwerkingtreding van dit besluit en waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, worden aangemerkt als te zijn genomen of verricht namens de Griffier.
 
@@ -291,8 +263,6 @@ Aangelegenheden waarvan de aard zich verzet tegen verlening van mandaat of volma
 
 ##### Artikel 15. Inwerkingtreding en citeertitel
 
-1. Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 oktober 2024.
+1. Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 oktober 2024.
 
 2. Dit besluit wordt aangehaald als ‘Besluit mandaat, volmacht en machtiging ambtelijke organisatie Tweede Kamer der Staten-Generaal 2024’.
-
-## Bijlage 1. Organogram

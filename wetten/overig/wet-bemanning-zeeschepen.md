@@ -1,47 +1,18 @@
 ---
 title: "Wet van 11 december 2024, houdende regels over het bemannen van zeeschepen (Wet bemanning zeeschepen)"
+citeertitel: "Wet bemanning zeeschepen"
 identifier: "BWBR0050681"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050681"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17341883"
-version_id: "30565012"
-internal_id: "C44059011"
-label_id: "17246994"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050681/2025-07-01/0"
-intitule_bron: "Stb.2025-9"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-12-11"
-intitule_published: "2025-01-17"
-intitule_in_force: "2025-05-28"
-intitule_status: "goed"
-original_publication: "Stb.2025-9"
-original_signed_date: "2024-12-11"
-original_published_date: "2025-01-17"
-original_effect: "nieuwe-regeling"
-original_dossier: "36440"
-original_url_id: "stb-2025-9"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0050681&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0050681&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet bemanning zeeschepen"
-signed_date: "2024-12-11"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0050681"
+opgehaald: 2026-09-07
 ---
+
 # Wet van 11 december 2024, houdende regels over het bemannen van zeeschepen (Wet bemanning zeeschepen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is de bepalingen ten aanzien van het bemannen van zeeschepen in de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) te herzien en te moderniseren met het oogmerk de veiligheid van zeeschepen en de scheepvaart verder te bevorderen, het welzijn van de zeevarenden aan boord te waarborgen en ter uitvoering van het op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144), het op 7 juli 1995 te Londen tot stand gekomen Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen van de Internationale Maritieme Organisatie (Trb. 2013, 218), het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93), het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (Trb. 2011, 152) en de daarmee samenhangende Europese richtlijnen;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -49,107 +20,111 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **ambtenaren van de Inspectie Leefomgeving en Transport:** door Onze Minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport;
+- *ambtenaren van de Inspectie Leefomgeving en Transport:* door Onze Minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport;
 
-- **bekwaamheidsbewijs:** geldig document, anders dan een vaarbevoegdheidsbewijs, afgegeven aan een zeevarende, waaruit blijkt dat een door Onze Minister erkende training met goed gevolg is afgesloten waarmee wordt voldaan aan een of meer beroepseisen;
+- *bekwaamheidsbewijs:* geldig document, anders dan een vaarbevoegdheidsbewijs, afgegeven aan een zeevarende, waaruit blijkt dat een door Onze Minister erkende training met goed gevolg is afgesloten waarmee wordt voldaan aan een of meer beroepseisen;
 
-- **bemanning:** kapitein, de officieren, de gezellen en de overige zeevarenden;
+- *bemanning:* kapitein, de officieren, de gezellen en de overige zeevarenden;
 
-- **bemanningscertificaat:** door Onze Minister afgegeven certificaat, houdende het minimumaantal bemanningsleden met hun functies aan boord van het betrokken zeeschip;
+- *bemanningscertificaat:* door Onze Minister afgegeven certificaat, houdende het minimumaantal bemanningsleden met hun functies aan boord van het betrokken zeeschip;
 
-- **bemanningslijst:** bij het FAL-verdrag ingevoerde standaardverklaring die informatie bevat die betrekking heeft op de bemanningssamenstelling van een zeeschip;
+- *bemanningslijst:* bij het FAL-verdrag ingevoerde standaardverklaring die informatie bevat die betrekking heeft op de bemanningssamenstelling van een zeeschip;
 
-- **bemanningsplan:** voorstel van de scheepsbeheerder, houdende het aantal bemanningsleden met hun functies aan boord waarmee de scheepsbeheerder het betrokken zeeschip minimaal wenst te bemannen;
+- *bemanningsplan:* voorstel van de scheepsbeheerder, houdende het aantal bemanningsleden met hun functies aan boord waarmee de scheepsbeheerder het betrokken zeeschip minimaal wenst te bemannen;
 
-- **beroepseisen:** krachtens deze wet gestelde eisen ten aanzien van de kennis, de vaardigheden, de diensttijd en de leeftijd voor een functie aan boord of voor werkzaamheden waarop deze wet van toepassing is;
+- *beroepseisen:* krachtens deze wet gestelde eisen ten aanzien van de kennis, de vaardigheden, de diensttijd en de leeftijd voor een functie aan boord of voor werkzaamheden waarop deze wet van toepassing is;
 
-- **C188-verdrag:** het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (Trb. 2011, 152);
+- *C188-verdrag:* het op 14 juni 2007 te Genève tot stand gekomen Verdrag betreffende werk in de visserijsector (Trb. 2011, 152);
 
-- **Caribisch-Nederlands zeeschip:** zeeschip dat op grond van de [Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292) is geregistreerd in de openbare lichamen Bonaire, Sint-Eustatius of Saba;
+- *Caribisch-Nederlands zeeschip:* zeeschip dat op grond van de [Vaartuigenwet 1930 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028292) is geregistreerd in de openbare lichamen Bonaire, Sint-Eustatius of Saba;
 
-- **certificaat maritieme arbeid:** certificaat, bedoeld in voorschrift 5.1.3, derde lid, van het MLC-verdrag;
+- *certificaat maritieme arbeid:* certificaat, bedoeld in voorschrift 5.1.3, derde lid, van het MLC-verdrag;
 
-- **diensttijd:** dienstdoen aan boord van een zeeschip voor zover van belang voor de afgifte of vernieuwing van een vaarbevoegdheidsbewijs, een bekwaamheidsbewijs of een andere kwalificatie;
+- *diensttijd:* dienstdoen aan boord van een zeeschip voor zover van belang voor de afgifte of vernieuwing van een vaarbevoegdheidsbewijs, een bekwaamheidsbewijs of een andere kwalificatie;
 
-- **FAL-verdrag:** op 9 april 1965 te Londen tot stand gekomen Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee (Trb. 1966, 162);
+- *FAL-verdrag:* op 9 april 1965 te Londen tot stand gekomen Verdrag inzake het vergemakkelijken van het internationale verkeer ter zee (Trb. 1966, 162);
 
-- **geneeskundige verklaring zeevaart:** verklaring als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=31&z=2025-07-01&g=2025-07-01);
+- *geneeskundige verklaring zeevaart:* verklaring als bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=31&z=2025-07-01&g=2025-07-01);
 
-- **GT:** maateenheid brutotonnage waarin de totale inhoud van een zeeschip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen tot stand gekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
+- *GT:* maateenheid brutotonnage waarin de totale inhoud van een zeeschip, vastgesteld overeenkomstig het op 23 juni 1969 te Londen tot stand gekomen Verdrag betreffende de meting van schepen (Trb. 1970, 122), wordt uitgedrukt;
 
-- **gezel:** lid van de bemanning, anders dan de kapitein of een officier die een functie uitoefent genoemd in het STCW-verdrag of STCW F-verdrag;
+- *gezel:* lid van de bemanning, anders dan de kapitein of een officier die een functie uitoefent genoemd in het STCW-verdrag of STCW F-verdrag;
 
-- **IMO-nummer:** scheepsidentificatienummer, bedoeld in voorschrift XI-1/3 van het SOLAS-verdrag;
+- *IMO-nummer:* scheepsidentificatienummer, bedoeld in voorschrift XI-1/3 van het SOLAS-verdrag;
 
-- **kapitein:** gezagvoerder van een zeeschip;
+- *kapitein:* gezagvoerder van een zeeschip;
 
-- **kennisbewijs:** bewijs van:
+- *kennisbewijs:* bewijs van:
 
-- 1°. het met goed gevolg hebben afgesloten van een beroepsopleiding of een onderdeel daarvan als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), of
+   - 1° het met goed gevolg hebben afgesloten van een beroepsopleiding of een onderdeel daarvan als bedoeld in de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625), of
 
-- 2°. het met goed gevolg hebben afgelegd van het afsluitend examen van een opleiding of een tentamen van een tot die opleiding behorende onderwijseenheid als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+   - 2° het met goed gevolg hebben afgelegd van het afsluitend examen van een opleiding of een tentamen van een tot die opleiding behorende onderwijseenheid als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- **koud opgelegd zeeschip:** zeeschip zonder vaste bemanning dat gedurende langere tijd niet wordt geëxploiteerd;
+- *koud opgelegd zeeschip:* zeeschip zonder vaste bemanning dat gedurende langere tijd niet wordt geëxploiteerd;
 
-- **maand:** een kalendermaand of 30 dagen samengesteld uit perioden van minder dan een maand;
+- *maand:* een kalendermaand of 30 dagen samengesteld uit perioden van minder dan een maand;
 
-- **MLC-verdrag:** op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93) en de bij dat verdrag behorende bindende protocollen en aanhangselen;
+- *MLC-verdrag:* op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag, 2006 (Trb. 2007, 93) en de bij dat verdrag behorende bindende protocollen en aanhangselen;
 
-- **monsterboekje:** door Onze Minister of een bevoegde buitenlandse maritieme autoriteit afgegeven document uitgereikt aan een zeevarende dat een overzicht bevat van zijn functie en opgedane diensttijd aan boord van een of meer schepen als bedoeld in het STCW-verdrag, het STCW F-verdrag, norm A2.1 van het MLC-verdrag of norm 3.10 van het FAL-verdrag;
+- *monsterboekje:* door Onze Minister of een bevoegde buitenlandse maritieme autoriteit afgegeven document uitgereikt aan een zeevarende dat een overzicht bevat van zijn functie en opgedane diensttijd aan boord van een of meer schepen als bedoeld in het STCW-verdrag, het STCW F-verdrag, norm A2.1 van het MLC-verdrag of norm 3.10 van het FAL-verdrag;
 
-- **Onze Minister:** Onze Minister van Infrastructuur en Waterstaat;
+- *Onze Minister:* Onze Minister van Infrastructuur en Waterstaat;
 
-- **officier:** lid van de bemanning, niet zijnde de kapitein, die als zodanig is aangewezen bij of krachtens deze wet;
+- *officier:* lid van de bemanning, niet zijnde de kapitein, die als zodanig is aangewezen bij of krachtens deze wet;
 
-- **opvarende:** eenieder die zich gedurende de vaart aan boord van het zeeschip bevindt;
+- *opvarende:* eenieder die zich gedurende de vaart aan boord van het zeeschip bevindt;
 
-- **pleziervaartuig:** zeeschip dat uitsluitend bestemd is of gebruikt wordt voor sportbeoefening of vrijetijdsbesteding, voor zover geen vergoeding wordt betaald voor het vervoer van passagiers;
+- *pleziervaartuig:* zeeschip dat uitsluitend bestemd is of gebruikt wordt voor sportbeoefening of vrijetijdsbesteding, voor zover geen vergoeding wordt betaald voor het vervoer van passagiers;
 
-- **richtlijn (EU) 2022/993:** [Richtlijn (EU)2022/993](32022L0993) van het Europees Parlement en de Raad van 8 juni 2022 inzake het minimumopleidingsniveau van zeevarenden (PbEU 2022, L 169);
+- *richtlijn (EU) 2022/993:*
+ Richtlijn (EU)2022/993 van het Europees Parlement en de Raad van 8 juni 2022 inzake het minimumopleidingsniveau van zeevarenden (PbEU 2022, L 169);
 
-- **richtlijn 92/29/EEG:** [Richtlijn 92/29/EEG](31992L0029) van de Raad van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG 1992, L 113);
+- *richtlijn 92/29/EEG:*
+ Richtlijn 92/29/EEG van de Raad van 31 maart 1992 betreffende de minimumvoorschriften inzake veiligheid en gezondheid ter bevordering van een betere medische hulpverlening aan boord van schepen (PbEG 1992, L 113);
 
-- **richtlijn 2009/13/EG:** [Richtlijn 2009/13/EG](32009L0013) van de Raad van 16 februari 2009 tot tenuitvoerlegging van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (ETF) inzake het verdrag betreffende maritieme arbeid van 2006 en tot wijziging van [Richtlijn 1999/63/EG](31999L0063) (PbEU 2009, L 124);
+- *richtlijn 2009/13/EG:*
+ Richtlijn 2009/13/EG van de Raad van 16 februari 2009 tot tenuitvoerlegging van de overeenkomst tussen de Associatie van reders van de Europese Gemeenschap (ECSA) en de Europese Federatie van vervoerswerknemers (ETF) inzake het verdrag betreffende maritieme arbeid van 2006 en tot wijziging van Richtlijn 1999/63/EG (PbEU 2009, L 124);
 
-- **richtlijn (EU) 2017/ 159:** [Richtlijn (EU) 2017/159](32017L0159) van de Raad van 19 december 2016 tot uitvoering van de op 21 mei 2012 door het Algemeen Comité van de landbouwcoöperaties van de Europese Unie (COGECA), de Europese Federatie van vervoerswerknemers (EFT) en de Vereniging van de nationale organisaties van visserijondernemingen in de Europese Unie (Europêche) gesloten Overeenkomst betreffende de uitvoering van het Verdrag betreffende werk in de visserijsector van de Internationale Arbeidsorganisatie uit 2007 (PbEU 2016, L 25);
+- *richtlijn (EU) 2017/ 159:*
+ Richtlijn (EU) 2017/159 van de Raad van 19 december 2016 tot uitvoering van de op 21 mei 2012 door het Algemeen Comité van de landbouwcoöperaties van de Europese Unie (COGECA), de Europese Federatie van vervoerswerknemers (EFT) en de Vereniging van de nationale organisaties van visserijondernemingen in de Europese Unie (Europêche) gesloten Overeenkomst betreffende de uitvoering van het Verdrag betreffende werk in de visserijsector van de Internationale Arbeidsorganisatie uit 2007 (PbEU 2016, L 25);
 
-- **scheepsbeheerder:** eigenaar of de rompbevrachter van een zeeschip, of een vennootschap als bedoeld in [artikel 194a van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het zeeschip heeft overgedragen, of indien het een vissersvaartuig betreft, de natuurlijke persoon of rechtspersoon aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het vissersvaartuig heeft overgedragen;
+- *scheepsbeheerder:* eigenaar of de rompbevrachter van een zeeschip, of een vennootschap als bedoeld in [artikel 194a van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194a) aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het zeeschip heeft overgedragen, of indien het een vissersvaartuig betreft, de natuurlijke persoon of rechtspersoon aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het vissersvaartuig heeft overgedragen;
 
-- **scheepslengte:** tenzij anders bepaald, 96 procent van de totale lengte op een waterlijn op 85 procent van de kleinste holte gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op die waterlijn, indien deze lengte groter is; bij vissersvaartuigen die met een stuurlast ontworpen zijn, moet de waterlijn waarop deze lengte gemeten wordt, evenwijdig aan de ontwerplastlijn worden genomen;
+- *scheepslengte:* tenzij anders bepaald, 96 procent van de totale lengte op een waterlijn op 85 procent van de kleinste holte gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op die waterlijn, indien deze lengte groter is; bij vissersvaartuigen die met een stuurlast ontworpen zijn, moet de waterlijn waarop deze lengte gemeten wordt, evenwijdig aan de ontwerplastlijn worden genomen;
 
-- **schipper:** kapitein van een vissersvaartuig;
+- *schipper:* kapitein van een vissersvaartuig;
 
-- **schriftelijk bewijs:** bewijs, anders dan een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs, dat door een zeevarende aan een beroepseis is voldaan;
+- *schriftelijk bewijs:* bewijs, anders dan een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs, dat door een zeevarende aan een beroepseis is voldaan;
 
-- **SCV-code:** de in februari 2001 onder auspiciën van de IMO opgestelde en bij circulaire SLS.14/Circ.396, als voor het Koninkrijk der Nederlanden geldende equivalente regeling, aangemelde Code voor de veiligheid van kleine commerciële schepen waarmee reizen worden ondernomen in het Caribisch gebied (Code of Safety for Small Commercial Vessels operating in the Caribbean);
+- *SCV-code:* de in februari 2001 onder auspiciën van de IMO opgestelde en bij circulaire SLS.14/Circ.396, als voor het Koninkrijk der Nederlanden geldende equivalente regeling, aangemelde Code voor de veiligheid van kleine commerciële schepen waarmee reizen worden ondernomen in het Caribisch gebied (Code of Safety for Small Commercial Vessels operating in the Caribbean);
 
-- **SOLAS-verdrag:** op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
+- *SOLAS-verdrag:* op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen;
 
-- **STCW-verdrag:** op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144) en de bij dat verdrag behorende bindende bijlagen;
+- *STCW-verdrag:* op 7 juli 1978 te Londen tot stand gekomen Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978 (Trb. 1981, 144) en de bij dat verdrag behorende bindende bijlagen;
 
-- **STCW F-verdrag:** op 7 juli 1995 te Londen tot stand gekomen Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen van de Internationale Maritieme Organisatie (Trb. 2013, 218);
+- *STCW F-verdrag:* op 7 juli 1995 te Londen tot stand gekomen Internationaal Verdrag betreffende de normen inzake opleiding, diplomering en wachtdienst van personeel van vissersschepen van de Internationale Maritieme Organisatie (Trb. 2013, 218);
 
-- **tuchtcollege:** tuchtcollege voor de scheepvaart als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=5&paragraaf=1&artikel=41&z=2025-07-01&g=2025-07-01);
+- *tuchtcollege:* tuchtcollege voor de scheepvaart als bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=5&paragraaf=1&artikel=41&z=2025-07-01&g=2025-07-01);
 
-- **vaarbevoegdheidsbewijs:** geldig document afgegeven door Onze Minister waaruit de bevoegdheid blijkt om in een of meer functies, waarvoor bij of krachtens deze wet beroepseisen zijn gesteld, aan boord van een zeeschip dienst te doen;
+- *vaarbevoegdheidsbewijs:* geldig document afgegeven door Onze Minister waaruit de bevoegdheid blijkt om in een of meer functies, waarvoor bij of krachtens deze wet beroepseisen zijn gesteld, aan boord van een zeeschip dienst te doen;
 
-- **verklaring naleving maritieme arbeid:** verklaring als bedoeld in norm A 5.1.3, tiende lid, van het MLC-verdrag, bestaande uit deel I en deel II;
+- *verklaring naleving maritieme arbeid:* verklaring als bedoeld in norm A 5.1.3, tiende lid, van het MLC-verdrag, bestaande uit deel I en deel II;
 
-- **verwerking van persoonsgegevens:** het verwerken van persoonsgegevens als bedoeld in artikel 4, onderdelen 1 en 2, van de Algemene verordening gegevensbescherming;
+- *verwerking van persoonsgegevens:* het verwerken van persoonsgegevens als bedoeld in artikel 4, onderdelen 1 en 2, van de Algemene verordening gegevensbescherming;
 
-- **visser:** zeevarende werkzaam op een vissersvaartuig;
+- *visser:* zeevarende werkzaam op een vissersvaartuig;
 
-- **vissersvaartuig:** zeeschip dat bestemd is of gebezigd wordt voor het bedrijfsmatig vangen van vis of van andere levende rijkdommen van de zee;
+- *vissersvaartuig:* zeeschip dat bestemd is of gebezigd wordt voor het bedrijfsmatig vangen van vis of van andere levende rijkdommen van de zee;
 
-- **visserij-arbeidscertificaat:** document als bedoeld in artikel 41 van het C188-verdrag;
+- *visserij-arbeidscertificaat:* document als bedoeld in artikel 41 van het C188-verdrag;
 
-- **zeeschip:** schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
+- *zeeschip:* schip dat op grond van voor Nederland geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren;
 
-- **zeevarende:** natuurlijke persoon die in enige hoedanigheid werkzaamheden verricht aan boord van een zeeschip;
+- *zeevarende:* natuurlijke persoon die in enige hoedanigheid werkzaamheden verricht aan boord van een zeeschip;
 
-- **zeilschip:** zeeschip dat bestemd en ingericht is om hoofdzakelijk door middel van zeilen te worden voortbewogen;
+- *zeilschip:* zeeschip dat bestemd en ingericht is om hoofdzakelijk door middel van zeilen te worden voortbewogen;
 
-- **zeilvaart:** bedrijfsmatige vaart met zeilschepen op zee.
+- *zeilvaart:* bedrijfsmatige vaart met zeilschepen op zee.
 
 ##### Artikel 2. Reikwijdte en uitzonderingen
 
@@ -175,7 +150,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het bepaalde bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=2&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), en [35 tot en met 40](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=4&artikel=35&z=2025-07-01&g=2025-07-01) is niet van toepassing op niet commercieel gebruikte zeeschepen.
 
-6. Bij ministeriële regeling kan na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, voor categorieën zeeschepen van minder dan 200 GT die geen internationale reizen maken, worden bepaald dat van het bepaalde bij of krachtens deze wet onder daarbij te stellen regels vrijstelling wordt verleend indien deze niet praktisch uitvoerbaar of onredelijk zijn, als bedoeld in artikel II, zesde lid, van het MLC-verdrag.
+6. Bij ministeriële regeling kan na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, voor categorieën zeeschepen van minder dan 200 GT die geen internationale reizen maken, worden bepaald dat van het bepaalde bij of krachtens deze wet onder daarbij te stellen regels vrijstelling wordt verleend indien deze niet praktisch uitvoerbaar of onredelijk zijn, als bedoeld in artikel II, zesde lid, van het MLC-verdrag.
 
 7. Bij ministeriële regeling kunnen, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, categorieën van personen worden aangewezen die in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=1&artikel=1&z=2025-07-01&g=2025-07-01) niet worden aangemerkt als zeevarenden, als bedoeld in artikel II, derde lid, van het MLC-verdrag.
 
@@ -201,7 +176,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. De scheepsbeheerder draagt er zorg voor dat zijn zeeschip of zeeschepen zodanig zijn bemand dat redelijkerwijs alle werkzaamheden aan boord kunnen worden verricht gelet op de bedrijfsvoering, het voorkomen van oververmoeidheid van zeevarenden, zonder gevaar voor de opvarenden, het zeeschip, de lading, het milieu of het scheepvaartverkeer en met inachtneming van de geldende arbeids- en rusttijden.
 
-2. De scheepsbeheerder draagt er zorg voor dat elke zeevarende aan boord voldoet aan de bij of krachtens deze wet gestelde eisen ten aanzien van de opleiding, kennis, diensttijd, vakbekwaamheid en medische geschiktheid, in overeenstemming met de bepalingen opgenomen in [richtlijn (EU) 2022/993](32022L0993), [richtlijn 2009/13/EG](32009L0013), [richtlijn (EU) 2017/159](32017L0159), het SOLAS-verdrag, het STCW-verdrag, STCW F-verdrag, het MLC-verdrag of het C188-verdrag.
+2. De scheepsbeheerder draagt er zorg voor dat elke zeevarende aan boord voldoet aan de bij of krachtens deze wet gestelde eisen ten aanzien van de opleiding, kennis, diensttijd, vakbekwaamheid en medische geschiktheid, in overeenstemming met de bepalingen opgenomen in richtlijn (EU) 2022/993, richtlijn 2009/13/EG, richtlijn (EU) 2017/159, het SOLAS-verdrag, het STCW-verdrag, STCW F-verdrag, het MLC-verdrag of het C188-verdrag.
 
 3. De scheepsbeheerder draagt zorg voor behoorlijke en veilige huisvesting, recreatieve voorzieningen en kosteloos drinkwater en voeding van voldoende hoeveelheid, kwaliteit, voedingswaarde en variëteit en rekening houdend met godsdienstige voorschriften en culturele gebruiken voor de zeevarenden aan boord van zijn zeeschip, met inachtneming van de daaraan bij ministeriële regeling, in overeenstemming met de in het MLC-verdrag of het C188-verdrag gestelde eisen.
 
@@ -409,7 +384,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 ##### Artikel 25. Aanvullende beroepseisen
 
-1. Een zeevarende die aan boord van een zeeschip een functie of taak vervult als bedoeld in hoofdstuk VI van het STCW-verdrag, de hoofdstukken III en IV van het STCW F-verdrag, voorschrift 1.3, eerste en tweede lid, van de code bij het MLC-verdrag, artikel 31, onderdeel b, van het C188-verdrag of [richtlijn 92/29/EEG](31992L0029) is in het bezit van een bekwaamheidsbewijs of schriftelijk bewijs voor die functie of taak en voldoet alvorens hij deze aanvangt aan de overige aanvullende eisen voor die functie of taak.
+1. Een zeevarende die aan boord van een zeeschip een functie of taak vervult als bedoeld in hoofdstuk VI van het STCW-verdrag, de hoofdstukken III en IV van het STCW F-verdrag, voorschrift 1.3, eerste en tweede lid, van de code bij het MLC-verdrag, artikel 31, onderdeel b, van het C188-verdrag of richtlijn 92/29/EEG is in het bezit van een bekwaamheidsbewijs of schriftelijk bewijs voor die functie of taak en voldoet alvorens hij deze aanvangt aan de overige aanvullende eisen voor die functie of taak.
 
 2. Bij algemene maatregel van bestuur worden normen gesteld met betrekking tot de minimumeisen voor een functie of taak als bedoeld in het eerste lid.
 
@@ -431,7 +406,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 ##### Artikel 27. Erkenning buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
-1. Onze Minister kan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in artikel 20 van [richtlijn (EU) 2022/993](32022L0993) of een vaarbevoegdheidsbewijs als bedoeld in hoofdstuk II van de bijlage bij het STCW F-verdrag dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag of het STCW F-verdrag erkennen.
+1. Onze Minister kan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in artikel 20 van richtlijn (EU) 2022/993 of een vaarbevoegdheidsbewijs als bedoeld in hoofdstuk II van de bijlage bij het STCW F-verdrag dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag of het STCW F-verdrag erkennen.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot afgifte en intrekking van een erkenning als bedoeld in het eerste lid.
 
@@ -443,7 +418,7 @@ is in het bezit van een vaarbevoegdheidsbewijs of door Onze Minister erkend buit
 
 ##### Artikel 28. Aanvaarding buitenlands vaarbevoegdheidsbewijs of bekwaamheidsbewijs
 
-Bij algemene maatregel van bestuur kunnen in overeenstemming met [richtlijn (EU) 2022/993](32022L0993) en het STCW-verdrag regels worden gesteld met betrekking tot de aanvaarding van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag, anders dan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=27&z=2025-07-01&g=2025-07-01).
+Bij algemene maatregel van bestuur kunnen in overeenstemming met richtlijn (EU) 2022/993 en het STCW-verdrag regels worden gesteld met betrekking tot de aanvaarding van een vaarbevoegdheidsbewijs of een bekwaamheidsbewijs dat is afgegeven door of namens de bevoegde autoriteit van een staat die verdragspartij is bij het STCW-verdrag, anders dan een vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050681&hoofdstuk=3&artikel=27&z=2025-07-01&g=2025-07-01).
 
 ##### Artikel 29. Beroepseisen Caribisch-Nederlandse zeeschepen
 
@@ -557,7 +532,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 ##### Artikel 38. Visserij-arbeidscertificaat
 
-1. Onze Minister geeft op aanvraag van de scheepsbeheerder een visserij-arbeidscertificaat af voor een vissersvaartuig dat gewoonlijk per reis meer dan drie dagen op zee verblijft en een lengte heeft van 24 meter of meer dan wel normaliter vaart op een afstand van meer dan 200 zeemijl tot de Nederlandse kustlijn, indien na onderzoek is gebleken dat het desbetreffende vissersvaartuig ten minste voldoet aan de eisen van het C188-verdrag.
+1. Onze Minister geeft op aanvraag van de scheepsbeheerder een visserij-arbeidscertificaat af voor een vissersvaartuig dat gewoonlijk per reis meer dan drie dagen op zee verblijft en een lengte heeft van 24 meter of meer dan wel normaliter vaart op een afstand van meer dan 200 zeemijl tot de Nederlandse kustlijn, indien na onderzoek is gebleken dat het desbetreffende vissersvaartuig ten minste voldoet aan de eisen van het C188-verdrag.
 
 2. De scheepsbeheerder draagt er zorg voor dat de eisen voortkomend uit het C188-verdrag voortdurend worden nageleefd.
 
@@ -615,7 +590,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 2. Voor de aanvang van hun werkzaamheden leggen zij in handen van de president van het College van Beroep voor het bedrijfsleven de eed of belofte af. Het formulier voor de eed of belofte wordt bij ministeriële regeling vastgesteld.
 
-##### Artikel 44. Toepassing artikelen [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365)
+##### Artikel 44. Toepassing artikelen Wet rechtspositie rechterlijke ambtenaren
 
 1. Het voor de leden van de rechterlijke macht bepaalde in de [artikelen 46c, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46c), [46ca, eerste lid, onderdeel a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ca), [46f](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46f), [46g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46g), [46i, eerste lid, aanhef en onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i), [46l, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l), [46m](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46m), [46o](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46o) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46p) is van overeenkomstige toepassing ten aanzien van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege.
 
@@ -863,7 +838,7 @@ Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gestel
 
 - d. geen certificaat maritieme arbeid is afgegeven of het certificaat maritieme arbeid ongeldig is indien het brutotonnage van dat zeeschip 500 GT of meer, anders dan een vissersvaartuig bedraagt en internationale reizen maakt;
 
-- e. geen visserij-arbeidscertificaat is afgegeven of het visserij-arbeidscertificaat ongeldig is van een vissersvaartuig indien dat gewoonlijk per reis meer dan drie dagen op zee verblijft en een lengte heeft van 24 meter of meer dan wel normaliter vaart op een afstand van meer dan 200 zeemijl tot de Nederlandse kustlijn.
+- e. geen visserij-arbeidscertificaat is afgegeven of het visserij-arbeidscertificaat ongeldig is van een vissersvaartuig indien dat gewoonlijk per reis meer dan drie dagen op zee verblijft en een lengte heeft van 24 meter of meer dan wel normaliter vaart op een afstand van meer dan 200 zeemijl tot de Nederlandse kustlijn.
 
 - f. er sprake is van een ernstige of herhaalde schending van het MLC-verdrag dan wel, voor een vissersvaartuig, het C188-verdrag; of
 
@@ -933,9 +908,9 @@ Het is verboden met een zeeschip naar zee te gaan of een zeeschip naar zee te do
 
 2. Het is een kapitein, een officier of een andere zeevarende op een schip buiten de Nederlandse territoriale zee veiligheidstaken, beveiligingstaken of taken die verband houden met het mariene milieu uit te voeren, verboden dit te doen na zodanig gebruik van alcoholhoudende drank, dat:
 
-- a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan tweehonderdtwintig microgram (220 μg) alcohol per liter uitgeademde lucht, dan wel
+- a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan tweehonderdtwintig microgram (220 μg) alcohol per liter uitgeademde lucht, dan wel
 
-- b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram (0,5 mg) alcohol per milliliter bloed.
+- b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram (0,5 mg) alcohol per milliliter bloed.
 
 ##### Artikel 75. Verbodsbepalingen
 
@@ -1039,47 +1014,47 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van verdr
 
 ##### Artikel 85. Dynamische verwijzing (wijzigingen)
 
-1. Een wijziging van [richtlijn (EU) 2022/993](32022L0993), [richtlijn 2009/13/EG](32009L0013) of [richtlijn (EU) 2017/159](32017L0159), gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van richtlijn (EU) 2022/993, richtlijn 2009/13/EG of richtlijn (EU) 2017/159, gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. Een wijziging van de op grond van deze wet toepasselijke verdragen en codes gaat voor de toepassing van deze wet gelden met ingang van de dag waarop de betrokken wijziging door Nederland is aanvaard en internationaal in werking is getreden, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdsstip wordt vastgesteld.
 
-3. Bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, kunnen de benaming van [richtlijn (EU) 2022/993](32022L0993) en de verwijzing naar onderdelen daarvan worden gewijzigd.
+3. Bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, kunnen de benaming van richtlijn (EU) 2022/993 en de verwijzing naar onderdelen daarvan worden gewijzigd.
 
 ##### Artikel 86. Gebruik Engelse taal
 
 Ingeval bij of krachtens deze wet regels worden gesteld ter uitvoering van het STCW-verdrag, het STCW F-verdrag, het MLC-verdrag, C188-verdrag, het SOLAS-verdrag of de SCV-code, kan overtreding van die regels ook als strafbaar feit worden aangemerkt dan wel worden bestraft met een bestuurlijke sanctie indien deze regels in de Engelse taal zijn gesteld en bekend gemaakt.
 
-##### Artikel 87. Intrekken [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124)
+##### Artikel 87. Intrekken Wet zeevarenden
 
 De [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) wordt ingetrokken.
 
-##### Artikel 88. Wijziging [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746)
+##### Artikel 88. Wijziging Algemene douanewet
 
-Wijzigt de Algemene douanewet.
+*Wijzigt de Algemene douanewet.*
 
-##### Artikel 89. Wijziging [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947)
+##### Artikel 89. Wijziging Ambtenarenwet
 
-Wijzigt de Ambtenarenwet 2017.
+*Wijzigt de Ambtenarenwet 2017.*
 
-##### Artikel 90. Wijziging [Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
+##### Artikel 90. Wijziging Burgerlijk Wetboek
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
-##### Artikel 91. Wijziging [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063)
+##### Artikel 91. Wijziging Wet op de economische delicten
 
-Wijzigt de Wet op de economische delicten.
+*Wijzigt de Wet op de economische delicten.*
 
-##### Artikel 92. Wijziging [Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418)
+##### Artikel 92. Wijziging Wet ruimtevaartactiviteiten
 
-Wijzigt de Wet ruimtevaartactiviteiten.
+*Wijzigt de Wet ruimtevaartactiviteiten.*
 
-##### Artikel 93. Wijziging [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+##### Artikel 93. Wijziging Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen
 
-Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
+*Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.*
 
-##### Artikel 94. Wijziging [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854)
+##### Artikel 94. Wijziging Wetboek van Strafrecht
 
-Wijzigt het Wetboek van Strafrecht.
+*Wijzigt het Wetboek van Strafrecht.*
 
 ##### Artikel 95. Citeertitel
 
@@ -1088,5 +1063,3 @@ Deze wet wordt aangehaald als: Wet bemanning zeeschepen.
 ##### Artikel 96. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
