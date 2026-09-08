@@ -1,18 +1,18 @@
 ---
-title: "Regeling beroepsgerelateerde gezondheidsklachten politie"
+title: "Regeling van de Minister van Justitie en Veiligheid van 14 maart 2025, nr. 6204920, houdende regels voor de toepassing van het Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen (Regeling beroepsgerelateerde gezondheidsklachten politie)"
+citeertitel: "Regeling beroepsgerelateerde gezondheidsklachten politie"
 identifier: "BWBR0050873"
 categorie: "Gezondheidszorg"
-publicatiedatum: 2026-07-15
-laatste_update: 2026-07-16
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-04-01
+laatste_update: 2026-07-15
 status: geldig
+toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0050873"
+opgehaald: 2026-09-08
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 14 maart 2025, nr. 6204920, houdende regels voor de toepassing van het Besluit van 4 november 2024 tot wijziging van het Besluit algemene rechtspositie politie, het Besluit bezoldiging politie en enkele andere besluiten in verband met herziening van het stelsel voor beroepsziekten, beroepsincidenten en dienstongevallen (Regeling beroepsgerelateerde gezondheidsklachten politie)
-
-Gelet op de [artikelen 53b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53b), [53d, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53d), [53e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53e), [53f](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53f), [54, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), [54a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54a), en [54b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54b);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -20,33 +20,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **ambtenaar:** ambtenaar als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) of gewezen ambtenaar als bedoeld in artikel 1, eerste lid, van het Barp;
+- *ambtenaar:* ambtenaar als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1) of gewezen ambtenaar als bedoeld in artikel 1, eerste lid, van het Barp;
 
-- **Barp:** [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
+- *Barp:*
+ [Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516);
 
-- **Bbp:** [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
+- *Bbp:*
+ [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517);
 
-- **beroepsgerelateerd:** beroepsgerelateerd als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *beroepsgerelateerd:* beroepsgerelateerd als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **beroepsgerelateerde gezondheidsklachten:** beroepsgerelateerde gezondheidsklachten als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *beroepsgerelateerde gezondheidsklachten:* beroepsgerelateerde gezondheidsklachten als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **bezoldiging:** bezoldiging als bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
+- *bezoldiging:* bezoldiging als bedoeld in [artikel 1, eerste lid, van het Bbp](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1);
 
-- **deelbetrekking:** deelbetrekking als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *deelbetrekking:* deelbetrekking als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **huishoudelijke hulp:** hetgeen onder huishoudelijke hulp wordt verstaan in de Letselschade Richtlijn Huishoudelijke Hulp van De Letselschade Raad;
+- *huishoudelijke hulp:* hetgeen onder huishoudelijke hulp wordt verstaan in de Letselschade Richtlijn Huishoudelijke Hulp van De Letselschade Raad;
 
-- **in overwegende mate:** in overwegende mate als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *in overwegende mate:* in overwegende mate als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **medische eindsituatie:** medische eindsituatie als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *medische eindsituatie:* medische eindsituatie als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **volledige betrekking:** volledige betrekking als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *volledige betrekking:* volledige betrekking als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **vrijwillige ambtenaar:** vrijwillige ambtenaar als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
+- *vrijwillige ambtenaar:* vrijwillige ambtenaar als bedoeld in [artikel 1, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1);
 
-- **zelfwerkzaamheid:** hetgeen onder zelfwerkzaamheid wordt verstaan in de Letselschade Richtlijn Zelfwerkzaamheid van De Letselschade Raad.
+- *zelfwerkzaamheid:* hetgeen onder zelfwerkzaamheid wordt verstaan in de Letselschade Richtlijn Zelfwerkzaamheid van De Letselschade Raad.
 
 ##### Artikel 1.2. Schadebeperking
 
@@ -70,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor zover de voorwaardelijke aanspraak niet vervalt op grond van [artikel 1.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=1&artikel=1.2&z=2026-07-15&g=2026-07-15), wordt deze omgezet in een definitieve aanspraak.
 
-### Hoofdstuk 2. Schadeposten [artikel 53b Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53b)
+### Hoofdstuk 2. Schadeposten artikel 53b Barp
 
 #### § 1. Algemeen
 
@@ -190,17 +192,17 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 2. Begroting van smartengeld vindt plaats een half jaar na de melding, bedoeld in [artikel 53a, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53a), of zoveel eerder als de medische eindsituatie is vastgesteld.
 
-3. Smartengeld wordt begroot volgens indeling in een van de in de bijlage opgenomen categorieën op basis van een integrale afweging van de daarin opgenomen indicaties, of in de categorie overige gevallen.
+3. Smartengeld wordt begroot volgens indeling in een van de in de [bijlage](https://wetten.overheid.nl/BWBR0050873) opgenomen categorieën op basis van een integrale afweging van de daarin opgenomen indicaties, of in de categorie overige gevallen.
 
 4. Op basis van de indeling in de categorie, bedoeld in het derde lid, wordt het smartengeld begroot:
 
-- a. In categorie 1 op € 500,–;
+- a. In categorie 1 op € 500,–;
 
-- b. In categorie 2 op € 1.500,–;
+- b. In categorie 2 op € 1.500,–;
 
-- c. In categorie 3 op € 2.500,–;
+- c. In categorie 3 op € 2.500,–;
 
-- d. In de overige gevallen op € 0,–.
+- d. In de overige gevallen op € 0,–.
 
 #### § 5. Vrijwilligersvergoeding vrijwillige ambtenaren
 
@@ -232,7 +234,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 3. Vaststelling van schadevergoeding voor immateriële schade als bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=4&artikel=2.8&z=2026-07-15&g=2026-07-15), vindt plaats binnen 13 weken na de begroting ervan, bedoeld in artikel 2.8, tweede lid.
 
-### Hoofdstuk 3. Berekening bij gedeeltelijke aanspraak [artikel 53d Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53d)
+### Hoofdstuk 3. Berekening bij gedeeltelijke aanspraak artikel 53d Barp
 
 ##### Artikel 3.1. Gedeeltelijke aanspraak
 
@@ -250,7 +252,7 @@ Kosten van de alternatieve gezondheidskundige behandeling of alternatieve gezond
 
 2. [Artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=1&artikel=4.5&z=2026-07-15&g=2026-07-15) wordt toegepast op de begrote schade na toepassing van het eerste lid.
 
-### Hoofdstuk 4. Schadeposten [artikelen 53e](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53e) en [53f Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53f)
+### Hoofdstuk 4. Schadeposten artikelen 53e en 53f Barp
 
 #### § 1. Algemeen
 
@@ -396,7 +398,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 - e. tot maximaal de kosten die in de markt voor een adequate voorziening gebruikelijk zijn.
 
-#### § 6. Overlijdensschade [artikel 53f Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53f)
+#### § 6. Overlijdensschade artikel 53f Barp
 
 ##### Artikel 4.18. Overlijdensschade
 
@@ -414,7 +416,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 2. De vaststelling van schadevergoeding vindt plaats over het geheel van schadeposten, met uitzondering van de schadeposten, bedoeld in [artikel 53g, zesde of zevende lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=53g).
 
-### Hoofdstuk 5. Juridische bijstand en extern advies [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54) en [54a Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54a)
+### Hoofdstuk 5. Juridische bijstand en extern advies artikelen 54 en 54a Barp
 
 ##### Artikel 5.1. Beroepsmatig verleende juridische bijstand
 
@@ -428,19 +430,19 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 - d. een persoon die als belangenbehartiger optreedt en die:
 
-  - 1. op tenminste hbo-niveau juridisch geschoold is, een specialistische letselschade-opleiding met goed gevolg heeft afgerond en zijn kennis actueel houdt; en
+   - 1. op tenminste hbo-niveau juridisch geschoold is, een specialistische letselschade-opleiding met goed gevolg heeft afgerond en zijn kennis actueel houdt; en
 
-  - 2. die voor zijn handelen verzekerd is tegen beroepsaansprakelijkheid en een klachtenregeling heeft; of
+   - 2. die voor zijn handelen verzekerd is tegen beroepsaansprakelijkheid en een klachtenregeling heeft; of
 
-  - 3. die werkzaam is bij een organisatie die verzekerd is tegen beroepsaansprakelijkheid en een klachtenregeling heeft.
+   - 3. die werkzaam is bij een organisatie die verzekerd is tegen beroepsaansprakelijkheid en een klachtenregeling heeft.
 
-2. De hoogte van de tegemoetkoming voor juridische bijstand, bedoeld in [artikel 54, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), is € 550,72.
+2. De hoogte van de tegemoetkoming voor juridische bijstand, bedoeld in [artikel 54, eerste lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), is € 550,72.
 
-3. De kosten van juridische bijstand als bedoeld in [artikel 54, tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), worden vergoed tot een maximaal uurtarief van € 235,42 met een maximaal aantal uren van 40.
+3. De kosten van juridische bijstand als bedoeld in [artikel 54, tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), worden vergoed tot een maximaal uurtarief van € 235,42 met een maximaal aantal uren van 40.
 
 4. Indien als kosten van juridische bijstand als bedoeld in [artikel 54, tweede lid, van het Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54), reistijd in rekening wordt gebracht, worden deze kosten vergoed met de helft van het uurtarief.
 
-5. De tegemoetkoming, genoemd in het tweede lid, en het uurtarief, genoemd in het derde lid, worden jaarlijks per 1 juli gewijzigd met het procentuele verschil tussen de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek in het betreffende kalenderjaar en de overeenkomstige prijsindex in het hieraan voorgaande kalenderjaar.
+5. De tegemoetkoming, genoemd in het tweede lid, en het uurtarief, genoemd in het derde lid, worden jaarlijks per 1 juli gewijzigd met het procentuele verschil tussen de prijsindex voor rechtskundige diensten van het Centraal Bureau voor de Statistiek in het betreffende kalenderjaar en de overeenkomstige prijsindex in het hieraan voorgaande kalenderjaar.
 
 ##### Artikel 5.2. Extern advies
 
@@ -458,7 +460,7 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 7. Extern rekenkundig advies kan worden ingewonnen bij de toepassing van [artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=4&paragraaf=6&artikel=4.18&z=2026-07-15&g=2026-07-15).
 
-### Hoofdstuk 6. Aanspraak gezinsleden [artikel 54b Barp](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=54b)
+### Hoofdstuk 6. Aanspraak gezinsleden artikel 54b Barp
 
 ##### Artikel 6.1. Aanspraak echtgenoten of inwonende gezinsleden
 
@@ -480,48 +482,8 @@ Overige kosten komen voor vergoeding in aanmerking:
 
 ##### Artikel 7.1. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 april 2025.
+Deze regeling treedt in werking met ingang van 1 april 2025.
 
 ##### Artikel 7.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beroepsgerelateerde gezondheidsklachten politie.
-
-## Bijlage. Smartengeld herstel- en re-integratiestadium
-
-Voor de toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0050873&hoofdstuk=2&paragraaf=4&artikel=2.8&z=2026-07-15&g=2026-07-15) wordt de mate van de ernst van de klachten bepaald door een integrale weging van de volgende indicaties.
-
-Categorie 1:
-
-- a. het betreft slechts enkelvoudige klachten zoals kneuzingen, verrekkingen, kleine botbreuken waarbij geen zenuwen zijn beschadigd, beperkte niet ontsierende littekens, eerstegraads of oppervlakkige tweedegraads verbrandingen en licht psychisch letsel;
-
-- b. er is geneeskundige hulp ingeroepen en eventueel sprake geweest van een korte ziekenhuisopname;
-
-- c. er is pijn geleden;
-
-- d. de normale dagtaak kon tot maximaal 13 weken niet worden verricht;
-
-- e. er is geen of niet langer dan drie weken verzuim geweest;
-
-- f. de klachten zijn restloos genezen, inclusief normaal te verwachten niet ontsierende littekens, binnen een termijn van ongeveer zes maanden.
-
-Categorie 2:
-
-- a. het betreft enkelvoudige of meervoudige klachten zoals niet gecompliceerde fracturen aan de ledematen, beschadigingen aan het gebit, een arm uit de kom, lichtere littekens (door bijvoorbeeld bijtincidenten), licht inwendig letsel, diepere tweedegraads brandwonden, een lichte hersenschudding en licht psychisch letsel;
-
-- b. er is geneeskundige hulp ingeroepen en eventueel sprake geweest van een korte ziekenhuisopname;
-
-- c. er is eventueel een operatieve ingreep nodig geweest;
-
-- d. de ambtenaar is gedurende een aantal maanden arbeidsongeschikt geweest;
-
-- e. de normale dagtaak kon gedurende meer dan 13 weken niet worden verricht;
-
-- f. er is langer dan drie weken verzuim geweest;
-
-- g. de klachten zijn restloos genezen, inclusief normaal te verwachten niet ontsierende littekens, binnen een termijn van ongeveer zes maanden.
-
-Categorie 3:
-
-Het betreft alle klachten die binnen een termijn van ongeveer zes maanden niet restloos zijn genezen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

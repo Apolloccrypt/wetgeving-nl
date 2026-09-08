@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering teweegbrengen explosies (art. 157 Sr)"
 identifier: "BWBR0050950"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-05-01"
-last_updated: "2025-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050950"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "17409613"
-version_id: "30695782"
-internal_id: "C44001361"
-label_id: "17312824"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050950/2025-05-01/0"
-intitule_bron: "Stcrt.2025-13190"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-04-17"
-intitule_in_force: "2025-04-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-13190"
-original_published_date: "2025-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-13190"
-entry_into_force_date: "2025-05-01"
-jci_1_3: "jci1.3:c:BWBR0050950&z=2025-05-01&g=2025-05-01"
-jci_1_0: "1.0:c:BWBR0050950&g=2025-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-05-01"
+publicatiedatum: 2025-05-01
+laatste_update: 2025-05-01
+status: geldig
+toestand: 2025-05-01
+bron: "https://wetten.overheid.nl/BWBR0050950"
+opgehaald: 2026-09-08
 ---
+
 # Richtlijn voor strafvordering teweegbrengen explosies (art. 157 Sr)
 
 ### Beschrijving
@@ -43,6 +24,14 @@ De genoemde strafbandbreedtes bij het basisdelict gaan uit van éénmalig plegen
 ### Basiscasus/delict
 
 Teweegbrengen van een explosie, alleen gepleegd
+
+| Teweegbrengen ontploffing | First offender |  |
+| --- | --- | --- |
+| Aan/bij woningen, bedrijven, scholen, winkels, schuurtjes of voertuigen1 | Gemeen gevaar voor goederen te duchten/ (art. 157 sub 1 SR) | GS 18–36 mnd |
+| Levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten (art. 157 sub 2 SR) | GS 36–48 mnd |  |
+| Bijzonderheden: Uitgangspunt is tevens dat de (totale) schade is/wordt vergoed. Transactie of strafbeschikking is niet mogelijk, dus dagvaarden. Bij poging of voorbereiding het voorhanden hebben van explosie(f/ven) apart ten laste leggen. |  |  |
+|  |  |  |
+| Strafverzwarend onder andere: Opdrachtgever of tussenpersoon Medeplegen Discriminatoire aspecten Omvang van de schade of impact op de bewoners en omgeving, daadwerkelijk letsel. (Meermalen) recidive (maatwerk) Terroristisch oogmerk (art. 83, 83a en 176a Sr (plus de helft) |  |  |
 
 1 Let op, voor brandstichting aan voertuigen de richtlijn brandstichting gebruiken.
 

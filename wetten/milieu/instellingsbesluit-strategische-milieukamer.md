@@ -1,46 +1,22 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat, en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 1 april, nr. 6192727, tot instelling van de Strategische Milieukamer (Instellingsbesluit Strategische Milieukamer)"
+citeertitel: "Instellingsbesluit Strategische Milieukamer"
 identifier: "BWBR0050947"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-16"
-last_updated: "2025-04-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050947"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17409253"
-version_id: "30695422"
-internal_id: "C44000761"
-label_id: "17312484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050947/2025-04-16/0"
-intitule_bron: "Stcrt.2025-13092"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-01"
-intitule_published: "2025-04-15"
-intitule_in_force: "2025-04-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-13092"
-original_signed_date: "2025-04-01"
-original_published_date: "2025-04-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-13092"
-entry_into_force_date: "2025-04-16"
-jci_1_3: "jci1.3:c:BWBR0050947&z=2025-04-16&g=2025-04-16"
-jci_1_0: "1.0:c:BWBR0050947&g=2025-04-16"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Strategische Milieukamer"
-signed_date: "2025-04-01"
-entry_into_force: "2025-04-16"
+publicatiedatum: 2025-04-16
+laatste_update: 2025-04-16
+status: geldig
+toestand: 2025-04-16
+bron: "https://wetten.overheid.nl/BWBR0050947"
+opgehaald: 2026-09-08
 ---
-# Besluit van de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat, en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 1 april, nr. 6192727, tot instelling van de Strategische Milieukamer (Instellingsbesluit Strategische Milieukamer)
 
-Besluiten:
+# Besluit van de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat, en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 1 april, nr. 6192727, tot instelling van de Strategische Milieukamer (Instellingsbesluit Strategische Milieukamer)
 
 ##### Artikel 1. Begripsbepaling
 
-In dit besluit wordt verstaan onder **bewindspersonen**: de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
+In dit besluit wordt verstaan onder *bewindspersonen*: de Minister van Justitie en Veiligheid, de Staatssecretaris van Infrastructuur en Waterstaat en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
 ##### Artikel 2. Instelling en taak
 
@@ -99,5 +75,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Strategische Milieukamer.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

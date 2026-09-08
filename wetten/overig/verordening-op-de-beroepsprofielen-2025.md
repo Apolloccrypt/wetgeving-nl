@@ -1,42 +1,17 @@
 ---
 title: "Verordening op de beroepsprofielen 2025"
 identifier: "BWBR0051130"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-06-26"
-last_updated: "2025-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051130"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17449693"
-version_id: "30774852"
-internal_id: "C44114561"
-label_id: "17352644"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051130/2025-06-26/0"
-intitule_bron: "Stcrt.2025-21318"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-06-25"
-intitule_in_force: "2025-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-21318"
-original_published_date: "2025-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-21318"
-entry_into_force_date: "2025-06-26"
-jci_1_3: "jci1.3:c:BWBR0051130&z=2025-06-26&g=2025-06-26"
-jci_1_0: "1.0:c:BWBR0051130&g=2025-06-26"
-citeertitel_status: "officieel"
-entry_into_force: "2025-06-26"
+publicatiedatum: 2025-06-26
+laatste_update: 2025-06-26
+status: geldig
+toestand: 2025-06-26
+bron: "https://wetten.overheid.nl/BWBR0051130"
+opgehaald: 2026-09-08
 ---
+
 # Verordening op de beroepsprofielen 2025
-
-De ledenvergadering van de Nederlandse beroepsorganisatie van accountants;
-
-Gelet op [artikel 19, tweede lid, aanhef en onderdeel k van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
-
-Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -44,19 +19,21 @@ Stelt de volgende verordening vast:
 
 In deze verordening wordt verstaan onder:
 
-- a. **aantekening:** aantekening als bedoeld in [artikel 36, tweede lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- a. *aantekening:* aantekening als bedoeld in [artikel 36, tweede lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- b. **accountant:** accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- b. *accountant:* accountant als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- c. **accountantsregister:** accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
+- c. *accountantsregister:* accountantsregister als bedoeld in [artikel 36, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36);
 
-- d. dit onderdeel is nog niet in werking getreden;
+- d. *dit onderdeel is nog niet in werking getreden;*
 
-- e. **eindtermen:** eindtermen als bedoeld in [artikel 49, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
+- e. *eindtermen:* eindtermen als bedoeld in [artikel 49, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
 
-- f. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
+- f. *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
 
-- g. **Wet op het hoger onderwijs:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
+- g. *Wet op het hoger onderwijs:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
 ##### Artikel 2
 
@@ -104,23 +81,23 @@ De werkzaamheden van de accountant worden gekenmerkt door het toevoegen van betr
 
 Accountants geven rekenschap van de maatschappelijke rol van de accountant, voeren hun professionele diensten uit vanuit de fundamentele beginselen, bedoeld in [artikel 2 van de Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=2), en handelen in het algemeen belang. De kerncompetenties van de accountant zijn:
 
-- –. professionele oordeels- en besluitvorming;
+- – professionele oordeels- en besluitvorming;
 
-- –. vaktechnische kennis en kunde;
+- – vaktechnische kennis en kunde;
 
-- –. ethisch handelen;
+- – ethisch handelen;
 
-- –. onderzoekende geest;
+- – onderzoekende geest;
 
-- –. maatschappelijke oriëntatie;
+- – maatschappelijke oriëntatie;
 
-- –. lerend en reflectief vermogen;
+- – lerend en reflectief vermogen;
 
-- –. leiderschap en verantwoordelijkheid;
+- – leiderschap en verantwoordelijkheid;
 
-- –. multidisciplinair samenwerken; en
+- – multidisciplinair samenwerken; en
 
-- –. professioneel communicatief.
+- – professioneel communicatief.
 
 ### Hoofdstuk 4. De opleiding tot accountant
 
@@ -134,7 +111,7 @@ De opleiding tot accountant biedt tevens de mogelijkheid voor een opleiding tot 
 
 - a. zonder aantekening in het accountantsregister wordt ingeschreven; of
 
-- b. dit onderdeel is nog niet in werking getreden.
+- b. *dit onderdeel is nog niet in werking getreden.*
 
 ##### Artikel 8
 

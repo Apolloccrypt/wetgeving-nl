@@ -1,41 +1,17 @@
 ---
 title: "Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025"
 identifier: "BWBR0051210"
-country: "nl"
-rank: "reglement"
-publication_date: "2025-07-10"
-last_updated: "2025-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051210"
+categorie: "Overig"
 soort: "reglement"
-stam_id: "17466263"
-version_id: "30804952"
-internal_id: "C44150311"
-label_id: "17368684"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051210/2025-07-10/0"
-intitule_bron: "Stcrt.2025-23412"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-01"
-intitule_published: "2025-07-10"
-intitule_in_force: "2025-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-23412"
-original_signed_date: "2025-07-01"
-original_published_date: "2025-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-23412"
-entry_into_force_date: "2025-07-10"
-jci_1_3: "jci1.3:c:BWBR0051210&z=2025-07-10&g=2025-07-10"
-jci_1_0: "1.0:c:BWBR0051210&g=2025-07-10"
-citeertitel_status: "officieel"
-signed_date: "2025-07-01"
-entry_into_force: "2025-07-10"
+publicatiedatum: 2025-07-10
+laatste_update: 2025-07-10
+status: geldig
+toestand: 2025-07-10
+bron: "https://wetten.overheid.nl/BWBR0051210"
+opgehaald: 2026-09-08
 ---
-# Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025
 
-Besluit:
+# Instellingbesluit Audit Committee ambtelijke organisatie Tweede Kamer 2025
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -43,21 +19,21 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Audit Committee:** het adviesorgaan van de Tweede Kamer met betrekking tot audit- en bedrijfsvoering aangelegenheden;
+- a. *Audit Committee:* het adviesorgaan van de Tweede Kamer met betrekking tot audit- en bedrijfsvoering aangelegenheden;
 
-- b. **Auditdienst Rijk:** het dienstonderdeel van het Ministerie van Financiën dat belast is met de uitoefening van de auditfunctie bij het Rijk;
+- b. *Auditdienst Rijk:* het dienstonderdeel van het Ministerie van Financiën dat belast is met de uitoefening van de auditfunctie bij het Rijk;
 
-- c. **Algemene Rekenkamer;** het Hoge College van Staat dat belast is met het onderzoek van de inkomsten en uitgaven van het Rijk;
+- c. *Algemene Rekenkamer;* het Hoge College van Staat dat belast is met het onderzoek van de inkomsten en uitgaven van het Rijk;
 
-- d. **bedrijfsvoering:** het inzetten van personeel en materieel ter ondersteuning van het beleid of de taak;
+- d. *bedrijfsvoering:* het inzetten van personeel en materieel ter ondersteuning van het beleid of de taak;
 
-- e. **directeur Concernstaf:** de persoon die binnen de Tweede Kamer leiding geeft aan de stafdiensten Communicatie, Financieel Economische Zaken, HR en Juridische Zaken;
+- e. *directeur Concernstaf:* de persoon die binnen de Tweede Kamer leiding geeft aan de stafdiensten Communicatie, Financieel Economische Zaken, HR en Juridische Zaken;
 
-- f. **directeur Huisvesting en Facilitair:** de persoon die binnen de Tweede Kamer leiding geeft aan de Beveiligingsdienst, de Bodedienst, de Facilitaire Dienst, het Restaurantbedrijf en de dienst Programma Renovatie Binnenhof;
+- f. *directeur Huisvesting en Facilitair:* de persoon die binnen de Tweede Kamer leiding geeft aan de Beveiligingsdienst, de Bodedienst, de Facilitaire Dienst, het Restaurantbedrijf en de dienst Programma Renovatie Binnenhof;
 
-- g. **directeur Informatisering:** de persoon die binnen de Tweede Kamer leiding geeft aan Bureau CISO, CIO Office, de Dienst Automatisering, de Dienst Informatie en Archief en de Dienst Verslag en Redactie;
+- g. *directeur Informatisering:* de persoon die binnen de Tweede Kamer leiding geeft aan Bureau CISO, CIO Office, de Dienst Automatisering, de Dienst Informatie en Archief en de Dienst Verslag en Redactie;
 
-- h. **hoofd van de Stafdienst FEZ:** de persoon die binnen de Tweede Kamer leiding geeft aan de Stafdienst Financieel Economische Zaken.
+- h. *hoofd van de Stafdienst FEZ:* de persoon die binnen de Tweede Kamer leiding geeft aan de Stafdienst Financieel Economische Zaken.
 
 ### Hoofdstuk 2. Instelling en samenstelling
 
@@ -109,7 +85,7 @@ Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De 
 
 2. De Griffier, als voorzitter, kan aanvullende vergaderingen bijeenroepen of de externe leden om advies vragen voor zover hij dat nodig acht.
 
-3. De Griffier, als voorzitter, kan ook andere personen dan de leden genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=2&artikel=2&z=2025-07-10&g=2025-07-10) uitnodigen om voor een specifiek onderwerp aan de vergadering deel te nemen.
+3. De Griffier, als voorzitter, kan ook andere personen dan de leden genoemd in [artikel 2 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=2&artikel=2&z=2025-07-10&g=2025-07-10) uitnodigen om voor een specifiek onderwerp aan de vergadering deel te nemen.
 
 4. De leden kunnen onderwerpen aandragen ter bespreking in de vergaderingen.
 
@@ -127,7 +103,7 @@ Het hoofd van de Stafdienst FEZ wijst een secretaris aan vanuit zijn dienst. De 
 
 2. Het Audit Committee kan een specifiek audit- of controleplan opstellen gericht op financiële, operationele of IT-aspecten. Het opstellen van een dergelijk plan wordt gecoördineerd door het hoofd van de Stafdienst FEZ. In dit plan wordt rekening gehouden met door FEZ opgestelde risicoanalyses en de bevindingen en aanbevelingen in eerdere onderzoeken uitgevoerd door de Auditdienst Rijk en de Algemene Rekenkamer.
 
-3. De uitkomsten van uitgevoerde audits, controles en andere onderzoeken, als bedoeld in lid 2, worden in het Audit Committee besproken.
+3. De uitkomsten van uitgevoerde audits, controles en andere onderzoeken, als bedoeld in lid 2, worden in het Audit Committee besproken.
 
 ### Hoofdstuk 5. Geheimhouding
 
@@ -139,7 +115,7 @@ De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informati
 
 ##### Artikel 9. vergoeding
 
-1. De leden ontvangen een vergoeding per bijeenkomst van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de actueel geldende collectieve arbeidsovereenkomst voor ambtenaren in dienst van de Staat der Nederlanden.
+1. De leden ontvangen een vergoeding per bijeenkomst van 3% van het maximum van salarisschaal 18 zoals overeengekomen in de actueel geldende collectieve arbeidsovereenkomst voor ambtenaren in dienst van de Staat der Nederlanden.
 
 2. Reiskosten en eventuele noodzakelijke verblijfkosten die leden maken, worden vergoed met overeenkomstige toepassing van de regelingen die gelden voor ambtenaren in dienst van de Staat der Nederlanden.
 
@@ -149,13 +125,13 @@ De externe onafhankelijke leden zijn tot geheimhouding gehouden van de informati
 
 1. Het Audit Committee evalueert ten minste een keer in de drie jaar zelf zijn functioneren. Het Audit Committee legt de uitkomsten van de evaluatie schriftelijk vast.
 
-2. De evaluatie, bedoeld in het eerste lid, heeft in elk geval betrekking op de uitoefening van de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=4&artikel=7&z=2025-07-10&g=2025-07-10).
+2. De evaluatie, bedoeld in het eerste lid, heeft in elk geval betrekking op de uitoefening van de taken, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051210&hoofdstuk=4&artikel=7&z=2025-07-10&g=2025-07-10).
 
 ### Hoofdstuk 8. Slotbepalingen
 
 ##### Artikel 11. inwerkingtreding
 
-Dit besluit vervangt het Instellingsbesluit Audit Committee TK 2009 en treedt in werking na publicatie in de Staatscourant met terugwerkende kracht tot 1 juli 2025.
+Dit besluit vervangt het Instellingsbesluit Audit Committee TK 2009 en treedt in werking na publicatie in de Staatscourant met terugwerkende kracht tot 1 juli 2025.
 
 ##### Artikel 12. citeertitel
 

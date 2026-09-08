@@ -1,46 +1,17 @@
 ---
 title: "Regeling Samen werken aan cultuur"
 identifier: "BWBR0050887"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-03-27"
-last_updated: "2025-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050887"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17391873"
-version_id: "30660792"
-internal_id: "C43958341"
-label_id: "17295334"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050887/2025-03-27/0"
-intitule_bron: "Stcrt.2025-10413"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-03-26"
-intitule_in_force: "2025-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-10413"
-original_published_date: "2025-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-10413"
-entry_into_force_date: "2025-03-27"
-jci_1_3: "jci1.3:c:BWBR0050887&z=2025-03-27&g=2025-03-27"
-jci_1_0: "1.0:c:BWBR0050887&g=2025-03-27"
-citeertitel_status: "officieel"
-entry_into_force: "2025-03-27"
+publicatiedatum: 2025-03-27
+laatste_update: 2025-03-27
+status: geldig
+toestand: 2025-03-27
+bron: "https://wetten.overheid.nl/BWBR0050887"
+opgehaald: 2026-09-08
 ---
+
 # Regeling Samen werken aan cultuur
-
-gelet op [artikel 10, vierde lid, van de **Wet op het specifiek cultuurbeleid**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de **Algemene wet bestuursrecht**](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045516);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 augustus 2021; en voor de gewijzigde versie op 27 maart 2023
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,45 +19,47 @@ besluit:
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- a. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- b. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl).
+- b. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl).
 
-- c. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
+- c. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
 
-- d. **Culturele Codes:** Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
+- d. *Culturele Codes:* Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
 
-- e. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen: Bonaire, Sint Eustatius en Saba.
+- e. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen: Bonaire, Sint Eustatius en Saba.
 
-- f. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- f. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- g. **Caribisch deel van het Koninkrijk:** Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- g. *Caribisch deel van het Koninkrijk:* Aruba, Curaçao en Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- h. **Aanvrager:** een (rechts)persoon die bij het Fonds een aanvraag indient.
+- h. *Aanvrager:* een (rechts)persoon die bij het Fonds een aanvraag indient.
 
-- i. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366).
+- i. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026366).
 
-- j. **Co-creatie:** de methoden waarbij groepen mensen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming en/of projectuitvoering. Het resultaat is de vorming en ontwikkeling van de cultuur van een samenleving. Dit kan bijvoorbeeld gaan over de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen cultuureducatie of amateurkunst.
+- j *Co-creatie:* de methoden waarbij groepen mensen actief en gelijkwaardig betrokken zijn bij besluitvorming, beleidsvorming en/of projectuitvoering. Het resultaat is de vorming en ontwikkeling van de cultuur van een samenleving. Dit kan bijvoorbeeld gaan over de taal, tradities, kunst, debat en andere culturele aspecten. Het betreft hier per definitie geen cultuureducatie of amateurkunst.
 
-- k. **Cross-sectoraal / cross-sectorale samenwerking:** de samenwerking tussen instellingen en/of professionals uit de cultuursector en een andere sector om op basis van actieve cultuurbeoefening te komen tot een bijdrage aan (het oplossen van) een maatschappelijk vraagstuk.
+- k. *Cross-sectoraal / cross-sectorale samenwerking:* de samenwerking tussen instellingen en/of professionals uit de cultuursector en een andere sector om op basis van actieve cultuurbeoefening te komen tot een bijdrage aan (het oplossen van) een maatschappelijk vraagstuk.
 
-- l. **Cultuur:** Het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
+- l. *Cultuur:* Het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
 
-- m. **Cultuurbeoefening:** het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
+- m. *Cultuurbeoefening:* het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
 
-- n. **Culturele instelling:** een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
+- n. *Culturele instelling:* een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
 
-- o. **(Cultureel) professional:** een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een parttime aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
+- o. *(Cultureel) professional:* een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een parttime aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
 
-- p. **Deelnemer:** een persoon die in de vrije tijd of zonder noemenswaardige directe inkomsten daaruit deelneemt aan een co-creatie project.
+- p. *Deelnemer:* een persoon die in de vrije tijd of zonder noemenswaardige directe inkomsten daaruit deelneemt aan een co-creatie project.
 
-- q. **Effect:** het (on)verwachte en (on)zichtbare resultaat van bepaalde activiteiten, processen of programma's. Bij voorkeur is het effect meetbaar om zo te kunnen nagaan of en hoe er wordt bijgedragen aan het behalen van bepaalde doelen van de aanvrager of van de regeling van het Fonds.
+- q. *Effect:* het (on)verwachte en (on)zichtbare resultaat van bepaalde activiteiten, processen of programma's. Bij voorkeur is het effect meetbaar om zo te kunnen nagaan of en hoe er wordt bijgedragen aan het behalen van bepaalde doelen van de aanvrager of van de regeling van het Fonds.
 
-- r. **Materiële investeringen:** Kosten voor de aanschaf van materialen voor een project die de aanvrager na dat project nog langere tijd kan gebruiken.
+- r. *Materiële investeringen:* Kosten voor de aanschaf van materialen voor een project die de aanvrager na dat project nog langere tijd kan gebruiken.
 
-- s. **Sector:** een deel van de maatschappij waarin vergelijkbare of dezelfde activiteiten worden ondernomen. Deze worden ondernomen door onder andere instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuele personen. De activiteiten lopen van productie en distributie tot dienstverlening en beleidsvorming. Bijvoorbeeld: de zorgsector, landbouwsector en cultuursector.
+- s. *Sector:* een deel van de maatschappij waarin vergelijkbare of dezelfde activiteiten worden ondernomen. Deze worden ondernomen door onder andere instellingen, overheidsinstanties, non-profitorganisaties, bedrijven en individuele personen. De activiteiten lopen van productie en distributie tot dienstverlening en beleidsvorming. Bijvoorbeeld: de zorgsector, landbouwsector en cultuursector.
 
-- t. **Subsidieplafond:** het totaalbedrag binnen een regeling, hoofdstuk of paragraaf dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
+- t. *Subsidieplafond:* het totaalbedrag binnen een regeling, hoofdstuk of paragraaf dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -106,13 +79,13 @@ Met deze regeling stimuleert het Fonds cross-sectorale samenwerkingsprojecten op
 
 - a. voor dezelfde projecten al subsidie is of zal worden verleend:
 
-- 1°. door het Fonds;
+   - 1° door het Fonds;
 
-- 2°. door een van de andere rijkscultuurfondsen;
+   - 2° door een van de andere rijkscultuurfondsen;
 
-- 3°. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - 3° op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- 4°. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - 4° op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. het project waarvoor subsidie wordt gevraagd, op het moment van de aanvraag al wordt uitgevoerd;
 
@@ -198,9 +171,9 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt en goedkeurt als moment van het indienen van de aanvraag.
 
-4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
+4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
 
-5. Aanvragen voor een subsidie vanaf € 25.001 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
+5. Aanvragen voor een subsidie vanaf € 25.001 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder een adviescommissie om advies te vragen.
 
@@ -212,11 +185,11 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 ##### Artikel 1.9. Voorschotten
 
-1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Voor subsidie vanaf € 25.001 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+2. Voor subsidie vanaf € 25.001 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
-3. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
+3. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
 
 4. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaald. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit.
 
@@ -229,6 +202,14 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. Instellingen en professionals
+
+Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor een samenwerkingsproject tussen een professional of instelling in de culturele sector en een instelling, organisatie of netwerk in elke andere sector. Bijvoorbeeld de sociale sector, stedelijke ontwikkeling, technologie, landbouw of klimaat. Let op: bij samenwerking met een partij in het onderwijs vindt de cultuurbeoefening buiten schooltijd plaats.
+
+Gelijkwaardigheid tussen de samenwerkingspartners is een kernbegrip in deze regeling. Maar ook tussen die van deelnemers of beoefenaars in het project. Sluiten de activiteiten aan bij hun behoeften?
+
+De aanvrager werkt in het project aan het bereiken van één of meer effecten bij de deelnemers, bij zichzelf of een combinatie. Om de effecten te bereiken zijn activiteiten van de aanvrager voor en door deelnemers nodig. In het projectplan wordt de samenhang beschreven tussen behoeften van deelnemers, de activiteiten, de te bereiken effecten, de begroting en de planning. Zo krijgt het Fonds vertrouwen dat het project kans van slagen heeft.
+
+Subsidie voor een onderzoek naar samenwerking of een verkenning is niet mogelijk in deze regeling. Je kunt wel een kleinere aanvraag doen voor een eerste project in Proberen en daarna een (grotere) vervolgaanvraag indienen bij Ontwikkelen.
 
 #### Paragraaf 1. Algemeen
 
@@ -258,7 +239,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 ##### Artikel 2.3. Indieningstermijnen
 
-1. Op de eerste maandag drie maanden na de publicatie in de Staatscourant, opent de regeling om 13:00 uur voor aanvragen. De precieze datum wordt op de website van het Fonds vermeld. De regeling sluit op 31 mei 2028 om 13:00. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
+1. Op de eerste maandag drie maanden na de publicatie in de Staatscourant, opent de regeling om 13:00 uur voor aanvragen. De precieze datum wordt op de website van het Fonds vermeld. De regeling sluit op 31 mei 2028 om 13:00. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
 2. Wanneer het budgetplafond per jaar of in totaal bereikt is, geldt dat als moment tot wanneer aanvragen kunnen worden ingediend, afwijkend van art 2.3.1.
 
@@ -288,13 +269,13 @@ Subsidie in paragraaf 2 kan worden aangevraagd:
 
 Voor een project paragraaf 2:
 
-- 1. kan minimaal € 10.000 en maximaal € 25.000 worden aangevraagd; en
+- 1. kan minimaal € 10.000 en maximaal € 25.000 worden aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in het Europees deel van het Koninkrijk gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 2.7. Subsidieplafond
 
-1. Het subsidieplafond voor projecten in paragraaf 2 is € 582.954 per kalenderjaar.
+1. Het subsidieplafond voor projecten in paragraaf 2 is € 582.954 per kalenderjaar.
 
 2. Het subsidieplafond voor 2025 wordt in een keer beschikbaar gesteld voor aanvragen.
 
@@ -314,13 +295,13 @@ Subsidie in paragraaf 3 kan worden aangevraagd:
 
 Voor een project in paragraaf 3:
 
-- 1. wordt minimaal € 25.001 en maximaal € 125.000 aangevraagd; en
+- 1. wordt minimaal € 25.001 en maximaal € 125.000 aangevraagd; en
 
 - 2. bedraagt de subsidie maximaal 50% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 80%.
 
 ##### Artikel 2.10. Subsidieplafond
 
-1. Het subsidieplafond voor projecten in paragraaf 3 is € 3.305.613 per kalenderjaar.
+1. Het subsidieplafond voor projecten in paragraaf 3 is € 3.305.613 per kalenderjaar.
 
 2. Het subsidieplafond voor 2025 wordt in een keer beschikbaar gesteld voor aanvragen.
 
@@ -336,7 +317,7 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alle
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
+2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
 ##### Artikel 3.3. Citeertitel
 

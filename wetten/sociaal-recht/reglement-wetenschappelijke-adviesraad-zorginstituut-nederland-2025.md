@@ -1,44 +1,18 @@
 ---
 title: "Reglement voor de Wetenschappelijke Adviesraad van Zorginstituut Nederland, kenmerk 2024027403"
+citeertitel: "Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025"
 identifier: "BWBR0050882"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-03-26"
-last_updated: "2025-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050882"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17390853"
-version_id: "30658812"
-internal_id: "C43956211"
-label_id: "17294264"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050882/2025-03-26/0"
-intitule_bron: "Stcrt.2025-10571"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-11"
-intitule_published: "2025-03-25"
-intitule_in_force: "2025-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-10571"
-original_signed_date: "2025-03-11"
-original_published_date: "2025-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-10571"
-entry_into_force_date: "2025-03-26"
-jci_1_3: "jci1.3:c:BWBR0050882&z=2025-03-26&g=2025-03-26"
-jci_1_0: "1.0:c:BWBR0050882&g=2025-03-26"
-citeertitel_status: "officieel"
-short_title: "Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025"
-signed_date: "2025-03-11"
-entry_into_force: "2025-03-26"
+publicatiedatum: 2025-03-26
+laatste_update: 2025-03-26
+status: geldig
+toestand: 2025-03-26
+bron: "https://wetten.overheid.nl/BWBR0050882"
+opgehaald: 2026-09-08
 ---
+
 # Reglement voor de Wetenschappelijke Adviesraad van Zorginstituut Nederland, kenmerk 2024027403
-
-Gelet op [artikel 8, tweede lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=8),
-
-heeft in zijn vergadering van 11 maart 2025 besloten:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -46,41 +20,41 @@ heeft in zijn vergadering van 11 maart 2025 besloten:
 
 Dit reglement verstaat onder:
 
-- –. **adviesraad:** de Wetenschappelijke Adviesraad, bedoeld in [artikel 10, eerste lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=10);
+- – *adviesraad:* de Wetenschappelijke Adviesraad, bedoeld in [artikel 10, eerste lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=10);
 
-- –. **beheersmaatregel:** maatregel ter waarborging van advisering zonder vooringenomenheid;
+- – *beheersmaatregel:* maatregel ter waarborging van advisering zonder vooringenomenheid;
 
-- –. **klankbordgroep:** een tijdelijke groep van tenminste twee leden van de adviesraad;
+- – *klankbordgroep:* een tijdelijke groep van tenminste twee leden van de adviesraad;
 
-- –. **leden:** de leden van de adviesraad;
+- – *leden:* de leden van de adviesraad;
 
-- –. **onderwerp:** rapport, dossier, advies of agendapunt waar de adviesraad of de werkcommissies over vergaderen;
+- – *onderwerp:* rapport, dossier, advies of agendapunt waar de adviesraad of de werkcommissies over vergaderen;
 
-- –. **persoonlijk belang:** ieder belang dat niet behoort tot de belangen die de adviesraad uit hoofde van de hem opgedragen taak behoort te behartigen;
+- – *persoonlijk belang:* ieder belang dat niet behoort tot de belangen die de adviesraad uit hoofde van de hem opgedragen taak behoort te behartigen;
 
-- –. **plaatsvervangend secretaris WAR:** de plaatsvervangend secretaris van de adviesraad;
+- – *plaatsvervangend secretaris WAR:* de plaatsvervangend secretaris van de adviesraad;
 
-- –. **plaatsvervangend voorzitter WAR:** de plaatsvervangend voorzitter van de adviesraad;
+- – *plaatsvervangend voorzitter WAR:* de plaatsvervangend voorzitter van de adviesraad;
 
-- –. **Raad van Bestuur:** de Raad van Bestuur van het Zorginstituut;
+- – *Raad van Bestuur:* de Raad van Bestuur van het Zorginstituut;
 
-- –. **secretaris WAR:** de secretaris van de adviesraad;
+- – *secretaris WAR:* de secretaris van de adviesraad;
 
-- –. **secretaris van een werkcommissie:** secretaris van de WAR CG, de WAR CC en de WAR CFK;
+- – *secretaris van een werkcommissie:* secretaris van de WAR CG, de WAR CC en de WAR CFK;
 
-- –. **technisch voorzitter werkcommissie:** lid van een werkcommissie dat belast is met het technisch voorzitten van een vergadering van de werkcommissie;
+- – *technisch voorzitter werkcommissie:* lid van een werkcommissie dat belast is met het technisch voorzitten van een vergadering van de werkcommissie;
 
-- –. **voorzitter WAR:** de voorzitter van de adviesraad;
+- – *voorzitter WAR:* de voorzitter van de adviesraad;
 
-- –. **WAR CC:** de werkcommissie Care & Cure;
+- – *WAR CC:* de werkcommissie Care & Cure;
 
-- –. **WAR CFK:** de werkcommissie Farmacotherapeutisch Kompas;
+- – *WAR CFK:* de werkcommissie Farmacotherapeutisch Kompas;
 
-- –. **WAR CG:** de werkcommissie Geneesmiddelen;
+- – *WAR CG:* de werkcommissie Geneesmiddelen;
 
-- –. **werkcommissie:** een groep van ten minste zeven leden samengesteld uit de leden van de adviesraad, waaronder de voorzitter WAR;
+- – *werkcommissie:* een groep van ten minste zeven leden samengesteld uit de leden van de adviesraad, waaronder de voorzitter WAR;
 
-- –. **het Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
+- – *het Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
 ### Hoofdstuk 2. Taak en samenstelling van de adviesraad
 
@@ -156,13 +130,13 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 2. Het secretariaat bestaat uit:
 
-- –. de secretaris WAR;
+- – de secretaris WAR;
 
-- –. de plaatsvervangend secretaris WAR;
+- – de plaatsvervangend secretaris WAR;
 
-- –. de secretarissen van de werkcommissies; en
+- – de secretarissen van de werkcommissies; en
 
-- –. de plaatsvervangende secretarissen van de werkcommissies.
+- – de plaatsvervangende secretarissen van de werkcommissies.
 
 3. De voorzitter van de Raad van Bestuur wijst in overleg met de voorzitter WAR de secretaris WAR en de plaatsvervangend secretaris WAR aan.
 
@@ -288,12 +262,10 @@ De voorzitter WAR heeft tenminste acht keer per jaar overleg met de voorzitter v
 
 ##### Artikel 6.1. Intrekking en inwerkingtreding
 
-1. Het Reglement Wetenschappelijke adviesraad van 5 december 2016 wordt ingetrokken.
+1. Het Reglement Wetenschappelijke adviesraad van 5 december 2016 wordt ingetrokken.
 
 2. Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 ##### Artikel 6.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

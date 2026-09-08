@@ -1,119 +1,19 @@
 ---
 title: "Aanvullende Overeenkomst tussen ten eerste, de Europese Unie en zijn lidstaten, ten tweede, IJsland en ten derde, het Koninkrijk Noorwegen met betrekking tot de toepassing van de Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen"
 identifier: "BWBV0005417"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-06-21"
-last_updated: "2011-06-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005417"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004624803"
-version_id: "10004879182"
-internal_id: "C10007327081"
-label_id: "10004609204"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005417/2011-06-21/0"
-intitule_bron: "Trb.2011-163"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-09-05"
-intitule_status: "nogniet"
-original_publication: "Trb.2011-163"
-original_published_date: "2011-09-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-163"
-jci_1_3: "jci1.3:c:BWBV0005417&z=2011-06-21&g=2011-06-21"
-jci_1_0: "1.0:c:BWBV0005417&g=2011-06-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-09-05"
+publicatiedatum: 2026-08-02
+laatste_update: 2026-08-02
+status: geldig
+toestand: 2026-08-02
+bron: "https://wetten.overheid.nl/BWBV0005417"
+opgehaald: 2026-09-08
 ---
+
 # Aanvullende Overeenkomst tussen ten eerste, de Europese Unie en zijn lidstaten, ten tweede, IJsland en ten derde, het Koninkrijk Noorwegen met betrekking tot de toepassing van de Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen
 
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en lidstaten van de Europese Unie (hierna „de lidstaten” genoemd),
-
-en
-
-ten eerste,
-
-de Europese Unie,
-
-ten tweede,
-
-IJsland,
-
-en
-
-ten derde,
-
-het Koninkrijk Noorwegen (hierna „Noorwegen”),
-
-erop wijzende dat de Europese Commissie namens de Europese Unie en de lidstaten heeft onderhandeld over een overeenkomst inzake luchtvervoer met de Verenigde Staten van Amerika, overeenkomstig het besluit van de Raad waarbij de Commissie werd gemachtigd om onderhandelingen te openen,
-
-erop wijzende dat de [overeenkomst inzake luchtvervoer tussen de Verenigde Staten van Amerika en de Europese Gemeenschap en haar lidstaten](https://wetten.overheid.nl/jci1.3:c:BWBV0002513) (hierna „de luchtvervoersovereenkomst” genoemd) op 2 maart 2007 is geparafeerd, op 25 april 2007 te Brussel en op 30 april 2007 te Washington D.C. is ondertekend en voorlopig wordt toegepast sinds 30 maart 2008,
-
-erop wijzende dat de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513) is gewijzigd bij het protocol tot wijziging van de overeenkomst inzake luchtvervoer tussen de Verenigde Staten van Amerika en de Europese Unie en haar lidstaten (hierna „het protocol” genoemd), dat op 25 maart 2010 is geparafeerd en op 24 juni 2010 te Luxemburg is ondertekend,
-
-erop wijzende dat IJsland en Noorwegen, die via de [Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) volledig zijn geïntegreerd in de eengemaakte Europese luchtvaartmarkt, zijn toegetreden tot de [luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513), zoals gewijzigd bij het protocol, via een [overeenkomst tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen](https://wetten.overheid.nl/jci1.3:c:BWBV0005416) (hierna „de Overeenkomst” genoemd), die op dezelfde datum is ondertekend en waarin de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, is opgenomen,
-
-erkennende dat procedures moeten worden vastgesteld volgens dewelke, indien van toepassing, wordt beslist hoe maatregelen uit hoofde van [artikel 21, lid 5, van de luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=21), zoals gewijzigd bij het protocol, moeten worden genomen,
-
-erkennende dat het bovendien noodzakelijk is om procedurele regelingen vast te stellen voor de deelname van IJsland en Noorwegen aan het bij [artikel 18 van de luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18), zoals gewijzigd bij het protocol, opgericht Gemengd Comité en aan de bij [artikel 19 van het de luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=19), zoals gewijzigd bij het protocol, voorziene arbitrageprocedures. Deze procedurele regelingen moeten zorgen voor samenwerking, doorstroming van informatie en overleg voorafgaand aan de vergaderingen van het Gemengd Comité, en voor de tenuitvoerlegging van bepaalde bepalingen van de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, waaronder deze inzake beveiliging, veiligheid, het verlenen en intrekken van verkeersrechten en overheidssteun,
-
-zijn als volgt overeengekomen:
+*het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie en lidstaten van de Europese Unie (hierna „de lidstaten” genoemd), en ten eerste, de Europese Unie, ten tweede, IJsland, en ten derde, het Koninkrijk Noorwegen (hierna „Noorwegen”), erop wijzende dat de Europese Commissie namens de Europese Unie en de lidstaten heeft onderhandeld over een overeenkomst inzake luchtvervoer met de Verenigde Staten van Amerika, overeenkomstig het besluit van de Raad waarbij de Commissie werd gemachtigd om onderhandelingen te openen, erop wijzende dat de overeenkomst inzake luchtvervoer tussen de Verenigde Staten van Amerika en de Europese Gemeenschap en haar lidstaten (hierna „de luchtvervoersovereenkomst” genoemd) op 2 maart 2007 is geparafeerd, op 25 april 2007 te Brussel en op 30 april 2007 te Washington D.C. is ondertekend en voorlopig wordt toegepast sinds 30 maart 2008, erop wijzende dat de luchtvervoersovereenkomst is gewijzigd bij het protocol tot wijziging van de overeenkomst inzake luchtvervoer tussen de Verenigde Staten van Amerika en de Europese Unie en haar lidstaten (hierna „het protocol” genoemd), dat op 25 maart 2010 is geparafeerd en op 24 juni 2010 te Luxemburg is ondertekend, erop wijzende dat IJsland en Noorwegen, die via de Overeenkomst betreffende de Europese Economische Ruimte volledig zijn geïntegreerd in de eengemaakte Europese luchtvaartmarkt, zijn toegetreden tot de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, via een overeenkomst tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen (hierna „de Overeenkomst” genoemd), die op dezelfde datum is ondertekend en waarin de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, is opgenomen, erkennende dat procedures moeten worden vastgesteld volgens dewelke, indien van toepassing, wordt beslist hoe maatregelen uit hoofde van artikel 21, lid 5, van de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, moeten worden genomen, erkennende dat het bovendien noodzakelijk is om procedurele regelingen vast te stellen voor de deelname van IJsland en Noorwegen aan het bij artikel 18 van de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, opgericht Gemengd Comité en aan de bij artikel 19 van het de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, voorziene arbitrageprocedures. Deze procedurele regelingen moeten zorgen voor samenwerking, doorstroming van informatie en overleg voorafgaand aan de vergaderingen van het Gemengd Comité, en voor de tenuitvoerlegging van bepaalde bepalingen van de luchtvervoersovereenkomst, zoals gewijzigd bij het protocol, waaronder deze inzake beveiliging, veiligheid, het verlenen en intrekken van verkeersrechten en overheidssteun, zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Kennisgeving
 
@@ -163,7 +63,7 @@ Een besluit waarbij luchtvaartmaatschappijen van de andere partij geen toestemmi
 
 3. De Commissie, IJsland en Noorwegen brengen elkaar onmiddellijk op de hoogte wanneer de Verenigde Staten van Amerika uit hoofde van [artikel 14, lid 3, van de luchtvervoersovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=14), zoals gewijzigd bij het protocol, contact met hen opnemen.
 
-##### Artikel 7. Opzegging van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005416) of beëindiging van de voorlopige toepassing
+##### Artikel 7. Opzegging van de Overeenkomst of beëindiging van de voorlopige toepassing
 
 1. Elke partij mag te allen tijde de andere partij schriftelijk via diplomatieke kanalen in kennis stellen van haar besluit deze Aanvullende Overeenkomst op te zeggen of de voorlopige toepassing ervan te beëindigen. Deze Aanvullende Overeenkomst of de voorlopige toepassing ervan neemt een einde om middernacht GMT, zes maanden na de datum van schriftelijke kennisgeving tenzij de kennisgeving in onderlinge overeenstemming tussen de partijen wordt ingetrokken voordat deze termijn is verstreken.
 
@@ -171,7 +71,7 @@ Een besluit waarbij luchtvaartmaatschappijen van de andere partij geen toestemmi
 
 ##### Artikel 8. Voorlopige toepassing
 
-In afwachting van de inwerkingtreding overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005417&artikel=9&z=2011-06-21&g=2011-06-21) komen de partijen overeen om deze Aanvullende Overeenkomst voorlopig toe te passen, voor zover dit is toegestaan uit hoofde van de toepasselijke nationale wetgeving, vanaf de laatste van de volgende twee data: de datum van de ondertekening van deze Aanvullende Overeenkomst of de in [artikel 5 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005416&artikel=5) gespecificeerde datum.
+In afwachting van de inwerkingtreding overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005417&artikel=9&z=2026-08-02&g=2026-08-02) komen de partijen overeen om deze Aanvullende Overeenkomst voorlopig toe te passen, voor zover dit is toegestaan uit hoofde van de toepasselijke nationale wetgeving, vanaf de laatste van de volgende twee data: de datum van de ondertekening van deze Aanvullende Overeenkomst of de in [artikel 5 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005416&artikel=5) gespecificeerde datum.
 
 ##### Artikel 9. Inwerkingtreding
 
@@ -179,4 +79,4 @@ Deze Aanvullende Overeenkomst treedt in werking, ofwel a) een maand na de datum 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Aanvullende Overeenkomst hebben ondertekend.
 
-GEDAAN TE Luxemburg en Oslo, in drievoud, respectievelijk op 16 en 21 juni 2011 in de Bulgaarse, Deense, Duitse, Engelse, Estse, Finse, Franse, Griekse, Hongaarse, IJslandse, Italiaanse, Letse, Litouwse, Maltese, Nederlandse, Noorse, Poolse, Portugese, Roemeense, Sloveense, Slowaakse, Spaanse, Tsjechische en Zweedse taal, waarbij alle teksten authentiek zijn.
+GEDAAN TE Luxemburg en Oslo, in drievoud, respectievelijk op 16 en 21 juni 2011 in de Bulgaarse, Deense, Duitse, Engelse, Estse, Finse, Franse, Griekse, Hongaarse, IJslandse, Italiaanse, Letse, Litouwse, Maltese, Nederlandse, Noorse, Poolse, Portugese, Roemeense, Sloveense, Slowaakse, Spaanse, Tsjechische en Zweedse taal, waarbij alle teksten authentiek zijn.

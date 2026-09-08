@@ -5,11 +5,12 @@ identifier: "BWBR0041852"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2019-01-29
-laatste_update: 2024-02-15
-status: geldig
-toestand: 2024-02-15
+laatste_update: 2025-08-01
+status: vervallen
+vervallen_op: 2026-09-04
+toestand: 2025-08-01
 bron: "https://wetten.overheid.nl/BWBR0041852"
-opgehaald: 2026-08-28
+opgehaald: 2026-09-08
 ---
 
 # Besluit van de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat van 17 januari 2019, nr. 19008742, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019)

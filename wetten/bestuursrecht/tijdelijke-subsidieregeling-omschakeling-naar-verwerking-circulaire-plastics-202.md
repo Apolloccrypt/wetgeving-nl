@@ -1,78 +1,53 @@
 ---
 title: "Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 25 maart 2025, nr. IENW/BSK-2025/66061, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics 2025 (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025) [KetenID WGK027569]"
+citeertitel: "Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025"
 identifier: "BWBR0050898"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-28"
-last_updated: "2025-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050898"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17394253"
-version_id: "30665632"
-internal_id: "C43963711"
-label_id: "17297564"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050898/2025-03-28/0"
-intitule_bron: "Stcrt.2025-10185"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-25"
-intitule_published: "2025-03-27"
-intitule_in_force: "2025-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-10185"
-original_signed_date: "2025-03-25"
-original_published_date: "2025-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-10185"
-entry_into_force_date: "2025-03-28"
-jci_1_3: "jci1.3:c:BWBR0050898&z=2025-03-28&g=2025-03-28"
-jci_1_0: "1.0:c:BWBR0050898&g=2025-03-28"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025"
-signed_date: "2025-03-25"
-entry_into_force: "2025-03-28"
+publicatiedatum: 2025-03-28
+laatste_update: 2025-03-28
+status: geldig
+toestand: 2025-03-28
+bron: "https://wetten.overheid.nl/BWBR0050898"
+opgehaald: 2026-09-08
 ---
+
 # Tijdelijke regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 25 maart 2025, nr. IENW/BSK-2025/66061, houdende vaststelling van regels voor de subsidiëring van activiteiten ter voorbereiding op de omschakeling naar de verwerking van circulaire plastics 2025 (Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025) [KetenID WGK027569]
-
-Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [15, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=15), en [22, tweede lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **biogebaseerd plastic:** plastic waarvan de polymeerfractie voor minimaal 25 massaprocent afkomstig is uit biologische grondstoffen, inclusief bijproducten en reststromen die vrijkomen bij verwerking van biologische grondstoffen.
+- *biogebaseerd plastic:* plastic waarvan de polymeerfractie voor minimaal 25 massaprocent afkomstig is uit biologische grondstoffen, inclusief bijproducten en reststromen die vrijkomen bij verwerking van biologische grondstoffen.
 
-- **circulaire plastics:** plasticrecyclaat en biogebaseerd plastic;
+- *circulaire plastics:* plasticrecyclaat en biogebaseerd plastic;
 
-- **compounder:** ondernemer die compounds maakt door additieven of vulstoffen toe te voegen aan polymeren om de gewenste eigenschappen te bereiken;
+- *compounder:* ondernemer die compounds maakt door additieven of vulstoffen toe te voegen aan polymeren om de gewenste eigenschappen te bereiken;
 
-- **fossiele grondstoffen:** aardolie, aardgas of steenkool;
+- *fossiele grondstoffen:* aardolie, aardgas of steenkool;
 
-- **fossiel plastic:** plastic gemaakt op basis van fossiele grondstoffen en niet van plasticrecyclaat;
+- *fossiel plastic:* plastic gemaakt op basis van fossiele grondstoffen en niet van plasticrecyclaat;
 
-- **groep:** groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
+- *groep:* groep als bedoeld in [artikel 2:24b van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b);
 
-- **Kaderbesluit:** [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
+- *Kaderbesluit:*
+ [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **plastic:** een materiaal bestaande uit polymeren waaraan additieven of vulstoffen kunnen zijn toegevoegd;
+- *plastic:* een materiaal bestaande uit polymeren waaraan additieven of vulstoffen kunnen zijn toegevoegd;
 
-- **plasticrecyclaat:** plastics die verkregen zijn door een recyclingproces van kunststofafval dat afkomstig is van in de handel gebrachte kunststofproducten en die nieuw primair plastic kunnen vervangen;
+- *plasticrecyclaat:* plastics die verkregen zijn door een recyclingproces van kunststofafval dat afkomstig is van in de handel gebrachte kunststofproducten en die nieuw primair plastic kunnen vervangen;
 
-- **post-consumer materiaal:** materiaal gegenereerd door huishoudens of door commerciële, industriële en institutionele faciliteiten in hun rol als eindgebruikers van het product, en dat niet meer gebruikt kan worden voor het beoogde doel, met inbegrip van materiaal dat is geretourneerd uit de distributieketen;
+- *post-consumer materiaal:* materiaal gegenereerd door huishoudens of door commerciële, industriële en institutionele faciliteiten in hun rol als eindgebruikers van het product, en dat niet meer gebruikt kan worden voor het beoogde doel, met inbegrip van materiaal dat is geretourneerd uit de distributieketen;
 
-- **productietest:** technische test gericht op het verwerken van circulaire plastics in de eigen producten of in de eigen compounds;
+- *productietest:* technische test gericht op het verwerken van circulaire plastics in de eigen producten of in de eigen compounds;
 
-- **textielstoffen en textielwaren:** als bedoeld in afdeling XI van deel II van bijlage I bij [Verordening (EEG) nr. 2658/87](31987R2658) van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief;
+- *textielstoffen en textielwaren:* als bedoeld in afdeling XI van deel II van bijlage I bij Verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief;
 
-- **verklaring de-minimissteun:** verklaring als bedoeld in [Verordening (EU) 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PB L 2023/2831);
+- *verklaring de-minimissteun:* verklaring als bedoeld in Verordening (EU) 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (PB L 2023/2831);
 
-- **verwerker:** ondernemer die polymeren, waaraan additieven of vulstoffen kunnen zijn toegevoegd, verwerkt tot plastic deel- of eindproducten.
+- *verwerker:* ondernemer die polymeren, waaraan additieven of vulstoffen kunnen zijn toegevoegd, verwerkt tot plastic deel- of eindproducten.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -90,7 +65,7 @@ Een aanvraag wordt ingediend door een compounder of verwerker met een vestiging 
 
 1. Voor subsidieverlening komen uitsluitend na indiening van de subsidieaanvraag gemaakte kosten in aanmerking.
 
-2. De kosten van de activiteiten worden berekend door het aantal voorziene uren dat de direct bij de subsidiabele activiteiten betrokken eigen medewerkers of medewerkers binnen de groep ten behoeve van deze activiteiten maken te vermenigvuldigen met een vast uurtarief van € 60 waarin zowel de directe loonkosten als de daaraan toegerekende indirecte kosten zijn begrepen, eventueel te vermeerderen met:
+2. De kosten van de activiteiten worden berekend door het aantal voorziene uren dat de direct bij de subsidiabele activiteiten betrokken eigen medewerkers of medewerkers binnen de groep ten behoeve van deze activiteiten maken te vermenigvuldigen met een vast uurtarief van € 60 waarin zowel de directe loonkosten als de daaraan toegerekende indirecte kosten zijn begrepen, eventueel te vermeerderen met:
 
 - a. voorziene kosten van het gebruik van bestaande apparatuur, indien deze in de administratie te onderscheiden zijn;
 
@@ -106,11 +81,11 @@ Een aanvraag wordt ingediend door een compounder of verwerker met een vestiging 
 
 ##### Artikel 6. Hoogte subsidie
 
-De subsidie bedraagt 75 procent van de subsidiabele kosten met een maximum van € 25.000 per aanvraag.
+De subsidie bedraagt 75 procent van de subsidiabele kosten met een maximum van € 25.000 per aanvraag.
 
 ##### Artikel 7. Subsidieplafond
 
-1. Het subsidieplafond bedraagt voor 2025 € 13.000.000.
+1. Het subsidieplafond bedraagt voor 2025 € 13.000.000.
 
 2. De Minister stelt het subsidieplafond voor de daaropvolgende jaren vast en maakt dit bekend in de Staatscourant voor de aanvang van het tijdvak waarvoor het wordt vastgesteld.
 
@@ -120,7 +95,7 @@ Het totale beschikbare subsidiebedrag wordt verdeeld op volgorde van binnenkomst
 
 ##### Artikel 9. Aanvraagperiode
 
-Een aanvraag kan worden ingediend van 8 april 2025, 9.00 uur tot en met 2 oktober 2025, 12.00 uur.
+Een aanvraag kan worden ingediend van 8 april 2025, 9.00 uur tot en met 2 oktober 2025, 12.00 uur.
 
 ##### Artikel 10. Aanvraag
 
@@ -175,5 +150,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling omschakeling naar verwerking circulaire plastics 2025.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

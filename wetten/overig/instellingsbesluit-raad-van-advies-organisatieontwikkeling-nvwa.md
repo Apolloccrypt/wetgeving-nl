@@ -1,62 +1,36 @@
 ---
 title: "Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 6 juni 2025, nr. WJZ/87069873, tot instelling van de Raad van Advies organisatieontwikkeling NVWA (Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA)"
+citeertitel: "Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA"
 identifier: "BWBR0051125"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-06-23"
-last_updated: "2025-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051125"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17448603"
-version_id: "30772632"
-internal_id: "C44112261"
-label_id: "17351494"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051125/2025-06-23/0"
-intitule_bron: "Stcrt.2025-21101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-06"
-intitule_published: "2025-06-23"
-intitule_in_force: "2025-06-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-21101"
-original_signed_date: "2025-06-06"
-original_published_date: "2025-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-21101"
-entry_into_force_date: "2025-06-23"
-jci_1_3: "jci1.3:c:BWBR0051125&z=2025-06-23&g=2025-06-23"
-jci_1_0: "1.0:c:BWBR0051125&g=2025-06-23"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA"
-signed_date: "2025-06-06"
-entry_into_force: "2025-06-23"
+publicatiedatum: 2025-06-23
+laatste_update: 2025-06-23
+status: geldig
+toestand: 2025-06-23
+bron: "https://wetten.overheid.nl/BWBR0051125"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 6 juni 2025, nr. WJZ/87069873, tot instelling van de Raad van Advies organisatieontwikkeling NVWA (Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **staatssecretaris:** Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- a. *staatssecretaris:* Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- b. **Staatssecretaris van VWS:** Staatsecretaris van Volksgezondheid, Welzijn en Sport;
+- b. *Staatssecretaris van VWS:* Staatsecretaris van Volksgezondheid, Welzijn en Sport;
 
-- c. **secretaris-generaal van het Ministerie van LVVN:** Secretaris-Generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- c. *secretaris-generaal van het Ministerie van LVVN:* Secretaris-Generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- d. **secretaris-generaal van het Ministerie van VWS:** Secretaris-Generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
+- d. *secretaris-generaal van het Ministerie van VWS:* Secretaris-Generaal van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
 
-- e. **inspecteur-generaal:** Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit;
+- e. *inspecteur-generaal:* Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit;
 
-- f. **directieteam:** directieteam van de Nederlandse Voedsel- en Warenautoriteit, bestaande uit directeuren van de directies en de inspecteur-generaal;
+- f. *directieteam:* directieteam van de Nederlandse Voedsel- en Warenautoriteit, bestaande uit directeuren van de directies en de inspecteur-generaal;
 
-- g. **Raad van Advies:** Raad van Advies organisatieontwikkeling NVWA, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051125&artikel=2&z=2025-06-23&g=2025-06-23).
+- g. *Raad van Advies:* Raad van Advies organisatieontwikkeling NVWA, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051125&artikel=2&z=2025-06-23&g=2025-06-23).
 
 ##### Artikel 2. Instelling en taak
 
@@ -78,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Benoeming
 
-Ter gelegenheid van de instelling van de Raad van Advies worden met ingang van 1 januari 2025 tot 1 januari 2029 tot lid van de Raad van Advies benoemd:
+Ter gelegenheid van de instelling van de Raad van Advies worden met ingang van 1 januari 2025 tot 1 januari 2029 tot lid van de Raad van Advies benoemd:
 
 - a. de heer E. Kronenburg, te Langbroek, tevens voorzitter;
 
@@ -126,10 +100,8 @@ Het [Instellingsbesluit voortzetting Raad van Advies herbezinning NVWA](https://
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2025.
+Dit besluit treedt in werking met ingang van de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2025.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad van Advies organisatieontwikkeling NVWA.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

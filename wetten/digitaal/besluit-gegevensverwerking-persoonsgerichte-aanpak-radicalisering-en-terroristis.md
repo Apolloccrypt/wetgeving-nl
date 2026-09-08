@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 24 maart 2025 tot uitvoering van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten en tot vaststelling van het tijdstip van inwerkingtreding van die wet (Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten)"
+citeertitel: "Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
 identifier: "BWBR0050899"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050899"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17394473"
-version_id: "30666112"
-internal_id: "C43964201"
-label_id: "17297834"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050899/2025-07-01/0"
-intitule_bron: "Stb.2025-78"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-24"
-intitule_published: "2025-03-27"
-intitule_in_force: "2025-03-27"
-intitule_status: "goed"
-original_publication: "Stb.2025-78"
-original_signed_date: "2025-03-24"
-original_published_date: "2025-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-78"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0050899&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0050899&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
-signed_date: "2025-03-24"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0050899"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van 24 maart 2025 tot uitvoering van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten en tot vaststelling van het tijdstip van inwerkingtreding van die wet (Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten)
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 27 september 2024, Directie Wetgeving en Juridische Zaken, nr. 5800424;
-
-Gelet op de [artikelen 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=12), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=13), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=15), [16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=16), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=19) en [25 van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=25);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 december 2024, no. W16.24.00281/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid, 19 maart 2025, Directie Wetgeving en Juridische Zaken, nr. 6245475;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definitie
 
@@ -182,10 +150,8 @@ De deelnemers aan een casusoverleg dragen er zorg voor dat de medewerkers die zi
 
 ##### Artikel 19. Inwerkingtreding
 
-De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050740) en dit besluit treden in werking met ingang van 1 juli 2025.
+De [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050740) en dit besluit treden in werking met ingang van 1 juli 2025.
 
 ##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

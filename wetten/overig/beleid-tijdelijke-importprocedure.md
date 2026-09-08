@@ -1,48 +1,23 @@
 ---
 title: "Beleid tijdelijke importprocedure"
 identifier: "BWBR0051013"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-05-12"
-last_updated: "2025-05-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051013"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17421713"
-version_id: "30717692"
-internal_id: "C44026161"
-label_id: "17325034"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051013/2025-05-12/0"
-intitule_bron: "Stcrt.2025-16518"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-05-08"
-intitule_in_force: "2025-05-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-16518"
-original_published_date: "2025-05-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-16518"
-entry_into_force_date: "2025-05-12"
-jci_1_3: "jci1.3:c:BWBR0051013&z=2025-05-12&g=2025-05-12"
-jci_1_0: "1.0:c:BWBR0051013&g=2025-05-12"
-citeertitel_status: "officieel"
-entry_into_force: "2025-05-12"
+publicatiedatum: 2025-05-12
+laatste_update: 2025-05-12
+status: geldig
+toestand: 2025-05-12
+bron: "https://wetten.overheid.nl/BWBR0051013"
+opgehaald: 2026-09-08
 ---
+
 # Beleid tijdelijke importprocedure
-
-De directie van de Dienst Wegverkeer,
-
-Gelet op de [Wegenverkeerswet 1994](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) en de [Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089);
-
-Besluit:
 
 ### Hoofdstuk 1. Eisen voor deelname
 
 Uw bedrijf heeft de Erkenning Bedrijfsvoorraad van de RDW. Daarmee bent u toegelaten tot de tijdelijke importprocedure. De tijdelijke importprocedure houdt in dat u onder voorwaarden online een kenteken kunt aanvragen. Dit beleid is bedoeld voor u als aanvrager van een individuele inschrijving.
 
-De [Wegenverkeerswet 1994](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089) en het Beleid tijdelijke importprocedure vormen de basis voor de tijdelijke importprocedure. De RDW houdt toezicht op de tijdelijke importprocedure. Deze bevoegdheid is gebaseerd op [artikel 6, eerste lid, onder a, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6).
+De [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), de [Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089) en het Beleid tijdelijke importprocedure vormen de basis voor de tijdelijke importprocedure. De RDW houdt toezicht op de tijdelijke importprocedure. Deze bevoegdheid is gebaseerd op [artikel 6, eerste lid, onder a, van de Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6).
 
 ### Hoofdstuk 2. Voorschriften voor gebruik
 
@@ -54,17 +29,63 @@ Deze dienst heeft specifieke eisen en voorwaarden. Daarnaast gelden ook algemene
 
 ### 3.1. Voertuig
 
+- • U vraagt alleen een inschrijving aan voor de volgende voertuigcategorieën:
+
+   - ○ personenauto (M1);
+
+   - ○ lichte bedrijfsauto (N1);
+
+   - ○ lichte aanhangwagen (O2);
+
+   - ○ twee of driewieler (L1e–L7e).
+
+- • Het voertuig moet een complete of voltooide Europese typegoedkeuring hebben en daarmee overeenkomen.
+
+- • De personen- of bedrijfsauto (M1 of N1) heeft een maximumconstructiesnelheid van meer dan 25 km per uur.
+
+- • Het voertuig heeft geen schade of herstelde schade.
+
+- • Het voertuig moet eerder geregistreerd zijn in een EU/EVA land, anders dan in Nederland.
+
+- • U bent in het bezit van het voertuig.
+
 ### 3.2. Kentekenbewijs
+
+- • U bent in het bezit van het laatst uitgegeven compleet, origineel buitenlandse EU/EVA kentekenbewijs dat hoort bij het voertuig.
+
+- • De voertuiggegevens die getoond worden, moeten in overeenstemming zijn met het voertuig. De ontbrekende gegevens mogen alleen aangevuld worden met gegevens die afkomstig zijn van het CVO of het kentekenbewijs.
 
 ### 3.3. Foto’s en bestanden
 
+- • U stuurt duidelijke foto’s en bestanden van het desbetreffende voertuig en de bij het voertuig behorende documenten mee. De foto’s en bestanden zijn in kleur, goed leesbaar en scherp.
+
+- • U bewaart het buitenlandse kentekenbewijs 6 maanden na datum van de bevestiging van inschrijving in hetkentekenregister in een afsluitbare voorziening op uw bedrijfsadres. U bewaart het originele kentekenbewijs ook gedurende 6 maanden als u een inschrijving voor een ander heeft gedaan.
+
+- • 6 maanden na datum van de bevestiging van inschrijving in het kentekenregister, vernietigt u het buitenlandse kentekenbewijs. Het vernietigen gebeurt zodanig dat het vernietigde document niet meer als kentekenbewijs gebruikt kan worden. Dit kunt u bijvoorbeeld doen door het kentekenbewijs in twee of meer gelijke delen te knippen en weg te gooien.
+
+- • U vraagt alleen een inschrijving voor uw eigen bedrijfsvoorraad aan als het voertuig uw eigendom is en bestemd is om te worden verkocht.
+
+- • U voldoet aan alle betalingsverplichtingen die voortvloeien uit de tijdelijke importprocedure.
+
 ### 3.4. Inschrijven voor een ander
+
+- • Als u voor een ander (natuurlijk persoon, rechtspersoon of ander erkend bedrijf) de inschrijving aanvraagt moet u de daarvoor bedoelde digitale machtiging aanmaken. Deze digitale machtiging laat u ondertekenen en gebruikt u tijdens de aanvraag.
+
+- • In geval van een aanvraag voor inschrijving voor een natuurlijk- of rechtspersoon controleert u het Nederlandse legitimatiebewijs van de natuurlijk persoon of tekenbevoegde van de rechtspersoon. Het legitimatiebewijs moet geldig zijn op het moment van controle.
+
+- • Als u een inschrijving aanvraagt voor een rechtspersoon laat u de machtiging door een tekenbevoegde ondertekenen. U controleert het (kopie) uittreksel (niet ouder dan een jaar) uit het handelsregister waaruit blijkt dat de tekenbevoegde bevoegd is de rechtspersoon te vertegenwoordigen.
+
+- • Als u een inschrijving aanvraagt voor een natuurlijke persoon, dan ziet er u erop toe dat deze het machtigingsformulier zelf ondertekent.
+
+- • Als u een inschrijving aanvraagt voor een ander erkend bedrijf bedrijfsvoorraad, dan moet dit bedrijf de digitale machtiging ondertekenen in de daarvoor bedoelde dienst.
+
+- • De machtiging moet u minimaal 2 jaar en maximaal 3 jaar bewaren in de afsluitbare voorziening op uw bedrijfsadres. Als het voertuig is ingeschreven ten behoeve van de bedrijfsvoorraad van een ander erkend bedrijf dan hoeft u geen machtiging te bewaren.
 
 ### Hoofdstuk 4. Toezicht
 
 ### 4.1. Basis van het toezicht
 
-De RDW houdt toezicht op de tijdelijke importprocedure. Deze bevoegdheid is gebaseerd op [artikel 6, eerste lid, onder a van de Regeling erkenning Bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6). De basis van het toezicht is vastgelegd in de [Wegenverkeerswet 1994](onbekend), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) en de [Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089).
+De RDW houdt toezicht op de tijdelijke importprocedure. Deze bevoegdheid is gebaseerd op [artikel 6, eerste lid, onder a van de Regeling erkenning Bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089&artikel=6). De basis van het toezicht is vastgelegd in de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) en de [Regeling erkenning bedrijfsvoorraad](https://wetten.overheid.nl/jci1.3:c:BWBR0007089).
 
 ### 4.2. Meewerken aan het toezicht
 
@@ -82,7 +103,7 @@ Voor een goed gebruik van de tijdelijke importprocedure, is het van groot belang
 
 De RDW houdt toezicht door middel van periodieke controlebezoeken, administratieve controles en fysieke controles. De controle vindt plaats op het bedrijfsadres zoals u bent ingeschreven bij de Kamer van Koophandel en zoals deze is geregistreerd bij de RDW.
 
-Tijdens de controle moet u de buitenlandse kentekenbewijzen van voertuigen die korter dan 6 maanden geleden zijn ingeschreven, kunnen tonen aan de Toezichthouder Bedrijven van de RDW.
+Tijdens de controle moet u de buitenlandse kentekenbewijzen van voertuigen die korter dan 6 maanden geleden zijn ingeschreven, kunnen tonen aan de Toezichthouder Bedrijven van de RDW.
 
 Ten aanzien van de fysieke controles kan dit betekenen dat u het voertuig inclusief de bijbehorende documenten op een met de RDW overeengekomen locatie en tijdstip voor onderzoek ter beschikking moet stellen.
 
@@ -98,7 +119,7 @@ Bij geen gehoor worden, verspreid over verschillende werkdagen, maximaal twee ni
 
 Wordt bij aankomst in uw bedrijf niemand aangetroffen die gemachtigd is om medewerking aan de controle te verlenen, dan laat de Toezichthouder Bedrijven een kaartje achter waaruit blijkt dat hij bij uw bedrijf is geweest. De RDW stuurt u vervolgens een ‘verklaring controle erkenning en/of handelaarskentekens en -kentekenbewijzen’ toe. Op deze verklaring kunt u maximaal drie telefoonnummers invullen waarop u bereikbaar bent of waarop een door u gemachtigde persoon bereikbaar is. U dient dit formulier ingevuld en binnen de daarvoor gestelde termijn naar de RDW te sturen. Doet u dit niet of brengt u toevoegingen op het formulier aan, dan kan dit leiden tot een schorsing van uw erkenning voor de duur van zes weken.
 
-Na ontvangst door de RDW van de ingevulde en ondertekende verklaring zal de Toezichthouder Bedrijven vervolgens een onaangekondigd bezoek plannen. Als er wederom niemand wordt aangetroffen die gemachtigd is om medewerking aan de controle te verlenen, dan probeert de Toezichthouder Bedrijven u op de opgegeven telefoonnummers te bereiken. U of een door u gemachtigd persoon moet dan binnen 15 minuten op het bedrijfsadres aanwezig zijn. Komt het na de uitgevoerde belpogingen niet tot een controlebezoek omdat er niemand is die namens uw bedrijf een controle mogelijk kan maken, dan kan daaraan de conclusie worden verbonden dat geen medewerking wordt verleend aan het toezicht. Stuurt u de verklaring niet terug of verleent u geen medewerking aan toezicht, dan wordt u uitgesloten van deelname aan de tijdelijke importprocedure.
+Na ontvangst door de RDW van de ingevulde en ondertekende verklaring zal de Toezichthouder Bedrijven vervolgens een onaangekondigd bezoek plannen. Als er wederom niemand wordt aangetroffen die gemachtigd is om medewerking aan de controle te verlenen, dan probeert de Toezichthouder Bedrijven u op de opgegeven telefoonnummers te bereiken. U of een door u gemachtigd persoon moet dan binnen 15 minuten op het bedrijfsadres aanwezig zijn. Komt het na de uitgevoerde belpogingen niet tot een controlebezoek omdat er niemand is die namens uw bedrijf een controle mogelijk kan maken, dan kan daaraan de conclusie worden verbonden dat geen medewerking wordt verleend aan het toezicht. Stuurt u de verklaring niet terug of verleent u geen medewerking aan toezicht, dan wordt u uitgesloten van deelname aan de tijdelijke importprocedure.
 
 Daarnaast kunnen meldingen van onder andere de Politie, Belastingdienst of Douane reden zijn een onderzoek in te stellen en aanleiding geven tot een (onaangekondigd) controlebezoek door de RDW.
 
@@ -108,16 +129,32 @@ U wordt geacht zich op de hoogte te stellen van de regels en deze in te passen i
 
 ### 4.7.1. Voorbeelden van overtredingen tijdelijke importprocedure
 
+- • het voertuig waarvoor een aanvraag is ingediend niet ter beschikking stellen voor onderzoek;
+
+- • het aanleveren van onjuiste voertuiggegevens;
+
+- • het aanleveren van documenten en/of afbeeldingen die niet in kleur, niet goed leesbaar en/of niet scherp zijn;
+
+- • het niet aangeven dat het voertuig schade heeft;
+
+- • het niet bewaren, het niet volgens de voorschriften vernietigen, het niet kunnen tonen of het niet op verzoek aangetekend opsturen van originele complete kentekenbewijzen;
+
+- • het bij de aanvraag voor een inschrijving voor een derde geen gebruik maken van de digitale machtiging die daarvoor beschikbaar is gesteld;
+
+- • het niet conform de voorschriften laten ondertekenen of bewaren van de machtiging;
+
+- • het niet of onvoldoende medewerking verlenen aan toezicht;
+
+- • het niet tijdig betalen van de facturen.
+
 ### Hoofdstuk 5. Intrekking
 
-Het [Beleid tijdelijke importprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0047132) van 12 september 2022, stcrt. 2022, nummer 24502 wordt met ingang van 12 mei 2025 ingetrokken.
+Het [Beleid tijdelijke importprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0047132) van 12 september 2022, stcrt. 2022, nummer 24502 wordt met ingang van 12 mei 2025 ingetrokken.
 
 ### Hoofdstuk 6. Ingangsdatum
 
-Deze beleidsregel treedt in werking met ingang van 12 mei 2025.
+Deze beleidsregel treedt in werking met ingang van 12 mei 2025.
 
 ### Hoofdstuk 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleid tijdelijke importprocedure.
-
-Deze beleidsregel wordt in de Staatscourant geplaatst.

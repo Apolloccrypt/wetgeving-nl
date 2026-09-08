@@ -1,43 +1,23 @@
 ---
 title: "Besluit ANBI"
 identifier: "BWBR0051193"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-07-04"
-last_updated: "2025-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051193"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17462973"
-version_id: "30799672"
-internal_id: "C44144251"
-label_id: "17365914"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051193/2025-07-04/0"
-intitule_bron: "Stcrt.2025-20215"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-26"
-intitule_published: "2025-07-03"
-intitule_in_force: "2025-07-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-20215"
-original_signed_date: "2025-06-26"
-original_published_date: "2025-07-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-20215"
-entry_into_force_date: "2025-07-04"
-jci_1_3: "jci1.3:c:BWBR0051193&z=2025-07-04&g=2025-07-04"
-jci_1_0: "1.0:c:BWBR0051193&g=2025-07-04"
-citeertitel_status: "officieel"
-signed_date: "2025-06-26"
-entry_into_force: "2025-07-04"
+publicatiedatum: 2025-07-04
+laatste_update: 2025-07-04
+status: geldig
+toestand: 2025-07-04
+bron: "https://wetten.overheid.nl/BWBR0051193"
+opgehaald: 2026-09-08
 ---
+
 # Besluit ANBI
 
-**De Staatssecretaris van Financiën heeft het volgende besloten.**
-
-**In dit besluit is nieuw beleid opgenomen over de regeling die geldt voor algemeen nut beogende instellingen. Ook zijn enkele onderdelen overgenomen uit het besluit van 19 december 2014, nr. BLKB2014/1415M (** **Stcrt. 2014, 36877** **), laatstelijk gewijzigd bij besluit van 5 maart 2024, nr. 2024-4956 (** **Stcrt. 2024, 7392** **) en waar nodig geactualiseerd.**
+*In dit besluit is nieuw beleid opgenomen over de regeling die geldt voor algemeen nut beogende instellingen. Ook zijn enkele onderdelen overgenomen uit het besluit van 19 december 2014, nr. BLKB2014/1415M (*
+ *Stcrt. 2014, 36877*
+ *), laatstelijk gewijzigd bij besluit van 5 maart 2024, nr. 2024-4956 (*
+ *Stcrt. 2024, 7392*
+ *) en waar nodig geactualiseerd.*
 
 ### 1. Inleiding
 
@@ -45,19 +25,50 @@ Een instelling – niet zijnde een vennootschap met een in aandelen verdeeld kap
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
-In dit besluit worden de begrippen ‘gift’ en ‘schenking’ naast elkaar gebruikt. Voor zover het de toepassing van de [Successiewet](onbekend) betreft, wordt met beide begrippen gedoeld op het schenkingsbegrip van [artikel 1, zevende lid, Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1).
+| Algemeen nut vereiste | Artikel 5b, eerste lid, aanhef en onder a, en derde lid van de Algemene wet inzake rijksbelastingen juncto artikel 1a, eerste lid, onderdeel b van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 |
+| --- | --- |
+| ANBI | Een algemeen nut beogende instelling als bedoeld in artikel 5b van de Algemene wet inzake rijksbelastingen |
+| ANBI Expertisecentrum | Het ANBI Expertisecentrum behandelt de aanvragen van instellingen om te worden aangemerkt als ANBI. Verder houdt het team toezicht op de ANBI’s. Het adres is: Belastingdienst/Kantoor Eindhoven ANBI Expertisecentrum Postbus 90056 5600 PJ Eindhoven |
+| ANBI-register | Het register waarin de instellingen zijn opgenomen die bij beschikking zijn aangemerkt als ANBI en dat via www.belastingdienst.nl kan worden geraadpleegd |
+| AWR | Algemene wet inzake rijksbelastingen |
+| Beloningscriterium | Artikel 1a, eerste lid, onderdeel e, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 |
+| Bestedingscriterium (anti-oppoteis) | Artikel 1a, eerste lid, onderdeel d juncto artikel 1b van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 |
+| Derde landen | Landen als bedoeld in artikel 5b, eerste lid, onderdeel d, ten tweede van de Algemene wet inzake rijksbelastingen |
+| SBBI | Sociaal belang behartigende instelling als bedoeld in artikel 5c van de Algemene wet inzake rijksbelastingen |
+| Successiewet | Successiewet 1956 |
+| UR AWR | Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 |
+| WNT | Wet normering topinkomens |
+| Wet Vpb 1969 | Wet op de vennootschapsbelasting 1969 |
+
+In dit besluit worden de begrippen ‘gift’ en ‘schenking’ naast elkaar gebruikt. Voor zover het de toepassing van de [Successiewet](https://wetten.overheid.nl/BWBR0002226) betreft, wordt met beide begrippen gedoeld op het schenkingsbegrip van [artikel 1, zevende lid, Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1).
 
 ### 1.2. Overzicht onderdelen
 
 Dit besluit bevat de volgende inhoudelijke onderdelen.
 
+- – Het algemeen nut vereiste, waarbij ook aandacht wordt besteed aan crowdfunding- en loketinstellingen ([onderdeel 2](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Handvatten voor de invulling van enkele categorieën van algemeen nut ([onderdeel 3](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Het uitgangspunt voor een instelling gevestigd in een derde land ([onderdeel 4](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Verduidelijkingen omtrent het (niet langer) aanmerken van een instelling als ANBI door middel van een beschikking al dan niet met terugwerkende kracht ([onderdeel 5](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Handvatten voor de invulling van het bestedingscriterium ([onderdeel 6](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Een nadere invulling van de bepaling rondom de beloning voor de leden van het orgaan van de ANBI dat het beleid bepaalt ([onderdeel 7](https://wetten.overheid.nl/BWBR0051193)).
+
+- – Een verduidelijking voor de praktijk om te bepalen wanneer sprake is van algemeen nuttige activiteiten ([onderdeel 8](https://wetten.overheid.nl/BWBR0051193)) en een nadere invulling van het begrip commerciële tarieven ([onderdeel 8.1.](https://wetten.overheid.nl/BWBR0051193)).
+
 ### 2. Algemeen nut vereiste
 
-Een ANBI is een instelling die, zowel statutair als feitelijk, uitsluitend of nagenoeg uitsluitend het algemeen nut beoogt. Om te kunnen aannemen dat met de ontplooide werkzaamheden uitsluitend of nagenoeg uitsluitend het algemeen nut is beoogd, moet in de eerste plaats worden vastgesteld dat die werkzaamheden primair en rechtstreeks zijn gericht op het dienen van enig algemeen belang (kwalitatieve toets). Daarnaast moet het beoogde doel ook feitelijk voor 90% of meer ten bate van het algemeen nut strekken (kwantitatieve toets).1HR 22 april 2016, nr. 14/06262, ECLI:NL:HR:2016:695,2De kwalitatieve en kwantitatieve toets worden in de praktijk ook wel aangeduid als de tweetrapstoets. De nadruk ligt hierbij op de uitgaven, op de bestedingen van de instelling ten behoeve van de doelstelling.3Zie onder meer Kamerstukken II 2011/12, 33 006, nr. 6, p. 10. Ook andere feiten en omstandigheden kunnen bij deze beoordeling een rol spelen.
+Een ANBI is een instelling die, zowel statutair als feitelijk, uitsluitend of nagenoeg uitsluitend het algemeen nut beoogt. Om te kunnen aannemen dat met de ontplooide werkzaamheden uitsluitend of nagenoeg uitsluitend het algemeen nut is beoogd, moet in de eerste plaats worden vastgesteld dat die werkzaamheden primair en rechtstreeks zijn gericht op het dienen van enig algemeen belang (kwalitatieve toets). Daarnaast moet het beoogde doel ook feitelijk voor 90% of meer ten bate van het algemeen nut strekken (kwantitatieve toets).1HR 22 april 2016, nr. 14/06262, ECLI:NL:HR:2016:695,2De kwalitatieve en kwantitatieve toets worden in de praktijk ook wel aangeduid als de tweetrapstoets. De nadruk ligt hierbij op de uitgaven, op de bestedingen van de instelling ten behoeve van de doelstelling.3Zie onder meer Kamerstukken II 2011/12, 33 006, nr. 6, p. 10. Ook andere feiten en omstandigheden kunnen bij deze beoordeling een rol spelen.
 
-In het besluit wordt het hiervoor omschreven vereiste verder aangeduid als het **algemeen nut vereiste**.
+In het besluit wordt het hiervoor omschreven vereiste verder aangeduid als het *algemeen nut vereiste*.
 
 ### 2.1. Crowdfunding en loketinstelling
+
+Crowdfunding
 
 Crowdfunding is een wijze om te voorzien in een financieringsbehoefte van een particulier, bedrijf of instelling. De crowdfunder vervult via een crowdfundingplatform een intermediairfunctie tussen geldnemer en geldgevers. De crowd (de menigte) bepaalt welk project geloofwaardig genoeg is om te financieren (funden). Het contact verloopt indirect via de crowdfunder, of direct tussen degene die een financieringsbehoefte heeft (de geldnemer) en de geldgevers.
 
@@ -65,9 +76,21 @@ In de praktijk komt crowdfunding in verschillende verschijningsvormen voor. De v
 
 Een loketinstelling in de meest zuivere vorm is een instelling waarvan de werkzaamheden enkel bestaan uit het in ontvangst nemen van giften waaraan de donateur de voorwaarde heeft verbonden dat deze moeten worden doorgestort naar een door de donateur bepaalde bestemming (derde begunstigden). De loketinstelling in de meest zuivere vorm besteedt de ontvangen giften in dat geval niet vanuit haar eigen algemeen nuttige doelstelling, maar uitsluitend in opdracht van de donateur. Dergelijke instellingen voldoen niet aan het algemeen nut vereiste.
 
-Een loketinstelling moet worden onderscheiden van een steunstichting. Anders dan een loketinstelling, zamelt een steunstichting gelden in ter verwezenlijking van haar eigen algemeen nuttige doelstelling, namelijk het ondersteunen van één of meer ANBI(‘s). Zie hiervoor verder onderdeel 3.2 van het besluit.
+Een loketinstelling moet worden onderscheiden van een steunstichting. Anders dan een loketinstelling, zamelt een steunstichting gelden in ter verwezenlijking van haar eigen algemeen nuttige doelstelling, namelijk het ondersteunen van één of meer ANBI(‘s). Zie hiervoor verder [onderdeel 3.2](https://wetten.overheid.nl/BWBR0051193) van het besluit.
 
 Een instelling, niet zijnde een steunstichting, die haar eigen algemeen nuttige doelstelling nastreeft en daarvoor crowdfundingactiviteiten verricht, kan onder omstandigheden voldoen aan het algemeen nut vereiste. Een dergelijke instelling zal steeds moeten worden beoordeeld op basis van de feiten en omstandigheden van de concrete situatie. Factoren die een rol spelen bij de beoordeling of is voldaan aan het algemeen nut vereiste, zijn bijvoorbeeld:
+
+- – Is er sprake van een duidelijke, voldoende concrete eigen algemeen nuttige doelstelling?
+
+- – Hanteert de instelling strikte criteria om te voldoen aan de eigen algemeen nuttige doelstelling?
+
+- – Welke waarborgen heeft de instelling om aan de eigen algemeen nuttige doelstelling te kunnen voldoen?
+
+- – Worden donaties in tranches – afhankelijk van de voortgang – doorbetaald?
+
+- – In welke mate oefent de instelling controle uit op de voortgang van gefinancierde projecten?
+
+- – Vindt achteraf een evaluatie plaats en wordt een eventueel daaraan gekoppelde terugbetalingsverplichting nageleefd?
 
 ### 3. Categorieën van algemeen nut
 
@@ -78,6 +101,8 @@ Hierna wordt ingegaan op enkele categorieën.
 ### 3.1. Welzijn
 
 Als algemeen nut in de zin van [artikel 5b AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) wordt ingevolge het derde lid, onderdeel a, van deze bepaling ook ‘welzijn’ beschouwd. Dit is een breed begrip.
+
+Ontspanning en vermaak, persoonlijke ontwikkeling
 
 Bij werkzaamheden die bestaan uit het bieden van ontspanning en vermaak en/of persoonlijke ontwikkeling binnen deze categorie geldt als uitgangspunt dat deze zijn gericht op het particulier belang van de deelnemers en slechts indirect bijdragen aan het algemeen nut. Instellingen die zich met deze werkzaamheden bezighouden, voldoen over het algemeen niet aan het algemeen nut vereiste en komen om deze reden al niet in aanmerking voor de ANBI-status. Zijn de activiteiten van een instelling gericht op een specifieke kwetsbare (doel)groep, waarbij de activiteiten zijn gericht op het wegnemen of verminderen van die kwetsbaarheid, dan zal eerder sprake zijn van een situatie waarin het algemeen belang vooropstaat. Daarbij kan bijvoorbeeld worden gedacht aan het organiseren van uitstapjes en vakanties voor ouderen en mensen met een ziekte of handicap die zonder begeleiding niet meer buiten de deur of verpleegomgeving kunnen komen en daardoor in een sociaal isolement verkeren.
 
@@ -90,6 +115,12 @@ Een combinatie van ‘eigen’ algemeen nuttige doelen ([artikel 5b, derde lid, 
 ### 4. Derde landen
 
 Er zijn drie categorieën ‘landen’ te onderscheiden ([artikel 5b, eerste lid, onderdeel d, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b)):
+
+- 1. een land dat onderdeel is van het Koninkrijk of een lidstaat van de Europese Unie;
+
+- 2. een land waarmee in de relatie met Nederland voor de heffing van inkomstenbelasting, vennootschapsbelasting, schenkbelasting en erfbelasting zonder beperkingen of voorbehouden de uitwisseling is geregeld van gegevens, inlichtingen en gegevensdragers ([artikel 1c UR AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1c));
+
+- 3. andere landen, ook wel derde landen genoemd5Kamerstukken II 2022/23, 36 342, nr. 3, p. 9..
 
 Instellingen gevestigd in de onder 3 genoemde derde landen kunnen ook als ANBI worden aangemerkt.6Artikel 5b, eerste lid, sub d, ten tweede, AWR. Hiervoor geldt als uitgangspunt de voorwaarde dat de instelling jaarlijks gegevens en inlichtingen verstrekt, op grond waarvan het ANBI Expertisecentrum kan beoordelen of de instelling voldoet aan de voorwaarden. De instelling maakt aannemelijk dat de verstrekte gegevens en inlichtingen een getrouw beeld van de werkelijke situatie geven. Dit kan bijvoorbeeld met een accountantsverklaring.
 
@@ -105,6 +136,18 @@ Om gebruik te kunnen maken van de fiscale faciliteiten moet een instelling voora
 
 Om duidelijkheid te scheppen voor de praktijk zijn hierna situaties opgenomen waarin de inspecteur in ieder geval terugwerkende kracht verleent (mits aan alle andere ANBI-voorwaarden is voldaan):
 
+- 1. Een instelling die op 1 januari van een kalenderjaar bestaat en in datzelfde kalenderjaar een verzoek doet om te worden aangemerkt als ANBI, kan met terugwerkende kracht tot en met 1 januari van datzelfde kalenderjaar worden aangemerkt als ANBI. Hierbij geldt dat terugwerkende kracht niet verder gaat dan tot en met het moment waarop de instelling aan de ANBI-vereisten voldoet. Als op 1 januari van het kalenderjaar niet is voldaan aan één of meer formele vereisten maar wel aan het algemeen nut vereiste, kan de inspecteur op basis van een gemotiveerd verzoek van de instelling beslissen alsnog terugwerkende kracht te verlenen tot en met 1 januari van het kalenderjaar. Het verzoek kan worden ingediend bij het ANBI Expertisecentrum.
+
+- 2. Een nieuw opgerichte instelling, die binnen een jaar na oprichting een verzoek doet om aangemerkt te worden als ANBI, kan met terugwerkende kracht tot en met de datum van oprichting worden aangemerkt als ANBI. Hierbij geldt dat terugwerkende kracht niet verder gaat dan tot en met het moment waarop de instelling aan de ANBI-vereisten voldoet. Als op de oprichtingsdatum niet is voldaan aan één of meer formele vereisten maar wel aan het algemeen nut vereiste, kan de inspecteur op basis van een gemotiveerd verzoek van de instelling beslissen alsnog terugwerkende kracht te verlenen tot en met de oprichtingsdatum. Het verzoek kan worden ingediend bij het ANBI Expertisecentrum.
+
+- 3. Een stichting die bij testament wordt opgericht7Artikel 135 van Boek 4 van het Burgerlijk Wetboek. en waarvan de statuten ten tijde van het opstellen van dat testament aan de ANBI-vereisten voldoen, maar op het moment van overlijden van de erflater door tussentijdse aanpassingen in beleid, wet- of regelgeving dan wel ontwikkelingen in de jurisprudentie niet meer aan één of meer ANBI-vereisten voldoen, kan met terugwerkende kracht tot en met de datum van oprichting als ANBI worden aangemerkt. Hiervoor gelden de volgende voorwaarden:
+
+   - a. de statuten worden binnen acht maanden na het overlijden van de erflater aangepast zodat de instelling voldoet aan de geldende ANBI-voorwaarden; en
+
+   - b. er zijn tussentijds geen uitkeringen of schenkingen door de stichting gedaan.
+
+- 4. Een instelling die een nalatenschap of schenking ontvangt en binnen acht maanden na overlijden van de erflater respectievelijk binnen twee maanden na het einde van het kalenderjaar waarin de schenking heeft plaatsgevonden een verzoek doet om te worden aangemerkt als ANBI, kan met terugwerkende kracht tot en met de datum van overlijden of schenking worden aangemerkt als ANBI. Hierbij geldt dat de terugwerkende kracht niet verder gaat dan tot en met het moment waarop de instelling aan de ANBI-vereisten voldoet. Als op de overlijdensdatum respectievelijk de datum waarop de schenking heeft plaatsgevonden niet is voldaan aan één of meer formele vereisten maar wel aan het algemeen nut vereiste, kan de inspecteur op basis van een gemotiveerd verzoek van de instelling beslissen alsnog terugwerkende kracht te verlenen tot en met de overlijdensdatum dan wel de datum waarop de schenking heeft plaatsgevonden. Het verzoek kan worden ingediend bij het ANBI Expertisecentrum. Voor de volledigheid merk ik op dat voor situaties die niet vallen onder bovenstaande voorbeelden er een gemotiveerd verzoek kan worden ingediend bij het ANBI Expertisecentrum.
+
 ### 5.2. Intrekken ANBI-status met terugwerkende kracht, gevolgen voor de schenk- en erfbelasting
 
 [Artikel 5b, zevende lid, AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) geeft de inspecteur de mogelijkheid om, bij voor bezwaar vatbare beschikking, de ANBI-status in voorkomende gevallen in te trekken. Het tijdstip van intrekking kan liggen vóór de datum van de dagtekening van de beschikking. De inspecteur kan daardoor de ANBI-status met terugwerkende kracht intrekken.
@@ -113,7 +156,11 @@ Als een ANBI-status wordt ingetrokken met terugwerkende kracht komt de vraag op 
 
 Belanghebbende kan voor de schenk- en erfbelasting in voorkomende gevallen van het volgende uitgaan.8Dit beleidsonderdeel is mede tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:206:2023:4, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.,9Zie voor de gevolgen voor de inkomstenbelasting het Giftenbesluit.
 
+Schenking van een ANBI
+
 Op schenkingen die zijn ontvangen van een instelling die op het moment van het ontvangen van de gift stond geregistreerd als ANBI in het ANBI-register, blijft de vrijstelling van [artikel 33, onder 10˚, Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) van toepassing. De begiftigde mag aan het ANBI-register vertrouwen ontlenen. Uiteraard moet ook aan het vereiste zijn voldaan dat de uitkering geheel of nagenoeg geheel is geschied in het algemeen belang, passend binnen de (algemeen nuttige) doelstelling van de ANBI. Het voorgaande is niet van toepassing als de begiftigde te kwader trouw is.
+
+Gevolgen voor de ANBI
 
 Voor de volledigheid merk ik op dat een instelling zich niet kan beroepen op het vermeld staan in het ANBI-register. De instelling is zelf verantwoordelijk voor het blijven voldoen aan de voorwaarden van het zijn van een ANBI. Dit is een doorlopende toets. Zo geldt bijvoorbeeld voor verkrijgingen door een ANBI dat de vrijstelling van [artikel 33, onder 4˚, Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) niet van toepassing is vanaf het moment dat niet langer wordt voldaan aan de voorwaarden voor het hebben van de ANBI-status. Met de beschikking wordt de intrekking van de ANBI-status met terugwerkende kracht geformaliseerd. Dit geldt ook voor een verkrijging krachtens erfrecht. De vrijstelling van [artikel 32, lid 1, onder 3˚ Successiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=32) is niet van toepassing vanaf het moment dat niet langer wordt voldaan aan de voorwaarden voor het zijn van een ANBI en de inspecteur bij beschikking met terugwerkende kracht tot dat moment de ANBI-status intrekt.
 
@@ -121,7 +168,7 @@ Voor de volledigheid merk ik op dat een instelling zich niet kan beroepen op het
 
 Een ANBI mag niet meer vermogen aanhouden dan redelijkerwijs nodig is voor de continuïteit van de voorziene werkzaamheden ten behoeve van haar doelstelling (het bestedingscriterium, ook aangeduid als de anti-oppoteis).
 
-Een ANBI mag reserves (zie 6.1) aanhouden. Het is in eerste instantie aan de instelling om te bepalen hoeveel vermogen zij aanhoudt. Daarbij is van belang dat de instelling goed kan onderbouwen waarom een bepaald vermogen wordt aangehouden. De inspecteur beoordeelt op basis van de feiten en omstandigheden in de concrete situatie of de omvang van het aangehouden vermogen en de onderbouwing redelijk zijn. In het hiernavolgende geef ik enkele handvatten voor de invulling in de praktijk.
+Een ANBI mag reserves (zie [6.1](https://wetten.overheid.nl/BWBR0051193)) aanhouden. Het is in eerste instantie aan de instelling om te bepalen hoeveel vermogen zij aanhoudt. Daarbij is van belang dat de instelling goed kan onderbouwen waarom een bepaald vermogen wordt aangehouden. De inspecteur beoordeelt op basis van de feiten en omstandigheden in de concrete situatie of de omvang van het aangehouden vermogen en de onderbouwing redelijk zijn. In het hiernavolgende geef ik enkele handvatten voor de invulling in de praktijk.
 
 ### 6.1. Reserves
 
@@ -151,6 +198,8 @@ Stamvermogen is vermogen dat krachtens uiterste wilsbeschikking of schenking is 
 
 Onder het begrip rendement vallen in het algemeen niet alleen dividend, rente, huur en pacht, maar ook (on)gerealiseerde koersstijgingen of andere waardestijgingen.
 
+Instandhoudingsverplichting
+
 In de uitvoeringspraktijk is de vraag naar voren gekomen of voor ongerealiseerde rendementen eveneens geldt dat deze aan de algemeen nuttige doelstelling moeten worden besteed. Dat is het geval, behalve als de instandhoudingsverplichting die door de schenker of erflater is opgelegd, betrekking heeft op het vermogensbestanddeel zelf (dus niet op de geldelijke waarde daarvan).
 
 Het bovenstaande laat onverlet dat een ANBI moet handelen in lijn met haar algemeen nuttige doelstelling door het in voldoende mate verrichten van algemeen nuttige activiteiten.
@@ -179,13 +228,15 @@ Het voorgaande geldt niet voor zover de instandhoudingsverplichting betrekking h
 
 ### 6.2.5. Stamvermogens van vóór 1 januari 2008
 
-Vóór 1 januari 2008 was het bestedingscriterium en daarmee de uitzondering voor stamvermogen nog niet in de wet opgenomen. Dit maakt dat het in de praktijk moeilijk is om bij oudere instellingen te kunnen vaststellen of sprake is van stamvermogen en zo ja, om de hoogte van het stamvermogen exact te kunnen bepalen. De benodigde gegevens zijn niet altijd (meer) beschikbaar. Bij een instelling die al vóór 1 januari 2008 bestond en in die periode ook slechts de rendementen heeft besteed, zal daarom geen afbouw van het (fictieve) (stam)vermogen worden geëist. Daarbij vormt het aanwezige eigen vermogen per 1 januari 2008, exclusief de eventueel aanwezige reserves voor toekomstige projecten of andere reële aangehouden reserves, het uitgangspunt. Het gaat hierbij om het daadwerkelijke eigen vermogen (lees: de waarde in het economische verkeer).
+Vóór 1 januari 2008 was het bestedingscriterium en daarmee de uitzondering voor stamvermogen nog niet in de wet opgenomen. Dit maakt dat het in de praktijk moeilijk is om bij oudere instellingen te kunnen vaststellen of sprake is van stamvermogen en zo ja, om de hoogte van het stamvermogen exact te kunnen bepalen. De benodigde gegevens zijn niet altijd (meer) beschikbaar. Bij een instelling die al vóór 1 januari 2008 bestond en in die periode ook slechts de rendementen heeft besteed, zal daarom geen afbouw van het (fictieve) (stam)vermogen worden geëist. Daarbij vormt het aanwezige eigen vermogen per 1 januari 2008, exclusief de eventueel aanwezige reserves voor toekomstige projecten of andere reële aangehouden reserves, het uitgangspunt. Het gaat hierbij om het daadwerkelijke eigen vermogen (lees: de waarde in het economische verkeer).
 
 ### 7. Beloning leden beleidsbepalend orgaan (beloningscriterium)
 
 Het beloningscriterium houdt in dat de leden van het beleidsbepalend orgaan voor de werkzaamheden die ze als zodanig voor de instelling verrichten, geen andere beloning ontvangen dan een vergoeding voor gemaakte onkosten en een niet-bovenmatig vacatiegeld (beloningscriterium). Onder een beleidsbepalend orgaan wordt in dit verband verstaan een natuurlijk persoon of een groep natuurlijke personen die, of een orgaan van de instelling dat, eindverantwoordelijk is voor het beleid, zonder feitelijk ondergeschikt te zijn aan een andere persoon of orgaan van die instelling. Hierna volgen enkele uitgangspunten voor de beantwoording van de vraag of een vacatiegeld al dan niet bovenmatig is.
 
-Vacatiegeld is in ieder geval niet bovenmatig als dit niet hoger is dan de vergoeding die is opgenomen in het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279)12Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies).. Een hoger vacatiegeld is in uitzonderingsgevallen mogelijk en is dus niet per definitie bovenmatig. Bij de beantwoording van de vraag of een hoger vacatiegeld mogelijk is, spelen onder andere een rol de aard en omvang van de instelling en de maatschappelijke positie van het lid van het orgaan van de instelling dat het beleid bepaalt.
+Vacatiegeld
+
+Vacatiegeld is in ieder geval niet bovenmatig als dit niet hoger is dan de vergoeding die is opgenomen in het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279)12Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies).. Een hoger vacatiegeld is in uitzonderingsgevallen mogelijk en is dus niet per definitie bovenmatig. Bij de beantwoording van de vraag of een hoger vacatiegeld mogelijk is, spelen onder andere een rol de aard en omvang van de instelling en de maatschappelijke positie van het lid van het orgaan van de instelling dat het beleid bepaalt.
 
 Een (vaste) vergoeding die niet afhankelijk is van het bijwonen van vergaderingen en de daarbij behorende voorbereiding, kan in beginsel niet als vacatiegeld worden aangemerkt. Desondanks wordt aangenomen dat aan het beloningscriterium is voldaan als zo’n vaste vergoeding is gebaseerd op een veronderstelde vacatie en niet bovenmatig is. Van een veronderstelde vacatie is sprake als de vergoeding geacht kan worden te staan tegenover de uren die besteed moeten worden aan het voorbereiden en bijwonen van vergaderingen en bijeenkomsten.
 
@@ -201,7 +252,11 @@ Uit de toelichting13Zie Stcrt. 2012, 12737. volgt dat het met de invoering van [
 
 Ter verduidelijking loopt de beoordeling van activiteiten als volgt:
 
-**Voorbeeld:**
+- 1. Eerst wordt bepaald wat de aard van de activiteiten is (waar zijn deze op gericht?). Een activiteit waarmee inhoudelijk de doelstelling van de instelling wordt verwezenlijkt of bevorderd, is een algemeen nuttige activiteit, behoudens situaties zoals beschreven onder 2. Deze activiteit kan voor die instelling nooit als commerciële activiteit worden gekwalificeerd. Ook niet bij het hanteren van een commercieel tarief.
+
+- 2. De tweede volzin van [artikel 1a, vijfde lid, UR AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1a) leidt tot de kwalificatie dat alle algemeen nuttige activiteiten als niet-algemeen nuttig moeten worden bestempeld als het geheel van de algemeen nuttige activiteiten (lees: per saldo) tegen een commercieel tarief wordt aangeboden.
+
+*Voorbeeld:*
 
 Een stichting die is aangemerkt als culturele instelling exploiteert een museum. Om de kosten van het museum (bijvoorbeeld onderhoud en de restauratie van de collectie) te kunnen dekken verwerft de stichting op diverse manieren inkomsten. Zo worden binnen de stichting ook een museumwinkel en een horecagelegenheid geëxploiteerd.
 
@@ -213,6 +268,16 @@ Met de winkel en de horecagelegenheid wordt inhoudelijk niet het doel van de sti
 
 Commerciële tarieven zijn tarieven die de integrale kostprijs van de verrichte diensten of de geleverde goederen te boven gaan. Bij het beoordelen of sprake is van commerciële tarieven ([artikel 1a, vijfde lid, UR AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1a)) tellen alleen de kosten mee die zijn toe te rekenen aan de algemeen nuttige activiteiten die passen binnen de doelstelling van de instelling. Om hier invulling aan te geven gelden enkele uitgangspunten:
 
+- a) Er mag geen rekening worden gehouden met fictieve vrijwilligerskosten voor de inzet van vrijwilligers bij de algemeen nuttige activiteiten. Enkel met de daadwerkelijk gemaakte kosten.
+
+- b) Of rekening mag worden gehouden met een dotatie aan een voorziening is afhankelijk van het doel/de reden waarvoor deze voorziening is gevormd en of een voldoende causaal verband bestaat met de desbetreffende algemeen nuttige activiteit.
+
+- c) Of rekening mag worden gehouden met een afschrijving op activa is afhankelijk van of het activum wordt gebruikt voor de desbetreffende algemeen nuttige activiteit.
+
+- d) Geen rekening mag worden gehouden met een toevoeging aan een op grond van [artikel 1b UR AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0006736&artikel=1b) aanvaarde reserve (bijvoorbeeld indexatie van het stamvermogen, reservering voor een nieuw bedrijfspand of een toevoeging aan de continuïteitsreserve).
+
+- e) Rekening mag worden gehouden met steunuitgaven aan andere ANBI’s, mits deze uitgaven passen binnen de algemeen nuttige doelstelling van de instelling en daarmee kunnen worden aangemerkt als algemeen nuttige activiteit van de instelling zelf. Ook kan rekening worden gehouden met algemeen nuttige uitgaven (projectmatig) aan niet-ANBI’s.
+
 ### 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
@@ -220,5 +285,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ### 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit ANBI.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2025, nr. 2025-0000025341, houdende de inrichting van het programma-directoraat-generaal Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden aan onder de programma-directeur-generaal Werk aan Uitvoering ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023"
 identifier: "BWBR0050859"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-21"
-last_updated: "2025-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050859"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "17385693"
-version_id: "30649882"
-internal_id: "C43940871"
-label_id: "17288904"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050859/2025-03-21/0"
-intitule_bron: "Stcrt.2025-9769"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-12"
-intitule_published: "2025-03-20"
-intitule_in_force: "2025-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-9769"
-original_signed_date: "2025-03-12"
-original_published_date: "2025-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-9769"
-entry_into_force_date: "2025-03-21"
-jci_1_3: "jci1.3:c:BWBR0050859&z=2025-03-21&g=2025-03-21"
-jci_1_0: "1.0:c:BWBR0050859&g=2025-03-21"
-citeertitel_status: "officieel"
-short_title: "Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023"
-signed_date: "2025-03-12"
-entry_into_force: "2025-03-21"
+publicatiedatum: 2025-03-21
+laatste_update: 2025-03-21
+status: geldig
+toestand: 2025-03-21
+bron: "https://wetten.overheid.nl/BWBR0050859"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2025, nr. 2025-0000025341, houdende de inrichting van het programma-directoraat-generaal Werk aan Uitvoering en doorverlening van vertegenwoordigingsbevoegdheden aan onder de programma-directeur-generaal Werk aan Uitvoering ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023)
-
-Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=8), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0024956&artikel=23);
-
-Besluit:
 
 #### § 1. Begripsbepaling
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **programma-directeur-generaal:** de programma-directeur-generaal Werk aan Uitvoering (WaU);
+- a. *programma-directeur-generaal:* de programma-directeur-generaal Werk aan Uitvoering (WaU);
 
-- b. **programmadirectie:** een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=2&artikel=2&z=2025-03-21&g=2025-03-21);
+- b. *programmadirectie:* een van de organisatieonderdelen, genoemd in [artikel 2, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0050859&paragraaf=2&artikel=2&z=2025-03-21&g=2025-03-21);
 
-- c. **programmadirecteur:** een functionaris die leidinggeeft aan een programmadirectie.
+- c. *programmadirecteur:* een functionaris die leidinggeeft aan een programmadirectie.
 
 #### § 2. Organisatie
 
@@ -170,8 +144,6 @@ De programmadirectie Vereenvoudiging Inkomensondersteuning voor Mensen is verant
 
 ##### Artikel 8
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 april 2023.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 17 april 2023.
 
 2. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit programma-directeur-generaal Werk aan Uitvoering 2023.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

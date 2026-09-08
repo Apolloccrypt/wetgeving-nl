@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid d.d. 27 februari 2025, kenmerk 5432112, houdende beperking van de openbaarheid van het archief Adoptie Buitenlandse kinderen: Directie Justitieel Jeugdbeleid en taakvoorgangers van het Ministerie van Justitie 1971–2005 (2015)"
+citeertitel: "Besluit beperking openbaarheid archief Adoptie Buitenlandse kinderen: Directie Justitieel Jeugdbeleid en taakvoorgangers Ministerie van Justitie 1971–2005 (2015)"
 identifier: "BWBR0050869"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-21"
-last_updated: "2025-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050869"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17387093"
-version_id: "30652102"
-internal_id: "C43944901"
-label_id: "17290234"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050869/2025-03-21/0"
-intitule_bron: "Stcrt.2025-9729"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-02-27"
-intitule_published: "2025-03-20"
-intitule_in_force: "2025-03-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-9729"
-original_signed_date: "2025-02-27"
-original_published_date: "2025-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-9729"
-entry_into_force_date: "2025-03-21"
-jci_1_3: "jci1.3:c:BWBR0050869&z=2025-03-21&g=2025-03-21"
-jci_1_0: "1.0:c:BWBR0050869&g=2025-03-21"
-citeertitel_status: "redactioneel"
-short_title: "Besluit beperking openbaarheid archief Adoptie Buitenlandse kinderen: Directie Justitieel Jeugdbeleid en taakvoorgangers Ministerie van Justitie 1971–2005 (2015)"
-signed_date: "2025-02-27"
-entry_into_force: "2025-03-21"
+publicatiedatum: 2025-03-21
+laatste_update: 2025-03-21
+status: geldig
+toestand: 2025-03-21
+bron: "https://wetten.overheid.nl/BWBR0050869"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid d.d. 27 februari 2025, kenmerk 5432112, houdende beperking van de openbaarheid van het archief Adoptie Buitenlandse kinderen: Directie Justitieel Jeugdbeleid en taakvoorgangers van het Ministerie van Justitie 1971–2005 (2015)
-
-Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 13 februari 2025, met zaaknummer 100642.
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van het archief Adoptie Buitenlandse kinderen periode 1971–2005 (2015).
 
 ##### Artikel 1
 
@@ -49,7 +21,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 2111 | 46 | 2100 | 91 | 2102 |
-| 1A | 2113 |   |   |   |   |
+| 1A | 2113 |  |  |  |  |
 | 2 | 2101 | 47 | 2101 | 92 | 2101 |
 | 3 | 2102 | 48 | 2105 | 93 | 2101 |
 | 4 | 2102 | 49 | 2104 | 94 | 2101 |
@@ -162,7 +134,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 198 | 2102 | 263 | 2108 | 328 | 2104 |
 | 199 | 2102 | 264 | 2108 | 329 | 2107 |
 | 200 | 2104 | 265 | 2106 | 330 | 2108 |
-|   |   |   |   | 331 | 2108 |
+|  |  |  |  | 331 | 2108 |
 
 | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari |
 | --- | --- | --- | --- | --- | --- |
@@ -9144,7 +9116,7 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari | Inventaris nummer | openbaar op 1 januari |
 | --- | --- | --- | --- | --- | --- |
-|   |   | 26143 | 2111 | 26208 | 2109 |
+|  |  | 26143 | 2111 | 26208 | 2109 |
 | 26078 | 2108 | 26144 | 2112 | 26209 | 2106 |
 | 26079 | 2106 | 26145 | 2106 | 26210 | 2111 |
 | 26080 | 2107 | 26146 | 2105 | 26211 | 2107 |
@@ -9277,15 +9249,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 26335 | 2110 | 26400 | 2107 | 26465 | 2109 |
 | 26336 | 2107 | 26401 | 2111 | 26462 | open |
 | 26337 | 2110 | 26402 | 2107 | 26554 | 2109 |
-|   |   |   |   | 26555 | 2108 |
-|   |   |   |   | 26556 | 2108 |
-|   |   |   |   | 26557 | 2108 |
-|   |   |   |   | 26558 | 2108 |
-|   |   |   |   | 26559 | 2108 |
-|   |   |   |   | 26560 | Niet in inv |
-|   |   |   |   | 26561 | Niet in inv |
-|   |   |   |   | 26562 | Niet in inv |
-|   |   |   |   | 26564 | 2109 |
+|  |  |  |  | 26555 | 2108 |
+|  |  |  |  | 26556 | 2108 |
+|  |  |  |  | 26557 | 2108 |
+|  |  |  |  | 26558 | 2108 |
+|  |  |  |  | 26559 | 2108 |
+|  |  |  |  | 26560 | Niet in inv |
+|  |  |  |  | 26561 | Niet in inv |
+|  |  |  |  | 26562 | Niet in inv |
+|  |  |  |  | 26564 | 2109 |
 
 ##### Artikel 2
 

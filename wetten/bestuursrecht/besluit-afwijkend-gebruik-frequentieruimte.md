@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 22 april 2025, houdende vaststelling van regels over afwijkend gebruik van frequentieruimte (Besluit afwijkend gebruik frequentieruimte)"
+citeertitel: "Besluit afwijkend gebruik frequentieruimte"
 identifier: "BWBR0050986"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-04-29"
-last_updated: "2025-04-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050986"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17416053"
-version_id: "30706892"
-internal_id: "C44014521"
-label_id: "17319224"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050986/2025-04-29/0"
-intitule_bron: "Stb.2025-106"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-22"
-intitule_published: "2025-04-28"
-intitule_in_force: "2025-04-28"
-intitule_status: "goed"
-original_publication: "Stb.2025-106"
-original_signed_date: "2025-04-22"
-original_published_date: "2025-04-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-106"
-entry_into_force_date: "2025-04-29"
-jci_1_3: "jci1.3:c:BWBR0050986&z=2025-04-29&g=2025-04-29"
-jci_1_0: "1.0:c:BWBR0050986&g=2025-04-29"
-citeertitel_status: "officieel"
-short_title: "Besluit afwijkend gebruik frequentieruimte"
-signed_date: "2025-04-22"
-entry_into_force: "2025-04-29"
+publicatiedatum: 2025-04-29
+laatste_update: 2025-04-29
+status: geldig
+toestand: 2025-04-29
+bron: "https://wetten.overheid.nl/BWBR0050986"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van 22 april 2025, houdende vaststelling van regels over afwijkend gebruik van frequentieruimte (Besluit afwijkend gebruik frequentieruimte)
-
-Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 30 november 2022, nr. WJZ / 22518489;
-
-Gelet op [artikel 3.22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22), en [18.12, eerste lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.12);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 25 januari 2023, nr. W18.22.00184/IV);
-
-Gezien het nader rapport van Onze Minister van Economische Zaken van 17 april 2025, nr. WJZ / 98210353;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,23 +20,24 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **afwijkend gebruik van frequentieruimte:** met apparatuur, die voldoet aan [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&hoofdstuk=1&artikel=1.3&z=2025-04-29&g=2025-04-29) van dit besluit, inbreuk maken op normaal gebruik van de frequentieruimte, waaronder het onderzoeken, aftasten ten einde informatie te vergaren, en tijdelijk verstoren van frequenties, alsmede het toegang verwerven tot frequenties en het tijdelijk onmogelijk maken van communicatie via frequenties;
+- *afwijkend gebruik van frequentieruimte:* met apparatuur, die voldoet aan [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&hoofdstuk=1&artikel=1.3&z=2025-04-29&g=2025-04-29) van dit besluit, inbreuk maken op normaal gebruik van de frequentieruimte, waaronder het onderzoeken, aftasten ten einde informatie te vergaren, en tijdelijk verstoren van frequenties, alsmede het toegang verwerven tot frequenties en het tijdelijk onmogelijk maken van communicatie via frequenties;
 
-- **frequentieband:** frequentieruimte binnen de in het frequentieplan, bedoeld in [artikel 3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1), aangegeven internationale bandgrenzen;
+- *frequentieband:* frequentieruimte binnen de in het frequentieplan, bedoeld in [artikel 3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.1), aangegeven internationale bandgrenzen;
 
-- **onbemand mobiel object:** een zich autonoom of op afstand bestuurd, zich verplaatsend object waaronder drones, robots, voertuigen en vaartuigen;
+- *onbemand mobiel object:* een zich autonoom of op afstand bestuurd, zich verplaatsend object waaronder drones, robots, voertuigen en vaartuigen;
 
-- **Onze Minister:** Onze Minister van Economische Zaken;
+- *Onze Minister:* Onze Minister van Economische Zaken;
 
-- **verantwoordelijke:**
+- *verantwoordelijke:*
 
-- –. Bij de politie: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), als het afwijkend gebruik wordt toegepast door ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak
+   - – Bij de politie: de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27), als het afwijkend gebruik wordt toegepast door ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak
 
-- –. bij het Ministerie van Defensie: de Minister van Defensie, of
+   - – bij het Ministerie van Defensie: de Minister van Defensie, of
 
-- –. bij het ministerie van Justitie en Veiligheid: de Minister van Justitie en Veiligheid.
+   - – bij het ministerie van Justitie en Veiligheid: de Minister van Justitie en Veiligheid.
 
-- **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+- *wet:*
+ [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
 ##### Artikel 1.2. Reikwijdte
 
@@ -135,5 +104,3 @@ Dit besluit wordt aangehaald als: Besluit afwijkend gebruik frequentieruimte.
 ##### Artikel 3.2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

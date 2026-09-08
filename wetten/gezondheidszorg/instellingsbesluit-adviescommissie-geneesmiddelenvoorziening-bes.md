@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 augustus 2025, kenmerk 4170354-1085601-ZJCN, houdende instelling van de adviescommissie geneesmiddelenvoorziening BES (Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES)"
+citeertitel: "Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES"
 identifier: "BWBR0051389"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2025-08-19"
-last_updated: "2025-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051389"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling-BES"
-stam_id: "17504143"
-version_id: "30881342"
-internal_id: "C44248631"
-label_id: "17406384"
-dtd_version: "2.0"
-original_entry_into_force: "2025-08-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051389/2025-08-19/0"
-intitule_bron: "Stcrt.2025-28064"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-04"
-intitule_published: "2025-08-18"
-intitule_in_force: "2025-08-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-28064"
-original_signed_date: "2025-08-04"
-original_published_date: "2025-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-28064"
-entry_into_force_date: "2025-08-19"
-jci_1_3: "jci1.3:c:BWBR0051389&z=2025-08-19&g=2025-08-19"
-jci_1_0: "1.0:c:BWBR0051389&g=2025-08-19"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES"
-signed_date: "2025-08-04"
-entry_into_force: "2025-08-19"
+publicatiedatum: 2025-08-19
+laatste_update: 2025-08-19
+status: geldig
+toestand: 2025-08-19
+bron: "https://wetten.overheid.nl/BWBR0051389"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 augustus 2025, kenmerk 4170354-1085601-ZJCN, houdende instelling van de adviescommissie geneesmiddelenvoorziening BES (Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES)
-
-Gelet op [artikel 26a van de Wet op de geneesmiddelenvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028486&artikel=26a) en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051389&artikel=2&z=2025-08-19&g=2025-08-19);
+- b. *commissie:* de adviescommissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051389&artikel=2&z=2025-08-19&g=2025-08-19);
 
-- c. **ministerie:** Ministerie van Volksgezondheid, Welzijn en Sport.
+- c. *ministerie:* Ministerie van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2. Instelling en taak
 
@@ -135,5 +109,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie geneesmiddelenvoorziening BES.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

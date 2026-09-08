@@ -1,133 +1,19 @@
 ---
 title: "Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds"
 identifier: "BWBV0002513"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-05-05"
-last_updated: "2022-05-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002513"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002917593"
-version_id: "10002919232"
-internal_id: "C10009708561"
-label_id: "10002905174"
-dtd_version: "2.0"
-original_entry_into_force: "2020-06-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002513/2022-05-05/0"
-intitule_bron: "Trb.2007-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-03-30"
-intitule_published: "2007-08-24"
-intitule_in_force: "2020-08-14"
-intitule_status: "goed"
-original_publication: "Trb.2007-156"
-original_signed_date: "2008-03-30"
-original_published_date: "2007-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-156"
-entry_into_force_date: "2020-06-29"
-jci_1_3: "jci1.3:c:BWBV0002513&z=2022-05-05&g=2022-05-05"
-jci_1_0: "1.0:c:BWBV0002513&g=2022-05-05"
-citeertitel_status: "redactioneel"
-signed_date: "2008-03-30"
-entry_into_force: "2020-06-29"
+publicatiedatum: 2020-06-29
+laatste_update: 2026-08-02
+status: geldig
+toestand: 2026-08-02
+bron: "https://wetten.overheid.nl/BWBV0002513"
+opgehaald: 2026-09-08
 ---
+
 # Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds
 
-De Verenigde Staten van Amerika (hierna de „Verenigde Staten”),
-
-enerzijds; en
-
-de Republiek Oostenrijk,
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Republiek Cyprus,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Republiek Estland,
-
-de Republiek Finland,
-
-de Franse Republiek,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-de Republiek Hongarije,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Slowaakse Republiek,
-
-de Republiek Slovenië,
-
-het Koninkrijk Spanje,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-zijnde Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en lidstaten van de Europese Unie (hierna „de lidstaten”),
-
-en de Europese Gemeenschap,
-
-anderzijds;
-
-Wensende een internationaal luchtvaartstelsel te bevorderen dat gegrondvest is op mededinging tussen luchtvaartmaatschappijen met een minimum aan overheidsbemoeienis en -regulering;
-
-Wensende de uitbreiding van de mogelijkheden voor het internationaal luchtvervoer te bevorderen, met name door ontwikkeling van luchtvervoersnetten, om aan de behoeften van reizigers en vervoerders aan geschikte luchtvervoersdiensten te voldoen;
-
-Wensende het de luchtvaartmaatschappijen mogelijk te maken om reizigers en vervoerders concurrerende prijzen en diensten aan te bieden op open markten;
-
-Wensende alle sectoren van de luchtvervoersindustrie, met inbegrip van het personeel van de luchtvaartmaatschappijen, het voordeel te geven van een geliberaliseerde overeenkomst;
-
-Wensende de hoogste mate van veiligheid en beveiliging in het internationaal luchtvervoer te verzekeren, en hun ernstige bezorgdheid herbevestigend over tegen de veiligheid van vliegtuigen gerichte daden of bedreigingen die de veiligheid van personen of eigendommen in gevaar brengen, de exploitatie van luchtvervoer nadelig beïnvloeden, en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen;
-
-Nota nemende van het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), voor ondertekening opengesteld te Chicago op 7 december 1944;
-
-Erkennende dat overheidssubsidies de mededinging tussen luchtvaartmaatschappijen nadelig kunnen beïnvloeden en de fundamentele doelstellingen van deze Overeenkomst in gevaar kunnen brengen;
-
-Het belang bevestigende van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid;
-
-Nota nemende van het belang van bescherming van de consument, met inbegrip van de bescherming die wordt verleend door het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gesloten te Montreal op 28 mei 1999;
-
-Voornemens zijnde voort te bouwen op het kader van bestaande overeenkomsten met als doel de toegang tot markten te openen en de voordelen voor consumenten, luchtvaartmaatschappijen, werknemers en gemeenschappen aan beide zijden van de Atlantische Oceaan zo groot mogelijk te maken;
-
-Het belang erkennende van een betere toegang van hun luchtvaartmaatschappijen tot de mondiale kapitaalmarkten teneinde het concurrentievermogen te versterken en de verwezenlijking van de doelstellingen van deze Overeenkomst te bevorderen;
-
-Voornemens zijnde een wereldwijd precedent te scheppen ter bevordering van de voordelen van liberalisering in deze cruciale economische sector;
-
-Zijn als volgt overeengekomen:
-
-Voorlopige toepassing voorheen door Trb. 2007/156 gesteld op 30 april 2008.
-
-Voorlopige toepassing voorheen door Trb. 2007/156 gesteld op 30 april 2008.
+*De Verenigde Staten van Amerika (hierna de „Verenigde Staten”), enerzijds; en de Republiek Oostenrijk, het Koninkrijk België, de Republiek Bulgarije, de Republiek Cyprus, de Tsjechische Republiek, het Koninkrijk Denemarken, de Republiek Estland, de Republiek Finland, de Franse Republiek, de Bondsrepubliek Duitsland, de Helleense Republiek, de Republiek Hongarije, Ierland, de Italiaanse Republiek, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Polen, de Portugese Republiek, Roemenië, de Slowaakse Republiek, de Republiek Slovenië, het Koninkrijk Spanje, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, zijnde Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en lidstaten van de Europese Unie (hierna „de lidstaten”), en de Europese Gemeenschap, anderzijds; Wensende een internationaal luchtvaartstelsel te bevorderen dat gegrondvest is op mededinging tussen luchtvaartmaatschappijen met een minimum aan overheidsbemoeienis en -regulering; Wensende de uitbreiding van de mogelijkheden voor het internationaal luchtvervoer te bevorderen, met name door ontwikkeling van luchtvervoersnetten, om aan de behoeften van reizigers en vervoerders aan geschikte luchtvervoersdiensten te voldoen; Wensende het de luchtvaartmaatschappijen mogelijk te maken om reizigers en vervoerders concurrerende prijzen en diensten aan te bieden op open markten; Wensende alle sectoren van de luchtvervoersindustrie, met inbegrip van het personeel van de luchtvaartmaatschappijen, het voordeel te geven van een geliberaliseerde overeenkomst; Wensende de hoogste mate van veiligheid en beveiliging in het internationaal luchtvervoer te verzekeren, en hun ernstige bezorgdheid herbevestigend over tegen de veiligheid van vliegtuigen gerichte daden of bedreigingen die de veiligheid van personen of eigendommen in gevaar brengen, de exploitatie van luchtvervoer nadelig beïnvloeden, en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen; Nota nemende van het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944; Erkennende dat overheidssubsidies de mededinging tussen luchtvaartmaatschappijen nadelig kunnen beïnvloeden en de fundamentele doelstellingen van deze Overeenkomst in gevaar kunnen brengen; Het belang bevestigende van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid; Nota nemende van het belang van bescherming van de consument, met inbegrip van de bescherming die wordt verleend door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, gesloten te Montreal op 28 mei 1999; Voornemens zijnde voort te bouwen op het kader van bestaande overeenkomsten met als doel de toegang tot markten te openen en de voordelen voor consumenten, luchtvaartmaatschappijen, werknemers en gemeenschappen aan beide zijden van de Atlantische Oceaan zo groot mogelijk te maken; Het belang erkennende van een betere toegang van hun luchtvaartmaatschappijen tot de mondiale kapitaalmarkten teneinde het concurrentievermogen te versterken en de verwezenlijking van de doelstellingen van deze Overeenkomst te bevorderen; Voornemens zijnde een wereldwijd precedent te scheppen ter bevordering van de voordelen van liberalisering in deze cruciale economische sector; Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -141,9 +27,9 @@ In deze Overeenkomst wordt, tenzij anders vermeld, verstaan onder:
 
 - 3. „Verdrag”, het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
 
-- a. iedere wijziging die krachtens artikel 94, sub a), van het Verdrag in werking is getreden en die door de Verenigde Staten en de lidstaat of lidstaten geratificeerd is, voor zover zij terzake doet, en
+   - a. iedere wijziging die krachtens artikel 94, sub a), van het Verdrag in werking is getreden en die door de Verenigde Staten en de lidstaat of lidstaten geratificeerd is, voor zover zij terzake doet, en
 
-- b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens artikel 90 van het Verdrag, voor zover deze bijlage of wijziging op een gegeven tijdstip voor de Verenigde Staten en voor de lidstaat of lidstaten van kracht is, en voor zover zij terzake doet;
+   - b. iedere bijlage of iedere wijziging daarvan die is goedgekeurd krachtens artikel 90 van het Verdrag, voor zover deze bijlage of wijziging op een gegeven tijdstip voor de Verenigde Staten en voor de lidstaat of lidstaten van kracht is, en voor zover zij terzake doet;
 
 - 3 bis. „Vaststelling van deugdelijkheid”, de vaststelling dat een luchtvaartmaatschappij die voorstelt diensten te exploiteren in het kader van deze Overeenkomst over voldoende financiële middelen en passende managementdeskundigheid beschikt om dergelijke diensten te exploiteren en bereid is de wetten, regels en eisen betreffende de exploitatie van dergelijke diensten na te leven;
 
@@ -157,7 +43,7 @@ In deze Overeenkomst wordt, tenzij anders vermeld, verstaan onder:
 
 - 8. „Landing voor andere dan verkeersdoeleinden”, een om een andere reden dan voor het opnemen of afzetten van passagiers, bagage, lading en of post in het luchtvervoer gemaakte landing;
 
-- 9. „Grondgebied”, voor de Verenigde Staten de landgebieden (vasteland en eilanden), binnenwateren en binnenzeeën onder haar soevereiniteit of rechtsbevoegdheid, en voor de Europese Gemeenschap en haar lidstaten de landgebieden (vasteland en eilanden), binnenwateren en territoriale wateren waar het Verdrag tot oprichting van de Europese Gemeenschap wordt toegepast onder de voorwaarden die in dat Verdrag en ieder later instrument zijn neergelegd; de toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Gemeenschap inzake de luchtvaart, die met ingang van 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Córdoba is aangenomen; en
+- 9. „Grondgebied”, voor de Verenigde Staten de landgebieden (vasteland en eilanden), binnenwateren en territoriale wateren onder VS-soevereiniteit of -rechtsbevoegdheid, en voor de Europese Unie en haar lidstaten de landgebieden (vasteland en eilanden), binnenwateren en territoriale wateren waar de Overeenkomst betreffende de Europese Economische Ruimte wordt toegepast onder de voorwaarden die in dat verdrag en ieder later instrument zijn neergelegd, met uitzondering van de landgebieden en binnenwateren onder soevereiniteit of jurisdictie van het Vorstendom Liechtenstein; de toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Unie inzake de luchtvaart, die met ingang van 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Córdoba is aangenomen; en
 
 - 10. „Gebruikersheffing”, een aan luchtvaartmaatschappijen opgelegde heffing voor de levering van luchthaven-, luchthavenomgevings-, luchtnavigatie- of luchtvaartbeveiligingsfaciliteiten of -diensten, aanverwante diensten en faciliteiten inbegrepen.
 
@@ -175,9 +61,9 @@ Elke Partij geeft de luchtvaartmaatschappijen van de andere Partij eerlijke en g
 
 - c. het recht om internationaal luchtvervoer te verrichten tussen punten op de volgende routes:
 
-- i. voor luchtvaartmaatschappijen van de Verenigde Staten (hierna „Amerikaanse luchtvaartmaatschappijen’’ genoemd), vanaf punten achter de Verenigde Staten via de Verenigde Staten en tussenliggende punten naar een punt of punten in een lidstaat of lidstaten en daarbuiten; en voor vrachtdienst tussen een lidstaat en een punt of punten (inclusief in andere lidstaten);
+   - i. voor luchtvaartmaatschappijen van de Verenigde Staten (hierna „Amerikaanse luchtvaartmaatschappijen’’ genoemd), vanaf punten achter de Verenigde Staten via de Verenigde Staten en tussenliggende punten naar een punt of punten in een lidstaat of lidstaten en daarbuiten; en voor vrachtdienst tussen een lidstaat en een punt of punten (inclusief in andere lidstaten);
 
-- ii. voor luchtvaartmaatschappijen van de Europese Gemeenschap en haar lidstaten (hierna „communautaire luchtvaartmaatschappijen’’ genoemd) vanaf punten achter de lidstaten via de lidstaten en tussenliggende punten naar een punt of punten in de Verenigde Staten en daarbuiten; en voor vrachtdienst tussen de Verenigde Staten en een punt of punten; en voor gecombineerde diensten, tussen een punt of punten in de Verenigde Staten en een punt of punten in een staat die lid is van de Europese gemeenschappelijke luchtvaartruimte (hierna „ECAA’’ genoemd), vanaf de datum van ondertekening van deze Overeenkomst; en
+   - ii. voor luchtvaartmaatschappijen van de Europese Gemeenschap en haar lidstaten (hierna „communautaire luchtvaartmaatschappijen’’ genoemd) vanaf punten achter de lidstaten via de lidstaten en tussenliggende punten naar een punt of punten in de Verenigde Staten en daarbuiten; en voor vrachtdienst tussen de Verenigde Staten en een punt of punten; en voor gecombineerde diensten, tussen een punt of punten in de Verenigde Staten en een punt of punten in een staat die lid is van de Europese gemeenschappelijke luchtvaartruimte (hierna „ECAA’’ genoemd), vanaf de datum van ondertekening van deze Overeenkomst; en
 
 - d. de overige in deze overeenkomst gespecificeerde rechten.
 
@@ -207,7 +93,7 @@ Elke Partij geeft de luchtvaartmaatschappijen van de andere Partij eerlijke en g
 
 - b. voor communautaire luchtvaartmaatschappijen indien het vervoer, met uitzondering van i vrachtdiensten en ii gecombineerde diensten tussen de Verenigde Staten en een staat die lid is van de ECAA, vanaf de datum van ondertekening van deze Overeenkomst deel uitmaakt van een dienst die een lidstaat bedient.
 
-4. Elke Partij laat iedere luchtvaartmaatschappij vrij in de bepaling van frequentie en capaciteit van het internationaal luchtvervoer dat zij op basis van commerciële overwegingen op de markt aanbiedt. Overeenkomstig dit recht legt geen van beide Partijen eenzijdig beperkingen op met betrekking tot verkeersvolume, frequentie of regelmaat van de diensten dan wel ten aanzien van het vliegtuigtype of de vliegtuigtypes die door de luchtvaartmaatschappijen van de andere Partij wordt, c.q. worden gebruikt, noch eist zij indiening van dienstregelingen, programma’s voor chartervluchten of operationele plannen door luchtvaartmaatschappijen van de andere Partij, tenzij dit mag worden geëist in verband met de douane of om technische, bedrijfs- of milieu- (overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=15&z=2022-05-05&g=2022-05-05)) redenen onder gelijke voorwaarden overeenkomstig [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=15).
+4. Elke Partij laat iedere luchtvaartmaatschappij vrij in de bepaling van frequentie en capaciteit van het internationaal luchtvervoer dat zij op basis van commerciële overwegingen op de markt aanbiedt. Overeenkomstig dit recht legt geen van beide Partijen eenzijdig beperkingen op met betrekking tot verkeersvolume, frequentie of regelmaat van de diensten dan wel ten aanzien van het vliegtuigtype of de vliegtuigtypes die door de luchtvaartmaatschappijen van de andere Partij wordt, c.q. worden gebruikt, noch eist zij indiening van dienstregelingen, programma’s voor chartervluchten of operationele plannen door luchtvaartmaatschappijen van de andere Partij, tenzij dit mag worden geëist in verband met de douane of om technische, bedrijfs- of milieu- (overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=15&z=2026-08-02&g=2026-08-02)) redenen onder gelijke voorwaarden overeenkomstig [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=15).
 
 5. Een luchtvaartmaatschappij mag internationaal luchtvervoer verrichten zonder enige beperking met betrekking tot het op enig punt veranderen van type of aantal gebruikte luchtvaartuigen; op voorwaarde dat, a) voor Amerikaanse luchtvaartmaatschappijen, het vervoer, vrachtdiensten uitgezonderd, deel uitmaakt van een dienst die de Verenigde Staten bedient; en b) voor communautaire luchtvaartmaatschappijen indien het vervoer, met uitzondering van i) vrachtdiensten en ii) gecombineerde diensten tussen de Verenigde Staten en een staat die lid is van de ECAA, vanaf de datum van ondertekening van deze Overeenkomst deel uitmaakt van een dienst die een lidstaat bedient.
 
@@ -217,7 +103,7 @@ Elke Partij geeft de luchtvaartmaatschappijen van de andere Partij eerlijke en g
 
 - b. communautaire luchtvaartmaatschappijen het recht te geven op het grondgebied van de Verenigde Staten tegen vergoeding passagiers, bagage, vracht of post op te nemen die bestemd zijn voor een ander punt op het grondgebied van de Verenigde Staten.
 
-7. De toegang van de communautaire luchtvaartmaatschappijen tot door de regering van de Verenigde Staten verworven vervoer wordt geregeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=3&z=2022-05-05&g=2022-05-05).
+7. De toegang van de communautaire luchtvaartmaatschappijen tot door de regering van de Verenigde Staten verworven vervoer wordt geregeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=3&z=2026-08-02&g=2026-08-02).
 
 ##### Artikel 4. Verlening van vergunningen
 
@@ -229,7 +115,7 @@ Na ontvangst van de aanvragen die door een luchtvaartmaatschappij van een Partij
 
 - c. de luchtvaartmaatschappij in staat is te voldoen aan de in wet- en regelgeving voorgeschreven voorwaarden die gewoonlijk worden toegepast op de exploitatie van internationaal luchtvervoer door de Partij die de aanvraag of aanvragen behandelt; en
 
-- d. de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2022-05-05&g=2022-05-05) (veiligheid) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2022-05-05&g=2022-05-05) (beveiliging) worden gehandhaafd en toegepast.
+- d. de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2026-08-02&g=2026-08-02) (veiligheid) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2026-08-02&g=2026-08-02) (beveiliging) worden gehandhaafd en toegepast.
 
 ##### Artikel 5. Intrekking van vergunningen
 
@@ -239,15 +125,25 @@ Na ontvangst van de aanvragen die door een luchtvaartmaatschappij van een Partij
 
 - b. waar het een communautaire luchtvaartmaatschappij betreft, een aanmerkelijk deel van de eigendom van en de feitelijke zeggenschap over die luchtvaartmaatschappij niet bij een lidstaat of lidstaten, niet bij onderdanen van die staat of staten dan wel bij geen van beide berusten, de luchtvaartmaatschappij geen vergunning als communautaire luchtvaartmaatschappij heeft gekregen en haar hoofdkantoor niet op het grondgebied van de Europese Gemeenschap gevestigd is; of
 
-- c. die luchtvaartmaatschappij zich niet heeft gehouden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=7&z=2022-05-05&g=2022-05-05) (toepassing van wetgeving) van deze Overeenkomst bedoelde wetgeving.
+- c. die luchtvaartmaatschappij zich niet heeft gehouden aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=7&z=2026-08-02&g=2026-08-02) (toepassing van wetgeving) van deze Overeenkomst bedoelde wetgeving.
 
 2. Tenzij onmiddellijk optreden van essentieel belang is om verdere inbreuken op lid 1, sub c), van dit artikel te voorkomen, worden de in dit artikel ingestelde rechten pas uitgeoefend na overleg met de andere Partij.
 
-3. Dit artikel houdt geen beperking in van de rechten van Partijen om de exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen te weigeren, in te trekken, te beperken of daaraan voorwaarden te verbinden overeenkomstig de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2022-05-05&g=2022-05-05) (veiligheid) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2022-05-05&g=2022-05-05) (beveiliging).
+3. Dit artikel houdt geen beperking in van de rechten van Partijen om de exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of luchtvaartmaatschappijen te weigeren, in te trekken, te beperken of daaraan voorwaarden te verbinden overeenkomstig de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=8&z=2026-08-02&g=2026-08-02) (veiligheid) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=9&z=2026-08-02&g=2026-08-02) (beveiliging).
 
 ##### Artikel 6. Andere kwesties in verband met eigendom, investering en zeggenschap
 
-Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoering aan de bepalingen van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&z=2022-05-05&g=2022-05-05) in hun krachtens hun respectieve wetten en voorschriften betreffende eigendom, investering en zeggenschap genomen besluiten.
+Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoering aan de bepalingen van [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=4&z=2026-08-02&g=2026-08-02) in hun krachtens hun respectieve wetten en voorschriften betreffende eigendom, investering en zeggenschap genomen besluiten.
+
+##### Artikel 6 bis. Wederzijdse erkenning van regelgevende vaststellingen inzake de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen
+
+1. Na ontvangst van een aanvraag van een exploitatievergunning, overeenkomstig artikel 4, van een luchtvaartmaatschappij van de ene partij, erkennen de luchtvaartautoriteiten van de andere partij alle vaststellingen inzake deugdelijkheid en/of nationaliteit die door de luchtvaartautoriteiten van de eerste partij met betrekking tot die luchtvaartmaatschappij zijn gedaan alsof deze vaststellingen door hun eigen luchtvaartautoriteiten waren gedaan, en voeren zij verder geen onderzoek naar deze kwesties, behalve zoals bepaald onder a) hieronder:
+
+- a. indien, na ontvangst van een aanvraag van een exploitatievergunning door een luchtvaartmaatschappij, of na de afgifte van een dergelijke vergunning, de luchtvaartautoriteiten van de ontvangende partij specifieke vermoedens hebben dat, ondanks de vaststellingen van de luchtvaartautoriteiten van de andere partij, de in artikel 4 van deze Overeenkomst voorgeschreven voorwaarden voor de afgifte van passende vergunningen of toelatingen niet zijn nageleefd, stellen zij die autoriteiten daar onmiddellijk van in kennis, met opgave van de redenen voor hun bezorgdheid. In dat geval mag elke partij verzoeken om overleg, waarbij ook vertegenwoordigers van de desbetreffende luchtvaartautoriteiten moeten worden betrokken en/of om aanvullende informatie over deze bezorgdheid; op dergelijke verzoeken moet zo snel mogelijk worden ingegaan. Als geen oplossing wordt gevonden, mag elke partij de kwestie voorleggen aan het Gemengd Comité;
+
+- b. dit artikel is niet van toepassing op vaststellingen met betrekking tot veiligheidscertificaten of -licenties, beveiligingsregelingen of verzekeringsdekking.
+
+2. Elke partij stelt de andere, voor zover mogelijk van tevoren en anders zo snel mogelijk achteraf, via het Gemengd Comité in kennis van wezenlijke wijzigingen in de criteria die zij toepast bij het doen van de in lid 1 vermelde vaststellingen. Als de ontvangende partij overleg vraagt over een dergelijke wijziging, vindt dit overleg binnen 30 dagen na het verzoek plaats in het Gemengd Comité, tenzij de partijen anders overeenkomen. Als de ontvangende partij na dergelijk overleg van oordeel is dat de gewijzigde criteria van de andere partij niet volstaan voor de wederzijdse erkenning van regelgevende vaststellingen, kan de ontvangende partij de andere partij meedelen dat lid 1 wordt opgeschort. Deze opschorting kan op elk ogenblik door de ontvangende partij worden opgeheven. Het Gemengd Comité wordt daarvan in kennis gesteld.
 
 ##### Artikel 7. Toepassing van wetgeving
 
@@ -295,11 +191,11 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 2. De luchtvaartmaatschappijen van iedere Partij zijn gerechtigd om overeenkomstig de wetten en voorschriften van de andere Partij met betrekking tot binnenkomst, verblijf en werkgelegenheid het leidinggevend, verkoops-, technisch, operationeel en ander gespecialiseerd personeel dat nodig is om het leveren van luchtvervoer te ondersteunen, op het grondgebied van de andere Partij te brengen en te houden.
 
-- a. Onverminderd onderstaande paragraaf b heeft iedere luchtvaartmaatschappij met betrekking tot de grondafhandeling op het grondgebied van de andere Partij:
+3. - a. Onverminderd onderstaande paragraaf b heeft iedere luchtvaartmaatschappij met betrekking tot de grondafhandeling op het grondgebied van de andere Partij:
 
-- i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling’’) of, indien zij dit verkiest,
+   - i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling’’) of, indien zij dit verkiest,
 
-- ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voorzover deze leveranciers krachtens de wetten en voorschriften van elke Partij toegang hebben tot de markt en dergelijke leveranciers aanwezig zijn op de markt.
+   - ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voorzover deze leveranciers krachtens de wetten en voorschriften van elke Partij toegang hebben tot de markt en dergelijke leveranciers aanwezig zijn op de markt.
 
 - b. Met betrekking tot de in bovenstaande paragraaf a, onder i en ii, bedoelde rechten gelden uitsluitend specifieke beperkingen inzake beschikbare ruimte of capaciteit die nodig zijn voor een veilige exploitatie van de luchthaven. Indien deze beperkingen zelfafhandeling verhinderen en er in feite geen concurrentie bestaat tussen de leveranciers van grondafhandelingsdiensten, dienen al deze diensten in gelijke en voldoende mate beschikbaar te zijn voor alle luchtvaartmaatschappijen; de prijzen van deze diensten mogen niet de volledige kosten daarvan, inclusief een redelijk rendement na afschrijving, te boven gaan.
 
@@ -347,7 +243,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 5. Niets in deze Overeenkomst belet een Partij om belastingen, heffingen, accijnzen, kosten of lasten in rekening te brengen bij de verkoop van artikelen anders dan voor verbruik aan boord gedurende een deel van een luchtdienst tussen twee zich op haar grondgebied bevindende punten waar in- of uitstappen is toegestaan.
 
-6. Wanneer twee of meer lidstaten voornemens zijn op de brandstof die aan luchtvaartuigen van Amerikaanse luchtvaartmaatschappijen op het grondgebied van deze lidstaten wordt geleverd voor vluchten tussen deze lidstaten, enige beperking van de vrijstelling die is bedoeld in artikel 14, onder b, van [Richtlijn 2003/96/EG](32003L0096) van de Raad van 27 oktober 2003 toe te passen, bestudeert het Gemengd Comité die kwestie overeenkomstig lid 4, sub e, van artikel 18 van deze Overeenkomst.
+6. Wanneer twee of meer lidstaten voornemens zijn op de brandstof die aan luchtvaartuigen van Amerikaanse luchtvaartmaatschappijen op het grondgebied van deze lidstaten wordt geleverd voor vluchten tussen deze lidstaten, enige beperking van de vrijstelling die is bedoeld in artikel 14, onder b, van Richtlijn 2003/96/EG van de Raad van 27 oktober 2003 toe te passen, bestudeert het Gemengd Comité die kwestie overeenkomstig lid 4, sub e, van artikel 18 van deze Overeenkomst.
 
 7. Een Partij kan namens haar luchtvaartmaatschappij of luchtvaartmaatschappijen de hulp van de andere Partij inroepen om een vrijstelling te verkrijgen van belastingen, rechten, lasten en kosten die door nationale en plaatselijke overheden of autoriteiten worden opgelegd met betrekking tot de in de leden 1 en 2 van dit artikel vermelde goederen, alsmede van omzetbelasting op brandstof in de in dit artikel beschreven omstandigheden, tenzij de omzetbelasting gebaseerd is op de kosten van de dienstverlening. In reactie op dit verzoek brengt de andere Partij de zienswijze van de verzoekende Partij onder de aandacht van de bevoegde overheidsdienst of- instantie en dringt zij er op aan dat die zienswijze passende aandacht krijgt.
 
@@ -359,7 +255,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 3. Iedere Partij moedigt de bevoegde belastingautoriteiten of -instanties op haar grondgebied en de luchtvaartmaatschappijen die de diensten en faciliteiten gebruiken, aan overleg te plegen, en moedigt de bevoegde belastingautoriteiten of -instanties en de luchtvaartmaatschappijen aan alle informatie uit te wisselen die nodig is om de redelijkheid van de lasten overeenkomstig de beginselen van de leden 1 en 2 van dit artikel nauwkeurig te kunnen beoordelen. Elke Partij moedigt de bevoegde belastingautoriteiten aan de gebruikers binnen een redelijke termijn in kennis te stellen van ieder voorstel tot wijziging van de gebruikerslasten, teneinde de gebruikers in staat te stellen hun mening kenbaar te maken voordat de wijzigingen worden aangebracht.
 
-4. Geen van beide Partijen wordt bij geschiloplossingsprocedures volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=19&z=2022-05-05&g=2022-05-05) geacht een bepaling van dit artikel te hebben overtreden tenzij a. zij verzuimt de last of de praktijk die het onderwerp is van een klacht door de andere Partij binnen een redelijke termijn opnieuw in ogenschouw te nemen; of b. na deze beschouwing nalaat alle in haar macht liggende stappen te ondernemen om een last of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
+4. Geen van beide Partijen wordt bij geschiloplossingsprocedures volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=19&z=2026-08-02&g=2026-08-02) geacht een bepaling van dit artikel te hebben overtreden tenzij a. zij verzuimt de last of de praktijk die het onderwerp is van een klacht door de andere Partij binnen een redelijke termijn opnieuw in ogenschouw te nemen; of b. na deze beschouwing nalaat alle in haar macht liggende stappen te ondernemen om een last of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
 
 ##### Artikel 13. Prijzen
 
@@ -367,7 +263,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 2. Niettegenstaande lid 1:
 
-- a. dient de invoering of handhaving van een prijs waarvan de aanrekening wordt voorgesteld of die wordt aangerekend door een Amerikaanse luchtvaartmaatschappij voor internationaal luchtvervoer tussen een punt in een lidstaat en een punt in een andere lidstaat in overeenstemming te zijn met artikel 1, lid 3, van [Verordening (EEG) nr. 2409/92](31992R2409) van de Raad van 23 juli 1992 of een niet beperkender latere verordening;
+- a. dient de invoering of handhaving van een prijs waarvan de aanrekening wordt voorgesteld of die wordt aangerekend door een Amerikaanse luchtvaartmaatschappij voor internationaal luchtvervoer tussen een punt in een lidstaat en een punt in een andere lidstaat in overeenstemming te zijn met artikel 1, lid 3, van Verordening (EEG) nr. 2409/92 van de Raad van 23 juli 1992 of een niet beperkender latere verordening;
 
 - b. dienen op grond van dit lid de luchtvaartmaatschappijen van de Partijen de bevoegde autoriteiten van de Partijen desgevraagd onmiddellijk toegang te verlenen tot informatie over vroegere, huidige en voorgestelde prijzen op een manier en in een vorm die voor die autoriteiten aanvaardbaar is.
 
@@ -375,7 +271,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 1. De Partijen erkennen dat overheidssubsidies en -steun een nadelige invloed kunnen hebben op de eerlijke en gelijke gelegenheid tot mededinging voor luchtvaartmaatschappijen bij het aanbieden van het onder deze Overeenkomst vallend internationaal luchtvervoer.
 
-2. Indien een Partij van mening is dat door de andere Partij overwogen of verleende overheidssubsidie of -steun aan de luchtvaartmaatschappijen van die andere Partij een nadelige invloed zal hebben of heeft op die eerlijke en gelijke gelegenheid tot mededinging voor de luchtvaartmaatschappijen van eerstgenoemde Partij, kan zij bij die Partij opmerkingen maken. Voorts kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2022-05-05&g=2022-05-05) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren op terecht bevonden bezwaren.
+2. Indien een Partij van mening is dat door de andere Partij overwogen of verleende overheidssubsidie of -steun aan de luchtvaartmaatschappijen van die andere Partij een nadelige invloed zal hebben of heeft op die eerlijke en gelijke gelegenheid tot mededinging voor de luchtvaartmaatschappijen van eerstgenoemde Partij, kan zij bij die Partij opmerkingen maken. Voorts kan zij overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=18&z=2026-08-02&g=2026-08-02) om een bijeenkomst van het Gemengd Comité verzoeken om de kwestie te bespreken en passende antwoorden te formuleren op terecht bevonden bezwaren.
 
 3. Iedere Partij kan de bevoegde overheidsinstanties op het grondgebied van de andere Partij, zijnde nationale, provinciale of plaatselijke instanties, aanspreken, indien zij van mening is dat de subsidie of steun die door deze instanties wordt overwogen of verleend de in lid 2 bedoelde nadelige invloed op de mededinging zal hebben. Indien een Partij besluit om rechtstreeks contact op te nemen, stelt zij de andere Partij daarvan onverwijld via diplomatieke kanalen in kennis. Zij kan ook om een bijeenkomst van het Gemengd Comité verzoeken.
 
@@ -391,7 +287,7 @@ Onverminderd andere bepalingen van deze Overeenkomst geven de Partijen uitvoerin
 
 4. De partijen bevestigen nogmaals de verbintenis van de lidstaten en de Verenigde Staten van Amerika om het beginsel van de evenwichtige benadering toe te passen.
 
-5. De volgende bepalingen zijn van toepassing met betrekking tot het opleggen van nieuwe verplichte geluidsgerelateerde exploitatiebeperkingen op luchthavens met meer dan 50 000 bewegingen van civiele subsonische straalvliegtuigen per kalenderjaar:
+5. De volgende bepalingen zijn van toepassing met betrekking tot het opleggen van nieuwe verplichte geluidsgerelateerde exploitatiebeperkingen op luchthavens met meer dan 50 000 bewegingen van civiele subsonische straalvliegtuigen per kalenderjaar:
 
 - a. De bevoegde autoriteiten van een partij voorzien in de mogelijkheid om tijdens het besluitvormingsproces rekening te houden met de standpunten van belanghebbende partijen.
 
@@ -427,6 +323,12 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 3. Eigenaars/exploitanten van CRS van de ene Partij die voldoen aan de desbetreffende wettelijke voorschriften van de andere Partij, ingeval die bestaan, hebben dezelfde gelegenheid om CRS in eigendom te hebben op het grondgebied van de andere Partij als de eigenaars/exploitanten van die Partij.
 
+##### Artikel 17 bis. Sociale dimensie
+
+1. De partijen erkennen het belang van de sociale dimensie van de Overeenkomst en de voordelen die ontstaan wanneer open markten gepaard gaan met goede arbeidsomstandigheden. De kansen die door de Overeenkomst worden gecreëerd, hebben niet tot doel de arbeidsomstandigheden of de arbeidsgerelateerde rechten en beginselen in de wetgeving van de partijen te ondermijnen.
+
+2. Bij de tenuitvoerlegging van de Overeenkomst laten de partijen zich leiden door de beginselen van lid 1; zo plegen zij in het Gemengd Comité regelmatig overleg, overeenkomstig artikel 18, over de sociale gevolgen van de Overeenkomst en de ontwikkeling van passende antwoorden op terecht bevonden bezwaren.
+
 ##### Artikel 18. Het Gemengd Comité
 
 1. Een Gemengd Comité bestaande uit vertegenwoordigers van de Partijen komt tenminste eenmaal per jaar bijeen voor overleg met betrekking tot deze Overeenkomst en om de tenuitvoerlegging daarvan te toetsen.
@@ -459,7 +361,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 - k. waar nodig overleg te stimuleren over kwesties in verband met luchtvervoer die worden behandeld in internationale organisaties, en in het kader van de betrekkingen met derde landen. In dit verband wordt ook een gezamenlijke aanpak in overweging genomen; en
 
-- l. op basis van consensus de besluiten te nemen waarnaar in artikel 1, lid 3, en in artikel 2, lid 3, van bijlage 4 wordt verwezen.
+- l. op basis van consensus de besluiten te nemen waarnaar in artikel 1, lid 3, en in artikel 2, lid 3, van bijlage 4 wordt verwezen.
 
 5. De partijen hebben dezelfde doelstelling, namelijk de voordelen voor consumenten, luchtvaartmaatschappijen, werknemers en gemeenschappen aan beide zijden van de Atlantische Oceaan optimaliseren door deze Overeenkomst uit te breiden tot derde landen. Daartoe zal het Gemengd Comité, voor zover van toepassing, de voorwaarden en procedures uitwerken, met inbegrip van noodzakelijke wijzigingen van deze Overeenkomst, waaraan derde landen moeten voldoen om tot de Overeenkomst te kunnen toetreden.
 
@@ -467,7 +369,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 ##### Artikel 19. Arbitrage
 
-1. Geschillen met betrekking tot de toepassing of uitlegging van deze Overeenkomst die niet ontstaan in het kader van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2022-05-05&g=2022-05-05) of [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2022-05-05&g=2022-05-05) en die niet door een bijeenkomst van het Gemengd Comité worden opgelost, kunnen, indien de Partijen dit overeenkomen, voor beslechting worden verwezen naar een persoon of orgaan. Indien de Partijen hierover geen overeenstemming bereiken, wordt het geschil op verzoek van één van beide Partijen aan arbitrage onderworpen overeenkomstig de hieronder omschreven procedures.
+1. Geschillen met betrekking tot de toepassing of uitlegging van deze Overeenkomst die niet ontstaan in het kader van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=20&z=2026-08-02&g=2026-08-02) of [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2026-08-02&g=2026-08-02) en die niet door een bijeenkomst van het Gemengd Comité worden opgelost, kunnen, indien de Partijen dit overeenkomen, voor beslechting worden verwezen naar een persoon of orgaan. Indien de Partijen hierover geen overeenstemming bereiken, wordt het geschil op verzoek van één van beide Partijen aan arbitrage onderworpen overeenkomstig de hieronder omschreven procedures.
 
 2. Tenzij de Partijen anders overeenkomen, wordt de arbitrage uitgevoerd door een als volgt samen te stellen scheidsgerecht van drie scheidsrechters.
 
@@ -497,9 +399,9 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 2. De Partijen erkennen dat er met betrekking tot de toepassing van hun respectieve mededingingsregels op de internationale luchtvaart verschillen kunnen ontstaan die van invloed zijn op de transatlantische markt en dat de mededinging tussen luchtvaartmaatschappijen op die markt kan worden gestimuleerd door die verschillen zo klein mogelijk te maken.
 
-3. De Partijen erkennen dat samenwerking tussen hun respectieve mededingingsautoriteiten de mededinging op markten helpt bevorderen, de totstandkoming van onderling verenigbare regelgeving kan bevorderen en de verschillen in benadering bij hun respectieve concurrentiebeoordelingen van overeenkomsten tussen luchtvaartmaatschappijen tot een minimum kan beperken. Derhalve bevorderen de Partijen deze samenwerking zoveel mogelijk, daarbij rekening houdend met de verschillende verantwoordelijkheden, bevoegdheden en procedures van de autoriteiten overeenkomstig [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2022-05-05&g=2022-05-05).
+3. De Partijen erkennen dat samenwerking tussen hun respectieve mededingingsautoriteiten de mededinging op markten helpt bevorderen, de totstandkoming van onderling verenigbare regelgeving kan bevorderen en de verschillen in benadering bij hun respectieve concurrentiebeoordelingen van overeenkomsten tussen luchtvaartmaatschappijen tot een minimum kan beperken. Derhalve bevorderen de Partijen deze samenwerking zoveel mogelijk, daarbij rekening houdend met de verschillende verantwoordelijkheden, bevoegdheden en procedures van de autoriteiten overeenkomstig [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2026-08-02&g=2026-08-02).
 
-4. Het Gemengd Comité wordt jaarlijks geïnformeerd over de resultaten van de samenwerking in het kader van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2022-05-05&g=2022-05-05).
+4. Het Gemengd Comité wordt jaarlijks geïnformeerd over de resultaten van de samenwerking in het kader van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&z=2026-08-02&g=2026-08-02).
 
 ##### Artikel 21. Verdere uitbreiding van mogelijkheden
 
@@ -515,7 +417,7 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 - c. is bijlage 4, artikel 2, van de Overeenkomst („Eigendom van en zeggenschap over luchtvaartmaatschappijen van derde landen”) niet langer van toepassing en wordt in de plaats daarvan bijlage 6 van de Overeenkomst van toepassing, voor wat betreft luchtvaartmaatschappijen van derde landen die eigendom zijn van of onder zeggenschap staan van de Verenigde Staten of hun onderdanen.
 
-4. Voor zover het Gemengd Comité, overeenkomstig artikel 18, lid 6, schriftelijk bevestigt dat in de wetten en regels van de Europese Unie en haar lidstaten met betrekking tot het opleggen van geluidsgerelateerde exploitatiebeperkingen op luchthavens met meer dan 50 000 bewegingen van civiele subsonische straalvliegtuigen per jaar is bepaald dat de Europese Commissie bevoegd is om het proces dat voorafgaat aan het opleggen van dergelijke maatregelen onder de loep te nemen en, als zij er niet van overtuigd is dat passende procedures zijn gevolgd overeenkomstig de toepasselijke verplichtingen, om vóór het opleggen van dergelijke maatregelen passende juridische stappen te ondernemen met betrekking tot de maatregelen in kwestie:
+4. Voor zover het Gemengd Comité, overeenkomstig artikel 18, lid 6, schriftelijk bevestigt dat in de wetten en regels van de Europese Unie en haar lidstaten met betrekking tot het opleggen van geluidsgerelateerde exploitatiebeperkingen op luchthavens met meer dan 50 000 bewegingen van civiele subsonische straalvliegtuigen per jaar is bepaald dat de Europese Commissie bevoegd is om het proces dat voorafgaat aan het opleggen van dergelijke maatregelen onder de loep te nemen en, als zij er niet van overtuigd is dat passende procedures zijn gevolgd overeenkomstig de toepasselijke verplichtingen, om vóór het opleggen van dergelijke maatregelen passende juridische stappen te ondernemen met betrekking tot de maatregelen in kwestie:
 
 - a. hebben luchtvaartmaatschappijen uit de Europese Unie het recht gecombineerde geregelde passagiersdiensten aan te bieden tussen punten in de Verenigde Staten en vijf andere landen, zonder een punt op het grondgebied van de Europese Unie en haar lidstaten te bedienen. Binnen een jaar na de ondertekening van het Protocol stelt het Gemengd Comité vast om welke landen het gaat. Het Gemengd Comité kan deze lijst van landen wijzigen of het aantal landen verhogen; en
 
@@ -525,9 +427,9 @@ De Partijen bevestigen het belang van consumentenbescherming en elk van de Parti
 
 ##### Artikel 22. Verhouding tot andere overeenkomsten
 
-1. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=25&z=2022-05-05&g=2022-05-05) van deze Overeenkomst worden de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2022-05-05&g=2022-05-05) vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2022-05-05&g=2022-05-05).
+1. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=25&z=2026-08-02&g=2026-08-02) van deze Overeenkomst worden de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2026-08-02&g=2026-08-02) vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2026-08-02&g=2026-08-02).
 
-2. Bij inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2022-05-05&g=2022-05-05) van deze Overeenkomst komt deze Overeenkomst in de plaats van de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2022-05-05&g=2022-05-05) vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2022-05-05&g=2022-05-05).
+2. Bij inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2026-08-02&g=2026-08-02) van deze Overeenkomst komt deze Overeenkomst in de plaats van de in [deel 1 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=1&z=2026-08-02&g=2026-08-02) vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in [deel 2 van Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=1&deel=2&z=2026-08-02&g=2026-08-02).
 
 3. Indien de Partijen Partij worden in een multilaterale overeenkomst of een besluit van de Internationale Burgerluchtvaartorganisatie of een andere internationale organisatie bekrachtigen dat betrekking heeft op onder deze Overeenkomst vallende aangelegenheden, plegen zij overleg in het Gemengd Comité om te bepalen of deze Overeenkomst met het oog daarop moet worden herzien.
 
@@ -541,7 +443,7 @@ Deze Overeenkomst en alle wijzigingen daarvan worden geregistreerd bij de Intern
 
 ##### Artikel 25. Voorlopige toepassing
 
-Hangende de inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=26&z=2022-05-05&g=2022-05-05):
+Hangende de inwerkingtreding overeenkomstig artikel 26:
 
 1. komen de Partijen overeen de Overeenkomst toe te passen met ingang van 30 maart 2008;
 
@@ -550,218 +452,6 @@ Hangende de inwerkingtreding overeenkomstig [artikel 26](https://wetten.overheid
 ##### Artikel 26. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking één maand na de datum van de laatste nota in een uitwisseling van diplomatieke nota’s tussen de Partijen waarin wordt bevestigd dat alle voor de inwerkingtreding van deze Overeenkomst noodzakelijke procedures zijn voltooid. Bij deze uitwisseling bezorgt de Verenigde Staten de aan de Europese Gemeenschap en haar lidstaten gerichte diplomatieke nota bij de Europese Gemeenschap en de Europese Gemeenschap bezorgt de diplomatieke nota of nota’s van de Europese Gemeenschap en haar lidstaten bij de Verenigde Staten. De diplomatieke nota of nota’s van de Europese Gemeenschap en haar lidstaten bevatten mededelingen van elke lidstaat waarin wordt bevestigd dat de voor inwerkingtreding van deze Overeenkomst vereiste procedures zijn voltooid.
-
-##### Artikel 1
-
-De samenwerking als uiteengezet in deze bijlage wordt ten uitvoer gelegd door het Department of Transportation van de Verenigde Staten van Amerika en de Commissie van de Europese Gemeenschappen (hierna „de Deelnemers’’ genoemd) in het kader van hun respectieve functies met betrekking tot de behandeling van mededingingskwesties in de luchtvervoerssector waarbij de Verenigde Staten en de Europese Gemeenschap betrokken zijn.
-
-##### Artikel 2. Doel
-
-Het doel van deze samenwerking is:
-
-- 1. Verbetering van wederzijds begrip van de toepassing door de Deelnemers van de wetten, procedures en praktijken in het kader van hun respectieve mededingingsregels ter bevordering van de mededinging in de luchtvervoerssector;
-
-- 2. Bevordering van begrip tussen de Deelnemers wat betreft de invloed die de ontwikkelingen in de luchtvervoerssector hebben op de mededinging op de internationale luchtvaartmarkt;
-
-- 3. Beperking van de kans op conflicten bij de toepassing, door de Deelnemers, van hun respectieve mededingingsregels op overeenkomsten en andere samenwerkingsregelingen die van invloed zijn op de transatlantische markt; en
-
-- 4. Bevordering van verenigbare regulerende benaderingen van overeenkomsten en andere samenwerkingsregelingen door een beter begrip van de methoden, analysetechnieken, met inbegrip van een omschrijving van de desbetreffende markt(en) en analyse van de mededingingseffecten, en rechtsmiddelen die de Deelnemers gebruiken bij hun respectieve onafhankelijke concurrentiebeoordelingen.
-
-##### Artikel 3. Definities
-
-In deze bijlage wordt onder „mededingingsregels’’ verstaan de wetten, procedures en praktijken die gelden bij de uitoefening, door de Deelnemers, van hun respectieve functies bij de beoordeling van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op de internationale markt. Wat de Europese Gemeenschap betreft, gaat het hierbij onder meer om de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=82) en [85 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=85) en de bepalingen tot uitvoering ervan overeenkomstig genoemd Verdrag, alsmede alle wijzigingen daarvan. Wat het Department of Transportation betreft, gaat het hierbij onder meer om de paragrafen 41308, 41309 en 41720 van Titel 49 van de United States Code en de dienovereenkomstige uitvoeringsbepalingen en wettelijke precedenten.
-
-##### Artikel 4. Samenwerkingsgebieden
-
-Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=5&z=2008-03-30&g=2008-03-30), omvat de samenwerking tussen de Deelnemers onder meer het volgende:
-
-- 1. In principe halfjaarlijkse bijeenkomsten van vertegenwoordigers van de Deelnemers, onder wie mededingingsdeskundigen, ter bespreking van ontwikkelingen in de luchtvervoerssector, mededingingsbeleidskwesties van wederzijds belang en analytische benaderingen van de toepassing van het mededingingsrecht op de internationale luchtvaart, in het bijzonder op de transatlantische markt. Bovengenoemde besprekingen kunnen leiden tot een beter inzicht in de respectieve benaderingen van mededingingskwesties door de Deelnemers, met inbegrip van bestaande gemeenschappelijke punten, en tot grotere verenigbaarheid van deze benaderingen, met name wat betreft overeenkomsten tussen luchtvaartmaatschappijen.
-
-- 2. Overleg tussen de Deelnemers op elk willekeurig tijdstip, na wederzijdse overeenstemming of op verzoek van een Deelnemer, over met deze bijlage verband houdende zaken, ook over specifieke gevallen;
-
-- 3. Iedere Deelnemer kan naar believen vertegenwoordigers van andere overheidsinstanties uitnodigen om, in voorkomend geval, deel te nemen aan bijeenkomsten of overleg overeenkomstig paragraaf 1 of paragraaf 2 van dit artikel.
-
-- 4. Tijdige kennisgeving van onderstaande procedures of zaken die naar het oordeel van de kennisgevende Deelnemer ingrijpende gevolgen kunnen hebben voor de mededingingsbelangen van de andere Deelnemer:
-
-- a. Wat het Department of Transportation betreft: i) procedures voor de beoordeling van aanvragen tot goedkeuring van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op het gebied van internationaal luchtvervoer, in het bijzonder met het oog op antitrustimmuniteit voor volgens het recht van de Verenigde Staten en de Europese Gemeenschap opgerichte luchtvaartmaatschappijen, en ii) ontvangst door het Department of Transportation van een joint venture-overeenkomst overeenkomstig paragraaf 41720 van Titel 49 van de United States Code; en
-
-- b. Wat de Commissie van de Europese Gemeenschappen betreft: i) procedures voor de toetsing van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op het gebied van internationaal luchtvervoer, in het bijzonder met het oog op allianties en andere samenwerkingsovereenkomsten tussen luchtvaartmaatschappijen die zijn opgericht volgens het recht van de Verenigde Staten en de Europese Gemeenschap, en ii) overweging van individuele of collectieve ontheffingen van de mededingingsregels van de Europese Unie.
-
-- 5. Kennisgeving van de beschikbaarheid, en van voor die beschikbaarheid geldende voorwaarden, van in elektronische vorm of op andere wijze bij een Deelnemer opgeslagen informatie en gegevens die naar het oordeel van die Deelnemer belangrijke implicaties kunnen hebben voor de mededingingsbelangen van de andere Deelnemer; en
-
-- 6. Kennisgeving van andere activiteiten in verband met het mededingingsbeleid op luchtvervoersgebied, wanneer de kennisgevende Deelnemer dit passend acht.
-
-##### Artikel 5. Gebruik en onthulling van informatie
-
-- 1. Niettegenstaande enige andere bepaling in deze bijlage wordt van geen van beide Deelnemers verwacht dat zij de andere Deelnemer informatie verschaffen indien onthulling van deze informatie aan de vragende Deelnemer:
-
-- a. door wetten, voorschriften of praktijken van de Deelnemer die deze informatie bezit, wordt verboden; of
-
-- b. niet zou stroken met wezenlijke belangen van de Deelnemer die de informatie bezit.
-
-- 2. Iedere Deelnemer bewaart zoveel mogelijk de vertrouwelijkheid van alle informatie die hem in vertrouwen door de andere Deelnemer in het kader van deze bijlage is verschaft en verzet zich tegen ieder verzoek om onthulling van deze informatie aan een derde Partij die niet door de Deelnemer die de informatie verschaft gemachtigd is om de informatie te ontvangen. Iedere Deelnemer waarschuwt systematisch de andere Deelnemer wanneer informatie waarvan uitwisseling tijdens besprekingen of op enige andere wijze wordt voorgesteld, mogelijkerwijs tijdens een openbare procedure moet worden onthuld.
-
-- 3. Indien een Deelnemer overeenkomstig deze bijlage aan de andere Deelnemer vertrouwelijke informatie verschaft voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=2&z=2008-03-30&g=2008-03-30) vermelde doelen, mag die informatie door de ontvangende Deelnemer alleen voor die doelen worden gebruikt.
-
-##### Artikel 6. Tenuitvoerlegging
-
-- 1. Iedere Deelnemer benoemt een vertegenwoordiger die verantwoordelijk is voor de coördinatie van de in het kader van deze bijlage vastgestelde activiteiten.
-
-- 2. Deze bijlage en alle in het kader daarvan door een Deelnemer ondernomen activiteiten zijn bedoeld om
-
-- a. slechts in zoverre te worden uitgevoerd als strookt met alle voor die Deelnemer geldende wetten, voorschriften en praktijken; en
-
-- b. tussen de Europese Gemeenschappen en de regering van de Verenigde Staten van Amerika betreffende de toepassing van hun mededingingsrecht.
-
-##### Artikel 1. Eigendom van luchtvaartmaatschappijen van een Partij
-
-- 1. Onderdanen van een lidstaat of lidstaten mogen aandelen van een Amerikaanse luchtvaartmaatschappij in eigendom hebben, zulks met twee beperkingen. Ten eerste is het verboden dat buitenlandse onderdanen meer dan 25 procent van de aandelen met stemrecht van een onderneming in eigendom hebben. Ten tweede is het verboden dat buitenlandse onderdanen de feitelijke zeggenschap over een Amerikaanse luchtvaartmaatschappij hebben. Onverminderd de algemene beperking dat buitenlandse onderdanen maximaal 25 procent van de aandelen met stemrecht in eigendom kunnen hebben, wordt:
-
-- a. eigendom door onderdanen van een lidstaat of lidstaten van en
-
-- i. ten hoogste 25 procent van de aandelen met stemrecht; en/of
-
-- ii. ten hoogste 49,9 procent van alle aandelen van een Amerikaanse luchtvaartmaatschappij op zich niet beschouwd als zeggenschap over die maatschappij;
-
-- b. eigendom door onderdanen van een lidstaat of lidstaten van 50 procent of meer van alle aandelen van een Amerikaanse luchtvaartmaatschappij niet beschouwd als zeggenschap over die maatschappij. Dergelijk eigendom wordt per geval beoordeeld.
-
-- 2. Onderdanen van de VS mogen aandelen van een communautaire luchtvaartmaatschappij in eigendom hebben, zulks met twee beperkingen. Ten eerste moet de luchtvaartmaatschappij in meerderheid de eigendom zijn van lidstaten en/of onderdanen van lidstaten. Ten tweede moeten die staten en/of onderdanen de feitelijke zeggenschap over de luchtvaartmaatschappij uitoefenen.
-
-- 3. Voor de toepassing van [artikel 4, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=4&z=2008-03-30&g=2008-03-30), en [artikel 5, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=5&z=2008-03-30&g=2008-03-30), van deze Overeenkomst worden een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA en onderdanen van die staat respectievelijk behandeld als een lidstaat en zijn onderdanen. Het Gemengd Comité kan besluiten dat deze bepaling van toepassing is op nieuwe lidstaten van de ECAA en hun onderdanen.
-
-- 4. Onverminderd lid 2 behouden de Europese Gemeenschap en haar lidstaten zich het recht voor om investeringen die na de ondertekening van deze Overeenkomst worden gedaan door onderdanen van de VS in aandelen met stemrecht van een communautaire luchtvaartmaatschappij te beperken tot een niveau dat gelijkwaardig is aan het niveau dat de Verenigde Staten toestaan met betrekking tot investeringen door buitenlandse onderdanen in Amerikaanse luchtvaartmaatschappijen, een en ander op voorwaarde dat de uitoefening van dat recht in overeenstemming is met het internationaal recht.
-
-##### Artikel 2. Eigendom van en zeggenschap over luchtvaartmaatschappijen van derde landen
-
-- 1. Geen enkele Partij oefent rechten waarover zij beschikt op grond van overeenkomsten inzake luchtdiensten met een derde land, uit om ten aanzien van luchtvaartmaatschappijen van dat derde land machtigingen of vergunningen te weigeren, in te trekken, op te schorten of te beperken omdat een wezenlijk deel van de eigendom van die maatschappij bij de andere Partij, haar onderdanen, of bij beide berust.
-
-- 2. De Verenigde Staten oefenen de rechten waarover zij beschikken op grond van overeenkomsten inzake luchtdiensten, niet uit om ten aanzien van luchtvaartmaatschappijen van het Vorstendom Liechtenstein, de Zwitserse Confederatie, een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA, of van een Afrikaanse staat die op de datum van ondertekening van deze Overeenkomst een „open-skies’’-overeenkomst inzake luchtdiensten met de Verenigde Staten toepast, machtigingen of vergunningen te weigeren, in te trekken, op te schorten of te beperken omdat de feitelijke zeggenschap over die maatschappij bij een lidstaat of lidstaten, bij onderdanen van die staat of staten, of bij beide berust.
-
-- 3. Het Gemengd Comité kan besluiten dat geen enkele Partij de in lid 2 van dit artikel bedoelde rechten mag uitoefenen met betrekking tot luchtvaartmaatschappijen van een specifiek land of specifieke landen.
-
-##### Artikel 3. Zeggenschap over luchtvaartmaatschappijen
-
-- 1. De in de Europese Gemeenschap geldende regels betreffende eigendom van en zeggenschap over communautaire luchtvaartmaatschappijen zijn momenteel vastgelegd in artikel 4 van [Verordening (EEG) nr. 2407/92](31992R2407) van de Raad van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen. Krachtens deze verordening zijn de lidstaten bevoegd voor het verlenen van een exploitatievergunning aan een communautaire luchtvaartmaatschappij. De lidstaten passen [Verordening (EG) nr. 2407/92](31992R2407) toe in overeenstemming met hun nationale regelgeving en procedures.
-
-- 2. De in de Verenigde Staten toepasselijke regels zijn momenteel vastgelegd in de paragrafen 40102, (a) (2), 41102 en 41103 van Titel 49 van de United States Code, waarin wordt gesteld dat de door het Department of Transportation aan een Amerikaanse luchtvaartmaatschappij uitgereikte vergunningen — ongeacht of het gaat om een certificaat, een vrijstelling of een vergunning voor pendelvluchten — om als gewone luchtvaartmaatschappij luchtvervoer te verzorgen, uitsluitend mogen worden gehouden door onderdanen van de Verenigde Staten in de zin van paragraaf 40102 (a) (15) van titel 49 van de United States Code. Krachtens deze paragraaf moeten de voorzitter en tweederde van de leden van de raad van bestuur en andere leidinggevende personeelsleden van een onderneming onderdanen van de VS zijn, moet ten minste 75 procent van de aandelen met stemrecht eigendom zijn van onderdanen van de VS en moet de feitelijke zeggenschap over de onderneming worden uitgeoefend door onderdanen van de VS. Aan dit vereiste moet eerst door de aanvrager en vervolgens door de Amerikaanse vergunninghoudende luchtvaartmaatschappij worden voldaan.
-
-- 3. De door elke Partij gevolgde praktijk bij het toepassen van haar wet- en regelgeving is omschreven in het aanhangsel bij deze bijlage.
-
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
-
-GEDAAN te Brussel, de vijfentwintigste april 2007 en te Washington, de dertigste april 2007, in tweevoud.
-
-##### Artikel 6 bis. Wederzijdse erkenning van regelgevende vaststellingen inzake de deugdelijkheid en nationaliteit van luchtvaartmaatschappijen
-
-1. Na ontvangst van een aanvraag van een exploitatievergunning, overeenkomstig artikel 4, van een luchtvaartmaatschappij van de ene partij, erkennen de luchtvaartautoriteiten van de andere partij alle vaststellingen inzake deugdelijkheid en/of nationaliteit die door de luchtvaartautoriteiten van de eerste partij met betrekking tot die luchtvaartmaatschappij zijn gedaan alsof deze vaststellingen door hun eigen luchtvaartautoriteiten waren gedaan, en voeren zij verder geen onderzoek naar deze kwesties, behalve zoals bepaald onder a) hieronder:
-
-- a. indien, na ontvangst van een aanvraag van een exploitatievergunning door een luchtvaartmaatschappij, of na de afgifte van een dergelijke vergunning, de luchtvaartautoriteiten van de ontvangende partij specifieke vermoedens hebben dat, ondanks de vaststellingen van de luchtvaartautoriteiten van de andere partij, de in artikel 4 van deze Overeenkomst voorgeschreven voorwaarden voor de afgifte van passende vergunningen of toelatingen niet zijn nageleefd, stellen zij die autoriteiten daar onmiddellijk van in kennis, met opgave van de redenen voor hun bezorgdheid. In dat geval mag elke partij verzoeken om overleg, waarbij ook vertegenwoordigers van de desbetreffende luchtvaartautoriteiten moeten worden betrokken en/of om aanvullende informatie over deze bezorgdheid; op dergelijke verzoeken moet zo snel mogelijk worden ingegaan. Als geen oplossing wordt gevonden, mag elke partij de kwestie voorleggen aan het Gemengd Comité;
-
-- b. dit artikel is niet van toepassing op vaststellingen met betrekking tot veiligheidscertificaten of -licenties, beveiligingsregelingen of verzekeringsdekking.
-
-2. Elke partij stelt de andere, voor zover mogelijk van tevoren en anders zo snel mogelijk achteraf, via het Gemengd Comité in kennis van wezenlijke wijzigingen in de criteria die zij toepast bij het doen van de in lid 1 vermelde vaststellingen. Als de ontvangende partij overleg vraagt over een dergelijke wijziging, vindt dit overleg binnen 30 dagen na het verzoek plaats in het Gemengd Comité, tenzij de partijen anders overeenkomen. Als de ontvangende partij na dergelijk overleg van oordeel is dat de gewijzigde criteria van de andere partij niet volstaan voor de wederzijdse erkenning van regelgevende vaststellingen, kan de ontvangende partij de andere partij meedelen dat lid 1 wordt opgeschort. Deze opschorting kan op elk ogenblik door de ontvangende partij worden opgeheven. Het Gemengd Comité wordt daarvan in kennis gesteld.
-
-##### Artikel 17 bis. Sociale dimensie
-
-1. De partijen erkennen het belang van de sociale dimensie van de Overeenkomst en de voordelen die ontstaan wanneer open markten gepaard gaan met goede arbeidsomstandigheden. De kansen die door de Overeenkomst worden gecreëerd, hebben niet tot doel de arbeidsomstandigheden of de arbeidsgerelateerde rechten en beginselen in de wetgeving van de partijen te ondermijnen.
-
-2. Bij de tenuitvoerlegging van de Overeenkomst laten de partijen zich leiden door de beginselen van lid 1; zo plegen zij in het Gemengd Comité regelmatig overleg, overeenkomstig artikel 18, over de sociale gevolgen van de Overeenkomst en de ontwikkeling van passende antwoorden op terecht bevonden bezwaren.
-
-##### Artikel 1
-
-De samenwerking als uiteengezet in deze bijlage wordt ten uitvoer gelegd door het Department of Transportation van de Verenigde Staten van Amerika en de Commissie van de Europese Gemeenschappen (hierna „de Deelnemers’’ genoemd) in het kader van hun respectieve functies met betrekking tot de behandeling van mededingingskwesties in de luchtvervoerssector waarbij de Verenigde Staten en de Europese Gemeenschap betrokken zijn.
-
-##### Artikel 2. Doel
-
-Het doel van deze samenwerking is:
-
-- 1. Verbetering van wederzijds begrip van de toepassing door de Deelnemers van de wetten, procedures en praktijken in het kader van hun respectieve mededingingsregels ter bevordering van de mededinging in de luchtvervoerssector;
-
-- 2. Bevordering van begrip tussen de Deelnemers wat betreft de invloed die de ontwikkelingen in de luchtvervoerssector hebben op de mededinging op de internationale luchtvaartmarkt;
-
-- 3. Beperking van de kans op conflicten bij de toepassing, door de Deelnemers, van hun respectieve mededingingsregels op overeenkomsten en andere samenwerkingsregelingen die van invloed zijn op de transatlantische markt; en
-
-- 4. Bevordering van verenigbare regulerende benaderingen van overeenkomsten en andere samenwerkingsregelingen door een beter begrip van de methoden, analysetechnieken, met inbegrip van een omschrijving van de desbetreffende markt(en) en analyse van de mededingingseffecten, en rechtsmiddelen die de Deelnemers gebruiken bij hun respectieve onafhankelijke concurrentiebeoordelingen.
-
-##### Artikel 3. Definities
-
-In deze bijlage wordt onder „mededingingsregels’’ verstaan de wetten, procedures en praktijken die gelden bij de uitoefening, door de Deelnemers, van hun respectieve functies bij de beoordeling van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op de internationale markt. Wat de Europese Gemeenschap betreft, gaat het hierbij onder meer om de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=81), [82](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=82) en [85 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=85) en de bepalingen tot uitvoering ervan overeenkomstig genoemd Verdrag, alsmede alle wijzigingen daarvan. Wat het Department of Transportation betreft, gaat het hierbij onder meer om de paragrafen 41308, 41309 en 41720 van Titel 49 van de United States Code en de dienovereenkomstige uitvoeringsbepalingen en wettelijke precedenten.
-
-##### Artikel 4. Samenwerkingsgebieden
-
-Onder voorbehoud van het bepaalde in [artikel 5, lid 1, sub a) en sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=5&z=2022-05-05&g=2022-05-05), omvat de samenwerking tussen de Deelnemers onder meer het volgende:
-
-- 1. In principe halfjaarlijkse bijeenkomsten van vertegenwoordigers van de Deelnemers, onder wie mededingingsdeskundigen, ter bespreking van ontwikkelingen in de luchtvervoerssector, mededingingsbeleidskwesties van wederzijds belang en analytische benaderingen van de toepassing van het mededingingsrecht op de internationale luchtvaart, in het bijzonder op de transatlantische markt. Bovengenoemde besprekingen kunnen leiden tot een beter inzicht in de respectieve benaderingen van mededingingskwesties door de Deelnemers, met inbegrip van bestaande gemeenschappelijke punten, en tot grotere verenigbaarheid van deze benaderingen, met name wat betreft overeenkomsten tussen luchtvaartmaatschappijen.
-
-- 2. Overleg tussen de Deelnemers op elk willekeurig tijdstip, na wederzijdse overeenstemming of op verzoek van een Deelnemer, over met deze bijlage verband houdende zaken, ook over specifieke gevallen;
-
-- 3. Iedere Deelnemer kan naar believen vertegenwoordigers van andere overheidsinstanties uitnodigen om, in voorkomend geval, deel te nemen aan bijeenkomsten of overleg overeenkomstig paragraaf 1 of paragraaf 2 van dit artikel.
-
-- 4. Tijdige kennisgeving van onderstaande procedures of zaken die naar het oordeel van de kennisgevende Deelnemer ingrijpende gevolgen kunnen hebben voor de mededingingsbelangen van de andere Deelnemer:
-
-- a. Wat het Department of Transportation betreft: i) procedures voor de beoordeling van aanvragen tot goedkeuring van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op het gebied van internationaal luchtvervoer, in het bijzonder met het oog op antitrustimmuniteit voor volgens het recht van de Verenigde Staten en de Europese Gemeenschap opgerichte luchtvaartmaatschappijen, en ii) ontvangst door het Department of Transportation van een joint venture-overeenkomst overeenkomstig paragraaf 41720 van Titel 49 van de United States Code; en
-
-- b. Wat de Commissie van de Europese Gemeenschappen betreft: i) procedures voor de toetsing van overeenkomsten en andere samenwerkingsregelingen tussen luchtvaartmaatschappijen op het gebied van internationaal luchtvervoer, in het bijzonder met het oog op allianties en andere samenwerkingsovereenkomsten tussen luchtvaartmaatschappijen die zijn opgericht volgens het recht van de Verenigde Staten en de Europese Gemeenschap, en ii) overweging van individuele of collectieve ontheffingen van de mededingingsregels van de Europese Unie.
-
-- 5. Kennisgeving van de beschikbaarheid, en van voor die beschikbaarheid geldende voorwaarden, van in elektronische vorm of op andere wijze bij een Deelnemer opgeslagen informatie en gegevens die naar het oordeel van die Deelnemer belangrijke implicaties kunnen hebben voor de mededingingsbelangen van de andere Deelnemer; en
-
-- 6. Kennisgeving van andere activiteiten in verband met het mededingingsbeleid op luchtvervoersgebied, wanneer de kennisgevende Deelnemer dit passend acht.
-
-##### Artikel 5. Gebruik en onthulling van informatie
-
-- 1. Niettegenstaande enige andere bepaling in deze bijlage wordt van geen van beide Deelnemers verwacht dat zij de andere Deelnemer informatie verschaffen indien onthulling van deze informatie aan de vragende Deelnemer:
-
-- a. door wetten, voorschriften of praktijken van de Deelnemer die deze informatie bezit, wordt verboden; of
-
-- b. niet zou stroken met wezenlijke belangen van de Deelnemer die de informatie bezit.
-
-- 2. Iedere Deelnemer bewaart zoveel mogelijk de vertrouwelijkheid van alle informatie die hem in vertrouwen door de andere Deelnemer in het kader van deze bijlage is verschaft en verzet zich tegen ieder verzoek om onthulling van deze informatie aan een derde Partij die niet door de Deelnemer die de informatie verschaft gemachtigd is om de informatie te ontvangen. Iedere Deelnemer waarschuwt systematisch de andere Deelnemer wanneer informatie waarvan uitwisseling tijdens besprekingen of op enige andere wijze wordt voorgesteld, mogelijkerwijs tijdens een openbare procedure moet worden onthuld.
-
-- 3. Indien een Deelnemer overeenkomstig deze bijlage aan de andere Deelnemer vertrouwelijke informatie verschaft voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&bijlage=2&artikel=2&z=2022-05-05&g=2022-05-05) vermelde doelen, mag die informatie door de ontvangende Deelnemer alleen voor die doelen worden gebruikt.
-
-##### Artikel 6. Tenuitvoerlegging
-
-- 1. Iedere Deelnemer benoemt een vertegenwoordiger die verantwoordelijk is voor de coördinatie van de in het kader van deze bijlage vastgestelde activiteiten.
-
-- 2. Deze bijlage en alle in het kader daarvan door een Deelnemer ondernomen activiteiten zijn bedoeld om
-
-- a. slechts in zoverre te worden uitgevoerd als strookt met alle voor die Deelnemer geldende wetten, voorschriften en praktijken; en
-
-- b. tussen de Europese Gemeenschappen en de regering van de Verenigde Staten van Amerika betreffende de toepassing van hun mededingingsrecht.
-
-##### Artikel 1. Eigendom van luchtvaartmaatschappijen van een Partij
-
-- 1. Onderdanen van een lidstaat of lidstaten mogen aandelen van een Amerikaanse luchtvaartmaatschappij in eigendom hebben, zulks met twee beperkingen. Ten eerste is het verboden dat buitenlandse onderdanen meer dan 25 procent van de aandelen met stemrecht van een onderneming in eigendom hebben. Ten tweede is het verboden dat buitenlandse onderdanen de feitelijke zeggenschap over een Amerikaanse luchtvaartmaatschappij hebben. Onverminderd de algemene beperking dat buitenlandse onderdanen maximaal 25 procent van de aandelen met stemrecht in eigendom kunnen hebben, wordt:
-
-- a. eigendom door onderdanen van een lidstaat of lidstaten van en
-
-- i. ten hoogste 25 procent van de aandelen met stemrecht; en/of
-
-- ii. ten hoogste 49,9 procent van alle aandelen van een Amerikaanse luchtvaartmaatschappij op zich niet beschouwd als zeggenschap over die maatschappij;
-
-- b. eigendom door onderdanen van een lidstaat of lidstaten van 50 procent of meer van alle aandelen van een Amerikaanse luchtvaartmaatschappij niet beschouwd als zeggenschap over die maatschappij. Dergelijk eigendom wordt per geval beoordeeld.
-
-- 2. Onderdanen van de VS mogen aandelen van een communautaire luchtvaartmaatschappij in eigendom hebben, zulks met twee beperkingen. Ten eerste moet de luchtvaartmaatschappij in meerderheid de eigendom zijn van lidstaten en/of onderdanen van lidstaten. Ten tweede moeten die staten en/of onderdanen de feitelijke zeggenschap over de luchtvaartmaatschappij uitoefenen.
-
-- 3. Voor de toepassing van [artikel 4, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=4&z=2022-05-05&g=2022-05-05), en [artikel 5, lid 1, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002513&artikel=5&z=2022-05-05&g=2022-05-05), van deze Overeenkomst worden een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA en onderdanen van die staat respectievelijk behandeld als een lidstaat en zijn onderdanen. Het Gemengd Comité kan besluiten dat deze bepaling van toepassing is op nieuwe lidstaten van de ECAA en hun onderdanen.
-
-- 4. Onverminderd lid 2 behouden de Europese Gemeenschap en haar lidstaten zich het recht voor om investeringen die na de ondertekening van deze Overeenkomst worden gedaan door onderdanen van de VS in aandelen met stemrecht van een communautaire luchtvaartmaatschappij te beperken tot een niveau dat gelijkwaardig is aan het niveau dat de Verenigde Staten toestaan met betrekking tot investeringen door buitenlandse onderdanen in Amerikaanse luchtvaartmaatschappijen, een en ander op voorwaarde dat de uitoefening van dat recht in overeenstemming is met het internationaal recht.
-
-##### Artikel 2. Eigendom van en zeggenschap over luchtvaartmaatschappijen van derde landen
-
-- 1. Geen enkele Partij oefent rechten waarover zij beschikt op grond van overeenkomsten inzake luchtdiensten met een derde land, uit om ten aanzien van luchtvaartmaatschappijen van dat derde land machtigingen of vergunningen te weigeren, in te trekken, op te schorten of te beperken omdat een wezenlijk deel van de eigendom van die maatschappij bij de andere Partij, haar onderdanen, of bij beide berust.
-
-- 2. De Verenigde Staten oefenen de rechten waarover zij beschikken op grond van overeenkomsten inzake luchtdiensten, niet uit om ten aanzien van luchtvaartmaatschappijen van het Vorstendom Liechtenstein, de Zwitserse Confederatie, een staat die op de datum van ondertekening van deze Overeenkomst lid is van de ECAA, of van een Afrikaanse staat die op de datum van ondertekening van deze Overeenkomst een „open-skies’’-overeenkomst inzake luchtdiensten met de Verenigde Staten toepast, machtigingen of vergunningen te weigeren, in te trekken, op te schorten of te beperken omdat de feitelijke zeggenschap over die maatschappij bij een lidstaat of lidstaten, bij onderdanen van die staat of staten, of bij beide berust.
-
-- 3. Het Gemengd Comité kan besluiten dat geen enkele Partij de in lid 2 van dit artikel bedoelde rechten mag uitoefenen met betrekking tot luchtvaartmaatschappijen van een specifiek land of specifieke landen.
-
-##### Artikel 3. Zeggenschap over luchtvaartmaatschappijen
-
-- 1. De in de Europese Gemeenschap geldende regels betreffende eigendom van en zeggenschap over communautaire luchtvaartmaatschappijen zijn momenteel vastgelegd in artikel 4 van [Verordening (EEG) nr. 2407/92](31992R2407) van de Raad van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen. Krachtens deze verordening zijn de lidstaten bevoegd voor het verlenen van een exploitatievergunning aan een communautaire luchtvaartmaatschappij. De lidstaten passen [Verordening (EG) nr. 2407/92](31992R2407) toe in overeenstemming met hun nationale regelgeving en procedures.
-
-- 2. De in de Verenigde Staten toepasselijke regels zijn momenteel vastgelegd in de paragrafen 40102, (a) (2), 41102 en 41103 van Titel 49 van de United States Code, waarin wordt gesteld dat de door het Department of Transportation aan een Amerikaanse luchtvaartmaatschappij uitgereikte vergunningen — ongeacht of het gaat om een certificaat, een vrijstelling of een vergunning voor pendelvluchten — om als gewone luchtvaartmaatschappij luchtvervoer te verzorgen, uitsluitend mogen worden gehouden door onderdanen van de Verenigde Staten in de zin van paragraaf 40102 (a) (15) van titel 49 van de United States Code. Krachtens deze paragraaf moeten de voorzitter en tweederde van de leden van de raad van bestuur en andere leidinggevende personeelsleden van een onderneming onderdanen van de VS zijn, moet ten minste 75 procent van de aandelen met stemrecht eigendom zijn van onderdanen van de VS en moet de feitelijke zeggenschap over de onderneming worden uitgeoefend door onderdanen van de VS. Aan dit vereiste moet eerst door de aanvrager en vervolgens door de Amerikaanse vergunninghoudende luchtvaartmaatschappij worden voldaan.
-
-- 3. De door elke Partij gevolgde praktijk bij het toepassen van haar wet- en regelgeving is omschreven in het aanhangsel bij deze bijlage.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 

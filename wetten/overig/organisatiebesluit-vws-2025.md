@@ -1,19 +1,19 @@
 ---
-title: "Organisatiebesluit VWS 2025"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2025, kenmerk 4055328-1078653-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2025"
+citeertitel: "Organisatiebesluit VWS 2025"
 identifier: "BWBR0050921"
-categorie: "Overig"
-publicatiedatum: 2026-05-01
-laatste_update: 2026-05-21
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-04-05
+laatste_update: 2026-05-01
 status: vervallen
+vervallen_op: 2026-05-20
+toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0050921"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-08
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2025, kenmerk 4055328-1078653-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2025
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
@@ -21,19 +21,19 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **ministerie:** Ministerie van Volksgezondheid, Welzijn en Sport;
+- b. *ministerie:* Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- c. **ressorteren:** vallend onder het gezagsbereik van de genoemde functionaris;
+- c. *ressorteren:* vallend onder het gezagsbereik van de genoemde functionaris;
 
-- d. **pSG:** plaatsvervangend Secretaris-Generaal;
+- d. *pSG:* plaatsvervangend Secretaris-Generaal;
 
-- e. **SG:** Secretaris-Generaal;
+- e. *SG:* Secretaris-Generaal;
 
-- f. **budgethouder:** functionaris die verantwoordelijk is voor een rechtmatig en doelmatig financieel beheer van de aan hem toegewezen budgetten;
+- f. *budgethouder:* functionaris die verantwoordelijk is voor een rechtmatig en doelmatig financieel beheer van de aan hem toegewezen budgetten;
 
-- g. **budget:** aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van de gehele of een deel van de VWS-begroting.
+- g. *budget:* aan een budgethouder toegewezen verplichtingen- en kasbedrag(en) alsmede de te realiseren ontvangsten ter uitvoering van de gehele of een deel van de VWS-begroting.
 
 ### Hoofdstuk 2. Hoofdstructuur van de organisatie
 
@@ -65,65 +65,65 @@ Het Ministerie bestaat uit de volgende organisatieonderdelen:
 
 - a. de Secretaris-Generaal (SG); Onder de SG ressorteren de volgende onderdelen:
 
-  - 1. de directie Macro-Economische Vraagstukken en Arbeidsmarkt (MEVA);
+   - 1. de directie Macro-Economische Vraagstukken en Arbeidsmarkt (MEVA);
 
-  - 2. de directie Financieel-Economische Zaken (FEZ);
+   - 2. de directie Financieel-Economische Zaken (FEZ);
 
 - b. de plaatsvervangend Secretaris-Generaal (pSG); De pSG is belast met de interne organisatie en het beheer van het Ministerie en vervangt de SG bij diens afwezigheid. Onder de pSG ressorteren de volgende onderdelen:
 
-  - 1. de directie Bestuurlijke en Politieke Zaken (BPZ);
+   - 1. de directie Bestuurlijke en Politieke Zaken (BPZ);
 
-  - 2. de directie Organisatie, Bedrijfsvoering en Personeel (OBP);
+   - 2. de directie Organisatie, Bedrijfsvoering en Personeel (OBP);
 
-  - 3. de directie Informatiebeleid-CIO (DI/CIO);
+   - 3. de directie Informatiebeleid-CIO (DI/CIO);
 
-  - 4. de directie Communicatie (DCo);
+   - 4. de directie Communicatie (DCo);
 
-  - 5. de directie Wetgeving en Juridische Zaken (WJZ);
+   - 5. de directie Wetgeving en Juridische Zaken (WJZ);
 
-  - 6. de directie Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies (ESTT);
+   - 6. de directie Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies (ESTT);
 
-  - 7. de programmadirectie PGB;
+   - 7. de programmadirectie PGB;
 
-  - 8. de directie Zorg en Jeugd in Caribisch Nederland (ZJCN);
+   - 8. de directie Zorg en Jeugd in Caribisch Nederland (ZJCN);
 
-  - 9. de programmadirectie Openbaarheid (per 1-4-2025 directie Open Overheid)
+   - 9. de programmadirectie Openbaarheid (per 1-4-2025 directie Open Overheid)
 
 - c. de Directeur-Generaal Volksgezondheid (DGV); Onder de DGV ressorteren de volgende onderdelen:
 
-  - 1. de directie Publieke Gezondheid (PG);
+   - 1. de directie Publieke Gezondheid (PG);
 
-  - 2. de directie Sport en Bewegen (SB);
+   - 2. de directie Sport en Bewegen (SB);
 
-  - 3. de directie Voeding, Gezondheidsbescherming en Preventie (VGP);
+   - 3. de directie Voeding, Gezondheidsbescherming en Preventie (VGP);
 
-  - 4. de directie Internationale Zaken (IZ);
+   - 4. de directie Internationale Zaken (IZ);
 
-  - 5. de directie Infectieziektenbeleid (IZB);
+   - 5. de directie Infectieziektenbeleid (IZB);
 
 - d. de Directeur-Generaal Curatieve Zorg (DGCZ); Onder de DGCZ ressorteren de volgende onderdelen:
 
-  - 1. de directie Curatieve Zorg (CZ);
+   - 1. de directie Curatieve Zorg (CZ);
 
-  - 2. de directie Geneesmiddelen en Medische Technologie (GMT);
+   - 2. de directie Geneesmiddelen en Medische Technologie (GMT);
 
-  - 3. de directie Patiënt en Zorgordening (PZo);
+   - 3. de directie Patiënt en Zorgordening (PZo);
 
-  - 4. de programmadirectie Weerbare Zorg;
+   - 4. de programmadirectie Weerbare Zorg;
 
-  - 5. de programmadirectie Medische Isotopen
+   - 5. de programmadirectie Medische Isotopen
 
-  - 6. De programmadirectie Integraal Zorg Akkoord (IZA).
+   - 6. De programmadirectie Integraal Zorg Akkoord (IZA).
 
 - e. de Directeur-Generaal Langdurige Zorg (DGLZ); Onder de DGLZ ressorteren de volgende onderdelen:
 
-  - 1. de directie Langdurige Zorg (LZ);
+   - 1. de directie Langdurige Zorg (LZ);
 
-  - 2. de directie Zorgverzekeringen (Z);
+   - 2. de directie Zorgverzekeringen (Z);
 
-  - 3. de directie Maatschappelijke Ondersteuning (DMO);
+   - 3. de directie Maatschappelijke Ondersteuning (DMO);
 
-  - 4. de directie Jeugd (DJ).
+   - 4. de directie Jeugd (DJ).
 
 ##### Artikel 4
 
@@ -301,11 +301,11 @@ De directie Zorg en Jeugd in Caribisch Nederland bestaat uit de volgende onderde
 
 ##### Artikel 17
 
-De programmadirectie Openbaarheid (tot 1 april 2025) staat onder leiding van een programmadirecteur.
+De programmadirectie Openbaarheid (tot 1 april 2025) staat onder leiding van een programmadirecteur.
 
 ##### Artikel 18
 
-De directie Open Overheid (met ingang 1 april 2024) staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
+De directie Open Overheid (met ingang 1 april 2024) staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
 ### Hoofdstuk 6. Directoraat-generaal volksgezondheid
 
@@ -465,7 +465,7 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - e. Klant en Communicatie;
 
-- f. Projectbureau LCH (tot 1 maart 2025);
+- f. Projectbureau LCH (tot 1 maart 2025);
 
 - g. Bureau Buitenlandse Zorgverleners (BBZ).
 
@@ -497,11 +497,11 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - a. de Hoofdinspecteurs die belast zijn met bepaalde gebieden van de zorg en tevens aangewezen kunnen worden als plaatsvervangend IG:
 
-  - 1°. de Hoofdinspecteur Cure en GMT;
+   - 1°. de Hoofdinspecteur Cure en GMT;
 
-  - 2°. de Hoofdinspecteur Maatschappelijke Zorg en Jeugd;
+   - 2°. de Hoofdinspecteur Maatschappelijke Zorg en Jeugd;
 
-  - 3°. de Project Hoofdinspecteur Front-office.
+   - 3°. de Project Hoofdinspecteur Front-office.
 
 - b. de directeur Strategie en Organisatie;
 
@@ -697,10 +697,8 @@ De directeur Organisatie, Bedrijfsvoering en Personeel is belast met het beheer 
 
 ##### Artikel 46
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2025.
 
 2. Het [Organisatiebesluit VWS 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048616) wordt ingetrokken.
 
 3. Dit besluit wordt aangehaald als: Organisatiebesluit VWS 2025.
-
-Dit besluit wordt met de toelichting in de Staatscourant geplaatst.

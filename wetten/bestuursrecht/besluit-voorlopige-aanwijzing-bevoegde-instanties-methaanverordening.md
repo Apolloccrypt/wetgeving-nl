@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Klimaat en Groene Groei, DGKE-DE / 96724574, 14 april 2025, tot voorlopige aanwijzing van de Minister van Klimaat en Groene Groei, inspecteur-generaal der mijnen, de Omgevingsdienst Groningen, DCMR Milieudienst Rijnmond, gedeputeerde staten van Limburg, en de Nederlandse Emissieautoriteit als bevoegde instanties in de zin van Verordening (EU) 2024/1787 van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van Verordening (EU) 2019/942 (Besluit voorlopige aanwijzing bevoegde instanties methaanverordening)"
+citeertitel: "Besluit voorlopige aanwijzing bevoegde instanties methaanverordening"
 identifier: "BWBR0051041"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-16"
-last_updated: "2025-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051041"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17429333"
-version_id: "30731452"
-internal_id: "C44046801"
-label_id: "17332244"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051041/2025-05-16/0"
-intitule_bron: "Stcrt.2025-14173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-14"
-intitule_published: "2025-05-15"
-intitule_in_force: "2025-05-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-14173"
-original_signed_date: "2025-04-14"
-original_published_date: "2025-05-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-14173"
-entry_into_force_date: "2025-05-16"
-jci_1_3: "jci1.3:c:BWBR0051041&z=2025-05-16&g=2025-05-16"
-jci_1_0: "1.0:c:BWBR0051041&g=2025-05-16"
-citeertitel_status: "officieel"
-short_title: "Besluit voorlopige aanwijzing bevoegde instanties methaanverordening"
-signed_date: "2025-04-14"
-entry_into_force: "2025-05-16"
+publicatiedatum: 2025-05-16
+laatste_update: 2025-05-16
+status: geldig
+toestand: 2025-05-16
+bron: "https://wetten.overheid.nl/BWBR0051041"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Minister van Klimaat en Groene Groei, DGKE-DE / 96724574, 14 april 2025, tot voorlopige aanwijzing van de Minister van Klimaat en Groene Groei, inspecteur-generaal der mijnen, de Omgevingsdienst Groningen, DCMR Milieudienst Rijnmond, gedeputeerde staten van Limburg, en de Nederlandse Emissieautoriteit als bevoegde instanties in de zin van Verordening (EU) 2024/1787 van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van Verordening (EU) 2019/942 (Besluit voorlopige aanwijzing bevoegde instanties methaanverordening)
-
-Gelet op artikel 4 van de [Verordening (EU) 2024/1787](32024R1787) van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van [Verordening (EU) 2019/942](32019R0942);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- a. **methaanverordening:** de [Verordening (EU) 2024/1787](32024R1787) van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van [Verordening (EU) 2019/942](32019R0942);
+- a. *methaanverordening:* de Verordening (EU) 2024/1787 van het Europees Parlement en de Raad van 13 juni 2024 inzake de vermindering van methaanemissies in de energiesector en tot wijziging van Verordening (EU) 2019/942;
 
-- b. **minister:** de Minister van Klimaat en Groene Groei.
+- b. *minister:* de Minister van Klimaat en Groene Groei.
 
 ##### Artikel 2
 
@@ -97,5 +71,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit voorlopige aanwijzing bevoegde instanties methaanverordening.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

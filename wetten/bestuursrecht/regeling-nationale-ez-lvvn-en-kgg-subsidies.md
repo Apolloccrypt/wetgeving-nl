@@ -9,7 +9,7 @@ laatste_update: 2026-09-03
 status: geldig
 toestand: 2026-09-03
 bron: "https://wetten.overheid.nl/BWBR0035474"
-opgehaald: 2026-09-07
+opgehaald: 2026-09-08
 ---
 
 # Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJZ / 13125043, houdende vaststelling van nationale subsidie-instrumenten op het terrein van Economische Zaken (Regeling nationale EZ-subsidies)
@@ -13923,6 +13923,230 @@ De subsidie, bedoeld in [artikel 4.13.2](https://wetten.overheid.nl/jci1.3:c:BWB
 ##### Artikel 4.13.17. Vervaltermijn
 
 Deze titel en [bijlages 4.13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&bijlage=4.13.1&z=2026-09-03&g=2026-09-03), [4.13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&bijlage=4.13.2&z=2026-09-03&g=2026-09-03) en [4.13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&bijlage=4.13.3&z=2026-09-03&g=2026-09-03) vervallen met ingang van 1 juni 2030, met dien verstande dat deze van toepassing blijven op aanvragen die voor deze datum zijn ingediend.
+
+### Titel 4.16. Onderzoek Energiehubs (EHUB)
+
+##### Artikel 4.16.1. Begripsbepalingen
+
+In deze titel wordt verstaan onder:
+
+- *beoogde energiehub-partner:* onderneming die een intentieverklaring als bedoeld in [artikel 4.16.9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.9&z=2026-09-03&g=2026-09-03), heeft ondertekend met het oog op deelname aan een te vormen energiehub;
+
+- *bestaande energiehub-partner:* onderneming die deel uitmaakt van een bestaande energiehub op basis van een schriftelijke overeenkomst tussen de ondernemingen die deze energiehub vormen, dan wel die deel uitmaakt van een juridische entiteit die ten behoeve van de energiehub is opgericht;
+
+- *collectief gebruiksprofiel:* de som van meerdere gebruiksprofielen;
+
+- *distributiesysteem:* distributiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+
+- *distributiesysteembeheerder:* distributiesysteembeheerder voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+
+- *energiehub:* een lokale collectieve afspraak tussen ondernemingen over onderlinge afstemming van de elektriciteitsvraag en -aanbod, inzet van energieopslag, toepassing van energieconversie of andere maatregelen, gericht op het gezamenlijk organiseren van in ieder geval het efficiënter of verminderd gebruik van de transportcapaciteit op het deel van het distributie- of transmissiesysteem, niet zijnde een gesloten systeem, waarop zij zijn aangesloten;
+
+- *energiehub-partner:* beoogde energiehub-partner, bestaande energiehub-partner of toetredende energiehub-partner;
+
+- *gebruiksprofiel:* het overzicht op basis van kwartierwaarden van de hoeveelheid en het tijdstip van het elektriciteitsverbruik gedurende één jaar of, voor zover beschikbaar, meerdere jaren, dat inzicht biedt in de piekbelasting, het basisverbruik en de inzetbare flexibiliteit;
+
+- *groepstransportovereenkomst:* transportovereenkomst als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) inzake het verzorgen van transport van elektriciteit aan twee of meer aangeslotenen gezamenlijk;
+
+- *grote aansluiting:* grote aansluiting als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+
+- *ring:* gesloten lus van leidingen en hulpmiddelen in een distributiesysteem;
+
+- *toetredende energiehub-partner:* onderneming die een intentieverklaring als bedoeld in [artikel 4.16.9, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.9&z=2026-09-03&g=2026-09-03), heeft ondertekend met het oog op toetreding tot een bestaande energiehub;
+
+- *transmissiesysteem:* transmissiesysteem voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+
+- *transmissiesysteembeheerder:* transmissiesysteembeheerder voor elektriciteit als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1).
+
+##### Artikel 4.16.2. Subsidieverstrekking
+
+1. De minister verstrekt op aanvraag subsidie voor het uitvoeren van:
+
+- a. een scan gericht op de vorming van een energiehub, bestaande uit:
+
+   - 1°. het inzichtelijk maken van het huidige collectieve gebruiksprofiel van de elektriciteitsvraag en de toekomstige collectieve energiebehoefte van de beoogde energiehub; en
+
+   - 2°. het verkennen van ten minste drie verschillende maatregelenpakketten die kunnen leiden tot het verkrijgen van toegang tot energie, de vergroting van de beschikbaarheid van energie of de ontsluiting van de productie van duurzame energie;
+
+- b. een studie gericht op de vorming van een energiehub dan wel de uitbreiding van een bestaande energiehub, bestaande uit een organisatorisch, technisch, financieel of juridisch ontwerp van de energiehub.
+
+2. De subsidie wordt uitsluitend verstrekt aan een in Nederland gevestigde:
+
+- a. onderneming met een grote aansluiting, voor zover de aanvraag een activiteit als bedoeld in het eerste lid, onderdeel a of b, betreft;
+
+- b. juridische entiteit ten behoeve van een energiehub, voor zover de aanvraag een studie als bedoeld in het eerste lid, onderdeel b, betreft.
+
+3. Een energiehub als bedoeld in het eerste lid bestaat uit ten minste drie in Nederland gevestigde ondernemingen die niet met elkaar in een groep zijn verbonden met elk een grote aansluiting.
+
+##### Artikel 4.16.3. Hoogte subsidie
+
+1. De subsidie bedraagt per aanvraag:
+
+- a. voor het uitvoeren van een scan:
+
+   - 1°. € 5.000, indien de beoogde energiehub bestaat uit de aanvrager en maximaal vier beoogde energiehub-partners;
+
+   - 2°. € 8.500, indien de beoogde energiehub bestaat uit de aanvrager en vijf of meer beoogde energiehub-partners;
+
+- b. voor het uitvoeren van een studie:
+
+   - 1°. 70% van de subsidiabele kosten, doch ten minste € 25.000 en ten hoogste € 42.000, indien de aanvraag betrekking heeft op de vorming van een energiehub;
+
+   - 2°. 40% van de subsidiabele kosten, doch ten minste € 25.000 en ten hoogste € 32.000, indien de aanvraag betrekking heeft op de uitbreiding van een bestaande energiehub.
+
+2. Indien een aanvraag zowel betrekking heeft op het uitvoeren van een scan als op het uitvoeren van een studie, wordt voor de toepassing van het minimumsubsidiebedrag, bedoeld in het eerste lid, onderdeel b, subonderdelen 1° en 2°, de subsidie voor een scan meegeteld bij de berekening van het totale subsidiebedrag voor de aanvraag.
+
+##### Artikel 4.16.4. Subsidiabele kosten
+
+1. Voor subsidie komen in aanmerking de kosten van een scan dan wel studie.
+
+2. In afwijking van [artikel 10, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=10) komen voor een scan uitsluitend de kosten in aanmerking die zijn gemaakt voorafgaand aan de indiening van de aanvraag om subsidie.
+
+3. Voor subsidie komen niet in aanmerking:
+
+- a. de kosten voor het inzichtelijk maken van individuele gebruiksprofielen;
+
+- b. de kosten voor procesbegeleiding ten behoeve van de uitvoering van een scan of studie.
+
+4. In afwijking van [artikel 11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=11) berekent de aanvrager de subsidiabele kosten overeenkomstig de vaste-uurtarief-systematiek, bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=14).
+
+##### Artikel 4.16.5. Verdeling van het subsidieplafond
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen om subsidieverlening.
+
+##### Artikel 4.16.6. Realisatietermijn
+
+De termijn, bedoeld in [artikel 23, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=23), voor een studie is één jaar.
+
+##### Artikel 4.16.7. Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag om subsidieverlening, indien:
+
+- a. de aanvrager voor een scan of een beoogde energiehub-partner eerder in één van die hoedanigheden betrokken was bij een dergelijke scan waarvoor op grond van deze titel subsidie is verstrekt;
+
+- b. de aanvrager voor een studie of een bestaande energiehub-partner eerder in één van die hoedanigheden betrokken was bij:
+
+   - 1°. een studie gericht op de vorming van een energiehub waarvoor op grond van deze titel subsidie is verstrekt, voor zover de aanvraag betrekking heeft op een dergelijke studie;
+
+   - 2°. een studie gericht op de uitbreiding van een bestaande energiehub waarvoor op grond van deze titel subsidie is verstrekt, voor zover de aanvraag betrekking heeft op een dergelijke studie;
+
+- c. de kwaliteit van het plan van aanpak, bedoeld in [artikel 4.16.9, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.9&z=2026-09-03&g=2026-09-03), onvoldoende is, blijkend uit de mate waarin de beschikbare middelen effectief en efficiënt worden ingezet.
+
+##### Artikel 4.16.8. Verplichtingen subsidieontvanger
+
+1. De subsidieontvanger verleent op verzoek van de minister medewerking aan het verspreiden van de resultaten van en medewerking aan een evaluatie van de effecten van de op grond van deze titel gesubsidieerde activiteiten.
+
+2. De subsidieontvanger neemt gedurende de looptijd van een studie deel aan het provinciale uitvoeringsprogramma, indien aanwezig, in de provincie waar de beoogde energiehub zal worden gevormd dan wel waar de beoogde uitbreiding van de energiehub zal plaatsvinden.
+
+##### Artikel 4.16.9. Informatieverplichtingen
+
+Een aanvraag om subsidieverlening bevat ten minste:
+
+- a. gegevens over de aanvrager, waaronder de naam, het post- en bezoekadres en het rekeningnummer van de aanvrager en, voor zover van toepassing, het nummer waarmee de aanvrager is geregistreerd bij de Kamer van Koophandel;
+
+- b. het vestigingsnummer van de aanvrager, tenzij deze een juridische entiteit ten behoeve van een energiehub is, en elke energiehub-partner;
+
+- c. indien sprake is van een bestaande energiehub, een beschrijving van de inrichting en werkwijze daarvan;
+
+- d. een verklaring dat de aanvrager en ten minste twee beoogde dan wel bestaande energiehub-partners over een grote aansluiting beschikken, tenzij deze een juridische entiteit ten behoeve van een energiehub is en niet over een grote aansluiting beschikt;
+
+- e. de EAN-code van de aansluiting van:
+
+   - 1°. de aanvrager, tenzij deze een juridische entiteit ten behoeve van een energiehub is en niet over een aansluiting beschikt;
+
+   - 2°. elke energiehub-partner, indien deze over een aansluiting beschikt;
+
+- f. een verklaring dat elke beoogde energiehub-partner dan wel, voor zover van toepassing, elke toetredende energiehub-partner een intentieverklaring heeft ondertekend waarin zij verklaart:
+
+   - 1°. actief deel te nemen aan de uitvoering van de scan dan wel studie; en
+
+   - 2°. zich in te spannen voor de vorming van de energiehub dan wel voor de toetreding tot een bestaande energiehub, teneinde bij te dragen aan de uitbreiding van de energiehub;
+
+- g. het nummer van de aanmelding van de beoogde dan wel bestaande energiehub op de initiatievenradar van het Kennisplatform Energiehubs;
+
+- h. een door de distributiesysteembeheerder verstrekt overzicht waaruit blijkt op welke ring de aanvrager, tenzij deze een juridische entiteit ten behoeve van een energiehub is, en energiehub-partners zijn aangesloten, tenzij de energiehub een samenwerking op het transmissiesysteem betreft, in welk geval een schriftelijke verklaring van de distributiesysteembeheerder wordt overlegd waaruit blijkt dat de aanvrager en energiehub-partners op dat niveau kunnen samenwerken;
+
+- i. een door de minister beschikbaar gesteld ingevuld format over de individuele energiehuishouding van:
+
+   - 1°. de aanvrager en elke beoogde energiehub-partner, indien de aanvraag betrekking heeft op vorming van een energiehub;
+
+   - 2°. voor zover van toepassing, een toetredende energiehub-partner, indien de aanvraag betrekking heeft op de uitbreiding van een energiehub;
+
+- j. een grafiek van het huidige collectieve gebruiksprofiel van de elektriciteitsvraag van de beoogde dan wel bestaande energiehub;
+
+- k. een beschrijving van de toekomstige collectieve activiteiten en de bijbehorende collectieve vraag naar energie van de beoogde dan wel bestaande energiehub;
+
+- l. indien de aanvraag betrekking heeft op een scan, een overzicht van ten minste drie maatregelenpakketten in een door de minister beschikbaar gesteld format, voorzien van een onderbouwde keuze voor het meest geschikte maatregelenpakket dan wel een onderbouwing waarom geen van de verkende maatregelenpakketten geschikt is;
+
+- m. indien de aanvraag betrekking heeft op een studie, een plan van aanpak inhoudende een beschrijving van:
+
+   - 1°. het doel van de studie;
+
+   - 2°. de maatregelen die worden onderzocht en de onderbouwing van de keuze voor deze maatregelen;
+
+   - 3°. de wijze van onderzoek van de organisatorische, technische, financiële en juridische ontwerpaspecten;
+
+   - 4°. de uit te voeren taken, de partij die deze uitvoert en de wijze en plaats van uitvoering van deze taken;
+
+   - 5°. de planning;
+
+   - 6°. het financieringsplan.
+
+##### Artikel 4.16.10. Aanvraag subsidievaststelling
+
+1. In afwijking van [artikel 50 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50) houdt de beschikking tot subsidieverlening, bedoeld in [artikel 4.16.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.2&z=2026-09-03&g=2026-09-03), tevens de beschikking tot subsidievaststelling in.
+
+2. Indien uit een studie volgt dat de vorming dan wel uitbreiding van een energiehub kansrijk is, geeft het eindverslag dat bij de aanvraag voor subsidievaststelling voor die studie wordt ingediend, bedoeld in [artikel 50, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024796&artikel=50), in ieder geval inzicht in de volgende gegevens, voor zover subsidie is verleend voor het betreffende onderdeel van het ontwerp, bedoeld in [artikel 4.16.2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.2&z=2026-09-03&g=2026-09-03):
+
+- a. de maatregelen gericht op het gezamenlijk organiseren van efficiënter of verminderd gebruik van de transportcapaciteit op het deel van het distributie- of transmissiesysteem waarop de beoogde dan wel bestaande energiehub-partners zijn aangesloten;
+
+- b. indien een maatregel als bedoeld in onderdeel a een groepstransportovereenkomst met de distributiesysteembeheerder dan wel transmissiesysteembeheerder betreft, het ontwerp van de contractvoorwaarden met de betreffende systeembeheerder en de vaststelling van de limieten van het groeps-gecontracteerd transportvermogen;
+
+- c. indien een studie heeft geleid tot de keuze voor een rechtsvorm dan wel de wijziging van een bestaande rechtsvorm:
+
+   - 1°. de ondernomen acties om tot een rechtsvorm te komen dan wel een bestaande rechtsvorm te wijzigen en de keuze voor de betreffende rechtsvorm;
+
+   - 2°. de oprichtingsakte en statuten, inclusief afspraken over de toe- en uittreding van ondernemingen;
+
+   - 3°. een bij de rechtsvorm passende overeenkomst met de leden of aandeelhouders;
+
+- d. indien de studie niet heeft geleid tot de keuze voor een rechtsvorm dan wel de wijziging van een bestaande rechtsvorm, een beschrijving van de ondernomen acties, onderzochte rechtsvormen en redenen die tot deze conclusie hebben geleid;
+
+- e. het ontwerp van de juridische afspraken tussen de aanvrager en beoogde energiehub-partners dan wel het ontwerp van de gewijzigde juridische afspraken tussen de bestaande energiehub-partners;
+
+- f. de businesscase voor de komende drie jaar, inclusief:
+
+   - 1°. een beschrijving van de kosten en baten en de wijze waarop deze kosten worden terugverdiend;
+
+   - 2°. een verrekenmodel voor de onderlinge afspraken en, voor zover van toepassing, de verdeelsleutel voor de afrekening van kosten en vergoedingen voor het gebruik van capaciteit of energie;
+
+   - 3°. een uitwerking van de financiering van de opstart.
+
+3. In aanvulling op het tweede lid, geeft het eindverslag, voor de onderdelen van het ontwerp waarvoor geen subsidie is verleend, inzicht in de ondernomen acties op dat gebied en de keuzes die daaruit zijn voortgevloeid.
+
+4. Indien uit een studie volgt dat de vorming dan wel uitbreiding van een energiehub niet kansrijk is, geeft het eindverslag in ieder geval inzicht in:
+
+- a. de ondernomen acties voor de studie;
+
+- b. de betrokkenen bij de studie;
+
+- c. de onderzochte maatregelenpakketten en redenen die hebben geleid tot de conclusie dat de vorming dan wel uitbreiding van de energiehub niet kansrijk is;
+
+- d. de omstandigheden waaronder de vorming dan wel uitbreiding van een energiehub wel kansrijk zou zijn.
+
+5. Onverminderd het tweede en vierde lid geeft het eindverslag inzicht in de wijze waarop de subsidieontvanger uitvoering heeft gegeven aan de verplichting tot deelname aan het provinciaal uitvoeringsprogramma, bedoeld in [artikel 4.16.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.8&z=2026-09-03&g=2026-09-03).
+
+##### Artikel 4.16.11. Kennisverspreiding
+
+De minister kan de niet-bedrijfsgevoelige kennis en informatie die met een scan of studie zijn opgedaan, gebruiken voor de uitvoering van en openbare kennisverspreiding binnen het Stimuleringsprogramma Energiehubs.
+
+##### Artikel 4.16.12. Staatssteun
+
+De subsidie, bedoeld in [artikel 4.16.2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&hoofdstuk=4&titeldeel=4.16&artikel=4.16.2&z=2026-09-03&g=2026-09-03), bevat geen staatssteun.
+
+##### Artikel 4.16.13. Vervaltermijn
+
+Deze titel vervalt met ingang van 01-10-2031, met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn verleend.
 
 ### Hoofdstuk 4a. Telecommunicatie
 

@@ -1,289 +1,60 @@
 ---
 title: "Reglement van de Koninklijke Bibliotheek 2024"
 identifier: "BWBR0050903"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-04-01"
-last_updated: "2025-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050903"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17395223"
-version_id: "30668642"
-internal_id: "C43966831"
-label_id: "17298734"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050903/2025-04-01/0"
-intitule_bron: "Stcrt.2025-11003"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2024-11-26"
-intitule_published: "2025-03-31"
-intitule_in_force: "2025-03-31"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-11003"
-original_signed_date: "2024-11-26"
-original_published_date: "2025-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-11003"
-entry_into_force_date: "2025-04-01"
-jci_1_3: "jci1.3:c:BWBR0050903&z=2025-04-01&g=2025-04-01"
-jci_1_0: "1.0:c:BWBR0050903&g=2025-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2024-11-26"
-entry_into_force: "2025-04-01"
+publicatiedatum: 2025-04-01
+laatste_update: 2025-04-01
+status: geldig
+toestand: 2025-04-01
+bron: "https://wetten.overheid.nl/BWBR0050903"
+opgehaald: 2026-09-08
 ---
+
 # Reglement van de Koninklijke Bibliotheek 2024
 
 ### Hoofdstuk 1. Inleidende bepalingen
-
-### Hoofdstuk 2. Algemeen bestuurscollege
-
-### Hoofdstuk 2. Algemeen bestuurscollege
-
-### Hoofdstuk 4. De organisatie
-
-### Hoofdstuk 5. Openbaarheid en tarieven
-
-### Hoofdstuk 6. Rechtsbescherming
-
-### Hoofdstuk 7. Overgangs- en slotbepalingen
-
-## Bijlage 1. Besluit mandaat-, volmacht- en machtigingsregeling koninklijke bibliotheek 2022
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op de bepalingen in [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gelet op de bepalingen in de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886);
-
-Gelet op titel 3 van het Burgerlijk Wetboek;
-
-Gelet op de bepalingen in de [Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
-
-Gelet op de bepalingen in de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 96/46/EG](31996L0046) (verder: Algemene Verordening Gegevensbescherming) en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
-
-Gelet op de bepalingen in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
-
-Gelet op de bepalingen in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
-
-Gelet op de bepalingen in de [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878) en;
-
-Gelet op [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=2&artikel=2.1&z=2025-04-01&g=2025-03-12) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=3&artikel=3.1&z=2025-04-01&g=2025-03-12) van het Reglement van de Koninklijke Bibliotheek
-
-Besluit:
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek mandaten, volmachten en machtigingen ter uitvoering van de taken en bevoegdheden ten aanzien van de Koninklijke Bibliotheek te verlenen;
-
-### Artikel 1
-
-### Artikel 2
-
-De Algemeen Directeur heeft de bevoegdheid mandaat, volmacht en machtiging te verlenen voor ondertekening van uitvoeringstechnische zaken.
-
-### Artikel 3
-
-### Artikel 4
-
-De ondertekening van documenten namens het Algemeen Bestuurscollege luidt als volgt: “namens het Algemeen Bestuurscollege van de Koninklijke Bibliotheek, (naam), Algemeen Directeur van de Koninklijke Bibliotheek”.
-
-### Artikel 5
-
-### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit Mandaat-, Volmacht-, en Machtigingsregeling Koninklijke Bibliotheek 2022.
-
-## Bijlage 2. Besluit volmachtsregeling personeelsbeleid/ personeelsbeheer koninklijke bibliotheek 2022
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op de bepalingen in [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
-
-Gelet op de bepalingen in de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886);
-
-### Artikel 1
-
-### Artikel 2
-
-Gelet op de bepalingen in de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 96/46/EG](31996L0046) (verder: Algemene Verordening Gegevensbescherming) en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
-
-### Artikel 3
-
-Gelet op de bepalingen in de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
-
-### Artikel 4
-
-### Artikel 5
-
-Besluit:
-
-### Artikel 6
-
-### Artikel 1
-
-Dit besluit wordt aangehaald als: Besluit Volmachtsregeling personeelsbeleid/personeelsbeheer Koninklijke Bibliotheek 2022.
-
-## Bijlage 3. Besluit mandaatregeling algemeen directeur koninklijke bibliotheek algemene verordening gegevensbescherming 2022
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op de bepalingen in de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 96/46/EG](31996L0046) (verder: Algemene Verordening Gegevensbescherming) en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
-
-De ondertekening van documenten namens het Algemeen Bestuurscollege luidt als volgt: “namens het Algemeen Bestuurscollege van de Koninklijke Bibliotheek, (naam), Algemeen Directeur van de Koninklijke Bibliotheek”.
-
-Besluit:
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek het navolgende mandaat te verlenen:
-
-### Artikel 1. Bevoegdheden
-
-### Artikel 2. (Onder)mandaat
-
-### Artikel 3. Slotbepalingen
-
-## Bijlage 4. Besluit mandaatregeling subsidie koninklijke bibliotheek 2022
-
-Besluit:
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek de navolgende volmachten inzake personeelsbeleid/ personeelsbeheer, het vaststellen en wijzigen van de (collectieve) arbeidsvoorwaarden en het aangaan, wijzigen en beëindigen van de arbeidsovereenkomsten te verlenen.
-
-Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) en [artikel 20 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20);
-
-Besluit:
-
-De Algemeen Directeur is gevolmachtigd om namens het Algemeen Bestuurscollege het overleg te voeren met de daarvoor in aanmerking komende verenigingen van werknemers.
-
-### Artikel 3
-
-### Artikel 2
-
-De uitoefening van het mandaat strekt zich niet uit tot het beslissen op een bezwaarschrift ([artikel 10:3 lid 3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3)).
-
-### Artikel 5
-
-De ondertekening van documenten namens het Algemeen Bestuurscollege luidt als volgt: “namens het Algemeen Bestuurscollege van de Koninklijke Bibliotheek, (naam), Algemeen Directeur van de Koninklijke Bibliotheek”.
-
-### Artikel 6
-
-De ondertekening van uitgaande stukken luidt als volgt: ‘namens het Algemeen Bestuurscollege van de Koninklijke Bibliotheek, (naam), Algemeen Directeur van de Koninklijke Bibliotheek’.
-
-### Artikel 5
-
-### Artikel 6
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-## Bijlage 5A. De regeling bezwarenprocedure koninklijke bibliotheek 2024
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 5B. Besluit herbenoeming adviescommissie subsidie regeling bezwarenprocedure koninklijke bibliotheek 2023
-
-Besluit:
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek het navolgende mandaat te verlenen:
-
-Besluit:
-
-### Artikel 2. (Onder)mandaat
-
-### Artikel 3. Slotbepalingen
-
-### Artikel 3
-
-## Bijlage 6. Reglement koninklijke bibliotheek 2023
-
-### Klachtregeling Koninklijke Bibliotheek
-
-Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) en [artikel 20 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20);
-
-Besluit:
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek het navolgende mandaat te verlenen.
-
-### Artikel 1
-
-### Artikel 2
-
-De uitoefening van het mandaat strekt zich niet uit tot het beslissen op een bezwaarschrift ([artikel 10:3 lid 3 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3)).
-
-### Artikel 3
-
-### Artikel 3. Klachtrecht
-
-### Artikel 4
-
-### Artikel 4. Mondelinge klachten
-
-### Artikel 5
-
-### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit Mandaatregeling subsidie Koninklijke Bibliotheek 2022.
-
-### Artikel 7. Niet ontvankelijkheid
-
-### Hoofdstuk 3. Klachtbehandelaar en klachtregistratie
-
-### Artikel 8. Coördinator klachtbehandeling
-
-### Artikel 9. Klachtregistratie
-
-### Hoofdstuk 1. Algemene bepalingen
-
-### Artikel 1. Begripsbepalingen
-
-### Hoofdstuk 5. Formele klachtbehandeling
-
-### Artikel 2. Reikwijdte Regeling
-
-### Artikel 12. Klachtafdoening
-
-### Hoofdstuk 2. Procedure
-
-### Artikel 3. Bezwaar
-
-### Artikel 4. Inhoud bezwaarschrift
-
-Het bezwaarschrift wordt overeenkomstig [artikel 6:5 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) ondertekend en bevat tenminste:
-
-### Artikel 5. Herstellen verzuim
 
 ##### Artikel 1.1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-- a. **Algemeen Bestuurscollege:** het algemeen bestuur van de Koninklijke Bibliotheek zoals bedoeld in [artikel 13.3 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3);
+- a. *Algemeen Bestuurscollege:* het algemeen bestuur van de Koninklijke Bibliotheek zoals bedoeld in [artikel 13.3 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3);
 
-- b. **AVG:** Algemene Verordening Gegevensbescherming;
+- b. *AVG:* Algemene Verordening Gegevensbescherming;
 
-- c. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- c. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- d. **BW:** Burgerlijk Wetboek;
+- d. *BW:* Burgerlijk Wetboek;
 
-- e. **Directeur-bibliothecaris:** de bibliothecaris van de Koninklijke Bibliotheek zoals bedoeld in [artikel 13.5 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.5), aangeduid als Algemeen Directeur;
+- e. *Directeur-bibliothecaris:* de bibliothecaris van de Koninklijke Bibliotheek zoals bedoeld in [artikel 13.5 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.5), aangeduid als Algemeen Directeur;
 
-- f. **Instellingsbestuur:** het Algemeen Bestuurscollege. (Ontleend aan [art. 13.3, lid 1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
+- f. *Instellingsbestuur:* het Algemeen Bestuurscollege. (Ontleend aan [art. 13.3, lid 1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
-- g. **Kaderwet:** [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
+- g. *Kaderwet:*
+ [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
-- h. **Machtiging:** Een handeling zijnde noch een publiekrechtelijke noch een privaatrechtelijke rechtshandeling. Het betreft het doen van feitelijke handelingen.
+- h. *Machtiging:* Een handeling zijnde noch een publiekrechtelijke noch een privaatrechtelijke rechtshandeling. Het betreft het doen van feitelijke handelingen.
 
-- i. **Mandaat:** De bevoegdheid om in naam van een bestuursorgaan besluiten te nemen. Degene aan wie een bevoegdheid is gemandateerd, mag die bevoegdheid (onder)mandateren aan hiërarchische ondergeschikten.
+- i. *Mandaat:* De bevoegdheid om in naam van een bestuursorgaan besluiten te nemen. Degene aan wie een bevoegdheid is gemandateerd, mag die bevoegdheid (onder)mandateren aan hiërarchische ondergeschikten.
 
-- j. **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap;
+- j. *Onze Minister:* Onze Minister van Onderwijs, Cultuur en Wetenschap;
 
-- k. **Schakelbepaling:** De bepalingen in [artikel 10: 12 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) omtrent mandaat zijn van overeenkomstige toepassing op volmacht en machtiging.
+- k. *Schakelbepaling:* De bepalingen in [artikel 10: 12 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) omtrent mandaat zijn van overeenkomstige toepassing op volmacht en machtiging.
 
-- l. **Volmacht:** De bevoegdheid om in naam van een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten.
+- l. *Volmacht:* De bevoegdheid om in naam van een bestuursorgaan privaatrechtelijke rechtshandelingen te verrichten.
 
-- m. **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- m. *WHW:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- n. **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
+- n. *Woo:*
+ [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754);
 
-- o. **Wsob:** [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878);
+- o. *Wsob:*
+ [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878);
+
+### Hoofdstuk 2. Algemeen bestuurscollege
 
 ##### Artikel 2.1. Taken en bevoegdheden
 
@@ -297,11 +68,11 @@ De Koninklijke Bibliotheek is als nationale bibliotheek werkzaam op het gebied v
 
 - b. het aansturen van het netwerk van openbare bibliotheekvoorzieningen door:
 
-- 1. afstemming en coördinatie;
+   - 1. afstemming en coördinatie;
 
-- 2. educatie, informatie en reflectie; en
+   - 2. educatie, informatie en reflectie; en
 
-- 3. vertegenwoordiging en promotie;
+   - 3. vertegenwoordiging en promotie;
 
 - c. het in stand houden van de landelijke digitale bibliotheek; en
 
@@ -361,7 +132,7 @@ De voorzitter wordt bij afwezigheid of ontstentenis vervangen door het langst zi
 
 ##### Artikel 2.8. Begroting
 
-1. Het Algemeen Bestuurscollege stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, de begroting vast. Het besluit tot vaststelling van de begroting behoeft de goedkeuring van Onze Minister. Het Algemeen Bestuurscollege zendt jaarlijks voor 1 oktober aan Onze Minister de begroting voor het daaropvolgende jaar.(Ontleend aan [art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en aan [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29)).
+1. Het Algemeen Bestuurscollege stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, de begroting vast. Het besluit tot vaststelling van de begroting behoeft de goedkeuring van Onze Minister. Het Algemeen Bestuurscollege zendt jaarlijks voor 1 oktober aan Onze Minister de begroting voor het daaropvolgende jaar.(Ontleend aan [art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en aan [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29)).
 
 2. De begroting behelst een voorstel aan Onze Minister over het bedrag dat in het betreffende jaar in de rijksbegroting zal worden opgenomen en een voorstel aan Onze Minister aangaande de in het betreffende jaar te hanteren tarieven. Indien de Koninklijke Bibliotheek andere baten of inkomsten raamt, worden deze afzonderlijk vermeld en van een toelichting voorzien. (Ontleend aan [art. 28 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=28)).
 
@@ -377,7 +148,7 @@ De voorzitter wordt bij afwezigheid of ontstentenis vervangen door het langst zi
 
 ##### Artikel 2.9. Verslag
 
-1. Het Algemeen Bestuurscollege dient jaarlijks voor 15 maart bij Onze Minister een verslag en jaarrekening in. Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister. (Ontleend aan [art. 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [art. 34 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [art. 2.9, lid 6 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.9)).
+1. Het Algemeen Bestuurscollege dient jaarlijks voor 15 maart bij Onze Minister een verslag en jaarrekening in. Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister. (Ontleend aan [art. 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [art. 34 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [art. 2.9, lid 6 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.9)).
 
 2. Het jaarverslag wordt aan beide kamers der Staten-Generaal toegezonden. (Ontleend aan [art. 18, lid 2 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18)).
 
@@ -451,11 +222,11 @@ De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen 
 
 2. Het Algemeen Bestuurscollege heeft de volgende bijzondere regelingen vastgesteld;
 
-- a). Besluit Volmachtsregeling personeelsbeleid/ personeelsbeheer Koninklijke Bibliotheek 2022 ([Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=2&z=2025-04-01&g=2025-04-01)).
+- a) Besluit Volmachtsregeling personeelsbeleid/ personeelsbeheer Koninklijke Bibliotheek 2022 ([Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=2&z=2025-04-01&g=2025-04-01)).
 
-- b). Besluit Mandaatregeling Algemeen Directeur Koninklijke Bibliotheek Algemene Verordening Gegevensbescherming 2022 ([Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=3&z=2025-04-01&g=2025-04-01)).
+- b) Besluit Mandaatregeling Algemeen Directeur Koninklijke Bibliotheek Algemene Verordening Gegevensbescherming 2022 ([Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=3&z=2025-04-01&g=2025-04-01)).
 
-- c). Besluit Mandaatregeling subsidie Koninklijke Bibliotheek 2022 ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=4&z=2025-04-01&g=2025-04-01)).
+- c) Besluit Mandaatregeling subsidie Koninklijke Bibliotheek 2022 ([Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=4&z=2025-04-01&g=2025-04-01)).
 
 ### Hoofdstuk 5. Openbaarheid en tarieven
 
@@ -481,208 +252,16 @@ Het Algemeen Bestuurscollege verschaft desgevraagd alsmede uit eigen beweging in
 
 3. Het Algemeen Bestuurscollege heeft de volgende bijzondere reglementen vastgesteld;
 
-- a). De Regeling Bezwarenprocedure Koninklijke Bibliotheek ([Bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5A&z=2025-04-01&g=2025-04-01)).
+- a) De Regeling Bezwarenprocedure Koninklijke Bibliotheek ([Bijlage 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5A&z=2025-04-01&g=2025-04-01)).
 
-- b). De Klachtregeling Koninklijke Bibliotheek ([Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01)).
+- b) De Klachtregeling Koninklijke Bibliotheek ([Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01)).
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
 ##### Artikel 7.1. Vervanging Reglement van de Koninklijke Bibliotheek van 7 februari 2023
 
-Dit reglement vervangt het [Reglement van de Koninklijke Bibliotheek van 7 februari 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047906)
+Dit reglement vervangt het [Reglement van de Koninklijke Bibliotheek van 7 februari 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047906)
 
 ##### Artikel 7.2. Inwerkingtreding
 
-Het reglement treedt in werking een dag na bekendmaking van de vaststelling ervan in de Staatscourant. Hierbij werken de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=1&z=2025-04-01&g=2025-04-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5B&z=2025-04-01&g=2025-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01) terug tot en met 12 maart 2025.
-
-## Bijlage 1. Besluit mandaat-, volmacht- en machtigingsregeling koninklijke bibliotheek 2022
-
-Gelet op titel 3 van het Burgerlijk Wetboek;
-
-Gelet op de bepalingen in de [Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
-
-Gelet op de bepalingen in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
-
-Gelet op de bepalingen in de [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878) en;
-
-Gelet op [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=2&artikel=2.1&z=2025-04-01&g=2025-04-01) en [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=3&artikel=3.1&z=2025-04-01&g=2025-04-01) van het Reglement van de Koninklijke Bibliotheek
-
-De directeur-bibliothecaris (hierna aangeduid als: Algemeen Directeur) van de Koninklijke Bibliotheek mandaten, volmachten en machtigingen ter uitvoering van de taken en bevoegdheden ten aanzien van de Koninklijke Bibliotheek te verlenen;
-
-### Artikel 2
-
-De Algemeen Directeur heeft de bevoegdheid mandaat, volmacht en machtiging te verlenen voor ondertekening van uitvoeringstechnische zaken.
-
-### Artikel 3
-
-### Artikel 4
-
-### Artikel 5
-
-### Artikel 6
-
-Dit besluit wordt aangehaald als: Besluit Mandaat-, Volmacht-, en Machtigingsregeling Koninklijke Bibliotheek 2022.
-
-## Bijlage 2. Besluit volmachtsregeling personeelsbeleid/ personeelsbeheer koninklijke bibliotheek 2022
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=3&artikel=3.1&z=2025-04-01&g=2025-04-01) en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=4&artikel=4.1&z=2025-04-01&g=2025-04-01) van het Reglement van de Koninklijke Bibliotheek;
-
-### Artikel 1
-
-### Artikel 2
-
-De Algemeen Directeur heeft de bevoegdheid volmacht te verlenen voor ondertekening van uitvoeringstechnische zaken.
-
-### Artikel 4
-
-### Artikel 7
-
-Dit besluit wordt aangehaald als: Besluit Volmachtsregeling personeelsbeleid/personeelsbeheer Koninklijke Bibliotheek 2022.
-
-## Bijlage 3. Besluit mandaatregeling algemeen directeur koninklijke bibliotheek algemene verordening gegevensbescherming 2022
-
-Gelet op de bepalingen in de [Verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 96/46/EG](31996L0046) (verder: Algemene Verordening Gegevensbescherming) en de [Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940);
-
-Gelet op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=3&artikel=3.1&z=2025-04-01&g=2025-04-01) en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=4&artikel=4.1&z=2025-04-01&g=2025-04-01) van het Reglement van de Koninklijke Bibliotheek;
-
-### Artikel 1. Bevoegdheden
-
-## Bijlage 4. Besluit mandaatregeling subsidie koninklijke bibliotheek 2022
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=3&artikel=3.1&z=2025-04-01&g=2025-04-01) en [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=4&artikel=4.1&z=2025-04-01&g=2025-04-01) van het Bestuursreglement van de Koninklijke Bibliotheek;
-
-De Algemeen Directeur heeft de bevoegdheid ondertekeningsmandaat te verlenen voor uitvoeringstechnische zaken.
-
-De ondertekening van uitgaande stukken luidt als volgt: ‘namens het Algemeen Bestuurscollege van de Koninklijke Bibliotheek, (naam), Algemeen Directeur van de Koninklijke Bibliotheek’.
-
-## Bijlage 5A. De regeling bezwarenprocedure koninklijke bibliotheek 2024
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op de [hoofstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) en [artikel 6.1 lid 3 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01) van het Reglement van de Koninklijke Bibliotheek;
-
-Besluit onderstaande regeling met betrekking tot de bezwaarprocedure van de Koninklijke Bibliotheek vast te stellen:
-
-In deze regeling wordt verstaan onder:
-
-Deze regeling is van toepassing op te nemen beslissingen op bezwaarschriften inzake bestuursrechtelijke aangelegenheden op het gehele publieke werkterrein van de Koninklijke Bibliotheek, met uitzondering van bezwaren inzake personele aangelegenheden.
-
-Indien niet is voldaan aan [artikel 7 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) kan het bezwaar niet ontvankelijk worden verklaard, mits de belanghebbende in de gelegenheid is gesteld het verzuim te herstellen, binnen een hem daartoe gestelde redelijke termijn.
-
-### Artikel 6. Termijn
-
-### Artikel 7. Ontvangstbevestiging
-
-De ontvangst van het bezwaarschrift wordt schriftelijk bevestigd.
-
-### Artikel 8. Géén opschortende werking
-
-Het bezwaar schorst niet de werking van het bestreden besluit, tenzij bij of krachtens wettelijk voorschrift anders is bepaald.
-
-### Hoofdstuk 3. Adviescommissie
-
-### Artikel 9. Advies aanvragen Adviescommissie Subsidie
-
-### Artikel 10. Samenstelling
-
-### Artikel 11. Géén advies aanvragen
-
-Geen advies wordt gevraagd indien:
-
-### Artikel 12. Behandeling bezwaarschrift
-
-### Artikel 13. Het uitbrengen van het advies
-
-Na de zitting gaat een adviescommissie over tot beraadslaging over het uit te brengen advies.
-
-### Hoofdstuk 4. De beslissing op bezwaar
-
-### Artikel 14. De termijn
-
-### Artikel 15. Het besluit
-
-### Hoofdstuk 5. Slotbepalingen
-
-### Artikel 16. Hardheidsclausule
-
-In gevallen waarin deze regeling niet voorziet besluit de Algemeen Directeur.
-
-### Artikel 17. Inwerkingtreding
-
-De Regeling Bezwarenprocedure Koninklijke Bibliotheek treedt in werking een dag na bekendmaking van de vaststelling ervan in de Staatscourant.
-
-## Bijlage 5B. Besluit herbenoeming adviescommissie subsidie regeling bezwarenprocedure koninklijke bibliotheek 2023
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047906&bijlage=5a) en [10 van de Regeling Bezwarenprocedure Koninklijke Bibliotheek 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047906&bijlage=5a);
-
-Besluit:
-
-### Artikel 1
-
-### Artikel 2
-
-### Artikel 3
-
-## Bijlage 6. Reglement koninklijke bibliotheek 2023
-
-### Klachtregeling Koninklijke Bibliotheek
-
-Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek,
-
-Gelet op [Hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en [artikel 6.1 lid 3 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&hoofdstuk=6&artikel=6.1&z=2025-04-01&g=2025-04-01) van het Reglement van de Koninklijke Bibliotheek;
-
-Besluit onderstaande regeling met betrekking tot de klachtenprocedure van de Koninklijke Bibliotheek vast te stellen:
-
-### Hoofdstuk 1. Algemene bepalingen
-
-### Artikel 1. Begripsbepalingen
-
-In deze regeling wordt verstaan onder:
-
-### Artikel 2. Doel en reikwijdte
-
-### Artikel 3. Klachtrecht
-
-### Hoofdstuk 2. De wijze van indienen en ontvankelijkheid van klachten
-
-### Artikel 4. Mondelinge klachten
-
-### Artikel 5. Schriftelijke klachten
-
-### Artikel 6. Ontvangstbevestiging
-
-De KB bevestigt de ontvangst van de klacht schriftelijk ([artikel 9:6 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:6)) en zo spoedig mogelijk en in ieder geval binnen twee weken na ontvangst van de klacht.
-
-### Artikel 7. Niet ontvankelijkheid
-
-### Hoofdstuk 3. Klachtbehandelaar en klachtregistratie
-
-### Artikel 8. Coördinator klachtbehandeling
-
-### Artikel 9. Klachtregistratie
-
-### Hoofdstuk 4. Informele klachtafhandeling
-
-### Artikel 10. Informele klachtbehandeling
-
-### Hoofdstuk 5. Formele klachtbehandeling
-
-### Artikel 11. Gelegenheid tot horen
-
-### Artikel 12. Klachtafdoening
-
-### Artikel 13. Geen beroep en klacht Nationale ombudsman
-
-### Hoofdstuk 6. Inwerkingtreding
-
-### Artikel 14. Hardheidsclausule
-
-In gevallen waarin deze regeling niet voorziet beslist de Algemeen Directeur.
-
-### Artikel 15. Inwerkingtreding
+Het reglement treedt in werking een dag na bekendmaking van de vaststelling ervan in de Staatscourant. Hierbij werken de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=1&z=2025-04-01&g=2025-04-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5B&z=2025-04-01&g=2025-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01) terug tot en met 12 maart 2025.

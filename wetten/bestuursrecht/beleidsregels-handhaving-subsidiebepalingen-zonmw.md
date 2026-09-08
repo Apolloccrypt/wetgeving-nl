@@ -1,50 +1,22 @@
 ---
 title: "Besluit van het bestuur van ZonMw van 27 augustus 2025, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen ZonMw in verband met het verlagen van de subsidievaststelling bij het niet tijdig voldoen aan de aanlevering van de controle- of Sisa-verklaring en het ontbreken van een goedkeurende accountantsverklaring"
+citeertitel: "Beleidsregels handhaving subsidiebepalingen ZonMw"
 identifier: "BWBR0051442"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-03"
-last_updated: "2025-09-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051442"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17511283"
-version_id: "30898642"
-internal_id: "C44274331"
-label_id: "17413394"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051442/2025-09-03/0"
-intitule_bron: "Stcrt.2025-30140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-27"
-intitule_published: "2025-09-01"
-intitule_in_force: "2025-09-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-30140"
-original_signed_date: "2025-08-27"
-original_published_date: "2025-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-30140"
-entry_into_force_date: "2025-09-03"
-jci_1_3: "jci1.3:c:BWBR0051442&z=2025-09-03&g=2025-09-03"
-jci_1_0: "1.0:c:BWBR0051442&g=2025-09-03"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels handhaving subsidiebepalingen ZonMw"
-signed_date: "2025-08-27"
-entry_into_force: "2025-09-03"
+publicatiedatum: 2025-09-03
+laatste_update: 2025-09-03
+status: geldig
+toestand: 2025-09-03
+bron: "https://wetten.overheid.nl/BWBR0051442"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van het bestuur van ZonMw van 27 augustus 2025, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen ZonMw in verband met het verlagen van de subsidievaststelling bij het niet tijdig voldoen aan de aanlevering van de controle- of Sisa-verklaring en het ontbreken van een goedkeurende accountantsverklaring
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluiten:
-
-De Beleidsregels handhaving subsidiebepalingen ZonMw zijn als volgt:
 
 ##### Artikel 1
 
-1. Deze beleidsregels zijn van toepassing op subsidies met werkelijke kosten vanaf € 125.000 die worden verstrekt door ZonMw.
+1. Deze beleidsregels zijn van toepassing op subsidies met werkelijke kosten vanaf € 125.000 die worden verstrekt door ZonMw.
 
 2. Deze beleidsregels zijn niet van toepassing voor zover bij enig wettelijk voorschrift ten aanzien van een subsidie anders is bepaald.
 
@@ -56,9 +28,11 @@ Iedere subsidieontvanger is verplicht om binnen 13 weken na afloop van het proje
 
 ##### Artikel 3
 
-Een universitair medische centra of universiteit is verplicht om binnen 8 maanden na afloop van enig jaar om het jaaroverzicht (alle in dat jaar afgesloten projecten met een subsidie van € 125.000 of meer) te completeren met een goedkeurende Sisa-verklaring van de accountant.
+Een universitair medische centra of universiteit is verplicht om binnen 8 maanden na afloop van enig jaar om het jaaroverzicht (alle in dat jaar afgesloten projecten met een subsidie van € 125.000 of meer) te completeren met een goedkeurende Sisa-verklaring van de accountant.
 
 ##### Artikel 4
+
+De subsidievaststelling
 
 1. Indien de verklaring 7 maanden na de gestelde termijn niet is aangeleverd (behoudens overmacht) wordt op het bedrag van de vast te stellen subsidie of het relevante subsidieonderdeel een bedrag in mindering gebracht van 10%.
 
@@ -85,5 +59,3 @@ Deze beleidsregels treden in werking met ingang van de tweede dag na de dagteken
 ##### Artikel 7
 
 Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen ZonMw.
-
-Deze beleidsregels worden met de toelichting in de Staatscourant geplaatst.

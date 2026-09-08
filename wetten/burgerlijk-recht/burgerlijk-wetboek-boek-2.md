@@ -9,7 +9,7 @@ laatste_update: 2026-07-01
 status: geldig
 toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0003045"
-opgehaald: 2026-09-07
+opgehaald: 2026-09-08
 ---
 
 # Burgerlijk Wetboek Boek 2, Rechtspersonen

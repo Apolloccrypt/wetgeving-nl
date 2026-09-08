@@ -1,41 +1,17 @@
 ---
 title: "Beheerregeling documentaire informatie Stimuleringsfonds Creatieve Industrie 2025"
 identifier: "BWBR0051337"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051337"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17493283"
-version_id: "30853232"
-internal_id: "C44210401"
-label_id: "17395794"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051337/2025-09-01/0"
-intitule_bron: "Stcrt.2025-25857"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-02"
-intitule_published: "2025-07-30"
-intitule_in_force: "2025-07-30"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-25857"
-original_signed_date: "2025-07-02"
-original_published_date: "2025-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-25857"
-entry_into_force_date: "2025-09-01"
-jci_1_3: "jci1.3:c:BWBR0051337&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0051337&g=2025-09-01"
-citeertitel_status: "officieel"
-signed_date: "2025-07-02"
-entry_into_force: "2025-09-01"
+publicatiedatum: 2025-09-01
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0051337"
+opgehaald: 2026-09-08
 ---
-# Beheerregeling documentaire informatie Stimuleringsfonds Creatieve Industrie 2025
 
-gelet op: [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en [artikel 41, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41), besluit tot vaststelling van de Beheersregeling documentaire informatievoorziening Stimuleringsfonds Creatieve Industrie.
+# Beheerregeling documentaire informatie Stimuleringsfonds Creatieve Industrie 2025
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -43,49 +19,49 @@ gelet op: [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jc
 
 In deze Beheersregeling documentaire informatievoorziening Stichting Stimuleringsfonds Creatieve Industrie wordt verstaan onder:
 
-- 1. **Afdelingshoofd:** het hoofd van een afdeling; Het Stimuleringsfonds heeft de volgende afdelingshoofden:
+- 1. *Afdelingshoofd:* het hoofd van een afdeling; Het Stimuleringsfonds heeft de volgende afdelingshoofden:
 
-- –. Hoofd bedrijfsvoering is verantwoordelijk voor financiën en personeelszaken, IT en informatiebeheer, secretariaat en de juridische zaken rondom HR en AVG;
+   - – Hoofd bedrijfsvoering is verantwoordelijk voor financiën en personeelszaken, IT en informatiebeheer, secretariaat en de juridische zaken rondom HR en AVG;
 
-- –. Hoofd beleid & communicatie is verantwoordelijk voor strategische processen die ten dienste staan van het hele bedrijf, communicatie en beleid, en coördineert het flankerende beleid;
+   - – Hoofd beleid & communicatie is verantwoordelijk voor strategische processen die ten dienste staan van het hele bedrijf, communicatie en beleid, en coördineert het flankerende beleid;
 
-- –. Hoofd subsidies is verantwoordelijk voor de uitvoering van het subsidie proces en de juridische zaken rondom subsidies;
+   - – Hoofd subsidies is verantwoordelijk voor de uitvoering van het subsidie proces en de juridische zaken rondom subsidies;
 
-- 2. **Bestuur:** degene die door de Minister directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie is benoemd zoals bedoeld in [artikel 12 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12). De directeur-bestuurder is eindverantwoordelijk voor alle subsidiebesluiten van het Stimuleringsfonds Creatieve Industrie;
+- 2. *Bestuur:* degene die door de Minister directeur-bestuurder van het Stimuleringsfonds Creatieve Industrie is benoemd zoals bedoeld in [artikel 12 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12). De directeur-bestuurder is eindverantwoordelijk voor alle subsidiebesluiten van het Stimuleringsfonds Creatieve Industrie;
 
-- 3. **Conversie:** de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
+- 3. *Conversie:* de omzetting of overzetting van digitale documenten in een ander bestandsformaat;
 
-- 4. **Documentaire informatie:**
+- 4. *Documentaire informatie:*
 
-- a. Alle documenten, ongeacht hun vorm, door het Stimuleringsfonds Creatieve Industrie ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
+   - a. Alle documenten, ongeacht hun vorm, door het Stimuleringsfonds Creatieve Industrie ontvangen of opgemaakt en naar hun aard bestemd daaronder te berusten;
 
-- b. Alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Stimuleringsfonds Creatieve Industrie zijn overgegaan;
+   - b. Alle documenten, ongeacht hun vorm, met overeenkomstige bestemming, ontvangen of opgemaakt door instellingen of personen, wier rechten of functies op de Stimuleringsfonds Creatieve Industrie zijn overgegaan;
 
-- c. Alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van het Stimuleringsfonds Creatieve Industrie in een archiefbewaarplaats zijn opgenomen om daar te berusten;
+   - c. Alle documenten, ongeacht hun vorm, welke als gevolg van overeenkomsten met of beschikkingen van het Stimuleringsfonds Creatieve Industrie in een archiefbewaarplaats zijn opgenomen om daar te berusten;
 
-- d. Reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
+   - d. Reproducties, ongeacht vorm, welke bij of krachtens de wet in de plaats zijn gesteld van de onder het eerste, tweede of derde lid bedoelde documenten of welke op grond van [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7) zijn vervaardigd;
 
-- 5. **Dossier:** verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
+- 5. *Dossier:* verzameling van documenten, ongeacht hun vorm, die bijeen zijn gebracht op grond van een logisch-inhoudelijk verband en in onderlinge samenhang zijn te raadplegen;
 
-- 6. **Duurzaam informatiebeheer:** informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
+- 6. *Duurzaam informatiebeheer:* informatiebeheer waarbij de toegankelijkheid, authenticiteit en betrouwbaarheid van documentaire informatie wordt gewaarborgd om achteruitgang te voorkomen en tegen te gaan, zodat tenminste honderd jaar na het ontstaan van de archiefstukken deze nog zijn te raadplegen.
 
-- 7. **Migratie:** de overzetting van vastgelegde digitale documenten en toepassings- programmatuur naar een ander platform;
+- 7. *Migratie:* de overzetting van vastgelegde digitale documenten en toepassings- programmatuur naar een ander platform;
 
-- 8. **Overbrenging:** het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
+- 8. *Overbrenging:* het overbrengen van blijvend te bewaren archiefbescheiden naar een archiefbewaarplaats (Nationaal Archief);
 
-- 9. **Selectie:** het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
+- 9. *Selectie:* het geheel van activiteiten gericht op het scheiden van voor blijvende bewaring in aanmerking komende documenten en voor vernietiging op termijn bestemde documenten;
 
-- 10. **Selectielijst:** ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
+- 10. *Selectielijst:* ingevolge [artikel 5 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) voorgeschreven instrument ten behoeve van de waardering van documenten in te bewaren en op termijn te vernietigen documenten;
 
-- 11. **Stimuleringsfonds Creatieve Industrie:** een zelfstandig bestuursorgaan (zbo) onder verantwoordelijkheid van het Ministerie van Onderwijs, Cultuur en Wetenschap;
+- 11. *Stimuleringsfonds Creatieve Industrie:* een zelfstandig bestuursorgaan (zbo) onder verantwoordelijkheid van het Ministerie van Onderwijs, Cultuur en Wetenschap;
 
-- 12. **Vervanging:** gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
+- 12. *Vervanging:* gecontroleerde reproductie van documenten met als doel tot vernietiging van de oorspronkelijke documenten over te kunnen gaan;
 
-- 13. **Vervreemding:** het overdragen van de zorg en het beheer van documenten aan een derde partij;
+- 13. *Vervreemding:* het overdragen van de zorg en het beheer van documenten aan een derde partij;
 
-- 14. **Zorg:** de bestuurlijke verantwoordelijkheid voor het in goede, geordende en toegankelijke staat houden van de documentaire informatie;
+- 14. *Zorg:* de bestuurlijke verantwoordelijkheid voor het in goede, geordende en toegankelijke staat houden van de documentaire informatie;
 
-- 15. **Zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
+- 15. *Zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
 ##### Artikel 2. Reikwijdte
 
@@ -279,4 +255,4 @@ De regeling is van toepassing op het beheer van alle documentaire informatie waa
 
 ##### Artikel 21. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 1 september 2025.
+1. Deze regeling treedt in werking met ingang van 1 september 2025.

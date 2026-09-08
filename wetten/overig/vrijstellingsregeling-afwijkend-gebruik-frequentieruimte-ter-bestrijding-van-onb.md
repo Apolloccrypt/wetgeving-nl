@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 23 april 2025, nr. WJZ/ 98207028, tot vaststelling van voorwaarden van afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele systemen (Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten)"
+citeertitel: "Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten"
 identifier: "BWBR0050979"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-29"
-last_updated: "2025-04-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050979"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17414153"
-version_id: "30704202"
-internal_id: "C44056141"
-label_id: "17317384"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050979/2025-04-29/0"
-intitule_bron: "Stcrt.2025-14259"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-23"
-intitule_published: "2025-04-25"
-intitule_in_force: "2025-04-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-14259"
-original_signed_date: "2025-04-23"
-original_published_date: "2025-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-14259"
-entry_into_force_date: "2025-04-29"
-jci_1_3: "jci1.3:c:BWBR0050979&z=2025-04-29&g=2025-04-29"
-jci_1_0: "1.0:c:BWBR0050979&g=2025-04-29"
-citeertitel_status: "officieel"
-short_title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten"
-signed_date: "2025-04-23"
-entry_into_force: "2025-04-29"
+publicatiedatum: 2025-04-29
+laatste_update: 2025-04-29
+status: geldig
+toestand: 2025-04-29
+bron: "https://wetten.overheid.nl/BWBR0050979"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van de Minister van Economische Zaken van 23 april 2025, nr. WJZ/ 98207028, tot vaststelling van voorwaarden van afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele systemen (Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten)
-
-Gelet op [artikel 3.22, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22) en de [artikelen 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=1.3), [1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=1.4) en [2.3, tweede lid, van het Besluit afwijkend gebruik frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=2.3);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit afwijkend gebruik frequentieruimte in werking treedt.
 
 ### Hoofdstuk 1. Algemeen
 
@@ -48,19 +20,20 @@ Treedt in werking op het tijdstip waarop het Besluit afwijkend gebruik frequenti
 
 In deze regeling wordt verstaan onder:
 
-- –. **azimut:** hoek van het maximaal uitgestraalde vermogen, geprojecteerd op het horizontale vlak, ten opzichte van het geografische noorden;
+- – *azimut:* hoek van het maximaal uitgestraalde vermogen, geprojecteerd op het horizontale vlak, ten opzichte van het geografische noorden;
 
-- –. **besluit:** [Besluit afwijkend gebruik frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0050986);
+- – *besluit:*
+ [Besluit afwijkend gebruik frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0050986);
 
-- –. **eenheid:** organiek onderdeel van de politie, van het Ministerie van Justitie en Veiligheid, of van het Ministerie van Defensie waarbinnen een radiointerventiemiddel voorhanden en aangelegd mag zijn;
+- – *eenheid:* organiek onderdeel van de politie, van het Ministerie van Justitie en Veiligheid, of van het Ministerie van Defensie waarbinnen een radiointerventiemiddel voorhanden en aangelegd mag zijn;
 
-- –. **elevatie:** hoek van het maximaal uitgestraalde vermogen ten opzichte van het horizontale vlak;
+- – *elevatie:* hoek van het maximaal uitgestraalde vermogen ten opzichte van het horizontale vlak;
 
-- –. **ICNIRP-aanbeveling:** ICNIRP guidelines for limiting exposure to electromagnetic fields (100 kHz to 300 GHz): 2020;
+- – *ICNIRP-aanbeveling:* ICNIRP guidelines for limiting exposure to electromagnetic fields (100 kHz to 300 GHz): 2020;
 
-- –. **minister:** minister van Economische Zaken;
+- – *minister:* minister van Economische Zaken;
 
-- –. **radiointerventiemiddel:** apparaat waarvan de inzet tot doel heeft om een onbemand mobiel object tot stoppen te brengen of zodanig te beïnvloeden dat hiermee een dreiging of het gevaar voor de veiligheid wordt afgewend.
+- – *radiointerventiemiddel:* apparaat waarvan de inzet tot doel heeft om een onbemand mobiel object tot stoppen te brengen of zodanig te beïnvloeden dat hiermee een dreiging of het gevaar voor de veiligheid wordt afgewend.
 
 ##### Artikel 2. Vrijstelling
 
@@ -88,13 +61,13 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 - h. indien het radiointerventiemiddel is ingeschakeld, worden door het radiointerventiemiddel of een extern meetapparaat de volgende gegevens geregistreerd:
 
-- 1°. de tijd en duur dat het radiointerventiemiddel aan staat;
+   - 1°. de tijd en duur dat het radiointerventiemiddel aan staat;
 
-- 2°. de instellingen, wijzigingen hiervan en de tijden waarop dit gebeurt;
+   - 2°. de instellingen, wijzigingen hiervan en de tijden waarop dit gebeurt;
 
-- 3°. de gebruikte frequentie of frequenties, bandbreedte en het effectieve zendvermogen; en
+   - 3°. de gebruikte frequentie of frequenties, bandbreedte en het effectieve zendvermogen; en
 
-- 4°. de eigen locatie en hoofdoriëntatie van het uitgezonden signaal;
+   - 4°. de eigen locatie en hoofdoriëntatie van het uitgezonden signaal;
 
 - i. het radiointerventiemiddel is voorzien van een beveiliging om onbevoegde en onbedoelde inschakeling te voorkomen;
 
@@ -246,7 +219,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 - e. een zo nauwkeurig mogelijke aanduiding van de geografische locaties waar de apparatuur ingezet is.
 
-2. In het geval, bedoeld in het eerste lid, wordt binnen 24 uur na de daadwerkelijke inzet aan de minister gemeld:
+2. In het geval, bedoeld in het eerste lid, wordt binnen 24 uur na de daadwerkelijke inzet aan de minister gemeld:
 
 - a. motivering waarom een melding vooraf niet mogelijk was; en
 
@@ -269,5 +242,3 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,22 +1,18 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs inburgering 2024"
+title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr 2025-0000177863, houdende verlening mandaat, volmacht en machtiging aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs ten aanzien van de aangelegenheden die inburgering betreffen"
+citeertitel: "Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs inburgering 2024"
 identifier: "BWBR0051423"
-categorie: "Onderwijs"
-publicatiedatum: 2026-05-21
-laatste_update: 2026-05-22
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-08-26
+laatste_update: 2026-05-21
 status: geldig
+toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0051423"
+opgehaald: 2026-09-08
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr 2025-0000177863, houdende verlening mandaat, volmacht en machtiging aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs ten aanzien van de aangelegenheden die inburgering betreffen
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4),
-
-Handelende met instemming van de Minister van Onderwijs, Cultuur en Wetenschap,
-
-Gezien de schriftelijke instemming van de Directeur-Generaal van de Dienst Uitvoering Onderwijs van 1 augustus 2025.
-
-Besluit:
 
 ##### Artikel 1
 
@@ -92,9 +88,11 @@ Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volm
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **Wet inburgering:** [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) zoals die gold op 31 december 2012;
+- a. *Wet inburgering:*
+ [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) zoals die gold op 31 december 2012;
 
-- b. **Besluit inburgering:** [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) zoals dat gold op 31 december 2012;
+- b. *Besluit inburgering:*
+ [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) zoals dat gold op 31 december 2012;
 
 2. Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend om de bevoegdheden uit te oefenen die verband houden met de inburgering in Nederland:
 
@@ -110,11 +108,14 @@ Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volm
 
 1. In dit artikel wordt verstaan onder:
 
-- a. **Wet inburgering:** [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) zoals die gold op 31 december 2021;
+- a. *Wet inburgering:*
+ [Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611) zoals die gold op 31 december 2021;
 
-- b. **Besluit inburgering:** [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) zoals dat gold op 31 december 2021;
+- b. *Besluit inburgering:*
+ [Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674) zoals dat gold op 31 december 2021;
 
-- c. **Regeling inburgering:** [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657) zoals die gold op 31 december 2021.
+- c. *Regeling inburgering:*
+ [Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657) zoals die gold op 31 december 2021.
 
 2. Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend om de volgende bevoegdheden uit te oefenen die verband houden met de inburgering in Nederland:
 
@@ -200,10 +201,8 @@ functie betrokken vertegenwoordigingsbevoegde
 
 ##### Artikel 9
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 19 juni 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 19 juni 2025.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs inburgering 2024.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

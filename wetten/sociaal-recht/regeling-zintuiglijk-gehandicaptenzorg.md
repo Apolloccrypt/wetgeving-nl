@@ -1,61 +1,35 @@
 ---
 title: "Regeling zintuiglijk gehandicaptenzorg"
 identifier: "BWBR0051289"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051289"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17479373"
-version_id: "30826712"
-internal_id: "C44176991"
-label_id: "17381684"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051289/2026-01-01/0"
-intitule_bron: "Stcrt.2025-24519"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-08"
-intitule_published: "2025-07-18"
-intitule_in_force: "2025-07-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-24519"
-original_signed_date: "2025-07-08"
-original_published_date: "2025-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-24519"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051289&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051289&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-07-08"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051289"
+opgehaald: 2026-09-08
 ---
+
 # Regeling zintuiglijk gehandicaptenzorg
-
-**Grondslag**
-
-Gelet op de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van registratie-, declaratie, en transparantievoorschriften.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **NZa:** Nederlandse Zorgautoriteit.
+- *NZa:* Nederlandse Zorgautoriteit.
 
-- **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
+- *Wmg:* [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
 
-- **Zorgaanbieder:**
+- *Zorgaanbieder:*
 
-- 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+   - 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
+   - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-- **Audit-trail:** Zodanige vastlegging van gegevens dat het spoor van basisgegevens naar eindgegevens en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens door de medisch adviseur, kan worden gevolgd en gecontroleerd.
+- *Audit-trail:* Zodanige vastlegging van gegevens dat het spoor van basisgegevens naar eindgegevens en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens door de medisch adviseur, kan worden gevolgd en gecontroleerd.
 
-- **Directe behandeltijd:** Tijd waarin een hulpverlener direct in contact staat met de cliënt, een groep cliënten of het cliëntsysteem.
+- *Directe behandeltijd:* Tijd waarin een hulpverlener direct in contact staat met de cliënt, een groep cliënten of het cliëntsysteem.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -75,11 +49,11 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 3. Aanvullende registratieverplichtingen:
 
-- •. Aantal directe uren per cliënt per prestatie AC21 t/m AC33 en V31/V32 en V51/V52;
+- • Aantal directe uren per cliënt per prestatie AC21 t/m AC33 en V31/V32 en V51/V52;
 
-- •. Zorgprogramma per cliënt per prestatie AC21 t/m AC42;
+- • Zorgprogramma per cliënt per prestatie AC21 t/m AC42;
 
-- •. Vastleggen of een prestatie geleverd is in groepsverband.
+- • Vastleggen of een prestatie geleverd is in groepsverband.
 
 ##### Artikel 5. Declaratiebepalingen
 
@@ -163,10 +137,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling zintui
 
 ##### Artikel 8. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorafgaande regeling
+
 De [Regeling zintuiglijk gehandicaptenzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042242), met kenmerk NR/REG-2020, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-Deze regeling treedt in werking met ingang van 1 januari 2026. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
+Inwerkingtreding / Bekendmaking
+
+Deze regeling treedt in werking met ingang van 1 januari 2026. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
+
+Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling zintuiglijk gehandicaptenzorg.

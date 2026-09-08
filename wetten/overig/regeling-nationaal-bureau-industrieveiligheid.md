@@ -1,56 +1,30 @@
 ---
 title: "Regeling van 24 maart 2025 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie, houdende regels met betrekking tot een Nationaal Bureau Industrieveiligheid (Regeling Nationaal Bureau Industrieveiligheid)"
+citeertitel: "Regeling Nationaal Bureau Industrieveiligheid"
 identifier: "BWBR0050897"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-03-28"
-last_updated: "2025-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050897"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17394093"
-version_id: "30665162"
-internal_id: "C43962881"
-label_id: "17297344"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050897/2025-03-28/0"
-intitule_bron: "Stcrt.2025-6892"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-24"
-intitule_published: "2025-03-27"
-intitule_in_force: "2025-03-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-6892"
-original_signed_date: "2025-03-24"
-original_published_date: "2025-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-6892"
-entry_into_force_date: "2025-03-28"
-jci_1_3: "jci1.3:c:BWBR0050897&z=2025-03-28&g=2025-03-28"
-jci_1_0: "1.0:c:BWBR0050897&g=2025-03-28"
-citeertitel_status: "officieel"
-short_title: "Regeling Nationaal Bureau Industrieveiligheid"
-signed_date: "2025-03-24"
-entry_into_force: "2025-03-28"
+publicatiedatum: 2025-03-28
+laatste_update: 2025-03-28
+status: geldig
+toestand: 2025-03-28
+bron: "https://wetten.overheid.nl/BWBR0050897"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van 24 maart 2025 van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Defensie, houdende regels met betrekking tot een Nationaal Bureau Industrieveiligheid (Regeling Nationaal Bureau Industrieveiligheid)
-
-Gelet op [artikel 86, vierde lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=86),
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **AIVD:** Algemene Inlichtingen- en Veiligheidsdienst;
+- *AIVD:* Algemene Inlichtingen- en Veiligheidsdienst;
 
-- **gezamenlijk managementteam:** gezamenlijk managementteam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=4&z=2025-03-28&g=2025-03-28);
+- *gezamenlijk managementteam:* gezamenlijk managementteam als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=4&z=2025-03-28&g=2025-03-28);
 
-- **MIVD:** Militaire Inlichtingen- en Veiligheidsdienst;
+- *MIVD:* Militaire Inlichtingen- en Veiligheidsdienst;
 
-- **NBIV:** Nationaal Bureau Industrieveiligheid als genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=2&z=2025-03-28&g=2025-03-28).
+- *NBIV:* Nationaal Bureau Industrieveiligheid als genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=2&z=2025-03-28&g=2025-03-28).
 
 ##### Artikel 2. Taakomschrijving
 
@@ -123,5 +97,3 @@ Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Nationaal Bureau Industrieveiligheid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

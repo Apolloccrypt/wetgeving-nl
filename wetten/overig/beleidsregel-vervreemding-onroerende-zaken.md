@@ -1,40 +1,17 @@
 ---
 title: "Beleidsregel vervreemding onroerende zaken"
 identifier: "BWBR0051002"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-05-02"
-last_updated: "2025-05-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051002"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17419683"
-version_id: "30713322"
-internal_id: "C44021111"
-label_id: "17322954"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051002/2025-05-02/0"
-intitule_bron: "Stcrt.2025-15610"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-05-01"
-intitule_in_force: "2025-05-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-15610"
-original_published_date: "2025-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-15610"
-entry_into_force_date: "2025-05-02"
-jci_1_3: "jci1.3:c:BWBR0051002&z=2025-05-02&g=2025-05-02"
-jci_1_0: "1.0:c:BWBR0051002&g=2025-05-02"
-citeertitel_status: "officieel"
-entry_into_force: "2025-05-02"
+publicatiedatum: 2025-05-02
+laatste_update: 2025-05-02
+status: geldig
+toestand: 2025-05-02
+bron: "https://wetten.overheid.nl/BWBR0051002"
+opgehaald: 2026-09-08
 ---
+
 # Beleidsregel vervreemding onroerende zaken
-
-Gelet op [artikel 18 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=18),
-
-Besluit:
 
 ### Hoofdstuk 1
 
@@ -44,23 +21,24 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **de wet:** [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
+- a. *de wet:*
+ [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906);
 
-- b. **College sanering:** College sanering zorginstellingen, genoemd in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32);
+- b. *College sanering:* College sanering zorginstellingen, genoemd in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32);
 
-- c. **instelling:** een organisatorisch verband als bedoeld in [artikel 1, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), dat zorg of een andere dienst verleent waarop aanspraak bestaat ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
+- c. *instelling:* een organisatorisch verband als bedoeld in [artikel 1, eerste lid, onder f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), dat zorg of een andere dienst verleent waarop aanspraak bestaat ingevolge [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- d. **vervreemden:** het blijvend niet meer voor de instelling gebruiken van gebouwen, terreinen of delen daarvan door middel van verhuren verkopen of aan enig beperkt recht onderwerpen;
+- d. *vervreemden:* het blijvend niet meer voor de instelling gebruiken van gebouwen, terreinen of delen daarvan door middel van verhuren verkopen of aan enig beperkt recht onderwerpen;
 
-- e. **gemachtigde:** de gemachtigde als bedoeld in [artikel 8.3 van het Uitvoeringsbesluit Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=8.3);
+- e. *gemachtigde:* de gemachtigde als bedoeld in [artikel 8.3 van het Uitvoeringsbesluit Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=8.3);
 
-- f. **extramuraliseren:** de situatie waarin een instelling voor intramurale zorg ruimte die voor bewoning geschikt is niet langer gebruikt voor intramurale zorg, maar beschikbaar stelt voor verhuur of verkoop aan derden
+- f. *extramuraliseren:* de situatie waarin een instelling voor intramurale zorg ruimte die voor bewoning geschikt is niet langer gebruikt voor intramurale zorg, maar beschikbaar stelt voor verhuur of verkoop aan derden
 
-- g. **marktconform:** in overeenstemming met de heersende economische principes en regels van de vrije markt (systeem van vraag en aanbod).
+- g. *marktconform:* in overeenstemming met de heersende economische principes en regels van de vrije markt (systeem van vraag en aanbod).
 
-- h. **nutsbedrijven:** bedrijven die opereren in een sector die beschouwd wordt als zijnde van openbaar nut in verband met het algemene belang van de producten of diensten die zij leveren en, in verband daarmee, vanuit overheidswege worden gereguleerd via regelgeving;
+- h. *nutsbedrijven:* bedrijven die opereren in een sector die beschouwd wordt als zijnde van openbaar nut in verband met het algemene belang van de producten of diensten die zij leveren en, in verband daarmee, vanuit overheidswege worden gereguleerd via regelgeving;
 
-- i. **maatschappelijke partij:** een zorgaanbieder als bedoeld in [artikel 1 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), een jeugdzorgaanbieder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) of een gemeente.
+- i. *maatschappelijke partij:* een zorgaanbieder als bedoeld in [artikel 1 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1), een jeugdzorgaanbieder als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een toegelaten instelling als bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19) of een gemeente.
 
 ##### Artikel 2
 
@@ -116,11 +94,11 @@ De instelling mag geen onomkeerbare besluiten nemen (bijvoorbeeld het gaan onder
 
 Als het College sanering instemt met de afwijking van het in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051002&hoofdstuk=1&artikel=6&z=2025-05-02&g=2025-05-02) van deze beleidsregels gestelde, dan zullen er, in afwijking van het gestelde in artikel 6, tweede lid, tenminste twee onafhankelijk opgemaakte taxaties door de instelling aangeleverd moeten worden. Bij transacties met een getaxeerde waarde van:
 
-- •. € 200.000,– of lager ingeval van verkoop;
+- • € 200.000,– of lager ingeval van verkoop;
 
-- •. € 20.000,– per jaar of lager aan kale huur ingeval van verhuur;
+- • € 20.000,– per jaar of lager aan kale huur ingeval van verhuur;
 
-- •. € 200.000,– of lager voor een onroerende zaak in geval van een daaruit voortvloeiende canon of retributie,
+- • € 200.000,– of lager voor een onroerende zaak in geval van een daaruit voortvloeiende canon of retributie,
 
 kan in principe, ter beoordeling van het College sanering, met één taxatie worden volstaan.
 
@@ -190,7 +168,7 @@ Een positief boekresultaat, behaald door vervreemding, waarvoor op grond van [ar
 
 1. De beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-2. Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de ‘[Beleidsregel vervreemding onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0047793)’, d.d. 20 januari 2023, ingetrokken.
+2. Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de ‘[Beleidsregel vervreemding onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0047793)’, d.d. 20 januari 2023, ingetrokken.
 
 ##### Artikel 16
 

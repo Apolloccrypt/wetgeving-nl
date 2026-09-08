@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-01
 toestand: 2025-12-01
 bron: "https://wetten.overheid.nl/BWBR0051837"
-opgehaald: 2026-09-07
+opgehaald: 2026-09-08
 ---
 
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen

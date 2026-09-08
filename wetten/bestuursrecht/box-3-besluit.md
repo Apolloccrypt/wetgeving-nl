@@ -5,10 +5,11 @@ categorie: "Overig"
 soort: "beleidsregel"
 publicatiedatum: 2024-05-18
 laatste_update: 2024-05-18
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-04
 toestand: 2024-05-18
 bron: "https://wetten.overheid.nl/BWBR0049714"
-opgehaald: 2026-09-06
+opgehaald: 2026-09-08
 ---
 
 # Box 3-besluit

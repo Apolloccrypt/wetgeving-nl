@@ -1,46 +1,18 @@
 ---
 title: "Wet van 11 juni 2025, houdende regels met betrekking tot het tegemoetkomen van burgers ten aanzien van wie door de Belastingdienst en de Dienst Toeslagen ten onrechte geen medewerking aan een buitengerechtelijke schuldregeling is gegeven (Wet onverplichte tegemoetkoming onterechte afwijzing schuldregeling)"
+citeertitel: "Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling"
 identifier: "BWBR0051149"
-country: "nl"
-rank: "wet"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051149"
+categorie: "Belastingrecht"
 soort: "wet"
-stam_id: "17455253"
-version_id: "30783822"
-internal_id: "C44726801"
-label_id: "17358204"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051149/2025-07-01/0"
-intitule_bron: "Stb.2025-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-11"
-intitule_published: "2025-06-27"
-intitule_in_force: "2025-06-27"
-intitule_status: "goed"
-original_publication: "Stb.2025-168"
-original_signed_date: "2025-06-11"
-original_published_date: "2025-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-168"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0051149&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0051149&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling"
-signed_date: "2025-06-11"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0051149"
+opgehaald: 2026-09-08
 ---
+
 # Wet van 11 juni 2025, houdende regels met betrekking tot het tegemoetkomen van burgers ten aanzien van wie door de Belastingdienst en de Dienst Toeslagen ten onrechte geen medewerking aan een buitengerechtelijke schuldregeling is gegeven (Wet onverplichte tegemoetkoming onterechte afwijzing schuldregeling)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is aan personen van wie een verzoek tot medewerking aan een buitengerechtelijke schuldregeling of stabilisatieverzoek in voorbereiding op een buitengerechtelijke schuldregeling onterecht is afgewezen, een onverplichte tegemoetkoming kan worden toegekend waarmee recht wordt gedaan aan het leed dat deze personen hebben ervaren door een fout van de Belastingdienst;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,39 +20,39 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **afloscapaciteit:** het bedrag dat de belanghebbende beschikbaar dient te stellen voor de aflossing van zijn schulden in het kader van een buitengerechtelijke schuldregeling of schuldsaneringsregeling natuurlijke personen waarbij dit bedrag wordt vastgesteld aan de hand van het vrij te laten bedrag, het aanwezige vermogen en de te verwachte baten;
+- *afloscapaciteit:* het bedrag dat de belanghebbende beschikbaar dient te stellen voor de aflossing van zijn schulden in het kader van een buitengerechtelijke schuldregeling of schuldsaneringsregeling natuurlijke personen waarbij dit bedrag wordt vastgesteld aan de hand van het vrij te laten bedrag, het aanwezige vermogen en de te verwachte baten;
 
-- **afwijzingsbrief:** de brief waarin de ontvanger, al dan niet namens de Dienst Toeslagen, meedeelt dat een MSNP-verzoek wordt afgewezen;
+- *afwijzingsbrief:* de brief waarin de ontvanger, al dan niet namens de Dienst Toeslagen, meedeelt dat een MSNP-verzoek wordt afgewezen;
 
-- **buitengerechtelijke schuldregeling:** een schuldregeling waarbij schuldeisers op basis van een buitengerechtelijk akkoord finale kwijting verlenen jegens de belanghebbende, nadat de belanghebbende de op hem rustende verplichtingen die voortvloeien uit de schuldregelingsovereenkomst is nagekomen;
+- *buitengerechtelijke schuldregeling:* een schuldregeling waarbij schuldeisers op basis van een buitengerechtelijk akkoord finale kwijting verlenen jegens de belanghebbende, nadat de belanghebbende de op hem rustende verplichtingen die voortvloeien uit de schuldregelingsovereenkomst is nagekomen;
 
-- **Dienst Toeslagen:** de Dienst Toeslagen, bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11);
+- *Dienst Toeslagen:* de Dienst Toeslagen, bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11);
 
-- **MSNP-verzoek:** een verzoek dat door de schuldhulpverlener namens de belanghebbende na ondertekening van de schuldregelingsovereenkomst aan de ontvanger wordt gedaan met als doel een buitengerechtelijke schuldregeling tot stand te laten komen, alsmede een stabilisatieverzoek dat door de ontvanger is behandeld als voornoemd verzoek;
+- *MSNP-verzoek:* een verzoek dat door de schuldhulpverlener namens de belanghebbende na ondertekening van de schuldregelingsovereenkomst aan de ontvanger wordt gedaan met als doel een buitengerechtelijke schuldregeling tot stand te laten komen, alsmede een stabilisatieverzoek dat door de ontvanger is behandeld als voornoemd verzoek;
 
-- **nabestaande:**
+- *nabestaande:*
 
-- a. de partner, bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a), van de belanghebbende op het moment dat die belanghebbende is komen te overlijden;
+   - a. de partner, bedoeld in [artikel 5a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a), van de belanghebbende op het moment dat die belanghebbende is komen te overlijden;
 
-- b. bij ontstentenis van de onder a bedoelde persoon, het kind, zijnde bloedverwant of aanverwant in de neergaande lijn van de belanghebbende;
+   - b. bij ontstentenis van de onder a bedoelde persoon, het kind, zijnde bloedverwant of aanverwant in de neergaande lijn van de belanghebbende;
 
-- **onterechte afwijzingsbrief:** de brief waarin de ontvanger, al dan niet namens de Dienst Toeslagen, meedeelt dat een MSNP-verzoek is afgewezen op grond van een registratie in de Fraude Signalering Voorziening van de Belastingdienst, een kwalificatie opzet of grove schuld, een indicatie van fraude of een belastingschuld of toeslagschuld boven een door de ontvanger gehanteerd normbedrag en hiernaast in de brief geen andere grond voor afwijzing is aangevoerd;
+- *onterechte afwijzingsbrief:* de brief waarin de ontvanger, al dan niet namens de Dienst Toeslagen, meedeelt dat een MSNP-verzoek is afgewezen op grond van een registratie in de Fraude Signalering Voorziening van de Belastingdienst, een kwalificatie opzet of grove schuld, een indicatie van fraude of een belastingschuld of toeslagschuld boven een door de ontvanger gehanteerd normbedrag en hiernaast in de brief geen andere grond voor afwijzing is aangevoerd;
 
-- **ontvanger:** de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
+- *ontvanger:* de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2);
 
-- **Onze Minister:** Onze Minister van Financiën;
+- *Onze Minister:* Onze Minister van Financiën;
 
-- **schuldhulpverlener:** een persoon of instelling als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48), die namens de belanghebbende een buitengerechtelijke schuldregeling uitvoert;
+- *schuldhulpverlener:* een persoon of instelling als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815&artikel=48), die namens de belanghebbende een buitengerechtelijke schuldregeling uitvoert;
 
-- **schuldsaneringsregeling natuurlijke personen:** de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III);
+- *schuldsaneringsregeling natuurlijke personen:* de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&titeldeel=III);
 
-- **stabilisatieverzoek:** een verzoek van een schuldhulpverlener namens de belanghebbende aan een schuldeiser om gedurende een periode van maximaal 240 dagen geen dwanginvorderingsmaatregelen te treffen ter zake van een openstaande schuld van de belanghebbende teneinde de belanghebbende in de gelegenheid te stellen om een stabiele situatie met betrekking tot zijn inkomsten en uitgaven te bereiken.
+- *stabilisatieverzoek:* een verzoek van een schuldhulpverlener namens de belanghebbende aan een schuldeiser om gedurende een periode van maximaal 240 dagen geen dwanginvorderingsmaatregelen te treffen ter zake van een openstaande schuld van de belanghebbende teneinde de belanghebbende in de gelegenheid te stellen om een stabiele situatie met betrekking tot zijn inkomsten en uitgaven te bereiken.
 
 ### Hoofdstuk 2. Tegemoetkoming
 
 ##### Artikel 2. Tegemoetkoming voor een onterechte afwijzing van een MSNP-verzoek
 
-1. De ontvanger kent ambtshalve een tegemoetkoming toe aan een belanghebbende namens wie in de periode van 1 januari 2014 tot en met 31 maart 2021 een MSNP-verzoek is gedaan, dat door de ontvanger is afgewezen vanwege:
+1. De ontvanger kent ambtshalve een tegemoetkoming toe aan een belanghebbende namens wie in de periode van 1 januari 2014 tot en met 31 maart 2021 een MSNP-verzoek is gedaan, dat door de ontvanger is afgewezen vanwege:
 
 - 1°. een registratie in de Fraude Signalering Voorziening van de Belastingdienst;
 
@@ -90,7 +62,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 4°. een belastingschuld of toeslagschuld boven een door de ontvanger gehanteerd normbedrag.
 
-2. De tegemoetkoming bedraagt € 500 per MSNP-verzoek dat door de ontvanger is afgewezen, met dien verstande dat opeenvolgende MSNP-verzoeken die binnen een periode van 240 dagen na elkaar worden gedaan, als een verzoek worden aangemerkt en die periode steeds aanvangt op de datum waarop de ontvanger het eerst ontvangen MSNP-verzoek onterecht heeft afgewezen.
+2. De tegemoetkoming bedraagt € 500 per MSNP-verzoek dat door de ontvanger is afgewezen, met dien verstande dat opeenvolgende MSNP-verzoeken die binnen een periode van 240 dagen na elkaar worden gedaan, als een verzoek worden aangemerkt en die periode steeds aanvangt op de datum waarop de ontvanger het eerst ontvangen MSNP-verzoek onterecht heeft afgewezen.
 
 3. De tegemoetkoming blijft achterwege indien de afwijzing het gevolg is van een opgelegde vergrijpboete, een strafrechtelijke veroordeling, fraude met betrekking tot toeslagschulden of indien er naast de grond voor afwijzing, bedoeld in het eerste lid, een andere grond voor de afwijzing bestond en de reden voor de afwijzing is opgenomen in de afwijzingsbrief.
 
@@ -210,11 +182,11 @@ Op een aanvraag als bedoeld in de [artikelen 3, eerste lid](https://wetten.overh
 
 3. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de verwerking van persoonsgegevens van strafrechtelijke aard ter bescherming van de rechten en vrijheden van de belanghebbenden.
 
-### Hoofdstuk 7. Wijziging [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
+### Hoofdstuk 7. Wijziging Algemene wet inkomensafhankelijke regelingen
 
-##### Artikel 13. Wijziging van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472)
+##### Artikel 13. Wijziging van de Algemene wet inkomensafhankelijke regelingen
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -225,5 +197,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 15. Citeertitel
 
 Deze wet wordt aangehaald als: Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

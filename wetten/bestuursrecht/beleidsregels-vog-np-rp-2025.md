@@ -1,42 +1,20 @@
 ---
 title: "Beleidsregels VOG-NP-RP 202"
+citeertitel: "Beleidsregels VOG-NP-RP 2025"
 identifier: "BWBR0051163"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051163"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17457403"
-version_id: "30789812"
-internal_id: "C44132431"
-label_id: "17360674"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051163/2025-07-01/0"
-intitule_bron: "Stcrt.2025-19538"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-02"
-intitule_published: "2025-07-01"
-intitule_in_force: "2025-07-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-19538"
-original_signed_date: "2025-06-02"
-original_published_date: "2025-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-19538"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0051163&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0051163&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels VOG-NP-RP 2025"
-signed_date: "2025-06-02"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0051163"
+opgehaald: 2026-09-08
 ---
+
 # Beleidsregels VOG-NP-RP 202
 
-De minister besluit dat de [Beleidsregels 2024 voor het beoordelen van aanvragen ter verkrijging van een Verklaring Omtrent het Gedrag van natuurlijke personen en rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0049901), vastgesteld bij besluit van 1 juli 2024 worden ingetrokken en vervangen door onderstaande beleidsregels. De nieuwe beleidsregels treden in werking met ingang van 1 juli 2025.
+De minister besluit dat de [Beleidsregels 2024 voor het beoordelen van aanvragen ter verkrijging van een Verklaring Omtrent het Gedrag van natuurlijke personen en rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0049901), vastgesteld bij besluit van 1 juli 2024 worden ingetrokken en vervangen door onderstaande beleidsregels. De nieuwe beleidsregels treden in werking met ingang van 1 juli 2025.
 
 ### Paragraaf 1. Inleiding
 
@@ -58,63 +36,111 @@ Voor alle soorten VOG-aanvragen geldt dat het belang van de aanvrager wordt afge
 
 ### Paragraaf 2. In behandeling nemen van de aanvraag
 
-[Artikel 30 van de Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) biedt de basis voor het aanvragen van een VOG. Het COVOG toetst of een aanvraag voor een VOG in behandeling wordt genomen. Daarnaast neemt het COVOG signalen van de Justitiële informatiedienst (Justid) in behandeling ten behoeve van de continue screening van specifieke beroepsgroepen.
+[Artikel 30 van de Wjsg](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) biedt de basis voor het aanvragen van een VOG. Het COVOG toetst of een aanvraag voor een VOG in behandeling wordt genomen. Daarnaast neemt het COVOG signalen van de Justitiële informatiedienst (Justid) in behandeling ten behoeve van de continue screening van specifieke beroepsgroepen.
 
 ### Paragraaf 2.1. Aanvraag VOG
 
 Het COVOG neemt een aanvraag om afgifte van een VOG in behandeling onder de voorwaarden dat:
 
+- a. voldaan is aan de vereisten die de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb) stelt aan het in behandeling nemen van een aanvraag en;
+
+- b. een onderzoek naar het gedrag van de aanvrager noodzakelijk is om, gelet op het doel van de aanvraag, een risico voor de samenleving te beperken.
+
 ### 1. VOG
 
-Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG voor een natuurlijk persoon dat een onderzoek naar het gedrag van de aanvrager in ieder geval noodzakelijk is indien:
+Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG voor een natuurlijk persoon dat een onderzoek naar het gedrag van de aanvrager in ieder geval noodzakelijk is indien:
+
+- 1. de VOG wettelijk is voorgeschreven. Indien de aanvrager zich erop beroept dat een VOG voor een natuurlijk persoon verplicht is voorgeschreven op grond van buitenlandse wet- of regelgeving, dient de aanvrager het wettelijke vereiste altijd aan te tonen.
+
+- 2. het doel van de aanvraag voor een VOG voor een natuurlijk persoon ziet op het bestendigen dan wel aangaan van een al dan niet betaalde werkrelatie, het aanvragen van een visum of op emigratie.
+
+- 3. een eenmanszaak door een rechtspersoon wordt gevraagd een VOG voor een natuurlijk persoon over te leggen voor het aangaan van een zakelijke overeenkomst met deze rechtspersoon.
 
 ### 2. VOG politiegegevens
 
-Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG politiegegevens dat een onderzoek naar het gedrag van de aanvrager noodzakelijk is als sprake is van een aanvraag door een natuurlijk persoon voor een aangewezen functie die is opgenomen in de [Regeling aangewezen functies VOG politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0046821). Het gaat hierbij uitsluitend om functies waarvoor een hoge mate van integriteit vereist is en waarin sprake is van een bevoegdheid om geweld te gebruiken, toegang tot gevoelige informatie op het terrein van openbare orde en veiligheid of handhaving van de rechtsorde, of betrokkenheid bij integriteitsbeoordelingen door het openbaar bestuur.
+Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG politiegegevens dat een onderzoek naar het gedrag van de aanvrager noodzakelijk is als sprake is van een aanvraag door een natuurlijk persoon voor een aangewezen functie die is opgenomen in de [Regeling aangewezen functies VOG politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0046821). Het gaat hierbij uitsluitend om functies waarvoor een hoge mate van integriteit vereist is en waarin sprake is van een bevoegdheid om geweld te gebruiken, toegang tot gevoelige informatie op het terrein van openbare orde en veiligheid of handhaving van de rechtsorde, of betrokkenheid bij integriteitsbeoordelingen door het openbaar bestuur.
 
 ### 3. VOG RP
 
-Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG RP dat een onderzoek naar het gedrag van de aanvrager in ieder geval noodzakelijk is indien deze door een rechtspersoon wordt aangevraagd in verband met het aangaan van een zakelijke overeenkomst, contract of voor het aansluiten bij of lid worden van een brancheorganisatie, vereniging of stichting. Een onderzoek naar het gedrag van de rechtspersoon en haar (on)middellijke bestuurders, vennoten, maten of beheerders is in dat geval altijd noodzakelijk. Rechtspersonen die zijn opgericht naar buitenlands recht met een vestiging in Nederland, kunnen geen VOG RP aanvragen.
+Met betrekking tot de onder b genoemde voorwaarde geldt ten aanzien van een VOG RP dat een onderzoek naar het gedrag van de aanvrager in ieder geval noodzakelijk is indien deze door een rechtspersoon wordt aangevraagd in verband met het aangaan van een zakelijke overeenkomst, contract of voor het aansluiten bij of lid worden van een brancheorganisatie, vereniging of stichting. Een onderzoek naar het gedrag van de rechtspersoon en haar (on)middellijke bestuurders, vennoten, maten of beheerders is in dat geval altijd noodzakelijk. Rechtspersonen die zijn opgericht naar buitenlands recht met een vestiging in Nederland, kunnen geen VOG RP aanvragen.
 
 ### Paragraaf 2.2. Continue screening
 
-Ten aanzien van taxikaarthouders en van personen werkzaam in de kinderopvang of in peuterspeelzalen kan het COVOG een continue screening uitvoeren (zie [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22a) en [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22b)). Het COVOG beoordeelt bij continue screening, naar aanleiding van signalen van Justid, de betrouwbaarheid van de personen binnen de desbetreffende beroepsgroep. De signalen bestaan uit mutaties in het Justitieel Documentatie Systeem (JDS), waarop Justid doorlopend controleert. Het COVOG beoordeelt de signalen van Justid aan de hand van het objectieve en het subjectieve criterium. Indien het COVOG op basis van deze beoordeling tot het voorlopig oordeel komt dat een belemmering bestaat voor een behoorlijke uitoefening van de functie informeert het COVOG de desbetreffende toezichthouder daarover. De toezichthouder besluit vervolgens of hij de betrokkene verzoekt om een nieuwe VOG aan te vragen. Voor wat betreft het beoordelingskader ([paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&z=2025-07-01&g=2025-07-01)) wordt de continue screening gelijkgesteld met reguliere VOG aanvragen.
+Ten aanzien van taxikaarthouders en van personen werkzaam in de kinderopvang of in peuterspeelzalen kan het COVOG een continue screening uitvoeren (zie [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22a) en [artikel 22b van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=22b)). Het COVOG beoordeelt bij continue screening, naar aanleiding van signalen van Justid, de betrouwbaarheid van de personen binnen de desbetreffende beroepsgroep. De signalen bestaan uit mutaties in het Justitieel Documentatie Systeem (JDS), waarop Justid doorlopend controleert. Het COVOG beoordeelt de signalen van Justid aan de hand van het objectieve en het subjectieve criterium. Indien het COVOG op basis van deze beoordeling tot het voorlopig oordeel komt dat een belemmering bestaat voor een behoorlijke uitoefening van de functie informeert het COVOG de desbetreffende toezichthouder daarover. De toezichthouder besluit vervolgens of hij de betrokkene verzoekt om een nieuwe VOG aan te vragen. Voor wat betreft het beoordelingskader ([paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&z=2025-07-01&g=2025-07-01)) wordt de continue screening gelijkgesteld met reguliere VOG aanvragen.
 
 ### Paragraaf 3. Beoordeling van de aanvraag
 
 Voor de beoordeling van een aanvraag voor een VOG kan het COVOG verschillende soorten gegevens ontvangen van verschillende partijen, namelijk justitiële gegevens via Justid, justitiële gegevens via ECRIS en politiegegevens.
 
+Justitiële gegevens via Justid
+
 Ten behoeve van de beoordeling van alle VOG-aanvragen ontvangt het COVOG van Justid automatisch alle justitiële gegevens betreffende de aanvrager die zijn geregistreerd in het JDS. De justitiële gegevens in het JDS kunnen zowel uit Nederland als uit het buitenland afkomstig zijn.
+
+Justitiële gegevens via ECRIS
 
 Via ECRIS kunnen Europese justitiële gegevens tussen de Europese lidstaten worden opgevraagd en verstrekt. Deze uitwisseling van justitiële gegevens via ECRIS is mogelijk voor bestuursrechtelijke doelen zoals een VOG. Justitiële gegevens die in dat geval worden uitgewisseld betreffen onherroepelijke veroordelingen.
 
+Politiegegevens
+
 Ten behoeve van de beoordeling van een aanvraag van een VOG politiegegevens vraagt het COVOG standaard bij de politie de beschikbare politiegegevens over de aanvrager op. Voor de aanvragen van een VOG of een VOG RP kan het COVOG op verzoek politiegegevens bij de politie opvragen, indien de aanwezigheid van een justitieel gegeven daartoe aanleiding geeft.
+
+1. VOG
 
 Indien sprake is van een aanvraag voor een VOG door een natuurlijk persoon en op naam van de aanvrager geen justitiële gegevens staan, wordt zonder meer de VOG afgegeven.
 
-Wanneer op naam van de aanvrager wel justitiële gegevens staan, wordt de vraag of de VOG kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG.
+Wanneer op naam van de aanvrager wel justitiële gegevens staan, wordt de vraag of de VOG kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG.
+
+2. VOG politiegegevens
 
 Indien sprake is van een aanvraag voor een VOG politiegegevens door een natuurlijk persoon en op naam van de aanvrager geen justitiële gegevens staan en ook geen politiegegevens, wordt zonder meer een VOG politiegegevens afgegeven.
 
-Wanneer op naam van de aanvrager wel justitiële gegevens staan en/of politiegegevens, wordt de vraag of de VOG politiegegevens kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.2&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG politiegegevens.
+Wanneer op naam van de aanvrager wel justitiële gegevens staan en/of politiegegevens, wordt de vraag of de VOG politiegegevens kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.2&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG politiegegevens.
+
+3. VOG RP
 
 Indien sprake is van een aanvraag voor een VOG RP door een rechtspersoon en op naam van de rechtspersoon en haar (on)middellijke bestuurders, vennoten, maten of beheerders geen justitiële gegevens staan, wordt zonder meer een VOG RP afgegeven.
 
-Wanneer op naam van de rechtspersoon of haar (on)middellijke bestuurders, vennoten, maten of beheerders wel justitiële gegevens staan, wordt de vraag of de VOG RP kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.3&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG RP.
+Wanneer op naam van de rechtspersoon of haar (on)middellijke bestuurders, vennoten, maten of beheerders wel justitiële gegevens staan, wordt de vraag of de VOG RP kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium, zie [paragraaf 3.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.3&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG RP.
 
 ### Paragraaf 3.1. De beoordeling van een aanvraag voor een VOG
 
 Bij de beoordeling van de justitiële gegevens van de aanvrager van een VOG wordt een terugkijktermijn in acht genomen. Voor de terugkijktermijn zijn van belang:
 
+- 1. de periode waarover wordt teruggekeken en
+
+- 2. de uitgangspunten om te bepalen of een justitieel gegeven binnen de van toepassing zijnde terugkijktermijn valt.
+
 ### Paragraaf 3.1.1. Periode terugkijktermijn justitiële gegevens
 
 Ten aanzien van de periodes waarover wordt teruggekeken bij justitiële gegevens wordt een onderscheid gemaakt tussen gevallen waarin de terugkijktermijn niet in duur wordt beperkt en gevallen waarin de terugkijktermijn wel in duur wordt beperkt.
 
+Terugkijktermijn niet in duur beperkt
+
 In de navolgende gevallen wordt de terugkijktermijn niet in duur beperkt:
+
+- – Indien het justitiële gegevens betreft over seksuele misdrijven zoals opgenomen in de [artikelen 240 tot en met 253 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240), alsmede de artikelen 240b tot en met 250 van het Wetboek van Strafrecht zoals die tot golden tot 1 juli 2024, artikel 250a zoals gold tot 1 oktober 2002 en de artikelen 250bis en 250ter zoals golden tot 1 oktober 2000 en [artikel 273f van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f), voor zover de gedraging het dwingen of bewegen tot prostitutie betreft en/of [artikel 140 van het Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869&artikel=140), voor zover de gedraging een seksueel misdrijf betreft. In het navolgende zal in dit verband worden gesproken over seksuele misdrijven zoals bedoeld in deze beleidsregels.
+
+- – Indien het justitiële gegevens betreft over terroristische misdrijven of misdrijven ter voorbereiding of vergemakkelijking van een terroristisch misdrijf als bedoeld in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) en [83b van het Wetboek van het Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83b). In het navolgende zal in dit verband worden gesproken over terroristische delicten zoals bedoeld in deze beleidsregels.
+
+Terugkijktermijn in duur beperkt
 
 In alle andere gevallen dan hiervoor genoemd, is sprake van een terugkijktermijn die in duur wordt beperkt. Dit houdt in dat de beoordeling van de aanvraag in beginsel plaatsvindt aan de hand van de justitiële gegevens die ten aanzien van de aanvrager gedurende de vier jaren voorafgaand aan het moment van beoordeling voorkomen in het JDS. Van deze terugkijktermijn van vier jaren wordt slechts afgeweken wanneer sprake is van één van de hieronder genoemde uitzonderingen. In dat geval geldt de daar genoemde terugkijktermijn.
 
-**Van de terugkijktermijn van vier jaren wordt afgeweken indien:**
+*Van de terugkijktermijn van vier jaren wordt afgeweken indien:*
+
+- a. de aanvraag voor een VOG naar het oordeel van het COVOG ziet op een functie met hoge integriteiteisen. In dat geval geldt een terugkijktermijn van tien jaren. Omdat voor de VOG politiegegevens ook geldt dat sprake is van een functie met hoge integriteitseisen geldt de terugkijktermijn van tien jaren ook voor justitiële gegevens die worden opgevraagd voor de VOG politiegegevens. Bij hoge uitzondering kan van deze termijn worden afgeweken indien het COVOG een langere termijn heeft vastgesteld;
+
+- b. de aanvraag voor een VOG samenhangt met een bijzondere wet of regeling waarin een andere termijn is opgenomen of samenhangt met de duur van een vergunning. In dat geval wordt aangesloten bij de duur van de vergunning of de in de desbetreffende wet of regeling opgenomen termijn;
+
+- c. gebruik wordt gemaakt van één van de in [paragraaf 3.1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.5&z=2025-07-01&g=2025-07-01) beschreven bijzondere weigeringsgronden;
+
+- d. de VOG wordt aangevraagd door een persoon die ten tijde van de aanvraag de leeftijd van 23 jaren nog niet heeft bereikt. Behoudens het hiervoor gestelde, geldt in dat geval een terugkijktermijn van twee jaren, mits:
+
+   - – er ten aanzien van de aanvrager geen justitiële gegevens worden aangetroffen inzake seksuele misdrijven of terroristische delicten, zoals hierboven genoemd bij de gevallen waarbij de terugkijktermijn niet in duur wordt beperkt, geweldsmisdrijven waarvoor een vrijheidsstraf van zes jaar of meer kan worden opgelegd of misdrijven die worden beschouwd als ondermijnende (drugs)criminaliteit en waarvoor een vrijheidsstraf van zes jaar of meer kan worden opgelegd.
+
+   - – er geen sprake is van een bij ministeriële regeling aangewezen functie waarvoor een VOG politiegegevens is vereist.
+
+- e. de aanvrager gedurende de voor zijn aanvraag relevante terugkijktermijn enige tijd een vrijheidsstraf of vrijheidsbenemende maatregel heeft ondergaan. In dat geval wordt de van toepassing zijnde terugkijktermijn (telkens) vermeerderd met de feitelijke duur van de vrijheidsbeneming. Dit totdat de terugkijktermijn bestaat uit in totaal vier jaren, dan wel de termijn als bedoeld onder a, b, c of d, waarin geen sprake is geweest van vrijheidsbeneming.
 
 Indien in de voor de aanvraag van toepassing zijnde terugkijktermijn relevante justitiële gegevens zijn aangetroffen, betrekt het COVOG bij de beoordeling van de aanvraag ook alle overige voor de aanvraag relevante justitiële gegevens die buiten de terugkijktermijn liggen in de beoordeling van de aanvraag. Aan deze strafbare feiten komt, nu deze buiten de terugkijktermijn hebben plaatsgevonden, onvoldoende gewicht toe om zelfstandig te worden betrokken bij de beoordeling van de VOG-aanvraag. Deze strafbare feiten worden echter wel betrokken bij de subjectieve criteria en zullen derhalve een rol spelen bij de belangenafweging. Op grond van de zowel binnen als buiten de termijn aangetroffen strafbare feiten wordt een inschatting gemaakt van het risico dat de aanvrager opnieuw met justitie in aanraking komt.
 
@@ -122,13 +148,35 @@ Indien in de voor de aanvraag van toepassing zijnde terugkijktermijn relevante j
 
 Om te bepalen of een justitieel gegeven binnen de terugkijktermijn valt wordt als uitgangspunt genomen:
 
+- a. de datum van rechterlijke uitspraak in eerste aanleg, of bij gebreke daarvan
+
+- b. de datum dat het Openbaar Ministerie een strafbeschikking heeft uitgevaardigd, of bij gebreke daarvan
+
+- c. de datum van de transactie zoals vermeld in het JDS, of bij gebreke daarvan
+
+- d. de datum dat het Openbaar Ministerie de beslissing heeft genomen de zaak te seponeren, of bij gebreke daarvan
+
+- e. de pleegdatum.
+
 Alleen in onderstaande gevallen wordt van het bovenstaande afgeweken:
+
+- 1. Wanneer tussen de pleegdatum en de datum zoals onder a, b, c of d genoemd een langere periode is verstreken dan twee jaren geldt de pleegdatum als uitgangspunt, tenzij sprake is van seksuele misdrijven of terroristische delicten als bedoeld in deze beleidsregels en/of fraudedelicten.
+
+- 2. Wanneer sprake is van seksuele misdrijven of terroristische delicten als bedoeld in deze beleidsregels en/of fraudedelicten wordt in geval van een openstaande zaak als uitgangspunt genomen de datum waarop het justitiële gegeven bij het Openbaar Ministerie is aangebracht en is ingeschreven in het JDS.
 
 ### Paragraaf 3.1.3. Het objectieve criterium
 
 De afgifte van de VOG wordt in beginsel geweigerd indien wordt voldaan aan het objectieve criterium. Het objectieve criterium betreft de beoordeling of de justitiële gegevens die ten aanzien van de aanvrager zijn aangetroffen, indien herhaald, gelet op het risico voor de samenleving, een belemmering vormen voor een behoorlijke uitoefening van de functie/taak/bezigheid waarvoor de VOG is aangevraagd.
 
 Het objectieve criterium bestaat uit de volgende elementen die hieronder nader worden uitgewerkt:
+
+- 1. justitiële gegevens (strafbaar feit);
+
+- 2. indien herhaald;
+
+- 3. risico voor de samenleving en
+
+- 4. een belemmering vormen voor een behoorlijke uitoefening van de functie/taak/bezigheid.
 
 ### Paragraaf 3.1.3.1. Justitiële gegevens
 
@@ -152,9 +200,13 @@ De relatie tussen het justitiële gegeven en de functie/taak/bezigheid die de aa
 
 Een belemmering voor de behoorlijke uitoefening van de functie/taak/bezigheid kan voorts bestaan op grond van:
 
-Bij seksuele misdrijven als bedoeld in deze beleidsregels wordt – naast het bovenstaande – óók beoordeeld of bij de uitoefening van de betreffende functie/taak/bezigheid sprake is van een gezags- of afhankelijkheidsrelatie. Indien daarvan sprake is en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, is het verscherpt toetsingskader als beschreven in [paragraaf 3.1.4.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.2&z=2025-07-01&g=2025-07-01) van deze beleidsregels van toepassing. Indien er sprake is van een seksueel misdrijf en de betreffende functie/ taak/bezigheid wordt uitgevoerd op een locatie waar zich kwetsbare personen bevinden en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, wordt eveneens het verscherpt toetsingskader toegepast.
+- – de aard van het delict en/of
 
-Bij terroristische delicten als bedoeld in deze beleidsregels wordt – naast het bovenstaande – óók beoordeeld of bij de uitoefening van de betreffende functie/taak/bezigheid sprake is van een gezags-of afhankelijkheidsrelatie of een functie waarbij met gevoelige informatie wordt omgegaan. Indien daarvan sprake is en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, is het verscherpt toetsingskader als beschreven in [paragraaf 3.1.4.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.3&z=2025-07-01&g=2025-07-01) van deze beleidsregels van toepassing. Indien er sprake is van een terroristisch delict en de betreffende functie/ taak/bezigheid wordt uitgevoerd op een locatie waar zich kwetsbare personen bevinden en/of op een gevoelige locatie en/of op een locatie waar met stoffen en/of objecten wordt gewerkt, die bij misbruik voor maatschappelijke ontwrichting kunnen zorgen en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, wordt eveneens het verscherpt toetsingskader toegepast.
+- – de locatie waar de werkzaamheden worden verricht.
+
+Bij seksuele misdrijven als bedoeld in deze beleidsregels wordt – naast het bovenstaande – óók beoordeeld of bij de uitoefening van de betreffende functie/taak/bezigheid sprake is van een gezags- of afhankelijkheidsrelatie. Indien daarvan sprake is en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, is het verscherpt toetsingskader als beschreven in [paragraaf 3.1.4.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.2&z=2025-07-01&g=2025-07-01) van deze beleidsregels van toepassing. Indien er sprake is van een seksueel misdrijf en de betreffende functie/ taak/bezigheid wordt uitgevoerd op een locatie waar zich kwetsbare personen bevinden en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, wordt eveneens het verscherpt toetsingskader toegepast.
+
+Bij terroristische delicten als bedoeld in deze beleidsregels wordt – naast het bovenstaande – óók beoordeeld of bij de uitoefening van de betreffende functie/taak/bezigheid sprake is van een gezags-of afhankelijkheidsrelatie of een functie waarbij met gevoelige informatie wordt omgegaan. Indien daarvan sprake is en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, is het verscherpt toetsingskader als beschreven in [paragraaf 3.1.4.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.3&z=2025-07-01&g=2025-07-01) van deze beleidsregels van toepassing. Indien er sprake is van een terroristisch delict en de betreffende functie/ taak/bezigheid wordt uitgevoerd op een locatie waar zich kwetsbare personen bevinden en/of op een gevoelige locatie en/of op een locatie waar met stoffen en/of objecten wordt gewerkt, die bij misbruik voor maatschappelijke ontwrichting kunnen zorgen en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid, wordt eveneens het verscherpt toetsingskader toegepast.
 
 ### Paragraaf 3.1.3.5. Rode draad criterium
 
@@ -164,7 +216,7 @@ Aan het objectieve criterium kan ook voldaan zijn als er binnen de relevante ter
 
 Op grond van het subjectieve criterium kan worden geoordeeld dat het belang dat een aanvrager heeft bij het verstrekken van de VOG zwaarder weegt dan het belang van de samenleving bij bescherming tegen het door middel van het objectieve criterium vastgestelde risico voor de samenleving. In dat geval wordt de VOG afgegeven ondanks dat wordt voldaan aan het objectieve criterium.
 
-Voor de toepassing van het subjectieve criterium wordt onderscheid gemaakt tussen enerzijds aanvragen waarop het reguliere beoordelingskader van toepassing is (zie [paragraaf 3.1.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.1&z=2025-07-01&g=2025-07-01)) en anderzijds aanvragen waarop het verscherpt toetsingskader van [paragraaf 3.1.4.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.2&z=2025-07-01&g=2025-07-01) of [paragraaf 3.1.4.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.3&z=2025-07-01&g=2025-07-01) van toepassing is (zie paragraven 3.1.4.2 en 3.1.4.3).
+Voor de toepassing van het subjectieve criterium wordt onderscheid gemaakt tussen enerzijds aanvragen waarop het reguliere beoordelingskader van toepassing is (zie [paragraaf 3.1.4.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.1&z=2025-07-01&g=2025-07-01)) en anderzijds aanvragen waarop het verscherpt toetsingskader van [paragraaf 3.1.4.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.2&z=2025-07-01&g=2025-07-01) of [paragraaf 3.1.4.3.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&paragraaf=3.1.4&paragraaf=3.1.4.3&z=2025-07-01&g=2025-07-01) van toepassing is (zie paragraven 3.1.4.2 en 3.1.4.3).
 
 ### Paragraaf 3.1.4.1. Omstandigheden van het geval
 
@@ -172,11 +224,19 @@ Het subjectieve criterium ziet op omstandigheden van het geval die ertoe kunnen 
 
 Omstandigheden van het geval die altijd in de beoordeling worden betrokken zijn:
 
+- – de afdoening van de strafzaak;
+
+- – het tijdsverloop;
+
+- – de hoeveelheid antecedenten.
+
 Indien de aanvrager ten tijde van het plegen van een strafbaar feit minderjarig was, betrekt het COVOG dit in de beoordeling van de aanvraag.
 
 Ten behoeve van een goede oordeelsvorming is het COVOG bevoegd inlichtingen in te winnen bij het Openbaar Ministerie en de reclassering.
 
 Naast justitiële gegevens kunnen ook politiegegevens in de beoordeling worden betrokken. In de politiesystemen kunnen bijvoorbeeld mutaties omtrent strafbare feiten aanwezig zijn, opgemaakte processen-verbaal en (dag)rapporten. Ondanks het feit dat deze informatie niet in alle gevallen tot vervolging heeft geleid, kan deze bij de beoordeling van de aanvraag worden meegewogen. Hierdoor wordt een betrouwbaar beeld verkregen van de integriteit van de aanvrager.
+
+Omstandigheden waaronder het feit is gepleegd
 
 In het geval dat het COVOG na weging van de omstandigheden van het geval niet tot een goede oordeelsvorming kan komen en twijfel heeft over de vraag of een VOG kan worden afgegeven, worden de omstandigheden waaronder het strafbare feit heeft plaatsgevonden in de beoordeling betrokken.
 
@@ -184,11 +244,81 @@ In het geval dat het COVOG na weging van de omstandigheden van het geval niet to
 
 Bij seksuele misdrijven als bedoeld in deze beleidsregels bestaat slechts zeer beperkte ruimte om op basis van het subjectieve criterium alsnog over te gaan tot de afgifte van een VOG wanneer sprake is van een functie met een gezags- of afhankelijkheidsrelatie en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid. Dit geldt ook wanneer op grond van de locatie, vanwege de aanwezigheid van kwetsbare personen een belemmering voor een behoorlijke uitoefening van de functie/taak/bezigheid wordt aangenomen. In de hieronder genoemde gevallen geldt een verscherpt toetsingskader waarin als uitgangspunt wordt genomen dat de VOG wordt geweigerd.
 
+- 1. De aanvrager is voorafgaand aan het moment van beoordeling ter zake van een seksueel misdrijf als bedoeld in deze beleidsregels twee of meer malen veroordeeld tot:
+
+   - – een (on)voorwaardelijke gevangenisstraf,
+
+   - – (on)voorwaardelijke terbeschikkingstelling aan de staat (TBS),
+
+   - – (on)voorwaardelijke jeugddetentie,
+
+   - – een (on)voorwaardelijke plaatsing in een inrichting voor jeugdigen (PIJ), tuchtschool of
+
+   - – algemeen psychiatrisch ziekenhuis (APZ) en/of
+
+   - – een (on)voorwaardelijke taakstraf
+
+   - – een beroepsverbod.
+
+- 2. De aanvrager is in de twintig jaren voorafgaand aan het moment van beoordeling ter zake van een seksueel misdrijf als bedoeld in deze beleidsregels éénmaal veroordeeld tot:
+
+   - – een (on)voorwaardelijke gevangenisstraf,
+
+   - – (on)voorwaardelijke TBS,
+
+   - – (on)voorwaardelijke jeugddetentie,
+
+   - – een (on)voorwaardelijke PIJ, plaatsing in een tuchtschool of APZ en/of
+
+   - – een (on)voorwaardelijke taakstraf.
+
+- 3. Met betrekking tot de aanvrager is in de tien jaren voorafgaand aan het moment van beoordeling ter zake van een seksueel misdrijf als bedoeld in deze beleidsregels:
+
+   - – een veroordeling uitgesproken inhoudende de oplegging van een andere straf dan een gevangenisstraf of taakstraf, schuldigverklaring zonder strafoplegging, eindezaakverklaring of
+
+   - – een door het Openbaar Ministerie aangeboden transactie geaccepteerd of strafbeschikking opgelegd, of
+
+   - – een strafzaak voorwaardelijk geseponeerd.
+
 De VOG kan in deze gevallen enkel worden afgegeven indien de weigering van de VOG evident disproportioneel is. Of de weigering evident disproportioneel is, wordt beoordeeld aan de hand van de omstandigheden van het geval.
 
 ### Paragraaf 3.1.4.3. Subjectief criterium – terroristische misdrijven of misdrijven ter voorbereiding of vergemakkelijking van een terroristisch misdrijf in combinatie met een gezags- of afhankelijkheidsrelatie, gevoelige informatie of specifieke locatie
 
 Bij terroristische delicten als bedoeld in deze beleidsregels bestaat slechts zeer beperkte ruimte om op basis van het subjectieve criterium alsnog over te gaan tot de afgifte van een VOG wanneer sprake is van een functie met een gezags- of afhankelijkheidsrelatie of een functie waarbij met gevoelige informatie wordt omgegaan. Dit geldt ook indien er sprake is van een terroristisch delict en de betreffende functie/ taak/bezigheid wordt uitgevoerd op een locatie waar zich kwetsbare personen bevinden en/of op een gevoelige locatie en/of op een locatie waar met stoffen en/of objecten wordt gewerkt, die bij misbruik voor maatschappelijke ontwrichting kunnen zorgen en een belemmering wordt aangenomen voor een behoorlijke uitoefening van de functie/taak/bezigheid.
+
+- 1. In de hieronder genoemde gevallen geldt een verscherpt toetsingskader waarin als uitgangspunt wordt genomen dat de VOG wordt geweigerd. De aanvrager is voorafgaand aan het moment van beoordeling ter zake van een terroristisch delict als bedoeld in deze beleidsregels twee of meer malen veroordeeld tot:
+
+   - – een (on)voorwaardelijke gevangenisstraf,
+
+   - – (on)voorwaardelijke terbeschikkingstelling aan de staat (TBS),
+
+   - – (on)voorwaardelijke jeugddetentie,
+
+   - – een (on)voorwaardelijke plaatsing in een inrichting voor jeugdigen (PIJ), tuchtschool of
+
+   - – algemeen psychiatrisch ziekenhuis (APZ) en/of
+
+   - – een (on)voorwaardelijke taakstraf
+
+   - – een beroepsverbod.
+
+- 2. De aanvrager is in de twintig jaren voorafgaand aan het moment van beoordeling ter zake van een terroristisch delict als bedoeld in deze beleidsregels éénmaal veroordeeld tot: een (on)voorwaardelijke gevangenisstraf,
+
+   - – (on)voorwaardelijke TBS,
+
+   - – (on)voorwaardelijke jeugddetentie,
+
+   - – een (on)voorwaardelijke PIJ, plaatsing in een tuchtschool of APZ en/of
+
+   - – een (on)voorwaardelijke taakstraf.
+
+- 3. Met betrekking tot de aanvrager is in de tien jaren voorafgaand aan het moment van beoordeling ter zake van een terroristisch delict als bedoeld in deze beleidsregels:
+
+   - – een veroordeling uitgesproken inhoudende de oplegging van een andere straf dan een gevangenisstraf of taakstraf, schuldigverklaring zonder strafoplegging, eindezaakverklaring of
+
+   - – een door het Openbaar Ministerie aangeboden transactie geaccepteerd of strafbeschikking opgelegd, of
+
+   - – een strafzaak voorwaardelijk geseponeerd.
 
 De VOG kan in deze gevallen enkel worden afgegeven indien de weigering van de VOG evident disproportioneel is. Of de weigering evident disproportioneel is, wordt beoordeeld aan de hand van de omstandigheden van het geval.
 
@@ -198,13 +328,23 @@ De VOG wordt in beginsel afgegeven wanneer de aanvrager binnen de van toepassing
 
 Voorwaarde voor toepassing van deze bijzondere weigeringsgrond is dat in de justitiële documentatie van de twintig jaren voorafgaand aan de aanvraag het volgende is aangetroffen:
 
+- – een justitieel gegeven over een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaren of meer is gesteld en waarvoor de aanvrager is veroordeeld tot:
+
+   - • een onvoorwaardelijke gevangenisstraf of jeugddetentie en/of
+
+   - • de maatregel van terbeschikkingstelling aan de staat en/of
+
+   - • plaatsing in een inrichting voor jeugdigen. of
+
+- – een justitieel gegeven over een misdrijf dat is gericht tegen een kind en de VOG wordt aangevraagd voor een functie die ziet op het werken met kinderen.
+
 ### Paragraaf 3.2. De beoordeling van een aanvraag voor een VOG politiegegevens
 
-Bij een aanvraag voor een VOG politiegegevens wordt onderzoek gedaan naar justitiële gegevens en politiegegevens van een natuurlijk persoon. Zowel justitiële gegevens als politiegegevens kunnen voor deze aanvraag een zelfstandige weigeringsgrond vormen voor de afgifte van een VOG politiegegevens. Indien sprake is van justitiële gegevens, dan worden deze beoordeeld zoals beschreven voor een aanvraag van een VOG, zie [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG. Indien sprake is van politiegegevens, dan worden deze beoordeeld aan de hand van de onderstaande toetsingscriteria.
+Bij een aanvraag voor een VOG politiegegevens wordt onderzoek gedaan naar justitiële gegevens en politiegegevens van een natuurlijk persoon. Zowel justitiële gegevens als politiegegevens kunnen voor deze aanvraag een zelfstandige weigeringsgrond vormen voor de afgifte van een VOG politiegegevens. Indien sprake is van justitiële gegevens, dan worden deze beoordeeld zoals beschreven voor een aanvraag van een VOG, zie [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG. Indien sprake is van politiegegevens, dan worden deze beoordeeld aan de hand van de onderstaande toetsingscriteria.
 
 ### Paragraaf 3.2.1. Politiegegevens
 
-Bij de beoordeling van politiegegevens op naam van een aanvrager van een VOG politiegegevens wordt geen terugkijktermijn in acht genomen. De politiegegevens die aan het COVOG worden verstrekt, worden meegewogen bij de beoordeling van de aanvraag van een VOG politiegegevens. De beschikbaarheid is afhankelijk van de bewaartermijnen voor politiegegevens. De [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) (Wpg) kent daartoe een stelsel van bewaar-, verwijder- en vernietigingstermijnen. Uitsluitend politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), en [13 van de Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen door de politie worden verstrekt aan het COVOG. Voor wat betreft de verschillende categorieën van personen die in de politiegegevens voorkomen, zijn gegevens over de aanvrager in diens hoedanigheid van slachtoffer, aangever of getuige niet relevant voor de beoordeling van de aanvraag voor een VOG politiegegevens en worden derhalve ook niet verstrekt aan het COVOG.
+Bij de beoordeling van politiegegevens op naam van een aanvrager van een VOG politiegegevens wordt geen terugkijktermijn in acht genomen. De politiegegevens die aan het COVOG worden verstrekt, worden meegewogen bij de beoordeling van de aanvraag van een VOG politiegegevens. De beschikbaarheid is afhankelijk van de bewaartermijnen voor politiegegevens. De [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) (Wpg) kent daartoe een stelsel van bewaar-, verwijder- en vernietigingstermijnen. Uitsluitend politiegegevens die worden verwerkt overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=9), [10, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=10), en [13 van de Wpg](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=13) kunnen door de politie worden verstrekt aan het COVOG. Voor wat betreft de verschillende categorieën van personen die in de politiegegevens voorkomen, zijn gegevens over de aanvrager in diens hoedanigheid van slachtoffer, aangever of getuige niet relevant voor de beoordeling van de aanvraag voor een VOG politiegegevens en worden derhalve ook niet verstrekt aan het COVOG.
 
 ### Paragraaf 3.2.2. Het objectieve criterium
 
@@ -220,9 +360,15 @@ Op grond van het subjectieve criterium kan worden geoordeeld dat het belang dat 
 
 Voor de toepassing van het subjectieve criterium staan de omstandigheden van het geval centraal. Hierbij wordt gekeken naar de specifieke omstandigheden van het geval, zoals de aard van de politiegegevens, de frequentie van politiegegevens en de actualiteit van de politiegegevens en dit alles bezien in onderlinge samenhang. Indien de aanvrager ten tijde van de politieregistratie minderjarig was, betrekt het COVOG dit eveneens in de beoordeling van de aanvraag.
 
+Aard van de politiegegevens
+
 De aard van de politiegegevens ziet op de bron van de politiegegevens. Zo kan sprake zijn van een verklaring van een slachtoffer of getuige, een aangifte of andere melding. Daarnaast kan sprake zijn van feitelijke gegevens of van een in een proces-verbaal vastgelegde waarneming van een opsporingsambtenaar. Afhankelijk van de aard van het politiegegeven wordt meer of minder gewicht hieraan toegekend in de beoordeling van de aanvraag.
 
+Frequentie van de politiegegevens
+
 De frequentie ziet op het aantal politieregistraties. Meerdere registraties in de politiesystemen geven een ander beeld dan één enkele registratie.
+
+Actualiteit van de politiegegevens
 
 De actualiteit van de politiegegevens ziet op mogelijk tijdsverloop. Als het een melding betreft van een aantal jaar geleden, kan dit anders worden meegewogen dan een melding van enkele maanden gelden voorafgaand aan het indienen van een aanvraag voor een VOG politiegegevens.
 
@@ -230,7 +376,7 @@ De actualiteit van de politiegegevens ziet op mogelijk tijdsverloop. Als het een
 
 Bij een aanvraag voor een VOG RP wordt onderzoek gedaan naar het justitiële verleden van een rechtspersoon en haar (on)middellijke bestuurders, vennoten, maten of beheerders. Uitsluitend justitiële gegevens kunnen voor deze aanvraag een weigeringsgrond vormen voor de afgifte van de VOG-RP.
 
-Indien sprake is van justitiële gegevens op naam van de rechtspersoon, (on)middellijk bestuurder, vennoot, maat of beheerder, dan worden deze beoordeeld zoals beschreven voor een VOG-aanvraag, [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG.
+Indien sprake is van justitiële gegevens op naam van de rechtspersoon, (on)middellijk bestuurder, vennoot, maat of beheerder, dan worden deze beoordeeld zoals beschreven voor een VOG-aanvraag, [paragraaf 3.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0051163&paragraaf=3&paragraaf=3.1&z=2025-07-01&g=2025-07-01) de beoordeling van een aanvraag voor een VOG.
 
 ### Paragraaf 4. Administratieve afhandeling VOG
 
@@ -238,23 +384,37 @@ Indien sprake is van justitiële gegevens op naam van de rechtspersoon, (on)midd
 
 ### 1. Het aanvragen van een VOG
 
+Via de gemeente
+
 Voor het aanvragen van een VOG voor een natuurlijk persoon moet gebruik worden gemaakt van het daartoe bestemde aanvraagformulier VOG. De aanvraag voor de VOG wordt persoonlijk, of door een schriftelijk gemachtigde, ingediend bij de gemeente waar de aanvrager in de Basisregistratie Personen (BRP) is ingeschreven. Indien de aanvraag door een gemachtigde wordt ingediend, dient bij de aanvraag een duidelijk leesbare kopie van een geldig legitimatiebewijs van de aanvrager te zijn gevoegd. Het aanvraagformulier dient volledig en correct te zijn ingevuld en dient te zijn ondertekend door de aanvrager én de organisatie of instelling die de VOG verlangt. De gemeente controleert de identiteit van de aanvrager en beoordeelt of het aanvraagformulier volledig is ingevuld. Na ontvangst van de leges draagt de gemeente zorg voor een onmiddellijke (elektronische) doorzending aan het COVOG.
 
+Rechtstreeks bij het COVOG
+
 Indien geen sprake is van een inschrijving in de BRP wordt de aanvraag rechtstreeks bij het COVOG ingediend. Op de website van Justis ([www.justis.nl](http://www.justis.nl)) staat beschreven op welke manier een aanvraag voor een VOG voor een natuurlijk persoon rechtstreeks bij het COVOG kan worden ingediend en op welke wijze de leges dienen te worden betaald.
+
+Elektronisch
 
 De aanvraag voor een VOG voor een natuurlijk persoon kan ook rechtstreeks elektronisch worden ingediend bij het COVOG. De elektronische aanvraag dient geïnitieerd te worden door de organisatie of de instelling die de VOG verlangt. Daarvoor is het noodzakelijk dat de betreffende organisatie of instelling zich kan authentiseren door middel van het door Justis vereiste authenticatiemiddel. Nadat de organisatie of de instelling die de VOG verlangt, het voor haar bestemde gedeelte van het aanvraagformulier volledig heeft ingevuld, ontvangt de aanvrager per e-mail een bericht dat hij het voor hem bestemde gedeelte dient in te vullen. Om dit mogelijk te maken dient de aanvrager te beschikken over een account bij DigiD en over toegang tot iDeal. Nadat de leges langs elektronische weg zijn betaald, stuurt de aanvrager het aanvraagformulier automatisch elektronisch door naar het COVOG.
 
 ### 2. Het aanvragen van een VOG politiegegevens
 
+Elektronisch
+
 De aanvraag van een VOG politiegegevens kan elektronisch worden ingediend bij het COVOG. Bij een elektronische aanvraag kan gelijk worden gecontroleerd of de betreffende organisatie of instelling die de VOG politiegegevens verlangt wettelijk gezien wel een VOG politiegegevens mag aanvragen. Deze controle vindt plaats, zodra de betreffende organisatie of instelling haar KvK-nummer opgeeft in de digitale aanvraagomgeving. De elektronische aanvraag dient te worden geïnitieerd door de organisatie of de instelling die de VOG verlangt.
 
 Daarvoor is het noodzakelijk dat de betreffende organisatie of instelling zich kan authenticeren door middel van het door Justis vereiste authenticatiemiddel. Nadat de organisatie of de instelling die de VOG verlangt, het voor haar bestemde gedeelte van het aanvraagformulier volledig heeft ingevuld, ontvangt de aanvrager per e-mail een bericht dat hij het voor hem bestemde gedeelte dient in te vullen. Om dit mogelijk te maken dient de aanvrager te beschikken over een account bij DigiD en over toegang tot iDEAL of diens opvolger Wero. Nadat de leges langs elektronische weg zijn betaald, stuurt de aanvrager het aanvraagformulier automatisch elektronisch door naar het COVOG.
+
+Niet-elektronisch
 
 Indien het voor de aanvrager en/of de betreffende organisatie of instelling bezwaarlijk is om een VOG politiegegevens elektronisch aan te vragen, dan kan de aanvraag niet-elektronisch worden ingediend. Op de website van Justis ([www.justis.nl](http://www.justis.nl)) staat beschreven op welke manier dit kan. Het uitgangspunt is onder meer dat de functie waarvoor de VOG politiegegevens wordt gevraagd is opgenomen in de Regeling aanwijzing functies VOG politiegegevens en de aanvraag is bedoeld voor een natuurlijk persoon. Het COVOG controleert of de aanvrager en de betreffende organisatie of instelling aan de gestelde voorwaarden voldoen. Pas als aan de voorwaarden wordt voldaan, ontvangt de betreffende organisatie of instelling van het COVOG het aanvraagformulier zodat de aanvrager de VOG politiegegevens niet-elektronisch kan vragen.
 
 ### 3. Het aanvragen van een VOG RP
 
+Rechtstreeks bij het COVOG
+
 Een aanvraag voor een VOG RP wordt rechtstreeks bij het COVOG ingediend. Op de website van Justis ([www.justis.nl](http://www.justis.nl)) staat beschreven op welke manier een aanvraag voor een VOG RP rechtstreeks bij het COVOG kan worden ingediend en op welke wijze de leges dienen te worden betaald.
+
+Elektronisch
 
 De aanvraag voor een VOG RP kan ook rechtstreeks elektronisch worden ingediend bij het COVOG. De elektronische aanvraag wordt geïnitieerd door een organisatie die de VOG-RP verlangt. Een bevoegde vertegenwoordiger van de onderzochte rechtspersoon dient de aanvraag in.
 
@@ -276,4 +436,4 @@ Wijzigingen in de aanvraaggegevens zijn niet mogelijk wanneer deze betrekking he
 
 ### Paragraaf 5. Publicatie, inwerkingtreding en citeertitel
 
-Deze beleidsregels worden gepubliceerd in de Staatscourant en kunnen worden aangehaald als Beleidsregels VOG-NP-RP 2025. De beleidsregels treden in werking met ingang van 1 juli 2025.
+Deze beleidsregels worden gepubliceerd in de Staatscourant en kunnen worden aangehaald als Beleidsregels VOG-NP-RP 2025. De beleidsregels treden in werking met ingang van 1 juli 2025.

@@ -1,43 +1,17 @@
 ---
 title: "Reglement Adviescommissie Pakket Zorginstituut Nederland 2025"
 identifier: "BWBR0050885"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-03-26"
-last_updated: "2025-03-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050885"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17391273"
-version_id: "30659512"
-internal_id: "C43956911"
-label_id: "17294624"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050885/2025-03-26/0"
-intitule_bron: "Stcrt.2025-10926"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-11"
-intitule_published: "2025-03-25"
-intitule_in_force: "2025-03-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-10926"
-original_signed_date: "2025-03-11"
-original_published_date: "2025-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-10926"
-entry_into_force_date: "2025-03-26"
-jci_1_3: "jci1.3:c:BWBR0050885&z=2025-03-26&g=2025-03-26"
-jci_1_0: "1.0:c:BWBR0050885&g=2025-03-26"
-citeertitel_status: "officieel"
-signed_date: "2025-03-11"
-entry_into_force: "2025-03-26"
+publicatiedatum: 2025-03-26
+laatste_update: 2025-03-26
+status: geldig
+toestand: 2025-03-26
+bron: "https://wetten.overheid.nl/BWBR0050885"
+opgehaald: 2026-09-08
 ---
+
 # Reglement Adviescommissie Pakket Zorginstituut Nederland 2025
-
-Gelet op [artikel 59a, eerste lid van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a) en [artikel 8, derde lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=8);
-
-heeft in zijn vergadering van 11 maart 2025 besloten:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -45,27 +19,27 @@ heeft in zijn vergadering van 11 maart 2025 besloten:
 
 Dit reglement verstaat onder:
 
-- –. **adviescommissie:** de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a);
+- – *adviescommissie:* de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a);
 
-- –. **beheersmaatregel:** maatregel ter waarborging van advisering zonder vooringenomenheid;
+- – *beheersmaatregel:* maatregel ter waarborging van advisering zonder vooringenomenheid;
 
-- –. **leden:** de leden van de adviescommissie;
+- – *leden:* de leden van de adviescommissie;
 
-- –. **onderwerp:** rapport, signalement, dossier, advies of agendapunt waar de adviescommissie over vergadert;
+- – *onderwerp:* rapport, signalement, dossier, advies of agendapunt waar de adviescommissie over vergadert;
 
-- –. **persoonlijk belang:** ieder belang dat niet behoort tot de belangen die de adviescommissie uit hoofde van de haar opgedragen taak behoort te behartigen;
+- – *persoonlijk belang:* ieder belang dat niet behoort tot de belangen die de adviescommissie uit hoofde van de haar opgedragen taak behoort te behartigen;
 
-- –. **plaatsvervangend secretaris:** de plaatsvervangend secretaris van de adviescommissie;
+- – *plaatsvervangend secretaris:* de plaatsvervangend secretaris van de adviescommissie;
 
-- –. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van de adviescommissie;
+- – *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de adviescommissie;
 
-- –. **Raad van Bestuur:** de Raad van Bestuur van het Zorginstituut;
+- – *Raad van Bestuur:* de Raad van Bestuur van het Zorginstituut;
 
-- –. **secretaris:** de secretaris van de adviescommissie;
+- – *secretaris:* de secretaris van de adviescommissie;
 
-- –. **voorzitter:** de voorzitter van de adviescommissie;
+- – *voorzitter:* de voorzitter van de adviescommissie;
 
-- –. **het Zorginstituut:** Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
+- – *het Zorginstituut:* Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
 ### Hoofdstuk 2. Taak van de adviescommissie
 
@@ -89,9 +63,9 @@ Dit reglement verstaat onder:
 
 2. Het secretariaat bestaat uit:
 
-- –. de secretaris;
+- – de secretaris;
 
-- –. de plaatsvervangend secretaris.
+- – de plaatsvervangend secretaris.
 
 3. De voorzitter van de Raad van Bestuur wijst in overleg met de voorzitter de secretaris en plaatsvervangend secretaris aan.
 
@@ -211,12 +185,10 @@ De voorzitter heeft tenminste drie keer per jaar overleg met de voorzitter van d
 
 ##### Artikel 6.1. Intrekking en inwerkingtreding
 
-1. Het [Reglement Adviescommissie Pakket Zorginstituut Nederland van 5 december 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038880) wordt ingetrokken.
+1. Het [Reglement Adviescommissie Pakket Zorginstituut Nederland van 5 december 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038880) wordt ingetrokken.
 
 2. Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 ##### Artikel 6.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Reglement Adviescommissie Pakket Zorginstituut Nederland 2025.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

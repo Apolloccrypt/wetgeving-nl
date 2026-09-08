@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 20 maart 2025, nr. 1669623, houdende instelling van de Commissie herziening bekostiging mbo (Instellingsbesluit Commissie herziening bekostiging mbo)"
+citeertitel: "Instellingsbesluit commissie herziening bekostiging mbo"
 identifier: "BWBR0050914"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-31"
-last_updated: "2025-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050914"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17396983"
-version_id: "30671072"
-internal_id: "C43970081"
-label_id: "17300314"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050914/2025-12-31/0"
-intitule_bron: "Stcrt.2025-11304"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-03-20"
-intitule_published: "2025-04-02"
-intitule_in_force: "2025-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-11304"
-original_signed_date: "2025-03-20"
-original_published_date: "2025-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-11304"
-entry_into_force_date: "2025-04-03"
-jci_1_3: "jci1.3:c:BWBR0050914&z=2025-12-31&g=2025-12-31"
-jci_1_0: "1.0:c:BWBR0050914&g=2025-12-31"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit commissie herziening bekostiging mbo"
-signed_date: "2025-03-20"
-entry_into_force: "2025-04-03"
+publicatiedatum: 2025-04-03
+laatste_update: 2025-12-31
+status: geldig
+toestand: 2025-12-31
+bron: "https://wetten.overheid.nl/BWBR0050914"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 20 maart 2025, nr. 1669623, houdende instelling van de Commissie herziening bekostiging mbo (Instellingsbesluit Commissie herziening bekostiging mbo)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *Minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Commissie herziening bekostiging mbo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050914&artikel=2&z=2025-12-31&g=2025-12-31).
+- b. *commissie:* Commissie herziening bekostiging mbo, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050914&artikel=2&z=2025-12-31&g=2025-12-31).
 
 ##### Artikel 2. Instelling en taak
 
@@ -78,7 +52,7 @@ Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
 ##### Artikel 5. Instellingsduur
 
-De commissie wordt ingesteld met ingang van 1 april 2025 en wordt opgeheven per 1 juli 2026.
+De commissie wordt ingesteld met ingang van 1 april 2025 en wordt opgeheven per 1 juli 2026.
 
 ##### Artikel 6. Secretariaat
 
@@ -128,10 +102,8 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden o
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2027.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit commissie herziening bekostiging mbo.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.

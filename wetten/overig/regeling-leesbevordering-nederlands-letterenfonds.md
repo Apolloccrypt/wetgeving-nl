@@ -1,68 +1,39 @@
 ---
 title: "Regeling Leesbevordering Nederlands Letterenfonds"
 identifier: "BWBR0051328"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051328"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17490063"
-version_id: "30848702"
-internal_id: "C44205221"
-label_id: "17392524"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051328/2026-01-01/0"
-intitule_bron: "Stcrt.2025-25672"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-07-28"
-intitule_in_force: "2025-07-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-25672"
-original_published_date: "2025-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-25672"
-entry_into_force_date: "2025-07-29"
-jci_1_3: "jci1.3:c:BWBR0051328&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051328&g=2026-01-01"
-citeertitel_status: "officieel"
-entry_into_force: "2025-07-29"
+publicatiedatum: 2025-07-29
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051328"
+opgehaald: 2026-09-08
 ---
+
 # Regeling Leesbevordering Nederlands Letterenfonds
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735).
-
-Besluit:
-
-De volgende Regeling Leesbevordering Nederlands Letterenfonds vast te stellen
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van het Nederlands Letterenfonds;
+- a. *bestuur:* het bestuur van het Nederlands Letterenfonds;
 
-- b. **Cariben:** het Caribische deel van het Koninkrijk
+- b. *Cariben:* het Caribische deel van het Koninkrijk
 
-- c. **Engels:** de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
+- c. *Engels:* de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
 
-- d. **instelling of organisatie:** culturele instellingen en culturele organisaties of rechtspersonen die in het Koninkrijk actief zijn in de culturele sectoren;
+- d. *instelling of organisatie:* culturele instellingen en culturele organisaties of rechtspersonen die in het Koninkrijk actief zijn in de culturele sectoren;
 
-- e. **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- e. *Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- f. **leesbevordering:** het stimuleren van het lezen en/of leesplezier in brede zin; literatuur: literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
+- f. *leesbevordering:* het stimuleren van het lezen en/of leesplezier in brede zin; literatuur: literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
 
-- g. **het Letterenfonds:** Stichting Nederlands Letterenfonds;
+- g. *het Letterenfonds:* Stichting Nederlands Letterenfonds;
 
-- h. **Papiaments:** Papiamento en Papiamentu.
+- h. *Papiaments:* Papiamento en Papiamentu.
 
-- i. **Technisch lezen:** het koppelen van leestekens aan klanken voor een vloeiende leesvaardigheid, waarbij woorden en zinnen in één oogopslag worden herkend;
+- i. *Technisch lezen:* het koppelen van leestekens aan klanken voor een vloeiende leesvaardigheid, waarbij woorden en zinnen in één oogopslag worden herkend;
 
 ##### Artikel 2. Doel
 
@@ -118,7 +89,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 1. Het bestuur behandelt de aanvragen in twee rondes per jaar, met uitzondering van 2025 waarin één aanvraagronde plaatsvindt.
 
-2. Voor de aanvraagronde in 2025 wordt de regeling opengesteld van 1 augustus 2025 tot en met 3 september 2025 17.00 uur.
+2. Voor de aanvraagronde in 2025 wordt de regeling opengesteld van 1 augustus 2025 tot en met 3 september 2025 17.00 uur.
 
 3. Het Letterenfonds publiceert de data van volgende aanvraagrondes in de volgende jaren op zijn website.
 
@@ -126,7 +97,7 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 ##### Artikel 8. Subsidieplafond
 
-1. Het subsidieplafond bedraagt € 1.100.000 per jaar. Indien in enig jaar meerdere aanvraagrondes worden gehouden, wordt het subsidieplafond voor dat jaar gelijkelijk over deze aanvraagrondes verdeeld. Dit zijn deelsubsidieplafonds.
+1. Het subsidieplafond bedraagt € 1.100.000 per jaar. Indien in enig jaar meerdere aanvraagrondes worden gehouden, wordt het subsidieplafond voor dat jaar gelijkelijk over deze aanvraagrondes verdeeld. Dit zijn deelsubsidieplafonds.
 
 2. Wijzigingen in de hoogte van een subsidieplafond of de verdeling over de aanvraagrondes, worden bekendgemaakt in de Staatscourant en op de website van het Letterenfonds.
 
@@ -160,9 +131,9 @@ De subsidie wordt in ieder geval niet verleend indien:
 
 ##### Artikel 10. Hoogte subsidiebedrag
 
-1. Het aan te vragen subsidiebedrag bedraagt minimaal € 25.000 en maximaal € 50.000.
+1. Het aan te vragen subsidiebedrag bedraagt minimaal € 25.000 en maximaal € 50.000.
 
-2. Maximaal € 500 van het toegekende subsidiebedrag is bestemd als bijdrage aan kosten voor deelname aan een door of namens het Letterenfonds te verrichten impactonderzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2026-01-01&g=2026-01-01).
+2. Maximaal € 500 van het toegekende subsidiebedrag is bestemd als bijdrage aan kosten voor deelname aan een door of namens het Letterenfonds te verrichten impactonderzoek als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051328&artikel=15&z=2026-01-01&g=2026-01-01).
 
 3. Aanvragers dienen minimaal 25% van de kosten van het project uit eigen middelen of op andere wijze te financieren.
 
@@ -236,7 +207,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na de uiterste datum van ind
 
 2. Een subsidieontvanger dient binnen drie maanden na afloop van het project een aanvraag tot vaststelling in. De aanvraag bevat een inhoudelijke verantwoording, voorzien van een verklaring inzake werkelijke kosten en opbrengsten.
 
-3. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
+3. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
 
 ##### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening
 
@@ -265,5 +236,3 @@ Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatsc
 ##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Leesbevordering Nederlands Letterenfonds.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

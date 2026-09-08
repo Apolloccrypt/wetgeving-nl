@@ -1,63 +1,17 @@
 ---
 title: "Regeling commissie bezwaarschriften dekens 2025"
 identifier: "BWBR0050982"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-04-26"
-last_updated: "2025-04-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050982"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17414823"
-version_id: "30705122"
-internal_id: "C44012741"
-label_id: "17318214"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050982/2025-04-26/0"
-intitule_bron: "Stcrt.2025-14304"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-09"
-intitule_published: "2025-04-25"
-intitule_in_force: "2025-04-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-14304"
-original_signed_date: "2025-04-09"
-original_published_date: "2025-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-14304"
-entry_into_force_date: "2025-04-26"
-jci_1_3: "jci1.3:c:BWBR0050982&z=2025-04-26&g=2025-04-26"
-jci_1_0: "1.0:c:BWBR0050982&g=2025-04-26"
-citeertitel_status: "officieel"
-signed_date: "2025-04-09"
-entry_into_force: "2025-04-26"
+publicatiedatum: 2025-04-26
+laatste_update: 2025-04-26
+status: geldig
+toestand: 2025-04-26
+bron: "https://wetten.overheid.nl/BWBR0050982"
+opgehaald: 2026-09-08
 ---
+
 # Regeling commissie bezwaarschriften dekens 2025
-
-gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
-
-gehoord de commissie bestuursrecht, ingesteld door het dekenberaad;
-
-Overwegende dat:
-
-de deken van de orde in het arrondissement op grond van [artikel 45a, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=45a), belast is met het toezicht op de advocaten die kantoor houden in zijn of haar arrondissement;
-
-de deken, op grond van [artikel 24, tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=24) (Wwft), belast is met het toezicht op de naleving van de Wwft door de advocaten die kantoor houden in zijn of haar arrondissement;
-
-de deken, op grond van [artikel 14, tweede lid, onder b, Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=14) (Wki), belast is met het toezicht op de naleving van de Wki door de advocaten die buitengerechtelijke incassowerkzaamheden verrichten of aanbieden en kantoor houden in zijn of haar arrondissement;
-
-de deken toezichthouder is als bedoeld in [artikel 5:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11);
-
-de deken bevoegd is om de overtreding van bepaalde voorschriften bestuursrechtelijk te handhaven (bijvoorbeeld met een last onder dwangsom of een bestuurlijke boete);
-
-tegen deze besluiten van de deken bezwaar en beroep openstaat;
-
-het wenselijk is dat een onafhankelijke, externe commissie wordt ingesteld die belanghebbende(n) hoort over ingediende bezwaarschriften en de deken adviseert over de te nemen beslissing op bezwaar;
-
-de dekens, verenigd in het overlegorgaan dekenberaad als bedoeld in [artikel 2.5 van de Verordening op de advocatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0035981&artikel=2.5), streven naar een uniforme werkwijze en advisering ter afhandeling van bezwaarschriften;
-
-Stellen de volgende regeling vast:
 
 #### Begripsbepalingen
 
@@ -65,15 +19,16 @@ Stellen de volgende regeling vast:
 
 In deze regeling wordt verstaan onder:
 
-- a. **wet:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- a. *wet:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. **bezwaarschrift:** het geschrift waarmee bezwaar wordt gemaakt als bedoeld in [artikel 1:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:5);
+- b. *bezwaarschrift:* het geschrift waarmee bezwaar wordt gemaakt als bedoeld in [artikel 1:5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:5);
 
-- c. **commissie:** de commissie, als bedoeld in [artikel 7:13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050982&artikel=2&z=2025-04-26&g=2025-04-26) van deze regeling;
+- c. *commissie:* de commissie, als bedoeld in [artikel 7:13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050982&artikel=2&z=2025-04-26&g=2025-04-26) van deze regeling;
 
-- d. **behandelende commissie:** de commissie, die in het kader van de behandeling van het bezwaarschrift optreedt als commissie als bedoeld in [artikel 7:13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
+- d. *behandelende commissie:* de commissie, die in het kader van de behandeling van het bezwaarschrift optreedt als commissie als bedoeld in [artikel 7:13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
 
-- e. **informele behandeling:** de werkwijze waarbij de deken tracht om, voorafgaand aan het horen als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), in overleg met de indiener van het bezwaarschrift een oplossing te bereiken.
+- e. *informele behandeling:* de werkwijze waarbij de deken tracht om, voorafgaand aan het horen als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), in overleg met de indiener van het bezwaarschrift een oplossing te bereiken.
 
 #### Bezwaarschriftencommissie
 
@@ -139,9 +94,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Vergoedingen
 
-1. De voorzitter, plaatsvervangend voorzitters en de leden van de commissie ontvangen voor een bijgewoonde (digitale) hoorzitting een vaste vergoeding per behandelde zaak. Voor de (plaatsvervangend) voorzitter bedraagt de vergoeding € 230 per zaak; voor leden € 140 per zaak. De voorzitter ontvangt daarnaast een aanvullende, vaste vergoeding van € 500 op jaarbasis.
+1. De voorzitter, plaatsvervangend voorzitters en de leden van de commissie ontvangen voor een bijgewoonde (digitale) hoorzitting een vaste vergoeding per behandelde zaak. Voor de (plaatsvervangend) voorzitter bedraagt de vergoeding € 230 per zaak; voor leden € 140 per zaak. De voorzitter ontvangt daarnaast een aanvullende, vaste vergoeding van € 500 op jaarbasis.
 
-2. Reiskosten worden vergoed tegen € 0,23 per gereden kilometer dan wel vergoeding van de daadwerkelijk gemaakte OV-kosten. Voor de berekening van de reisafstand wordt uitgegaan van de kortste route volgens de ANWB-routeplanner.
+2. Reiskosten worden vergoed tegen € 0,23 per gereden kilometer dan wel vergoeding van de daadwerkelijk gemaakte OV-kosten. Voor de berekening van de reisafstand wordt uitgegaan van de kortste route volgens de ANWB-routeplanner.
 
 ##### Artikel 8. Onpartijdigheid leden
 
@@ -277,7 +232,7 @@ De commissie en de secretaris en diens plaatsvervangers zijn, gelet op het bepaa
 
 ##### Artikel 25. Jaarverslag
 
-De commissie brengt jaarlijks, vóór 1 juli, aan de deken en het dekenberaad verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
+De commissie brengt jaarlijks, vóór 1 juli, aan de deken en het dekenberaad verslag uit van haar werkzaamheden in het voorafgaande kalenderjaar.
 
 ##### Artikel 26. Uniformiteit
 
@@ -293,10 +248,8 @@ Deze regeling treedt in werking met ingang van de eerste dag na die van bekendma
 
 ##### Artikel 29. Intrekking oude regeling
 
-De Regeling commissie bezwaarschriften dekens, vastgesteld op 1 juli 2022, wordt ingetrokken.
+De Regeling commissie bezwaarschriften dekens, vastgesteld op 1 juli 2022, wordt ingetrokken.
 
 ##### Artikel 30. Vaststellingsdatum en citeertitel
 
-Dit besluit is vastgesteld op 9 april 2025 en wordt aangehaald als: **Regeling commissie bezwaarschriften dekens 2025**.
-
-Ondertekening door:
+Dit besluit is vastgesteld op 9 april 2025 en wordt aangehaald als: *Regeling commissie bezwaarschriften dekens 2025*.

@@ -5,10 +5,11 @@ categorie: "Financieel recht"
 soort: "zbo"
 publicatiedatum: 2018-01-01
 laatste_update: 2018-01-01
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-04
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040215"
-opgehaald: 2026-08-26
+opgehaald: 2026-09-08
 ---
 
 # Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw

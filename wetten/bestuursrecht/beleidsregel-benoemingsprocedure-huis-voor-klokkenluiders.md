@@ -1,66 +1,41 @@
 ---
 title: "Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, houdende vaststelling van een benoemingsprocedure voor de voorzitter en leden van het Huis voor klokkenluiders (Beleidsregel benoemingsprocedure Huis voor klokkenluiders)"
+citeertitel: "Beleidsregel benoemingsprocedure Huis voor klokkenluiders"
 identifier: "BWBR0051330"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-07-30"
-last_updated: "2025-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051330"
+categorie: "Staatsinrichting en bestuur"
 soort: "beleidsregel"
-stam_id: "17490543"
-version_id: "30849042"
-internal_id: "C44205561"
-label_id: "17392864"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051330/2025-07-30/0"
-intitule_bron: "Stcrt.2025-24724"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-04"
-intitule_published: "2025-07-29"
-intitule_in_force: "2025-07-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-24724"
-original_signed_date: "2025-07-04"
-original_published_date: "2025-07-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-24724"
-entry_into_force_date: "2025-07-30"
-jci_1_3: "jci1.3:c:BWBR0051330&z=2025-07-30&g=2025-07-30"
-jci_1_0: "1.0:c:BWBR0051330&g=2025-07-30"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel benoemingsprocedure Huis voor klokkenluiders"
-signed_date: "2025-07-04"
-entry_into_force: "2025-07-30"
+publicatiedatum: 2025-07-30
+laatste_update: 2025-07-30
+status: geldig
+toestand: 2025-07-30
+bron: "https://wetten.overheid.nl/BWBR0051330"
+opgehaald: 2026-09-08
 ---
+
 # Beleidsregel van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, houdende vaststelling van een benoemingsprocedure voor de voorzitter en leden van het Huis voor klokkenluiders (Beleidsregel benoemingsprocedure Huis voor klokkenluiders)
-
-Gelet op [artikel 3c van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3c);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **Huis:** het Huis voor klokkenluiders, bedoeld in [artikel 3 van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
+- a. *Huis:* het Huis voor klokkenluiders, bedoeld in [artikel 3 van de Wet bescherming klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&artikel=3);
 
-- b. **minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- b. *minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- c. **ministerie:** het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- c. *ministerie:* het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- d. **bureau:** het werving- en selectiebureau;
+- d. *bureau:* het werving- en selectiebureau;
 
-- e. **commissie incompatibiliteiten:** de commissie incompatibiliteiten Huis voor klokkenluiders;
+- e. *commissie incompatibiliteiten:* de commissie incompatibiliteiten Huis voor klokkenluiders;
 
-- f. **Instellingsbesluit:** [Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0038301);
+- f. *Instellingsbesluit:*
+ [Instellingsbesluit commissie incompatibiliteiten Huis voor klokkenluiders](https://wetten.overheid.nl/jci1.3:c:BWBR0038301);
 
-- g. **vertrouwensfunctie:** een functie die krachtens [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) als zodanig is aangewezen;
+- g. *vertrouwensfunctie:* een functie die krachtens [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) als zodanig is aangewezen;
 
-- h. **veiligheidsonderzoek:** een onderzoek als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=7) en [9 van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9);
+- h. *veiligheidsonderzoek:* een onderzoek als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=7) en [9 van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9);
 
-- i. **Verklaring van Geen Bezwaar:** een verklaring als bedoeld in [artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
+- i. *Verklaring van Geen Bezwaar:* een verklaring als bedoeld in [artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
 
 ##### Artikel 2. Vacature
 
@@ -111,5 +86,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 6. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel benoemingsprocedure Huis voor klokkenluiders.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

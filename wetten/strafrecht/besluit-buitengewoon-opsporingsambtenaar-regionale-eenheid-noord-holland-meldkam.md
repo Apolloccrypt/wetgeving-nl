@@ -1,30 +1,18 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Noord-Holland, meldkamer, 2025"
+title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 18 augustus 2025 nr. BOACAT2025/165, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Holland, afdeling meldkamer"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar regionale eenheid Noord-Holland, meldkamer, 2025"
 identifier: "BWBR0051403"
 categorie: "Overig"
-publicatiedatum: 2026-07-22
-laatste_update: 2026-07-24
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-08-26
+laatste_update: 2026-07-22
 status: geldig
+toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0051403"
+opgehaald: 2026-09-08
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 18 augustus 2025 nr. BOACAT2025/165, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij regionale eenheid Noord-Holland, afdeling meldkamer
-
-Gelezen het verzoek van de regionale eenheid Noord-Holland van 11 augustus 2025 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Noord-Holland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -36,7 +24,7 @@ Als buitengewoon opsporingsambtenaar worden aangewezen de ambtenaren van politie
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein VI, Generieke Opsporing, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -54,7 +42,7 @@ Op grond van dit besluit kunnen maximaal 120 personen als buitengewoon opsporing
 
 ##### Artikel 6
 
-1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
+1. De korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27) brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051403&artikel=2&z=2026-07-22&g=2026-07-22) genoemde functie;
 
@@ -75,5 +63,3 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar regionale eenheid Noord-Holland, meldkamer, 2025.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

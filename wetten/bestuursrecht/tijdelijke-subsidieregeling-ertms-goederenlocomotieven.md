@@ -1,64 +1,38 @@
 ---
 title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 april 2025, nr. IENW/BSK-2023/256354, houdende vaststelling van regels voor de subsidiëring van de uitvoering van activiteiten ten behoeve van de aanpassing van goederenlocomotieven aan of de ontwikkeling van goederenlocomotieven met inachtneming van ETCS systeemversie 2.0 of hoger (Tijdelijke subsidieregeling ERTMS goederenlocomotieven) [KetenID WGK025919]"
+citeertitel: "Tijdelijke Subsidieregeling ERTMS goederenlocomotieven"
 identifier: "BWBR0050956"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-04-17"
-last_updated: "2025-04-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050956"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17410493"
-version_id: "30697552"
-internal_id: "C44003561"
-label_id: "17313814"
-dtd_version: "2.0"
-original_entry_into_force: "2025-04-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050956/2025-04-17/0"
-intitule_bron: "Stcrt.2025-13427"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-08"
-intitule_published: "2025-04-16"
-intitule_in_force: "2025-04-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-13427"
-original_signed_date: "2025-04-08"
-original_published_date: "2025-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-13427"
-entry_into_force_date: "2025-04-17"
-jci_1_3: "jci1.3:c:BWBR0050956&z=2025-04-17&g=2025-04-17"
-jci_1_0: "1.0:c:BWBR0050956&g=2025-04-17"
-citeertitel_status: "officieel"
-short_title: "Tijdelijke Subsidieregeling ERTMS goederenlocomotieven"
-signed_date: "2025-04-08"
-entry_into_force: "2025-04-17"
+publicatiedatum: 2025-04-17
+laatste_update: 2025-04-17
+status: geldig
+toestand: 2025-04-17
+bron: "https://wetten.overheid.nl/BWBR0050956"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 april 2025, nr. IENW/BSK-2023/256354, houdende vaststelling van regels voor de subsidiëring van de uitvoering van activiteiten ten behoeve van de aanpassing van goederenlocomotieven aan of de ontwikkeling van goederenlocomotieven met inachtneming van ETCS systeemversie 2.0 of hoger (Tijdelijke subsidieregeling ERTMS goederenlocomotieven) [KetenID WGK025919]
-
-Gelet op de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5), en de [artikelen 4 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4), [6, tweede lid, onderdeel b, en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=7), [8, eerste en derde lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanpassing:** aanpassing van een goederenlocomotief aan ETCS systeemversie 2.0 of hoger, door middel van upgrade of retrofit;
+- *aanpassing:* aanpassing van een goederenlocomotief aan ETCS systeemversie 2.0 of hoger, door middel van upgrade of retrofit;
 
-- **ATB:** automatische treinbeïnvloeding;
+- *ATB:* automatische treinbeïnvloeding;
 
-- **ETCS systeemversie 2.0 of hoger:** versie van het treinbesturings- en seingevingssysteem van de Europese Unie (ETCS) geschikt voor ETCS level 2;
+- *ETCS systeemversie 2.0 of hoger:* versie van het treinbesturings- en seingevingssysteem van de Europese Unie (ETCS) geschikt voor ETCS level 2;
 
-- **ERTMS:** European Rail Traffic Management System;
+- *ERTMS:* European Rail Traffic Management System;
 
-- **hoofdspoorweg:** spoorweg als bedoeld in [artikel 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
+- *hoofdspoorweg:* spoorweg als bedoeld in [artikel 1 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=1);
 
-- **Minister:** Minister van Infrastructuur en Waterstaat;
+- *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- **ontwikkeling:** ontwikkeling van een prototype van een goederenlocomotief ten behoeve van ten minste twintig goederenlocomotieven;
+- *ontwikkeling:* ontwikkeling van een prototype van een goederenlocomotief ten behoeve van ten minste twintig goederenlocomotieven;
 
-- **Programma ERTMS:** projectactiviteiten ter uitwerking en realisatie van het MIRT-project ‘European Rail Traffic Management System’.
+- *Programma ERTMS:* projectactiviteiten ter uitwerking en realisatie van het MIRT-project ‘European Rail Traffic Management System’.
 
 ##### Artikel 2. Doel van de subsidie
 
@@ -72,7 +46,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 ##### Artikel 4. Subsidieplafond en volgorde
 
-1. Het subsidieplafond bedraagt € 41.000.000 met dien verstande dat hiervan ten hoogste € 4.000.000 beschikbaar is voor de ontwikkeling.
+1. Het subsidieplafond bedraagt € 41.000.000 met dien verstande dat hiervan ten hoogste € 4.000.000 beschikbaar is voor de ontwikkeling.
 
 2. De subsidie wordt verdeeld op volgorde van binnenkomst van de aanvragen.
 
@@ -80,7 +54,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 1. Er is geen sprake van enige eerdere subsidieverlening op grond van deze regeling, de [Subsidieregeling ERTMS](https://wetten.overheid.nl/jci1.3:c:BWBR0041878) of de [Tijdelijke reparatieregeling Subsidieregeling ERTMS](https://wetten.overheid.nl/jci1.3:c:BWBR0048775) in verband met de aanpassing of de ontwikkeling.
 
-2. Ter zake van de aanpassing is voorafgaand aan 14 juli 2017
+2. Ter zake van de aanpassing is voorafgaand aan 14 juli 2017
 
 - a. ten behoeve van de goederenlocomotief een voertuigvergunning verleend als bedoeld in [artikel 26k, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=26k); of
 
@@ -96,11 +70,11 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 1. De subsidie bedraagt ten hoogste vijftig procent van de subsidiabele kosten tot ten hoogste
 
-- a. € 200.000 ten aanzien van de aanpassing;
+- a. € 200.000 ten aanzien van de aanpassing;
 
-- b. € 2.000.000 ten aanzien van de ontwikkeling.
+- b. € 2.000.000 ten aanzien van de ontwikkeling.
 
-2. Als subsidiabele kosten komen in aanmerking de vanaf 1 januari 2025 tot de einddatum van het aanpassings- of ontwikkelingsproject aantoonbaar gemaakte gespecificeerde kosten voor:
+2. Als subsidiabele kosten komen in aanmerking de vanaf 1 januari 2025 tot de einddatum van het aanpassings- of ontwikkelingsproject aantoonbaar gemaakte gespecificeerde kosten voor:
 
 - a. de aanpassing, daaronder begrepen de kosten voor aanschaf en installatie van software en hardware;
 
@@ -132,7 +106,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 ##### Artikel 7. Aanvraag tot subsidieverlening
 
-1. Een aanvraag tot subsidieverlening wordt ingediend in de periode van 1 mei 2025 tot 1 augustus 2025.
+1. Een aanvraag tot subsidieverlening wordt ingediend in de periode van 1 mei 2025 tot 1 augustus 2025.
 
 2. Een aanvraag tot subsidieverlening bevat naast de gegevens en bescheiden, genoemd in [artikel 10, vierde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), ten minste de volgende gegevens:
 
@@ -152,7 +126,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 - b. een kopie van de voertuigvergunning, bedoeld in [artikel 5, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17);
 
-- c. een koopcontract waarmee is aangetoond dat de goederenlocomotief voorafgaand aan 14 juli 2017 is besteld, als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17).
+- c. een koopcontract waarmee is aangetoond dat de goederenlocomotief voorafgaand aan 14 juli 2017 is besteld, als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050956&artikel=5&z=2025-04-17&g=2025-04-17).
 
 4. Een aanvraag tot subsidieverlening in verband met de aanpassing die meer dan één goederenlocomotief betreft, bevat tevens een planning van de aanpassing en oplevering per goederenlocomotief.
 
@@ -172,7 +146,7 @@ De Minister kan subsidie verstrekken aan de eigenaar van een goederenlocomotief 
 
 ##### Artikel 9. Beschikking tot subsidieverlening
 
-Een subsidie tot € 25.000 wordt verstrekt in de vorm van een vast bedrag.
+Een subsidie tot € 25.000 wordt verstrekt in de vorm van een vast bedrag.
 
 ##### Artikel 10. Verplichtingen van de subsidieontvanger
 
@@ -192,26 +166,24 @@ Een subsidie tot € 25.000 wordt verstrekt in de vorm van een vast bedrag.
 
 2. De beschikking tot voorschotverlening wordt ambtshalve gelijktijdig met de beschikking tot subsidieverlening gegeven.
 
-3. Indien de subsidie € 125.000 of meer bedraagt, wordt het voorschot uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot voorschotverlening worden bepaald.
+3. Indien de subsidie € 125.000 of meer bedraagt, wordt het voorschot uitgekeerd in termijnen waarvan de hoogte en de tijdstippen in de beschikking tot voorschotverlening worden bepaald.
 
 ##### Artikel 12. Aanvraag tot subsidievaststelling
 
-1. Indien de subsidie € 125.000 of meer bedraagt, wordt de aanvraag tot subsidievaststelling ingediend binnen 22 weken na de datum waarop ingevolge de verleningsbeschikking de activiteiten moeten zijn verricht.
+1. Indien de subsidie € 125.000 of meer bedraagt, wordt de aanvraag tot subsidievaststelling ingediend binnen 22 weken na de datum waarop ingevolge de verleningsbeschikking de activiteiten moeten zijn verricht.
 
 2. De aanvraag gaat vergezeld van een kopie van de voertuigvergunning die is verleend in verband met de aanpassing of de ontwikkeling, en van een verslag omtrent het verloop, de uitvoering en de resultaten van de activiteit, waaruit blijkt dat de subsidieontvanger aan de verplichtingen heeft voldaan.
 
 ##### Artikel 13. Evaluatieverslag
 
-Vóór 1 april 2030 publiceert de Minister een verslag over de doeltreffendheid en de effecten van de verstrekte subsidies.
+Vóór 1 april 2030 publiceert de Minister een verslag over de doeltreffendheid en de effecten van de verstrekte subsidies.
 
 ##### Artikel 14. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van 1 april 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 april 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 april 2025.
+1. Deze regeling treedt in werking met ingang van 1 april 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 april 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 april 2025.
 
-2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
+2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat zij van toepassing blijft op de voor die datum aangevraagde subsidies.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke Subsidieregeling ERTMS goederenlocomotieven.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

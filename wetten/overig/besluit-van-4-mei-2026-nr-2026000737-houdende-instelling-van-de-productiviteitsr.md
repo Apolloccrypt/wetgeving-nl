@@ -5,11 +5,11 @@ identifier: "BWBR0052682"
 categorie: "Overig"
 soort: "KB"
 publicatiedatum: 2026-06-10
-laatste_update: 2026-06-10
+laatste_update: 2026-09-05
 status: geldig
-toestand: 2026-06-10
+toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0052682"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-08
 ---
 
 # Besluit van 4 mei 2026, nr. 2026000737, houdende instelling van de Productiviteitsraad
@@ -24,7 +24,7 @@ De Productiviteitsraad heeft tot taak de regering en beide kamers der Staten-Gen
 
 ##### Artikel 3
 
-De Productiviteitsraad bestaat uit één voorzitter en ten hoogste vier andere leden.
+De Productiviteitsraad bestaat uit één voorzitter en ten hoogste zes andere leden.
 
 ##### Artikel 4
 

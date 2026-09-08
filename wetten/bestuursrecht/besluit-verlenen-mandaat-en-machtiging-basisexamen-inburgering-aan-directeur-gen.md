@@ -1,20 +1,18 @@
 ---
-title: "Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst"
+title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr. 2025-0000177483, tot het verlenen van mandaat en machtiging met betrekking tot het basisexamen inburgering aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid (Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst)"
+citeertitel: "Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst"
 identifier: "BWBR0051399"
-categorie: "Overig"
-publicatiedatum: 2026-05-21
-laatste_update: 2026-05-22
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-08-26
+laatste_update: 2026-05-21
 status: geldig
+toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0051399"
+opgehaald: 2026-09-08
 ---
 
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 15 augustus 2025, nr. 2025-0000177483, tot het verlenen van mandaat en machtiging met betrekking tot het basisexamen inburgering aan de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid (Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst)
-
-Handelend met instemming van de Minister van Asiel en Migratie en de directeur-generaal van de Immigratie- en Naturalisatiedienst van het Ministerie van Justitie en Veiligheid;
-
-Gelet op [titel 10.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=10.1);
-
-Besluit:
 
 ##### Artikel 1. Verlening mandaat en machtiging
 
@@ -26,8 +24,6 @@ Besluit:
 
 ##### Artikel 2. Slotbepaling
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 19 juni 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 19 juni 2025.
 
 2. Dit besluit wordt aangehaald als: Besluit verlenen mandaat en machtiging basisexamen inburgering aan directeur-generaal Immigratie- en Naturalisatiedienst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

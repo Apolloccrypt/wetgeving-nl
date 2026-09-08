@@ -1,75 +1,47 @@
 ---
 title: "Beleidsregel macrobeheersinstrument huisartsenzorg 2026"
 identifier: "BWBR0051255"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051255"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17472453"
-version_id: "30815622"
-internal_id: "C44164381"
-label_id: "17374774"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051255/2026-01-01/0"
-intitule_bron: "Stcrt.2025-24303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-24"
-intitule_published: "2025-07-17"
-intitule_in_force: "2025-07-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-24303"
-original_signed_date: "2025-06-24"
-original_published_date: "2025-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-24303"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051255&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051255&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-06-24"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051255"
+opgehaald: 2026-09-08
 ---
+
 # Beleidsregel macrobeheersinstrument huisartsenzorg 2026
-
-Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
-
-Gelet op [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) worden grenzen die uit deze beleidsregel voortvloeien ambtshalve door de NZa vastgesteld.
-
-Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport met brief van 14 juli 2014, kenmerk [642423-123512-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035401), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- **algemeen gegevensbeheer code (AGB-code):** unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.
+- *algemeen gegevensbeheer code (AGB-code):* unieke code die aan iedere zorgaanbieder wordt toegekend, waarmee deze kan worden geïdentificeerd.
 
-- **Budgettair kader zorg:** door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg.
+- *Budgettair kader zorg:* door het Ministerie van Volksgezondheid, Welzijn en Sport jaarlijks vastgesteld macrokader dat de beschikbare middelen per jaar omvat voor een bepaald type zorg.
 
-- **doelbedrag:** het totaalbedrag dat door de NZa moet worden teruggehaald bij alle aanbieders van huisartsenzorg, indien de minister besluit dat een bedrag moet worden teruggehaald. Dit doelbedrag staat in de realisatiebrief.
+- *doelbedrag:* het totaalbedrag dat door de NZa moet worden teruggehaald bij alle aanbieders van huisartsenzorg, indien de minister besluit dat een bedrag moet worden teruggehaald. Dit doelbedrag staat in de realisatiebrief.
 
-- **gerealiseerde omzet:** de omzet in 2026 verkregen uit declaratie van de prestaties huisartsenzorg.
+- *gerealiseerde omzet:* de omzet in 2026 verkregen uit declaratie van de prestaties huisartsenzorg.
 
-- **kaderbrief:** de brief die de NZa in 2025 ontvangt van de minister, met daarin voor 2026 de macro-omzetgrens.
+- *kaderbrief:* de brief die de NZa in 2025 ontvangt van de minister, met daarin voor 2026 de macro-omzetgrens.
 
-- **macrobeheersinstrument:** instrument waarmee op grond van [artikel 35, zevende lid en artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd.
+- *macrobeheersinstrument:* instrument waarmee op grond van [artikel 35, zevende lid en artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), ontstane overschrijdingen op het Budgettair kader zorg achteraf kunnen worden geredresseerd.
 
-- **macro-omzetgrens:** de bovengrens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
+- *macro-omzetgrens:* de bovengrens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-- **minister:** de Minister van Volksgezondheid, Welzijn en Sport.
+- *minister:* de Minister van Volksgezondheid, Welzijn en Sport.
 
-- **prestaties huisartsenzorg:** de prestaties waarvan de totaal gedeclareerde bedragen gezamenlijk als uitgangspunt dienen voor het macrobeheersinstrument. De prestaties als omschreven in segment 1 en voor zover het huisartsenzorg betreft eveneens de prestaties als omschreven in segment 3 van de Beleidsregel huisartsenzorg en multidisciplinaire zorg.
+- *prestaties huisartsenzorg:* de prestaties waarvan de totaal gedeclareerde bedragen gezamenlijk als uitgangspunt dienen voor het macrobeheersinstrument. De prestaties als omschreven in segment 1 en voor zover het huisartsenzorg betreft eveneens de prestaties als omschreven in segment 3 van de Beleidsregel huisartsenzorg en multidisciplinaire zorg.
 
-- **realisatiebrief:** de brief die de NZa ontvangt van de minister na afloop van 2026, met daarin het besluit of het kader is overschreden en, zo ja, welk doelbedrag door de NZa moet worden teruggehaald.
+- *realisatiebrief:* de brief die de NZa ontvangt van de minister na afloop van 2026, met daarin het besluit of het kader is overschreden en, zo ja, welk doelbedrag door de NZa moet worden teruggehaald.
 
-- **zorgaanbieder:** de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én die houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument.
+- *zorgaanbieder:* de natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1) én die houder is van de AGB-code die door de zorgverzekeraar aan de NZa is verstrekt ten behoeve van de uitvoering van het macrobeheersinstrument.
 
-- **zorgverzekeraar:** een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+- *zorgverzekeraar:* een verzekeraar als bedoeld in [artikel 1, aanhef en onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-- **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
+- *Zorgverzekeringsfonds:* het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -109,7 +81,7 @@ Deze beleidsregel is van toepassing op huisartsgeneeskundige zorg zoals omschrev
 
 9. De NZa neemt bij de toerekening voor het bepalen van de hoogte van de omzet het volgende onderdeel mee:
 
-- –. de gerealiseerde omzet uit de prestaties huisartsenzorg.
+- – de gerealiseerde omzet uit de prestaties huisartsenzorg.
 
 10. De NZa legt in de Regeling macrobeheersinstrument huisartsenzorg 2026 vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
@@ -119,10 +91,14 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsrege
 
 ##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
+Inwerkingtreding / Bekendmaking
+
+Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst.
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel macrobeheersinstrument huisartsenzorg 2026.

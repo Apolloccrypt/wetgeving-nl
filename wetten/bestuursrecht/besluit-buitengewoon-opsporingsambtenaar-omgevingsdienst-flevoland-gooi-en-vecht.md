@@ -1,60 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 augustus 2025 nr. BOACAT2025/159, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Flevoland & Gooi en Vechtstreek"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Omgevingsdienst Flevoland & Gooi en Vechtstreek 2025"
 identifier: "BWBR0051386"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-08-19"
-last_updated: "2025-08-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051386"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17503553"
-version_id: "30880512"
-internal_id: "C44247651"
-label_id: "17405754"
-dtd_version: "2.0"
-original_entry_into_force: "2025-08-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051386/2025-08-19/0"
-intitule_bron: "Stcrt.2025-27950"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-08"
-intitule_published: "2025-08-18"
-intitule_in_force: "2025-08-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-27950"
-original_signed_date: "2025-08-08"
-original_published_date: "2025-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-27950"
-entry_into_force_date: "2025-08-19"
-jci_1_3: "jci1.3:c:BWBR0051386&z=2025-08-19&g=2025-08-19"
-jci_1_0: "1.0:c:BWBR0051386&g=2025-08-19"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Omgevingsdienst Flevoland & Gooi en Vechtstreek 2025"
-signed_date: "2025-08-08"
-entry_into_force: "2025-08-19"
+publicatiedatum: 2025-08-19
+laatste_update: 2025-08-19
+status: geldig
+toestand: 2025-08-19
+bron: "https://wetten.overheid.nl/BWBR0051386"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 augustus 2025 nr. BOACAT2025/159, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst Flevoland & Gooi en Vechtstreek
-
-Gelezen het verzoek van Omgevingsdienst Flevoland & Gooi en Vechtstreek van 20 mei 2025 en de adviezen van de hoofdofficier van Justitie van het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [regeling domeinlijsten buitengewoon opsporingsambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -66,7 +24,7 @@ De personen, werkzaam in de functie van tactisch leidinggevende II, medewerker B
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -88,7 +46,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewe
 
 ##### Artikel 7
 
-1. De Omgevingsdienst Flevoland & Gooi en Vechtstreek brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Omgevingsdienst Flevoland & Gooi en Vechtstreek brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051386&artikel=2&z=2025-08-19&g=2025-08-19) genoemde functie;
 
@@ -108,10 +66,8 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.
 
-Het [Besluit buitengewoon opsporingsambtenaar Omgevingsdienst Flevoland & Gooi en Vechtstreek 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044663) van 7 december 2020 nr. BOACAT2020/069 wordt ingetrokken.
+Het [Besluit buitengewoon opsporingsambtenaar Omgevingsdienst Flevoland & Gooi en Vechtstreek 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044663) van 7 december 2020 nr. BOACAT2020/069 wordt ingetrokken.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Omgevingsdienst Flevoland & Gooi en Vechtstreek 2025.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunst Erfgoed Festival"
 identifier: "BWBR0051134"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-06-26"
-last_updated: "2025-06-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051134"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17451583"
-version_id: "30777572"
-internal_id: "C44117371"
-label_id: "17354434"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051134/2025-06-26/0"
-intitule_bron: "Stcrt.2025-21321"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-06-25"
-intitule_in_force: "2025-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-21321"
-original_published_date: "2025-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-21321"
-entry_into_force_date: "2025-06-26"
-jci_1_3: "jci1.3:c:BWBR0051134&z=2025-06-26&g=2025-06-26"
-jci_1_0: "1.0:c:BWBR0051134&g=2025-06-26"
-citeertitel_status: "officieel"
-entry_into_force: "2025-06-26"
+publicatiedatum: 2025-06-26
+laatste_update: 2025-06-26
+status: geldig
+toestand: 2025-06-26
+bron: "https://wetten.overheid.nl/BWBR0051134"
+opgehaald: 2026-09-08
 ---
+
 # Deelregeling Kunst Erfgoed Festival
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -54,7 +31,7 @@ Er kan worden aangevraagd voor festivals, biënnales/triënnales en vergelijkbar
 
 2. Het percentage dat het Mondriaan Fonds kan bijdragen is maximaal 40% van de subsidiabele projectgerelateerde kosten.
 
-3. De minimale begroting van het project moet hoger zijn dan € 25.000 en mag alleen projectgerelateerde kosten bevatten.
+3. De minimale begroting van het project moet hoger zijn dan € 25.000 en mag alleen projectgerelateerde kosten bevatten.
 
 ##### Artikel 5. Weigeringsgronden
 
@@ -94,9 +71,9 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 2. De aanvragen worden allereerst beoordeeld aan de hand van het beoordelingscriterium ‘Projectplan’:
 
-- –. In hoeverre is de (artistiek-)inhoudelijke kwaliteit van het projectplan overtuigend?
+- – In hoeverre is de (artistiek-)inhoudelijke kwaliteit van het projectplan overtuigend?
 
-- –. Sluit het projectplan aan bij relevante ontwikkelingen in het veld?
+- – Sluit het projectplan aan bij relevante ontwikkelingen in het veld?
 
 3. Indien het bevoegd adviesorgaan het beoordelingscriterium ‘Projectplan’ als niet voldoende beoordeeld, wordt de aanvraag afgewezen.
 
@@ -104,19 +81,19 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - a. Kwaliteit organisatie
 
-- –. Heeft de organisatie een duidelijke visie?
+   - – Heeft de organisatie een duidelijke visie?
 
-- –. Wat is de (artistiek-)inhoudelijke kwaliteit van activiteiten uit het recente verleden?
+   - – Wat is de (artistiek-)inhoudelijke kwaliteit van activiteiten uit het recente verleden?
 
 - b. Publieksbereik
 
-- –. Is er sprake van een overtuigend publieksplan?
+   - – Is er sprake van een overtuigend publieksplan?
 
-- –. Is er op basis van het plan vertrouwen dat de activiteiten bijdragen aan een breder of diverser publieksbereik of dat de activiteiten op aansprekende wijze een bijzondere verbinding met publiek tot stand brengen?
+   - – Is er op basis van het plan vertrouwen dat de activiteiten bijdragen aan een breder of diverser publieksbereik of dat de activiteiten op aansprekende wijze een bijzondere verbinding met publiek tot stand brengen?
 
 - c. Culturele infrastructuur
 
-- –. Biedt het plan vertrouwen dat de activiteiten een relevante bijdrage zal leveren aan de culturele infrastructuur?
+   - – Biedt het plan vertrouwen dat de activiteiten een relevante bijdrage zal leveren aan de culturele infrastructuur?
 
 5. Bij de totale beoordeling wegen de beoordelingscriteria ’Projectplan’ en ‘Publieksbereik’ zwaarder.
 
@@ -141,5 +118,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunst Erfgoed Festival.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

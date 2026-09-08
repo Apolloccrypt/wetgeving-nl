@@ -1,40 +1,17 @@
 ---
 title: "Regeling Festivals creatieve industrie 2025–2028"
 identifier: "BWBR0051347"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-01"
-last_updated: "2025-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051347"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17497103"
-version_id: "30858042"
-internal_id: "C44215661"
-label_id: "17399674"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051347/2025-09-01/0"
-intitule_bron: "Stcrt.2025-26081"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-08-27"
-intitule_in_force: "2025-08-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-26081"
-original_published_date: "2025-08-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-26081"
-entry_into_force_date: "2025-09-01"
-jci_1_3: "jci1.3:c:BWBR0051347&z=2025-09-01&g=2025-09-01"
-jci_1_0: "1.0:c:BWBR0051347&g=2025-09-01"
-citeertitel_status: "officieel"
-entry_into_force: "2025-09-01"
+publicatiedatum: 2025-09-01
+laatste_update: 2025-09-01
+status: geldig
+toestand: 2025-09-01
+bron: "https://wetten.overheid.nl/BWBR0051347"
+opgehaald: 2026-09-08
 ---
+
 # Regeling Festivals creatieve industrie 2025–2028
-
-gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap,
-
-besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -42,39 +19,39 @@ besluit:
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Binnen deze regeling wordt verstaan onder:
 
-- 1. **aanvrager:** een natuurlijke persoon of rechtspersoon die op grond van deze regeling een subsidieaanvraag doet bij het Stimuleringsfonds;
+- 1. *aanvrager:* een natuurlijke persoon of rechtspersoon die op grond van deze regeling een subsidieaanvraag doet bij het Stimuleringsfonds;
 
-- 2. **adviescommissie:** een onafhankelijke, door het bestuur aangestelde commissie van externe deskundigen;
+- 2. *adviescommissie:* een onafhankelijke, door het bestuur aangestelde commissie van externe deskundigen;
 
-- 3. **beschikking:** de brief waarmee het bestuur formeel besluit over het al dan niet toekennen van de subsidie;
+- 3. *beschikking:* de brief waarmee het bestuur formeel besluit over het al dan niet toekennen van de subsidie;
 
-- 4. **beschikkingsdatum:** de datum zoals vermeld op de beschikking;
+- 4. *beschikkingsdatum:* de datum zoals vermeld op de beschikking;
 
-- 5. **bestuur:** de bestuurder van het Stimuleringsfonds, bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
+- 5. *bestuur:* de bestuurder van het Stimuleringsfonds, bedoeld in [artikel 5 van de statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849&artikel=5);
 
-- 6. **cofinanciering:** aanvullende financiering voor het project in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of bijdrage van een externe partij, naast de gevraagde subsidie van het Stimuleringsfonds. Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering;
+- 6. *cofinanciering:* aanvullende financiering voor het project in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of bijdrage van een externe partij, naast de gevraagde subsidie van het Stimuleringsfonds. Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering;
 
-- 7. **creatieve industrie:** het werkterrein van de vakgebieden vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze vakgebieden;
+- 7. *creatieve industrie:* het werkterrein van de vakgebieden vormgeving, architectuur en digitale cultuur inclusief mogelijke cross-overs tussen deze vakgebieden;
 
-- 8. **culturele instelling of -organisatie:** een non-profit- privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie;
+- 8. *culturele instelling of -organisatie:* een non-profit- privaatrechtelijke rechtspersoon met een ondersteunende, producerende of initiërende functie binnen de creatieve industrie;
 
-- 9. **festival:** een programma van onderling samenhangende voor publiek toegankelijke activiteiten die gedurende een in tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd. Zowel een eenmalige manifestatie als terugkerende festivals vallen onder deze definitie. Reguliere tentoonstellingen vallen niet onder de definitie van een festival;
+- 9. *festival:* een programma van onderling samenhangende voor publiek toegankelijke activiteiten die gedurende een in tijd beperkte periode onder een gemeenschappelijke noemer worden georganiseerd. Zowel een eenmalige manifestatie als terugkerende festivals vallen onder deze definitie. Reguliere tentoonstellingen vallen niet onder de definitie van een festival;
 
-- 10. **het Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba;
+- 10. *het Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit de landen Nederland, Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- 11. **producent:** een rechtspersoon die bedrijfsmatig zorgdraagt voor de ontwikkeling, coördinatie en productie van (media)producties zoals (animatie)films of andersoortige AV-producten en vanuit die rol namens een maker als aanvrager optreedt;
+- 11. *producent:* een rechtspersoon die bedrijfsmatig zorgdraagt voor de ontwikkeling, coördinatie en productie van (media)producties zoals (animatie)films of andersoortige AV-producten en vanuit die rol namens een maker als aanvrager optreedt;
 
-- 12. **Stimuleringsfonds:** de stichting Stimuleringsfonds Creatieve Industrie;
+- 12. *Stimuleringsfonds:* de stichting Stimuleringsfonds Creatieve Industrie;
 
-- 13. **subsidiebehoefte:** het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten min de cofinanciering en eventuele eigen bijdragen;
+- 13. *subsidiebehoefte:* het bedrag dat op grond van deze regeling wordt aangevraagd bij het Stimuleringsfonds. Dit bedrag wordt gevormd door de totale projectkosten min de cofinanciering en eventuele eigen bijdragen;
 
-- 14. **subsidieplafond:** het maximaal voor subsidies beschikbare bedrag binnen een subsidietijdvak;
+- 14. *subsidieplafond:* het maximaal voor subsidies beschikbare bedrag binnen een subsidietijdvak;
 
-- 15. **vakgebied architectuur:** tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw en ruimtelijke ordening, inclusief aanverwante activiteiten gericht op analyse, onderzoek, reflectie en debat op deze terreinen;
+- 15. *vakgebied architectuur:* tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw en ruimtelijke ordening, inclusief aanverwante activiteiten gericht op analyse, onderzoek, reflectie en debat op deze terreinen;
 
-- 16. **vakgebied digitale cultuur:** tot het vakgebied digitale cultuur wordt gerekend: ontwerp in relatie tot nieuwe media en -technologieën, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanisme, internetcultuur, inclusief aanverwante activiteiten gericht op onderzoek, experiment en reflectie op deze terreinen;
+- 16. *vakgebied digitale cultuur:* tot het vakgebied digitale cultuur wordt gerekend: ontwerp in relatie tot nieuwe media en -technologieën, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanisme, internetcultuur, inclusief aanverwante activiteiten gericht op onderzoek, experiment en reflectie op deze terreinen;
 
-- 17. **vakgebied vormgeving:** het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, textielontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
+- 17. *vakgebied vormgeving:* het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, textielontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
 ##### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
@@ -92,7 +69,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 3. Met de regeling geeft het Stimuleringsfonds invulling aan de volgende beleidsdoelstelling:
 
-- –. Bevorderen van een gezonde en vernieuwende ontwerpinfrastructuur.
+- – Bevorderen van een gezonde en vernieuwende ontwerpinfrastructuur.
 
 ##### Artikel 4. Begrotingsvoorbehoud
 
@@ -148,7 +125,7 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 ##### Artikel 8. Ingangseisen
 
-1. De subsidiebehoefte bedraagt minimaal € 35.000 en maximaal € 85.000.
+1. De subsidiebehoefte bedraagt minimaal € 35.000 en maximaal € 85.000.
 
 2. Het festival draagt bij aan de versterking van de vakgebieden vormgeving, architectuur en/of digitale cultuur binnen het Koninkrijk.
 
@@ -186,9 +163,9 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 4. In het kader van Europese wet- en regelgeving ten aanzien van staatssteun geldt tevens dat voor aanvragers die kunnen worden beschouwd als onderneming subsidie op grond van deze regeling wordt geweigerd als:
 
-- a. ten aanzien van de aanvrager een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene [groepsvrijstellingsverordening 651/2014](32014R0651); of
+- a. ten aanzien van de aanvrager een bevel tot terugvordering uitstaat als bedoeld in artikel 1, vierde lid, onder a, van de algemene groepsvrijstellingsverordening 651/2014; of
 
-- b. de aanvrager kan worden gekwalificeerd als een onderneming in moeilijkheden als bedoeld in artikel 2, onder 18 en artikel 1, vierde lid, onder c, van de algemene [groepsvrijstellingsverordening 651/2014](32014R0651).
+- b. de aanvrager kan worden gekwalificeerd als een onderneming in moeilijkheden als bedoeld in artikel 2, onder 18 en artikel 1, vierde lid, onder c, van de algemene groepsvrijstellingsverordening 651/2014.
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
@@ -244,13 +221,13 @@ Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie v
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende criteria, die in gelijke mate worden gewogen:
 
-- a. **De bijdrage van het festival aan het versterken van de publieke belangstelling voor de creatieve industrie in het betreffende landsdeel of regio:** Het vergroten van het publieksbereik en interesse voor de vakgebieden vormgeving, architectuur en/of digitale cultuur is een belangrijk doel van deze regeling. De adviescommissie kijkt naar het doel, de opzet van het festival, de programmering en de vertaling daarvan naar een publieksstrategie, het bereik en de verwachte impact op het publiek. De adviescommissie weegt mee in hoeverre het festival is ingebed in de lokale context. Ook betrekt de adviescommissie bij het toepassen van dit criterium het onderdeel ‘publiek’ van de Code Diversiteit en Inclusie.
+- a. *De bijdrage van het festival aan het versterken van de publieke belangstelling voor de creatieve industrie in het betreffende landsdeel of regio:* Het vergroten van het publieksbereik en interesse voor de vakgebieden vormgeving, architectuur en/of digitale cultuur is een belangrijk doel van deze regeling. De adviescommissie kijkt naar het doel, de opzet van het festival, de programmering en de vertaling daarvan naar een publieksstrategie, het bereik en de verwachte impact op het publiek. De adviescommissie weegt mee in hoeverre het festival is ingebed in de lokale context. Ook betrekt de adviescommissie bij het toepassen van dit criterium het onderdeel ‘publiek’ van de Code Diversiteit en Inclusie.
 
-- b. **De betekenis van het festival voor de creatieve industrie:** De adviescommissie beoordeelt de mate waarin het festival een bijdrage levert aan de ontwikkeling van de vakgebieden vormgeving, architectuur en/of digitale cultuur. Hierbij betrekt de adviescommissie in het geval van een terugkerend festival in de eerste plaats de aanzet voor het programma, het meest recente inhoudelijke jaarverslag en de reflectie van de aanvrager op de laatste editie. In het geval van een eerste editie of eenmalige manifestatie betrekt de adviescommissie de relevantie van de thematiek van het programma, in hoeverre de programmering onderscheidend is binnen het bestaande aanbod, de deelnemende makers en de opzet van het programma.
+- b. *De betekenis van het festival voor de creatieve industrie:* De adviescommissie beoordeelt de mate waarin het festival een bijdrage levert aan de ontwikkeling van de vakgebieden vormgeving, architectuur en/of digitale cultuur. Hierbij betrekt de adviescommissie in het geval van een terugkerend festival in de eerste plaats de aanzet voor het programma, het meest recente inhoudelijke jaarverslag en de reflectie van de aanvrager op de laatste editie. In het geval van een eerste editie of eenmalige manifestatie betrekt de adviescommissie de relevantie van de thematiek van het programma, in hoeverre de programmering onderscheidend is binnen het bestaande aanbod, de deelnemende makers en de opzet van het programma.
 
-- c. **De mate waarin de aanvraag doeltreffend is opgezet en draagvlak wordt gecreëerd voor het festival:** Uit de aanvraag moet blijken door wie en hoe het festival wordt georganiseerd. De adviescommissie kijkt bij de beoordeling naar de mate van consistentie in doel en opzet. Er wordt beoordeeld of het plan van aanpak helder is en of de beoogde doelen kunnen worden behaald. De adviescommissie beoordeelt hierbij of de benodigde expertise om dit te bereiken aanwezig is en met welke partners wordt samengewerkt. In het geval van een jaarlijks terugkerend festival wordt hierbij tevens het meest recente financiële jaarverslag betrokken.
+- c. *De mate waarin de aanvraag doeltreffend is opgezet en draagvlak wordt gecreëerd voor het festival:* Uit de aanvraag moet blijken door wie en hoe het festival wordt georganiseerd. De adviescommissie kijkt bij de beoordeling naar de mate van consistentie in doel en opzet. Er wordt beoordeeld of het plan van aanpak helder is en of de beoogde doelen kunnen worden behaald. De adviescommissie beoordeelt hierbij of de benodigde expertise om dit te bereiken aanwezig is en met welke partners wordt samengewerkt. In het geval van een jaarlijks terugkerend festival wordt hierbij tevens het meest recente financiële jaarverslag betrokken.
 
-- d. **De bedrijfsmatige gezondheid van de organisatie.** De adviescommissie beoordeelt de haalbaarheid van de begroting, inclusief het dekkingsplan en de mate waarin sprake is van een duurzame en solide organisatie. De adviescommissie hanteert hierbij de uitgangspunten van de Fair Practice Code en betrekt in de beoordeling van de aanvraag op dit criterium de analyse op de toepassing van Fair Practice door het Stimuleringsfonds.
+- d. *De bedrijfsmatige gezondheid van de organisatie.* De adviescommissie beoordeelt de haalbaarheid van de begroting, inclusief het dekkingsplan en de mate waarin sprake is van een duurzame en solide organisatie. De adviescommissie hanteert hierbij de uitgangspunten van de Fair Practice Code en betrekt in de beoordeling van de aanvraag op dit criterium de analyse op de toepassing van Fair Practice door het Stimuleringsfonds.
 
 ##### Artikel 14. Prioritering
 
@@ -358,7 +335,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 ##### Artikel 24. Inwerkingtreding en expiratie
 
-1. Deze regeling treedt in werking met ingang van 1 september 2025.
+1. Deze regeling treedt in werking met ingang van 1 september 2025.
 
 2. De [Regeling Festivals en publiekspresentaties creatieve industrie 2023–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0047760) wordt ingetrokken.
 
@@ -366,10 +343,8 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 4. Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
-5. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
+5. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
 ##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Festivals creatieve industrie 2025–2028.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

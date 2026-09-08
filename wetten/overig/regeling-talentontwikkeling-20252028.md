@@ -1,46 +1,17 @@
 ---
 title: "Regeling Talentontwikkeling 2025–2028"
 identifier: "BWBR0050881"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-03-27"
-last_updated: "2025-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050881"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17390133"
-version_id: "30657802"
-internal_id: "C43955121"
-label_id: "17293954"
-dtd_version: "2.0"
-original_entry_into_force: "2025-03-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050881/2025-03-27/0"
-intitule_bron: "Stcrt.2025-10390"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-03-26"
-intitule_in_force: "2025-03-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-10390"
-original_published_date: "2025-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-10390"
-entry_into_force_date: "2025-03-27"
-jci_1_3: "jci1.3:c:BWBR0050881&z=2025-03-27&g=2025-03-27"
-jci_1_0: "1.0:c:BWBR0050881&g=2025-03-27"
-citeertitel_status: "officieel"
-entry_into_force: "2025-03-27"
+publicatiedatum: 2025-03-27
+laatste_update: 2025-03-27
+status: geldig
+toestand: 2025-03-27
+bron: "https://wetten.overheid.nl/BWBR0050881"
+opgehaald: 2026-09-08
 ---
+
 # Regeling Talentontwikkeling 2025–2028
-
-gelet op [artikel 10, vierde lid, van de **Wet op het specifiek cultuurbeleid**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-gelet op [artikel 4:23, eerste lid van de **Algemene wet bestuursrecht**](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045516);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2022; en voor de gewijzigde versie op 27 maart 2023;
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,67 +19,69 @@ besluit:
 
 1. In deze regeling worden onderstaande begrippen gebruikt
 
-- a. **Activiteit:** een specifieke handeling of bezigheid die door de aanvrager wordt gestart. Bijvoorbeeld brainstorms, repetities, coachingsessies, bijeenkomsten en presentaties. Deze activiteit wordt door, of met, de doelgroep (een persoon, groep of organisatie) uitgevoerd om een specifiek effect te bereiken.
+- a. *Activiteit:* een specifieke handeling of bezigheid die door de aanvrager wordt gestart. Bijvoorbeeld brainstorms, repetities, coachingsessies, bijeenkomsten en presentaties. Deze activiteit wordt door, of met, de doelgroep (een persoon, groep of organisatie) uitgevoerd om een specifiek effect te bereiken.
 
-- b. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van het Fonds 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
+- b. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het [Huishoudelijk Reglement van het Fonds 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042690).
 
-- c. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement van het Fonds 2021.](https://fvcp.fra1.cdn.digitaloceanspaces.com/uploads/asr27mrt23-64380.pdf)
+- c. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement van het Fonds 2021.](https://fvcp.fra1.cdn.digitaloceanspaces.com/uploads/asr27mrt23-64380.pdf)
 
-- d. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- e. **Caribisch Nederland:** de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba
+- e. *Caribisch Nederland:* de drie openbare lichamen van het land Nederland, zijnde de eilanden: Bonaire, Sint Eustatius en Saba
 
-- f. **Coach:** persoon die zich via informele routes heeft ontwikkeld als coach voor talenten, en aantoonbaar minstens 3 jaar actief talenten in informele netwerken begeleidt.
+- f. *Coach:* persoon die zich via informele routes heeft ontwikkeld als coach voor talenten, en aantoonbaar minstens 3 jaar actief talenten in informele netwerken begeleidt.
 
-- g. **Culturele Codes:** Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
+- g. *Culturele Codes:* Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
 
-- h. **Cultuur:** het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
+- h. *Cultuur:* het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale en artistieke processen.
 
-- i. **Cultuurbeoefening:** het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst. Dit wordt ook wel cultuurparticipatie genoemd.
+- i. *Cultuurbeoefening:* het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst. Dit wordt ook wel cultuurparticipatie genoemd.
 
-- j. **Culturele instelling:** een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
+- j. *Culturele instelling:* een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de Kamer van Koophandel of vergelijkbare organisatie.
 
-- k. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- k. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- l. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- l. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- m. **Informele netwerken:** netwerken die spontaan ontstaan en waarbinnen specifieke regels, beeld, taal en waarden gelden, vrijwel los van verbinding met formele opleidingstrajecten.
+- m. *Informele netwerken:* netwerken die spontaan ontstaan en waarbinnen specifieke regels, beeld, taal en waarden gelden, vrijwel los van verbinding met formele opleidingstrajecten.
 
-- n. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- n. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- o. **Materiële investeringen:** kosten voor de aanschaf van materialen voor een project die aanvrager na dat project nog langere tijd kan gebruiken.
+- o. *Materiële investeringen:* kosten voor de aanschaf van materialen voor een project die aanvrager na dat project nog langere tijd kan gebruiken.
 
-- p. **Materiaalkosten:** kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
+- p. *Materiaalkosten:* kosten voor aanschaf van materialen zonder welke het project niet kan worden uitgevoerd.
 
-- q. **Ministerie van OCW:** Ministerie van Onderwijs, Cultuur en Wetenschap.
+- q. *Ministerie van OCW:* Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-- r. **Overheidslichaam:** een krachtens publiekrecht ingestelde rechtspersoon.
+- r. *Overheidslichaam:* een krachtens publiekrecht ingestelde rechtspersoon.
 
-- s. **Professional:** een natuurlijk persoon die
+- s. *Professional:* een natuurlijk persoon die
 
-- (1). ten minste een parttime aanstelling bij een organisatie heeft,
+   - (1) ten minste een parttime aanstelling bij een organisatie heeft,
 
-- (2). vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding,
+   - (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding,
 
-- (3). als zelfstandige minimaal drie jaar als ondernemer wordt beschouwd door de Belastingdienst en staat ingeschreven bij de Kamer van Koophandel of een vergelijkbare organisatie, en/of
+   - (3) als zelfstandige minimaal drie jaar als ondernemer wordt beschouwd door de Belastingdienst en staat ingeschreven bij de Kamer van Koophandel of een vergelijkbare organisatie, en/of
 
-- (4). financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
+   - (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
 
-- t. **Project:** tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
+- t. *Project:* tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
 
-- u. **Semi-overheidslichaam:** een privaatrechtelijke rechtspersoon die is opgericht door een overheidslichaam, een privaatrechtelijke rechtspersoon waarvan een overheidslichaam voor meer dan 50% van de aandelen bezit, of een privaatrechtelijke rechtspersoon waar een overheidslichaam direct of indirect voor meer dan 50% zeggenschap over het bestuur heeft.
+- u. *Semi-overheidslichaam:* een privaatrechtelijke rechtspersoon die is opgericht door een overheidslichaam, een privaatrechtelijke rechtspersoon waarvan een overheidslichaam voor meer dan 50% van de aandelen bezit, of een privaatrechtelijke rechtspersoon waar een overheidslichaam direct of indirect voor meer dan 50% zeggenschap over het bestuur heeft.
 
-- v. **Subsidieplafond:** het totaalbedrag binnen een regeling of hoofdstuk dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
+- v. *Subsidieplafond:* het totaalbedrag binnen een regeling of hoofdstuk dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
 
-- w. **Talent:** een amateur, vanaf acht jaar oud, die
+- w. *Talent:* een amateur, vanaf acht jaar oud, die
 
-- (1). een sterke behoefte heeft om zichzelf te ontwikkelen in het maken van kunst met de ambitie om professional te worden, en/of
+   - (1) een sterke behoefte heeft om zichzelf te ontwikkelen in het maken van kunst met de ambitie om professional te worden, en/of
 
-- (2). door een instelling voor talentontwikkeling gezien wordt als talent.
+   - (2) door een instelling voor talentontwikkeling gezien wordt als talent.
 
-- x. **Talentontwikkeling:** projecten die zijn gericht op het herkennen, selecteren, begeleiden en ontwikkelen van talent. Deze projecten bereiden talenten voor op eventuele deelname aan het kunstvakonderwijs, of zijn onderdeel van een alternatieve opleidingsroute.
+- x. *Talentontwikkeling:* projecten die zijn gericht op het herkennen, selecteren, begeleiden en ontwikkelen van talent. Deze projecten bereiden talenten voor op eventuele deelname aan het kunstvakonderwijs, of zijn onderdeel van een alternatieve opleidingsroute.
 
-- y. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
+- y. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
 2. In de volgende hoofdstukken staan de definities van de begrippen die bij het desbetreffende hoofdstuk horen.
 
@@ -122,7 +95,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 ##### Artikel 1.4. Indieningstermijnen
 
-1. Aanvragen kunnen worden ingediend vanaf 2 april 2025 13:00 uur tot en met 30 augustus 2028 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen kunnen worden ingediend vanaf 2 april 2025 13:00 uur tot en met 30 augustus 2028 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
 2. Wanneer het budgetplafond per jaar of in totaal bereikt is, kan het Fonds besluiten de mogelijkheid tot indiening vervroegd te sluiten.
 
@@ -142,13 +115,13 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 - a. voor dezelfde projecten al subsidie is of zal worden verleend:
 
-- 1°. door het Fonds;
+   - 1° door het Fonds;
 
-- 2°. door een van de andere rijkscultuurfondsen;
+   - 2° door een van de andere rijkscultuurfondsen;
 
-- 3°. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - 3° op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- 4°. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - 4° op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. het project waarvoor subsidie wordt gevraagd, op het moment van de aanvraag al wordt uitgevoerd;
 
@@ -234,9 +207,9 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt als moment van het indienen van de aanvraag.
 
-4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
+4. Aanvragen voor een subsidie tot en met € 25.000 en die voldoen aan de eisen van de regeling, worden door een interne adviescommissie beoordeeld.
 
-5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
+5. Aanvragen voor een subsidie van meer dan € 25.000 en die voldoen aan de eisen van de regeling, worden aan een externe adviescommissie voorgelegd voor advies.
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder de adviescommissie om advies te vragen.
 
@@ -248,9 +221,9 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 ##### Artikel 1.11. Voorschotten
 
-1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
+1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
-2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+2. Voor subsidie van meer dan € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
 3. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaald. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen onvoldoende nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
@@ -261,6 +234,8 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. - Ontwikkeltrajecten talenten, coaches en groepen talenten
+
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&z=2025-03-27&g=2025-03-27). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven. Op grond van dit hoofdstuk wordt uitsluitend subsidie verstrekt voor ontwikkeltrajecten van personen.
 
 #### Paragraaf 1. Algemeen
 
@@ -274,7 +249,7 @@ Een aanvraag in hoofdstuk 2 wordt namens het talent, de coach of groep talenten 
 
 ##### Artikel 2.2.1. Doel en effecten
 
-Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van individuele talenten die actief zijn binnen informele netwerken. Deze projecten dragen bij aan het effect: **Talentontplooiing**.
+Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van individuele talenten die actief zijn binnen informele netwerken. Deze projecten dragen bij aan het effect: *Talentontplooiing*.
 
 ##### Artikel 2.2.2. Waarvoor kan worden aangevraagd
 
@@ -284,13 +259,13 @@ Subsidie kan worden aangevraagd voor een individueel ontwikkeltraject waarin tal
 
 Voor een project in paragraaf 2:
 
-- a. Kan minimaal € 10.000 tot maximaal € 25.000 worden aangevraagd; en
+- a. Kan minimaal € 10.000 tot maximaal € 25.000 worden aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 2.2.4. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 2 is € 421.970 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 2 is € 421.970 per kalenderjaar.
 
 ##### Artikel 2.2.5. Beoordelingscriteria
 
@@ -314,7 +289,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 ##### Artikel 2.3.1. Doel en effecten
 
-Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkelings- en professionaliseringstrajecten van individuele coaches actief binnen informele netwerken. Deze projecten dragen bij aan het effect: **Professionalisering**.
+Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkelings- en professionaliseringstrajecten van individuele coaches actief binnen informele netwerken. Deze projecten dragen bij aan het effect: *Professionalisering*.
 
 ##### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
 
@@ -324,13 +299,13 @@ Subsidie kan worden aangevraagd voor een individueel ontwikkeltraject waarin coa
 
 Voor een project in paragraaf 3:
 
-- a. Kan minimaal € 25.000 tot maximaal € 50.000 worden aangevraagd; en
+- a. Kan minimaal € 25.000 tot maximaal € 50.000 worden aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 2.3.4. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 3 is € 187.542 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 3 is € 187.542 per kalenderjaar.
 
 ##### Artikel 2.3.5. Beoordelingscriteria
 
@@ -354,7 +329,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 ##### Artikel 2.4.1. Doel en effecten
 
-Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van groepen talenten actief binnen informele netwerken. Deze projecten dragen bij aan de effecten: **Talentontplooiing** en **Talentontwikkeling**.
+Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van groepen talenten actief binnen informele netwerken. Deze projecten dragen bij aan de effecten: *Talentontplooiing* en *Talentontwikkeling*.
 
 ##### Artikel 2.4.2. Waarvoor kan worden aangevraagd?
 
@@ -364,13 +339,13 @@ Subsidie kan worden aangevraagd voor een ontwikkeltraject in waarin meerdere tal
 
 Voor een project in paragraaf 4:
 
-- a. Kan minimaal € 25.000 tot maximaal € 75.000 worden aangevraagd; en
+- a. Kan minimaal € 25.000 tot maximaal € 75.000 worden aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 2.4.4. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 4 bedraagt € 797.054 totaal per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 4 bedraagt € 797.054 totaal per kalenderjaar.
 
 ##### Artikel 2.4.5. Beoordelingscriteria
 
@@ -392,21 +367,23 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 ### Hoofdstuk 3. - Ontwikkeltrajecten instellingen
 
+De artikelen in dit hoofdstuk zijn verbijzonderde bepalingen ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&z=2025-03-27&g=2025-03-27). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven.
+
 #### Paragraaf 1. Algemeen
 
 ##### Artikel 3.1.1. Gebruikte begrippen
 
 In aanvulling op [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&artikel=1.1&z=2025-03-27&g=2025-03-27) worden in dit hoofdstuk onderstaande begrippen gebruikt
 
-- a. **Methode:** een omschreven en doelgerichte werkwijze om in een bepaalde situatie een bepaald vraagstuk op te lossen met betrekking tot de ontwikkeling van talenten in informele netwerken. Een methode geeft richting aan het handelen door middel van aanwijzingen voor het gebruik van instrumenten en technieken.
+- a. *Methode:* een omschreven en doelgerichte werkwijze om in een bepaalde situatie een bepaald vraagstuk op te lossen met betrekking tot de ontwikkeling van talenten in informele netwerken. Een methode geeft richting aan het handelen door middel van aanwijzingen voor het gebruik van instrumenten en technieken.
 
-- b. **Methodiek:** een systematische manier van handelen om kennis te vergaren of een geheel van te volgen, vaste, weldoordachte werkwijzen om talenten in informele netwerken verder te ontwikkelen.
+- b. *Methodiek:* een systematische manier van handelen om kennis te vergaren of een geheel van te volgen, vaste, weldoordachte werkwijzen om talenten in informele netwerken verder te ontwikkelen.
 
 #### Paragraaf 2. Methodiekontwikkeling
 
 ##### Artikel 3.2.1. Doel en effecten
 
-Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn methodiekontwikkeling op het gebied van talentontwikkeling binnen informele netwerken. Projecten in deze paragraaf dragen bij aan het effect **Talentontwikkeling**.
+Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn methodiekontwikkeling op het gebied van talentontwikkeling binnen informele netwerken. Projecten in deze paragraaf dragen bij aan het effect *Talentontwikkeling*.
 
 ##### Artikel 3.2.2. Waarvoor kan worden aangevraagd
 
@@ -416,13 +393,13 @@ Subsidie kan worden aangevraagd voor het (door)ontwikkelen en implementeren van 
 
 Voor een project in paragraaf 2:
 
-- a. Kan minimaal € 25.000 tot maximaal € 50.000 worden aangevraagd; en
+- a. Kan minimaal € 25.000 tot maximaal € 50.000 worden aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 3.2.4. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 2 is € 187.542 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 2 is € 187.542 per kalenderjaar.
 
 ##### Artikel 3.2.5. Beoordelingscriteria
 
@@ -454,13 +431,13 @@ Subsidie kan worden aangevraagd voor projecten die bijdragen aan professionalise
 
 Voor een project in paragraaf 3:
 
-- a. Kan minimaal € 50.000 tot maximaal € 125.000 worden aangevraagd; en
+- a. Kan minimaal € 50.000 tot maximaal € 125.000 worden aangevraagd; en
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
 ##### Artikel 3.3.4. Subsidieplafond
 
-Het subsidieplafond voor projecten in paragraaf 3 is € 656.398 per kalenderjaar.
+Het subsidieplafond voor projecten in paragraaf 3 is € 656.398 per kalenderjaar.
 
 ##### Artikel 3.3.5. Beoordelingscriteria
 
@@ -488,7 +465,7 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alle
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
+2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
 ##### Artikel 4.3. Citeertitel
 

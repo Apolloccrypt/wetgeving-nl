@@ -1,147 +1,123 @@
 ---
 title: "Algemeen organisatiebesluit Defensie 2025"
 identifier: "BWBR0051326"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-26"
-last_updated: "2025-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051326"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17489473"
-version_id: "30847722"
-internal_id: "C44204241"
-label_id: "17392044"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051326/2025-07-26/0"
-intitule_bron: "Stcrt.2025-25342"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-15"
-intitule_published: "2025-07-25"
-intitule_in_force: "2025-07-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-25342"
-original_signed_date: "2025-07-15"
-original_published_date: "2025-07-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-25342"
-entry_into_force_date: "2025-07-26"
-jci_1_3: "jci1.3:c:BWBR0051326&z=2025-07-26&g=2025-07-26"
-jci_1_0: "1.0:c:BWBR0051326&g=2025-07-26"
-citeertitel_status: "officieel"
-signed_date: "2025-07-15"
-entry_into_force: "2025-07-26"
+publicatiedatum: 2025-07-26
+laatste_update: 2025-07-26
+status: geldig
+toestand: 2025-07-26
+bron: "https://wetten.overheid.nl/BWBR0051326"
+opgehaald: 2026-09-08
 ---
-# Algemeen organisatiebesluit Defensie 2025
 
-Besluit:
+# Algemeen organisatiebesluit Defensie 2025
 
 ##### Artikel 1. De inrichting van het Ministerie van Defensie
 
 - 1. Het Ministerie van Defensie kent de volgende verantwoordelijken:
 
-- a. De Secretaris-Generaal ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=2&z=2025-07-26&g=2025-07-26));
+   - a. De Secretaris-Generaal ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=2&z=2025-07-26&g=2025-07-26));
 
-- b. De plaatsvervangend Secretaris-Generaal ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=3&z=2025-07-26&g=2025-07-26))
+   - b. De plaatsvervangend Secretaris-Generaal ([artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=3&z=2025-07-26&g=2025-07-26))
 
-- c. De Commandant der Strijdkrachten ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=4&z=2025-07-26&g=2025-07-26));
+   - c. De Commandant der Strijdkrachten ([artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=4&z=2025-07-26&g=2025-07-26));
 
-- d. De Directeur-Generaal Beleid ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=5&z=2025-07-26&g=2025-07-26));
+   - d. De Directeur-Generaal Beleid ([artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=5&z=2025-07-26&g=2025-07-26));
 
-- e. De Hoofddirecteur Financiën en Control ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=6&z=2025-07-26&g=2025-07-26));
+   - e. De Hoofddirecteur Financiën en Control ([artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=6&z=2025-07-26&g=2025-07-26));
 
-- f. De Chief Information Officer ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=7&z=2025-07-26&g=2025-07-26));
+   - f. De Chief Information Officer ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=7&z=2025-07-26&g=2025-07-26));
 
-- g. De Directeur Communicatie ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=8&z=2025-07-26&g=2025-07-26));
+   - g. De Directeur Communicatie ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=8&z=2025-07-26&g=2025-07-26));
 
-- h. De Directeur Juridische Zaken ([artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=9&z=2025-07-26&g=2025-07-26));
+   - h. De Directeur Juridische Zaken ([artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=9&z=2025-07-26&g=2025-07-26));
 
-- i. De Directeur Bestuursondersteuning en Advies ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=10&z=2025-07-26&g=2025-07-26));
+   - i. De Directeur Bestuursondersteuning en Advies ([artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=10&z=2025-07-26&g=2025-07-26));
 
-- j. De Directeur Human Resources en Bedrijfsvoering ([artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=11&z=2025-07-26&g=2025-07-26));
+   - j. De Directeur Human Resources en Bedrijfsvoering ([artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=11&z=2025-07-26&g=2025-07-26));
 
-- k. De Directeur Financiën & Control Bestuursstaf ([artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=12&z=2025-07-26&g=2025-07-26));
+   - k. De Directeur Financiën & Control Bestuursstaf ([artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=12&z=2025-07-26&g=2025-07-26));
 
-- l. De Commandant Zeestrijdkrachten ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=13&z=2025-07-26&g=2025-07-26));
+   - l. De Commandant Zeestrijdkrachten ([artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=13&z=2025-07-26&g=2025-07-26));
 
-- m. De Commandant Landstrijdkrachten ([artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=14&z=2025-07-26&g=2025-07-26));
+   - m. De Commandant Landstrijdkrachten ([artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=14&z=2025-07-26&g=2025-07-26));
 
-- n. De Commandant Lucht- en Ruimtestrijdkrachten ([artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=15&z=2025-07-26&g=2025-07-26));
+   - n. De Commandant Lucht- en Ruimtestrijdkrachten ([artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=15&z=2025-07-26&g=2025-07-26));
 
-- o. De Commandant Koninklijke Marechaussee ([artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=16&z=2025-07-26&g=2025-07-26));
+   - o. De Commandant Koninklijke Marechaussee ([artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=16&z=2025-07-26&g=2025-07-26));
 
-- p. De Commandant Defensie Ondersteuningscommando ([artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=17&z=2025-07-26&g=2025-07-26));
+   - p. De Commandant Defensie Ondersteuningscommando ([artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=17&z=2025-07-26&g=2025-07-26));
 
-- q. De Commandant Commando Materieel en IT ([artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=18&z=2025-07-26&g=2025-07-26));
+   - q. De Commandant Commando Materieel en IT ([artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=18&z=2025-07-26&g=2025-07-26));
 
-- r. De Directeur Militaire Inlichtingen- en Veiligheidsdienst ([artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=19&z=2025-07-26&g=2025-07-26));
+   - r. De Directeur Militaire Inlichtingen- en Veiligheidsdienst ([artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=19&z=2025-07-26&g=2025-07-26));
 
-- s. De Inspecteur-Generaal der Krijgsmacht ([artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=20&z=2025-07-26&g=2025-07-26));
+   - s. De Inspecteur-Generaal der Krijgsmacht ([artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=20&z=2025-07-26&g=2025-07-26));
 
-- t. De Inspecteur-Generaal Veiligheid ([artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=21&z=2025-07-26&g=2025-07-26));
+   - t. De Inspecteur-Generaal Veiligheid ([artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=21&z=2025-07-26&g=2025-07-26));
 
-- u. De Directeur Militaire Luchtvaart Autoriteit ([artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=22&z=2025-07-26&g=2025-07-26)).
+   - u. De Directeur Militaire Luchtvaart Autoriteit ([artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=22&z=2025-07-26&g=2025-07-26)).
 
-- v. De Directeur Centrale Organisatie Integriteit Defensie ([artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=23&z=2025-07-26&g=2025-07-26));
+   - v. De Directeur Centrale Organisatie Integriteit Defensie ([artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=23&z=2025-07-26&g=2025-07-26));
 
-- w. De Inspecteur Militaire Gezondheidszorg ([artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=24&z=2025-07-26&g=2025-07-26)).
+   - w. De Inspecteur Militaire Gezondheidszorg ([artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=24&z=2025-07-26&g=2025-07-26)).
 
-- x. De Directeur Diensten Geestelijke Verzorging ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=25&z=2025-07-26&g=2025-07-26))
+   - x. De Directeur Diensten Geestelijke Verzorging ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=25&z=2025-07-26&g=2025-07-26))
 
 - 2. Het Ministerie van Defensie bestaat uit de defensieonderdelen:
 
-- a. De Bestuursstaf (hierna te noemen ‘kerndepartement’);
+   - a. De Bestuursstaf (hierna te noemen ‘kerndepartement’);
 
-- b. Het Commando Zeestrijdkrachten;
+   - b. Het Commando Zeestrijdkrachten;
 
-- c. Het Commando Landstrijdkrachten;
+   - c. Het Commando Landstrijdkrachten;
 
-- d. Het Commando Lucht- en Ruimtestrijdkrachten;
+   - d. Het Commando Lucht- en Ruimtestrijdkrachten;
 
-- e. Het Commando Koninklijke Marechaussee;
+   - e. Het Commando Koninklijke Marechaussee;
 
-- f. Het Defensie Ondersteuningscommando;
+   - f. Het Defensie Ondersteuningscommando;
 
-- g. Het Commando Materieel en IT.
+   - g. Het Commando Materieel en IT.
 
 - 3. Het kerndepartement bestaat uit:
 
-- a. De Defensiestaf;
+   - a. De Defensiestaf;
 
-- b. Het Directoraat-Generaal Beleid;
+   - b. Het Directoraat-Generaal Beleid;
 
-- c. De Hoofddirectie Financiën en Control;
+   - c. De Hoofddirectie Financiën en Control;
 
-- d. Het CIO Office;
+   - d. Het CIO Office;
 
-- e. De Directie Juridische Zaken;
+   - e. De Directie Juridische Zaken;
 
-- f. De Directie Communicatie;
+   - f. De Directie Communicatie;
 
-- g. De Directie Bestuursondersteuning en Advies;
+   - g. De Directie Bestuursondersteuning en Advies;
 
-- h. De Directie Human Resources en Bedrijfsvoering;
+   - h. De Directie Human Resources en Bedrijfsvoering;
 
-- i. De Directie Financiën & Control;
+   - i. De Directie Financiën & Control;
 
-- j. Bijzondere Organisatie Eenheden.
+   - j. Bijzondere Organisatie Eenheden.
 
 - 4. Bijzondere Organisatie Eenheden zijn:
 
-- a. De Militaire Inlichtingen- en Veiligheidsdienst;
+   - a. De Militaire Inlichtingen- en Veiligheidsdienst;
 
-- b. Het Inspectoraat-Generaal der Krijgsmacht;
+   - b. Het Inspectoraat-Generaal der Krijgsmacht;
 
-- c. De Inspectie Veiligheid Defensie;
+   - c. De Inspectie Veiligheid Defensie;
 
-- d. De Militaire Luchtvaart Autoriteit;
+   - d. De Militaire Luchtvaart Autoriteit;
 
-- e. De Centrale Organisatie Integriteit Defensie;
+   - e. De Centrale Organisatie Integriteit Defensie;
 
-- f. De Inspectie Militaire Gezondheidszorg;
+   - f. De Inspectie Militaire Gezondheidszorg;
 
-- g. De Diensten Geestelijke Verzorging.
+   - g. De Diensten Geestelijke Verzorging.
 
 - 5. Het Ministerie van Defensie kent de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=27&z=2025-07-26&g=2025-07-26) genoemde toezichthouders.
 
@@ -331,7 +307,7 @@ De Commandant Zeestrijdkrachten is belast met:
 
 - b. de gereedstelling en instandhouding van de zeestrijdkrachten;
 
-- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
+- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
 
 - d. het binnen de gestelde normen en kaders uitoefenen van zeggenschap over de door de dienstencentra op te leveren producten en diensten ter ondersteuning van het Commando Zeestrijdkrachten;
 
@@ -347,7 +323,7 @@ De Commandant Landstrijdkrachten is belast met:
 
 - b. de gereedstelling en instandhouding van de landstrijdkrachten;
 
-- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
+- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
 
 - d. het binnen de gestelde normen en kaders uitoefenen van zeggenschap over de door de dienstencentra op te leveren producten en diensten ter ondersteuning van het Commando Landstrijdkrachten;
 
@@ -361,7 +337,7 @@ De Commandant Lucht- en Ruimtestrijdkrachten is belast met:
 
 - b. de gereedstelling en instandhouding van de Lucht- en Ruimtestrijdkrachten;
 
-- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
+- c. het binnen de gestelde normen en kaders leveren van – joint – producten en diensten ter ondersteuning van de overige Defensieonderdelen;
 
 - d. het binnen de gestelde normen en kaders uitoefenen van zeggenschap over de door de dienstencentra op te leveren producten en diensten ter ondersteuning van het Commando Lucht- en Ruimtestrijdkrachten;
 
@@ -405,7 +381,7 @@ De Commandant Commando Materieel en IT is belast met:
 
 - c. wapensysteemmanagement;
 
-- d. het functioneel aansturen van de verwerving en de centrale verwerving van producten en diensten boven M€ 5;
+- d. het functioneel aansturen van de verwerving en de centrale verwerving van producten en diensten boven M€ 5;
 
 - e. materieelprojecten binnen de kaders van het defensiematerieelproces (DMP);
 
@@ -441,7 +417,7 @@ De Inspecteur-Generaal Veiligheid is belast met:
 
 - a. het met inachtneming van de administratieve aanwijzingen van de Plaatsvervangend Secretaris-Generaal en de Minister van Defensie geven van ambtelijke leiding aan de Inspectie Veiligheid Defensie;
 
-- b. het toezicht op de taakuitvoering op het gebied van veiligheid – waaronder de naleving van wet- en regelgeving – bij Defensie in binnen- en buitenland, met inbegrip van operaties in missiegebieden;
+- b. het toezicht op de taakuitvoering op het gebied van veiligheid – waaronder de naleving van wet- en regelgeving – bij Defensie in binnen- en buitenland, met inbegrip van operaties in missiegebieden;
 
 - c. het instellen en leiden van onderzoeken naar ernstige voorvallen en overige voorvallen, ter beoordeling van de Inspecteur-Generaal;
 
@@ -537,7 +513,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=1&z=20
 
 Na de inwerkingtreding van dit besluit berusten de besluiten gebaseerd op [artikel 26 van het Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746&artikel=26) op [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=28&z=2025-07-26&g=2025-07-26) van dit besluit.
 
-##### Artikel 30. Intrekking [Algemeen organisatiebesluit Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0044746)
+##### Artikel 30. Intrekking Algemeen organisatiebesluit Defensie
 
 Het [Algemeen organisatiebesluit Defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044746) wordt ingetrokken.
 

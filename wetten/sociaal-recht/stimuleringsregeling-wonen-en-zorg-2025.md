@@ -1,54 +1,56 @@
 ---
-title: "Stimuleringsregeling Wonen en Zorg 2025"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]"
+citeertitel: "Stimuleringsregeling Wonen en Zorg 2025"
 identifier: "BWBR0051092"
-categorie: "Overig"
-publicatiedatum: 2026-05-05
-laatste_update: 2026-05-06
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-06-11
+laatste_update: 2026-05-05
 status: geldig
+toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0051092"
+opgehaald: 2026-09-08
 ---
 
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1.1. Definitiebepaling en toepassingsbereik
 
-- –. **algemene groepsvrijstellingsverordening:** [verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
+1. - – *algemene groepsvrijstellingsverordening:*
+ verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
-- –. **de-minimisverklaring:** verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening;
+- – *de-minimisverklaring:* verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening;
 
-- –. **de-minimisverordening:** [Verordening (EU) nr. 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Pb L van 15.12.2023);
+- – *de-minimisverordening:*
+ Verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun (Pb L van 15.12.2023);
 
-- –. **initiatieffase:** de periode van maximaal 1 jaar na subsidieverlening waarin de juridische, planologische en financiële haalbaarheid van het woonzorgarrangement wordt onderzocht en een conclusie wordt getrokken over de haalbaarheid;
+- – *initiatieffase:* de periode van maximaal 1 jaar na subsidieverlening waarin de juridische, planologische en financiële haalbaarheid van het woonzorgarrangement wordt onderzocht en een conclusie wordt getrokken over de haalbaarheid;
 
-- –. **kmo:** kleine en middelgrote ondernemingen die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoen;
+- – *kmo:* kleine en middelgrote ondernemingen die aan de in bijlage I van de algemene groepsvrijstellingsverordening vastgestelde criteria voldoen;
 
-- –. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+- – *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **NHG:** Nationale Hypotheek Garantie van het Waarborgfonds Eigen Woningen;
+- – *NHG:* Nationale Hypotheek Garantie van het Waarborgfonds Eigen Woningen;
 
-- –. **ondersteuning:** maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1., eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+- – *ondersteuning:* maatschappelijke ondersteuning als bedoeld in [artikel 1.1.1., eerste lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
-- –. **planontwikkelfase:** een fase van maximaal drie jaar waarin het projectplan voor een woonzorgarrangement wordt ontwikkeld en de bouw wordt voorbereid;
+- – *planontwikkelfase:* een fase van maximaal drie jaar waarin het projectplan voor een woonzorgarrangement wordt ontwikkeld en de bouw wordt voorbereid;
 
-- –. **wooneenheid:** een zelfstandige leefeenheid, in een woongebouw of cluster van woningen die ontworpen of aangepast is om afzonderlijk te worden gebruikt en die minstens over de volgende woonvoorzieningen beschikt: woonruimte in combinatie met een toilet, een douche of bad;
+- – *wooneenheid:* een zelfstandige leefeenheid, in een woongebouw of cluster van woningen die ontworpen of aangepast is om afzonderlijk te worden gebruikt en die minstens over de volgende woonvoorzieningen beschikt: woonruimte in combinatie met een toilet, een douche of bad;
 
-- –. **Wlz-indicatie:** een verklaring van het Centrum Indicatiestelling Zorg (CIZ) waarin staat dat iemand recht heeft op langdurige en intensieve zorg voor de Zorgzwaartepakketten VV4 tot en met VV10 zoals bedoeld in de beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis van de Nederlandse Zorgautoriteit;
+- – *Wlz-indicatie:* een verklaring van het Centrum Indicatiestelling Zorg (CIZ) waarin staat dat iemand recht heeft op langdurige en intensieve zorg voor de Zorgzwaartepakketten VV4 tot en met VV10 zoals bedoeld in de beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis van de Nederlandse Zorgautoriteit;
 
-- –. **woonzorgarrangement:** een samenhangend geheel van activiteiten, uitgevoerd in de vorm van een rechtspersoon, gericht op het voorbereiden en realiseren van wooneenheden overeenkomstig de voorwaarden genoemd in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.4&z=2026-05-05&g=2026-05-05) van deze regeling;
+- – *woonzorgarrangement:* een samenhangend geheel van activiteiten, uitgevoerd in de vorm van een rechtspersoon, gericht op het voorbereiden en realiseren van wooneenheden overeenkomstig de voorwaarden genoemd in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.4&z=2026-05-05&g=2026-05-05) van deze regeling;
 
-- –. **WZ-ondernemer:** één of meerdere rechtspersonen (vereniging, stichting of besloten vennootschap) niet zijnde rechtspersonen die krachtens publiekrecht zijn ingesteld, die een kmo in stand houden, die gericht is op het realiseren van een woonzorgarrangement;
+- – *WZ-ondernemer:* één of meerdere rechtspersonen (vereniging, stichting of besloten vennootschap) niet zijnde rechtspersonen die krachtens publiekrecht zijn ingesteld, die een kmo in stand houden, die gericht is op het realiseren van een woonzorgarrangement;
 
-- –. **zorg:** Zvw-zorg en Wlz-zorg als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
+- – *zorg:* Zvw-zorg en Wlz-zorg als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
 
 2. Deze regeling is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
@@ -62,7 +64,7 @@ Voor een woonzorgarrangement, bedoeld in [artikel 1.3](https://wetten.overheid.n
 
 - a. het project in Nederland uitgevoerd wordt en uit minimaal 5 wooneenheden bestaat;
 
-- b. minimaal de helft van de wooneenheden zijn bestemd voor bewoning door mensen van 55 jaar en ouder of mensen met een Wlz-indicatie;
+- b. minimaal de helft van de wooneenheden zijn bestemd voor bewoning door mensen van 55 jaar en ouder of mensen met een Wlz-indicatie;
 
 - c. de gemeente heeft verklaard dat een locatie beschikbaar is voor de ontwikkeling van het woonzorgarrangement dan wel dat zij zich inspant een locatie beschikbaar te stellen;
 
@@ -88,13 +90,13 @@ De minister kan op grond van dit hoofdstuk op aanvraag subsidie verstrekken aan 
 
 - a. een verklaring, die niet ouder is dan een jaar op het moment van de aanvraag, van de betreffende gemeente:
 
-  - –. dat er een locatie beschikbaar is voor de ontwikkeling van het woonzorgarrangement, of
+   - – dat er een locatie beschikbaar is voor de ontwikkeling van het woonzorgarrangement, of
 
-  - –. dat zij het voornemen tot het uitvoeren van een haalbaarheidsonderzoek ondersteunt, of
+   - – dat zij het voornemen tot het uitvoeren van een haalbaarheidsonderzoek ondersteunt, of
 
-  - –. dat zij zich inspant een locatie beschikbaar te stellen, of
+   - – dat zij zich inspant een locatie beschikbaar te stellen, of
 
-  - –. dat de verkoop van de locatie via een openbare aanbesteding verloopt en het woonzorgarrangement naar verwachting zal passen binnen de voorwaarden van de aanbesteding;
+   - – dat de verkoop van de locatie via een openbare aanbesteding verloopt en het woonzorgarrangement naar verwachting zal passen binnen de voorwaarden van de aanbesteding;
 
 - b. een bewijs waaruit blijkt dat het mogelijk is op de betreffende locatie een woonzorgarrangement te realiseren, indien de locatie niet van de gemeente is;
 
@@ -102,21 +104,21 @@ De minister kan op grond van dit hoofdstuk op aanvraag subsidie verstrekken aan 
 
 - d. een de-minimisverklaring.
 
-3. Een aanvraag wordt vóór 31 oktober 17.00 uur van elk jaar ingediend.
+3. Een aanvraag wordt vóór 31 oktober 17.00 uur van elk jaar ingediend.
 
 ##### Artikel 2.3. Hoogte van de subsidie
 
-De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 per woonzorgarrangement.
+De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 per woonzorgarrangement.
 
 ##### Artikel 2.4. Subsidieplafond
 
-1. Het subsidieplafond voor de initiatieffase bedraagt € 1.250.000 per jaar.
+1. Het subsidieplafond voor de initiatieffase bedraagt € 1.250.000 per jaar.
 
 2. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de complete aanvragen.
 
 3. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één complete aanvraag ontvangen wordt en de volgorde van binnenkomst van deze aanvragen niet is vast te stellen, wordt de volgorde vastgesteld door middel van loting.
 
-4. In afwijking van het eerste lid, bedraagt het subsidieplafond voor het jaar 2026 € 0.
+4. In afwijking van het eerste lid, bedraagt het subsidieplafond voor het jaar 2026 € 0.
 
 ##### Artikel 2.5. Verlening, bevoorschotting en betaling
 
@@ -170,10 +172,8 @@ De minister kan een of meer bepalingen van deze regeling buiten toepassing laten
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat deze regeling van toepassing blijft op subsidies die voor die datum zijn verleend.
+2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat deze regeling van toepassing blijft op subsidies die voor die datum zijn verleend.
 
 ##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling Wonen en Zorg 2025.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

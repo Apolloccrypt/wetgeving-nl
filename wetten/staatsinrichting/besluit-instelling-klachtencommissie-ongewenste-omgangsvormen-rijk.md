@@ -1,56 +1,36 @@
 ---
 title: "Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk"
 identifier: "BWBR0051145"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-06-28"
-last_updated: "2025-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051145"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17454543"
-version_id: "30782272"
-internal_id: "C44123081"
-label_id: "17357404"
-dtd_version: "2.0"
-original_entry_into_force: "2025-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051145/2025-06-28/0"
-intitule_bron: "Stcrt.2025-19890"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-06-27"
-intitule_in_force: "2025-06-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-19890"
-original_published_date: "2025-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-19890"
-entry_into_force_date: "2025-06-28"
-jci_1_3: "jci1.3:c:BWBR0051145&z=2025-06-28&g=2025-06-28"
-jci_1_0: "1.0:c:BWBR0051145&g=2025-06-28"
-citeertitel_status: "officieel"
-entry_into_force: "2025-06-28"
+publicatiedatum: 2025-06-28
+laatste_update: 2025-06-28
+status: geldig
+toestand: 2025-06-28
+bron: "https://wetten.overheid.nl/BWBR0051145"
+opgehaald: 2026-09-08
 ---
+
 # Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk
-
-Gelet op [hoofdstuk 9, titel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) en [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en de Klachtenregeling Ongewenste Omgangsvormen Rijk;
-
-Gehoord de Groepsondernemingsraad Rijk (GOR Rijk);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Ministeries:** **de kerndepartementen en de daaronder ressorterende organisaties zonder rechtspersoonlijkheid en andere overheidsorganisaties en hun medewerkers, indien zij met de Commissie afspraken hebben gemaakt om van de diensten van de Commissie gebruik te kunnen maken;**
+- a. *Ministeries:*
+ *de kerndepartementen en de daaronder ressorterende organisaties zonder rechtspersoonlijkheid en andere overheidsorganisaties en hun medewerkers, indien zij met de Commissie afspraken hebben gemaakt om van de diensten van de Commissie gebruik te kunnen maken;*
 
-- b. **CAOP:** **Centrum Arbeidsverhoudingen Overheidspersoneel;**
+- b. *CAOP:*
+ *Centrum Arbeidsverhoudingen Overheidspersoneel;*
 
-- c. **ICOP:** **Interdepartementale Commissie Organisatie- en Personeelsbeleid;**
+- c. *ICOP:*
+ *Interdepartementale Commissie Organisatie- en Personeelsbeleid;*
 
-- d. **Klachtenregeling:** **Klachtenregeling Ongewenste Omgangsvormen Rijk;**
+- d. *Klachtenregeling:*
+ *Klachtenregeling Ongewenste Omgangsvormen Rijk;*
 
-- e. **De Klachtencommissie:** **Klachtencommissie Ongewenste Omgangsvormen Rijk;**
+- e. *De Klachtencommissie:*
+ *Klachtencommissie Ongewenste Omgangsvormen Rijk;*
 
 ##### Artikel 2. Instelling en taak
 
@@ -145,5 +125,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit instelling Klachtencommissie Ongewenste Omgangsvormen Rijk.
-
-Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de betrokkenen.

@@ -1,40 +1,17 @@
 ---
 title: "Deelregeling Kunst Erfgoed Presentatie"
 identifier: "BWBR0051140"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-08-03"
-last_updated: "2025-08-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051140"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17453533"
-version_id: "30780702"
-internal_id: "C44121321"
-label_id: "17356384"
-dtd_version: "2.0"
-original_entry_into_force: "2025-08-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051140/2025-08-03/0"
-intitule_bron: "Stcrt.2025-21324"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-06-25"
-intitule_in_force: "2025-06-25"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-21324"
-original_published_date: "2025-06-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-21324"
-entry_into_force_date: "2025-08-03"
-jci_1_3: "jci1.3:c:BWBR0051140&z=2025-08-03&g=2025-08-03"
-jci_1_0: "1.0:c:BWBR0051140&g=2025-08-03"
-citeertitel_status: "officieel"
-entry_into_force: "2025-08-03"
+publicatiedatum: 2025-08-03
+laatste_update: 2025-08-03
+status: geldig
+toestand: 2025-08-03
+bron: "https://wetten.overheid.nl/BWBR0051140"
+opgehaald: 2026-09-08
 ---
+
 # Deelregeling Kunst Erfgoed Presentatie
-
-Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
-
-Besluit:
 
 ##### Artikel 1. Doel
 
@@ -54,7 +31,7 @@ Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aan
 
 2. Het percentage dat het Mondriaan Fonds kan bijdragen is maximaal 40% van de subsidiabeleprojectgerelateerde kosten.
 
-3. De minimale begroting van het project moet hoger zijn dan € 25.000 en mag alleen projectgerelateerde kosten bevatten.
+3. De minimale begroting van het project moet hoger zijn dan € 25.000 en mag alleen projectgerelateerde kosten bevatten.
 
 ##### Artikel 5. Weigeringsgronden
 
@@ -100,11 +77,11 @@ Er kan worden aangevraagd voor presentaties die het gangbare overstijgen, op aan
 
 2. De aanvragen worden allereerst beoordeeld aan de hand van het beoordelingscriterium ‘Niet-gangbare presentatie’:
 
-- –. **Criterium bij aanvragen van instellingen met overwegend een (boven)regionale uitstraling:**
+- – *Criterium bij aanvragen van instellingen met overwegend een (boven)regionale uitstraling:*
 
 In hoeverre blijkt uit de aanvraag dat er sprake is van een presentatie die van meerwaarde is voor de eigen context van de aanvrager en voor de instelling zelf niet- gangbaar is?
 
-- –. **Criterium bij aanvragen van instellingen met overwegend een (inter)nationale uitstraling:**
+- – *Criterium bij aanvragen van instellingen met overwegend een (inter)nationale uitstraling:*
 
 In hoeverre blijkt uit de aanvraag dat er sprake is van een presentatie die voor het veld van de hedendaagse beeldende kunst en/of het cultureel erfgoedveld van meerwaarde en niet-gangbaar is?
 
@@ -114,13 +91,13 @@ In hoeverre blijkt uit de aanvraag dat er sprake is van een presentatie die voor
 
 - a. Relevantie:
 
-- –. Biedt de aanvraag vertrouwen dat de presentatie van belang is binnen het veld van de hedendaagse beeldende kunst en/of het cultureel erfgoedveld?
+   - – Biedt de aanvraag vertrouwen dat de presentatie van belang is binnen het veld van de hedendaagse beeldende kunst en/of het cultureel erfgoedveld?
 
-- –. In hoeverre overtuigt de aanvraag dat een kwalitatieve presentatie zal worden gerealiseerd?
+   - – In hoeverre overtuigt de aanvraag dat een kwalitatieve presentatie zal worden gerealiseerd?
 
 - b. Publiek:
 
-- –. In hoeverre biedt de aanvraag vertrouwen dat de beoogde doelgroepen op aansprekende wijze bij de presentatie worden betrokken?
+   - – In hoeverre biedt de aanvraag vertrouwen dat de beoogde doelgroepen op aansprekende wijze bij de presentatie worden betrokken?
 
 5. Bij de totale beoordeling weegt het subcriterium ‘belang van de presentatie binnen het veld van de hedendaagse beeldende kunst en/of het cultureel erfgoedveld’ zwaarder.
 
@@ -144,7 +121,7 @@ In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
 ##### Artikel 10. Overgangsbepaling
 
-De [Deelregeling Kunst / Erfgoed presentatie](https://wetten.overheid.nl/jci1.3:c:BWBR0044547), gepubliceerd in Stcrt. 2020, 62365, komt te vervallen. Op aanvragen die op grond van deze versie van de Deelregeling Kunst/ Erfgoed Presentatie voor 3 augustus 2025 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044527) van toepassing
+De [Deelregeling Kunst / Erfgoed presentatie](https://wetten.overheid.nl/jci1.3:c:BWBR0044547), gepubliceerd in Stcrt. 2020, 62365, komt te vervallen. Op aanvragen die op grond van deze versie van de Deelregeling Kunst/ Erfgoed Presentatie voor 3 augustus 2025 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044527) van toepassing
 
 ##### Artikel 11. Inwerkingtreding
 
@@ -153,5 +130,3 @@ Deze regeling treedt in werking op 3 augustus 2025.
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunst Erfgoed Presentatie.
-
-Deze regeling zal na goedkeuring door de Minister van Onderwijs Cultuur en Wetenschap in de Staatscourant worden geplaatst.

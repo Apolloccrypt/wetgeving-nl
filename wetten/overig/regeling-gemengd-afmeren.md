@@ -1,66 +1,40 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 8 mei 2025, nr. IENW/BSK-2025/101742, houdende regels omtrent het gemengd afmeren van schepen die gevaarlijke stoffen vervoeren (Regeling gemengd afmeren)"
+citeertitel: "Regeling gemengd afmeren"
 identifier: "BWBR0051061"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-07-01"
-last_updated: "2025-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051061"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17433223"
-version_id: "30738612"
-internal_id: "C44057321"
-label_id: "17336144"
-dtd_version: "2.0"
-original_entry_into_force: "2025-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051061/2025-07-01/0"
-intitule_bron: "Stcrt.2025-17962"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-08"
-intitule_published: "2025-05-26"
-intitule_in_force: "2025-05-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-17962"
-original_signed_date: "2025-05-08"
-original_published_date: "2025-05-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-17962"
-entry_into_force_date: "2025-07-01"
-jci_1_3: "jci1.3:c:BWBR0051061&z=2025-07-01&g=2025-07-01"
-jci_1_0: "1.0:c:BWBR0051061&g=2025-07-01"
-citeertitel_status: "officieel"
-short_title: "Regeling gemengd afmeren"
-signed_date: "2025-05-08"
-entry_into_force: "2025-07-01"
+publicatiedatum: 2025-07-01
+laatste_update: 2025-07-01
+status: geldig
+toestand: 2025-07-01
+bron: "https://wetten.overheid.nl/BWBR0051061"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 8 mei 2025, nr. IENW/BSK-2025/101742, houdende regels omtrent het gemengd afmeren van schepen die gevaarlijke stoffen vervoeren (Regeling gemengd afmeren)
-
-Gelet op de [artikelen 6.28, twaalfde lid, onderdeel c, vijftiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), en [7.07, vierde en vijfde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.07);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **binnenschip:** binnenschip als bedoeld in [artikel 1 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1);
+- *binnenschip:* binnenschip als bedoeld in [artikel 1 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=1);
 
-- **bunkerschepen:** tankschepen met aan boord scheepsaandrijfstoffen met een vlampunt van 55 graden Celsius of hoger ten behoeve van de afgifte ervan aan andere schepen;
+- *bunkerschepen:* tankschepen met aan boord scheepsaandrijfstoffen met een vlampunt van 55 graden Celsius of hoger ten behoeve van de afgifte ervan aan andere schepen;
 
-- **gemengd afmeren:** direct of indirect afmeren op ligplaatsen of wachtplaatsen of in sluizen door schepen die op grond van deze regeling zijn vrijgesteld van de afmeerafstanden, bedoeld in de [artikelen 6.28, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), en [7.07, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.07);
+- *gemengd afmeren:* direct of indirect afmeren op ligplaatsen of wachtplaatsen of in sluizen door schepen die op grond van deze regeling zijn vrijgesteld van de afmeerafstanden, bedoeld in de [artikelen 6.28, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), en [7.07, eerste lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.07);
 
-- **ontsmettingsmiddel:** een toepassing van biociden en/of gewasbeschermingsmiddelen ter bestrijding van insectenplagen in lading die in bulk wordt vervoerd (zoals graan, voeder, hout);
+- *ontsmettingsmiddel:* een toepassing van biociden en/of gewasbeschermingsmiddelen ter bestrijding van insectenplagen in lading die in bulk wordt vervoerd (zoals graan, voeder, hout);
 
-- **seinvoerend schip:** binnenschip dat gevaarlijke stoffen vervoert waarvoor op grond van [artikel 3.14, eerste lid dan wel tweede lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14) een of twee tekens zijn voorgeschreven;
+- *seinvoerend schip:* binnenschip dat gevaarlijke stoffen vervoert waarvoor op grond van [artikel 3.14, eerste lid dan wel tweede lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14) een of twee tekens zijn voorgeschreven;
 
-- **tankschip:** schip dat gebouwd is voor het in een ladingtank vervoeren van gassen of vloeistoffen als bedoeld in sectie 1.2.1 van het ADN;
+- *tankschip:* schip dat gebouwd is voor het in een ladingtank vervoeren van gassen of vloeistoffen als bedoeld in sectie 1.2.1 van het ADN;
 
-- **ventileren:** het laten drogen van openstaande ladingtanks of tanks voor restproducten van een tankschip aan de buitenlucht nadat deze zijn schoongemaakt, waarbij de concentratie gevaarlijke gassen of dampen in het uitgeblazen mengsel op de plaats van uittreding:
+- *ventileren:* het laten drogen van openstaande ladingtanks of tanks voor restproducten van een tankschip aan de buitenlucht nadat deze zijn schoongemaakt, waarbij de concentratie gevaarlijke gassen of dampen in het uitgeblazen mengsel op de plaats van uittreding:
 
-- a. niet meer dan 10% van de onderste explosiegrens bedraagt; of
+   - a. niet meer dan 10% van de onderste explosiegrens bedraagt; of
 
-- b. zich onder de grenswaarde, bedoeld in [artikel 4.3, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), bevindt voor de stoffen waarvoor op grond van artikel 3.2.3, tabel C, kolom 18, van het ADN een giftigheidsmeter is vereist.
+   - b. zich onder de grenswaarde, bedoeld in [artikel 4.3, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), bevindt voor de stoffen waarvoor op grond van artikel 3.2.3, tabel C, kolom 18, van het ADN een giftigheidsmeter is vereist.
 
 ##### Artikel 2. Aanwijzing schepen en ligplaatsen en wachtplaatsen voor gemengd afmeren
 
@@ -82,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - h. enkelwandige tankschepen die gevaarlijke stoffen vervoeren waarvoor op grond van [artikel 3.14 van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14) een of meerdere tekens zijn voorgeschreven;
 
-- i. schepen die de tekens voeren als bedoeld in [artikel 3.14, eerste en tweede lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14) waarvan de lading niet is aangemeld in het Informatie- en Volgsysteem voor de Scheepvaart, met uitzondering van bunkerschepen die lading vervoeren met een vlampunt van 55 graden Celsius of hoger;
+- i. schepen die de tekens voeren als bedoeld in [artikel 3.14, eerste en tweede lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14) waarvan de lading niet is aangemeld in het Informatie- en Volgsysteem voor de Scheepvaart, met uitzondering van bunkerschepen die lading vervoeren met een vlampunt van 55 graden Celsius of hoger;
 
 - j. schepen met meer dan 12 tankcontainers aan boord geladen met brandbare stoffen, als bedoeld in [artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=3.14); en
 
@@ -98,9 +72,9 @@ In deze regeling wordt verstaan onder:
 
 - c. ligplaatszones langs een vaarweg die bedoeld is voor de doorgaande scheepvaart worden uitsluitend aangewezen als ligplaats voor gemengd afmeren indien:
 
-- 1°. een minimumafstand van 25 meter wordt aangehouden tot kwetsbare gebouwen, kwetsbare locaties en zeer kwetsbare gebouwen als bedoeld in de onderdelen C, D en E van [Bijlage VI bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=VI); en
+   - 1°. een minimumafstand van 25 meter wordt aangehouden tot kwetsbare gebouwen, kwetsbare locaties en zeer kwetsbare gebouwen als bedoeld in de onderdelen C, D en E van [Bijlage VI bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=VI); en
 
-- 2°. niet meer dan 8 tankschepen geladen met giftige stoffen als bedoeld in de artikelen 2.2.61 tot en met 2.2.61.3 van het ADN gelijktijdig naast elkaar afmeren;
+   - 2°. niet meer dan 8 tankschepen geladen met giftige stoffen als bedoeld in de artikelen 2.2.61 tot en met 2.2.61.3 van het ADN gelijktijdig naast elkaar afmeren;
 
 - d. de voorwaarden, genoemd in onderdeel c, subonderdelen 1° en 2°, bij het aanwijzen van de ligplaatsen als bedoeld in onderdeel a en de wacht- en ligplaatsen als bedoeld in onderdeel b, indien zich in de directe omgeving gebouwen of locaties als bedoeld in [Bijlage VI bij het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&bijlage=VI), met uitzondering van kunstwerken, bevinden.
 
@@ -150,10 +124,8 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van 1 juli 2025.
+Deze regeling treedt in werking met ingang van 1 juli 2025.
 
 ##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling gemengd afmeren.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

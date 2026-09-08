@@ -1,51 +1,29 @@
 ---
 title: "Instellingsbesluit Commissie van onderzoek teruggevonden F-16 videobeelden Hawija (Irak)"
 identifier: "BWBR0051045"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-04"
-last_updated: "2025-11-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051045"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17429933"
-version_id: "30733832"
-internal_id: "C44050511"
-label_id: "17332934"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051045/2025-11-04/0"
-intitule_bron: "Stcrt.2025-17348"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-14"
-intitule_published: "2025-05-16"
-intitule_in_force: "2025-05-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-17348"
-original_signed_date: "2025-05-14"
-original_published_date: "2025-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-17348"
-entry_into_force_date: "2025-05-17"
-jci_1_3: "jci1.3:c:BWBR0051045&z=2025-11-04&g=2025-11-04"
-jci_1_0: "1.0:c:BWBR0051045&g=2025-11-04"
-citeertitel_status: "officieel"
-signed_date: "2025-05-14"
-entry_into_force: "2025-05-17"
+publicatiedatum: 2025-05-17
+laatste_update: 2025-11-04
+status: geldig
+toestand: 2025-11-04
+bron: "https://wetten.overheid.nl/BWBR0051045"
+opgehaald: 2026-09-08
 ---
+
 # Instellingsbesluit Commissie van onderzoek teruggevonden F-16 videobeelden Hawija (Irak)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **commissie:** de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-11-04&g=2025-11-04);
+- a. *commissie:* de commissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=2&z=2025-11-04&g=2025-11-04);
 
-- b. **minister:** de Minister van Defensie;
+- b. *minister:* de Minister van Defensie;
 
-- c. **ministerie:** Ministerie van Defensie;
+- c. *ministerie:* Ministerie van Defensie;
 
-- d. **secretariaat:** de secretaris, het onderzoeksteam, externe deskundigen en andere personen.
+- d. *secretariaat:* de secretaris, het onderzoeksteam, externe deskundigen en andere personen.
 
 ##### Artikel 2. Instelling en taak
 
@@ -53,17 +31,17 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft als onderwerp van onderzoek:
 
-De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (een) Nederlands(e) F-16 toestel(len) in de ochtend van 3 juni 2015, gerelateerd aan de daaraan voorafgaande wapeninzet met Nederlandse F-16 toestellen tegen een ISIS-autobommenfabriek in de stad Hawija (Irak) in de nacht van 2 op 3 juni 2015.
+De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (een) Nederlands(e) F-16 toestel(len) in de ochtend van 3 juni 2015, gerelateerd aan de daaraan voorafgaande wapeninzet met Nederlandse F-16 toestellen tegen een ISIS-autobommenfabriek in de stad Hawija (Irak) in de nacht van 2 op 3 juni 2015.
 
 3. De commissie heeft de volgende onderzoekstaak:
 
-- a. Het opstellen en vaststellen van een feitenreconstructie met onderliggende tijdlijn (tijdsperiode: 3 juni 2015 t/m 27 maart 2025) teneinde duidelijkheid te verkrijgen wat er met de teruggevonden F-16 videobeelden is gebeurd nadat deze zijn gemaakt en te verklaren waarom deze videobeelden niet eerder zijn teruggevonden. Bij de feitenreconstructie worden in elk geval betrokken:
+- a. Het opstellen en vaststellen van een feitenreconstructie met onderliggende tijdlijn (tijdsperiode: 3 juni 2015 t/m 27 maart 2025) teneinde duidelijkheid te verkrijgen wat er met de teruggevonden F-16 videobeelden is gebeurd nadat deze zijn gemaakt en te verklaren waarom deze videobeelden niet eerder zijn teruggevonden. Bij de feitenreconstructie worden in elk geval betrokken:
 
-- •. De afdoening binnen het Ministerie van Defensie van de verzoeken tot ontvangst van deze videobeelden door de Commissie van onderzoek Wapeninzet Hawija gedurende haar onderzoek;
+   - • De afdoening binnen het Ministerie van Defensie van de verzoeken tot ontvangst van deze videobeelden door de Commissie van onderzoek Wapeninzet Hawija gedurende haar onderzoek;
 
-- •. De informatie die is gebruikt en de bronnen daarvan, bij de totstandkoming van het **Mission report**, het **After Action Report** en het interne memorandum “Onderzoek CIVCAS melding 2 juni 2015 VBIED Facility” van 30 juni 2016, opgesteld voor de Commandant der Strijdkrachten;
+   - • De informatie die is gebruikt en de bronnen daarvan, bij de totstandkoming van het *Mission report*, het *After Action Report* en het interne memorandum “Onderzoek CIVCAS melding 2 juni 2015 VBIED Facility” van 30 juni 2016, opgesteld voor de Commandant der Strijdkrachten;
 
-- •. Het feitenrelaas als uitkomst van het interne defensieonderzoek naar de vondst van de videobeelden.
+   - • Het feitenrelaas als uitkomst van het interne defensieonderzoek naar de vondst van de videobeelden.
 
 - b. Het vaststellen welke beleidsregels, protocollen, standaarden, bestendige gebruiken etc. in genoemde tijdsperiode golden m.b.t. de opslag, het gebruik en de archivering van videobeelden uit het missiegebied in Irak.
 
@@ -89,15 +67,15 @@ De teruggevonden videobeelden – de zogenaamde tweede BDA – gemaakt vanuit (e
 
 3. De voorzitter wordt door de minister benoemd, de twee leden worden op voordracht van de voorzitter door de minister benoemd.
 
-4. De benoeming van de voorzitter en lid Meijboom geschiedt voor de duur van de commissie. De benoeming van lid Muller geschiedt vanaf 1 oktober 2025.
+4. De benoeming van de voorzitter en lid Meijboom geschiedt voor de duur van de commissie. De benoeming van lid Muller geschiedt vanaf 1 oktober 2025.
 
 5. Het lid van de commissie kan (op eigen verzoek, wegens ongeschiktheid of op andere zwaarwegende gronden) op voordracht van de voorzitter worden geschorst en ontslagen door de minister. De voorzitter kan (op eigen verzoek, wegens ongeschiktheid of op andere zwaarwegende gronden) worden geschorst en ontslagen door de minister.
 
 ##### Artikel 4. Instellingsduur
 
-1. De commissie wordt ingesteld met ingang van 15 april 2025 en wordt opgeheven vier weken nadat het eindrapport is uitgebracht.
+1. De commissie wordt ingesteld met ingang van 15 april 2025 en wordt opgeheven vier weken nadat het eindrapport is uitgebracht.
 
-2. De commissie brengt uiterlijk 31 december 2025 of zoveel eerder als mogelijk, haar eindrapport aan de minister uit.
+2. De commissie brengt uiterlijk 31 december 2025 of zoveel eerder als mogelijk, haar eindrapport aan de minister uit.
 
 3. Indien onvoorziene omstandigheden naar het oordeel van de commissie in de weg staan van het tijdig afronden van het onderzoek, dan stelt zij de minister daarvan schriftelijk op de hoogte.
 
@@ -181,14 +159,8 @@ Bij de beëindiging van haar werkzaamheden brengt de commissie haar eindrapport 
 
 ##### Artikel 13. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=8&z=2025-11-04&g=2025-11-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=9&z=2025-11-04&g=2025-11-04) terug tot en met 15 april 2025 voor zover het gaat om voorbereidende werkzaamheden.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt ten aanzien van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=8&z=2025-11-04&g=2025-11-04) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051045&artikel=9&z=2025-11-04&g=2025-11-04) terug tot en met 15 april 2025 voor zover het gaat om voorbereidende werkzaamheden.
 
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van onderzoek teruggevonden F-16 videobeelden Hawija (Irak).
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2)
-
-Besluit: tot het instellen van de Commissie van onderzoek teruggevonden F-16 videobeelden Hawija (Irak), zoals vastgelegd in dit instellingsbesluit.
-
-Dit besluit zal met de bijbehorende toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de betrokkenen.

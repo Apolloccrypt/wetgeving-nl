@@ -1,38 +1,40 @@
 ---
-title: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]"
+citeertitel: "Subsidieregeling inclusiviteitstechnologie voor het mkb"
 identifier: "BWBR0051195"
-categorie: "Overig"
-publicatiedatum: 2026-05-28
-laatste_update: 2026-05-29
+categorie: "Arbeidsrecht"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-09-01
+laatste_update: 2026-05-28
 status: geldig
+toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0051195"
+opgehaald: 2026-09-08
 ---
 
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 juni 2025, nr. 2025-0000135813, houdende regels voor subsidieverstrekking aan werkgevers in het midden- en kleinbedrijf ter ondersteuning bij de aanschaf van inclusiviteitstechnologie (Subsidieregeling inclusiviteitstechnologie voor het mkb) [KetenID WGK026974]
-
-Gelet op [artikel 3, eerste lid, van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **activiteitenplan:** activiteitenplan als bedoeld in [artikel 3.4 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4);
+- – *activiteitenplan:* activiteitenplan als bedoeld in [artikel 3.4 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4);
 
-- –. **arbeidsbeperking:** een langdurige lichamelijke, mentale, verstandelijke of zintuiglijke beperking die voor een persoon drempels opwerpt voor het participeren op de arbeidsmarkt;
+- – *arbeidsbeperking:* een langdurige lichamelijke, mentale, verstandelijke of zintuiglijke beperking die voor een persoon drempels opwerpt voor het participeren op de arbeidsmarkt;
 
-- –. **de-minimisverordening:** [Verordening (EU) 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;
+- – *de-minimisverordening:*
+ Verordening (EU) 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;
 
-- –. **inclusiviteitstechnologie:** fysieke of digitale technologie die zich richt op het ondersteunen van personen met een arbeidsbeperking tijdens het werk en bijdraagt aan het compenseren van een functionele beperking op lichamelijk, sociaal of persoonlijk vlak;
+- – *inclusiviteitstechnologie:* fysieke of digitale technologie die zich richt op het ondersteunen van personen met een arbeidsbeperking tijdens het werk en bijdraagt aan het compenseren van een functionele beperking op lichamelijk, sociaal of persoonlijk vlak;
 
-- –. **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- – *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- –. **mkb-verklaring:** verklaring waarmee een werkgever verklaart een werkgever te zijn als bedoeld in deze regeling;
+- – *mkb-verklaring:* verklaring waarmee een werkgever verklaart een werkgever te zijn als bedoeld in deze regeling;
 
-- –. **staatssecretaris:** de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
+- – *staatssecretaris:* de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
 
-- –. **werkgever:** een onderneming waar minder dan 250 personen werkzaam zijn en waarvan de jaaromzet € 50 miljoen of het jaarlijkse balanstotaal € 43 miljoen niet overschrijdt.
+- – *werkgever:* een onderneming waar minder dan 250 personen werkzaam zijn en waarvan de jaaromzet € 50 miljoen of het jaarlijkse balanstotaal € 43 miljoen niet overschrijdt.
 
 ##### Artikel 2. Toepasselijkheid Kaderregeling
 
@@ -88,11 +90,11 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 1. Een subsidieaanvraag kan worden ingediend in de volgende tijdvakken:
 
-- a. van 1 oktober 2025, 09:00 uur, tot en met 28 november 2025, 17:00 uur; en
+- a. van 1 oktober 2025, 09:00 uur, tot en met 28 november 2025, 17:00 uur; en
 
-- b. van 5 januari 2026, 09:00 uur, tot en met 31 augustus 2026, 17:00.
+- b. van 5 januari 2026, 09:00 uur, tot en met 31 augustus 2026, 17:00.
 
-2. Het subsidieplafond voor deze regeling bedraagt € 2.000.000,–, waarvan € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 1 oktober 2025 tot en met 28 november 2025 en € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 5 januari 2026 tot en met 31 augustus 2026.
+2. Het subsidieplafond voor deze regeling bedraagt € 2.000.000,–, waarvan € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 1 oktober 2025 tot en met 28 november 2025 en € 1.000.000,– beschikbaar is voor subsidies aangevraagd in het tijdvak van 5 januari 2026 tot en met 31 augustus 2026.
 
 3. De staatssecretaris verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van de aanvragen, waarbij alleen volledige aanvragen in behandeling worden genomen.
 
@@ -102,11 +104,11 @@ De volgende kosten komen niet in aanmerking voor subsidie:
 
 ##### Artikel 8. Hoogte subsidie
 
-1. Per aanvraag wordt een subsidie verstrekt tot € 25.000, waarvan maximaal € 1.000 kan worden verstrekt voor de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28).
+1. Per aanvraag wordt een subsidie verstrekt tot € 25.000, waarvan maximaal € 1.000 kan worden verstrekt voor de activiteit, bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=4&z=2026-05-28&g=2026-05-28).
 
 2. De subsidie bedraagt maximaal 50% van de subsidiabele kosten.
 
-3. De aangevraagde subsidie bedraagt minimaal € 2.500 per aanvraag.
+3. De aangevraagde subsidie bedraagt minimaal € 2.500 per aanvraag.
 
 ##### Artikel 9. Aanvraag subsidie
 
@@ -156,15 +158,15 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 ##### Artikel 11. Subsidieverlening
 
-1. De staatssecretaris verleent de subsidie binnen 13 weken na ontvangst van de aanvraag.
+1. De staatssecretaris verleent de subsidie binnen 13 weken na ontvangst van de aanvraag.
 
 2. De staatssecretaris verleent bij de beschikking tot subsidieverlening een voorschot van 100%.
 
-3. De beschikking tot subsidieverlening vermeldt dat de ontvanger de activiteiten uiterlijk binnen 26 weken na de subsidieverlening moet hebben verricht.
+3. De beschikking tot subsidieverlening vermeldt dat de ontvanger de activiteiten uiterlijk binnen 26 weken na de subsidieverlening moet hebben verricht.
 
 ##### Artikel 12. Subsidievaststelling
 
-1. In overeenstemming met [artikel 7.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) neemt de staatssecretaris binnen 22 weken na afloop van de datum, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=11&z=2026-05-28&g=2026-05-28), ambtshalve een besluit over de vaststelling van de subsidie.
+1. In overeenstemming met [artikel 7.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.4) neemt de staatssecretaris binnen 22 weken na afloop van de datum, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051195&artikel=11&z=2026-05-28&g=2026-05-28), ambtshalve een besluit over de vaststelling van de subsidie.
 
 2. De staatssecretaris stelt de subsidie vast op ten hoogste het bedrag, genoemd in de beschikking tot subsidieverlening.
 
@@ -192,10 +194,8 @@ De staatssecretaris besluit geheel of gedeeltelijk afwijzend op een aanvraag van
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 september 2025 en vervalt met ingang van 31 maart 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die voor laatstgenoemde datum zijn verstrekt.
+Deze regeling treedt in werking met ingang van 1 september 2025 en vervalt met ingang van 31 maart 2028, met dien verstande dat deze regeling van toepassing blijft op subsidies die voor laatstgenoemde datum zijn verstrekt.
 
 ##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling inclusiviteitstechnologie voor het mkb.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Minister van Justitie en Veiligheid, van 12 augustus 2025 nr. BOACAT2025/161, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar afdeling Inkomensondersteuning, team Handhaving van de gemeente Zwolle 2025"
 identifier: "BWBR0051397"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-24"
-last_updated: "2025-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051397"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17505323"
-version_id: "30883392"
-internal_id: "C44251411"
-label_id: "17407514"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051397/2025-10-24/0"
-intitule_bron: "Stcrt.2025-28258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-12"
-intitule_published: "2025-08-21"
-intitule_in_force: "2025-08-21"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-28258"
-original_signed_date: "2025-08-12"
-original_published_date: "2025-08-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-28258"
-entry_into_force_date: "2025-10-24"
-jci_1_3: "jci1.3:c:BWBR0051397&z=2025-10-24&g=2025-10-24"
-jci_1_0: "1.0:c:BWBR0051397&g=2025-10-24"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar afdeling Inkomensondersteuning, team Handhaving van de gemeente Zwolle 2025"
-signed_date: "2025-08-12"
-entry_into_force: "2025-10-24"
+publicatiedatum: 2025-10-24
+laatste_update: 2025-10-24
+status: geldig
+toestand: 2025-10-24
+bron: "https://wetten.overheid.nl/BWBR0051397"
+opgehaald: 2026-09-08
 ---
+
 # Besluit van de Minister van Justitie en Veiligheid, van 12 augustus 2025 nr. BOACAT2025/161, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Zwolle
-
-Gelezen het verzoek van de gemeente Zwolle van 11 juni 2025 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,7 +24,7 @@ De personen, werkzaam in de functie van sociaal rechercheur in dienst van de gem
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, Inkomen en Zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -80,7 +42,7 @@ Op grond van dit besluit kunnen maximaal 11 personen als buitengewoon opsporings
 
 ##### Artikel 6
 
-1. De gemeente Zwolle brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Zwolle brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051397&artikel=2&z=2025-10-24&g=2025-10-24) genoemde functie;
 
@@ -98,12 +60,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 8
 
-Het [Besluit buitengewoon opsporingsambtenaar afdeling Inkomensondersteuning, team Handhaving van de gemeente Zwolle 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043875) van 8 juli 2020, nr. BOACAT2020/034 zal vervallen op 24 oktober 2025.
+Het [Besluit buitengewoon opsporingsambtenaar afdeling Inkomensondersteuning, team Handhaving van de gemeente Zwolle 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043875) van 8 juli 2020, nr. BOACAT2020/034 zal vervallen op 24 oktober 2025.
 
-Dit besluit treedt in werking met ingang van 24 oktober 2025 en vervalt met ingang van 24 oktober 2030.
+Dit besluit treedt in werking met ingang van 24 oktober 2025 en vervalt met ingang van 24 oktober 2030.
 
 ##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar afdeling Inkomensondersteuning, team Handhaving van de gemeente Zwolle 2025.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

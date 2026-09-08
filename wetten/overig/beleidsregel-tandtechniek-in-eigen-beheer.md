@@ -1,53 +1,27 @@
 ---
 title: "Beleidsregel tandtechniek in eigen beheer"
 identifier: "BWBR0051214"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051214"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17467053"
-version_id: "30806202"
-internal_id: "C44152171"
-label_id: "17369344"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051214/2026-01-01/0"
-intitule_bron: "Stcrt.2025-23459"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-02"
-intitule_published: "2025-07-10"
-intitule_in_force: "2025-07-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-23459"
-original_signed_date: "2025-07-02"
-original_published_date: "2025-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-23459"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051214&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051214&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-07-02"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051214"
+opgehaald: 2026-09-08
 ---
+
 # Beleidsregel tandtechniek in eigen beheer
-
-Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
-
-Gelet op [artikel 59, aanhef en onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met de brief van 12 juli 2012, met [kenmerk MC-U-3122855](https://wetten.overheid.nl/jci1.3:c:BWBR0031816), ten behoeve van voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- **Tandtechniek in eigen beheer:** De tandtechnische stukken of onderdelen daarvan die door de zorgaanbieder zelf worden vervaardigd. Tandtechniek in eigen beheer ziet niet op de klinische zorg die samenhangt met het plaatsen van deze tandtechnische stukken. **Toelichting** Tandtechniek omvat werkzaamheden ten behoeve van tandtechnische werkstukken of onderdelen daarvan. Deze werkzaamheden kunnen zowel door een mondzorgaanbieder als door een tandtechnicus zelfstandig worden uitgevoerd. De zorg die gepaard gaat met het plaatsen van tandtechnische stukken wordt door de mondzorgaanbieder geleverd, voor deze zorg gelden de prestaties en tarieven zoals omschreven in de regelgeving tandheelkundige zorg, orthodontische zorg, bijzondere tandheelkunde instellingen, kaakchirurgie en Wlz-zorgaanbieders met tandartspraktijk. Zelfvervaardiging betekent vervaardiging door de zorgverlener zelf, maar kan ook betekenen dat de technieken worden vervaardigd door een tandtechnieker binnen de praktijk of binnen een bedrijf waarvan de zorgaanbieder (of zorgverlener) de eigenaar is. Als het gaat om meerdere (rechts)personen, dan is bepalend of de zorgaanbieder invloed heeft op de prijs(vorming). Dit zal doorgaans het geval zijn als deze zorgaanbieder zeggenschap heeft. Wanneer er sprake is van invloed op de prijs(vorming) door deze zeggenschap, dan gelden de maximumtarieven voor tandtechniek in eigen beheer. Zeggenschap houdt in: de mogelijkheid om op grond van feitelijke of juridische omstandigheden strategische invloed uit te oefenen op de activiteiten van een onderneming en daarmee ook op de prijsvorming. Zeggenschap kan bijvoorbeeld worden verkregen door de verwerving van participaties in het kapitaal, verwerving van vermogensbestanddelen, uit hoofde van een overeenkomst, of op enige andere wijze.
+- *Tandtechniek in eigen beheer:* De tandtechnische stukken of onderdelen daarvan die door de zorgaanbieder zelf worden vervaardigd. Tandtechniek in eigen beheer ziet niet op de klinische zorg die samenhangt met het plaatsen van deze tandtechnische stukken. *Toelichting* Tandtechniek omvat werkzaamheden ten behoeve van tandtechnische werkstukken of onderdelen daarvan. Deze werkzaamheden kunnen zowel door een mondzorgaanbieder als door een tandtechnicus zelfstandig worden uitgevoerd. De zorg die gepaard gaat met het plaatsen van tandtechnische stukken wordt door de mondzorgaanbieder geleverd, voor deze zorg gelden de prestaties en tarieven zoals omschreven in de regelgeving tandheelkundige zorg, orthodontische zorg, bijzondere tandheelkunde instellingen, kaakchirurgie en Wlz-zorgaanbieders met tandartspraktijk. Zelfvervaardiging betekent vervaardiging door de zorgverlener zelf, maar kan ook betekenen dat de technieken worden vervaardigd door een tandtechnieker binnen de praktijk of binnen een bedrijf waarvan de zorgaanbieder (of zorgverlener) de eigenaar is. Als het gaat om meerdere (rechts)personen, dan is bepalend of de zorgaanbieder invloed heeft op de prijs(vorming). Dit zal doorgaans het geval zijn als deze zorgaanbieder zeggenschap heeft. Wanneer er sprake is van invloed op de prijs(vorming) door deze zeggenschap, dan gelden de maximumtarieven voor tandtechniek in eigen beheer. Zeggenschap houdt in: de mogelijkheid om op grond van feitelijke of juridische omstandigheden strategische invloed uit te oefenen op de activiteiten van een onderneming en daarmee ook op de prijsvorming. Zeggenschap kan bijvoorbeeld worden verkregen door de verwerving van participaties in het kapitaal, verwerving van vermogensbestanddelen, uit hoofde van een overeenkomst, of op enige andere wijze.
 
-- **Zorgaanbieder:** Zorgaanbieders als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), die mondzorg leveren zoals tandartsen, tandartsspecialisten voor mondziekten en kaakchirurgen en tandartsspecialisten in de dentomaxillaire orthopaedie die bieden.
+- *Zorgaanbieder:* Zorgaanbieders als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1), die mondzorg leveren zoals tandartsen, tandartsspecialisten voor mondziekten en kaakchirurgen en tandartsspecialisten in de dentomaxillaire orthopaedie die bieden.
 
-- **Kostprijs:** De netto kosten (na aftrek van eventuele kortingen) voor inkoop van materialen en/of technieken.
+- *Kostprijs:* De netto kosten (na aftrek van eventuele kortingen) voor inkoop van materialen en/of technieken.
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -63,9 +37,13 @@ Deze beleidsregel is tevens van toepassing op tandheelkundige zorg als omschreve
 
 ##### Artikel 4. Prestaties tandtechniek in eigen beheer
 
+1. Totstandkoming prestatielijst
+
 De prestaties in deze beleidsregel zijn gebaseerd op de gangbare technieken van tandtechnische laboratoria op de vrije (ongereguleerde) markt. De prestaties tandtechniek zijn onderverdeeld in 10 hoofdgroepen.
 
 Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties.
+
+Hoofdgroep 0
 
 | Groep 0.0 | Offerte en ontwerp |
 | --- | --- |
@@ -89,14 +67,16 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q0202 | Foto/dia van studiemodellen |
 | Q0203 | Digitale behandelplanning |
 
+Hoofdgroep 1 Prothesewerkzaamheden
+
 | Groep 1.0 | Vervaardigen van modellen voor prothese werkzaamheden |
 | --- | --- |
 | Q1001 | Gipsmodel |
-|   | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel). Zoals tegenbeet, voorlopig model, voorbeeld model etc. Gipssoort: klasse 1 of 2 |
+|  | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel). Zoals tegenbeet, voorlopig model, voorbeeld model etc. Gipssoort: klasse 1 of 2 |
 | Q1002 | Stonemodel |
-|   | Stonemodel, werkmodel geschikt om werkstuk op te persen. Gipssoort: klasse 2 of 3 |
+|  | Stonemodel, werkmodel geschikt om werkstuk op te persen. Gipssoort: klasse 2 of 3 |
 | Q1003 | Superhard gipsmodel |
-|   | Superhard gipsmodel. Model waarvan tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
+|  | Superhard gipsmodel. Model waarvan tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
 | Q1004 | Digitaal model geprint |
 | Q1005 | Digitaal model gefreesd |
 | Q1006 | Scannen afdruk |
@@ -114,9 +94,9 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Groep 1.1 | Individuele lepels/beetplaten/modellen uit lepel |
 | --- | --- |
 | Q1103 | Individuele lepel microform |
-|   | Microform lepel, thermoplastische dieptreklepel voorzien van handvat of waswal |
+|  | Microform lepel, thermoplastische dieptreklepel voorzien van handvat of waswal |
 | Q1104 | Individuele lepel kunststof |
-|   | Kunststof lepel, poeder/vloeistoflepel of lichtuithardende lepel voorzien van handvat of waswal |
+|  | Kunststof lepel, poeder/vloeistoflepel of lichtuithardende lepel voorzien van handvat of waswal |
 | Q1105 | Individuele ruime, geperforeerde kunststof lepel |
 | Q1106 | Schreinmaker lepel |
 | Q1107 | Rimlock lepel |
@@ -130,7 +110,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Groep 1.2 | Beetplaten/registreren |
 | --- | --- |
 | Q1202 | Aanbrengen registratie apparatuur op beetplaat |
-|   | Het aanbrengen van registratie apparatuur op bestaande beetplaten of gerelinede lepels inclusief nieuwe waswal |
+|  | Het aanbrengen van registratie apparatuur op bestaande beetplaten of gerelinede lepels inclusief nieuwe waswal |
 | Q1225 | Relinen met was van kunststof lepel inclusief waswal |
 | Q1251 | Basisplaat voor opstelling |
 | Q1252 | Beetplaat digitaal vervaardigd |
@@ -140,7 +120,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 
 | Groep 1.3 | Opstellen |
 | --- | --- |
-|   | Bij de onderstaande verrichtingen betreft het opstellen volgens Gysi. Codes Q1340 en Q1390 inclusief de verkorte tandboog. Onder een vol cq. verkorte tandboog wordt verstaan: de edentate kaak, ongeacht het aantal opgestelde elementen. |
+|  | Bij de onderstaande verrichtingen betreft het opstellen volgens Gysi. Codes Q1340 en Q1390 inclusief de verkorte tandboog. Onder een vol cq. verkorte tandboog wordt verstaan: de edentate kaak, ongeacht het aantal opgestelde elementen. |
 | Q1320 | Opstellen partiële prothese 1 – 4 element(en) |
 | Q1330 | Opstellen partiële prothese 5 – 13 elementen |
 | Q1340 | Opstellen volledige prothese |
@@ -158,12 +138,12 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q1402 | Opstellen naar foto |
 | Q1405 | Kleur/Model var. frontelementen (per onder of boven) |
 | Q1410 | Meerprijs opstellen volgens bijzondere methode |
-|   | Extra voor opstellen volgens Flögel, Gerber, lingualised occlusion. Eenmaal in rekening te brengen. |
+|  | Extra voor opstellen volgens Flögel, Gerber, lingualised occlusion. Eenmaal in rekening te brengen. |
 | Q1420 | Immediaat per element (tot maximaal 6 elementen per kaak) |
 | Q1450 | Het productieklaar maken van het digitale bestand van de prothesebasis |
 | Q1451 | Het productieklaar maken van het digitale bestand van de gebitselementen |
 | Q1455 | Individuele modellatie (per boven of onder) |
-|   | Volledige individueel gemodelleerde prothese volgens specifieke wensen patiënt |
+|  | Volledige individueel gemodelleerde prothese volgens specifieke wensen patiënt |
 | Q1462 | Beslijpen kunststof basis |
 | Q1465 | Verwerken meegeleverde tanden per stel |
 | Q1466 | Verwerken meegeleverde kiezen per stel |
@@ -171,7 +151,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 
 | Groep 1.5 | Persen/gieten/injecteren en afwerken |
 | --- | --- |
-|   | Codes Q1540 en Q1590 inclusief de verkorte tandboog. Onder een vol cq. verkorte tandboog wordt verstaan: de edentate kaak, ongeacht het aantal opgestelde elementen. |
+|  | Codes Q1540 en Q1590 inclusief de verkorte tandboog. Onder een vol cq. verkorte tandboog wordt verstaan: de edentate kaak, ongeacht het aantal opgestelde elementen. |
 | Q1520 | Afmaken partiële prothese 1 – 4 element(en) |
 | Q1521 | Bonden van elementen per sextant |
 | Q1530 | Afmaken partiële prothese 5 – 13 elementen |
@@ -222,13 +202,13 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q1834 | Prothese reinigen |
 | Q1840 | A-lijn aanpersen |
 | Q1841 | Rand aan prothese persen |
-|   | Overzetting en rebasing, naast de codes Q1850 t/m Q1871 kan niet de code Q1810 worden gedeclareerd. |
+|  | Overzetting en rebasing, naast de codes Q1850 t/m Q1871 kan niet de code Q1810 worden gedeclareerd. |
 | Q1850 | Overzetting 1 – 4 element(en) |
 | Q1855 | Overzetting 5 – 13 elementen |
 | Q1860 | Overzetting vol |
 | Q1870 | Rebasing |
 | Q1871 | Rebasing met randcorrectie |
-|   | Rebasen van prothese welke voorheen opgeslepen front had; tevens van labiele rand voorzien |
+|  | Rebasen van prothese welke voorheen opgeslepen front had; tevens van labiele rand voorzien |
 
 | Groep 1.9 | Diversen, montage |
 | --- | --- |
@@ -238,11 +218,13 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q1908 | Gebitsbeschermer uit verschillende lagen kunststof; hard en zacht |
 | Q1909 | Ingebeten onderfront |
 | Q1911 | Repositie/stabilisatie/relaxatie splint |
-|   | Splinten (exclusief klammers): in articulator gemodelleerde, warm gepolymeriseerde transparante splint welke na het persen teruggeplaatst wordt in de articulator, ingeslepen wordt en (eventueel op duplicaatmodel) afgewerkt en op hoogglans gepolijst wordt |
+|  | Splinten (exclusief klammers): in articulator gemodelleerde, warm gepolymeriseerde transparante splint welke na het persen teruggeplaatst wordt in de articulator, ingeslepen wordt en (eventueel op duplicaatmodel) afgewerkt en op hoogglans gepolijst wordt |
 | Q1917 | Holle klos. Tarief per eenheid van 5 minuten |
 | Q1920 | Speekselkamer in prothese verwerken |
 | Q1951 | Montage slot in kunststof |
 | Q1952 | Montage stegdeel in kunststof |
+
+Hoofdgroep 2 Orthodontie
 
 | Groep 2.0 | Vervaardigen van modellen voor regulatie werkzaamheden |
 | --- | --- |
@@ -276,7 +258,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Groep 2.2 | Plaatapparatuur |
 | --- | --- |
 | Q2201 | Basisplaat |
-|   | **Meerprijzen voor:** |
+|  | Meerprijzen voor: |
 | Q2202 | Enkelarmig draaddeel |
 | Q2203 | Dubbelarmig draaddeel |
 | Q2204 | Gecompliceerde labiaalboog |
@@ -351,14 +333,16 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q2902 | Extra draaddeel per stuk |
 | Q2903 | Reparatie draaddeel Crozat |
 
+Hoofdgroep 3 Framewerkzaamheden
+
 | Groep 3.0 | Vervaardigen voor framewerkzaamheden (individuele lepels/beetplaten 1.1) |
 | --- | --- |
 | Q3001 | Gipsmodel |
-|   | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel) Zoals tegenbeet, voorlopig model, voorbeeld model, etc. Gipssoort klasse: 1 of 2 |
+|  | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel) Zoals tegenbeet, voorlopig model, voorbeeld model, etc. Gipssoort klasse: 1 of 2 |
 | Q3002 | Stonemodel |
-|   | Stonemodel, werkmodel geschikt om werkstuk op te persen. Gipssoort klasse: 2 of 3 |
+|  | Stonemodel, werkmodel geschikt om werkstuk op te persen. Gipssoort klasse: 2 of 3 |
 | Q3003 | Superhard gipsmodel |
-|   | Superhard gipsmodel. Model waarin tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
+|  | Superhard gipsmodel. Model waarin tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
 | Q3004 | Meegeleverd model trimmen |
 | Q3005 | Meegeleverd model van voet voorzien |
 | Q3022 | Duplicaatmodel (uit alginaat of gel) |
@@ -374,7 +358,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q3201 | Bovenframe |
 | Q3203 | Onderframe |
 | Q3207 | Volle plaat |
-|   | Extra handelingen: |
+|  | Extra handelingen: |
 | Q3221 | Backing frontelement |
 | Q3222 | Kauwvlak |
 | Q3223 | Dummy, massief of met venster voor kunststof |
@@ -389,7 +373,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Groep 3.4 | Diversen |
 | --- | --- |
 | Q3401 | Metalen tuber versterking |
-|   | Een gegoten metalen tuberversterking welke in de kunststof geperst wordt teneinde ter plaatse breuk te voorkomen |
+|  | Een gegoten metalen tuberversterking welke in de kunststof geperst wordt teneinde ter plaatse breuk te voorkomen |
 | Q3402 | Gegoten 3/4 anker |
 
 | Groep 3.7 | Vergulden |
@@ -414,16 +398,18 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | --- | --- |
 | Q3951 | Montage slot aan frame |
 | Q3952 | Montage stegdeel aan frame |
-|   | Q3951/Q3952 Het solderen/inlijmen van een attachment (matrix of patrix) of een stegdeel |
+|  | Q3951/Q3952 Het solderen/inlijmen van een attachment (matrix of patrix) of een stegdeel |
 | Q3953 | Montage kroon aan frame |
+
+Hoofdgroep 4 Kroon en/of brugwerkzaamheden
 
 | Groep 4.0 | Vervaardigen van modellen |
 | --- | --- |
 | Q4001 | Gipsmodel |
-|   | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel) Zoals tegenbeet, voorlopig model, voorbeeld model, etc. Gipssoort klasse: 1 of 2 |
+|  | Gipsmodel, zijnde geen werkmodel (behalve voor individuele lepel) Zoals tegenbeet, voorlopig model, voorbeeld model, etc. Gipssoort klasse: 1 of 2 |
 | Q4002 | Stonemodel, tegenmodel voor kroon- en brugwerk |
 | Q4003 | Superhard gipsmodel |
-|   | Superhard gipsmodel. Model waarin tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
+|  | Superhard gipsmodel. Model waarin tenminste de tandboog is uitgegoten in stompenmateriaal. Gipssoort: klasse 4 |
 | Q4004 | Meegeleverd model trimmen |
 | Q4005 | Meegeleverd model van voet voorzien |
 | Q4022 | Duplicaatmodel (uit alginaat of gel) |
@@ -528,6 +514,8 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q4903 | Etsen/silaniseren |
 | Q4904 | Basistarief ten behoeve van reparatie en aanpassingen |
 
+Hoofdgroep 6 Implantaten
+
 | Groep 6.0 | Vervaardigen van modellen |
 | --- | --- |
 | Q6002 | Stonemodel |
@@ -537,12 +525,12 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q6053 | Proefwasmodellatie per element (digitaal) |
 | Q6061 | Soft-tissue model (inclusief materiaal) |
 
-| Groep 6.1 |   |
+| Groep 6.1 |  |
 | --- | --- |
 | Q6113 | Kunstharslepel ten behoeve van implantaat (schoorsteenlepel) |
 | Q6115 | Richtstift ten behoeve kunststofplaat per stuk |
 | Q6116 | Verschroefbare kunststof lepel met beetwal |
-|   | Kunststof lepel met beetwal (met daarin gemonteerde implantaat onderdelen) die vastgeschroefd kan worden op implantaten |
+|  | Kunststof lepel met beetwal (met daarin gemonteerde implantaat onderdelen) die vastgeschroefd kan worden op implantaten |
 | Q6118 | Hulpdelen plaatsen in afdruk, per stuk |
 | Q6133 | Precisie duplicaatmodel |
 | Q6144 | Stonemodel uit kunststof implantaat lepel |
@@ -556,7 +544,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q6200 | Surgical guide/boorplaat |
 | Q6201 | Röntgendiagnoseplaat (inclusief kogeltjes) |
 | Q6202 | Röntgendiagnoseplaat ten behoeve van CT-scan |
-|   | Als Q6201 echter dan voorzien van 8 tot 12 metaalloze lasdraden |
+|  | Als Q6201 echter dan voorzien van 8 tot 12 metaalloze lasdraden |
 
 | Groep 6.4 | Opbouwen, suprastructuren, kronen/bruggen voor implantaten |
 | --- | --- |
@@ -582,7 +570,7 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q64621 | Steg zelf vervaardigen voor elk volgend implantaat, analoog |
 | Q6467 | Steg zelf vervaardigen per implantaat, CAM |
 | Q6468 | Steg zelf vervaardigen voor elk volgend implantaat, CAM |
-|   | Meerwerk tbv. implantaatwerkstuk: |
+|  | Meerwerk tbv. implantaatwerkstuk: |
 | Q6471 | Opaquen |
 | Q6472 | Slot ten behoeve van plaatsen implantaatkroon |
 | Q6473 | Sterilisatie |
@@ -598,7 +586,9 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q6951 | Stellen slot met behulp van parallellometer |
 | Q6952 | Monteren sloten aan impl. systeem |
 
-|   | Deze prestaties zijn slechts als deelprestatie te declareren bij digitale vervaardiging, niet in combinatie met het eindproduct |
+Hoofdgroep 8 Diverse werkzaamheden CAD
+
+|  | Deze prestaties zijn slechts als deelprestatie te declareren bij digitale vervaardiging, niet in combinatie met het eindproduct |
 | --- | --- |
 | Q8001 | Scannen ten behoeve van CAD |
 | Q8010 | Ontwerp CAD kroon |
@@ -610,32 +600,34 @@ Deze hoofdgroepen zijn te onderscheiden in de in dit artikel genoemde prestaties
 | Q8016 | Ontwerp CAD onderstructuur |
 | Q8017 | Ontwerp CAD steg |
 
+Hoofdgroep 9 Materialen
+
 Deze kunnen tegen kostprijs gedeclareerd worden
 
-| **Groep 9.0** | **Porselein frontelementen set (zes stuks)** |   |
+| Groep 9.0 | Porselein frontelementen set (zes stuks) |  |
 | --- | --- | --- |
 | Q9006 | Frontelementen | Kostprijs |
-|   |   |   |
-|   | Porseleinen kiezen set (acht stuks) |   |
+|  |  |  |
+|  | Porseleinen kiezen set (acht stuks) |  |
 | Q9058 | Kiezen | Kostprijs |
-|   |   |   |
-| **Groep 9.1** | **Porselein frontelement per stuk** |   |
+|  |  |  |
+| Groep 9.1 | Porselein frontelement per stuk |  |
 | Q9101 | Tanden | Kostprijs |
-|   |   |   |
-|   | **Porseleinen kiezen per stuk** |   |
+|  |  |  |
+|  | Porseleinen kiezen per stuk |  |
 | Q9010 | Kiezen | Kostprijs |
-|   |   |   |
-| **Groep 9.3** | **Kunststof front elementen sets (zes stuks)** |   |
+|  |  |  |
+| Groep 9.3 | Kunststof front elementen sets (zes stuks) |  |
 | Q9306 | Tanden | Kostprijs |
-|   | Kunststof kiezen sets (acht stuks) |   |
+|  | Kunststof kiezen sets (acht stuks) |  |
 | Q9358 | Kiezen | Kostprijs |
-|   |   |   |
-| **Groep 9.4** | **Kunststof front elementen per stuk** |   |
+|  |  |  |
+| Groep 9.4 | Kunststof front elementen per stuk |  |
 | Q9401 | Tanden | Kostprijs |
-|   | Kunststof kiezen per stuk |   |
+|  | Kunststof kiezen per stuk |  |
 | Q9451 | Kiezen | Kostprijs |
-|   |   |   |
-| **Groep 9.7** | **Metalen, edel/onedel** |   |
+|  |  |  |
+| Groep 9.7 | Metalen, edel/onedel |  |
 | Q9701 | Onedele legeringen | Kostprijs |
 | Q9711 | Edele legeringen Au percentage lager dan 10% | Kostprijs |
 | Q9721 | Edele legeringen Au percentages van 10% tot 25% | Kostprijs |
@@ -644,18 +636,24 @@ Deze kunnen tegen kostprijs gedeclareerd worden
 | Q9760 | Edele legeringen Au percentages van 60% tot 70% | Kostprijs |
 | Q9770 | Edele legeringen Au percentages van 70% tot 80% | Kostprijs |
 | Q9781 | Edele legeringen Au percentages boven 80% | Kostprijs |
-|   |   |   |
-| **Groep 9.8** | **CAD/CAM** |   |
+|  |  |  |
+| Groep 9.8 | CAD/CAM |  |
 | Q9801 | Materialen ten behoeve van CAD/CAM | Kostprijs |
-|   |   |   |
-| **Groep 9.9** | **Diverse materialen** |   |
+|  |  |  |
+| Groep 9.9 | Diverse materialen |  |
 | Q9901 | Diverse materialen | Kostprijs |
 
 ##### Artikel 5. Tarieven
 
+1. Tariefsoort
+
 Voor alle prestaties zoals beschreven in de hoofdgroepen 0 tot en met 8 in deze beleidsregel geldt dat de NZa maximumtarieven vaststelt.
 
+2. Totstandkoming tarieven
+
 De tarieven in de hoofdgroepen 0 tot en met 8 vormen een representatieve afspiegeling van de gehanteerde prijzen door tandtechnisch laboratoria op de vrije markt.
+
+3. Indexatie tarieven
 
 De tarieven muteren jaarlijks met het mutatiepercentage. Het mutatiepercentage van het tarief is het procentuele verschil tussen de puntwaarde tandheelkundige zorg op voorcalculatorisch niveau jaar t en de puntwaarde tandheelkundige zorg op voorcalculatorisch niveau jaar t-1. Echter, voor de tarieven in 2026 geldt een uitzondering: omdat deze tarieven niet herijkt worden met het kostprijsonderzoek mondzorg, geldt dat de prestaties alleen worden geïndexeerd conform de Beleidsregel indexering.
 
@@ -665,12 +663,18 @@ Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsrege
 
 ##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorafgaande beleidsregel
+
 De [Beleidsregel tandtechniek in eigen beheer](https://wetten.overheid.nl/jci1.3:c:BWBR0050011), met kenmerk BR/REG-25114, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
+Inwerkingtreding / Bekendmaking
+
+Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
 Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze beleidsregel in de Staatscourant worden geplaatst.
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
+
+Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel tandtechniek in eigen beheer.

@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid, van 16 april 2025, nr. 5706233, houdende de implementatie van de Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad (Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten)"
+citeertitel: "Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten"
 identifier: "BWBR0051017"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-05-10"
-last_updated: "2025-05-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051017"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17424453"
-version_id: "30721782"
-internal_id: "C44030791"
-label_id: "17327614"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051017/2025-05-10/0"
-intitule_bron: "Stcrt.2025-14538"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-04-16"
-intitule_published: "2025-05-09"
-intitule_in_force: "2025-05-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-14538"
-original_signed_date: "2025-04-16"
-original_published_date: "2025-05-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-14538"
-entry_into_force_date: "2025-05-10"
-jci_1_3: "jci1.3:c:BWBR0051017&z=2025-05-10&g=2025-05-10"
-jci_1_0: "1.0:c:BWBR0051017&g=2025-05-10"
-citeertitel_status: "officieel"
-short_title: "Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten"
-signed_date: "2025-04-16"
-entry_into_force: "2025-05-10"
+publicatiedatum: 2025-05-10
+laatste_update: 2025-05-10
+status: geldig
+toestand: 2025-05-10
+bron: "https://wetten.overheid.nl/BWBR0051017"
+opgehaald: 2026-09-08
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid, van 16 april 2025, nr. 5706233, houdende de implementatie van de Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad (Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten)
-
-Gelet op [artikelen 23, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23), en [42, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42) en [artikel 44 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=44);
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,35 +20,37 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- –. **wet:** de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
+- – *wet:* de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788)
 
-- –. **Richtlijn (EU) 2023/977:** [Richtlijn (EU) 2023/977](32023L0977) van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad;
+- – *Richtlijn (EU) 2023/977:*
+ Richtlijn (EU) 2023/977 van het Europees Parlement en de Raad van 10 mei 2023 betreffende de uitwisseling van informatie tussen de rechtshandhavingsinstanties van de lidstaten en tot intrekking van Kaderbesluit 2006/960/JBZ van de Raad;
 
-- –. **Verordening (EU) 2016/794:** [Verordening (EU) 2016/794](32016R0794) van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Agentschap van de Europese Unie voor samenwerking op het gebied van rechtshandhaving (Europol) en tot vervanging en intrekking van de Besluiten 2009/371/JBZ, 2009/934/JBZ, 2009/935/JBZ, 2009/936/JBZ en 2009/968/JBZ van de Raad (PbEU 2016, L 135);
+- – *Verordening (EU) 2016/794:*
+ Verordening (EU) 2016/794 van het Europees Parlement en de Raad van 11 mei 2016 betreffende het Agentschap van de Europese Unie voor samenwerking op het gebied van rechtshandhaving (Europol) en tot vervanging en intrekking van de Besluiten 2009/371/JBZ, 2009/934/JBZ, 2009/935/JBZ, 2009/936/JBZ en 2009/968/JBZ van de Raad (PbEU 2016, L 135);
 
-- –. **lidstaat:** lidstaat die [Richtlijn (EU) 2023/977](32023L0977) heeft geïmplementeerd;
+- – *lidstaat:* lidstaat die Richtlijn (EU) 2023/977 heeft geïmplementeerd;
 
-- –. **bevoegde rechtshandhavingsinstantie van een andere lidstaat:** een politie-, douane- of andere instantie van een andere lidstaat die krachtens het nationale recht van die lidstaat bevoegd is gezag uit te oefenen en dwangmaatregelen te nemen om strafbare feiten te voorkomen, op te sporen of te onderzoeken, dan wel een autoriteit die deel uitmaakt van gezamenlijke entiteiten die tussen twee of meer lidstaten zijn opgericht om strafbare feiten te voorkomen, op te sporen of te onderzoeken, met uitsluiting van instanties of eenheden die zich voornamelijk bezighouden met nationale veiligheidskwesties en contactambtenaren die zijn gedetacheerd op grond van artikel 47 van de Schengenuitvoeringsovereenkomst;
+- – *bevoegde rechtshandhavingsinstantie van een andere lidstaat:* een politie-, douane- of andere instantie van een andere lidstaat die krachtens het nationale recht van die lidstaat bevoegd is gezag uit te oefenen en dwangmaatregelen te nemen om strafbare feiten te voorkomen, op te sporen of te onderzoeken, dan wel een autoriteit die deel uitmaakt van gezamenlijke entiteiten die tussen twee of meer lidstaten zijn opgericht om strafbare feiten te voorkomen, op te sporen of te onderzoeken, met uitsluiting van instanties of eenheden die zich voornamelijk bezighouden met nationale veiligheidskwesties en contactambtenaren die zijn gedetacheerd op grond van artikel 47 van de Schengenuitvoeringsovereenkomst;
 
-- –. **aangewezen rechtshandhavingsinstantie van een andere lidstaat:** een bevoegde rechtshandhavingsinstantie die krachtens het nationale recht overeenkomstig artikel 4, eerste lid, van de [Richtlijn (EU) 2023/977](32023L0977) is aangewezen om verzoeken om informatie te kunnen indienen bij de centrale contactpunten van andere lidstaten;
+- – *aangewezen rechtshandhavingsinstantie van een andere lidstaat:* een bevoegde rechtshandhavingsinstantie die krachtens het nationale recht overeenkomstig artikel 4, eerste lid, van de Richtlijn (EU) 2023/977 is aangewezen om verzoeken om informatie te kunnen indienen bij de centrale contactpunten van andere lidstaten;
 
-- –. **centraal contactpunt:** het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10);
+- – *centraal contactpunt:* het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10);
 
-- –. **centraal contactpunt van een andere lidstaat:** het centraal contactpunt van een ander lidstaat dat verantwoordelijk is voor de coördinatie en facilitering van informatie-uitwisseling tussen lidstaten, bedoeld in artikel 14 van de [Richtlijn (EU) 2023/977](32023L0977);
+- – *centraal contactpunt van een andere lidstaat:* het centraal contactpunt van een ander lidstaat dat verantwoordelijk is voor de coördinatie en facilitering van informatie-uitwisseling tussen lidstaten, bedoeld in artikel 14 van de Richtlijn (EU) 2023/977;
 
-- –. **informatie:** alle inhoud betreffende een of meer natuurlijke of rechtspersonen, feiten of omstandigheden die voor bevoegde rechtshandhavingsinstanties van een andere lidstaat, de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), relevant is voor de uitoefening van hun taken met het oog op het voorkomen, opsporen of onderzoeken van strafbare feiten, met inbegrip van criminele inlichtingen;
+- – *informatie:* alle inhoud betreffende een of meer natuurlijke of rechtspersonen, feiten of omstandigheden die voor bevoegde rechtshandhavingsinstanties van een andere lidstaat, de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), relevant is voor de uitoefening van hun taken met het oog op het voorkomen, opsporen of onderzoeken van strafbare feiten, met inbegrip van criminele inlichtingen;
 
-- –. **beschikbare informatie:** direct toegankelijke informatie of indirect toegankelijke informatie;
+- – *beschikbare informatie:* direct toegankelijke informatie of indirect toegankelijke informatie;
 
-- –. **direct toegankelijke informatie:** informatie in een databank die direct toegankelijk is voor het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10), de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
+- – *direct toegankelijke informatie:* informatie in een databank die direct toegankelijk is voor het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10), de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
 
-- –. **indirect toegankelijke informatie:** informatie die het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10), de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), zonder dwangmaatregelen kan verkrijgen van andere overheidsorganen of andere instanties of personen;
+- – *indirect toegankelijke informatie:* informatie die het centraal contactpunt, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&artikel=2&z=2025-05-10&g=2025-05-10), de politie, bedoeld in [artikel 1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=1), de Koninklijke marechaussee, bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), de rijksrecherche, bedoeld in [artikel 49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=49), de bijzondere opsporingsdiensten, bedoeld in [artikel 1, onderdeel a, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=1), of de buitengewone opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), zonder dwangmaatregelen kan verkrijgen van andere overheidsorganen of andere instanties of personen;
 
-- –. **ernstig strafbaar feit:** een strafbaar feit als bedoeld in artikel 2, tweede lid, van Kaderbesluit 2002/584/JBZ van de Raad van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten – Verklaringen van sommige lidstaten bij de aanneming van het kaderbesluit (PbEU 2002, L 190) of artikel 3, eerste of tweede lid, van [Verordening (EU) 2016/794](32016R0794);
+- – *ernstig strafbaar feit:* een strafbaar feit als bedoeld in artikel 2, tweede lid, van Kaderbesluit 2002/584/JBZ van de Raad van 13 juni 2002 betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten – Verklaringen van sommige lidstaten bij de aanneming van het kaderbesluit (PbEU 2002, L 190) of artikel 3, eerste of tweede lid, van Verordening (EU) 2016/794;
 
-- –. **ambtenaar van de politie:** de ambtenaar, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), alsmede de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaak, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), en indien [artikel 46 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) wordt toegepast, de ambtenaar, werkzaam bij de in dat artikel genoemde dienst;
+- – *ambtenaar van de politie:* de ambtenaar, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2), alsmede de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaak, bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4), en indien [artikel 46 van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=46) wordt toegepast, de ambtenaar, werkzaam bij de in dat artikel genoemde dienst;
 
-- –. **internationale organisatie:** een organisatie en de daaronder ressorterende internationaalpubliekrechtelijke organen of andere organen die zijn opgericht bij of op grond van een overeenkomst tussen twee of meer landen.
+- – *internationale organisatie:* een organisatie en de daaronder ressorterende internationaalpubliekrechtelijke organen of andere organen die zijn opgericht bij of op grond van een overeenkomst tussen twee of meer landen.
 
 ### Hoofdstuk 2. Het centraal contactpunt
 
@@ -102,9 +78,9 @@ In deze regeling wordt verstaan onder:
 
 5. Het centraal contactpunt bestaat in ieder geval uit:
 
-- a. personeel van de nationale Europol-eenheid, bedoeld in artikel 7 van [Verordening (EU) 2016/794](32016R0794);
+- a. personeel van de nationale Europol-eenheid, bedoeld in artikel 7 van Verordening (EU) 2016/794;
 
-- b. personeel van het Sirene-bureau, bedoeld in artikel 7, tweede lid, van [Verordening (EU) 2018/1862](32018R1862) van het Europees Parlement en de Raad van 28 november 2018 betreffende de instelling, de werking en het gebruik van het Schengeninformatiesysteem (SIS) op het gebied van politiële en justitiële samenwerking in strafzaken, tot wijziging en intrekking van Besluit 2007/533/JBZ van de Raad en tot intrekking van [Verordening (EG) nr. 1986/2006](32006R1986) van het Europees Parlement en de Raad en Besluit 2010/261/EU van de Commissie (PbEU 2018, L 312);
+- b. personeel van het Sirene-bureau, bedoeld in artikel 7, tweede lid, van Verordening (EU) 2018/1862 van het Europees Parlement en de Raad van 28 november 2018 betreffende de instelling, de werking en het gebruik van het Schengeninformatiesysteem (SIS) op het gebied van politiële en justitiële samenwerking in strafzaken, tot wijziging en intrekking van Besluit 2007/533/JBZ van de Raad en tot intrekking van Verordening (EG) nr. 1986/2006 van het Europees Parlement en de Raad en Besluit 2010/261/EU van de Commissie (PbEU 2018, L 312);
 
 - c. personeel van het nationale centrale bureau van Interpol, bedoeld in artikel 32 van het statuut van de Internationale Criminele Politieorganisatie (Interpol); en
 
@@ -146,7 +122,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 - d. de informatie haar relevantie dreigt te verliezen als ze niet dringend wordt verstrekt en van belang wordt geacht voor het voorkomen, opsporen of onderzoeken van strafbare feiten.
 
-3. Een verzoek om informatie dat wordt ingediend bij het centraal contactpunt van een andere lidstaat wordt ingediend in het Engels of in een van de talen die is opgenomen in de lijst van de aangezochte lidstaat op grond van artikel 11 van [Richtlijn (EU) 2023/977](32023L0977).
+3. Een verzoek om informatie dat wordt ingediend bij het centraal contactpunt van een andere lidstaat wordt ingediend in het Engels of in een van de talen die is opgenomen in de lijst van de aangezochte lidstaat op grond van artikel 11 van Richtlijn (EU) 2023/977.
 
 ##### Artikel 5. Toezending kopie van verzoek aan het centraal contactpunt van de andere lidstaat
 
@@ -154,11 +130,11 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 2. De toezending, bedoeld in het eerste lid, kan achterwege blijven indien de toezending een of meer van de volgende elementen in gevaar zou brengen:
 
-- i). een lopend, zeer gevoelig onderzoek waarvoor de verwerking van informatie een passend niveau van vertrouwelijkheid vereist;
+- i) een lopend, zeer gevoelig onderzoek waarvoor de verwerking van informatie een passend niveau van vertrouwelijkheid vereist;
 
-- ii). terrorismedossiers waarbij geen sprake is van nood- of crisisbeheersingssituaties;
+- ii) terrorismedossiers waarbij geen sprake is van nood- of crisisbeheersingssituaties;
 
-- iii). de veiligheid van een persoon.
+- iii) de veiligheid van een persoon.
 
 ### Hoofdstuk 4. Afhandeling van verzoeken om informatie van andere lidstaat
 
@@ -210,7 +186,7 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 2. Het centraal contactpunt kan aan de centrale contactpunten of de bevoegde rechtshandhavingsinstanties van andere lidstaten op eigen initiatief de beschikbare informatie verstrekken, indien er objectieve redenen zijn om aan te nemen dat die informatie voor die andere lidstaten relevant kan zijn om andere strafbare feiten dan die bedoeld in het eerste lid te voorkomen, op te sporen of te onderzoeken.
 
-3. De verstrekking van de beschikbare informatie aan de andere lidstaat bedoeld in het eerste en tweede lid, vindt plaats in het Engels of in een van de andere talen die is opgenomen in de lijst die is opgesteld door die andere lidstaat, bedoeld in artikel 11, tweede lid, van [Richtlijn (EU) 2023/977](32023L0977).
+3. De verstrekking van de beschikbare informatie aan de andere lidstaat bedoeld in het eerste en tweede lid, vindt plaats in het Engels of in een van de andere talen die is opgenomen in de lijst die is opgesteld door die andere lidstaat, bedoeld in artikel 11, tweede lid, van Richtlijn (EU) 2023/977.
 
 4. Wanneer het centraal contactpunt op eigen initiatief informatie verstrekt aan de bevoegde of aangewezen rechtshandhavingsinstantie van aan een andere lidstaat, zendt het centraal contactpunt tegelijkertijd een kopie van die informatie aan het centraal contactpunt van die andere lidstaat.
 
@@ -218,13 +194,13 @@ Een verzoek om informatie wordt slechts ingediend bij het centraal contactpunt v
 
 ##### Artikel 9. Verstrekking van informatie aan Europol
 
-1. Wanneer het centraal contactpunt verzoeken om informatie verzendt of ingevolge van verzoeken van informatie of op eigen initiatief informatie verstrekt, bedoeld in [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&z=2025-05-10&g=2025-05-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=3&z=2025-05-10&g=2025-05-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=4&z=2025-05-10&g=2025-05-10), beoordeelt het centraal contactpunt per geval en met inachtneming van artikel 7, zevende lid, van [Verordening (EU) 2016/794](32016R0794) of het nodig is een kopie van het verzoek om informatie of van de verstrekte informatie toe te zenden aan Europol, voor zover de informatie waarop de communicatie betrekking heeft, strafbare feiten betreft die binnen de werkingssfeer van de in artikel 3 van [Verordening (EU) 2016/794](32016R0794) bepaalde doelstellingen van Europol vallen en in het geval dat de informatie oorspronkelijk is verkregen van een andere lidstaat of derde land, voor zover die andere lidstaat of dat derde land met de toezending aan Europol instemt.
+1. Wanneer het centraal contactpunt verzoeken om informatie verzendt of ingevolge van verzoeken van informatie of op eigen initiatief informatie verstrekt, bedoeld in [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=2&z=2025-05-10&g=2025-05-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=3&z=2025-05-10&g=2025-05-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=4&z=2025-05-10&g=2025-05-10), beoordeelt het centraal contactpunt per geval en met inachtneming van artikel 7, zevende lid, van Verordening (EU) 2016/794 of het nodig is een kopie van het verzoek om informatie of van de verstrekte informatie toe te zenden aan Europol, voor zover de informatie waarop de communicatie betrekking heeft, strafbare feiten betreft die binnen de werkingssfeer van de in artikel 3 van Verordening (EU) 2016/794 bepaalde doelstellingen van Europol vallen en in het geval dat de informatie oorspronkelijk is verkregen van een andere lidstaat of derde land, voor zover die andere lidstaat of dat derde land met de toezending aan Europol instemt.
 
-2. Wanneer het centraal contactpunt overeenkomstig artikel 7, zesde lid, onder a, van [Verordening (EU) 2016/794](32016R0794) een kopie van een verzoek om informatie of een kopie van informatie aan Europol toezendt, deelt het centraal contactpunt de doeleinden van de verwerking van de informatie en eventuele beperkingen van die verwerking op grond van artikel 19 van [Verordening (EU) 2016/794](32016R0794) naar behoren aan Europol mede.
+2. Wanneer het centraal contactpunt overeenkomstig artikel 7, zesde lid, onder a, van Verordening (EU) 2016/794 een kopie van een verzoek om informatie of een kopie van informatie aan Europol toezendt, deelt het centraal contactpunt de doeleinden van de verwerking van de informatie en eventuele beperkingen van die verwerking op grond van artikel 19 van Verordening (EU) 2016/794 naar behoren aan Europol mede.
 
 ##### Artikel 10. Veilig communicatiekanaal SIENA
 
-Dit onderdeel is nog niet inwerking getreden
+*Dit onderdeel is nog niet inwerking getreden*
 
 ##### Artikel 11. Casemanagementsysteem
 
@@ -236,10 +212,8 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 12. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=6&artikel=10&z=2025-05-10&g=2025-05-10), dat in werking treedt met ingang van 12 juni 2027.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst, met uitzondering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051017&hoofdstuk=6&artikel=10&z=2025-05-10&g=2025-05-10), dat in werking treedt met ingang van 12 juni 2027.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitwisseling van informatie tussen rechtshandhavingsinstanties van de lidstaten
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

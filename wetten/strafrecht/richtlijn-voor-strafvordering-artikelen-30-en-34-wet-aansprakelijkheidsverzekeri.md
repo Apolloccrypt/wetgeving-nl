@@ -1,35 +1,16 @@
 ---
 title: "Richtlijn voor strafvordering Artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)"
 identifier: "BWBR0050968"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-05-01"
-last_updated: "2025-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0050968"
+categorie: "Strafrecht"
 soort: "beleidsregel"
-stam_id: "17412593"
-version_id: "30701642"
-internal_id: "C44008721"
-label_id: "17315904"
-dtd_version: "2.0"
-original_entry_into_force: "2025-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0050968/2025-05-01/0"
-intitule_bron: "Stcrt.2025-13762"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-04-22"
-intitule_in_force: "2025-04-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-13762"
-original_published_date: "2025-04-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-13762"
-entry_into_force_date: "2025-05-01"
-jci_1_3: "jci1.3:c:BWBR0050968&z=2025-05-01&g=2025-05-01"
-jci_1_0: "1.0:c:BWBR0050968&g=2025-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-05-01"
+publicatiedatum: 2025-05-01
+laatste_update: 2025-05-01
+status: geldig
+toestand: 2025-05-01
+bron: "https://wetten.overheid.nl/BWBR0050968"
+opgehaald: 2026-09-08
 ---
+
 # Richtlijn voor strafvordering Artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)
 
 ### 1. Samenvatting
@@ -38,7 +19,7 @@ Deze richtlijn voor strafvordering bevat het strafbeschikkings- en strafvorderin
 
 ### 2. Achtergrond
 
-Vanaf 1 januari 2025 zijn de feitcodes A 901 a t/m A 901 d, A 903 a t/m A 903 c, A 904, A 914 a t/m A 914 d, A 917 a t/m A 917 c en A 918 afgesloten. Hierdoor kunnen deze overtredingen niet langer feitgecodeerd worden afgegaan en is de [Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050677) niet langer van toepassing op deze feiten.
+Vanaf 1 januari 2025 zijn de feitcodes A 901 a t/m A 901 d, A 903 a t/m A 903 c, A 904, A 914 a t/m A 914 d, A 917 a t/m A 917 c en A 918 afgesloten. Hierdoor kunnen deze overtredingen niet langer feitgecodeerd worden afgegaan en is de [Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050677) niet langer van toepassing op deze feiten.
 
 Voornoemde feitcodes zijn afgesloten omdat er een goed alternatief voorhanden is voor handhaving van de verzekeringsplicht. Immers voert de RDW de 100%- controle uit middels registervergelijking. De kentekenhouders van onverzekerde gekentekende voertuigen worden periodiek via deze controle opgespoord en beboet.
 
@@ -46,15 +27,25 @@ Na het afsluiten van de WAM feitcodes kan door politie, in bijzondere gevallen, 
 
 De reguliere pv’s inzake WAM-zaken worden, conform de Instructie zaken parket CVOM, ingestuurd naar en beoordeeld door Parket CVOM. De WAM feitcodes die betrekking hebben op niet-gekentekende voertuigen blijven opengesteld.
 
-**NB**feitcodes A 921, A922 (gehandicapten voertuigen met motor), A927, A928 (overige niet kentekenplichtige motorrijtuigen), A933 en A 934 (aangewezen bromfietsen) blijven opengesteld. Deze voertuigen kennen een verzekeringsplicht, maar zijn niet gekentekend en worden om die reden niet meegenomen in de 100%- controle middels registervergelijking door de RDW. Hoewel deze overtredingen feitgecodeerd kunnen worden afgedaan is er voor gekozen om deze overtredingen op te nemen in de [Richtlijn voor strafvordering WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0050678) in plaats van de [Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050677).
+*NB*feitcodes A 921, A922 (gehandicapten voertuigen met motor), A927, A928 (overige niet kentekenplichtige motorrijtuigen), A933 en A 934 (aangewezen bromfietsen) blijven opengesteld. Deze voertuigen kennen een verzekeringsplicht, maar zijn niet gekentekend en worden om die reden niet meegenomen in de 100%- controle middels registervergelijking door de RDW. Hoewel deze overtredingen feitgecodeerd kunnen worden afgedaan is er voor gekozen om deze overtredingen op te nemen in de [Richtlijn voor strafvordering WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0050678) in plaats van de [Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](https://wetten.overheid.nl/jci1.3:c:BWBR0050677).
 
 ### 3. Op te leggen of te eisen sancties
 
 De volgende straffen en maatregelen kunnen op grond van [artikel 257a, tweede lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) door de officier van justitie worden opgelegd:
 
+- – een taakstraf van ten hoogste 180 uren;
+
+- – een geldboete;
+
+- – onttrekking aan het verkeer;
+
+- – een schadevergoedingsmaatregel;
+
+- – een ontzegging van de rijbevoegdheid voor ten hoogste zes maanden.
+
 Daarnaast kunnen op grond van [artikel 257a, derde lid, Sv](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) aan de verdachte aanwijzingen worden gegeven die onder meer kunnen inhouden het doen van afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer. Nog niet alle sanctiemodaliteiten zijn in de praktijk onder de strafbeschikking gebracht. Voor de laatste stand van zaken met betrekking tot de implementatie van de sanctiemodaliteiten wordt verwezen naar de [Aanwijzing OM-strafbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0046521).
 
-Indien in deze richtlijn bij de recidiveregeling in de tabel een bepaalde gradatie van een feit “**OM-strafbeschikking of eis ter zitting**“ wordt genoemd, geldt als uitgangspunt dat een strafbeschikking wordt uitgevaardigd. Dagvaarden dient uitsluitend in die gevallen plaats te vinden waarin gelet op de voorgenomen eis het opleggen van een strafbeschikking niet mogelijk is.1Bijvoorbeeld in geval van een ontzegging van de bevoegdheid tot het besturen van motorrijtuigen (OBM) van meer dan 6 maanden (artikel 257c Sv). Dagvaarden is ook aan de orde in die gevallen waarin sprake is van één of meer in de [bijlage bij de Aanwijzing OM-strafbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0046521&bijlage=I) gestelde contra-indicaties. Bij dagvaarden vormt steeds de in deze of andere strafvorderingsrichtlijn(en) genoemde sanctie het uitgangspunt voor de eis ter zitting.
+Indien in deze richtlijn bij de recidiveregeling in de tabel een bepaalde gradatie van een feit “*OM-strafbeschikking of eis ter zitting*“ wordt genoemd, geldt als uitgangspunt dat een strafbeschikking wordt uitgevaardigd. Dagvaarden dient uitsluitend in die gevallen plaats te vinden waarin gelet op de voorgenomen eis het opleggen van een strafbeschikking niet mogelijk is.1Bijvoorbeeld in geval van een ontzegging van de bevoegdheid tot het besturen van motorrijtuigen (OBM) van meer dan 6 maanden (artikel 257c Sv). Dagvaarden is ook aan de orde in die gevallen waarin sprake is van één of meer in de [bijlage bij de Aanwijzing OM-strafbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0046521&bijlage=I) gestelde contra-indicaties. Bij dagvaarden vormt steeds de in deze of andere strafvorderingsrichtlijn(en) genoemde sanctie het uitgangspunt voor de eis ter zitting.
 
 ### 3.1. Afwijking van de in deze richtlijn aangegeven sancties
 
@@ -62,7 +53,7 @@ De officier van justitie mag, binnen de wettelijke strafmaxima, afwijken van de 
 
 De officier van justitie kan een verdachte direct dagvaarden indien er twee of meer openstaande zaken op naam van verdachte staan geregistreerd waarin een strafbeschikking kan worden opgelegd en/of verdachte twee of meer niet onherroepelijke strafbeschikkingen op zijn naam heeft staan. Uitgangspunt in die gevallen is dat voor een nieuw feit geen politie- of OM-strafbeschikking wordt opgelegd.
 
-**NB** In zaken waarin een strafbeschikking is uitgevaardigd doch waartegen verdachte verzet heeft ingesteld, is de officier van justitie bij zijn eis op zitting niet gebonden aan de geldboete die bij de initiële strafbeschikking is opgelegd. De officier kan bijvoorbeeld een taakstraf opleggen wanneer verdachte aanvoert niet in staat te zijn om een geldboete te voldoen. Wanneer verdachte geen grieven formuleert in het verzetschrift en dat ook op zitting niet doet, kan dat aanleiding zijn een hogere straf te vorderen. Verder geldt dat in het geval al een gedeeltelijke betaling heeft plaatsgevonden deze in de uitvoering door het CJIB in mindering wordt gebracht bij de executie van de door de rechter opgelegde straf. De officier dient het reeds voldane bedrag dus niet te verdisconteren in de eis.
+*NB* In zaken waarin een strafbeschikking is uitgevaardigd doch waartegen verdachte verzet heeft ingesteld, is de officier van justitie bij zijn eis op zitting niet gebonden aan de geldboete die bij de initiële strafbeschikking is opgelegd. De officier kan bijvoorbeeld een taakstraf opleggen wanneer verdachte aanvoert niet in staat te zijn om een geldboete te voldoen. Wanneer verdachte geen grieven formuleert in het verzetschrift en dat ook op zitting niet doet, kan dat aanleiding zijn een hogere straf te vorderen. Verder geldt dat in het geval al een gedeeltelijke betaling heeft plaatsgevonden deze in de uitvoering door het CJIB in mindering wordt gebracht bij de executie van de door de rechter opgelegde straf. De officier dient het reeds voldane bedrag dus niet te verdisconteren in de eis.
 
 ### 3.2. Minderjarigen
 
@@ -78,13 +69,25 @@ Bij cumulatie van overtredingen in één dossier of bij gezamenlijke behandeling
 
 Ook indien sprake is van beslag kan in de in deze richtlijn beschreven gevallen een OM-strafbeschikking worden uitgevaardigd.
 
-### 5. Recidiveregeling voor overtreding [WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415)
+### 5. Recidiveregeling voor overtreding WAM
 
-Van recidive is sprake indien de overtreding wordt begaan **binnen twee jaar** na afdoening2Afdoening houdt in: een onherroepelijke strafbeschikking of een onherroepelijk vonnis. van de vorige strafrechtelijke overtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) en/of [artikel 34 WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=34). Door het OM wordt via raadpleging van het Justitieel Documentatie Systeem (JDS) vastgesteld of sprake is van recidive.
+Van recidive is sprake indien de overtreding wordt begaan *binnen twee jaar* na afdoening2Afdoening houdt in: een onherroepelijke strafbeschikking of een onherroepelijk vonnis. van de vorige strafrechtelijke overtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) en/of [artikel 34 WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=34). Door het OM wordt via raadpleging van het Justitieel Documentatie Systeem (JDS) vastgesteld of sprake is van recidive.
 
-### 5.1. Recidiveregeling overtredingen [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) en [34 Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=34) (WAM)
+### 5.1. Recidiveregeling overtredingen artikelen 30 en 34 Wet aansprakelijkheidsverzekering motorrijtuigen (WAM)
 
 De recidiveregeling t.a.v. de overtredingen van [artikel 30 WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30) en [artikel 34 WAM](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=34) luidt als volgt:
+
+| Recidiveregeling artikelen 30 (uitgezonderd lid 2) en 34 WAM |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Motorrijtuigen ex. bromfiets Art. 30 lid 1, art. 30 lid 4, art 34 lid 3 | Bromfietsen (incl. aangewezen bromfietsen), Art. 30 lid 1, art. 30 lid 4, art. 34 lid 3. | Gehandicaptenvoertuigen met motor, art 30 lid 1, art 30 lid 4 | Overige niet kentekenplichtige motorrijtuigen, art 30 lid 1, art. 30 lid 4 |
+| Eerste overtreding Meerderjarigen | OM-strafbeschikking: € 700 | OM-strafbeschikking: € 500 | OM strafbeschikking € 500 | OM strafbeschikking Categorie 1 en 8: 700 Categorie 6: € 500 |
+| Eerste overtredingMinderjarigen van16 tot 18 jaar | Minderjarige OM-strafbeschikking: € 525 | Minderjarige OM-strafbeschikking: € 375 | Minderjarige OM-strafbeschikking € 375 | Minderjarige OM-strafbeschikking Categorie 1 en 8: 525 Categorie 6: € 375 |
+| Eerste overtredingMinderjarigen van 12 tot 16 jaar | Minderjarige OM-strafbeschikking: € 350 | Minderjarige OM-strafbeschikking: € 250 | Minderjarige OM-strafbeschikking € 250 | Minderjarige OM-strafbeschikking Categorie 1 en 8: 350 Categorie 6: € 250 |
+| Tweede overtreding Meerderjarigen | OM-strafbeschikking of eis ter zitting: geldboete € 800,– en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | OM-strafbeschikking of eis ter zitting: geldboete € 600,– en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | OM-strafbeschikking of eis ter zitting: geldboete € 600,– en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Categorie 1 en 8: OM-strafbeschikking of eis ter zitting: geldboete € 800,– en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk Categorie 6: OM-strafbeschikking of eis ter zitting: geldboete € 600,– en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk |
+| Tweede overtreding Minderjarigen van 16 tot 18 jaar | Eis ter zitting geldboete € 575 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Eis ter zitting geldboete € 425 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Eis ter zitting geldboete € 425 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Categorie 1 en 8: Eis ter zitting geldboete € 575 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk Categorie 6: Eis ter zitting geldboete € 425 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk |
+| Tweede overtreding Minderjarigen van 12 tot 16 jaar | Eis ter zitting geldboete € 380,– en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Eis ter zitting geldboete € 260,– en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Eis ter zitting geldboete € 260,– en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk | Categorie 1 en 8: Eis ter zitting geldboete € 380 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk Categorie 6: Eis ter zitting geldboete € 260 en 2 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk |
+| Derde overtreding Meerderjarigen | Eis ter zitting: 2 weken hechtenis onvoorwaardelijk1 en 6 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig | Eis ter zitting: 10 dagen hechtenis onvoorwaardelijk en 6 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig | Eis ter zitting: 10 dagen hechtenis onvoorwaardelijk en 6 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig | Categorie 1 en 8: Eis ter zitting: 2 weken hechtenis onvoorwaardelijk2 en 6 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig Categorie 6: Eis ter zitting: 10 dagen hechtenis onvoorwaardelijk en 6 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig |
+| Derde overtreding Minderjarigen van 12 tot 18 jaar | Eis ter zitting: Taakstraf (werkstraf) 24 uur en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voer.tuig | Eis ter zitting: Taakstraf (werkstraf) 20 uur en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig | Eis ter zitting: Taakstraf (werkstraf) 20 uur en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig | Categorie 1 en 8: Eis ter zitting: Taakstraf (werkstraf) 24 uur en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig Categorie 6: Eis ter zitting: Taakstraf (werkstraf) 20 uur en 4 maanden ontzegging van de rijbevoegdheid onvoorwaardelijk; eventueel verbeurdverklaring van het inbeslaggenomen voertuig |
 
 1 Hechtenis kan in geval van een overtreding door een minderjarige als hoofdstraf niet worden geëist; dit volgt uit art. 77h lid 1 onder b WvSr.
 
